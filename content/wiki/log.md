@@ -7990,3 +7990,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries
+
+Added source page for an All-In liquidity-summit episode with Brad Gerstner, Gavin Baker, and Kelly Rodriques on private-company secondaries, employee liquidity, VC DPI pressure, public versus private market discipline, Forge/Schwab access infrastructure, retail private-market risk, and late-stage AI/space valuation discipline. Created pages for Brad Gerstner, Gavin Baker, Atreides Management, Kelly Rodriques, Forge Global, Private-Company Secondaries, Regulated SPV Private-Market Access, Retail Private-Market Access, Venture DPI Liquidity Pressure, Public-Private Market Discipline, and Late-Stage Private-Company Valuation Risk; updated overview, index, All-In, Altimeter Capital, Charles Schwab, SpaceX, Anthropic, OpenAI, Anduril, AI IPO Valuation, Employee Stock Option Liquidity Risk, Paper Wealth Vs Cash Value, Equity Compensation Upside, Public Company Transition, Private-Market Bubble Opacity, Tech Bubble Conditions, Investment Liquidity Tradeoff, and Fund Redemption Liquidity Pressure. No direct contradiction found; the source qualifies earlier AI IPO and employee-equity pages by showing that liquidity and valuation risk can transfer through secondaries before public listing, and that democratized access only works when fees, lockups, valuation marks, and insider exit incentives are explicit.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

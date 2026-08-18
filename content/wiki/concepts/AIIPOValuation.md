@@ -2,13 +2,15 @@
 title: "AI IPO Valuation"
 type: concept
 tags: [ai, investing, valuation]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+sources: [all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
 last_updated: 2026-08-18
 ---
 
 # AI IPO Valuation
 
 [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds a direct forecast split. Sacks and Jason expect a strong IPO year, with Jason naming companies such as [[SpaceX]], [[Anthropic]], and [[OpenAI]] as possible filers, while Chamath predicts SpaceX will avoid an IPO and reverse merge into [[Tesla]] instead.
+
+[[all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170]] adds a pre-IPO transfer channel. The source argues that [[PrivateCompanySecondaries]] already let employees, VCs, and LPs sell exposure in hot private companies, so valuation risk can move to new buyers before a public listing. It also distinguishes real businesses such as [[SpaceX]], [[Anthropic]], and [[OpenAI]] from 1999-style weak-company speculation while warning that real companies can still be overpriced.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds a near-term narrative-reset version through [[OpenAI]] and [[Anthropic]]. [[DavidWeng|大卫翁]] argues that their listing progress could shape the next one-to-two-year AI story because public-market disclosure would reveal how much revenue and margin belong to already-priced coding/office substitution versus less certain broad labor replacement.
 
@@ -42,6 +44,7 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - The January 23 source adds that IPOs can broaden who funds capital-intensive AI ventures, but that broader access does not remove the need to evaluate cash burn, technical uncertainty, and exit incentives.
 - The January 30 source adds that a limited pure-play IPO wave can keep the bubble score below maximum while leaving other investable channels, such as public mega-caps and infrastructure debt, exposed.
 - The All-In prediction source adds that IPO timing itself can be contested by alternative transaction structures such as a reverse merger, especially around [[SpaceX]] and [[Tesla]].
+- The All-In secondaries source adds that private-market access can distribute valuation risk before IPO, especially through SPVs, fund products, and secondary sales by employees or venture managers.
 
 ## Connections
 - [[AILaborSubstitutionValuationBoundary]], [[AIRevenueLegibility]], and [[AICapexReturnWindow]] - episode 172's disclosure and valuation-test branch.
@@ -57,3 +60,4 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - [[PublicCompanyTransition]], [[PublicMarketCommunication]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] - credibility, disclosure, and capital-intensive space-data-center context added by the January 23 Marketplace Tech source.
 - [[DavidKirsch]], [[TechBubbleConditions]], [[AIInfrastructureDebtFinancing]], and [[AIEquityValuationRisk]] - pure-play IPO qualification added by the January 30 Marketplace Tech source.
 - [[IPDealStructureSubstitution]], [[Tesla]], [[XAI|xAI]], [[MistralAI|Mistral AI]], and [[Perplexity]] - All-In's deal-structure and AI-company transaction branch.
+- [[PrivateCompanySecondaries]], [[RetailPrivateMarketAccess]], [[VentureDPILiquidityPressure]], and [[LateStagePrivateCompanyValuationRisk]] - pre-IPO transfer channel added by the All-In secondaries source.

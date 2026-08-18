@@ -2,13 +2,15 @@
 title: "Investment Liquidity Tradeoff"
 type: concept
 tags: [investing, liquidity, behavior, personal-finance]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-18
 ---
 
 # Investment Liquidity Tradeoff
 
 [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds a deeper private-credit version. The source argues that [[PrivateCreditMarket|private credit]] can look stable because marks are infrequent and liquidity is restricted, but that stability must be tested against [[PaymentInKindInterest|PIK]], refinancing windows, collateral opacity, fund redemption terms, and whether insurer or wealth-management investors can actually absorb delayed losses.
+
+[[all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170]] adds the private-equity access version. [[PrivateCompanySecondaries]] increase liquidity for employees, VCs, and eventually retail products, but the episode warns that more liquidity can also make investors chase hot private names before they understand fees, marks, transfer limits, and drawdown risk.
 
 Investment liquidity tradeoff is the idea from [[vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]] that liquidity is valuable but not always maximized. Liquidity means how quickly and reliably an asset can become usable money, yet the episode argues that too much liquidity can make long-term investing harder when it enables impulsive selling, redeployment, or short-term comparison.
 
@@ -39,6 +41,7 @@ The episode gives three management routes. One is to buy products that lock liqu
 - Episode 135 adds that cash-like liquidity can be lost by premature execution even when the broad allocation idea remains reasonable.
 - Episode 136 adds that bank wealth-management liquidity must be tested against underlying asset maturity, not only the product's displayed term or smooth return path.
 - Episode 151 adds that private-credit liquidity must also be tested against PIK use, refinancing windows, asset-backed collateral quality, insurer balance-sheet channels, and AI data-center project debt.
+- The All-In secondaries episode adds that new private-market liquidity can be positive for sellers while simultaneously increasing behavioral risk for buyers who mistake access for suitability.
 
 ## Connections
 - [[PrivateCreditMarket]], [[PaymentInKindInterest]], [[AssetBasedFinance]], [[AIDataCenterPrivateCreditFinancing]], and [[RatedNoteFeeders]] - episode 151's deeper private-credit liquidity and funding-channel extension.
@@ -53,3 +56,4 @@ The episode gives three management routes. One is to buy products that lock liqu
 - [[PrivateCreditTailRisk]], [[FundRedemptionLiquidityPressure]], and [[FatTailRisk]] — episode 133's low-volatility credit-product extension.
 - [[InvestmentPlanExecutionDiscipline]], [[OneToOneToOneAllocation]], [[USTreasury]], and [[HongKongIPOLiquidityPath]] — episode 135's cash reserve and dry-powder extension.
 - [[ChineseBankWealthManagement]], [[WealthManagementFundPoolRisk]], [[AssetManagementNewRules]], and [[BankWealthProductSuitability]] — episode 136's bank wealth-management liquidity extension.
+- [[PrivateCompanySecondaries]], [[RetailPrivateMarketAccess]], and [[RegulatedSPVPrivateMarketAccess]] - private-market liquidity extension from All-In.

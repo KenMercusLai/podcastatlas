@@ -2,8 +2,8 @@
 title: "Fund Redemption Liquidity Pressure / 基金赎回流动性压力"
 type: concept
 tags: [investing, funds, liquidity, behavior]
-sources: [166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170, 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
+last_updated: 2026-08-18
 ---
 
 # Fund Redemption Liquidity Pressure / 基金赎回流动性压力
@@ -14,6 +14,8 @@ Fund redemption liquidity pressure is the investment paradox in [[vol-126-gongmu
 
 The mechanism connects [[InvestmentLiquidityTradeoff]] to fund-level liability management. If many investors redeem when NAV returns to 1, after a small profit, or after a long drawdown, the manager may need to keep more cash or sell preferred holdings to meet T+1 redemption pressure. Holding-period products tried to reduce this pressure, but the source says bear markets and weak manager narrative shifts made many investors less willing to accept lockups.
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170]] adds a private-fund cousin through [[VentureDPILiquidityPressure]]. LPs in venture funds may not redeem like open-ended fundholders, but they still pressure managers for cash distributions when IPO and M&A exits are delayed. Secondaries therefore become a fund-liability valve rather than only a market-timing trade.
+
 ## Key Claims
 - Open-ended fund liquidity is valuable to investors, but it can shorten the effective capital duration available to the manager.
 - Redemption pressure can create cash drag when managers reserve liquidity instead of fully expressing their best ideas.
@@ -21,6 +23,7 @@ The mechanism connects [[InvestmentLiquidityTradeoff]] to fund-level liability m
 - Holding-period products can improve [[FundLiabilityMatching]], but only when the holder trusts the product, manager, and market narrative enough to accept reduced liquidity.
 - A long-term active fund needs not only investment skill but also holder education, expectation management, and channel behavior that support the strategy's time horizon.
 - Episode 166 adds that ordinary investors who manage only their own money may have a [[PersonalCapitalDurationAdvantage]] because they do not have to sell simply to meet other holders' redemptions.
+- The All-In secondaries episode adds that closed-end venture funds can still face liquidity pressure through LP demand for DPI and fund-life discipline.
 
 ## Connections
 - [[PublicMutualFundEcosystem]] and [[FundInvestorReturnGap]] - broader ecosystem and realized-return consequence.
@@ -28,3 +31,4 @@ The mechanism connects [[InvestmentLiquidityTradeoff]] to fund-level liability m
 - [[PortfolioSuitability]], [[DrawdownPsychology]], and [[BehavioralInvestingBiases]] - investor-side reasons redemptions arrive at difficult times.
 - [[FOFProductDesign]] and [[TargetDateFund|目标日期基金]] - product-design routes that can align liability duration and portfolio path.
 - [[InstitutionalInvestorProcessDiscipline]] and [[InvestmentBehaviorCoaching]] - process and communication tools for reducing redemption-driven behavior.
+- [[VentureDPILiquidityPressure]], [[PrivateCompanySecondaries]], and [[PaperWealthVsCashValue]] - venture-fund liquidity extension.

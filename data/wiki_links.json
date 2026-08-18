@@ -4691,6 +4691,10 @@
     "title": "Atour / 亚朵",
     "url": "/wiki/entities/atour/"
   },
+  "AtreidesManagement": {
+    "title": "Atreides Management",
+    "url": "/wiki/entities/atreidesmanagement/"
+  },
   "Atrium": {
     "title": "Atrium",
     "url": "/wiki/entities/atrium/"
@@ -6310,6 +6314,10 @@
   "BoyuCapital": {
     "title": "Boyu Capital / 博裕资本",
     "url": "/wiki/entities/boyucapital/"
+  },
+  "BradGerstner": {
+    "title": "Brad Gerstner",
+    "url": "/wiki/entities/bradgerstner/"
   },
   "BradReese": {
     "title": "Brad Reese",
@@ -14815,6 +14823,10 @@
     "title": "Forever Bicycle / 永久自行车",
     "url": "/wiki/entities/foreverbicycle/"
   },
+  "ForgeGlobal": {
+    "title": "Forge Global",
+    "url": "/wiki/entities/forgeglobal/"
+  },
   "ForgettingAsCognitiveFunction": {
     "title": "Forgetting As Cognitive Function / 遗忘作为认知功能",
     "url": "/wiki/concepts/forgettingascognitivefunction/"
@@ -15790,6 +15802,10 @@
   "GauravSukhatme": {
     "title": "Gaurav Sukhatme",
     "url": "/wiki/entities/gauravsukhatme/"
+  },
+  "GavinBaker": {
+    "title": "Gavin Baker",
+    "url": "/wiki/entities/gavinbaker/"
   },
   "GavinNewsom": {
     "title": "Gavin Newsom",
@@ -21451,6 +21467,10 @@
     "title": "Kelly Criterion",
     "url": "/wiki/concepts/kellycriterion/"
   },
+  "KellyRodriques": {
+    "title": "Kelly Rodriques",
+    "url": "/wiki/entities/kellyrodriques/"
+  },
   "KelunBiotech": {
     "title": "Kelun-Biotech / 科伦博泰",
     "url": "/wiki/entities/kelunbiotech/"
@@ -22158,6 +22178,10 @@
   "LateRomanRepublicCrisis": {
     "title": "Late Roman Republic Crisis / 罗马共和国晚期危机",
     "url": "/wiki/concepts/lateromanrepubliccrisis/"
+  },
+  "LateStagePrivateCompanyValuationRisk": {
+    "title": "Late-Stage Private-Company Valuation Risk",
+    "url": "/wiki/concepts/latestageprivatecompanyvaluationrisk/"
   },
   "LateTalk": {
     "title": "LateTalk",
@@ -30391,6 +30415,10 @@
     "title": "Private Airline Failure Modes",
     "url": "/wiki/concepts/privateairlinefailuremodes/"
   },
+  "PrivateCompanySecondaries": {
+    "title": "Private-Company Secondaries",
+    "url": "/wiki/concepts/privatecompanysecondaries/"
+  },
   "PrivateCreditMarket": {
     "title": "Private Credit Market / 私募信贷市场",
     "url": "/wiki/concepts/privatecreditmarket/"
@@ -30858,6 +30886,10 @@
   "PublicOpinionLitigationStrategy": {
     "title": "Public Opinion Litigation Strategy",
     "url": "/wiki/concepts/publicopinionlitigationstrategy/"
+  },
+  "PublicPrivateMarketDiscipline": {
+    "title": "Public-Private Market Discipline",
+    "url": "/wiki/concepts/publicprivatemarketdiscipline/"
   },
   "PublicRelevanceAlgorithms": {
     "title": "Public Relevance Algorithms / 公共相关性的算法",
@@ -31791,6 +31823,10 @@
     "title": "Regulated Fintech Capital Pressure",
     "url": "/wiki/concepts/regulatedfintechcapitalpressure/"
   },
+  "RegulatedSPVPrivateMarketAccess": {
+    "title": "Regulated SPV Private-Market Access",
+    "url": "/wiki/concepts/regulatedspvprivatemarketaccess/"
+  },
   "RegulatedWorkflowWedge": {
     "title": "Regulated Workflow Wedge",
     "url": "/wiki/concepts/regulatedworkflowwedge/"
@@ -32106,6 +32142,10 @@
   "RetailInvestorCrowding": {
     "title": "Retail Investor Crowding",
     "url": "/wiki/concepts/retailinvestorcrowding/"
+  },
+  "RetailPrivateMarketAccess": {
+    "title": "Retail Private-Market Access",
+    "url": "/wiki/concepts/retailprivatemarketaccess/"
   },
   "RetailShareholderTenderMobilization": {
     "title": "Retail Shareholder Tender Mobilization / 散户要约动员",
@@ -39299,6 +39339,10 @@
     "title": "Venezuelan Supreme Court",
     "url": "/wiki/entities/venezuelansupremecourt/"
   },
+  "VentureDPILiquidityPressure": {
+    "title": "Venture DPI Liquidity Pressure",
+    "url": "/wiki/concepts/venturedpiliquiditypressure/"
+  },
   "VentureDebtOperationalRisk": {
     "title": "Venture Debt Operational Risk",
     "url": "/wiki/concepts/venturedebtoperationalrisk/"
@@ -42754,6 +42798,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955": {
     "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170": {
+    "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140": {
     "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",

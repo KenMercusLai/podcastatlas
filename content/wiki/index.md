@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries](sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170.md) — All-In liquidity-summit episode on private-company secondaries, employee liquidity, VC DPI pressure, Forge/Schwab access infrastructure, retail private-market risk, and late-stage AI/space valuation discipline.
 - [The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026](sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920.md) — All-In Davos CEO sequence on Circle/USDC stablecoins, CrowdStrike AI cyber defense, Archer eVTOL certification and defense aviation, and Crusoe energy-first AI infrastructure.
 - [Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition](sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955.md) — All-In discussion with David Sacks and Michael Kratsios, moderated by Maria Bartiromo, on U.S. AI strategy across infrastructure, power, federal/state regulation, AI for science, China competition, exports, and political-bias risk.
 - [EP 28: The AI Revolution: Redefining Healthcare Financing](sources/ep-28-the-ai-revolution-redefining-healthcare-financing.md) — Data Science With Sam episode with Sharmin of Livora on independent healthcare clinic financing, AI-enabled loan document analysis, lender matching, non-bank lending, women-owned clinic capital gaps, borrower readiness, and consent-based data sharing.
@@ -998,6 +999,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Brad Gerstner](entities/BradGerstner.md) — Altimeter Capital investor voice in the All-In secondaries episode, arguing for private-market sell discipline, DPI, and retail FOMO caution.
+- [Gavin Baker](entities/GavinBaker.md) — Atreides Management investor voice in the All-In secondaries episode, contrasting public-market discipline with access-driven private-market incentives.
+- [Atreides Management](entities/AtreidesManagement.md) — Investment-firm context for Gavin Baker's public/private-market discipline comments in the All-In secondaries episode.
+- [Kelly Rodriques](entities/KellyRodriques.md) — Forge Global CEO explaining regulated SPVs, Forge/Schwab infrastructure, and democratized but risk-aware private-market access.
+- [Forge Global](entities/ForgeGlobal.md) — Private-market platform framed by All-In as infrastructure for permissioned secondaries, SPVs, and broader private-company exposure.
 - [Circle](entities/Circle.md) — Stablecoin issuer behind USDC, presented by All-In as a regulated bridge between open blockchain networks and mainstream financial trust.
 - [USDC](entities/USDC.md) — Circle stablecoin network discussed as regulated digital-dollar infrastructure for payments, remittances, prediction markets, and on-chain credit.
 - [GENIUS Act](entities/GENIUSAct.md) — Stablecoin law context in the All-In source, limiting direct issuer interest while allowing platform rewards and compliance-based competition.
@@ -6766,6 +6772,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Private-Company Secondaries](concepts/PrivateCompanySecondaries.md) — Private-share and fund-interest resale market treated by All-In as a third exit channel beside IPOs and M&A.
+- [Regulated SPV Private-Market Access](concepts/RegulatedSPVPrivateMarketAccess.md) — Productized access route where SPVs, platform controls, and large broker distribution make private shares more investable but not public-stock-like.
+- [Retail Private-Market Access](concepts/RetailPrivateMarketAccess.md) — Democratization frame for ordinary investors buying private-company exposure, bounded by fee, lockup, valuation, and FOMO risk.
+- [Venture DPI Liquidity Pressure](concepts/VentureDPILiquidityPressure.md) — Venture-fund pressure to return cash distributions through partial secondary sales when IPO and M&A exits lag.
+- [Public-Private Market Discipline](concepts/PublicPrivateMarketDiscipline.md) — Governance contrast between public-market scrutiny and private-market access incentives.
+- [Late-Stage Private-Company Valuation Risk](concepts/LateStagePrivateCompanyValuationRisk.md) — Risk that real, high-growth private companies can still be poor purchases at scarcity-driven secondary prices.
 - [Prompt-Only Autonomous Malware](concepts/PromptOnlyAutonomousMalware.md) — CrowdStrike threat pattern where malware interacts with an LLM and varies its fingerprint across runs.
 - [AI Detection And Response](concepts/AIDetectionAndResponse.md) — CrowdStrike category for defending AI-enabled workplaces across agents, browsers, identities, sessions, and delegated authority.
 - [eVTOL Certification Ramp](concepts/EVTOLCertificationRamp.md) — Staged commercialization path where electric air taxis must earn certification, public trust, safety proof, and air-traffic readiness.
