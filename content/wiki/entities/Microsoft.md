@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # Microsoft
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] reinforces Microsoft as an AI data-center social-license case. [[DavidSacks|David Sacks]] cites Microsoft as pledging that its data centers will not raise residential electricity rates, making the company part of the [[DataCenterCostShifting]], [[DataCenterPowerBottleneck]], and [[DataCenterOnsitePower]] branch as well as the Copilot and cloud platform branch.
+
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds Microsoft through [[SatyaNadella|Satya Nadella]]'s Davos strategy account. The source frames Microsoft as an AI platform company whose value comes from [[MicrosoftCopilot|Copilot]] and [[GitHubCopilot|GitHub Copilot]] work surfaces, [[Agent365|Agent 365]] identity, [[Azure]] token infrastructure, [[MicrosoftFoundry|Microsoft Foundry]] orchestration, and [[Windows]] local AI through [[PhiSilica|Phi Silica]].
 
 [[ep-11-growing-technology-footprints-in-insurance-sector]] adds Microsoft as part of insurance workplace infrastructure. [[NickBlamer]] previously worked at Microsoft, and the episode discusses how [[MicrosoftExcel|Excel]], Microsoft Office AI features, and Microsoft Power tools can sit inside [[InsuranceTechnologyModernization]] when spreadsheet logic, AI assistance, and enterprise integrations are governed.
@@ -68,6 +70,7 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[GarryTan]], [[YCombinator]], and [[LargeCompanyOrganizationalInertia]] — early-career builder contrast added by The Social Radars.
 - [[AltosComputer]], [[RonConway]], and [[SelfDisruptionDiscipline]] — early microcomputer software context added by the Conway episode.
 - [[YinWu]], [[EchoLocker]], [[Prim]], [[Pulley]], and [[SecondTimeFounderOperatingJudgment]] — mobile acquisition and repeat-founder context added by the Yin Wu episode.
+- [[DataCenterCostShifting]], [[DataCenterOnsitePower]], and [[AmericanAIStackStrategy]] - January 23 All-In branch on data-center ratepayer protection and infrastructure strategy.
 - [[OpenAI]], [[SamAltman]], [[EmmettShear]], and [[OpenAIBoardCrisis]] - crisis fallback context added by The Social Radars.
 - [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[StrategicFocusUnderIncumbentPressure]] - file-sync and productivity-suite pressure added by The Social Radars.
 - [[AIPCMemoryDemand]], [[NeuralProcessingUnits]], and [[MemoryChipShortage]] - Copilot Plus PC memory-spec context added by Marketplace Tech.

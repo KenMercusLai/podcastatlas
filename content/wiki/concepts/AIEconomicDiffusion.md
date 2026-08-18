@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # AI Economic Diffusion
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the pro-usage infrastructure defense. [[DavidSacks|David Sacks]] argues that current AI data centers are being used immediately because token demand is rising through chatbots, coding assistants, and knowledge-worker tools, while also expecting AI to spread into healthcare, spreadsheets, presentations, websites, files, email, and personal assistant workflows.
+
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds [[SatyaNadella|Satya Nadella]]'s platform and public-sector version. Nadella says AI only creates value through intense use across healthcare, financial services, large and small businesses, governments, and countries; the source therefore extends diffusion from firm workflow redesign into [[AIPlatformEcosystemDiffusion]].
 
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds [[JackClark]]'s sharper labor-capacity forecast. Clark predicts that by April 2027, AI systems may be able to complete tasks that would take a person roughly 150 hours, including research, circuit design, source synthesis, and software building. The source therefore pushes the diffusion question beyond firm workflow redesign into [[AIAutomationRedistribution]]: who captures the gains if long knowledge tasks become machine-executable?
@@ -40,6 +42,7 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - The LateTalk source adds that diffusion can happen through several channels at once: official coding agents, Slack agents, recorded workflows, open-model post-training, and real-time voice interfaces.
 - Clark's Planet Money forecast adds that diffusion can become a public-finance question if AI systems substitute for large blocks of high-skill knowledge work.
 - Nadella's All-In source adds that diffusion is also a global platform question: a stack can create value when local firms, workers, governments, and sectors build on top of it rather than only when the original vendor captures revenue.
+- The January 23 All-In source adds that visible token demand and coding-tool adoption are used as evidence that AI infrastructure spending is already tied to real workloads rather than dormant capacity alone.
 
 ## Connections
 - [[TechnologyInstallationCycle]] — broader technology-cycle frame.
@@ -54,3 +57,4 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[ChristopherMims]], [[BusinessLedAITransformation]], and [[AIWorkflowTriage]] - workplace adoption and productivity-perception branch added by Marketplace Tech.
 - [[PriyaRathod]], [[WorkplaceAIReadinessGap]], [[ManagerialAIFluencyGap]], and [[AIJobSecurityAnxiety]] - workplace readiness and incentive branch added by Marketplace Tech.
 - [[SatyaNadella|Satya Nadella]], [[Microsoft]], [[Azure]], and [[AIPlatformEcosystemDiffusion]] - platform and public-sector diffusion branch added by All-In.
+- [[DavidSacks|David Sacks]], [[Anthropic]], [[Claude]], [[AgenticWorkflow]], and [[DataCenterPowerBottleneck]] - usage and infrastructure branch added by the January 23 All-In episode.

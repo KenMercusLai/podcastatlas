@@ -2,11 +2,13 @@
 title: "Domestic AI Chip Catch-Up"
 type: concept
 tags: [ai, semiconductors, china, industrial-policy, hardware]
-sources: [ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+sources: [all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-07
 ---
 
 # Domestic AI Chip Catch-Up
+
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the national-champion version. [[DavidSacks|David Sacks]] says [[China]] appears to be discouraging or blocking [[Nvidia]] chips to support domestic production, and that [[Huawei]] could become the national champion first inside China and then globally.
 
 Domestic AI chip catch-up is the China-focused semiconductor strategy problem developed in [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]]. The episode argues that Chinese chip companies have improved design capability and talent depth, but frontier AI-chip substitution still depends on process access, yield, cost, software ecosystems, upstream tools, and downstream application adaptation.
 
@@ -23,6 +25,7 @@ The concept matters because the episode rejects a single-metric view of self-rel
 - [[AdvancedPackaging]] is a plausible catch-up lever, but it still depends on advanced wafers, materials, equipment, volume, and upstream coordination.
 - The difference between "making" and "making reliably, cheaply, and at scale" is the core economic boundary.
 - Supernodes can be a rational catch-up route, but they move the bottleneck to interconnect, software, power, cooling, and customer-order validation.
+- The All-In source adds that domestic chip catch-up can be accelerated by policy pressure if foreign chips become politically disfavored or unavailable.
 
 ## Connections
 - [[Cambricon]], [[SMIC]], [[Nvidia]], and [[GPU]] — company and accelerator context.
@@ -30,3 +33,4 @@ The concept matters because the episode rejects a single-metric view of self-rel
 - [[SupplyChainSovereignty]], [[StrategicAIInfrastructureDependence]], and [[AIHardwareSupplyChainPressure]] — broader dependency frame.
 - [[ComputeFreedom]], [[AIComputeContinuity]], and [[AIInferenceCostStructure]] — downstream compute availability and cost.
 - [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], [[HuaweiCM384]], and [[DomesticAIChipOrderValidation]] — WAIC source's supernode extension.
+- [[AmericanAIStackStrategy]], [[AIExportControls]], [[Nvidia]], and [[Huawei]] - U.S.-China stack-competition branch added by All-In.

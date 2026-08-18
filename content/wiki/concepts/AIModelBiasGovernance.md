@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # AI Model Bias Governance
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds a political-bias procurement branch. [[DavidSacks|David Sacks]] argues that the federal government should not procure politically biased AI systems because model answers can subtly shape what people learn and believe. This creates [[PoliticalBiasInAIProcurement]] as a viewpoint and public-power extension of bias governance.
+
 AI model bias governance is the source's reminder that model behavior reflects human choices, missing variables, training data, and review practices. In [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]], [[KofiBrowning]] says teams have to ask who writes machine-learning algorithms and whether those algorithms contain bias.
 
 The source treats bias as partly unintentional. Teams may only discover after the fact that they did not account for a relevant variable or condition. This places bias governance alongside [[AIVerification]] and [[HumanJudgmentUnderAI]]: model outputs must be checked not only for accuracy, but also for whether the system's data, labels, assumptions, and deployment context are fair and complete enough for the decision being made.
@@ -27,6 +29,7 @@ The source treats bias as partly unintentional. Teams may only discover after th
 - Human oversight must include authority to change or reject a model workflow when bias or missing context becomes visible.
 - In generative-AI workflows, data scientists may act as quality assurance by checking demographic coverage, sample size, dataset dispersion, and discrimination risk.
 - EP16 adds that bias governance is part of enterprise AI readiness when customer, health, financial, insurance, hiring, or personal data feeds AI systems.
+- The All-In source adds that political or ideological answer-shaping becomes more serious when a government agency buys or deploys the system.
 
 ## Connections
 - [[KofiBrowning]], [[NASA]], [[NickBlamer]], [[DataScienceWithSam]], and [[SamDataScienceWithSam]] - source and speaker context.
@@ -36,3 +39,4 @@ The source treats bias as partly unintentional. Teams may only discover after th
 - [[VishalDataScienceWithSam]], [[AIDataReadiness]], [[ExplainableAIBusinessDecisions]], and [[PredictiveModelValidation]] - enterprise analytics and churn-prediction branch added by EP16.
 - [[LanguageDependentAIBias]], [[AIModelCensorship]], and [[AIAdviceMoralOutsourcing]] - adjacent model-value and answer-shaping pages.
 - [[HumanDrivenScientificAI]], [[SpaceImageryAI]], and [[EVAGloveInspectionAI]] - source branch where bias concerns sit inside practical technical systems.
+- [[PoliticalBiasInAIProcurement]], [[CensorshipIndustrialComplex]], and [[PlatformFirstAmendmentDefense]] - political-bias and public-procurement branch added by All-In.

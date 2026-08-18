@@ -8,6 +8,8 @@ last_updated: 2026-08-17
 
 # DeepSeek
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds DeepSeek as a geopolitical update trigger. [[DavidSacks|David Sacks]] says the DeepSeek release made Western observers take Chinese AI capabilities more seriously, placing the company inside [[AmericanAIStackStrategy]], [[ChineseOpenWeightAIStrategy]], and [[USChinaAIMacroAsymmetry]] rather than only cost, model-distillation, or open-model debates.
+
 [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds DeepSeek as both a distillation teacher and accusation target. The source treats the January 2025 R1 release and its six small distilled models, based on Qwen 2.5 and Meta Llama 3 foundations, as a key reason industry attention shifted from compression distillation toward capability distillation; it also says [[OpenAI]] and [[Anthropic]] raised suspicions about DeepSeek while not presenting complete public proof.
 
 [[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds a price-increase signal. The source says DeepSeek announced on August 6 that it planned to raise API service prices substantially, while already using peak/off-peak pricing. In the wiki, this extends [[AICommercializationPressure]] and [[AIInferenceCostStructure]]: a model provider can win adoption through low cost, but production serving still has to fund compute, demand peaks, and future model releases.
@@ -68,6 +70,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 ## Connections
 - [[DeepSeekHarness]] and [[AgentHarness]] - developer-preview harness branch added by 声动早咖啡.
+- [[AmericanAIStackStrategy]], [[ChineseOpenWeightAIStrategy]], and [[AIPlatformEcosystemDiffusion]] - January 23 All-In branch on Chinese capability as a U.S. policy wake-up signal.
 - [[UnlimitedTokenWorkflow]], [[AIInferenceCostStructure]], [[ModelRoutingCostControl]], [[Kimi]], and [[OpenRouter]] — Vol. 171's DeepSeek branch inside abundant-token but still route-sensitive AI work.
 - [[MengFanqing]], [[EvolventAI]], [[ModelDistillation]], [[Kimi]], and [[ChineseOpenWeightAIStrategy]] — Evolvent AI source branch on domestic model progress as architecture, data, and organization rather than only distillation.
 - [[Qwen]] — compared as another prominent Chinese open-source model effort.

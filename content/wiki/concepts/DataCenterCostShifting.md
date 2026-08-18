@@ -2,11 +2,13 @@
 title: "Data Center Cost Shifting"
 type: concept
 tags: [ai, data-centers, energy, regulation]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+sources: [all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-08-16
 ---
 
 # Data Center Cost Shifting
+
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the presidential and corporate-pledge version. [[DavidSacks|David Sacks]] says [[DonaldTrump]] has been clear that residential electricity customers should not pay higher rates because of AI data centers, and cites [[Microsoft]] as pledging that its data centers will not raise residential rates.
 
 [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds the annual-prediction version: household electricity bills can turn AI from an abstract productivity promise into a visible cost. The source treats data-center power demand as one practical reason [[AIBacklashPolitics]] could spread beyond labor displacement into everyday affordability politics.
 
@@ -43,6 +45,7 @@ The concept connects AI buildout to public finance. Data centers may create dema
 - Local tax and voter-approval fights can surface the same fairness question even before a formal utility rate case.
 - Energy-cost and water-resource terms can become part of the community bargain when residents do not feel they are at the table for long-lived data-center projects.
 - Treating data centers as attractive real-estate assets does not remove the need to inspect who pays for power, water, grid upgrades, and local externalities.
+- The All-In source adds a pro-buildout answer: if data centers add their own supply and pay their own way, the speakers argue the projects can protect or even lower residential rates, but that claim still has to pass utility rate design and project-specific evidence.
 
 ## Connections
 - [[TonyPippa]] and [[DataCenterCommunityConsent]] - local-deal frame added by the April 23 Marketplace Tech episode.
@@ -57,3 +60,4 @@ The concept connects AI buildout to public finance. Data centers may create dema
 - [[ElectricityAffordabilityIndicator]], [[StephenPassaha]], and [[AIEnergyBottleneck]] - household affordability branch added by the Planet Money crossover.
 - [[PortWashingtonWisconsin|Port Washington, Wisconsin]] and [[DataCenterIncentiveReferendum]] - voter-approval context added by Marketplace Tech.
 - [[Tipsy]], [[DataCenterPowerBottleneck]], and [[ColocationDataCenter]] - Chinese data-center expansion and real-estate-investment framing added by 声动早咖啡.
+- [[Microsoft]], [[DonaldTrump]], [[DataCenterOnsitePower]], and [[AmericanAIStackStrategy]] - pledge and national-strategy branch added by All-In.

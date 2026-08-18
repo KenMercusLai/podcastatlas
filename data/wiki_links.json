@@ -3687,6 +3687,10 @@
     "title": "America First Policy Institute",
     "url": "/wiki/entities/americafirstpolicyinstitute/"
   },
+  "AmericanAIStackStrategy": {
+    "title": "American AI Stack Strategy",
+    "url": "/wiki/concepts/americanaistackstrategy/"
+  },
   "AmericanAcademyOfActuaries": {
     "title": "American Academy of Actuaries",
     "url": "/wiki/entities/americanacademyofactuaries/"
@@ -15911,6 +15915,10 @@
     "title": "Generic Drug Trust Rebuilding / 仿制药再信任",
     "url": "/wiki/concepts/genericdrugtrustrebuilding/"
   },
+  "GenesisMission": {
+    "title": "Genesis Mission",
+    "url": "/wiki/entities/genesismission/"
+  },
   "GenesisRobotics": {
     "title": "Genesis Robotics",
     "url": "/wiki/entities/genesisrobotics/"
@@ -24279,6 +24287,10 @@
     "title": "Marginal Income Scaling / 边际收入放大",
     "url": "/wiki/concepts/marginalincomescaling/"
   },
+  "MariaBartiromo": {
+    "title": "Maria Bartiromo",
+    "url": "/wiki/entities/mariabartiromo/"
+  },
   "MariaCorinaMachado": {
     "title": "Maria Corina Machado",
     "url": "/wiki/entities/mariacorinamachado/"
@@ -25314,6 +25326,10 @@
   "MichaelHilton": {
     "title": "Michael Hilton",
     "url": "/wiki/entities/michaelhilton/"
+  },
+  "MichaelKratsios": {
+    "title": "Michael Kratsios",
+    "url": "/wiki/entities/michaelkratsios/"
   },
   "MichaelKremer": {
     "title": "Michael Kremer",
@@ -29043,6 +29059,10 @@
     "title": "《永久冻土》 / Permafrost",
     "url": "/wiki/entities/permafrostzelazny/"
   },
+  "PermissionlessAIInnovation": {
+    "title": "Permissionless AI Innovation",
+    "url": "/wiki/concepts/permissionlessaiinnovation/"
+  },
   "PermitProportionality": {
     "title": "Permit Proportionality",
     "url": "/wiki/concepts/permitproportionality/"
@@ -29770,6 +29790,10 @@
   "PoliticalAssassinationEthics": {
     "title": "Political Assassination Ethics / 政治刺杀伦理",
     "url": "/wiki/concepts/politicalassassinationethics/"
+  },
+  "PoliticalBiasInAIProcurement": {
+    "title": "Political Bias In AI Procurement",
+    "url": "/wiki/concepts/politicalbiasinaiprocurement/"
   },
   "PoliticalBrandLicensing": {
     "title": "Political Brand Licensing",
@@ -38643,6 +38667,10 @@
     "title": "US Department of Defense",
     "url": "/wiki/entities/usdepartmentofdefense/"
   },
+  "USDepartmentOfEnergy": {
+    "title": "U.S. Department of Energy",
+    "url": "/wiki/entities/usdepartmentofenergy/"
+  },
   "USDepartmentOfHealthAndHumanServices": {
     "title": "U.S. Department of Health and Human Services",
     "url": "/wiki/entities/usdepartmentofhealthandhumanservices/"
@@ -42666,6 +42694,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255": {
     "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955": {
+    "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140": {
     "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",

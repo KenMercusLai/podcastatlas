@@ -7,6 +7,8 @@ last_updated: 2026-08-18
 ---
 # Anthropic
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds Anthropic through [[Claude]] and developer workflow adoption. [[DavidSacks|David Sacks]] cites Claude Code and Opus 4.5 as examples of rapid progress in coding assistants and task-oriented personal AI, making Anthropic part of the episode's near-term [[AIEconomicDiffusion]] and [[AgenticWorkflow]] branch rather than only safety, defense, or open-weight competition.
+
 [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Anthropic as the episode's clearest [[AICompressedValueCreation]] case. [[HemantTaneja|Hemant Taneja]] says Anthropic had already grown quickly when [[GeneralCatalyst|General Catalyst]] invested, then continued to grow sharply, using the company alongside [[OpenAI]] to argue that trillion-dollar AI companies no longer look like a remote fantasy.
 
 [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds Anthropic as the most explicit anti-distillation actor in the episode's account. The source says Anthropic publicly named [[DeepSeek]], [[KimiK3|Kimi/Kimi K3]], [[MiniMax]], and later [[Qwen]] in distillation-related discussion, but stresses that public evidence remains incomplete. It also says Anthropic claims to use traffic classifiers, behavior fingerprints, cross-account coordination detection, and account verification to identify suspicious distillation attempts.

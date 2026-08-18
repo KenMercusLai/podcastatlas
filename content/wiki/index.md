@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition](sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955.md) — All-In discussion with David Sacks and Michael Kratsios, moderated by Maria Bartiromo, on U.S. AI strategy across infrastructure, power, federal/state regulation, AI for science, China competition, exports, and political-bias risk.
 - [EP 28: The AI Revolution: Redefining Healthcare Financing](sources/ep-28-the-ai-revolution-redefining-healthcare-financing.md) — Data Science With Sam episode with Sharmin of Livora on independent healthcare clinic financing, AI-enabled loan document analysis, lender matching, non-bank lending, women-owned clinic capital gaps, borrower readiness, and consent-based data sharing.
 - [Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex](sources/all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360.md) — All-In interview with Sarah B. Rogers on State Department public diplomacy, UK/EU platform regulation, cross-border speech enforcement, disinformation NGOs, trusted flaggers, debanking, AI deepfakes, Community Notes, and Grok.
 - [Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos](sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140.md) — All-In live Davos interview with Satya Nadella on Copilot, agents, Agent 365, AI diffusion, Azure as token infrastructure, Microsoft Foundry, model orchestration, SaaS pressure, local AI on Windows, and early-career apprenticeship.
@@ -996,6 +997,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Michael Kratsios](entities/MichaelKratsios.md) — Policy voice in the All-In AI strategy episode explaining innovation, infrastructure, export strategy, and Genesis Mission scientific-data work.
+- [Maria Bartiromo](entities/MariaBartiromo.md) — Moderator of the All-In AI strategy episode with David Sacks and Michael Kratsios.
+- [U.S. Department of Energy](entities/USDepartmentOfEnergy.md) — Department whose national-lab scientific data is framed through the Genesis Mission as an AI-for-science asset.
+- [Genesis Mission](entities/GenesisMission.md) — Government AI-for-science initiative described as using scientific data and national-lab research to accelerate discovery.
 - [Sarah B. Rogers](entities/SarahBRogers.md) — State Department public-diplomacy official used by All-In to frame free speech, UK/EU platform regulation, and anti-censorship diplomacy.
 - [UK Online Safety Act](entities/UKOnlineSafetyAct.md) — UK platform-regulation law discussed as an age-gating, risk-assessment, and speech-removal pressure point.
 - [European Union Digital Services Act](entities/EuropeanUnionDigitalServicesAct.md) — EU platform-regulation regime discussed through content obligations, trusted flaggers, and foreign fines on U.S. platforms.
@@ -6750,6 +6755,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [American AI Stack Strategy](concepts/AmericanAIStackStrategy.md) — U.S. AI leadership frame linking models, chips, semiconductor equipment, data centers, power, regulation, exports, and global developer adoption.
+- [Permissionless AI Innovation](concepts/PermissionlessAIInnovation.md) — Pro-innovation regulatory frame arguing that founders should not need fragmented state or federal permission before building AI companies.
+- [Political Bias In AI Procurement](concepts/PoliticalBiasInAIProcurement.md) — Risk that government use of politically biased AI systems turns answer-shaping into state-backed information infrastructure.
 - [Cross-Border Platform Speech Regulation](concepts/CrossBorderPlatformSpeechRegulation.md) — Conflict where one jurisdiction's platform speech rules affect foreign users, companies, or speech norms.
 - [Censorship Industrial Complex](concepts/CensorshipIndustrialComplex.md) — Episode term for government, regulator, NGO, platform, advertiser, and payment-channel systems that can suppress speech indirectly.
 - [Trusted Flagger System](concepts/TrustedFlaggerSystem.md) — Privileged content-reporting channel for selected organizations inside platform-regulation regimes.

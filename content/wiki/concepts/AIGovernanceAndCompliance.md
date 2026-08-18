@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # AI Governance And Compliance
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds a national-strategy governance tension. The episode favors [[PermissionlessAIInnovation]] and a lighter national framework, but still identifies government misuse, surveillance, censorship, and [[PoliticalBiasInAIProcurement]] as serious AI risks. Governance therefore appears as both a possible competitiveness drag and a public-power guardrail.
+
 [[ep-28-the-ai-revolution-redefining-healthcare-financing]] adds a healthcare-financing version of AI governance. [[Livora]]'s described workflow uses [[AIEnabledLoanDocumentAnalysis]] and [[ClinicLenderMatching]], but the governance hinge is [[ConsentBasedLoanDataSharing]]: financial and healthcare-adjacent data should stay in a secured portal, be masked for soft quotes, and be shared with lenders only after borrower choice and consent.
 
 [[ep-11-growing-technology-footprints-in-insurance-sector]] adds the insurance-operations version of AI governance. [[NickBlamer]] and [[SamDataScienceWithSam|Sam]] treat generative AI as useful for chatbots, formulas, reporting, BI pattern discovery, and everyday productivity, but production insurance use still needs privacy, security, legal review, model-bias controls, and [[InsuranceModelRegulatoryConstraint]].

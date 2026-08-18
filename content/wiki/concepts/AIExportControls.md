@@ -2,11 +2,13 @@
 title: "AI Export Controls"
 type: concept
 tags: [ai, policy, export-controls, geopolitics]
-sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # AI Export Controls
+
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the export-promotion counterweight to control. [[DavidSacks|David Sacks]] says President Trump rescinded Biden-era AI and semiconductor export regulations, while [[MichaelKratsios|Michael Kratsios]] argues the U.S. also needs an export program that makes foreign developers build on American chips and models.
 
 AI export controls are state attempts to limit who can access advanced model capability, model weights, APIs, chips, or related infrastructure. In [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]], [[KejiLuandun]] argues that controls designed for physical goods map poorly onto AI services because model output, source code, accounts, and API calls move like information rather than like hardware.
 
@@ -32,6 +34,7 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - Model restrictions can be inbound as well as outbound: a country may worry about foreign access to its own model capability and domestic dependence on a rival country's cheaper models.
 - Open-weight releases can make controls more difficult because the strategic object is no longer only a cloud API or a hardware shipment; it is a model artifact that users can copy, self-host, and adapt.
 - The Lutnick source adds that chip controls can be paired with testing, licenses, and revenue sharing rather than only denial.
+- The All-In strategy source adds that controls are only half the problem: the U.S. also wants allied and developing countries to adopt the American stack before Chinese alternatives become default infrastructure.
 
 ## Connections
 - [[FrontierModelAccessRestrictions]] — implementation layer for limiting model access.
@@ -44,3 +47,4 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - [[China]], [[Alibaba]], [[ByteDance]], and [[ZhipuAI|ZAI]] - Chinese model-access branch added by Marketplace Tech.
 - [[ChineseOpenWeightAIStrategy]], [[OpenWeightReleaseBoundary]], [[AdamSiegel]], and [[CouncilOnForeignRelations|Council on Foreign Relations]] - open-weight export-control dilemma added by Marketplace Tech.
 - [[NvidiaH20|Nvidia H20]], [[NvidiaH200|Nvidia H200]], [[USDepartmentOfCommerce|U.S. Department of Commerce]], and [[TaxpayerReturnIndustrialPolicy]] - chip-license and revenue-sharing branch added by All-In.
+- [[AmericanAIStackStrategy]], [[AIPlatformEcosystemDiffusion]], [[Huawei]], and [[DomesticAIChipCatchUp]] - export-promotion and Chinese substitution branch added by the January 23 All-In episode.

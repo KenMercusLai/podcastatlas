@@ -8,6 +8,8 @@ last_updated: 2026-08-14
 
 # Claude
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds Claude through [[ClaudeCode|Claude Code]] and Opus 4.5 as developer-visible evidence that AI assistants are moving from chat toward software work, file handling, email, spreadsheets, presentations, and eventually voice-mediated personal assistance. The source ties Claude to [[AgenticWorkflow]] and [[AIEconomicDiffusion]] rather than only safety or procurement disputes.
+
 [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds Claude as the model Anthropic is watermarking for generated text. The episode says the watermark can appear through copy-paste metadata and through an encoded word-output pattern that Anthropic's decoder can identify. This makes Claude part of [[AITextWatermarking]], while the source also cautions that human work edited by Claude may still become ambiguous evidence for [[AIWritingDetection]] and [[AIAuthorshipPresence]].
 
 [[tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128]] adds Claude as a preference-language example in a [[MarketplaceTech]] discussion of [[AITasteSimulation]]. [[MeganMcCartyCorino|Megan McCarty Carino]] says Claude answered a favorite-tree prompt by disclaiming human-like preference while choosing the coast redwood, making Claude a case where model output can imitate preference without settling whether the system has [[EmbodiedTaste]].
@@ -46,3 +48,4 @@ The source turns Claude from a general frontier model into a procurement and gov
 - [[FrontierModelAccessRestrictions]] and [[AIGovernanceAndCompliance]] - broader governance frame.
 - [[ModelValueEmbedding]] and [[AIModelValueSurveying]] - model-personality and value-default branch added by Qizhulou Yan Binke.
 - [[AITextWatermarking]], [[EuropeanUnionAIAct]], [[AIContentProvenance]], [[AIWritingDetection]], and [[AIAuthorshipPresence]] - August 14, 2026 Marketplace Tech branch on watermarking Claude-generated text.
+- [[ClaudeCode|Claude Code]], [[AgenticWorkflow]], and [[AIEconomicDiffusion]] - All-In branch on coding assistants and personal AI tools.

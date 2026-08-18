@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # Business-Led AI Transformation
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the knowledge-worker tool version. [[DavidSacks|David Sacks]] expects coding-assistant gains to generalize into spreadsheets, presentations, websites, files, email, and task-based assistants, but this still depends on [[AIEconomicDiffusion]]: organizations must convert tool capability into real work products and workflow change.
+
 [[ep-16-data-decoded-navigating-the-ai-revolution]] adds a data-analytics version through [[VishalDataScienceWithSam|Vishal]]. The episode says businesses should begin AI work from a clear problem, measurable value, data preparation, a small pilot, and team training, then scale only after the workflow proves useful.
 
 [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds a CEO/CFO/CIO version through [[BobSternfels|Bob Sternfels]] and [[HemantTaneja|Hemant Taneja]]. The source says non-tech enterprises are adopting AI quickly but still struggle to realize scaled value, creating [[EnterpriseAIPilotPurgatory]] unless leaders redesign workflows, data infrastructure, workforce models, and human-agent responsibilities.

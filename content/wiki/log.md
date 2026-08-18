@@ -7826,6 +7826,10 @@ Added source page for a Data Science With Sam episode with Mary Pat Campbell on 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition
+
+Added source page for an All-In episode moderated by Maria Bartiromo with David Sacks and Michael Kratsios on U.S. AI strategy, infrastructure, power, federal/state regulation, AI for science, China competition, exports, and political-bias risk. Created pages for Michael Kratsios, Maria Bartiromo, U.S. Department of Energy, Genesis Mission, American AI Stack Strategy, Permissionless AI Innovation, and Political Bias In AI Procurement; updated overview, index, All-In, David Sacks, U.S. Department of Commerce, Microsoft, Nvidia, Huawei, DeepSeek, Anthropic, Claude, Data Center Power Bottleneck, Data Center Cost Shifting, Data Center Onsite Power, State AI Regulation Patchwork, Federal AI Preemption, AI Export Controls, AI Platform Ecosystem Diffusion, Domestic AI Chip Catch-Up, AI For Science, AI Model Bias Governance, AI Governance And Compliance, AI Abundance Narrative, AI Economic Diffusion, Business-Led AI Transformation, and Strategic AI Infrastructure Dependence. No direct contradiction found; the source is in tension with existing AI capex and data-center cost-shifting pages because it argues current usage and onsite power can justify buildout while the wiki still treats return windows, utility rate design, financing loops, and public consent as live tests.
+
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

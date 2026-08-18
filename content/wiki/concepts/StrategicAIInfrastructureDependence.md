@@ -8,6 +8,8 @@ last_updated: 2026-08-05
 
 # Strategic AI Infrastructure Dependence
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the national-stack version. The episode links model quality, [[Nvidia]] chips, semiconductor manufacturing equipment, data centers, power, and global adoption into one dependency chain, while arguing that [[China]] may use domestic scale and [[Huawei]] to reduce dependence on U.S. hardware.
+
 Strategic AI infrastructure dependence is the pattern where model companies, chip suppliers, and cloud platforms need one another's scale while still avoiding full dependence on a single counterparty. [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds the concept through the reported [[Nvidia]] and [[OpenAI]] investment uncertainty: Nvidia wants OpenAI's future data-center spending, but also needs to keep [[Anthropic]], [[Microsoft]], and other major AI customers aligned.
 
 [[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]] adds the circular-financing version through [[Nvidia]], [[OpenAI]], and [[CoreWeave]]. The source argues that scarce chips and advanced manufacturing can push companies into early commitments, investments, and leases, but [[AICircularInfrastructureFinancing]] becomes risky if the loop is not ultimately backed by third-party customers and sustained utilization.

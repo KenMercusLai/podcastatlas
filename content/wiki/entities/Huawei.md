@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # Huawei
 
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds Huawei as the prospective Chinese national champion in a U.S. AI strategy discussion. [[DavidSacks|David Sacks]] says China appears to be discouraging or blocking [[Nvidia]] chips to support domestic chip production, and that Huawei could first win inside China and then compete globally as part of a rival AI stack.
+
 [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds Huawei as Friedberg's 2026 business-winner pick. The source ties Huawei to [[SMIC]] and a domestic chip-stack story, using Huawei as a market and geopolitical signal inside the episode's broader AI infrastructure, national-security, and [[CriticalMineralsGeopolitics]] forecasts.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds Huawei as the China domestic-substitution signal in a half-year macro allocation frame. [[Ricky]] argues that future AI opportunities in China may move through Huawei chips, GPU supply chains, and autonomous data-security logic, making Huawei relevant to [[ChinaEquityStructuralSelection]] and [[USChinaAIMacroAsymmetry]] rather than only to the earlier [[TauLaw]] semiconductor debate.
@@ -59,3 +61,4 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - [[Momenta]], [[CaoXudong]], and [[AutonomousDrivingDataFlywheel]] — third-party city NOA competition frame added by LateTalk.
 - [[YuChengdong]], [[OperatorSubsidizedHandsets]], [[OfflineHandsetChannelSystem]], and [[HandsetMarketConcentration]] — smartphone-market transition added by episode 210.
 - [[SMIC]], [[CriticalMineralsGeopolitics]], and [[DataCenterPowerBottleneck]] - All-In's 2026 infrastructure and national-security market branch.
+- [[AmericanAIStackStrategy]], [[DomesticAIChipCatchUp]], [[AIExportControls]], and [[Nvidia]] - U.S.-China AI-stack competition branch added by the January 23 All-In episode.

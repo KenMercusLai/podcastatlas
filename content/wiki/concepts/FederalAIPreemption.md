@@ -2,11 +2,13 @@
 title: "Federal AI Preemption"
 type: concept
 tags: [ai, regulation, federalism, governance]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]
+sources: [all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
 # Federal AI Preemption
+
+[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the congressional-path version. [[DavidSacks|David Sacks]] says only Congress can preempt state AI rules and that a federal framework would need bipartisan support, while the episode's policy preference is a light national standard that limits fragmentation without eliminating all state authority.
 
 Federal AI preemption is the policy pattern where the national government attempts to limit, pause, or override state-level AI regulation. [[tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]] adds the concept through [[SuyashPasi]]'s claim that the [[DonaldTrump]] administration supported AI infrastructure buildout and signed an executive order placing a moratorium on state-level AI regulation.
 
@@ -21,6 +23,7 @@ The concept matters because it changes the bargaining environment for AI compani
 - Preemption does not remove governance pressure; it relocates it toward [[WhiteHouse]] access, federal agency capacity, public purchasing, and voter backlash.
 - Executive-order preemption can create a litigation and grant-pressure strategy before Congress passes a uniform national AI framework.
 - Agency authority can become part of the dispute if federal regulators are asked to evaluate state AI laws without clear constitutional or statutory footing.
+- The All-In source adds that preemption may need ordinary legislation, not only executive pressure, if the goal is durable national-scale AI regulation.
 
 ## Connections
 - [[DonaldTrump]], [[WhiteHouse]], and [[MarketplaceTech]] - source political and media context.
@@ -29,3 +32,4 @@ The concept matters because it changes the bargaining environment for AI compani
 - [[StateAIProcurementGuardrails]] - state-level oversight route that becomes more important when broad state regulation is constrained.
 - [[AIBacklashPolitics]] and [[AICommercializationPressure]] - legitimacy and deployment pressures that continue even under deregulation.
 - [[StateAIRegulationPatchwork]], [[USDepartmentOfJustice|U.S. Department of Justice]], [[California]], [[Texas]], and [[Illinois]] - January 2026 state-law conflict branch.
+- [[DavidSacks|David Sacks]], [[MichaelKratsios|Michael Kratsios]], [[PermissionlessAIInnovation]], and [[AmericanAIStackStrategy]] - All-In national framework branch.
