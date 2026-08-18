@@ -2,7 +2,7 @@
 title: "战国时期 / Warring States Period"
 type: entity
 tags: [history, china, pre-qin, political-theory, warfare]
-sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-18
 ---
 
@@ -13,6 +13,8 @@ The Warring States Period is the historical setting for [[30-mengzi-zhanguo-fenq
 This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius]] can be read as both idealistic and realistic: if people, scholars, and merchants can move, then [[MencianBenevolentGovernment|benevolent government]] can attract resources; if rulers chase only advantage, then [[RighteousnessOverProfit|righteousness over profit]] becomes a political critique, not only a moral slogan.
 
 [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds a periodization guardrail. The episode treats 453 BCE, after Jinyang and the division of [[ZhiYao|智瑶]]'s territory, as the beginning of the Warring States, while the broader wiki keeps that beside 403 BCE [[ThreeJinVassalRecognition|formal recognition]] and 376 BCE Jin extinction inside [[PartitionOfJin|三家分晋]]. The same source adds [[TalentVirtueDistinction|才德之分]], [[RetainerReciprocityEthic|士为知己者死]], and [[ZhaoXiangzi|赵襄子]]'s conquest of [[DaiState|代国]] as early-Warring-States transition material.
+
+[[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] adds a non-military explanation for early Wei prominence. [[WeiWenhou|魏文侯]]'s treatment of scholars, promise-keeping, and Han-Zhao diplomacy show that Warring States competition also rewards [[RenhePoliticalPower|人和政治力量]], not only armies, terrain, and formal recognition.
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds an earlier military and chronicle branch. [[WuQi|吴起]] and [[WeiState|魏国]] show Warring States competition as a problem of training load, morale, and execution, while [[ZhouWeilieWang|周威烈王]], [[ZhouAnWang|周安王]], [[YanState|燕国]], and [[ChuState|楚国]] keep the episode anchored in annalistic succession notices.
 
@@ -34,6 +36,7 @@ This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[SpringAndAutumnPeriod|春秋时期]] and [[SpringAutumnWarfareRitual]] - adjacent earlier pre-Qin history branch.
 - [[ZhiYao|智瑶]], [[YuRang|豫让]], [[TalentVirtueDistinction]], [[RetainerReciprocityEthic]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 periodization, virtue, revenge, and recognition branch.
+- [[WeiWenhou|魏文侯]], [[TalentAttractionThroughRespect]], [[SmallTrustBuildsLargeTrust]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - Zhouji 05 Wei leadership branch.
 - [[Mengzi|孟子 / Mencius]], [[JixiaAcademy|稷下学宫]], [[Mozi|墨子]], and [[YangZhu|杨朱]] - intellectual actors and settings named by the source.
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - ruler cases.
 - [[WangdaoVsBadao]], [[MencianBenevolentGovernment]], and [[MencianIdealismLimits]] - political concepts whose stakes depend on the period's competition.

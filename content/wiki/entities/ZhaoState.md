@@ -2,13 +2,15 @@
 title: "赵国 / Zhao State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-18
 ---
 
 # 赵国 / Zhao State
 
 [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds Zhao's pre-recognition branch through [[ZhaoXiangzi|赵襄子]]. Zhao helps end [[ZhiYao|智瑶]]'s power after Jinyang, absorbs [[DaiState|代国]] through kinship deception, survives [[YuRang|豫让]]'s revenge attempts, and then moves through a contested succession involving [[ZhaoBolu|赵伯鲁]]'s line, [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]].
+
+[[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] adds Zhao to [[WeiWenhou|魏文侯]]'s diplomacy case. Zhao asks [[WeiState|魏国]] to join an attack on [[HanState|韩国]], but Wei refuses on brother-state grounds; when Zhao learns Wei had also refused Han's anti-Zhao request, the symmetry turns anger into trust.
 
 赵国 / Zhao State appears in [[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] through two early Warring States notices. First, Zhao joins [[HanState|韩国]] and [[WeiState|魏国]] in a joint attack on [[ChuState|楚国]]. Second, [[ZhaoLiehou|赵烈侯]] dies and Zhao people install his younger brother [[ZhaoWuhou|赵武侯]].
 
@@ -27,6 +29,7 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoXiangzi|赵襄子]], [[YuRang|豫让]], [[DaiState|代国]], [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]] - Zhouji 04 pre-recognition and succession branch.
+- [[WeiWenhou|魏文侯]], [[HanState|韩国]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - Zhouji 05 diplomatic trust branch.
 - [[ZhaoJinghou|赵靖侯]] and [[LegalistRulerTechnique]] - Zhouji 08 part 2 succession and Han Fei branch.
 - [[HanState|韩国]] and [[WeiState|魏国]] - allied attack on Chu.
 - [[JinState|晋国]] - older Jin context around the post-Jin state system.

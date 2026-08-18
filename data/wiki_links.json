@@ -12239,6 +12239,10 @@
     "title": "段成式 / Duan Chengshi",
     "url": "/wiki/entities/duanchengshi/"
   },
+  "DuanGanmu": {
+    "title": "段干木 / Duan Ganmu",
+    "url": "/wiki/entities/duanganmu/"
+  },
   "DuanGeShiWoBeishangDeWanju": {
     "title": "《短歌是我悲伤的玩具》",
     "url": "/wiki/entities/duangeshiwobeishangdewanju/"
@@ -32319,6 +32323,10 @@
     "title": "Rene Spitz / 史匹茨",
     "url": "/wiki/entities/renespitz/"
   },
+  "RenhePoliticalPower": {
+    "title": "Renhe Political Power / 人和政治力量",
+    "url": "/wiki/concepts/renhepoliticalpower/"
+  },
   "RenminUniversityOfChina": {
     "title": "Renmin University of China / 中国人民大学",
     "url": "/wiki/entities/renminuniversityofchina/"
@@ -35287,6 +35295,10 @@
     "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
     "url": "/wiki/concepts/smalltownexamtakerdiscipline/"
   },
+  "SmallTrustBuildsLargeTrust": {
+    "title": "Small Trust Builds Large Trust / 小信诚则大信立",
+    "url": "/wiki/concepts/smalltrustbuildslargetrust/"
+  },
   "SmartDrivingDemocratization": {
     "title": "Smart Driving Democratization / 智驾平权",
     "url": "/wiki/concepts/smartdrivingdemocratization/"
@@ -37107,6 +37119,10 @@
     "title": "Symbolic Human In The Loop",
     "url": "/wiki/concepts/symbolichumanintheloop/"
   },
+  "SymmetricInterstateCredibility": {
+    "title": "Symmetric Interstate Credibility / 对称外交信用",
+    "url": "/wiki/concepts/symmetricinterstatecredibility/"
+  },
   "SyncReliabilityAsUX": {
     "title": "Sync Reliability As UX",
     "url": "/wiki/concepts/syncreliabilityasux/"
@@ -37298,6 +37314,10 @@
   "TakubokuBiography": {
     "title": "《石川啄木》 / Takuboku Biography",
     "url": "/wiki/entities/takubokubiography/"
+  },
+  "TalentAttractionThroughRespect": {
+    "title": "Talent Attraction Through Respect / 礼贤下士式人才吸附",
+    "url": "/wiki/concepts/talentattractionthroughrespect/"
   },
   "TalentGroupLivestreaming": {
     "title": "Talent Group Livestreaming / 才艺团播",
@@ -38374,6 +38394,10 @@
   "TianYuandong": {
     "title": "Tian Yuandong / 田渊栋",
     "url": "/wiki/entities/tianyuandong/"
+  },
+  "TianZifang": {
+    "title": "田子方 / Tian Zifang",
+    "url": "/wiki/entities/tianzifang/"
   },
   "TianjieJack": {
     "title": "Tianjie Jack",
@@ -43315,6 +43339,10 @@
     "title": "助助",
     "url": "/wiki/entities/zhuzhu/"
   },
+  "ZiXia": {
+    "title": "子夏 / Zi Xia",
+    "url": "/wiki/entities/zixia/"
+  },
   "ZibeiYuChaoyue": {
     "title": "《自卑与超越》",
     "url": "/wiki/entities/zibeiyuchaoyue/"
@@ -46258,6 +46286,10 @@
   "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik": {
     "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
+  },
+  "zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl": {
+    "title": "《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl/"
   },
   "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei": {
     "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）",

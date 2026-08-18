@@ -2,13 +2,15 @@
 title: "《资治通鉴》 / Zizhi Tongjian"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-18
 ---
 
 # 《资治通鉴》 / Zizhi Tongjian
 
 [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds an earlier Zhou-annals sequence around [[ZhiYao|智瑶]], [[YuRang|豫让]], [[ZhaoXiangzi|赵襄子]], and the formal recognition of the three Jin houses. The episode treats the work's opening lessons on rank and [[TalentVirtueDistinction|才德之分]] as programmatic for later political reading.
+
+[[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] adds the next Wei Wenhou leadership branch. The episode reads the chronicle's selection of respect, promise-keeping, and Han-Zhao diplomacy stories as evidence that [[SimaGuang|司马光]] wanted rulers to see [[RenhePoliticalPower|人和]] as practical statecraft.
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] reads the Zhou-annals section around early [[WarringStatesPeriod|战国时期]] events. The episode does not survey the whole work; it uses one short stretch to explain military leadership, succession notices, posthumous names, and politically ambiguous assassination language.
 
@@ -34,6 +36,7 @@ The work's wiki role here is historiographical. Its compact chronology gives the
 - [[SimaGuang|司马光 / Sima Guang]] - historian associated with the work in the broader wiki.
 - [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - podcast source reading the work.
 - [[ZhiYao|智瑶]], [[YuRang|豫让]], [[TalentVirtueDistinction]], [[RetainerReciprocityEthic]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 virtue, revenge, and state-recognition branch.
+- [[WeiWenhou|魏文侯]], [[TalentAttractionThroughRespect]], [[SmallTrustBuildsLargeTrust]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - Zhouji 05 leadership and trust branch.
 - [[ZhouRoyalHouse|周王室]], [[YanState|燕国]], [[ChuState|楚国]], and [[WeiState|魏国]] - political settings in this episode.
 - [[PosthumousNamePolitics]] and [[BanditAssassinationAttribution]] - interpretive frames surfaced by the source.
 - [[QinghuaJianXinian|清华简《系年》]], [[Zhanguoce|《战国策》]], [[NaturalDisasterPoliticalOmen]], [[CelestialOmenPoliticalResponsibility]], and [[HistoricalDetectiveReasoning]] - episode 07 evidence and interpretation extension.

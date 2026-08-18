@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl.md) — 芮淇讲透资治通鉴 episode on Wei Wenhou's respect for scholars, promise-keeping, symmetric diplomacy with Han and Zhao, and Sima Guang's "small trust builds large trust" statecraft lesson.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf.md) — 芮淇讲透资治通鉴 episode on Wei Ying and Gongzhong Huan's succession war, Han-Zhao intervention at Zhuoze, the failed partition-vs-puppet settlement, and Wei Ying's rise as Liang Hui Wang.
 - [《资治通鉴·周纪》04｜豫让 为智瑶复仇](sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik.md) — 芮淇讲透资治通鉴 episode on Zhi Yao's talent-without-virtue failure, Yu Rang's revenge and retainer honor, Zhao Xiangzi's conquest and succession decisions, and Zhou Weilie Wang's formal recognition of Han, Zhao, and Wei.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi.md) — 芮淇讲透资治通鉴 episode on Han court assassination, Wei succession disorder, Qi Wei Wang's contested chronology and official audits, and Chu/Song succession notices under Zhou Lie Wang.
@@ -1098,7 +1099,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴起 / Wu Qi](entities/WuQi.md) — Warring States commander and reformer whose Wei military success, court vulnerability, and Chu state-building backlash drive the Ruiqi branch.
 - [《吴子》 / Wuzi](entities/Wuzi.md) — Military text associated with Wu Qi and the episode's "励士" morale branch.
 - [魏国 / Wei State](entities/WeiState.md) — Early Warring States power linked in the source to Wu Qi's training, discipline, morale, and execution.
-- [魏文侯 / Marquis Wen of Wei](entities/WeiWenhou.md) — Episode title-frame ruler; the short source does not fully develop the chancellor-selection question.
+- [魏文侯 / Marquis Wen of Wei](entities/WeiWenhou.md) — Early Wei ruler developed through formal Three Jin recognition, respect for scholars, promise-keeping, Han-Zhao diplomatic restraint, and later death/succession notices.
+- [子夏 / Zi Xia](entities/ZiXia.md) — Confucius disciple honored by Wei Wenhou as a teacher, making Confucian learning part of Wei's talent-attraction image.
+- [田子方 / Tian Zifang](entities/TianZifang.md) — Scholar associated by the source with Qi's Tian world and with Wei Wenhou's respectful treatment of mobile talent.
+- [段干木 / Duan Ganmu](entities/DuanGanmu.md) — Recluse whose avoidance of Wei Wenhou sharpens the source's portrait of non-coercive respect for worthy people.
 - [齐国 / Qi State](entities/QiState.md) — Pre-Qin state setting for Sima Rangju, Yan Ying, and Qi Jinggong in the Ruiqi episode.
 - [燕国 / Yan State](entities/YanState.md) — Pre-Qin state appearing through the Yan Min Gong to Yan Xi Gong succession notice.
 - [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
@@ -6916,6 +6920,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Talent Attraction Through Respect / 礼贤下士式人才吸附](concepts/TalentAttractionThroughRespect.md) — Wei Wenhou's ruler-image mechanism where respect for scholars and recluses attracts capable people without coercion.
+- [Small Trust Builds Large Trust / 小信诚则大信立](concepts/SmallTrustBuildsLargeTrust.md) — Sima Guang's statecraft principle that minor kept promises make larger political credibility possible.
+- [Symmetric Interstate Credibility / 对称外交信用](concepts/SymmetricInterstateCredibility.md) — Diplomatic trust produced when Wei refuses both Han's anti-Zhao request and Zhao's anti-Han request on the same brother-state grounds.
+- [Renhe Political Power / 人和政治力量](concepts/RenhePoliticalPower.md) — Source synthesis that talent respect, promise-keeping, and diplomatic consistency turn human alignment into political strength.
 - [Succession-Crisis Intervention / 继承危机外部干预](concepts/SuccessionCrisisIntervention.md) — Pattern where unresolved succession invites outside powers to back claimants, seize leverage, or redesign a target state.
 - [Coalition Settlement Failure / 联军战后安排失败](concepts/CoalitionSettlementFailure.md) — Pattern where a victorious coalition cannot convert battlefield success into political settlement because members want different outcomes.
 - [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Sima Guang personnel-judgment frame where talent without virtue can be more dangerous than incompetence.

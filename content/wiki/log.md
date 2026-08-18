@@ -7824,7 +7824,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Zhou An Wang's first
 
 ## [2026-08-18] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran health before lint; health scanned 11,582 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,582 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; `wiki/lint-report.md` was not saved.
 
 ## [2026-08-18] ingest | 《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）
 
@@ -8110,6 +8110,14 @@ Ran health before lint; health scanned 11,566 wiki pages and found no empty/stub
 ## [2026-08-18] ingest | 《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Wei Ying and Gongzhong Huan's succession war, Wang Chuo's flight to Han, Gongsun Qi's attack advice, Han-Zhao victory at Zhuoze, the siege of Anyi, Han and Zhao's failed settlement over partition versus puppet installation, and Wei Ying's rise as Liang Hui Wang. Created pages for Zhou Xianwang, Wang Chuo, Gongsun Qi, Zhuoze Battle, Anyi, Succession-Crisis Intervention, and Coalition Settlement Failure; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Lie Wang, Wei State, Wei Wuhou, Liang Hui Wang, Gongzhong Huan, Han State, Han Yihou, Zhao State, Zhao Chenghou, Succession Non-Designation Risk, Early Warring States Interstate War, Shiji, Sima Qian, Zhushu Jinian, and Mencius Text. No direct contradiction found; the existing chronology caution around Wei Wuhou's succession remains preserved while part 3 records the intervention outcome.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | 《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Wei Wenhou's respect for Zi Xia, Tian Zifang, and Duan Ganmu; the rainy hunting-appointment story; Sima Guang's "small trust builds large trust" principle; and Wei's symmetric refusal to join either Han or Zhao against the other. Created pages for Zi Xia, Tian Zifang, Duan Ganmu, Talent Attraction Through Respect, Small Trust Builds Large Trust, Symmetric Interstate Credibility, and Renhe Political Power; updated overview, index, Wei Wenhou, Wei State, Han State, Zhao State, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Sima Guang, Warring States Period, Mencius Text, Confucian Ideal Governance, and Three Jin Vassal Recognition. No direct contradiction found; the episode fills in a previously thin Wei Wenhou leadership image while preserving later succession and chronology pages.
 
 ## [2026-08-18] lint | Wiki health check
 
