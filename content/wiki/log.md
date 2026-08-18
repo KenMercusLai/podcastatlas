@@ -7934,3 +7934,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | EP 17: AI's Impact on Creativity: A Consumer's Perspective
+
+Added source page for a Data Science With Sam episode with Mark on consumer AI use for Toastmasters speeches, alumni imagery, Suno songs, professional research, and Google Apps Script snippets. Created pages for Mark, Talking Heads Toastmasters Club, DALL-E, Google Apps Script, AI Creative Collaboration, AI First-Draft Generation, AI Professional Data Security, and AI Assisted Light Coding; updated overview, index, Data Science With Sam, Sam, ChatGPT, OpenAI, Suno, University of Illinois Urbana-Champaign, Prompt As Intent Transmission, AI Assistant Augmentation, Generative AI Music, AI Verification, AI Hallucination, Human Judgment Under AI, AI Worker Literacy, and Multimodal Intelligence. No direct contradiction found; the source extends the wiki's AI-augmentation branch by showing how non-specialists can use generative AI creatively while preserving editing, fact-checking, code testing, and workplace data-security boundaries.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

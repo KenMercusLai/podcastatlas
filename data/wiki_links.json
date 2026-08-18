@@ -1323,6 +1323,10 @@
     "title": "AI Assistant Service Entry",
     "url": "/wiki/concepts/aiassistantserviceentry/"
   },
+  "AIAssistedLightCoding": {
+    "title": "AI Assisted Light Coding",
+    "url": "/wiki/concepts/aiassistedlightcoding/"
+  },
   "AIAssistedMalwareReverseEngineering": {
     "title": "AI-Assisted Malware Reverse Engineering",
     "url": "/wiki/concepts/aiassistedmalwarereverseengineering/"
@@ -1491,6 +1495,10 @@
     "title": "AI Coworkers",
     "url": "/wiki/concepts/aicoworkers/"
   },
+  "AICreativeCollaboration": {
+    "title": "AI Creative Collaboration",
+    "url": "/wiki/concepts/aicreativecollaboration/"
+  },
   "AICyberDefenseUtility": {
     "title": "AI Cyber-Defense Utility",
     "url": "/wiki/concepts/aicyberdefenseutility/"
@@ -1614,6 +1622,10 @@
   "AIFileManagement": {
     "title": "AI File Management",
     "url": "/wiki/concepts/aifilemanagement/"
+  },
+  "AIFirstDraftGeneration": {
+    "title": "AI First-Draft Generation",
+    "url": "/wiki/concepts/aifirstdraftgeneration/"
   },
   "AIFirstOrganization": {
     "title": "AI-First Organization",
@@ -1946,6 +1958,10 @@
   "AIProductFragmentation": {
     "title": "AI Product Fragmentation",
     "url": "/wiki/concepts/aiproductfragmentation/"
+  },
+  "AIProfessionalDataSecurity": {
+    "title": "AI Professional Data Security",
+    "url": "/wiki/concepts/aiprofessionaldatasecurity/"
   },
   "AIProgramAdjustment": {
     "title": "AI-Assisted Program Adjustment / AI辅助专业调整",
@@ -10235,6 +10251,10 @@
     "title": "D.A. Davidson",
     "url": "/wiki/entities/dadavidson/"
   },
+  "DALLE": {
+    "title": "DALL-E",
+    "url": "/wiki/entities/dalle/"
+  },
   "DAZN": {
     "title": "DAZN",
     "url": "/wiki/entities/dazn/"
@@ -16250,6 +16270,10 @@
   "GoogleAnalytics": {
     "title": "Google Analytics",
     "url": "/wiki/entities/googleanalytics/"
+  },
+  "GoogleAppsScript": {
+    "title": "Google Apps Script",
+    "url": "/wiki/entities/googleappsscript/"
   },
   "GoogleBrain": {
     "title": "Google Brain",
@@ -24226,6 +24250,10 @@
   "MarkCuban": {
     "title": "Mark Cuban",
     "url": "/wiki/entities/markcuban/"
+  },
+  "MarkDataScienceWithSam": {
+    "title": "Mark (Data Science With Sam)",
+    "url": "/wiki/entities/markdatasciencewithsam/"
   },
   "MarkGraham": {
     "title": "Mark Graham",
@@ -36531,6 +36559,10 @@
     "title": "Talk三联",
     "url": "/wiki/entities/talksanlian/"
   },
+  "TalkingHeadsToastmastersClub": {
+    "title": "Talking Heads Toastmasters Club",
+    "url": "/wiki/entities/talkingheadstoastmastersclub/"
+  },
   "TallTaleTradition": {
     "title": "Tall-Tale Tradition",
     "url": "/wiki/concepts/talltaletradition/"
@@ -42890,6 +42922,10 @@
   "ep-16-data-decoded-navigating-the-ai-revolution": {
     "title": "EP 16: Data Decoded: Navigating the AI Revolution",
     "url": "/wiki/sources/ep-16-data-decoded-navigating-the-ai-revolution/"
+  },
+  "ep-17-ais-impact-on-creativity-a-consumers-perspective": {
+    "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+    "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
   },
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",

@@ -2,8 +2,8 @@
 title: "Multimodal Intelligence"
 type: concept
 tags: [ai, multimodal, world-models]
-sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
-last_updated: 2026-08-07
+sources: [ep-17-ais-impact-on-creativity-a-consumers-perspective, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-18
 ---
 
 # Multimodal Intelligence
@@ -16,6 +16,8 @@ Multimodal intelligence is the source's route from language-only systems toward 
 
 [[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]] adds a live-interaction case through [[ViduS1]]. [[ZhangJintao]] says the product can take camera, game-screen, desktop, or coding-screen video input and have a generated character respond, making multimodal understanding part of [[RealTimeInteractiveVideoGeneration]] rather than only a media-generation feature.
 
+[[ep-17-ais-impact-on-creativity-a-consumers-perspective]] adds an everyday consumer expectation through [[MarkDataScienceWithSam|Mark]]. After describing text, image, music, research, and coding workflows, he expects future systems to accept uploaded images, digital content, videos, and possibly live smartphone views for tasks such as estimating event attendance or audience demographics.
+
 ## Key Claims
 - Language is a powerful interface, but not the whole world and not the only form of thought or decision.
 - Visual and spatial intelligence need representations that can process continuous perceptual streams, not just isolated images.
@@ -24,6 +26,7 @@ Multimodal intelligence is the source's route from language-only systems toward 
 - Over-tokenizing visual streams for LLMs may hide the physical structure that models need to learn.
 - In product terms, stronger multimodal understanding matters when it changes what a user can ask, inspect, control, or automate, not only when it produces more media.
 - In real-time video products, multimodal understanding has to be fast enough to affect the next visible response, not merely accurate after the fact.
+- Everyday users may experience multimodal intelligence first as practical analysis of images, video, events, and surroundings rather than as a named research agenda.
 
 ## Connections
 - [[XieSaining]], [[FeiFeiLi]], and [[ImageNet]] — people and dataset context from the computer-vision path.
@@ -34,3 +37,4 @@ Multimodal intelligence is the source's route from language-only systems toward 
 - [[NinaMiolane]], [[NeuralGeometry]], [[SpatialNavigationTorus]], and [[FourierSpatialEncoding]] — spatial-representation branch added by the Long Now source.
 - [[Albert]], [[Hexfield]], [[ModelCapabilityPackaging]], and [[VideoModels]] — application-product extension from the 42章经 source.
 - [[ViduS1]], [[StreamingVideoGeneration]], and [[RealTimeInteractiveVideoGeneration]] — live visual-interaction extension from the Shizilukou Crossing source.
+- [[MarkDataScienceWithSam]], [[AICreativeCollaboration]], [[DALLE|DALL-E]], and [[AIPlusTerminals]] - Data Science With Sam EP17's consumer expectation for image, video, and live visual inputs.

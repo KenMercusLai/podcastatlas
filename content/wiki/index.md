@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 17: AI's Impact on Creativity: A Consumer's Perspective](sources/ep-17-ais-impact-on-creativity-a-consumers-perspective.md) — Data Science With Sam episode with Mark on ChatGPT as a creative collaborator for Toastmasters speeches, alumni imagery, Suno songs, professional research data-security boundaries, Google Apps Script snippets, prompt iteration, hallucination review, and multimodal AI expectations.
 - [EP 16: Data Decoded: Navigating the AI Revolution](sources/ep-16-data-decoded-navigating-the-ai-revolution.md) — Data Science With Sam episode with Vishal on GPT-like natural-language analytics, AI data readiness, business-led AI pilots, explainable churn prediction in Salesforce, privacy, bias, model validation, and data-science storytelling.
 - [Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism](sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360.md) — All-In episode with Adam Carolla on Palisades fire rebuilding delays, Los Angeles permitting, safety tradeoffs, DEI/media trust, California migration, wealth taxes, anti-tech politics, and skilled trades.
 - [All-In's 2026 Predictions](sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260.md) — All-In forecast round on California wealth-tax flight, Democratic-left momentum, Trump-era growth, Huawei, Polymarket, Amazon, AI jobs, Jevons demand, IPOs, SpaceX/Tesla, critical metals, and citizen journalism.
@@ -991,6 +992,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mark (Data Science With Sam)](entities/MarkDataScienceWithSam.md) — Retired business development director, chemical engineer, Toastmasters leader, and Illinois alumni volunteer explaining consumer AI use for speeches, imagery, songs, research, and light coding.
+- [Talking Heads Toastmasters Club](entities/TalkingHeadsToastmastersClub.md) — Houston Toastmasters club context for Mark's AI-assisted speechwriting workflow in Data Science With Sam EP17.
+- [DALL-E](entities/DALLE.md) — OpenAI image-generation tool used through ChatGPT by Mark to create event-specific University of Illinois alumni imagery.
+- [Google Apps Script](entities/GoogleAppsScript.md) — JavaScript-like Google Apps automation environment where Mark uses ChatGPT-generated snippets for spreadsheet workflows.
 - [Adam Carolla](entities/AdamCarolla.md) — Malibu and Los Angeles-based guest using construction, permitting, evacuation, and media experience to criticize California governance.
 - [Los Angeles](entities/LosAngeles.md) — City node for the episode's post-fire rebuilding, permitting, public-safety, school-closure, homelessness, and leadership critique.
 - [Malibu](entities/Malibu.md) — California coastal city tied to Carolla's evacuation account, rebuilding delay, Coastal Commission friction, and fire-resilient construction context.
@@ -6721,6 +6726,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Creative Collaboration](concepts/AICreativeCollaboration.md) — Everyday use of AI as a partner for speeches, images, lyrics, songs, and other creative artifacts while humans keep editing and judgment.
+- [AI First-Draft Generation](concepts/AIFirstDraftGeneration.md) — Workflow where AI creates a starting draft that a human then verifies, edits, personalizes, and owns.
+- [AI Professional Data Security](concepts/AIProfessionalDataSecurity.md) — Workplace boundary around what employer, client, competitor, or proprietary context may be entered into AI tools.
+- [AI Assisted Light Coding](concepts/AIAssistedLightCoding.md) — Non-specialist use of AI-generated snippets and small automations, bounded by local context, testing, and responsibility.
 - [California Post-Fire Rebuilding Delay](concepts/CaliforniaPostFireRebuildingDelay.md) — Recovery bottleneck where permitting, appeals, insurance, skilled labor, and leadership incentives can prevent burned homes from returning quickly.
 - [Safety Tradeoff Blindness](concepts/SafetyTradeoffBlindness.md) — Governance pattern where visible safety goals crowd out cost, delay, affordability, learning loss, and other second-order harms.
 - [Safe Spaces vs Octagons](concepts/SafeSpacesVsOctagons.md) — Carolla's source-scoped cultural geography contrasting high-protection cities with lower-regulation, consequence-oriented migration destinations.

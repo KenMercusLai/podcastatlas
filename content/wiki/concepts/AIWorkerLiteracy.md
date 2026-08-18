@@ -2,7 +2,7 @@
 title: "AI Worker Literacy"
 type: concept
 tags: [ai, labor, education, workforce]
-sources: [ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-9-chatgpt-and-education-systems, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+sources: [ep-17-ais-impact-on-creativity-a-consumers-perspective, ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-9-chatgpt-and-education-systems, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
 last_updated: 2026-08-18
 ---
 
@@ -15,6 +15,8 @@ last_updated: 2026-08-18
 [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] adds a data-scientist specialization through [[MarinaDataScienceWithSam|Marina]]. For data scientists, literacy includes [[PromptAsIntentTransmission|prompting]], API use, lightweight web demos, resource management, privacy boundaries, [[AIVerification]], and knowing when [[GenerativeAIUseCaseTriage]] should limit or redirect a generative-AI workflow.
 
 [[ep-16-data-decoded-navigating-the-ai-revolution]] adds [[VishalDataScienceWithSam|Vishal]]'s data-professional version. Literacy includes using GPT-like tools, but also preserving statistics, SQL, Python, [[AIDataReadiness]], [[PredictiveModelValidation]], business problem solving, and [[DataScienceStorytelling]] as automation changes basic cleaning, reporting, and coding work.
+
+[[ep-17-ais-impact-on-creativity-a-consumers-perspective]] adds a non-specialist and retiree-user version through [[MarkDataScienceWithSam|Mark]]. Literacy means not being intimidated, starting with a simple project, refining prompts, knowing that [[AIHallucination]] exists, using company-approved tools for professional work, and testing small [[GoogleAppsScript]] snippets before relying on them.
 
 AI worker literacy is the baseline understanding workers need to use, question, and contextualize AI tools in a labor market where employers and policymakers are pushing "AI readiness." [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the concept through the [[USDepartmentOfLabor|U.S. Department of Labor]]'s text-message AI course, which covers basics such as generative AI, prompting, and large language models.
 
@@ -37,6 +39,7 @@ The source treats literacy as useful but limited. [[MariaCurie|Maria Curi]] says
 - EP10 adds that AI literacy can become part of professional actuarial formation, but it must be paired with validation, source checking, and domain accountability through [[ActuarialAIAugmentation]].
 - EP15 adds that specialist AI literacy can be role-specific: data scientists need prompt, API, prototype, resource, verification, and governance fluency around LLM workflows.
 - EP16 adds that data professionals need literacy across AI tools, statistical validation, data engineering, business interpretation, and communication rather than only prompt use.
+- EP17 adds that AI literacy is also a practical consumer skill: ordinary workers and volunteers need enough tool familiarity, prompt iteration, verification, and data-security judgment to use AI safely.
 
 ## Connections
 - [[USDepartmentOfLabor|U.S. Department of Labor]] - agency introducing the text-message course.
@@ -50,3 +53,4 @@ The source treats literacy as useful but limited. [[MariaCurie|Maria Curi]] says
 - [[BusinessLedAITransformation]] and [[AICommercializationPressure]] - enterprise adoption pressure that makes worker literacy politically salient.
 - [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech branch where literacy, retention, and knowledge handoff intersect.
 - [[PriyaRathod]], [[Indeed]], [[WorkplaceAIReadinessGap]], [[AINativeWorker]], [[ManagerialAIFluencyGap]], and [[AIJobSecurityAnxiety]] - Marketplace Tech branch on AI skills, worker confidence, and management readiness.
+- [[MarkDataScienceWithSam]], [[AICreativeCollaboration]], [[AIFirstDraftGeneration]], [[AIProfessionalDataSecurity]], and [[AIAssistedLightCoding]] - non-specialist everyday-use branch added by Data Science With Sam EP17.
