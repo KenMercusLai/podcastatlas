@@ -7958,3 +7958,7 @@ Added source page for an All-In live Davos interview with Satya Nadella on Micro
 ## [2026-08-18] lint | Wiki health check
 
 Ran health before lint; health scanned 11,315 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,315 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran health before lint; health passed with no structural pre-flight issues. Lint scanned 11,315 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
