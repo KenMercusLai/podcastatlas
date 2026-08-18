@@ -2,7 +2,7 @@
 title: "梁惠王 / King Hui of Liang"
 type: entity
 tags: [person, ruler, china, warring-states]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -22,6 +22,8 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] shows Liang Hui Wang trading tactical pride for strategic relief. Under pressure from [[ShangYang|公孙鞅 / 商鞅]] at [[Anyi|安邑]] and [[Guyang|固阳]], Wei returns [[Handan|邯郸]] to [[ZhaoState|赵国]] and joins the [[ZhangshuiAlliance|漳水之盟]]. The episode also uses [[ZhushuJinian|《竹书纪年》]] to say he used Han forces to defeat a coalition at [[XianglingWarringStates|襄陵]], after which Qi sought peace through [[Jingshe|景舍]].
 
+[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] adds a new stress point in his reign through [[PrinceShenWei|太子申]]. When [[QiState|齐国]] attacks toward [[Daliang|大梁]] during the [[MalingBattle|马陵之战]] setup, Wei raises another army under the crown prince. The episode treats that choice as puzzling and uses it to explain [[CrownPrinceCommandRisk|太子挂帅风险]].
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[Mengzi|孟子 / Mencius]] and [[MenciusText|《孟子》]] - dialogue context.
@@ -33,3 +35,4 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 - [[QiState|齐国]], [[Shiji|《史记》]], [[EarlyWarringStatesInterstateWar]], and [[TerritorialControlChurn]] - Zhouji 11 post-succession peace branch.
 - [[LongJia|龙甲]], [[HanZhaohou|韩昭侯]], [[WeiGreatWallAntiQinDefense]], and [[QinEastwardPressure]] - Zhouji 14 defensive and diplomatic response branch.
 - [[ShangYang|公孙鞅 / 商鞅]], [[Anyi|安邑]], [[Guyang|固阳]], [[Handan|邯郸]], [[ZhangshuiAlliance|漳水之盟]], [[XianglingWarringStates|襄陵]], and [[Jingshe|景舍]] - Zhouji 17 pressure and reconciliation branch.
+- [[PrinceShenWei|太子申]], [[MalingBattle|马陵之战]], [[Daliang|大梁]], and [[CrownPrinceCommandRisk]] - Zhouji 19 crown-prince command branch.

@@ -10255,6 +10255,10 @@
     "title": "Crowdsourced Academic Auditing",
     "url": "/wiki/concepts/crowdsourcedacademicauditing/"
   },
+  "CrownPrinceCommandRisk": {
+    "title": "Crown-Prince Command Risk / 太子挂帅风险",
+    "url": "/wiki/concepts/crownprincecommandrisk/"
+  },
   "CrueltyUsedWell": {
     "title": "Cruelty Used Well",
     "url": "/wiki/concepts/crueltyusedwell/"
@@ -11250,6 +11254,10 @@
   "Deindividuation": {
     "title": "Deindividuation / 去个体化",
     "url": "/wiki/concepts/deindividuation/"
+  },
+  "DelayedRescueStatecraft": {
+    "title": "Delayed Rescue Statecraft / 晚救权谋",
+    "url": "/wiki/concepts/delayedrescuestatecraft/"
   },
   "DelcyRodriguez": {
     "title": "Delcy Rodriguez",
@@ -14966,6 +14974,10 @@
   "ForagingEthics": {
     "title": "Foraging Ethics",
     "url": "/wiki/concepts/foragingethics/"
+  },
+  "ForcedMarchOperationalRisk": {
+    "title": "Forced-March Operational Risk / 急行军作战风险",
+    "url": "/wiki/concepts/forcedmarchoperationalrisk/"
   },
   "ForcedRefugeeReturn": {
     "title": "Forced Refugee Return",
@@ -30847,6 +30859,10 @@
     "title": "Prince Hisahito",
     "url": "/wiki/entities/princehisahito/"
   },
+  "PrinceShenWei": {
+    "title": "太子申 / Prince Shen of Wei",
+    "url": "/wiki/entities/princeshenwei/"
+  },
   "PrincesInTheTower": {
     "title": "Princes in the Tower / 塔中王子案",
     "url": "/wiki/entities/princesinthetower/"
@@ -37139,6 +37155,10 @@
     "title": "Suno Spark",
     "url": "/wiki/entities/sunospark/"
   },
+  "SunziBingfa": {
+    "title": "《孙子兵法》 / The Art of War",
+    "url": "/wiki/entities/sunzibingfa/"
+  },
   "SuoYinReading": {
     "title": "索隐式阅读 / Suo Yin Reading",
     "url": "/wiki/concepts/suoyinreading/"
@@ -38606,6 +38626,10 @@
   "TianWenWeiChancellor": {
     "title": "田文 / Tian Wen (Wei chancellor)",
     "url": "/wiki/entities/tianwenweichancellor/"
+  },
+  "TianYing": {
+    "title": "田婴 / Tian Ying",
+    "url": "/wiki/entities/tianying/"
   },
   "TianYingqi": {
     "title": "田英齐 / Tian Yingqi",
@@ -43687,6 +43711,10 @@
     "title": "Zoox",
     "url": "/wiki/entities/zoox/"
   },
+  "ZouJi": {
+    "title": "成侯邹忌 / Chenghou Zou Ji",
+    "url": "/wiki/entities/zouji/"
+  },
   "ZouState": {
     "title": "邹国 / Zou State",
     "url": "/wiki/entities/zoustate/"
@@ -46646,5 +46674,9 @@
   "zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq": {
     "title": "《资治通鉴·周纪》18丨中国历史上第一例人头税",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq/"
+  },
+  "zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada": {
+    "title": "《资治通鉴·周纪》19丨马陵之战",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada/"
   }
 }

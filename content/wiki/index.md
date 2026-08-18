@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》19丨马陵之战](sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada.md) — 芮淇讲透资治通鉴 episode on the 341 BCE Maling campaign setup: Wei attacks Han, Qi delays rescue for leverage, Sun Bin targets Daliang again, Wei appoints Prince Shen, and forced-march risk becomes the next tactical hinge.
 - [《资治通鉴·周纪》18丨中国历史上第一例人头税](sources/zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq.md) — 芮淇讲透资治通鉴 episode on Shang Yang's likely poll-tax reform, Zhao Fan's failed surprise attack on Handan, the 伐/侵/袭 wording distinction, Wey's demotion, lords meeting at Luoyi without true royal audience, and Zhou recognition of Qin Xiao Gong's hegemon status.
 - [《资治通鉴·周纪》17丨韩昭侯和申不害](sources/zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof.md) — 芮淇讲透资治通鉴 episode on Qin's attacks on Anyi and Guyang, Wei's reconciliation with Zhao and Qi under Qin pressure, Shen Buhai and Han Zhaohou's merit-based reward-and-punishment stories, and Shang Yang's second reform round around Xianyang, household separation, counties, land, and measurements.
 - [《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战](sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr.md) — 芮淇讲透资治通鉴 episode on Sun Bin and Pang Juan, Tian Ji horse racing, encircling Wei to rescue Zhao at Guiling, Han's attack on Eastern Zhou, and Jiang Yi's parable attacks on Zhao Xixu.
@@ -1022,6 +1023,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [成侯邹忌 / Chenghou Zou Ji](entities/ZouJi.md) — Qi minister whose no-rescue position anchors one pole of the Maling rescue-Han debate.
+- [田婴 / Tian Ying](entities/TianYing.md) — Qi royal-family commander named in the delayed rescue of Han before the Maling campaign.
+- [太子申 / Prince Shen of Wei](entities/PrinceShenWei.md) — Wei crown prince appointed to command during the Maling setup, grounding the crown-prince command risk concept.
+- [《孙子兵法》 / The Art of War](entities/SunziBingfa.md) — Military text whose "军争" warning about long pursuit frames Sun Bin's forced-march plan at Maling.
 - [赵范 / Zhao Fan](entities/ZhaoFan.md) — Zhao prince whose failed surprise attack on Handan lets the source explain the "袭" wording and Zhao Suhou's early succession challenge.
 - [牟辛 / Mou Xin](entities/MouXin.md) — Qi grandee killed in the compact 346 BCE notice.
 - [鲁康公 / Duke Kang of Lu](entities/LuKanggong.md) — Lu ruler whose death opens the 346 BCE succession notice.
@@ -1029,7 +1034,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [逢泽 / Fengze](entities/Fengze.md) — Meeting site for Gongzi Shaoguan, the lords, and the Zhou audience after Qin's hegemon recognition.
 - [公子少官 / Gongzi Shaoguan](entities/GongziShaoguan.md) — Qin prince sent by Qin Xiao Gong with troops to meet the lords at Fengze.
 - [洛邑 / Luoyi](entities/Luoyi.md) — Zhou royal capital whose "会于京师" wording marks a meeting not centered on royal audience.
-- [马陵之战 / Battle of Maling](entities/MalingBattle.md) — Qi-Wei battle previewed as the next major Sun Bin and Pang Juan confrontation.
+- [马陵之战 / Battle of Maling](entities/MalingBattle.md) — Qi-Wei campaign rooted in Wei's attack on Han, Qi's delayed rescue, Daliang pressure, Prince Shen's command, and Sun Bin's pursuit-exhaustion setup.
 - [申不害 / Shen Buhai](entities/ShenBuhai.md) — Han chief minister whose Huang-Lao and xingming learning become a ruler-technique and merit-based reward case under Han Zhaohou.
 - [咸阳 / Xianyang](entities/Xianyang.md) — Qin capital selected in Shang Yang's second reform round and used by the source as durable reform geography.
 - [固阳 / Guyang](entities/Guyang.md) — Wei place surrounded by Qin under Shang Yang in 351 BCE, marking Qin eastward pressure.
@@ -6973,6 +6978,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Delayed Rescue Statecraft / 晚救权谋](concepts/DelayedRescueStatecraft.md) — Sun Bin's intervention-timing strategy: reassure an ally privately, let enemy and ally exhaust each other, then rescue with greater leverage.
+- [Crown-Prince Command Risk / 太子挂帅风险](concepts/CrownPrinceCommandRisk.md) — Succession and military-command risk created when an heir gains battlefield authority, officer networks, or combat exposure.
+- [Forced-March Operational Risk / 急行军作战风险](concepts/ForcedMarchOperationalRisk.md) — Military risk that rapid pursuit for advantage breaks command, logistics, formation, and endurance before battle.
 - [Poll Tax / 人头税](concepts/PollTax.md) — Tax charged by person, which the episode reads as likely emerging from Shang Yang's 348 BCE fiscal reform.
 - [Military Action Terminology / 伐侵袭用语](concepts/MilitaryActionTerminology.md) — Chronicle-word distinction among open punitive war, unannounced attack, and light-force surprise attack.
 - [Audience-Versus-Meeting Diplomacy / 朝会之别](concepts/AudienceVsMeetingDiplomacy.md) — Diplomatic wording distinction where "会于京师" signals a lords' meeting at the Zhou capital without full royal audience.

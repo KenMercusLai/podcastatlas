@@ -2,7 +2,7 @@
 title: "孙膑 / Sun Bin"
 type: entity
 tags: [person, strategist, pre-qin, qi-state, warring-states]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-19
 ---
 
@@ -14,9 +14,11 @@ The source stresses Sun Bin's recovery of agency after punishment. A [[QiState|�
 
 In the military branch, [[QiWeiwang|齐威王]] first wants him to command the rescue of [[ZhaoState|赵国]], but Sun Bin says his mutilation and disability make immediate army authority difficult. He therefore becomes Tian Ji's military adviser and redirects Qi away from a direct rescue march toward an attack on [[Daliang|大梁]], leading to [[GuilingBattle|桂陵之战]].
 
+[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] extends Sun Bin from the Guiling pattern into the [[MalingBattle|马陵之战]] setup. He advises [[QiWeiwang|齐威王]] not to rescue [[HanState|韩国]] too early, turning intervention timing into [[DelayedRescueStatecraft|delayed rescue statecraft]]. After Qi enters the war, he again targets [[Daliang|大梁]] and then designs the next move around [[ForcedMarchOperationalRisk|forced-march risk]], using Wei's contempt for Qi to lure [[PangJuan|庞涓]] into costly pursuit.
+
 ## Connections
 - [[PangJuan|庞涓]] and [[Guiguzi|鬼谷子]] - fellow student and teacher branch in the source.
 - [[TianJi|田忌]], [[QiWeiwang|齐威王]], and [[QiState|齐国]] - Qi patronage and command setting.
-- [[TianJiHorseRacing]], [[LureEnemyOutOfPosition]], and [[EncirclingWeiToRescueZhao]] - strategic patterns attributed to him in the episode.
-- [[GuilingBattle|桂陵之战]], [[WeiState|魏国]], [[ZhaoState|赵国]], [[Daliang|大梁]], and [[Handan|邯郸]] - campaign setting.
-- [[SunBinBingfa|《孙膑兵法》]] and [[HistoricalDetectiveReasoning]] - later textual-evidence branch.
+- [[TianJiHorseRacing]], [[LureEnemyOutOfPosition]], [[EncirclingWeiToRescueZhao]], [[DelayedRescueStatecraft]], and [[ForcedMarchOperationalRisk]] - strategic patterns attributed to him in the episodes.
+- [[GuilingBattle|桂陵之战]], [[MalingBattle|马陵之战]], [[WeiState|魏国]], [[ZhaoState|赵国]], [[HanState|韩国]], [[Daliang|大梁]], and [[Handan|邯郸]] - campaign setting.
+- [[SunBinBingfa|《孙膑兵法》]], [[SunziBingfa|《孙子兵法》]], and [[HistoricalDetectiveReasoning]] - military-text and textual-evidence branch.

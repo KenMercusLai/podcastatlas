@@ -1,0 +1,26 @@
+---
+title: "Forced-March Operational Risk / 急行军作战风险"
+type: concept
+tags: [warfare, logistics, strategy, pre-qin-history, warring-states]
+sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+last_updated: 2026-08-19
+---
+
+# Forced-March Operational Risk / 急行军作战风险
+
+Forced-march operational risk / 急行军作战风险 is the military pattern [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] uses to explain [[SunBin|孙膑]]'s plan before [[MalingBattle|马陵之战]]. The episode quotes [[SunziBingfa|《孙子兵法》]] to argue that rushing long distances for advantage can break the very force trying to seize that advantage.
+
+The operational risk is not only fatigue. Rapid pursuit can split units, overrun supplies, weaken formation, and detach commanders from the full army. Sun Bin's plan is to exploit [[WeiState|魏国]]'s contempt for [[QiState|齐国]] by making [[PangJuan|庞涓]] believe quick pursuit will produce an easy victory, then meeting him with rested and concentrated Qi forces.
+
+## Key Claims
+- Speed is useful only while the army's command, supply, and formation remain intact.
+- A fleeing enemy can be a lure, not proof of weakness.
+- Long pursuit can convert psychological confidence into physical vulnerability.
+- The "以逸待劳" advantage depends on one side staying rested while the other side spends itself moving.
+- Forced-march risk extends [[LureEnemyOutOfPosition|诱敌离位]] from position control into endurance and logistics.
+
+## Connections
+- [[SunBin|孙膑]], [[PangJuan|庞涓]], and [[SunziBingfa|《孙子兵法》]] - strategist, target, and textual frame.
+- [[QiState|齐国]], [[WeiState|魏国]], and [[MalingBattle|马陵之战]] - campaign setting.
+- [[LureEnemyOutOfPosition]] and [[EncirclingWeiToRescueZhao]] - adjacent strategic patterns.
+- [[EarlyWarringStatesInterstateWar]] - broader conflict setting.

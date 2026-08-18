@@ -2,7 +2,7 @@
 title: "周显王 / King Xian of Zhou"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ In the Zhouji 11 source, he also performs a symbolic action: after [[QinXianGong
 
 [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] continues the frame through 349-343 BCE. The episode records [[ShangYang|公孙鞅 / 商鞅]]'s likely [[PollTax|人头税]] reform, [[ZhaoFan|赵范]]'s failed surprise attack on [[Handan|邯郸]], [[LuKanggong|鲁康公]]'s death and [[LuJinggong|鲁景公]]'s accession, [[WeyState|卫国]]'s demotion, and the paired royal-status signals of [[AudienceVsMeetingDiplomacy|诸侯会于京师]] and [[ZhouHegemonRecognition|王致伯于秦]].
 
+[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] continues the frame into 341 BCE after a blank 342 BCE notice. The year brings [[MalingBattle|马陵之战]] through [[WeiState|魏国]]'s attack on [[HanState|韩国]], [[QiState|齐国]]'s delayed rescue decision, and [[SunBin|孙膑]]'s plan to exploit [[PangJuan|庞涓]] through [[ForcedMarchOperationalRisk|急行军作战风险]].
+
 ## Connections
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
 - [[ZhouLiewang|周烈王]] - predecessor and brother in the source.
@@ -39,3 +41,4 @@ In the Zhouji 11 source, he also performs a symbolic action: after [[QinXianGong
 - [[SunBin|孙膑]], [[GuilingBattle|桂陵之战]], [[EasternZhouPolity|东周国]], [[ZhaoXixu|昭奚恤]], and [[JiangYi|江乙]] - Zhouji 16 strategy, royal-fragmentation, and chancellor-politics branch.
 - [[ShenBuhai|申不害]], [[HanZhaohou|韩昭侯]], [[Xianyang|咸阳]], [[QinAdministrativeStandardization]], [[ZhangshuiAlliance|漳水之盟]], and [[ZhaoSuhou|赵肃侯]] - Zhouji 17 governance, reform, diplomacy, and succession branch.
 - [[PollTax|人头税]], [[ZhaoFan|赵范]], [[Luoyi|洛邑]], [[Fengze|逢泽]], [[AudienceVsMeetingDiplomacy]], and [[ZhouHegemonRecognition]] - Zhouji 18 fiscal, succession, meeting, and recognition branch.
+- [[MalingBattle|马陵之战]], [[DelayedRescueStatecraft]], [[PrinceShenWei|太子申]], and [[ForcedMarchOperationalRisk]] - Zhouji 19 rescue-Han and Maling setup branch.

@@ -2,7 +2,7 @@
 title: "韩国 / Han State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -36,6 +36,8 @@ The source uses Han less as a full institutional history than as a succession an
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds Han's internal-strengthening branch under [[HanZhaohou|韩昭侯]] and [[ShenBuhai|申不害]]. The episode says Shen Buhai's chief-minister work helps make Han ordered and militarily strong, while Han Zhaohou's refusal of private office requests and careful use of rewards become [[MeritBasedRewardPunishment|因功赏罚]]. Han also appears as both a force in the [[XianglingWarringStates|襄陵]] fighting and a refuge for [[GongziXie|公子泄]] after Zhao's succession conflict.
 
+[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] makes Han the endangered state whose crisis triggers [[MalingBattle|马陵之战]]. [[WeiState|魏国]] attacks under [[PangJuan|庞涓]], Han asks [[QiState|齐国]] for help, and [[QiWeiwang|齐威王]] privately promises rescue while following [[SunBin|孙膑]]'s [[DelayedRescueStatecraft|delayed-rescue]] advice. Han keeps fighting, loses repeatedly, and ends up dependent on Qi's intervention.
+
 ## Connections
 - [[HanJinghou|韩景侯]] and [[HanLiehou|韩烈侯]] - succession pair in the source.
 - [[ZhiYao|智瑶]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 Jin-partition and formal-recognition branch.
@@ -54,3 +56,4 @@ The source uses Han less as a full institutional history than as a succession an
 - [[HanZhaohou|韩昭侯]], [[LongJia|龙甲]], [[WeiGreatWallAntiQinDefense]], and [[QinEastwardPressure]] - Zhouji 14 West Mountain and Wei-Han meeting branch.
 - [[EasternZhouPolity|东周国]], [[WesternZhouPolity|西周国]], [[EasternWesternZhouSplit]], and [[ZhouRoyalHouse|周王室]] - Zhouji 16 attack on the diminished Zhou domain.
 - [[HanZhaohou|韩昭侯]], [[ShenBuhai|申不害]], [[MeritBasedRewardPunishment]], [[XianglingWarringStates|襄陵]], and [[GongziXie|公子泄]] - Zhouji 17 governance, war, and refuge branch.
+- [[MalingBattle|马陵之战]], [[SunBin|孙膑]], [[QiWeiwang|齐威王]], [[DelayedRescueStatecraft]], and [[PangJuan|庞涓]] - Zhouji 19 rescue-Han branch.

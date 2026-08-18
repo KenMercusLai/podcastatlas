@@ -8131,6 +8131,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》19丨马陵之战
+
+Added source page for a 芮淇讲透资治通鉴 episode on the 342-341 BCE transition and the setup for the Battle of Maling: Wei attacks Han, Qi debates whether to rescue early or late, Sun Bin argues for delayed rescue, Qi secretly reassures Han, Han suffers repeated defeats, Qi attacks toward Daliang, Wei recalls Pang Juan and appoints Prince Shen, and Sun Bin prepares to exploit forced-march risk through Wei's contempt for Qi. Created pages for Chenghou Zou Ji, Tian Ying, Prince Shen of Wei, The Art of War, Delayed Rescue Statecraft, Crown-Prince Command Risk, and Forced-March Operational Risk; updated overview, index, Battle of Maling, Sun Bin, Pang Juan, Tian Ji, Qi Wei Wang, Qi/Wei/Han state pages, Liang Hui Wang, Daliang, Zhou Xian Wang, Warring States Period, Early Warring States Interstate War, Encircling Wei to Rescue Zhao, Lure Enemy Out of Position, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, and William Shakespeare. No direct contradiction found; the transcript's "成侯周济" and "田叛" name issues are kept source-scoped.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》18丨中国历史上第一例人头税
 
 Added source page for a 芮淇讲透资治通鉴 episode on 349-343 BCE under Zhou Xian Wang, covering Shang Yang's likely poll-tax reform, Zhao Fan's failed surprise attack on Handan, the 伐/侵/袭 terminology distinction, Qi/Lu/Wey compact notices, "诸侯会于京师" as a sign of Zhou royal marginalization, and Zhou recognition of Qin Xiao Gong's hegemon status through the Fengze meeting. Created pages for Poll Tax, Military Action Terminology, Audience-Versus-Meeting Diplomacy, Zhou Hegemon Recognition, Zhao Fan, Mou Xin, Lu Kang Gong, Lu Jing Gong, Fengze, Gongzi Shaoguan, Luoyi, and the Battle of Maling preview; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Zhou Royal House, Qin/Qin Xiao Gong/Shang Yang/Shang Yang Reforms, Zhao/Zhao Suhou/Handan, Qi/Lu/Wey state pages, Warring States Period, Qin Eastward Pressure, Early Warring States Interstate War, Ritual Recognition of Military Power, and related legitimacy/fiscal branches. No direct contradiction found; the poll-tax and Fengze-location claims remain source-scoped inferences.
@@ -8174,6 +8178,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] graph | Knowledge graph rebuilt
 
 11649 nodes, 129324 edges (129324 extracted, 0 inferred).
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

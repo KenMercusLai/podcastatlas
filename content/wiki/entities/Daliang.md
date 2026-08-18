@@ -2,7 +2,7 @@
 title: "大梁 / Daliang"
 type: entity
 tags: [city, pre-qin, wei-state, warring-states]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-19
 ---
 
@@ -12,8 +12,10 @@ last_updated: 2026-08-19
 
 The page is source-scoped. Daliang matters here because it makes [[EncirclingWeiToRescueZhao|围魏救赵]] concrete: the strategic target is not the place where the ally is suffering, but the place whose danger forces the attacker to abandon that pressure.
 
+[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] reuses Daliang in the [[MalingBattle|马陵之战]] setup. This time the ally under pressure is [[HanState|韩国]], but the logic is similar: Qi's army points at Wei's capital area so [[PangJuan|庞涓]] must leave the Han front and return.
+
 ## Connections
 - [[WeiState|魏国]] - state whose vital place is threatened in the source.
 - [[SunBin|孙膑]], [[TianJi|田忌]], and [[QiState|齐国]] - planners and attacker.
-- [[Handan|邯郸]] and [[ZhaoState|赵国]] - original siege target and ally being relieved.
-- [[GuilingBattle|桂陵之战]] and [[EncirclingWeiToRescueZhao]] - campaign and strategy branch.
+- [[Handan|邯郸]], [[ZhaoState|赵国]], and [[HanState|韩国]] - original siege or rescue-target settings.
+- [[GuilingBattle|桂陵之战]], [[MalingBattle|马陵之战]], and [[EncirclingWeiToRescueZhao]] - campaign and strategy branch.
