@@ -1571,6 +1571,10 @@
     "title": "AI Employment Multiplier Compression / AI就业乘数压缩",
     "url": "/wiki/concepts/aiemploymentmultipliercompression/"
   },
+  "AIEnabledLoanDocumentAnalysis": {
+    "title": "AI-Enabled Loan Document Analysis",
+    "url": "/wiki/concepts/aienabledloandocumentanalysis/"
+  },
   "AIEnabledObservability": {
     "title": "AI-Enabled Observability",
     "url": "/wiki/concepts/aienabledobservability/"
@@ -6227,6 +6231,10 @@
     "title": "Boris Johnson",
     "url": "/wiki/entities/borisjohnson/"
   },
+  "BorrowerReadinessFinancing": {
+    "title": "Borrower Readiness Financing",
+    "url": "/wiki/concepts/borrowerreadinessfinancing/"
+  },
   "Bosch": {
     "title": "Bosch / 博世",
     "url": "/wiki/entities/bosch/"
@@ -8835,6 +8843,10 @@
     "title": "Climate Startup Commercialization Gap",
     "url": "/wiki/concepts/climatestartupcommercializationgap/"
   },
+  "ClinicLenderMatching": {
+    "title": "Clinic Lender Matching",
+    "url": "/wiki/concepts/cliniclendermatching/"
+  },
   "ClinicalDataTrustRebuilding": {
     "title": "Clinical Data Trust Rebuilding",
     "url": "/wiki/concepts/clinicaldatatrustrebuilding/"
@@ -9402,6 +9414,10 @@
   "ConsensusTrainedArtBoundary": {
     "title": "Consensus-Trained Art Boundary",
     "url": "/wiki/concepts/consensustrainedartboundary/"
+  },
+  "ConsentBasedLoanDataSharing": {
+    "title": "Consent-Based Loan Data Sharing",
+    "url": "/wiki/concepts/consentbasedloandatasharing/"
   },
   "ConsentBasedRecording": {
     "title": "Consent-Based Recording",
@@ -10654,6 +10670,10 @@
   "DataCenterThermalManagement": {
     "title": "Data Center Thermal Management",
     "url": "/wiki/concepts/datacenterthermalmanagement/"
+  },
+  "DataDrivenClinicUnderwriting": {
+    "title": "Data-Driven Clinic Underwriting",
+    "url": "/wiki/concepts/datadrivenclinicunderwriting/"
   },
   "DataDrivenEntertainmentProduct": {
     "title": "Data-Driven Entertainment Product / 数据驱动娱乐产品",
@@ -18807,6 +18827,10 @@
     "title": "Independent Agent Vendor",
     "url": "/wiki/concepts/independentagentvendor/"
   },
+  "IndependentHealthcareClinicFinancing": {
+    "title": "Independent Healthcare Clinic Financing",
+    "url": "/wiki/concepts/independenthealthcareclinicfinancing/"
+  },
   "IndependentInvestmentConsulting": {
     "title": "Independent Investment Consulting",
     "url": "/wiki/concepts/independentinvestmentconsulting/"
@@ -23087,6 +23111,10 @@
     "title": "Livestream Persona Labor / 直播人设劳动",
     "url": "/wiki/concepts/livestreampersonalabor/"
   },
+  "Livora": {
+    "title": "Livora",
+    "url": "/wiki/entities/livora/"
+  },
   "LixinAccounting": {
     "title": "立信会计",
     "url": "/wiki/entities/lixinaccounting/"
@@ -27266,6 +27294,10 @@
   "NolaAgha": {
     "title": "Nola Agha",
     "url": "/wiki/entities/nolaagha/"
+  },
+  "NonBankHealthcareLending": {
+    "title": "Non-Bank Healthcare Lending",
+    "url": "/wiki/concepts/nonbankhealthcarelending/"
   },
   "NonCompeteAgreements": {
     "title": "Non-Compete Agreements",
@@ -34051,6 +34083,10 @@
     "title": "《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper",
     "url": "/wiki/entities/sharkfinandsichuanpepper/"
   },
+  "SharminDataScienceWithSam": {
+    "title": "Sharmin (Data Science With Sam)",
+    "url": "/wiki/entities/sharmindatasciencewithsam/"
+  },
   "SharonPriceJohn": {
     "title": "Sharon Price John",
     "url": "/wiki/entities/sharonpricejohn/"
@@ -40511,6 +40547,10 @@
     "title": "Women Outdoor Visibility / 女性户外可见度",
     "url": "/wiki/concepts/womenoutdoorvisibility/"
   },
+  "WomenOwnedClinicCapitalGap": {
+    "title": "Women-Owned Clinic Capital Gap",
+    "url": "/wiki/concepts/womenownedcliniccapitalgap/"
+  },
   "WomenWorkplaceProgressStall": {
     "title": "Women Workplace Progress Stall",
     "url": "/wiki/concepts/womenworkplaceprogressstall/"
@@ -43094,6 +43134,10 @@
   "ep-17-ais-impact-on-creativity-a-consumers-perspective": {
     "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
     "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+  },
+  "ep-28-the-ai-revolution-redefining-healthcare-financing": {
+    "title": "EP 28: The AI Revolution: Redefining Healthcare Financing",
+    "url": "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"
   },
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",

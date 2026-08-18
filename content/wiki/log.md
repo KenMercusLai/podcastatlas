@@ -7970,3 +7970,11 @@ Ran health before lint; health passed with no structural pre-flight issues. Lint
 ## [2026-08-18] lint | Wiki health check
 
 Ran health before lint; health scanned 11,329 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,329 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-18] ingest | EP 28: The AI Revolution: Redefining Healthcare Financing
+
+Added source page for a Data Science With Sam episode with Sharmin of Livora on independent healthcare clinic financing, AI-enabled loan document analysis, lender matching, non-bank healthcare lending, borrower readiness, women-owned clinic capital gaps, and consent-based loan data sharing. Created pages for Sharmin (Data Science With Sam), Livora, Independent Healthcare Clinic Financing, Data-Driven Clinic Underwriting, Clinic Lender Matching, AI-Enabled Loan Document Analysis, Borrower Readiness Financing, Women-Owned Clinic Capital Gap, Consent-Based Loan Data Sharing, and Non-Bank Healthcare Lending; updated overview, index, Data Science With Sam, Sam (Data Science With Sam), AI Data Readiness, Direct Lending, Healthcare AI Infrastructure, HIPAA-Constrained Medical AI, and AI Governance And Compliance. No direct contradiction found; the source is kept founder-perspective and source-attributed for claims about Livora's security, lender matching, funding speed, and borrower outcomes.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

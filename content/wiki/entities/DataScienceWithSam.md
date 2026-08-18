@@ -2,11 +2,13 @@
 title: "Data Science With Sam"
 type: entity
 tags: [podcast, data-science, ai]
-sources: [ep-17-ais-impact-on-creativity-a-consumers-perspective, ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-14-what-is-observability, ep-13-soccer-analytics-through-the-lens-of-coaching, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
+sources: [ep-28-the-ai-revolution-redefining-healthcare-financing, ep-17-ais-impact-on-creativity-a-consumers-perspective, ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-14-what-is-observability, ep-13-soccer-analytics-through-the-lens-of-coaching, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
 last_updated: 2026-08-18
 ---
 
 # Data Science With Sam
+
+[[ep-28-the-ai-revolution-redefining-healthcare-financing]] adds a healthcare-financing and AI lending-workflow branch, with [[SamDataScienceWithSam|Sam]] interviewing [[SharminDataScienceWithSam|Sharmin]] of [[Livora]] on [[IndependentHealthcareClinicFinancing]], [[DataDrivenClinicUnderwriting]], [[AIEnabledLoanDocumentAnalysis]], [[ClinicLenderMatching]], [[BorrowerReadinessFinancing]], [[WomenOwnedClinicCapitalGap]], [[NonBankHealthcareLending]], and [[ConsentBasedLoanDataSharing]].
 
 [[ep-17-ais-impact-on-creativity-a-consumers-perspective]] adds a consumer creativity and non-specialist AI branch, with [[SamDataScienceWithSam|Sam]] interviewing [[MarkDataScienceWithSam|Mark]] on [[ChatGPT]], [[DALLE|DALL-E]], [[Suno]], [[GoogleAppsScript]], [[AICreativeCollaboration]], [[AIFirstDraftGeneration]], [[AIProfessionalDataSecurity]], and [[AIAssistedLightCoding]].
 
@@ -48,8 +50,11 @@ EP15 adds a generative-AI role layer where data scientists translate between bus
 
 EP17 adds an everyday AI-augmentation layer where a non-specialist uses generative AI for speech drafts, alumni imagery, songs, professional research, and small spreadsheet automations while preserving editing, fact-checking, data-security, and company-license boundaries.
 
+EP28 adds a healthcare-fintech layer where AI, lender criteria, borrower readiness, consent, and human trust shape whether independent clinics can access growth capital without overexposing sensitive data or taking unsuitable debt.
+
 ## Connections
-- [[SamDataScienceWithSam]], [[MarkDataScienceWithSam]], [[VishalDataScienceWithSam]], [[MarinaDataScienceWithSam]], [[EdFerron]], [[BrunoSoccerCoach]], [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - host and guests in the sources.
+- [[SamDataScienceWithSam]], [[SharminDataScienceWithSam]], [[MarkDataScienceWithSam]], [[VishalDataScienceWithSam]], [[MarinaDataScienceWithSam]], [[EdFerron]], [[BrunoSoccerCoach]], [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - host and guests in the sources.
+- [[Livora]], [[IndependentHealthcareClinicFinancing]], [[DataDrivenClinicUnderwriting]], [[AIEnabledLoanDocumentAnalysis]], [[ClinicLenderMatching]], [[BorrowerReadinessFinancing]], [[WomenOwnedClinicCapitalGap]], [[NonBankHealthcareLending]], and [[ConsentBasedLoanDataSharing]] - healthcare clinic financing branch added by EP28.
 - [[AICreativeCollaboration]], [[AIFirstDraftGeneration]], [[AIProfessionalDataSecurity]], [[AIAssistedLightCoding]], [[DALLE|DALL-E]], [[Suno]], and [[GoogleAppsScript]] - everyday creative and light technical AI branch added by EP17.
 - [[NaturalLanguageAnalytics]], [[AIDataReadiness]], [[CustomerChurnPrediction]], [[ExplainableAIBusinessDecisions]], [[PredictiveModelValidation]], and [[DataScienceStorytelling]] - AI analytics and business-decision branch added by EP16.
 - [[BellupsConsulting]] - consulting affiliation added by EP15.
