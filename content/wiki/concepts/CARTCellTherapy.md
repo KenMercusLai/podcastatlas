@@ -2,8 +2,8 @@
 title: "CAR-T Cell Therapy"
 type: concept
 tags: [biotech, oncology, cell-therapy, immunotherapy]
-sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+last_updated: 2026-08-18
 ---
 
 # CAR-T Cell Therapy
@@ -16,6 +16,8 @@ The episode treats CAR-T as a shift in cancer-treatment logic. Chemotherapy, tar
 
 [[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds two 2026-facing tests: TCE competition can pressure CAR-T in multiple myeloma, while China's [[InnovativeDrugCommercialInsuranceCatalog]] may give high-cost CAR-T products a payment channel outside basic医保. Both keep CAR-T tied to efficacy, toxicity, manufacturing, and market access together.
 
+[[all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]] adds the FDA-flexibility branch. [[MartyMakary|Marty Makary]] says cell and gene therapies may need customized manufacturing requirements and, in some bespoke cases, a [[PlausibleMechanismPathway]] rather than ordinary randomized-trial expectations.
+
 ## Key Claims
 - CAR-T combines target recognition with T-cell activation, letting immune cells find and attack cells expressing a chosen antigen.
 - [[ExVivoCARTManufacturing]] is currently powerful but expensive and slow because each autologous product is manufactured for one patient.
@@ -25,6 +27,7 @@ The episode treats CAR-T as a shift in cancer-treatment logic. Chemotherapy, tar
 - Vol.117 adds [[InVivoMRNACART]] as a short-duration in vivo variant that may fit some autoimmune uses better than durable oncology.
 - Vol.117 also makes CAR-T part of [[FiniteGameBiotechCompetition]]: the question becomes cost, persistence, toxicity, and use-case fit, not just whether engineered immune cells can work.
 - Episode 156 adds that CAR-T adoption also depends on payment policy and competition from TCEs.
+- The Makary source adds regulatory path design as a CAR-T constraint: evidence, manufacturing, and access rules can determine whether promising mechanisms reach patients affordably.
 
 ## Connections
 - [[LiuCheng|刘诚]] and [[EurekaTherapeutics]] - guest and company grounding the concept.
@@ -34,3 +37,4 @@ The episode treats CAR-T as a shift in cancer-treatment logic. Chemotherapy, tar
 - [[LegendBiotech]] and [[JohnsonAndJohnson]] - commercialization case named in the source.
 - [[TCellEngagers]], [[InVivoMRNACART]], and [[FiniteGameBiotechCompetition]] - industry-review extensions added by vol.117.
 - [[InnovativeDrugCommercialInsuranceCatalog]], [[JohnsonAndJohnson]], and [[LegendBiotech]] - episode 156 payment and competitive-pressure context.
+- [[MartyMakary|Marty Makary]], [[FoodAndDrugAdministration|FDA]], [[PlausibleMechanismPathway]], and [[FDAReviewModernization]] - regulatory-flexibility branch added by All-In.

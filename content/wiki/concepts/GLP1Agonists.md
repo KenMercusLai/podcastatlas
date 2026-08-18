@@ -2,8 +2,8 @@
 title: "GLP-1 Agonists"
 type: concept
 tags: [healthcare, drugs, metabolism, weight-loss]
-sources: [meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
-last_updated: 2026-08-16
+sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-18
 ---
 
 # GLP-1 Agonists
@@ -11,6 +11,8 @@ last_updated: 2026-08-16
 GLP-1 agonists enter the wiki through [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]], where [[JasmineSun]] explains that many people first know peptides through GLP-1 medications such as [[Ozempic]]. In the episode, the GLP-1 boom acts less as a pharmacology lesson than as the demand gateway into [[GrayMarketPeptides]]: some users seek cheaper versions, then begin exploring other injectable compounds with less evidence.
 
 The source distinguishes the category's public popularity from the safety status of gray-market substitutes. Interest in GLP-1 drugs can create demand for lower-cost access, but a vial bought as a research chemical does not inherit the manufacturing, labeling, prescribing, or clinical-trial status of an approved drug.
+
+[[all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]] adds [[MartyMakary|Marty Makary]]'s public-health and pricing version. Makary says GLP-1s mimic a natural hormone, increase satiety, slow GI motility, and may reduce insulin resistance and inflammation, but he also says heavy GLP-1 demand shows that the food system has failed. The source therefore keeps the category tied to [[RootCausePublicHealthResearch]] rather than treating it as a standalone fix.
 
 [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] adds the pharma-competition version. [[XiaoPTeacher|小P老师]] and [[DavidWeng|大卫翁]] compare [[EliLilly|Eli Lilly]] and [[NovoNordisk|Novo Nordisk]] through clinical data, approval timing, marketing, celebrity visibility, sales expectations, and next-generation claims around reducing fat while preserving muscle.
 
@@ -33,6 +35,7 @@ The source distinguishes the category's public popularity from the safety status
 - The dementia source adds that negative early treatment results in established dementia do not settle whether earlier metabolic prevention could affect later risk.
 - The fast-food source adds that GLP-1 adoption may affect restaurant demand, but only as one factor among price, safety, and health pressures.
 - The hair-care source adds that GLP-1 popularity can spill into beauty demand when users or marketers connect weight-loss treatment to hair-loss anxiety.
+- The Makary source adds that GLP-1s can be clinically useful while also exposing food-system, chronic-disease, and drug-pricing failures.
 
 ## Connections
 - [[Ozempic]] - named product reference point in the episode.
@@ -45,3 +48,4 @@ The source distinguishes the category's public popularity from the safety status
 - [[AlzheimerDrugEfficacyGap]], [[ModifiableDementiaRiskFactors]], and [[CardiovascularBrainHealthLink]] - dementia-prevention and treatment-boundary context added by The Intelligence.
 - [[FastFoodDemandReset]], [[McDonalds|McDonald's]], [[TacoBell]], and [[BurgerKing]] - consumer-demand branch added by the Caracas episode.
 - [[HairLossFollicleCycle]], [[PremiumHaircareMarket]], and [[HaircareSkincareization]] - hair-care demand branch added by the 声动早咖啡 source.
+- [[MartyMakary|Marty Makary]], [[RootCausePublicHealthResearch]], and [[MostFavoredNationDrugPricing]] - public-health and affordability branch added by All-In.

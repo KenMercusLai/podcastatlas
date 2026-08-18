@@ -7790,6 +7790,10 @@ Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and M
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | Supercharging a New FDA: Marty Makary on Science, Power & Patients
+
+Added source page for an All-In interview with Marty Makary at the JP Morgan Healthcare Conference on FDA review modernization, public-health trust after COVID-era decisions, clinical-trial continuity, post-market drug surveillance, animal-testing substitution, cell and gene therapy flexibility, vaccine-schedule trust rebuilding, root-cause public-health research, GLP-1 drugs, most-favored-nation drug pricing, biosimilar and OTC access, pharma advertising enforcement, AI health tools, and GRAS reform. Created pages for Marty Makary, Jay Bhattacharya, NIH, CDC, Johns Hopkins University, FDA Review Modernization, Clinical Trial Continuity, Post-Market Drug Surveillance, Animal Testing Substitution, Plausible Mechanism Pathway, Medical Dogma Trust Repair, Vaccine Schedule Trust Rebuilding, Root-Cause Public Health Research, and Consumer Health AI Governance; updated overview, index, Food and Drug Administration, All-In, David Friedberg, HHS, JP Morgan Healthcare Conference, Most-Favored-Nation Drug Pricing, GLP-1 Agonists, Food Additive Regulation, GRAS Self-Certification, CAR-T Cell Therapy, and Clinical Development Capability. No direct contradiction found; the source qualifies existing MFN drug-pricing claims by giving a differently scoped GLP-1 pricing example and extends GRAS pages by describing a claimed FDA process to close the loophole.
+
 ## [2026-08-18] ingest | All-In's 2026 Predictions
 
 Added source page for an All-In 2026 prediction round covering California wealth-tax flight, Democratic-left momentum, Trump-era growth, Venezuela and the Americas, Huawei, Polymarket, Amazon, AI entry-level job risk, Jevons-style knowledge-worker demand, IP-license deal structures, IPO reopening, SpaceX/Tesla scenarios, critical metals, accelerated depreciation, and citizen journalism. Created pages for California Wealth-Tax Capital Flight, Software Maintenance Revenue Compression, IP Deal-Structure Substitution, Accelerated Depreciation Capex Pull-Forward, and Citizen Journalism Accountability; updated overview, index, All-In, Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg, California, Polymarket, Democratic Socialists of America, JD Vance, Huawei, SMIC, Wealth Tax Legitimacy, AI Backlash Politics, Donroe Doctrine, Populist Democratic Energy, Entry-Level AI Career-Ladder Risk, Jevons Paradox In AI, Prediction Market Public-Good Claim, Critical Minerals Geopolitics, and AI IPO Valuation. No direct contradiction found; the source records unresolved forecast tensions around AI labor demand, SpaceX public-market structure, and prediction-market public value rather than resolving them.
@@ -7938,6 +7942,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | EP 17: AI's Impact on Creativity: A Consumer's Perspective
 
 Added source page for a Data Science With Sam episode with Mark on consumer AI use for Toastmasters speeches, alumni imagery, Suno songs, professional research, and Google Apps Script snippets. Created pages for Mark, Talking Heads Toastmasters Club, DALL-E, Google Apps Script, AI Creative Collaboration, AI First-Draft Generation, AI Professional Data Security, and AI Assisted Light Coding; updated overview, index, Data Science With Sam, Sam, ChatGPT, OpenAI, Suno, University of Illinois Urbana-Champaign, Prompt As Intent Transmission, AI Assistant Augmentation, Generative AI Music, AI Verification, AI Hallucination, Human Judgment Under AI, AI Worker Literacy, and Multimodal Intelligence. No direct contradiction found; the source extends the wiki's AI-augmentation branch by showing how non-specialists can use generative AI creatively while preserving editing, fact-checking, code testing, and workplace data-security boundaries.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

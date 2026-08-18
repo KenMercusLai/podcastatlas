@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Supercharging a New FDA: Marty Makary on Science, Power & Patients](sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050.md) — All-In interview with Marty Makary on FDA review modernization, clinical-trial reform, public-health trust, vaccines, nutrition, drug pricing, AI health tools, and GRAS reform.
 - [EP 17: AI's Impact on Creativity: A Consumer's Perspective](sources/ep-17-ais-impact-on-creativity-a-consumers-perspective.md) — Data Science With Sam episode with Mark on ChatGPT as a creative collaborator for Toastmasters speeches, alumni imagery, Suno songs, professional research data-security boundaries, Google Apps Script snippets, prompt iteration, hallucination review, and multimodal AI expectations.
 - [EP 16: Data Decoded: Navigating the AI Revolution](sources/ep-16-data-decoded-navigating-the-ai-revolution.md) — Data Science With Sam episode with Vishal on GPT-like natural-language analytics, AI data readiness, business-led AI pilots, explainable churn prediction in Salesforce, privacy, bias, model validation, and data-science storytelling.
 - [Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism](sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360.md) — All-In episode with Adam Carolla on Palisades fire rebuilding delays, Los Angeles permitting, safety tradeoffs, DEI/media trust, California migration, wealth taxes, anti-tech politics, and skilled trades.
@@ -992,6 +993,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Marty Makary](entities/MartyMakary.md) — FDA commissioner interviewed on All-In about review speed, trial reform, public-health trust, vaccines, nutrition, drug pricing, and AI health tools.
+- [Jay Bhattacharya](entities/JayBhattacharya.md) — NIH reform and COVID-era school-reopening figure named in Makary's public-health trust account.
+- [National Institutes of Health](entities/NationalInstitutesOfHealth.md) — Federal research institution in Makary's root-cause public-health funding discussion.
+- [Centers for Disease Control and Prevention](entities/CentersForDiseaseControlAndPrevention.md) — Federal public-health agency tied to Makary's vaccine-schedule trust-rebuilding discussion.
+- [Johns Hopkins University](entities/JohnsHopkinsUniversity.md) — Academic medicine and public-health background context for Marty Makary in the All-In source.
 - [Mark (Data Science With Sam)](entities/MarkDataScienceWithSam.md) — Retired business development director, chemical engineer, Toastmasters leader, and Illinois alumni volunteer explaining consumer AI use for speeches, imagery, songs, research, and light coding.
 - [Talking Heads Toastmasters Club](entities/TalkingHeadsToastmastersClub.md) — Houston Toastmasters club context for Mark's AI-assisted speechwriting workflow in Data Science With Sam EP17.
 - [DALL-E](entities/DALLE.md) — OpenAI image-generation tool used through ChatGPT by Mark to create event-specific University of Illinois alumni imagery.
@@ -6726,6 +6732,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [FDA Review Modernization](concepts/FDAReviewModernization.md) — Makary's FDA reform frame around faster reviews, public transparency, priority pathways, digital workflows, and continued safety accountability.
+- [Clinical Trial Continuity](concepts/ClinicalTrialContinuity.md) — Regulatory pattern where Bayesian methods, cloud endpoints, and ongoing reviewer access shift trials away from episodic paperwork alone.
+- [Post-Market Drug Surveillance](concepts/PostMarketDrugSurveillance.md) — Safety layer that keeps FDA attention on drugs after approval to detect subgroup risks, interactions, and late safety signals.
+- [Animal Testing Substitution](concepts/AnimalTestingSubstitution.md) — Regulatory and ethical move toward computational modeling and organ-on-chip alternatives when animal studies poorly predict human outcomes.
+- [Plausible Mechanism Pathway](concepts/PlausibleMechanismPathway.md) — Flexible evidence route for bespoke cell and gene therapies where randomized trials may be impractical but mechanism, manufacturing, and monitoring still matter.
+- [Medical Dogma Trust Repair](concepts/MedicalDogmaTrustRepair.md) — Public-health trust frame where institutions rebuild credibility by updating guidance, admitting uncertainty, and separating evidence strength from authority.
+- [Vaccine Schedule Trust Rebuilding](concepts/VaccineScheduleTrustRebuilding.md) — Makary's source-scoped strategy of distinguishing core vaccine priorities and answering parent risk questions without abandoning CDC recommendations.
+- [Root-Cause Public Health Research](concepts/RootCausePublicHealthResearch.md) — Research-priority frame around food, school lunches, microbiome, sleep, environment, inflammation, and chronic-disease causes.
+- [Consumer Health AI Governance](concepts/ConsumerHealthAIGovernance.md) — FDA boundary between consumer health information tools and AI or wearable systems that claim medical-grade intervention or measurement.
 - [AI Creative Collaboration](concepts/AICreativeCollaboration.md) — Everyday use of AI as a partner for speeches, images, lyrics, songs, and other creative artifacts while humans keep editing and judgment.
 - [AI First-Draft Generation](concepts/AIFirstDraftGeneration.md) — Workflow where AI creates a starting draft that a human then verifies, edits, personalizes, and owns.
 - [AI Professional Data Security](concepts/AIProfessionalDataSecurity.md) — Workplace boundary around what employer, client, competitor, or proprietary context may be entered into AI tools.

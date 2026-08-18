@@ -2,11 +2,13 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, big-lettuce-meets-small-intestine, reeses-heir-vs-chocolate-skimpflation, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-17
+sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, big-lettuce-meets-small-intestine, reeses-heir-vs-chocolate-skimpflation, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Food and Drug Administration
+
+[[all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]] adds the commissioner-first reform branch through [[MartyMakary|Marty Makary]]. The source says Makary's FDA announced 42 reforms, changed reviewer workflows, centralized some duplicated services, expanded scientific hiring, moved toward public rejection letters and priority vouchers, and argued for [[FDAReviewModernization]] built around [[ClinicalTrialContinuity]], [[PostMarketDrugSurveillance]], [[AnimalTestingSubstitution]], and a [[PlausibleMechanismPathway]] for some cell and gene therapies.
 
 [[bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69]] adds the FDA's infant formula branch through [[Bobbie]]. The source says Bobbie's German-made pilot was recalled because the agency viewed the "companion formula" as [[InfantFormula|infant formula]], then later gave Bobbie the green-light letter needed for its January 2021 launch. This makes the FDA part of [[InfantFormulaRegulatoryMoat]], where compliance, manufacturing, suppliers, labeling, and claims have to be solved together.
 
@@ -35,6 +37,7 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds the positive medical-device version through [[NVisionMedical|nVision Medical]]. [[SurbhiSarna]] says the company received FDA clearances in 2015 and 2016 after prototype, bench, animal-tissue, and clinical-study work, making the FDA pathway part of [[MedicalDeviceClinicalValidation]] rather than only a post-harm or enforcement story.
 
 ## Connections
+- [[MartyMakary|Marty Makary]], [[FDAReviewModernization]], [[ClinicalTrialContinuity]], [[PostMarketDrugSurveillance]], [[AnimalTestingSubstitution]], and [[PlausibleMechanismPathway]] - All-In reform branch on faster review, modern evidence, and continued monitoring.
 - [[ChocolateLabelStandards]], [[ChocolateCompound]], [[Skimpflation]], [[Hershey]], and [[Reeses|Reese's]] - candy-labeling branch added by Planet Money.
 - [[Bobbie]], [[LauraModi]], [[InfantFormula]], [[InfantFormulaRegulatoryMoat]], [[RegulatedCPGMessaging]], and [[FormulaSupplyChainResilience]] - infant formula compliance branch added by How I Built This.
 - [[DietarySupplementHealthAndEducationAct]] - legal frame limiting FDA supplement oversight.

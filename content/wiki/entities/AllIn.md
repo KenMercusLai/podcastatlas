@@ -2,11 +2,13 @@
 title: "All-In"
 type: entity
 tags: [podcast, technology, startups]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]
+sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]
 last_updated: 2026-08-18
 ---
 
 # All-In
+
+[[all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]] adds the health-agency reform version of All-In. [[DavidFriedberg|Dave Friedberg]] interviews [[MartyMakary|Marty Makary]] at the [[JPMorganHealthcareConference|JP Morgan Healthcare Conference]], moving the show from tariffs and AI into [[FDAReviewModernization]], public-health trust, vaccines, nutrition, drug pricing, pharma advertising, AI health tools, and food-additive oversight.
 
 [[all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]] adds the California-governance version of All-In. The episode has [[AdamCarolla|Adam Carolla]] using the Palisades fire, [[LosAngeles|Los Angeles]] permitting, [[Malibu]] rebuilding, DEI, media trust, wealth taxes, anti-tech politics, and skilled trades to argue that high-procedure institutions have become too intrusive in everyday life.
 
@@ -20,6 +22,7 @@ In this source, All-In is less a narrow politics or startup-news show than a liv
 
 ## Connections
 - [[ChamathPalihapitiya|Chamath Palihapitiya]], [[JasonCalacanis|Jason Calacanis]], [[DavidSacks|David Sacks]], and [[DavidFriedberg|David Friedberg]] - named host group.
+- [[MartyMakary|Marty Makary]], [[FoodAndDrugAdministration|FDA]], [[FDAReviewModernization]], and [[MedicalDogmaTrustRepair]] - health-agency reform branch added by the Makary interview.
 - [[HowardLutnick|Howard Lutnick]], [[TradeReciprocityProtectionism]], [[TradeDealCapitalStructure]], and [[TaxpayerReturnIndustrialPolicy]] - policy-interview branch added by the Lutnick source.
 - [[CES]], [[BusinessLedAITransformation]], [[PhysicalAI]], and [[WearableAIAssistant]] - main topic branches in the episode.
 - [[GeneralCatalyst|General Catalyst]] and [[McKinsey]] - guest organization contexts.

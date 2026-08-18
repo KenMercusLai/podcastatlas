@@ -4007,6 +4007,10 @@
     "title": "Animal Spirits Opportunity Activation / 动物精神与机会激活",
     "url": "/wiki/concepts/animalspiritsopportunityactivation/"
   },
+  "AnimalTestingSubstitution": {
+    "title": "Animal Testing Substitution",
+    "url": "/wiki/concepts/animaltestingsubstitution/"
+  },
   "AnimalWelfareAsPublicHealth": {
     "title": "Animal Welfare As Public Health",
     "url": "/wiki/concepts/animalwelfareaspublichealth/"
@@ -7443,6 +7447,10 @@
     "title": "Center for Strategic and International Studies",
     "url": "/wiki/entities/centerforstrategicandinternationalstudies/"
   },
+  "CentersForDiseaseControlAndPrevention": {
+    "title": "Centers for Disease Control and Prevention",
+    "url": "/wiki/entities/centersfordiseasecontrolandprevention/"
+  },
   "CentersForMedicareAndMedicaidServices": {
     "title": "Centers for Medicare & Medicaid Services",
     "url": "/wiki/entities/centersformedicareandmedicaidservices/"
@@ -8807,6 +8815,10 @@
     "title": "Clinical Development Capability",
     "url": "/wiki/concepts/clinicaldevelopmentcapability/"
   },
+  "ClinicalTrialContinuity": {
+    "title": "Clinical Trial Continuity",
+    "url": "/wiki/concepts/clinicaltrialcontinuity/"
+  },
   "Clink": {
     "title": "Clink",
     "url": "/wiki/entities/clink/"
@@ -9474,6 +9486,10 @@
   "ConsumerHardwareStartupRisk": {
     "title": "Consumer Hardware Startup Risk",
     "url": "/wiki/concepts/consumerhardwarestartuprisk/"
+  },
+  "ConsumerHealthAIGovernance": {
+    "title": "Consumer Health AI Governance",
+    "url": "/wiki/concepts/consumerhealthaigovernance/"
   },
   "ConsumerLab": {
     "title": "Consumer Lab",
@@ -13474,6 +13490,10 @@
   "FAST": {
     "title": "贵州天眼 / FAST",
     "url": "/wiki/entities/fast/"
+  },
+  "FDAReviewModernization": {
+    "title": "FDA Review Modernization",
+    "url": "/wiki/concepts/fdareviewmodernization/"
   },
   "FHN": {
     "title": "FHN",
@@ -19971,6 +19991,10 @@
     "title": "Javier Milei",
     "url": "/wiki/entities/javiermilei/"
   },
+  "JayBhattacharya": {
+    "title": "Jay Bhattacharya",
+    "url": "/wiki/entities/jaybhattacharya/"
+  },
   "JeanClaudeBiver": {
     "title": "Jean-Claude Biver",
     "url": "/wiki/entities/jeanclaudebiver/"
@@ -20658,6 +20682,10 @@
   "JohnnyFidelisSantos": {
     "title": "Johnny Fidelis Santos",
     "url": "/wiki/entities/johnnyfidelissantos/"
+  },
+  "JohnsHopkinsUniversity": {
+    "title": "Johns Hopkins University",
+    "url": "/wiki/entities/johnshopkinsuniversity/"
   },
   "JohnsonAndJohnson": {
     "title": "Johnson & Johnson / 强生",
@@ -24399,6 +24427,10 @@
     "title": "Marty Gruenberg",
     "url": "/wiki/entities/martygruenberg/"
   },
+  "MartyMakary": {
+    "title": "Marty Makary",
+    "url": "/wiki/entities/martymakary/"
+  },
   "Marubeni": {
     "title": "Marubeni / 丸红",
     "url": "/wiki/entities/marubeni/"
@@ -24742,6 +24774,10 @@
   "MedicalDiagnosticReasoning": {
     "title": "Medical Diagnostic Reasoning",
     "url": "/wiki/concepts/medicaldiagnosticreasoning/"
+  },
+  "MedicalDogmaTrustRepair": {
+    "title": "Medical Dogma Trust Repair",
+    "url": "/wiki/concepts/medicaldogmatrustrepair/"
   },
   "MedicalKnowledgeBoundary": {
     "title": "Medical Knowledge Boundary",
@@ -26554,6 +26590,10 @@
   "NationalInformationNetwork": {
     "title": "National Information Network",
     "url": "/wiki/entities/nationalinformationnetwork/"
+  },
+  "NationalInstitutesOfHealth": {
+    "title": "National Institutes of Health",
+    "url": "/wiki/entities/nationalinstitutesofhealth/"
   },
   "NationalLeagueForDemocracy": {
     "title": "National League for Democracy",
@@ -29503,6 +29543,10 @@
     "title": "《柏拉图上班记：哲学家的职场百态》",
     "url": "/wiki/entities/platogoestowork/"
   },
+  "PlausibleMechanismPathway": {
+    "title": "Plausible Mechanism Pathway",
+    "url": "/wiki/concepts/plausiblemechanismpathway/"
+  },
   "Plaxo": {
     "title": "Plaxo",
     "url": "/wiki/entities/plaxo/"
@@ -29846,6 +29890,10 @@
   "PostHarmFoodRegulation": {
     "title": "Post-Harm Food Regulation",
     "url": "/wiki/concepts/postharmfoodregulation/"
+  },
+  "PostMarketDrugSurveillance": {
+    "title": "Post-Market Drug Surveillance",
+    "url": "/wiki/concepts/postmarketdrugsurveillance/"
   },
   "PostMortemAIConsent": {
     "title": "Post-Mortem AI Consent",
@@ -32490,6 +32538,10 @@
   "RooneArledge": {
     "title": "Roone Arledge",
     "url": "/wiki/entities/roonearledge/"
+  },
+  "RootCausePublicHealthResearch": {
+    "title": "Root-Cause Public Health Research",
+    "url": "/wiki/concepts/rootcausepublichealthresearch/"
   },
   "Ropet": {
     "title": "Ropet",
@@ -38927,6 +38979,10 @@
     "title": "Vacation Shame / 休假羞耻感",
     "url": "/wiki/concepts/vacationshame/"
   },
+  "VaccineScheduleTrustRebuilding": {
+    "title": "Vaccine Schedule Trust Rebuilding",
+    "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
+  },
   "VacheronConstantin": {
     "title": "Vacheron Constantin",
     "url": "/wiki/entities/vacheronconstantin/"
@@ -42470,6 +42526,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255": {
     "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050": {
+    "title": "Supercharging a New FDA: Marty Makary on Science, Power & Patients",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790": {
     "title": "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026",
