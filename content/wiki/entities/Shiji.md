@@ -2,7 +2,7 @@
 title: "《史记》 / Shiji"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,8 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] again uses Shiji as a supplement to the terse chronicle. The host cites it for [[LiangHuiWang|魏罃 / 梁惠王]] seeking peace with [[QiState|齐国]] after Qi attacks [[WeiState|魏国]], and for Wei's successful attack on [[SongState|宋国]] in 365 BCE.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds a sharper caution around Shiji itself. The host says [[SimaQian|司马迁]] had especially thin Qi materials, so Tian-family Qi succession and [[QiWeiwang|齐威王]]'s date may have entered later tradition with serious errors. This becomes the source's [[QiChronologyDispute|Qi Wei Wang chronology dispute]].
+
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle being supplemented in the episode.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - assassins-tradition branch added by Zhouji 04.
@@ -29,3 +31,4 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 - [[Zhanguoce|《战国策》]], [[HanAihou|韩哀侯]], and [[YanZhongzi|严遂]] - later source-variant branch around the Han assassination.
 - [[SimaQian|司马迁]], [[LiangHuiWang|魏罃 / 梁惠王]], [[ZhuozeBattle|浊泽之战]], and [[CoalitionSettlementFailure]] - part 3 judgment on Wei's survival.
 - [[QiState|齐国]], [[WeiState|魏国]], [[SongState|宋国]], and [[TerritorialControlChurn]] - Zhouji 11 supplemental war notices.
+- [[QiWeiwang|齐威王]], [[QiChronologyDispute]], [[ChronicleChronologyDrift]], and [[HistoricalDetectiveReasoning]] - Zhouji 14 Qi chronology caution.

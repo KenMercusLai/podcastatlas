@@ -2,7 +2,7 @@
 title: "梁惠王 / King Hui of Liang"
 type: entity
 tags: [person, ruler, china, warring-states]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] shows the first pressure after that consolidation. When [[QiState|齐国]] attacks [[WeiState|魏国]] in 368 BCE, the host says [[Shiji|《史记》]] presents Wei Ying as preferring peace with Qi because internal stabilization mattered more than another extended war.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] keeps him in the [[QinEastwardPressure|Qin pressure]] field. After Qin defeats Han at West Mountain, Wei Hui Wang sends [[LongJia|龙甲]] to build a western wall, and the following year's Wei-Han meeting is presented as probably involving him and [[HanZhaohou|韩昭侯]].
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[Mengzi|孟子 / Mencius]] and [[MenciusText|《孟子》]] - dialogue context.
@@ -27,3 +29,4 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 - [[WeiWuhou|魏武侯]], [[WeiState|魏国]], [[GongzhongHuan|公中缓]], and [[SuccessionNonDesignationRisk]] - earlier Wei succession-disorder branch.
 - [[ZhuozeBattle|浊泽之战]], [[Anyi|安邑]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 crisis outcome.
 - [[QiState|齐国]], [[Shiji|《史记》]], [[EarlyWarringStatesInterstateWar]], and [[TerritorialControlChurn]] - Zhouji 11 post-succession peace branch.
+- [[LongJia|龙甲]], [[HanZhaohou|韩昭侯]], [[WeiGreatWallAntiQinDefense]], and [[QinEastwardPressure]] - Zhouji 14 defensive and diplomatic response branch.

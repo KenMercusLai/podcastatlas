@@ -3587,6 +3587,10 @@
     "title": "Allogeneic CAR-T",
     "url": "/wiki/concepts/allogeneiccart/"
   },
+  "AllusiveRemonstrance": {
+    "title": "Allusive Remonstrance / 隐语进谏",
+    "url": "/wiki/concepts/allusiveremonstrance/"
+  },
   "AloYoga": {
     "title": "Alo Yoga",
     "url": "/wiki/entities/aloyoga/"
@@ -7919,6 +7923,10 @@
     "title": "陈凯歌 / Chen Kaige",
     "url": "/wiki/entities/chenkaige/"
   },
+  "ChenLiao": {
+    "title": "陈聊 / Chen Liao",
+    "url": "/wiki/entities/chenliao/"
+  },
   "ChenMian": {
     "title": "Chen Mian / 陈冕",
     "url": "/wiki/entities/chenmian/"
@@ -8678,6 +8686,10 @@
   "ChunyuDoctor": {
     "title": "春雨医生",
     "url": "/wiki/entities/chunyudoctor/"
+  },
+  "ChunyuKun": {
+    "title": "淳于髡 / Chunyu Kun",
+    "url": "/wiki/entities/chunyukun/"
   },
   "ChurchOfAmbrosia": {
     "title": "Church of Ambrosia",
@@ -17407,6 +17419,10 @@
     "title": "Han Zhao / 韩钊",
     "url": "/wiki/entities/hanzhao/"
   },
+  "HanZhaohou": {
+    "title": "韩昭侯 / Marquis Zhao of Han",
+    "url": "/wiki/entities/hanzhaohou/"
+  },
   "HanZheng": {
     "title": "Han Zheng / 韩正",
     "url": "/wiki/entities/hanzheng/"
@@ -23654,6 +23670,10 @@
   "LongHorizonWorkEvaluation": {
     "title": "Long-Horizon Work Evaluation / 长时间尺度工作评估",
     "url": "/wiki/concepts/longhorizonworkevaluation/"
+  },
+  "LongJia": {
+    "title": "龙甲 / Long Jia",
+    "url": "/wiki/entities/longjia/"
   },
   "LongLivedStartupDecisions": {
     "title": "Long-Lived Startup Decisions",
@@ -31351,6 +31371,10 @@
     "title": "Qatar",
     "url": "/wiki/entities/qatar/"
   },
+  "QiChronologyDispute": {
+    "title": "Qi Wei Wang Chronology Dispute / 齐威王编年争议",
+    "url": "/wiki/concepts/qichronologydispute/"
+  },
   "QiHuanGong": {
     "title": "齐桓公",
     "url": "/wiki/entities/qihuangong/"
@@ -31374,6 +31398,10 @@
   "QiWeiwang": {
     "title": "齐威王 / King Wei of Qi",
     "url": "/wiki/entities/qiweiwang/"
+  },
+  "QiWeiwangPoliticalTurnaround": {
+    "title": "Qi Wei Wang Political Turnaround / 齐威王一鸣惊人式转向",
+    "url": "/wiki/concepts/qiweiwangpoliticalturnaround/"
   },
   "QiWuLun": {
     "title": "《齐物论》",
@@ -40639,6 +40667,10 @@
     "title": "Warren Buffett",
     "url": "/wiki/entities/warrenbuffett/"
   },
+  "WarringStatesMarriageDiplomacy": {
+    "title": "Warring States Marriage Diplomacy / 战国联姻外交",
+    "url": "/wiki/concepts/warringstatesmarriagediplomacy/"
+  },
   "WarringStatesPeriod": {
     "title": "战国时期 / Warring States Period",
     "url": "/wiki/entities/warringstatesperiod/"
@@ -40814,6 +40846,10 @@
   "WeiChou": {
     "title": "魏犨 / Wei Wuzi",
     "url": "/wiki/entities/weichou/"
+  },
+  "WeiGreatWallAntiQinDefense": {
+    "title": "Wei Great Wall Anti-Qin Defense / 魏长城防秦",
+    "url": "/wiki/concepts/weigreatwallantiqindefense/"
   },
   "WeiQianSanlian": {
     "title": "魏茜 / Wei Qian (Sanlian)",
@@ -42550,6 +42586,10 @@
   "YouyangZazu": {
     "title": "《酉阳杂俎》 / Youyang Zazu",
     "url": "/wiki/entities/youyangzazu/"
+  },
+  "YouyinHei": {
+    "title": "右尹黑 / Youyin Hei",
+    "url": "/wiki/entities/youyinhei/"
   },
   "YouyouAgent": {
     "title": "Youyou Agent",
@@ -46386,5 +46426,9 @@
   "zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga": {
     "title": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga/"
+  },
+  "zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv": {
+    "title": "《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv/"
   }
 }

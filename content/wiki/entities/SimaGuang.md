@@ -2,7 +2,7 @@
 title: "司马光 / Sima Guang"
 type: entity
 tags: [official, historian, song-dynasty, china]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -30,6 +30,8 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds another compact-annals reading. The host follows [[ZizhiTongjian|《资治通鉴》]] into [[ZhouXianwang|周显王]]'s reign, marks blank years, supplements some notices with [[Shiji|《史记》]], and uses [[FufuRobe|黻服]] to show how a terse gift record can carry [[RitualRecognitionOfMilitaryPower|political recognition]].
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds a direct correction case. The host says Sima Guang's 370 BCE notice about [[QiWeiwang|齐威王]] visiting [[ZhouLiewang|周烈王]] cannot stand literally because Zhou Lie Wang had died, and treats the problem as inherited early-Warring-States source weakness rather than simple compiler carelessness.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - old-party-associated official who still criticizes old-party retaliation.
 - [[WangAnshi|王安石]], [[WangAnshiReforms|王安石变法]], and [[SongFactionalPolitics|宋代党争]] - conflict field.
@@ -43,3 +45,4 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 - [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], and [[ChronicleSourceGaps]] - Zhouji 10 omitted-story and supplemental-source branch.
 - [[ChronicleChronologyDrift]], [[QiWeiwang|齐威王]], and [[WeiWuhou|魏武侯]] - Zhouji 10 part 2 chronology-error branch.
 - [[ZhouXianwang|周显王]], [[FufuRobe|黻服]], [[RitualRecognitionOfMilitaryPower]], and [[QinEastwardPressure]] - Zhouji 11 compact-annals and ritual-recognition branch.
+- [[QiChronologyDispute]], [[QiWeiwang|齐威王]], [[ZhouLiewang|周烈王]], and [[ZhouXianwang|周显王]] - Zhouji 14 chronology-correction branch.

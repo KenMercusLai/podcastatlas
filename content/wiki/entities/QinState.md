@@ -2,7 +2,7 @@
 title: "秦国 / Qin State"
 type: entity
 tags: [state, pre-qin, china]
-sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -22,6 +22,8 @@ This page is source-scoped and mainly supports the episode's kinship and assassi
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds Qin's early [[ZhouXianwang|周显王]] military-pressure branch. Qin defeats a Wei-Han joint force at Luoyang Jinjiao in 366 BCE, defeats the Three Jin coalition at [[ShimenBattle|石门之战]] in 364 BCE, and continues attacking Wei at Shaoliang in 363 BCE. The source treats this as [[QinEastwardPressure|Qin eastward pressure]] becoming visible before later Qin dominance.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] keeps Qin as the western pressure source in 358 BCE. Qin defeats [[HanState|韩国]] at West Mountain, prompting [[WeiState|魏国]] to send [[LongJia|龙甲]] to build defensive works, while the same year Qin receives [[YouyinHei|右尹黑]] from [[ChuState|楚国]] for a marriage-diplomacy mission.
+
 ## Connections
 - [[QinYing|秦嬴]] - Qin princess in the source's explanation.
 - [[QinXiaogong|秦孝公]], [[ShangYang|公孙鞅 / 商鞅]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - Zhouji 13 reform actors.
@@ -32,3 +34,4 @@ This page is source-scoped and mainly supports the episode's kinship and assassi
 - [[QinChugong|秦出公]], [[WuQi|吴起]], [[ChuState|楚国]], and [[WarringStatesReformBacklash]] - Zhouji 08 part 2 succession and reform branch.
 - [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], [[QinFeizi|非子]], [[QinXiangGong|秦襄公]], [[ZhouPingwang|周平王]], [[QinWengong|秦文公]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 origin and diplomacy branch.
 - [[QinEastwardPressure]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], [[ZhouXianwang|周显王]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 military and ritual-recognition branch.
+- [[HanState|韩国]], [[LongJia|龙甲]], [[WeiGreatWallAntiQinDefense]], [[YouyinHei|右尹黑]], and [[WarringStatesMarriageDiplomacy]] - Zhouji 14 war, defense, and Qin-Chu marriage branch.

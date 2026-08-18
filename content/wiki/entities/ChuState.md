@@ -2,8 +2,8 @@
 title: "楚国 / Chu State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-19
 ---
 
 # 楚国 / Chu State
@@ -20,6 +20,8 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] adds two later Chu notices: [[WeiState|魏国]] attacks Chu and takes Luyang in 371 BCE, and [[ChuSuwang|楚肃王]] dies without a son, so his younger brother [[ChuXuanwang|楚宣王]] succeeds.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds a Qin-Chu marriage notice. [[YouyinHei|右尹黑]], a senior Chu official, goes to [[QinState|秦国]] to receive a bride, and the episode reads the bride as likely intended for [[ChuXuanwang|楚宣王]]. The notice becomes a case of [[WarringStatesMarriageDiplomacy|战国联姻外交]] whose limits are clear because marriage ties do not prevent later conflict.
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -28,3 +30,4 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 - [[WuQi|吴起]], [[ChuDaoWang|楚悼王]], and [[WarringStatesReformBacklash]] - Zhouji 08 part 2 reform branch.
 - [[ChuSuwang|楚肃王]], [[ZhaoState|赵国]], [[WeiState|魏国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 09 opportunistic intervention branch.
 - [[ChuXuanwang|楚宣王]], [[ZhouLiewang|周烈王]], and [[WeiState|魏国]] - Zhouji 10 part 2 attack and succession notice.
+- [[YouyinHei|右尹黑]], [[QinState|秦国]], [[ChuXuanwang|楚宣王]], and [[WarringStatesMarriageDiplomacy]] - Zhouji 14 Qin-Chu marriage notice.

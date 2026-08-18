@@ -8131,9 +8131,17 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qi Wei Wang's contested chronology, Qin-Han-West Mountain pressure, Wei wall-building, Qin-Chu marriage diplomacy, Wei-Han and Zhao/Yan/Qi/Song meetings, Chunyu Kun's hidden remonstrance, the "一鸣惊人" idiom, Jimo/Ayi official audits, and Qi's military recovery. Created pages for Chunyu Kun, Chen Liao, Long Jia, Youyin Hei, Han Zhaohou, Qi Wei Wang Chronology Dispute, Allusive Remonstrance, Qi Wei Wang Political Turnaround, Wei Great Wall Anti-Qin Defense, and Warring States Marriage Diplomacy; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Sima Guang, Qi Wei Wang, Qi State, Zhou Xian Wang, Qin State, Wei State, Han State, Zhao State, Yan State, Song State, Chu State, Chu Xuan Wang, Liang Hui Wang, Jimo Dafu, Ayi Dafu, Warring States Period, Chronicle Chronology Drift, Independent Official Audit, Court Feedback Collapse, Qin Eastward Pressure, Early Warring States Interstate War, and Historical Detective Reasoning. No direct contradiction found with existing wiki synthesis; the source explicitly challenges the received Qi Wei Wang dating and keeps the possible "strategic feigning" reading source-scoped.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push under Qin Xiao Gong, the debate with Gan Long over custom and disruptive reform, 什伍连坐, agricultural and textile incentives, military-merit rank, 徙木立信, popular complaints, and the crown prince Ying Si's lawbreaking cliffhanger. Created pages for Qin Xiao Gong, Gan Long, Ying Si, Wang Yangming, Shang Yang Reforms, Reform Without Popular Deliberation, Military Merit Rank System, and Ximu Lixin; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shang Yang, Qin State, Zhou Xian Wang, Legalist Ruler Technique, Collateral Punishment And Guilt By Association, Small Trust Builds Large Trust, and Warring States Reform Backlash. No direct contradiction found; the source extends the existing reform-backlash pattern from Wu Qi in Chu to Shang Yang in Qin while keeping the prince-lawbreaking outcome unresolved because the transcript stops at that cliffhanger.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

@@ -2,8 +2,8 @@
 title: "Chronicle Chronology Drift / 编年错位"
 type: concept
 tags: [historiography, source-criticism, chinese-history, chronology]
-sources: [zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-19
 ---
 
 # Chronicle Chronology Drift / 编年错位
@@ -14,6 +14,8 @@ This concept is adjacent to [[ChronicleSourceGaps]], but not identical. A source
 
 The concept also protects the wiki from overcorrecting. When a source itself flags a dating problem, the page should record the event, the proposed doubt, and the evidence boundary rather than silently moving the event into a new canonical timeline.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] turns the same case into a named [[QiChronologyDispute|齐威王编年争议]]. The host argues that Qi Wei Wang's accession was probably placed twenty-one years too early, with 357 BCE as the more plausible accession year and 356 BCE as his first year, and says a 370 BCE visit to [[ZhouLiewang|周烈王]] cannot be literal because Zhou Lie Wang had already died.
+
 ## Key Claims
 - A chronicle can preserve a real story while placing it in a doubtful year.
 - Later compilers can inherit errors when their available base sources are already unstable.
@@ -23,5 +25,5 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], and [[Shiji|《史记》]] - chronicle, compiler, and inherited-source frame.
 - [[QiWeiwang|齐威王]] and [[ZhouLiewang|周烈王]] - source case.
-- [[ChronicleSourceGaps]] and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails.
+- [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
 - [[WarringStatesPeriod|战国时期]] - period whose record instability motivates the concept.

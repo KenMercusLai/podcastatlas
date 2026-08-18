@@ -2,7 +2,7 @@
 title: "赵国 / Zhao State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds Zhao's opportunistic and anti-Qin roles under [[ZhouXianwang|周显王]]. Zhao attacks [[QiState|齐国]] in 368 BCE and takes a Qi-built wall or fortification line; later, when [[QinState|秦国]] attacks [[WeiState|魏国]] at Shaoliang in 363 BCE, Zhao sends troops to help Wei and appears to stop Qin from taking the place.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds Zhao to the 356 BCE meeting cluster. Zhao meets [[YanState|燕国]] at Ajuan, then joins [[QiState|齐国]] and [[SongState|宋国]] at Pinglu. The source uses these notices as part of a dense [[EarlyWarringStatesInterstateWar|early Warring States]] diplomatic field rather than as settled alliance structure.
+
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoXiangzi|赵襄子]], [[YuRang|豫让]], [[DaiState|代国]], [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]] - Zhouji 04 pre-recognition and succession branch.
@@ -41,3 +43,4 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 - [[QiState|齐国]], [[WeiState|魏国]], and [[QiWeiwang|齐威王]] - Zhouji 10 part 2 military-pressure context.
 - [[GongzhongHuan|公中缓]], [[HanYihou|韩懿侯]], [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 intervention and failed settlement.
 - [[QiState|齐国]], [[QinState|秦国]], [[QinEastwardPressure]], [[EarlyWarringStatesInterstateWar]], and [[TerritorialControlChurn]] - Zhouji 11 attack and rescue notices.
+- [[YanState|燕国]], [[SongState|宋国]], [[QiState|齐国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 14 meeting cluster.

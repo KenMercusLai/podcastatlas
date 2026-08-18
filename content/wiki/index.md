@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人](sources/zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv.md) — 芮淇讲透资治通鉴 episode on Qi Wei Wang's contested chronology, Chunyu Kun's allusive remonstrance, the "一鸣惊人" turnaround, Jimo/Ayi official audits, Qin pressure, Wei wall-building, Qin-Chu marriage diplomacy, and 356 BCE meeting notices.
 - [《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）](sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga.md) — 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push, the Gan Long debate over custom and change, 什伍连坐, agricultural incentives, military-merit rank, 徙木立信, and the crown prince's lawbreaking cliffhanger.
 - [《资治通鉴·周纪》11丨 世界风起云涌（1）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5.md) — 芮淇讲透资治通鉴 episode opening Zhouji 11 under Zhou Xian Wang, with Qi/Zhao/Wei opportunistic war, Wei-Han coordination against Qin, Qin Xian Gong's Shimen victory, and Zhou ritual recognition through 黻服.
 - [《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl.md) — 芮淇讲透资治通鉴 episode on Wei Wenhou's respect for scholars, promise-keeping, symmetric diplomacy with Han and Zhao, and Sima Guang's "small trust builds large trust" statecraft lesson.
@@ -1017,6 +1018,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [淳于髡 / Chunyu Kun](entities/ChunyuKun.md) — Qi speaker whose allusive remonstrance reaches Qi Wei Wang through the silent-bird riddle.
+- [陈聊 / Chen Liao](entities/ChenLiao.md) — Qi official who receives delegated affairs while Qi Wei Wang neglects government in the episode's crisis setup.
+- [龙甲 / Long Jia](entities/LongJia.md) — Wei general sent by Liang Hui Wang to build western defenses after Qin defeats Han at West Mountain.
+- [右尹黑 / Youyin Hei](entities/YouyinHei.md) — Chu high official sent to Qin to receive a bride, likely for Chu Xuan Wang, in a marriage-diplomacy notice.
+- [韩昭侯 / Marquis Zhao of Han](entities/HanZhaohou.md) — Han ruler likely involved in the 357 BCE Wei-Han meeting under Qin pressure.
 - [秦孝公 / Duke Xiao of Qin](entities/QinXiaogong.md) — Qin ruler who backs Shang Yang, rejects Gan Long's custom-based objection, and authorizes the first reform push.
 - [甘龙 / Gan Long](entities/GanLong.md) — Qin official whose opposition to Shang Yang frames the conflict between inherited custom and disruptive state-strengthening reform.
 - [嬴驷 / Ying Si](entities/YingSi.md) — Qin crown prince whose violation of the new law becomes the episode's cliffhanger test of reform authority.
@@ -6928,6 +6934,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.
+- [Allusive Remonstrance / 隐语进谏](concepts/AllusiveRemonstrance.md) — Indirect criticism pattern in which Chunyu Kun uses a silent-bird riddle to reach Qi Wei Wang.
+- [Qi Wei Wang Political Turnaround / 齐威王一鸣惊人式转向](concepts/QiWeiwangPoliticalTurnaround.md) — Governance pattern linking the "一鸣惊人" answer to audits, military recovery, and possible strategic feigning.
+- [Wei Great Wall Anti-Qin Defense / 魏长城防秦](concepts/WeiGreatWallAntiQinDefense.md) — Wei's defensive-wall response to visible Qin pressure in the 358 BCE West Mountain context.
+- [Warring States Marriage Diplomacy / 战国联姻外交](concepts/WarringStatesMarriageDiplomacy.md) — Ruling-house marriage as interstate diplomacy whose alliance value remains limited by state interests.
 - [Shang Yang Reforms / 商鞅变法](concepts/ShangYangReforms.md) — Qin state-strengthening package built around household grouping, mutual surveillance, harsh law, agricultural incentives, and military-merit rank.
 - [Reform Without Popular Deliberation / 不与民虑始](concepts/ReformWithoutPopularDeliberation.md) — Shang Yang's claim that transformative reform can begin before ordinary people understand or consent to it.
 - [Military Merit Rank System / 军功爵制](concepts/MilitaryMeritRankSystem.md) — Status mechanism that converts battlefield achievement into rank, privilege, and social mobility while weakening hereditary privilege.

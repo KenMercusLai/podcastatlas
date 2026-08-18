@@ -2,7 +2,7 @@
 title: "Early Warring States Interstate War / 战国早期诸侯混战"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds the opening [[ZhouXianwang|周显王]] cluster: [[QiState|齐国]] attacks Wei, [[ZhaoState|赵国]] attacks Qi, Wei and [[HanState|韩国]] coordinate against [[QinState|秦国]] but lose, Wei attacks [[SongState|宋国]], and Qin defeats the Three Jin coalition at [[ShimenBattle|石门之战]]. The pattern is opportunistic and multi-directional rather than a single stable alliance structure.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds the meeting layer around 357-356 BCE. Wei and Han meet under Qin pressure; Zhao meets Yan at Ajuan; Zhao, Qi, and Song meet at Pinglu. These are diplomatic contact points inside conflict churn, not proof of durable blocs.
+
 ## Key Claims
 - Early Warring States war is multi-actor and opportunistic rather than a simple two-sided conflict.
 - An intervention can be both assistance and predation.
@@ -24,6 +26,7 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - A coalition can exploit another state's civil disorder yet still fail if battlefield success is not matched by settlement agreement.
 - Early Zhou Xian Wang notices show opportunism and anti-Qin coordination happening in the same short period.
 - Qin's rise changes the conflict field by pressuring Three Jin states that are still competing with one another.
+- Meeting notices are part of the war pattern because states coordinate, test, and rebalance while fighting continues.
 
 ## Connections
 - [[QiState|齐国]], [[YanState|燕国]], [[HanState|韩国]], [[ZhaoState|赵国]], [[WeiState|魏国]], and [[ChuState|楚国]] - major participants in the source's account.
@@ -33,3 +36,4 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - [[WarringStatesPeriod|战国时期]] - broader historical setting.
 - [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 intervention and settlement case.
 - [[ZhouXianwang|周显王]], [[QinState|秦国]], [[QinEastwardPressure]], [[ShimenBattle|石门之战]], and [[SongState|宋国]] - Zhouji 11 early reign war cluster.
+- [[HanZhaohou|韩昭侯]], [[YanState|燕国]], [[SongState|宋国]], and [[QiWeiwang|齐威王]] - Zhouji 14 meeting and Qi-recovery branch.

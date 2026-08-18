@@ -2,8 +2,8 @@
 title: "Historical Detective Reasoning"
 type: concept
 tags: [history, archaeology, reasoning, detective-fiction]
-sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-19
 ---
 
 # Historical Detective Reasoning
@@ -26,6 +26,8 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] adds a chronology-error version of the method. The host keeps [[QiWeiwang|齐威王]]'s story and [[WeiWuhou|魏武侯]]'s succession disorder visible, but marks both as possibly misplaced because the surrounding early [[WarringStatesPeriod|战国时期]] evidence is unstable.
 
+[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds a sharper dating test. The host compares received Qi chronology, [[Shiji|《史记》]] weakness around Tian-family Qi, and the death of [[ZhouLiewang|周烈王]] to argue that the Qi Wei Wang notice belongs in a [[QiChronologyDispute|specific disputed chronology]] rather than in the year where it is transmitted.
+
 ## Key Claims
 - Historical evidence is usually fragmentary, mediated, and unevenly preserved.
 - A strong historical inference asks who produced the source, when it appeared, what it leaves out, and what rival explanation it must beat.
@@ -38,6 +40,7 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - Blank annalistic years and variant assassination accounts should be marked explicitly instead of smoothed into one overconfident narrative.
 - Similar names, overlapping itineraries, and attractive narrative fit are not enough to settle identity; they should be marked as hypothesis.
 - A preserved event can be historically useful even when its annalistic placement is doubtful.
+- A concrete impossibility, such as a ruler being dead before a recorded visit, can discipline chronology correction without proving every replacement date.
 
 ## Connections
 - [[ZhangZhihao|张志浩]] and [[LishiBoke|《历史播客》]] - source context.
@@ -53,3 +56,4 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - [[ChronicleSourceGaps]], [[Zhanguoce|《战国策》]], [[NieZheng|聂政]], [[XiaLei|侠累]], and [[HanAihou|韩哀侯]] - episode 07 part 2 source-gap and source-variant branch.
 - [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[Laozi|老子]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 source-switching and tentative-identity branch.
 - [[ChronicleChronologyDrift]], [[QiWeiwang|齐威王]], [[WeiWuhou|魏武侯]], and [[SuccessionNonDesignationRisk]] - Zhouji 10 part 2 chronology and succession branch.
+- [[QiChronologyDispute]], [[ZhouLiewang|周烈王]], [[ZhouXianwang|周显王]], and [[Shiji|《史记》]] - Zhouji 14 sharper chronology test.
