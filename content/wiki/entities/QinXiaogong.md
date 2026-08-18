@@ -2,7 +2,7 @@
 title: "秦孝公 / Duke Xiao of Qin"
 type: entity
 tags: [person, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,8 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] closes his reign. The episode says Qin Xiao Gong dies in 338 BCE after twenty-four years, with Qin strengthened, Hexi recovered, and Wei forced to yield. His death also removes Shang Yang's protection, making Qin Xiao Gong the necessary shield behind [[ShangYangReforms|商鞅变法]] as well as the ruler who benefits from them.
 
+[[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] makes that shield function explicit. The episode says Shang Yang's career gives Qin Xiao Gong more than the restoration of [[QinMugong|秦穆公]]'s old greatness that he wanted, but also leaves Shang Yang dependent on Xiao Gong's protection. Once that protection disappears, reform success becomes part of Shang Yang's [[PowerExitTrap|权力退场困境]].
+
 ## Connections
 - [[QinState|秦国]] - polity he rules in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer he empowers.
@@ -29,3 +31,4 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 - [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform branch under his ruling frame.
 - [[PollTax|人头税]], [[ZhouHegemonRecognition]], [[GongziShaoguan|公子少官]], and [[Fengze|逢泽]] - Zhouji 18 fiscal and hegemon-recognition branch.
 - [[QinEastwardPressure]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], [[GongziAng|公子卬 / 公子昂]], [[YingSi|嬴驷]], [[GongziQian|公子虔]], and [[WarringStatesReformBacklash]] - Zhouji 22-23 attack-Wei decision, death, succession, and backlash branch.
+- [[QinMugong|秦穆公]], [[BailiXi|百里奚]], and [[PowerExitTrap|权力退场困境]] - Zhouji 24 restoration ideal and ruler-protection branch.

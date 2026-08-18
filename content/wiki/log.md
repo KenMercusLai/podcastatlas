@@ -8147,6 +8147,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》24丨商鞅曰：我咋裂了
+
+Added source page for a 芮淇讲透资治通鉴 episode reframing Shang Yang's death as a no-safe-exit problem: outsider talent plus radical reform creates success, enemies, and dependence on Qin Xiao Gong's protection. Created Zhao Liang, Baili Xi, Qin Mu Gong, Cao Cao, Cao Pi, Emperor Xian of Han, Power Exit Trap, and Textual Variant Political Stakes; updated overview, index, Shang Yang, Qin State, Qin Xiao Gong, Shang Yang Reforms, Warring States Reform Backlash, Legalist Self-Binding Backfire, Zizhi Tongjian, Shiji, Sima Guang, Wang Anshi, and Wang Anshi Reforms. No direct contradiction found; the Shiji versus Zizhi Tongjian resentment wording is recorded as a source-variant tension.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》19丨马陵之战
 
 Added source page for a 芮淇讲透资治通鉴 episode on the 342-341 BCE transition and the setup for the Battle of Maling: Wei attacks Han, Qi debates whether to rescue early or late, Sun Bin argues for delayed rescue, Qi secretly reassures Han, Han suffers repeated defeats, Qi attacks toward Daliang, Wei recalls Pang Juan and appoints Prince Shen, and Sun Bin prepares to exploit forced-march risk through Wei's contempt for Qi. Created pages for Chenghou Zou Ji, Tian Ying, Prince Shen of Wei, The Art of War, Delayed Rescue Statecraft, Crown-Prince Command Risk, and Forced-March Operational Risk; updated overview, index, Battle of Maling, Sun Bin, Pang Juan, Tian Ji, Qi Wei Wang, Qi/Wei/Han state pages, Liang Hui Wang, Daliang, Zhou Xian Wang, Warring States Period, Early Warring States Interstate War, Encircling Wei to Rescue Zhao, Lure Enemy Out of Position, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, and William Shakespeare. No direct contradiction found; the transcript's "成侯周济" and "田叛" name issues are kept source-scoped.
@@ -8226,6 +8230,10 @@ Ran health before lint; health scanned 11,678 wiki pages and found no empty/stub
 ## [2026-08-19] lint | Wiki health check
 
 Ran health before lint; health scanned 11,681 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,681 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

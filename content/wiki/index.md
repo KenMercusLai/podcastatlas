@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》24丨商鞅曰：我咋裂了](sources/zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut.md) — 芮淇讲透资治通鉴 episode on Shang Yang's death as a no-safe-exit problem, Zhao Liang's warning, the Baili Xi comparison, Cao Cao as analogy, and the political stakes of Shiji versus Zizhi Tongjian wording.
 - [《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言](sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf.md) — 芮淇讲透资治通鉴 episode on Qin breaking Wei after Gongzi Ang's capture, Wei ceding Hexi and moving to Daliang, Shang Yang's tactical credibility cost, Qin Xiao Gong's death, and Shang Yang's 作法自毙 downfall.
 - [《资治通鉴·周纪》22丨公孙鞅诈魏公子卬](sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi.md) — 芮淇讲透资治通鉴 episode on Shang Yang persuading Qin Xiao Gong to attack weakened Wei in 340 BCE, Qin's 耕战 and military-merit incentives, Gongzi Ang's old-friend peace-parley misread, and his capture by hidden Qin soldiers.
 - [《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难](sources/zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij.md) — 芮淇讲透资治通鉴 episode on Zou Ji framing Tian Ji with a staged divination and treason implication after Maling, Sun Bin's risky Yongmen counterattack advice, and Tian Ji's flight to Chu.
@@ -1028,6 +1029,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
+- [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
+- [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy for refusing to surrender power when accumulated enemies make retirement unsafe.
+- [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
+- [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor in the Cao-family analogy for irreversible political control.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
 - [公子虔 / Gongzi Qian](entities/GongziQian.md) — Qin figure whose faction accuses Shang Yang after Qin Xiao Gong's death, turning reform backlash into Shang Yang's flight.
 - [楚威王 / King Wei of Chu](entities/ChuWeiwang.md) — Chu Xuan Wang's son and successor in the compact 340 BCE Zizhi Tongjian notice.
@@ -6989,6 +6996,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success and accumulated enemies make leaving power more dangerous than staying.
+- [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
 - [Peace-Parley Entrapment / 和谈诱捕](concepts/PeaceParleyEntrapment.md) — Battlefield-deception pattern where friendship, oath, banquet, and peace language isolate a commander for capture.

@@ -2,7 +2,7 @@
 title: "《史记》 / Shiji"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] uses Shiji for the famous Shang Yang lodging anecdote. In the episode's reading, [[ShangYang|公孙鞅 / 商鞅]] cannot stay at an inn without proof of identity because the innkeeper fears punishment under Shang Yang's own law; this supplies the [[LegalistSelfBindingBackfire|作法自毙]] branch.
 
+[[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] uses Shiji as the contrast text for resentment against Shang Yang. The episode says Shiji's "宗室贵戚多怨望者" points mainly to royal kin and nobles, while [[ZizhiTongjian|《资治通鉴》]]'s "人多怨之" makes resentment sound broader. That difference becomes the source's main [[TextualVariantPoliticalStakes|textual-variant political stakes]] case.
+
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle being supplemented in the episode.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - assassins-tradition branch added by Zhouji 04.
@@ -41,3 +43,4 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 - [[ZhaoState|赵国]], [[QinState|秦国]], and [[QinEastwardPressure]] - Zhouji 17 supplemental Zhao attack notice.
 - [[TianJi|田忌]], [[ZouJi|成侯邹忌]], [[Zhanguoce|《战国策》]], and [[TreasonAccusationTrap]] - Zhouji 21 wording comparison around the accusation.
 - [[ShangYang|公孙鞅 / 商鞅]], [[ShangYangReforms]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 23 lodging anecdote and legal self-trap branch.
+- [[TextualVariantPoliticalStakes|史书异文政治重量]], [[ZhaoLiang|赵良]], and [[BailiXi|百里奚]] - Zhouji 24 resentment wording and remonstrance-comparison branch.

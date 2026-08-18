@@ -2,7 +2,7 @@
 title: "司马光 / Sima Guang"
 type: entity
 tags: [official, historian, song-dynasty, china]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -38,6 +38,8 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] continues the compact-annals reading through 352-350 BCE. The episode follows Sima Guang's notices on Qin-Wei war, Shen Buhai's Han service, Shang Yang's second reforms, and Zhao succession while supplementing some details from [[Shiji|《史记》]] and [[ZhushuJinian|《竹书纪年》]].
 
+[[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] adds a more political reading of Sima Guang's compilation choices. The host contrasts [[ZizhiTongjian|《资治通鉴》]]'s broad "人多怨之" framing of resentment against [[ShangYang|公孙鞅 / 商鞅]] with [[Shiji|《史记》]]'s focus on royal kin and nobles, then argues that in Sima Guang's Song context this ancient reform story could function as an indirect argument about [[WangAnshi|王安石]] and the [[WangAnshiReforms|王安石变法]].
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - old-party-associated official who still criticizes old-party retaliation.
 - [[WangAnshi|王安石]], [[WangAnshiReforms|王安石变法]], and [[SongFactionalPolitics|宋代党争]] - conflict field.
@@ -55,3 +57,4 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 - [[QiChronologyDispute]], [[QiWeiwang|齐威王]], [[ZhouLiewang|周烈王]], and [[ZhouXianwang|周显王]] - Zhouji 14 chronology-correction branch.
 - [[ZhaoXixu|昭奚恤]], [[ChuState|楚国]], [[ChancellorCenteredGovernance]], and [[PoliticalParableWeaponization]] - Zhouji 16 chancellor-attention and court-rhetoric branch.
 - [[ShenBuhai|申不害]], [[ShangYangReforms]], [[ZhaoChenghou|赵成侯]], [[Shiji|《史记》]], and [[ZhushuJinian|《竹书纪年》]] - Zhouji 17 compact-annals and supplement branch.
+- [[ShangYang|公孙鞅 / 商鞅]], [[TextualVariantPoliticalStakes|史书异文政治重量]], [[WangAnshi|王安石]], and [[WangAnshiReforms|王安石变法]] - Zhouji 24 source-wording and Song-political projection branch.

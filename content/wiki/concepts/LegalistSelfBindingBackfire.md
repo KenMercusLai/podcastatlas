@@ -2,7 +2,7 @@
 title: "Legalist Self-Binding Backfire / 作法自毙"
 type: concept
 tags: [law, legalism, statecraft, punishment, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
+sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
 last_updated: 2026-08-19
 ---
 
@@ -13,6 +13,8 @@ Legalist self-binding backfire / 作法自毙 is the episode's closing lesson fr
 The irony is that the innkeeper follows Shang Yang's own legal order. Under the severe rules and liability system associated with [[ShangYangReforms|商鞅变法]], accommodating someone without proper documentation would expose the host to punishment. The rule that once helped Qin centralize surveillance and compliance now blocks the reformer's escape.
 
 This is not only poetic justice. It shows a design risk in harsh legal systems: when rules are built to minimize discretion and maximize liability, they can bind allies, bystanders, and eventually the rulemaker when political protection disappears.
+
+[[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] adds the public-punishment and exit side of the same lesson. The episode says Shang Yang is killed first and then dismembered for display, making the legal self-trap part of a wider [[PowerExitTrap|权力退场困境]]: severe state-building makes him powerful, but once protection collapses, the system and its enemies have no gentle exit available for him.
 
 ## Key Claims
 - Severe rule systems can become traps for their designers once political position changes.
@@ -27,3 +29,4 @@ This is not only poetic justice. It shows a design risk in harsh legal systems: 
 - [[ShangYangReforms]], [[CollateralPunishmentAndGuiltByAssociation]], and [[WarringStatesReformBacklash]] - legal and political mechanisms.
 - [[Shiji|《史记》]] - anecdotal source tradition cited by the episode.
 - [[QinState|秦国]], [[WeiState|魏国]], and [[Shangyu|商於]] - flight, rejection, and final return setting.
+- [[PowerExitTrap|权力退场困境]] - Zhouji 24's broader no-safe-retreat frame.

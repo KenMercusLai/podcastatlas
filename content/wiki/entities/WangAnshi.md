@@ -2,8 +2,8 @@
 title: "王安石 / Wang Anshi"
 type: entity
 tags: [official, reformer, song-dynasty, china]
-sources: [164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+last_updated: 2026-08-19
 ---
 
 # 王安石 / Wang Anshi
@@ -14,6 +14,8 @@ Wang Anshi is the reformer and political counterweight to [[SuShi|苏轼]] in [[
 
 The source's critique is less that reform was unnecessary than that reform could become harsh implementation. [[WangAnshiReforms|王安石变法]] measures such as the Green Sprouts policy are presented through the opposition charge of "与民争利", while the episode also stresses that later old-party retaliation did not make Su Shi automatically loyal to the old faction. Wang Anshi therefore belongs to the episode's [[SongFactionalPolitics]] and [[ConscienceOverFaction]] frames.
 
+[[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] adds Wang Anshi as a later political shadow over [[ShangYang|公孙鞅 / 商鞅]] reception. The host argues that in [[SimaGuang|司马光]]'s time, writing about whether Shang Yang was hated by the people or by displaced elites could sound like taking a position on Wang Anshi's reform politics. This makes Wang Anshi part of the episode's [[TextualVariantPoliticalStakes|史书异文政治重量]] branch rather than a direct ancient-history actor.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - principal literary-official opponent in the source.
 - [[OuyangXiu|欧阳修]] - senior figure who had recognized both talents.
@@ -21,3 +23,4 @@ The source's critique is less that reform was unnecessary than that reform could
 - [[SongShenzong|宋神宗]] - emperor associated with the reform program.
 - [[SimaGuang|司马光]] - old-party counterpole later criticized by Su Shi as well.
 - [[YouBaochanShanJi|《游褒禅山记》]] and [[SubjectivityThroughFailure]] - episode 164's prose-reading and failed-ideal extension.
+- [[ShangYang|公孙鞅 / 商鞅]] and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 24's Song-political projection onto an ancient reformer.

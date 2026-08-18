@@ -5167,6 +5167,10 @@
     "title": "Baijian",
     "url": "/wiki/entities/baijian/"
   },
+  "BailiXi": {
+    "title": "百里奚 / Baili Xi",
+    "url": "/wiki/entities/bailixi/"
+  },
   "BaillieCollege": {
     "title": "Baillie College / 贝利学院",
     "url": "/wiki/entities/bailliecollege/"
@@ -7107,6 +7111,10 @@
     "title": "曹彬 / Cao Bin",
     "url": "/wiki/entities/caobin/"
   },
+  "CaoCao": {
+    "title": "曹操 / Cao Cao",
+    "url": "/wiki/entities/caocao/"
+  },
   "CaoCaoTomb": {
     "title": "曹操墓",
     "url": "/wiki/entities/caocaotomb/"
@@ -7114,6 +7122,10 @@
   "CaoFamilyQing": {
     "title": "清代曹家 / Cao Family In Qing",
     "url": "/wiki/entities/caofamilyqing/"
+  },
+  "CaoPi": {
+    "title": "曹丕 / Cao Pi",
+    "url": "/wiki/entities/caopi/"
   },
   "CaoXudong": {
     "title": "Cao Xudong",
@@ -13090,6 +13102,10 @@
   "EmperorNaruhito": {
     "title": "Emperor Naruhito",
     "url": "/wiki/entities/emperornaruhito/"
+  },
+  "EmperorXianOfHan": {
+    "title": "汉献帝 / Emperor Xian of Han",
+    "url": "/wiki/entities/emperorxianofhan/"
   },
   "EmployeeEquityCommunication": {
     "title": "Employee Equity Communication",
@@ -30675,6 +30691,10 @@
     "title": "Power Etiquette Reading / 权力礼仪细读",
     "url": "/wiki/concepts/poweretiquettereading/"
   },
+  "PowerExitTrap": {
+    "title": "Power Exit Trap / 权力退场困境",
+    "url": "/wiki/concepts/powerexittrap/"
+  },
   "PowerMythDeflation": {
     "title": "Power Myth Deflation / 权力神话拆解",
     "url": "/wiki/concepts/powermythdeflation/"
@@ -31658,6 +31678,10 @@
   "QinJianGong": {
     "title": "秦简公 / Duke Jian of Qin",
     "url": "/wiki/entities/qinjiangong/"
+  },
+  "QinMugong": {
+    "title": "秦穆公 / Duke Mu of Qin",
+    "url": "/wiki/entities/qinmugong/"
   },
   "QinShiHuang": {
     "title": "Qin Shi Huang / 秦始皇",
@@ -38123,6 +38147,10 @@
     "title": "Textbook Excerpt Flattening / 教材删节造成的文本扁平化",
     "url": "/wiki/concepts/textbookexcerptflattening/"
   },
+  "TextualVariantPoliticalStakes": {
+    "title": "Textual Variant Political Stakes / 史书异文政治重量",
+    "url": "/wiki/concepts/textualvariantpoliticalstakes/"
+  },
   "ThaiOrientAirlines": {
     "title": "Thai Orient Airlines / 泰国东方航空",
     "url": "/wiki/entities/thaiorientairlines/"
@@ -43339,6 +43367,10 @@
     "title": "赵匡胤 / Song Taizu",
     "url": "/wiki/entities/zhaokuangyin/"
   },
+  "ZhaoLiang": {
+    "title": "赵良 / Zhao Liang",
+    "url": "/wiki/entities/zhaoliang/"
+  },
   "ZhaoLiehou": {
     "title": "赵烈侯 / Marquis Lie of Zhao",
     "url": "/wiki/entities/zhaoliehou/"
@@ -46750,5 +46782,9 @@
   "zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf": {
     "title": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf/"
+  },
+  "zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut": {
+    "title": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut/"
   }
 }
