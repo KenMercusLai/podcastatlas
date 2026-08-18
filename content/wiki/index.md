@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战](sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr.md) — 芮淇讲透资治通鉴 episode on Sun Bin and Pang Juan, Tian Ji horse racing, encircling Wei to rescue Zhao at Guiling, Han's attack on Eastern Zhou, and Jiang Yi's parable attacks on Zhao Xixu.
 - [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v.md) — 芮淇讲透资治通鉴 episode on Li Ke's five tests for judging people, Wei Wenhou's chancellor choice between Wei Cheng and Di Huang, referral quality, and Wu Qi as a flawed but useful military talent.
 - [《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人](sources/zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv.md) — 芮淇讲透资治通鉴 episode on Qi Wei Wang's contested chronology, Chunyu Kun's allusive remonstrance, the "一鸣惊人" turnaround, Jimo/Ayi official audits, Qin pressure, Wei wall-building, Qin-Chu marriage diplomacy, and 356 BCE meeting notices.
 - [《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）](sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga.md) — 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push, the Gan Long debate over custom and change, 什伍连坐, agricultural incentives, military-merit rank, 徙木立信, and the crown prince's lawbreaking cliffhanger.
@@ -1019,6 +1020,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [孙膑 / Sun Bin](entities/SunBin.md) — Qi strategist whose punished exile, Tian Ji horse-racing advice, and encircling-Wei plan culminate in the Battle of Guiling.
+- [庞涓 / Pang Juan](entities/PangJuan.md) — Wei general and Sun Bin's former fellow student, presented as the betrayer whose trap mutilates Sun Bin.
+- [田忌 / Tian Ji](entities/TianJi.md) — Qi general who shelters Sun Bin, wins through the horse-racing arrangement, and commands the Zhao rescue campaign.
+- [鬼谷子 / Guiguzi](entities/Guiguzi.md) — Teacher named as the shared source of Sun Bin and Pang Juan's military learning.
+- [《孙膑兵法》 / Sun Bin's Art of War](entities/SunBinBingfa.md) — Military text whose 1972 Yinqueshan excavation supports distinguishing Sun Bin from Sunzi.
+- [桂陵之战 / Battle of Guiling](entities/GuilingBattle.md) — Qi victory produced by threatening Daliang, forcing Wei to leave Handan, and ambushing the returning army.
+- [大梁 / Daliang](entities/Daliang.md) — Wei place Sun Bin identifies as the must-save target in the encircling-Wei strategy.
+- [邯郸 / Handan](entities/Handan.md) — Zhao city under Wei siege that triggers Qi's indirect rescue plan.
+- [东周国 / Eastern Zhou Polity](entities/EasternZhouPolity.md) — Small eastern Zhou polity attacked by Han in the 353 BCE notice.
+- [西周国 / Western Zhou Polity](entities/WesternZhouPolity.md) — Counterpart polity used to explain the royal domain's East-West split.
+- [昭奚恤 / Zhao Xixu](entities/ZhaoXixu.md) — Chu chancellor whose appointment and exposure to Jiang Yi's parables anchor the episode's court-politics branch.
+- [江乙 / Jiang Yi](entities/JiangYi.md) — Chu court figure whose parables against Zhao Xixu turn true-sounding counsel into political weaponry.
 - [李克 / Li Ke (Li Kui)](entities/LiKe.md) — Wei Wenhou adviser who gives five situational character tests and recommends using Wu Qi for military ability despite defects.
 - [魏成 / Wei Cheng](entities/WeiCheng.md) — Wei chancellor candidate whose attraction of teacher-level talent explains his advantage over Di Huang.
 - [翟黄 / Di Huang](entities/DiHuang.md) — Wei chancellor candidate who argues from his recommendations of Wu Qi, Ximen Bao, Le Yang, Li Ke, and Qu Houfu.
@@ -6941,6 +6954,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
+- [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
+- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing a formed enemy out of its strong position before striking from a prepared side.
+- [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
+- [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices as crucial state-operation evidence.
+- [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.
 - [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Li Ke's five-condition framework for judging people by relationships, referrals, and refusals under pressure.
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.

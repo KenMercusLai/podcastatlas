@@ -7647,6 +7647,10 @@
     "title": "Chance Weldon",
     "url": "/wiki/entities/chanceweldon/"
   },
+  "ChancellorCenteredGovernance": {
+    "title": "Chancellor-Centered Governance / 宰相中心治理",
+    "url": "/wiki/concepts/chancellorcenteredgovernance/"
+  },
   "Chanel": {
     "title": "Chanel",
     "url": "/wiki/entities/chanel/"
@@ -10615,6 +10619,10 @@
     "title": "Dali, Yunnan / 大理",
     "url": "/wiki/entities/daliyunnan/"
   },
+  "Daliang": {
+    "title": "大梁 / Daliang",
+    "url": "/wiki/entities/daliang/"
+  },
   "DallasPoliceDepartment": {
     "title": "Dallas Police Department",
     "url": "/wiki/entities/dallaspolicedepartment/"
@@ -12515,6 +12523,14 @@
     "title": "East Star Group / 东星集团",
     "url": "/wiki/entities/eaststargroup/"
   },
+  "EasternWesternZhouSplit": {
+    "title": "Eastern-Western Zhou Split / 东周西周分裂",
+    "url": "/wiki/concepts/easternwesternzhousplit/"
+  },
+  "EasternZhouPolity": {
+    "title": "东周国 / Eastern Zhou Polity",
+    "url": "/wiki/entities/easternzhoupolity/"
+  },
   "EatingAndKillingMoralAmbivalence": {
     "title": "Eating And Killing Moral Ambivalence",
     "url": "/wiki/concepts/eatingandkillingmoralambivalence/"
@@ -13090,6 +13106,10 @@
   "EmploymentIceAgeGeneration": {
     "title": "Employment Ice Age Generation",
     "url": "/wiki/concepts/employmenticeagegeneration/"
+  },
+  "EncirclingWeiToRescueZhao": {
+    "title": "Encircling Wei to Rescue Zhao / 围魏救赵",
+    "url": "/wiki/concepts/encirclingweitorescuezhao/"
   },
   "EndOfLifeAutonomyAndDignity": {
     "title": "End-of-Life Autonomy And Dignity",
@@ -17035,6 +17055,14 @@
     "title": "龟龟",
     "url": "/wiki/entities/guigui/"
   },
+  "Guiguzi": {
+    "title": "鬼谷子 / Guiguzi",
+    "url": "/wiki/entities/guiguzi/"
+  },
+  "GuilingBattle": {
+    "title": "桂陵之战 / Battle of Guiling",
+    "url": "/wiki/entities/guilingbattle/"
+  },
   "GuillaumeCabane": {
     "title": "Guillaume Cabane",
     "url": "/wiki/entities/guillaumecabane/"
@@ -17430,6 +17458,10 @@
   "HanZheng": {
     "title": "Han Zheng / 韩正",
     "url": "/wiki/entities/hanzheng/"
+  },
+  "Handan": {
+    "title": "邯郸 / Handan",
+    "url": "/wiki/entities/handan/"
   },
   "HandsetChipCoDesign": {
     "title": "Handset-Chip Co-Design",
@@ -20682,6 +20714,10 @@
   "JiangYang": {
     "title": "Jiang Yang",
     "url": "/wiki/entities/jiangyang/"
+  },
+  "JiangYi": {
+    "title": "江乙 / Jiang Yi",
+    "url": "/wiki/entities/jiangyi/"
   },
   "JiangZiwen": {
     "title": "蒋子文 / Jiang Ziwen",
@@ -24086,6 +24122,10 @@
   "LuojiSiwei": {
     "title": "罗辑思维",
     "url": "/wiki/entities/luojisiwei/"
+  },
+  "LureEnemyOutOfPosition": {
+    "title": "Lure Enemy Out of Position / 诱敌离位",
+    "url": "/wiki/concepts/lureenemyoutofposition/"
   },
   "LusunTeleprompter": {
     "title": "芦笋提词器",
@@ -29063,6 +29103,10 @@
     "title": "庞春梅 / Pang Chunmei",
     "url": "/wiki/entities/pangchunmei/"
   },
+  "PangJuan": {
+    "title": "庞涓 / Pang Juan",
+    "url": "/wiki/entities/pangjuan/"
+  },
   "Pangram": {
     "title": "Pangram",
     "url": "/wiki/entities/pangram/"
@@ -30290,6 +30334,10 @@
   "PoliticalMemeStock": {
     "title": "Political Meme Stock",
     "url": "/wiki/concepts/politicalmemestock/"
+  },
+  "PoliticalParableWeaponization": {
+    "title": "Political Parable Weaponization / 寓言式政治挑拨",
+    "url": "/wiki/concepts/politicalparableweaponization/"
   },
   "PoliticalPropagandaBackfire": {
     "title": "Political Propaganda Backfire / 政治宣传反噬",
@@ -36959,6 +37007,14 @@
     "title": "Summit Therapeutics",
     "url": "/wiki/entities/summittherapeutics/"
   },
+  "SunBin": {
+    "title": "孙膑 / Sun Bin",
+    "url": "/wiki/entities/sunbin/"
+  },
+  "SunBinBingfa": {
+    "title": "《孙膑兵法》 / Sun Bin's Art of War",
+    "url": "/wiki/entities/sunbinbingfa/"
+  },
   "SunBum": {
     "title": "Sun Bum",
     "url": "/wiki/entities/sunbum/"
@@ -38462,6 +38518,14 @@
   "TianHe": {
     "title": "田和 / Tian He",
     "url": "/wiki/entities/tianhe/"
+  },
+  "TianJi": {
+    "title": "田忌 / Tian Ji",
+    "url": "/wiki/entities/tianji/"
+  },
+  "TianJiHorseRacing": {
+    "title": "Tian Ji Horse Racing / 田忌赛马",
+    "url": "/wiki/concepts/tianjihorseracing/"
   },
   "TianLongBaBu": {
     "title": "《天龙八部》",
@@ -41011,6 +41075,10 @@
     "title": "Western Sahara",
     "url": "/wiki/entities/westernsahara/"
   },
+  "WesternZhouPolity": {
+    "title": "西周国 / Western Zhou Polity",
+    "url": "/wiki/entities/westernzhoupolity/"
+  },
   "WestsideFederationForSeniorAndSupportiveHousing": {
     "title": "Westside Federation for Senior and Supportive Housing",
     "url": "/wiki/entities/westsidefederationforseniorandsupportivehousing/"
@@ -43142,6 +43210,10 @@
   "ZhaoXianzi": {
     "title": "赵献子 / Zhao Xianzi",
     "url": "/wiki/entities/zhaoxianzi/"
+  },
+  "ZhaoXixu": {
+    "title": "昭奚恤 / Zhao Xixu",
+    "url": "/wiki/entities/zhaoxixu/"
   },
   "ZhaoYuanren": {
     "title": "赵元任",
@@ -46466,5 +46538,9 @@
   "zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv": {
     "title": "《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv/"
+  },
+  "zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr": {
+    "title": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr/"
   }
 }

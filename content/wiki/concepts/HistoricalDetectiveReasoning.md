@@ -2,7 +2,7 @@
 title: "Historical Detective Reasoning"
 type: concept
 tags: [history, archaeology, reasoning, detective-fiction]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds a sharper dating test. The host compares received Qi chronology, [[Shiji|《史记》]] weakness around Tian-family Qi, and the death of [[ZhouLiewang|周烈王]] to argue that the Qi Wei Wang notice belongs in a [[QiChronologyDispute|specific disputed chronology]] rather than in the year where it is transmitted.
 
+[[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds an archaeological correction case through [[SunBinBingfa|《孙膑兵法》]]. The episode uses the 1972 Yinqueshan Han tombs excavation to separate [[SunBin|孙膑]] from Sunzi and to distinguish two military texts, showing how excavated evidence can discipline an inherited identity problem without erasing the narrative value of the received story.
+
 ## Key Claims
 - Historical evidence is usually fragmentary, mediated, and unevenly preserved.
 - A strong historical inference asks who produced the source, when it appeared, what it leaves out, and what rival explanation it must beat.
@@ -41,6 +43,7 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - Similar names, overlapping itineraries, and attractive narrative fit are not enough to settle identity; they should be marked as hypothesis.
 - A preserved event can be historically useful even when its annalistic placement is doubtful.
 - A concrete impossibility, such as a ruler being dead before a recorded visit, can discipline chronology correction without proving every replacement date.
+- Excavated texts can resolve identity and textual-attribution problems that received literary tradition leaves blurred.
 
 ## Connections
 - [[ZhangZhihao|张志浩]] and [[LishiBoke|《历史播客》]] - source context.
@@ -57,3 +60,4 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[Laozi|老子]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 source-switching and tentative-identity branch.
 - [[ChronicleChronologyDrift]], [[QiWeiwang|齐威王]], [[WeiWuhou|魏武侯]], and [[SuccessionNonDesignationRisk]] - Zhouji 10 part 2 chronology and succession branch.
 - [[QiChronologyDispute]], [[ZhouLiewang|周烈王]], [[ZhouXianwang|周显王]], and [[Shiji|《史记》]] - Zhouji 14 sharper chronology test.
+- [[SunBin|孙膑]], [[SunBinBingfa|《孙膑兵法》]], and [[WarringStatesPeriod|战国时期]] - Zhouji 16 archaeological identity-correction branch.

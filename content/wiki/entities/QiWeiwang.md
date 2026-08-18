@@ -2,7 +2,7 @@
 title: "齐威王 / King Wei of Qi"
 type: entity
 tags: [person, ruler, pre-qin, qi-state, warring-states]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The same source then uses Qi Wei Wang's investigation of [[JimoDafu|即墨大夫
 
 The same source retells the "一鸣惊人" narrative. Qi Wei Wang neglects government, leaves affairs to [[ChenLiao|陈聊]], receives [[ChunyuKun|淳于髡]]'s [[AllusiveRemonstrance|隐语进谏]], then turns to official audits, military reform, and territorial recovery. The episode also records a bounded possibility that his earlier decadence was deliberate feigning, which the wiki keeps as [[QiWeiwangPoliticalTurnaround|source-scoped interpretation]] rather than fact.
 
+[[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds his role as a user of strategic talent. Qi Wei Wang asks [[SunBin|孙膑]] how to break a battlefield stalemate, initially considers making him commander for the Zhao rescue, and then accepts the arrangement in which [[TianJi|田忌]] commands while Sun Bin advises the [[EncirclingWeiToRescueZhao|围魏救赵]] campaign.
+
 This page is deliberately source-scoped. It keeps the episode's "齐威王" story visible while marking its own [[ChronicleChronologyDrift|chronology drift]] warning and connecting it to the earlier [[TianYingqi|田英齐]] Tian-family succession branch without forcing a clean timeline.
 
 ## Connections
@@ -25,3 +27,4 @@ This page is deliberately source-scoped. It keeps the episode's "齐威王" stor
 - [[JimoDafu|即墨大夫]], [[AyiDafu|阿邑大夫]], and [[IndependentOfficialAudit]] - official-evaluation branch.
 - [[ChunyuKun|淳于髡]], [[ChenLiao|陈聊]], [[AllusiveRemonstrance]], and [[QiWeiwangPoliticalTurnaround]] - Zhouji 14 remonstrance and turnaround branch.
 - [[QiChronologyDispute]], [[ChronicleChronologyDrift]], and [[ChronicleSourceGaps]] - historiographical caution around the date.
+- [[SunBin|孙膑]], [[TianJi|田忌]], [[LureEnemyOutOfPosition]], [[EncirclingWeiToRescueZhao]], and [[GuilingBattle|桂陵之战]] - Zhouji 16 military-talent and rescue campaign branch.
