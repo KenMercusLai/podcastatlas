@@ -2,7 +2,7 @@
 title: "魏武侯 / Marquis Wu of Wei"
 type: entity
 tags: [person, ruler, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-18
 ---
 
@@ -18,6 +18,8 @@ The same source also makes Wei Wuhou vulnerable to court manipulation. [[Gongshu
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] follows the consequence from Wu Qi's side: after recognizing the danger, Wu Qi fears Wei Wuhou may kill him and flees to [[ChuState|楚国]]. Wei Wuhou therefore becomes the ruler whose court politics push Wu Qi out of Wei and into the Chu reform arc.
 
+[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] makes Wei Wuhou a ruler in broad conflict rather than only court politics. The episode places him in the Han-Zhao-Wei rescue of Yan, the fighting with Zhao and Qi, Chu's opportunistic pressure, and the detached Zhongshan problem around his brother [[WeiZhi|魏挚]].
+
 ## Connections
 - [[WeiState|魏国]] - polity he rules.
 - [[WeiWenhou|魏文侯]] - predecessor and father in the source.
@@ -25,3 +27,4 @@ The same source also makes Wei Wuhou vulnerable to court manipulation. [[Gongshu
 - [[WarringStatesPeriod|战国时期]] - period setting.
 - [[WuQi|吴起]], [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - early-reign court-politics branch.
 - [[ChuState|楚国]] and [[WarringStatesReformBacklash]] - downstream branch after Wu Qi's flight.
+- [[EarlyWarringStatesInterstateWar]], [[ZhongshanState|中山国]], and [[WeiZhi|魏挚]] - Zhouji 09 interstate-war and frontier-control branch.

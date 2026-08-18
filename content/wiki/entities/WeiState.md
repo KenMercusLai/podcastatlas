@@ -2,7 +2,7 @@
 title: "魏国 / Wei State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-18
 ---
 
@@ -20,6 +20,8 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] closes the Wei portion by having Wu Qi realize the court trap has made him unsafe. He flees to [[ChuState|楚国]], so Wei's branch now also explains how internal suspicion can export a talented but dangerous minister to a rival state.
 
+[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] returns Wei to the center of interstate war. Wei joins Han and Zhao to rescue [[YanState|燕国]] from [[QiState|齐国]], is attacked by Zhao, fights alongside Qi against Zhao, is struck opportunistically by [[ChuSuwang|楚肃王]], loses control of [[ZhongshanState|中山国]] after [[WeiZhi|魏挚]] is driven out, and finally joins Han and Zhao in ending [[JinState|晋国]].
+
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
 - [[WuQi|吴起]] and [[Wuzi|《吴子》]] - military branch.
@@ -30,3 +32,4 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 - [[WeiWuhou|魏武侯]] - successor added by part 2.
 - [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - succession court-politics branch added by Zhouji 08.
 - [[ChuState|楚国]] and [[WarringStatesReformBacklash]] - downstream consequence after Wu Qi leaves Wei.
+- [[EarlyWarringStatesInterstateWar]], [[ChuSuwang|楚肃王]], [[ZhongshanState|中山国]], [[WeiZhi|魏挚]], and [[JinJinggong|晋静公]] - Zhouji 09 war, frontier, and Jin-ending branch.

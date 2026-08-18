@@ -2,7 +2,7 @@
 title: "韩国 / Han State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-18
 ---
 
@@ -16,6 +16,8 @@ The source uses Han less as a full institutional history than as a succession an
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] adds the death of [[HanLiehou|韩烈侯]] in 387 BCE and the accession of his son [[HanWenhou|韩文侯]]. Han remains part of the source's clustered early Warring States succession pattern.
 
+[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] keeps Han in both war and succession roles. Han joins Zhao and Wei to attack Qi in support of Yan, later joins Zhao and Wei again against Qi at Lingqiu, sees [[HanWenhou|韩文侯]] die and [[HanAihou|韩哀侯]] succeed, and participates in the final deposition of [[JinJinggong|晋静公]].
+
 ## Connections
 - [[HanJinghou|韩景侯]] and [[HanLiehou|韩烈侯]] - succession pair in the source.
 - [[ZhaoState|赵国]] and [[WeiState|魏国]] - allied attack on Chu.
@@ -24,3 +26,4 @@ The source uses Han less as a full institutional history than as a succession an
 - [[FushuCity|负黍]] and [[TerritorialControlChurn]] - city-control branch.
 - [[HanWenhou|韩文侯]] - successor added by Zhouji 08 part 2.
 - [[WarringStatesPeriod|战国时期]] - broad period context.
+- [[EarlyWarringStatesInterstateWar]], [[JinJinggong|晋静公]], and [[HanAihou|韩哀侯]] - Zhouji 09 war, Jin-ending, and succession branch.

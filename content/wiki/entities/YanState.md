@@ -2,7 +2,7 @@
 title: "燕国 / Yan State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-18
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-18
 
 The page is currently source-scoped. Its role is to anchor the annalistic chronology branch of the episode rather than to provide a complete Yan history.
 
+[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] adds Yan as the state attacked by [[QiState|齐国]] at Sangqiu. [[YanJiangong|燕简公]]'s vulnerability draws in Han, Zhao, and Wei, whose rescue attack helps the episode build its [[EarlyWarringStatesInterstateWar|early Warring States interstate-war]] frame.
+
 ## Connections
 - [[YanMinGong|燕闵公]] and [[YanXiGong|燕僖公]] - succession pair in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
 - [[WarringStatesPeriod|战国时期]] - broad period context for the episode's chronology.
+- [[YanJiangong|燕简公]], [[QiState|齐国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 09 attack and rescue branch.

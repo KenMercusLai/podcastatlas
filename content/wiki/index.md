@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》09丨战国时代的世界大战](sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl.md) — 芮淇讲透资治通鉴 episode on early Warring States coalition war, Jiang-line Qi and Jin's endings, Zhongshan revival, Zhou An Wang's death, and Zisi's advice on flawed talent and court flattery.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（2）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm.md) — 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's reform backing, noble backlash against Wu Qi's centralizing measures, Qin/Zhao/Han/Qi succession and recognition notices, and Han Fei's ruler-technique reading of Zhao Jinghou.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（1）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll.md) — 芮淇讲透资治通鉴 episode on Wu Qi under Wei Wuhou, virtue over terrain, Tian Wen's transition-stability argument, and Gongshu's marriage-trap maneuver.
 - [《资治通鉴·周纪》07丨两起刺杀（2）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang years 5-8, solar-eclipse political responsibility, Nie Zheng's assassination of Xia Lei, Nie Ying's honor death, Wei/Song/Zheng successions, Song's Shang lineage, source gaps, and Fushu's repeated transfer.
@@ -1009,6 +1010,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [子思 / Zisi](entities/Zisi.md) — Confucius's grandson in Zhouji 09, used for advice on flawed talent, remonstrance, and court feedback failure.
+- [苟变 / Gou Bian](entities/GouBian.md) — Military talent whom Zisi says Wei should not discard over the "two eggs" blemish.
+- [周烈王 / King Lie of Zhou](entities/ZhouLiewang.md) — Zhou An Wang's son and successor in the 376 BCE transition closing Zhouji 09.
+- [燕简公 / Duke Jian of Yan](entities/YanJiangong.md) — Elderly Yan ruler whose state is attacked by Qi and rescued by Han, Zhao, and Wei in Zhouji 09.
+- [齐康公 / Duke Kang of Qi](entities/QiKangGong.md) — Last Jiang-line Qi ruler in Zhouji 09, whose death marks the old Qi lineage's end.
+- [田氏齐桓公 / Tian-family Qi Huan Gong](entities/TianQiHuanGong.md) — Tian-family Qi ruler named in Zhouji 09, kept separate from the older Spring-Autumn Qi Huan Gong.
+- [田英齐 / Tian Yingqi](entities/TianYingqi.md) — Tian-family Qi successor named by Zhouji 09 after the Tian-family Qi Huan Gong.
+- [楚肃王 / King Su of Chu](entities/ChuSuwang.md) — Chu ruler who turns Zhao's request for help into opportunistic pressure on Wei.
+- [晋孝公 / Duke Xiao of Jin](entities/JinXiaogong.md) — Jin ruler whose death leads to Jin Jing Gong's final succession notice.
+- [晋静公 / Duke Jing of Jin](entities/JinJinggong.md) — Final Jin ruler deposed by Han, Zhao, and Wei in Zhouji 09.
+- [中山国 / Zhongshan State](entities/ZhongshanState.md) — Revived state after Di forces drive out Wei Zhi from Wei's detached holding.
+- [魏挚 / Wei Zhi](entities/WeiZhi.md) — Wei Wuhou's brother stationed in Zhongshan before its revival.
+- [鲁穆公 / Duke Mu of Lu](entities/LuMugong.md) — Lu ruler whose death precedes Lu Gong Gong's accession in Zhouji 09.
+- [鲁共公 / Duke Gong of Lu](entities/LuGonggong.md) — Ji Fen, Lu Mu Gong's son and successor in the 377 BCE notice.
 - [秦出公 / Qin Chugong](entities/QinChugong.md) — Qin Hui Gong's successor in the Zhouji 08 part 2 succession notice, later framed by the episode as a coup victim.
 - [赵靖侯 / Marquis Jing of Zhao](entities/ZhaoJinghou.md) — Zhao Zhang, installed after Zhao Wuhou and used through Han Fei to illustrate ruler technique despite personal vice.
 - [韩文侯 / Marquis Wen of Han](entities/HanWenhou.md) — Han Lie Hou's son and successor in the Zhouji 08 part 2 succession cluster.
@@ -1019,7 +1034,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [聂英 / Nie Ying](entities/NieYing.md) — Nie Zheng's sister who identifies his body and dies so his name will not be lost.
 - [严仲子 / Yan Zhongzi](entities/YanZhongzi.md) — Puyang feud-holder who recruits Nie Zheng to kill Xia Lei.
 - [侠累 / Xia Lei](entities/XiaLei.md) — Han chancellor killed by Nie Zheng, with a Zhanguo Ce variant linking the event to Han Aihou.
-- [韩哀侯 / Marquis Ai of Han](entities/HanAihou.md) — Han ruler appearing in the episode's Zhanguo Ce variant of the Nie Zheng assassination story.
+- [韩哀侯 / Marquis Ai of Han](entities/HanAihou.md) — Han Wenhou's successor in Zhouji 09, also preserved in the earlier Zhanguo Ce variant of the Nie Zheng assassination story.
 - [魏武侯 / Marquis Wu of Wei](entities/WeiWuhou.md) — Wei Wenhou's son and successor whose early reign frames Wu Qi's West River warning and chancellor-transition politics.
 - [郑繻公 / Duke Xu of Zheng](entities/ZhengXugong.md) — Zheng ruler killed by Ziyang's remaining faction before Zheng Kang Gong's installation.
 - [宋国 / Song State](entities/SongState.md) — Pre-Qin state presented as a Shang-remnant polity preserved under Zhou ritual order.
@@ -6857,6 +6872,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Zhouji 09 frame for the tangled Qi-Yan-Han-Zhao-Wei-Chu conflict around 380-379 BCE.
+- [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Zisi's talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes.
+- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce each other's self-certainty instead of correcting errors.
 - [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where centralizing military-fiscal reform strengthens a state while creating concentrated elite enemies.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Han Fei-style frame where ruler effectiveness turns on using people and reading ministerial speech, even apart from personal virtue.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.

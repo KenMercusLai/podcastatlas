@@ -8639,6 +8639,10 @@
     "title": "楚国 / Chu State",
     "url": "/wiki/entities/chustate/"
   },
+  "ChuSuwang": {
+    "title": "楚肃王 / King Su of Chu",
+    "url": "/wiki/entities/chusuwang/"
+  },
   "ChuckSurack": {
     "title": "Chuck Surack",
     "url": "/wiki/entities/chucksurack/"
@@ -9930,6 +9934,10 @@
   "CouponLedTransactionGrowth": {
     "title": "Coupon-Led Transaction Growth",
     "url": "/wiki/concepts/couponledtransactiongrowth/"
+  },
+  "CourtFeedbackCollapse": {
+    "title": "Court Feedback Collapse / 君臣反馈失灵",
+    "url": "/wiki/concepts/courtfeedbackcollapse/"
   },
   "CoventryLifeSettlements": {
     "title": "Coventry (life settlements)",
@@ -12410,6 +12418,10 @@
   "EarlyTransplantationImaginary": {
     "title": "Early Transplantation Imaginary / 早期移植想象",
     "url": "/wiki/concepts/earlytransplantationimaginary/"
+  },
+  "EarlyWarringStatesInterstateWar": {
+    "title": "Early Warring States Interstate War / 战国早期诸侯混战",
+    "url": "/wiki/concepts/earlywarringstatesinterstatewar/"
   },
   "EarlyWomenFilmPioneers": {
     "title": "Early Women Film Pioneers",
@@ -16611,6 +16623,10 @@
     "title": "Gossip As Social Grooming / 八卦作为社会性梳毛",
     "url": "/wiki/concepts/gossipassocialgrooming/"
   },
+  "GouBian": {
+    "title": "苟变 / Gou Bian",
+    "url": "/wiki/entities/goubian/"
+  },
   "GovernmentAIPaceSetting": {
     "title": "Government AI Pace-Setting",
     "url": "/wiki/concepts/governmentaipacesetting/"
@@ -20675,6 +20691,10 @@
     "title": "Jim Thorpe",
     "url": "/wiki/entities/jimthorpe/"
   },
+  "JinJinggong": {
+    "title": "晋静公 / Duke Jing of Jin",
+    "url": "/wiki/entities/jinjinggong/"
+  },
   "JinMerchantGovernance": {
     "title": "Jin Merchant Governance",
     "url": "/wiki/concepts/jinmerchantgovernance/"
@@ -20690,6 +20710,10 @@
   "JinWenGong": {
     "title": "晋文公",
     "url": "/wiki/entities/jinwengong/"
+  },
+  "JinXiaogong": {
+    "title": "晋孝公 / Duke Xiao of Jin",
+    "url": "/wiki/entities/jinxiaogong/"
   },
   "JinYong": {
     "title": "金庸 / Jin Yong",
@@ -23795,9 +23819,17 @@
     "title": "陆川 / Lu Chuan",
     "url": "/wiki/entities/luchuan/"
   },
+  "LuGonggong": {
+    "title": "鲁共公 / Duke Gong of Lu",
+    "url": "/wiki/entities/lugonggong/"
+  },
   "LuLiuliang": {
     "title": "吕留良 / Lu Liuliang",
     "url": "/wiki/entities/luliuliang/"
+  },
+  "LuMugong": {
+    "title": "鲁穆公 / Duke Mu of Lu",
+    "url": "/wiki/entities/lumugong/"
   },
   "LuQi": {
     "title": "Lu Qi",
@@ -31235,6 +31267,10 @@
     "title": "齐景公 / Duke Jing of Qi",
     "url": "/wiki/entities/qijinggong/"
   },
+  "QiKangGong": {
+    "title": "齐康公 / Duke Kang of Qi",
+    "url": "/wiki/entities/qikanggong/"
+  },
   "QiSi": {
     "title": "《起死》",
     "url": "/wiki/entities/qisi/"
@@ -38187,9 +38223,17 @@
     "title": "《天龙八部》",
     "url": "/wiki/entities/tianlongbabu/"
   },
+  "TianQiHuanGong": {
+    "title": "田氏齐桓公 / Tian-family Qi Huan Gong",
+    "url": "/wiki/entities/tianqihuangong/"
+  },
   "TianWenWeiChancellor": {
     "title": "田文 / Tian Wen (Wei chancellor)",
     "url": "/wiki/entities/tianwenweichancellor/"
+  },
+  "TianYingqi": {
+    "title": "田英齐 / Tian Yingqi",
+    "url": "/wiki/entities/tianyingqi/"
   },
   "TianYuandong": {
     "title": "Tian Yuandong / 田渊栋",
@@ -39515,6 +39559,10 @@
     "title": "Usage-Based Vertical SaaS Pricing",
     "url": "/wiki/concepts/usagebasedverticalsaaspricing/"
   },
+  "UseStrengthsOverFaults": {
+    "title": "Use Strengths Over Faults / 用人取长弃短",
+    "url": "/wiki/concepts/usestrengthsoverfaults/"
+  },
   "UsedEVAffordability": {
     "title": "Used EV Affordability",
     "url": "/wiki/concepts/usedevaffordability/"
@@ -40594,6 +40642,10 @@
   "WeiZhaoyang": {
     "title": "魏昭阳 / Wei Zhaoyang",
     "url": "/wiki/entities/weizhaoyang/"
+  },
+  "WeiZhi": {
+    "title": "魏挚 / Wei Zhi",
+    "url": "/wiki/entities/weizhi/"
   },
   "WeilaiBuyuan": {
     "title": "Weilai Buyuan",
@@ -41839,6 +41891,10 @@
     "title": "颜飞 / Yan Fei (sociologist)",
     "url": "/wiki/entities/yanfeisociologist/"
   },
+  "YanJiangong": {
+    "title": "燕简公 / Duke Jian of Yan",
+    "url": "/wiki/entities/yanjiangong/"
+  },
   "YanJunjie": {
     "title": "Yan Junjie",
     "url": "/wiki/entities/yanjunjie/"
@@ -42883,6 +42939,10 @@
     "title": "中欧瑞博 / Zhongou Ruibo",
     "url": "/wiki/entities/zhongouruibo/"
   },
+  "ZhongshanState": {
+    "title": "中山国 / Zhongshan State",
+    "url": "/wiki/entities/zhongshanstate/"
+  },
   "ZhongshijiDeShenti": {
     "title": "《中世纪的身体》",
     "url": "/wiki/entities/zhongshijideshenti/"
@@ -42934,6 +42994,10 @@
   "ZhouKaiya": {
     "title": "周开亚 / Zhou Kaiya",
     "url": "/wiki/entities/zhoukaiya/"
+  },
+  "ZhouLiewang": {
+    "title": "周烈王 / King Lie of Zhou",
+    "url": "/wiki/entities/zhouliewang/"
   },
   "ZhouLuohua": {
     "title": "Zhou Luohua / 周洛华",
@@ -43058,6 +43122,10 @@
   "ZincPopcornBuckets": {
     "title": "Zinc (popcorn-bucket design)",
     "url": "/wiki/entities/zincpopcornbuckets/"
+  },
+  "Zisi": {
+    "title": "子思 / Zisi",
+    "url": "/wiki/entities/zisi/"
   },
   "ZiyangZheng": {
     "title": "子阳 / Ziyang of Zheng",
@@ -45998,5 +46066,9 @@
   "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm": {
     "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm/"
+  },
+  "zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl": {
+    "title": "《资治通鉴·周纪》09丨战国时代的世界大战",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl/"
   }
 }

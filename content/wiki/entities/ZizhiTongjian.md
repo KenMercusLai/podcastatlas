@@ -2,7 +2,7 @@
 title: "《资治通鉴》 / Zizhi Tongjian"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-18
 ---
 
@@ -18,6 +18,8 @@ last_updated: 2026-08-18
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] continues the same Wu Qi arc after his flight to [[ChuState|楚国]], using his reforms under [[ChuDaoWang|楚悼王]] for [[WarringStatesReformBacklash]]. It also shows the chronicle's annalistic function through clustered Qin/Zhao/Han succession notices and the formal recognition of [[TianHe|田和]] by the [[ZhouRoyalHouse|周王室]].
 
+[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] continues the [[ZhouAnWang|周安王]] years into 380-376 BCE. The episode uses terse war, succession, and extinction notices to frame [[EarlyWarringStatesInterstateWar]], the endings of [[QiKangGong|齐康公]]'s Jiang-line Qi and [[JinJinggong|晋静公]]'s Jin, and [[Zisi|子思]]'s governance counsel as material selected for practical rule.
+
 The work's wiki role here is historiographical. Its compact chronology gives the episode a reason to ask what a phrase records plainly, what it leaves out, and when later readers should move from received statement to cautious inference.
 
 ## Connections
@@ -28,3 +30,4 @@ The work's wiki role here is historiographical. Its compact chronology gives the
 - [[QinghuaJianXinian|清华简《系年》]], [[Zhanguoce|《战国策》]], [[NaturalDisasterPoliticalOmen]], [[CelestialOmenPoliticalResponsibility]], and [[HistoricalDetectiveReasoning]] - episode 07 evidence and interpretation extension.
 - [[WuQi|吴起]], [[WeiWuhou|魏武侯]], [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - Zhouji 08 court-politics extension.
 - [[WarringStatesReformBacklash]], [[LegalistRulerTechnique]], [[QinChugong|秦出公]], [[ZhaoJinghou|赵靖侯]], [[HanWenhou|韩文侯]], and [[TianHe|田和]] - Zhouji 08 part 2 reform and chronology extension.
+- [[EarlyWarringStatesInterstateWar]], [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - Zhouji 09 war and governance extension.

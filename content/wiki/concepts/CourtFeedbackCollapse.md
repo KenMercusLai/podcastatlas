@@ -1,0 +1,26 @@
+---
+title: "Court Feedback Collapse / 君臣反馈失灵"
+type: concept
+tags: [governance, leadership, court-politics, pre-qin-history]
+sources: [zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+last_updated: 2026-08-18
+---
+
+# Court Feedback Collapse / 君臣反馈失灵
+
+Court feedback collapse / 君臣反馈失灵 is the governance failure [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl|Zhouji 09]] draws from [[Zisi|子思]]'s criticism of [[WeiState|魏国]] politics. The episode says ministers echo the ruler whether he is right or wrong, so the ruler hears flattery rather than correction.
+
+Zisi sharpens the point by extending it down the hierarchy: if the ruler believes no one can improve his plans and officials also assume they are always right, useful speech disappears at both levels. The state can then fail without noticing why, because the system filters out the very feedback that could correct it.
+
+## Key Claims
+- A ruler's self-certainty can silence capable advisers before policy is tested.
+- Ministerial flattery is dangerous because it disguises information failure as harmony.
+- Feedback collapse spreads when lower officials also become immune to correction.
+- Remonstrance has to be made to the ruler, not only voiced privately, if it is to function as governance.
+
+## Connections
+- [[Zisi|子思]] - speaker and critic of the pattern.
+- [[GongshuWeiChancellor|公叔痤]] and [[WeiWuhou|魏武侯]] - court figures in the source's Wei setting.
+- [[Shijing|《诗经》]] - text Zisi quotes against universal self-certainty.
+- [[UseStrengthsOverFaults]] and [[LegalistRulerTechnique]] - adjacent governance concepts in the Ruiqi branch.
+- [[WarringStatesPeriod|战国时期]] - political setting where internal information failure can become strategic weakness.

@@ -8074,3 +8074,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | 《资治通鉴·周纪》09丨战国时代的世界大战
+
+Added source page for a 芮淇讲透资治通鉴 episode on the broad early Warring States melee among Qi, Yan, Han, Zhao, Wei, and Chu; Jiang-line Qi's end; Jin's final extinction; Zhongshan's revival; Zhou An Wang's death and Zhou Lie Wang's accession; and Zisi's advice on Gou Bian, flawed talent, remonstrance, and court flattery. Created pages for Zisi, Gou Bian, Zhou Lie Wang, Yan Jian Gong, Qi Kang Gong, Tian-family Qi Huan Gong, Tian Yingqi, Chu Su Wang, Jin Xiao Gong, Jin Jing Gong, Zhongshan State, Wei Zhi, Lu Mu Gong, Lu Gong Gong, Early Warring States Interstate War, Use Strengths Over Faults, and Court Feedback Collapse; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Zhou Royal House, Warring States Period, Wei State, Wei Wuhou, Zhao State, Zhao Jinghou, Han State, Han Wenhou, Han Aihou, Qi State, Yan State, Chu State, Jin State, Lu State, Tian He, Gongshu, Shijing, Sima Guang, Confucius, Chronicle Source Gaps, and Territorial Control Churn. No direct contradiction found; the Tian-family Qi Huan Gong title is kept separate from the older Spring-Autumn Qi Huan Gong, and the unstable Zhao ruler wording in the transcript is kept state-level rather than turned into a new page.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
