@@ -60,8 +60,12 @@
     </ul>
   {{ else }}
     <h1>{{ .Title }}</h1>
-    {{ $count := int (len .RegularPages) }}
-    <p class="count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</p>
-    {{ partial "page-list.html" .RegularPages }}
+    {{ if .Params.wiki_alphabetical }}
+      {{ partial "wiki-alphabetical-list.html" . }}
+    {{ else }}
+      {{ $count := int (len .RegularPages) }}
+      <p class="count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</p>
+      {{ partial "page-list.html" .RegularPages }}
+    {{ end }}
   {{ end }}
 {{ end }}

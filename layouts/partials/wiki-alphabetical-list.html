@@ -1,0 +1,35 @@
+{{ $section := .Params.wiki_section }}
+{{ $active := .Params.wiki_letter }}
+{{ $pages := .Params.wiki_pages }}
+{{ $buckets := slice "0-9" "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" }}
+
+<nav class="wiki-letter-tabs" aria-label="Browse by first character">
+  {{ range $bucket := $buckets }}
+    {{ $path := printf "wiki/%s/by-letter/%s/" $section $bucket }}
+    <a
+      class="wiki-letter-tab{{ if eq $bucket $active }} is-active{{ end }}"
+      href="{{ $path | relURL }}"
+      {{ if eq $bucket $active }}aria-current="page"{{ end }}
+    >{{ if eq $bucket "0-9" }}0-9{{ else }}{{ upper $bucket }}{{ end }}</a>
+  {{ end }}
+</nav>
+
+<p class="count">
+  {{ len $pages }} page{{ if ne (len $pages) 1 }}s{{ end }} in {{ if eq $active "0-9" }}0-9{{ else }}{{ upper $active }}{{ end }}
+  · {{ .Params.wiki_total_pages }} total
+</p>
+
+{{ if $pages }}
+  <ul class="page-list">
+    {{ range $page := $pages }}
+      <li>
+        <div>
+          <a href="{{ strings.TrimPrefix "/" $page.url | relURL }}">{{ $page.title }}</a>
+        </div>
+        <span class="page-kind">{{ $section }}</span>
+      </li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p class="meta">No pages found.</p>
+{{ end }}
