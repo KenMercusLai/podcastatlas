@@ -2,7 +2,7 @@
 title: "嬴驷 / Ying Si"
 type: entity
 tags: [person, prince, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-19
 嬴驷 / Ying Si appears in [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] as [[QinXiaogong|秦孝公]]'s crown prince. The episode introduces him at the endpoint, after [[ShangYang|公孙鞅 / 商鞅]]'s new law has been active for more than a year and public complaints have accumulated.
 
 The source uses Ying Si as a suspense point rather than a full biography. His violation of the new law turns [[ShangYangReforms|商鞅变法]] from a general policy program into a legitimacy test: if the law does not reach the ruler's heir, the reform loses credibility; if it does, it threatens the court's highest-status people.
+
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] resolves the suspense by making Ying Si's tutors suffer in his stead. The episode stresses that the heir's status prevents direct punishment, but the tutor punishments still make the case a [[HighStatusLawEnforcementSignal|high-status law-enforcement signal]]. That makes Ying Si the hinge between Qin's new legal credibility and the later resentment carried by figures such as [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]].
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] returns to Ying Si as successor after Qin Xiao Gong's death in 338 BCE. The episode does not develop his independent rule, but his accession is the political turn that lets [[GongziQian|公子虔]]'s faction attack Shang Yang and makes the earlier prince-law conflict part of the larger [[WarringStatesReformBacklash]] sequence.
 
@@ -29,6 +31,7 @@ The source uses Ying Si as a suspense point rather than a full biography. His vi
 ## Connections
 - [[QinXiaogong|秦孝公]] - his father and Qin ruler in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer whose law he violates.
+- [[GongziQian|公子虔]], [[GongsunJia|公孙贾]], and [[HighStatusLawEnforcementSignal]] - tutor punishment and enforcement-signal branch.
 - [[QinState|秦国]] - state whose new legal order is being tested.
 - [[SuQin|苏秦]] and [[ChuaimoTechnique|揣摩]] - Zhouji 30 failed persuasion branch after Shang Yang's execution.
 - [[ZhangYiStrategist|张仪]], [[HezongAlliance|合纵]], and [[LianhengStrategy|连横]] - Zhouji 31 Qin court and strategist-placement branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4742
+wiki_total_pages: 4744
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "TalibanHardlineRule"
     title: "Taliban Hardline Rule"
     url: "/wiki/concepts/talibanhardlinerule/"
+  - key: "TallPoppyGovernance"
+    title: "Tall Poppy Governance / 高大罂粟花式震慑"
+    url: "/wiki/concepts/tallpoppygovernance/"
   - key: "TallTaleTradition"
     title: "Tall-Tale Tradition"
     url: "/wiki/concepts/talltaletradition/"

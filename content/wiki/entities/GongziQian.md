@@ -2,11 +2,13 @@
 title: "公子虔 / Gongzi Qian"
 type: entity
 tags: [person, qin-state, pre-qin, warring-states, legalism]
-sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
 last_updated: 2026-08-19
 ---
 
 # 公子虔 / Gongzi Qian
+
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] supplies the earlier context for Gongzi Qian's later resentment. When [[YingSi|太子嬴驷]] violates [[ShangYang|公孙鞅 / 商鞅]]'s new law, the prince is not punished directly; the punishment falls on the prince's tutors. In the broader Shang Yang branch, Gongzi Qian is the tutor figure whose suffering turns the prince-law case into a [[HighStatusLawEnforcementSignal|high-status law-enforcement signal]].
 
 公子虔 / Gongzi Qian appears in [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] as the leader or emblem of the Qin faction that accuses [[ShangYang|公孙鞅 / 商鞅]] of rebellion after [[QinXiaogong|秦孝公]] dies and [[YingSi|嬴驷]] succeeds.
 
@@ -17,6 +19,7 @@ The episode treats him as part of [[WarringStatesReformBacklash|战国变法反�
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] - accused reformer.
 - [[QinXiaogong|秦孝公]] and [[YingSi|嬴驷]] - ruler transition that changes Shang Yang's political safety.
+- [[GongsunJia|公孙贾]] - paired punished tutor figure in the prince-law branch.
 - [[QinState|秦国]] - state setting.
-- [[ShangYangReforms]] and [[WarringStatesReformBacklash]] - reform package and backlash pattern.
+- [[ShangYangReforms]], [[HighStatusLawEnforcementSignal]], and [[WarringStatesReformBacklash]] - reform package, elite enforcement signal, and backlash pattern.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[PowerExitTrap|权力退场困境]], and [[LegalistSelfBindingBackfire|作法自毙]] - social-support, exit, and legal self-trap branches after the accusation.

@@ -2,7 +2,7 @@
 title: "秦孝公 / Duke Xiao of Qin"
 type: entity
 tags: [person, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -15,6 +15,8 @@ last_updated: 2026-08-19
 秦孝公 / Duke Xiao of Qin appears in [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] as the [[QinState|秦国]] ruler who gives [[ShangYang|公孙鞅 / 商鞅]] decisive trust before the first major reform push. The episode presents his role as political authorization: without the ruler's backing, Shang Yang's attack on noble privilege, household structure, and inherited status could not become state law.
 
 The source also shows Qin Xiao Gong choosing between incompatible reform theories. [[GanLong|甘龙]] warns that governing through old custom avoids popular alarm, while Shang Yang argues for [[ReformWithoutPopularDeliberation|reform without popular deliberation]] in pursuit of state strength. Qin Xiao Gong decides for Shang Yang and appoints him 左庶长, making the appointment a threshold in [[ShangYangReforms|商鞅变法]].
+
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] shows the political cost of that authorization reaching his own household. When [[YingSi|太子嬴驷]] breaks the new law, the prince cannot be punished directly, so [[ShangYang|公孙鞅 / 商鞅]] punishes the prince's tutors. For Qin Xiao Gong, reform backing now means tolerating a [[HighStatusLawEnforcementSignal|high-status enforcement signal]] that protects legal credibility while injuring court insiders.
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] keeps Qin Xiao Gong as the ruling frame for Shang Yang's second reform round. The episode focuses on [[ShangYang|公孙鞅 / 商鞅]], but the move to [[Xianyang|咸阳]], [[HouseholdSeparationLaw|分居令]], and [[QinAdministrativeStandardization|administrative standardization]] all continue the state project Qin Xiao Gong enabled.
 
@@ -34,8 +36,9 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 - [[QinMugong|秦穆公]], [[JingJian|景监]], and [[PrivateAccessTalentChannel|私人进身通道]] - Zhouji 12 restoration rhetoric and talent-access channel.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer he empowers.
 - [[GanLong|甘龙]] - conservative opponent whose argument Qin Xiao Gong rejects.
-- [[YingSi|太子嬴驷]] - crown prince whose later violation of the new law tests reform authority.
+- [[YingSi|太子嬴驷]], [[GongziQian|公子虔]], and [[GongsunJia|公孙贾]] - crown prince and punished tutor figures whose case tests reform authority.
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - institutional branch enabled by his support.
+- [[HighStatusLawEnforcementSignal]] - prince-lawbreaking enforcement signal under his rule.
 - [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform branch under his ruling frame.
 - [[PollTax|人头税]], [[ZhouHegemonRecognition]], [[GongziShaoguan|公子少官]], and [[Fengze|逢泽]] - Zhouji 18 fiscal and hegemon-recognition branch.
 - [[QinEastwardPressure]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], [[GongziAng|公子卬 / 公子昂]], [[YingSi|嬴驷]], [[GongziQian|公子虔]], and [[WarringStatesReformBacklash]] - Zhouji 22-23 attack-Wei decision, death, succession, and backlash branch.

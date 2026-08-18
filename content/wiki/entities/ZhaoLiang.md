@@ -12,7 +12,7 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]] completes Zhao Liang's argument. He first secures permission for frank speech through the proverb about one direct critic being worth more than many compliant assenters, turning the exchange into a case of [[PowerEtiquetteReading|礼仪化直言]]. Once allowed to speak, he rejects Shang Yang's self-comparison to [[BailiXi|百里奚]].
 
-Zhao Liang's comparison has three layers. Baili Xi is remembered as appointed openly by [[QinMugong|秦穆公]], useful to Qin, modest in personal style, and mourned by ordinary Qin people. Shang Yang, by contrast, is said to have entered through a favorite's channel, ruled harshly over nobles and commoners, and created enemies through punishments such as [[GongziQian|公子虔]]'s suffering, Zhu Huan's death, and Gongsun Jia's face tattoo.
+Zhao Liang's comparison has three layers. Baili Xi is remembered as appointed openly by [[QinMugong|秦穆公]], useful to Qin, modest in personal style, and mourned by ordinary Qin people. Shang Yang, by contrast, is said to have entered through a favorite's channel, ruled harshly over nobles and commoners, and created enemies through punishments such as [[GongziQian|公子虔]]'s suffering, Zhu Huan's death, and [[GongsunJia|公孙贾]]'s face tattoo.
 
 His main warning is not only moral. By contrasting Baili Xi's unguarded travel with Shang Yang's armed-security dependence, Zhao Liang turns "得人者兴，失人者崩" into [[PeopleBasedPoliticalSecurity|民心型政治安全]]. He names Shang Yang's position "危若朝露": while [[QinXiaogong|秦孝公]] lives, the danger is hidden, but once that single shield disappears the stored resentment can collapse into revenge.
 

@@ -2,7 +2,7 @@
 title: "Warring States Reform Backlash / 战国变法反噬"
 type: concept
 tags: [statecraft, reform, pre-qin-history, warring-states, political-economy]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-19
 ---
 
@@ -17,6 +17,8 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] supplies the death-side outcome of the same pattern. Once [[ChuDaoWang|楚悼王]] dies, the ruler protection that had held elite hatred in check disappears, and the attacked interests become an armed faction pursuing [[WuQi|吴起]]. [[ChuSuwang|楚肃王]]'s later purge of more than seventy noble households shows that backlash can also recoil onto the resisting elite when their attack violates ruler-body sanctity. The episode therefore makes Wu Qi a case where successful reform leaves both reformer and opponents trapped inside a high-violence legal-political field.
 
 [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] adds the Qin version through [[ShangYang|公孙鞅 / 商鞅]]. [[ShangYangReforms|商鞅变法]] strengthens [[QinState|秦国]] by reorganizing households, punishment, labor, and rank, but the same package angers nobles and ordinary people. [[YingSi|太子嬴驷]]'s lawbreaking then makes backlash politically explosive because reform enforcement touches the ruler's own heir.
+
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] adds the enforcement scene behind that explosion. Because Ying Si cannot be punished directly, tutor figures tied to [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]] are punished instead. The episode treats the result as effective intimidation and law-credibility building, but the same [[HighStatusLawEnforcementSignal|high-status law-enforcement signal]] creates the named grievances that later make the backlash personal.
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] does not narrate Shang Yang's death yet, but it keeps the danger visible by noting that the Qin-Wei meeting site [[TongWarringStates|同地]] will become the place where he dies twelve years later. The same source also shows the reforms deepening through [[HouseholdSeparationLaw|household separation]] and [[QinAdministrativeStandardization|administrative standardization]], raising the scale of interests touched by reform.
 
@@ -34,6 +36,7 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 - Ruler protection can delay reform backlash without dissolving it; the danger reappears at succession.
 - Backlash can punish both sides when violence against a reformer crosses protected symbols of rulership.
 - Shang Yang's Qin career adds a case where law, surveillance, and military merit strengthen the state while threatening nobles, commoners, and the prince.
+- High-status punishment can make reform enforcement credible while creating named enemies among the ruler's own circle.
 - A later death-site notice can be preserved as foreshadowing without treating the full backlash outcome as already narrated.
 - A reformer's personal safety can depend on ruler protection even when the reform itself has strengthened the state.
 - The same reform career can become a no-safe-exit trap when the reformer lacks independent legitimacy beyond ruler backing.
@@ -44,6 +47,6 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 - [[WarringStatesPeriod|战国时期]] - competitive setting where reform and military power are linked.
 - [[TransitionFitOverMerit]] - adjacent idea showing why high-capability reformers can be politically risky in fragile moments.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - broader move toward harsher elite conflict.
-- [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[YingSi|太子嬴驷]], [[ShangYangReforms]], and [[MilitaryMeritRankSystem]] - Qin reform-backlash branch added by Zhouji 13.
+- [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[YingSi|太子嬴驷]], [[GongziQian|公子虔]], [[GongsunJia|公孙贾]], [[ShangYangReforms]], [[HighStatusLawEnforcementSignal]], and [[MilitaryMeritRankSystem]] - Qin reform-backlash branch added by Zhouji 13.
 - [[TongWarringStates|同地]], [[HouseholdSeparationLaw]], [[QinAdministrativeStandardization]], [[GongziQian|公子虔]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 17 foreshadowing, deeper reform, and Zhouji 23 backlash outcome.
 - [[PowerExitTrap|权力退场困境]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[ZhaoLiang|赵良]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 24-25 no-retreat, social-support, and source-wording extension.

@@ -2,7 +2,7 @@
 title: "Shang Yang / 商鞅"
 type: entity
 tags: [person, philosophy, chinese-history, legalism, political-theory]
-sources: [zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
 last_updated: 2026-08-19
 ---
 
@@ -15,6 +15,10 @@ The same episode makes his move to [[QinState|秦国]] a personnel-access story 
 [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] adds Shang Yang under his 公孙鞅 name as the central reformer of [[QinState|秦国]]. Backed by [[QinXiaogong|秦孝公]], he argues against [[GanLong|甘龙]] that state-strengthening reforms need not begin with popular deliberation or inherited custom. The episode uses [[ShangYangReforms|商鞅变法]] to connect [[ReformWithoutPopularDeliberation|不与民虑始]], [[CollateralPunishmentAndGuiltByAssociation|什伍连坐]], [[MilitaryMeritRankSystem|军功爵制]], and [[XimuLixin|徙木立信]] into one severe state-building package.
 
 The same source makes his danger visible before the later outcome arrives. After more than a year of complaints against the new law, [[YingSi|太子嬴驷]] violates it, forcing Shang Yang to choose whether legal authority can reach the ruler's heir. That makes him a direct case of [[WarringStatesReformBacklash]] rather than only a later Legalist comparison figure.
+
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] resolves that test. The prince is not punished directly, but Shang Yang punishes the prince's tutors, tying [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]] to a visible [[HighStatusLawEnforcementSignal|high-status law-enforcement signal]]. The episode says this produces immediate compliance and later helps explain why his reform success also becomes stored elite vengeance.
+
+The same source also complicates his evaluation through [[SimaGuang|司马光]]. Sima Guang condemns Shang Yang's harshness but credits him with "信," reading [[XimuLixin|徙木立信]] and later enforcement as proof that even Legalist coercion needs believable promises and punishments.
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] continues Shang Yang under the names 公孙鞅 and 魏鞅. Militarily, he attacks [[WeiState|魏国]], pressures [[Anyi|安邑]] and [[Guyang|固阳]], and helps make [[QinEastwardPressure|秦国东进压力]] the reason Wei repairs relations with Zhao and Qi. Institutionally, the source gives him a second reform round: moving the capital to [[Xianyang|咸阳]], enforcing [[HouseholdSeparationLaw|分居令]], and building [[QinAdministrativeStandardization|county, land, and measurement standardization]].
 
@@ -39,8 +43,9 @@ The episode distinguishes them by saying [[ThePrince|《君主论》]] is not si
 ## Connections
 - [[HanFei|Han Fei / 韩非]] - paired Legalist figure in the source.
 - [[GongshuWeiChancellor|公叔痤]], [[LiangHuiWang|魏惠王 / 梁惠王]], [[JingJian|景监]], and [[PrivateAccessTalentChannel|私人进身通道]] - Zhouji 12 pre-Qin recognition failure and access channel.
-- [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - Qin reform actors added by Zhouji 13.
+- [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], [[YingSi|太子嬴驷]], [[GongziQian|公子虔]], and [[GongsunJia|公孙贾]] - Qin reform actors and punished tutor figures added by Zhouji 13.
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - direct reform branch from Zhouji 13.
+- [[HighStatusLawEnforcementSignal]] and [[TallPoppyGovernance]] - Zhouji 13 part 2 enforcement signal and comparative intimidation analogy.
 - [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], [[QinAdministrativeStandardization]], [[Anyi|安邑]], and [[Guyang|固阳]] - Zhouji 17 second-reform and Qin pressure branch.
 - [[PollTax|人头税]] - Zhouji 18 fiscal reform extension.
 - [[GongziAng|公子卬 / 公子昂]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], [[TacticalCredibilityCost|战术信用成本]], [[Shangyu|商於]], [[GongziQian|公子虔]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 22-23 campaign, reward, credibility, and death extension.

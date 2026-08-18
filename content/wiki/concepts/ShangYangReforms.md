@@ -2,7 +2,7 @@
 title: "Shang Yang Reforms / 商鞅变法"
 type: concept
 tags: [statecraft, reform, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ Shang Yang reforms / 商鞅变法 is the reform package [[zizhi-tongjian-zhouji-
 
 The reform's political logic is severe. Shang Yang argues that a ruler seeking great results does not need prior mass deliberation; [[GanLong|甘龙]] objects that custom and existing law carry social stability. The episode therefore treats the reforms as both effective institutional design and a source of danger, because they mobilize [[QinState|秦国]] while attacking older privileges and everyday habits.
 
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] gives the first enforcement payoff. When [[YingSi|太子嬴驷]] violates the new law, Shang Yang cannot punish the heir directly, so the punishment falls on tutor figures later tied to [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]]. The episode reads the result as [[HighStatusLawEnforcementSignal|高位执法信号]]: Qin's people obey because they see that the law has reached the ruler's own circle.
+
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds the second reform round in 350 BCE. The reforms now move from initial coercive credibility and rank design into capital geography, household space, county administration, land boundaries, and standard measures: Qin moves to [[Xianyang|咸阳]], enforces [[HouseholdSeparationLaw|分居令]], and consolidates [[QinAdministrativeStandardization|county, land, and measurement standards]].
 
 [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds a fiscal sequel in 348 BCE. Because the previous land reforms made the older one-tenth tax unsuitable, [[ShangYang|公孙鞅 / 商鞅]] changes the tax system; the host reads this as likely creating [[PollTax|人头税]], bringing Qin's reform logic from fields and households down to the individual person.
@@ -26,7 +28,7 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 
 [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] adds the reception and exit problem around the reforms. The episode argues that Shang Yang's radical route may have been the condition of his success as an outsider, while also making safe retirement nearly impossible. It also shows how later readers could argue over the reforms through [[TextualVariantPoliticalStakes|textual variants]] and Song-era analogies to the [[WangAnshiReforms|王安石变法]].
 
-[[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]] adds [[ZhaoLiang|赵良]]'s anti-eulogy of the reformer. The reforms are now assessed through the people and enemies they produce: [[GongziQian|公子虔]]'s suffering, Zhu Huan's killing, Gongsun Jia's tattooing, common resentment, and Shang Yang's need for guards all become evidence that state strengthening can damage [[PeopleBasedPoliticalSecurity|political security]] even before the final backlash arrives.
+[[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]] adds [[ZhaoLiang|赵良]]'s anti-eulogy of the reformer. The reforms are now assessed through the people and enemies they produce: [[GongziQian|公子虔]]'s suffering, Zhu Huan's killing, [[GongsunJia|Gongsun Jia]]'s tattooing, common resentment, and Shang Yang's need for guards all become evidence that state strengthening can damage [[PeopleBasedPoliticalSecurity|political security]] even before the final backlash arrives.
 
 The same episode keeps the reforms' historical weight visible. The host says Shang Yang reforms became a recurring aspiration, wound, and taboo in later Chinese political thought: effective enough to be continually imagined, but violent enough to remain politically dangerous as a model.
 
@@ -39,6 +41,7 @@ The same episode keeps the reforms' historical weight visible. The host says Sha
 - [[MilitaryMeritRankSystem|军功爵制]] replaces hereditary comfort with battlefield achievement as the status ladder.
 - [[XimuLixin|徙木立信]] shows that credibility can be engineered through a public reward before coercive rules are enforced.
 - [[YingSi|太子嬴驷]]'s lawbreaking turns the reforms into a test of whether law reaches high-status insiders.
+- The prince-law case shows that high-status enforcement can be substituted through tutors while still making the law credible.
 - The second reform round extends state-building into capital location, domestic living arrangements, counties, land allocation, and standardized measures.
 - The fiscal reform extends the same state-building logic into person-based taxation, though the "first poll tax" reading remains source-scoped.
 - The reform package also shapes elite behavior in war: a minister can need battlefield achievement because military merit has more political upside than routine administration or farming.
@@ -48,11 +51,11 @@ The same episode keeps the reforms' historical weight visible. The host says Sha
 - The reform package's later symbolic life is ambivalent: admired for state capacity and feared as a wound or taboo.
 
 ## Connections
-- [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - source actors.
+- [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], [[YingSi|太子嬴驷]], [[GongziQian|公子虔]], and [[GongsunJia|公孙贾]] - source actors and punishment branch.
 - [[QinDiplomaticExclusion|秦国外交排斥]] and [[QinEastwardPressure|秦国东进压力]] - pre-reform pressure context added by Zhouji 11 part 2.
 - [[GongshuWeiChancellor|公叔痤]], [[LiangHuiWang|魏惠王 / 梁惠王]], [[JingJian|景监]], and [[PrivateAccessTalentChannel|私人进身通道]] - Zhouji 12 missed recognition and Qin entry bridge.
 - [[QinState|秦国]] and [[WarringStatesPeriod|战国时期]] - state and competitive setting.
-- [[ReformWithoutPopularDeliberation]], [[LegalistRulerTechnique]], and [[WarringStatesReformBacklash]] - political logic and danger.
+- [[ReformWithoutPopularDeliberation]], [[LegalistRulerTechnique]], [[HighStatusLawEnforcementSignal]], and [[WarringStatesReformBacklash]] - political logic, enforcement signal, and danger.
 - [[CollateralPunishmentAndGuiltByAssociation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - concrete institutional mechanisms.
 - [[Xianyang|咸阳]], [[StrategicCapitalRelocation]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform extension.
 - [[PollTax|人头税]] - Zhouji 18 fiscal extension.

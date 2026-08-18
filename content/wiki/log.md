@@ -8220,6 +8220,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Shang Yang's first Q
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode resolving the Zhouji 13 prince-lawbreaking cliffhanger: Shang Yang punishes the prince's tutors to preserve Qin's legal credibility, Qin becomes orderly and war-ready under harsh enforcement, and Sima Guang praises Shang Yang's "信" while still criticizing his severity. Created pages for Gongsun Jia, High-Status Law-Enforcement Signal, and Tall Poppy Governance; updated overview, index, Shang Yang, Qin Xiao Gong, Ying Si, Gongzi Qian, Qin State, Shang Yang Reforms, Warring States Reform Backlash, Sima Guang, Small Trust Builds Large Trust, Ximu Lixin, Qi Huan Gong, Jin Wen Gong, Wei Wenhou, Han Yihou, Han Zhaohou, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, and older Gongsun Jia mentions. No direct contradiction found; the source extends part 1 and anticipates the later reform-backlash branch.
+
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -8375,6 +8379,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on 362 BCE: Wei defeats
 ## [2026-08-19] ingest | 《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin Xiao Gong's 361 BCE recruitment edict, Qin Mu Gong restoration rhetoric, Gongshu's failed recommendation that Wei should use or kill Shang Yang, and Shang Yang reaching Qin Xiao Gong through Jing Jian before winning trust with rich-state, strong-army proposals. Created Jing Jian and Private Access Talent Channel; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Qin State, Wei State, Qin Xiao Gong, Qin Mu Gong, Liang Hui Wang, Gongshu, Shang Yang, Shang Yang Reforms, Talent Referral Quality, Legalist Ruler Technique, and Warring States Careerist Mobility. No direct contradiction found; the source closes the gap between Zhouji 11's Qin restoration setup and Zhouji 13's reform opening while keeping the raw summary's origin wording source-scoped.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

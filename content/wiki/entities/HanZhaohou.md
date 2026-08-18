@@ -2,11 +2,13 @@
 title: "韩昭侯 / Marquis Zhao of Han"
 type: entity
 tags: [person, ruler, pre-qin, han-state, warring-states]
-sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]
 last_updated: 2026-08-19
 ---
 
 # 韩昭侯 / Marquis Zhao of Han
+
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] adds Han Zhaohou's accession point. The episode records [[HanYihou|韩懿侯]]'s death and says his son Han Zhaohou succeeds, keeping the Han succession line active in the same annalistic horizon as [[ShangYang|公孙鞅 / 商鞅]]'s first reform-enforcement test.
 
 韩昭侯 / Marquis Zhao of Han appears in [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] as the likely [[HanState|韩国]] ruler involved in the 357 BCE Wei-Han meeting. The source treats the notice briefly and inferentially, connecting it to recent land exchange and shared pressure from [[QinState|秦国]].
 
@@ -22,6 +24,7 @@ This page is source-scoped and distinct from [[HanZhao|韩钊]], the modern tran
 
 ## Connections
 - [[HanState|韩国]] - polity he rules in the source frame.
+- [[HanYihou|韩懿侯]] - predecessor and father in the Zhouji 13 part 2 accession notice.
 - [[LiangHuiWang|魏惠王]] and [[WeiState|魏国]] - likely meeting counterpart and state.
 - [[QinState|秦国]], [[QinEastwardPressure]], and [[EarlyWarringStatesInterstateWar]] - strategic background for the meeting.
 - [[ShenBuhai|申不害]], [[MeritBasedRewardPunishment]], and [[LegalistRulerTechnique]] - Zhouji 17 ministerial and reward-discipline branch.

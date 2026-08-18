@@ -21,7 +21,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 - Zhao Liang's core judgment is that Shang Yang does not deserve comparison with Baili Xi because Baili Xi combined achievement, modest conduct, and popular grief after death.
 - Baili Xi's record is presented through eastward action against Zheng, repeated help to Jin rulers, help to Chu, and a public mourning scene in Qin.
 - Shang Yang is criticized for approaching Qin Xiao Gong through a favorite or near attendant and then governing through violent pressure against nobles and commoners.
-- The examples of Gongzi Qian's punishment, Zhu Huan's killing, and Gongsun Jia's facial tattoo mark Shang Yang's rule as enemy-producing, not only strict.
+- The examples of [[GongziQian|Gongzi Qian]]'s punishment, Zhu Huan's killing, and [[GongsunJia|Gongsun Jia]]'s facial tattoo mark Shang Yang's rule as enemy-producing, not only strict.
 - Zhao Liang's security comparison matters: Baili Xi can travel without guards, while Shang Yang will not go out unless heavily protected.
 - The "得人者兴，失人者崩" warning makes popular and elite support a condition of political survival, not only a moral decoration.
 - "危若朝露" names Shang Yang's dependence on Qin Xiao Gong: the crisis already exists, but ruler protection keeps it from falling until succession.

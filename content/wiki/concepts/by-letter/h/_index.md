@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 4742
+wiki_total_pages: 4744
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "HighSpeedRailSystemIntegration"
     title: "High-Speed Rail System Integration"
     url: "/wiki/concepts/highspeedrailsystemintegration/"
+  - key: "HighStatusLawEnforcementSignal"
+    title: "High-Status Law-Enforcement Signal / 高位执法信号"
+    url: "/wiki/concepts/highstatuslawenforcementsignal/"
   - key: "HighThroughputInferenceBatching"
     title: "High-Throughput Inference Batching"
     url: "/wiki/concepts/highthroughputinferencebatching/"
