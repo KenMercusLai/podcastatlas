@@ -7,10 +7,16 @@
           <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
           <div class="page-meta wiki-meta">
             {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
-            {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
+            {{ if ne .Params.type "source" }}
+              {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
+            {{ end }}
           </div>
         </div>
-        {{ with .Section }}<span class="page-kind">{{ . }}</span>{{ end }}
+        {{ if eq .Params.type "source" }}
+          {{ partial "episode-publication-date.html" . }}
+        {{ else }}
+          {{ with .Section }}<span class="page-kind">{{ . }}</span>{{ end }}
+        {{ end }}
       </li>
     {{ end }}
   </ul>

@@ -1,0 +1,10 @@
+{{- $page := . -}}
+{{- $episode := false -}}
+{{- with $page.Params.source_file -}}
+  {{- $sourceName := replaceRE `^.*[\\/]` "" . -}}
+  {{- $episodes := where $page.Site.RegularPages "Section" "episodes" -}}
+  {{- with where $episodes "File.LogicalName" $sourceName -}}
+    {{- $episode = index . 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- return $episode -}}
