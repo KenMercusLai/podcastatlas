@@ -2,11 +2,13 @@
 title: "Data Center Debt Risk"
 type: concept
 tags: [ai, data-centers, finance, infrastructure]
-sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Data Center Debt Risk
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the [[Crusoe]] qualification. The source argues that an AI data-center project can be financeable when it has a long-term customer lease, such as Crusoe's 15-year [[Oracle]] agreement in Abilene, but it still leaves debt risk tied to power delivery, gas turbines, skilled labor, customer durability, and whether another model company would want the capacity if one customer failed.
 
 [[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds the public bond-market absorption layer. [[JulieOsk|Julie Osk]] treats long-term bonds as a plausible match for data centers' long physical lives, but the episode also adds risks from rising rates, repeated issuance, uncertain token demand, [[DataCenterBacklash]], resource constraints, regulation, and capex that can outpace revenue or free cash flow.
 
@@ -45,6 +47,7 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 - Episode 143 adds that financing structure should be monitored as a regime signal: productive assets funded by debt can still transmit losses more severely than productive assets funded by equity.
 - Episode 151 adds that private-credit and project-company structures can make data-center debt harder to see in operating-company balance sheets while still exposing insurers, private funds, and fixed-income buyers.
 - Lease termination rights, chip collateral, and borrower identity matter because they determine who absorbs losses if AI data-center utilization disappoints.
+- Crusoe adds the optimistic project-finance case: customer leases and transferable compute demand can reduce lender risk, but only if the site is powered, built, connected, and useful to future AI workloads.
 
 ## Connections
 - [[AIDataCenterPrivateCreditFinancing]], [[PrivateCreditMarket]], [[XAI|xAI]], [[Meta]], [[ApolloGlobalManagement]], [[BlueOwlCapital]], and [[PIMCO]] - private-credit and project-company extension added by episode 151.
@@ -61,3 +64,4 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 - [[DavidKirsch]] and [[TechBubbleConditions]] - novice-investor and private-credit context added by the later Marketplace Tech episode.
 - [[AICircularInfrastructureFinancing]], [[CoreWeave]], [[AIRevenueLegibility]], and [[AICapexReturnWindow]] - circular demand and commercial-window extension added by What's Next.
 - [[BubbleFinancingStructure]] and [[PrivateCreditTailRisk]] - episode 143's debt-versus-equity and private-credit escalation branch.
+- [[Crusoe]], [[Oracle]], [[EnergyFirstNeocloud]], [[DataCenterPowerBottleneck]], and [[AIInfrastructureDebtFinancing]] - Abilene project-finance branch added by All-In.

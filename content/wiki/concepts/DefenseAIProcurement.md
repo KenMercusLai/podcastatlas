@@ -2,11 +2,13 @@
 title: "Defense AI Procurement"
 type: concept
 tags: [ai, defense, procurement, governance]
-sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Defense AI Procurement
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the autonomous-aviation version through [[ProjectNix|Project Nix]]. [[ArcherAviation|Archer Aviation]] and [[Anduril]] are described as building an autonomous collaborative attack helicopter drone, making procurement about airframes, autonomy, pilot-risk substitution, and cost per military effect rather than only frontier model access.
 
 Defense AI procurement is the buying, deployment, and governance of AI systems for military and national-security work. [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds the concept through the reported [[Anthropic]] and [[USDepartmentOfDefense]] dispute over [[Claude]] access.
 
@@ -27,6 +29,7 @@ The episode shows that defense AI procurement is not only a contract-size questi
 - Supply-chain-risk treatment can turn a model-use dispute into a contractor-removal, integration-rewrite, and compliance problem.
 - Defense AI procurement can also involve physical systems such as drones, wall-climbing robots, and structural models when AI is embedded in maintenance and readiness workflows.
 - Defense AI procurement can become part of [[TechGovernmentAccommodation]] when companies see government alignment as useful for access, legitimacy, and military or public-sector contracts.
+- Project Nix adds a pilot-risk and airframe-cost version: defense AI procurement can substitute autonomous aircraft for expensive crewed aviation capabilities.
 
 ## Connections
 - [[Anthropic]], [[Claude]], [[USDepartmentOfDefense]], [[PeteHegseth]], and [[DarioAmodei]] - source case.
@@ -37,3 +40,4 @@ The episode shows that defense AI procurement is not only a contract-size questi
 - [[XAI|xAI]], [[OpenAI]], and [[Google]] - alternative providers mentioned in the source.
 - [[GeckoRobotics]], [[USNavy|U.S. Navy]], [[DefenseRoboticsMaintenance]], and [[DefenseTechStartupProcurement]] - robotics and startup-procurement extension added by the March 2026 Marketplace Tech Bytes episode.
 - [[SuyashPasi]], [[Palantir]], [[DualUseDefenseTechnology]], [[TechGovernmentAccommodation]], and [[DonaldTrump]] - political-accommodation and dual-use military-tech branch added by Marketplace Tech.
+- [[ArcherAviation|Archer Aviation]], [[Anduril]], [[ProjectNix]], and [[EVTOLCertificationRamp]] - autonomous defense-aviation branch added by All-In.

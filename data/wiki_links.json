@@ -1539,6 +1539,10 @@
     "title": "AI Demo Deployment Gap",
     "url": "/wiki/concepts/aidemodeploymentgap/"
   },
+  "AIDetectionAndResponse": {
+    "title": "AI Detection And Response",
+    "url": "/wiki/concepts/aidetectionandresponse/"
+  },
   "AIDetectorBias": {
     "title": "AI Detector Bias",
     "url": "/wiki/concepts/aidetectorbias/"
@@ -2622,6 +2626,10 @@
   "AdamGoldstein": {
     "title": "Adam Goldstein",
     "url": "/wiki/entities/adamgoldstein/"
+  },
+  "AdamGoldsteinArcher": {
+    "title": "Adam Goldstein (Archer Aviation)",
+    "url": "/wiki/entities/adamgoldsteinarcher/"
   },
   "AdamRaine": {
     "title": "Adam Raine",
@@ -4366,6 +4374,10 @@
   "ArcLanguage": {
     "title": "Arc",
     "url": "/wiki/entities/arclanguage/"
+  },
+  "ArcherAviation": {
+    "title": "Archer Aviation",
+    "url": "/wiki/entities/archeraviation/"
   },
   "ArcheryFlow": {
     "title": "Archery Flow / 射箭专注体验",
@@ -8603,6 +8615,10 @@
     "title": "Circadian Rhythm Experimentation",
     "url": "/wiki/concepts/circadianrhythmexperimentation/"
   },
+  "Circle": {
+    "title": "Circle",
+    "url": "/wiki/entities/circle/"
+  },
   "CircleOfCompetence": {
     "title": "Circle Of Competence",
     "url": "/wiki/concepts/circleofcompetence/"
@@ -10087,6 +10103,10 @@
     "title": "Crosstalk Literary Rhythm",
     "url": "/wiki/concepts/crosstalkliteraryrhythm/"
   },
+  "CrowdStrike": {
+    "title": "CrowdStrike",
+    "url": "/wiki/entities/crowdstrike/"
+  },
   "CrowdsourcedAcademicAuditing": {
     "title": "Crowdsourced Academic Auditing",
     "url": "/wiki/concepts/crowdsourcedacademicauditing/"
@@ -10098,6 +10118,10 @@
   "Cruise": {
     "title": "Cruise",
     "url": "/wiki/entities/cruise/"
+  },
+  "Crusoe": {
+    "title": "Crusoe",
+    "url": "/wiki/entities/crusoe/"
   },
   "CryptidThemeLegibility": {
     "title": "Cryptid Theme Legibility",
@@ -12259,6 +12283,10 @@
     "title": "EV Product Line Clarity / 电动车产品线清晰度",
     "url": "/wiki/concepts/evproductlineclarity/"
   },
+  "EVTOLCertificationRamp": {
+    "title": "eVTOL Certification Ramp",
+    "url": "/wiki/concepts/evtolcertificationramp/"
+  },
   "EVTaxCreditCliff": {
     "title": "EV Tax Credit Cliff",
     "url": "/wiki/concepts/evtaxcreditcliff/"
@@ -12914,6 +12942,10 @@
   "EnergyDrinkYouthRegulation": {
     "title": "Energy Drink Youth Regulation",
     "url": "/wiki/concepts/energydrinkyouthregulation/"
+  },
+  "EnergyFirstNeocloud": {
+    "title": "Energy-First Neocloud",
+    "url": "/wiki/concepts/energyfirstneocloud/"
   },
   "EnergyTradingScaleAdvantage": {
     "title": "Energy Trading Scale Advantage",
@@ -15479,6 +15511,10 @@
     "title": "GECAS",
     "url": "/wiki/entities/gecas/"
   },
+  "GENIUSAct": {
+    "title": "GENIUS Act",
+    "url": "/wiki/entities/geniusact/"
+  },
   "GEOGroup": {
     "title": "GEO Group",
     "url": "/wiki/entities/geogroup/"
@@ -16002,6 +16038,10 @@
   "GeorgeHalas": {
     "title": "George Halas",
     "url": "/wiki/entities/georgehalas/"
+  },
+  "GeorgeKurtz": {
+    "title": "George Kurtz",
+    "url": "/wiki/entities/georgekurtz/"
   },
   "GeorgeLucas": {
     "title": "George Lucas",
@@ -30575,6 +30615,10 @@
     "title": "Project Glasswing",
     "url": "/wiki/entities/projectglasswing/"
   },
+  "ProjectNix": {
+    "title": "Project Nix",
+    "url": "/wiki/entities/projectnix/"
+  },
   "ProjectOneForum": {
     "title": "Project One论坛",
     "url": "/wiki/entities/projectoneforum/"
@@ -30606,6 +30650,10 @@
   "PromptAsIntentTransmission": {
     "title": "Prompt As Intent Transmission",
     "url": "/wiki/concepts/promptasintenttransmission/"
+  },
+  "PromptOnlyAutonomousMalware": {
+    "title": "Prompt-Only Autonomous Malware",
+    "url": "/wiki/concepts/promptonlyautonomousmalware/"
   },
   "ProofOfLifeDiplomacy": {
     "title": "Proof of Life Diplomacy",
@@ -33838,6 +33886,10 @@
   "SequoiaCapital": {
     "title": "Sequoia Capital",
     "url": "/wiki/entities/sequoiacapital/"
+  },
+  "SeraphicSecurity": {
+    "title": "Seraphic Security",
+    "url": "/wiki/entities/seraphicsecurity/"
   },
   "SerenaAndLily": {
     "title": "Serena & Lily",
@@ -38659,6 +38711,10 @@
     "title": "USD1",
     "url": "/wiki/entities/usd1/"
   },
+  "USDC": {
+    "title": "USDC",
+    "url": "/wiki/entities/usdc/"
+  },
   "USDepartmentOfCommerce": {
     "title": "U.S. Department of Commerce",
     "url": "/wiki/entities/usdepartmentofcommerce/"
@@ -42706,6 +42762,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050": {
     "title": "Supercharging a New FDA: Marty Makary on Science, Power & Patients",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920": {
+    "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360": {
     "title": "Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex",

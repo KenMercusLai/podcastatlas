@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-18] ingest | The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026
+
+Added source page for an All-In Davos CEO sequence on regulated stablecoins, AI cyber defense, eVTOL certification, defense aviation, and energy-first AI infrastructure. Created pages for Circle, USDC, GENIUS Act, CrowdStrike, George Kurtz, Seraphic Security, Archer Aviation, Adam Goldstein (Archer Aviation), Project Nix, Crusoe, Prompt-Only Autonomous Malware, AI Detection And Response, eVTOL Certification Ramp, and Energy-First Neocloud; updated overview, index, All-In, the hosts, Stablecoins, AI cyber/security concepts, eVTOL/defense pages, neocloud/data-center power and financing pages, Oracle, CoreWeave, Redwood Materials, Stargate AI Infrastructure, and Nvidia Blackwell/Vera Rubin pages. No direct contradiction found; the source mainly qualifies existing optimism by showing that regulation, trust, certification, identity, power, labor, and financing are the bottlenecks behind 2026 technology deployment.
+
 ## [2026-08-18] ingest | EP 15: Unveiling Data Scientist's Role in the Generative AI Era
 
 Added source page for a Data Science With Sam episode with Marina of Bellups Consulting on the data scientist role in the generative AI era. Created pages for Marina, Bellups Consulting, Data Scientist Generative AI Fluency, and Generative AI Use-Case Triage; updated overview, index, Data Science With Sam, Sam, Data Scientist MLOps Fluency, Prompt As Intent Transmission, Domain Expert Alignment, AI Worker Literacy, AI Verification, AI Model Bias Governance, and ChatGPT. No direct contradiction found; the source extends the wiki's production-ML and AI-augmentation branch by arguing that data scientists still need ML fundamentals and domain judgment while adding prompt, API, prototype, resource, verification, bias, privacy, and use-case-triage responsibilities.
@@ -7978,6 +7982,10 @@ Ran health before lint; health scanned 11,329 wiki pages and found no empty/stub
 ## [2026-08-18] ingest | EP 28: The AI Revolution: Redefining Healthcare Financing
 
 Added source page for a Data Science With Sam episode with Sharmin of Livora on independent healthcare clinic financing, AI-enabled loan document analysis, lender matching, non-bank healthcare lending, borrower readiness, women-owned clinic capital gaps, and consent-based loan data sharing. Created pages for Sharmin (Data Science With Sam), Livora, Independent Healthcare Clinic Financing, Data-Driven Clinic Underwriting, Clinic Lender Matching, AI-Enabled Loan Document Analysis, Borrower Readiness Financing, Women-Owned Clinic Capital Gap, Consent-Based Loan Data Sharing, and Non-Bank Healthcare Lending; updated overview, index, Data Science With Sam, Sam (Data Science With Sam), AI Data Readiness, Direct Lending, Healthcare AI Infrastructure, HIPAA-Constrained Medical AI, and AI Governance And Compliance. No direct contradiction found; the source is kept founder-perspective and source-attributed for claims about Livora's security, lender matching, funding speed, and borrower outcomes.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

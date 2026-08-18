@@ -2,11 +2,13 @@
 title: "Agent Identity And Authentication"
 type: concept
 tags: [agents, safety, identity, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
 last_updated: 2026-08-18
 ---
 
 # Agent Identity And Authentication
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the cybersecurity version through [[CrowdStrike]]. [[GeorgeKurtz|George Kurtz]] describes identity-token theft, help-desk social engineering, and AI agents bypassing guardrails by asking other agents for access, then argues that workers may eventually command many agents.
 
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds [[Agent365|Agent 365]] as the Microsoft enterprise-identity version. [[SatyaNadella|Satya Nadella]] says agents need identities so organizations can distinguish human delegation, separate agent authority, permissions, provenance, and traceability.
 
@@ -30,6 +32,7 @@ Agent identity and authentication is the infrastructure problem of attributing a
 - AI employees need service-visible identity that distinguishes the agent, the company, the supervising human, and the allowed authority for a given action.
 - Payment agents need identity records that show whose mandate the agent followed, what was authorized, and which actor is responsible when the result is wrong or disputed.
 - Enterprise agents need provenance records that distinguish a human delegating under their own identity from an agent acting with its own standing identity.
+- CrowdStrike adds the security-failure version: agent identity must prevent delegated AI systems from laundering authority through other agents, browser sessions, or help-desk workflows.
 
 ## Connections
 - [[ClaudeCode]] and [[Anthropic]] — product and company context for the real-name discussion.
@@ -42,3 +45,4 @@ Agent identity and authentication is the infrastructure problem of attributing a
 - [[Kuse]], [[Junior]], [[OpenClawForTeams]], and [[AgentPermissionBoundaries]] — work-account and phone-identity case added by the Yuhao source.
 - [[Clink]], [[Visa]], [[AgentPaymentInfrastructure]], and [[AgentSpendControls]] — payment attribution and mandate branch added by What's Next S10E22.
 - [[Agent365|Agent 365]], [[Microsoft]], and [[EnterpriseAgentGovernance]] - enterprise identity and provenance branch added by Nadella's All-In interview.
+- [[CrowdStrike]], [[AIDetectionAndResponse]], [[SeraphicSecurity]], and [[CandidateIdentityFraud]] - cybersecurity and hiring-identity branch added by All-In.

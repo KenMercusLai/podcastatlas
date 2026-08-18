@@ -2,11 +2,13 @@
 title: "Stablecoins"
 type: concept
 tags: [crypto, finance, money, compliance]
-sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, how-much-money-president-trump-and-his-family-have-made, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, how-much-money-president-trump-and-his-family-have-made, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+last_updated: 2026-08-18
 ---
 
 # Stablecoins
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the regulated-issuer version through [[Circle]] and [[USDC]]. Circle's CEO frames stablecoins as internet-native programmable dollars and argues that reserves, auditors, regulators, banks, and the [[GENIUSAct|GENIUS Act]] can make open blockchain rails acceptable to mainstream finance.
 
 Stablecoins are discussed in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] as crypto-market infrastructure with real payment demand and macro-financial implications. The episode argues that stablecoins can extend dollar reach and increase demand for U.S. Treasuries, while also raising concerns about private companies taking on quasi-monetary roles. [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] adds the [[VirtualAssetAMLRisk]] angle: dollar-like crypto instruments such as USDT may be more useful in some illicit transfer chains than volatile assets because the transfer goal is often source disguise rather than investment return. [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] adds a political-brand version through [[WorldLibertyFinancial]] and USD1, where a stablecoin narrative becomes part of [[PoliticalInfluenceMonetization]] and [[PaperWealthVsCashValue]].
 
@@ -32,6 +34,9 @@ Stablecoins are discussed in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang
 - Stablecoin policy support can coexist with market fragility and skilled-labor uncertainty; it should not be read as a guarantee that the whole crypto ecosystem is politically protected.
 - Agent payments may be a machine-speed use case for stablecoins, but irreversible transfer semantics create a stronger need for escrow, mediation, or explicit [[AgentSpendControls]].
 - Wang Tianfan's source adds stablecoins as a concrete case where blockchain finance may become an important technology wave even after speculative crypto-infrastructure cycles cool.
+- Circle adds the regulated-issuer claim: stablecoin adoption depends on public-network openness and institutional trust working together.
+- The GENIUS Act interest restriction means stablecoin distribution may shift toward platform rewards and loyalty incentives rather than direct issuer yield.
+- USDC use cases in the All-In source broaden the concept from trading liquidity into invoices, refunds, remittances, prediction markets, and software-based credit.
 
 ## Connections
 - [[CryptocurrencyMarketStructure]] — broader crypto context where stablecoins operate.
@@ -46,3 +51,4 @@ Stablecoins are discussed in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang
 - [[DonaldTrump]], [[CryptoLeverageLiquidityCascade]], and [[H1BVisaCoalitionFaultLine]] - pro-crypto policy versus market/labor fragility branch added by 不熄灯 E02.
 - [[AgentPaymentInfrastructure]], [[AgentSpendControls]], [[Clink]], [[Stripe]], [[Coinbase]], [[Visa]], and [[Mastercard]] — agent-payment comparison added by What's Next S10E22.
 - [[WangTianfan]], [[BlockchainFinancialInnovation]], and [[AIInfraCryptoAnalogy]] — AI-era investment and crypto-finance comparison added by the Wang Tianfan source.
+- [[Circle]], [[USDC]], and [[GENIUSAct|GENIUS Act]] — regulated stablecoin issuer branch added by All-In.

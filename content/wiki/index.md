@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026](sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920.md) — All-In Davos CEO sequence on Circle/USDC stablecoins, CrowdStrike AI cyber defense, Archer eVTOL certification and defense aviation, and Crusoe energy-first AI infrastructure.
 - [Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition](sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955.md) — All-In discussion with David Sacks and Michael Kratsios, moderated by Maria Bartiromo, on U.S. AI strategy across infrastructure, power, federal/state regulation, AI for science, China competition, exports, and political-bias risk.
 - [EP 28: The AI Revolution: Redefining Healthcare Financing](sources/ep-28-the-ai-revolution-redefining-healthcare-financing.md) — Data Science With Sam episode with Sharmin of Livora on independent healthcare clinic financing, AI-enabled loan document analysis, lender matching, non-bank lending, women-owned clinic capital gaps, borrower readiness, and consent-based data sharing.
 - [Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex](sources/all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360.md) — All-In interview with Sarah B. Rogers on State Department public diplomacy, UK/EU platform regulation, cross-border speech enforcement, disinformation NGOs, trusted flaggers, debanking, AI deepfakes, Community Notes, and Grok.
@@ -997,6 +998,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Circle](entities/Circle.md) — Stablecoin issuer behind USDC, presented by All-In as a regulated bridge between open blockchain networks and mainstream financial trust.
+- [USDC](entities/USDC.md) — Circle stablecoin network discussed as regulated digital-dollar infrastructure for payments, remittances, prediction markets, and on-chain credit.
+- [GENIUS Act](entities/GENIUSAct.md) — Stablecoin law context in the All-In source, limiting direct issuer interest while allowing platform rewards and compliance-based competition.
+- [CrowdStrike](entities/CrowdStrike.md) — Cybersecurity company used by George Kurtz to frame AI-compressed attacks, fake employees, browser security, and AI detection and response.
+- [George Kurtz](entities/GeorgeKurtz.md) — CrowdStrike CEO explaining AI-enabled cyber offense, autonomous malware, fake employee risk, and agent-era defense needs.
+- [Seraphic Security](entities/SeraphicSecurity.md) — Browser-layer security company acquired by CrowdStrike in the All-In source's AI detection and response branch.
+- [Archer Aviation](entities/ArcherAviation.md) — eVTOL company whose All-In interview centers on certification, early city launches, LA 2028 ambitions, safety, autonomy, and defense aviation.
+- [Adam Goldstein (Archer Aviation)](entities/AdamGoldsteinArcher.md) — Archer Aviation CEO in the All-In source, disambiguated from the existing Hipmunk/Reddit-context Adam Goldstein page.
+- [Project Nix](entities/ProjectNix.md) — Archer-Anduril autonomous collaborative attack helicopter drone project discussed as a lower-cost, no-pilot-risk defense aviation concept.
+- [Crusoe](entities/Crusoe.md) — AI cloud and data-center company presented as an energy-first neocloud built around power access, construction, batteries, leases, and financing.
 - [Michael Kratsios](entities/MichaelKratsios.md) — Policy voice in the All-In AI strategy episode explaining innovation, infrastructure, export strategy, and Genesis Mission scientific-data work.
 - [Maria Bartiromo](entities/MariaBartiromo.md) — Moderator of the All-In AI strategy episode with David Sacks and Michael Kratsios.
 - [U.S. Department of Energy](entities/USDepartmentOfEnergy.md) — Department whose national-lab scientific data is framed through the Genesis Mission as an AI-for-science asset.
@@ -6755,6 +6766,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Prompt-Only Autonomous Malware](concepts/PromptOnlyAutonomousMalware.md) — CrowdStrike threat pattern where malware interacts with an LLM and varies its fingerprint across runs.
+- [AI Detection And Response](concepts/AIDetectionAndResponse.md) — CrowdStrike category for defending AI-enabled workplaces across agents, browsers, identities, sessions, and delegated authority.
+- [eVTOL Certification Ramp](concepts/EVTOLCertificationRamp.md) — Staged commercialization path where electric air taxis must earn certification, public trust, safety proof, and air-traffic readiness.
+- [Energy-First Neocloud](concepts/EnergyFirstNeocloud.md) — Crusoe's AI cloud thesis that abundant power, onsite generation, batteries, construction, and customer leases become core infrastructure strategy.
 - [American AI Stack Strategy](concepts/AmericanAIStackStrategy.md) — U.S. AI leadership frame linking models, chips, semiconductor equipment, data centers, power, regulation, exports, and global developer adoption.
 - [Permissionless AI Innovation](concepts/PermissionlessAIInnovation.md) — Pro-innovation regulatory frame arguing that founders should not need fragmented state or federal permission before building AI companies.
 - [Political Bias In AI Procurement](concepts/PoliticalBiasInAIProcurement.md) — Risk that government use of politically biased AI systems turns answer-shaping into state-backed information infrastructure.

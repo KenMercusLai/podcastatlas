@@ -2,11 +2,13 @@
 title: "Data Center Onsite Power"
 type: concept
 tags: [ai, data-centers, energy, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Data Center Onsite Power
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds a full-stack onsite-power case through [[Crusoe]]. The source's Abilene project combines a 1.2 gigawatt substation, 350 megawatts of onsite gas generation, battery smoothing for GPU-cluster fluctuations, and future interest in hydro, geothermal, and small modular reactors.
 
 [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the behind-the-meter policy version. [[DavidSacks|David Sacks]] argues that if data centers can build their own power generation, they can add net supply and spread fixed grid costs rather than simply competing with households for existing electricity.
 
@@ -29,6 +31,7 @@ The source also changes [[DataCenterPhysicalResilience]]. Backup power equipment
 - Onsite power turns the energy bottleneck into a mixed industrial, fuel, regulatory, reliability, and climate problem.
 - Fusion onsite power would still be industrial-scale infrastructure, not a residential appliance; it would require buildings, substations, safety controls, and power-market integration.
 - The All-In source adds behind-the-meter generation as a national AI competitiveness tool, but its ratepayer claim depends on projects creating net capacity instead of shifting costs or emissions elsewhere.
+- Crusoe adds that onsite power is also a financing and supply-chain problem: gas turbines, battery systems, substations, skilled labor, and long-term customer leases all shape whether a site can operate.
 
 ## Connections
 - [[Caterpillar]] - central company case in the source.
@@ -41,3 +44,4 @@ The source also changes [[DataCenterPhysicalResilience]]. Backup power equipment
 - [[AIMetabolicInfrastructure]] and [[DataCenterBacklash]] - adjacent resource, emissions, and public-permission risks.
 - [[Helion]], [[CommercialFusionPower]], and [[Nucor]] - future large-site clean-power route added by The Social Radars.
 - [[AmericanAIStackStrategy]], [[DataCenterCostShifting]], and [[DataCenterPowerBottleneck]] - behind-the-meter AI policy branch added by All-In.
+- [[Crusoe]], [[EnergyFirstNeocloud]], [[AIInfrastructureDebtFinancing]], [[SecondLifeEVBatteryStorage]], and [[RedwoodMaterials]] - energy-first neocloud branch added by the January 25 All-In episode.

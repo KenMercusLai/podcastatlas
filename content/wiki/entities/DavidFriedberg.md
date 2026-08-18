@@ -2,11 +2,13 @@
 title: "David Friedberg"
 type: entity
 tags: [person, entrepreneur, podcast-host]
-sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # David Friedberg
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds Friedberg in the [[AllIn|All-In]] host context for the Davos CEO sequence. The episode does not isolate a Friedberg-specific claim, but it extends his All-In page into [[Stablecoins]], [[AIDetectionAndResponse]], [[EVTOLCertificationRamp]], and [[EnergyFirstNeocloud]].
 
 [[all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]] adds Friedberg as the interviewer for [[MartyMakary|Marty Makary]] at the [[JPMorganHealthcareConference|JP Morgan Healthcare Conference]]. His questions push the conversation across U.S.-China biotech competition, clinical-trial speed, [[GLP1Agonists|GLP-1 drugs]], vaccines, pharma advertising, AI health tools, alternative proteins, and food-system failure.
 
@@ -18,6 +20,7 @@ David Friedberg appears in [[all-in-with-chamath-jason-sacks-friedberg-why-ai-wi
 
 ## Connections
 - [[AllIn|All-In]], [[ChamathPalihapitiya|Chamath Palihapitiya]], [[JasonCalacanis|Jason Calacanis]], and [[DavidSacks|David Sacks]] - show context.
+- [[Circle]], [[CrowdStrike]], [[ArcherAviation|Archer Aviation]], and [[Crusoe]] - Davos CEO interview branches added by the January 25 episode.
 - [[MartyMakary|Marty Makary]], [[FoodAndDrugAdministration|FDA]], [[VaccineScheduleTrustRebuilding]], and [[RootCausePublicHealthResearch]] - Makary interview branches.
 - [[HowardLutnick|Howard Lutnick]], [[TradeDealCapitalStructure]], and [[TaxpayerReturnIndustrialPolicy]] - policy-interview context added by the Lutnick source.
 - [[BusinessLedAITransformation]], [[PhysicalAI]], and [[TransitionalAIHardware]] - main episode branches.

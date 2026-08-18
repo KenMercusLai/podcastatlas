@@ -2,11 +2,13 @@
 title: "AI Cyber-Defense Utility"
 type: concept
 tags: [ai, cybersecurity, governance, public-good]
-sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs]
+last_updated: 2026-08-18
 ---
 
 # AI Cyber-Defense Utility
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the commercial-defense version through [[CrowdStrike]]. [[GeorgeKurtz|George Kurtz]] argues that defenders need AI models trained on large attack datasets because attackers now use AI to compress timelines, vary malware, generate fake identities, and exploit browser or help-desk workflows.
 
 [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds a guardrail-boundary version. [[WangTiezhen|王铁镇]] argues that closed frontier models can refuse or restrict security analysis in ways that disadvantage defenders, so the safety question should include whether qualified users can audit, reproduce, and use models for incident response under transparent rules.
 
@@ -29,6 +31,7 @@ The idea is not that offensive capability disappears. The episode presents the s
 - The offensive-misuse mirror means defensive AI access needs monitoring, scope limits, and incident response rather than only broad availability.
 - Guardrails and provider policy can slow defensive work if they are not matched to incident-response context.
 - Auditability and reproducibility can be defensive capabilities when security teams need to understand why a model behaved a certain way.
+- Commercial defenders may need AI-native detection and response even when the model itself is not public-good infrastructure, because attack timelines and identity surfaces are changing inside normal enterprises.
 
 ## Connections
 - [[JackClark]], [[Anthropic]], and [[Claude]] - source speaker, company, and model context.
@@ -40,3 +43,4 @@ The idea is not that offensive capability disappears. The episode presents the s
 - [[FrontierModelCyberMisuse]], [[AIModelSandboxEscape]], and [[OpenAI]] - July 2026 Marketplace Tech cyber-misuse and evaluation-sandbox branch.
 - [[HuggingFace]], [[ChineseOpenWeightAIStrategy]], and [[OpenSourceAIModels]] - open-model defensive utility branch added by Marketplace Tech.
 - [[OpenModelSafetyGovernance]], [[ModelSovereignty]], and [[AIModelSandboxEscape]] - E246's closed-versus-open safety-governance extension.
+- [[CrowdStrike]], [[GeorgeKurtz|George Kurtz]], [[AIDetectionAndResponse]], [[PromptOnlyAutonomousMalware]], and [[CandidateIdentityFraud]] - enterprise defense branch added by All-In.

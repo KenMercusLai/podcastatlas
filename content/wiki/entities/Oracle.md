@@ -2,11 +2,13 @@
 title: "Oracle"
 type: entity
 tags: [company, cloud, infrastructure, ai]
-sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-08-18
 ---
 
 # Oracle
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds Oracle as the long-term customer lease behind [[Crusoe]]'s Abilene project. Crusoe's CEO says the 15-year Oracle agreement helped unlock construction debt, making Oracle a counterparty in [[AIInfrastructureDebtFinancing]] and [[DataCenterDebtRisk]] rather than only a cloud provider building its own capacity.
 
 [[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds Oracle as the acquisition context behind the [[Toast]] founding team. [[AmanNarang]], [[SteveFredette]], and [[JohnGraham]] had worked at [[Endeca]], and Oracle's acquisition of Endeca gave the team enough financial room to explore local-commerce and restaurant software ideas before Toast's [[FounderIdeaPivot]].
 
@@ -38,3 +40,4 @@ In the wiki, Oracle's main relevance from this source is not a company-specific 
 - [[LarryEllison]], [[EnterpriseDatabaseLockIn]], [[StargateAIInfrastructure]], and [[PoliticalRegulatoryLeverage]] - origin, lock-in, and political-infrastructure branch added by 商业就是这样.
 - [[BubbleFinancingStructure]], [[AIInfrastructureDebtFinancing]], and [[PrivateCreditTailRisk]] - episode 143's debt-financing warning around AI infrastructure.
 - [[Endeca]], [[AmanNarang]], [[SteveFredette]], [[JohnGraham]], and [[Toast]] - acquisition-to-founder-team branch added by How I Built This.
+- [[Crusoe]], [[EnergyFirstNeocloud]], [[DataCenterPowerBottleneck]], and [[DataCenterOnsitePower]] - Abilene lease and project-finance branch added by All-In.

@@ -2,11 +2,13 @@
 title: "AI Infrastructure Debt Financing"
 type: concept
 tags: [ai, infrastructure, finance, debt]
-sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # AI Infrastructure Debt Financing
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the [[Crusoe]] project-finance version. Crusoe's CEO says large AI data-center projects require project equity and debt, and that a 15-year [[Oracle]] lease in Abilene helped unlock construction debt by giving lenders a durable customer contract.
 
 [[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds the sector-wide corporate-bond version. [[JulieOsk|Julie Osk]] says [[Amazon]], [[Alphabet]], [[Meta]], [[Oracle]], [[Nvidia]], and [[SpaceX]] are using bonds as AI data-center capex rises beyond older free-cash-flow norms. The source makes bond-market absorption, interest rates, long-lived data-center assets, and repeated issuer supply part of the concept, not just whether one borrower has a weak or strong balance sheet.
 
@@ -31,6 +33,7 @@ The concept complements [[DataCenterDebtRisk]]. Debt can signal fragility when a
 - Episode 143 adds that the move from equity/cash-flow financing toward debt financing is a warning sign because it can make an AI bubble slower to clear and more financially contagious.
 - Episode 151 adds that project-company and lease structures can keep some AI infrastructure debt away from the operating company's headline balance sheet while moving risk to private-credit and fixed-income investors.
 - Private-credit-funded AI data centers should be evaluated through customer lease durability, chip depreciation, utilization, power availability, and refinancing assumptions, not only headline AI demand.
+- Crusoe adds a lender-underwriting version: long-term compute leases can support construction debt, but only if the power, labor, equipment, and customer-demand assumptions remain credible.
 
 ## Connections
 - [[AIDataCenterPrivateCreditFinancing]], [[PrivateCreditMarket]], [[XAI|xAI]], [[Meta]], [[ApolloGlobalManagement]], [[BlueOwlCapital]], and [[PIMCO]] - episode 151's private-credit and project-finance extension.
@@ -41,3 +44,4 @@ The concept complements [[DataCenterDebtRisk]]. Debt can signal fragility when a
 - [[JewelBurkeSolomon]] and [[MarketplaceTech]] - commentator and source context.
 - [[DavidKirsch]], [[TechBubbleConditions]], and [[DataCenterDebtRisk]] - private-credit and novice-investor extension added by the later Marketplace Tech episode.
 - [[BubbleFinancingStructure]], [[PrivateCreditTailRisk]], and [[Oracle]] - episode 143's financing-mix and escalation-risk extension.
+- [[Crusoe]], [[EnergyFirstNeocloud]], [[DataCenterPowerBottleneck]], and [[DataCenterOnsitePower]] - project-finance and power-development branch added by All-In.

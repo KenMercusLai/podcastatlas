@@ -2,11 +2,13 @@
 title: "Neo Cloud"
 type: concept
 tags: [ai, cloud, infrastructure, gpu]
-sources: [jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]
+last_updated: 2026-08-18
 ---
 
 # Neo Cloud
+
+[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds [[Crusoe]] as an [[EnergyFirstNeocloud|energy-first neocloud]] case. The source places Crusoe among early neoclouds with [[CoreWeave]], but makes abundant power, data-center construction, gas turbines, batteries, and customer leases the differentiating layer.
 
 [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds [[LeptonAI|Lepton AI]] as a founder-operator view of the neocloud category. [[JiaYangqing|Jia Yangqing]] distinguishes AI cloud from traditional cloud by the need for tightly connected [[GPU|GPU]] capacity, scheduling, model-serving layers, and hardware-software fit.
 
@@ -22,9 +24,11 @@ The concept belongs under [[MaaSInfrastructure]] because customers are not only 
 - K8s cluster management, model services, and kernel optimization can turn raw hardware into a more defensible product.
 - Neoclouds still face [[DataCenterPowerBottleneck|land and power]], supply-chain, and SLA constraints.
 - Strong open weights can let neoclouds sell model serving and optimization without first building a proprietary frontier model.
+- Crusoe adds that the category can compete on energy development and project execution, not only GPU scheduling or model hosting.
 
 ## Connections
 - [[GMICloud]], [[AlexGMICloud|Alex]], and [[GPUCloudOperations]] - source case and operating requirements.
 - [[Nvidia]], [[GPU]], and [[AIInfrastructureFullStackMoat]] - hardware and ecosystem context.
 - [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[StrategicAIInfrastructureDependence]] - platform and dependence frame.
 - [[KimiK3]], [[OpenWeightCommercialLicensing]], [[ClosedModelAPIMoatPressure]], and [[AgentInferenceWorkload]] - open-model serving branch added by E246.
+- [[Crusoe]], [[EnergyFirstNeocloud]], [[CoreWeave]], [[DataCenterPowerBottleneck]], and [[AIInfrastructureDebtFinancing]] - energy-first neocloud branch added by All-In.
