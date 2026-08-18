@@ -3,10 +3,12 @@ title: "Business-Led AI Transformation"
 type: concept
 tags: [ai, organizations, transformation]
 sources: [tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, 11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1, e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1]
-last_updated: 2026-08-11
+last_updated: 2026-08-18
 ---
 
 # Business-Led AI Transformation
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds a CEO/CFO/CIO version through [[BobSternfels|Bob Sternfels]] and [[HemantTaneja|Hemant Taneja]]. The source says non-tech enterprises are adopting AI quickly but still struggle to realize scaled value, creating [[EnterpriseAIPilotPurgatory]] unless leaders redesign workflows, data infrastructure, workforce models, and human-agent responsibilities.
 
 [[tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128]] adds [[PriyaRathod]]'s workforce-readiness version through [[Indeed]]. The episode shows that business-led transformation fails if employer expectations for AI skills outrun training, departmental rollout, manager fluency, governance, privacy, and worker trust around job security.
 
@@ -71,6 +73,7 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - The BCG brain-fry source adds that business-led transformation should protect morale by automating toil before multiplying high-cognitive AI supervision.
 - The Lauren Weber source adds that transformation should protect trust and handoff capacity: rapid AI rollout can push older workers toward retirement before tacit knowledge is transferred.
 - The Priya Rathod source adds that transformation should protect readiness: AI skills demand must be matched with training, milestones, manager fluency, governance, privacy, and job-security clarity.
+- The All-In CES source adds that model-company revenue growth can coexist with customer-side pilot purgatory; the conversion problem sits in operating model, staff mix, and ROI accountability.
 
 ## Connections
 - [[RollingAI]] — source company explaining the method.
@@ -96,3 +99,4 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - [[MattKrop]], [[BCG]], [[AIBrainFry]], and [[AIUsePacing]] — Marketplace Tech's worker-health and morale branch.
 - [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech's older-worker retention and tacit-knowledge branch.
 - [[PriyaRathod]], [[Indeed]], [[WorkplaceAIReadinessGap]], [[AINativeWorker]], [[ManagerialAIFluencyGap]], and [[AIJobSecurityAnxiety]] - Marketplace Tech's employer-worker-manager readiness branch.
+- [[EnterpriseAIPilotPurgatory]], [[AgentWorkforceRedesign]], [[GeneralCatalyst|General Catalyst]], and [[McKinsey]] - All-In's enterprise AI adoption and transformation-asset branch.

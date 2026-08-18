@@ -7895,3 +7895,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-08-18] ingest | Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026
+
+Added source page for an All-In live CES 2026 episode with Bob Sternfels and Hemant Taneja on AI as a larger-than-PC/internet/cloud/mobile transformation, compressed Anthropic/OpenAI value creation, enterprise AI pilot purgatory, General Catalyst's transformation-asset strategy, McKinsey's agent workforce redesign, physical AI, U.S.-China manufacturing competition, self-driving, Tesla Optimus, and transitional AI hardware. Created pages for All-In, Chamath Palihapitiya, Jason Calacanis, David Friedberg, General Catalyst, Hemant Taneja, Bob Sternfels, CES, Google Glass, Tesla Optimus, AI Compressed Value Creation, Enterprise AI Pilot Purgatory, Venture Transformation Assets, Agent Workforce Redesign, Physical AI Manufacturing Gap, and Transitional AI Hardware; updated overview, index, David Sacks, McKinsey, Anthropic, OpenAI, Tesla, BYD, Waymo, Zoox, Pony.ai, WeRide, BlackBerry, Theranos, AI Abundance Narrative, Workplace AI Readiness Gap, Tech Manufacturing Reshoring, Manufacturing Workforce Pipeline, Humanoid Robot Commercialization, Wearable AI Assistant, Physical AI, Business-Led AI Transformation, and AI Organization Design. No direct contradiction found; the source qualifies AI abundance and AI enterprise optimism by showing that organization redesign, ROI accountability, entry-level pathways, manufacturing cost, and physical deployment are bottlenecks between model capability and broad economic change.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

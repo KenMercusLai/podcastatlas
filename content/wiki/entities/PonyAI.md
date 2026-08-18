@@ -3,10 +3,12 @@ title: "Pony.ai"
 type: entity
 tags: [company, autonomous-driving, robotaxi, china]
 sources: [acc532947b65-acc532947b65, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]
-last_updated: 2026-08-12
+last_updated: 2026-08-18
 ---
 
 # Pony.ai
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Pony.ai to the [[CES]] 2026 self-driving discussion as part of the global race in [[PhysicalAI]]. The source names it with [[WeRide]], [[Waymo]], [[Zoox]], [[Tesla]], [[Baidu]], and others, using the cluster to argue that autonomy has become a manufacturing and deployment competition as well as an AI-capability competition.
 
 Pony.ai appears in [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] as one of the Chinese robotaxi companies [[KirstenKorosek]] names for 2026. The episode says Pony.ai is aiming for a global fleet of 3,000 robotaxis by the end of 2026.
 
@@ -22,3 +24,4 @@ The source uses Pony.ai as a scale-ambition signal rather than as a technical te
 - [[WeRide]] and [[Momenta]] - other Chinese robotaxi companies named in the episode.
 - [[Waymo]], [[RobotaxiEconomics]], and [[RobotaxiLocalAcceptance]] - comparison and deployment context.
 - [[ZhangNingPonyAI]], [[AutonomousDrivingResponsibilityBoundary]], [[RobotaxiFleetOperations]], [[CarGradeAutonomousCompute]], and [[AutonomousDrivingSimulation]] - direct Robotaxi operating and technical layer added by the 科技乱炖 episode.
+- [[CES]], [[PhysicalAIManufacturingGap]], and [[Zoox]] - All-In's 2026 self-driving race context.

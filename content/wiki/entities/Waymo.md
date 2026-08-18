@@ -3,10 +3,12 @@ title: "Waymo"
 type: entity
 tags: [company, autonomous-driving, robotics]
 sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-08-08
+last_updated: 2026-08-18
 ---
 
 # Waymo
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Waymo to a live [[CES]] 2026 self-driving wave. The source names Waymo alongside [[Tesla]], [[Zoox]], [[Baidu]], [[WeRide]], and [[PonyAI|Pony.ai]] as evidence that physical AI is moving from software demo toward city-scale autonomous-driving deployment and manufacturing competition.
 
 [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] makes Waymo the visible leader in the 2025 robotaxi deployment wave. [[KirstenKorosek]] says Waymo's August 2023 [[California]] commercial permits were a turning point, followed by stronger expansion in 2024 and 2025; the episode says Waymo was giving about 250,000 rides per week in April 2025 and had a stated next goal of one million rides.
 
@@ -36,3 +38,4 @@ Waymo is the autonomous-driving company discussed in [[132-dui-xinghaitu-chuangs
 - [[Uber]], [[RobotaxiHybridDeployment]], [[RobotaxiEconomics]], and [[AutonomousVehicleSafetyBenchmark]] — D.C. driverless-car bill context added by Marketplace Tech.
 - [[KirstenKorosek]], [[TechCrunch]], [[Zoox]], [[AutonomousVehicleRegulatoryPatchwork]], [[RobotaxiLocalAcceptance]], and [[PathToProfitability]] - 2025 robotaxi year-in-review context.
 - [[DonWeinland]], [[Baidu]], [[ChinaAIExportLeverage]], and [[AIServiceExportStandardSetting]] - Chinese overseas-deployment comparison added by The Intelligence.
+- [[CES]], [[PhysicalAI]], [[Zoox]], [[WeRide]], and [[PonyAI|Pony.ai]] - 2026 self-driving wave context added by All-In.

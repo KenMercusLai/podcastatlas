@@ -3,10 +3,12 @@ title: "David Sacks"
 type: entity
 tags: [person, startups, management]
 sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-23
+last_updated: 2026-08-18
 ---
 
 # David Sacks
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Sacks as one of the named hosts in the [[AllIn|All-In]] show context for a live [[CES]] 2026 discussion on [[AICompressedValueCreation]], [[BusinessLedAITransformation]], [[PhysicalAI]], and AI-era hardware. The source does not isolate a Sacks-specific claim; it updates his page by adding the All-In host role to the wiki.
 
 David Sacks appears in [[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] through [[ParkerConrad]]'s account of the [[Zenefits]] crisis. Conrad says Sacks became Zenefits CEO after Conrad left and that the compliance narrative, media posture, and responsibility debate became tied to Sacks' leadership.
 
@@ -23,3 +25,4 @@ The source presents Sacks only through Conrad's first-person account. Conrad arg
 - [[StartupGovernance]] and [[FounderReputationRecovery]] - concepts connected to the disputed transition and public narrative.
 - [[SamAltman]] and [[YCombinator]] - founder-defense context added by the Sam Altman episode.
 - [[PeterThiel]], [[StanfordReview]], [[CampusConservativeMediaNetwork]], and [[TechnologyRightPowerNetwork]] - Silicon Valley right network context added by Silicon Valley 101.
+- [[AllIn|All-In]], [[ChamathPalihapitiya|Chamath Palihapitiya]], [[JasonCalacanis|Jason Calacanis]], and [[DavidFriedberg|David Friedberg]] - podcast host context added by the CES 2026 source.

@@ -3,10 +3,12 @@ title: "Wearable AI Assistant"
 type: concept
 tags: [ai, wearables, assistants, hardware]
 sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Wearable AI Assistant
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds the [[GoogleGlass|Google Glass]] comparison layer. The source treats smart glasses as more credible than the original Google Glass because form factors have improved, but still says utility is not fully settled, making the episode a bridge between [[WearableAIAssistant]], [[AIGlassesProductFit]], and [[TransitionalAIHardware]].
 
 [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds an [[AppleWatch|Apple Watch]] form-factor branch. The source says [[Apple]] explored a screenless band, different screen sizes, a round face, and possible new tiers, showing that accepted wearables can still face [[WearableFormFactorPressure]] as health tracking, passive sensing, and AI assistant roles evolve.
 
@@ -54,3 +56,4 @@ The concept does not deny the [[SmartphoneAIHub]] thesis. Instead, it splits the
 - [[MariaCurie|Maria Curi]], [[NeuralBand]], and [[SmartGlassesBystanderPrivacy]] - January 2026 adoption and privacy update.
 - [[WangTianfan]], [[BAICapital|B.A.I Capital]], [[Lookie|Loki/Lookie]], [[AIContextMachine]], and [[WisdomOverIntelligence]] - context-machine and wearable-product investment branch.
 - [[WearableFormFactorPressure]], [[Apple]], and [[ConsumerElectronicsLifecycle]] - Apple Watch form exploration added by 声动早咖啡.
+- [[GoogleGlass|Google Glass]], [[TransitionalAIHardware]], and [[CES]] - old-smart-glasses comparison added by All-In.

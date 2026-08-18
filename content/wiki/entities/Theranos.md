@@ -3,10 +3,12 @@ title: "Theranos"
 type: entity
 tags: [company, healthcare, diagnostics, fraud, startup-history]
 sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final]
-last_updated: 2026-07-23
+last_updated: 2026-08-18
 ---
 
 # Theranos
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Theranos to a [[TransitionalAIHardware]] comparison rather than to the main fraud record. The episode's tech-time-capsule segment treats the tiny-blood-testing idea as one that captured public imagination, while the existing wiki branch keeps the crucial distinction: a compelling healthcare device vision is not enough without validated tests, regulatory integrity, and patient safety.
 
 [[Theranos]] is the blood-testing startup at the center of [[tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final]]. In [[TylerShultz|Tyler Shultz]]'s account, the company publicly promised broad central-lab testing from a tiny blood sample while internally struggling to validate tests on its own platform.
 
@@ -24,3 +26,4 @@ Theranos also anchors the source's organizational analysis. The company used bro
 - [[Walgreens]] - public launch partner setting in the episode.
 - [[JohnCarreyrou|John Carreyrou]], [[WallStreetJournal|Wall Street Journal]], and [[CentersForMedicareAndMedicaidServices|CMS]] - public reporting and regulatory fallout context.
 - [[MedicalTestingValidationIntegrity]], [[OrganizationalSecrecyAsControl]], [[CredibilityCascade]], [[FounderIdentityNarrativeRisk]], [[WhistleblowerLegalIntimidation]], and [[ProtectedWhistleblowerChannels]] - concepts grounded by the case.
+- [[TransitionalAIHardware]] and [[ConsumerAIHardwareProductFit]] - All-In's old-device mirror, qualified by the existing validation-integrity branch.

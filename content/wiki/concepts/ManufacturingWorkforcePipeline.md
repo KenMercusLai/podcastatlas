@@ -3,10 +3,12 @@ title: "Manufacturing Workforce Pipeline"
 type: concept
 tags: [manufacturing, workforce, training, education]
 sources: [why-are-we-so-obsessed-with-manufacturing]
-last_updated: 2026-07-24
+last_updated: 2026-08-18
 ---
 
 # Manufacturing Workforce Pipeline
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds a robotics and demographics pressure point. [[BobSternfels|Bob Sternfels]] says robotics will be essential for manufacturing and resilient supply chains because of unfilled manufacturing jobs and worsening demographics, extending the pipeline issue from training alone into [[PhysicalAIManufacturingGap]] and robot adoption.
 
 Manufacturing workforce pipeline is the training and recruitment system needed to fill modern factory jobs. In [[why-are-we-so-obsessed-with-manufacturing]], [[CarolynLee]] of the [[ManufacturingInstitute]] says open manufacturing jobs split between roles requiring college degrees and roles that do not, but every role still requires skills or the ability to learn them.
 
@@ -23,3 +25,4 @@ The episode frames the pipeline as institutional rather than merely motivational
 - [[ManufacturingJobQuality]] - job attractiveness side of the pipeline.
 - [[GoodJobsForNonCollegeWorkers]] - broader labor-market target.
 - [[TechManufacturingReshoring]] and [[SupplyChainSovereignty]] - policy branches that depend on skills.
+- [[PhysicalAIManufacturingGap]], [[PhysicalAI]], and [[HumanoidRobotCommercialization]] - robotics-and-demographics extension added by All-In.

@@ -3,7 +3,7 @@ title: "Physical AI"
 type: concept
 tags: [ai, robotics, automotive, physical-ai]
 sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, acc532947b65-acc532947b65, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 ---
 
 # Physical AI
@@ -40,6 +40,8 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 
 [[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds [[YaoSong]] and [[StridingAI]] as a system-stack version. Yao argues that physical intelligence is not a single model or body, but a [[PhysicalIntelligenceSystemStack]] spanning data, compute, software, hardware, scene access, remote systems, and field delivery. This source also adds [[RobotDemoAuthenticity]] and [[MilestoneCommercialization]] as operating constraints for physical-AI companies.
 
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds the [[CES]] 2026 operator-investor version. The episode treats self-driving, robotics, [[TeslaOptimus|Tesla Optimus]], [[BYD]]'s low-cost manufacturing, and robot density as one [[PhysicalAIManufacturingGap]] problem: model capability has to be paired with hardware cost, manufacturing process, supply-chain resilience, safety, and deployment operations.
+
 ## Key Claims
 - Physical AI depends on both high-ceiling model capability and low-bound reliability; a spectacular demo is not enough if rare scenes, safety, and cost fail.
 - Data and compute matter differently than in ordinary AI-tool adoption because training and evaluating physical behavior can have large direct data, fleet, and infrastructure costs.
@@ -58,6 +60,7 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - The Musk interview adds a post-scarcity version: physical AI is not only a robot market, but the bottleneck between digital superintelligence and material abundance.
 - Marketplace Tech adds that physical AI may require process-rich human demonstrations before deployed robots can produce enough useful real-world experience of their own.
 - Episode 150 adds that a Physical AI "ChatGPT moment" would likely be a clearly useful AI-driven physical application, not a leaderboard milestone by itself.
+- The All-In CES source adds that physical AI can be strategically necessary while diffusing more slowly than software because robots lack a cloud-like API layer and require manufacturing depth.
 
 ## Connections
 - [[XPeng]], [[HeXiaopeng]], [[XPengIron]], and [[XPengGX]] — source company, CEO, robot, and vehicle case.
@@ -80,3 +83,4 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - [[ElonMusk]], [[Tesla]], [[AIAbundanceNarrative]], [[AIWorkOptionality]], and [[UniversalHighIncome]] - full-interview abundance route.
 - [[JoannaStern]], [[HouseholdRobotTrainingData]], [[AITrainerLabor]], and [[RobotDataScaleUp]] - human-recorded household-task data branch added by Marketplace Tech.
 - [[LiuMingyu|Liu Ming-Yu / 刘洺堉]], [[CosmosLab]], [[Cosmos3]], [[WorldFoundationModels]], and [[RobotGeneralizationPerformanceTradeoff]] - Nvidia world-model infrastructure branch added by episode 150.
+- [[CES]], [[PhysicalAIManufacturingGap]], [[TeslaOptimus|Tesla Optimus]], [[BYD]], [[Waymo]], [[WeRide]], and [[PonyAI|Pony.ai]] - All-In's self-driving, manufacturing, and robotics branch.

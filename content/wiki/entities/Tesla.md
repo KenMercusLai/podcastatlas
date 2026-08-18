@@ -3,10 +3,12 @@ title: "Tesla"
 type: entity
 tags: [company, ev, batteries, investing, technology, autonomous-driving]
 sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-08-08
+last_updated: 2026-08-18
 ---
 
 # Tesla
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds a live [[CES]] 2026 [[TeslaOptimus|Tesla Optimus]] branch. The source's host says he visited the Optimus lab and predicts Tesla could be remembered more for Optimus than for cars, making Tesla again a [[PhysicalAI]] and [[HumanoidRobotCommercialization]] case rather than only an EV or robotaxi company.
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] places Tesla's Texas Gigafactory at the center of [[ZannyMintonBeddoes]]'s interview with [[ElonMusk]]. The source uses Tesla less as a car company than as part of Musk's broader [[AIAbundanceNarrative]]: humanoid robots, physical AI, and manufacturing capacity become pieces of a future where AI can do almost everything better than humans.
 
@@ -55,3 +57,4 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - [[KirstenKorosek]], [[TechCrunch]], [[Waymo]], [[Zoox]], [[RobotaxiEconomics]], and [[AutonomousVehicleRegulatoryPatchwork]] - 2025 robotaxi deployment context added by Marketplace Tech.
 - [[UsedEVAffordability]], [[EVTaxCreditCliff]], and [[HenryEpp]] - used-EV market context added by the December 31 Marketplace Tech episode.
 - [[ZannyMintonBeddoes]], [[AIAbundanceNarrative]], [[PhysicalAI]], [[AIWorkOptionality]], [[UniversalHighIncome]], and [[TechnoOptimismPresentThreatGap]] - Gigafactory interview context added by The Intelligence.
+- [[TeslaOptimus|Tesla Optimus]], [[HumanoidRobotCommercialization]], and [[PhysicalAIManufacturingGap]] - CES 2026 All-In branch.

@@ -3,10 +3,12 @@ title: "Tech Manufacturing Reshoring"
 type: concept
 tags: [manufacturing, supply-chain, policy, hardware]
 sources: [battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, building-things-and-breaking-things-in-china-summer-school-world-tour, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, why-are-we-so-obsessed-with-manufacturing, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
-last_updated: 2026-08-05
+last_updated: 2026-08-18
 ---
 
 # Tech Manufacturing Reshoring
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds the [[PhysicalAIManufacturingGap]] version of reshoring. [[HemantTaneja|Hemant Taneja]] argues that U.S. self-driving and AI strength is not enough if Chinese companies such as [[BYD]] can manufacture low-cost, feature-rich vehicles globally; the source therefore ties reshoring to robot deployment, automotive cost, and physical-AI competitiveness rather than only jobs or chip supply.
 
 Tech manufacturing reshoring is the attempt to move hardware production, supplier work, or advanced-manufacturing capability back into the United States or another home market. [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds the concept through [[Apple]]'s plan to produce the [[MacMini]] at a new Houston factory.
 
@@ -42,3 +44,4 @@ The episode treats the move as meaningful but limited. It links the announcement
 - [[ChinaShock]], [[BlanketTariffLimit]], [[StrategicIndustrialPolicy]], and [[RegionalLaborMarketScarring]] - trade-shock and future-capacity distinction added by the China-shock episode.
 - [[RareEarthProcessingBottleneck]], [[StateBackedRareEarthRebuilding]], [[MPMaterials]], and [[NioCorp]] - rare-earth input branch added by Planet Money.
 - [[MicronTechnology]], [[MicronClayMegaFab]], [[ClayNewYork|Clay, New York]], [[HighBandwidthMemory]], and [[EnforceableCommunityBenefits]] - semiconductor community-benefit branch added by Marketplace Tech.
+- [[PhysicalAIManufacturingGap]], [[BYD]], [[PhysicalAI]], and [[HumanoidRobotCommercialization]] - AI manufacturing-competitiveness branch added by All-In.

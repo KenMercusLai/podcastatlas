@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026](sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790.md) — All-In live CES 2026 episode with Bob Sternfels and Hemant Taneja on compressed AI value creation, enterprise pilot purgatory, agent workforce redesign, physical AI, manufacturing, self-driving, and smart-glasses hardware.
 - [EP 15: Unveiling Data Scientist's Role in the Generative AI Era](sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era.md) — Data Science With Sam episode with Marina of Bellups Consulting on data scientists' generative-AI fluency, prompt and API skills, lightweight prototypes, domain judgment, hallucination and bias review, privacy, and use-case triage.
 - [EP 14: What is Observability?](sources/ep-14-what-is-observability.md) — Data Science With Sam episode with Ed Ferron on observability, APM, full-stack telemetry, business transaction monitoring, OpenTelemetry, AI-assisted anomaly detection, security telemetry, proactive alerts, and real-time operational analytics.
 - [EP 13: Soccer Analytics Through the Lens of Coaching](sources/ep-13-soccer-analytics-through-the-lens-of-coaching.md) — Data Science With Sam episode with Bruno on coaching-integrated soccer analytics, expected goals as a process metric, live match analysis, player development, scouting due diligence, and youth soccer access inequality.
@@ -986,6 +987,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [All-In](entities/AllIn.md) — Podcast context for the live CES 2026 discussion with Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg, Bob Sternfels, and Hemant Taneja.
+- [Chamath Palihapitiya](entities/ChamathPalihapitiya.md) — All-In host context for the CES 2026 AI, enterprise, robotics, manufacturing, and hardware discussion.
+- [Jason Calacanis](entities/JasonCalacanis.md) — All-In host introducing the CES 2026 guests and framing the Tesla Optimus and old-gadget comparison segments.
+- [David Friedberg](entities/DavidFriedberg.md) — All-In host context for the CES 2026 AI transformation discussion.
+- [General Catalyst](entities/GeneralCatalyst.md) — Venture firm discussed through Hemant Taneja's AI transformation-asset and incumbent-deployment strategy.
+- [Hemant Taneja](entities/HemantTaneja.md) — General Catalyst guest connecting Anthropic-style compressed value creation to enterprise transformation and physical-AI deployment limits.
+- [Bob Sternfels](entities/BobSternfels.md) — McKinsey guest describing organizational speed, agent workforce redesign, and entry-level pathway risk in AI adoption.
+- [CES](entities/CES.md) — Consumer technology event used as the signal that AI has become central across industries, autonomy, robotics, manufacturing, and wearables.
+- [Google Glass](entities/GoogleGlass.md) — Smart-glasses precedent used to judge whether current AI wearables are failed ideas or early transitional products.
+- [Tesla Optimus](entities/TeslaOptimus.md) — Tesla humanoid robot program used as the episode's strongest speculative physical-AI forecast.
 - [Marina (Data Science With Sam)](entities/MarinaDataScienceWithSam.md) — Principal consultant and data scientist at Bellups Consulting discussing generative-AI-era data scientist fluency, prompt skill, API/web demos, resource awareness, bias, hallucination, and use-case triage.
 - [Bellups Consulting](entities/BellupsConsulting.md) — Consulting affiliation context for Marina's Data Science With Sam episode on the data scientist role in the generative AI era.
 - [Ed Ferron](entities/EdFerron.md) — Exigent Solutions observability practice lead and Data Science With Sam guest explaining full-stack observability, business transaction telemetry, OpenTelemetry, AI-assisted alerts, and security telemetry.
@@ -6685,6 +6696,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Compressed Value Creation](concepts/AICompressedValueCreation.md) — Claim that frontier AI companies can compress revenue, valuation, and platform formation timelines compared with earlier software infrastructure eras.
+- [Enterprise AI Pilot Purgatory](concepts/EnterpriseAIPilotPurgatory.md) — Gap between broad enterprise AI experimentation and scaled operating value under CEO speed, CFO ROI, and CIO disruption pressures.
+- [Venture Transformation Assets](concepts/VentureTransformationAssets.md) — Venture strategy of buying or controlling incumbent operating assets so AI startups can deploy into real workflows, customers, data, and compliance settings.
+- [Agent Workforce Redesign](concepts/AgentWorkforceRedesign.md) — Reorganization of human roles, staff mix, entry pathways, and review work around AI agents and digital employees.
+- [Physical AI Manufacturing Gap](concepts/PhysicalAIManufacturingGap.md) — Gap between AI autonomy capability and the manufacturing cost, process, supply-chain, and workforce depth needed to scale physical AI products.
+- [Transitional AI Hardware](concepts/TransitionalAIHardware.md) — Reading old or awkward devices as possible previews of future AI products, with failure depending on form factor, trust, utility, and timing.
 - [Data Scientist Generative AI Fluency](concepts/DataScientistGenerativeAIFluency.md) — Practical skill set combining ML foundations, domain judgment, prompting, API/web-demo ability, resource awareness, verification, and governance for data scientists working with LLMs.
 - [Generative AI Use-Case Triage](concepts/GenerativeAIUseCaseTriage.md) — Risk-sensitive choice among generative AI, discriminative AI, simpler ML, rules, automatic checks, and human review based on validation difficulty, bias, privacy, and stakes.
 - [Observability](concepts/Observability.md) — Operating practice for using application telemetry to understand end-to-end behavior, customer experience, business impact, security risk, and real-time operations.

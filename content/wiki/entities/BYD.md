@@ -3,10 +3,12 @@ title: "BYD"
 type: entity
 tags: [company, china, electric-vehicles, batteries, latin-america, manufacturing]
 sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # BYD
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds BYD as the clearest Chinese manufacturing pressure case in a [[PhysicalAI]] discussion. [[HemantTaneja|Hemant Taneja]] says Chinese companies such as BYD are penetrating global markets with low-cost, feature-rich vehicles, using BYD to argue that U.S. self-driving innovation still needs cost-competitive manufacturing capability.
 
 [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds BYD's local-product adaptation branch. The episode says BYD launched a Brazil-built flex-fuel plug-in hybrid co-developed by Chinese and Brazilian teams for ethanol use, and separately launched a Japan-specific compact model whose early orders exceeded 700 units.
 
@@ -28,3 +30,4 @@ In this source, BYD is not analyzed as an automaker on its own. It is evidence t
 - [[CATL]], [[ATL]], and [[PowerBatteryIndustryChain]] - power-battery industry context added by E229.
 - [[BatteryManufacturingKnowHow]] and [[BatteryConsistencySafety]] - manufacturing and quality-control themes from the battery episode.
 - [[InovanceTechnology]], [[LensTechnology]], [[ThreeLayerScaleEconomies]], and [[ChineseCorporateGladiatorCompetition]] - vol.127's EV-cluster and competition context.
+- [[PhysicalAIManufacturingGap]], [[TechManufacturingReshoring]], and [[ChinaAIExportLeverage]] - manufacturing-cost pressure branch added by All-In.

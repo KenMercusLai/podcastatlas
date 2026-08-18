@@ -3,10 +3,12 @@ title: "Workplace AI Readiness Gap"
 type: concept
 tags: [ai, workplace, labor, management]
 sources: [tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128]
-last_updated: 2026-08-07
+last_updated: 2026-08-18
 ---
 
 # Workplace AI Readiness Gap
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds the graduate and entry-level pathway side of the gap. The source says young graduates face a tougher market, employers may look more at real capability evidence such as a GitHub profile, and [[BobSternfels|Bob Sternfels]] warns that removing entry-level work too quickly can damage future leadership formation.
 
 Workplace AI readiness gap is the three-way mismatch described in [[tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128|the August 3 Marketplace Tech source]]: employers want specific AI skills, workers often do not yet feel capable, and managers are unsure how to lead employees who may be more AI fluent than they are. The concept makes workplace AI adoption an organizational problem rather than only a worker skill problem.
 
@@ -24,3 +26,4 @@ The gap extends [[BusinessLedAITransformation]] and [[AIEconomicDiffusion]]. Mod
 - [[AINativeWorker]], [[ManagerialAIFluencyGap]], and [[AIJobSecurityAnxiety]] - specific subproblems named by the source.
 - [[AIWorkerLiteracy]], [[BusinessLedAITransformation]], [[AIOrganizationDesign]], and [[AIEconomicDiffusion]] - existing concepts this source extends.
 - [[AIUsePacing]], [[AIBrainFry]], and [[OlderWorkerAIRetirement]] - adjacent worker experience and rollout pacing issues.
+- [[AgentWorkforceRedesign]], [[AIWorkerLiteracy]], and [[HumanJudgmentUnderAI]] - entry-pathway and capability-proof branch added by All-In.

@@ -3,10 +3,12 @@ title: "Humanoid Robot Commercialization"
 type: concept
 tags: [robotics, commercialization, physical-ai]
 sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, tsr-s2-trevorblackwell-v2]
-last_updated: 2026-08-08
+last_updated: 2026-08-18
 ---
 
 # Humanoid Robot Commercialization
+
+[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds [[TeslaOptimus|Tesla Optimus]] as a highly bullish but source-scoped humanoid forecast. The host predicts Tesla may be remembered more for Optimus than for cars and imagines a one-to-one ratio of humans to Optimus robots, while [[HemantTaneja|Hemant Taneja]] cautions that robotics lacks a cloud-like API layer and may therefore diffuse more slowly than software AI.
 
 Humanoid robot commercialization is the challenge of turning human-like general robots into reliable, affordable, useful products. [[143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]] adds the concept through [[XPengIron]], where [[HeXiaopeng]] argues that humanoid robots are far harder than cars but may scale quickly if capability, hardware, manufacturing, and commercial proof converge.
 
@@ -41,3 +43,4 @@ The source is deliberately cautious: He says most general humanoid routes will f
 - [[TrevorBlackwell]], [[Anybots]], [[DynamicBalancingRobotics]], and [[BostonDynamics]] — historical walking-robot route added by The Social Radars source.
 - [[ElonMusk]], [[Tesla]], [[PhysicalAI]], [[AIWorkOptionality]], and [[UniversalHighIncome]] - full-interview abundance branch.
 - [[JoannaStern]], [[HouseholdRobotTrainingData]], [[RobotDataScaleUp]], and [[AITrainerLabor]] - paid demonstration-data branch added by Marketplace Tech.
+- [[TeslaOptimus|Tesla Optimus]], [[PhysicalAIManufacturingGap]], and [[AIAbundanceNarrative]] - CES 2026 All-In forecast and caution branch.
