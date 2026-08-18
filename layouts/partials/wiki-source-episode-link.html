@@ -1,10 +1,4 @@
 {{- $page := . -}}
-{{- with $page.Params.source_file -}}
-  {{- $sourceName := replaceRE `^.*[\\/]` "" . -}}
-  {{- $episodes := where $page.Site.RegularPages "Section" "episodes" -}}
-  {{- with where $episodes "File.LogicalName" $sourceName -}}
-    {{- with index . 0 -}}
-      <span><a href="{{ .RelPermalink }}">Episode summary</a></span>
-    {{- end -}}
-  {{- end -}}
+{{- with partial "wiki-source-episode-page.html" $page -}}
+  <span><a href="{{ .RelPermalink }}">Episode summary</a></span>
 {{- end -}}

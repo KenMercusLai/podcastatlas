@@ -15,7 +15,7 @@
             {{ end }}
           {{ end }}
         </div>
-        {{ with .Date }}<time class="episode-date" datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006-01-02" }}</time>{{ end }}
+        {{ partial "episode-publication-date.html" . }}
       </li>
     {{ end }}
   </ul>

@@ -1,0 +1,10 @@
+{{- $page := . -}}
+{{- $episode := $page -}}
+{{- if eq $page.Params.type "source" -}}
+  {{- $episode = partial "wiki-source-episode-page.html" $page -}}
+{{- end -}}
+{{- with $episode -}}
+  {{- with .Date -}}
+    <time class="episode-date" datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006-01-02" }}</time>
+  {{- end -}}
+{{- end -}}
