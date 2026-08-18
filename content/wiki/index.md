@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi.md) — 芮淇讲透资治通鉴 episode on Han court assassination, Wei succession disorder, Qi Wei Wang's contested chronology and official audits, and Chu/Song succession notices under Zhou Lie Wang.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d.md) — 芮淇讲透资治通鉴 episode on Han destroying Zheng through multi-generation family strategy and capital relocation, Taishi Dan's Qin visit, Qin's origin from Feizi to recognized statehood, and early Zhou Lie Wang war/succession notices.
 - [《资治通鉴·周纪》09丨战国时代的世界大战](sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl.md) — 芮淇讲透资治通鉴 episode on early Warring States coalition war, Jiang-line Qi and Jin's endings, Zhongshan revival, Zhou An Wang's death, and Zisi's advice on flawed talent and court flattery.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（2）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm.md) — 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's reform backing, noble backlash against Wu Qi's centralizing measures, Qin/Zhao/Han/Qi succession and recognition notices, and Han Fei's ruler-technique reading of Zhao Jinghou.
@@ -1011,6 +1012,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [韩廆 / Han Gui](entities/HanGui.md) — Han chancellor targeted by Yan Sui's hired assassin in the Zhouji 10 part 2 Han court-killing variant.
+- [韩懿侯 / Marquis Yi of Han](entities/HanYihou.md) — Han Aihou's son and successor after the Han Gui/Yan Sui assassination crisis.
+- [公中缓 / Gongzhong Huan](entities/GongzhongHuan.md) — Rival claimant against Wei Ying after Wei Wuhou dies without a clear successor.
+- [齐威王 / King Wei of Qi](entities/QiWeiwang.md) — Qi ruler used in Zhouji 10 part 2 for both a contested chronology notice and the Jimo/Ayi official-audit story.
+- [即墨大夫 / Jimo Dafu](entities/JimoDafu.md) — Qi local official with bad court gossip but strong local performance in Qi Wei Wang's secret audit.
+- [阿邑大夫 / Ayi Dafu](entities/AyiDafu.md) — Qi local official with good court reputation but poor local performance in Qi Wei Wang's secret audit.
+- [楚宣王 / King Xuan of Chu](entities/ChuXuanwang.md) — Xiong Liangfu, brother and successor of Chu Su Wang in the Zhou Lie Wang sixth-year notice.
+- [宋剔成 / Song Ticheng](entities/SongTicheng.md) — Song Pi Gong's son and successor in the Zhou Lie Wang sixth-year notice.
 - [《史记》 / Shiji](entities/Shiji.md) — Classical history used in Zhouji 10 to supplement a blank Zizhi Tongjian year with Taishi Dan's Qin visit.
 - [韩康子 / Han Kangzi](entities/HanKangzi.md) — Early Han lineage point from which Zhouji 10 begins Han's long strategy against Zheng.
 - [韩武子 / Han Wuzi](entities/HanWuzi.md) — Han ruler who attacks Zheng and moves the capital toward it in Zhouji 10's generational-strategy sequence.
@@ -6891,6 +6900,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Zhouji 10 part 2 frame for the disorder created when Wei Wuhou dies without a clearly designated heir.
+- [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.
+- [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.
 - [Generational Family Strategy / 家族代际战略](concepts/GenerationalFamilyStrategy.md) — Zhouji 10 frame for reading Han's destruction of Zheng as a lineage-level, multi-generation project.
 - [Strategic Capital Relocation / 战略性迁都](concepts/StrategicCapitalRelocation.md) — Mechanism by which Han's repeated capital moves show sustained pressure toward Zheng.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.

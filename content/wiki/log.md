@@ -7826,6 +7826,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Zhou An Wang's first
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | 《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhou Lie Wang years five and six: Wei attacking Chu, the Han Aihou/Yan Sui/Han Gui assassination variant, Wei Wuhou's succession disorder, Qi Wei Wang's contested chronology and Jimo/Ayi official-audit story, Zhao/Wei military notices, and Chu/Song successions. Created pages for Han Gui, Han Yihou, Gongzhong Huan, Qi Wei Wang, Jimo Dafu, Ayi Dafu, Chu Xuan Wang, Song Ticheng, Succession Non-Designation Risk, Independent Official Audit, and Chronicle Chronology Drift; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Sima Guang, Zhanguoce, Historical Detective Reasoning, Chronicle Source Gaps, Court Feedback Collapse, Autocratic Succession, Founder Succession, Zhou Lie Wang, Warring States Period, Han State, Han Aihou, Yan Zhongzi, Xia Lei, Wei State, Wei Wuhou, Liang Hui Wang, Zhao State, Qi State, Tian Yingqi, Chu State, Chu Su Wang, Song State, and Song Pi Gong. Flagged the Han assassination as a source-variant problem and the Qi Wei Wang/Wei succession placement as chronology-drift rather than settled contradictions.
+
 ## [2026-08-18] ingest | 《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zhou Lie Wang years 1-4, Han destroying Zheng through multi-generation family strategy and strategic capital relocation, Taishi Dan's Shiji visit to Qin Xian Gong, Qin's origin from Feizi to recognized statehood, and compact Yan/Qi/Lu/Wey/Song/Zhao/Wei war and succession notices. Created pages for Shiji, Han Kangzi, Han Wuzi, Zhao Chenghou, Taishi Dan, Qin Xian Gong, Qin Feizi, Qin Xiang Gong, Zhou Xiao Wang, Zhou You Wang, Zhou Ping Wang, Qin Wen Gong, Laozi, Yan Huan Gong, Song Pi Gong, Wey State, Wey Sheng Gong, Wey Cheng Gong, Generational Family Strategy, Strategic Capital Relocation, and Kinship Legitimacy Diplomacy; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Sima Guang, Zhou Lie Wang, Zhou Royal House, Warring States Period, Han State, Zheng State, Qin State, Zhao State, Zhao Jinghou, Han Jinghou, Han Lie Hou, Han Wen Hou, Han Ai Hou, Yan State, Yan Xi Gong, Qi State, Lu State, Song State, Song Xiu Gong, Wei State, Small-State Buffer Diplomacy, Chronicle Source Gaps, Territorial Control Churn, Celestial Omen Political Responsibility, Yin-Yang Five-Phases Political Theory, Historical Detective Reasoning, and Mandate of Heaven Legitimacy. No direct contradiction found; Taishi Dan's possible identification with Laozi is kept speculative, and Wey State is disambiguated from Wei State.
@@ -8082,6 +8086,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | 《资治通鉴·周纪》09丨战国时代的世界大战
 
 Added source page for a 芮淇讲透资治通鉴 episode on the broad early Warring States melee among Qi, Yan, Han, Zhao, Wei, and Chu; Jiang-line Qi's end; Jin's final extinction; Zhongshan's revival; Zhou An Wang's death and Zhou Lie Wang's accession; and Zisi's advice on Gou Bian, flawed talent, remonstrance, and court flattery. Created pages for Zisi, Gou Bian, Zhou Lie Wang, Yan Jian Gong, Qi Kang Gong, Tian-family Qi Huan Gong, Tian Yingqi, Chu Su Wang, Jin Xiao Gong, Jin Jing Gong, Zhongshan State, Wei Zhi, Lu Mu Gong, Lu Gong Gong, Early Warring States Interstate War, Use Strengths Over Faults, and Court Feedback Collapse; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Zhou Royal House, Warring States Period, Wei State, Wei Wuhou, Zhao State, Zhao Jinghou, Han State, Han Wenhou, Han Aihou, Qi State, Yan State, Chu State, Jin State, Lu State, Tian He, Gongshu, Shijing, Sima Guang, Confucius, Chronicle Source Gaps, and Territorial Control Churn. No direct contradiction found; the Tian-family Qi Huan Gong title is kept separate from the older Spring-Autumn Qi Huan Gong, and the unstable Zhao ruler wording in the transcript is kept state-level rather than turned into a new page.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

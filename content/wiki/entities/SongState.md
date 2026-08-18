@@ -2,7 +2,7 @@
 title: "宋国 / Song State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-18
 ---
 
@@ -16,6 +16,8 @@ The episode also uses Song to connect later classical authority back to lineage:
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds the later succession from [[SongXiugong|宋休公]], whose personal name is given as Song Tian, to [[SongPigong|宋辟公]] in 373 BCE.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] continues the same ruler line: [[SongPigong|宋辟公]] dies, and his son [[SongTicheng|宋剔成]] succeeds in the Zhou Lie Wang sixth-year notice.
+
 ## Connections
 - [[SongDaogong|宋悼公]] and [[SongXiugong|宋休公]] - succession pair in the source.
 - [[WeiziQi|微子启]] - founding lineage figure in the episode.
@@ -23,3 +25,4 @@ The episode also uses Song to connect later classical authority back to lineage:
 - [[ShangRemnantStateLegitimacy]] - main concept created by the source.
 - [[SpringAndAutumnPeriod|春秋时期]] and [[WarringStatesPeriod|战国时期]] - period setting.
 - [[SongPigong|宋辟公]] and [[ZhouLiewang|周烈王]] - Zhouji 10 succession notice.
+- [[SongTicheng|宋剔成]] - Zhouji 10 part 2 successor after Song Pi Gong.

@@ -2,7 +2,7 @@
 title: "韩国 / Han State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-18
 ---
 
@@ -20,6 +20,8 @@ The source uses Han less as a full institutional history than as a succession an
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] turns Han from one actor in interstate churn into the episode's main long-strategy case. It traces Han from [[HanKangzi|韩康子]] and [[HanWuzi|韩武子]] through [[HanJinghou|韩景侯]], [[HanLiehou|韩烈侯]], [[HanWenhou|韩文侯]], and [[HanAihou|韩哀侯]], arguing that the absorption of [[ZhengState|郑国]] in 375 BCE was built through [[GenerationalFamilyStrategy|generational family strategy]] and [[StrategicCapitalRelocation|strategic capital relocation]].
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] adds Han's immediate post-conquest instability. The episode records [[HanAihou|韩哀侯]] dying in the [[YanZhongzi|严遂]] / [[HanGui|韩廆]] assassination crisis and [[HanYihou|韩懿侯]] succeeding, while flagging the relation between this account and the earlier [[NieZheng|聂政]] / [[XiaLei|侠累]] variant.
+
 ## Connections
 - [[HanJinghou|韩景侯]] and [[HanLiehou|韩烈侯]] - succession pair in the source.
 - [[ZhaoState|赵国]] and [[WeiState|魏国]] - allied attack on Chu.
@@ -30,3 +32,4 @@ The source uses Han less as a full institutional history than as a succession an
 - [[WarringStatesPeriod|战国时期]] - broad period context.
 - [[EarlyWarringStatesInterstateWar]], [[JinJinggong|晋静公]], and [[HanAihou|韩哀侯]] - Zhouji 09 war, Jin-ending, and succession branch.
 - [[HanKangzi|韩康子]], [[HanWuzi|韩武子]], [[GenerationalFamilyStrategy]], and [[StrategicCapitalRelocation]] - Zhouji 10 long conquest of Zheng.
+- [[YanZhongzi|严遂]], [[HanGui|韩廆]], [[HanYihou|韩懿侯]], [[Zhanguoce|《战国策》]], and [[Shiji|《史记》]] - Zhouji 10 part 2 assassination and source-variant branch.

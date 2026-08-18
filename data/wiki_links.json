@@ -4999,6 +4999,10 @@
     "title": "Aye-Aye / 爱爱狐猴",
     "url": "/wiki/entities/ayeaye/"
   },
+  "AyiDafu": {
+    "title": "阿邑大夫 / Ayi Dafu",
+    "url": "/wiki/entities/ayidafu/"
+  },
   "AynRand": {
     "title": "Ayn Rand / 安·兰德",
     "url": "/wiki/entities/aynrand/"
@@ -8619,6 +8623,10 @@
     "title": "Chronic Food Additive Risk",
     "url": "/wiki/concepts/chronicfoodadditiverisk/"
   },
+  "ChronicleChronologyDrift": {
+    "title": "Chronicle Chronology Drift / 编年错位",
+    "url": "/wiki/concepts/chroniclechronologydrift/"
+  },
   "ChronicleSourceGaps": {
     "title": "Chronicle Source Gaps / 编年史料空缺",
     "url": "/wiki/concepts/chroniclesourcegaps/"
@@ -8642,6 +8650,10 @@
   "ChuSuwang": {
     "title": "楚肃王 / King Su of Chu",
     "url": "/wiki/entities/chusuwang/"
+  },
+  "ChuXuanwang": {
+    "title": "楚宣王 / King Xuan of Chu",
+    "url": "/wiki/entities/chuxuanwang/"
   },
   "ChuckSurack": {
     "title": "Chuck Surack",
@@ -16491,6 +16503,10 @@
     "title": "公叔 / Gongshu (Wei chancellor)",
     "url": "/wiki/entities/gongshuweichancellor/"
   },
+  "GongzhongHuan": {
+    "title": "公中缓 / Gongzhong Huan",
+    "url": "/wiki/entities/gongzhonghuan/"
+  },
   "GongziPengsheng": {
     "title": "公子彭生",
     "url": "/wiki/entities/gongzipengsheng/"
@@ -17287,6 +17303,10 @@
     "title": "Han Fei / 韩非",
     "url": "/wiki/entities/hanfei/"
   },
+  "HanGui": {
+    "title": "韩廆 / Han Gui",
+    "url": "/wiki/entities/hangui/"
+  },
   "HanJinghou": {
     "title": "韩景侯 / Marquis Jing of Han",
     "url": "/wiki/entities/hanjinghou/"
@@ -17346,6 +17366,10 @@
   "HanYang": {
     "title": "汉洋 / Han Yang",
     "url": "/wiki/entities/hanyang/"
+  },
+  "HanYihou": {
+    "title": "韩懿侯 / Marquis Yi of Han",
+    "url": "/wiki/entities/hanyihou/"
   },
   "HanZhao": {
     "title": "Han Zhao / 韩钊",
@@ -19083,6 +19107,10 @@
     "title": "Independent Investment Consulting",
     "url": "/wiki/concepts/independentinvestmentconsulting/"
   },
+  "IndependentOfficialAudit": {
+    "title": "Independent Official Audit / 独立考核地方官",
+    "url": "/wiki/concepts/independentofficialaudit/"
+  },
   "IndexFundAutomaticExposure": {
     "title": "Index Fund Automatic Exposure",
     "url": "/wiki/concepts/indexfundautomaticexposure/"
@@ -20702,6 +20730,10 @@
   "JimThorpe": {
     "title": "Jim Thorpe",
     "url": "/wiki/entities/jimthorpe/"
+  },
+  "JimoDafu": {
+    "title": "即墨大夫 / Jimo Dafu",
+    "url": "/wiki/entities/jimodafu/"
   },
   "JinJinggong": {
     "title": "晋静公 / Duke Jing of Jin",
@@ -31299,6 +31331,10 @@
     "title": "齐国 / Qi State",
     "url": "/wiki/entities/qistate/"
   },
+  "QiWeiwang": {
+    "title": "齐威王 / King Wei of Qi",
+    "url": "/wiki/entities/qiweiwang/"
+  },
   "QiWuLun": {
     "title": "《齐物论》",
     "url": "/wiki/entities/qiwulun/"
@@ -35555,6 +35591,10 @@
     "title": "宋初继承合法性危机 / Song Succession Legitimacy Crisis",
     "url": "/wiki/concepts/songsuccessionlegitimacycrisis/"
   },
+  "SongTicheng": {
+    "title": "宋剔成 / Song Ticheng",
+    "url": "/wiki/entities/songticheng/"
+  },
   "SongUnificationStrategy": {
     "title": "先南后北 / Song Unification Strategy",
     "url": "/wiki/concepts/songunificationstrategy/"
@@ -36750,6 +36790,10 @@
   "SuccessionAsContinuousEntrepreneurship": {
     "title": "Succession as Continuous Entrepreneurship / 接班即持续创业",
     "url": "/wiki/concepts/successionascontinuousentrepreneurship/"
+  },
+  "SuccessionNonDesignationRisk": {
+    "title": "Succession Non-Designation Risk / 未定继承人风险",
+    "url": "/wiki/concepts/successionnondesignationrisk/"
   },
   "Sudan": {
     "title": "Sudan",
@@ -46158,5 +46202,9 @@
   "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d": {
     "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d/"
+  },
+  "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi": {
+    "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi/"
   }
 }
