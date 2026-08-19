@@ -2,7 +2,7 @@
 title: "田婴 / Tian Ying"
 type: entity
 tags: [person, general, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-19
 ---
 
@@ -24,6 +24,8 @@ The same source preserves a genealogy caution. It follows [[Shiji|《史记》]]
 
 The same source introduces Tian Ying as the father of [[Mengchangjun|孟尝君 / 田文]]. It says he has more than forty sons, but tries to exclude Tian Wen because the child's mother has low concubine status and because Tian Wen is born on the fifth day of the fifth lunar month. This makes Tian Ying a household gatekeeper as well as a Qi power-holder.
 
+[[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]] shows Tian Ying being moved by Tian Wen's heaven-versus-door reply, then gradually trusting him with household affairs and guest reception. Tian Ying's wealth at [[XueWarringStates|薛地]] becomes the resource Tian Wen spends into reputation, and the outside praise for Tian Wen eventually pushes Tian Ying to make him heir.
+
 ## Connections
 - [[QiState|齐国]] and [[QiWeiwang|齐威王]] - state and royal-family context.
 - [[TianJi|田忌]] and [[SunBin|孙膑]] - fellow commander and adviser in the rescue campaign.
@@ -31,4 +33,4 @@ The same source introduces Tian Ying as the father of [[Mengchangjun|孟尝君 /
 - [[XuzhouMutualKingship|徐州相王]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - post-Maling diplomatic branch in Zhouji 27.
 - [[ZhangChou|张丑]] and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 warning against accepting the title bargain.
 - [[ChuWeiwang|楚威王]] and [[TianBan|田斑]] - Zhouji 29 expulsion demand and replacement-risk argument.
-- [[XueWarringStates|薛地]], [[FiefSecurityIllusion|封地筑城安全幻觉]], [[Mengchangjun|孟尝君 / 田文]], and [[BirthTabooSuccessionExclusion|出生日禁忌与继承排斥]] - Zhouji 40 fief-security and household-exclusion branch.
+- [[XueWarringStates|薛地]], [[FiefSecurityIllusion|封地筑城安全幻觉]], [[Mengchangjun|孟尝君 / 田文]], [[BirthTabooSuccessionExclusion|出生日禁忌与继承排斥]], and [[WarringStatesRetainerPatronage|战国养士]] - Zhouji 40-41 fief-security, household-exclusion, heir-making, and patronage branch.

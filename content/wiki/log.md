@@ -8399,3 +8399,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 and found no hub stubs, three fragile bridges, and no isolated communities. Semantic API lint failed because no provider-qualified `LLM_MODEL` or provider API key is set; a bounded in-session sample review found no direct contradictions and flagged source-breadth gaps for broad AI-politics, innovation-scale, open-source-strategy, and fisheries-management claims. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》41丨孟尝君：我是如何打败这40多位哥哥的
+
+Added source page for a 芮淇讲透资治通鉴 episode on Tian Wen overcoming the May-fifth birth taboo through the heaven-versus-door argument, winning Tian Ying's acceptance, using household guest management to build reputation, inheriting Xue as Mengchang Jun, and opening the Warring States养士 question. Created Warring States Retainer Patronage; updated overview, index, Mengchangjun, Tian Ying, Xue, Qi State, Warring States Period, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Birth Taboo Succession Exclusion, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, and Warring States Careerist Mobility. No direct contradiction found; the source continues Zhouji 40's household-recognition branch into heir-making and retainer patronage.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

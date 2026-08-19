@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 4746
+wiki_total_pages: 4747
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "WarringStatesReformBacklash"
     title: "Warring States Reform Backlash / 战国变法反噬"
     url: "/wiki/concepts/warringstatesreformbacklash/"
+  - key: "WarringStatesRetainerPatronage"
+    title: "Warring States Retainer Patronage / 战国养士"
+    url: "/wiki/concepts/warringstatesretainerpatronage/"
   - key: "WarringStatesUrbanProsperity"
     title: "Warring States Urban Prosperity / 战国城市繁荣"
     url: "/wiki/concepts/warringstatesurbanprosperity/"

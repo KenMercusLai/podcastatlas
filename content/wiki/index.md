@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》41丨孟尝君：我是如何打败这40多位哥哥的](sources/zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4.md) — 芮淇讲透资治通鉴 episode on Tian Wen winning Tian Ying's acceptance, turning household guest management into heir status, inheriting Xue as Mengchangjun, and opening the Warring States retainer-patronage question.
 - [《资治通鉴·周纪》40丨5月出生的孩子惹谁啦？](sources/zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t.md) — 芮淇讲透资治通鉴 episode closing Zhou Xian Wang's reign in 321 BCE, recording Yan succession, and introducing Tian Ying's Xue fief warning plus Mengchangjun Tian Wen's May-fifth birth taboo.
 - [《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（2）](sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm.md) — 芮淇讲透资治通鉴 episode resolving the prince-lawbreaking cliffhanger through tutor punishment, Qin's high-status enforcement signal, Sima Guang's praise of Shang Yang's "信," and the four trust cases of Qi Huan Gong, Jin Wen Gong, Wei Wenhou, and 徙木立信.
 - [《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的](sources/zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's Wei-court struggle with Hui Shi, Qin Huiwen Wang's reward-pressure tactic, Chen Zhen's blocked Wei job search, and Zuo Shuang's pivot that restores Chen's Chu connection.
@@ -1050,10 +1051,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Tian Ying's son, introduced through his low-status mother and May-fifth birth taboo before his later recognition.
+- [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Tian Ying's son who overcomes birth-taboo exclusion, turns household guest service into reputation, inherits Xue, and becomes a central retainer patron.
 - [周慎靓王 / Zhou Shenliang Wang](entities/ZhouShenliangwang.md) — Zhou Xian Wang's successor in the Zhouji 40 succession notice, with 周慎亮王 kept as the source spelling variant.
 - [燕王哙 / King Kuai of Yan](entities/YanWangKuai.md) — Yan successor after Yan Yi Wang dies in the 321 BCE Zhouji 40 notice.
-- [薛地 / Xue](entities/XueWarringStates.md) — Tian Ying's Qi fief, where wall-building becomes a lesson about dependence on the larger state platform.
+- [薛地 / Xue](entities/XueWarringStates.md) — Tian Ying's Qi fief and Mengchangjun's later retainer base, linking fief security to privately funded patronage.
 - [公孙贾 / Gongsun Jia](entities/GongsunJia.md) — Qin tutor figure whose facial tattoo connects the prince-law enforcement signal to later resentment against Shang Yang.
 - [陈枕 / Chen Zhen (Warring States strategist)](entities/ChenZhenWarringStates.md) — Source-scoped strategist whose blocked Wei office-seeking becomes a return-to-Chu pivot.
 - [左爽 / Zuo Shuang](entities/ZuoShuang.md) — Adviser who tells Chen Zhen how to turn Zhang Yi's hostile frame into renewed Chu favor.
@@ -7083,8 +7084,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Mengchangjun's Xue-based system of materially supporting mobile retainers, fugitives, and scholars while managing their dignity and loyalty.
 - [Fief Security Illusion / 封地筑城安全幻觉](concepts/FiefSecurityIllusion.md) — Tian Ying's Xue wall-building case showing that a local fief cannot replace the larger state platform that protects a minister.
-- [Birth Taboo Succession Exclusion / 出生日禁忌与继承排斥](concepts/BirthTabooSuccessionExclusion.md) — Tian Wen's May-fifth birth and low-status maternal line as filters that almost remove him from Tian Ying's household.
+- [Birth Taboo Succession Exclusion / 出生日禁忌与继承排斥](concepts/BirthTabooSuccessionExclusion.md) — Tian Wen's May-fifth birth and low-status maternal line as filters that almost remove him from Tian Ying's household before rhetorical recognition becomes possible.
 - [High-Status Law-Enforcement Signal / 高位执法信号](concepts/HighStatusLawEnforcementSignal.md) — Shang Yang reform pattern where punishment near the prince makes the new law visibly credible among high-status insiders.
 - [Tall Poppy Governance / 高大罂粟花式震慑](concepts/TallPoppyGovernance.md) — Comparative statecraft analogy where striking prominent figures disciplines the wider political community by example.
 - [恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure](concepts/GraceDebtLoyaltyPressure.md) — Reward-without-achievement mechanism that binds a subordinate through shame, obligation, and repayment pressure.
