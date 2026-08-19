@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if and .Title (not .IsHome) }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+  {{ $searchType := partial "search-type.html" . }}
+  <meta data-pagefind-filter="type[content]" content="{{ $searchType }}">
+  <meta data-pagefind-meta="type[content]" content="{{ $searchType }}">
   {{ block "head_extra" . }}{{ end }}
   <style>
     :root {
@@ -240,12 +243,13 @@
   </style>
 </head>
 <body>
-  <header class="site-header">
+  <header class="site-header" data-pagefind-ignore="all">
     <a class="site-title" href="{{ "episodes/" | relURL }}">{{ .Site.Title }}</a>
     <nav class="site-nav" aria-label="Primary">
       <a href="{{ "episodes/" | relURL }}">Episodes</a>
       <a href="{{ "shows/" | relURL }}">Shows</a>
       <a href="{{ "wiki/" | relURL }}">Wiki</a>
+      <a href="{{ "search/" | relURL }}">Search</a>
     </nav>
   </header>
 
@@ -253,7 +257,7 @@
     {{ block "main" . }}{{ end }}
   </main>
 
-  <footer class="site-footer">
+  <footer class="site-footer" data-pagefind-ignore="all">
     Podcast Atlas
   </footer>
 </body>

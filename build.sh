@@ -112,6 +112,10 @@ main() {
   # Build the project
   echo "Building the project..."
   hugo build --gc --minify --cleanDestinationDir "$@"
+
+  # Build the full-site search index after Hugo has produced every HTML page
+  echo "Building the Pagefind search index..."
+  ./node_modules/.bin/pagefind --site public
 }
 
 main "$@"
