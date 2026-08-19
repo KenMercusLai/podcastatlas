@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？](sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db.md) — 芮淇讲透资治通鉴 episode opening 周纪三 through Mencius's non-killing unification claim, the failed five-state attack on Qin at Hangu Pass, and Song Kang Wang's violent rise and destruction.
 - [《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？](sources/zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r.md) — 芮淇讲透资治通鉴 episode on Han Xuanhui Wang's proposed two-chief-minister arrangement, Miu Liu's warning about dual power centers, and the qualified lesson that both shared and concentrated executive power can fail.
 - [《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？](sources/zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix.md) — 芮淇讲透资治通鉴 episode on Mengchang Jun's retainers killing Zhao locals after public mockery and his later conversion of a wife's-affair retainer into Wey-side diplomatic leverage for Qi.
 - [《资治通鉴·周纪》42丨给孟尝君提意见的后果](sources/zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf.md) — 芮淇讲透资治通鉴 episode on Sima Guang's two-sided Mengchang Jun judgment: criticism of indiscriminate private retainer patronage and praise for content-over-motive remonstrance in the ivory-bed story.
@@ -1054,6 +1055,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
+- [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
 - [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames the episode's ridicule and retainer-violence scene.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
@@ -1079,7 +1082,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [肥义 / Fei Yi](entities/FeiYi.md) — Senior Zhao minister honored by Zhao Wuling Wang as part of the new-ruler signaling sequence.
 - [犀首公孙衍 / Gongsun Yan](entities/GongsunYan.md) — Wei-born strategist/title-holder whom Qin uses to disrupt the Qi-Wei-Zhao side of hezong, later previewed as Zhang Yi's rival.
 - [楚怀王 / King Huai of Chu](entities/ChuHuaiwang.md) — Chu Wei Wang's son and successor in the 329 BCE notice, previewing the later dramatic Chu branch.
-- [宋君偃 / Lord Yan of Song](entities/SongJunYan.md) — Song Ticheng's younger brother who overthrows him and makes Song a more active small-state problem.
+- [宋康王 / 宋君偃 / King Kang of Song](entities/SongJunYan.md) — Song Ticheng's younger brother whose usurpation, kingly title, violent expansion, and cruelty lead to Song's destruction.
 - [殷晋 / Yinjin](entities/Yinjin.md) — Wei place tied to Gongsun Yan's origin and ceded to Qin during the 332 BCE peace settlement.
 - [蒲阳 / Puyang (Warring States)](entities/PuyangWarringStates.md) — Wei place Qin captures and then returns as the visible concession in Zhang Yi's Shangjun maneuver.
 - [上郡 / Shangjun](entities/Shangjun.md) — Fifteen-county Wei territory yielded to Qin after Zhang Yi frames the return of Puyang as Qin generosity.
@@ -7093,6 +7096,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian claim that durable unification comes from a ruler who does not love killing and can attract people exhausted by violence.
+- [Coalition Self-Preservation Failure / 联盟自保失灵](concepts/CoalitionSelfPreservationFailure.md) — Alliance failure mode where states share an enemy but each preserves its own forces and waits for another ally to pay the first cost.
 - [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.
 - [Retainer Risk Conversion / 门客风险转化](concepts/RetainerRiskConversion.md) — Mengchang Jun pattern where a household-scandal retainer is separated with dignity and turned into outside diplomatic leverage.
 - [Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏](concepts/ContentOverMotiveRemonstrance.md) — Mengchang Jun advice-taking principle that evaluates correction by whether it prevents a real fault even when the speaker has private motives.

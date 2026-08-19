@@ -2,7 +2,7 @@
 title: "合纵 / Hezong Alliance"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
 last_updated: 2026-08-19
 ---
 
@@ -22,6 +22,8 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo]] qualifies the earlier Su Qin-centered picture. After Su Qin moves from Yan to Qi for [[StrategicLuxurySabotage|奢侈诱导式削弱]], the episode says [[GongsunYan|犀首公孙衍]] leaves Qin for [[WeiState|魏国]] and begins contacting the lords on Wei's behalf, opening history's "real" hezong business. This does not erase Su Qin's legendary hezong role; it separates the rhetorical/biographical Su Qin tradition from a later, more operational Gongsun Yan organizing line.
 
+[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] gives hezong a battlefield failure case in 318 BCE. Chu, Zhao, Wei, Han, and Yan reach [[HanguPass|函谷关]] against Qin with [[ChuHuaiwang|楚怀王]] as alliance leader, while Qi promises support but slow-walks its army through [[Mengchangjun|孟尝君 / 田文]]. The episode reads the collapse as [[CoalitionSelfPreservationFailure|联盟自保失灵]]: every state wants Qin checked, but none wants to spend its own strength first.
+
 The concept is therefore both diplomatic and historiographical. It names the kind of coalition Su Qin is famous for, while also recording this episode's caution that the chronicle's dating may compress or misplace a more complicated process.
 
 ## Key Claims
@@ -34,6 +36,7 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - In this source, the dramatic "six-state minister" image is important as reception, but its precise annalistic placement remains doubtful.
 - Zhouji 33 adds a second caution: even if the alliance is narratively successful, Shiji's long Qin-containment claim has to be tested against the shorter annalistic sequel.
 - Zhouji 37 adds a role distinction: Su Qin remains a key hezong figure in legend and rhetoric, while Gongsun Yan is presented as the practical anti-Qin organizer after returning to Wei.
+- Zhouji 45 adds an implementation warning: even a real anti-Qin army can fail if each member preserves its own forces and waits for another state to bear the first cost.
 
 ## Connections
 - [[SuQin|苏秦]], [[ZhaoSuhou|赵肃侯]], [[HanXuanhuiwang|韩宣惠王]], and [[ChuWeiwang|楚威王]] - strategist and rulers attached to the policy in the source sequence.
@@ -43,3 +46,4 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - [[LianhengStrategy|连横]] and [[ZonghengjiaDiplomacy|纵横家外交]] - rival diplomatic logic and broader persuader-diplomacy field.
 - [[GongsunYan|犀首公孙衍]], [[ZhangYiStrategist|张仪]], [[Niesang|啮桑]], and [[StrategicLuxurySabotage|奢侈诱导式削弱]] - Zhouji 37 operational organizer, rival strategist meeting, and Su Qin's separate anti-Qi maneuver.
 - [[HanguPass|函谷关]] and [[ChronicleChronologyDrift|编年错位]] - claimed Qin-containment marker and dating/effectiveness caution attached to this source's hezong notice.
+- [[ChuHuaiwang|楚怀王]], [[Mengchangjun|孟尝君 / 田文]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 Hangu Pass failure branch.

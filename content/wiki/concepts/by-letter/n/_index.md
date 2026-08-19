@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 4750
+wiki_total_pages: 4752
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "NonInstrumentalUnderstanding"
     title: "Non-Instrumental Understanding"
     url: "/wiki/concepts/noninstrumentalunderstanding/"
+  - key: "NonKillingUnification"
+    title: "Non-Killing Unification / 不爱杀人者能一之"
+    url: "/wiki/concepts/nonkillingunification/"
   - key: "NonMoralPoliticalAnalysis"
     title: "Non-Moral Political Analysis"
     url: "/wiki/concepts/nonmoralpoliticalanalysis/"

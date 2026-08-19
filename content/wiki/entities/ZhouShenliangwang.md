@@ -2,7 +2,7 @@
 title: "周慎靓王 / Zhou Shenliang Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
 last_updated: 2026-08-19
 ---
 
@@ -12,8 +12,11 @@ last_updated: 2026-08-19
 
 The episode does not develop his reign. His wiki role is to mark the closing handoff after Zhou Xian Wang's forty-eight-year annalistic frame, before the source turns to Yan succession and the Qi/Tian-family story.
 
+[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] makes his reign the first half of the 周纪三 frame. The episode says 周纪三 covers 320-298 BCE, combining Zhou Shenliang Wang's six years with the first seventeen years of [[ZhouNanwang|周赧王]].
+
 ## Connections
 - [[ZhouXianwang|周显王]] - predecessor and father in the source notice.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
 - [[WarringStatesPeriod|战国时期]] - period setting in which Zhou succession frames stronger-state politics.
+- [[ZhouNanwang|周赧王]] - successor whose early reign completes this episode's 周纪三 range.

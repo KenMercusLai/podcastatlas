@@ -2,7 +2,7 @@
 title: "周王室 / Zhou Royal House"
 type: entity
 tags: [polity, pre-qin, zhou-dynasty, china]
-sources: [zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -30,6 +30,8 @@ The page's role is chronological and legitimating: even as the episode moves thr
 
 [[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] closes [[ZhouXianwang|周显王]]'s long reign in 321 BCE. [[ZhouShenliangwang|周慎靓王 / 周慎亮王]] succeeds him, but the source gives the Zhou handoff only briefly before moving to [[YanState|燕国]] succession and the [[QiState|齐国]] Tian-family story.
 
+[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] opens the next annalistic volume by defining 周纪三 as 320-298 BCE. The frame now includes the six-year reign of [[ZhouShenliangwang|周慎靓王]] and the first seventeen years of [[ZhouNanwang|周赧王]], while substantive power remains with states such as Qin, Wei, Qi, Chu, Han, Zhao, Yan, and Song.
+
 ## Connections
 - [[ZhouWeilieWang|周威烈王]] and [[ZhouAnWang|周安王]] - succession pair in the source.
 - [[ThreeJinVassalRecognition|三晋受封]], [[PartitionOfJin]], [[WeiWenhou|魏文侯]], [[ZhaoLiehou|赵烈侯]], and [[HanJinghou|韩景侯]] - Zhouji 04 formal-recognition branch.
@@ -44,3 +46,4 @@ The page's role is chronological and legitimating: even as the episode moves thr
 - [[EasternZhouPolity|东周国]], [[WesternZhouPolity|西周国]], [[EasternWesternZhouSplit]], and [[HanState|韩国]] - Zhouji 16 royal-domain split and attack branch.
 - [[Luoyi|洛邑]], [[AudienceVsMeetingDiplomacy]], [[QinXiaogong|秦孝公]], [[Fengze|逢泽]], and [[ZhouHegemonRecognition]] - Zhouji 18 royal meeting and recognition branch.
 - [[ZhouXianwang|周显王]], [[ZhouShenliangwang|周慎靓王 / 周慎亮王]], [[YanState|燕国]], and [[QiState|齐国]] - Zhouji 40 final-year succession and shifted narrative center.
+- [[ZhouNanwang|周赧王]] - Zhouji 45 周纪三 frame after Zhou Shenliang Wang.

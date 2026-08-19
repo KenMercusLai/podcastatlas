@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6037
+wiki_total_pages: 6039
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1352,15 +1352,15 @@ wiki_pages:
   - key: "SongTicheng"
     title: "宋剔成 / Song Ticheng"
     url: "/wiki/entities/songticheng/"
-  - key: "SongJunYan"
-    title: "宋君偃 / Lord Yan of Song"
-    url: "/wiki/entities/songjunyan/"
   - key: "SongState"
     title: "宋国 / Song State"
     url: "/wiki/entities/songstate/"
   - key: "SongZiwen"
     title: "宋子文"
     url: "/wiki/entities/songziwen/"
+  - key: "SongJunYan"
+    title: "宋康王 / 宋君偃 / King Kang of Song"
+    url: "/wiki/entities/songjunyan/"
   - key: "SongDaogong"
     title: "宋悼公 / Duke Dao of Song"
     url: "/wiki/entities/songdaogong/"

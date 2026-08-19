@@ -2,7 +2,7 @@
 title: "宋国 / Song State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The episode also uses Song to connect later classical authority back to lineage:
 
 [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] gives Song a sharper political turn in 329 BCE. [[SongJunYan|宋君偃]], the younger brother of [[SongTicheng|宋剔成]], overthrows him; Song Ticheng flees to [[QiState|齐国]], and Yan rules Song. The episode emphasizes that Song is not one of the Seven Warring States but still has enough military and political force to matter later.
 
+[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] follows that warning through [[SongJunYan|宋康王 / 宋君偃]]. After claiming kingly title in 318 BCE, he expands against Qi, Chu, Wei, Xue, and Teng, but his cruelty turns strength into isolation. When Qi, Chu, and Wei attack, Song's people refuse to defend him; the ruler is killed, the land is divided, and Song disappears as a state. The episode uses Song as the direct negative case for [[NonKillingUnification|不爱杀人者能一之]] and [[PeopleBasedPoliticalSecurity|民心型政治安全]].
+
 ## Connections
 - [[SongDaogong|宋悼公]] and [[SongXiugong|宋休公]] - succession pair in the source.
 - [[WeiziQi|微子启]] - founding lineage figure in the episode.
@@ -40,3 +42,4 @@ The episode also uses Song to connect later classical authority back to lineage:
 - [[WeiState|魏国]], [[Shiji|《史记》]], [[ZhouXianwang|周显王]], and [[TerritorialControlChurn]] - Zhouji 11 Wei attack and territorial-loss branch.
 - [[ZhaoState|赵国]], [[QiState|齐国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 14 Pinglu meeting notice.
 - [[TaiqiuShe|宋太丘社]], [[MandateOfHeavenLegitimacy|天命合法性]], and [[NaturalDisasterPoliticalOmen]] - Zhouji 26 unresolved omen branch.
+- [[SongJunYan|宋康王 / 宋君偃]], [[QiState|齐国]], [[ChuState|楚国]], [[WeiState|魏国]], [[NonKillingUnification|不爱杀人者能一之]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 45 expansion, cruelty, and destruction branch.

@@ -2,7 +2,7 @@
 title: "孟子 / Mencius"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin, confucianism]
-sources: [zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 
 [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] adds Mencius's first appearance inside the [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] Zhouji sequence. The episode narrows in on his meeting with [[LiangHuiWang|魏惠王 / 梁惠王]] and argues that "何必曰利" should be read through [[RenyiBenefitOrdering|仁义优先的利益秩序]]: Mencius resists profit-first language, not the idea that renyi should benefit the people.
 
+[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] returns Mencius to the Zhouji sequence through his meeting with [[WeiXiangwang|魏襄王]]. After judging the new Wei ruler as lacking kingly presence, Mencius says the realm can be settled only through unity and that the ruler able to unify will be one who does not love killing. The episode uses this exchange to add [[NonKillingUnification|不爱杀人者能一之]] to the wiki's Mencian legitimacy cluster.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[MenciusText|《孟子》]] - text preserving the dialogue material used by the episode.
@@ -25,3 +27,4 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 - [[EarlyConfucianResistancePolitics]], [[RighteousnessOverProfit]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], [[ConstantPropertyConstantHeart]], and [[MencianPeopleBasedLegitimacy]] - main concept cluster.
 - [[RespectForEldersTradition]] and [[ElderCareStateCapacity]] - elder-care extension added by episode 165.
 - [[Zisi|子思]], [[SimaGuang|司马光]], [[RenyiBenefitOrdering|仁义优先的利益秩序]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26's renyi-benefit and Song-reception extension.
+- [[WeiXiangwang|魏襄王]], [[NonKillingUnification|不爱杀人者能一之]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 45's unity, killing, and popular-attraction extension.

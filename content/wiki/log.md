@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？
+
+Added source page for a 芮淇讲透资治通鉴 episode opening 周纪三 (320-298 BCE), Mencius's meeting with Wei Xiang Wang and the "不爱杀人者能一之" claim, the failed 318 BCE five-state attack on Qin at Hangu Pass, and Song Kang Wang's violent expansion and destruction. Created Wei Xiang Wang, Zhou Nan Wang, Non-Killing Unification, and Coalition Self-Preservation Failure; updated overview, index, Mencius/Mencius Text, Song Kang Wang/Song State, hezong/common-enemy alliance, Hangu Pass, Zhou/Qi/Wei/Qin/Han/Chu/Zhao/Yan state pages, and Liu Bang/Xiang Yu/Western Han comparison pages. No direct contradiction found; kept the Qi succession notice aligned with the existing Qi chronology correction and treated Qin's conquest as a short-term-vs-durable-order tension rather than a flat refutation of Mencius.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》34丨秦国总理如何玩转六国
 
 Added source page for a 芮淇讲透资治通鉴 episode on 332-328 BCE Qin pressure after Su Qin's hezong triumph: Qin uses Gongsun Yan to disrupt the Qi-Wei-Zhao side of the alliance, Wei repeatedly yields territory under Qin attack, Chu Huai Wang and Song Jun Yan enter through succession and coup notices, and Zhang Yi turns the return of Puyang plus hostage signaling into Shangjun's fifteen counties. Created Gongsun Yan, Chu Huai Wang, Song Jun Yan, Yinjin, Puyang, Shangjun, Jiaoyi, Quwo, Shaoliang, Hexi, and Strategic Concession Diplomacy; updated overview, index, Zhang Yi, Qin State, Wei State, Su Qin, Zhao Suhou, Ying Si, Chu Wei Wang, Chu State, Song State, Song Ticheng, Zhou Xian Wang, Qi State, Yan State, Hangu Pass, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Lianheng Strategy, Zonghengjia Diplomacy, Qin Eastward Pressure, and Chronicle Chronology Drift. The Shiji/Zizhi Tongjian Hangu Pass conflict is now recorded as a concrete contradiction: the annalistic sequel has Qin acting again within a few years, not remaining inert for fifteen years.
@@ -8427,6 +8431,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] ingest | 《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Han Xuanhui Wang's proposed appointment of Gongzhong and Gongshu as joint chief ministers, Miu Liu's warning that dual executives can create factions and foreign-backed competition, and the host's qualification that a single unchecked minister can also become dangerous. Created pages for Miu Liu, Gongzhong of Han, Gongshu of Han, and Dual Executive Power Risk; updated overview, index, Han Xuanhui Wang, Han State, Zhou Xian Wang, Zizhi Tongjian, Zhanguo Ce, Sima Guang, Ruiqi Jiangtou Zizhi Tongjian, Zhang Yi, Gongsun Yan, Qi State, Wei State, Partition of Jin, and Song Factional Politics. No direct contradiction found; the source's 321 BCE placement remains marked as a Sima Guang source-selection issue rather than a fully settled chronology claim.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 
