@@ -2,7 +2,7 @@
 title: "孟尝君 / Tian Wen"
 type: entity
 tags: [person, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+sources: [zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
 last_updated: 2026-08-19
 ---
 
@@ -22,10 +22,15 @@ After recognition, Tian Wen does not immediately challenge his more than forty b
 
 That reputation eventually makes outsiders recommend Tian Wen as heir. After Tian Ying dies, Tian Wen inherits [[XueWarringStates|薛地]] and becomes Mengchang Jun. The same source then presents him as a major patron in [[WarringStatesRetainerPatronage|战国养士]], housing and feeding large numbers of wandering士人, retainers, and fugitives while extending support to their relatives.
 
+[[zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf]] adds [[SimaGuang|司马光]]'s two-sided judgment of that fame. Sima Guang criticizes Mengchang Jun's养士 when it gathers贤愚善恶 indiscriminately and converts state-derived resources into private power, but he does not treat Mengchang Jun as all fault.
+
+The same episode gives Mengchang Jun a positive advice-taking case. In [[ChuState|楚国]], the source says the Chu king offers him an ivory bed; in this chronological branch the wiki links that ruler to [[ChuHuaiwang|楚怀王]]. [[GongsunXu|公孙须]] advises him to refuse it after [[DengTuzhi|邓图直]] privately asks for help, and Mengchang Jun accepts the argument even after learning the adviser had a private reward motive. The episode therefore makes him the central example of [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]].
+
 ## Connections
 - [[TianYing|田婴]] - father, gatekeeper to recognition, and source of the household office that lets Tian Wen build reputation.
 - [[QiState|齐国]] and [[TianFamilyReplacementOfQi|田氏代齐]] - dynastic and state context.
 - [[XueWarringStates|薛地]] - inherited fief and later retainer-patronage base.
 - [[BirthTabooSuccessionExclusion|出生日禁忌与继承排斥]] - source concept explaining his initial rejection.
 - [[WarringStatesRetainerPatronage|战国养士]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - later patronage and士人 dignity context.
+- [[SimaGuang|司马光]], [[GongsunXu|公孙须]], [[DengTuzhi|邓图直]], and [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - Zhouji 42 criticism and advice-taking branch.
 - [[TianWenWeiChancellor|田文 / Tian Wen (Wei chancellor)]] - disambiguation from an earlier different Tian Wen.

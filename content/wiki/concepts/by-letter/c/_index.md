@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4747
+wiki_total_pages: 4748
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "ContentEngineering"
     title: "Content Engineering"
     url: "/wiki/concepts/contentengineering/"
+  - key: "ContentOverMotiveRemonstrance"
+    title: "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏"
+    url: "/wiki/concepts/contentovermotiveremonstrance/"
   - key: "ContestedForensicAttribution"
     title: "Contested Forensic Attribution"
     url: "/wiki/concepts/contestedforensicattribution/"

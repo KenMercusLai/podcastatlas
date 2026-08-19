@@ -2,7 +2,7 @@
 title: "Warring States Retainer Patronage / 战国养士"
 type: concept
 tags: [statecraft, talent, patronage, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
+sources: [zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
 last_updated: 2026-08-19
 ---
 
@@ -14,12 +14,15 @@ The concept has both a demand side and a supply side. On the patron side, Mengch
 
 This differs from simple generosity. The episode stresses礼数 and self-respect: giving works because it preserves the receiver's dignity. That makes the system adjacent to [[RetainerReciprocityEthic|士为知己者死]] and [[AristocraticHonorOverLife|贵族名誉高于生命]], but also unstable. The same dignity sensitivity that makes recognition powerful can make small slights feel intolerable, as in the banquet story where a guest mistakes lighting for unequal treatment and kills himself after the misunderstanding is corrected.
 
+[[zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf]] adds [[SimaGuang|司马光]]'s ethical test for the same system. For Sima Guang,养士 is legitimate when it supports worthy people so they can serve the state and the people; it becomes corrupt when a lord indiscriminately gathers capable and incapable, good and bad, into a private force. The episode therefore turns this page from a mechanism description into a two-sided concept: patronage can be talent infrastructure, but it can also be private power built from public wealth.
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
 - Respect is not ornamental. The episode treats dignity protection as the mechanism that makes material support feel like recognition rather than charity.
 - Large-scale养士 can magnify a lord's reputation, but it also imports volatile honor codes into political life.
 - The system sits between [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] and [[WarringStatesCareeristMobility|乱世职业经理人式流动]]: it is both a patron's recruitment design and a mobile professional class's survival strategy.
+- Sima Guang's critique adds a public-purpose gate: without selection for virtue and public service, retainer patronage can become private clique-building.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -27,3 +30,4 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 - [[WuQi|吴起]], [[ShangYang|公孙鞅 / 商鞅]], [[SuQin|苏秦]], and [[ZhangYiStrategist|张仪]] - examples of later-famous men connected to the wandering士 supply side.
 - [[RetainerReciprocityEthic|士为知己者死]] and [[AristocraticHonorOverLife|贵族名誉高于生命]] - recognition and dignity-over-survival honor codes.
 - [[TalentAttractionThroughRespect]] and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - adjacent talent-attraction and mobility concepts.
+- [[SimaGuang|司马光]] and [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - Zhouji 42 critique of indiscriminate patronage and positive advice-use counterpoint.

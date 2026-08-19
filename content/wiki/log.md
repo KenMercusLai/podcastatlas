@@ -8407,3 +8407,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Tian Wen overcoming 
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》42丨给孟尝君提意见的后果
+
+Added source page for a 芮淇讲透资治通鉴 episode on Sima Guang's two-sided judgment of Mengchang Jun: indiscriminate养士 is criticized as private power built from state-derived resources, while the ivory-bed story praises Mengchang Jun's ability to accept correct advice despite the adviser's private motive. Created pages for Gongsun Xu, Deng Tuzhi, and Content-Over-Motive Remonstrance; updated overview, index, Mengchangjun, Xue, Qi State, Warring States Period, Sima Guang, Chu Huai Wang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Warring States Retainer Patronage, Court Feedback Collapse, and Untimely Extravagance. No direct contradiction found; the source qualifies Zhouji 41 by separating the mechanics of patronage from Sima Guang's public-purpose critique.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

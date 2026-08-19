@@ -9771,6 +9771,10 @@
     "title": "Content Engineering",
     "url": "/wiki/concepts/contentengineering/"
   },
+  "ContentOverMotiveRemonstrance": {
+    "title": "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏",
+    "url": "/wiki/concepts/contentovermotiveremonstrance/"
+  },
   "ContestedForensicAttribution": {
     "title": "Contested Forensic Attribution",
     "url": "/wiki/concepts/contestedforensicattribution/"
@@ -11398,6 +11402,10 @@
   "DengLaoban": {
     "title": "邓老板",
     "url": "/wiki/entities/denglaoban/"
+  },
+  "DengTuzhi": {
+    "title": "邓图直 / Deng Tuzhi",
+    "url": "/wiki/entities/dengtuzhi/"
   },
   "DenisJohnsonBicycle": {
     "title": "Denis Johnson (Bicycle)",
@@ -16674,6 +16682,10 @@
   "GongsunQi": {
     "title": "公孙齐 / Gongsun Qi",
     "url": "/wiki/entities/gongsunqi/"
+  },
+  "GongsunXu": {
+    "title": "公孙须 / Gongsun Xu",
+    "url": "/wiki/entities/gongsunxu/"
   },
   "GongsunYan": {
     "title": "犀首公孙衍 / Gongsun Yan",
@@ -47286,5 +47298,9 @@
   "zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4": {
     "title": "《资治通鉴·周纪》41丨孟尝君：我是如何打败这40多位哥哥的",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4/"
+  },
+  "zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf": {
+    "title": "《资治通鉴·周纪》42丨给孟尝君提意见的后果",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf/"
   }
 }
