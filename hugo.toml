@@ -3,7 +3,7 @@ locale = 'en-us'
 title = 'Podcast Atlas'
 theme = 'hugo-xmin'
 preview_urls = false
-ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$']
+ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$', '(^|/)content/wiki/overview\.md$']
 
 [caches]
   [caches.images]

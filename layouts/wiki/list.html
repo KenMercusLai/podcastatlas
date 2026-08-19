@@ -1,8 +1,19 @@
 {{ define "main" }}
-  {{ if eq .RelPermalink ("/wiki/" | relURL) }}
+  {{ if .Params.wiki_projection }}
+    <article>
+      {{ if not (findRE `(?m)^#\s+` .RawContent 1) }}
+        <h1>{{ .Title }}</h1>
+      {{ end }}
+      <div class="content">
+        {{ partial "wiki-content.html" . }}
+      </div>
+    </article>
+  {{ else if eq .Path "/wiki" }}
     <h1>{{ .Title }}</h1>
 
-    {{ $overview := .Site.GetPage "/wiki/overview" }}
+    {{ $overview := .Site.GetPage "/wiki-projections/overview" }}
+    {{ $updateHistory := .Site.GetPage "/wiki-projections/update-history" }}
+    {{ $openQuestions := .Site.GetPage "/wiki-projections/open-questions" }}
     {{ $stats := .Site.GetPage "/wiki/stats" }}
     {{ $concepts := .Site.GetPage "/wiki/concepts" }}
     {{ $entities := .Site.GetPage "/wiki/entities" }}
@@ -16,6 +27,24 @@
             <div class="page-meta">Living synthesis across all sources</div>
           </div>
           <span class="wiki-section-count">1 page</span>
+        </li>
+      {{ end }}
+      {{ with $updateHistory }}
+        <li>
+          <div>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="page-meta">Overview updates grouped by Git history date</div>
+          </div>
+          <span class="wiki-section-count">Daily archive</span>
+        </li>
+      {{ end }}
+      {{ with $openQuestions }}
+        <li>
+          <div>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="page-meta">Current unanswered questions</div>
+          </div>
+          <span class="wiki-section-count">Current</span>
         </li>
       {{ end }}
       {{ with $stats }}

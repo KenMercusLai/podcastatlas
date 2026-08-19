@@ -101,6 +101,10 @@ main() {
     npm ci
   fi
 
+  # Derive the public overview, daily update history, and open questions
+  echo "Preparing overview projections..."
+  python3 scripts/prepare-overview-projections.py
+
   # Prepare generated wiki indexes and link data
   echo "Preparing wiki content..."
   python3 scripts/prepare-wiki-content.py
