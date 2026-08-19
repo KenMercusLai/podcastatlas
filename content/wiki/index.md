@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？](sources/zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r.md) — 芮淇讲透资治通鉴 episode on Han Xuanhui Wang's proposed two-chief-minister arrangement, Miu Liu's warning about dual power centers, and the qualified lesson that both shared and concentrated executive power can fail.
 - [《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？](sources/zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix.md) — 芮淇讲透资治通鉴 episode on Mengchang Jun's retainers killing Zhao locals after public mockery and his later conversion of a wife's-affair retainer into Wey-side diplomatic leverage for Qi.
 - [《资治通鉴·周纪》42丨给孟尝君提意见的后果](sources/zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf.md) — 芮淇讲透资治通鉴 episode on Sima Guang's two-sided Mengchang Jun judgment: criticism of indiscriminate private retainer patronage and praise for content-over-motive remonstrance in the ivory-bed story.
 - [《资治通鉴·周纪》41丨孟尝君：我是如何打败这40多位哥哥的](sources/zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4.md) — 芮淇讲透资治通鉴 episode on Tian Wen winning Tian Ying's acceptance, turning household guest management into heir status, inheriting Xue as Mengchangjun, and opening the Warring States retainer-patronage question.
@@ -1092,6 +1093,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
 - [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
 - [韩宣惠王 / King Xuanhui of Han](entities/HanXuanhuiwang.md) — Han successor after Han Zhaohou's death in the Zhouji 29 succession cluster.
+- [谬刘 / Miu Liu](entities/MiuLiu.md) — Han adviser who warns Han Xuanhui Wang against appointing two joint chief ministers.
+- [公众 / Gongzhong of Han](entities/GongzhongHan.md) — Han ruling-house kinsman proposed as one of Han Xuanhui Wang's two chief ministers.
+- [公叔 / Gongshu of Han](entities/GongshuHan.md) — Han ruling-house kinsman proposed as one of Han Xuanhui Wang's two chief ministers, distinct from the Wei chancellor 公叔痤.
 - [燕文公 / Duke Wen of Yan](entities/YanWengong.md) — Yan ruler who succeeds Yan Huan Gong in 362 BCE and later funds Su Qin after hearing the Zhao-as-shield argument.
 - [燕易王 / King Yi of Yan](entities/YanYiwang.md) — Yan successor after Yan Wen Gong in the Zhouji 29 succession notice.
 - [魏成侯 / Marquis Cheng of Wei](entities/WeiChenghou.md) — Wei ruler whose death opens the Zhouji 29 Wei succession notice.
@@ -7089,6 +7093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.
 - [Retainer Risk Conversion / 门客风险转化](concepts/RetainerRiskConversion.md) — Mengchang Jun pattern where a household-scandal retainer is separated with dignity and turned into outside diplomatic leverage.
 - [Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏](concepts/ContentOverMotiveRemonstrance.md) — Mengchang Jun advice-taking principle that evaluates correction by whether it prevents a real fault even when the speaker has private motives.
 - [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Mengchangjun's Xue-based system of materially supporting mobile retainers, fugitives, and scholars while managing their dignity and loyalty.

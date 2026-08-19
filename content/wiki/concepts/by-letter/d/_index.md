@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 4749
+wiki_total_pages: 4750
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "DryElectrodeManufacturing"
     title: "Dry Electrode Manufacturing"
     url: "/wiki/concepts/dryelectrodemanufacturing/"
+  - key: "DualExecutivePowerRisk"
+    title: "Dual Executive Power Risk / 双首长权力风险"
+    url: "/wiki/concepts/dualexecutivepowerrisk/"
   - key: "DualPayloadADC"
     title: "Dual-Payload ADC"
     url: "/wiki/concepts/dualpayloadadc/"

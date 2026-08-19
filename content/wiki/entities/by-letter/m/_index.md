@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6034
+wiki_total_pages: 6037
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "MiaEcommerce"
     title: "蜜芽 / Mia"
     url: "/wiki/entities/miaecommerce/"
+  - key: "MiuLiu"
+    title: "谬刘 / Miu Liu"
+    url: "/wiki/entities/miuliu/"
   - key: "Mianji"
     title: "面基"
     url: "/wiki/entities/mianji/"

@@ -12311,6 +12311,10 @@
     "title": "《杜子春》",
     "url": "/wiki/entities/duzichun/"
   },
+  "DualExecutivePowerRisk": {
+    "title": "Dual Executive Power Risk / 双首长权力风险",
+    "url": "/wiki/concepts/dualexecutivepowerrisk/"
+  },
   "DualManuscriptNarration": {
     "title": "双手稿叙事 / Dual Manuscript Narration",
     "url": "/wiki/concepts/dualmanuscriptnarration/"
@@ -16671,6 +16675,10 @@
     "title": "龚宇",
     "url": "/wiki/entities/gongyu/"
   },
+  "GongshuHan": {
+    "title": "公叔 / Gongshu of Han",
+    "url": "/wiki/entities/gongshuhan/"
+  },
   "GongshuWeiChancellor": {
     "title": "公叔 / Gongshu (Wei chancellor)",
     "url": "/wiki/entities/gongshuweichancellor/"
@@ -16690,6 +16698,10 @@
   "GongsunYan": {
     "title": "犀首公孙衍 / Gongsun Yan",
     "url": "/wiki/entities/gongsunyan/"
+  },
+  "GongzhongHan": {
+    "title": "公众 / Gongzhong of Han",
+    "url": "/wiki/entities/gongzhonghan/"
   },
   "GongzhongHuan": {
     "title": "公中缓 / Gongzhong Huan",
@@ -26442,6 +26454,10 @@
   "MitsumiElectric": {
     "title": "三美电机",
     "url": "/wiki/entities/mitsumielectric/"
+  },
+  "MiuLiu": {
+    "title": "谬刘 / Miu Liu",
+    "url": "/wiki/entities/miuliu/"
   },
   "MixedIncentiveContracts": {
     "title": "Mixed Incentive Contracts / 组合激励契约",
@@ -47314,5 +47330,9 @@
   "zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix": {
     "title": "《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix/"
+  },
+  "zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r": {
+    "title": "《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r/"
   }
 }

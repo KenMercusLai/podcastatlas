@@ -8423,3 +8423,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Han Xuanhui Wang's proposed appointment of Gongzhong and Gongshu as joint chief ministers, Miu Liu's warning that dual executives can create factions and foreign-backed competition, and the host's qualification that a single unchecked minister can also become dangerous. Created pages for Miu Liu, Gongzhong of Han, Gongshu of Han, and Dual Executive Power Risk; updated overview, index, Han Xuanhui Wang, Han State, Zhou Xian Wang, Zizhi Tongjian, Zhanguo Ce, Sima Guang, Ruiqi Jiangtou Zizhi Tongjian, Zhang Yi, Gongsun Yan, Qi State, Wei State, Partition of Jin, and Song Factional Politics. No direct contradiction found; the source's 321 BCE placement remains marked as a Sima Guang source-selection issue rather than a fully settled chronology claim.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

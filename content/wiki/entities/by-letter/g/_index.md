@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6034
+wiki_total_pages: 6037
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -629,9 +629,15 @@ wiki_pages:
   - key: "GongzhongHuan"
     title: "公中缓 / Gongzhong Huan"
     url: "/wiki/entities/gongzhonghuan/"
+  - key: "GongzhongHan"
+    title: "公众 / Gongzhong of Han"
+    url: "/wiki/entities/gongzhonghan/"
   - key: "GongshuWeiChancellor"
     title: "公叔 / Gongshu (Wei chancellor)"
     url: "/wiki/entities/gongshuweichancellor/"
+  - key: "GongshuHan"
+    title: "公叔 / Gongshu of Han"
+    url: "/wiki/entities/gongshuhan/"
   - key: "GongziAng"
     title: "公子卬 / Gongzi Ang"
     url: "/wiki/entities/gongziang/"

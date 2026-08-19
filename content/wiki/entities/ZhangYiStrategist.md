@@ -2,7 +2,7 @@
 title: "张仪 / Zhang Yi (Warring States strategist)"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ The episode previews their later strategic contrast: Su Qin works the [[HezongAl
 
 [[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] follows the same ambiguity into Wei court politics. [[YingSi|秦惠文王]] keeps rewarding Zhang Yi despite his failure to make Wei serve Qin, and the episode reads that favor as [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]]. Inside Wei, Zhang Yi defeats [[HuiShi|惠施 / 惠师]] over the Qin-Han-Wei versus Qi-Chu line, helps push Hui Shi out of Wei, and then blocks [[ChenZhenWarringStates|陈枕]] before Chen can establish himself. This extends Zhang Yi from a mobile strategist into a court operator who can use favor, policy framing, and preemptive accusation together.
 
+[[zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]] cites Zhang Yi retrospectively through [[MiuLiu|谬刘]]'s warning to [[HanXuanhuiwang|韩宣惠王]]. Zhang Yi's paired presence with [[GongsunYan|犀首公孙衍]] in Wei becomes an example of [[DualExecutivePowerRisk|双首长权力风险]], because competing high ministers can turn strategy into factional power and territorial loss.
+
 ## Connections
 - [[SuQin|苏秦]] - fellow student, rival, and figure whose hezong success makes Zhang Yi's later path meaningful.
 - [[Guiguzi|鬼谷子]] - teacher tradition named by the source.
@@ -34,4 +36,5 @@ The episode previews their later strategic contrast: Su Qin works the [[HezongAl
 - [[ShanchengWarringStates|陕城]], [[Niesang|啮桑]], [[GongsunYan|犀首公孙衍]], [[QiState|齐国]], and [[ChuState|楚国]] - Zhouji 37 campaign, meeting diplomacy, and rival-strategist setup.
 - [[QinWuwang|秦武王]], [[QiMinWang|齐湣王]], [[FengXiWarringStates|冯喜]], [[YinmouYangmouConversion|阴谋阳谋转换]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 38 source supplement, disclosure tactic, and "part-time" Wei post.
 - [[HuiShi|惠施 / 惠师]], [[ChenZhenWarringStates|陈枕]], [[ZuoShuang|左爽]], [[FengHaoWarringStates|冯浩]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[SituationalPoliticalPivot|因事立道式政治转身]] - Zhouji 39 Wei court struggle, preemptive accusation, and adaptive counter-move.
+- [[MiuLiu|谬刘]], [[HanXuanhuiwang|韩宣惠王]], [[GongsunYan|犀首公孙衍]], and [[DualExecutivePowerRisk|双首长权力风险]] - Zhouji 44 retrospective two-minister warning.
 - [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and historical frame.
