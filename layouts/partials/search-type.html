@@ -1,0 +1,25 @@
+{{- $type := .Kind | title -}}
+{{- if .IsHome -}}
+  {{- $type = "Home" -}}
+{{- else if and (eq .Kind "page") (eq .Section "episodes") -}}
+  {{- $type = "Episode" -}}
+{{- else if and (eq .Kind "page") (eq .Section "wiki") -}}
+  {{- with .Params.type -}}
+    {{- $type = . | title -}}
+  {{- else -}}
+    {{- $type = "Wiki" -}}
+  {{- end -}}
+{{- else if eq .Kind "term" -}}
+  {{- if eq .Data.Singular "show" -}}
+    {{- $type = "Show" -}}
+  {{- else if eq .Data.Singular "tag" -}}
+    {{- $type = "Tag" -}}
+  {{- else if eq .Data.Singular "category" -}}
+    {{- $type = "Category" -}}
+  {{- else -}}
+    {{- $type = "Term" -}}
+  {{- end -}}
+{{- else if eq .Kind "taxonomy" -}}
+  {{- $type = "Taxonomy" -}}
+{{- end -}}
+{{- $type -}}

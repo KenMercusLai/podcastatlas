@@ -1,0 +1,35 @@
+{{ define "head_extra" }}
+  <link rel="stylesheet" href="{{ "pagefind/pagefind-component-ui.css" | relURL }}">
+  <style>
+    .search-results-layout {
+      display: grid;
+      grid-template-columns: minmax(180px, 0.3fr) minmax(0, 1fr);
+      gap: 24px;
+      align-items: start;
+      margin-top: 24px;
+    }
+
+    @media (max-width: 640px) {
+      .search-results-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+{{ end }}
+
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <p class="lede">Search every published page in Podcast Atlas.</p>
+  <div data-pagefind-ignore="all">
+    <pagefind-config
+      bundle-path="{{ "pagefind/" | relURL }}"
+    ></pagefind-config>
+    <pagefind-input></pagefind-input>
+    <pagefind-summary></pagefind-summary>
+    <div class="search-results-layout">
+      <pagefind-filter-pane></pagefind-filter-pane>
+      <pagefind-results></pagefind-results>
+    </div>
+  </div>
+  <script type="module" src="{{ "pagefind/pagefind-component-ui.js" | relURL }}"></script>
+{{ end }}

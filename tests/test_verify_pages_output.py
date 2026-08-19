@@ -25,14 +25,22 @@ class VerifyPagesOutputTest(unittest.TestCase):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
             public = Path(directory)
-            for relative in [
+            expected_paths = [
                 "episodes/index.html",
                 "tags/index.html",
                 "shows/index.html",
                 "wiki/index.html",
+                "search/index.html",
                 "episodes/example/index.html",
                 "episodes/example/index.md",
-            ]:
+                "pagefind/pagefind.js",
+                "pagefind/pagefind-component-ui.js",
+                "pagefind/pagefind-component-ui.css",
+                "pagefind/pagefind.en-us.pf_meta",
+                "pagefind/index/en-us_example.pf_index",
+                "pagefind/fragment/en-us_example.pf_fragment",
+            ]
+            for relative in expected_paths:
                 write(public / relative, "content")
             write(public / "index.xml", "<rss />")
             write(public / "episodes/index.xml", "<rss />")
@@ -41,7 +49,22 @@ class VerifyPagesOutputTest(unittest.TestCase):
             report = verifier.validate(public)
 
         self.assertEqual([], report["errors"])
-        self.assertEqual(9, report["file_count"])
+        self.assertEqual(len(expected_paths) + 3, report["file_count"])
+
+    def test_rejects_missing_pagefind_output(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            report = verifier.validate(Path(directory))
+
+        self.assertIn("missing required file: search/index.html", report["errors"])
+        self.assertIn("missing required file: pagefind/pagefind.js", report["errors"])
+        self.assertIn(
+            "missing required file: pagefind/pagefind-component-ui.js",
+            report["errors"],
+        )
+        self.assertIn("missing Pagefind metadata index", report["errors"])
+        self.assertIn("missing Pagefind search index", report["errors"])
+        self.assertIn("missing Pagefind result fragments", report["errors"])
 
     def test_rejects_taxonomy_rss(self):
         verifier = load_verifier()

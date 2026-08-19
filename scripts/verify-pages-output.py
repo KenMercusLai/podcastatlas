@@ -16,6 +16,10 @@ REQUIRED_FILES = (
     "tags/index.html",
     "shows/index.html",
     "wiki/index.html",
+    "search/index.html",
+    "pagefind/pagefind.js",
+    "pagefind/pagefind-component-ui.js",
+    "pagefind/pagefind-component-ui.css",
 )
 WIKI_LINK_RE = re.compile(r"\[\[[^\]\n]+\]\]")
 
@@ -33,6 +37,14 @@ def validate(public_dir: Path) -> dict:
     for relative in REQUIRED_FILES:
         if not (public_dir / relative).is_file():
             errors.append(f"missing required file: {relative}")
+
+    pagefind_dir = public_dir / "pagefind"
+    if not list(pagefind_dir.glob("*.pf_meta")):
+        errors.append("missing Pagefind metadata index")
+    if not list((pagefind_dir / "index").glob("*.pf_index")):
+        errors.append("missing Pagefind search index")
+    if not list((pagefind_dir / "fragment").glob("*.pf_fragment")):
+        errors.append("missing Pagefind result fragments")
 
     for section in ("tags", "shows", "categories"):
         section_dir = public_dir / section

@@ -27,6 +27,20 @@ class BuildScriptTest(unittest.TestCase):
 
         self.assertTrue(hugo_command.endswith('"$@"'))
 
+    def test_pagefind_indexes_the_complete_hugo_output_after_the_build(self):
+        build_script = (ROOT / "build.sh").read_text()
+        hugo_position = build_script.index(
+            'hugo build --gc --minify --cleanDestinationDir "$@"'
+        )
+        pagefind_command = "./node_modules/.bin/pagefind --site public"
+
+        self.assertIn(pagefind_command, build_script)
+        pagefind_position = build_script.index(pagefind_command)
+        pagefind_args = shlex.split(pagefind_command)
+        self.assertGreater(pagefind_position, hugo_position)
+        self.assertNotIn("--glob", pagefind_args)
+        self.assertNotIn("--exclude-selectors", pagefind_args)
+
 
 if __name__ == "__main__":
     unittest.main()
