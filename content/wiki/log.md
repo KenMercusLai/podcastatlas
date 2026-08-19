@@ -8163,6 +8163,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Zhou Xian Wang's reign, covering Qi's attack on Wei, Zhao's attack on Qi, Wei-Han coordination and defeat against Qin, Wei's attack on Song, Qin Xian Gong's Shimen victory, Zhou Xian Wang's 黻服 gift, and source-gap notices around blank years. Created pages for Shimen Battle, Fufu Robe, Qin Eastward Pressure, Ritual Recognition of Military Power, and Twelve Insignia Political Symbolism; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Zhou Royal House, Qin Xian Gong, Qin State, Wei State, Han State, Zhao State, Qi State, Song State, Liang Hui Wang, Shiji, Sima Guang, Warring States Period, Early Warring States Interstate War, Territorial Control Churn, Chronicle Source Gaps, Kinship Legitimacy Diplomacy, and Mandate of Heaven Legitimacy. No direct contradiction found; the source extends the previous Wei succession aftermath while keeping brief place names and battle figures source-scoped.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Mengchang Jun's retainer network under stress: retainers kill Zhao locals after public mockery of his stature, and a wife's-affair retainer is later sent to Wey where he prevents a Wey move against Qi. Created pages for Pingyuan Jun and Retainer Risk Conversion; updated overview, index, Mengchang Jun, Qi, Zhao, Wey, Xue, Shiji, Zhanguo Ce, Sima Qian, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Warring States Retainer Patronage, Aristocratic Honor Over Life, and Retainer Reciprocity Ethic. No direct contradiction found; the source qualifies Zhouji 41-42 by showing that Mengchang Jun's patronage network creates violence and household risk as well as diplomatic leverage.
+
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -8411,6 +8415,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] ingest | 《资治通鉴·周纪》42丨给孟尝君提意见的后果
 
 Added source page for a 芮淇讲透资治通鉴 episode on Sima Guang's two-sided judgment of Mengchang Jun: indiscriminate养士 is criticized as private power built from state-derived resources, while the ivory-bed story praises Mengchang Jun's ability to accept correct advice despite the adviser's private motive. Created pages for Gongsun Xu, Deng Tuzhi, and Content-Over-Motive Remonstrance; updated overview, index, Mengchangjun, Xue, Qi State, Warring States Period, Sima Guang, Chu Huai Wang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Warring States Retainer Patronage, Court Feedback Collapse, and Untimely Extravagance. No direct contradiction found; the source qualifies Zhouji 41 by separating the mechanics of patronage from Sima Guang's public-purpose critique.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

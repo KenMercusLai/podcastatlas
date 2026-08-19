@@ -30231,6 +30231,10 @@
     "title": "Pingyao Ancient City / 平遥古城",
     "url": "/wiki/entities/pingyaoancientcity/"
   },
+  "Pingyuanjun": {
+    "title": "平原君 / Lord Pingyuan",
+    "url": "/wiki/entities/pingyuanjun/"
+  },
   "PingzhouWarringStates": {
     "title": "平州 / Pingzhou (Warring States)",
     "url": "/wiki/entities/pingzhouwarringstates/"
@@ -33034,6 +33038,10 @@
   "RetainerReciprocityEthic": {
     "title": "Retainer Reciprocity Ethic / 士为知己者死",
     "url": "/wiki/concepts/retainerreciprocityethic/"
+  },
+  "RetainerRiskConversion": {
+    "title": "Retainer Risk Conversion / 门客风险转化",
+    "url": "/wiki/concepts/retainerriskconversion/"
   },
   "RetirementCashFlowSecurity": {
     "title": "Retirement Cash-Flow Security",
@@ -47302,5 +47310,9 @@
   "zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf": {
     "title": "《资治通鉴·周纪》42丨给孟尝君提意见的后果",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf/"
+  },
+  "zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix": {
+    "title": "《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix/"
   }
 }

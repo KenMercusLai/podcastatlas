@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？](sources/zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix.md) — 芮淇讲透资治通鉴 episode on Mengchang Jun's retainers killing Zhao locals after public mockery and his later conversion of a wife's-affair retainer into Wey-side diplomatic leverage for Qi.
 - [《资治通鉴·周纪》42丨给孟尝君提意见的后果](sources/zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf.md) — 芮淇讲透资治通鉴 episode on Sima Guang's two-sided Mengchang Jun judgment: criticism of indiscriminate private retainer patronage and praise for content-over-motive remonstrance in the ivory-bed story.
 - [《资治通鉴·周纪》41丨孟尝君：我是如何打败这40多位哥哥的](sources/zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4.md) — 芮淇讲透资治通鉴 episode on Tian Wen winning Tian Ying's acceptance, turning household guest management into heir status, inheriting Xue as Mengchangjun, and opening the Warring States retainer-patronage question.
 - [《资治通鉴·周纪》40丨5月出生的孩子惹谁啦？](sources/zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t.md) — 芮淇讲透资治通鉴 episode closing Zhou Xian Wang's reign in 321 BCE, recording Yan succession, and introducing Tian Ying's Xue fief warning plus Mengchangjun Tian Wen's May-fifth birth taboo.
@@ -1052,6 +1053,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames the episode's ridicule and retainer-violence scene.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
 - [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Tian Ying's son who overcomes birth-taboo exclusion, turns household guest service into reputation, inherits Xue, becomes a central retainer patron, and is praised for accepting useful correction.
@@ -7087,6 +7089,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Retainer Risk Conversion / 门客风险转化](concepts/RetainerRiskConversion.md) — Mengchang Jun pattern where a household-scandal retainer is separated with dignity and turned into outside diplomatic leverage.
 - [Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏](concepts/ContentOverMotiveRemonstrance.md) — Mengchang Jun advice-taking principle that evaluates correction by whether it prevents a real fault even when the speaker has private motives.
 - [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Mengchangjun's Xue-based system of materially supporting mobile retainers, fugitives, and scholars while managing their dignity and loyalty.
 - [Fief Security Illusion / 封地筑城安全幻觉](concepts/FiefSecurityIllusion.md) — Tian Ying's Xue wall-building case showing that a local fief cannot replace the larger state platform that protects a minister.

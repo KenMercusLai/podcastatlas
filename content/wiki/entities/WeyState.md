@@ -2,7 +2,7 @@
 title: "卫国 / Wey State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -17,6 +17,8 @@ This page uses "Wey" to avoid colliding with [[WeiState|魏国 / Wei State]], a 
 [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds Wey's status decline in 346 BCE. The source says Wey demotes itself from duke to marquis and submits to the Three Jin powers, marking reduced autonomy inside the [[WarringStatesPeriod|战国时期]] order.
 
 [[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]] extends that decline into 324 BCE. [[WeyPinghou|卫平侯]] dies and [[WeySijun|卫嗣君]] succeeds while [[YingSi|秦惠文王]] claims kingly title; the episode reads this contrast as [[WeakStateStatusDemotion|weak-state status demotion]]. Wey still retains agency through legal insistence and envoy work: Wey Sijun demands an escaped prisoner back from [[WeiState|魏国]], and a later [[Zhanguoce|《战国策》]] supplement has a Wey envoy gain access to [[LiangHuiWang|魏惠王 / 梁惠王]] through [[WuxiaWarringStates|武夏]]'s intervention.
+
+[[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds Wey as the destination for a problematic Mengchang Jun retainer. After a household scandal, [[Mengchangjun|孟尝君 / 田文]] sends the retainer to Wey with resources and access; the retainer later gains enough trust to persuade the Wey ruler not to join an attack on [[QiState|齐国]]. The source itself cautions that this campaign scene may have narrative embellishment because Wey was weak.
 
 ## Connections
 - [[QiState|齐国]], [[YanState|燕国]], and [[LuState|鲁国]] - states in the same 373 BCE conflict cluster.
