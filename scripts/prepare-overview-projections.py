@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Derive short public overview pages from the canonical overview and Git history."""
+"""Derive public synthesis, history, and question pages from the canonical overview."""
 
 from __future__ import annotations
 
@@ -247,7 +247,13 @@ def collect_update_history(
     return {day: grouped[day] for day in sorted(grouped, reverse=True)}
 
 
-def front_matter(title: str, url: str, *, commits: list[str] | None = None) -> list[str]:
+def front_matter(
+    title: str,
+    url: str,
+    *,
+    aliases: list[str] | None = None,
+    commits: list[str] | None = None,
+) -> list[str]:
     lines = [
         "---",
         f'title: "{title}"',
@@ -256,6 +262,9 @@ def front_matter(title: str, url: str, *, commits: list[str] | None = None) -> l
         'outputs: ["html"]',
         "wiki_projection: true",
     ]
+    if aliases:
+        lines.append("aliases:")
+        lines.extend(f'  - "{alias}"' for alias in aliases)
     if commits:
         lines.append("update_commits:")
         lines.extend(f'  - "{commit}"' for commit in commits)
@@ -263,21 +272,15 @@ def front_matter(title: str, url: str, *, commits: list[str] | None = None) -> l
     return lines
 
 
-def overview_page(sections: OverviewSections) -> str:
-    lines = front_matter("Overview", "/wiki/overview/")
+def current_synthesis_page(sections: OverviewSections) -> str:
+    lines = front_matter(
+        "Current Synthesis",
+        "/wiki/current-synthesis/",
+        aliases=["/wiki/overview/"],
+    )
     lines.extend(
         [
-            "# Overview",
-            "",
-            "## Update History",
-            "",
-            "[Browse updates grouped by day](../update-history/).",
-            "",
-            "## Open Questions",
-            "",
-            "[View all current unanswered questions](../open-questions/).",
-            "",
-            "## Current Synthesis",
+            "# Current Synthesis",
             "",
             sections.current_synthesis,
             "",
@@ -319,7 +322,7 @@ def expected_projection_files(
 ) -> dict[Path, str]:
     output = root / PROJECTION_DIR
     expected = {
-        output / "overview" / "index.md": overview_page(sections),
+        output / "current-synthesis" / "index.md": current_synthesis_page(sections),
         output / "open-questions" / "index.md": open_questions_page(sections),
         output / "update-history" / "_index.md": update_history_index(history),
     }
