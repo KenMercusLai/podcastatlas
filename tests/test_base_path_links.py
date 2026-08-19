@@ -12,12 +12,16 @@ class BasePathLinksTest(unittest.TestCase):
             for relative in (
                 "layouts/_default/baseof.html",
                 "layouts/index.html",
+                "layouts/wiki/list.html",
             )
         )
 
         for path in ("episodes/", "shows/", "wiki/"):
+            self.assertIn(f'"{path}" | relURL', templates)
             self.assertNotIn(f'"/{path}" | relURL', templates)
         self.assertNotIn('"/episodes/" | absURL', templates)
+        self.assertIn('eq .Path "/wiki"', templates)
+        self.assertNotIn('eq .RelPermalink ("/wiki/" | relURL)', templates)
 
 
 if __name__ == "__main__":

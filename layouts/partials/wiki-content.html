@@ -1,3 +1,4 @@
+{{- $page := . -}}
 {{- $content := .RawContent -}}
 {{- $pagesByKey := hugo.Data.wiki_links | default dict -}}
 
@@ -6,14 +7,20 @@
   {{- $value := replaceRE `^\[\[([^\]\n]+)\]\]$` "$1" $link -}}
   {{- $parts := split $value "|" -}}
   {{- $key := strings.TrimSpace (index $parts 0) -}}
-  {{- with index $pagesByKey $key -}}
-    {{- $label := .title -}}
-    {{- if gt (len $parts) 1 -}}
-      {{- $label = delimit (after 1 $parts) "|" -}}
-    {{- end -}}
-    {{- $title := replace $label `[` `\[` -}}
-    {{- $title = replace $title `]` `\]` -}}
-    {{- $content = replace $content $link (printf "[%s](%s)" $title .url) -}}
+  {{- $targetPage := index $pagesByKey $key -}}
+  {{- $label := $key -}}
+  {{- if gt (len $parts) 1 -}}
+    {{- $label = delimit (after 1 $parts) "|" -}}
+  {{- else if $targetPage -}}
+    {{- $label = $targetPage.title -}}
+  {{- end -}}
+  {{- $escapedLabel := replace $label `[` `\[` -}}
+  {{- $escapedLabel = replace $escapedLabel `]` `\]` -}}
+  {{- if $targetPage -}}
+    {{- $targetURL := strings.TrimPrefix "/" $targetPage.url | relURL -}}
+    {{- $content = replace $content $link (printf "[%s](%s)" $escapedLabel $targetURL) -}}
+  {{- else if $page.Params.wiki_projection -}}
+    {{- $content = replace $content $link $escapedLabel -}}
   {{- end -}}
 {{- end -}}
 

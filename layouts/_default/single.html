@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ if eq .Section "wiki" }}
+  {{ if or (eq .Section "wiki") (eq .Type "wiki") }}
     <article>
       {{ if not (findRE `(?m)^#\s+` .RawContent 1) }}
         <h1>{{ .Title }}</h1>
