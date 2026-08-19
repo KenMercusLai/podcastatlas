@@ -2,8 +2,8 @@
 title: "Evidence-Bound Folklore Inquiry"
 type: concept
 tags: [folklore, evidence, method, history]
-sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]
-last_updated: 2026-07-24
+sources: [zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]
+last_updated: 2026-08-19
 ---
 
 # Evidence-Bound Folklore Inquiry
@@ -16,6 +16,8 @@ The episode's detective feel comes from comparing clues without pretending that 
 
 [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] adds a Japanese-yokai fieldwork version through [[TataraKatsugoro|多多良胜五郎]] and [[KyogokuNatsuhiko|京极夏彦]]. Here the evidence set includes local place names, oral reports, dog names, river sounds, [[ToriyamaSekien|鸟山石燕]] images, homophones, and postwar loss. The source values collection and comparison while also showing how an eager researcher can overrun the evidence with a too-dramatic yokai explanation.
 
+[[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] adds an idiom-origin version. The "二百五" explanation tied to [[SuQin|苏秦]] has a memorable reward-splitting structure, but the episode rejects it because the implied pre-Qin money economy, aristocratic status incentives, and confession logic are weak. That turns a familiar saying into [[IdiomOriginSkepticism|典故来源辨伪]] rather than accepting it as literal event memory.
+
 ## Key Claims
 - Folklore evidence should be sorted by date, genre, proximity to the place, and relation to later retelling.
 - A later vivid detail can be culturally meaningful even if it is historically weaker.
@@ -24,6 +26,7 @@ The episode's detective feel comes from comparing clues without pretending that 
 - Comparative motifs and local documents should check each other rather than substitute for each other.
 - FOAF attribution is evidence of transmission style, not proof of the event.
 - Fieldwork urgency can be real even when the researcher's first theory is wrong; disappearing local context is itself evidence that must be preserved.
+- A compact idiom-origin story can be evidence of later reception without being good evidence for the historical event it claims to explain.
 
 ## Connections
 - [[AbeKinya|阿布谨也]], [[PiedPiperMedievalEurope|《花衣魔笛手：传说背后的欧洲中世纪》]], and [[PiedPiperOfHamelin|花衣魔笛手]] - source case.
@@ -33,3 +36,4 @@ The episode's detective feel comes from comparing clues without pretending that 
 - [[AdultFairyTaleReading]] - adjacent rereading practice when folklore has been remembered as children's literature.
 - [[UrbanLegend|都市传说]], [[ScientificSkepticism]], and [[ObservationBeforeInference]] - modern rumor and evidence extensions added by episode 95.
 - [[YokaiMystery|妖怪推理]], [[FolkloreAsSocialMemory|民俗作为社会记忆]], and [[YokaiImageExegesis|妖怪图像阐释]] - episode 115's Japanese-yokai fieldwork extension.
+- [[IdiomOriginSkepticism|典故来源辨伪]], [[HistoricalDetectiveReasoning]], [[SuQin|苏秦]], and [[FolkCharacterEtymologyRisk]] - Zhouji 46 idiom-origin skepticism extension.

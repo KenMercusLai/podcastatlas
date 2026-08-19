@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 4752
+wiki_total_pages: 4753
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "IdeologicallyCompromisedArt"
     title: "Ideologically Compromised Art"
     url: "/wiki/concepts/ideologicallycompromisedart/"
+  - key: "IdiomOriginSkepticism"
+    title: "Idiom Origin Skepticism / 典故来源辨伪"
+    url: "/wiki/concepts/idiomoriginskepticism/"
   - key: "IEPATariffAuthorityLimit"
     title: "IEPA Tariff Authority Limit"
     url: "/wiki/concepts/iepatariffauthoritylimit/"

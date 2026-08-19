@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源](sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff.md) — 芮淇讲透资治通鉴 episode on Qin's 317 BCE Xiuyu-Zhuoze pursuit after the failed anti-Qin coalition, Su Qin's assassination in Qi, and skepticism toward the folk "二百五" origin story.
 - [《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？](sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db.md) — 芮淇讲透资治通鉴 episode opening 周纪三 through Mencius's non-killing unification claim, the failed five-state attack on Qin at Hangu Pass, and Song Kang Wang's violent rise and destruction.
 - [《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？](sources/zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r.md) — 芮淇讲透资治通鉴 episode on Han Xuanhui Wang's proposed two-chief-minister arrangement, Miu Liu's warning about dual power centers, and the qualified lesson that both shared and concentrated executive power can fail.
 - [《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？](sources/zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix.md) — 芮淇讲透资治通鉴 episode on Mengchang Jun's retainers killing Zhao locals after public mockery and his later conversion of a wife's-affair retainer into Wey-side diplomatic leverage for Qi.
@@ -1055,6 +1056,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [修鱼之战 / Battle of Xiuyu](entities/XiuyuBattle.md) — 317 BCE Qin victory after the failed anti-Qin coalition, with Qin pursuing Han and Wei under Chulizi before continuing to Zhuoze.
+- [樗里子 / Chulizi](entities/Chulizi.md) — Qin royal-family commander who leads the 317 BCE pursuit after the failed Hangu Pass coalition and wins at Xiuyu.
 - [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
 - [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames the episode's ridicule and retainer-violence scene.
@@ -1187,7 +1190,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周显王 / King Xian of Zhou](entities/ZhouXianwang.md) — Zhou Lie Wang's successor and annalistic frame for 362 BCE interstate war, Qin's Shimen recognition, and Shang Yang's 359 BCE reform opening.
 - [王绰 / Wang Chuo](entities/WangChuo.md) — Wei official whose flight to Han helps reveal Wei's succession vulnerability.
 - [公孙齐 / Gongsun Qi](entities/GongsunQi.md) — Han official who advises Han Yihou to attack Wei during its succession crisis.
-- [浊泽之战 / Battle of Zhuoze](entities/ZhuozeBattle.md) — Han-Zhao victory over Wei that turns into a failed settlement after the victors disagree.
+- [浊泽之战 / Battle of Zhuoze](entities/ZhuozeBattle.md) — Source-scoped Zhuoze battle notices, now covering the earlier Han-Zhao-vs-Wei succession-crisis battle and the later Qin pursuit after Xiuyu.
 - [安邑 / Anyi](entities/Anyi.md) — Wei capital besieged by Han and Zhao after Zhuoze before the coalition splits.
 - [智瑶 / Zhi Yao](entities/ZhiYao.md) — Defeated Jin power-holder used by Zhouji 04 for the talent-without-virtue lesson and Yu Rang revenge setup.
 - [豫让 / Yu Rang](entities/YuRang.md) — Zhi Yao's retainer whose self-destructive revenge against Zhao Xiangzi anchors the "士为知己者死" ethic.
@@ -7096,6 +7099,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom-origin stories against period economy, incentives, and evidence, added through the rejected "二百五" derivation.
 - [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian claim that durable unification comes from a ruler who does not love killing and can attract people exhausted by violence.
 - [Coalition Self-Preservation Failure / 联盟自保失灵](concepts/CoalitionSelfPreservationFailure.md) — Alliance failure mode where states share an enemy but each preserves its own forces and waits for another ally to pay the first cost.
 - [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.

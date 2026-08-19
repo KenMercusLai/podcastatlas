@@ -2,7 +2,7 @@
 title: "Coalition Self-Preservation Failure / 联盟自保失灵"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-19
 ---
 
@@ -12,6 +12,8 @@ Coalition self-preservation failure / 联盟自保失灵 is the alliance pattern
 
 The coalition has a clear common enemy, but its members do not convert that shared threat into shared risk. Each state wants the others to absorb the first attack and preserve its own strength. Qin exploits the hesitation by sending unusual troops to cut Chu's grain route; when Chu withdraws, the rest of the army collapses with it.
 
+[[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] extends the concept into aftermath. After the coalition withdraws, [[QinState|秦国]] pursues [[HanState|韩国]] and [[WeiState|魏国]] under [[Chulizi|樗里子]], defeats Han at [[XiuyuBattle|修鱼之战]], and continues to [[ZhuozeBattle|浊泽]]. The failure is therefore not only that the coalition fails to take Qin; it also leaves front-line members exposed to Qin's punishment.
+
 The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAlliance|合纵]] by naming their failure mode. Fear of Qin can create direction, but a coalition still fails if every member treats the alliance as insurance paid for by someone else's losses.
 
 ## Key Claims
@@ -20,8 +22,10 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - Slow-walking support can be formally consistent with alliance language while functionally weakening it.
 - The first member to suffer a supply shock or morale break can trigger cascading withdrawal.
 - Anti-Qin hezong needs enforcement and aligned incentives, not only a named leader.
+- Coalition failure can shift from collective retreat into concentrated retaliation against the most exposed members.
 
 ## Connections
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[ZonghengjiaDiplomacy|纵横家外交]] - larger alliance and diplomacy frame.
 - [[QinState|秦国]], [[HanguPass|函谷关]], [[ChuState|楚国]], [[ZhaoState|赵国]], [[WeiState|魏国]], [[HanState|韩国]], [[YanState|燕国]], and [[QiState|齐国]] - states and battlefield marker in the source case.
 - [[ChuHuaiwang|楚怀王]] and [[Mengchangjun|孟尝君 / 田文]] - alliance leader and slow-support operator.
+- [[Chulizi|樗里子]], [[XiuyuBattle|修鱼之战]], [[ZhuozeBattle|浊泽]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 46 retaliation and pursuit sequel.

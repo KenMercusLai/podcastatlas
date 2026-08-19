@@ -8727,6 +8727,10 @@
     "title": "触动杂货铺 / Chudong Zahuopu",
     "url": "/wiki/entities/chudongzahuopu/"
   },
+  "Chulizi": {
+    "title": "樗里子 / Chulizi",
+    "url": "/wiki/entities/chulizi/"
+  },
   "ChunDianArgot": {
     "title": "春点 / Chun Dian Argot",
     "url": "/wiki/concepts/chundianargot/"
@@ -19162,6 +19166,10 @@
   "IdeologicallyCompromisedArt": {
     "title": "Ideologically Compromised Art",
     "url": "/wiki/concepts/ideologicallycompromisedart/"
+  },
+  "IdiomOriginSkepticism": {
+    "title": "Idiom Origin Skepticism / 典故来源辨伪",
+    "url": "/wiki/concepts/idiomoriginskepticism/"
   },
   "IfYouCanKeepIt": {
     "title": "If You Can Keep It",
@@ -42619,6 +42627,10 @@
     "title": "Xiu Life / 秀生活",
     "url": "/wiki/entities/xiulife/"
   },
+  "XiuyuBattle": {
+    "title": "修鱼之战 / Battle of Xiuyu",
+    "url": "/wiki/entities/xiuyubattle/"
+  },
   "XiyouYaowuzhi": {
     "title": "《西游妖物志》",
     "url": "/wiki/entities/xiyouyaowuzhi/"
@@ -47354,5 +47366,9 @@
   "zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db": {
     "title": "《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db/"
+  },
+  "zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff": {
+    "title": "《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff/"
   }
 }

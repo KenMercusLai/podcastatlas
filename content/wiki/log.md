@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源
+
+Added source page for a 芮淇讲透资治通鉴 episode on 317 BCE Qin retaliation after the failed Hangu Pass coalition: Chulizi leads Qin in pursuit of Han and Wei, Xiuyu becomes the central-plains battle, and the action continues to Zhuoze. Created Chulizi, Xiuyu Battle, and Idiom Origin Skepticism; updated overview, index, Su Qin, Qin/Han/Wei/Qi state pages, Zhuoze Battle, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Warring States Period, hezong/common-enemy alliance, coalition self-preservation failure, Qin eastward pressure, historical detective reasoning, and evidence-bound folklore inquiry. No direct wiki contradiction found; the Zhuoze notice is kept source-scoped beside the earlier Zhuoze battle, and the "二百五" story is recorded as a rejected folk derivation rather than a reliable origin.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？
 
 Added source page for a 芮淇讲透资治通鉴 episode opening 周纪三 (320-298 BCE), Mencius's meeting with Wei Xiang Wang and the "不爱杀人者能一之" claim, the failed 318 BCE five-state attack on Qin at Hangu Pass, and Song Kang Wang's violent expansion and destruction. Created Wei Xiang Wang, Zhou Nan Wang, Non-Killing Unification, and Coalition Self-Preservation Failure; updated overview, index, Mencius/Mencius Text, Song Kang Wang/Song State, hezong/common-enemy alliance, Hangu Pass, Zhou/Qi/Wei/Qin/Han/Chu/Zhao/Yan state pages, and Liu Bang/Xiang Yu/Western Han comparison pages. No direct contradiction found; kept the Qi succession notice aligned with the existing Qi chronology correction and treated Qin's conquest as a short-term-vs-durable-order tension rather than a flat refutation of Mencius.
@@ -8431,6 +8435,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] ingest | 《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Han Xuanhui Wang's proposed appointment of Gongzhong and Gongshu as joint chief ministers, Miu Liu's warning that dual executives can create factions and foreign-backed competition, and the host's qualification that a single unchecked minister can also become dangerous. Created pages for Miu Liu, Gongzhong of Han, Gongshu of Han, and Dual Executive Power Risk; updated overview, index, Han Xuanhui Wang, Han State, Zhou Xian Wang, Zizhi Tongjian, Zhanguo Ce, Sima Guang, Ruiqi Jiangtou Zizhi Tongjian, Zhang Yi, Gongsun Yan, Qi State, Wei State, Partition of Jin, and Song Factional Politics. No direct contradiction found; the source's 321 BCE placement remains marked as a Sima Guang source-selection issue rather than a fully settled chronology claim.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 
