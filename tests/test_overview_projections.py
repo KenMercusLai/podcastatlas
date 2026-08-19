@@ -150,7 +150,7 @@ class UpdateHistoryTest(unittest.TestCase):
 
 
 class ProjectionLifecycleTest(unittest.TestCase):
-    def test_builds_sparse_date_routes_current_questions_and_overview_landing(self):
+    def test_builds_independent_current_synthesis_history_and_questions_pages(self):
         sections = prepare.OverviewSections(
             update_history="ignored canonical history",
             current_synthesis="Current synthesis body.",
@@ -169,7 +169,7 @@ class ProjectionLifecycleTest(unittest.TestCase):
 
         self.assertEqual(
             {
-                "content/wiki-projections/overview/index.md",
+                "content/wiki-projections/current-synthesis/index.md",
                 "content/wiki-projections/open-questions/index.md",
                 "content/wiki-projections/update-history/_index.md",
                 "content/wiki-projections/update-history/2026-08-01/index.md",
@@ -181,9 +181,16 @@ class ProjectionLifecycleTest(unittest.TestCase):
         self.assertLess(index.index("2026-08-03"), index.index("2026-08-01"))
         self.assertNotIn("2026-08-02", index)
         self.assertIn("[2026-08-03](2026-08-03/)", index)
-        self.assertIn("Current synthesis body.", relative["content/wiki-projections/overview/index.md"])
-        self.assertIn("(../update-history/)", relative["content/wiki-projections/overview/index.md"])
-        self.assertIn("(../open-questions/)", relative["content/wiki-projections/overview/index.md"])
+        synthesis = relative["content/wiki-projections/current-synthesis/index.md"]
+        self.assertIn('title: "Current Synthesis"', synthesis)
+        self.assertIn('url: "/wiki/current-synthesis/"', synthesis)
+        self.assertIn('  - "/wiki/overview/"', synthesis)
+        self.assertIn("# Current Synthesis", synthesis)
+        self.assertIn("Current synthesis body.", synthesis)
+        self.assertNotIn("## Update History", synthesis)
+        self.assertNotIn("## Open Questions", synthesis)
+        self.assertNotIn("../update-history/", synthesis)
+        self.assertNotIn("../open-questions/", synthesis)
         self.assertIn("- Open one?", relative["content/wiki-projections/open-questions/index.md"])
         self.assertNotIn("ignored canonical history", "".join(relative.values()))
 
@@ -267,6 +274,8 @@ class RepositoryIntegrationTest(unittest.TestCase):
         self.assertIn('eq .Path "/wiki"', wiki_list)
         self.assertNotIn('eq .RelPermalink ("/wiki/" | relURL)', wiki_list)
         self.assertIn('partial "wiki-content.html" .', wiki_list)
+        self.assertIn('.Site.GetPage "/wiki-projections/current-synthesis"', wiki_list)
+        self.assertNotIn('.Site.GetPage "/wiki-projections/overview"', wiki_list)
         self.assertIn('.Site.GetPage "/wiki-projections/update-history"', wiki_list)
         self.assertIn('.Site.GetPage "/wiki-projections/open-questions"', wiki_list)
         self.assertIn("$page.Params.wiki_projection", wiki_content)

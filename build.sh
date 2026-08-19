@@ -101,7 +101,7 @@ main() {
     npm ci
   fi
 
-  # Derive the public overview, daily update history, and open questions
+  # Derive the current synthesis, daily update history, and open questions
   echo "Preparing overview projections..."
   python3 scripts/prepare-overview-projections.py
 

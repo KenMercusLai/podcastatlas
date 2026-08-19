@@ -11,7 +11,7 @@
   {{ else if eq .Path "/wiki" }}
     <h1>{{ .Title }}</h1>
 
-    {{ $overview := .Site.GetPage "/wiki-projections/overview" }}
+    {{ $currentSynthesis := .Site.GetPage "/wiki-projections/current-synthesis" }}
     {{ $updateHistory := .Site.GetPage "/wiki-projections/update-history" }}
     {{ $openQuestions := .Site.GetPage "/wiki-projections/open-questions" }}
     {{ $stats := .Site.GetPage "/wiki/stats" }}
@@ -20,7 +20,7 @@
     {{ $sources := .Site.GetPage "/wiki/sources" }}
 
     <ul class="wiki-section-list">
-      {{ with $overview }}
+      {{ with $currentSynthesis }}
         <li>
           <div>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -33,7 +33,7 @@
         <li>
           <div>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">Overview updates grouped by Git history date</div>
+            <div class="page-meta">Knowledge updates grouped by Git history date</div>
           </div>
           <span class="wiki-section-count">Daily archive</span>
         </li>
