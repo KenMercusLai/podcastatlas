@@ -18,12 +18,16 @@ SPEC.loader.exec_module(prepare)
 
 
 class AlphabeticalBucketTest(unittest.TestCase):
-    def test_uses_hash_numbers_letters_and_chinese_pinyin_buckets(self):
-        self.assertEqual("#", prepare.ALPHABETICAL_BUCKETS[0])
-        self.assertEqual("0-9", prepare.ALPHABETICAL_BUCKETS[1])
-        self.assertEqual("#", prepare.alphabetical_bucket("#AI"))
-        self.assertEqual("#", prepare.alphabetical_bucket("_OpenAI"))
-        self.assertEqual("#", prepare.alphabetical_bucket("🤖Robotics"))
+    def test_uses_first_supported_number_or_letter_after_leading_symbols(self):
+        self.assertEqual("0-9", prepare.ALPHABETICAL_BUCKETS[0])
+        self.assertNotIn("#", prepare.ALPHABETICAL_BUCKETS)
+        self.assertEqual("a", prepare.alphabetical_bucket("% Arabica"))
+        self.assertEqual("a", prepare.alphabetical_bucket("™ Arabica"))
+        self.assertEqual("e", prepare.alphabetical_bucket("% Éclair"))
+        self.assertEqual("a", prepare.alphabetical_bucket("#AI"))
+        self.assertEqual("o", prepare.alphabetical_bucket("_OpenAI"))
+        self.assertEqual("r", prepare.alphabetical_bucket("🤖Robotics"))
+        self.assertEqual("0-9", prepare.alphabetical_bucket("#401KPlan"))
         self.assertEqual("0-9", prepare.alphabetical_bucket("401KPlan"))
         self.assertEqual("o", prepare.alphabetical_bucket("OuyangXiu"))
         self.assertEqual("w", prepare.alphabetical_bucket("WangXing"))
@@ -33,6 +37,9 @@ class AlphabeticalBucketTest(unittest.TestCase):
         self.assertEqual("a", prepare.alphabetical_bucket("澳大利亚"))
         self.assertEqual("r", prepare.alphabetical_bucket("弱人工智能"))
         self.assertEqual("s", prepare.alphabetical_bucket("所有权"))
+        self.assertEqual("j", prepare.alphabetical_bucket("！警告"))
+        with self.assertRaisesRegex(ValueError, "digit or letter"):
+            prepare.alphabetical_bucket("%_🤖")
 
     def test_discovers_symbol_leading_pages_but_not_generated_section_indexes(self):
         self.assertTrue(prepare.is_canonical_page_path(Path("_OpenAI.md")))
@@ -44,23 +51,22 @@ class AlphabeticalBucketTest(unittest.TestCase):
         pages = [
             prepare.WikiPage("WangXing", "王兴", "entities", Path("WangXing.md")),
             prepare.WikiPage("王兴", "Wang Xing", "entities", Path("王兴.md")),
-            prepare.WikiPage("#AI", "AI", "entities", Path("#AI.md")),
+            prepare.WikiPage("% Arabica", "% Arabica", "entities", Path("% Arabica.md")),
             prepare.WikiPage("401KPlan", "退休计划", "entities", Path("401KPlan.md")),
             prepare.WikiPage("Alpha", "Zulu", "concepts", Path("Alpha.md")),
         ]
 
         groups = prepare.group_alphabetical_pages(pages, "entities")
 
-        self.assertEqual(["#AI"], [page.key for page in groups["#"]])
+        self.assertEqual(["% Arabica"], [page.key for page in groups["a"]])
         self.assertEqual(["401KPlan"], [page.key for page in groups["0-9"]])
         self.assertEqual({"WangXing", "王兴"}, {page.key for page in groups["w"]})
-        self.assertEqual([], groups["a"])
 
-    def test_generates_static_symbol_number_and_letter_routes_with_a_as_default(self):
+    def test_generates_only_number_and_letter_routes_with_a_as_default(self):
         pages = [
             prepare.WikiPage("WangXing", "王兴", "entities", Path("WangXing.md")),
             prepare.WikiPage("王兴", "Wang Xing", "entities", Path("王兴.md")),
-            prepare.WikiPage("#AI", "AI", "entities", Path("#AI.md")),
+            prepare.WikiPage("% Arabica", "% Arabica", "entities", Path("% Arabica.md")),
             prepare.WikiPage("401KPlan", "退休计划", "entities", Path("401KPlan.md")),
             prepare.WikiPage("Alpha", "Alpha concept", "concepts", Path("Alpha.md")),
         ]
@@ -80,7 +86,7 @@ class AlphabeticalBucketTest(unittest.TestCase):
             ),
         }
         self.assertTrue(expected_entity_paths.issubset(generated))
-        self.assertEqual(60, len(generated))
+        self.assertEqual(58, len(generated))
 
         default_page = generated[prepare.WIKI_DIR / "entities" / "_index.md"]
         self.assertIn('wiki_letter: "a"', default_page)
@@ -93,18 +99,21 @@ class AlphabeticalBucketTest(unittest.TestCase):
         self.assertIn('url: "/wiki/entities/%E7%8E%8B%E5%85%B4/"', w_page)
         self.assertNotIn('key: "401KPlan"', w_page)
 
-        self.assertEqual("symbols", prepare.alphabetical_bucket_slug("#"))
-        symbol_page = generated[
+        symbols_path = (
             prepare.WIKI_DIR / "entities" / "by-letter" / "symbols" / "_index.md"
+        )
+        self.assertNotIn(symbols_path, generated)
+        a_page = generated[
+            prepare.WIKI_DIR / "entities" / "by-letter" / "a" / "_index.md"
         ]
-        self.assertIn('wiki_letter: "#"', symbol_page)
-        self.assertIn('key: "#AI"', symbol_page)
-        safe_slug = prepare.safe_page_slug("#AI")
+        self.assertIn('wiki_letter: "a"', a_page)
+        self.assertIn('key: "% Arabica"', a_page)
+        safe_slug = prepare.safe_page_slug("% Arabica")
         self.assertIn(
             f'url: "/wiki/entities/by-key/{safe_slug}/"',
-            symbol_page,
+            a_page,
         )
-        self.assertNotIn('key: "401KPlan"', symbol_page)
+        self.assertNotIn('key: "401KPlan"', a_page)
 
         numeric_page = generated[
             prepare.WIKI_DIR / "entities" / "by-letter" / "0-9" / "_index.md"
@@ -211,6 +220,34 @@ class AlphabeticalBucketTest(unittest.TestCase):
             found = prepare.find_stale_safe_page_files(set(), wiki_dir=wiki_dir)
 
             self.assertEqual([stale], found)
+
+    def test_finds_obsolete_generated_symbol_indexes_but_preserves_manual_files(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            wiki_dir = Path(temp_dir)
+            stale = wiki_dir / "entities" / "by-letter" / "symbols" / "_index.md"
+            stale.parent.mkdir(parents=True)
+            stale.write_text(f"Body.\n\n{prepare.GENERATED_NOTICE}\n")
+            manual = wiki_dir / "concepts" / "by-letter" / "symbols" / "_index.md"
+            manual.parent.mkdir(parents=True)
+            manual.write_text("Manual page.\n")
+
+            found = prepare.find_stale_alphabetical_files(set(), wiki_dir=wiki_dir)
+
+            self.assertEqual([stale], found)
+
+    def test_rejects_a_symlinked_alphabetical_bucket_before_stale_cleanup(self):
+        with tempfile.TemporaryDirectory() as temp_dir, tempfile.TemporaryDirectory() as outside_dir:
+            wiki_dir = Path(temp_dir)
+            outside = Path(outside_dir) / "_index.md"
+            outside.write_text(f"Body.\n\n{prepare.GENERATED_NOTICE}\n")
+            bucket = wiki_dir / "entities" / "by-letter" / "symbols"
+            bucket.parent.mkdir(parents=True)
+            bucket.symlink_to(Path(outside_dir), target_is_directory=True)
+
+            with self.assertRaisesRegex(RuntimeError, "symlinked alphabetical"):
+                prepare.find_stale_alphabetical_files(set(), wiki_dir=wiki_dir)
+
+            self.assertTrue(outside.exists())
 
     def test_writes_an_explicit_empty_list_for_a_bucket_without_pages(self):
         content = prepare.alphabetical_index("entities", "z", [], 0)
