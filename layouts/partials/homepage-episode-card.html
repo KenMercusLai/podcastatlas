@@ -1,0 +1,24 @@
+{{- $episode := . -}}
+{{- $overview := $episode.RawContent -}}
+{{- if findRE `(?m)^## (概览|Overview)\s*$` $overview 1 -}}
+  {{- $overview = replaceRE `(?s)^.*?## (概览|Overview)\s*` "" $overview -}}
+  {{- $overview = replaceRE `(?s)\n## .*$` "" $overview -}}
+{{- else -}}
+  {{- $overview = $episode.Plain -}}
+{{- end -}}
+{{- $renderedOverview := $episode.RenderString $overview -}}
+<article class="home-episode-card">
+  <span class="home-label">Episode</span>
+  <h3><a href="{{ $episode.RelPermalink }}">{{ $episode.Title }}</a></h3>
+  <div class="home-episode-meta">
+    {{ with $episode.GetTerms "show" }}
+      <span>
+        {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
+      </span>
+    {{ end }}
+    {{ with $episode.Date }}
+      <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006-01-02" }}</time>
+    {{ end }}
+  </div>
+  <p>{{ $renderedOverview | plainify | htmlUnescape | truncate 220 }}</p>
+</article>

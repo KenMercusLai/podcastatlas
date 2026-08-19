@@ -26,6 +26,7 @@ class VerifyPagesOutputTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             public = Path(directory)
             expected_paths = [
+                "index.html",
                 "episodes/index.html",
                 "tags/index.html",
                 "shows/index.html",
@@ -42,6 +43,10 @@ class VerifyPagesOutputTest(unittest.TestCase):
             ]
             for relative in expected_paths:
                 write(public / relative, "content")
+            write(
+                public / "index.html",
+                '<h1>Podcast Atlas</h1><p>A living knowledge atlas synthesized from podcasts.</p>',
+            )
             write(public / "index.xml", "<rss />")
             write(public / "episodes/index.xml", "<rss />")
             write(public / "sitemap.xml", "<urlset />")
@@ -65,6 +70,25 @@ class VerifyPagesOutputTest(unittest.TestCase):
         self.assertIn("missing Pagefind metadata index", report["errors"])
         self.assertIn("missing Pagefind search index", report["errors"])
         self.assertIn("missing Pagefind result fragments", report["errors"])
+        self.assertIn("missing required file: index.html", report["errors"])
+
+    def test_rejects_the_old_redirecting_homepage(self):
+        verifier = load_verifier()
+        redirect_tags = (
+            '<meta http-equiv="refresh" content="0; url=/episodes/">',
+            '<meta http-equiv=refresh content="0;url=/episodes/">',
+            '<meta http-equiv = "refresh" content="0; url=/episodes/">',
+        )
+
+        for redirect_tag in redirect_tags:
+            with self.subTest(redirect_tag=redirect_tag):
+                with tempfile.TemporaryDirectory() as directory:
+                    public = Path(directory)
+                    write(public / "index.html", redirect_tag)
+
+                    report = verifier.validate(public)
+
+                self.assertIn("homepage is still an automatic redirect", report["errors"])
 
     def test_rejects_taxonomy_rss(self):
         verifier = load_verifier()
