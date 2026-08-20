@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 4814
+wiki_total_pages: 4818
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "DemandShockProductMarketFit"
     title: "Demand Shock Product-Market Fit"
     url: "/wiki/concepts/demandshockproductmarketfit/"
+  - key: "DemandInducedAgrarianDisruption"
+    title: "Demand-Induced Agrarian Disruption / 需求诱导式弃农"
+    url: "/wiki/concepts/demandinducedagrariandisruption/"
   - key: "DemandSideHousingAffordabilityPolicy"
     title: "Demand-Side Housing Affordability Policy"
     url: "/wiki/concepts/demandsidehousingaffordabilitypolicy/"

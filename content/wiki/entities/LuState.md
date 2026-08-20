@@ -2,7 +2,7 @@
 title: "鲁国 / Lu State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The page is source-scoped. Lu's role here is a territorial-war notice in the epi
 
 [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] adds an earlier Spring-Autumn scandal branch. [[LuHuanGong|鲁桓公]] is killed during a visit to [[QiState|齐国]] after [[QiXiangGong|齐襄公]] and [[WenJiang|文姜]]'s scandal, making Lu the harmed neighboring state in the disorder that precedes [[GuanZhong|管仲]]'s reforms.
 
+[[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] returns Lu to the Guan Zhong branch as an economic-war target. The episode says [[QiState|齐国]] makes Lu gauze fashionable and suppresses its own Qi silk, causing Lu and [[LiangState|梁国]] to chase cloth income and neglect grain production. When Qi later cuts off the market, Lu faces food-price pressure, population flight, and eventual submission.
+
 ## Connections
 - [[QiState|齐国]] - attacker in the source notice.
 - [[EarlyWarringStatesInterstateWar]] - frame for repeated sparse attack notices involving Lu.
@@ -37,3 +39,4 @@ The page is source-scoped. Lu's role here is a territorial-war notice in the epi
 - [[LuKanggong|鲁康公]] and [[LuJinggong|鲁景公]] - Zhouji 18 succession notice.
 - [[Zigong|子贡 / 端木赐]], [[Confucius|孔子]], [[WuState|吴国]], [[YueState|越国]], [[JinState|晋国]], and [[InterstateCascadeDiplomacy|多国连锁外交]] - Zhouji 57 rescue branch.
 - [[LuHuanGong|鲁桓公]], [[QiXiangGong|齐襄公]], [[WenJiang|文姜]], and [[GongziPengsheng|公子彭生]] - Zhouji 75-2 and related Zuo Zhuan scandal branch.
+- [[LiangState|梁国]], [[GuanZhong|管仲]], [[DemandInducedAgrarianDisruption|需求诱导式弃农]], [[GrainBorderCoercion|粮食与封边胁迫]], and [[InterstateEconomicWarfare|跨国经济战]] - Zhouji 75-3 textile-war branch.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？](sources/zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's economic warfare through Lu/梁 cloth demand, Chu deer purchases, grain control, border closure, population flight, and people-first economic statecraft.
 - [《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa.md) — 芮淇讲透资治通鉴 episode on Qi's court disorder, Guan Zhong's succession-side switch, Bao Shuya's recommendation, and Guan Zhong's household, military, fiscal, resource, vice-regulation, and concession-hegemony reforms.
 - [《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj.md) — 芮淇讲透资治通鉴 episode comparing Zi Chan's personal kindness with public governance and Guan Zhong's economic statecraft, luxury-consumption theory, and person-dependent limits after Qi Huan Gong's collapse.
 - [《资治通鉴·周纪》74丨还原完璧归赵真相！](sources/zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk.md) — 芮淇讲透资治通鉴 episode on He Shi Bi's origin, Bian He's recognition risk, Miu Xian and Zhao Huiwen Wang's court possession, Lin Xiangru's "完璧归赵" diplomacy with Qin, and Xunzi's ruler-evaluation hierarchy.
@@ -1088,6 +1089,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [梁国 / Liang State](entities/LiangState.md) — Source-scoped Lu/梁 textile-war target in Guan Zhong's demand-induced agrarian disruption case.
 - [鲍叔牙 / Bao Shuya](entities/BaoShuya.md) — Qi figure who protects Jiang Xiaobai and recommends former enemy Guan Zhong as state-level talent.
 - [齐襄公 / Duke Xiang of Qi](entities/QiXiangGong.md) — Disorderly Qi ruler whose scandal, Lu Huan Gong's killing, and later death set up the Qi succession crisis.
 - [文姜 / Wen Jiang](entities/WenJiang.md) — Qi woman and Lu Huan Gong's wife whose scandal with Qi Xiang Gong turns family disorder into interstate crisis.
@@ -7262,6 +7264,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Interstate Economic Warfare / 跨国经济战](concepts/InterstateEconomicWarfare.md) — Guan Zhong strategy using prices, demand, grain reserves, border closure, and population movement as interstate coercion.
+- [Demand-Induced Agrarian Disruption / 需求诱导式弃农](concepts/DemandInducedAgrarianDisruption.md) — Economic-war mechanism where profitable external demand pulls a rival away from farming before the market is withdrawn or weaponized.
+- [Grain And Border Coercion / 粮食与封边胁迫](concepts/GrainBorderCoercion.md) — Food-security pressure pattern using grain reserves, price asymmetry, and border closure after a rival's production base weakens.
+- [People-First Economic Statecraft / 富民优先的经济治国](concepts/PeopleFirstEconomicStatecraft.md) — Guan Zhong doctrine that state strength begins with people's livelihood, production, circulation, trade, and careful agricultural taxation.
 - [Household and Occupation Control / 户籍与职业管控](concepts/HouseholdOccupationControl.md) — Guan Zhong reform mechanism that fixes residence and occupation to make population, labor, and mobilization legible.
 - [Military-Civil Integration / 军政一体](concepts/MilitaryCivilianIntegration.md) — Guan Zhong policy turning neighborhood administration into training, mobilization, and wartime cohesion.
 - [Penal Redemption for Armaments / 刑罚赎罪充实兵备](concepts/PenalRedemptionArmament.md) — Policy pattern where punishments are redeemed through weapons, armor, or fees that strengthen military provisioning.

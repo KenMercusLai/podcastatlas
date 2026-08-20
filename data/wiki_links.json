@@ -11447,6 +11447,10 @@
     "title": "Demand Harvesting",
     "url": "/wiki/concepts/demandharvesting/"
   },
+  "DemandInducedAgrarianDisruption": {
+    "title": "Demand-Induced Agrarian Disruption / 需求诱导式弃农",
+    "url": "/wiki/concepts/demandinducedagrariandisruption/"
+  },
   "DemandShockProductMarketFit": {
     "title": "Demand Shock Product-Market Fit",
     "url": "/wiki/concepts/demandshockproductmarketfit/"
@@ -17115,6 +17119,10 @@
     "title": "Graham Wetzbarger",
     "url": "/wiki/entities/grahamwetzbarger/"
   },
+  "GrainBorderCoercion": {
+    "title": "Grain And Border Coercion / 粮食与封边胁迫",
+    "url": "/wiki/concepts/grainbordercoercion/"
+  },
   "GrandViewGarden": {
     "title": "大观园 / Grand View Garden",
     "url": "/wiki/entities/grandviewgarden/"
@@ -20170,6 +20178,10 @@
   "InterstateCascadeDiplomacy": {
     "title": "Interstate Cascade Diplomacy / 多国连锁外交",
     "url": "/wiki/concepts/interstatecascadediplomacy/"
+  },
+  "InterstateEconomicWarfare": {
+    "title": "Interstate Economic Warfare / 跨国经济战",
+    "url": "/wiki/concepts/interstateeconomicwarfare/"
   },
   "InterviewAsEmbodiedReporting": {
     "title": "Interview As Embodied Reporting / 采访作为具身报道",
@@ -23610,6 +23622,10 @@
   "LiangSicheng": {
     "title": "梁思成",
     "url": "/wiki/entities/liangsicheng/"
+  },
+  "LiangState": {
+    "title": "梁国 / Liang State",
+    "url": "/wiki/entities/liangstate/"
   },
   "LiangYusheng": {
     "title": "梁羽生 / Liang Yusheng",
@@ -30210,6 +30226,10 @@
   "PeopleBasedPoliticalSecurity": {
     "title": "People-Based Political Security / 民心型政治安全",
     "url": "/wiki/concepts/peoplebasedpoliticalsecurity/"
+  },
+  "PeopleFirstEconomicStatecraft": {
+    "title": "People-First Economic Statecraft / 富民优先的经济治国",
+    "url": "/wiki/concepts/peoplefirsteconomicstatecraft/"
   },
   "PeopleVersusPlacesRecovery": {
     "title": "People Versus Places Recovery",
@@ -48258,5 +48278,9 @@
   "zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa": {
     "title": "《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa/"
+  },
+  "zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf": {
+    "title": "《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf/"
   }
 }

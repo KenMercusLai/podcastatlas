@@ -2,7 +2,7 @@
 title: "春秋时期 / Spring and Autumn Period"
 type: entity
 tags: [history, china, pre-qin, warfare]
-sources: [zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
+sources: [zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ This page is source-scoped rather than a full period history. Its wiki role is t
 
 [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] adds a state-building origin case through [[GuanZhong|管仲]] and [[QiHuanGong|齐桓公]]. The episode starts from [[QiXiangGong|齐襄公]]'s role disorder and the Qi succession crisis, then shows how Guan Zhong turns [[QiState|齐国]] toward household control, military organization, resource monopoly, and [[ConcessionBasedHegemony|hegemonic concession diplomacy]].
 
+[[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] adds an economic-power layer to that Spring-Autumn state-building branch. The episode presents Qi's pressure on [[LuState|鲁国]], [[LiangState|梁国]], and [[ChuState|楚国]] as [[InterstateEconomicWarfare|interstate economic warfare]] based on demand direction, grain reserves, border closure, and population movement.
+
 ## Connections
 - [[ZuoZhuan|《左传》]] - main text used by the episode.
 - [[SpringAutumnWarfareRitual]] - concept for the episode's account of war rules and aristocratic battle culture.
@@ -27,3 +29,4 @@ This page is source-scoped rather than a full period history. Its wiki role is t
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], [[QiJinggong|齐景公]], and [[QiState|齐国]] - Qi command branch added by the Ruiqi episode.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - episode 07's transition frame from constrained elite conflict to factional killing.
 - [[GuanZhong|管仲]], [[QiHuanGong|齐桓公]], [[QiXiangGong|齐襄公]], [[BaoShuya|鲍叔牙]], [[HouseholdOccupationControl|户籍与职业管控]], [[StateResourceMonopoly|资源垄断式国家统制]], and [[ConcessionBasedHegemony|让利式霸权]] - Zhouji 75-2 Qi reform and hegemony branch.
+- [[DemandInducedAgrarianDisruption|需求诱导式弃农]], [[GrainBorderCoercion|粮食与封边胁迫]], and [[PeopleFirstEconomicStatecraft|富民优先的经济治国]] - Zhouji 75-3 economic-war and livelihood branch.

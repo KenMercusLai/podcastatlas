@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 4814
+wiki_total_pages: 4818
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "GraduationAnxiety"
     title: "Graduation Anxiety"
     url: "/wiki/concepts/graduationanxiety/"
+  - key: "GrainBorderCoercion"
+    title: "Grain And Border Coercion / 粮食与封边胁迫"
+    url: "/wiki/concepts/grainbordercoercion/"
   - key: "GRASSelfCertification"
     title: "GRAS Self-Certification"
     url: "/wiki/concepts/grasselfcertification/"

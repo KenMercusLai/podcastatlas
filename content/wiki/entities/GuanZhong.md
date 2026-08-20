@@ -2,7 +2,7 @@
 title: "管仲 / Guan Zhong"
 type: entity
 tags: [person, minister, spring-and-autumn, qi-state, statecraft]
-sources: [zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
+sources: [zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
 last_updated: 2026-08-21
 ---
 
@@ -14,15 +14,19 @@ The source's main Guan Zhong branch is economic. Through [[GuanziText|《管子�
 
 [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] supplies the biographical and policy setup. Guan Zhong first serves [[GongziJiu|公子纠]] and tries to stop [[QiHuanGong|姜小白]] during the succession race, but [[BaoShuya|鲍叔牙]] persuades the victorious Qi Huan Gong to use him. The episode then turns Guan Zhong into a system-builder through [[HouseholdOccupationControl|household and occupation control]], [[MilitaryCivilianIntegration|military-civil integration]], [[PenalRedemptionArmament|penal redemption for armaments]], [[StateResourceMonopoly|state resource monopoly]], [[StateManagedProstitution|state-managed prostitution]], and [[ConcessionBasedHegemony|concession-based hegemony]].
 
+[[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] adds Guan Zhong's economic-warfare branch. In the episode's telling, he manipulates demand for [[LuState|Lu]] and [[LiangState|Liang]] cloth, then closes trade after rival agriculture has been neglected; he later uses high prices for [[ChuState|Chu]] deer while Qi quietly stores grain. The source makes him a theorist of both [[PeopleFirstEconomicStatecraft|people-first economic statecraft]] and hostile [[InterstateEconomicWarfare|interstate economic warfare]]: food, circulation, prices, and population movement are the foundation of strength and the targetable weakness of rivals.
+
 Guan Zhong's achievement is still limited in the episode's Xunzian and Confucian frame. [[Confucius|孔子]] is quoted as praising Guan Zhong for helping [[QiHuanGong|齐桓公]] command the feudal lords and preserve a Hua-Xia order, but also as judging his vessel small. [[Xunzi|荀子]] is used to say Guan Zhong could govern, but did not reach the higher standard of "修礼" or durable ritual-righteous order.
 
 The page should stay source-scoped. The episode does not give a full Guan Zhong biography; it uses him to ask why capable administration, economic policy, and hegemonic success can still become [[PersonDependentGovernanceFragility|person-dependent governance fragility]] when the order collapses after the minister dies.
 
 ## Connections
 - [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] and [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] - source episodes.
+- [[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] - source episode adding economic-warfare cases.
 - [[QiHuanGong|齐桓公]] and [[QiState|齐国]] - ruler and state strengthened through Guan Zhong's administration.
 - [[BaoShuya|鲍叔牙]], [[GongziJiu|公子纠]], and [[ShaoHu|召忽]] - succession-race and choice branch added by Zhouji 75-2.
 - [[GuanziText|《管子》]] and [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]] - textual and economic branch.
 - [[HouseholdOccupationControl|户籍与职业管控]], [[MilitaryCivilianIntegration|军政一体]], [[PenalRedemptionArmament|刑罚赎罪充实兵备]], [[StateResourceMonopoly|资源垄断式国家统制]], [[StateManagedProstitution|国家管制女闾]], and [[ConcessionBasedHegemony|让利式霸权]] - reform package added by Zhouji 75-2.
+- [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], [[InterstateEconomicWarfare|跨国经济战]], [[DemandInducedAgrarianDisruption|需求诱导式弃农]], and [[GrainBorderCoercion|粮食与封边胁迫]] - economic doctrine and coercive market strategy added by Zhouji 75-3.
 - [[Confucius|孔子]], [[Xunzi|荀子]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - evaluation frame.
 - [[ConfucianIdealGovernance|儒家理想治理]], [[WangdaoVsBadao|王道 versus 霸道]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - achievement-limit branch.

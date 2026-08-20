@@ -8680,6 +8680,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Guan Zhong's economic warfare through Lu/梁 cloth demand, Chu deer purchases, grain control, border closure, food-price pressure, population flight, and people-first economic statecraft. Created Liang State, Interstate Economic Warfare, Demand-Induced Agrarian Disruption, Grain and Border Coercion, and People-First Economic Statecraft; updated overview, index, Guan Zhong, Qi Huan Gong, Qi State, Lu State, Chu State, Spring and Autumn Period, Luxury Consumption As Economic Circulation, Strategic Luxury Sabotage, and People-Based Political Security. No direct contradiction found; the source's price, migration, deer-price, and submission figures are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qi's court disorder, Lu Huan Gong's killing, Gongsun Wuzhi's usurpation, the Jiang Xiaobai/Gongzi Jiu succession race, Bao Shuya's recommendation of Guan Zhong, and Guan Zhong's reform package. Created pages for Bao Shuya, Qi Xiang Gong, Wen Jiang, Lu Huan Gong, Gongsun Wuzhi, Gongzi Jiu, Shao Hu, Jiang Taigong, Household and Occupation Control, Military-Civil Integration, Penal Redemption for Armaments, State Resource Monopoly, State-Managed Prostitution, and Concession-Based Hegemony; updated overview, index, Guan Zhong, Qi Huan Gong, Qi State, Lu State, Spring and Autumn Period, Gongzi Pengsheng, Talent Referral Quality, Use Strengths Over Faults, Person-Dependent Governance Fragility, and Wangdao versus Badao. No direct contradiction found; "earliest" hukou/centralization/女闾 claims are kept source-scoped, and the Lu Huan Gong killing is linked to the existing Gongzi Pengsheng branch as a related named tradition.
@@ -8687,6 +8691,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Qi's court disorder,
 ## [2026-08-21] ingest | 《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲
 
 Added source page for a 芮淇讲透资治通鉴 episode comparing Zi Chan's river-crossing kindness with public governance and Guan Zhong's economic statecraft. Created pages for Zi Chan, Guan Zhong, Guanzi, Luxury Consumption As Economic Circulation, and Person-Dependent Governance Fragility; updated overview, index, Qi Huan Gong, Qi State, Zheng State, Xunzi, Xunzi Text, Xunzian Wangba Three Paths, Confucian Ideal Governance, Good Intentions Political Limits, Ruler Non-Natural Death Typology, Mencius, and Confucius. No direct contradiction found; the source extends Zhouji 74's Xunzi hierarchy and distinguishes Guan Zhong's positive luxury-circulation claim from the earlier Strategic Luxury Sabotage branch.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4814
+wiki_total_pages: 4818
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "PeopleBasedPoliticalSecurity"
     title: "People-Based Political Security / 民心型政治安全"
     url: "/wiki/concepts/peoplebasedpoliticalsecurity/"
+  - key: "PeopleFirstEconomicStatecraft"
+    title: "People-First Economic Statecraft / 富民优先的经济治国"
+    url: "/wiki/concepts/peoplefirsteconomicstatecraft/"
   - key: "PerHeadMuon"
     title: "Per-Head Muon"
     url: "/wiki/concepts/perheadmuon/"
