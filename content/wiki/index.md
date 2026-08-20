@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？](sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq.md) — 芮淇讲透资治通鉴 episode introducing Zhao She as a tax officer before his generalship, enforcing taxes against Pingyuanjun's household and turning elite tax compliance into a Zhao state-capacity lesson.
 - [《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？](sources/zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5.md) — 芮淇讲透资治通鉴 episode opening 周纪五, following Huang Xie as the Chu crown prince's hostage escort, Yan's coup crisis, and Xuan Taihou's decades-long Yiqu relationship ending in the killing of the Yiqu king and Qin's creation of Beidi Commandery.
 - [《资治通鉴·周纪》84丨防止秦国灭楚竟用这招？](sources/zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm.md) — 芮淇讲透资治通鉴 episode on Huang Xie / Chunshenjun persuading Qin Zhaoxiang Wang to halt Bai Qi's follow-on attack on Chu by reframing Han-Wei route risk, overextension, and Qin-Chu alliance as Qin's own strategic interest.
 - [Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555.md) — All-In episode with Gavin Baker on Anthropic IPO rumors, open-source and decentralized AI, Nvidia GPU-backed compute financing, data-center constraints, Amazon DSP labor pressure, Grokbot, and Workday/Silver Lake software valuation signals.
@@ -1103,6 +1104,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [赵奢 / Zhao She](entities/ZhaoShe.md) — Zhao tax officer and later general whose enforcement against Pingyuanjun's household makes elite tax compliance a state-capacity test.
 - [Grokbot](entities/Grokbot.md) — xAI/Grok personalized bot-builder product discussed as an easier consumer-access layer for creating custom AI agents.
 - [华阳之战 / Battle of Huayang](entities/HuayangBattle.md) — Wei-Zhao attack on Han that becomes a Qin rescue-and-punishment case after Han uses threatened-defection leverage.
 - [韩桓惠王 / King Huanhui of Han](entities/HanHuanhuiwang.md) — Han ruler who succeeds Han Xi Wang after the Huayang crisis and immediately enters a Qin-led alignment context.
@@ -7311,6 +7313,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Elite Fiscal-Law Compliance / 贵族税法同遵](concepts/EliteFiscalLawCompliance.md) — State-capacity pattern where tax and law must bind elite households, not only ordinary subjects, if public authority is to hold.
 - [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Weak-side diplomacy pattern where a request for restraint is translated into the stronger side's own risk map and preferred strategic sequence.
 - [GPU Compute Asset-Backed Financing](concepts/GPUComputeAssetBackedFinancing.md) — Nvidia-centered financing frame where GPU clusters are treated as cash-flowing collateral backed by utilization, residual value, and compute demand.
 - [Decentralized AI Control](concepts/DecentralizedAIControl.md) — Argument that AI power should be distributed through open models, personal agents, and competing providers rather than centralized in a few frontier labs or regulators.

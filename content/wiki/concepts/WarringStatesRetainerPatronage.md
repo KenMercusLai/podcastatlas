@@ -2,8 +2,8 @@
 title: "Warring States Retainer Patronage / 战国养士"
 type: concept
 tags: [statecraft, talent, patronage, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
+last_updated: 2026-08-21
 ---
 
 # Warring States Retainer Patronage / 战国养士
@@ -22,6 +22,8 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 
 [[zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5]] extends the concept from Mengchangjun to [[Pingyuanjun|平原君]]. Pingyuanjun's circle includes [[GongsunLong|公孙龙]], whose value is intellectual and rhetorical rather than military. The episode therefore adds a new patronage test: a great household can attract dazzling specialists, but the patron still needs enough judgment to tell [[MingjiaDisputation|名辩]] apart from [[TruthSeekingDebateNorm|truth-seeking debate]].
 
+[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] adds the fiscal underside of large retainer households. Pingyuanjun's household tax refusal is read partly against the cost of supporting retainers, but [[ZhaoShe|赵奢]] makes that private burden subordinate to [[ZhaoState|赵国]]'s legal and fiscal order. The episode therefore links patronage to [[EliteFiscalLawCompliance|elite fiscal-law compliance]]: a patron's network cannot become a justification for hollowing out the state that protects the patron.
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
@@ -32,6 +34,7 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 - The system creates control problems as well as talent options: retainers can become violent honor enforcers or household risks, but can sometimes be redeployed into external leverage.
 - Zhouji 63 adds a quality-signaling failure: indiscriminate openness can make a patron famous while making truly capable people doubt the network.
 - Zhouji 64 adds an intellectual-quality failure: rhetorical brilliance inside a patronage circle may still need outside critics to test whether it serves truth.
+- Zhouji 86 adds a fiscal-control failure mode: the expense and privilege of a great retainer household can become a tax-compliance problem for the state.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -43,3 +46,4 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 - [[Pingyuanjun|平原君]], [[ZhaoState|赵国]], [[WeyState|卫国]], and [[RetainerRiskConversion|门客风险转化]] - Zhouji 43 ridicule, violence, household scandal, and redeployment branch.
 - [[WangAnshi|王安石]], [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]], and [[WarringStatesFourLords|战国四公子]] - Zhouji 63 talent-quality critique and comparative patronage grouping.
 - [[Pingyuanjun|平原君]], [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 patronage as a setting for debate-quality judgment.
+- [[ZhaoShe|赵奢]], [[Pingyuanjun|平原君]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 patronage cost and elite tax-compliance branch.

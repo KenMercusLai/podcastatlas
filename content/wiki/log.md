@@ -8684,6 +8684,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？
+
+Added source page for a 芮淇讲透资治通鉴 episode introducing Zhao She before his later generalship, centered on his tax enforcement against Pingyuanjun's household, his argument that elite legal compliance protects Zhao and aristocratic wealth, and Pingyuanjun's recommendation of him to Zhao Huiwen Wang for national tax administration. Created pages for Zhao She and Elite Fiscal-Law Compliance; updated overview, index, Zhao State, Zhou Nan Wang, Zhao He, Pingyuanjun, Zhanguo Ce, Warring States Four Lords, Warring States Retainer Patronage, High-Status Law-Enforcement Signal, Tax Enforcement Capacity, and Legalist Ruler Technique. No direct contradiction found; Zhao She's Yan-service background and the economic motives behind Pingyuanjun's household tax resistance remain source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Wei Anxi Wang's failed attempt to resist Qin through a weak Wei-Qi posture, the Wei-Zhao attack on Han at Huayang, Han's threatened-defection appeal that draws Qin rescue, Qin's defeat of Wei and Zhao through Wei Ran and Bai Qi, and Su Dai's "抱薪救火" warning against ceding land to Qin for peace. Created pages for Huayang Battle, Han Huanhui Wang, Duan Ganzi, Threatened Defection Leverage, and Land-For-Peace Exhaustion Trap; updated overview, index, and key Wei/Han/Qin/Zhao and strategist pages. No direct contradiction found; the reported drowning of Zhao troops is kept source-scoped because the episode itself flags the tactic as uncertain.
@@ -8811,6 +8815,10 @@ Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned
 ## [2026-08-21] ingest | 《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？
 
 Added source page for a 芮淇讲透资治通鉴 episode opening 周纪五, following Huang Xie escorting the Chu crown prince into Qin as hostage, Qin's creation of Nanyang Commandery, Yan Huiwang's coup-and-succession crisis, and Xuan Taihou's long relationship with the Yiqu king ending in his killing at Ganquan Palace and Qin's creation of Beidi Commandery. Created pages for Beidi Commandery, Longxi Commandery, Nanyang Commandery, Ganquan Palace, Yan Wucheng Wang, Gongsun Cao, and Intimate Frontier Pacification; updated overview, index, Xuan Taihou, Yiqu, Qin Frontier Buffer Management, Qin State, Qin Zhaoxiang Wang, Chunshenjun, Mi Heng, Chu State, Yan Huiwang, Yan State, Shangjun, and Zhou Nan Wang. No direct contradiction found; the source explicitly leaves Xuan Taihou's personal motive uncertain while recording the strategic effect of rear-frontier quieting and later absorption.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

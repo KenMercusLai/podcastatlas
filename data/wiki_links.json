@@ -13147,6 +13147,10 @@
     "title": "Elite Cosmopolitan Mobility",
     "url": "/wiki/concepts/elitecosmopolitanmobility/"
   },
+  "EliteFiscalLawCompliance": {
+    "title": "Elite Fiscal-Law Compliance / 贵族税法同遵",
+    "url": "/wiki/concepts/elitefiscallawcompliance/"
+  },
   "EliudKipchoge": {
     "title": "Eliud Kipchoge",
     "url": "/wiki/entities/eliudkipchoge/"
@@ -44815,6 +44819,10 @@
     "title": "赵普 / Zhao Pu",
     "url": "/wiki/entities/zhaopu/"
   },
+  "ZhaoShe": {
+    "title": "赵奢 / Zhao She",
+    "url": "/wiki/entities/zhaoshe/"
+  },
   "ZhaoState": {
     "title": "赵国 / Zhao State",
     "url": "/wiki/entities/zhaostate/"
@@ -48598,5 +48606,9 @@
   "zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5": {
     "title": "《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5/"
+  },
+  "zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq": {
+    "title": "《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq/"
   }
 }
