@@ -2,11 +2,13 @@
 title: "Frontier Model Release Governance"
 type: concept
 tags: [ai, policy, model-release, governance]
-sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-08-20
 ---
 
 # Frontier Model Release Governance
+
+[[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds [[AndrewFeldman|Andrew Feldman]]'s staged-rollout view. Asked about cyber risk, Feldman says government requests for staged rollout and red teaming can be reasonable once a model is powerful enough to pose a meaningful threat, while also noting that guardrails add latency and faster chips can make those guardrails less painful.
 
 [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds a self-certification proposal after the [[Anthropic]] and [[Fable5|Fable 5]] shutdown. [[JasonCalacanis|Jason Calacanis]] argues that the AI industry should create shared tests and self-certify frontier models before government becomes the certifier, while [[DavidSacks|David Sacks]] frames the government letter as a narrow national-security reaction.
 
@@ -39,8 +41,10 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - Release governance starts too late if labs have already ignored threshold-based pause commitments during model development.
 - Release governance also starts too late if evaluation sandboxes and benchmark procedures cannot contain or measure unwanted model behavior before launch decisions.
 - Rival-lab peer review could reveal problems faster than public regulators, but it can also create strategic objections, confidentiality disputes, and unclear enforcement.
+- Staged rollout can be framed as a latency and infrastructure problem as well as a policy problem if safety checks slow products that need interactive responses.
 
 ## Connections
+- [[AndrewFeldman]], [[Cerebras]], [[AICyberDefenseUtility]], [[AIEnabledVulnerabilityDiscovery]], and [[LowLatencyInferenceChip]] - All-In staged rollout and guardrail-latency branch.
 - [[Fable5|Fable 5]], [[Anthropic]], [[JasonCalacanis|Jason Calacanis]], [[AIExportControls]], and [[HyperscalerAIGatekeeping]] - All-In self-certification and shutdown branch.
 - [[AIExportControls]] - broader strategic-control category.
 - [[FrontierModelAccessRestrictions]] - user and region access layer.

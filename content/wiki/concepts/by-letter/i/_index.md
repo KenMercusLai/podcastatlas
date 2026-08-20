@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 4787
+wiki_total_pages: 4791
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "IPOwnership"
     title: "IP Ownership"
     url: "/wiki/concepts/ipownership/"
+  - key: "IPControlledGenerativeModels"
+    title: "IP-Controlled Generative Models"
+    url: "/wiki/concepts/ipcontrolledgenerativemodels/"
   - key: "IranHorizontalEscalation"
     title: "Iran Horizontal Escalation / 伊朗横向升级"
     url: "/wiki/concepts/iranhorizontalescalation/"

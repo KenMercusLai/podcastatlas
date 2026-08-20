@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6133
+wiki_total_pages: 6139
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "RobinGreenwood"
     title: "Robin Greenwood"
     url: "/wiki/entities/robingreenwood/"
+  - key: "RobinRombach"
+    title: "Robin Rombach"
+    url: "/wiki/entities/robinrombach/"
   - key: "Robinhood"
     title: "Robinhood"
     url: "/wiki/entities/robinhood/"

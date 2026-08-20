@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6133
+wiki_total_pages: 6139
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "Flurry"
     title: "Flurry"
     url: "/wiki/entities/flurry/"
+  - key: "Flux"
+    title: "Flux"
+    url: "/wiki/entities/flux/"
   - key: "FlyingPigeon"
     title: "Flying Pigeon / 飞鸽自行车"
     url: "/wiki/entities/flyingpigeon/"

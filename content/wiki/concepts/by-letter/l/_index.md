@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 4787
+wiki_total_pages: 4791
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "LateStagePrivateCompanyValuationRisk"
     title: "Late-Stage Private-Company Valuation Risk"
     url: "/wiki/concepts/latestageprivatecompanyvaluationrisk/"
+  - key: "LatentDiffusion"
+    title: "Latent Diffusion"
+    url: "/wiki/concepts/latentdiffusion/"
   - key: "LatinAmericaInvestmentBoom"
     title: "Latin America Investment Boom"
     url: "/wiki/concepts/latinamericainvestmentboom/"
@@ -458,6 +461,9 @@ wiki_pages:
   - key: "LookalikePublisherOutreach"
     title: "Lookalike Publisher Outreach"
     url: "/wiki/concepts/lookalikepublisheroutreach/"
+  - key: "LoopMaxxing"
+    title: "Loop Maxxing"
+    url: "/wiki/concepts/loopmaxxing/"
   - key: "LossAversion"
     title: "Loss Aversion / 损失厌恶"
     url: "/wiki/concepts/lossaversion/"

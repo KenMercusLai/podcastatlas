@@ -2,11 +2,13 @@
 title: "AI Video Production Workflow"
 type: concept
 tags: [ai, video, workflow, creator-economy]
-sources: [the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-05
+sources: [all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-20
 ---
 
 # AI Video Production Workflow
+
+[[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds the professional ideation and launch-video branch through [[RobinRombach|Robin Rombach]] and [[BlackForestLabs|Black Forest Labs]]. The source treats [[MartinScorsese|Martin Scorsese]]'s use as visual ideation, then extends the workflow to storyboarding, startup launch videos, AI-generated scenery, and IP-owner model partnerships.
 
 AI video production workflow is the practical process by which [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] says short-drama creators turn scripts and images into watchable AI video. The workflow includes story selection, scriptwriting, prompt writing, image generation, repeated video-generation "draws," editing, voice/subtitle work, and director-like coordination across tools.
 
@@ -34,6 +36,7 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - Production-management AI can be useful without implying that writing, costuming, acting, or directing should be delegated to generated output.
 - The "抽卡师" role can shrink as multi-reference models improve, but the source says the director's ability to ask for a specific shot, expression, movement, or emotional state becomes more valuable.
 - Practical AI-video workflows are model-specific: the source describes using C-DANCE/[[Seedance]], Kling-style generation, GPT image tools, Banana/Banana Pro, and Jimeng-like image generation according to each shot's requirements.
+- The All-In Black Forest Labs source adds that professional use can start before final footage: previsualization, visual communication, and launch-storytelling may capture value while feature-film delivery remains hard.
 
 ## Connections
 - [[AIShortDrama]] — main content category using the workflow.
@@ -48,3 +51,4 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - [[LuChuan]], [[Midjourney]], [[IndustrialGradeFilmModels]], and [[LiveActionFilmUnderAI]] — film-previsualization and live-action decision branch added by E234.
 - [[HeatedRivalry|Heated Rivalry]], [[BrendanBrady]], [[JacobTierney]], [[ConstraintDrivenMediaProduction]], and [[HumanJudgmentUnderAI]] - AI-as-production-tool boundary added by Planet Money.
 - [[AIDirectorCoreWorkflow]], [[Chouxiangzai]], [[Taitai]], [[WuGeGeGeDouChongWo]], and [[XiSongFengyun]] — director-centered short-drama workflow added by What's Next.
+- [[BlackForestLabs|Black Forest Labs]], [[RobinRombach]], [[MartinScorsese]], [[GenerativeMediaControlLayers]], [[Flux]], and [[IPControlledGenerativeModels]] - All-In visual-ideation and rights-controlled workflow branch.

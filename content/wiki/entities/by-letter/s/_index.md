@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6133
+wiki_total_pages: 6139
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "StLouisCardinals"
     title: "St. Louis Cardinals"
     url: "/wiki/entities/stlouiscardinals/"
+  - key: "StableDiffusion"
+    title: "Stable Diffusion"
+    url: "/wiki/entities/stablediffusion/"
   - key: "StaceyPettijohn"
     title: "Stacey Pettijohn"
     url: "/wiki/entities/staceypettijohn/"

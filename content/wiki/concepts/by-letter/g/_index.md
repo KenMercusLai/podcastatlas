@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 4787
+wiki_total_pages: 4791
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "GenerativeEngineOptimization"
     title: "Generative Engine Optimization"
     url: "/wiki/concepts/generativeengineoptimization/"
+  - key: "GenerativeMediaControlLayers"
+    title: "Generative Media Control Layers"
+    url: "/wiki/concepts/generativemediacontrollayers/"
   - key: "GenericDrugTrustRebuilding"
     title: "Generic Drug Trust Rebuilding / 仿制药再信任"
     url: "/wiki/concepts/genericdrugtrustrebuilding/"

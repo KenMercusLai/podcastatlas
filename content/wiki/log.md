@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-20] ingest | Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs
+
+Added source page for an All-In episode with Andrew Feldman of Cerebras and Robin Rombach of Black Forest Labs on inference speed, token-heavy reasoning, open-source model sovereignty, staged model release, AGI benchmark drift, latent diffusion, Flux, generative-media control, Scorsese visual ideation, IP-controlled model access, and the move from image/video models toward action prediction for physical AI. Created Andrew Feldman, Black Forest Labs, Robin Rombach, Martin Scorsese, Stable Diffusion, Flux, Latent Diffusion, Loop Maxxing, Generative Media Control Layers, and IP-Controlled Generative Models; updated overview, index, All-In, the host pages, Cerebras, Token Maxxing, Open Source AI Models, Model Sovereignty, Frontier Model Release Governance, Low Latency Inference Chip, AI Chip Specialization, Model Routing Cost Control, AI Inference Cost Structure, Video Models, AI Video Production Workflow, World Models, Physical AI, AI Content Licensing, and AI Interactive Entertainment. No direct contradiction found; the episode's AGI, backlog, cyber, film-budget, and performance claims are kept source-scoped.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode completing the Shaqiu crisis: Zhao Zhang forges a summons in Zhao Wuling Wang's name, Fei Yi verifies first and is killed, Gao Xin and Zhao He hold out until Zhao Cheng and Li Dui arrive from Handan, Zhao Zhang is killed, and Zhao Wuling Wang is trapped in the palace without food until he dies after about three months. Created Gao Xin and Responsibility-Avoidant Killing; updated overview, index, Shaqiu Crisis, Zhao Wuling Wang, Zhao He, Zhao Zhang, Fei Yi, Zhao Cheng, Li Dui, Partial Abdication Power Split, Power Exit Trap, Affection-Driven Succession Risk, and Dual Executive Power Risk. No direct contradiction found; the ingest normalizes earlier 李队 transcript wording to the canonical Li Dui / 李兑 page while preserving the source-scoped variant.
@@ -8627,6 +8631,10 @@ Ran health before lint; health scanned 11,990 wiki pages and found no empty/stub
 ## [2026-08-20] ingest | 《资治通鉴·周纪》70丨喜欢花样作死的齐国君主
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Qi Min Wang's fall: Le Yi commands the 284 BCE anti-Qi coalition, defeats Qi, enters Linzi, Yan receives the spoils, Qi Min Wang fails to find durable refuge, and Zhuo Chi turns from rescuer into executioner. Created pages for Zhuo Chi and Xunzi; updated overview, index, Qi Min Wang, Le Yi, Yan Zhaowang, Ju Xin, Qi/Yan/Chu state pages, Linzi, Zhou Nan Wang, and related common-enemy, victory-overreach, people-based security, ruler-death, and talent-attraction concepts. No direct contradiction found; transcript-noisy names were normalized to existing wiki entities while preserving source uncertainty in the source page.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 

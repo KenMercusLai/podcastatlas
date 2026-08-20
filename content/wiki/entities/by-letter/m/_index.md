@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6133
+wiki_total_pages: 6139
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "MartinPeterson"
     title: "Martin Peterson"
     url: "/wiki/entities/martinpeterson/"
+  - key: "MartinScorsese"
+    title: "Martin Scorsese"
+    url: "/wiki/entities/martinscorsese/"
   - key: "MartinSpangberg"
     title: "Martin Spangberg / 马丁·斯潘贝格"
     url: "/wiki/entities/martinspangberg/"
