@@ -2,7 +2,7 @@
 title: "Warring States Careerist Mobility / 乱世职业经理人式流动"
 type: concept
 tags: [career, diplomacy, warring-states, political-agency]
-sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,8 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 
 [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds [[MangMao|芒卯]] as a morally gray persuader case. Mang Mao's "诈说" can save Wei from dangerous military pressure, but the episode keeps the technique ethically unstable: different sources frame him through trickery, reward bargaining, and mixed integrity rather than through clean loyalty.
 
+[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]] adds the forced-flight version through [[FanJu|范雎]]. Fan Ju begins as a blocked Wei talent under [[XuJia|须贾 / 徐谷]], is nearly killed by [[WeiQiWarringStates|魏齐]] after foreign recognition is interpreted as betrayal, then survives through [[ZhengAnping|郑安平]], the alias 张禄, and [[WangJiQin|王稽 / 王继]]'s Qin recommendation. Mobility here is not only ambition or flexible service; it is the route by which a court's private violence exports talent to a rival.
+
 ## Key Claims
 - Warring States persuaders can act as mobile political professionals rather than modern nation-state loyalists.
 - Reformers as well as persuaders can move through the same court market when one state fails to recognize or retain them.
@@ -50,6 +52,7 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - Zhouji 55 adds that mobility can be an exit technology: a strategist may need to make departure useful to the successor before he can safely leave.
 - Zhouji 59 adds coerced exit: a successful minister may need interstate mobility when the new court makes staying unsafe.
 - Zhouji 67 adds morally gray rescue by persuasion: mobile speech talent can serve a state while also appearing self-interested or deceptive.
+- Zhouji 88 adds coerced talent export: a court that punishes suspicion without procedure can turn its own underused talent into another state's asset.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]] and [[GongsunYan|犀首公孙衍]] - main mobile strategist cases.
@@ -65,4 +68,5 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[WeiXiangwang|魏襄王]], and [[SanchuanWarringStates|三川]] - Zhouji 55 exit-through-service branch.
 - [[GanMao|甘茂]], [[QinZhaoxiangwang|秦昭襄王]], [[Chulizi|樗里疾 / 樗里子]], [[QiState|齐国]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 59 coerced exit after Qin succession change.
 - [[MangMao|芒卯]], [[Zhanguoce|《战国策》]], [[HanFei|韩非]], [[Huainanzi|《淮南子》]], and [[ZhuXi|朱熹]] - Zhouji 67 "诈说" reception and mixed-evaluation branch.
+- [[FanJu|范雎]], [[XuJia|须贾 / 徐谷]], [[WeiQiWarringStates|魏齐]], [[ZhengAnping|郑安平]], [[WangJiQin|王稽 / 王继]], and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - Zhouji 88 blocked talent, punishment, rescue, and Qin transfer.
 - [[ZonghengjiaDiplomacy|纵横家外交]], [[LianhengStrategy|连横]], [[HezongAlliance|合纵]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - adjacent diplomatic frames.

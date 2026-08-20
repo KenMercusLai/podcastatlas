@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》88丨你怎么看待凤凰男（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode introducing Fan Ju through two linked governance failures: Wei Ran recommends Keqing Zao's attack on Qi to expand his Tao/Dingtao fief, and Fan Ju's recognition by Qi Xiang Wang is turned by Xu Jia and Wei Qi into accusation, private punishment, escape, alias Zhang Lu, and eventual Qin discovery by Wang Ji. Created Keqing Zao, Xu Jia, Wei Qi, Zheng Anping, Wang Ji, private fief expansion through state war, and private punishment without procedure; updated overview, index, Fan Ju, Wei Ran, Qin Zhaoxiang Wang, Qin/Qi/Wei state pages, Qi Xiang Wang, Dingtao, Zizhi Tongjian, Shiji, Warring States careerist mobility, and Legalist ruler technique. No direct contradiction found; transcript variants 范居/范衰, 徐谷, 王继, and 客卿造 are normalized to canonical wiki identities while kept source-scoped.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Guan Zhong's Hengshan arms-and-grain economic warfare, price-signal resource steering, private-interest incentive design, merchant attraction, resource taxation over direct monopoly, luxury circulation, and public works employment. Created Hengshan State, Hengshan Economic Warfare, Price-Signal Resource Steering, Private Interest As Public Use, Trade-Hub Statecraft, Tax Base Over Resource Monopoly, and Countercyclical Public Works; updated overview, index, Guan Zhong, Qi Huan Gong, Qi State, Guanzi, Sima Qian, interstate economic warfare, demand-induced agrarian disruption, grain and border coercion, people-first economic statecraft, luxury consumption as economic circulation, and state resource monopoly. No direct contradiction found; the episode qualifies state resource monopoly and keeps claims about Guan Zhong as the first financial thinker/economist source-scoped.
@@ -8827,6 +8831,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zhao She relieving Eyu/阏与 after Qin attacks Zhao over a broken settlement promise. Created pages for the Eyu battle, Xu Li, Two Rats Courage Maxim, Battlefield Information Control, and High-Ground Timing Advantage; updated overview, index, Zhao She, Zhao He, Zhao State, Qin State, Qin Zhaoxiang Wang, Qin Eastward Pressure, Warring States Military Transformation, Sunzi Bingfa, Lian Po, Zhou Nan Wang, Fan Ju, and Qi Xiang Wang. No direct contradiction found; transcript variants such as 燕宇/阏与, 连婆/廉颇, 许立/许历, and 范珠/范雎 were recorded as source-scoped normalizations.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

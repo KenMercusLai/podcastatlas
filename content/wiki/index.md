@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》88丨你怎么看待凤凰男（1）](sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5.md) — 芮淇讲透资治通鉴 episode introducing Fan Ju through Wei Ran's private-fief campaign, Fan Ju's accusation and punishment in Wei, escape as Zhang Lu, and discovery by Qin envoy Wang Ji.
 - [《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！](sources/zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h.md) — 芮淇讲透资治通鉴 episode on Zhao She rescuing Eyu/阏与 from Qin through staged inaction, spy deception, forced marching, Xu Li's high-ground advice, and the "狭路相逢勇者胜" maxim.
 - [《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？](sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq.md) — 芮淇讲透资治通鉴 episode introducing Zhao She as a tax officer before his generalship, enforcing taxes against Pingyuanjun's household and turning elite tax compliance into a Zhao state-capacity lesson.
 - [《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？](sources/zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5.md) — 芮淇讲透资治通鉴 episode opening 周纪五, following Huang Xie as the Chu crown prince's hostage escort, Yan's coup crisis, and Xuan Taihou's decades-long Yiqu relationship ending in the killing of the Yiqu king and Qin's creation of Beidi Commandery.
@@ -1105,6 +1106,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [客卿灶 / Keqing Zao](entities/KeqingZao.md) — Qin guest minister used in Wei Ran's Qi-facing campaign to enlarge the Tao/Dingtao fief.
+- [须贾 / Xu Jia](entities/XuJia.md) — Wei official whose suspicion of Fan Ju after Qi Xiang Wang's gift triggers the accusation chain.
+- [魏齐 / Wei Qi (Warring States)](entities/WeiQiWarringStates.md) — Wei chancellor who punishes Fan Ju without procedure after the alleged leak.
+- [郑安平 / Zheng Anping](entities/ZhengAnping.md) — Wei man who helps Fan Ju escape after Wei Qi's punishment.
+- [王稽 / Wang Ji (Qin envoy)](entities/WangJiQin.md) — Qin envoy who discovers Fan Ju under the Zhang Lu alias and recommends him to Qin.
 - [阏与 / 燕宇之战 / Battle of Eyu](entities/EyuBattle.md) — Zhao She's 270 BCE relief battle against Qin, where information control, rapid movement, and first seizure of northern high ground convert the "狭路相逢勇者胜" maxim into a concrete operation.
 - [许历 / Xu Li](entities/XuLiWarringStates.md) — Zhao soldier or officer whose advice on formation depth and northern high ground helps Zhao She win at Eyu.
 - [赵奢 / Zhao She](entities/ZhaoShe.md) — Zhao tax officer and later general whose enforcement against Pingyuanjun's household makes elite tax compliance a state-capacity test.
@@ -7316,6 +7322,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Private Fief Expansion Through State War / 以国战扩私邑](concepts/PrivateFiefExpansionThroughStateWar.md) — pattern where a minister redirects state war toward expansion of a private fief.
+- [Private Punishment Without Procedure / 无程序私刑](concepts/PrivatePunishmentWithoutProcedure.md) — failure mode where elite suspicion turns into punitive violence without investigation or adjudication.
 - [Two Rats Courage Maxim / 两鼠斗穴勇者胜](concepts/TwoRatsCourageMaxim.md) — Zhao She's narrow-route maxim behind "狭路相逢勇者胜," treated as disciplined operational courage rather than reckless aggression.
 - [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which Zhao She shapes what Qin sees before Eyu, turning a spy report into a deception channel.
 - [High-Ground Timing Advantage / 制高点时机优势](concepts/HighGroundTimingAdvantage.md) — Tactical principle where reaching decisive terrain first, as Xu Li advises at Eyu, converts timing into battlefield advantage.

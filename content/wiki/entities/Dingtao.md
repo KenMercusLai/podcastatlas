@@ -2,8 +2,8 @@
 title: "陶 / 定陶 / Dingtao"
 type: entity
 tags: [place, song-state, qi-state, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+last_updated: 2026-08-21
 ---
 
 # 陶 / 定陶 / Dingtao
@@ -14,7 +14,10 @@ The source identifies Tao with present-day Dingtao in Shandong and describes it 
 
 The page is mainly a source-critical marker. It shows why a place-name notice should be checked against ownership chronology before being attached to an official's fief history.
 
+[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]] turns Tao/Dingtao from a chronology correction into an active power-base problem. The episode says [[WeiRan|魏冉]] recommends [[KeqingZao|客卿灶 / 客卿造]] to attack [[QiState|齐国]] for Gang and Shou because those gains expand the territory around his Tao fief, making the campaign a case of [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]].
+
 ## Connections
 - [[WeiRan|魏冉]] - figure whose enfeoffment notice is corrected.
 - [[ZizhiTongjian|《资治通鉴》]] and [[ChronicleChronologyDrift|编年错位]] - source and correction frame.
 - [[SongState|宋国]], [[QiState|齐国]], [[QiMinWang|齐湣王]], [[LeYi|乐毅]], [[QinState|秦国]], and [[WeiState|魏国]] - ownership and campaign sequence.
+- [[KeqingZao|客卿灶 / 客卿造]] and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - Zhouji 88 campaign and concept tied to Wei Ran's private-base expansion.

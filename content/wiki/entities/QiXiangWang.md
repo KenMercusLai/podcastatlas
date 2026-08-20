@@ -2,7 +2,7 @@
 title: "齐襄王 / King Xiang of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
+sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The same source also revisits Qi Xiang Wang's household by saying [[JunWangHou|�
 
 [[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]] adds Qi Xiang Wang only in the closing [[FanJu|范雎]] teaser. The episode says Fan Ju accompanies a Wei envoy to Qi and receives recognition from Qi Xiang Wang, but leaves the fuller humiliation and revenge sequence for the next branch.
 
+[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]] develops that teaser. Qi Xiang Wang privately gives Fan Ju gold, beef, and wine because he values Fan Ju's speech, but the host stresses that the gesture is politically careless: by rewarding a subordinate rather than routing honor through [[XuJia|须贾 / 徐谷]], he gives the Wei envoy hierarchy material for suspicion. The source therefore adds a [[GoodIntentionsPoliticalLimits|good-intentions limit]] to Qi Xiang Wang's page: recognition can endanger the person being recognized when it crosses court hierarchy and interstate distrust.
+
 ## Connections
 - [[TianFazhang|田法章]] - personal identity before restoration.
 - [[QiMinWang|齐湣王]] - father whose death creates the succession crisis.
@@ -37,3 +39,4 @@ The same source also revisits Qi Xiang Wang's household by saying [[JunWangHou|�
 - [[PostRestorationMeritThreat|复国功臣威胁化]], [[PoliticalCreditAppropriation|善行君恩化]], [[DiaoBo|刁伯]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 suspicion, credit management, slander trigger, and status pressure.
 - [[JiangTaigong|姜太公]], [[QiHuanGong|齐桓公]], [[GuanZhong|管仲]], and [[LuZhonglian|鲁仲连]] - Zhouji 81 part 2 honor-precedent and later Tian Dan self-protection branch.
 - [[FanJu|范雎]] - Zhouji 87 teaser where Qi Xiang Wang recognizes Fan Ju before the next branch develops his story.
+- [[XuJia|须贾 / 徐谷]], [[WeiQiWarringStates|魏齐]], and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - Zhouji 88 gift, suspicion, and punishment chain.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6207
+wiki_total_pages: 6212
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "ZhengState"
     title: "郑国 / Zheng State"
     url: "/wiki/entities/zhengstate/"
+  - key: "ZhengAnping"
+    title: "郑安平 / Zheng Anping"
+    url: "/wiki/entities/zhenganping/"
   - key: "ZhengKangGong"
     title: "郑康公 / Duke Kang of Zheng"
     url: "/wiki/entities/zhengkanggong/"
