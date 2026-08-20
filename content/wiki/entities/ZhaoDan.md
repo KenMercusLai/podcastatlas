@@ -2,7 +2,7 @@
 title: "赵丹 / 赵孝成王 / King Xiaocheng of Zhao"
 type: entity
 tags: [person, ruler, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,8 @@ The same source then makes Zhao Dan responsible for the command break at Changpi
 
 This episode softens the page's earlier blame frame without erasing it. Zhao Dan's acceptance of [[Shangdang|上党]] and appointment of [[ZhaoKuo|赵括]] remain catastrophic decisions, but the source now also presents him as accepting personal danger and the political cost of peace after Changping.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]] immediately complicates that peace settlement. Once Zhao Dan returns, [[YuQing|虞卿]] argues against completing the six-city cession because it would help an exhausted Qin recover, while [[LouHuan|楼缓]] argues that non-cession exposes Zhao to Qin and opportunistic neighbors. Zhao Dan's choice is now not only personal risk at Qin, but a post-defeat credibility trap: either cede land and advertise weakness or break the promise and invite Qin's retaliation.
+
 ## Connections
 - [[ZhaoHe|赵惠文王赵何]] - predecessor whose death opens Zhao Dan's reign.
 - [[Pingyuanjun|平原君]] - uncle and Zhao minister whose decision to shelter Wei Qi becomes politically dangerous.
@@ -48,3 +50,4 @@ This episode softens the page's earlier blame frame without erasing it. Zhao Dan
 - [[BaiQi|白起]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Zhouji 94 part 2 encirclement and failed grain-relief aftermath.
 - [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[FengTing|冯亭]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 massacre aftermath and responsibility chain.
 - [[QinZhaoxiangwang|秦昭襄王]], [[ZhaoHao|赵郝]], [[StatusAnxietyPersuasion|位阶焦虑式说服]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - Zhouji 95 post-Changping peace mission, detention, release, and city-cession details.
+- [[YuQing|虞卿]], [[LouHuan|楼缓]], [[QiState|齐国]], [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]], and [[HezongAlliance|合纵]] - Zhouji 95 part 2 post-settlement cession debate.

@@ -2,7 +2,7 @@
 title: "长平之战 / Battle of Changping"
 type: entity
 tags: [battle, zhao-state, qin-state, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,8 @@ The final installment also adds a strategic afterword. Qin wins one of the large
 
 The same source shifts the explanation from battlefield capability alone to court and diplomacy. [[SuDai|苏代]] persuades [[FanJu|范雎]] that allowing [[BaiQi|白起]] to destroy Zhao and take [[Handan|邯郸]] would make Bai Qi's merit too large, while also arguing that Qin may get land without people if Zhao's population flees. Changping's aftermath therefore becomes a case where victory momentum is interrupted by [[StatusAnxietyPersuasion|位阶焦虑式说服]], neighboring-state fear, and Qin's acceptance of immediate concessions.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]] makes that aftermath a second political crisis. Zhao Dan returns home intending to carry out the six-city cession, but [[YuQing|虞卿]] argues that paying Qin would help an exhausted enemy recover, while [[LouHuan|楼缓]] argues that failing to appease Qin will invite wider predation. The episode then expands the aftermath beyond Zhao: [[WeiAnxiWang|魏安釐王]]'s court initially views Zhao's suffering as useful to Wei, and [[KongBin|孔斌]] warns that this misunderstands Qin's continuing expansion logic.
+
 ## Connections
 - [[Shangdang|上党]], [[FengTing|冯亭]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - decision prelude.
 - [[ZhaoState|赵国]], [[QinState|秦国]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[Pingyuanjun|平原君]] - states and Zhao decision figures.
@@ -42,3 +44,4 @@ The same source shifts the explanation from battlefield capability alone to cour
 - [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], [[ZhouziQiMinister|周子]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Qi grain-refusal and failed shield-state rescue branch.
 - [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[WangLing|王陵]], and [[Handan|邯郸]] - Zhouji 94 part 3 surrender, killing of prisoners, and post-victory cost limit.
 - [[PostBattleTerrorSignaling|战后恐怖震慑]], [[SuDai|苏代]], [[FanJu|范雎]], [[SimaGeng|司马梗]], [[WuanWarringStates|武安]], [[Pilao|皮牢]], [[TaiyuanWarringStates|太原]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 why Qin's immediate destruction of Zhao is deferred.
+- [[YuQing|虞卿]], [[LouHuan|楼缓]], [[KongBin|孔斌]], [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 cession debate and neighboring-state opportunism after Changping.

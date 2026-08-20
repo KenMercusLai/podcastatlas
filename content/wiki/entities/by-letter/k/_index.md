@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 6249
+wiki_total_pages: 6250
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "KongChuan"
     title: "孔川 / Kong Chuan"
     url: "/wiki/entities/kongchuan/"
+  - key: "KongBin"
+    title: "孔斌 / Kong Bin"
+    url: "/wiki/entities/kongbin/"
   - key: "KongfuJia"
     title: "孔父嘉 / Kongfu Jia"
     url: "/wiki/entities/kongfujia/"

@@ -2,7 +2,7 @@
 title: "魏安釐王 / King Anxi of Wei"
 type: entity
 tags: [person, ruler, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The same source also introduces his younger brother Wei Wuji as [[Xinlingjun|信
 
 [[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] gives the next Wei-side complaint. In 268 BCE [[QinWangWan|武大夫绾 / 王绾]] takes Huai from Wei, and in 266 BCE Qin takes nearby Xingqiu. The host summarizes Wei Anxi Wang's dilemma as one in which refusing Qin invites attack, but submitting does not stop attack either.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]] returns him to the Qin-Zhao crisis from the sidelines. At the opening of [[ChangpingBattle|长平之战]], Wei ministers tell Wei Anxi Wang that Qin's attack on [[ZhaoState|赵国]] may benefit Wei, either by letting Wei follow the stronger Qin or by creating a chance to strike if Qin bogs down. [[KongBin|孔斌]] is the dissenting minister: he warns that Qin's appetite and [[BaiQi|白起]]'s command make Zhao's suffering a preview of Wei's danger, not a gift.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiZhaowang|魏昭王]] - polity and predecessor.
 - [[QinState|秦国]], [[BaiQi|白起]], and [[WeiRan|魏冉]] - pressure actors against his new reign.
@@ -26,3 +28,4 @@ The same source also introduces his younger brother Wei Wuji as [[Xinlingjun|信
 - [[QinEastwardPressure|秦国东进压力]] and [[StrategicDepthDefense|战略纵深防御]] - larger strategic context for Qin's turn from Chu toward Wei.
 - [[HuayangBattle|华阳之战]], [[DuanGanzi|段干子]], [[SuDai|苏代]], [[ThreatenedDefectionLeverage|投敌威胁式求援]], and [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]] - Zhouji 83 failed attack on Han and post-defeat cession debate.
 - [[QinWangWan|王绾]], [[QinZhaoxiangwang|秦昭襄王]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 89 continued Qin near-attack pressure against Wei.
+- [[KongBin|孔斌]], [[ChangpingBattle|长平之战]], [[BaiQi|白起]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 warning against treating Zhao's defeat as Wei's gain.

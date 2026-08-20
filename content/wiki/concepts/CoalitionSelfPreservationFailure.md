@@ -2,7 +2,7 @@
 title: "Coalition Self-Preservation Failure / 联盟自保失灵"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] adds a non-army version at Changping. The eastern states do not assemble a rescue coalition after Zhao is encircled, and Qi refuses the grain request that might keep Zhao's army alive. The failure is no longer only "each ally waits for another to fight first"; it can also be "each state waits while a shield state starves."
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]] adds the pre- and post-defeat mentality behind that failure. [[YuQing|虞卿]] tries to make a Zhao-Qi land transfer create [[HezongAlliance|合纵]] pressure, but the episode itself doubts [[QiState|齐国]]'s willingness. It then shows [[WeiAnxiWang|魏安釐王]]'s court treating Qin's attack on [[ZhaoState|赵国]] as potentially good for [[WeiState|魏国]], until [[KongBin|孔斌]] warns that Qin's appetite will not stop with Zhao.
+
 ## Key Claims
 - A common enemy is not enough to produce operational unity.
 - Shared slogans can hide unequal willingness to spend troops, food, and political risk.
@@ -29,6 +31,7 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - Coalition failure can shift from collective retreat into concentrated retaliation against the most exposed members.
 - Zhouji 50 adds a pre-battle analogue: a coalition can be severed by private promised gain before battlefield self-preservation even appears.
 - Zhouji 94 part 2 adds a passive-relief analogue: states can preserve themselves by withholding food or intervention until a buffer state's army collapses.
+- Zhouji 95 part 2 adds a neighbor-opportunism analogue: a state can interpret another weak state's disaster as benefit even when the stronger state's expansion logic threatens both.
 
 ## Connections
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[ZonghengjiaDiplomacy|纵横家外交]] - larger alliance and diplomacy frame.
@@ -37,3 +40,4 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - [[Chulizi|樗里子]], [[XiuyuBattle|修鱼之战]], [[ZhuozeBattle|浊泽]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 46 retaliation and pursuit sequel.
 - [[ZhangYiStrategist|张仪]], [[ChenZhenWarringStates|陈枕]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 pre-battle alliance-fragility extension.
 - [[ChangpingBattle|长平之战]], [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], [[ZhouziQiMinister|周子]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Zhouji 94 part 2 grain-refusal and shield-state non-rescue branch.
+- [[YuQing|虞卿]], [[WeiAnxiWang|魏安釐王]], [[KongBin|孔斌]], [[BaiQi|白起]], and [[FarmingWarStatecraft|耕战逻辑]] - Zhouji 95 part 2 attempted coalition signal and Wei-side opportunism warning.

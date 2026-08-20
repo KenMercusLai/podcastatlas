@@ -2,7 +2,7 @@
 title: "春申君 / 黄歇 / Lord Chunshen"
 type: entity
 tags: [person, chu-state, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ After [[MiWan|芈完 / 楚考烈王]] succeeds, the episode makes Huang Xie's re
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] uses that survival and promotion as the handoff into the next annalistic year. Huang Xie is now safely back in [[ChuState|楚国]] and elevated, but the episode's immediate Chu point is sober: [[MiWan|楚考烈王]]'s first year still brings land cession to [[QinState|秦国]], so Chunshenjun's personal rise sits inside continued Chu weakness.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]] gives Chunshenjun a post-[[ChangpingBattle|长平之战]] coalition signal rather than a full action scene. [[ZhaoState|赵国]] grants him Lingqiu as an overture toward [[ChuState|楚国]], suggesting that Zhao is trying to reopen [[HezongAlliance|合纵]] after refusing or failing to complete its promised land cession to Qin.
+
 ## Connections
 - [[ChuState|楚国]] and [[MiHeng|楚顷襄王]] - state and ruler whose survival his letter protects.
 - [[QinState|秦国]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - target court, ruler, and halted commander.
@@ -36,3 +38,4 @@ After [[MiWan|芈完 / 楚考烈王]] succeeds, the episode makes Huang Xie's re
 - [[MiWan|芈完 / 楚考烈王]], [[FanJu|范雎]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 92 hostage-return argument and escape-cover plan.
 - [[HostageDiplomacyRupture|质子外交破裂]] and [[WarringStatesFourLords|战国四公子]] - Zhouji 92 part 2 turns the escape risk into Huang Xie's later patronage identity.
 - [[QinState|秦国]] - Zhouji 93 transition from Huang Xie's rise to Chu's renewed land concession.
+- [[ZhaoState|赵国]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 Lingqiu grant as coalition signal after Changping.

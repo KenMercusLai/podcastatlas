@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（2）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx.md) — 芮淇讲透资治通鉴 episode on Zhao's post-Changping land-cession debate, Yu Qing's Qi-alignment proposal, doubts about hezong reliability, and Kong Bin's warning against Wei's opportunistic reading of Zhao's disaster.
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（1）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1.md) — 芮淇讲透资治通鉴 episode on why Qin did not immediately destroy Zhao after Changping, linking Qin exhaustion, Bai Qi's terror signaling, Su Dai's lobbying of Fan Ju, and the land-for-peace pause.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9.md) — 芮淇讲透资治通鉴 episode on Zhao Kuo's failed Changping breakout and death, Bai Qi's killing of surrendered Zhao troops, Qin's post-victory exhaustion, and Sunzi's war-cost frame.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Changping encirclement, Zhao Kuo's failed attack, Qin mass mobilization, Zhao's starvation, and Qi's refusal to lend grain.
@@ -1119,6 +1120,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [孔斌 / Kong Bin](entities/KongBin.md) — Wei minister who warned after Changping that Qin's attack on Zhao was a structural threat to all neighboring states, not a free opportunity for Wei.
 - [司马梗 / Sima Geng](entities/SimaGeng.md) — Qin commander assigned to the Taiyuan-Shangdang route in the post-Changping pressure on Zhao.
 - [赵郝 / Zhao Hao](entities/ZhaoHao.md) — Zhao minister left in Qin to negotiate territorial-transfer details after Zhao Xiaocheng Wang's release.
 - [武安 / Wuan (Warring States)](entities/WuanWarringStates.md) — Zhao place attacked by Wang He during Qin's immediate post-Changping follow-on campaign.

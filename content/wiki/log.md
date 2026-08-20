@@ -8947,3 +8947,11 @@ Added source page for the first post-Changping "why Qin did not destroy Zhao" in
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（2）
+
+Added source page for the second post-Changping "why Qin did not destroy Zhao" installment: Zhao's six-city cession debate, Yu Qing's proposal to redirect the cities to Qi, doubts about Qi's reliability, the renewed hezong gesture toward Chunshenjun, and Kong Bin's warning that Wei should not treat Zhao's disaster as a free gain. Created Kong Bin; updated overview, index, and related Qin/Zhao/Qi/Wei, Yu Qing, Lou Huan, Qi Wang Jian, Chunshenjun, Wei Anxi Wang, Changping, hezong, land-for-peace, interest-reframing, coalition-failure, and farming-war pages. No direct contradiction found; the Qi-alignment plan is preserved as a source-scoped caution, and 卢缓 is normalized to existing Lou Huan / 楼缓.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12236 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes and 129324 edges, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model (`claude-3-5-sonnet-latest`) is not provider-qualified in the environment.
