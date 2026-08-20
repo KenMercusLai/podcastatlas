@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Changping encirclement, Zhao Kuo's failed attack, Qin mass mobilization, Zhao's starvation, and Qi's refusal to lend grain.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz.md) — 芮淇讲透资治通鉴 episode on Zhao's failed direct peace signal, Lian Po's defensive Changping posture, Fan Ju's rumor operation, Zhao Kuo's appointment, and Qin's secret Bai Qi command change.
 - [《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）](sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n.md) — 芮淇讲透资治通鉴 episode completing Zhao's Shangdang acceptance, Zhao Bao's fuller Qin-capacity warning, Zhao Xiaocheng Wang's ominous dream, and Sima Qian's four-dream Zhao-lineage structure.
 - [《资治通鉴·周纪》93丨在梦里藏着偷天改命？（1）](sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok.md) — 芮淇讲透资治通鉴 episode on Feng Ting offering isolated Shangdang's seventeen cities to Zhao, Zhao Bao's warning against 无故之利, and Zhao Xiaocheng Wang's 利令智昏 decision risk.
@@ -1116,6 +1117,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [周子 / Zhouzi (Qi minister)](entities/ZhouziQiMinister.md) — Qi minister whose failed grain-relief remonstrance warns that Zhao is a shield for Qi and Chu during Changping.
 - [虞卿 / Yu Qing](entities/YuQing.md) — Zhao adviser who warns that direct peace with Qin will isolate Zhao unless Chu/Qi hezong leverage is rebuilt first.
 - [娄昌 / Lou Chang](entities/LouChang.md) — Zhao adviser whose direct-peace option is contrasted with Yu Qing's coalition-first warning before Changping.
 - [郑朱 / Zheng Zhu](entities/ZhengZhu.md) — Zhao envoy whose visible reception in Qin turns a peace mission into a signal that isolates Zhao diplomatically.
@@ -7361,6 +7363,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where feigned retreat, barriers, flank cuts, cavalry insertion, and fieldworks turn an attack into starvation.
+- [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.
 - [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.
 - [Historical Dream Foreshadowing / 梦兆叙事伏笔](concepts/HistoricalDreamForeshadowing.md) — Historiographical pattern where recorded dreams in the Shiji Zhao lineage organize later rise, desire, disorder, and disaster.
 - [Windfall Decision Trap / 无故之利](concepts/WindfallDecisionTrap.md) — Decision pattern where an apparent free gain transfers hidden obligation, enemy pressure, or future retaliation to the recipient.

@@ -2,7 +2,7 @@
 title: "白起 / Bai Qi"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states, warfare]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ The result is presented as a decisive and destructive Qin victory. The episode r
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]] brings Bai Qi onto the Changping field indirectly but decisively. After [[ZhaoState|赵国]] replaces [[LianPo|廉颇]] with [[ZhaoKuo|赵括]], [[QinZhaoxiangwang|秦昭襄王]] secretly appoints Bai Qi as main commander, reduces [[WangHe|王龁]] to deputy, and orders that anyone who reveals Bai Qi's command be killed. The episode uses the secrecy order to contrast Qin's information discipline with Zhao's exposed replacement decision.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] shows Bai Qi's hidden Changping command in action. He predicts Zhao Kuo's offensive, lets Qin's front appear to lose, and draws the Zhao army against prepared barriers before cutting its rear with a 25,000-person side force and a 5,000-cavalry insertion. The episode presents this as [[BattlefieldEncirclementLogistics|battlefield encirclement logistics]]: Bai Qi's decisive move is to make Zhao's attack into a supply, retreat, and rescue problem.
+
 ## Connections
 - [[YiqueBattle|伊阙之战]] - battle that makes him famous in this episode.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], and [[QinState|秦国]] - ruler, patron/recommender, and state context.
@@ -41,3 +43,4 @@ The result is presented as a decisive and destructive Qin victory. The episode r
 - [[HanNanyangWarringStates|韩国南阳]], [[TaihangRoad|太行道]], [[Shangdang|上党]], and [[TransportCorridorSeverance|交通线切割]] - Zhouji 92 Han-front route-cutting campaign.
 - [[FengTing|冯亭]], [[ZhaoState|赵国]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 political aftereffect of the isolated Shangdang position.
 - [[ChangpingBattle|长平之战]], [[ZhaoKuo|赵括]], [[LianPo|廉颇]], [[WangHe|王龁]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 94 secret Qin command change after Zhao's public replacement.
+- [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[BattlefieldInformationControl|战场信息控制]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Zhouji 94 part 2 hidden command, encirclement, and starvation outcome.

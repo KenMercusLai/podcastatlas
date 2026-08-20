@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 4867
+wiki_total_pages: 4869
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "ShiJianqiaoRevengeCase"
     title: "Shi Jianqiao Revenge Case"
     url: "/wiki/concepts/shijianqiaorevengecase/"
+  - key: "ShieldStateRescueFailure"
+    title: "Shield-State Rescue Failure / 屏障国救援失灵"
+    url: "/wiki/concepts/shieldstaterescuefailure/"
   - key: "ShifgrethorPoliticalFace"
     title: "Shifgrethor Political Face / 西弗格雷瑟式政治面子"
     url: "/wiki/concepts/shifgrethorpoliticalface/"

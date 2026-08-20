@@ -5495,6 +5495,10 @@
     "title": "Battlefield Commander Replacement Risk / 阵前换将风险",
     "url": "/wiki/concepts/battlefieldcommanderreplacementrisk/"
   },
+  "BattlefieldEncirclementLogistics": {
+    "title": "Battlefield Encirclement Logistics / 战场围困与断粮",
+    "url": "/wiki/concepts/battlefieldencirclementlogistics/"
+  },
   "BattlefieldInformationControl": {
     "title": "Battlefield Information Control / 战场信息控制",
     "url": "/wiki/concepts/battlefieldinformationcontrol/"
@@ -36151,6 +36155,10 @@
     "title": "石城 / Shicheng",
     "url": "/wiki/entities/shichengwarringstates/"
   },
+  "ShieldStateRescueFailure": {
+    "title": "Shield-State Rescue Failure / 屏障国救援失灵",
+    "url": "/wiki/concepts/shieldstaterescuefailure/"
+  },
   "ShifenXiyin": {
     "title": "十分吸引 / Shifen Xiyin",
     "url": "/wiki/entities/shifenxiyin/"
@@ -45359,6 +45367,10 @@
     "title": "Zhouyi Divination / 《周易》占卜",
     "url": "/wiki/concepts/zhouyidivination/"
   },
+  "ZhouziQiMinister": {
+    "title": "周子 / Zhouzi (Qi minister)",
+    "url": "/wiki/entities/zhouziqiminister/"
+  },
   "ZhuBajie": {
     "title": "猪八戒",
     "url": "/wiki/entities/zhubajie/"
@@ -48866,5 +48878,9 @@
   "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz": {
     "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz/"
+  },
+  "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns": {
+    "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns/"
   }
 }

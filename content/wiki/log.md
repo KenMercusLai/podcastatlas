@@ -8919,3 +8919,15 @@ Added source page for a 芮淇讲透资治通鉴 episode on the 260 BCE Changpin
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12217 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes while the current wiki has 12217 linted pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the configured model `claude-3-5-sonnet-latest` is not provider-qualified; a bounded in-session review of the orphan page, fragile-bridge endpoints, and explicit contradiction markers found no new unresolved direct contradiction beyond existing source-scoped tensions already recorded in source pages.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode continuing Changping from command replacement into Bai Qi's encirclement, Qin's emergency mobilization, Zhao's starvation, and Qi's refusal to lend grain. Created Battlefield Encirclement Logistics, Shield-State Rescue Failure, and Zhouzi; updated overview, index, and the main Changping/Qin/Zhao/Qi pages. No direct contradiction found; the source stops before the final surrender and massacre branch, and the Qi motive analysis was kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12221 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes while the current wiki has 12221 linted pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the configured model `claude-3-5-sonnet-latest` is not provider-qualified.

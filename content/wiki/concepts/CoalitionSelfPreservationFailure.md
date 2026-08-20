@@ -2,7 +2,7 @@
 title: "Coalition Self-Preservation Failure / 联盟自保失灵"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] is not a battlefield self-preservation case, but it extends the same alliance-fragility problem. [[ZhangYiStrategist|张仪]] makes [[ChuHuaiwang|楚怀王]] prefer a promised private gain in [[Shangyu|商於]] over maintaining the [[QiState|齐国]] tie, so Qin breaks the shared front before the coalition has to decide who bears the first military cost.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] adds a non-army version at Changping. The eastern states do not assemble a rescue coalition after Zhao is encircled, and Qi refuses the grain request that might keep Zhao's army alive. The failure is no longer only "each ally waits for another to fight first"; it can also be "each state waits while a shield state starves."
+
 ## Key Claims
 - A common enemy is not enough to produce operational unity.
 - Shared slogans can hide unequal willingness to spend troops, food, and political risk.
@@ -26,6 +28,7 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - Anti-Qin hezong needs enforcement and aligned incentives, not only a named leader.
 - Coalition failure can shift from collective retreat into concentrated retaliation against the most exposed members.
 - Zhouji 50 adds a pre-battle analogue: a coalition can be severed by private promised gain before battlefield self-preservation even appears.
+- Zhouji 94 part 2 adds a passive-relief analogue: states can preserve themselves by withholding food or intervention until a buffer state's army collapses.
 
 ## Connections
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[ZonghengjiaDiplomacy|纵横家外交]] - larger alliance and diplomacy frame.
@@ -33,3 +36,4 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - [[ChuHuaiwang|楚怀王]] and [[Mengchangjun|孟尝君 / 田文]] - alliance leader and slow-support operator.
 - [[Chulizi|樗里子]], [[XiuyuBattle|修鱼之战]], [[ZhuozeBattle|浊泽]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 46 retaliation and pursuit sequel.
 - [[ZhangYiStrategist|张仪]], [[ChenZhenWarringStates|陈枕]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 pre-battle alliance-fragility extension.
+- [[ChangpingBattle|长平之战]], [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], [[ZhouziQiMinister|周子]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Zhouji 94 part 2 grain-refusal and shield-state non-rescue branch.

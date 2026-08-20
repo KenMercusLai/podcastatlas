@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 4867
+wiki_total_pages: 4869
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "BattlefieldCommanderReplacementRisk"
     title: "Battlefield Commander Replacement Risk / 阵前换将风险"
     url: "/wiki/concepts/battlefieldcommanderreplacementrisk/"
+  - key: "BattlefieldEncirclementLogistics"
+    title: "Battlefield Encirclement Logistics / 战场围困与断粮"
+    url: "/wiki/concepts/battlefieldencirclementlogistics/"
   - key: "BattlefieldInformationControl"
     title: "Battlefield Information Control / 战场信息控制"
     url: "/wiki/concepts/battlefieldinformationcontrol/"
