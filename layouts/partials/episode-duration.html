@@ -1,0 +1,15 @@
+{{- $totalSeconds := int . -}}
+{{- $hours := div $totalSeconds 3600 -}}
+{{- $minutes := div (mod $totalSeconds 3600) 60 -}}
+
+{{- if gt $hours 0 -}}
+  {{- if gt $minutes 0 -}}
+    {{- printf "%d hr %d min" $hours $minutes -}}
+  {{- else -}}
+    {{- printf "%d hr" $hours -}}
+  {{- end -}}
+{{- else if gt $minutes 0 -}}
+  {{- printf "%d min" $minutes -}}
+{{- else -}}
+  {{- printf "%d sec" $totalSeconds -}}
+{{- end -}}
