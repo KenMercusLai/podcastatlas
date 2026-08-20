@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6171
+wiki_total_pages: 6172
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "HenganGroup"
     title: "恒安集团"
     url: "/wiki/entities/hengangroup/"
+  - key: "HengshanState"
+    title: "恒山国 / Hengshan State"
+    url: "/wiki/entities/hengshanstate/"
   - key: "Huizhou"
     title: "惠州 / Huizhou"
     url: "/wiki/entities/huizhou/"

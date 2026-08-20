@@ -2,7 +2,7 @@
 title: "State Resource Monopoly / 资源垄断式国家统制"
 type: concept
 tags: [statecraft, economics, monopoly, fiscal-policy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]
+sources: [zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]
 last_updated: 2026-08-21
 ---
 
@@ -12,10 +12,13 @@ State resource monopoly / 资源垄断式国家统制 is the economic-control br
 
 The source's notable detail is that control does not always mean direct state factories. It describes a state-owned, privately operated pattern in which merchants produce and sell while the state controls resources, prices, and output. The concept therefore tracks a fiscal-command logic: private activity remains useful, but strategic rents and market levers are pulled into the state.
 
+[[zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza]] qualifies the same branch from the other side. The episode says [[QiHuanGong|齐桓公]] wants direct resource monopoly, while [[GuanZhong|管仲]] prefers letting people profit and taxing the resulting activity. That creates [[TaxBaseOverResourceMonopoly|tax base over resource monopoly]] as a companion concept: strategic control and fiscal benefit do not require the state to operate everything itself.
+
 ## Key Claims
 - Control over natural resources lets the state extract revenue without relying only on ordinary taxes.
 - Salt, iron, coinage, prices, and market regulation become tools of state capacity.
 - The source distinguishes resource monopoly from full direct operation: private producers can remain inside a state-controlled framework.
+- The later source makes this distinction sharper by presenting private operation plus taxation as better than total state monopoly in some resource businesses.
 - The policy complements [[LuxuryConsumptionEconomicCirculation|luxury-consumption circulation]] by showing a more direct fiscal and regulatory side of Guan Zhong's economic thinking.
 - The source frames the aim as 富国强兵: a richer state can support stronger military and diplomatic action.
 
@@ -24,4 +27,5 @@ The source's notable detail is that control does not always mean direct state fa
 - [[HouseholdOccupationControl|户籍与职业管控]], [[MilitaryCivilianIntegration|军政一体]], and [[PenalRedemptionArmament|刑罚赎罪充实兵备]] - companion reform mechanisms.
 - [[StateManagedProstitution|国家管制女闾]] - specific regulated industry in the source.
 - [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]] and [[LianghuaiSaltMonopoly|两淮盐引垄断]] - adjacent economic-control and salt-monopoly branches.
+- [[TaxBaseOverResourceMonopoly|税基优先于资源独占]] and [[PrivateInterestAsPublicUse|私利转公功]] - Zhouji 75-4 qualification of direct monopoly.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - governing capacity remains tied to whether state extraction and order support people rather than only treasury growth.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Guan Zhong's Hengshan arms-and-grain economic warfare, price-signal resource steering, private-interest incentive design, merchant attraction, resource taxation over direct monopoly, luxury circulation, and public works employment. Created Hengshan State, Hengshan Economic Warfare, Price-Signal Resource Steering, Private Interest As Public Use, Trade-Hub Statecraft, Tax Base Over Resource Monopoly, and Countercyclical Public Works; updated overview, index, Guan Zhong, Qi Huan Gong, Qi State, Guanzi, Sima Qian, interstate economic warfare, demand-induced agrarian disruption, grain and border coercion, people-first economic statecraft, luxury consumption as economic circulation, and state resource monopoly. No direct contradiction found; the episode qualifies state resource monopoly and keeps claims about Guan Zhong as the first financial thinker/economist source-scoped.
+
 ## [2026-08-20] ingest | More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts
 
 Added source page for an All-In episode with Brad Gerstner on trillion-dollar AI IPO timing, SpaceX/Anthropic/OpenAI public-market transition claims, enterprise token-cost ROI pressure, Uber agentic deployment, model routing, dark open-model usage, possible China model-access restrictions, AI energy bottlenecks, and Trump accounts. Created Trump Accounts, Universal Equity Ownership, Enterprise AI ROI Audit, Dark Tokens, Model Fungibility, China Model Access Restriction Risk, Michael Dell, Susan Dell, Gwen Shotwell, Vlad Tenev, and ElevenLabs; updated overview, index, All-In, host and related AI/market/policy pages. Flagged a source-scoped SpaceX IPO figure conflict with the earlier All-In SpaceX/trillionaire episode.
@@ -8691,6 +8695,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Qi's court disorder,
 ## [2026-08-21] ingest | 《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲
 
 Added source page for a 芮淇讲透资治通鉴 episode comparing Zi Chan's river-crossing kindness with public governance and Guan Zhong's economic statecraft. Created pages for Zi Chan, Guan Zhong, Guanzi, Luxury Consumption As Economic Circulation, and Person-Dependent Governance Fragility; updated overview, index, Qi Huan Gong, Qi State, Zheng State, Xunzi, Xunzi Text, Xunzian Wangba Three Paths, Confucian Ideal Governance, Good Intentions Political Limits, Ruler Non-Natural Death Typology, Mencius, and Confucius. No direct contradiction found; the source extends Zhouji 74's Xunzi hierarchy and distinguishes Guan Zhong's positive luxury-circulation claim from the earlier Strategic Luxury Sabotage branch.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

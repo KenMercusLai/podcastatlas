@@ -2,8 +2,8 @@
 title: "司马迁 / Sima Qian"
 type: entity
 tags: [historian, chinese-history, writing]
-sources: [zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-21
 ---
 
 # 司马迁 / Sima Qian
@@ -18,6 +18,8 @@ The most important source claim is historiographical. QinZong notes that Sima Qi
 
 [[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds Sima Qian as a traveler and memory witness. The episode says that when Sima Qian later visited [[XueWarringStates|薛地]] / Mengchang Jun's old region, local people still connected many brave and combative households with Mengchang Jun's earlier recruitment of retainers.
 
+[[zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza]] invokes Sima Qian as a historian unusually sympathetic to merchants and wealth. The episode links his merchant biographies and wealth comments to [[GuanZhong|管仲]]'s economic statecraft: material abundance makes ritual and social order more plausible, while poverty makes polite order fragile.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - narrative scene discussed in the episode.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - figures in the source reading.
@@ -25,3 +27,4 @@ The most important source claim is historiographical. QinZong notes that Sima Qi
 - [[MoralFaceUnderPowerCompetition]], [[HistoricalDetectiveReasoning]], and [[ClassicalProseReading]] - interpretive frames.
 - [[Shiji|《史记》]], [[WeiState|魏国]], [[LiangHuiWang|魏罃 / 梁惠王]], and [[CoalitionSettlementFailure]] - Warring States judgment added by Zhouji 10 part 3.
 - [[SuQin|苏秦]], [[Guiguzi|鬼谷子]], [[FailureDrivenSelfStudy|失败后的自学翻身]], and [[InspirationalNarrativeCommercialization|励志叙事商业化]] - Su Qin biography and reception branch added by Zhouji 29.
+- [[GuanZhong|管仲]], [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], and [[PrivateInterestAsPublicUse|私利转公功]] - Zhouji 75-4 use of Sima Qian as a commercial-wealth comparison point.

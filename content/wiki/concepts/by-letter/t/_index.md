@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4818
+wiki_total_pages: 4824
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "TaxAvoidanceEvasionBoundary"
     title: "Tax Avoidance-Evasion Boundary"
     url: "/wiki/concepts/taxavoidanceevasionboundary/"
+  - key: "TaxBaseOverResourceMonopoly"
+    title: "Tax Base Over Resource Monopoly / 税基优先于资源独占"
+    url: "/wiki/concepts/taxbaseoverresourcemonopoly/"
   - key: "TaxEnforcementCapacity"
     title: "Tax Enforcement Capacity"
     url: "/wiki/concepts/taxenforcementcapacity/"
@@ -353,6 +356,9 @@ wiki_pages:
   - key: "TradeReciprocityProtectionism"
     title: "Trade Reciprocity Protectionism"
     url: "/wiki/concepts/tradereciprocityprotectionism/"
+  - key: "TradeHubStatecraft"
+    title: "Trade-Hub Statecraft / 商贸枢纽型治国"
+    url: "/wiki/concepts/tradehubstatecraft/"
   - key: "TrademarkResaleBoundary"
     title: "Trademark Resale Boundary"
     url: "/wiki/concepts/trademarkresaleboundary/"

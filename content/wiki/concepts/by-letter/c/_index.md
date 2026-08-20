@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4818
+wiki_total_pages: 4824
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "CounterDroneLayeredDefense"
     title: "Counter-Drone Layered Defense"
     url: "/wiki/concepts/counterdronelayereddefense/"
+  - key: "CountercyclicalPublicWorks"
+    title: "Countercyclical Public Works / 逆周期公共工程"
+    url: "/wiki/concepts/countercyclicalpublicworks/"
   - key: "CounterfeitCurrencyPolicing"
     title: "Counterfeit Currency Policing"
     url: "/wiki/concepts/counterfeitcurrencypolicing/"

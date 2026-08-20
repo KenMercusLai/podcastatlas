@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 4818
+wiki_total_pages: 4824
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "Helium3"
     title: "Helium-3"
     url: "/wiki/concepts/helium3/"
+  - key: "HengshanEconomicWarfare"
+    title: "Hengshan Economic Warfare / 恒山之谋"
+    url: "/wiki/concepts/hengshaneconomicwarfare/"
   - key: "HeptapodB"
     title: "Heptapod B"
     url: "/wiki/concepts/heptapodb/"

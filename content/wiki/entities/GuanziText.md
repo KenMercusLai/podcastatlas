@@ -2,7 +2,7 @@
 title: "《管子》 / Guanzi"
 type: entity
 tags: [book, chinese-classics, pre-qin, statecraft, economics]
-sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
+sources: [zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
 last_updated: 2026-08-21
 ---
 
@@ -14,9 +14,12 @@ In the episode's reading, the relevant Guanzi material argues that elite luxury 
 
 This makes the Guanzi node useful as a textual bridge between Guan Zhong's reputation as a statecraft figure and [[LuxuryConsumptionEconomicCirculation|luxury consumption as economic circulation]]. It also keeps the claim distinct from [[StrategicLuxurySabotage|奢侈诱导式削弱]], where induced luxury appears as a hostile strategy rather than a domestic economic policy.
 
+[[zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza]] returns to the same textual association while widening the policy range. The source uses Guanzi-linked ideas to support [[PrivateInterestAsPublicUse|private interest as public use]], [[LuxuryConsumptionEconomicCirculation|luxury circulation]], and [[CountercyclicalPublicWorks|public works as employment]], while keeping broader authorship and compilation questions outside scope.
+
 ## Connections
 - [[GuanZhong|管仲]] - figure associated with the text in the source.
 - [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]] - concept extracted from the episode's Guanzi branch.
 - [[QiState|齐国]] and [[QiHuanGong|齐桓公]] - political setting and ruler beneficiary in the episode.
 - [[ConfucianIdealGovernance|儒家理想治理]] and [[XunzianWangbaThreePaths|荀子王霸三分法]] - evaluative frame that limits economic competence below ritual-righteous order.
 - [[StrategicLuxurySabotage|奢侈诱导式削弱]] - contrast case for luxury as enemy-weakening tactic.
+- [[PrivateInterestAsPublicUse|私利转公功]] and [[CountercyclicalPublicWorks|逆周期公共工程]] - Zhouji 75-4 policy extensions associated with the Guan Zhong/Guanzi branch.

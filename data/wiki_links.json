@@ -10091,6 +10091,10 @@
     "title": "Counter-Drone Layered Defense",
     "url": "/wiki/concepts/counterdronelayereddefense/"
   },
+  "CountercyclicalPublicWorks": {
+    "title": "Countercyclical Public Works / 逆周期公共工程",
+    "url": "/wiki/concepts/countercyclicalpublicworks/"
+  },
   "CounterfeitCurrencyPolicing": {
     "title": "Counterfeit Currency Policing",
     "url": "/wiki/concepts/counterfeitcurrencypolicing/"
@@ -18242,6 +18246,14 @@
   "HengruiPharma": {
     "title": "Hengrui Pharma / 恒瑞医药",
     "url": "/wiki/entities/hengruipharma/"
+  },
+  "HengshanEconomicWarfare": {
+    "title": "Hengshan Economic Warfare / 恒山之谋",
+    "url": "/wiki/concepts/hengshaneconomicwarfare/"
+  },
+  "HengshanState": {
+    "title": "恒山国 / Hengshan State",
+    "url": "/wiki/entities/hengshanstate/"
   },
   "HenriPierreRoche": {
     "title": "Henri-Pierre Roche / 亨利-皮埃尔·罗什",
@@ -31515,6 +31527,10 @@
     "title": "Price Elasticity / 价格弹性",
     "url": "/wiki/concepts/priceelasticity/"
   },
+  "PriceSignalResourceSteering": {
+    "title": "Price-Signal Resource Steering / 价格信号调控物流",
+    "url": "/wiki/concepts/pricesignalresourcesteering/"
+  },
   "PriceWarGrowth": {
     "title": "Price War Growth",
     "url": "/wiki/concepts/pricewargrowth/"
@@ -31642,6 +31658,10 @@
   "PrivateInfrastructureWarPower": {
     "title": "Private Infrastructure War Power",
     "url": "/wiki/concepts/privateinfrastructurewarpower/"
+  },
+  "PrivateInterestAsPublicUse": {
+    "title": "Private Interest As Public Use / 私利转公功",
+    "url": "/wiki/concepts/privateinterestaspublicuse/"
   },
   "PrivateLabelBrandRisk": {
     "title": "Private Label Brand Risk",
@@ -38723,6 +38743,10 @@
     "title": "Tax Avoidance-Evasion Boundary",
     "url": "/wiki/concepts/taxavoidanceevasionboundary/"
   },
+  "TaxBaseOverResourceMonopoly": {
+    "title": "Tax Base Over Resource Monopoly / 税基优先于资源独占",
+    "url": "/wiki/concepts/taxbaseoverresourcemonopoly/"
+  },
   "TaxEnforcementCapacity": {
     "title": "Tax Enforcement Capacity",
     "url": "/wiki/concepts/taxenforcementcapacity/"
@@ -39994,6 +40018,10 @@
   "TradeDeficitOwnershipFrame": {
     "title": "Trade Deficit Ownership Frame",
     "url": "/wiki/concepts/tradedeficitownershipframe/"
+  },
+  "TradeHubStatecraft": {
+    "title": "Trade-Hub Statecraft / 商贸枢纽型治国",
+    "url": "/wiki/concepts/tradehubstatecraft/"
   },
   "TradeReciprocityProtectionism": {
     "title": "Trade Reciprocity Protectionism",
@@ -48282,5 +48310,9 @@
   "zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf": {
     "title": "《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf/"
+  },
+  "zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza": {
+    "title": "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza/"
   }
 }

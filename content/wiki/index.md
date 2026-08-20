@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？](sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's Hengshan arms-and-grain economic warfare, private-interest incentive design, merchant attraction, resource taxation, price steering, luxury circulation, and public works employment.
 - [《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？](sources/zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's economic warfare through Lu/梁 cloth demand, Chu deer purchases, grain control, border closure, population flight, and people-first economic statecraft.
 - [《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa.md) — 芮淇讲透资治通鉴 episode on Qi's court disorder, Guan Zhong's succession-side switch, Bao Shuya's recommendation, and Guan Zhong's household, military, fiscal, resource, vice-regulation, and concession-hegemony reforms.
 - [《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj.md) — 芮淇讲透资治通鉴 episode comparing Zi Chan's personal kindness with public governance and Guan Zhong's economic statecraft, luxury-consumption theory, and person-dependent limits after Qi Huan Gong's collapse.
@@ -1089,6 +1090,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [恒山国 / Hengshan State](entities/HengshanState.md) — Source-scoped state targeted by Guan Zhong's Hengshan arms-and-grain economic warfare case.
 - [梁国 / Liang State](entities/LiangState.md) — Source-scoped Lu/梁 textile-war target in Guan Zhong's demand-induced agrarian disruption case.
 - [鲍叔牙 / Bao Shuya](entities/BaoShuya.md) — Qi figure who protects Jiang Xiaobai and recommends former enemy Guan Zhong as state-level talent.
 - [齐襄公 / Duke Xiang of Qi](entities/QiXiangGong.md) — Disorderly Qi ruler whose scandal, Lu Huan Gong's killing, and later death set up the Qi succession crisis.
@@ -7264,6 +7266,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hengshan Economic Warfare / 恒山之谋](concepts/HengshanEconomicWarfare.md) — Guan Zhong strategy using high-priced arms and grain purchases, pass closure, and attack to turn Hengshan's production specialty into vulnerability.
+- [Price-Signal Resource Steering / 价格信号调控物流](concepts/PriceSignalResourceSteering.md) — Guan Zhong trade-policy idea that prices can pull desired goods inward, retain scarce goods, or expose rivals depending on state intent.
+- [Private Interest As Public Use / 私利转公功](concepts/PrivateInterestAsPublicUse.md) — Guan Zhong incentive frame where self-interest is organized into labor, trade, tax revenue, consumption, and public strength.
+- [Trade-Hub Statecraft / 商贸枢纽型治国](concepts/TradeHubStatecraft.md) — Open-commerce policy using low entry costs and merchant hospitality to make Qi a center of goods, information, and circulation.
+- [Tax Base Over Resource Monopoly / 税基优先于资源独占](concepts/TaxBaseOverResourceMonopoly.md) — Fiscal distinction that private resource operation plus taxation can outperform direct state monopoly.
+- [Countercyclical Public Works / 逆周期公共工程](concepts/CountercyclicalPublicWorks.md) — Source-scoped Guan Zhong idea that public construction can create employment and stabilize circulation in weak economic periods.
 - [Interstate Economic Warfare / 跨国经济战](concepts/InterstateEconomicWarfare.md) — Guan Zhong strategy using prices, demand, grain reserves, border closure, and population movement as interstate coercion.
 - [Demand-Induced Agrarian Disruption / 需求诱导式弃农](concepts/DemandInducedAgrarianDisruption.md) — Economic-war mechanism where profitable external demand pulls a rival away from farming before the market is withdrawn or weaponized.
 - [Grain And Border Coercion / 粮食与封边胁迫](concepts/GrainBorderCoercion.md) — Food-security pressure pattern using grain reserves, price asymmetry, and border closure after a rival's production base weakens.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4818
+wiki_total_pages: 4824
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "PriceWarGrowth"
     title: "Price War Growth"
     url: "/wiki/concepts/pricewargrowth/"
+  - key: "PriceSignalResourceSteering"
+    title: "Price-Signal Resource Steering / 价格信号调控物流"
+    url: "/wiki/concepts/pricesignalresourcesteering/"
   - key: "PrimaryElectorateDistortion"
     title: "Primary Electorate Distortion"
     url: "/wiki/concepts/primaryelectoratedistortion/"
@@ -884,6 +887,9 @@ wiki_pages:
   - key: "PrivateInfrastructureWarPower"
     title: "Private Infrastructure War Power"
     url: "/wiki/concepts/privateinfrastructurewarpower/"
+  - key: "PrivateInterestAsPublicUse"
+    title: "Private Interest As Public Use / 私利转公功"
+    url: "/wiki/concepts/privateinterestaspublicuse/"
   - key: "PrivateLabelBrandRisk"
     title: "Private Label Brand Risk"
     url: "/wiki/concepts/privatelabelbrandrisk/"
