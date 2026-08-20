@@ -2,7 +2,7 @@
 title: "春申君 / 黄歇 / Lord Chunshen"
 type: entity
 tags: [person, chu-state, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The episode also makes Huang Xie a case of elite rhetorical competence. His use 
 
 [[zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]] follows the practical sequel to that success. After Qin accepts friendship with [[ChuState|楚国]], Chu sends its crown prince to [[QinState|秦国]] as hostage and Huang Xie accompanies him as left official. The episode treats this as the opening of Huang Xie's later rise: a hostage prince in a foreign court depends heavily on trusted attendants, so Huang Xie's Qin service becomes a future power base.
 
+[[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]] shows Huang Xie cashing in that nine-year attachment to the hostage prince. When [[MiHeng|楚顷襄王]] is gravely ill and [[MiWan|太子完]] remains in Xianyang, Huang Xie argues to [[FanJu|范雎]] that Qin should let the prince return and inherit rather than let another Chu prince make him valueless. When [[QinZhaoxiangwang|秦昭襄王]] hesitates, Huang Xie proposes a risk-transfer plan: Mi Wan flees disguised as a Chu envoy's driver, while Huang Xie remains behind to conceal the escape.
+
 ## Connections
 - [[ChuState|楚国]] and [[MiHeng|楚顷襄王]] - state and ruler whose survival his letter protects.
 - [[QinState|秦国]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - target court, ruler, and halted commander.
@@ -25,3 +27,4 @@ The episode also makes Huang Xie a case of elite rhetorical competence. His use 
 - [[InterestReframingPersuasion|利益重构式说服]], [[ChuaimoTechnique|揣摩]], [[ZonghengjiaDiplomacy|纵横家外交]], and [[PoetryAsElitePoliticalLanguage|诗经作为贵族政治语言]] - persuasion and rhetoric frames.
 - [[WarringStatesFourLords|战国四公子]], [[Mengchangjun|孟尝君 / 田文]], [[Xinlingjun|信陵君]], and [[Pingyuanjun|平原君]] - earlier comparative grouping.
 - [[HostageDiplomacyRupture|质子外交破裂]] and [[WarringStatesAllianceSwitching|战国同盟转向]] - adjacent hostage and alliance concepts that frame Huang Xie's Zhouji 85 escort role.
+- [[MiWan|芈完 / 楚考烈王]], [[FanJu|范雎]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 92 hostage-return argument and escape-cover plan.

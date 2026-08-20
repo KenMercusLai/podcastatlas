@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6225
+wiki_total_pages: 6229
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "MiLan"
     title: "芈兰 / Mi Lan"
     url: "/wiki/entities/milan/"
+  - key: "MiWan"
+    title: "芈完 / 楚考烈王 / Mi Wan"
+    url: "/wiki/entities/miwan/"
   - key: "MiHeng"
     title: "芈横 / 楚顷襄王 / Mi Heng"
     url: "/wiki/entities/miheng/"

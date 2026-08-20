@@ -17891,6 +17891,10 @@
     "title": "满汉合法性政治 / Han-Manchu Legitimacy Politics",
     "url": "/wiki/concepts/hanmanchulegitimacypolitics/"
   },
+  "HanNanyangWarringStates": {
+    "title": "韩国南阳 / Han Nanyang (Warring States)",
+    "url": "/wiki/entities/hannanyangwarringstates/"
+  },
   "HanPingdi": {
     "title": "Emperor Ping of Han / 汉平帝",
     "url": "/wiki/entities/hanpingdi/"
@@ -20178,6 +20182,10 @@
   "InteractiveTheoremProving": {
     "title": "Interactive Theorem Proving",
     "url": "/wiki/concepts/interactivetheoremproving/"
+  },
+  "InterestBasedCoalitionSabotage": {
+    "title": "Interest-Based Coalition Sabotage / 利益瓦解合纵",
+    "url": "/wiki/concepts/interestbasedcoalitionsabotage/"
   },
   "InterestBasedNegotiation": {
     "title": "Interest-Based Negotiation / 利益导向谈判",
@@ -26542,6 +26550,10 @@
   "MiLan": {
     "title": "芈兰 / Mi Lan",
     "url": "/wiki/entities/milan/"
+  },
+  "MiWan": {
+    "title": "芈完 / 楚考烈王 / Mi Wan",
+    "url": "/wiki/entities/miwan/"
   },
   "MiaEcommerce": {
     "title": "蜜芽 / Mia",
@@ -35827,6 +35839,10 @@
     "title": "Shang Yang Reforms / 商鞅变法",
     "url": "/wiki/concepts/shangyangreforms/"
   },
+  "Shangdang": {
+    "title": "上党 / Shangdang",
+    "url": "/wiki/entities/shangdang/"
+  },
   "ShanghaiForeignBanks": {
     "title": "Shanghai Foreign Banks",
     "url": "/wiki/concepts/shanghaiforeignbanks/"
@@ -38695,6 +38711,10 @@
     "title": "多田克己 / Tada Katsumi",
     "url": "/wiki/entities/tadakatsumi/"
   },
+  "TaihangRoad": {
+    "title": "太行道 / Taihang Road",
+    "url": "/wiki/entities/taihangroad/"
+  },
   "TaikangHome": {
     "title": "太康之家 / Taikang Home",
     "url": "/wiki/entities/taikanghome/"
@@ -40374,6 +40394,10 @@
   "TransparentAIUse": {
     "title": "Transparent AI Use",
     "url": "/wiki/concepts/transparentaiuse/"
+  },
+  "TransportCorridorSeverance": {
+    "title": "Transport Corridor Severance / 交通线切割",
+    "url": "/wiki/concepts/transportcorridorseverance/"
   },
   "TraumaNarrativeIntegration": {
     "title": "Trauma Narrative Integration / 创伤叙事整合",
@@ -48758,5 +48782,9 @@
   "zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7": {
     "title": "《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7/"
+  },
+  "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp": {
+    "title": "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp/"
   }
 }

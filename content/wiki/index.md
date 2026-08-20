@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（1）](sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp.md) — 芮淇讲透资治通鉴 episode on Fan Ju's near-attack program against Han, Bai Qi's route-cutting around Nanyang/Taihang/Shangdang, money-based sabotage of renewed hezong, and Huang Xie's plan to return Chu crown prince Mi Wan from Qin.
 - [《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（2）](sources/zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7.md) — 芮淇讲透资治通鉴 episode completing Chu Long's persuasion of Zhao Weihou, Chang'an Jun's hostage dispatch to Qi, Qin's withdrawal, and a critique of merit-based explanations for Warring States noble decline.
 - [《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（1）](sources/zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok.md) — 芮淇讲透资治通鉴 episode on Qin pressure against young-regent Zhao, Qi's Chang'an Jun hostage condition, and Chu Long's emotional de-escalation persuasion of Zhao Weihou.
 - [《资治通鉴·周纪》90丨揭秘先秦最完美的复仇](sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm.md) — 芮淇讲透资治通鉴 episode on Fan Ju's revenge against Xu Jia and Wei Qi through Qin's near-Wei pressure, public humiliation, and the Pingyuanjun/Zhao asylum problem.
@@ -1111,6 +1112,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [芈完 / 楚考烈王 / Mi Wan](entities/MiWan.md) — Chu crown prince whose Qin hostage status becomes a succession crisis when Chu Qingxiang Wang falls ill.
+- [韩国南阳 / Han Nanyang (Warring States)](entities/HanNanyangWarringStates.md) — Han-front Nanyang place/region captured by Qin in the route-cutting campaign that isolates Shangdang.
+- [太行道 / Taihang Road](entities/TaihangRoad.md) — Route whose cutting separates Shangdang from Han's capital region and turns geography into Qin leverage.
+- [上党 / Shangdang](entities/Shangdang.md) — Han northern territory isolated by Qin's Taihang route attack and pointed toward Zhao rather than surrender to Qin.
 - [触龙 / Chu Long](entities/ChuLong.md) — Zhao left master whose slow, family-centered approach to Zhao Weihou anchors the emotional de-escalation persuasion case.
 - [赵威后 / Zhao Weihou](entities/ZhaoWeihou.md) — Zhao regent and mother of Chang'an Jun whose refusal of Qi's hostage demand creates the Chu Long persuasion crisis.
 - [长安君 / Lord Chang'an of Zhao](entities/ChangAnJunZhao.md) — Zhao Weihou's youngest son whom Qi demands as hostage before aiding Zhao against Qin.
@@ -7340,6 +7345,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Transport Corridor Severance / 交通线切割](concepts/TransportCorridorSeverance.md) — Strategy pattern where Qin cuts routes and passes so a neighboring state's territory becomes fragmented before conquest.
+- [Interest-Based Coalition Sabotage / 利益瓦解合纵](concepts/InterestBasedCoalitionSabotage.md) — Fan Ju pattern of using money, banquets, and organizer self-interest to fracture renewed anti-Qin hezong before it matures.
 - [Emotional De-escalation Persuasion / 情绪降温式说服](concepts/EmotionalDeescalationPersuasion.md) — Chu Long pattern of lowering emotional threat before turning Zhao Weihou toward the hostage decision.
 - [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where Fan Ju routes private revenge through Qin's real diplomatic and military pressure on Wei.
 - [Qin Four Nobles Court Power / 秦国四贵权力结构](concepts/QinFourNoblesCourtPower.md) — Fan Ju's Qin court-power diagnosis where Wei Ran, Huayang Jun, Jingyang Jun, Gaoling Jun, and Xuan Taihou leave Qin Zhaoxiang Wang with title but limited authority.

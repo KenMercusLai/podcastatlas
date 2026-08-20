@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4861
+wiki_total_pages: 4863
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "TransparentAIUse"
     title: "Transparent AI Use"
     url: "/wiki/concepts/transparentaiuse/"
+  - key: "TransportCorridorSeverance"
+    title: "Transport Corridor Severance / 交通线切割"
+    url: "/wiki/concepts/transportcorridorseverance/"
   - key: "TraumaNarrativeIntegration"
     title: "Trauma Narrative Integration / 创伤叙事整合"
     url: "/wiki/concepts/traumanarrativeintegration/"

@@ -2,7 +2,7 @@
 title: "田单 / Tian Dan"
 type: entity
 tags: [person, qi-state, general, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringSt
 
 [[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7]] returns to Tian Dan after the Zhao hostage crisis. Once [[ChangAnJunZhao|长安君]] goes to Qi and Qi-Zhao alignment forms, Tian Dan commands Zhao troops against [[YanState|燕国]] and takes Zhongyang, then attacks [[HanState|韩国]] and takes Zhuren/Zhucheng. The same episode links his uneasy fit in Qi to the accession of [[QiWangJian|齐王建 / 田建]] under [[JunWangHou|君王后]]'s cautious regency.
 
+[[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]] briefly repeats Tian Dan's 264 BCE appointment as [[ZhaoState|赵国]] chancellor while choosing to follow the Qin-Han line first. The note keeps Tian Dan's Zhao role in the same chronological frame as [[BaiQi|白起]]'s pressure on [[HanState|韩国]].
+
 ## Connections
 - [[QiState|齐国]] and [[Linzi|临淄]] - state and origin context.
 - [[JimoWarringStates|即墨]] - city that chooses him as commander after the local official dies.
@@ -41,3 +43,4 @@ After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringSt
 - [[PostRestorationMeritThreat|复国功臣威胁化]], [[PoliticalCreditAppropriation|善行君恩化]], [[DiaoBo|刁伯]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 post-restoration suspicion, credit absorption, envoy-triggered slander, and ritual pressure.
 - [[LuZhonglian|鲁仲连]], [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], and [[PowerExitTrap|权力退场困境]] - Zhouji 81 part 2 Di campaign, lost death resolve, and self-protective limits under suspicion.
 - [[ChangAnJunZhao|长安君]], [[ZhaoState|赵国]], [[YanState|燕国]], [[HanState|韩国]], [[QiWangJian|齐王建 / 田建]], and [[JunWangHou|君王后]] - Zhouji 91 post-hostage Qi-Zhao military action and Qi succession context.
+- [[BaiQi|白起]] and [[ZhouNanwang|周赧王]] - Zhouji 92 same-year chronology while the episode turns toward Qin-Han pressure.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 4861
+wiki_total_pages: 4863
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "InterestReframingPersuasion"
     title: "Interest Reframing Persuasion / 利益重构式说服"
     url: "/wiki/concepts/interestreframingpersuasion/"
+  - key: "InterestBasedCoalitionSabotage"
+    title: "Interest-Based Coalition Sabotage / 利益瓦解合纵"
+    url: "/wiki/concepts/interestbasedcoalitionsabotage/"
   - key: "InterestBasedNegotiation"
     title: "Interest-Based Negotiation / 利益导向谈判"
     url: "/wiki/concepts/interestbasednegotiation/"

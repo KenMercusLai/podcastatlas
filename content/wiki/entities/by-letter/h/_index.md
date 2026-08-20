@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6225
+wiki_total_pages: 6229
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "HanState"
     title: "韩国 / Han State"
     url: "/wiki/entities/hanstate/"
+  - key: "HanNanyangWarringStates"
+    title: "韩国南阳 / Han Nanyang (Warring States)"
+    url: "/wiki/entities/hannanyangwarringstates/"
   - key: "HanYing"
     title: "韩婴 / Han Ying"
     url: "/wiki/entities/hanying/"

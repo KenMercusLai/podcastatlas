@@ -8879,3 +8879,11 @@ Added source page for the completion of Chu Long's persuasion of Zhao Weihou: Ch
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12190 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes while the current wiki has 12190 linted pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. Report returned in-session.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Fan Ju's 远交近攻 implementation against Han, Bai Qi's seizure of Han Nanyang and Taihang-route cutting, the isolation of Shangdang, money-based disruption of a renewed hezong effort in Zhao, and Huang Xie's plan to return Chu crown prince Mi Wan from Qin before Chu's succession closes. Created Mi Wan, Han Nanyang, Taihang Road, Shangdang, Transport Corridor Severance, and Interest-Based Coalition Sabotage; updated overview, index, Fan Ju, Bai Qi, Chunshenjun, Qin Zhaoxiang Wang, Qi Wang Jian, Qin/Han/Zhao/Chu state pages, Mi Heng, Tian Dan, Zhou Nan Wang, Yuanjiao Jingong Strategy, Hezong Alliance, Hostage Diplomacy Rupture, and Qin Eastward Pressure. No direct contradiction found; the source-scoped Nanyang reference was kept separate from the earlier Nanyang Commandery page.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
