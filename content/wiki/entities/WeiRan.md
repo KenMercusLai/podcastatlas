@@ -2,7 +2,7 @@
 title: "魏冉 / Wei Ran"
 type: entity
 tags: [person, qin-state, minister, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
+sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]] makes Wei Ran's power more openly self-interested. In the episode, he recommends [[KeqingZao|客卿灶 / 客卿造]] to attack [[QiState|齐国]] and take Gang and Shou, but the host argues that the campaign is costly and remote for [[QinState|秦国]] while useful for enlarging Wei Ran's [[Dingtao|陶 / 定陶]] fief. The case turns Wei Ran from a powerful Qin operator into the source example for [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]], setting up why [[FanJu|范雎]] can later appear as his political counterweight.
 
+[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] makes that counterweight direct. Fan Ju tells [[QinZhaoxiangwang|秦昭襄王]] that Qin has no real king, only [[XuanTaihou|宣太后]] and Wei Ran, then criticizes the Qi campaign as the wrong strategic direction. Wei Ran therefore becomes both the court-power obstacle and the policy-error case behind [[YuanjiaoJingongStrategy|远交近攻]]: Qin should not cross Han and Wei to fight distant Qi for gains it cannot easily keep.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - nephew whose accession he secures.
 - [[XuanTaihou|芈八子 / 宣太后]] - related power configuration around Ying Ji.
@@ -41,3 +43,4 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 - [[WeiState|魏国]], [[WeiAnxiWang|魏安釐王]], [[MangMao|芒卯]], and [[StrategicDepthDefense|战略纵深防御]] - Zhouji 82 two attacks on Wei after Bai Qi's Chu campaign.
 - [[HuayangBattle|华阳之战]], [[HanState|韩国]], [[ZhaoState|赵国]], and [[ThreatenedDefectionLeverage|投敌威胁式求援]] - Zhouji 83 rescue decision and campaign.
 - [[KeqingZao|客卿灶 / 客卿造]], [[QiState|齐国]], [[Dingtao|陶 / 定陶]], [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]], and [[FanJu|范雎]] - Zhouji 88 private-fief campaign setup and coming court struggle.
+- [[YuanjiaoJingongStrategy|远交近攻]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[XuanTaihou|宣太后]] - Zhouji 88 part 2 strategic critique and internal Qin authority problem.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》88丨你怎么看待凤凰男（2）](sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi.md) — 芮淇讲透资治通鉴 episode on Fan Ju's first Qin audience, protected remonstrance against Xuan Taihou and Wei Ran, critique of remote Qi campaigns, and formulation of 远交近攻.
 - [《资治通鉴·周纪》88丨你怎么看待凤凰男（1）](sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5.md) — 芮淇讲透资治通鉴 episode introducing Fan Ju through Wei Ran's private-fief campaign, Fan Ju's accusation and punishment in Wei, escape as Zhang Lu, and discovery by Qin envoy Wang Ji.
 - [《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！](sources/zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h.md) — 芮淇讲透资治通鉴 episode on Zhao She rescuing Eyu/阏与 from Qin through staged inaction, spy deception, forced marching, Xu Li's high-ground advice, and the "狭路相逢勇者胜" maxim.
 - [《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？](sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq.md) — 芮淇讲透资治通鉴 episode introducing Zhao She as a tax officer before his generalship, enforcing taxes against Pingyuanjun's household and turning elite tax compliance into a Zhao state-capacity lesson.
@@ -1175,7 +1176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique coalition-fracture analysis to the destructive Chu campaign that creates Nan Commandery.
 - [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
 - [公孙喜 / Gongsun Xi](entities/GongsunXiWarringStates.md) — Han-Wei coalition commander captured after Bai Qi's Yique campaign, with source wording split between Han and Wei affiliation.
-- [范雎 / Fan Ju](entities/FanJu.md) — Zhanguo Ce interlocutor whose praise prompts Bai Qi's explanation of the Yique victory.
+- [范雎 / Fan Ju](entities/FanJu.md) — Wei-to-Qin strategist whose protected remonstrance against Xuan Taihou and Wei Ran introduces Qin's 远交近攻 strategy.
 - [芒卯 / Mang Mao](entities/MangMao.md) — Wei figure known for "诈说" who later appears as the commander defeated by Wei Ran during Qin pressure on Wei.
 - [垣郡 / Yuan Commandery](entities/YuanjunWarringStates.md) — Split Chu/Han commandery used to clarify Qin's 292 and 291 BCE conquests.
 - [陶 / 定陶 / Dingtao](entities/Dingtao.md) — Prosperous Song/Qi/Qin place used to correct the timing of Wei Ran's Tao enfeoffment.
@@ -1210,9 +1211,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [向寿 / Xiang Shou](entities/XiangShou.md) — Qin official sent to administer Yiyang whose opposition to returning Wusui helps turn Gan Mao's policy win into court resentment.
 - [赵固 / Zhao Gu (Warring States)](entities/ZhaoGuWarringStates.md) — Zhao official appointed to manage Hu affairs and recruit Hu fighters after Zhao Wuling Wang's northern expansion.
 - [武遂 / Wusui (Warring States)](entities/WusuiWarringStates.md) — Han city Qin returns on Gan Mao's advice after Yiyang, becoming a concrete trigger for post-succession resentment against him.
-- [魏冉 / Wei Ran](entities/WeiRan.md) — Qin court actor who secures his nephew Ying Ji's accession as Qin Zhaoxiang Wang after Qin Wuwang's death.
-- [秦昭襄王 / King Zhaoxiang of Qin](entities/QinZhaoxiangwang.md) — Ying Ji, Qin Wuwang's younger half-brother and Yan hostage, brought back to succeed after Qin Wuwang dies without a son.
-- [芈八子 / 宣太后 / Xuan Taihou](entities/XuanTaihou.md) — Mother of Qin Zhaoxiang Wang, introduced as the next Qin power configuration after Qin Wuwang's death.
+- [魏冉 / Wei Ran](entities/WeiRan.md) — Qin foreign-relative power holder whose private-fief and distant Qi campaign interests become Fan Ju's target.
+- [秦昭襄王 / King Zhaoxiang of Qin](entities/QinZhaoxiangwang.md) — Qin ruler whose authority is tested by Xuan Taihou and Wei Ran before Fan Ju's protected advice opens a new strategic line.
+- [芈八子 / 宣太后 / Xuan Taihou](entities/XuanTaihou.md) — Mother of Qin Zhaoxiang Wang whose regency authority frames Qin's foreign-relative court politics and Fan Ju's later critique.
 - [赵成 / Zhao Cheng (Warring States)](entities/ZhaoChengWarringStates.md) — Zhao Wuling Wang's uncle whose ritual objection makes Hu Fu Qi She's first resistance visible.
 - [吴国 / Wu State](entities/WuState.md) — Spring-and-Autumn state drawn by Zigong into the Qi-Jin-Yue cascade that ends with Fuchai's defeat and suicide.
 - [田常 / Tian Chang](entities/TianChang.md) — Qi chief minister whom Zigong persuades to redirect danger away from Lu and toward Wu.
@@ -7322,6 +7323,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [远交近攻 / Yuanjiao Jingong Strategy](concepts/YuanjiaoJingongStrategy.md) — Fan Ju's Qin strategy of diplomatically managing distant states while attacking nearby states whose territory Qin can retain.
+- [Protective Remonstrance Sequencing / 护身符式进言](concepts/ProtectiveRemonstranceSequencing.md) — High-risk persuasion sequence where an adviser shocks the ruler, secures repeated invitation and protection, and only then delivers dangerous critique.
 - [Private Fief Expansion Through State War / 以国战扩私邑](concepts/PrivateFiefExpansionThroughStateWar.md) — pattern where a minister redirects state war toward expansion of a private fief.
 - [Private Punishment Without Procedure / 无程序私刑](concepts/PrivatePunishmentWithoutProcedure.md) — failure mode where elite suspicion turns into punitive violence without investigation or adjudication.
 - [Two Rats Courage Maxim / 两鼠斗穴勇者胜](concepts/TwoRatsCourageMaxim.md) — Zhao She's narrow-route maxim behind "狭路相逢勇者胜," treated as disciplined operational courage rather than reckless aggression.

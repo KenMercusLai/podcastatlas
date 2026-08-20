@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》88丨你怎么看待凤凰男（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Fan Ju's first Qin audience: he shocks Qin Zhaoxiang Wang with the claim that Qin has only Xuan Taihou and Wei Ran, uses repeated "唯唯" and a risk statement to secure protection, waits out possible eavesdropping, criticizes Wei Ran's remote Qi campaign, and formulates yuanjiao jingong. Created Yuanjiao Jingong Strategy and Protective Remonstrance Sequencing; updated overview, index, Fan Ju, Wei Ran, Qin Zhaoxiang Wang, Xuan Taihou, Qin/Qi state pages, Qi Min Wang, private fief expansion through state war, Qin eastward pressure, zonghengjia diplomacy, chuaimo technique, lianheng strategy, foreign-relative court politics, and Warring States careerist mobility. No direct contradiction found; the title's "凤凰男" frame remains source-scoped because this transcript excerpt does not develop it.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》88丨你怎么看待凤凰男（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode introducing Fan Ju through two linked governance failures: Wei Ran recommends Keqing Zao's attack on Qi to expand his Tao/Dingtao fief, and Fan Ju's recognition by Qi Xiang Wang is turned by Xu Jia and Wei Qi into accusation, private punishment, escape, alias Zhang Lu, and eventual Qin discovery by Wang Ji. Created Keqing Zao, Xu Jia, Wei Qi, Zheng Anping, Wang Ji, private fief expansion through state war, and private punishment without procedure; updated overview, index, Fan Ju, Wei Ran, Qin Zhaoxiang Wang, Qin/Qi/Wei state pages, Qi Xiang Wang, Dingtao, Zizhi Tongjian, Shiji, Warring States careerist mobility, and Legalist ruler technique. No direct contradiction found; transcript variants 范居/范衰, 徐谷, 王继, and 客卿造 are normalized to canonical wiki identities while kept source-scoped.
@@ -8839,3 +8843,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki lint check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12170 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` was not provider-qualified.

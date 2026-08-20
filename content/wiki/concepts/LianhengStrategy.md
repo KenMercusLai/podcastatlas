@@ -2,7 +2,7 @@
 title: "连横 / Lianheng Strategy"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
+sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 
 [[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]] adds another post-Zhang-Yi branch without making [[Chunshenjun|黄歇 / 春申君]] a formal lianheng advocate. Huang Xie tells [[QinZhaoxiangwang|秦昭襄王]] that Qin-Chu friendship can serve Qin better than a Han-Wei-routed attack on Chu: first pressure Han, station near Xinzheng, bring Wei into line, then turn toward Qi while cutting Yan and Zhao from support. The episode therefore shows lianheng-like bilateral logic being used by Chu to redirect Qin's own strategy.
 
+[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] adds [[YuanjiaoJingongStrategy|远交近攻]] as an adjacent Qin strategy rather than a simple synonym for lianheng. Fan Ju's formula does not merely ask states to serve Qin one by one; it separates diplomatic management of distant states from territorial attack on neighbors. It therefore supplies the geographic sequencing that can make Qin-facing bilateral diplomacy more coherent.
+
 ## Key Claims
 - Lianheng is defined against hezong: where hezong tries to bind the eastern states together against Qin, lianheng turns Qin pressure into separate bargains.
 - Su Qin's critique treats lianheng persuaders as misaligned agents because the land they recommend ceding to Qin belongs to rulers and states, not to the persuaders themselves.
@@ -53,6 +55,7 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - Zhouji 55 adds that lianheng gains can unravel when the Qin court's patronage continuity breaks.
 - Zhouji 60 adds a broader alignment-switching sequel: Qin can move from Chu-facing repair to Han-Wei repair when hostage diplomacy makes the earlier arrangement costly.
 - Zhouji 84 adds a defensive appropriation of lianheng logic: Chu's envoy argues for Qin-Chu repair because it lets Qin organize pressure against Han, Wei, and Qi more safely.
+- Zhouji 88 part 2 adds a geographic companion to lianheng: distant accommodation matters because it frees Qin to attack nearby, retainable targets.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, ruler, and state setting for the coming lianheng branch.
@@ -69,3 +72,4 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[QinWuwang|秦武王]], [[WeiState|魏国]], and [[SanchuanWarringStates|三川]] - Zhouji 55 post-tour fragility and exit plan.
 - [[XuanTaihou|芈八子 / 宣太后]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[LinjinWarringStates|临晋]], [[HostageDiplomacyRupture|质子外交破裂]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 post-Zhang Yi bilateral realignment branch.
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], [[HanState|韩国]], [[WeiState|魏国]], [[QiState|齐国]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 84 Qin-Chu repair as Qin-favorable sequencing.
+- [[FanJu|范雎]], [[YuanjiaoJingongStrategy|远交近攻]], [[QinEastwardPressure|秦国东进压力]], [[HanState|韩国]], and [[WeiState|魏国]] - Zhouji 88 part 2 geographic sequencing adjacent to lianheng.

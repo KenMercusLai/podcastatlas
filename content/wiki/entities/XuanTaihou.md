@@ -2,7 +2,7 @@
 title: "芈八子 / 宣太后 / Xuan Taihou"
 type: entity
 tags: [person, queen-mother, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ last_updated: 2026-08-21
 
 [[zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]] returns to Xuan Taihou as a direct actor on Qin's northern frontier. The episode says she maintained a roughly thirty-year relationship with the [[YiquState|义渠]] king and had two sons by him, while Yiqu did not raid Qin's rear during Qin's major campaigns. Because the sources cannot prove motive, the page records the strategic effect without claiming certainty about affection versus calculation. When Qin's timing matures, Xuan Taihou lures the Yiqu king to [[GanquanPalace|甘泉宫]], kills him, and lets [[QinState|秦国]] destroy Yiqu and create [[BeidiCommandery|北地郡]], making her the source case for [[IntimateFrontierPacification|亲密关系式边患安抚]].
 
+[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] uses Xuan Taihou as one half of Fan Ju's blunt diagnosis of Qin court power. Fan Ju's statement that Qin has no king, only the queen mother and [[WeiRan|穰侯魏冉]], does not add a new frontier action by Xuan Taihou; it marks the point where her regency-era authority has become a problem [[QinZhaoxiangwang|秦昭襄王]] must address if he wants Fan Ju's [[YuanjiaoJingongStrategy|远交近攻]] to be implemented.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - son whose accession brings her into the wiki.
 - [[QinWuwang|秦武王]] - predecessor whose death creates the succession opening.
@@ -27,3 +29,4 @@ last_updated: 2026-08-21
 - [[QueenMotherRegency|太后摄政]], [[ForeignRelativeCourtPolitics|楚系外戚政治]], [[WarringStatesMarriageDiplomacy|战国联姻外交]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 regency, kin bloc, marriage repair, and alliance reversal.
 - [[ChuHuaiwang|楚怀王]], [[MiLan|芈兰]], [[Wuguan|武关]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 kinship-confidence failure around the Wuguan meeting.
 - [[YiquState|义渠]], [[GanquanPalace|甘泉宫]], [[BeidiCommandery|北地郡]], [[QinFrontierBufferManagement|秦国后方边患管理]], and [[IntimateFrontierPacification|亲密关系式边患安抚]] - Zhouji 85 relationship, killing, and frontier absorption branch.
+- [[FanJu|范雎]], [[WeiRan|魏冉]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 court-authority diagnosis and strategic-implementation obstacle.

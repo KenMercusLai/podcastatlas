@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4856
+wiki_total_pages: 4858
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "ProtectiveCollarStrategy"
     title: "Protective Collar Strategy"
     url: "/wiki/concepts/protectivecollarstrategy/"
+  - key: "ProtectiveRemonstranceSequencing"
+    title: "Protective Remonstrance Sequencing / 护身符式进言"
+    url: "/wiki/concepts/protectiveremonstrancesequencing/"
   - key: "ProxyConflictSpoilerRisk"
     title: "Proxy Conflict Spoiler Risk"
     url: "/wiki/concepts/proxyconflictspoilerrisk/"

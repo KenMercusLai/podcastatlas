@@ -32143,6 +32143,10 @@
     "title": "Protective Collar Strategy",
     "url": "/wiki/concepts/protectivecollarstrategy/"
   },
+  "ProtectiveRemonstranceSequencing": {
+    "title": "Protective Remonstrance Sequencing / 护身符式进言",
+    "url": "/wiki/concepts/protectiveremonstrancesequencing/"
+  },
   "ProxyConflictSpoilerRisk": {
     "title": "Proxy Conflict Spoiler Risk",
     "url": "/wiki/concepts/proxyconflictspoilerrisk/"
@@ -44379,6 +44383,10 @@
     "title": "Yuanhuan Intelligence / 圆环智能",
     "url": "/wiki/entities/yuanhuanintelligence/"
   },
+  "YuanjiaoJingongStrategy": {
+    "title": "远交近攻 / Yuanjiao Jingong Strategy",
+    "url": "/wiki/concepts/yuanjiaojingongstrategy/"
+  },
   "YuanjunWarringStates": {
     "title": "垣郡 / Yuan Commandery",
     "url": "/wiki/entities/yuanjunwarringstates/"
@@ -48666,5 +48674,9 @@
   "zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5": {
     "title": "《资治通鉴·周纪》88丨你怎么看待凤凰男（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5/"
+  },
+  "zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi": {
+    "title": "《资治通鉴·周纪》88丨你怎么看待凤凰男（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi/"
   }
 }

@@ -2,8 +2,8 @@
 title: "齐湣王 / King Min of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+last_updated: 2026-08-21
 ---
 
 # 齐湣王 / King Min of Qi
@@ -32,6 +32,8 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] turns the death aftermath into revenge and succession. [[WangSunGu|王孙古]], rebuked by his mother for failing his subject duty, gathers more than four hundred men and kills [[ZhuoChi|淖齿 / 卓齿]] to avenge Qi Min Wang. Qi ministers then find [[TianFazhang|田法章]] at [[JuWarringStates|莒城]] and install him as [[QiXiangWang|齐襄王]], so Qi Min Wang's death no longer closes the royal line.
 
+[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] adds Qi Min Wang as Fan Ju's negative strategic example rather than as a new biographical event. Fan Ju cites Qi's distant attack on [[ChuState|楚国]] to argue that remote victories can exhaust armies and enrich intermediate states without producing holdable land. In the episode, the case helps justify [[YuanjiaoJingongStrategy|远交近攻]] for Qin.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - target of Qi hatred and manipulator of Qi's response.
 - [[FengXiWarringStates|冯喜]] - emissary who reveals Zhang Yi's Qin pitch.
@@ -46,3 +48,4 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 - [[Xunzi|荀子]], [[XunzianWangbaThreePaths|荀子王霸三分法]], [[SmallTrustBuildsLargeTrust|小信诚则大信立]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 71 political-philosophy reflection after the death story.
 - [[WangZhu|王蠋]], [[TianFazhang|田法章]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 loyal refusal after failed remonstrance and royal-line flight after the king's death.
 - [[WangSunGu|王孙古]], [[QiXiangWang|齐襄王]], [[JunWangHou|君王后]], [[JuWarringStates|莒城]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 revenge, restored succession, and crisis-marriage sequel.
+- [[FanJu|范雎]], [[ChuState|楚国]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 distant-attack caution used in Fan Ju's Qin strategy.
