@@ -8767,3 +8767,11 @@ Added source page for a 芮淇讲透资治通鉴 episode closing the Tian Dan po
 ## [2026-08-21] lint | Wiki health check
 
 Ran health before lint; health scanned 12114 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12114 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes and 129324 edges while the wiki scan found 12114 pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider API key variables are present in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》82丨大秦的核武器：白起来了！
+
+Added source page for a 芮淇讲透资治通鉴 episode on Bai Qi's 278-277 BCE attack on Chu, the fall of Ying, Qin's creation of Nan Commandery, Chu's strategic-depth recovery through Zhuang Xin's "亡羊补牢" counsel, and Qin's turn to pressure Wei through Bai Qi and Wei Ran. Created pages for Zhuang Xin, Wei Anxi Wang, Nan Commandery, Strategic Depth Defense, and Warring States War Brutalization; updated overview, index, Bai Qi, Qin/Chu/Wei state pages, Mi Heng, Qin Zhaoxiang Wang, Wei Ran, Xinlingjun, Qianzhong, Wu Commandery, Mang Mao, Daliang, Zhanguo Ce, and Zhou Nan Wang. No direct contradiction found; local geography identifications such as 鄢郢, Yiling, and Qifeng were kept source-scoped unless already represented by existing wiki pages.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

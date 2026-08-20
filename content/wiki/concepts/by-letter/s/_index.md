@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 4837
+wiki_total_pages: 4839
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1124,6 +1124,9 @@ wiki_pages:
   - key: "StrategicConcessionDiplomacy"
     title: "Strategic Concession Diplomacy / 欲擒故纵式让利外交"
     url: "/wiki/concepts/strategicconcessiondiplomacy/"
+  - key: "StrategicDepthDefense"
+    title: "Strategic Depth Defense / 战略纵深防御"
+    url: "/wiki/concepts/strategicdepthdefense/"
   - key: "StrategicFocusUnderIncumbentPressure"
     title: "Strategic Focus Under Incumbent Pressure"
     url: "/wiki/concepts/strategicfocusunderincumbentpressure/"

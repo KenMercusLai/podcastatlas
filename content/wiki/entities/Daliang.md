@@ -2,8 +2,8 @@
 title: "大梁 / Daliang"
 type: entity
 tags: [city, pre-qin, wei-state, warring-states]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+last_updated: 2026-08-21
 ---
 
 # 大梁 / Daliang
@@ -18,6 +18,8 @@ The page is source-scoped. Daliang matters here because it makes [[EncirclingWei
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] makes Daliang a threatened endpoint again. After Qin takes [[AnchengWarringStates|安城]], its army advances toward Daliang before withdrawing, so the city marks the seriousness of Qin's renewed pressure on [[WeiState|魏国]] after the anti-Qi coalition settlement.
 
+[[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]] uses Daliang mainly for geographic clarification. The episode says the "Kaifeng" entered by the defeated Han relief commander is not today's Kaifeng but an older Qifeng county, while today's Kaifeng was then Daliang, the Wei capital. This reinforces Daliang's role as the capital-space reference point for [[WeiState|魏国]] under Qin pressure.
+
 ## Connections
 - [[WeiState|魏国]] - state whose vital place is threatened in the source.
 - [[SunBin|孙膑]], [[TianJi|田忌]], and [[QiState|齐国]] - planners and attacker.
@@ -25,3 +27,4 @@ The page is source-scoped. Daliang matters here because it makes [[EncirclingWei
 - [[GuilingBattle|桂陵之战]], [[MalingBattle|马陵之战]], and [[EncirclingWeiToRescueZhao]] - campaign and strategy branch.
 - [[Anyi|安邑]], [[LiangHuiWang|魏惠王]], and [[QinEastwardPressure]] - Zhouji 23 capital-move branch.
 - [[AnchengWarringStates|安城]], [[QinZhaoxiangwang|秦昭襄王]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 73 Qin follow-on pressure after the anti-Qi coalition.
+- [[WeiAnxiWang|魏安釐王]], [[WeiRan|魏冉]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 82 geographic clarification around Wei's capital region during Qin attacks.

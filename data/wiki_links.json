@@ -27763,6 +27763,10 @@
     "title": "Naming Power In Social Change / 社会变革中的命名权",
     "url": "/wiki/concepts/namingpowersocialchange/"
   },
+  "NanCommandery": {
+    "title": "南郡 / Nan Commandery",
+    "url": "/wiki/entities/nancommandery/"
+  },
   "NancyPelosi": {
     "title": "Nancy Pelosi",
     "url": "/wiki/entities/nancypelosi/"
@@ -37799,6 +37803,10 @@
     "title": "Strategic Concession Diplomacy / 欲擒故纵式让利外交",
     "url": "/wiki/concepts/strategicconcessiondiplomacy/"
   },
+  "StrategicDepthDefense": {
+    "title": "Strategic Depth Defense / 战略纵深防御",
+    "url": "/wiki/concepts/strategicdepthdefense/"
+  },
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
     "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
@@ -42031,6 +42039,10 @@
     "title": "Warring States Urban Prosperity / 战国城市繁荣",
     "url": "/wiki/concepts/warringstatesurbanprosperity/"
   },
+  "WarringStatesWarBrutalization": {
+    "title": "Warring States War Brutalization / 战国战争残酷化",
+    "url": "/wiki/concepts/warringstateswarbrutalization/"
+  },
   "WarsOfTheRoses": {
     "title": "Wars of the Roses / 玫瑰战争",
     "url": "/wiki/entities/warsoftheroses/"
@@ -42194,6 +42206,10 @@
   "Weebly": {
     "title": "Weebly",
     "url": "/wiki/entities/weebly/"
+  },
+  "WeiAnxiWang": {
+    "title": "魏安釐王 / King Anxi of Wei",
+    "url": "/wiki/entities/weianxiwang/"
   },
   "WeiBoyang": {
     "title": "Wei Boyang / 魏伯阳",
@@ -45058,6 +45074,10 @@
   "ZhuangMinghao": {
     "title": "庄明浩 / 庄明昊",
     "url": "/wiki/entities/zhuangminghao/"
+  },
+  "ZhuangXin": {
+    "title": "庄辛 / Zhuang Xin",
+    "url": "/wiki/entities/zhuangxin/"
   },
   "Zhuangzi": {
     "title": "庄子",
@@ -48454,5 +48474,9 @@
   "zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k": {
     "title": "《资治通鉴·周纪》81丨历史早期PUA记实录（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k/"
+  },
+  "zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade": {
+    "title": "《资治通鉴·周纪》82丨大秦的核武器：白起来了！",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade/"
   }
 }

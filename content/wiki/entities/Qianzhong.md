@@ -2,8 +2,8 @@
 title: "黔中 / Qianzhong"
 type: entity
 tags: [place, region, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]
+last_updated: 2026-08-21
 ---
 
 # 黔中 / Qianzhong
@@ -16,8 +16,11 @@ The episode later says Chu Huaiwang releases Zhang Yi partly because he already 
 
 [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] returns Qianzhong as a direct coercive demand after [[QinZhaoxiangwang|秦昭襄王]] detains [[ChuHuaiwang|楚怀王]] in [[Xianyang|咸阳]]. Qin demands Qianzhong together with [[WuJunWarringStates|巫郡]], and the episode says surrendering the two regions would endanger Chu's capital position. Qianzhong therefore moves from a proposed exchange asset in Zhouji 53 to one half of a hostage-backed territorial ultimatum.
 
+[[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]] moves Qianzhong from demanded territory to conquered and reorganized territory. In 277 BCE, [[BaiQi|白起]] takes [[WuJunWarringStates|巫郡]] and Qianzhong from [[ChuState|楚国]], and [[QinState|秦国]] "initially administers" Qianzhong as a Qin commandery. The episode explicitly distinguishes Chu's earlier Qianzhong from Qin's new Qianzhong commandery.
+
 ## Connections
 - [[QinState|秦国]], [[YingSi|秦惠文王]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - states and rulers in the proposed exchange.
 - [[ZhangYiStrategist|张仪]] and [[MinisterAsExchangeableAsset|可交换功臣]] - human asset Chu substitutes for land.
 - [[Wuguan|武关]], [[Shangyu|商於]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - exchange geography and adjacent returned-land diplomacy frame.
 - [[WuJunWarringStates|巫郡]], [[Xianyang|咸阳]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 paired territorial demand after the Wuguan trap.
+- [[BaiQi|白起]], [[NanCommandery|南郡]], and [[QinAdministrativeStandardization|秦国行政标准化]] - Zhouji 82 actual Qin conquest and commandery incorporation.

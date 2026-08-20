@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》82丨大秦的核武器：白起来了！](sources/zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade.md) — 芮淇讲透资治通鉴 episode on Bai Qi breaking Chu's Ying capital region, Qin creating Nan Commandery, Chu surviving through strategic depth and Zhuang Xin's "亡羊补牢" counsel, and Qin turning to Wei through Bai Qi and Wei Ran.
 - [《资治通鉴·周纪》81丨历史早期PUA记实录（2）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k.md) — 芮淇讲透资治通鉴 episode on Diao Bo correcting Qi Xiang Wang's treatment of Tian Dan, Lu Zhonglian diagnosing Tian Dan's Di campaign, post-restoration self-protection, and Mengchangjun's final Xue lineage outcome.
 - [《资治通鉴·周纪》81丨历史早期PUA记实录（1）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y.md) — 芮淇讲透资治通鉴 episode on Tian Dan's post-restoration exposure, Qi Xiang Wang's suspicion of popular virtue, royal credit appropriation, Diao Bo's Chu mission, court slander, and ritualized humiliation.
 - [《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？](sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0.md) — 芮淇讲透资治通鉴 episode on Le Yi's reply to Yan Huiwang, Wu Zixu as warning, refusal to attack Yan from Zhao, Le Xian's title inheritance, and Tian Dan's coming post-victory danger under Qi Xiang Wang.
@@ -1097,6 +1098,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [庄辛 / Zhuang Xin](entities/ZhuangXin.md) — Chu adviser whose delayed warning and "亡羊补牢" counsel frame Chu Qingxiang Wang's partial recovery after Bai Qi's attack.
+- [魏安釐王 / King Anxi of Wei](entities/WeiAnxiWang.md) — Wei ruler whose accession is immediately marked by Qin attacks from Bai Qi and Wei Ran and by the enfeoffment of his brother Xinlingjun.
+- [南郡 / Nan Commandery](entities/NanCommandery.md) — Qin commandery created after Bai Qi takes the Chu capital region, linking conquest to administrative incorporation.
 - [刁伯 / Diao Bo](entities/DiaoBo.md) — Qi worthy and envoy recommended by Tian Dan whose Chu reception is weaponized by slanderers before he rebukes Qi Xiang Wang into honoring Tian Dan.
 - [鲁仲连 / Lu Zhonglian](entities/LuZhonglian.md) — Qi strategist and Jixia-associated thinker who diagnoses Tian Dan's stalled Di campaign as a loss of shared death resolve under post-restoration danger.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
@@ -1146,11 +1150,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
 - [陈举 / Chen Ju (Qi Minister)](entities/ChenJuQiMinister.md) — Qi minister executed at the east gate after continuing to remonstrate against Qi Min Wang.
 - [滕国 / Teng State](entities/TengState.md) — Small Warring States polity destroyed by Song Kang Wang and framed as a Mencian benevolent-governance experiment whose fall intensified Confucian condemnation.
-- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose Yique victory is read as terrain, enemy-incentive, and coalition-fracture analysis rather than mere bravery.
+- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique coalition-fracture analysis to the destructive Chu campaign that creates Nan Commandery.
 - [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
 - [公孙喜 / Gongsun Xi](entities/GongsunXiWarringStates.md) — Han-Wei coalition commander captured after Bai Qi's Yique campaign, with source wording split between Han and Wei affiliation.
 - [范雎 / Fan Ju](entities/FanJu.md) — Zhanguo Ce interlocutor whose praise prompts Bai Qi's explanation of the Yique victory.
-- [芒卯 / Mang Mao](entities/MangMao.md) — Wei figure known for "诈说" whose reputation is kept between trickery, self-interest, and practical state rescue.
+- [芒卯 / Mang Mao](entities/MangMao.md) — Wei figure known for "诈说" who later appears as the commander defeated by Wei Ran during Qin pressure on Wei.
 - [垣郡 / Yuan Commandery](entities/YuanjunWarringStates.md) — Split Chu/Han commandery used to clarify Qin's 292 and 291 BCE conquests.
 - [陶 / 定陶 / Dingtao](entities/Dingtao.md) — Prosperous Song/Qi/Qin place used to correct the timing of Wei Ran's Tao enfeoffment.
 - [《资治通鉴纲目》 / Zizhi Tongjian Gangmu](entities/ZizhiTongjianGangmu.md) — Zhu Xi-linked outline tradition whose omission of Mang Mao is treated as a didactic source-selection signal.
@@ -1167,7 +1171,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁平公 / Duke Ping of Lu](entities/LuPinggong.md) — Ji Lv, Lu ruler whose death opens the episode's compact Lu succession notice.
 - [公孙龙 / Gongsun Long](entities/GongsunLong.md) — Pingyuanjun's retainer and 名辩 figure associated here with "白马非马", "臧三耳", and verbal skill tested against truth-oriented debate.
 - [孔川 / Kong Chuan](entities/KongChuan.md) — Lu visitor and Confucius descendant who reframes losing the "臧三耳" exchange as a choice between difficult falsehood and easy truth.
-- [巫郡 / Wu Commandery](entities/WuJunWarringStates.md) — Chu region Qin demands alongside Qianzhong after detaining Chu Huaiwang in Xianyang.
+- [巫郡 / Wu Commandery](entities/WuJunWarringStates.md) — Chu region Qin first demands alongside Qianzhong and later captures during Bai Qi's southern campaign.
 - [芈兰 / Mi Lan](entities/MiLan.md) — Chu Huaiwang's son whose Qin marriage tie leads him to favor the risky Wuguan meeting.
 - [昭雎 / Zhao Ju](entities/ZhaoJu.md) — Chu minister who warns Chu Huaiwang not to trust Qin and later argues against bypassing the trapped king and absent crown prince.
 - [临晋 / Linjin (Warring States)](entities/LinjinWarringStates.md) — Qin-Han-Wei meeting site where Qin repairs relations after the Mi Heng hostage incident breaks the Qin-Chu alignment.
@@ -1204,7 +1208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [楼缓 / Lou Huan](entities/LouHuan.md) — Persuader named alongside Su Dai, Su Li, and Zhou Zui as evidence of the broader zonghengjia wave.
 - [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch and the later route context after Gan Mao's Yiyang capture.
 - [郑袖 / Zheng Xiu](entities/ZhengXiu.md) — Chu Huaiwang favorite whose status anxiety is turned into the backchannel that saves Zhang Yi.
-- [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks in exchange for land, then Chu Huaiwang prices against Zhang Yi himself.
+- [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks, demands, and later captures before reorganizing it as a Qin commandery.
 - [上庸 / Shangyong](entities/Shangyong.md) — Six-county Qin ransom object invoked to persuade Zheng Xiu to help free Zhang Yi.
 - [燕昭王 / King Zhao of Yan](entities/YanZhaowang.md) — Yan ruler Ji Ping who rebuilds after Qi's occupation by mourning losses and making talent recruitment credible.
 - [郭隗 / Guo Wei (Warring States)](entities/GuoWeiWarringStates.md) — Yan adviser whose "千金买骨" story turns ruler respect into a public talent-attraction signal.
@@ -1236,7 +1240,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
 - [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames an earlier ridicule scene and whose Four Lords role is previewed after Zhouji 63.
-- [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei member of the Warring States Four Lords, source-scoped as a retainer-patronage comparison point after Mengchangjun.
+- [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei member of the Warring States Four Lords, enfeoffed by Wei Anxi Wang as Qin pressure on Wei intensifies.
 - [春申君 / Lord Chunshen](entities/Chunshenjun.md) — Chu member of the Warring States Four Lords, source-scoped as a retainer-patronage comparison point after Mengchangjun.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
@@ -1341,7 +1345,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鬼谷子 / Guiguzi](entities/Guiguzi.md) — Teacher named as the shared source of Sun Bin and Pang Juan's military learning.
 - [《孙膑兵法》 / Sun Bin's Art of War](entities/SunBinBingfa.md) — Military text whose 1972 Yinqueshan excavation supports distinguishing Sun Bin from Sunzi.
 - [桂陵之战 / Battle of Guiling](entities/GuilingBattle.md) — Qi victory produced by threatening Daliang, forcing Wei to leave Handan, and ambushing the returning army.
-- [大梁 / Daliang](entities/Daliang.md) — Wei place Sun Bin identifies as the must-save target in the encircling-Wei strategy.
+- [大梁 / Daliang](entities/Daliang.md) — Wei capital-space reference point in encircling-Wei strategy, capital relocation, and later Qin pressure.
 - [邯郸 / Handan](entities/Handan.md) — Zhao city under Wei siege that triggers Qi's indirect rescue plan.
 - [东周国 / Eastern Zhou Polity](entities/EasternZhouPolity.md) — Small eastern Zhou polity attacked by Han in the 353 BCE notice.
 - [西周国 / Western Zhou Polity](entities/WesternZhouPolity.md) — Counterpart polity used to explain the royal domain's East-West split.
@@ -7288,6 +7292,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Depth Defense / 战略纵深防御](concepts/StrategicDepthDefense.md) — Survival pattern where distance, route risk, and logistics let a damaged state buy time and force the attacker to solve passage problems first.
+- [Warring States War Brutalization / 战国战争残酷化](concepts/WarringStatesWarBrutalization.md) — Late-Warring-States warfare pattern where conquest expands into tomb destruction, city flooding, mass death, and administrative absorption.
 - [Post-Restoration Merit Threat / 复国功臣威胁化](concepts/PostRestorationMeritThreat.md) — Pattern where saving or restoring a state makes a minister's merit, popular credit, talent network, and soldier loyalty look threatening to the ruler.
 - [Political Credit Appropriation / 善行君恩化](concepts/PoliticalCreditAppropriation.md) — Court tactic that absorbs a subordinate's visible virtue into ruler authority by reframing it as royal instruction or benevolence.
 - [Ritualized Minister Humiliation / 礼节化臣属羞辱](concepts/RitualizedMinisterHumiliation.md) — Status-pressure pattern where ruler-minister ritual, dress, posture, and repetition become humiliation without a formal charge.

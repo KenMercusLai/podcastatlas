@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 4837
+wiki_total_pages: 4839
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "WarringStatesUrbanProsperity"
     title: "Warring States Urban Prosperity / 战国城市繁荣"
     url: "/wiki/concepts/warringstatesurbanprosperity/"
+  - key: "WarringStatesWarBrutalization"
+    title: "Warring States War Brutalization / 战国战争残酷化"
+    url: "/wiki/concepts/warringstateswarbrutalization/"
   - key: "WartimeLeadershipAccountability"
     title: "Wartime Leadership Accountability"
     url: "/wiki/concepts/wartimeleadershipaccountability/"
