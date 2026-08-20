@@ -2,8 +2,8 @@
 title: "Moral Reputation as Political Capital / 道德名望政治资本"
 type: concept
 tags: [politics, legitimacy, power]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]
-last_updated: 2026-07-24
+sources: [zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]
+last_updated: 2026-08-20
 ---
 
 # Moral Reputation as Political Capital / 道德名望政治资本
@@ -12,13 +12,17 @@ Moral reputation as political capital / 道德名望政治资本 names how publi
 
 The source does not treat reputation as merely fake. Its sharper claim is that real or disciplined moral performance can become a weapon when joined to office, kinship, petitions, and denunciation. Wang Mang's image makes punishments and purges easier to describe as public virtue.
 
+[[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] adds a different version through [[ChuHuaiwang|楚怀王]]. After he dies in Qin captivity, Qin returns his coffin and the people of Chu mourn him as if for a relative; the episode then closes with [[WangShipeng|王十朋]]'s later poem defending the remembered pathos of a ruler who failed politically but retained sympathy. In this case, moral reputation is not a tool for takeover; it becomes remembered legitimacy after defeat.
+
 ## Key Claims
 - Moral capital can be accumulated through visible restraint and service.
 - Public virtue can make power grabs look like reluctant duty.
 - Reputation can hide coercion when punishments are narrated as righteousness.
+- Moral reputation can also survive political failure, becoming public sympathy or literary memory rather than a live instrument of rule.
 - The concept helps connect personal character, [[AuspiciousOmenPolitics]], and [[IdeologicalOvercontrol]].
 
 ## Connections
 - [[WangMang]], [[WangZhengjun]], and [[HanPingdi]] - source examples.
+- [[ChuHuaiwang|楚怀王]], [[WangShipeng|王十朋]], [[QinState|秦国]], and [[ChuState|楚国]] - Zhouji 65 example of remembered sympathy after captivity and death.
 - [[ConfucianIdealGovernance]] and [[TuoguReformPolitics]] - moral and ideological context.
 - [[MachiavellianRealism]] and [[GoodIntentionsPoliticalLimits]] - adjacent wiki frames about virtue, power, and political reality.

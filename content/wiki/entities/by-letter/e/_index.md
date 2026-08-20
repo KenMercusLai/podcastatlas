@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 6108
+wiki_total_pages: 6115
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "Ekumen"
     title: "艾库曼 / Ekumen"
     url: "/wiki/entities/ekumen/"
+  - key: "EzhiWarringStates"
+    title: "阏氏 / Ezhi (Warring States)"
+    url: "/wiki/entities/ezhiwarringstates/"
   - key: "Eel"
     title: "鳗鱼 / Eel"
     url: "/wiki/entities/eel/"

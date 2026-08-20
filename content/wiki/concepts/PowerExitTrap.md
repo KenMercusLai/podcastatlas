@@ -2,7 +2,7 @@
 title: "Power Exit Trap / 权力退场困境"
 type: concept
 tags: [politics, statecraft, reform, power, risk]
-sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-20
 ---
 
@@ -24,6 +24,8 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 
 [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] adds a ruler-level variant through [[ZhaoWulingwang|赵武灵王]]. He does not fail to leave power; he leaves the throne too creatively. By making ten-year-old [[ZhaoHe|赵何]] ruler, naming himself主父, and keeping his attention on military expansion and Qin reconnaissance, Zhao Wuling Wang splits civil rule from military ambition. The episode suggests that this partial exit helps him pursue large strategy while also setting up the succession disaster later associated with Shaqiu.
 
+[[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] gives that partial-exit structure a concrete foreign-policy cost. When the fleeing [[ChuHuaiwang|楚怀王]] reaches [[ZhaoState|赵国]], Zhao officials do not dare receive him because Zhao Wuling Wang is away in Dai. The problem is not merely the young ruler's weakness; the old ruler's retained authority leaves emergency decision rights uncertain at exactly the moment a choice must be made.
+
 ## Key Claims
 - Power can become protective infrastructure, not only a prize.
 - A reformer or strong minister may become less able to leave precisely because the reform has succeeded.
@@ -35,6 +37,7 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - A successful exit can require making departure useful to the successor, not merely leaving the dangerous court.
 - A ruler's completed revenge can end a minister's usefulness and expose anyone who knows the ruler's earlier humiliation.
 - A ruler can create a power-exit trap by leaving the formal throne while retaining enough independent authority to keep succession and command unresolved.
+- Partial abdication can turn foreign-policy emergencies into decision paralysis when officials cannot tell which center of power will bear responsibility.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[QinState|秦国]], and [[WarringStatesReformBacklash]] - central source case.
@@ -45,3 +48,4 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[ZhangYiStrategist|张仪]], and [[QinWuwang|秦武王]] - contrasting Zhouji 55 case where a threatened minister makes departure useful to the successor.
 - [[FanLi|范蠡]], [[WenZhongYue|文种]], [[Goujian|越王勾践]], and [[WuState|吴国]] - Zhouji 57 post-victory exit-risk branch.
 - [[ZhaoWulingwang|赵武灵王]], [[ZhaoHe|赵何]], [[FeiYi|肥义]], and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 61 ruler-level partial-exit and succession branch.
+- [[ChuHuaiwang|楚怀王]], [[ZhaoState|赵国]], and [[Loufan|楼烦]] - Zhouji 65 emergency refusal during Zhao Wuling Wang's absence and continuing frontier program.

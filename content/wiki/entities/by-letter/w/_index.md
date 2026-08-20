@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6108
+wiki_total_pages: 6115
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "WangMian"
     title: "王冕"
     url: "/wiki/entities/wangmian/"
+  - key: "WangShipeng"
+    title: "王十朋 / Wang Shipeng"
+    url: "/wiki/entities/wangshipeng/"
   - key: "WangGuowei"
     title: "王国维"
     url: "/wiki/entities/wangguowei/"
@@ -770,6 +773,9 @@ wiki_pages:
   - key: "WeiWenhou"
     title: "魏文侯 / Marquis Wen of Wei"
     url: "/wiki/entities/weiwenhou/"
+  - key: "WeiZhaowang"
+    title: "魏昭王 / King Zhao of Wei"
+    url: "/wiki/entities/weizhaowang/"
   - key: "WeiZhaoyang"
     title: "魏昭阳 / Wei Zhaoyang"
     url: "/wiki/entities/weizhaoyang/"

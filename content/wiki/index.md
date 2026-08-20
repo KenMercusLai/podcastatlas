@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》65丨我穿越去给浪漫的楚王念首诗](sources/zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j.md) — 芮淇讲透资治通鉴 episode opening 周纪四 with Chu Huaiwang's failed escape, death in Xianyang, five-state pressure on Qin, Zhao Wuling Wang's Loufan recruitment, and a Wang Shipeng poem used to reframe Chu Huaiwang as tragic rather than merely foolish.
 - [《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记](sources/zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5.md) — 芮淇讲透资治通鉴 episode on Pingyuanjun's retainer circle, Gongsun Long's "白马非马" and "臧三耳" style 名辩, and Kong Chuan/Zou Yan's critique that debate should serve truth and clear categories rather than verbal victory.
 - [《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？](sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin.md) — 芮淇讲透资治通鉴 episode on Mengchangjun's Qin imprisonment and chicken-crow/dog-theft escape, Wang Anshi's critique of indiscriminate retainer patronage, and Qin attacking Chu after Chu installs Mi Heng.
 - [《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊](sources/zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff.md) — 芮淇讲透资治通鉴 episode on Qin trapping Chu Huaiwang at Wuguan, detaining him in Xianyang, demanding Wu Commandery and Qianzhong, Chu and Qi managing Mi Heng's return, and the Mengchangjun Qin-chancellor setup.
@@ -1073,6 +1074,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王十朋 / Wang Shipeng](entities/WangShipeng.md) — Song-dynasty poet cited through a quatrain that lets the episode memorialize Chu Huaiwang as a remembered tragic ruler.
+- [阏氏 / Ezhi (Warring States)](entities/EzhiWarringStates.md) — Place reached by the 296 BCE five-state anti-Qin coalition before Qin returns Wusui to Han and Fengling to Wei.
+- [楼烦 / Loufan](entities/Loufan.md) — Northern frontier people whose fighters Zhao Wuling Wang recruits after inspecting Zhao's newly held northern territory.
+- [韩釐王 / King Xi of Han](entities/HanXiwang.md) — Han Ji, son and successor of Han Xiang Wang in the 296 BCE succession notice.
+- [魏昭王 / King Zhao of Wei](entities/WeiZhaowang.md) — Wei Su, son and successor of Wei Xiang Wang in the 296 BCE succession notice.
+- [鲁湣公 / Duke Min of Lu](entities/LuMingong.md) — Ji Jia, son and successor of Lu Ping Gong in the 297 BCE Lu succession notice.
+- [鲁平公 / Duke Ping of Lu](entities/LuPinggong.md) — Ji Lv, Lu ruler whose death opens the episode's compact Lu succession notice.
 - [公孙龙 / Gongsun Long](entities/GongsunLong.md) — Pingyuanjun's retainer and 名辩 figure associated here with "白马非马", "臧三耳", and verbal skill tested against truth-oriented debate.
 - [孔川 / Kong Chuan](entities/KongChuan.md) — Lu visitor and Confucius descendant who reframes losing the "臧三耳" exchange as a choice between difficult falsehood and easy truth.
 - [巫郡 / Wu Commandery](entities/WuJunWarringStates.md) — Chu region Qin demands alongside Qianzhong after detaining Chu Huaiwang in Xianyang.
@@ -7189,7 +7197,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.
 - [鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique](concepts/JimingGoudaoTalentCritique.md) — Wang Anshi-based critique that tactical retainer tricks can save a patron without proving statecraft-level talent or good talent selection.
 - [战国四公子 / Warring States Four Lords](concepts/WarringStatesFourLords.md) — Comparative grouping of Mengchangjun, Xinlingjun, Pingyuanjun, and Chunshenjun as aristocratic retainer patrons.
-- [Warring States Alliance Switching / 战国同盟转向](concepts/WarringStatesAllianceSwitching.md) — Pattern where Qin's alignment flips from Chu to Han/Wei as court faction, returned land, hostage diplomacy, and attack timing shift.
+- [Warring States Alliance Switching / 战国同盟转向](concepts/WarringStatesAllianceSwitching.md) — Pattern where Qin's alignment flips and coalition behavior breaks as court faction, returned land, hostage diplomacy, and attack timing shift.
 - [Hostage Diplomacy Rupture / 质子外交破裂](concepts/HostageDiplomacyRupture.md) — Failure mode where a hostage meant to guarantee alliance trust becomes the cause of state-level rupture.
 - [Foreign-Relative Court Politics / 楚系外戚政治](concepts/ForeignRelativeCourtPolitics.md) — Qin court pattern where Xuan Taihou's Chu-linked kin bloc converts succession crisis into office, coercion, and foreign-policy direction.
 - [Queen-Mother Regency / 太后摄政](concepts/QueenMotherRegency.md) — Court-power pattern where a young ruler's mother governs through kin, office, purge capacity, and diplomatic choices.
@@ -7229,15 +7237,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Weak-State Status Demotion / 弱国名分降格](concepts/WeakStateStatusDemotion.md) — Pattern where weaker states lose title weight while stronger Warring States powers claim higher status.
 - [Qin Frontier Buffer Management / 秦国后方边患管理](concepts/QinFrontierBufferManagement.md) — Qin pattern of managing Yiqu as a rear-frontier constraint while maintaining eastward pressure.
 - [New Ruler Reform Signaling / 新君改革铺垫信号](concepts/NewRulerReformSignaling.md) — Zhao Wuling Wang's early adviser, fault-correction, and old-minister gestures read as preparation for later reform.
-- [Strategic Concession Diplomacy / 欲擒故纵式让利外交](concepts/StrategicConcessionDiplomacy.md) — Zhang Yi's pattern of returning a smaller captured asset and signaling goodwill to extract a larger concession from Wei.
+- [Strategic Concession Diplomacy / 欲擒故纵式让利外交](concepts/StrategicConcessionDiplomacy.md) — Qin pattern of returning smaller assets or targeted concessions to fracture pressure and extract larger strategic advantage.
 - [Unverified Territorial Promise Trap / 未验地先断交陷阱](concepts/UnverifiedTerritorialPromiseTrap.md) — Zhang Yi's 313 BCE tactic of making Chu break with Qi before Qin delivered the promised Shangyu land.
 - [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
 - [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
-- [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history inference from Wei's army list showing infantry growth, chariot decline, and still-auxiliary cavalry.
+- [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history frame for infantry scale, cavalry transition, Zhao's Hu Fu Qi She, and frontier fighter recruitment.
 - [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
-- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, grounded in first patronage, Zhao authorization, completed six-state persuasion, Hangu Pass failure, and later opportunistic renewals.
+- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin and later episodes, spanning alliance design, Hangu Pass failure, opportunistic renewals, and Qin's selective-concession breakups.
 - [连横 / Lianheng Strategy](concepts/LianhengStrategy.md) — Qin-facing diplomatic strategy contrasted with hezong, introduced through Su Qin's critique and Zhang Yi's entry into Qin.
 - [Encirclement Threat Persuasion / 包围威胁式说服](concepts/EncirclementThreatPersuasion.md) — Zhang Yi's Zhouji 54 speech pattern of naming weakness, claiming allies have shifted to Qin, mapping attack routes, and making Qin accommodation appear safest.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, intimate shame, status pressure, and discomfort drive focused self-study that still needs access and patronage.
@@ -7250,7 +7258,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
 - [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
 - [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Zhao Liang's warning that popular regard and elite acceptance can become practical safety infrastructure for powerful ministers.
-- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, ruler suspicion, or exposed ruler humiliations make staying or leaving power dangerous.
+- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, or exposed ruler humiliations make staying or leaving power dangerous.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
@@ -7312,7 +7320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Zisi's talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes.
-- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce each other's self-certainty instead of correcting errors.
+- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce self-certainty, palace filtering, or manipulative intimacy instead of correcting errors.
 - [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where state-strengthening reform creates concentrated resistance, from violent backlash to ritual-identity opposition and managed compliance.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
@@ -9583,7 +9591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
 - [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang's rise and later recentralized by Liu Xiu.
 - [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of auspicious signs, petitions, ritual projects, and omen reports to make power transfer appear Heaven-approved.
-- [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, self-restraint, and filial image become usable power in court politics.
+- [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, public sympathy, self-restraint, or filial image become usable power or remembered legitimacy.
 - [Confucian Ideal Governance / 儒家理想治理](concepts/ConfucianIdealGovernance.md) — Episode 126's frame for moralized rule through ritual, hierarchy, ancient models, and scholar support.
 - [Tuogu Reform Politics / 托古改制政治](concepts/TuoguReformPolitics.md) — Reform justified by ancient models, making Wang Mang's changes radical in effect but conservative in authority language.
 - [Wang Mang Reforms / 王莽改制](concepts/WangMangReforms.md) — Policy program of land, currency, monopoly, tax, and credit interventions that episode 126 reads as idealistic and administratively brittle.

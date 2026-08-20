@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》65丨我穿越去给浪漫的楚王念首诗
+
+Added source page for a 芮淇讲透资治通鉴 episode opening 周纪四 with Chu Huaiwang's failed escape from Xianyang, Zhao's refusal to receive him during Zhao Wuling Wang's absence, his recapture and death in Qin, the five-state anti-Qin coalition reaching Ezhi and being fractured by Qin's returned-land concessions, Zhao Wuling Wang's Loufan recruitment, and Wang Shipeng's poetic memorial. Created Lu Ping Gong, Lu Ming Gong, Wei Zhao Wang, Han Xi Wang, Loufan, Ezhi, and Wang Shipeng; updated overview, index, Chu Huaiwang, Qin Zhaoxiang Wang, Zhao Wuling Wang, Zheng Xiu, Xianyang, Zhou Nan Wang, hezong, strategic concession diplomacy, power exit trap, Warring States military transformation, alliance switching, court feedback collapse, court backchannel survival, and moral reputation as political capital. No direct contradiction found; the source resolves the Zhouji 62-63 captivity branch by moving from detained leverage to death, grief, and later reception.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源
 
 Added source page for a 芮淇讲透资治通鉴 episode on 317 BCE Qin retaliation after the failed Hangu Pass coalition: Chulizi leads Qin in pursuit of Han and Wei, Xiuyu becomes the central-plains battle, and the action continues to Zhuoze. Created Chulizi, Xiuyu Battle, and Idiom Origin Skepticism; updated overview, index, Su Qin, Qin/Han/Wei/Qi state pages, Zhuoze Battle, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Warring States Period, hezong/common-enemy alliance, coalition self-preservation failure, Qin eastward pressure, historical detective reasoning, and evidence-bound folklore inquiry. No direct wiki contradiction found; the Zhuoze notice is kept source-scoped beside the earlier Zhuoze battle, and the "二百五" story is recorded as a rejected folk derivation rather than a reliable origin.
@@ -8575,6 +8579,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] ingest | 《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记
 
 Added source page for a 芮淇讲透资治通鉴 episode closing 周纪三 through Pingyuanjun's retainer circle and Gongsun Long's 名辩 reputation. Created pages for Gongsun Long, Kong Chuan, Mingjia Disputation, and Truth-Seeking Debate Norm; updated overview, index, Pingyuanjun, Zou Yan, Zhou Nan Wang, Warring States Retainer Patronage, and Warring States Four Lords. No direct contradiction found; the source extends Zhouji 63's retainer-quality critique from Mengchangjun's practical helpers to Pingyuanjun's verbal specialist, and records Kong Chuan/Zou Yan's distinction between truth-serving debate and verbal victory.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 

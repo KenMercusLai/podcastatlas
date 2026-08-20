@@ -2,7 +2,7 @@
 title: "Warring States Alliance Switching / 战国同盟转向"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-20
 ---
 
@@ -14,6 +14,8 @@ The concept records how quickly Warring States alignments can change when court 
 
 [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] adds the coercive endpoint of the Qin-Chu reversal. Qin no longer only repairs with Han and Wei after the Mi Heng incident; it invites [[ChuHuaiwang|楚怀王]] to [[Wuguan|武关]], detains him in [[Xianyang|咸阳]], and demands [[WuJunWarringStates|巫郡]] plus [[Qianzhong|黔中]]. Alliance switching here has become a captured-ruler bargaining position.
 
+[[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] adds the rebound after that coercion. Chu Huaiwang's death in Qin helps trigger an anti-Qin attack by Qi, Han, Wei, Zhao, and Song, but Qin then returns [[WusuiWarringStates|武遂]] to Han and [[FenglingWarringStates|封陵]] to Wei. The episode shows alliance switching as a two-stage process: outrage can produce a shared front, and selective benefits can pull key states back out of it.
+
 ## Key Claims
 - Court power can drive alliance direction: [[XuanTaihou|芈八子 / 宣太后]] and [[ForeignRelativeCourtPolitics|楚系外戚政治]] make Qin-Chu repair attractive.
 - Military and territorial pressure can coexist with diplomacy: Qin attacks Han and Wei while the Qin-Chu alliance is warming.
@@ -21,6 +23,7 @@ The concept records how quickly Warring States alignments can change when court 
 - Returned land can signal repair, as with [[Shangyong|上庸]] to Chu and [[PubanWarringStates|蒲阪]] to Wei.
 - The concept links strategy to event sequence rather than treating alliances as stable camps.
 - Once an alliance has reversed, the former partner can become not only an enemy but an object of direct coercion.
+- A coercive scandal can create a new anti-Qin alignment, but targeted territorial returns can quickly change individual incentives again.
 
 ## Connections
 - [[QinState|秦国]], [[ChuState|楚国]], [[HanState|韩国]], [[WeiState|魏国]], and [[QiState|齐国]] - states whose alignment shifts in the episode.
@@ -28,3 +31,4 @@ The concept records how quickly Warring States alignments can change when court 
 - [[Wuguan|武关]], [[Xianyang|咸阳]], [[WuJunWarringStates|巫郡]], and [[Qianzhong|黔中]] - Zhouji 62 coercive sequel after the Qin-Chu reversal.
 - [[Huangji|黄棘]], [[LinjinWarringStates|临晋]], [[Shangyong|上庸]], and [[PubanWarringStates|蒲阪]] - meeting and returned-land markers.
 - [[HezongAlliance|合纵]], [[LianhengStrategy|连横]], [[WarringStatesMarriageDiplomacy|战国联姻外交]], and [[HostageDiplomacyRupture|质子外交破裂]] - adjacent alliance mechanisms and failure mode.
+- [[EzhiWarringStates|阏氏]], [[WusuiWarringStates|武遂]], [[FenglingWarringStates|封陵]], [[SongState|宋国]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - Zhouji 65 anti-Qin rebound and selective settlement.

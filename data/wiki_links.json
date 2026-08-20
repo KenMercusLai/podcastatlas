@@ -13911,6 +13911,10 @@
     "title": "ExxonMobil",
     "url": "/wiki/entities/exxonmobil/"
   },
+  "EzhiWarringStates": {
+    "title": "阏氏 / Ezhi (Warring States)",
+    "url": "/wiki/entities/ezhiwarringstates/"
+  },
   "F2HomeRobot": {
     "title": "F2 Home Robot",
     "url": "/wiki/entities/f2homerobot/"
@@ -17702,6 +17706,10 @@
   "HanXiangwang": {
     "title": "韩襄王 / King Xiang of Han",
     "url": "/wiki/entities/hanxiangwang/"
+  },
+  "HanXiwang": {
+    "title": "韩釐王 / King Xi of Han",
+    "url": "/wiki/entities/hanxiwang/"
   },
   "HanXuanhuiwang": {
     "title": "韩宣惠王 / King Xuanhui of Han",
@@ -24251,6 +24259,10 @@
     "title": "楼缓 / Lou Huan",
     "url": "/wiki/entities/louhuan/"
   },
+  "Loufan": {
+    "title": "楼烦 / Loufan",
+    "url": "/wiki/entities/loufan/"
+  },
   "LouisHong": {
     "title": "Louis Hong / 洪力德",
     "url": "/wiki/entities/louishong/"
@@ -24379,9 +24391,17 @@
     "title": "吕留良 / Lu Liuliang",
     "url": "/wiki/entities/luliuliang/"
   },
+  "LuMingong": {
+    "title": "鲁湣公 / Duke Min of Lu",
+    "url": "/wiki/entities/lumingong/"
+  },
   "LuMugong": {
     "title": "鲁穆公 / Duke Mu of Lu",
     "url": "/wiki/entities/lumugong/"
+  },
+  "LuPinggong": {
+    "title": "鲁平公 / Duke Ping of Lu",
+    "url": "/wiki/entities/lupinggong/"
   },
   "LuQi": {
     "title": "Lu Qi",
@@ -41363,6 +41383,10 @@
     "title": "王氏 / Woman Wang",
     "url": "/wiki/entities/wangshitancheng/"
   },
+  "WangShipeng": {
+    "title": "王十朋 / Wang Shipeng",
+    "url": "/wiki/entities/wangshipeng/"
+  },
   "WangTao": {
     "title": "Wang Tao / 汪滔",
     "url": "/wiki/entities/wangtao/"
@@ -41778,6 +41802,10 @@
   "WeiZexiIncident": {
     "title": "魏则西事件",
     "url": "/wiki/concepts/weizexiincident/"
+  },
+  "WeiZhaowang": {
+    "title": "魏昭王 / King Zhao of Wei",
+    "url": "/wiki/entities/weizhaowang/"
   },
   "WeiZhaoyang": {
     "title": "魏昭阳 / Wei Zhaoyang",
@@ -47814,5 +47842,9 @@
   "zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5": {
     "title": "《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5/"
+  },
+  "zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j": {
+    "title": "《资治通鉴·周纪》65丨我穿越去给浪漫的楚王念首诗",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j/"
   }
 }

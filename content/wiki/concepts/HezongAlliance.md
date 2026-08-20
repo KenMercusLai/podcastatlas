@@ -2,7 +2,7 @@
 title: "合纵 / Hezong Alliance"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+sources: [zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
 last_updated: 2026-08-20
 ---
 
@@ -36,6 +36,8 @@ last_updated: 2026-08-20
 
 [[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] then shows the coalition norm from the other side. After [[ChuState|楚国]] moves toward [[QinState|秦国]] through marriage repair and the [[Huangji|黄棘]] meeting, [[QiState|齐国]], [[HanState|韩国]], and [[WeiState|魏国]] attack Chu as punishment for leaving the anti-Qin field. Qin's rescue through [[KeqingTong|客卿通]] forces the attackers to withdraw, but the [[MiHeng|芈横]] hostage incident soon breaks the Qin-Chu alignment.
 
+[[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] adds a post-captivity coalition case. After [[ChuHuaiwang|楚怀王]] dies in Qin, [[QiState|齐国]], [[HanState|韩国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[SongState|宋国]] attack Qin and advance as far as [[EzhiWarringStates|阏氏]]. The episode then shows the familiar weakness of the line: Qin returns [[WusuiWarringStates|武遂]] to Han and [[FenglingWarringStates|封陵]] to Wei, splitting the pressure through selective concessions.
+
 The concept is therefore both diplomatic and historiographical. It names the kind of coalition Su Qin is famous for, while also recording this episode's caution that the chronicle's dating may compress or misplace a more complicated process.
 
 ## Key Claims
@@ -55,6 +57,7 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - Zhouji 55 adds that hezong can return opportunistically when Qin-facing commitments appear under-backed by Qin court politics.
 - Zhouji 59 adds that hezong can return again when Qin succession disorder makes anti-Qin coordination look newly viable.
 - Zhouji 60 adds a punishment case: a state that defects toward Qin can face coalition attack, but Qin rescue and hostage diplomacy can still undo the coalition effect.
+- Zhouji 65 adds a post-outrage attack case: coalition pressure can reach Qin territory after a reputational shock, but targeted concessions to individual members can still dissolve the shared front.
 
 ## Connections
 - [[SuQin|苏秦]], [[ZhaoSuhou|赵肃侯]], [[HanXuanhuiwang|韩宣惠王]], and [[ChuWeiwang|楚威王]] - strategist and rulers attached to the policy in the source sequence.
@@ -71,3 +74,4 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - [[QinWuwang|秦武王]], [[PatronSuccessionExposure|靠山更替暴露风险]], and [[LianhengStrategy|连横]] - Zhouji 55 alliance reversal after Qin court transition.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], [[ChuState|楚国]], [[QiState|齐国]], and [[HanState|韩国]] - Zhouji 59 renewed anti-Qin alignment during Qin succession disorder.
 - [[Huangji|黄棘]], [[MiHeng|芈横]], [[KeqingTong|客卿通]], [[HostageDiplomacyRupture|质子外交破裂]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 punitive coalition against Chu and Qin-Chu rupture branch.
+- [[ChuHuaiwang|楚怀王]], [[EzhiWarringStates|阏氏]], [[SongState|宋国]], [[WusuiWarringStates|武遂]], [[FenglingWarringStates|封陵]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - Zhouji 65 five-state attack and Qin's selective concession response.

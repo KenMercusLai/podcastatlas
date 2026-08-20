@@ -2,7 +2,7 @@
 title: "Court Feedback Collapse / 君臣反馈失灵"
 type: concept
 tags: [governance, leadership, court-politics, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-20
 ---
 
@@ -30,6 +30,8 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 
 [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] adds the end-state consequence for Chu Huaiwang. [[ZhaoJu|昭雎]] correctly warns him not to enter [[QinState|秦国]]'s meeting trap at [[Wuguan|武关]], but the warning loses to kinship optimism from [[MiLan|芈兰]] and the ruler's fear of angering Qin. After Qin detains him, the episode says Chu Huaiwang has already demoted or exiled upright remonstrants such as [[QuYuan|屈原]], so the court can preserve succession through [[MiHeng|芈横 / 楚顷襄王]] but cannot produce a serious rescue response.
 
+[[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] turns the Chu Huaiwang branch into retrospective diagnosis. The episode does not treat him as simply foolish; it emphasizes the court ecology around him, including [[ZhangYiStrategist|张仪]]'s praise and gifts, [[ZhengXiu|郑袖]]'s palace manipulation, and close ministers who helped filter what the ruler heard. Feedback collapse here is an intimate-information problem as much as a formal remonstrance failure.
+
 ## Key Claims
 - A ruler's self-certainty can silence capable advisers before policy is tested.
 - Ministerial flattery is dangerous because it disguises information failure as harmony.
@@ -43,6 +45,7 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 - Feedback collapse can be prepared by hostile diplomacy before the formal decision point; advisers may be excluded before their warning is needed.
 - Informal palace influence can sometimes prevent a bad decision, but it is not the same as durable feedback because it may work through private fear rather than shared correction.
 - Feedback collapse can become abandonment: a ruler who has pushed away loyal correction may discover in crisis that the court can continue the state without saving him.
+- Feedback collapse can also be created by validation hunger and intimate access: praise, favorites, and close ministers may shape perception before any formal policy debate begins.
 
 ## Connections
 - [[Zisi|子思]] - speaker and critic of the pattern.
@@ -59,3 +62,4 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 - [[QuYuan|屈原]], [[QuGai|屈匄]], [[DanyangBattle|丹阳之战]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|忿兵决策]] - Zhouji 51 court-capture and angry war branch.
 - [[ZhengXiu|郑袖]], [[Shangyong|上庸]], [[CourtBackchannelSurvival|宫廷后门自救]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 palace influence and release branch.
 - [[ZhaoJu|昭雎]], [[MiLan|芈兰]], [[MiHeng|芈横 / 楚顷襄王]], [[Wuguan|武关]], and [[Xianyang|咸阳]] - Zhouji 62 ignored warning, captivity, and no-rescue consequence.
+- [[WangShipeng|王十朋]], [[MoralReputationPoliticalCapital|道德名望政治资本]], and [[CourtBackchannelSurvival|宫廷后门自救]] - Zhouji 65 retrospective Chu Huaiwang diagnosis and remembered sympathy.
