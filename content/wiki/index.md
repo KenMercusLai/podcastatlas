@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？](sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin.md) — 芮淇讲透资治通鉴 episode on Mengchangjun's Qin imprisonment and chicken-crow/dog-theft escape, Wang Anshi's critique of indiscriminate retainer patronage, and Qin attacking Chu after Chu installs Mi Heng.
 - [《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊](sources/zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff.md) — 芮淇讲透资治通鉴 episode on Qin trapping Chu Huaiwang at Wuguan, detaining him in Xianyang, demanding Wu Commandery and Qianzhong, Chu and Qi managing Mi Heng's return, and the Mengchangjun Qin-chancellor setup.
 - [《资治通鉴·周纪》61丨谁是历史上胆儿最肥的帝王？](sources/zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1.md) — 芮淇讲透资治通鉴 episode on Zhao Wuling Wang abdicating to ten-year-old Zhao He, personally scouting Qin in disguise, planning a northern route around Hangu Pass toward Xianyang, and correcting Qi Xuan Wang and Qin chancellor chronology.
 - [《资治通鉴·周纪》60丨 中国第一位把持朝政的太后竟是她？](sources/zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc.md) — 芮淇讲透资治通鉴 episode on Xuan Taihou and Wei Ran consolidating early Qin Zhaoxiang Wang politics, Qin-Chu marriage repair, Qin pressure on Han/Wei, and the Mi Heng hostage incident that flips Qin back toward Han and Wei against Chu.
@@ -1139,10 +1140,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [樗里子 / Chulizi](entities/Chulizi.md) — Qin royal-family commander and first right chancellor who later becomes part of the court pressure against Gan Mao's Yiyang campaign.
 - [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
-- [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames the episode's ridicule and retainer-violence scene.
+- [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames an earlier ridicule scene and whose Four Lords role is previewed after Zhouji 63.
+- [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei member of the Warring States Four Lords, source-scoped as a retainer-patronage comparison point after Mengchangjun.
+- [春申君 / Lord Chunshen](entities/Chunshenjun.md) — Chu member of the Warring States Four Lords, source-scoped as a retainer-patronage comparison point after Mengchangjun.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
-- [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Tian Ying's son who overcomes birth-taboo exclusion, turns household guest service into reputation, inherits Xue, becomes a central retainer patron, and is praised for accepting useful correction.
+- [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Qi aristocrat and retainer patron whose arc now includes Qin chancellorship, imprisonment, chicken-crow/dog-theft escape, and Wang Anshi's talent-quality critique.
 - [周慎靓王 / Zhou Shenliang Wang](entities/ZhouShenliangwang.md) — Zhou Xian Wang's successor in the Zhouji 40 succession notice, with 周慎亮王 kept as the source spelling variant.
 - [燕王哙 / King Kuai of Yan](entities/YanWangKuai.md) — Yan successor after Yan Yi Wang dies in the 321 BCE Zhouji 40 notice.
 - [薛地 / Xue](entities/XueWarringStates.md) — Tian Ying's Qi fief and Mengchangjun's later retainer base, linking fief security to privately funded patronage.
@@ -4154,7 +4157,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏辙 / Su Zhe](entities/SuZhe.md) — Su Shi's brother and fellow official, used by the episode to ground family loyalty and shared political exposure.
 - [程夫人 / Madam Cheng](entities/ChengFuren.md) — Su Shi's mother and moral educator, linked to compassion, restraint, and early conscience formation.
 - [欧阳修 / Ouyang Xiu](entities/OuyangXiu.md) — Senior literary official who recognizes Su Shi and helps place him inside Northern Song official-literary life.
-- [王安石 / Wang Anshi](entities/WangAnshi.md) — Reforming official whose program and governing style create the central policy conflict around Su Shi.
+- [王安石 / Wang Anshi](entities/WangAnshi.md) — Reforming official whose wiki roles include Song reform politics, Mencius reception, and the Zhouji 63 critique of Mengchangjun's retainers.
 - [宋神宗 / Emperor Shenzong of Song](entities/SongShenzong.md) — Northern Song emperor associated with the Wang Anshi reforms and the political risk around Su Shi's criticism.
 - [司马光 / Sima Guang](entities/SimaGuang.md) — Old-party figure used to show why Su Shi's conscience did not simply belong to one faction.
 - [北宋 / Northern Song](entities/NorthernSong.md) — Dynasty setting where literary talent, officeholding, reform, factional politics, and local service intersect.
@@ -7179,6 +7182,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique](concepts/JimingGoudaoTalentCritique.md) — Wang Anshi-based critique that tactical retainer tricks can save a patron without proving statecraft-level talent or good talent selection.
+- [战国四公子 / Warring States Four Lords](concepts/WarringStatesFourLords.md) — Comparative grouping of Mengchangjun, Xinlingjun, Pingyuanjun, and Chunshenjun as aristocratic retainer patrons.
 - [Warring States Alliance Switching / 战国同盟转向](concepts/WarringStatesAllianceSwitching.md) — Pattern where Qin's alignment flips from Chu to Han/Wei as court faction, returned land, hostage diplomacy, and attack timing shift.
 - [Hostage Diplomacy Rupture / 质子外交破裂](concepts/HostageDiplomacyRupture.md) — Failure mode where a hostage meant to guarantee alliance trust becomes the cause of state-level rupture.
 - [Foreign-Relative Court Politics / 楚系外戚政治](concepts/ForeignRelativeCourtPolitics.md) — Qin court pattern where Xuan Taihou's Chu-linked kin bloc converts succession crisis into office, coercion, and foreign-policy direction.
@@ -7203,7 +7208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.
 - [Retainer Risk Conversion / 门客风险转化](concepts/RetainerRiskConversion.md) — Mengchang Jun pattern where a household-scandal retainer is separated with dignity and turned into outside diplomatic leverage.
 - [Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏](concepts/ContentOverMotiveRemonstrance.md) — Mengchang Jun advice-taking principle that evaluates correction by whether it prevents a real fault even when the speaker has private motives.
-- [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Mengchangjun's Xue-based system of materially supporting mobile retainers, fugitives, and scholars while managing their dignity and loyalty.
+- [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Mengchangjun's Xue-based retainer system, now balanced between dignity-based attraction, private-network risk, and Wang Anshi's quality critique.
 - [Fief Security Illusion / 封地筑城安全幻觉](concepts/FiefSecurityIllusion.md) — Tian Ying's Xue wall-building case showing that a local fief cannot replace the larger state platform that protects a minister.
 - [Birth Taboo Succession Exclusion / 出生日禁忌与继承排斥](concepts/BirthTabooSuccessionExclusion.md) — Tian Wen's May-fifth birth and low-status maternal line as filters that almost remove him from Tian Ying's household before rhetorical recognition becomes possible.
 - [High-Status Law-Enforcement Signal / 高位执法信号](concepts/HighStatusLawEnforcementSignal.md) — Shang Yang reform pattern where punishment near the prince makes the new law visibly credible among high-status insiders.
@@ -7288,7 +7293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renhe Political Power / 人和政治力量](concepts/RenhePoliticalPower.md) — Source synthesis that talent respect, promise-keeping, and diplomatic consistency turn human alignment into political strength.
 - [Succession-Crisis Intervention / 继承危机外部干预](concepts/SuccessionCrisisIntervention.md) — Pattern where unresolved succession invites outside powers to back claimants, seize leverage, or redesign a target state.
 - [Coalition Settlement Failure / 联军战后安排失败](concepts/CoalitionSettlementFailure.md) — Pattern where a victorious coalition cannot convert battlefield success into political settlement because members want different outcomes.
-- [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Sima Guang personnel-judgment frame where talent without virtue can be more dangerous than incompetence.
+- [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Sima Guang personnel-judgment frame extended by motive and level tests for whether useful skill counts as worthy talent.
 - [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Yu Rang honor logic where exceptional patron recognition creates exceptional repayment obligation.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.

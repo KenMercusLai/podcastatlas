@@ -8763,6 +8763,10 @@
     "title": "春点 / Chun Dian Argot",
     "url": "/wiki/concepts/chundianargot/"
   },
+  "Chunshenjun": {
+    "title": "春申君 / Lord Chunshen",
+    "url": "/wiki/entities/chunshenjun/"
+  },
   "ChunyuDoctor": {
     "title": "春雨医生",
     "url": "/wiki/entities/chunyudoctor/"
@@ -21138,6 +21142,10 @@
   "JimThorpe": {
     "title": "Jim Thorpe",
     "url": "/wiki/entities/jimthorpe/"
+  },
+  "JimingGoudaoTalentCritique": {
+    "title": "鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique",
+    "url": "/wiki/concepts/jiminggoudaotalentcritique/"
   },
   "JimoDafu": {
     "title": "即墨大夫 / Jimo Dafu",
@@ -41499,6 +41507,10 @@
     "title": "Warring States Careerist Mobility / 乱世职业经理人式流动",
     "url": "/wiki/concepts/warringstatescareeristmobility/"
   },
+  "WarringStatesFourLords": {
+    "title": "战国四公子 / Warring States Four Lords",
+    "url": "/wiki/concepts/warringstatesfourlords/"
+  },
   "WarringStatesMarriageDiplomacy": {
     "title": "Warring States Marriage Diplomacy / 战国联姻外交",
     "url": "/wiki/concepts/warringstatesmarriagediplomacy/"
@@ -42886,6 +42898,10 @@
   "XiningWildlifePark": {
     "title": "Xining Wildlife Park / 西宁野生动物园",
     "url": "/wiki/entities/xiningwildlifepark/"
+  },
+  "Xinlingjun": {
+    "title": "信陵君 / Lord Xinling",
+    "url": "/wiki/entities/xinlingjun/"
   },
   "Xiren": {
     "title": "袭人 / Xiren",
@@ -47774,5 +47790,9 @@
   "zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff": {
     "title": "《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff/"
+  },
+  "zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin": {
+    "title": "《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin/"
   }
 }

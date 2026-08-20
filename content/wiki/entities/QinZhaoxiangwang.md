@@ -2,7 +2,7 @@
 title: "秦昭襄王 / King Zhaoxiang of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,10 @@ The source makes Qin Zhaoxiang Wang a target of strategic reading, not merely a 
 
 [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] makes Qin Zhaoxiang Wang the planner or beneficiary of the [[Wuguan|武关]] trap against [[ChuHuaiwang|楚怀王]]. Qin invites Chu Huaiwang to a meeting, uses kinship and alliance repair language to lower his guard, then closes Wuguan and takes him to [[Xianyang|咸阳]]. The episode frames Qin's demand for [[WuJunWarringStates|巫郡]] and [[Qianzhong|黔中]] as coercive statecraft backed by a captured ruler.
 
+[[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] makes Qin Zhaoxiang Wang's suspicion turn inward toward his foreign chancellor. After hearing that [[Mengchangjun|孟尝君 / 田文]] may privilege [[QiState|齐国]] interests over Qin's, he replaces Mengchangjun with [[LouHuan|楼缓]], imprisons him, and prepares to kill him. The same episode says he releases Mengchangjun after a palace favorite intercedes, then regrets it and sends pursuers too late.
+
+The source also continues Qin Zhaoxiang Wang's Chu pressure. Once [[ChuState|楚国]] reports that [[MiHeng|芈横 / 楚顷襄王]] has already been installed, detaining Chu Huaiwang loses much of its coercive value. Qin then attacks Chu through [[Wuguan|武关]], kills fifty thousand troops, and takes sixteen cities.
+
 ## Connections
 - [[QinWuwang|秦武王]] - predecessor whose sudden death opens the succession.
 - [[XuanTaihou|芈八子 / 宣太后]] - mother named in the episode.
@@ -32,3 +36,4 @@ The source makes Qin Zhaoxiang Wang a target of strategic reading, not merely a 
 - [[YingZhuang|嬴壮]], [[QinHuiwenhou|惠文后]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[HanYing|韩婴]], [[LinjinWarringStates|临晋]], [[QueenMotherRegency|太后摄政]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 early regency, purge, and diplomacy.
 - [[ZhaoWulingwang|赵武灵王]], [[HanguPass|函谷关]], and [[Xianyang|咸阳]] - Zhouji 61 disguised envoy and northern-route threat branch.
 - [[ChuHuaiwang|楚怀王]], [[ZhaoJu|昭雎]], [[MiLan|芈兰]], [[Wuguan|武关]], [[WuJunWarringStates|巫郡]], [[Qianzhong|黔中]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 Wuguan entrapment and territorial demand.
+- [[Mengchangjun|孟尝君 / 田文]], [[LouHuan|楼缓]], [[QiState|齐国]], [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]], and [[MiHeng|芈横 / 楚顷襄王]] - Zhouji 63 chancellor replacement, pursuit, and post-succession attack on Chu.

@@ -8563,3 +8563,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran health before lint; health scanned 11,944 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,944 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges, while the current wiki has 11,944 linted pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and the default `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Mengchangjun's Qin chancellorship crisis, imprisonment, chicken-crow/dog-theft escape, Wang Anshi's critique of indiscriminate retainer patronage, and Qin's attack on Chu after Chu installs Mi Heng as the new king. Created pages for Jiming-Goudao Talent Critique, Warring States Four Lords, Xinlingjun, and Chunshenjun; updated overview, index, Mengchangjun, Qin Zhaoxiang Wang, Lou Huan, Wang Anshi, Warring States Retainer Patronage, Talent-Virtue Distinction, Qin/Chu/Qi state pages, Chu Huaiwang, Mi Heng, Xianyang, Zhou Nan Wang, and Pingyuanjun. No direct contradiction found; the episode resolves Zhouji 62's Mengchangjun Qin-chancellor setup and extends the Qin-Chu hostage branch by showing that Chu succession continuity reduces Qin's leverage over the detained Chu Huaiwang.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

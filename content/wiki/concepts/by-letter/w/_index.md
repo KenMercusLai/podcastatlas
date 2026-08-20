@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 4776
+wiki_total_pages: 4778
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "WanErDuoFeng"
     title: "婉而多讽 / Gentle And Layered Satire"
     url: "/wiki/concepts/wanerduofeng/"
+  - key: "WarringStatesFourLords"
+    title: "战国四公子 / Warring States Four Lords"
+    url: "/wiki/concepts/warringstatesfourlords/"
   - key: "WangAnshiReforms"
     title: "王安石变法 / Wang Anshi Reforms"
     url: "/wiki/concepts/wanganshireforms/"

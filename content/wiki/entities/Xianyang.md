@@ -2,7 +2,7 @@
 title: "咸阳 / Xianyang"
 type: entity
 tags: [place, capital, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ The source explains the name through location: south of the Jiuzong mountains an
 
 [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] adds Xianyang as the detention and office setting after the [[Wuguan|武关]] trap. [[ChuHuaiwang|楚怀王]] is taken there after Qin seizes him, then pressured by [[QinZhaoxiangwang|秦昭襄王]] to cede [[WuJunWarringStates|巫郡]] and [[Qianzhong|黔中]]. The same episode closes by saying [[Mengchangjun|孟尝君 / 田文]] arrives at Xianyang and is made Qin chancellor.
 
+[[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] resolves that chancellor setup by making the Qin court a danger zone for Mengchangjun. Qin Zhaoxiang Wang suspects his Qi loyalty, replaces him with [[LouHuan|楼缓]], imprisons him, and releases him only after a palace favorite is persuaded through the stolen white fox-fur robe.
+
 ## Connections
 - [[QinState|秦国]] - polity whose capital moves there.
 - [[ShangYang|公孙鞅 / 商鞅]] and [[ShangYangReforms]] - reformer and reform package linked to the move.
@@ -27,3 +29,4 @@ The source explains the name through location: south of the Jiuzong mountains an
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], [[QinWuwang|秦武王]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 55 return-road succession notice.
 - [[ZhaoWulingwang|赵武灵王]], [[QinZhaoxiangwang|秦昭襄王]], [[HanguPass|函谷关]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Zhouji 61 northern-route target after disguised reconnaissance.
 - [[ChuHuaiwang|楚怀王]], [[Wuguan|武关]], [[WuJunWarringStates|巫郡]], [[Qianzhong|黔中]], and [[Mengchangjun|孟尝君 / 田文]] - Zhouji 62 captive Chu king and Qin chancellor setup.
+- [[LouHuan|楼缓]], [[QiState|齐国]], and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Zhouji 63 Mengchangjun imprisonment, replacement, and escape context.

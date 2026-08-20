@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6104
+wiki_total_pages: 6106
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "CultureLimited"
     title: "文化有限"
     url: "/wiki/entities/culturelimited/"
+  - key: "Chunshenjun"
+    title: "春申君 / Lord Chunshen"
+    url: "/wiki/entities/chunshenjun/"
   - key: "ChunyuDoctor"
     title: "春雨医生"
     url: "/wiki/entities/chunyudoctor/"
