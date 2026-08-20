@@ -2,7 +2,7 @@
 title: "Tactical Credibility Cost / 战术信用成本"
 type: concept
 tags: [warfare, deception, trust, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
+sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
 last_updated: 2026-08-20
 ---
 
@@ -16,6 +16,8 @@ The episode adds a second cost. Shang Yang's use of old acquaintance, peace lang
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] adds a Zhang Yi version of credibility spending. His six-hundred-li promise to [[ChuHuaiwang|楚怀王]] helps [[QinState|秦国]] break the [[QiState|齐国]]-[[ChuState|楚国]] alliance, but the immediate gain depends on denying or shrinking the promised [[Shangyu|商於]] transfer after Chu has acted. The episode treats the trick as effective in sequence, while also making [[ChenZhenWarringStates|陈枕]] openly name Zhang Yi's dishonesty.
 
+[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] adds a ruler-level Qin version. [[QinZhaoxiangwang|秦昭襄王]] invites Chu Huaiwang to [[Wuguan|武关]] under meeting and alliance-repair language, then closes the pass, takes him to [[Xianyang|咸阳]], and demands [[WuJunWarringStates|巫郡]] plus [[Qianzhong|黔中]]. The episode treats this as faithless coercion that works because [[ChuHuaiwang|楚怀王]] has already lost outside support; the tactical gain comes with open damage to Qin's trustworthiness.
+
 ## Key Claims
 - A trick can produce a major victory while still being strategically expensive.
 - Reusable deception depends on repeatable structures, not on fooling the same people with the same story.
@@ -23,6 +25,7 @@ The episode adds a second cost. Shang Yang's use of old acquaintance, peace lang
 - Battlefield deception and interpersonal trust-destruction are not the same cost category.
 - Later political refuge can fail because earlier tactical deception made the deceiver unreadable.
 - Zhang Yi's Shangyu promise shows a diplomatic version of the same cost: an operator can win the current exchange while making future promises easier to read as traps.
+- Capturing a ruler through a meeting invitation can produce direct leverage, but it makes future meeting protocol itself look like a possible trap.
 
 ## Connections
 - [[SunBin|孙膑]], [[MalingBattle|马陵之战]], and [[DecreasingStovesDeception|减灶诱敌]] - reusable battlefield-deception side.
@@ -31,3 +34,4 @@ The episode adds a second cost. Shang Yang's use of old acquaintance, peace lang
 - [[WeiState|魏国]] and [[QinState|秦国]] - later refuge refusal and original campaign setting.
 - [[MotivatedBias]] - psychological mechanism that makes the original parley believable.
 - [[ZhangYiStrategist|张仪]], [[ChuHuaiwang|楚怀王]], [[ChenZhenWarringStates|陈枕]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 diplomatic credibility-cost extension.
+- [[QinZhaoxiangwang|秦昭襄王]], [[Wuguan|武关]], [[Xianyang|咸阳]], [[WuJunWarringStates|巫郡]], and [[Qianzhong|黔中]] - Zhouji 62 meeting-trap and captured-ruler leverage.

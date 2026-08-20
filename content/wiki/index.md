@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊](sources/zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff.md) — 芮淇讲透资治通鉴 episode on Qin trapping Chu Huaiwang at Wuguan, detaining him in Xianyang, demanding Wu Commandery and Qianzhong, Chu and Qi managing Mi Heng's return, and the Mengchangjun Qin-chancellor setup.
 - [《资治通鉴·周纪》61丨谁是历史上胆儿最肥的帝王？](sources/zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1.md) — 芮淇讲透资治通鉴 episode on Zhao Wuling Wang abdicating to ten-year-old Zhao He, personally scouting Qin in disguise, planning a northern route around Hangu Pass toward Xianyang, and correcting Qi Xuan Wang and Qin chancellor chronology.
 - [《资治通鉴·周纪》60丨 中国第一位把持朝政的太后竟是她？](sources/zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc.md) — 芮淇讲透资治通鉴 episode on Xuan Taihou and Wei Ran consolidating early Qin Zhaoxiang Wang politics, Qin-Chu marriage repair, Qin pressure on Han/Wei, and the Mi Heng hostage incident that flips Qin back toward Han and Wei against Chu.
 - [《资治通鉴·周纪》59丨一朝君王一朝臣](sources/zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh.md) — 芮淇讲透资治通鉴 episode completing Zhao Cheng's conversion to Hu Fu Qi She, showing Zhao's northern expansion and Hu recruitment, and tracing Gan Mao's loss of security under Qin Zhaoxiang Wang after the Yiyang-Wusui settlement.
@@ -1070,6 +1071,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [巫郡 / Wu Commandery](entities/WuJunWarringStates.md) — Chu region Qin demands alongside Qianzhong after detaining Chu Huaiwang in Xianyang.
+- [芈兰 / Mi Lan](entities/MiLan.md) — Chu Huaiwang's son whose Qin marriage tie leads him to favor the risky Wuguan meeting.
+- [昭雎 / Zhao Ju](entities/ZhaoJu.md) — Chu minister who warns Chu Huaiwang not to trust Qin and later argues against bypassing the trapped king and absent crown prince.
 - [临晋 / Linjin (Warring States)](entities/LinjinWarringStates.md) — Qin-Han-Wei meeting site where Qin repairs relations after the Mi Heng hostage incident breaks the Qin-Chu alignment.
 - [黄棘 / Huangji](entities/Huangji.md) — Qin-Chu meeting site where Qin Zhaoxiang Wang and Chu Huaiwang renew alliance and Qin returns Shangyong.
 - [封陵 / Fengling (Warring States)](entities/FenglingWarringStates.md) — Wei crossing point taken by Qin during the 303 BCE pressure on Han and Wei.
@@ -1077,7 +1081,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蒲阪 / Puban (Warring States)](entities/PubanWarringStates.md) — Wei crossing point captured by Qin in 303 BCE and returned in 302 BCE as a repair signal.
 - [客卿通 / Keqing Tong](entities/KeqingTong.md) — Qin commander sent to rescue Chu after Chu sends Mi Heng as hostage.
 - [韩婴 / Han Ying](entities/HanYing.md) — Han crown prince who meets Qin Zhaoxiang Wang and Wei Xiangwang at Linjin and then visits Xianyang.
-- [芈横 / Mi Heng](entities/MiHeng.md) — Chu crown prince whose hostage killing of a Qin official breaks the Qin-Chu alliance.
+- [芈横 / 楚顷襄王 / Mi Heng](entities/MiHeng.md) — Chu crown prince whose hostage killing of a Qin official breaks the Qin-Chu alliance, then returns from Qi to succeed after Chu Huaiwang is detained.
 - [惠文后 / Queen Huiwen of Qin](entities/QinHuiwenhou.md) — Qin palace figure secretly executed in Wei Ran's post-Wuwang succession purge.
 - [嬴壮 / Ying Zhuang](entities/YingZhuang.md) — Qin shuzhang whose revolt after Qin Wuwang's death is crushed by Wei Ran.
 - [向寿 / Xiang Shou](entities/XiangShou.md) — Qin official sent to administer Yiyang whose opposition to returning Wusui helps turn Gan Mao's policy win into court resentment.

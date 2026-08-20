@@ -2,7 +2,7 @@
 title: "齐湣王 / King Min of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 
 [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] gives the later placement. In 301 BCE, Qi Xuan Wang dies and Tian Di succeeds as Qi Min Wang. The source directly refers back to the earlier Zhouji 49 problem, so Qi Min Wang's accession can now be filed as a corrected 301 BCE notice while the earlier page remains a record of [[ChronicleChronologyDrift|编年错位]].
 
+[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] gives Qi Min Wang a hostage-decision scene. After [[QinZhaoxiangwang|秦昭襄王]] detains [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]] asks Qi to return [[MiHeng|芈横 / 楚顷襄王]] by falsely claiming the old king has died. Qi Min Wang hears arguments for holding Mi Heng to demand Chu land north of the Huai River and arguments that holding him may leave Qi with a useless hostage if Chu installs another ruler. He finally releases Mi Heng, letting him return and succeed in Chu.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - target of Qi hatred and manipulator of Qi's response.
 - [[FengXiWarringStates|冯喜]] - emissary who reveals Zhang Yi's Qin pitch.
@@ -25,3 +27,4 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 - [[YinmouYangmouConversion|阴谋阳谋转换]] and [[ChronicleChronologyDrift|编年错位]] - concept frames attached to the episode.
 - [[QiXuanWang|齐宣王]], [[ZizhiTongjian|《资治通鉴》]], and [[QiChronologyDispute|齐威王编年争议]] - Zhouji 49 early death/accession warning.
 - [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 corrected 301 BCE accession placement after the earlier warning.
+- [[MiHeng|芈横 / 楚顷襄王]], [[ChuState|楚国]], [[ChuHuaiwang|楚怀王]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 62 hostage-return and succession calculation.

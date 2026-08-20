@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6101
+wiki_total_pages: 6104
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "WuJunIndieGameCreator"
     title: "巫君 / Wu Jun (indie game creator)"
     url: "/wiki/entities/wujunindiegamecreator/"
+  - key: "WuJunWarringStates"
+    title: "巫郡 / Wu Commandery"
+    url: "/wiki/entities/wujunwarringstates/"
   - key: "WilliamOfBaskerville"
     title: "巴斯克维尔的威廉 / William of Baskerville"
     url: "/wiki/entities/williamofbaskerville/"

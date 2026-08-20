@@ -2,7 +2,7 @@
 title: "孟尝君 / Tian Wen"
 type: entity
 tags: [person, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
 last_updated: 2026-08-20
 ---
 
@@ -34,6 +34,8 @@ The same source adds a [[Zhanguoce|《战国策》]] story in which one retainer
 
 [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] adds a later source-critical office notice. While correcting the Qin chancellor sequence after [[Chulizi|樗里疾 / 樗里子]]'s death, the episode says [[Shiji|《史记》]] places Mengchangjun Tian Wen as Qin chancellor in 298 BCE, after [[WeiRan|魏冉]] and before [[LouHuan|楼缓]]. This page keeps the notice as chronology correction rather than expanding it into a full Qin career narrative.
 
+[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] turns that corrected office notice into the next narrative setup. After the [[ChuHuaiwang|楚怀王]] detention and [[MiHeng|芈横]] succession branch, the episode says [[QinZhaoxiangwang|秦昭襄王]] admires Mengchangjun's reputation, sends a royal brother to [[QiState|齐国]] as hostage, and brings Tian Wen to [[Xianyang|咸阳]] to serve as Qin chancellor. The episode ends by asking whether a Qi aristocrat can actually hold that Qin office.
+
 ## Connections
 - [[TianYing|田婴]] - father, gatekeeper to recognition, and source of the household office that lets Tian Wen build reputation.
 - [[QiState|齐国]] and [[TianFamilyReplacementOfQi|田氏代齐]] - dynastic and state context.
@@ -45,3 +47,4 @@ The same source adds a [[Zhanguoce|《战国策》]] story in which one retainer
 - [[TianWenWeiChancellor|田文 / Tian Wen (Wei chancellor)]] - disambiguation from an earlier different Tian Wen.
 - [[QinState|秦国]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 slow-support role in the five-state attack.
 - [[WeiRan|魏冉]], [[LouHuan|楼缓]], [[Chulizi|樗里疾 / 樗里子]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 Qin chancellor-sequence correction.
+- [[QinZhaoxiangwang|秦昭襄王]], [[QiState|齐国]], [[Xianyang|咸阳]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 62 setup for Mengchangjun's Qin chancellorship.

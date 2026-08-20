@@ -2,7 +2,7 @@
 title: "秦昭襄王 / King Zhaoxiang of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The source keeps him at the threshold of power rather than narrating his reign. 
 
 The source makes Qin Zhaoxiang Wang a target of strategic reading, not merely a young ruler under regency. Zhao Wuling Wang's planned route from Yunzhong and Jiuyuan toward [[Xianyang|咸阳]] also marks Qin's capital as something that could be imagined from beyond the usual [[HanguPass|函谷关]] approach.
 
+[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] makes Qin Zhaoxiang Wang the planner or beneficiary of the [[Wuguan|武关]] trap against [[ChuHuaiwang|楚怀王]]. Qin invites Chu Huaiwang to a meeting, uses kinship and alliance repair language to lower his guard, then closes Wuguan and takes him to [[Xianyang|咸阳]]. The episode frames Qin's demand for [[WuJunWarringStates|巫郡]] and [[Qianzhong|黔中]] as coercive statecraft backed by a captured ruler.
+
 ## Connections
 - [[QinWuwang|秦武王]] - predecessor whose sudden death opens the succession.
 - [[XuanTaihou|芈八子 / 宣太后]] - mother named in the episode.
@@ -29,3 +31,4 @@ The source makes Qin Zhaoxiang Wang a target of strategic reading, not merely a 
 - [[XiangShou|向寿]], [[GanMao|甘茂]], [[WusuiWarringStates|武遂]], and [[WeiRan|魏冉]] - Zhouji 59 post-Yiyang administration, returned-city decision, and accession enforcement.
 - [[YingZhuang|嬴壮]], [[QinHuiwenhou|惠文后]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[HanYing|韩婴]], [[LinjinWarringStates|临晋]], [[QueenMotherRegency|太后摄政]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 early regency, purge, and diplomacy.
 - [[ZhaoWulingwang|赵武灵王]], [[HanguPass|函谷关]], and [[Xianyang|咸阳]] - Zhouji 61 disguised envoy and northern-route threat branch.
+- [[ChuHuaiwang|楚怀王]], [[ZhaoJu|昭雎]], [[MiLan|芈兰]], [[Wuguan|武关]], [[WuJunWarringStates|巫郡]], [[Qianzhong|黔中]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 Wuguan entrapment and territorial demand.

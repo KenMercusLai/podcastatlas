@@ -2,7 +2,7 @@
 title: "芈八子 / 宣太后 / Xuan Taihou"
 type: entity
 tags: [person, queen-mother, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-20
 ---
 
@@ -14,6 +14,8 @@ last_updated: 2026-08-20
 
 [[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] turns that threshold into the central story. Because [[QinZhaoxiangwang|秦昭襄王]] is young, Xuan Taihou holds court power, hands major authority to Wei Ran, promotes her kin and the ruler's brothers, and shapes early Qin policy through [[QueenMotherRegency|太后摄政]] and [[ForeignRelativeCourtPolitics|楚系外戚政治]]. The episode also makes her diplomatic effect concrete: she arranges a Chu bride for Qin Zhaoxiang Wang, warms [[QinState|秦国]]-[[ChuState|楚国]] relations, and helps move Qin away from Han and Wei until the [[MiHeng|芈横]] hostage incident breaks the alignment.
 
+[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] uses Xuan Taihou indirectly as the kinship premise behind [[ChuHuaiwang|楚怀王]]'s fatal confidence. Chu Huaiwang believes [[QinZhaoxiangwang|秦昭襄王]], as Xuan Taihou's son and therefore his nephew, is unlikely to trap him. The source turns that assumption into a limit case for [[ForeignRelativeCourtPolitics|楚系外戚政治]]: maternal Chu ties can shape Qin diplomacy, but they do not prevent Qin from detaining the Chu king when state advantage is available.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - son whose accession brings her into the wiki.
 - [[QinWuwang|秦武王]] - predecessor whose death creates the succession opening.
@@ -21,3 +23,4 @@ last_updated: 2026-08-20
 - [[YanState|燕国]] - place where Ying Ji is a hostage before being brought back.
 - [[WeiRan|魏冉]] - kin/power actor who secures Ying Ji's accession in Zhouji 59.
 - [[QueenMotherRegency|太后摄政]], [[ForeignRelativeCourtPolitics|楚系外戚政治]], [[WarringStatesMarriageDiplomacy|战国联姻外交]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 regency, kin bloc, marriage repair, and alliance reversal.
+- [[ChuHuaiwang|楚怀王]], [[MiLan|芈兰]], [[Wuguan|武关]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 kinship-confidence failure around the Wuguan meeting.

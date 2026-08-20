@@ -2,7 +2,7 @@
 title: "武关 / Wuguan"
 type: entity
 tags: [place, pass, pre-qin, warring-states, qin-state, chu-state]
-sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
 last_updated: 2026-08-20
 ---
 
@@ -14,9 +14,12 @@ The second attack uses the same route in a more dangerous way. Qin retreats thro
 
 [[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] uses Wuguan in two ways. First, land east of Wuguan is part of [[YingSi|秦惠文王]]'s proposed exchange for [[Qianzhong|黔中]]. Second, after his release, [[ZhangYiStrategist|张仪]] warns that Qin can exit Wuguan to cut off Chu's northern territory, making the pass both a bargaining marker and a threat route.
 
+[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] makes Wuguan the trap site itself. [[QinZhaoxiangwang|秦昭襄王]] invites [[ChuHuaiwang|楚怀王]] to meet there, but Qin has a general impersonate the king and closes the pass once Chu Huaiwang enters. In this source, Wuguan shifts from invasion corridor and bargaining marker into the place where Qin converts meeting protocol into captivity.
+
 ## Connections
 - [[DanyangBattle|丹阳之战]] and [[LantianBattle|蓝田之战]] - two campaign stages tied to the route.
 - [[QinState|秦国]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - combatants and decision-maker.
 - [[Shangyu|商於]] - promised region beyond the pass route.
 - [[AngerDrivenWarDecision|因怒兴师]] and [[ForcedMarchOperationalRisk|急行军作战风险]] - decision and campaign-risk frame.
 - [[Qianzhong|黔中]], [[ZhangYiStrategist|张仪]], and [[LianhengStrategy|连横]] - Zhouji 53 land-exchange and Qin threat-map branch.
+- [[QinZhaoxiangwang|秦昭襄王]], [[ZhaoJu|昭雎]], [[MiLan|芈兰]], [[Xianyang|咸阳]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 meeting trap and detention branch.

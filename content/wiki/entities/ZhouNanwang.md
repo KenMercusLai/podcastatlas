@@ -2,7 +2,7 @@
 title: "周赧王 / Zhou Nan Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -34,6 +34,8 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 
 [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] moves the frame into Zhou Nan Wang's fourteenth through sixteenth years, 301-299 BCE. The Zhou king remains annalistic backdrop while Qin, Han, Wei, and Qi attack Chu, [[QiXuanWang|齐宣王]] dies and [[QiMinWang|齐湣王]] succeeds, the Qin chancellor sequence after [[Chulizi|樗里疾 / 樗里子]] is corrected through [[ChronicleChronologyDrift|编年错位]], and [[ZhaoWulingwang|赵武灵王]] gives the throne to [[ZhaoHe|赵何]] before personally scouting [[QinState|秦国]].
 
+[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] stays in the 299 BCE portion of that frame. Zhou Nan Wang again remains a date marker while [[QinZhaoxiangwang|秦昭襄王]] traps [[ChuHuaiwang|楚怀王]] at [[Wuguan|武关]], [[ChuState|楚国]] negotiates the return of [[MiHeng|芈横 / 楚顷襄王]] from [[QiState|齐国]], and [[Mengchangjun|孟尝君 / 田文]] is set up to enter Qin as chancellor.
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
@@ -50,3 +52,4 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 - [[QinZhaoxiangwang|秦昭襄王]], [[Luoyi|洛邑]], [[ZhaoWulingwang|赵武灵王]], [[HufuQishe|胡服骑射]], and [[ZhaoChengWarringStates|赵成]] - Zhouji 58 eighth-year Qin succession and Zhao reform branch.
 - [[ZhaoWulingwang|赵武灵王]], [[ZhongshanState|中山国]], [[XuanTaihou|芈八子 / 宣太后]], [[WeiRan|魏冉]], [[Huangji|黄棘]], [[MiHeng|芈横]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 tenth-to-thirteenth-year frame.
 - [[QiXuanWang|齐宣王]], [[QiMinWang|齐湣王]], [[Chulizi|樗里疾 / 樗里子]], [[ZhaoHe|赵何]], [[HanguPass|函谷关]], and [[Xianyang|咸阳]] - Zhouji 61 fourteenth-to-sixteenth-year frame.
+- [[ChuHuaiwang|楚怀王]], [[QinZhaoxiangwang|秦昭襄王]], [[Wuguan|武关]], [[MiHeng|芈横 / 楚顷襄王]], and [[Mengchangjun|孟尝君 / 田文]] - Zhouji 62 299 BCE captive-king and succession frame.
