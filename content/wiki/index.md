@@ -6185,7 +6185,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Claude Tag](entities/ClaudeTag.md) — Anthropic collaboration surface that lets Slack users assign work to Claude in team channels.
 - [Thinking Machines Lab](entities/ThinkingMachinesLab.md) — Model lab discussed through Interaction Model and full-duplex voice interaction.
 - [Interaction Model](entities/InteractionModel.md) — Thinking Machines Lab model used as the episode's real-time voice and multimodal-interaction case.
-- [MidJourney](entities/MidJourney.md) — AI company discussed through its source-reported move into medical-imaging hardware.
+- [Midjourney](entities/Midjourney.md) — AI company discussed through its source-reported move into medical-imaging hardware.
 - [Chen Zhe Peter](entities/ChenZhePeter.md) — AlphaEast investor interpreting Q2 2026 humanoid robots, dexterous hands, world models, VLA routes, and robot commercialization.
 - [AlphaEast](entities/AlphaEast.md) — Investment-firm context for Chen Zhe Peter's embodied-AI market analysis.
 - [Figure AI](entities/FigureAI.md) — Humanoid-robot company discussed through its long logistics-sorting livestream and unresolved autonomy/teleoperation debate.
@@ -6561,7 +6561,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DingTalk](entities/DingTalk.md) — Alibaba collaboration product discussed as a work-service surface that could connect to Qwen.
 - [Roi](entities/Roi.md) — Mujian founder and CEO connecting AI simulation content, creator tools, play, and first-seat founder agency.
 - [Mujian](entities/Mujian.md) — AI simulation interactive content platform building virtual-life experiences, creator tooling, distribution, and monetization.
-- [LibLib](entities/LibLib.md) — AI creator-tool and community company where Roi worked before founding Mujian.
+- [Liblib](entities/Liblib.md) — AI creator-tool and community company where Roi worked before founding Mujian.
 - [Ctrip / Trip.com Group](entities/Ctrip.md) — Chinese online-travel platform used to explain OTA concentration, hotel inventory control, pricing power, hidden fees, and platform antitrust.
 - [Ctrip Wendao](entities/CtripWendao.md) — Ctrip travel-industry vertical model used to discuss AI travel planning, booking convenience, and platform trust after the antitrust penalty.
 - [Liang Jianzhang](entities/LiangJianzhang.md) — Ctrip co-founder and returning CEO figure tied to technology, mobile recovery, supplier systems, and demographic research.
