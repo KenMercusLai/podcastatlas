@@ -16127,6 +16127,10 @@
     "title": "高善文 / Gao Shanwen",
     "url": "/wiki/entities/gaoshanwen/"
   },
+  "GaoXinWarringStates": {
+    "title": "高信 / Gao Xin (Warring States)",
+    "url": "/wiki/entities/gaoxinwarringstates/"
+  },
   "GaoYiding": {
     "title": "高一丁 / Gao Yiding",
     "url": "/wiki/entities/gaoyiding/"
@@ -23316,7 +23320,7 @@
     "url": "/wiki/entities/lideyu/"
   },
   "LiDui": {
-    "title": "李队 / Li Dui",
+    "title": "李兑 / Li Dui",
     "url": "/wiki/entities/lidui/"
   },
   "LiHongjun": {
@@ -33202,6 +33206,10 @@
   "ResponsibilityAgainstRomanticEscape": {
     "title": "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避",
     "url": "/wiki/concepts/responsibilityagainstromanticescape/"
+  },
+  "ResponsibilityAvoidantKilling": {
+    "title": "Responsibility-Avoidant Killing / 避责式杀害",
+    "url": "/wiki/concepts/responsibilityavoidantkilling/"
   },
   "ResponsibilityVsGuilt": {
     "title": "Responsibility Versus Guilt / 责任与罪行区分",
@@ -47866,5 +47874,9 @@
   "zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq": {
     "title": "《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq/"
+  },
+  "zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg": {
+    "title": "《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg/"
   }
 }

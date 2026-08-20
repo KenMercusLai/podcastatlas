@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6118
+wiki_total_pages: 6119
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "LiKeyong"
     title: "李克用 / Li Keyong"
     url: "/wiki/entities/likeyong/"
+  - key: "LiDui"
+    title: "李兑 / Li Dui"
+    url: "/wiki/entities/lidui/"
   - key: "LiBing"
     title: "李冰 / Li Bing"
     url: "/wiki/entities/libing/"
@@ -803,9 +806,6 @@ wiki_pages:
   - key: "LiChongjin"
     title: "李重进 / Li Chongjin"
     url: "/wiki/entities/lichongjin/"
-  - key: "LiDui"
-    title: "李队 / Li Dui"
-    url: "/wiki/entities/lidui/"
   - key: "LiXueqin"
     title: "李雪琴 / Li Xueqin"
     url: "/wiki/entities/lixueqin/"

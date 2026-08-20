@@ -2,7 +2,7 @@
 title: "Power Exit Trap / 权力退场困境"
 type: concept
 tags: [politics, statecraft, reform, power, risk]
-sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-20
 ---
 
@@ -26,7 +26,9 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 
 [[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] gives that partial-exit structure a concrete foreign-policy cost. When the fleeing [[ChuHuaiwang|楚怀王]] reaches [[ZhaoState|赵国]], Zhao officials do not dare receive him because Zhao Wuling Wang is away in Dai. The problem is not merely the young ruler's weakness; the old ruler's retained authority leaves emergency decision rights uncertain at exactly the moment a choice must be made.
 
-[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] shows the trap hardening into re-entry politics. Zhao Wuling Wang cannot simply act as a former ruler because the court has consolidated around [[ZhaoHe|赵何]], [[FeiYi|肥义]], [[LiDui|李队]], and [[ZhaoChengWarringStates|赵成]]. Yet he also cannot accept being outside the real center, so he tries to use [[ZhaoZhang|赵章]] and the Shaqiu trip to regain leverage. The episode turns partial exit from a decision-rights problem into a failed power-recovery setup.
+[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] shows the trap hardening into re-entry politics. Zhao Wuling Wang cannot simply act as a former ruler because the court has consolidated around [[ZhaoHe|赵何]], [[FeiYi|肥义]], [[LiDui|李兑]], and [[ZhaoChengWarringStates|赵成]]. Yet he also cannot accept being outside the real center, so he tries to use [[ZhaoZhang|赵章]] and the Shaqiu trip to regain leverage. The episode turns partial exit from a decision-rights problem into a failed power-recovery setup.
+
+[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]] supplies the end state of that trap. Once Zhao Zhang's coup fails and Zhao Cheng plus Li Dui have killed him inside Zhao Wuling Wang's quarters, the former ruler can no longer safely be restored, released, or openly executed. The winning faction chooses a fourth path: keeping him confined and unfed until he dies, which turns the exit trap into [[ResponsibilityAvoidantKilling|避责式杀害]].
 
 ## Key Claims
 - Power can become protective infrastructure, not only a prize.
@@ -41,6 +43,7 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - A ruler can create a power-exit trap by leaving the formal throne while retaining enough independent authority to keep succession and command unresolved.
 - Partial abdication can turn foreign-policy emergencies into decision paralysis when officials cannot tell which center of power will bear responsibility.
 - A partial exit can decay into a re-entry attempt when the old ruler sees the successor's court becoming the real center of loyalty.
+- A failed re-entry attempt can leave the old ruler alive but politically unusable, encouraging indirect elimination by the faction that fears revenge.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[QinState|秦国]], and [[WarringStatesReformBacklash]] - central source case.
@@ -52,4 +55,4 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - [[FanLi|范蠡]], [[WenZhongYue|文种]], [[Goujian|越王勾践]], and [[WuState|吴国]] - Zhouji 57 post-victory exit-risk branch.
 - [[ZhaoWulingwang|赵武灵王]], [[ZhaoHe|赵何]], [[FeiYi|肥义]], and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 61 ruler-level partial-exit and succession branch.
 - [[ChuHuaiwang|楚怀王]], [[ZhaoState|赵国]], and [[Loufan|楼烦]] - Zhouji 65 emergency refusal during Zhao Wuling Wang's absence and continuing frontier program.
-- [[LiDui|李队]], [[TianBuli|田不李]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 internal hardening of the Zhao partial-exit trap.
+- [[LiDui|李兑]], [[TianBuli|田不李]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 internal hardening and lethal conclusion of the Zhao partial-exit trap.

@@ -2,7 +2,7 @@
 title: "肥义 / Fei Yi"
 type: entity
 tags: [person, minister, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
 last_updated: 2026-08-20
 ---
 
@@ -16,7 +16,9 @@ The episode reads this as a political signal. Honoring Fei Yi tells old minister
 
 [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] gives Fei Yi a governing role in the succession arrangement. When Zhao Wuling Wang transfers the throne to ten-year-old [[ZhaoHe|赵何]] in 299 BCE, Fei Yi is appointed chancellor. His page therefore connects Zhao Wuling Wang's early respect for an old minister to the later need for an experienced adult official around a child ruler.
 
-[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] shows the cost of that entrusted role. The source summary renders him as 斐毅 in places, but the role matches Fei Yi: [[LiDui|李队]] warns him that [[ZhaoZhang|赵章]] and [[TianBuli|田不李]] may move against [[ZhaoHe|赵何]], and urges him to withdraw. Fei Yi refuses because Zhao Wuling Wang entrusted the young ruler to him, then sets a safeguard against forged 主父 summons by insisting he inspect first before Zhao He responds.
+[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] shows the cost of that entrusted role. The source summary renders him as 斐毅 in places, but the role matches Fei Yi: [[LiDui|李兑]] warns him that [[ZhaoZhang|赵章]] and [[TianBuli|田不李]] may move against [[ZhaoHe|赵何]], and urges him to withdraw. Fei Yi refuses because Zhao Wuling Wang entrusted the young ruler to him, then sets a safeguard against forged 主父 summons by insisting he inspect first before Zhao He responds.
+
+[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]] completes that safeguard as a death scene. When Zhao Zhang falsely summons Zhao He in Zhao Wuling Wang's name, Fei Yi goes first, does not find Zhao Wuling Wang, and realizes the summons is a trap. Zhao Zhang then kills him before attacking Zhao He, making Fei Yi's loyalty the first casualty of [[ShaqiuCrisis|沙丘之变]].
 
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] - new ruler who honors him.
@@ -25,4 +27,4 @@ The episode reads this as a political signal. Honoring Fei Yi tells old minister
 - [[NewRulerReformSignaling|新君改革铺垫信号]] - concept built from the episode's interpretation of the visit and salary increase.
 - [[HufuQishe|胡服骑射]], [[ZhongshanState|中山国]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Zhouji 58 reform-discussion branch.
 - [[ZhaoHe|赵何]] and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 61 child-ruler succession arrangement.
-- [[LiDui|李队]], [[ZhaoZhang|赵章]], [[TianBuli|田不李]], [[ZhaoChengWarringStates|赵成]], and [[PartialAbdicationPowerSplit|退位留权式权力分裂]] - Zhouji 66 warning, loyalty choice, and command-verification branch.
+- [[LiDui|李兑]], [[ZhaoZhang|赵章]], [[TianBuli|田不李]], [[ZhaoChengWarringStates|赵成]], [[GaoXinWarringStates|高信]], and [[PartialAbdicationPowerSplit|退位留权式权力分裂]] - Zhouji 66 warning, loyalty choice, command-verification, and crisis branch.

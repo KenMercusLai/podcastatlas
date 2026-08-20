@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 4781
+wiki_total_pages: 4782
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "ResponsibilityVsGuilt"
     title: "Responsibility Versus Guilt / 责任与罪行区分"
     url: "/wiki/concepts/responsibilityvsguilt/"
+  - key: "ResponsibilityAvoidantKilling"
+    title: "Responsibility-Avoidant Killing / 避责式杀害"
+    url: "/wiki/concepts/responsibilityavoidantkilling/"
   - key: "RestaurantAutomation"
     title: "Restaurant Automation"
     url: "/wiki/concepts/restaurantautomation/"

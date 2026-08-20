@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode completing the Shaqiu crisis: Zhao Zhang forges a summons in Zhao Wuling Wang's name, Fei Yi verifies first and is killed, Gao Xin and Zhao He hold out until Zhao Cheng and Li Dui arrive from Handan, Zhao Zhang is killed, and Zhao Wuling Wang is trapped in the palace without food until he dies after about three months. Created Gao Xin and Responsibility-Avoidant Killing; updated overview, index, Shaqiu Crisis, Zhao Wuling Wang, Zhao He, Zhao Zhang, Fei Yi, Zhao Cheng, Li Dui, Partial Abdication Power Split, Power Exit Trap, Affection-Driven Succession Risk, and Dual Executive Power Risk. No direct contradiction found; the ingest normalizes earlier 李队 transcript wording to the canonical Li Dui / 李兑 page while preserving the source-scoped variant.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode on 295 BCE and Zhao Wuling Wang's partial-abdication failure: Zhao destroys Zhongshan, Zhao Zhang receives a Dai-region power base with Tian Buli, Li Dui warns Fei Yi about the coming danger, Fei Yi refuses to abandon Zhao He because of his entrusted duty, and Zhao Wuling Wang moves the family conflict toward Shaqiu. Created Li Dui, Tian Buli, Shaqiu Crisis, and Partial Abdication Power Split; updated overview, index, Zhao Wuling Wang, Zhao He, Zhao Zhang, Fei Yi, Zhao Cheng, Zhongshan State, Sima Cuo, Wei Ran, Lou Huan, Zhou Nan Wang, Affection-Driven Succession Risk, Power Exit Trap, and Dual Executive Power Risk. No direct contradiction found; transcript variants 斐毅 and 赵承 are linked to the existing Fei Yi and Zhao Cheng pages.
@@ -8583,6 +8587,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] ingest | 《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记
 
 Added source page for a 芮淇讲透资治通鉴 episode closing 周纪三 through Pingyuanjun's retainer circle and Gongsun Long's 名辩 reputation. Created pages for Gongsun Long, Kong Chuan, Mingjia Disputation, and Truth-Seeking Debate Norm; updated overview, index, Pingyuanjun, Zou Yan, Zhou Nan Wang, Warring States Retainer Patronage, and Warring States Four Lords. No direct contradiction found; the source extends Zhouji 63's retainer-quality critique from Mengchangjun's practical helpers to Pingyuanjun's verbal specialist, and records Kong Chuan/Zou Yan's distinction between truth-serving debate and verbal victory.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 
