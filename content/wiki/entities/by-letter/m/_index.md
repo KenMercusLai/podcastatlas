@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6172
+wiki_total_pages: 6176
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "MinshengSecurities"
     title: "民生证券 / Minsheng Securities"
     url: "/wiki/entities/minshengsecurities/"
+  - key: "Mianchi"
+    title: "渑池 / Mianchi"
+    url: "/wiki/entities/mianchi/"
   - key: "MouYiling"
     title: "牟一凌 / Mou Yiling"
     url: "/wiki/entities/mouyiling/"

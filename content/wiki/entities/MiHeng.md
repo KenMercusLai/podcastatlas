@@ -2,8 +2,8 @@
 title: "芈横 / 楚顷襄王 / Mi Heng"
 type: entity
 tags: [person, crown-prince, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+last_updated: 2026-08-21
 ---
 
 # 芈横 / 楚顷襄王 / Mi Heng
@@ -20,6 +20,8 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 
 [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] follows Mi Heng after he has become Chu Qingxiang Wang. Qin sends him a threat that he should prepare troops for attack; Chu renews peace by marrying a Qin princess. The host presents [[SimaGuang|司马光]]'s criticism as severe: after Qin killed or destroyed his father, Mi Heng still "swallowed" the insult for the sake of a marriage settlement.
 
+[[zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0]] adds a source-critical counterpoint. The notice says Chu wants to join [[QiState|齐国]] and [[HanState|韩国]] in attacking [[QinState|秦国]] and may also target the [[ZhouRoyalHouse|周王室]], but the host doubts this fits Mi Heng's earlier fear of Qin and post-[[ChuHuaiwang|楚怀王]] accommodation. This page therefore treats the report as a questioned claim rather than a simple reversal in Mi Heng's character.
+
 ## Connections
 - [[ChuState|楚国]] and [[ChuHuaiwang|楚怀王]] - polity and father/ruler connected to his hostage mission.
 - [[QinState|秦国]] and [[QinZhaoxiangwang|秦昭襄王]] - hostage court and future attacker.
@@ -30,3 +32,4 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 - [[WarringStatesAllianceSwitching|战国同盟转向]] - alliance reversal triggered by the incident.
 - [[Wuguan|武关]] and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 63 renewed Qin attack after Chu succession continuity is announced.
 - [[SimaGuang|司马光]], [[WarringStatesMarriageDiplomacy|战国联姻外交]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 67 threat-marriage repair after Chu Huaiwang's death.
+- [[DongzhouWugong|东周武公]], [[Jiuding|九鼎]], and [[ZhouRoyalSymbolicDeterrence|周王室象征威慑]] - Zhouji 76 questioned Chu plan against Zhou and the counter-persuasion that stops it.

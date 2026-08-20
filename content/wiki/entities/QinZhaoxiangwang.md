@@ -2,8 +2,8 @@
 title: "秦昭襄王 / King Zhaoxiang of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+last_updated: 2026-08-21
 ---
 
 # 秦昭襄王 / King Zhaoxiang of Qin
@@ -38,6 +38,8 @@ The source also continues Qin Zhaoxiang Wang's Chu pressure. Once [[ChuState|楚
 
 [[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] places Qin Zhaoxiang Wang in the "完璧归赵" exchange. He offers fifteen cities for [[HeShiBi|和氏璧]], receives and admires the jade, but does not move to deliver the cities. [[LinXiangru|蔺相如]]'s response turns Qin's non-performance into the visible problem; once the jade has already returned to [[ZhaoState|赵国]], Qin Zhaoxiang Wang releases Lin rather than killing an envoy for no recoverable gain.
 
+[[zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0]] turns that Qin-Zhao tension into war pressure. After [[ZhaoHe|赵惠文王赵何]] refuses to join Qin in attacking [[QiState|齐国]], Qin Zhaoxiang Wang attacks Zhao, takes cities, attacks again in 281 BCE, and captures [[ShichengWarringStates|石城]]. The episode also records his reappointment of [[WeiRan|魏冉]] as chancellor and previews his invitation to meet Zhao Huiwen Wang at [[Mianchi|渑池]].
+
 ## Connections
 - [[QinWuwang|秦武王]] - predecessor whose sudden death opens the succession.
 - [[XuanTaihou|芈八子 / 宣太后]] - mother named in the episode.
@@ -55,3 +57,4 @@ The source also continues Qin Zhaoxiang Wang's Chu pressure. Once [[ChuState|楚
 - [[WeiZhaowang|魏昭王]], [[HanXiwang|韩釐王]], [[Luoyi|洛邑]], [[ZhouRoyalHouse|周王室]], and [[AudienceVsMeetingDiplomacy|朝会之别]] - Zhouji 72 Qin-Wei-Han meeting at the Zhou capital.
 - [[ZhaoHe|赵何]], [[AnchengWarringStates|安城]], [[Daliang|大梁]], [[PostCoalitionSpoilsImbalance|联军战后利益失衡]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 73 Rangcheng meeting and renewed attack on Wei.
 - [[HeShiBi|和氏璧]], [[LinXiangru|蔺相如]], [[ZhaoState|赵国]], [[WanbiGuizhaoDiplomacy|完璧归赵式外交]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 74 promised-city exchange, exposed non-performance, and envoy release.
+- [[ShichengWarringStates|石城]], [[Mianchi|渑池]], [[PostCoalitionSpoilsImbalance|联军战后利益失衡]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 76 attacks on Zhao and next Qin-Zhao diplomatic setup.

@@ -2,8 +2,8 @@
 title: "魏冉 / Wei Ran"
 type: entity
 tags: [person, qin-state, minister, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
+last_updated: 2026-08-21
 ---
 
 # 魏冉 / Wei Ran
@@ -20,6 +20,8 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 
 [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] makes Wei Ran the patron who recommends [[BaiQi|白起]] for the [[YiqueBattle|伊阙之战]] command. The episode also records Wei Ran's temporary resignation and return, his later Ranghou title, and a source-critical correction: [[Dingtao|陶 / 定陶]] should not yet be treated as a Qin-held fief at the annalistic moment when [[ZizhiTongjian|《资治通鉴》]] places the notice.
 
+[[zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0]] adds another office notice: in 281 BCE, while [[QinZhaoxiangwang|秦昭襄王]] is again attacking [[ZhaoState|赵国]], Qin appoints Wei Ran as chancellor again. The episode does not develop the court politics behind the appointment, but it keeps Wei Ran in the recurring cycle of resignation, restoration, and Qin military momentum.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - nephew whose accession he secures.
 - [[XuanTaihou|芈八子 / 宣太后]] - related power configuration around Ying Ji.
@@ -29,3 +31,4 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 - [[YingZhuang|嬴壮]], [[QinHuiwenhou|惠文后]], [[Xianyang|咸阳]], [[QueenMotherRegency|太后摄政]], and [[ForeignRelativeCourtPolitics|楚系外戚政治]] - Zhouji 60 revolt suppression and regency power branch.
 - [[Chulizi|樗里疾 / 樗里子]], [[Mengchangjun|孟尝君 / 田文]], [[LouHuan|楼缓]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 corrected Qin chancellor sequence.
 - [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], [[YuanjunWarringStates|垣郡]], [[Dingtao|陶 / 定陶]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 67 command recommendation, resignation-return notice, and fief chronology correction.
+- [[ShichengWarringStates|石城]], [[ZhaoState|赵国]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 76 renewed chancellorship inside Qin's Zhao-facing campaign sequence.

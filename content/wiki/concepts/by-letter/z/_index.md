@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 4824
+wiki_total_pages: 4825
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "ZhouHegemonRecognition"
     title: "Zhou Hegemon Recognition / 周室霸权承认"
     url: "/wiki/concepts/zhouhegemonrecognition/"
+  - key: "ZhouRoyalSymbolicDeterrence"
+    title: "Zhou Royal Symbolic Deterrence / 周王室象征威慑"
+    url: "/wiki/concepts/zhouroyalsymbolicdeterrence/"
   - key: "ZhouyiDivination"
     title: "Zhouyi Divination / 《周易》占卜"
     url: "/wiki/concepts/zhouyidivination/"

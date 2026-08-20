@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6172
+wiki_total_pages: 6176
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1475,6 +1475,9 @@ wiki_pages:
   - key: "ShengYing"
     title: "盛颖 / Sheng Ying"
     url: "/wiki/entities/shengying/"
+  - key: "ShichengWarringStates"
+    title: "石城 / Shicheng"
+    url: "/wiki/entities/shichengwarringstates/"
   - key: "ShiShouxin"
     title: "石守信 / Shi Shouxin"
     url: "/wiki/entities/shishouxin/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》76丨谁给了楚顷襄王的自信？](sources/zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0.md) — 芮淇讲透资治通鉴 episode on Qin attacks against Zhao after Zhao refuses joint war on Qi, the questioned report of Chu Qingxiang Wang planning an anti-Qin coalition plus a move against Zhou, and Dongzhou Wugong's argument that the tiny Zhou royal domain still carried high symbolic cost through the Son of Heaven title and Jiuding.
 - [《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？](sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's Hengshan arms-and-grain economic warfare, private-interest incentive design, merchant attraction, resource taxation, price steering, luxury circulation, and public works employment.
 - [《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？](sources/zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's economic warfare through Lu/梁 cloth demand, Chu deer purchases, grain control, border closure, population flight, and people-first economic statecraft.
 - [《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa.md) — 芮淇讲透资治通鉴 episode on Qi's court disorder, Guan Zhong's succession-side switch, Bao Shuya's recommendation, and Guan Zhong's household, military, fiscal, resource, vice-regulation, and concession-hegemony reforms.
@@ -1090,6 +1091,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [东周武公 / Dongzhou Wugong](entities/DongzhouWugong.md) — Zhou envoy who persuades Chu that attacking the royal domain for land, people, or Jiuding would create more symbolic cost than material gain.
+- [九鼎 / Jiuding](entities/Jiuding.md) — Zhou ritual object whose possible seizure by Chu anchors the episode's symbolic-deterrence argument.
+- [石城 / Shicheng](entities/ShichengWarringStates.md) — Zhao city captured by Qin in 281 BCE after Qin's renewed attacks on Zhao.
+- [渑池 / Mianchi](entities/Mianchi.md) — Qin-Zhao meeting place previewed after consecutive Qin attacks on Zhao and compared with the earlier Wuguan trap against Chu Huaiwang.
 - [恒山国 / Hengshan State](entities/HengshanState.md) — Source-scoped state targeted by Guan Zhong's Hengshan arms-and-grain economic warfare case.
 - [梁国 / Liang State](entities/LiangState.md) — Source-scoped Lu/梁 textile-war target in Guan Zhong's demand-induced agrarian disruption case.
 - [鲍叔牙 / Bao Shuya](entities/BaoShuya.md) — Qi figure who protects Jiang Xiaobai and recommends former enemy Guan Zhong as state-level talent.
@@ -7266,6 +7271,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Zhou Royal Symbolic Deterrence / 周王室象征威慑](concepts/ZhouRoyalSymbolicDeterrence.md) — Late-Warring-States pattern where weak Zhou territory remains costly to attack because the royal title and Jiuding convert conquest into legitimacy risk.
 - [Hengshan Economic Warfare / 恒山之谋](concepts/HengshanEconomicWarfare.md) — Guan Zhong strategy using high-priced arms and grain purchases, pass closure, and attack to turn Hengshan's production specialty into vulnerability.
 - [Price-Signal Resource Steering / 价格信号调控物流](concepts/PriceSignalResourceSteering.md) — Guan Zhong trade-policy idea that prices can pull desired goods inward, retain scarce goods, or expose rivals depending on state intent.
 - [Private Interest As Public Use / 私利转公功](concepts/PrivateInterestAsPublicUse.md) — Guan Zhong incentive frame where self-interest is organized into labor, trade, tax revenue, consumption, and public strength.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6172
+wiki_total_pages: 6176
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "DXY"
     title: "丁香园 / DXY"
     url: "/wiki/entities/dxy/"
+  - key: "DongzhouWugong"
+    title: "东周武公 / Dongzhou Wugong"
+    url: "/wiki/entities/dongzhouwugong/"
   - key: "DongpoRou"
     title: "东坡肉 / Dongpo Rou"
     url: "/wiki/entities/dongporou/"
