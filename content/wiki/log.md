@@ -8719,3 +8719,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友”
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin's 280-279 BCE pressure against Zhao and Chu, the strategic choice between attacking Wei and attacking Chu after the Qi-collapse aftermath, the Mianchi meeting, Lin Xiangru's parity move against Qin Zhaoxiang Wang, and the Lian Po-Lin Xiangru "将相和" reconciliation. Created pages for Lian Po and Jiang-Xiang Harmony / 将相和式内部团结; updated overview, index, Lin Xiangru, Mianchi, Zhao He, Qin Zhaoxiang Wang, Bai Qi, Sima Cuo, Qin/Zhao/Chu state pages, Zhou Nan Wang, Qin Eastward Pressure, and Post-Coalition Spoils Imbalance. No direct contradiction found; lesser place names from the noisy transcript were kept source-scoped unless already represented.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

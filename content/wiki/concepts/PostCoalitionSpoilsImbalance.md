@@ -2,7 +2,7 @@
 title: "Post-Coalition Spoils Imbalance / 联军战后利益失衡"
 type: concept
 tags: [diplomacy, coalition, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
+sources: [zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
 last_updated: 2026-08-21
 ---
 
@@ -14,6 +14,8 @@ In the source, Le Yi sends distant [[QinState|秦国]] and [[HanState|韩国]] b
 
 [[zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0]] carries the same imbalance into the Zhao front. Qin asks [[ZhaoHe|赵惠文王赵何]] to join an attack on Qi; when Zhao refuses after being warned by Su Li on Qi's behalf, [[QinZhaoxiangwang|秦昭襄王]] attacks Zhao. The source reads this as Qin's dissatisfaction after the anti-Qi coalition continuing to search for compensation, leverage, and punishment.
 
+[[zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]] broadens the sequel by showing Qin weighing where to apply pressure after the Qi collapse. A Zhanguo Ce letter advises Qin not to attack Wei because Wei is the waist of the eastern lords and may trigger coalition rescue; attacking Chu looks safer because the other lords are less likely to save it. The source therefore adds target selection to the imbalance problem: Qin's dissatisfaction after coalition victory can become either eastward punishment or a southern pivot.
+
 The concept extends [[CommonEnemyAlliance|共同敌人联盟]] by naming the post-victory phase. The enemy's defeat does not settle allied incentives; it can expose which ally received land, which received only money, and which sees the new balance as a threat.
 
 ## Key Claims
@@ -23,6 +25,7 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] by naming the pos
 - A post-victory allocation can trigger new wars against former or recent partners.
 - In this episode, Qin's attack on Wei is read as both territorial extraction and a move to disturb a possible Yan-Zhao-Wei post-Qi balance.
 - Zhouji 76 adds that Qin's dissatisfaction can also become punitive pressure on Zhao when Zhao refuses to keep helping Qin pursue Qi.
+- Zhouji 77 adds that Qin's next target choice is coalition-sensitive: pressure against Wei risks a rescue response, while pressure against Chu looks less likely to reactivate the eastern states.
 
 ## Connections
 - [[LeYi|乐毅]], [[YanState|燕国]], and [[QiState|齐国]] - source campaign and occupation setting.
@@ -30,3 +33,4 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] by naming the pos
 - [[AnchengWarringStates|安城]], [[Daliang|大梁]], and [[QinEastwardPressure|秦国东进压力]] - Qin's follow-on move.
 - [[CommonEnemyAlliance|共同敌人联盟]] and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - adjacent coalition concepts.
 - [[ZhaoHe|赵惠文王赵何]], [[ShichengWarringStates|石城]], and [[Mianchi|渑池]] - Zhouji 76 Zhao-front continuation of the same post-coalition imbalance.
+- [[ChuState|楚国]], [[SimaCuo|司马错]], and [[BaiQi|白起]] - Zhouji 77 southern pivot and military follow-through after target selection.

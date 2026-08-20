@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友”](sources/zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb.md) — 芮淇讲透资治通鉴 episode on Qin's 280-279 BCE pressure against Zhao and Chu, the Mianchi meeting where Lin Xiangru prevents Zhao humiliation, and the Lian Po-Lin Xiangru reconciliation that turns private rank conflict into state-security unity.
 - [《资治通鉴·周纪》76丨谁给了楚顷襄王的自信？](sources/zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0.md) — 芮淇讲透资治通鉴 episode on Qin attacks against Zhao after Zhao refuses joint war on Qi, the questioned report of Chu Qingxiang Wang planning an anti-Qin coalition plus a move against Zhou, and Dongzhou Wugong's argument that the tiny Zhou royal domain still carried high symbolic cost through the Son of Heaven title and Jiuding.
 - [《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？](sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's Hengshan arms-and-grain economic warfare, private-interest incentive design, merchant attraction, resource taxation, price steering, luxury circulation, and public works employment.
 - [《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？](sources/zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's economic warfare through Lu/梁 cloth demand, Chu deer purchases, grain control, border closure, population flight, and people-first economic statecraft.
@@ -1091,10 +1092,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [廉颇 / Lian Po](entities/LianPo.md) — Zhao general whose Mianchi contingency plan and later apology to Lin Xiangru turn rank resentment into the "将相和" model of internal unity under Qin pressure.
 - [东周武公 / Dongzhou Wugong](entities/DongzhouWugong.md) — Zhou envoy who persuades Chu that attacking the royal domain for land, people, or Jiuding would create more symbolic cost than material gain.
 - [九鼎 / Jiuding](entities/Jiuding.md) — Zhou ritual object whose possible seizure by Chu anchors the episode's symbolic-deterrence argument.
 - [石城 / Shicheng](entities/ShichengWarringStates.md) — Zhao city captured by Qin in 281 BCE after Qin's renewed attacks on Zhao.
-- [渑池 / Mianchi](entities/Mianchi.md) — Qin-Zhao meeting place previewed after consecutive Qin attacks on Zhao and compared with the earlier Wuguan trap against Chu Huaiwang.
+- [渑池 / Mianchi](entities/Mianchi.md) — Qin-Zhao meeting place where Lin Xiangru forces a reciprocal Qin performance after Qin tries to lower Zhao Huiwen Wang's status.
 - [恒山国 / Hengshan State](entities/HengshanState.md) — Source-scoped state targeted by Guan Zhong's Hengshan arms-and-grain economic warfare case.
 - [梁国 / Liang State](entities/LiangState.md) — Source-scoped Lu/梁 textile-war target in Guan Zhong's demand-induced agrarian disruption case.
 - [鲍叔牙 / Bao Shuya](entities/BaoShuya.md) — Qi figure who protects Jiang Xiaobai and recommends former enemy Guan Zhong as state-level talent.
@@ -1109,7 +1111,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [子产 / Zi Chan](entities/ZiChan.md) — Zheng statesman used by Zhouji 75-1 to contrast personal kindness with bridge-building, institutions, and small-state strategic judgment.
 - [《管子》 / Guanzi](entities/GuanziText.md) — Pre-Qin statecraft text cited for Guan Zhong's luxury-consumption economic circulation branch.
 - [和氏璧 / He Shi Bi](entities/HeShiBi.md) — Jade treasure whose origin, Zhao possession, Qin exchange proposal, and intact return structure Zhouji 74.
-- [蔺相如 / Lin Xiangru](entities/LinXiangru.md) — Zhao envoy who returns He Shi Bi intact by shifting the Qin exchange onto visible promise performance.
+- [蔺相如 / Lin Xiangru](entities/LinXiangru.md) — Zhao envoy and minister who returns He Shi Bi, prevents humiliation at Mianchi, and avoids Lian Po to preserve Zhao's paired deterrent against Qin.
 - [卞和 / Bian He](entities/BianHe.md) — Chu figure whose punished recognition of hidden jade gives He Shi Bi its origin story.
 - [缪贤 / Miu Xian](entities/MiuXian.md) — Zhao court insider who buys He Shi Bi before Zhao Huiwen Wang forces it into royal possession.
 - [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity after ministers find him in Ju.
@@ -7271,6 +7273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Jiang-Xiang Harmony / 将相和式内部团结](concepts/JiangXiangHeInternalUnity.md) — State-security pattern where Lian Po and Lin Xiangru subordinate rank resentment to Zhao's need for combined military and diplomatic deterrence.
 - [Zhou Royal Symbolic Deterrence / 周王室象征威慑](concepts/ZhouRoyalSymbolicDeterrence.md) — Late-Warring-States pattern where weak Zhou territory remains costly to attack because the royal title and Jiuding convert conquest into legitimacy risk.
 - [Hengshan Economic Warfare / 恒山之谋](concepts/HengshanEconomicWarfare.md) — Guan Zhong strategy using high-priced arms and grain purchases, pass closure, and attack to turn Hengshan's production specialty into vulnerability.
 - [Price-Signal Resource Steering / 价格信号调控物流](concepts/PriceSignalResourceSteering.md) — Guan Zhong trade-policy idea that prices can pull desired goods inward, retain scarce goods, or expose rivals depending on state intent.

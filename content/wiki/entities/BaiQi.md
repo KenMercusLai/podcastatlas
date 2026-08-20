@@ -2,8 +2,8 @@
 title: "白起 / Bai Qi"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states, warfare]
-sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+last_updated: 2026-08-21
 ---
 
 # 白起 / Bai Qi
@@ -14,9 +14,12 @@ In the episode, [[WeiRan|魏冉]] recommends Bai Qi to [[QinZhaoxiangwang|秦昭
 
 The result is presented as a decisive and destructive Qin victory. The episode reports 240,000 Han-Wei soldiers killed, [[GongsunXiWarringStates|公孙喜]] captured, and Bai Qi promoted from 左庶长 to 国尉 and then 大良造. The source therefore makes Bai Qi the face of [[CoalitionFractureExploitation|联盟裂缝利用]] and of Qin's shift from pressure to annihilating campaigns.
 
+[[zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]] adds later campaign notices around 280-279 BCE. Bai Qi first defeats [[ZhaoState|赵国]] and kills twenty thousand troops in the source's thirty-fifth-year frame, then appears on the Chu front in the next year, taking places rendered as Yan, Deng, and Xiling. The episode uses these notices as part of Qin's alternating pressure against Zhao and [[ChuState|楚国]], not as a detailed tactical study like [[YiqueBattle|伊阙之战]].
+
 ## Connections
 - [[YiqueBattle|伊阙之战]] - battle that makes him famous in this episode.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], and [[QinState|秦国]] - ruler, patron/recommender, and state context.
 - [[HanState|韩国]], [[WeiState|魏国]], and [[GongsunXiWarringStates|公孙喜]] - opposing coalition and captured commander.
 - [[MilitaryMeritRankSystem|军功爵制]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[QinEastwardPressure|秦国东进压力]], and [[CoalitionFractureExploitation|联盟裂缝利用]] - institutional, military, strategic, and tactical frames.
 - [[Zhanguoce|《战国策》]] and [[FanJu|范雎]] - source dialogue through which the episode interprets Bai Qi's own account of victory.
+- [[ZhaoState|赵国]], [[ChuState|楚国]], [[SimaCuo|司马错]], and [[Mianchi|渑池]] - Zhouji 77 campaign backdrop before the Qin-Zhao meeting.

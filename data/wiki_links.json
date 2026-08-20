@@ -21183,6 +21183,10 @@
     "title": "姜太公 / Jiang Taigong",
     "url": "/wiki/entities/jiangtaigong/"
   },
+  "JiangXiangHeInternalUnity": {
+    "title": "Jiang-Xiang Harmony / 将相和式内部团结",
+    "url": "/wiki/concepts/jiangxiangheinternalunity/"
+  },
   "JiangXiaoyu": {
     "title": "江小鱼",
     "url": "/wiki/entities/jiangxiaoyu/"
@@ -23622,6 +23626,10 @@
   "LianMin": {
     "title": "连敏 / Lian Min",
     "url": "/wiki/entities/lianmin/"
+  },
+  "LianPo": {
+    "title": "廉颇 / Lian Po",
+    "url": "/wiki/entities/lianpo/"
   },
   "LiangHuiWang": {
     "title": "梁惠王 / King Hui of Liang",
@@ -48338,5 +48346,9 @@
   "zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0": {
     "title": "《资治通鉴·周纪》76丨谁给了楚顷襄王的自信？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0/"
+  },
+  "zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb": {
+    "title": "《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友”",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb/"
   }
 }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 4825
+wiki_total_pages: 4826
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "JevonsParadoxInAI"
     title: "Jevons Paradox In AI"
     url: "/wiki/concepts/jevonsparadoxinai/"
+  - key: "JiangXiangHeInternalUnity"
+    title: "Jiang-Xiang Harmony / 将相和式内部团结"
+    url: "/wiki/concepts/jiangxiangheinternalunity/"
   - key: "JianghuScamCraft"
     title: "Jianghu Scam Craft"
     url: "/wiki/concepts/jianghuscamcraft/"
