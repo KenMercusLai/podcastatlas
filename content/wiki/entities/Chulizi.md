@@ -2,7 +2,7 @@
 title: "樗里子 / Chulizi"
 type: entity
 tags: [person, qin, pre-qin, warring-states, military]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]
+sources: [zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]
 last_updated: 2026-08-20
 ---
 
@@ -18,12 +18,15 @@ In this wiki branch, Chulizi connects the collapse of [[HezongAlliance|合纵]] 
 
 [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds his court-office role under the name 樗里疾. In 309 BCE, [[QinWuwang|秦武王]] sets Qin's first formal left/right chancellors, with Chulizi as right chancellor and [[GanMao|甘茂]] as left chancellor. The same episode then makes Chulizi part of Gan Mao's predicted court-risk model: if [[YiyangWarringStates|宜阳]] takes too long, Chulizi and the Gongsun faction will attack Gan Mao, which is exactly what the episode says begins to happen after five months.
 
+[[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] shows that pressure failing to stop the campaign. Chulizi and the Gongsun faction help unsettle Qin Wuwang, but Gan Mao invokes the Xirang oath, Qin sends reinforcements, and Yiyang falls.
+
 ## Key Claims
 - Chulizi is presented as a Qin royal-family commander and strategist.
 - His 317 BCE command turns the failed Hangu Pass coalition into a Qin counteroffensive.
 - The episode contrasts his earlier selective handling of people and land with the later Xiuyu battle's severe reported casualties.
 - Chulizi's role shows Qin pressure operating through pursuit, not only border seizure or diplomatic extraction.
 - Zhouji 57 adds Chulizi as Qin's first right chancellor and as a court actor whose future criticism Gan Mao anticipates before the Yiyang campaign.
+- Zhouji 58 shows Chulizi's pressure becoming real but not sufficient to overturn the oath-bound campaign commitment.
 
 ## Connections
 - [[QinState|秦国]], [[YingSi|秦惠文王]], and [[QinEastwardPressure|秦国东进压力]] - polity, ruler connection, and pressure pattern.

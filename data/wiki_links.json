@@ -18951,6 +18951,10 @@
     "title": "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》",
     "url": "/wiki/entities/huckleberryfinn/"
   },
+  "HufuQishe": {
+    "title": "胡服骑射 / Hu Fu Qi She",
+    "url": "/wiki/concepts/hufuqishe/"
+  },
   "HuggingFace": {
     "title": "Hugging Face",
     "url": "/wiki/entities/huggingface/"
@@ -32075,6 +32079,10 @@
     "title": "秦嬴 / Qin Ying",
     "url": "/wiki/entities/qinying/"
   },
+  "QinZhaoxiangwang": {
+    "title": "秦昭襄王 / King Zhaoxiang of Qin",
+    "url": "/wiki/entities/qinzhaoxiangwang/"
+  },
   "QinZong": {
     "title": "秦总",
     "url": "/wiki/entities/qinzong/"
@@ -42907,6 +42915,10 @@
     "title": "《玄怪录》",
     "url": "/wiki/entities/xuanguailu/"
   },
+  "XuanTaihou": {
+    "title": "芈八子 / 宣太后 / Xuan Taihou",
+    "url": "/wiki/entities/xuantaihou/"
+  },
   "Xuanzang": {
     "title": "玄奘",
     "url": "/wiki/entities/xuanzang/"
@@ -43974,6 +43986,10 @@
   "ZhaoCangtang": {
     "title": "赵苍唐 / Zhao Cangtang",
     "url": "/wiki/entities/zhaocangtang/"
+  },
+  "ZhaoChengWarringStates": {
+    "title": "赵成 / Zhao Cheng (Warring States)",
+    "url": "/wiki/entities/zhaochengwarringstates/"
   },
   "ZhaoChenghou": {
     "title": "赵成侯 / Marquis Cheng of Zhao",
@@ -47654,5 +47670,9 @@
   "zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si": {
     "title": "《资治通鉴·周纪》57丨古代发毒誓还有这作用？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si/"
+  },
+  "zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz": {
+    "title": "《资治通鉴·周纪》58丨赵武灵王如何打造强国",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz/"
   }
 }

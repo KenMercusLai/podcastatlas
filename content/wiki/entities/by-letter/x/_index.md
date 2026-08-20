@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6084
+wiki_total_pages: 6087
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "XiaoLei"
     title: "肖磊"
     url: "/wiki/entities/xiaolei/"
+  - key: "XuanTaihou"
+    title: "芈八子 / 宣太后 / Xuan Taihou"
+    url: "/wiki/entities/xuantaihou/"
   - key: "XiaoChuzhou"
     title: "萧楚舟 / Xiao Chuzhou"
     url: "/wiki/entities/xiaochuzhou/"

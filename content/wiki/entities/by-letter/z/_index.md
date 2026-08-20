@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6084
+wiki_total_pages: 6087
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "ZhaoDefang"
     title: "赵德芳 / Zhao Defang"
     url: "/wiki/entities/zhaodefang/"
+  - key: "ZhaoChengWarringStates"
+    title: "赵成 / Zhao Cheng (Warring States)"
+    url: "/wiki/entities/zhaochengwarringstates/"
   - key: "ZhaoChenghou"
     title: "赵成侯 / Marquis Cheng of Zhao"
     url: "/wiki/entities/zhaochenghou/"

@@ -2,7 +2,7 @@
 title: "周赧王 / Zhou Nan Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -28,6 +28,8 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 
 [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] continues that fifth-year frame and then moves into the sixth and seventh years, 309-308 BCE. The Zhou king remains background while [[QinWuwang|秦武王]] suppresses [[ChenZhuangWarringStates|陈庄]], meets [[WeiXiangwang|魏襄王]], sets [[Chulizi|樗里疾 / 樗里子]] and [[GanMao|甘茂]] as left/right chancellors, and prepares the [[YiyangWarringStates|宜阳]] campaign through an oath with Gan Mao.
 
+[[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] locates its main notices in Zhou Nan Wang's eighth year, 307 BCE. The Zhou king remains the annalistic frame while Gan Mao takes [[YiyangWarringStates|宜阳]], [[QinWuwang|秦武王]] dies in the Zhou capital setting after the ding-lifting episode, and [[ZhaoWulingwang|赵武灵王]] begins [[HufuQishe|胡服骑射]] against elite resistance.
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
@@ -41,3 +43,4 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 - [[HanXiangwang|韩襄王]], [[QiXuanWang|齐宣王]], [[ZhaoWulingwang|赵武灵王]], [[YanZhaowang|燕昭王]], [[QinWuwang|秦武王]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 fourth-year lobbying and succession-risk branch.
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], [[GongsunYan|犀首公孙衍]], [[MencianGreatManCriterion|孟子大丈夫标准]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 fifth-year zonghengjia reassessment.
 - [[QinWuwang|秦武王]], [[WeiXiangwang|魏襄王]], [[Chulizi|樗里疾 / 樗里子]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57 fifth-to-seventh-year Qin branch.
+- [[QinZhaoxiangwang|秦昭襄王]], [[Luoyi|洛邑]], [[ZhaoWulingwang|赵武灵王]], [[HufuQishe|胡服骑射]], and [[ZhaoChengWarringStates|赵成]] - Zhouji 58 eighth-year Qin succession and Zhao reform branch.

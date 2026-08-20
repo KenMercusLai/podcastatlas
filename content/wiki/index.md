@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》58丨赵武灵王如何打造强国](sources/zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz.md) — 芮淇讲透资治通鉴 episode completing Gan Mao's Yiyang campaign, Qin Wuwang's death and Qin Zhaoxiang Wang's succession, and Zhao Wuling Wang's Hu Fu Qi She reform against aristocratic ritual resistance.
 - [《资治通鉴·周纪》57丨古代发毒誓还有这作用？](sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si.md) — 芮淇讲透资治通鉴 episode linking Zigong's rescue of Lu through a Wu-Yue-Qi-Jin diplomatic cascade with Gan Mao's Yiyang campaign, Qin's first left/right chancellors, Zhao Wuling Wang's succession foreshadowing, and oath-bound command trust against rumor and court pressure.
 - [《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫](sources/zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41.md) — 芮淇讲透资治通鉴 episode reassessing zonghengjia figures through Mencius's great-man standard, Yang Xiong's Fayan critique, and the distinction between talent, motive, and moral approval.
 - [《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王](sources/zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy.md) — 芮淇讲透资治通鉴 episode completing Zhang Yi's final Yan persuasion, Qin Huiwen Wang's death, Zhang Yi's self-preserving move to Wei, the induced Qi-Wei conflict, and his final year as Wei chief minister.
@@ -1066,6 +1067,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [秦昭襄王 / King Zhaoxiang of Qin](entities/QinZhaoxiangwang.md) — Ying Ji, Qin Wuwang's younger half-brother and Yan hostage, brought back to succeed after Qin Wuwang dies without a son.
+- [芈八子 / 宣太后 / Xuan Taihou](entities/XuanTaihou.md) — Mother of Qin Zhaoxiang Wang, introduced as the next Qin power configuration after Qin Wuwang's death.
+- [赵成 / Zhao Cheng (Warring States)](entities/ZhaoChengWarringStates.md) — Zhao Wuling Wang's uncle whose ritual objection makes Hu Fu Qi She's first resistance visible.
 - [吴国 / Wu State](entities/WuState.md) — Spring-and-Autumn state drawn by Zigong into the Qi-Jin-Yue cascade that ends with Fuchai's defeat and suicide.
 - [田常 / Tian Chang](entities/TianChang.md) — Qi chief minister whom Zigong persuades to redirect danger away from Lu and toward Wu.
 - [吴王夫差 / King Fuchai of Wu](entities/Fuchai.md) — Wu ruler who defeats Qi, overreaches toward Jin, and is later destroyed by Goujian's Yue.
@@ -1081,7 +1085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [子贡 / Zigong / Duanmu Ci](entities/Zigong.md) — Confucian disciple whose rescue of Lu becomes a public-interest diplomatic cascade across Qi, Wu, Yue, and Jin.
 - [周最 / Zhou Zui](entities/ZhouZui.md) — Persuader named as part of the wider Warring States fashion for court-to-court diplomatic mobility.
 - [楼缓 / Lou Huan](entities/LouHuan.md) — Persuader named alongside Su Dai, Su Li, and Zhou Zui as evidence of the broader zonghengjia wave.
-- [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch, marking Qin's proposed advance toward Zhou royal authority while Qi and Wei are entangled.
+- [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch and the later route context after Gan Mao's Yiyang capture.
 - [郑袖 / Zheng Xiu](entities/ZhengXiu.md) — Chu Huaiwang favorite whose status anxiety is turned into the backchannel that saves Zhang Yi.
 - [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks in exchange for land, then Chu Huaiwang prices against Zhang Yi himself.
 - [上庸 / Shangyong](entities/Shangyong.md) — Six-county Qin ransom object invoked to persuade Zheng Xiu to help free Zhang Yi.
@@ -1200,7 +1204,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁景公 / Duke Jing of Lu](entities/LuJinggong.md) — Lu Kang Gong's son and successor in the 346 BCE notice.
 - [逢泽 / Fengze](entities/Fengze.md) — Meeting site for Gongzi Shaoguan, the lords, and the Zhou audience after Qin's hegemon recognition.
 - [公子少官 / Gongzi Shaoguan](entities/GongziShaoguan.md) — Qin prince sent by Qin Xiao Gong with troops to meet the lords at Fengze.
-- [洛邑 / Luoyi](entities/Luoyi.md) — Zhou royal capital whose branch now includes both "会于京师" wording and Su Qin's public homecoming reception.
+- [洛邑 / Luoyi](entities/Luoyi.md) — Zhou royal capital whose branch now includes "会于京师" wording, Su Qin's public homecoming reception, and Qin Wuwang's ding-lifting death scene.
 - [马陵之战 / Battle of Maling](entities/MalingBattle.md) — Qi-Wei battle whose delayed rescue, reduced-stove deception, and Wei defeat create the court-risk afterlife that drives Tian Ji into exile.
 - [申不害 / Shen Buhai](entities/ShenBuhai.md) — Han chief minister whose Huang-Lao and xingming learning become a ruler-technique and merit-based reward case under Han Zhaohou.
 - [咸阳 / Xianyang](entities/Xianyang.md) — Qin capital selected in Shang Yang's second reform round and used by the source as durable reform geography.
@@ -7154,6 +7158,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [胡服骑射 / Hu Fu Qi She](concepts/HufuQishe.md) — Zhao Wuling Wang's military reform linking Hu-style clothing, horseback mobility, archery, Zhongshan strategy, and elite compliance.
 - [Interstate Cascade Diplomacy / 多国连锁外交](concepts/InterstateCascadeDiplomacy.md) — Zigong-style rescue strategy that redirects one state's attack by chaining several rulers' incentives across Qi, Wu, Yue, Jin, and Lu.
 - [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Gan Mao's risk model where repeated accusation and court faction pressure can make a ruler abandon a commander mid-campaign.
 - [Oath-Bound Command Trust / 盟誓约束下的统帅信任](concepts/OathBoundCommandTrust.md) — Political commitment device where a ruler publicly binds support for a long campaign before predictable slander begins.

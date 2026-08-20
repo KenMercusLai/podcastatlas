@@ -8480,6 +8480,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》58丨赵武灵王如何打造强国
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Gan Mao's Yiyang campaign through the Xirang oath, narrating Qin Wuwang's ding-lifting death at Luoyi and Qin Zhaoxiang Wang's succession, and launching Zhao Wuling Wang's Hu Fu Qi She reform against Zhao Cheng's ritual resistance. Created pages for Qin Zhaoxiang Wang, Xuan Taihou, Zhao Cheng, and Hu Fu Qi She; updated overview, index, Gan Mao, Qin Wuwang, Chulizi, Yiyang, Qin/Zhao/Zhongshan/Zhou Nan Wang/Luoyi/Sanchuan pages, Fei Yi, Zhao Wuling Wang, Oath-Bound Command Trust, Qin Eastward Pressure, New Ruler Reform Signaling, Warring States Military Transformation, and Warring States Reform Backlash. Preserved the existing Yiyang source-layer tension: Zhouji 27 says Qin took Yiyang in 335 BCE, while Zhouji 57-58 treat it as Gan Mao's hard-won 307 BCE target.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫
 
 Added source page for a 芮淇讲透资治通鉴 episode reassessing Zhang Yi, Su Qin, Gongsun Yan, and the wider zonghengjia field through Mencius's "大丈夫" standard and Yang Xiong's Fayan critique. Created pages for Yang Xiong, Fayan, Zigong, Zhou Zui, Lou Huan, Mencian Great-Man Criterion, and Motive-Based Talent Evaluation; updated overview, index, Zhang Yi, Su Qin, Gongsun Yan, Mencius, MenciusText, Guiguzi, Su Dai, Su Li, Zhou Nan Wang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Zonghengjia Diplomacy, and Talent-Virtue Distinction. No direct contradiction found; the source adds an evaluative tension between resilience/consistency and motive-based moral approval.
@@ -8519,6 +8523,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] ingest | 《资治通鉴·周纪》57丨古代发毒誓还有这作用？
 
 Added source page for a 芮淇讲透资治通鉴 episode linking Zigong's rescue of Lu through a Qi-Wu-Yue-Jin cascade with Zhou Nan Wang's early-year notices, Qin Wuwang's first left/right chancellors, Zhao Wuling Wang's Wu Wa/Zhao He/Zhao Zhang succession foreshadowing, and Gan Mao's Yiyang campaign oath. Created pages for Wu State, Tian Chang, Fuchai, Goujian, Fan Li, Wen Zhong of Yue, Zeng Shen, Wu Wa, Zhao He, Zhao Zhang, Interstate Cascade Diplomacy, Rumor Erosion of Trust, Oath-Bound Command Trust, and Affection-Driven Succession Risk; updated Gan Mao, Qin Wuwang, Zigong, Zhao Wuling Wang, Yiyang, Le Yang, Chulizi, Confucius, Yue State, Lu State, Zhou Nan Wang, Wei Xiang Wang, Chancellor-Centered Governance, Motive-Based Talent Evaluation, Qin Eastward Pressure, and Power Exit Trap. Flagged a source-layer Yiyang tension: Zhouji 27 says Qin took Yiyang in 335 BCE, while Zhouji 57 treats it as a Han target in Gan Mao's 308 BCE campaign.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 

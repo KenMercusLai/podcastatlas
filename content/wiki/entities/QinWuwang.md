@@ -2,7 +2,7 @@
 title: "秦武王 / King Wu of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,8 @@ The wiki should keep this page source-scoped because the episode uses the Qin Wu
 
 The same episode makes Qin Wuwang the ruler whose trust must be bound before the [[YiyangWarringStates|宜阳]] campaign. Gan Mao gets him to recognize [[RumorErosionOfTrust|谣言侵蚀信任]] as a predictable court problem and to swear publicly at Xirang, making Qin Wuwang the ruler-side case for [[OathBoundCommandTrust|盟誓约束下的统帅信任]].
 
+[[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] completes that branch. After five months at Yiyang, Qin Wuwang is shaken by attacks from Chulizi and the Gongsun faction, but Gan Mao's reminder of "Xirang" makes the king send more troops rather than abandon the siege. The episode then shifts to Qin Wuwang's death in [[Luoyi|洛邑]] after lifting a heavy ding in the Zhou capital setting, leaving no son and opening the succession to [[QinZhaoxiangwang|秦昭襄王]].
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - minister whose departure he authorizes in the source's supplement.
 - [[YingSi|秦惠文王]] - predecessor named by the source.
@@ -30,3 +32,4 @@ The same episode makes Qin Wuwang the ruler whose trust must be bound before the
 - [[PatronSuccessionExposure|靠山更替暴露风险]], [[Xianyang|咸阳]], [[HanState|韩国]], [[QiState|齐国]], [[ZhaoState|赵国]], and [[YanState|燕国]] - Zhouji 54 post-tour accession risk.
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[SanchuanWarringStates|三川]], [[WeiXiangwang|魏襄王]], and [[QiXuanWang|齐宣王]] - Zhouji 55 exit plan and Qi-Wei aftermath.
 - [[ChenZhuangWarringStates|陈庄]], [[Chulizi|樗里疾 / 樗里子]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], [[RumorErosionOfTrust|谣言侵蚀信任]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57 rebellion, chancellor setup, and campaign-oath branch.
+- [[Luoyi|洛邑]], [[ZhouRoyalHouse|周王室]], [[QinZhaoxiangwang|秦昭襄王]], and [[XuanTaihou|芈八子 / 宣太后]] - Zhouji 58 death and succession branch.
