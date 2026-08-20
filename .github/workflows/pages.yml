@@ -11,7 +11,9 @@ permissions:
 
 concurrency:
   group: pages-${{ github.event_name == 'pull_request' && github.event.pull_request.number || 'production' }}
-  cancel-in-progress: true
+  # Production updates can arrive faster than the full Hugo + Pagefind build.
+  # Queue them instead of repeatedly cancelling the only deployable artifact.
+  cancel-in-progress: false
 
 jobs:
   build:

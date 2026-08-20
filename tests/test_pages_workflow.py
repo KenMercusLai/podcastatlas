@@ -25,7 +25,8 @@ class PagesWorkflowTest(unittest.TestCase):
         self.assertIn("id-token: write", workflow)
         self.assertIn("environment:", workflow)
         self.assertIn("name: github-pages", workflow)
-        self.assertIn("cancel-in-progress: true", workflow)
+        self.assertIn("cancel-in-progress: false", workflow)
+        self.assertNotIn("cancel-in-progress: true", workflow)
 
     def test_uses_pinned_official_pages_actions(self):
         workflow = WORKFLOW.read_text()
