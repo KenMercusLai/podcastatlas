@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6162
+wiki_total_pages: 6170
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "WenliLiangkaihua"
     title: "文力两开花 / Wenli Liangkaihua"
     url: "/wiki/entities/wenliliangkaihua/"
+  - key: "WenJiang"
+    title: "文姜 / Wen Jiang"
+    url: "/wiki/entities/wenjiang/"
   - key: "WenQi"
     title: "文淇 / Wen Qi"
     url: "/wiki/entities/wenqi/"

@@ -2,7 +2,7 @@
 title: "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性"
 type: concept
 tags: [governance, institutions, succession, statecraft, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
+sources: [zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
 last_updated: 2026-08-21
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-21
 Person-dependent governance fragility / 人亡政息式治理脆弱性 is the failure mode [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] draws from [[GuanZhong|管仲]] and [[QiHuanGong|齐桓公]]. The source credits Guan Zhong with statecraft, economic imagination, and the ability to make Qi strong, but says the order did not survive him as a durable ritual and institutional system.
 
 The episode's negative proof is Qi after Guan Zhong's death. Qi Huan Gong's sons and their backers compete for succession, palace women and court factions become entangled, and the sick ruler is shut away until he dies by starvation. The point is not only that Qi Huan Gong had a bad ending; it is that the statecraft built around one extraordinary minister did not prevent succession violence and court capture once that minister was gone.
+
+[[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] supplies the positive-strength side of the same case. Guan Zhong's reforms are broad: [[HouseholdOccupationControl|household control]], [[MilitaryCivilianIntegration|military organization]], [[StateResourceMonopoly|economic monopoly]], [[PenalRedemptionArmament|penal provisioning]], and [[ConcessionBasedHegemony|diplomatic concession]] make Qi powerful. That breadth makes the fragility sharper rather than weaker: enormous administrative competence still has to become succession-proof order.
 
 The concept sits beside [[PowerExitTrap|权力退场困境]] and [[ResponsibilityAvoidantKilling|避责式杀害]], but its emphasis is institutional. It asks whether a capable person has built rules, ethics, and successors strong enough to persist, or whether the system's order is mostly the shadow cast by that person's presence.
 
@@ -23,6 +25,7 @@ The concept sits beside [[PowerExitTrap|权力退场困境]] and [[Responsibilit
 
 ## Connections
 - [[GuanZhong|管仲]], [[QiHuanGong|齐桓公]], and [[QiState|齐国]] - source case.
+- [[HouseholdOccupationControl|户籍与职业管控]], [[MilitaryCivilianIntegration|军政一体]], [[StateResourceMonopoly|资源垄断式国家统制]], and [[ConcessionBasedHegemony|让利式霸权]] - Zhouji 75-2 capability side of the case.
 - [[Xunzi|荀子]], [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[ConfucianIdealGovernance|儒家理想治理]] - evaluative frame.
 - [[RulerNonNaturalDeathTypology|帝王非命死法类型]] and [[ResponsibilityAvoidantKilling|避责式杀害]] - Qi Huan Gong death branch.
 - [[PowerExitTrap|权力退场困境]], [[AutocraticSuccession]], [[SuccessionNonDesignationRisk]], and [[RitualSuccessionCrisis]] - adjacent succession and durability concepts.

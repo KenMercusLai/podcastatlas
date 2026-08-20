@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6162
+wiki_total_pages: 6170
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "LuJinggong"
     title: "鲁景公 / Duke Jing of Lu"
     url: "/wiki/entities/lujinggong/"
+  - key: "LuHuanGong"
+    title: "鲁桓公 / Duke Huan of Lu"
+    url: "/wiki/entities/luhuangong/"
   - key: "LuMingong"
     title: "鲁湣公 / Duke Min of Lu"
     url: "/wiki/entities/lumingong/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4808
+wiki_total_pages: 4814
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "PeerToPeerSynchronizationRisk"
     title: "Peer-to-Peer Synchronization Risk"
     url: "/wiki/concepts/peertopeersynchronizationrisk/"
+  - key: "PenalRedemptionArmament"
+    title: "Penal Redemption for Armaments / 刑罚赎罪充实兵备"
+    url: "/wiki/concepts/penalredemptionarmament/"
   - key: "PenaltyShootoutPressure"
     title: "Penalty Shootout Pressure"
     url: "/wiki/concepts/penaltyshootoutpressure/"

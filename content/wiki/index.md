@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa.md) — 芮淇讲透资治通鉴 episode on Qi's court disorder, Guan Zhong's succession-side switch, Bao Shuya's recommendation, and Guan Zhong's household, military, fiscal, resource, vice-regulation, and concession-hegemony reforms.
 - [《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj.md) — 芮淇讲透资治通鉴 episode comparing Zi Chan's personal kindness with public governance and Guan Zhong's economic statecraft, luxury-consumption theory, and person-dependent limits after Qi Huan Gong's collapse.
 - [《资治通鉴·周纪》74丨还原完璧归赵真相！](sources/zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk.md) — 芮淇讲透资治通鉴 episode on He Shi Bi's origin, Bian He's recognition risk, Miu Xian and Zhao Huiwen Wang's court possession, Lin Xiangru's "完璧归赵" diplomacy with Qin, and Xunzi's ruler-evaluation hierarchy.
 - [《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？](sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u.md) — 芮淇讲透资治通鉴 episode on Qin's post-anti-Qi pressure against Wei, Tian Fazhang's hiding in Ju, Wang Sun Gu's revenge against Zhuo Chi, Qi Xiang Wang's restoration, and Jun Wang Hou's crisis-formed marriage.
@@ -1087,6 +1088,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [鲍叔牙 / Bao Shuya](entities/BaoShuya.md) — Qi figure who protects Jiang Xiaobai and recommends former enemy Guan Zhong as state-level talent.
+- [齐襄公 / Duke Xiang of Qi](entities/QiXiangGong.md) — Disorderly Qi ruler whose scandal, Lu Huan Gong's killing, and later death set up the Qi succession crisis.
+- [文姜 / Wen Jiang](entities/WenJiang.md) — Qi woman and Lu Huan Gong's wife whose scandal with Qi Xiang Gong turns family disorder into interstate crisis.
+- [鲁桓公 / Duke Huan of Lu](entities/LuHuanGong.md) — Lu ruler killed during the Qi scandal that precedes Guan Zhong's reform setting.
+- [公孙无知 / Gongsun Wuzhi](entities/GongsunWuzhi.md) — Qi usurper whose killing creates the power vacuum between Jiang Xiaobai and Gongzi Jiu.
+- [公子纠 / Gongzi Jiu](entities/GongziJiu.md) — Defeated Qi succession claimant served by Guan Zhong before Guan Zhong enters Qi Huan Gong's government.
+- [召忽 / Shao Hu](entities/ShaoHu.md) — Gongzi Jiu loyalist whose death contrasts with Guan Zhong's survival and later reform role.
+- [姜太公 / Jiang Taigong](entities/JiangTaigong.md) — Founding ruler of Qi invoked as the state's old Zhou enfeoffment origin.
 - [管仲 / Guan Zhong](entities/GuanZhong.md) — Qi minister whose economic and administrative statecraft is praised while remaining limited by person-dependent, non-ritual durability.
 - [子产 / Zi Chan](entities/ZiChan.md) — Zheng statesman used by Zhouji 75-1 to contrast personal kindness with bridge-building, institutions, and small-state strategic judgment.
 - [《管子》 / Guanzi](entities/GuanziText.md) — Pre-Qin statecraft text cited for Guan Zhong's luxury-consumption economic circulation branch.
@@ -7253,6 +7262,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Household and Occupation Control / 户籍与职业管控](concepts/HouseholdOccupationControl.md) — Guan Zhong reform mechanism that fixes residence and occupation to make population, labor, and mobilization legible.
+- [Military-Civil Integration / 军政一体](concepts/MilitaryCivilianIntegration.md) — Guan Zhong policy turning neighborhood administration into training, mobilization, and wartime cohesion.
+- [Penal Redemption for Armaments / 刑罚赎罪充实兵备](concepts/PenalRedemptionArmament.md) — Policy pattern where punishments are redeemed through weapons, armor, or fees that strengthen military provisioning.
+- [State Resource Monopoly / 资源垄断式国家统制](concepts/StateResourceMonopoly.md) — Guan Zhong economic-control branch covering resources, salt and iron, coinage, market regulation, and state-controlled private operation.
+- [State-Managed Prostitution / 国家管制女闾](concepts/StateManagedProstitution.md) — Source-scoped Guan Zhong claim about "女闾" as regulated revenue, order, hospitality, and court-service institution.
+- [Concession-Based Hegemony / 让利式霸权](concepts/ConcessionBasedHegemony.md) — Guan Zhong diplomatic pattern where returned land, gifts, and material benefits convert Qi strength into hegemonic recognition.
 - [Luxury Consumption As Economic Circulation / 奢侈消费的经济循环](concepts/LuxuryConsumptionEconomicCirculation.md) — Guan Zhong/Guanzi branch where rich people's labor-intensive luxury spending creates poor people's income and domestic economic circulation.
 - [Person-Dependent Governance Fragility / 人亡政息式治理脆弱性](concepts/PersonDependentGovernanceFragility.md) — Failure mode where capable statecraft depends on one minister or ruler and collapses under succession once that person is gone.
 - [Wanbi Guizhao Diplomacy / 完璧归赵式外交](concepts/WanbiGuizhaoDiplomacy.md) — Diplomatic pattern where a weaker state accepts a formal exchange to shift bad-faith liability onto the stronger party while protecting the asset.

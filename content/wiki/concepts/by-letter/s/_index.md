@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 4808
+wiki_total_pages: 4814
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1016,9 +1016,15 @@ wiki_pages:
   - key: "StateCryptoReserves"
     title: "State Crypto Reserves"
     url: "/wiki/concepts/statecryptoreserves/"
+  - key: "StateResourceMonopoly"
+    title: "State Resource Monopoly / 资源垄断式国家统制"
+    url: "/wiki/concepts/stateresourcemonopoly/"
   - key: "StateBackedRareEarthRebuilding"
     title: "State-Backed Rare Earth Rebuilding"
     url: "/wiki/concepts/statebackedrareearthrebuilding/"
+  - key: "StateManagedProstitution"
+    title: "State-Managed Prostitution / 国家管制女闾"
+    url: "/wiki/concepts/statemanagedprostitution/"
   - key: "StateMediatedRemittanceSystem"
     title: "State-Mediated Remittance System / 国家中介汇款体系"
     url: "/wiki/concepts/statemediatedremittancesystem/"

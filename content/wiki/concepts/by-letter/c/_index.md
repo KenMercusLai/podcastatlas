@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4808
+wiki_total_pages: 4814
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "ConcessionSignaling"
     title: "Concession Signaling / 让步信号"
     url: "/wiki/concepts/concessionsignaling/"
+  - key: "ConcessionBasedHegemony"
+    title: "Concession-Based Hegemony / 让利式霸权"
+    url: "/wiki/concepts/concessionbasedhegemony/"
   - key: "ConcreteSelfPraise"
     title: "Concrete Self-Praise"
     url: "/wiki/concepts/concreteselfpraise/"

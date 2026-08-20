@@ -2,8 +2,8 @@
 title: "鲁国 / Lu State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-21
 ---
 
 # 鲁国 / Lu State
@@ -24,6 +24,8 @@ The page is source-scoped. Lu's role here is a territorial-war notice in the epi
 
 [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds an earlier rescue story through [[Zigong|子贡 / 端木赐]]. When [[QiState|齐国]] plans to attack Lu, [[Confucius|孔子]] sends Zigong, who saves Lu indirectly by redirecting the conflict through [[WuState|吴国]], [[YueState|越国]], and [[JinState|晋国]]. Lu's role here is the weak state whose survival depends on [[InterstateCascadeDiplomacy|多国连锁外交]] rather than direct military resistance.
 
+[[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] adds an earlier Spring-Autumn scandal branch. [[LuHuanGong|鲁桓公]] is killed during a visit to [[QiState|齐国]] after [[QiXiangGong|齐襄公]] and [[WenJiang|文姜]]'s scandal, making Lu the harmed neighboring state in the disorder that precedes [[GuanZhong|管仲]]'s reforms.
+
 ## Connections
 - [[QiState|齐国]] - attacker in the source notice.
 - [[EarlyWarringStatesInterstateWar]] - frame for repeated sparse attack notices involving Lu.
@@ -34,3 +36,4 @@ The page is source-scoped. Lu's role here is a territorial-war notice in the epi
 - [[LuGonggong|鲁共公]], [[LuKanggong|鲁康公]], [[ChuXuanwang|楚宣王]], [[WeiState|魏国]], [[Handan|邯郸]], and [[LuWineHandanWarCascade|鲁酒薄而邯郸围]] - Zhouji 15 succession and wine-triggered interstate chain.
 - [[LuKanggong|鲁康公]] and [[LuJinggong|鲁景公]] - Zhouji 18 succession notice.
 - [[Zigong|子贡 / 端木赐]], [[Confucius|孔子]], [[WuState|吴国]], [[YueState|越国]], [[JinState|晋国]], and [[InterstateCascadeDiplomacy|多国连锁外交]] - Zhouji 57 rescue branch.
+- [[LuHuanGong|鲁桓公]], [[QiXiangGong|齐襄公]], [[WenJiang|文姜]], and [[GongziPengsheng|公子彭生]] - Zhouji 75-2 and related Zuo Zhuan scandal branch.
