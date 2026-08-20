@@ -2,7 +2,7 @@
 title: "燕王哙 / King Kuai of Yan"
 type: entity
 tags: [person, ruler, yan-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
 last_updated: 2026-08-20
 ---
 
@@ -14,9 +14,12 @@ The source gives only the succession notice. Its immediate function is chronolog
 
 [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds the aftermath context around Yan's vulnerability. The episode begins after [[QiState|齐国]] has conquered [[YanState|燕国]] and uses [[Mengzi|孟子 / Mencius]] to argue that occupation can be legitimate only if Yan's people experience it as rescue rather than added suffering.
 
+[[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] uses Yan Wang Kuai as the negative comparison for later Yan recovery. The source says he mistook [[ZiZhi|子之]] for a worthy person and helped produce Yan's collapse, while [[YanZhaowang|燕昭王]]'s later use of [[LeYi|乐毅]] and [[JuXin|剧辛]] shows the opposite personnel judgment.
+
 ## Connections
 - [[YanYiwang|燕易王]] - predecessor in the source notice.
 - [[YanState|燕国]] - polity he succeeds to.
 - [[ZhouXianwang|周显王]] and [[ZizhiTongjian|《资治通鉴》]] - annalistic frame.
 - [[WarringStatesPeriod|战国时期]] - broader setting.
 - [[QiXuanWang|齐宣王]], [[Mengzi|孟子 / Mencius]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 49 conquered-Yan aftermath branch.
+- [[ZiZhi|子之]], [[YanZhaowang|燕昭王]], [[LeYi|乐毅]], [[JuXin|剧辛]], and [[TalentVirtueDistinction|才德之分]] - Zhouji 52 ruler judgment contrast.

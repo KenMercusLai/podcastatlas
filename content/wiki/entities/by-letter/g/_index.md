@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6050
+wiki_total_pages: 6065
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "GongsunYan"
     title: "犀首公孙衍 / Gongsun Yan"
     url: "/wiki/entities/gongsunyan/"
+  - key: "GanMao"
+    title: "甘茂 / Gan Mao"
+    url: "/wiki/entities/ganmao/"
   - key: "GanLong"
     title: "甘龙 / Gan Long"
     url: "/wiki/entities/ganlong/"
@@ -749,6 +752,9 @@ wiki_pages:
   - key: "GuoMoruo"
     title: "郭沫若"
     url: "/wiki/entities/guomoruo/"
+  - key: "GuoWeiWarringStates"
+    title: "郭隗 / Guo Wei (Warring States)"
+    url: "/wiki/entities/guoweiwarringstates/"
   - key: "GuoJinglong"
     title: "郭静龙"
     url: "/wiki/entities/guojinglong/"

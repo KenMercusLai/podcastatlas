@@ -2,8 +2,8 @@
 title: "Warring States Careerist Mobility / 乱世职业经理人式流动"
 type: concept
 tags: [career, diplomacy, warring-states, political-agency]
-sources: [zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+last_updated: 2026-08-20
 ---
 
 # Warring States Careerist Mobility / 乱世职业经理人式流动
@@ -20,6 +20,8 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 
 [[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]] adds the social underside of that mobility. Before figures such as [[WuQi|吴起]], [[ShangYang|公孙鞅 / 商鞅]], [[SuQin|苏秦]], and [[ZhangYiStrategist|张仪]] become famous, the episode treats them as part of a larger游士 world: educated or high-born men with weak family backing, unwilling to become ordinary laborers, and dependent on patrons who can recognize and use them. [[WarringStatesRetainerPatronage|战国养士]] is the patron-side institution that makes this labor market visible.
 
+[[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] adds a successful recruitment case rather than another ambiguous strategist case. [[LeYi|乐毅]] and [[JuXin|剧辛]] move from [[ZhaoState|赵国]] to [[YanState|燕国]] because [[YanZhaowang|燕昭王]] and [[GuoWeiWarringStates|郭隗]] make Yan's respect for talent publicly believable. Their movement shows the constructive side of the same interstate labor market.
+
 ## Key Claims
 - Warring States persuaders can act as mobile political professionals rather than modern nation-state loyalists.
 - Reformers as well as persuaders can move through the same court market when one state fails to recognize or retain them.
@@ -29,6 +31,7 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - The concept qualifies, but does not erase, [[HezongAlliance|合纵]] and [[LianhengStrategy|连横]]: policy labels coexist with individual career incentives.
 - Zhouji 39 adds that mobility is not only interstate opportunity; it is also factional exposure, narrative risk, and adaptive exit strategy.
 - Zhouji 41 adds that mobile statecraft has a social base: wandering士 need patrons before talent becomes office, fame, or durable political influence.
+- Zhouji 52 adds that the labor market can help a defeated state recover when the receiving ruler makes respect credible enough to attract outside talent.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]] and [[GongsunYan|犀首公孙衍]] - main mobile strategist cases.
@@ -37,4 +40,5 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - [[HuiShi|惠施]] - existing Wei chief minister context in the episode.
 - [[ChenZhenWarringStates|陈枕]], [[ZuoShuang|左爽]], [[FengHaoWarringStates|冯浩]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[SituationalPoliticalPivot|因事立道式政治转身]] - Zhouji 39 reward pressure, court defeat, displaced-adviser handling, and adaptive pivot.
 - [[Mengchangjun|孟尝君 / 田文]], [[WarringStatesRetainerPatronage|战国养士]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 41 patronage and dignity context for the游士 supply side.
+- [[YanZhaowang|燕昭王]], [[GuoWeiWarringStates|郭隗]], [[LeYi|乐毅]], and [[JuXin|剧辛]] - Zhouji 52 recruitment and interstate talent movement.
 - [[ZonghengjiaDiplomacy|纵横家外交]], [[LianhengStrategy|连横]], [[HezongAlliance|合纵]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - adjacent diplomatic frames.

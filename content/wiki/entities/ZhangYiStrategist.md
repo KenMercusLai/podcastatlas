@@ -2,7 +2,7 @@
 title: "张仪 / Zhang Yi (Warring States strategist)"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-20
 ---
 
@@ -32,6 +32,8 @@ The episode previews their later strategic contrast: Su Qin works the [[HezongAl
 
 [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] adds the preparation and outcome of that repertoire. The source says Zhang Yi had already used gifts and court influence inside Chu and had helped slander [[QuYuan|屈原]], leaving [[ChenZhenWarringStates|陈枕]] isolated when he warned against the Shangyu promise. After the promise collapses, Zhang Yi's deception succeeds beyond the diplomatic break: Chu's angry campaign loses at [[DanyangBattle|丹阳之战]], gives [[QinState|秦国]] [[Hanzhong|汉中]], and ends in another defeat near [[LantianBattle|蓝田之战]].
 
+[[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] keeps Zhang Yi's post-deception danger unresolved. The episode closes by returning from the Yan and Qin-Shu branches to [[ChuHuaiwang|楚怀王]]'s desire for revenge, with Zhang Yi entering Chu as the next test of his court-survival skill.
+
 ## Connections
 - [[SuQin|苏秦]] - fellow student, rival, and figure whose hezong success makes Zhang Yi's later path meaningful.
 - [[Guiguzi|鬼谷子]] - teacher tradition named by the source.
@@ -43,4 +45,5 @@ The episode previews their later strategic contrast: Su Qin works the [[HezongAl
 - [[MiuLiu|谬刘]], [[HanXuanhuiwang|韩宣惠王]], [[GongsunYan|犀首公孙衍]], and [[DualExecutivePowerRisk|双首长权力风险]] - Zhouji 44 retrospective two-minister warning.
 - [[ChuHuaiwang|楚怀王]], [[ChenZhenWarringStates|陈枕]], [[QiState|齐国]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 Qin-side deception against the Qi-Chu alliance.
 - [[QuYuan|屈原]], [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 court-capture and military-consequence sequel.
+- [[ChuHuaiwang|楚怀王]] - Zhouji 52 closing hook around Zhang Yi entering a hostile Chu court.
 - [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and historical frame.

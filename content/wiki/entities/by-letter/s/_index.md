@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6050
+wiki_total_pages: 6065
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "SimaQian"
     title: "司马迁 / Sima Qian"
     url: "/wiki/entities/simaqian/"
+  - key: "SimaCuo"
+    title: "司马错 / Sima Cuo"
+    url: "/wiki/entities/simacuo/"
   - key: "ShangyeJiushiZheyang"
     title: "商业就是这样"
     url: "/wiki/entities/shangyejiushizheyang/"
@@ -1502,6 +1505,12 @@ wiki_pages:
   - key: "SuZhe"
     title: "苏辙 / Su Zhe"
     url: "/wiki/entities/suzhe/"
+  - key: "ShuHouNingTong"
+    title: "蜀侯宁通 / Shu Hou Ning Tong"
+    url: "/wiki/entities/shuhouningtong/"
+  - key: "ShuStateWarringStates"
+    title: "蜀国 / Shu State (Warring States)"
+    url: "/wiki/entities/shustatewarringstates/"
   - key: "SouthwestAssociatedUniversity"
     title: "西南联大"
     url: "/wiki/entities/southwestassociateduniversity/"

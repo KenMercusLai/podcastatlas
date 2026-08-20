@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6050
+wiki_total_pages: 6065
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "JDHealth"
     title: "京东健康"
     url: "/wiki/entities/jdhealth/"
+  - key: "JuXin"
+    title: "剧辛 / Ju Xin"
+    url: "/wiki/entities/juxin/"
   - key: "JoyoAmazonChina"
     title: "卓越网 / Amazon China"
     url: "/wiki/entities/joyoamazonchina/"

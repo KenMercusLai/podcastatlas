@@ -2,7 +2,7 @@
 title: "周赧王 / Zhou Nan Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 
 [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] continues into Zhou Nan Wang's third-year neighborhood, centered on 312 BCE. The Zhou king remains chronological frame while [[ChuHuaiwang|楚怀王]] turns Zhang Yi's six-li reversal into war, loses at [[DanyangBattle|丹阳之战]], loses [[Hanzhong|汉中]], and is defeated again near [[LantianBattle|蓝田之战]].
 
+[[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] extends the same frame into Zhou Nan Wang's fourth year. The Zhou king remains annalistic backdrop while the episode follows [[YanZhaowang|燕昭王]]'s recovery politics, records [[HanXuanhuiwang|韩宣惠王 / 韩惠王]]'s death and [[HanXiangwang|韩襄王]]'s succession, and turns [[ChenZhuangWarringStates|陈庄]]'s killing of [[ShuHouNingTong|蜀侯宁通]] into a Qin southwestern governance problem.
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
@@ -26,3 +28,4 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 49 first-year frame.
 - [[Chulizi|樗里子]], [[ZhangYiStrategist|张仪]], [[ChuHuaiwang|楚怀王]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 second-year frame.
 - [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 third-year campaign consequence frame.
+- [[HanXuanhuiwang|韩宣惠王 / 韩惠王]], [[HanXiangwang|韩襄王]], [[ChenZhuangWarringStates|陈庄]], and [[ShuStateWarringStates|蜀国]] - Zhouji 52 fourth-year succession and rebellion branch.

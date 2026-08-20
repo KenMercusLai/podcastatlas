@@ -2,8 +2,8 @@
 title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
 type: concept
 tags: [statecraft, talent, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+last_updated: 2026-08-20
 ---
 
 # Talent Attraction Through Respect / 礼贤下士式人才吸附
@@ -12,6 +12,8 @@ Talent attraction through respect / 礼贤下士式人才吸附 is the leadershi
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v]] extends the mechanism through [[WeiCheng|魏成]]. In the chancellor-selection comparison, Wei Cheng's ability to attract Zi Xia, Tian Zifang, and Duan Ganmu helps explain why [[LiKe|李克]] thinks he can outrank [[DiHuang|翟黄]] despite Di Huang's long list of useful recommendations. Respect-based attraction therefore becomes part of [[TalentReferralQuality]], not only a ruler's personal virtue signal.
 
+[[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] applies the mechanism to [[YanZhaowang|燕昭王]] after [[YanState|燕国]]'s defeat and occupation. [[GuoWeiWarringStates|郭隗]]'s "千金买骨" story makes the public-signal logic explicit: if Yan visibly honors a first adviser, more capable people such as [[LeYi|乐毅]] and [[JuXin|剧辛]] will believe the recruitment environment has changed.
+
 The concept differs from simple recruitment. The source's point is that public reverence for learning and worth can change a state's talent ecology: capable people are more willing to gather around a ruler who signals that knowledge, dignity, and moral standing will not be crushed by rank.
 
 ## Key Claims
@@ -19,6 +21,7 @@ The concept differs from simple recruitment. The source's point is that public r
 - A ruler's humility toward scholars can convert personal reputation into institutional attractiveness.
 - Non-coercive respect matters because forced access would undermine the very virtue the ruler is trying to display.
 - The episode makes talent attraction one layer of [[RenhePoliticalPower|人和政治力量]], alongside trust and diplomatic restraint.
+- Zhouji 52 adds that respect can be staged as a credible recovery signal after state collapse, not only as routine good rulership.
 
 ## Connections
 - [[WeiWenhou|魏文侯]], [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - source examples.
@@ -26,3 +29,4 @@ The concept differs from simple recruitment. The source's point is that public r
 - [[WeiState|魏国]] and [[WarringStatesPeriod|战国时期]] - competitive political setting.
 - [[ConfucianIdealGovernance]] - moral-political framework that makes scholar respect meaningful.
 - [[RenhePoliticalPower]] - broader source synthesis.
+- [[YanZhaowang|燕昭王]], [[GuoWeiWarringStates|郭隗]], [[LeYi|乐毅]], and [[JuXin|剧辛]] - Zhouji 52 "千金买骨" and Yan recovery branch.

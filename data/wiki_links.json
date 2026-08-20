@@ -4387,6 +4387,10 @@
     "title": "Applied Compute",
     "url": "/wiki/entities/appliedcompute/"
   },
+  "AppointedGovernorSecessionRisk": {
+    "title": "受任地方长官割据风险 / Appointed Governor Secession Risk",
+    "url": "/wiki/concepts/appointedgovernorsecessionrisk/"
+  },
   "AquacultureFeedDependency": {
     "title": "Aquaculture Feed Dependency",
     "url": "/wiki/concepts/aquaculturefeeddependency/"
@@ -5118,6 +5122,14 @@
   "BaMaGua": {
     "title": "《扒马褂》",
     "url": "/wiki/entities/bamagua/"
+  },
+  "BaShu": {
+    "title": "巴蜀 / Ba-Shu",
+    "url": "/wiki/entities/bashu/"
+  },
+  "BaStateWarringStates": {
+    "title": "巴国 / Ba State (Warring States)",
+    "url": "/wiki/entities/bastatewarringstates/"
   },
   "BabsonCollege": {
     "title": "Babson College",
@@ -8002,6 +8014,10 @@
   "ChenZhi": {
     "title": "Chen Zhi",
     "url": "/wiki/entities/chenzhi/"
+  },
+  "ChenZhuangWarringStates": {
+    "title": "陈庄 / Chen Zhuang (Warring States)",
+    "url": "/wiki/entities/chenzhuangwarringstates/"
   },
   "ChengDexuan": {
     "title": "程德玄 / Cheng Dexuan",
@@ -12403,6 +12419,10 @@
     "title": "Dubai Real Estate Market",
     "url": "/wiki/concepts/dubairealestatemarket/"
   },
+  "Dujiangyan": {
+    "title": "都江堰 / Dujiangyan",
+    "url": "/wiki/entities/dujiangyan/"
+  },
   "DunbarNumber": {
     "title": "Dunbar Number / 邓巴数",
     "url": "/wiki/concepts/dunbarnumber/"
@@ -16031,6 +16051,10 @@
     "title": "甘龙 / Gan Long",
     "url": "/wiki/entities/ganlong/"
   },
+  "GanMao": {
+    "title": "甘茂 / Gan Mao",
+    "url": "/wiki/entities/ganmao/"
+  },
   "GanbaMushroom": {
     "title": "干巴菌 / Ganba Mushroom",
     "url": "/wiki/entities/ganbamushroom/"
@@ -17303,6 +17327,10 @@
     "title": "郭威 / Guo Wei",
     "url": "/wiki/entities/guowei/"
   },
+  "GuoWeiWarringStates": {
+    "title": "郭隗 / Guo Wei (Warring States)",
+    "url": "/wiki/entities/guoweiwarringstates/"
+  },
   "GuoYoulin": {
     "title": "郭友霖 / Guo Youlin",
     "url": "/wiki/entities/guoyoulin/"
@@ -17622,6 +17650,10 @@
   "HanWuzi": {
     "title": "韩武子 / Han Wuzi",
     "url": "/wiki/entities/hanwuzi/"
+  },
+  "HanXiangwang": {
+    "title": "韩襄王 / King Xiang of Han",
+    "url": "/wiki/entities/hanxiangwang/"
   },
   "HanXuanhuiwang": {
     "title": "韩宣惠王 / King Xuanhui of Han",
@@ -21563,6 +21595,10 @@
     "title": "卓越网 / Amazon China",
     "url": "/wiki/entities/joyoamazonchina/"
   },
+  "JuXin": {
+    "title": "剧辛 / Ju Xin",
+    "url": "/wiki/entities/juxin/"
+  },
   "JuanAndresGuerreroSaade": {
     "title": "Juan Andres Guerrero Saade",
     "url": "/wiki/entities/juanandresguerrerosaade/"
@@ -22907,6 +22943,10 @@
     "title": "乐羊 / Le Yang",
     "url": "/wiki/entities/leyang/"
   },
+  "LeYi": {
+    "title": "乐毅 / Le Yi",
+    "url": "/wiki/entities/leyi/"
+  },
   "LeadingIncumbentDisadvantage": {
     "title": "Leading Incumbent Disadvantage",
     "url": "/wiki/concepts/leadingincumbentdisadvantage/"
@@ -23166,6 +23206,10 @@
   "LiBeibin": {
     "title": "Li Beibin",
     "url": "/wiki/entities/libeibin/"
+  },
+  "LiBing": {
+    "title": "李冰 / Li Bing",
+    "url": "/wiki/entities/libing/"
   },
   "LiChongjin": {
     "title": "李重进 / Li Chongjin",
@@ -35495,6 +35539,14 @@
     "title": "树才",
     "url": "/wiki/entities/shucai/"
   },
+  "ShuHouNingTong": {
+    "title": "蜀侯宁通 / Shu Hou Ning Tong",
+    "url": "/wiki/entities/shuhouningtong/"
+  },
+  "ShuStateWarringStates": {
+    "title": "蜀国 / Shu State (Warring States)",
+    "url": "/wiki/entities/shustatewarringstates/"
+  },
   "ShuangXuetao": {
     "title": "双雪涛 / Shuang Xuetao",
     "url": "/wiki/entities/shuangxuetao/"
@@ -35630,6 +35682,10 @@
   "Sim2Real": {
     "title": "Sim2Real",
     "url": "/wiki/concepts/sim2real/"
+  },
+  "SimaCuo": {
+    "title": "司马错 / Sima Cuo",
+    "url": "/wiki/entities/simacuo/"
   },
   "SimaGuang": {
     "title": "司马光 / Sima Guang",
@@ -42907,6 +42963,10 @@
     "title": "燕易王 / King Yi of Yan",
     "url": "/wiki/entities/yanyiwang/"
   },
+  "YanZhaowang": {
+    "title": "燕昭王 / King Zhao of Yan",
+    "url": "/wiki/entities/yanzhaowang/"
+  },
   "YanZhongzi": {
     "title": "严仲子 / Yan Zhongzi",
     "url": "/wiki/entities/yanzhongzi/"
@@ -44262,6 +44322,10 @@
   "ZiXia": {
     "title": "子夏 / Zi Xia",
     "url": "/wiki/entities/zixia/"
+  },
+  "ZiZhi": {
+    "title": "子之 / Zi Zhi",
+    "url": "/wiki/entities/zizhi/"
   },
   "ZibeiYuChaoyue": {
     "title": "《自卑与超越》",
@@ -47442,5 +47506,9 @@
   "zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac": {
     "title": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac/"
+  },
+  "zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2": {
+    "title": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2/"
   }
 }

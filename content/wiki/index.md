@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘](sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2.md) — 芮淇讲透资治通鉴 episode on Yan Zhaowang's talent recruitment through Guo Wei, Le Yi and Ju Xin's arrival in Yan, Chen Zhuang's Ba-Shu rebellion against Qin, and Zhang Yi entering Chu.
 - [《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！](sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac.md) — 芮淇讲透资治通鉴 episode on why Chu Huaiwang fell for Zhang Yi, the Danyang and Lantian defeats, Hanzhong's loss, and the danger of raising armies from anger.
 - [《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的](sources/zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's promise of six hundred li of Shangyu to break the Qi-Chu alliance, Chen Zhen's ignored verification-first advice, and Chu Huaiwang's escalation from diplomatic isolation to war.
 - [《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶](sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8.md) — 芮淇讲透资治通鉴 episode on Qi Xuan Wang's conquest of Yan, Mencius's people-based test for legitimate conquest, the repair plan Qi rejects, and the leadership lesson that mistakes must be corrected rather than excused.
@@ -1060,6 +1061,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [燕昭王 / King Zhao of Yan](entities/YanZhaowang.md) — Yan ruler Ji Ping who rebuilds after Qi's occupation by mourning losses and making talent recruitment credible.
+- [郭隗 / Guo Wei (Warring States)](entities/GuoWeiWarringStates.md) — Yan adviser whose "千金买骨" story turns ruler respect into a public talent-attraction signal.
+- [乐毅 / Le Yi](entities/LeYi.md) — Zhao-origin talent recruited by Yan Zhaowang and previewed as the general who will help Yan avenge Qi.
+- [剧辛 / Ju Xin](entities/JuXin.md) — Zhao-origin talent whose move to Yan helps prove Yan Zhaowang's recruitment signal.
+- [子之 / Zi Zhi](entities/ZiZhi.md) — Yan Wang Kuai's failed worthy-person judgment, contrasted with Yan Zhaowang's later use of Le Yi and Ju Xin.
+- [陈庄 / Chen Zhuang (Warring States)](entities/ChenZhuangWarringStates.md) — Qin-appointed Shu chancellor who kills Shu Hou Ning Tong and rebels before Gan Mao suppresses him.
+- [蜀侯宁通 / Shu Hou Ning Tong](entities/ShuHouNingTong.md) — reduced Shu ruler killed by Chen Zhuang in the Qin-Shu rebellion.
+- [司马错 / Sima Cuo](entities/SimaCuo.md) — Qin strategist whose advice to attack Shu creates Qin's Ba-Shu base and later governance problem.
+- [甘茂 / Gan Mao](entities/GanMao.md) — Qin figure who suppresses Chen Zhuang's rebellion in Shu.
+- [巴国 / Ba State (Warring States)](entities/BaStateWarringStates.md) — Ba polity whose conflict with Shu gives Qin an opening into Ba-Shu.
+- [蜀国 / Shu State (Warring States)](entities/ShuStateWarringStates.md) — conquered southwestern polity reduced under Qin and destabilized by Chen Zhuang's rebellion.
+- [巴蜀 / Ba-Shu](entities/BaShu.md) — hard-to-enter, resource-rich southwest region that becomes both Qin's base and Chen Zhuang's temptation.
+- [都江堰 / Dujiangyan](entities/Dujiangyan.md) — irrigation project used by the episode to explain Ba-Shu's later grain value for Qin.
+- [李冰 / Li Bing](entities/LiBing.md) — Qin-associated engineer named with his son in the source as builders of Dujiangyan.
+- [韩襄王 / King Xiang of Han](entities/HanXiangwang.md) — Han Cang, successor to Han Xuanhui/Hui Wang in the Zhouji 52 succession notice.
 - [丹阳之战 / Battle of Danyang](entities/DanyangBattle.md) — 312 BCE Qin defeat of Chu after Chu Huaiwang attacks from anger, leading to Qu Gai's capture and the loss of Hanzhong.
 - [蓝田之战 / Battle of Lantian](entities/LantianBattle.md) — Chu Huaiwang's second angry attack, where Qin draws Chu deep through Wuguan and Shangyu before counterattacking near Lantian.
 - [汉中 / Hanzhong](entities/Hanzhong.md) — Chu territory lost to Qin after Danyang, used by the episode to contrast concrete recovery needs with fixation on promised Shangyu.
@@ -7114,6 +7130,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [受任地方长官割据风险 / Appointed Governor Secession Risk](concepts/AppointedGovernorSecessionRisk.md) — Post-conquest governance risk where a centrally appointed local official uses terrain, resources, and delegated authority to attempt independent rule.
 - [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — Governance failure where humiliation turns into war aim, replacing strategic recovery with emotionally driven escalation.
 - [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — Mencian leadership lesson that the decisive test after a mistake is visible correction rather than regret, excuses, or face-saving.
 - [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom-origin stories against period economy, incentives, and evidence, added through the rejected "二百五" derivation.

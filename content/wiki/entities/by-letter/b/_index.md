@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6050
+wiki_total_pages: 6065
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -746,6 +746,12 @@ wiki_pages:
   - key: "BabyTree"
     title: "宝宝树 / BabyTree"
     url: "/wiki/entities/babytree/"
+  - key: "BaStateWarringStates"
+    title: "巴国 / Ba State (Warring States)"
+    url: "/wiki/entities/bastatewarringstates/"
+  - key: "BaShu"
+    title: "巴蜀 / Ba-Shu"
+    url: "/wiki/entities/bashu/"
   - key: "BianQue"
     title: "扁鹊 / Bian Que"
     url: "/wiki/entities/bianque/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6050
+wiki_total_pages: 6065
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "YanYiwang"
     title: "燕易王 / King Yi of Yan"
     url: "/wiki/entities/yanyiwang/"
+  - key: "YanZhaowang"
+    title: "燕昭王 / King Zhao of Yan"
+    url: "/wiki/entities/yanzhaowang/"
   - key: "YanHuanGong"
     title: "燕桓公 / Duke Huan of Yan"
     url: "/wiki/entities/yanhuangong/"

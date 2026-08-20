@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6050
+wiki_total_pages: 6065
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "DengLaoban"
     title: "邓老板"
     url: "/wiki/entities/denglaoban/"
+  - key: "Dujiangyan"
+    title: "都江堰 / Dujiangyan"
+    url: "/wiki/entities/dujiangyan/"
   - key: "DragonSpiritGameSeries"
     title: "龙魂 / Dragon Spirit game series"
     url: "/wiki/entities/dragonspiritgameseries/"

@@ -8479,3 +8479,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘
+
+Added source page for a 芮淇讲透资治通鉴 episode on Yan Zhaowang's post-disaster talent recruitment, Guo Wei's "千金买骨" signal, Le Yi and Ju Xin entering Yan, Han Xiang Wang's succession notice, Chen Zhuang killing Shu Hou Ning Tong and rebelling against Qin in Ba-Shu, Gan Mao's suppression, and Zhang Yi entering Chu as the next cliffhanger. Created pages for Yan Zhaowang, Guo Wei (Warring States), Le Yi, Ju Xin, Zi Zhi, Chen Zhuang, Shu Hou Ning Tong, Sima Cuo, Gan Mao, Ba, Shu, Ba-Shu, Dujiangyan, Li Bing, Han Xiang Wang, and Appointed Governor Secession Risk; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Nan Wang, Yan/Qin/Han/Chu/Zhang Yi/Ying Si pages, and related talent/frontier/conquest concepts. No direct contradiction found; the source extends Zhouji 49's Yan aftermath and Zhouji 51's Zhang Yi/Chu Huaiwang cliffhanger while adding Qin's southwestern delegated-rule risk.
