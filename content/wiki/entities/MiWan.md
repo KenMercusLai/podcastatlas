@@ -2,7 +2,7 @@
 title: "芈完 / 楚考烈王 / Mi Wan"
 type: entity
 tags: [person, crown-prince, ruler, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The first Zhouji 92 part stops before the outcome. It records Qin's suspicion th
 
 [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] completes the succession arc. Mi Wan reaches Chu, Mi Heng dies three months later, and Mi Wan succeeds as Chu Kaolie Wang. His first important wiki action is to reward [[Chunshenjun|黄歇 / 春申君]] with the chancellorship, a large fief, and the Chunshenjun title, confirming that the hostage-court companionship has become governing trust.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] uses his newly established reign as the transition into 262 BCE. The episode says Chu Kaolie Wang's first year brings no battle but still sees [[ChuState|楚国]] cede large territory to [[QinState|秦国]], so Mi Wan's successful return does not reverse Chu's broader decline under Qin pressure.
+
 ## Connections
 - [[MiHeng|楚顷襄王]] - father and current Chu king whose illness creates the succession emergency.
 - [[Chunshenjun|黄歇 / 春申君]] - attendant and strategist who protects his return path.
@@ -23,3 +25,4 @@ The first Zhouji 92 part stops before the outcome. It records Qin's suspicion th
 - [[HostageDiplomacyRupture|质子外交破裂]] - adjacent hostage-politics frame; this source shows hostage value changing under succession pressure.
 - [[ChuState|楚国]] and [[WarringStatesAllianceSwitching|战国同盟转向]] - state and alliance background behind his detention and proposed escape.
 - [[WarringStatesFourLords|战国四公子]] - later comparative frame opened when his reward makes Huang Xie Chunshenjun.
+- [[QinState|秦国]] - Zhouji 93 first-year land cession pressure after succession repair.

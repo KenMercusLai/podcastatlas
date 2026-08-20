@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》93丨在梦里藏着偷天改命？（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhou Nan Wang's fifty-third year, Chu Kaolie Wang's first-year land concession to Qin, Feng Ting's offer of isolated Shangdang's seventeen cities to Zhao, Zhao Bao's warning against 无故之利, and Zhao Xiaocheng Wang's 利令智昏 decision risk. Created Feng Ting, Zhao Bao, and Windfall Decision Trap; updated overview, index, Shangdang, Zhao Dan, Mi Wan, Chunshenjun, Pingyuanjun, Bai Qi, Zhou Nan Wang, Qin/Han/Zhao/Chu state pages, Transport Corridor Severance, Qin Eastward Pressure, and Yuanjiao Jingong Strategy. No direct contradiction found; the episode extends the Zhouji 92 Shangdang setup by naming Feng Ting and making the Zhao offer a deliberate crisis-transfer strategy.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode completing the Zhouji 92 hostage-succession branch: Mi Wan escapes Qin, Huang Xie stays behind and admits the plan after the prince is safe, Fan Ju persuades Qin Zhaoxiang Wang to spare and return Huang Xie, Mi Wan succeeds as Chu Kaolie Wang, and Huang Xie's risk becomes the basis for his Chunshenjun rise. Created Song Yu, Wushan Goddess, and Xiangwang Youyi Shennv Wuxin; updated overview, index, Chunshenjun, Mi Wan, Mi Heng, Fan Ju, Qin Zhaoxiang Wang, Qin State, Chu State, Chu Huaiwang, Zhuang Xin, Hostage Diplomacy Rupture, and Warring States Four Lords. No direct contradiction found; Shanghai/申城 and Huangpu River associations are kept source-scoped, and the title's "舔狗" language is recorded as a modern gloss on the "襄王有意，神女无心" motif.
@@ -8895,3 +8899,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12205 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the configured model `claude-3-5-sonnet-latest` is not provider-qualified; set `LLM_MODEL` to a provider-qualified LiteLLM model plus credentials to enable contradiction, stale-content, and data-gap checks.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 4864
+wiki_total_pages: 4865
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "WinRateStartupStrategy"
     title: "Win-Rate Startup Strategy / 优化胜率"
     url: "/wiki/concepts/winratestartupstrategy/"
+  - key: "WindfallDecisionTrap"
+    title: "Windfall Decision Trap / 无故之利"
+    url: "/wiki/concepts/windfalldecisiontrap/"
   - key: "WineAsAgriculturalCulture"
     title: "Wine As Agricultural Culture"
     url: "/wiki/concepts/wineasagriculturalculture/"

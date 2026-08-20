@@ -2,7 +2,7 @@
 title: "远交近攻 / Yuanjiao Jingong Strategy"
 type: concept
 tags: [strategy, diplomacy, warfare, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 
 [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]] gives the strategy a more concrete geography. [[FanJu|范雎]] argues that Han's position interlocks with Qin and should be treated as an internal danger. The episode then connects [[BaiQi|白起]]'s seizure of [[HanNanyangWarringStates|韩国南阳]] and attack on [[TaihangRoad|太行道]] to [[TransportCorridorSeverance|交通线切割]], because cutting those routes separates [[Shangdang|上党]] from Han's capital region and creates the next Qin-Zhao war setup.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] shows that setup becoming a political trap. [[FengTing|冯亭]] offers [[Shangdang|上党]] to [[ZhaoState|赵国]], trying to force Zhao into the anti-Qin problem after Qin has already made Han unable to protect the territory. Near attack therefore works not only by taking land directly, but by making neighboring states decide whether to accept exposed land that will draw Qin's next blow.
+
 ## Key Claims
 - Distance changes whether victory can become usable territory.
 - A remote offensive may create glory, casualties, and temporary leverage without producing stable land.
@@ -34,6 +36,7 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 - Zhouji 90 adds that near-attack pressure can provide the institutional route through which an empowered minister pursues private revenge.
 - Zhouji 91 adds that a near-attack policy can select targets partly by vulnerability and diplomatic leverage, not only by adjacency.
 - Zhouji 92 adds that near attack can proceed by transport severance: Qin weakens a neighboring state by dividing its internal geography before absorbing or coercing the separated parts.
+- Zhouji 93 adds that transport severance can tempt a third state into the conflict by making the isolated territory look like an unearned gain.
 
 ## Connections
 - [[FanJu|范雎]] - strategist who articulates the formula.
@@ -46,3 +49,4 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 - [[XuJia|须贾]], [[WeiQiWarringStates|魏齐]], [[Daliang|大梁]], and [[PersonalRevengeThroughStatePower|以国力行私仇]] - Zhouji 90 near-Wei pressure as revenge channel.
 - [[ZhaoDan|赵丹 / 赵孝成王]], [[ZhaoWeihou|赵威后]], [[Pingyuanjun|平原君]], and [[WeiQiWarringStates|魏齐]] - Zhouji 91 Zhao vulnerability and asylum trigger.
 - [[BaiQi|白起]], [[HanNanyangWarringStates|韩国南阳]], [[TaihangRoad|太行道]], [[Shangdang|上党]], and [[TransportCorridorSeverance|交通线切割]] - Zhouji 92 concrete Han-front implementation.
+- [[FengTing|冯亭]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 Shangdang offer as a near-attack aftereffect.

@@ -2,7 +2,7 @@
 title: "白起 / Bai Qi"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states, warfare]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The result is presented as a decisive and destructive Qin victory. The episode r
 
 [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]] puts Bai Qi back on the Han front. In 264 BCE he attacks [[HanState|韩国]], takes nine cities, and kills fifty thousand troops; in 263 BCE he takes [[HanNanyangWarringStates|韩国南阳]] and attacks [[TaihangRoad|太行道]]. The episode uses these notices as [[FanJu|范雎]]'s [[YuanjiaoJingongStrategy|远交近攻]] in action: Bai Qi is not only defeating armies, but cutting routes so [[Shangdang|上党]] is isolated from Han's capital region.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] shows the aftereffect of that route-cutting rather than a new Bai Qi battle. With Shangdang isolated, [[FengTing|冯亭]] tries to avoid surrendering to Qin by offering the territory to [[ZhaoState|赵国]], making Bai Qi's operational pressure the background cause of Zhao's later decision trap.
+
 ## Connections
 - [[YiqueBattle|伊阙之战]] - battle that makes him famous in this episode.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], and [[QinState|秦国]] - ruler, patron/recommender, and state context.
@@ -35,3 +37,4 @@ The result is presented as a decisive and destructive Qin victory. The episode r
 - [[HuayangBattle|华阳之战]], [[HanState|韩国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[ThreatenedDefectionLeverage|投敌威胁式求援]] - Zhouji 83 rapid Qin rescue and defeat of Wei-Zhao attackers.
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], [[StrategicDepthDefense|战略纵深防御]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 84 planned Chu campaign halted by route-risk persuasion.
 - [[HanNanyangWarringStates|韩国南阳]], [[TaihangRoad|太行道]], [[Shangdang|上党]], and [[TransportCorridorSeverance|交通线切割]] - Zhouji 92 Han-front route-cutting campaign.
+- [[FengTing|冯亭]], [[ZhaoState|赵国]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 political aftereffect of the isolated Shangdang position.

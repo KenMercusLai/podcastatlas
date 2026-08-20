@@ -2,7 +2,7 @@
 title: "春申君 / 黄歇 / Lord Chunshen"
 type: entity
 tags: [person, chu-state, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The episode also makes Huang Xie a case of elite rhetorical competence. His use 
 
 After [[MiWan|芈完 / 楚考烈王]] succeeds, the episode makes Huang Xie's reward the beginning of his Chunshenjun identity: he becomes chancellor, receives Huai River-region territory, and is compared against the other [[WarringStatesFourLords|战国四公子]] as the one whose rise is framed most directly through personal merit, courage, and long companionship with the future ruler. The source also records the Shanghai/申城 and Huangpu River associations as cultural memory around Huang Xie, kept source-scoped rather than treated as settled geography.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] uses that survival and promotion as the handoff into the next annalistic year. Huang Xie is now safely back in [[ChuState|楚国]] and elevated, but the episode's immediate Chu point is sober: [[MiWan|楚考烈王]]'s first year still brings land cession to [[QinState|秦国]], so Chunshenjun's personal rise sits inside continued Chu weakness.
+
 ## Connections
 - [[ChuState|楚国]] and [[MiHeng|楚顷襄王]] - state and ruler whose survival his letter protects.
 - [[QinState|秦国]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - target court, ruler, and halted commander.
@@ -33,3 +35,4 @@ After [[MiWan|芈完 / 楚考烈王]] succeeds, the episode makes Huang Xie's re
 - [[HostageDiplomacyRupture|质子外交破裂]] and [[WarringStatesAllianceSwitching|战国同盟转向]] - adjacent hostage and alliance concepts that frame Huang Xie's Zhouji 85 escort role.
 - [[MiWan|芈完 / 楚考烈王]], [[FanJu|范雎]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 92 hostage-return argument and escape-cover plan.
 - [[HostageDiplomacyRupture|质子外交破裂]] and [[WarringStatesFourLords|战国四公子]] - Zhouji 92 part 2 turns the escape risk into Huang Xie's later patronage identity.
+- [[QinState|秦国]] - Zhouji 93 transition from Huang Xie's rise to Chu's renewed land concession.
