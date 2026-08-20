@@ -2,11 +2,13 @@
 title: "BlackRock"
 type: entity
 tags: [company, finance, asset-management]
-sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, vanguard-1]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, vol-266-yi-ci-xing-gao-dong-etf-1002344828, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, vanguard-1]
+last_updated: 2026-08-21
 ---
 
 # BlackRock
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds BlackRock as one of the asset-management institutions named in [[Nvidia]]'s reported $500 billion AI compute financing effort. The source makes BlackRock relevant to [[GPUComputeAssetBackedFinancing]], where GPU rental cash flows, residual values, and data-center execution become underwritable infrastructure exposure.
 
 [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] mentions BlackRock inside [[DavidWeng|大卫翁]]'s updated [[PrivateCreditTailRisk]] concern. The source says conversations with people around BlackRock, [[KKR]], and [[ApolloGlobalManagement|Apollo]] left him less reassured because each institution tended to view its own private-credit exposure as higher quality or less risky than the market average.
 
@@ -25,6 +27,7 @@ BlackRock also matters through [[SalimRamji]], formerly head of iShares, becomin
 - Vol.266 adds BlackRock to the non-equity ETF expansion branch through a source-scoped Bitcoin ETF example.
 
 ## Connections
+- [[Nvidia]], [[GPUComputeAssetBackedFinancing]], [[AIInfrastructureDebtFinancing]], [[GoldmanSachs|Goldman Sachs]], and [[DataCenterDebtRisk]] - AI compute financing branch added by All-In.
 - [[PrivateCreditMarket]], [[PrivateCreditTailRisk]], and [[InvestmentRiskManagement]] - episode 151's private-credit mainstreaming context.
 - [[Vanguard]], [[StateStreet]], and [[Fidelity]] - competing asset-management and distribution models.
 - [[SalimRamji]] - former iShares leader who became Vanguard CEO.

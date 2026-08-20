@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 4845
+wiki_total_pages: 4848
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "AlzheimerDrugEfficacyGap"
     title: "Alzheimer Drug Efficacy Gap"
     url: "/wiki/concepts/alzheimerdrugefficacygap/"
+  - key: "AmazonDSPLaborModel"
+    title: "Amazon DSP Labor Model"
+    url: "/wiki/concepts/amazondsplabormodel/"
   - key: "AmbientAIInterface"
     title: "Ambient AI Interface"
     url: "/wiki/concepts/ambientaiinterface/"

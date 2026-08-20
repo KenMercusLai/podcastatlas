@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555.md) — All-In episode with Gavin Baker on Anthropic IPO rumors, open-source and decentralized AI, Nvidia GPU-backed compute financing, data-center constraints, Amazon DSP labor pressure, Grokbot, and Workday/Silver Lake software valuation signals.
 - [《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？](sources/zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1.md) — 芮淇讲透资治通鉴 episode on Wei Anxi Wang's failed anti-Qin maneuvering, the Huayang battle, Han's threatened-defection rescue appeal to Qin, and Su Dai's "抱薪救火" warning against ceding land for peace.
 - [《资治通鉴·周纪》82丨大秦的核武器：白起来了！](sources/zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade.md) — 芮淇讲透资治通鉴 episode on Bai Qi breaking Chu's Ying capital region, Qin creating Nan Commandery, Chu surviving through strategic depth and Zhuang Xin's "亡羊补牢" counsel, and Qin turning to Wei through Bai Qi and Wei Ran.
 - [《资治通鉴·周纪》81丨历史早期PUA记实录（2）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k.md) — 芮淇讲透资治通鉴 episode on Diao Bo correcting Qi Xiang Wang's treatment of Tian Dan, Lu Zhonglian diagnosing Tian Dan's Di campaign, post-restoration self-protection, and Mengchangjun's final Xue lineage outcome.
@@ -1100,6 +1101,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Grokbot](entities/Grokbot.md) — xAI/Grok personalized bot-builder product discussed as an easier consumer-access layer for creating custom AI agents.
 - [华阳之战 / Battle of Huayang](entities/HuayangBattle.md) — Wei-Zhao attack on Han that becomes a Qin rescue-and-punishment case after Han uses threatened-defection leverage.
 - [韩桓惠王 / King Huanhui of Han](entities/HanHuanhuiwang.md) — Han ruler who succeeds Han Xi Wang after the Huayang crisis and immediately enters a Qin-led alignment context.
 - [段干子 / Duan Ganzi](entities/DuanGanzi.md) — Wei adviser whose post-Huayang land-for-peace proposal is criticized by Su Dai as aligned with Qin's appetite for territory.
@@ -7301,6 +7303,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [GPU Compute Asset-Backed Financing](concepts/GPUComputeAssetBackedFinancing.md) — Nvidia-centered financing frame where GPU clusters are treated as cash-flowing collateral backed by utilization, residual value, and compute demand.
+- [Decentralized AI Control](concepts/DecentralizedAIControl.md) — Argument that AI power should be distributed through open models, personal agents, and competing providers rather than centralized in a few frontier labs or regulators.
+- [Amazon DSP Labor Model](concepts/AmazonDSPLaborModel.md) — Amazon delivery subcontractor structure as a tradeoff between logistics flexibility, labor responsibility, liability, and political legitimacy.
 - [Allied Economic Bloc Against China](concepts/AlliedEconomicBlocAgainstChina.md) — Emanuel's proposal to aggregate U.S. allies and partners into a coordinated economic bloc that can counter Chinese dependency strategy and overcapacity.
 - [Pragmatic Immigration Compromise](concepts/PragmaticImmigrationCompromise.md) — Immigration frame pairing border and workplace enforcement with legal immigration, skilled talent, foreign students, and the Dignity Act compromise.
 - [Education Workforce Pipeline](concepts/EducationWorkforcePipeline.md) — Emanuel's school-to-workforce frame linking third-grade reading, high-school plans, community college, vocational pathways, and growth.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6197
+wiki_total_pages: 6198
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "Grok"
     title: "Grok"
     url: "/wiki/entities/grok/"
+  - key: "Grokbot"
+    title: "Grokbot"
+    url: "/wiki/entities/grokbot/"
   - key: "Groq"
     title: "Groq"
     url: "/wiki/entities/groq/"

@@ -2,11 +2,13 @@
 title: "Data Center Power Bottleneck"
 type: concept
 tags: [ai, data-centers, energy, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-20
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-21
 ---
 
 # Data Center Power Bottleneck
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds the turbine, heat, and local-friction version. [[GavinBaker|Gavin Baker]] emphasizes that AI data centers are physical infrastructure projects involving turbines, remote sites, labor coordination, heat management, and local noise; [[DavidSacks|David Sacks]] argues that operators with their own power solutions should be allowed to proceed because delay can weaken U.S. AI competitiveness.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a demand-side version of the same constraint. The hosts argue that falling token prices and expanding enterprise usage can intensify total power demand under [[JevonsParadoxInAI]], so data-center power becomes both an [[AIInferenceCostStructure]] input and an [[AIIPOValuation]] risk for capital-intensive model companies.
 
@@ -45,8 +47,10 @@ The concept extends [[AIEnergyBottleneck]], [[DataCenterOnsitePower]], and [[AIC
 - The All-In source adds that power bottlenecks are a geopolitical competitiveness issue when data-center delay weakens U.S. AI deployment relative to [[China]].
 - The Crusoe source adds that power bottlenecks can become the neocloud product itself: site selection, power generation, rack density, and customer leases all determine whether AI capacity can be delivered.
 - The Dreyfus source adds a one-gigawatt AI-factory scale example, arguing that solar-only supply would require large land area and that copper and grid construction can bind before software demand does.
+- The August 14 All-In source adds that physical and political friction can be a double-edged constraint: it slows AI capacity, but it may also prevent a faster compute overbuild.
 
 ## Connections
+- [[GavinBaker|Gavin Baker]], [[DataCenterOnsitePower]], [[DataCenterBacklash]], [[GPUComputeAssetBackedFinancing]], [[DataCenterDebtRisk]], and [[DarkFiber]] - August 14 All-In branch on turbines, local friction, and overbuild constraints.
 - [[AlexGMICloud|Alex]], [[GMICloud]], and [[GPUCloudOperations]] - source case and operating context.
 - [[AIEnergyBottleneck]], [[DataCenterOnsitePower]], and [[DataCenterThermalManagement]] - energy and facility branches.
 - [[RedwoodMaterials]], [[ColinCampbell]], and [[SecondLifeEVBatteryStorage]] - reused-battery storage workaround.

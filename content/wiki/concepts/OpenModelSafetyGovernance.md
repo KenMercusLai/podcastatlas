@@ -2,11 +2,13 @@
 title: "Open Model Safety Governance"
 type: concept
 tags: [ai, safety, governance, open-source]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
-last_updated: 2026-08-17
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
+last_updated: 2026-08-21
 ---
 
 # Open Model Safety Governance
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds the centralized-versus-distributed control argument. The hosts reject the analogy between AI and nuclear weapons and argue that banning open source or centralizing AI control would weaken the U.S. relative to [[China]], while still leaving model capability, deployment environment, and misuse risks as real governance questions.
 
 [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds a closed-model governance mirror: U.S. frontier labs criticizing Chinese distillation still have their own training-data controversies, and closed APIs need terms, detection, and account controls to defend proprietary model behavior. The source treats this as a governance comparison rather than an equivalence claim, because training on web or book data, using pirated sources, and using a rival model's outputs are legally and technically different problems.
 
@@ -25,8 +27,10 @@ The concept connects safety to where controls operate. The source suggests that 
 - Large open-weight models may still be partly governable through compute ownership, hosted inference providers, enterprise policy, and monitored deployment.
 - Agent environments make containment an explicit governance layer: isolation, rollback, permissions, and monitoring matter alongside model-release policy.
 - Distillation disputes show that governance has to cover provenance, user agreements, access traces, and evidence quality, not only whether weights are open or closed.
+- The August 14 All-In source adds that open-model safety debates are also political-control debates: "too dangerous to distribute" and "too dangerous to centralize" lead to different failure modes.
 
 ## Connections
+- [[DecentralizedAIControl]], [[Anthropic]], [[EffectiveAltruism]], [[MarkZuckerberg]], [[Grok]], and [[China]] - All-In branch on open models, centralization risk, and geopolitical competition.
 - [[OpenSourceAIModels]], [[OpenWeightReleaseBoundary]], and [[ChineseOpenWeightAIStrategy]] - open-model context.
 - [[AIModelSandboxEscape]], [[AICyberDefenseUtility]], and [[FrontierModelCyberMisuse]] - dual-use and incident-response branch.
 - [[AIAlignmentGovernance]], [[AIGovernanceAndCompliance]], [[FrontierModelReleaseGovernance]], and [[FrontierModelAccessRestrictions]] - broader governance layer.

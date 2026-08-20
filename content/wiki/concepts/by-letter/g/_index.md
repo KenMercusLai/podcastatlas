@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 4845
+wiki_total_pages: 4848
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "GPUCloudOperations"
     title: "GPU Cloud Operations"
     url: "/wiki/concepts/gpucloudoperations/"
+  - key: "GPUComputeAssetBackedFinancing"
+    title: "GPU Compute Asset-Backed Financing"
+    url: "/wiki/concepts/gpucomputeassetbackedfinancing/"
   - key: "GPUHotSwapping"
     title: "GPU Hot Swapping"
     url: "/wiki/concepts/gpuhotswapping/"

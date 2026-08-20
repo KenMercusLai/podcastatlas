@@ -8791,3 +8791,11 @@ Added source page for an All-In interview with Rahm Emanuel on alliance-based Ch
 ## [2026-08-21] lint | Wiki health check
 
 Ran health before lint; health scanned 12135 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12135 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes and 129324 edges, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the model name `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback
+
+Added source page for an All-In episode with Gavin Baker on Anthropic IPO rumors, open-source and decentralized AI, Nvidia GPU-backed compute financing, data-center constraints, Amazon DSP labor pressure, Grokbot, and a possible Silver Lake bid for Workday. Created pages for GPU Compute Asset-Backed Financing, Decentralized AI Control, Amazon DSP Labor Model, and Grokbot; updated overview, index, and related All-In, Anthropic, Nvidia, Grok, xAI, Meta, Mark Zuckerberg, Amazon, Workday, and infrastructure-finance pages. No direct contradiction found; source-scoped tensions were recorded around Anthropic valuation-rumor differences and Nvidia financing versus circular-infrastructure concerns.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12140 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` was not provider-qualified.

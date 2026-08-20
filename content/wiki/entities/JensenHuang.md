@@ -2,11 +2,13 @@
 title: "Jensen Huang"
 type: entity
 tags: [person, ai, semiconductors, investing]
-sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, 150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-21
 ---
 
 # Jensen Huang
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds Huang as one of the figures Gavin Baker places on the "too dangerous to centralize" side of the AI-control debate. The same source indirectly extends Huang's role through [[Nvidia]]'s proposed [[GPUComputeAssetBackedFinancing]] plan, where Nvidia would help turn GPU capacity into a financeable asset class.
 
 [[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds Huang through [[HowardLutnick|Howard Lutnick]]'s explanation of why [[Nvidia]] should still sell less-than-best chips into [[China]] under controls. Lutnick says Huang argued that a total cutoff would push Chinese demand toward domestic champions, connecting Huang to [[AIExportControls]], [[StrategicAIInfrastructureDependence]], and [[TaxpayerReturnIndustrialPolicy]].
 
@@ -43,8 +45,10 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 - S10E16 uses Huang as a management counterexample to [[Intel]]'s missed GPU-era transition, not as a valuation claim.
 - Episode 150 uses Huang as an internal operating-culture influence on [[LiuMingyu|Liu Ming-Yu / 刘洺堉]] and [[CosmosLab]], not as an independent technical evaluator of [[Cosmos3]].
 - The Lutnick source uses Huang as the business-strategy voice for controlled China access: keep customers tied to American infrastructure while accepting government testing and revenue sharing.
+- The August 14 All-In source uses Huang as both a decentralization-side figure in AI governance and the executive context for Nvidia becoming a compute-finance enabler.
 
 ## Connections
+- [[DecentralizedAIControl]], [[Nvidia]], [[GPUComputeAssetBackedFinancing]], [[GoldmanSachs|Goldman Sachs]], and [[BlackRock]] - August 14 All-In governance and financing branch.
 - [[Nvidia]] — company context.
 - [[AIEquityValuationRisk]] — concept where founder selling is treated as one sentiment input.
 - [[InvestmentRiskManagement]] — investors should not build a full thesis from one signal.

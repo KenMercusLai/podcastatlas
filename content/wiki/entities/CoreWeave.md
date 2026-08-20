@@ -2,11 +2,13 @@
 title: "CoreWeave"
 type: entity
 tags: [company, ai, cloud, data-centers]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
+last_updated: 2026-08-21
 ---
 
 # CoreWeave
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds CoreWeave as evidence in the GPU useful-life debate. [[GavinBaker|Gavin Baker]] says CoreWeave has indicated that older Ampere-generation GPUs from 2020 can still be rented profitably for 2029, which supports the residual-value assumptions behind [[GPUComputeAssetBackedFinancing]] while keeping utilization and rental-price risk live.
 
 [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds CoreWeave as one of the early [[NeoCloud|neoclouds]] named alongside [[Crusoe]]. The source uses CoreWeave less as a financing loop and more as category context: specialized AI clouds compete by turning scarce GPU capacity into usable AI infrastructure rather than offering generic outsourced IT.
 
@@ -15,6 +17,7 @@ CoreWeave appears in [[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-h
 The page matters to the wiki because CoreWeave turns AI capex from a simple hyperscaler story into a chain-finance question. A compute provider can make scarce GPU access more usable, but investors still have to ask whether demand outside the loop is strong enough to support leases, GPU purchases, data-center utilization, and [[AIComputeContinuity]].
 
 ## Connections
+- [[GPUComputeAssetBackedFinancing]], [[Nvidia]], [[GPU]], [[AIInfrastructureDebtFinancing]], and [[DataCenterDebtRisk]] - useful-life and residual-value branch added by All-In.
 - [[Nvidia]] and [[OpenAI]] - counterparties in the circular financing example.
 - [[AICircularInfrastructureFinancing]], [[DataCenterDebtRisk]], and [[StrategicAIInfrastructureDependence]] - concepts this source uses CoreWeave to illustrate.
 - [[GPUCloudOperations]] and [[MaaSInfrastructure]] - adjacent operating and cloud-infrastructure frames.

@@ -2,11 +2,13 @@
 title: "Goldman Sachs"
 type: entity
 tags: [company, finance, investing]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-21
 ---
 
 # Goldman Sachs
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds Goldman Sachs as one of the financial institutions named in [[Nvidia]]'s reported $500 billion AI compute financing plan. In the source, Goldman matters as part of [[GPUComputeAssetBackedFinancing]]: banks would underwrite GPU fleets only if the assets, leases, utilization, and residual values look financeable.
 
 Goldman Sachs appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] as a market-data reference and as part of the bank-stock signal set. The episode cites Goldman-style reporting on retail ownership and on the market-cap share of the largest U.S. technology stocks, then later mentions Goldman Sachs among financial stocks whose weakness may reflect changing economic expectations.
 
@@ -29,6 +31,7 @@ Goldman Sachs appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi
 - The Silicon Valley 101 football source uses Goldman Sachs as a financing-channel example, not as an equity recommendation.
 
 ## Connections
+- [[Nvidia]], [[GPUComputeAssetBackedFinancing]], [[AIInfrastructureDebtFinancing]], [[BlackRock]], and [[DataCenterDebtRisk]] - AI compute financing branch added by All-In.
 - [[RetailInvestorCrowding]] — retail ownership and flow context.
 - [[MegaCapConcentrationRisk]] — "seven sisters" concentration context.
 - [[JPMorganChase]] — peer bank-stock and market-data reference in the source.

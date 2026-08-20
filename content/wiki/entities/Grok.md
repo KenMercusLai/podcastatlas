@@ -2,11 +2,13 @@
 title: "Grok"
 type: entity
 tags: [ai, model, xai, musk]
-sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+last_updated: 2026-08-21
 ---
 
 # Grok
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds Grok as a comeback and duopoly-disruption case. [[DavidSacks|David Sacks]] asks whether Grok 4.6 and [[Grokbot]] show that the frontier market is more fluid than an [[Anthropic]]-[[OpenAI]] duopoly, while [[GavinBaker|Gavin Baker]] points to price, capability, [[Cursor]]-related talent, and positive external evaluations as evidence that [[XAI|xAI]] has regained relevance.
 
 [[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds a fact-checking use case for Grok inside [[Twitter|X]]. The hosts describe users asking Grok what is true, placing it beside [[CommunityNotes|Community Notes]] as a user-facing alternative to regulator-imposed labels, while still acknowledging that AI answers are imperfect.
 
@@ -25,6 +27,7 @@ The source's Grok thesis is explicitly forward-looking. It suggests that Grok co
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Grok to a corporate integration story. The episode says [[SpaceX]] buying [[XAI|xAI]] would place Grok, [[Starlink]], and [[Twitter|X]] under a broader [[ElonMusk]] structure, making Grok part of an AI/space/platform financing question rather than only a chatbot product.
 
 ## Connections
+- [[Grokbot]], [[XAI|xAI]], [[SpaceX]], [[Anthropic]], [[OpenAI]], [[Cursor]], [[Databricks]], and [[DecentralizedAIControl]] - August 14 All-In branch on Grok's comeback, personalized bots, and competitive fluidity.
 - [[XAI]] — company behind Grok in the source.
 - [[ShengYing|盛颖 / Sheng Ying]], [[SGLang]], [[AgentInferenceWorkload]], and [[InferenceAccelerationStack]] - E247's serving-infrastructure branch.
 - [[JanelleShane]], [[ChatbotMemorySalienceFailure]], and [[ChatbotSafetyGuardrailDecay]] - brief July 2026 Marketplace Tech mention in the context of chatbot behavior tuning.
