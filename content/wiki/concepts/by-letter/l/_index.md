@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 4799
+wiki_total_pages: 4800
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "LoyaltyBeyondContract"
     title: "Loyalty Beyond Contract"
     url: "/wiki/concepts/loyaltybeyondcontract/"
+  - key: "LoyaltyCollateralDilemma"
+    title: "Loyalty-Collateral Dilemma / 忠义牵连困境"
+    url: "/wiki/concepts/loyaltycollateraldilemma/"
   - key: "LTVBasedGrowthBudgeting"
     title: "LTV-Based Growth Budgeting"
     url: "/wiki/concepts/ltvbasedgrowthbudgeting/"

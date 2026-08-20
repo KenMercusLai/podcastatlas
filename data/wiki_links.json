@@ -24455,6 +24455,10 @@
     "title": "Loyalty Beyond Contract",
     "url": "/wiki/concepts/loyaltybeyondcontract/"
   },
+  "LoyaltyCollateralDilemma": {
+    "title": "Loyalty-Collateral Dilemma / 忠义牵连困境",
+    "url": "/wiki/concepts/loyaltycollateraldilemma/"
+  },
   "LuChuan": {
     "title": "陆川 / Lu Chuan",
     "url": "/wiki/entities/luchuan/"
@@ -39407,6 +39411,10 @@
     "title": "Tian Family Replacement of Qi / 田氏代齐",
     "url": "/wiki/concepts/tianfamilyreplacementofqi/"
   },
+  "TianFazhang": {
+    "title": "田法章 / Tian Fazhang",
+    "url": "/wiki/entities/tianfazhang/"
+  },
   "TianFeng": {
     "title": "田峰 / Tian Feng",
     "url": "/wiki/entities/tianfeng/"
@@ -41622,6 +41630,10 @@
   "WangZhengjun": {
     "title": "Wang Zhengjun / 王政君",
     "url": "/wiki/entities/wangzhengjun/"
+  },
+  "WangZhu": {
+    "title": "王蠋 / Wang Zhu",
+    "url": "/wiki/entities/wangzhu/"
   },
   "Wangchuan": {
     "title": "辋川 / Wangchuan",
@@ -48086,5 +48098,9 @@
   "zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j": {
     "title": "《资治通鉴·周纪》71丨荀子的性本恶论",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j/"
+  },
+  "zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28": {
+    "title": "《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28/"
   }
 }

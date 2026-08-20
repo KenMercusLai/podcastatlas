@@ -2,8 +2,8 @@
 title: "Aristocratic Honor Over Life / 贵族名誉高于生命"
 type: concept
 tags: [honor, pre-qin-history, ethics, political-violence]
-sources: [zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+last_updated: 2026-08-20
 ---
 
 # Aristocratic Honor Over Life / 贵族名誉高于生命
@@ -18,6 +18,8 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 
 [[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] extends the concept from self-harm to violence against outsiders. When people in [[ZhaoState|赵国]] mock Mengchang Jun's short stature during a visit hosted by [[Pingyuanjun|平原君]], his retainers kill hundreds in retaliation. The episode treats the response as historically intelligible inside a martial aristocratic honor culture, but it explicitly refuses to make that value world a timeless ethical standard.
 
+[[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds [[WangZhu|王蠋]] as a related but distinct loyal-minister case. Wang Zhu does not die for a patron's recognition or a family-name problem; he dies because serving [[YanState|燕国]] after [[QiState|齐国]]'s collapse would violate his loyal-minister principle, while refusal under threat could endanger his city. The case therefore connects honor-over-life to [[LoyaltyCollateralDilemma|忠义牵连困境]] without collapsing the two concepts.
+
 ## Key Claims
 - Public name can matter as much as physical survival in aristocratic honor narratives.
 - Family protection and family reputation can pull in opposite directions.
@@ -27,12 +29,14 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 - The Mengchang Jun banquet story broadens the concept from revenge and kin reputation into everyday patronage etiquette, where perceived humiliation can become fatal.
 - Honor-over-life logic can also become honor-over-other-people's-lives logic when retainers answer insult with retaliatory killing.
 - Historical explanation does not equal moral approval; the episode uses the Zhao massacre to separate period values from present-day judgment.
+- Wang Zhu adds a loyal-minister variant where death avoids both enemy service and making local people carry the cost of refusal.
 
 ## Connections
 - [[NieZheng|聂政]] and [[NieYing|聂英]] - central source case.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - retainer-recognition branch.
 - [[Mengchangjun|孟尝君 / 田文]] and [[WarringStatesRetainerPatronage|战国养士]] - patronage branch where士人 dignity becomes both recruitment mechanism and volatility risk.
 - [[Pingyuanjun|平原君]] and [[ZhaoState|赵国]] - Zhouji 43 visit setting where body-shaming ridicule escalates into retainer violence.
+- [[WangZhu|王蠋]], [[QiState|齐国]], [[YanState|燕国]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 loyal-minister death under coercive recruitment.
 - [[YanZhongzi|严仲子]] and [[XiaLei|侠累]] - revenge commission and target.
 - [[PoliticalAssassinationEthics]] - adjacent moral-political frame.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - broader early Warring States violence transition.

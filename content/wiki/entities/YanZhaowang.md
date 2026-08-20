@@ -2,7 +2,7 @@
 title: "燕昭王 / King Zhao of Yan"
 type: entity
 tags: [person, ruler, yan-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,8 @@ That search runs through [[GuoWeiWarringStates|郭隗]] and the "千金买骨" s
 
 [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] shows the revenge branch succeeding. Yan Zhaowang mobilizes Yan's full force, places Le Yi over the coalition, then personally reaches the Ji River after the victory to reward the army. He grants Le Yi the title Changguo Jun and keeps him in charge of taking remaining Qi cities, making Yan's earlier recovery through talent visibly pay off in the fall of [[Linzi|临淄]].
 
+[[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] shows what that delegation becomes after the capital falls. Through Le Yi's command, Yan tries to turn conquest into rule by disciplining troops, honoring Qi's hidden worthies, lightening taxes, and restoring old good governance. The failed attempt to recruit [[WangZhu|王蠋]] keeps Yan Zhaowang's talent-respect branch morally complicated: the same victorious state that honors recluses also lets coercive threat enter the recruitment process.
+
 ## Connections
 - [[YanState|燕国]] - polity he rebuilds after Qi's attack.
 - [[YanWangKuai|燕王哙]] - father whose failed reign forms the contrast.
@@ -32,3 +34,4 @@ That search runs through [[GuoWeiWarringStates|郭隗]] and the "千金买骨" s
 - [[EncirclementThreatPersuasion|包围威胁式说服]], [[ZhaoState|赵国]], and [[LianhengStrategy|连横]] - Zhouji 55 five-city concession after Zhang Yi's final speech.
 - [[QiMinWang|齐湣王]], [[LeYi|乐毅]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 anti-Qi revenge coalition after Qi's post-Song overreach.
 - [[Linzi|临淄]], [[JuXin|剧辛]], [[ZhuoChi|卓齿]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 70 victorious coalition, pursuit dispute, and Qi Min Wang's final isolation.
+- [[WangZhu|王蠋]], [[QiState|齐国]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 post-conquest governance and coercive-recruitment boundary.

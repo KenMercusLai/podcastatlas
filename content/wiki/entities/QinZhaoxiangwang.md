@@ -2,7 +2,7 @@
 title: "秦昭襄王 / King Zhaoxiang of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-20
 ---
 
@@ -32,6 +32,8 @@ The source also continues Qin Zhaoxiang Wang's Chu pressure. Once [[ChuState|楚
 
 [[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] places Qin Zhaoxiang Wang in the anti-Qi environment after [[QiMinWang|齐湣王]] destroys [[SongState|宋国]]. The source says he meets [[MiHeng|楚顷襄王]] at Wan and [[ZhaoHe|赵惠文王赵何]] at Zhongyang, then Qin attacks Qi and captures nine cities under [[MengAo|蒙敖]]. Qin's action here is a response to Qi's sudden overstrength as much as a continuation of Qin expansion.
 
+[[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds Qin Zhaoxiang Wang to the same-year diplomatic aftermath of Qi's collapse. The episode says he meets [[WeiZhaowang|魏昭王]] and [[HanXiwang|韩釐王]] at the Zhou capital around [[Luoyi|洛邑]], showing Qin using interstate convening while [[YanState|燕国]] is converting victory in Qi into occupation.
+
 ## Connections
 - [[QinWuwang|秦武王]] - predecessor whose sudden death opens the succession.
 - [[XuanTaihou|芈八子 / 宣太后]] - mother named in the episode.
@@ -46,3 +48,4 @@ The source also continues Qin Zhaoxiang Wang's Chu pressure. Once [[ChuState|楚
 - [[EzhiWarringStates|阏氏]], [[WusuiWarringStates|武遂]], [[FenglingWarringStates|封陵]], [[HezongAlliance|合纵]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - Zhouji 65 coalition attack and selective returned-land settlement.
 - [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], [[GongsunXiWarringStates|公孙喜]], [[MangMao|芒卯]], [[YuanjunWarringStates|垣郡]], and [[Dingtao|陶 / 定陶]] - Zhouji 67 Bai Qi campaign and surrounding Qin territorial and office sequence.
 - [[MengAo|蒙敖]], [[QiMinWang|齐湣王]], [[SongState|宋国]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 69 Qin attack on Qi after Song's fall.
+- [[WeiZhaowang|魏昭王]], [[HanXiwang|韩釐王]], [[Luoyi|洛邑]], [[ZhouRoyalHouse|周王室]], and [[AudienceVsMeetingDiplomacy|朝会之别]] - Zhouji 72 Qin-Wei-Han meeting at the Zhou capital.

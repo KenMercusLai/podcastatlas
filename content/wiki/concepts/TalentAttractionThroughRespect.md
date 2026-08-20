@@ -2,7 +2,7 @@
 title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
 type: concept
 tags: [statecraft, talent, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ Talent attraction through respect / 礼贤下士式人才吸附 is the leadershi
 
 [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] turns that delayed payoff into military result. [[YanZhaowang|燕昭王]] entrusts [[LeYi|乐毅]] with coalition command and rewards him after [[Linzi|临淄]] falls. The same episode also preserves [[JuXin|剧辛]]'s rejected caution against deep pursuit, showing that attracted talent can broaden a ruler's options even when the commander chooses another route.
 
+[[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds a boundary case through [[WangZhu|王蠋]]. Yan's first gesture toward him fits the respect pattern: keep troops away, offer wealth, and treat a hidden Qi worthy as worth recruiting. The later threat to slaughter his city if he refuses shows the mechanism's moral failure mode. Respect attracts talent only while refusal remains possible; once invitation becomes coercion, the same state-building signal turns into a [[LoyaltyCollateralDilemma|忠义牵连困境]].
+
 The concept differs from simple recruitment. The source's point is that public reverence for learning and worth can change a state's talent ecology: capable people are more willing to gather around a ruler who signals that knowledge, dignity, and moral standing will not be crushed by rank.
 
 ## Key Claims
@@ -28,6 +30,7 @@ The concept differs from simple recruitment. The source's point is that public r
 - Zhouji 52 adds that respect can be staged as a credible recovery signal after state collapse, not only as routine good rulership.
 - Zhouji 69 adds that attracted talent must later become operational judgment; recruitment succeeds only if the state can use the advisers it gathered.
 - Zhouji 70 adds that the payoff of talent attraction is tested after victory, when commanders must choose between limited gains and exploiting enemy collapse.
+- Zhouji 72 adds that talent respect fails when the conquering state treats refusal as an offense punishable through third parties.
 
 ## Connections
 - [[WeiWenhou|魏文侯]], [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - source examples.
@@ -38,3 +41,4 @@ The concept differs from simple recruitment. The source's point is that public r
 - [[YanZhaowang|燕昭王]], [[GuoWeiWarringStates|郭隗]], [[LeYi|乐毅]], and [[JuXin|剧辛]] - Zhouji 52 "千金买骨" and Yan recovery branch.
 - [[QiMinWang|齐湣王]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 Le Yi's coalition-design payoff.
 - [[Linzi|临淄]], [[QiState|齐国]], and [[YanState|燕国]] - Zhouji 70 command payoff and rejected strategic caution.
+- [[WangZhu|王蠋]], [[LoyaltyCollateralDilemma|忠义牵连困境]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 72 respect-to-coercion boundary after conquest.

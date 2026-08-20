@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6147
+wiki_total_pages: 6149
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "TianQiHuanGong"
     title: "田氏齐桓公 / Tian-family Qi Huan Gong"
     url: "/wiki/entities/tianqihuangong/"
+  - key: "TianFazhang"
+    title: "田法章 / Tian Fazhang"
+    url: "/wiki/entities/tianfazhang/"
   - key: "TianYingqi"
     title: "田英齐 / Tian Yingqi"
     url: "/wiki/entities/tianyingqi/"

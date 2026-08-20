@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？](sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28.md) — 芮淇讲透资治通鉴 episode on Wang Zhu's loyal-minister death after Yan's conquest of Qi, Le Yi's post-conquest governance, the Qin-Wei-Han meeting at Luoyi, and Tian Fazhang's flight.
 - [《资治通鉴·周纪》71丨荀子的性本恶论](sources/zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j.md) — 芮淇讲透资治通鉴 episode unpacking Sima Guang's Xunzi Wangba quotation after Qi Min Wang's death, contrasting ritual-righteous kingly rule, trust-based hegemony, and deception-driven collapse.
 - [《资治通鉴·周纪》70丨喜欢花样作死的齐国君主](sources/zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md.md) — 芮淇讲透资治通鉴 episode completing Qi Min Wang's fall through Le Yi's 284 BCE anti-Qi coalition, Linzi's capture, failed refuge in Wey/Zou/Lu, Zhuo Chi's rescue-turned-execution, and Sima Guang's Xunzi-based political lesson.
 - [《资治通鉴·周纪》69丨必看！古代帝王奇葩死法大盘点](sources/zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13.md) — 芮淇讲透资治通鉴 episode on Qi Min Wang's post-Song overreach, Qin's 285 BCE attack under Meng Ao, the killing of Qi remonstrants, Yan Zhaowang and Le Yi's anti-Qi coalition, and a source-scoped typology of ruler deaths by non-natural means.
@@ -1083,6 +1084,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王蠋 / Wang Zhu](entities/WangZhu.md) — Qi worthy man and former official who refuses Yan service after conquest and dies rather than serve two rulers or endanger his city.
+- [田法章 / Tian Fazhang](entities/TianFazhang.md) — Qi Min Wang's son, introduced as a hidden fugitive after Qi's collapse and his father's violent death.
 - [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
 - [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Sima Guang's Wangba quotation, Jixia biography, ritual-law politics, and 性恶论 contrast with Mencius.
 - [《荀子》 / Xunzi](entities/XunziText.md) — Pre-Qin text whose Wangba chapter supplies the episode's three-path ruler framework and whose Chengxiang chapter appears as a transcript-noisy side note.
@@ -7234,6 +7237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Wang Zhu case where loyal refusal of enemy service risks making nearby people collateral unless the target exits the coercive choice.
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
 - [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where repeated victory inflates a ruler, exhausts support, kills corrective feedback, and invites coalition backlash.

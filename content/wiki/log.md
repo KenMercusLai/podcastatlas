@@ -8500,6 +8500,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？
+
+Added source page for a 芮淇讲透资治通鉴 episode continuing the 284 BCE Qi-collapse aftermath through Wang Zhu's refusal to serve Yan, his death under a loyalty-versus-local-collateral dilemma, Le Yi's post-conquest discipline and appeasement measures, the Qin-Wei-Han meeting at the Zhou capital, and Tian Fazhang's flight. Created pages for Wang Zhu, Tian Fazhang, and Loyalty-Collateral Dilemma; updated overview, index, Zhou Nan Wang, Qi Min Wang, Le Yi, Yan Zhaowang, Qi/Yan state pages, Qin Zhaoxiang Wang, Wei Zhao Wang, Han Xi Wang, Zhou Royal House, Luoyi, and related people-based legitimacy/security, talent-attraction, audience-versus-meeting, and honor-over-life concepts. No direct contradiction found; Wang Zhu is kept distinct from the existing Wang Chuo page because 王蠋 and 王绰 are different figures.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》69丨必看！古代帝王奇葩死法大盘点
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qi Min Wang's overreach after conquering Song, Qin's 285 BCE attack on Qi under Meng Ao, the executions of Hu Yan and Chen Ju, Yan Zhaowang and Le Yi's anti-Qi coalition design, and a source-scoped typology of non-natural ruler deaths. Created pages for Meng Ao, Hu Yan, Chen Ju, Victory Overreach Failure, and Ruler Non-Natural Death Typology; updated overview, index, Qi Min Wang, Yan Zhaowang, Le Yi, Qin Zhaoxiang Wang, Zhou Nan Wang, Common-Enemy Alliance, Court Feedback Collapse, Talent Attraction Through Respect, Responsibility-Avoidant Killing, Qi Huan Gong, and Zhao Wuling Wang. No direct contradiction found; the Meng Ao note is recorded as this source's correction to the chronicle's Meng Wu wording.
@@ -8651,6 +8655,10 @@ Ran health before lint; health scanned 12,016 wiki pages and found no empty/stub
 ## [2026-08-20] ingest | 《资治通鉴·周纪》71丨荀子的性本恶论
 
 Added source page for a 芮淇讲透资治通鉴 episode unpacking Sima Guang's Xunzi Wangba quotation after Qi Min Wang's death. Created pages for 《荀子》, Xunzian Wangba Three Paths, Xing'e Theory, Qin Er Shi, and Zhou Wu Wang; updated overview, index, Xunzi, Qi Min Wang, Mengchangjun, Jixia Academy, Shang Tang, Song Kang Wang, Zhou Nan Wang, Sima Guang, Confucian Ideal Governance, Wangdao versus Badao, and Small Trust Builds Large Trust. No direct contradiction found; transcript-noisy renderings were normalized to existing Qi Min Wang, Zhuo Chi, Le Yi, and Xunzi/Chengxiang contexts while preserving uncertainty in the source page.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 
