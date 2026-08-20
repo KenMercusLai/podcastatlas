@@ -2,8 +2,8 @@
 title: "孔子 / Confucius"
 type: entity
 tags: [person, philosopher, chinese-classics, spring-and-autumn]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+last_updated: 2026-08-21
 ---
 
 # 孔子 / Confucius
@@ -24,6 +24,8 @@ The source's point is not to replace Confucius's intellectual image with a sport
 
 [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds Confucius as the initiator of [[Zigong|子贡 / 端木赐]]'s rescue diplomacy. When [[QiState|齐国]] threatens [[LuState|鲁国]], Confucius sends Zigong rather than treating moral cultivation as passive withdrawal; the episode uses the story to connect "君子强学而力行" to practical action.
 
+[[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] adds Confucius's double judgment of [[GuanZhong|管仲]]. The episode quotes him as praising Guan Zhong's help to [[QiHuanGong|齐桓公]] and the preservation of a Hua-Xia order, while also using "管仲之器小哉" to mark the limit between hegemonic achievement and a fuller ritual-political standard.
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode's Mencian extension.
@@ -37,3 +39,4 @@ The source's point is not to replace Confucius's intellectual image with a sport
 - [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - grandson and governance branch added by Zhouji 09.
 - [[Shijing|《诗经》]] and [[PoetryAsElitePoliticalLanguage]] - Zhouji 10 part 4 reading of poetic literacy as elite speech competence.
 - [[Zigong|子贡 / 端木赐]], [[LuState|鲁国]], and [[InterstateCascadeDiplomacy|多国连锁外交]] - Zhouji 57 rescue-diplomacy branch.
+- [[GuanZhong|管仲]], [[QiHuanGong|齐桓公]], [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 75-1 praise-and-limit branch.

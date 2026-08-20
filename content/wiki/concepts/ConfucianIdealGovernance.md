@@ -2,8 +2,8 @@
 title: "Confucian Ideal Governance / 儒家理想治理"
 type: concept
 tags: [history, politics, china, confucianism]
-sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+last_updated: 2026-08-21
 ---
 
 # Confucian Ideal Governance / 儒家理想治理
@@ -28,6 +28,8 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 
 [[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds a sharper evaluative ordering from Xunzi: ritual-righteousness, administration, and people-support are all higher political goods than wealth extraction. This keeps Confucian ideal governance practical rather than decorative, because the source ties virtue, competence, and public security to state outcomes.
 
+[[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] applies that practical standard to [[ZiChan|子产]] and [[GuanZhong|管仲]]. Zi Chan's ferrying of people is compassionate but insufficient until care becomes public infrastructure; Guan Zhong's economic and administrative success is real but still below the higher standard of ritual-righteous order because Qi's post-Guan Zhong collapse exposes [[PersonDependentGovernanceFragility|person-dependent fragility]].
+
 ## Key Claims
 - Moral ideals can constrain rulers only when institutions and reality checks hold.
 - Ancient models can become political authority even when social conditions have changed.
@@ -41,6 +43,7 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - Zhouji 49 adds that Mencian governance can demand costly administrative reversal after conquest and failure.
 - Zhouji 71 adds that Confucian governance can be framed through ritual, law, and credibility as much as through Mencian benevolent-rule language.
 - Zhouji 74 adds that Xunzian evaluation can rank rulers by whether they pursue ritual-righteousness, administration, people-support, or merely extraction.
+- Zhouji 75-1 adds that Confucian ideal governance is not anti-administration or anti-economics; it judges whether administration and economics become durable public order.
 
 ## Connections
 - [[WangMang]], [[DongZhongshu]], and [[XiangruiBook|《祥瑞》]] - source context.
@@ -54,3 +57,4 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], [[CorrectableLeadershipError|犯错能改的领导力]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 49 administrative-repair extension.
 - [[Xunzi|荀子]], [[XingETheory|性恶论]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 ritual-law and Wangba extension.
 - [[WeySijun|卫嗣君 / Wey Sijun]], [[SurveillanceBasedRulerControl|窥察制衡式君术]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 74 ruler-technique and evaluative hierarchy.
+- [[ZiChan|子产]], [[GuanZhong|管仲]], [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]], [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - Zhouji 75-1 public-governance and Guan Zhong limit branch.

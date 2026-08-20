@@ -8679,3 +8679,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲
+
+Added source page for a 芮淇讲透资治通鉴 episode comparing Zi Chan's river-crossing kindness with public governance and Guan Zhong's economic statecraft. Created pages for Zi Chan, Guan Zhong, Guanzi, Luxury Consumption As Economic Circulation, and Person-Dependent Governance Fragility; updated overview, index, Qi Huan Gong, Qi State, Zheng State, Xunzi, Xunzi Text, Xunzian Wangba Three Paths, Confucian Ideal Governance, Good Intentions Political Limits, Ruler Non-Natural Death Typology, Mencius, and Confucius. No direct contradiction found; the source extends Zhouji 74's Xunzi hierarchy and distinguishes Guan Zhong's positive luxury-circulation claim from the earlier Strategic Luxury Sabotage branch.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

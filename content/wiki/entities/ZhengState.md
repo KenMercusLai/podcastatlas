@@ -2,8 +2,8 @@
 title: "郑国 / Zheng State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-21
 ---
 
 # 郑国 / Zheng State
@@ -18,6 +18,8 @@ In the episode, Zheng besieges [[HanState|韩国]]'s Yangdi soon after [[HanJing
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] closes this branch from the other side. [[HanState|韩国]] destroys Zheng in 375 BCE and moves its capital to Xinzheng; the episode reads this as the endpoint of several Han generations pressing toward Zheng through war and [[StrategicCapitalRelocation|capital relocation]].
 
+[[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] adds a retrospective Spring-Autumn Zheng branch through [[ZiChan|子产]]. The episode presents Zi Chan's river-crossing kindness as humane but politically insufficient, then uses his early warning after Zheng's attack on Cai to show the small-state danger of military victory that ignores [[ChuState|楚国]] and [[JinState|晋国]] pressure.
+
 ## Connections
 - [[SmallStateBufferDiplomacy]] - main geopolitical frame.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - internal violence frame.
@@ -26,3 +28,4 @@ In the episode, Zheng besieges [[HanState|韩国]]'s Yangdi soon after [[HanJing
 - Yangcheng and [[GenerationalFamilyStrategy]] - Zhouji 08 part 3 Han pressure before final absorption.
 - [[FushuCity|负黍]] and [[TerritorialControlChurn]] - territorial-control branch.
 - [[GenerationalFamilyStrategy]], [[StrategicCapitalRelocation]], [[HanKangzi|韩康子]], [[HanWuzi|韩武子]], and [[HanAihou|韩哀侯]] - Zhouji 10 absorption by Han.
+- [[ZiChan|子产]], [[Mengzi|孟子 / Mencius]], [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]], and [[SmallStateBufferDiplomacy]] - Zhouji 75-1 governance and interstate-judgment extension.

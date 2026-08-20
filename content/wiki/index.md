@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲](sources/zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj.md) — 芮淇讲透资治通鉴 episode comparing Zi Chan's personal kindness with public governance and Guan Zhong's economic statecraft, luxury-consumption theory, and person-dependent limits after Qi Huan Gong's collapse.
 - [《资治通鉴·周纪》74丨还原完璧归赵真相！](sources/zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk.md) — 芮淇讲透资治通鉴 episode on He Shi Bi's origin, Bian He's recognition risk, Miu Xian and Zhao Huiwen Wang's court possession, Lin Xiangru's "完璧归赵" diplomacy with Qin, and Xunzi's ruler-evaluation hierarchy.
 - [《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？](sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u.md) — 芮淇讲透资治通鉴 episode on Qin's post-anti-Qi pressure against Wei, Tian Fazhang's hiding in Ju, Wang Sun Gu's revenge against Zhuo Chi, Qi Xiang Wang's restoration, and Jun Wang Hou's crisis-formed marriage.
 - [《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？](sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28.md) — 芮淇讲透资治通鉴 episode on Wang Zhu's loyal-minister death after Yan's conquest of Qi, Le Yi's post-conquest governance, the Qin-Wei-Han meeting at Luoyi, and Tian Fazhang's flight.
@@ -1086,6 +1087,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [管仲 / Guan Zhong](entities/GuanZhong.md) — Qi minister whose economic and administrative statecraft is praised while remaining limited by person-dependent, non-ritual durability.
+- [子产 / Zi Chan](entities/ZiChan.md) — Zheng statesman used by Zhouji 75-1 to contrast personal kindness with bridge-building, institutions, and small-state strategic judgment.
+- [《管子》 / Guanzi](entities/GuanziText.md) — Pre-Qin statecraft text cited for Guan Zhong's luxury-consumption economic circulation branch.
 - [和氏璧 / He Shi Bi](entities/HeShiBi.md) — Jade treasure whose origin, Zhao possession, Qin exchange proposal, and intact return structure Zhouji 74.
 - [蔺相如 / Lin Xiangru](entities/LinXiangru.md) — Zhao envoy who returns He Shi Bi intact by shifting the Qin exchange onto visible promise performance.
 - [卞和 / Bian He](entities/BianHe.md) — Chu figure whose punished recognition of hidden jade gives He Shi Bi its origin story.
@@ -7249,6 +7253,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Luxury Consumption As Economic Circulation / 奢侈消费的经济循环](concepts/LuxuryConsumptionEconomicCirculation.md) — Guan Zhong/Guanzi branch where rich people's labor-intensive luxury spending creates poor people's income and domestic economic circulation.
+- [Person-Dependent Governance Fragility / 人亡政息式治理脆弱性](concepts/PersonDependentGovernanceFragility.md) — Failure mode where capable statecraft depends on one minister or ruler and collapses under succession once that person is gone.
 - [Wanbi Guizhao Diplomacy / 完璧归赵式外交](concepts/WanbiGuizhaoDiplomacy.md) — Diplomatic pattern where a weaker state accepts a formal exchange to shift bad-faith liability onto the stronger party while protecting the asset.
 - [Treasure Recognition Risk / 识宝风险](concepts/TreasureRecognitionRisk.md) — Value-judgment problem where hidden treasure is hard to verify and can punish the person who first asserts its worth.
 - [Surveillance-Based Ruler Control / 窥察制衡式君术](concepts/SurveillanceBasedRulerControl.md) — Ruler technique based on hidden observation, staged tests, and counterweights rather than open institutional reform.

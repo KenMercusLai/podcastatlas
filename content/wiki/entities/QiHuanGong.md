@@ -2,8 +2,8 @@
 title: "齐桓公"
 type: entity
 tags: [person, ruler, spring-and-autumn, qi-state]
-sources: [zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]
+last_updated: 2026-08-21
 ---
 
 # 齐桓公
@@ -16,6 +16,8 @@ The source also uses the Qi-Chu exchange behind "风马牛不相及" to show how
 
 [[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] mentions Qi Huan Gong in a compressed list of rulers remembered as dying by starvation. The wiki keeps this as a source-scoped example inside [[RulerNonNaturalDeathTypology|帝王非命死法类型]], separate from the earlier trustworthiness lesson.
 
+[[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] develops both sides of that memory. On the achievement side, [[Confucius|孔子]] is quoted praising [[GuanZhong|管仲]] for helping Qi Huan Gong command the lords and preserve a Hua-Xia order. On the failure side, the episode narrates Qi Huan Gong's final starvation amid succession competition among his sons, palace factions, and treacherous ministers, turning his ending into a case for [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]].
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
 - [[CaiJi|蔡姬]] - marriage and boat-story case tied to the attack on Cai.
@@ -24,3 +26,4 @@ The source also uses the Qi-Chu exchange behind "风马牛不相及" to show how
 - [[SportsAsHistoricalReadingFrame]] - episode frame that turns the boat story into a water event.
 - [[SimaGuang|司马光]] and [[SmallTrustBuildsLargeTrust]] - Zhouji 13 part 2 trustworthiness case.
 - [[RulerNonNaturalDeathTypology|帝王非命死法类型]] - Zhouji 69 source-scoped starvation example.
+- [[GuanZhong|管仲]], [[GuanziText|《管子》]], [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - Zhouji 75-1 achievement and collapse branch.

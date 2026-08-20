@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6159
+wiki_total_pages: 6162
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "GlassGiraffe"
     title: "《玻璃长颈鹿》"
     url: "/wiki/entities/glassgiraffe/"
+  - key: "GuanziText"
+    title: "《管子》 / Guanzi"
+    url: "/wiki/entities/guanzitext/"
   - key: "GraveOfTheFireflies"
     title: "《萤火虫之墓》 / Grave of the Fireflies"
     url: "/wiki/entities/graveofthefireflies/"
@@ -737,6 +740,9 @@ wiki_pages:
   - key: "Gaide"
     title: "盖德"
     url: "/wiki/entities/gaide/"
+  - key: "GuanZhong"
+    title: "管仲 / Guan Zhong"
+    url: "/wiki/entities/guanzhong/"
   - key: "GouBian"
     title: "苟变 / Gou Bian"
     url: "/wiki/entities/goubian/"

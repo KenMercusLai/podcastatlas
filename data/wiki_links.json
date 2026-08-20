@@ -17331,6 +17331,10 @@
     "title": "关亚迪 / Guan Yadi",
     "url": "/wiki/entities/guanyadiqizhulou/"
   },
+  "GuanZhong": {
+    "title": "管仲 / Guan Zhong",
+    "url": "/wiki/entities/guanzhong/"
+  },
   "Guangdong": {
     "title": "广东 / Guangdong",
     "url": "/wiki/entities/guangdong/"
@@ -17370,6 +17374,10 @@
   "Guanyin": {
     "title": "Guanyin / 观音",
     "url": "/wiki/entities/guanyin/"
+  },
+  "GuanziText": {
+    "title": "《管子》 / Guanzi",
+    "url": "/wiki/entities/guanzitext/"
   },
   "GuiXiaoChu": {
     "title": "贵小厨 / Gui Xiao Chu",
@@ -24703,6 +24711,10 @@
     "title": "Luxury Community Pyramid",
     "url": "/wiki/concepts/luxurycommunitypyramid/"
   },
+  "LuxuryConsumptionEconomicCirculation": {
+    "title": "Luxury Consumption As Economic Circulation / 奢侈消费的经济循环",
+    "url": "/wiki/concepts/luxuryconsumptioneconomiccirculation/"
+  },
   "LuxuryResaleAuthentication": {
     "title": "Luxury Resale Authentication",
     "url": "/wiki/concepts/luxuryresaleauthentication/"
@@ -30234,6 +30246,10 @@
   "PersistentAgentMemory": {
     "title": "Persistent Agent Memory",
     "url": "/wiki/concepts/persistentagentmemory/"
+  },
+  "PersonDependentGovernanceFragility": {
+    "title": "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性",
+    "url": "/wiki/concepts/persondependentgovernancefragility/"
   },
   "PersonalAIMemory": {
     "title": "Personal AI Memory",
@@ -44875,6 +44891,10 @@
     "title": "助助",
     "url": "/wiki/entities/zhuzhu/"
   },
+  "ZiChan": {
+    "title": "子产 / Zi Chan",
+    "url": "/wiki/entities/zichan/"
+  },
   "ZiXia": {
     "title": "子夏 / Zi Xia",
     "url": "/wiki/entities/zixia/"
@@ -48174,5 +48194,9 @@
   "zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk": {
     "title": "《资治通鉴·周纪》74丨还原完璧归赵真相！",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk/"
+  },
+  "zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj": {
+    "title": "《资治通鉴·周纪》75-1丨“穷奢极侈”的祖师爷管仲",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj/"
   }
 }

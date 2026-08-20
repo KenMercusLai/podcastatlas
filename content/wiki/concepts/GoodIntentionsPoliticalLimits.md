@@ -2,8 +2,8 @@
 title: "Good Intentions Political Limits"
 type: concept
 tags: [ethics, politics, realism, responsibility]
-sources: [170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-21
 ---
 
 # Good Intentions Political Limits
@@ -24,6 +24,8 @@ The concept does not reject goodness. The source argues that people need conscie
 
 [[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]] adds the conquest-afterlife version. [[SongUnificationStrategy|先南后北]] can be strategically persuasive while the Shu campaign shows how commanders, taxation, and monopoly policy can make ordinary people pay for unification in ways the central success story hides.
 
+[[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] adds a compact public-governance version through [[ZiChan|子产]]. Zi Chan personally helps people cross cold rivers, but [[Mengzi|孟子 / Mencius]] says this is "惠而不知为政": the official's task is to make bridge-building, access, and public order reliable rather than rely on episodic kindness.
+
 ## Key Claims
 - Goodness without realism can become helpless, but realism without conscience becomes corruption.
 - The episode separates "is" and "ought" without allowing the "is" to erase the "ought."
@@ -35,6 +37,7 @@ The concept does not reject goodness. The source argues that people need conscie
 - The development branch adds that health, food, and agricultural projects need local feedback and resource accounting before success can be trusted.
 - The Song founding branch adds that internal stability, military restraint, capital logistics, and border strength can conflict even when a ruler is strategically capable.
 - The Song unification branch adds that ending fragmentation is not automatically humane if conquest discipline and postwar governance fail.
+- The Zi Chan branch adds that personal kindness can be politically inadequate when a public infrastructure problem needs a durable public fix.
 
 ## Connections
 - [[MachiavellianRealism]] and [[NonMoralPoliticalAnalysis]] - concepts that create the pressure on naive goodness.
@@ -47,3 +50,4 @@ The concept does not reject goodness. The source argues that people need conscie
 - [[DevelopmentProjectUnintendedConsequences]], [[Cameroon]], and [[DowayoPeople]] - source-35 development-policy extension.
 - [[ZhaoKuangyin|赵匡胤 / 宋太祖]], [[KaifengCapitalTradeoff|开封定都取舍]], and [[SongMilitaryCentralization|宋初军事集权]] - Song founding constrained-choice extension.
 - [[SongUnificationStrategy|先南后北]], [[SichuanPostConquestResistance|川蜀征服后反抗]], and [[WangQuanbin|王全斌]] - Song unification-cost extension.
+- [[ZiChan|子产]], [[ZhengState|郑国]], [[Mengzi|孟子 / Mencius]], [[LocalGovernanceAsCare|Local Governance As Care]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 75-1 river-crossing and bridge-building extension.

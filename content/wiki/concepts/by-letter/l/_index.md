@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 4806
+wiki_total_pages: 4808
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "LuxuryCommunityPyramid"
     title: "Luxury Community Pyramid"
     url: "/wiki/concepts/luxurycommunitypyramid/"
+  - key: "LuxuryConsumptionEconomicCirculation"
+    title: "Luxury Consumption As Economic Circulation / 奢侈消费的经济循环"
+    url: "/wiki/concepts/luxuryconsumptioneconomiccirculation/"
   - key: "LuxuryResaleAuthentication"
     title: "Luxury Resale Authentication"
     url: "/wiki/concepts/luxuryresaleauthentication/"
