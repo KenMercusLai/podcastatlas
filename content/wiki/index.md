@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？](sources/zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5.md) — 芮淇讲透资治通鉴 episode opening 周纪五, following Huang Xie as the Chu crown prince's hostage escort, Yan's coup crisis, and Xuan Taihou's decades-long Yiqu relationship ending in the killing of the Yiqu king and Qin's creation of Beidi Commandery.
 - [《资治通鉴·周纪》84丨防止秦国灭楚竟用这招？](sources/zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm.md) — 芮淇讲透资治通鉴 episode on Huang Xie / Chunshenjun persuading Qin Zhaoxiang Wang to halt Bai Qi's follow-on attack on Chu by reframing Han-Wei route risk, overextension, and Qin-Chu alliance as Qin's own strategic interest.
 - [Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555.md) — All-In episode with Gavin Baker on Anthropic IPO rumors, open-source and decentralized AI, Nvidia GPU-backed compute financing, data-center constraints, Amazon DSP labor pressure, Grokbot, and Workday/Silver Lake software valuation signals.
 - [《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？](sources/zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1.md) — 芮淇讲透资治通鉴 episode on Wei Anxi Wang's failed anti-Qin maneuvering, the Huayang battle, Han's threatened-defection rescue appeal to Qin, and Su Dai's "抱薪救火" warning against ceding land for peace.
@@ -1117,6 +1118,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Later strategist used by the episode title as a reception marker for Le Yi's commander reputation.
 - [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned restoration general whose Jimo victory, post-restoration suspicion, and Di campaign hesitation show the cost of high merit under a fearful ruler.
 - [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose removal of Le Yi leads to Qi Jie's failure and the collapse of Yan's Qi occupation.
+- [燕武成王 / King Wucheng of Yan](entities/YanWuchengwang.md) — Yan ruler installed after Gongsun Cao kills Yan Huiwang amid Yan's post-Qi-collapse weakness.
+- [公孙操 / Gongsun Cao](entities/GongsunCao.md) — Yan chief minister who kills Yan Huiwang and installs Yan Wucheng Wang as Qin, Wei, and Chu exploit Yan disorder.
 - [骑劫 / Qi Jie](entities/QiJie.md) — Yan replacement general whose harsh occupation acts harden Jimo resistance before he is killed in the fire-ox raid.
 - [即墨 / Jimo](entities/JimoWarringStates.md) — Final Qi-held city where Tian Dan stages the fire-ox counterattack against Yan.
 - [廉颇 / Lian Po](entities/LianPo.md) — Zhao general whose Mianchi contingency plan and later apology to Lin Xiangru turn rank resentment into the "将相和" model of internal unity under Qin pressure.
@@ -1184,6 +1187,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [昭雎 / Zhao Ju](entities/ZhaoJu.md) — Chu minister who warns Chu Huaiwang not to trust Qin and later argues against bypassing the trapped king and absent crown prince.
 - [临晋 / Linjin (Warring States)](entities/LinjinWarringStates.md) — Qin-Han-Wei meeting site where Qin repairs relations after the Mi Heng hostage incident breaks the Qin-Chu alignment.
 - [黄棘 / Huangji](entities/Huangji.md) — Qin-Chu meeting site where Qin Zhaoxiang Wang and Chu Huaiwang renew alliance and Qin returns Shangyong.
+- [甘泉宫 / Ganquan Palace](entities/GanquanPalace.md) — Palace setting where Xuan Taihou kills the Yiqu king before Qin absorbs Yiqu.
 - [封陵 / Fengling (Warring States)](entities/FenglingWarringStates.md) — Wei crossing point taken by Qin during the 303 BCE pressure on Han and Wei.
 - [阳晋 / Yangjin (Warring States)](entities/YangjinWarringStates.md) — Wei crossing point captured by Qin alongside Puban and Fengling in Zhouji 60.
 - [蒲阪 / Puban (Warring States)](entities/PubanWarringStates.md) — Wei crossing point captured by Qin in 303 BCE and returned in 302 BCE as a repair signal.
@@ -1217,6 +1221,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch and the later route context after Gan Mao's Yiyang capture.
 - [郑袖 / Zheng Xiu](entities/ZhengXiu.md) — Chu Huaiwang favorite whose status anxiety is turned into the backchannel that saves Zhang Yi.
 - [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks, demands, and later captures before reorganizing it as a Qin commandery.
+- [南阳郡 / Nanyang Commandery](entities/NanyangCommandery.md) — Qin commandery organized around newly gained northern Chu territory in the Zhouji 85 frame.
 - [上庸 / Shangyong](entities/Shangyong.md) — Six-county Qin ransom object invoked to persuade Zheng Xiu to help free Zhang Yi.
 - [燕昭王 / King Zhao of Yan](entities/YanZhaowang.md) — Yan ruler Ji Ping who rebuilds after Qi's occupation by mourning losses and making talent recruitment credible.
 - [郭隗 / Guo Wei (Warring States)](entities/GuoWeiWarringStates.md) — Yan adviser whose "千金买骨" story turns ruler respect into a public talent-attraction signal.
@@ -1270,6 +1275,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫平侯 / Marquis Ping of Wey](entities/WeyPinghou.md) — Wey ruler whose death and succession by Wey Sijun mark another stage in weak-state status decline.
 - [武夏 / Wu Xia](entities/WuxiaWarringStates.md) — Zhanguo Ce figure who reframes a neglected Wey envoy's request through Wei's higher-priority Qin diplomacy.
 - [义渠 / Yiqu](entities/YiquState.md) — Western/rear frontier polity whose partial submission to Qin is not yet final destruction.
+- [北地郡 / Beidi Commandery](entities/BeidiCommandery.md) — Qin commandery created after the destruction of Yiqu, completing a northern frontier line with Longxi and Shangjun.
+- [陇西郡 / Longxi Commandery](entities/LongxiCommandery.md) — Qin northern frontier commandery named with Beidi and Shangjun in the post-Yiqu defensive line.
 - [赵武灵王 / King Wuling of Zhao](entities/ZhaoWulingwang.md) — Zhao ruler whose branch now joins reform signaling, title restraint, Zhang Yi's threat speech, and the Wu Wa-Zhao He-Zhao Zhang succession setup.
 - [肥义 / Fei Yi](entities/FeiYi.md) — Senior Zhao minister honored by Zhao Wuling Wang as part of the new-ruler signaling sequence.
 - [犀首公孙衍 / Gongsun Yan](entities/GongsunYan.md) — Wei-born strategist/title-holder whom Qin uses to disrupt the Qi-Wei-Zhao side of hezong, later previewed as Zhang Yi's rival.
@@ -7406,6 +7413,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No Small Matters in Governance / 治无小乱无大](concepts/NoSmallMattersInGovernance.md) — Wey Sijun's strict-law principle that a small enforcement failure can become a ruler-level threat to order.
 - [Weak-State Status Demotion / 弱国名分降格](concepts/WeakStateStatusDemotion.md) — Pattern where weaker states lose title weight while stronger Warring States powers claim higher status.
 - [Qin Frontier Buffer Management / 秦国后方边患管理](concepts/QinFrontierBufferManagement.md) — Qin pattern of managing Yiqu as a rear-frontier constraint while maintaining eastward pressure.
+- [Intimate Frontier Pacification / 亲密关系式边患安抚](concepts/IntimateFrontierPacification.md) — Xuan Taihou/Yiqu pattern where a private relationship quiets Qin's rear frontier before turning into leader decapitation and direct administration.
 - [New Ruler Reform Signaling / 新君改革铺垫信号](concepts/NewRulerReformSignaling.md) — Zhao Wuling Wang's early adviser, fault-correction, and old-minister gestures read as preparation for later reform.
 - [Strategic Concession Diplomacy / 欲擒故纵式让利外交](concepts/StrategicConcessionDiplomacy.md) — Qin pattern of returning smaller assets or targeted concessions to fracture pressure and extract larger strategic advantage.
 - [Unverified Territorial Promise Trap / 未验地先断交陷阱](concepts/UnverifiedTerritorialPromiseTrap.md) — Zhang Yi's 313 BCE tactic of making Chu break with Qi before Qin delivered the promised Shangyu land.

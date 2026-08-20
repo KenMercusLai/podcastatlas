@@ -2,8 +2,8 @@
 title: "Qin Frontier Buffer Management / 秦国后方边患管理"
 type: concept
 tags: [frontier, statecraft, diplomacy, pre-qin-history, warring-states, qin-state]
-sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+last_updated: 2026-08-21
 ---
 
 # Qin Frontier Buffer Management / 秦国后方边患管理
@@ -16,12 +16,15 @@ This makes the concept a useful supplement to [[QinEastwardPressure|Qin eastward
 
 [[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] extends the frame from Yiqu to [[BaShu|巴蜀]]. Qin's conquest of [[BaStateWarringStates|巴国]] and [[ShuStateWarringStates|蜀国]] gives it a protected resource base, but the appointment of [[ChenZhuangWarringStates|陈庄]] as Shu chancellor creates a new rear problem when he kills [[ShuHouNingTong|蜀侯宁通]] and rebels. The frontier issue is therefore not only external polities; it can also be post-conquest delegation inside a difficult region.
 
+[[zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]] returns to Yiqu and turns buffer management into final absorption. The episode says [[XuanTaihou|芈八子 / 宣太后]]'s long relationship with the Yiqu king helped keep the rear frontier quiet while Qin fought elsewhere, but once the moment was ripe she killed him at [[GanquanPalace|甘泉宫]]. Qin then destroyed [[YiquState|义渠]] and created [[BeidiCommandery|北地郡]], joining [[LongxiCommandery|陇西郡]] and [[Shangjun|上郡]] into a more coherent northern frontier.
+
 ## Key Claims
 - Rear-frontier policy is shaped by the main strategic front; Qin's Yiqu stance follows from its eastern focus.
 - Submission is not the same as final conquest, especially when the frontier polity remains capable of later conflict.
 - Partial territorial incorporation can reduce immediate danger while stopping short of a full absorption campaign.
 - The concept shows Qin's rise as a multi-front management problem, not only a linear march east.
 - Zhouji 52 adds that conquered rear regions can become dangerous through Qin's own appointees, especially where terrain and resources make local autonomy tempting.
+- Zhouji 85 adds that Qin can use palace-level intimacy as temporary frontier pacification, then replace the buffer with direct commandery administration when timing changes.
 
 ## Connections
 - [[QinState|秦国]] and [[YiquState|义渠]] - state and frontier counterpart.
@@ -29,3 +32,4 @@ This makes the concept a useful supplement to [[QinEastwardPressure|Qin eastward
 - [[ZhangYiStrategist|张仪]] and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - parallel evidence that Qin alternates force, patience, and tactical restraint.
 - [[ZizhiTongjian|《资治通鉴》]] and [[ZhouXianwang|周显王]] - source and annalistic frame.
 - [[BaStateWarringStates|巴国]], [[ShuStateWarringStates|蜀国]], [[BaShu|巴蜀]], [[SimaCuo|司马错]], [[ChenZhuangWarringStates|陈庄]], [[ShuHouNingTong|蜀侯宁通]], and [[AppointedGovernorSecessionRisk|受任地方长官割据风险]] - Zhouji 52 conquest, appointment, and rebellion branch.
+- [[XuanTaihou|芈八子 / 宣太后]], [[GanquanPalace|甘泉宫]], [[BeidiCommandery|北地郡]], [[LongxiCommandery|陇西郡]], [[Shangjun|上郡]], and [[IntimateFrontierPacification|亲密关系式边患安抚]] - Zhouji 85 intimate pacification and final commandery line.

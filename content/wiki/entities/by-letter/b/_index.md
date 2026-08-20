@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6198
+wiki_total_pages: 6204
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "BeijingOrientalPlaza"
     title: "北京东方新天地 / Beijing Oriental Plaza"
     url: "/wiki/entities/beijingorientalplaza/"
+  - key: "BeidiCommandery"
+    title: "北地郡 / Beidi Commandery"
+    url: "/wiki/entities/beidicommandery/"
   - key: "BeitingAncientCity"
     title: "北庭故城 / Beiting Ancient City"
     url: "/wiki/entities/beitingancientcity/"

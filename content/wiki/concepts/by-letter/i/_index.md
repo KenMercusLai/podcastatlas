@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 4849
+wiki_total_pages: 4850
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "IntimacyBeyondGenderScript"
     title: "Intimacy Beyond Gender Script / 超越性别脚本的亲密"
     url: "/wiki/concepts/intimacybeyondgenderscript/"
+  - key: "IntimateFrontierPacification"
+    title: "Intimate Frontier Pacification / 亲密关系式边患安抚"
+    url: "/wiki/concepts/intimatefrontierpacification/"
   - key: "InvasiveSpeciesManagement"
     title: "Invasive Species Management"
     url: "/wiki/concepts/invasivespeciesmanagement/"

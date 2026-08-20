@@ -8807,3 +8807,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Huang Xie / Chunshen
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12142 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` was not provider-qualified.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？
+
+Added source page for a 芮淇讲透资治通鉴 episode opening 周纪五, following Huang Xie escorting the Chu crown prince into Qin as hostage, Qin's creation of Nanyang Commandery, Yan Huiwang's coup-and-succession crisis, and Xuan Taihou's long relationship with the Yiqu king ending in his killing at Ganquan Palace and Qin's creation of Beidi Commandery. Created pages for Beidi Commandery, Longxi Commandery, Nanyang Commandery, Ganquan Palace, Yan Wucheng Wang, Gongsun Cao, and Intimate Frontier Pacification; updated overview, index, Xuan Taihou, Yiqu, Qin Frontier Buffer Management, Qin State, Qin Zhaoxiang Wang, Chunshenjun, Mi Heng, Chu State, Yan Huiwang, Yan State, Shangjun, and Zhou Nan Wang. No direct contradiction found; the source explicitly leaves Xuan Taihou's personal motive uncertain while recording the strategic effect of rear-frontier quieting and later absorption.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

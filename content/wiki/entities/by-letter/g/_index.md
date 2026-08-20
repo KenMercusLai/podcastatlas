@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6198
+wiki_total_pages: 6204
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "GongsunXiWarringStates"
     title: "公孙喜 / Gongsun Xi"
     url: "/wiki/entities/gongsunxiwarringstates/"
+  - key: "GongsunCao"
+    title: "公孙操 / Gongsun Cao"
+    url: "/wiki/entities/gongsuncao/"
   - key: "GongsunWuzhi"
     title: "公孙无知 / Gongsun Wuzhi"
     url: "/wiki/entities/gongsunwuzhi/"
@@ -740,6 +743,9 @@ wiki_pages:
   - key: "GongsunYan"
     title: "犀首公孙衍 / Gongsun Yan"
     url: "/wiki/entities/gongsunyan/"
+  - key: "GanquanPalace"
+    title: "甘泉宫 / Ganquan Palace"
+    url: "/wiki/entities/ganquanpalace/"
   - key: "GanMao"
     title: "甘茂 / Gan Mao"
     url: "/wiki/entities/ganmao/"
