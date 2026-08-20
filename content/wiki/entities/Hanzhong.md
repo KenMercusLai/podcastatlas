@@ -2,7 +2,7 @@
 title: "汉中 / Hanzhong"
 type: entity
 tags: [place, region, pre-qin, warring-states, chu-state, qin-state]
-sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
 last_updated: 2026-08-20
 ---
 
@@ -12,8 +12,11 @@ last_updated: 2026-08-20
 
 The episode's interpretive point is that Hanzhong should have become [[ChuHuaiwang|楚怀王]]'s practical recovery objective. Instead, he remains fixated on the six hundred li of [[Shangyu|商於]] that [[ZhangYiStrategist|张仪]] had only promised verbally. Hanzhong therefore anchors the gap between real, newly lost territory and imagined compensation.
 
+[[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] uses Hanzhong as evidence of Zhang Yi's value to [[QinState|秦国]]. The host says Zhang Yi had recently helped Qin take six hundred li of Hanzhong, which makes his exposure in Chu especially bitter: a minister who just produced major territory can still become a [[MinisterAsExchangeableAsset|可交换功臣]] in a later bargain.
+
 ## Connections
 - [[DanyangBattle|丹阳之战]] - battle after which Qin takes the region.
 - [[QinState|秦国]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - capturing state, losing state, and ruler.
 - [[Shangyu|商於]] and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - promised land that distracts from the concrete loss.
 - [[AngerDrivenWarDecision|因怒兴师]] - decision frame in which recovery priorities collapse.
+- [[MinisterAsExchangeableAsset|可交换功臣]] - Zhouji 53 interpretation of why Zhang Yi's prior territorial service does not guarantee personal protection.

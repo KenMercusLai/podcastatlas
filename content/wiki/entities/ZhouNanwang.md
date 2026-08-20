@@ -2,7 +2,7 @@
 title: "周赧王 / Zhou Nan Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 
 [[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] extends the same frame into Zhou Nan Wang's fourth year. The Zhou king remains annalistic backdrop while the episode follows [[YanZhaowang|燕昭王]]'s recovery politics, records [[HanXuanhuiwang|韩宣惠王 / 韩惠王]]'s death and [[HanXiangwang|韩襄王]]'s succession, and turns [[ChenZhuangWarringStates|陈庄]]'s killing of [[ShuHouNingTong|蜀侯宁通]] into a Qin southwestern governance problem.
 
+[[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] remains in the same 311 BCE neighborhood. The Zhou king again functions as chronological frame while [[YingSi|秦惠文王]], [[ChuHuaiwang|楚怀王]], and [[ZhangYiStrategist|张仪]] turn the Qin-Chu conflict from battlefield aftermath into a land-for-person bargaining and envoy-risk problem around [[Qianzhong|黔中]].
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
@@ -29,3 +31,4 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 - [[Chulizi|樗里子]], [[ZhangYiStrategist|张仪]], [[ChuHuaiwang|楚怀王]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 second-year frame.
 - [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 third-year campaign consequence frame.
 - [[HanXuanhuiwang|韩宣惠王 / 韩惠王]], [[HanXiangwang|韩襄王]], [[ChenZhuangWarringStates|陈庄]], and [[ShuStateWarringStates|蜀国]] - Zhouji 52 fourth-year succession and rebellion branch.
+- [[Qianzhong|黔中]], [[ZhengXiu|郑袖]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 Qin-Chu exchange and Zhang Yi survival branch.

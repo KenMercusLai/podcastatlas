@@ -2,7 +2,7 @@
 title: "楚怀王 / King Huai of Chu"
 type: entity
 tags: [person, ruler, pre-qin, warring-states, chu-state]
-sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
+sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
 last_updated: 2026-08-20
 ---
 
@@ -24,6 +24,8 @@ The source treats the notice as a preview rather than a developed biography. It 
 
 [[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] keeps him in the cliffhanger position rather than adding a new completed decision. After Yan and Qin-Shu material, the episode returns to Chu Huai Wang's hatred of [[ZhangYiStrategist|张仪]] and sets up Zhang Yi entering Chu despite the earlier Shangyu deception and Qin-Chu battlefield losses.
 
+[[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] follows that hatred into a new decision. Chu Huai Wang initially rejects [[YingSi|秦惠文王]]'s land exchange and demands Zhang Yi in place of [[Qianzhong|黔中]], then imprisons Zhang Yi and prepares to kill him. He reverses after [[ZhengXiu|郑袖]] warns of Qin retaliation and a possible Qin ransom package involving [[Shangyong|上庸]], and he later accepts Zhang Yi's argument for Qin-Chu brotherhood because releasing Zhang Yi lets him avoid ceding Qianzhong or violating the [[EnvoyKillingTaboo|不斩来使]] norm. The episode therefore treats him as vulnerable to Zhang Yi again, but also as a ruler seeking an exit from an overcommitted revenge posture.
+
 ## Connections
 - [[ChuState|楚国]] - polity he rules after the succession.
 - [[ChuWeiwang|楚威王]] - predecessor and father in the source notice.
@@ -35,3 +37,4 @@ The source treats the notice as a preview rather than a developed biography. It 
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], [[QiState|齐国]], [[QiXuanWang|齐宣王]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 deception, alliance break, and failed damage-control branch.
 - [[DanyangBattle|丹阳之战]], [[LantianBattle|蓝田之战]], [[Hanzhong|汉中]], [[Wuguan|武关]], [[QuGai|屈匄]], [[QuYuan|屈原]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 rage-war, battlefield loss, and court-capture sequel.
 - [[ZhangYiStrategist|张仪]] - Zhouji 52 closing hook around Zhang Yi entering Chu despite Chu Huai Wang's hatred.
+- [[ZhengXiu|郑袖]], [[Qianzhong|黔中]], [[Shangyong|上庸]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 prison, release, and face-saving diplomatic exit branch.

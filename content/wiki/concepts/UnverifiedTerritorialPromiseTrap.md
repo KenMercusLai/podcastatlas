@@ -2,7 +2,7 @@
 title: "Unverified Territorial Promise Trap / 未验地先断交陷阱"
 type: concept
 tags: [diplomacy, deception, risk-management, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]
+sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]
 last_updated: 2026-08-20
 ---
 
@@ -16,6 +16,8 @@ The trap has two stages. First, a huge prospective gain makes the target act bef
 
 [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] shows the trap's aftermath. Once Zhang Yi's promised Shangyu transfer collapses, Chu Huaiwang moves from被骗 to revenge, fights Qin and Qi at [[DanyangBattle|丹阳之战]], loses [[Hanzhong|汉中]], and then escalates toward [[LantianBattle|蓝田之战]]. The trap therefore creates a second-order military risk: humiliation can turn a bad bargain into [[AngerDrivenWarDecision|忿兵决策]].
 
+[[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] shows a third-order consequence: after the alliance rupture and battlefield losses, Chu Huaiwang still wants Zhang Yi personally. The old trap therefore keeps shaping later bargaining. [[Qianzhong|黔中]] becomes the price Chu names for revenge, and Zhang Yi survives only after court backchannels and envoy-risk calculations make release safer than execution.
+
 The concept differs from [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]]. In the earlier Zhang Yi cases, Qin gives back a real smaller asset from a position of strength to extract a larger concession. Here the promised asset is the bait, and the target pays first by weakening its own alliance position.
 
 ## Key Claims
@@ -26,6 +28,7 @@ The concept differs from [[StrategicConcessionDiplomacy|欲擒故纵式让利外
 - Once the target has offended both sides, post-error decisions become damage control rather than ordinary strategy.
 - The trap shows how [[LianhengStrategy|连横]] can work by breaking a single anti-Qin link instead of persuading every eastern state at once.
 - The trap's aftermath can be worse than the original bargain when humiliation turns verification failure into revenge war.
+- The trap can also persist after the war: the target may keep seeking personal revenge against the deceiver, creating new bargaining and envoy-risk problems.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, authorizing ruler, and state using the promise.
@@ -34,3 +37,4 @@ The concept differs from [[StrategicConcessionDiplomacy|欲擒故纵式让利外
 - [[Shangyu|商於]] - promised land whose scale makes the trap attractive.
 - [[CourtFeedbackCollapse|君臣反馈失灵]], [[TacticalCredibilityCost|战术信用成本]], and [[ZonghengjiaDiplomacy|纵横家外交]] - advice failure, credibility cost, and broader persuader-diplomacy frame.
 - [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|忿兵决策]] - Zhouji 51 aftermath once the promise fails.
+- [[Qianzhong|黔中]], [[ZhengXiu|郑袖]], [[CourtBackchannelSurvival|宫廷后门自救]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 later personal-revenge and release branch.

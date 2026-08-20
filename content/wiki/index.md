@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》53丨秦惠王用张仪换地皮](sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk.md) — 芮淇讲透资治通鉴 episode on Qin Huiwen Wang's land-for-Qianzhong proposal, Chu Huaiwang demanding Zhang Yi instead, Zhang Yi's survival through Zheng Xiu and palace backchannels, and the politics of treating a minister as exchangeable.
 - [《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘](sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2.md) — 芮淇讲透资治通鉴 episode on Yan Zhaowang's talent recruitment through Guo Wei, Le Yi and Ju Xin's arrival in Yan, Chen Zhuang's Ba-Shu rebellion against Qin, and Zhang Yi entering Chu.
 - [《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！](sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac.md) — 芮淇讲透资治通鉴 episode on why Chu Huaiwang fell for Zhang Yi, the Danyang and Lantian defeats, Hanzhong's loss, and the danger of raising armies from anger.
 - [《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的](sources/zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's promise of six hundred li of Shangyu to break the Qi-Chu alliance, Chen Zhen's ignored verification-first advice, and Chu Huaiwang's escalation from diplomatic isolation to war.
@@ -1061,6 +1062,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郑袖 / Zheng Xiu](entities/ZhengXiu.md) — Chu Huaiwang favorite whose status anxiety is turned into the backchannel that saves Zhang Yi.
+- [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks in exchange for land, then Chu Huaiwang prices against Zhang Yi himself.
+- [上庸 / Shangyong](entities/Shangyong.md) — Six-county Qin ransom object invoked to persuade Zheng Xiu to help free Zhang Yi.
 - [燕昭王 / King Zhao of Yan](entities/YanZhaowang.md) — Yan ruler Ji Ping who rebuilds after Qi's occupation by mourning losses and making talent recruitment credible.
 - [郭隗 / Guo Wei (Warring States)](entities/GuoWeiWarringStates.md) — Yan adviser whose "千金买骨" story turns ruler respect into a public talent-attraction signal.
 - [乐毅 / Le Yi](entities/LeYi.md) — Zhao-origin talent recruited by Yan Zhaowang and previewed as the general who will help Yan avenge Qi.
@@ -7130,6 +7134,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [可交换功臣 / Minister as Exchangeable Asset](concepts/MinisterAsExchangeableAsset.md) — Ruler calculation where a valued minister's survival, transfer, or death can all be converted into state advantage.
+- [宫廷后门自救 / Court Backchannel Survival](concepts/CourtBackchannelSurvival.md) — Hostile-court survival pattern where preexisting palace relationships and private status fears change a ruler's decision.
+- [不斩来使 / Envoy Killing Taboo](concepts/EnvoyKillingTaboo.md) — Diplomatic norm that makes killing an envoy a costly violation and potential war pretext.
 - [受任地方长官割据风险 / Appointed Governor Secession Risk](concepts/AppointedGovernorSecessionRisk.md) — Post-conquest governance risk where a centrally appointed local official uses terrain, resources, and delegated authority to attempt independent rule.
 - [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — Governance failure where humiliation turns into war aim, replacing strategic recovery with emotionally driven escalation.
 - [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — Mencian leadership lesson that the decisive test after a mistake is visible correction rather than regret, excuses, or face-saving.

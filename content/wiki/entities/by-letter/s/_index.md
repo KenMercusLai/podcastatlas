@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6065
+wiki_total_pages: 6068
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "SanlianLifeWeekly"
     title: "三联生活周刊 / Sanlian Life Weekly"
     url: "/wiki/entities/sanlianlifeweekly/"
+  - key: "Shangyong"
+    title: "上庸 / Shangyong"
+    url: "/wiki/entities/shangyong/"
   - key: "Shangjun"
     title: "上郡 / Shangjun"
     url: "/wiki/entities/shangjun/"

@@ -2,7 +2,7 @@
 title: "Strategic Concession Diplomacy / 欲擒故纵式让利外交"
 type: concept
 tags: [diplomacy, strategy, persuasion, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
+sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ This differs from [[LowPostureStatecraft|低姿态权宜]]. Low posture displays
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] clarifies the boundary of this concept by contrast. Zhang Yi's promise of six hundred li of [[Shangyu|商於]] to [[ChuHuaiwang|楚怀王]] is not the same as returning Puyang, Jiaoyi, or Quwo: Qin does not first deliver a visible concession, but asks Chu to break with [[QiState|齐国]] before the land is verified. That case belongs more directly to [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]].
 
+[[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] adds another boundary case. [[YingSi|秦惠文王]] proposes a land exchange involving [[Wuguan|武关]], [[Shangyu|商於]], and [[Qianzhong|黔中]], but Chu Huaiwang changes the unit of exchange from land to [[ZhangYiStrategist|张仪]] himself. This is not ordinary returned-land diplomacy; it belongs more directly to [[MinisterAsExchangeableAsset|可交换功臣]] because the human envoy becomes the asset whose use or death may produce Qin advantage.
+
 ## Key Claims
 - A concession can increase pressure when it is backed by superior force and framed as generosity.
 - The smaller returned asset matters because it creates a visible exchange situation; the larger territorial gain comes from the other party's reciprocal response.
@@ -26,6 +28,7 @@ This differs from [[LowPostureStatecraft|低姿态权宜]]. Low posture displays
 - The episode uses the move to turn Zhang Yi from a previewed persuader into a Qin minister whose value is measured by territorial gain.
 - Zhouji 35 adds that returned-land diplomacy can serve status preparation, not only immediate territorial exchange.
 - Zhouji 50 marks a contrast case: an unverified promised concession should not be collapsed into the earlier pattern of real returned-land diplomacy.
+- Zhouji 53 marks a second contrast case: a formal land exchange can become a person-for-land bargain when revenge and envoy status enter the calculation.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, ruler, and state using the tactic.
@@ -33,3 +36,4 @@ This differs from [[LowPostureStatecraft|低姿态权宜]]. Low posture displays
 - [[Jiaoyi|焦邑]], [[QuwoWarringStates|曲沃]], and [[YingSi|秦惠文王]] - Zhouji 35 returned-land and title-preparation extension.
 - [[LianhengStrategy|连横]], [[ZonghengjiaDiplomacy|纵横家外交]], and [[QinEastwardPressure|秦国东进压力]] - broader diplomatic and military field.
 - [[LowPostureStatecraft|低姿态权宜]], [[TacticalCredibilityCost|战术信用成本]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - adjacent concepts that clarify how this differs from weakness-display, trust-damaging deception, and promise-before-delivery traps.
+- [[Qianzhong|黔中]], [[Wuguan|武关]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 land-exchange and human-asset boundary case.

@@ -2,7 +2,7 @@
 title: "连横 / Lianheng Strategy"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
+sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
 last_updated: 2026-08-20
 ---
 
@@ -26,6 +26,8 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 
 [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] shows lianheng's aftereffect once the separation succeeds. Chu is no longer protected by a working Qi tie; instead, Qi joins Qin at [[DanyangBattle|丹阳之战]], Qin takes [[Hanzhong|汉中]], and Chu Huaiwang's rage-driven advance toward [[LantianBattle|蓝田之战]] exposes Chu to Han and Wei pressure. The lianheng gain is therefore not merely diplomatic non-cooperation, but the conversion of a broken alliance into military isolation.
 
+[[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] shows lianheng after the military payoff, when Zhang Yi personally has to survive the target court. Once released through [[CourtBackchannelSurvival|宫廷后门自救]], Zhang Yi argues that [[QinState|秦国]] can press [[HanState|韩国]] and [[WeiState|魏国]] into attacking [[ChuState|楚国]], use [[BaShu|巴蜀]] downstream pressure, and enter through [[Wuguan|武关]]. Lianheng here is a threat map as well as an alliance split: Chu is invited to accept Qin-Chu brotherhood because every alternative leaves it isolated.
+
 ## Key Claims
 - Lianheng is defined against hezong: where hezong tries to bind the eastern states together against Qin, lianheng turns Qin pressure into separate bargains.
 - Su Qin's critique treats lianheng persuaders as misaligned agents because the land they recommend ceding to Qin belongs to rulers and states, not to the persuaders themselves.
@@ -38,6 +40,7 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - Zhouji 39 shows that lianheng can become court factional politics: Zhang Yi's Qin-facing line defeats Hui Shi's Qi-Chu restraint line before it becomes stable policy.
 - Zhouji 50 shows lianheng as sequencing: Qin gets Chu to destroy its Qi tie before Qin has to deliver the promised territorial reward.
 - Zhouji 51 shows that lianheng can profit from the target's post-deception rage: a broken alliance plus angry unilateral war is more useful to Qin than mere non-cooperation.
+- Zhouji 53 shows lianheng as post-crisis coercive reassurance: after Zhang Yi survives Chu imprisonment, he offers Qin-Chu peace while naming the routes and allies Qin can use if Chu refuses.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, ruler, and state setting for the coming lianheng branch.
@@ -49,3 +52,4 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - [[HuiShi|惠施 / 惠师]], [[ChenZhenWarringStates|陈枕]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[SituationalPoliticalPivot|因事立道式政治转身]] - Zhouji 39 court-faction extension.
 - [[ChuHuaiwang|楚怀王]], [[QiState|齐国]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 promise-before-delivery extension.
 - [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], [[HanState|韩国]], [[WeiState|魏国]], and [[AngerDrivenWarDecision|忿兵决策]] - Zhouji 51 military isolation after alliance rupture.
+- [[Qianzhong|黔中]], [[ZhengXiu|郑袖]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 Zhang Yi survival and Qin-Chu bargaining branch.

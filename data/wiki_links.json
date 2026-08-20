@@ -10059,6 +10059,10 @@
     "title": "Coupon-Led Transaction Growth",
     "url": "/wiki/concepts/couponledtransactiongrowth/"
   },
+  "CourtBackchannelSurvival": {
+    "title": "宫廷后门自救 / Court Backchannel Survival",
+    "url": "/wiki/concepts/courtbackchannelsurvival/"
+  },
   "CourtFeedbackCollapse": {
     "title": "Court Feedback Collapse / 君臣反馈失灵",
     "url": "/wiki/concepts/courtfeedbackcollapse/"
@@ -13410,6 +13414,10 @@
   "EnvisionAESC": {
     "title": "Envision AESC / 远景动力",
     "url": "/wiki/entities/envisionaesc/"
+  },
+  "EnvoyKillingTaboo": {
+    "title": "不斩来使 / Envoy Killing Taboo",
+    "url": "/wiki/concepts/envoykillingtaboo/"
   },
   "EnvyContemptComparison": {
     "title": "Envy-Contempt Comparison / 嫉妒-鄙视比较",
@@ -26419,6 +26427,10 @@
     "title": "Minimalist Entrepreneurship",
     "url": "/wiki/concepts/minimalistentrepreneurship/"
   },
+  "MinisterAsExchangeableAsset": {
+    "title": "可交换功臣 / Minister as Exchangeable Asset",
+    "url": "/wiki/concepts/ministerasexchangeableasset/"
+  },
   "MinistryOfFinanceChina": {
     "title": "Ministry of Finance of China / 中国财政部",
     "url": "/wiki/entities/ministryoffinancechina/"
@@ -31915,6 +31927,10 @@
     "title": "乾隆 / Qianlong Emperor",
     "url": "/wiki/entities/qianlongemperor/"
   },
+  "Qianzhong": {
+    "title": "黔中 / Qianzhong",
+    "url": "/wiki/entities/qianzhong/"
+  },
   "QiaoFamilyCompound": {
     "title": "Qiao Family Compound / 乔家大院",
     "url": "/wiki/entities/qiaofamilycompound/"
@@ -35146,6 +35162,10 @@
   "ShangyeJiushiZheyang": {
     "title": "商业就是这样",
     "url": "/wiki/entities/shangyejiushizheyang/"
+  },
+  "Shangyong": {
+    "title": "上庸 / Shangyong",
+    "url": "/wiki/entities/shangyong/"
   },
   "Shangyu": {
     "title": "商於 / Shangyu",
@@ -44011,6 +44031,10 @@
     "title": "郑文公 / Duke Wen of Zheng",
     "url": "/wiki/entities/zhengwengong/"
   },
+  "ZhengXiu": {
+    "title": "郑袖 / Zheng Xiu",
+    "url": "/wiki/entities/zhengxiu/"
+  },
   "ZhengXugong": {
     "title": "郑繻公 / Duke Xu of Zheng",
     "url": "/wiki/entities/zhengxugong/"
@@ -47510,5 +47534,9 @@
   "zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2": {
     "title": "《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2/"
+  },
+  "zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk": {
+    "title": "《资治通鉴·周纪》53丨秦惠王用张仪换地皮",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk/"
   }
 }

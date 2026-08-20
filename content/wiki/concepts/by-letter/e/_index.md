@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 4759
+wiki_total_pages: 4762
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "ExtremeWildfire"
     title: "Extreme Wildfire"
     url: "/wiki/concepts/extremewildfire/"
+  - key: "EnvoyKillingTaboo"
+    title: "不斩来使 / Envoy Killing Taboo"
+    url: "/wiki/concepts/envoykillingtaboo/"
   - key: "EffortNarrativeInterrogation"
     title: "努力叙事追问 / Effort Narrative Interrogation"
     url: "/wiki/concepts/effortnarrativeinterrogation/"

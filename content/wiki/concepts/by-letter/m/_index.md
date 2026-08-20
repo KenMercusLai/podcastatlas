@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 4759
+wiki_total_pages: 4762
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "MarketForLemons"
     title: "The Market For Lemons"
     url: "/wiki/concepts/marketforlemons/"
+  - key: "MinisterAsExchangeableAsset"
+    title: "可交换功臣 / Minister as Exchangeable Asset"
+    url: "/wiki/concepts/ministerasexchangeableasset/"
   - key: "MamaHui"
     title: "妈妈会 / Mama Hui"
     url: "/wiki/concepts/mamahui/"
