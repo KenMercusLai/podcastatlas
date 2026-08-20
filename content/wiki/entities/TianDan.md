@@ -2,7 +2,7 @@
 title: "田单 / Tian Dan"
 type: entity
 tags: [person, qi-state, general, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringSt
 
 [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y]] makes that survival problem explicit. Tian Dan's act of giving his fur robe to a freezing old man is read by Qi Xiang Wang as an attempt to buy popular support, until an unnamed artisan temporarily turns the act into [[PoliticalCreditAppropriation|royal political credit]]. The later [[DiaoBo|刁伯]] mission gives court flatterers another opening: they portray Tian Dan's care for people, attention to former enemies, and recommendation of worthies as signs of larger ambition. Tian Dan responds with a repeated self-abasing audience ritual that the wiki tracks as [[RitualizedMinisterHumiliation|ritualized minister humiliation]].
 
+[[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]] gives that danger a temporary correction and a later military cost. [[DiaoBo|刁伯]] rebukes [[QiXiangWang|齐襄王]] by arguing that Tian Dan restored Qi without making himself king, after which the king kills the nine favored ministers and expands Tian Dan's grant. Later, when Tian Dan cannot quickly take Di, [[LuZhonglian|鲁仲连]] explains that the Jimo victory depended on a shared death resolve that Tian Dan no longer displays. The episode's sharper interpretation is that Tian Dan withholds soldier intimacy not simply because wealth has softened him, but because visible [[MilitaryMoraleThroughSharedHardship|shared hardship]] could renew the king's suspicion of his popular power.
+
 ## Connections
 - [[QiState|齐国]] and [[Linzi|临淄]] - state and origin context.
 - [[JimoWarringStates|即墨]] - city that chooses him as commander after the local official dies.
@@ -35,3 +37,4 @@ After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringSt
 - [[QiXiangWang|齐襄王]] - restored ruler Tian Dan brings back to Linzi after the counterattack.
 - [[LeYi|乐毅]], [[LoyalMinisterExitEthic|忠臣去国的退场伦理]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - Zhouji 80 contrast between Le Yi's successful exit and Tian Dan's coming exposure after high merit.
 - [[PostRestorationMeritThreat|复国功臣威胁化]], [[PoliticalCreditAppropriation|善行君恩化]], [[DiaoBo|刁伯]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 post-restoration suspicion, credit absorption, envoy-triggered slander, and ritual pressure.
+- [[LuZhonglian|鲁仲连]], [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], and [[PowerExitTrap|权力退场困境]] - Zhouji 81 part 2 Di campaign, lost death resolve, and self-protective limits under suspicion.

@@ -2,8 +2,8 @@
 title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
 type: concept
 tags: [military-history, leadership, morale, management]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+last_updated: 2026-08-21
 ---
 
 # Military Morale Through Shared Hardship / 同甘共苦式士气
@@ -14,11 +14,15 @@ The concept is not just "being nice to troops." In the episode, Wu Qi's care for
 
 The source explicitly translates the pattern into modern management terms: leaders who join frontline risk can make loyalty and execution feel real, while leaders who only issue orders may not create the same commitment. That analogy remains source-scoped; the historical case involves war, hierarchy, and death, not ordinary workplace motivation.
 
+[[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]] adds a high-merit constraint through [[TianDan|田单]]. [[LuZhonglian|鲁仲连]] says Tian Dan won at [[JimoWarringStates|即墨]] because commander and defenders had a shared death resolve, but Tian Dan's later attack on Di stalls after rank and wealth change his posture. The episode's further point is political: after [[QiXiangWang|齐襄王]] suspects Tian Dan, too much visible closeness to soldiers could renew [[PostRestorationMeritThreat|post-restoration merit threat]]. Shared hardship therefore creates morale but can also create political danger when a ruler fears a commander's independent loyalty network.
+
 ## Key Claims
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
 - Shared hardship can turn abstract loyalty into action, but it can also create coercive emotional debt.
 - A modern management analogy should preserve the asymmetry: battlefield loyalty and workplace commitment are not ethically identical.
+- The same practice can become politically unsafe for a high-merit commander if ruler suspicion interprets soldier loyalty as factional power.
+- Battlefield resolve is easier to sustain under existential siege than after rank, wealth, and court danger create reasons to survive and appear harmless.
 
 ## Connections
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
@@ -26,3 +30,4 @@ The source explicitly translates the pattern into modern management terms: leade
 - [[WeiState|魏国]] - state whose military rise the source links to Wu Qi.
 - [[MilitaryPersonalization]] - adjacent risk when military loyalty attaches strongly to commanders.
 - [[CrisisStakeholderLeadership]] and [[VisionToRealityExecution]] - broader leadership and execution concepts outside the military setting.
+- [[TianDan|田单]], [[LuZhonglian|鲁仲连]], [[QiXiangWang|齐襄王]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 part 2 high-merit commander constraint.

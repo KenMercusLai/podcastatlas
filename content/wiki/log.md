@@ -8759,3 +8759,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》81丨历史早期PUA记实录（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode closing the Tian Dan post-restoration branch through Diao Bo's direct rebuke of Qi Xiang Wang, punishment of the nine favored ministers, Lu Zhonglian's diagnosis of Tian Dan's stalled Di campaign, and Mengchangjun's final Xue/lineage outcome. Created Lu Zhonglian; updated overview, index, Tian Dan, Qi Xiang Wang, Diao Bo, Mengchangjun, Jixia Academy, Qi State, Post-Restoration Merit Threat, Military Morale Through Shared Hardship, Power Exit Trap, and Court Feedback Collapse. No direct contradiction found; brief Zhao Xiaocheng Wang and Di place details were kept source-scoped rather than split into new pages.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran health before lint; health scanned 12114 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12114 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes and 129324 edges while the wiki scan found 12114 pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider API key variables are present in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》81丨历史早期PUA记实录（2）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k.md) — 芮淇讲透资治通鉴 episode on Diao Bo correcting Qi Xiang Wang's treatment of Tian Dan, Lu Zhonglian diagnosing Tian Dan's Di campaign, post-restoration self-protection, and Mengchangjun's final Xue lineage outcome.
 - [《资治通鉴·周纪》81丨历史早期PUA记实录（1）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y.md) — 芮淇讲透资治通鉴 episode on Tian Dan's post-restoration exposure, Qi Xiang Wang's suspicion of popular virtue, royal credit appropriation, Diao Bo's Chu mission, court slander, and ritualized humiliation.
 - [《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？](sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0.md) — 芮淇讲透资治通鉴 episode on Le Yi's reply to Yan Huiwang, Wu Zixu as warning, refusal to attack Yan from Zhao, Le Xian's title inheritance, and Tian Dan's coming post-victory danger under Qi Xiang Wang.
 - [《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人](sources/zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p.md) — 芮淇讲透资治通鉴 episode on Tian Dan's fire-ox counterattack at Jimo, Qi Jie's atrocity backfire, false surrender and bribery, Qi Xiang Wang's return to Linzi, and the Jun Wang Hou/Taishi Jiao marriage-ritual conflict.
@@ -1096,12 +1097,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [刁伯 / Diao Bo](entities/DiaoBo.md) — Qi worthy and envoy recommended by Tian Dan whose warm reception in Chu becomes material for slander against Tian Dan.
+- [刁伯 / Diao Bo](entities/DiaoBo.md) — Qi worthy and envoy recommended by Tian Dan whose Chu reception is weaponized by slanderers before he rebukes Qi Xiang Wang into honoring Tian Dan.
+- [鲁仲连 / Lu Zhonglian](entities/LuZhonglian.md) — Qi strategist and Jixia-associated thinker who diagnoses Tian Dan's stalled Di campaign as a loss of shared death resolve under post-restoration danger.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
 - [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
 - [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
 - [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Later strategist used by the episode title as a reception marker for Le Yi's commander reputation.
-- [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned Jimo commander who uses rumor, atrocity backfire, false surrender, and the fire-ox raid to restore Qi.
+- [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned restoration general whose Jimo victory, post-restoration suspicion, and Di campaign hesitation show the cost of high merit under a fearful ruler.
 - [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose removal of Le Yi leads to Qi Jie's failure and the collapse of Yan's Qi occupation.
 - [骑劫 / Qi Jie](entities/QiJie.md) — Yan replacement general whose harsh occupation acts harden Jimo resistance before he is killed in the fire-ox raid.
 - [即墨 / Jimo](entities/JimoWarringStates.md) — Final Qi-held city where Tian Dan stages the fire-ox counterattack against Yan.
@@ -1127,7 +1129,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蔺相如 / Lin Xiangru](entities/LinXiangru.md) — Zhao envoy and minister who returns He Shi Bi, prevents humiliation at Mianchi, and avoids Lian Po to preserve Zhao's paired deterrent against Qin.
 - [卞和 / Bian He](entities/BianHe.md) — Chu figure whose punished recognition of hidden jade gives He Shi Bi its origin story.
 - [缪贤 / Miu Xian](entities/MiuXian.md) — Zhao court insider who buys He Shi Bi before Zhao Huiwen Wang forces it into royal possession.
-- [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity, returned from Ju to Linzi after Tian Dan's counterattack.
+- [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity, returned from Ju to Linzi after Tian Dan's counterattack and later corrected by Diao Bo for dishonoring Tian Dan.
 - [君王后 / Jun Wang Hou](entities/JunWangHou.md) — Taishi Jiao's daughter and Qi Xiang Wang's queen, whose crisis marriage later faces family-ritual objection.
 - [太史角 / 太史敫 / Taishi Jiao](entities/TaishiJiao.md) — Ju household head who shelters Tian Fazhang, then rejects his daughter's non-ritual marriage to the restored king.
 - [王孙古 / Wang Sun Gu](entities/WangSunGu.md) — Qi retainer who mobilizes revenge against Zhuo Chi after his mother's rebuke.
@@ -1238,7 +1240,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [春申君 / Lord Chunshen](entities/Chunshenjun.md) — Chu member of the Warring States Four Lords, source-scoped as a retainer-patronage comparison point after Mengchangjun.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
-- [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Qi aristocrat and retainer patron whose arc now includes Qin chancellorship, imprisonment, chicken-crow/dog-theft escape, and Wang Anshi's talent-quality critique.
+- [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Qi aristocrat and retainer patron whose arc now includes Qin chancellorship, imprisonment, Wang Anshi's critique, later Xue independence, and lineage destruction.
 - [周慎靓王 / Zhou Shenliang Wang](entities/ZhouShenliangwang.md) — Zhou Xian Wang's successor in the Zhouji 40 succession notice, with 周慎亮王 kept as the source spelling variant.
 - [燕王哙 / King Kuai of Yan](entities/YanWangKuai.md) — Yan successor after Yan Yi Wang dies in the 321 BCE Zhouji 40 notice.
 - [薛地 / Xue](entities/XueWarringStates.md) — Tian Ying's Qi fief and Mengchangjun's later retainer base, linking fief security to privately funded patronage.
@@ -3092,7 +3094,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孟子 / Mencius](entities/Mengzi.md) — Pre-Qin Confucian thinker reread by episode 30 through Warring States politics, renyi, ruler accountability, people-based legitimacy, and resistance to unjust power.
 - [《孟子》 / Mencius](entities/MenciusText.md) — Classical text used by episode 30 as dialogue material for renyi, benevolent government, tyrant legitimacy, and Mencius's exchanges with Liang Hui Wang and Qi Xuan Wang.
 - [战国时期 / Warring States Period](entities/WarringStatesPeriod.md) — Historical setting for episode 30's account of interstate competition, scholar mobility, harsher war, and the practical stakes of Mencian politics.
-- [稷下学宫 / Jixia Academy](entities/JixiaAcademy.md) — Qi-sponsored Warring States thought-market setting used by episode 30 to explain Mencius's exposure to multiple schools before choosing the Confucian renyi path.
+- [稷下学宫 / Jixia Academy](entities/JixiaAcademy.md) — Qi-sponsored Warring States thought-market setting now linked to Mencius, Xunzi, and Lu Zhonglian's strategist-intellectual profile.
 - [梁惠王 / King Hui of Liang](entities/LiangHuiWang.md) — Warring States ruler whose dialogues with Mencius anchor episode 30's righteousness-over-profit and benevolent-government arguments.
 - [齐宣王 / King Xuan of Qi](entities/QiXuanWang.md) — Warring States ruler used by episode 30 to develop kingly way, compassion, people-based legitimacy, and the Yan campaign as a limit case.
 - [墨子 / Mozi](entities/Mozi.md) — Rival pre-Qin teaching presence used by episode 30 to show that Mencius's Confucian renyi position was contested rather than automatic.
@@ -7286,7 +7288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Post-Restoration Merit Threat / 复国功臣威胁化](concepts/PostRestorationMeritThreat.md) — Pattern where saving or restoring a state makes a minister's merit, popular credit, and talent network look like a threat to the ruler.
+- [Post-Restoration Merit Threat / 复国功臣威胁化](concepts/PostRestorationMeritThreat.md) — Pattern where saving or restoring a state makes a minister's merit, popular credit, talent network, and soldier loyalty look threatening to the ruler.
 - [Political Credit Appropriation / 善行君恩化](concepts/PoliticalCreditAppropriation.md) — Court tactic that absorbs a subordinate's visible virtue into ruler authority by reframing it as royal instruction or benevolence.
 - [Ritualized Minister Humiliation / 礼节化臣属羞辱](concepts/RitualizedMinisterHumiliation.md) — Status-pressure pattern where ruler-minister ritual, dress, posture, and repetition become humiliation without a formal charge.
 - [Loyal Minister Exit Ethic / 忠臣去国的退场伦理](concepts/LoyalMinisterExitEthic.md) — Le Yi's model of leaving a dangerous old court without slandering the old patron or turning new patronage into revenge.
@@ -7398,7 +7400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
 - [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
 - [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Zhao Liang's warning that popular regard and elite acceptance can become practical safety infrastructure for powerful ministers.
-- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, or exposed ruler humiliations make staying or leaving power dangerous.
+- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, or exposed ruler humiliations make staying, leaving, or appearing fully capable dangerous.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
@@ -7460,12 +7462,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Zisi's talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes.
-- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce self-certainty, palace filtering, or manipulative intimacy instead of correcting errors.
+- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce self-certainty, palace filtering, manipulative intimacy, or suspicion-confirming interpretations instead of correcting errors.
 - [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where state-strengthening reform creates concentrated resistance, from violent backlash to ritual-identity opposition and managed compliance.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
-- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, and soldiers' willingness to fight.
+- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, soldiers' willingness to fight, and the political risk of commander-centered loyalty.
 - [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
 - [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that "bandits killed the ruler" may identify physical killers while obscuring political authorship.
 - [Small-State Buffer Diplomacy / 小国夹缝外交](concepts/SmallStateBufferDiplomacy.md) — Pattern where a small state between great powers appears fickle because any alliance choice creates another threat.

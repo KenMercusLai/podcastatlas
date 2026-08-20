@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6186
+wiki_total_pages: 6187
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "LinghangzheRecoveryShip"
     title: "领航者号 Recovery Ship"
     url: "/wiki/entities/linghangzherecoveryship/"
+  - key: "LuZhonglian"
+    title: "鲁仲连 / Lu Zhonglian"
+    url: "/wiki/entities/luzhonglian/"
   - key: "LuGonggong"
     title: "鲁共公 / Duke Gong of Lu"
     url: "/wiki/entities/lugonggong/"
