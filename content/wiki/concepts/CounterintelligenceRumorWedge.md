@@ -2,7 +2,7 @@
 title: "Counterintelligence Rumor Wedge / 反间流言楔入"
 type: concept
 tags: [strategy, intelligence, rumor, court-politics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -14,15 +14,19 @@ The mechanism is narrower than generic [[RumorErosionOfTrust|rumor erosion of tr
 
 Its success depends on timing. The same slander fails under Yan Zhaowang because the old ruler chooses public trust and punishes the slanderer. It works under Yan Huiwang because the successor inherits the army's gains but not the old ruler-commander bond.
 
+[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] extends Tian Dan's use of rumor after the commander replacement. He plants fears about mutilated prisoners and grave desecration so [[QiJie|骑劫]] will act on them. This turns rumor from a ruler-commander wedge into a battlefield bait that creates [[AtrocityBackfireMobilization|atrocity backfire mobilization]].
+
 ## Key Claims
 - Rumor is strongest when it amplifies a suspicion the target already finds emotionally or politically plausible.
 - A succession transition can make old military success look like new political threat.
 - Counterintelligence can be operational without immediately winning a battle if it causes the enemy to damage its own command structure.
 - The tactic links information war to [[BattlefieldCommanderReplacementRisk|battlefield commander replacement risk]]: the rumor matters because it changes who commands the army.
+- The same operator can use rumor at multiple levels: first to change enemy command, then to provoke visible enemy acts that damage occupation legitimacy.
 
 ## Connections
 - [[TianDan|田单]] - user of the tactic.
 - [[YanHuiwang|燕惠王]] - target whose suspicion is exploited.
 - [[LeYi|乐毅]] - commander reframed as a would-be usurper.
 - [[YanZhaowang|燕昭王]] - contrast case where the same slander pattern fails.
+- [[QiJie|骑劫]], [[AtrocityBackfireMobilization|暴行反噬式动员]], and [[FireOxNightRaid|火牛阵夜袭]] - Zhouji 79 rumor bait and later attack sequence.
 - [[RumorErosionOfTrust|谣言侵蚀信任]], [[PatronSuccessionExposure|靠山更替暴露风险]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - adjacent mechanisms.

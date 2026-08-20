@@ -2,7 +2,7 @@
 title: "孟子 / Mencius"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin, confucianism]
-sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 
 [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] adds Mencius through the [[ZiChan|子产]] river-crossing story. The episode highlights his judgment that Zi Chan's kindness was "惠而不知为政": a caring official should not only carry people across a cold river, but should create the public works and regular access that remove the need for such personal intervention.
 
+[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] adds a family-ritual use of Mencius rather than a ruler-advice scene. The episode cites the marriage-procedure norm in [[MenciusText|《孟子》]] to explain why [[TaishiJiao|太史敫 / 太史角]] rejects [[JunWangHou|君王后]]'s earlier autonomous relationship with [[TianFazhang|田法章]], creating a contrast between [[CrisisAutonomousMarriage|crisis autonomous marriage]] and [[MarriageRitualOrthodoxy|marriage ritual orthodoxy]].
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[MenciusText|《孟子》]] - text preserving the dialogue material used by the episode.
@@ -40,3 +42,4 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 - [[GongsunYan|犀首公孙衍]], [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[MencianGreatManCriterion|孟子大丈夫标准]] - Zhouji 56's moral evaluation of zonghengjia greatness.
 - [[TengState|滕国]], [[SongJunYan|宋康王 / 宋君偃]], [[MencianBenevolentGovernment|孟子仁政]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 68's Teng-as-experiment branch.
 - [[ZiChan|子产]], [[ZhengState|郑国]], [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]], and [[LocalGovernanceAsCare|Local Governance As Care]] - Zhouji 75-1 public-infrastructure version of Mencian governance.
+- [[JunWangHou|君王后]], [[TaishiJiao|太史敫 / 太史角]], [[CrisisAutonomousMarriage|患难自主婚姻]], and [[MarriageRitualOrthodoxy|婚姻礼法正当性]] - Zhouji 79 marriage-ritual branch.

@@ -4759,6 +4759,10 @@
     "title": "Atrium",
     "url": "/wiki/entities/atrium/"
   },
+  "AtrocityBackfireMobilization": {
+    "title": "Atrocity Backfire Mobilization / 暴行反噬式动员",
+    "url": "/wiki/concepts/atrocitybackfiremobilization/"
+  },
   "AttentionAsWeather": {
     "title": "Attention As Weather",
     "url": "/wiki/concepts/attentionasweather/"
@@ -11299,6 +11303,10 @@
     "title": "Decentralized World Model Strategy",
     "url": "/wiki/concepts/decentralizedworldmodelstrategy/"
   },
+  "DeceptiveSurrenderLull": {
+    "title": "Deceptive Surrender Lull / 诈降麻痹",
+    "url": "/wiki/concepts/deceptivesurrenderlull/"
+  },
   "DecimusJuniusBrutus": {
     "title": "Decimus Junius Brutus / 德奇姆斯",
     "url": "/wiki/entities/decimusjuniusbrutus/"
@@ -14862,6 +14870,10 @@
   "FionnMacCumhaill": {
     "title": "Fionn mac Cumhaill / 芬恩",
     "url": "/wiki/entities/fionnmaccumhaill/"
+  },
+  "FireOxNightRaid": {
+    "title": "Fire-Ox Night Raid / 火牛阵夜袭",
+    "url": "/wiki/concepts/fireoxnightraid/"
   },
   "FireResilientConstruction": {
     "title": "Fire-Resilient Construction",
@@ -25574,6 +25586,10 @@
   "MarriageExitFriction": {
     "title": "Marriage Exit Friction",
     "url": "/wiki/concepts/marriageexitfriction/"
+  },
+  "MarriageRitualOrthodoxy": {
+    "title": "Marriage Ritual Orthodoxy / 婚姻礼法正当性",
+    "url": "/wiki/concepts/marriageritualorthodoxy/"
   },
   "MarriottInternational": {
     "title": "Marriott International",
@@ -38484,7 +38500,7 @@
     "url": "/wiki/entities/taishidan/"
   },
   "TaishiJiao": {
-    "title": "太史角 / Taishi Jiao",
+    "title": "太史角 / 太史敫 / Taishi Jiao",
     "url": "/wiki/entities/taishijiao/"
   },
   "Taitai": {
@@ -48382,5 +48398,9 @@
   "zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug": {
     "title": "《资治通鉴·周纪》78丨齐国命运竟被城管给救了？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug/"
+  },
+  "zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p": {
+    "title": "《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p/"
   }
 }

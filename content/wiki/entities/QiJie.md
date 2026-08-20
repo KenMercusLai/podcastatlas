@@ -2,7 +2,7 @@
 title: "骑劫 / Qi Jie"
 type: entity
 tags: [person, yan-state, general, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -12,9 +12,14 @@ last_updated: 2026-08-21
 
 The episode does not yet develop Qi Jie's own strategy or biography. His immediate function is structural: by taking Le Yi's place at the front, he turns court suspicion into [[BattlefieldCommanderReplacementRisk|battlefield commander replacement risk]], damaging Yan army morale and setting up Tian Dan's later counterattack.
 
+[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] makes that risk concrete. Qi Jie abandons Le Yi's people-soothing posture and follows Tian Dan's planted rumors: Yan troops cut the noses of Qi prisoners and dig up graves outside Jimo. The episode treats those acts as [[AtrocityBackfireMobilization|atrocity backfire mobilization]], because they harden Qi resistance rather than terrifying it into surrender.
+
+Qi Jie then accepts the false surrender setup around Jimo and is killed during Tian Dan's [[FireOxNightRaid|fire-ox night raid]]. His page therefore shifts from "replacement general" to a case where weak command judgment turns an occupying army's advantage into collapse.
+
 ## Connections
 - [[YanHuiwang|燕惠王]] - ruler who appoints him.
 - [[LeYi|乐毅]] - commander he replaces.
 - [[TianDan|田单]] and [[CounterintelligenceRumorWedge|反间流言楔入]] - adversary and information operation that make the replacement possible.
 - [[YanState|燕国]] and [[QiState|齐国]] - army and campaign setting.
 - [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - concept his appointment makes concrete.
+- [[AtrocityBackfireMobilization|暴行反噬式动员]], [[DeceptiveSurrenderLull|诈降麻痹]], and [[FireOxNightRaid|火牛阵夜袭]] - Zhouji 79 sequence that exposes and ends his command.

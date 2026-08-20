@@ -2,7 +2,7 @@
 title: "赵何 / Zhao He"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,8 @@ For this page, the source matters less as a biography of Zhao He's own choices t
 
 The promotion makes Zhao He the ruler whose reward decision sparks the "将相和" conflict. The source's point is not that he personally resolves the quarrel; it is that his state needs both Lin's diplomacy and Lian Po's military force after Mianchi.
 
+[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] mentions Zhao He only as [[ZhaoState|赵国]]'s ruler after [[LeYi|乐毅]] flees there. The episode says Zhao Huiwen Wang honors Le Yi, which makes [[YanHuiwang|燕惠王]] worry that Zhao might use the displaced Yan commander against [[YanState|燕国]].
+
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] and [[WuWa|吴娃]] - parents in the source's setup.
 - [[ZhaoZhang|赵章]] - elder son whose position is put at risk.
@@ -41,3 +43,4 @@ The promotion makes Zhao He the ruler whose reward decision sparks the "将相�
 - [[MiuXian|缪贤]], [[HeShiBi|和氏璧]], [[LinXiangru|蔺相如]], and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - Zhouji 74 royal seizure, Qin exchange dilemma, and diplomatic resolution.
 - [[QiState|齐国]], [[ShichengWarringStates|石城]], [[Mianchi|渑池]], [[QinEastwardPressure|秦国东进压力]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 76 refusal to attack Qi, Qin punishment, and the next meeting setup.
 - [[LianPo|廉颇]], [[Mianchi|渑池]], and [[JiangXiangHeInternalUnity|将相和式内部团结]] - Zhouji 77 attendance risk, Lin's promotion, and the internal partnership Zhao needs afterward.
+- [[LeYi|乐毅]], [[YanHuiwang|燕惠王]], and [[YanState|燕国]] - Zhouji 79 host-state role after Le Yi's exile.

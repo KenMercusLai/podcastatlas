@@ -8735,3 +8735,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Tian Dan's rise from
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint; report was printed in-session and not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Tian Dan's Jimo counterattack through divine-sign theater, rumor bait, Qi Jie's prisoner/grave atrocities, false surrender, bribery, and the fire-ox night raid that kills Qi Jie and restores Qi cities. Created pages for Fire-Ox Night Raid, Atrocity Backfire Mobilization, Deceptive Surrender Lull, and Marriage Ritual Orthodoxy; updated overview, index, Tian Dan, Qi Jie, Yan Huiwang, Le Yi, Jimo, Qi State, Yan State, Qi Xiang Wang, Jun Wang Hou, Taishi Jiao, Zhao He, Mencius, Mencius Text, People-Based Political Security, Battlefield Commander Replacement Risk, Occupation Pacification Strategy, Counterintelligence Rumor Wedge, and Crisis Autonomous Marriage. No direct contradiction found; 太史敫 is treated as the same branch as existing 太史角 / Taishi Jiao, and the title's "first person" claim is kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

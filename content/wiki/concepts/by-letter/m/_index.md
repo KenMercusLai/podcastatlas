@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 4829
+wiki_total_pages: 4833
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "MarriageExitFriction"
     title: "Marriage Exit Friction"
     url: "/wiki/concepts/marriageexitfriction/"
+  - key: "MarriageRitualOrthodoxy"
+    title: "Marriage Ritual Orthodoxy / 婚姻礼法正当性"
+    url: "/wiki/concepts/marriageritualorthodoxy/"
   - key: "MascotLedBrandRecognition"
     title: "Mascot Led Brand Recognition"
     url: "/wiki/concepts/mascotledbrandrecognition/"

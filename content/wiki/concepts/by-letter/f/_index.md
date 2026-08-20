@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 4829
+wiki_total_pages: 4833
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "FireTechClimateResilience"
     title: "Fire Tech Climate Resilience"
     url: "/wiki/concepts/firetechclimateresilience/"
+  - key: "FireOxNightRaid"
+    title: "Fire-Ox Night Raid / 火牛阵夜袭"
+    url: "/wiki/concepts/fireoxnightraid/"
   - key: "FireResilientConstruction"
     title: "Fire-Resilient Construction"
     url: "/wiki/concepts/fireresilientconstruction/"

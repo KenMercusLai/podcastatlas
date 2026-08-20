@@ -2,8 +2,8 @@
 title: "《孟子》 / Mencius"
 type: entity
 tags: [book, chinese-classics, pre-qin, confucianism, political-theory]
-sources: [zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-21
 ---
 
 # 《孟子》 / Mencius
@@ -24,6 +24,8 @@ The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[Ri
 
 [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] adds the text's "大丈夫" passage to the same political-ethical branch. The episode uses Mencius's response about [[GongsunYan|犀首公孙衍]] and [[ZhangYiStrategist|张仪]] to argue that political power, fear, and effect do not define greatness unless the actor can hold to the right way under wealth, poverty, and coercion.
 
+[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] uses the text differently, through the marriage-procedure material associated with Teng Wen Gong Xia. The episode invokes parental command and matchmaker mediation to explain why [[TaishiJiao|太史敫 / 太史角]] refuses to recognize [[JunWangHou|君王后]]'s crisis relationship with [[TianFazhang|田法章]], making [[MarriageRitualOrthodoxy|marriage ritual orthodoxy]] part of the wiki's Mencius branch.
+
 ## Connections
 - [[Mengzi|孟子 / Mencius]] - central speaker and thinker.
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - major interlocutors emphasized by the source.
@@ -36,3 +38,4 @@ The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[Ri
 - [[WeiXiangwang|魏襄王]] and [[NonKillingUnification|不爱杀人者能一之]] - Zhouji 45 unity and non-killing-ruler extension.
 - [[YanState|燕国]], [[ShangTang|商汤]], [[ChenJiaWarringStates|陈甲]], [[ZhouGong|周公]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 conquest and mistake-correction passages.
 - [[GongsunYan|犀首公孙衍]], [[ZhangYiStrategist|张仪]], and [[MencianGreatManCriterion|孟子大丈夫标准]] - Zhouji 56 "great man" passage and zonghengjia evaluation.
+- [[JunWangHou|君王后]], [[TaishiJiao|太史敫 / 太史角]], [[CrisisAutonomousMarriage|患难自主婚姻]], and [[MarriageRitualOrthodoxy|婚姻礼法正当性]] - Zhouji 79 marriage-procedure and family-ritual branch.

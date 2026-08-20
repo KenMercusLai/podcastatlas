@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 4829
+wiki_total_pages: 4833
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "DecentralizedWorldModelStrategy"
     title: "Decentralized World Model Strategy"
     url: "/wiki/concepts/decentralizedworldmodelstrategy/"
+  - key: "DeceptiveSurrenderLull"
+    title: "Deceptive Surrender Lull / 诈降麻痹"
+    url: "/wiki/concepts/deceptivesurrenderlull/"
   - key: "DecreasingStovesDeception"
     title: "Decreasing Stoves Deception / 减灶诱敌"
     url: "/wiki/concepts/decreasingstovesdeception/"
