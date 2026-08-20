@@ -2,7 +2,7 @@
 title: "赵武灵王 / King Wuling of Zhao"
 type: entity
 tags: [person, ruler, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ For the wiki, Zhao Wuling Wang links the Zhao succession branch to [[NewRulerRef
 
 [[zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]] places Zhao Wuling Wang inside [[ZhangYiStrategist|张仪]]'s 311 BCE Qin-facing persuasion tour. Zhang Yi first honors Zhao's past anti-Qin reputation, saying Zhao had once kept Qin inside [[HanguPass|函谷关]] and [[Wuguan|武关]], then shifts to Qin's expansion through [[BaShu|巴蜀]] and [[Hanzhong|汉中]] and to a threat of converging armies. The speech is the most layered example of [[EncirclementThreatPersuasion|包围威胁式说服]] in the episode because it begins with recognition before moving into isolation and partition threats.
 
+[[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds the family-politics setup behind Zhao Wuling Wang's later disaster. He marries [[WuWa|吴娃]], who becomes deeply favored and gives birth to [[ZhaoHe|赵何]], even though Zhao Wuling Wang already has an elder legitimate son, [[ZhaoZhang|赵章]], by a Han princess. The host frames this as the beginning of a later fatal succession mistake, making Zhao Wuling Wang a case for [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] as well as reform signaling.
+
 ## Connections
 - [[ZhaoState|赵国]] - polity he inherits.
 - [[ZhaoSuhou|赵肃侯]] - predecessor and father in the episode's succession frame.
@@ -26,3 +28,4 @@ For the wiki, Zhao Wuling Wang links the Zhao succession branch to [[NewRulerRef
 - [[TitleRealityRestraint|名实相符式名号节制]], [[StatusOrderBacklash|名分秩序反弹]], and [[XuzhouMutualKingship|徐州相王]] - title-politics branch added by Zhouji 37.
 - [[WarringStatesMilitaryTransformation|战国军事形态转变]] and [[HorseAsCivilizationalInfrastructure]] - later military-reform direction foreshadowed by the episode title.
 - [[ZhangYiStrategist|张仪]], [[QinState|秦国]], [[BaShu|巴蜀]], [[Hanzhong|汉中]], [[HanguPass|函谷关]], [[Wuguan|武关]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 praise-then-threat persuasion branch.
+- [[WuWa|吴娃]], [[ZhaoHe|赵何]], [[ZhaoZhang|赵章]], and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 57 marriage and succession foreshadowing.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》57丨古代发毒誓还有这作用？](sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si.md) — 芮淇讲透资治通鉴 episode linking Zigong's rescue of Lu through a Wu-Yue-Qi-Jin diplomatic cascade with Gan Mao's Yiyang campaign, Qin's first left/right chancellors, Zhao Wuling Wang's succession foreshadowing, and oath-bound command trust against rumor and court pressure.
 - [《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫](sources/zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41.md) — 芮淇讲透资治通鉴 episode reassessing zonghengjia figures through Mencius's great-man standard, Yang Xiong's Fayan critique, and the distinction between talent, motive, and moral approval.
 - [《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王](sources/zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy.md) — 芮淇讲透资治通鉴 episode completing Zhang Yi's final Yan persuasion, Qin Huiwen Wang's death, Zhang Yi's self-preserving move to Wei, the induced Qi-Wei conflict, and his final year as Wei chief minister.
 - [《资治通鉴·周纪》54丨我尊你是王，你当我是屁](sources/zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's post-Chu lobbying tour through Han, Qi, Zhao, and Yan, using encirclement threats to push lianheng, and the sudden patronage risk after Qin Huiwen Wang dies.
@@ -1065,9 +1066,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [吴国 / Wu State](entities/WuState.md) — Spring-and-Autumn state drawn by Zigong into the Qi-Jin-Yue cascade that ends with Fuchai's defeat and suicide.
+- [田常 / Tian Chang](entities/TianChang.md) — Qi chief minister whom Zigong persuades to redirect danger away from Lu and toward Wu.
+- [吴王夫差 / King Fuchai of Wu](entities/Fuchai.md) — Wu ruler who defeats Qi, overreaches toward Jin, and is later destroyed by Goujian's Yue.
+- [越王勾践 / King Goujian of Yue](entities/Goujian.md) — Yue ruler who feigns submission to Wu, waits for Wu's exhaustion, destroys Wu, and then endangers victorious ministers.
+- [范蠡 / Fan Li](entities/FanLi.md) — Yue minister who leaves after Goujian's victory and warns Wen Zhong about post-victory minister danger.
+- [文种 / Wen Zhong of Yue](entities/WenZhongYue.md) — Yue minister who ignores Fan Li's warning and later dies after Goujian gives him a sword.
+- [曾参 / Zeng Shen](entities/ZengShen.md) — Confucian figure in Gan Mao's parable showing repeated rumor can overcome even intimate trust.
+- [吴娃 / Wu Wa](entities/WuWa.md) — Favored wife of Zhao Wuling Wang and mother of Zhao He, whose branch foreshadows a succession fault line.
+- [赵何 / Zhao He](entities/ZhaoHe.md) — Son of Zhao Wuling Wang and Wu Wa whose favored branch collides with Zhao Zhang's elder legitimate claim.
+- [赵章 / Zhao Zhang](entities/ZhaoZhang.md) — Zhao Wuling Wang's elder legitimate son whose position is threatened by the favored Wu Wa-Zhao He branch.
 - [扬雄 / Yang Xiong](entities/YangXiong.md) — Western Han author cited through Fayan to critique Zhang Yi and Su Qin's persuasive talent by motive and moral direction.
 - [《法言》 / Fayan](entities/Fayan.md) — Yang Xiong text used to reject zonghengjia skill as morally acceptable merely because it is effective.
-- [子贡 / Zigong / Duanmu Ci](entities/Zigong.md) — Confucian disciple contrasted with Zhang Yi and Su Qin because his diplomacy is framed as rescue rather than wealth-seeking.
+- [子贡 / Zigong / Duanmu Ci](entities/Zigong.md) — Confucian disciple whose rescue of Lu becomes a public-interest diplomatic cascade across Qi, Wu, Yue, and Jin.
 - [周最 / Zhou Zui](entities/ZhouZui.md) — Persuader named as part of the wider Warring States fashion for court-to-court diplomatic mobility.
 - [楼缓 / Lou Huan](entities/LouHuan.md) — Persuader named alongside Su Dai, Su Li, and Zhou Zui as evidence of the broader zonghengjia wave.
 - [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch, marking Qin's proposed advance toward Zhou royal authority while Qi and Wei are entangled.
@@ -1082,7 +1093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈庄 / Chen Zhuang (Warring States)](entities/ChenZhuangWarringStates.md) — Qin-appointed Shu chancellor who kills Shu Hou Ning Tong and rebels before Gan Mao suppresses him.
 - [蜀侯宁通 / Shu Hou Ning Tong](entities/ShuHouNingTong.md) — reduced Shu ruler killed by Chen Zhuang in the Qin-Shu rebellion.
 - [司马错 / Sima Cuo](entities/SimaCuo.md) — Qin strategist whose advice to attack Shu creates Qin's Ba-Shu base and later governance problem.
-- [甘茂 / Gan Mao](entities/GanMao.md) — Qin figure who suppresses Chen Zhuang's rebellion in Shu.
+- [甘茂 / Gan Mao](entities/GanMao.md) — Qin left chancellor who suppresses Chen Zhuang, warns about rumor risk, and binds Qin Wuwang to the Yiyang campaign through an oath.
 - [巴国 / Ba State (Warring States)](entities/BaStateWarringStates.md) — Ba polity whose conflict with Shu gives Qin an opening into Ba-Shu.
 - [蜀国 / Shu State (Warring States)](entities/ShuStateWarringStates.md) — conquered southwestern polity reduced under Qin and destabilized by Chen Zhuang's rebellion.
 - [巴蜀 / Ba-Shu](entities/BaShu.md) — hard-to-enter, resource-rich southwest region that becomes both Qin's base and Chen Zhuang's temptation.
@@ -1100,7 +1111,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周公 / Duke of Zhou](entities/ZhouGong.md) — Sage example in Chen Jia's question, used by Mencius to distinguish understandable mistakes from refusal to correct errors.
 - [钟离春 / 钟无艳 / Zhongli Chun](entities/ZhongliChun.md) — Legendary Qi Xuan Wang consort in the episode's closing cultural afterlife note, linked to the Zhong Wuyan tradition.
 - [修鱼之战 / Battle of Xiuyu](entities/XiuyuBattle.md) — 317 BCE Qin victory after the failed anti-Qin coalition, with Qin pursuing Han and Wei under Chulizi before continuing to Zhuoze.
-- [樗里子 / Chulizi](entities/Chulizi.md) — Qin royal-family commander who leads the 317 BCE pursuit after the failed Hangu Pass coalition and wins at Xiuyu.
+- [樗里子 / Chulizi](entities/Chulizi.md) — Qin royal-family commander and first right chancellor who later becomes part of the court pressure against Gan Mao's Yiyang campaign.
 - [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
 - [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames the episode's ridicule and retainer-violence scene.
@@ -1114,7 +1125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈枕 / Chen Zhen (Warring States strategist)](entities/ChenZhenWarringStates.md) — Source-scoped strategist whose blocked Wei office-seeking becomes a return-to-Chu pivot.
 - [左爽 / Zuo Shuang](entities/ZuoShuang.md) — Adviser who tells Chen Zhen how to turn Zhang Yi's hostile frame into renewed Chu favor.
 - [冯浩 / Feng Hao (Warring States adviser)](entities/FengHaoWarringStates.md) — Adviser who urges Chu Huai Wang to send Hui Shi onward to Song rather than offend Zhang Yi.
-- [秦武王 / King Wu of Qin](entities/QinWuwang.md) — Qin ruler in the Zhouji 38 Zhanguo Ce supplement who accepts Zhang Yi's argument for leaving Qin to provoke Qi-Wei conflict.
+- [秦武王 / King Wu of Qin](entities/QinWuwang.md) — Qin ruler whose branch covers Zhang Yi's exit, Chen Zhuang's suppression, first left/right chancellors, and the Xirang oath with Gan Mao.
 - [齐湣王 / King Min of Qi](entities/QiMinWang.md) — Qi ruler whose hatred of Zhang Yi becomes the lever for the episode's Qi attack and later withdrawal.
 - [冯喜 / Feng Xi (Warring States)](entities/FengXiWarringStates.md) — Zhang Yi's retainer whose disclosure mission turns the hidden plan into an open signal for Qi.
 - [平州 / Pingzhou (Warring States)](entities/PingzhouWarringStates.md) — Wei place taken by Qin with Quwo after Wei refuses Zhang Yi's Qin-facing proposal.
@@ -1124,7 +1135,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫平侯 / Marquis Ping of Wey](entities/WeyPinghou.md) — Wey ruler whose death and succession by Wey Sijun mark another stage in weak-state status decline.
 - [武夏 / Wu Xia](entities/WuxiaWarringStates.md) — Zhanguo Ce figure who reframes a neglected Wey envoy's request through Wei's higher-priority Qin diplomacy.
 - [义渠 / Yiqu](entities/YiquState.md) — Western/rear frontier polity whose partial submission to Qin is not yet final destruction.
-- [赵武灵王 / King Wuling of Zhao](entities/ZhaoWulingwang.md) — Zhao ruler whose accession gestures foreshadow later military reform while this source stops at the political prelude.
+- [赵武灵王 / King Wuling of Zhao](entities/ZhaoWulingwang.md) — Zhao ruler whose branch now joins reform signaling, title restraint, Zhang Yi's threat speech, and the Wu Wa-Zhao He-Zhao Zhang succession setup.
 - [肥义 / Fei Yi](entities/FeiYi.md) — Senior Zhao minister honored by Zhao Wuling Wang as part of the new-ruler signaling sequence.
 - [犀首公孙衍 / Gongsun Yan](entities/GongsunYan.md) — Wei-born strategist/title-holder whom Qin uses to disrupt the Qi-Wei-Zhao side of hezong, later previewed as Zhang Yi's rival.
 - [楚怀王 / King Huai of Chu](entities/ChuHuaiwang.md) — Chu Wei Wang's son and successor in the 329 BCE notice, previewing the later dramatic Chu branch.
@@ -1154,13 +1165,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — Figure paired with Su Qin in Sima Guang's consolation poem to Wu Zhicai.
 - [吾之才 / Wu Zhicai](entities/WuZhicai.md) — Addressee of Sima Guang's poem using Su Qin as encouragement for frustration and disregard.
 - [屈宜臼 / Qu Yijiu](entities/QuYijiu.md) — Chu critic of Han Zhaohou's high-gate project who defines timing as political circumstance.
-- [越国 / Yue State](entities/YueState.md) — Warring States state whose failed anti-Qi move and later Chu defeat are kept distinct from final extinction.
+- [越国 / Yue State](entities/YueState.md) — State whose wiki branch spans Goujian's destruction of Wu and the later Warring States decline under Yue Wang Wujiang.
 - [越王无疆 / Yue Wang Wujiang](entities/YueWangWujiang.md) — Yue ruler whose failed attack on Qi begins a decline branch rather than an immediate collapse.
 - [张丑 / Zhang Chou](entities/ZhangChou.md) — Qi minister who warns Tian Ying that accepting Wei's title gift will trigger strong-state backlash.
 - [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader whose branch now covers doubtful hezong chronology, failure-driven self-study, 揣摩, first Yan patronage, the completed six-state coalition tour, and the 前倨后恭 homecoming.
 - [张仪 / Zhang Yi (Warring States strategist)](entities/ZhangYiStrategist.md) — Warring States strategist page kept distinct from the existing modern Zhang Yi entity.
 - [惠施 / Hui Shi](entities/HuiShi.md) — Wei adviser who uses low-posture diplomacy after Maling to turn Wei's deference to Qi into strategic breathing room.
-- [宜阳 / Yiyang (Warring States)](entities/YiyangWarringStates.md) — Han place seized by Qin in 335 BCE and treated as a long-coveted strategic target.
+- [宜阳 / Yiyang (Warring States)](entities/YiyangWarringStates.md) — Han strategic place with a source-layer tension between Qin taking it in 335 BCE and Gan Mao's hard 308-307 BCE campaign.
 - [张开地 / Zhang Kaidi](entities/ZhangKaidi.md) — Han chief minister after Shen Buhai and Zhang Liang's grandfather, used to explain Zhang-family political memory.
 - [张平 / Zhang Ping](entities/ZhangPingHan.md) — Han chief minister and Zhang Liang's father, recorded as continuing the family service line to Han.
 - [宋太丘社 / Taiqiu She](entities/TaiqiuShe.md) — unresolved Song ritual-omen notice in the 336 BCE Zizhi Tongjian chronology.
@@ -1218,7 +1229,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [翟黄 / Di Huang](entities/DiHuang.md) — Wei chancellor candidate who argues from his recommendations of Wu Qi, Ximen Bao, Le Yang, Li Ke, and Qu Houfu.
 - [屈侯鲋 / Qu Houfu](entities/QuHoufu.md) — Teacher recommended by Di Huang for Wei Wenhou's son in the chancellor-selection episode.
 - [西门豹 / Ximen Bao](entities/XimenBao.md) — Official recommended by Di Huang for Ye, used as part of the referral-quality comparison.
-- [乐羊 / Le Yang](entities/LeYang.md) — General recommended by Di Huang for the Zhongshan campaign.
+- [乐羊 / Le Yang](entities/LeYang.md) — Wei general whose Zhongshan campaign becomes Gan Mao's example of ruler trust deciding whether a long campaign survives slander.
 - [淳于髡 / Chunyu Kun](entities/ChunyuKun.md) — Qi speaker whose allusive remonstrance reaches Qi Wei Wang through the silent-bird riddle.
 - [陈聊 / Chen Liao](entities/ChenLiao.md) — Qi official who receives delegated affairs while Qi Wei Wang neglects government in the episode's crisis setup.
 - [龙甲 / Long Jia](entities/LongJia.md) — Wei general sent by Liang Hui Wang to build western defenses after Qin defeats Han at West Mountain.
@@ -7143,8 +7154,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Interstate Cascade Diplomacy / 多国连锁外交](concepts/InterstateCascadeDiplomacy.md) — Zigong-style rescue strategy that redirects one state's attack by chaining several rulers' incentives across Qi, Wu, Yue, Jin, and Lu.
+- [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Gan Mao's risk model where repeated accusation and court faction pressure can make a ruler abandon a commander mid-campaign.
+- [Oath-Bound Command Trust / 盟誓约束下的统帅信任](concepts/OathBoundCommandTrust.md) — Political commitment device where a ruler publicly binds support for a long campaign before predictable slander begins.
+- [Affection-Driven Succession Risk / 宠爱驱动的立储风险](concepts/AffectionDrivenSuccessionRisk.md) — Succession danger when ruler affection for a spouse or younger child destabilizes an older legitimate branch.
 - [Mencian Great-Man Criterion / 孟子大丈夫标准](concepts/MencianGreatManCriterion.md) — Mencius's test that greatness requires moral steadiness under wealth, poverty, and force rather than mere political impact.
-- [Motive-Based Talent Evaluation / 动机导向的才干评价](concepts/MotiveBasedTalentEvaluation.md) — Moral test distinguishing similar political talents by purpose, beneficiary, and relation to public rescue or private gain.
+- [Motive-Based Talent Evaluation / 动机导向的才干评价](concepts/MotiveBasedTalentEvaluation.md) — Moral test distinguishing similar political talents by purpose, beneficiary, and relation to public rescue or private gain, expanded through Zigong's rescue of Lu.
 - [Self-Preservation as State Strategy / 以自保包装国策](concepts/SelfPreservationAsStateStrategy.md) — Maneuver where a threatened court actor frames a personal exit as useful state strategy.
 - [可交换功臣 / Minister as Exchangeable Asset](concepts/MinisterAsExchangeableAsset.md) — Ruler calculation where a valued minister's survival, transfer, or death can all be converted into state advantage.
 - [宫廷后门自救 / Court Backchannel Survival](concepts/CourtBackchannelSurvival.md) — Hostile-court survival pattern where preexisting palace relationships and private status fears change a ruler's decision.
@@ -7195,7 +7210,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
 - [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
 - [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Zhao Liang's warning that popular regard and elite acceptance can become practical safety infrastructure for powerful ministers.
-- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success and accumulated enemies make leaving power more dangerous than staying.
+- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, ruler suspicion, or exposed ruler humiliations make staying or leaving power dangerous.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
@@ -7218,7 +7233,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing a formed enemy out of its strong position through exposed targets, false weakness, or prepared pursuit bait.
 - [Treason Accusation Trap / 谋反指控陷阱](concepts/TreasonAccusationTrap.md) — Court-politics pattern where a planted suspicious event turns a rival's prestige into operational treason suspicion.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
-- [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices as crucial state-operation evidence.
+- [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.
 - [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.
 - [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Li Ke's five-condition framework for judging people by relationships, referrals, and refusals under pressure.
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6074
+wiki_total_pages: 6084
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -533,6 +533,12 @@ wiki_pages:
   - key: "WuWeizhi"
     title: "吴伟志 / Wu Weizhi"
     url: "/wiki/entities/wuweizhi/"
+  - key: "WuState"
+    title: "吴国 / Wu State"
+    url: "/wiki/entities/wustate/"
+  - key: "WuWa"
+    title: "吴娃 / Wu Wa"
+    url: "/wiki/entities/wuwa/"
   - key: "WuChengen"
     title: "吴承恩"
     url: "/wiki/entities/wuchengen/"
@@ -605,6 +611,9 @@ wiki_pages:
   - key: "WenQi"
     title: "文淇 / Wen Qi"
     url: "/wiki/entities/wenqi/"
+  - key: "WenZhongYue"
+    title: "文种 / Wen Zhong of Yue"
+    url: "/wiki/entities/wenzhongyue/"
   - key: "WurenZhixiao"
     title: "无人知晓"
     url: "/wiki/entities/wurenzhixiao/"

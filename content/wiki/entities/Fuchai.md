@@ -1,0 +1,21 @@
+---
+title: "吴王夫差 / King Fuchai of Wu"
+type: entity
+tags: [person, ruler, wu-state, spring-and-autumn, pre-qin]
+sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+last_updated: 2026-08-20
+---
+
+# 吴王夫差 / King Fuchai of Wu
+
+吴王夫差 / King Fuchai of Wu appears in [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] as the [[WuState|吴国]] ruler drawn into [[Zigong|子贡 / 端木赐]]'s rescue chain. Zigong persuades Fuchai to attack [[QiState|齐国]], but also has to address Fuchai's fear that [[Goujian|越王勾践]] might strike Wu from behind.
+
+The episode uses Fuchai as the hinge where rescue turns into chain reaction. Wu defeats Qi, but Fuchai then wants to attack [[JinState|晋国]] and is defeated by a prepared Jin force. [[YueState|越国]] exploits that weakness, and Fuchai eventually commits suicide after failed attempts to make peace with Goujian.
+
+## Connections
+- [[WuState|吴国]] - polity he rules.
+- [[Zigong|子贡 / 端木赐]] - persuader who redirects him toward Qi.
+- [[QiState|齐国]], [[JinState|晋国]], and [[YueState|越国]] - sequence of success, overreach, and defeat.
+- [[Goujian|越王勾践]] - rival who destroys Wu after Fuchai's exhaustion.
+- [[InterstateCascadeDiplomacy|多国连锁外交]] - source concept for the broader chain.
+

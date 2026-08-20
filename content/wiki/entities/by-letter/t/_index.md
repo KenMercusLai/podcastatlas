@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6074
+wiki_total_pages: 6084
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -989,6 +989,9 @@ wiki_pages:
   - key: "TianFeng"
     title: "田峰 / Tian Feng"
     url: "/wiki/entities/tianfeng/"
+  - key: "TianChang"
+    title: "田常 / Tian Chang"
+    url: "/wiki/entities/tianchang/"
   - key: "TianJi"
     title: "田忌 / Tian Ji"
     url: "/wiki/entities/tianji/"

@@ -2,7 +2,7 @@
 title: "秦武王 / King Wu of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,10 @@ The wiki should keep this page source-scoped because the episode uses the Qin Wu
 
 [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] develops that sequence into an authorized exit. Qin Wuwang hears Zhang Yi's proposal that sending him to [[WeiState|魏国]] will provoke [[QiState|齐国]], distract Wei and Qi, and give Qin room to attack [[HanState|韩国]] and enter [[SanchuanWarringStates|三川]]. The episode keeps Qin Wuwang as the hostile successor, but also as the ruler who must be persuaded that Zhang Yi's departure is useful to Qin.
 
+[[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] moves Qin Wuwang from the Zhang Yi transition into his own governing acts. The episode has him finish the [[ChenZhuangWarringStates|陈庄]] rebellion through Qin forces, meet [[WeiXiangwang|魏襄王]] at Linjin, set Qin's first formal left/right chancellors with [[Chulizi|樗里疾 / 樗里子]] on the right and [[GanMao|甘茂]] on the left, and send Gan Mao to arrange a Wei-backed attack on [[HanState|韩国]].
+
+The same episode makes Qin Wuwang the ruler whose trust must be bound before the [[YiyangWarringStates|宜阳]] campaign. Gan Mao gets him to recognize [[RumorErosionOfTrust|谣言侵蚀信任]] as a predictable court problem and to swear publicly at Xirang, making Qin Wuwang the ruler-side case for [[OathBoundCommandTrust|盟誓约束下的统帅信任]].
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - minister whose departure he authorizes in the source's supplement.
 - [[YingSi|秦惠文王]] - predecessor named by the source.
@@ -25,3 +29,4 @@ The wiki should keep this page source-scoped because the episode uses the Qin Wu
 - [[Zhanguoce|《战国策》]] and [[ChronicleChronologyDrift|编年错位]] - source and chronology-caution frame.
 - [[PatronSuccessionExposure|靠山更替暴露风险]], [[Xianyang|咸阳]], [[HanState|韩国]], [[QiState|齐国]], [[ZhaoState|赵国]], and [[YanState|燕国]] - Zhouji 54 post-tour accession risk.
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[SanchuanWarringStates|三川]], [[WeiXiangwang|魏襄王]], and [[QiXuanWang|齐宣王]] - Zhouji 55 exit plan and Qi-Wei aftermath.
+- [[ChenZhuangWarringStates|陈庄]], [[Chulizi|樗里疾 / 樗里子]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], [[RumorErosionOfTrust|谣言侵蚀信任]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57 rebellion, chancellor setup, and campaign-oath branch.

@@ -2,7 +2,7 @@
 title: "Power Exit Trap / 权力退场困境"
 type: concept
 tags: [politics, statecraft, reform, power, risk]
-sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 
 [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] supplies a contrasting successful exit pattern through Zhang Yi. He also loses his main Qin protection after a ruler's death, but instead of simply resigning, he asks [[QinWuwang|秦武王]] to send him to Wei as a useful Qin strategy. The case shows that one way around an exit trap is to make departure valuable to the successor before the actor becomes completely exposed.
 
+[[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds a post-victory version through [[FanLi|范蠡]] and [[WenZhongYue|文种]]. After [[Goujian|越王勾践]] destroys [[WuState|吴国]], Fan Li leaves and warns Wen Zhong that useful ministers can be put away once the ruler's enemy is gone. Wen Zhong's later forced suicide shows a different exit trap: the danger comes not from failed reform but from remaining too close to a victorious ruler whose humiliation the minister has witnessed.
+
 ## Key Claims
 - Power can become protective infrastructure, not only a prize.
 - A reformer or strong minister may become less able to leave precisely because the reform has succeeded.
@@ -29,6 +31,7 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - Social support is part of exit safety; armed protection can conceal immediate danger while worsening the underlying legitimacy problem.
 - Exit plans decay in value when they are offered after resentment has become structurally organized.
 - A successful exit can require making departure useful to the successor, not merely leaving the dangerous court.
+- A ruler's completed revenge can end a minister's usefulness and expose anyone who knows the ruler's earlier humiliation.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[QinState|秦国]], and [[WarringStatesReformBacklash]] - central source case.
@@ -37,3 +40,4 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - [[CaoCao|曹操]], [[CaoPi|曹丕]], and [[EmperorXianOfHan|汉献帝]] - later analogy for irreversible power.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[LegalistSelfBindingBackfire|作法自毙]], [[GoodIntentionsPoliticalLimits]], and [[MachiavellianRealism]] - adjacent concepts about social support, power, law, and political realism.
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[ZhangYiStrategist|张仪]], and [[QinWuwang|秦武王]] - contrasting Zhouji 55 case where a threatened minister makes departure useful to the successor.
+- [[FanLi|范蠡]], [[WenZhongYue|文种]], [[Goujian|越王勾践]], and [[WuState|吴国]] - Zhouji 57 post-victory exit-risk branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 4767
+wiki_total_pages: 4771
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "InterstateBypassEconomics"
     title: "Interstate Bypass Economics"
     url: "/wiki/concepts/interstatebypasseconomics/"
+  - key: "InterstateCascadeDiplomacy"
+    title: "Interstate Cascade Diplomacy / 多国连锁外交"
+    url: "/wiki/concepts/interstatecascadediplomacy/"
   - key: "InterviewAsEmbodiedReporting"
     title: "Interview As Embodied Reporting / 采访作为具身报道"
     url: "/wiki/concepts/interviewasembodiedreporting/"

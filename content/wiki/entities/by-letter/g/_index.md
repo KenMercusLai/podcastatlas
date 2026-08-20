@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6074
+wiki_total_pages: 6084
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "GuiXiaoChu"
     title: "贵小厨 / Gui Xiao Chu"
     url: "/wiki/entities/guixiaochu/"
+  - key: "Goujian"
+    title: "越王勾践 / King Goujian of Yue"
+    url: "/wiki/entities/goujian/"
   - key: "Garuda"
     title: "迦楼罗 / 大鹏鸟 / Garuda"
     url: "/wiki/entities/garuda/"

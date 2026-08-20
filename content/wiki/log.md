@@ -8515,3 +8515,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》57丨古代发毒誓还有这作用？
+
+Added source page for a 芮淇讲透资治通鉴 episode linking Zigong's rescue of Lu through a Qi-Wu-Yue-Jin cascade with Zhou Nan Wang's early-year notices, Qin Wuwang's first left/right chancellors, Zhao Wuling Wang's Wu Wa/Zhao He/Zhao Zhang succession foreshadowing, and Gan Mao's Yiyang campaign oath. Created pages for Wu State, Tian Chang, Fuchai, Goujian, Fan Li, Wen Zhong of Yue, Zeng Shen, Wu Wa, Zhao He, Zhao Zhang, Interstate Cascade Diplomacy, Rumor Erosion of Trust, Oath-Bound Command Trust, and Affection-Driven Succession Risk; updated Gan Mao, Qin Wuwang, Zigong, Zhao Wuling Wang, Yiyang, Le Yang, Chulizi, Confucius, Yue State, Lu State, Zhou Nan Wang, Wei Xiang Wang, Chancellor-Centered Governance, Motive-Based Talent Evaluation, Qin Eastward Pressure, and Power Exit Trap. Flagged a source-layer Yiyang tension: Zhouji 27 says Qin took Yiyang in 335 BCE, while Zhouji 57 treats it as a Han target in Gan Mao's 308 BCE campaign.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

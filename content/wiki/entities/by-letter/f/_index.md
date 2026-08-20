@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6074
+wiki_total_pages: 6084
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "FormerShu"
     title: "前蜀 / Former Shu"
     url: "/wiki/entities/formershu/"
+  - key: "Fuchai"
+    title: "吴王夫差 / King Fuchai of Wu"
+    url: "/wiki/entities/fuchai/"
   - key: "Fosun"
     title: "复星 / Fosun"
     url: "/wiki/entities/fosun/"
@@ -572,6 +575,9 @@ wiki_pages:
   - key: "FanZeng"
     title: "范增 / Fan Zeng"
     url: "/wiki/entities/fanzeng/"
+  - key: "FanLi"
+    title: "范蠡 / Fan Li"
+    url: "/wiki/entities/fanli/"
   - key: "FanJin"
     title: "范进"
     url: "/wiki/entities/fanjin/"

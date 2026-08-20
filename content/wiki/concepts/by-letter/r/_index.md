@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 4767
+wiki_total_pages: 4771
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "RuminationVsReflection"
     title: "Rumination Vs Reflection"
     url: "/wiki/concepts/ruminationvsreflection/"
+  - key: "RumorErosionOfTrust"
+    title: "Rumor Erosion of Trust / 谣言侵蚀信任"
+    url: "/wiki/concepts/rumorerosionoftrust/"
   - key: "RunningShoeTechnology"
     title: "Running Shoe Technology"
     url: "/wiki/concepts/runningshoetechnology/"

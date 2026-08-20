@@ -2851,6 +2851,10 @@
     "title": "Aether AI",
     "url": "/wiki/entities/aetherai/"
   },
+  "AffectionDrivenSuccessionRisk": {
+    "title": "Affection-Driven Succession Risk / 宠爱驱动的立储风险",
+    "url": "/wiki/concepts/affectiondrivensuccessionrisk/"
+  },
   "AffectivePolarization": {
     "title": "Affective Polarization / 情感极化",
     "url": "/wiki/concepts/affectivepolarization/"
@@ -14135,6 +14139,10 @@
     "title": "樊哙 / Fan Kuai",
     "url": "/wiki/entities/fankuai/"
   },
+  "FanLi": {
+    "title": "范蠡 / Fan Li",
+    "url": "/wiki/entities/fanli/"
+  },
   "FanMin": {
     "title": "Fan Min",
     "url": "/wiki/entities/fanmin/"
@@ -15735,6 +15743,10 @@
     "title": "傅宇 / Fu Yu",
     "url": "/wiki/entities/fuyu/"
   },
+  "Fuchai": {
+    "title": "吴王夫差 / King Fuchai of Wu",
+    "url": "/wiki/entities/fuchai/"
+  },
   "FuchsiaDunlop": {
     "title": "Fuchsia Dunlop / 胡霞",
     "url": "/wiki/entities/fuchsiadunlop/"
@@ -16930,6 +16942,10 @@
   "GouBian": {
     "title": "苟变 / Gou Bian",
     "url": "/wiki/entities/goubian/"
+  },
+  "Goujian": {
+    "title": "越王勾践 / King Goujian of Yue",
+    "url": "/wiki/entities/goujian/"
   },
   "GovernmentAIPaceSetting": {
     "title": "Government AI Pace-Setting",
@@ -19994,6 +20010,10 @@
   "InterstateBypassEconomics": {
     "title": "Interstate Bypass Economics",
     "url": "/wiki/concepts/interstatebypasseconomics/"
+  },
+  "InterstateCascadeDiplomacy": {
+    "title": "Interstate Cascade Diplomacy / 多国连锁外交",
+    "url": "/wiki/concepts/interstatecascadediplomacy/"
   },
   "InterviewAsEmbodiedReporting": {
     "title": "Interview As Embodied Reporting / 采访作为具身报道",
@@ -28411,6 +28431,10 @@
     "title": "Oakland, California",
     "url": "/wiki/entities/oaklandcalifornia/"
   },
+  "OathBoundCommandTrust": {
+    "title": "Oath-Bound Command Trust / 盟誓约束下的统帅信任",
+    "url": "/wiki/concepts/oathboundcommandtrust/"
+  },
   "ObaYozo": {
     "title": "大庭叶藏 / Oba Yozo",
     "url": "/wiki/entities/obayozo/"
@@ -33907,6 +33931,10 @@
     "title": "Rumination Vs Reflection",
     "url": "/wiki/concepts/ruminationvsreflection/"
   },
+  "RumorErosionOfTrust": {
+    "title": "Rumor Erosion of Trust / 谣言侵蚀信任",
+    "url": "/wiki/concepts/rumorerosionoftrust/"
+  },
   "RunningShoeTechnology": {
     "title": "Running Shoe Technology",
     "url": "/wiki/concepts/runningshoetechnology/"
@@ -39127,6 +39155,10 @@
     "title": "田斑 / Tian Ban",
     "url": "/wiki/entities/tianban/"
   },
+  "TianChang": {
+    "title": "田常 / Tian Chang",
+    "url": "/wiki/entities/tianchang/"
+  },
   "TianFamilyReplacementOfQi": {
     "title": "Tian Family Replacement of Qi / 田氏代齐",
     "url": "/wiki/concepts/tianfamilyreplacementofqi/"
@@ -41699,6 +41731,10 @@
     "title": "闻一多 / Wen Yiduo",
     "url": "/wiki/entities/wenyiduo/"
   },
+  "WenZhongYue": {
+    "title": "文种 / Wen Zhong of Yue",
+    "url": "/wiki/entities/wenzhongyue/"
+  },
   "WendyBellissimo": {
     "title": "Wendy Bellissimo",
     "url": "/wiki/entities/wendybellissimo/"
@@ -42359,9 +42395,17 @@
     "title": "武松 / Wu Song",
     "url": "/wiki/entities/wusong/"
   },
+  "WuState": {
+    "title": "吴国 / Wu State",
+    "url": "/wiki/entities/wustate/"
+  },
   "WuTao": {
     "title": "吴涛",
     "url": "/wiki/entities/wutao/"
+  },
+  "WuWa": {
+    "title": "吴娃 / Wu Wa",
+    "url": "/wiki/entities/wuwa/"
   },
   "WuWeizhi": {
     "title": "吴伟志 / Wu Weizhi",
@@ -43687,6 +43731,10 @@
     "title": "曾静 / Zeng Jing",
     "url": "/wiki/entities/zengjing/"
   },
+  "ZengShen": {
+    "title": "曾参 / Zeng Shen",
+    "url": "/wiki/entities/zengshen/"
+  },
   "ZengXin": {
     "title": "曾欣 / Zeng Xin",
     "url": "/wiki/entities/zengxin/"
@@ -43959,6 +44007,10 @@
     "title": "Zhao Hang",
     "url": "/wiki/entities/zhaohang/"
   },
+  "ZhaoHe": {
+    "title": "赵何 / Zhao He",
+    "url": "/wiki/entities/zhaohe/"
+  },
   "ZhaoHuanzi": {
     "title": "赵桓子 / Zhao Huanzi",
     "url": "/wiki/entities/zhaohuanzi/"
@@ -44030,6 +44082,10 @@
   "ZhaoYuanren": {
     "title": "赵元任",
     "url": "/wiki/entities/zhaoyuanren/"
+  },
+  "ZhaoZhang": {
+    "title": "赵章 / Zhao Zhang",
+    "url": "/wiki/entities/zhaozhang/"
   },
   "ZhedongTangPoetryRoad": {
     "title": "浙东唐诗之路 / Eastern Zhejiang Tang Poetry Road",
@@ -47594,5 +47650,9 @@
   "zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41": {
     "title": "《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41/"
+  },
+  "zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si": {
+    "title": "《资治通鉴·周纪》57丨古代发毒誓还有这作用？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si/"
   }
 }
