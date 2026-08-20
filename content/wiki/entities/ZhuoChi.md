@@ -2,8 +2,8 @@
 title: "淖齿 / 卓齿 / Zhuo Chi"
 type: entity
 tags: [person, general, chu-state, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
+last_updated: 2026-08-21
 ---
 
 # 淖齿 / 卓齿 / Zhuo Chi
@@ -18,6 +18,8 @@ The episode still keeps motive mixed. Zhuo Chi may be punishing a tyrant, reacti
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] gives Zhuo Chi's own reversal. [[WangSunGu|王孙古]] publicly mobilizes more than four hundred men to avenge Qi Min Wang, attacks Zhuo Chi while he is unprepared, and kills him. The source says the Chu army retreats after losing him, making his death the pivot from Qi Min Wang's execution toward [[QiXiangWang|齐襄王]]'s restoration.
 
+[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] uses Zhuo Chi retrospectively in [[FanJu|范雎]]'s speech to [[QinZhaoxiangwang|秦昭襄王]]. The point is not to add new detail to Zhuo Chi's biography, but to make his seizure of power and killing of [[QiMinWang|齐湣王]] a warning example for Qin's own [[QinFourNoblesCourtPower|four-nobles]] problem.
+
 ## Connections
 - [[QiMinWang|齐湣王]] - ruler he captures and kills.
 - [[ChuState|楚国]] - state from which he is sent.
@@ -27,3 +29,4 @@ The episode still keeps motive mixed. Zhuo Chi may be punishing a tyrant, reacti
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - larger failure patterns that make Qi Min Wang killable.
 - [[Zhanguoce|《战国策》]] - source layer the episode invokes when discussing ruler deaths by臣下.
 - [[WangSunGu|王孙古]], [[RetainerRevengeMobilization|臣下复仇动员]], and [[QiXiangWang|齐襄王]] - Zhouji 73 revenge attack and restoration sequel.
+- [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], and [[QinFourNoblesCourtPower|秦国四贵权力结构]] - Zhouji 89 precedent warning against overmighty court power.

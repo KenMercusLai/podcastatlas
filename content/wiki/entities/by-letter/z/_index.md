@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6212
+wiki_total_pages: 6220
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "ZhugeLiang"
     title: "诸葛亮 / Zhuge Liang"
     url: "/wiki/entities/zhugeliang/"
+  - key: "ZhaoDan"
+    title: "赵丹 / 赵孝成王 / King Xiaocheng of Zhao"
+    url: "/wiki/entities/zhaodan/"
   - key: "ZhaoBolu"
     title: "赵伯鲁 / Zhao Bolu"
     url: "/wiki/entities/zhaobolu/"

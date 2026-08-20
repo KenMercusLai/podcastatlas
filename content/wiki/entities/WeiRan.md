@@ -2,7 +2,7 @@
 title: "魏冉 / Wei Ran"
 type: entity
 tags: [person, qin-state, minister, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
+sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,10 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] makes that counterweight direct. Fan Ju tells [[QinZhaoxiangwang|秦昭襄王]] that Qin has no real king, only [[XuanTaihou|宣太后]] and Wei Ran, then criticizes the Qi campaign as the wrong strategic direction. Wei Ran therefore becomes both the court-power obstacle and the policy-error case behind [[YuanjiaoJingongStrategy|远交近攻]]: Qin should not cross Han and Wei to fight distant Qi for gains it cannot easily keep.
 
+[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] intensifies that critique. Fan Ju singles Wei Ran out as a figure able to dispatch envoys, influence war decisions, and fill the court and attendants with his own people. The episode makes him the most developed member of [[QinFourNoblesCourtPower|秦国四贵权力结构]]: his private gains can be wrapped in public war while Qin absorbs the cost.
+
+[[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] gives Wei Ran's removal and afterlife. He is stripped of office and sent back to [[Dingtao|陶 / 定陶]], with a massive convoy whose private wealth underscores the earlier criticism that he had outgrown normal ministerial bounds. The host notes [[SimaQian|司马迁]]'s sympathy for Wei Ran's Qin accomplishments but does not fully accept it, arguing that a minister who forgets ruler-minister limits cannot be treated as simply wronged.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - nephew whose accession he secures.
 - [[XuanTaihou|芈八子 / 宣太后]] - related power configuration around Ying Ji.
@@ -44,3 +48,5 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 - [[HuayangBattle|华阳之战]], [[HanState|韩国]], [[ZhaoState|赵国]], and [[ThreatenedDefectionLeverage|投敌威胁式求援]] - Zhouji 83 rescue decision and campaign.
 - [[KeqingZao|客卿灶 / 客卿造]], [[QiState|齐国]], [[Dingtao|陶 / 定陶]], [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]], and [[FanJu|范雎]] - Zhouji 88 private-fief campaign setup and coming court struggle.
 - [[YuanjiaoJingongStrategy|远交近攻]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[XuanTaihou|宣太后]] - Zhouji 88 part 2 strategic critique and internal Qin authority problem.
+- [[QinFourNoblesCourtPower|秦国四贵权力结构]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], [[GaolingJunQin|高陵君]], [[ZhuoChi|卓齿]], and [[LiDui|李兑]] - Zhouji 89 widened four-nobles and overmighty-minister warning.
+- [[SimaQian|司马迁]], [[Dingtao|陶 / 定陶]], and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - Zhouji 90 removal, wealth display, and historiographical disagreement.

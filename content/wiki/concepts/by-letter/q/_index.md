@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 4858
+wiki_total_pages: 4860
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "QinEastwardPressure"
     title: "Qin Eastward Pressure / 秦国东进压力"
     url: "/wiki/concepts/qineastwardpressure/"
+  - key: "QinFourNoblesCourtPower"
+    title: "Qin Four Nobles Court Power / 秦国四贵权力结构"
+    url: "/wiki/concepts/qinfournoblescourtpower/"
   - key: "QinFrontierBufferManagement"
     title: "Qin Frontier Buffer Management / 秦国后方边患管理"
     url: "/wiki/concepts/qinfrontierbuffermanagement/"

@@ -16299,6 +16299,10 @@
     "title": "Gaode",
     "url": "/wiki/entities/gaode/"
   },
+  "GaolingJunQin": {
+    "title": "高陵君 / Gaoling Jun (Qin)",
+    "url": "/wiki/entities/gaolingjunqin/"
+  },
   "GaolingVillage": {
     "title": "Gaoling Village / 高岭村",
     "url": "/wiki/entities/gaolingvillage/"
@@ -19103,6 +19107,10 @@
     "title": "胡戈 / Hu Ge",
     "url": "/wiki/entities/huge/"
   },
+  "HuShangHuyang": {
+    "title": "胡伤 / 胡阳 / Hu Shang or Hu Yang",
+    "url": "/wiki/entities/hushanghuyang/"
+  },
   "HuShi": {
     "title": "胡适",
     "url": "/wiki/entities/hushi/"
@@ -19210,6 +19218,10 @@
   "HuayangBattle": {
     "title": "华阳之战 / Battle of Huayang",
     "url": "/wiki/entities/huayangbattle/"
+  },
+  "HuayangJunQin": {
+    "title": "华阳君 / Huayang Jun (Qin)",
+    "url": "/wiki/entities/huayangjunqin/"
   },
   "HuazhuGroup": {
     "title": "Huazhu Group",
@@ -21522,6 +21534,10 @@
   "JingshenXixueguiBook": {
     "title": "《精神吸血鬼》",
     "url": "/wiki/entities/jingshenxixueguibook/"
+  },
+  "JingyangJunQin": {
+    "title": "泾阳君 / Jingyang Jun (Qin)",
+    "url": "/wiki/entities/jingyangjunqin/"
   },
   "Jinjiang": {
     "title": "Jinjiang / 晋江",
@@ -30531,6 +30547,10 @@
     "title": "Personal Pension Account / 个人养老金账户",
     "url": "/wiki/concepts/personalpensionaccount/"
   },
+  "PersonalRevengeThroughStatePower": {
+    "title": "Personal Revenge Through State Power / 以国力行私仇",
+    "url": "/wiki/concepts/personalrevengethroughstatepower/"
+  },
   "PersonalRuleLegitimacyCrisis": {
     "title": "Personal Rule Legitimacy Crisis / 个人统治正当性危机",
     "url": "/wiki/concepts/personalrulelegitimacycrisis/"
@@ -32543,6 +32563,10 @@
     "title": "秦出公 / Qin Chugong",
     "url": "/wiki/entities/qinchugong/"
   },
+  "QinDaotaizi": {
+    "title": "秦悼太子 / Qin Daotaizi",
+    "url": "/wiki/entities/qindaotaizi/"
+  },
   "QinDiplomaticExclusion": {
     "title": "Qin Diplomatic Exclusion / 秦国外交排斥",
     "url": "/wiki/concepts/qindiplomaticexclusion/"
@@ -32558,6 +32582,10 @@
   "QinFeizi": {
     "title": "非子 / Qin Feizi",
     "url": "/wiki/entities/qinfeizi/"
+  },
+  "QinFourNoblesCourtPower": {
+    "title": "Qin Four Nobles Court Power / 秦国四贵权力结构",
+    "url": "/wiki/concepts/qinfournoblescourtpower/"
   },
   "QinFrontierBufferManagement": {
     "title": "Qin Frontier Buffer Management / 秦国后方边患管理",
@@ -32595,6 +32623,10 @@
     "title": "秦国 / Qin State",
     "url": "/wiki/entities/qinstate/"
   },
+  "QinWangWan": {
+    "title": "王绾 / Wang Wan (Qin)",
+    "url": "/wiki/entities/qinwangwan/"
+  },
   "QinWengong": {
     "title": "秦文公 / Duke Wen of Qin",
     "url": "/wiki/entities/qinwengong/"
@@ -32614,6 +32646,10 @@
   "QinXiaogong": {
     "title": "秦孝公 / Duke Xiao of Qin",
     "url": "/wiki/entities/qinxiaogong/"
+  },
+  "QinXiaowenwang": {
+    "title": "安国君柱 / 秦孝文王 / King Xiaowen of Qin",
+    "url": "/wiki/entities/qinxiaowenwang/"
   },
   "QinYing": {
     "title": "秦嬴 / Qin Ying",
@@ -44799,6 +44835,10 @@
     "title": "Zhao Chenyang / 赵晨阳",
     "url": "/wiki/entities/zhaochenyang/"
   },
+  "ZhaoDan": {
+    "title": "赵丹 / 赵孝成王 / King Xiaocheng of Zhao",
+    "url": "/wiki/entities/zhaodan/"
+  },
   "ZhaoDefang": {
     "title": "赵德芳 / Zhao Defang",
     "url": "/wiki/entities/zhaodefang/"
@@ -48678,5 +48718,13 @@
   "zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi": {
     "title": "《资治通鉴·周纪》88丨你怎么看待凤凰男（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi/"
+  },
+  "zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19": {
+    "title": "《资治通鉴·周纪》89丨秦王竟被他怼“妈宝男”？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19/"
+  },
+  "zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm": {
+    "title": "《资治通鉴·周纪》90丨揭秘先秦最完美的复仇",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm/"
   }
 }

@@ -8847,3 +8847,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki lint check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12170 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` was not provider-qualified.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》89丨秦王竟被他怼“妈宝男”？
+
+Added source page for a 芮淇讲透资治通鉴 episode continuing Fan Ju's 远交近攻 branch into Qin internal authority politics. Created pages for Qin Four Nobles Court Power, Qin Daotaizi, Qin Xiaowen Wang / Anguo Jun Zhu, Qin Wang Wan, Hu Shang / Hu Yang, Huayang Jun, Jingyang Jun, and Gaoling Jun; updated overview, index, Fan Ju, Qin Zhaoxiang Wang, Wei Ran, Xuan Taihou, Qin State, Zhou Nan Wang, Eyu Battle, Wei Anxi Wang, Qi Min Wang, Zhuo Chi, Li Dui, Zhao Wuling Wang, Yuanjiao Jingong Strategy, Qin Eastward Pressure, Foreign-Relative Court Politics, Queen-Mother Regency, Hostage Diplomacy Rupture, and Private Fief Expansion Through State War. No direct contradiction found; Hu Shang/Hu Yang, Wudafu Wan/Wang Wan, and the Qin crown-prince-favor inference were kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》90丨揭秘先秦最完美的复仇
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Fan Ju's Qin authority-recovery branch and turning his revenge against Xu Jia and Wei Qi into a case of personal revenge through state power. Created Zhao Dan / Zhao Xiaocheng Wang and Personal Revenge Through State Power; updated overview, index, Fan Ju, Xu Jia, Wei Qi, Wei Ran, Qin Zhaoxiang Wang, Xuan Taihou, Pingyuanjun, Zhao He, Qin/Wei/Zhao state pages, Daliang, Yuanjiao Jingong Strategy, Qin Four Nobles Court Power, Private Punishment Without Procedure, Aristocratic Political Asylum, and Sima Qian. No direct contradiction found; Xuan Taihou's formal deposition status and Fan Ju's Yinghou title timing were kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6212
+wiki_total_pages: 6220
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "HuayangBattle"
     title: "华阳之战 / Battle of Huayang"
     url: "/wiki/entities/huayangbattle/"
+  - key: "HuayangJunQin"
+    title: "华阳君 / Huayang Jun (Qin)"
+    url: "/wiki/entities/huayangjunqin/"
   - key: "HousheNansheng"
     title: "后舍男生 / Houshe Nansheng"
     url: "/wiki/entities/houshenansheng/"
@@ -716,6 +719,9 @@ wiki_pages:
   - key: "HongseHuojianIndexTool"
     title: "红色火箭 / Hongse Huojian"
     url: "/wiki/entities/hongsehuojianindextool/"
+  - key: "HuShangHuyang"
+    title: "胡伤 / 胡阳 / Hu Shang or Hu Yang"
+    url: "/wiki/entities/hushanghuyang/"
   - key: "HuGe"
     title: "胡戈 / Hu Ge"
     url: "/wiki/entities/huge/"

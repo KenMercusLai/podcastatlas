@@ -2,7 +2,7 @@
 title: "芈八子 / 宣太后 / Xuan Taihou"
 type: entity
 tags: [person, queen-mother, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ last_updated: 2026-08-21
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] uses Xuan Taihou as one half of Fan Ju's blunt diagnosis of Qin court power. Fan Ju's statement that Qin has no king, only the queen mother and [[WeiRan|穰侯魏冉]], does not add a new frontier action by Xuan Taihou; it marks the point where her regency-era authority has become a problem [[QinZhaoxiangwang|秦昭襄王]] must address if he wants Fan Ju's [[YuanjiaoJingongStrategy|远交近攻]] to be implemented.
 
+[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] places Xuan Taihou above the four named Qin nobles. The episode does not add another action like the Yiqu killing; it shows that her earlier [[QueenMotherRegency|太后摄政]] has left a durable court order in which [[WeiRan|魏冉]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], and [[GaolingJunQin|高陵君]] can make Qin Zhaoxiang Wang politically dependent despite his ruler title.
+
+[[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] adds the qualification to that court-power story. The episode says [[QinZhaoxiangwang|秦昭襄王]] does recover practical authority, but it also cautions that Xuan Taihou may not have been literally deposed in every source tradition. The wiki therefore treats this as a reduction or displacement of queen-mother dominance, not as a certain clean break.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - son whose accession brings her into the wiki.
 - [[QinWuwang|秦武王]] - predecessor whose death creates the succession opening.
@@ -30,3 +34,5 @@ last_updated: 2026-08-21
 - [[ChuHuaiwang|楚怀王]], [[MiLan|芈兰]], [[Wuguan|武关]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 kinship-confidence failure around the Wuguan meeting.
 - [[YiquState|义渠]], [[GanquanPalace|甘泉宫]], [[BeidiCommandery|北地郡]], [[QinFrontierBufferManagement|秦国后方边患管理]], and [[IntimateFrontierPacification|亲密关系式边患安抚]] - Zhouji 85 relationship, killing, and frontier absorption branch.
 - [[FanJu|范雎]], [[WeiRan|魏冉]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 court-authority diagnosis and strategic-implementation obstacle.
+- [[QinFourNoblesCourtPower|秦国四贵权力结构]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], and [[GaolingJunQin|高陵君]] - Zhouji 89 four-nobles structure under the queen-mother shadow.
+- [[QinZhaoxiangwang|秦昭襄王]] and [[QinFourNoblesCourtPower|秦国四贵权力结构]] - Zhouji 90 authority recovery with source-scope caution about formal deposition.

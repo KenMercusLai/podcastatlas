@@ -2,7 +2,7 @@
 title: "平原君 / Lord Pingyuan"
 type: entity
 tags: [person, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
+sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ That small hosting role matters because the insult triggers a disproportionate r
 
 [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] turns Pingyuanjun from patron into the elite test case for [[ZhaoShe|赵奢]]'s tax enforcement. His household refuses payment; Zhao She executes nine household personnel by law, then persuades Pingyuanjun that aristocratic exemption would weaken [[ZhaoState|赵国]] and ultimately endanger Pingyuanjun's own wealth. Pingyuanjun's decision to recommend Zhao She to [[ZhaoHe|赵惠文王赵何]] makes him an example of [[EliteFiscalLawCompliance|贵族税法同遵]] rather than only retainer patronage.
 
+[[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] gives Pingyuanjun a sharper interstate-risk role. After [[FanJu|范雎]] demands [[WeiQiWarringStates|魏齐]]'s head from [[WeiState|魏国]], Wei Qi flees to Pingyuanjun's house in Zhao. The timing makes the refuge politically heavy: [[ZhaoHe|赵惠文王赵何]] has just died, [[ZhaoDan|赵孝成王]] has just succeeded, and Pingyuanjun is both a senior minister and the new ruler's uncle.
+
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]] - visiting lord hosted in Zhao.
 - [[ZhaoState|赵国]] - state setting for the ridicule and retaliatory violence.
@@ -25,3 +27,4 @@ That small hosting role matters because the insult triggers a disproportionate r
 - [[WarringStatesFourLords|战国四公子]], [[Xinlingjun|信陵君]], and [[Chunshenjun|春申君]] - Zhouji 63 four-lords comparison and next-episode setup.
 - [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 retainer-debate and argument-purpose branch.
 - [[ZhaoShe|赵奢]], [[ZhaoHe|赵惠文王赵何]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 tax enforcement, persuasion, and recommendation branch.
+- [[WeiQiWarringStates|魏齐]], [[FanJu|范雎]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - Zhouji 90 refuge decision with state-level risk.

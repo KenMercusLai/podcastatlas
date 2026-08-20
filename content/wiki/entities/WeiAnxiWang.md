@@ -2,7 +2,7 @@
 title: "魏安釐王 / King Anxi of Wei"
 type: entity
 tags: [person, ruler, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The same source also introduces his younger brother Wei Wuji as [[Xinlingjun|信
 
 [[zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1]] answers that unresolved question in a negative but more complicated way. Wei Anxi Wang first tries a weak [[QiState|齐国]] alignment, then joins [[ZhaoState|赵国]] to attack [[HanState|韩国]] at [[HuayangBattle|华阳之战]], only to trigger Qin's rescue of Han and suffer another disastrous defeat. When [[SuDai|苏代]] warns him that [[DuanGanzi|段干子]]'s land-for-peace proposal is [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]], the king understands the logic but still cedes land, making his weakness procedural as well as military.
 
+[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] gives the next Wei-side complaint. In 268 BCE [[QinWangWan|武大夫绾 / 王绾]] takes Huai from Wei, and in 266 BCE Qin takes nearby Xingqiu. The host summarizes Wei Anxi Wang's dilemma as one in which refusing Qin invites attack, but submitting does not stop attack either.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiZhaowang|魏昭王]] - polity and predecessor.
 - [[QinState|秦国]], [[BaiQi|白起]], and [[WeiRan|魏冉]] - pressure actors against his new reign.
@@ -23,3 +25,4 @@ The same source also introduces his younger brother Wei Wuji as [[Xinlingjun|信
 - [[Xinlingjun|信陵君]] and [[WarringStatesFourLords|战国四公子]] - brother and patronage grouping introduced in the same episode.
 - [[QinEastwardPressure|秦国东进压力]] and [[StrategicDepthDefense|战略纵深防御]] - larger strategic context for Qin's turn from Chu toward Wei.
 - [[HuayangBattle|华阳之战]], [[DuanGanzi|段干子]], [[SuDai|苏代]], [[ThreatenedDefectionLeverage|投敌威胁式求援]], and [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]] - Zhouji 83 failed attack on Han and post-defeat cession debate.
+- [[QinWangWan|王绾]], [[QinZhaoxiangwang|秦昭襄王]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 89 continued Qin near-attack pressure against Wei.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6212
+wiki_total_pages: 6220
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "Qinan"
     title: "奇楠 / Qinan"
     url: "/wiki/entities/qinan/"
+  - key: "QinXiaowenwang"
+    title: "安国君柱 / 秦孝文王 / King Xiaowen of Qin"
+    url: "/wiki/entities/qinxiaowenwang/"
   - key: "QuHoufu"
     title: "屈侯鲋 / Qu Houfu"
     url: "/wiki/entities/quhoufu/"
@@ -149,6 +152,9 @@ wiki_pages:
   - key: "QinghuaJianXinian"
     title: "清华简《系年》 / Qinghua Bamboo Slips Xinian"
     url: "/wiki/entities/qinghuajianxinian/"
+  - key: "QinWangWan"
+    title: "王绾 / Wang Wan (Qin)"
+    url: "/wiki/entities/qinwangwan/"
   - key: "QiongQiong"
     title: "琼琼 / Qiongqiong"
     url: "/wiki/entities/qiongqiong/"
@@ -173,6 +179,9 @@ wiki_pages:
   - key: "QinZong"
     title: "秦总"
     url: "/wiki/entities/qinzong/"
+  - key: "QinDaotaizi"
+    title: "秦悼太子 / Qin Daotaizi"
+    url: "/wiki/entities/qindaotaizi/"
   - key: "QinHuiGong"
     title: "秦惠公 / Duke Hui of Qin"
     url: "/wiki/entities/qinhuigong/"

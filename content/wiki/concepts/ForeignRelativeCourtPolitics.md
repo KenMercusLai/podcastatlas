@@ -2,7 +2,7 @@
 title: "Foreign-Relative Court Politics / 楚系外戚政治"
 type: concept
 tags: [court-politics, kinship, succession, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The concept is not only palace faction. The episode argues that once this kin bl
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] adds the later internal reckoning. [[FanJu|范雎]] tells Qin Zhaoxiang Wang that Qin has no real king, only Xuan Taihou and [[WeiRan|魏冉]], making the kin bloc an explicit obstacle to royal authority. The source links that court problem to strategy: [[YuanjiaoJingongStrategy|远交近攻]] cannot be implemented cleanly while Wei Ran can bend campaigns toward his own power base.
 
+[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] broadens the reckoning from Wei Ran alone to [[QinFourNoblesCourtPower|秦国四贵权力结构]]. Fan Ju's warning treats [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], and [[GaolingJunQin|高陵君]] as part of the same kin-power environment around Xuan Taihou and Wei Ran, showing how regency-era settlement can harden into a succession and command problem for the adult ruler.
+
 ## Key Claims
 - A maternal kin bloc can turn a succession crisis into durable court control.
 - Foreign-relative power can redirect foreign policy toward the queen mother's lineage world.
@@ -23,6 +25,7 @@ The concept is not only palace faction. The episode argues that once this kin bl
 - The pattern is related to [[QueenMotherRegency|太后摄政]] but emphasizes the wider kin group around the queen mother.
 - Maternal foreign ties can create trust expectations in the other state, but those expectations can fail when state interest shifts toward coercion.
 - Zhouji 88 part 2 adds that the same kin-power structure can later become a barrier to the ruler's own strategic correction.
+- Zhouji 89 adds the named four-nobles structure, making the kin bloc a multi-person court system rather than only a queen-mother-and-chancellor problem.
 
 ## Connections
 - [[XuanTaihou|芈八子 / 宣太后]], [[WeiRan|魏冉]], [[QinZhaoxiangwang|秦昭襄王]], and [[YingZhuang|嬴壮]] - regent, kin enforcer, ruler, and rebel.
@@ -31,3 +34,4 @@ The concept is not only palace faction. The episode argues that once this kin bl
 - [[QueenMotherRegency|太后摄政]] - overlapping regency structure.
 - [[ChuHuaiwang|楚怀王]], [[MiLan|芈兰]], [[Wuguan|武关]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 kinship-confidence limit case.
 - [[FanJu|范雎]], [[ProtectiveRemonstranceSequencing|护身符式进言]], [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 reckoning with kin-bloc authority and strategy.
+- [[QinFourNoblesCourtPower|秦国四贵权力结构]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], and [[GaolingJunQin|高陵君]] - Zhouji 89 named kin-power extension.

@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》90丨揭秘先秦最完美的复仇](sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm.md) — 芮淇讲透资治通鉴 episode on Fan Ju's revenge against Xu Jia and Wei Qi through Qin's near-Wei pressure, public humiliation, and the Pingyuanjun/Zhao asylum problem.
+- [《资治通鉴·周纪》89丨秦王竟被他怼“妈宝男”？](sources/zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19.md) — 芮淇讲透资治通鉴 episode on Fan Ju turning 远交近攻 into a Qin court-authority problem through the four nobles, Xuan Taihou, Wei Ran, Qin prince hostage puzzle, and overmighty-minister warnings.
 - [《资治通鉴·周纪》88丨你怎么看待凤凰男（2）](sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi.md) — 芮淇讲透资治通鉴 episode on Fan Ju's first Qin audience, protected remonstrance against Xuan Taihou and Wei Ran, critique of remote Qi campaigns, and formulation of 远交近攻.
 - [《资治通鉴·周纪》88丨你怎么看待凤凰男（1）](sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5.md) — 芮淇讲透资治通鉴 episode introducing Fan Ju through Wei Ran's private-fief campaign, Fan Ju's accusation and punishment in Wei, escape as Zhang Lu, and discovery by Qin envoy Wang Ji.
 - [《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！](sources/zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h.md) — 芮淇讲透资治通鉴 episode on Zhao She rescuing Eyu/阏与 from Qin through staged inaction, spy deception, forced marching, Xu Li's high-ground advice, and the "狭路相逢勇者胜" maxim.
@@ -1107,6 +1109,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [赵丹 / 赵孝成王 / King Xiaocheng of Zhao](entities/ZhaoDan.md) — Zhao ruler succeeding Zhao Huiwen Wang as Wei Qi's flight to Pingyuanjun turns Fan Ju's revenge into a Zhao risk.
+- [秦悼太子 / Qin Daotaizi](entities/QinDaotaizi.md) — Qin crown prince whose death as a hostage in Wei makes Qin's near-attack strategy a succession puzzle.
+- [安国君柱 / 秦孝文王 / King Xiaowen of Qin](entities/QinXiaowenwang.md) — Qin Zhaoxiang Wang's later crown-prince choice after Qin Daotaizi's death.
+- [王绾 / Wang Wan (Qin)](entities/QinWangWan.md) — Source-scoped Qin figure identified with 武大夫绾, possibly later minister Wang Wan, in the Wei attack.
+- [胡伤 / 胡阳 / Hu Shang or Hu Yang](entities/HuShangHuyang.md) — Qin commander name normalized across Huayang and Yan Yu/Eyu notices, with the identification kept source-scoped.
+- [华阳君 / Huayang Jun (Qin)](entities/HuayangJunQin.md) — Qin noble named by Fan Ju as one member of the four-nobles power structure.
+- [泾阳君 / Jingyang Jun (Qin)](entities/JingyangJunQin.md) — Qin noble named by Fan Ju as one member of the four-nobles power structure.
+- [高陵君 / Gaoling Jun (Qin)](entities/GaolingJunQin.md) — Qin noble named by Fan Ju as one member of the four-nobles power structure.
 - [客卿灶 / Keqing Zao](entities/KeqingZao.md) — Qin guest minister used in Wei Ran's Qi-facing campaign to enlarge the Tao/Dingtao fief.
 - [须贾 / Xu Jia](entities/XuJia.md) — Wei official whose suspicion of Fan Ju after Qi Xiang Wang's gift triggers the accusation chain.
 - [魏齐 / Wei Qi (Warring States)](entities/WeiQiWarringStates.md) — Wei chancellor who punishes Fan Ju without procedure after the alleged leak.
@@ -7323,6 +7333,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where Fan Ju routes private revenge through Qin's real diplomatic and military pressure on Wei.
+- [Qin Four Nobles Court Power / 秦国四贵权力结构](concepts/QinFourNoblesCourtPower.md) — Fan Ju's Qin court-power diagnosis where Wei Ran, Huayang Jun, Jingyang Jun, Gaoling Jun, and Xuan Taihou leave Qin Zhaoxiang Wang with title but limited authority.
 - [远交近攻 / Yuanjiao Jingong Strategy](concepts/YuanjiaoJingongStrategy.md) — Fan Ju's Qin strategy of diplomatically managing distant states while attacking nearby states whose territory Qin can retain.
 - [Protective Remonstrance Sequencing / 护身符式进言](concepts/ProtectiveRemonstranceSequencing.md) — High-risk persuasion sequence where an adviser shocks the ruler, secures repeated invitation and protection, and only then delivers dangerous critique.
 - [Private Fief Expansion Through State War / 以国战扩私邑](concepts/PrivateFiefExpansionThroughStateWar.md) — pattern where a minister redirects state war toward expansion of a private fief.

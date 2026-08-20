@@ -2,13 +2,15 @@
 title: "阏与 / 燕宇之战 / Battle of Eyu"
 type: entity
 tags: [battle, zhao-state, qin-state, warring-states, military-strategy]
-sources: [zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
+sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
 last_updated: 2026-08-21
 ---
 
 # 阏与 / 燕宇之战 / Battle of Eyu
 
 阏与 / 燕宇之战 / Battle of Eyu enters the wiki through [[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]], where the transcript renders the place as 燕宇 while the standard historical identification is 阏与. The episode places the battle in 周赧王四十五年 / 270 BCE, after [[QinState|秦国]] attacks [[ZhaoState|赵国]] because a prior Qin-Zhao settlement around 公子吴 and returned land was not completed.
+
+[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] adds a source-critical sequel around 269 BCE. It records [[HuShangHuyang|胡伤 / 胡阳]] attacking the same Yan Yu / Eyu target, with Qin-source wording softened as failure to take the place and Zhao-source wording claiming a major defeat of Qin. The page therefore keeps 焉羽 / 阏与 / 燕宇 together as source variants unless a later source requires a split.
 
 The battle matters because it turns [[ZhaoShe|赵奢]] from the tax-enforcement figure of Zhouji 86 into a military commander. [[ZhaoHe|赵惠文王赵何]] first asks [[LianPo|廉颇]] and another commander whether the besieged border city can be rescued, and they answer that the route is too distant and constricted. Zhao She instead argues that when two sides meet in a narrow and dangerous space, the braver commander can win.
 
@@ -24,3 +26,4 @@ The victory lifts the Qin siege and gives Zhao She the title 马服君. In the w
 - [[XuLiWarringStates|许历 / 许立]] - adviser whose formation-depth and high-ground advice the episode highlights.
 - [[TwoRatsCourageMaxim|两鼠斗穴勇者胜]], [[BattlefieldInformationControl|战场信息控制]], and [[HighGroundTimingAdvantage|制高点时机优势]] - concepts extracted from the battle.
 - [[QinEastwardPressure|秦国东进压力]] and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - broader pressure and command-transformation frames.
+- [[HuShangHuyang|胡伤 / 胡阳]], [[Shiji|《史记》]], and [[ZizhiTongjian|《资治通鉴》]] - Zhouji 89 variant notice and source-voice comparison.

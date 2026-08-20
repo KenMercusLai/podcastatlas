@@ -2,7 +2,7 @@
 title: "范雎 / Fan Ju"
 type: entity
 tags: [person, strategist, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ The same source turns Fan Ju's near death into a career pivot. [[ZhengAnping|郑
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] turns that arrival into Fan Ju's first Qin political success. He uses [[ProtectiveRemonstranceSequencing|护身符式进言]] to shock Qin Zhaoxiang Wang, make the ruler ask repeatedly, and secure protection before criticizing [[XuanTaihou|宣太后]] and Wei Ran. Once protected, he diagnoses Wei Ran's remote Qi campaign as a strategic error and formulates [[YuanjiaoJingongStrategy|远交近攻]], after which Qin appoints him keqing and begins using him in military planning.
 
+[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] moves Fan Ju from strategy formulation to authority recovery. He names the [[QinFourNoblesCourtPower|秦国四贵权力结构]], places [[XuanTaihou|宣太后]] above it, and warns [[QinZhaoxiangwang|秦昭襄王]] that even court attendants are aligned with [[WeiRan|魏冉]]. His examples from [[ZhuoChi|卓齿]] and [[LiDui|李兑]] make the argument urgent: if ministerial and kin power keep growing, the ruler may not leave the state to his own descendants.
+
+[[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] gives Fan Ju the revenge branch that follows authority recovery. After Qin pressure makes [[WeiState|魏国]] send [[XuJia|须贾]] to seek peace, Fan Ju appears first as a poor old acquaintance, then lets Xu Jia discover that the man who drove him into the Qin chancellor's residence is the chancellor himself. He spares Xu Jia because of the robe gift but humiliates him before envoys, then demands [[WeiQiWarringStates|魏齐]]'s head under threat against [[Daliang|大梁]], making him the source case for [[PersonalRevengeThroughStatePower|以国力行私仇]].
+
 ## Connections
 - [[BaiQi|白起]] - figure whose Yique explanation Fan Ju prompts.
 - [[YiqueBattle|伊阙之战]] - battle being discussed.
@@ -30,3 +34,5 @@ The same source turns Fan Ju's near death into a career pivot. [[ZhengAnping|郑
 - [[XuJia|须贾 / 徐谷]], [[WeiQiWarringStates|魏齐]], [[ZhengAnping|郑安平]], and [[WangJiQin|王稽 / 王继]] - Zhouji 88 accusation, punishment, escape, and Qin-entry chain.
 - [[PrivatePunishmentWithoutProcedure|无程序私刑]], [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - concepts that place his origin crisis in a larger court-politics frame.
 - [[XuanTaihou|宣太后]], [[WeiRan|魏冉]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 court challenge, protected speech sequence, and strategic program.
+- [[QinFourNoblesCourtPower|秦国四贵权力结构]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], [[GaolingJunQin|高陵君]], [[ZhuoChi|卓齿]], and [[LiDui|李兑]] - Zhouji 89 internal authority warning and precedent cases.
+- [[PersonalRevengeThroughStatePower|以国力行私仇]], [[Daliang|大梁]], [[Pingyuanjun|平原君]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - Zhouji 90 revenge escalation and Zhao refuge problem.
