@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》78丨齐国命运竟被城管给救了？](sources/zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug.md) — 芮淇讲透资治通鉴 episode on Tian Dan's rise at Jimo, Le Yi's pacification strategy around Ju and Jimo, Yan Zhaowang's trust in Le Yi, and Yan Huiwang's replacement of Le Yi after Tian Dan's rumor wedge.
 - [《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友”](sources/zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb.md) — 芮淇讲透资治通鉴 episode on Qin's 280-279 BCE pressure against Zhao and Chu, the Mianchi meeting where Lin Xiangru prevents Zhao humiliation, and the Lian Po-Lin Xiangru reconciliation that turns private rank conflict into state-security unity.
 - [《资治通鉴·周纪》76丨谁给了楚顷襄王的自信？](sources/zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0.md) — 芮淇讲透资治通鉴 episode on Qin attacks against Zhao after Zhao refuses joint war on Qi, the questioned report of Chu Qingxiang Wang planning an anti-Qin coalition plus a move against Zhou, and Dongzhou Wugong's argument that the tiny Zhou royal domain still carried high symbolic cost through the Son of Heaven title and Jiuding.
 - [《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？](sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza.md) — 芮淇讲透资治通鉴 episode on Guan Zhong's Hengshan arms-and-grain economic warfare, private-interest incentive design, merchant attraction, resource taxation, price steering, luxury circulation, and public works employment.
@@ -1092,6 +1093,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator chosen by Jimo as commander after his practical crisis judgment, later using rumor to get Le Yi replaced.
+- [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose old resentment toward Le Yi makes Tian Dan's rumor operation effective.
+- [骑劫 / Qi Jie](entities/QiJie.md) — Yan general sent to replace Le Yi, turning court suspicion into front-line command risk.
+- [即墨 / Jimo](entities/JimoWarringStates.md) — One of the two final Qi-held cities and the local base that selects Tian Dan as commander.
 - [廉颇 / Lian Po](entities/LianPo.md) — Zhao general whose Mianchi contingency plan and later apology to Lin Xiangru turn rank resentment into the "将相和" model of internal unity under Qin pressure.
 - [东周武公 / Dongzhou Wugong](entities/DongzhouWugong.md) — Zhou envoy who persuades Chu that attacking the royal domain for land, people, or Jiuding would create more symbolic cost than material gain.
 - [九鼎 / Jiuding](entities/Jiuding.md) — Zhou ritual object whose possible seizure by Chu anchors the episode's symbolic-deterrence argument.
@@ -7273,6 +7278,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Counterintelligence Rumor Wedge / 反间流言楔入](concepts/CounterintelligenceRumorWedge.md) — Tian Dan tactic that exploits Yan Huiwang's inherited suspicion of Le Yi to induce a damaging command replacement.
+- [Battlefield Commander Replacement Risk / 阵前换将风险](concepts/BattlefieldCommanderReplacementRisk.md) — Failure mode where replacing a trusted commander at the front breaks strategy, morale, and cohesion.
+- [Occupation Pacification Strategy / 占领区怀柔治理](concepts/OccupationPacificationStrategy.md) — Le Yi's post-conquest approach of restraint, relief, and livelihood restoration to make captured Qi governable.
 - [Jiang-Xiang Harmony / 将相和式内部团结](concepts/JiangXiangHeInternalUnity.md) — State-security pattern where Lian Po and Lin Xiangru subordinate rank resentment to Zhao's need for combined military and diplomatic deterrence.
 - [Zhou Royal Symbolic Deterrence / 周王室象征威慑](concepts/ZhouRoyalSymbolicDeterrence.md) — Late-Warring-States pattern where weak Zhou territory remains costly to attack because the royal title and Jiuding convert conquest into legitimacy risk.
 - [Hengshan Economic Warfare / 恒山之谋](concepts/HengshanEconomicWarfare.md) — Guan Zhong strategy using high-priced arms and grain purchases, pass closure, and attack to turn Hengshan's production specialty into vulnerability.

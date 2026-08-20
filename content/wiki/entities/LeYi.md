@@ -2,8 +2,8 @@
 title: "乐毅 / Le Yi"
 type: entity
 tags: [person, general, yan-state, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+last_updated: 2026-08-21
 ---
 
 # 乐毅 / Le Yi
@@ -22,6 +22,8 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] reads Le Yi's post-victory allocation as a cause of later imbalance. He sends distant [[QinState|秦国]] and [[HanState|韩国]] home with wealth, lets [[WeiState|魏国]] and [[ZhaoState|赵国]] take nearer gains, and keeps [[YanState|燕国]] deep in Qi. The episode uses Qin's later attack on Wei to show that a commander can settle the immediate coalition but still leave a [[PostCoalitionSpoilsImbalance|post-coalition spoils imbalance]].
 
+[[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] completes Le Yi's conquered-Qi arc before the Tian Dan reversal. The episode says he does not rush to storm [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]], but pulls the camp back, lets civilians move, aids the hungry, and tries to make captured Qi governable through [[OccupationPacificationStrategy|occupation pacification]]. The same source also shows the political fragility of that strategy: [[YanZhaowang|燕昭王]] blocks slander and publicly trusts him, but [[YanHuiwang|燕惠王]] succeeds with old resentment, accepts [[TianDan|田单]]'s [[CounterintelligenceRumorWedge|rumor wedge]], replaces Le Yi, and forces him into flight to Zhao.
+
 ## Connections
 - [[YanZhaowang|燕昭王]] and [[YanState|燕国]] - ruler and receiving state.
 - [[GuoWeiWarringStates|郭隗]] - adviser whose treatment signals Yan's seriousness.
@@ -33,3 +35,4 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 - [[JuXin|剧辛]], [[Linzi|临淄]], [[QinState|秦国]], [[HanState|韩国]], [[WeiState|魏国]], and [[ZhaoState|赵国]] - Zhouji 70 coalition command, post-victory allocation, and deep-pursuit dispute.
 - [[WangZhu|王蠋]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 occupation governance, honoring recluses, and coercive recruitment boundary.
 - [[PostCoalitionSpoilsImbalance|联军战后利益失衡]], [[AnchengWarringStates|安城]], and [[Daliang|大梁]] - Zhouji 73 coalition payoff imbalance and Qin's follow-on Wei attack.
+- [[TianDan|田单]], [[YanHuiwang|燕惠王]], [[JimoWarringStates|即墨]], [[OccupationPacificationStrategy|占领区怀柔治理]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 78 final siege, slander, replacement, and Yan morale collapse branch.

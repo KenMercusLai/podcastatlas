@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6177
+wiki_total_pages: 6181
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "TanakaHikari"
     title: "田中光"
     url: "/wiki/entities/tanakahikari/"
+  - key: "TianDan"
+    title: "田单 / Tian Dan"
+    url: "/wiki/entities/tiandan/"
   - key: "TianHe"
     title: "田和 / Tian He"
     url: "/wiki/entities/tianhe/"

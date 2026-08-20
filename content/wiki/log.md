@@ -8727,3 +8727,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Qin's 280-279 BCE pr
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》78丨齐国命运竟被城管给救了？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Tian Dan's rise from Linzi market administrator to Jimo commander, Le Yi's pacification strategy around Ju and Jimo, Yan Zhaowang's public trust in Le Yi, and Yan Huiwang's replacement of Le Yi after Tian Dan's rumor wedge. Created pages for Tian Dan, Yan Huiwang, Qi Jie, Jimo, Counterintelligence Rumor Wedge, Battlefield Commander Replacement Risk, and Occupation Pacification Strategy; updated overview, index, Le Yi, Yan Zhaowang, Yan State, Qi State, Ju, Rumor Erosion of Trust, Patron Succession Exposure, Mencian People-Based Legitimacy, and People-Based Political Security. No direct contradiction found; the "Qi king is dead" claim is kept as a rumor-operation claim rather than a factual update to Qi Xiang Wang.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint; report was printed in-session and not saved.

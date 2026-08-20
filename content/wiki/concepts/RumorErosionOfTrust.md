@@ -2,8 +2,8 @@
 title: "Rumor Erosion of Trust / 谣言侵蚀信任"
 type: concept
 tags: [governance, trust, court-politics, rhetoric, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+last_updated: 2026-08-21
 ---
 
 # Rumor Erosion of Trust / 谣言侵蚀信任
@@ -14,11 +14,15 @@ The episode gives two examples. In the [[ZengShen|曾参]] story, Zeng Shen's mo
 
 The concept matters because it treats trust as a political resource with a decay mechanism. A ruler may sincerely trust a minister at the start, but repetition, delay, factions, and battlefield uncertainty can turn confidence into recall orders unless the commitment is reinforced.
 
+[[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] adds a contrast pair. Slander against [[LeYi|乐毅]] fails under [[YanZhaowang|燕昭王]] because the ruler publicly reinforces trust, but a similar accusation succeeds under [[YanHuiwang|燕惠王]] after succession changes the ruler-commander relationship. [[TianDan|田单]]'s [[CounterintelligenceRumorWedge|counterintelligence rumor wedge]] therefore shows rumor erosion from the attacker's side: the goal is to make the enemy abandon its own commander.
+
 ## Key Claims
 - Repetition can make even implausible accusation politically effective.
 - Campaign duration increases the time available for court factions to reframe a commander's delay as betrayal or incompetence.
 - Ruler trust is operational, not only emotional: if it fails mid-campaign, alliances, promises, and battlefield plans can collapse.
 - The episode uses rumor risk to explain why [[OathBoundCommandTrust|oath-bound command trust]] has strategic value.
+- Rumor can be an intentional counterintelligence tool when it is aimed at a preexisting ruler-commander crack.
+- Succession makes rumor more dangerous when the new ruler inherits the army but not the old trust relationship.
 
 ## Connections
 - [[GanMao|甘茂]] and [[QinWuwang|秦武王]] - speaker and ruler whose trust is at issue.
@@ -26,4 +30,4 @@ The concept matters because it treats trust as a political resource with a decay
 - [[YiyangWarringStates|宜阳]], [[HanState|韩国]], and [[QinState|秦国]] - campaign setting.
 - [[Chulizi|樗里疾 / 樗里子]] and the Gongsun faction - predicted sources of later pressure in the episode.
 - [[OathBoundCommandTrust|盟誓约束下的统帅信任]] and [[CourtFeedbackCollapse|君臣反馈失灵]] - adjacent commitment and information-risk concepts.
-
+- [[TianDan|田单]], [[YanZhaowang|燕昭王]], [[YanHuiwang|燕惠王]], [[LeYi|乐毅]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 78 slander contrast and replacement consequence.

@@ -5471,6 +5471,10 @@
     "title": "Battlecode",
     "url": "/wiki/entities/battlecode/"
   },
+  "BattlefieldCommanderReplacementRisk": {
+    "title": "Battlefield Commander Replacement Risk / 阵前换将风险",
+    "url": "/wiki/concepts/battlefieldcommanderreplacementrisk/"
+  },
   "BaylorCollegeOfMedicine": {
     "title": "Baylor College of Medicine",
     "url": "/wiki/entities/baylorcollegeofmedicine/"
@@ -10098,6 +10102,10 @@
   "CounterfeitCurrencyPolicing": {
     "title": "Counterfeit Currency Policing",
     "url": "/wiki/concepts/counterfeitcurrencypolicing/"
+  },
+  "CounterintelligenceRumorWedge": {
+    "title": "Counterintelligence Rumor Wedge / 反间流言楔入",
+    "url": "/wiki/concepts/counterintelligencerumorwedge/"
   },
   "CountertransferenceBoundaryRisk": {
     "title": "Countertransference Boundary Risk",
@@ -21315,6 +21323,10 @@
     "title": "即墨大夫 / Jimo Dafu",
     "url": "/wiki/entities/jimodafu/"
   },
+  "JimoWarringStates": {
+    "title": "即墨 / Jimo",
+    "url": "/wiki/entities/jimowarringstates/"
+  },
   "JinJinggong": {
     "title": "晋静公 / Duke Jing of Jin",
     "url": "/wiki/entities/jinjinggong/"
@@ -28803,6 +28815,10 @@
     "title": "Occult And Pseudoscience In Literary Modernity",
     "url": "/wiki/concepts/occultpseudoscienceliterarymodernity/"
   },
+  "OccupationPacificationStrategy": {
+    "title": "Occupation Pacification Strategy / 占领区怀柔治理",
+    "url": "/wiki/concepts/occupationpacificationstrategy/"
+  },
   "OceanAcidification": {
     "title": "Ocean Acidification",
     "url": "/wiki/concepts/oceanacidification/"
@@ -32250,6 +32266,10 @@
   "QiHuanGong": {
     "title": "齐桓公",
     "url": "/wiki/entities/qihuangong/"
+  },
+  "QiJie": {
+    "title": "骑劫 / Qi Jie",
+    "url": "/wiki/entities/qijie/"
   },
   "QiJinggong": {
     "title": "齐景公 / Duke Jing of Qi",
@@ -39595,6 +39615,10 @@
     "title": "田常 / Tian Chang",
     "url": "/wiki/entities/tianchang/"
   },
+  "TianDan": {
+    "title": "田单 / Tian Dan",
+    "url": "/wiki/entities/tiandan/"
+  },
   "TianFamilyReplacementOfQi": {
     "title": "Tian Family Replacement of Qi / 田氏代齐",
     "url": "/wiki/concepts/tianfamilyreplacementofqi/"
@@ -43562,6 +43586,10 @@
   "YanHuanGong": {
     "title": "燕桓公 / Duke Huan of Yan",
     "url": "/wiki/entities/yanhuangong/"
+  },
+  "YanHuiwang": {
+    "title": "燕惠王 / King Hui of Yan",
+    "url": "/wiki/entities/yanhuiwang/"
   },
   "YanJiangong": {
     "title": "燕简公 / Duke Jian of Yan",
@@ -48350,5 +48378,9 @@
   "zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb": {
     "title": "《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友”",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb/"
+  },
+  "zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug": {
+    "title": "《资治通鉴·周纪》78丨齐国命运竟被城管给救了？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug/"
   }
 }

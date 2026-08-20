@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6177
+wiki_total_pages: 6181
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "QinFeizi"
     title: "非子 / Qin Feizi"
     url: "/wiki/entities/qinfeizi/"
+  - key: "QiJie"
+    title: "骑劫 / Qi Jie"
+    url: "/wiki/entities/qijie/"
   - key: "Qianzhong"
     title: "黔中 / Qianzhong"
     url: "/wiki/entities/qianzhong/"

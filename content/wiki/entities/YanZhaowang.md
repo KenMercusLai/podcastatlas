@@ -2,8 +2,8 @@
 title: "燕昭王 / King Zhao of Yan"
 type: entity
 tags: [person, ruler, yan-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+last_updated: 2026-08-21
 ---
 
 # 燕昭王 / King Zhao of Yan
@@ -24,6 +24,8 @@ That search runs through [[GuoWeiWarringStates|郭隗]] and the "千金买骨" s
 
 [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] shows what that delegation becomes after the capital falls. Through Le Yi's command, Yan tries to turn conquest into rule by disciplining troops, honoring Qi's hidden worthies, lightening taxes, and restoring old good governance. The failed attempt to recruit [[WangZhu|王蠋]] keeps Yan Zhaowang's talent-respect branch morally complicated: the same victorious state that honors recluses also lets coercive threat enter the recruitment process.
 
+[[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] makes Yan Zhaowang's trust in [[LeYi|乐毅]] explicit by showing how he handles slander. When a court voice claims Le Yi is delaying [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]] because he wants to rule Qi for himself, Yan Zhaowang publicly rebukes and executes the slanderer, then honors Le Yi's family at near-royal scale. The episode's point is not that he sees no risk, but that he chooses visible trust to preserve the commander, the army, and the conquered-Qi settlement.
+
 ## Connections
 - [[YanState|燕国]] - polity he rebuilds after Qi's attack.
 - [[YanWangKuai|燕王哙]] - father whose failed reign forms the contrast.
@@ -35,3 +37,4 @@ That search runs through [[GuoWeiWarringStates|郭隗]] and the "千金买骨" s
 - [[QiMinWang|齐湣王]], [[LeYi|乐毅]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 anti-Qi revenge coalition after Qi's post-Song overreach.
 - [[Linzi|临淄]], [[JuXin|剧辛]], [[ZhuoChi|卓齿]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 70 victorious coalition, pursuit dispute, and Qi Min Wang's final isolation.
 - [[WangZhu|王蠋]], [[QiState|齐国]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 post-conquest governance and coercive-recruitment boundary.
+- [[YanHuiwang|燕惠王]], [[LeYi|乐毅]], [[RumorErosionOfTrust|谣言侵蚀信任]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Zhouji 78 public trust defense before the successor reverses course.

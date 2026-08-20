@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 4826
+wiki_total_pages: 4829
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "OccultPseudoscienceLiteraryModernity"
     title: "Occult And Pseudoscience In Literary Modernity"
     url: "/wiki/concepts/occultpseudoscienceliterarymodernity/"
+  - key: "OccupationPacificationStrategy"
+    title: "Occupation Pacification Strategy / 占领区怀柔治理"
+    url: "/wiki/concepts/occupationpacificationstrategy/"
   - key: "OceanAcidification"
     title: "Ocean Acidification"
     url: "/wiki/concepts/oceanacidification/"

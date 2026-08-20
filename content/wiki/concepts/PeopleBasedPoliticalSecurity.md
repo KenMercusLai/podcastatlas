@@ -2,7 +2,7 @@
 title: "People-Based Political Security / 民心型政治安全"
 type: concept
 tags: [statecraft, legitimacy, power, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
+sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds the restoration side of the same security problem. [[TianFazhang|田法章]] can survive only by hiding in [[JuWarringStates|莒城]], but [[WangSunGu|王孙古]]'s revenge mobilization and the ministers' search for the royal heir show that Qi still has enough local loyalty to punish [[ZhuoChi|淖齿 / 卓齿]] and install [[QiXiangWang|齐襄王]].
 
+[[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] adds the final-holdout and commander-trust version. [[LeYi|乐毅]] treats [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]] as political as well as military problems: a destructive assault could frighten already occupied Qi cities and undo the security he has been building. [[TianDan|田单]] then reverses the security balance by exploiting [[YanHuiwang|燕惠王]]'s suspicion and damaging Yan army morale through [[BattlefieldCommanderReplacementRisk|commander replacement]].
+
 [[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds Xunzi's people-support criterion as a compact theoretical statement. In the episode's closing evaluation, winning the people makes a state secure, while ritual-righteousness and administrative competence rank even higher and wealth extraction ranks lower. The source therefore gives people-based security an explicit place inside a broader [[ConfucianIdealGovernance|Confucian]] and [[XunzianWangbaThreePaths|Xunzian]] hierarchy.
 
 [[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] adds an economic-migration version of the same security logic. The episode says [[LuState|鲁国]], [[LiangState|梁国]], and [[ChuState|楚国]] lose people after market distortion and food scarcity make survival easier in [[QiState|齐国]]. The point is not only that people like benevolent rulers; grain prices and trade access can make population loyalty operationally mobile.
@@ -41,6 +43,8 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - In the Qi Min Wang case, lost support follows the ruler into exile: without willing protectors, even a formal rescue force can become the channel of execution.
 - Post-conquest repair tries to rebuild security for the conquered population, but coercive recruitment and royal-line pursuit can keep the old order's people personally unsafe.
 - Restoration can begin from small pockets of remaining loyalty even before a shattered state recovers territory broadly.
+- The final treatment of holdout cities can either stabilize or destabilize the wider occupation.
+- Command trust is part of people-based security when troops and civilians read replacement as a sign that the occupier's strategy has cracked.
 - Xunzi's Zhouji 74 criterion states the concept positively: gaining people-support is what makes a state secure, even though it is not the highest ritual-righteous standard.
 - Economic conditions can produce people-based security or insecurity directly: if food prices and livelihood collapse, people may leave even before a formal military defeat.
 
@@ -56,5 +60,6 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - [[LeYi|乐毅]], [[Linzi|临淄]], [[ZhuoChi|卓齿]], [[WeyState|卫国]], [[ZouState|邹国]], and [[LuState|鲁国]] - Zhouji 70 defeat, failed asylum, and rescue-turned-execution branch.
 - [[WangZhu|王蠋]], [[TianFazhang|田法章]], [[YanState|燕国]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 occupation repair, coercive recruitment, and royal-line hiding.
 - [[WangSunGu|王孙古]], [[QiXiangWang|齐襄王]], [[JunWangHou|君王后]], [[JuWarringStates|莒城]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 local loyalty, revenge, and royal restoration.
+- [[TianDan|田单]], [[JimoWarringStates|即墨]], [[YanHuiwang|燕惠王]], [[OccupationPacificationStrategy|占领区怀柔治理]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 78 final-holdout, rumor, and army-morale reversal.
 - [[Xunzi|荀子]], [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[SurveillanceBasedRulerControl|窥察制衡式君术]] - Zhouji 74 ruler-evaluation hierarchy.
 - [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], [[InterstateEconomicWarfare|跨国经济战]], and [[GrainBorderCoercion|粮食与封边胁迫]] - Zhouji 75-3 economic migration and food-security branch.

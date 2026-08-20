@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4826
+wiki_total_pages: 4829
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1229,6 +1229,9 @@ wiki_pages:
   - key: "CounterfeitCurrencyPolicing"
     title: "Counterfeit Currency Policing"
     url: "/wiki/concepts/counterfeitcurrencypolicing/"
+  - key: "CounterintelligenceRumorWedge"
+    title: "Counterintelligence Rumor Wedge / 反间流言楔入"
+    url: "/wiki/concepts/counterintelligencerumorwedge/"
   - key: "CountertransferenceBoundaryRisk"
     title: "Countertransference Boundary Risk"
     url: "/wiki/concepts/countertransferenceboundaryrisk/"
