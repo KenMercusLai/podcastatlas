@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6233
+wiki_total_pages: 6236
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "ChangAnJunZhao"
     title: "长安君 / Lord Chang'an of Zhao"
     url: "/wiki/entities/changanjunzhao/"
+  - key: "ChangpingBattle"
+    title: "长平之战 / Battle of Changping"
+    url: "/wiki/entities/changpingbattle/"
   - key: "ChangjiangBusinessSchool"
     title: "长江商学院 / Cheung Kong Graduate School of Business"
     url: "/wiki/entities/changjiangbusinessschool/"

@@ -2,7 +2,7 @@
 title: "司马迁 / Sima Qian"
 type: entity
 tags: [historian, chinese-history, writing]
-sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The most important source claim is historiographical. QinZong notes that Sima Qi
 
 [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] invokes Sima Qian as a sympathetic reader of [[WeiRan|魏冉]]'s Qin service. The host records that sympathy but pushes back, arguing that Wei Ran's contributions do not erase his overgrown power, private wealth, and violation of ruler-minister boundaries after [[FanJu|范雎]] helps [[QinZhaoxiangwang|秦昭襄王]] recover authority.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] adds Sima Qian as the historian behind the [[Shiji|《史记》]] Zhao dream structure and the critique of [[Pingyuanjun|平原君]]. The episode says Sima Qian uses repeated dreams in the Zhao lineage as [[HistoricalDreamForeshadowing|foreshadowing]], then judges Pingyuanjun as an elegant but strategically limited noble whose acceptance of [[Shangdang|上党]] helped open the path to [[ChangpingBattle|长平之战]].
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - narrative scene discussed in the episode.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - figures in the source reading.
@@ -31,3 +33,4 @@ The most important source claim is historiographical. QinZong notes that Sima Qi
 - [[SuQin|苏秦]], [[Guiguzi|鬼谷子]], [[FailureDrivenSelfStudy|失败后的自学翻身]], and [[InspirationalNarrativeCommercialization|励志叙事商业化]] - Su Qin biography and reception branch added by Zhouji 29.
 - [[GuanZhong|管仲]], [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], and [[PrivateInterestAsPublicUse|私利转公功]] - Zhouji 75-4 use of Sima Qian as a commercial-wealth comparison point.
 - [[WeiRan|魏冉]], [[FanJu|范雎]], and [[QinFourNoblesCourtPower|秦国四贵权力结构]] - Zhouji 90 historiographical sympathy and host disagreement over Wei Ran's fall.
+- [[HistoricalDreamForeshadowing|梦兆叙事伏笔]], [[Pingyuanjun|平原君]], [[Shangdang|上党]], and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 Zhao-line dream structure and responsibility judgment.

@@ -2,8 +2,8 @@
 title: "Military Merit Rank System / 军功爵制"
 type: concept
 tags: [warfare, statecraft, legalism, hierarchy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+last_updated: 2026-08-21
 ---
 
 # Military Merit Rank System / 军功爵制
@@ -22,6 +22,8 @@ The system matters because it converts war performance into social hierarchy. Ol
 
 [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds a positive mobility case through [[BaiQi|白起]]. The episode contrasts Bai Qi's obscure or non-aristocratic start with his rise after the [[YiqueBattle|伊阙之战]], treating Qin's military-merit order as the institutional background that lets a commander become visible through battlefield performance.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] adds the system as an enemy's warning rather than Qin's own reform story. [[ZhaoBao|赵豹 / 平阳君]]'s fuller [[Shiji|《史记》]] argument says Qin's reward mechanism keeps soldiers highly motivated, so [[ZhaoState|赵国]] should not treat [[Shangdang|上党]] as an ordinary free gain. In this use, the military-merit order helps explain why Qin retaliation is strategically credible.
+
 ## Key Claims
 - Military achievement becomes a measurable basis for rank and privilege.
 - Enemy-head counting is presented as one concrete measurement device for converting violence into rank.
@@ -32,6 +34,7 @@ The system matters because it converts war performance into social hierarchy. Ol
 - The reward structure can convert campaign success into fief, title, and a new political identity.
 - Military-merit rewards create mobility and incentive alignment, but they do not eliminate faction, identity, or succession risk.
 - Bai Qi shows the upward version of the same mechanism: battlefield success can convert an initially obscure man into a top Qin commander.
+- From an enemy court's perspective, the system makes Qin a higher-risk opponent because retaliation is backed by soldier incentives as well as ruler intention.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] and [[QinXiaogong|秦孝公]] - reformer and ruler.
@@ -43,3 +46,4 @@ The system matters because it converts war performance into social hierarchy. Ol
 - [[GanMao|甘茂]] and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 59 limit case where military achievement does not secure an outsider minister after succession.
 - [[LegalistRulerTechnique]] - adjacent logic of rule through incentive design and enforceable standards.
 - [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], and [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhouji 67 merit-rise and campaign-performance branch.
+- [[ZhaoBao|赵豹 / 平阳君]], [[Shangdang|上党]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 part 2 enemy-side warning about Qin reward incentives.

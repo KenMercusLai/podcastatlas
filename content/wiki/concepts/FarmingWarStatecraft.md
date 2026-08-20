@@ -2,8 +2,8 @@
 title: "Farming-War Statecraft / 耕战逻辑"
 type: concept
 tags: [statecraft, warfare, legalism, incentives, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+last_updated: 2026-08-21
 ---
 
 # Farming-War Statecraft / 耕战逻辑
@@ -16,6 +16,8 @@ The concept therefore links domestic reform to external expansion. Qin does not 
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] shows the reward side. The victory after Gongzi Ang's capture earns Shang Yang the [[Shangyu|商於]] fief and 商君 title, making the logic concrete as a conversion of war outcome into place, status, and political capital.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] adds an outside assessment of the same Qin capacity. [[ZhaoBao|赵豹 / 平阳君]]'s fuller warning against accepting [[Shangdang|上党]] says Qin's cattle-assisted farming improves agricultural output while transport and reward systems lower campaign friction and raise morale. The episode therefore shows farming-war statecraft as something rival advisers must price before provoking Qin.
+
 ## Key Claims
 - Agriculture and war are treated as the privileged contributions to state capacity.
 - Farming feeds and stabilizes the state, but war has the higher personal reward ceiling.
@@ -23,9 +25,11 @@ The concept therefore links domestic reform to external expansion. Qin does not 
 - A reformer operating inside this system faces pressure to produce visible military results, not only administrative reforms.
 - The same incentive logic makes empty-handed peace suspicious when Qin is the invading side.
 - Successful war can become land, title, and reputation for the commander, not only territorial gain for the state.
+- Qin's agricultural and military incentive base can appear inside another state's risk calculation even when the immediate issue is a diplomatic gift.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], and [[QinState|秦国]] - reformer, ruler, and state setting.
 - [[ShangYangReforms]] and [[MilitaryMeritRankSystem]] - institutional mechanisms behind the logic.
 - [[QinEastwardPressure]] - external expansion field where the incentives become military action.
 - [[PeaceParleyEntrapment]], [[GongziAng|公子卬 / 公子昂]], [[Shangyu|商於]], and [[TacticalCredibilityCost|战术信用成本]] - episode 22-23 case where the logic exposes the peace proposal as suspect and converts victory into reward.
+- [[ZhaoBao|赵豹 / 平阳君]], [[Shangdang|上党]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 part 2 enemy-side capacity warning.

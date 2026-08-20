@@ -2,7 +2,7 @@
 title: "平原君 / Lord Pingyuan"
 type: entity
 tags: [person, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ That small hosting role matters because the insult triggers a disproportionate r
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] brings Pingyuanjun back as one of the royal uncles whom [[ZhaoDan|赵丹 / 赵孝成王]] consults when [[FengTing|冯亭]] offers [[Shangdang|上党]] to Zhao. The source develops [[ZhaoBao|赵豹 / 平阳君]]'s rejection argument more than Pingyuanjun's own position, so Pingyuanjun's role here is chiefly as senior advisory context for the court's [[WindfallDecisionTrap|windfall decision]].
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] makes his position decisive. After Zhao Dan dislikes Zhao Bao's refusal argument, he turns to Pingyuanjun, who supports receiving Shangdang and is sent to take possession of it. The episode closes with [[SimaQian|司马迁]]'s judgment that Pingyuanjun could be a "翩翩浊世之佳公子" and still "不识大体," because he let [[WindfallDecisionTrap|利令智昏]] pull Zhao toward the [[ChangpingBattle|长平之战]] prelude.
+
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]] - visiting lord hosted in Zhao.
 - [[ZhaoState|赵国]] - state setting for the ridicule and retaliatory violence.
@@ -34,3 +36,4 @@ That small hosting role matters because the insult triggers a disproportionate r
 - [[WeiQiWarringStates|魏齐]], [[FanJu|范雎]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - Zhouji 90 refuge decision with state-level risk.
 - [[ZhaoWeihou|赵威后]], [[QiState|齐国]], [[ChangAnJunZhao|长安君]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 91 crisis that follows the refuge problem.
 - [[FengTing|冯亭]], [[Shangdang|上党]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 Zhao court consultation over the Shangdang offer.
+- [[SimaQian|司马迁]] and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 attribution of responsibility for accepting Shangdang.

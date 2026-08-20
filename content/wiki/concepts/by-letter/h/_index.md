@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 4865
+wiki_total_pages: 4866
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "HistoricalDetectiveReasoning"
     title: "Historical Detective Reasoning"
     url: "/wiki/concepts/historicaldetectivereasoning/"
+  - key: "HistoricalDreamForeshadowing"
+    title: "Historical Dream Foreshadowing / 梦兆叙事伏笔"
+    url: "/wiki/concepts/historicaldreamforeshadowing/"
   - key: "HistoricalFantasySourceLayering"
     title: "Historical Fantasy Source Layering"
     url: "/wiki/concepts/historicalfantasysourcelayering/"

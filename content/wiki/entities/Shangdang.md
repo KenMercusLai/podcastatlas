@@ -2,7 +2,7 @@
 title: "上党 / Shangdang"
 type: entity
 tags: [place, han-state, zhao-state, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-21
 ---
 
@@ -14,6 +14,8 @@ The source's key point is that Shangdang does not simply fall into Qin hands. It
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] names that local actor as [[FengTing|冯亭]] and gives the offer its political logic. Shangdang's seventeen cities, land, and people are offered to [[ZhaoDan|赵丹 / 赵孝成王]] because Feng Ting expects Qin to attack Zhao afterward, forcing Zhao to align with Han. The episode also explains local willingness through Three Jin affinity, geographic familiarity, and fear of Qin rather than through attachment to Zhao's ruler alone.
 
+[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] turns the offer into an accepted transfer. [[ZhaoBao|赵豹 / 平阳君]] argues that Shangdang is a gift designed to make Zhao inherit Qin's anger, but [[Pingyuanjun|平原君]] supports accepting it and [[ZhaoDan|赵丹 / 赵孝成王]] sends him to take possession. The episode therefore treats Shangdang as the immediate bridge from [[TransportCorridorSeverance|交通线切割]] and [[WindfallDecisionTrap|无故之利]] into the [[ChangpingBattle|长平之战]] prelude.
+
 ## Connections
 - [[HanState|韩国]] - original state context before the route is cut.
 - [[QinState|秦国]], [[BaiQi|白起]], and [[FanJu|范雎]] - attacker, commander, and strategic planner behind the isolation.
@@ -21,3 +23,4 @@ The source's key point is that Shangdang does not simply fall into Qin hands. It
 - [[TaihangRoad|太行道]] and [[TransportCorridorSeverance|交通线切割]] - route and mechanism that isolate the territory.
 - [[YuanjiaoJingongStrategy|远交近攻]] - larger Qin sequence in which Shangdang becomes a next pressure point.
 - [[FengTing|冯亭]], [[ZhaoDan|赵丹 / 赵孝成王]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 offer to Zhao and court deliberation.
+- [[Pingyuanjun|平原君]] and [[ChangpingBattle|长平之战]] - acceptance agent and downstream war frame in Zhouji 93 part 2.

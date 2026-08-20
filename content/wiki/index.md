@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）](sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n.md) — 芮淇讲透资治通鉴 episode completing Zhao's Shangdang acceptance, Zhao Bao's fuller Qin-capacity warning, Zhao Xiaocheng Wang's ominous dream, and Sima Qian's four-dream Zhao-lineage structure.
 - [《资治通鉴·周纪》93丨在梦里藏着偷天改命？（1）](sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok.md) — 芮淇讲透资治通鉴 episode on Feng Ting offering isolated Shangdang's seventeen cities to Zhao, Zhao Bao's warning against 无故之利, and Zhao Xiaocheng Wang's 利令智昏 decision risk.
 - [《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）](sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx.md) — 芮淇讲透资治通鉴 episode completing Mi Wan's escape from Qin, Fan Ju's case for sparing Huang Xie, Chunshenjun's rise under Chu Kaolie Wang, Chu Qingxiang Wang's late "亡羊补牢" recovery, and Song Yu's巫山神女 idiom.
 - [《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（1）](sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp.md) — 芮淇讲透资治通鉴 episode on Fan Ju's near-attack program against Han, Bai Qi's route-cutting around Nanyang/Taihang/Shangdang, money-based sabotage of renewed hezong, and Huang Xie's plan to return Chu crown prince Mi Wan from Qin.
@@ -1116,6 +1117,9 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [冯亭 / Feng Ting](entities/FengTing.md) — Han official who offers isolated Shangdang to Zhao to force a Han-Zhao response against Qin.
 - [赵豹 / 平阳君 / Zhao Bao](entities/ZhaoBao.md) — Zhao royal adviser warning Zhao Xiaocheng Wang that Shangdang is a dangerous 无故之利.
+- [长平之战 / Battle of Changping](entities/ChangpingBattle.md) — Qin-Zhao war frame introduced here as the direct consequence foreshadowed by Zhao's acceptance of Shangdang.
+- [赵括 / Zhao Kuo](entities/ZhaoKuo.md) — Zhao commander currently recorded through the source-scoped tradition that Feng Ting later followed him at Changping.
+- [赵盾 / Zhao Dun](entities/ZhaoDun.md) — Zhao-lineage figure used in the Shiji four-dream structure discussed by Zhouji 93 part 2.
 - [宋玉 / Song Yu](entities/SongYu.md) — Chu literary figure who mediates the Gaotang/Wushan goddess stories through 《高唐赋》 and 《神女赋》.
 - [巫山神女 / Wushan Goddess](entities/WushanGoddess.md) — Mythic goddess whose cloud-and-rain dream stories with Chu Huaiwang and Chu Qingxiang Wang ground the "襄王有意，神女无心" motif.
 - [芈完 / 楚考烈王 / Mi Wan](entities/MiWan.md) — Chu crown prince whose Qin hostage status becomes a succession crisis before he returns, succeeds as Chu Kaolie Wang, and elevates Huang Xie as Chunshenjun.
@@ -7351,6 +7355,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Historical Dream Foreshadowing / 梦兆叙事伏笔](concepts/HistoricalDreamForeshadowing.md) — Historiographical pattern where recorded dreams in the Shiji Zhao lineage organize later rise, desire, disorder, and disaster.
 - [Windfall Decision Trap / 无故之利](concepts/WindfallDecisionTrap.md) — Decision pattern where an apparent free gain transfers hidden obligation, enemy pressure, or future retaliation to the recipient.
 - [襄王有意，神女无心 / Xiangwang Youyi, Shennv Wuxin](concepts/XiangwangYouyiShennvWuxin.md) — Classical one-sided desire motif from Song Yu's Wushan goddess tradition, used here to link Chu Qingxiang Wang's literary memory to the episode title.
 - [Transport Corridor Severance / 交通线切割](concepts/TransportCorridorSeverance.md) — Strategy pattern where Qin cuts routes and passes so a neighboring state's territory becomes fragmented before conquest.

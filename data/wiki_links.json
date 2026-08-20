@@ -7799,6 +7799,10 @@
     "title": "Changpeng Zhao / 赵长鹏",
     "url": "/wiki/entities/changpengzhao/"
   },
+  "ChangpingBattle": {
+    "title": "长平之战 / Battle of Changping",
+    "url": "/wiki/entities/changpingbattle/"
+  },
   "Changsha": {
     "title": "Changsha / 长沙",
     "url": "/wiki/entities/changsha/"
@@ -18674,6 +18678,10 @@
   "HistoricalDetectiveReasoning": {
     "title": "Historical Detective Reasoning",
     "url": "/wiki/concepts/historicaldetectivereasoning/"
+  },
+  "HistoricalDreamForeshadowing": {
+    "title": "Historical Dream Foreshadowing / 梦兆叙事伏笔",
+    "url": "/wiki/concepts/historicaldreamforeshadowing/"
   },
   "HistoricalFantasySourceLayering": {
     "title": "Historical Fantasy Source Layering",
@@ -44919,6 +44927,10 @@
     "title": "Zhao Dongping / 赵东平",
     "url": "/wiki/entities/zhaodongping/"
   },
+  "ZhaoDun": {
+    "title": "赵盾 / Zhao Dun",
+    "url": "/wiki/entities/zhaodun/"
+  },
   "ZhaoFan": {
     "title": "赵范 / Zhao Fan",
     "url": "/wiki/entities/zhaofan/"
@@ -44958,6 +44970,10 @@
   "ZhaoKuangyin": {
     "title": "赵匡胤 / Song Taizu",
     "url": "/wiki/entities/zhaokuangyin/"
+  },
+  "ZhaoKuo": {
+    "title": "赵括 / Zhao Kuo",
+    "url": "/wiki/entities/zhaokuo/"
   },
   "ZhaoLiang": {
     "title": "赵良 / Zhao Liang",
@@ -48818,5 +48834,9 @@
   "zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok": {
     "title": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok/"
+  },
+  "zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n": {
+    "title": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n/"
   }
 }
