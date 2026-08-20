@@ -5,11 +5,13 @@
         <h1>{{ .Title }}</h1>
       {{ end }}
       <div class="meta wiki-meta">
-        {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
         {{ if eq .Params.type "source" }}
+          <span>Source note</span>
           {{ partial "wiki-source-episode-link.html" . }}
           {{ partial "episode-publication-date.html" . }}
+          {{ partial "wiki-source-original-audio-link.html" . }}
         {{ else }}
+          {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
           {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
         {{ end }}
         {{ with .GetTerms "tags" }}
@@ -26,6 +28,7 @@
     <article>
       <h1>{{ .Title }}</h1>
       <div class="meta">
+        <span>Episode guide</span>
         {{ partial "episode-publication-date.html" . }}
         {{ with .GetTerms "show" }}
           <span> · Show:
@@ -35,7 +38,8 @@
           {{ with .Params.show }}<span> · Show: {{ . }}</span>{{ end }}
         {{ end }}
         {{ with .Params.duration }}<span> · {{ . }}s</span>{{ end }}
-        {{ with .Params.source_url }}<span> · <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Source</a></span>{{ end }}
+        {{ with .Params.source_url }}<span> · <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Original audio</a></span>{{ end }}
+        {{ partial "episode-source-note-link.html" . }}
       </div>
       <div class="content">
         {{ .Content }}

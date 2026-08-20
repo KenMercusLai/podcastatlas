@@ -27,10 +27,12 @@ class EpisodePublicationDatesTest(unittest.TestCase):
 
     def test_wiki_sources_resolve_the_linked_episode_as_the_canonical_date_source(self):
         resolver = read_template("layouts/partials/wiki-source-episode-page.html")
+        relations = read_template("layouts/partials/episode-source-relations.html")
         date_partial = read_template("layouts/partials/episode-publication-date.html")
         source_link = read_template("layouts/partials/wiki-source-episode-link.html")
 
-        self.assertIn('.Params.source_file', resolver)
+        self.assertIn('.Params.source_file', relations)
+        self.assertIn('partialCached "episode-source-relations.html"', resolver)
         self.assertIn('File.LogicalName', resolver)
         self.assertIn('return $episode', resolver)
         self.assertIn('partial "wiki-source-episode-page.html" $page', date_partial)

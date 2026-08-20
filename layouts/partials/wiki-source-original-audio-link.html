@@ -1,0 +1,5 @@
+{{- with partial "wiki-source-episode-page.html" . -}}
+  {{- with .Params.source_url -}}
+    <span><a href="{{ . }}" target="_blank" rel="noopener noreferrer">Original audio</a></span>
+  {{- end -}}
+{{- end -}}

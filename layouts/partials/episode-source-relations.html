@@ -1,0 +1,34 @@
+{{- $site := . -}}
+{{- $episodesByName := newScratch -}}
+{{- $sourceNotesByEpisode := newScratch -}}
+{{- $episodesBySourceNote := newScratch -}}
+
+{{- range where $site.RegularPages "Section" "episodes" -}}
+  {{- $episode := . -}}
+  {{- with .File -}}
+    {{- $episodesByName.Set .LogicalName $episode -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range where $site.RegularPages "Params.type" "source" -}}
+  {{- $sourceNote := . -}}
+  {{- with .Params.source_file -}}
+    {{- $episodeName := replaceRE `^.*[\\/]` "" . -}}
+    {{- with $sourceNotesByEpisode.Get $episodeName -}}
+      {{- errorf "multiple source notes reference episode file %q: %s and %s" $episodeName .RelPermalink $sourceNote.RelPermalink -}}
+    {{- end -}}
+    {{- $episode := $episodesByName.Get $episodeName -}}
+    {{- if not $episode -}}
+      {{- errorf "source note %s references missing episode file %q" $sourceNote.RelPermalink $episodeName -}}
+    {{- end -}}
+    {{- $sourceNotesByEpisode.Set $episodeName $sourceNote -}}
+    {{- with $sourceNote.File -}}
+      {{- $episodesBySourceNote.Set .LogicalName $episode -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return dict
+  "sourceNotesByEpisode" $sourceNotesByEpisode.Values
+  "episodesBySourceNote" $episodesBySourceNote.Values
+-}}
