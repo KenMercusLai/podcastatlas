@@ -1,0 +1,10 @@
+{{- $episode := . -}}
+{{- $sourceNote := false -}}
+{{- if $episode.File -}}
+  {{- $relations := partialCached "episode-source-relations.html" $episode.Site $episode.Site.Language.Lang -}}
+  {{- $sourceNotesByEpisode := index $relations "sourceNotesByEpisode" -}}
+  {{- with index $sourceNotesByEpisode $episode.File.LogicalName -}}
+    {{- $sourceNote = . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $sourceNote -}}

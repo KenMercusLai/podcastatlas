@@ -1,10 +1,10 @@
-{{- $page := . -}}
+{{- $sourceNote := . -}}
 {{- $episode := false -}}
-{{- with $page.Params.source_file -}}
-  {{- $sourceName := replaceRE `^.*[\\/]` "" . -}}
-  {{- $episodes := where $page.Site.RegularPages "Section" "episodes" -}}
-  {{- with where $episodes "File.LogicalName" $sourceName -}}
-    {{- $episode = index . 0 -}}
+{{- if $sourceNote.File -}}
+  {{- $relations := partialCached "episode-source-relations.html" $sourceNote.Site $sourceNote.Site.Language.Lang -}}
+  {{- $episodesBySourceNote := index $relations "episodesBySourceNote" -}}
+  {{- with index $episodesBySourceNote $sourceNote.File.LogicalName -}}
+    {{- $episode = . -}}
   {{- end -}}
 {{- end -}}
 {{- return $episode -}}
