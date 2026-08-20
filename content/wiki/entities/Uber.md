@@ -2,11 +2,13 @@
 title: "Uber"
 type: entity
 tags: [company, mobility, ride-hailing, autonomous-driving]
-sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-20
 ---
 
 # Uber
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Uber as a concrete enterprise-agent adoption case. [[JasonCalacanis|Jason Calacanis]] cites source-reported Uber data on weekly active users, monthly agentic sessions, and employees using agentic tools, making Uber evidence for [[AgenticWorkflow]] and [[AIEconomicDiffusion]] rather than only autonomous-driving or marketplace strategy.
 
 Uber enters the wiki's autonomous-driving branch through [[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]], where [[PareshDave]] discusses the company's opposition to a Washington, D.C. bill that would allow driverless cars. The episode says [[Waymo]] supports the bill, while Uber is lobbying for a [[RobotaxiHybridDeployment|hybrid approach]] that keeps human-driven ride-hailing available alongside robotaxi service.
 

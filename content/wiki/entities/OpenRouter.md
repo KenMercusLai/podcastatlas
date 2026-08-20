@@ -2,11 +2,13 @@
 title: "OpenRouter"
 type: entity
 tags: [ai, infrastructure, model-routing]
-sources: [featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
-last_updated: 2026-08-13
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
+last_updated: 2026-08-20
 ---
 
 # OpenRouter
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a buyer-side cost-cutting anecdote. [[ChamathPalihapitiya|Chamath Palihapitiya]] says his team used OpenRouter, [[GLM52|GLM 5.2]], and other routing choices to cut model costs by roughly 95%, turning OpenRouter from a general model-marketplace example into a concrete [[EnterpriseAIROIAudit]] and [[ModelRoutingCostControl]] tool.
 
 OpenRouter is the model-routing and API aggregation company discussed in [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]]. [[KeithZhai]] uses it as an example of an intermediary that benefits when strong open and closed models coexist, because customers have more reason to compare and route across models rather than defaulting to one frontier provider.
 

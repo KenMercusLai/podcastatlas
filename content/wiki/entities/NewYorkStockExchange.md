@@ -2,11 +2,13 @@
 title: "New York Stock Exchange / 纽约证券交易所"
 type: entity
 tags: [institution, finance, markets, exchange]
-sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]
+last_updated: 2026-08-20
 ---
 
 # New York Stock Exchange / 纽约证券交易所
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds the New York Stock Exchange as part of the [[TrumpAccounts|Trump accounts]] launch theater. The source says the [[WhiteHouse|White House]] event included a joint NYSE and [[Nasdaq]] bell ringing, using market infrastructure to symbolize [[UniversalEquityOwnership]].
 
 The New York Stock Exchange appears in [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] through [[RichardWhitney]]. The episode emphasizes that before the [[SEC]] existed, the exchange itself carried much of the market's practical self-regulatory and credibility function.
 

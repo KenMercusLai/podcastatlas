@@ -2,11 +2,13 @@
 title: "Retail Private-Market Access"
 type: concept
 tags: [retail-investing, private-markets, access, risk]
-sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170]
+last_updated: 2026-08-20
 ---
 
 # Retail Private-Market Access
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] extends retail access from late-stage private shares and IPO allocations into public-index child accounts. [[TrumpAccounts|Trump accounts]] are presented as a broader [[UniversalEquityOwnership]] mechanism: less upside concentration than single-name private access, but still dependent on contribution rules, investor education, fees, taxes, and long-term discipline.
 
 [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds a post-IPO adjacent example. [[JasonCalacanis|Jason Calacanis]] praises [[SpaceX]] for reportedly giving retail investors meaningful IPO access through platforms such as Robinhood and Schwab, turning retail access from only private-market secondaries into broader early public-market participation.
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 4791
+wiki_total_pages: 4797
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "ModelDistillationEvidence"
     title: "Model Distillation Evidence"
     url: "/wiki/concepts/modeldistillationevidence/"
+  - key: "ModelFungibility"
+    title: "Model Fungibility"
+    url: "/wiki/concepts/modelfungibility/"
   - key: "ModelHarnessCoEvolution"
     title: "Model Harness Co-Evolution"
     url: "/wiki/concepts/modelharnesscoevolution/"

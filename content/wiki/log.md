@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-20] ingest | More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts
+
+Added source page for an All-In episode with Brad Gerstner on trillion-dollar AI IPO timing, SpaceX/Anthropic/OpenAI public-market transition claims, enterprise token-cost ROI pressure, Uber agentic deployment, model routing, dark open-model usage, possible China model-access restrictions, AI energy bottlenecks, and Trump accounts. Created Trump Accounts, Universal Equity Ownership, Enterprise AI ROI Audit, Dark Tokens, Model Fungibility, China Model Access Restriction Risk, Michael Dell, Susan Dell, Gwen Shotwell, Vlad Tenev, and ElevenLabs; updated overview, index, All-In, host and related AI/market/policy pages. Flagged a source-scoped SpaceX IPO figure conflict with the earlier All-In SpaceX/trillionaire episode.
+
 ## [2026-08-20] ingest | Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs
 
 Added source page for an All-In episode with Andrew Feldman of Cerebras and Robin Rombach of Black Forest Labs on inference speed, token-heavy reasoning, open-source model sovereignty, staged model release, AGI benchmark drift, latent diffusion, Flux, generative-media control, Scorsese visual ideation, IP-controlled model access, and the move from image/video models toward action prediction for physical AI. Created Andrew Feldman, Black Forest Labs, Robin Rombach, Martin Scorsese, Stable Diffusion, Flux, Latent Diffusion, Loop Maxxing, Generative Media Control Layers, and IP-Controlled Generative Models; updated overview, index, All-In, the host pages, Cerebras, Token Maxxing, Open Source AI Models, Model Sovereignty, Frontier Model Release Governance, Low Latency Inference Chip, AI Chip Specialization, Model Routing Cost Control, AI Inference Cost Structure, Video Models, AI Video Production Workflow, World Models, Physical AI, AI Content Licensing, and AI Interactive Entertainment. No direct contradiction found; the episode's AGI, backlog, cyber, film-budget, and performance claims are kept source-scoped.
@@ -8639,3 +8643,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran health before lint; health scanned 12,016 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,016 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,016 linted pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider/API-key variables are present in the environment; a bounded in-session sample review found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,11 +2,13 @@
 title: "AI Economic Diffusion"
 type: concept
 tags: [ai, productivity, organizations, economics]
-sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-08-20
 ---
 
 # AI Economic Diffusion
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a CFO-facing diffusion test. The episode says enterprises are spending heavily on tokens while only seeing modest productivity gains in some cases, so economic diffusion now depends on identifying which workflows have true ROI, which require [[ForwardDeployedEngineer|FDE]] help, and which are just expensive usage.
 
 [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the pro-usage infrastructure defense. [[DavidSacks|David Sacks]] argues that current AI data centers are being used immediately because token demand is rising through chatbots, coding assistants, and knowledge-worker tools, while also expecting AI to spread into healthcare, spreadsheets, presentations, websites, files, email, and personal assistant workflows.
 

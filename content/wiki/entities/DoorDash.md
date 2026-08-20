@@ -2,11 +2,13 @@
 title: "DoorDash"
 type: entity
 tags: [company, marketplace, food-delivery, local-services]
-sources: [tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
-last_updated: 2026-07-11
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+last_updated: 2026-08-20
 ---
 
 # DoorDash
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds DoorDash as another enterprise model-routing case. The source says DoorDash uses different models for different workloads, making the company an example of [[ModelRoutingCostControl]] inside a production marketplace business rather than only a local-commerce platform.
 
 DoorDash is the food-delivery marketplace built by [[TonyXu]], [[EvanMoore]], [[StanleyTang]], and [[AndyFang]], discussed in [[socialradarspod-tonyxu-final]]. The episode frames the company as a Stanford class-project outcome rather than an inevitable platform: the founders began by helping small businesses, discovered delivery as a merchant pain point, and launched [[PaloAltoDelivery]] with PDF menus, a phone number, and founder-delivered orders.
 

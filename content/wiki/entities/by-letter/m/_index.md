@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6139
+wiki_total_pages: 6144
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "MichaelCoppenheifer"
     title: "Michael Coppenheifer"
     url: "/wiki/entities/michaelcoppenheifer/"
+  - key: "MichaelDell"
+    title: "Michael Dell"
+    url: "/wiki/entities/michaeldell/"
   - key: "MichaelEisner"
     title: "Michael Eisner"
     url: "/wiki/entities/michaeleisner/"

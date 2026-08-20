@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 4791
+wiki_total_pages: 4797
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "EnterpriseAIPilotPurgatory"
     title: "Enterprise AI Pilot Purgatory"
     url: "/wiki/concepts/enterpriseaipilotpurgatory/"
+  - key: "EnterpriseAIROIAudit"
+    title: "Enterprise AI ROI Audit"
+    url: "/wiki/concepts/enterpriseairoiaudit/"
   - key: "EnterpriseCustomDelivery"
     title: "Enterprise Custom Delivery"
     url: "/wiki/concepts/enterprisecustomdelivery/"

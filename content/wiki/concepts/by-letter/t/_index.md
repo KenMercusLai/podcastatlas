@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4791
+wiki_total_pages: 4797
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "TrueSmartHome"
     title: "True Smart Home"
     url: "/wiki/concepts/truesmarthome/"
+  - key: "TrumpAccounts"
+    title: "Trump Accounts"
+    url: "/wiki/concepts/trumpaccounts/"
   - key: "TrumpSupporterInterpretiveLoop"
     title: "Trump Supporter Interpretive Loop"
     url: "/wiki/concepts/trumpsupporterinterpretiveloop/"

@@ -2,11 +2,13 @@
 title: "Coinbase"
 type: entity
 tags: [company, crypto, fintech, exchange]
-sources: [socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-11
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-20
 ---
 
 # Coinbase
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Coinbase as an enterprise model-routing example. [[DavidSacks|David Sacks]] says companies such as Coinbase are already choosing different models for different workloads and routing through middleware, connecting Coinbase to [[ModelRoutingCostControl]] and [[EnterpriseAIROIAudit]] rather than only crypto-market infrastructure.
 
 [[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds Coinbase as one of [[Section32|Section 32]]'s named investments. The source uses Coinbase as a portfolio example for [[BillMaris|Bill Maris]]'s [[VentureFundSizeDiscipline]] argument rather than as a new crypto-market or product-governance case.
 

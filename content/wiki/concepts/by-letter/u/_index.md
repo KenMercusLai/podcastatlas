@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 4791
+wiki_total_pages: 4797
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "UniversalDigitalAgent"
     title: "Universal Digital Agent"
     url: "/wiki/concepts/universaldigitalagent/"
+  - key: "UniversalEquityOwnership"
+    title: "Universal Equity Ownership"
+    url: "/wiki/concepts/universalequityownership/"
   - key: "UniversalHighIncome"
     title: "Universal High Income"
     url: "/wiki/concepts/universalhighincome/"

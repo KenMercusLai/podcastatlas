@@ -2,11 +2,13 @@
 title: "Model Sovereignty / 模型主权"
 type: concept
 tags: [ai, enterprise, sovereignty, risk]
-sources: [all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
 last_updated: 2026-08-20
 ---
 
 # Model Sovereignty / 模型主权
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a bilateral sovereignty risk. The episode treats Chinese model access as potentially restrictable in the same strategic sense as U.S. frontier access, so enterprise and national users must evaluate whether their workflow depends on a model provider, country, or policy regime that can change terms.
 
 [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds [[AndrewFeldman|Andrew Feldman]]'s U.S. open-model version. Feldman argues that sovereignty is a trend and that the United States needs more domestic open-source models to give the world a choice, especially as enterprises route work across frontier, cheaper, open, and customer-specific models.
 

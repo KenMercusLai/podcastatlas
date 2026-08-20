@@ -2,11 +2,13 @@
 title: "Micron Technology"
 type: entity
 tags: [company, semiconductors, memory, ai]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-08-20
 ---
 
 # Micron Technology
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a philanthropic/public-policy branch. [[BradGerstner|Brad Gerstner]] names Micron among the institutions contributing to [[TrumpAccounts|Trump accounts]], so the company is linked here to [[UniversalEquityOwnership]] separately from its existing AI-memory and high-bandwidth-memory role.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds Micron as a memory-cycle example in the AI capex rebound. The source links stronger memory long-order expectations and profit improvement to the Q2 shift back toward global AI equities, reinforcing Micron's role in [[AIHardwareSupplyChainPressure]] and [[AICapexReturnWindow]].
 

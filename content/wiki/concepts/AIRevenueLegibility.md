@@ -2,11 +2,13 @@
 title: "AI Revenue Legibility"
 type: concept
 tags: [ai, revenue, investing, metrics]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
+last_updated: 2026-08-20
 ---
 
 # AI Revenue Legibility
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds the frontier-lab disclosure version. Rumored [[Anthropic]] and [[OpenAI]] IPOs are treated as a coming audit of whether model revenue, enterprise adoption, inference cost, and margins are visible enough for public markets to underwrite trillion-dollar outcomes.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a weekly earnings comparison to the legibility frame. [[Microsoft]] looks more credible when capex discipline and cloud economics are visible, [[Google]] is penalized when free cash flow turns negative under AI spending, and [[Meta]] is harder to value because a possible compute-rental business is less established than the existing cloud businesses at Microsoft, Google, or [[Amazon]].
 

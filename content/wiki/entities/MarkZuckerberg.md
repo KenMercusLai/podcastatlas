@@ -2,11 +2,13 @@
 title: "Mark Zuckerberg"
 type: entity
 tags: [person, founder, meta, social-networking]
-sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
+last_updated: 2026-08-20
 ---
 
 # Mark Zuckerberg
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Zuckerberg through the episode's price-war framing. The hosts describe [[Meta]]'s Muse/MuSpark offering as a low-price model push that could compress closed frontier margins, connecting Zuckerberg to [[MetaMuseModels]], [[ModelRoutingCostControl]], and [[ModelFungibility]].
 
 Mark Zuckerberg appears in [[tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]] through [[SeanParker]]'s post-[[Napster]] path. [[RonConway]] says Parker introduced him to Facebook because Parker wanted Conway to mentor both Parker and Zuckerberg, placing Zuckerberg inside the long relationship network that extended from Napster into [[Meta]].
 

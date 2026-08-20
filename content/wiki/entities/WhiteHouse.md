@@ -2,11 +2,13 @@
 title: "White House"
 type: entity
 tags: [government, united-states, ai-policy]
-sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, battlefield-rare-earths-how-the-us-lost-to-china, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-07-25
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, battlefield-rare-earths-how-the-us-lost-to-china, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-08-20
 ---
 
 # White House
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds the White House as the launch setting for [[TrumpAccounts|Trump accounts]]. [[BradGerstner|Brad Gerstner]] says the app launch included a joint [[NewYorkStockExchange|NYSE]] and [[Nasdaq]] bell ringing from the Oval Office, making the White House part of the program's product, donor, and political-symbolic rollout.
 
 The White House appears in [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] as the public political frame around [[OpenAI]]'s [[GPT56|GPT-5.6]] release review. The episode says the White House described the testing process as voluntary and said OpenAI did not need formal government approval, even though the release timing made the process look approval-like.
 

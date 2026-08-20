@@ -8331,6 +8331,10 @@
     "title": "China Mobile / 中国移动",
     "url": "/wiki/entities/chinamobile/"
   },
+  "ChinaModelAccessRestrictionRisk": {
+    "title": "China Model Access Restriction Risk",
+    "url": "/wiki/concepts/chinamodelaccessrestrictionrisk/"
+  },
   "ChinaNarrativeSplit": {
     "title": "China Narrative Split",
     "url": "/wiki/concepts/chinanarrativesplit/"
@@ -10919,6 +10923,10 @@
     "title": "Dark Office",
     "url": "/wiki/concepts/darkoffice/"
   },
+  "DarkTokens": {
+    "title": "Dark Tokens",
+    "url": "/wiki/concepts/darktokens/"
+  },
   "DaronAcemoglu": {
     "title": "Daron Acemoglu",
     "url": "/wiki/entities/daronacemoglu/"
@@ -13031,6 +13039,10 @@
     "title": "Electronic Privacy Information Center",
     "url": "/wiki/entities/electronicprivacyinformationcenter/"
   },
+  "ElevenLabs": {
+    "title": "ElevenLabs",
+    "url": "/wiki/entities/elevenlabs/"
+  },
   "EliLilly": {
     "title": "Eli Lilly",
     "url": "/wiki/entities/elililly/"
@@ -13346,6 +13358,10 @@
   "EnterpriseAIPilotPurgatory": {
     "title": "Enterprise AI Pilot Purgatory",
     "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
+  },
+  "EnterpriseAIROIAudit": {
+    "title": "Enterprise AI ROI Audit",
+    "url": "/wiki/concepts/enterpriseairoiaudit/"
   },
   "EnterpriseAgentGovernance": {
     "title": "Enterprise Agent Governance",
@@ -17470,6 +17486,10 @@
   "Guyang": {
     "title": "固阳 / Guyang",
     "url": "/wiki/entities/guyang/"
+  },
+  "GwenShotwell": {
+    "title": "Gwen Shotwell",
+    "url": "/wiki/entities/gwenshotwell/"
   },
   "GynecologicalExamDignity": {
     "title": "Gynecological Exam Dignity / 妇科检查尊严",
@@ -26287,6 +26307,10 @@
     "title": "Michael Coppenheifer",
     "url": "/wiki/entities/michaelcoppenheifer/"
   },
+  "MichaelDell": {
+    "title": "Michael Dell",
+    "url": "/wiki/entities/michaeldell/"
+  },
   "MichaelEisner": {
     "title": "Michael Eisner",
     "url": "/wiki/entities/michaeleisner/"
@@ -26826,6 +26850,10 @@
   "ModelDistillationEvidence": {
     "title": "Model Distillation Evidence",
     "url": "/wiki/concepts/modeldistillationevidence/"
+  },
+  "ModelFungibility": {
+    "title": "Model Fungibility",
+    "url": "/wiki/concepts/modelfungibility/"
   },
   "ModelHarnessCoEvolution": {
     "title": "Model Harness Co-Evolution",
@@ -37991,6 +38019,10 @@
     "title": "Survey Mode Effects",
     "url": "/wiki/concepts/surveymodeeffects/"
   },
+  "SusanDell": {
+    "title": "Susan Dell",
+    "url": "/wiki/entities/susandell/"
+  },
   "SusanFiske": {
     "title": "Susan Fiske / 苏珊·菲斯克",
     "url": "/wiki/entities/susanfiske/"
@@ -40015,6 +40047,10 @@
     "title": "True Smart Home",
     "url": "/wiki/concepts/truesmarthome/"
   },
+  "TrumpAccounts": {
+    "title": "Trump Accounts",
+    "url": "/wiki/concepts/trumpaccounts/"
+  },
   "TrumpMediaAndTechnologyGroup": {
     "title": "Trump Media And Technology Group",
     "url": "/wiki/entities/trumpmediaandtechnologygroup/"
@@ -40610,6 +40646,10 @@
   "UniversalDigitalAgent": {
     "title": "Universal Digital Agent",
     "url": "/wiki/concepts/universaldigitalagent/"
+  },
+  "UniversalEquityOwnership": {
+    "title": "Universal Equity Ownership",
+    "url": "/wiki/concepts/universalequityownership/"
   },
   "UniversalHighIncome": {
     "title": "Universal High Income",
@@ -41218,6 +41258,10 @@
   "Vivo": {
     "title": "vivo",
     "url": "/wiki/entities/vivo/"
+  },
+  "VladTenev": {
+    "title": "Vlad Tenev",
+    "url": "/wiki/entities/vladtenev/"
   },
   "VladimirPutin": {
     "title": "Vladimir Putin",
@@ -45006,6 +45050,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140": {
     "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390": {
+    "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435": {
     "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",

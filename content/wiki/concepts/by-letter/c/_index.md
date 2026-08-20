@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4791
+wiki_total_pages: 4797
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "ChinaMacroTemperatureGaps"
     title: "China Macro Temperature Gaps / 中国宏观温差"
     url: "/wiki/concepts/chinamacrotemperaturegaps/"
+  - key: "ChinaModelAccessRestrictionRisk"
+    title: "China Model Access Restriction Risk"
+    url: "/wiki/concepts/chinamodelaccessrestrictionrisk/"
   - key: "ChinaNarrativeSplit"
     title: "China Narrative Split"
     url: "/wiki/concepts/chinanarrativesplit/"

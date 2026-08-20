@@ -2,11 +2,13 @@
 title: "U.S. Treasury"
 type: entity
 tags: [institution, macro, bonds, sanctions, compliance]
-sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, betty-boop-excel-olympics-penny-isms-our-2026-valentines, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, betty-boop-excel-olympics-penny-isms-our-2026-valentines, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-20
 ---
 
 # U.S. Treasury
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Treasury as an implementation actor for [[TrumpAccounts|Trump accounts]]. The episode frames the accounts as privately owned and long-horizon, but their contribution rules, tax treatment, identity plumbing, and federal onboarding make Treasury capacity part of the product risk.
 
 [[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds Treasury as the destination in [[HowardLutnick|Howard Lutnick]]'s tariff and trade-deal fiscal story. Lutnick says tariff revenue and Japan's $550 billion project-financing structure can reduce the deficit, tying Treasury to [[TariffRevenueFiscalSubstitution]] and [[TradeDealCapitalStructure]].
 

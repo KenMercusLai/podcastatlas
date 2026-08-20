@@ -2,11 +2,13 @@
 title: "Jevons Paradox In AI"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
+last_updated: 2026-08-20
 ---
 
 # Jevons Paradox In AI
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds the token-price version. The hosts say token prices can fall sharply while total demand expands through more users, longer agent loops, and broader enterprise workflows, which keeps [[DataCenterPowerBottleneck]] and [[AIInferenceCostStructure]] central even after routing savings.
 
 [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds the knowledge-worker demand version through [[DavidSacks|David Sacks]]. Sacks argues that cheaper AI can increase demand for code, radiology, and other knowledge work rather than simply replacing workers, putting the concept in direct tension with [[EntryLevelAICareerLadderRisk]].
 

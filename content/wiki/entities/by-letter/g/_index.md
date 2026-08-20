@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6139
+wiki_total_pages: 6144
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "GuyRaz"
     title: "Guy Raz"
     url: "/wiki/entities/guyraz/"
+  - key: "GwenShotwell"
+    title: "Gwen Shotwell"
+    url: "/wiki/entities/gwenshotwell/"
   - key: "GreenBook"
     title: "The Green Book"
     url: "/wiki/entities/greenbook/"

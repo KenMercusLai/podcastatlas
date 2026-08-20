@@ -2,11 +2,13 @@
 title: "AI Energy Bottleneck"
 type: concept
 tags: [ai, energy, infrastructure, data-centers]
-sources: [165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-20
 ---
 
 # AI Energy Bottleneck
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds the investor-operator version. [[ChamathPalihapitiya|Chamath Palihapitiya]] argues that token demand is shifting the bottleneck from model availability toward power and industrial capacity, while the panel treats Taiwan energy exposure and U.S. data-center buildout as part of AI's geopolitical constraint set.
 
 AI energy bottleneck is the constraint created when AI development and deployment require more electricity, grid connection capacity, and utility infrastructure than can be supplied quickly, cheaply, or politically. [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] makes this bottleneck concrete through state utility regulation and data-center connection costs.
 

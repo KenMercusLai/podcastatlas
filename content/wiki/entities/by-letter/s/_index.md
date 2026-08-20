@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6139
+wiki_total_pages: 6144
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1127,6 +1127,9 @@ wiki_pages:
   - key: "SurbhiSarna"
     title: "Surbhi Sarna"
     url: "/wiki/entities/surbhisarna/"
+  - key: "SusanDell"
+    title: "Susan Dell"
+    url: "/wiki/entities/susandell/"
   - key: "SusanFiske"
     title: "Susan Fiske / 苏珊·菲斯克"
     url: "/wiki/entities/susanfiske/"

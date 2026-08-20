@@ -2,11 +2,13 @@
 title: "Chinese Open-Weight AI Strategy"
 type: concept
 tags: [ai, open-source, geopolitics, china]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]
-last_updated: 2026-08-17
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]
+last_updated: 2026-08-20
 ---
 
 # Chinese Open-Weight AI Strategy
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a possible reversal risk. The hosts discuss whether China could restrict overseas access to models such as [[DeepSeek]], [[Qwen]], Kimi, and [[GLM52|GLM 5.2]], which would complicate the strategy's soft-power benefit and make [[ChinaModelAccessRestrictionRisk]] part of the open-weight equation.
 
 [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds the accusation-and-gap-closing layer. The source says Chinese open models moving closer to U.S. closed frontier models made [[ModelDistillation]] more politically and commercially sensitive, with [[KimiK3|Kimi K3]] treated as a milestone and U.S. companies publicly naming or suspecting several Chinese model families while showing incomplete public evidence.
 

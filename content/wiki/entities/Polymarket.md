@@ -2,11 +2,13 @@
 title: "Polymarket"
 type: entity
 tags: [prediction-market, markets, probability]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
+last_updated: 2026-08-20
 ---
 
 # Polymarket
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Polymarket as a noisy market signal for AI IPO timing. [[JasonCalacanis|Jason Calacanis]] cites a roughly 65% Anthropic IPO probability while also noting light volume, making this a source-scoped example of prediction markets as context rather than proof.
 
 [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds a bullish investor-media version of Polymarket. Friedberg names it as both a business winner and best-performing-asset candidate, arguing that it could move from a quirky prediction market toward market and news infrastructure; Jason separately groups it with wagering-adjacent assets such as [[Robinhood]] and [[Coinbase]].
 

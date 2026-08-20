@@ -2,11 +2,13 @@
 title: "Nasdaq"
 type: entity
 tags: [company, exchange, finance]
-sources: [ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]
-last_updated: 2026-07-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]
+last_updated: 2026-08-20
 ---
 
 # Nasdaq
+
+[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Nasdaq as part of the [[TrumpAccounts|Trump accounts]] launch event. The episode says Nasdaq and the [[NewYorkStockExchange|NYSE]] rang the bell jointly from the [[WhiteHouse|Oval Office]], making Nasdaq a symbolic market-infrastructure participant in the program's rollout.
 
 Nasdaq appears in [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] through the episode's [[BernieMadoff]] section. The source uses Madoff's electronic trading/quotation credibility and Nasdaq leadership role to show how institutional prestige can become a trust signal inside fraud narratives.
 
