@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6068
+wiki_total_pages: 6069
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "SanWuHuan"
     title: "三五环"
     url: "/wiki/entities/sanwuhuan/"
+  - key: "SanchuanWarringStates"
+    title: "三川 / Sanchuan (Warring States)"
+    url: "/wiki/entities/sanchuanwarringstates/"
   - key: "SanDianXiaban"
     title: "三点下班 / San Dian Xiaban"
     url: "/wiki/entities/sandianxiaban/"

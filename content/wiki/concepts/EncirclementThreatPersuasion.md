@@ -2,7 +2,7 @@
 title: "Encirclement Threat Persuasion / 包围威胁式说服"
 type: concept
 tags: [persuasion, diplomacy, coercion, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]
+sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]
 last_updated: 2026-08-20
 ---
 
@@ -14,16 +14,20 @@ The pattern differs from [[DignityBasedPersuasion|尊严激将式说服]]. [[SuQ
 
 In [[HanState|韩国]], the pattern starts with weakness: mountains, limited grain, fewer soldiers, and the risk that Qin can take [[YiyangWarringStates|宜阳]] and split Han by controlling Chenggao. In [[QiState|齐国]], it starts with false security: Zhang Yi argues that Chu, Han, Wei, and Zhao have already been detached, so Qi's anti-Qin confidence no longer rests on real allies. In [[ZhaoState|赵国]], it starts with praise and then shifts to encirclement: Qin's strength, allied pressure, and multiple army routes turn Zhao's past anti-Qin prestige into a danger unless Zhao reaches terms.
 
+[[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] completes the Yan case that Zhouji 54 only previewed. Zhang Yi tells [[YanZhaowang|燕昭王]] that Zhao has already moved toward Qin and ceded Hejian, so Yan could be attacked by Zhao under Qin's direction if it refuses accommodation. The same encirclement logic therefore reaches even a northern state that originally used Zhao as a shield against Qin.
+
 ## Key Claims
 - The target's local vulnerability matters more than a generic claim that Qin is strong.
 - A persuasion threat becomes more credible when it identifies routes, allies, and sequence rather than saying only "Qin will attack."
 - The technique converts [[LianhengStrategy|连横]] from abstract Qin accommodation into state-specific survival logic.
 - The same method can be calibrated differently: direct weakness for Han, diplomatic isolation for Qi, and praise-then-pressure for Zhao.
 - Encirclement rhetoric also attacks [[HezongAlliance|合纵]] by making the listener believe the coalition has already failed.
+- Zhouji 55 adds the Yan version: even a distant northern state is told that Qin can weaponize another state's submission against it.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[QinState|秦国]], and [[LianhengStrategy|连横]] - source strategist, pressure state, and policy logic.
 - [[HanXiangwang|韩襄王]], [[QiXuanWang|齐宣王]], and [[ZhaoWulingwang|赵武灵王]] - rulers targeted by the source's speeches.
+- [[YanState|燕国]], [[YanZhaowang|燕昭王]], and [[ZhaoState|赵国]] - Zhouji 55 final Yan speech and five-city concession.
 - [[HanState|韩国]], [[QiState|齐国]], [[ZhaoState|赵国]], [[WeiState|魏国]], and [[ChuState|楚国]] - states used in the threat map.
 - [[YiyangWarringStates|宜阳]], [[BaShu|巴蜀]], [[Hanzhong|汉中]], [[Wuguan|武关]], and [[HanguPass|函谷关]] - strategic geography that makes the threats concrete.
 - [[HezongAlliance|合纵]], [[DignityBasedPersuasion|尊严激将式说服]], [[CommonEnemyAlliance|共同敌人联盟]], and [[ZonghengjiaDiplomacy|纵横家外交]] - adjacent alliance and persuasion frames.

@@ -2,8 +2,8 @@
 title: "Power Exit Trap / 权力退场困境"
 type: concept
 tags: [politics, statecraft, reform, power, risk]
-sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+last_updated: 2026-08-20
 ---
 
 # Power Exit Trap / 权力退场困境
@@ -18,6 +18,8 @@ The episode uses [[CaoCao|曹操]] as a later analogy. Cao Cao is presented as s
 
 The same source also prevents an easy "he should simply have resigned" answer. [[Shiji|《史记》]] supplies a proposed exit through surrendering [[Shangyu|商於]], retiring, and encouraging benevolent policy, but the host doubts the plan would work after resentment inside Qin and enemy-making outside Qin had already accumulated. That makes the trap a time-sensitive structure: a theoretically good off-ramp may be useless once political debt has compounded too far.
 
+[[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] supplies a contrasting successful exit pattern through Zhang Yi. He also loses his main Qin protection after a ruler's death, but instead of simply resigning, he asks [[QinWuwang|秦武王]] to send him to Wei as a useful Qin strategy. The case shows that one way around an exit trap is to make departure valuable to the successor before the actor becomes completely exposed.
+
 ## Key Claims
 - Power can become protective infrastructure, not only a prize.
 - A reformer or strong minister may become less able to leave precisely because the reform has succeeded.
@@ -26,6 +28,7 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - Going further upward may be dangerous or illegitimate, while going backward may expose the actor to revenge.
 - Social support is part of exit safety; armed protection can conceal immediate danger while worsening the underlying legitimacy problem.
 - Exit plans decay in value when they are offered after resentment has become structurally organized.
+- A successful exit can require making departure useful to the successor, not merely leaving the dangerous court.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[QinState|秦国]], and [[WarringStatesReformBacklash]] - central source case.
@@ -33,3 +36,4 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - [[BailiXi|百里奚]] and [[QinMugong|秦穆公]] - contrast case of outsider talent with a more fortunate remembered path.
 - [[CaoCao|曹操]], [[CaoPi|曹丕]], and [[EmperorXianOfHan|汉献帝]] - later analogy for irreversible power.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[LegalistSelfBindingBackfire|作法自毙]], [[GoodIntentionsPoliticalLimits]], and [[MachiavellianRealism]] - adjacent concepts about social support, power, law, and political realism.
+- [[SelfPreservationAsStateStrategy|以自保包装国策]], [[ZhangYiStrategist|张仪]], and [[QinWuwang|秦武王]] - contrasting Zhouji 55 case where a threatened minister makes departure useful to the successor.

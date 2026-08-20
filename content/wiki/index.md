@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王](sources/zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy.md) — 芮淇讲透资治通鉴 episode completing Zhang Yi's final Yan persuasion, Qin Huiwen Wang's death, Zhang Yi's self-preserving move to Wei, the induced Qi-Wei conflict, and his final year as Wei chief minister.
 - [《资治通鉴·周纪》54丨我尊你是王，你当我是屁](sources/zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's post-Chu lobbying tour through Han, Qi, Zhao, and Yan, using encirclement threats to push lianheng, and the sudden patronage risk after Qin Huiwen Wang dies.
 - [《资治通鉴·周纪》53丨秦惠王用张仪换地皮](sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk.md) — 芮淇讲透资治通鉴 episode on Qin Huiwen Wang's land-for-Qianzhong proposal, Chu Huaiwang demanding Zhang Yi instead, Zhang Yi's survival through Zheng Xiu and palace backchannels, and the politics of treating a minister as exchangeable.
 - [《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘](sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2.md) — 芮淇讲透资治通鉴 episode on Yan Zhaowang's talent recruitment through Guo Wei, Le Yi and Ju Xin's arrival in Yan, Chen Zhuang's Ba-Shu rebellion against Qin, and Zhang Yi entering Chu.
@@ -1063,6 +1064,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch, marking Qin's proposed advance toward Zhou royal authority while Qi and Wei are entangled.
 - [郑袖 / Zheng Xiu](entities/ZhengXiu.md) — Chu Huaiwang favorite whose status anxiety is turned into the backchannel that saves Zhang Yi.
 - [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks in exchange for land, then Chu Huaiwang prices against Zhang Yi himself.
 - [上庸 / Shangyong](entities/Shangyong.md) — Six-county Qin ransom object invoked to persuade Zheng Xiu to help free Zhang Yi.
@@ -7135,6 +7137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Self-Preservation as State Strategy / 以自保包装国策](concepts/SelfPreservationAsStateStrategy.md) — Maneuver where a threatened court actor frames a personal exit as useful state strategy.
 - [可交换功臣 / Minister as Exchangeable Asset](concepts/MinisterAsExchangeableAsset.md) — Ruler calculation where a valued minister's survival, transfer, or death can all be converted into state advantage.
 - [宫廷后门自救 / Court Backchannel Survival](concepts/CourtBackchannelSurvival.md) — Hostile-court survival pattern where preexisting palace relationships and private status fears change a ruler's decision.
 - [不斩来使 / Envoy Killing Taboo](concepts/EnvoyKillingTaboo.md) — Diplomatic norm that makes killing an envoy a costly violation and potential war pretext.

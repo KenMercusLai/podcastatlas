@@ -2,8 +2,8 @@
 title: "《战国策》 / Zhanguo Ce"
 type: entity
 tags: [book, chinese-history, pre-qin, historiography]
-sources: [zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-20
 ---
 
 # 《战国策》 / Zhanguo Ce
@@ -28,6 +28,8 @@ The page's role is historiographical. It helps keep source variants visible inst
 
 [[zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]] adds the [[HanXuanhuiwang|韩宣惠王]] joint-chief-minister story. The host says direct reading of Zhanguo Ce does not reveal why [[SimaGuang|司马光]] placed it in the 321 BCE Zhou Xian Wang frame, so the wiki keeps the story as a selected governance lesson about [[DualExecutivePowerRisk|双首长权力风险]] rather than a chronology anchor.
 
+[[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] cites Zhanguo Ce alongside [[ZizhiTongjian|《资治通鉴》]] and [[Shiji|《史记》]] for Zhang Yi's 311 BCE circuit and final Wei/Qi maneuver. The episode uses that comparison to keep the story's strategic mechanism while treating Zhouji 55 as the cleaner post-Qin-Huiwen-Wang placement.
+
 ## Connections
 - [[NieZheng|聂政]], [[XiaLei|侠累]], and [[HanAihou|韩哀侯]] - variant story branch.
 - [[YuRang|豫让]] and [[RetainerReciprocityEthic]] - Zhouji 04 "士为知己者死" branch.
@@ -39,3 +41,4 @@ The page's role is historiographical. It helps keep source variants visible inst
 - [[QianjuHougongReversal|前倨后恭]], [[YingSi|秦惠文王]], and [[FailureDrivenSelfStudy|失败后的自学翻身]] - Zhouji 33 failed-lobbying and family-humiliation branch.
 - [[WuxiaWarringStates|武夏]], [[WeyState|卫国]], [[LiangHuiWang|魏惠王 / 梁惠王]], and [[QinState|秦国]] - Zhouji 36 neglected-envoy and great-power analogy branch.
 - [[HanXuanhuiwang|韩宣惠王]], [[MiuLiu|谬刘]], [[GongzhongHan|公众]], [[GongshuHan|公叔]], and [[DualExecutivePowerRisk|双首长权力风险]] - Zhouji 44 dual-minister warning branch.
+- [[ZhangYiStrategist|张仪]], [[QinWuwang|秦武王]], [[QiXuanWang|齐宣王]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 55 source comparison around final Zhang Yi branch.

@@ -2,7 +2,7 @@
 title: "秦武王 / King Wu of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-20
 ---
 
@@ -16,9 +16,12 @@ The wiki should keep this page source-scoped because the episode uses the Qin Wu
 
 [[zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]] brings Qin Wuwang back in a cleaner 311 BCE sequence. After Zhang Yi has lobbied Han, Qi, Zhao, and Yan for Qin, he learns on the road back to [[Xianyang|咸阳]] that Qin Huiwen Wang has died and Qin Wuwang has succeeded. The episode adds that Qin Wuwang disliked Zhang Yi while still crown prince, making him the source case for [[PatronSuccessionExposure|靠山更替暴露风险]].
 
+[[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] develops that sequence into an authorized exit. Qin Wuwang hears Zhang Yi's proposal that sending him to [[WeiState|魏国]] will provoke [[QiState|齐国]], distract Wei and Qi, and give Qin room to attack [[HanState|韩国]] and enter [[SanchuanWarringStates|三川]]. The episode keeps Qin Wuwang as the hostile successor, but also as the ruler who must be persuaded that Zhang Yi's departure is useful to Qin.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - minister whose departure he authorizes in the source's supplement.
 - [[YingSi|秦惠文王]] - predecessor named by the source.
 - [[QinState|秦国]], [[WeiState|魏国]], [[QiState|齐国]], and [[HanState|韩国]] - states in Zhang Yi's proposed plan.
 - [[Zhanguoce|《战国策》]] and [[ChronicleChronologyDrift|编年错位]] - source and chronology-caution frame.
 - [[PatronSuccessionExposure|靠山更替暴露风险]], [[Xianyang|咸阳]], [[HanState|韩国]], [[QiState|齐国]], [[ZhaoState|赵国]], and [[YanState|燕国]] - Zhouji 54 post-tour accession risk.
+- [[SelfPreservationAsStateStrategy|以自保包装国策]], [[SanchuanWarringStates|三川]], [[WeiXiangwang|魏襄王]], and [[QiXuanWang|齐宣王]] - Zhouji 55 exit plan and Qi-Wei aftermath.

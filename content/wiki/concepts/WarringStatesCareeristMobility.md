@@ -2,7 +2,7 @@
 title: "Warring States Careerist Mobility / 乱世职业经理人式流动"
 type: concept
 tags: [career, diplomacy, warring-states, political-agency]
-sources: [zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-20
 ---
 
@@ -26,6 +26,8 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 
 [[zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]] adds a successor-risk layer. Zhang Yi's mobility lets him move rapidly through Han, Qi, Zhao, and Yan for Qin, but his security still depends on the Qin ruler who values him. When [[YingSi|秦惠文王]] dies and [[QinWuwang|秦武王]] succeeds, the same mobile professional who has just served Qin effectively faces [[PatronSuccessionExposure|靠山更替暴露风险]].
 
+[[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] completes that layer by showing Zhang Yi using mobility as an exit device, not only a way to gather assignments. His move to Wei is presented to Qin Wuwang as useful for Qin, but the host reads it as a deliberate retreat from the Qin court after the loss of Ying Si. The episode therefore adds [[SelfPreservationAsStateStrategy|以自保包装国策]] to the mobility frame: a mobile professional survives by making movement itself legible as state service.
+
 ## Key Claims
 - Warring States persuaders can act as mobile political professionals rather than modern nation-state loyalists.
 - Reformers as well as persuaders can move through the same court market when one state fails to recognize or retain them.
@@ -38,6 +40,7 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - Zhouji 52 adds that the labor market can help a defeated state recover when the receiving ruler makes respect credible enough to attract outside talent.
 - Zhouji 53 adds that mobility creates survival infrastructure but not guaranteed protection: a strategist's cross-court relationships can save him, while his sending ruler can still expose him to hostile-court risk.
 - Zhouji 54 adds that mobility does not solve succession dependence: even a successful persuader can lose protection when his main patron dies.
+- Zhouji 55 adds that mobility can be an exit technology: a strategist may need to make departure useful to the successor before he can safely leave.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]] and [[GongsunYan|犀首公孙衍]] - main mobile strategist cases.
@@ -49,4 +52,5 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - [[YanZhaowang|燕昭王]], [[GuoWeiWarringStates|郭隗]], [[LeYi|乐毅]], and [[JuXin|剧辛]] - Zhouji 52 recruitment and interstate talent movement.
 - [[ZhengXiu|郑袖]], [[Qianzhong|黔中]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 cross-court survival and exposure branch.
 - [[EncirclementThreatPersuasion|包围威胁式说服]], [[QinWuwang|秦武王]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 54 lobbying mobility and successor risk.
+- [[SelfPreservationAsStateStrategy|以自保包装国策]], [[WeiXiangwang|魏襄王]], and [[SanchuanWarringStates|三川]] - Zhouji 55 exit-through-service branch.
 - [[ZonghengjiaDiplomacy|纵横家外交]], [[LianhengStrategy|连横]], [[HezongAlliance|合纵]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - adjacent diplomatic frames.

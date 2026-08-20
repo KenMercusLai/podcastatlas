@@ -8499,3 +8499,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran health before lint; health scanned 11,888 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,888 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 11,888 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Zhang Yi's final Yan persuasion, Qin Huiwen Wang's death, Qin Wuwang's hostile succession environment, Zhang Yi's self-preserving exit to Wei, the induced Qi-Wei conflict, and Qi's withdrawal after the plan is disclosed. Created Self-Preservation as State Strategy and Sanchuan; updated overview, index, Zhang Yi, Ying Si, Qin Wuwang, Qin/Yan/Wei/Qi state pages, Yan Zhaowang, Wei Xiang Wang, Qi Xuan Wang, Xianyang, Zizhi Tongjian, Zhanguo Ce, Shiji, Ruiqi Jiangtou Zizhi Tongjian, Zhou Royal House, and related lianheng/hezong/zongheng/succession/exit concepts. No direct contradiction found; episode 55 clarifies the older Zhouji 38 supplement as source-layer chronology drift rather than a separate settled timeline.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
