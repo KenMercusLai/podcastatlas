@@ -64,6 +64,8 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] gives Zhao a compact post-Qi-collapse role. [[ZhaoHe|赵惠文王赵何]] meets [[QinZhaoxiangwang|秦昭襄王]] at Rangcheng, and Zhao is later named with [[YanState|燕国]] as returning to help [[WeiState|魏国]] after Qin captures [[AnchengWarringStates|安城]] and threatens [[Daliang|大梁]].
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] gives Zhao a court-and-diplomacy branch around [[HeShiBi|和氏璧]]. The jade enters royal possession after [[ZhaoHe|赵惠文王赵何]] seizes it from [[MiuXian|缪贤]], then [[QinZhaoxiangwang|秦昭襄王]]'s fifteen-city offer creates the asymmetry that [[LinXiangru|蔺相如]] resolves through [[WanbiGuizhaoDiplomacy|完璧归赵式外交]].
+
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoXiangzi|赵襄子]], [[YuRang|豫让]], [[DaiState|代国]], [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]] - Zhouji 04 pre-recognition and succession branch.
@@ -90,3 +92,4 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 - [[ZhaoWulingwang|赵武灵王]], [[ZhangYiStrategist|张仪]], [[BaShu|巴蜀]], [[Hanzhong|汉中]], [[LianhengStrategy|连横]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 praise-then-threat lobbying branch.
 - [[HufuQishe|胡服骑射]], [[ZhongshanState|中山国]], [[FeiYi|肥义]], [[ZhaoChengWarringStates|赵成]], [[ZhaoGuWarringStates|赵固]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Zhouji 58-59 state-strengthening reform, family compliance, northern expansion, and Hu recruitment branch.
 - [[ZhaoHe|赵何]], [[QinZhaoxiangwang|秦昭襄王]], [[WeiState|魏国]], [[AnchengWarringStates|安城]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 73 Rangcheng meeting and return-to-Wei assistance.
+- [[HeShiBi|和氏璧]], [[MiuXian|缪贤]], [[LinXiangru|蔺相如]], and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - Zhouji 74 jade seizure and Qin exchange crisis.

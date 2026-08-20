@@ -2,7 +2,7 @@
 title: "Legalist Ruler Technique / 法家君术"
 type: concept
 tags: [political-theory, legalism, governance, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-19
 ---
 
@@ -22,6 +22,8 @@ The concept is deliberately cold. It separates political effectiveness from conv
 
 [[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]] adds a small-state enforcement version through [[WeySijun|卫嗣君]]. Wey Sijun's [[NoSmallMattersInGovernance|治无小乱无大]] argument is not a full Legalist institution like Qin's reforms, but it shares the cold ruler-technique premise that order fails when exceptions become visible. The escaped-prisoner case makes strict enforcement a way for a weak state to protect authority when title and military power are limited.
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds a hidden-information version through the same source-noisy Wey Sijun branch. The ruler discovers private bedding, tests a gate official with staged bribery, and sets favorites against counterweights, making [[SurveillanceBasedRulerControl|窥察制衡式君术]] a narrower extension of ruler technique: officials are disciplined by the belief that the ruler may already know what they conceal.
+
 ## Key Claims
 - Ruler competence is measured through control of people, information, and speech.
 - Personal vice does not automatically imply political collapse in this frame.
@@ -31,6 +33,7 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - Shang Yang's reform case adds rule through standardization, surveillance, and rank incentives rather than only minister control.
 - Shen Buhai's Han case adds ruler self-restraint over appointments and rewards as a Legalist technique.
 - Wey Sijun's case adds that a seemingly minor law-enforcement failure can become a ruler-level threat to political order.
+- Zhouji 74 adds that hidden information and engineered counterweights can serve ruler control even when the source does not present a full legal reform program.
 
 ## Connections
 - [[HanFei|韩非]] - textual and philosophical source for the episode's frame.
@@ -41,5 +44,6 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - [[ShangYang|公孙鞅 / 商鞅]], [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], and [[MilitaryMeritRankSystem]] - Qin institutional reform extension.
 - [[ShenBuhai|申不害]], [[HanZhaohou|韩昭侯]], and [[MeritBasedRewardPunishment]] - Zhouji 17 Han ruler-technique extension.
 - [[WeySijun|卫嗣君]], [[NoSmallMattersInGovernance|治无小乱无大]], and [[WeakStateStatusDemotion|弱国名分降格]] - Zhouji 36 small-state enforcement extension.
+- [[SurveillanceBasedRulerControl|窥察制衡式君术]], [[Xunzi|荀子]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 74 hidden-information extension and evaluative limit.
 - [[VirtueOverNaturalBarriers]] and [[WangdaoVsBadao]] - contrasting legitimacy and benevolent-rule frames.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where ruler technique becomes politically salient.

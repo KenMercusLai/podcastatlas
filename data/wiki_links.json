@@ -5807,6 +5807,10 @@
     "title": "Bharatiya Janata Party",
     "url": "/wiki/entities/bharatiyajanataparty/"
   },
+  "BianHe": {
+    "title": "卞和 / Bian He",
+    "url": "/wiki/entities/bianhe/"
+  },
   "BianQue": {
     "title": "扁鹊 / Bian Que",
     "url": "/wiki/entities/bianque/"
@@ -18059,6 +18063,10 @@
     "title": "何倩然 / He Qianran",
     "url": "/wiki/entities/heqianran/"
   },
+  "HeShiBi": {
+    "title": "和氏璧 / He Shi Bi",
+    "url": "/wiki/entities/heshibi/"
+  },
   "HeTao": {
     "title": "He Tao",
     "url": "/wiki/entities/hetao/"
@@ -23739,6 +23747,10 @@
     "title": "Lin Wei",
     "url": "/wiki/entities/linwei/"
   },
+  "LinXiangru": {
+    "title": "蔺相如 / Lin Xiangru",
+    "url": "/wiki/entities/linxiangru/"
+  },
   "LinYao": {
     "title": "林垚 / Lin Yao",
     "url": "/wiki/entities/linyao/"
@@ -26782,6 +26794,10 @@
   "MiuLiu": {
     "title": "谬刘 / Miu Liu",
     "url": "/wiki/entities/miuliu/"
+  },
+  "MiuXian": {
+    "title": "缪贤 / Miu Xian",
+    "url": "/wiki/entities/miuxian/"
   },
   "MixedIncentiveContracts": {
     "title": "Mixed Incentive Contracts / 组合激励契约",
@@ -38043,6 +38059,10 @@
     "title": "Surveillance as a Service",
     "url": "/wiki/concepts/surveillanceasaservice/"
   },
+  "SurveillanceBasedRulerControl": {
+    "title": "Surveillance-Based Ruler Control / 窥察制衡式君术",
+    "url": "/wiki/concepts/surveillancebasedrulercontrol/"
+  },
   "SurveillanceCameraExposure": {
     "title": "Surveillance Camera Exposure",
     "url": "/wiki/concepts/surveillancecameraexposure/"
@@ -40011,6 +40031,10 @@
     "title": "Treasure Hunt Retail",
     "url": "/wiki/concepts/treasurehuntretail/"
   },
+  "TreasureRecognitionRisk": {
+    "title": "Treasure Recognition Risk / 识宝风险",
+    "url": "/wiki/concepts/treasurerecognitionrisk/"
+  },
   "TreasuryBondSpeculation": {
     "title": "Treasury Bond Speculation",
     "url": "/wiki/concepts/treasurybondspeculation/"
@@ -41470,6 +41494,10 @@
   "WanErDuoFeng": {
     "title": "婉而多讽 / Gentle And Layered Satire",
     "url": "/wiki/concepts/wanerduofeng/"
+  },
+  "WanbiGuizhaoDiplomacy": {
+    "title": "Wanbi Guizhao Diplomacy / 完璧归赵式外交",
+    "url": "/wiki/concepts/wanbiguizhaodiplomacy/"
   },
   "WandaGroup": {
     "title": "万达集团 / Wanda Group",
@@ -48142,5 +48170,9 @@
   "zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u": {
     "title": "《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u/"
+  },
+  "zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk": {
+    "title": "《资治通鉴·周纪》74丨还原完璧归赵真相！",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk/"
   }
 }

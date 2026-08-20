@@ -2,7 +2,7 @@
 title: "People-Based Political Security / 民心型政治安全"
 type: concept
 tags: [statecraft, legitimacy, power, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
+sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
 last_updated: 2026-08-20
 ---
 
@@ -26,6 +26,8 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds the restoration side of the same security problem. [[TianFazhang|田法章]] can survive only by hiding in [[JuWarringStates|莒城]], but [[WangSunGu|王孙古]]'s revenge mobilization and the ministers' search for the royal heir show that Qi still has enough local loyalty to punish [[ZhuoChi|淖齿 / 卓齿]] and install [[QiXiangWang|齐襄王]].
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds Xunzi's people-support criterion as a compact theoretical statement. In the episode's closing evaluation, winning the people makes a state secure, while ritual-righteousness and administrative competence rank even higher and wealth extraction ranks lower. The source therefore gives people-based security an explicit place inside a broader [[ConfucianIdealGovernance|Confucian]] and [[XunzianWangbaThreePaths|Xunzian]] hierarchy.
+
 ## Key Claims
 - Social support can be a security asset, not only a legitimacy ornament.
 - Heavy personal security can reveal political weakness by showing how much resentment surrounds the officeholder.
@@ -37,6 +39,7 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - In the Qi Min Wang case, lost support follows the ruler into exile: without willing protectors, even a formal rescue force can become the channel of execution.
 - Post-conquest repair tries to rebuild security for the conquered population, but coercive recruitment and royal-line pursuit can keep the old order's people personally unsafe.
 - Restoration can begin from small pockets of remaining loyalty even before a shattered state recovers territory broadly.
+- Xunzi's Zhouji 74 criterion states the concept positively: gaining people-support is what makes a state secure, even though it is not the highest ritual-righteous standard.
 
 ## Connections
 - [[ZhaoLiang|赵良]] and [[ShangYang|公孙鞅 / 商鞅]] - source warning and target.
@@ -50,3 +53,4 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - [[LeYi|乐毅]], [[Linzi|临淄]], [[ZhuoChi|卓齿]], [[WeyState|卫国]], [[ZouState|邹国]], and [[LuState|鲁国]] - Zhouji 70 defeat, failed asylum, and rescue-turned-execution branch.
 - [[WangZhu|王蠋]], [[TianFazhang|田法章]], [[YanState|燕国]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 occupation repair, coercive recruitment, and royal-line hiding.
 - [[WangSunGu|王孙古]], [[QiXiangWang|齐襄王]], [[JunWangHou|君王后]], [[JuWarringStates|莒城]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 local loyalty, revenge, and royal restoration.
+- [[Xunzi|荀子]], [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[SurveillanceBasedRulerControl|窥察制衡式君术]] - Zhouji 74 ruler-evaluation hierarchy.

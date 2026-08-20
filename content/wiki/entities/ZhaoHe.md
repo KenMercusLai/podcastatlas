@@ -2,7 +2,7 @@
 title: "赵何 / Zhao He"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,8 @@ For this page, the source matters less as a biography of Zhao He's own choices t
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds a compact interstate notice for Zhao He under his ruler title, 赵惠文王. He meets [[QinZhaoxiangwang|秦昭襄王]] at Rangcheng in the same episode that reads Qin's later attack on [[WeiState|魏国]] as a post-Qi-coalition balancing move.
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] gives Zhao He a fuller decision problem as Zhao Huiwen Wang. After taking [[HeShiBi|和氏璧]] from [[MiuXian|缪贤]], he faces [[QinZhaoxiangwang|秦昭襄王]]'s offer of fifteen cities for the jade and must choose between provoking Qin by refusal and being cheated by acceptance. [[LinXiangru|蔺相如]]'s answer lets Zhao accept while shifting the burden of performance to Qin, making Zhao He the ruler who authorizes [[WanbiGuizhaoDiplomacy|完璧归赵式外交]].
+
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] and [[WuWa|吴娃]] - parents in the source's setup.
 - [[ZhaoZhang|赵章]] - elder son whose position is put at risk.
@@ -30,3 +32,4 @@ For this page, the source matters less as a biography of Zhao He's own choices t
 - [[FeiYi|肥义]] - chancellor appointed when Zhao He becomes ruler in Zhouji 61.
 - [[LiDui|李兑]], [[TianBuli|田不李]], [[GaoXinWarringStates|高信]], [[ShaqiuCrisis|沙丘之变]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[PartialAbdicationPowerSplit|退位留权式权力分裂]] - Zhouji 66 warning, rival faction, Shaqiu coup, and starvation aftermath.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiState|魏国]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 73 Rangcheng meeting and post-Qi-coalition balance context.
+- [[MiuXian|缪贤]], [[HeShiBi|和氏璧]], [[LinXiangru|蔺相如]], and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - Zhouji 74 royal seizure, Qin exchange dilemma, and diplomatic resolution.

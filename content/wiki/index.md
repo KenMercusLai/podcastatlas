@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》74丨还原完璧归赵真相！](sources/zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk.md) — 芮淇讲透资治通鉴 episode on He Shi Bi's origin, Bian He's recognition risk, Miu Xian and Zhao Huiwen Wang's court possession, Lin Xiangru's "完璧归赵" diplomacy with Qin, and Xunzi's ruler-evaluation hierarchy.
 - [《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？](sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u.md) — 芮淇讲透资治通鉴 episode on Qin's post-anti-Qi pressure against Wei, Tian Fazhang's hiding in Ju, Wang Sun Gu's revenge against Zhuo Chi, Qi Xiang Wang's restoration, and Jun Wang Hou's crisis-formed marriage.
 - [《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？](sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28.md) — 芮淇讲透资治通鉴 episode on Wang Zhu's loyal-minister death after Yan's conquest of Qi, Le Yi's post-conquest governance, the Qin-Wei-Han meeting at Luoyi, and Tian Fazhang's flight.
 - [《资治通鉴·周纪》71丨荀子的性本恶论](sources/zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j.md) — 芮淇讲透资治通鉴 episode unpacking Sima Guang's Xunzi Wangba quotation after Qi Min Wang's death, contrasting ritual-righteous kingly rule, trust-based hegemony, and deception-driven collapse.
@@ -1085,6 +1086,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [和氏璧 / He Shi Bi](entities/HeShiBi.md) — Jade treasure whose origin, Zhao possession, Qin exchange proposal, and intact return structure Zhouji 74.
+- [蔺相如 / Lin Xiangru](entities/LinXiangru.md) — Zhao envoy who returns He Shi Bi intact by shifting the Qin exchange onto visible promise performance.
+- [卞和 / Bian He](entities/BianHe.md) — Chu figure whose punished recognition of hidden jade gives He Shi Bi its origin story.
+- [缪贤 / Miu Xian](entities/MiuXian.md) — Zhao court insider who buys He Shi Bi before Zhao Huiwen Wang forces it into royal possession.
 - [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity after ministers find him in Ju.
 - [君王后 / Jun Wang Hou](entities/JunWangHou.md) — Taishi Jiao's daughter who privately bonds with fugitive Tian Fazhang and becomes Qi Xiang Wang's queen.
 - [太史角 / Taishi Jiao](entities/TaishiJiao.md) — Ju household head whose home shelters Tian Fazhang during the Qi collapse.
@@ -7244,6 +7249,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wanbi Guizhao Diplomacy / 完璧归赵式外交](concepts/WanbiGuizhaoDiplomacy.md) — Diplomatic pattern where a weaker state accepts a formal exchange to shift bad-faith liability onto the stronger party while protecting the asset.
+- [Treasure Recognition Risk / 识宝风险](concepts/TreasureRecognitionRisk.md) — Value-judgment problem where hidden treasure is hard to verify and can punish the person who first asserts its worth.
+- [Surveillance-Based Ruler Control / 窥察制衡式君术](concepts/SurveillanceBasedRulerControl.md) — Ruler technique based on hidden observation, staged tests, and counterweights rather than open institutional reform.
 - [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
 - [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
 - [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Wang Sun Gu's conversion of subject-duty shame into a public revenge force against Zhuo Chi.

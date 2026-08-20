@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 4803
+wiki_total_pages: 4806
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "WaldenMomentAgainstOdysseyMoment"
     title: "Walden Moment Against Odyssey Moment / 用瓦尔登湖时刻消解奥德赛时刻"
     url: "/wiki/concepts/waldenmomentagainstodysseymoment/"
+  - key: "WanbiGuizhaoDiplomacy"
+    title: "Wanbi Guizhao Diplomacy / 完璧归赵式外交"
+    url: "/wiki/concepts/wanbiguizhaodiplomacy/"
   - key: "WangMangReforms"
     title: "Wang Mang Reforms / 王莽改制"
     url: "/wiki/concepts/wangmangreforms/"

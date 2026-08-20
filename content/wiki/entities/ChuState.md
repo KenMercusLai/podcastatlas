@@ -60,6 +60,8 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 
 [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] adds Chu indirectly to the fall of [[QiState|齐国]]. The episode says Chu does not join the main anti-Qi coalition but sends [[ZhuoChi|卓齿]] toward Ju as an apparent rescue force for [[QiMinWang|齐湣王]]. Zhuo Chi then arrests and kills Qi Min Wang, and the host leaves open whether Chu's role reflects righteous punishment, opportunistic spoils, or a tacit understanding with Yan.
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds an origin branch rather than a policy branch. [[BianHe|卞和]] discovers the raw stone that becomes [[HeShiBi|和氏璧]], but successive Chu courts misjudge it until the jade is finally cut open and named after him. Chu's role here is the setting for [[TreasureRecognitionRisk|识宝风险]] before the object later moves into Zhao-Qin diplomacy.
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -86,3 +88,4 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 - [[ZhaoJu|昭雎]], [[MiLan|芈兰]], [[Wuguan|武关]], [[Xianyang|咸阳]], [[WuJunWarringStates|巫郡]], [[Qianzhong|黔中]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - Zhouji 62 captive king and succession-continuity branch.
 - [[MiHeng|芈横 / 楚顷襄王]], [[QinZhaoxiangwang|秦昭襄王]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 63 new-king announcement and Qin attack after coercive leverage fails.
 - [[ZhuoChi|卓齿]], [[QiMinWang|齐湣王]], [[YanState|燕国]], and [[RulerNonNaturalDeathTypology|帝王非命死法类型]] - Zhouji 70 rescue-turned-regicide and ambiguous Chu role.
+- [[BianHe|卞和]], [[HeShiBi|和氏璧]], and [[TreasureRecognitionRisk|识宝风险]] - Zhouji 74 jade-origin and failed-recognition branch.

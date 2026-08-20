@@ -2,7 +2,7 @@
 title: "Confucian Ideal Governance / 儒家理想治理"
 type: concept
 tags: [history, politics, china, confucianism]
-sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-20
 ---
 
@@ -26,6 +26,8 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 
 [[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] adds a Xunzian variant. [[Xunzi|荀子]] is presented as Confucian but less Mencian: [[XingETheory|性恶论]] and ritual-law ordering make good government an active construction. In [[XunzianWangbaThreePaths|荀子王霸三分法]], ritual and righteousness can generate kingly rule, while trust can still produce hegemonic order and deception corrodes the state.
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds a sharper evaluative ordering from Xunzi: ritual-righteousness, administration, and people-support are all higher political goods than wealth extraction. This keeps Confucian ideal governance practical rather than decorative, because the source ties virtue, competence, and public security to state outcomes.
+
 ## Key Claims
 - Moral ideals can constrain rulers only when institutions and reality checks hold.
 - Ancient models can become political authority even when social conditions have changed.
@@ -38,6 +40,7 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - Zhouji 26 adds that Confucian renyi can claim practical public benefit while still resisting profit-first statecraft.
 - Zhouji 49 adds that Mencian governance can demand costly administrative reversal after conquest and failure.
 - Zhouji 71 adds that Confucian governance can be framed through ritual, law, and credibility as much as through Mencian benevolent-rule language.
+- Zhouji 74 adds that Xunzian evaluation can rank rulers by whether they pursue ritual-righteousness, administration, people-support, or merely extraction.
 
 ## Connections
 - [[WangMang]], [[DongZhongshu]], and [[XiangruiBook|《祥瑞》]] - source context.
@@ -50,3 +53,4 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - [[RighteousnessOverProfit|义利之辨]], [[RenyiBenefitOrdering|仁义优先的利益秩序]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26 renyi-benefit and reception extension.
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], [[CorrectableLeadershipError|犯错能改的领导力]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 49 administrative-repair extension.
 - [[Xunzi|荀子]], [[XingETheory|性恶论]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 ritual-law and Wangba extension.
+- [[WeySijun|卫嗣君 / Wey Sijun]], [[SurveillanceBasedRulerControl|窥察制衡式君术]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 74 ruler-technique and evaluative hierarchy.

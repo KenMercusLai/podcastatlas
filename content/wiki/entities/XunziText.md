@@ -2,7 +2,7 @@
 title: "《荀子》 / Xunzi"
 type: entity
 tags: [book, chinese-classics, confucianism, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
+sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
 last_updated: 2026-08-20
 ---
 
@@ -14,9 +14,12 @@ The text's role in this source is political rather than literary survey. Wangba 
 
 The episode also mentions the Chengxiang chapter, rendered noisily in the transcript as "成像片." The host treats it as an early rhythmic, popular, and memorizable form inside the Xunzi corpus, but the wiki keeps that as a side note because the episode does not develop the chapter's contents.
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds a Wangzhi-related evaluation passage. The episode uses the text to compare rulers by what they prioritize: ritual and righteousness, administration, people-support, or wealth extraction. This extends the text page from the Wangba three-path framework into a more granular hierarchy of governing goods.
+
 ## Connections
 - [[Xunzi|荀子]] - thinker associated with the text.
 - [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - compiler and chronicle using the Wangba passage for ruler instruction.
 - [[XunzianWangbaThreePaths|荀子王霸三分法]] - concept derived from the quoted Wangba framework.
 - [[XingETheory|性恶论]] - human-nature doctrine attached to Xunzi in the episode.
 - [[ConfucianIdealGovernance|儒家理想治理]] and [[WangdaoVsBadao|王道 versus 霸道]] - broader political thought frames.
+- [[WeySijun|卫嗣君 / Wey Sijun]], [[SurveillanceBasedRulerControl|窥察制衡式君术]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 74 ruler-technique and people-support evaluation.

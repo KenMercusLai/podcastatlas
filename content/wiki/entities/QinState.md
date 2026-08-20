@@ -74,6 +74,8 @@ last_updated: 2026-08-20
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds Qin's post-anti-Qi coalition reaction. After [[LeYi|乐毅]] compensates distant allies with wealth, Qin is presented as unwilling to settle for treasure; it attacks [[WeiState|魏国]], captures [[AnchengWarringStates|安城]], and advances toward [[Daliang|大梁]]. The episode therefore makes Qin a driver of [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] as well as a continuing [[QinEastwardPressure|eastward pressure]] force.
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds a Qin-Zhao exchange branch rather than a direct conquest branch. [[QinZhaoxiangwang|秦昭襄王]] offers fifteen cities for [[HeShiBi|和氏璧]], but Qin's failure to discuss actual city transfer lets [[LinXiangru|蔺相如]] turn the exchange into [[WanbiGuizhaoDiplomacy|完璧归赵式外交]]. Qin still has the stronger coercive position, but the episode stresses that visible non-performance and envoy handling limit what Qin gains once the jade has returned to Zhao.
+
 秦国 / Qin State appears in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] through [[QinYing|秦嬴]], whom the episode explains as a Qin princess by name pattern rather than as someone surnamed Qin. The source also uses Qin-Jin intermarriage to explain the idiom "秦晋之好."
 
 This page is source-scoped and mainly supports the episode's kinship and assassination-attribution example. It connects backward to [[JinState|晋国]] and forward to the wiki's existing Qin-related material through [[QinShiHuang|秦始皇]].
@@ -126,6 +128,7 @@ This page is source-scoped and mainly supports the episode's kinship and assassi
 - [[ChuHuaiwang|楚怀王]], [[ZhaoJu|昭雎]], [[MiLan|芈兰]], [[Wuguan|武关]], [[Xianyang|咸阳]], [[WuJunWarringStates|巫郡]], [[Qianzhong|黔中]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 captured-ruler coercion against Chu.
 - [[Mengchangjun|孟尝君 / 田文]], [[LouHuan|楼缓]], [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]], [[MiHeng|芈横 / 楚顷襄王]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 63 foreign-chancellor suspicion and renewed attack on Chu.
 - [[LeYi|乐毅]], [[AnchengWarringStates|安城]], [[Daliang|大梁]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 73 post-anti-Qi coalition attack on Wei.
+- [[QinZhaoxiangwang|秦昭襄王]], [[HeShiBi|和氏璧]], [[LinXiangru|蔺相如]], [[ZhaoState|赵国]], and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - Zhouji 74 promised-city exchange and exposed non-performance.
 - [[JinState|晋国]] - marriage-alliance counterpart.
 - [[QinShiHuang|秦始皇]] - existing later Qin page in the wiki.
 - [[QinJianGong|秦简公]], [[QinHuiGong|秦惠公]], and [[WeiState|魏国]] - episode 07 succession and war branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4803
+wiki_total_pages: 4806
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "TreasureHuntRetail"
     title: "Treasure Hunt Retail"
     url: "/wiki/concepts/treasurehuntretail/"
+  - key: "TreasureRecognitionRisk"
+    title: "Treasure Recognition Risk / 识宝风险"
+    url: "/wiki/concepts/treasurerecognitionrisk/"
   - key: "TreasuryBondSpeculation"
     title: "Treasury Bond Speculation"
     url: "/wiki/concepts/treasurybondspeculation/"

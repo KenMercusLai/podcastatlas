@@ -2,7 +2,7 @@
 title: "邯郸 / Handan"
 type: entity
 tags: [city, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ Handan's source role is to define the obvious rescue target that [[SunBin|孙膑
 
 [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds Handan as a succession-struggle target. [[ZhaoFan|赵范]] tries to take it by surprise in 347 BCE, but fails and dies, giving the source its case for [[MilitaryActionTerminology|the "袭" category]].
 
+[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] adds Handan as the place where [[HeShiBi|和氏璧]] appears in [[ZhaoState|赵国]] before the Qin exchange crisis. The episode says [[MiuXian|缪贤]] buys the jade there and [[ZhaoHe|赵惠文王赵何]] then forces it into royal possession, making Handan the court setting before [[LinXiangru|蔺相如]]'s mission to Qin.
+
 ## Connections
 - [[ZhaoState|赵国]] - state whose city is under siege.
 - [[WeiState|魏国]] - attacking state in the source.
@@ -26,3 +28,4 @@ Handan's source role is to define the obvious rescue target that [[SunBin|孙膑
 - [[Daliang|大梁]], [[EncirclingWeiToRescueZhao]], and [[GuilingBattle|桂陵之战]] - pressure target, strategy, and battle outcome.
 - [[LiangHuiWang|魏惠王]], [[ZhangshuiAlliance|漳水之盟]], and [[QinEastwardPressure]] - Zhouji 17 return-and-reconciliation branch.
 - [[ZhaoFan|赵范]], [[ZhaoSuhou|赵肃侯]], and [[MilitaryActionTerminology]] - Zhouji 18 surprise-attack branch.
+- [[HeShiBi|和氏璧]], [[MiuXian|缪贤]], [[ZhaoHe|赵惠文王赵何]], and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - Zhouji 74 jade possession and Qin-exchange setup.

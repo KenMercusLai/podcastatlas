@@ -8671,3 +8671,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》74丨还原完璧归赵真相！
+
+Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, Bian He's risky jade recognition, Miu Xian and Zhao Huiwen Wang's court possession, Lin Xiangru's mission to Qin, and the diplomatic logic behind "完璧归赵." Created pages for He Shi Bi, Bian He, Lin Xiangru, Miu Xian, Wanbi Guizhao Diplomacy, Treasure Recognition Risk, and Surveillance-Based Ruler Control; updated overview, index, Zhao He, Qin Zhaoxiang Wang, Wey Sijun, Handan, Qin/Zhao/Chu state pages, Xunzi, Xunzi Text, Xunzian Wangba Three Paths, Legalist Ruler Technique, Tactical Credibility Cost, People-Based Political Security, and Confucian Ideal Governance. Source-critical ambiguity recorded: the later ruler branch is rendered as "魏嗣君" in the new source but is linked to the existing Wey Sijun/卫嗣君 page because the anecdotes match that established wiki branch.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
