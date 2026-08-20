@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4851
+wiki_total_pages: 4854
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "TwentyFifthAmendment"
     title: "Twenty-Fifth Amendment"
     url: "/wiki/concepts/twentyfifthamendment/"
+  - key: "TwoRatsCourageMaxim"
+    title: "Two Rats Courage Maxim / 两鼠斗穴勇者胜"
+    url: "/wiki/concepts/tworatscouragemaxim/"
   - key: "TwoRoundPresidentialElection"
     title: "Two-Round Presidential Election"
     url: "/wiki/concepts/tworoundpresidentialelection/"

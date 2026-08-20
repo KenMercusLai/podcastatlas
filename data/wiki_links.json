@@ -5495,6 +5495,10 @@
     "title": "Battlefield Commander Replacement Risk / 阵前换将风险",
     "url": "/wiki/concepts/battlefieldcommanderreplacementrisk/"
   },
+  "BattlefieldInformationControl": {
+    "title": "Battlefield Information Control / 战场信息控制",
+    "url": "/wiki/concepts/battlefieldinformationcontrol/"
+  },
   "BaylorCollegeOfMedicine": {
     "title": "Baylor College of Medicine",
     "url": "/wiki/entities/baylorcollegeofmedicine/"
@@ -14043,6 +14047,10 @@
     "title": "ExxonMobil",
     "url": "/wiki/entities/exxonmobil/"
   },
+  "EyuBattle": {
+    "title": "阏与 / 燕宇之战 / Battle of Eyu",
+    "url": "/wiki/entities/eyubattle/"
+  },
   "EzhiWarringStates": {
     "title": "阏氏 / Ezhi (Warring States)",
     "url": "/wiki/entities/ezhiwarringstates/"
@@ -18538,6 +18546,10 @@
   "HighGeneralLowSpecificExpectations": {
     "title": "High General, Low Specific Expectations",
     "url": "/wiki/concepts/highgenerallowspecificexpectations/"
+  },
+  "HighGroundTimingAdvantage": {
+    "title": "High-Ground Timing Advantage / 制高点时机优势",
+    "url": "/wiki/concepts/highgroundtimingadvantage/"
   },
   "HighResponsibilityDensity": {
     "title": "High Responsibility Density",
@@ -40635,6 +40647,10 @@
     "title": "Twitter / X",
     "url": "/wiki/entities/twitter/"
   },
+  "TwoRatsCourageMaxim": {
+    "title": "Two Rats Courage Maxim / 两鼠斗穴勇者胜",
+    "url": "/wiki/concepts/tworatscouragemaxim/"
+  },
   "TwoRoundPresidentialElection": {
     "title": "Two-Round Presidential Election",
     "url": "/wiki/concepts/tworoundpresidentialelection/"
@@ -43586,6 +43602,10 @@
   "XuJiayin": {
     "title": "Xu Jiayin",
     "url": "/wiki/entities/xujiayin/"
+  },
+  "XuLiWarringStates": {
+    "title": "许历 / Xu Li",
+    "url": "/wiki/entities/xuliwarringstates/"
   },
   "XuLu": {
     "title": "许路 / Xu Lu",
@@ -48610,5 +48630,9 @@
   "zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq": {
     "title": "《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq/"
+  },
+  "zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h": {
+    "title": "《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h/"
   }
 }

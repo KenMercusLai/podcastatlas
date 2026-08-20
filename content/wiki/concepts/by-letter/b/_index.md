@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 4851
+wiki_total_pages: 4854
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "BattlefieldCommanderReplacementRisk"
     title: "Battlefield Commander Replacement Risk / 阵前换将风险"
     url: "/wiki/concepts/battlefieldcommanderreplacementrisk/"
+  - key: "BattlefieldInformationControl"
+    title: "Battlefield Information Control / 战场信息控制"
+    url: "/wiki/concepts/battlefieldinformationcontrol/"
   - key: "BeautyEconomics"
     title: "Beauty Economics / 美貌经济学"
     url: "/wiki/concepts/beautyeconomics/"

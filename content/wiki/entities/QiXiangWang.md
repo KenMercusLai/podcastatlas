@@ -2,7 +2,7 @@
 title: "齐襄王 / King Xiang of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
+sources: [zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The same source also revisits Qi Xiang Wang's household by saying [[JunWangHou|�
 
 [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]] gives Qi Xiang Wang a partial correction. [[DiaoBo|刁伯]] returns from Chu and says the king is speaking in a state-destroying way when he treats [[TianDan|田单]] as an ordinary subordinate, because Tian Dan had restored Qi yet did not seize the throne. Qi Xiang Wang is shaken, kills the nine favored ministers, exiles their families, and enlarges Tian Dan's grant at Ye. The episode still treats the correction as incomplete because the deeper insecurity of owing the state to Tian Dan continues to shape the minister's later self-protective conduct.
 
+[[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]] adds Qi Xiang Wang only in the closing [[FanJu|范雎]] teaser. The episode says Fan Ju accompanies a Wei envoy to Qi and receives recognition from Qi Xiang Wang, but leaves the fuller humiliation and revenge sequence for the next branch.
+
 ## Connections
 - [[TianFazhang|田法章]] - personal identity before restoration.
 - [[QiMinWang|齐湣王]] - father whose death creates the succession crisis.
@@ -34,3 +36,4 @@ The same source also revisits Qi Xiang Wang's household by saying [[JunWangHou|�
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - Zhouji 80 preview of the court environment that may endanger Tian Dan after restoration.
 - [[PostRestorationMeritThreat|复国功臣威胁化]], [[PoliticalCreditAppropriation|善行君恩化]], [[DiaoBo|刁伯]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 suspicion, credit management, slander trigger, and status pressure.
 - [[JiangTaigong|姜太公]], [[QiHuanGong|齐桓公]], [[GuanZhong|管仲]], and [[LuZhonglian|鲁仲连]] - Zhouji 81 part 2 honor-precedent and later Tian Dan self-protection branch.
+- [[FanJu|范雎]] - Zhouji 87 teaser where Qi Xiang Wang recognizes Fan Ju before the next branch develops his story.

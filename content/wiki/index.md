@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！](sources/zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h.md) — 芮淇讲透资治通鉴 episode on Zhao She rescuing Eyu/阏与 from Qin through staged inaction, spy deception, forced marching, Xu Li's high-ground advice, and the "狭路相逢勇者胜" maxim.
 - [《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？](sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq.md) — 芮淇讲透资治通鉴 episode introducing Zhao She as a tax officer before his generalship, enforcing taxes against Pingyuanjun's household and turning elite tax compliance into a Zhao state-capacity lesson.
 - [《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？](sources/zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5.md) — 芮淇讲透资治通鉴 episode opening 周纪五, following Huang Xie as the Chu crown prince's hostage escort, Yan's coup crisis, and Xuan Taihou's decades-long Yiqu relationship ending in the killing of the Yiqu king and Qin's creation of Beidi Commandery.
 - [《资治通鉴·周纪》84丨防止秦国灭楚竟用这招？](sources/zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm.md) — 芮淇讲透资治通鉴 episode on Huang Xie / Chunshenjun persuading Qin Zhaoxiang Wang to halt Bai Qi's follow-on attack on Chu by reframing Han-Wei route risk, overextension, and Qin-Chu alliance as Qin's own strategic interest.
@@ -1104,6 +1105,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [阏与 / 燕宇之战 / Battle of Eyu](entities/EyuBattle.md) — Zhao She's 270 BCE relief battle against Qin, where information control, rapid movement, and first seizure of northern high ground convert the "狭路相逢勇者胜" maxim into a concrete operation.
+- [许历 / Xu Li](entities/XuLiWarringStates.md) — Zhao soldier or officer whose advice on formation depth and northern high ground helps Zhao She win at Eyu.
 - [赵奢 / Zhao She](entities/ZhaoShe.md) — Zhao tax officer and later general whose enforcement against Pingyuanjun's household makes elite tax compliance a state-capacity test.
 - [Grokbot](entities/Grokbot.md) — xAI/Grok personalized bot-builder product discussed as an easier consumer-access layer for creating custom AI agents.
 - [华阳之战 / Battle of Huayang](entities/HuayangBattle.md) — Wei-Zhao attack on Han that becomes a Qin rescue-and-punishment case after Han uses threatened-defection leverage.
@@ -7313,6 +7316,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Two Rats Courage Maxim / 两鼠斗穴勇者胜](concepts/TwoRatsCourageMaxim.md) — Zhao She's narrow-route maxim behind "狭路相逢勇者胜," treated as disciplined operational courage rather than reckless aggression.
+- [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which Zhao She shapes what Qin sees before Eyu, turning a spy report into a deception channel.
+- [High-Ground Timing Advantage / 制高点时机优势](concepts/HighGroundTimingAdvantage.md) — Tactical principle where reaching decisive terrain first, as Xu Li advises at Eyu, converts timing into battlefield advantage.
 - [Elite Fiscal-Law Compliance / 贵族税法同遵](concepts/EliteFiscalLawCompliance.md) — State-capacity pattern where tax and law must bind elite households, not only ordinary subjects, if public authority is to hold.
 - [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Weak-side diplomacy pattern where a request for restraint is translated into the stronger side's own risk map and preferred strategic sequence.
 - [GPU Compute Asset-Backed Financing](concepts/GPUComputeAssetBackedFinancing.md) — Nvidia-centered financing frame where GPU clusters are treated as cash-flowing collateral backed by utilization, residual value, and compute demand.

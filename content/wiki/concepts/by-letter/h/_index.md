@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 4851
+wiki_total_pages: 4854
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "HighEndEVBranding"
     title: "High-End EV Branding / 新能源车高端心智"
     url: "/wiki/concepts/highendevbranding/"
+  - key: "HighGroundTimingAdvantage"
+    title: "High-Ground Timing Advantage / 制高点时机优势"
+    url: "/wiki/concepts/highgroundtimingadvantage/"
   - key: "HighRiskLaborMutualAid"
     title: "High-Risk Labor Mutual Aid / 高风险劳动互助"
     url: "/wiki/concepts/highrisklabormutualaid/"

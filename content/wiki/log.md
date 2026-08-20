@@ -8823,3 +8823,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhao She relieving Eyu/阏与 after Qin attacks Zhao over a broken settlement promise. Created pages for the Eyu battle, Xu Li, Two Rats Courage Maxim, Battlefield Information Control, and High-Ground Timing Advantage; updated overview, index, Zhao She, Zhao He, Zhao State, Qin State, Qin Zhaoxiang Wang, Qin Eastward Pressure, Warring States Military Transformation, Sunzi Bingfa, Lian Po, Zhou Nan Wang, Fan Ju, and Qi Xiang Wang. No direct contradiction found; transcript variants such as 燕宇/阏与, 连婆/廉颇, 许立/许历, and 范珠/范雎 were recorded as source-scoped normalizations.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

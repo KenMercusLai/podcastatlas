@@ -2,7 +2,7 @@
 title: "赵何 / Zhao He"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ The promotion makes Zhao He the ruler whose reward decision sparks the "将相�
 
 [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] adds Zhao He as the ruler who accepts [[Pingyuanjun|平原君]]'s recommendation of [[ZhaoShe|赵奢]]. After Zhao She enforces tax law against Pingyuanjun's household and argues that elite compliance protects Zhao, Zhao He appoints him to manage national taxation. The episode therefore gives Zhao He's reign an internal fiscal-strengthening branch beside the better-known diplomatic and military episodes around [[LinXiangru|蔺相如]] and [[LianPo|廉颇]].
 
+[[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]] immediately turns that appointment into a broader personnel test. After [[QinState|秦国]] attacks [[EyuBattle|阏与 / 燕宇之战]] and [[LianPo|廉颇]] judges rescue impractical, Zhao He accepts Zhao She's contrary confidence and sends him. The resulting victory makes Zhao He's earlier promotion of Zhao She consequential beyond tax administration.
+
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] and [[WuWa|吴娃]] - parents in the source's setup.
 - [[ZhaoZhang|赵章]] - elder son whose position is put at risk.
@@ -50,3 +52,4 @@ The promotion makes Zhao He the ruler whose reward decision sparks the "将相�
 - [[LeYi|乐毅]], [[YanHuiwang|燕惠王]], and [[YanState|燕国]] - Zhouji 79 host-state role after Le Yi's exile.
 - [[BaoYanHuiwangShu|《报燕惠王书》]] and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 Le Yi's refusal to use Zhao patronage as an anti-Yan weapon.
 - [[ZhaoShe|赵奢]], [[Pingyuanjun|平原君]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 recommendation and national-tax appointment branch.
+- [[EyuBattle|阏与 / 燕宇之战]], [[TwoRatsCourageMaxim|两鼠斗穴勇者胜]], [[BattlefieldInformationControl|战场信息控制]], and [[HighGroundTimingAdvantage|制高点时机优势]] - Zhouji 87 Zhao decision, rescue logic, deception, and tactical payoff.
