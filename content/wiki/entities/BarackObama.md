@@ -2,11 +2,13 @@
 title: "Barack Obama"
 type: entity
 tags: [person, politics, publishing, media]
-sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, why-economists-got-free-trade-with-china-so-wrong, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
-last_updated: 2026-08-17
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, why-economists-got-free-trade-with-china-so-wrong, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
+last_updated: 2026-08-21
 ---
 
 # Barack Obama
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds Obama through [[RahmEmanuel|Rahm Emanuel]]'s chief-of-staff perspective. Emanuel says Obama inherited the Great Recession and Iraq War period, helped move from job losses to job creation, and repositioned America globally, making Obama part of the source's argument that effective U.S. power depends on institutions, alliances, and public trust.
 
 [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds Obama through [[ZhouLuohua|周洛华]]'s critique of the [[AffordableCareAct|Affordable Care Act]]. The source says the reform lowered the cost of buying insurance more than it lowered the underlying legal, medical, operating, and insurance risks, making Obama part of the episode's broader [[RiskCostSeparation]] frame.
 

@@ -2,11 +2,13 @@
 title: "Prediction Market Public-Good Claim"
 type: concept
 tags: [prediction-markets, public-good, information, media]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, do-prediction-market-bettors-make-anything-better]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, do-prediction-market-bettors-make-anything-better]
+last_updated: 2026-08-21
 ---
 
 # Prediction Market Public-Good Claim
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds a fiscal-use tangent rather than a public-good defense. [[RahmEmanuel|Rahm Emanuel]] proposes a 10% levy on prediction markets and online sports gaming to help fund NIH, NSF, and DARPA, tying the category to [[ResearchInstitutionsAsStrategicCapacity]] without resolving the wiki's existing integrity and public-value questions.
 
 [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds a strongly bullish Polymarket version. Friedberg argues [[Polymarket]] can become news and market infrastructure, which is exactly the optimistic public-good claim that earlier Planet Money coverage tests against event selection, trader incentives, and integrity oversight.
 
@@ -23,6 +25,7 @@ The source distinguishes private usefulness from public value. Successful trader
 - The All-In source shows the investor upside version of the claim, but it does not resolve the existing legal, ethical, or manipulation concerns.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[ResearchInstitutionsAsStrategicCapacity]], [[NationalInstitutesOfHealth|National Institutes of Health]], [[Kalshi]], and [[Polymarket]] - research-funding levy branch added by All-In.
 - [[Kalshi]], [[TarekMansour]], [[CNN]], [[BobbyAllen]], [[MaryChilds]], and [[EvanSemet]] - source actors grounding the claim and critique.
 - [[PredictionMarketLegalBoundary]], [[PredictionMarketEthics]], [[PredictionMarketIntegrityOversight]], and [[EventContractManipulationRisk]] - adjacent concepts that constrain the public-good argument.
 - [[MarketEfficiency]] and [[PredictionMarketHistory]] - broader market-price and historical context.

@@ -2,11 +2,13 @@
 title: "Housing Affordability Supply Mechanics"
 type: concept
 tags: [housing, economics, affordability, supply]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty, can-trump-make-buying-a-home-more-affordable]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty, can-trump-make-buying-a-home-more-affordable]
+last_updated: 2026-08-21
 ---
 
 # Housing Affordability Supply Mechanics
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s first-time-homeownership version. He says restrictive zoning, permitting, and building rules are major cost drivers, making housing affordability a local supply and approval problem rather than only a subsidy or macro-rate problem.
 
 Housing affordability supply mechanics is the source's insistence that high rents and prices need to be explained through construction, interest rates, financing, available housing forms, and policy constraints rather than through one visible culprit. In [[two-indicators-for-lowering-the-rent]], corporate landlords are politically salient but not large enough nationally to explain housing-cost pressure on their own.
 
@@ -38,6 +40,7 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - Demand-side tools such as investor restrictions or mortgage-bond purchases may ease some buyer pressure, but the source treats starter-home supply as the deeper constraint.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]] and [[LocalVetoHousingPolitics]] - zoning, permitting, and first-time-homeownership branch added by All-In.
 - [[CorporateLandlordTradeoffs]] - corporate-ownership branch.
 - [[HousingRestrictionBackfire]] - policy unintended-consequence branch.
 - [[SingleRoomOccupancyHousing]] - cheap-room supply branch.

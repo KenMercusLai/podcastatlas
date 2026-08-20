@@ -2,11 +2,13 @@
 title: "Merit-Based Immigration Filter"
 type: concept
 tags: [immigration, labor, politics, united-states]
-sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, the-ice-hiring-boom, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, the-ice-hiring-boom, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-21
 ---
 
 # Merit-Based Immigration Filter
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds a pragmatic Democratic qualification through [[RahmEmanuel|Rahm Emanuel]]. Emanuel supports skilled immigration and foreign students, including a proposal to let colleges admit up to 20% full-pay foreign students, but he places that openness inside [[PragmaticImmigrationCompromise]] rather than a purely fiscal-value screen.
 
 Merit-based immigration filter is the episode's interpretation of how Trump-aligned policy documents may distinguish between types of migrants. In [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]], the [[RepublicanParty]] platform uses invasion and mass-deportation language, while the [[AmericaFirstPolicyInstitute]] agenda uses more neutral language about legal immigration, skills, individual merit, chain migration, and visa lotteries.
 
@@ -31,6 +33,7 @@ The source's inference is that implementation may be less "no immigration" than 
 - The Lutnick source makes fiscal contribution explicit: immigration is judged by expected benefit to the country and by whether the welfare state is exposed to net cost.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[DignityAct|Dignity Act]], [[PragmaticImmigrationCompromise]], and [[ResearchInstitutionsAsStrategicCapacity]] - skilled-immigration and foreign-student qualification added by All-In.
 - [[AmericaFirstPolicyInstitute]], [[RepublicanParty]], and [[DonaldTrump]] — source policy frame.
 - [[ImmigrationBacklashCycle]] and [[AssimilationCapacity]] — existing immigration concepts extended by this source.
 - [[USImmigrationAndCustomsEnforcement]], [[ICEWorkforceExpansion]], and [[ImmigrationDetentionExpansion]] - enforcement-scale qualification added by Planet Money.

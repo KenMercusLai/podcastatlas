@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4841
+wiki_total_pages: 4845
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "PowerViolenceDistinction"
     title: "Power-Violence Distinction / 权力与暴力区分"
     url: "/wiki/concepts/powerviolencedistinction/"
+  - key: "PragmaticImmigrationCompromise"
+    title: "Pragmatic Immigration Compromise"
+    url: "/wiki/concepts/pragmaticimmigrationcompromise/"
   - key: "PreCommercialSportsCommunity"
     title: "Pre-Commercial Sports Community / 商业化前小众运动社群"
     url: "/wiki/concepts/precommercialsportscommunity/"

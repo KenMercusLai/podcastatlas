@@ -2,11 +2,13 @@
 title: "Bill Clinton"
 type: entity
 tags: [person, politics, speaking, media]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
-last_updated: 2026-07-15
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
+last_updated: 2026-08-21
 ---
 
 # Bill Clinton
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds Clinton through [[RahmEmanuel|Rahm Emanuel]]'s retrospective on governing. Emanuel credits Clinton with integrating policy, politics, and communications, cites welfare reform as a public-trust improvement, and ties Clinton-era border enforcement and minimum-wage work to his own [[PragmaticImmigrationCompromise]] and labor-policy stance.
 
 Bill Clinton appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] as a post-presidency monetization comparison. The episode says the Clintons left office with major legal debts but later earned very large sums through speeches and political identity.
 

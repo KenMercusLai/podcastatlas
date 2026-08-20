@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 4841
+wiki_total_pages: 4845
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1202,6 +1202,9 @@ wiki_pages:
   - key: "AllergySourceControl"
     title: "Allergy Source Control"
     url: "/wiki/concepts/allergysourcecontrol/"
+  - key: "AlliedEconomicBlocAgainstChina"
+    title: "Allied Economic Bloc Against China"
+    url: "/wiki/concepts/alliedeconomicblocagainstchina/"
   - key: "AllogeneicCART"
     title: "Allogeneic CAR-T"
     url: "/wiki/concepts/allogeneiccart/"

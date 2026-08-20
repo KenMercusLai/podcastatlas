@@ -2,11 +2,13 @@
 title: "Strategic Industrial Policy"
 type: concept
 tags: [industrial-policy, manufacturing, technology, trade]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-21
 ---
 
 # Strategic Industrial Policy
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s alliance-and-research version. He argues that rebuilding manufacturing should happen alongside software strength, public research, universities, immigration, and [[AlliedEconomicBlocAgainstChina]], making industrial policy part of a broader strategic-capacity system rather than a substitute for allies or science.
 
 [[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds a critical-mineral offtake case. [[DanDreyfus|Dan Dreyfus]] says the administration is using equity, permits, and take-or-pay offtake contracts with minimum floor prices to make U.S. and Canadian resource projects financeable against [[China]]'s mineral-processing advantage.
 
@@ -41,6 +43,7 @@ The concept is not simply protection. The episode allows that temporary barriers
 - The Dreyfus source adds that industrial policy can work through bankable demand commitments before mines or processing capacity exist, not only through grants or tariffs after a shortage appears.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[AlliedEconomicBlocAgainstChina]], [[ResearchInstitutionsAsStrategicCapacity]], [[EducationWorkforcePipeline]], and [[PragmaticImmigrationCompromise]] - broader strategic-capacity branch added by All-In.
 - [[UnitedStates]], [[China]], and [[ChinaShock]] - strategic and historical context.
 - [[TechManufacturingReshoring]], [[SupplyChainSovereignty]], and [[SemiconductorSupplyChain]] - capacity-building branch.
 - [[BlanketTariffLimit]] and [[TradeReciprocityProtectionism]] - tariff boundary.

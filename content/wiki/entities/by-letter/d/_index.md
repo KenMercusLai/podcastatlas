@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6193
+wiki_total_pages: 6197
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "Dignitas"
     title: "Dignitas"
     url: "/wiki/entities/dignitas/"
+  - key: "DignityAct"
+    title: "Dignity Act"
+    url: "/wiki/entities/dignityact/"
   - key: "DillinghamCommission"
     title: "Dillingham Commission"
     url: "/wiki/entities/dillinghamcommission/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 4841
+wiki_total_pages: 4845
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "ResearchIndexPortfolioConstruction"
     title: "Research Index Portfolio Construction / 投研指数化"
     url: "/wiki/concepts/researchindexportfolioconstruction/"
+  - key: "ResearchInstitutionsAsStrategicCapacity"
+    title: "Research Institutions As Strategic Capacity"
+    url: "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
   - key: "ResearchIntegrityIncentives"
     title: "Research Integrity Incentives"
     url: "/wiki/concepts/researchintegrityincentives/"

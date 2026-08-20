@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6193
+wiki_total_pages: 6197
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "AngelaCarter"
     title: "Angela Carter / 安吉拉·卡特"
     url: "/wiki/entities/angelacarter/"
+  - key: "AngelaMerkel"
+    title: "Angela Merkel"
+    url: "/wiki/entities/angelamerkel/"
   - key: "AngelaRayner"
     title: "Angela Rayner"
     url: "/wiki/entities/angelarayner/"

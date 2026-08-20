@@ -2,11 +2,13 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+last_updated: 2026-08-21
 ---
 
 # European Union
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds the EU through two linked frames. In foreign policy, [[RahmEmanuel|Rahm Emanuel]] includes the [[EuropeanUnion|European Union]] in [[AlliedEconomicBlocAgainstChina]]; in domestic European politics, he accepts that Europe faces immigration disorder, economic stagnation, overregulation, energy mistakes, and Chinese industrial pressure, while rejecting a simple left-versus-right explanation.
 
 [[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds the EU through the [[EuropeanUnionDigitalServicesAct|European Union Digital Services Act]] as a cross-border speech-regulation case. [[SarahBRogers|Sarah B. Rogers]] argues that EU content rules, hate-speech standards, [[TrustedFlaggerSystem|trusted flaggers]], and large digital fines can pressure American platforms such as [[Twitter|X]] to follow European speech norms outside Europe.
 
@@ -50,6 +52,7 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - The All-In Rogers source uses the [[EuropeanUnionDigitalServicesAct|EU Digital Services Act]] to show how platform regulation can become [[CrossBorderPlatformSpeechRegulation]] when fines or trusted flaggers affect American technology companies and U.S. free-speech norms.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[AlliedEconomicBlocAgainstChina]], [[AngelaMerkel|Angela Merkel]], [[ChristianDemocraticUnionGermany|Christian Democratic Union Germany]], and [[China]] - Europe-decline and allied economic bloc branch added by All-In.
 - [[SchengenArea]], [[ErasmusProgramme]], [[Airbus]], [[EuropeanIntegrationWarPrevention]], [[EuropeanIdentityClassGradient]], [[EuropeanLanguageFriction]], [[DigitalNomadHousingPressure]], and [[EurozoneInternalImbalance]] - integration and fragmentation branch added by episode 139.
 - [[AITranslation]] - possible reducer of language friction across European markets.
 - [[EuropeanAIIndustrialConstraints]] - broader concept built from the source's Europe discussion.

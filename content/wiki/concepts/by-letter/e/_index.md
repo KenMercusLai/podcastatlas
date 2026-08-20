@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 4841
+wiki_total_pages: 4845
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "EducationTechnologyFairness"
     title: "Education Technology Fairness"
     url: "/wiki/concepts/educationtechnologyfairness/"
+  - key: "EducationWorkforcePipeline"
+    title: "Education Workforce Pipeline"
+    url: "/wiki/concepts/educationworkforcepipeline/"
   - key: "EducationalDistributionStrategy"
     title: "Educational Distribution Strategy"
     url: "/wiki/concepts/educationaldistributionstrategy/"

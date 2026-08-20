@@ -2,11 +2,13 @@
 title: "Good Jobs For Non-College Workers"
 type: concept
 tags: [labor, wages, public-policy, manufacturing]
-sources: [chef-vs-robot, the-ice-hiring-boom, why-economists-got-free-trade-with-china-so-wrong, why-are-we-so-obsessed-with-manufacturing, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, chef-vs-robot, the-ice-hiring-boom, why-economists-got-free-trade-with-china-so-wrong, why-are-we-so-obsessed-with-manufacturing, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]
+last_updated: 2026-08-21
 ---
 
 # Good Jobs For Non-College Workers
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s education-and-wage-support version. Emanuel supports raising and indexing the minimum wage, pairing it with a generous earned income tax credit, and modernizing community colleges so non-college or sub-baccalaureate pathways can still lead to stable work.
 
 [[chef-vs-robot]] adds a service-sector automation complication. [[PhuongHoangChiang]]'s skilled wok work pays much more than [[RobbyWokbot]]'s rental cost, while [[KennyPoon]] says the robot lets him hire for availability rather than skill; the result can reduce pressure on owners while squeezing a middle-skill kitchen pathway.
 
@@ -34,6 +36,7 @@ The concept lets the wiki avoid turning manufacturing into a symbolic shortcut. 
 - The Carolla source adds that disaster rebuilding can make skilled trades socially visible again, especially when AI raises anxiety around creative and desk-based work.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[EducationWorkforcePipeline]], [[VocationalEducation]], and [[ManufacturingWorkforcePipeline]] - wage-support and community-college branch added by All-In.
 - [[GordonHansen|Gordon Hanson]] - source economist who supplies the frame.
 - [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], and [[ManufacturingWorkforcePipeline]] - manufacturing-specific subquestions.
 - [[TradableSectorLocalGrowth]] and [[ManufacturingRegionalMultiplier]] - local-opportunity branch.

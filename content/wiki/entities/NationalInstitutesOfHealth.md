@@ -2,11 +2,13 @@
 title: "National Institutes of Health"
 type: entity
 tags: [government, healthcare, research, public-health]
-sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]
+last_updated: 2026-08-21
 ---
 
 # National Institutes of Health
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds NIH to [[RahmEmanuel|Rahm Emanuel]]'s [[ResearchInstitutionsAsStrategicCapacity]] frame. Emanuel treats NIH, NSF, DARPA, universities, national labs, and life sciences as strategic U.S. advantages against [[China]], and proposes a source-scoped 10% levy on prediction markets and online sports gaming to help fund research institutions.
 
 The National Institutes of Health appears in [[all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]] as the research-funding institution inside [[MartyMakary|Marty Makary]]'s broader health-agency reform account. Makary says the administration had not cut NIH funding and frames the issue as reallocation rather than anti-science retrenchment.
 

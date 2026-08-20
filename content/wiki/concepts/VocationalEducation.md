@@ -2,11 +2,13 @@
 title: "Vocational Education / 职业教育"
 type: concept
 tags: [education, labor-market, work, china]
-sources: [ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-21
 ---
 
 # Vocational Education / 职业教育
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds a U.S. pragmatic-governance version through [[RahmEmanuel|Rahm Emanuel]]. He argues that high-school graduates should have a plan that can include vocational school, military service, community college, or college, making vocational education part of [[EducationWorkforcePipeline]] rather than only a lower-status fallback.
 
 Vocational education is the education track centered on work-ready skills, applied learning, and industry-facing training. [[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] frames it through [[TalkSanlian|Talk三联]] and [[SanlianLifeWeekly|三联生活周刊]] reporting on whether vocational schools can create credible paths through [[SchoolEnterpriseCooperation|校企合作]].
 
@@ -20,6 +22,7 @@ The source's answer is conditional. Vocational education becomes stronger when s
 - Good vocational education should reduce status shame by making skill, progression, and real work legible.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[EducationWorkforcePipeline]], [[CollegeCareerPreparation]], and [[GoodJobsForNonCollegeWorkers]] - U.S. school-to-work branch added by All-In.
 - [[SchoolEnterpriseCooperation]], [[DualSystemVocationalEducation]], [[IndustrialCollege]], and [[OrderClassVocationalEducation]] — main cooperation models discussed in EP241.
 - [[ProjectBasedVocationalLearning]], [[CareerCognitionEducation]], and [[VocationalDegreeProgression]] — student learning and choice branch.
 - [[ElderCareWorkforce]] — care-sector case where real practice matters.

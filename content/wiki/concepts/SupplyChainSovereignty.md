@@ -2,11 +2,13 @@
 title: "Supply Chain Sovereignty"
 type: concept
 tags: [supply-chain, geopolitics, trade, energy, semiconductors, manufacturing]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, why-are-we-so-obsessed-with-manufacturing, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, why-are-we-so-obsessed-with-manufacturing, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-21
 ---
 
 # Supply Chain Sovereignty
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s allied version. The source keeps [[China]] dependency and overcapacity at the center, but argues that the stronger answer is an [[AlliedEconomicBlocAgainstChina]] built with [[Japan]], [[SouthKorea|South Korea]], [[Australia]], [[Taiwan]], the [[EuropeanUnion|EU]], and other partners rather than unilateral U.S. pressure alone.
 
 [[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds the critical-minerals crisis version. [[DanDreyfus|Dan Dreyfus]] argues that supply-chain sovereignty depends on copper, silver, rare-earth processing, power plants, grid equipment, and craft labor because AI, defense, reshoring, and electrification all need physical inputs that cannot be rebuilt quickly.
 
@@ -55,6 +57,7 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 - The Dreyfus source adds that sovereignty is also a time-to-build problem: mines, processing, grid upgrades, and craft-labor pipelines may take a decade or more to rebuild.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[AlliedEconomicBlocAgainstChina]], [[Taiwan]], [[Japan]], [[EuropeanUnion|European Union]], and [[ResearchInstitutionsAsStrategicCapacity]] - allied economic-statecraft branch added by All-In.
 - [[AmericaFirstPolicyInstitute]], [[Project2025]], and [[PeterNavarro]] — source actors.
 - [[TradeReciprocityProtectionism]] and [[AmericanProtectionistTradition]] — tariff and historical-policy branch.
 - [[UnitedStates]] and [[China]] — strategic production and trade-counterparty frame.

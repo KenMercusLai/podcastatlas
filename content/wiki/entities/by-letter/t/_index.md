@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6193
+wiki_total_pages: 6197
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "TacoBell"
     title: "Taco Bell"
     url: "/wiki/entities/tacobell/"
+  - key: "Taiwan"
+    title: "Taiwan"
+    url: "/wiki/entities/taiwan/"
   - key: "TakaichiSanae"
     title: "Takaichi Sanae"
     url: "/wiki/entities/takaichisanae/"

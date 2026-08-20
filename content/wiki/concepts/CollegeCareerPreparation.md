@@ -2,11 +2,13 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, can-the-trump-administration-make-college-cheaper, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, can-the-trump-administration-make-college-cheaper, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-21
 ---
 
 # College Career Preparation
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s school-to-workforce version. Emanuel says every high-school graduate should have a plan for college, community college, military service, or vocational school, and he treats third-grade reading failure as an upstream threat to later college completion and workforce readiness.
 
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds [[SatyaNadella|Satya Nadella]]'s large-company apprenticeship view. Nadella says [[Microsoft]] still believes in college recruiting, but AI may steepen the productivity ramp by helping new hires understand codebases, observe strong engineers' AI workflows, and move earlier into broader contribution.
 
@@ -59,6 +61,7 @@ College career preparation is the episode's goal-dependent way to allocate under
 
 ## Connections
 
+- [[RahmEmanuel|Rahm Emanuel]], [[EducationWorkforcePipeline]], [[VocationalEducation]], and [[GoodJobsForNonCollegeWorkers]] - high-school plan and community-college branch added by All-In.
 - [[CollegeMajorChoice]] — major choice sets part of the preparation surface, but later effort still matters.
 - [[InternshipAsCareerExploration]] — internships as direction testing, not only resume decoration.
 - [[GraduationAnxiety]] — anxiety rises when students approach graduation without signals, practice, or direction.

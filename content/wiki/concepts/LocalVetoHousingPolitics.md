@@ -2,11 +2,13 @@
 title: "Local Veto Housing Politics"
 type: concept
 tags: [housing, zoning, political-economy, urban-planning]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]
+last_updated: 2026-08-21
 ---
 
 # Local Veto Housing Politics
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s U.S. housing-cost diagnosis. Emanuel blames restrictive local zoning, permitting, and building rules as major drivers of first-time homeownership pressure, reinforcing the concept's focus on local veto points and approval friction.
 
 Local veto housing politics is the pattern where a small, nearby, highly motivated group can slow or block housing whose benefits are spread across many renters, future residents, or a wider region. [[the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]] makes the pattern visible through opposition near [[SinakVillageSite|the Squamish development]] over traffic, parks, birds, skyline changes, and neighborhood character.
 
@@ -20,6 +22,7 @@ The source's twist is that the usual veto channel is weaker because the land is 
 - Sovereign land control can bypass some local veto points, but it does not remove the need for infrastructure coordination.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]] and [[HousingAffordabilitySupplyMechanics]] - U.S. zoning and first-time homeownership branch added by All-In.
 - [[SquamishNation]], [[JacobLewisIII]], [[SinakVillageSite]], and [[Vancouver]] - source case and people.
 - [[SovereignHousingDevelopment]] - institutional path that limits normal local veto power.
 - [[IndigenousDevelopmentVisibility]] - racialized development-legitimacy branch.

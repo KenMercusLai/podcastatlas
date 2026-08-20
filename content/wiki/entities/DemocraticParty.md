@@ -2,11 +2,13 @@
 title: "Democratic Party"
 type: entity
 tags: [party, politics, united-states]
-sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]
+last_updated: 2026-08-21
 ---
 
 # Democratic Party
+
+[[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s pragmatic party-boundary frame. Emanuel presents the party's governing task as defeating Republicans and delivering policies such as minimum wage increases, universal pre-K, children's healthcare, immigration compromise, education reform, and research investment; he argues that deepening safe blue districts through [[DemocraticSocialistsOfAmerica|DSA]] challenges does not substitute for building governing majorities.
 
 [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds the party's left-versus-establishment primary tension through [[Michigan]]. [[AbdulElSayed]] defeats [[HaleyStevens]], and [[JohnPrideaux]] reads the result as significant because it happens statewide in a swing state, not only in a deeply Democratic city. The source links the result to [[StatewideLeftPrimaryTest]], [[PrimaryElectorateDistortion]], and the risk that candidates overread primary-voter preferences before a general election against [[MikeRogers]].
 
@@ -15,6 +17,7 @@ The Democratic Party appears in [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-b
 The source also criticizes Democratic campaign rhetoric around the economy and inflation. In Lin's account, voters who experience price pressure may hear Democratic messaging as denial or evasion unless the party first acknowledges the problem and then explains what it has done and what it will do next.
 
 ## Connections
+- [[RahmEmanuel|Rahm Emanuel]], [[PragmaticImmigrationCompromise]], [[EducationWorkforcePipeline]], and [[DemocraticSocialistsOfAmerica|Democratic Socialists of America]] - pragmatic-governing and party-boundary branch added by All-In.
 - [[Michigan]], [[AbdulElSayed]], [[HaleyStevens]], [[MikeRogers]], [[StatewideLeftPrimaryTest]], and [[PrimaryElectorateDistortion]] - primary-electability branch added by the later source.
 - [[RepublicanParty]], [[DonaldTrump]], and [[MAGA]] - electoral and movement contrast.
 - [[USHealthInsuranceDenialPolitics]], [[AffordableCareAct]], and [[USFederalismVetoPoints]] - health-care reform context.
