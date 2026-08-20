@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6119
+wiki_total_pages: 6127
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "ZizhiTongjian"
     title: "《资治通鉴》 / Zizhi Tongjian"
     url: "/wiki/entities/zizhitongjian/"
+  - key: "ZizhiTongjianGangmu"
+    title: "《资治通鉴纲目》 / Zizhi Tongjian Gangmu"
+    url: "/wiki/entities/zizhitongjiangangmu/"
   - key: "ZizhiTongjianBu"
     title: "《资治通鉴补》 / Zizhi Tongjian Bu"
     url: "/wiki/entities/zizhitongjianbu/"

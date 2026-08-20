@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6119
+wiki_total_pages: 6127
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "YiWanFuWengHuiGui"
     title: "亿万富翁回归"
     url: "/wiki/entities/yiwanfuwenghuigui/"
+  - key: "YiqueBattle"
+    title: "伊阙之战 / Battle of Yique"
+    url: "/wiki/entities/yiquebattle/"
   - key: "Youku"
     title: "优酷 / Youku"
     url: "/wiki/entities/youku/"
@@ -308,6 +311,9 @@ wiki_pages:
   - key: "YevgeniaSheCameFromMariupol"
     title: "叶弗根尼亚 / Yevgenia"
     url: "/wiki/entities/yevgeniashecamefrommariupol/"
+  - key: "YuanjunWarringStates"
+    title: "垣郡 / Yuan Commandery"
+    url: "/wiki/entities/yuanjunwarringstates/"
   - key: "YuTheGreat"
     title: "大禹 / Yu the Great"
     url: "/wiki/entities/yuthegreat/"

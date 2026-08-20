@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4782
+wiki_total_pages: 4783
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "CoachingIntegratedSoccerAnalytics"
     title: "Coaching-Integrated Soccer Analytics"
     url: "/wiki/concepts/coachingintegratedsocceranalytics/"
+  - key: "CoalitionFractureExploitation"
+    title: "Coalition Fracture Exploitation / 联盟裂缝利用"
+    url: "/wiki/concepts/coalitionfractureexploitation/"
   - key: "CoalitionSelfPreservationFailure"
     title: "Coalition Self-Preservation Failure / 联盟自保失灵"
     url: "/wiki/concepts/coalitionselfpreservationfailure/"

@@ -5167,6 +5167,10 @@
     "title": "白族 / Bai People",
     "url": "/wiki/entities/baipeople/"
   },
+  "BaiQi": {
+    "title": "白起 / Bai Qi",
+    "url": "/wiki/entities/baiqi/"
+  },
   "Baidu": {
     "title": "Baidu",
     "url": "/wiki/entities/baidu/"
@@ -9139,6 +9143,10 @@
     "title": "Coalfire",
     "url": "/wiki/entities/coalfire/"
   },
+  "CoalitionFractureExploitation": {
+    "title": "Coalition Fracture Exploitation / 联盟裂缝利用",
+    "url": "/wiki/concepts/coalitionfractureexploitation/"
+  },
   "CoalitionSelfPreservationFailure": {
     "title": "Coalition Self-Preservation Failure / 联盟自保失灵",
     "url": "/wiki/concepts/coalitionselfpreservationfailure/"
@@ -11767,6 +11775,10 @@
     "title": "叮咚买菜 / Dingdong Maicai",
     "url": "/wiki/entities/dingdongmaicai/"
   },
+  "Dingtao": {
+    "title": "陶 / 定陶 / Dingtao",
+    "url": "/wiki/entities/dingtao/"
+  },
   "DingxiangDoctor": {
     "title": "丁香医生",
     "url": "/wiki/entities/dingxiangdoctor/"
@@ -14142,6 +14154,10 @@
   "FanJin": {
     "title": "范进",
     "url": "/wiki/entities/fanjin/"
+  },
+  "FanJu": {
+    "title": "范雎 / Fan Ju",
+    "url": "/wiki/entities/fanju/"
   },
   "FanKuai": {
     "title": "樊哙 / Fan Kuai",
@@ -16790,6 +16806,10 @@
   "GongsunQi": {
     "title": "公孙齐 / Gongsun Qi",
     "url": "/wiki/entities/gongsunqi/"
+  },
+  "GongsunXiWarringStates": {
+    "title": "公孙喜 / Gongsun Xi",
+    "url": "/wiki/entities/gongsunxiwarringstates/"
   },
   "GongsunXu": {
     "title": "公孙须 / Gongsun Xu",
@@ -25006,6 +25026,10 @@
   "MandySuzanneWong": {
     "title": "Mandy Suzanne Wong",
     "url": "/wiki/entities/mandysuzannewong/"
+  },
+  "MangMao": {
+    "title": "芒卯 / Mang Mao",
+    "url": "/wiki/entities/mangmao/"
   },
   "MangoTV": {
     "title": "芒果TV / Mango TV",
@@ -43507,6 +43531,10 @@
     "title": "义渠 / Yiqu",
     "url": "/wiki/entities/yiqustate/"
   },
+  "YiqueBattle": {
+    "title": "伊阙之战 / Battle of Yique",
+    "url": "/wiki/entities/yiquebattle/"
+  },
   "YishanWang": {
     "title": "Yishan Wang",
     "url": "/wiki/entities/yishanwang/"
@@ -43750,6 +43778,10 @@
   "YuanhuanIntelligence": {
     "title": "Yuanhuan Intelligence / 圆环智能",
     "url": "/wiki/entities/yuanhuanintelligence/"
+  },
+  "YuanjunWarringStates": {
+    "title": "垣郡 / Yuan Commandery",
+    "url": "/wiki/entities/yuanjunwarringstates/"
   },
   "YuanxingzheYuSuibingjiang": {
     "title": "远行者与碎冰匠 / Yuanxingzhe Yu Suibingjiang",
@@ -44666,6 +44698,10 @@
   "ZizhiTongjianBu": {
     "title": "《资治通鉴补》 / Zizhi Tongjian Bu",
     "url": "/wiki/entities/zizhitongjianbu/"
+  },
+  "ZizhiTongjianGangmu": {
+    "title": "《资治通鉴纲目》 / Zizhi Tongjian Gangmu",
+    "url": "/wiki/entities/zizhitongjiangangmu/"
   },
   "ZoeChase": {
     "title": "Zoe Chase",
@@ -47878,5 +47914,9 @@
   "zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg": {
     "title": "《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg/"
+  },
+  "zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv": {
+    "title": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv/"
   }
 }

@@ -8599,3 +8599,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何
+
+Added source page for a 芮淇讲透资治通鉴 episode on Bai Qi's first major Qin campaign at Yique, Qin's 294-290 BCE eastward pressure, Qin-Chu threat-marriage diplomacy, Sima Guang's criticism of Chu Qingxiang Wang, Wei Ran's resignation/return and fief chronology, Yuanjun/Dingtao source-critical territorial timing, and Mang Mao's ambiguous reputation. Created pages for Bai Qi, Battle of Yique, Gongsun Xi, Fan Ju, Mang Mao, Yuan Commandery, Dingtao, Zizhi Tongjian Gangmu, and Coalition Fracture Exploitation; updated overview, index, Qin Zhaoxiang Wang, Wei Ran, Mi Heng, Zhou Nan Wang, Sima Guang, Zhanguo Ce, Han Fei, Huainanzi, Zhu Xi, Military Merit Rank System, Warring States Military Transformation, Warring States Alliance Switching, Chronicle Chronology Drift, Warring States Careerist Mobility, and Qin Eastward Pressure. No direct contradiction found; Dingtao/Tao is recorded as a chronology correction because Tao was not yet Qin-held in the current annalistic year.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran health before lint; health scanned 11,980 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,980 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges, while the current wiki has 11,980 linted pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default `claude-3-5-sonnet-latest` model is not provider-qualified. A bounded in-session sample review found no direct contradictions and flagged understructured concept pages without `## Key Claims`. Report returned in-session; `wiki/lint-report.md` was not saved.

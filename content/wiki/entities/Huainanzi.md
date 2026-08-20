@@ -2,8 +2,8 @@
 title: "Huainanzi / 《淮南子》"
 type: entity
 tags: [book, philosophy, china, western-han, fangshu]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+last_updated: 2026-08-20
 ---
 
 # Huainanzi / 《淮南子》
@@ -14,11 +14,14 @@ The source uses the text to complicate a simple superstition/science split. Its 
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds a narrow source-variant role for the text. The episode names [[Huainanzi|《淮南子》]] alongside [[HanFei|韩非]] and [[Mozi|墨子]] as preserving a tradition that [[WuQi|吴起]] was torn apart, making it part of the variant-source cluster around Wu Qi's violent end.
 
+[[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds another evaluative source use through [[MangMao|芒卯]]. The episode cites Huainanzi's "big integrity / small blemish" framing to keep Mang Mao from being flattened into either loyal savior or pure trickster.
+
 ## Key Claims
 - The text is treated as a synthetic knowledge archive, not a single-doctrine manual.
 - Its astronomy and calendrical material show the proximity of fangshu to real observation.
 - Its alchemical and technical material links the episode to [[AlchemyChemistryContinuity]].
 - Its later legendary associations with Liu An show how textual production, political defeat, and immortal storytelling can overlap.
+- It can preserve evaluative categories for morally mixed political actors, as in the Mang Mao notice.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -27,3 +30,4 @@ The source uses the text to complicate a simple superstition/science split. Its 
 - [[AlchemyChemistryContinuity]] - material-practice branch.
 - [[FangshuSystematization]] and [[ChineseFolkReligionLayering]] - wider fangshu and religion-history frame.
 - [[WuQi|吴起]], [[HanFei|韩非]], and [[Mozi|墨子]] - Zhouji 08 part 3 death-variant branch.
+- [[MangMao|芒卯]] and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 67 mixed-integrity evaluation branch.

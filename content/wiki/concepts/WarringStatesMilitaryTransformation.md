@@ -2,7 +2,7 @@
 title: "Warring States Military Transformation / 战国军事形态转变"
 type: concept
 tags: [warfare, military-history, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
+sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,8 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 
 [[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] adds frontier manpower to the transformation. Zhao Wuling Wang inspects the western and northern territory, meets [[Loufan|楼烦]] leadership, and recruits Loufan troops. The reform branch therefore includes social and political incorporation of mobile frontier fighters, not only technical adoption of riding and archery.
 
+[[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds a Qin command-analysis case through [[BaiQi|白起]] at [[YiqueBattle|伊阙之战]]. The episode's military emphasis is not weapons or clothing but operational diagnosis: Bai Qi studies terrain, enemy command relations, and coalition mistrust, then avoids the strong point, strikes the weaker wing first, and turns separate defeat into a rout.
+
 ## Key Claims
 - Exaggerated troop figures can still preserve useful evidence about military organization.
 - The episode reads the Wei list as showing large infantry categories rather than a chariot-dominated army.
@@ -32,6 +34,7 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - Zhouji 59 turns the reform from launch into implementation: elite compliance, frontier administration, and Hu recruitment connect military form to manpower and governance.
 - Zhouji 61 adds reconnaissance and route design: Zhao's cavalry-facing northern expansion lets Zhao Wuling Wang imagine bypassing Qin's standard Hangu Pass defense line.
 - Zhouji 65 adds frontier recruitment: military transformation includes bringing Loufan fighters into Zhao's usable force base.
+- Zhouji 67 adds command cognition: a large army can be beaten by reading terrain, allied incentives, and attack sequence better than the coalition commander does.
 
 ## Connections
 - [[WeiState|魏国]], [[SuQin|苏秦]], and [[HezongAlliance|合纵]] - source setting and diplomatic use.
@@ -41,3 +44,4 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - [[ZhaoWulingwang|赵武灵王]], [[FeiYi|肥义]], [[HufuQishe|胡服骑射]], [[ZhaoChengWarringStates|赵成]], [[ZhaoGuWarringStates|赵固]], [[ZhongshanState|中山国]], and [[NewRulerReformSignaling|新君改革铺垫信号]] - Zhouji 35 prelude, Zhouji 58 launch, and Zhouji 59 implementation.
 - [[QinZhaoxiangwang|秦昭襄王]], [[HanguPass|函谷关]], and [[Xianyang|咸阳]] - Zhouji 61 reconnaissance and route-bypass branch.
 - [[Loufan|楼烦]] and [[PowerExitTrap|权力退场困境]] - Zhouji 65 frontier recruitment amid Zhao Wuling Wang's post-abdication military program.
+- [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], [[GongsunXiWarringStates|公孙喜]], and [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhouji 67 command-analysis and separate-defeat branch.

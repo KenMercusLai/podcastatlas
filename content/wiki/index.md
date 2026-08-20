@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何](sources/zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Yique breakthrough, Qin's 294-290 BCE eastward pressure, Qin-Chu threat-marriage diplomacy, Wei Ran's resignation and return, Dingtao/Yuan territorial chronology, and Mang Mao's ambiguous persuasive reputation.
 - [《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（2）](sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg.md) — 芮淇讲透资治通鉴 episode completing the Shaqiu crisis: Zhao Zhang kills Fei Yi with a forged summons, Zhao He's side suppresses the coup, Zhao Zhang is killed, and Zhao Wuling Wang is starved after Zhao Cheng and Li Dui choose indirect elimination over direct regicide.
 - [《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（1）](sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq.md) — 芮淇讲透资治通鉴 episode on Zhao Wuling Wang's post-abdication power split, Zhao Zhang's Dai-region faction, Fei Yi and Li Dui's warnings, and the setup for the Shaqiu crisis.
 - [《资治通鉴·周纪》65丨我穿越去给浪漫的楚王念首诗](sources/zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j.md) — 芮淇讲透资治通鉴 episode opening 周纪四 with Chu Huaiwang's failed escape, death in Xianyang, five-state pressure on Qin, Zhao Wuling Wang's Loufan recruitment, and a Wang Shipeng poem used to reframe Chu Huaiwang as tragic rather than merely foolish.
@@ -1076,6 +1077,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose Yique victory is read as terrain, enemy-incentive, and coalition-fracture analysis rather than mere bravery.
+- [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
+- [公孙喜 / Gongsun Xi](entities/GongsunXiWarringStates.md) — Han-Wei coalition commander captured after Bai Qi's Yique campaign, with source wording split between Han and Wei affiliation.
+- [范雎 / Fan Ju](entities/FanJu.md) — Zhanguo Ce interlocutor whose praise prompts Bai Qi's explanation of the Yique victory.
+- [芒卯 / Mang Mao](entities/MangMao.md) — Wei figure known for "诈说" whose reputation is kept between trickery, self-interest, and practical state rescue.
+- [垣郡 / Yuan Commandery](entities/YuanjunWarringStates.md) — Split Chu/Han commandery used to clarify Qin's 292 and 291 BCE conquests.
+- [陶 / 定陶 / Dingtao](entities/Dingtao.md) — Prosperous Song/Qi/Qin place used to correct the timing of Wei Ran's Tao enfeoffment.
+- [《资治通鉴纲目》 / Zizhi Tongjian Gangmu](entities/ZizhiTongjianGangmu.md) — Zhu Xi-linked outline tradition whose omission of Mang Mao is treated as a didactic source-selection signal.
 - [高信 / Gao Xin (Warring States)](entities/GaoXinWarringStates.md) — Zhao He defender who helps hold off Zhao Zhang's coup long enough for Handan support to arrive during the Shaqiu crisis.
 - [沙丘之变 / Shaqiu Crisis](entities/ShaqiuCrisis.md) — Zhao succession disaster in which Zhao Zhang's coup fails, Fei Yi and Zhao Zhang are killed, and Zhao Wuling Wang dies by starvation after the palace is sealed.
 - [田不李 / Tian Buli](entities/TianBuli.md) — Adviser assigned to Zhao Zhang in Dai, turning elder-son grievance into a more organized rival power base.
@@ -7199,6 +7208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Coalition Fracture Exploitation / 联盟裂缝利用](concepts/CoalitionFractureExploitation.md) — Battlefield pattern where a commander converts allied disunity into attack sequencing and separate defeat.
 - [Responsibility-Avoidant Killing / 避责式杀害](concepts/ResponsibilityAvoidantKilling.md) — Pattern where actors avoid a direct killing act while deliberately arranging confinement, deprivation, or other conditions that make death predictable.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.

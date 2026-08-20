@@ -2,8 +2,8 @@
 title: "Han Fei / 韩非"
 type: entity
 tags: [person, philosophy, chinese-history, legalism, political-theory]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+last_updated: 2026-08-20
 ---
 
 # Han Fei / 韩非
@@ -18,6 +18,8 @@ The source also warns that the comparison has limits. Han Fei is used as a Legal
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds Han Fei as one of the variant traditions that record a harsher punishment for [[WuQi|吴起]], saying he was torn apart after his death. The episode uses the notice as source texture around Wu Qi's violent ending, not as a replacement for the [[ZizhiTongjian|《资治通鉴》]] corpse-shooting account.
 
+[[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds a Han Fei source use through [[MangMao|芒卯]]. The episode cites a Hanfeizi story in which Mang Mao persuades away opposing armies and then negotiates his own reward, making Han Fei part of the page's source cluster for strategic speech, ruler technique, and morally gray service.
+
 ## Connections
 - [[ShangYang|Shang Yang / 商鞅]] - paired Legalist figure in the comparison.
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - Western political-theory figure being compared.
@@ -26,3 +28,4 @@ The source also warns that the comparison has limits. Han Fei is used as a Legal
 - [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]] - law-philosophy use added by episode 100.
 - [[ZhaoJinghou|赵靖侯]] and [[LegalistRulerTechnique]] - Zhouji 08 part 2 governance-technique branch.
 - [[WuQi|吴起]] and [[WarringStatesReformBacklash]] - Zhouji 08 part 3 death-variant branch.
+- [[MangMao|芒卯]], [[WeiState|魏国]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 67 Hanfeizi story of persuasive military de-escalation and reward bargaining.

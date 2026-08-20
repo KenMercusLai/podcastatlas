@@ -2,7 +2,7 @@
 title: "芈横 / 楚顷襄王 / Mi Heng"
 type: entity
 tags: [person, crown-prince, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 
 [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] shows the external consequence of that succession repair. Chu sends envoys to [[QinState|秦国]] to announce that it already has a new king, which makes Qin's detention of Chu Huaiwang less useful as coercive leverage. Qin responds by attacking Chu through [[Wuguan|武关]], killing fifty thousand troops and taking sixteen cities.
 
+[[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] follows Mi Heng after he has become Chu Qingxiang Wang. Qin sends him a threat that he should prepare troops for attack; Chu renews peace by marrying a Qin princess. The host presents [[SimaGuang|司马光]]'s criticism as severe: after Qin killed or destroyed his father, Mi Heng still "swallowed" the insult for the sake of a marriage settlement.
+
 ## Connections
 - [[ChuState|楚国]] and [[ChuHuaiwang|楚怀王]] - polity and father/ruler connected to his hostage mission.
 - [[QinState|秦国]] and [[QinZhaoxiangwang|秦昭襄王]] - hostage court and future attacker.
@@ -27,3 +29,4 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 - [[HostageDiplomacyRupture|质子外交破裂]] - concept anchored by his killing of a Qin official and escape.
 - [[WarringStatesAllianceSwitching|战国同盟转向]] - alliance reversal triggered by the incident.
 - [[Wuguan|武关]] and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 63 renewed Qin attack after Chu succession continuity is announced.
+- [[SimaGuang|司马光]], [[WarringStatesMarriageDiplomacy|战国联姻外交]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 67 threat-marriage repair after Chu Huaiwang's death.

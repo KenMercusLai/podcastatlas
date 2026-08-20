@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6119
+wiki_total_pages: 6127
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "MiHeng"
     title: "芈横 / 楚顷襄王 / Mi Heng"
     url: "/wiki/entities/miheng/"
+  - key: "MangMao"
+    title: "芒卯 / Mang Mao"
+    url: "/wiki/entities/mangmao/"
   - key: "MangoTV"
     title: "芒果TV / Mango TV"
     url: "/wiki/entities/mangotv/"

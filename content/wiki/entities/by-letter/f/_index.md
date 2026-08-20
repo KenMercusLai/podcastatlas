@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6119
+wiki_total_pages: 6127
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "FanXinyu"
     title: "范鑫宇 / Fan Xinyu"
     url: "/wiki/entities/fanxinyu/"
+  - key: "FanJu"
+    title: "范雎 / Fan Ju"
+    url: "/wiki/entities/fanju/"
   - key: "FeiBi"
     title: "菲比"
     url: "/wiki/entities/feibi/"
