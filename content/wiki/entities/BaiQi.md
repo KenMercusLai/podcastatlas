@@ -2,7 +2,7 @@
 title: "白起 / Bai Qi"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states, warfare]
-sources: [zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The result is presented as a decisive and destructive Qin victory. The episode r
 
 [[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]] develops that Chu-front notice into Bai Qi's most destructive southern campaign so far. In 278 BCE he breaks the Chu capital region, burns Yiling, and helps turn the conquered area into [[NanCommandery|南郡]], receiving the title 武安君. The episode also attributes a water attack on 鄢郢 to Bai Qi, making him a central figure in [[WarringStatesWarBrutalization|战国战争残酷化]] as well as in Qin's commandery-based consolidation.
 
+[[zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1]] keeps Bai Qi on the central-plains front. After [[HanState|韩国]] uses [[ThreatenedDefectionLeverage|投敌威胁式求援]] to draw Qin into [[HuayangBattle|华阳之战]], Bai Qi joins [[WeiRan|魏冉]] and Hu Yang in the rapid rescue. The episode reports Qin's defeat of Wei and then Bai Qi's separate fight with the Zhao commander Jia Yan, while preserving uncertainty over how the reported drowning of Zhao troops occurred.
+
 ## Connections
 - [[YiqueBattle|伊阙之战]] - battle that makes him famous in this episode.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], and [[QinState|秦国]] - ruler, patron/recommender, and state context.
@@ -26,3 +28,4 @@ The result is presented as a decisive and destructive Qin victory. The episode r
 - [[Zhanguoce|《战国策》]] and [[FanJu|范雎]] - source dialogue through which the episode interprets Bai Qi's own account of victory.
 - [[ZhaoState|赵国]], [[ChuState|楚国]], [[SimaCuo|司马错]], and [[Mianchi|渑池]] - Zhouji 77 campaign backdrop before the Qin-Zhao meeting.
 - [[NanCommandery|南郡]], [[WuJunWarringStates|巫郡]], [[Qianzhong|黔中]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Zhouji 82 fall of Ying, water attack, and commandery formation.
+- [[HuayangBattle|华阳之战]], [[HanState|韩国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[ThreatenedDefectionLeverage|投敌威胁式求援]] - Zhouji 83 rapid Qin rescue and defeat of Wei-Zhao attackers.

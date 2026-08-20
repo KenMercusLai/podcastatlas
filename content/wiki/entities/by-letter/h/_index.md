@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6190
+wiki_total_pages: 6193
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "HanguPass"
     title: "函谷关 / Hangu Pass"
     url: "/wiki/entities/hangupass/"
+  - key: "HuayangBattle"
+    title: "华阳之战 / Battle of Huayang"
+    url: "/wiki/entities/huayangbattle/"
   - key: "HousheNansheng"
     title: "后舍男生 / Houshe Nansheng"
     url: "/wiki/entities/houshenansheng/"
@@ -761,6 +764,9 @@ wiki_pages:
   - key: "HanJinghou"
     title: "韩景侯 / Marquis Jing of Han"
     url: "/wiki/entities/hanjinghou/"
+  - key: "HanHuanhuiwang"
+    title: "韩桓惠王 / King Huanhui of Han"
+    url: "/wiki/entities/hanhuanhuiwang/"
   - key: "HanWuzi"
     title: "韩武子 / Han Wuzi"
     url: "/wiki/entities/hanwuzi/"

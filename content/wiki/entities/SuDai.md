@@ -2,8 +2,8 @@
 title: "苏代 / Su Dai"
 type: entity
 tags: [person, diplomat, strategist, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+last_updated: 2026-08-21
 ---
 
 # 苏代 / Su Dai
@@ -14,8 +14,11 @@ The source does not develop Su Dai's independent diplomacy. His role here is con
 
 [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] mentions Su Dai again in the wider list of persuaders who followed the fame of [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[GongsunYan|犀首公孙衍]]. The episode still does not give him an independent story, but it places him in a broader late-Warring-States fashion for travel, debate, and tactical persuasion.
 
+[[zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1]] gives Su Dai an independent remonstrance scene after [[WeiState|魏国]]'s defeat at [[HuayangBattle|华阳之战]]. He warns [[WeiAnxiWang|魏安釐王]] that [[DuanGanzi|段干子]]'s proposal to cede land to Qin serves Duan Ganzi's ambition and [[QinState|秦国]]'s appetite at the same time. His "抱薪救火" metaphor becomes [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]], though the episode also notes that Su Dai diagnoses the problem without giving Wei a workable alternative.
+
 ## Connections
 - [[SuQin|苏秦]] and [[SuLi|苏厉]] - brothers named by the source.
 - [[ZhangYiStrategist|张仪]], [[GongsunYan|犀首公孙衍]], [[ZhouZui|周最]], and [[LouHuan|楼缓]] - Zhouji 56 wider persuader list.
 - [[ZonghengjiaDiplomacy|纵横家外交]] - diplomatic field the family represents.
 - [[WarringStatesPeriod|战国时期]] - historical setting.
+- [[WeiAnxiWang|魏安釐王]], [[DuanGanzi|段干子]], [[HuayangBattle|华阳之战]], and [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]] - Zhouji 83 land-for-peace warning.

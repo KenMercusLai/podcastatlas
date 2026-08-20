@@ -2,7 +2,7 @@
 title: "魏冉 / Wei Ran"
 type: entity
 tags: [person, qin-state, minister, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
+sources: [zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 
 [[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]] gives Wei Ran a direct campaign role in 275 BCE. After [[BaiQi|白起]] has turned from [[ChuState|楚国]] toward [[WeiState|魏国]], Wei Ran attacks Wei twice in one year: first defeating a Han relief force and forcing eight cities from Wei, then defeating [[MangMao|芒卯]] and pushing Wei into another territorial concession. The episode presents him as the political-military follow-through to Qin's effort to discipline [[WeiAnxiWang|魏安釐王]] and manage the route problem created by Chu's [[StrategicDepthDefense|strategic depth]].
 
+[[zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1]] gives Wei Ran the decision point in [[HanState|韩国]]'s appeal for help during [[HuayangBattle|华阳之战]]. The Han envoy's [[ThreatenedDefectionLeverage|投敌威胁式求援]] works because Wei Ran recognizes that non-intervention could let [[WeiState|魏国]] and [[ZhaoState|赵国]] absorb Han's position. He then moves with [[BaiQi|白起]] and Hu Yang, turning Han's rescue into another Qin punishment of Wei.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - nephew whose accession he secures.
 - [[XuanTaihou|芈八子 / 宣太后]] - related power configuration around Ying Ji.
@@ -35,3 +37,4 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 - [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], [[YuanjunWarringStates|垣郡]], [[Dingtao|陶 / 定陶]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 67 command recommendation, resignation-return notice, and fief chronology correction.
 - [[ShichengWarringStates|石城]], [[ZhaoState|赵国]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 76 renewed chancellorship inside Qin's Zhao-facing campaign sequence.
 - [[WeiState|魏国]], [[WeiAnxiWang|魏安釐王]], [[MangMao|芒卯]], and [[StrategicDepthDefense|战略纵深防御]] - Zhouji 82 two attacks on Wei after Bai Qi's Chu campaign.
+- [[HuayangBattle|华阳之战]], [[HanState|韩国]], [[ZhaoState|赵国]], and [[ThreatenedDefectionLeverage|投敌威胁式求援]] - Zhouji 83 rescue decision and campaign.

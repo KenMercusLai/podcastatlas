@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？](sources/zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1.md) — 芮淇讲透资治通鉴 episode on Wei Anxi Wang's failed anti-Qin maneuvering, the Huayang battle, Han's threatened-defection rescue appeal to Qin, and Su Dai's "抱薪救火" warning against ceding land for peace.
 - [《资治通鉴·周纪》82丨大秦的核武器：白起来了！](sources/zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade.md) — 芮淇讲透资治通鉴 episode on Bai Qi breaking Chu's Ying capital region, Qin creating Nan Commandery, Chu surviving through strategic depth and Zhuang Xin's "亡羊补牢" counsel, and Qin turning to Wei through Bai Qi and Wei Ran.
 - [《资治通鉴·周纪》81丨历史早期PUA记实录（2）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k.md) — 芮淇讲透资治通鉴 episode on Diao Bo correcting Qi Xiang Wang's treatment of Tian Dan, Lu Zhonglian diagnosing Tian Dan's Di campaign, post-restoration self-protection, and Mengchangjun's final Xue lineage outcome.
 - [《资治通鉴·周纪》81丨历史早期PUA记实录（1）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y.md) — 芮淇讲透资治通鉴 episode on Tian Dan's post-restoration exposure, Qi Xiang Wang's suspicion of popular virtue, royal credit appropriation, Diao Bo's Chu mission, court slander, and ritualized humiliation.
@@ -1098,6 +1099,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [华阳之战 / Battle of Huayang](entities/HuayangBattle.md) — Wei-Zhao attack on Han that becomes a Qin rescue-and-punishment case after Han uses threatened-defection leverage.
+- [韩桓惠王 / King Huanhui of Han](entities/HanHuanhuiwang.md) — Han ruler who succeeds Han Xi Wang after the Huayang crisis and immediately enters a Qin-led alignment context.
+- [段干子 / Duan Ganzi](entities/DuanGanzi.md) — Wei adviser whose post-Huayang land-for-peace proposal is criticized by Su Dai as aligned with Qin's appetite for territory.
 - [庄辛 / Zhuang Xin](entities/ZhuangXin.md) — Chu adviser whose delayed warning and "亡羊补牢" counsel frame Chu Qingxiang Wang's partial recovery after Bai Qi's attack.
 - [魏安釐王 / King Anxi of Wei](entities/WeiAnxiWang.md) — Wei ruler whose accession is immediately marked by Qin attacks from Bai Qi and Wei Ran and by the enfeoffment of his brother Xinlingjun.
 - [南郡 / Nan Commandery](entities/NanCommandery.md) — Qin commandery created after Bai Qi takes the Chu capital region, linking conquest to administrative incorporation.
@@ -7292,6 +7296,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Threatened Defection Leverage / 投敌威胁式求援](concepts/ThreatenedDefectionLeverage.md) — Weak-state rescue tactic where abandonment is made costly because the weak state can surrender to the would-be rescuer's rival.
+- [Land-For-Peace Exhaustion Trap / 抱薪救火式割地求和](concepts/LandForPeaceExhaustionTrap.md) — Su Dai's warning that ceding land for peace with Qin can fuel repeated coercion until the weaker state is exhausted.
 - [Strategic Depth Defense / 战略纵深防御](concepts/StrategicDepthDefense.md) — Survival pattern where distance, route risk, and logistics let a damaged state buy time and force the attacker to solve passage problems first.
 - [Warring States War Brutalization / 战国战争残酷化](concepts/WarringStatesWarBrutalization.md) — Late-Warring-States warfare pattern where conquest expands into tomb destruction, city flooding, mass death, and administrative absorption.
 - [Post-Restoration Merit Threat / 复国功臣威胁化](concepts/PostRestorationMeritThreat.md) — Pattern where saving or restoring a state makes a minister's merit, popular credit, talent network, and soldier loyalty look threatening to the ruler.

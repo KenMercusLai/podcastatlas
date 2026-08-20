@@ -8684,6 +8684,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Wei Anxi Wang's failed attempt to resist Qin through a weak Wei-Qi posture, the Wei-Zhao attack on Han at Huayang, Han's threatened-defection appeal that draws Qin rescue, Qin's defeat of Wei and Zhao through Wei Ran and Bai Qi, and Su Dai's "抱薪救火" warning against ceding land to Qin for peace. Created pages for Huayang Battle, Han Huanhui Wang, Duan Ganzi, Threatened Defection Leverage, and Land-For-Peace Exhaustion Trap; updated overview, index, and key Wei/Han/Qin/Zhao and strategist pages. No direct contradiction found; the reported drowning of Zhao troops is kept source-scoped because the episode itself flags the tactic as uncertain.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》81丨历史早期PUA记实录（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Tian Dan's post-restoration danger under Qi Xiang Wang: a humane act toward a freezing old man is read as popular-credit competition, an unnamed artisan reframes the act as royal virtue, Diao Bo's Chu mission becomes material for slander, and repeated ruler-minister audiences become ritualized humiliation. Created pages for Diao Bo, Post-Restoration Merit Threat, Political Credit Appropriation, and Ritualized Minister Humiliation; updated overview, index, Tian Dan, Qi Xiang Wang, Qi State, Mi Heng, People-Based Political Security, Power Etiquette Reading, Court Feedback Collapse, Treason Accusation Trap, and Good Intentions Political Limits. No direct contradiction found; noisy transcript renderings were normalized to existing Qi Xiang Wang and Mi Heng / Chu Qingxiang Wang pages.
@@ -8775,3 +8779,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Bai Qi's 278-277 BCE
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran health before lint; health scanned 12126 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12126 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes and 129324 edges, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model was not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

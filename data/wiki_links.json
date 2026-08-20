@@ -12483,6 +12483,10 @@
     "title": "段干木 / Duan Ganmu",
     "url": "/wiki/entities/duanganmu/"
   },
+  "DuanGanzi": {
+    "title": "段干子 / Duan Ganzi",
+    "url": "/wiki/entities/duanganzi/"
+  },
   "DuanGeShiWoBeishangDeWanju": {
     "title": "《短歌是我悲伤的玩具》",
     "url": "/wiki/entities/duangeshiwobeishangdewanju/"
@@ -17791,6 +17795,10 @@
     "title": "韩廆 / Han Gui",
     "url": "/wiki/entities/hangui/"
   },
+  "HanHuanhuiwang": {
+    "title": "韩桓惠王 / King Huanhui of Han",
+    "url": "/wiki/entities/hanhuanhuiwang/"
+  },
   "HanJinghou": {
     "title": "韩景侯 / Marquis Jing of Han",
     "url": "/wiki/entities/hanjinghou/"
@@ -19138,6 +19146,10 @@
   "HuaweiOrganizationalMethodology": {
     "title": "Huawei Organizational Methodology",
     "url": "/wiki/concepts/huaweiorganizationalmethodology/"
+  },
+  "HuayangBattle": {
+    "title": "华阳之战 / Battle of Huayang",
+    "url": "/wiki/entities/huayangbattle/"
   },
   "HuazhuGroup": {
     "title": "Huazhu Group",
@@ -22914,6 +22926,10 @@
   "Lancome": {
     "title": "Lancôme / 兰蔻",
     "url": "/wiki/entities/lancome/"
+  },
+  "LandForPeaceExhaustionTrap": {
+    "title": "Land-For-Peace Exhaustion Trap / 抱薪救火式割地求和",
+    "url": "/wiki/concepts/landforpeaceexhaustiontrap/"
   },
   "LandSpace": {
     "title": "LandSpace / 蓝箭航天",
@@ -39607,6 +39623,10 @@
     "title": "Threate Filling Station",
     "url": "/wiki/entities/threatefillingstation/"
   },
+  "ThreatenedDefectionLeverage": {
+    "title": "Threatened Defection Leverage / 投敌威胁式求援",
+    "url": "/wiki/concepts/threateneddefectionleverage/"
+  },
   "ThreeDPrintedHousing": {
     "title": "3D-Printed Housing",
     "url": "/wiki/concepts/threedprintedhousing/"
@@ -48478,5 +48498,9 @@
   "zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade": {
     "title": "《资治通鉴·周纪》82丨大秦的核武器：白起来了！",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade/"
+  },
+  "zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1": {
+    "title": "《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1/"
   }
 }
