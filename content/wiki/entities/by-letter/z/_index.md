@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6087
+wiki_total_pages: 6091
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "ZhaoKuangyin"
     title: "赵匡胤 / Song Taizu"
     url: "/wiki/entities/zhaokuangyin/"
+  - key: "ZhaoGuWarringStates"
+    title: "赵固 / Zhao Gu (Warring States)"
+    url: "/wiki/entities/zhaoguwarringstates/"
   - key: "ZhaoState"
     title: "赵国 / Zhao State"
     url: "/wiki/entities/zhaostate/"

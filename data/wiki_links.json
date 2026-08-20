@@ -41667,6 +41667,10 @@
     "title": "Wei Qing / 韦青",
     "url": "/wiki/entities/weiqing/"
   },
+  "WeiRan": {
+    "title": "魏冉 / Wei Ran",
+    "url": "/wiki/entities/weiran/"
+  },
   "WeiState": {
     "title": "魏国 / Wei State",
     "url": "/wiki/entities/weistate/"
@@ -42499,6 +42503,10 @@
     "title": "无人知晓",
     "url": "/wiki/entities/wurenzhixiao/"
   },
+  "WusuiWarringStates": {
+    "title": "武遂 / Wusui (Warring States)",
+    "url": "/wiki/entities/wusuiwarringstates/"
+  },
   "WutaiPoetryCase": {
     "title": "乌台诗案 / Wutai Poetry Case",
     "url": "/wiki/entities/wutaipoetrycase/"
@@ -42610,6 +42618,10 @@
   "XiangJiXuanZhi": {
     "title": "《项脊轩志》",
     "url": "/wiki/entities/xiangjixuanzhi/"
+  },
+  "XiangShou": {
+    "title": "向寿 / Xiang Shou",
+    "url": "/wiki/entities/xiangshou/"
   },
   "XiangYu": {
     "title": "项羽 / Xiang Yu",
@@ -44014,6 +44026,10 @@
   "ZhaoFan": {
     "title": "赵范 / Zhao Fan",
     "url": "/wiki/entities/zhaofan/"
+  },
+  "ZhaoGuWarringStates": {
+    "title": "赵固 / Zhao Gu (Warring States)",
+    "url": "/wiki/entities/zhaoguwarringstates/"
   },
   "ZhaoGuangyi": {
     "title": "赵光义 / Song Taizong",
@@ -47674,5 +47690,9 @@
   "zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz": {
     "title": "《资治通鉴·周纪》58丨赵武灵王如何打造强国",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz/"
+  },
+  "zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh": {
+    "title": "《资治通鉴·周纪》59丨一朝君王一朝臣",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh/"
   }
 }

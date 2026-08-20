@@ -2,7 +2,7 @@
 title: "宜阳 / Yiyang (Warring States)"
 type: entity
 tags: [place, pre-qin, han-state, warring-states]
-sources: [zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
+sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The source treats Yiyang as a long-coveted strategic target for Qin, comparable 
 
 [[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] completes the later campaign branch. After court pressure begins against Gan Mao, his reminder of the Xirang oath makes [[QinWuwang|秦武王]] reinforce rather than recall him. The episode says Gan Mao then takes Yiyang and [[HanState|韩国]] sends its chancellor to Qin to apologize and seek peace, strengthening the 307 BCE side of the chronology tension.
 
+[[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] moves from capture to administration. [[QinZhaoxiangwang|秦昭襄王]] sends [[XiangShou|向寿]] to comfort residents, define boundaries, and organize taxes and household registers. The same source makes the Yiyang aftermath the setting for [[GanMao|甘茂]]'s [[WusuiWarringStates|武遂]] proposal and later court exposure.
+
 ## Connections
 - [[QinState|秦国]] - attacker and occupying power in the episode's 335 BCE notice.
 - [[HanState|韩国]] - state losing the place.
@@ -28,3 +30,4 @@ The source treats Yiyang as a long-coveted strategic target for Qin, comparable 
 - [[HanZhaohou|韩昭侯]], [[QuYijiu|屈宜臼]], and [[UntimelyExtravagance|时绌举赢]] - Zhouji 28 timing-warning branch.
 - [[ZhangYiStrategist|张仪]], [[HanXiangwang|韩襄王]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 Qin pressure speech branch.
 - [[GanMao|甘茂]], [[QinWuwang|秦武王]], [[RumorErosionOfTrust|谣言侵蚀信任]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57-58 long-campaign, oath, reinforcement, and capture branch.
+- [[QinZhaoxiangwang|秦昭襄王]], [[XiangShou|向寿]], [[WusuiWarringStates|武遂]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 59 administration and post-victory court-risk branch.

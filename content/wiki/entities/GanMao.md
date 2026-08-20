@@ -2,7 +2,7 @@
 title: "甘茂 / Gan Mao"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ His argument is political as much as military. Gan Mao uses the [[ZengShen|曾�
 
 [[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] confirms the value of that constraint. After five months without taking Yiyang, Gan Mao faces the predicted court pressure, invokes Xirang, receives reinforcements, takes the city, and forces [[HanState|韩国]] to seek peace. The source therefore turns his earlier risk model into a completed campaign case.
 
+[[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] turns that victory into a succession-risk case. Under [[QinZhaoxiangwang|秦昭襄王]], Gan Mao advises returning [[WusuiWarringStates|武遂]] to Han to stabilize Qin's new position after [[YiyangWarringStates|宜阳]], but [[XiangShou|向寿]] and the Gongsun faction resent him when the advice is adopted. After Qin Wuwang's death changes the court balance, Chulizi's side squeezes him, and Gan Mao flees toward [[QiState|齐国]] when the army reaches Puban. The episode's title makes him a source case for [[PatronSuccessionExposure|靠山更替暴露风险]]: military merit can be real and still fail to protect an outsider minister under a new ruler.
+
 ## Connections
 - [[QinState|秦国]] - state he serves.
 - [[ChenZhuangWarringStates|陈庄]] - rebel he suppresses.
@@ -26,3 +28,4 @@ His argument is political as much as military. Gan Mao uses the [[ZengShen|曾�
 - [[QinWuwang|秦武王]], [[WeiState|魏国]], [[HanState|韩国]], and [[YiyangWarringStates|宜阳]] - Zhouji 57 campaign setup.
 - [[ZengShen|曾参]], [[LeYang|乐羊]], [[RumorErosionOfTrust|谣言侵蚀信任]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - stories and concept used in his persuasion.
 - [[Chulizi|樗里疾 / 樗里子]], [[ChancellorCenteredGovernance|宰相中心治理]], and [[QinEastwardPressure|秦国东进压力]] - co-chancellor, court-risk, and successful Yiyang pressure frame.
+- [[QinZhaoxiangwang|秦昭襄王]], [[XiangShou|向寿]], [[WusuiWarringStates|武遂]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 59 post-Yiyang policy dispute, resentment, and flight branch.

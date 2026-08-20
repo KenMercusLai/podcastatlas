@@ -2,7 +2,7 @@
 title: "赵成 / Zhao Cheng (Warring States)"
 type: entity
 tags: [person, royal-family, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-20
 ---
 
@@ -14,9 +14,12 @@ His objection is cultural and political rather than tactical. Zhao Cheng argues 
 
 Zhao Wuling Wang's reply turns Zhao Cheng into a reform test case. If the ruler's own uncle refuses the new dress, reform authority weakens; if close kin comply first, the policy has a visible model for the rest of the aristocracy.
 
+[[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] resolves the first stage of that test. Zhao Wuling Wang visits Zhao Cheng directly and argues from Zhao's strategic exposure, lack of cavalry, and past humiliation by [[ZhongshanState|中山国]]. Zhao Cheng is persuaded enough to wear Hu clothing to court the next day, turning him from the first visible resistor into the first visible elite compliance signal for [[HufuQishe|胡服骑射]].
+
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] - ruler and nephew who pressures him to comply.
 - [[ZhaoState|赵国]] - state setting.
 - [[HufuQishe|胡服骑射]] - reform he resists.
+- [[ZhongshanState|中山国]] - past humiliation Zhao Wuling Wang uses to justify the reform.
 - [[WarringStatesReformBacklash|战国变法反噬]] - adjacent pattern of elite resistance to state-strengthening reform.
 - [[WarringStatesMilitaryTransformation|战国军事形态转变]] - military change that gives the clothing dispute its strategic stakes.

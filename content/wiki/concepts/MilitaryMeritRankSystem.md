@@ -2,7 +2,7 @@
 title: "Military Merit Rank System / 军功爵制"
 type: concept
 tags: [warfare, statecraft, legalism, hierarchy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ The system matters because it converts war performance into social hierarchy. Ol
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] adds the concrete reward. Shang Yang's success after the parley trap brings him [[Shangyu|商於]] and the 商君 title, making the rank-reward logic visible at the top of Qin's political hierarchy as well as among soldiers.
 
+[[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] adds a limit case through [[GanMao|甘茂]]. The episode says Shang Yang's system lets soldiers and ministers win rank, land, and office by military service, but Gan Mao's later flight from [[QinState|秦国]] shows that those rewards can remain politically revocable when an outsider minister loses court protection under a new ruler.
+
 ## Key Claims
 - Military achievement becomes a measurable basis for rank and privilege.
 - Enemy-head counting is presented as one concrete measurement device for converting violence into rank.
@@ -26,6 +28,7 @@ The system matters because it converts war performance into social hierarchy. Ol
 - Meritocratic mobility and elite dispossession are two sides of the same reform mechanism.
 - The same reward structure can pressure high officials into personal command and make peace offers suspicious when they would produce no credit.
 - The reward structure can convert campaign success into fief, title, and a new political identity.
+- Military-merit rewards create mobility and incentive alignment, but they do not eliminate faction, identity, or succession risk.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] and [[QinXiaogong|秦孝公]] - reformer and ruler.
@@ -34,4 +37,5 @@ The system matters because it converts war performance into social hierarchy. Ol
 - [[FarmingWarStatecraft|耕战逻辑]], [[QinEastwardPressure]], [[PeaceParleyEntrapment|和谈诱捕]], [[Shangyu|商於]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 22-23 extension into campaign incentives, fake withdrawal, reward, and later cost.
 - [[QinState|秦国]] and [[WarringStatesPeriod|战国时期]] - state and military-competition setting.
 - [[WarringStatesReformBacklash]] - backlash risk from converting old privilege into state capacity.
+- [[GanMao|甘茂]] and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 59 limit case where military achievement does not secure an outsider minister after succession.
 - [[LegalistRulerTechnique]] - adjacent logic of rule through incentive design and enforceable standards.

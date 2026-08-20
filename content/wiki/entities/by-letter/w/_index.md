@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6087
+wiki_total_pages: 6091
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "WuSong"
     title: "武松 / Wu Song"
     url: "/wiki/entities/wusong/"
+  - key: "WusuiWarringStates"
+    title: "武遂 / Wusui (Warring States)"
+    url: "/wiki/entities/wusuiwarringstates/"
   - key: "WoteShoes"
     title: "沃特鞋企 / Wote Shoes"
     url: "/wiki/entities/woteshoes/"
@@ -740,6 +743,9 @@ wiki_pages:
   - key: "WenYiduo"
     title: "闻一多 / Wen Yiduo"
     url: "/wiki/entities/wenyiduo/"
+  - key: "WeiRan"
+    title: "魏冉 / Wei Ran"
+    url: "/wiki/entities/weiran/"
   - key: "WeiState"
     title: "魏国 / Wei State"
     url: "/wiki/entities/weistate/"

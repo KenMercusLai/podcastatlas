@@ -8531,3 +8531,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》59丨一朝君王一朝臣
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Zhao Cheng's conversion to Hu Fu Qi She, showing Zhao Wuling Wang's northern expansion, envoys, Hu-affairs appointment, and Hu recruitment, and tracing Gan Mao's post-Yiyang insecurity after Qin Wuwang's death. Created pages for Xiang Shou, Zhao Gu, Wusui, and Wei Ran; updated overview, index, Gan Mao, Zhao Wuling Wang, Zhao Cheng, Hu Fu Qi She, Qin Zhaoxiang Wang, Xuan Taihou, Qin Wuwang, Chulizi, Qin/Zhao/Yiyang pages, and related hezong/reform/military/succession concepts. Preserved the existing Yiyang source-layer tension: Zhouji 27 says Qin took Yiyang in 335 BCE, while Zhouji 57-59 treat it as Gan Mao's hard 308-307 BCE target and later Qin-administered territory.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

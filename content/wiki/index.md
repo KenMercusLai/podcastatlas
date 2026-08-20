@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》59丨一朝君王一朝臣](sources/zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh.md) — 芮淇讲透资治通鉴 episode completing Zhao Cheng's conversion to Hu Fu Qi She, showing Zhao's northern expansion and Hu recruitment, and tracing Gan Mao's loss of security under Qin Zhaoxiang Wang after the Yiyang-Wusui settlement.
 - [《资治通鉴·周纪》58丨赵武灵王如何打造强国](sources/zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz.md) — 芮淇讲透资治通鉴 episode completing Gan Mao's Yiyang campaign, Qin Wuwang's death and Qin Zhaoxiang Wang's succession, and Zhao Wuling Wang's Hu Fu Qi She reform against aristocratic ritual resistance.
 - [《资治通鉴·周纪》57丨古代发毒誓还有这作用？](sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si.md) — 芮淇讲透资治通鉴 episode linking Zigong's rescue of Lu through a Wu-Yue-Qi-Jin diplomatic cascade with Gan Mao's Yiyang campaign, Qin's first left/right chancellors, Zhao Wuling Wang's succession foreshadowing, and oath-bound command trust against rumor and court pressure.
 - [《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫](sources/zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41.md) — 芮淇讲透资治通鉴 episode reassessing zonghengjia figures through Mencius's great-man standard, Yang Xiong's Fayan critique, and the distinction between talent, motive, and moral approval.
@@ -1067,6 +1068,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [向寿 / Xiang Shou](entities/XiangShou.md) — Qin official sent to administer Yiyang whose opposition to returning Wusui helps turn Gan Mao's policy win into court resentment.
+- [赵固 / Zhao Gu (Warring States)](entities/ZhaoGuWarringStates.md) — Zhao official appointed to manage Hu affairs and recruit Hu fighters after Zhao Wuling Wang's northern expansion.
+- [武遂 / Wusui (Warring States)](entities/WusuiWarringStates.md) — Han city Qin returns on Gan Mao's advice after Yiyang, becoming a concrete trigger for post-succession resentment against him.
+- [魏冉 / Wei Ran](entities/WeiRan.md) — Qin court actor who secures his nephew Ying Ji's accession as Qin Zhaoxiang Wang after Qin Wuwang's death.
 - [秦昭襄王 / King Zhaoxiang of Qin](entities/QinZhaoxiangwang.md) — Ying Ji, Qin Wuwang's younger half-brother and Yan hostage, brought back to succeed after Qin Wuwang dies without a son.
 - [芈八子 / 宣太后 / Xuan Taihou](entities/XuanTaihou.md) — Mother of Qin Zhaoxiang Wang, introduced as the next Qin power configuration after Qin Wuwang's death.
 - [赵成 / Zhao Cheng (Warring States)](entities/ZhaoChengWarringStates.md) — Zhao Wuling Wang's uncle whose ritual objection makes Hu Fu Qi She's first resistance visible.
@@ -1097,7 +1102,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈庄 / Chen Zhuang (Warring States)](entities/ChenZhuangWarringStates.md) — Qin-appointed Shu chancellor who kills Shu Hou Ning Tong and rebels before Gan Mao suppresses him.
 - [蜀侯宁通 / Shu Hou Ning Tong](entities/ShuHouNingTong.md) — reduced Shu ruler killed by Chen Zhuang in the Qin-Shu rebellion.
 - [司马错 / Sima Cuo](entities/SimaCuo.md) — Qin strategist whose advice to attack Shu creates Qin's Ba-Shu base and later governance problem.
-- [甘茂 / Gan Mao](entities/GanMao.md) — Qin left chancellor who suppresses Chen Zhuang, warns about rumor risk, and binds Qin Wuwang to the Yiyang campaign through an oath.
+- [甘茂 / Gan Mao](entities/GanMao.md) — Qin left chancellor who suppresses Chen Zhuang, binds Qin Wuwang to the Yiyang campaign through an oath, and later flees after Qin's succession shift.
 - [巴国 / Ba State (Warring States)](entities/BaStateWarringStates.md) — Ba polity whose conflict with Shu gives Qin an opening into Ba-Shu.
 - [蜀国 / Shu State (Warring States)](entities/ShuStateWarringStates.md) — conquered southwestern polity reduced under Qin and destabilized by Chen Zhuang's rebellion.
 - [巴蜀 / Ba-Shu](entities/BaShu.md) — hard-to-enter, resource-rich southwest region that becomes both Qin's base and Chen Zhuang's temptation.
@@ -7158,7 +7163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [胡服骑射 / Hu Fu Qi She](concepts/HufuQishe.md) — Zhao Wuling Wang's military reform linking Hu-style clothing, horseback mobility, archery, Zhongshan strategy, and elite compliance.
+- [胡服骑射 / Hu Fu Qi She](concepts/HufuQishe.md) — Zhao Wuling Wang's military reform linking Hu-style clothing, horseback mobility, archery, Zhongshan strategy, elite compliance, and Hu recruitment.
 - [Interstate Cascade Diplomacy / 多国连锁外交](concepts/InterstateCascadeDiplomacy.md) — Zigong-style rescue strategy that redirects one state's attack by chaining several rulers' incentives across Qi, Wu, Yue, Jin, and Lu.
 - [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Gan Mao's risk model where repeated accusation and court faction pressure can make a ruler abandon a commander mid-campaign.
 - [Oath-Bound Command Trust / 盟誓约束下的统帅信任](concepts/OathBoundCommandTrust.md) — Political commitment device where a ruler publicly binds support for a long campaign before predictable slander begins.
@@ -7187,7 +7192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [因事立道式政治转身 / Situational Political Pivot](concepts/SituationalPoliticalPivot.md) — Strategy of repurposing a hostile situation into a different court, audience, or goal.
 - [Qin Diplomatic Exclusion / 秦国外交排斥](concepts/QinDiplomaticExclusion.md) — Qin Xiao Gong accession frame where Qin's pre-reform pressure is military, cultural, and diplomatic because eastern states treat Qin as an excluded peripheral power.
 - [阴谋阳谋转换 / Yinmou-Yangmou Conversion](concepts/YinmouYangmouConversion.md) — Zhang Yi's tactic of revealing a hidden plan so the disclosure itself changes Qi's incentives.
-- [Warring States Careerist Mobility / 乱世职业经理人式流动](concepts/WarringStatesCareeristMobility.md) — Frame for reading persuaders like Zhang Yi and Gongsun Yan as mobile political professionals pursuing office, survival, and功名 across courts.
+- [Warring States Careerist Mobility / 乱世职业经理人式流动](concepts/WarringStatesCareeristMobility.md) — Frame for reading persuaders and ministers as mobile political professionals pursuing office, survival, and功名 across courts.
 - [Strategic Luxury Sabotage / 奢侈诱导式削弱](concepts/StrategicLuxurySabotage.md) — Su Qin's Qi-court tactic of encouraging palace and garden expansion to drain Qi resources for Yan's benefit.
 - [Title-Reality Restraint / 名实相符式名号节制](concepts/TitleRealityRestraint.md) — Zhao Wuling Wang's refusal of royal title because the name of kingship should match real kingly substance.
 - [No Small Matters in Governance / 治无小乱无大](concepts/NoSmallMattersInGovernance.md) — Wey Sijun's strict-law principle that a small enforcement failure can become a ruler-level threat to order.
@@ -7202,7 +7207,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
-- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in first patronage, Zhao authorization, the completed six-state persuasion circuit, and the Hangu Pass efficacy tension.
+- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, grounded in first patronage, Zhao authorization, completed six-state persuasion, Hangu Pass failure, and later opportunistic renewals.
 - [连横 / Lianheng Strategy](concepts/LianhengStrategy.md) — Qin-facing diplomatic strategy contrasted with hezong, introduced through Su Qin's critique and Zhang Yi's entry into Qin.
 - [Encirclement Threat Persuasion / 包围威胁式说服](concepts/EncirclementThreatPersuasion.md) — Zhang Yi's Zhouji 54 speech pattern of naming weakness, claiming allies have shifted to Qin, mapping attack routes, and making Qin accommodation appear safest.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, intimate shame, status pressure, and discomfort drive focused self-study that still needs access and patronage.
@@ -7252,9 +7257,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Warring States Marriage Diplomacy / 战国联姻外交](concepts/WarringStatesMarriageDiplomacy.md) — Ruling-house marriage as interstate diplomacy whose alliance value remains limited by state interests.
 - [Shang Yang Reforms / 商鞅变法](concepts/ShangYangReforms.md) — Qin state-strengthening package built around household grouping, mutual surveillance, harsh law, agricultural incentives, and military-merit rank.
 - [Reform Without Popular Deliberation / 不与民虑始](concepts/ReformWithoutPopularDeliberation.md) — Shang Yang's claim that transformative reform can begin before ordinary people understand or consent to it.
-- [Military Merit Rank System / 军功爵制](concepts/MilitaryMeritRankSystem.md) — Status mechanism that converts battlefield achievement into rank, privilege, and social mobility while weakening hereditary privilege.
+- [Military Merit Rank System / 军功爵制](concepts/MilitaryMeritRankSystem.md) — Status mechanism that converts battlefield achievement into rank, privilege, and social mobility while still leaving officials exposed to faction and succession risk.
 - [徙木立信 / Moving the Log to Build Trust](concepts/XimuLixin.md) — Shang Yang's public reward demonstration for making Qin's future legal rewards and punishments believable.
-- [Qin Eastward Pressure / 秦国东进压力](concepts/QinEastwardPressure.md) — Zhouji 11 pattern in which Qin's eastern expansion forces Wei, Han, and Zhao to react despite their own rivalry.
+- [Qin Eastward Pressure / 秦国东进压力](concepts/QinEastwardPressure.md) — Pattern in which Qin's eastern expansion forces rival states to react, from battlefield pressure to Yiyang administration and coalition rebound.
 - [Ritual Recognition of Military Power / 礼制承认军事权力](concepts/RitualRecognitionOfMilitaryPower.md) — Interpretation of Zhou Xian Wang's 黻服 gift as symbolic ratification of Qin Xian Gong's military status.
 - [十二华章政治象征 / Twelve Insignia Political Symbolism](concepts/TwelveInsigniaPoliticalSymbolism.md) — Pre-Qin garment-symbol vocabulary used in Zhouji 11 to explain why 黻服 could carry political meaning.
 - [Talent Attraction Through Respect / 礼贤下士式人才吸附](concepts/TalentAttractionThroughRespect.md) — Wei Wenhou's ruler-image mechanism where respect for scholars and recluses attracts capable people without coercion.
@@ -7268,8 +7273,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
 - [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.
-- [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Zhouji 10 part 2 frame for the disorder created when Wei Wuhou dies without a clearly designated heir.
-- [Patron Succession Exposure / 靠山更替暴露风险](concepts/PatronSuccessionExposure.md) — Risk that a minister protected by one ruler becomes exposed when the patron dies and the successor revalues prior service.
+- [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Frame for disorder when a ruler-centered polity lacks a legible, enforceable succession path before death creates a scramble.
+- [Patron Succession Exposure / 靠山更替暴露风险](concepts/PatronSuccessionExposure.md) — Risk that a minister protected by one ruler or court balance becomes exposed when succession lets a new regime revalue prior service.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.
 - [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.
 - [Generational Family Strategy / 家族代际战略](concepts/GenerationalFamilyStrategy.md) — Zhouji 10 frame for reading Han's destruction of Zheng as a lineage-level, multi-generation project.
@@ -7278,7 +7283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Zisi's talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes.
 - [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce each other's self-certainty instead of correcting errors.
-- [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where centralizing reform strengthens a state while creating concentrated enemies, now covering Wu Qi in Chu and Shang Yang in Qin.
+- [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where state-strengthening reform creates concentrated resistance, from violent backlash to ritual-identity opposition and managed compliance.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
