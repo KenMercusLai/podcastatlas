@@ -11331,6 +11331,10 @@
     "title": "Death Option As Psychological Relief",
     "url": "/wiki/concepts/deathoptionaspsychologicalrelief/"
   },
+  "DeathPartyLoyalty": {
+    "title": "Death-Party Loyalty vs Official Duty / 死党之义与守职奉上",
+    "url": "/wiki/concepts/deathpartyloyalty/"
+  },
   "DeathWithDignity": {
     "title": "Death with Dignity",
     "url": "/wiki/entities/deathwithdignity/"
@@ -23646,6 +23650,10 @@
   "LiAutoL9": {
     "title": "Li Auto L9 / 理想 L9",
     "url": "/wiki/entities/liautol9/"
+  },
+  "LiBai": {
+    "title": "李白 / Li Bai",
+    "url": "/wiki/entities/libai/"
   },
   "LiBeibin": {
     "title": "Li Beibin",
@@ -42135,6 +42143,10 @@
     "title": "王十朋 / Wang Shipeng",
     "url": "/wiki/entities/wangshipeng/"
   },
+  "WangShizhen": {
+    "title": "王世贞 / Wang Shizhen",
+    "url": "/wiki/entities/wangshizhen/"
+  },
   "WangSunGu": {
     "title": "王孙古 / Wang Sun Gu",
     "url": "/wiki/entities/wangsungu/"
@@ -43890,6 +43902,10 @@
   "XunXieshu": {
     "title": "《讯蟹书》",
     "url": "/wiki/entities/xunxieshu/"
+  },
+  "XunYue": {
+    "title": "荀悦 / Xun Yue",
+    "url": "/wiki/entities/xunyue/"
   },
   "XunweiShunde": {
     "title": "寻味顺德",
@@ -48954,5 +48970,9 @@
   "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi": {
     "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi/"
+  },
+  "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa": {
+    "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
   }
 }

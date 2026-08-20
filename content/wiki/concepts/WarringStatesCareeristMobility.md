@@ -2,7 +2,7 @@
 title: "Warring States Careerist Mobility / 乱世职业经理人式流动"
 type: concept
 tags: [career, diplomacy, warring-states, political-agency]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-21
 ---
 
@@ -38,6 +38,10 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] adds the successful receiving-court phase. Fan Ju's mobility does not end with escape; in Qin he converts outsider status into protected speech, then into keqing appointment and strategic influence through [[YuanjiaoJingongStrategy|远交近攻]]. The case therefore shows why exporting talent can be dangerous for the losing court: the fugitive may return as a rival state's policy architect.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] adds the status-order significance of Fan Ju's arc. The episode argues that under an older hereditary order, a person of Fan Ju's background would have had little chance to take revenge openly on a former high minister such as [[WeiQiWarringStates|魏齐]]. Warring States disorder creates the opening: talent, office, and interstate need let a low-status actor rise high enough to command state pressure.
+
+The same source contrasts this violent mobility with later [[ImperialExaminationOpportunityEquality|科举与机会平等]]. If the problem is changing the status assigned by birth, the Warring States route is opportunity through disorder, while the mature examination route is opportunity through institution.
+
 ## Key Claims
 - Warring States persuaders can act as mobile political professionals rather than modern nation-state loyalists.
 - Reformers as well as persuaders can move through the same court market when one state fails to recognize or retain them.
@@ -56,6 +60,8 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - Zhouji 67 adds morally gray rescue by persuasion: mobile speech talent can serve a state while also appearing self-interested or deceptive.
 - Zhouji 88 adds coerced talent export: a court that punishes suspicion without procedure can turn its own underused talent into another state's asset.
 - Zhouji 88 part 2 adds receiving-court conversion: exported talent becomes dangerous when the new ruler gives it protection, office, and strategic authority.
+- Zhouji 95 part 4 adds revenge-enabled mobility: disorder lets a low-status actor return against former elites through office and state power.
+- The mobility frame can be contrasted with examination opportunity, where status change is institutionally routinized rather than produced by war and court breakdown.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]] and [[GongsunYan|犀首公孙衍]] - main mobile strategist cases.
@@ -73,4 +79,5 @@ Zhang Yi and Gongsun Yan show different versions of the same mobility. Gongsun Y
 - [[MangMao|芒卯]], [[Zhanguoce|《战国策》]], [[HanFei|韩非]], [[Huainanzi|《淮南子》]], and [[ZhuXi|朱熹]] - Zhouji 67 "诈说" reception and mixed-evaluation branch.
 - [[FanJu|范雎]], [[XuJia|须贾 / 徐谷]], [[WeiQiWarringStates|魏齐]], [[ZhengAnping|郑安平]], [[WangJiQin|王稽 / 王继]], and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - Zhouji 88 blocked talent, punishment, rescue, and Qin transfer.
 - [[QinZhaoxiangwang|秦昭襄王]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 receiving-court protection and strategic conversion.
+- [[PersonalRevengeThroughStatePower|以国力行私仇]], [[ImperialExaminationOpportunityEquality|科举与机会平等]], [[WangAnshi|王安石]], and [[FanJu|范雎]] - Zhouji 95 part 4 contrast between disorder mobility and institutional exam mobility.
 - [[ZonghengjiaDiplomacy|纵横家外交]], [[LianhengStrategy|连横]], [[HezongAlliance|合纵]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - adjacent diplomatic frames.

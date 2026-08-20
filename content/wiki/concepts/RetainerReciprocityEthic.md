@@ -2,8 +2,8 @@
 title: "Retainer Reciprocity Ethic / 士为知己者死"
 type: concept
 tags: [ethics, honor, pre-qin-history, political-violence]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
+last_updated: 2026-08-21
 ---
 
 # Retainer Reciprocity Ethic / 士为知己者死
@@ -11,6 +11,10 @@ last_updated: 2026-08-19
 Retainer reciprocity ethic / 士为知己者死 is the honor logic [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] draws from [[YuRang|豫让]]. In the episode's [[Shiji|《史记》]] framing, Yu Rang does not owe every former patron the same death-level repayment. He distinguishes between being treated as an ordinary person and being treated as a "国士."
 
 The concept's key move is proportional reciprocity: exceptional recognition creates exceptional obligation. That is why Yu Rang refuses the easier route of serving [[ZhaoXiangzi|赵襄子]] and then killing him. To do so would turn loyalty into duplicity and weaken the public example he wants to leave for later retainers.
+
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] reactivates Yu Rang's logic to explain [[YuQing|虞卿]] and [[WeiQiWarringStates|魏齐]]. The episode argues that Yu Qing need not have been Wei Qi's longtime friend; once Wei Qi entrusts his life to Yu Qing, that trust itself becomes recognition. Yu Qing's abandonment of office is therefore read as repayment to a person who has recognized his worth.
+
+This extension also shows the tension between reciprocity and office duty. [[LiBai|李白]] can admire the repayment as spirit, but [[XunYue|荀悦]] criticizes it as [[DeathPartyLoyalty|死党之义与守职奉上]] when private recognition defeats public responsibility.
 
 [[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]] adds a less violent but broader patronage setting through [[Mengchangjun|孟尝君 / 田文]]. Mengchang Jun's养士 works because food, lodging, money, and family support are paired with礼数 and dignity protection. The episode implies that material support becomes politically powerful when retainers experience it as recognition rather than mere charity.
 
@@ -28,6 +32,8 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - Mengchang Jun's retainer network shows the recruitment side of the same logic: recognition can be built materially through sustained patronage and respect before it becomes death-level repayment.
 - Reciprocity can survive misconduct when a patron converts punishment into protected exit and later usefulness.
 - Retainer duty can become public revenge mobilization when a ruler's violent death is treated as a subject's shame.
+- Zhouji 95 part 4 adds trust-as-recognition: even a first encounter can create repayment pressure when a fugitive entrusts life and reputation to another士.
+- The concept has a state-order limit: reciprocity becomes suspect when it overrides office and public duty.
 
 ## Connections
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[ZhaoXiangzi|赵襄子]] - source case.
@@ -37,3 +43,4 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - [[RetainerRiskConversion|门客风险转化]], [[WeyState|卫国]], and [[QiState|齐国]] - Zhouji 43 preserved-dignity and later-repayment branch.
 - [[PoliticalAssassinationEthics]] and [[SpringAutumnToWarringStatesPoliticalViolence]] - adjacent political-violence frames.
 - [[WangSunGu|王孙古]], [[QiMinWang|齐湣王]], [[ZhuoChi|淖齿 / 卓齿]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 subject-duty revenge branch.
+- [[YuQing|虞卿]], [[WeiQiWarringStates|魏齐]], [[LiBai|李白]], [[XunYue|荀悦]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 trust, repayment, admiration, and critique.

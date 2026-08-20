@@ -8704,6 +8704,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）
+
+Added source page for the fourth post-Changping installment: why Wei Qi's helpers were admired, how Pingyuanjun and Yu Qing fit aristocratic friendship and士人 recognition ethics, how Xun Yue criticizes the same conduct as dead-party loyalty, and how Li Bai, Wang Anshi, and Wang Shizhen read the story differently. Created Xun Yue, Li Bai, Wang Shizhen, and Death-Party Loyalty vs Official Duty; updated overview, index, Fan Ju, Wei Qi, Yu Qing, Pingyuanjun, Xinlingjun, Yu Rang, Sima Qian, Wang Anshi, Aristocratic Friendship vs State Order, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, Personal Revenge Through State Power, Warring States Careerist Mobility, and Imperial Examination Opportunity Equality. No direct contradiction found; the source is preserved as an interpretive/reception layer rather than a detailed Handan-campaign chronology.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？
 
 Added source page for a 芮淇讲透资治通鉴 episode introducing Zhao She before his later generalship, centered on his tax enforcement against Pingyuanjun's household, his argument that elite legal compliance protects Zhao and aristocratic wealth, and Pingyuanjun's recommendation of him to Zhao Huiwen Wang for national tax administration. Created pages for Zhao She and Elite Fiscal-Law Compliance; updated overview, index, Zhao State, Zhou Nan Wang, Zhao He, Pingyuanjun, Zhanguo Ce, Warring States Four Lords, Warring States Retainer Patronage, High-Status Law-Enforcement Signal, Tax Enforcement Capacity, and Legalist Ruler Technique. No direct contradiction found; Zhao She's Yan-service background and the economic motives behind Pingyuanjun's household tax resistance remain source-scoped.
@@ -8959,6 +8963,10 @@ Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned
 ## [2026-08-21] ingest | 《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）
 
 Added source page for the third post-Changping installment: Kong Bin's withdrawal diagnosis, Qin Zhaoxiang Wang's detention of Pingyuanjun, Fan Ju's demand for Wei Qi's head, Zhao Dan's hunt for Wei Qi, Yu Qing's resignation and flight with Wei Qi, Hou Ying's advice to Xinlingjun, Wei Qi's suicide, and the continued Wang Ling attack on Handan. Created Hou Ying and Aristocratic Friendship vs State Order; updated overview, index, Changping, Qin/Zhao state pages, Fan Ju, Zhao Dan, Qin Zhaoxiang Wang, Pingyuanjun, Xinlingjun, Yu Qing, Kong Bin, Wei Qi, Warring States Four Lords, Warring States Retainer Patronage, Aristocratic Political Asylum, Personal Revenge Through State Power, and Aristocratic Honor Over Life. No direct contradiction found; the Shiji supplement to Pingyuanjun's Qin trip and Bai Qi's illness are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

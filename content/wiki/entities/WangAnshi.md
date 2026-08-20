@@ -2,8 +2,8 @@
 title: "王安石 / Wang Anshi"
 type: entity
 tags: [official, reformer, song-dynasty, china]
-sources: [zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+last_updated: 2026-08-21
 ---
 
 # 王安石 / Wang Anshi
@@ -20,6 +20,10 @@ The source's critique is less that reform was unnecessary than that reform could
 
 [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] adds Wang Anshi as a later critic of [[Mengchangjun|孟尝君 / 田文]]. The episode uses his short critique of Mengchangjun's "chicken-crow and dog-theft" retainers to argue that a patron famous for many guests may still lack true talent judgment. In this source, Wang Anshi supplies the core distinction behind [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]]: tactical rescue skill is not the same as statecraft-level talent.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] adds Wang Anshi as a later reader of the [[FanJu|范雎]] and [[WeiQiWarringStates|魏齐]] branch. The episode contrasts him with [[LiBai|李白]]: Li Bai sees heroic friendship in [[YuQing|虞卿]]'s abandonment of office, while Wang Anshi sees how high office can suddenly turn into fatal exposure.
+
+The same source also uses Wang Anshi's own career path to contrast violent Warring States mobility with later institutional mobility. Wang Anshi can become chancellor through the mature Northern Song examination order, so his page now also touches [[ImperialExaminationOpportunityEquality|科举与机会平等]] rather than only reform politics.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - principal literary-official opponent in the source.
 - [[OuyangXiu|欧阳修]] - senior figure who had recognized both talents.
@@ -30,3 +34,4 @@ The source's critique is less that reform was unnecessary than that reform could
 - [[ShangYang|公孙鞅 / 商鞅]] and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 24's Song-political projection onto an ancient reformer.
 - [[Mengzi|孟子 / Mencius]], [[YiMeng|《疑孟》]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26 reception-history extension.
 - [[Mengchangjun|孟尝君 / 田文]], [[WarringStatesRetainerPatronage|战国养士]], and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Zhouji 63 retainer-quality critique.
+- [[FanJu|范雎]], [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[LiBai|李白]], and [[ImperialExaminationOpportunityEquality|科举与机会平等]] - Zhouji 95 part 4 official-risk reading and examination-mobility contrast.

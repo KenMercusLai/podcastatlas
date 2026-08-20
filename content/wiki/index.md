@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa.md) — 芮淇讲透资治通鉴 episode explaining why Wei Qi's helpers were admired, reading Yu Qing and Pingyuanjun through士人 recognition and aristocratic friendship, contrasting Xun Yue, Li Bai, Wang Anshi, and Wang Shizhen's reception, and linking Fan Ju's revenge to social mobility before the Handan campaign.
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi.md) — 芮淇讲透资治通鉴 episode on Pingyuanjun's detention in Qin, Fan Ju's demand for Wei Qi's head, Yu Qing's resignation to help Wei Qi flee, Xinlingjun and Hou Ying's reception test, and the clash between noble friendship, revenge, state law, and Zhao's survival.
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（2）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx.md) — 芮淇讲透资治通鉴 episode on Zhao's post-Changping land-cession debate, Yu Qing's Qi-alignment proposal, doubts about hezong reliability, and Kong Bin's warning against Wei's opportunistic reading of Zhao's disaster.
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（1）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1.md) — 芮淇讲透资治通鉴 episode on why Qin did not immediately destroy Zhao after Changping, linking Qin exhaustion, Bai Qi's terror signaling, Su Dai's lobbying of Fan Ju, and the land-for-peace pause.
@@ -1121,6 +1122,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [荀悦 / Xun Yue](entities/XunYue.md) — Eastern Han historian used by Zhouji 95 part 4 to criticize Yu Qing, Pingyuanjun, and Xinlingjun's friend-protection as dangerous dead-party loyalty.
+- [李白 / Li Bai](entities/LiBai.md) — Tang poet used by Zhouji 95 part 4 as the reception lens that admires Yu Qing's abandoned office and Wei Qi friendship as heroic spirit.
+- [王世贞 / Wang Shizhen](entities/WangShizhen.md) — Later reader invoked by Zhouji 95 part 4 to turn Fan Ju and Wei Qi's feud from immediate moral judgment into historical detachment.
 - [侯嬴 / Hou Ying](entities/HouYing.md) — Xinlingjun adviser who argues that Yu Qing's abandoned office and friend-protection make receiving Wei Qi a test of aristocratic reputation.
 - [孔斌 / Kong Bin](entities/KongBin.md) — Wei minister who warned after Changping that Qin's attack on Zhao was a structural threat to all neighboring states, not a free opportunity for Wei.
 - [司马梗 / Sima Geng](entities/SimaGeng.md) — Qin commander assigned to the Taiyuan-Shangdang route in the post-Changping pressure on Zhao.
@@ -7376,6 +7380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Death-Party Loyalty vs Official Duty / 死党之义与守职奉上](concepts/DeathPartyLoyalty.md) — Xun Yue critique of private friendship or faction loyalty becoming stronger than office, ruler, and public responsibility.
 - [Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突](concepts/AristocraticFriendshipStateConflict.md) — Conflict where noble friendship and guest protection collide with revenge, ruler command, state law, and national survival.
 - [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence, monuments, and released survivors are used to damage the defeated state's will to resist.
 - [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Su Dai pattern of redirecting policy by turning Bai Qi's possible victory into Fan Ju's personal rank threat.

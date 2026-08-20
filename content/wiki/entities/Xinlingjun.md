@@ -2,7 +2,7 @@
 title: "信陵君 / Lord Xinling"
 type: entity
 tags: [person, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,10 @@ last_updated: 2026-08-21
 
 Xinlingjun then goes out to receive Yu Qing and Wei Qi, but the hesitation has already become fatal in Wei Qi's honor world. Wei Qi hears that Xinlingjun initially wavered and kills himself, so the episode makes Xinlingjun's reputation depend not only on generosity but also on the timing and publicity of recognition.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] adds the interpretive point that Xinlingjun's behavior should not be read as fixed anti-Qin ideology. Like [[Pingyuanjun|平原君]], he is caught in a reputation order where receiving a desperate guest can be required even when it is strategically dangerous.
+
+The episode therefore makes Xinlingjun part of the same debate as [[YuQing|虞卿]]: later admiration can see a noble commitment to being worthy of trust, while [[XunYue|荀悦]] can read such commitment as [[DeathPartyLoyalty|死党之义与守职奉上]] that competes with office and state responsibility.
+
 ## Connections
 - [[WarringStatesFourLords|战国四公子]] - grouping in which the source names him.
 - [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - other named members.
@@ -23,3 +27,4 @@ Xinlingjun then goes out to receive Yu Qing and Wei Qi, but the hesitation has a
 - [[WarringStatesRetainerPatronage|战国养士]] - shared patronage field.
 - [[WeiAnxiWang|魏安釐王]], [[WeiZhaowang|魏昭王]], [[BaiQi|白起]], and [[WeiRan|魏冉]] - Zhouji 82 succession and Qin-pressure context for his enfeoffment.
 - [[YuQing|虞卿]], [[WeiQiWarringStates|魏齐]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 dangerous reception and recognition-delay problem.
+- [[XunYue|荀悦]], [[LiBai|李白]], [[RetainerReciprocityEthic|士为知己者死]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 reception and critique of dangerous guest-recognition.

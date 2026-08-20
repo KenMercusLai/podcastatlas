@@ -2,7 +2,7 @@
 title: "魏齐 / Wei Qi (Warring States)"
 type: entity
 tags: [person, wei-state, minister, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ The source uses Wei Qi for [[PrivatePunishmentWithoutProcedure|无程序私刑]]
 
 Wei Qi dies before the refuge network can save him. After hearing that Xinlingjun initially hesitated to receive him, he treats that hesitation as unbearable dishonor and kills himself. Zhao then exchanges his head for Pingyuanjun, closing Fan Ju's demand while leaving the episode's moral question unresolved.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] reopens Wei Qi as an interpretive problem rather than as a new actor. The host argues that his final suicide makes a purely cynical "he tricked righteous people" explanation less persuasive; Wei Qi looks more like a man inside an extreme honor world where recognition, rejection, and humiliation can become life-or-death matters.
+
+The source does not absolve Wei Qi's earlier violence against Fan Ju. It instead explains why his protectors could still be admired: when a defeated great-state minister entrusts his life to another士, refusing him would damage the host's reputation inside [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] and [[RetainerReciprocityEthic|士为知己者死]].
+
 ## Connections
 - [[FanJu|范雎]] - victim of the punishment.
 - [[XuJia|须贾 / 徐谷]] - official whose report triggers the beating.
@@ -28,3 +32,4 @@ Wei Qi dies before the refuge network can save him. After hearing that Xinlingju
 - [[PrivatePunishmentWithoutProcedure|无程序私刑]] and [[LegalistRulerTechnique|法家君术]] - concepts clarified by the episode's distinction between harsh law and reliable procedure.
 - [[PersonalRevengeThroughStatePower|以国力行私仇]], [[Daliang|大梁]], [[Pingyuanjun|平原君]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - Zhouji 90 revenge demand and flight to Zhao.
 - [[YuQing|虞卿]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 95 part 3 final flight, reception hesitation, and suicide.
+- [[LiBai|李白]], [[WangAnshi|王安石]], [[WangShizhen|王世贞]], [[RetainerReciprocityEthic|士为知己者死]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 reception and honor-system explanation of why Wei Qi's helpers remain morally legible.
