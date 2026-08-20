@@ -8684,6 +8684,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》81丨历史早期PUA记实录（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Tian Dan's post-restoration danger under Qi Xiang Wang: a humane act toward a freezing old man is read as popular-credit competition, an unnamed artisan reframes the act as royal virtue, Diao Bo's Chu mission becomes material for slander, and repeated ruler-minister audiences become ritualized humiliation. Created pages for Diao Bo, Post-Restoration Merit Threat, Political Credit Appropriation, and Ritualized Minister Humiliation; updated overview, index, Tian Dan, Qi Xiang Wang, Qi State, Mi Heng, People-Based Political Security, Power Etiquette Reading, Court Feedback Collapse, Treason Accusation Trap, and Good Intentions Political Limits. No direct contradiction found; noisy transcript renderings were normalized to existing Qi Xiang Wang and Mi Heng / Chu Qingxiang Wang pages.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》76丨谁给了楚顷襄王的自信？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin's attacks against Zhao after Zhao refuses a joint anti-Qi campaign, Qin's continued post-anti-Qi dissatisfaction, Wei Ran's renewed chancellorship, the questioned report that Chu Qingxiang Wang wanted a Chu-Qi-Han anti-Qin line while also targeting Zhou, and Dongzhou Wugong's persuasion that the tiny Zhou royal domain remained costly to attack because of the Son of Heaven title and Jiuding. Created pages for Dongzhou Wugong, Jiuding, Shicheng, Mianchi, and Zhou Royal Symbolic Deterrence; updated overview, index, Mi Heng, Zhou Nan Wang, Zhao He, Qin Zhaoxiang Wang, Wei Ran, Lin Xiangru, Qin/Zhao/Chu state pages, Zhou Royal House, Eastern/Western Zhou Polity, Post-Coalition Spoils Imbalance, Qin Eastward Pressure, Hezong Alliance, Eastern-Western Zhou Split, and Wanbi Guizhao Diplomacy. Source-critical tension recorded: the Chu attack report is kept as questioned because it does not fit earlier depictions of Chu Qingxiang Wang's fear and accommodation after Chu Huaiwang's death.
@@ -8747,6 +8751,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Le Yi's post-exile reply to Yan Huiwang, Wu Zixu as warning, refusal to attack Yan from Zhao, Le Xian's title inheritance, and Tian Dan's coming post-victory risk under Qi Xiang Wang. Created pages for Bao Yan Huiwang Shu, Wu Zixu, Le Xian, Zhuge Liang, and Loyal Minister Exit Ethic; updated overview, index, Le Yi, Yan Huiwang, Zhao He, Tian Dan, Qi Xiang Wang, Yan/Zhao/Qi state pages, Zhao Wuling Wang, Cao Cao, Fuchai, Wu State, Power Exit Trap, Patron Succession Exposure, and Warring States Careerist Mobility. No direct contradiction found; noisy transcript renderings were normalized to existing wiki entities, and Guanjin/观津 was kept source-scoped rather than split into a place page.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

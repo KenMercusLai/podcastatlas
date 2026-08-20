@@ -2,8 +2,8 @@
 title: "Treason Accusation Trap / 谋反指控陷阱"
 type: concept
 tags: [court-politics, governance, political-intrigue, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
+last_updated: 2026-08-21
 ---
 
 # Treason Accusation Trap / 谋反指控陷阱
@@ -14,12 +14,15 @@ The episode treats the trap as effective despite its weak practical logic. A pow
 
 This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher. A parable weaponizes speech by wrapping factional attack in a plausible lesson; a treason accusation trap manufactures a suspicious event that looks evidentiary enough to trigger ruler fear. It also touches [[CourtFeedbackCollapse]] because the court's information channel becomes contaminated by planted signals rather than merely blocked or flattering.
 
+[[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y]] adds a softer but similar court-reading through [[TianDan|田单]] and [[DiaoBo|刁伯]]. The nine favored ministers do not stage a divination; they take a real diplomatic outcome, [[MiHeng|楚顷襄王]]'s warm reception of Diao Bo, and argue that it proves Tian Dan's excessive influence. The trap lies in turning ordinary political service, care for people, and talent recommendation into signs that Tian Dan wants to "do great things."
+
 ## Key Claims
 - Treason accusations do not have to be airtight to be politically powerful; they only have to make distrust operational.
 - A staged third-party act can be more useful than direct accusation because it gives the ruler something to investigate.
 - In ruler-centered politics, investigation can itself become damaging evidence in the mind of the accused.
 - Military merit can become politically dangerous when it creates independent reputation, troops, allies, or public credit.
 - Ritual or divination language can be turned from uncertainty management into a frame for criminal intent.
+- Real events can work like planted events if court interpreters attach them to a ruler's existing fear.
 
 ## Connections
 - [[ZouJi|成侯邹忌]] - actor who creates the accusation trap in the source.
@@ -28,3 +31,4 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 - [[MalingBattle|马陵之战]] - victory whose prestige creates the political vulnerability.
 - [[Shiji|《史记》]], [[Zhanguoce|《战国策》]], and [[ZizhiTongjian|《资治通鉴》]] - source-wording branch around "doing great things."
 - [[PoliticalParableWeaponization]], [[CourtFeedbackCollapse]], and [[PortableDivinationSystems]] - adjacent speech, information, and divination concepts.
+- [[TianDan|田单]], [[DiaoBo|刁伯]], [[QiXiangWang|齐襄王]], [[MiHeng|楚顷襄王]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 diplomatic reception reframed as evidence of overmighty-minister ambition.

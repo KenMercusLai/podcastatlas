@@ -11671,6 +11671,10 @@
     "title": "典众科技 / Dianzhong Technology",
     "url": "/wiki/entities/dianzhongtechnology/"
   },
+  "DiaoBo": {
+    "title": "刁伯 / Diao Bo",
+    "url": "/wiki/entities/diaobo/"
+  },
   "DiasporaCapitalManufacturingClusters": {
     "title": "Diaspora Capital Manufacturing Clusters",
     "url": "/wiki/concepts/diasporacapitalmanufacturingclusters/"
@@ -31111,6 +31115,10 @@
     "title": "Political Condition As Human Experiment / 政治条件作为人性实验",
     "url": "/wiki/concepts/politicalconditionashumanexperiment/"
   },
+  "PoliticalCreditAppropriation": {
+    "title": "Political Credit Appropriation / 善行君恩化",
+    "url": "/wiki/concepts/politicalcreditappropriation/"
+  },
   "PoliticalDeepfakeRegulation": {
     "title": "Political Deepfake Regulation",
     "url": "/wiki/concepts/politicaldeepfakeregulation/"
@@ -31346,6 +31354,10 @@
   "PostOwnership": {
     "title": "Post Ownership",
     "url": "/wiki/concepts/postownership/"
+  },
+  "PostRestorationMeritThreat": {
+    "title": "Post-Restoration Merit Threat / 复国功臣威胁化",
+    "url": "/wiki/concepts/postrestorationmeritthreat/"
   },
   "PostRevengeEmptiness": {
     "title": "Post-Revenge Emptiness / 复仇之后的虚无",
@@ -33886,6 +33898,10 @@
   "RitualTourismAuthenticityTension": {
     "title": "Ritual Tourism Authenticity Tension / 仪式文旅真实性张力",
     "url": "/wiki/concepts/ritualtourismauthenticitytension/"
+  },
+  "RitualizedMinisterHumiliation": {
+    "title": "Ritualized Minister Humiliation / 礼节化臣属羞辱",
+    "url": "/wiki/concepts/ritualizedministerhumiliation/"
   },
   "RiversideNaturalFoods": {
     "title": "Riverside Natural Foods",
@@ -48426,5 +48442,9 @@
   "zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0": {
     "title": "《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0/"
+  },
+  "zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y": {
+    "title": "《资治通鉴·周纪》81丨历史早期PUA记实录（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y/"
   }
 }

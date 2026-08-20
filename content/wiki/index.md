@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》81丨历史早期PUA记实录（1）](sources/zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y.md) — 芮淇讲透资治通鉴 episode on Tian Dan's post-restoration exposure, Qi Xiang Wang's suspicion of popular virtue, royal credit appropriation, Diao Bo's Chu mission, court slander, and ritualized humiliation.
 - [《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？](sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0.md) — 芮淇讲透资治通鉴 episode on Le Yi's reply to Yan Huiwang, Wu Zixu as warning, refusal to attack Yan from Zhao, Le Xian's title inheritance, and Tian Dan's coming post-victory danger under Qi Xiang Wang.
 - [《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人](sources/zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p.md) — 芮淇讲透资治通鉴 episode on Tian Dan's fire-ox counterattack at Jimo, Qi Jie's atrocity backfire, false surrender and bribery, Qi Xiang Wang's return to Linzi, and the Jun Wang Hou/Taishi Jiao marriage-ritual conflict.
 - [《资治通鉴·周纪》78丨齐国命运竟被城管给救了？](sources/zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug.md) — 芮淇讲透资治通鉴 episode on Tian Dan's rise at Jimo, Le Yi's pacification strategy around Ju and Jimo, Yan Zhaowang's trust in Le Yi, and Yan Huiwang's replacement of Le Yi after Tian Dan's rumor wedge.
@@ -1095,6 +1096,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刁伯 / Diao Bo](entities/DiaoBo.md) — Qi worthy and envoy recommended by Tian Dan whose warm reception in Chu becomes material for slander against Tian Dan.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
 - [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
 - [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
@@ -7284,6 +7286,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Restoration Merit Threat / 复国功臣威胁化](concepts/PostRestorationMeritThreat.md) — Pattern where saving or restoring a state makes a minister's merit, popular credit, and talent network look like a threat to the ruler.
+- [Political Credit Appropriation / 善行君恩化](concepts/PoliticalCreditAppropriation.md) — Court tactic that absorbs a subordinate's visible virtue into ruler authority by reframing it as royal instruction or benevolence.
+- [Ritualized Minister Humiliation / 礼节化臣属羞辱](concepts/RitualizedMinisterHumiliation.md) — Status-pressure pattern where ruler-minister ritual, dress, posture, and repetition become humiliation without a formal charge.
 - [Loyal Minister Exit Ethic / 忠臣去国的退场伦理](concepts/LoyalMinisterExitEthic.md) — Le Yi's model of leaving a dangerous old court without slandering the old patron or turning new patronage into revenge.
 - [Fire-Ox Night Raid / 火牛阵夜袭](concepts/FireOxNightRaid.md) — Tian Dan's Jimo tactic combining cattle, fire, blades, night attack, false surrender, and prior psychological setup to break Yan.
 - [Atrocity Backfire Mobilization / 暴行反噬式动员](concepts/AtrocityBackfireMobilization.md) — Pattern where enemy cruelty meant to frighten defenders instead makes surrender intolerable and hardens resistance.

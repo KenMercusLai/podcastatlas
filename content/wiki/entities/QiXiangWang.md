@@ -2,7 +2,7 @@
 title: "齐襄王 / King Xiang of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
+sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ The same source also revisits Qi Xiang Wang's household by saying [[JunWangHou|�
 
 [[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] changes the source tone around Qi Xiang Wang. After [[TianDan|田单]] becomes chancellor, the host says Qi Xiang Wang's breadth is not comparable to [[YanZhaowang|燕昭王]]'s and that nine flattering ministers surround him. This is kept as a setup for the next Tian Dan branch rather than a completed judgment of his reign.
 
+[[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y]] follows through on that setup. Qi Xiang Wang reads Tian Dan's mercy toward a freezing old man as a bid for popular support and possible royal displacement. He briefly accepts an artisan's advice to turn Tian Dan's act into [[PoliticalCreditAppropriation|royal credit]], but later listens when favored ministers use [[DiaoBo|刁伯]]'s warm reception in [[ChuState|楚国]] to revive suspicion. The repeated audiences where he demands ruler-minister propriety while Tian Dan abases himself make him the ruler-side case for [[RitualizedMinisterHumiliation|ritualized minister humiliation]].
+
 ## Connections
 - [[TianFazhang|田法章]] - personal identity before restoration.
 - [[QiMinWang|齐湣王]] - father whose death creates the succession crisis.
@@ -28,3 +30,4 @@ The same source also revisits Qi Xiang Wang's household by saying [[JunWangHou|�
 - [[YanState|燕国]] and [[LeYi|乐毅]] - occupation pressure against which the restoration is declared.
 - [[TianDan|田单]], [[JimoWarringStates|即墨]], [[FireOxNightRaid|火牛阵夜袭]], and [[Linzi|临淄]] - Zhouji 79 military recovery and capital return.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - Zhouji 80 preview of the court environment that may endanger Tian Dan after restoration.
+- [[PostRestorationMeritThreat|复国功臣威胁化]], [[PoliticalCreditAppropriation|善行君恩化]], [[DiaoBo|刁伯]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 suspicion, credit management, slander trigger, and status pressure.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6185
+wiki_total_pages: 6186
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "DianzhongTechnology"
     title: "典众科技 / Dianzhong Technology"
     url: "/wiki/entities/dianzhongtechnology/"
+  - key: "DiaoBo"
+    title: "刁伯 / Diao Bo"
+    url: "/wiki/entities/diaobo/"
   - key: "DingdongMaicai"
     title: "叮咚买菜 / Dingdong Maicai"
     url: "/wiki/entities/dingdongmaicai/"

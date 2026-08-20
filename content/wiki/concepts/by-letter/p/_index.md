@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4834
+wiki_total_pages: 4837
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "PoliticalConditionAsHumanExperiment"
     title: "Political Condition As Human Experiment / 政治条件作为人性实验"
     url: "/wiki/concepts/politicalconditionashumanexperiment/"
+  - key: "PoliticalCreditAppropriation"
+    title: "Political Credit Appropriation / 善行君恩化"
+    url: "/wiki/concepts/politicalcreditappropriation/"
   - key: "PoliticalDeepfakeRegulation"
     title: "Political Deepfake Regulation"
     url: "/wiki/concepts/politicaldeepfakeregulation/"
@@ -677,6 +680,9 @@ wiki_pages:
   - key: "PostMortemAIConsent"
     title: "Post-Mortem AI Consent"
     url: "/wiki/concepts/postmortemaiconsent/"
+  - key: "PostRestorationMeritThreat"
+    title: "Post-Restoration Merit Threat / 复国功臣威胁化"
+    url: "/wiki/concepts/postrestorationmeritthreat/"
   - key: "PostRevengeEmptiness"
     title: "Post-Revenge Emptiness / 复仇之后的虚无"
     url: "/wiki/concepts/postrevengeemptiness/"
