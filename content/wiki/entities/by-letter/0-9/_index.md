@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "0-9"
-wiki_total_pages: 6128
+wiki_total_pages: 6131
 wiki_pages:
   - key: "1789Capital"
     title: "1789 Capital"

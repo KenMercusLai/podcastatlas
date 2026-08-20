@@ -2,7 +2,7 @@
 title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
 type: concept
 tags: [statecraft, talent, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+sources: [zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-20
 ---
 
@@ -14,6 +14,8 @@ Talent attraction through respect / 礼贤下士式人才吸附 is the leadershi
 
 [[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] applies the mechanism to [[YanZhaowang|燕昭王]] after [[YanState|燕国]]'s defeat and occupation. [[GuoWeiWarringStates|郭隗]]'s "千金买骨" story makes the public-signal logic explicit: if Yan visibly honors a first adviser, more capable people such as [[LeYi|乐毅]] and [[JuXin|剧辛]] will believe the recruitment environment has changed.
 
+[[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] shows the delayed payoff. Yan Zhaowang's earlier respect signal is no longer only recruitment theater: Le Yi now supplies the strategic judgment that Yan should coordinate Zhao, Chu, and Wei against [[QiMinWang|齐湣王]] rather than attack alone.
+
 The concept differs from simple recruitment. The source's point is that public reverence for learning and worth can change a state's talent ecology: capable people are more willing to gather around a ruler who signals that knowledge, dignity, and moral standing will not be crushed by rank.
 
 ## Key Claims
@@ -22,6 +24,7 @@ The concept differs from simple recruitment. The source's point is that public r
 - Non-coercive respect matters because forced access would undermine the very virtue the ruler is trying to display.
 - The episode makes talent attraction one layer of [[RenhePoliticalPower|人和政治力量]], alongside trust and diplomatic restraint.
 - Zhouji 52 adds that respect can be staged as a credible recovery signal after state collapse, not only as routine good rulership.
+- Zhouji 69 adds that attracted talent must later become operational judgment; recruitment succeeds only if the state can use the advisers it gathered.
 
 ## Connections
 - [[WeiWenhou|魏文侯]], [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - source examples.
@@ -30,3 +33,4 @@ The concept differs from simple recruitment. The source's point is that public r
 - [[ConfucianIdealGovernance]] - moral-political framework that makes scholar respect meaningful.
 - [[RenhePoliticalPower]] - broader source synthesis.
 - [[YanZhaowang|燕昭王]], [[GuoWeiWarringStates|郭隗]], [[LeYi|乐毅]], and [[JuXin|剧辛]] - Zhouji 52 "千金买骨" and Yan recovery branch.
+- [[QiMinWang|齐湣王]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 Le Yi's coalition-design payoff.

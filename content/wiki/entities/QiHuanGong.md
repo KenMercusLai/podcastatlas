@@ -2,7 +2,7 @@
 title: "齐桓公"
 type: entity
 tags: [person, ruler, spring-and-autumn, qi-state]
-sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]
+sources: [zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]
 last_updated: 2026-08-19
 ---
 
@@ -14,6 +14,8 @@ The source also uses the Qi-Chu exchange behind "风马牛不相及" to show how
 
 [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm]] uses Qi Huan Gong as one of [[SimaGuang|司马光]]'s "信" cases. After Cao Mo coerces him at a meeting into promising to return Lu territory, Qi Huan Gong keeps the promise despite having enough power to ignore it. The episode uses the story to extend [[SmallTrustBuildsLargeTrust|小信诚则大信立]] from small appointments into interstate credibility.
 
+[[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] mentions Qi Huan Gong in a compressed list of rulers remembered as dying by starvation. The wiki keeps this as a source-scoped example inside [[RulerNonNaturalDeathTypology|帝王非命死法类型]], separate from the earlier trustworthiness lesson.
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
 - [[CaiJi|蔡姬]] - marriage and boat-story case tied to the attack on Cai.
@@ -21,3 +23,4 @@ The source also uses the Qi-Chu exchange behind "风马牛不相及" to show how
 - [[SpringAutumnWarfareRitual]] - diplomacy, pretext, face, and war-limited punishment frame.
 - [[SportsAsHistoricalReadingFrame]] - episode frame that turns the boat story into a water event.
 - [[SimaGuang|司马光]] and [[SmallTrustBuildsLargeTrust]] - Zhouji 13 part 2 trustworthiness case.
+- [[RulerNonNaturalDeathTypology|帝王非命死法类型]] - Zhouji 69 source-scoped starvation example.

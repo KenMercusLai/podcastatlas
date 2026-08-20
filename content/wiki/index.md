@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》69丨必看！古代帝王奇葩死法大盘点](sources/zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13.md) — 芮淇讲透资治通鉴 episode on Qi Min Wang's post-Song overreach, Qin's 285 BCE attack under Meng Ao, the killing of Qi remonstrants, Yan Zhaowang and Le Yi's anti-Qi coalition, and a source-scoped typology of ruler deaths by non-natural means.
 - [《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2）](sources/zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt.md) — 芮淇讲透资治通鉴 episode revisiting Song Kang Wang through omen-driven expansion, cruelty stories, Qi-led moralized war pretext, Teng's Confucian reputation cost, vanquished-ruler smear caution, and the linked-branch folklore afterlife.
 - [《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何](sources/zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Yique breakthrough, Qin's 294-290 BCE eastward pressure, Qin-Chu threat-marriage diplomacy, Wei Ran's resignation and return, Dingtao/Yuan territorial chronology, and Mang Mao's ambiguous persuasive reputation.
 - [《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（2）](sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg.md) — 芮淇讲透资治通鉴 episode completing the Shaqiu crisis: Zhao Zhang kills Fei Yi with a forged summons, Zhao He's side suppresses the coup, Zhao Zhang is killed, and Zhao Wuling Wang is starved after Zhao Cheng and Li Dui choose indirect elimination over direct regicide.
@@ -1078,6 +1079,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蒙敖 / Meng Ao](entities/MengAo.md) — Qin commander identified by the source as the correct 285 BCE general against Qi, replacing the chronicle's Meng Wu notice through a Shiji correction.
+- [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
+- [陈举 / Chen Ju (Qi Minister)](entities/ChenJuQiMinister.md) — Qi minister executed at the east gate after continuing to remonstrate against Qi Min Wang.
 - [滕国 / Teng State](entities/TengState.md) — Small Warring States polity destroyed by Song Kang Wang and framed as a Mencian benevolent-governance experiment whose fall intensified Confucian condemnation.
 - [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose Yique victory is read as terrain, enemy-incentive, and coalition-fracture analysis rather than mere bravery.
 - [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
@@ -7210,6 +7214,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where repeated victory inflates a ruler, exhausts support, kills corrective feedback, and invites coalition backlash.
+- [Ruler Non-Natural Death Typology / 帝王非命死法类型](concepts/RulerNonNaturalDeathTypology.md) — Source-scoped grouping of ruler deaths by poisoning, strangling, weapons, and starvation, used to preview Qi Min Wang's end.
 - [Moralized War Pretext / 道德化战争借口](concepts/MoralizedWarPretext.md) — Pattern where states convert a target ruler's cruelty reputation into public justification and coordination cover for war.
 - [Vanquished Ruler Reputation Construction / 亡国君污名建构](concepts/VanquishedRulerReputationConstruction.md) — Historiographical caution that defeated rulers' atrocity lists can preserve real violence while also reflecting later enemy, moral, or narrative amplification.
 - [Coalition Fracture Exploitation / 联盟裂缝利用](concepts/CoalitionFractureExploitation.md) — Battlefield pattern where a commander converts allied disunity into attack sequencing and separate defeat.

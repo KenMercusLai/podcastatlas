@@ -8492,6 +8492,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》69丨必看！古代帝王奇葩死法大盘点
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qi Min Wang's overreach after conquering Song, Qin's 285 BCE attack on Qi under Meng Ao, the executions of Hu Yan and Chen Ju, Yan Zhaowang and Le Yi's anti-Qi coalition design, and a source-scoped typology of non-natural ruler deaths. Created pages for Meng Ao, Hu Yan, Chen Ju, Victory Overreach Failure, and Ruler Non-Natural Death Typology; updated overview, index, Qi Min Wang, Yan Zhaowang, Le Yi, Qin Zhaoxiang Wang, Zhou Nan Wang, Common-Enemy Alliance, Court Feedback Collapse, Talent Attraction Through Respect, Responsibility-Avoidant Killing, Qi Huan Gong, and Zhao Wuling Wang. No direct contradiction found; the Meng Ao note is recorded as this source's correction to the chronicle's Meng Wu wording.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang trapping Chu Huaiwang at Wuguan, detaining him in Xianyang, demanding Wu Commandery and Qianzhong, Chu and Qi deciding whether Mi Heng can return to continue the Chu throne, and the setup for Mengchangjun entering Qin as chancellor. Created Zhao Ju, Mi Lan, and Wu Commandery; updated overview, index, Chu Huaiwang, Mi Heng, Qin Zhaoxiang Wang, Qi Min Wang, Mengchangjun, Qianzhong, Wuguan, Xianyang, Qu Yuan, Xuan Taihou, Qin/Chu/Qi/Zhou Nan Wang pages, and related hostage diplomacy, alliance switching, court feedback, marriage diplomacy, foreign-relative politics, and tactical credibility concepts. No direct contradiction found; the source extends the Zhouji 60-61 Qin-Chu hostage branch by making Chu Huaiwang himself Qin's bargaining leverage.
@@ -8615,3 +8619,7 @@ Added source page for a 芮淇讲透资治通鉴 episode revisiting Song Kang Wa
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran health before lint; health scanned 11,990 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,990 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges, while the current wiki has 11,990 linted pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider/API-key variables are present in the environment. A bounded in-session sample review found no direct contradictions and flagged three sampled concept pages without a `## Key Claims` section. Report returned in-session; `wiki/lint-report.md` was not saved.

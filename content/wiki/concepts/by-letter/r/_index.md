@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 4785
+wiki_total_pages: 4787
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "RuleShiftingMathematics"
     title: "Rule-Shifting Mathematics"
     url: "/wiki/concepts/ruleshiftingmathematics/"
+  - key: "RulerNonNaturalDeathTypology"
+    title: "Ruler Non-Natural Death Typology / 帝王非命死法类型"
+    url: "/wiki/concepts/rulernonnaturaldeathtypology/"
   - key: "RuminationVsReflection"
     title: "Rumination Vs Reflection"
     url: "/wiki/concepts/ruminationvsreflection/"

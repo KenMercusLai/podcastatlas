@@ -7975,6 +7975,10 @@
     "title": "陈经纬 / Chen Jingwei",
     "url": "/wiki/entities/chenjingwei/"
   },
+  "ChenJuQiMinister": {
+    "title": "陈举 / Chen Ju (Qi Minister)",
+    "url": "/wiki/entities/chenjuqiminister/"
+  },
   "ChenKaiCreo": {
     "title": "陈凯 / Chen Kai (Creo)",
     "url": "/wiki/entities/chenkaicreo/"
@@ -18903,6 +18907,10 @@
     "title": "胡适",
     "url": "/wiki/entities/hushi/"
   },
+  "HuYanQiMinister": {
+    "title": "胡衍 / Hu Yan (Qi Minister)",
+    "url": "/wiki/entities/huyanqiminister/"
+  },
   "Huainanzi": {
     "title": "Huainanzi / 《淮南子》",
     "url": "/wiki/entities/huainanzi/"
@@ -25998,6 +26006,10 @@
   "MenciusText": {
     "title": "《孟子》 / Mencius",
     "url": "/wiki/entities/menciustext/"
+  },
+  "MengAo": {
+    "title": "蒙敖 / Meng Ao",
+    "url": "/wiki/entities/mengao/"
   },
   "MengFanqing": {
     "title": "Meng Fanqing / 孟繁青",
@@ -34063,6 +34075,10 @@
     "title": "Rule-Shifting Mathematics",
     "url": "/wiki/concepts/ruleshiftingmathematics/"
   },
+  "RulerNonNaturalDeathTypology": {
+    "title": "Ruler Non-Natural Death Typology / 帝王非命死法类型",
+    "url": "/wiki/concepts/rulernonnaturaldeathtypology/"
+  },
   "RulinWaishi": {
     "title": "《儒林外史》",
     "url": "/wiki/entities/rulinwaishi/"
@@ -41003,6 +41019,10 @@
     "title": "Victorian Women Precarity",
     "url": "/wiki/concepts/victorianwomenprecarity/"
   },
+  "VictoryOverreachFailure": {
+    "title": "Victory Overreach Failure / 数胜必亡式胜利反噬",
+    "url": "/wiki/concepts/victoryoverreachfailure/"
+  },
   "VideoMembershipModel": {
     "title": "Video Membership Model",
     "url": "/wiki/concepts/videomembershipmodel/"
@@ -47934,5 +47954,9 @@
   "zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt": {
     "title": "《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt/"
+  },
+  "zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13": {
+    "title": "《资治通鉴·周纪》69丨必看！古代帝王奇葩死法大盘点",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13/"
   }
 }

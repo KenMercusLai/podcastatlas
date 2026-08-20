@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 4785
+wiki_total_pages: 4787
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "VictorianWomenPrecarity"
     title: "Victorian Women Precarity"
     url: "/wiki/concepts/victorianwomenprecarity/"
+  - key: "VictoryOverreachFailure"
+    title: "Victory Overreach Failure / 数胜必亡式胜利反噬"
+    url: "/wiki/concepts/victoryoverreachfailure/"
   - key: "VideoMembershipModel"
     title: "Video Membership Model"
     url: "/wiki/concepts/videomembershipmodel/"
