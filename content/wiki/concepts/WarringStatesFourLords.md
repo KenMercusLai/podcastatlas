@@ -2,7 +2,7 @@
 title: "战国四公子 / Warring States Four Lords"
 type: concept
 tags: [patronage, talent, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-20
 ---
 
@@ -12,6 +12,8 @@ last_updated: 2026-08-20
 
 In this source, the grouping is mainly a transition device. Mengchangjun supplies the immediate example and is judged sharply through [[WangAnshi|王安石]] and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]], while Pingyuanjun is previewed as the next figure to enter the show's narrative.
 
+[[zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5]] begins that Pingyuanjun side of the comparison. Pingyuanjun's household can gather a famous debater such as [[GongsunLong|公孙龙]], but the source tests patronage quality by asking whether a patron can distinguish clever verbal display from [[TruthSeekingDebateNorm|truth-serving argument]]. In this respect, Pingyuanjun's case extends the Mengchangjun critique from retainer rank and utility into intellectual judgment.
+
 The concept matters because it turns individual patronage anecdotes into a comparative field. Each lord's reputation will need to be tested against the same questions: Did the patron merely spend money and gather followers, or did the network produce usable judgment, public service, military leverage, or dangerous private power?
 
 ## Key Claims
@@ -19,9 +21,11 @@ The concept matters because it turns individual patronage anecdotes into a compa
 - The grouping should not automatically imply equal virtue, talent judgment, or political value across all four figures.
 - Mengchangjun's case creates the wiki's first explicit quality test for the group:养士 must be distinguished from识才.
 - The source uses the group to bridge from Mengchangjun to Pingyuanjun rather than to provide full biographies of all four.
+- Pingyuanjun's first developed case adds a second test: a patron must distinguish reasoned debate from [[MingjiaDisputation|名辩]] used as verbal domination.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[Xinlingjun|信陵君]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - the four named patrons.
 - [[WarringStatesRetainerPatronage|战国养士]] - shared practice behind the grouping.
 - [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Mengchangjun-specific quality critique that should caution later comparisons.
 - [[QiState|齐国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[ChuState|楚国]] - state anchors for the four figures.
+- [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 Pingyuanjun retainer-debate test.

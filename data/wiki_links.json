@@ -16775,6 +16775,10 @@
     "title": "公孙贾 / Gongsun Jia",
     "url": "/wiki/entities/gongsunjia/"
   },
+  "GongsunLong": {
+    "title": "公孙龙 / Gongsun Long",
+    "url": "/wiki/entities/gongsunlong/"
+  },
   "GongsunQi": {
     "title": "公孙齐 / Gongsun Qi",
     "url": "/wiki/entities/gongsunqi/"
@@ -22431,6 +22435,10 @@
     "title": "Kondratiev Cycle",
     "url": "/wiki/concepts/kondratievcycle/"
   },
+  "KongChuan": {
+    "title": "孔川 / Kong Chuan",
+    "url": "/wiki/entities/kongchuan/"
+  },
   "KongTao": {
     "title": "Kong Tao / 孔涛",
     "url": "/wiki/entities/kongtao/"
@@ -26486,6 +26494,10 @@
   "Minghao": {
     "title": "明浩",
     "url": "/wiki/entities/minghao/"
+  },
+  "MingjiaDisputation": {
+    "title": "名辩 / Mingjia Disputation",
+    "url": "/wiki/concepts/mingjiadisputation/"
   },
   "Mingwei": {
     "title": "Mingwei",
@@ -39931,6 +39943,10 @@
     "title": "Truth Against Absurd Power",
     "url": "/wiki/concepts/truthagainstabsurdpower/"
   },
+  "TruthSeekingDebateNorm": {
+    "title": "求明理的辩论规范 / Truth-Seeking Debate Norm",
+    "url": "/wiki/concepts/truthseekingdebatenorm/"
+  },
   "TruthSocial": {
     "title": "Truth Social",
     "url": "/wiki/entities/truthsocial/"
@@ -47794,5 +47810,9 @@
   "zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin": {
     "title": "《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin/"
+  },
+  "zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5": {
+    "title": "《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5/"
   }
 }

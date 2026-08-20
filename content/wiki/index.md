@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记](sources/zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5.md) — 芮淇讲透资治通鉴 episode on Pingyuanjun's retainer circle, Gongsun Long's "白马非马" and "臧三耳" style 名辩, and Kong Chuan/Zou Yan's critique that debate should serve truth and clear categories rather than verbal victory.
 - [《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？](sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin.md) — 芮淇讲透资治通鉴 episode on Mengchangjun's Qin imprisonment and chicken-crow/dog-theft escape, Wang Anshi's critique of indiscriminate retainer patronage, and Qin attacking Chu after Chu installs Mi Heng.
 - [《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊](sources/zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff.md) — 芮淇讲透资治通鉴 episode on Qin trapping Chu Huaiwang at Wuguan, detaining him in Xianyang, demanding Wu Commandery and Qianzhong, Chu and Qi managing Mi Heng's return, and the Mengchangjun Qin-chancellor setup.
 - [《资治通鉴·周纪》61丨谁是历史上胆儿最肥的帝王？](sources/zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1.md) — 芮淇讲透资治通鉴 episode on Zhao Wuling Wang abdicating to ten-year-old Zhao He, personally scouting Qin in disguise, planning a northern route around Hangu Pass toward Xianyang, and correcting Qi Xuan Wang and Qin chancellor chronology.
@@ -1072,6 +1073,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [公孙龙 / Gongsun Long](entities/GongsunLong.md) — Pingyuanjun's retainer and 名辩 figure associated here with "白马非马", "臧三耳", and verbal skill tested against truth-oriented debate.
+- [孔川 / Kong Chuan](entities/KongChuan.md) — Lu visitor and Confucius descendant who reframes losing the "臧三耳" exchange as a choice between difficult falsehood and easy truth.
 - [巫郡 / Wu Commandery](entities/WuJunWarringStates.md) — Chu region Qin demands alongside Qianzhong after detaining Chu Huaiwang in Xianyang.
 - [芈兰 / Mi Lan](entities/MiLan.md) — Chu Huaiwang's son whose Qin marriage tie leads him to favor the risky Wuguan meeting.
 - [昭雎 / Zhao Ju](entities/ZhaoJu.md) — Chu minister who warns Chu Huaiwang not to trust Qin and later argues against bypassing the trapped king and absent crown prince.
@@ -7182,6 +7185,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.
+- [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.
 - [鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique](concepts/JimingGoudaoTalentCritique.md) — Wang Anshi-based critique that tactical retainer tricks can save a patron without proving statecraft-level talent or good talent selection.
 - [战国四公子 / Warring States Four Lords](concepts/WarringStatesFourLords.md) — Comparative grouping of Mengchangjun, Xinlingjun, Pingyuanjun, and Chunshenjun as aristocratic retainer patrons.
 - [Warring States Alliance Switching / 战国同盟转向](concepts/WarringStatesAllianceSwitching.md) — Pattern where Qin's alignment flips from Chu to Han/Wei as court faction, returned land, hostage diplomacy, and attack timing shift.

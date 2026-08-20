@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 4778
+wiki_total_pages: 4780
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"

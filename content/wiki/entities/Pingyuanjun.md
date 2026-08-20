@@ -2,8 +2,8 @@
 title: "平原君 / Lord Pingyuan"
 type: entity
 tags: [person, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
+last_updated: 2026-08-20
 ---
 
 # 平原君 / Lord Pingyuan
@@ -14,8 +14,11 @@ That small hosting role matters because the insult triggers a disproportionate r
 
 [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] names Pingyuanjun as one of the [[WarringStatesFourLords|战国四公子]], alongside [[Mengchangjun|孟尝君 / 田文]], [[Xinlingjun|信陵君]], and [[Chunshenjun|春申君]]. The episode uses him as the next-episode bridge after criticizing Mengchangjun's retainer quality through [[WangAnshi|王安石]].
 
+[[zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5]] makes Pingyuanjun the central patron case. It identifies him as Zhao Sheng, a son of [[ZhaoWulingwang|赵武灵王]] and younger brother of [[ZhaoHe|赵何]], and says he likes gathering士, with thousands of people around him. His retainer [[GongsunLong|公孙龙]] is admired for [[MingjiaDisputation|名辩]], but [[KongChuan|孔川]] and [[ZouYan|邹衍]] push Pingyuanjun toward a different evaluation standard: verbal force is not enough if the argument does not serve [[TruthSeekingDebateNorm|truth-seeking debate]].
+
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]] - visiting lord hosted in Zhao.
 - [[ZhaoState|赵国]] - state setting for the ridicule and retaliatory violence.
 - [[WarringStatesRetainerPatronage|战国养士]] and [[AristocraticHonorOverLife|贵族名誉高于生命]] - concepts made visible by the episode's Zhao scene.
 - [[WarringStatesFourLords|战国四公子]], [[Xinlingjun|信陵君]], and [[Chunshenjun|春申君]] - Zhouji 63 four-lords comparison and next-episode setup.
+- [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 retainer-debate and argument-purpose branch.

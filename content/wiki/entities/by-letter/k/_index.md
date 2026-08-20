@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 6106
+wiki_total_pages: 6108
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "Karhide"
     title: "卡海德 / Karhide"
     url: "/wiki/entities/karhide/"
+  - key: "KongChuan"
+    title: "孔川 / Kong Chuan"
+    url: "/wiki/entities/kongchuan/"
   - key: "KongfuJia"
     title: "孔父嘉 / Kongfu Jia"
     url: "/wiki/entities/kongfujia/"

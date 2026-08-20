@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 4778
+wiki_total_pages: 4780
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"
+  - key: "MingjiaDisputation"
+    title: "名辩 / Mingjia Disputation"
+    url: "/wiki/concepts/mingjiadisputation/"
   - key: "MamaHui"
     title: "妈妈会 / Mama Hui"
     url: "/wiki/concepts/mamahui/"

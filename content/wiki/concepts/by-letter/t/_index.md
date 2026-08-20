@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4778
+wiki_total_pages: 4780
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "TangPoetryCulturalGeography"
     title: "唐诗文化地理 / Tang Poetry Cultural Geography"
     url: "/wiki/concepts/tangpoetryculturalgeography/"
+  - key: "TruthSeekingDebateNorm"
+    title: "求明理的辩论规范 / Truth-Seeking Debate Norm"
+    url: "/wiki/concepts/truthseekingdebatenorm/"
   - key: "TruthfulTemperamentInRedChamber"
     title: "红楼之真 / Truthful Temperament In Red Chamber"
     url: "/wiki/concepts/truthfultemperamentinredchamber/"

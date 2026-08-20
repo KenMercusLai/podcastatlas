@@ -8571,3 +8571,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Mengchangjun's Qin c
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记
+
+Added source page for a 芮淇讲透资治通鉴 episode closing 周纪三 through Pingyuanjun's retainer circle and Gongsun Long's 名辩 reputation. Created pages for Gongsun Long, Kong Chuan, Mingjia Disputation, and Truth-Seeking Debate Norm; updated overview, index, Pingyuanjun, Zou Yan, Zhou Nan Wang, Warring States Retainer Patronage, and Warring States Four Lords. No direct contradiction found; the source extends Zhouji 63's retainer-quality critique from Mengchangjun's practical helpers to Pingyuanjun's verbal specialist, and records Kong Chuan/Zou Yan's distinction between truth-serving debate and verbal victory.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
