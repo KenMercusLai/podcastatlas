@@ -8547,3 +8547,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》61丨谁是历史上胆儿最肥的帝王？
+
+Added source page for a 芮淇讲透资治通鉴 episode covering Zhou Nan Wang years 14-16, Qin/Chu/Zhao/Qi events from 301-299 BCE, Zhao Wuling Wang's abdication to Zhao He, his disguised scouting mission to Qin, and his planned northern route around Hangu Pass toward Xianyang. Updated overview, index, Zhao Wuling Wang, Zhao He, Qin Zhaoxiang Wang, Chu Huaiwang, Mi Heng, Qi Xuan Wang, Qi Min Wang, Fei Yi, Wei Ran, Mengchangjun, Lou Huan, Chulizi, Zhou Nan Wang, Hangu Pass, Xianyang, Affection-Driven Succession Risk, Power Exit Trap, Warring States Military Transformation, and Chronicle Chronology Drift. Flagged two source-critical corrections: Qi Xuan Wang's death belongs in 301 BCE rather than the earlier Zhouji 49 placement, and the Qin chancellor sequence after Chulizi should follow the Shiji-backed Wei Ran, Mengchangjun, Lou Huan, Wei Ran order rather than immediate Lou Huan succession.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

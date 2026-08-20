@@ -2,7 +2,7 @@
 title: "赵武灵王 / King Wuling of Zhao"
 type: entity
 tags: [person, ruler, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
 last_updated: 2026-08-20
 ---
 
@@ -28,6 +28,10 @@ The same episode makes his uncle [[ZhaoChengWarringStates|赵成]] the first nam
 
 [[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] gives the reform branch an immediate campaign payoff. In 305 BCE, Zhao Wuling Wang attacks [[ZhongshanState|中山国]], takes Danchiu, Huayang, Chizhisae, Haocheng, Shiyi, Fenglong, and Dongyuan, and forces Zhongshan to cede four cities to seek peace. The source does not narrate the fighting in detail, but it makes the earlier [[HufuQishe|胡服骑射]] logic concrete: Zhao's reform and northern strategy now produce territorial pressure against Zhongshan.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] turns the earlier succession foreshadow into an institutional act. In 299 BCE, when he is forty-one, Zhao Wuling Wang gives the throne to ten-year-old [[ZhaoHe|赵何]], appoints [[FeiYi|肥义]] as chancellor, and calls himself主父 so that the new ruler handles government while he concentrates on military affairs. The source reads this as both bold and dangerous: it gives him freedom to plan against [[QinState|秦国]], but it also converts [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] into a divided power structure.
+
+The same episode makes him personally audacious. Zhao Wuling Wang disguises himself as a Zhao envoy, enters Qin, observes Qin's terrain and [[QinZhaoxiangwang|秦昭襄王]], then escapes before Qin can detain him. His larger plan is to bypass [[HanguPass|函谷关]] by moving from Yunzhong and Jiuyuan south toward [[Xianyang|咸阳]], making his post-abdication role a case where [[WarringStatesMilitaryTransformation|military transformation]] includes route imagination, reconnaissance, and ruler-level operational attention, not only cavalry reform.
+
 ## Connections
 - [[ZhaoState|赵国]] - polity he inherits.
 - [[ZhaoSuhou|赵肃侯]] - predecessor and father in the episode's succession frame.
@@ -39,3 +43,4 @@ The same episode makes his uncle [[ZhaoChengWarringStates|赵成]] the first nam
 - [[WuWa|吴娃]], [[ZhaoHe|赵何]], [[ZhaoZhang|赵章]], and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 57 marriage and succession foreshadowing.
 - [[ZhaoChengWarringStates|赵成]], [[ZhaoGuWarringStates|赵固]], and [[WarringStatesReformBacklash|战国变法反噬]] - Zhouji 58-59 family compliance, aristocratic resistance, frontier administration, and Hu recruitment.
 - [[ZhongshanState|中山国]] and [[HufuQishe|胡服骑射]] - Zhouji 60 campaign result after reform implementation.
+- [[QinZhaoxiangwang|秦昭襄王]], [[HanguPass|函谷关]], [[Xianyang|咸阳]], [[PowerExitTrap|权力退场困境]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Zhouji 61 abdication, disguised Qin reconnaissance, and northern-route anti-Qin plan.

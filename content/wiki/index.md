@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》61丨谁是历史上胆儿最肥的帝王？](sources/zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1.md) — 芮淇讲透资治通鉴 episode on Zhao Wuling Wang abdicating to ten-year-old Zhao He, personally scouting Qin in disguise, planning a northern route around Hangu Pass toward Xianyang, and correcting Qi Xuan Wang and Qin chancellor chronology.
 - [《资治通鉴·周纪》60丨 中国第一位把持朝政的太后竟是她？](sources/zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc.md) — 芮淇讲透资治通鉴 episode on Xuan Taihou and Wei Ran consolidating early Qin Zhaoxiang Wang politics, Qin-Chu marriage repair, Qin pressure on Han/Wei, and the Mi Heng hostage incident that flips Qin back toward Han and Wei against Chu.
 - [《资治通鉴·周纪》59丨一朝君王一朝臣](sources/zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh.md) — 芮淇讲透资治通鉴 episode completing Zhao Cheng's conversion to Hu Fu Qi She, showing Zhao's northern expansion and Hu recruitment, and tracing Gan Mao's loss of security under Qin Zhaoxiang Wang after the Yiyang-Wusui settlement.
 - [《资治通鉴·周纪》58丨赵武灵王如何打造强国](sources/zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz.md) — 芮淇讲透资治通鉴 episode completing Gan Mao's Yiyang campaign, Qin Wuwang's death and Qin Zhaoxiang Wang's succession, and Zhao Wuling Wang's Hu Fu Qi She reform against aristocratic ritual resistance.

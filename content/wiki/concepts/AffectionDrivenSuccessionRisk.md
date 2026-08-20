@@ -2,7 +2,7 @@
 title: "Affection-Driven Succession Risk / 宠爱驱动的立储风险"
 type: concept
 tags: [succession, governance, family-politics, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-20
 ---
 
@@ -14,14 +14,19 @@ The concept is not the same as [[SuccessionNonDesignationRisk|未定继承人风
 
 The source is still a setup rather than the full Zhao succession narrative. It marks the future problem because the host explicitly says Zhao Wuling Wang is otherwise a major ruler but makes a fatal mistake in succession and eventually dies by starvation.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] turns the setup into action. In 299 BCE, [[ZhaoWulingwang|赵武灵王]] transfers the throne to ten-year-old Zhao He while he is still alive and able to command. [[FeiYi|肥义]] becomes chancellor, and Zhao Wuling Wang calls himself主父 so he can step away from routine government and focus on military expansion.
+
+The episode makes the risk more precise: the problem is not simply that a younger beloved son is chosen. It is that the ruler keeps enough authority to pursue a separate military agenda while the child king and his adult chancellor occupy the formal court center. The source therefore links affection-driven succession to [[PowerExitTrap|权力退场困境]] and to the later Shaqiu disaster.
+
 ## Key Claims
 - Ruler affection can become a succession force when it changes which child is politically favored.
 - A younger favored-son branch can destabilize an elder legitimate-son branch even before the formal conflict is narrated.
 - The risk differs from mere non-designation: the ruler may act, but the action can still leave rival claims alive.
 - Family order, court alignment, and state stability become inseparable when succession is personalized.
+- Abdicating in favor of a beloved child does not dissolve the risk if the former ruler keeps separate military authority and the displaced branch remains politically meaningful.
 
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]], [[WuWa|吴娃]], [[ZhaoHe|赵何]], and [[ZhaoZhang|赵章]] - source case.
+- [[FeiYi|肥义]] and [[PowerExitTrap|权力退场困境]] - Zhouji 61 chancellor appointment and divided authority after abdication.
 - [[ZhaoState|赵国]] - polity exposed by the succession setup.
 - [[AutocraticSuccession]], [[SuccessionNonDesignationRisk]], and [[BirthTabooSuccessionExclusion]] - adjacent succession-risk concepts.
-

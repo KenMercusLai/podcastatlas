@@ -2,7 +2,7 @@
 title: "肥义 / Fei Yi"
 type: entity
 tags: [person, minister, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
 last_updated: 2026-08-20
 ---
 
@@ -14,9 +14,12 @@ The episode reads this as a political signal. Honoring Fei Yi tells old minister
 
 [[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] makes Fei Yi part of that later policy moment. Zhao Wuling Wang discusses [[HufuQishe|胡服骑射]] with him at Huanghua Mountain while planning to take [[ZhongshanState|中山国]] and northern Hu land, turning Fei Yi from honored old minister into a listener at the reform's strategic launch.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] gives Fei Yi a governing role in the succession arrangement. When Zhao Wuling Wang transfers the throne to ten-year-old [[ZhaoHe|赵何]] in 299 BCE, Fei Yi is appointed chancellor. His page therefore connects Zhao Wuling Wang's early respect for an old minister to the later need for an experienced adult official around a child ruler.
+
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] - new ruler who honors him.
 - [[ZhaoSuhou|赵肃侯]] - previous ruler he served.
 - [[ZhaoState|赵国]] - state setting.
 - [[NewRulerReformSignaling|新君改革铺垫信号]] - concept built from the episode's interpretation of the visit and salary increase.
 - [[HufuQishe|胡服骑射]], [[ZhongshanState|中山国]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Zhouji 58 reform-discussion branch.
+- [[ZhaoHe|赵何]] and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 61 child-ruler succession arrangement.

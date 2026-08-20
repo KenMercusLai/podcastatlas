@@ -2,7 +2,7 @@
 title: "楚怀王 / King Huai of Chu"
 type: entity
 tags: [person, ruler, pre-qin, warring-states, chu-state]
-sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
 last_updated: 2026-08-20
 ---
 
@@ -28,6 +28,8 @@ The source treats the notice as a preview rather than a developed biography. It 
 
 [[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] makes Chu Huai Wang a temporary Qin ally. He meets [[QinZhaoxiangwang|秦昭襄王]] at [[Huangji|黄棘]] in 304 BCE and receives [[Shangyong|上庸]] back from Qin. When [[QiState|齐国]], [[HanState|韩国]], and [[WeiState|魏国]] punish Chu for abandoning the north-south [[HezongAlliance|合纵]] line, he sends crown prince [[MiHeng|芈横]] to Qin as hostage and receives Qin rescue through [[KeqingTong|客卿通]]. The later Mi Heng killing and escape turns Chu Huai Wang's Qin alignment into a new Qin grievance.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] carries that grievance into open pressure. After Mi Heng's killing and escape, Qin joins Han, Wei, and Qi against Chu at Chongqiu, where Chu is defeated and Tang Mei is killed. In 300 BCE Qin's Mi Rong attacks Chu again, kills Jing Que, and takes Xiangcheng; Chu Huai Wang then sends Mi Heng to [[QiState|齐国]] as hostage to seek peace. The source therefore shows Chu Huai Wang relying on hostage diplomacy again even after the previous hostage arrangement helped rupture Qin-Chu relations.
+
 ## Connections
 - [[ChuState|楚国]] - polity he rules after the succession.
 - [[ChuWeiwang|楚威王]] - predecessor and father in the source notice.
@@ -41,3 +43,4 @@ The source treats the notice as a preview rather than a developed biography. It 
 - [[ZhangYiStrategist|张仪]] - Zhouji 52 closing hook around Zhang Yi entering Chu despite Chu Huai Wang's hatred.
 - [[ZhengXiu|郑袖]], [[Qianzhong|黔中]], [[Shangyong|上庸]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 prison, release, and face-saving diplomatic exit branch.
 - [[QinZhaoxiangwang|秦昭襄王]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[KeqingTong|客卿通]], [[HostageDiplomacyRupture|质子外交破裂]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 alliance repair, hostage rescue, and Qin-Chu rupture.
+- [[QiState|齐国]], [[HanState|韩国]], [[WeiState|魏国]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 61 post-rupture pressure and second Mi Heng hostage branch.

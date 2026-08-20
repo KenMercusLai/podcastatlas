@@ -2,7 +2,7 @@
 title: "Chronicle Chronology Drift / 编年错位"
 type: concept
 tags: [historiography, source-criticism, chinese-history, chronology]
-sources: [zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
 last_updated: 2026-08-20
 ---
 
@@ -36,6 +36,8 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 
 [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds a Qi Xuan Wang death-notice case. The episode says the received record places [[QiXuanWang|齐宣王]]'s death and [[QiMinWang|田地 / 齐湣王]]'s succession in the current year, but the host flags it as wrong by about twelve years. The useful rule is the same as earlier Qi cases: preserve the notice and the warning, but do not silently fold it into a clean chronology.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] supplies the later placement for that Qi notice and adds a Qin-office correction. In its 301 BCE frame, [[QiXuanWang|齐宣王]] dies and [[QiMinWang|齐湣王]] succeeds, clarifying the earlier death/accession notice as too early. The same episode also says the Tongjian note that [[LouHuan|楼缓]] immediately replaces [[Chulizi|樗里疾 / 樗里子]] as Qin chancellor is probably wrong; following [[Shiji|《史记》]], it sequences [[WeiRan|魏冉]], [[Mengchangjun|孟尝君 / 田文]], Lou Huan, and Wei Ran across 300-295 BCE.
+
 ## Key Claims
 - A chronicle can preserve a real story while placing it in a doubtful year.
 - Later compilers can inherit errors when their available base sources are already unstable.
@@ -49,6 +51,8 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 - Adjacent episodes can preserve different ruler layers for the same strategy sequence; source-scoped notation prevents those layers from collapsing into a false single chronology.
 - A death/accession notice can be useful as received tradition while still being explicitly marked as too early.
 - A later episode can re-anchor a previously imported supplement without making the earlier source note useless.
+- A later annalistic continuation can turn an earlier "too early" warning into a more usable placement while still keeping the earlier page as evidence of source drift.
+- Office-succession notices can drift just like ruler chronologies, especially when parallel sources such as Shiji preserve a different ministerial sequence.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], and [[Shiji|《史记》]] - chronicle, compiler, and inherited-source frame.
@@ -59,4 +63,5 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 - [[QiXuanWang|齐宣王]], [[WeiXiangwang|魏襄王]], and [[SelfPreservationAsStateStrategy|以自保包装国策]] - Zhouji 55 clearer post-Qin-Huiwen-Wang version of the older supplement.
 - [[YingSi|秦惠文王]], [[ZhangYiStrategist|张仪]], and [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]] - Zhouji 39 adjacent ruler-layer contrast.
 - [[QiXuanWang|齐宣王]], [[QiMinWang|齐湣王]], and [[QiChronologyDispute|齐威王编年争议]] - Zhouji 49 death/accession placement warning.
+- [[Chulizi|樗里疾 / 樗里子]], [[WeiRan|魏冉]], [[Mengchangjun|孟尝君 / 田文]], and [[LouHuan|楼缓]] - Zhouji 61 Qin chancellor-sequence correction.
 - [[WarringStatesPeriod|战国时期]] - period whose record instability motivates the concept.

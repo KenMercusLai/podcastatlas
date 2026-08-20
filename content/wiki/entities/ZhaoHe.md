@@ -2,7 +2,7 @@
 title: "赵何 / Zhao He"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-20
 ---
 
@@ -12,9 +12,13 @@ last_updated: 2026-08-20
 
 The page is source-scoped because the episode is setting up a future conflict rather than resolving it. Zhao He matters here as the child through whom affection, maternal favor, and succession order begin to diverge.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] makes that divergence formal. In 299 BCE, Zhao Wuling Wang transfers the throne to Zhao He when Zhao He is only ten. After Zhao He worships at the ancestral temple, the court recognizes him as ruler and [[FeiYi|肥义]] becomes chancellor, while Zhao Wuling Wang remains active as主父.
+
+For this page, the source matters less as a biography of Zhao He's own choices than as the moment when a favored child becomes the public center of [[ZhaoState|赵国]] rule. It turns [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] from foreshadowing into state structure.
+
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] and [[WuWa|吴娃]] - parents in the source's setup.
 - [[ZhaoZhang|赵章]] - elder son whose position is put at risk.
 - [[ZhaoState|赵国]] - polity whose succession will be affected.
 - [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] and [[AutocraticSuccession]] - governing concepts for the source's foreshadowing.
-
+- [[FeiYi|肥义]] - chancellor appointed when Zhao He becomes ruler in Zhouji 61.

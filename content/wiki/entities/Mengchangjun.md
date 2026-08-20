@@ -2,8 +2,8 @@
 title: "孟尝君 / Tian Wen"
 type: entity
 tags: [person, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+last_updated: 2026-08-20
 ---
 
 # 孟尝君 / Tian Wen
@@ -32,6 +32,8 @@ The same source adds a [[Zhanguoce|《战国策》]] story in which one retainer
 
 [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] adds a compact diplomatic role in the failed 318 BCE anti-Qin campaign. [[QiState|齐国]] says it will support the five-state attack on [[QinState|秦国]], but Tian Wen's strategy is to make the Qi army move as slowly as possible. The episode uses this as part of [[CoalitionSelfPreservationFailure|联盟自保失灵]]: formal alliance support can coexist with self-preserving delay.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] adds a later source-critical office notice. While correcting the Qin chancellor sequence after [[Chulizi|樗里疾 / 樗里子]]'s death, the episode says [[Shiji|《史记》]] places Mengchangjun Tian Wen as Qin chancellor in 298 BCE, after [[WeiRan|魏冉]] and before [[LouHuan|楼缓]]. This page keeps the notice as chronology correction rather than expanding it into a full Qin career narrative.
+
 ## Connections
 - [[TianYing|田婴]] - father, gatekeeper to recognition, and source of the household office that lets Tian Wen build reputation.
 - [[QiState|齐国]] and [[TianFamilyReplacementOfQi|田氏代齐]] - dynastic and state context.
@@ -42,3 +44,4 @@ The same source adds a [[Zhanguoce|《战国策》]] story in which one retainer
 - [[SimaGuang|司马光]], [[GongsunXu|公孙须]], [[DengTuzhi|邓图直]], and [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - Zhouji 42 criticism and advice-taking branch.
 - [[TianWenWeiChancellor|田文 / Tian Wen (Wei chancellor)]] - disambiguation from an earlier different Tian Wen.
 - [[QinState|秦国]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 slow-support role in the five-state attack.
+- [[WeiRan|魏冉]], [[LouHuan|楼缓]], [[Chulizi|樗里疾 / 樗里子]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 Qin chancellor-sequence correction.

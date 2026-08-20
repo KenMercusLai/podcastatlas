@@ -2,7 +2,7 @@
 title: "樗里子 / Chulizi"
 type: entity
 tags: [person, qin, pre-qin, warring-states, military]
-sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]
+sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,8 @@ In this wiki branch, Chulizi connects the collapse of [[HezongAlliance|合纵]] 
 
 [[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] makes the same factional pressure succeed only after the succession environment changes. Once Qin Wuwang is dead and [[QinZhaoxiangwang|秦昭襄王]] is in place, Chulizi's side squeezes [[GanMao|甘茂]] enough that Gan Mao flees when the army reaches Puban. Chulizi cannot continue the campaign alone, so he negotiates peace and withdraws.
 
+[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] adds a death-and-succession correction. The episode says the Tongjian notice has [[LouHuan|楼缓]] replacing Chulizi as Qin chancellor after Chulizi dies, but treats that as likely wrong. It follows [[Shiji|《史记》]] by placing [[WeiRan|魏冉]] first, then [[Mengchangjun|孟尝君 / 田文]], then Lou Huan, then Wei Ran again. Chulizi therefore becomes another node in the wiki's [[ChronicleChronologyDrift|编年错位]] guardrail.
+
 ## Key Claims
 - Chulizi is presented as a Qin royal-family commander and strategist.
 - His 317 BCE command turns the failed Hangu Pass coalition into a Qin counteroffensive.
@@ -30,6 +32,7 @@ In this wiki branch, Chulizi connects the collapse of [[HezongAlliance|合纵]] 
 - Zhouji 57 adds Chulizi as Qin's first right chancellor and as a court actor whose future criticism Gan Mao anticipates before the Yiyang campaign.
 - Zhouji 58 shows Chulizi's pressure becoming real but not sufficient to overturn the oath-bound campaign commitment.
 - Zhouji 59 shows Chulizi's pressure becoming effective after Qin's succession shift, but also shows his limits when Gan Mao flees and the army cannot continue.
+- Zhouji 61 marks the reported posthumous chancellor succession as source-critical: Lou Huan's immediate succession is doubtful, and the Shiji-backed sequence begins with Wei Ran.
 
 ## Connections
 - [[QinState|秦国]], [[YingSi|秦惠文王]], and [[QinEastwardPressure|秦国东进压力]] - polity, ruler connection, and pressure pattern.
@@ -38,3 +41,4 @@ In this wiki branch, Chulizi connects the collapse of [[HezongAlliance|合纵]] 
 - [[HezongAlliance|合纵]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[HanguPass|函谷关]] - immediate background to the Qin pursuit.
 - [[QinWuwang|秦武王]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], [[ChancellorCenteredGovernance|宰相中心治理]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - Zhouji 57 chancellor and campaign-pressure branch.
 - [[QinZhaoxiangwang|秦昭襄王]], [[PatronSuccessionExposure|靠山更替暴露风险]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 59 post-succession pressure and withdrawal branch.
+- [[WeiRan|魏冉]], [[Mengchangjun|孟尝君 / 田文]], [[LouHuan|楼缓]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 post-Chulizi chancellor-sequence correction.
