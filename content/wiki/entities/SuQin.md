@@ -2,8 +2,8 @@
 title: "苏秦 / Su Qin"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+last_updated: 2026-08-20
 ---
 
 # 苏秦 / Su Qin
@@ -36,6 +36,8 @@ That makes Su Qin the source's main case for [[FailureDrivenSelfStudy|失败后�
 
 The episode also places Su Qin inside a strategist family and rivalry network. [[SuDai|苏代]] and [[SuLi|苏厉]] are named as famous brothers, while [[ZhangYiStrategist|张仪]] is treated as his fellow [[Guiguzi|鬼谷子]] student and eventual counterpart in [[ZonghengjiaDiplomacy|纵横家外交]].
 
+[[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] reassesses Su Qin after Zhang Yi's death branch. The host argues that Su Qin's persistence through failure and his consistent attachment to [[HezongAlliance|合纵]] can be read as a kind of steadiness under the [[MencianGreatManCriterion|大丈夫标准]], but the [[YangXiong|扬雄]] / [[Fayan|《法言》]] passage then undercuts praise by asking whether his diplomacy was guided by public rescue or by wealth and rank. Su Qin therefore becomes a central test case for [[MotiveBasedTalentEvaluation|动机导向的才干评价]]: skill, resilience, and influence are not enough to settle moral legitimacy.
+
 ## Connections
 - [[YinfuJing|《阴符》]], [[ChuaimoTechnique|揣摩]], [[YanWengong|燕文公]], [[YanState|燕国]], [[ZhaoState|赵国]], [[ZhaoSuhou|赵肃侯]], [[YingSi|秦惠文王]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30-31 study, patronage, Zhao mandate, and alliance-logic branch.
 - [[ZhangYiStrategist|张仪]] and [[LianhengStrategy|连横]] - paired Warring States strategist, fellow student, later rival, and Qin-side path Su Qin helps trigger.
@@ -43,6 +45,7 @@ The episode also places Su Qin inside a strategist family and rivalry network. [
 - [[QiState|齐国]], [[YanState|燕国]], [[Shiji|《史记》]], [[IdiomOriginSkepticism|典故来源辨伪]], and [[HistoricalDetectiveReasoning]] - Zhouji 46 assassination, deathbed trap, and "二百五" origin-skepticism branch.
 - [[Guiguzi|鬼谷子]], [[SuDai|苏代]], and [[SuLi|苏厉]] - teacher tradition and family branch.
 - [[HezongAlliance|合纵]] and [[ZonghengjiaDiplomacy|纵横家外交]] - policy and diplomatic field attached to him.
+- [[MencianGreatManCriterion|孟子大丈夫标准]], [[YangXiong|扬雄]], [[Fayan|《法言》]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 moral reassessment of Su Qin's resilience, motive, and talent.
 - [[DignityBasedPersuasion|尊严激将式说服]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 audience-specific persuasion, military, and Qi-capital branches.
 - [[QianjuHougongReversal|前倨后恭]], [[FailureDrivenSelfStudy|失败后的自学翻身]], [[InspirationalNarrativeCommercialization|励志叙事商业化]], [[ClassMobilityPerformance|阶层上升表演]], and [[SubjectivityThroughFailure|失败中的主体性]] - life-story, status-reversal, and reception frames.
 - [[Shiji|《史记》]], [[SimaQian|司马迁]], [[SimaGuang|司马光]], [[WuZhicai|吾之才]], and [[ZhuFuYan|主父偃]] - classical biography and later consolation branch.

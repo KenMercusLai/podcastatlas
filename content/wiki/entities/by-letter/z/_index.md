@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6069
+wiki_total_pages: 6074
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "ZhouXianwang"
     title: "周显王 / King Xian of Zhou"
     url: "/wiki/entities/zhouxianwang/"
+  - key: "ZhouZui"
+    title: "周最 / Zhou Zui"
+    url: "/wiki/entities/zhouzui/"
   - key: "ZhouYuan"
     title: "周源 / Zhou Yuan"
     url: "/wiki/entities/zhouyuan/"
@@ -335,6 +338,9 @@ wiki_pages:
   - key: "Zisi"
     title: "子思 / Zisi"
     url: "/wiki/entities/zisi/"
+  - key: "Zigong"
+    title: "子贡 / Zigong / Duanmu Ci"
+    url: "/wiki/entities/zigong/"
   - key: "ZiyangZheng"
     title: "子阳 / Ziyang of Zheng"
     url: "/wiki/entities/ziyangzheng/"

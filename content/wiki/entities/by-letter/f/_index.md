@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6069
+wiki_total_pages: 6074
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "FashionVictimsBook"
     title: "《时尚受害者》 / Fashion Victims"
     url: "/wiki/entities/fashionvictimsbook/"
+  - key: "Fayan"
+    title: "《法言》 / Fayan"
+    url: "/wiki/entities/fayan/"
   - key: "FengkuangShiyanShi"
     title: "《疯狂实验史》"
     url: "/wiki/entities/fengkuangshiyanshi/"

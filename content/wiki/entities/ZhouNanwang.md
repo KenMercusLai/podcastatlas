@@ -2,7 +2,7 @@
 title: "周赧王 / Zhou Nan Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -24,6 +24,8 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 
 [[zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]] continues Zhou Nan Wang's fourth-year frame in 311 BCE. The Zhou king remains annalistic backdrop while Zhang Yi tours Han, Qi, Zhao, and Yan for Qin, and while [[YingSi|秦惠文王]]'s death shifts the branch toward [[QinWuwang|秦武王]] and Zhang Yi's [[PatronSuccessionExposure|靠山更替暴露风险]].
 
+[[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] places the ethical reassessment of persuaders in Zhou Nan Wang's fifth year, 310 BCE. The Zhou king again remains chronological frame while the episode moves from [[ZhangYiStrategist|张仪]]'s completed career to [[Mengzi|孟子 / Mencius]]'s [[MencianGreatManCriterion|大丈夫标准]] and [[YangXiong|扬雄]]'s critique of zonghengjia motive.
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
@@ -35,3 +37,4 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 - [[HanXuanhuiwang|韩宣惠王 / 韩惠王]], [[HanXiangwang|韩襄王]], [[ChenZhuangWarringStates|陈庄]], and [[ShuStateWarringStates|蜀国]] - Zhouji 52 fourth-year succession and rebellion branch.
 - [[Qianzhong|黔中]], [[ZhengXiu|郑袖]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 Qin-Chu exchange and Zhang Yi survival branch.
 - [[HanXiangwang|韩襄王]], [[QiXuanWang|齐宣王]], [[ZhaoWulingwang|赵武灵王]], [[YanZhaowang|燕昭王]], [[QinWuwang|秦武王]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 fourth-year lobbying and succession-risk branch.
+- [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], [[GongsunYan|犀首公孙衍]], [[MencianGreatManCriterion|孟子大丈夫标准]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 fifth-year zonghengjia reassessment.

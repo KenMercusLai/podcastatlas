@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 4765
+wiki_total_pages: 4767
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "MencianBenevolentGovernment"
     title: "Mencian Benevolent Government / 孟子仁政"
     url: "/wiki/concepts/mencianbenevolentgovernment/"
+  - key: "MencianGreatManCriterion"
+    title: "Mencian Great-Man Criterion / 孟子大丈夫标准"
+    url: "/wiki/concepts/menciangreatmancriterion/"
   - key: "MencianIdealismLimits"
     title: "Mencian Idealism Limits / 孟子理想主义的限度"
     url: "/wiki/concepts/mencianidealismlimits/"
@@ -734,6 +737,9 @@ wiki_pages:
   - key: "MotivationCrowdingOut"
     title: "Motivation Crowding Out / 动机挤出"
     url: "/wiki/concepts/motivationcrowdingout/"
+  - key: "MotiveBasedTalentEvaluation"
+    title: "Motive-Based Talent Evaluation / 动机导向的才干评价"
+    url: "/wiki/concepts/motivebasedtalentevaluation/"
   - key: "MSPChannelDistribution"
     title: "MSP Channel Distribution"
     url: "/wiki/concepts/mspchanneldistribution/"

@@ -8480,6 +8480,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫
+
+Added source page for a 芮淇讲透资治通鉴 episode reassessing Zhang Yi, Su Qin, Gongsun Yan, and the wider zonghengjia field through Mencius's "大丈夫" standard and Yang Xiong's Fayan critique. Created pages for Yang Xiong, Fayan, Zigong, Zhou Zui, Lou Huan, Mencian Great-Man Criterion, and Motive-Based Talent Evaluation; updated overview, index, Zhang Yi, Su Qin, Gongsun Yan, Mencius, MenciusText, Guiguzi, Su Dai, Su Li, Zhou Nan Wang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Zonghengjia Diplomacy, and Talent-Virtue Distinction. No direct contradiction found; the source adds an evaluative tension between resilience/consistency and motive-based moral approval.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》54丨我尊你是王，你当我是屁
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zhang Yi's post-Chu lobbying tour through Han, Qi, Zhao, and Yan, using state-specific encirclement threats to push rulers toward Qin-facing lianheng, and closing with Qin Huiwen Wang's death and Qin Wuwang's accession. Created pages for Encirclement Threat Persuasion and Patron Succession Exposure; updated overview, index, Zhang Yi, Ying Si, Qin Wuwang, Han Xiang Wang, Qi Xuan Wang, Zhao Wuling Wang, Yan Zhaowang, Zhou Nan Wang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Qin/Han/Qi/Zhao/Yan state pages, Yiyang, and related lianheng/hezong/zongheng/career-mobility concepts. No direct contradiction found; the source clarifies the Qin Wuwang/Zhang Yi succession-risk branch while keeping the older Zhouji 38 supplement as a chronology-drift warning.
@@ -8503,6 +8507,10 @@ Ran health before lint; health scanned 11,888 wiki pages and found no empty/stub
 ## [2026-08-20] ingest | 《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Zhang Yi's final Yan persuasion, Qin Huiwen Wang's death, Qin Wuwang's hostile succession environment, Zhang Yi's self-preserving exit to Wei, the induced Qi-Wei conflict, and Qi's withdrawal after the plan is disclosed. Created Self-Preservation as State Strategy and Sanchuan; updated overview, index, Zhang Yi, Ying Si, Qin Wuwang, Qin/Yan/Wei/Qi state pages, Yan Zhaowang, Wei Xiang Wang, Qi Xuan Wang, Xianyang, Zizhi Tongjian, Zhanguo Ce, Shiji, Ruiqi Jiangtou Zizhi Tongjian, Zhou Royal House, and related lianheng/hezong/zongheng/succession/exit concepts. No direct contradiction found; episode 55 clarifies the older Zhouji 38 supplement as source-layer chronology drift rather than a separate settled timeline.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 

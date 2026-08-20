@@ -14247,6 +14247,10 @@
     "title": "《讨好反应》 / Fawning",
     "url": "/wiki/entities/fawning/"
   },
+  "Fayan": {
+    "title": "《法言》 / Fayan",
+    "url": "/wiki/entities/fayan/"
+  },
   "FeatherlessAI": {
     "title": "Featherless AI",
     "url": "/wiki/entities/featherlessai/"
@@ -24175,6 +24179,10 @@
     "title": "Lotus Racing",
     "url": "/wiki/entities/lotusracing/"
   },
+  "LouHuan": {
+    "title": "楼缓 / Lou Huan",
+    "url": "/wiki/entities/louhuan/"
+  },
   "LouisHong": {
     "title": "Louis Hong / 洪力德",
     "url": "/wiki/entities/louishong/"
@@ -25851,6 +25859,10 @@
     "title": "Mencian Benevolent Government / 孟子仁政",
     "url": "/wiki/concepts/mencianbenevolentgovernment/"
   },
+  "MencianGreatManCriterion": {
+    "title": "Mencian Great-Man Criterion / 孟子大丈夫标准",
+    "url": "/wiki/concepts/menciangreatmancriterion/"
+  },
   "MencianIdealismLimits": {
     "title": "Mencian Idealism Limits / 孟子理想主义的限度",
     "url": "/wiki/concepts/mencianidealismlimits/"
@@ -27006,6 +27018,10 @@
   "MotivationCrowdingOut": {
     "title": "Motivation Crowding Out / 动机挤出",
     "url": "/wiki/concepts/motivationcrowdingout/"
+  },
+  "MotiveBasedTalentEvaluation": {
+    "title": "Motive-Based Talent Evaluation / 动机导向的才干评价",
+    "url": "/wiki/concepts/motivebasedtalentevaluation/"
   },
   "Motorola": {
     "title": "Motorola",
@@ -43039,6 +43055,10 @@
     "title": "杨小华 / Yang Xiaohua (Skier)",
     "url": "/wiki/entities/yangxiaohuaskier/"
   },
+  "YangXiong": {
+    "title": "扬雄 / Yang Xiong",
+    "url": "/wiki/entities/yangxiong/"
+  },
   "YangYi": {
     "title": "杨一 / Yang Yi",
     "url": "/wiki/entities/yangyi/"
@@ -44275,6 +44295,10 @@
     "title": "周源 / Zhou Yuan",
     "url": "/wiki/entities/zhouyuan/"
   },
+  "ZhouZui": {
+    "title": "周最 / Zhou Zui",
+    "url": "/wiki/entities/zhouzui/"
+  },
   "Zhoukoudian": {
     "title": "周口店",
     "url": "/wiki/entities/zhoukoudian/"
@@ -44370,6 +44394,10 @@
   "ZibeiYuChaoyue": {
     "title": "《自卑与超越》",
     "url": "/wiki/entities/zibeiyuchaoyue/"
+  },
+  "Zigong": {
+    "title": "子贡 / Zigong / Duanmu Ci",
+    "url": "/wiki/entities/zigong/"
   },
   "ZijinMining": {
     "title": "Zijin Mining / 紫金矿业",
@@ -47562,5 +47590,9 @@
   "zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy": {
     "title": "《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy/"
+  },
+  "zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41": {
+    "title": "《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41/"
   }
 }

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》56丨 瞧瞧两千多年前啥是大丈夫](sources/zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41.md) — 芮淇讲透资治通鉴 episode reassessing zonghengjia figures through Mencius's great-man standard, Yang Xiong's Fayan critique, and the distinction between talent, motive, and moral approval.
 - [《资治通鉴·周纪》55丨 张仪痛失贵人秦惠王](sources/zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy.md) — 芮淇讲透资治通鉴 episode completing Zhang Yi's final Yan persuasion, Qin Huiwen Wang's death, Zhang Yi's self-preserving move to Wei, the induced Qi-Wei conflict, and his final year as Wei chief minister.
 - [《资治通鉴·周纪》54丨我尊你是王，你当我是屁](sources/zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's post-Chu lobbying tour through Han, Qi, Zhao, and Yan, using encirclement threats to push lianheng, and the sudden patronage risk after Qin Huiwen Wang dies.
 - [《资治通鉴·周纪》53丨秦惠王用张仪换地皮](sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk.md) — 芮淇讲透资治通鉴 episode on Qin Huiwen Wang's land-for-Qianzhong proposal, Chu Huaiwang demanding Zhang Yi instead, Zhang Yi's survival through Zheng Xiu and palace backchannels, and the politics of treating a minister as exchangeable.
@@ -1064,6 +1065,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [扬雄 / Yang Xiong](entities/YangXiong.md) — Western Han author cited through Fayan to critique Zhang Yi and Su Qin's persuasive talent by motive and moral direction.
+- [《法言》 / Fayan](entities/Fayan.md) — Yang Xiong text used to reject zonghengjia skill as morally acceptable merely because it is effective.
+- [子贡 / Zigong / Duanmu Ci](entities/Zigong.md) — Confucian disciple contrasted with Zhang Yi and Su Qin because his diplomacy is framed as rescue rather than wealth-seeking.
+- [周最 / Zhou Zui](entities/ZhouZui.md) — Persuader named as part of the wider Warring States fashion for court-to-court diplomatic mobility.
+- [楼缓 / Lou Huan](entities/LouHuan.md) — Persuader named alongside Su Dai, Su Li, and Zhou Zui as evidence of the broader zonghengjia wave.
 - [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch, marking Qin's proposed advance toward Zhou royal authority while Qi and Wei are entangled.
 - [郑袖 / Zheng Xiu](entities/ZhengXiu.md) — Chu Huaiwang favorite whose status anxiety is turned into the backchannel that saves Zhang Yi.
 - [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks in exchange for land, then Chu Huaiwang prices against Zhang Yi himself.
@@ -7137,6 +7143,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mencian Great-Man Criterion / 孟子大丈夫标准](concepts/MencianGreatManCriterion.md) — Mencius's test that greatness requires moral steadiness under wealth, poverty, and force rather than mere political impact.
+- [Motive-Based Talent Evaluation / 动机导向的才干评价](concepts/MotiveBasedTalentEvaluation.md) — Moral test distinguishing similar political talents by purpose, beneficiary, and relation to public rescue or private gain.
 - [Self-Preservation as State Strategy / 以自保包装国策](concepts/SelfPreservationAsStateStrategy.md) — Maneuver where a threatened court actor frames a personal exit as useful state strategy.
 - [可交换功臣 / Minister as Exchangeable Asset](concepts/MinisterAsExchangeableAsset.md) — Ruler calculation where a valued minister's survival, transfer, or death can all be converted into state advantage.
 - [宫廷后门自救 / Court Backchannel Survival](concepts/CourtBackchannelSurvival.md) — Hostile-court survival pattern where preexisting palace relationships and private status fears change a ruler's decision.
