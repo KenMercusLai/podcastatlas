@@ -2,7 +2,7 @@
 title: "稷下学宫 / Jixia Academy"
 type: entity
 tags: [institution, chinese-classics, pre-qin, intellectual-history]
-sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-20
 ---
 
@@ -16,6 +16,8 @@ The source's claim is interpretive rather than strict biography: because Mencius
 
 [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds Jixia to [[QiXuanWang|齐宣王]]'s closing evaluation. The episode says Qi Xuan Wang is not a model ruler, but his reign still coincides with rapid Qi development and the flourishing of Jixia, making the academy part of the source's more mixed judgment of his rule.
 
+[[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] adds [[Xunzi|荀子]] to the Jixia branch. The episode says Xunzi served three times as Jixia's祭酒, making the academy a bridge between Qi's institutional support for scholars and the later political lesson that [[SimaGuang|司马光]] draws from [[XunziText|《荀子》]] after Qi's fall.
+
 ## Connections
 - [[Mengzi|孟子 / Mencius]] - thinker whose formation the source places near Jixia-style debate.
 - [[WarringStatesPeriod|战国时期]] - period context for scholar mobility and state sponsorship.
@@ -24,3 +26,4 @@ The source's claim is interpretive rather than strict biography: because Mencius
 - [[ZhongliChun|钟离春 / 钟无艳]] - legendary closing side note in the same Qi Xuan Wang evaluation.
 - [[Mozi|墨子]] and [[YangZhu|杨朱]] - rival teachings in the broader thought market.
 - [[ClassicReadingComplexity]] - frame for recovering a classical figure from simplified textbook inheritance.
+- [[Xunzi|荀子]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 Xunzi extension.

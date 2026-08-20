@@ -2,7 +2,7 @@
 title: "Confucian Ideal Governance / 儒家理想治理"
 type: concept
 tags: [history, politics, china, confucianism]
-sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-20
 ---
 
@@ -24,6 +24,8 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 
 [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds a more administrative Mencian version. [[Mengzi|孟子 / Mencius]] does not only state ideals to [[QiXuanWang|齐宣王]]; he gives concrete instructions for repairing the occupation of [[YanState|燕国]]. The episode therefore treats Confucian governance as a test of policy correction, popular relief, and post-conquest restraint, not merely moral language.
 
+[[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] adds a Xunzian variant. [[Xunzi|荀子]] is presented as Confucian but less Mencian: [[XingETheory|性恶论]] and ritual-law ordering make good government an active construction. In [[XunzianWangbaThreePaths|荀子王霸三分法]], ritual and righteousness can generate kingly rule, while trust can still produce hegemonic order and deception corrodes the state.
+
 ## Key Claims
 - Moral ideals can constrain rulers only when institutions and reality checks hold.
 - Ancient models can become political authority even when social conditions have changed.
@@ -35,6 +37,7 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - The elder-respect branch adds that Confucian social ethics can support care and dignity, but becomes suspect when age is treated as automatic virtue or authority.
 - Zhouji 26 adds that Confucian renyi can claim practical public benefit while still resisting profit-first statecraft.
 - Zhouji 49 adds that Mencian governance can demand costly administrative reversal after conquest and failure.
+- Zhouji 71 adds that Confucian governance can be framed through ritual, law, and credibility as much as through Mencian benevolent-rule language.
 
 ## Connections
 - [[WangMang]], [[DongZhongshu]], and [[XiangruiBook|《祥瑞》]] - source context.
@@ -46,3 +49,4 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - [[RespectForEldersTradition]] and [[ElderCareStateCapacity]] - elder-care and state-capacity extension added by episode 165.
 - [[RighteousnessOverProfit|义利之辨]], [[RenyiBenefitOrdering|仁义优先的利益秩序]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26 renyi-benefit and reception extension.
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], [[CorrectableLeadershipError|犯错能改的领导力]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 49 administrative-repair extension.
+- [[Xunzi|荀子]], [[XingETheory|性恶论]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 ritual-law and Wangba extension.

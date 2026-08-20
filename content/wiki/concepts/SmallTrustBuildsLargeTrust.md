@@ -2,8 +2,8 @@
 title: "Small Trust Builds Large Trust / 小信诚则大信立"
 type: concept
 tags: [statecraft, trust, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+last_updated: 2026-08-20
 ---
 
 # Small Trust Builds Large Trust / 小信诚则大信立
@@ -18,6 +18,8 @@ The source extends the claim through [[SimaGuang|司马光]]'s criticism of a So
 
 The same source distinguishes moral and instrumental trust. Confucian statecraft treats trust as a foundation for ruling people and relating to the world; Legalist statecraft can treat trust as a tool that makes rewards and punishments believable. Shang Yang's case sits on the Legalist side, but Sima Guang still treats the credibility itself as politically real.
 
+[[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] adds an explicit Wangba formulation through [[Xunzi|荀子]]. In the episode's summary, a ruler who cannot yet reach full ritual-righteous order may still become a hegemon if commands, rewards, punishments, and treaties are trusted. This turns credibility into the hinge between ordered power and manipulative collapse in [[XunzianWangbaThreePaths|荀子王霸三分法]].
+
 ## Key Claims
 - Minor promises function as public tests of whether a ruler's word means anything.
 - State credibility is damaged when a government changes promised terms after people rely on them.
@@ -26,6 +28,7 @@ The same source distinguishes moral and instrumental trust. Confucian statecraft
 - In the Shang Yang case, a small kept promise prepares people to believe later rewards and punishments will also be enforced.
 - The Zhouji 13 part 2 cases show that trust can override short-term advantage in coercion, siege, appointment, and reform contexts.
 - Confucian and Legalist trust differ in justification, but both require visible consistency between promise and action.
+- Zhouji 71 adds trust as the minimum condition for legitimate hegemony: without it, power slides from 霸业 toward deception-driven ruin.
 
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler used for the hunting-appointment example.
@@ -36,3 +39,4 @@ The same source distinguishes moral and instrumental trust. Confucian statecraft
 - [[RenhePoliticalPower]] and [[SymmetricInterstateCredibility]] - adjacent source concepts.
 - [[XimuLixin]], [[ShangYangReforms]], and [[LegalistRulerTechnique]] - Qin reform credibility branch.
 - [[SocialTrustAsStateCapacity]] - broader wiki frame for trust as a governance asset.
+- [[Xunzi|荀子]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 Wangba trust extension.

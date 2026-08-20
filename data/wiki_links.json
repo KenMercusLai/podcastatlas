@@ -32211,6 +32211,10 @@
     "title": "Qin Eastward Pressure / 秦国东进压力",
     "url": "/wiki/concepts/qineastwardpressure/"
   },
+  "QinErshi": {
+    "title": "秦二世 / 胡亥 / Qin Er Shi",
+    "url": "/wiki/entities/qinershi/"
+  },
   "QinFeizi": {
     "title": "非子 / Qin Feizi",
     "url": "/wiki/entities/qinfeizi/"
@@ -43083,6 +43087,10 @@
     "title": "Xinchuang Operating Systems",
     "url": "/wiki/concepts/xinchuangoperatingsystems/"
   },
+  "XingETheory": {
+    "title": "Xing'e Theory / 性恶论",
+    "url": "/wiki/concepts/xingetheory/"
+  },
   "XingHaiyang": {
     "title": "邢海洋 / Xing Haiyang",
     "url": "/wiki/entities/xinghaiyang/"
@@ -43254,6 +43262,14 @@
   "Xunzi": {
     "title": "荀子 / Xunzi",
     "url": "/wiki/entities/xunzi/"
+  },
+  "XunziText": {
+    "title": "《荀子》 / Xunzi",
+    "url": "/wiki/entities/xunzitext/"
+  },
+  "XunzianWangbaThreePaths": {
+    "title": "Xunzian Wangba Three Paths / 荀子王霸三分法",
+    "url": "/wiki/concepts/xunzianwangbathreepaths/"
   },
   "Xuzhou": {
     "title": "徐州 / Xuzhou",
@@ -44662,6 +44678,10 @@
   "ZhouWeilieWang": {
     "title": "周威烈王 / King Weilie of Zhou",
     "url": "/wiki/entities/zhouweiliewang/"
+  },
+  "ZhouWuwang": {
+    "title": "周武王 / King Wu of Zhou",
+    "url": "/wiki/entities/zhouwuwang/"
   },
   "ZhouXianwang": {
     "title": "周显王 / King Xian of Zhou",
@@ -48062,5 +48082,9 @@
   "zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md": {
     "title": "《资治通鉴·周纪》70丨喜欢花样作死的齐国君主",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md/"
+  },
+  "zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j": {
+    "title": "《资治通鉴·周纪》71丨荀子的性本恶论",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j/"
   }
 }

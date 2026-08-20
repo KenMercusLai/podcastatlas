@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6144
+wiki_total_pages: 6147
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "XuXuanGuaiLu"
     title: "《续玄怪录》"
     url: "/wiki/entities/xuxuanguailu/"
+  - key: "XunziText"
+    title: "《荀子》 / Xunzi"
+    url: "/wiki/entities/xunzitext/"
   - key: "XujingQitan"
     title: "《虚境奇谭》"
     url: "/wiki/entities/xujingqitan/"

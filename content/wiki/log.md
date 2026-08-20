@@ -8647,3 +8647,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran health before lint; health scanned 12,016 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,016 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,016 linted pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider/API-key variables are present in the environment; a bounded in-session sample review found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》71丨荀子的性本恶论
+
+Added source page for a 芮淇讲透资治通鉴 episode unpacking Sima Guang's Xunzi Wangba quotation after Qi Min Wang's death. Created pages for 《荀子》, Xunzian Wangba Three Paths, Xing'e Theory, Qin Er Shi, and Zhou Wu Wang; updated overview, index, Xunzi, Qi Min Wang, Mengchangjun, Jixia Academy, Shang Tang, Song Kang Wang, Zhou Nan Wang, Sima Guang, Confucian Ideal Governance, Wangdao versus Badao, and Small Trust Builds Large Trust. No direct contradiction found; transcript-noisy renderings were normalized to existing Qi Min Wang, Zhuo Chi, Le Yi, and Xunzi/Chengxiang contexts while preserving uncertainty in the source page.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

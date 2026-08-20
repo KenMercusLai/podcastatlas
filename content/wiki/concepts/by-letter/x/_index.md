@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 4797
+wiki_total_pages: 4799
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
@@ -17,9 +17,15 @@ wiki_pages:
   - key: "XinchuangOperatingSystems"
     title: "Xinchuang Operating Systems"
     url: "/wiki/concepts/xinchuangoperatingsystems/"
+  - key: "XingETheory"
+    title: "Xing'e Theory / 性恶论"
+    url: "/wiki/concepts/xingetheory/"
   - key: "XLACompiler"
     title: "XLA Compiler"
     url: "/wiki/concepts/xlacompiler/"
+  - key: "XunzianWangbaThreePaths"
+    title: "Xunzian Wangba Three Paths / 荀子王霸三分法"
+    url: "/wiki/concepts/xunzianwangbathreepaths/"
   - key: "XuzhouMutualKingship"
     title: "徐州相王 / Xuzhou Mutual Kingship"
     url: "/wiki/concepts/xuzhoumutualkingship/"

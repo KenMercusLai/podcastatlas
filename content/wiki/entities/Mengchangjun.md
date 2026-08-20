@@ -2,7 +2,7 @@
 title: "孟尝君 / Tian Wen"
 type: entity
 tags: [person, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
 last_updated: 2026-08-20
 ---
 
@@ -40,6 +40,8 @@ The same source adds a [[Zhanguoce|《战国策》]] story in which one retainer
 
 The same source makes this rescue a criticism rather than simple vindication. Following [[WangAnshi|王安石]], the host argues that Mengchangjun's broad养士 reputation may show a failure to distinguish real statecraft talent from low-level tricks. The episode therefore adds [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] to Mengchangjun's page: his network is useful enough to save him, but its composition may explain why stronger talent would avoid his门下.
 
+[[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] places Mengchangjun beside [[QiMinWang|齐湣王]] as a negative Qi example in [[Xunzi|荀子]]'s Wangba frame. The point is not that Mengchangjun personally caused Qi's collapse in this episode; it is that elite control of a strong state and a famous private following did not become durable [[ConfucianIdealGovernance|ritual order]], political education, or credible public rule. That extends the earlier Wang Anshi critique from retainer quality into the larger question of what state power is for.
+
 ## Connections
 - [[TianYing|田婴]] - father, gatekeeper to recognition, and source of the household office that lets Tian Wen build reputation.
 - [[QiState|齐国]] and [[TianFamilyReplacementOfQi|田氏代齐]] - dynastic and state context.
@@ -53,3 +55,4 @@ The same source makes this rescue a criticism rather than simple vindication. Fo
 - [[WeiRan|魏冉]], [[LouHuan|楼缓]], [[Chulizi|樗里疾 / 樗里子]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 Qin chancellor-sequence correction.
 - [[QinZhaoxiangwang|秦昭襄王]], [[QiState|齐国]], [[Xianyang|咸阳]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 62 setup for Mengchangjun's Qin chancellorship.
 - [[LouHuan|楼缓]], [[WangAnshi|王安石]], [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]], [[TalentVirtueDistinction|才德之分]], and [[WarringStatesFourLords|战国四公子]] - Zhouji 63 removal, escape, Wang Anshi critique, and four-lords comparison.
+- [[QiMinWang|齐湣王]], [[Xunzi|荀子]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 Qi power used as a negative political-philosophy example.

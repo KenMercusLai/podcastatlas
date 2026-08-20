@@ -2,7 +2,7 @@
 title: "齐湣王 / King Min of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-20
 ---
 
@@ -26,6 +26,8 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 
 [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] completes the fall. In 284 BCE, Le Yi commands the coalition that defeats Qi west of the Ji River and takes [[Linzi|临淄]], after which Qi Min Wang flees through [[WeyState|卫国]], [[ZouState|邹国]], and [[LuState|鲁国]] but keeps behaving as if submission is owed to him. The source makes that failed refuge sequence part of [[PeopleBasedPoliticalSecurity|民心型政治安全]]: by the time he reaches Ju and relies on [[ZhuoChi|卓齿]], he has lost the social and interstate protection that might make a defeated ruler survivable. Zhuo Chi's seizure and execution of him fulfills the prior [[RulerNonNaturalDeathTypology|帝王非命死法类型]] preview.
 
+[[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] turns the completed death story into [[SimaGuang|司马光]]'s [[Xunzi|荀子]]-based ruler lesson. Qi Min Wang becomes the negative case in [[XunzianWangbaThreePaths|荀子王霸三分法]]: he held a powerful state and won conspicuous victories, but did not use that power to build ritual order, credible trust, or public legitimacy. The episode therefore treats his fall as more than battlefield defeat; it is the collapse of a ruler whose power had stopped generating protection.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - target of Qi hatred and manipulator of Qi's response.
 - [[FengXiWarringStates|冯喜]] - emissary who reveals Zhang Yi's Qin pitch.
@@ -37,3 +39,4 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 - [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[ChuState|楚国]], [[WeiState|魏国]], and [[MoralizedWarPretext|道德化战争借口]] - Zhouji 68 anti-Song campaign and reputation-pretext branch.
 - [[HuYanQiMinister|胡衍]], [[ChenJuQiMinister|陈举]], [[YanZhaowang|燕昭王]], [[LeYi|乐毅]], [[VictoryOverreachFailure|数胜必亡式胜利反噬]], and [[RulerNonNaturalDeathTypology|帝王非命死法类型]] - Zhouji 69 post-Song overreach, killed remonstrants, coalition setup, and death-preview branch.
 - [[ZhuoChi|卓齿]], [[Linzi|临淄]], [[WeyState|卫国]], [[ZouState|邹国]], [[LuState|鲁国]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 70 defeat, failed refuge, and violent death branch.
+- [[Xunzi|荀子]], [[XunzianWangbaThreePaths|荀子王霸三分法]], [[SmallTrustBuildsLargeTrust|小信诚则大信立]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 71 political-philosophy reflection after the death story.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》71丨荀子的性本恶论](sources/zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j.md) — 芮淇讲透资治通鉴 episode unpacking Sima Guang's Xunzi Wangba quotation after Qi Min Wang's death, contrasting ritual-righteous kingly rule, trust-based hegemony, and deception-driven collapse.
 - [《资治通鉴·周纪》70丨喜欢花样作死的齐国君主](sources/zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md.md) — 芮淇讲透资治通鉴 episode completing Qi Min Wang's fall through Le Yi's 284 BCE anti-Qi coalition, Linzi's capture, failed refuge in Wey/Zou/Lu, Zhuo Chi's rescue-turned-execution, and Sima Guang's Xunzi-based political lesson.
 - [《资治通鉴·周纪》69丨必看！古代帝王奇葩死法大盘点](sources/zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13.md) — 芮淇讲透资治通鉴 episode on Qi Min Wang's post-Song overreach, Qin's 285 BCE attack under Meng Ao, the killing of Qi remonstrants, Yan Zhaowang and Le Yi's anti-Qi coalition, and a source-scoped typology of ruler deaths by non-natural means.
 - [《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2）](sources/zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt.md) — 芮淇讲透资治通鉴 episode revisiting Song Kang Wang through omen-driven expansion, cruelty stories, Qi-led moralized war pretext, Teng's Confucian reputation cost, vanquished-ruler smear caution, and the linked-branch folklore afterlife.
@@ -1083,7 +1084,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
-- [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker introduced through Sima Guang's Wangba quotation after Qi Min Wang's fall.
+- [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Sima Guang's Wangba quotation, Jixia biography, ritual-law politics, and 性恶论 contrast with Mencius.
+- [《荀子》 / Xunzi](entities/XunziText.md) — Pre-Qin text whose Wangba chapter supplies the episode's three-path ruler framework and whose Chengxiang chapter appears as a transcript-noisy side note.
+- [秦二世 / 胡亥 / Qin Er Shi](entities/QinErshi.md) — Qin ruler used as a comparison for failed rulers who cannot safely return to ordinary life once political support collapses.
+- [周武王 / King Wu of Zhou](entities/ZhouWuwang.md) — Classical kingly-rule exemplar paired with Shang Tang in the episode's Xunzian Wangba framework.
 - [蒙敖 / Meng Ao](entities/MengAo.md) — Qin commander identified by the source as the correct 285 BCE general against Qi, replacing the chronicle's Meng Wu notice through a Shiji correction.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
 - [陈举 / Chen Ju (Qi Minister)](entities/ChenJuQiMinister.md) — Qi minister executed at the east gate after continuing to remonstrate against Qi Min Wang.
@@ -7230,6 +7234,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
+- [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
 - [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where repeated victory inflates a ruler, exhausts support, kills corrective feedback, and invites coalition backlash.
 - [Ruler Non-Natural Death Typology / 帝王非命死法类型](concepts/RulerNonNaturalDeathTypology.md) — Source-scoped grouping of ruler deaths by poisoning, strangling, weapons, and starvation, used to preview Qi Min Wang's end.
 - [Moralized War Pretext / 道德化战争借口](concepts/MoralizedWarPretext.md) — Pattern where states convert a target ruler's cruelty reputation into public justification and coordination cover for war.
