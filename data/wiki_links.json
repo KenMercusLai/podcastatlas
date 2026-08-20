@@ -30915,6 +30915,10 @@
     "title": "Pig Butchering Scam",
     "url": "/wiki/concepts/pigbutcheringscam/"
   },
+  "Pilao": {
+    "title": "皮牢 / Pilao",
+    "url": "/wiki/entities/pilao/"
+  },
   "Pinduoduo": {
     "title": "Pinduoduo",
     "url": "/wiki/entities/pinduoduo/"
@@ -31498,6 +31502,10 @@
   "PostArabSpringIslamistDecline": {
     "title": "Post-Arab Spring Islamist Decline",
     "url": "/wiki/concepts/postarabspringislamistdecline/"
+  },
+  "PostBattleTerrorSignaling": {
+    "title": "Post-Battle Terror Signaling / 战后恐怖震慑",
+    "url": "/wiki/concepts/postbattleterrorsignaling/"
   },
   "PostBrexitImmigrationPolitics": {
     "title": "Post-Brexit Immigration Politics",
@@ -36459,6 +36467,10 @@
     "title": "司马错 / Sima Cuo",
     "url": "/wiki/entities/simacuo/"
   },
+  "SimaGeng": {
+    "title": "司马梗 / Sima Geng",
+    "url": "/wiki/entities/simageng/"
+  },
   "SimaGuang": {
     "title": "司马光 / Sima Guang",
     "url": "/wiki/entities/simaguang/"
@@ -37775,6 +37787,10 @@
     "title": "StatsBomb",
     "url": "/wiki/entities/statsbomb/"
   },
+  "StatusAnxietyPersuasion": {
+    "title": "Status Anxiety Persuasion / 位阶焦虑式说服",
+    "url": "/wiki/concepts/statusanxietypersuasion/"
+  },
   "StatusDescentPressure": {
     "title": "Status Descent Pressure / 身份落差压力",
     "url": "/wiki/concepts/statusdescentpressure/"
@@ -38782,6 +38798,10 @@
   "Taiwan": {
     "title": "Taiwan",
     "url": "/wiki/entities/taiwan/"
+  },
+  "TaiyuanWarringStates": {
+    "title": "太原 / Taiyuan (Warring States)",
+    "url": "/wiki/entities/taiyuanwarringstates/"
   },
   "TakagiNaoko": {
     "title": "高木直子 / Takagi Naoko",
@@ -43307,6 +43327,10 @@
     "title": "伍子胥 / Wu Zixu",
     "url": "/wiki/entities/wuzixu/"
   },
+  "WuanWarringStates": {
+    "title": "武安 / Wuan (Warring States)",
+    "url": "/wiki/entities/wuanwarringstates/"
+  },
   "WudaiAdoptiveSonSystem": {
     "title": "五代义子假子制度 / Five Dynasties Adoptive-Son System",
     "url": "/wiki/concepts/wudaiadoptivesonsystem/"
@@ -44543,6 +44567,10 @@
     "title": "原因",
     "url": "/wiki/entities/yuanyin/"
   },
+  "Yuanyong": {
+    "title": "垣雍 / Yuanyong",
+    "url": "/wiki/entities/yuanyong/"
+  },
   "Yubai": {
     "title": "雨白 / Yubai",
     "url": "/wiki/entities/yubai/"
@@ -44982,6 +45010,10 @@
   "ZhaoHang": {
     "title": "Zhao Hang",
     "url": "/wiki/entities/zhaohang/"
+  },
+  "ZhaoHao": {
+    "title": "赵郝 / Zhao Hao",
+    "url": "/wiki/entities/zhaohao/"
   },
   "ZhaoHe": {
     "title": "赵何 / Zhao He",
@@ -48898,5 +48930,9 @@
   "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9": {
     "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9/"
+  },
+  "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1": {
+    "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1/"
   }
 }

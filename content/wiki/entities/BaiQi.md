@@ -2,7 +2,7 @@
 title: "白起 / Bai Qi"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states, warfare]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,10 @@ The result is presented as a decisive and destructive Qin victory. The episode r
 
 The same source also complicates the image of unstoppable Qin momentum. When [[QinZhaoxiangwang|秦昭襄王]] later wants him to replace [[WangLing|王陵]] against [[Handan|邯郸]], Bai Qi refuses and cites Qin's post-Changping exhaustion. In this reading, Bai Qi is both the commander of annihilation and the figure who names the [[WarCostTempoDiscipline|cost limit]] after victory.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] adds the other side of Bai Qi's post-Changping position. The episode says Bai Qi's killing of surrendered troops, Bai Qi platform / jingguan memory, and release of 240 young Zhao survivors are not only brutal aftermath but also [[PostBattleTerrorSignaling|战后恐怖震慑]] designed to break [[ZhaoState|赵国]]'s will before the next campaign.
+
+The same source has Bai Qi favor rapid exploitation despite Qin's losses. He orders [[WangHe|王龁]] toward [[WuanWarringStates|武安]] and [[Pilao|皮牢]] and [[SimaGeng|司马梗]] toward [[TaiyuanWarringStates|太原]] and [[Shangdang|上党郡]], with [[Handan|邯郸]] looming as the next target. Bai Qi's path is then blocked not by battlefield defeat but by [[SuDai|苏代]]'s successful pressure on [[FanJu|范雎]], who fears that Bai Qi's merit from destroying Zhao would grow beyond him.
+
 ## Connections
 - [[YiqueBattle|伊阙之战]] - battle that makes him famous in this episode.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], and [[QinState|秦国]] - ruler, patron/recommender, and state context.
@@ -49,3 +53,4 @@ The same source also complicates the image of unstoppable Qin momentum. When [[Q
 - [[ChangpingBattle|长平之战]], [[ZhaoKuo|赵括]], [[LianPo|廉颇]], [[WangHe|王龁]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 94 secret Qin command change after Zhao's public replacement.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[BattlefieldInformationControl|战场信息控制]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Zhouji 94 part 2 hidden command, encirclement, and starvation outcome.
 - [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[WangLing|王陵]], [[Handan|邯郸]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 killing of surrendered Zhao troops and refusal of an immediate follow-on campaign.
+- [[PostBattleTerrorSignaling|战后恐怖震慑]], [[SimaGeng|司马梗]], [[WuanWarringStates|武安]], [[Pilao|皮牢]], [[TaiyuanWarringStates|太原]], [[SuDai|苏代]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 terror, follow-on routes, and the court-political stop.

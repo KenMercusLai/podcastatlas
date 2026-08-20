@@ -2,7 +2,7 @@
 title: "范雎 / Fan Ju"
 type: entity
 tags: [person, strategist, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,10 @@ The same source turns Fan Ju's near death into a career pivot. [[ZhengAnping|郑
 
 This source extends Fan Ju from coalition sabotage into commander-targeted information warfare. The rumor does not need to be true; it only has to match Zhao Dan's frustration strongly enough to create [[BattlefieldCommanderReplacementRisk|阵前换将风险]]. Fan Ju therefore becomes the Qin-side operator behind a [[CounterintelligenceRumorWedge|反间流言楔入]] that turns Zhao's own ruler against its experienced field commander.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] turns Fan Ju from the pre-Changping rumor operator into the post-Changping brake on [[BaiQi|白起]]. [[SuDai|苏代]], sent by fearful [[HanState|韩国]] and [[WeiState|魏国]], asks whether Fan Ju wants Bai Qi to destroy [[ZhaoState|赵国]], take [[Handan|邯郸]], and rise through overwhelming military merit. Fan Ju then advises [[QinZhaoxiangwang|秦昭襄王]] to rest the army and accept land cessions.
+
+The episode makes this a source case for [[StatusAnxietyPersuasion|位阶焦虑式说服]] inside Fan Ju's career. Earlier sources show him recovering Qin royal authority and clarifying [[YuanjiaoJingongStrategy|远交近攻]]; this one shows his own position becoming a lever that outsiders can pull. The resulting pause gives Qin immediate gains but leaves Bai Qi resentful toward Fan Ju.
+
 ## Connections
 - [[BaiQi|白起]] - figure whose Yique explanation Fan Ju prompts.
 - [[YiqueBattle|伊阙之战]] - battle being discussed.
@@ -52,3 +56,4 @@ This source extends Fan Ju from coalition sabotage into commander-targeted infor
 - [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 92 part 2 shows Fan Ju limiting Qin's anger after the hostage escape succeeds.
 - [[LianPo|廉颇]], [[ZhaoKuo|赵括]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[ChangpingBattle|长平之战]] - Zhouji 94 commander-targeted rumor operation.
 - [[CounterintelligenceRumorWedge|反间流言楔入]], [[RumorErosionOfTrust|谣言侵蚀信任]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - conceptual consequences of the rumor.
+- [[SuDai|苏代]], [[BaiQi|白起]], [[Handan|邯郸]], [[Yuanyong|垣雍]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 post-Changping pause created through Fan Ju's rank anxiety.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（1）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1.md) — 芮淇讲透资治通鉴 episode on why Qin did not immediately destroy Zhao after Changping, linking Qin exhaustion, Bai Qi's terror signaling, Su Dai's lobbying of Fan Ju, and the land-for-peace pause.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9.md) — 芮淇讲透资治通鉴 episode on Zhao Kuo's failed Changping breakout and death, Bai Qi's killing of surrendered Zhao troops, Qin's post-victory exhaustion, and Sunzi's war-cost frame.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Changping encirclement, Zhao Kuo's failed attack, Qin mass mobilization, Zhao's starvation, and Qi's refusal to lend grain.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz.md) — 芮淇讲透资治通鉴 episode on Zhao's failed direct peace signal, Lian Po's defensive Changping posture, Fan Ju's rumor operation, Zhao Kuo's appointment, and Qin's secret Bai Qi command change.
@@ -1118,6 +1119,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [司马梗 / Sima Geng](entities/SimaGeng.md) — Qin commander assigned to the Taiyuan-Shangdang route in the post-Changping pressure on Zhao.
+- [赵郝 / Zhao Hao](entities/ZhaoHao.md) — Zhao minister left in Qin to negotiate territorial-transfer details after Zhao Xiaocheng Wang's release.
+- [武安 / Wuan (Warring States)](entities/WuanWarringStates.md) — Zhao place attacked by Wang He during Qin's immediate post-Changping follow-on campaign.
+- [皮牢 / Pilao](entities/Pilao.md) — Zhao place paired with Wuan in Wang He's post-Changping attack route.
+- [太原 / Taiyuan (Warring States)](entities/TaiyuanWarringStates.md) — Zhao northwestern target attacked by Sima Geng after Changping.
+- [垣雍 / Yuanyong](entities/Yuanyong.md) — Han land ceded to Qin when the post-Changping offensive pauses.
 - [王陵 / Wang Ling](entities/WangLing.md) — Qin general whose difficult post-Changping attack on Handan prompts Bai Qi's war-cost refusal.
 - [周子 / Zhouzi (Qi minister)](entities/ZhouziQiMinister.md) — Qi minister whose failed grain-relief remonstrance warns that Zhao is a shield for Qi and Chu during Changping.
 - [虞卿 / Yu Qing](entities/YuQing.md) — Zhao adviser who warns that direct peace with Qin will isolate Zhao unless Chu/Qi hezong leverage is rebuilt first.
@@ -1356,7 +1363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [燕易王 / King Yi of Yan](entities/YanYiwang.md) — Yan successor after Yan Wen Gong in the Zhouji 29 succession notice.
 - [魏成侯 / Marquis Cheng of Wei](entities/WeiChenghou.md) — Wei ruler whose death opens the Zhouji 29 Wei succession notice.
 - [魏平侯 / Marquis Ping of Wei](entities/WeiPinghou.md) — Wei successor after Wei Cheng Hou in the Zhouji 29 succession notice.
-- [苏代 / Su Dai](entities/SuDai.md) — Su Qin's brother, used by Zhouji 29 to frame diplomacy as a family field.
+- [苏代 / Su Dai](entities/SuDai.md) — Warring States persuader whose wiki branch now spans strategist-family context, land-for-peace warning, and the post-Changping lobbying of Fan Ju.
 - [苏厉 / Su Li](entities/SuLi.md) — Su Qin's brother, named with Su Dai in the strategist-family branch.
 - [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — Figure paired with Su Qin in Sima Guang's consolation poem to Wu Zhicai.
 - [吾之才 / Wu Zhicai](entities/WuZhicai.md) — Addressee of Sima Guang's poem using Su Qin as encouragement for frustration and disregard.
@@ -7365,6 +7372,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence, monuments, and released survivors are used to damage the defeated state's will to resist.
+- [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Su Dai pattern of redirecting policy by turning Bai Qi's possible victory into Fan Ju's personal rank threat.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Sunzi-derived frame that treats fast or nonmilitary victory as resource discipline under manpower, food, and campaign-endurance limits.
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where feigned retreat, barriers, flank cuts, cavalry insertion, and fieldworks turn an attack into starvation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6243
+wiki_total_pages: 6249
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "TianxianBaobaoLynx"
     title: "天线宝宝猞猁 / Tianxian Baobao Lynx"
     url: "/wiki/entities/tianxianbaobaolynx/"
+  - key: "TaiyuanWarringStates"
+    title: "太原 / Taiyuan (Warring States)"
+    url: "/wiki/entities/taiyuanwarringstates/"
   - key: "TaishiDan"
     title: "太史旦 / Taishi Dan"
     url: "/wiki/entities/taishidan/"

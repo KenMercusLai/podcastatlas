@@ -2,7 +2,7 @@
 title: "远交近攻 / Yuanjiao Jingong Strategy"
 type: concept
 tags: [strategy, diplomacy, warfare, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] shows that setup becoming a political trap. [[FengTing|冯亭]] offers [[Shangdang|上党]] to [[ZhaoState|赵国]], trying to force Zhao into the anti-Qin problem after Qin has already made Han unable to protect the territory. Near attack therefore works not only by taking land directly, but by making neighboring states decide whether to accept exposed land that will draw Qin's next blow.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] shows near attack reaching the post-victory choice point. After [[ChangpingBattle|长平之战]], Qin can continue against [[ZhaoState|赵国]] through [[WangHe|王龁]] and [[SimaGeng|司马梗]], but [[SuDai|苏代]] persuades [[FanJu|范雎]] that the next gain may empower [[BaiQi|白起]] more than it strengthens Fan Ju. The result is not abandonment of the formula, but a pause that converts military momentum into [[Yuanyong|垣雍]] and six Zhao cities.
+
 ## Key Claims
 - Distance changes whether victory can become usable territory.
 - A remote offensive may create glory, casualties, and temporary leverage without producing stable land.
@@ -37,6 +39,7 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 - Zhouji 91 adds that a near-attack policy can select targets partly by vulnerability and diplomatic leverage, not only by adjacency.
 - Zhouji 92 adds that near attack can proceed by transport severance: Qin weakens a neighboring state by dividing its internal geography before absorbing or coercing the separated parts.
 - Zhouji 93 adds that transport severance can tempt a third state into the conflict by making the isolated territory look like an unearned gain.
+- Zhouji 95 adds that near-attack momentum depends on court alignment: even after a major victory, Qin can choose cession extraction and rest when internal status risks make immediate conquest less attractive.
 
 ## Connections
 - [[FanJu|范雎]] - strategist who articulates the formula.
@@ -50,3 +53,4 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 - [[ZhaoDan|赵丹 / 赵孝成王]], [[ZhaoWeihou|赵威后]], [[Pingyuanjun|平原君]], and [[WeiQiWarringStates|魏齐]] - Zhouji 91 Zhao vulnerability and asylum trigger.
 - [[BaiQi|白起]], [[HanNanyangWarringStates|韩国南阳]], [[TaihangRoad|太行道]], [[Shangdang|上党]], and [[TransportCorridorSeverance|交通线切割]] - Zhouji 92 concrete Han-front implementation.
 - [[FengTing|冯亭]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 Shangdang offer as a near-attack aftereffect.
+- [[SuDai|苏代]], [[StatusAnxietyPersuasion|位阶焦虑式说服]], [[Yuanyong|垣雍]], [[WangHe|王龁]], [[SimaGeng|司马梗]], and [[Handan|邯郸]] - Zhouji 95 post-Changping near-attack pause.

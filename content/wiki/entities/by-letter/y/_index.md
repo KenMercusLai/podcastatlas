@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6243
+wiki_total_pages: 6249
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "YuanjunWarringStates"
     title: "垣郡 / Yuan Commandery"
     url: "/wiki/entities/yuanjunwarringstates/"
+  - key: "Yuanyong"
+    title: "垣雍 / Yuanyong"
+    url: "/wiki/entities/yuanyong/"
   - key: "YuTheGreat"
     title: "大禹 / Yu the Great"
     url: "/wiki/entities/yuthegreat/"

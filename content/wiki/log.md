@@ -8939,3 +8939,11 @@ Added source page for the final Changping installment: Zhao Kuo's failed breakou
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12225 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is available in the environment.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（1）
+
+Added source page for the first post-Changping "why Qin did not destroy Zhao" installment: Qin's own exhaustion, Bai Qi's terror-signaling and tempo logic, Wang He and Sima Geng's follow-on attacks, Han-Wei fear, Su Dai's lobbying of Fan Ju, and Qin's land-for-peace pause. Created Sima Geng, Zhao Hao, Wuan, Pilao, Taiyuan, Yuanyong, Post-Battle Terror Signaling, and Status Anxiety Persuasion; updated overview, index, Changping Battle, Bai Qi, Fan Ju, Su Dai, Wang He, Zhao Dan, Qin Zhaoxiang Wang, Qin/Zhao/Han/Wei state pages, Handan, Shangdang, Zhou Nan Wang, War Cost Tempo Discipline, Interest Reframing Persuasion, Zonghengjia Diplomacy, Yuanjiao Jingong Strategy, Qin Eastward Pressure, and Land-For-Peace Exhaustion Trap. No direct contradiction found; the two-route vs three-route campaign account is preserved as a source-variant caution, and the larger Handan-campaign outcome remains deferred to later installment(s).
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

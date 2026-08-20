@@ -2,7 +2,7 @@
 title: "邯郸 / Handan"
 type: entity
 tags: [city, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ Handan's source role is to define the obvious rescue target that [[SunBin|孙膑
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] adds Handan as the next Qin target after the [[ChangpingBattle|长平之战]]. [[QinZhaoxiangwang|秦昭襄王]] sends [[WangLing|王陵]] to attack the Zhao capital, but the campaign goes poorly enough that he wants [[BaiQi|白起]] to replace him. Bai Qi's refusal, grounded in Qin's post-Changping exhaustion, makes Handan the test case for [[WarCostTempoDiscipline|战争成本与速决纪律]] after a huge victory.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] rewinds slightly and explains why Handan is both tempting and hard. The episode describes it as Zhao's high-walled, deeply defended capital, which means Qin's depleted army cannot assume an easy assault even after Changping. [[SuDai|苏代]] then turns the possible siege of Handan into [[FanJu|范雎]]'s personal worry: if [[BaiQi|白起]] takes it, Bai Qi's rank and merit could eclipse the Qin chancellor.
+
 ## Connections
 - [[ZhaoState|赵国]] - state whose city is under siege.
 - [[WeiState|魏国]] - attacking state in the source.
@@ -32,3 +34,4 @@ Handan's source role is to define the obvious rescue target that [[SunBin|孙膑
 - [[ZhaoFan|赵范]], [[ZhaoSuhou|赵肃侯]], and [[MilitaryActionTerminology]] - Zhouji 18 surprise-attack branch.
 - [[HeShiBi|和氏璧]], [[MiuXian|缪贤]], [[ZhaoHe|赵惠文王赵何]], and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - Zhouji 74 jade possession and Qin-exchange setup.
 - [[WangLing|王陵]], [[BaiQi|白起]], [[QinZhaoxiangwang|秦昭襄王]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 post-Changping campaign limit.
+- [[SuDai|苏代]], [[FanJu|范雎]], [[StatusAnxietyPersuasion|位阶焦虑式说服]], [[WangHe|王龁]], and [[SimaGeng|司马梗]] - Zhouji 95 Handan as the feared next target after converging Qin attacks.

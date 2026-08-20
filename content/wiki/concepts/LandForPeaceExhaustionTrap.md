@@ -2,7 +2,7 @@
 title: "Land-For-Peace Exhaustion Trap / 抱薪救火式割地求和"
 type: concept
 tags: [diplomacy, strategy, coercion, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1]
 last_updated: 2026-08-21
 ---
 
@@ -14,14 +14,18 @@ The concept does not deny that a defeated state may need a settlement. Its warni
 
 The episode also adds a decision-process layer. Wei Anxi Wang understands Su Dai's argument but says the cession process is already underway, then follows through anyway. The trap therefore includes not only external coercion but internal inertia: once negotiation, face, and procedure have moved in one direction, stopping can feel more dangerous than continuing.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] supplies the stronger-state payoff side of the same pattern. After Su Dai persuades [[FanJu|范雎]] to halt the post-[[ChangpingBattle|长平之战]] offensive, [[QinState|秦国]] accepts [[Yuanyong|垣雍]] from [[HanState|韩国]] and six cities from [[ZhaoState|赵国]]. This does not contradict Su Dai's earlier warning; it shows why the trap is attractive to Qin and frightening to its neighbors.
+
 ## Key Claims
 - Land-for-peace can buy time but may also supply the stronger state's next round of pressure.
 - The trap is strongest when the coercive power wants territory as a continuing strategic aim, not as a one-time price.
 - Advisers' private incentives matter: a negotiator who benefits from pleasing the stronger state can make concession look like neutral prudence.
 - Even correct remonstrance can fail if it does not offer a workable alternative to the process already in motion.
+- From the stronger state's perspective, land-for-peace can preserve military rest while still extracting durable gains.
 
 ## Connections
 - [[SuDai|苏代]], [[DuanGanzi|段干子]], and [[WeiAnxiWang|魏安釐王]] - warning speaker, proposal actor, and ruler.
 - [[QinState|秦国]] and [[WeiState|魏国]] - coercive power and ceding state.
 - [[HuayangBattle|华阳之战]] - defeat context.
 - [[QinEastwardPressure|秦国东进压力]], [[LianhengStrategy|连横]], and [[ZonghengjiaDiplomacy|纵横家外交]] - wider Qin-facing diplomatic field.
+- [[Yuanyong|垣雍]], [[HanState|韩国]], [[ZhaoState|赵国]], [[FanJu|范雎]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 land cessions after Su Dai's post-Changping lobbying.

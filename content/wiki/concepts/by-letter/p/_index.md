@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4871
+wiki_total_pages: 4873
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "PostArabSpringIslamistDecline"
     title: "Post-Arab Spring Islamist Decline"
     url: "/wiki/concepts/postarabspringislamistdecline/"
+  - key: "PostBattleTerrorSignaling"
+    title: "Post-Battle Terror Signaling / 战后恐怖震慑"
+    url: "/wiki/concepts/postbattleterrorsignaling/"
   - key: "PostBrexitImmigrationPolitics"
     title: "Post-Brexit Immigration Politics"
     url: "/wiki/concepts/postbrexitimmigrationpolitics/"

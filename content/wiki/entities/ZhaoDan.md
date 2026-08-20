@@ -2,7 +2,7 @@
 title: "赵丹 / 赵孝成王 / King Xiaocheng of Zhao"
 type: entity
 tags: [person, ruler, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,10 @@ The same source then makes Zhao Dan responsible for the command break at Changpi
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] adds the final consequence and retrospective blame. Zhao Kuo's failed breakout and death lead to the Zhao army's surrender, after which [[BaiQi|白起]] kills the prisoners and returns only 240 young soldiers as messengers. The host names Zhao Dan's greed for [[Shangdang|上党]] as one link in the causal chain, placing the ruler's earlier [[WindfallDecisionTrap|利令智昏]] alongside [[FengTing|冯亭]]'s transfer and Zhao Kuo's paper-war command.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] shows Zhao Dan after the catastrophe as a ruler trying to preserve the state through direct risk. The episode says the [[Zhanguoce|《战国策》]] layer has Zhao Dan personally go to [[QinState|秦国]] for peace despite the remembered danger of [[ChuHuaiwang|楚怀王]]'s captivity. Qin detains him, reaches a settlement, then [[QinZhaoxiangwang|秦昭襄王]] releases him while keeping [[ZhaoHao|赵郝]] to negotiate the details of the six-city cession.
+
+This episode softens the page's earlier blame frame without erasing it. Zhao Dan's acceptance of [[Shangdang|上党]] and appointment of [[ZhaoKuo|赵括]] remain catastrophic decisions, but the source now also presents him as accepting personal danger and the political cost of peace after Changping.
+
 ## Connections
 - [[ZhaoHe|赵惠文王赵何]] - predecessor whose death opens Zhao Dan's reign.
 - [[Pingyuanjun|平原君]] - uncle and Zhao minister whose decision to shelter Wei Qi becomes politically dangerous.
@@ -43,3 +47,4 @@ The same source then makes Zhao Dan responsible for the command break at Changpi
 - [[BattlefieldCommanderReplacementRisk|阵前换将风险]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - concepts extended by his Changping choice.
 - [[BaiQi|白起]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Zhouji 94 part 2 encirclement and failed grain-relief aftermath.
 - [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[FengTing|冯亭]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 massacre aftermath and responsibility chain.
+- [[QinZhaoxiangwang|秦昭襄王]], [[ZhaoHao|赵郝]], [[StatusAnxietyPersuasion|位阶焦虑式说服]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - Zhouji 95 post-Changping peace mission, detention, release, and city-cession details.

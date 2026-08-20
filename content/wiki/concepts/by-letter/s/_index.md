@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 4871
+wiki_total_pages: 4873
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "StatisticalSignificanceThreshold"
     title: "Statistical Significance Threshold"
     url: "/wiki/concepts/statisticalsignificancethreshold/"
+  - key: "StatusAnxietyPersuasion"
+    title: "Status Anxiety Persuasion / 位阶焦虑式说服"
+    url: "/wiki/concepts/statusanxietypersuasion/"
   - key: "StatusDescentPressure"
     title: "Status Descent Pressure / 身份落差压力"
     url: "/wiki/concepts/statusdescentpressure/"

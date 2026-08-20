@@ -2,7 +2,7 @@
 title: "War Cost Tempo Discipline / 战争成本与速决纪律"
 type: concept
 tags: [warfare, strategy, logistics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
 last_updated: 2026-08-21
 ---
 
@@ -14,14 +14,18 @@ The episode applies that frame to Qin's own victory. [[QinState|秦国]] destroy
 
 The concept also disciplines late-Warring-States expansion narratives. Qin can accelerate unification through Changping, but the source says immediate overextension remains dangerous. War cost tempo discipline therefore sits between [[WarringStatesMilitaryTransformation|战国军事形态转变]] and [[YuanjiaoJingongStrategy|远交近攻]]: larger state armies and better strategy make conquest possible, but they do not abolish logistics or demographic limits.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] adds the other side of the same discipline: a depleted winner may still have a narrow tempo window. [[BaiQi|白起]] wants to keep pressing [[ZhaoState|赵国]] before Zhao recovers from terror and military collapse, using [[PostBattleTerrorSignaling|战后恐怖震慑]] to lower the cost of a possible [[Handan|邯郸]] campaign. The eventual pause shows that cost discipline can be read in opposite ways: push now before the enemy regains strength, or stop now before one's own exhaustion becomes fatal.
+
 ## Key Claims
 - The reason to prefer quick victory is that prolonged war is expensive, not that speed is always tactically correct.
 - Nonmilitary victory is strategically superior when it can preserve resources and still secure the objective.
 - A state can win a battle and still be too depleted for an immediate hard follow-on campaign.
 - Population and food recovery are strategic constraints, not merely background conditions.
+- Post-victory exhaustion can create a genuine strategic dispute over tempo: immediate exploitation and rest both have plausible cost logic.
 
 ## Connections
 - [[SunziBingfa|《孙子兵法》]], [[BaiQi|白起]], and [[QinZhaoxiangwang|秦昭襄王]] - source text, commander, and ruler in the episode's cost argument.
 - [[ChangpingBattle|长平之战]], [[WangLing|王陵]], and [[Handan|邯郸]] - victory, follow-on commander, and campaign target.
 - [[QinState|秦国]], [[ZhaoState|赵国]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - state-capacity and mass-war setting.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[YuanjiaoJingongStrategy|远交近攻]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - adjacent logistics, strategy, and post-victory cost problems.
+- [[PostBattleTerrorSignaling|战后恐怖震慑]], [[SuDai|苏代]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 terror, diplomacy, and court politics that redirect the tempo debate.

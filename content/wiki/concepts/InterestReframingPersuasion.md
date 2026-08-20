@@ -2,7 +2,7 @@
 title: "Interest Reframing Persuasion / 利益重构式说服"
 type: concept
 tags: [persuasion, diplomacy, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
 last_updated: 2026-08-21
 ---
 
@@ -14,12 +14,15 @@ The source case is [[Chunshenjun|黄歇 / 春申君]] writing to [[QinZhaoxiangw
 
 The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy|纵横家外交]], but its distinctive move is interest translation. The persuader changes "please do not harm us" into "this plan harms you," then offers a substitute path that preserves the target's self-image as prudent and expanding rather than defeated or softened.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] adds a court-politics variant through [[SuDai|苏代]]. Speaking to [[FanJu|范雎]] after [[ChangpingBattle|长平之战]], Su Dai reframes "destroying Zhao helps Qin" into "destroying Zhao helps [[BaiQi|白起]] become too great for Fan Ju." He supports that private-interest reframing with a public-interest point: conquering [[ZhaoState|赵国]] may produce empty land if the people flee rather than become Qin subjects.
+
 ## Key Claims
 - Effective weak-side persuasion may work by confirming the stronger side's power before narrowing the question to risk-adjusted advantage.
 - The argument must name the stronger side's concrete exposure: routes, allies, rear security, future rivals, and lost strategic sequencing.
 - Historical analogy matters when it maps a target's present temptation onto a remembered disaster.
 - The offered alternative must look like a better version of the target's own strategy, not merely the vulnerable side's preferred reprieve.
 - In this source, Huang Xie's method turns Chu survival into Qin prudence and Qin expansion into a reason to stop an immediate Qin campaign.
+- Zhouji 95 adds that interest reframing can target a minister's relative status, not only a ruler's state-level risk map.
 
 ## Connections
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - source case and decision point.
@@ -27,3 +30,4 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - [[StrategicDepthDefense|战略纵深防御]] and [[QinEastwardPressure|秦国东进压力]] - route-risk and strategic-sequence premises.
 - [[ChuaimoTechnique|揣摩]], [[ZonghengjiaDiplomacy|纵横家外交]], [[LianhengStrategy|连横]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - adjacent persuasion and alliance concepts.
 - [[PoetryAsElitePoliticalLanguage|诗经作为贵族政治语言]] - elite citation layer used to make the argument socially competent as well as strategic.
+- [[SuDai|苏代]], [[FanJu|范雎]], [[BaiQi|白起]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 personal-rank version of the same reframing method.

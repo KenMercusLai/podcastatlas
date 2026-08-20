@@ -2,7 +2,7 @@
 title: "长平之战 / Battle of Changping"
 type: entity
 tags: [battle, zhao-state, qin-state, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,10 @@ The same source makes the final killing and memory problem explicit. Bai Qi judg
 
 The final installment also adds a strategic afterword. Qin wins one of the largest and most complete encirclement victories in the source's telling, but the episode stresses that Qin is not cost-free: after Changping, [[WangLing|王陵]] attacks [[Handan|邯郸]] unsuccessfully and Bai Qi resists replacing him because Qin is already strained. Changping therefore accelerates Qin's road toward unification without abolishing [[WarCostTempoDiscipline|战争成本与速决纪律]].
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] reopens the immediate aftermath as the beginning of a new campaign question: why did [[QinState|秦国]] not destroy [[ZhaoState|赵国]] at once? The episode reads the released 240 young survivors and Bai Qi platform / jingguan memory as [[PostBattleTerrorSignaling|战后恐怖震慑]], then shows [[WangHe|王龁]] and [[SimaGeng|司马梗]] attacking Zhao positions around [[WuanWarringStates|武安]], [[Pilao|皮牢]], [[TaiyuanWarringStates|太原]], and [[Shangdang|上党郡]].
+
+The same source shifts the explanation from battlefield capability alone to court and diplomacy. [[SuDai|苏代]] persuades [[FanJu|范雎]] that allowing [[BaiQi|白起]] to destroy Zhao and take [[Handan|邯郸]] would make Bai Qi's merit too large, while also arguing that Qin may get land without people if Zhao's population flees. Changping's aftermath therefore becomes a case where victory momentum is interrupted by [[StatusAnxietyPersuasion|位阶焦虑式说服]], neighboring-state fear, and Qin's acceptance of immediate concessions.
+
 ## Connections
 - [[Shangdang|上党]], [[FengTing|冯亭]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - decision prelude.
 - [[ZhaoState|赵国]], [[QinState|秦国]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[Pingyuanjun|平原君]] - states and Zhao decision figures.
@@ -37,3 +41,4 @@ The final installment also adds a strategic afterword. Qin wins one of the large
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[QinZhaoxiangwang|秦昭襄王]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Zhouji 94 part 2 encirclement, mass mobilization, and starvation branch.
 - [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], [[ZhouziQiMinister|周子]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Qi grain-refusal and failed shield-state rescue branch.
 - [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[WangLing|王陵]], and [[Handan|邯郸]] - Zhouji 94 part 3 surrender, killing of prisoners, and post-victory cost limit.
+- [[PostBattleTerrorSignaling|战后恐怖震慑]], [[SuDai|苏代]], [[FanJu|范雎]], [[SimaGeng|司马梗]], [[WuanWarringStates|武安]], [[Pilao|皮牢]], [[TaiyuanWarringStates|太原]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 why Qin's immediate destruction of Zhao is deferred.
