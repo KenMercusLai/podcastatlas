@@ -4011,6 +4011,10 @@
     "title": "Angela Rayner",
     "url": "/wiki/entities/angelarayner/"
   },
+  "AngerDrivenWarDecision": {
+    "title": "Anger-Driven War Decision / 因怒兴师",
+    "url": "/wiki/concepts/angerdrivenwardecision/"
+  },
   "Angkor": {
     "title": "Angkor / 吴哥",
     "url": "/wiki/entities/angkor/"
@@ -10814,6 +10818,10 @@
   "Danu": {
     "title": "Danu / 达努",
     "url": "/wiki/entities/danu/"
+  },
+  "DanyangBattle": {
+    "title": "丹阳之战 / Battle of Danyang",
+    "url": "/wiki/entities/danyangbattle/"
   },
   "Danzhou": {
     "title": "儋州 / Danzhou",
@@ -17703,6 +17711,10 @@
     "title": "哈努曼 / Hanuman",
     "url": "/wiki/entities/hanuman/"
   },
+  "Hanzhong": {
+    "title": "汉中 / Hanzhong",
+    "url": "/wiki/entities/hanzhong/"
+  },
   "HanziTransdialectalFunction": {
     "title": "Hanzi Transdialectal Function",
     "url": "/wiki/concepts/hanzitransdialectalfunction/"
@@ -22630,6 +22642,10 @@
   "LannyDavis": {
     "title": "Lanny Davis",
     "url": "/wiki/entities/lannydavis/"
+  },
+  "LantianBattle": {
+    "title": "蓝田之战 / Battle of Lantian",
+    "url": "/wiki/entities/lantianbattle/"
   },
   "LaoBreweryCompany": {
     "title": "Lao Brewery Company",
@@ -32047,6 +32063,10 @@
     "title": "曲芳 / Qu Fang",
     "url": "/wiki/entities/qufang/"
   },
+  "QuGai": {
+    "title": "屈匄 / Qu Gai",
+    "url": "/wiki/entities/qugai/"
+  },
   "QuHoufu": {
     "title": "屈侯鲋 / Qu Houfu",
     "url": "/wiki/entities/quhoufu/"
@@ -32066,6 +32086,10 @@
   "QuYijiu": {
     "title": "屈宜臼 / Qu Yijiu",
     "url": "/wiki/entities/quyijiu/"
+  },
+  "QuYuan": {
+    "title": "屈原 / Qu Yuan",
+    "url": "/wiki/entities/quyuan/"
   },
   "QualityLowPriceReasonedPremium": {
     "title": "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价",
@@ -42287,6 +42311,10 @@
     "title": "Wugu Political Panic / 巫蛊政治恐慌",
     "url": "/wiki/concepts/wugupoliticalpanic/"
   },
+  "Wuguan": {
+    "title": "武关 / Wuguan",
+    "url": "/wiki/entities/wuguan/"
+  },
   "Wuhan": {
     "title": "Wuhan / 武汉",
     "url": "/wiki/entities/wuhan/"
@@ -47410,5 +47438,9 @@
   "zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege": {
     "title": "《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege/"
+  },
+  "zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac": {
+    "title": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac/"
   }
 }

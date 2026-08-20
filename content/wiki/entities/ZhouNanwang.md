@@ -2,7 +2,7 @@
 title: "周赧王 / Zhou Nan Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-20
 ---
 
@@ -16,6 +16,8 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] locates the next episode in Zhou Nan Wang's second year, 313 BCE. The Zhou king again functions as annalistic frame while [[QinState|秦国]] acts through [[Chulizi|樗里子]] against [[ZhaoState|赵国]] and through [[ZhangYiStrategist|张仪]] against the [[QiState|齐国]]-[[ChuState|楚国]] alliance.
 
+[[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] continues into Zhou Nan Wang's third-year neighborhood, centered on 312 BCE. The Zhou king remains chronological frame while [[ChuHuaiwang|楚怀王]] turns Zhang Yi's six-li reversal into war, loses at [[DanyangBattle|丹阳之战]], loses [[Hanzhong|汉中]], and is defeated again near [[LantianBattle|蓝田之战]].
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
@@ -23,3 +25,4 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 - [[WarringStatesPeriod|战国时期]] - period in which Zhou chronology frames stronger-state politics.
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 49 first-year frame.
 - [[Chulizi|樗里子]], [[ZhangYiStrategist|张仪]], [[ChuHuaiwang|楚怀王]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 second-year frame.
+- [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 third-year campaign consequence frame.

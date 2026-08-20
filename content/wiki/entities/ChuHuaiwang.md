@@ -2,7 +2,7 @@
 title: "楚怀王 / King Huai of Chu"
 type: entity
 tags: [person, ruler, pre-qin, warring-states, chu-state]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
+sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The source treats the notice as a preview rather than a developed biography. It 
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] makes him the central decision-maker in [[ZhangYiStrategist|张仪]]'s deception. Chu Huai Wang accepts the promise of six hundred li of [[Shangyu|商於]], rejects [[ChenZhenWarringStates|陈枕]]'s advice to verify Qin's delivery before breaking with [[QiState|齐国]], and then escalates the break by insulting [[QiXuanWang|齐宣王]]. When Zhang Yi changes the promise to six li, Chu Huai Wang refuses Chen Zhen's second containment advice and attacks Qin, turning diplomatic humiliation into military exposure.
 
+[[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] follows that exposure into disaster. The episode explains his credulity through the size of the promised gain, misplaced trust in [[YingSi|秦惠文王]] and Zhang Yi's office, and Zhang Yi's prior influence over Chu elites, including pressure against [[QuYuan|屈原]]. Chu Huai Wang then turns rage into war: [[DanyangBattle|丹阳之战]] costs Chu eighty thousand soldiers, [[QuGai|屈匄]] is captured, [[Hanzhong|汉中]] is lost, and the renewed push through [[Wuguan|武关]] ends near [[LantianBattle|蓝田之战]]. The source makes him the main case for [[AngerDrivenWarDecision|因怒兴师]].
+
 ## Connections
 - [[ChuState|楚国]] - polity he rules after the succession.
 - [[ChuWeiwang|楚威王]] - predecessor and father in the source notice.
@@ -29,3 +31,4 @@ The source treats the notice as a preview rather than a developed biography. It 
 - [[Mengchangjun|孟尝君 / 田文]], [[GongsunXu|公孙须]], [[DengTuzhi|邓图直]], and [[UntimelyExtravagance|时绌举赢]] - Zhouji 42 ivory-bed branch.
 - [[QinState|秦国]], [[HanguPass|函谷关]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 alliance-leader branch.
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], [[QiState|齐国]], [[QiXuanWang|齐宣王]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 deception, alliance break, and failed damage-control branch.
+- [[DanyangBattle|丹阳之战]], [[LantianBattle|蓝田之战]], [[Hanzhong|汉中]], [[Wuguan|武关]], [[QuGai|屈匄]], [[QuYuan|屈原]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 rage-war, battlefield loss, and court-capture sequel.

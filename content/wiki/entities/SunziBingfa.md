@@ -2,8 +2,8 @@
 title: "《孙子兵法》 / The Art of War"
 type: entity
 tags: [book, military-text, strategy, pre-qin, chinese-history]
-sources: [zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+last_updated: 2026-08-20
 ---
 
 # 《孙子兵法》 / The Art of War
@@ -14,9 +14,12 @@ The page is distinct from [[SunBinBingfa|《孙膑兵法》]]. Zhouji 16 used th
 
 [[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] adds a brief sequel use. After [[ShangYang|公孙鞅 / 商鞅]] captures [[GongziAng|公子卬 / 公子昂]], the episode invokes the "不战而屈人之兵" ideal as the next question: whether commander capture can be converted into negotiation leverage rather than only battlefield success.
 
+[[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] uses Sunzi in a different register. After [[ChuHuaiwang|楚怀王]] moves from Zhang Yi's deception into revenge war, the episode invokes the warning that rulers should not raise armies from anger and generals should not enter battle from resentment. The text becomes a frame for [[AngerDrivenWarDecision|忿兵决策]] rather than only for battlefield movement.
+
 ## Connections
 - [[SunBin|孙膑]] - strategist whose plan the episode reads through the text.
 - [[PangJuan|庞涓]], [[WeiState|魏国]], and [[QiState|齐国]] - opponent and campaign setting.
 - [[ForcedMarchOperationalRisk]], [[LureEnemyOutOfPosition]], and [[MalingBattle|马陵之战]] - concepts and battle branch.
 - [[PeaceParleyEntrapment|和谈诱捕]], [[GongziAng|公子卬 / 公子昂]], and [[ShangYang|公孙鞅 / 商鞅]] - Zhouji 22 commander-capture and negotiation hook.
+- [[ChuHuaiwang|楚怀王]], [[DanyangBattle|丹阳之战]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|忿兵决策]] - Zhouji 51 anger-war warning branch.
 - [[SunBinBingfa|《孙膑兵法》]] - separate military-text branch already in the wiki.

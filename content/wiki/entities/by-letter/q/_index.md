@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6044
+wiki_total_pages: 6050
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -116,6 +116,12 @@ wiki_pages:
   - key: "QuHoufu"
     title: "屈侯鲋 / Qu Houfu"
     url: "/wiki/entities/quhoufu/"
+  - key: "QuGai"
+    title: "屈匄 / Qu Gai"
+    url: "/wiki/entities/qugai/"
+  - key: "QuYuan"
+    title: "屈原 / Qu Yuan"
+    url: "/wiki/entities/quyuan/"
   - key: "QuYijiu"
     title: "屈宜臼 / Qu Yijiu"
     url: "/wiki/entities/quyijiu/"

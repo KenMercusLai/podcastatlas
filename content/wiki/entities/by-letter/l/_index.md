@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6044
+wiki_total_pages: 6050
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "LanXiaokang"
     title: "蓝小康 / Lan Xiaokang"
     url: "/wiki/entities/lanxiaokang/"
+  - key: "LantianBattle"
+    title: "蓝田之战 / Battle of Lantian"
+    url: "/wiki/entities/lantianbattle/"
   - key: "LaiJingping"
     title: "赖靖平 / Lai Jingping"
     url: "/wiki/entities/laijingping/"

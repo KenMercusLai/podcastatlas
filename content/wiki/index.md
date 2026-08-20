@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！](sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac.md) — 芮淇讲透资治通鉴 episode on why Chu Huaiwang fell for Zhang Yi, the Danyang and Lantian defeats, Hanzhong's loss, and the danger of raising armies from anger.
 - [《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的](sources/zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's promise of six hundred li of Shangyu to break the Qi-Chu alliance, Chen Zhen's ignored verification-first advice, and Chu Huaiwang's escalation from diplomatic isolation to war.
 - [《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶](sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8.md) — 芮淇讲透资治通鉴 episode on Qi Xuan Wang's conquest of Yan, Mencius's people-based test for legitimate conquest, the repair plan Qi rejects, and the leadership lesson that mistakes must be corrected rather than excused.
 - [《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源](sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff.md) — 芮淇讲透资治通鉴 episode on Qin's 317 BCE Xiuyu-Zhuoze pursuit after the failed anti-Qin coalition, Su Qin's assassination in Qi, and skepticism toward the folk "二百五" origin story.
@@ -1059,6 +1060,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [丹阳之战 / Battle of Danyang](entities/DanyangBattle.md) — 312 BCE Qin defeat of Chu after Chu Huaiwang attacks from anger, leading to Qu Gai's capture and the loss of Hanzhong.
+- [蓝田之战 / Battle of Lantian](entities/LantianBattle.md) — Chu Huaiwang's second angry attack, where Qin draws Chu deep through Wuguan and Shangyu before counterattacking near Lantian.
+- [汉中 / Hanzhong](entities/Hanzhong.md) — Chu territory lost to Qin after Danyang, used by the episode to contrast concrete recovery needs with fixation on promised Shangyu.
+- [武关 / Wuguan](entities/Wuguan.md) — Qin-Chu pass route through which Chu attacks and is later drawn deeper toward Lantian.
+- [屈匄 / Qu Gai](entities/QuGai.md) — Chu commander captured at Danyang, making the military cost of Chu Huaiwang's anger concrete.
+- [屈原 / Qu Yuan](entities/QuYuan.md) — Chu anti-Qin statesman-poet whose exclusion helps explain why Chen Zhen's warnings lacked court weight.
 - [陈甲 / Chen Jia (Warring States)](entities/ChenJiaWarringStates.md) — Mencius interlocutor who uses Zhou Gong's mistake to contextualize Qi Xuan Wang's failed Yan policy, prompting the "mistakes must be corrected" lesson.
 - [商汤 / Shang Tang](entities/ShangTang.md) — Mencius's positive punitive-conquest example for relief of suffering people, contrasted with Qi's failed occupation of Yan.
 - [周公 / Duke of Zhou](entities/ZhouGong.md) — Sage example in Chen Jia's question, used by Mencius to distinguish understandable mistakes from refusal to correct errors.
@@ -7107,6 +7114,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — Governance failure where humiliation turns into war aim, replacing strategic recovery with emotionally driven escalation.
 - [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — Mencian leadership lesson that the decisive test after a mistake is visible correction rather than regret, excuses, or face-saving.
 - [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom-origin stories against period economy, incentives, and evidence, added through the rejected "二百五" derivation.
 - [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian claim that durable unification comes from a ruler who does not love killing and can attract people exhausted by violence.

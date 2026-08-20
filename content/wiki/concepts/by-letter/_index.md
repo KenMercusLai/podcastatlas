@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 4757
+wiki_total_pages: 4758
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "AncientGreekHonorCommunity"
     title: "Ancient Greek Honor Community"
     url: "/wiki/concepts/ancientgreekhonorcommunity/"
+  - key: "AngerDrivenWarDecision"
+    title: "Anger-Driven War Decision / 因怒兴师"
+    url: "/wiki/concepts/angerdrivenwardecision/"
   - key: "AngkorHydraulicEmpire"
     title: "Angkor Hydraulic Empire / 吴哥水利帝国"
     url: "/wiki/concepts/angkorhydraulicempire/"

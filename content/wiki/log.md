@@ -8471,3 +8471,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on 313 BCE: Chulizi att
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages across 11,853 pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` resolved to `claude-3-5-sonnet-latest` without a LiteLLM provider prefix, so a bounded in-session sample review was performed instead. Supplemental metadata scanning found 8 frontmatter source slugs without matching `wiki/sources` files and 408 pages with source-page wikilinks missing from frontmatter. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！
+
+Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fell for Zhang Yi's Shangyu promise, Zhang Yi's prior influence over the Chu court, Qu Yuan's exclusion, Chen Zhen's isolated warning role, the Danyang defeat and loss of Hanzhong, Chu's renewed overextension toward Lantian, and the Sunzi warning against raising armies from anger. Created pages for Danyang Battle, Lantian Battle, Hanzhong, Wuguan, Qu Gai, Qu Yuan, and Anger-Driven War Decision; updated overview, index, Chu Huaiwang, Zhang Yi, Chen Zhen, Ying Si, Qin/Chu/Han/Wei/Yan/Warring States pages, Zhou Nan Wang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shangyu, Sunzi Bingfa, and related strategy/feedback concepts. No direct contradiction found; the source extends Zhouji 50 by showing the military consequences of the earlier alliance-breaking deception.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

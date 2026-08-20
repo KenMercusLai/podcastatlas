@@ -2,7 +2,7 @@
 title: "嬴驷 / Ying Si"
 type: entity
 tags: [person, prince, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-20
 ---
 
@@ -30,6 +30,8 @@ The source uses Ying Si as a suspense point rather than a full biography. His vi
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] shows Ying Si using Zhang Yi against the [[QiState|齐国]]-[[ChuState|楚国]] relationship directly. Qin Huiwen Wang wants to attack Qi but worries about Qi's alliance with Chu, so he sends Zhang Yi to promise [[ChuHuaiwang|楚怀王]] six hundred li of [[Shangyu|商於]]. The resulting [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] isolates Chu and pushes Qi toward Qin before Chu attacks in anger.
 
+[[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] shows the payoff of that move for Qin Huiwen Wang's state. Once Chu attacks in anger, Qin defeats Chu at [[DanyangBattle|丹阳之战]], captures [[QuGai|屈匄]], takes [[Hanzhong|汉中]], and later defeats Chu again near [[LantianBattle|蓝田之战]]. The episode therefore makes Ying Si's use of Zhang Yi a bridge from diplomatic separation into territorial and battlefield gain.
+
 ## Connections
 - [[QinXiaogong|秦孝公]] - his father and Qin ruler in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer whose law he violates.
@@ -41,4 +43,5 @@ The source uses Ying Si as a suspense point rather than a full biography. His vi
 - [[XuzhouMutualKingship|徐州相王]], [[StatusOrderBacklash|名分秩序反弹]], and [[WeakStateStatusDemotion|弱国名分降格]] - title-normalization contrast in Zhouji 36.
 - [[WeiState|魏国]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 39 Zhang Yi reward-pressure branch and source-layer contrast.
 - [[ChuHuaiwang|楚怀王]], [[QiState|齐国]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 Qin Huiwen Wang's use of Zhang Yi to break the Qi-Chu alliance.
+- [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[QuGai|屈匄]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 military payoff after the alliance-breaking trap.
 - [[ShangYangReforms]], [[LegalistRulerTechnique]], [[WarringStatesReformBacklash]], and [[LegalistSelfBindingBackfire|作法自毙]] - concepts made concrete by the prince's case and later succession.

@@ -2,7 +2,7 @@
 title: "Qin Eastward Pressure / 秦国东进压力"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
+sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
 last_updated: 2026-08-20
 ---
 
@@ -44,6 +44,8 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] broadens the pressure into a coordinated 313 BCE military-diplomatic sequence. [[Chulizi|樗里子]] attacks [[ZhaoState|赵国]], while [[YingSi|秦惠文王]] sends [[ZhangYiStrategist|张仪]] to break [[ChuState|楚国]] from [[QiState|齐国]] before moving against Qi. Qin pressure therefore works through both field operations and alliance surgery.
 
+[[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] shows the military result of that alliance surgery. Qin joins with Qi to defeat Chu at [[DanyangBattle|丹阳之战]], captures [[Hanzhong|汉中]], then faces Chu Huaiwang's advance through [[Wuguan|武关]] toward [[LantianBattle|蓝田之战]] while [[HanState|韩国]] and [[WeiState|魏国]] pressure Chu from behind. Qin pressure now reaches Chu as territorial seizure, alliance reversal, and multi-front coercion.
+
 ## Key Claims
 - Qin's eastern expansion pushes Wei, Han, and Zhao to respond across older rivalries.
 - Qin pressure can coexist with Three Jin infighting; shared danger does not guarantee stable alignment.
@@ -63,6 +65,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - Zhouji 39 shows pressure working through office and obligation: Qin's influence can persist inside Wei through Zhang Yi's debt to Qin Huiwen Wang.
 - Zhouji 46 shows pressure as post-coalition pursuit: once Hangu Pass defense succeeds, Qin can punish Han and Wei beyond the pass.
 - Zhouji 50 shows pressure as theater management: Qin can strike Zhao directly while using Zhang Yi to isolate Chu from Qi before a separate campaign.
+- Zhouji 51 shows Qin pressure turning a successful alliance rupture into territorial seizure and multi-front coercion against Chu.
 
 ## Connections
 - [[QinState|秦国]], [[QinXianGong|秦献公]], and [[QinXiaogong|秦孝公]] - rising western power and ruler transition.
@@ -83,3 +86,4 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - [[YingSi|秦惠文王]], [[HuiShi|惠施 / 惠师]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[LianhengStrategy|连横]] - Zhouji 39 personnel-pressure extension.
 - [[Chulizi|樗里子]], [[XiuyuBattle|修鱼之战]], [[ZhuozeBattle|浊泽]], [[HanguPass|函谷关]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 46 post-Hangu pursuit extension.
 - [[ZhangYiStrategist|张仪]], [[ChuHuaiwang|楚怀王]], [[QiState|齐国]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 direct-pressure plus alliance-rupture extension.
+- [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[Wuguan|武关]], [[LantianBattle|蓝田之战]], [[HanState|韩国]], and [[WeiState|魏国]] - Zhouji 51 Chu-front military consequence.

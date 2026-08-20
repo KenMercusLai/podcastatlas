@@ -2,7 +2,7 @@
 title: "陈枕 / Chen Zhen (Warring States strategist)"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]
+sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]
 last_updated: 2026-08-20
 ---
 
@@ -16,6 +16,8 @@ Chen Zhen's recovery depends on [[ZuoShuang|左爽]]'s advice. Instead of fighti
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] gives Chen Zhen his clearest adviser role in Chu. He warns that [[QinState|秦国]] values Chu because of the [[QiState|齐国]] alliance, so Chu should not cut Qi off before Qin actually transfers the promised [[Shangyu|商於]] land. After [[ZhangYiStrategist|张仪]] changes six hundred li into six li, Chen Zhen again advises containment rather than rage-war; both warnings fail because [[ChuHuaiwang|楚怀王]] does not trust or respect the adviser enough to convert correct analysis into policy.
 
+[[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] explains why that advice carries so little force. Zhang Yi has already influenced Chu ministers and palace favorites, while [[QuYuan|屈原]] has been slandered out of the anti-Qin center, leaving Chen Zhen politically isolated. The military sequel confirms his warning: Chu loses [[DanyangBattle|丹阳之战]], [[QuGai|屈匄]] is captured, [[Hanzhong|汉中]] is taken, and the renewed attack toward [[LantianBattle|蓝田之战]] shows [[ChuHuaiwang|楚怀王]] choosing [[AngerDrivenWarDecision|因怒兴师]] over damage control.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - rival who preemptively frames him as pro-Chu.
 - [[ZuoShuang|左爽]] - adviser who designs his pivot.
@@ -23,3 +25,4 @@ Chen Zhen's recovery depends on [[ZuoShuang|左爽]]'s advice. Instead of fighti
 - [[HuiShi|惠施 / 惠师]] and [[GongsunYan|犀首公孙衍]] - adjacent Wei-court and strategist comparators.
 - [[SituationalPoliticalPivot|因事立道式政治转身]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], and [[ZonghengjiaDiplomacy|纵横家外交]] - concepts that make his episode role legible.
 - [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[Shangyu|商於]] - Zhouji 50 verification-first warning and failed post-error containment branch.
+- [[QuYuan|屈原]], [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 isolated-warning and failed containment sequel.

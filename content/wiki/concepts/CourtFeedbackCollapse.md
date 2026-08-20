@@ -2,7 +2,7 @@
 title: "Court Feedback Collapse / 君臣反馈失灵"
 type: concept
 tags: [governance, leadership, court-politics, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-20
 ---
 
@@ -24,6 +24,8 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] adds the ignored-hedge version. [[ChenZhenWarringStates|陈枕]] correctly warns [[ChuHuaiwang|楚怀王]] that [[QinState|秦国]] only values Chu because of the [[QiState|齐国]] alliance, and proposes verifying the [[Shangyu|商於]] land transfer before truly severing ties with Qi. Chu Huaiwang rejects both the preventive warning and the later damage-control advice, so the court hears the right correction twice without converting it into policy.
 
+[[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] adds the court-capture sequel. The episode explains that [[ZhangYiStrategist|张仪]] had already bribed senior Chu insiders, benefited from the exclusion of [[QuYuan|屈原]], and left Chen Zhen's advice isolated. Feedback fails before the formal war decision: by the time Chu Huaiwang reacts to the fake [[Shangyu|商於]] promise, the voices that might connect diplomacy, alliance repair, and military restraint are already weakened.
+
 ## Key Claims
 - A ruler's self-certainty can silence capable advisers before policy is tested.
 - Ministerial flattery is dangerous because it disguises information failure as harmony.
@@ -34,6 +36,7 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 - Requiring motive purity from advisers can block useful correction just as effectively as fear or flattery.
 - Feedback also collapses after the fact when a leader admits error privately but refuses visible repair.
 - A ruler can also collapse feedback by hearing a correct risk model but insisting on immediate gain, then rejecting containment advice after the loss is exposed.
+- Feedback collapse can be prepared by hostile diplomacy before the formal decision point; advisers may be excluded before their warning is needed.
 
 ## Connections
 - [[Zisi|子思]] - speaker and critic of the pattern.
@@ -47,3 +50,4 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 - [[Mengchangjun|孟尝君 / 田文]], [[GongsunXu|公孙须]], and [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - Zhouji 42 positive advice-screening branch.
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], [[ChenJiaWarringStates|陈甲]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 post-error correction branch.
 - [[ChuHuaiwang|楚怀王]], [[ChenZhenWarringStates|陈枕]], [[ZhangYiStrategist|张仪]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 ignored-warning and ignored-containment branch.
+- [[QuYuan|屈原]], [[QuGai|屈匄]], [[DanyangBattle|丹阳之战]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|忿兵决策]] - Zhouji 51 court-capture and angry war branch.
