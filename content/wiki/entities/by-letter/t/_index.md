@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6115
+wiki_total_pages: 6118
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "Trurl"
     title: "特鲁勒 / Trurl"
     url: "/wiki/entities/trurl/"
+  - key: "TianBuli"
+    title: "田不李 / Tian Buli"
+    url: "/wiki/entities/tianbuli/"
   - key: "TanakaHikari"
     title: "田中光"
     url: "/wiki/entities/tanakahikari/"

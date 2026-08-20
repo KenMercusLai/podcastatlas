@@ -23315,6 +23315,10 @@
     "title": "李德裕",
     "url": "/wiki/entities/lideyu/"
   },
+  "LiDui": {
+    "title": "李队 / Li Dui",
+    "url": "/wiki/entities/lidui/"
+  },
   "LiHongjun": {
     "title": "李洪军 / Li Hongjun",
     "url": "/wiki/entities/lihongjun/"
@@ -29687,6 +29691,10 @@
     "title": "PartNet / PartNet Mobility",
     "url": "/wiki/entities/partnet/"
   },
+  "PartialAbdicationPowerSplit": {
+    "title": "Partial Abdication Power Split / 退位留权式权力分裂",
+    "url": "/wiki/concepts/partialabdicationpowersplit/"
+  },
   "ParticipantObserverEntanglement": {
     "title": "Participant-Observer Entanglement / 参与观察者纠缠",
     "url": "/wiki/concepts/participantobserverentanglement/"
@@ -35379,6 +35387,10 @@
     "title": "ShapeNet",
     "url": "/wiki/entities/shapenet/"
   },
+  "ShaqiuCrisis": {
+    "title": "沙丘之变 / Shaqiu Crisis",
+    "url": "/wiki/entities/shaqiucrisis/"
+  },
   "ShareAI": {
     "title": "Share AI",
     "url": "/wiki/entities/shareai/"
@@ -39250,6 +39262,10 @@
   "TianBan": {
     "title": "田斑 / Tian Ban",
     "url": "/wiki/entities/tianban/"
+  },
+  "TianBuli": {
+    "title": "田不李 / Tian Buli",
+    "url": "/wiki/entities/tianbuli/"
   },
   "TianChang": {
     "title": "田常 / Tian Chang",
@@ -47846,5 +47862,9 @@
   "zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j": {
     "title": "《资治通鉴·周纪》65丨我穿越去给浪漫的楚王念首诗",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j/"
+  },
+  "zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq": {
+    "title": "《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq/"
   }
 }

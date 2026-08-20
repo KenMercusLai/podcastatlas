@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on 295 BCE and Zhao Wuling Wang's partial-abdication failure: Zhao destroys Zhongshan, Zhao Zhang receives a Dai-region power base with Tian Buli, Li Dui warns Fei Yi about the coming danger, Fei Yi refuses to abandon Zhao He because of his entrusted duty, and Zhao Wuling Wang moves the family conflict toward Shaqiu. Created Li Dui, Tian Buli, Shaqiu Crisis, and Partial Abdication Power Split; updated overview, index, Zhao Wuling Wang, Zhao He, Zhao Zhang, Fei Yi, Zhao Cheng, Zhongshan State, Sima Cuo, Wei Ran, Lou Huan, Zhou Nan Wang, Affection-Driven Succession Risk, Power Exit Trap, and Dual Executive Power Risk. No direct contradiction found; transcript variants 斐毅 and 赵承 are linked to the existing Fei Yi and Zhao Cheng pages.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》65丨我穿越去给浪漫的楚王念首诗
 
 Added source page for a 芮淇讲透资治通鉴 episode opening 周纪四 with Chu Huaiwang's failed escape from Xianyang, Zhao's refusal to receive him during Zhao Wuling Wang's absence, his recapture and death in Qin, the five-state anti-Qin coalition reaching Ezhi and being fractured by Qin's returned-land concessions, Zhao Wuling Wang's Loufan recruitment, and Wang Shipeng's poetic memorial. Created Lu Ping Gong, Lu Ming Gong, Wei Zhao Wang, Han Xi Wang, Loufan, Ezhi, and Wang Shipeng; updated overview, index, Chu Huaiwang, Qin Zhaoxiang Wang, Zhao Wuling Wang, Zheng Xiu, Xianyang, Zhou Nan Wang, hezong, strategic concession diplomacy, power exit trap, Warring States military transformation, alliance switching, court feedback collapse, court backchannel survival, and moral reputation as political capital. No direct contradiction found; the source resolves the Zhouji 62-63 captivity branch by moving from detained leverage to death, grief, and later reception.

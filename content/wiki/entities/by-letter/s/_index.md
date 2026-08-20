@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6115
+wiki_total_pages: 6118
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1439,6 +1439,9 @@ wiki_pages:
   - key: "ShenZhenwen"
     title: "沈真文 / Shen Zhenwen"
     url: "/wiki/entities/shenzhenwen/"
+  - key: "ShaqiuCrisis"
+    title: "沙丘之变 / Shaqiu Crisis"
+    url: "/wiki/entities/shaqiucrisis/"
   - key: "ShaWujing"
     title: "沙和尚"
     url: "/wiki/entities/shawujing/"

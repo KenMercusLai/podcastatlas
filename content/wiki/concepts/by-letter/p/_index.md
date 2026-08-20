@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4780
+wiki_total_pages: 4781
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "ParliamentarySystem"
     title: "Parliamentary System"
     url: "/wiki/concepts/parliamentarysystem/"
+  - key: "PartialAbdicationPowerSplit"
+    title: "Partial Abdication Power Split / 退位留权式权力分裂"
+    url: "/wiki/concepts/partialabdicationpowersplit/"
   - key: "ParticipantObserverEntanglement"
     title: "Participant-Observer Entanglement / 参与观察者纠缠"
     url: "/wiki/concepts/participantobserverentanglement/"

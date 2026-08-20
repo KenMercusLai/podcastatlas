@@ -2,7 +2,7 @@
 title: "Dual Executive Power Risk / 双首长权力风险"
 type: concept
 tags: [governance, power, organization-design, warring-states, court-politics]
-sources: [zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]
+sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]
 last_updated: 2026-08-19
 ---
 
@@ -14,11 +14,14 @@ Dual executive power risk / 双首长权力风险 is the governance problem [[zi
 
 The host adds the limiting condition: dual leadership is not the only danger. A single empowered minister can also monopolize power, become a usurper, or destroy the state if the person is not worthy. The practical lesson is not simply "one executive good, two executives bad"; it is that power-sharing, person selection, accountability, and faction incentives have to be designed together.
 
+[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] extends the concept from two ministers to an abdicated ruler and a reigning successor. The host compares [[ZhaoWulingwang|赵武灵王]] and [[ZhaoHe|赵何]] to a chairman and general manager, but the source shows why the analogy breaks down: the old ruler's symbolic authority and the new ruler's formal court do not have clean jurisdictional boundaries. This is more precisely [[PartialAbdicationPowerSplit|退位留权式权力分裂]], but it belongs near dual-executive risk because rival centers can still form around each authority.
+
 The episode's Song-era analogy extends the pattern beyond ancient Han. In [[SongFactionalPolitics|宋代党争]], attempts to keep new-party and old-party factions balanced often failed quickly, while choosing one camp created its own risks of retaliation, capture, and policy overcorrection.
 
 ## Key Claims
 - Equal titles do not guarantee equal power.
 - Dual executives can turn decision-making into faction competition if no authority boundary settles conflict.
+- A predecessor-successor split can behave like a dual-executive design when symbolic authority, formal office, and command channels do not align.
 - The stronger executive may build domestic partisans; the weaker executive may seek external backing.
 - Concentrating authority in one executive can also be dangerous, so the risk is structural as well as numerical.
 - Advice about power structure may itself be factional, as the episode speculates about Miu Liu's possible private interest.
@@ -29,3 +32,4 @@ The episode's Song-era analogy extends the pattern beyond ancient Han. In [[Song
 - [[PartitionOfJin|三家分晋]], [[QiState|齐国]], [[WeiState|魏国]], [[ZhangYiStrategist|张仪]], and [[GongsunYan|犀首公孙衍]] - historical examples used in the warning.
 - [[SongFactionalPolitics|宋代党争]] and [[ConscienceOverFaction|良知高于党派]] - later factional analogy and ethical contrast.
 - [[CourtFeedbackCollapse|君臣反馈失灵]], [[LegalistRulerTechnique|法家君术]], and [[PowerExitTrap|权力退场困境]] - adjacent governance risks.
+- [[ZhaoWulingwang|赵武灵王]], [[ZhaoHe|赵何]], [[ZhaoZhang|赵章]], [[FeiYi|肥义]], [[LiDui|李队]], [[TianBuli|田不李]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 predecessor-successor power split.

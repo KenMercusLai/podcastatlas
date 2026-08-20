@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（1）](sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq.md) — 芮淇讲透资治通鉴 episode on Zhao Wuling Wang's post-abdication power split, Zhao Zhang's Dai-region faction, Fei Yi and Li Dui's warnings, and the setup for the Shaqiu crisis.
 - [《资治通鉴·周纪》65丨我穿越去给浪漫的楚王念首诗](sources/zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j.md) — 芮淇讲透资治通鉴 episode opening 周纪四 with Chu Huaiwang's failed escape, death in Xianyang, five-state pressure on Qin, Zhao Wuling Wang's Loufan recruitment, and a Wang Shipeng poem used to reframe Chu Huaiwang as tragic rather than merely foolish.
 - [《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记](sources/zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5.md) — 芮淇讲透资治通鉴 episode on Pingyuanjun's retainer circle, Gongsun Long's "白马非马" and "臧三耳" style 名辩, and Kong Chuan/Zou Yan's critique that debate should serve truth and clear categories rather than verbal victory.
 - [《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？](sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin.md) — 芮淇讲透资治通鉴 episode on Mengchangjun's Qin imprisonment and chicken-crow/dog-theft escape, Wang Anshi's critique of indiscriminate retainer patronage, and Qin attacking Chu after Chu installs Mi Heng.
@@ -1074,6 +1075,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [沙丘之变 / Shaqiu Crisis](entities/ShaqiuCrisis.md) — Zhao succession disaster foreshadowed by the episode's Shaqiu trip after Zhao Wuling Wang's partial abdication leaves rival authority centers.
+- [田不李 / Tian Buli](entities/TianBuli.md) — Adviser assigned to Zhao Zhang in Dai, turning elder-son grievance into a more organized rival power base.
+- [李队 / Li Dui](entities/LiDui.md) — Zhao taifu who warns Fei Yi that Zhao Zhang and Tian Buli form a dangerous faction before the Shaqiu crisis.
 - [王十朋 / Wang Shipeng](entities/WangShipeng.md) — Song-dynasty poet cited through a quatrain that lets the episode memorialize Chu Huaiwang as a remembered tragic ruler.
 - [阏氏 / Ezhi (Warring States)](entities/EzhiWarringStates.md) — Place reached by the 296 BCE five-state anti-Qin coalition before Qin returns Wusui to Han and Fengling to Wei.
 - [楼烦 / Loufan](entities/Loufan.md) — Northern frontier people whose fighters Zhao Wuling Wang recruits after inspecting Zhao's newly held northern territory.
@@ -7193,6 +7197,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.
 - [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.
 - [鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique](concepts/JimingGoudaoTalentCritique.md) — Wang Anshi-based critique that tactical retainer tricks can save a patron without proving statecraft-level talent or good talent selection.
