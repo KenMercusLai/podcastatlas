@@ -8463,3 +8463,11 @@ Ran lint and printed the report to the session; lint-report.md was not saved.
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint and printed the report to the session; lint-report.md was not saved.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的
+
+Added source page for a 芮淇讲透资治通鉴 episode on 313 BCE: Chulizi attacks Zhao, while Zhang Yi uses the promise of six hundred li of Shangyu to make Chu Huaiwang break with Qi before Qin delivers anything. Created Unverified Territorial Promise Trap; updated overview, index, Zhang Yi, Chu Huaiwang, Chen Zhen, Chulizi, Shangyu, Ying Si, Qin/Chu/Qi/Zhao state pages, Zhou Nan Wang, Qi Xuan Wang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Warring States Period, and diplomacy/feedback concept pages. No direct contradiction found; kept this separate from Strategic Concession Diplomacy because the promised Shangyu transfer is an unverified bait rather than a real small concession.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages across 11,853 pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` resolved to `claude-3-5-sonnet-latest` without a LiteLLM provider prefix, so a bounded in-session sample review was performed instead. Supplemental metadata scanning found 8 frontmatter source slugs without matching `wiki/sources` files and 408 pages with source-page wikilinks missing from frontmatter. Report returned in-session; `wiki/lint-report.md` was not saved.

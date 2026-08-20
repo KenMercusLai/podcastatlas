@@ -2,8 +2,8 @@
 title: "纵横家外交 / Zonghengjia Diplomacy"
 type: concept
 tags: [diplomacy, rhetoric, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+last_updated: 2026-08-20
 ---
 
 # 纵横家外交 / Zonghengjia Diplomacy
@@ -30,6 +30,8 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 
 [[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] adds the office-politics version. Zhang Yi's interstate program becomes a Wei court contest against [[HuiShi|惠施 / 惠师]], and his suspicion campaign against [[ChenZhenWarringStates|陈枕]] shows that controlling a ruler's first impression can matter as much as formal persuasion. [[ZuoShuang|左爽]]'s counter-advice turns zonghengjia skill back into adaptation: a strategist must know when to stop fighting for one court and convert the situation into value at another.
 
+[[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] adds the promise-verification version. [[ZhangYiStrategist|张仪]] persuades [[ChuHuaiwang|楚怀王]] to trade the [[QiState|齐国]] alliance for a promised six hundred li of [[Shangyu|商於]], then delays until Chu has publicly offended Qi and claims the promise was only six li. The episode makes [[ChenZhenWarringStates|陈枕]]'s ignored hedge part of the same diplomatic craft: effective zonghengjia contests include both seduction and verification discipline.
+
 ## Key Claims
 - Diplomatic rhetoric becomes a direct instrument of power in the Warring States field.
 - Persuasion is situational craft: the same speaker can fail or succeed depending on court mood, local reputation, and whether the argument fits the ruler's fear.
@@ -44,6 +46,7 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 - Zhouji 37 adds the covert version: private scandal, false flight, target-state luxury advice, meeting diplomacy, and strategist job mobility all function as interstate instruments.
 - Zhouji 38 adds the disclosed-plot version: reputation, staged mobility, messenger control, and public revelation can be instruments of interstate strategy.
 - Zhouji 39 adds the court-survival version: factional support, preemptive suspicion, favor debt, and exit pivots belong inside the same diplomatic craft.
+- Zhouji 50 adds the contract-verification version: a ruler can lose strategic leverage by acting on a promise before the promised asset is delivered.
 
 ## Connections
 - [[SuQin|苏秦]] and [[ZhangYiStrategist|张仪]] - figures previewed by the source.
@@ -55,5 +58,6 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 - [[StrategicLuxurySabotage|奢侈诱导式削弱]], [[TitleRealityRestraint|名实相符式名号节制]], [[ShanchengWarringStates|陕城]], and [[Niesang|啮桑]] - Zhouji 37 covert persuasion, title restraint, territorial pressure, and meeting diplomacy.
 - [[QinWuwang|秦武王]], [[QiMinWang|齐湣王]], [[FengXiWarringStates|冯喜]], [[YinmouYangmouConversion|阴谋阳谋转换]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 38 disclosed-plot and career-mobility extension.
 - [[HuiShi|惠施 / 惠师]], [[ChenZhenWarringStates|陈枕]], [[ZuoShuang|左爽]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[SituationalPoliticalPivot|因事立道式政治转身]] - Zhouji 39 office-politics and adaptive-pivot extension.
+- [[ChuHuaiwang|楚怀王]], [[QiXuanWang|齐宣王]], [[Shangyu|商於]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 promise, insult, advice, and rupture extension.
 - [[ChronicleChronologyDrift|编年错位]] - caution around the chronicle's dating of Su Qin's success.
 - [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and historical frame.

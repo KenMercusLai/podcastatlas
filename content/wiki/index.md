@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的](sources/zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's promise of six hundred li of Shangyu to break the Qi-Chu alliance, Chen Zhen's ignored verification-first advice, and Chu Huaiwang's escalation from diplomatic isolation to war.
 - [《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶](sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8.md) — 芮淇讲透资治通鉴 episode on Qi Xuan Wang's conquest of Yan, Mencius's people-based test for legitimate conquest, the repair plan Qi rejects, and the leadership lesson that mistakes must be corrected rather than excused.
 - [《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源](sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff.md) — 芮淇讲透资治通鉴 episode on Qin's 317 BCE Xiuyu-Zhuoze pursuit after the failed anti-Qin coalition, Su Qin's assassination in Qi, and skepticism toward the folk "二百五" origin story.
 - [《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？](sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db.md) — 芮淇讲透资治通鉴 episode opening 周纪三 through Mencius's non-killing unification claim, the failed five-state attack on Qin at Hangu Pass, and Song Kang Wang's violent rise and destruction.
@@ -7130,6 +7131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Qin Frontier Buffer Management / 秦国后方边患管理](concepts/QinFrontierBufferManagement.md) — Qin pattern of managing Yiqu as a rear-frontier constraint while maintaining eastward pressure.
 - [New Ruler Reform Signaling / 新君改革铺垫信号](concepts/NewRulerReformSignaling.md) — Zhao Wuling Wang's early adviser, fault-correction, and old-minister gestures read as preparation for later reform.
 - [Strategic Concession Diplomacy / 欲擒故纵式让利外交](concepts/StrategicConcessionDiplomacy.md) — Zhang Yi's pattern of returning a smaller captured asset and signaling goodwill to extract a larger concession from Wei.
+- [Unverified Territorial Promise Trap / 未验地先断交陷阱](concepts/UnverifiedTerritorialPromiseTrap.md) — Zhang Yi's 313 BCE tactic of making Chu break with Qi before Qin delivered the promised Shangyu land.
 - [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
 - [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
 - [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history inference from Wei's army list showing infantry growth, chariot decline, and still-auxiliary cavalry.

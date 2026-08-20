@@ -2,8 +2,8 @@
 title: "陈枕 / Chen Zhen (Warring States strategist)"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]
+last_updated: 2026-08-20
 ---
 
 # 陈枕 / Chen Zhen (Warring States strategist)
@@ -14,9 +14,12 @@ The episode treats Chen Zhen as someone whose power-political skill is comparabl
 
 Chen Zhen's recovery depends on [[ZuoShuang|左爽]]'s advice. Instead of fighting Zhang Yi for a Wei position under a hostile frame, he lets Zhang Yi's private words reach Chu and restores his standing with [[ChuHuaiwang|楚怀王]]. In the source, this makes him the main example of [[SituationalPoliticalPivot|因事立道式政治转身]]: a blocked career path can become usable if the actor changes the target court and turns the accusation into a credential elsewhere.
 
+[[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] gives Chen Zhen his clearest adviser role in Chu. He warns that [[QinState|秦国]] values Chu because of the [[QiState|齐国]] alliance, so Chu should not cut Qi off before Qin actually transfers the promised [[Shangyu|商於]] land. After [[ZhangYiStrategist|张仪]] changes six hundred li into six li, Chen Zhen again advises containment rather than rage-war; both warnings fail because [[ChuHuaiwang|楚怀王]] does not trust or respect the adviser enough to convert correct analysis into policy.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - rival who preemptively frames him as pro-Chu.
 - [[ZuoShuang|左爽]] - adviser who designs his pivot.
 - [[WeiState|魏国]], [[LiangHuiWang|魏惠王 / 梁惠王]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - attempted receiving court and restored patronage court.
 - [[HuiShi|惠施 / 惠师]] and [[GongsunYan|犀首公孙衍]] - adjacent Wei-court and strategist comparators.
 - [[SituationalPoliticalPivot|因事立道式政治转身]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], and [[ZonghengjiaDiplomacy|纵横家外交]] - concepts that make his episode role legible.
+- [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[Shangyu|商於]] - Zhouji 50 verification-first warning and failed post-error containment branch.

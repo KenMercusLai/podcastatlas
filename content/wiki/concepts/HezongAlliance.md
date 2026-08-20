@@ -2,8 +2,8 @@
 title: "合纵 / Hezong Alliance"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+last_updated: 2026-08-20
 ---
 
 # 合纵 / Hezong Alliance
@@ -26,6 +26,8 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] gives that failure an aftermath. [[QinState|秦国]] does not merely survive the Hangu Pass campaign; it pursues [[HanState|韩国]] and [[WeiState|魏国]] under [[Chulizi|樗里子]], wins at [[XiuyuBattle|修鱼之战]], and continues to [[ZhuozeBattle|浊泽]]. In this source, hezong failure creates retaliatory exposure for the front-line eastern states.
 
+[[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] adds an alliance-breaking case inside the same hezong problem. [[YingSi|秦惠文王]] wants to attack [[QiState|齐国]], but first sends [[ZhangYiStrategist|张仪]] to detach [[ChuState|楚国]] by promising [[ChuHuaiwang|楚怀王]] six hundred li of [[Shangyu|商於]]. [[ChenZhenWarringStates|陈枕]] sees the danger: once Chu cuts Qi loose before verifying the land transfer, Qin has already won the alliance objective without paying the promised price.
+
 The concept is therefore both diplomatic and historiographical. It names the kind of coalition Su Qin is famous for, while also recording this episode's caution that the chronicle's dating may compress or misplace a more complicated process.
 
 ## Key Claims
@@ -40,6 +42,7 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - Zhouji 37 adds a role distinction: Su Qin remains a key hezong figure in legend and rhetoric, while Gongsun Yan is presented as the practical anti-Qin organizer after returning to Wei.
 - Zhouji 45 adds an implementation warning: even a real anti-Qin army can fail if each member preserves its own forces and waits for another state to bear the first cost.
 - Zhouji 46 adds the aftermath warning: failed coalition action can concentrate retaliation on the members closest to Qin's line of pursuit.
+- Zhouji 50 adds a diplomatic vulnerability: Qin can attack hezong by making one member surrender alliance leverage before the promised compensation has been verified.
 
 ## Connections
 - [[SuQin|苏秦]], [[ZhaoSuhou|赵肃侯]], [[HanXuanhuiwang|韩宣惠王]], and [[ChuWeiwang|楚威王]] - strategist and rulers attached to the policy in the source sequence.
@@ -51,3 +54,4 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - [[HanguPass|函谷关]] and [[ChronicleChronologyDrift|编年错位]] - claimed Qin-containment marker and dating/effectiveness caution attached to this source's hezong notice.
 - [[ChuHuaiwang|楚怀王]], [[Mengchangjun|孟尝君 / 田文]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 Hangu Pass failure branch.
 - [[Chulizi|樗里子]], [[XiuyuBattle|修鱼之战]], [[ZhuozeBattle|浊泽]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 46 post-Hangu Qin pursuit branch.
+- [[ZhangYiStrategist|张仪]], [[ChenZhenWarringStates|陈枕]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 Qi-Chu rupture branch.

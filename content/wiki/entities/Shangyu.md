@@ -2,8 +2,8 @@
 title: "商於 / Shangyu"
 type: entity
 tags: [place, fief, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]
+last_updated: 2026-08-20
 ---
 
 # 商於 / Shangyu
@@ -12,9 +12,12 @@ last_updated: 2026-08-19
 
 The page is source-scoped. Shangyu matters here because it converts [[PeaceParleyEntrapment|和谈诱捕]] and the defeat of Wei into visible reward under [[QinState|秦国]]'s [[MilitaryMeritRankSystem|军功爵制]]-oriented political world. It later becomes the place where Shang Yang raises troops before being killed after fleeing back from Wei.
 
+[[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] reuses Shangyu in a very different Zhang Yi story. [[ZhangYiStrategist|张仪]] promises [[ChuHuaiwang|楚怀王]] six hundred li of Shangyu if [[ChuState|楚国]] cuts ties with [[QiState|齐国]], but after Chu breaks the alliance, he reduces the promised delivery to six li. This turns Shangyu from a real Qin reward in the Shang Yang branch into bait inside [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]].
+
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] - recipient of the fief.
 - [[QinState|秦国]] and [[WeiState|魏国]] - rewarding state and defeated opponent.
 - [[MilitaryMeritRankSystem|军功爵制]] and [[FarmingWarStatecraft|耕战逻辑]] - reward logic behind the fief.
 - [[QinEastwardPressure]] - strategic field in which the victory is won.
 - [[LegalistSelfBindingBackfire|作法自毙]] - later death branch connected to Shang Yang's return to the fief.
+- [[ZhangYiStrategist|张仪]], [[ChuHuaiwang|楚怀王]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 promised-land deception branch.
