@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode completing the Zhouji 92 hostage-succession branch: Mi Wan escapes Qin, Huang Xie stays behind and admits the plan after the prince is safe, Fan Ju persuades Qin Zhaoxiang Wang to spare and return Huang Xie, Mi Wan succeeds as Chu Kaolie Wang, and Huang Xie's risk becomes the basis for his Chunshenjun rise. Created Song Yu, Wushan Goddess, and Xiangwang Youyi Shennv Wuxin; updated overview, index, Chunshenjun, Mi Wan, Mi Heng, Fan Ju, Qin Zhaoxiang Wang, Qin State, Chu State, Chu Huaiwang, Zhuang Xin, Hostage Diplomacy Rupture, and Warring States Four Lords. No direct contradiction found; Shanghai/申城 and Huangpu River associations are kept source-scoped, and the title's "舔狗" language is recorded as a modern gloss on the "襄王有意，神女无心" motif.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》88丨你怎么看待凤凰男（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Fan Ju's first Qin audience: he shocks Qin Zhaoxiang Wang with the claim that Qin has only Xuan Taihou and Wei Ran, uses repeated "唯唯" and a risk statement to secure protection, waits out possible eavesdropping, criticizes Wei Ran's remote Qi campaign, and formulates yuanjiao jingong. Created Yuanjiao Jingong Strategy and Protective Remonstrance Sequencing; updated overview, index, Fan Ju, Wei Ran, Qin Zhaoxiang Wang, Xuan Taihou, Qin/Qi state pages, Qi Min Wang, private fief expansion through state war, Qin eastward pressure, zonghengjia diplomacy, chuaimo technique, lianheng strategy, foreign-relative court politics, and Warring States careerist mobility. No direct contradiction found; the title's "凤凰男" frame remains source-scoped because this transcript excerpt does not develop it.
@@ -8883,6 +8887,10 @@ Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned
 ## [2026-08-21] ingest | 《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Fan Ju's 远交近攻 implementation against Han, Bai Qi's seizure of Han Nanyang and Taihang-route cutting, the isolation of Shangdang, money-based disruption of a renewed hezong effort in Zhao, and Huang Xie's plan to return Chu crown prince Mi Wan from Qin before Chu's succession closes. Created Mi Wan, Han Nanyang, Taihang Road, Shangdang, Transport Corridor Severance, and Interest-Based Coalition Sabotage; updated overview, index, Fan Ju, Bai Qi, Chunshenjun, Qin Zhaoxiang Wang, Qi Wang Jian, Qin/Han/Zhao/Chu state pages, Mi Heng, Tian Dan, Zhou Nan Wang, Yuanjiao Jingong Strategy, Hezong Alliance, Hostage Diplomacy Rupture, and Qin Eastward Pressure. No direct contradiction found; the source-scoped Nanyang reference was kept separate from the earlier Nanyang Commandery page.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6229
+wiki_total_pages: 6231
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "WuJunIndieGameCreator"
     title: "巫君 / Wu Jun (indie game creator)"
     url: "/wiki/entities/wujunindiegamecreator/"
+  - key: "WushanGoddess"
+    title: "巫山神女 / Wushan Goddess"
+    url: "/wiki/entities/wushangoddess/"
   - key: "WuJunWarringStates"
     title: "巫郡 / Wu Commandery"
     url: "/wiki/entities/wujunwarringstates/"

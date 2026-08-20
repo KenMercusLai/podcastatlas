@@ -2,7 +2,7 @@
 title: "战国四公子 / Warring States Four Lords"
 type: concept
 tags: [patronage, talent, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The concept matters because it turns individual patronage anecdotes into a compa
 
 [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] adds a fiscal test for the same group through Pingyuanjun. As one of the Four Lords and a heavy retainer patron, Pingyuanjun faces [[ZhaoShe|赵奢]]'s enforcement when his household refuses taxes. His positive turn is not rhetorical brilliance or retainer quality, but accepting that aristocratic status must submit to [[EliteFiscalLawCompliance|elite fiscal-law compliance]] if [[ZhaoState|赵国]] is to remain strong enough to protect him.
 
+[[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] adds the first developed Chunshenjun comparison. The host distinguishes [[Chunshenjun|黄歇 / 春申君]] from the other lords by emphasizing his concrete service: he persuades Qin to spare Chu, accompanies [[MiWan|芈完 / 楚考烈王]] as hostage, risks his own life to cover Mi Wan's escape, and is rewarded after Mi Wan succeeds. In this telling, Chunshenjun's status comes less from inherited proximity alone than from merit converted into personal trust.
+
 ## Key Claims
 - The Four Lords are a reputation set organized around aristocratic retainer patronage.
 - The grouping should not automatically imply equal virtue, talent judgment, or political value across all four figures.
@@ -25,6 +27,7 @@ The concept matters because it turns individual patronage anecdotes into a compa
 - The source uses the group to bridge from Mengchangjun to Pingyuanjun rather than to provide full biographies of all four.
 - Pingyuanjun's first developed case adds a second test: a patron must distinguish reasoned debate from [[MingjiaDisputation|名辩]] used as verbal domination.
 - Zhouji 86 adds a fiscal-state test: aristocratic patrons cannot make private retainer costs and household privilege exempt from state taxation without weakening the polity that supports them.
+- Zhouji 92 part 2 adds a merit-and-trust test: a Four Lords reputation can be built from risky service to a future ruler, not only from aristocratic birth or spending on retainers.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[Xinlingjun|信陵君]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - the four named patrons.
@@ -33,3 +36,4 @@ The concept matters because it turns individual patronage anecdotes into a compa
 - [[QiState|齐国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[ChuState|楚国]] - state anchors for the four figures.
 - [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 Pingyuanjun retainer-debate test.
 - [[ZhaoShe|赵奢]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 Pingyuanjun tax-compliance test.
+- [[MiWan|芈完 / 楚考烈王]], [[HostageDiplomacyRupture|质子外交破裂]], and [[FanJu|范雎]] - Zhouji 92 part 2 Chunshenjun rise from hostage-court risk.

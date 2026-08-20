@@ -2,7 +2,7 @@
 title: "芈横 / 楚顷襄王 / Mi Heng"
 type: entity
 tags: [person, crown-prince, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,10 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 
 [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]] moves Mi Heng to his deathbed setting. The episode says his serious illness makes the hostage status of [[MiWan|太子完]] urgent: if Mi Wan cannot return from Qin, another Chu prince may take the throne. Mi Heng is not the active speaker in the episode, but his illness transforms the Qin-Chu hostage guarantee into a succession crisis.
 
+[[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] closes Mi Heng's reign and gives a retrospective judgment. The episode emphasizes his humiliations: killing a Qin official as a hostage prince, failing to avenge [[ChuHuaiwang|楚怀王]], accommodating [[QinState|秦国]], and losing the old Chu center under Qin pressure. It still preserves a small "浪子回头" counterpoint through [[ZhuangXin|庄辛]]'s late counsel and territorial recovery.
+
+The same source adds Mi Heng's literary afterlife. Through [[SongYu|宋玉]] and the [[WushanGoddess|巫山神女]] story, Chu Qingxiang Wang becomes "襄王" in [[XiangwangYouyiShennvWuxin|襄王有意，神女无心]], a remembered figure of one-sided longing rather than only a failed Warring States ruler.
+
 ## Connections
 - [[ChuState|楚国]] and [[ChuHuaiwang|楚怀王]] - polity and father/ruler connected to his hostage mission.
 - [[QinState|秦国]] and [[QinZhaoxiangwang|秦昭襄王]] - hostage court and future attacker.
@@ -48,3 +52,4 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 - [[Chunshenjun|黄歇 / 春申君]], [[InterestReframingPersuasion|利益重构式说服]], [[HanState|韩国]], and [[WeiState|魏国]] - Zhouji 84 route-risk argument that prevents an immediate follow-on attack.
 - [[HostageDiplomacyRupture|质子外交破裂]], [[QinState|秦国]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 85 hostage sequel after Qin-Chu repair.
 - [[MiWan|芈完 / 楚考烈王]], [[Chunshenjun|黄歇 / 春申君]], and [[FanJu|范雎]] - Zhouji 92 illness-driven hostage-return crisis.
+- [[SongYu|宋玉]], [[WushanGoddess|巫山神女]], and [[XiangwangYouyiShennvWuxin|襄王有意，神女无心]] - Zhouji 92 part 2 literary afterlife around Chu Qingxiang Wang.

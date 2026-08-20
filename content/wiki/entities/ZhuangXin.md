@@ -2,7 +2,7 @@
 title: "庄辛 / Zhuang Xin"
 type: entity
 tags: [person, chu-state, adviser, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
 last_updated: 2026-08-21
 ---
 
@@ -14,9 +14,12 @@ After [[BaiQi|白起]] breaks the Chu capital region, the king recalls Zhuang Xi
 
 His wiki role is therefore remonstrance after delayed recognition. Zhuang Xin does not stop the first catastrophe, but he supplies a language for post-failure repair and connects [[StrategicDepthDefense|strategic depth]] with renewed political attention.
 
+[[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] revisits the same story in a retrospective evaluation of [[MiHeng|楚顷襄王]]. The episode still criticizes Mi Heng's reign, but uses Zhuang Xin to mark the limit of that judgment: Chu Qingxiang Wang fails badly before listening, yet his late acceptance of advice lets the host describe him as having at least some "浪子回头" quality.
+
 ## Connections
 - [[MiHeng|楚顷襄王]] - ruler he warns and later advises.
 - [[ChuState|楚国]] - state whose crisis gives his advice force.
 - [[BaiQi|白起]] and [[QinState|秦国]] - external pressure that vindicates the warning.
 - [[Zhanguoce|《战国策》]] - source tradition for the remonstrance story.
 - [[StrategicDepthDefense|战略纵深防御]] and [[WarringStatesWarBrutalization|战国战争残酷化]] - concepts around Chu's recovery after violent loss.
+- [[XiangwangYouyiShennvWuxin|襄王有意，神女无心]] - separate Zhouji 92 part 2 afterlife of the same ruler Zhuang Xin advises.

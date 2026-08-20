@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6229
+wiki_total_pages: 6231
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1391,6 +1391,9 @@ wiki_pages:
   - key: "SoongAiLing"
     title: "宋爱玲"
     url: "/wiki/entities/soongailing/"
+  - key: "SongYu"
+    title: "宋玉 / Song Yu"
+    url: "/wiki/entities/songyu/"
   - key: "SongEmpress"
     title: "宋皇后 / Empress Song"
     url: "/wiki/entities/songempress/"
