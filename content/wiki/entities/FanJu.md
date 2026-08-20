@@ -2,7 +2,7 @@
 title: "范雎 / Fan Ju"
 type: entity
 tags: [person, strategist, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The same source turns Fan Ju's near death into a career pivot. [[ZhengAnping|郑
 
 [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] gives Fan Ju the revenge branch that follows authority recovery. After Qin pressure makes [[WeiState|魏国]] send [[XuJia|须贾]] to seek peace, Fan Ju appears first as a poor old acquaintance, then lets Xu Jia discover that the man who drove him into the Qin chancellor's residence is the chancellor himself. He spares Xu Jia because of the robe gift but humiliates him before envoys, then demands [[WeiQiWarringStates|魏齐]]'s head under threat against [[Daliang|大梁]], making him the source case for [[PersonalRevengeThroughStatePower|以国力行私仇]].
 
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] keeps Fan Ju mostly in the background but explains why the next Qin target is [[ZhaoState|赵国]]. The source says Qin is also attacking Han under [[YuanjiaoJingongStrategy|远交近攻]], while Zhao is newly vulnerable because [[ZhaoDan|赵丹 / 赵孝成王]] is young, [[ZhaoWeihou|赵威后]] is regent, and [[WeiQiWarringStates|魏齐]] has fled to [[Pingyuanjun|平原君]].
+
 ## Connections
 - [[BaiQi|白起]] - figure whose Yique explanation Fan Ju prompts.
 - [[YiqueBattle|伊阙之战]] - battle being discussed.
@@ -36,3 +38,4 @@ The same source turns Fan Ju's near death into a career pivot. [[ZhengAnping|郑
 - [[XuanTaihou|宣太后]], [[WeiRan|魏冉]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 court challenge, protected speech sequence, and strategic program.
 - [[QinFourNoblesCourtPower|秦国四贵权力结构]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], [[GaolingJunQin|高陵君]], [[ZhuoChi|卓齿]], and [[LiDui|李兑]] - Zhouji 89 internal authority warning and precedent cases.
 - [[PersonalRevengeThroughStatePower|以国力行私仇]], [[Daliang|大梁]], [[Pingyuanjun|平原君]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - Zhouji 90 revenge escalation and Zhao refuge problem.
+- [[ZhaoWeihou|赵威后]], [[ChangAnJunZhao|长安君]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 91 shows Zhao's succession/refuge weakness becoming a hostage-aid crisis.

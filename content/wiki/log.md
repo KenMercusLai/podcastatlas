@@ -8863,3 +8863,11 @@ Added source page for a 芮淇讲透资治通鉴 episode completing Fan Ju's Qin
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin attacking newly vulnerable Zhao in 265 BCE, Qi conditioning aid on Chang'an Jun as hostage, and Chu Long using emotional de-escalation and family analogy to persuade Zhao Weihou. Created pages for Chu Long, Zhao Weihou, Chang'an Jun, Lu Buwei, and Emotional De-escalation Persuasion; updated overview, index, Fan Ju, Pingyuanjun, Zhao Dan, Anguo Jun/Qin Xiaowen Wang, Qin/Zhao/Qi state pages, Qin Zhaoxiang Wang, Xuan Taihou, Wei Ran, Yuanjiao Jingong Strategy, Queen-Mother Regency, Hostage Diplomacy Rupture, and Zhanguo Ce. No direct contradiction found; Chang'an Jun's final hostage outcome is deferred because this episode stops mid-argument.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

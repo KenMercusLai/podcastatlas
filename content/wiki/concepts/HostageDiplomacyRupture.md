@@ -2,7 +2,7 @@
 title: "Hostage Diplomacy Rupture / 质子外交破裂"
 type: concept
 tags: [diplomacy, hostage, alliance, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The hostage arrangement initially works because Qin sends [[KeqingTong|客卿通
 
 [[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] adds a Qin-facing puzzle rather than a clean rupture. [[QinDaotaizi|秦悼太子]] dies while serving as hostage in [[WeiState|魏国]], even as Qin is attacking Wei under [[YuanjiaoJingongStrategy|远交近攻]]. The episode uses the case to question how hostage safety, succession preference, and military strategy interact when the sending state is stronger than the receiving state.
 
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] gives the pre-rupture decision point. [[ZhaoState|赵国]] seeks help from [[QiState|齐国]] while under [[QinState|秦国]] attack, and Qi demands [[ChangAnJunZhao|长安君]] as hostage before committing aid. [[ZhaoWeihou|赵威后]]'s refusal shows that hostage diplomacy can fail before dispatch if domestic affection blocks the credibility instrument; [[ChuLong|触龙]]'s persuasion works on that emotional precondition rather than on interstate terms alone.
+
 ## Key Claims
 - Hostage diplomacy can make an alliance credible only while the hostage remains politically controllable.
 - A private conflict involving a hostage can become a state-level breach if it harms a host-state official.
@@ -26,6 +28,7 @@ The hostage arrangement initially works because Qin sends [[KeqingTong|客卿通
 - A failed hostage arrangement does not remove hostage diplomacy from the toolkit; pressured rulers may reuse the same mechanism with another state.
 - A hostage can become succession infrastructure: once the sending ruler is captured, the receiving state must decide whether the hostage is leverage or a depreciating asset.
 - A hostage can also reveal succession preference: if the sending ruler attacks the host state anyway, the hostage may not be politically decisive.
+- A hostage demand can rupture domestically before it ruptures between states when the sending court cannot convert a beloved child into diplomatic collateral.
 
 ## Connections
 - [[MiHeng|芈横]], [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]], and [[QinState|秦国]] - hostage, sending ruler, sending state, and receiving state.
@@ -35,3 +38,4 @@ The hostage arrangement initially works because Qin sends [[KeqingTong|客卿通
 - [[QiMinWang|齐湣王]] - ruler who decides whether Mi Heng remains leverage or returns to Chu in Zhouji 62.
 - [[WarringStatesAllianceSwitching|战国同盟转向]] and [[EnvoyKillingTaboo|不斩来使]] - adjacent diplomatic-rupture concepts.
 - [[QinDaotaizi|秦悼太子]], [[QinXiaowenwang|安国君柱 / 秦孝文王]], [[WeiState|魏国]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 89 Qin crown-prince hostage puzzle.
+- [[ZhaoWeihou|赵威后]], [[ChangAnJunZhao|长安君]], [[ChuLong|触龙]], and [[QiState|齐国]] - Zhouji 91 hostage-demand persuasion case.

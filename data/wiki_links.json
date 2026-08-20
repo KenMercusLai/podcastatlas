@@ -7759,6 +7759,10 @@
     "title": "Chanel",
     "url": "/wiki/entities/chanel/"
   },
+  "ChangAnJunZhao": {
+    "title": "长安君 / Lord Chang'an of Zhao",
+    "url": "/wiki/entities/changanjunzhao/"
+  },
   "ChangAnTang": {
     "title": "唐代长安 / Tang Chang'an",
     "url": "/wiki/entities/changantang/"
@@ -8782,6 +8786,10 @@
   "ChuHuaiwang": {
     "title": "楚怀王 / King Huai of Chu",
     "url": "/wiki/entities/chuhuaiwang/"
+  },
+  "ChuLong": {
+    "title": "触龙 / Chu Long",
+    "url": "/wiki/entities/chulong/"
   },
   "ChuShengWang": {
     "title": "楚声王 / King Sheng of Chu",
@@ -13298,6 +13306,10 @@
   "EmotionalContagion": {
     "title": "Emotional Contagion / 情绪感染",
     "url": "/wiki/concepts/emotionalcontagion/"
+  },
+  "EmotionalDeescalationPersuasion": {
+    "title": "Emotional De-escalation Persuasion / 情绪降温式说服",
+    "url": "/wiki/concepts/emotionaldeescalationpersuasion/"
   },
   "EmotionalEnergyExtraction": {
     "title": "Emotional Energy Extraction / 情绪能量掠夺",
@@ -24710,6 +24722,10 @@
   "LoyaltyCollateralDilemma": {
     "title": "Loyalty-Collateral Dilemma / 忠义牵连困境",
     "url": "/wiki/concepts/loyaltycollateraldilemma/"
+  },
+  "LuBuwei": {
+    "title": "吕不韦 / Lu Buwei",
+    "url": "/wiki/entities/lubuwei/"
   },
   "LuChuan": {
     "title": "陆川 / Lu Chuan",
@@ -44927,6 +44943,10 @@
     "title": "赵廷美 / Zhao Tingmei",
     "url": "/wiki/entities/zhaotingmei/"
   },
+  "ZhaoWeihou": {
+    "title": "赵威后 / Zhao Weihou",
+    "url": "/wiki/entities/zhaoweihou/"
+  },
   "ZhaoWuhou": {
     "title": "赵武侯 / Marquis Wu of Zhao",
     "url": "/wiki/entities/zhaowuhou/"
@@ -48726,5 +48746,9 @@
   "zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm": {
     "title": "《资治通鉴·周纪》90丨揭秘先秦最完美的复仇",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm/"
+  },
+  "zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok": {
+    "title": "《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok/"
   }
 }

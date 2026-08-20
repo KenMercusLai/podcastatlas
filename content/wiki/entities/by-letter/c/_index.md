@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6220
+wiki_total_pages: 6224
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1250,12 +1250,18 @@ wiki_pages:
   - key: "ChudongZahuopu"
     title: "触动杂货铺 / Chudong Zahuopu"
     url: "/wiki/entities/chudongzahuopu/"
+  - key: "ChuLong"
+    title: "触龙 / Chu Long"
+    url: "/wiki/entities/chulong/"
   - key: "ChaoGe"
     title: "超哥"
     url: "/wiki/entities/chaoge/"
   - key: "ChedunTown"
     title: "车墩镇 / Chedun Town"
     url: "/wiki/entities/cheduntown/"
+  - key: "ChangAnJunZhao"
+    title: "长安君 / Lord Chang'an of Zhao"
+    url: "/wiki/entities/changanjunzhao/"
   - key: "ChangjiangBusinessSchool"
     title: "长江商学院 / Cheung Kong Graduate School of Business"
     url: "/wiki/entities/changjiangbusinessschool/"

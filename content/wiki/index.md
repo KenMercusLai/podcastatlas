@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（1）](sources/zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok.md) — 芮淇讲透资治通鉴 episode on Qin pressure against young-regent Zhao, Qi's Chang'an Jun hostage condition, and Chu Long's emotional de-escalation persuasion of Zhao Weihou.
 - [《资治通鉴·周纪》90丨揭秘先秦最完美的复仇](sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm.md) — 芮淇讲透资治通鉴 episode on Fan Ju's revenge against Xu Jia and Wei Qi through Qin's near-Wei pressure, public humiliation, and the Pingyuanjun/Zhao asylum problem.
 - [《资治通鉴·周纪》89丨秦王竟被他怼“妈宝男”？](sources/zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19.md) — 芮淇讲透资治通鉴 episode on Fan Ju turning 远交近攻 into a Qin court-authority problem through the four nobles, Xuan Taihou, Wei Ran, Qin prince hostage puzzle, and overmighty-minister warnings.
 - [《资治通鉴·周纪》88丨你怎么看待凤凰男（2）](sources/zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi.md) — 芮淇讲透资治通鉴 episode on Fan Ju's first Qin audience, protected remonstrance against Xuan Taihou and Wei Ran, critique of remote Qi campaigns, and formulation of 远交近攻.
@@ -1109,6 +1110,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [触龙 / Chu Long](entities/ChuLong.md) — Zhao left master whose slow, family-centered approach to Zhao Weihou anchors the emotional de-escalation persuasion case.
+- [赵威后 / Zhao Weihou](entities/ZhaoWeihou.md) — Zhao regent and mother of Chang'an Jun whose refusal of Qi's hostage demand creates the Chu Long persuasion crisis.
+- [长安君 / Lord Chang'an of Zhao](entities/ChangAnJunZhao.md) — Zhao Weihou's youngest son whom Qi demands as hostage before aiding Zhao against Qin.
+- [吕不韦 / Lu Buwei](entities/LuBuwei.md) — Future Qin succession actor foreshadowed when Anguo Jun is made crown prince.
 - [赵丹 / 赵孝成王 / King Xiaocheng of Zhao](entities/ZhaoDan.md) — Zhao ruler succeeding Zhao Huiwen Wang as Wei Qi's flight to Pingyuanjun turns Fan Ju's revenge into a Zhao risk.
 - [秦悼太子 / Qin Daotaizi](entities/QinDaotaizi.md) — Qin crown prince whose death as a hostage in Wei makes Qin's near-attack strategy a succession puzzle.
 - [安国君柱 / 秦孝文王 / King Xiaowen of Qin](entities/QinXiaowenwang.md) — Qin Zhaoxiang Wang's later crown-prince choice after Qin Daotaizi's death.
@@ -7333,6 +7338,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Emotional De-escalation Persuasion / 情绪降温式说服](concepts/EmotionalDeescalationPersuasion.md) — Chu Long pattern of lowering emotional threat before turning Zhao Weihou toward the hostage decision.
 - [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where Fan Ju routes private revenge through Qin's real diplomatic and military pressure on Wei.
 - [Qin Four Nobles Court Power / 秦国四贵权力结构](concepts/QinFourNoblesCourtPower.md) — Fan Ju's Qin court-power diagnosis where Wei Ran, Huayang Jun, Jingyang Jun, Gaoling Jun, and Xuan Taihou leave Qin Zhaoxiang Wang with title but limited authority.
 - [远交近攻 / Yuanjiao Jingong Strategy](concepts/YuanjiaoJingongStrategy.md) — Fan Ju's Qin strategy of diplomatically managing distant states while attacking nearby states whose territory Qin can retain.

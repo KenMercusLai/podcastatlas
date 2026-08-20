@@ -2,7 +2,7 @@
 title: "魏冉 / Wei Ran"
 type: entity
 tags: [person, qin-state, minister, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,8 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 
 [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] gives Wei Ran's removal and afterlife. He is stripped of office and sent back to [[Dingtao|陶 / 定陶]], with a massive convoy whose private wealth underscores the earlier criticism that he had outgrown normal ministerial bounds. The host notes [[SimaQian|司马迁]]'s sympathy for Wei Ran's Qin accomplishments but does not fully accept it, arguing that a minister who forgets ruler-minister limits cannot be treated as simply wronged.
 
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] repeats Wei Ran's removal as part of Qin's 265 BCE internal reset. The source uses that reset to move from the [[QinFourNoblesCourtPower|four-nobles]] problem into succession stabilization through [[QinXiaowenwang|安国君柱]] and then into Qin's attack on Zhao.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - nephew whose accession he secures.
 - [[XuanTaihou|芈八子 / 宣太后]] - related power configuration around Ying Ji.
@@ -50,3 +52,4 @@ The episode also gives him a structural role: under a young Qin Zhaoxiang Wang, 
 - [[YuanjiaoJingongStrategy|远交近攻]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[XuanTaihou|宣太后]] - Zhouji 88 part 2 strategic critique and internal Qin authority problem.
 - [[QinFourNoblesCourtPower|秦国四贵权力结构]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], [[GaolingJunQin|高陵君]], [[ZhuoChi|卓齿]], and [[LiDui|李兑]] - Zhouji 89 widened four-nobles and overmighty-minister warning.
 - [[SimaQian|司马迁]], [[Dingtao|陶 / 定陶]], and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - Zhouji 90 removal, wealth display, and historiographical disagreement.
+- [[QinXiaowenwang|安国君柱 / 秦孝文王]], [[QinZhaoxiangwang|秦昭襄王]], and [[ZhaoState|赵国]] - Zhouji 91 post-removal succession and military-pressure transition.

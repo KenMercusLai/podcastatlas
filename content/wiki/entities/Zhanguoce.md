@@ -2,7 +2,7 @@
 title: "《战国策》 / Zhanguo Ce"
 type: entity
 tags: [book, chinese-history, pre-qin, historiography]
-sources: [zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ The page's role is historiographical. It helps keep source variants visible inst
 
 [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] cites Zhanguo Ce for the source-limited background that [[ZhaoShe|赵奢]] may have served in [[YanState|燕国]] as 上谷守 before returning to [[ZhaoState|赵国]] as a tax official. The episode uses the material cautiously: it helps explain Zhao She's soldierly tax-enforcement style, but does not turn the sparse notice into a fully certain early biography.
 
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] draws on the famous [[ChuLong|触龙]] and [[ZhaoWeihou|赵威后]] persuasion scene. In the wiki, that makes Zhanguo Ce a source not only for adversarial strategist speech, but also for gradual emotional access: bodily weakness, family concern, and the future-security of children become the path into a blocked state decision.
+
 ## Connections
 - [[NieZheng|聂政]], [[XiaLei|侠累]], and [[HanAihou|韩哀侯]] - variant story branch.
 - [[YuRang|豫让]] and [[RetainerReciprocityEthic]] - Zhouji 04 "士为知己者死" branch.
@@ -51,3 +53,4 @@ The page's role is historiographical. It helps keep source variants visible inst
 - [[BaiQi|白起]], [[FanJu|范雎]], [[YiqueBattle|伊阙之战]], and [[MangMao|芒卯]] - Zhouji 67 military explanation and ambiguous persuader-story material.
 - [[ZhuangXin|庄辛]], [[MiHeng|楚顷襄王]], and [[StrategicDepthDefense|战略纵深防御]] - Zhouji 82 "亡羊补牢" remonstrance and Chu recovery branch.
 - [[ZhaoShe|赵奢]], [[YanState|燕国]], [[Pingyuanjun|平原君]], and [[EliteFiscalLawCompliance|贵族税法同遵]] - Zhouji 86 Zhao She background and fiscal-law persuasion branch.
+- [[ChuLong|触龙]], [[ZhaoWeihou|赵威后]], [[ChangAnJunZhao|长安君]], and [[EmotionalDeescalationPersuasion|情绪降温式说服]] - Zhouji 91 gentle-access persuasion branch.

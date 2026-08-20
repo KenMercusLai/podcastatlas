@@ -2,7 +2,7 @@
 title: "Queen-Mother Regency / 太后摄政"
 type: concept
 tags: [court-politics, regency, succession, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-21
 ---
 
@@ -14,12 +14,15 @@ The concept matters because regency is not only family caretaking. In this sourc
 
 [[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] adds the afterlife of regency. Even after [[QinZhaoxiangwang|秦昭襄王]] is no longer simply a young accession figure, [[FanJu|范雎]] can still describe [[XuanTaihou|宣太后]] and the [[QinFourNoblesCourtPower|秦国四贵权力结构]] as the people who actually constrain royal authority.
 
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] adds a Zhao-side case through [[ZhaoWeihou|赵威后]]. After [[ZhaoHe|赵惠文王赵何]] dies and [[ZhaoDan|赵丹 / 赵孝成王]] succeeds while young, Zhao's queen mother becomes the operating decision-maker in a military emergency. Her maternal attachment to [[ChangAnJunZhao|长安君]] initially blocks the hostage concession needed for [[QiState|齐国]] aid, so regency appears as both necessary authority and emotional bottleneck.
+
 ## Key Claims
 - A young ruler creates room for the ruler's mother to hold actual governing power.
 - The queen mother's power is amplified when backed by armed kin such as Wei Ran.
 - Regency changes foreign policy because maternal lineage and court faction can make one external alignment more attractive.
 - The pattern overlaps with [[ForeignRelativeCourtPolitics|楚系外戚政治]] but focuses on the queen mother's governing position.
 - Regency can outlast the immediate minority period if offices, kin networks, and court personnel remain aligned around the queen mother.
+- Zhao Weihou shows that regency can turn a child's personal safety into a state-level diplomatic constraint.
 
 ## Connections
 - [[XuanTaihou|芈八子 / 宣太后]], [[QinZhaoxiangwang|秦昭襄王]], and [[WeiRan|魏冉]] - central regency actors.
@@ -27,3 +30,4 @@ The concept matters because regency is not only family caretaking. In this sourc
 - [[YingZhuang|嬴壮]], [[QinHuiwenhou|惠文后]], and [[SuccessionNonDesignationRisk|未定继承人风险]] - succession violence that precedes consolidation.
 - [[ForeignRelativeCourtPolitics|楚系外戚政治]] - adjacent kin-power concept.
 - [[FanJu|范雎]], [[QinFourNoblesCourtPower|秦国四贵权力结构]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 89 regency afterlife as strategic obstacle.
+- [[ZhaoWeihou|赵威后]], [[ZhaoDan|赵丹 / 赵孝成王]], [[ChangAnJunZhao|长安君]], and [[ChuLong|触龙]] - Zhouji 91 Zhao regency and persuasion case.

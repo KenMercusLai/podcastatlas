@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 4860
+wiki_total_pages: 4861
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "EmotionalContagion"
     title: "Emotional Contagion / 情绪感染"
     url: "/wiki/concepts/emotionalcontagion/"
+  - key: "EmotionalDeescalationPersuasion"
+    title: "Emotional De-escalation Persuasion / 情绪降温式说服"
+    url: "/wiki/concepts/emotionaldeescalationpersuasion/"
   - key: "EmotionalEnergyExtraction"
     title: "Emotional Energy Extraction / 情绪能量掠夺"
     url: "/wiki/concepts/emotionalenergyextraction/"
