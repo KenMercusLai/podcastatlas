@@ -2,7 +2,7 @@
 title: "长平之战 / Battle of Changping"
 type: entity
 tags: [battle, zhao-state, qin-state, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,12 @@ The same source gives Changping its first Qin-side command contrast. Zhao's repl
 
 The same source widens Changping into a diplomatic starvation crisis. Qin Zhaoxiang Wang moves to Henei and mobilizes males over fifteen to keep Zhao relief and supplies out, while the other states decline effective help. Qi's refusal to lend grain despite Zhouzi's warning makes Changping a concrete case of [[ShieldStateRescueFailure|屏障国救援失灵]] and pushes the trapped Zhao army into forty-six days without food.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] closes the battle branch. After starvation and failed relief, Zhao Kuo divides the army into four breakout groups and personally leads the fiercest assault, but Qin's barriers and crossbows stop the attack and Zhao Kuo is killed by arrows. Once the commander dies, the exhausted Zhao army collapses and surrenders.
+
+The same source makes the final killing and memory problem explicit. Bai Qi judges the surrendered troops unsafe because Shangdang had shifted from Qin's grasp to Zhao and because Zhao soldiers might not accept captivity; he then uses deception to calm them before killing the prisoners and sending 240 young soldiers back to Zhao. The episode frames this as [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] inside the wider [[WarringStatesWarBrutalization|战国战争残酷化]] pattern, while keeping exact casualty and "坑杀" mechanics source-scoped.
+
+The final installment also adds a strategic afterword. Qin wins one of the largest and most complete encirclement victories in the source's telling, but the episode stresses that Qin is not cost-free: after Changping, [[WangLing|王陵]] attacks [[Handan|邯郸]] unsuccessfully and Bai Qi resists replacing him because Qin is already strained. Changping therefore accelerates Qin's road toward unification without abolishing [[WarCostTempoDiscipline|战争成本与速决纪律]].
+
 ## Connections
 - [[Shangdang|上党]], [[FengTing|冯亭]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - decision prelude.
 - [[ZhaoState|赵国]], [[QinState|秦国]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[Pingyuanjun|平原君]] - states and Zhao decision figures.
@@ -30,3 +36,4 @@ The same source widens Changping into a diplomatic starvation crisis. Qin Zhaoxi
 - [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - concepts that now define the pre-battle replacement phase.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[QinZhaoxiangwang|秦昭襄王]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Zhouji 94 part 2 encirclement, mass mobilization, and starvation branch.
 - [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], [[ZhouziQiMinister|周子]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Qi grain-refusal and failed shield-state rescue branch.
+- [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[WangLing|王陵]], and [[Handan|邯郸]] - Zhouji 94 part 3 surrender, killing of prisoners, and post-victory cost limit.

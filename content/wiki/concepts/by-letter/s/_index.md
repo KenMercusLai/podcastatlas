@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 4869
+wiki_total_pages: 4871
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1310,6 +1310,9 @@ wiki_pages:
   - key: "SurgicalOutcomeMetricDistortion"
     title: "Surgical Outcome Metric Distortion"
     url: "/wiki/concepts/surgicaloutcomemetricdistortion/"
+  - key: "SurrenderedPrisonerSecurityDilemma"
+    title: "Surrendered Prisoner Security Dilemma / 杀降安全困境"
+    url: "/wiki/concepts/surrenderedprisonersecuritydilemma/"
   - key: "SurrogacyPolicyHypocrisy"
     title: "Surrogacy Policy Hypocrisy"
     url: "/wiki/concepts/surrogacypolicyhypocrisy/"

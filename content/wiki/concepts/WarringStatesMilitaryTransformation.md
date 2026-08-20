@@ -2,7 +2,7 @@
 title: "Warring States Military Transformation / 战国军事形态转变"
 type: concept
 tags: [warfare, military-history, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 
 [[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]] adds a Zhao command-sequencing case through [[ZhaoShe|赵奢]] at [[EyuBattle|阏与 / 燕宇之战]]. The transformation here is not cavalry reform but professional command behavior: secrecy before movement, intentional exposure of false information to a spy, forced marching, fortified encampment, acceptance of [[XuLiWarringStates|许历 / 许立]]'s terrain advice, and immediate seizure of high ground.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] adds the large-encirclement and manpower-cost side of the same transformation. The episode presents [[ChangpingBattle|长平之战]] as an unusually early, large, and complete encirclement battle, but its lesson is not only scale. The post-battle discussion of [[BaiQi|白起]] refusing an immediate [[Handan|邯郸]] campaign because Qin is "国虚民饥" shows that mass armies make [[WarCostTempoDiscipline|战争成本与速决纪律]] central to strategic timing.
+
 ## Key Claims
 - Exaggerated troop figures can still preserve useful evidence about military organization.
 - The episode reads the Wei list as showing large infantry categories rather than a chariot-dominated army.
@@ -38,6 +40,7 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - Zhouji 65 adds frontier recruitment: military transformation includes bringing Loufan fighters into Zhao's usable force base.
 - Zhouji 67 adds command cognition: a large army can be beaten by reading terrain, allied incentives, and attack sequence better than the coalition commander does.
 - Zhouji 87 adds command sequencing: courage becomes militarily effective when linked to information control, tempo, camp security, and high-ground timing.
+- Zhouji 94 part 3 adds mass-war cost: encirclement victory can destroy an enemy army while leaving the victor too depleted for immediate follow-on conquest.
 
 ## Connections
 - [[WeiState|魏国]], [[SuQin|苏秦]], and [[HezongAlliance|合纵]] - source setting and diplomatic use.
@@ -49,3 +52,4 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - [[Loufan|楼烦]] and [[PowerExitTrap|权力退场困境]] - Zhouji 65 frontier recruitment amid Zhao Wuling Wang's post-abdication military program.
 - [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], [[GongsunXiWarringStates|公孙喜]], and [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhouji 67 command-analysis and separate-defeat branch.
 - [[ZhaoShe|赵奢]], [[EyuBattle|阏与 / 燕宇之战]], [[XuLiWarringStates|许历 / 许立]], [[BattlefieldInformationControl|战场信息控制]], and [[HighGroundTimingAdvantage|制高点时机优势]] - Zhouji 87 command-sequencing and terrain-timing branch.
+- [[ChangpingBattle|长平之战]], [[BaiQi|白起]], [[WangLing|王陵]], [[Handan|邯郸]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 encirclement scale and post-victory exhaustion.

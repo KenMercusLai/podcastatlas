@@ -38483,6 +38483,10 @@
     "title": "Surgical Outcome Metric Distortion",
     "url": "/wiki/concepts/surgicaloutcomemetricdistortion/"
   },
+  "SurrenderedPrisonerSecurityDilemma": {
+    "title": "Surrendered Prisoner Security Dilemma / 杀降安全困境",
+    "url": "/wiki/concepts/surrenderedprisonersecuritydilemma/"
+  },
   "SurrogacyPolicyHypocrisy": {
     "title": "Surrogacy Policy Hypocrisy",
     "url": "/wiki/concepts/surrogacypolicyhypocrisy/"
@@ -42047,6 +42051,10 @@
     "title": "Wang Laichun",
     "url": "/wiki/entities/wanglaichun/"
   },
+  "WangLing": {
+    "title": "王陵 / Wang Ling",
+    "url": "/wiki/entities/wangling/"
+  },
   "WangLixin": {
     "title": "王立新 / Wang Lixin",
     "url": "/wiki/entities/wanglixin/"
@@ -42210,6 +42218,10 @@
   "WarAwareDisasterRecovery": {
     "title": "War-Aware Disaster Recovery",
     "url": "/wiki/concepts/warawaredisasterrecovery/"
+  },
+  "WarCostTempoDiscipline": {
+    "title": "War Cost Tempo Discipline / 战争成本与速决纪律",
+    "url": "/wiki/concepts/warcosttempodiscipline/"
   },
   "WarDisasterCompounding": {
     "title": "War-Disaster Compounding",
@@ -48882,5 +48894,9 @@
   "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns": {
     "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns/"
+  },
+  "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9": {
+    "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9/"
   }
 }

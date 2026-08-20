@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9.md) — 芮淇讲透资治通鉴 episode on Zhao Kuo's failed Changping breakout and death, Bai Qi's killing of surrendered Zhao troops, Qin's post-victory exhaustion, and Sunzi's war-cost frame.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Changping encirclement, Zhao Kuo's failed attack, Qin mass mobilization, Zhao's starvation, and Qi's refusal to lend grain.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz.md) — 芮淇讲透资治通鉴 episode on Zhao's failed direct peace signal, Lian Po's defensive Changping posture, Fan Ju's rumor operation, Zhao Kuo's appointment, and Qin's secret Bai Qi command change.
 - [《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）](sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n.md) — 芮淇讲透资治通鉴 episode completing Zhao's Shangdang acceptance, Zhao Bao's fuller Qin-capacity warning, Zhao Xiaocheng Wang's ominous dream, and Sima Qian's four-dream Zhao-lineage structure.
@@ -1117,16 +1118,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王陵 / Wang Ling](entities/WangLing.md) — Qin general whose difficult post-Changping attack on Handan prompts Bai Qi's war-cost refusal.
 - [周子 / Zhouzi (Qi minister)](entities/ZhouziQiMinister.md) — Qi minister whose failed grain-relief remonstrance warns that Zhao is a shield for Qi and Chu during Changping.
 - [虞卿 / Yu Qing](entities/YuQing.md) — Zhao adviser who warns that direct peace with Qin will isolate Zhao unless Chu/Qi hezong leverage is rebuilt first.
 - [娄昌 / Lou Chang](entities/LouChang.md) — Zhao adviser whose direct-peace option is contrasted with Yu Qing's coalition-first warning before Changping.
 - [郑朱 / Zheng Zhu](entities/ZhengZhu.md) — Zhao envoy whose visible reception in Qin turns a peace mission into a signal that isolates Zhao diplomatically.
 - [王龁 / Wang He](entities/WangHe.md) — Qin general pressing Zhao at Changping before Qin secretly places Bai Qi above him as main commander.
 - [赵母 / Zhao Kuo's Mother](entities/ZhaoKuoMother.md) — Zhao Kuo's mother, whose remonstrance judges him unfit through command character, rewards, and shared-hardship behavior.
-- [冯亭 / Feng Ting](entities/FengTing.md) — Han official who offers isolated Shangdang to Zhao to force a Han-Zhao response against Qin.
+- [冯亭 / Feng Ting](entities/FengTing.md) — Han official whose transfer of isolated Shangdang to Zhao forces a Qin-Zhao crisis and is later blamed as Changping's originating cause.
 - [赵豹 / 平阳君 / Zhao Bao](entities/ZhaoBao.md) — Zhao royal adviser warning Zhao Xiaocheng Wang that Shangdang is a dangerous 无故之利.
-- [长平之战 / Battle of Changping](entities/ChangpingBattle.md) — Qin-Zhao war branch developed through Shangdang, failed Zhao diplomacy, Lian Po's replacement by Zhao Kuo, and Qin's secret Bai Qi appointment.
-- [赵括 / Zhao Kuo](entities/ZhaoKuo.md) — Zhao commander whose theoretical reputation, rejected warnings, and appointment over Lian Po anchor the paper-war command trap.
+- [长平之战 / Battle of Changping](entities/ChangpingBattle.md) — Qin-Zhao war branch running from Shangdang and command replacement through encirclement, surrender, prisoner killing, and Qin's post-victory cost limit.
+- [赵括 / Zhao Kuo](entities/ZhaoKuo.md) — Zhao commander whose theoretical reputation, rejected warnings, failed breakout, and death anchor the paper-war command trap.
 - [赵盾 / Zhao Dun](entities/ZhaoDun.md) — Zhao-lineage figure used in the Shiji four-dream structure discussed by Zhouji 93 part 2.
 - [宋玉 / Song Yu](entities/SongYu.md) — Chu literary figure who mediates the Gaotang/Wushan goddess stories through 《高唐赋》 and 《神女赋》.
 - [巫山神女 / Wushan Goddess](entities/WushanGoddess.md) — Mythic goddess whose cloud-and-rain dream stories with Chu Huaiwang and Chu Qingxiang Wang ground the "襄王有意，神女无心" motif.
@@ -1138,7 +1140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵威后 / Zhao Weihou](entities/ZhaoWeihou.md) — Zhao regent and mother of Chang'an Jun whose refusal of Qi's hostage demand creates the Chu Long persuasion crisis.
 - [长安君 / Lord Chang'an of Zhao](entities/ChangAnJunZhao.md) — Zhao Weihou's youngest son whom Qi demands as hostage before aiding Zhao against Qin.
 - [吕不韦 / Lu Buwei](entities/LuBuwei.md) — Future Qin succession actor foreshadowed when Anguo Jun is made crown prince.
-- [赵丹 / 赵孝成王 / King Xiaocheng of Zhao](entities/ZhaoDan.md) — Zhao ruler succeeding Zhao Huiwen Wang as Wei Qi's flight to Pingyuanjun turns Fan Ju's revenge into a Zhao risk.
+- [赵丹 / 赵孝成王 / King Xiaocheng of Zhao](entities/ZhaoDan.md) — Zhao ruler whose Shangdang acceptance, failed diplomacy, and replacement of Lian Po with Zhao Kuo culminate in Changping disaster.
 - [秦悼太子 / Qin Daotaizi](entities/QinDaotaizi.md) — Qin crown prince whose death as a hostage in Wei makes Qin's near-attack strategy a succession puzzle.
 - [安国君柱 / 秦孝文王 / King Xiaowen of Qin](entities/QinXiaowenwang.md) — Qin Zhaoxiang Wang's later crown-prince choice after Qin Daotaizi's death.
 - [王绾 / Wang Wan (Qin)](entities/QinWangWan.md) — Source-scoped Qin figure identified with 武大夫绾, possibly later minister Wang Wan, in the Wei attack.
@@ -1173,7 +1175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [公孙操 / Gongsun Cao](entities/GongsunCao.md) — Yan chief minister who kills Yan Huiwang and installs Yan Wucheng Wang as Qin, Wei, and Chu exploit Yan disorder.
 - [骑劫 / Qi Jie](entities/QiJie.md) — Yan replacement general whose harsh occupation acts harden Jimo resistance before he is killed in the fire-ox raid.
 - [即墨 / Jimo](entities/JimoWarringStates.md) — Final Qi-held city where Tian Dan stages the fire-ox counterattack against Yan.
-- [廉颇 / Lian Po](entities/LianPo.md) — Zhao general whose Mianchi contingency plan and later apology to Lin Xiangru turn rank resentment into the "将相和" model of internal unity under Qin pressure.
+- [廉颇 / Lian Po](entities/LianPo.md) — Zhao general whose Mianchi contingency plan, Lin Xiangru apology, and Changping defensive patience become models of state-preserving judgment.
 - [东周武公 / Dongzhou Wugong](entities/DongzhouWugong.md) — Zhou envoy who persuades Chu that attacking the royal domain for land, people, or Jiuding would create more symbolic cost than material gain.
 - [九鼎 / Jiuding](entities/Jiuding.md) — Zhou ritual object whose possible seizure by Chu anchors the episode's symbolic-deterrence argument.
 - [石城 / Shicheng](entities/ShichengWarringStates.md) — Zhao city captured by Qin in 281 BCE after Qin's renewed attacks on Zhao.
@@ -1213,7 +1215,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
 - [陈举 / Chen Ju (Qi Minister)](entities/ChenJuQiMinister.md) — Qi minister executed at the east gate after continuing to remonstrate against Qi Min Wang.
 - [滕国 / Teng State](entities/TengState.md) — Small Warring States polity destroyed by Song Kang Wang and framed as a Mencian benevolent-governance experiment whose fall intensified Confucian condemnation.
-- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique coalition-fracture analysis to Chu destruction, Han route-cutting, and secret Changping command.
+- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique analysis to Chu destruction, Han route-cutting, secret Changping command, prisoner killing, and post-victory cost refusal.
 - [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
 - [公孙喜 / Gongsun Xi](entities/GongsunXiWarringStates.md) — Han-Wei coalition commander captured after Bai Qi's Yique campaign, with source wording split between Han and Wei affiliation.
 - [范雎 / Fan Ju](entities/FanJu.md) — Wei-to-Qin strategist whose protected remonstrance, 远交近攻, coalition sabotage, and Changping rumor operation advance Qin pressure.
@@ -1252,7 +1254,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵固 / Zhao Gu (Warring States)](entities/ZhaoGuWarringStates.md) — Zhao official appointed to manage Hu affairs and recruit Hu fighters after Zhao Wuling Wang's northern expansion.
 - [武遂 / Wusui (Warring States)](entities/WusuiWarringStates.md) — Han city Qin returns on Gan Mao's advice after Yiyang, becoming a concrete trigger for post-succession resentment against him.
 - [魏冉 / Wei Ran](entities/WeiRan.md) — Qin foreign-relative power holder whose private-fief and distant Qi campaign interests become Fan Ju's target.
-- [秦昭襄王 / King Zhaoxiang of Qin](entities/QinZhaoxiangwang.md) — Qin ruler whose authority is tested by Xuan Taihou and Wei Ran before Fan Ju's protected advice opens a new strategic line.
+- [秦昭襄王 / King Zhaoxiang of Qin](entities/QinZhaoxiangwang.md) — Qin ruler whose recovered authority enables Fan Ju's strategy, Bai Qi's secret Changping command, Henei mobilization, and disputed post-victory pursuit.
 - [芈八子 / 宣太后 / Xuan Taihou](entities/XuanTaihou.md) — Mother of Qin Zhaoxiang Wang whose regency authority frames Qin's foreign-relative court politics and Fan Ju's later critique.
 - [赵成 / Zhao Cheng (Warring States)](entities/ZhaoChengWarringStates.md) — Zhao Wuling Wang's uncle whose ritual objection makes Hu Fu Qi She's first resistance visible.
 - [吴国 / Wu State](entities/WuState.md) — Spring-and-Autumn state drawn by Zigong into the Qi-Jin-Yue cascade that ends with Fuchai's defeat and suicide.
@@ -1387,7 +1389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成侯邹忌 / Chenghou Zou Ji](entities/ZouJi.md) — Qi minister who opposes rescuing Han and later frames Tian Ji through a staged divination and treason implication.
 - [田婴 / Tian Ying](entities/TianYing.md) — Qi royal-family commander named in the delayed rescue of Han before the Maling campaign.
 - [太子申 / Prince Shen of Wei](entities/PrinceShenWei.md) — Wei crown prince appointed to command during the Maling setup and captured after Pang Juan's ambush defeat.
-- [《孙子兵法》 / The Art of War](entities/SunziBingfa.md) — Military text whose "军争" warning about long pursuit frames Sun Bin's forced-march plan at Maling.
+- [《孙子兵法》 / The Art of War](entities/SunziBingfa.md) — Military text used for forced-march, command-secrecy, anger-war, and Changping war-cost lessons.
 - [赵范 / Zhao Fan](entities/ZhaoFan.md) — Zhao prince whose failed surprise attack on Handan lets the source explain the "袭" wording and Zhao Suhou's early succession challenge.
 - [牟辛 / Mou Xin](entities/MouXin.md) — Qi grandee killed in the compact 346 BCE notice.
 - [鲁康公 / Duke Kang of Lu](entities/LuKanggong.md) — Lu ruler whose death opens the 346 BCE succession notice.
@@ -1413,7 +1415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《孙膑兵法》 / Sun Bin's Art of War](entities/SunBinBingfa.md) — Military text whose 1972 Yinqueshan excavation supports distinguishing Sun Bin from Sunzi.
 - [桂陵之战 / Battle of Guiling](entities/GuilingBattle.md) — Qi victory produced by threatening Daliang, forcing Wei to leave Handan, and ambushing the returning army.
 - [大梁 / Daliang](entities/Daliang.md) — Wei capital-space reference point in encircling-Wei strategy, capital relocation, and later Qin pressure.
-- [邯郸 / Handan](entities/Handan.md) — Zhao city under Wei siege that triggers Qi's indirect rescue plan.
+- [邯郸 / Handan](entities/Handan.md) — Zhao capital that anchors both Wei's earlier siege and Qin's difficult post-Changping follow-on campaign.
 - [东周国 / Eastern Zhou Polity](entities/EasternZhouPolity.md) — Small eastern Zhou polity attacked by Han in the 353 BCE notice.
 - [西周国 / Western Zhou Polity](entities/WesternZhouPolity.md) — Counterpart polity used to explain the royal domain's East-West split.
 - [昭奚恤 / Zhao Xixu](entities/ZhaoXixu.md) — Chu chancellor whose appointment and exposure to Jiang Yi's parables anchor the episode's court-politics branch.
@@ -1459,7 +1461,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阿邑大夫 / Ayi Dafu](entities/AyiDafu.md) — Qi local official with good court reputation but poor local performance in Qi Wei Wang's secret audit.
 - [楚宣王 / King Xuan of Chu](entities/ChuXuanwang.md) — Xiong Liangfu, brother and successor of Chu Su Wang in the Zhou Lie Wang sixth-year notice.
 - [宋剔成 / Song Ticheng](entities/SongTicheng.md) — Song Pi Gong's son and successor in the Zhou Lie Wang sixth-year notice.
-- [《史记》 / Shiji](entities/Shiji.md) — Classical history used across the Zhouji branch for supplementary biography, source contrast, Su Qin's homecoming, and the contested Hangu Pass fifteen-year claim.
+- [《史记》 / Shiji](entities/Shiji.md) — Classical history used across Zhouji for supplementary biography, source contrast, Zhao dream structure, and the post-Changping Handan sequel.
 - [《资治通鉴补》 / Zizhi Tongjian Bu](entities/ZizhiTongjianBu.md) — Ming supplement used by Zhouji 10 part 4 to preserve the Zhao Cangtang and Wei Wuhou restoration story omitted from the base chronicle.
 - [韩康子 / Han Kangzi](entities/HanKangzi.md) — Early Han lineage point from which Zhouji 10 begins Han's long strategy against Zheng.
 - [韩武子 / Han Wuzi](entities/HanWuzi.md) — Han ruler who attacks Zheng and moves the capital toward it in Zhouji 10's generational-strategy sequence.
@@ -1543,14 +1545,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
-- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy, eastward pressure, and diplomatic exclusion into Shang Yang reform and later Hangu Pass restraint.
+- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and Shang Yang reform into Fan Ju strategy, Bai Qi's Changping victory, and post-victory exhaustion.
 - [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
 - [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
 - [韩国 / Han State](entities/HanState.md) — Early Warring States polity attacked during succession windows and defeated with Zhao by Wei at Hui in 362 BCE.
 - [韩景侯 / Marquis Jing of Han](entities/HanJinghou.md) — Han ruler whose death creates the vulnerability the episode links to Zheng's Yangdi attack.
 - [韩烈侯 / Marquis Lie of Han](entities/HanLiehou.md) — Han Jinghou's son and successor in the Zhouji 07 chronology.
-- [赵国 / Zhao State](entities/ZhaoState.md) — Early Warring States polity that defeats Qin with Wei, later loses with Han to Wei, and becomes Yan's necessary shield in Su Qin's pitch.
+- [赵国 / Zhao State](entities/ZhaoState.md) — Warring States polity whose arc now runs through Hu Fu Qi She, Zhao She, Shangdang, Changping, and post-Changping rupture.
 - [赵烈侯 / Marquis Lie of Zhao](entities/ZhaoLiehou.md) — Zhao ruler whose death leads to Zhao Wuhou's installation.
 - [赵武侯 / Marquis Wu of Zhao](entities/ZhaoWuhou.md) — Zhao Liehou's younger brother and successor in the source.
 - [郑国 / Zheng State](entities/ZhengState.md) — Buffer state between Jin and Chu whose internal assassinations anchor Zhouji 07's political-violence thread.
@@ -7363,6 +7365,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
+- [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Sunzi-derived frame that treats fast or nonmilitary victory as resource discipline under manpower, food, and campaign-endurance limits.
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where feigned retreat, barriers, flank cuts, cavalry insertion, and fieldworks turn an attack into starvation.
 - [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.
 - [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.
@@ -7393,7 +7397,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Threatened Defection Leverage / 投敌威胁式求援](concepts/ThreatenedDefectionLeverage.md) — Weak-state rescue tactic where abandonment is made costly because the weak state can surrender to the would-be rescuer's rival.
 - [Land-For-Peace Exhaustion Trap / 抱薪救火式割地求和](concepts/LandForPeaceExhaustionTrap.md) — Su Dai's warning that ceding land for peace with Qin can fuel repeated coercion until the weaker state is exhausted.
 - [Strategic Depth Defense / 战略纵深防御](concepts/StrategicDepthDefense.md) — Survival pattern where distance, route risk, and logistics let a damaged state buy time and force the attacker to solve passage problems first.
-- [Warring States War Brutalization / 战国战争残酷化](concepts/WarringStatesWarBrutalization.md) — Late-Warring-States warfare pattern where conquest expands into tomb destruction, city flooding, mass death, and administrative absorption.
+- [Warring States War Brutalization / 战国战争残酷化](concepts/WarringStatesWarBrutalization.md) — Late-Warring-States warfare pattern where conquest expands into tomb destruction, city flooding, starvation, prisoner killing, and administrative absorption.
 - [Post-Restoration Merit Threat / 复国功臣威胁化](concepts/PostRestorationMeritThreat.md) — Pattern where saving or restoring a state makes a minister's merit, popular credit, talent network, and soldier loyalty look threatening to the ruler.
 - [Political Credit Appropriation / 善行君恩化](concepts/PoliticalCreditAppropriation.md) — Court tactic that absorbs a subordinate's visible virtue into ruler authority by reframing it as royal instruction or benevolence.
 - [Ritualized Minister Humiliation / 礼节化臣属羞辱](concepts/RitualizedMinisterHumiliation.md) — Status-pressure pattern where ruler-minister ritual, dress, posture, and repetition become humiliation without a formal charge.
@@ -7490,7 +7494,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unverified Territorial Promise Trap / 未验地先断交陷阱](concepts/UnverifiedTerritorialPromiseTrap.md) — Zhang Yi's 313 BCE tactic of making Chu break with Qi before Qin delivered the promised Shangyu land.
 - [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
 - [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
-- [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history frame for infantry scale, cavalry transition, Zhao's Hu Fu Qi She, and frontier fighter recruitment.
+- [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history frame for infantry scale, cavalry transition, command sequencing, large encirclement, and mass-war cost.
 - [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.

@@ -8931,3 +8931,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12221 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes while the current wiki has 12221 linted pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the configured model `claude-3-5-sonnet-latest` is not provider-qualified.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）
+
+Added source page for the final Changping installment: Zhao Kuo's failed breakout and death, the Zhao army's surrender, Bai Qi's killing of surrendered troops, the 240 young survivors sent back to Zhao, and the post-victory war-cost argument around Wang Ling's Handan campaign. Created Wang Ling, Surrendered Prisoner Security Dilemma, and War Cost Tempo Discipline; updated overview, index, Changping Battle, Bai Qi, Zhao Kuo, Zhao/Qin state pages, Qin Zhaoxiang Wang, Zhao Dan, Lian Po, Feng Ting, Handan, Shiji, Sunzi Bingfa, Warring States War Brutalization, and Warring States Military Transformation. No direct contradiction found; Bai Qi's unexpanded "three reasons" for killing prisoners, exact casualty mechanics, and the Shagu/Shengyuan Valley memory were kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12225 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is available in the environment.

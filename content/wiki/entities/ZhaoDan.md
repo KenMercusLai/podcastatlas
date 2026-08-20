@@ -2,7 +2,7 @@
 title: "赵丹 / 赵孝成王 / King Xiaocheng of Zhao"
 type: entity
 tags: [person, ruler, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The same source then makes Zhao Dan responsible for the command break at Changpi
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] gives the battlefield consequence of Zhao Dan's replacement decision. Zhao Kuo abandons the defensive attrition line, attacks across the Dan River, and falls into Bai Qi's encirclement-and-supply-cutting system. The later grain crisis also exposes the earlier diplomatic error: after Qin seals the route, Zhao asks Qi for food but receives no relief.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] adds the final consequence and retrospective blame. Zhao Kuo's failed breakout and death lead to the Zhao army's surrender, after which [[BaiQi|白起]] kills the prisoners and returns only 240 young soldiers as messengers. The host names Zhao Dan's greed for [[Shangdang|上党]] as one link in the causal chain, placing the ruler's earlier [[WindfallDecisionTrap|利令智昏]] alongside [[FengTing|冯亭]]'s transfer and Zhao Kuo's paper-war command.
+
 ## Connections
 - [[ZhaoHe|赵惠文王赵何]] - predecessor whose death opens Zhao Dan's reign.
 - [[Pingyuanjun|平原君]] - uncle and Zhao minister whose decision to shelter Wei Qi becomes politically dangerous.
@@ -40,3 +42,4 @@ The same source then makes Zhao Dan responsible for the command break at Changpi
 - [[LianPo|廉颇]], [[FanJu|范雎]], [[ZhaoKuo|赵括]], [[LinXiangru|蔺相如]], and [[ZhaoKuoMother|赵母]] - Zhouji 94 pressure, rumor, appointment, and rejected warnings.
 - [[BattlefieldCommanderReplacementRisk|阵前换将风险]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - concepts extended by his Changping choice.
 - [[BaiQi|白起]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Zhouji 94 part 2 encirclement and failed grain-relief aftermath.
+- [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[FengTing|冯亭]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 massacre aftermath and responsibility chain.

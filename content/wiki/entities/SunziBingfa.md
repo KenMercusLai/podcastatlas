@@ -2,7 +2,7 @@
 title: "《孙子兵法》 / The Art of War"
 type: entity
 tags: [book, military-text, strategy, pre-qin, chinese-history]
-sources: [zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The page is distinct from [[SunBinBingfa|《孙膑兵法》]]. Zhouji 16 used th
 
 [[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]] invokes Sunzi around [[ZhaoShe|赵奢]]'s handling of the [[EyuBattle|阏与 / 燕宇之战]] campaign. The episode connects command secrecy and disciplined silence to Zhao She's staged inaction near [[Handan|邯郸]], his treatment of a Qin spy, and the sudden forced march that follows.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] uses the "作战" chapter after [[ChangpingBattle|长平之战]] to emphasize [[WarCostTempoDiscipline|战争成本与速决纪律]]. The episode links "兵贵神速," "上兵伐谋," "攻心为上," and "不战而屈人之兵" to a cost argument: avoid war when nonmilitary victory is possible, and end unavoidable war quickly because even the winner may become exhausted.
+
 ## Connections
 - [[SunBin|孙膑]] - strategist whose plan the episode reads through the text.
 - [[PangJuan|庞涓]], [[WeiState|魏国]], and [[QiState|齐国]] - opponent and campaign setting.
@@ -26,3 +28,4 @@ The page is distinct from [[SunBinBingfa|《孙膑兵法》]]. Zhouji 16 used th
 - [[ChuHuaiwang|楚怀王]], [[DanyangBattle|丹阳之战]], [[LantianBattle|蓝田之战]], and [[AngerDrivenWarDecision|忿兵决策]] - Zhouji 51 anger-war warning branch.
 - [[ZhaoShe|赵奢]], [[EyuBattle|阏与 / 燕宇之战]], and [[BattlefieldInformationControl|战场信息控制]] - Zhouji 87 command secrecy and deception branch.
 - [[SunBinBingfa|《孙膑兵法》]] - separate military-text branch already in the wiki.
+- [[ChangpingBattle|长平之战]], [[BaiQi|白起]], [[WangLing|王陵]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 post-victory cost and tempo lesson.

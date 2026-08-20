@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 4869
+wiki_total_pages: 4871
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "WarAndIntimacyBreakdown"
     title: "War And Intimacy Breakdown"
     url: "/wiki/concepts/warandintimacybreakdown/"
+  - key: "WarCostTempoDiscipline"
+    title: "War Cost Tempo Discipline / 战争成本与速决纪律"
+    url: "/wiki/concepts/warcosttempodiscipline/"
   - key: "WarGenderedCivilianHarm"
     title: "War Gendered Civilian Harm"
     url: "/wiki/concepts/wargenderedcivilianharm/"
