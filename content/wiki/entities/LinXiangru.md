@@ -2,7 +2,7 @@
 title: "蔺相如 / Lin Xiangru"
 type: entity
 tags: [person, envoy, zhao-state, qin-state, warring-states, diplomacy]
-sources: [zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ The source therefore makes him the human operator of [[WanbiGuizhaoDiplomacy|完
 
 The same source then turns Lin from daring envoy into restrained minister. After Zhao He promotes him above [[LianPo|廉颇]], Lin avoids Lian Po rather than escalating the rank dispute. His explanation creates [[JiangXiangHeInternalUnity|将相和式内部团结]]: Qin hesitates because Zhao has both Lin and Lian Po, so private rivalry between them would weaken the state's deterrent.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]] returns Lin Xiangru as an ill but still politically lucid minister during the [[ChangpingBattle|长平之战]] command crisis. He warns [[ZhaoDan|赵丹 / 赵孝成王]] not to replace [[LianPo|廉颇]] with [[ZhaoKuo|赵括]], saying that appointing Zhao Kuo by reputation is like "胶柱鼓瑟."
+
+This adds a personnel-judgment layer to Lin's page. Earlier sources made him the operator of diplomatic parity and internal unity; this source makes him a failed warning voice for [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]], because he sees that theoretical learning without battlefield flexibility is not enough for supreme command.
+
 ## Connections
 - [[ZhaoHe|赵惠文王赵何]] and [[ZhaoState|赵国]] - ruler and state he serves.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - opposing ruler and court.
@@ -27,3 +31,4 @@ The same source then turns Lin from daring envoy into restrained minister. After
 - [[WanbiGuizhaoDiplomacy|完璧归赵式外交]], [[TacticalCredibilityCost|战术信用成本]], and [[EnvoyKillingTaboo|不斩来使]] - diplomatic, credibility, and envoy-risk frames.
 - [[QinEastwardPressure|秦国东进压力]] and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 76 possible aftermath as Qin turns from failed exchange pressure to military punishment.
 - [[Mianchi|渑池]], [[LianPo|廉颇]], and [[JiangXiangHeInternalUnity|将相和式内部团结]] - Zhouji 77 meeting parity, promotion conflict, and repaired partnership.
+- [[ZhaoDan|赵丹 / 赵孝成王]], [[ZhaoKuo|赵括]], [[ChangpingBattle|长平之战]], and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - Zhouji 94 failed warning against reputation-based command appointment.

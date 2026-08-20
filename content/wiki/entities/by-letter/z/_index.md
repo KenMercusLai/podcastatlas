@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6236
+wiki_total_pages: 6241
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "ZhaoWulingwang"
     title: "赵武灵王 / King Wuling of Zhao"
     url: "/wiki/entities/zhaowulingwang/"
+  - key: "ZhaoKuoMother"
+    title: "赵母 / Zhao Kuo's Mother"
+    url: "/wiki/entities/zhaokuomother/"
   - key: "ZhaoLiehou"
     title: "赵烈侯 / Marquis Lie of Zhao"
     url: "/wiki/entities/zhaoliehou/"
@@ -653,6 +656,9 @@ wiki_pages:
   - key: "ZhengWenGong"
     title: "郑文公 / Duke Wen of Zheng"
     url: "/wiki/entities/zhengwengong/"
+  - key: "ZhengZhu"
+    title: "郑朱 / Zheng Zhu"
+    url: "/wiki/entities/zhengzhu/"
   - key: "ZhengYuanjie"
     title: "郑渊洁"
     url: "/wiki/entities/zhengyuanjie/"

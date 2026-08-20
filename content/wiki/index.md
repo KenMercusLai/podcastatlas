@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz.md) — 芮淇讲透资治通鉴 episode on Zhao's failed direct peace signal, Lian Po's defensive Changping posture, Fan Ju's rumor operation, Zhao Kuo's appointment, and Qin's secret Bai Qi command change.
 - [《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）](sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n.md) — 芮淇讲透资治通鉴 episode completing Zhao's Shangdang acceptance, Zhao Bao's fuller Qin-capacity warning, Zhao Xiaocheng Wang's ominous dream, and Sima Qian's four-dream Zhao-lineage structure.
 - [《资治通鉴·周纪》93丨在梦里藏着偷天改命？（1）](sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok.md) — 芮淇讲透资治通鉴 episode on Feng Ting offering isolated Shangdang's seventeen cities to Zhao, Zhao Bao's warning against 无故之利, and Zhao Xiaocheng Wang's 利令智昏 decision risk.
 - [《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）](sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx.md) — 芮淇讲透资治通鉴 episode completing Mi Wan's escape from Qin, Fan Ju's case for sparing Huang Xie, Chunshenjun's rise under Chu Kaolie Wang, Chu Qingxiang Wang's late "亡羊补牢" recovery, and Song Yu's巫山神女 idiom.
@@ -1115,10 +1116,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [虞卿 / Yu Qing](entities/YuQing.md) — Zhao adviser who warns that direct peace with Qin will isolate Zhao unless Chu/Qi hezong leverage is rebuilt first.
+- [娄昌 / Lou Chang](entities/LouChang.md) — Zhao adviser whose direct-peace option is contrasted with Yu Qing's coalition-first warning before Changping.
+- [郑朱 / Zheng Zhu](entities/ZhengZhu.md) — Zhao envoy whose visible reception in Qin turns a peace mission into a signal that isolates Zhao diplomatically.
+- [王龁 / Wang He](entities/WangHe.md) — Qin general pressing Zhao at Changping before Qin secretly places Bai Qi above him as main commander.
+- [赵母 / Zhao Kuo's Mother](entities/ZhaoKuoMother.md) — Zhao Kuo's mother, whose remonstrance judges him unfit through command character, rewards, and shared-hardship behavior.
 - [冯亭 / Feng Ting](entities/FengTing.md) — Han official who offers isolated Shangdang to Zhao to force a Han-Zhao response against Qin.
 - [赵豹 / 平阳君 / Zhao Bao](entities/ZhaoBao.md) — Zhao royal adviser warning Zhao Xiaocheng Wang that Shangdang is a dangerous 无故之利.
-- [长平之战 / Battle of Changping](entities/ChangpingBattle.md) — Qin-Zhao war frame introduced here as the direct consequence foreshadowed by Zhao's acceptance of Shangdang.
-- [赵括 / Zhao Kuo](entities/ZhaoKuo.md) — Zhao commander currently recorded through the source-scoped tradition that Feng Ting later followed him at Changping.
+- [长平之战 / Battle of Changping](entities/ChangpingBattle.md) — Qin-Zhao war branch developed through Shangdang, failed Zhao diplomacy, Lian Po's replacement by Zhao Kuo, and Qin's secret Bai Qi appointment.
+- [赵括 / Zhao Kuo](entities/ZhaoKuo.md) — Zhao commander whose theoretical reputation, rejected warnings, and appointment over Lian Po anchor the paper-war command trap.
 - [赵盾 / Zhao Dun](entities/ZhaoDun.md) — Zhao-lineage figure used in the Shiji four-dream structure discussed by Zhouji 93 part 2.
 - [宋玉 / Song Yu](entities/SongYu.md) — Chu literary figure who mediates the Gaotang/Wushan goddess stories through 《高唐赋》 and 《神女赋》.
 - [巫山神女 / Wushan Goddess](entities/WushanGoddess.md) — Mythic goddess whose cloud-and-rain dream stories with Chu Huaiwang and Chu Qingxiang Wang ground the "襄王有意，神女无心" motif.
@@ -1205,10 +1211,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
 - [陈举 / Chen Ju (Qi Minister)](entities/ChenJuQiMinister.md) — Qi minister executed at the east gate after continuing to remonstrate against Qi Min Wang.
 - [滕国 / Teng State](entities/TengState.md) — Small Warring States polity destroyed by Song Kang Wang and framed as a Mencian benevolent-governance experiment whose fall intensified Confucian condemnation.
-- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique coalition-fracture analysis to the destructive Chu campaign that creates Nan Commandery.
+- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique coalition-fracture analysis to Chu destruction, Han route-cutting, and secret Changping command.
 - [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
 - [公孙喜 / Gongsun Xi](entities/GongsunXiWarringStates.md) — Han-Wei coalition commander captured after Bai Qi's Yique campaign, with source wording split between Han and Wei affiliation.
-- [范雎 / Fan Ju](entities/FanJu.md) — Wei-to-Qin strategist whose protected remonstrance against Xuan Taihou and Wei Ran introduces Qin's 远交近攻 strategy.
+- [范雎 / Fan Ju](entities/FanJu.md) — Wei-to-Qin strategist whose protected remonstrance, 远交近攻, coalition sabotage, and Changping rumor operation advance Qin pressure.
 - [芒卯 / Mang Mao](entities/MangMao.md) — Wei figure known for "诈说" who later appears as the commander defeated by Wei Ran during Qin pressure on Wei.
 - [垣郡 / Yuan Commandery](entities/YuanjunWarringStates.md) — Split Chu/Han commandery used to clarify Qin's 292 and 291 BCE conquests.
 - [陶 / 定陶 / Dingtao](entities/Dingtao.md) — Prosperous Song/Qi/Qin place used to correct the timing of Wei Ran's Tao enfeoffment.
@@ -7355,6 +7361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.
 - [Historical Dream Foreshadowing / 梦兆叙事伏笔](concepts/HistoricalDreamForeshadowing.md) — Historiographical pattern where recorded dreams in the Shiji Zhao lineage organize later rise, desire, disorder, and disaster.
 - [Windfall Decision Trap / 无故之利](concepts/WindfallDecisionTrap.md) — Decision pattern where an apparent free gain transfers hidden obligation, enemy pressure, or future retaliation to the recipient.
 - [襄王有意，神女无心 / Xiangwang Youyi, Shennv Wuxin](concepts/XiangwangYouyiShennvWuxin.md) — Classical one-sided desire motif from Song Yu's Wushan goddess tradition, used here to link Chu Qingxiang Wang's literary memory to the episode title.
@@ -7368,7 +7375,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Private Fief Expansion Through State War / 以国战扩私邑](concepts/PrivateFiefExpansionThroughStateWar.md) — pattern where a minister redirects state war toward expansion of a private fief.
 - [Private Punishment Without Procedure / 无程序私刑](concepts/PrivatePunishmentWithoutProcedure.md) — failure mode where elite suspicion turns into punitive violence without investigation or adjudication.
 - [Two Rats Courage Maxim / 两鼠斗穴勇者胜](concepts/TwoRatsCourageMaxim.md) — Zhao She's narrow-route maxim behind "狭路相逢勇者胜," treated as disciplined operational courage rather than reckless aggression.
-- [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which Zhao She shapes what Qin sees before Eyu, turning a spy report into a deception channel.
+- [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which Zhao She shapes what Qin sees before Eyu and Qin later hides Bai Qi's Changping command.
 - [High-Ground Timing Advantage / 制高点时机优势](concepts/HighGroundTimingAdvantage.md) — Tactical principle where reaching decisive terrain first, as Xu Li advises at Eyu, converts timing into battlefield advantage.
 - [Elite Fiscal-Law Compliance / 贵族税法同遵](concepts/EliteFiscalLawCompliance.md) — State-capacity pattern where tax and law must bind elite households, not only ordinary subjects, if public authority is to hold.
 - [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Weak-side diplomacy pattern where a request for restraint is translated into the stronger side's own risk map and preferred strategic sequence.
@@ -7391,8 +7398,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Atrocity Backfire Mobilization / 暴行反噬式动员](concepts/AtrocityBackfireMobilization.md) — Pattern where enemy cruelty meant to frighten defenders instead makes surrender intolerable and hardens resistance.
 - [Deceptive Surrender Lull / 诈降麻痹](concepts/DeceptiveSurrenderLull.md) — False-surrender setup that makes a besieging army relax before a prepared surprise attack.
 - [Marriage Ritual Orthodoxy / 婚姻礼法正当性](concepts/MarriageRitualOrthodoxy.md) — Family-ritual standard of parental command and matchmaker mediation used to judge Jun Wang Hou's crisis marriage.
-- [Counterintelligence Rumor Wedge / 反间流言楔入](concepts/CounterintelligenceRumorWedge.md) — Tian Dan tactic that exploits Yan Huiwang's inherited suspicion of Le Yi to induce a damaging command replacement.
-- [Battlefield Commander Replacement Risk / 阵前换将风险](concepts/BattlefieldCommanderReplacementRisk.md) — Failure mode where replacing a trusted commander at the front breaks strategy, morale, and cohesion.
+- [Counterintelligence Rumor Wedge / 反间流言楔入](concepts/CounterintelligenceRumorWedge.md) — Tactic that exploits ruler suspicion or impatience to induce damaging enemy command changes, from Tian Dan to Fan Ju at Changping.
+- [Battlefield Commander Replacement Risk / 阵前换将风险](concepts/BattlefieldCommanderReplacementRisk.md) — Failure mode where front-line replacement breaks strategy, morale, secrecy, or competence, now including Lian Po's replacement by Zhao Kuo.
 - [Occupation Pacification Strategy / 占领区怀柔治理](concepts/OccupationPacificationStrategy.md) — Le Yi's post-conquest approach of restraint, relief, and livelihood restoration to make captured Qi governable.
 - [Jiang-Xiang Harmony / 将相和式内部团结](concepts/JiangXiangHeInternalUnity.md) — State-security pattern where Lian Po and Lin Xiangru subordinate rank resentment to Zhao's need for combined military and diplomatic deterrence.
 - [Zhou Royal Symbolic Deterrence / 周王室象征威慑](concepts/ZhouRoyalSymbolicDeterrence.md) — Late-Warring-States pattern where weak Zhou territory remains costly to attack because the royal title and Jiuding convert conquest into legitimacy risk.
@@ -7440,7 +7447,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Queen-Mother Regency / 太后摄政](concepts/QueenMotherRegency.md) — Court-power pattern where a young ruler's mother governs through kin, office, purge capacity, and diplomatic choices.
 - [胡服骑射 / Hu Fu Qi She](concepts/HufuQishe.md) — Zhao Wuling Wang's military reform linking Hu-style clothing, horseback mobility, archery, Zhongshan strategy, elite compliance, and Hu recruitment.
 - [Interstate Cascade Diplomacy / 多国连锁外交](concepts/InterstateCascadeDiplomacy.md) — Zigong-style rescue strategy that redirects one state's attack by chaining several rulers' incentives across Qi, Wu, Yue, Jin, and Lu.
-- [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Gan Mao's risk model where repeated accusation and court faction pressure can make a ruler abandon a commander mid-campaign.
+- [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Risk model where repeated accusation, court pressure, or battlefield frustration makes a ruler abandon a commander mid-campaign.
 - [Oath-Bound Command Trust / 盟誓约束下的统帅信任](concepts/OathBoundCommandTrust.md) — Political commitment device where a ruler publicly binds support for a long campaign before predictable slander begins.
 - [Affection-Driven Succession Risk / 宠爱驱动的立储风险](concepts/AffectionDrivenSuccessionRisk.md) — Succession danger when ruler affection for a spouse or younger child destabilizes an older legitimate branch.
 - [Mencian Great-Man Criterion / 孟子大丈夫标准](concepts/MencianGreatManCriterion.md) — Mencius's test that greatness requires moral steadiness under wealth, poverty, and force rather than mere political impact.
@@ -7483,7 +7490,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
-- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin and later episodes, spanning alliance design, Hangu Pass failure, opportunistic renewals, and Qin's selective-concession breakups.
+- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy spanning alliance design, failures, renewals, Qin sabotage, and Yu Qing's missed pre-peace leverage warning.
 - [连横 / Lianheng Strategy](concepts/LianhengStrategy.md) — Qin-facing diplomatic strategy contrasted with hezong, introduced through Su Qin's critique and Zhang Yi's entry into Qin.
 - [Encirclement Threat Persuasion / 包围威胁式说服](concepts/EncirclementThreatPersuasion.md) — Zhang Yi's Zhouji 54 speech pattern of naming weakness, claiming allies have shifted to Qin, mapping attack routes, and making Qin accommodation appear safest.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, intimate shame, status pressure, and discomfort drive focused self-study that still needs access and patronage.

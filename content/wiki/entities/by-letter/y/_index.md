@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6236
+wiki_total_pages: 6241
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "YingliGreenEnergy"
     title: "英利绿色能源 / Yingli Green Energy"
     url: "/wiki/entities/yingligreenenergy/"
+  - key: "YuQing"
+    title: "虞卿 / Yu Qing"
+    url: "/wiki/entities/yuqing/"
   - key: "YuanZhang"
     title: "袁掌 / Yuan Zhang"
     url: "/wiki/entities/yuanzhang/"

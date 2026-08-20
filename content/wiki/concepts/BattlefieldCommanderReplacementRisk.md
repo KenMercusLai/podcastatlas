@@ -2,7 +2,7 @@
 title: "Battlefield Commander Replacement Risk / 阵前换将风险"
 type: concept
 tags: [military-command, strategy, governance, succession, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -16,12 +16,18 @@ The concept is adjacent to [[PatronSuccessionExposure|patron succession exposure
 
 [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] adds the downstream failure. [[QiJie|骑劫]] does not merely lack Le Yi's prestige; he reverses the occupation policy, follows planted rumor bait, and lets [[TianDan|田单]] convert Yan cruelty into Qi morale. The replacement ends with Qi Jie killed in the [[FireOxNightRaid|fire-ox night raid]] and the Yan occupation collapsing.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]] adds the classic Zhao-side Changping case. [[ZhaoDan|赵丹 / 赵孝成王]] replaces [[LianPo|廉颇]] with [[ZhaoKuo|赵括]] after [[FanJu|范雎]]'s rumor operation makes the untested Zhao Kuo look like the commander Qin supposedly fears. The risk here is sharper because Lian Po's defensive posture may be strategically rational under losses, while Zhao Kuo's visible strength is mostly theoretical fluency.
+
+The same source adds a contrast case: [[QinState|秦国]] also changes commanders, but secretly installs [[BaiQi|白起]] above [[WangHe|王龁]] and threatens death for disclosure. This does not erase replacement risk; it shows that the information conditions around a replacement can matter as much as the replacement itself.
+
 ## Key Claims
 - Removing a commander mid-campaign can break continuity of strategy, discipline, and trust.
 - The risk is sharper when troops already identify the campaign with the removed commander.
 - A ruler may solve a court anxiety while creating a front-line vulnerability.
 - Enemy information operations can seek replacement as the real objective rather than immediate battlefield victory.
 - Replacement risk includes policy discontinuity: a weaker successor can undo the social conditions that the former commander needed for occupation control.
+- Changping adds that replacement can be especially dangerous when the incumbent's caution is treated as cowardice and the successor's untested reputation is amplified by the enemy.
+- Secrecy changes the risk profile: Qin's hidden replacement of Wang He with Bai Qi contrasts with Zhao's public and rumor-driven replacement of Lian Po.
 
 ## Connections
 - [[LeYi|乐毅]], [[QiJie|骑劫]], and [[YanState|燕国]] - removed commander, replacement general, and army.
@@ -30,3 +36,5 @@ The concept is adjacent to [[PatronSuccessionExposure|patron succession exposure
 - [[OccupationPacificationStrategy|占领区怀柔治理]] - interrupted strategy.
 - [[AtrocityBackfireMobilization|暴行反噬式动员]], [[DeceptiveSurrenderLull|诈降麻痹]], and [[FireOxNightRaid|火牛阵夜袭]] - Zhouji 79 consequences under the replacement commander.
 - [[PatronSuccessionExposure|靠山更替暴露风险]] and [[RumorErosionOfTrust|谣言侵蚀信任]] - related political and information-risk concepts.
+- [[LianPo|廉颇]], [[ZhaoKuo|赵括]], [[ZhaoDan|赵丹 / 赵孝成王]], [[FanJu|范雎]], [[BaiQi|白起]], and [[WangHe|王龁]] - Zhouji 94 paired Zhao/Qin replacement contrast.
+- [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] and [[CounterintelligenceRumorWedge|反间流言楔入]] - Changping-specific competence and information mechanisms.

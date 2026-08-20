@@ -2,7 +2,7 @@
 title: "范雎 / Fan Ju"
 type: entity
 tags: [person, strategist, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,10 @@ The same source turns Fan Ju's near death into a career pivot. [[ZhengAnping|郑
 
 [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] adds a restraint decision after Huang Xie's plan succeeds. Qin Zhaoxiang Wang wants to kill Huang Xie for covering [[MiWan|太子完]]'s escape, but Fan Ju argues from changed facts: the escaped prince cannot be recovered by killing the cover man, while returning Huang Xie to Chu can preserve a relationship with the next ruler. The episode's modern gloss makes this a sunk-cost discipline case inside Fan Ju's broader strategic pragmatism.
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]] brings Fan Ju's Zhao-facing work into the [[ChangpingBattle|长平之战]] command crisis. After [[LianPo|廉颇]] shifts to defense and [[ZhaoDan|赵丹 / 赵孝成王]] grows impatient, Fan Ju sends agents with heavy money to spread the claim that Qin does not fear Lian Po, that Lian Po may surrender, and that Qin truly fears [[ZhaoKuo|赵括]].
+
+This source extends Fan Ju from coalition sabotage into commander-targeted information warfare. The rumor does not need to be true; it only has to match Zhao Dan's frustration strongly enough to create [[BattlefieldCommanderReplacementRisk|阵前换将风险]]. Fan Ju therefore becomes the Qin-side operator behind a [[CounterintelligenceRumorWedge|反间流言楔入]] that turns Zhao's own ruler against its experienced field commander.
+
 ## Connections
 - [[BaiQi|白起]] - figure whose Yique explanation Fan Ju prompts.
 - [[YiqueBattle|伊阙之战]] - battle being discussed.
@@ -46,3 +50,5 @@ The same source turns Fan Ju's near death into a career pivot. [[ZhengAnping|郑
 - [[BaiQi|白起]], [[HanNanyangWarringStates|韩国南阳]], [[TaihangRoad|太行道]], [[Shangdang|上党]], and [[TransportCorridorSeverance|交通线切割]] - Zhouji 92 Han-front implementation of near attack.
 - [[HezongAlliance|合纵]], [[InterestBasedCoalitionSabotage|利益瓦解合纵]], [[Chunshenjun|黄歇 / 春申君]], and [[MiWan|芈完 / 楚考烈王]] - Zhouji 92 coalition disruption and Chu hostage-succession negotiation.
 - [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 92 part 2 shows Fan Ju limiting Qin's anger after the hostage escape succeeds.
+- [[LianPo|廉颇]], [[ZhaoKuo|赵括]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[ChangpingBattle|长平之战]] - Zhouji 94 commander-targeted rumor operation.
+- [[CounterintelligenceRumorWedge|反间流言楔入]], [[RumorErosionOfTrust|谣言侵蚀信任]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - conceptual consequences of the rumor.

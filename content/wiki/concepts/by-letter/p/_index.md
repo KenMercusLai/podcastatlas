@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4866
+wiki_total_pages: 4867
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "PaperMoneyRitualMateriality"
     title: "Paper Money Ritual Materiality"
     url: "/wiki/concepts/papermoneyritualmateriality/"
+  - key: "PaperWarCommandTrap"
+    title: "Paper War Command Trap / 纸上谈兵式统帅陷阱"
+    url: "/wiki/concepts/paperwarcommandtrap/"
   - key: "PaperWealthVsCashValue"
     title: "Paper Wealth Vs Cash Value"
     url: "/wiki/concepts/paperwealthvscashvalue/"

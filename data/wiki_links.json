@@ -24619,6 +24619,10 @@
     "title": "Lotus Racing",
     "url": "/wiki/entities/lotusracing/"
   },
+  "LouChang": {
+    "title": "娄昌 / Lou Chang",
+    "url": "/wiki/entities/louchang/"
+  },
   "LouHuan": {
     "title": "楼缓 / Lou Huan",
     "url": "/wiki/entities/louhuan/"
@@ -30066,6 +30070,10 @@
   "PaperMoneyRitualMateriality": {
     "title": "Paper Money Ritual Materiality",
     "url": "/wiki/concepts/papermoneyritualmateriality/"
+  },
+  "PaperWarCommandTrap": {
+    "title": "Paper War Command Trap / 纸上谈兵式统帅陷阱",
+    "url": "/wiki/concepts/paperwarcommandtrap/"
   },
   "PaperWealthVsCashValue": {
     "title": "Paper Wealth Vs Cash Value",
@@ -41999,6 +42007,10 @@
     "title": "王航",
     "url": "/wiki/entities/wanghang/"
   },
+  "WangHe": {
+    "title": "王龁 / Wang He",
+    "url": "/wiki/entities/wanghe/"
+  },
   "WangHongjie": {
     "title": "王洪杰 / Wang Hongjie",
     "url": "/wiki/entities/wanghongjie/"
@@ -44435,6 +44447,10 @@
     "title": "于七之乱 / Yu Qi Rebellion",
     "url": "/wiki/entities/yuqirebellion/"
   },
+  "YuQing": {
+    "title": "虞卿 / Yu Qing",
+    "url": "/wiki/entities/yuqing/"
+  },
   "YuRang": {
     "title": "豫让 / Yu Rang",
     "url": "/wiki/entities/yurang/"
@@ -44975,6 +44991,10 @@
     "title": "赵括 / Zhao Kuo",
     "url": "/wiki/entities/zhaokuo/"
   },
+  "ZhaoKuoMother": {
+    "title": "赵母 / Zhao Kuo's Mother",
+    "url": "/wiki/entities/zhaokuomother/"
+  },
   "ZhaoLiang": {
     "title": "赵良 / Zhao Liang",
     "url": "/wiki/entities/zhaoliang/"
@@ -45106,6 +45126,10 @@
   "ZhengZhilong": {
     "title": "Zheng Zhilong / 郑芝龙",
     "url": "/wiki/entities/zhengzhilong/"
+  },
+  "ZhengZhu": {
+    "title": "郑朱 / Zheng Zhu",
+    "url": "/wiki/entities/zhengzhu/"
   },
   "ZhengkeFund": {
     "title": "ZhenFund",
@@ -48838,5 +48862,9 @@
   "zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n": {
     "title": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n/"
+  },
+  "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz": {
+    "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz/"
   }
 }

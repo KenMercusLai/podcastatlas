@@ -2,7 +2,7 @@
 title: "赵丹 / 赵孝成王 / King Xiaocheng of Zhao"
 type: entity
 tags: [person, ruler, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
+sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ That succession timing matters because [[WeiQiWarringStates|魏齐]] flees to Pi
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] completes that decision. Zhao Dan rejects Zhao Bao's risk pricing, follows [[Pingyuanjun|平原君]], sends him to receive Shangdang, and rewards [[FengTing|冯亭]] and Shangdang's officials lavishly. The source also adds the [[Shiji|《史记》]] dream layer omitted by [[ZizhiTongjian|《资治通鉴》]]: Zhao Dan dreams of mixed clothing, riding a flying dragon, falling midway, and landing among gold and jade. The episode reads this as [[HistoricalDreamForeshadowing|dream foreshadowing]] for the coming [[ChangpingBattle|长平之战]].
 
+[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]] turns the foreshadowed consequence into Zhao Dan's serial decision failure. He consults [[LouChang|娄昌]] and [[YuQing|虞卿]] after repeated front-line losses, but follows the direct-peace path by sending [[ZhengZhu|郑朱]] to [[QinState|秦国]]. The episode presents this as a diplomatic mistake: Qin receives Zheng Zhu publicly, isolates Zhao from possible [[HezongAlliance|合纵]] help, and does not actually make peace.
+
+The same source then makes Zhao Dan responsible for the command break at Changping. He pressures [[LianPo|廉颇]] for staying defensive, accepts [[FanJu|范雎]]'s rumor that Qin fears [[ZhaoKuo|赵括]], and appoints Zhao Kuo despite warnings from [[LinXiangru|蔺相如]] and [[ZhaoKuoMother|赵母]]. Zhao Dan's page therefore now links the earlier [[WindfallDecisionTrap|Shangdang windfall trap]] to [[BattlefieldCommanderReplacementRisk|阵前换将风险]] and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]].
+
 ## Connections
 - [[ZhaoHe|赵惠文王赵何]] - predecessor whose death opens Zhao Dan's reign.
 - [[Pingyuanjun|平原君]] - uncle and Zhao minister whose decision to shelter Wei Qi becomes politically dangerous.
@@ -30,3 +34,6 @@ That succession timing matters because [[WeiQiWarringStates|魏齐]] flees to Pi
 - [[QiWangJian|齐王建 / 田建]] and [[JunWangHou|君王后]] - Qi-side young-ruler/regency parallel.
 - [[FengTing|冯亭]], [[Shangdang|上党]], [[Pingyuanjun|平原君]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 Shangdang offer and decision-risk branch.
 - [[HistoricalDreamForeshadowing|梦兆叙事伏笔]] and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 dream and consequence frame.
+- [[LouChang|娄昌]], [[YuQing|虞卿]], [[ZhengZhu|郑朱]], [[HezongAlliance|合纵]], [[ChuState|楚国]], and [[QiState|齐国]] - Zhouji 94 failed diplomacy before the battle decision.
+- [[LianPo|廉颇]], [[FanJu|范雎]], [[ZhaoKuo|赵括]], [[LinXiangru|蔺相如]], and [[ZhaoKuoMother|赵母]] - Zhouji 94 pressure, rumor, appointment, and rejected warnings.
+- [[BattlefieldCommanderReplacementRisk|阵前换将风险]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - concepts extended by his Changping choice.
