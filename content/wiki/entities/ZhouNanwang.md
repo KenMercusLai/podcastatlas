@@ -2,8 +2,8 @@
 title: "周赧王 / Zhou Nan Wang"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+last_updated: 2026-08-20
 ---
 
 # 周赧王 / Zhou Nan Wang
@@ -12,8 +12,11 @@ last_updated: 2026-08-19
 
 The source does not yet develop his reign as a personal story. His wiki role is chronological: he marks the next stage of the reduced [[ZhouRoyalHouse|周王室]] annalistic frame while the real political action continues among Qin, Wei, Qi, Chu, Han, Zhao, Yan, and Song.
 
+[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] locates the episode's opening in Zhou Nan Wang's first year, 314 BCE. As in Zhouji 45, the Zhou king is a chronological frame while the substance is the [[QiState|齐国]] conquest of [[YanState|燕国]] and [[Mengzi|孟子 / Mencius]]'s advice to [[QiXuanWang|齐宣王]].
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
 - [[WarringStatesPeriod|战国时期]] - period in which Zhou chronology frames stronger-state politics.
+- [[QiXuanWang|齐宣王]], [[YanState|燕国]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 49 first-year frame.

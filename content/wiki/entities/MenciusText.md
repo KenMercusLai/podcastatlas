@@ -2,8 +2,8 @@
 title: "《孟子》 / Mencius"
 type: entity
 tags: [book, chinese-classics, pre-qin, confucianism, political-theory]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-20
 ---
 
 # 《孟子》 / Mencius
@@ -20,6 +20,8 @@ The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[Ri
 
 [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] adds another Liang/Wei dialogue from the text through [[WeiXiangwang|魏襄王]]. The episode foregrounds Mencius's answer that unity requires a ruler who does not love killing, making the text a source for [[NonKillingUnification|不爱杀人者能一之]] as well as renyi-benefit ordering.
 
+[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds the Qi-Xuan-Wang-and-Yan passage. The text is used to show Mencius's conditional view of conquest: the people's welcome, not the conqueror's claimed mandate, determines whether the action resembles rescue. The later [[ChenJiaWarringStates|陈甲]] exchange adds [[CorrectableLeadershipError|犯错能改的领导力]] to the text's governance afterlife.
+
 ## Connections
 - [[Mengzi|孟子 / Mencius]] - central speaker and thinker.
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - major interlocutors emphasized by the source.
@@ -30,3 +32,4 @@ The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[Ri
 - [[ZhuozeBattle|浊泽之战]] and [[CoalitionSettlementFailure]] - earlier political path by which Wei Ying becomes the later Liang Hui Wang.
 - [[Analects|《论语》]], [[ZhuXi|朱熹]], [[Zisi|子思]], and [[RenyiBenefitOrdering|仁义优先的利益秩序]] - Zhouji 26 textual-comparison and renyi-benefit extension.
 - [[WeiXiangwang|魏襄王]] and [[NonKillingUnification|不爱杀人者能一之]] - Zhouji 45 unity and non-killing-ruler extension.
+- [[YanState|燕国]], [[ShangTang|商汤]], [[ChenJiaWarringStates|陈甲]], [[ZhouGong|周公]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 conquest and mistake-correction passages.

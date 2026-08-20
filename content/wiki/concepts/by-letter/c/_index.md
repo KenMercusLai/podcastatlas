@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4755
+wiki_total_pages: 4756
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "CorrectQuestionEpistemology"
     title: "Correct Question Epistemology / 正确提问的认识论"
     url: "/wiki/concepts/correctquestionepistemology/"
+  - key: "CorrectableLeadershipError"
+    title: "Correctable Leadership Error / 犯错能改的领导力"
+    url: "/wiki/concepts/correctableleadershiperror/"
   - key: "CosmicHorror"
     title: "Cosmic Horror"
     url: "/wiki/concepts/cosmichorror/"

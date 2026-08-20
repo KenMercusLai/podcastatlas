@@ -2,8 +2,8 @@
 title: "齐湣王 / King Min of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+last_updated: 2026-08-20
 ---
 
 # 齐湣王 / King Min of Qi
@@ -14,8 +14,11 @@ The source later has Qi attack Wei and then withdraw after [[FengXiWarringStates
 
 Because the episode places this Qi Min Wang material inside a 322 BCE frame, this page should remain source-scoped and linked to [[ChronicleChronologyDrift|编年错位]] rather than treated as a fully reconciled Qi chronology.
 
+[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds another source-scoped notice. The episode says [[ZizhiTongjian|《资治通鉴》]] records [[QiXuanWang|齐宣王]]'s death and Tian Di's succession as Qi Min Wang, but immediately flags the notice as too early because Qi Xuan Wang should die about twelve years later. This page therefore keeps the succession notice under [[QiChronologyDispute|齐威王编年争议]] rather than treating the date as settled.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - target of Qi hatred and manipulator of Qi's response.
 - [[FengXiWarringStates|冯喜]] - emissary who reveals Zhang Yi's Qin pitch.
 - [[QiState|齐国]], [[WeiState|魏国]], and [[QinState|秦国]] - states implicated by the attack and withdrawal.
 - [[YinmouYangmouConversion|阴谋阳谋转换]] and [[ChronicleChronologyDrift|编年错位]] - concept frames attached to the episode.
+- [[QiXuanWang|齐宣王]], [[ZizhiTongjian|《资治通鉴》]], and [[QiChronologyDispute|齐威王编年争议]] - Zhouji 49 early death/accession warning.

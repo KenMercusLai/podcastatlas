@@ -8376,6 +8376,10 @@ Ran lint. See lint-report.md for details.
 
 Ran health before lint; health scanned 11,782 pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,782 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qi Xuan Wang's conquest of Yan, Mencius's people-based legitimacy test for conquest, the concrete repair plan Qi rejects, Yan's rebellion, Chen Jia's Zhou Gong question, and the leadership lesson that mistakes must be corrected rather than rationalized. Created pages for Chen Jia, Shang Tang, Zhou Gong, Zhongli Chun, and Correctable Leadership Error; updated overview, index, Mencius, Qi Xuan Wang, Mencius Text, Yan State, Qi State, Yan Wang Kuai, Qi Min Wang, Zhou Nan Wang, Jixia Academy, Warring States Period, Sima Guang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Mencian People-Based Legitimacy, Mencian Benevolent Government, Mencian Idealism Limits, People-Based Political Security, Mandate of Heaven Legitimacy, Chronicle Chronology Drift, Qi Chronology Dispute, Court Feedback Collapse, Recognition as Humiliation, and Confucian Ideal Governance. Flagged the source's own chronology warning: the received Qi Xuan Wang death / Qi Min Wang accession notice is about twelve years too early and should remain source-scoped under existing Qi chronology drift pages.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史
 
 Added source page for a 芮淇讲透资治通鉴 episode on 324-323 BCE: Zhang Yi attacks Wei and takes Shancheng while returning the people, Su Qin turns a Yan scandal into a staged move to Qi and induced palace/garden extravagance against Qi, Zhao Wuling Wang refuses royal title on name-reality grounds, Zhang Yi meets Qi and Chu ministers at Nie Sang, and Gongsun Yan leaves Qin for Wei to begin the episode's "real" hezong organizing. Created pages for Shancheng, Nie Sang, Strategic Luxury Sabotage, and Title-Reality Restraint; updated overview, index, Su Qin, Zhang Yi, Gongsun Yan, Yan Yi Wang, Qi Xuan Wang, Zhao Wuling Wang, Qin/Wei/Qi/Yan state pages, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Hezong Alliance, Lianheng Strategy, Zonghengjia Diplomacy, Status Order Backlash, Qi Chronology Dispute, and Chronicle Chronology Drift. Flagged one chronology contradiction: the episode uses a 324 BCE Qi Xuan Wang frame, while the existing wiki records the correction that Qi Xuan Wang's first year should be 319 BCE.
@@ -8451,6 +8455,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint and printed the report to the session; lint-report.md was not saved.
 
 ## [2026-08-20] lint | Wiki health check
 

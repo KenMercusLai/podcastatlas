@@ -7935,6 +7935,10 @@
     "title": "陈博士 / 投资ABC",
     "url": "/wiki/entities/chendoctorinvestmentabc/"
   },
+  "ChenJiaWarringStates": {
+    "title": "陈甲 / Chen Jia (Warring States)",
+    "url": "/wiki/entities/chenjiawarringstates/"
+  },
   "ChenJiageng": {
     "title": "Chen Jiageng / 陈嘉庚",
     "url": "/wiki/entities/chenjiageng/"
@@ -9950,6 +9954,10 @@
   "CorrectQuestionEpistemology": {
     "title": "Correct Question Epistemology / 正确提问的认识论",
     "url": "/wiki/concepts/correctquestionepistemology/"
+  },
+  "CorrectableLeadershipError": {
+    "title": "Correctable Leadership Error / 犯错能改的领导力",
+    "url": "/wiki/concepts/correctableleadershiperror/"
   },
   "CorrineReynolds": {
     "title": "Corrine Reynolds",
@@ -35027,6 +35035,10 @@
     "title": "《上枢密韩太尉书》",
     "url": "/wiki/entities/shangshumihantaiweishu/"
   },
+  "ShangTang": {
+    "title": "商汤 / Shang Tang",
+    "url": "/wiki/entities/shangtang/"
+  },
   "ShangYang": {
     "title": "Shang Yang / 商鞅",
     "url": "/wiki/entities/shangyang/"
@@ -43991,6 +44003,10 @@
     "title": "《中华蟹史》",
     "url": "/wiki/entities/zhonghuaxieshi/"
   },
+  "ZhongliChun": {
+    "title": "钟离春 / 钟无艳 / Zhongli Chun",
+    "url": "/wiki/entities/zhonglichun/"
+  },
   "ZhongouFund": {
     "title": "中欧基金 / Zhongou Fund",
     "url": "/wiki/entities/zhongoufund/"
@@ -44030,6 +44046,10 @@
   "ZhouDaguan": {
     "title": "周达观 / Zhou Daguan",
     "url": "/wiki/entities/zhoudaguan/"
+  },
+  "ZhouGong": {
+    "title": "周公 / Duke of Zhou",
+    "url": "/wiki/entities/zhougong/"
   },
   "ZhouHaoTencent": {
     "title": "Zhou Hao / 周颢",
@@ -47378,5 +47398,9 @@
   "zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff": {
     "title": "《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff/"
+  },
+  "zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8": {
+    "title": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8/"
   }
 }

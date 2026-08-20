@@ -2,8 +2,8 @@
 title: "燕国 / Yan State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-20
 ---
 
 # 燕国 / Yan State
@@ -34,6 +34,8 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 
 [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] adds Yan as one of the five eastern states in the 318 BCE attack on [[QinState|秦国]]. Yan reaches [[HanguPass|函谷关]] with Chu, Zhao, Wei, and Han, but the coalition fails because each state preserves its own forces, making Yan part of the episode's [[CoalitionSelfPreservationFailure|联盟自保失灵]] case.
 
+[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] moves Yan from alliance participant to conquered population. [[QiXuanWang|齐宣王]] has already taken Yan, and [[Mengzi|孟子 / Mencius]] says the only justification would be that Yan's people welcome Qi as rescue from suffering. The episode then says Yan's people rebel after Qi fails that standard, making Yan a case for [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] and [[PeopleBasedPoliticalSecurity|民心型政治安全]] after conquest.
+
 ## Connections
 - [[YanMinGong|燕闵公]] and [[YanXiGong|燕僖公]] - succession pair in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
@@ -47,3 +49,4 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 - [[YanYiwang|燕易王]], [[QiState|齐国]], [[QiXuanWang|齐宣王]], and [[StrategicLuxurySabotage|奢侈诱导式削弱]] - Zhouji 37 scandal, staged flight, and anti-Qi weakening branch.
 - [[YanWangKuai|燕王哙]] and [[ZhouXianwang|周显王]] - Zhouji 40 final-year succession notice.
 - [[QinState|秦国]], [[HanguPass|函谷关]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 five-state coalition branch.
+- [[QiXuanWang|齐宣王]], [[Mengzi|孟子 / Mencius]], [[ShangTang|商汤]], [[MencianBenevolentGovernment|孟子仁政]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 conquest, failed occupation, and correction branch.

@@ -2,8 +2,8 @@
 title: "Qi Wei Wang Chronology Dispute / 齐威王编年争议"
 type: concept
 tags: [historiography, chronology, source-criticism, pre-qin-history, qi-state]
-sources: [zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-20
 ---
 
 # Qi Wei Wang Chronology Dispute / 齐威王编年争议
@@ -22,6 +22,8 @@ The same source gives a concrete impossibility test: a 370 BCE visit to [[ZhouLi
 
 [[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] reinforces the correction from the other side. Its 321 BCE frame keeps a long-reigning Qi ruler in the background while [[TianYing|田婴]] gains delegated power, so it fits the wiki's existing caution that Qi Wei Wang should not already be dead in 333 BCE. The source does not solve every Qi dating problem, but it supports keeping the 333 BCE death notice marked as disputed.
 
+[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] pushes the problem into the Qi Xuan Wang endpoint. The host says the current notice of [[QiXuanWang|齐宣王]]'s death and [[QiMinWang|田地 / 齐湣王]]'s accession is also misplaced, because Qi Xuan Wang dies about twelve years later. This extends the dispute from Qi Wei Wang's death/accession placement to the next succession boundary.
+
 ## Key Claims
 - Qi Wei Wang's story may be real while its received annalistic placement is wrong.
 - The episode treats thin Qi records as a cause of error, not as grounds for dismissing the whole story.
@@ -29,12 +31,14 @@ The same source gives a concrete impossibility test: a 370 BCE visit to [[ZhouLi
 - The dispute should be recorded explicitly because a hidden correction would create false certainty.
 - Later Su Qin/Qi notices can preserve useful diplomatic episodes while still inheriting the wrong Qi ruler frame.
 - A later source frame that leaves Qi Wei Wang active after 333 BCE strengthens the need to keep the received death notice source-scoped.
+- The same damaged Qi chronology can also make Qi Xuan Wang's death and Qi Min Wang's accession appear too early.
 
 ## Connections
 - [[QiWeiwang|齐威王]], [[QiState|齐国]], [[TianYan|田衍]], [[TianQiHuanGong|田武 / 田氏齐桓公]], [[GongziXiQi|公子喜]], and [[TianYingqi|田英齐]] - ruler, state, and Tian-family succession branch.
 - [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], and [[HezongAlliance|合纵]] - Zhouji 29 succession and alliance-placement extension.
 - [[YanState|燕国]] and [[StrategicLuxurySabotage|奢侈诱导式削弱]] - Zhouji 37 source-scoped Su Qin-in-Qi notice that deepens the chronology warning.
 - [[TianYing|田婴]], [[XueWarringStates|薛地]], and [[Mengchangjun|孟尝君 / 田文]] - Zhouji 40 Qi background that keeps Qi Wei Wang alive in the 321 BCE frame.
+- [[QiMinWang|齐湣王]] and [[ChronicleChronologyDrift|编年错位]] - Zhouji 49 extension from Qi Wei Wang chronology into the Qi Xuan Wang endpoint.
 - [[Shiji|《史记》]], [[SimaQian|司马迁]], [[ZizhiTongjian|《资治通鉴》]], and [[SimaGuang|司马光]] - source and compiler frame.
 - [[ZhouLiewang|周烈王]] and [[ZhouXianwang|周显王]] - received and corrected Zhou-court frame.
 - [[ChronicleChronologyDrift]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - broader source-critical guardrails.

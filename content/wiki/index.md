@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶](sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8.md) — 芮淇讲透资治通鉴 episode on Qi Xuan Wang's conquest of Yan, Mencius's people-based test for legitimate conquest, the repair plan Qi rejects, and the leadership lesson that mistakes must be corrected rather than excused.
 - [《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源](sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff.md) — 芮淇讲透资治通鉴 episode on Qin's 317 BCE Xiuyu-Zhuoze pursuit after the failed anti-Qin coalition, Su Qin's assassination in Qi, and skepticism toward the folk "二百五" origin story.
 - [《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？](sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db.md) — 芮淇讲透资治通鉴 episode opening 周纪三 through Mencius's non-killing unification claim, the failed five-state attack on Qin at Hangu Pass, and Song Kang Wang's violent rise and destruction.
 - [《资治通鉴·周纪》44丨一个公司为什么不能有两位CEO？](sources/zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r.md) — 芮淇讲透资治通鉴 episode on Han Xuanhui Wang's proposed two-chief-minister arrangement, Miu Liu's warning about dual power centers, and the qualified lesson that both shared and concentrated executive power can fail.
@@ -1057,6 +1058,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陈甲 / Chen Jia (Warring States)](entities/ChenJiaWarringStates.md) — Mencius interlocutor who uses Zhou Gong's mistake to contextualize Qi Xuan Wang's failed Yan policy, prompting the "mistakes must be corrected" lesson.
+- [商汤 / Shang Tang](entities/ShangTang.md) — Mencius's positive punitive-conquest example for relief of suffering people, contrasted with Qi's failed occupation of Yan.
+- [周公 / Duke of Zhou](entities/ZhouGong.md) — Sage example in Chen Jia's question, used by Mencius to distinguish understandable mistakes from refusal to correct errors.
+- [钟离春 / 钟无艳 / Zhongli Chun](entities/ZhongliChun.md) — Legendary Qi Xuan Wang consort in the episode's closing cultural afterlife note, linked to the Zhong Wuyan tradition.
 - [修鱼之战 / Battle of Xiuyu](entities/XiuyuBattle.md) — 317 BCE Qin victory after the failed anti-Qin coalition, with Qin pursuing Han and Wei under Chulizi before continuing to Zhuoze.
 - [樗里子 / Chulizi](entities/Chulizi.md) — Qin royal-family commander who leads the 317 BCE pursuit after the failed Hangu Pass coalition and wins at Xiuyu.
 - [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
@@ -7101,6 +7106,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — Mencian leadership lesson that the decisive test after a mistake is visible correction rather than regret, excuses, or face-saving.
 - [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom-origin stories against period economy, incentives, and evidence, added through the rejected "二百五" derivation.
 - [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian claim that durable unification comes from a ruler who does not love killing and can attract people exhausted by violence.
 - [Coalition Self-Preservation Failure / 联盟自保失灵](concepts/CoalitionSelfPreservationFailure.md) — Alliance failure mode where states share an enemy but each preserves its own forces and waits for another ally to pay the first cost.

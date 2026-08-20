@@ -2,8 +2,8 @@
 title: "Mandate of Heaven Legitimacy / 天命合法性"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-20
 ---
 
 # Mandate of Heaven Legitimacy / 天命合法性
@@ -26,6 +26,8 @@ The concept is important because it separates sacred legitimacy from simple prop
 
 [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] adds a cautionary omen case through [[TaiqiuShe|宋太丘社]]. The episode notes that the disappearance could be read as a sign of state fate or mandate transfer, but explicitly leaves the concrete meaning unresolved.
 
+[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds a self-serving mandate claim through [[QiXuanWang|齐宣王]]. The king treats [[QiState|齐国]]'s fast conquest of [[YanState|燕国]] as possible "天意," but [[Mengzi|孟子 / Mencius]] redirects the question to whether Yan's people welcome and benefit from Qi rule. The source therefore contrasts claimed heavenly favor with the Mencian people-facing test of Heaven's will.
+
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
@@ -38,6 +40,7 @@ The concept is important because it separates sacred legitimacy from simple prop
 - Mandate language can flatter a rising power while trying to bind it to older legitimate authority.
 - Ritual recognition can acknowledge a rising power without claiming that Heaven has fully transferred rule to it.
 - Unusual ritual-site events can be placed near mandate language without being treated as settled proof of mandate transfer.
+- A ruler's claim that military success proves Heaven's will still has to be tested against popular welfare and post-conquest conduct.
 
 ## Connections
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
@@ -50,3 +53,4 @@ The concept is important because it separates sacred legitimacy from simple prop
 - [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], [[ZhouRoyalHouse|周王室]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 Qin-hegemon appeal.
 - [[ZhouXianwang|周显王]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 ritual-material legitimacy branch.
 - [[SongState|宋国]], [[TaiqiuShe|宋太丘社]], and [[NaturalDisasterPoliticalOmen]] - Zhouji 26 unresolved omen branch.
+- [[QiXuanWang|齐宣王]], [[YanState|燕国]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[MencianBenevolentGovernment|孟子仁政]] - Zhouji 49 self-serving "天意" claim and people-facing correction.

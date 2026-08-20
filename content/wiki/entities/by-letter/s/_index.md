@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6040
+wiki_total_pages: 6044
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "Shangyu"
     title: "商於 / Shangyu"
     url: "/wiki/entities/shangyu/"
+  - key: "ShangTang"
+    title: "商汤 / Shang Tang"
+    url: "/wiki/entities/shangtang/"
   - key: "SDICUBSFund"
     title: "国投瑞银基金 / SDIC UBS Fund"
     url: "/wiki/entities/sdicubsfund/"

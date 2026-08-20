@@ -2,8 +2,8 @@
 title: "孟子 / Mencius"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin, confucianism]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-20
 ---
 
 # 孟子 / Mencius
@@ -18,6 +18,8 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 
 [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] returns Mencius to the Zhouji sequence through his meeting with [[WeiXiangwang|魏襄王]]. After judging the new Wei ruler as lacking kingly presence, Mencius says the realm can be settled only through unity and that the ruler able to unify will be one who does not love killing. The episode uses this exchange to add [[NonKillingUnification|不爱杀人者能一之]] to the wiki's Mencian legitimacy cluster.
 
+[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] develops Mencius's [[QiXuanWang|齐宣王]] branch through the conquest of [[YanState|燕国]]. Mencius judges the campaign by whether Yan's people are relieved, not by Qi's speed or by the king's claim of heavenly favor. The episode also uses his answer to [[ChenJiaWarringStates|陈甲]] to turn saintly fallibility into [[CorrectableLeadershipError|犯错能改的领导力]]: a mistake may be understandable, but failing to correct it becomes a deeper political fault.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[MenciusText|《孟子》]] - text preserving the dialogue material used by the episode.
@@ -28,3 +30,4 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 - [[RespectForEldersTradition]] and [[ElderCareStateCapacity]] - elder-care extension added by episode 165.
 - [[Zisi|子思]], [[SimaGuang|司马光]], [[RenyiBenefitOrdering|仁义优先的利益秩序]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26's renyi-benefit and Song-reception extension.
 - [[WeiXiangwang|魏襄王]], [[NonKillingUnification|不爱杀人者能一之]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 45's unity, killing, and popular-attraction extension.
+- [[YanState|燕国]], [[ShangTang|商汤]], [[ChenJiaWarringStates|陈甲]], [[ZhouGong|周公]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49's conquest-legitimacy and mistake-correction extension.
