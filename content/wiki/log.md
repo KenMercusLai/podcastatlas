@@ -8607,3 +8607,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Bai Qi's first major
 ## [2026-08-20] lint | Wiki health check
 
 Ran health before lint; health scanned 11,980 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,980 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges, while the current wiki has 11,980 linted pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default `claude-3-5-sonnet-latest` model is not provider-qualified. A bounded in-session sample review found no direct contradictions and flagged understructured concept pages without `## Key Claims`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode revisiting Song Kang Wang through omen-backed expansion, cruelty stories, Qi-led reputation warfare, the destruction of Teng, Confucian condemnation, and the linked-branch folklore afterlife. Created pages for Teng State, Moralized War Pretext, and Vanquished Ruler Reputation Construction; updated overview, index, Song Kang Wang, Song State, Song Ticheng, Qi Min Wang, Mencius, Zhao Wuling Wang, Auspicious Omen Politics, People-Based Political Security, Non-Killing Unification, Sou Shen Ji, and Story Motif Transmission. No direct contradiction found; the source extends Zhouji 45 while preserving a source-critical caution that some fallen-ruler atrocity lists may be amplified after defeat.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

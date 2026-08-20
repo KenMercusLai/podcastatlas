@@ -2,7 +2,7 @@
 title: "齐湣王 / King Min of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 
 [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] gives Qi Min Wang a hostage-decision scene. After [[QinZhaoxiangwang|秦昭襄王]] detains [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]] asks Qi to return [[MiHeng|芈横 / 楚顷襄王]] by falsely claiming the old king has died. Qi Min Wang hears arguments for holding Mi Heng to demand Chu land north of the Huai River and arguments that holding him may leave Qi with a useless hostage if Chu installs another ruler. He finally releases Mi Heng, letting him return and succeed in Chu.
 
+[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] makes Qi Min Wang the destroyer of [[SongState|宋国]]. The source says Qi agents spread [[SongJunYan|宋康王 / 宋君偃]]'s cruelty stories inside Song and across the interstate field, then Qi coordinates with [[ChuState|楚国]] and [[WeiState|魏国]] to attack. Qi Min Wang therefore becomes a case where strategic revenge and territorial interest are packaged through [[MoralizedWarPretext|道德化战争借口]].
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - target of Qi hatred and manipulator of Qi's response.
 - [[FengXiWarringStates|冯喜]] - emissary who reveals Zhang Yi's Qin pitch.
@@ -28,3 +30,4 @@ Because the episode places this Qi Min Wang material inside a 322 BCE frame, thi
 - [[QiXuanWang|齐宣王]], [[ZizhiTongjian|《资治通鉴》]], and [[QiChronologyDispute|齐威王编年争议]] - Zhouji 49 early death/accession warning.
 - [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 corrected 301 BCE accession placement after the earlier warning.
 - [[MiHeng|芈横 / 楚顷襄王]], [[ChuState|楚国]], [[ChuHuaiwang|楚怀王]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 62 hostage-return and succession calculation.
+- [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[ChuState|楚国]], [[WeiState|魏国]], and [[MoralizedWarPretext|道德化战争借口]] - Zhouji 68 anti-Song campaign and reputation-pretext branch.

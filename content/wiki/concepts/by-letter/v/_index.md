@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 4783
+wiki_total_pages: 4785
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "ValuesAsOperationalAsset"
     title: "Values As Operational Asset"
     url: "/wiki/concepts/valuesasoperationalasset/"
+  - key: "VanquishedRulerReputationConstruction"
+    title: "Vanquished Ruler Reputation Construction / 亡国君污名建构"
+    url: "/wiki/concepts/vanquishedrulerreputationconstruction/"
   - key: "VariableInterestEntity"
     title: "Variable Interest Entity / VIE 架构"
     url: "/wiki/concepts/variableinterestentity/"

@@ -2,7 +2,7 @@
 title: "孟子 / Mencius"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin, confucianism]
-sources: [zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,8 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 
 [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] adds Mencius's direct judgment of [[GongsunYan|犀首公孙衍]] and [[ZhangYiStrategist|张仪]]. Asked whether such men are "大丈夫" because rulers fear them, Mencius denies that fear and diplomatic impact are enough. The episode turns his answer into [[MencianGreatManCriterion|孟子大丈夫标准]]: the real test is moral place, correct way, solidarity with the people, and steadiness under wealth, poverty, and force.
 
+[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] adds Mencius indirectly through [[TengState|滕国]]. The episode frames Teng as the rare Warring States polity willing to try Mencian benevolent-government ideas and to restore an older agrarian order. [[SongJunYan|宋康王 / 宋君偃]]'s destruction of Teng therefore becomes a Confucian memory wound as well as a territorial conquest.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[MenciusText|《孟子》]] - text preserving the dialogue material used by the episode.
@@ -34,3 +36,4 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 - [[WeiXiangwang|魏襄王]], [[NonKillingUnification|不爱杀人者能一之]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 45's unity, killing, and popular-attraction extension.
 - [[YanState|燕国]], [[ShangTang|商汤]], [[ChenJiaWarringStates|陈甲]], [[ZhouGong|周公]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49's conquest-legitimacy and mistake-correction extension.
 - [[GongsunYan|犀首公孙衍]], [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[MencianGreatManCriterion|孟子大丈夫标准]] - Zhouji 56's moral evaluation of zonghengjia greatness.
+- [[TengState|滕国]], [[SongJunYan|宋康王 / 宋君偃]], [[MencianBenevolentGovernment|孟子仁政]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 68's Teng-as-experiment branch.

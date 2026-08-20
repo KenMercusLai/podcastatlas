@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2）](sources/zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt.md) — 芮淇讲透资治通鉴 episode revisiting Song Kang Wang through omen-driven expansion, cruelty stories, Qi-led moralized war pretext, Teng's Confucian reputation cost, vanquished-ruler smear caution, and the linked-branch folklore afterlife.
 - [《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何](sources/zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Yique breakthrough, Qin's 294-290 BCE eastward pressure, Qin-Chu threat-marriage diplomacy, Wei Ran's resignation and return, Dingtao/Yuan territorial chronology, and Mang Mao's ambiguous persuasive reputation.
 - [《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（2）](sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg.md) — 芮淇讲透资治通鉴 episode completing the Shaqiu crisis: Zhao Zhang kills Fei Yi with a forged summons, Zhao He's side suppresses the coup, Zhao Zhang is killed, and Zhao Wuling Wang is starved after Zhao Cheng and Li Dui choose indirect elimination over direct regicide.
 - [《资治通鉴·周纪》66丨中国历史上哪些帝王是被活活饿死的（1）](sources/zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq.md) — 芮淇讲透资治通鉴 episode on Zhao Wuling Wang's post-abdication power split, Zhao Zhang's Dai-region faction, Fei Yi and Li Dui's warnings, and the setup for the Shaqiu crisis.
@@ -1077,6 +1078,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [滕国 / Teng State](entities/TengState.md) — Small Warring States polity destroyed by Song Kang Wang and framed as a Mencian benevolent-governance experiment whose fall intensified Confucian condemnation.
 - [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose Yique victory is read as terrain, enemy-incentive, and coalition-fracture analysis rather than mere bravery.
 - [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
 - [公孙喜 / Gongsun Xi](entities/GongsunXiWarringStates.md) — Han-Wei coalition commander captured after Bai Qi's Yique campaign, with source wording split between Han and Wei affiliation.
@@ -7208,6 +7210,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Moralized War Pretext / 道德化战争借口](concepts/MoralizedWarPretext.md) — Pattern where states convert a target ruler's cruelty reputation into public justification and coordination cover for war.
+- [Vanquished Ruler Reputation Construction / 亡国君污名建构](concepts/VanquishedRulerReputationConstruction.md) — Historiographical caution that defeated rulers' atrocity lists can preserve real violence while also reflecting later enemy, moral, or narrative amplification.
 - [Coalition Fracture Exploitation / 联盟裂缝利用](concepts/CoalitionFractureExploitation.md) — Battlefield pattern where a commander converts allied disunity into attack sequencing and separate defeat.
 - [Responsibility-Avoidant Killing / 避责式杀害](concepts/ResponsibilityAvoidantKilling.md) — Pattern where actors avoid a direct killing act while deliberately arranging confinement, deprivation, or other conditions that make death predictable.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.

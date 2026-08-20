@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6127
+wiki_total_pages: 6128
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "TsinghuaGuoxueInstitute"
     title: "清华国学研究院"
     url: "/wiki/entities/tsinghuaguoxueinstitute/"
+  - key: "TengState"
+    title: "滕国 / Teng State"
+    url: "/wiki/entities/tengstate/"
   - key: "TeteFei"
     title: "特特飞"
     url: "/wiki/entities/tetefei/"

@@ -2,8 +2,8 @@
 title: "Non-Killing Unification / 不爱杀人者能一之"
 type: concept
 tags: [political-theory, legitimacy, confucianism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+last_updated: 2026-08-20
 ---
 
 # Non-Killing Unification / 不爱杀人者能一之
@@ -14,15 +14,19 @@ The episode reads this as a people-attraction theory, not simple pacifism. In a 
 
 The host tests the claim against later history. [[QinState|秦国]] eventually conquers the other states and so appears to disprove Mencius, but the source says Qin's order lasts only briefly; by contrast, in the Chu-Han struggle, [[XiangYu|项羽]] is framed as the more killing-oriented figure while [[LiuBang|刘邦]] becomes the founder of [[WesternHanDynasty|西汉]]. [[SongJunYan|宋康王 / 宋君偃]] supplies the episode's immediate negative case: terror and arbitrary cruelty can make a state look strong for a moment, but they leave the ruler without people willing to defend him.
 
+[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] strengthens that negative case by giving Song Kang Wang both ability and failure. The source says he could fight, expand, rule for decades, and hold a long alliance with [[ZhaoWulingwang|赵武灵王]], but his cruelty and reputation still make [[MoralizedWarPretext|道德化战争借口]] usable and leave Song's people unwilling to defend him. This keeps the concept focused on durable settlement rather than personal competence.
+
 ## Key Claims
 - "Not loving killing" is not weakness; it is a condition for attracting people exhausted by violent rule.
 - The concept distinguishes taking territory from settling the realm.
 - A violent state can win battles, but the episode asks whether it can create durable order.
 - Popular flight, refusal to fight for the ruler, and enemy coalition become practical measures of failed legitimacy.
 - The Song Kang Wang case turns the Mencian claim from moral language into a security and state-survival problem.
+- Episode 68 adds that talent and state-strengthening ability do not neutralize the security cost of being remembered as a ruler who loves violence.
 
 ## Connections
 - [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[WeiXiangwang|魏襄王]] - source dialogue.
 - [[MencianPeopleBasedLegitimacy]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], and [[PeopleBasedPoliticalSecurity]] - adjacent legitimacy and statecraft frames.
 - [[QinState|秦国]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - later historical tests used by the host.
 - [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[QiState|齐国]], [[ChuState|楚国]], and [[WeiState|魏国]] - immediate negative case in the episode.
+- [[MoralizedWarPretext|道德化战争借口]] and [[VanquishedRulerReputationConstruction|亡国君污名建构]] - episode 68's extension from violence to war justification and reputation.

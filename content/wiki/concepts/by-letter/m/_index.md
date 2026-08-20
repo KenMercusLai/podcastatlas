@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 4783
+wiki_total_pages: 4785
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "MoralSuspensionInArtReading"
     title: "Moral Suspension In Art Reading"
     url: "/wiki/concepts/moralsuspensioninartreading/"
+  - key: "MoralizedWarPretext"
+    title: "Moralized War Pretext / 道德化战争借口"
+    url: "/wiki/concepts/moralizedwarpretext/"
   - key: "MorningAudioRitual"
     title: "Morning Audio Ritual / 早间音频仪式"
     url: "/wiki/concepts/morningaudioritual/"
