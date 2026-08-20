@@ -2,7 +2,7 @@
 title: "赵何 / Zhao He"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ For this page, the source matters less as a biography of Zhao He's own choices t
 
 [[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]] shows Zhao He surviving the crisis but not rescuing Zhao Wuling Wang. Zhao Zhang's forged summons kills Fei Yi before it reaches Zhao He; [[GaoXinWarringStates|高信]] and Zhao He resist, while messengers bring Zhao Cheng and Li Dui from Handan. The host reads Zhao He's silence during the later three-month palace blockade as meaningful, because the court has already become Zhao He's court and no one acts for the former ruler.
 
+[[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds a compact interstate notice for Zhao He under his ruler title, 赵惠文王. He meets [[QinZhaoxiangwang|秦昭襄王]] at Rangcheng in the same episode that reads Qin's later attack on [[WeiState|魏国]] as a post-Qi-coalition balancing move.
+
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] and [[WuWa|吴娃]] - parents in the source's setup.
 - [[ZhaoZhang|赵章]] - elder son whose position is put at risk.
@@ -27,3 +29,4 @@ For this page, the source matters less as a biography of Zhao He's own choices t
 - [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] and [[AutocraticSuccession]] - governing concepts for the source's foreshadowing.
 - [[FeiYi|肥义]] - chancellor appointed when Zhao He becomes ruler in Zhouji 61.
 - [[LiDui|李兑]], [[TianBuli|田不李]], [[GaoXinWarringStates|高信]], [[ShaqiuCrisis|沙丘之变]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[PartialAbdicationPowerSplit|退位留权式权力分裂]] - Zhouji 66 warning, rival faction, Shaqiu coup, and starvation aftermath.
+- [[QinZhaoxiangwang|秦昭襄王]], [[WeiState|魏国]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 73 Rangcheng meeting and post-Qi-coalition balance context.

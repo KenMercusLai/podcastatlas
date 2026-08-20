@@ -2,7 +2,7 @@
 title: "乐毅 / Le Yi"
 type: entity
 tags: [person, general, yan-state, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 
 [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] shifts Le Yi from coalition commander to occupation governor. The episode says Yan forces under this campaign discipline troops, forbid plunder, honor Qi recluses, lighten taxes, remove harsh laws, restore older good governance, and absorb Qi elites through titles and fiefs. It also records the failed recruitment of [[WangZhu|王蠋]], which exposes the darker side of honoring worthies after conquest: public respect can become coercion when refusal is answered with threats against a locality.
 
+[[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] reads Le Yi's post-victory allocation as a cause of later imbalance. He sends distant [[QinState|秦国]] and [[HanState|韩国]] home with wealth, lets [[WeiState|魏国]] and [[ZhaoState|赵国]] take nearer gains, and keeps [[YanState|燕国]] deep in Qi. The episode uses Qin's later attack on Wei to show that a commander can settle the immediate coalition but still leave a [[PostCoalitionSpoilsImbalance|post-coalition spoils imbalance]].
+
 ## Connections
 - [[YanZhaowang|燕昭王]] and [[YanState|燕国]] - ruler and receiving state.
 - [[GuoWeiWarringStates|郭隗]] - adviser whose treatment signals Yan's seriousness.
@@ -30,3 +32,4 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 - [[QiMinWang|齐湣王]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 anti-Qi coalition design.
 - [[JuXin|剧辛]], [[Linzi|临淄]], [[QinState|秦国]], [[HanState|韩国]], [[WeiState|魏国]], and [[ZhaoState|赵国]] - Zhouji 70 coalition command, post-victory allocation, and deep-pursuit dispute.
 - [[WangZhu|王蠋]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 occupation governance, honoring recluses, and coercive recruitment boundary.
+- [[PostCoalitionSpoilsImbalance|联军战后利益失衡]], [[AnchengWarringStates|安城]], and [[Daliang|大梁]] - Zhouji 73 coalition payoff imbalance and Qin's follow-on Wei attack.

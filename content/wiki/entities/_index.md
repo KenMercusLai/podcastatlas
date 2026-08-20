@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6149
+wiki_total_pages: 6155
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "Anerle"
     title: "安乐"
     url: "/wiki/entities/anerle/"
+  - key: "AnchengWarringStates"
+    title: "安城 / Ancheng"
+    url: "/wiki/entities/anchengwarringstates/"
   - key: "AnneSanitaryNapkin"
     title: "安妮卫生巾 / Anne"
     url: "/wiki/entities/annesanitarynapkin/"

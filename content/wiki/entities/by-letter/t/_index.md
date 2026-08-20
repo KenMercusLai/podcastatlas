@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6149
+wiki_total_pages: 6155
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "TaishiDan"
     title: "太史旦 / Taishi Dan"
     url: "/wiki/entities/taishidan/"
+  - key: "TaishiJiao"
+    title: "太史角 / Taishi Jiao"
+    url: "/wiki/entities/taishijiao/"
   - key: "TaikangHome"
     title: "太康之家 / Taikang Home"
     url: "/wiki/entities/taikanghome/"

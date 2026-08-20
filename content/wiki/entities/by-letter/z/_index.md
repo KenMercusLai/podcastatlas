@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6149
+wiki_total_pages: 6155
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -263,9 +263,6 @@ wiki_pages:
   - key: "ZhuoRui"
     title: "卓瑞 / Zhuo Rui"
     url: "/wiki/entities/zhuorui/"
-  - key: "ZhuoChi"
-    title: "卓齿 / Zhuo Chi"
-    url: "/wiki/entities/zhuochi/"
   - key: "ZhanTeacher"
     title: "占老师 / Zhan Teacher"
     url: "/wiki/entities/zhanteacher/"
@@ -497,6 +494,9 @@ wiki_pages:
   - key: "ZhuozeBattle"
     title: "浊泽之战 / Battle of Zhuoze"
     url: "/wiki/entities/zhuozebattle/"
+  - key: "ZhuoChi"
+    title: "淖齿 / 卓齿 / Zhuo Chi"
+    url: "/wiki/entities/zhuochi/"
   - key: "ZhangshuiAlliance"
     title: "漳水之盟 / Zhangshui Alliance"
     url: "/wiki/entities/zhangshuialliance/"

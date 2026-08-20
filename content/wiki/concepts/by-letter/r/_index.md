@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 4800
+wiki_total_pages: 4803
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "RetainerReciprocityEthic"
     title: "Retainer Reciprocity Ethic / 士为知己者死"
     url: "/wiki/concepts/retainerreciprocityethic/"
+  - key: "RetainerRevengeMobilization"
+    title: "Retainer Revenge Mobilization / 臣下复仇动员"
+    url: "/wiki/concepts/retainerrevengemobilization/"
   - key: "RetainerRiskConversion"
     title: "Retainer Risk Conversion / 门客风险转化"
     url: "/wiki/concepts/retainerriskconversion/"

@@ -8500,6 +8500,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？
+
+Added source page for a 芮淇讲透资治通鉴 episode continuing the 284 BCE Qi-collapse aftermath through Qin's attack on Wei, Tian Fazhang's hiding in Ju, Wang Sun Gu's revenge against Zhuo Chi, Tian Fazhang's restoration as Qi Xiang Wang, and Jun Wang Hou's crisis-formed marriage. Created pages for Qi Xiang Wang, Jun Wang Hou, Taishi Jiao, Wang Sun Gu, Ju, Ancheng, Post-Coalition Spoils Imbalance, Crisis Autonomous Marriage, and Retainer Revenge Mobilization; updated overview, index, Qi/Qin/Wei/Yan/Zhao state pages, Tian Fazhang, Qi Min Wang, Zhuo Chi, Le Yi, Qin Zhaoxiang Wang, Zhao He, Wei Zhao Wang, Daliang, Zhou Nan Wang, Shiji, and related coalition, Qin-pressure, people-security, retainer, and marriage concepts. No direct contradiction found; 淖齿 was normalized to the existing ZhuoChi page while preserving the earlier 卓齿 transcript variant.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？
 
 Added source page for a 芮淇讲透资治通鉴 episode continuing the 284 BCE Qi-collapse aftermath through Wang Zhu's refusal to serve Yan, his death under a loyalty-versus-local-collateral dilemma, Le Yi's post-conquest discipline and appeasement measures, the Qin-Wei-Han meeting at the Zhou capital, and Tian Fazhang's flight. Created pages for Wang Zhu, Tian Fazhang, and Loyalty-Collateral Dilemma; updated overview, index, Zhou Nan Wang, Qi Min Wang, Le Yi, Yan Zhaowang, Qi/Yan state pages, Qin Zhaoxiang Wang, Wei Zhao Wang, Han Xi Wang, Zhou Royal House, Luoyi, and related people-based legitimacy/security, talent-attraction, audience-versus-meeting, and honor-over-life concepts. No direct contradiction found; Wang Zhu is kept distinct from the existing Wang Chuo page because 王蠋 and 王绰 are different figures.
@@ -8655,6 +8659,10 @@ Ran health before lint; health scanned 12,016 wiki pages and found no empty/stub
 ## [2026-08-20] ingest | 《资治通鉴·周纪》71丨荀子的性本恶论
 
 Added source page for a 芮淇讲透资治通鉴 episode unpacking Sima Guang's Xunzi Wangba quotation after Qi Min Wang's death. Created pages for 《荀子》, Xunzian Wangba Three Paths, Xing'e Theory, Qin Er Shi, and Zhou Wu Wang; updated overview, index, Xunzi, Qi Min Wang, Mengchangjun, Jixia Academy, Shang Tang, Song Kang Wang, Zhou Nan Wang, Sima Guang, Confucian Ideal Governance, Wangdao versus Badao, and Small Trust Builds Large Trust. No direct contradiction found; transcript-noisy renderings were normalized to existing Qi Min Wang, Zhuo Chi, Le Yi, and Xunzi/Chengxiang contexts while preserving uncertainty in the source page.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 

@@ -3883,6 +3883,10 @@
     "title": "Ancestrality",
     "url": "/wiki/concepts/ancestrality/"
   },
+  "AnchengWarringStates": {
+    "title": "安城 / Ancheng",
+    "url": "/wiki/entities/anchengwarringstates/"
+  },
   "AnchoringEffect": {
     "title": "Anchoring Effect / 锚定效应",
     "url": "/wiki/concepts/anchoringeffect/"
@@ -10250,6 +10254,10 @@
   "CriminalProfilingAsProbabilisticInference": {
     "title": "Criminal Profiling As Probabilistic Inference",
     "url": "/wiki/concepts/criminalprofilingasprobabilisticinference/"
+  },
+  "CrisisAutonomousMarriage": {
+    "title": "Crisis Autonomous Marriage / 患难自主婚姻",
+    "url": "/wiki/concepts/crisisautonomousmarriage/"
   },
   "CrisisForcedVerticalIntegration": {
     "title": "Crisis-Forced Vertical Integration",
@@ -21747,6 +21755,10 @@
     "title": "卓越网 / Amazon China",
     "url": "/wiki/entities/joyoamazonchina/"
   },
+  "JuWarringStates": {
+    "title": "莒 / Ju",
+    "url": "/wiki/entities/juwarringstates/"
+  },
   "JuXin": {
     "title": "剧辛 / Ju Xin",
     "url": "/wiki/entities/juxin/"
@@ -21850,6 +21862,10 @@
   "JumillaCF": {
     "title": "胡米利亚足球俱乐部 / Jumilla CF",
     "url": "/wiki/entities/jumillacf/"
+  },
+  "JunWangHou": {
+    "title": "君王后 / Jun Wang Hou",
+    "url": "/wiki/entities/junwanghou/"
   },
   "JungianArchetypalReading": {
     "title": "Jungian Archetypal Reading / 荣格式原型阅读",
@@ -31143,6 +31159,10 @@
     "title": "Post-Brexit Strategic Identity",
     "url": "/wiki/concepts/postbrexitstrategicidentity/"
   },
+  "PostCoalitionSpoilsImbalance": {
+    "title": "Post-Coalition Spoils Imbalance / 联军战后利益失衡",
+    "url": "/wiki/concepts/postcoalitionspoilsimbalance/"
+  },
   "PostDisasterTruthAndResponsibility": {
     "title": "Post-Disaster Truth And Responsibility",
     "url": "/wiki/concepts/postdisastertruthandresponsibility/"
@@ -32134,6 +32154,10 @@
   "QiWuLun": {
     "title": "《齐物论》",
     "url": "/wiki/entities/qiwulun/"
+  },
+  "QiXiangWang": {
+    "title": "齐襄王 / King Xiang of Qi",
+    "url": "/wiki/entities/qixiangwang/"
   },
   "QiXuanWang": {
     "title": "齐宣王 / King Xuan of Qi",
@@ -33426,6 +33450,10 @@
   "RetainerReciprocityEthic": {
     "title": "Retainer Reciprocity Ethic / 士为知己者死",
     "url": "/wiki/concepts/retainerreciprocityethic/"
+  },
+  "RetainerRevengeMobilization": {
+    "title": "Retainer Revenge Mobilization / 臣下复仇动员",
+    "url": "/wiki/concepts/retainerrevengemobilization/"
   },
   "RetainerRiskConversion": {
     "title": "Retainer Risk Conversion / 门客风险转化",
@@ -38283,6 +38311,10 @@
     "title": "太史旦 / Taishi Dan",
     "url": "/wiki/entities/taishidan/"
   },
+  "TaishiJiao": {
+    "title": "太史角 / Taishi Jiao",
+    "url": "/wiki/entities/taishijiao/"
+  },
   "Taitai": {
     "title": "台台 / Taitai",
     "url": "/wiki/entities/taitai/"
@@ -41563,6 +41595,10 @@
     "title": "王十朋 / Wang Shipeng",
     "url": "/wiki/entities/wangshipeng/"
   },
+  "WangSunGu": {
+    "title": "王孙古 / Wang Sun Gu",
+    "url": "/wiki/entities/wangsungu/"
+  },
   "WangTao": {
     "title": "Wang Tao / 汪滔",
     "url": "/wiki/entities/wangtao/"
@@ -44780,7 +44816,7 @@
     "url": "/wiki/entities/zhuiguanganimation/"
   },
   "ZhuoChi": {
-    "title": "卓齿 / Zhuo Chi",
+    "title": "淖齿 / 卓齿 / Zhuo Chi",
     "url": "/wiki/entities/zhuochi/"
   },
   "ZhuoRui": {
@@ -48102,5 +48138,9 @@
   "zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28": {
     "title": "《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28/"
+  },
+  "zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u": {
+    "title": "《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u/"
   }
 }

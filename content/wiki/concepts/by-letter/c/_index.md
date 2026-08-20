@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4800
+wiki_total_pages: 4803
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "CriminalProfilingAsProbabilisticInference"
     title: "Criminal Profiling As Probabilistic Inference"
     url: "/wiki/concepts/criminalprofilingasprobabilisticinference/"
+  - key: "CrisisAutonomousMarriage"
+    title: "Crisis Autonomous Marriage / 患难自主婚姻"
+    url: "/wiki/concepts/crisisautonomousmarriage/"
   - key: "CrisisStakeholderLeadership"
     title: "Crisis Stakeholder Leadership"
     url: "/wiki/concepts/crisisstakeholderleadership/"

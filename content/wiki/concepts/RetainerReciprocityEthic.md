@@ -2,7 +2,7 @@
 title: "Retainer Reciprocity Ethic / 士为知己者死"
 type: concept
 tags: [ethics, honor, pre-qin-history, political-violence]
-sources: [zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
+sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The concept's key move is proportional reciprocity: exceptional recognition crea
 
 [[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds a problematic reciprocity case. A retainer who has an affair with Mengchang Jun's wife is not killed; Mengchang Jun later sends him to [[WeyState|卫国]] with resources and access. The retainer's later argument against a Wey attack on [[QiState|齐国]] shows how preserved dignity and opportunity can still produce obligation, even after serious personal misconduct.
 
+[[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds a crisis-revenge version through [[WangSunGu|王孙古]]. His mother frames inaction after [[QiMinWang|齐湣王]]'s death as failed subject duty, and Wang Sun Gu converts that shame into a public call to kill [[ZhuoChi|淖齿 / 卓齿]]. The source therefore extends reciprocity from personal patron recognition into [[RetainerRevengeMobilization|臣下复仇动员]] on behalf of a killed ruler.
+
 This concept is adjacent to [[AristocraticHonorOverLife]], but its center is patron recognition rather than family reputation. It is also adjacent to [[PoliticalAssassinationEthics]], but the episode does not mainly ask whether Yu Rang's killing attempt is universally justifiable; it asks how a particular retainer code makes self-destruction intelligible.
 
 ## Key Claims
@@ -25,6 +27,7 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - The concept should remain source-scoped because later political orders may condemn the violence even while preserving the story's moral force.
 - Mengchang Jun's retainer network shows the recruitment side of the same logic: recognition can be built materially through sustained patronage and respect before it becomes death-level repayment.
 - Reciprocity can survive misconduct when a patron converts punishment into protected exit and later usefulness.
+- Retainer duty can become public revenge mobilization when a ruler's violent death is treated as a subject's shame.
 
 ## Connections
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[ZhaoXiangzi|赵襄子]] - source case.
@@ -33,3 +36,4 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - [[Mengchangjun|孟尝君 / 田文]] and [[WarringStatesRetainerPatronage|战国养士]] - Zhouji 41 patronage branch where recognition is produced through care,礼数, and material support.
 - [[RetainerRiskConversion|门客风险转化]], [[WeyState|卫国]], and [[QiState|齐国]] - Zhouji 43 preserved-dignity and later-repayment branch.
 - [[PoliticalAssassinationEthics]] and [[SpringAutumnToWarringStatesPoliticalViolence]] - adjacent political-violence frames.
+- [[WangSunGu|王孙古]], [[QiMinWang|齐湣王]], [[ZhuoChi|淖齿 / 卓齿]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 subject-duty revenge branch.

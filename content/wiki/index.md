@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？](sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u.md) — 芮淇讲透资治通鉴 episode on Qin's post-anti-Qi pressure against Wei, Tian Fazhang's hiding in Ju, Wang Sun Gu's revenge against Zhuo Chi, Qi Xiang Wang's restoration, and Jun Wang Hou's crisis-formed marriage.
 - [《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？](sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28.md) — 芮淇讲透资治通鉴 episode on Wang Zhu's loyal-minister death after Yan's conquest of Qi, Le Yi's post-conquest governance, the Qin-Wei-Han meeting at Luoyi, and Tian Fazhang's flight.
 - [《资治通鉴·周纪》71丨荀子的性本恶论](sources/zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j.md) — 芮淇讲透资治通鉴 episode unpacking Sima Guang's Xunzi Wangba quotation after Qi Min Wang's death, contrasting ritual-righteous kingly rule, trust-based hegemony, and deception-driven collapse.
 - [《资治通鉴·周纪》70丨喜欢花样作死的齐国君主](sources/zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md.md) — 芮淇讲透资治通鉴 episode completing Qi Min Wang's fall through Le Yi's 284 BCE anti-Qi coalition, Linzi's capture, failed refuge in Wey/Zou/Lu, Zhuo Chi's rescue-turned-execution, and Sima Guang's Xunzi-based political lesson.
@@ -1084,6 +1085,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity after ministers find him in Ju.
+- [君王后 / Jun Wang Hou](entities/JunWangHou.md) — Taishi Jiao's daughter who privately bonds with fugitive Tian Fazhang and becomes Qi Xiang Wang's queen.
+- [太史角 / Taishi Jiao](entities/TaishiJiao.md) — Ju household head whose home shelters Tian Fazhang during the Qi collapse.
+- [王孙古 / Wang Sun Gu](entities/WangSunGu.md) — Qi retainer who mobilizes revenge against Zhuo Chi after his mother's rebuke.
+- [莒 / Ju](entities/JuWarringStates.md) — Qi refuge and restoration base where Tian Fazhang hides and is installed as Qi Xiang Wang.
+- [安城 / Ancheng](entities/AnchengWarringStates.md) — Wei city Qin captures before threatening Daliang in Zhouji 73.
 - [王蠋 / Wang Zhu](entities/WangZhu.md) — Qi worthy man and former official who refuses Yan service after conquest and dies rather than serve two rulers or endanger his city.
 - [田法章 / Tian Fazhang](entities/TianFazhang.md) — Qi Min Wang's son, introduced as a hidden fugitive after Qi's collapse and his father's violent death.
 - [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
@@ -7237,6 +7244,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
+- [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
+- [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Wang Sun Gu's conversion of subject-duty shame into a public revenge force against Zhuo Chi.
 - [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Wang Zhu case where loyal refusal of enemy service risks making nearby people collateral unless the target exits the coercive choice.
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.

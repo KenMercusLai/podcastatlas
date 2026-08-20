@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6149
+wiki_total_pages: 6155
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "JonathanSpence"
     title: "史景迁 / Jonathan Spence"
     url: "/wiki/entities/jonathanspence/"
+  - key: "JunWangHou"
+    title: "君王后 / Jun Wang Hou"
+    url: "/wiki/entities/junwanghou/"
   - key: "JiatingGongyeshe"
     title: "家庭工业社"
     url: "/wiki/entities/jiatinggongyeshe/"
@@ -893,6 +896,9 @@ wiki_pages:
   - key: "Jingnan"
     title: "荆南 / Jingnan"
     url: "/wiki/entities/jingnan/"
+  - key: "JuWarringStates"
+    title: "莒 / Ju"
+    url: "/wiki/entities/juwarringstates/"
   - key: "Juxian"
     title: "菊仙 / Juxian"
     url: "/wiki/entities/juxian/"
