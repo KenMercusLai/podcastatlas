@@ -16,6 +16,8 @@ The episode uses Zhongshan to show how frontier control can reverse quickly when
 
 [[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] makes Zhongshan a direct target of [[ZhaoWulingwang|赵武灵王]]'s state-strengthening plan. The episode links the intended conquest of Zhongshan and northern Hu lands to [[HufuQishe|胡服骑射]], so Zhongshan now sits at the strategic reason for Zhao's military and clothing reform rather than only at Wei's detached frontier problem.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] shows the first major payoff of that pressure. Zhao Wuling Wang attacks Zhongshan in 305 BCE, takes a series of places including Danchiu, Huayang, Chizhisae, Haocheng, Shiyi, Fenglong, and Dongyuan, and frightens Zhongshan enough that it cedes four cities for peace. Zhongshan now functions as the target against which Zhao's reform becomes measurable.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiWuhou|魏武侯]] - conquering and controlling power in the source background.
 - [[WeiZhi|魏挚]] - Wei ruler's brother guarding Zhongshan.

@@ -90,6 +90,8 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 
 [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] returns Wei to Zhang Yi's final refuge. After [[YingSi|秦惠文王]] dies, Zhang Yi persuades [[QinWuwang|秦武王]] to send him to Wei on the claim that [[QiState|齐国]] will attack any state hosting him. Wei is then attacked by Qi, [[WeiXiangwang|魏襄王]] becomes afraid, and Zhang Yi's disclosure channel causes [[QiXuanWang|齐宣王]] to withdraw. Wei becomes the court where [[SelfPreservationAsStateStrategy|以自保包装国策]] and [[YinmouYangmouConversion|阴谋阳谋转换]] produce Zhang Yi's final year in office.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] adds a 303-302 BCE reversal. Qin attacks Wei and takes [[PubanWarringStates|蒲阪]], [[YangjinWarringStates|阳晋]], and [[FenglingWarringStates|封陵]], all treated by the episode as important Hexi-Hedong crossing points. Wei then joins [[QiState|齐国]] and [[HanState|韩国]] in attacking [[ChuState|楚国]] after Chu moves toward Qin. Once the [[MiHeng|芈横]] hostage incident breaks Qin-Chu relations, [[WeiXiangwang|魏襄王]] meets [[QinZhaoxiangwang|秦昭襄王]] and [[HanYing|韩婴]] at [[LinjinWarringStates|临晋]], and Qin returns Puban to Wei.
+
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
 - [[TalentAttractionThroughRespect]], [[SmallTrustBuildsLargeTrust]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - Zhouji 05 explanation of Wei Wenhou's early prestige.
@@ -132,3 +134,4 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 - [[Chulizi|樗里子]], [[XiuyuBattle|修鱼之战]], [[ZhuozeBattle|浊泽]], [[HanState|韩国]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 46 Qin pursuit and central-plains pressure branch.
 - [[LantianBattle|蓝田之战]], [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]], and [[HanState|韩国]] - Zhouji 51 opportunistic rear pressure during Chu's Qin campaign.
 - [[WeiXiangwang|魏襄王]], [[QiXuanWang|齐宣王]], [[SelfPreservationAsStateStrategy|以自保包装国策]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - Zhouji 55 final Zhang Yi refuge and Qi withdrawal branch.
+- [[PubanWarringStates|蒲阪]], [[YangjinWarringStates|阳晋]], [[FenglingWarringStates|封陵]], [[WeiXiangwang|魏襄王]], [[HanYing|韩婴]], [[LinjinWarringStates|临晋]], [[MiHeng|芈横]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 crossing-point losses, anti-Chu coalition, and Qin-Wei repair branch.

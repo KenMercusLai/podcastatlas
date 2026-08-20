@@ -8480,6 +8480,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》60丨 中国第一位把持朝政的太后竟是她？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Xuan Taihou and Wei Ran consolidating early Qin Zhaoxiang Wang politics, Zhao Wuling Wang's Zhongshan campaign, Qin-Chu marriage repair, Qin pressure on Han/Wei, the Qi-Han-Wei punitive attack on Chu, and Mi Heng's hostage incident breaking Qin-Chu relations. Created pages for Ying Zhuang, Queen Huiwen of Qin, Mi Heng, Han Ying, Keqing Tong, Puban, Yangjin, Fengling, Huangji, Linjin, Queen-Mother Regency, Foreign-Relative Court Politics, Hostage Diplomacy Rupture, and Warring States Alliance Switching; updated related Qin, Chu, Zhao, Han, Wei, Qi, hezong/lianheng, Qin pressure, and marriage-diplomacy pages. No direct contradiction found; Wusui is recorded as a quick Qin recapture after Zhouji 59's return to Han.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》58丨赵武灵王如何打造强国
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Gan Mao's Yiyang campaign through the Xirang oath, narrating Qin Wuwang's ding-lifting death at Luoyi and Qin Zhaoxiang Wang's succession, and launching Zhao Wuling Wang's Hu Fu Qi She reform against Zhao Cheng's ritual resistance. Created pages for Qin Zhaoxiang Wang, Xuan Taihou, Zhao Cheng, and Hu Fu Qi She; updated overview, index, Gan Mao, Qin Wuwang, Chulizi, Yiyang, Qin/Zhao/Zhongshan/Zhou Nan Wang/Luoyi/Sanchuan pages, Fei Yi, Zhao Wuling Wang, Oath-Bound Command Trust, Qin Eastward Pressure, New Ruler Reform Signaling, Warring States Military Transformation, and Warring States Reform Backlash. Preserved the existing Yiyang source-layer tension: Zhouji 27 says Qin took Yiyang in 335 BCE, while Zhouji 57-58 treat it as Gan Mao's hard-won 307 BCE target.
@@ -8535,6 +8539,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] ingest | 《资治通鉴·周纪》59丨一朝君王一朝臣
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Zhao Cheng's conversion to Hu Fu Qi She, showing Zhao Wuling Wang's northern expansion, envoys, Hu-affairs appointment, and Hu recruitment, and tracing Gan Mao's post-Yiyang insecurity after Qin Wuwang's death. Created pages for Xiang Shou, Zhao Gu, Wusui, and Wei Ran; updated overview, index, Gan Mao, Zhao Wuling Wang, Zhao Cheng, Hu Fu Qi She, Qin Zhaoxiang Wang, Xuan Taihou, Qin Wuwang, Chulizi, Qin/Zhao/Yiyang pages, and related hezong/reform/military/succession concepts. Preserved the existing Yiyang source-layer tension: Zhouji 27 says Qin took Yiyang in 335 BCE, while Zhouji 57-59 treat it as Gan Mao's hard 308-307 BCE target and later Qin-administered territory.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-20] lint | Wiki health check
 

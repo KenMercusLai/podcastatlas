@@ -26,6 +26,8 @@ The same episode makes Qin Wuwang the ruler whose trust must be bound before the
 
 [[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] shows the political afterlife of that death. Qin Wuwang's brothers struggle for the throne, [[WeiRan|魏冉]] secures Ying Ji's accession as Qin Zhaoxiang Wang, and [[GanMao|甘茂]] loses the ruler-specific backing that had made the Yiyang campaign survivable. The source therefore links Qin Wuwang's sonless death to both [[SuccessionNonDesignationRisk|succession uncertainty]] and Gan Mao's [[PatronSuccessionExposure|patron succession exposure]].
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] continues that afterlife into purge detail. [[YingZhuang|嬴壮]] and other royal or official factions revolt, Wei Ran crushes them, [[QinHuiwenhou|惠文后]] is secretly executed, and Qin Wuwang's wife is sent back to [[WeiState|魏国]]. The episode therefore makes Qin Wuwang's death the trigger not only for succession uncertainty but also for a court replacement under [[XuanTaihou|芈八子 / 宣太后]] and [[ForeignRelativeCourtPolitics|楚系外戚政治]].
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - minister whose departure he authorizes in the source's supplement.
 - [[YingSi|秦惠文王]] - predecessor named by the source.
@@ -36,3 +38,4 @@ The same episode makes Qin Wuwang the ruler whose trust must be bound before the
 - [[ChenZhuangWarringStates|陈庄]], [[Chulizi|樗里疾 / 樗里子]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], [[RumorErosionOfTrust|谣言侵蚀信任]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57 rebellion, chancellor setup, and campaign-oath branch.
 - [[Luoyi|洛邑]], [[ZhouRoyalHouse|周王室]], [[QinZhaoxiangwang|秦昭襄王]], and [[XuanTaihou|芈八子 / 宣太后]] - Zhouji 58 death and succession branch.
 - [[WeiRan|魏冉]], [[SuccessionNonDesignationRisk|未定继承人风险]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 59 succession fight and Gan Mao fallout.
+- [[YingZhuang|嬴壮]], [[QinHuiwenhou|惠文后]], [[QueenMotherRegency|太后摄政]], and [[ForeignRelativeCourtPolitics|楚系外戚政治]] - Zhouji 60 purge and new court configuration.

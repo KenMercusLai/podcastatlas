@@ -16,6 +16,8 @@ The political logic is just as important. Zhao Wuling Wang first wears the Hu cl
 
 [[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] carries the reform from argument to rollout. [[ZhaoWulingwang|赵武灵王]] persuades Zhao Cheng by naming Zhao's exposure to Qi, Zhongshan, Yan, Donghu, Loufan, Qin, and Han, and by turning the Zhongshan humiliation into a reason to abandon older battlefield forms. The episode then links the clothing order to actual cavalry-building, northern expansion, diplomacy, [[ZhaoGuWarringStates|赵固]]'s Hu-affairs appointment, and recruitment of Hu fighters.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] gives the reform branch a concrete strategic result. Zhao Wuling Wang's 305 BCE attack on [[ZhongshanState|中山国]] captures several places and forces Zhongshan to cede four cities, making the earlier reform argument measurable as territorial pressure.
+
 ## Key Claims
 - The reform links technology, clothing, and tactics rather than treating dress as a standalone cultural gesture.
 - Zhao Wuling Wang frames ridicule as the cost of seeing what others miss.
@@ -24,6 +26,7 @@ The political logic is just as important. Zhao Wuling Wang first wears the Hu cl
 - The ruler's family becomes the first enforcement surface because kin compliance can model aristocratic compliance.
 - Persuasion matters because the reform succeeds only when elite ritual resistance is converted into visible court compliance.
 - Frontier administration and recruitment show that the reform is an institutional program, not only a clothing decree.
+- The following Zhongshan campaign shows why the reform matters: new battlefield practice is tied to actual expansion.
 
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]], [[FeiYi|肥义]], [[ZhaoChengWarringStates|赵成]], and [[ZhaoGuWarringStates|赵固]] - ruler, adviser, first named resistor, and Hu-affairs official.

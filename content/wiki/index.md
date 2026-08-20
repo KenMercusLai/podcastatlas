@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》60丨 中国第一位把持朝政的太后竟是她？](sources/zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc.md) — 芮淇讲透资治通鉴 episode on Xuan Taihou and Wei Ran consolidating early Qin Zhaoxiang Wang politics, Qin-Chu marriage repair, Qin pressure on Han/Wei, and the Mi Heng hostage incident that flips Qin back toward Han and Wei against Chu.
 - [《资治通鉴·周纪》59丨一朝君王一朝臣](sources/zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh.md) — 芮淇讲透资治通鉴 episode completing Zhao Cheng's conversion to Hu Fu Qi She, showing Zhao's northern expansion and Hu recruitment, and tracing Gan Mao's loss of security under Qin Zhaoxiang Wang after the Yiyang-Wusui settlement.
 - [《资治通鉴·周纪》58丨赵武灵王如何打造强国](sources/zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz.md) — 芮淇讲透资治通鉴 episode completing Gan Mao's Yiyang campaign, Qin Wuwang's death and Qin Zhaoxiang Wang's succession, and Zhao Wuling Wang's Hu Fu Qi She reform against aristocratic ritual resistance.
 - [《资治通鉴·周纪》57丨古代发毒誓还有这作用？](sources/zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si.md) — 芮淇讲透资治通鉴 episode linking Zigong's rescue of Lu through a Wu-Yue-Qi-Jin diplomatic cascade with Gan Mao's Yiyang campaign, Qin's first left/right chancellors, Zhao Wuling Wang's succession foreshadowing, and oath-bound command trust against rumor and court pressure.
@@ -1068,6 +1069,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [临晋 / Linjin (Warring States)](entities/LinjinWarringStates.md) — Qin-Han-Wei meeting site where Qin repairs relations after the Mi Heng hostage incident breaks the Qin-Chu alignment.
+- [黄棘 / Huangji](entities/Huangji.md) — Qin-Chu meeting site where Qin Zhaoxiang Wang and Chu Huaiwang renew alliance and Qin returns Shangyong.
+- [封陵 / Fengling (Warring States)](entities/FenglingWarringStates.md) — Wei crossing point taken by Qin during the 303 BCE pressure on Han and Wei.
+- [阳晋 / Yangjin (Warring States)](entities/YangjinWarringStates.md) — Wei crossing point captured by Qin alongside Puban and Fengling in Zhouji 60.
+- [蒲阪 / Puban (Warring States)](entities/PubanWarringStates.md) — Wei crossing point captured by Qin in 303 BCE and returned in 302 BCE as a repair signal.
+- [客卿通 / Keqing Tong](entities/KeqingTong.md) — Qin commander sent to rescue Chu after Chu sends Mi Heng as hostage.
+- [韩婴 / Han Ying](entities/HanYing.md) — Han crown prince who meets Qin Zhaoxiang Wang and Wei Xiangwang at Linjin and then visits Xianyang.
+- [芈横 / Mi Heng](entities/MiHeng.md) — Chu crown prince whose hostage killing of a Qin official breaks the Qin-Chu alliance.
+- [惠文后 / Queen Huiwen of Qin](entities/QinHuiwenhou.md) — Qin palace figure secretly executed in Wei Ran's post-Wuwang succession purge.
+- [嬴壮 / Ying Zhuang](entities/YingZhuang.md) — Qin shuzhang whose revolt after Qin Wuwang's death is crushed by Wei Ran.
 - [向寿 / Xiang Shou](entities/XiangShou.md) — Qin official sent to administer Yiyang whose opposition to returning Wusui helps turn Gan Mao's policy win into court resentment.
 - [赵固 / Zhao Gu (Warring States)](entities/ZhaoGuWarringStates.md) — Zhao official appointed to manage Hu affairs and recruit Hu fighters after Zhao Wuling Wang's northern expansion.
 - [武遂 / Wusui (Warring States)](entities/WusuiWarringStates.md) — Han city Qin returns on Gan Mao's advice after Yiyang, becoming a concrete trigger for post-succession resentment against him.
@@ -7163,6 +7174,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Warring States Alliance Switching / 战国同盟转向](concepts/WarringStatesAllianceSwitching.md) — Pattern where Qin's alignment flips from Chu to Han/Wei as court faction, returned land, hostage diplomacy, and attack timing shift.
+- [Hostage Diplomacy Rupture / 质子外交破裂](concepts/HostageDiplomacyRupture.md) — Failure mode where a hostage meant to guarantee alliance trust becomes the cause of state-level rupture.
+- [Foreign-Relative Court Politics / 楚系外戚政治](concepts/ForeignRelativeCourtPolitics.md) — Qin court pattern where Xuan Taihou's Chu-linked kin bloc converts succession crisis into office, coercion, and foreign-policy direction.
+- [Queen-Mother Regency / 太后摄政](concepts/QueenMotherRegency.md) — Court-power pattern where a young ruler's mother governs through kin, office, purge capacity, and diplomatic choices.
 - [胡服骑射 / Hu Fu Qi She](concepts/HufuQishe.md) — Zhao Wuling Wang's military reform linking Hu-style clothing, horseback mobility, archery, Zhongshan strategy, elite compliance, and Hu recruitment.
 - [Interstate Cascade Diplomacy / 多国连锁外交](concepts/InterstateCascadeDiplomacy.md) — Zigong-style rescue strategy that redirects one state's attack by chaining several rulers' incentives across Qi, Wu, Yue, Jin, and Lu.
 - [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Gan Mao's risk model where repeated accusation and court faction pressure can make a ruler abandon a commander mid-campaign.

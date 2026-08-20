@@ -26,6 +26,8 @@ The source treats the notice as a preview rather than a developed biography. It 
 
 [[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] follows that hatred into a new decision. Chu Huai Wang initially rejects [[YingSi|秦惠文王]]'s land exchange and demands Zhang Yi in place of [[Qianzhong|黔中]], then imprisons Zhang Yi and prepares to kill him. He reverses after [[ZhengXiu|郑袖]] warns of Qin retaliation and a possible Qin ransom package involving [[Shangyong|上庸]], and he later accepts Zhang Yi's argument for Qin-Chu brotherhood because releasing Zhang Yi lets him avoid ceding Qianzhong or violating the [[EnvoyKillingTaboo|不斩来使]] norm. The episode therefore treats him as vulnerable to Zhang Yi again, but also as a ruler seeking an exit from an overcommitted revenge posture.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] makes Chu Huai Wang a temporary Qin ally. He meets [[QinZhaoxiangwang|秦昭襄王]] at [[Huangji|黄棘]] in 304 BCE and receives [[Shangyong|上庸]] back from Qin. When [[QiState|齐国]], [[HanState|韩国]], and [[WeiState|魏国]] punish Chu for abandoning the north-south [[HezongAlliance|合纵]] line, he sends crown prince [[MiHeng|芈横]] to Qin as hostage and receives Qin rescue through [[KeqingTong|客卿通]]. The later Mi Heng killing and escape turns Chu Huai Wang's Qin alignment into a new Qin grievance.
+
 ## Connections
 - [[ChuState|楚国]] - polity he rules after the succession.
 - [[ChuWeiwang|楚威王]] - predecessor and father in the source notice.
@@ -38,3 +40,4 @@ The source treats the notice as a preview rather than a developed biography. It 
 - [[DanyangBattle|丹阳之战]], [[LantianBattle|蓝田之战]], [[Hanzhong|汉中]], [[Wuguan|武关]], [[QuGai|屈匄]], [[QuYuan|屈原]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 rage-war, battlefield loss, and court-capture sequel.
 - [[ZhangYiStrategist|张仪]] - Zhouji 52 closing hook around Zhang Yi entering Chu despite Chu Huai Wang's hatred.
 - [[ZhengXiu|郑袖]], [[Qianzhong|黔中]], [[Shangyong|上庸]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 prison, release, and face-saving diplomatic exit branch.
+- [[QinZhaoxiangwang|秦昭襄王]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[KeqingTong|客卿通]], [[HostageDiplomacyRupture|质子外交破裂]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 alliance repair, hostage rescue, and Qin-Chu rupture.

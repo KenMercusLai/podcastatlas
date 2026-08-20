@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 4772
+wiki_total_pages: 4776
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "HostCitySupporterSponsorship"
     title: "Host City Supporter Sponsorship"
     url: "/wiki/concepts/hostcitysupportersponsorship/"
+  - key: "HostageDiplomacyRupture"
+    title: "Hostage Diplomacy Rupture / 质子外交破裂"
+    url: "/wiki/concepts/hostagediplomacyrupture/"
   - key: "HostileMediaEffect"
     title: "Hostile Media Effect / 敌意媒体效应"
     url: "/wiki/concepts/hostilemediaeffect/"

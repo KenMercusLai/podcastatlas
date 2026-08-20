@@ -34,6 +34,8 @@ last_updated: 2026-08-20
 
 [[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] adds another rebound after Qin's next succession shock. With [[QinWuwang|秦武王]] dead, Qin's brothers fighting, and [[QinZhaoxiangwang|秦昭襄王]] only secured through [[WeiRan|魏冉]], [[ChuState|楚国]], [[QiState|齐国]], and [[HanState|韩国]] again form a north-south anti-Qin line. The episode keeps hezong as episodic and opportunistic: Qin weakness can reopen coalition behavior even after earlier alignments collapse.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] then shows the coalition norm from the other side. After [[ChuState|楚国]] moves toward [[QinState|秦国]] through marriage repair and the [[Huangji|黄棘]] meeting, [[QiState|齐国]], [[HanState|韩国]], and [[WeiState|魏国]] attack Chu as punishment for leaving the anti-Qin field. Qin's rescue through [[KeqingTong|客卿通]] forces the attackers to withdraw, but the [[MiHeng|芈横]] hostage incident soon breaks the Qin-Chu alignment.
+
 The concept is therefore both diplomatic and historiographical. It names the kind of coalition Su Qin is famous for, while also recording this episode's caution that the chronicle's dating may compress or misplace a more complicated process.
 
 ## Key Claims
@@ -52,6 +54,7 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - Zhouji 54 adds a rhetoric vulnerability: once enough coalition members seem detached, a lianheng persuader can use the appearance of hezong collapse to push the remaining rulers toward Qin.
 - Zhouji 55 adds that hezong can return opportunistically when Qin-facing commitments appear under-backed by Qin court politics.
 - Zhouji 59 adds that hezong can return again when Qin succession disorder makes anti-Qin coordination look newly viable.
+- Zhouji 60 adds a punishment case: a state that defects toward Qin can face coalition attack, but Qin rescue and hostage diplomacy can still undo the coalition effect.
 
 ## Connections
 - [[SuQin|苏秦]], [[ZhaoSuhou|赵肃侯]], [[HanXuanhuiwang|韩宣惠王]], and [[ChuWeiwang|楚威王]] - strategist and rulers attached to the policy in the source sequence.
@@ -67,3 +70,4 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - [[EncirclementThreatPersuasion|包围威胁式说服]], [[QiXuanWang|齐宣王]], [[ZhaoWulingwang|赵武灵王]], and [[LianhengStrategy|连横]] - Zhouji 54 use of alleged coalition collapse as a Qin-facing argument.
 - [[QinWuwang|秦武王]], [[PatronSuccessionExposure|靠山更替暴露风险]], and [[LianhengStrategy|连横]] - Zhouji 55 alliance reversal after Qin court transition.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], [[ChuState|楚国]], [[QiState|齐国]], and [[HanState|韩国]] - Zhouji 59 renewed anti-Qin alignment during Qin succession disorder.
+- [[Huangji|黄棘]], [[MiHeng|芈横]], [[KeqingTong|客卿通]], [[HostageDiplomacyRupture|质子外交破裂]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 punitive coalition against Chu and Qin-Chu rupture branch.

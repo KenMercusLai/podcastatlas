@@ -60,6 +60,8 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 
 [[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] carries that reform into implementation. [[ZhaoWulingwang|赵武灵王]] persuades Zhao Cheng to comply, orders the clothing shift broadly, and positions Zhao as temporarily neutral while larger states fight in the central plains. Zhao then expands north toward Yuzhong, receives horses from Hu chiefs, sends envoys to Qin, Han, Chu, Wei, and Qi, appoints [[ZhaoGuWarringStates|赵固]] to manage Hu affairs, and recruits Hu fighters.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] adds the next Zhao campaign result. Zhao Wuling Wang attacks [[ZhongshanState|中山国]] in 305 BCE, captures multiple strategic places, and forces Zhongshan to cede four cities for peace. The notice keeps Zhao's state page tied to [[HufuQishe|胡服骑射]] as a military modernization project whose purpose is territorial and frontier pressure, not only court compliance.
+
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoXiangzi|赵襄子]], [[YuRang|豫让]], [[DaiState|代国]], [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]] - Zhouji 04 pre-recognition and succession branch.

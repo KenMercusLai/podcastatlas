@@ -18,6 +18,8 @@ The episode also makes him a generational comparison point. Mencius has now met 
 
 [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] gives Wei Xiang Wang a briefer diplomatic role. Qin Wuwang meets him at Linjin, and later [[GanMao|甘茂]] secures Wei's agreement to join Qin against [[HanState|韩国]], even though Gan Mao warns Qin Wuwang that the [[YiyangWarringStates|宜阳]] campaign will be difficult.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] returns him to [[LinjinWarringStates|临晋]] in a changed alignment. After [[QinState|秦国]] attacks Wei and takes [[PubanWarringStates|蒲阪]], [[YangjinWarringStates|阳晋]], and [[FenglingWarringStates|封陵]], the [[MiHeng|芈横]] hostage incident breaks Qin's Chu-facing policy. Wei Xiang Wang then meets [[QinZhaoxiangwang|秦昭襄王]] and [[HanYing|韩婴]] at Linjin, and Qin returns Puban to Wei as a repair signal.
+
 ## Connections
 - [[WeiState|魏国]] - polity he inherits.
 - [[LiangHuiWang|魏惠王 / 梁惠王]] - predecessor and father in the source.
@@ -26,3 +28,4 @@ The episode also makes him a generational comparison point. Mencius has now met 
 - [[QinState|秦国]] and [[QinEastwardPressure]] - pressure field around Wei's late Warring States decline.
 - [[ZhangYiStrategist|张仪]], [[QiXuanWang|齐宣王]], [[QinWuwang|秦武王]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - Zhouji 55 Qi attack and withdrawal branch.
 - [[GanMao|甘茂]], [[HanState|韩国]], [[YiyangWarringStates|宜阳]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57 Qin-Wei campaign agreement branch.
+- [[PubanWarringStates|蒲阪]], [[YangjinWarringStates|阳晋]], [[FenglingWarringStates|封陵]], [[QinZhaoxiangwang|秦昭襄王]], [[HanYing|韩婴]], [[LinjinWarringStates|临晋]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 Qin-Wei conflict and repair branch.

@@ -30,6 +30,8 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 
 [[zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]] locates its main notices in Zhou Nan Wang's eighth year, 307 BCE. The Zhou king remains the annalistic frame while Gan Mao takes [[YiyangWarringStates|宜阳]], [[QinWuwang|秦武王]] dies in the Zhou capital setting after the ding-lifting episode, and [[ZhaoWulingwang|赵武灵王]] begins [[HufuQishe|胡服骑射]] against elite resistance.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] locates its notices in Zhou Nan Wang's tenth through thirteenth years, 305-302 BCE. The Zhou king again remains chronological frame while [[ZhaoWulingwang|赵武灵王]] presses [[ZhongshanState|中山国]], [[XuanTaihou|芈八子 / 宣太后]] and [[WeiRan|魏冉]] consolidate [[QinZhaoxiangwang|秦昭襄王]]'s court, Qin and Chu repair through marriage and the [[Huangji|黄棘]] meeting, and the [[MiHeng|芈横]] hostage incident flips Qin back toward Han and Wei.
+
 ## Connections
 - [[ZhouShenliangwang|周慎靓王]] - immediate predecessor in the episode's chronology.
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
@@ -44,3 +46,4 @@ The source does not yet develop his reign as a personal story. His wiki role is 
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], [[GongsunYan|犀首公孙衍]], [[MencianGreatManCriterion|孟子大丈夫标准]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 fifth-year zonghengjia reassessment.
 - [[QinWuwang|秦武王]], [[WeiXiangwang|魏襄王]], [[Chulizi|樗里疾 / 樗里子]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57 fifth-to-seventh-year Qin branch.
 - [[QinZhaoxiangwang|秦昭襄王]], [[Luoyi|洛邑]], [[ZhaoWulingwang|赵武灵王]], [[HufuQishe|胡服骑射]], and [[ZhaoChengWarringStates|赵成]] - Zhouji 58 eighth-year Qin succession and Zhao reform branch.
+- [[ZhaoWulingwang|赵武灵王]], [[ZhongshanState|中山国]], [[XuanTaihou|芈八子 / 宣太后]], [[WeiRan|魏冉]], [[Huangji|黄棘]], [[MiHeng|芈横]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 tenth-to-thirteenth-year frame.

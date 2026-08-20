@@ -32,6 +32,8 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 
 [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] shows the fragile aftermath. Yan accepts Zhang Yi's final persuasion and gives Qin five cities, but Qin Huiwen Wang's death makes the lianheng settlement reversible: the lords renew [[HezongAlliance|合纵]] when they hear Zhang Yi and Qin Wuwang are at odds. Zhang Yi's final move to Wei keeps serving Qin on paper while actually securing personal retreat.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] adds a post-Zhang Yi alignment-switching case rather than a formal Zhang Yi lianheng speech. [[XuanTaihou|芈八子 / 宣太后]] first steers Qin toward [[ChuState|楚国]] through marriage repair and the [[Huangji|黄棘]] meeting, but [[MiHeng|芈横]]'s killing of a Qin official breaks that relationship. Qin then repairs relations with [[HanState|韩国]] and [[WeiState|魏国]] at [[LinjinWarringStates|临晋]], turning bilateral accommodation back against Chu.
+
 ## Key Claims
 - Lianheng is defined against hezong: where hezong tries to bind the eastern states together against Qin, lianheng turns Qin pressure into separate bargains.
 - Su Qin's critique treats lianheng persuaders as misaligned agents because the land they recommend ceding to Qin belongs to rulers and states, not to the persuaders themselves.
@@ -47,6 +49,7 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - Zhouji 53 shows lianheng as post-crisis coercive reassurance: after Zhang Yi survives Chu imprisonment, he offers Qin-Chu peace while naming the routes and allies Qin can use if Chu refuses.
 - Zhouji 54 shows lianheng as serial encirclement persuasion: Han, Qi, and Zhao are each told that Qin and Qin-aligned states can already surround them if they refuse accommodation.
 - Zhouji 55 adds that lianheng gains can unravel when the Qin court's patronage continuity breaks.
+- Zhouji 60 adds a broader alignment-switching sequel: Qin can move from Chu-facing repair to Han-Wei repair when hostage diplomacy makes the earlier arrangement costly.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, ruler, and state setting for the coming lianheng branch.
@@ -61,3 +64,4 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - [[Qianzhong|黔中]], [[ZhengXiu|郑袖]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 Zhang Yi survival and Qin-Chu bargaining branch.
 - [[EncirclementThreatPersuasion|包围威胁式说服]], [[HanXiangwang|韩襄王]], [[QiXuanWang|齐宣王]], [[ZhaoWulingwang|赵武灵王]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 54 lobbying circuit and Zhang Yi's post-patron vulnerability.
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[QinWuwang|秦武王]], [[WeiState|魏国]], and [[SanchuanWarringStates|三川]] - Zhouji 55 post-tour fragility and exit plan.
+- [[XuanTaihou|芈八子 / 宣太后]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[LinjinWarringStates|临晋]], [[HostageDiplomacyRupture|质子外交破裂]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 post-Zhang Yi bilateral realignment branch.

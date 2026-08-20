@@ -52,6 +52,8 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 
 [[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] shows Chu trying to convert that anger into personal revenge against [[ZhangYiStrategist|张仪]]. [[ChuHuaiwang|楚怀王]] refuses a land exchange for [[Qianzhong|黔中]] and asks [[QinState|秦国]] to hand over Zhang Yi instead, then imprisons him. Chu's court does not process the decision only through formal state interest: a favorite and [[ZhengXiu|郑袖]] make [[CourtBackchannelSurvival|宫廷后门自救]] decisive, while fear of Qin retaliation and the [[EnvoyKillingTaboo|不斩来使]] norm make release the less costly exit.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] moves Chu from Zhang Yi aftermath into a temporary Qin-aligned phase. [[XuanTaihou|芈八子 / 宣太后]] arranges a Chu bride for [[QinZhaoxiangwang|秦昭襄王]], Qin and Chu meet at [[Huangji|黄棘]], and Qin returns [[Shangyong|上庸]] to Chu. That shift makes Chu a target for [[QiState|齐国]], [[HanState|韩国]], and [[WeiState|魏国]], so [[ChuHuaiwang|楚怀王]] sends crown prince [[MiHeng|芈横]] as a hostage and receives Qin help through [[KeqingTong|客卿通]]. The alliance then breaks when Mi Heng kills a Qin official and escapes, making Chu the central case for [[HostageDiplomacyRupture|质子外交破裂]] and [[WarringStatesAllianceSwitching|战国同盟转向]].
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -74,3 +76,4 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 - [[ZhangYiStrategist|张仪]], [[QiState|齐国]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 alliance-breaking deception branch.
 - [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[Wuguan|武关]], [[LantianBattle|蓝田之战]], [[QuYuan|屈原]], and [[AngerDrivenWarDecision|因怒兴师]] - Zhouji 51 military loss, court-capture, and rage-war branch.
 - [[Qianzhong|黔中]], [[ZhengXiu|郑袖]], [[Shangyong|上庸]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 revenge, palace persuasion, and release branch.
+- [[XuanTaihou|芈八子 / 宣太后]], [[QinZhaoxiangwang|秦昭襄王]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[KeqingTong|客卿通]], [[HostageDiplomacyRupture|质子外交破裂]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 Qin-Chu repair, rescue, and rupture branch.

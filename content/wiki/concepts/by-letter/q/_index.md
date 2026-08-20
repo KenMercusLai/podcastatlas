@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 4772
+wiki_total_pages: 4776
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "QuantityChangeQualityChange"
     title: "Quantity Change to Quality Change / 量变引发质变"
     url: "/wiki/concepts/quantitychangequalitychange/"
+  - key: "QueenMotherRegency"
+    title: "Queen-Mother Regency / 太后摄政"
+    url: "/wiki/concepts/queenmotherregency/"
   - key: "QianjuHougongReversal"
     title: "前倨后恭 / Qianju Hougong Reversal"
     url: "/wiki/concepts/qianjuhougongreversal/"

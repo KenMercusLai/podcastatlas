@@ -64,6 +64,8 @@ The source uses Han less as a full institutional history than as a succession an
 
 [[zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]] makes Han the first target in Zhang Yi's post-Chu lobbying circuit. Zhang Yi tells [[HanXiangwang|韩襄王]] that Han's terrain, food supply, and soldiers cannot withstand Qin pressure, especially if [[QinState|秦国]] controls [[YiyangWarringStates|宜阳]] and Chenggao. Han's acceptance makes it the opening case of [[EncirclementThreatPersuasion|包围威胁式说服]] and also part of Qin's claimed pressure map against Qi and Zhao.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] gives Han a rapid pressure-and-repair sequence. Qin attacks Han in 303 BCE and retakes [[WusuiWarringStates|武遂]], after first attacking [[WeiState|魏国]] crossing points. Han also joins Qi and Wei in punishing [[ChuState|楚国]] for moving toward Qin. After [[MiHeng|芈横]] kills a Qin official and Qin prepares to turn against Chu, Han's crown prince [[HanYing|韩婴]] meets [[QinZhaoxiangwang|秦昭襄王]] and [[WeiXiangwang|魏襄王]] at [[LinjinWarringStates|临晋]] and then visits [[Xianyang|咸阳]], making Han part of Qin's repaired anti-Chu alignment.
+
 ## Connections
 - [[HanJinghou|韩景侯]] and [[HanLiehou|韩烈侯]] - succession pair in the source.
 - [[ZhiYao|智瑶]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 Jin-partition and formal-recognition branch.
@@ -95,3 +97,4 @@ The source uses Han less as a full institutional history than as a succession an
 - [[LantianBattle|蓝田之战]], [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]], and [[WeiState|魏国]] - Zhouji 51 opportunistic rear pressure during Chu's overextension.
 - [[HanXuanhuiwang|韩宣惠王 / 韩惠王]] and [[HanXiangwang|韩襄王]] - Zhouji 52 succession notice.
 - [[ZhangYiStrategist|张仪]], [[QinState|秦国]], [[YiyangWarringStates|宜阳]], [[ChuState|楚国]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 first lianheng pressure target.
+- [[WusuiWarringStates|武遂]], [[HanYing|韩婴]], [[LinjinWarringStates|临晋]], [[Xianyang|咸阳]], [[MiHeng|芈横]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 Qin attack, anti-Chu coalition, and repair meeting.

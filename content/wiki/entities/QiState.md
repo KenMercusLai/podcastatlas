@@ -80,6 +80,8 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 
 [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] then makes Qi the attacker whose hatred Zhang Yi monetizes. Zhang Yi predicts that Qi will attack [[WeiState|魏国]] if he is posted there; after Qi does so, the plan is disclosed to [[QiXuanWang|齐宣王]], and Qi withdraws because continuing would serve Zhang Yi and Qin. This updates the Zhouji 38 supplement by giving the same attack-withdrawal logic a cleaner post-Qin-Huiwen-Wang setting.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] adds Qi as one member of the coalition punishing Chu after [[ChuState|楚国]] moves toward [[QinState|秦国]]. Qi, [[HanState|韩国]], and [[WeiState|魏国]] attack Chu; Chu sends [[MiHeng|芈横]] as hostage and Qin sends [[KeqingTong|客卿通]], causing the attackers to withdraw. Qi's role is indirect but important: the coalition pressure shows that Chu's Qin alignment has costs, while Qin's rescue creates the hostage sequence that later breaks the Qin-Chu alliance.
+
 ## Connections
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]] - source-specific Qi branch.
 - [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]] - existing Qi-related wiki pages.
@@ -114,3 +116,4 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 - [[ChuHuaiwang|楚怀王]], [[ZhangYiStrategist|张仪]], [[QinState|秦国]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 Qi-Chu rupture and Qi-Qin alignment branch.
 - [[HezongAlliance|合纵]], [[LianhengStrategy|连横]], [[HanState|韩国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 direct Zhang Yi persuasion branch.
 - [[WeiXiangwang|魏襄王]], [[QinWuwang|秦武王]], [[SelfPreservationAsStateStrategy|以自保包装国策]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - Zhouji 55 attack-withdrawal sequence.
+- [[ChuState|楚国]], [[HanState|韩国]], [[WeiState|魏国]], [[MiHeng|芈横]], [[KeqingTong|客卿通]], [[HezongAlliance|合纵]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 punitive anti-Chu coalition after Chu's Qin turn.

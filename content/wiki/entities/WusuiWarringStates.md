@@ -12,8 +12,11 @@ last_updated: 2026-08-20
 
 The episode makes Wusui less important as a battlefield than as a policy test. [[QinZhaoxiangwang|秦昭襄王]] accepts Gan Mao's advice, but [[XiangShou|向寿]] and the Gongsun faction resent Gan Mao because their contrary position loses. Wusui therefore becomes one concrete object through which Gan Mao's new-ruler court risk becomes visible.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] adds the sequel: [[QinState|秦国]] attacks [[HanState|韩国]] in 303 BCE and takes Wusui again. This does not contradict Zhouji 59; it shows how quickly a stabilizing concession can be reversed when Qin's alignment under [[XuanTaihou|芈八子 / 宣太后]] shifts toward [[ChuState|楚国]] and away from Han.
+
 ## Connections
 - [[GanMao|甘茂]] - minister who recommends returning the city.
 - [[QinZhaoxiangwang|秦昭襄王]], [[QinState|秦国]], and [[HanState|韩国]] - ruler, returning state, and receiving state.
 - [[XiangShou|向寿]] - Qin official whose opposition to the proposal becomes resentment.
 - [[YiyangWarringStates|宜阳]], [[QinEastwardPressure|秦国东进压力]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - campaign aftermath and court-risk context.
+- [[XuanTaihou|芈八子 / 宣太后]], [[ChuState|楚国]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 Qin-Chu alignment and Qin-Han reversal.

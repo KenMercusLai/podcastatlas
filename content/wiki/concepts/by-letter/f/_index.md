@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 4772
+wiki_total_pages: 4776
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "ForeignBackedCivilWar"
     title: "Foreign-Backed Civil War"
     url: "/wiki/concepts/foreignbackedcivilwar/"
+  - key: "ForeignRelativeCourtPolitics"
+    title: "Foreign-Relative Court Politics / 楚系外戚政治"
+    url: "/wiki/concepts/foreignrelativecourtpolitics/"
   - key: "ForensicDeathTimeInference"
     title: "Forensic Death-Time Inference"
     url: "/wiki/concepts/forensicdeathtimeinference/"

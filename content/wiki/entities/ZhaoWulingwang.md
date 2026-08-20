@@ -26,6 +26,8 @@ The same episode makes his uncle [[ZhaoChengWarringStates|赵成]] the first nam
 
 [[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] shows that compliance taking hold. Zhao Wuling Wang personally visits Zhao Cheng, explains Zhao's surrounded geography and the humiliation inflicted by [[ZhongshanState|中山国]], and persuades his uncle to wear Hu clothing to court the next day. The same episode then moves from persuasion to implementation: Zhao adopts Hu dress, trains mounted archers, stays neutral while Qin, Qi, and Chu contest the central plains, expands north toward Yuzhong, sends envoys to multiple states, appoints [[ZhaoGuWarringStates|赵固]] for Hu affairs, and recruits Hu fighters.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] gives the reform branch an immediate campaign payoff. In 305 BCE, Zhao Wuling Wang attacks [[ZhongshanState|中山国]], takes Danchiu, Huayang, Chizhisae, Haocheng, Shiyi, Fenglong, and Dongyuan, and forces Zhongshan to cede four cities to seek peace. The source does not narrate the fighting in detail, but it makes the earlier [[HufuQishe|胡服骑射]] logic concrete: Zhao's reform and northern strategy now produce territorial pressure against Zhongshan.
+
 ## Connections
 - [[ZhaoState|赵国]] - polity he inherits.
 - [[ZhaoSuhou|赵肃侯]] - predecessor and father in the episode's succession frame.
@@ -36,3 +38,4 @@ The same episode makes his uncle [[ZhaoChengWarringStates|赵成]] the first nam
 - [[ZhangYiStrategist|张仪]], [[QinState|秦国]], [[BaShu|巴蜀]], [[Hanzhong|汉中]], [[HanguPass|函谷关]], [[Wuguan|武关]], and [[EncirclementThreatPersuasion|包围威胁式说服]] - Zhouji 54 praise-then-threat persuasion branch.
 - [[WuWa|吴娃]], [[ZhaoHe|赵何]], [[ZhaoZhang|赵章]], and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 57 marriage and succession foreshadowing.
 - [[ZhaoChengWarringStates|赵成]], [[ZhaoGuWarringStates|赵固]], and [[WarringStatesReformBacklash|战国变法反噬]] - Zhouji 58-59 family compliance, aristocratic resistance, frontier administration, and Hu recruitment.
+- [[ZhongshanState|中山国]] and [[HufuQishe|胡服骑射]] - Zhouji 60 campaign result after reform implementation.

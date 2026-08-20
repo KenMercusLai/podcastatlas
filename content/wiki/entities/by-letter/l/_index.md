@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6091
+wiki_total_pages: 6101
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "LongwangZhinu1931ChangjiangShuizai"
     title: "《龙王之怒：1931年长江水灾》"
     url: "/wiki/entities/longwangzhinu1931changjiangshuizai/"
+  - key: "LinjinWarringStates"
+    title: "临晋 / Linjin (Warring States)"
+    url: "/wiki/entities/linjinwarringstates/"
   - key: "Linzi"
     title: "临淄 / Linzi"
     url: "/wiki/entities/linzi/"

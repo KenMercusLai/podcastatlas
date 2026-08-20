@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6091
+wiki_total_pages: 6101
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "YaoXin"
     title: "姚欣 / Yao Xin"
     url: "/wiki/entities/yaoxin/"
+  - key: "YingZhuang"
+    title: "嬴壮 / Ying Zhuang"
+    url: "/wiki/entities/yingzhuang/"
   - key: "YingSi"
     title: "嬴驷 / Ying Si"
     url: "/wiki/entities/yingsi/"
@@ -467,6 +470,9 @@ wiki_pages:
   - key: "YanluoWang"
     title: "阎罗王"
     url: "/wiki/entities/yanluowang/"
+  - key: "YangjinWarringStates"
+    title: "阳晋 / Yangjin (Warring States)"
+    url: "/wiki/entities/yangjinwarringstates/"
   - key: "YalanLuanfanshu"
     title: "雅兰 / Yalan (Luanfanshu)"
     url: "/wiki/entities/yalanluanfanshu/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6091
+wiki_total_pages: 6101
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "FullgoalFund"
     title: "富国基金 / Fullgoal Fund"
     url: "/wiki/entities/fullgoalfund/"
+  - key: "FenglingWarringStates"
+    title: "封陵 / Fengling (Warring States)"
+    url: "/wiki/entities/fenglingwarringstates/"
   - key: "FengyanFengyu"
     title: "枫言枫语"
     url: "/wiki/entities/fengyanfengyu/"

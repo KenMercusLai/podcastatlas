@@ -14,6 +14,8 @@ The source keeps him at the threshold of power rather than narrating his reign. 
 
 [[zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh]] moves him from accession threshold into first political context. The episode has Qin Zhaoxiang Wang send [[XiangShou|向寿]] to administer the newly taken [[YiyangWarringStates|宜阳]] region, then accept [[GanMao|甘茂]]'s proposal to return [[WusuiWarringStates|武遂]] to [[HanState|韩国]]. It also says Qin Wuwang's brothers fight for the throne after the sonless death, and [[WeiRan|魏冉]] uses forceful methods to secure Ying Ji's succession.
 
+[[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] gives his early reign its governing structure. Because he is young, [[XuanTaihou|芈八子 / 宣太后]] controls the court and empowers [[WeiRan|魏冉]], who guards [[Xianyang|咸阳]] and suppresses [[YingZhuang|嬴壮]]'s revolt. The episode then follows Qin Zhaoxiang Wang through two diplomatic turns: marriage and alliance repair with [[ChuState|楚国]] at [[Huangji|黄棘]], then repair with [[HanState|韩国]] and [[WeiState|魏国]] at [[LinjinWarringStates|临晋]] after [[MiHeng|芈横]] kills a Qin official and flees.
+
 ## Connections
 - [[QinWuwang|秦武王]] - predecessor whose sudden death opens the succession.
 - [[XuanTaihou|芈八子 / 宣太后]] - mother named in the episode.
@@ -21,3 +23,4 @@ The source keeps him at the threshold of power rather than narrating his reign. 
 - [[YanState|燕国]] - hostage setting before his return.
 - [[Luoyi|洛邑]] and [[ZhouRoyalHouse|周王室]] - setting of Qin Wuwang's death and symbolic backdrop to the succession.
 - [[XiangShou|向寿]], [[GanMao|甘茂]], [[WusuiWarringStates|武遂]], and [[WeiRan|魏冉]] - Zhouji 59 post-Yiyang administration, returned-city decision, and accession enforcement.
+- [[YingZhuang|嬴壮]], [[QinHuiwenhou|惠文后]], [[Huangji|黄棘]], [[MiHeng|芈横]], [[HanYing|韩婴]], [[LinjinWarringStates|临晋]], [[QueenMotherRegency|太后摄政]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - Zhouji 60 early regency, purge, and diplomacy.
