@@ -8179,6 +8179,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Mengchang Jun's reta
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》15丨酒不醇引发的世界大战
+
+Added source page for a 芮淇讲透资治通鉴 episode on 355-354 BCE: Qi Wei Wang answers Wei Hui Wang's pearl boast by treating capable officials as true state treasures, Qin and Wei fail to settle at Duping before Qin defeats Wei and occupies Shaoliang, Lu Gong Gong dies and Lu Kang Gong succeeds with a Shiji/Zizhi Tongjian name-variant note, and the Lu-wine story connects Chu anger, Chu-Qi pressure on Lu, Wei's opportunistic siege of Handan, and the setup for Sun Bin/Tian Ji's later rescue. Created Tan Zi, Talent as State Treasure, and Lu Wine Handan War Cascade; updated overview, index, Qi Wei Wang, Liang Hui Wang, Qin Xiao Gong, Chu Xuan Wang, Lu Gong Gong, Lu Kang Gong, Jing She, Handan, Shaoliang, Qi/Wei/Qin/Chu/Zhao/Lu state pages, Zhou Xian Wang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Early Warring States Interstate War, Qin Eastward Pressure, Military Merit Rank System, and Encircling Wei to Rescue Zhao. No direct contradiction found; the episode's 355 BCE Qi Wei Wang "second year" is consistent with the existing corrected Qi chronology.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的
 
 Added source page for a 芮淇讲透资治通鉴 episode continuing Zhang Yi's ambiguous Wei post: Qin Huiwen Wang's favor creates reward-debt pressure, Zhang Yi defeats Hui Shi over Wei's Qin-facing versus Qi-Chu alignment, Hui Shi flees to Chu and is redirected toward Song, and Chen Zhen uses Zuo Shuang's advice to turn Zhang Yi's hostile framing into renewed Chu favor. Created pages for Chen Zhen, Zuo Shuang, Feng Hao, Grace-Debt Loyalty Pressure, and Situational Political Pivot; updated overview, index, Zhang Yi, Hui Shi, Ying Si, Liang Hui Wang, Chu Huai Wang, Qin/Wei/Chu state pages, Zhou Xian Wang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Lianheng Strategy, Zonghengjia Diplomacy, Warring States Careerist Mobility, Qin Eastward Pressure, and Chronicle Chronology Drift. Flagged the source-layer chronology tension between this episode's Qin Huiwen Wang patronage frame and Zhouji 38's Qin Wuwang supplement.
@@ -8447,3 +8451,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint and printed the report to the session; lint-report.md was not saved.

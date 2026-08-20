@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4753
+wiki_total_pages: 4755
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "TakeItDownAct"
     title: "Take It Down Act"
     url: "/wiki/concepts/takeitdownact/"
+  - key: "TalentAsStateTreasure"
+    title: "Talent as State Treasure / 以贤臣为宝"
+    url: "/wiki/concepts/talentasstatetreasure/"
   - key: "TalentAttractionThroughRespect"
     title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
     url: "/wiki/concepts/talentattractionthroughrespect/"

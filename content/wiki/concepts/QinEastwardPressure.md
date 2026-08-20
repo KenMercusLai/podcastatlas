@@ -2,8 +2,8 @@
 title: "Qin Eastward Pressure / 秦国东进压力"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
+last_updated: 2026-08-20
 ---
 
 # Qin Eastward Pressure / 秦国东进压力
@@ -17,6 +17,8 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf]] extends the Shaoliang branch into 362 BCE. [[WeiState|魏国]] first defeats [[HanState|韩国]] and [[ZhaoState|赵国]] at Hui, then Qin defeats Wei at [[Shaoliang|少梁]] and captures [[GongshuWeiChancellor|公孙措 / 公叔痤]]. The sequence sharpens the concept: Qin pressure is real, but it does not automatically make the Three Jin states strategically coherent.
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] extends the pressure into 358 BCE. Qin defeats [[HanState|韩国]] at West Mountain, and [[LiangHuiWang|魏惠王]] responds by sending [[LongJia|龙甲]] to build western defenses, making [[WeiGreatWallAntiQinDefense|魏长城防秦]] a material expression of the same pattern.
+
+[[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]] extends the pressure into the 355-354 BCE Qin-Wei sequence. [[QinXiaogong|秦孝公]] and [[LiangHuiWang|魏惠王]] meet at Duping, but the episode infers failure from the following year's war: Qin defeats Wei at Yuanli and occupies [[Shaoliang|少梁]]. The source also ties the fighting to [[MilitaryMeritRankSystem|军功爵制]], making pressure both territorial and incentive-driven.
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] extends the pressure into 352-351 BCE. [[ShangYang|公孙鞅 / 商鞅]] attacks [[WeiState|魏国]], pressures [[Anyi|安邑]] and [[Guyang|固阳]], and makes Wei repair other fronts by returning [[Handan|邯郸]] to [[ZhaoState|赵国]] and joining the [[ZhangshuiAlliance|漳水之盟]]. The source also treats Wei-Qi peace-seeking around [[XianglingWarringStates|襄陵]] as part of the same Qin-driven rebalancing.
 
@@ -46,6 +48,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - A coalition does not prove strategic coherence; Wei and Han can cooperate and still lose.
 - Qin's advantage is presented as already visible before later Qin institutional and territorial expansion becomes dominant.
 - The pattern connects battlefield pressure to legitimacy because Qin's victory at Shimen receives Zhou ritual recognition.
+- Failed diplomacy can be part of the pressure pattern: a meeting may mark attempted management of conflict rather than resolution if war follows immediately.
 - Qin pressure can force Wei to trade away recent gains and reduce exposure to other rivals before the western front worsens.
 - Qin pressure can also become status: the weakened Zhou court may formally recognize the rising power after its military and administrative strength has become visible.
 - The 340 BCE attack shows Qin choosing timing after Wei's eastern defeat and treating western terrain as the bridge from border war to future hegemony.
@@ -66,6 +69,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - [[EarlyWarringStatesInterstateWar]] and [[TerritorialControlChurn]] - broader conflict and control patterns.
 - [[RitualRecognitionOfMilitaryPower]] - legitimacy consequence after Qin's victory.
 - [[LongJia|龙甲]], [[LiangHuiWang|魏惠王]], and [[WeiGreatWallAntiQinDefense]] - Zhouji 14 defensive-infrastructure extension.
+- [[QinXiaogong|秦孝公]], [[LiangHuiWang|魏惠王]], [[Shaoliang|少梁]], and [[MilitaryMeritRankSystem|军功爵制]] - Zhouji 15 Duping meeting and Yuanli/Shaoliang extension.
 - [[ShangYang|公孙鞅 / 商鞅]], [[Anyi|安邑]], [[Guyang|固阳]], [[Handan|邯郸]], [[ZhangshuiAlliance|漳水之盟]], and [[XianglingWarringStates|襄陵]] - Zhouji 17 pressure and reconciliation extension.
 - [[QinXiaogong|秦孝公]], [[ZhouHegemonRecognition]], [[GongziShaoguan|公子少官]], and [[Fengze|逢泽]] - Zhouji 18 status-recognition extension.
 - [[GongziAng|公子卬 / 公子昂]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], [[Anyi|安邑]], [[Daliang|大梁]], and [[Shangyu|商於]] - Zhouji 22-23 attack timing, capture, cession, and reward extension.

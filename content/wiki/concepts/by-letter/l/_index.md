@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 4753
+wiki_total_pages: 4755
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "LTVBasedGrowthBudgeting"
     title: "LTV-Based Growth Budgeting"
     url: "/wiki/concepts/ltvbasedgrowthbudgeting/"
+  - key: "LuWineHandanWarCascade"
+    title: "Lu Wine Handan War Cascade / 鲁酒薄而邯郸围"
+    url: "/wiki/concepts/luwinehandanwarcascade/"
   - key: "LuckAsInformationBandwidth"
     title: "Luck As Information Bandwidth"
     url: "/wiki/concepts/luckasinformationbandwidth/"
