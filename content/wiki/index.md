@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》84丨防止秦国灭楚竟用这招？](sources/zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm.md) — 芮淇讲透资治通鉴 episode on Huang Xie / Chunshenjun persuading Qin Zhaoxiang Wang to halt Bai Qi's follow-on attack on Chu by reframing Han-Wei route risk, overextension, and Qin-Chu alliance as Qin's own strategic interest.
 - [Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555.md) — All-In episode with Gavin Baker on Anthropic IPO rumors, open-source and decentralized AI, Nvidia GPU-backed compute financing, data-center constraints, Amazon DSP labor pressure, Grokbot, and Workday/Silver Lake software valuation signals.
 - [《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？](sources/zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1.md) — 芮淇讲透资治通鉴 episode on Wei Anxi Wang's failed anti-Qin maneuvering, the Huayang battle, Han's threatened-defection rescue appeal to Qin, and Su Dai's "抱薪救火" warning against ceding land for peace.
 - [《资治通鉴·周纪》82丨大秦的核武器：白起来了！](sources/zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade.md) — 芮淇讲透资治通鉴 episode on Bai Qi breaking Chu's Ying capital region, Qin creating Nan Commandery, Chu surviving through strategic depth and Zhuang Xin's "亡羊补牢" counsel, and Qin turning to Wei through Bai Qi and Wei Ran.
@@ -1248,7 +1249,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
 - [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames an earlier ridicule scene and whose Four Lords role is previewed after Zhouji 63.
 - [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei member of the Warring States Four Lords, enfeoffed by Wei Anxi Wang as Qin pressure on Wei intensifies.
-- [春申君 / Lord Chunshen](entities/Chunshenjun.md) — Chu member of the Warring States Four Lords, source-scoped as a retainer-patronage comparison point after Mengchangjun.
+- [春申君 / 黄歇 / Lord Chunshen](entities/Chunshenjun.md) — Chu diplomat and Warring States Four Lords member whose Zhouji 84 letter persuades Qin to halt Bai Qi by reframing Chu survival as Qin's interest.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
 - [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Qi aristocrat and retainer patron whose arc now includes Qin chancellorship, imprisonment, Wang Anshi's critique, later Xue independence, and lineage destruction.
@@ -7303,6 +7304,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Weak-side diplomacy pattern where a request for restraint is translated into the stronger side's own risk map and preferred strategic sequence.
 - [GPU Compute Asset-Backed Financing](concepts/GPUComputeAssetBackedFinancing.md) — Nvidia-centered financing frame where GPU clusters are treated as cash-flowing collateral backed by utilization, residual value, and compute demand.
 - [Decentralized AI Control](concepts/DecentralizedAIControl.md) — Argument that AI power should be distributed through open models, personal agents, and competing providers rather than centralized in a few frontier labs or regulators.
 - [Amazon DSP Labor Model](concepts/AmazonDSPLaborModel.md) — Amazon delivery subcontractor structure as a tradeoff between logistics flexibility, labor responsibility, liability, and political legitimacy.

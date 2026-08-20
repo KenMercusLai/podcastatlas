@@ -2,7 +2,7 @@
 title: "芈横 / 楚顷襄王 / Mi Heng"
 type: entity
 tags: [person, crown-prince, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 
 [[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]] returns Mi Heng to the center of Chu's survival problem. After [[BaiQi|白起]] takes the Ying capital region and Qin creates [[NanCommandery|南郡]], Mi Heng cannot defend the old center and moves toward Chen. The episode gives him a limited recovery arc through [[ZhuangXin|庄辛]]: he recognizes the warning too late, recalls the adviser, and recovers some territory because Chu's geography still gives it [[StrategicDepthDefense|strategic depth]].
 
+[[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]] shows that survival space being defended by diplomacy. [[Chunshenjun|黄歇 / 春申君]] argues to [[QinZhaoxiangwang|秦昭襄王]] that another push toward Chu would require either dangerous passage through [[HanState|韩国]] and [[WeiState|魏国]] or a low-return mountain-and-river route. Mi Heng is not the speaker in the episode, but his relocated Chu court is the political object preserved when Qin stops Bai Qi and shifts to Qin-Chu friendship.
+
 ## Connections
 - [[ChuState|楚国]] and [[ChuHuaiwang|楚怀王]] - polity and father/ruler connected to his hostage mission.
 - [[QinState|秦国]] and [[QinZhaoxiangwang|秦昭襄王]] - hostage court and future attacker.
@@ -39,3 +41,4 @@ The same episode turns Mi Heng into the hinge of alliance collapse. After a priv
 - [[DongzhouWugong|东周武公]], [[Jiuding|九鼎]], and [[ZhouRoyalSymbolicDeterrence|周王室象征威慑]] - Zhouji 76 questioned Chu plan against Zhou and the counter-persuasion that stops it.
 - [[DiaoBo|刁伯]], [[TianDan|田单]], and [[TreasonAccusationTrap|谋反指控陷阱]] - Zhouji 81 warm reception of a Qi envoy used as material for slander inside Qi.
 - [[BaiQi|白起]], [[NanCommandery|南郡]], [[ZhuangXin|庄辛]], [[StrategicDepthDefense|战略纵深防御]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Zhouji 82 capital loss, recovery counsel, and spatial survival.
+- [[Chunshenjun|黄歇 / 春申君]], [[InterestReframingPersuasion|利益重构式说服]], [[HanState|韩国]], and [[WeiState|魏国]] - Zhouji 84 route-risk argument that prevents an immediate follow-on attack.

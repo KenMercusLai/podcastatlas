@@ -2,8 +2,8 @@
 title: "Poetry As Elite Political Language / 诗经作为贵族政治语言"
 type: concept
 tags: [rhetoric, poetry, chinese-classics, pre-qin-history, court-politics]
-sources: [zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+last_updated: 2026-08-21
 ---
 
 # Poetry As Elite Political Language / 诗经作为贵族政治语言
@@ -14,15 +14,19 @@ The mechanism is indirect but precise. A speaker does not need to state the dang
 
 The concept overlaps with [[AllusiveRemonstrance|allusive remonstrance]] but is narrower in medium and broader in social function. It is not only a way to criticize a ruler. It can mark status, express longing, repair a father-son political relationship, and coordinate action through a coded summons.
 
+[[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]] adds a diplomatic-literary extension. The host notes that [[Chunshenjun|黄歇 / 春申君]]'s anti-war letter draws on the [[Shijing|《诗经》]], the Yijing tradition, and [[Confucius|孔子]]'s line about needing poetry in order to speak. In this source, classical citation signals elite competence while strengthening an argument that is still fundamentally strategic.
+
 ## Key Claims
 - Shared literary repertoire can become operational political infrastructure in an elite society.
 - Indirect quotation can communicate grievance while avoiding explicit accusation.
 - The listener's prior emotional attachment to a poem can make persuasion feel self-generated.
 - Literary skill can be a practical political ability when court language is dangerous.
 - This episode uses Confucius's "不学诗，无以言" as a claim about social competence, not only education.
+- Zhouji 84 shows poetic/classical fluency inside interstate persuasion: literary citation helps authorize the speaker without replacing the hard strategic argument.
 
 ## Connections
 - [[Shijing|《诗经》]] - textual repertoire used as shared code.
 - [[ZhaoCangtang|赵苍唐]], [[WeiWuhou|魏武侯]], and [[WeiWenhou|魏文侯]] - source case.
 - [[PowerEtiquetteReading]], [[AllusiveRemonstrance]], and [[ClassicalPoeticIntertextuality]] - adjacent rhetoric and reading concepts.
 - [[Confucius|孔子]] - source of the line used to generalize the concept.
+- [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 84 diplomatic-letter extension.

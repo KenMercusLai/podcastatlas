@@ -2,7 +2,7 @@
 title: "Strategic Depth Defense / 战略纵深防御"
 type: concept
 tags: [strategy, warring-states, warfare, geography]
-sources: [zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+sources: [zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
 last_updated: 2026-08-21
 ---
 
@@ -14,8 +14,11 @@ The source's point is not that Chu becomes strong again immediately. It argues t
 
 The concept connects geography to sequencing. Strategic depth can turn defeat into delay, and delay can force the attacker to solve transit, alliance, and supply problems before finishing the original campaign.
 
+[[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]] shows the same depth becoming usable diplomacy. [[Chunshenjun|黄歇 / 春申君]] argues to [[QinZhaoxiangwang|秦昭襄王]] that a follow-on attack against Chu would depend on resentful [[HanState|韩国]] and [[WeiState|魏国]] routes, exposing Qin's rear and letting other states profit while [[BaiQi|白起]] bears the operational burden. Strategic depth therefore does not defend Chu by itself; it gives a skilled envoy the route-risk facts needed to make restraint look like Qin's own interest.
+
 ## Connections
 - [[ChuState|楚国]], [[MiHeng|楚顷襄王]], and [[ZhuangXin|庄辛]] - state, ruler, and recovery adviser in the source.
 - [[QinState|秦国]], [[BaiQi|白起]], [[WeiState|魏国]], and [[HanState|韩国]] - attacker and corridor states.
 - [[QinEastwardPressure|秦国东进压力]] - Qin's turn to Wei as passage-control pressure.
+- [[Chunshenjun|黄歇 / 春申君]] and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 84 conversion of Chu's geographic survival problem into an argument about Qin's own risk.
 - [[WarringStatesMilitaryTransformation|战国军事形态转变]] - broader military context in which geography and logistics become decisive.

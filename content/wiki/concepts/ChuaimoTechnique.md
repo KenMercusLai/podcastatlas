@@ -2,8 +2,8 @@
 title: "揣摩 / Chuaimo Technique"
 type: concept
 tags: [rhetoric, persuasion, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
+last_updated: 2026-08-21
 ---
 
 # 揣摩 / Chuaimo Technique
@@ -18,6 +18,8 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 
 [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] extends the technique through repeated audience calibration. Su Qin uses the same anti-Qin coalition goal with different evidence: [[HanXuanhuiwang|韩宣惠王]] hears about finite Han land and infinite Qin demands, Wei is addressed through army strength, [[QiState|齐国]] through [[Linzi|临淄]] prosperity, and [[ChuWeiwang|楚威王]] as the final state needed to complete the chain.
 
+[[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]] extends chuaimo through [[Chunshenjun|黄歇 / 春申君]]'s letter to [[QinZhaoxiangwang|秦昭襄王]]. Huang Xie reads Qin's pride in strength, fear of overextension, distrust of Han and Wei, and appetite for a better sequence, then makes Chu's survival appear as Qin's own strategic prudence. This is chuaimo less as emotional provocation than as a structured map of the stronger side's incentives.
+
 ## Key Claims
 - Persuasion depends on reading the situation and the audience together.
 - Technique does not erase access problems; Su Qin still fails when the listener, court mood, or local reputation blocks reception.
@@ -25,10 +27,12 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 - Chuaimo is therefore a practical bridge from study to [[HezongAlliance|合纵]] rather than a generic claim that knowledge automatically creates success.
 - In Zhouji 31, the same reading skill applies to another strategist's emotions and career incentives, not only to a ruler's fear.
 - In Zhouji 32, chuaimo becomes [[DignityBasedPersuasion|dignity-based persuasion]] when threat analysis is tuned to what would make each ruler feel dishonored by submission.
+- In Zhouji 84, chuaimo can be defensive: a vulnerable envoy wins room for his state by reading what dangers the stronger ruler is prepared to recognize.
 
 ## Connections
 - [[SuQin|苏秦]], [[ZhangYiStrategist|张仪]], [[YinfuJing|《阴符》]], and [[Guiguzi|鬼谷子]] - biographical, interpersonal, textual, and rhetorical sources of the concept.
 - [[YanWengong|燕文公]], [[YanState|燕国]], [[ZhaoState|赵国]], and [[QinState|秦国]] - successful persuasion case.
 - [[HezongAlliance|合纵]], [[ZonghengjiaDiplomacy|纵横家外交]], and [[CommonEnemyAlliance|共同敌人联盟]] - alliance and diplomatic setting.
 - [[DignityBasedPersuasion|尊严激将式说服]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 audience-specific extension.
+- [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 84 incentive-reading and risk-reframing extension.
 - [[FailureDrivenSelfStudy|失败后的自学翻身]] - learning pattern that precedes the method.

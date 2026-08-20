@@ -2,8 +2,8 @@
 title: "纵横家外交 / Zonghengjia Diplomacy"
 type: concept
 tags: [diplomacy, rhetoric, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+last_updated: 2026-08-21
 ---
 
 # 纵横家外交 / Zonghengjia Diplomacy
@@ -42,6 +42,8 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 
 [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] adds the moral-evaluation version. The episode says figures such as [[GongsunYan|犀首公孙衍]], [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], [[SuDai|苏代]], [[SuLi|苏厉]], [[ZhouZui|周最]], and [[LouHuan|楼缓]] made persuasion a broad Warring States fashion, then asks whether that success should count as greatness. [[Mengzi|孟子 / Mencius]] supplies the [[MencianGreatManCriterion|大丈夫标准]], while [[YangXiong|扬雄]]'s [[Fayan|《法言》]] supplies [[MotiveBasedTalentEvaluation|动机导向的才干评价]], forcing the concept to include moral legitimacy as well as craft.
 
+[[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]] adds [[Chunshenjun|黄歇 / 春申君]] as a non-Zhang-Yi example of the same diplomatic world. His letter to [[QinZhaoxiangwang|秦昭襄王]] combines route logistics, fear of ally betrayal, historical analogy through [[Fuchai|吴王夫差]], [[Goujian|越王勾践]], and [[ZhiYao|智瑶]], and classical citation. The result is [[InterestReframingPersuasion|利益重构式说服]]: an envoy from the threatened side converts mercy toward Chu into Qin's own prudent campaign sequence.
+
 ## Key Claims
 - Diplomatic rhetoric becomes a direct instrument of power in the Warring States field.
 - Persuasion is situational craft: the same speaker can fail or succeed depending on court mood, local reputation, and whether the argument fits the ruler's fear.
@@ -62,6 +64,7 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 - Zhouji 54 adds that zonghengjia craft can operate as a rapid multi-court circuit: the persuader repeats a strategic pattern while changing the concrete vulnerabilities named for each ruler.
 - Zhouji 55 adds that zonghengjia craft includes bodily endurance and travel time, not only verbal dexterity.
 - Zhouji 56 adds that zonghengjia craft must be morally evaluated: effectiveness, resilience, and temporary peace do not by themselves prove that a persuader's talent is righteous.
+- Zhouji 84 adds defensive interstate persuasion: a threatened state's envoy can halt a campaign by recoding restraint as the stronger state's better route to advantage.
 
 ## Connections
 - [[SuQin|苏秦]] and [[ZhangYiStrategist|张仪]] - figures previewed by the source.
@@ -79,5 +82,6 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 - [[EncirclementThreatPersuasion|包围威胁式说服]], [[HanXiangwang|韩襄王]], [[QiXuanWang|齐宣王]], [[ZhaoWulingwang|赵武灵王]], [[YanZhaowang|燕昭王]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 54 multi-court lianheng tour and succession exposure branch.
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[SanchuanWarringStates|三川]], [[Zhanguoce|《战国策》]], and [[Shiji|《史记》]] - Zhouji 55 travel, source comparison, and exit strategy branch.
 - [[MencianGreatManCriterion|孟子大丈夫标准]], [[YangXiong|扬雄]], [[Fayan|《法言》]], [[Zigong|子贡 / 端木赐]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 moral assessment of zonghengjia talent and motive.
+- [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], [[InterestReframingPersuasion|利益重构式说服]], and [[PoetryAsElitePoliticalLanguage|诗经作为贵族政治语言]] - Zhouji 84 diplomatic-letter, route-risk, and classical-citation extension.
 - [[ChronicleChronologyDrift|编年错位]] - caution around the chronicle's dating of Su Qin's success.
 - [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and historical frame.

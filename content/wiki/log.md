@@ -8799,3 +8799,11 @@ Added source page for an All-In episode with Gavin Baker on Anthropic IPO rumors
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12140 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` was not provider-qualified.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》84丨防止秦国灭楚竟用这招？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Huang Xie / Chunshenjun stopping Qin's planned follow-on attack on Chu by reframing the Han-Wei route, overextension risk, historical betrayal precedents, and Qin-Chu alliance as Qin's own strategic interest. Created Interest Reframing Persuasion; expanded Chunshenjun from a four-lords stub; updated overview, index, Qin/Chu/Han/Wei/Qi/Zhao state pages, Qin Zhaoxiang Wang, Bai Qi, Mi Heng, Han Huanhui Wang, Fuchai, Goujian, Zhi Yao, and related diplomacy/logistics/rhetoric concepts. No direct contradiction found; the episode qualifies Zhouji 82's strategic-depth setup by showing how that geography becomes a diplomatic argument, and qualifies Zhouji 83 by making Han/Wei's Qin-following posture a liability.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12142 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` was not provider-qualified.

@@ -8820,7 +8820,7 @@
     "url": "/wiki/concepts/chundianargot/"
   },
   "Chunshenjun": {
-    "title": "春申君 / Lord Chunshen",
+    "title": "春申君 / 黄歇 / Lord Chunshen",
     "url": "/wiki/entities/chunshenjun/"
   },
   "ChunyuDoctor": {
@@ -20130,6 +20130,10 @@
   "InterestBasedNegotiation": {
     "title": "Interest-Based Negotiation / 利益导向谈判",
     "url": "/wiki/concepts/interestbasednegotiation/"
+  },
+  "InterestReframingPersuasion": {
+    "title": "Interest Reframing Persuasion / 利益重构式说服",
+    "url": "/wiki/concepts/interestreframingpersuasion/"
   },
   "InterfaceScience": {
     "title": "Interface Science / 界面科学",
@@ -48558,5 +48562,9 @@
   "zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1": {
     "title": "《资治通鉴·周纪》83丨诸侯摆烂竟成了经典计中计？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1/"
+  },
+  "zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm": {
+    "title": "《资治通鉴·周纪》84丨防止秦国灭楚竟用这招？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm/"
   }
 }

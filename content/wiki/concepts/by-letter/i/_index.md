@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 4848
+wiki_total_pages: 4849
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "InteractiveTheoremProving"
     title: "Interactive Theorem Proving"
     url: "/wiki/concepts/interactivetheoremproving/"
+  - key: "InterestReframingPersuasion"
+    title: "Interest Reframing Persuasion / 利益重构式说服"
+    url: "/wiki/concepts/interestreframingpersuasion/"
   - key: "InterestBasedNegotiation"
     title: "Interest-Based Negotiation / 利益导向谈判"
     url: "/wiki/concepts/interestbasednegotiation/"

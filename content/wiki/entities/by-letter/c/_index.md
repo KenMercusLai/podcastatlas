@@ -1161,7 +1161,7 @@ wiki_pages:
     title: "文化有限"
     url: "/wiki/entities/culturelimited/"
   - key: "Chunshenjun"
-    title: "春申君 / Lord Chunshen"
+    title: "春申君 / 黄歇 / Lord Chunshen"
     url: "/wiki/entities/chunshenjun/"
   - key: "ChunyuDoctor"
     title: "春雨医生"
