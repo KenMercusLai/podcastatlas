@@ -2,7 +2,7 @@
 title: "燕昭王 / King Zhao of Yan"
 type: entity
 tags: [person, ruler, yan-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ That search runs through [[GuoWeiWarringStates|郭隗]] and the "千金买骨" s
 
 [[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] fulfills the revenge branch previewed in Zhouji 52. After [[QiMinWang|齐湣王]] destroys [[SongState|宋国]] and then overreaches, Yan Zhaowang works with [[LeYi|乐毅]] to avoid a solitary Yan attack and instead contact Zhao, Chu, and Wei. His long recovery strategy now becomes a [[CommonEnemyAlliance|共同敌人联盟]] against Qi.
 
+[[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] shows the revenge branch succeeding. Yan Zhaowang mobilizes Yan's full force, places Le Yi over the coalition, then personally reaches the Ji River after the victory to reward the army. He grants Le Yi the title Changguo Jun and keeps him in charge of taking remaining Qi cities, making Yan's earlier recovery through talent visibly pay off in the fall of [[Linzi|临淄]].
+
 ## Connections
 - [[YanState|燕国]] - polity he rebuilds after Qi's attack.
 - [[YanWangKuai|燕王哙]] - father whose failed reign forms the contrast.
@@ -29,3 +31,4 @@ That search runs through [[GuoWeiWarringStates|郭隗]] and the "千金买骨" s
 - [[ZhangYiStrategist|张仪]], [[QinState|秦国]], [[Xianyang|咸阳]], [[QinWuwang|秦武王]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 54 final lobbying stop and succession-risk turn.
 - [[EncirclementThreatPersuasion|包围威胁式说服]], [[ZhaoState|赵国]], and [[LianhengStrategy|连横]] - Zhouji 55 five-city concession after Zhang Yi's final speech.
 - [[QiMinWang|齐湣王]], [[LeYi|乐毅]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 anti-Qi revenge coalition after Qi's post-Song overreach.
+- [[Linzi|临淄]], [[JuXin|剧辛]], [[ZhuoChi|卓齿]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 70 victorious coalition, pursuit dispute, and Qi Min Wang's final isolation.

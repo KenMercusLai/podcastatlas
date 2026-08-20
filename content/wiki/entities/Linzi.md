@@ -2,8 +2,8 @@
 title: "临淄 / Linzi"
 type: entity
 tags: [city, qi-state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
+last_updated: 2026-08-20
 ---
 
 # 临淄 / Linzi
@@ -14,9 +14,12 @@ The source uses Linzi for more than demographic scale. It describes a dense, pro
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds Linzi as the urban setting for [[JixiaAcademy|稷下学宫]]. The episode explains "Jixia" as the area under or near the Ji gate of the Qi capital, with lecture spaces by the Ji water, making Linzi's urban form part of [[QiState|齐国]]'s scholar-sponsorship system.
 
+[[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] adds the reversal: after [[LeYi|乐毅]] defeats [[QiMinWang|齐湣王]]'s army, he enters Linzi and sends treasure and ritual valuables back to [[YanState|燕国]]. The same city that earlier served as evidence for Qi's confidence and [[WarringStatesUrbanProsperity|Warring States urban prosperity]] becomes the visible sign of Qi's political and military center failing.
+
 ## Connections
 - [[QiState|齐国]] - polity whose capital the source describes.
 - [[JixiaAcademy|稷下学宫]] and [[TianQiHuanGong|田武 / 田氏齐桓公]] - Zhouji 08 part 3 academy-origin branch.
 - [[SuQin|苏秦]], [[HezongAlliance|合纵]], and [[DignityBasedPersuasion|dignity-based persuasion]] - speech setting and rhetorical use.
 - [[WarringStatesUrbanProsperity|Warring States urban prosperity]] - concept extracted from the episode's Linzi description.
 - [[JixiaAcademy|稷下学宫]] and [[WarringStatesPeriod|战国时期]] - adjacent Qi urban and intellectual-history branch in the wiki.
+- [[LeYi|乐毅]], [[YanState|燕国]], [[QiMinWang|齐湣王]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 70 capital fall and plunder branch.

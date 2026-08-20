@@ -2,7 +2,7 @@
 title: "乐毅 / Le Yi"
 type: entity
 tags: [person, general, yan-state, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
 last_updated: 2026-08-20
 ---
 
@@ -16,6 +16,8 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 
 [[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] begins to cash out that preview. When [[YanZhaowang|燕昭王]] wants revenge against [[QiMinWang|齐湣王]], Le Yi argues that [[YanState|燕国]] should not attack Qi alone because Qi is large and populous. He recommends bringing in Zhao, Chu, and Wei, making his first fully operational role in the wiki a coalition-design role rather than a battlefield scene.
 
+[[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] turns that design into command. Le Yi receives the multi-state seals, defeats [[QiState|齐国]] west of the Ji River, and then separates allied interests: [[QinState|秦国]] and [[HanState|韩国]] can return because they cannot easily occupy Qi land, while [[WeiState|魏国]] and [[ZhaoState|赵国]] take nearer territory. Against [[JuXin|剧辛]]'s warning, Le Yi leads [[YanState|燕国]] deeper, betting that Qi Min Wang's lost people-support will make the state collapse. His entry into [[Linzi|临淄]] and reward as Changguo Jun make him more than a recruited talent: he becomes the agent of Yan's long revenge.
+
 ## Connections
 - [[YanZhaowang|燕昭王]] and [[YanState|燕国]] - ruler and receiving state.
 - [[GuoWeiWarringStates|郭隗]] - adviser whose treatment signals Yan's seriousness.
@@ -24,3 +26,4 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 - [[LeYang|乐羊]] and [[WeiState|魏国]] - ancestral and earlier military-service frame.
 - [[TalentAttractionThroughRespect]] and [[WarringStatesCareeristMobility]] - recruitment and mobility concepts.
 - [[QiMinWang|齐湣王]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 anti-Qi coalition design.
+- [[JuXin|剧辛]], [[Linzi|临淄]], [[QinState|秦国]], [[HanState|韩国]], [[WeiState|魏国]], and [[ZhaoState|赵国]] - Zhouji 70 coalition command, post-victory allocation, and deep-pursuit dispute.

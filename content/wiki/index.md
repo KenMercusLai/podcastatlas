@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》70丨喜欢花样作死的齐国君主](sources/zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md.md) — 芮淇讲透资治通鉴 episode completing Qi Min Wang's fall through Le Yi's 284 BCE anti-Qi coalition, Linzi's capture, failed refuge in Wey/Zou/Lu, Zhuo Chi's rescue-turned-execution, and Sima Guang's Xunzi-based political lesson.
 - [《资治通鉴·周纪》69丨必看！古代帝王奇葩死法大盘点](sources/zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13.md) — 芮淇讲透资治通鉴 episode on Qi Min Wang's post-Song overreach, Qin's 285 BCE attack under Meng Ao, the killing of Qi remonstrants, Yan Zhaowang and Le Yi's anti-Qi coalition, and a source-scoped typology of ruler deaths by non-natural means.
 - [《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2）](sources/zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt.md) — 芮淇讲透资治通鉴 episode revisiting Song Kang Wang through omen-driven expansion, cruelty stories, Qi-led moralized war pretext, Teng's Confucian reputation cost, vanquished-ruler smear caution, and the linked-branch folklore afterlife.
 - [《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何](sources/zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv.md) — 芮淇讲透资治通鉴 episode on Bai Qi's Yique breakthrough, Qin's 294-290 BCE eastward pressure, Qin-Chu threat-marriage diplomacy, Wei Ran's resignation and return, Dingtao/Yuan territorial chronology, and Mang Mao's ambiguous persuasive reputation.
@@ -1079,6 +1080,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
+- [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker introduced through Sima Guang's Wangba quotation after Qi Min Wang's fall.
 - [蒙敖 / Meng Ao](entities/MengAo.md) — Qin commander identified by the source as the correct 285 BCE general against Qi, replacing the chronicle's Meng Wu notice through a Shiji correction.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
 - [陈举 / Chen Ju (Qi Minister)](entities/ChenJuQiMinister.md) — Qi minister executed at the east gate after continuing to remonstrate against Qi Min Wang.

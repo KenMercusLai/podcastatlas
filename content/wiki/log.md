@@ -8623,3 +8623,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-20] lint | Wiki health check
 
 Ran health before lint; health scanned 11,990 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,990 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges, while the current wiki has 11,990 linted pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider/API-key variables are present in the environment. A bounded in-session sample review found no direct contradictions and flagged three sampled concept pages without a `## Key Claims` section. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-20] ingest | 《资治通鉴·周纪》70丨喜欢花样作死的齐国君主
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Qi Min Wang's fall: Le Yi commands the 284 BCE anti-Qi coalition, defeats Qi, enters Linzi, Yan receives the spoils, Qi Min Wang fails to find durable refuge, and Zhuo Chi turns from rescuer into executioner. Created pages for Zhuo Chi and Xunzi; updated overview, index, Qi Min Wang, Le Yi, Yan Zhaowang, Ju Xin, Qi/Yan/Chu state pages, Linzi, Zhou Nan Wang, and related common-enemy, victory-overreach, people-based security, ruler-death, and talent-attraction concepts. No direct contradiction found; transcript-noisy names were normalized to existing wiki entities while preserving source uncertainty in the source page.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "剧辛 / Ju Xin"
 type: entity
 tags: [person, adviser, yan-state, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
 last_updated: 2026-08-20
 ---
 
@@ -12,9 +12,12 @@ last_updated: 2026-08-20
 
 The source does not develop Ju Xin's individual biography. His function is comparative and structural: together with [[LeYi|乐毅]], he shows that Yan Zhaowang's recruitment signal changes the state's talent ecology after military disaster.
 
+[[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] gives Ju Xin a strategic voice after the first coalition victory over [[QiState|齐国]]. He argues that [[YanState|燕国]] is small and Qi is large, so Yan should use allied help to seize border cities and strengthen itself rather than pursue deep into Qi and create a lasting hatred. [[LeYi|乐毅]] rejects the advice, betting instead on [[QiMinWang|齐湣王]]'s internal unpopularity and the chance for rapid collapse.
+
 ## Connections
 - [[YanZhaowang|燕昭王]] and [[YanState|燕国]] - receiving ruler and state.
 - [[GuoWeiWarringStates|郭隗]] - first adviser whose treatment helps attract others.
 - [[LeYi|乐毅]] - paired incoming talent in the episode.
 - [[ZhaoState|赵国]] - source court.
 - [[TalentAttractionThroughRespect]] and [[WarringStatesCareeristMobility]] - concepts for reading his movement.
+- [[QiState|齐国]], [[QiMinWang|齐湣王]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 70 caution against deep pursuit after coalition victory.

@@ -2,7 +2,7 @@
 title: "Common-Enemy Alliance / 共同敌人联盟"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
+sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
 last_updated: 2026-08-20
 ---
 
@@ -26,6 +26,8 @@ In the source case, the enemy pressure is [[QinState|秦国]]. Su Qin persuades 
 
 [[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] adds an anti-Qi version rather than another anti-Qin one. [[YanZhaowang|燕昭王]] wants revenge, but [[LeYi|乐毅]] argues that [[YanState|燕国]] cannot safely defeat [[QiState|齐国]] alone. Qi Min Wang's post-Song arrogance and attacks give Zhao, Chu, and Wei enough shared grievance to join, so the common enemy becomes [[QiMinWang|齐湣王]] rather than Qin.
 
+[[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] shows that common-enemy coordination can be enough to win the first campaign without making the allies identical. After Qi's army is beaten, Le Yi sends [[QinState|秦国]] and [[HanState|韩国]] home because they cannot easily occupy Qi territory, assigns nearer gains to [[WeiState|魏国]] and [[ZhaoState|赵国]], and keeps [[YanState|燕国]] moving toward [[Linzi|临淄]]. The common enemy binds the attack, but post-victory geography and spoils still divide the work.
+
 ## Key Claims
 - Shared interest can be too vague to bind actors; shared threat can clarify urgency and direction.
 - A buffer state can become valuable not because it is loved, but because it absorbs or redirects a stronger enemy's pressure.
@@ -38,6 +40,7 @@ In the source case, the enemy pressure is [[QinState|秦国]]. Su Qin persuades 
 - A common-enemy alliance can also be broken before battle if one member accepts an unverified private reward for abandoning the shared front.
 - After a common-enemy alliance looks broken, its failure can itself become a persuasion weapon for further defections.
 - A state that recently used coalition politics against others can itself become the common enemy if victory turns into overreach.
+- A common enemy can align the campaign while still leaving each ally with different occupation capacity, payoff, and withdrawal timing after the first victory.
 
 ## Connections
 - [[SuQin|苏秦]], [[YanWengong|燕文公]], [[ZhaoSuhou|赵肃侯]], [[YanState|燕国]], and [[ZhaoState|赵国]] - source cases.
@@ -50,3 +53,4 @@ In the source case, the enemy pressure is [[QinState|秦国]]. Su Qin persuades 
 - [[ZhangYiStrategist|张仪]], [[ChenZhenWarringStates|陈枕]], [[QiXuanWang|齐宣王]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 alliance-separation branch.
 - [[EncirclementThreatPersuasion|包围威胁式说服]], [[QiXuanWang|齐宣王]], [[ZhaoWulingwang|赵武灵王]], and [[LianhengStrategy|连横]] - Zhouji 54 defection-after-collapse rhetoric.
 - [[YanZhaowang|燕昭王]], [[LeYi|乐毅]], [[QiMinWang|齐湣王]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 anti-Qi coalition after Qi's post-Song overreach.
+- [[QinState|秦国]], [[HanState|韩国]], [[WeiState|魏国]], [[ZhaoState|赵国]], [[Linzi|临淄]], and [[JuXin|剧辛]] - Zhouji 70 campaign execution, occupation allocation, and deep-pursuit dispute.
