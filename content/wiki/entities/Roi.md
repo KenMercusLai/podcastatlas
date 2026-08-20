@@ -10,11 +10,11 @@ last_updated: 2026-07-07
 
 Roi is the founder and CEO of [[Mujian]] in [[ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec]]. In the episode she describes Mujian as an AI simulation interactive content platform where creators design virtual life experiences that users can repeatedly enter, restart, and reshape.
 
-Roi's earlier path combines game production, gamified social and education product work at [[ByteDance]], and early creator-ecosystem work at [[LibLib]]. The source frames her founder motivation around "fun," active agency, creator empowerment, and a desire to take the "first seat" rather than remain a supporting operator.
+Roi's earlier path combines game production, gamified social and education product work at [[ByteDance]], and early creator-ecosystem work at [[Liblib]]. The source frames her founder motivation around "fun," active agency, creator empowerment, and a desire to take the "first seat" rather than remain a supporting operator.
 
 ## Connections
 - [[Mujian]] — company she founded and leads.
-- [[LibLib]] — earlier AI creator-tool and ecosystem context that shaped her later direction.
+- [[Liblib]] — earlier AI creator-tool and ecosystem context that shaped her later direction.
 - [[ByteDance]] — prior product-management context in social and education gamification.
 - [[AISimulationContent]] — product form she distinguishes from pure companion chat, interactive fiction, and generated traditional games.
 - [[AIInteractiveEntertainment]] and [[AIInteractiveContentPlatforms]] — broader category and platform problem she is building in.

@@ -1,25 +1,32 @@
 ---
 title: "Liblib"
 type: entity
-tags: [ai, creative-tools, community]
-sources: [duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]
+tags: [company, ai, creator-tools, creative-tools, community]
+sources: [ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx, duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]
 last_updated: 2026-08-08
 ---
 
 # Liblib
 
-Liblib is the [[Evoken]] product most closely associated with [[ChenMian]] in [[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]]. The source presents it as a designer-oriented model and material sharing community rather than a pure entertainment or anime image product.
+Liblib is an AI creator-tool and model-material sharing community associated with [[Evoken]]. In [[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]], [[ChenMian]] presents it as a designer-oriented creative-production product rather than a pure entertainment or anime-image application.
 
-For the wiki, Liblib is useful as an application-layer case where [[AIApplicationLayerMoat]] depends on creative-production context, supply quality, community dynamics, and user scale. Chen says the first Liblib generation went through a freemium, negative-margin period and even a near-death cash moment when the company had only a small amount of money left.
+[[ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec]] adds Liblib as the company and creator ecosystem where [[Roi]] worked before founding [[Mujian]]. Roi says she participated in early ecosystem cold start, helped run AI drawing activities that reached wider attention, and later worked on creator tools. That experience shaped her move toward AI entertainment and interaction as a first-seat founder.
+
+[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] uses Liblib as an application-side company that [[QuKai]] hopes can continue developing despite market pessimism. The source treats it as a representative application company rather than a detailed product case.
 
 ## Key Points
-- The source says Liblib was aimed from the beginning at design and creative design, not only broad consumer image entertainment.
-- Chen links Liblib's positioning to the [[Adobe]] analogy: high-value creative production can matter more than raw user count.
-- [[DeepSeek]] is described as lifting Chinese AI penetration and helping Liblib's revenue double, while newer image-model capability also threatened parts of the earlier product plan.
-- The interview says Liblib investment had been reduced relative to newer product fronts, which made organizational and product-priority tradeoffs more visible.
+- Liblib was aimed at design and creative production rather than only broad consumer image entertainment.
+- Chen compares its high-value creative workflow with [[Adobe]], arguing that production context and supply quality can matter more than raw user count.
+- Its early freemium period produced negative margins and a near-death cash moment.
+- [[DeepSeek]] is described as increasing Chinese AI adoption and helping Liblib's revenue double, while newer image-model capabilities also threatened parts of the earlier product plan.
+- The interview says investment in Liblib had been reduced relative to newer product fronts, exposing organizational and product-priority tradeoffs.
+- The sources connect Liblib's defensibility to creative-production context, community dynamics, user scale, and [[AIApplicationLayerMoat]].
 
 ## Connections
-- [[Evoken]], [[ChenMian]], [[Lavod]], and [[LibTV]] - product family and company context.
-- [[AIApplicationLayerMoat]], [[AIStartupUnitEconomics]], and [[AIApplicationSurvivalStrategy]] - strategic and economic frame.
-- [[DeepSeek]], [[OpenAI]], and [[ModelProviderToolCompetition]] - model-side demand and threat context.
-- [[Adobe]] - high-value creative-workflow comparison.
+- [[Evoken]], [[ChenMian]], [[Lavod]], and [[LibTV]] — company and product-family context.
+- [[Roi]] — former team member whose Liblib experience shaped her later founder path.
+- [[Mujian]] — company Roi founded after leaving Liblib.
+- [[AISuperCreators]] and [[CreationAsConsumption]] — creator ecology and creative experimentation.
+- [[AIInteractiveContentPlatforms]] — adjacent platform problem around creator tools, audience, distribution, and monetization.
+- [[AIApplicationLayerMoat]], [[AIStartupUnitEconomics]], [[AIApplicationSurvivalStrategy]], [[AIApplicationMarketTrough]], and [[ProductLedWillingnessToPay]] — strategic and economic frame.
+- [[DeepSeek]], [[OpenAI]], and [[ModelProviderToolCompetition]] — model-side demand and competitive context.

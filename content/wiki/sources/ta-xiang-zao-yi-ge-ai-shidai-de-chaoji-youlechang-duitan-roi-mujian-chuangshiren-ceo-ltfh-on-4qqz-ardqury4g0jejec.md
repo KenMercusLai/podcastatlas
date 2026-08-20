@@ -23,7 +23,7 @@ This [[ShizilukouCrossing]] episode interviews [[Roi]], founder and CEO of [[Muj
 - Creator monetization is already emerging around prompts, interfaces, code, music, and whole works, but the platform still has to decide how account identity, consumption, token cost, revenue sharing, and distribution fit together.
 - Roi wants [[Mujian]] to become an [[AIInteractiveContentPlatforms]] analog to [[Xiaohongshu]] for AI-generated virtual lives: people share and sell experiences that cannot be directly lived offline.
 - The long-term vision depends on AI-native platform capabilities: model stability, latency, engineering, multimodal rendering, world-model progress, and product judgment about freedom, personalization, and feedback.
-- The episode's personal thread ties Roi's founder path through games, [[ByteDance]], [[LibLib]], and a desire to be the "first seat" to the product belief that play and agency are serious parts of future spiritual life.
+- The episode's personal thread ties Roi's founder path through games, [[ByteDance]], [[Liblib]], and a desire to be the "first seat" to the product belief that play and agency are serious parts of future spiritual life.
 
 ## Key Quotes
 > "系统收敛，但体验开放" — Roi's compact formulation of good free-generation experience.
@@ -35,7 +35,7 @@ This [[ShizilukouCrossing]] episode interviews [[Roi]], founder and CEO of [[Muj
 ## Connections
 - [[Roi]] — guest, founder, and CEO of [[Mujian]].
 - [[Mujian]] — AI simulation interactive content platform described in the episode.
-- [[LibLib]] — Roi's earlier AI creator-tool and community experience.
+- [[Liblib]] — Roi's earlier AI creator-tool and community experience.
 - [[CharacterAI]] — reference point for roleplay and companion-chat demand.
 - [[Xiaohongshu]] — early creator-acquisition channel and platform analogy for virtual-life sharing.
 - [[ByteDance]] — Roi's earlier work context in social and education gamification.

@@ -30,7 +30,7 @@ This [[LateTalk]] Q2 2026 AI review with [[HenryYin]] of [[MOECapital]] organize
 - [[ClaudeTag]] moves Claude-style agents into [[Slack]], making AI look less like a personal chatbot and more like a team coworker with tasks, context, permissions, and group visibility.
 - [[RecordAndReplay]] is presented as an [[OpenAI]] computer-use route that records human GUI workflows into repeatable skills, but the source flags accuracy, latency, privacy, and permissions as constraints.
 - [[ThinkingMachinesLab]]'s [[InteractionModel]] is used to argue that voice is not just another modality; full-duplex speech could become a foundation for real-time AI interaction.
-- [[MidJourney]]'s medical-imaging hardware turn is treated as a reminder that AI companies may reinvest software cash flow into unexpected physical-world bets rather than only model or app competition.
+- [[Midjourney]]'s medical-imaging hardware turn is treated as a reminder that AI companies may reinvest software cash flow into unexpected physical-world bets rather than only model or app competition.
 
 ## Key Quotes
 > "递归自进化" — the source's Chinese rendering of RSI.
@@ -49,7 +49,7 @@ This [[LateTalk]] Q2 2026 AI review with [[HenryYin]] of [[MOECapital]] organize
 - [[ClaudeTag]], [[Slack]], [[AgentHarness]], [[AgentPermissionBoundaries]], and [[HumanAgentCollaboration]] — team collaboration and permissions branch.
 - [[RecordAndReplay]], [[ComputerUseAgent]], [[AICodingVerification]], and [[HumanJudgmentUnderAI]] — GUI workflow automation and verification branch.
 - [[ThinkingMachinesLab]], [[InteractionModel]], and [[VoiceInteraction]] — real-time voice and full-duplex interaction branch.
-- [[Meta]], [[Google]], [[Gemini]], [[XAI]], and [[MidJourney]] — other Q2 company updates in the source.
+- [[Meta]], [[Google]], [[Gemini]], [[XAI]], and [[Midjourney]] — other Q2 company updates in the source.
 - [[AIInvestmentMetrics]], [[AICommercializationPressure]], and [[AIEconomicDiffusion]] — business and investor interpretation of the quarter.
 
 ## Contradictions
