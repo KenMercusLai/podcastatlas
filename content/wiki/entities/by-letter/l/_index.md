@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6041
+wiki_total_pages: 6039
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -284,9 +284,6 @@ wiki_pages:
   - key: "LibertyMedia"
     title: "Liberty Media"
     url: "/wiki/entities/libertymedia/"
-  - key: "LibLib"
-    title: "LibLib"
-    url: "/wiki/entities/liblib/"
   - key: "Liblib"
     title: "Liblib"
     url: "/wiki/entities/liblib/"

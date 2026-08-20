@@ -36,7 +36,7 @@ This [[42Zhangjing]] episode by [[QuKai]] reviews the 2023-2026 AI venture cycle
 - [[42Zhangjing]] and [[QuKai]] — show and host context.
 - [[AIApplicationMarketTrough]], [[AIApplicationLayerMoat]], [[AICommercializationPressure]], and [[ModelProviderToolCompetition]] — main industry-structure argument.
 - [[ZhipuAI]], [[MiniMax]], [[OpenClaude]], [[OpenAI]], [[Anthropic]], [[DeepSeek]], [[Google]], [[Doubao]], and [[Kimi]] — model-company and product-competition map used in the source.
-- [[Manus]], [[Genspark]], [[Dify]], [[Workmagic]], [[Aestudio]], and [[LibLib]] — application-side examples in the source's overseas and application-market discussion.
+- [[Manus]], [[Genspark]], [[Dify]], [[Workmagic]], [[Aestudio]], and [[Liblib]] — application-side examples in the source's overseas and application-market discussion.
 - [[TangJie]], [[ClaudeCode]], [[GPTWork]], [[Codex]], [[LongHorizonAI]], and [[AgenticWorkflow]] — coding, reasoning, and long-task transition.
 - [[Anbi]] and [[MoZihao]] — founder case used to show the danger of bending product truth toward model-heavy fundraising narratives.
 - [[ProductLedWillingnessToPay]], [[PaymentLedMarketSelection]], [[AIAgentOverseasCommercialization]], and [[SoftwarePaymentCulture]] — why overseas application markets may be easier to monetize.

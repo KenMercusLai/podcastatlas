@@ -7,6 +7,7 @@ import argparse
 import hashlib
 import json
 import re
+import subprocess
 import sys
 import unicodedata
 from collections import defaultdict
@@ -230,6 +231,48 @@ def duplicate_keys(pages: list[WikiPage]) -> dict[str, list[WikiPage]]:
     for page in pages:
         by_key[page.key].append(page)
     return {key: values for key, values in by_key.items() if len(values) > 1}
+
+
+def casefolded_key_collisions(
+    pages: list[WikiPage],
+) -> dict[tuple[str, str], list[WikiPage]]:
+    by_key: dict[tuple[str, str], list[WikiPage]] = defaultdict(list)
+    for page in pages:
+        by_key[(page.section, page.key.casefold())].append(page)
+    return {key: values for key, values in by_key.items() if len(values) > 1}
+
+
+def casefolded_path_collisions(paths: list[Path]) -> dict[str, list[Path]]:
+    by_path: dict[str, list[Path]] = defaultdict(list)
+    for path in paths:
+        by_path[path.as_posix().casefold()].append(path)
+    return {key: values for key, values in by_path.items() if len(values) > 1}
+
+
+def tracked_wiki_path_collisions() -> dict[str, list[Path]]:
+    try:
+        result = subprocess.run(
+            ["git", "ls-files", "-z", "--", "content/wiki"],
+            cwd=ROOT,
+            check=True,
+            capture_output=True,
+        )
+    except (FileNotFoundError, subprocess.CalledProcessError) as error:
+        raise RuntimeError("Unable to inspect tracked wiki paths with Git") from error
+
+    paths = [
+        Path(value.decode("utf-8"))
+        for value in result.stdout.split(b"\0")
+        if value
+    ]
+    return casefolded_path_collisions(paths)
+
+
+def public_route_collisions(pages: list[WikiPage]) -> dict[str, list[WikiPage]]:
+    by_route: dict[str, list[WikiPage]] = defaultdict(list)
+    for page in pages:
+        by_route[page_url(page)].append(page)
+    return {route: values for route, values in by_route.items() if len(values) > 1}
 
 
 def scan_wiki_links(pages_by_key: dict[str, WikiPage]) -> tuple[int, dict[str, list[str]]]:
@@ -495,6 +538,8 @@ def make_stats_page(
     total_links: int,
     missing: dict[str, list[str]],
     duplicates: dict[str, list[WikiPage]],
+    casefolded_collisions: dict[tuple[str, str], list[WikiPage]],
+    route_collisions: dict[str, list[WikiPage]],
     source_episode_report: SourceEpisodeReport,
 ) -> str:
     counts = section_counts(pages)
@@ -522,7 +567,9 @@ def make_stats_page(
         f"- Wiki link references: {total_links}",
         f"- Unique wiki link targets: {unique_targets}",
         f"- Missing targets: {len(missing)}",
-        f"- Duplicate file-name targets: {len(duplicates)}",
+        f"- Exact duplicate keys: {len(duplicates)}",
+        f"- Case-insensitive key collisions: {len(casefolded_collisions)}",
+        f"- Public route collisions: {len(route_collisions)}",
         "",
         "## Source Episodes",
         f"- Source pages: {source_episode_report.total_sources}",
@@ -533,9 +580,25 @@ def make_stats_page(
     ]
 
     if duplicates:
-        lines.extend(["## Duplicate Targets", ""])
+        lines.extend(["## Exact Duplicate Keys", ""])
         for key, values in sorted(duplicates.items()):
             lines.append(f"- `{key}`")
+            for page in values:
+                lines.append(f"  - `{page.rel_path}`")
+        lines.append("")
+
+    if casefolded_collisions:
+        lines.extend(["## Case-Insensitive Key Collisions", ""])
+        for (section, key), values in sorted(casefolded_collisions.items()):
+            lines.append(f"- `{section}/{key}`")
+            for page in values:
+                lines.append(f"  - `{page.rel_path}`")
+        lines.append("")
+
+    if route_collisions:
+        lines.extend(["## Public Route Collisions", ""])
+        for route, values in sorted(route_collisions.items()):
+            lines.append(f"- `{route}`")
             for page in values:
                 lines.append(f"  - `{page.rel_path}`")
         lines.append("")
@@ -560,8 +623,8 @@ def make_stats_page(
             lines.append(f"- `{path.relative_to(ROOT).as_posix()}` -> `{source_name}`")
         lines.append("")
 
-    if not duplicates and not missing:
-        lines.append("All wiki links resolve to public wiki pages.")
+    if not duplicates and not casefolded_collisions and not route_collisions and not missing:
+        lines.append("All wiki links resolve to unique public wiki pages.")
         lines.append("")
 
     if not source_episode_report.has_errors:
@@ -612,13 +675,46 @@ def run(check: bool) -> int:
         print(f"Missing wiki directory: {WIKI_DIR.relative_to(ROOT)}", file=sys.stderr)
         return 1
 
+    tracked_path_collisions = tracked_wiki_path_collisions()
+    if tracked_path_collisions:
+        print(
+            f"Case-insensitive tracked wiki path collisions: {len(tracked_path_collisions)}",
+            file=sys.stderr,
+        )
+        for paths in tracked_path_collisions.values():
+            for path in paths:
+                print(f"  {path.as_posix()}", file=sys.stderr)
+        return 1
+
     pages = discover_pages()
     duplicates = duplicate_keys(pages)
+    casefolded_collisions = casefolded_key_collisions(pages)
+    route_collisions = public_route_collisions(pages)
+    if duplicates:
+        print(f"Duplicate wiki targets: {len(duplicates)}", file=sys.stderr)
+    if casefolded_collisions:
+        print(
+            f"Case-insensitive wiki key collisions: {len(casefolded_collisions)}",
+            file=sys.stderr,
+        )
+    if route_collisions:
+        print(f"Public wiki route collisions: {len(route_collisions)}", file=sys.stderr)
+    if duplicates or casefolded_collisions or route_collisions:
+        return 1
+
     pages_by_key = {page.key: page for page in pages}
     total_links, missing = scan_wiki_links(pages_by_key)
     source_episode_report = scan_source_episodes()
     generated_files = expected_generated_files()
-    stats_page = make_stats_page(pages, total_links, missing, duplicates, source_episode_report)
+    stats_page = make_stats_page(
+        pages,
+        total_links,
+        missing,
+        duplicates,
+        casefolded_collisions,
+        route_collisions,
+        source_episode_report,
+    )
     expected = {**generated_files, STATS_PATH: stats_page}
     expected_paths = set(expected)
     stale_safe_pages = find_stale_safe_page_files(expected_paths)
@@ -661,9 +757,7 @@ def run(check: bool) -> int:
         f"unmatched_source_file={len(source_episode_report.unmatched_source_file)}"
     )
 
-    errors = bool(duplicates or missing or source_episode_report.has_errors)
-    if duplicates:
-        print(f"Duplicate wiki targets: {len(duplicates)}", file=sys.stderr)
+    errors = bool(missing or source_episode_report.has_errors)
     if missing:
         print(f"Missing wiki targets: {len(missing)}", file=sys.stderr)
     if source_episode_report.missing_source_file:

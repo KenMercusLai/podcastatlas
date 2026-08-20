@@ -16,7 +16,7 @@ Shizilukou Crossing is the podcast/media context for [[gaoshou-zenme-yong-ai-put
 
 [[jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]] adds [[ZhangYi]], [[WeilaiBuyuan]], and [[F2HomeRobot]] to the show's robotics thread. It shifts from companion-robot liveliness and causal world models toward [[HomeServiceRobots]], real household deployment, [[HouseholdRobotDataFlywheel]], [[ConsumerRoboticsFullStack]], service-value pricing, and embodied-intelligence financing cycles.
 
-[[ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec]] adds [[Roi]], [[Mujian]], and [[LibLib]] to the show's AI entertainment branch. It complements the [[Youju]] field-map episode by focusing on an operator building [[AISimulationContent]], creator tooling, platform identity, and [[AISuperCreators]] around controlled freedom and virtual-life experiences.
+[[ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec]] adds [[Roi]], [[Mujian]], and [[Liblib]] to the show's AI entertainment branch. It complements the [[Youju]] field-map episode by focusing on an operator building [[AISimulationContent]], creator tooling, platform identity, and [[AISuperCreators]] around controlled freedom and virtual-life experiences.
 
 [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds [[HaotianOdin]], [[YinglingdianAI]], [[ODesign]], and [[LDesign]] to the show's AI-for-science branch. The episode shifts from AI materials discovery toward [[AllModalMolecularWorldModel]], [[AIDrugDiscoveryPlatform]], [[AIProteinDesign]], [[ScientificDiscoveryAutomation]], and founder-level [[PlatformPipelineBiotechStrategy]].
 
@@ -59,7 +59,7 @@ Shizilukou Crossing is the podcast/media context for [[gaoshou-zenme-yong-ai-put
 - [[YaGe]], [[Haoda]], [[IMAgentInterfaces]], and [[LocalAgentExecution]] — OpenClaw product-mechanics and startup-opportunity themes from the 20-question episode.
 - [[YuWenyuan]], [[AliyunBailian]], [[Pingtouge]], and [[MaaSInfrastructure]] — model-serving infrastructure themes from the Bailian episode.
 - [[ZhangYi]], [[WeilaiBuyuan]], [[F2HomeRobot]], [[HomeServiceRobots]], [[HouseholdRobotDataFlywheel]], and [[ConsumerRoboticsFullStack]] — home-service robotics themes from the Weilai Buyuan episode.
-- [[Roi]], [[Mujian]], [[LibLib]], [[AISimulationContent]], and [[AISuperCreators]] — AI simulation content and creator-platform themes from the Mujian episode.
+- [[Roi]], [[Mujian]], [[Liblib]], [[AISimulationContent]], and [[AISuperCreators]] — AI simulation content and creator-platform themes from the Mujian episode.
 - [[HaotianOdin]], [[YinglingdianAI]], [[ODesign]], [[LDesign]], [[AllModalMolecularWorldModel]], and [[AIDrugDiscoveryPlatform]] — AI-for-science and drug-discovery platform themes from the Yinglingdian episode.
 - [[ZhangJintao]], [[ShengshuTechnology]], [[ViduS1]], [[RealTimeInteractiveVideoGeneration]], and [[InferenceAccelerationStack]] — real-time AI video and inference-acceleration themes from the Vidu S1 episode.
 - [[Airwallex]], [[WuKai]], [[GlobalFinancialNetwork]], [[IntelligentFinance]], and [[AirwallexAgentOS]] — fintech infrastructure and AI finance themes from the Airwallex episode.

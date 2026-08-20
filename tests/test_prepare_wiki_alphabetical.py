@@ -207,6 +207,121 @@ class AlphabeticalBucketTest(unittest.TestCase):
                 with self.assertRaisesRegex(ValueError, "safe route collision"):
                     prepare.expected_safe_page_files(pages)
 
+    def test_detects_casefolded_keys_within_the_same_section(self):
+        pages = [
+            prepare.WikiPage("LibLib", "LibLib", "entities", Path("LibLib.md")),
+            prepare.WikiPage("Liblib", "Liblib", "entities", Path("Liblib.md")),
+        ]
+
+        collisions = prepare.casefolded_key_collisions(pages)
+
+        self.assertEqual({("entities", "liblib")}, set(collisions))
+        self.assertEqual(
+            {"LibLib", "Liblib"},
+            {page.key for page in collisions[("entities", "liblib")]},
+        )
+
+    def test_detects_casefolded_tracked_paths_before_checkout_can_collapse_them(self):
+        paths = [
+            Path("content/wiki/entities/LibLib.md"),
+            Path("content/wiki/entities/Liblib.md"),
+            Path("content/wiki/entities/Other.md"),
+        ]
+
+        collisions = prepare.casefolded_path_collisions(paths)
+
+        self.assertEqual(
+            {"content/wiki/entities/liblib.md"},
+            set(collisions),
+        )
+        self.assertEqual(
+            {
+                Path("content/wiki/entities/LibLib.md"),
+                Path("content/wiki/entities/Liblib.md"),
+            },
+            set(collisions["content/wiki/entities/liblib.md"]),
+        )
+
+    def test_detects_pages_that_publish_to_the_same_route(self):
+        pages = [
+            prepare.WikiPage(
+                "MidJourney", "MidJourney", "entities", Path("MidJourney.md")
+            ),
+            prepare.WikiPage(
+                "Midjourney", "Midjourney", "entities", Path("Midjourney.md")
+            ),
+        ]
+
+        collisions = prepare.public_route_collisions(pages)
+
+        self.assertEqual({"/wiki/entities/midjourney/"}, set(collisions))
+        self.assertEqual(
+            {"MidJourney", "Midjourney"},
+            {
+                page.key
+                for page in collisions["/wiki/entities/midjourney/"]
+            },
+        )
+
+    def test_run_fails_closed_when_canonical_pages_share_a_public_route(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            wiki_dir = root / "content" / "wiki"
+            entities = wiki_dir / "entities"
+            episodes = root / "content" / "episodes"
+            entities.mkdir(parents=True)
+            episodes.mkdir(parents=True)
+            pages = [
+                prepare.WikiPage(
+                    "MidJourney", "MidJourney", "entities", entities / "MidJourney.md"
+                ),
+                prepare.WikiPage(
+                    "Midjourney", "Midjourney", "entities", entities / "Midjourney.md"
+                ),
+            ]
+
+            with (
+                mock.patch.object(prepare, "ROOT", root),
+                mock.patch.object(prepare, "WIKI_DIR", wiki_dir),
+                mock.patch.object(prepare, "EPISODES_DIR", episodes),
+                mock.patch.object(prepare, "DATA_PATH", root / "data" / "wiki_links.json"),
+                mock.patch.object(prepare, "STATS_PATH", wiki_dir / "stats.md"),
+                mock.patch.object(prepare, "discover_pages", return_value=pages),
+                mock.patch.object(
+                    prepare, "tracked_wiki_path_collisions", return_value={}
+                ),
+                mock.patch.object(prepare, "find_stale_safe_page_files", return_value=[]),
+                mock.patch.object(
+                    prepare, "find_stale_alphabetical_files", return_value=[]
+                ),
+                mock.patch.object(prepare, "write_if_changed", return_value=False),
+            ):
+                self.assertEqual(1, prepare.run(check=False))
+
+    def test_run_stops_before_generation_when_tracked_paths_case_collide(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            wiki_dir = root / "content" / "wiki"
+            wiki_dir.mkdir(parents=True)
+            collisions = {
+                "content/wiki/entities/liblib.md": [
+                    Path("content/wiki/entities/LibLib.md"),
+                    Path("content/wiki/entities/Liblib.md"),
+                ]
+            }
+
+            with (
+                mock.patch.object(prepare, "ROOT", root),
+                mock.patch.object(prepare, "WIKI_DIR", wiki_dir),
+                mock.patch.object(prepare, "discover_pages", return_value=[]),
+                mock.patch.object(
+                    prepare, "tracked_wiki_path_collisions", return_value=collisions
+                ),
+                mock.patch.object(prepare, "expected_generated_files") as generate,
+            ):
+                self.assertEqual(1, prepare.run(check=False))
+                generate.assert_not_called()
+
     def test_finds_only_stale_generated_safe_pages(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             wiki_dir = Path(temp_dir)
