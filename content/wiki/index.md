@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（2）](sources/zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7.md) — 芮淇讲透资治通鉴 episode completing Chu Long's persuasion of Zhao Weihou, Chang'an Jun's hostage dispatch to Qi, Qin's withdrawal, and a critique of merit-based explanations for Warring States noble decline.
 - [《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（1）](sources/zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok.md) — 芮淇讲透资治通鉴 episode on Qin pressure against young-regent Zhao, Qi's Chang'an Jun hostage condition, and Chu Long's emotional de-escalation persuasion of Zhao Weihou.
 - [《资治通鉴·周纪》90丨揭秘先秦最完美的复仇](sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm.md) — 芮淇讲透资治通鉴 episode on Fan Ju's revenge against Xu Jia and Wei Qi through Qin's near-Wei pressure, public humiliation, and the Pingyuanjun/Zhao asylum problem.
 - [《资治通鉴·周纪》89丨秦王竟被他怼“妈宝男”？](sources/zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19.md) — 芮淇讲透资治通鉴 episode on Fan Ju turning 远交近攻 into a Qin court-authority problem through the four nobles, Xuan Taihou, Wei Ran, Qin prince hostage puzzle, and overmighty-minister warnings.
@@ -1172,6 +1173,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卞和 / Bian He](entities/BianHe.md) — Chu figure whose punished recognition of hidden jade gives He Shi Bi its origin story.
 - [缪贤 / Miu Xian](entities/MiuXian.md) — Zhao court insider who buys He Shi Bi before Zhao Huiwen Wang forces it into royal possession.
 - [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity, returned from Ju to Linzi after Tian Dan's counterattack and later corrected by Diao Bo for dishonoring Tian Dan.
+- [齐王建 / 田建 / King Jian of Qi](entities/QiWangJian.md) — Young Qi successor under Jun Wang Hou's regency, introduced as the peace-oriented counterpart to Zhao Dan's queen-mother-regency crisis.
 - [君王后 / Jun Wang Hou](entities/JunWangHou.md) — Taishi Jiao's daughter and Qi Xiang Wang's queen, whose crisis marriage later faces family-ritual objection.
 - [太史角 / 太史敫 / Taishi Jiao](entities/TaishiJiao.md) — Ju household head who shelters Tian Fazhang, then rejects his daughter's non-ritual marriage to the restored king.
 - [王孙古 / Wang Sun Gu](entities/WangSunGu.md) — Qi retainer who mobilizes revenge against Zhuo Chi after his mother's rebuke.

@@ -2,7 +2,7 @@
 title: "赵威后 / Zhao Weihou"
 type: entity
 tags: [person, queen-mother, zhao-state, regent, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
 last_updated: 2026-08-21
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-21
 赵威后 / Zhao Weihou enters the wiki through [[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] as the mother of the newly enthroned [[ZhaoDan|赵丹 / 赵孝成王]] and acting political authority in [[ZhaoState|赵国]]. The episode places her regency in 265 BCE, after [[ZhaoHe|赵惠文王赵何]] dies and [[QinState|秦国]] attacks Zhao.
 
 Her crisis is both maternal and strategic. Zhao seeks help from [[QiState|齐国]], but Qi demands [[ChangAnJunZhao|长安君]] as hostage before sending aid. Zhao Weihou loves Chang'an Jun, her youngest son, and initially refuses so strongly that ministers stop effective remonstrance. [[ChuLong|触龙]] has to persuade her indirectly by moving from health and family talk to the idea that real love for children requires long-term planning.
+
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7]] gives the decision and adds a ritual reading of her condition. The host says Zhao Weihou is likely around forty rather than extremely old; her weakness, congee diet, and restricted behavior fit mourning norms after Zhao Huiwen Wang's death. She finally agrees to send Chang'an Jun after Chu Long reframes hostage service as a way to give him future standing rather than expose him meaninglessly.
 
 ## Connections
 - [[ZhaoDan|赵丹 / 赵孝成王]] - son whose youth makes her regency politically important.

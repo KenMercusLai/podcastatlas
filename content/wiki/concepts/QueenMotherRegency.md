@@ -2,7 +2,7 @@
 title: "Queen-Mother Regency / 太后摄政"
 type: concept
 tags: [court-politics, regency, succession, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
 last_updated: 2026-08-21
 ---
 
@@ -15,6 +15,8 @@ The concept matters because regency is not only family caretaking. In this sourc
 [[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] adds the afterlife of regency. Even after [[QinZhaoxiangwang|秦昭襄王]] is no longer simply a young accession figure, [[FanJu|范雎]] can still describe [[XuanTaihou|宣太后]] and the [[QinFourNoblesCourtPower|秦国四贵权力结构]] as the people who actually constrain royal authority.
 
 [[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] adds a Zhao-side case through [[ZhaoWeihou|赵威后]]. After [[ZhaoHe|赵惠文王赵何]] dies and [[ZhaoDan|赵丹 / 赵孝成王]] succeeds while young, Zhao's queen mother becomes the operating decision-maker in a military emergency. Her maternal attachment to [[ChangAnJunZhao|长安君]] initially blocks the hostage concession needed for [[QiState|齐国]] aid, so regency appears as both necessary authority and emotional bottleneck.
+
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7]] resolves the Zhao case and adds a Qi parallel. Zhao Weihou agrees to send Chang'an Jun after [[ChuLong|触龙]] reframes the issue, while in Qi [[QiWangJian|齐王建 / 田建]] succeeds as a young ruler under [[JunWangHou|君王后]]'s regency. The episode therefore keeps regency from being a single personality story: it can produce an emotional bottleneck in Zhao and a cautious peace orientation in Qi.
 
 ## Key Claims
 - A young ruler creates room for the ruler's mother to hold actual governing power.
@@ -31,3 +33,4 @@ The concept matters because regency is not only family caretaking. In this sourc
 - [[ForeignRelativeCourtPolitics|楚系外戚政治]] - adjacent kin-power concept.
 - [[FanJu|范雎]], [[QinFourNoblesCourtPower|秦国四贵权力结构]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 89 regency afterlife as strategic obstacle.
 - [[ZhaoWeihou|赵威后]], [[ZhaoDan|赵丹 / 赵孝成王]], [[ChangAnJunZhao|长安君]], and [[ChuLong|触龙]] - Zhouji 91 Zhao regency and persuasion case.
+- [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], and [[TianDan|田单]] - Zhouji 91 Qi regency parallel and forceful-minister fit problem.

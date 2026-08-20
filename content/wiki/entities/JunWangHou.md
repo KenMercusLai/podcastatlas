@@ -2,7 +2,7 @@
 title: "君王后 / Jun Wang Hou"
 type: entity
 tags: [person, queen, qi-state, pre-qin, warring-states, marriage]
-sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The source also projects her later political importance, saying she governed wit
 
 [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] adds the family-ritual cost of that crisis relationship. Her father [[TaishiJiao|太史敫 / 太史角]] refuses to recognize or see her because the marriage did not pass through parental command and matchmaker procedure. The episode uses [[MenciusText|《孟子》]] to frame that as [[MarriageRitualOrthodoxy|marriage ritual orthodoxy]], while still praising Jun Wang Hou for continuing to treat her father with respect after becoming queen.
 
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7]] moves her from queen into regent. After Qi Xiang Wang dies, her son [[QiWangJian|齐王建 / 田建]] succeeds while young, and Jun Wang Hou governs in a cautious, peace-oriented style. The episode contrasts that posture with [[TianDan|田单]]'s forceful military profile and treats it as part of why he may not have remained comfortable in Qi.
+
 ## Connections
 - [[TaishiJiao|太史角]] - father and household setting.
 - [[TianFazhang|田法章]] and [[QiXiangWang|齐襄王]] - fugitive partner and later husband-ruler.
@@ -23,3 +25,4 @@ The source also projects her later political importance, saying she governed wit
 - [[CrisisAutonomousMarriage|患难自主婚姻]] - concept this episode builds from her story.
 - [[WarringStatesMarriageDiplomacy]] - contrast case; her marriage is not introduced as an interstate arrangement.
 - [[MarriageRitualOrthodoxy|婚姻礼法正当性]] and [[MenciusText|《孟子》]] - Zhouji 79 ritual backlash and textual frame.
+- [[QiWangJian|齐王建 / 田建]], [[QueenMotherRegency|太后摄政]], and [[TianDan|田单]] - Zhouji 91 regency and cautious-court sequel.

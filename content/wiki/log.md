@@ -8871,3 +8871,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Qin attacking newly 
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》91丨触龙如何敲开守寡赵太后的门（2）
+
+Added source page for the completion of Chu Long's persuasion of Zhao Weihou: Chang'an Jun goes to Qi as hostage, Qi sends aid, and Qin withdraws. Created Qi Wang Jian / Tian Jian; updated overview, index, Chu Long, Zhao Weihou, Chang'an Jun, Emotional De-escalation Persuasion, Hostage Diplomacy Rupture, Warring States Reform Backlash, Tian Dan, Jun Wang Hou, Qi Xiang Wang, Zhao Dan, Qi/Zhao/Qin state pages, and Queen-Mother Regency. No direct contradiction found; the source records a source-scoped tension between Chu Long's merit-based noble-decline argument and the host's centralization-based institutional explanation.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12190 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes while the current wiki has 12190 linted pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. Report returned in-session.

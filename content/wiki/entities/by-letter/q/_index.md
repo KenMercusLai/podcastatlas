@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6224
+wiki_total_pages: 6225
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "QiMinWang"
     title: "齐湣王 / King Min of Qi"
     url: "/wiki/entities/qiminwang/"
+  - key: "QiWangJian"
+    title: "齐王建 / 田建 / King Jian of Qi"
+    url: "/wiki/entities/qiwangjian/"
   - key: "QiXiangGong"
     title: "齐襄公 / Duke Xiang of Qi"
     url: "/wiki/entities/qixianggong/"

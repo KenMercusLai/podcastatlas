@@ -2,7 +2,7 @@
 title: "田单 / Tian Dan"
 type: entity
 tags: [person, qi-state, general, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringSt
 
 [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]] gives that danger a temporary correction and a later military cost. [[DiaoBo|刁伯]] rebukes [[QiXiangWang|齐襄王]] by arguing that Tian Dan restored Qi without making himself king, after which the king kills the nine favored ministers and expands Tian Dan's grant. Later, when Tian Dan cannot quickly take Di, [[LuZhonglian|鲁仲连]] explains that the Jimo victory depended on a shared death resolve that Tian Dan no longer displays. The episode's sharper interpretation is that Tian Dan withholds soldier intimacy not simply because wealth has softened him, but because visible [[MilitaryMoraleThroughSharedHardship|shared hardship]] could renew the king's suspicion of his popular power.
 
+[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7]] returns to Tian Dan after the Zhao hostage crisis. Once [[ChangAnJunZhao|长安君]] goes to Qi and Qi-Zhao alignment forms, Tian Dan commands Zhao troops against [[YanState|燕国]] and takes Zhongyang, then attacks [[HanState|韩国]] and takes Zhuren/Zhucheng. The same episode links his uneasy fit in Qi to the accession of [[QiWangJian|齐王建 / 田建]] under [[JunWangHou|君王后]]'s cautious regency.
+
 ## Connections
 - [[QiState|齐国]] and [[Linzi|临淄]] - state and origin context.
 - [[JimoWarringStates|即墨]] - city that chooses him as commander after the local official dies.
@@ -38,3 +40,4 @@ After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringSt
 - [[LeYi|乐毅]], [[LoyalMinisterExitEthic|忠臣去国的退场伦理]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - Zhouji 80 contrast between Le Yi's successful exit and Tian Dan's coming exposure after high merit.
 - [[PostRestorationMeritThreat|复国功臣威胁化]], [[PoliticalCreditAppropriation|善行君恩化]], [[DiaoBo|刁伯]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 post-restoration suspicion, credit absorption, envoy-triggered slander, and ritual pressure.
 - [[LuZhonglian|鲁仲连]], [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], and [[PowerExitTrap|权力退场困境]] - Zhouji 81 part 2 Di campaign, lost death resolve, and self-protective limits under suspicion.
+- [[ChangAnJunZhao|长安君]], [[ZhaoState|赵国]], [[YanState|燕国]], [[HanState|韩国]], [[QiWangJian|齐王建 / 田建]], and [[JunWangHou|君王后]] - Zhouji 91 post-hostage Qi-Zhao military action and Qi succession context.
