@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》54丨我尊你是王，你当我是屁](sources/zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's post-Chu lobbying tour through Han, Qi, Zhao, and Yan, using encirclement threats to push lianheng, and the sudden patronage risk after Qin Huiwen Wang dies.
 - [《资治通鉴·周纪》53丨秦惠王用张仪换地皮](sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk.md) — 芮淇讲透资治通鉴 episode on Qin Huiwen Wang's land-for-Qianzhong proposal, Chu Huaiwang demanding Zhang Yi instead, Zhang Yi's survival through Zheng Xiu and palace backchannels, and the politics of treating a minister as exchangeable.
 - [《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘](sources/zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2.md) — 芮淇讲透资治通鉴 episode on Yan Zhaowang's talent recruitment through Guo Wei, Le Yi and Ju Xin's arrival in Yan, Chen Zhuang's Ba-Shu rebellion against Qin, and Zhang Yi entering Chu.
 - [《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！](sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac.md) — 芮淇讲透资治通鉴 episode on why Chu Huaiwang fell for Zhang Yi, the Danyang and Lantian defeats, Hanzhong's loss, and the danger of raising armies from anger.
@@ -7172,6 +7173,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
 - [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in first patronage, Zhao authorization, the completed six-state persuasion circuit, and the Hangu Pass efficacy tension.
 - [连横 / Lianheng Strategy](concepts/LianhengStrategy.md) — Qin-facing diplomatic strategy contrasted with hezong, introduced through Su Qin's critique and Zhang Yi's entry into Qin.
+- [Encirclement Threat Persuasion / 包围威胁式说服](concepts/EncirclementThreatPersuasion.md) — Zhang Yi's Zhouji 54 speech pattern of naming weakness, claiming allies have shifted to Qin, mapping attack routes, and making Qin accommodation appear safest.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, intimate shame, status pressure, and discomfort drive focused self-study that still needs access and patronage.
 - [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts and portable idioms.
 - [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible prestige spending becomes wrong because war, drought, or public burden makes the timing politically unfit.
@@ -7236,6 +7238,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
 - [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.
 - [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Zhouji 10 part 2 frame for the disorder created when Wei Wuhou dies without a clearly designated heir.
+- [Patron Succession Exposure / 靠山更替暴露风险](concepts/PatronSuccessionExposure.md) — Risk that a minister protected by one ruler becomes exposed when the patron dies and the successor revalues prior service.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.
 - [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.
 - [Generational Family Strategy / 家族代际战略](concepts/GenerationalFamilyStrategy.md) — Zhouji 10 frame for reading Han's destruction of Zheng as a lineage-level, multi-generation project.

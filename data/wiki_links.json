@@ -13235,6 +13235,10 @@
     "title": "Employment Ice Age Generation",
     "url": "/wiki/concepts/employmenticeagegeneration/"
   },
+  "EncirclementThreatPersuasion": {
+    "title": "Encirclement Threat Persuasion / 包围威胁式说服",
+    "url": "/wiki/concepts/encirclementthreatpersuasion/"
+  },
   "EncirclingWeiToRescueZhao": {
     "title": "Encircling Wei to Rescue Zhao / 围魏救赵",
     "url": "/wiki/concepts/encirclingweitorescuezhao/"
@@ -29702,6 +29706,10 @@
   "Patroclus": {
     "title": "Patroclus",
     "url": "/wiki/entities/patroclus/"
+  },
+  "PatronSuccessionExposure": {
+    "title": "Patron Succession Exposure / 靠山更替暴露风险",
+    "url": "/wiki/concepts/patronsuccessionexposure/"
   },
   "PaulBrown": {
     "title": "Paul Brown",
@@ -47538,5 +47546,9 @@
   "zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk": {
     "title": "《资治通鉴·周纪》53丨秦惠王用张仪换地皮",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk/"
+  },
+  "zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie": {
+    "title": "《资治通鉴·周纪》54丨我尊你是王，你当我是屁",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie/"
   }
 }

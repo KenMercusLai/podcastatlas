@@ -8480,6 +8480,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on why Chu Huaiwang fel
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-20] ingest | 《资治通鉴·周纪》54丨我尊你是王，你当我是屁
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhang Yi's post-Chu lobbying tour through Han, Qi, Zhao, and Yan, using state-specific encirclement threats to push rulers toward Qin-facing lianheng, and closing with Qin Huiwen Wang's death and Qin Wuwang's accession. Created pages for Encirclement Threat Persuasion and Patron Succession Exposure; updated overview, index, Zhang Yi, Ying Si, Qin Wuwang, Han Xiang Wang, Qi Xuan Wang, Zhao Wuling Wang, Yan Zhaowang, Zhou Nan Wang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Qin/Han/Qi/Zhao/Yan state pages, Yiyang, and related lianheng/hezong/zongheng/career-mobility concepts. No direct contradiction found; the source clarifies the Qin Wuwang/Zhang Yi succession-risk branch while keeping the older Zhouji 38 supplement as a chronology-drift warning.
+
 ## [2026-08-20] ingest | 《资治通鉴·周纪》52丨 陈庄叛秦 端起碗吃饭放下碗骂娘
 
 Added source page for a 芮淇讲透资治通鉴 episode on Yan Zhaowang's post-disaster talent recruitment, Guo Wei's "千金买骨" signal, Le Yi and Ju Xin entering Yan, Han Xiang Wang's succession notice, Chen Zhuang killing Shu Hou Ning Tong and rebelling against Qin in Ba-Shu, Gan Mao's suppression, and Zhang Yi entering Chu as the next cliffhanger. Created pages for Yan Zhaowang, Guo Wei (Warring States), Le Yi, Ju Xin, Zi Zhi, Chen Zhuang, Shu Hou Ning Tong, Sima Cuo, Gan Mao, Ba, Shu, Ba-Shu, Dujiangyan, Li Bing, Han Xiang Wang, and Appointed Governor Secession Risk; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Nan Wang, Yan/Qin/Han/Chu/Zhang Yi/Ying Si pages, and related talent/frontier/conquest concepts. No direct contradiction found; the source extends Zhouji 49's Yan aftermath and Zhouji 51's Zhang Yi/Chu Huaiwang cliffhanger while adding Qin's southwestern delegated-rule risk.
@@ -8491,3 +8495,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Qin Huiwen Wang prop
 ## [2026-08-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-20] lint | Wiki health check
+
+Ran health before lint; health scanned 11,888 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,888 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 11,888 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

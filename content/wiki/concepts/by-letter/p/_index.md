@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4762
+wiki_total_pages: 4764
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "PatriotismAsHatred"
     title: "Patriotism As Hatred / 以仇恨运作的爱国主义"
     url: "/wiki/concepts/patriotismashatred/"
+  - key: "PatronSuccessionExposure"
+    title: "Patron Succession Exposure / 靠山更替暴露风险"
+    url: "/wiki/concepts/patronsuccessionexposure/"
   - key: "PayPerClassFitnessModel"
     title: "Pay-Per-Class Fitness Model"
     url: "/wiki/concepts/payperclassfitnessmodel/"

@@ -2,7 +2,7 @@
 title: "连横 / Lianheng Strategy"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
+sources: [zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
 last_updated: 2026-08-20
 ---
 
@@ -28,6 +28,8 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 
 [[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] shows lianheng after the military payoff, when Zhang Yi personally has to survive the target court. Once released through [[CourtBackchannelSurvival|宫廷后门自救]], Zhang Yi argues that [[QinState|秦国]] can press [[HanState|韩国]] and [[WeiState|魏国]] into attacking [[ChuState|楚国]], use [[BaShu|巴蜀]] downstream pressure, and enter through [[Wuguan|武关]]. Lianheng here is a threat map as well as an alliance split: Chu is invited to accept Qin-Chu brotherhood because every alternative leaves it isolated.
 
+[[zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]] turns that threat-map logic into a multi-state tour. Zhang Yi tells [[HanXiangwang|韩襄王]] that Han can be split through Yiyang and Chenggao, tells [[QiXuanWang|齐宣王]] that Chu, Han, Wei, and Zhao have already moved toward Qin, and tells [[ZhaoWulingwang|赵武灵王]] that Qin-led armies can converge on Zhao. Lianheng here is not only bilateral accommodation; it is [[EncirclementThreatPersuasion|包围威胁式说服]] calibrated to each state's weakness and isolation.
+
 ## Key Claims
 - Lianheng is defined against hezong: where hezong tries to bind the eastern states together against Qin, lianheng turns Qin pressure into separate bargains.
 - Su Qin's critique treats lianheng persuaders as misaligned agents because the land they recommend ceding to Qin belongs to rulers and states, not to the persuaders themselves.
@@ -41,6 +43,7 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - Zhouji 50 shows lianheng as sequencing: Qin gets Chu to destroy its Qi tie before Qin has to deliver the promised territorial reward.
 - Zhouji 51 shows that lianheng can profit from the target's post-deception rage: a broken alliance plus angry unilateral war is more useful to Qin than mere non-cooperation.
 - Zhouji 53 shows lianheng as post-crisis coercive reassurance: after Zhang Yi survives Chu imprisonment, he offers Qin-Chu peace while naming the routes and allies Qin can use if Chu refuses.
+- Zhouji 54 shows lianheng as serial encirclement persuasion: Han, Qi, and Zhao are each told that Qin and Qin-aligned states can already surround them if they refuse accommodation.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, ruler, and state setting for the coming lianheng branch.
@@ -53,3 +56,4 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - [[ChuHuaiwang|楚怀王]], [[QiState|齐国]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 promise-before-delivery extension.
 - [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[LantianBattle|蓝田之战]], [[HanState|韩国]], [[WeiState|魏国]], and [[AngerDrivenWarDecision|忿兵决策]] - Zhouji 51 military isolation after alliance rupture.
 - [[Qianzhong|黔中]], [[ZhengXiu|郑袖]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 Zhang Yi survival and Qin-Chu bargaining branch.
+- [[EncirclementThreatPersuasion|包围威胁式说服]], [[HanXiangwang|韩襄王]], [[QiXuanWang|齐宣王]], [[ZhaoWulingwang|赵武灵王]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 54 lobbying circuit and Zhang Yi's post-patron vulnerability.
