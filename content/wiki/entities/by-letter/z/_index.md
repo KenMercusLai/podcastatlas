@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6181
+wiki_total_pages: 6185
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "Zili"
     title: "自立"
     url: "/wiki/entities/zili/"
+  - key: "ZhugeLiang"
+    title: "诸葛亮 / Zhuge Liang"
+    url: "/wiki/entities/zhugeliang/"
   - key: "ZhaoBolu"
     title: "赵伯鲁 / Zhao Bolu"
     url: "/wiki/entities/zhaobolu/"

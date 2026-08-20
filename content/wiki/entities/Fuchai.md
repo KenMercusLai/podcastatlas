@@ -2,8 +2,8 @@
 title: "吴王夫差 / King Fuchai of Wu"
 type: entity
 tags: [person, ruler, wu-state, spring-and-autumn, pre-qin]
-sources: [zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+last_updated: 2026-08-21
 ---
 
 # 吴王夫差 / King Fuchai of Wu
@@ -12,10 +12,12 @@ last_updated: 2026-08-20
 
 The episode uses Fuchai as the hinge where rescue turns into chain reaction. Wu defeats Qi, but Fuchai then wants to attack [[JinState|晋国]] and is defeated by a prepared Jin force. [[YueState|越国]] exploits that weakness, and Fuchai eventually commits suicide after failed attempts to make peace with Goujian.
 
+[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] adds Fuchai indirectly through [[WuZixu|伍子胥]] inside [[LeYi|乐毅]]'s [[BaoYanHuiwangShu|《报燕惠王书》]]. Le Yi invokes Wu Zixu's forced death under Fuchai as a warning that service honored by one ruler can become lethal under another, especially after great merit and blunt counsel.
+
 ## Connections
 - [[WuState|吴国]] - polity he rules.
 - [[Zigong|子贡 / 端木赐]] - persuader who redirects him toward Qi.
 - [[QiState|齐国]], [[JinState|晋国]], and [[YueState|越国]] - sequence of success, overreach, and defeat.
 - [[Goujian|越王勾践]] - rival who destroys Wu after Fuchai's exhaustion.
 - [[InterstateCascadeDiplomacy|多国连锁外交]] - source concept for the broader chain.
-
+- [[WuZixu|伍子胥]], [[BaoYanHuiwangShu|《报燕惠王书》]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 80 warning case used by Le Yi.

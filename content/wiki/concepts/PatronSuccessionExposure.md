@@ -2,7 +2,7 @@
 title: "Patron Succession Exposure / 靠山更替暴露风险"
 type: concept
 tags: [succession, patronage, governance, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]
+sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ Patron succession exposure / 靠山更替暴露风险 is the risk [[zizhi-tongji
 
 [[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] adds a Yan military case through [[LeYi|乐毅]]. Under [[YanZhaowang|燕昭王]], slander cannot detach Le Yi from command because the ruler publicly owns the trust relationship. Once [[YanHuiwang|燕惠王]] succeeds, an older crown-prince resentment makes [[TianDan|田单]]'s rumor plausible, and Le Yi's prior conquest record is reinterpreted as possible ambition to rule Qi.
 
+[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] follows that exposure after the battlefield loss. Yan Huiwang's letter to Le Yi tries to turn succession suspicion into Le Yi's moral failure, while Le Yi's [[BaoYanHuiwangShu|《报燕惠王书》]] replies that the patron relation with Yan Zhaowang cannot simply be transferred to a successor who already made return dangerous. The page's new edge is [[LoyalMinisterExitEthic|忠臣去国的退场伦理]]: succession exposure does not have to become revenge if the displaced actor refuses to attack the old state.
+
 The concept is narrower than [[SuccessionNonDesignationRisk|未定继承人风险]]. There is no succession scramble in this source; the danger is that a court actor's accumulated merit, enemies, and patron access are revalued by a successor. It also differs from [[MinisterAsExchangeableAsset|可交换功臣]]: in Zhouji 53, Zhang Yi is exposed because his patron can trade him; in Zhouji 54, he is exposed because the patron disappears.
 
 For mobile Warring States professionals, this risk is structural. [[WarringStatesCareeristMobility|乱世职业经理人式流动]] gives advisers multiple courts and tactics, but the death of a key ruler can instantly convert favor into liability.
@@ -28,6 +30,7 @@ For mobile Warring States professionals, this risk is structural. [[WarringState
 - Succession exposure can weaken an already completed diplomatic settlement if outside rulers infer that the court backing the agreement has changed.
 - Military success and formal rank can still be politically fragile when a successor inherits the outcome but not the old ruler-commander bond.
 - Succession exposure can become battlefield exposure when the successor acts on suspicion by replacing the commander at the front.
+- After exposure, a minister's exit rhetoric can preserve the old patron bond while refusing both return and hostile redeployment by a new patron.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinWuwang|秦武王]] - source case.
@@ -37,3 +40,4 @@ For mobile Warring States professionals, this risk is structural. [[WarringState
 - [[WarringStatesCareeristMobility|乱世职业经理人式流动]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[CourtBackchannelSurvival|宫廷后门自救]] - adjacent concepts around mobile advisers, ruler bargaining, and survival infrastructure.
 - [[SuccessionNonDesignationRisk|未定继承人风险]] and [[AutocraticSuccession]] - broader succession-risk frames that should remain conceptually distinct.
 - [[LeYi|乐毅]], [[YanZhaowang|燕昭王]], [[YanHuiwang|燕惠王]], [[TianDan|田单]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 78 Yan succession and commander replacement branch.
+- [[BaoYanHuiwangShu|《报燕惠王书》]], [[ZhaoHe|赵惠文王赵何]], [[WuZixu|伍子胥]], and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 post-exposure reply and refusal to weaponize new patronage against Yan.

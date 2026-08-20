@@ -5351,6 +5351,10 @@
     "title": "《抱孙》",
     "url": "/wiki/entities/baosun/"
   },
+  "BaoYanHuiwangShu": {
+    "title": "《报燕惠王书》 / Letter in Reply to King Hui of Yan",
+    "url": "/wiki/entities/baoyanhuiwangshu/"
+  },
   "BaofengYingyin": {
     "title": "暴风影音 / Baofeng Yingyin",
     "url": "/wiki/entities/baofengyingyin/"
@@ -23219,6 +23223,10 @@
     "title": "乐视体育 / LeSports",
     "url": "/wiki/entities/lesports/"
   },
+  "LeXian": {
+    "title": "乐贤 / Le Xian",
+    "url": "/wiki/entities/lexian/"
+  },
   "LeYang": {
     "title": "乐羊 / Le Yang",
     "url": "/wiki/entities/leyang/"
@@ -24578,6 +24586,10 @@
   "LowStatusSyndrome": {
     "title": "Low-Status Syndrome / 低地位综合症",
     "url": "/wiki/concepts/lowstatussyndrome/"
+  },
+  "LoyalMinisterExitEthic": {
+    "title": "Loyal Minister Exit Ethic / 忠臣去国的退场伦理",
+    "url": "/wiki/concepts/loyalministerexitethic/"
   },
   "LoyaltyBeyondContract": {
     "title": "Loyalty Beyond Contract",
@@ -42983,6 +42995,10 @@
     "title": "吾之才 / Wu Zhicai",
     "url": "/wiki/entities/wuzhicai/"
   },
+  "WuZixu": {
+    "title": "伍子胥 / Wu Zixu",
+    "url": "/wiki/entities/wuzixu/"
+  },
   "WudaiAdoptiveSonSystem": {
     "title": "五代义子假子制度 / Five Dynasties Adoptive-Son System",
     "url": "/wiki/concepts/wudaiadoptivesonsystem/"
@@ -45026,6 +45042,10 @@
   "Zhuangzi": {
     "title": "庄子",
     "url": "/wiki/entities/zhuangzi/"
+  },
+  "ZhugeLiang": {
+    "title": "诸葛亮 / Zhuge Liang",
+    "url": "/wiki/entities/zhugeliang/"
   },
   "Zhuhai": {
     "title": "Zhuhai / 珠海",
@@ -48402,5 +48422,9 @@
   "zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p": {
     "title": "《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p/"
+  },
+  "zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0": {
+    "title": "《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0/"
   }
 }

@@ -2,7 +2,7 @@
 title: "乐毅 / Le Yi"
 type: entity
 tags: [person, general, yan-state, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,10 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 
 [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] mostly shows Le Yi through absence. After he flees to [[ZhaoState|赵国]], replacement commander [[QiJie|骑劫]] reverses the occupation posture and Yan collapses under Tian Dan's counterattack. The source says [[YanHuiwang|燕惠王]] later regrets the decision and worries that [[ZhaoHe|赵惠文王赵何]] may use Le Yi against Yan, setting up the next episode's letter exchange.
 
+[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] makes that letter exchange the center. [[YanHuiwang|燕惠王]] writes to shift blame and test whether Le Yi might become a Zhao weapon against Yan. Le Yi answers in [[BaoYanHuiwangShu|《报燕惠王书》]] by citing [[WuZixu|伍子胥]] as a warning that a minister must distinguish a broad old patron from a suspicious successor. The episode reads his response as [[LoyalMinisterExitEthic|loyal exit ethics]]: he refuses to return to danger, refuses to denounce Yan Zhaowang's favor, and refuses to use [[ZhaoHe|赵惠文王赵何]]'s trust to attack [[YanState|燕国]].
+
+The same source adds two biographical edges. It says Le Yi had once served [[ZhaoWulingwang|赵武灵王]] and left Zhao after the [[ShaqiuCrisis|Shaqiu crisis]], making his later return to Zhao part of [[WarringStatesCareeristMobility|Warring States careerist mobility]] rather than a simple defection. It also records the post-letter settlement: [[LeXian|乐贤]] inherits the Changguo Jun title in Yan, Le Yi is enfeoffed at Guanjin with the title Wangzhu Jun in Zhao, and he dies well after achievements that could have made him politically unusable.
+
 ## Connections
 - [[YanZhaowang|燕昭王]] and [[YanState|燕国]] - ruler and receiving state.
 - [[GuoWeiWarringStates|郭隗]] - adviser whose treatment signals Yan's seriousness.
@@ -39,3 +43,4 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 - [[PostCoalitionSpoilsImbalance|联军战后利益失衡]], [[AnchengWarringStates|安城]], and [[Daliang|大梁]] - Zhouji 73 coalition payoff imbalance and Qin's follow-on Wei attack.
 - [[TianDan|田单]], [[YanHuiwang|燕惠王]], [[JimoWarringStates|即墨]], [[OccupationPacificationStrategy|占领区怀柔治理]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 78 final siege, slander, replacement, and Yan morale collapse branch.
 - [[QiJie|骑劫]], [[FireOxNightRaid|火牛阵夜袭]], and [[ZhaoHe|赵惠文王赵何]] - Zhouji 79 consequences of his removal and exile to Zhao.
+- [[BaoYanHuiwangShu|《报燕惠王书》]], [[WuZixu|伍子胥]], [[LeXian|乐贤]], [[LoyalMinisterExitEthic|忠臣去国的退场伦理]], and [[PowerExitTrap|权力退场困境]] - Zhouji 80 letter, warning analogy, family-title settlement, and successful high-merit exit.

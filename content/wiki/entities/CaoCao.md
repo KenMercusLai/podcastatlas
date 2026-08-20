@@ -2,8 +2,8 @@
 title: "曹操 / Cao Cao"
 type: entity
 tags: [person, ruler, late-han, three-kingdoms, china]
-sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+last_updated: 2026-08-21
 ---
 
 # 曹操 / Cao Cao
@@ -12,8 +12,11 @@ last_updated: 2026-08-19
 
 The host invokes Cao Cao's own self-justifying writing to make the point that withdrawal can be more dangerous than continued control. In this reading, public condemnation and moral pressure do not change the underlying security problem: once a person has reshaped the political field and accumulated enemies, surrendering power can mean surrendering protection.
 
+[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] adds Cao Cao as a reception witness for [[LeYi|乐毅]] rather than as a direct actor. The host says Cao Cao reportedly cried when reading [[BaoYanHuiwangShu|《报燕惠王书》]], making him a later reader who recognizes the political and emotional force of Le Yi's restrained reply to [[YanHuiwang|燕惠王]].
+
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] - Warring States figure compared with him.
 - [[CaoPi|曹丕]] - son whose later control over the Han court becomes the sequel in the episode's analogy.
 - [[EmperorXianOfHan|汉献帝]] - emperor who later abdicates to Cao Pi.
 - [[PowerExitTrap|权力退场困境]] and [[GoodIntentionsPoliticalLimits]] - conceptual frames for power, exit, and political realism.
+- [[LeYi|乐毅]], [[BaoYanHuiwangShu|《报燕惠王书》]], and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 reception branch for Le Yi's letter.

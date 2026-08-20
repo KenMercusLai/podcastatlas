@@ -2,8 +2,8 @@
 title: "Power Exit Trap / 权力退场困境"
 type: concept
 tags: [politics, statecraft, reform, power, risk]
-sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+last_updated: 2026-08-21
 ---
 
 # Power Exit Trap / 权力退场困境
@@ -21,6 +21,8 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] supplies a contrasting successful exit pattern through Zhang Yi. He also loses his main Qin protection after a ruler's death, but instead of simply resigning, he asks [[QinWuwang|秦武王]] to send him to Wei as a useful Qin strategy. The case shows that one way around an exit trap is to make departure valuable to the successor before the actor becomes completely exposed.
 
 [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds a post-victory version through [[FanLi|范蠡]] and [[WenZhongYue|文种]]. After [[Goujian|越王勾践]] destroys [[WuState|吴国]], Fan Li leaves and warns Wen Zhong that useful ministers can be put away once the ruler's enemy is gone. Wen Zhong's later forced suicide shows a different exit trap: the danger comes not from failed reform but from remaining too close to a victorious ruler whose humiliation the minister has witnessed.
+
+[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] adds [[LeYi|乐毅]] as a successful contrast case. Le Yi's merit in Yan is large enough to frighten [[YanHuiwang|燕惠王]], but he avoids the worst exit trap by refusing both return to danger and revenge from [[ZhaoState|赵国]]. His use of [[WuZixu|伍子胥]] in [[BaoYanHuiwangShu|《报燕惠王书》]] shows the negative precedent: a minister who re-enters or remains under a suspicious successor may be destroyed even after loyal service.
 
 [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] adds a ruler-level variant through [[ZhaoWulingwang|赵武灵王]]. He does not fail to leave power; he leaves the throne too creatively. By making ten-year-old [[ZhaoHe|赵何]] ruler, naming himself主父, and keeping his attention on military expansion and Qin reconnaissance, Zhao Wuling Wang splits civil rule from military ambition. The episode suggests that this partial exit helps him pursue large strategy while also setting up the succession disaster later associated with Shaqiu.
 
@@ -40,6 +42,7 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - Exit plans decay in value when they are offered after resentment has become structurally organized.
 - A successful exit can require making departure useful to the successor, not merely leaving the dangerous court.
 - A ruler's completed revenge can end a minister's usefulness and expose anyone who knows the ruler's earlier humiliation.
+- A threatened minister can sometimes escape an exit trap by preserving old loyalty while declining both unsafe return and retaliatory service for a new patron.
 - A ruler can create a power-exit trap by leaving the formal throne while retaining enough independent authority to keep succession and command unresolved.
 - Partial abdication can turn foreign-policy emergencies into decision paralysis when officials cannot tell which center of power will bear responsibility.
 - A partial exit can decay into a re-entry attempt when the old ruler sees the successor's court becoming the real center of loyalty.
@@ -53,6 +56,7 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[LegalistSelfBindingBackfire|作法自毙]], [[GoodIntentionsPoliticalLimits]], and [[MachiavellianRealism]] - adjacent concepts about social support, power, law, and political realism.
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[ZhangYiStrategist|张仪]], and [[QinWuwang|秦武王]] - contrasting Zhouji 55 case where a threatened minister makes departure useful to the successor.
 - [[FanLi|范蠡]], [[WenZhongYue|文种]], [[Goujian|越王勾践]], and [[WuState|吴国]] - Zhouji 57 post-victory exit-risk branch.
+- [[LeYi|乐毅]], [[YanHuiwang|燕惠王]], [[ZhaoState|赵国]], [[BaoYanHuiwangShu|《报燕惠王书》]], [[WuZixu|伍子胥]], and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 successful ministerial exit and warning precedent.
 - [[ZhaoWulingwang|赵武灵王]], [[ZhaoHe|赵何]], [[FeiYi|肥义]], and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 61 ruler-level partial-exit and succession branch.
 - [[ChuHuaiwang|楚怀王]], [[ZhaoState|赵国]], and [[Loufan|楼烦]] - Zhouji 65 emergency refusal during Zhao Wuling Wang's absence and continuing frontier program.
 - [[LiDui|李兑]], [[TianBuli|田不李]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 internal hardening and lethal conclusion of the Zhao partial-exit trap.

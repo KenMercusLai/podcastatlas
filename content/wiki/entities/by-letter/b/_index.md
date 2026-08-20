@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6181
+wiki_total_pages: 6185
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "BaMaGua"
     title: "《扒马褂》"
     url: "/wiki/entities/bamagua/"
+  - key: "BaoYanHuiwangShu"
+    title: "《报燕惠王书》 / Letter in Reply to King Hui of Yan"
+    url: "/wiki/entities/baoyanhuiwangshu/"
   - key: "BaoSun"
     title: "《抱孙》"
     url: "/wiki/entities/baosun/"

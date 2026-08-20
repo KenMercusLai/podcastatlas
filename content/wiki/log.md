@@ -8743,3 +8743,11 @@ Added source page for a 芮淇讲透资治通鉴 episode completing Tian Dan's J
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Le Yi's post-exile reply to Yan Huiwang, Wu Zixu as warning, refusal to attack Yan from Zhao, Le Xian's title inheritance, and Tian Dan's coming post-victory risk under Qi Xiang Wang. Created pages for Bao Yan Huiwang Shu, Wu Zixu, Le Xian, Zhuge Liang, and Loyal Minister Exit Ethic; updated overview, index, Le Yi, Yan Huiwang, Zhao He, Tian Dan, Qi Xiang Wang, Yan/Zhao/Qi state pages, Zhao Wuling Wang, Cao Cao, Fuchai, Wu State, Power Exit Trap, Patron Succession Exposure, and Warring States Careerist Mobility. No direct contradiction found; noisy transcript renderings were normalized to existing wiki entities, and Guanjin/观津 was kept source-scoped rather than split into a place page.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

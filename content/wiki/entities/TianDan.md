@@ -2,7 +2,7 @@
 title: "田单 / Tian Dan"
 type: entity
 tags: [person, qi-state, general, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ He then moves from morale to deception. Tian Dan makes Jimo appear ready to surr
 
 After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringStates|莒城]] back to [[Linzi|临淄]] and is enfeoffed as Anping Jun. The page therefore now tracks him from low-status local official, to information operator, to restoration general.
 
+[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] uses Tian Dan as the closing contrast to [[LeYi|乐毅]]. Tian Dan's victory gives him the chancellorship of restored Qi, but the source says [[QiXiangWang|齐襄王]] lacks [[YanZhaowang|燕昭王]]'s breadth and is surrounded by nine flattering ministers. The episode therefore reframes Tian Dan's success as the opening of a post-victory survival problem.
+
 ## Connections
 - [[QiState|齐国]] and [[Linzi|临淄]] - state and origin context.
 - [[JimoWarringStates|即墨]] - city that chooses him as commander after the local official dies.
@@ -29,3 +31,4 @@ After the victory, Tian Dan escorts [[QiXiangWang|齐襄王]] from [[JuWarringSt
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - broader setting where local survival and confidence decide whether Qi can recover.
 - [[AtrocityBackfireMobilization|暴行反噬式动员]], [[DeceptiveSurrenderLull|诈降麻痹]], and [[FireOxNightRaid|火牛阵夜袭]] - Zhouji 79 morale, deception, and breakout sequence.
 - [[QiXiangWang|齐襄王]] - restored ruler Tian Dan brings back to Linzi after the counterattack.
+- [[LeYi|乐毅]], [[LoyalMinisterExitEthic|忠臣去国的退场伦理]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - Zhouji 80 contrast between Le Yi's successful exit and Tian Dan's coming exposure after high merit.

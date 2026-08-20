@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 4833
+wiki_total_pages: 4834
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "LowStatusSyndrome"
     title: "Low-Status Syndrome / 低地位综合症"
     url: "/wiki/concepts/lowstatussyndrome/"
+  - key: "LoyalMinisterExitEthic"
+    title: "Loyal Minister Exit Ethic / 忠臣去国的退场伦理"
+    url: "/wiki/concepts/loyalministerexitethic/"
   - key: "LoyaltyBeyondContract"
     title: "Loyalty Beyond Contract"
     url: "/wiki/concepts/loyaltybeyondcontract/"

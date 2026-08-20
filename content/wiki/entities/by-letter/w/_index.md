@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6181
+wiki_total_pages: 6185
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "WuGeGeGeDouChongWo"
     title: "五个哥哥都宠我"
     url: "/wiki/entities/wugegegedouchongwo/"
+  - key: "WuZixu"
+    title: "伍子胥 / Wu Zixu"
+    url: "/wiki/entities/wuzixu/"
   - key: "WuYueSanlian"
     title: "伍玥 / Wu Yue (Sanlian)"
     url: "/wiki/entities/wuyuesanlian/"

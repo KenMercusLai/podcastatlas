@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？](sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0.md) — 芮淇讲透资治通鉴 episode on Le Yi's reply to Yan Huiwang, Wu Zixu as warning, refusal to attack Yan from Zhao, Le Xian's title inheritance, and Tian Dan's coming post-victory danger under Qi Xiang Wang.
 - [《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人](sources/zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p.md) — 芮淇讲透资治通鉴 episode on Tian Dan's fire-ox counterattack at Jimo, Qi Jie's atrocity backfire, false surrender and bribery, Qi Xiang Wang's return to Linzi, and the Jun Wang Hou/Taishi Jiao marriage-ritual conflict.
 - [《资治通鉴·周纪》78丨齐国命运竟被城管给救了？](sources/zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug.md) — 芮淇讲透资治通鉴 episode on Tian Dan's rise at Jimo, Le Yi's pacification strategy around Ju and Jimo, Yan Zhaowang's trust in Le Yi, and Yan Huiwang's replacement of Le Yi after Tian Dan's rumor wedge.
 - [《资治通鉴·周纪》77丨廉颇与蔺相如 史上最著名的一对“好基友”](sources/zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb.md) — 芮淇讲透资治通鉴 episode on Qin's 280-279 BCE pressure against Zhao and Chu, the Mianchi meeting where Lin Xiangru prevents Zhao humiliation, and the Lian Po-Lin Xiangru reconciliation that turns private rank conflict into state-security unity.
@@ -1094,6 +1095,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
+- [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
+- [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
+- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Later strategist used by the episode title as a reception marker for Le Yi's commander reputation.
 - [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned Jimo commander who uses rumor, atrocity backfire, false surrender, and the fire-ox raid to restore Qi.
 - [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose removal of Le Yi leads to Qi Jie's failure and the collapse of Yan's Qi occupation.
 - [骑劫 / Qi Jie](entities/QiJie.md) — Yan replacement general whose harsh occupation acts harden Jimo resistance before he is killed in the fire-ox raid.
@@ -7279,6 +7284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Loyal Minister Exit Ethic / 忠臣去国的退场伦理](concepts/LoyalMinisterExitEthic.md) — Le Yi's model of leaving a dangerous old court without slandering the old patron or turning new patronage into revenge.
 - [Fire-Ox Night Raid / 火牛阵夜袭](concepts/FireOxNightRaid.md) — Tian Dan's Jimo tactic combining cattle, fire, blades, night attack, false surrender, and prior psychological setup to break Yan.
 - [Atrocity Backfire Mobilization / 暴行反噬式动员](concepts/AtrocityBackfireMobilization.md) — Pattern where enemy cruelty meant to frighten defenders instead makes surrender intolerable and hardens resistance.
 - [Deceptive Surrender Lull / 诈降麻痹](concepts/DeceptiveSurrenderLull.md) — False-surrender setup that makes a besieging army relax before a prepared surprise attack.
