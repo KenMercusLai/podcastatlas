@@ -4487,6 +4487,10 @@
     "title": "Arin Dube / Arindrajit Dube",
     "url": "/wiki/entities/arindube/"
   },
+  "AristocraticFriendshipStateConflict": {
+    "title": "Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突",
+    "url": "/wiki/concepts/aristocraticfriendshipstateconflict/"
+  },
   "AristocraticHonorOverLife": {
     "title": "Aristocratic Honor Over Life / 贵族名誉高于生命",
     "url": "/wiki/concepts/aristocratichonoroverlife/"
@@ -19010,6 +19014,10 @@
   "HouChao": {
     "title": "侯超 / Hou Chao",
     "url": "/wiki/entities/houchao/"
+  },
+  "HouYing": {
+    "title": "侯嬴 / Hou Ying",
+    "url": "/wiki/entities/houying/"
   },
   "HourglassClimate": {
     "title": "Hourglass Climate",
@@ -48942,5 +48950,9 @@
   "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx": {
     "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx/"
+  },
+  "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi": {
+    "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi/"
   }
 }

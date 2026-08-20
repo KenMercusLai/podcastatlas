@@ -2,7 +2,7 @@
 title: "Aristocratic Honor Over Life / 贵族名誉高于生命"
 type: concept
 tags: [honor, pre-qin-history, ethics, political-violence]
-sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 
 [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds [[WangZhu|王蠋]] as a related but distinct loyal-minister case. Wang Zhu does not die for a patron's recognition or a family-name problem; he dies because serving [[YanState|燕国]] after [[QiState|齐国]]'s collapse would violate his loyal-minister principle, while refusal under threat could endanger his city. The case therefore connects honor-over-life to [[LoyaltyCollateralDilemma|忠义牵连困境]] without collapsing the two concepts.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]] adds [[WeiQiWarringStates|魏齐]] as a late-Warring-States honor-volatility case. Wei Qi is already fleeing for his life, but when he hears that [[Xinlingjun|信陵君]] initially hesitated to receive him and [[YuQing|虞卿]], he treats the hesitation as unbearable humiliation and kills himself. The episode presents the death as a sudden "one thought" collapse where reputation pain overwhelms survival.
+
 ## Key Claims
 - Public name can matter as much as physical survival in aristocratic honor narratives.
 - Family protection and family reputation can pull in opposite directions.
@@ -30,6 +32,7 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 - Honor-over-life logic can also become honor-over-other-people's-lives logic when retainers answer insult with retaliatory killing.
 - Historical explanation does not equal moral approval; the episode uses the Zhao massacre to separate period values from present-day judgment.
 - Wang Zhu adds a loyal-minister variant where death avoids both enemy service and making local people carry the cost of refusal.
+- Wei Qi adds a fugitive-honor variant where even delayed recognition by a potential host can feel worse than death.
 
 ## Connections
 - [[NieZheng|聂政]] and [[NieYing|聂英]] - central source case.
@@ -37,6 +40,7 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 - [[Mengchangjun|孟尝君 / 田文]] and [[WarringStatesRetainerPatronage|战国养士]] - patronage branch where士人 dignity becomes both recruitment mechanism and volatility risk.
 - [[Pingyuanjun|平原君]] and [[ZhaoState|赵国]] - Zhouji 43 visit setting where body-shaming ridicule escalates into retainer violence.
 - [[WangZhu|王蠋]], [[QiState|齐国]], [[YanState|燕国]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 loyal-minister death under coercive recruitment.
+- [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[Xinlingjun|信陵君]], and [[HouYing|侯嬴]] - Zhouji 95 part 3 fugitive honor and fatal reception-delay branch.
 - [[YanZhongzi|严仲子]] and [[XiaLei|侠累]] - revenge commission and target.
 - [[PoliticalAssassinationEthics]] - adjacent moral-political frame.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - broader early Warring States violence transition.

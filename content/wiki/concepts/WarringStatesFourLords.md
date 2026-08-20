@@ -2,7 +2,7 @@
 title: "战国四公子 / Warring States Four Lords"
 type: concept
 tags: [patronage, talent, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ The concept matters because it turns individual patronage anecdotes into a compa
 
 [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] adds the first developed Chunshenjun comparison. The host distinguishes [[Chunshenjun|黄歇 / 春申君]] from the other lords by emphasizing his concrete service: he persuades Qin to spare Chu, accompanies [[MiWan|芈完 / 楚考烈王]] as hostage, risks his own life to cover Mi Wan's escape, and is rewarded after Mi Wan succeeds. In this telling, Chunshenjun's status comes less from inherited proximity alone than from merit converted into personal trust.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]] adds a paired test for Pingyuanjun and Xinlingjun. Pingyuanjun honors the friend-protection code by refusing to betray [[WeiQiWarringStates|魏齐]], but he is also trapped by Qin's invitation. [[Xinlingjun|信陵君]] ultimately receives [[YuQing|虞卿]] and Wei Qi after [[HouYing|侯嬴]]'s argument, but his initial hesitation is enough to damage Wei Qi's honor. The Four Lords comparison now includes dangerous hospitality, not only talent-gathering or service.
+
 ## Key Claims
 - The Four Lords are a reputation set organized around aristocratic retainer patronage.
 - The grouping should not automatically imply equal virtue, talent judgment, or political value across all four figures.
@@ -28,6 +30,7 @@ The concept matters because it turns individual patronage anecdotes into a compa
 - Pingyuanjun's first developed case adds a second test: a patron must distinguish reasoned debate from [[MingjiaDisputation|名辩]] used as verbal domination.
 - Zhouji 86 adds a fiscal-state test: aristocratic patrons cannot make private retainer costs and household privilege exempt from state taxation without weakening the polity that supports them.
 - Zhouji 92 part 2 adds a merit-and-trust test: a Four Lords reputation can be built from risky service to a future ruler, not only from aristocratic birth or spending on retainers.
+- Zhouji 95 part 3 adds a hospitality-under-pressure test: a lord's reputation depends on whether he can protect dangerous friends and guests when a stronger state weaponizes that protection.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[Xinlingjun|信陵君]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - the four named patrons.
@@ -37,3 +40,4 @@ The concept matters because it turns individual patronage anecdotes into a compa
 - [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 Pingyuanjun retainer-debate test.
 - [[ZhaoShe|赵奢]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 Pingyuanjun tax-compliance test.
 - [[MiWan|芈完 / 楚考烈王]], [[HostageDiplomacyRupture|质子外交破裂]], and [[FanJu|范雎]] - Zhouji 92 part 2 Chunshenjun rise from hostage-court risk.
+- [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 Pingyuanjun/Xinlingjun hospitality test.

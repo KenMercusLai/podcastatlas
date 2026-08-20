@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 4873
+wiki_total_pages: 4874
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1433,6 +1433,9 @@ wiki_pages:
   - key: "ArchivePreservationBias"
     title: "Archive Preservation Bias / 档案保存偏差"
     url: "/wiki/concepts/archivepreservationbias/"
+  - key: "AristocraticFriendshipStateConflict"
+    title: "Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突"
+    url: "/wiki/concepts/aristocraticfriendshipstateconflict/"
   - key: "AristocraticHonorOverLife"
     title: "Aristocratic Honor Over Life / 贵族名誉高于生命"
     url: "/wiki/concepts/aristocratichonoroverlife/"

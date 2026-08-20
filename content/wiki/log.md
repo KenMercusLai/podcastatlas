@@ -8955,3 +8955,11 @@ Added source page for the second post-Changping "why Qin did not destroy Zhao" i
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint without saving `wiki/lint-report.md`. Health passed first; lint scanned 12236 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11649 nodes and 129324 edges, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model (`claude-3-5-sonnet-latest`) is not provider-qualified in the environment.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）
+
+Added source page for the third post-Changping installment: Kong Bin's withdrawal diagnosis, Qin Zhaoxiang Wang's detention of Pingyuanjun, Fan Ju's demand for Wei Qi's head, Zhao Dan's hunt for Wei Qi, Yu Qing's resignation and flight with Wei Qi, Hou Ying's advice to Xinlingjun, Wei Qi's suicide, and the continued Wang Ling attack on Handan. Created Hou Ying and Aristocratic Friendship vs State Order; updated overview, index, Changping, Qin/Zhao state pages, Fan Ju, Zhao Dan, Qin Zhaoxiang Wang, Pingyuanjun, Xinlingjun, Yu Qing, Kong Bin, Wei Qi, Warring States Four Lords, Warring States Retainer Patronage, Aristocratic Political Asylum, Personal Revenge Through State Power, and Aristocratic Honor Over Life. No direct contradiction found; the Shiji supplement to Pingyuanjun's Qin trip and Bai Qi's illness are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

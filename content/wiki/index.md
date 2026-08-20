@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi.md) — 芮淇讲透资治通鉴 episode on Pingyuanjun's detention in Qin, Fan Ju's demand for Wei Qi's head, Yu Qing's resignation to help Wei Qi flee, Xinlingjun and Hou Ying's reception test, and the clash between noble friendship, revenge, state law, and Zhao's survival.
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（2）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx.md) — 芮淇讲透资治通鉴 episode on Zhao's post-Changping land-cession debate, Yu Qing's Qi-alignment proposal, doubts about hezong reliability, and Kong Bin's warning against Wei's opportunistic reading of Zhao's disaster.
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（1）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1.md) — 芮淇讲透资治通鉴 episode on why Qin did not immediately destroy Zhao after Changping, linking Qin exhaustion, Bai Qi's terror signaling, Su Dai's lobbying of Fan Ju, and the land-for-peace pause.
 - [《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）](sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9.md) — 芮淇讲透资治通鉴 episode on Zhao Kuo's failed Changping breakout and death, Bai Qi's killing of surrendered Zhao troops, Qin's post-victory exhaustion, and Sunzi's war-cost frame.
@@ -1120,6 +1121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [侯嬴 / Hou Ying](entities/HouYing.md) — Xinlingjun adviser who argues that Yu Qing's abandoned office and friend-protection make receiving Wei Qi a test of aristocratic reputation.
 - [孔斌 / Kong Bin](entities/KongBin.md) — Wei minister who warned after Changping that Qin's attack on Zhao was a structural threat to all neighboring states, not a free opportunity for Wei.
 - [司马梗 / Sima Geng](entities/SimaGeng.md) — Qin commander assigned to the Taiyuan-Shangdang route in the post-Changping pressure on Zhao.
 - [赵郝 / Zhao Hao](entities/ZhaoHao.md) — Zhao minister left in Qin to negotiate territorial-transfer details after Zhao Xiaocheng Wang's release.
@@ -7374,6 +7376,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突](concepts/AristocraticFriendshipStateConflict.md) — Conflict where noble friendship and guest protection collide with revenge, ruler command, state law, and national survival.
 - [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence, monuments, and released survivors are used to damage the defeated state's will to resist.
 - [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Su Dai pattern of redirecting policy by turning Bai Qi's possible victory into Fan Ju's personal rank threat.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.

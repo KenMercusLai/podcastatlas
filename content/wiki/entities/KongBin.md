@@ -2,7 +2,7 @@
 title: "孔斌 / Kong Bin"
 type: entity
 tags: [person, adviser, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]
 last_updated: 2026-08-21
 ---
 
@@ -14,9 +14,12 @@ Kong Bin rejects that logic. He argues that Qin has been hard to stop since [[Qi
 
 The episode's metaphor gives Kong Bin an interpretive role beyond Wei court politics. Like swallows under a burning roof, Wei's ministers see their immediate perch but not the structural fire. In the host's reading, that fire is Qin's post-[[ShangYangReforms|商鞅变法]] war machine: [[FarmingWarStatecraft|耕战逻辑]] gives Qin continuing incentives to seek battle, reward, and territory.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]] returns Kong Bin as a withdrawal case. Although [[WeiAnxiWang|魏安釐王]] had ceremonially hired him, Kong Bin resigns and does not simply move to another state in the ordinary [[WarringStatesCareeristMobility|Warring States careerist]] pattern. His "deadly illness with no good doctor" line diagnoses a whole interstate order: Qin is ready to annex, the eastern states are weakening, and there is no healthy court for a capable adviser to cure.
+
 ## Connections
 - [[WeiAnxiWang|魏安釐王]] and [[WeiState|魏国]] - ruler and court setting for Kong Bin's warning.
 - [[QinState|秦国]], [[ZhaoState|赵国]], and [[ChangpingBattle|长平之战]] - interstate crisis he interprets.
 - [[BaiQi|白起]] and [[QinXiaogong|秦孝公]] - Qin military and reform lineage invoked by the warning.
 - [[HezongAlliance|合纵]] and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - alliance problem exposed by Wei's short-term thinking.
 - [[FarmingWarStatecraft|耕战逻辑]] and [[QinEastwardPressure|秦国东进压力]] - Qin's structural expansion logic behind the warning.
+- [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 95 part 3 contrast between normal interstate mobility and Kong Bin's refusal to keep circulating.

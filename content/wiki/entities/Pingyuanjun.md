@@ -2,7 +2,7 @@
 title: "平原君 / Lord Pingyuan"
 type: entity
 tags: [person, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
+sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ That small hosting role matters because the insult triggers a disproportionate r
 
 [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] gives Pingyuanjun a sharper interstate-risk role. After [[FanJu|范雎]] demands [[WeiQiWarringStates|魏齐]]'s head from [[WeiState|魏国]], Wei Qi flees to Pingyuanjun's house in Zhao. The timing makes the refuge politically heavy: [[ZhaoHe|赵惠文王赵何]] has just died, [[ZhaoDan|赵孝成王]] has just succeeded, and Pingyuanjun is both a senior minister and the new ruler's uncle.
 
+[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]] turns that asylum risk into direct coercion. [[QinZhaoxiangwang|秦昭襄王]] invites Pingyuanjun to Qin under the language of private friendship, then detains him and demands Wei Qi's head. Pingyuanjun refuses to betray Wei Qi as a friend, but his detention gives Qin leverage over Zhao and pushes Zhao Dan into hunting Wei Qi inside Zhao.
+
+The episode therefore adds a second negative test to Pingyuanjun's Four Lords reputation. He shows personal loyalty once trapped, but he also misreads or cannot refuse Qin's invitation, allowing Qin to convert elite sociability into a hostage problem. His return is bought by Wei Qi's head rather than by a repaired Qin-Zhao peace.
+
 [[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] turns that refuge background into one explanation for Qin's attack on Zhao. Pingyuanjun is not the central speaker in this episode, but his protection of Wei Qi remains part of the pressure that forces [[ZhaoWeihou|赵威后]] to seek [[QiState|齐国]] aid and face the [[ChangAnJunZhao|长安君]] hostage demand.
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok]] brings Pingyuanjun back as one of the royal uncles whom [[ZhaoDan|赵丹 / 赵孝成王]] consults when [[FengTing|冯亭]] offers [[Shangdang|上党]] to Zhao. The source develops [[ZhaoBao|赵豹 / 平阳君]]'s rejection argument more than Pingyuanjun's own position, so Pingyuanjun's role here is chiefly as senior advisory context for the court's [[WindfallDecisionTrap|windfall decision]].
@@ -34,6 +38,7 @@ That small hosting role matters because the insult triggers a disproportionate r
 - [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 retainer-debate and argument-purpose branch.
 - [[ZhaoShe|赵奢]], [[ZhaoHe|赵惠文王赵何]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 tax enforcement, persuasion, and recommendation branch.
 - [[WeiQiWarringStates|魏齐]], [[FanJu|范雎]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - Zhouji 90 refuge decision with state-level risk.
+- [[QinZhaoxiangwang|秦昭襄王]], [[YuQing|虞卿]], [[PersonalRevengeThroughStatePower|以国力行私仇]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 detention, refusal to betray a friend, and exchanged release.
 - [[ZhaoWeihou|赵威后]], [[QiState|齐国]], [[ChangAnJunZhao|长安君]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 91 crisis that follows the refuge problem.
 - [[FengTing|冯亭]], [[Shangdang|上党]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 Zhao court consultation over the Shangdang offer.
 - [[SimaQian|司马迁]] and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 attribution of responsibility for accepting Shangdang.
