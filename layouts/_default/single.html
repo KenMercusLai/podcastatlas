@@ -25,24 +25,34 @@
       </div>
     </article>
   {{ else }}
+    {{ $episodePresentation := partial "episode-presentation.html" . }}
+    {{ $sourceNotePage := partial "episode-source-note-page.html" . }}
     <article>
       <h1>{{ .Title }}</h1>
-      <div class="meta">
+      {{ with index $episodePresentation "subtitle" }}
+        <p class="episode-subtitle">{{ . }}</p>
+      {{ end }}
+      <div class="meta episode-meta-primary">
         <span>Episode guide</span>
-        {{ partial "episode-publication-date.html" . }}
+        <span>Published {{ partial "episode-publication-date.html" . }}</span>
         {{ with .GetTerms "show" }}
-          <span> · Show:
+          <span>
             {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
           </span>
         {{ else }}
-          {{ with .Params.show }}<span> · Show: {{ . }}</span>{{ end }}
+          {{ with .Params.show }}<span>{{ . }}</span>{{ end }}
         {{ end }}
-        {{ with .Params.duration }}<span> · {{ . }}s</span>{{ end }}
-        {{ with .Params.source_url }}<span> · <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Original audio</a></span>{{ end }}
-        {{ partial "episode-source-note-link.html" . }}
+        {{ if .Params.duration }}<span>{{ partial "episode-duration.html" .Params.duration }}</span>{{ end }}
       </div>
+      {{ if or .Params.source_url $sourceNotePage }}
+        <div class="episode-actions">
+          {{ with .Params.source_url }}<span><a href="{{ . }}" target="_blank" rel="noopener noreferrer">Original audio</a></span>{{ end }}
+          {{ partial "episode-source-note-link.html" $sourceNotePage }}
+        </div>
+      {{ end }}
       <div class="content">
-        {{ .Content }}
+        {{/* This is Hugo-rendered .Content with heading-only transformations. */}}
+        {{ index $episodePresentation "content" | safeHTML }}
       </div>
     </article>
   {{ end }}

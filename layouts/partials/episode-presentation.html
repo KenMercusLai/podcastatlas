@@ -1,0 +1,23 @@
+{{- $page := . -}}
+{{- $subtitle := "" -}}
+{{- $content := $page.Content -}}
+{{- $leadingHeadingPattern := `(?s)^\s*<h1(?:\s[^>]*)?>(.*?)</h1>\s*` -}}
+{{- $headingMatches := findRESubmatch $leadingHeadingPattern $content 1 -}}
+
+{{- if gt (len $headingMatches) 0 -}}
+  {{- $headingMatch := index $headingMatches 0 -}}
+  {{- $renderedHeading := index $headingMatch 1 -}}
+  {{- $subtitle = strings.TrimSpace (htmlUnescape ($renderedHeading | plainify)) -}}
+  {{- $content = replaceRE $leadingHeadingPattern "" $content 1 -}}
+{{- end -}}
+
+{{- /* Episode content must never introduce another document-level heading. */ -}}
+{{- $content = replaceRE `<h1(\s[^>]*)?>` "<h2$1>" $content -}}
+{{- $content = replaceRE `</h1>` "</h2>" $content -}}
+
+{{- $displaySubtitle := "" -}}
+{{- if and $subtitle (ne $subtitle $page.Title) -}}
+  {{- $displaySubtitle = $subtitle -}}
+{{- end -}}
+
+{{- return (dict "subtitle" $displaySubtitle "content" $content) -}}

@@ -42,14 +42,16 @@ class EpisodeSourcePresentationTest(unittest.TestCase):
         self.assertTrue(EPISODE_SOURCE_NOTE_LINK.is_file())
         self.assertTrue(EPISODE_SOURCE_NOTE_PAGE.is_file())
         self.assertTrue(EPISODE_SOURCE_RELATIONS.is_file())
-        self.assertIn('partial "episode-source-note-link.html" .', single)
+        self.assertIn('$sourceNotePage := partial "episode-source-note-page.html" .', single)
+        self.assertIn('partial "episode-source-note-link.html" $sourceNotePage', single)
 
         link = EPISODE_SOURCE_NOTE_LINK.read_text()
         episode_to_source = EPISODE_SOURCE_NOTE_PAGE.read_text()
         source_to_episode = SOURCE_EPISODE_PAGE.read_text()
         relations = EPISODE_SOURCE_RELATIONS.read_text()
 
-        self.assertIn('with partial "episode-source-note-page.html"', link)
+        self.assertIn("with .", link)
+        self.assertNotIn('partial "episode-source-note-page.html"', link)
         self.assertIn('href="{{ .RelPermalink }}"', link)
         self.assertIn(">Source note</a>", link)
         self.assertIn('partialCached "episode-source-relations.html"', episode_to_source)
