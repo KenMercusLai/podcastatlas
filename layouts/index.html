@@ -1,9 +1,310 @@
 {{ define "head_extra" }}
-  <link rel="canonical" href="{{ "episodes/" | absURL }}">
-  <meta http-equiv="refresh" content="0; url={{ "episodes/" | relURL }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "pagefind/pagefind-component-ui.css" | relURL }}">
+  <script type="module" src="{{ "pagefind/pagefind-component-ui.js" | relURL }}"></script>
+  <style>
+    .home-hero {
+      padding: clamp(18px, 4vw, 42px) 0 8px;
+    }
+
+    .home-kicker {
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .home-tagline {
+      max-width: 720px;
+      margin: 0 0 26px;
+      color: var(--muted);
+      font-size: clamp(1.05rem, 2.4vw, 1.3rem);
+    }
+
+    .home-search {
+      max-width: 720px;
+    }
+
+    .home-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 18px;
+      margin-top: 18px;
+    }
+
+    .home-section {
+      margin-top: clamp(44px, 7vw, 72px);
+      padding-top: 24px;
+      border-top: 1px solid var(--line);
+    }
+
+    .home-section-heading {
+      margin: 0 0 8px;
+      font-size: clamp(1.35rem, 3vw, 1.75rem);
+    }
+
+    .home-section-intro {
+      max-width: 680px;
+      margin: 0 0 22px;
+      color: var(--muted);
+    }
+
+    .home-feature-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .home-discovery-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .home-latest-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .home-stat-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .home-feature {
+      padding: 22px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .home-feature h3 {
+      margin: 6px 0 8px;
+      font-size: 1.15rem;
+    }
+
+    .home-feature p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .home-episode-card {
+      padding: 20px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .home-episode-card h3 {
+      margin: 6px 0 8px;
+      font-size: 1.08rem;
+      line-height: 1.35;
+    }
+
+    .home-episode-card p {
+      margin: 10px 0 0;
+      color: var(--muted);
+    }
+
+    .home-discovery-grid .home-feature p,
+    .home-episode-card p {
+      display: -webkit-box;
+      overflow: hidden;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 5;
+    }
+
+    .home-episode-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 12px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .home-stat {
+      display: block;
+      padding: 18px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      text-decoration: none;
+    }
+
+    .home-stat strong,
+    .home-stat span {
+      display: block;
+    }
+
+    .home-stat span {
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .home-label {
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    @media (max-width: 640px) {
+      .home-feature-grid,
+      .home-discovery-grid,
+      .home-latest-grid,
+      .home-stat-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 {{ end }}
 
 {{ define "main" }}
-  <h1>{{ .Site.Title }}</h1>
-  <p class="lede">Redirecting to <a href="{{ "episodes/" | relURL }}">Episodes</a>.</p>
+  <section class="home-hero">
+    <p class="home-kicker">Discover knowledge through podcasts</p>
+    <h1>{{ .Site.Title }}</h1>
+    <p class="home-tagline">A living knowledge atlas synthesized from podcasts.</p>
+
+    <div class="home-search" data-pagefind-ignore="all">
+      <pagefind-config bundle-path="{{ "pagefind/" | relURL }}"></pagefind-config>
+      <pagefind-searchbox></pagefind-searchbox>
+    </div>
+
+    <div class="home-actions">
+      <a href="{{ "wiki/" | relURL }}">Explore the Wiki →</a>
+      <a href="{{ "episodes/" | relURL }}">Browse Episodes →</a>
+    </div>
+  </section>
+
+  {{ $currentSynthesis := .Site.GetPage "/wiki-projections/current-synthesis" }}
+  {{ $openQuestions := .Site.GetPage "/wiki-projections/open-questions" }}
+  <section class="home-section" aria-labelledby="current-knowledge-heading">
+    <h2 id="current-knowledge-heading" class="home-section-heading">Current knowledge</h2>
+    <p class="home-section-intro">See what the atlas currently synthesizes across podcast sources—and what remains unresolved.</p>
+    <div class="home-feature-grid">
+      {{ with $currentSynthesis }}
+        <article class="home-feature">
+          <span class="home-label">Living synthesis</span>
+          <h3><a href="{{ .RelPermalink }}">Current Synthesis</a></h3>
+          <p>A continuously updated synthesis of ideas and claims across all processed podcast sources.</p>
+        </article>
+      {{ end }}
+      {{ with $openQuestions }}
+        <article class="home-feature">
+          <span class="home-label">Unresolved</span>
+          <h3><a href="{{ .RelPermalink }}">Open Questions</a></h3>
+          <p>Questions that remain open as new episodes and sources enter the atlas.</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+  {{ $conceptSection := .Site.GetPage "/wiki/concepts" }}
+  {{ $entitySection := .Site.GetPage "/wiki/entities" }}
+  {{ $sourceSection := .Site.GetPage "/wiki/sources" }}
+  {{ $daySeed := div now.UTC.Unix 86400 }}
+  {{ $discoveries := slice }}
+  {{ with $conceptSection }}
+    {{ $pages := .RegularPages.ByTitle }}
+    {{ if gt (len $pages) 0 }}
+      {{ $discoveries = $discoveries | append (dict "label" "Concept" "page" (index $pages (mod $daySeed (len $pages)))) }}
+    {{ end }}
+  {{ end }}
+  {{ with $entitySection }}
+    {{ $pages := .RegularPages.ByTitle }}
+    {{ if gt (len $pages) 0 }}
+      {{ $discoveries = $discoveries | append (dict "label" "Entity" "page" (index $pages (mod (add $daySeed 47) (len $pages)))) }}
+    {{ end }}
+  {{ end }}
+  {{ with $sourceSection }}
+    {{ $pages := .RegularPages.ByTitle }}
+    {{ if gt (len $pages) 0 }}
+      {{ $discoveries = $discoveries | append (dict "label" "Source note" "page" (index $pages (mod (add $daySeed 97) (len $pages)))) }}
+    {{ end }}
+  {{ end }}
+  {{ if $discoveries }}
+    <section class="home-section" aria-labelledby="daily-discoveries-heading">
+      <h2 id="daily-discoveries-heading" class="home-section-heading">Daily discoveries</h2>
+      <p class="home-section-intro">Three paths into the atlas, selected deterministically for today.</p>
+      <div class="home-discovery-grid">
+        {{ range $discoveries }}
+          {{ $page := .page }}
+          <article class="home-feature">
+            <span class="home-label">{{ .label }}</span>
+            <h3><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+            {{ $discoveryContent := partial "wiki-content.html" $page }}
+            {{ $discoveryText := $discoveryContent | plainify | htmlUnescape }}
+            {{ $discoveryText = strings.TrimPrefix $page.Title $discoveryText }}
+            <p>{{ $discoveryText | strings.TrimSpace | truncate 180 }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  {{ $episodes := (where .Site.RegularPages "Section" "episodes").ByDate.Reverse }}
+  {{ $latestEpisodes := first 6 $episodes }}
+  {{ $archivePool := $episodes | after 6 }}
+  {{ $today := now.UTC }}
+  {{ $onThisDay := slice }}
+  {{ range $archivePool }}
+    {{ if and (eq .Date.Month $today.Month) (eq .Date.Day $today.Day) (lt .Date.Year $today.Year) }}
+      {{ $onThisDay = $onThisDay | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $archiveTitle := "On this day" }}
+  {{ $archiveIntro := "Episodes published on this date in previous years." }}
+  {{ $archivePages := first 3 $onThisDay }}
+  {{ if and (eq (len $archivePages) 0) (gt (len $archivePool) 0) }}
+    {{ $archiveTitle = "From the archive" }}
+    {{ $archiveIntro = "Three older episodes resurfaced from across the atlas." }}
+    {{ $archivePages = first 3 $archivePool }}
+    {{ if gt (len $archivePool) 3 }}
+      {{ $windowCount := add (sub (len $archivePool) 3) 1 }}
+      {{ $start := mod $daySeed $windowCount }}
+      {{ $archivePages = first 3 ($archivePool | after $start) }}
+    {{ end }}
+  {{ end }}
+  {{ if $archivePages }}
+    <section class="home-section" aria-labelledby="archive-heading">
+      <h2 id="archive-heading" class="home-section-heading">{{ $archiveTitle }}</h2>
+      <p class="home-section-intro">{{ $archiveIntro }}</p>
+      {{ partial "episode-list.html" (dict "pages" $archivePages "showMeta" true) }}
+    </section>
+  {{ end }}
+
+  {{ if $latestEpisodes }}
+    <section class="home-section" aria-labelledby="latest-episodes-heading">
+      <h2 id="latest-episodes-heading" class="home-section-heading">Latest episodes</h2>
+      <p class="home-section-intro">The most recently published episodes available in Podcast Atlas.</p>
+      <div class="home-latest-grid">
+        {{ range $latestEpisodes }}
+          {{ partial "homepage-episode-card.html" . }}
+        {{ end }}
+      </div>
+      <p><a href="{{ "episodes/" | relURL }}">Browse all episodes →</a></p>
+    </section>
+  {{ end }}
+
+  {{ $showSection := .Site.GetPage "/show" }}
+  <section class="home-section" aria-labelledby="explore-atlas-heading">
+    <h2 id="explore-atlas-heading" class="home-section-heading">Explore the atlas</h2>
+    <p class="home-section-intro">Browse the canonical knowledge collections behind the daily discoveries.</p>
+    <div class="home-stat-grid">
+      {{ with $conceptSection }}
+        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Concepts</strong><span>{{ len .RegularPages }} pages</span></a>
+      {{ end }}
+      {{ with $entitySection }}
+        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Entities</strong><span>{{ len .RegularPages }} pages</span></a>
+      {{ end }}
+      {{ with $sourceSection }}
+        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Sources</strong><span>{{ len .RegularPages }} pages</span></a>
+      {{ end }}
+      {{ with $showSection }}
+        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Shows</strong><span>{{ len .Pages }} shows</span></a>
+      {{ end }}
+    </div>
+  </section>
 {{ end }}

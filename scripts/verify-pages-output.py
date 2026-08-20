@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 
 
 REQUIRED_FILES = (
+    "index.html",
     "index.xml",
     "episodes/index.xml",
     "sitemap.xml",
@@ -37,6 +38,18 @@ def validate(public_dir: Path) -> dict:
     for relative in REQUIRED_FILES:
         if not (public_dir / relative).is_file():
             errors.append(f"missing required file: {relative}")
+
+    homepage = public_dir / "index.html"
+    if homepage.is_file():
+        homepage_html = homepage.read_text(encoding="utf-8")
+        if re.search(
+            r"http-equiv\s*=\s*(?:[\"']\s*refresh\s*[\"']|refresh\b)",
+            homepage_html,
+            re.IGNORECASE,
+        ):
+            errors.append("homepage is still an automatic redirect")
+        if "A living knowledge atlas synthesized from podcasts." not in homepage_html:
+            errors.append("homepage is missing the discovery introduction")
 
     pagefind_dir = public_dir / "pagefind"
     if not list(pagefind_dir.glob("*.pf_meta")):

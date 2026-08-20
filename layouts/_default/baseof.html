@@ -244,7 +244,7 @@
 </head>
 <body>
   <header class="site-header" data-pagefind-ignore="all">
-    <a class="site-title" href="{{ "episodes/" | relURL }}">{{ .Site.Title }}</a>
+    <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
     <nav class="site-nav" aria-label="Primary">
       <a href="{{ "episodes/" | relURL }}">Episodes</a>
       <a href="{{ "shows/" | relURL }}">Shows</a>
