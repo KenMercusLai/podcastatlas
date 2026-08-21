@@ -80,8 +80,17 @@ def validate(public_dir: Path) -> dict:
     episode_html = list((public_dir / "episodes").glob("*/index.html"))
     if not episode_html:
         errors.append("no episode detail HTML found")
-    elif not any(path.with_suffix(".md").is_file() for path in episode_html):
-        errors.append("no episode detail Markdown found")
+    else:
+        for html_path in episode_html:
+            markdown_path = html_path.parent.parent / f"{html_path.parent.name}.md"
+            if not markdown_path.is_file():
+                relative = markdown_path.relative_to(public_dir).as_posix()
+                errors.append(f"missing episode detail Markdown: {relative}")
+
+            nested_markdown_path = html_path.with_suffix(".md")
+            if nested_markdown_path.is_file():
+                relative = nested_markdown_path.relative_to(public_dir).as_posix()
+                errors.append(f"nested episode Markdown URL is forbidden: {relative}")
 
     for relative in ("index.xml", "episodes/index.xml", "sitemap.xml"):
         path = public_dir / relative
