@@ -1,4 +1,5 @@
 import importlib.util
+import json
 from pathlib import Path
 import tempfile
 import unittest
@@ -20,6 +21,29 @@ def write(path, content=""):
     path.write_text(content)
 
 
+def valid_html(url, body=""):
+    payload = json.dumps(
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Example | Podcast Atlas",
+            "url": url,
+            "description": "Example description",
+        }
+    )
+    return (
+        "<html><head>"
+        f'<link rel="canonical" href="{url}">'
+        '<meta name="description" content="Example description">'
+        '<meta property="og:title" content="Example | Podcast Atlas">'
+        f'<meta property="og:url" content="{url}">'
+        '<meta property="og:image" content="https://example.com/social.png">'
+        '<meta name="twitter:card" content="summary_large_image">'
+        f'<script type="application/ld+json">{payload}</script>'
+        f"</head><body>{body}</body></html>"
+    )
+
+
 class VerifyPagesOutputTest(unittest.TestCase):
     def test_accepts_the_expected_site_output(self):
         verifier = load_verifier()
@@ -32,6 +56,12 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "shows/index.html",
                 "wiki/index.html",
                 "search/index.html",
+                "about/index.html",
+                "about/index.md",
+                "methodology/index.html",
+                "methodology/index.md",
+                "robots.txt",
+                "images/podcast-atlas-social.png",
                 "episodes/example/index.html",
                 "episodes/example.md",
                 "episodes/episode.160/index.html",
@@ -47,10 +77,23 @@ class VerifyPagesOutputTest(unittest.TestCase):
             ]
             for relative in expected_paths:
                 write(public / relative, "content")
-            write(
-                public / "index.html",
-                '<h1>Podcast Atlas</h1><p>A living knowledge atlas synthesized from podcasts.</p>',
+            metadata_pages = (
+                "index.html",
+                "episodes/index.html",
+                "tags/index.html",
+                "shows/index.html",
+                "wiki/index.html",
+                "search/index.html",
+                "about/index.html",
+                "methodology/index.html",
+                "episodes/example/index.html",
+                "episodes/episode.160/index.html",
+                "episodes/中文标题/index.html",
             )
+            for relative in metadata_pages:
+                url = f"https://podcastatlas.ai/{relative.removesuffix('index.html')}"
+                body = "A living knowledge atlas synthesized from podcasts." if relative == "index.html" else ""
+                write(public / relative, valid_html(url, body))
             write(public / "index.xml", "<rss />")
             write(public / "episodes/index.xml", "<rss />")
             write(public / "sitemap.xml", "<urlset />")
@@ -59,6 +102,36 @@ class VerifyPagesOutputTest(unittest.TestCase):
 
         self.assertEqual([], report["errors"])
         self.assertEqual(len(expected_paths) + 3, report["file_count"])
+
+    def test_rejects_invalid_json_ld(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "index.html",
+                '<script type=application/ld+json>{"@context":"https://***@type":"WebSite"}</script>',
+            )
+
+            report = verifier.validate(public)
+
+        self.assertTrue(
+            any(error.startswith("invalid JSON-LD in index.html:") for error in report["errors"])
+        )
+
+    def test_requires_trust_pages_robots_and_social_card(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            report = verifier.validate(Path(directory))
+
+        for relative in (
+            "about/index.html",
+            "about/index.md",
+            "methodology/index.html",
+            "methodology/index.md",
+            "robots.txt",
+            "images/podcast-atlas-social.png",
+        ):
+            self.assertIn(f"missing required file: {relative}", report["errors"])
 
     def test_rejects_nested_episode_markdown_output(self):
         verifier = load_verifier()

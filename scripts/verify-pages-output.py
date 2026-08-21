@@ -2,6 +2,7 @@
 
 from pathlib import Path
 import argparse
+import html
 import json
 import re
 import sys
@@ -19,11 +20,76 @@ REQUIRED_FILES = (
     "shows/index.html",
     "wiki/index.html",
     "search/index.html",
+    "about/index.html",
+    "about/index.md",
+    "methodology/index.html",
+    "methodology/index.md",
+    "robots.txt",
+    "images/podcast-atlas-social.png",
     "pagefind/pagefind.js",
     "pagefind/pagefind-component-ui.js",
     "pagefind/pagefind-component-ui.css",
 )
 WIKI_LINK_RE = re.compile(r"\[\[[^\]\n]+\]\]")
+JSON_LD_RE = re.compile(
+    r'<script\b[^>]*\btype=(?:["\']application/ld\+json["\']|application/ld\+json)'
+    r"[^>]*>(.*?)</script>",
+    re.IGNORECASE | re.DOTALL,
+)
+METADATA_PAGE_FILES = (
+    "index.html",
+    "about/index.html",
+    "methodology/index.html",
+    "episodes/index.html",
+    "shows/index.html",
+    "tags/index.html",
+    "wiki/index.html",
+    "search/index.html",
+)
+METADATA_PATTERNS = {
+    "canonical link": re.compile(r'<link\b[^>]*\brel=(?:["\']canonical["\']|canonical)', re.I),
+    "description": re.compile(r'<meta\b[^>]*\bname=(?:["\']description["\']|description)', re.I),
+    "Open Graph title": re.compile(r'<meta\b[^>]*\bproperty=["\']og:title["\']', re.I),
+    "Open Graph URL": re.compile(r'<meta\b[^>]*\bproperty=["\']og:url["\']', re.I),
+    "Open Graph image": re.compile(r'<meta\b[^>]*\bproperty=["\']og:image["\']', re.I),
+    "Twitter card": re.compile(r'<meta\b[^>]*\bname=(?:["\']twitter:card["\']|twitter:card)', re.I),
+}
+
+
+def validate_metadata_page(path: Path, public_dir: Path, errors: list[str]) -> None:
+    relative = path.relative_to(public_dir).as_posix()
+    page_html = path.read_text(encoding="utf-8")
+
+    for label, pattern in METADATA_PATTERNS.items():
+        count = len(pattern.findall(page_html))
+        if count != 1:
+            errors.append(f"{label} count in {relative}: expected 1, found {count}")
+
+    scripts = JSON_LD_RE.findall(page_html)
+    if len(scripts) != 1:
+        errors.append(f"JSON-LD count in {relative}: expected 1, found {len(scripts)}")
+        return
+
+    try:
+        payload = json.loads(html.unescape(scripts[0]))
+    except (json.JSONDecodeError, TypeError) as error:
+        errors.append(f"invalid JSON-LD in {relative}: {error}")
+        return
+
+    if not isinstance(payload, dict):
+        errors.append(f"invalid JSON-LD in {relative}: root must be an object")
+        return
+    if payload.get("@context") != "https://schema.org":
+        errors.append(f"invalid JSON-LD context in {relative}: {payload.get('@context')!r}")
+    if payload.get("@type") not in {"WebSite", "WebPage"}:
+        errors.append(f"invalid JSON-LD type in {relative}: {payload.get('@type')!r}")
+    try:
+        parsed_url = urlsplit(payload.get("url", ""))
+    except (TypeError, ValueError) as error:
+        errors.append(f"invalid JSON-LD URL in {relative}: {error}")
+    else:
+        if parsed_url.scheme not in {"http", "https"} or not parsed_url.netloc:
+            errors.append(f"invalid JSON-LD URL in {relative}: {payload.get('url')!r}")
 
 
 def validate(public_dir: Path) -> dict:
@@ -39,6 +105,11 @@ def validate(public_dir: Path) -> dict:
     for relative in REQUIRED_FILES:
         if not (public_dir / relative).is_file():
             errors.append(f"missing required file: {relative}")
+
+    for relative in METADATA_PAGE_FILES:
+        path = public_dir / relative
+        if path.is_file():
+            validate_metadata_page(path, public_dir, errors)
 
     homepage = public_dir / "index.html"
     if homepage.is_file():
@@ -82,11 +153,16 @@ def validate(public_dir: Path) -> dict:
     if not episode_html:
         errors.append("no episode detail HTML found")
     else:
+        validate_metadata_page(sorted(episode_html)[0], public_dir, errors)
         for html_path in episode_html:
             markdown_path = html_path.parent.parent / f"{html_path.parent.name}.md"
             if not markdown_path.is_file():
                 relative = markdown_path.relative_to(public_dir).as_posix()
                 errors.append(f"missing episode detail Markdown: {relative}")
+
+    concept_html = sorted((public_dir / "wiki" / "concepts").glob("*/index.html"))
+    if concept_html:
+        validate_metadata_page(concept_html[0], public_dir, errors)
 
     for nested_markdown_path in sorted((public_dir / "episodes").glob("*/index.md")):
         relative = nested_markdown_path.relative_to(public_dir).as_posix()
