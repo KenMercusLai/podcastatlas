@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if and .Title (not .IsHome) }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+  {{ partial "seo.html" . }}
   {{ $searchType := partial "search-type.html" . }}
   <meta data-pagefind-filter="type[content]" content="{{ $searchType }}">
   <meta data-pagefind-meta="type[content]" content="{{ $searchType }}">
@@ -230,9 +231,40 @@
     }
 
     .site-footer {
-      padding: 24px 0 36px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 24px;
+      align-items: start;
+      padding: 28px 0 40px;
+      border-top: 1px solid var(--line);
       color: var(--muted);
       font-size: 0.9rem;
+    }
+
+    .footer-brand {
+      margin: 0;
+      max-width: 34rem;
+    }
+
+    .footer-brand strong {
+      color: var(--fg);
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 6px 16px;
+    }
+
+    .footer-links a {
+      color: var(--muted);
+      text-decoration: none;
+    }
+
+    .footer-links a:hover {
+      color: var(--link);
+      text-decoration: underline;
     }
 
     @media (max-width: 640px) {
@@ -240,6 +272,14 @@
         align-items: flex-start;
         flex-direction: column;
         gap: 10px;
+      }
+
+      .site-footer {
+        grid-template-columns: 1fr;
+      }
+
+      .footer-links {
+        justify-content: flex-start;
       }
 
       .show-list li,
@@ -277,7 +317,13 @@
   </main>
 
   <footer class="site-footer" data-pagefind-ignore="all">
-    Podcast Atlas
+    <p class="footer-brand"><strong>Podcast Atlas</strong><br>A living knowledge atlas synthesized from podcasts.</p>
+    <nav class="footer-links" aria-label="Footer">
+      <a href="{{ "about/" | relURL }}">About</a>
+      <a href="{{ "methodology/" | relURL }}">Methodology</a>
+      <a href="{{ "wiki/update-history/" | relURL }}">Update History</a>
+      <a href="https://github.com/KenMercusLai/podcastatlas">GitHub</a>
+    </nav>
   </footer>
 </body>
 </html>

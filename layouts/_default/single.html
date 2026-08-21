@@ -24,7 +24,7 @@
         {{ partial "wiki-content.html" . }}
       </div>
     </article>
-  {{ else }}
+  {{ else if eq .Section "episodes" }}
     {{ $episodePresentation := partial "episode-presentation.html" . }}
     {{ $sourceNotePage := partial "episode-source-note-page.html" . }}
     <article>
@@ -54,6 +54,11 @@
         {{/* This is Hugo-rendered .Content with heading-only transformations. */}}
         {{ index $episodePresentation "content" | safeHTML }}
       </div>
+    </article>
+  {{ else }}
+    <article class="informational-page">
+      <h1>{{ .Title }}</h1>
+      {{ partial "informational-content.html" . }}
     </article>
   {{ end }}
 {{ end }}

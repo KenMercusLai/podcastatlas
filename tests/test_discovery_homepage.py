@@ -11,9 +11,12 @@ class DiscoveryHomepageLayoutTest(unittest.TestCase):
     def test_homepage_is_a_stable_searchable_landing_page(self):
         homepage = HOME_LAYOUT.read_text()
         base = BASE_LAYOUT.read_text()
+        seo = (ROOT / "layouts/partials/seo.html").read_text()
 
         self.assertNotIn("http-equiv=\"refresh\"", homepage)
-        self.assertIn('rel="canonical" href="{{ .Permalink }}"', homepage)
+        self.assertIn('partial "seo.html" .', base)
+        self.assertIn('rel="canonical" href="{{ .Permalink }}"', seo)
+        self.assertNotIn('rel="canonical"', homepage)
         self.assertIn("A living knowledge atlas synthesized from podcasts.", homepage)
         self.assertIn("<pagefind-searchbox></pagefind-searchbox>", homepage)
         self.assertIn('"pagefind/pagefind-component-ui.css" | relURL', homepage)
