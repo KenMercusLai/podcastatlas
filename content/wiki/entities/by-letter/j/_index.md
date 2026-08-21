@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6255
+wiki_total_pages: 6258
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "JinLiegong"
     title: "晋烈公 / Duke Lie of Jin"
     url: "/wiki/entities/jinliegong/"
+  - key: "JinBi"
+    title: "晋鄙 / Jin Bi"
+    url: "/wiki/entities/jinbi/"
   - key: "JinJinggong"
     title: "晋静公 / Duke Jing of Jin"
     url: "/wiki/entities/jinjinggong/"

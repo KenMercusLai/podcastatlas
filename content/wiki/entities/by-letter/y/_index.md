@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6255
+wiki_total_pages: 6258
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "YuanxingzheYuSuibingjiang"
     title: "远行者与碎冰匠 / Yuanxingzhe Yu Suibingjiang"
     url: "/wiki/entities/yuanxingzheyusuibingjiang/"
+  - key: "YeWarringStates"
+    title: "邺城 / Ye (Warring States)"
+    url: "/wiki/entities/yewarringstates/"
   - key: "YinhuaFund"
     title: "银华基金 / Yinhua Fund"
     url: "/wiki/entities/yinhuafund/"

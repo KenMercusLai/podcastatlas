@@ -9235,6 +9235,10 @@
     "title": "Coalition Settlement Failure / 联军战后安排失败",
     "url": "/wiki/concepts/coalitionsettlementfailure/"
   },
+  "CoalitionTransitDependency": {
+    "title": "Coalition Transit Dependency / 联盟救援借道依赖",
+    "url": "/wiki/concepts/coalitiontransitdependency/"
+  },
   "CoastAirService": {
     "title": "Coast Air Service",
     "url": "/wiki/entities/coastairservice/"
@@ -21486,6 +21490,10 @@
   "JimoWarringStates": {
     "title": "即墨 / Jimo",
     "url": "/wiki/entities/jimowarringstates/"
+  },
+  "JinBi": {
+    "title": "晋鄙 / Jin Bi",
+    "url": "/wiki/entities/jinbi/"
   },
   "JinJinggong": {
     "title": "晋静公 / Duke Jing of Jin",
@@ -38287,6 +38295,10 @@
     "title": "Subjectivity Through Failure / 失败中的主体性",
     "url": "/wiki/concepts/subjectivitythroughfailure/"
   },
+  "SubmissionThroughStatusElevation": {
+    "title": "Submission Through Status Elevation / 尊号式投降方案",
+    "url": "/wiki/concepts/submissionthroughstatuselevation/"
+  },
   "SubprimeAutoLending": {
     "title": "Subprime Auto Lending",
     "url": "/wiki/concepts/subprimeautolending/"
@@ -43767,6 +43779,10 @@
     "title": "信陵君 / Lord Xinling",
     "url": "/wiki/entities/xinlingjun/"
   },
+  "XinyuanYan": {
+    "title": "新垣衍 / Xinyuan Yan",
+    "url": "/wiki/entities/xinyuanyan/"
+  },
   "Xiren": {
     "title": "袭人 / Xiren",
     "url": "/wiki/entities/xiren/"
@@ -44178,6 +44194,10 @@
   "YeJunjian": {
     "title": "叶君健 / Ye Junjian",
     "url": "/wiki/entities/yejunjian/"
+  },
+  "YeWarringStates": {
+    "title": "邺城 / Ye (Warring States)",
+    "url": "/wiki/entities/yewarringstates/"
   },
   "YeXian": {
     "title": "《叶限》 / Ye Xian",
@@ -48986,5 +49006,9 @@
   "zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe": {
     "title": "《资治通鉴·周纪》96丨毛遂自荐（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe/"
+  },
+  "zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech": {
+    "title": "《资治通鉴·周纪》96丨毛遂自荐（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech/"
   }
 }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4876
+wiki_total_pages: 4878
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "CoalitionSettlementFailure"
     title: "Coalition Settlement Failure / 联军战后安排失败"
     url: "/wiki/concepts/coalitionsettlementfailure/"
+  - key: "CoalitionTransitDependency"
+    title: "Coalition Transit Dependency / 联盟救援借道依赖"
+    url: "/wiki/concepts/coalitiontransitdependency/"
   - key: "CocaineRouteDisplacement"
     title: "Cocaine Route Displacement"
     url: "/wiki/concepts/cocaineroutedisplacement/"

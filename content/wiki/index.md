@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》96丨毛遂自荐（2）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech.md) — 芮淇讲透资治通鉴 episode completing Mao Sui's Chu-court persuasion, the blood-oath hezong commitment, Chu rescue's dependence on Wei transit, Jin Bi's halted relief army at Ye, and Xin Yuan Yan's western-emperor submission proposal.
 - [《资治通鉴·周纪》96丨毛遂自荐（1）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe.md) — 芮淇讲透资治通鉴 episode on Bai Qi's refusal to command the failing Handan campaign, Qin/Zhao exhaustion after Changping, Zhao's turn toward Chu for rescue, and Mao Sui's self-recommendation as the origin of "毛遂自荐" and "脱颖而出".
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa.md) — 芮淇讲透资治通鉴 episode explaining why Wei Qi's helpers were admired, reading Yu Qing and Pingyuanjun through士人 recognition and aristocratic friendship, contrasting Xun Yue, Li Bai, Wang Anshi, and Wang Shizhen's reception, and linking Fan Ju's revenge to social mobility before the Handan campaign.
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（3）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi.md) — 芮淇讲透资治通鉴 episode on Pingyuanjun's detention in Qin, Fan Ju's demand for Wei Qi's head, Yu Qing's resignation to help Wei Qi flee, Xinlingjun and Hou Ying's reception test, and the clash between noble friendship, revenge, state law, and Zhao's survival.
@@ -1123,7 +1124,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [毛遂 / Mao Sui](entities/MaoSui.md) — Pingyuanjun retainer who volunteers for the Chu rescue mission during the Handan crisis, creating the "毛遂自荐" and "脱颖而出" idiom branch.
+- [新垣衍 / Xinyuan Yan](entities/XinyuanYan.md) — Wei envoy whose western-emperor proposal offers Zhao a surrender-like status concession after outside rescue stalls during the Handan crisis.
+- [晋鄙 / Jin Bi](entities/JinBi.md) — Wei commander sent with a rescue army for Zhao but halted at Ye after Qin threatens Wei.
+- [邺城 / Ye (Warring States)](entities/YeWarringStates.md) — Place where Jin Bi's Wei relief army stops, marking the gap between nominal rescue and effective aid to Handan.
+- [毛遂 / Mao Sui](entities/MaoSui.md) — Pingyuanjun retainer whose self-recommendation culminates in a sword-backed Chu-court intervention and hezong oath during the Handan crisis.
 - [荀悦 / Xun Yue](entities/XunYue.md) — Eastern Han historian used by Zhouji 95 part 4 to criticize Yu Qing, Pingyuanjun, and Xinlingjun's friend-protection as dangerous dead-party loyalty.
 - [李白 / Li Bai](entities/LiBai.md) — Tang poet used by Zhouji 95 part 4 as the reception lens that admires Yu Qing's abandoned office and Wei Qi friendship as heroic spirit.
 - [王世贞 / Wang Shizhen](entities/WangShizhen.md) — Later reader invoked by Zhouji 95 part 4 to turn Fan Ju and Wei Qi's feud from immediate moral judgment into historical detachment.
@@ -7382,7 +7386,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Mao Sui Self-Recommendation / 毛遂自荐](concepts/MaoSuiSelfRecommendation.md) — Idiom and talent-visibility pattern where an overlooked retainer self-nominates when crisis exposes limits in a patron's normal selection filters.
+- [Submission Through Status Elevation / 尊号式投降方案](concepts/SubmissionThroughStatusElevation.md) — Crisis appeasement pattern where a besieged state considers recognizing Qin's emperor title as a surrender-like route to withdrawal.
+- [Coalition Transit Dependency / 联盟救援借道依赖](concepts/CoalitionTransitDependency.md) — Alliance rescue failure mode where a willing distant ally still depends on a route state's permission, courage, and exposure to retaliation.
+- [Mao Sui Self-Recommendation / 毛遂自荐](concepts/MaoSuiSelfRecommendation.md) — Idiom and talent-visibility pattern where an overlooked retainer self-nominates and then proves useful under a high-risk diplomatic crisis.
 - [Death-Party Loyalty vs Official Duty / 死党之义与守职奉上](concepts/DeathPartyLoyalty.md) — Xun Yue critique of private friendship or faction loyalty becoming stronger than office, ruler, and public responsibility.
 - [Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突](concepts/AristocraticFriendshipStateConflict.md) — Conflict where noble friendship and guest protection collide with revenge, ruler command, state law, and national survival.
 - [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence, monuments, and released survivors are used to damage the defeated state's will to resist.

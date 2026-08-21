@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6255
+wiki_total_pages: 6258
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "XuHongliang"
     title: "徐鸿亮 / Tom"
     url: "/wiki/entities/xuhongliang/"
+  - key: "XinyuanYan"
+    title: "新垣衍 / Xinyuan Yan"
+    url: "/wiki/entities/xinyuanyan/"
   - key: "XinYuanYangHuDieMeng"
     title: "新鸳鸯蝴蝶梦"
     url: "/wiki/entities/xinyuanyanghudiemeng/"
