@@ -2,7 +2,7 @@
 title: "新垣衍 / Xinyuan Yan"
 type: entity
 tags: [person, envoy, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]
 last_updated: 2026-08-21
 ---
 
@@ -14,10 +14,14 @@ His proposal is to persuade [[ZhaoDan|赵丹 / 赵孝成王]] through [[Pingyuan
 
 The episode emphasizes that Xin Yuan Yan's plan becomes plausible because outside rescue is failing. [[ChuState|楚国]] has agreed to help through [[MaoSui|毛遂]]'s negotiation, but it cannot easily reach Zhao without Wei transit; Wei's own main army has stopped. Xin Yuan Yan therefore marks the moment when stalled coalition rescue converts into a proposed status concession to Qin.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] makes Xin Yuan Yan the target of [[LuZhonglian|鲁仲连]]'s counter-persuasion. Lu Zhonglian argues that honoring Qin as emperor would not merely buy time; it would give Qin a superior status from which it could replace ministers, insert favored people, and make Wei's ruler and Xin Yuan Yan himself dependent on Qin's will.
+
+Xin Yuan Yan's retreat from the proposal shows the personal-risk side of the debate. The source presents him as persuaded not only by Lu Zhonglian's moral rejection of Qin, but by the claim that a status-submission settlement would endanger the very Wei court position he is trying to preserve.
+
 ## Connections
 - [[WeiAnxiWang|魏安釐王]], [[WeiState|魏国]], [[JinBi|晋鄙]], and [[YeWarringStates|邺城]] - sending ruler, state, stalled army, and route context.
 - [[Pingyuanjun|平原君]], [[ZhaoDan|赵丹 / 赵孝成王]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - target court and besieged capital.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - ruler and state whose title elevation is proposed.
 - [[SubmissionThroughStatusElevation|尊号式投降方案]] - concept grounded in his western-emperor proposal.
 - [[CoalitionTransitDependency|联盟救援借道依赖]] and [[HezongAlliance|合纵]] - stalled rescue background that gives his proposal urgency.
-
+- [[LuZhonglian|鲁仲连]], [[CivilizationBarbarismFrame|文明-野蛮框架]], [[HistoricalPrecedentWeaponization|历史先例武器化]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 96 part 3 rebuttal that makes the proposal personally dangerous.

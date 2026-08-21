@@ -8971,6 +8971,10 @@
     "title": "Civilization As Deception",
     "url": "/wiki/concepts/civilizationasdeception/"
   },
+  "CivilizationBarbarismFrame": {
+    "title": "Civilization-Barbarism Frame / 文明-野蛮框架",
+    "url": "/wiki/concepts/civilizationbarbarismframe/"
+  },
   "CivilizationModernizationValueInvestmentChina": {
     "title": "《文明、现代化、价值投资与中国》",
     "url": "/wiki/entities/civilizationmodernizationvalueinvestmentchina/"
@@ -18710,6 +18714,10 @@
   "HistoricalMemoryContest": {
     "title": "Historical Memory Contest",
     "url": "/wiki/concepts/historicalmemorycontest/"
+  },
+  "HistoricalPrecedentWeaponization": {
+    "title": "Historical Precedent Weaponization / 历史先例武器化",
+    "url": "/wiki/concepts/historicalprecedentweaponization/"
   },
   "HistoricalReportingAIHallucination": {
     "title": "历史报道中的AI幻觉 / Historical Reporting AI Hallucination",
@@ -49010,5 +49018,9 @@
   "zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech": {
     "title": "《资治通鉴·周纪》96丨毛遂自荐（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech/"
+  },
+  "zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv": {
+    "title": "《资治通鉴·周纪》96丨毛遂自荐（3）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv/"
   }
 }

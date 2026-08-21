@@ -2,7 +2,7 @@
 title: "Coalition Self-Preservation Failure / 联盟自保失灵"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]] adds a partial-rescue version. [[WeiAnxiWang|魏安釐王]] does send [[JinBi|晋鄙]] with 100,000 troops toward [[Handan|邯郸]], but when [[QinZhaoxiangwang|秦昭襄王]] warns that Wei will be next after Zhao, the Wei army stops at [[YeWarringStates|邺城]]. This is not simple non-participation; it is a coalition member moving enough to signal help, then preserving itself before decisive contact.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] adds the persuasion response to that failure. Because Wei has already shifted from rescue to [[SubmissionThroughStatusElevation|status-submission]] bargaining through [[XinyuanYan|新垣衍]], [[LuZhonglian|鲁仲连]] tries to make the preservation strategy look self-defeating: honoring Qin as emperor may avoid one battle, but it exposes Wei's court and ministers to deeper Qin control.
+
 ## Key Claims
 - A common enemy is not enough to produce operational unity.
 - Shared slogans can hide unequal willingness to spend troops, food, and political risk.
@@ -35,6 +37,7 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - Zhouji 94 part 2 adds a passive-relief analogue: states can preserve themselves by withholding food or intervention until a buffer state's army collapses.
 - Zhouji 95 part 2 adds a neighbor-opportunism analogue: a state can interpret another weak state's disaster as benefit even when the stronger state's expansion logic threatens both.
 - Zhouji 96 part 2 adds a stopped-relief analogue: a state may mobilize aid but halt before the decisive battlefield once retaliation risk becomes explicit.
+- Zhouji 96 part 3 adds that coalition self-preservation can be challenged by reframing appeasement as personal and institutional exposure rather than safety.
 
 ## Connections
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[ZonghengjiaDiplomacy|纵横家外交]] - larger alliance and diplomacy frame.
@@ -45,3 +48,4 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - [[ChangpingBattle|长平之战]], [[QiWangJian|齐王建 / 田建]], [[JunWangHou|君王后]], [[ZhouziQiMinister|周子]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Zhouji 94 part 2 grain-refusal and shield-state non-rescue branch.
 - [[YuQing|虞卿]], [[WeiAnxiWang|魏安釐王]], [[KongBin|孔斌]], [[BaiQi|白起]], and [[FarmingWarStatecraft|耕战逻辑]] - Zhouji 95 part 2 attempted coalition signal and Wei-side opportunism warning.
 - [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[QinZhaoxiangwang|秦昭襄王]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 halted rescue and downstream appeasement pressure.
+- [[LuZhonglian|鲁仲连]], [[XinyuanYan|新垣衍]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 96 part 3 rebuttal to preservation-through-submission.

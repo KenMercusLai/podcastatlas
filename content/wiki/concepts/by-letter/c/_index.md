@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 4878
+wiki_total_pages: 4880
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "CivilizationAsDeception"
     title: "Civilization As Deception"
     url: "/wiki/concepts/civilizationasdeception/"
+  - key: "CivilizationBarbarismFrame"
+    title: "Civilization-Barbarism Frame / 文明-野蛮框架"
+    url: "/wiki/concepts/civilizationbarbarismframe/"
   - key: "CivilizationalMemoryTransmission"
     title: "Civilizational Memory Transmission / 文明记忆传承"
     url: "/wiki/concepts/civilizationalmemorytransmission/"

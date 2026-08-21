@@ -2,8 +2,8 @@
 title: "Shang Yang Reforms / 商鞅变法"
 type: concept
 tags: [statecraft, reform, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+last_updated: 2026-08-21
 ---
 
 # Shang Yang Reforms / 商鞅变法
@@ -32,6 +32,8 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 
 The same episode keeps the reforms' historical weight visible. The host says Shang Yang reforms became a recurring aspiration, wound, and taboo in later Chinese political thought: effective enough to be continually imagined, but violent enough to remain politically dangerous as a model.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] uses the reforms as counterweight to [[LuZhonglian|鲁仲连]]'s anti-Qin rhetoric. After presenting Lu Zhonglian's claim that [[QinState|秦国]] abandons ritual and righteousness for violent military merit, the host argues that Qin after Shang Yang may have had a more regular legal process than [[WeiState|魏国]]'s private punishment of [[FanJu|范雎]]. The reforms therefore complicate a simple [[CivilizationBarbarismFrame|civilized east versus barbaric Qin]] reading.
+
 ## Key Claims
 - Reform authority depends first on ruler backing, not on broad consensus.
 - That ruler backing emerges from a preexisting Qin restoration problem: military pressure, diplomatic exclusion, and the need for credible reward.
@@ -49,6 +51,7 @@ The same episode keeps the reforms' historical weight visible. The host says Sha
 - The reformer's exit problem is part of the reform history because the same methods that mobilize the state can concentrate enemies around the reformer.
 - Reform reception has to include personal-security and social-support evidence, not only institutional outcomes.
 - The reform package's later symbolic life is ambivalent: admired for state capacity and feared as a wound or taboo.
+- Zhouji 96 part 3 adds that the reforms can serve as evidence against overly simple anti-Qin moral binaries, even when Qin remains a coercive military power.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], [[YingSi|太子嬴驷]], [[GongziQian|公子虔]], and [[GongsunJia|公孙贾]] - source actors and punishment branch.
@@ -61,3 +64,4 @@ The same episode keeps the reforms' historical weight visible. The host says Sha
 - [[PollTax|人头税]] - Zhouji 18 fiscal extension.
 - [[FarmingWarStatecraft|耕战逻辑]], [[QinEastwardPressure]], [[PeaceParleyEntrapment|和谈诱捕]], [[Shangyu|商於]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 22-23 external-war, incentive, reward, and self-trap extension.
 - [[PowerExitTrap|权力退场困境]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[TextualVariantPoliticalStakes|史书异文政治重量]], [[ShiJiao|尸佼]], [[WangYangming|王阳明]], and [[WangAnshi|王安石]] - later analogy, exit, aftermath, and reception branch in the episode.
+- [[LuZhonglian|鲁仲连]], [[FanJu|范雎]], [[WeiState|魏国]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalDetectiveReasoning]] - Zhouji 96 part 3 Qin legal-order counterpoint to anti-Qin rhetoric.

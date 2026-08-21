@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》96丨毛遂自荐（3）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv.md) — 芮淇讲透资治通鉴 episode on Lu Zhonglian's rebuttal of Xin Yuan Yan's western-emperor proposal, framing Qin submission as civilizational degradation and personal danger while critiquing the historical reliability of his Shang-Zhou precedent.
 - [《资治通鉴·周纪》96丨毛遂自荐（2）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech.md) — 芮淇讲透资治通鉴 episode completing Mao Sui's Chu-court persuasion, the blood-oath hezong commitment, Chu rescue's dependence on Wei transit, Jin Bi's halted relief army at Ye, and Xin Yuan Yan's western-emperor submission proposal.
 - [《资治通鉴·周纪》96丨毛遂自荐（1）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe.md) — 芮淇讲透资治通鉴 episode on Bai Qi's refusal to command the failing Handan campaign, Qin/Zhao exhaustion after Changping, Zhao's turn toward Chu for rescue, and Mao Sui's self-recommendation as the origin of "毛遂自荐" and "脱颖而出".
 - [《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）](sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa.md) — 芮淇讲透资治通鉴 episode explaining why Wei Qi's helpers were admired, reading Yu Qing and Pingyuanjun through士人 recognition and aristocratic friendship, contrasting Xun Yue, Li Bai, Wang Anshi, and Wang Shizhen's reception, and linking Fan Ju's revenge to social mobility before the Handan campaign.
@@ -1185,7 +1186,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏安釐王 / King Anxi of Wei](entities/WeiAnxiWang.md) — Wei ruler whose accession is immediately marked by Qin attacks from Bai Qi and Wei Ran and by the enfeoffment of his brother Xinlingjun.
 - [南郡 / Nan Commandery](entities/NanCommandery.md) — Qin commandery created after Bai Qi takes the Chu capital region, linking conquest to administrative incorporation.
 - [刁伯 / Diao Bo](entities/DiaoBo.md) — Qi worthy and envoy recommended by Tian Dan whose Chu reception is weaponized by slanderers before he rebukes Qi Xiang Wang into honoring Tian Dan.
-- [鲁仲连 / Lu Zhonglian](entities/LuZhonglian.md) — Qi strategist and Jixia-associated thinker who diagnoses Tian Dan's stalled Di campaign as a loss of shared death resolve under post-restoration danger.
+- [鲁仲连 / Lu Zhonglian](entities/LuZhonglian.md) — Qi strategist and Jixia-associated thinker who diagnoses Tian Dan's stalled Di campaign and later rebuts Xin Yuan Yan's Qin-emperor submission proposal in Handan.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
 - [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
 - [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
@@ -7386,6 +7387,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Civilization-Barbarism Frame / 文明-野蛮框架](concepts/CivilizationBarbarismFrame.md) — Rhetorical frame that turns accommodation with a stronger power into acceptance of degraded or uncivilized order, used by Lu Zhonglian against Qin submission.
+- [Historical Precedent Weaponization / 历史先例武器化](concepts/HistoricalPrecedentWeaponization.md) — Persuasion pattern where inherited historical examples are used to force present fear or shame, while remaining subject to source-critical testing.
 - [Submission Through Status Elevation / 尊号式投降方案](concepts/SubmissionThroughStatusElevation.md) — Crisis appeasement pattern where a besieged state considers recognizing Qin's emperor title as a surrender-like route to withdrawal.
 - [Coalition Transit Dependency / 联盟救援借道依赖](concepts/CoalitionTransitDependency.md) — Alliance rescue failure mode where a willing distant ally still depends on a route state's permission, courage, and exposure to retaliation.
 - [Mao Sui Self-Recommendation / 毛遂自荐](concepts/MaoSuiSelfRecommendation.md) — Idiom and talent-visibility pattern where an overlooked retainer self-nominates and then proves useful under a high-risk diplomatic crisis.

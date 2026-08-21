@@ -2,7 +2,7 @@
 title: "平原君 / Lord Pingyuan"
 type: entity
 tags: [person, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
 last_updated: 2026-08-21
 ---
 
@@ -40,6 +40,8 @@ That clarification makes Pingyuanjun an especially visible case for the clash be
 
 The same source also makes Pingyuanjun the entry point for [[XinyuanYan|新垣衍]]'s proposal. After [[JinBi|晋鄙]] stops at [[YeWarringStates|邺城]] and Chu rescue remains route-dependent, Xin Yuan Yan enters Handan through Pingyuanjun to propose honoring [[QinZhaoxiangwang|秦昭襄王]] as western emperor. Pingyuanjun's hesitation shows him again caught between heroic resistance, state survival, and the possibility of a humiliating settlement.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] makes Pingyuanjun the broker for [[LuZhonglian|鲁仲连]]'s intervention. Lu Zhonglian asks to meet Xin Yuan Yan, and Pingyuanjun's household again becomes the channel through which an outside or underused persuader enters a state survival decision. This extends Pingyuanjun's Zhouji 96 pattern: he cannot resolve the crisis alone, but his network can bring in the person who changes the conversation.
+
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]] - visiting lord hosted in Zhao.
 - [[ZhaoState|赵国]] - state setting for the ridicule and retaliatory violence.
@@ -55,3 +57,4 @@ The same source also makes Pingyuanjun the entry point for [[XinyuanYan|新垣�
 - [[SimaQian|司马迁]] and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 attribution of responsibility for accepting Shangdang.
 - [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], and [[HezongAlliance|合纵]] - Zhouji 96 rescue mission, retainer-selection crisis, and Chu-court intervention.
 - [[XinyuanYan|新垣衍]], [[SubmissionThroughStatusElevation|尊号式投降方案]], [[JinBi|晋鄙]], and [[YeWarringStates|邺城]] - Zhouji 96 part 2 post-alliance military blockage and surrender-like proposal.
+- [[LuZhonglian|鲁仲连]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 counter-speech arranged through Pingyuanjun.

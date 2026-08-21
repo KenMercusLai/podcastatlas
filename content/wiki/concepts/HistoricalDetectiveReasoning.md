@@ -2,8 +2,8 @@
 title: "Historical Detective Reasoning"
 type: concept
 tags: [history, archaeology, reasoning, detective-fiction]
-sources: [zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-21
 ---
 
 # Historical Detective Reasoning
@@ -32,6 +32,8 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 
 [[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] adds an idiom-origin test. The episode rejects the popular story that "二百五" comes from four people splitting a reward for killing [[SuQin|苏秦]], not because the story is impossible in plot terms alone, but because its implied economy, status incentives, and self-exposure logic fit the pre-Qin setting poorly. That makes [[IdiomOriginSkepticism|典故来源辨伪]] another version of evidence-before-story reasoning.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] adds a persuasion-history version through [[LuZhonglian|鲁仲连]]. The host does not deny that Lu Zhonglian's Shang Zhou precedent works rhetorically against [[XinyuanYan|新垣衍]], but questions whether the underlying story is reliable. The case therefore separates a precedent's force inside a political argument from its evidentiary strength as history.
+
 ## Key Claims
 - Historical evidence is usually fragmentary, mediated, and unevenly preserved.
 - A strong historical inference asks who produced the source, when it appeared, what it leaves out, and what rival explanation it must beat.
@@ -47,6 +49,7 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - A concrete impossibility, such as a ruler being dead before a recorded visit, can discipline chronology correction without proving every replacement date.
 - Excavated texts can resolve identity and textual-attribution problems that received literary tradition leaves blurred.
 - Attractive idiom origins should be tested against period economy, social incentives, and source proximity before being treated as historical explanations.
+- Political precedents should be tested the same way: a story can persuade a historical actor without becoming reliable evidence for the modern reader.
 
 ## Connections
 - [[ZhangZhihao|张志浩]] and [[LishiBoke|《历史播客》]] - source context.
@@ -65,3 +68,4 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - [[QiChronologyDispute]], [[ZhouLiewang|周烈王]], [[ZhouXianwang|周显王]], and [[Shiji|《史记》]] - Zhouji 14 sharper chronology test.
 - [[SunBin|孙膑]], [[SunBinBingfa|《孙膑兵法》]], and [[WarringStatesPeriod|战国时期]] - Zhouji 16 archaeological identity-correction branch.
 - [[IdiomOriginSkepticism|典故来源辨伪]], [[SuQin|苏秦]], [[QiState|齐国]], and [[EvidenceBoundFolkloreInquiry]] - Zhouji 46 idiom-origin and folklore-evidence extension.
+- [[LuZhonglian|鲁仲连]], [[XinyuanYan|新垣衍]], [[HistoricalPrecedentWeaponization|历史先例武器化]], and [[CivilizationBarbarismFrame|文明-野蛮框架]] - Zhouji 96 part 3 persuasive precedent and source reliability split.
