@@ -1,3 +1,137 @@
+{{ define "head_extra" }}
+  <style>
+    .wiki-landing-hero {
+      max-width: 720px;
+      padding: clamp(12px, 3vw, 28px) 0 4px;
+    }
+
+    .wiki-landing-hero .lede {
+      max-width: 680px;
+      font-size: clamp(1.05rem, 2.4vw, 1.25rem);
+    }
+
+    .wiki-landing-section {
+      margin-top: clamp(42px, 7vw, 68px);
+      padding-top: 24px;
+      border-top: 1px solid var(--line);
+    }
+
+    .wiki-landing-section h2 {
+      margin: 0 0 8px;
+      font-size: clamp(1.35rem, 3vw, 1.75rem);
+    }
+
+    .wiki-section-intro {
+      max-width: 680px;
+      margin: 0 0 22px;
+      color: var(--muted);
+    }
+
+    .wiki-feature-grid,
+    .wiki-collection-grid,
+    .wiki-recent-grid,
+    .wiki-stat-grid {
+      display: grid;
+      gap: 16px;
+    }
+
+    .wiki-feature-grid,
+    .wiki-recent-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .wiki-collection-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .wiki-stat-grid {
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+
+    .wiki-feature,
+    .wiki-collection,
+    .wiki-recent,
+    .wiki-stat {
+      padding: 20px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .wiki-feature h3,
+    .wiki-collection h3,
+    .wiki-recent h3 {
+      margin: 5px 0 8px;
+      font-size: 1.08rem;
+      line-height: 1.35;
+    }
+
+    .wiki-feature p,
+    .wiki-collection p,
+    .wiki-recent p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .wiki-label {
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .wiki-topic-list,
+    .wiki-support-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 0;
+      list-style: none;
+    }
+
+    .wiki-topic-list a {
+      display: inline-flex;
+      gap: 8px;
+      padding: 7px 11px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      text-decoration: none;
+    }
+
+    .wiki-topic-count {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .wiki-stat strong,
+    .wiki-stat span {
+      display: block;
+    }
+
+    .wiki-stat span {
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 760px) {
+      .wiki-collection-grid,
+      .wiki-stat-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 560px) {
+      .wiki-feature-grid,
+      .wiki-collection-grid,
+      .wiki-recent-grid,
+      .wiki-stat-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+{{ end }}
+
 {{ define "main" }}
   {{ if .Params.wiki_projection }}
     <article>
@@ -9,8 +143,6 @@
       </div>
     </article>
   {{ else if eq .Path "/wiki" }}
-    <h1>{{ .Title }}</h1>
-
     {{ $currentSynthesis := .Site.GetPage "/wiki-projections/current-synthesis" }}
     {{ $updateHistory := .Site.GetPage "/wiki-projections/update-history" }}
     {{ $openQuestions := .Site.GetPage "/wiki-projections/open-questions" }}
@@ -18,75 +150,175 @@
     {{ $concepts := .Site.GetPage "/wiki/concepts" }}
     {{ $entities := .Site.GetPage "/wiki/entities" }}
     {{ $sources := .Site.GetPage "/wiki/sources" }}
+    {{ $showSection := .Site.GetPage "/show" }}
+    {{ $episodes := where .Site.RegularPages "Section" "episodes" }}
 
-    <ul class="wiki-section-list">
-      {{ with $currentSynthesis }}
-        <li>
-          <div>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">Living synthesis across all sources</div>
-          </div>
-          <span class="wiki-section-count">1 page</span>
-        </li>
-      {{ end }}
+    <section class="wiki-landing-hero">
+      <p class="wiki-label">The knowledge layer</p>
+      <h1>{{ .Title }}</h1>
+      <p class="lede">Explore knowledge synthesized from podcasts: evolving concepts, entities, source notes, and the questions that remain unresolved.</p>
+    </section>
+
+    <section class="wiki-landing-section" aria-labelledby="current-knowledge-heading">
+      <h2 id="current-knowledge-heading">What the atlas currently knows</h2>
+      <p class="wiki-section-intro">Start with the current synthesis across podcast sources, then examine the questions where the evidence is still incomplete.</p>
+      <div class="wiki-feature-grid">
+        {{ with $currentSynthesis }}
+          <article class="wiki-feature">
+            <span class="wiki-label">Living synthesis</span>
+            <h3><a href="{{ .RelPermalink }}">Current Synthesis</a></h3>
+            <p>The atlas's evolving account of ideas and claims across all processed podcast sources.</p>
+          </article>
+        {{ end }}
+        {{ with $openQuestions }}
+          <article class="wiki-feature">
+            <span class="wiki-label">Unresolved</span>
+            <h3><a href="{{ .RelPermalink }}">Open Questions</a></h3>
+            <p>Questions that remain open, contested, or under-supported as new sources enter the atlas.</p>
+          </article>
+        {{ end }}
+      </div>
       {{ with $updateHistory }}
-        <li>
-          <div>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">Knowledge updates grouped by Git history date</div>
-          </div>
-          <span class="wiki-section-count">Daily archive</span>
-        </li>
+        <p><a href="{{ .RelPermalink }}">See how the knowledge base has changed →</a></p>
       {{ end }}
-      {{ with $openQuestions }}
-        <li>
-          <div>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">Current unanswered questions</div>
-          </div>
-          <span class="wiki-section-count">Current</span>
-        </li>
+    </section>
+
+    {{ $recentConcepts := slice }}
+    {{ with $concepts }}
+      {{ range .RegularPages }}
+        {{ $page := . }}
+        {{ with .Params.last_updated }}
+          {{ $recentConcepts = $recentConcepts | append (dict "label" "Concept" "page" $page "updated" . "sort_key" (printf "%v|%s" . $page.Title)) }}
+        {{ end }}
       {{ end }}
-      {{ with $stats }}
-        <li>
-          <div>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">Generated page, link, and source health metrics</div>
-          </div>
-          <span class="wiki-section-count">Generated</span>
-        </li>
+    {{ end }}
+    {{ $recentConcepts = sort $recentConcepts "sort_key" "desc" }}
+
+    {{ $recentEntities := slice }}
+    {{ with $entities }}
+      {{ range .RegularPages }}
+        {{ $page := . }}
+        {{ with .Params.last_updated }}
+          {{ $recentEntities = $recentEntities | append (dict "label" "Entity" "page" $page "updated" . "sort_key" (printf "%v|%s" . $page.Title)) }}
+        {{ end }}
       {{ end }}
-      {{ with $concepts }}
-        {{ $count := len .RegularPages }}
-        <li>
-          <div>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">Concept notes and cross-source themes</div>
-          </div>
-          <span class="wiki-section-count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</span>
-        </li>
-      {{ end }}
-      {{ with $entities }}
-        {{ $count := len .RegularPages }}
-        <li>
-          <div>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">People, companies, products, places, and organizations</div>
-          </div>
-          <span class="wiki-section-count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</span>
-        </li>
-      {{ end }}
-      {{ with $sources }}
-        {{ $count := len .RegularPages }}
-        <li>
-          <div>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="page-meta">Podcast source notes</div>
-          </div>
-          <span class="wiki-section-count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</span>
-        </li>
-      {{ end }}
-    </ul>
+    {{ end }}
+    {{ $recentEntities = sort $recentEntities "sort_key" "desc" }}
+
+    {{ $recentKnowledge := slice }}
+    {{ range first 3 $recentConcepts }}
+      {{ $recentKnowledge = $recentKnowledge | append . }}
+    {{ end }}
+    {{ range first 3 $recentEntities }}
+      {{ $recentKnowledge = $recentKnowledge | append . }}
+    {{ end }}
+    {{ $recentKnowledge = sort $recentKnowledge "sort_key" "desc" }}
+    {{ if $recentKnowledge }}
+      <section class="wiki-landing-section" aria-labelledby="recent-knowledge-heading">
+        <h2 id="recent-knowledge-heading">Recently updated knowledge</h2>
+        <p class="wiki-section-intro">Concepts and entities revised as new podcast evidence entered the atlas.</p>
+        <div class="wiki-recent-grid">
+          {{ range $recentKnowledge }}
+            <article class="wiki-recent">
+              <span class="wiki-label">{{ .label }}</span>
+              <h3><a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a></h3>
+              <p>Updated <time datetime="{{ .updated | time.Format "2006-01-02" }}">{{ .updated | time.Format "January 2, 2006" }}</time></p>
+            </article>
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
+
+    <section class="wiki-landing-section" aria-labelledby="knowledge-collections-heading">
+      <h2 id="knowledge-collections-heading">Explore the knowledge base</h2>
+      <p class="wiki-section-intro">Move from synthesized ideas to named entities and the source notes that preserve their podcast provenance.</p>
+      <div class="wiki-collection-grid">
+        {{ with $concepts }}
+          <article class="wiki-collection">
+            <span class="wiki-label">{{ len .RegularPages }} pages</span>
+            <h3><a href="{{ .RelPermalink }}">Concepts</a></h3>
+            <p>Cross-source ideas, patterns, mechanisms, and themes.</p>
+          </article>
+        {{ end }}
+        {{ with $entities }}
+          <article class="wiki-collection">
+            <span class="wiki-label">{{ len .RegularPages }} pages</span>
+            <h3><a href="{{ .RelPermalink }}">Entities</a></h3>
+            <p>People, companies, products, places, works, and organizations.</p>
+          </article>
+        {{ end }}
+        {{ with $sources }}
+          <article class="wiki-collection">
+            <span class="wiki-label">{{ len .RegularPages }} pages</span>
+            <h3><a href="{{ .RelPermalink }}">Source Notes</a></h3>
+            <p>Knowledge-oriented notes linked back to their original episodes.</p>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+
+    {{ $topics := slice
+      (dict "key" "ai" "label" "AI")
+      (dict "key" "china" "label" "China")
+      (dict "key" "investing" "label" "Investing")
+      (dict "key" "governance" "label" "Governance")
+      (dict "key" "literature" "label" "Literature")
+      (dict "key" "media" "label" "Media")
+      (dict "key" "politics" "label" "Politics")
+      (dict "key" "startups" "label" "Startups")
+      (dict "key" "finance" "label" "Finance")
+      (dict "key" "psychology" "label" "Psychology")
+      (dict "key" "economics" "label" "Economics")
+      (dict "key" "education" "label" "Education")
+    }}
+    <section class="wiki-landing-section" aria-labelledby="topics-heading">
+      <h2 id="topics-heading">Browse by topic</h2>
+      <p class="wiki-section-intro">Enter through broad subjects that recur across shows, episodes, concepts, and entities.</p>
+      <ul class="wiki-topic-list">
+        {{ range $topics }}
+          {{ $key := .key }}
+          {{ $label := .label }}
+          {{ $termPages := index $.Site.Taxonomies.tags $key }}
+          {{ with $termPages }}
+            <li>
+              <a href="{{ printf "tags/%s/" ($key | urlize) | relURL }}">
+                <span>{{ $label }}</span>
+                <span class="wiki-topic-count">{{ len . }}</span>
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </section>
+
+    <section class="wiki-landing-section" aria-labelledby="coverage-heading">
+      <h2 id="coverage-heading">Knowledge coverage</h2>
+      <p class="wiki-section-intro">The current scale of the podcast corpus and the knowledge collections synthesized from it.</p>
+      <div class="wiki-stat-grid">
+        <div class="wiki-stat"><strong>{{ len $episodes }}</strong><span>Episodes</span></div>
+        {{ with $showSection }}
+          <div class="wiki-stat"><strong>{{ len .Pages }}</strong><span>Shows</span></div>
+        {{ end }}
+        {{ with $concepts }}
+          <div class="wiki-stat"><strong>{{ len .RegularPages }}</strong><span>Concepts</span></div>
+        {{ end }}
+        {{ with $entities }}
+          <div class="wiki-stat"><strong>{{ len .RegularPages }}</strong><span>Entities</span></div>
+        {{ end }}
+        {{ with $sources }}
+          <div class="wiki-stat"><strong>{{ len .RegularPages }}</strong><span>Source Notes</span></div>
+        {{ end }}
+      </div>
+    </section>
+
+    <section class="wiki-landing-section" aria-labelledby="maintenance-heading">
+      <h2 id="maintenance-heading">History and health</h2>
+      <p class="wiki-section-intro">Inspect how the atlas changes and the generated checks that protect its links and source relationships.</p>
+      <ul class="wiki-support-links">
+        {{ with $updateHistory }}<li><a href="{{ .RelPermalink }}">Update History →</a></li>{{ end }}
+        {{ with $stats }}<li><a href="{{ .RelPermalink }}">Wiki Stats →</a></li>{{ end }}
+      </ul>
+    </section>
   {{ else }}
     <h1>{{ .Title }}</h1>
     {{ if .Params.wiki_alphabetical }}
