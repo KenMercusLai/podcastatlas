@@ -36,6 +36,8 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "episodes/example.md",
                 "episodes/episode.160/index.html",
                 "episodes/episode.160.md",
+                "episodes/中文标题/index.html",
+                "episodes/中文标题.md",
                 "pagefind/pagefind.js",
                 "pagefind/pagefind-component-ui.js",
                 "pagefind/pagefind-component-ui.css",
@@ -62,13 +64,104 @@ class VerifyPagesOutputTest(unittest.TestCase):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
             public = Path(directory)
-            write(public / "episodes" / "example" / "index.html", "content")
             write(public / "episodes" / "example" / "index.md", "content")
 
             report = verifier.validate(public)
 
         self.assertIn(
             "nested episode Markdown URL is forbidden: episodes/example/index.md",
+            report["errors"],
+        )
+
+    def test_rejects_flat_episode_html_output(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(public / "episodes" / "example.html", "content")
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "flat episode HTML URL is forbidden: episodes/example.html",
+            report["errors"],
+        )
+
+    def test_rejects_noncanonical_episode_urls_in_sitemap(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "sitemap.xml",
+                """<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://podcastatlas.ai/episodes/</loc></url>
+<url><loc>https://podcastatlas.ai/episodes/example/</loc></url>
+<url><loc>https://podcastatlas.ai/episodes/example.html</loc></url>
+<url><loc>https://podcastatlas.ai/episodes/example.md</loc></url>
+<url><loc>https://podcastatlas.ai/wiki/episodes/</loc></url>
+<url><loc>https://podcastatlas.ai/wiki/episodes/example.md</loc></url>
+</urlset>""",
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "noncanonical Episode URL in sitemap: "
+            "https://podcastatlas.ai/episodes/example.html",
+            report["errors"],
+        )
+        self.assertIn(
+            "noncanonical Episode URL in sitemap: "
+            "https://podcastatlas.ai/episodes/example.md",
+            report["errors"],
+        )
+        self.assertNotIn(
+            "noncanonical Episode URL in sitemap: "
+            "https://podcastatlas.ai/wiki/episodes/example.md",
+            report["errors"],
+        )
+
+    def test_rejects_malformed_url_in_sitemap_without_crashing(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "sitemap.xml",
+                """<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://[invalid/episodes/example.md</loc></url>
+</urlset>""",
+            )
+
+            report = verifier.validate(public)
+
+        self.assertTrue(
+            any(error.startswith("invalid URL in sitemap: http://[invalid/") for error in report["errors"])
+        )
+
+    def test_detects_episode_urls_with_a_deployment_base_path(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "sitemap.xml",
+                """<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://example.com/project/episodes/</loc></url>
+<url><loc>https://example.com/project/episodes/example/</loc></url>
+<url><loc>https://example.com/project/episodes/example.md</loc></url>
+<url><loc>https://example.com/project/wiki/episodes/</loc></url>
+<url><loc>https://example.com/project/wiki/episodes/example.md</loc></url>
+</urlset>""",
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "noncanonical Episode URL in sitemap: "
+            "https://example.com/project/episodes/example.md",
+            report["errors"],
+        )
+        self.assertNotIn(
+            "noncanonical Episode URL in sitemap: "
+            "https://example.com/project/wiki/episodes/example.md",
             report["errors"],
         )
 
