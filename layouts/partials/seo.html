@@ -1,7 +1,10 @@
 {{- $siteDescription := .Site.Params.description | default "A living knowledge atlas synthesized from podcasts." -}}
 {{- $description := .Params.description | default "" -}}
 {{- if and (not $description) (not .IsHome) -}}
-  {{- $summary := .Summary | plainify | htmlUnescape | strings.TrimSpace -}}
+  {{- $summaryHTML := printf "%s" .Summary -}}
+  {{- $summaryHTML = replaceRE `(?is)^\s*<h1(?:\s[^>]*)?>.*?</h1>\s*` "" $summaryHTML -}}
+  {{- $summaryHTML = replaceRE `(?is)^\s*<h[1-6](?:\s[^>]*)?>\s*(?:概览|overview|摘要|summary)\s*</h[1-6]>\s*` "" $summaryHTML -}}
+  {{- $summary := $summaryHTML | plainify | htmlUnescape | htmlUnescape | strings.TrimSpace -}}
   {{- $pagesByKey := hugo.Data.wiki_links | default dict -}}
   {{- range uniq (findRE `\[\[[^\]\n]+\]\]` $summary) -}}
     {{- $link := . -}}
@@ -27,8 +30,9 @@
 {{- if not $description -}}
   {{- $description = $siteDescription -}}
 {{- end -}}
-{{- $description = $description | plainify | htmlUnescape -}}
+{{- $description = $description | plainify | htmlUnescape | htmlUnescape -}}
 {{- $description = replaceRE `\s+` " " $description | strings.TrimSpace | truncate 180 -}}
+{{- $description = $description | htmlUnescape | htmlUnescape -}}
 {{- $pageTitle := .Site.Title -}}
 {{- if and .Title (not .IsHome) -}}
   {{- $pageTitle = printf "%s | %s" .Title .Site.Title -}}
