@@ -2,7 +2,7 @@
 title: "鲁仲连 / Lu Zhonglian"
 type: entity
 tags: [person, qi-state, strategist, thinker, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,10 @@ His speech combines several moves. He first denies that Qin's ruler is a legitim
 
 The episode also complicates Lu Zhonglian's victory. The host says his Shang Zhou precedent is historically shaky and that the eastern states were not necessarily more civilized than Qin. Lu Zhonglian therefore becomes a double case: a brilliant persuader inside [[ZonghengjiaDiplomacy|纵横家外交]], and a reminder that successful rhetoric can rest on unstable inherited stories.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] explains why that speech could work on Xin Yuan Yan. The episode says Lu Zhonglian, Xin Yuan Yan, and [[Pingyuanjun|平原君]] share an aristocratic world where privilege, reputation, and personal freedom matter. Submission to Qin is therefore not only a moral humiliation; it threatens the social basis that lets Lu Zhonglian live without office, refuse money, travel, and speak freely.
+
+The source also makes Lu Zhonglian's famous freedom less abstract. The host argues that his refusal of office likely depended on family wealth and a strong social network, then notes that later admirers such as [[LiBai|李白]] could imitate parts of that style because they too had material support. Lu Zhonglian is therefore a dignity figure, but not a disembodied one: his autonomy has class and resource conditions.
+
 ## Connections
 - [[TianDan|田单]] - commander whose failed Di campaign Lu Zhonglian diagnoses.
 - [[QiState|齐国]] and [[JixiaAcademy|稷下学宫]] - state and intellectual setting.
@@ -30,3 +34,4 @@ The episode also complicates Lu Zhonglian's victory. The host says his Shang Zho
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], [[PostRestorationMeritThreat|复国功臣威胁化]], and [[PowerExitTrap|权力退场困境]] - concepts that explain why military resolve and political self-protection collide in this source.
 - [[XinyuanYan|新垣衍]], [[SubmissionThroughStatusElevation|尊号式投降方案]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 western-emperor rebuttal and its source-critical problem.
 - [[InterestReframingPersuasion|利益重构式说服]] and [[DignityBasedPersuasion|尊严激将式说服]] - speech techniques used in the Handan scene.
+- [[LiBai|李白]], [[WarringStatesRetainerPatronage|战国养士]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 96 part 4 resource-backed aristocratic freedom and later admiration.

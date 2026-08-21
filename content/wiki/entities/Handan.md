@@ -2,7 +2,7 @@
 title: "邯郸 / Handan"
 type: entity
 tags: [city, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,10 @@ The same source makes Handan the setting for [[XinyuanYan|新垣衍]]'s status-s
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] makes Handan the place where that diplomatic exit is contested by [[LuZhonglian|鲁仲连]]. Inside the besieged city, the argument shifts from whether aid can arrive to whether survival purchased by Qin's emperor title would destroy Zhao and Wei's remaining political autonomy.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] turns Handan from diplomatic setting into social breakdown under siege. The episode says the city has been surrounded for eight or nine months, with people driven to burning bones and exchanging children for food, while weapons are so depleted that soldiers improvise with wood. [[LiTan|李谈 / 李同]] uses that contrast to force [[Pingyuanjun|平原君]] to put household wealth, metal, women, and servants into the defense.
+
+This adds a morale layer to Handan's survival. Zhao is still waiting for Wei and Chu relief, but the city also needs internal time-buying through [[EliteCrisisBurdenSharing|elite burden sharing]]: commoners and soldiers are more likely to keep resisting when the highest household visibly loses its protected distance from the siege.
+
 ## Connections
 - [[ZhaoState|赵国]] - state whose city is under siege.
 - [[WeiState|魏国]] - attacking state in the source.
@@ -46,3 +50,4 @@ The same source makes Handan the setting for [[XinyuanYan|新垣衍]]'s status-s
 - [[MaoSui|毛遂]], [[Pingyuanjun|平原君]], [[ChuState|楚国]], and [[HezongAlliance|合纵]] - Zhouji 96 rescue-diplomacy branch triggered by Handan's siege.
 - [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 stalled relief and appeasement proposal inside the crisis.
 - [[LuZhonglian|鲁仲连]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 anti-submission argument inside Handan.
+- [[LiTan|李谈 / 李同]], [[Pingyuanjun|平原君]], [[EliteCrisisBurdenSharing|贵族危机共担动员]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - Zhouji 96 part 4 siege suffering and elite household mobilization.

@@ -13183,6 +13183,10 @@
     "title": "Elite Cosmopolitan Mobility",
     "url": "/wiki/concepts/elitecosmopolitanmobility/"
   },
+  "EliteCrisisBurdenSharing": {
+    "title": "Elite Crisis Burden Sharing / 贵族危机共担动员",
+    "url": "/wiki/concepts/elitecrisisburdensharing/"
+  },
   "EliteFiscalLawCompliance": {
     "title": "Elite Fiscal-Law Compliance / 贵族税法同遵",
     "url": "/wiki/concepts/elitefiscallawcompliance/"
@@ -23782,6 +23786,10 @@
   "LiTaitaiLihun": {
     "title": "李太太（《离婚》） / Mrs. Li",
     "url": "/wiki/entities/litaitailihun/"
+  },
+  "LiTan": {
+    "title": "李谈 / Li Tan",
+    "url": "/wiki/entities/litan/"
   },
   "LiTiantian": {
     "title": "李天天",
@@ -49022,5 +49030,9 @@
   "zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv": {
     "title": "《资治通鉴·周纪》96丨毛遂自荐（3）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv/"
+  },
+  "zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk": {
+    "title": "《资治通鉴·周纪》96丨毛遂自荐（4）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk/"
   }
 }

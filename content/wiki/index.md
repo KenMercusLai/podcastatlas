@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》96丨毛遂自荐（4）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk.md) — 芮淇讲透资治通鉴 episode on Lu Zhonglian's aristocratic-interest logic, Li Tan's rebuke of Pingyuanjun during the Handan siege, elite burden-sharing as morale mobilization, and the Li Tan/Li Tong name-avoidance note.
 - [《资治通鉴·周纪》96丨毛遂自荐（3）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv.md) — 芮淇讲透资治通鉴 episode on Lu Zhonglian's rebuttal of Xin Yuan Yan's western-emperor proposal, framing Qin submission as civilizational degradation and personal danger while critiquing the historical reliability of his Shang-Zhou precedent.
 - [《资治通鉴·周纪》96丨毛遂自荐（2）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech.md) — 芮淇讲透资治通鉴 episode completing Mao Sui's Chu-court persuasion, the blood-oath hezong commitment, Chu rescue's dependence on Wei transit, Jin Bi's halted relief army at Ye, and Xin Yuan Yan's western-emperor submission proposal.
 - [《资治通鉴·周纪》96丨毛遂自荐（1）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe.md) — 芮淇讲透资治通鉴 episode on Bai Qi's refusal to command the failing Handan campaign, Qin/Zhao exhaustion after Changping, Zhao's turn toward Chu for rescue, and Mao Sui's self-recommendation as the origin of "毛遂自荐" and "脱颖而出".
@@ -1125,6 +1126,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李谈 / Li Tan](entities/LiTan.md) — Zhao figure, also transmitted as Li Tong, whose rebuke makes Pingyuanjun convert household wealth and family labor into Handan siege defense before Li Tan dies in battle.
 - [新垣衍 / Xinyuan Yan](entities/XinyuanYan.md) — Wei envoy whose western-emperor proposal offers Zhao a surrender-like status concession after outside rescue stalls during the Handan crisis.
 - [晋鄙 / Jin Bi](entities/JinBi.md) — Wei commander sent with a rescue army for Zhao but halted at Ye after Qin threatens Wei.
 - [邺城 / Ye (Warring States)](entities/YeWarringStates.md) — Place where Jin Bi's Wei relief army stops, marking the gap between nominal rescue and effective aid to Handan.
@@ -1328,7 +1330,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [樗里子 / Chulizi](entities/Chulizi.md) — Qin royal-family commander and first right chancellor who later becomes part of the court pressure against Gan Mao's Yiyang campaign.
 - [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
-- [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao host whose reception of Mengchang Jun frames an earlier ridicule scene and whose Four Lords role is previewed after Zhouji 63.
+- [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao aristocrat and Four Lords figure whose household becomes a repeated crisis channel, from Shangdang and Mao Sui to Li Tan's Handan burden-sharing rebuke.
 - [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei member of the Warring States Four Lords, enfeoffed by Wei Anxi Wang as Qin pressure on Wei intensifies.
 - [春申君 / 黄歇 / Lord Chunshen](entities/Chunshenjun.md) — Chu diplomat and Warring States Four Lords member whose Zhouji 84 letter persuades Qin to halt Bai Qi by reframing Chu survival as Qin's interest.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
@@ -1437,7 +1439,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《孙膑兵法》 / Sun Bin's Art of War](entities/SunBinBingfa.md) — Military text whose 1972 Yinqueshan excavation supports distinguishing Sun Bin from Sunzi.
 - [桂陵之战 / Battle of Guiling](entities/GuilingBattle.md) — Qi victory produced by threatening Daliang, forcing Wei to leave Handan, and ambushing the returning army.
 - [大梁 / Daliang](entities/Daliang.md) — Wei capital-space reference point in encircling-Wei strategy, capital relocation, and later Qin pressure.
-- [邯郸 / Handan](entities/Handan.md) — Zhao capital that anchors both Wei's earlier siege and Qin's difficult post-Changping follow-on campaign.
+- [邯郸 / Handan](entities/Handan.md) — Zhao capital anchoring Wei's earlier siege, Qin's difficult post-Changping campaign, Lu Zhonglian's anti-submission argument, and Li Tan's siege-morale rebuke.
 - [东周国 / Eastern Zhou Polity](entities/EasternZhouPolity.md) — Small eastern Zhou polity attacked by Han in the 353 BCE notice.
 - [西周国 / Western Zhou Polity](entities/WesternZhouPolity.md) — Counterpart polity used to explain the royal domain's East-West split.
 - [昭奚恤 / Zhao Xixu](entities/ZhaoXixu.md) — Chu chancellor whose appointment and exposure to Jiang Yi's parables anchor the episode's court-politics branch.
@@ -7387,6 +7389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Elite Crisis Burden Sharing / 贵族危机共担动员](concepts/EliteCrisisBurdenSharing.md) — Crisis mobilization pattern where a protected elite household must convert private wealth, comfort, and family labor into collective defense to make siege resistance credible.
 - [Civilization-Barbarism Frame / 文明-野蛮框架](concepts/CivilizationBarbarismFrame.md) — Rhetorical frame that turns accommodation with a stronger power into acceptance of degraded or uncivilized order, used by Lu Zhonglian against Qin submission.
 - [Historical Precedent Weaponization / 历史先例武器化](concepts/HistoricalPrecedentWeaponization.md) — Persuasion pattern where inherited historical examples are used to force present fear or shame, while remaining subject to source-critical testing.
 - [Submission Through Status Elevation / 尊号式投降方案](concepts/SubmissionThroughStatusElevation.md) — Crisis appeasement pattern where a besieged state considers recognizing Qin's emperor title as a surrender-like route to withdrawal.

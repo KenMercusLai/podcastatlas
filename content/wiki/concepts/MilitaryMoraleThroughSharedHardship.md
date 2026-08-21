@@ -2,7 +2,7 @@
 title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
 type: concept
 tags: [military-history, leadership, morale, management]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The source explicitly translates the pattern into modern management terms: leade
 
 [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]] adds a high-merit constraint through [[TianDan|田单]]. [[LuZhonglian|鲁仲连]] says Tian Dan won at [[JimoWarringStates|即墨]] because commander and defenders had a shared death resolve, but Tian Dan's later attack on Di stalls after rank and wealth change his posture. The episode's further point is political: after [[QiXiangWang|齐襄王]] suspects Tian Dan, too much visible closeness to soldiers could renew [[PostRestorationMeritThreat|post-restoration merit threat]]. Shared hardship therefore creates morale but can also create political danger when a ruler fears a commander's independent loyalty network.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] adds a siege-city and aristocratic-household version. [[LiTan|李谈 / 李同]] tells [[Pingyuanjun|平原君]] that [[Handan|邯郸]] commoners are starving while his household still preserves wealth and comfort. When Pingyuanjun distributes that wealth and puts household members into the army, morale improves enough to gather three thousand dare-death fighters. This creates [[EliteCrisisBurdenSharing|elite crisis burden sharing]] as a neighboring concept: not every morale mechanism begins with a commander in the ranks; sometimes it begins with a privileged household visibly losing insulation from public suffering.
+
 ## Key Claims
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
@@ -23,6 +25,7 @@ The source explicitly translates the pattern into modern management terms: leade
 - A modern management analogy should preserve the asymmetry: battlefield loyalty and workplace commitment are not ethically identical.
 - The same practice can become politically unsafe for a high-merit commander if ruler suspicion interprets soldier loyalty as factional power.
 - Battlefield resolve is easier to sustain under existential siege than after rank, wealth, and court danger create reasons to survive and appear harmless.
+- Siege morale can also depend on whether elite households visibly convert protected wealth and comfort into the defense borne by ordinary soldiers and commoners.
 
 ## Connections
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
@@ -31,3 +34,4 @@ The source explicitly translates the pattern into modern management terms: leade
 - [[MilitaryPersonalization]] - adjacent risk when military loyalty attaches strongly to commanders.
 - [[CrisisStakeholderLeadership]] and [[VisionToRealityExecution]] - broader leadership and execution concepts outside the military setting.
 - [[TianDan|田单]], [[LuZhonglian|鲁仲连]], [[QiXiangWang|齐襄王]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 part 2 high-merit commander constraint.
+- [[LiTan|李谈 / 李同]], [[Pingyuanjun|平原君]], [[Handan|邯郸]], and [[EliteCrisisBurdenSharing|贵族危机共担动员]] - Zhouji 96 part 4 siege mobilization and household-sacrifice extension.

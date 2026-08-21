@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 4880
+wiki_total_pages: 4881
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "EliteCosmopolitanMobility"
     title: "Elite Cosmopolitan Mobility"
     url: "/wiki/concepts/elitecosmopolitanmobility/"
+  - key: "EliteCrisisBurdenSharing"
+    title: "Elite Crisis Burden Sharing / 贵族危机共担动员"
+    url: "/wiki/concepts/elitecrisisburdensharing/"
   - key: "EliteFiscalLawCompliance"
     title: "Elite Fiscal-Law Compliance / 贵族税法同遵"
     url: "/wiki/concepts/elitefiscallawcompliance/"

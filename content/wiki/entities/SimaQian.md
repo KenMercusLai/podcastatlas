@@ -2,7 +2,7 @@
 title: "司马迁 / Sima Qian"
 type: entity
 tags: [historian, chinese-history, writing]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The most important source claim is historiographical. QinZong notes that Sima Qi
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] adds Sima Qian as the historian behind the [[Shiji|《史记》]] Zhao dream structure and the critique of [[Pingyuanjun|平原君]]. The episode says Sima Qian uses repeated dreams in the Zhao lineage as [[HistoricalDreamForeshadowing|foreshadowing]], then judges Pingyuanjun as an elegant but strategically limited noble whose acceptance of [[Shangdang|上党]] helped open the path to [[ChangpingBattle|长平之战]].
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] adds Sima Qian through a name-avoidance detail rather than a judgment. The episode explains [[LiTan|李谈 / 李同]]'s transmitted name variation by saying that Shiji sometimes changes "谈" to "同" because Sima Qian avoided his father Sima Tan's personal name. The source also notes inconsistency, making the point a useful [[TextualVariantPoliticalStakes|textual-variant]] caution rather than a simple rule.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - narrative scene discussed in the episode.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - figures in the source reading.
@@ -37,3 +39,4 @@ The most important source claim is historiographical. QinZong notes that Sima Qi
 - [[WeiRan|魏冉]], [[FanJu|范雎]], and [[QinFourNoblesCourtPower|秦国四贵权力结构]] - Zhouji 90 historiographical sympathy and host disagreement over Wei Ran's fall.
 - [[FanJu|范雎]], [[WeiQiWarringStates|魏齐]], [[PersonalRevengeThroughStatePower|以国力行私仇]], and [[RetainerReciprocityEthic|士为知己者死]] - Zhouji 95 part 4 revenge-and-repayment formula.
 - [[HistoricalDreamForeshadowing|梦兆叙事伏笔]], [[Pingyuanjun|平原君]], [[Shangdang|上党]], and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 Zhao-line dream structure and responsibility judgment.
+- [[LiTan|李谈 / 李同]], [[Shiji|《史记》]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 96 part 4 name-avoidance variant branch.
