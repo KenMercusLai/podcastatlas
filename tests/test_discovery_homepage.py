@@ -15,7 +15,7 @@ class DiscoveryHomepageLayoutTest(unittest.TestCase):
 
         self.assertNotIn("http-equiv=\"refresh\"", homepage)
         self.assertIn('partial "seo.html" .', base)
-        self.assertIn('rel="canonical" href="{{ .Permalink }}"', seo)
+        self.assertIn('rel="canonical" href="{{ $canonicalURL }}"', seo)
         self.assertNotIn('rel="canonical"', homepage)
         self.assertIn("A living knowledge atlas synthesized from podcasts.", homepage)
         self.assertIn("<pagefind-searchbox></pagefind-searchbox>", homepage)

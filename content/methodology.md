@@ -30,4 +30,4 @@ Concept and Entity pages may combine material from more than one episode. Their 
 - Podcast participants may be mistaken. The atlas preserves attribution but does not independently verify every external claim.
 - Pages evolve as new episodes arrive. A later synthesis may revise an earlier framing while Update History preserves the chronology of that change.
 
-Readers should verify consequential claims against the original audio and other primary evidence. Corrections can be proposed through the [Podcast Atlas GitHub repository](https://github.com/KenMercusLai/podcastatlas/issues); include the public page URL, the disputed passage, and the supporting source or timestamp.
+Readers should verify consequential claims against the original audio and other primary evidence. Any correction review should identify the public page URL, the disputed passage, and the supporting source or timestamp.

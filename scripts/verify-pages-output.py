@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 
 from pathlib import Path
+from datetime import date
 import argparse
 import html
 import json
 import re
 import sys
 import xml.etree.ElementTree as ET
-from urllib.parse import urlsplit
+from html.parser import HTMLParser
+from urllib.parse import unquote, urljoin, urlsplit
 
 
 REQUIRED_FILES = (
@@ -77,6 +79,218 @@ def extracted_attribute(match: re.Match | None) -> str | None:
     return html.unescape(next(value for value in match.groups() if value is not None))
 
 
+class PublicLinkParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.has_github_link = False
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "a":
+            return
+        href = dict(attrs).get("href")
+        if not href:
+            return
+        normalized = f"https:{href}" if href.startswith("//") else href
+        normalized = re.sub(r"[\x00-\x20\x7f]", "", normalized)
+        normalized = normalized.replace("\\", "/")
+        normalized = re.sub(r"^(https?):/*", r"\1://", normalized, flags=re.I)
+        try:
+            hostname = unquote(urlsplit(normalized).hostname or "").lower()
+        except ValueError:
+            return
+        hostname = hostname.translate(
+            str.maketrans({"。": ".", "．": ".", "｡": "."})
+        ).rstrip(".")
+        if hostname == "github.com" or hostname.endswith(".github.com"):
+            self.has_github_link = True
+
+
+class EpisodeListParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.in_episode_list = False
+        self.in_item = False
+        self.current_href: str | None = None
+        self.current_date: str | None = None
+        self.episode_hrefs: list[str] = []
+        self.episode_dates: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = dict(attrs)
+        classes = (attributes.get("class") or "").split()
+        if tag == "ul" and "episode-list" in classes:
+            self.in_episode_list = True
+        elif self.in_episode_list and tag == "li":
+            self.in_item = True
+            self.current_href = None
+            self.current_date = None
+        elif self.in_item and tag == "a" and self.current_href is None:
+            self.current_href = attributes.get("href")
+        elif self.in_item and tag == "time" and self.current_date is None:
+            self.current_date = attributes.get("datetime")
+
+    def handle_endtag(self, tag: str) -> None:
+        if self.in_item and tag == "li":
+            if self.current_href:
+                self.episode_hrefs.append(self.current_href)
+                self.episode_dates.append(self.current_date or "")
+            self.in_item = False
+            self.current_href = None
+            self.current_date = None
+        elif self.in_episode_list and tag == "ul":
+            self.in_episode_list = False
+
+
+def episode_list_entries(path: Path) -> list[tuple[str, str]]:
+    parser = EpisodeListParser()
+    parser.feed(path.read_text(encoding="utf-8"))
+    return list(zip(parser.episode_hrefs, parser.episode_dates))
+
+
+def episode_slug_from_href(href: str) -> str | None:
+    try:
+        path = unquote(urlsplit(href).path)
+    except ValueError:
+        return None
+    marker = "/episodes/"
+    if marker not in path:
+        return None
+    tail = path.rsplit(marker, 1)[1].strip("/")
+    if not tail or "/" in tail or tail.startswith("page/"):
+        return None
+    return tail
+
+
+def validate_episode_pagination(
+    public_dir: Path, episode_html: list[Path], errors: list[str]
+) -> None:
+    episodes_dir = public_dir / "episodes"
+    list_pages = [episodes_dir / "index.html"]
+    list_pages.extend(
+        sorted(
+            (
+                path
+                for path in episodes_dir.glob("page/*/index.html")
+                if path.parent.name.isdigit() and int(path.parent.name) > 1
+            ),
+            key=lambda path: int(path.parent.name),
+        )
+    )
+    list_pages = [path for path in list_pages if path.is_file()]
+
+    expected_page_count = max(1, (len(episode_html) + 99) // 100)
+    if len(list_pages) != expected_page_count:
+        errors.append(
+            "episode pagination page count mismatch: "
+            f"expected {expected_page_count}, found {len(list_pages)}"
+        )
+
+    found_page_numbers = [
+        1 if page == episodes_dir / "index.html" else int(page.parent.name)
+        for page in list_pages
+    ]
+    expected_page_numbers = list(range(1, expected_page_count + 1))
+    if found_page_numbers != expected_page_numbers:
+        errors.append(
+            "episode pagination page sequence mismatch: "
+            f"expected {expected_page_numbers}, found {found_page_numbers}"
+        )
+
+    all_hrefs: list[str] = []
+    all_dates: list[str] = []
+    root_canonical_url = extracted_attribute(
+        CANONICAL_URL_RE.search((episodes_dir / "index.html").read_text(encoding="utf-8"))
+    ) if (episodes_dir / "index.html").is_file() else None
+    for page_index, page in enumerate(list_pages):
+        if page != episodes_dir / "index.html":
+            validate_metadata_page(page, public_dir, errors)
+        entries = episode_list_entries(page)
+        hrefs = [href for href, _ in entries]
+        all_dates.extend(date for _, date in entries)
+        relative = page.relative_to(public_dir).as_posix()
+        canonical_url = extracted_attribute(
+            CANONICAL_URL_RE.search(page.read_text(encoding="utf-8"))
+        )
+        if root_canonical_url is not None and canonical_url is not None:
+            page_number = 1 if page == episodes_dir / "index.html" else int(page.parent.name)
+            expected_canonical_url = (
+                root_canonical_url
+                if page_number == 1
+                else f"{root_canonical_url.rstrip('/')}/page/{page_number}/"
+            )
+            if canonical_url != expected_canonical_url:
+                errors.append(
+                    f"episode pagination canonical mismatch: {relative}: "
+                    f"expected {expected_canonical_url}, found {canonical_url}"
+                )
+        expected_item_count = min(100, max(0, len(episode_html) - (page_index * 100)))
+        if len(hrefs) != expected_item_count:
+            errors.append(
+                f"episode pagination page size mismatch: {relative}: "
+                f"expected {expected_item_count}, found {len(hrefs)}"
+            )
+        all_hrefs.extend(hrefs)
+
+    if any(not publication_date for publication_date in all_dates):
+        errors.append("episode list item missing publication date")
+    for publication_date in sorted(set(all_dates) - {""}):
+        try:
+            parsed_date = date.fromisoformat(publication_date)
+        except ValueError:
+            parsed_date = None
+        if parsed_date is None or parsed_date.isoformat() != publication_date:
+            errors.append(
+                f"episode list item has invalid publication date: {publication_date}"
+            )
+
+    if all_dates != sorted(all_dates, reverse=True):
+        errors.append("episode list is not ordered newest first")
+
+    unique_hrefs = set(all_hrefs)
+    if len(unique_hrefs) != len(all_hrefs):
+        errors.append("episode pagination contains duplicate episode links")
+    if len(unique_hrefs) != len(episode_html):
+        errors.append(
+            "episode list coverage mismatch: "
+            f"expected {len(episode_html)} unique episodes, found {len(unique_hrefs)}"
+        )
+
+    expected_slugs = {path.parent.name for path in episode_html}
+    actual_slugs = {
+        slug if (slug := episode_slug_from_href(href)) is not None else f"invalid:{href}"
+        for href in unique_hrefs
+    }
+    missing_slugs = expected_slugs - actual_slugs
+    unexpected_slugs = actual_slugs - expected_slugs
+    if missing_slugs or unexpected_slugs:
+        errors.append(
+            "episode list/detail mismatch: "
+            f"missing {len(missing_slugs)}, unexpected {len(unexpected_slugs)}"
+        )
+
+    if root_canonical_url is not None:
+        expected_episode_urls = {
+            canonical_url
+            for path in episode_html
+            if (
+                canonical_url := extracted_attribute(
+                    CANONICAL_URL_RE.search(path.read_text(encoding="utf-8"))
+                )
+            )
+            is not None
+        }
+        actual_episode_urls = {
+            urljoin(root_canonical_url, href) for href in unique_hrefs
+        }
+        missing_urls = expected_episode_urls - actual_episode_urls
+        unexpected_urls = actual_episode_urls - expected_episode_urls
+        if missing_urls or unexpected_urls:
+            errors.append(
+                "episode list/detail URL mismatch: "
+                f"missing {len(missing_urls)}, unexpected {len(unexpected_urls)}"
+            )
+
+
 def validate_metadata_page(path: Path, public_dir: Path, errors: list[str]) -> None:
     relative = path.relative_to(public_dir).as_posix()
     page_html = path.read_text(encoding="utf-8")
@@ -141,6 +355,16 @@ def validate(public_dir: Path) -> dict:
             relative = path.relative_to(public_dir).as_posix()
             errors.append(f"symbolic link not allowed: {relative}")
 
+    for path in files:
+        if path.suffix.lower() != ".html":
+            continue
+        page_html = path.read_text(encoding="utf-8")
+        link_parser = PublicLinkParser()
+        link_parser.feed(page_html)
+        if link_parser.has_github_link:
+            relative = path.relative_to(public_dir).as_posix()
+            errors.append(f"public GitHub link found: {relative}")
+
     for relative in REQUIRED_FILES:
         if not (public_dir / relative).is_file():
             errors.append(f"missing required file: {relative}")
@@ -198,6 +422,7 @@ def validate(public_dir: Path) -> dict:
             if not markdown_path.is_file():
                 relative = markdown_path.relative_to(public_dir).as_posix()
                 errors.append(f"missing episode detail Markdown: {relative}")
+        validate_episode_pagination(public_dir, episode_html, errors)
 
     concept_html = sorted((public_dir / "wiki" / "concepts").glob("*/index.html"))
     if concept_html:

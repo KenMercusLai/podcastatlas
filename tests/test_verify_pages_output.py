@@ -21,6 +21,17 @@ def write(path, content=""):
     path.write_text(content)
 
 
+def episode_list_body(slugs, dates=None):
+    if dates is None:
+        dates = ["2026-01-01"] * len(slugs)
+    items = "".join(
+        f'<li><a href="/episodes/{slug}/">Episode {slug}</a>'
+        f'{f"<time datetime={date}>{date}</time>" if date else ""}</li>'
+        for slug, date in zip(slugs, dates)
+    )
+    return f'<ul class="episode-list">{items}</ul>'
+
+
 def valid_html(url, body=""):
     payload = json.dumps(
         {
@@ -92,7 +103,12 @@ class VerifyPagesOutputTest(unittest.TestCase):
             )
             for relative in metadata_pages:
                 url = f"https://podcastatlas.ai/{relative.removesuffix('index.html')}"
-                body = "A living knowledge atlas synthesized from podcasts." if relative == "index.html" else ""
+                if relative == "index.html":
+                    body = "A living knowledge atlas synthesized from podcasts."
+                elif relative == "episodes/index.html":
+                    body = episode_list_body(("example", "episode.160", "中文标题"))
+                else:
+                    body = ""
                 write(public / relative, valid_html(url, body))
             write(public / "index.xml", "<rss />")
             write(public / "episodes/index.xml", "<rss />")
@@ -102,6 +118,222 @@ class VerifyPagesOutputTest(unittest.TestCase):
 
         self.assertEqual([], report["errors"])
         self.assertEqual(len(expected_paths) + 3, report["file_count"])
+
+    def test_accepts_static_episode_pagination_with_one_hundred_items_per_page(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = [f"episode-{index:03d}" for index in range(101)]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://podcastatlas.ai/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html("https://podcastatlas.ai/episodes/", episode_list_body(slugs[:100])),
+            )
+            write(
+                public / "episodes" / "page" / "1" / "index.html",
+                '<html><head><meta http-equiv="refresh" content="0; url=/episodes/"></head></html>',
+            )
+            write(
+                public / "episodes" / "page" / "2" / "index.html",
+                valid_html("https://podcastatlas.ai/episodes/page/2/", episode_list_body(slugs[100:])),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertFalse(
+            [error for error in report["errors"] if error.startswith("episode pagination") or error.startswith("episode list")]
+        )
+
+    def test_rejects_paginated_episode_canonical_on_wrong_origin_or_base_path(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = [f"episode-{index:03d}" for index in range(101)]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://example.test/project/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html("https://example.test/project/episodes/", episode_list_body(slugs[:100])),
+            )
+            write(
+                public / "episodes" / "page" / "2" / "index.html",
+                valid_html("https://wrong.example/episodes/page/2/", episode_list_body(slugs[100:])),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "episode pagination canonical mismatch: episodes/page/2/index.html: "
+            "expected https://example.test/project/episodes/page/2/, "
+            "found https://wrong.example/episodes/page/2/",
+            report["errors"],
+        )
+
+    def test_rejects_noncontiguous_episode_page_numbers(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = [f"episode-{index:03d}" for index in range(101)]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://podcastatlas.ai/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html("https://podcastatlas.ai/episodes/", episode_list_body(slugs[:100])),
+            )
+            write(
+                public / "episodes" / "page" / "3" / "index.html",
+                valid_html("https://podcastatlas.ai/episodes/page/3/", episode_list_body(slugs[100:])),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "episode pagination page sequence mismatch: expected [1, 2], found [1, 3]",
+            report["errors"],
+        )
+
+    def test_rejects_episode_list_links_on_wrong_origin_or_base_path(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "episodes" / "episode-001" / "index.html",
+                valid_html("https://example.test/project/episodes/episode-001/"),
+            )
+            write(public / "episodes" / "episode-001.md", "content")
+            wrong_link = (
+                '<ul class="episode-list"><li>'
+                '<a href="https://evil.test/episodes/episode-001/">Episode</a>'
+                "</li></ul>"
+            )
+            write(
+                public / "episodes" / "index.html",
+                valid_html("https://example.test/project/episodes/", wrong_link),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "episode list/detail URL mismatch: missing 1, unexpected 1",
+            report["errors"],
+        )
+
+    def test_rejects_episode_lists_that_do_not_match_detail_pages(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = [f"episode-{index:03d}" for index in range(101)]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://podcastatlas.ai/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html("https://podcastatlas.ai/episodes/", episode_list_body(slugs[:100])),
+            )
+            write(
+                public / "episodes" / "page" / "2" / "index.html",
+                valid_html(
+                    "https://podcastatlas.ai/episodes/page/2/",
+                    episode_list_body(("not-a-real-episode",)),
+                ),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "episode list/detail mismatch: missing 1, unexpected 1",
+            report["errors"],
+        )
+
+    def test_rejects_underfilled_nonfinal_episode_pages(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = [f"episode-{index:03d}" for index in range(101)]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://podcastatlas.ai/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html("https://podcastatlas.ai/episodes/", episode_list_body(slugs[:99])),
+            )
+            write(
+                public / "episodes" / "page" / "2" / "index.html",
+                valid_html(
+                    "https://podcastatlas.ai/episodes/page/2/",
+                    episode_list_body(slugs[99:]),
+                ),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "episode pagination page size mismatch: episodes/index.html: expected 100, found 99",
+            report["errors"],
+        )
+
+    def test_rejects_episode_pages_that_are_not_newest_first(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = ["older", "newer"]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://podcastatlas.ai/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html(
+                    "https://podcastatlas.ai/episodes/",
+                    episode_list_body(slugs, ("2026-01-01", "2026-02-01")),
+                ),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn("episode list is not ordered newest first", report["errors"])
+
+    def test_requires_parseable_publication_dates_on_episode_list_items(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = ["missing-date", "invalid-date"]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://podcastatlas.ai/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html(
+                    "https://podcastatlas.ai/episodes/",
+                    episode_list_body(slugs, (None, "not-a-date")),
+                ),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn("episode list item missing publication date", report["errors"])
+        self.assertIn("episode list item has invalid publication date: not-a-date", report["errors"])
+
+    def test_rejects_an_incomplete_episode_pagination_artifact(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            slugs = [f"episode-{index:03d}" for index in range(101)]
+            for slug in slugs:
+                write(public / "episodes" / slug / "index.html", valid_html(f"https://podcastatlas.ai/episodes/{slug}/"))
+                write(public / "episodes" / f"{slug}.md", "content")
+            write(
+                public / "episodes" / "index.html",
+                valid_html("https://podcastatlas.ai/episodes/", episode_list_body(slugs[:100])),
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn("episode pagination page count mismatch: expected 2, found 1", report["errors"])
+        self.assertIn("episode list coverage mismatch: expected 101 unique episodes, found 100", report["errors"])
 
     def test_rejects_invalid_json_ld(self):
         verifier = load_verifier()
@@ -155,6 +387,44 @@ class VerifyPagesOutputTest(unittest.TestCase):
         self.assertIn("invalid canonical URL in index.html: '/relative/'", report["errors"])
         self.assertIn("canonical URL does not match Open Graph URL in index.html", report["errors"])
         self.assertIn("canonical URL does not match JSON-LD URL in index.html", report["errors"])
+
+    def test_rejects_public_github_links(self):
+        verifier = load_verifier()
+        for href in (
+            "https://github.com/example/repository/issues",
+            "//github.com/example/repository/issues",
+            "https://github&#46;com/example/repository/issues",
+            "https://gith&#117;b.com/example/repository/issues",
+            "https://&#103;ithub.com/example/repository/issues",
+            "https://gith%75b.com/example/repository/issues",
+            "https://github%2ecom/example/repository/issues",
+            "https://github.com./example/repository/issues",
+            "https://pages.github.com/example/repository/issues",
+            "https://github.com\\example/repository/issues",
+            "https://github.com\\@evil.test/repository/issues",
+            "https:\\github.com\\example/repository/issues",
+            "https:github.com/example/repository/issues",
+            "https:\t//github.com/example/repository/issues",
+            "https://git\thub.com/example/repository/issues",
+            "https://github．com/example/repository/issues",
+            "https://github｡com/example/repository/issues",
+            "https://github.\ncom/example/repository/issues",
+        ):
+            with self.subTest(href=href), tempfile.TemporaryDirectory() as directory:
+                public = Path(directory)
+                write(
+                    public / "methodology/index.html",
+                    valid_html(
+                        "https://podcastatlas.ai/methodology/",
+                        f'<a href="{href}">Report</a>',
+                    ),
+                )
+
+                report = verifier.validate(public)
+
+                self.assertIn(
+                    "public GitHub link found: methodology/index.html", report["errors"]
+                )
 
     def test_requires_trust_pages_robots_and_social_card(self):
         verifier = load_verifier()

@@ -16,7 +16,7 @@ class TrustAndSeoTest(unittest.TestCase):
         home = HOME_LAYOUT.read_text()
 
         self.assertIn('partial "seo.html" .', base)
-        self.assertIn('<link rel="canonical" href="{{ .Permalink }}">', seo)
+        self.assertIn('<link rel="canonical" href="{{ $canonicalURL }}">', seo)
         self.assertIn('name="description"', seo)
         self.assertIn('property="og:title"', seo)
         self.assertIn('property="og:description"', seo)
@@ -56,7 +56,8 @@ class TrustAndSeoTest(unittest.TestCase):
         self.assertIn("original audio", methodology)
         self.assertIn("Source Note", methodology)
         self.assertIn("not independent fact-checking", methodology)
-        self.assertIn("GitHub", methodology)
+        self.assertIn("supporting source or timestamp", methodology)
+        self.assertNotIn("github.com", methodology.lower())
 
     def test_trust_pages_use_a_general_page_rendering_branch(self):
         single = (ROOT / "layouts/_default/single.html").read_text()
@@ -75,7 +76,7 @@ class TrustAndSeoTest(unittest.TestCase):
         self.assertIn('{{ "methodology/" | relURL }}', base)
         self.assertIn('{{ "wiki/update-history/" | relURL }}', base)
         self.assertIn("A living knowledge atlas synthesized from podcasts.", base)
-        self.assertIn("github.com/KenMercusLai/podcastatlas", base)
+        self.assertNotIn("github.com/KenMercusLai/podcastatlas", base)
         self.assertIn("footer-links", base)
 
     def test_robots_and_social_card_are_publishable(self):

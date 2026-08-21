@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if and .Title (not .IsHome) }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+  <title>{{ partial "page-title.html" . }}</title>
   {{ partial "seo.html" . }}
   {{ $searchType := partial "search-type.html" . }}
   <meta data-pagefind-filter="type[content]" content="{{ $searchType }}">
@@ -162,6 +162,14 @@
       border-bottom: 1px solid var(--line);
     }
 
+    .episode-list li > div {
+      min-width: 0;
+    }
+
+    .episode-list li > div > a {
+      overflow-wrap: anywhere;
+    }
+
     .episode-list a,
     .show-list a,
     .page-list a,
@@ -219,6 +227,30 @@
     .wiki-letter-tab.is-active {
       background: var(--panel);
       font-weight: 700;
+    }
+
+    .pagination {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+      gap: 16px;
+      align-items: center;
+      margin-top: 28px;
+      padding-top: 20px;
+      border-top: 1px solid var(--line);
+    }
+
+    .pagination-edge-next {
+      text-align: right;
+    }
+
+    .pagination-edge span {
+      color: var(--muted);
+      opacity: 0.55;
+    }
+
+    .pagination-status {
+      color: var(--muted);
+      white-space: nowrap;
     }
 
     .content {
@@ -282,6 +314,21 @@
         justify-content: flex-start;
       }
 
+      .pagination {
+        grid-template-columns: 1fr 1fr;
+        gap: 10px 16px;
+      }
+
+      .pagination-status {
+        grid-column: 1 / -1;
+        grid-row: 1;
+        text-align: center;
+      }
+
+      .pagination-edge {
+        grid-row: 2;
+      }
+
       .show-list li,
       .episode-list li,
       .page-list li,
@@ -322,7 +369,6 @@
       <a href="{{ "about/" | relURL }}">About</a>
       <a href="{{ "methodology/" | relURL }}">Methodology</a>
       <a href="{{ "wiki/update-history/" | relURL }}">Update History</a>
-      <a href="https://github.com/KenMercusLai/podcastatlas">GitHub</a>
     </nav>
   </footer>
 </body>

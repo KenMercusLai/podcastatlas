@@ -3,5 +3,13 @@
   {{ with .Content }}
     <div class="content">{{ . }}</div>
   {{ end }}
-  {{ partial "episode-list.html" (dict "pages" .Pages "showMeta" true) }}
+  {{ if eq .Section "episodes" }}
+    {{ $episodePages := .Pages.ByDate.Reverse }}
+    {{ $paginator := .Paginate $episodePages }}
+    <p class="count">{{ len $episodePages }} episodes · Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</p>
+    {{ partial "episode-list.html" (dict "pages" $paginator.Pages "showMeta" true) }}
+    {{ partial "pagination.html" $paginator }}
+  {{ else }}
+    {{ partial "episode-list.html" (dict "pages" .Pages "showMeta" true) }}
+  {{ end }}
 {{ end }}

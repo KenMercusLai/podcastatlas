@@ -6,6 +6,10 @@ enableRobotsTXT = true
 preview_urls = false
 ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$', '(^|/)content/wiki/overview\.md$']
 
+[pagination]
+  pagerSize = 100
+  path = 'page'
+
 [params]
   description = 'A living knowledge atlas synthesized from podcasts, connecting episode guides, source notes, concepts, entities, and evolving synthesis.'
   socialImage = 'images/podcast-atlas-social.png'
