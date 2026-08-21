@@ -8971,3 +8971,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》96丨毛遂自荐（1）
+
+Added source page for the first Mao Sui installment: Wang Ling's failed Handan attack, Bai Qi's refusal to replace him, Qin's post-Changping depletion, Zhao's hardened capital defense, Zhao's turn to Chu for rescue, and Mao Sui's self-recommendation. Created Mao Sui and Mao Sui Self-Recommendation; updated overview, index, Bai Qi, Wang Ling, Wang He, Qin Zhaoxiang Wang, Fan Ju, Zhao Dan, Pingyuanjun, Handan, Changping, Qin/Zhao/Chu/Qi/Wei state pages, hezong, war-cost discipline, retainer patronage, and aristocratic honor-over-life. No direct contradiction found; Mao Sui's later Chu-court performance is kept deferred to later installment(s).
+
+## [2026-08-21] lint | Wiki lint
+
+Ran health before lint; health scanned 12,247 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,247 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki has 12,247 pages, so graph findings are advisory until `build graph` refreshes it; the current graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

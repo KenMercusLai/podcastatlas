@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 4875
+wiki_total_pages: 4876
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "ManufacturingWorkforcePipeline"
     title: "Manufacturing Workforce Pipeline"
     url: "/wiki/concepts/manufacturingworkforcepipeline/"
+  - key: "MaoSuiSelfRecommendation"
+    title: "Mao Sui Self-Recommendation / 毛遂自荐"
+    url: "/wiki/concepts/maosuiselfrecommendation/"
   - key: "MAPERInvestmentResearchFramework"
     title: "MAPER Investment Research Framework"
     url: "/wiki/concepts/maperinvestmentresearchframework/"

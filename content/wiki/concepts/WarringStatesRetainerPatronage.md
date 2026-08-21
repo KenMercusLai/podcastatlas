@@ -2,7 +2,7 @@
 title: "Warring States Retainer Patronage / 战国养士"
 type: concept
 tags: [statecraft, talent, patronage, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 
 [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]] adds a hospitality and refuge test. [[Pingyuanjun|平原君]]'s protection of [[WeiQiWarringStates|魏齐]] turns a household relationship into Qin-Zhao coercion, while [[Xinlingjun|信陵君]]'s reception of [[YuQing|虞卿]] and Wei Qi depends on [[HouYing|侯嬴]] reminding him what aristocratic recognition requires. Patronage here is not just recruiting talent; it is taking visible risk for guests whose honor may not survive hesitation.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] adds a latent-talent and self-nomination case. Pingyuanjun's large household produces nineteen obvious candidates for the Chu rescue mission, but [[MaoSui|毛遂]] has to volunteer for the twentieth seat because three quiet years have not made him visible. The scene makes patronage a talent-discovery system with blind spots: crisis can reveal capable retainers who normal reputation filters miss.
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
@@ -38,6 +40,7 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 - Zhouji 64 adds an intellectual-quality failure: rhetorical brilliance inside a patronage circle may still need outside critics to test whether it serves truth.
 - Zhouji 86 adds a fiscal-control failure mode: the expense and privilege of a great retainer household can become a tax-compliance problem for the state.
 - Zhouji 95 part 3 adds a refuge-control failure mode: protecting a guest can preserve aristocratic reputation while importing coercive pressure from a stronger state.
+- Zhouji 96 adds a talent-discovery failure mode: a patron can maintain a large household yet still overlook quiet ability until the retainer self-nominates.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -51,3 +54,4 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 - [[Pingyuanjun|平原君]], [[GongsunLong|公孙龙]], [[KongChuan|孔川]], [[ZouYan|邹衍]], [[MingjiaDisputation|名辩]], and [[TruthSeekingDebateNorm|求明理的辩论规范]] - Zhouji 64 patronage as a setting for debate-quality judgment.
 - [[ZhaoShe|赵奢]], [[Pingyuanjun|平原君]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 patronage cost and elite tax-compliance branch.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[AristocraticPoliticalAsylum|贵族政治避难]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 risky hospitality and recognition timing.
+- [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], and [[Handan|邯郸]] - Zhouji 96 self-nomination for a rescue mission.

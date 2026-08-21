@@ -25503,6 +25503,14 @@
     "title": "Mao Honghui / 毛红汇",
     "url": "/wiki/entities/maohonghui/"
   },
+  "MaoSui": {
+    "title": "毛遂 / Mao Sui",
+    "url": "/wiki/entities/maosui/"
+  },
+  "MaoSuiSelfRecommendation": {
+    "title": "Mao Sui Self-Recommendation / 毛遂自荐",
+    "url": "/wiki/concepts/maosuiselfrecommendation/"
+  },
   "MaoWenchao": {
     "title": "毛文超 / Mao Wenchao",
     "url": "/wiki/entities/maowenchao/"
@@ -48974,5 +48982,9 @@
   "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa": {
     "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+  },
+  "zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe": {
+    "title": "《资治通鉴·周纪》96丨毛遂自荐（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe/"
   }
 }

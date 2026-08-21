@@ -2,7 +2,7 @@
 title: "Aristocratic Honor Over Life / 贵族名誉高于生命"
 type: concept
 tags: [honor, pre-qin-history, ethics, political-violence]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 
 [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] turns that volatility into social analysis. Wei Qi's suicide is used as evidence against a purely manipulative reading of his flight, while Yu Qing, Pingyuanjun, and Xinlingjun show how a guest's reputation can become the host's reputation. The same source also adds the later critique: [[XunYue|荀悦]] worries that this kind of honor can harden into [[DeathPartyLoyalty|死党之义与守职奉上]].
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] adds Bai Qi as a command-honor variant. He would rather risk royal punishment for refusing [[QinZhaoxiangwang|秦昭襄王]] and [[FanJu|范雎]] than accept a Handan campaign likely to fail and stain his record. Here honor is professional military reputation, not family reputation or guest-recognition etiquette, but it still makes survival and obedience secondary to public name.
+
 ## Key Claims
 - Public name can matter as much as physical survival in aristocratic honor narratives.
 - Family protection and family reputation can pull in opposite directions.
@@ -36,6 +38,7 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 - Wang Zhu adds a loyal-minister variant where death avoids both enemy service and making local people carry the cost of refusal.
 - Wei Qi adds a fugitive-honor variant where even delayed recognition by a potential host can feel worse than death.
 - Zhouji 95 part 4 adds that explaining honor volatility is not the same as praising it; later readers can admire, criticize, or distance themselves from the same conduct.
+- Zhouji 96 adds a command-reputation variant where a commander risks punishment rather than accept an assignment he believes will produce disgrace.
 
 ## Connections
 - [[NieZheng|聂政]] and [[NieYing|聂英]] - central source case.
@@ -45,6 +48,7 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 - [[WangZhu|王蠋]], [[QiState|齐国]], [[YanState|燕国]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 loyal-minister death under coercive recruitment.
 - [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[Xinlingjun|信陵君]], and [[HouYing|侯嬴]] - Zhouji 95 part 3 fugitive honor and fatal reception-delay branch.
 - [[XunYue|荀悦]], [[LiBai|李白]], [[WangShizhen|王世贞]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 reception spectrum around honor-over-life conduct.
+- [[BaiQi|白起]], [[QinZhaoxiangwang|秦昭襄王]], [[WangLing|王陵]], [[Handan|邯郸]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 96 command refusal as reputation-risk discipline.
 - [[YanZhongzi|严仲子]] and [[XiaLei|侠累]] - revenge commission and target.
 - [[PoliticalAssassinationEthics]] - adjacent moral-political frame.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - broader early Warring States violence transition.

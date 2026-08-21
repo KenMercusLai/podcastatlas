@@ -2,7 +2,7 @@
 title: "平原君 / Lord Pingyuan"
 type: entity
 tags: [person, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,8 @@ That clarification makes Pingyuanjun an especially visible case for the clash be
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] makes his position decisive. After Zhao Dan dislikes Zhao Bao's refusal argument, he turns to Pingyuanjun, who supports receiving Shangdang and is sent to take possession of it. The episode closes with [[SimaQian|司马迁]]'s judgment that Pingyuanjun could be a "翩翩浊世之佳公子" and still "不识大体," because he let [[WindfallDecisionTrap|利令智昏]] pull Zhao toward the [[ChangpingBattle|长平之战]] prelude.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] shifts Pingyuanjun from asylum and Shangdang decision risk into urgent rescue diplomacy. With [[Handan|邯郸]] under Qin pressure and Wei/Qi support unreliable, [[ZhaoDan|赵丹 / 赵孝成王]] sends him to seek help from [[ChuState|楚国]]. Pingyuanjun's attempt to choose twenty capable retainers but finding only nineteen creates the scene in which [[MaoSui|毛遂]] volunteers, showing both the scale of Pingyuanjun's household and the limits of reputation-based selection inside [[WarringStatesRetainerPatronage|战国养士]].
+
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]] - visiting lord hosted in Zhao.
 - [[ZhaoState|赵国]] - state setting for the ridicule and retaliatory violence.
@@ -47,3 +49,4 @@ That clarification makes Pingyuanjun an especially visible case for the clash be
 - [[ZhaoWeihou|赵威后]], [[QiState|齐国]], [[ChangAnJunZhao|长安君]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 91 crisis that follows the refuge problem.
 - [[FengTing|冯亭]], [[Shangdang|上党]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 Zhao court consultation over the Shangdang offer.
 - [[SimaQian|司马迁]] and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 attribution of responsibility for accepting Shangdang.
+- [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], and [[HezongAlliance|合纵]] - Zhouji 96 rescue mission and retainer-selection crisis.

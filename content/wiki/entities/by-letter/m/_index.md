@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6254
+wiki_total_pages: 6255
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "MaoWenchao"
     title: "毛文超 / Mao Wenchao"
     url: "/wiki/entities/maowenchao/"
+  - key: "MaoSui"
+    title: "毛遂 / Mao Sui"
+    url: "/wiki/entities/maosui/"
   - key: "MinzhengVocationalUniversity"
     title: "民政职业大学 / Minzheng Vocational University"
     url: "/wiki/entities/minzhengvocationaluniversity/"

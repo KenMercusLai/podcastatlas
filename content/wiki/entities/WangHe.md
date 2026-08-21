@@ -2,7 +2,7 @@
 title: "王龁 / Wang He"
 type: entity
 tags: [person, general, qin-state, warring-states, military]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]
 last_updated: 2026-08-21
 ---
 
@@ -14,8 +14,11 @@ His role changes after [[ZhaoKuo|赵括]] replaces [[LianPo|廉颇]]. When [[Qin
 
 [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] gives Wang He the first named follow-on role after Changping. In Zhou Nan Wang's fifty-sixth year, Bai Qi orders Wang He to attack [[WuanWarringStates|武安]] and [[Pilao|皮牢]], while [[SimaGeng|司马梗]] attacks [[TaiyuanWarringStates|太原]] and [[Shangdang|上党郡]]. Wang He therefore remains part of the Qin pressure sequence even after Bai Qi's decisive command is established.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] makes Wang He the practical substitute after Bai Qi refuses to take over the failing [[Handan|邯郸]] campaign from [[WangLing|王陵]]. The host reminds listeners that Wang He is already a Zhao-facing Qin commander: he fought around Shangdang, pressed [[LianPo|廉颇]], and served under Bai Qi at Changping. His appointment keeps Qin pressure on Zhao alive even without Bai Qi's consent.
+
 ## Connections
 - [[BaiQi|白起]] - secret replacement commander placed above Wang He.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - ruler and state directing the command change.
 - [[ZhaoKuo|赵括]], [[LianPo|廉颇]], [[ZhaoState|赵国]], and [[ChangpingBattle|长平之战]] - opposing command sequence and battle setting.
 - [[WuanWarringStates|武安]], [[Pilao|皮牢]], [[SimaGeng|司马梗]], [[TaiyuanWarringStates|太原]], and [[Shangdang|上党]] - Zhouji 95 post-Changping attack routes.
+- [[WangLing|王陵]], [[Handan|邯郸]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 96 replacement after Bai Qi refuses the capital assault.

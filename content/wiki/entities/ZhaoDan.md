@@ -2,7 +2,7 @@
 title: "赵丹 / 赵孝成王 / King Xiaocheng of Zhao"
 type: entity
 tags: [person, ruler, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
 last_updated: 2026-08-21
 ---
 
@@ -38,6 +38,8 @@ This episode softens the page's earlier blame frame without erasing it. Zhao Dan
 
 The exchange succeeds only narrowly. Zhao receives Pingyuanjun back after Wei Qi's suicide, but [[QinState|秦国]] still attacks under [[WangLing|王陵]]. Zhao Dan's page therefore adds [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] to the post-Changping survival branch: state rescue and legal command win the immediate round without buying peace.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] shows Zhao Dan's next survival move under siege. With [[WangLing|王陵]] failing but Qin still reinforcing and [[BaiQi|白起]] refusing to command, Zhao cannot simply wait for Qin exhaustion; the state also needs external help. Because Wei and Qi are unreliable, Zhao Dan sends [[Pingyuanjun|平原君]] to seek [[ChuState|楚国]] aid, opening the [[MaoSui|毛遂]] branch.
+
 ## Connections
 - [[ZhaoHe|赵惠文王赵何]] - predecessor whose death opens Zhao Dan's reign.
 - [[Pingyuanjun|平原君]] - uncle and Zhao minister whose decision to shelter Wei Qi becomes politically dangerous.
@@ -56,3 +58,4 @@ The exchange succeeds only narrowly. Zhao receives Pingyuanjun back after Wei Qi
 - [[QinZhaoxiangwang|秦昭襄王]], [[ZhaoHao|赵郝]], [[StatusAnxietyPersuasion|位阶焦虑式说服]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - Zhouji 95 post-Changping peace mission, detention, release, and city-cession details.
 - [[YuQing|虞卿]], [[LouHuan|楼缓]], [[QiState|齐国]], [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]], and [[HezongAlliance|合纵]] - Zhouji 95 part 2 post-settlement cession debate.
 - [[WeiQiWarringStates|魏齐]], [[Pingyuanjun|平原君]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[WangLing|王陵]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 hunt, head exchange, and continued Qin attack.
+- [[MaoSui|毛遂]], [[ChuState|楚国]], [[Handan|邯郸]], and [[HezongAlliance|合纵]] - Zhouji 96 rescue mission after Wei/Qi support proves unreliable.
