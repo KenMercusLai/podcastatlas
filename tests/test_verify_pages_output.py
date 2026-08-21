@@ -118,6 +118,44 @@ class VerifyPagesOutputTest(unittest.TestCase):
             any(error.startswith("invalid JSON-LD in index.html:") for error in report["errors"])
         )
 
+    def test_rejects_json_ld_description_entities_that_do_not_match_meta_text(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            page = valid_html("https://podcastatlas.ai/")
+            page = page.replace(
+                'content="Example description">',
+                'content="A&amp;F and YouTube&#39;s description">',
+                1,
+            ).replace(
+                '"description": "Example description"',
+                '"description": "A&amp;amp;F and YouTube&amp;#39;s description"',
+            )
+            write(public / "index.html", page)
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "JSON-LD description does not match meta description in index.html",
+            report["errors"],
+        )
+
+    def test_rejects_relative_or_inconsistent_canonical_url(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            page = valid_html("https://podcastatlas.ai/").replace(
+                'rel="canonical" href="https://podcastatlas.ai/"',
+                'rel="canonical" href="/relative/"',
+            )
+            write(public / "index.html", page)
+
+            report = verifier.validate(public)
+
+        self.assertIn("invalid canonical URL in index.html: '/relative/'", report["errors"])
+        self.assertIn("canonical URL does not match Open Graph URL in index.html", report["errors"])
+        self.assertIn("canonical URL does not match JSON-LD URL in index.html", report["errors"])
+
     def test_requires_trust_pages_robots_and_social_card(self):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:

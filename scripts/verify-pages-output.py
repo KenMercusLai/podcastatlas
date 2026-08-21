@@ -54,6 +54,27 @@ METADATA_PATTERNS = {
     "Open Graph image": re.compile(r'<meta\b[^>]*\bproperty=["\']og:image["\']', re.I),
     "Twitter card": re.compile(r'<meta\b[^>]*\bname=(?:["\']twitter:card["\']|twitter:card)', re.I),
 }
+CANONICAL_URL_RE = re.compile(
+    r'<link\b(?=[^>]*\brel=(?:["\']canonical["\']|canonical))[^>]*'
+    r'\bhref=(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))',
+    re.I,
+)
+OG_URL_RE = re.compile(
+    r'<meta\b(?=[^>]*\bproperty=["\']og:url["\'])[^>]*'
+    r'\bcontent=(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))',
+    re.I,
+)
+DESCRIPTION_RE = re.compile(
+    r'<meta\b(?=[^>]*\bname=(?:["\']description["\']|description))[^>]*'
+    r'\bcontent=(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))',
+    re.I,
+)
+
+
+def extracted_attribute(match: re.Match | None) -> str | None:
+    if match is None:
+        return None
+    return html.unescape(next(value for value in match.groups() if value is not None))
 
 
 def validate_metadata_page(path: Path, public_dir: Path, errors: list[str]) -> None:
@@ -64,6 +85,20 @@ def validate_metadata_page(path: Path, public_dir: Path, errors: list[str]) -> N
         count = len(pattern.findall(page_html))
         if count != 1:
             errors.append(f"{label} count in {relative}: expected 1, found {count}")
+
+    canonical_url = extracted_attribute(CANONICAL_URL_RE.search(page_html))
+    og_url = extracted_attribute(OG_URL_RE.search(page_html))
+    meta_description = extracted_attribute(DESCRIPTION_RE.search(page_html))
+    if canonical_url is not None:
+        try:
+            parsed_canonical = urlsplit(canonical_url)
+        except (TypeError, ValueError) as error:
+            errors.append(f"invalid canonical URL in {relative}: {error}")
+        else:
+            if parsed_canonical.scheme not in {"http", "https"} or not parsed_canonical.netloc:
+                errors.append(f"invalid canonical URL in {relative}: {canonical_url!r}")
+    if canonical_url is not None and og_url is not None and canonical_url != og_url:
+        errors.append(f"canonical URL does not match Open Graph URL in {relative}")
 
     scripts = JSON_LD_RE.findall(page_html)
     if len(scripts) != 1:
@@ -83,6 +118,10 @@ def validate_metadata_page(path: Path, public_dir: Path, errors: list[str]) -> N
         errors.append(f"invalid JSON-LD context in {relative}: {payload.get('@context')!r}")
     if payload.get("@type") not in {"WebSite", "WebPage"}:
         errors.append(f"invalid JSON-LD type in {relative}: {payload.get('@type')!r}")
+    if canonical_url is not None and payload.get("url") != canonical_url:
+        errors.append(f"canonical URL does not match JSON-LD URL in {relative}")
+    if meta_description is not None and payload.get("description") != meta_description:
+        errors.append(f"JSON-LD description does not match meta description in {relative}")
     try:
         parsed_url = urlsplit(payload.get("url", ""))
     except (TypeError, ValueError) as error:
