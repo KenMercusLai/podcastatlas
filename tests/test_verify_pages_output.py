@@ -33,7 +33,9 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "wiki/index.html",
                 "search/index.html",
                 "episodes/example/index.html",
-                "episodes/example/index.md",
+                "episodes/example.md",
+                "episodes/episode.160/index.html",
+                "episodes/episode.160.md",
                 "pagefind/pagefind.js",
                 "pagefind/pagefind-component-ui.js",
                 "pagefind/pagefind-component-ui.css",
@@ -55,6 +57,20 @@ class VerifyPagesOutputTest(unittest.TestCase):
 
         self.assertEqual([], report["errors"])
         self.assertEqual(len(expected_paths) + 3, report["file_count"])
+
+    def test_rejects_nested_episode_markdown_output(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(public / "episodes" / "example" / "index.html", "content")
+            write(public / "episodes" / "example" / "index.md", "content")
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "nested episode Markdown URL is forbidden: episodes/example/index.md",
+            report["errors"],
+        )
 
     def test_rejects_missing_pagefind_output(self):
         verifier = load_verifier()

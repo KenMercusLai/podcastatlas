@@ -5,6 +5,12 @@ theme = 'hugo-xmin'
 preview_urls = false
 ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$', '(^|/)content/wiki/overview\.md$']
 
+[uglyURLs]
+  episodes = true
+
+[outputFormats.html]
+  noUgly = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
