@@ -6,6 +6,7 @@ import json
 import re
 import sys
 import xml.etree.ElementTree as ET
+from urllib.parse import urlsplit
 
 
 REQUIRED_FILES = (
@@ -87,18 +88,56 @@ def validate(public_dir: Path) -> dict:
                 relative = markdown_path.relative_to(public_dir).as_posix()
                 errors.append(f"missing episode detail Markdown: {relative}")
 
-            nested_markdown_path = html_path.with_suffix(".md")
-            if nested_markdown_path.is_file():
-                relative = nested_markdown_path.relative_to(public_dir).as_posix()
-                errors.append(f"nested episode Markdown URL is forbidden: {relative}")
+    for nested_markdown_path in sorted((public_dir / "episodes").glob("*/index.md")):
+        relative = nested_markdown_path.relative_to(public_dir).as_posix()
+        errors.append(f"nested episode Markdown URL is forbidden: {relative}")
+
+    for flat_html_path in sorted((public_dir / "episodes").glob("*.html")):
+        if flat_html_path.name == "index.html":
+            continue
+        relative = flat_html_path.relative_to(public_dir).as_posix()
+        errors.append(f"flat episode HTML URL is forbidden: {relative}")
 
     for relative in ("index.xml", "episodes/index.xml", "sitemap.xml"):
         path = public_dir / relative
         if path.is_file():
             try:
-                ET.parse(path)
+                tree = ET.parse(path)
             except ET.ParseError as error:
                 errors.append(f"invalid XML: {relative}: {error}")
+                continue
+
+            if relative == "sitemap.xml":
+                urls = [
+                    element.text.strip()
+                    for element in tree.getroot().iter()
+                    if element.tag.rsplit("}", 1)[-1] == "loc" and element.text
+                ]
+                sitemap_entries = []
+                for url in urls:
+                    try:
+                        url_path = urlsplit(url).path
+                    except ValueError as error:
+                        errors.append(f"invalid URL in sitemap: {url}: {error}")
+                        continue
+                    sitemap_entries.append((url, url_path))
+
+                episode_root_candidates = [
+                    url_path
+                    for _, url_path in sitemap_entries
+                    if url_path.endswith("/episodes/")
+                ]
+                episode_root = min(
+                    episode_root_candidates,
+                    key=lambda path: (path.count("/"), len(path)),
+                    default=None,
+                )
+                for url, url_path in sitemap_entries:
+                    is_episode_url = bool(
+                        episode_root and url_path.startswith(episode_root)
+                    )
+                    if is_episode_url and not url_path.endswith("/"):
+                        errors.append(f"noncanonical Episode URL in sitemap: {url}")
 
     total_bytes = sum(path.stat().st_size for path in files)
     if total_bytes > 1024 ** 3:
