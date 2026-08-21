@@ -33,26 +33,36 @@
 {{- $description = $description | plainify | htmlUnescape | htmlUnescape -}}
 {{- $description = replaceRE `\s+` " " $description | strings.TrimSpace | truncate 180 -}}
 {{- $description = $description | htmlUnescape | htmlUnescape -}}
-{{- $pageTitle := .Site.Title -}}
-{{- if and .Title (not .IsHome) -}}
-  {{- $pageTitle = printf "%s | %s" .Title .Site.Title -}}
+{{- $canonicalURL := .Permalink -}}
+{{- $episodePageNumber := 1 -}}
+{{- $episodeTotalPages := 1 -}}
+{{- if and (eq .Kind "section") (eq .Section "episodes") -}}
+  {{- $episodePages := .Pages.ByDate.Reverse -}}
+  {{- $episodePaginator := .Paginate $episodePages -}}
+  {{- $episodePageNumber = $episodePaginator.PageNumber -}}
+  {{- $episodeTotalPages = $episodePaginator.TotalPages -}}
+  {{- if gt $episodePageNumber 1 -}}
+    {{- $canonicalURL = $episodePaginator.URL | absURL -}}
+    {{- $description = printf "%s Page %d of %d." $description $episodePageNumber $episodeTotalPages -}}
+  {{- end -}}
 {{- end -}}
+{{- $pageTitle := partial "page-title.html" . -}}
 {{- $socialImage := .Site.Params.socialImage | default "images/podcast-atlas-social.png" | absURL -}}
 {{- $socialImageAlt := "Podcast Atlas — A living knowledge atlas synthesized from podcasts." -}}
 {{- $schemaType := "WebPage" -}}
 {{- if .IsHome -}}
   {{- $schemaType = "WebSite" -}}
 {{- end -}}
-{{- $schema := dict "@context" "https://schema.org" "@type" $schemaType "name" $pageTitle "url" .Permalink "description" $description -}}
+{{- $schema := dict "@context" "https://schema.org" "@type" $schemaType "name" $pageTitle "url" $canonicalURL "description" $description -}}
 {{- $schemaJSON := $schema | jsonify -}}
 {{- $schemaJSON = replace $schemaJSON "https://schema.org" `https:\/\/schema.org` -}}
 
-<link rel="canonical" href="{{ .Permalink }}">
+<link rel="canonical" href="{{ $canonicalURL }}">
 <meta name="description" content="{{ $description }}">
 <meta property="og:title" content="{{ $pageTitle }}">
 <meta property="og:description" content="{{ $description }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:url" content="{{ $canonicalURL }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:image" content="{{ $socialImage }}">
 <meta property="og:image:alt" content="{{ $socialImageAlt }}">

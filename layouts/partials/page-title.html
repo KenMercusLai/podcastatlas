@@ -1,0 +1,12 @@
+{{- $pageTitle := .Site.Title -}}
+{{- if and .Title (not .IsHome) -}}
+  {{- $pageTitle = printf "%s | %s" .Title .Site.Title -}}
+{{- end -}}
+{{- if and (eq .Kind "section") (eq .Section "episodes") -}}
+  {{- $episodePages := .Pages.ByDate.Reverse -}}
+  {{- $episodePaginator := .Paginate $episodePages -}}
+  {{- if gt $episodePaginator.PageNumber 1 -}}
+    {{- $pageTitle = printf "%s — Page %d | %s" .Title $episodePaginator.PageNumber .Site.Title -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pageTitle -}}

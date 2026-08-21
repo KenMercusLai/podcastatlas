@@ -1,0 +1,19 @@
+{{ if gt .TotalPages 1 }}
+  <nav class="pagination" aria-label="Episode pages">
+    <div class="pagination-edge">
+      {{ if .HasPrev }}
+        <a rel="prev" href="{{ .Prev.URL }}">← Previous</a>
+      {{ else }}
+        <span aria-hidden="true">← Previous</span>
+      {{ end }}
+    </div>
+    <span class="pagination-status">Page {{ .PageNumber }} of {{ .TotalPages }}</span>
+    <div class="pagination-edge pagination-edge-next">
+      {{ if .HasNext }}
+        <a rel="next" href="{{ .Next.URL }}">Next →</a>
+      {{ else }}
+        <span aria-hidden="true">Next →</span>
+      {{ end }}
+    </div>
+  </nav>
+{{ end }}
