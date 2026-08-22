@@ -2,7 +2,7 @@
 title: "英布 / 黥布 / Ying Bu"
 type: entity
 tags: [person, anti-qin, rebellion, qin-han, military]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,8 @@ In the episode's reading, Ying Bu's corridor attack is what makes the later [[Br
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]] adds Ying Bu's reluctant role in [[MiXin|芈心 / 楚怀王]]'s death. [[XiangYu|项羽]] orders Ying Bu, [[WuRui|吴芮]], and [[GongAo|共敖]] to attack Yi Emperor on the river route toward [[ChenxianChangsha|郴县]]. The episode says the kings hesitate because Mi Xin had been the anti-Qin alliance's nominal leader, but Ying Bu eventually carries out the killing under Xiang Yu's pressure.
 
+[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] makes Ying Bu the first major target inside [[XiayiPlan|下邑画策]]. When Xiang Yu fights in Qi, Ying Bu claims illness and sends only a few thousand troops; when Liu Bang captures Pengcheng, he again does not rescue Xiang Yu. Xiang Yu repeatedly sends envoys to rebuke and summon him, while Ying Bu fears going to Pengcheng. The episode reads his Jiujiang kingship as an incentive shift: once a former vanguard commander has his own territory, he begins to protect his own power base, creating the opening for [[SuiHe|随何]]'s mission.
+
 ## Connections
 - [[Lishan|骊山]] and [[QinState|秦国]] - punishment and convict-labor background.
 - [[LuChenQinRebel|吕臣]], [[ChenSheng|陈胜]], and [[ZhangChuRegime|张楚政权]] - Chu-side recovery field in which Ying Bu appears.
@@ -41,3 +43,4 @@ In the episode's reading, Ying Bu's corridor attack is what makes the later [[Br
 - [[LiuBang|刘邦]] and [[WesternHanDynasty|Western Han]] - later horizon noted elsewhere in the wiki through Liu Bang's post-Ying-Bu tomb-rite route.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], [[LishanConvictMobilization|骊山刑徒应急动员]], and [[AuspiciousOmenPolitics|祥瑞政治]] - related military-manpower and fate-narrative frames.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]], [[MiXin|芈心 / 楚怀王]], [[WuRui|吴芮]], [[GongAo|共敖]], and [[ChenxianChangsha|郴县]] - execution of Xiang Yu's order against Yi Emperor.
+- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]], [[XiayiPlan|下邑画策]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[SuiHe|随何]] - post-Pengcheng defection target and diplomatic mission.

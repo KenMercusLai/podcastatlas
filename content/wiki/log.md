@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（1）
+
+Added source page for Hanji 153 part 1: Liu Bang's immediate post-Pengcheng recovery question at Xiayi, Zhang Liang's Xiayi Plan using Ying Bu, Peng Yue, and Han Xin, the reward promise east of Wuguan, the Xiang Yu-Ying Bu trust fracture, and Sui He's volunteered mission to Jiujiang. Created Sui He and Xiayi Plan; updated overview, index, Liu Bang, Zhang Liang, Xiang Yu, Ying Bu, Peng Yue, Han Xin, Pengcheng Battle, Xiayi, Lu Ze, Wuguan, and Power-Based Alliance Repricing. No settled contradiction found; kept the opening adversity frame and the "hidden Han Xin" reading source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2）
 
 Added source page for Hanji 151 part 2: Xiang Yu's Pengcheng counterattack through information blockade, false continuation of the Qi campaign, secret movement of thirty thousand elite mounted/chariot troops, night seizure of Xiao County, west-side attack against Liu Bang's command center, coalition collapse, river pursuit around Gu water, Si River, and Sui River, and Liu Bang's escape under a sudden violent windstorm. Created Xiao County, Sui River, Si River, and Cavalry Shock Command Strike; updated overview, index, Pengcheng Battle, Liu Bang, Xiang Yu, Xuzhou/Pengcheng, Victory Overreach Failure, Battlefield Information Control, Battlefield Encirclement Logistics, and Warring States Military Transformation. No settled contradiction found; troop counts, "天命" escape framing, and Liu Bang arrogance are kept source-scoped.
@@ -10050,3 +10054,7 @@ Added source page for Hanji 152 part 2: Liu Bang's post-Pengcheng flight with Li
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,957 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or API key is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,960 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or API key is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.

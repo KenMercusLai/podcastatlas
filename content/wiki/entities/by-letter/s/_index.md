@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6620
+wiki_total_pages: 6621
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1616,6 +1616,9 @@ wiki_pages:
   - key: "ShanchengWarringStates"
     title: "陕城 / Shancheng (Warring States)"
     url: "/wiki/entities/shanchengwarringstates/"
+  - key: "SuiHe"
+    title: "随何 / Sui He"
+    url: "/wiki/entities/suihe/"
   - key: "ShizukoNoLongerHuman"
     title: "静子 / Shizuko"
     url: "/wiki/entities/shizukonolongerhuman/"

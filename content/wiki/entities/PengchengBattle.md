@@ -2,7 +2,7 @@
 title: "彭城之战 / Battle of Pengcheng"
 type: entity
 tags: [battle, chu-han, war, liu-bang, xiang-yu]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
+sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,8 @@ The pursuit turns defeat into mass death. Han troops are driven through river te
 
 [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] adds the rout's human and diplomatic aftermath. Liu Bang's flight becomes concrete through the cart scene with [[LiuYing|刘盈]], [[LuYuanPrincess|鲁元公主]], and [[XiahouYing|夏侯婴]], while [[ZengHe|曾赫]] shows a rare Han-side pocket of order by holding formation against Chu cavalry. The same defeat then turns into [[PowerBasedAllianceRepricing|实力重估式阵营转向]]: family members are captured, lords defect back toward Xiang Yu, and only part of Liu Bang's network remains usable at [[Xiayi|下邑]] and later [[YingyangWarringStates|荥阳]].
 
+[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] turns that aftermath into strategic recovery. At [[Xiayi|下邑]], [[LiuBang|刘邦]] asks who can help attack Chu if he gives away the lands east of [[Wuguan|武关]], and [[ZhangLiang|张良]] answers with [[XiayiPlan|下邑画策]]: hold Xiang Yu frontally, turn [[YingBu|英布]] against the southern side, support [[PengYue|彭越]] against Chu's rear, and give [[HanXin|韩信]] independent room. The battle branch therefore now extends from rout and alliance collapse into a deliberate multi-front redesign after defeat.
+
 ## Connections
 - [[LiuBang|刘邦]] and [[XiangYu|项羽]] - opposing commanders in the battle.
 - [[Xuzhou|彭城]] - Chu capital whose capture triggers Xiang Yu's counterattack.
@@ -41,3 +43,4 @@ The pursuit turns defeat into mass death. Han troops are driven through river te
 - [[BattlefieldInformationControl|战场信息控制]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - secrecy, route severance, mounted shock, and military-history framing added by part 2.
 - [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]], [[HanXin|韩信]], [[ZhangHanQin|章邯]], and [[GuanzhongRegion|关中]] - Hanji 152 part 1 command-capacity explanation for why Liu Bang's numerical superiority did not become battlefield control.
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[LiuYing|刘盈]], [[LuYuanPrincess|鲁元公主]], [[XiahouYing|夏侯婴]], [[ZengHe|曾赫]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - flight scene, disciplined holdout, hostage pressure, and post-defeat alliance reversal.
+- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]], [[XiayiPlan|下邑画策]], [[ZhangLiang|张良]], [[YingBu|英布]], [[PengYue|彭越]], and [[SuiHe|随何]] - post-defeat strategic recovery and the first defection mission.
