@@ -2,7 +2,7 @@
 title: "Covert Political Technology / 阴谋式政治技术"
 type: concept
 tags: [strategy, intelligence, statecraft, chu-han, ethics]
-sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 
 [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] adds the execution detail. Chen Ping uses ritual reception, food quality, and a staged correction of status to make Xiang Yu's own envoy transmit the damaging signal. The operation shows covert political technology as social theater backed by intelligence about [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], not only as bribery or anonymous rumor.
 
+[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] adds Chen Ping's post-founding use of the same hidden-technique repertoire. Instead of rumor inside the enemy camp, the tool is a false imperial itinerary: a claimed tour to [[Yunmengze|云梦泽]] and vassal gathering at [[ChenCountyChuHan|陈县]] makes [[HanXin|韩信]] vulnerable without open battle. The episode therefore extends covert political technology from wartime counterintelligence into early imperial control of an overmighty contributor.
+
 ## Key Claims
+- Hanji 172 adds that covert technique can be routed through official protocol itself: an ordinary-looking itinerary and summons can carry the hidden coercive work.
 - Some political work is effective because it is hidden, deniable, or routed through rumor and inducement.
 - The same skills that protect a ruler or break an enemy can damage a figure's moral reputation.
 - Covert political technique is not identical to wisdom as public advice; it belongs to intelligence, surveillance, and counter-cohesion work.
@@ -34,6 +37,7 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 - In the Fan Zeng case, covert technique can turn protocol and hospitality into an information weapon, especially when the operator understands the target camp's factional structure.
 
 ## Connections
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[LiuBang|刘邦]], [[HanXin|韩信]], and [[ChenCountyChuHan|陈县]] - false itinerary and summons as covert coercion.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[XiangBo|项伯]] - staged envoy protocol as faction-aware information weapon.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[CounterintelligenceRumorWedge|反间流言楔入]], [[ZhongliMo|钟离眜]], and [[ZhouYin|周殷]] - funded rumor operation against Xiang Yu's trusted core.
 - [[ChenPing|陈平]] - source case.

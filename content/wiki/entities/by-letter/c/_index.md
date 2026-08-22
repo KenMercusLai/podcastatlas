@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6701
+wiki_total_pages: 6702
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1361,6 +1361,9 @@ wiki_pages:
   - key: "ChenDoctorInvestmentABC"
     title: "陈博士 / 投资ABC"
     url: "/wiki/entities/chendoctorinvestmentabc/"
+  - key: "ChenCountyChuHan"
+    title: "陈县 / Chen County (Chu-Han)"
+    url: "/wiki/entities/chencountychuhan/"
   - key: "ChenYing"
     title: "陈婴 / Chen Ying"
     url: "/wiki/entities/chenying/"

@@ -2,7 +2,7 @@
 title: "洛邑 / Luoyi"
 type: entity
 tags: [city, zhou-dynasty, pre-qin, diplomacy]
-sources: [zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
+sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
 last_updated: 2026-08-23
 ---
 
@@ -26,7 +26,10 @@ The place also matters for the following year's [[Fengze|逢泽]] geography. The
 
 [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] turns Luoyang from temporary founding stage into rejected capital option. [[LouJing|楼敬]] argues that Zhou could use Luoyang because Zhou's authority rested on long moral accumulation and a settled ritual order, while Liu Bang's empire has just been made through war. [[ZhangLiang|张良]] adds that Luoyang's terrain is not enough to offset its small hinterland and multi-sided exposure, so Liu Bang leaves for [[ChangAnHanCapital|长安]].
 
+[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] adds a return-to-Luoyang political stage after [[LiuBang|刘邦]] captures [[HanXin|韩信]] through the [[Yunmengze|云梦泽]] / [[ChenCountyChuHan|陈县]] summons plan. The episode says Liu Bang announces the arrest there, frames the charge around unauthorized military action, and then issues clemency by sparing Han Xin's life while reducing him to [[Huaiyin|淮阴]] marquis.
+
 ## Connections
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[LiuBang|刘邦]], [[HanXin|韩信]], [[ChenCountyChuHan|陈县]], [[Yunmengze|云梦泽]], and [[Huaiyin|淮阴]] - arrest announcement and demotion after the fake-tour trap.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]], [[LouJing|楼敬]], [[ZhangLiang|张良]], [[GuanzhongRegion|关中]], [[ChangAnHanCapital|长安]], and [[StrategicCapitalRelocation|战略性迁都]] - rejected capital option in the Han founding move west.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[SpecialistDelegationLeadership|专才分工式领导力]] - capital setting and South Palace explanation of Han victory.
 - [[ZhouRoyalHouse|周王室]] and [[ZhouXianwang|周显王]] - royal institution and reign frame.

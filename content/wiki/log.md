@@ -10341,3 +10341,11 @@ Added source page for Hanji 171 part 2: Zang Tu's rebellion and suppression, Lu 
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信
+
+Added source page for Hanji 172: Liu Bang and Chen Ping's fake Yunmeng tour trap, the vassal gathering at Chen County, Han Xin's Zhongli Mo dilemma, Zhongli Mo's suicide, Han Xin's arrest, and his demotion from Chu king to Huaiyin marquis. Created Chen County (Chu-Han) and Ritual-Tour Summons Entrapment; updated overview, index, and related Han Xin / early Han suspicion pages. No settled contradiction found; Zhongli Mo's comparative military ability and the host's reading of Han Xin's human-nature misjudgment are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

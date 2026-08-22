@@ -2,7 +2,7 @@
 title: "Western Han dynasty / 西汉"
 type: entity
 tags: [history, china, empire]
-sources: [zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
 last_updated: 2026-08-23
 ---
 # Western Han dynasty / 西汉
@@ -27,6 +27,8 @@ The dynasty matters because the source treats it as the maker of its own later v
 
 [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] adds the first post-capital consolidation layer. [[ZangTu|臧荼]]'s rebellion, [[LuWan|卢绾]]'s Yan kingship, [[LiJiChuHan|利几]]'s fear-driven revolt, and [[HanXin|韩信]]'s [[ZhongliMo|钟离眜]] problem make early Western Han a regime still absorbing wartime kings and enemy networks. The construction of [[ChanglePalace|长乐宫]] and [[WeiyangPalace|未央宫]] adds the built institutional face of that same transition at Chang'an.
 
+[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] adds a coercive consolidation layer. The regime's problem is not only that different-surname kings may rebel, but that some are too militarily formidable to attack directly. [[ChenPing|陈平]]'s fake [[Yunmengze|云梦泽]] tour and [[ChenCountyChuHan|陈县]] summons let [[LiuBang|刘邦]] remove Han Xin's Chu kingship while preserving a public clemency frame through demotion to [[Huaiyin|淮阴]] marquis.
+
 ## Key Claims
 - Western Han legitimacy relied on stories of Heaven's mandate and imperial sacredness.
 - Court politics near the end of the dynasty were shaped by imperial succession, consort kin, favorites, and omen interpretation.
@@ -38,8 +40,10 @@ The dynasty matters because the source treats it as the maker of its own later v
 - Hanji 170 part 1 adds defeated-elite cleanup: Tian Heng's unresolved honor crisis and Ji Bu's pardon show the new regime defining how former enemies will be remembered or absorbed.
 - Hanji 170 part 2 adds the capital-base decision: Western Han chooses Chang'an and Guanzhong over Luoyang's Zhou precedent because geography, supplies, and transport fit postwar empire-building better.
 - Hanji 171 part 2 adds post-capital consolidation: the regime replaces a mistrusted Yan king, makes fear rebellion visible among lesser former rivals, pressures Han Xin's Chu network, and builds the palace infrastructure of Chang'an rule.
+- Hanji 172 adds that coercive consolidation can use protocol rather than battle when the target's military ability makes direct attack risky.
 
 ## Connections
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[LiuBang|刘邦]], [[ChenPing|陈平]], [[HanXin|韩信]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], and [[Huaiyin|淮阴]] - fake-tour arrest and demotion as early Han consolidation.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]], [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]], [[ZangTu|臧荼]], [[LuWan|卢绾]], [[LiJiChuHan|利几]], [[HanXin|韩信]], [[ZhongliMo|钟离眜]], [[ChanglePalace|长乐宫]], and [[WeiyangPalace|未央宫]] - post-capital consolidation and palace-building layer.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[JiBu|季布]], [[PardonAsStatePower|赦免作为国家权力]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - defeated-elite cleanup and former-enemy absorption after accession.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]], [[LouJing|楼敬]], [[ZhangLiang|张良]], [[GuanzhongRegion|关中]], [[Luoyi|洛阳 / 洛邑]], [[ChangAnHanCapital|长安]], and [[StrategicCapitalRelocation|战略性迁都]] - founding capital relocation from Zhou precedent toward Guanzhong base logic.

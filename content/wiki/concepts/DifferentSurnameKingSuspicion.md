@@ -2,7 +2,7 @@
 title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
 type: concept
 tags: [statecraft, early-han, vassal-kings, suspicion]
-sources: [zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ The second case is [[LuWan|卢绾]]. Liu Bang's appointment of a lifelong intima
 
 The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu kingship is already a post-victory containment problem; sheltering a former Chu general with local networks makes him look even harder for Liu Bang, [[LuZhi|吕雉]], and [[LiuYing|刘盈]] to control after succession.
 
+[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] supplies the next step: suspicion does not become open war because Han Xin is too strong to attack cheaply. [[ChenPing|陈平]] instead turns the vassal king's duty to appear before the emperor into [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], letting [[LiuBang|刘邦]] remove Han Xin's kingship after the [[ZhongliMo|钟离眜]] crisis without first fighting Chu.
+
 ## Key Claims
+- Hanji 172 adds that different-surname king suspicion may be handled through protocol and summons, not only through immediate military suppression.
 - Wartime delegation can turn into peacetime suspicion after the common enemy disappears.
 - A different-surname king is dangerous not only because he may rebel, but because he controls a named territory, local relationships, and a remembered military contribution outside direct palace control.
 - Replacing a king with a trusted intimate may improve local security while worsening system-wide trust.
@@ -24,6 +27,7 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 - The pattern extends [[PowerExitTrap|权力退场困境]] from individual ministers to territorial kings.
 
 ## Connections
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[ChenCountyChuHan|陈县]], [[Yunmengze|云梦泽]], [[HanXin|韩信]], and [[ZhongliMo|钟离眜]] - non-battle removal of a different-surname king after the rebellion report.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] - source page.
 - [[LiuBang|刘邦]], [[ZangTu|臧荼]], [[LuWan|卢绾]], [[LiJiChuHan|利几]], [[HanXin|韩信]], and [[ZhongliMo|钟离眜]] - main actors in the episode's suspicion chain.
 - [[YanState|燕国]], [[Xiongnu|匈奴]], and [[DaiState|代国]] - northern security geography around the Yan replacement.

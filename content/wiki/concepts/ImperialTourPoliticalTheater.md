@@ -2,8 +2,8 @@
 title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
 type: concept
 tags: [empire, governance, political-theater, ritual]
-sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]
+last_updated: 2026-08-23
 ---
 
 # Imperial Tour Political Theater / 帝国巡游政治剧场
@@ -22,7 +22,10 @@ The Qin case has two audiences. Ordinary people may experience the tour as awe-p
 
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] sharpens that shift through "游徙吉." The final tour is source-scoped as part of [[OmenCountermeasureMobility|游徙避命]], not simply as another inspection route. The emperor's movement becomes an attempted intervention in fate, while still using the same roads, entourage, and imperial presence that make tours politically legible.
 
+[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] adds a narrower early Han inversion. [[LiuBang|刘邦]]'s announced tour to [[Yunmengze|云梦泽]] is not primarily about public inscription, omen response, or regional display; under [[ChenPing|陈平]]'s advice, the tour language masks a planned arrest of [[HanXin|韩信]] at [[ChenCountyChuHan|陈县]]. The episode therefore creates a bridge to [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], where the political power of tour protocol lies in summoning and isolating a dangerous vassal.
+
 ## Key Claims
+- Hanji 172 adds that imperial-tour language can be used as tactical cover for arrest, not only as broad governance theater.
 - A ruler's tour can be a governing technology when the territory is newly conquered or culturally distant.
 - Presence works differently for different audiences: commoners may be drawn into imperial spectacle, while local elites are disciplined by visible force.
 - Roads, route choice, inscriptions, and ritual stops make travel into a repeatable structure of rule.
@@ -35,6 +38,7 @@ The Qin case has two audiences. Ordinary people may experience the tour as awe-p
 - The concept generalizes beside [[SouthernTourPoliticalTheater]], which records a later Qing version of royal travel as governance and staged legitimacy.
 
 ## Connections
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[LiuBang|刘邦]], [[Yunmengze|云梦泽]], [[ChenCountyChuHan|陈县]], [[HanXin|韩信]], and [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] - early Han fake-tour cover for arrest.
 - [[QinShiHuang]], [[QinState]], and [[Taishan]] - source case.
 - [[LangyaMountain]], [[QiEightSpirits]], and [[LangyaInscriptionPoliticalProgram]] - Qinji 122-2 coastal sequel to the Taishan branch.
 - [[Jiuding]], [[Xuzhou|彭城 / 徐州]], [[XiangshanShrine|湘山祠]], [[XiangJun|湘君]], and [[ImperialLocalGodConflict|皇权与地方神冲突]] - Qinji 122-3 failed recovery and local-god conflict branch.
