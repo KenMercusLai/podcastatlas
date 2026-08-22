@@ -2,7 +2,7 @@
 title: "会稽郡 / Kuaiji Commandery"
 type: entity
 tags: [commandery, qin-state, pre-qin, warring-states, southern-china]
-sources: [zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
+sources: [zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The page is source-scoped because the episode itself narrows the claim. Kuaiji a
 
 [[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]] gives Kuaiji a new role after Qin's collapse begins. Its governor [[YinTong|殷通]] wants to answer [[ChenSheng|陈胜]]'s uprising and asks [[XiangLiang|项梁]] to help lead the move, but Xiang Liang and [[XiangYu|项羽]] instead kill Yin Tong, seize the commandery seal, and gather nearly eight thousand troops. The commandery therefore shifts from Qin administrative consolidation to rebel infrastructure through [[KuaijiCommanderyCoup|会稽郡守府夺权]].
 
+[[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] turns that seized commandery force into a westward army. [[ZhaoPingRebel|昭平]] tells [[XiangLiang|项梁]] that Jiangdong has already been pacified and that the Kuaiji Chu troops should cross the Yangtze to attack Qin, giving the commandery's eight thousand men a wider anti-Qin role.
+
 ## Connections
 - [[QinState|秦国]] - state establishing the commandery.
 - [[WangJianQin|王翦]] - commander associated with the pacification notice.
@@ -24,3 +26,4 @@ The page is source-scoped because the episode itself narrows the claim. Kuaiji a
 - [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - broader Qin pattern of turning conquest into commandery administration.
 - [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], and [[XiangCommandery|象郡]] - later Lingnan commanderies contrasted in Qinji 123-2.
 - [[YinTong|殷通]], [[XiangLiang|项梁]], [[XiangYu|项羽]], and [[KuaijiCommanderyCoup|会稽郡守府夺权]] - Qinji 128-7 commandery takeover after the anti-Qin wave begins.
+- [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]], [[ZhaoPingRebel|昭平]], and [[ChenSheng|陈胜]] - false appointment and westward mobilization.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6502
+wiki_total_pages: 6504
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "ZhaoXixu"
     title: "昭奚恤 / Zhao Xixu"
     url: "/wiki/entities/zhaoxixu/"
+  - key: "ZhaoPingRebel"
+    title: "昭平 / Zhao Ping (Rebel)"
+    url: "/wiki/entities/zhaopingrebel/"
   - key: "ZhaoJu"
     title: "昭雎 / Zhao Ju"
     url: "/wiki/entities/zhaoju/"

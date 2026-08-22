@@ -9391,6 +9391,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书
+
+Added source page for Qinji 130-1: Zhang Liang's Huangshi Gong / 圯上老人 bridge test, the three appointments, Taigong Bingfa as Liutao, the "人生有度" framing, Liu Bang and Zhang Liang joining Jing Ju, Liu Bang's interrupted attempt to recover Feng under Zhang Han's pressure, Zhao Ping's false Chen Sheng appointment moving Xiang Liang and Xiang Yu west from Kuaiji, and Chen Ying's refusal to claim kingship after his mother's warning. Created Zhao Ping (Rebel), Chen Ying, and Claim Restraint Through Attachment; updated overview, index, Zhang Liang, Huangshi Gong, Taigong Bingfa, Liutao, Liu Bang, Jing Ju, Zhang Han, Xiang Liang, Xiang Yu, Kuaiji Commandery, Chen Sheng, Zhang Chu Regime, and Anti-Qin Coalition Fragmentation. No settled contradiction found; preserved source-scoped cautions around 景居/景驹, 向良/项梁, 张涵/章邯, 陈英/陈婴, and Zhao Ping's false appointment claim.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心
 
 Added source page for Qinji 129-3: Chen Yu and Zhang Er's escape after Li Liang kills Wu Chen, Qin Jia and Zhu Jishi's local uprising and killing of Wu Ping Jun Pan, Sima Xin and Dong Yi's support for Zhang Han, Zhang He's failed Chen County defense, Zhuang Gu's killing of Chen Sheng, Chen Sheng's post-kingship alienation through arrogance, old-friend killings, and punitive inspectors, plus Lu Chen's revenge and Liu Bang's later tomb rites. Created Qin Jia (Rebel), Zhu Jishi, Wu Ping Jun Pan, Sima Xin, Dong Yi (Qin), Zhang He (Zhang Chu), Zhuang Gu, Lu Chen (Qin Rebel), Zhu Fang (Zhang Chu), Hu Wu (Zhang Chu), Rebel Founder Alienation, and Punitive Inspection Loyalty Trap; updated overview and index. No settled contradiction found; preserved uncertain transcript forms as source-scoped notes.
@@ -9699,3 +9703,7 @@ Added source page for Qinji 129-4: post-Chen Sheng fragmentation, Song Liu's pun
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

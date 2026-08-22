@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书](sources/zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2.md) — 芮淇讲透资治通鉴 episode on Zhang Liang's Huangshi Gong bridge test, Taigong Bingfa / Liutao, Liu Bang joining Jing Ju and fighting Zhang Han's pressure, Zhao Ping's false Chen Sheng appointment of Xiang Liang, and Chen Ying's title-restraint through attachment.
 - [《资治通鉴·秦纪》129-4｜旧权贵张良如何在刘邦手下安身](sources/zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav.md) — 芮淇讲透资治通鉴 episode on post-Chen Sheng fragmentation, Song Liu's punished surrender, Yong Chi's Feng betrayal, Zhao Xie's restoration, Qin Jia's failed Qi alliance, Ying Bu's rise, and Zhang Liang's strategic recognition by Liu Bang.
 - [《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心](sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3.md) — 芮淇讲透资治通鉴 episode on Chen Sheng's final collapse: Qin Jia killing Wu Ping Jun Pan, Zhang Han's pressure on Chen County, Zhuang Gu's killing of Chen Sheng, Lu Chen's revenge and reburial, and Chen Sheng's split legacy as both anti-Qin initiator and alienating ruler.
 - [《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集](sources/zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp.md) — 芮淇讲透资治通鉴 episode on Zhang Chu's post-Wu Guang battlefield losses, Li Si's fear-driven 督责 memorial to Qin Er Shi, and Li Liang's betrayal of restored Zhao after Wang Li's recruitment letter and Wu Chen's sister's drunken ritual insult.
@@ -1213,6 +1214,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [昭平 / Zhao Ping (Rebel)](entities/ZhaoPingRebel.md) — Guangling rebel actor who falsely invokes Chen Sheng's authority to appoint Xiang Liang and push Kuaiji troops west against Qin.
+- [陈婴 / Chen Ying](entities/ChenYing.md) — Dongyang rebel leader whose mother advises him not to claim kingship but to attach to Xiang Liang; transcript writes 陈英.
 - [宋刘 / Song Liu](entities/SongLiu.md) — Chen Sheng-side commander whose surrender at Nanyang is punished by Qin Er Shi, making surrender policy counterproductive in the episode's reading.
 - [雍齿 / Yong Chi](entities/YongChi.md) — Liu Bang subordinate who looks down on him and defects with Feng County to Zhou Shi's Wei-side force.
 - [丰邑 / 丰县 / Feng County](entities/FengCounty.md) — Liu Bang-held place entrusted to Yong Chi and then lost when Yong Chi defects to Zhou Shi's restoration line.
@@ -7719,6 +7722,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Claim Restraint Through Attachment / 有所归属式名位节制](concepts/ClaimRestraintThroughAttachment.md) — Chen Ying pattern where a local rebel avoids top-title exposure by attaching to a stronger claimant.
 - [Strategic Recognition Alignment / 谋略知己式归附](concepts/StrategicRecognitionAlignment.md) — Zhang Liang pattern where a strategist joins a patron because the patron can understand and use difficult counsel.
 - [Punitive Surrender Deterrence / 杀降纳降反噬](concepts/PunitiveSurrenderDeterrence.md) — Pattern where executing a surrenderer makes future enemies less willing to surrender and weakens reintegration.
 - [Rebel Founder Alienation / 起义首领人心疏离](concepts/RebelFounderAlienation.md) — Chen Sheng pattern where founding anti-Qin legitimacy decays after kingship through arrogance, killing old friends, and making closeness unsafe.

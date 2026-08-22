@@ -2,7 +2,7 @@
 title: "张良 / Zhang Liang"
 type: entity
 tags: [strategist, chinese-history, power]
-sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ In QinZong's reading, [[FanKuai|樊哙]]'s dramatic rebuke of [[XiangYu|项羽]]
 
 [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] gives the next stage after escape. Zhang Liang meets [[HuangshiGong|黄石公]] / 圯上老人 at a bridge, accepts repeated humiliating tests around retrieving and putting on the old man's shoe, and receives [[TaigongBingfa|《太公兵法》]]. The episode uses this scene to move Zhang Liang from revenge-driven assassin toward the patient strategist who can later serve as a teacher of kings.
 
+[[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] reprises that bridge scene with more emphasis on discipline and timing. Zhang Liang passes only after arriving before midnight for the third appointment, and the host connects the story to "人生有度，过则为灾." The episode also looks forward to Zhang Liang's later ability to withdraw after success, making his formation a case not only of strategy acquisition but also of measured self-limitation.
+
 [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] gives the payoff of that strategist formation. Zhang Liang gathers a small following and is initially heading toward [[JingJu|景居 / 景驹]], but after meeting [[LiuBang|刘邦]] he joins Liu Bang instead. The episode says Zhang Liang repeatedly explains [[TaigongBingfa|《太公兵法》]] to Liu Bang, Liu Bang understands and adopts the counsel, and Zhang Liang sees him as a rare person who can actually understand his strategy. This becomes the wiki's main case for [[StrategicRecognitionAlignment|谋略知己式归附]].
 
 ## Connections
@@ -31,4 +33,5 @@ In QinZong's reading, [[FanKuai|樊哙]]'s dramatic rebuke of [[XiangYu|项羽]]
 - [[zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu|Qinji 122-3]], [[QinShiHuang|嬴政 / 秦始皇]], and [[WeakStateAssassinationStrategy|弱国刺杀式破局]] - anti-Qin revenge setup after Han's destruction.
 - [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[Bolangsha|博浪沙]], [[CanghaiJun|沧海君]], and [[QinShiHuang|嬴政 / 秦始皇]] - actual failed strike against the imperial travel column and escape afterward.
 - [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[HuangshiGong|黄石公]], [[TaigongBingfa|《太公兵法》]], and [[JiangTaigong|姜太公 / 姜子牙]] - bridge test, military text, and strategist formation after the assassination fails.
+- [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]], [[ClaimRestraintThroughAttachment|有所归属式名位节制]], and [[PowerExitTrap|权力退场困境]] - reprise of the bridge test through measured action and later successful withdrawal.
 - [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[JingJu|景居 / 景驹]], [[LiuBang|刘邦]], and [[StrategicRecognitionAlignment|谋略知己式归附]] - first attachment to Liu Bang through understood strategy.

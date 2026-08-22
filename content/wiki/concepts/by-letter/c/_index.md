@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5036
+wiki_total_pages: 5037
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "CivilizedBodyDiscipline"
     title: "Civilized Body Discipline / 文明身体规训"
     url: "/wiki/concepts/civilizedbodydiscipline/"
+  - key: "ClaimRestraintThroughAttachment"
+    title: "Claim Restraint Through Attachment / 有所归属式名位节制"
+    url: "/wiki/concepts/claimrestraintthroughattachment/"
   - key: "ClassMobilityPerformance"
     title: "Class Mobility Performance / 阶级上升表演"
     url: "/wiki/concepts/classmobilityperformance/"
