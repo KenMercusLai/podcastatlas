@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5080
+wiki_total_pages: 5082
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "PoliticalSurrenderCascade"
     title: "Political Surrender Cascade / 招降示范级联"
     url: "/wiki/concepts/politicalsurrendercascade/"
+  - key: "PoliticalSurvivalFirst"
+    title: "Political Survival First / 安全第一政治生存"
+    url: "/wiki/concepts/politicalsurvivalfirst/"
   - key: "PoliticalTalentPipeline"
     title: "Political Talent Pipeline"
     url: "/wiki/concepts/politicaltalentpipeline/"

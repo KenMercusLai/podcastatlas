@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）
+
+Added source page for Hanji 150 part 3: Chen Ping's completed successful-politician profile through Liu Bang's response to slander, large-accounting-free funds for enemy-side inducement, bounded trust in covert political technology, Lu Zhi-era ambiguity around Lu-family kingship, Wang Ling's contrasting open opposition, Zhou Bo partnership, and the post-Lu restoration that installs Liu Heng / Emperor Wen of Han. Created Political Survival First and Second-in-Command Role Fit; updated overview, index, Chen Ping, Liu Bang, Lu Zhi, Wang Ling (Han minister), Zhou Bo, Liu Heng, Zhang Liang, Xiao He, Cao Shen, and Covert Political Technology. No settled contradiction found; repeated early-life material is treated as recap and the host's "conspirator" evaluation remains source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023
 
 Added source page for Hanji 150 PLUS New Year special: a short cultural-history episode on 元旦 as a layered holiday linking 尧舜禹 legend, Han Wudi calendar order, the term's textual memory in 《晋书》, Jingchu and Eastern Han custom records, pepper-cypress wine, peach decoction, eggs, soup cakes, New Year cakes, Lu You poetry, and a 2023 blessing. Created YuanDan Festival Layering, Yao-Shun-Yu Legend, Jinshu, Jingchu Suishi Ji, Simin Yueling, and Lu You; updated overview, index, Han Wudi, Yu the Great, Calendar Reform Legitimacy, and Festival Food Material History. No settled contradiction found; kept the origin story, earliest-term claim, and "2022/2023" listener frame source-scoped despite the 2026-01-14 file date.
@@ -9998,6 +10002,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）
 
 Added source page for Hanji 150 part 2: Chen Ping's movement from Wei Jiu to Xiang Yu and then Liu Bang, the Sima Ang exposure, Yellow River self-protection scene, Wei Wuzhi's introduction at Xiuwu, and Liu Bang's rapid appointment of Chen Ping despite veteran resistance. Created Wei Wuzhi, Xiuwu, Covert Political Technology, Veteran Merit-Clique Supervision, and Outsider Talent Signaling; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Wei Jiu, Sima Ang, Henei Commandery, Fair Allocation As Political Skill, and the prior Hanji 150 part 1 source. No settled contradiction found; modern intelligence-agency comparisons are recorded as explanatory analogies, not institutional equivalences.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

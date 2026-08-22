@@ -2,7 +2,7 @@
 title: "萧何 / Xiao He"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -32,6 +32,8 @@ Xiao He's recommendation is not only praise. He frames Han Xin's value by Liu Ba
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] adds Xiao He as the civil anchor of Liu Bang's recovered rear. While [[HanXin|韩信]] handles military command, Xiao He governs the [[GuanzhongRegion|关中]]/Han base so Liu Bang can push east and absorb Henan, Wei, and Henei territory.
 
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] uses Xiao He as a comparison point for [[ChenPing|陈平]]. The source says Xiao He's tendency to work and display loyalty intensely can itself create danger when a ruler's suspicion is triggered, whereas Chen Ping's strength is reading danger and preserving room to maneuver through [[PoliticalSurvivalFirst|安全第一政治生存]].
+
 ## Connections
 - [[LiuBang|刘邦]] - central figure whose bluff Xiao He manages.
 - [[LuGongLiuBangFatherInLaw|吕公]] and [[LuZhi|吕雉]] - banquet host and marriage outcome.
@@ -45,3 +47,4 @@ Xiao He's recommendation is not only praise. He frames Han Xin's value by Liu Ba
 - [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]], [[HanXin|韩信]], [[Nanzheng|南郑]], [[TalentReferralQuality|荐才层级质量]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - pursuit, recommendation, and formal appointment of Han Xin.
 - [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], and [[ThreeQinContainment|三秦压制]] - payoff of the recommendation in a concrete campaign design.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[GuanzhongRegion|关中]], [[LiyangQinHan|栎阳]], and [[HanXin|韩信]] - civil-military rear-base division of labor.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]], [[ChenPing|陈平]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[SecondInCommandRoleFit|二把手角色适配]] - comparison between high-service civil merit and Chen Ping's risk-reading operator role.

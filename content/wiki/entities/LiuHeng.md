@@ -2,7 +2,7 @@
 title: "刘恒 / Emperor Wen of Han"
 type: entity
 tags: [person, emperor, western-han, succession]
-sources: [zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
 last_updated: 2026-08-22
 ---
 
@@ -14,6 +14,8 @@ The source places Liu Heng's accession in 180 BCE and uses it to explain why Xu 
 
 [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] adds Liu Heng's own patron role. After becoming Emperor Wen, he honors Xu Fu and asks her to read [[DengTong|邓通]], a favorite linked in the episode to an imperial dream. Liu Heng then tries to prevent Deng Tong's predicted poverty by granting copper-mountain and minting wealth, but the source later fulfills the warning after [[HanJingdi|汉景帝 / Emperor Jing of Han]] succeeds him.
 
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] adds Liu Heng as the post-[[LuZhi|吕雉]] succession endpoint in [[ChenPing|陈平]]'s political-survival story. After Lu Zhi dies, Chen Ping, [[ZhouBo|周勃]], and Liu-family forces remove Lu-family power and install the king of Dai as emperor, making Liu Heng the ruler under whom Chen Ping's three-court survival reaches its official peak.
+
 ## Connections
 - [[BaoJi|薄姬]] - mother in the source's prediction branch.
 - [[LiuBang|刘邦]] - father in the episode's Han payoff.
@@ -22,3 +24,4 @@ The source places Liu Heng's accession in 180 BCE and uses it to explain why Xu 
 - [[DengTong|邓通]] and [[HanJingdi|汉景帝 / Emperor Jing of Han]] - favorite and successor branch added by Qinji 135 番外篇2.
 - [[ProphecyFulfillmentDisplacement|预言兑现错位]] - Bao Ji prediction and Deng Tong countermeasure pattern.
 - [[WesternHanDynasty|Western Han]] - dynastic setting.
+- [[ChenPing|陈平]], [[ZhouBo|周勃]], [[LuZhi|吕雉]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - Hanji 150 part 3 transition from Lu regency to Emperor Wen.

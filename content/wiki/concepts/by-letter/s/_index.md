@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5080
+wiki_total_pages: 5082
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "SecondGenerationBusinessEntryRoutes"
     title: "Second-Generation Business Entry Routes / 二代接班切入路径"
     url: "/wiki/concepts/secondgenerationbusinessentryroutes/"
+  - key: "SecondInCommandRoleFit"
+    title: "Second-in-Command Role Fit / 二把手角色适配"
+    url: "/wiki/concepts/secondincommandrolefit/"
   - key: "SecondLifeEVBatteryStorage"
     title: "Second-Life EV Battery Storage"
     url: "/wiki/concepts/secondlifeevbatterystorage/"

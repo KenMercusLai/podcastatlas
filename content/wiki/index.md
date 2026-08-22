@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj.md) — 芮淇讲透资治通鉴 episode completing Chen Ping's successful-politician sequence through Liu Bang's bounded trust, covert inducement work, Lu Zhi-era ambiguity, Zhou Bo partnership, and Emperor Wen transition.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h.md) — 芮淇讲透资治通鉴 episode moving Chen Ping from Wei Jiu and Xiang Yu into Liu Bang's camp, framing covert political technique, outsider supervision of veteran generals, and public talent-signaling.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar.md) — 芮淇讲透资治通鉴 episode opening Chen Ping's early-life branch through poverty, Zhang Fu's marriage backing, local social capital, and fair meat distribution at a village sacrifice as early political skill.
 - [《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023](sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue.md) — 芮淇讲透资治通鉴 PLUS New Year special on 元旦 as a layered holiday built from 尧舜禹 legend, Han Wudi calendar order, textual memory, festival foods, peach/cypress protective symbolism, poetry, and a 2023 blessing.
@@ -1268,12 +1269,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [章平 / Zhang Ping (Qin General)](entities/ZhangPingQinGeneral.md) — Zhang Han's younger brother defeated by Han forces in Beidi, disambiguated from Zhang Liang's father Zhang Ping.
 - [甘公 / Gan Gong](entities/GanGong.md) — Adviser who tells the defeated Zhang Er to choose Liu Bang over Xiang Yu because Liu Bang has the future.
 - [夏说 / Xia Shuo](entities/XiaShuo.md) — Chen Yu delegate appointed to manage Dai while Chen Yu stays in Zhao after restoring Zhao Xie.
-- [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him firmly toward Liu Bang.
+- [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him toward Liu Bang and whose Lu-regency opposition contrasts with Chen Ping.
 - [王陵母亲 / Mother of Wang Ling](entities/WangLingMother.md) — Unnamed hostage whose suicide blocks Xiang Yu's coercion and turns corpse desecration into political backfire.
 - [韩信 / Han Xin](entities/HanXin.md) — Future Han general now extended from Huaiyin poverty and 忍辱大勇 into public command, Hanzhong Dui, Qin-style army reform, and the Chen Cang campaign.
 - [陈仓 / Chen Cang](entities/ChenCang.md) — Hanji 148-1 route and battle point where Han Xin's layered feints become the central breakthrough against Zhang Han.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
-- [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer used by Hanji 144 as part of the immediate-war faction redirected by Xiao He's Hanzhong base-building counsel.
+- [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer later paired with Chen Ping in Hanji 150 part 3's Lu Zhi-era ambiguity and post-Lu restoration frame.
 - [灌婴 / Guan Ying](entities/GuanYing.md) — Liu Bang-side officer grouped with Zhou Bo and Fan Kuai in Hanji 144's post-Hanzhong morale-management scene.
 - [南郑 / Nanzheng](entities/Nanzheng.md) — Liu Bang's assigned Han-king capital, first a morale and retention test and then the implied setting for Han Xin's Hanzhong Dui planning.
 - [郴县 / Chen County (Changsha)](entities/ChenxianChangsha.md) — Changsha-commandery relocation site where Xiang Yu sends Mi Xin after virtually honoring him as Yi Emperor.
@@ -1284,7 +1285,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田安 / Tian An](entities/TianAn.md) — Qi-side figure made Jibei king as Xiang Yu fragments the Qi settlement.
 - [共敖 / Gong Ao](entities/GongAo.md) — Chu-side commander made Linjiang king for attacking Nan commandery.
 - [梅鋗 / Mei Juan](entities/MeiJuan.md) — Wu Rui subordinate rewarded as a large marquis in Xiang Yu's settlement.
-- [陈平 / Chen Ping](entities/ChenPing.md) — Chu-Han political operator whose early local trust, covert strategy, self-protective patron switching, and Liu Bang-side outsider role frame him as a pragmatic survivor.
+- [陈平 / Chen Ping](entities/ChenPing.md) — Chu-Han political operator whose early local trust, covert strategy, self-protective patron switching, Liu Bang-side outsider role, and three-court survival frame him as a pragmatic survivor.
 - [韩生 / Han Sheng](entities/HanSheng.md) — Adviser who tells Xiang Yu to hold Guanzhong after entering Xianyang and is killed after the "沐猴而冠" criticism reaches Xiang Yu.
 - [霸上 / Bashang](entities/Bashang.md) — Liu Bang's post-Xianyang camp where palace withdrawal, Yuefa Sanzhang, and refusal of local gifts become occupation pacification.
 - [新安坑降 / Xinan Massacre](entities/XinanMassacre.md) — Xiang Yu's killing of surrendered Qin troops near Xinan, framed as an immediate security decision that destroys Qin-population support.
@@ -1380,7 +1381,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [桓楚 / Huan Chu](entities/HuanChu.md) — Fugitive used as the pretext for Xiang Liang to bring armed Xiang Yu into Yin Tong's meeting.
 - [芒砀山 / Mangdang Mountain](entities/MangdangMountain.md) — Liu Bang's fugitive refuge where the white-snake and red-emperor story starts attaching sacred reputation to his outlaw group.
 - [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
-- [吕雉 / Lu Zhi](entities/LuZhi.md) — Lu Gong's daughter whose marriage to Liu Bang links the Pei County banquet to the later Han founding family network.
+- [吕雉 / Lu Zhi](entities/LuZhi.md) — Lu Gong's daughter, Liu Bang's wife, and later regency figure whose Lu-family kingship politics frame Chen Ping, Wang Ling, and Zhou Bo in Hanji 150 part 3.
 - [萧何 / Xiao He](entities/XiaoHe.md) — Liu Bang's administrative anchor who captures Qin records, argues for Hanzhong base-building, and pursues Han Xin as "国士无双."
 - [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base, where county-office relationships, Lu Gong's banquet, and the Pei Gong uprising converge.
 - [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
@@ -1459,7 +1460,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
 - [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao, making her the hinge of the displaced-prophecy branch.
 - [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Qin Shi Huang's summons, Liu Bang's Wen County recognition, Bao Ji's prediction, and later Deng Tong / Zhou Yafu cases, distinct from 徐福 the fangshi.
-- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, later Emperor Wen, who honors Xu Fu and tries to prevent Deng Tong's predicted poverty.
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, later Emperor Wen, installed after the post-Lu transition and later shown honoring Xu Fu.
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
@@ -7862,6 +7863,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
+- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Chen Ping frame for treating self-preservation, maneuvering room, and factional timing as core political disciplines in lethal court politics.
+- [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals whose shared merit and ties make ordinary discipline harder.
 - [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors.
 - [Local Social Capital Accumulation / 乡里社会资本积累](concepts/LocalSocialCapitalAccumulation.md) — Chen Ping's early pattern of converting reading, friendships, funeral help, Zhang-family marriage backing, and local trust into political capacity.
