@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6625
+wiki_total_pages: 6629
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "ZhaoZhengShu"
     title: "《赵正书》 / Zhao Zheng Shu"
     url: "/wiki/entities/zhaozhengshu/"
+  - key: "ZhongdiCommandery"
+    title: "中地郡 / Zhongdi Commandery"
+    url: "/wiki/entities/zhongdicommandery/"
   - key: "ZhongshanState"
     title: "中山国 / Zhongshan State"
     url: "/wiki/entities/zhongshanstate/"

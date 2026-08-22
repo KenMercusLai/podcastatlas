@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6625
+wiki_total_pages: 6629
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "RenNing"
     title: "任宁 / Ren Ning"
     url: "/wiki/entities/renning/"
+  - key: "RenShiQinMerchant"
+    title: "任氏 / Ren Family (Qin-Han merchant)"
+    url: "/wiki/entities/renshiqinmerchant/"
   - key: "RuJi"
     title: "如姬 / Ru Ji"
     url: "/wiki/entities/ruji/"

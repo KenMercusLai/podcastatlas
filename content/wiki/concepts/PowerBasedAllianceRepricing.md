@@ -2,8 +2,8 @@
 title: "Power-Based Alliance Repricing / 实力重估式阵营转向"
 type: concept
 tags: [alliance, diplomacy, statecraft, chu-han, power]
-sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj]
+last_updated: 2026-08-23
 ---
 
 # Power-Based Alliance Repricing / 实力重估式阵营转向
@@ -16,6 +16,8 @@ The source gives several versions. [[SimaXin|司马欣]] and [[DongYiQin|董翳]
 
 [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] adds the counter-move. Liu Bang responds to adverse repricing at [[Xiayi|下邑]] by offering lands east of [[Wuguan|武关]] and accepting [[ZhangLiang|张良]]'s [[XiayiPlan|下邑画策]]. The plan tries to make [[YingBu|英布]], [[PengYue|彭越]], and [[HanXin|韩信]] reprice the field again by tying future reward to multi-front pressure against Xiang Yu.
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] gives Wei Bao's repricing a concrete second act. He asks [[LiuBang|刘邦]] to return to West Wei under the pretext of visiting his sick mother, seals the Yellow River crossings, and submits to [[XiangYu|项羽]]. The source adds a status motive to the power calculation: Wei Bao says Liu Bang treats lords and ministers with humiliating arrogance, so personal dignity becomes one way battlefield credibility translates into alliance movement.
+
 This concept is related to [[WarringStatesAllianceSwitching|战国同盟转向]], but it is narrower. Alliance switching can come from marriage, hostages, land returns, or diplomacy; power-based repricing specifically names the rapid post-defeat recalculation that follows a visible change in military credibility.
 
 ## Key Claims
@@ -25,6 +27,7 @@ This concept is related to [[WarringStatesAllianceSwitching|战国同盟转向]]
 - Repricing is not universal; residual loyalty, old ties, geography, or future expectations can keep some actors in the defeated camp.
 - The concept translates the host's "实力社交" lesson into a source-scoped statecraft pattern.
 - Hanji 153 adds that repricing can be contested: a weakened leader can offer credible rewards, exploit enemy-side distrust, and delegate command to make the field move again.
+- Hanji 155-1 adds that status insult can help an actor justify or emotionally sustain a switch that already makes sense under changed power conditions.
 
 ## Connections
 - [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - defeat, weakened coalition leader, and restored strong side.
@@ -33,3 +36,4 @@ This concept is related to [[WarringStatesAllianceSwitching|战国同盟转向]]
 - [[ZhangEr|张耳]], [[HanWangXin|韩王信]], and [[LuZe|吕泽]] - remaining Liu-side support after the rout.
 - [[CommonEnemyAlliance|共同敌人联盟]], [[WarringStatesAllianceSwitching|战国同盟转向]], and [[CoalitionSettlementFailure|联军战后安排失败]] - adjacent alliance formation, switching, and settlement failure patterns.
 - [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]], [[XiayiPlan|下邑画策]], [[YingBu|英布]], [[PengYue|彭越]], [[HanXin|韩信]], and [[SuiHe|随何]] - attempt to reverse post-Pengcheng repricing through reward and multi-front strategy.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[WeiBao|魏豹]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - second Wei Bao switch through pretext, crossing closure, and humiliation grievance.

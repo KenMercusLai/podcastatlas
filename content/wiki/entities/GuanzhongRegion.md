@@ -2,8 +2,8 @@
 title: "关中 / Guanzhong Region"
 type: entity
 tags: [region, qin-state, pre-qin, chu-han, logistics]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
+last_updated: 2026-08-23
 ---
 
 # 关中 / Guanzhong Region
@@ -30,6 +30,8 @@ Guanzhong also separates the two mission tracks in this episode. [[LiuBang|刘�
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] shows Guanzhong becoming a working rear base rather than only a recovered prize. Liu Bang moves the capital to [[LiyangQinHan|栎阳]], takes [[LongxiCommandery|陇西郡]] and [[BeidiCommandery|北地郡]], repairs Qin frontier works against Xiongnu pressure, and leaves [[XiaoHe|萧何]] and [[HanXin|韩信]] as the civil-military anchors of the rear.
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] adds the rear base's disaster side. While Han finishes [[Feiqiu|废丘]] and turns former Yong territory into commanderies, Guanzhong suffers a catastrophic famine. The source explains the famine through [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]]: Chu-Han warfare removes young labor from fields, grain prices explode, Liu Bang lets people move toward [[BaShu|蜀郡]] and [[Hanzhong|汉中]], and [[RenShiQinMerchant|任氏]]'s grain fortune becomes a case for [[PowerBackedGrainHoarding|权力保护下的乱世囤粮]].
+
 This page uses the `GuanzhongRegion` key to avoid colliding with [[GuanZhong|管仲 / Guan Zhong]], the Spring and Autumn minister.
 
 ## Connections
@@ -42,3 +44,4 @@ This page uses the `GuanzhongRegion` key to avoid colliding with [[GuanZhong|管
 - [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[ThreeQinContainment|三秦压制]], [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]] - Han Xin's case that Guanzhong can be reopened through legitimacy and local resentment.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[ChenCang|陈仓]], [[HanInheritsQinSystem|汉承秦制]], and [[LayeredFeintCentralBreakthrough|多路佯动中央突破]] - military path by which the recoverable target becomes recovered territory.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiyangQinHan|栎阳]], [[LongxiCommandery|陇西郡]], [[BeidiCommandery|北地郡]], [[XiaoHe|萧何]], and [[HanXin|韩信]] - recovered Guanzhong as capital-backed rear base.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], [[RenShiQinMerchant|任氏]], and [[PowerBackedGrainHoarding|权力保护下的乱世囤粮]] - famine, price spike, migration, and wartime grain protection.

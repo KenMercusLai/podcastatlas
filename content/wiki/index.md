@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧](sources/zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh.md) — 芮淇讲透资治通鉴 episode on Wei Bao's renewed turn toward Xiang Yu, Feiqiu's fall and Zhang Han's suicide, the Guanzhong famine, and Ren氏's grain-hoarding fortune under wartime scarcity.
 - [《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？](sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8.md) — 芮淇讲透资治通鉴 episode resolving the Chen Ping "盗嫂/受金" accusations through Wei Wuzhi's talent defense, Chen Ping's practical money explanation, Liu Bang's renewed trust, and source-critical skepticism toward the family-scandal smear.
 - [《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）](sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu.md) — 芮淇讲透资治通鉴 episode on Liu Bang's concrete post-Pengcheng recovery through Sui He's Jiujiang mission, the Xingyang front, Xiao He and Han Xin's emergency support, Guan Ying's cavalry force, Aocang logistics, and the Chen Ping veteran backlash.
 - [《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（1）](sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Pengcheng recovery question at Xiayi, Zhang Liang's Xiayi Plan, the Ying Bu/Peng Yue/Han Xin multi-front strategy, and Sui He's volunteered mission to Jiujiang.
@@ -1260,6 +1261,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [白隐慧鹤 / Hakuin Ekaku](entities/HakuinEkaku.md) — Rinzai Zen master used in Hanji 155-1 as an analogy for bearing false accusation without losing composure.
+- [中地郡 / Zhongdi Commandery](entities/ZhongdiCommandery.md) — Commandery named in Hanji 155-1 as one of Liu Bang's administrative units after pacifying Yong territory.
+- [任氏 / Ren Family (Qin-Han merchant)](entities/RenShiQinMerchant.md) — Qin末宣曲 grain-hoarding family whose famine profit raises the source's question of power-backed commercial protection in wartime.
+- [废丘 / Feiqiu](entities/Feiqiu.md) — Zhang Han's final holdout city after Han Xin's Three Qin breakthrough, flooded by Han forces before Zhang Han's suicide.
 - [李璧 / Li Bi](entities/LiBiQinCavalry.md) — Former Qin cavalry specialist who advises Liu Bang to place Guan Ying over the new Han cavalry force while serving as a deputy.
 - [骆甲 / Luo Jia](entities/LuoJiaQinCavalry.md) — Former Qin cavalry specialist paired with Li Bi in recommending Guan Ying for the post-Pengcheng Han cavalry command.
 - [随何 / Sui He](entities/SuiHe.md) — Liu Bang-side envoy who volunteers to persuade Ying Bu to rebel against Xiang Yu after the Xiayi Plan.
@@ -7889,6 +7894,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.
+- [Wartime Agricultural Labor Collapse / 战争抽空农业劳动力](concepts/WartimeAgriculturalLaborCollapse.md) — Famine mechanism where mass warfare removes farmers from fields, leaving food output and prices to break down.
 - [Xingyang Standoff / 荥阳相持](concepts/XingyangStandoff.md) — Post-Pengcheng Chu-Han holding phase where Liu Bang stabilizes around Xingyang through reinforcement, cavalry repair, and Aocang-linked logistics.
 - [Han Cavalry Formation / 汉军骑兵建设](concepts/HanCavalryFormation.md) — Liu Bang's post-Pengcheng mounted-force response using Guan Ying's command and former Qin cavalry specialists Li Bi and Luo Jia.
 - [Xiayi Plan / 下邑画策](concepts/XiayiPlan.md) — Zhang Liang's post-Pengcheng strategic redesign using Ying Bu, Peng Yue, Han Xin, and reward promises to rebuild Liu Bang's anti-Xiang field.

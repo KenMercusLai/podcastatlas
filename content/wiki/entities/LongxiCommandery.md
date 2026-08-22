@@ -2,8 +2,8 @@
 title: "陇西郡 / Longxi Commandery"
 type: entity
 tags: [place, commandery, qin-state, frontier, warring-states]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]
+last_updated: 2026-08-23
 ---
 
 # 陇西郡 / Longxi Commandery
@@ -18,9 +18,12 @@ The page is source-scoped until additional episodes develop Longxi independently
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] adds the Chu-Han reuse of Longxi after Liu Bang recovers Guanzhong. The episode says Han forces take Longxi after Liu Bang moves his capital to [[LiyangQinHan|栎阳]], making the old Qin frontier commandery part of Liu Bang's rear-base consolidation before the eastward contest.
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] returns to Longxi after [[Feiqiu|废丘]] falls. The episode says Han fully pacifies former Yong territory and sets [[ZhongdiCommandery|中地郡]], [[BeidiCommandery|北地郡]], and Longxi Commandery, making Longxi part of the completed administrative conversion after [[ZhangHanQin|章邯]]'s last position collapses.
+
 ## Connections
 - [[QinState|秦国]] and [[YiquState|义渠]] - state and former frontier region connected to Longxi.
 - [[BeidiCommandery|北地郡]] and [[Shangjun|上郡]] - neighboring frontier units in the episode's defensive-line explanation.
 - [[QinFrontierBufferManagement|秦国后方边患管理]] and [[QinEastwardPressure|秦国东进压力]] - concepts explaining why rear-frontier administration matters.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[YongchengQin|雍城]], [[HighTempleRite|高庙礼]], and [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] - route and ritual-return branch after unification.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiuBang|刘邦]], [[LiyangQinHan|栎阳]], and [[GuanzhongRegion|关中]] - Chu-Han rear-base consolidation.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[Feiqiu|废丘]], [[ZhongdiCommandery|中地郡]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - commandery setup after Yong territory is pacified.

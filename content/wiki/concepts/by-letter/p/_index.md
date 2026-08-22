@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5091
+wiki_total_pages: 5093
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "PowerUserDiscovery"
     title: "Power User Discovery"
     url: "/wiki/concepts/poweruserdiscovery/"
+  - key: "PowerBackedGrainHoarding"
+    title: "Power-Backed Grain Hoarding / 权力保护下的乱世囤粮"
+    url: "/wiki/concepts/powerbackedgrainhoarding/"
   - key: "PowerBasedAllianceRepricing"
     title: "Power-Based Alliance Repricing / 实力重估式阵营转向"
     url: "/wiki/concepts/powerbasedalliancerepricing/"

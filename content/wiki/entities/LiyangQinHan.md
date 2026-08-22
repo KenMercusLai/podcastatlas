@@ -2,8 +2,8 @@
 title: "栎阳 / Liyang (Qin-Han)"
 type: entity
 tags: [place, capital, qin, han, chu-han]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
+last_updated: 2026-08-23
 ---
 
 # 栎阳 / Liyang (Qin-Han)
@@ -14,7 +14,10 @@ The source places the move inside Liu Bang's consolidation of [[GuanzhongRegion|
 
 For this wiki, Liyang is a narrow capital-base marker: Liu Bang is no longer merely breaking out of Hanzhong but turning the recovered Qin heartland into an administrative and military base for eastward action.
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] makes Liyang the rear-capital setting for two consolidation acts after the [[XingyangStandoff|荥阳相持]] begins. Liu Bang returns there from Xingyang, names [[LiuYing|刘盈]] crown prince, and grants a general amnesty before the episode turns to [[WeiBao|魏豹]]'s renewed defection and [[GuanzhongRegion|关中]] famine.
+
 ## Connections
 - [[LiuBang|刘邦]], [[GuanzhongRegion|关中]], and [[StrategicCapitalRelocation|战略性迁都]] - ruler, region, and capital-move frame.
 - [[LongxiCommandery|陇西郡]], [[BeidiCommandery|北地郡]], and [[ZhangPingQinGeneral|章平]] - frontier expansion after the move.
 - [[XiaoHe|萧何]] and [[HanXin|韩信]] - rear governance and military command in the same source.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[LiuYing|刘盈]], [[WeiBao|魏豹]], and [[XingyangStandoff|荥阳相持]] - succession and amnesty acts before the episode's defection and famine branches.

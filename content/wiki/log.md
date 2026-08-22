@@ -10074,3 +10074,11 @@ Added source page for Hanji 154: the follow-up to Chen Ping's "盗嫂/受金" ac
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧
+
+Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin versus Wei Bao, the Hakuin false-accusation analogy after the Chen Ping thread, Wei Bao's visit-mother pretext and renewed submission to Xiang Yu, Feiqiu's flooding and Zhang Han's suicide, Liu Bang's Liyang crown-prince/amnesty move, Guanzhong famine, and Ren氏's grain-hoarding fortune. Created Feiqiu, RenShiQinMerchant, ZhongdiCommandery, HakuinEkaku, WartimeAgriculturalLaborCollapse, and PowerBackedGrainHoarding; updated overview, index, and related Chu-Han, famine, commandery, and deception pages. No settled contradiction found; kept the "声东击西" campaign detail source-scoped because the available transcript stops before the full Wei Bao operation.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

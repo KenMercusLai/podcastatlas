@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6625
+wiki_total_pages: 6629
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "FenglingWarringStates"
     title: "封陵 / Fengling (Warring States)"
     url: "/wiki/entities/fenglingwarringstates/"
+  - key: "Feiqiu"
+    title: "废丘 / Feiqiu"
+    url: "/wiki/entities/feiqiu/"
   - key: "FuSu"
     title: "扶苏 / Fu Su"
     url: "/wiki/entities/fusu/"

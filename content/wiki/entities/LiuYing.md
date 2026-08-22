@@ -2,8 +2,8 @@
 title: "刘盈 / Liu Ying"
 type: entity
 tags: [person, western-han, chu-han]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
+last_updated: 2026-08-23
 ---
 
 # 刘盈 / Liu Ying
@@ -14,8 +14,11 @@ In the source's account, Liu Bang encounters Liu Ying and [[LuYuanPrincess|鲁�
 
 [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] continues the same scene by foregrounding [[XiahouYing|夏侯婴]]. Xiahou Ying repeatedly retrieves Liu Ying and Princess Lu Yuan after Liu Bang pushes them off the cart, and the episode says Liu Ying later remembers the rescue after becoming emperor. The source therefore extends Liu Ying from a marker of panic into part of Xiahou Ying's later trust and honor story.
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] shifts Liu Ying from battlefield-vulnerability marker into succession status. After [[LiuBang|刘邦]] returns from [[YingyangWarringStates|荥阳]] to [[LiyangQinHan|栎阳]], he makes Liu Ying crown prince and issues a general amnesty.
+
 ## Connections
 - [[LiuBang|刘邦]] - father and fleeing commander in the source scene.
 - [[LuYuanPrincess|鲁元公主]] - sibling paired with Liu Ying in the escape account.
 - [[XiahouYing|夏侯婴]] and [[LuZhi|吕雉]] - rescuer and mother tied to the later gratitude branch.
 - [[PengchengBattle|彭城之战]] and [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]] - battle and command-failure frame that make the flight scene meaningful.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[LiyangQinHan|栎阳]], and [[LiuBang|刘邦]] - crown-prince appointment and general amnesty after Liu Bang's return.

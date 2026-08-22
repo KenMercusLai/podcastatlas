@@ -2,8 +2,8 @@
 title: "Three Qin Containment / 三秦压制"
 type: concept
 tags: [strategy, chu-han, guanzhong, enfeoffment, containment]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]
+last_updated: 2026-08-23
 ---
 
 # Three Qin Containment / 三秦压制
@@ -22,6 +22,8 @@ The device is politically double-edged. It rewards Qin elites who surrendered to
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] shows the post-collapse consolidation. Once the blocking system has failed, Liu Bang moves the capital to [[LiyangQinHan|栎阳]], takes [[LongxiCommandery|陇西郡]] and [[BeidiCommandery|北地郡]], defeats [[ZhangPingQinGeneral|章平]], and repairs frontier defenses. The containment's failure therefore becomes a recovered rear base rather than only an opened route.
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] adds the last holdout endpoint. [[Feiqiu|废丘]] is flooded after a long siege, [[ZhangHanQin|章邯]] dies by suicide, and Han sets [[ZhongdiCommandery|中地郡]], [[BeidiCommandery|北地郡]], and [[LongxiCommandery|陇西郡]]. The Three Qin are no longer a damaged barrier but an administrative problem being absorbed into the Han rear.
+
 ## Key Claims
 - The Three Qin convert surrendered enemies into border guardians against a former ally.
 - The arrangement preserves a nominal claim that Liu Bang received part of the Guanzhong world, while operationally moving him into a constrained and difficult base.
@@ -31,6 +33,7 @@ The device is politically double-edged. It rewards Qin elites who surrendered to
 - Hanji 147 shows that containment can fail politically before it fails militarily when the blocking rulers lack local legitimacy.
 - Hanji 148-1 shows the military collapse: once Zhang Han is pulled off balance and beaten at Chen Cang/Haozhi, the other two Qin kings surrender rather than preserve the containment layer.
 - Hanji 149 part 2 shows that failed containment can be converted into rear-base consolidation through capital relocation, frontier commanderies, and defensive repair.
+- Hanji 155-1 adds the terminal holdout: Feiqiu's fall and Zhang Han's suicide complete the conversion of the barrier into commandery administration.
 
 ## Connections
 - [[LiuBang|刘邦]], [[BaShu|巴蜀]], [[Hanzhong|汉中]], and [[Nanzheng|南郑]] - assigned Han kingship and constrained base.
@@ -41,3 +44,4 @@ The device is politically double-edged. It rewards Qin elites who surrendered to
 - [[HanXin|韩信]], [[HanzhongDui|汉中对]], [[YuefaSanzhang|约法三章]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Hanji 147 diagnosis of why Liu Bang can attack the containment through legitimacy and local support.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[ChenCang|陈仓]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], and [[HanInheritsQinSystem|汉承秦制]] - operational defeat and surrender sequence that ends the blocking system.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiyangQinHan|栎阳]], [[LongxiCommandery|陇西郡]], [[BeidiCommandery|北地郡]], and [[ZhangPingQinGeneral|章平]] - post-collapse consolidation of the recovered Qin heartland.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[Feiqiu|废丘]], and [[ZhongdiCommandery|中地郡]] - final holdout and commandery absorption.

@@ -2,8 +2,8 @@
 title: "魏豹 / Wei Bao"
 type: entity
 tags: [person, wei-state, warring-states, chu-han-contention]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
+last_updated: 2026-08-23
 ---
 
 # 魏豹 / Wei Bao
@@ -26,6 +26,8 @@ The prediction is fulfilled in a way that empties his self-centered reading. The
 
 [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] reverses that short-lived Liu-side attachment after the [[PengchengBattle|彭城之战]]. Once Liu Bang is routed, Wei Bao returns to West Wei and rebels from Han back toward Chu. The page now treats Wei Bao as a two-stage alliance case: [[RewardAllocationBacklash|分配反噬]] helps explain his first move toward Liu Bang, while [[PowerBasedAllianceRepricing|实力重估式阵营转向]] explains why Pengcheng changes the calculation again.
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] gives that renewed break a concrete scene and stated motive. Wei Bao asks [[LiuBang|刘邦]] for permission to return to West Wei to visit his sick mother, then closes Yellow River crossings and submits to [[XiangYu|项羽]]. The source records his explanation as personal humiliation: Liu Bang's coarse insults toward lords and ministers make Wei Bao unwilling to return, adding status injury to the existing power-repricing and settlement-grievance explanations.
+
 ## Connections
 - [[WeiState|魏国]], [[WeiWangJia|魏王假]], and [[WeiJiu|魏咎]] - fallen Wei context and related surviving figure.
 - [[BaoJi|薄姬]] - favored woman whose predicted child Wei Bao misreads as his own future.
@@ -36,3 +38,4 @@ The prediction is fulfilled in a way that empties his self-centered reading. The
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] - recovery of old Wei cities and recognition as Wei king.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiuBang|刘邦]], [[SimaAng|司马卬]], and [[CoalitionSettlementFailure|联军战后安排失败]] - Yellow River crossing and surrender after partition grievance.
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[PengchengBattle|彭城之战]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - return toward Chu after Liu Bang's rout.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] - visit-mother pretext, Yellow River crossing closure, and grievance over Liu Bang's humiliating treatment.

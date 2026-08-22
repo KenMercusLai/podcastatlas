@@ -2,8 +2,8 @@
 title: "巴蜀 / Ba-Shu"
 type: entity
 tags: [region, sichuan, pre-qin, warring-states, qin-state]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+last_updated: 2026-08-23
 ---
 
 # 巴蜀 / Ba-Shu
@@ -16,9 +16,12 @@ Ba-Shu therefore anchors both Qin's strategic gain and [[ChenZhuangWarringStates
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] reuses Ba-Shu as [[LiuBang|刘邦]]'s assigned Han-king territory after [[XiangYu|项羽]] rejects direct fulfillment of the [[HuaiwangAgreement|怀王之约]]. The episode treats the assignment as a strategic confinement: Ba-Shu is valuable and defensible, but its difficult roads and separation from [[GuanzhongRegion|关中]] help Xiang Yu and [[FanZeng|范增]] contain Liu Bang through [[ThreeQinContainment|三秦压制]].
 
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] gives Ba-Shu a relief-geography role after Liu Bang has recovered Guanzhong. During the Guanzhong famine, Liu Bang allows people to move toward Shu and [[Hanzhong|汉中]], turning the once-confining western base into a fallback space for people escaping war-driven scarcity.
+
 ## Connections
 - [[BaStateWarringStates|巴国]] and [[ShuStateWarringStates|蜀国]] - component polities in the source.
 - [[QinState|秦国]], [[SimaCuo|司马错]], and [[YingSi|秦惠文王]] - conqueror, strategist, and ruler.
 - [[ChenZhuangWarringStates|陈庄]], [[ShuHouNingTong|蜀侯宁通]], and [[GanMao|甘茂]] - rebellion branch.
 - [[Dujiangyan|都江堰]] and [[LiBing|李冰]] - later irrigation and grain-supply frame in the episode.
 - [[AppointedGovernorSecessionRisk]], [[QinFrontierBufferManagement]], and [[SichuanPostConquestResistance]] - adjacent concepts.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[GuanzhongRegion|关中]], [[Hanzhong|汉中]], and [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]] - famine migration destination during Chu-Han war.

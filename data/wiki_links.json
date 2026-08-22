@@ -15023,6 +15023,10 @@
     "title": "《飞马牌汽车》",
     "url": "/wiki/entities/feimapaiqiche/"
   },
+  "Feiqiu": {
+    "title": "废丘 / Feiqiu",
+    "url": "/wiki/entities/feiqiu/"
+  },
   "Feishu": {
     "title": "Feishu / 飞书",
     "url": "/wiki/entities/feishu/"
@@ -18410,6 +18414,10 @@
   "HakanFidan": {
     "title": "Hakan Fidan",
     "url": "/wiki/entities/hakanfidan/"
+  },
+  "HakuinEkaku": {
+    "title": "白隐慧鹤 / Hakuin Ekaku",
+    "url": "/wiki/entities/hakuinekaku/"
   },
   "HalAndRogerAdventures": {
     "title": "《哈尔罗杰历险记》",
@@ -32931,6 +32939,10 @@
     "title": "Poverty-Trap Modernization / 贫困陷阱与现代化",
     "url": "/wiki/concepts/povertytrapmodernization/"
   },
+  "PowerBackedGrainHoarding": {
+    "title": "Power-Backed Grain Hoarding / 权力保护下的乱世囤粮",
+    "url": "/wiki/concepts/powerbackedgrainhoarding/"
+  },
   "PowerBasedAllianceRepricing": {
     "title": "Power-Based Alliance Repricing / 实力重估式阵营转向",
     "url": "/wiki/concepts/powerbasedalliancerepricing/"
@@ -35074,6 +35086,10 @@
   "RenNing": {
     "title": "任宁 / Ren Ning",
     "url": "/wiki/entities/renning/"
+  },
+  "RenShiQinMerchant": {
+    "title": "任氏 / Ren Family (Qin-Han merchant)",
+    "url": "/wiki/entities/renshiqinmerchant/"
   },
   "RenZhengfei": {
     "title": "Ren Zhengfei",
@@ -44191,6 +44207,10 @@
     "title": "Wars of the Roses / 玫瑰战争",
     "url": "/wiki/entities/warsoftheroses/"
   },
+  "WartimeAgriculturalLaborCollapse": {
+    "title": "Wartime Agricultural Labor Collapse / 战争抽空农业劳动力",
+    "url": "/wiki/concepts/wartimeagriculturallaborcollapse/"
+  },
   "WartimeCommandDecapitation": {
     "title": "Wartime Command Decapitation / 战时统帅斩首",
     "url": "/wiki/concepts/wartimecommanddecapitation/"
@@ -47562,6 +47582,10 @@
   "ZhongXuegao": {
     "title": "Zhong Xuegao",
     "url": "/wiki/entities/zhongxuegao/"
+  },
+  "ZhongdiCommandery": {
+    "title": "中地郡 / Zhongdi Commandery",
+    "url": "/wiki/entities/zhongdicommandery/"
   },
   "ZhonghuaXieshi": {
     "title": "《中华蟹史》",
@@ -51006,6 +51030,10 @@
   "zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8": {
     "title": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8/"
+  },
+  "zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh": {
+    "title": "《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",
