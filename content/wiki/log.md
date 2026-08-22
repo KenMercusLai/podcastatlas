@@ -10145,3 +10145,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（1）
+
+Added source page for Hanji 160 part 1: Liu Bang's failed Xingyang peace request, Fan Zeng's rejection of compromise, Chen Ping's diagnosis of Xiang Yu's reward and suspicion weakness, the forty-thousand-gold counterintelligence budget, the rumor against Zhongli Mo, and the source-scoped transition toward Fan Zeng's departure and death. Created Zhongli Mo and Zhou Yin; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Long Ju, Xingyang Standoff, Covert Political Technology, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, Reward Allocation Backlash, Talent Attraction Through Respect, and Merit-Based Reward and Punishment. No settled contradiction found; the omitted middle chain around Fan Zeng is preserved as source-scope caution.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 13,008 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not set to a provider-qualified model; report returned in-session and `wiki/lint-report.md` was not updated.

@@ -2,8 +2,8 @@
 title: "范增 / Fan Zeng"
 type: entity
 tags: [strategist, chinese-history, power]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+last_updated: 2026-08-23
 ---
 
 # 范增 / Fan Zeng
@@ -30,7 +30,10 @@ His failure is a political-handling failure. QinZong argues that Fan Zeng cannot
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] adds Fan Zeng to the settlement design rather than only the assassination branch. The episode says Xiang Yu and Fan Zeng both fear [[LiuBang|刘邦]], so Liu Bang's Han kingship is paired with [[ThreeQinContainment|三秦压制]]: [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]] are placed across the Qin core to block Liu Bang's return route. Fan Zeng's threat reading therefore survives Hongmen, but is translated into geography and enfeoffment rather than immediate killing.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] returns Fan Zeng to the anti-Liu decision point at Xingyang. When [[LiuBang|刘邦]] asks for peace and [[XiangBo|项伯]] persuades [[XiangYu|项羽]] to consider it, Fan Zeng insists that Liu Bang should be finished while trapped. This makes him the main obstacle to peace and one of the first figures [[ChenPing|陈平]] identifies for separation from Xiang Yu through [[CounterintelligenceRumorWedge|反间流言楔入]]. The transcript then jumps to Fan Zeng leaving Xiang Yu and dying on the road to Pengcheng; the wiki keeps that as the episode's implied result without filling in omitted steps as settled narrative.
+
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[ChenPing|陈平]], [[XiangBo|项伯]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - peace rejection, target status, and source-scoped departure/death transition.
 - [[HongmenYan|《鸿门宴》]] - central source scene.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[FanKuai|樊哙]] - figures in the power field.
 - [[PowerEtiquetteReading]] and [[MoralFaceUnderPowerCompetition]] - concepts sharpened through his failure.

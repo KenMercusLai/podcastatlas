@@ -1,8 +1,8 @@
 ---
 title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
 type: concept
-tags: [statecraft, talent, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+tags: [statecraft, talent, legitimacy, pre-qin-history, chu-han]
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-23
 ---
 
@@ -36,6 +36,8 @@ The concept differs from simple recruitment. The source's point is that public r
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds a battlefield-afterlife version through Han Xin's treatment of [[LiZuoChe|李左车]]. Han Xin does not merely spare a defeated adviser; he unties him, seats him honorably, invokes the [[BailiXi|百里奚]] precedent, and makes the respect practical by asking for policy. Respect here attracts usable counsel from someone who had just been on the enemy side.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] adds a boundary case through [[XiangYu|项羽]]. [[ChenPing|陈平]] says Xiang Yu's respectful manners can attract clean and ritual-minded people, but respect without reliable titles and rewards does not hold them. The episode therefore separates courtesy-based attraction from incentive-based retention: talent may enter a camp because it is honored, then leave or become suspect when merit is not materially recognized.
+
 ## Key Claims
 - Respect can be a state-building signal when talent is mobile.
 - A ruler's humility toward scholars can convert personal reputation into institutional attractiveness.
@@ -52,8 +54,10 @@ The concept differs from simple recruitment. The source's point is that public r
 - Qinji 117-1 adds the negative endpoint: a state that loses the ability to attract, trust, and use talent can preserve a name for a while but lose the capacity to answer terminal pressure.
 
 - Hanji 157 part 2 adds that respect can operate after enemy defeat, when honoring a captured strategist makes advice credible enough to change the victor's next move.
+- Hanji 160 part 1 adds that respect can attract talent while poor reward distribution still weakens retention and makes rumor believable.
 
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XiangYu|项羽]], [[ChenPing|陈平]], [[RewardAllocationBacklash|分配反噬]], and [[ZhongliMo|钟离眜]] - respect without sufficient rewards as talent-retention weakness.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[HanXin|韩信]], [[LiZuoChe|李左车]], [[BailiXi|百里奚]], and [[VictoryDeterrenceDiplomacy|胜势威慑外交]] - defeated-talent respect that produces post-battle strategy.
 - [[WeiWenhou|魏文侯]], [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - source examples.
 - [[WeiCheng|魏成]], [[DiHuang|翟黄]], [[LiKe|李克]], and [[TalentReferralQuality]] - chancellor-selection extension.

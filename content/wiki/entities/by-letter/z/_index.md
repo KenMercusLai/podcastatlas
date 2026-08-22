@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6642
+wiki_total_pages: 6644
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "ZhouWuwang"
     title: "周武王 / King Wu of Zhou"
     url: "/wiki/entities/zhouwuwang/"
+  - key: "ZhouYin"
+    title: "周殷 / Zhou Yin"
+    url: "/wiki/entities/zhouyin/"
   - key: "ZhouYuan"
     title: "周源 / Zhou Yuan"
     url: "/wiki/entities/zhouyuan/"
@@ -818,6 +821,9 @@ wiki_pages:
   - key: "ZhongliChun"
     title: "钟离春 / 钟无艳 / Zhongli Chun"
     url: "/wiki/entities/zhonglichun/"
+  - key: "ZhongliMo"
+    title: "钟离眜 / Zhongli Mo"
+    url: "/wiki/entities/zhonglimo/"
   - key: "ZhongKui"
     title: "钟馗"
     url: "/wiki/entities/zhongkui/"

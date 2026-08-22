@@ -1,8 +1,8 @@
 ---
 title: "Rumor Erosion of Trust / 谣言侵蚀信任"
 type: concept
-tags: [governance, trust, court-politics, rhetoric, pre-qin-history]
-sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+tags: [governance, trust, court-politics, rhetoric, pre-qin-history, chu-han]
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-23
 ---
 
@@ -26,6 +26,8 @@ The concept matters because it treats trust as a political resource with a decay
 
 [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] adds a useful failed-rumor case inside [[LiuBang|刘邦]]'s camp. [[ZhouBo|周勃]], [[GuanYing|灌婴]], and other old generals accuse [[ChenPing|陈平]] of "盗嫂," but [[WeiWuzhi|魏无知]] and Chen Ping move Liu Bang back to evidence, usefulness, and role. The source therefore shows that rumor erosion is not automatic: a ruler can block it when accuser access is weak and the target's value is concrete.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] immediately supplies the successful enemy-camp mirror. Chen Ping, whose same-camp smear failed under Liu Bang, now uses rumor against [[XiangYu|项羽]] by making [[ZhongliMo|钟离眜]]'s unrewarded military merit look like a reason for defection and future kingship ambition. The contrast makes ruler response decisive: Liu Bang tests rumor and keeps Chen Ping; Xiang Yu begins withholding trust from a useful Chu general.
+
 ## Key Claims
 - Repetition can make even implausible accusation politically effective.
 - Campaign duration increases the time available for court factions to reframe a commander's delay as betrayal or incompetence.
@@ -38,8 +40,10 @@ The concept matters because it treats trust as a political resource with a decay
 - Court reporting can convert a commander's physical display into damaging evidence when an intermediary is bribed.
 - Disaster and famine can accelerate rumor erosion because public fear, low morale, and military stress make loyalty stories easier to operationalize.
 - Rumor can fail when the ruler tests accuser credibility, separates concrete faults from ungrounded scandal, and still needs the target's role-specific ability.
+- The same operator can survive rumor in one camp and weaponize it in another when the target ruler has a stronger suspicion/reward crack.
 
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XiangYu|项羽]], [[ZhongliMo|钟离眜]], [[FanZeng|范增]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - successful Chu-side trust erosion after Chen Ping survives earlier same-camp slander.
 - [[GanMao|甘茂]] and [[QinWuwang|秦武王]] - speaker and ruler whose trust is at issue.
 - [[ZengShen|曾参]] and [[LeYang|乐羊]] - parable cases.
 - [[YiyangWarringStates|宜阳]], [[HanState|韩国]], and [[QinState|秦国]] - campaign setting.

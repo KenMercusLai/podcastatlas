@@ -2,7 +2,7 @@
 title: "Reward Allocation Backlash / 分配反噬"
 type: concept
 tags: [statecraft, incentives, coalition, chu-han, enfeoffment]
-sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-23
 ---
 
@@ -24,6 +24,8 @@ The concept extends [[CoalitionSettlementFailure|联军战后安排失败]] by f
 
 [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] adds the prospective Liu Bang-side version. Zhang Liang warns that if [[LiuBang|刘邦]] restores the six old royal houses, his followers will see the future reward pool transferred to hereditary kings and will drift back toward family, graves, and local rulers. Reward backlash can therefore arise before final victory, not only after a completed settlement.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] adds the counterintelligence use of the same weakness. [[ChenPing|陈平]] argues that [[XiangYu|项羽]] is courteous but reluctant to grant titles and rewards, so a rumor about [[ZhongliMo|钟离眜]]'s unrewarded merit can sound plausible enough to damage trust. Reward allocation backlash is therefore not only a rebellion trigger; it can become raw material for enemy information warfare.
+
 ## Key Claims
 - Distribution is a political act, not an administrative afterthought after victory.
 - Rewarding one coalition faction can create resentment among displaced old claimants and among unrewarded insiders at the same time.
@@ -35,8 +37,10 @@ The concept extends [[CoalitionSettlementFailure|联军战后安排失败]] by f
 - Hanji 149 adds that backlash can become moral-symbolic, not only territorial: a murdered figurehead gives excluded rivals a public accusation.
 - Hanji 149 part 2 adds Wei Bao's surrender as a direct case where reduced and redistributed territory converts grievance into defection.
 - Hanji 159-2 adds a preventive version: a ruler can avoid future backlash by refusing a plan that would visibly pre-allocate rewards away from current followers.
+- Hanji 160 part 1 adds an information-warfare version: even before a subordinate defects, visible under-rewarding can make defection rumors believable to a suspicious ruler.
 
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[XiangYu|项羽]], [[ZhongliMo|钟离眜]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - reward grievance converted into a trust-destroying rumor.
 - [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], [[LiShiqi|郦食其]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - near-backlash avoided by rejecting restored royal reward allocation.
 - [[XiangYu|项羽]], [[ZhouQinHybridOrder|周秦混合制]], and [[ThreeQinContainment|三秦压制]] - settlement designer and institutional setting.
 - [[LiuBang|刘邦]], [[HanGuang|韩广]], [[ZhaoXie|赵歇]], [[WeiBao|魏豹]], [[HanCheng|韩成]], and [[TianRong|田荣]] - actors whose resentment or exclusion exposes the backlash.

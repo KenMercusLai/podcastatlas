@@ -2,8 +2,8 @@
 title: "项伯 / Xiang Bo"
 type: entity
 tags: [person, qin-han, chu-han, xiang-family]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
+last_updated: 2026-08-23
 ---
 
 # 项伯 / Xiang Bo
@@ -24,6 +24,8 @@ After returning to Xiang Yu's camp, Xiang Bo argues that attacking Liu Bang woul
 
 [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] completes the immediate payoff of that channel. Xiang Bo accepts the gift-mediated request from Zhang Liang and persuades [[XiangYu|项羽]] to let [[LiuBang|刘邦]] hold the Hanzhong-related space he needs before moving into the Han assignment. The episode again makes Xiang Bo's political effect indirect: he does not join Liu Bang, but his private trust with Zhang Liang changes what Liu Bang can practically carry into retreat.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] shows Xiang Bo still functioning as a preservation channel later at Xingyang. When Liu Bang asks to divide the world at Xingyang's east-west line, Xiang Bo persuades Xiang Yu to consider accepting the peace. [[FanZeng|范增]] overturns that opening by arguing for Liu Bang's destruction, so Xiang Bo's role remains influential but not decisive against the anti-Liu adviser line.
+
 ## Key Claims
 - Xiang Bo's authority in these sources comes from kinship, age, prior service in the Xiang camp, and his old life-debt relationship with Zhang Liang.
 - His entry makes the Hongmen crisis depend on personal channels inside a formal military confrontation.
@@ -32,8 +34,10 @@ After returning to Xiang Yu's camp, Xiang Bo argues that attacking Liu Bang woul
 - Hanji 141 shows the same "存刘" position becoming embodied action: Xiang Bo protects Liu Bang inside the banquet, not only through prior persuasion.
 - Hanji 144 extends the same relationship channel into post-settlement bargaining, though the available transcript has a noisy "相国" form.
 - Hanji 144 part 2 records the practical payoff of that channel: Liu Bang gains more room before entering Hanzhong and then uses [[BurningGalleryRoads|烧栈道]] to protect the retreat.
+- Hanji 160 part 1 extends the preservation-channel pattern into the Xingyang peace offer, where Xiang Bo can open acceptance but cannot overrule Fan Zeng's insistence on attack.
 
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[FanZeng|范增]], and [[ChenPing|陈平]] - peace-opening role before Fan Zeng's rejection and Chen Ping's countermeasure.
 - [[XiangYu|项羽]], [[XiangLiang|项梁]], and [[ChuState|楚国]] - family and political camp.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[Bashang|霸上]], and [[HongmenYan|鸿门宴]] - warning, Liu Bang's courtesy offensive, and the next-morning explanation plan.
 - [[FanZeng|范增]], [[AngerDrivenWarDecision|因怒兴师]], and [[MoralizedWarPretext|道德化战争借口]] - contrast between the "灭刘" threat diagnosis and Xiang Bo's "存刘" public-morality argument.

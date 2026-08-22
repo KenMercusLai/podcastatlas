@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（1）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q.md) — 芮淇讲透资治通鉴 episode on Chen Ping's Xingyang counterintelligence plan: Liu Bang funds forty thousand gold, Chen Ping exploits Xiang Yu's suspicion and reward weakness, and Chu's trusted core begins to fracture.
 - [《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？](sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb.md) — 芮淇讲透资治通鉴 episode completing Zhang Liang's borrowed-chopsticks refutation of Li Shiqi's six-kingdom restoration plan and generalizing it through Xun Yue's 行、势、情 strategy framework.
 - [《资治通鉴·汉纪》159-1｜刘邦洗脚的驭人之术](sources/zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3.md) — 芮淇讲透资治通鉴 episode on Liu Bang's foot-washing reception of Ying Bu, Ying Bu's equal-grade lodging, Long Ju's Jiujiang/Aocang counterpressure, and Zhang Liang blocking Li Shiqi's six-kingdom restoration plan.
 - [《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军](sources/zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu.md) — 芮淇讲透资治通鉴 episode completing Sui He's Jiujiang mission by persuading Ying Bu privately, publicly exposing the defection before a Chu envoy, and forcing Xiang Yu to divide pressure away from Liu Bang.
@@ -1269,6 +1270,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [周殷 / Zhou Yin](entities/ZhouYin.md) — Chu-side trusted-core figure named by Chen Ping as one of the reliable people whose ruler-minister trust Han wants to break.
+- [钟离眜 / Zhongli Mo](entities/ZhongliMo.md) — Chu general targeted by Chen Ping's rumor that unrewarded merit could make him join Han and seek kingship.
 - [龙且 / Long Ju](entities/LongJuChuGeneral.md) — Chu general who restores Jiujiang after Ying Bu flees to Liu Bang, then reinforces Xiang Yu's Xingyang pressure and Aocang supply attack.
 - [井陉口 / Jingxing Pass](entities/JingxingPass.md) — Taihang pass and Zhao-campaign chokepoint where Han Xin's army faces narrow-road, ambush, and supply-line exposure.
 - [李左车 / Li Zuoche](entities/LiZuoChe.md) — Zhao Guangwu Jun and Li Mu's grandson whose rejected Jingxing plan and post-battle counsel shape Han Xin's Zhao/Yan strategy.

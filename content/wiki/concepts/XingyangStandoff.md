@@ -2,7 +2,7 @@
 title: "Xingyang Standoff / 荥阳相持"
 type: concept
 tags: [warfare, chu-han, logistics, campaign, stalemate]
-sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
 last_updated: 2026-08-23
 ---
 
@@ -22,6 +22,8 @@ The concept therefore names the shift from flight to durable contest. Liu Bang s
 
 [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] shows how dangerous that logistical stress becomes in the decision room. Liu Bang is close enough to issuing seals that Zhang Liang has to block the plan immediately. The standoff therefore now includes a strategy-discipline problem: when supply pressure rises, a ruler may reach for a precedent that appears to widen the coalition but would actually hollow out his own camp.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] adds the next survival device. After Zhang Liang stops the six-kingdom restoration plan, Liu Bang tries peace, but [[FanZeng|范增]] blocks it and urges [[XiangYu|项羽]] to finish Han. [[ChenPing|陈平]] then shifts the standoff from supply and battlefield repair into counterintelligence: if Han cannot immediately break the siege by force or settlement, it can try to break Chu's internal trust.
+
 ## Key Claims
 - A defeated army can survive by converting retreat into a defensible concentration point before it has regained full offensive strength.
 - Stalemate is constructed from logistics, reinforcement, blocking actions, and force redesign, not only from battlefield parity.
@@ -32,8 +34,10 @@ The concept therefore names the shift from flight to durable contest. Liu Bang s
 - Hanji 158 adds the other side of the same exchange: successful diplomacy against Ying Bu buys time for Xingyang by forcing Xiang Yu to fight a new southern/rear problem.
 - Hanji 159-1 adds that the same front can relapse into crisis when Chu retakes Aocang and turns the food corridor against Han.
 - Hanji 159-2 adds that logistical crisis can create bad strategic borrowing: the wrong historical precedent may look attractive because it promises relief from the immediate pressure.
+- Hanji 160 part 1 adds that failed peace can force the standoff into information warfare, using Chen Ping's funded rumor operation to reduce Chu pressure indirectly.
 
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[FanZeng|范增]], [[XiangBo|项伯]], and [[CovertPoliticalTechnology|阴谋式政治技术]] - failed peace and funded counterintelligence as the next survival move.
 - [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - strategy-discipline failure almost triggered by supply pressure.
 - [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[LongJuChuGeneral|龙且]], [[LiShiqi|郦食其]], and [[ZhangLiang|张良]] - renewed supply crisis and blocked six-kingdom restoration response.
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PengchengBattle|彭城之战]] - defeated leader, opposing commander, and precipitating rout.
