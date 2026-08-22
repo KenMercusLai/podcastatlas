@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6597
+wiki_total_pages: 6602
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "Shiji"
     title: "《史记》 / Shiji"
     url: "/wiki/entities/shiji/"
+  - key: "SiminYueling"
+    title: "《四民月令》 / Simin Yueling"
+    url: "/wiki/entities/siminyueling/"
   - key: "ShixinPublicHealth"
     title: "《失信：公共卫生体系的崩溃》"
     url: "/wiki/entities/shixinpublichealth/"

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023
+
+Added source page for Hanji 150 PLUS New Year special: a short cultural-history episode on 元旦 as a layered holiday linking 尧舜禹 legend, Han Wudi calendar order, the term's textual memory in 《晋书》, Jingchu and Eastern Han custom records, pepper-cypress wine, peach decoction, eggs, soup cakes, New Year cakes, Lu You poetry, and a 2023 blessing. Created YuanDan Festival Layering, Yao-Shun-Yu Legend, Jinshu, Jingchu Suishi Ji, Simin Yueling, and Lu You; updated overview, index, Han Wudi, Yu the Great, Calendar Reform Legitimacy, and Festival Food Material History. No settled contradiction found; kept the origin story, earliest-term claim, and "2022/2023" listener frame source-scoped despite the 2026-01-14 file date.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你
 
 Added source page for Hanji 150 PLUS: a short reflection using Zeng Guofan to frame "成事" as long-term endurance, patient accumulation, self-discipline,善念/善言/善行, and gradual self-change rather than a burst of effort. Created Long-Term Achievement Discipline; updated overview, index, Zeng Guofan, Late-Blooming Talent, Human Nature Plasticity, and Virtue Practice Internalization. No settled contradiction found; kept the Zeng childhood anecdote as illustrative and the "2023" action frame as source-dated despite the 2026-01-14 file date.
@@ -9958,6 +9962,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判
 
 Added source page for Hanji 148-1: Han Xin's post-Hanzhong-Dui execution plan, "申军法" as Qin-style military reorganization, the later reception of "明修栈道，暗渡陈仓," Guan Ying/Fan Kuai/Cao Shen's side-route actions, Zhang Han's second-order misread, the Chen Cang central breakthrough, Zhang Han's defeats at Chen Cang and Haozhi, and Sima Xin/Dong Yi's surrender. Created Chen Cang, Han Inherits Qin System, and Layered Feint Central Breakthrough; updated overview, index, Han Xin, Liu Bang, Zhang Han, Three Qin Containment, Hanzhong Dui, Strategic Retreat Base-Building, Military Merit Rank System, Guan Ying, Fan Kuai, Cao Shen, Sima Xin, Dong Yi, Hanzhong, Guanzhong Region, Sunzi Bingfa, Laozi, and Zhuge Liang. No settled contradiction found; kept the idiom-origin correction as reception history rather than a conflict with existing campaign pages.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

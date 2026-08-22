@@ -2,8 +2,8 @@
 title: "Festival Food Material History"
 type: concept
 tags: [food, festival, material-culture, folklore]
-sources: [114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, zhongqiu-kuaile-669967741]
-last_updated: 2026-07-24
+sources: [zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, zhongqiu-kuaile-669967741]
+last_updated: 2026-08-22
 ---
 
 # Festival Food Material History
@@ -14,15 +14,19 @@ The concept extends [[MaterialHistoryNarrative]] by adding festival timing. An e
 
 [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]] deepens the crab branch beyond the Mid-Autumn recommendation list. It treats [[Crab|螃蟹]] as seasonal food, agricultural pest, catching-tool memory, giant-creature legend, Song literati taste, [[HongLouMeng|《红楼梦》]] banquet material, [[XunXieshu|《讯蟹书》]] defendant, and Buddhist-story actor. This turns festival food into [[CrabCulturalSymbolism]] rather than only a seasonal table object.
 
+[[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS New Year special]] adds a 元旦 case through pepper-cypress wine, peach decoction, eggs, soup cakes, and New Year cakes. The source connects those foods and drinks to [[JingChuSuiShiJi|《荆楚岁时记》]], [[SiminYueling|《四民月令》]], plant symbolism, protection from illness or harmful forces, and [[LuYou|陆游]]'s poetic imagery.
+
 ## Key Claims
 - Seasonal foods can be read as material history when they connect eating practice with tools, waterways, markets, literary scenes, and folklore.
 - A festival table can preserve older ecological and regional knowledge even when later eaters experience the food mainly as pleasure.
 - Food familiarity is historical; animals now treated as ordinary delicacies could once appear monstrous, uncanny, or dangerous to people outside the eating region.
 - Festival food reading should avoid turning one object into a total explanation of a holiday; it works best as a concrete entry point.
 - A seasonal food can accumulate contradictory meanings: delicacy, pest, monster, ethical problem, and literary joke can coexist around the same animal.
+- New Year foods and drinks can connect diet to greeting order, protective ritual, longevity hopes, textual citation, and poetry.
 
 ## Connections
 - [[ZhonghuaXieshi|《中华蟹史》]] and [[QianCangshui|钱苍水]] - source book and author.
+- [[YuanDanFestivalLayering|元旦节日层累]], [[JingChuSuiShiJi|《荆楚岁时记》]], [[SiminYueling|《四民月令》]], and [[LuYou|陆游]] - New Year food-and-text extension.
 - [[MaterialHistoryNarrative]] - broader material-culture frame.
 - [[HongLouMeng|《红楼梦》]] - literary crab-banquet reference.
 - [[ChineseFolkReligionLayering]] and [[QixiFestivalLayering]] - adjacent festival and folk-practice layering frames.

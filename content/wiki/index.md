@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023](sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue.md) — 芮淇讲透资治通鉴 PLUS New Year special on 元旦 as a layered holiday built from 尧舜禹 legend, Han Wudi calendar order, textual memory, festival foods, peach/cypress protective symbolism, poetry, and a 2023 blessing.
 - [《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你](sources/zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7.md) — 芮淇讲透资治通鉴 PLUS episode using Zeng Guofan to frame 成事 as long-term endurance, self-discipline, patient accumulation, and self-change rather than short bursts of effort.
 - [《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）](sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Guanzhong absorption of Henan, Han, Longxi, Beidi, Wei, and Henei positions, Xiang Yu's punitive Qi campaign, and the contrast between surrender conversion and atrocity backfire.
 - [《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）](sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw.md) — 芮淇讲透资治通鉴 episode on Yi Emperor Mi Xin's killing, Xiang Yu's fear of symbolic legitimacy, Liu Bang's anti-Xiang mobilization pretext, and Zhao/Han-side defections toward Liu Bang.
@@ -1248,6 +1249,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《荆楚岁时记》 / Jingchu Suishi Ji](entities/JingChuSuiShiJi.md) — Festival-custom record cited for Jingchu New Year greetings, pepper-cypress wine, peach decoction, and egg eating.
+- [《四民月令》 / Simin Yueling](entities/SiminYueling.md) — Eastern Han seasonal text cited for pepper-cypress wine as a New Year drink.
+- [《晋书》 / Jinshu](entities/JinShu.md) — Historical text cited as the source's earliest textual anchor for the term "元旦."
+- [陆游 / Lu You](entities/LuYou.md) — Southern Song poet cited for New Year imagery around peach charms and pepper wine.
+- [尧舜禹传说 / Yao-Shun-Yu Legend](entities/YaoShunYuLegend.md) — Mythic-ruler origin frame used to connect sacrifice, succession, and the year's beginning.
 - [韩王信 / Han Wang Xin](entities/HanWangXin.md) — Old Han royal descendant, distinct from the general Han Xin, whom Liu Bang installs as Han king after Zheng Chang surrenders.
 - [郑昌 / Zheng Chang (Han King)](entities/ZhengChangHanKing.md) — Xiang Yu loyalist made Han king after Han Cheng's death, then displaced when he surrenders to Liu Bang.
 - [栎阳 / Liyang (Qin-Han)](entities/LiyangQinHan.md) — Qin-Han capital site Liu Bang uses as a rear-base capital after recovering Guanzhong.
@@ -7849,6 +7855,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [YuanDan Festival Layering / 元旦节日层累](concepts/YuanDanFestivalLayering.md) — New Year concept where 元旦 combines mythic origin, calendar standardization, textual memory, food, protective plants, door symbols, poetry, and present-day blessing.
 - [Hanzhong Dui / 汉中对](concepts/HanzhongDui.md) — Han Xin's post-appointment strategy dialogue, now extended from diagnosis into army reform and the Chen Cang campaign against the Three Qin.
 - [Han Inherits Qin System / 汉承秦制](concepts/HanInheritsQinSystem.md) — Source-scoped Hanji 148-1 pattern where Han Xin's "申军法" selectively inherits Qin military discipline and incentive systems for Liu Bang's army.
 - [Layered Feint Central Breakthrough / 多路佯动中央突破](concepts/LayeredFeintCentralBreakthrough.md) — Han Xin's use of multiple side-route signals to make Zhang Han overread the feints before the main Chen Cang breakthrough.

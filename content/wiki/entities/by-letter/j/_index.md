@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6597
+wiki_total_pages: 6602
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "JiaoYiZhiSheliWangjiDongwuyuan"
     title: "《教一只猞猁忘记动物园》"
     url: "/wiki/entities/jiaoyizhisheliwangjidongwuyuan/"
+  - key: "JinShu"
+    title: "《晋书》 / Jinshu"
+    url: "/wiki/entities/jinshu/"
   - key: "JijianFayiJianshiShouce"
     title: "《极简法医鉴识手册》"
     url: "/wiki/entities/jijianfayijianshishouce/"
@@ -788,6 +791,9 @@ wiki_pages:
   - key: "JingshenXixueguiBook"
     title: "《精神吸血鬼》"
     url: "/wiki/entities/jingshenxixueguibook/"
+  - key: "JingChuSuiShiJi"
+    title: "《荆楚岁时记》 / Jingchu Suishi Ji"
+    url: "/wiki/entities/jingchusuishiji/"
   - key: "JourneyToTheWest"
     title: "《西游记》"
     url: "/wiki/entities/journeytothewest/"

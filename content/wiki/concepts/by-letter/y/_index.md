@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 5074
+wiki_total_pages: 5075
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "YuanBlueAndWhitePorcelain"
     title: "Yuan Blue-and-White Porcelain / 元青花"
     url: "/wiki/concepts/yuanblueandwhiteporcelain/"
+  - key: "YuanDanFestivalLayering"
+    title: "YuanDan Festival Layering / 元旦节日层累"
+    url: "/wiki/concepts/yuandanfestivallayering/"
   - key: "YunnanCuisineMenuNarrative"
     title: "Yunnan Cuisine Menu Narrative / 云南菜路线叙事"
     url: "/wiki/concepts/yunnancuisinemenunarrative/"

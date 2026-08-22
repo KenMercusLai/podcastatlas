@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6597
+wiki_total_pages: 6602
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "YoumamaMaomao"
     title: "尤妈妈 / 猫猫"
     url: "/wiki/entities/youmamamaomao/"
+  - key: "YaoShunYuLegend"
+    title: "尧舜禹传说 / Yao-Shun-Yu Legend"
+    url: "/wiki/entities/yaoshunyulegend/"
   - key: "YinQiCheDundun"
     title: "尹琪 / Yin Qi (nature writer)"
     url: "/wiki/entities/yinqichedundun/"
