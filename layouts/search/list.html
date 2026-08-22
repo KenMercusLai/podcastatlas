@@ -32,4 +32,19 @@
     </div>
   </div>
   <script type="module" src="{{ "pagefind/pagefind-component-ui.js" | relURL }}"></script>
+  <script type="module">
+    const query = (new URLSearchParams(window.location.search).get("q") || "")
+      .trim()
+      .slice(0, 200);
+    if (query) {
+      await customElements.whenDefined("pagefind-input");
+      await new Promise(requestAnimationFrame);
+      const component = document.querySelector("pagefind-input");
+      const input = component?.inputEl || component?.querySelector("input");
+      if (input) {
+        input.value = query;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+      }
+    }
+  </script>
 {{ end }}

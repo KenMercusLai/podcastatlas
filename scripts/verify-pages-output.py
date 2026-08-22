@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from pathlib import Path
-from datetime import date
+from datetime import date, datetime
 import argparse
 import html
 import json
@@ -77,6 +77,123 @@ def extracted_attribute(match: re.Match | None) -> str | None:
     if match is None:
         return None
     return html.unescape(next(value for value in match.groups() if value is not None))
+
+
+def expected_schema_type(path: Path, public_dir: Path) -> str:
+    parts = path.relative_to(public_dir).parts
+    if parts == ("index.html",):
+        return "WebSite"
+    if len(parts) == 3 and parts[0] == "episodes" and parts[2] == "index.html":
+        return "PodcastEpisode"
+    if len(parts) == 3 and parts[0] == "shows" and parts[2] == "index.html":
+        return "PodcastSeries"
+    if (
+        len(parts) == 4
+        and parts[0] == "wiki"
+        and parts[1] in {"concepts", "entities"}
+        and parts[2] != "by-letter"
+        and parts[3] == "index.html"
+    ):
+        return "DefinedTerm" if parts[1] == "concepts" else "Article"
+    return "WebPage"
+
+
+def is_absolute_http_url(value: object) -> bool:
+    if not isinstance(value, str):
+        return False
+    try:
+        parsed = urlsplit(value)
+    except ValueError:
+        return False
+    return parsed.scheme in {"http", "https"} and bool(parsed.netloc)
+
+
+def validate_semantic_schema(
+    payload: dict, schema_type: str, relative: str, canonical_url: str | None, errors: list[str]
+) -> None:
+    if schema_type == "WebSite":
+        action = payload.get("potentialAction")
+        if not isinstance(action, dict) or action.get("@type") != "SearchAction":
+            errors.append(
+                f"WebSite JSON-LD potentialAction in {relative}: expected SearchAction"
+            )
+            return
+        target = action.get("target")
+        if not isinstance(target, dict) or target.get("@type") != "EntryPoint":
+            errors.append(
+                f"WebSite JSON-LD SearchAction target in {relative}: expected EntryPoint"
+            )
+        else:
+            url_template = target.get("urlTemplate")
+            expected_template = (
+                urljoin(canonical_url, "search/?q={search_term_string}")
+                if canonical_url
+                else None
+            )
+            if url_template != expected_template:
+                errors.append(
+                    f"WebSite JSON-LD SearchAction URL template in {relative}: "
+                    f"expected {expected_template!r}, found {url_template!r}"
+                )
+        if action.get("query-input") != "required name=search_term_string":
+            errors.append(
+                f"WebSite JSON-LD SearchAction query-input in {relative}: invalid value"
+            )
+    elif schema_type == "PodcastEpisode":
+        published = payload.get("datePublished")
+        if not isinstance(published, str):
+            errors.append(
+                f"PodcastEpisode JSON-LD datePublished in {relative}: invalid value"
+            )
+        else:
+            try:
+                datetime.fromisoformat(published.replace("Z", "+00:00"))
+            except ValueError:
+                errors.append(
+                    f"PodcastEpisode JSON-LD datePublished in {relative}: invalid value"
+                )
+        if not re.fullmatch(r"PT[1-9][0-9]*S", payload.get("duration", "")):
+            errors.append(f"PodcastEpisode JSON-LD duration in {relative}: invalid value")
+        series = payload.get("partOfSeries")
+        if (
+            not isinstance(series, dict)
+            or series.get("@type") != "PodcastSeries"
+            or not series.get("name")
+            or not is_absolute_http_url(series.get("url"))
+        ):
+            errors.append(
+                f"PodcastEpisode JSON-LD partOfSeries in {relative}: invalid value"
+            )
+        if not is_absolute_http_url(payload.get("sameAs")):
+            errors.append(f"PodcastEpisode JSON-LD sameAs in {relative}: invalid URL")
+    elif schema_type == "PodcastSeries":
+        episode_count = payload.get("numberOfEpisodes")
+        if not isinstance(episode_count, int) or isinstance(episode_count, bool) or episode_count < 1:
+            errors.append(
+                f"PodcastSeries JSON-LD numberOfEpisodes in {relative}: invalid value"
+            )
+    elif schema_type == "DefinedTerm":
+        term_set = payload.get("inDefinedTermSet")
+        if (
+            not isinstance(term_set, dict)
+            or term_set.get("@type") != "DefinedTermSet"
+            or not term_set.get("name")
+            or not is_absolute_http_url(term_set.get("url"))
+        ):
+            errors.append(
+                f"DefinedTerm JSON-LD inDefinedTermSet in {relative}: invalid value"
+            )
+    elif schema_type == "Article":
+        if not isinstance(payload.get("headline"), str) or not payload["headline"].strip():
+            errors.append(f"Article JSON-LD headline in {relative}: invalid value")
+        modified = payload.get("dateModified")
+        if not isinstance(modified, str):
+            errors.append(f"Article JSON-LD dateModified in {relative}: invalid value")
+        else:
+            try:
+                date.fromisoformat(modified)
+            except ValueError:
+                errors.append(f"Article JSON-LD dateModified in {relative}: invalid value")
 
 
 class PublicLinkParser(HTMLParser):
@@ -330,8 +447,14 @@ def validate_metadata_page(path: Path, public_dir: Path, errors: list[str]) -> N
         return
     if payload.get("@context") != "https://schema.org":
         errors.append(f"invalid JSON-LD context in {relative}: {payload.get('@context')!r}")
-    if payload.get("@type") not in {"WebSite", "WebPage"}:
-        errors.append(f"invalid JSON-LD type in {relative}: {payload.get('@type')!r}")
+    schema_type = expected_schema_type(path, public_dir)
+    if payload.get("@type") != schema_type:
+        errors.append(
+            f"invalid JSON-LD type in {relative}: "
+            f"expected {schema_type!r}, found {payload.get('@type')!r}"
+        )
+    else:
+        validate_semantic_schema(payload, schema_type, relative, canonical_url, errors)
     if canonical_url is not None and payload.get("url") != canonical_url:
         errors.append(f"canonical URL does not match JSON-LD URL in {relative}")
     if meta_description is not None and payload.get("description") != meta_description:
@@ -416,17 +539,21 @@ def validate(public_dir: Path) -> dict:
     if not episode_html:
         errors.append("no episode detail HTML found")
     else:
-        validate_metadata_page(sorted(episode_html)[0], public_dir, errors)
-        for html_path in episode_html:
+        for html_path in sorted(episode_html):
+            validate_metadata_page(html_path, public_dir, errors)
             markdown_path = html_path.parent.parent / f"{html_path.parent.name}.md"
             if not markdown_path.is_file():
                 relative = markdown_path.relative_to(public_dir).as_posix()
                 errors.append(f"missing episode detail Markdown: {relative}")
         validate_episode_pagination(public_dir, episode_html, errors)
 
-    concept_html = sorted((public_dir / "wiki" / "concepts").glob("*/index.html"))
-    if concept_html:
-        validate_metadata_page(concept_html[0], public_dir, errors)
+    for semantic_dir in (
+        public_dir / "shows",
+        public_dir / "wiki" / "concepts",
+        public_dir / "wiki" / "entities",
+    ):
+        for html_path in sorted(semantic_dir.glob("*/index.html")):
+            validate_metadata_page(html_path, public_dir, errors)
 
     for nested_markdown_path in sorted((public_dir / "episodes").glob("*/index.md")):
         relative = nested_markdown_path.relative_to(public_dir).as_posix()
