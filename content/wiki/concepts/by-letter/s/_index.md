@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5030
+wiki_total_pages: 5032
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "StatusDescentPressure"
     title: "Status Descent Pressure / 身份落差压力"
     url: "/wiki/concepts/statusdescentpressure/"
+  - key: "StatusInsultDefectionCascade"
+    title: "Status Insult Defection Cascade / 名分羞辱触发叛变"
+    url: "/wiki/concepts/statusinsultdefectioncascade/"
   - key: "StatusOrderBacklash"
     title: "Status Order Backlash / 名分秩序反弹"
     url: "/wiki/concepts/statusorderbacklash/"

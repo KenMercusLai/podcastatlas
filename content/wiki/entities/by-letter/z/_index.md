@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6481
+wiki_total_pages: 6484
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "ZhengmianLianjie"
     title: "正面连接"
     url: "/wiki/entities/zhengmianlianjie/"
+  - key: "ZhaoWuchenSister"
+    title: "武臣姐姐 / Wu Chen's Sister"
+    url: "/wiki/entities/zhaowuchensister/"
   - key: "ZhuozeBattle"
     title: "浊泽之战 / Battle of Zhuoze"
     url: "/wiki/entities/zhuozebattle/"

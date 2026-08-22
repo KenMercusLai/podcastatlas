@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6481
+wiki_total_pages: 6484
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "WangYuSouthernDynasties"
     title: "王玉 / Wang Yu (Southern Dynasties)"
     url: "/wiki/entities/wangyusoutherndynasties/"
+  - key: "WangLiQin"
+    title: "王离 / Wang Li (Qin)"
+    url: "/wiki/entities/wangliqin/"
   - key: "WangJiQin"
     title: "王稽 / Wang Ji (Qin envoy)"
     url: "/wiki/entities/wangjiqin/"

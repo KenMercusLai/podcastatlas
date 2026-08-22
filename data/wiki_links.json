@@ -12863,6 +12863,10 @@
     "title": "Duyou Sword / 杜邮剑",
     "url": "/wiki/concepts/duyousword/"
   },
+  "DuzeExtractionPolitics": {
+    "title": "Duze Extraction Politics / 督责式压榨政治",
+    "url": "/wiki/concepts/duzeextractionpolitics/"
+  },
   "DwellTime": {
     "title": "Dwell Time",
     "url": "/wiki/entities/dwelltime/"
@@ -24330,6 +24334,10 @@
   "LiLiang": {
     "title": "Li Liang",
     "url": "/wiki/entities/liliang/"
+  },
+  "LiLiangZhaoGeneral": {
+    "title": "李良 / Li Liang (Zhao General)",
+    "url": "/wiki/entities/liliangzhaogeneral/"
   },
   "LiLu": {
     "title": "Li Lu / 李璐",
@@ -38899,6 +38907,10 @@
     "title": "Status Descent Pressure / 身份落差压力",
     "url": "/wiki/concepts/statusdescentpressure/"
   },
+  "StatusInsultDefectionCascade": {
+    "title": "Status Insult Defection Cascade / 名分羞辱触发叛变",
+    "url": "/wiki/concepts/statusinsultdefectioncascade/"
+  },
   "StatusOrderBacklash": {
     "title": "Status Order Backlash / 名分秩序反弹",
     "url": "/wiki/concepts/statusorderbacklash/"
@@ -43295,6 +43307,10 @@
     "title": "Wang Laichun",
     "url": "/wiki/entities/wanglaichun/"
   },
+  "WangLiQin": {
+    "title": "王离 / Wang Li (Qin)",
+    "url": "/wiki/entities/wangliqin/"
+  },
   "WangLing": {
     "title": "王陵 / Wang Ling",
     "url": "/wiki/entities/wangling/"
@@ -46590,6 +46606,10 @@
   "ZhaoWeihou": {
     "title": "赵威后 / Zhao Weihou",
     "url": "/wiki/entities/zhaoweihou/"
+  },
+  "ZhaoWuchenSister": {
+    "title": "武臣姐姐 / Wu Chen's Sister",
+    "url": "/wiki/entities/zhaowuchensister/"
   },
   "ZhaoWuhou": {
     "title": "赵武侯 / Marquis Wu of Zhao",
@@ -50326,6 +50346,10 @@
   "zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp": {
     "title": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相",
     "url": "/wiki/sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp/"
+  },
+  "zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp": {
+    "title": "《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

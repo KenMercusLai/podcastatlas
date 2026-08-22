@@ -9675,3 +9675,11 @@ Added source page for Qinji 129-1: Liu Bang's local Huling and Xue gains, Zhou W
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key/model variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集
+
+Added source page for Qinji 129-2: Tian Zang's defeat at Ao granary, Zhang Han's follow-on victories over Zhang Chu commanders, Li Si's fear-driven 《上书对二世》 and Hu Hai's extraction/killing incentives, and Li Liang's betrayal of restored Zhao after Wang Li's recruitment letter and Wu Chen's sister's drunken ritual insult. Created Li Liang (Zhao General), Wang Li (Qin), Wu Chen's Sister, Duze Extraction Politics, and Status Insult Defection Cascade; updated overview, index, Li Si, Qin Er Shi, Zhang Chu Regime, Tian Zang, Zhang Han, Wu Chen, Handan, Zhao State, Qin State, Anti-Qin Coalition Fragmentation, Legalist Ruler Technique, Court Feedback Collapse, and Lu Wine Handan War Cascade. No settled contradiction found; disambiguated the historical 李良 from the existing modern ByteDance Li Liang page and kept the final Qin Jia/Wu Ping Jun Pan fragment source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "张楚政权 / Zhang Chu Regime"
 type: entity
 tags: [regime, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]
+sources: [zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The same source makes the regime's internal authority problem sharper. [[WuChen|
 
 [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] shows Zhang Chu's military and internal crises converging. [[ZhouWenRebel|周文 / 周章]] is defeated repeatedly by [[ZhangHanQin|章邯]] and kills himself, while [[WuGuang|吴广]] cannot take [[YingyangWarringStates|荥阳]] from [[LiYou|李由]]. [[TianZang|田臧]] then uses the crisis to justify killing Wu Guang, and Chen Sheng's promotion of Tian Zang turns battlefield difficulty into a regime-authority problem.
 
+[[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]] gives the sequel to that command crisis. Tian Zang leaves Li Gui and others around Yingyang, leads elite troops west, and is killed by [[ZhangHanQin|章邯]] at Ao granary. Zhang Han then defeats Li Gui, Deng Shuang, and Wu Feng in sequence, while [[ChenSheng|陈胜]] executes Deng Shuang after retreat. Zhang Chu therefore loses both military initiative and internal trust: failed commanders can be killed by enemies, by peers, or by their own ruler.
+
 ## Connections
 - [[DazexiangUprising|大泽乡起义]], [[ChenSheng|陈胜]], and [[WuGuang|吴广]] - uprising and rebel leaders that open the Zhang Chu branch.
 - [[GeYing|葛婴]] - subordinate-general figure whose death the source marks as politically damaging.
@@ -32,3 +34,4 @@ The same source makes the regime's internal authority problem sharper. [[WuChen|
 - [[ZhouWenRebel|周文]], [[ZhangHanQin|章邯]], [[CapitalDefenseMobilization|都城防卫动员]], and [[LishanConvictMobilization|骊山刑徒应急动员]] - Qinji 128-5 western push and defeat.
 - [[WuChen|武臣]], [[CaiCi|蔡赐]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Zhao kingship and rebel coordination failure.
 - [[TianZang|田臧]], [[LiYou|李由]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 internal command killing at Yingyang.
+- [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]], [[ZhangHanQin|章邯]], [[TianZang|田臧]], and [[ChenSheng|陈胜]] - post-Wu-Guang losses at Ao granary, Yingyang, Jia, and Xu.

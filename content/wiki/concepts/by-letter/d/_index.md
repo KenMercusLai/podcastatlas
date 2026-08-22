@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5030
+wiki_total_pages: 5032
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "DuyouSword"
     title: "Duyou Sword / 杜邮剑"
     url: "/wiki/concepts/duyousword/"
+  - key: "DuzeExtractionPolitics"
+    title: "Duze Extraction Politics / 督责式压榨政治"
+    url: "/wiki/concepts/duzeextractionpolitics/"
   - key: "DynamicBalancingRobotics"
     title: "Dynamic Balancing Robotics"
     url: "/wiki/concepts/dynamicbalancingrobotics/"
