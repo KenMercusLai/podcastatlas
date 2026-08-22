@@ -9415,6 +9415,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）
+
+Added source page for Qinji 138: Zhao Gao's non-eunuch identity argument, the "宦人/宦籍" and "隐官" terminology corrections, Zhangjiashan and Shuihudi bamboo-slip evidence, Yan Le as Zhao Gao's son-in-law, Zhao Cheng as Zhao Gao's brother, Zhao Gao's hidden-office background and legal/calligraphic/court-service talent, the Meng Yi death-sentence backstory, and the palace-coup prelude after Hu Hai asks about the concealed rebellion. Created Yan Le, Zhao Cheng (Qin), Zhangjiashan Han Tomb Bamboo Slips, Shuihudi Qin Slips, Early Eunuch Terminology Misreading, Yinguan Status Misreading, and Excavated Text Lexical Correction; updated overview, index, Zhao Gao, Qin Er Shi, and Ziying. Contradiction flagged: this source revises the inherited "Zhao Gao was a eunuch" shorthand, including the earlier Qinji 128-1 title wording, while preserving the source-scoped caution around the "嬴婴" replacement wording.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯
 
 Added source page for Qinji 135 番外篇2: Xu Fu's completed Liu Bang/Wen County recognition branch, Liu Bang's later reward, Wei Bao's misread Bao Ji prophecy, Liu Heng's Emperor Wen payoff, Deng Tong's wealth-to-starvation prediction, Zhou Yafu's marquis-and-minister-to-starvation prediction, and the source-scoped 相术 method discussion around spirit and bones. Created Deng Tong, Zhou Yafu, Han Jingdi, and Prophecy Fulfillment Displacement; updated overview, index, Xu Fu (physiognomist), Liu Bang, Wei Bao, Bao Ji, Liu Heng, Fate-Reading Political Risk, Physiognomic Investment Judgment, and the prior Qinji 135 番外篇1 source backlink. No settled contradiction found; preserved the 徐复 / 徐傅-like transcript variants under canonical [[XuFuPhysiognomist|许负]] and kept the title/accuracy claims source-scoped.
@@ -9814,6 +9818,10 @@ Ran lint after identity validation and health pre-flight passed. Health scanned 
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿
 
 Added source page for Qinji 136: Li Shiqi's completed meeting with Liu Bang, the foot-washing rebuke, the Chenliu plan and morally compromised inside action, Liu Bang's Chenliu provisioning and Li Shang appointment, failed Kaifeng pressure, Yang Xiong's defeat and execution, the Yingchuan massacre, Sima Ang route competition, Zhang Liang's rear-threat warning at Wan, Chen Hui's Nanyang surrender proposal, and Zhang Han's post-Julu pressure under Qin Er Shi's rebuke. Created Chenliu, Wan County, Chen Hui (Nanyang), Li Shang, Yang Xiong (Qin General), Sima Ang, and Yingchuan Commandery; updated overview, index, Li Shiqi, Liu Bang, Zhang Liang, Zhang Han, Qin Er Shi, Nanyang Commandery, Kaifeng, Low-Status Strategic Persuasion, Post-Battle Terror Signaling, Political Surrender Cascade, Occupation Pacification Strategy, Non-Killing Unification, and Huaiwang Agreement. No settled contradiction found; normalized ASR variants 利益机/丽商/陈辉/杨雄/张涵 to the canonical historical pages while keeping the caution source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

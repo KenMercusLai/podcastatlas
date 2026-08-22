@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）](sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy.md) — 芮淇讲透资治通鉴 episode arguing Zhao Gao was not a eunuch through "宦人/宦籍" and "隐官" terminology, excavated bamboo-slip evidence, Yan Le as son-in-law, and the palace-coup prelude against Hu Hai.
 - [《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈](sources/zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj.md) — 芮淇讲透资治通鉴 episode on Zhang Han's surrender, Xiang Yu's flawed 雍王 settlement, Zhao Gao's 指鹿为马 loyalty test, and crisis information blockade before Liu Bang reaches Wuguan.
 - [《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿](sources/zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o.md) — 芮淇讲透资治通鉴 episode completing Li Shiqi's meeting with Liu Bang, taking Chenliu, the Yingchuan massacre, and the Wan/Nanyang surrender turn toward pacifying Qin people.
 - [《资治通鉴·秦纪》135｜命运太神奇：从渔夫做到王](sources/zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb.md) — 芮淇讲透资治通鉴 episode on Zhang Er and Chen Yu's post-Julu rupture, Peng Yue's fisher-to-disciplined-commander rise, and Li Shiqi's pending attempt to reach Liu Bang.
@@ -1229,6 +1230,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [阎乐 / Yan Le](entities/YanLe.md) — Zhao Gao's son-in-law and Xianyang令 whose presence supports the non-eunuch reading and whose role begins the Hu Hai coup branch.
+- [赵成 / Zhao Cheng (Qin)](entities/ZhaoChengQin.md) — Zhao Gao's younger brother and later 郎中令, disambiguated from the Warring States Zhao Cheng and tied to the coup against Hu Hai.
+- [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — Excavated Qin-Han evidence used in Qinji 138 to correct "宦人/宦籍" and "隐官" vocabulary around Zhao Gao.
+- [睡虎地秦简 / Shuihudi Qin Slips](entities/ShuihudiQinJian.md) — Excavated Qin legal-administrative material used to support reading "隐官" as status/workplace rather than castration.
 - [陈留 / Chenliu](entities/Chenliu.md) — Qinji 136 route hub where Li Shiqi's risky inside action gives Liu Bang grain, weapons, recruits, and a stronger westward base.
 - [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose negotiated surrender turns Liu Bang from rear-risk assault toward rewarded pacification.
 - [陈恢 / Chen Hui (Nanyang)](entities/ChenHuiNanyang.md) — Nanyang retainer who persuades Liu Bang to accept Wan's surrender by appealing to his Guanzhong deadline under the Huaiwang agreement.
@@ -1333,9 +1338,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [葛婴 / Ge Ying](entities/GeYing.md) — Zhang Chu-aligned commander sent east after Qixian, with later death flagged as damaging the rebel regime and deepening suspicion.
 - [嬴高 / Ying Gao](entities/YingGao.md) — Qin prince who petitions to be buried with Qin Shi Huang so his death does not endanger his family during Hu Hai's purge.
 - [嬴将闾 / Ying Jianglu](entities/YingJianglu.md) — Qin prince whose unanswered request for a real charge shows the procedural emptiness of Hu Hai's royal purge.
-- [子婴 / Ziying (Qin)](entities/ZiyingQin.md) — Qin prince who warns Hu Hai not to kill Meng Tian and Meng Yi by citing Zhao's loss of Li Mu and Qi's old-minister killings.
+- [子婴 / Ziying (Qin)](entities/ZiyingQin.md) — Qin prince who warns Hu Hai not to kill the Meng brothers and later appears in Qinji 138's source-scoped "嬴婴" replacement-king setup.
 - [冯去疾 / Feng Quji](entities/FengQuji.md) — Qin minister named by the 《赵正书》 variant in Qinji 127-3 as part of the deathbed argument for choosing nearby Hu Hai.
-- [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider who moves from death secrecy and forged succession into palace access monopoly, Li Si's coerced confession, and chancellor power under Hu Hai.
+- [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider now treated as a eunuch-label controversy, moving from death secrecy and access monopoly into truth inversion and a family-backed coup circle.
 - [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
 - [《赵正书》 / Zhao Zheng Shu](entities/ZhaoZhengShu.md) — Western Han bamboo manuscript used by Qinji 126 part 2 to support the final-tour-as-fate-change reconstruction.
 - [秦始皇晚年异象危机 / Qin Late Omen Crisis](entities/QinLateOmenCrisis.md) — 211 BCE omen cluster around Qin Shi Huang: 荧惑守心, Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the later "游徙吉" response.
@@ -1628,7 +1633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
 - [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Wangba theory, Jixia and Lanling biography, 性恶论, and the Li Si/Han Fei student branch.
 - [《荀子》 / Xunzi](entities/XunziText.md) — Pre-Qin text whose Wangba chapter supplies the episode's three-path ruler framework and whose Chengxiang chapter appears as a transcript-noisy side note.
-- [秦二世 / 胡亥 / Qin Er Shi](entities/QinErshi.md) — Qin ruler whose contested accession, pleasure-seeking, Zhao Gao-backed purge, and captured review process turn insecurity into royal, ministerial, and family slaughter.
+- [秦二世 / 胡亥 / Qin Er Shi](entities/QinErshi.md) — Qin ruler whose contested accession, pleasure-seeking, purge, captured review process, and late inquiry into hidden rebellion lead into Zhao Gao's coup prelude.
 - [周武王 / King Wu of Zhou](entities/ZhouWuwang.md) — Classical kingly-rule exemplar paired with Shang Tang in the episode's Xunzian Wangba framework.
 - [蒙敖 / Meng Ao](entities/MengAo.md) — Qin commander identified by the source as the correct 285 BCE general against Qi, replacing the chronicle's Meng Wu notice through a Shiji correction.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
@@ -7790,6 +7795,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [早期宦官词义误读 / Early Eunuch Terminology Misreading](concepts/EarlyEunuchTerminologyMisreading.md) — Qinji 138 pattern where later eunuch meanings are projected onto early "宦人/宦籍" palace-service terms.
+- [隐官身份误读 / Yinguan Status Misreading](concepts/YinguanStatusMisreading.md) — Correction that "隐官" in Zhao Gao's background is a legal-status/workplace term rather than proof of castration.
+- [出土文献词义校正 / Excavated Text Lexical Correction](concepts/ExcavatedTextLexicalCorrection.md) — Method where bamboo-slip evidence corrects inherited institutional word meanings.
 - [指鹿为马 / Pointing Deer As Horse](concepts/PointingDeerAsHorse.md) — Zhao Gao's public obedience test where an obvious falsehood maps officials for later purge.
 - [Crisis Information Blockade / 危机信息封锁](concepts/CrisisInformationBlockade.md) — Pattern where a court insider suppresses bad war news from the ruler until the crisis reaches an undeniable threshold.
 - [将印信任破裂 / Command-Seal Trust Rupture](concepts/CommandSealTrustRupture.md) — Zhang Er and Chen Yu pattern where post-crisis suspicion turns a general's seal and troop control into the mechanism of final rupture.

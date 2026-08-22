@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5053
+wiki_total_pages: 5056
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -680,9 +680,15 @@ wiki_pages:
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
+  - key: "ExcavatedTextLexicalCorrection"
+    title: "出土文献词义校正 / Excavated Text Lexical Correction"
+    url: "/wiki/concepts/excavatedtextlexicalcorrection/"
   - key: "EffortNarrativeInterrogation"
     title: "努力叙事追问 / Effort Narrative Interrogation"
     url: "/wiki/concepts/effortnarrativeinterrogation/"
+  - key: "EarlyEunuchTerminologyMisreading"
+    title: "早期宦官词义误读 / Early Eunuch Terminology Misreading"
+    url: "/wiki/concepts/earlyeunuchterminologymisreading/"
   - key: "EconomicCulturalCenterSouthwardShift"
     title: "经济文化中心南移 / Economic-Cultural Center Southward Shift"
     url: "/wiki/concepts/economicculturalcentersouthwardshift/"

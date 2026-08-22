@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6557
+wiki_total_pages: 6561
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "YinhuaFund"
     title: "银华基金 / Yinhua Fund"
     url: "/wiki/entities/yinhuafund/"
+  - key: "YanLe"
+    title: "阎乐 / Yan Le"
+    url: "/wiki/entities/yanle/"
   - key: "YanluoWang"
     title: "阎罗王"
     url: "/wiki/entities/yanluowang/"

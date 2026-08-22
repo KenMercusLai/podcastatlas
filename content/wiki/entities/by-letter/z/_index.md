@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6557
+wiki_total_pages: 6561
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "ZhangNingPonyAI"
     title: "张宁 / Zhang Ning (Pony.ai)"
     url: "/wiki/entities/zhangningponyai/"
+  - key: "ZhangjiashanHanmuZhujian"
+    title: "张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips"
+    url: "/wiki/entities/zhangjiashanhanmuzhujian/"
   - key: "ZhangXiaojunCommercialInterviews"
     title: "张小珺Jùn｜商业访谈录"
     url: "/wiki/entities/zhangxiaojuncommercialinterviews/"
@@ -659,6 +662,9 @@ wiki_pages:
   - key: "ZhaoDefang"
     title: "赵德芳 / Zhao Defang"
     url: "/wiki/entities/zhaodefang/"
+  - key: "ZhaoChengQin"
+    title: "赵成 / Zhao Cheng (Qin)"
+    url: "/wiki/entities/zhaochengqin/"
   - key: "ZhaoChengWarringStates"
     title: "赵成 / Zhao Cheng (Warring States)"
     url: "/wiki/entities/zhaochengwarringstates/"

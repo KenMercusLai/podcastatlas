@@ -1,14 +1,18 @@
 ---
 title: "赵高 / Zhao Gao"
 type: entity
-tags: [person, qin-dynasty, court-politics, eunuch, legalism]
-sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]
+tags: [person, qin-dynasty, court-politics, eunuch-controversy, legalism]
+sources: [zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]
 last_updated: 2026-08-22
 ---
 
 # 赵高 / Zhao Gao
 
 赵高 / Zhao Gao enters the wiki through [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg|Qinji 127-2]] as the court insider who converts [[QinShiHuang|秦始皇]]'s death into a succession coup. The source says he comes from low status but is physically capable, literate in law, and useful enough for Qin Shi Huang to make him 中车府令 and [[QinErshi|胡亥]]'s legal teacher.
+
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]] directly revises the inherited eunuch label. The episode argues that Zhao Gao was not a castrated eunuch: [[YanLe|阎乐]] is identified as his son-in-law, [[Shiji|《史记》]] is said not to call him "宦阉," and [[ZhangjiashanHanmuZhujian|张家山汉墓竹简]] supports reading "宦人" and "宦籍" as palace-service and access-register terms rather than proof of castration.
+
+The same episode rereads "赵高兄弟皆生隐宫" through [[YinguanStatusMisreading|隐官身份误读]]. In this account, "隐官" is a low-status penal-administrative setting or workplace, not a synonym for 宫刑. That lets Zhao Gao's background explain stigma, law training, and career difficulty without making eunuch identity the baseline claim.
 
 The episode gives Zhao Gao a personal threat structure before the coup. [[MengYiQin|蒙毅]] once judged him guilty and sentenced him to death, but Qin Shi Huang pardoned him and restored his post. That makes the [[MengTian|蒙恬]]-[[MengYiQin|蒙毅]] brothers a danger if [[FuSu|扶苏]] succeeds, while Hu Hai is the dependent prince through whom Zhao Gao can preserve and enlarge his position.
 
@@ -32,6 +36,8 @@ The same episode adds Zhao Gao's final reward from the Li Si case. Even though a
 
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] turns Zhao Gao's chancellorship into open truth control. His [[PointingDeerAsHorse|指鹿为马]] test asks officials to call a deer a horse, records who refuses, and later uses legal accusation to destroy those who answered truthfully. The same episode adds [[CrisisInformationBlockade|危机信息封锁]]: Zhao Gao hides reports that [[WangLiQin|王离]] has been captured, [[ZhangHanQin|章邯]] is losing, and the eastern territories are collapsing until [[LiuBang|刘邦]] reaches [[Wuguan|武关]] and Hu Hai starts asking questions.
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]] then moves him from concealment to direct palace action. After Hu Hai asks about the rebellion, Zhao Gao joins with Yan Le and his brother [[ZhaoChengQin|赵成]] to move against the ruler, while proposing a replacement rendered by the source as "嬴婴" and connected here cautiously to [[ZiyingQin|子婴]].
+
 ## Key Claims
 - Zhao Gao's legal skill and access to the imperial carriage office make him more than a palace attendant in the source's transition narrative.
 - His past death sentence under Meng Yi makes the Meng family a survival threat, not just a factional rival.
@@ -45,6 +51,8 @@ The same episode adds Zhao Gao's final reward from the Li Si case. Even though a
 - Qinji 130-4 adds access monopoly as Zhao Gao's next mechanism: he isolates Hu Hai from senior officials, controls remonstrance timing, and converts Li Si's warning into evidence against Li Si.
 - Qinji 131-1 adds prison-review capture: Zhao Gao uses torture, fake officials, intercepted memorials, and false reporting on Li You to turn accusation into confession and then into his own chancellorship.
 - Qinji 137 adds public falsehood and crisis-news suppression: Zhao Gao uses the deer-horse test to map officials' obedience and blocks bad war reports until Liu Bang reaches Wuguan.
+- Qinji 138 revises Zhao Gao's identity: "宦人/宦籍" and "隐官" are read as office, access, and legal-status terms rather than proof that he was a castrated eunuch.
+- Qinji 138 also adds Zhao Gao's family-backed coup circle through Yan Le and Zhao Cheng after Hu Hai begins asking about the concealed rebellion.
 
 ## Connections
 - [[QinShiHuang|秦始皇]] - ruler who promoted and pardoned him.
@@ -59,3 +67,4 @@ The same episode adds Zhao Gao's final reward from the Li Si case. Even though a
 - [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[LiYou|李由]], [[TianChang|田常 / 田恒]], [[FengQuji|冯去疾]], and [[FengJieQin|冯劫 / 冯杰]] - isolation of Hu Hai, staged resentment against Li Si, and the failed ministerial correction.
 - [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]], [[CoercedConfessionTrap|逼供认罪陷阱]], [[PoliticalShowTrial]], [[LiSi|李斯]], and [[QinErshi|胡亥 / 秦二世]] - coerced prison confession, blocked appeal, false review, and Zhao Gao's chancellor appointment.
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[PointingDeerAsHorse|指鹿为马]], [[CrisisInformationBlockade|危机信息封锁]], [[WangLiQin|王离]], [[ZhangHanQin|章邯]], [[LiuBang|刘邦]], and [[Wuguan|武关]] - truth inversion, military-news suppression, and crisis exposure.
+- [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]], [[YanLe|阎乐]], [[ZhaoChengQin|赵成]], [[EarlyEunuchTerminologyMisreading|早期宦官词义误读]], [[YinguanStatusMisreading|隐官身份误读]], [[ZhangjiashanHanmuZhujian|张家山汉墓竹简]], and [[ShuihudiQinJian|睡虎地秦简]] - eunuch-label revision, hidden-office background, and late palace-coup circle.
