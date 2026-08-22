@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5048
+wiki_total_pages: 5049
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1460,6 +1460,9 @@ wiki_pages:
   - key: "SelfFeelingTrust"
     title: "相信自己的感受 / Self-Feeling Trust"
     url: "/wiki/concepts/selffeelingtrust/"
+  - key: "ShenGuPhysiognomy"
+    title: "神骨相法 / Spirit-Bone Physiognomy"
+    url: "/wiki/concepts/shenguphysiognomy/"
   - key: "ShishosetsuAutobiographicalReading"
     title: "私小说式自传阅读 / Shishosetsu Autobiographical Reading"
     url: "/wiki/concepts/shishosetsuautobiographicalreading/"

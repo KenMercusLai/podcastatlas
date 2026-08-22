@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运”](sources/zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu.md) — 芮淇讲透资治通鉴番外 episode on Zeng Guofan, the attributed Bingjian person-reading tradition, spirit-bone physiognomy, affect and bearing, and speech order as a practical talent signal.
 - [《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯](sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s.md) — 芮淇讲透资治通鉴番外 episode completing Xu Fu's Liu Bang recognition, Bao Ji prophecy payoff, Deng Tong and Zhou Yafu starvation predictions, and the source-scoped 相术 method discussion.
 - [《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？](sources/zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk.md) — 芮淇讲透资治通鉴番外 episode on 许负's origin legend, Zhouyi/bagua learning, Huangshi Gong's book gift, refusal of Qin Shi Huang's summons, and incomplete Liu Bang recognition scene.
 - [《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本](sources/zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw.md) — 芮淇讲透资治通鉴 episode on the Julu battle, Qin supply-corridor disruption, Ying Bu and Pu General breaking the yongdao, Xiang Yu crossing the Zhang River, and the operational meaning of 破釜沉舟.
@@ -1225,6 +1226,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, tied to doubtful Bingjian attribution and language-based personnel judgment.
+- [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
 - [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — Western Han marquis and high military-political figure whose imprisonment and self-starvation fulfill Xu Fu's staged prediction.
 - [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — Emperor Wen's successor, used by Qinji 135 番外篇2 as the reign context where Deng Tong and Zhou Yafu's fortunes reverse.
@@ -7775,6 +7778,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [神骨相法 / Spirit-Bone Physiognomy](concepts/ShenGuPhysiognomy.md) — Source-scoped method from Qinji 135 番外篇3 reading eyes as spirit, face bones as root, and speech order as the most practical talent signal.
 - [预言兑现错位 / Prophecy Fulfillment Displacement](concepts/ProphecyFulfillmentDisplacement.md) — Pattern where a prediction is heard correctly but fulfilled through another person, dynasty, patron, or mechanism.
 - [命相判断的政治风险 / Fate-Reading Political Risk](concepts/FateReadingPoliticalRisk.md) — Pattern where a fate-reader's judgment changes exposure to rulers, succession, favorites, and ministers, from avoiding Qin Shi Huang to recognizing Liu Bang.
 - [破釜沉舟 / Breaking Cauldrons and Sinking Boats](concepts/BreakingCauldronsAndSinkingBoats.md) — Xiang Yu's death-ground commitment device at Julu, treated as morale action after supply-corridor preparation rather than generic inspiration.

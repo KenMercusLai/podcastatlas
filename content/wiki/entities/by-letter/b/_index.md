@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6546
+wiki_total_pages: 6548
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "BuChengWenTiDeWenTi"
     title: "《不成问题的问题》"
     url: "/wiki/entities/buchengwentidewenti/"
+  - key: "Bingjian"
+    title: "《冰鉴》 / Bingjian"
+    url: "/wiki/entities/bingjian/"
   - key: "BieRenshuHuiziBook"
     title: "《别认输，惠子》"
     url: "/wiki/entities/bierenshuhuizibook/"

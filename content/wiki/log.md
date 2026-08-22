@@ -9712,6 +9712,10 @@ Added source page for Qinji 129-1: Liu Bang's local Huling and Xue gains, Zhou W
 
 Ran lint after health and identity validation passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key/model variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运”
+
+Added source page for Qinji 135 番外篇3: Zeng Guofan's person-reading reputation, the attributed Bingjian / transcript 《兵剑》 caution, Qing-history observer image, diary-style maxims, spirit-bone physiognomy, five noble bones, affect and bearing, and speech order as the most practical talent signal. Created Zeng Guofan, Bingjian, and Spirit-Bone Physiognomy; updated overview, index, Wen Wang Guanren Fa, Speech as Moral Diagnostic, and Physiognomy Moral Appearance Fallacy. No settled contradiction found; kept traditional eye, bone, facial-feature, and fate claims source-scoped rather than modern empirical assessment.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集
 
 Added source page for Qinji 129-2: Tian Zang's defeat at Ao granary, Zhang Han's follow-on victories over Zhang Chu commanders, Li Si's fear-driven 《上书对二世》 and Hu Hai's extraction/killing incentives, and Li Liang's betrayal of restored Zhao after Wang Li's recruitment letter and Wu Chen's sister's drunken ritual insult. Created Li Liang (Zhao General), Wang Li (Qin), Wu Chen's Sister, Duze Extraction Politics, and Status Insult Defection Cascade; updated overview, index, Li Si, Qin Er Shi, Zhang Chu Regime, Tian Zang, Zhang Han, Wu Chen, Handan, Zhao State, Qin State, Anti-Qin Coalition Fragmentation, Legalist Ruler Technique, Court Feedback Collapse, and Lu Wine Handan War Cascade. No settled contradiction found; disambiguated the historical 李良 from the existing modern ByteDance Li Liang page and kept the final Qin Jia/Wu Ping Jun Pan fragment source-scoped.
@@ -9790,3 +9794,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,812 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identity validation found no case-insensitive key or public-route collisions. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while current lint scanned 12,812 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
