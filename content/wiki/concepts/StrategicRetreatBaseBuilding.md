@@ -2,7 +2,7 @@
 title: "Strategic Retreat Base-Building / 退让式根据地经营"
 type: concept
 tags: [strategy, statecraft, chu-han, patience, base-building]
-sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ This concept differs from generic patience. It is not simply waiting; it turns a
 
 [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] adds the strategic conversion. Once [[HanXin|韩信]] has public authority, the retreat no longer rests only on patience, resources, and morale management. Through [[HanzhongDui|汉中对]], Hanzhong becomes a planning base for attacking [[ThreeQinContainment|三秦压制]] by combining [[GuanzhongRegion|关中]] people-support, the [[HuaiwangAgreement|怀王之约]], and Xiang Yu's settlement weaknesses.
 
+[[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] adds the proof of conversion. The base produces an army that can be reorganized under [[HanInheritsQinSystem|Qin-derived military rules]], deploy multiple commanders, and break back into [[GuanzhongRegion|关中]] through [[ChenCang|陈仓]]. Strategic retreat therefore pays off only when governance, talent retention, and operational design finally turn stored capacity into movement.
+
 ## Key Claims
 - Retreat can be strategic when it preserves the organization and creates a better future operating base.
 - A leader may need to perform anger before accepting retreat so followers do not interpret survival as surrender of ambition.
@@ -28,6 +30,7 @@ This concept differs from generic patience. It is not simply waiting; it turns a
 - Strategic retreat needs cover: the adversary must believe the retreat has removed the immediate threat long enough for the base to develop.
 - Hanji 146 adds that talent absorption is fragile: underused people can exit unless the base offers credible future authority and public commitment.
 - Hanji 147 adds that empowered talent must convert the preserved base into a sequenced offensive plan; otherwise retreat remains only survival.
+- Hanji 148-1 adds the final test: a preserved base has succeeded when it can reorganize, deceive, move, and defeat the blocking layer that made retreat necessary.
 
 ## Connections
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[Hanzhong|汉中]], [[BaShu|巴蜀]], and [[Nanzheng|南郑]] - source case for retreat, rule, and future return.
@@ -35,4 +38,5 @@ This concept differs from generic patience. It is not simply waiting; it turns a
 - [[ZhangLiang|张良]], [[XiangBo|项伯]], [[BurningGalleryRoads|烧栈道]], and [[HanXin|韩信]] - relationship channel, retreat signal, and talent absorption in Hanji 144 part 2.
 - [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]], [[Nanzheng|南郑]], [[XiahouYing|夏侯婴]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - talent-retention test after arrival in the base.
 - [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[GuanzhongRegion|关中]], and [[ThreeQinContainment|三秦压制]] - strategic payoff after Han Xin's appointment.
+- [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[HanInheritsQinSystem|汉承秦制]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], and [[ChenCang|陈仓]] - operational payoff of the preserved Hanzhong base.
 - [[CharismaticPoliticalPerformance|造势型政治表演]], [[FrontierDefensivePatience|边境防御耐心]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - adjacent performance, patience, and governance frames.

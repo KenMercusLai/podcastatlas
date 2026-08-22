@@ -2,7 +2,7 @@
 title: "樊哙 / Fan Kuai"
 type: entity
 tags: [chinese-history, power, rhetoric]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The source's main move is to read Fan Kuai's speech as likely shaped by [[ZhangL
 
 [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] returns Fan Kuai to the Liu Bang camp after the [[Hanzhong|汉中]] demotion. He is grouped with [[ZhouBo|周勃]] and [[GuanYing|灌婴]] as officers who support Liu Bang's declared desire to attack Xiang Yu immediately. The episode uses that reaction to explain why [[XiaoHe|萧何]]'s counsel has an internal audience: accepting [[StrategicRetreatBaseBuilding|退让式根据地经营]] must preserve fighting morale rather than look like fear.
 
+[[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] gives Fan Kuai a route-operation role in [[HanXin|韩信]]'s campaign. He is sent out by the Qishan route as part of the visible pressure that makes [[ZhangHanQin|章邯]] defend the flanks, then crosses Long Mountain and moves south along the Qian River to join the [[ChenCang|陈仓]] battlefield after Zhang Han's read of the situation fails.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - source scene.
 - [[ZhangLiang|张良]] - strategic interpreter behind the speech in the episode's reading.
@@ -35,3 +37,4 @@ The source's main move is to read Fan Kuai's speech as likely shaped by [[ZhangL
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[XiahouYing|夏侯婴]], [[JiXin|纪信]], and [[JinQiang|金强]] - Hongmen escort and gate-side backup before the source's cliffhanger.
 - [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[HuaiwangAgreement|怀王之约]], [[Bashang|霸上]], and [[PowerEtiquetteReading|权力礼仪细读]] - forced tent entry, status-recognizing rebuke, and later small-road protection during Liu Bang's return.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - immediate-war impulse redirected by Xiao He's strategy.
+- [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], [[ZhangHanQin|章邯]], and [[ChenCang|陈仓]] - Qishan-route pressure and later convergence on the main battlefield.

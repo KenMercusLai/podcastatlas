@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5071
+wiki_total_pages: 5073
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "HaloProductStrategy"
     title: "Halo Product Strategy"
     url: "/wiki/concepts/haloproductstrategy/"
+  - key: "HanInheritsQinSystem"
+    title: "Han Inherits Qin System / 汉承秦制"
+    url: "/wiki/concepts/haninheritsqinsystem/"
   - key: "HandsetMarketConcentration"
     title: "Handset Market Concentration"
     url: "/wiki/concepts/handsetmarketconcentration/"

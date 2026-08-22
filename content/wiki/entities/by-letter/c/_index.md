@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6586
+wiki_total_pages: 6587
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "ChenJuQiMinister"
     title: "陈举 / Chen Ju (Qi Minister)"
     url: "/wiki/entities/chenjuqiminister/"
+  - key: "ChenCang"
+    title: "陈仓 / Chen Cang"
+    url: "/wiki/entities/chencang/"
   - key: "ChenKaiCreo"
     title: "陈凯 / Chen Kai (Creo)"
     url: "/wiki/entities/chenkaicreo/"
