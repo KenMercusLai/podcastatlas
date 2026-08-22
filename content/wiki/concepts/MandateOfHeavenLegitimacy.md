@@ -2,8 +2,8 @@
 title: "Mandate of Heaven Legitimacy / 天命合法性"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-22
 ---
 
 # Mandate of Heaven Legitimacy / 天命合法性
@@ -28,6 +28,10 @@ The concept is important because it separates sacred legitimacy from simple prop
 
 [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds a self-serving mandate claim through [[QiXuanWang|齐宣王]]. The king treats [[QiState|齐国]]'s fast conquest of [[YanState|燕国]] as possible "天意," but [[Mengzi|孟子 / Mencius]] redirects the question to whether Yan's people welcome and benefit from Qi rule. The source therefore contrasts claimed heavenly favor with the Mencian people-facing test of Heaven's will.
 
+[[zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]] adds a lower-level succession branch. The episode uses "名正言顺" to explain why [[QinZhuangxiangwang|异人 / 子楚]] could not later deny [[HuayangFuren|华阳夫人]] after his adoption without damaging his own claim. This is not a full mandate-transfer argument, but it shows how a future ruler's sacred or public legitimacy can depend on a concrete [[WrittenSuccessionCredential|written succession credential]].
+
+[[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds the Qin fengshan branch. The episode reads [[QinShiHuang|嬴政 / 秦始皇]]'s ceremony at [[Taishan|泰山]] and [[LiangfuMountain|梁父山]] as an attempt to make recent conquest look recognized by Heaven. This is a stronger claim than ordinary ritual recognition: [[FengshanRitualLegitimacy|封禅礼制合法性]] presents the emperor's rule as authorized, while the source still keeps the ritual procedure uncertain and partly reconstructed.
+
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
@@ -41,6 +45,8 @@ The concept is important because it separates sacred legitimacy from simple prop
 - Ritual recognition can acknowledge a rising power without claiming that Heaven has fully transferred rule to it.
 - Unusual ritual-site events can be placed near mandate language without being treated as settled proof of mandate transfer.
 - A ruler's claim that military success proves Heaven's will still has to be tested against popular welfare and post-conquest conduct.
+- Succession legitimacy can also be bound by formalized kinship credentials, not only by omens, ritual recognition, or popular response.
+- Qinji 122-1 adds fengshan as a direct mandate-claiming ritual: conquest is made to appear Heaven-recognized through Taishan ceremony rather than through military success alone.
 
 ## Connections
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
@@ -54,3 +60,5 @@ The concept is important because it separates sacred legitimacy from simple prop
 - [[ZhouXianwang|周显王]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 ritual-material legitimacy branch.
 - [[SongState|宋国]], [[TaiqiuShe|宋太丘社]], and [[NaturalDisasterPoliticalOmen]] - Zhouji 26 unresolved omen branch.
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[MencianBenevolentGovernment|孟子仁政]] - Zhouji 49 self-serving "天意" claim and people-facing correction.
+- [[QinZhuangxiangwang|异人 / 子楚]], [[HuayangFuren|华阳夫人]], and [[WrittenSuccessionCredential|书面继承凭证]] - Zhouji 97 part 4 formal adoption proof and "名正言顺" branch.
+- [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[Taishan|泰山]], and [[FengshanRitualLegitimacy|封禅礼制合法性]] - Qin fengshan as a heavenly approval claim after unification.

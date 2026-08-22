@@ -2,8 +2,8 @@
 title: "Huainanzi / 《淮南子》"
 type: entity
 tags: [book, philosophy, china, western-han, fangshu]
-sources: [zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+last_updated: 2026-08-21
 ---
 
 # Huainanzi / 《淮南子》
@@ -16,12 +16,15 @@ The source uses the text to complicate a simple superstition/science split. Its 
 
 [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds another evaluative source use through [[MangMao|芒卯]]. The episode cites Huainanzi's "big integrity / small blemish" framing to keep Mang Mao from being flattened into either loyal savior or pure trickster.
 
+[[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] adds a literary-memory use. After [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] is captured and sent to Fangling, the episode cites Huainanzi for the image of the exiled Zhao king singing about his lost homeland, connecting the text to the emotional afterlife of [[ZhaoState|赵国]]'s fall.
+
 ## Key Claims
 - The text is treated as a synthetic knowledge archive, not a single-doctrine manual.
 - Its astronomy and calendrical material show the proximity of fangshu to real observation.
 - Its alchemical and technical material links the episode to [[AlchemyChemistryContinuity]].
 - Its later legendary associations with Liu An show how textual production, political defeat, and immortal storytelling can overlap.
 - It can preserve evaluative categories for morally mixed political actors, as in the Mang Mao notice.
+- It can also preserve post-conquest memory around a defeated ruler, as in the Zhao Qian exile notice.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -31,3 +34,4 @@ The source uses the text to complicate a simple superstition/science split. Its 
 - [[FangshuSystematization]] and [[ChineseFolkReligionLayering]] - wider fangshu and religion-history frame.
 - [[WuQi|吴起]], [[HanFei|韩非]], and [[Mozi|墨子]] - Zhouji 08 part 3 death-variant branch.
 - [[MangMao|芒卯]] and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 67 mixed-integrity evaluation branch.
+- [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], and [[ZhaoState|赵国]] - exile-song memory after Zhao's fall.

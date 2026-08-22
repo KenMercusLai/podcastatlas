@@ -2,8 +2,8 @@
 title: "宋国 / Song State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8qx-v, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8qx-v, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-22
 ---
 
 # 宋国 / Song State
@@ -30,6 +30,8 @@ The episode also uses Song to connect later classical authority back to lineage:
 
 [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] follows that warning through [[SongJunYan|宋康王 / 宋君偃]]. After claiming kingly title in 318 BCE, he expands against Qi, Chu, Wei, Xue, and Teng, but his cruelty turns strength into isolation. When Qi, Chu, and Wei attack, Song's people refuse to defend him; the ruler is killed, the land is divided, and Song disappears as a state. The episode uses Song as the direct negative case for [[NonKillingUnification|不爱杀人者能一之]] and [[PeopleBasedPoliticalSecurity|民心型政治安全]].
 
+[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] supplies the geopolitical prelude to that final Song branch. Song is presented as wealthy central-plains territory where "ten li of Song" can outweigh much larger land elsewhere; [[QiMinWang|齐湣王]] wants it, while [[WeiRan|魏冉]] and [[LiDui|李兑]] also covet [[Dingtao|陶 / 定陶]] or Song-region benefits for private-fief reasons. The episode ends with Qin taking [[Anyi|安邑]] while giving Qi room to attack Song, so Song becomes the object where great-power strategy and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] overlap.
+
 [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] deepens that final Song branch. Song's expansion is tied to an omen read through [[AuspiciousOmenPolitics|祥瑞政治]], its fall is tied to Qi's reputation campaign and [[MoralizedWarPretext|道德化战争借口]], and [[TengState|滕国]] becomes important because the episode frames it as a [[Mengzi|孟子 / Mencius]]-linked Confucian experiment. The source keeps Song's destruction as a political-security failure while adding a historiographical caution: later accounts of Song Kang Wang may also reflect [[VanquishedRulerReputationConstruction|亡国君污名建构]].
 
 ## Connections
@@ -45,4 +47,5 @@ The episode also uses Song to connect later classical authority back to lineage:
 - [[ZhaoState|赵国]], [[QiState|齐国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 14 Pinglu meeting notice.
 - [[TaiqiuShe|宋太丘社]], [[MandateOfHeavenLegitimacy|天命合法性]], and [[NaturalDisasterPoliticalOmen]] - Zhouji 26 unresolved omen branch.
 - [[SongJunYan|宋康王 / 宋君偃]], [[QiState|齐国]], [[ChuState|楚国]], [[WeiState|魏国]], [[NonKillingUnification|不爱杀人者能一之]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 45 expansion, cruelty, and destruction branch.
+- [[QiMinWang|齐湣王]], [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], [[LiDui|李兑]], [[Dingtao|陶 / 定陶]], [[Anyi|安邑]], [[EastWestEmperorDiplomaticProbe|东西二帝试探]], and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - Zhouji 68 part 1 geopolitical prelude to Song's destruction.
 - [[TengState|滕国]], [[AuspiciousOmenPolitics|祥瑞政治]], [[MoralizedWarPretext|道德化战争借口]], and [[VanquishedRulerReputationConstruction|亡国君污名建构]] - Zhouji 68's fuller collapse and reputation layer.

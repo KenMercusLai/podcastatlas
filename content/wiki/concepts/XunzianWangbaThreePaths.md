@@ -2,7 +2,7 @@
 title: "Xunzian Wangba Three Paths / 荀子王霸三分法"
 type: concept
 tags: [statecraft, political-theory, confucianism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
+sources: [zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,10 @@ The second path is rule through trust. Even if a ruler's moral order is not perf
 
 [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] makes that diagnostic checklist more concrete. [[ZiChan|子产]] has humane feeling and political judgment, but [[Mengzi|孟子 / Mencius]]'s river-crossing story shows that kindness must be converted into public works to become governance. [[GuanZhong|管仲]] stands higher because he can strengthen [[QiState|齐国]] through administration and [[LuxuryConsumptionEconomicCirculation|economic circulation]], but he still falls short of ritual-righteous durability when the order collapses after him.
 
+[[zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe]] adds Xunzi's Qin-facing advice as an applied version of the same distinction. The episode summarizes his advice to [[QinZhaoxiangwang|秦昭襄王]] and [[FanJu|范雎]] as "修德保民" and 德威并用: Qin can seek unity, but conquest and occupation must be disciplined by kingly legitimacy rather than treated as sufficient state power by themselves.
+
+[[zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43]] extends the framework from regime evaluation into military hierarchy. The episode's Xunzi can recognize the effectiveness of [[QinState|秦国]]'s reward-and-punishment army while still ranking it below hegemonic armies and below the renyi armies of [[ShangTang|商汤]] and [[ZhouWuwang|周武王]]. The military version of Wangba therefore says that war power becomes most durable when it is grounded in [[XunzianMilitaryLegitimacy|people-unifying legitimacy]], not only in tactical deception or incentives.
+
 ## Key Claims
 - The framework refines [[WangdaoVsBadao|王道 versus 霸道]] by adding a collapse path beneath kingly and hegemonic rule.
 - Trust is not treated as soft morality only; in the hegemonic path, it is a practical condition for military strength, administrative unity, and alliance reliability.
@@ -26,6 +30,8 @@ The second path is rule through trust. Even if a ruler's moral order is not perf
 - The framework links [[ConfucianIdealGovernance|儒家理想治理]] to realistic state security rather than presenting it as only moral aspiration.
 - Zhouji 74 adds that good political order can be ranked by governing good: ritual-righteousness outranks administration, administration outranks people-support alone, and all three outrank wealth extraction.
 - Zhouji 75-1 adds that administrative and economic brilliance can still fail the highest Xunzian test if it remains [[PersonDependentGovernanceFragility|person-dependent]].
+- Qinji 99 part 2 adds that the Wangba distinction can be directed at the strongest state, not only used after a failed ruler collapses.
+- Qinji 99 part 3 adds that the same hierarchy can classify armies: profit-driven and reward-driven forces are powerful but lower than hegemonic and kingly military order.
 
 ## Connections
 - [[Xunzi|荀子]], [[XunziText|《荀子》]], [[SimaGuang|司马光]], and [[ZizhiTongjian|《资治通鉴》]] - source chain.
@@ -35,3 +41,5 @@ The second path is rule through trust. Even if a ruler's moral order is not perf
 - [[VictoryOverreachFailure|数胜必亡式胜利反噬]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - failure patterns that make the Qi case legible.
 - [[WeySijun|卫嗣君 / Wey Sijun]], [[SurveillanceBasedRulerControl|窥察制衡式君术]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 74 ruler-technique and evaluative hierarchy.
 - [[ZiChan|子产]], [[GuanZhong|管仲]], [[GuanziText|《管子》]], [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - Zhouji 75-1 applied hierarchy.
+- [[QinZhaoxiangwang|秦昭襄王]], [[FanJu|范雎]], [[QinState|秦国]], and [[ConfucianIdealGovernance|儒家理想治理]] - Qinji 99 part 2 Xunzi's advice to Qin.
+- [[LinwuJun|临武君]], [[ZhaoDan|赵丹 / 赵孝成王]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], [[ProfitDrivenArmyLimits|功利型军队局限]], and [[XunzianCommandRestraint|五权三制]] - Qinji 99 part 3 military hierarchy and command-restraint extension.

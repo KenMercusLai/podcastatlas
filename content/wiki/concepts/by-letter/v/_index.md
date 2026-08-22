@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 4881
+wiki_total_pages: 5023
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "ValuesAsOperationalAsset"
     title: "Values As Operational Asset"
     url: "/wiki/concepts/valuesasoperationalasset/"
+  - key: "ValuesFirstTalent"
+    title: "Values-First Talent"
+    url: "/wiki/concepts/valuesfirsttalent/"
   - key: "VanquishedRulerReputationConstruction"
     title: "Vanquished Ruler Reputation Construction / 亡国君污名建构"
     url: "/wiki/concepts/vanquishedrulerreputationconstruction/"
@@ -146,6 +149,9 @@ wiki_pages:
   - key: "VirtueOverNaturalBarriers"
     title: "Virtue Over Natural Barriers / 德胜地险"
     url: "/wiki/concepts/virtueovernaturalbarriers/"
+  - key: "VirtuePracticeInternalization"
+    title: "Virtue Practice Internalization / 修养内化"
+    url: "/wiki/concepts/virtuepracticeinternalization/"
   - key: "VirtuFortunaPoliticalAgency"
     title: "Virtù And Fortuna Political Agency"
     url: "/wiki/concepts/virtufortunapoliticalagency/"

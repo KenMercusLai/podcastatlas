@@ -2,8 +2,8 @@
 title: "War Cost Tempo Discipline / 战争成本与速决纪律"
 type: concept
 tags: [warfare, strategy, logistics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
+last_updated: 2026-08-22
 ---
 
 # War Cost Tempo Discipline / 战争成本与速决纪律
@@ -18,6 +18,10 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] deepens the stop-now side of the debate through Bai Qi's refusal to command at Handan. He argues that Qin is depleted, that Zhao's will has hardened after Changping, and that Qin's operational geometry is poor: a distant capital assault across mountains and rivers gives hostile states time to gather around Zhao. The concept therefore expands from manpower and food recovery into operational reach, enemy cohesion, and command refusal as cost discipline.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] shows both the vindication and the political limit of that discipline. Qin's failure around [[Handan|邯郸]] makes [[BaiQi|白起]]'s warning look strategically correct, but his refusal, delay, and resentful "I told you so" comments make correct cost judgment intolerable to [[QinZhaoxiangwang|秦昭襄王]]. The concept therefore needs a court-politics boundary: a commander's tempo discipline can be sound and still become fatal when it turns into open defiance during a ruler's crisis.
+
+[[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] adds the opposite-looking but compatible lesson: slowness can be cost discipline when the waiting side has the stronger logistics. [[WangJianQin|王翦]] does not seek immediate redemption after [[LiXinQin|李信]]'s failure; with 600,000 troops and steady provisions, he makes [[ChuState|楚国]] bear mobilization pressure until Chu withdraws, then attacks.
+
 ## Key Claims
 - The reason to prefer quick victory is that prolonged war is expensive, not that speed is always tactically correct.
 - Nonmilitary victory is strategically superior when it can preserve resources and still secure the objective.
@@ -25,6 +29,8 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 - Population and food recovery are strategic constraints, not merely background conditions.
 - Post-victory exhaustion can create a genuine strategic dispute over tempo: immediate exploitation and rest both have plausible cost logic.
 - Command refusal can be a form of cost discipline when the assignment would convert earlier victory into likely overextension.
+- Sound cost judgment does not guarantee political safety; a correct refusal may still be punished if it visibly undercuts ruler authority.
+- Delaying battle can reduce cost when one's own logistics can sustain the pause and the enemy's mobilization cannot.
 
 ## Connections
 - [[SunziBingfa|《孙子兵法》]], [[BaiQi|白起]], and [[QinZhaoxiangwang|秦昭襄王]] - source text, commander, and ruler in the episode's cost argument.
@@ -33,3 +39,5 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[YuanjiaoJingongStrategy|远交近攻]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - adjacent logistics, strategy, and post-victory cost problems.
 - [[PostBattleTerrorSignaling|战后恐怖震慑]], [[SuDai|苏代]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 95 terror, diplomacy, and court politics that redirect the tempo debate.
 - [[WangHe|王龁]], [[HezongAlliance|合纵]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 96 substitute command, likely external rescue, and reputation-risk logic.
+- [[DuyouSword|杜邮剑]], [[FanJu|范雎]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 97 part 1 strategic vindication becoming political danger.
+- [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 delayed-battle cost discipline.

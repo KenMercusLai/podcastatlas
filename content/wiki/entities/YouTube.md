@@ -2,11 +2,13 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
-last_updated: 2026-08-16
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-21
 ---
 
 # YouTube
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds the All-In interpretation of the Los Angeles youth-harm verdict involving [[Meta]] and YouTube. The hosts use YouTube as part of the platform-design-liability problem: even when parents restrict devices, school Chromebooks and video access can reopen the same addictive-design and age-gating questions.
 
 [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds YouTube as a creator-supply pool for legacy streaming. The source says [[Netflix]] pursued talks with Hot Ones producer First We Feast, treating YouTube-native formats as proven attention assets that can be moved or extended into subscription-video strategy.
 

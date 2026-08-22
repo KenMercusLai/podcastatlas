@@ -2,7 +2,7 @@
 title: "《红楼梦》 / Dream of the Red Chamber"
 type: entity
 tags: [book, literature, chinese-classics, novel]
-sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+sources: [zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
 last_updated: 2026-08-05
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-08-05
 [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]] adds a food-and-poetry branch through the Grand View Garden crab banquet. The episode contrasts [[JinPingMei|《金瓶梅》]]'s more worldly crab dish with [[HongLouMeng|《红楼梦》]]'s steamed-crab scene, then reads the poems by [[JiaBaoyu|贾宝玉]], [[LinDaiyu|林黛玉]], and [[XueBaochai|薛宝钗]] as character work: Baoyu's boyish ease, Daiyu's joy-shadowed sadness, and Baochai's sharper satire of those who横行 and eventually enter the pot.
 
 [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] strengthens the [[JinPingMei|《金瓶梅》]] relation from food-scene comparison into structure. [[Banlatte|半拿铁]] presents Jin Ping Mei as an earlier [[HouseholdAsSocialWeb]] novel whose one-family frame, rise-and-fall arc, women-centered title structure, and [[UrbanEverydayFiction]] detail help explain why later readers see influence on 《红楼梦》. The source does not reduce Cao Xueqin to borrowing; it treats influence as a shared capacity to make household life carry society.
+
+[[zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy]] uses 《红楼梦》 as the "情" side of a comparison with [[JinPingMei|《金瓶梅》]] as "欲." The point is not a full Red Chamber reading, but an interpretive contrast for the [[ZhaoJi|赵姬]] / [[LaoAi|嫪毐]] scandal: desire can be written as crude appetite, social world, tragedy, or layered feeling depending on the narrative frame.
 
 [[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]] adds a modern comparative-reading branch through [[TheCatcherInTheRye|《麦田里的守望者》]]. The [[MihuanChishu|蜜獾吃书]] episode calls [[HoldenCaulfield|Holden Caulfield / 霍尔顿]] a 20th-century American [[JiaBaoyu|贾宝玉]], using the comparison to make Holden's school resistance, literary sensitivity, sibling tenderness, disgust toward vulgarity, and refusal of adult usefulness legible in a Chinese classic-reading frame.
 
@@ -35,3 +37,4 @@ The novel matters in this source as a receiver of classical poetry. [[Xiangling|
 - [[ClassicReadingComplexity]], [[SuoYinReading]], and [[InterpretationAndOverinterpretation]] - reading guardrails for suggestive but uneven evidence.
 - [[RedChamberLegalReading]], [[MourningMingReading]], [[QingGenderLegalOrder]], [[LowStatusRegistry]], and [[ConfiscationAndFemaleFate]] - episode 167's legal-institutional branch.
 - [[CaoYin|曹寅]], [[KangxiEmperor|康熙]], [[CaoFamilyQing|清代曹家]], [[JiangningWeavingBureau|江宁织造]], and [[RedChamberFamilyHistoryEcho]] - episode 101's family-history and Qing institutional branch.
+- [[ZhaoJi|赵姬]], [[LaoAi|嫪毐]], [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]], and [[FemaleSubjectivityInClassicReading|经典阅读中的女性主体性]] - Qinji 108-2's "情 / 欲" comparison used to critique flattened scandal reading.

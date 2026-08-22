@@ -2,7 +2,7 @@
 title: "孔斌 / Kong Bin"
 type: entity
 tags: [person, adviser, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]
+sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The episode's metaphor gives Kong Bin an interpretive role beyond Wei court poli
 
 [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]] returns Kong Bin as a withdrawal case. Although [[WeiAnxiWang|魏安釐王]] had ceremonially hired him, Kong Bin resigns and does not simply move to another state in the ordinary [[WarringStatesCareeristMobility|Warring States careerist]] pattern. His "deadly illness with no good doctor" line diagnoses a whole interstate order: Qin is ready to annex, the eastern states are weakening, and there is no healthy court for a capable adviser to cure.
 
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] gives Kong Bin a ritual-protocol role after [[Xinlingjun|信陵君]] dies. When [[HanHuanhuiwang|韩桓惠王]] comes to Wei to mourn Xinlingjun, Xinlingjun's son treats the visit as an honor, but Kong Bin advises him to decline: a neighboring ruler's condolence must be received by the home state's ruler, and [[WeiAnxiWang|魏安釐王]] has not authorized Xinlingjun's son to host it.
+
 ## Connections
 - [[WeiAnxiWang|魏安釐王]] and [[WeiState|魏国]] - ruler and court setting for Kong Bin's warning.
 - [[QinState|秦国]], [[ZhaoState|赵国]], and [[ChangpingBattle|长平之战]] - interstate crisis he interprets.
@@ -23,3 +25,4 @@ The episode's metaphor gives Kong Bin an interpretive role beyond Wei court poli
 - [[HezongAlliance|合纵]] and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - alliance problem exposed by Wei's short-term thinking.
 - [[FarmingWarStatecraft|耕战逻辑]] and [[QinEastwardPressure|秦国东进压力]] - Qin's structural expansion logic behind the warning.
 - [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 95 part 3 contrast between normal interstate mobility and Kong Bin's refusal to keep circulating.
+- [[Xinlingjun|信陵君]], [[HanHuanhuiwang|韩桓惠王]], and [[PowerEtiquetteReading|权力礼仪细读]] - Qinji 103-2 funeral-protocol judgment.

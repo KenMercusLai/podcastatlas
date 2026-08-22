@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6259
+wiki_total_pages: 6463
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "FionnMacCumhaill"
     title: "Fionn mac Cumhaill / 芬恩"
     url: "/wiki/entities/fionnmaccumhaill/"
+  - key: "FireAid"
+    title: "FireAid"
+    url: "/wiki/entities/fireaid/"
   - key: "FirebrandSaints"
     title: "Firebrand Saints"
     url: "/wiki/entities/firebrandsaints/"
@@ -527,6 +530,9 @@ wiki_pages:
   - key: "FengTing"
     title: "冯亭 / Feng Ting"
     url: "/wiki/entities/fengting/"
+  - key: "FengQuji"
+    title: "冯去疾 / Feng Quji"
+    url: "/wiki/entities/fengquji/"
   - key: "FengXiWarringStates"
     title: "冯喜 / Feng Xi (Warring States)"
     url: "/wiki/entities/fengxiwarringstates/"
@@ -554,6 +560,9 @@ wiki_pages:
   - key: "FenglingWarringStates"
     title: "封陵 / Fengling (Warring States)"
     url: "/wiki/entities/fenglingwarringstates/"
+  - key: "FuSu"
+    title: "扶苏 / Fu Su"
+    url: "/wiki/entities/fusu/"
   - key: "FengyanFengyu"
     title: "枫言枫语"
     url: "/wiki/entities/fengyanfengyu/"
@@ -563,6 +572,9 @@ wiki_pages:
   - key: "FanKuai"
     title: "樊哙 / Fan Kuai"
     url: "/wiki/entities/fankuai/"
+  - key: "FanWuji"
+    title: "樊无忌 / Fan Wuji"
+    url: "/wiki/entities/fanwuji/"
   - key: "Fadior"
     title: "法迪奥 / Fadior"
     url: "/wiki/entities/fadior/"

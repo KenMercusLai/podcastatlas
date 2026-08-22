@@ -2,8 +2,8 @@
 title: "Fixed Human Nature Politics"
 type: concept
 tags: [political-theory, human-nature, literature, identity]
-sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
-last_updated: 2026-07-14
+sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+last_updated: 2026-08-21
 ---
 
 # Fixed Human Nature Politics
@@ -18,6 +18,8 @@ The concept does not deny human vice. It names the danger of making vice, nature
 
 [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] refines the Machiavelli side of the concept. The episode agrees that [[NiccoloMachiavelli|Machiavelli]] works from a severe account of human unreliability, especially around love, fear, crowds, nobles, mercenaries, and fortune. But it does not reduce him to a doctrine of fixed badness: [[MachiavellianRealism]] is treated as a way to see political reality before moral consolation, while [[GoodIntentionsPoliticalLimits]] preserves the need for conscience and responsibility.
 
+[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] adds an explicit classical-Chinese version of the anti-fixity point. The episode contrasts [[XingShanTheory|性善论]] and [[XingETheory|性恶论]], but its synthesis is [[HumanNaturePlasticity|人性可变性]]: good and bad tendencies can change with need, motive, environment, education, ritual, law, and crisis.
+
 ## Key Claims
 - Political systems can become self-limiting when they assume human nature is fixed and bad.
 - A label can help describe a person, but it becomes harmful when it becomes the person's whole essence.
@@ -25,6 +27,7 @@ The concept does not deny human vice. It names the danger of making vice, nature
 - [[PureRationalityTrap]] is a mirror danger: escaping fixed badness by fixed rational purity can also dehumanize.
 - Species labels can become morally misleading when "civilized human" and "wild animal" obscure actual conduct toward vulnerable beings.
 - Machiavellian realism can begin from human unreliability without requiring readers to believe every person is permanently evil or that cruelty is morally solved by effectiveness.
+- The Mencius-Xunzi contrast can be useful without turning "good" or "bad" into a permanent essence; Qinji 101-2 treats formation and circumstance as decisive.
 
 ## Connections
 - [[ThomasHobbes]] and [[NiccoloMachiavelli]] - political-theory references used by the episode.
@@ -34,3 +37,4 @@ The concept does not deny human vice. It names the danger of making vice, nature
 - [[ActionDefinesIdentity]] - adjacent wiki concept where identity is shown through lived action rather than only a label.
 - [[CivilizationAsDeception]] and [[AnimalIntelligenceModes]] - animal-philosophy extension from the Rowlands source.
 - [[MachiavellianRealism]], [[NonMoralPoliticalAnalysis]], and [[GoodIntentionsPoliticalLimits]] - episode 72's refinement of the Machiavelli branch.
+- [[XingShanTheory|性善论]], [[XingETheory|性恶论]], [[HumanNaturePlasticity|人性可变性]], and [[DisasterCivilizationRetreat|灾变中的文明退场]] - Qinji 101-2 classical human-nature and crisis-pressure extension.

@@ -2,8 +2,8 @@
 title: "洛邑 / Luoyi"
 type: entity
 tags: [city, zhou-dynasty, pre-qin, diplomacy]
-sources: [zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
+last_updated: 2026-08-21
 ---
 
 # 洛邑 / Luoyi
@@ -20,6 +20,8 @@ The place also matters for the following year's [[Fengze|逢泽]] geography. The
 
 [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds a later meeting scene in 284 BCE. [[QinZhaoxiangwang|秦昭襄王]], [[WeiZhaowang|魏昭王]], and [[HanXiwang|韩釐王]] meet at the Zhou capital region while the Qi collapse is still unfolding, making Luoyi again a place where interstate politics uses the royal center without necessarily restoring Zhou decision power.
 
+[[zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu]] adds Luoyi / Luoyang as Zhou Nan Wang's death setting after the failed anti-Qin mobilization and Qin's punishment of [[WesternZhouPolity|西周国]]. The city therefore appears at both the ritual center of earlier Zhou-centered diplomacy and the final scene where the Zhou-annals frame gives way to Qin-centered chronology.
+
 ## Connections
 - [[ZhouRoyalHouse|周王室]] and [[ZhouXianwang|周显王]] - royal institution and reign frame.
 - [[AudienceVsMeetingDiplomacy]] - source concept attached to "会于京师."
@@ -27,4 +29,5 @@ The place also matters for the following year's [[Fengze|逢泽]] geography. The
 - [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[Shiji|《史记》]], and [[QianjuHougongReversal|前倨后恭]] - Zhouji 32-33 homecoming and reception branch.
 - [[QinWuwang|秦武王]], [[GanMao|甘茂]], [[YiyangWarringStates|宜阳]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 58 route, ding-lifting death, and succession branch.
 - [[WeiZhaowang|魏昭王]], [[HanXiwang|韩釐王]], [[ZhouNanwang|周赧王]], and [[AudienceVsMeetingDiplomacy|朝会之别]] - Zhouji 72 Qin-Wei-Han meeting at the Zhou capital.
+- [[ZhouNanwang|周赧王]], [[WesternZhouPolity|西周国]], [[ZhaitaiGaozhu|债台高筑]], and [[QinState|秦国]] - Zhouji 98 final royal-house setting.
 - [[WarringStatesPeriod|战国时期]] - broader setting.

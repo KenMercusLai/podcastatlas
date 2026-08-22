@@ -2,8 +2,8 @@
 title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
 type: concept
 tags: [military-history, leadership, morale, management]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+last_updated: 2026-08-22
 ---
 
 # Military Morale Through Shared Hardship / 同甘共苦式士气
@@ -18,6 +18,8 @@ The source explicitly translates the pattern into modern management terms: leade
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] adds a siege-city and aristocratic-household version. [[LiTan|李谈 / 李同]] tells [[Pingyuanjun|平原君]] that [[Handan|邯郸]] commoners are starving while his household still preserves wealth and comfort. When Pingyuanjun distributes that wealth and puts household members into the army, morale improves enough to gather three thousand dare-death fighters. This creates [[EliteCrisisBurdenSharing|elite crisis burden sharing]] as a neighboring concept: not every morale mechanism begins with a commander in the ranks; sometimes it begins with a privileged household visibly losing insulation from public suffering.
 
+[[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] adds a long-campaign readiness version through [[WangJianQin|王翦]]. After refusing [[XiangYan|项燕]]'s challenges, Wang Jian keeps Qin troops fed, shares ordinary rhythms with them, and reads stone-throwing contests as a sign that delayed aggression has not become fatigue. This is less about dramatic sacrifice than about preserving physical confidence during [[FortifiedAttritionPatience|坚壁耗敌式耐心]].
+
 ## Key Claims
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
@@ -26,6 +28,7 @@ The source explicitly translates the pattern into modern management terms: leade
 - The same practice can become politically unsafe for a high-merit commander if ruler suspicion interprets soldier loyalty as factional power.
 - Battlefield resolve is easier to sustain under existential siege than after rank, wealth, and court danger create reasons to survive and appear harmless.
 - Siege morale can also depend on whether elite households visibly convert protected wealth and comfort into the defense borne by ordinary soldiers and commoners.
+- In a fortified waiting strategy, morale can appear as disciplined appetite for action rather than immediate combat.
 
 ## Connections
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
@@ -35,3 +38,4 @@ The source explicitly translates the pattern into modern management terms: leade
 - [[CrisisStakeholderLeadership]] and [[VisionToRealityExecution]] - broader leadership and execution concepts outside the military setting.
 - [[TianDan|田单]], [[LuZhonglian|鲁仲连]], [[QiXiangWang|齐襄王]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 part 2 high-merit commander constraint.
 - [[LiTan|李谈 / 李同]], [[Pingyuanjun|平原君]], [[Handan|邯郸]], and [[EliteCrisisBurdenSharing|贵族危机共担动员]] - Zhouji 96 part 4 siege mobilization and household-sacrifice extension.
+- [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 long-wait morale and readiness case.

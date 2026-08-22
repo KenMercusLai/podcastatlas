@@ -2,8 +2,8 @@
 title: "苏厉 / Su Li"
 type: entity
 tags: [person, diplomat, strategist, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+last_updated: 2026-08-21
 ---
 
 # 苏厉 / Su Li
@@ -13,6 +13,8 @@ last_updated: 2026-08-20
 The page is source-scoped. The episode does not describe Su Li's later actions; it uses him to keep Su Qin's story from becoming only an isolated individual-inspiration tale.
 
 [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] mentions Su Li again in a broader list of persuaders active around the fame of [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[GongsunYan|犀首公孙衍]]. The source still keeps him as a named field marker rather than an independently narrated actor.
+
+[[zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr]] names Su Li in the same way after [[SuQin|苏秦]]'s death: as part of the Su-family persuader context before the episode turns to [[SuDai|苏代]]'s direct role in [[YanState|燕国]].
 
 ## Connections
 - [[SuQin|苏秦]] and [[SuDai|苏代]] - brothers named by the source.

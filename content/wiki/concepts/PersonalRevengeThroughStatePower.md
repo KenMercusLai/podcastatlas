@@ -2,7 +2,7 @@
 title: "Personal Revenge Through State Power / 以国力行私仇"
 type: concept
 tags: [revenge, statecraft, diplomacy, court-politics, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
+sources: [zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ The episode distinguishes two forms of revenge. Against Xu Jia, Fan Ju chooses r
 
 That source also adds a mobility layer. Fan Ju's low birth and earlier humiliation make the revenge historically striking: a disrupted age lets a blocked outsider acquire office and use a major state to confront former elites. The concept therefore touches [[WarringStatesCareeristMobility|乱世职业经理人式流动]] as well as revenge statecraft.
 
+[[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] adds a ruler-level version through [[QinShiHuang|嬴政 / 秦始皇]]. After [[WangJianQin|王翦]] captures [[Handan|邯郸]], Ying Zheng personally goes there and kills people connected to old enmity from his youth in the Zhao capital. Unlike Fan Ju's ministerial revenge routed through Qin diplomacy, this case makes the conquering ruler's private memory part of what happens to a captured city.
+
 ## Key Claims
 - Personal vengeance becomes more dangerous when it can be routed through an already plausible state interest.
 - Diplomatic theater can punish a target more effectively than execution when reputation and status are the main objects.
@@ -29,6 +31,7 @@ That source also adds a mobility layer. Fan Ju's low birth and earlier humiliati
 - Hostage diplomacy can extend private revenge once the target's host is valuable enough for a stronger state to detain.
 - The revenge ethic can share roots with gratitude and recognition ethics; the problem is not only hatred, but a whole repayment culture.
 - Disorder can make revenge more scalable by letting low-status talent gain state power.
+- Ruler-level revenge can attach personal childhood grievance directly to a conquest endpoint, making a captured city the site of private settlement under public authority.
 
 ## Connections
 - [[FanJu|范雎]] - source case for private revenge embedded in Qin policy.
@@ -38,3 +41,4 @@ That source also adds a mobility layer. Fan Ju's low birth and earlier humiliati
 - [[PrivatePunishmentWithoutProcedure|无程序私刑]] and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - neighboring patterns where private motive and public power become entangled.
 - [[YuQing|虞卿]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 figures and concept that complicate simple revenge judgment.
 - [[SimaQian|司马迁]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], [[RetainerReciprocityEthic|士为知己者死]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 repayment culture, mobility, and state-order limits.
+- [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[Handan|邯郸]], and [[QinState|秦国]] - ruler-level revenge after the Zhao capital's capture.

@@ -2,13 +2,15 @@
 title: "燕昭王 / King Zhao of Yan"
 type: entity
 tags: [person, ruler, yan-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
 last_updated: 2026-08-21
 ---
 
 # 燕昭王 / King Zhao of Yan
 
 燕昭王 / King Zhao of Yan enters the wiki through [[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] as Ji Ping, the son of [[YanWangKuai|燕王哙]]. After [[QiState|齐国]] has broken [[YanState|燕国]], he returns from exile and is welcomed back by Yan's people.
+
+[[zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]] preserves the crisis before that return. The source identifies the Yan crown prince as the royal-line actor who joins [[ShiBei|市被]] against [[ZiZhi|子之]], fails, and flees before [[QiXuanWang|齐宣王]]'s army kills [[YanWangKuai|燕王哙]] and Zi Zhi. This keeps Yan Zhaowang's later recovery grounded in the failed internal restoration that preceded exile.
 
 The episode makes Yan Zhaowang a recovery-through-talent case. He comforts families of the dead, shares hardship with survivors, and admits that Yan is too weak to avenge itself immediately. His first strategic move is therefore not war, but the search for people who can rebuild the state.
 
@@ -29,6 +31,7 @@ That search runs through [[GuoWeiWarringStates|郭隗]] and the "千金买骨" s
 ## Connections
 - [[YanState|燕国]] - polity he rebuilds after Qi's attack.
 - [[YanWangKuai|燕王哙]] - father whose failed reign forms the contrast.
+- [[ShiBei|市被]], [[ZiZhi|子之]], and [[QiXuanWang|齐宣王]] - Zhouji 48 failed internal restoration and flight before recovery.
 - [[QiState|齐国]] and [[QiXuanWang|齐宣王]] - conqueror context from the prior Yan branch.
 - [[GuoWeiWarringStates|郭隗]], [[LeYi|乐毅]], and [[JuXin|剧辛]] - adviser and incoming talent.
 - [[TalentAttractionThroughRespect]] and [[WarringStatesCareeristMobility]] - concepts that make his recovery strategy legible.

@@ -2,7 +2,7 @@
 title: "Warring States Military Transformation / 战国军事形态转变"
 type: concept
 tags: [warfare, military-history, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
+sources: [zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,12 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] adds the large-encirclement and manpower-cost side of the same transformation. The episode presents [[ChangpingBattle|长平之战]] as an unusually early, large, and complete encirclement battle, but its lesson is not only scale. The post-battle discussion of [[BaiQi|白起]] refusing an immediate [[Handan|邯郸]] campaign because Qin is "国虚民饥" shows that mass armies make [[WarCostTempoDiscipline|战争成本与速决纪律]] central to strategic timing.
 
+[[zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43]] adds a philosophical classification of Warring States military forms. [[LinwuJun|临武君]] represents a technique-centered answer: timing, terrain, speed, and deception. [[Xunzi|荀子]] answers with a legitimacy-centered hierarchy that can acknowledge specialized forces such as Qi技击, Wei武卒, and Qin锐士 while ranking them below hegemonic and kingly armies. The transformation is therefore not only technical scale and arms; it also raises the question of what social order holds mass armies together.
+
+[[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] extends the military-thought layer into discipline and rules of engagement. Xunzi's army is not only legitimate in purpose; it is organized by post discipline, drum-and-gong command signals, equal punishment for unauthorized advance or retreat, and limits on harming civilians or crops. The host's [[CarlVonClausewitz|Clausewitz]] comparison then adds a realism check: transformed mass warfare still remains coercive violence even when moralized as a [[XunzianMilitaryLegitimacy|renyi army]].
+
+[[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] adds a late Zhao frontier version through [[LiMu|李牧]]. The episode calls his defeat of [[Xiongnu|匈奴]] a classic case of large infantry formations destroying a large cavalry force, but its real military-transformation point is broader: Zhao's usable force combines fortifications, beacons, spies, cavalry and archery training, morale management, staged retreat, and encirclement against a mobile raiding opponent.
+
 ## Key Claims
 - Exaggerated troop figures can still preserve useful evidence about military organization.
 - The episode reads the Wei list as showing large infantry categories rather than a chariot-dominated army.
@@ -41,6 +47,9 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - Zhouji 67 adds command cognition: a large army can be beaten by reading terrain, allied incentives, and attack sequence better than the coalition commander does.
 - Zhouji 87 adds command sequencing: courage becomes militarily effective when linked to information control, tempo, camp security, and high-ground timing.
 - Zhouji 94 part 3 adds mass-war cost: encirclement victory can destroy an enemy army while leaving the victor too depleted for immediate follow-on conquest.
+- Qinji 99 part 3 adds a military-thought layer: tactical sophistication and reward systems are treated as lower forms unless they are joined to people-support and legitimacy.
+- Qinji 99 part 4 adds command-signal discipline and civilian-protection rules while warning that renyi language does not remove war's violent reality.
+- Qinji 105 adds a frontier anti-cavalry branch: transformed Warring States armies can mix walls, signals, intelligence, riding, archery, bait, and encirclement rather than relying on one arm alone.
 
 ## Connections
 - [[WeiState|魏国]], [[SuQin|苏秦]], and [[HezongAlliance|合纵]] - source setting and diplomatic use.
@@ -53,3 +62,6 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], [[GongsunXiWarringStates|公孙喜]], and [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhouji 67 command-analysis and separate-defeat branch.
 - [[ZhaoShe|赵奢]], [[EyuBattle|阏与 / 燕宇之战]], [[XuLiWarringStates|许历 / 许立]], [[BattlefieldInformationControl|战场信息控制]], and [[HighGroundTimingAdvantage|制高点时机优势]] - Zhouji 87 command-sequencing and terrain-timing branch.
 - [[ChangpingBattle|长平之战]], [[BaiQi|白起]], [[WangLing|王陵]], [[Handan|邯郸]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 encirclement scale and post-victory exhaustion.
+- [[Xunzi|荀子]], [[LinwuJun|临武君]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], [[ProfitDrivenArmyLimits|功利型军队局限]], and [[MilitaryMeritRankSystem|军功爵制]] - Qinji 99 part 3 military classification and legitimacy branch.
+- [[XunzianCommandRestraint|五权三制]], [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], and [[CarlVonClausewitz|克劳塞维茨]] - Qinji 99 part 4 command order and war-realism branch.
+- [[LiMu|李牧]], [[Xiongnu|匈奴]], [[FrontierDefensivePatience|边境防御耐心]], [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]], and [[WarringStatesNorthernGreatWalls|战国北境长城]] - Qinji 105 Zhao frontier anti-raiding branch.

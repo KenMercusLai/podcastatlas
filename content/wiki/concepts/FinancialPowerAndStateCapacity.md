@@ -2,8 +2,8 @@
 title: "Financial Power And State Capacity"
 type: concept
 tags: [finance, politics, institutions, state-capacity]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py]
-last_updated: 2026-07-07
+sources: [zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py]
+last_updated: 2026-08-21
 ---
 
 # Financial Power And State Capacity
@@ -14,9 +14,12 @@ The concept connects state capacity to verification and trust. A government or m
 
 [[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]] adds a disaster-relief finance branch through [[SongZiwen]] and the U.S. wheat loan after the 1931 flood. The episode treats international finance as capacity because it could move food and funds into relief, but also as a debt and usability problem when wheat did not match southern cooking practices and later burdened the government.
 
+[[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] adds a much earlier state-finance example through [[QinState|秦国]]. In the episode's reading, exchanging grain for the lowest Qin rank during locust and epidemic pressure works like emergency finance: the state receives immediate food resources, while the return to contributors is status rather than direct cash or high office.
+
 ## Connections
 - [[AccountingInfrastructure]] — verification and tax systems as state capacity.
 - [[RepublicanChinaBankingSystem]] — institutional banking structure behind Nationalist finance.
 - [[TreasuryBondSpeculation]] — state-credit instrument turned into elite-profit mechanism.
 - [[CurrencyCredit]], [[SilverDollarCredit]], and [[BorderRegionCurrencyCredit]] — monetary trust cases from the source.
 - [[SongZiwen]], [[NationalistGovernment]], [[FamineEntitlementFailure]], and [[DisasterReliefMismatch]] - relief-finance extension from episode 65.
+- [[RankSaleDisasterFinance|鬻爵赈灾融资]], [[MilitaryMeritRankSystem|军功爵制]], and [[DisasterResponseStateCapacity]] - Qinji 106 rank-for-grain emergency finance.

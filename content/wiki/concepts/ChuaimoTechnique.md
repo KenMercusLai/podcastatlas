@@ -2,7 +2,7 @@
 title: "揣摩 / Chuaimo Technique"
 type: concept
 tags: [rhetoric, persuasion, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
+sources: [zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 
 [[zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]] extends chuaimo from speechcraft into personnel manipulation. Su Qin reads [[ZhangYiStrategist|张仪]]'s pride and desire for revenge, then uses humiliation and hidden funding to push him toward [[QinState|秦国]], where Zhang Yi's access to [[YingSi|秦惠文王]] can indirectly protect Su Qin's [[HezongAlliance|合纵]] timetable.
 
+[[zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr]] adds a darker Yan-court version. [[SuDai|苏代]] reads [[YanWangKuai|燕王哙]]'s desire to prove trust and greatness, then [[LuMaoshou|鹿毛寿]] reads his attraction to ancient abdication fame. Their arguments do not merely persuade a policy choice; they move the ruler toward giving [[ZiZhi|子之]] appointment power and breaking succession rules.
+
 [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] extends the technique through repeated audience calibration. Su Qin uses the same anti-Qin coalition goal with different evidence: [[HanXuanhuiwang|韩宣惠王]] hears about finite Han land and infinite Qin demands, Wei is addressed through army strength, [[QiState|齐国]] through [[Linzi|临淄]] prosperity, and [[ChuWeiwang|楚威王]] as the final state needed to complete the chain.
 
 [[zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]] extends chuaimo through [[Chunshenjun|黄歇 / 春申君]]'s letter to [[QinZhaoxiangwang|秦昭襄王]]. Huang Xie reads Qin's pride in strength, fear of overextension, distrust of Han and Wei, and appetite for a better sequence, then makes Chu's survival appear as Qin's own strategic prudence. This is chuaimo less as emotional provocation than as a structured map of the stronger side's incentives.
@@ -28,6 +30,7 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 - The successful Yan case works because Su Qin frames [[ZhaoState|赵国]] as [[YanState|燕国]]'s shield against [[QinState|秦国]], matching Yan's weakness and fear.
 - Chuaimo is therefore a practical bridge from study to [[HezongAlliance|合纵]] rather than a generic claim that knowledge automatically creates success.
 - In Zhouji 31, the same reading skill applies to another strategist's emotions and career incentives, not only to a ruler's fear.
+- In Zhouji 47, chuaimo can weaponize a ruler's good self-image and self-doubt, converting trust rhetoric into institutional capture.
 - In Zhouji 32, chuaimo becomes [[DignityBasedPersuasion|dignity-based persuasion]] when threat analysis is tuned to what would make each ruler feel dishonored by submission.
 - In Zhouji 84, chuaimo can be defensive: a vulnerable envoy wins room for his state by reading what dangers the stronger ruler is prepared to recognize.
 - In Zhouji 88 part 2, chuaimo becomes protected remonstrance: the adviser reads the ruler's hidden grievance, the room's information risk, and the protection needed before the critique can be voiced.
@@ -35,6 +38,7 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 ## Connections
 - [[SuQin|苏秦]], [[ZhangYiStrategist|张仪]], [[YinfuJing|《阴符》]], and [[Guiguzi|鬼谷子]] - biographical, interpersonal, textual, and rhetorical sources of the concept.
 - [[YanWengong|燕文公]], [[YanState|燕国]], [[ZhaoState|赵国]], and [[QinState|秦国]] - successful persuasion case.
+- [[YanWangKuai|燕王哙]], [[ZiZhi|子之]], [[SuDai|苏代]], [[LuMaoshou|鹿毛寿]], and [[RuleBreakingAbdication|破坏规则式禅让]] - Zhouji 47 trust and abdication manipulation.
 - [[HezongAlliance|合纵]], [[ZonghengjiaDiplomacy|纵横家外交]], and [[CommonEnemyAlliance|共同敌人联盟]] - alliance and diplomatic setting.
 - [[DignityBasedPersuasion|尊严激将式说服]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 audience-specific extension.
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 84 incentive-reading and risk-reframing extension.

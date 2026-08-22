@@ -2,7 +2,7 @@
 title: "李白 / Li Bai"
 type: entity
 tags: [person, poet, tang-dynasty, chinese-literature]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]
+sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]
 last_updated: 2026-08-21
 ---
 
@@ -14,8 +14,11 @@ That lens matters because it contrasts with [[XunYue|荀悦]] and [[WangAnshi|�
 
 The page is source-scoped until later materials develop Li Bai independently. Here he is mainly a marker for how Warring States friendship stories could be re-aestheticized as noble spirit in later literature.
 
+[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] adds a second Warring States reception case. The episode says Li Bai admired [[LuZhonglian|鲁仲连]] for independent personality, free will, chivalric spirit, and wisdom, including through the poem cycle 《古风》. Li Bai therefore now marks not only friendship loyalty around [[YuQing|虞卿]], but also later poetic attraction to high-minded independence.
+
 ## Connections
 - [[YuQing|虞卿]] and [[WeiQiWarringStates|魏齐]] - friendship pair admired in the episode's Li Bai reception layer.
 - [[XunYue|荀悦]] and [[WangAnshi|王安石]] - contrasting readers of the same event.
 - [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - values made attractive in this reception frame.
 - [[TangPoetryCulturalGeography|唐诗文化地理]] - adjacent existing poetry-reception branch, though this source does not develop Li Bai's geography.
+- [[LuZhonglian|鲁仲连]], [[MoralizedShiIdentity|士的道德化身份]], and [[VirtuePracticeInternalization|修养内化]] - Qinji 101-2 admiration for independent high士 conduct.

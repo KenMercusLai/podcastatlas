@@ -2,8 +2,8 @@
 title: "Moralized War Pretext / 道德化战争借口"
 type: concept
 tags: [diplomacy, war, legitimacy, propaganda, warring-states]
-sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]
+last_updated: 2026-08-22
 ---
 
 # Moralized War Pretext / 道德化战争借口
@@ -14,15 +14,19 @@ The concept does not mean the moral charges are automatically false. In the sour
 
 This sits between [[CommonEnemyAlliance|共同敌人联盟]] and [[MoralReputationPoliticalCapital|道德名望政治资本]]. A common enemy supplies strategic direction; moralized pretext supplies permission, recruitment, and public cover. In the episode, [[QiMinWang|齐湣王]]'s agents spread Song Kang Wang's cruelty stories before Qi, Chu, and Wei move together, turning reputation into war infrastructure.
 
+[[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0]] adds a post-victory imperial version through [[ConquestSelfDefenseNarrative|兼并自卫叙事]]. After [[QinState|秦国]] has already destroyed the six states, its explanation still moralizes each war: the fallen states are described as oath-breakers, rebels, attackers, assassination sponsors, or conspirators. Here the pretext is less about coordinating a coalition than about making conquest governable after the fact.
+
 ## Key Claims
 - A war can have both material incentives and moral language; the concept tracks the conversion between them.
 - Publicizing a ruler's cruelty can help coordinate states that already have territorial or security reasons to attack.
 - Moral pretext works best when the target has already damaged domestic support and elite reputation.
 - The pattern is compatible with true wrongdoing, exaggerated wrongdoing, or a mixture of both.
 - The Song case links pretext to [[VanquishedRulerReputationConstruction|亡国君污名建构]] because defeat can freeze the hostile version of the ruler's image.
+- After victory, moralized pretext can become a public memory framework that presents conquest as necessary punishment.
 
 ## Connections
 - [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[TengState|滕国]], and [[QiMinWang|齐湣王]] - source case.
 - [[QiState|齐国]], [[ChuState|楚国]], and [[WeiState|魏国]] - states that make the moral claim militarily consequential.
 - [[CommonEnemyAlliance|共同敌人联盟]], [[WarringStatesAllianceSwitching|战国同盟转向]], and [[EnvoyKillingTaboo|不斩来使]] - adjacent alliance and pretext mechanisms.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[MoralReputationPoliticalCapital|道德名望政治资本]], and [[VanquishedRulerReputationConstruction|亡国君污名建构]] - reputation and legitimacy concepts.
+- [[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0|Qinji 120-1]], [[QinState|秦国]], and [[ConquestSelfDefenseNarrative|兼并自卫叙事]] - post-unification conversion of conquest into punitive self-defense.

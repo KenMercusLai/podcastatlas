@@ -2,7 +2,7 @@
 title: "长平之战 / Battle of Changping"
 type: entity
 tags: [battle, zhao-state, qin-state, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
+sources: [zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]
 last_updated: 2026-08-21
 ---
 
@@ -38,6 +38,8 @@ This keeps Changping's afterlife from being a clean military sequence. The battl
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] adds the next afterlife: Changping makes [[Handan|邯郸]] exposed but also harder to break. Bai Qi reads the outcome as both a Qin constraint and a Zhao wound: Qin's forces are depleted, while Zhao's survivors and capital defenders are joined by rage over the massacre. That reading feeds Qin's command-refusal crisis and Zhao's rescue diplomacy through [[Pingyuanjun|平原君]].
 
+[[zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]] adds an external misreading of Changping's aftermath. [[YanWangXi|燕王喜]] and [[LiFuWarringStates|栗腹]] interpret Zhao's adult male losses as a chance to attack, despite [[LeJian|乐间]]'s warning that [[ZhaoState|赵国]] remains a hardened fighting state. [[LianPo|廉颇]]'s victory in the [[HaodaiBattle|鄗代之战]] makes Changping's afterlife a case where disaster leaves both weakness and sharpened defensive capacity.
+
 ## Connections
 - [[Shangdang|上党]], [[FengTing|冯亭]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - decision prelude.
 - [[ZhaoState|赵国]], [[QinState|秦国]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[Pingyuanjun|平原君]] - states and Zhao decision figures.
@@ -53,3 +55,4 @@ This keeps Changping's afterlife from being a clean military sequence. The battl
 - [[YuQing|虞卿]], [[LouHuan|楼缓]], [[KongBin|孔斌]], [[LandForPeaceExhaustionTrap|抱薪救火式割地求和]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 cession debate and neighboring-state opportunism after Changping.
 - [[WeiQiWarringStates|魏齐]], [[Pingyuanjun|平原君]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 ethical-hostage branch inside the post-battle aftermath.
 - [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], and [[HezongAlliance|合纵]] - Zhouji 96 Handan rescue setup after Changping.
+- [[YanWangXi|燕王喜]], [[LiFuWarringStates|栗腹]], [[LeJian|乐间]], [[LianPo|廉颇]], [[HaodaiBattle|鄗代之战]], and [[PostDisasterPredationMisread|灾后趁虚误判]] - Qinji 100-2 Yan's failed reading of Zhao's remaining capacity after Changping.

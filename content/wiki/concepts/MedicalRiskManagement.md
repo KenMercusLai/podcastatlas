@@ -2,8 +2,8 @@
 title: "Medical Risk Management"
 type: concept
 tags: [healthcare, risk, clinical-systems]
-sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-17
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]
+last_updated: 2026-08-21
 ---
 
 # Medical Risk Management
@@ -17,6 +17,8 @@ The episode also treats modern medicine as a system built around fallible people
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds a women's-health diagnostic version through [[SurbhiSarna]]'s ovarian-cyst story. The source says an ovarian biopsy can be risky if sampling spreads malignant cells in the abdominal cavity, while existing blood tests were weak for premenopausal patients; [[FallopianTubeAccessDiagnostics]] therefore becomes a risk-management answer as much as a product idea.
 
 [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] adds a consumer biohacking version through [[GrayMarketPeptides]]. The risk-management problem is not only whether a peptide has ever helped someone; it is whether the user knows the compound, dose, sterility, interactions, clinical evidence, and manufacturing standards well enough to treat self-injection as a responsible intervention.
+
+[[all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]] adds a supervised-psychedelic version through [[5MeODMT|5-MeO-DMT]]. [[BryanJohnson|Bryan Johnson]] argues that many bad psychedelic outcomes involve unknown dose, poor set and setting, and lack of supervision, while the hosts still press on psychosis, bad trips, life disruption, and value changes. The source therefore expands medical risk beyond acute physiology into [[PsychedelicIdentityDisruption|identity and obligation risk]].
 
 [[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]] adds an ordinary acute-illness version. The hosts describe hydration, nutrition, mood, rest, and not casually mixing medication as personal recovery experience, while also stressing [[MedicalKnowledgeBoundary]]: even hospital testing may not identify every infection, and early expert advice can change as evidence accumulates.
 
@@ -36,6 +38,7 @@ The episode also treats modern medicine as a system built around fallible people
 - In extreme surgery, avoiding the risky intervention may also be a risk decision, especially when the patient has few remaining options.
 - Institutional risk control can become counterproductive when it punishes clinicians without fixing payment incentives, patient routing, care capacity, or evidence standards.
 - The 面基 source adds that medical liability should lower patient harm risk without making doctors' practice risk so high that useful care becomes harder to provide.
+- The All-In source adds that psychedelic and longevity experiments need risk controls for psychiatric vulnerability, setting, dose, supervision, follow-up, and downstream personal-continuity effects.
 
 ## Connections
 - [[HumanValueAIDeployment]], [[RiskCostSeparation]], and [[AffordableCareAct]] - 面基 branch on AI, insurance, liability, and health-care risk.
@@ -49,3 +52,4 @@ The episode also treats modern medicine as a system built around fallible people
 - [[InfectiousDiseasePublicLiteracy]] and [[MedicalKnowledgeBoundary]] - sickbed reading-list extension around infection recovery and medicine's limits.
 - [[StephenWestaby|Stephen Westaby / 史蒂芬·维斯塔比]], [[HighRiskSurgicalInnovation]], [[ArtificialHeartBridgeTherapy]], and [[SurgicalOutcomeMetricDistortion]] - cardiac-surgery extension from episode 86.
 - [[JapaneseMedicalCollapse]], [[DPCDRGPaymentReform]], and [[HealthcareImpossibleTriangle]] - system-incentive and defensive-medicine branch added by vol.120.
+- [[BryanJohnson]], [[5MeODMT|5-MeO-DMT]], [[PsychedelicLongevityHypothesis]], [[PsychedelicIdentityDisruption]], [[MitochondrialTherapy]], and [[CellularReprogrammingControlProblem]] - supervised high-risk self-experiment branch added by All-In.

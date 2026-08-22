@@ -2,13 +2,15 @@
 title: "AI Health Management"
 type: concept
 tags: [ai, healthcare, health-management]
-sources: [tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tsr-s2-adoracheung-v5, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tsr-s2-adoracheung-v5, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]
+last_updated: 2026-08-22
 ---
 
 # AI Health Management
 
 AI health management is the episode's boundary for useful medical AI: AI can read [[PersonalHealthData]], summarize long histories, detect trends, explain reports, flag overlooked possibilities, and prepare better questions for doctors, but it should not replace medical diagnosis, treatment, or prescription authority. In [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]], [[JiangXun]] argues that the valuable AI opportunity is earlier health-risk awareness rather than a chatbot pretending to be a physician.
+
+[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds [[MarkCuban|Mark Cuban]]'s operator-patient version. Cuban says he uses AI health tools, has invested in [[OpenEvidence]], and finds value when AI reasons over medication timing, supplements, blood tests, and longitudinal personal trends before a doctor visit. The source keeps that usefulness inside [[HumanJudgmentUnderAI]]: AI can widen patient preparation and physician recall, but doctors still supply clinical responsibility, empathy, visual assessment, and communication.
 
 This frame depends on longitudinal data and clinician oversight. Hospitals often see a patient at a specific time point and judge whether indicators cross a threshold; health management asks how those indicators moved, what personal context changed, and whether a pattern deserves professional review before a clear disease state appears.
 
@@ -36,9 +38,11 @@ This frame depends on longitudinal data and clinician oversight. Hospitals often
 - Preventive health services can complement AI health management when they produce better data and clearer questions without claiming to replace clinical judgment.
 - E227 adds that consumer health AI may support triage and early feedback, but only when users can inspect sources, escalate to doctors, and keep clinical responsibility outside the chatbot.
 - Behavioral-signal AI can support mental-health research, but sensitive inference about identity or vulnerability strengthens the need for privacy, consent, and clinical oversight.
+- Cuban's OpenEvidence example adds that personal AI health use is most defensible when it turns longitudinal data into better questions and source-grounded preparation for clinicians.
 
 ## Connections
 - [[PersonalHealthData]] — data substrate for AI health management.
+- [[MarkCuban|Mark Cuban]], [[OpenEvidence]], [[MedicalAIWorkflowIntegration]], and [[HumanJudgmentUnderAI]] — All-In branch on patient preparation and doctor augmentation.
 - [[ChatGPTHealth]], [[HealthBench]], [[HIPAAConstrainedMedicalAI]], and [[EvidenceGroundedMedicalRAG]] — healthcare AI product, evaluation, privacy, and evidence branch added by E227.
 - [[ContinuousGlucoseMonitoring]] — device category used to discuss dense trend signals.
 - [[HumanJudgmentUnderAI]] — final decision and responsibility remain human and professional.

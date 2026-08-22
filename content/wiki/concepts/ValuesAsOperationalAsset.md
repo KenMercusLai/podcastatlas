@@ -2,8 +2,8 @@
 title: "Values As Operational Asset"
 type: concept
 tags: [governance, strategy, trust, operations]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-07-23
+sources: [all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-08-21
 ---
 
 # Values As Operational Asset
@@ -18,6 +18,8 @@ The idea is related to [[TrustAsBusinessAsset]], but the emphasis is operational
 
 [[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds the [[Gusto]] version. [[JoshReeves]], [[EddieKim]], and [[TomerLondon]] describe shared values such as growth mindset, humility, service, ambition, kindness, and competitiveness as hiring and communication filters, while distinguishing enduring values from office traditions such as taking shoes off.
 
+[[all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895]] adds the [[KochIndustries|Koch Industries]] version through [[CharlesKoch|Charles Koch]] and [[ChaseKoch|Chase Koch]]. The source argues that principles failed when they stayed at the level of seminars or vocabulary, as in Charles's [[Molex]] example, and became operational only when hiring, management changes, incentives, employee empowerment, and project exits changed behavior.
+
 ## Key Claims
 - A value becomes operational when it changes a product roadmap, review rule, supplier contract, legal stance, or executive decision under pressure.
 - [[AppleAccessibility]] shows values becoming design inputs: edge-case users can force better interaction design for everyone.
@@ -28,6 +30,7 @@ The idea is related to [[TrustAsBusinessAsset]], but the emphasis is operational
 - In a startup, values become operational when they are clear enough to affect hiring, firing, remote communication, and how much ego the company tolerates.
 - Ethical values fail operationally if employees cannot safely report small concerns before those concerns become legal, regulatory, or patient-safety crises.
 - Values should not be confused with traditions; traditions can signal culture, but values matter when they affect hiring, feedback, and decisions under pressure.
+- The Koch source adds that values can protect a capability-based growth model only when leaders are selected for values before talent and credentials.
 
 ## Connections
 - [[TimCook]], [[Apple]], and [[SteveJobs]] — leadership and comparison frame.
@@ -37,4 +40,5 @@ The idea is related to [[TrustAsBusinessAsset]], but the emphasis is operational
 - [[TracyYoung]], [[TigerEye]], [[SecondTimeFounderOperatingJudgment]], and [[StageAppropriateHiring]] — startup-values extension from The Social Radars.
 - [[Theranos]], [[TylerShultz|Tyler Shultz]], [[WhistleblowerLegalIntimidation]], and [[ProtectedWhistleblowerChannels]] - values-under-crisis extension from The Social Radars.
 - [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[CoFounderRelationshipMaintenance]] - values and founder-team operating case added by The Social Radars.
+- [[KochIndustries|Koch Industries]], [[CharlesKoch|Charles Koch]], [[ChaseKoch|Chase Koch]], [[KochOperatingPrinciples]], [[ValuesFirstTalent]], [[Molex]], and [[GeorgiaPacific|Georgia-Pacific]] - principle-to-behavior branch added by All-In.
 - [[AppStore]] and [[IPhone]] — platform and device surfaces where values become user-facing.

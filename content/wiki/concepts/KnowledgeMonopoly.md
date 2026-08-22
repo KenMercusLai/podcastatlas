@@ -2,8 +2,8 @@
 title: "Knowledge Monopoly"
 type: concept
 tags: [knowledge, institutions, power, literature]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
-last_updated: 2026-07-14
+sources: [zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
+last_updated: 2026-08-22
 ---
 
 # Knowledge Monopoly
@@ -16,6 +16,8 @@ In the episode, the abbey's library is rich in classical, pagan, multilingual, a
 
 [[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds a Flatland version. After color threatens social recognition, ruling circles suppress not only the movement but also color language and memory; after the square learns about higher dimensions, the political order treats dimensional knowledge as dangerous. The source therefore extends knowledge monopoly from books and libraries into forbidden perceptual categories.
 
+[[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] adds a Qin imperial version. [[LiSi|李斯]]'s book-burning proposal limits private classics, private histories, and private teaching while leaving official copies and practical texts with state-acceptable uses. This turns knowledge monopoly from a library or category-control problem into a state-building instrument: who may teach, cite antiquity, or learn law becomes part of political order.
+
 ## Key Claims
 - Restricting knowledge can be defended as preservation, safety, or spiritual protection while also consolidating authority.
 - Catalogues, languages, architecture, and access rules can be as important as book ownership itself.
@@ -23,6 +25,7 @@ In the episode, the abbey's library is rich in classical, pagan, multilingual, a
 - Detective investigation becomes politically difficult when evidence is inside a controlled knowledge institution.
 - Knowledge control can turn preservation into loss when the institution values secrecy above shared responsibility.
 - A regime can monopolize knowledge by making certain words, colors, or directions unsayable, not only by locking away texts.
+- Qinji 124 adds that a state can monopolize knowledge by keeping practical and legal learning in official channels while suppressing private historical and classical interpretation.
 
 ## Connections
 - [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] - source case.
@@ -34,3 +37,4 @@ In the episode, the abbey's library is rich in classical, pagan, multilingual, a
 - [[AristotlePoeticsBookTwo|亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II]] - forbidden text at the center of the lower-half source.
 - [[PostApocalypticCivilizationPreservation]] - adjacent monastic preservation concept with a different emphasis on survival through collapse.
 - [[Flatland|《平面国》 / Flatland]], [[ColorAsIdentityDisruption]], and [[DimensionalAllegory]] - episode 40's extension into forbidden visual and dimensional categories.
+- [[QinBookBurningPolicy|秦代焚书令]], [[OfficialLearningMonopoly|学在王官式知识垄断]], [[LiSi|李斯]], [[Shijing|《诗经》]], and [[Shangshu|《尚书》]] - Qinji 124 state-learning extension.

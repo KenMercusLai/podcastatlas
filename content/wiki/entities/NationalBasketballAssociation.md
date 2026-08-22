@@ -2,8 +2,8 @@
 title: "National Basketball Association"
 type: entity
 tags: [sports, basketball, league]
-sources: [how-we-got-free-agents-in-baseball, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, planet-money-vs-the-nbas-tanking-problem, diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
-last_updated: 2026-08-16
+sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, how-we-got-free-agents-in-baseball, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, planet-money-vs-the-nbas-tanking-problem, diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-22
 ---
 
 # National Basketball Association
@@ -22,6 +22,8 @@ The NBA page's wiki role is not league history; it is sports-integrity context. 
 
 [[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a team-valuation signal through the [[LosAngelesLakers|Los Angeles Lakers]]. The source says the Lakers' reported $12.5 billion valuation was helped by expectations for the NBA's new media-rights income, making the league relevant to asset valuation as well as rights pricing, labor bargaining, betting integrity, and draft design.
 
+[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds [[MarkCuban|Mark Cuban]]'s former-owner view. Cuban says the NBA has not peaked because global and social-media fan growth remain strong, while apron rules make three-star roster construction harder and may increase parity. The same discussion links NBA and sports-team valuations to [[SportsMediaRights]] and streaming-subscription retention rather than only attendance or wins.
+
 ## Connections
 - [[MajorLeagueBaseball]], [[NationalFootballLeague|NFL]], [[BaseballFreeAgency]], [[SportsCollectiveBargaining]], [[SportsLaborRevenueSharing]], and [[SportsCompetitiveBalance]] - free-agency and salary-cap comparison branch added by Planet Money.
 - [[JontayPorter]] - player whose underperformance case grounds the episode.
@@ -32,3 +34,4 @@ The NBA page's wiki role is not league history; it is sports-integrity context. 
 - [[AdamSilver]], [[ZachLowe]], [[HoustonRockets]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[DraftLotteryTradeoff]], [[DraftWheel]], [[GoldPlan]], and [[NoDraftPlayerMarket]] - tanking and draft-design branch added by the new Planet Money source.
 - [[Tencent]], [[SportsMediaRights]], [[SportsRightsBusinessModel]], [[SportsRightsBubble]], and [[UFC]] - rights-market branch added by E237.
 - [[LosAngelesLakers]], [[SportsEntertainmentFlywheel]], and [[AIResistantExperientialConsumption]] - premium team valuation branch added by 声动早咖啡.
+- [[MarkCuban|Mark Cuban]], [[SportsMediaRights]], [[LiveSportsStreamingTransition]], and [[SportsEntertainmentFlywheel]] - NBA growth, roster-parity, and streaming-valuation branch added by All-In.

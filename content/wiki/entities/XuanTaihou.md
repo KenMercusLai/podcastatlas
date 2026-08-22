@@ -2,7 +2,7 @@
 title: "芈八子 / 宣太后 / Xuan Taihou"
 type: entity
 tags: [person, queen-mother, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
+sources: [zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ last_updated: 2026-08-21
 
 [[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] uses Xuan Taihou's death as the transition marker into 265 BCE. Her disappearance from Qin politics and [[WeiRan|魏冉]]'s removal make room for [[QinZhaoxiangwang|秦昭襄王]] to set [[QinXiaowenwang|安国君柱]] as crown prince while the narrative turns to another queen-mother figure, [[ZhaoWeihou|赵威后]], in Zhao.
 
+[[zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b]] uses Xuan Taihou as a comparison case for [[ZhaoJi|赵姬]]. The host contrasts Xuan Taihou's relatively open relationship with the [[YiquState|义渠]] king and later male favorite with Zhao Ji's need to hide Lao Ai in [[YongchengQin|雍城]], reading the difference as a matter of political capital, court control, and changing Qin norms rather than only private morality.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - son whose accession brings her into the wiki.
 - [[QinWuwang|秦武王]] - predecessor whose death creates the succession opening.
@@ -39,3 +41,4 @@ last_updated: 2026-08-21
 - [[QinFourNoblesCourtPower|秦国四贵权力结构]], [[HuayangJunQin|华阳君]], [[JingyangJunQin|泾阳君]], and [[GaolingJunQin|高陵君]] - Zhouji 89 four-nobles structure under the queen-mother shadow.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinFourNoblesCourtPower|秦国四贵权力结构]] - Zhouji 90 authority recovery with source-scope caution about formal deposition.
 - [[ZhaoWeihou|赵威后]], [[QueenMotherRegency|太后摄政]], and [[QinXiaowenwang|安国君柱 / 秦孝文王]] - Zhouji 91 transition from Qin queen-mother power to Zhao regency crisis.
+- [[ZhaoJi|赵姬]], [[LaoAi|嫪毐]], [[YongchengQin|雍城]], and [[PalaceScandalPowerConsolidation|宫廷丑闻式收权]] - Qinji 108-3 comparison between powerful and politically exposed Qin queen-mother relationships.

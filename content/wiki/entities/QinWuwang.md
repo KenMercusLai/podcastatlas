@@ -2,8 +2,8 @@
 title: "秦武王 / King Wu of Qin"
 type: entity
 tags: [person, ruler, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+last_updated: 2026-08-22
 ---
 
 # 秦武王 / King Wu of Qin
@@ -28,6 +28,8 @@ The same episode makes Qin Wuwang the ruler whose trust must be bound before the
 
 [[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] continues that afterlife into purge detail. [[YingZhuang|嬴壮]] and other royal or official factions revolt, Wei Ran crushes them, [[QinHuiwenhou|惠文后]] is secretly executed, and Qin Wuwang's wife is sent back to [[WeiState|魏国]]. The episode therefore makes Qin Wuwang's death the trigger not only for succession uncertainty but also for a court replacement under [[XuanTaihou|芈八子 / 宣太后]] and [[ForeignRelativeCourtPolitics|楚系外戚政治]].
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] uses Qin Wuwang as the counterfactual analogy for [[JingKe|荆轲]]'s mission. The host argues that a sudden ruler death can indeed produce Qin court struggle, as Qin Wuwang's ding-lifting death did, but also uses the comparison to limit [[YanTaiziDan|燕太子丹]]'s hope: disorder is not the same as a reliable chance to overturn [[QinState|秦国]]'s broader expansion.
+
 ## Connections
 - [[ZhangYiStrategist|张仪]] - minister whose departure he authorizes in the source's supplement.
 - [[YingSi|秦惠文王]] - predecessor named by the source.
@@ -39,3 +41,4 @@ The same episode makes Qin Wuwang the ruler whose trust must be bound before the
 - [[Luoyi|洛邑]], [[ZhouRoyalHouse|周王室]], [[QinZhaoxiangwang|秦昭襄王]], and [[XuanTaihou|芈八子 / 宣太后]] - Zhouji 58 death and succession branch.
 - [[WeiRan|魏冉]], [[SuccessionNonDesignationRisk|未定继承人风险]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 59 succession fight and Gan Mao fallout.
 - [[YingZhuang|嬴壮]], [[QinHuiwenhou|惠文后]], [[QueenMotherRegency|太后摄政]], and [[ForeignRelativeCourtPolitics|楚系外戚政治]] - Zhouji 60 purge and new court configuration.
+- [[JingKe|荆轲]], [[YanTaiziDan|燕太子丹]], and [[WeakStateAssassinationStrategy|弱国刺杀式破局]] - Qinji 115-1 counterfactual analogy for ruler death and Qin court disorder.

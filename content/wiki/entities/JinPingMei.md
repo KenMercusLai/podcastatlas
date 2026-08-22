@@ -2,7 +2,7 @@
 title: "《金瓶梅》 / Jin Ping Mei"
 type: entity
 tags: [book, literature, chinese-classics, novel]
-sources: [fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]
+sources: [zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]
 last_updated: 2026-08-04
 ---
 
@@ -18,6 +18,8 @@ In [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]],
 
 The source uses this comparison to argue that [[CaoXueqin|曹雪芹]] did not simply reject vernacular or market culture. Instead, [[HongLouMeng|《红楼梦》]] appears to absorb, refine, and recode material from 《金瓶梅》, turning food and banquet texture into aristocratic poetry, character contrast, and seasonal literary performance.
 
+[[zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy]] uses 《金瓶梅》 as a desire-reading comparison for the [[ZhaoJi|赵姬]] and [[LaoAi|嫪毐]] branch. The host cites the distinction between [[HongLouMeng|《红楼梦》]] as "情" and 《金瓶梅》 as "欲," while also stressing that Jin Ping Mei should not be dismissed as mere obscenity. Its "酒色财气" frame becomes a way to show how desire can expose household, status, and destruction rather than remain only titillating detail.
+
 ## Key Claims
 - 《金瓶梅》 can be entered through cleaned retelling without reducing the original's literary value to explicit material or denying that the full text is darker and harder.
 - The novel's opening uses [[WaterMargin|《水浒传》]] familiarity but shifts attention from heroic action toward household, market, desire, and social network.
@@ -26,6 +28,7 @@ The source uses this comparison to argue that [[CaoXueqin|曹雪芹]] did not si
 - 《金瓶梅》 supplies a socially and culinarily vivid crab-banquet comparison for later Red Chamber reading.
 - The episode treats the relation between the two novels as transformation rather than simple borrowing.
 - Food scenes help reveal class atmosphere, gendered sociability, and the boundary between market/lower urban texture and elite literary framing.
+- Qinji 108-2 uses the novel as an interpretive bridge: desire can be written as social and tragic structure, not only as scandal.
 
 ## Connections
 - [[Banlatte|半拿铁]], [[CleanEditionClassicReading]], [[UrbanEverydayFiction]], and [[HouseholdAsSocialWeb]] - source method and interpretive frames added by the Banlatte special.
@@ -35,3 +38,4 @@ The source uses this comparison to argue that [[CaoXueqin|曹雪芹]] did not si
 - [[HongLouMeng|《红楼梦》]] and [[CaoXueqin|曹雪芹]] - later novel and authorial branch compared in the source.
 - [[Crab|螃蟹]] and [[CrabCulturalSymbolism]] - food-object branch.
 - [[ClassicReadingComplexity]], [[GenreLiteraryLegitimacy]], [[FictionAsHistoricalEvidence]], and [[ClassicalPoeticIntertextuality]] - broader reading frames for tracking how older texts enter later works and later criticism.
+- [[ZhaoJi|赵姬]], [[LaoAi|嫪毐]], [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]], and [[FemaleSubjectivityInClassicReading|经典阅读中的女性主体性]] - Qinji 108-2 desire-reading comparison.

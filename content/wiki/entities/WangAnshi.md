@@ -2,7 +2,7 @@
 title: "王安石 / Wang Anshi"
 type: entity
 tags: [official, reformer, song-dynasty, china]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The source's critique is less that reform was unnecessary than that reform could
 
 The same source also uses Wang Anshi's own career path to contrast violent Warring States mobility with later institutional mobility. Wang Anshi can become chancellor through the mature Northern Song examination order, so his page now also touches [[ImperialExaminationOpportunityEquality|科举与机会平等]] rather than only reform politics.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Wang Anshi as background to the host's source-scoped reading of [[SimaGuang|司马光]]'s [[HanFei|韩非]] judgment. The episode argues that Sima Guang's anti-Legalist and anti-reform Song context, including opposition to Wang Anshi, shaped his harsher treatment of Han Fei in [[ZizhiTongjian|《资治通鉴》]]. This page records that as the episode's interpretive claim, not as an independently settled causal fact.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - principal literary-official opponent in the source.
 - [[OuyangXiu|欧阳修]] - senior figure who had recognized both talents.
@@ -35,3 +37,4 @@ The same source also uses Wang Anshi's own career path to contrast violent Warri
 - [[Mengzi|孟子 / Mencius]], [[YiMeng|《疑孟》]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26 reception-history extension.
 - [[Mengchangjun|孟尝君 / 田文]], [[WarringStatesRetainerPatronage|战国养士]], and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Zhouji 63 retainer-quality critique.
 - [[FanJu|范雎]], [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[LiBai|李白]], and [[ImperialExaminationOpportunityEquality|科举与机会平等]] - Zhouji 95 part 4 official-risk reading and examination-mobility contrast.
+- [[HanFei|韩非]], [[SimaGuang|司马光]], [[ZizhiTongjian|《资治通鉴》]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - source-scoped claim that anti-reform Song politics shapes Han Fei reception.

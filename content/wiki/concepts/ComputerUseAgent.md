@@ -2,11 +2,13 @@
 title: "Computer Use Agent"
 type: concept
 tags: [agents, computer-use, interfaces]
-sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, vol-171-jiaru-women-you-wuxian-token-1-6682-1, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, vol-171-jiaru-women-you-wuxian-token-1-6682-1, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
+last_updated: 2026-08-21
 ---
 
 # Computer Use Agent
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds Anthropic's source-reported enterprise computer-use system to the category. The episode treats computer use as part of Anthropic's coding-first enterprise route and as a bridge from model capability to tools that can operate across existing software rather than only answer questions.
 
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds computer use as part of [[MicrosoftCopilot|Microsoft Copilot]]'s knowledge-work evolution. [[SatyaNadella|Satya Nadella]] groups reasoning, computer use, skills, and agent calls as capabilities that turn chat into work execution.
 

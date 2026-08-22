@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6259
+wiki_total_pages: 6463
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "RossBrawn"
     title: "Ross Brawn"
     url: "/wiki/entities/rossbrawn/"
+  - key: "RossUlbricht"
+    title: "Ross Ulbricht"
+    url: "/wiki/entities/rossulbricht/"
   - key: "RoswellIncident"
     title: "Roswell Incident / 罗斯维尔事件"
     url: "/wiki/entities/roswellincident/"
@@ -629,6 +632,9 @@ wiki_pages:
   - key: "RenNing"
     title: "任宁 / Ren Ning"
     url: "/wiki/entities/renning/"
+  - key: "RuJi"
+    title: "如姬 / Ru Ji"
+    url: "/wiki/entities/ruji/"
   - key: "RiguangPaidui"
     title: "日光派对播客联盟"
     url: "/wiki/entities/riguangpaidui/"

@@ -2,7 +2,7 @@
 title: "Collateral Punishment And Guilt By Association"
 type: concept
 tags: [law, criminal-law, punishment, family, records, legalism, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
+sources: [zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The source argues that this is hard to justify under either retribution or utili
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] adds the self-trap sequel. In the [[Shiji|《史记》]] lodging anecdote, an innkeeper will not host the fleeing Shang Yang without documentation because the innkeeper could be punished under Shang Yang's own rules. The episode uses that as [[LegalistSelfBindingBackfire|作法自毙]]: liability pressure makes ordinary people enforce the system even against its creator.
 
+[[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu]] adds a dynastic-purge version through [[QinErshi|胡亥 / 秦二世]]. [[ZhaoGao|赵高]] recommends harsh law and mutual implication as part of the attack on ministers and royal kin. The episode makes the household risk concrete through [[YingGao|嬴高]], who chooses a death petition because flight might implicate his family.
+
 ## Key Claims
 - A sentence can end while social and administrative punishment continues.
 - Record-based exclusion may be easier to administer than to justify.
@@ -23,6 +25,7 @@ The source argues that this is hard to justify under either retribution or utili
 - If punishment denies any path back into society, it weakens both proportionality and prevention.
 - In Shang Yang's Qin case, collective liability also functions as a surveillance infrastructure for state enforcement.
 - In the Shang Yang flight story, liability pressure can block mercy or discretion toward the rulemaker himself.
+- In Hu Hai's Qin case, fear of implicating family members can make royal victims choose managed death over flight.
 
 ## Connections
 - [[PunishmentTheoryTradeoff]] - theory background for why collateral punishment is unstable.
@@ -30,4 +33,5 @@ The source argues that this is hard to justify under either retribution or utili
 - [[LawMoralityBoundary]] - moral-disgust boundary around continuing stigma.
 - [[ShangYang|Shang Yang / 商鞅]] - historical Legalist contrast for collective punishment and harsh control.
 - [[ShangYangReforms]], [[QinState|秦国]], [[LegalistSelfBindingBackfire|作法自毙]], and [[WangYangming|王阳明]] - historical and comparative collective-liability branch added by Zhouji 13 and extended by Zhouji 23.
+- [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]], [[QinErshi|胡亥 / 秦二世]], [[ZhaoGao|赵高]], [[YingGao|嬴高]], and [[SuccessionLegitimacyPurge|继位合法性清洗]] - royal-purge branch where family implication shapes victim choices.
 - [[VeilOfIgnorance]] - weak-position test for rules imposed on offenders' families.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 4881
+wiki_total_pages: 5023
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "YenCarryTrade"
     title: "Yen Carry Trade"
     url: "/wiki/concepts/yencarrytrade/"
+  - key: "YiShuiFarewell"
+    title: "Yi Shui Farewell / 易水送别"
+    url: "/wiki/concepts/yishuifarewell/"
   - key: "YieldCurveInversion"
     title: "Yield Curve Inversion"
     url: "/wiki/concepts/yieldcurveinversion/"
@@ -62,6 +65,12 @@ wiki_pages:
   - key: "YunnanWildMushroomCulture"
     title: "Yunnan Wild Mushroom Culture"
     url: "/wiki/concepts/yunnanwildmushroomculture/"
+  - key: "YeGongHaolong"
+    title: "叶公好龙 / Ye Gong Hao Long"
+    url: "/wiki/concepts/yegonghaolong/"
+  - key: "YouxiaSuppressionUnderUnification"
+    title: "大一统下的游侠压制 / Youxia Suppression Under Unification"
+    url: "/wiki/concepts/youxiasuppressionunderunification/"
   - key: "YokaiImageExegesis"
     title: "妖怪图像阐释 / Yokai Image Exegesis"
     url: "/wiki/concepts/yokaiimageexegesis/"

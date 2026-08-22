@@ -2,8 +2,8 @@
 title: "Chronicle Source Gaps / 编年史料空缺"
 type: concept
 tags: [historiography, source-criticism, chinese-history]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-22
 ---
 
 # Chronicle Source Gaps / 编年史料空缺
@@ -22,6 +22,8 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds another compact-gap case under [[ZhouAnWang|周安王]]. The episode says 384 BCE has no entry, and it treats nearby notices such as [[WeiState|魏国]] defeating [[ZhaoState|赵国]] at Tutai as sparse enough that motive and result have to remain open rather than reconstructed as a full campaign.
 
+[[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] adds a late-Chu compactness case. The episode treats [[ZizhiTongjian|《资治通鉴》]]'s notice that [[WangJianQin|王翦]] and [[MengWu|蒙武]] captured [[ChuFuchu|楚王负刍]] while [[ChangpingJun|昌平君]] died as too compressed to explain Changping Jun's identity or his relation to [[LiXinQin|李信]]'s failed campaign. That gap motivates a separate, labeled reconstruction from [[LiKaiyuan|李开元]]'s [[QinMi|《秦谜》]].
+
 ## Key Claims
 - Sparse annals may reflect source survival, not the absence of events.
 - A responsible reader separates preserved chronology from reconstructed motive.
@@ -31,6 +33,7 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 - Source instability can also appear as a wrong date, not only as an absent entry.
 - Repeated blank years in a short reign-opening sequence should be marked as source texture rather than smoothed into a continuous campaign narrative.
 - Sparse war notices can show that conflict existed without giving enough evidence for motive, alliance structure, or final result.
+- A compact chronicle notice can create a problem of identity and causation even when the final event sequence is clear.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] and [[SimaGuang|司马光]] - chronicle and compiler frame.
@@ -42,3 +45,4 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 - [[ChronicleChronologyDrift]], [[QiWeiwang|齐威王]], [[SimaGuang|司马光]], and [[WarringStatesPeriod|战国时期]] - Zhouji 10 part 2 chronology-drift case.
 - [[ZhouXianwang|周显王]], [[QinState|秦国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[QinEastwardPressure]] - Zhouji 11 blank-year and supplemental-notice case.
 - [[ZhouAnWang|周安王]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 08 part 3 blank-year and sparse-war-notice case.
+- [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[ChangpingJun|昌平君]], [[LiKaiyuan|李开元]], and [[QinMi|《秦谜》]] - Qinji 118-1 compact-late-Chu and reconstruction case.

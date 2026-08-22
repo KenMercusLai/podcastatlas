@@ -2,8 +2,8 @@
 title: "Sports Media Rights"
 type: concept
 tags: [sports, media, rights, distribution]
-sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6, the-nfl-1]
-last_updated: 2026-08-16
+sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6, the-nfl-1]
+last_updated: 2026-08-22
 ---
 
 # Sports Media Rights
@@ -11,6 +11,8 @@ last_updated: 2026-08-16
 [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a rule-as-inventory example through the [[FIFAWorldCup|World Cup]]. The source says [[FIFA]] is considering keeping mandatory hydration pauses while packaging U.S. rights for 2030 and 2034, because fixed pauses can create predictable ad breaks for broadcasters such as [[FoxSports|Fox Sports]]. This links [[WorldCupHydrationPauseAdInventory]] to rights pricing, not only to player welfare.
 
 [[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a franchise-valuation extension through the [[LosAngelesLakers|Los Angeles Lakers]]. The source says the team's reported $12.5 billion valuation was linked partly to expectations for new [[NationalBasketballAssociation|NBA]] media-rights revenue, showing how rights growth can flow into team-asset pricing as well as league and player bargaining.
+
+[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds [[MarkCuban|Mark Cuban]]'s streaming-platform valuation layer. Cuban argues that sports-team valuations are increasingly driven by subscription services and churn rather than only attendance, wins, or traditional ratings. In this frame, [[LiveSportsStreamingTransition]] matters because sports rights become a retention product inside streaming bundles and a driver of [[SportsEntertainmentFlywheel|sports entertainment flywheels]].
 
 Sports media rights are the rights to broadcast or stream live sports and related coverage. In [[formula-1-1]], [[FormulaOne]] becomes more valuable when [[BernieEcclestone]] turns a fragmented set of race broadcasts into a more coherent rights product and when [[LibertyMedia]] later improves fan access, storytelling, and U.S. market development.
 
@@ -42,6 +44,7 @@ The concept connects to [[VerticalMediaDistribution]] but differs from owned ent
 - Country-level sports-rights bubbles should be judged by monetization capacity rather than by whether an absolute price is lower than a richer global benchmark.
 - Competition rules can change rights value when they create predictable ad inventory, as hydration pauses may do for World Cup broadcasts.
 - Rights expectations can raise team valuations when investors believe media revenue will continue compounding.
+- Streaming-era team valuations depend on whether live-sports subscribers stay subscribed after the games that attracted them.
 
 ## Connections
 - [[FormulaOne]], [[FormulaOneGroup]], [[BernieEcclestone]], [[LibertyMedia]], [[NationalFootballLeague|NFL]], [[PeteRozelle]], [[CBS]], [[ABC]], [[NBC]], [[Amazon]], [[YouTubeTV|YouTube TV]], [[Netflix]], [[ESPN]], [[Apple]], [[FIFA]], [[FIFAWorldCup]], [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[UEFA]], [[CAA]], [[RelevantSports]], and [[TeamMarketing]] - source cases and rights-market actors.
@@ -49,3 +52,4 @@ The concept connects to [[VerticalMediaDistribution]] but differs from owned ent
 - [[WNBA]], [[WNBAPlayersAssociation]], [[WomensSportsBusinessGrowth]], and [[SportsLaborRevenueSharing]] - player-labor extension added by the WNBA episode.
 - [[WorldCupHydrationPauseAdInventory]], [[FoxSports]], and [[SportsRightsBusinessModel]] - hydration-pause monetization branch added by 声动早咖啡.
 - [[LosAngelesLakers]], [[NationalBasketballAssociation|NBA]], and [[SportsEntertainmentFlywheel]] - team-valuation branch added by the Garmin episode's business-news segment.
+- [[MarkCuban|Mark Cuban]], [[LiveSportsStreamingTransition]], [[SportsEntertainmentFlywheel]], and [[NationalBasketballAssociation|NBA]] - subscription-retention valuation branch added by All-In.

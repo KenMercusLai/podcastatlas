@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 4881
+wiki_total_pages: 5023
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "BarbudaLandAct"
     title: "Barbuda Land Act"
     url: "/wiki/concepts/barbudalandact/"
+  - key: "BarrierRemovalSocialChange"
+    title: "Barrier-Removal Social Change"
+    url: "/wiki/concepts/barrierremovalsocialchange/"
   - key: "BaseCurrencyThinking"
     title: "Base Currency Thinking / 本币思维"
     url: "/wiki/concepts/basecurrencythinking/"

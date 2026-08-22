@@ -2,7 +2,7 @@
 title: "管仲 / Guan Zhong"
 type: entity
 tags: [person, minister, spring-and-autumn, qi-state, statecraft]
-sources: [zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ Guan Zhong's achievement is still limited in the episode's Xunzian and Confucian
 
 The page should stay source-scoped. The episode does not give a full Guan Zhong biography; it uses him to ask why capable administration, economic policy, and hegemonic success can still become [[PersonDependentGovernanceFragility|person-dependent governance fragility]] when the order collapses after the minister dies.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Guan Zhong as another [[YaoJia|姚贾]] defense precedent. Yao Jia cites him to argue that prior dishonor, divided service, or compromised biography cannot be a simple disqualification when later statecraft proves the person useful.
+
 ## Connections
 - [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] and [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] - source episodes.
 - [[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] and [[zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza]] - source episodes adding economic-warfare and financial-statecraft cases.
@@ -33,3 +35,4 @@ The page should stay source-scoped. The episode does not give a full Guan Zhong 
 - [[HengshanEconomicWarfare|恒山之谋]], [[PriceSignalResourceSteering|价格信号调控物流]], [[PrivateInterestAsPublicUse|私利转公功]], [[TradeHubStatecraft|商贸枢纽型治国]], [[TaxBaseOverResourceMonopoly|税基优先于资源独占]], and [[CountercyclicalPublicWorks|逆周期公共工程]] - Zhouji 75-4 economic-war and domestic-policy extensions.
 - [[Confucius|孔子]], [[Xunzi|荀子]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - evaluation frame.
 - [[ConfucianIdealGovernance|儒家理想治理]], [[WangdaoVsBadao|王道 versus 霸道]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - achievement-limit branch.
+- [[YaoJia|姚贾]] and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - precedent in Yao Jia's defense of tainted but useful talent.

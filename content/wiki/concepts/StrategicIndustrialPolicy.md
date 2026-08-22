@@ -2,11 +2,13 @@
 title: "Strategic Industrial Policy"
 type: concept
 tags: [industrial-policy, manufacturing, technology, trade]
-sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-21
 ---
 
 # Strategic Industrial Policy
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds a science-and-technology advisory extension. The source treats [[PCAST]] as a venue where builders and technology executives advise on AI, biotech, semiconductors, quantum, and nuclear power, linking industrial policy to discovery, commercialization, and China competition rather than only trade or manufacturing support.
 
 [[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] adds [[RahmEmanuel|Rahm Emanuel]]'s alliance-and-research version. He argues that rebuilding manufacturing should happen alongside software strength, public research, universities, immigration, and [[AlliedEconomicBlocAgainstChina]], making industrial policy part of a broader strategic-capacity system rather than a substitute for allies or science.
 

@@ -2,11 +2,13 @@
 title: "Online Age Verification"
 type: concept
 tags: [age-verification, child-safety, privacy, platform-regulation]
-sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]
+last_updated: 2026-08-21
 ---
 
 # Online Age Verification
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds a practical household-and-school enforcement layer. The hosts discuss broken age verification, [[COPPA]] weakness, app-store or device-level controls, parental opt-in, school phone lockers, social pressure, and school Chromebook/YouTube back doors.
 
 [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds the social-media-ban version through [[France]]'s under-15 ban and the [[Australia]] comparison. [[WillOremus]] argues that requiring platforms to know whether users are old enough may push them toward identity verification, with driver's-license uploads used as the concrete example.
 

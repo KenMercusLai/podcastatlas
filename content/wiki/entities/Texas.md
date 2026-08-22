@@ -2,11 +2,13 @@
 title: "Texas"
 type: entity
 tags: [place, state, energy, climate, carbon-removal, ai-policy, crypto]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
-last_updated: 2026-08-14
+sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+last_updated: 2026-08-22
 ---
 
 # Texas
+
+[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds Texas as an operating-culture and tax-policy comparison through [[MarkCuban|Mark Cuban]] and the [[AllIn|All-In]] hosts. The discussion contrasts Texas with [[California]] and New York on building, taxes, quality of life, and company formation, while Cuban argues that wealth-tax proposals can ignore behavioral responses and mobility. The source therefore connects Texas to [[CaliforniaWealthTaxCapitalFlight]] and founder operating environment, not only state regulation.
 
 [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds Texas as one of the states Curi names in [[PoliticalDeepfakeRegulation]]. The source says Texas, like Minnesota, prohibits some AI-generated political content shortly before an election, making the state part of the timing-ban side of the election deepfake patchwork rather than only consumer AI disclosure.
 
@@ -32,3 +34,4 @@ The source uses Texas as the fossil-fuel-backed contrast case. Support from an o
 - [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[SupremeCourt]], and [[DrewHarwell]] - explicit-content age-verification branch added by Marketplace Tech.
 - [[Tesla]], [[AVRide|AV Ride]], [[KirstenKorosek]], and [[AutonomousVehicleRegulatoryPatchwork]] - robotaxi testing and deployment context added by Marketplace Tech.
 - [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[AIElectionMisinformationRisk]] - election deepfake timing-ban branch added by Marketplace Tech.
+- [[MarkCuban|Mark Cuban]], [[AllIn|All-In]], [[California]], and [[CaliforniaWealthTaxCapitalFlight]] - tax, mobility, building, and founder-operating-culture comparison added by All-In.

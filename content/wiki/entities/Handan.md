@@ -2,7 +2,7 @@
 title: "邯郸 / Handan"
 type: entity
 tags: [city, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,12 @@ The same source makes Handan the setting for [[XinyuanYan|新垣衍]]'s status-s
 
 This adds a morale layer to Handan's survival. Zhao is still waiting for Wei and Chu relief, but the city also needs internal time-buying through [[EliteCrisisBurdenSharing|elite burden sharing]]: commoners and soldiers are more likely to keep resisting when the highest household visibly loses its protected distance from the siege.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] records Handan's relief as the event that turns Qin's post-Changping pressure into political blowback inside Qin. Once [[Xinlingjun|信陵君]] has forced Wei's army forward and Chu aid joins the fight, Qin suffers defeats around the Zhao capital, [[WangHe|王龁]]'s requests for help intensify, and [[BaiQi|白起]]'s earlier refusal looks strategically correct. Handan therefore becomes the site whose survival preserves Zhao as a six-state barrier and helps trigger the [[DuyouSword|杜邮剑]] ending of Bai Qi's career.
+
+[[zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu]] adds a quieter Handan aftershock. [[QinZhuangxiangwang|异人 / 子楚]] has escaped with [[LuBuwei|吕不韦]], but [[ZhaoJi|赵姬]] and young [[QinShiHuang|嬴政 / 秦始皇]] remain in the city during the hostile Qin-Zhao environment. Handan is therefore not only the relieved Zhao capital; it is also the dangerous childhood setting left behind as the chronicle prepares to pivot toward Qin.
+
+[[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] gives Handan the endpoint that contrasts with the earlier rescue cycle. After [[LiMu|李牧]] and [[SimaShang|司马尚]] have been removed, [[WangJianQin|王翦]] defeats Zhao, [[ZhaoCong|赵葱]] is killed, [[YanJuZhao|颜聚]] flees, and Qin takes the city. The episode then makes Handan the site of [[QinShiHuang|嬴政 / 秦始皇]]'s personal revenge against old enemies from his childhood danger there.
+
 ## Connections
 - [[ZhaoState|赵国]] - state whose city is under siege.
 - [[WeiState|魏国]] - attacking state in the source.
@@ -51,3 +57,6 @@ This adds a morale layer to Handan's survival. Zhao is still waiting for Wei and
 - [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 stalled relief and appeasement proposal inside the crisis.
 - [[LuZhonglian|鲁仲连]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 anti-submission argument inside Handan.
 - [[LiTan|李谈 / 李同]], [[Pingyuanjun|平原君]], [[EliteCrisisBurdenSharing|贵族危机共担动员]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - Zhouji 96 part 4 siege suffering and elite household mobilization.
+- [[Xinlingjun|信陵君]], [[WeiState|魏国]], [[ChuState|楚国]], [[WangHe|王龁]], [[BaiQi|白起]], and [[DuyouSword|杜邮剑]] - Zhouji 97 part 1 relief outcome and Qin court aftershock.
+- [[ZhaoJi|赵姬]], [[QinShiHuang|嬴政 / 秦始皇]], [[QinZhuangxiangwang|异人 / 子楚]], and [[LuBuwei|吕不韦]] - Zhouji 98 Qin-family aftershock in Handan.
+- [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[WangJianQin|王翦]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], [[ZhaoCong|赵葱]], [[YanJuZhao|颜聚]], and [[PersonalRevengeThroughStatePower|以国力行私仇]] - final fall and revenge setting.

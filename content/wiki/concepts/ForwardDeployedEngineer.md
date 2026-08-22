@@ -2,11 +2,13 @@
 title: "Forward Deployed Engineer"
 type: concept
 tags: [enterprise-ai, deployment, role]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1, e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1]
-last_updated: 2026-08-20
+sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1, e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1]
+last_updated: 2026-08-22
 ---
 
 # Forward Deployed Engineer
+
+[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds [[MarkCuban|Mark Cuban]]'s "not plug-and-play" version. Cuban says enterprise AI remains hard because CEOs often do not understand the real implementation surface and ordinary users still need people who can turn prompts, agents, reports, permissions, and model behavior into working systems. The source makes FDE work a rebuttal to simple white-collar replacement claims as well as a deployment role.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a financial-control reason for FDE work. The panel argues that enterprises need people who can find real AI productivity, redesign workflows, and avoid ungrounded token spend; that makes FDE capacity part of [[EnterpriseAIROIAudit]] rather than only a deployment role.
 
@@ -34,6 +36,7 @@ Forward Deployed Engineer, abbreviated FDE, is the role for bringing AI into rea
 - The source also frames FDE as an ecosystem role: model companies, enterprise software vendors, consulting firms, and PE owners may all need versions of it, but the skill mix differs by where business know-how already lives.
 - The 瓴羊 source adds that FDE should be judged by business effects such as customer-service efficiency, marketing ROI, sales productivity, or conversion, not by the number of delivered features.
 - The same source treats China-side FDE as a team made of BA, AI architect, and customer expert roles rather than a single all-purpose person.
+- Cuban's All-In source adds that FDE work also includes repairing the gap between impressive agent demos and production tasks ordinary workers can actually use.
 
 ## Connections
 - [[OpenAI]] and [[Anthropic]] — frontier AI companies cited as emphasizing FDE-style enterprise AI deployment.
@@ -50,3 +53,4 @@ Forward Deployed Engineer, abbreviated FDE, is the role for bringing AI into rea
 - [[AIWorkflowTriage]] — workflow selection boundary that keeps FDE work from forcing AI into every step.
 - [[SAP]], [[YuanXin]], [[EnterpriseOperationalMemory]], and [[ERPTrustMoat]] — ERP-centered FDE and business-process know-how extension.
 - [[Lingyang|瓴羊]], [[PengXinyu|彭新宇]], [[ChineseStyleFDE]], and [[EnterpriseGrowthAgent]] — China-side FDE and growth-agent extension.
+- [[MarkCuban]], [[EnterpriseAIROIAudit]], [[AgentMaintenanceBurden]], and [[AIJobSecurityAnxiety]] — All-In branch around enterprise AI implementation difficulty and labor-displacement skepticism.

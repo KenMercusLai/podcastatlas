@@ -2,8 +2,8 @@
 title: "李兑 / Li Dui"
 type: entity
 tags: [person, minister, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]
+last_updated: 2026-08-22
 ---
 
 # 李兑 / Li Dui
@@ -18,6 +18,8 @@ Li Dui advises Fei Yi to claim illness and hand government to [[ZhaoChengWarring
 
 After Zhao Zhang is killed, Li Dui and Zhao Cheng fear that withdrawing will invite later punishment. They keep Zhao Wuling Wang surrounded, empty the palace, and leave him without food until he dies. The episode then places Li Dui in the new order as sikou, making him one of the people whose survival depends on completing the [[ShaqiuCrisis|Shaqiu]] settlement.
 
+[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] adds Li Dui as Fengyangjun and the holder of Zhao government while [[ZhaoHe|赵惠文王赵何]] is young. The episode places him on the pro-Qi anti-Qin side of Zhao's policy split and says he, like [[WeiRan|魏冉]], covets [[SongState|宋国]]'s wealth and especially [[Dingtao|陶 / 定陶]] as a fief target. This turns Li Dui from only a Shaqiu crisis actor into one example of how ministerial private interest can shape interstate alignment.
+
 [[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] reuses Li Dui as one of [[FanJu|范雎]]'s danger precedents. In Fan Ju's argument to [[QinZhaoxiangwang|秦昭襄王]], Li Dui's role in the Zhao crisis shows that ministers who control the court and military environment can convert ruler weakness into lethal confinement.
 
 ## Connections
@@ -27,4 +29,5 @@ After Zhao Zhang is killed, Li Dui and Zhao Cheng fear that withdrawing will inv
 - [[ZhaoChengWarringStates|赵成]] - person he wants to receive affairs if Fei Yi withdraws.
 - [[GaoXinWarringStates|高信]] - Zhao He's immediate defender before the Handan relief arrives.
 - [[ZhaoWulingwang|赵武灵王]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[ShaqiuCrisis|沙丘之变]] - wider succession-breakdown frame.
+- [[ZhaoHe|赵惠文王赵何]], [[QiMinWang|齐湣王]], [[WeiRan|魏冉]], [[SongState|宋国]], [[Dingtao|陶 / 定陶]], and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - Zhouji 68 part 1 Zhao policy split and Song-Dingtao fief ambition.
 - [[FanJu|范雎]], [[QinFourNoblesCourtPower|秦国四贵权力结构]], and [[ForeignRelativeCourtPolitics|楚系外戚政治]] - Zhouji 89 precedent use in a Qin court-power warning.

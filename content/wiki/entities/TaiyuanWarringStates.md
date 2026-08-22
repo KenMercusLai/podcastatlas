@@ -2,7 +2,7 @@
 title: "太原 / Taiyuan (Warring States)"
 type: entity
 tags: [place, zhao-state, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]
+sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]
 last_updated: 2026-08-21
 ---
 
@@ -12,7 +12,13 @@ last_updated: 2026-08-21
 
 Taiyuan's source role is to widen the campaign map. Qin's pressure after Changping is not just the emotional aftermath of a massacre; it is a military movement against surrounding strategic points that could open the road toward [[Handan|邯郸]].
 
+[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] turns Taiyuan from a target area into a Qin commandery notice. In the source's Qin Zhuangxiang Wang third-year frame, Qin attacks the parts of [[Shangdang|上党]] that had not submitted and first establishes Taiyuan commandery, making the post-Changping route more visibly part of Qin administration.
+
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] adds the immediate fragility of that new administrative layer. The source says Jinyang becomes the Taiyuan commandery seat, but after [[QinZhuangxiangwang|秦庄襄王]] dies and [[QinShiHuang|嬴政 / 秦始皇]] succeeds, Jinyang sees rebellion. Taiyuan therefore marks both Qin's expansion and the local instability that follows succession.
+
 ## Connections
 - [[SimaGeng|司马梗]] - Qin commander assigned to this route.
 - [[Shangdang|上党]], [[WuanWarringStates|武安]], and [[Pilao|皮牢]] - related targets in the same source.
 - [[QinState|秦国]], [[ZhaoState|赵国]], [[ChangpingBattle|长平之战]], and [[Handan|邯郸]] - campaign setting.
+- [[QinZhuangxiangwang|秦庄襄王]], [[QinShiHuang|嬴政 / 秦始皇]], and [[QinEastwardPressure|秦国东进压力]] - Qinji 103-1 commandery establishment inside continuing Qin expansion.
+- [[LuBuwei|吕不韦]] and [[QinState|秦国]] - Qinji 103-2 succession unrest after the commandery seat is established at Jinyang.

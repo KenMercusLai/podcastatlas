@@ -2,11 +2,13 @@
 title: "Research Institutions As Strategic Capacity"
 type: concept
 tags: [research, universities, science, national-security, united-states]
-sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]
 last_updated: 2026-08-21
 ---
 
 # Research Institutions As Strategic Capacity
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds the PCAST science-advisory version. [[DavidFriedberg|Friedberg]] says the advisory lineage reaches back to FDR-era science advising, and he frames [[China]]'s rising paper output as evidence that research institutions and industrialization of discovery are strategic capacity.
 
 Research institutions as strategic capacity is [[RahmEmanuel|Rahm Emanuel]]'s argument in [[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] that universities, national labs, NIH, NSF, DARPA, life sciences, and public research are core sources of U.S. power. He presents them as strategic assets in competition with [[China]], not as discretionary domestic spending.
 

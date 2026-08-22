@@ -2,8 +2,8 @@
 title: "Warring States Retainer Patronage / 战国养士"
 type: concept
 tags: [statecraft, talent, patronage, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
+last_updated: 2026-08-22
 ---
 
 # Warring States Retainer Patronage / 战国养士
@@ -30,6 +30,26 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]] completes that test by showing the hidden retainer outperforming the visible delegation. The other nineteen retainers initially look down on Mao Sui and then remain below the steps while he presses into the negotiation, forces the [[HezongAlliance|合纵]] commitment, and mocks them as people who merely "因人成事." Retainer patronage therefore has a second failure mode: the household may contain people with status and selection credentials who cannot act when the crisis demands initiative.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] shifts from Pingyuanjun's overlooked hidden talent to [[Xinlingjun|信陵君]]'s ability to make low-status worthiness visible. [[HouYing|侯嬴]] is not a conventional useful retainer candidate: he is old, poor, a gatekeeper, and unwilling to come for gifts. Xinlingjun has to recruit by public humility, while Hou Ying tests whether that humility survives inconvenience and a market detour to [[ZhuHaiWeiRetainer|朱亥]].
+
+This adds a positive reputation-production branch to retainer patronage. A large household can fail at selection, but a patron can also create trust by showing that low rank, age, and poverty do not prevent a person from being honored. That makes patronage depend on visible status reversal, not only on funding or headcount.
+
+[[zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]] adds the payoff and danger of that patronage. Hou Ying's earlier test matters because Xinlingjun now trusts him enough to abandon a useless death mission and follow an irregular plan. [[RuJi|如姬]]'s debt to Xinlingjun and [[ZhuHaiWeiRetainer|朱亥]]'s readiness to act show how a patronage network can reach palace bedrooms and army camps where formal policy is stuck.
+
+The same source also exposes the ethical risk. Retainer patronage supplies the people who can bypass [[WeiAnxiWang|魏安釐王]] and save [[ZhaoState|赵国]], but it also supplies the violence that kills [[JinBi|晋鄙]]. The network's effectiveness therefore sits beside [[MoralCostOfEffectiveRescue|moral cost]], not outside it.
+
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the after-action moral styling of that same network. [[HouYing|侯嬴]]'s timed suicide turns patronage recognition into [[RetainerReciprocityEthic|士为知己者死]], while [[ZhuHaiWeiRetainer|朱亥]] is described as a典型游侠 whose low-status market identity did not prevent death-level commitment. The concept therefore now includes not only how retainer networks execute state action, but how their participants are remembered through侠义 after the action succeeds.
+
+[[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] adds the post-rescue competition layer. Xinlingjun arrives in Zhao as a celebrated rescuer and keeps seeking low-status worthies, specifically [[MaoGong|毛公]] among gamblers and [[XueGong|薛公]] among wine sellers. Because [[Pingyuanjun|平原君]] already has a major Handan household, patronage now becomes a shared urban talent field where reputation, humility, and retainer movement can alter relations among the [[WarringStatesFourLords|战国四公子]].
+
+[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] shows that low-status association can become corrective counsel, not only recruitment display. [[MaoGong|毛公]] and [[XueGong|薛公]] rebuke [[Xinlingjun|信陵君]] for remaining in [[ZhaoState|赵国]] while [[WeiState|魏国]] is under Qin attack, and their advice converts reputation into return, command, and a five-state [[HezongAlliance|合纵]] victory. The same episode then marks a limit: in the [[GuanchengWarringStates|管城]] crisis, state-saving command pressure can demand morally impossible service from [[SuGao|苏高]] and [[AnlingJun|安陵君]].
+
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] adds a posthumous transmission mode. [[LiuBang|刘邦]] reportedly tries to join Xinlingjun's retainer world, misses him by death, and then turns to [[ZhangEr|张耳]], a former Xinlingjun retainer. The episode also reads Liu Bang's later open-handed recruitment style as modeled on Xinlingjun, so patronage now appears not only as a live household institution but as a portable political style.
+
+[[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] adds a late Yan assassination variant through [[YanTaiziDan|燕太子丹]] and [[JingKe|荆轲]]. Dan's high rank, lodgings, gifts, daily visits, and extreme favor displays are not neutral respect; the episode presents them as a way to bind Jing Ke to a death mission after [[TianGuang|田光]] has already supplied the honor pressure.
+
+[[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]] adds the control problem after that binding. Because Jing Ke is honored as guest and侠士 rather than hired agent, Dan cannot simply order him to depart. Dan's patronage has helped recruit the operative, but it does not give him reliable command authority; when anxiety turns into suspicion, the mission leaves through [[MistrustTriggeredMissionLaunch|mistrust-triggered mission launch]].
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
@@ -43,6 +63,14 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 - Zhouji 86 adds a fiscal-control failure mode: the expense and privilege of a great retainer household can become a tax-compliance problem for the state.
 - Zhouji 95 part 3 adds a refuge-control failure mode: protecting a guest can preserve aristocratic reputation while importing coercive pressure from a stronger state.
 - Zhouji 96 adds a talent-discovery failure mode: a patron can maintain a large household yet still overlook quiet ability until the retainer self-nominates.
+- Zhouji 96 part 5 adds a reputation-production mode: public humility toward a low-status worthy can make a patronage network more credible than gifts alone.
+- Zhouji 96 part 6 adds an execution mode: a patronage network can convert private obligation and low-status retainers into emergency state action, while also bypassing public command order.
+- Zhouji 97 part 1 adds an afterlife mode: patronage actors can become侠义 exemplars once their loyalty and violence are interpreted after the political result.
+- Zhouji 97 part 2 adds a host-state competition mode: a displaced patron can keep attracting worthies inside another lord's city, turning humility and association into a live political comparison.
+- Qinji 103-1 adds a corrective-counsel mode: trusted low-status worthies can tell a patron that his reputation now requires returning to state danger rather than preserving private comfort.
+- Qinji 103-2 adds a transmission mode: a patronage reputation can outlive the patron, route younger followers through former retainers, and become an imitated recruitment style.
+- Qinji 114-2 adds a binding-by-favor mode: patronage can make exit from a dangerous mission harder when material honor follows a prior moral commitment.
+- Qinji 114-3 adds a control-limit mode: high honor can recruit a person into danger while making direct command and schedule control harder.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -58,3 +86,10 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[AristocraticPoliticalAsylum|贵族政治避难]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 risky hospitality and recognition timing.
 - [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], and [[Handan|邯郸]] - Zhouji 96 self-nomination and tested intervention in a rescue mission.
 - [[DignityBasedPersuasion|尊严激将式说服]] and [[HezongAlliance|合纵]] - Mao Sui's specific diplomatic value once selected.
+- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHaiWeiRetainer|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 public respect and recluse recruitment branch.
+- [[RuJi|如姬]], [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 network execution and ethical risk.
+- [[HouYing|侯嬴]], [[ZhuHaiWeiRetainer|朱亥]], [[RetainerReciprocityEthic|士为知己者死]], and [[Xinlingjun|信陵君]] - Zhouji 97 part 1侠义 afterlife of the rescue network.
+- [[MaoGong|毛公]], [[XueGong|薛公]], [[Pingyuanjun|平原君]], [[ZhaoState|赵国]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 97 part 2 continued low-status recruitment after Xinlingjun settles in Zhao.
+- [[MengAo|蒙敖]], [[WeiAnxiWang|魏安釐王]], [[GuanchengWarringStates|管城]], [[SuGao|苏高]], [[AnlingJun|安陵君]], and [[StateSurvivalKinshipDutyConflict|国存亡与父子君臣义冲突]] - Qinji 103-1 retainer counsel, coalition command, and patronage ethics under state survival pressure.
+- [[LiuBang|刘邦]], [[ZhangEr|张耳]], [[Daliang|大梁]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - Qinji 103-2 patronage afterlife and style transmission.
+- [[YanTaiziDan|燕太子丹]], [[JingKe|荆轲]], [[TianGuang|田光]], [[FanWuji|樊无忌]], [[QinWuyang|秦武阳]], [[HonorBindingBySelfSacrifice|以死绑定的侠义压力]], and [[MistrustTriggeredMissionLaunch|疑忌触发式出发]] - Qinji 114-2 and 114-3 assassination-patronage branch.

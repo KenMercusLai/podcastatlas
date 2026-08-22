@@ -2,8 +2,8 @@
 title: "百里奚 / Baili Xi"
 type: entity
 tags: [person, minister, spring-and-autumn, qin-state]
-sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+last_updated: 2026-08-21
 ---
 
 # 百里奚 / Baili Xi
@@ -18,6 +18,8 @@ The episode uses Baili Xi to sharpen Shang Yang's self-image. Qin Mu Gong's reco
 
 That remembered mourning matters because the episode contrasts it with [[ShangYang|公孙鞅 / 商鞅]]'s security-heavy life. Baili Xi becomes an example of [[PeopleBasedPoliticalSecurity|民心型政治安全]]: achievement joined to social trust can lower personal danger, while achievement joined to fear can make power depend on coercion and ruler protection.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Baili Xi as a key precedent in [[YaoJia|姚贾]]'s answer to [[HanFei|韩非]]. Yao Jia invokes Baili Xi's gatekeeper/captive/slave associations to argue that low status and embarrassing biography are not enough to reject a minister once useful service is possible.
+
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] - later Qin minister who invites the comparison.
 - [[ZhaoLiang|赵良]] - interlocutor asked to judge the comparison.
@@ -25,3 +27,4 @@ That remembered mourning matters because the episode contrasts it with [[ShangYa
 - [[QinState|秦国]] - state whose earlier rise is associated with his service.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[PowerExitTrap|权力退场困境]] - contrast case for Shang Yang's harsher and less survivable path.
 - [[TalentAttractionThroughRespect]] - adjacent wiki frame for ruler recognition of unusual talent.
+- [[YaoJia|姚贾]], [[HanFei|韩非]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - low-origin talent precedent in Yao Jia's defense.

@@ -2,8 +2,8 @@
 title: "曲沃 / Quwo (Warring States)"
 type: entity
 tags: [place, pre-qin, wei-state, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
+last_updated: 2026-08-21
 ---
 
 # 曲沃 / Quwo (Warring States)
@@ -14,9 +14,12 @@ The episode makes Quwo part of two movements: first, [[QinState|秦国]] uses at
 
 [[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] brings Quwo back after [[ZhangYiStrategist|张仪]] goes to [[WeiState|魏国]] as chief minister. When Wei does not accept Zhang Yi's proposal to lead the lords in serving Qin, Qin attacks and takes Quwo together with [[PingzhouWarringStates|平州]]. That makes Quwo a recurring marker of Qin's pressure on Wei rather than a settled returned place.
 
+[[zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]] gives a source-scoped notice that [[QinState|秦国]] suppresses people of [[WeyState|卫国 / Wey State]] who are "making disorder," takes Quwo, and drives them back to Wey. Because this page's earlier Quwo evidence is tied to the Wei-Qin frontier, the new notice is kept as a wording ambiguity rather than a clean change in Quwo's state affiliation.
+
 ## Connections
 - [[Jiaoyi|焦邑]] - paired stronghold in the Qin offensive and later return.
 - [[WeiState|魏国]] and [[QinState|秦国]] - state losing pressure and state applying it.
+- [[WeyState|卫国 / Wey State]] - Zhouji 48 wording ambiguity around unrest and expulsion.
 - [[Shaoliang|少梁]], [[HexiWarringStates|河西]], and [[QinEastwardPressure|秦国东进压力]] - broader territorial pressure sequence.
 - [[ZhangYiStrategist|张仪]], [[PuyangWarringStates|蒲阳]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - later context for Qin's give-back logic.
 - [[PingzhouWarringStates|平州]], [[LianhengStrategy|连横]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 38 renewed Qin attack after Zhang Yi's Wei appointment.

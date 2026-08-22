@@ -2,8 +2,8 @@
 title: "AI Job Security Anxiety"
 type: concept
 tags: [ai, labor, workplace, automation]
-sources: [tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+last_updated: 2026-08-22
 ---
 
 # AI Job Security Anxiety
@@ -14,6 +14,8 @@ The concept sits between [[AIWorkerLiteracy]] and [[AIAutomationRedistribution]]
 
 [[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] adds the graduate-facing version. The source says some economists warn about large-scale AI unemployment, but its practical focus is nearer term: Gen Z graduates enter a market where AI changes both application behavior and HR screening, deepening [[AIGraduateCareerUncertainty]].
 
+[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds a counterweight through [[MarkCuban|Mark Cuban]]. Cuban rejects claims that AI will imminently remove half of white-collar jobs, not because AI is weak, but because enterprise workflows still need systems thinking, [[ForwardDeployedEngineer|FDE]] work, and [[AgentMaintenanceBurden|agent maintenance]]. The source therefore shifts the anxiety question from immediate mass replacement toward uneven adoption, AI-literate operators, and who gets trusted to maintain the new workflows.
+
 ## Key Claims
 - Job-security anxiety can slow adoption even when workers are curious about AI or already experimenting.
 - The anxiety is not solved by telling workers to learn prompts; it depends on incentive design, trust, training, governance, and management communication.
@@ -21,6 +23,7 @@ The concept sits between [[AIWorkerLiteracy]] and [[AIAutomationRedistribution]]
 - Employers asking for [[AINativeWorker|AI native workers]] need to explain how AI productivity will affect roles, evaluation, and advancement.
 - The concept qualifies simple productivity narratives: worker reluctance may reflect rational risk assessment rather than backwardness.
 - Graduate anxiety can appear before mass unemployment if candidates already experience AI as a screening and competition amplifier.
+- Cuban's source adds that job fear should be evaluated against implementation reality: brittle agents can create new supervision and maintenance work even while they pressure routine roles.
 
 ## Connections
 - [[WorkplaceAIReadinessGap]], [[AINativeWorker]], and [[ManagerialAIFluencyGap]] - source concepts tied to adoption trust.
@@ -28,3 +31,4 @@ The concept sits between [[AIWorkerLiteracy]] and [[AIAutomationRedistribution]]
 - [[AIAutomationRedistribution]], [[DigitalEmployees]], and [[AIBacklashPolitics]] - broader labor-substitution and political-risk branch.
 - [[HumanAgencyUnderAI]] - personal agency issue when AI work can threaten the user's own livelihood.
 - [[AIGraduateCareerUncertainty]], [[AIHiringArmsRace]], and [[EntryLevelAICareerLadderRisk]] - early-career branch added by The Intelligence.
+- [[MarkCuban]], [[ForwardDeployedEngineer]], [[AgentMaintenanceBurden]], and [[AIWorkerLiteracy]] - All-In branch around implementation limits and AI-literate operators.

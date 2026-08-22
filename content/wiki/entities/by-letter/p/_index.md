@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6259
+wiki_total_pages: 6463
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "PayPal"
     title: "PayPal"
     url: "/wiki/entities/paypal/"
+  - key: "PCAST"
+    title: "PCAST"
+    url: "/wiki/entities/pcast/"
   - key: "PDVSA"
     title: "PDVSA"
     url: "/wiki/entities/pdvsa/"
@@ -212,6 +215,9 @@ wiki_pages:
   - key: "Peloton"
     title: "Peloton"
     url: "/wiki/entities/peloton/"
+  - key: "Penglai"
+    title: "Penglai / 蓬莱"
+    url: "/wiki/entities/penglai/"
   - key: "PennState"
     title: "Penn State"
     url: "/wiki/entities/pennstate/"
@@ -266,6 +272,9 @@ wiki_pages:
   - key: "PeterBurns"
     title: "Peter Burns"
     url: "/wiki/entities/peterburns/"
+  - key: "PeterChernin"
+    title: "Peter Chernin"
+    url: "/wiki/entities/peterchernin/"
   - key: "PeterDAmbrosio"
     title: "Peter D'Ambrosio"
     url: "/wiki/entities/peterdambrosio/"
@@ -701,6 +710,9 @@ wiki_pages:
   - key: "PangJuan"
     title: "庞涓 / Pang Juan"
     url: "/wiki/entities/pangjuan/"
+  - key: "PangNuan"
+    title: "庞煖 / Pang Nuan"
+    url: "/wiki/entities/pangnuan/"
   - key: "PengWenjun"
     title: "彭文君"
     url: "/wiki/entities/pengwenjun/"

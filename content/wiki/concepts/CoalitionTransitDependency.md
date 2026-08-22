@@ -2,7 +2,7 @@
 title: "Coalition Transit Dependency / 联盟救援借道依赖"
 type: concept
 tags: [diplomacy, alliance, logistics, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]
 last_updated: 2026-08-21
 ---
 
@@ -14,11 +14,16 @@ The same source then shows why transit dependency is politically fragile. [[WeiA
 
 The concept extends [[CoalitionSelfPreservationFailure|联盟自保失灵]] and [[ShieldStateRescueFailure|屏障国救援失灵]]. The problem is not only that allies withhold help; it is that one ally's help may depend on another state's roads, permission, and willingness to absorb retaliation.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]] gives the resolution mechanism for this particular case. [[JingYang|景阳]]'s Chu force is already moving, but it cannot become effective until [[Xinlingjun|信陵君]] forcibly takes [[JinBi|晋鄙]]'s Wei army through [[StealingTigerTalliesToRescueZhao|窃符救赵]]. Once Wei's army moves, Chu can coordinate with Wei and Zhao, and the coalition finally breaks Qin's pressure around Handan.
+
+This does not make transit dependency disappear as a structural risk. It shows one extreme workaround: if the route state's ruler refuses exposure, a private actor may try to seize the route state's military capacity. That solves the immediate battlefield problem while creating a separate [[MoralCostOfEffectiveRescue|moral cost]].
+
 ## Key Claims
 - Rescue coalitions require geography and transit consent, not only shared anti-Qin intent.
 - A willing distant ally may remain ineffective if the route state fears the aggressor more than it values the endangered partner.
 - Transit dependency can turn military urgency into diplomatic dependence on the weakest or most frightened link.
 - When transit fails, the besieged state may become more vulnerable to appeasement proposals such as [[SubmissionThroughStatusElevation|尊号式投降方案]].
+- In this case, transit dependency is solved only through an irregular command seizure, not through normal alliance governance.
 
 ## Connections
 - [[MaoSui|毛遂]], [[MiWan|楚考烈王]], [[ChuState|楚国]], and [[HezongAlliance|合纵]] - alliance commitment that still faces route constraints.
@@ -26,4 +31,4 @@ The concept extends [[CoalitionSelfPreservationFailure|联盟自保失灵]] and 
 - [[WeiState|魏国]], [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], and [[YeWarringStates|邺城]] - transit state, ruler, halted army, and holding point.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - threat source that makes the route state hesitate.
 - [[CoalitionSelfPreservationFailure|联盟自保失灵]], [[ShieldStateRescueFailure|屏障国救援失灵]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - adjacent failure and appeasement concepts.
-
+- [[Xinlingjun|信陵君]], [[JingYang|景阳]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 forced solution and ethical cost.

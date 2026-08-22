@@ -2,8 +2,8 @@
 title: "中山国 / Zhongshan State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+last_updated: 2026-08-21
 ---
 
 # 中山国 / Zhongshan State
@@ -20,6 +20,8 @@ The episode uses Zhongshan to show how frontier control can reverse quickly when
 
 [[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] completes the target-state branch in the episode's 295 BCE frame. [[ZhaoWulingwang|赵武灵王]] joins with [[QiState|齐国]] and [[YanState|燕国]] to destroy Zhongshan and move its ruler to Fushi. The conquest matters less for Zhongshan's internal story than for Zhao's domestic aftermath: with the frontier success complete, Zhao Wuling Wang's attention shifts to how [[ZhaoZhang|赵章]] and [[ZhaoHe|赵何]] should coexist.
 
+[[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] reuses Zhongshan after [[ZhaoState|赵国]]'s fall. Once [[WangJianQin|王翦]] takes [[Handan|邯郸]], he stays in the Zhongshan area rather than returning with [[QinShiHuang|嬴政 / 秦始皇]], making the former Zhao-held frontier a Qin pressure position against [[YanState|燕国]].
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiWuhou|魏武侯]] - conquering and controlling power in the source background.
 - [[WeiZhi|魏挚]] - Wei ruler's brother guarding Zhongshan.
@@ -27,3 +29,4 @@ The episode uses Zhongshan to show how frontier control can reverse quickly when
 - [[ZhaoState|赵国]], [[ZhaoWulingwang|赵武灵王]], and [[HufuQishe|胡服骑射]] - intervening geography and later Zhao reform-conquest target.
 - [[QiState|齐国]], [[YanState|燕国]], [[ZhaoZhang|赵章]], [[ZhaoHe|赵何]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 destruction of Zhongshan and domestic succession aftermath.
 - [[EarlyWarringStatesInterstateWar]] and [[TerritorialControlChurn]] - concepts that fit Zhongshan's revival and shifting alignments.
+- [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[WangJianQin|王翦]], [[QinState|秦国]], and [[YanState|燕国]] - Qin forward deployment after Zhao's fall.

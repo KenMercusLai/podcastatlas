@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 4881
+wiki_total_pages: 5023
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "AgentInferenceWorkload"
     title: "Agent Inference Workload"
     url: "/wiki/concepts/agentinferenceworkload/"
+  - key: "AgentMaintenanceBurden"
+    title: "Agent Maintenance Burden"
+    url: "/wiki/concepts/agentmaintenanceburden/"
   - key: "AgentMarketplace"
     title: "Agent Marketplace"
     url: "/wiki/concepts/agentmarketplace/"
@@ -1355,6 +1358,9 @@ wiki_pages:
   - key: "AntiMoneyLaundering"
     title: "Anti-Money Laundering"
     url: "/wiki/concepts/antimoneylaundering/"
+  - key: "AntiQinCoalitionFragmentation"
+    title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
+    url: "/wiki/concepts/antiqincoalitionfragmentation/"
   - key: "Antifragility"
     title: "Antifragility"
     url: "/wiki/concepts/antifragility/"
@@ -1484,6 +1490,9 @@ wiki_pages:
   - key: "AspirationalEmotionalPremium"
     title: "Aspirational Emotional Premium / 向往感溢价"
     url: "/wiki/concepts/aspirationalemotionalpremium/"
+  - key: "AssassinationAccessCredential"
+    title: "Assassination Access Credential / 刺杀接近凭证"
+    url: "/wiki/concepts/assassinationaccesscredential/"
   - key: "AssemblageArtMemoryWork"
     title: "Assemblage Art Memory Work"
     url: "/wiki/concepts/assemblageartmemorywork/"
@@ -1601,6 +1610,9 @@ wiki_pages:
   - key: "AuthenticationLedMarketplaceTrust"
     title: "Authentication-Led Marketplace Trust"
     url: "/wiki/concepts/authenticationledmarketplacetrust/"
+  - key: "AuthorAdmirationPowerRisk"
+    title: "Author Admiration Power Risk"
+    url: "/wiki/concepts/authoradmirationpowerrisk/"
   - key: "AuthorAsPoliticalSymbol"
     title: "Author As Political Symbol / 作者作为政治符号"
     url: "/wiki/concepts/authoraspoliticalsymbol/"

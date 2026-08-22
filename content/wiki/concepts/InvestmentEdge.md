@@ -2,13 +2,15 @@
 title: "Investment Edge"
 type: concept
 tags: [investing, trading, risk]
-sources: [e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
-last_updated: 2026-07-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
+last_updated: 2026-08-21
 ---
 
 # Investment Edge
 
 Investment edge is the positive-expectation advantage discussed in [[e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc]]. The episode defines edge through the combination of win probability and payoff ratio, then broadens it to include rules, information, speed, structure, patience, execution, and risk-boundary judgment.
+
+[[all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605]] adds [[DanLoeb|Dan Loeb]]'s hedge-fund version. In that source, edge migrates from opaque [[EventDrivenInvesting|event-driven]] situations toward [[StockPicking|stock picking]] that combines technology literacy, macro awareness, [[ManagementQualityAsInvestmentEdge|management quality]], networks, and judgment about when a short thesis is structural rather than merely valuation-based.
 
 [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] sharpens the trading version: edge can exist without knowing whether the next trade will work. A signal only deserves capital if repeated use of that signal, with real exits and sizing, creates positive expectation across many trials.
 
@@ -20,8 +22,10 @@ Investment edge is the positive-expectation advantage discussed in [[e153-gushen
 - The episode warns that an apparent edge is incomplete unless the investor knows how to size it through [[PositionSizing]] and survive it through [[InvestmentRiskManagement]].
 - E144 adds that "signal" should be evaluated by trade-record statistics and payoff distribution, not by whether it feels like a forecast.
 - The same win rate can imply different edge depending on payoff ratio, holding period, costs, and how often the setup appears.
+- The Loeb source adds that qualitative judgment can be edge only when it improves decisions about business durability, management adaptability, and short-side structural weakness.
 
 ## Connections
+- [[DanLoeb|Dan Loeb]], [[ThirdPoint|Third Point]], [[ShortSelling]], [[StockPicking]], [[EventDrivenInvesting]], and [[ManagementQualityAsInvestmentEdge]] - hedge-fund craft extension.
 - [[CompoundingGrowthFormula]] — edge is one multiplier in the source's growth frame.
 - [[KellyCriterion]] — sizing rule that requires positive expectation before it can be useful.
 - [[QuantitativeInvesting]] — small-edge, high-frequency implementation pattern.

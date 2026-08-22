@@ -2,8 +2,8 @@
 title: "Battlefield Information Control / 战场信息控制"
 type: concept
 tags: [military-strategy, deception, command, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
+last_updated: 2026-08-22
 ---
 
 # Battlefield Information Control / 战场信息控制
@@ -18,12 +18,15 @@ The concept links discipline and deception. In this source, command secrecy is n
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] shows why that secrecy matters. Bai Qi knows Zhao Kuo's identity and expected offensive style, while Zhao Kuo does not know Bai Qi is the real opponent. The hidden commander can therefore design a feigned retreat and encirclement around Zhao Kuo's assumptions without giving Zhao time to adjust.
 
+[[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]] adds a Chu-side example through [[XiangYan|项燕]]. Xiang Yan lets [[LiXinQin|李信]] read peace signals and a small attack on [[NanCommandery|南郡]] as evidence that Qin can dictate tempo. The information effect is operational: Li Xin moves quickly to answer the visible threat while the Chu main force controls the real timing behind him.
+
 ## Key Claims
 - Information control can include what an enemy spy is permitted to see, not only what one's own soldiers are told.
 - Strict speech discipline can be part of deception, especially before a rapid movement.
 - Zhao She's case pairs information control with later tactical openness: he suppresses premature advice near Handan but accepts [[XuLiWarringStates|许历 / 许立]]'s grounded battlefield counsel near Eyu.
 - Qin's Changping case shows command identity itself can be protected information when revealing the true commander would let the enemy adjust.
 - Zhouji 94 part 2 adds the payoff: hidden command identity can let one side model the enemy commander while denying reciprocal knowledge.
+- Qinji 117-2 adds that information control can work through peace signals and diversion, not only through spies or hidden commander identity.
 
 ## Connections
 - [[ZhaoShe|赵奢]] - commander whose staged inaction defines the concept.
@@ -33,3 +36,4 @@ The concept links discipline and deception. In this source, command secrecy is n
 - [[TwoRatsCourageMaxim|两鼠斗穴勇者胜]] and [[HighGroundTimingAdvantage|制高点时机优势]] - linked courage and terrain-timing concepts.
 - [[BaiQi|白起]], [[WangHe|王龁]], [[QinZhaoxiangwang|秦昭襄王]], [[ZhaoKuo|赵括]], and [[ChangpingBattle|长平之战]] - Zhouji 94 secret Qin command upgrade.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]] - operational use of the asymmetry in Zhouji 94 part 2.
+- [[XiangYan|项燕]], [[LiXinQin|李信]], [[ChuState|楚国]], and [[NanCommandery|南郡]] - Qinji 117-2 peace-and-diversion setup.

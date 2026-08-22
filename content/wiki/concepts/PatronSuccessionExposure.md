@@ -2,8 +2,8 @@
 title: "Patron Succession Exposure / 靠山更替暴露风险"
 type: concept
 tags: [succession, patronage, governance, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie]
+last_updated: 2026-08-22
 ---
 
 # Patron Succession Exposure / 靠山更替暴露风险
@@ -20,6 +20,10 @@ Patron succession exposure / 靠山更替暴露风险 is the risk [[zizhi-tongji
 
 The concept is narrower than [[SuccessionNonDesignationRisk|未定继承人风险]]. There is no succession scramble in this source; the danger is that a court actor's accumulated merit, enemies, and patron access are revalued by a successor. It also differs from [[MinisterAsExchangeableAsset|可交换功臣]]: in Zhouji 53, Zhang Yi is exposed because his patron can trade him; in Zhouji 54, he is exposed because the patron disappears.
 
+[[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] adds [[Chunshenjun|黄歇 / 春申君]] as an adjacent late-patron case. His exposure is not that a successor dislikes him in the normal way; it is that [[MiWan|楚考烈王]]'s death removes the patron whose trust protected him, while the hidden-heir arrangement gives [[LiYuanWarringStates|李源 / 李元]] a reason to eliminate the only senior actor who knows and can constrain the new court.
+
+[[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]] adds [[LiSi|李斯]] as a Qin imperial variant. Under [[QinShiHuang|秦始皇]], Li Si is chancellor and core policy adviser, but [[ZhaoGao|赵高]] argues that a [[FuSu|扶苏]] succession would transfer trust and future appointment power toward [[MengTian|蒙恬]]. Li Si's danger is therefore prospective: his patron is dead, the likely heir has another favored commander, and a forged succession path offers personal continuity at the cost of legitimacy.
+
 For mobile Warring States professionals, this risk is structural. [[WarringStatesCareeristMobility|乱世职业经理人式流动]] gives advisers multiple courts and tactics, but the death of a key ruler can instantly convert favor into liability.
 
 ## Key Claims
@@ -31,6 +35,8 @@ For mobile Warring States professionals, this risk is structural. [[WarringState
 - Military success and formal rank can still be politically fragile when a successor inherits the outcome but not the old ruler-commander bond.
 - Succession exposure can become battlefield exposure when the successor acts on suspicion by replacing the commander at the front.
 - After exposure, a minister's exit rhetoric can preserve the old patron bond while refusing both return and hostile redeployment by a new patron.
+- A patron's death can expose a minister not only to the successor but also to royal in-laws and insiders who need to control the transition before the successor can rule.
+- Qinji 127-2 adds that fear of a successor's favored minister can make an incumbent minister support an illegitimate alternative before the succession is publicly settled.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinWuwang|秦武王]] - source case.
@@ -41,3 +47,5 @@ For mobile Warring States professionals, this risk is structural. [[WarringState
 - [[SuccessionNonDesignationRisk|未定继承人风险]] and [[AutocraticSuccession]] - broader succession-risk frames that should remain conceptually distinct.
 - [[LeYi|乐毅]], [[YanZhaowang|燕昭王]], [[YanHuiwang|燕惠王]], [[TianDan|田单]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Zhouji 78 Yan succession and commander replacement branch.
 - [[BaoYanHuiwangShu|《报燕惠王书》]], [[ZhaoHe|赵惠文王赵何]], [[WuZixu|伍子胥]], and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 post-exposure reply and refusal to weaponize new patronage against Yan.
+- [[Chunshenjun|黄歇 / 春申君]], [[MiWan|楚考烈王]], [[LiYuanWarringStates|李源 / 李元]], [[ChuYouwang|楚幽王]], and [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]] - patron death, hidden-heir exposure, and royal-in-law elimination.
+- [[LiSi|李斯]], [[QinShiHuang|秦始皇]], [[FuSu|扶苏]], [[MengTian|蒙恬]], [[ZhaoGao|赵高]], and [[ForgedEdictSuccessionCoup|伪诏继位政变]] - Qinji 127-2 dead-patron exposure and succession-coup recruitment.

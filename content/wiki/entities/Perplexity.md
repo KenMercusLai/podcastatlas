@@ -2,11 +2,13 @@
 title: "Perplexity"
 type: entity
 tags: [ai-tool, search]
-sources: [vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-08-21
 ---
 
 # Perplexity
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds Perplexity as an LLM-agnostic application example in the Anthropic/OpenAI debate. [[DavidSacks|Sacks]] argues Perplexity is not a direct model-company competitor in the same way, while [[JasonCalacanis|Jason]] praises model-comparison features that let users inspect answers across major models.
 
 Perplexity appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as one of the AI search tools that [[PeakAI]] monitors for brand visibility. The episode groups Perplexity with [[ChatGPT]], [[Gemini]], and similar systems as buyer-research surfaces that can influence product discovery.
 

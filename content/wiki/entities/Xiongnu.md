@@ -1,0 +1,36 @@
+---
+title: "匈奴 / Xiongnu"
+type: entity
+tags: [people, frontier, nomadic, steppe, pre-qin, warring-states, military]
+sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
+last_updated: 2026-08-22
+---
+
+# 匈奴 / Xiongnu
+
+匈奴 / Xiongnu enters the wiki through [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] as the northern nomadic opponent in [[LiMu|李牧]]'s frontier command story. The episode frames Xiongnu warfare through mobility, horse archery, opportunistic raiding, and the ability to choose when to fight or withdraw.
+
+The source explains raiding through ecology and survival pressure. Northern pasture life is presented as weather-exposed and materially fragile, so raids against farming regions supplement resources. This is why the Xiongnu problem is not a single conventional invasion: repeated fast raids can disrupt border farming and herding even when no city falls.
+
+In the episode, Li Mu first denies the Xiongnu profitable contact by withdrawing people, livestock, and supplies into fortifications. After years of this, Xiongnu forces treat him as timid, which becomes the perception Li Mu exploits. When he finally exposes pasture and feigns retreat, the chanyu commits the main force and is pulled into Zhao's prepared encirclement.
+
+The episode also places Xiongnu rise in a longer frontier sequence. Earlier northern and western groups are fragmented under separate chiefs or rulers; the source says Xiongnu strength grows especially by the late Warring States and later becomes the target of larger imperial campaigns under [[HanWudi|汉武帝]].
+
+[[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] adds Xiongnu as a diplomatic option rather than a battlefield opponent. [[JuWu|居武]] advises [[YanTaiziDan|燕太子丹]] to rebuild an anti-Qin coalition and seek Xiongnu support, then later suggests sending [[FanWuji|樊无忌]] into Xiongnu territory to reduce Yan's direct exposure to Qin.
+
+[[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] makes Xiongnu the immediate Qin interpretation of "亡秦者胡." [[LuSheng|卢生]]'s warning leads [[QinShiHuang|嬴政 / 秦始皇]] to read "胡" as the northern frontier enemy and to send [[MengTian|蒙恬]] north with 300,000 troops. The episode flags that this was not only a superstitious reaction, because the frontier problem already had strategic weight, but leaves the fuller necessity argument for the next discussion.
+
+[[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] gives the follow-through. The source says Meng Tian defeats Xiongnu, recovers the Hetao region, establishes forty-four counties, and links older northern defensive works into the Qin long-wall system before sitting at [[Shangjun|上郡]] for extended frontier pressure. Xiongnu therefore becomes part of [[PostUnificationWarInertia|统一后战争惯性]] as well as prophecy-triggered policy: Qin's war machine needs frontier targets after the six states have become internal territory.
+
+[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds a settlement-pressure note. After the "祖龙死" omen and "游徙吉" divination, Qin Shi Huang moves thirty thousand households toward the northern frontier, which the episode describes as adjoining Xiongnu territory. Xiongnu therefore remains the border condition that makes omen-driven relocation also legible as [[QinFrontierBufferManagement|frontier management]].
+
+## Connections
+- [[LiMu|李牧]] and [[ZhaoState|赵国]] - commander and state in the source's main frontier case.
+- [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - concept extracted from the source's account of mobile raiding.
+- [[FrontierDefensivePatience|边境防御耐心]] and [[LureEnemyOutOfPosition|诱敌离位]] - Zhao's response to Xiongnu mobility.
+- [[WarringStatesNorthernGreatWalls|战国北境长城]] - defensive-infrastructure frame in the episode.
+- [[HanWudi|汉武帝]] - later imperial comparison point.
+- [[JuWu|居武]], [[YanTaiziDan|燕太子丹]], [[YanState|燕国]], and [[FanWuji|樊无忌]] - Qinji 114-2 coalition-support and fugitive-removal proposal.
+- [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], [[MengTian|蒙恬]], and [[ProphecyTriggeredPolicy|预言触发政策]] - Qin's immediate reading of "胡" as northern frontier danger.
+- [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[Shangjun|上郡]], [[WarringStatesNorthernGreatWalls|战国北境长城]], and [[PostUnificationWarInertia|统一后战争惯性]] - Qin follow-through campaign, county creation, wall integration, and frontier-war outlet.
+- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[OmenCountermeasureMobility|游徙避命]], and [[QinFrontierBufferManagement|秦国后方边患管理]] - northern household relocation near the Xiongnu frontier.

@@ -2,8 +2,8 @@
 title: "Tech-Culture Biohacking"
 type: concept
 tags: [technology-culture, health, startups, risk]
-sources: [tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
-last_updated: 2026-07-24
+sources: [tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]
+last_updated: 2026-08-21
 ---
 
 # Tech-Culture Biohacking
@@ -14,6 +14,8 @@ The concept's danger is not experimentation alone. The episode's sharper warning
 
 [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a non-peptide contrast. The 面基 source accepts measurement, strength training, protein, sleep conditions, and sponsor-linked sleep hardware, but explicitly criticizes excessive body hacking and supplement maximalism. That makes it a middle case between grounded [[EnvironmentOverWillpower]] and risky optimization ideology.
 
+[[all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]] adds the extreme measured-longevity version through [[BryanJohnson]]. This is not gray-market peptide ambiguity; Johnson emphasizes professional supervision, measurement, and known dosing. The biohacking risk shifts toward openness to radical self-modification, single-subject inference, [[PsychedelicIdentityDisruption|identity disruption]], and whether personal optimization can affect family, employees, investors, or partners.
+
 ## Key Claims
 - Some users frame slow medical institutions as bureaucratic obstacles and treat personal research as frontier participation.
 - Body optimization can expand beyond weight loss into sleep, muscle, skin, productivity, charisma, and perceived founder competitiveness.
@@ -21,6 +23,7 @@ The concept's danger is not experimentation alone. The episode's sharper warning
 - Startup-style iteration can obscure medical uncertainty when users track feelings or metrics without knowing contents, dose reliability, interactions, or long-term effects.
 - The episode's cultural argument complements medical-risk concerns: [[FoodAndDrugAdministration|FDA]] approval, trials, and clinical caution are part of the story, but so are status competition and optimization ideology.
 - Not every measured health routine belongs to the risky edge of biohacking; the important boundary is whether the intervention is grounded, reversible, proportionate, and medically responsible.
+- The All-In source adds that even well-measured experimentation can become culturally risky when a high-status founder treats psychological, neural, genetic, and cellular self-modification as an open frontier.
 
 ## Connections
 - [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[GLP1Agonists]] - health-market objects shaped by the culture.
@@ -29,3 +32,4 @@ The concept's danger is not experimentation alone. The episode's sharper warning
 - [[FounderHealthDebt]] and [[AchievementPressureMentalHealth]] - adjacent founder-body and performance-pressure branches.
 - [[MedicalRiskManagement]] - clinical discipline that clashes with high-speed optimization.
 - [[MuscleAsLongevityInfrastructure]], [[SleepAsDailyHealthAccount]], [[EnvironmentOverWillpower]], and [[EightSleep|8Sleep]] - bounded health-maintenance contrast from the 面基 episode.
+- [[BryanJohnson]], [[5MeODMT|5-MeO-DMT]], [[PsychedelicLongevityHypothesis]], [[PsychedelicIdentityDisruption]], [[MitochondrialTherapy]], and [[CellularReprogrammingControlProblem]] - high-measurement longevity branch added by All-In.

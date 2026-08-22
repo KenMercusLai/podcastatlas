@@ -2,7 +2,7 @@
 title: "Affection-Driven Succession Risk / 宠爱驱动的立储风险"
 type: concept
 tags: [succession, governance, family-politics, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-20
 ---
 
@@ -22,6 +22,8 @@ The episode makes the risk more precise: the problem is not simply that a younge
 
 [[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]] shows the risk's final cost. Zhao Zhang uses the ambiguity around the 主父 to launch a coup and is killed, while Zhao Wuling Wang is left to starve after the coup is suppressed. Affection-driven succession therefore does not merely create a rival claimant; when paired with partial abdication, it can destroy both the displaced heir and the ruler who tried to keep the family whole.
 
+[[zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]] adds a late Zhao echo without the partial-abdication layer. [[ZhaoDaoxiangwang|赵道襄王]] displaces [[ZhaoJia|赵嘉]] and installs [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] because of a favored relationship. This version is captured more narrowly by [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]]: the ruler's preference damages heir legitimacy before a major Qin attack, even without an old ruler staying alive as a separate power center.
+
 ## Key Claims
 - Ruler affection can become a succession force when it changes which child is politically favored.
 - A younger favored-son branch can destabilize an elder legitimate-son branch even before the formal conflict is narrated.
@@ -31,10 +33,13 @@ The episode makes the risk more precise: the problem is not simply that a younge
 - Compensation for the displaced branch can worsen the risk when it supplies territory, personnel, and status rather than a clean settlement.
 - The ruler's later regret can destabilize the successor even after the formal enthronement has already occurred.
 - When the resulting crisis is settled by force, the favored branch's survival can come at the cost of both the displaced branch and the old ruler.
+- The same pattern can reappear without partial abdication when a ruler directly displaces an established heir for a favored partner's son.
 
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]], [[WuWa|吴娃]], [[ZhaoHe|赵何]], and [[ZhaoZhang|赵章]] - source case.
 - [[FeiYi|肥义]] and [[PowerExitTrap|权力退场困境]] - Zhouji 61 chancellor appointment and divided authority after abdication.
 - [[TianBuli|田不李]], [[LiDui|李兑]], [[GaoXinWarringStates|高信]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 compensation, warning, coup, and starvation ending.
+- [[ZhaoState|赵国]] - polity exposed by the succession setup.
+- [[ZhaoDaoxiangwang|赵道襄王]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], [[ZhaoJia|赵嘉]], and [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - late Zhao echo in Qinji 111-1.
 - [[ZhaoState|赵国]] - polity exposed by the succession setup.
 - [[AutocraticSuccession]], [[SuccessionNonDesignationRisk]], and [[BirthTabooSuccessionExclusion]] - adjacent succession-risk concepts.

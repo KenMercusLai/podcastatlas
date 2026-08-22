@@ -2,8 +2,8 @@
 title: "远交近攻 / Yuanjiao Jingong Strategy"
 type: concept
 tags: [strategy, diplomacy, warfare, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]
+last_updated: 2026-08-22
 ---
 
 # 远交近攻 / Yuanjiao Jingong Strategy
@@ -28,6 +28,8 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 
 [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]] shows near attack reaching the post-victory choice point. After [[ChangpingBattle|长平之战]], Qin can continue against [[ZhaoState|赵国]] through [[WangHe|王龁]] and [[SimaGeng|司马梗]], but [[SuDai|苏代]] persuades [[FanJu|范雎]] that the next gain may empower [[BaiQi|白起]] more than it strengthens Fan Ju. The result is not abandonment of the formula, but a pause that converts military momentum into [[Yuanyong|垣雍]] and six Zhao cities.
 
+[[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]] shows the far-diplomacy side reaching its endpoint. Qin's long friendliness toward [[QiState|齐国]] is not treated as evidence that Qi has neutralized Qin; it is the distant-state side of the same formula. Once Yan, Dai, and Chu are gone, Qi's interpretation of Qin's reassurance becomes a [[DistantStateAppeasementTrap|远国安抚误读]].
+
 ## Key Claims
 - Distance changes whether victory can become usable territory.
 - A remote offensive may create glory, casualties, and temporary leverage without producing stable land.
@@ -40,6 +42,7 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 - Zhouji 92 adds that near attack can proceed by transport severance: Qin weakens a neighboring state by dividing its internal geography before absorbing or coercing the separated parts.
 - Zhouji 93 adds that transport severance can tempt a third state into the conflict by making the isolated territory look like an unearned gain.
 - Zhouji 95 adds that near-attack momentum depends on court alignment: even after a major victory, Qin can choose cession extraction and rest when internal status risks make immediate conquest less attractive.
+- Qinji 119-3 adds the far-state endpoint: diplomatic quiet with Qi helps Qin sequence conquest, and the target may mistake postponement for durable safety.
 
 ## Connections
 - [[FanJu|范雎]] - strategist who articulates the formula.
@@ -54,3 +57,4 @@ The concept matters because it turns [[QinEastwardPressure|秦国东进压力]] 
 - [[BaiQi|白起]], [[HanNanyangWarringStates|韩国南阳]], [[TaihangRoad|太行道]], [[Shangdang|上党]], and [[TransportCorridorSeverance|交通线切割]] - Zhouji 92 concrete Han-front implementation.
 - [[FengTing|冯亭]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 Shangdang offer as a near-attack aftereffect.
 - [[SuDai|苏代]], [[StatusAnxietyPersuasion|位阶焦虑式说服]], [[Yuanyong|垣雍]], [[WangHe|王龁]], [[SimaGeng|司马梗]], and [[Handan|邯郸]] - Zhouji 95 post-Changping near-attack pause.
+- [[JunWangHou|君王后]], [[QiWangJian|齐王建 / 田建]], [[HouSheng|后胜]], and [[DistantStateAppeasementTrap|远国安抚误读]] - Qinji 119-3 far-state reassurance and Qi's late misreading.

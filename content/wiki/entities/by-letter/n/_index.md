@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 6259
+wiki_total_pages: 6463
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "NewZealand"
     title: "New Zealand / 新西兰"
     url: "/wiki/entities/newzealand/"
+  - key: "NewLimit"
+    title: "NewLimit"
+    url: "/wiki/entities/newlimit/"
   - key: "NewsCorp"
     title: "News Corp"
     url: "/wiki/entities/newscorp/"
@@ -401,6 +404,9 @@ wiki_pages:
   - key: "Nishire"
     title: "Nishire"
     url: "/wiki/entities/nishire/"
+  - key: "NithyaRaman"
+    title: "Nithya Raman"
+    url: "/wiki/entities/nithyaraman/"
   - key: "NiuniuSukiyaki"
     title: "Niuniu Sukiyaki / 牛牛寿喜烧"
     url: "/wiki/entities/niuniusukiyaki/"
@@ -536,6 +542,9 @@ wiki_pages:
   - key: "NanfangQuanqiu"
     title: "南方全球"
     url: "/wiki/entities/nanfangquanqiu/"
+  - key: "NanhaiCommandery"
+    title: "南海郡 / Nanhai Commandery"
+    url: "/wiki/entities/nanhaicommandery/"
   - key: "NanCommandery"
     title: "南郡 / Nan Commandery"
     url: "/wiki/entities/nancommandery/"

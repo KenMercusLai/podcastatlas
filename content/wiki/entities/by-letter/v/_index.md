@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 6259
+wiki_total_pages: 6463
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "VashonIslandCoffeeDust"
     title: "Vashon Island Coffee Dust"
     url: "/wiki/entities/vashonislandcoffeedust/"
+  - key: "VelaFund"
+    title: "Vela Fund"
+    url: "/wiki/entities/velafund/"
   - key: "VelvetRevolution"
     title: "Velvet Revolution / 天鹅绒革命"
     url: "/wiki/entities/velvetrevolution/"
@@ -62,6 +65,9 @@ wiki_pages:
   - key: "VenezuelanSupremeCourt"
     title: "Venezuelan Supreme Court"
     url: "/wiki/entities/venezuelansupremecourt/"
+  - key: "Venmo"
+    title: "Venmo"
+    url: "/wiki/entities/venmo/"
   - key: "VeraHill"
     title: "Vera Hill"
     url: "/wiki/entities/verahill/"

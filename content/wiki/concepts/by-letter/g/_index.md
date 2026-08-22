@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 4881
+wiki_total_pages: 5023
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "GenderedHairRegulation"
     title: "Gendered Hair Regulation"
     url: "/wiki/concepts/genderedhairregulation/"
+  - key: "GenderedHistoriographicalDesireFraming"
+    title: "Gendered Historiographical Desire Framing / 性别化史书欲望叙事"
+    url: "/wiki/concepts/genderedhistoriographicaldesireframing/"
   - key: "GenderedLineageRitualOrder"
     title: "Gendered Lineage Ritual Order / 性别化宗族仪式秩序"
     url: "/wiki/concepts/genderedlineageritualorder/"
@@ -290,6 +293,9 @@ wiki_pages:
   - key: "GreatRecoinage"
     title: "Great Recoinage / 大重铸"
     url: "/wiki/concepts/greatrecoinage/"
+  - key: "GreedPersonaSelfProtection"
+    title: "Greed Persona Self-Protection / 贪财人设式自保"
+    url: "/wiki/concepts/greedpersonaselfprotection/"
   - key: "GreekMythology"
     title: "Greek Mythology"
     url: "/wiki/concepts/greekmythology/"
@@ -335,6 +341,9 @@ wiki_pages:
   - key: "GuangxiCuisineLegibility"
     title: "Guangxi Cuisine Legibility / 广西菜可识别化"
     url: "/wiki/concepts/guangxicuisinelegibility/"
+  - key: "GuestExpulsionOrder"
+    title: "Guest Expulsion Order / 逐客令"
+    url: "/wiki/concepts/guestexpulsionorder/"
   - key: "GuiltBasedRelationalControl"
     title: "Guilt-Based Relational Control / 内疚式关系控制"
     url: "/wiki/concepts/guiltbasedrelationalcontrol/"

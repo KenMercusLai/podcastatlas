@@ -2,13 +2,15 @@
 title: "巴国 / Ba State (Warring States)"
 type: entity
 tags: [state, pre-qin, warring-states, sichuan, qin-state]
-sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+last_updated: 2026-08-21
 ---
 
 # 巴国 / Ba State (Warring States)
 
 巴国 / Ba State enters the wiki through [[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] as one side of the Ba-Shu conflict that gives [[QinState|秦国]] an opening. The episode says Ba and [[ShuStateWarringStates|蜀国]] attack each other and both ask Qin for help.
+
+[[zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr]] gives the strategic debate attached to that opening. Ba's conflict with Shu makes the region available, while [[SimaCuo|司马错]] persuades [[YingSi|秦惠文王]] that southwestern acquisition is a more reliable path to Qin strength than a prestige-heavy eastern move.
 
 The source does not develop Ba independently. Its role is strategic: the mutual conflict between Ba and Shu lets Qin enter the region that later becomes [[BaShu|巴蜀]], a valuable and hard-to-enter base behind Qin's eastern ambitions.
 

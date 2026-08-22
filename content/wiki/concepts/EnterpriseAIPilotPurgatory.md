@@ -2,11 +2,13 @@
 title: "Enterprise AI Pilot Purgatory"
 type: concept
 tags: [ai, enterprise, management, transformation]
-sources: [all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]
-last_updated: 2026-08-18
+sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]
+last_updated: 2026-08-21
 ---
 
 # Enterprise AI Pilot Purgatory
+
+[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds Sacks's warning that enterprise AI pilots often fail because giving a business AI does not automatically create efficiency. The escape route is change management, workflow redesign, and accountable owners, which is why private-equity control of operations is treated as valuable rather than model access alone.
 
 Enterprise AI pilot purgatory is the gap in [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] between broad AI experimentation and durable enterprise-scale value. [[BobSternfels|Bob Sternfels]] says large enterprises are adopting AI faster than previous technologies, but also says non-technology companies are finding value realization harder than expected.
 

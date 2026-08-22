@@ -2,7 +2,7 @@
 title: "《孙子兵法》 / The Art of War"
 type: entity
 tags: [book, military-text, strategy, pre-qin, chinese-history]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ The page is distinct from [[SunBinBingfa|《孙膑兵法》]]. Zhouji 16 used th
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] uses the "作战" chapter after [[ChangpingBattle|长平之战]] to emphasize [[WarCostTempoDiscipline|战争成本与速决纪律]]. The episode links "兵贵神速," "上兵伐谋," "攻心为上," and "不战而屈人之兵" to a cost argument: avoid war when nonmilitary victory is possible, and end unavoidable war quickly because even the winner may become exhausted.
 
+[[zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43]] uses Sunzi indirectly as the counterpoint in [[LinwuJun|临武君]]'s argument with [[Xunzi|荀子]]. Linwu Jun cites the world of deception, sudden movement, and famous military success to argue that battle depends on tactical technique. The episode then lets Xunzi rank that answer below people-unifying [[XunzianMilitaryLegitimacy|renyi military legitimacy]].
+
+[[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] invokes Sunzi's "诡道" logic to explain [[LiMu|李牧]] against [[Xiongnu|匈奴]]. Li Mu appears unable and unwilling to fight while he is building frontier readiness, then turns that reputation into bait for the final encirclement.
+
 ## Connections
 - [[SunBin|孙膑]] - strategist whose plan the episode reads through the text.
 - [[PangJuan|庞涓]], [[WeiState|魏国]], and [[QiState|齐国]] - opponent and campaign setting.
@@ -29,3 +33,5 @@ The page is distinct from [[SunBinBingfa|《孙膑兵法》]]. Zhouji 16 used th
 - [[ZhaoShe|赵奢]], [[EyuBattle|阏与 / 燕宇之战]], and [[BattlefieldInformationControl|战场信息控制]] - Zhouji 87 command secrecy and deception branch.
 - [[SunBinBingfa|《孙膑兵法》]] - separate military-text branch already in the wiki.
 - [[ChangpingBattle|长平之战]], [[BaiQi|白起]], [[WangLing|王陵]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 post-victory cost and tempo lesson.
+- [[LinwuJun|临武君]], [[Xunzi|荀子]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Qinji 99 part 3 tactical-technique counterpoint.
+- [[LiMu|李牧]], [[Xiongnu|匈奴]], [[LureEnemyOutOfPosition|诱敌离位]], and [[FrontierDefensivePatience|边境防御耐心]] - Qinji 105 deceptive non-battle and final encirclement.

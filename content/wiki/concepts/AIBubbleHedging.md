@@ -2,11 +2,13 @@
 title: "AI Bubble Hedging"
 type: concept
 tags: [ai, investing, allocation, risk]
-sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-22
 ---
 
 # AI Bubble Hedging
+
+[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds a concentrated-employee-equity version through [[MarkCuban|Mark Cuban]]. Instead of asking only how public-market investors hedge AI exposure, Cuban says employees at private AI and space winners should consider [[ProtectiveCollarStrategy|collars]] or similar downside protection when their paper wealth is concentrated in names such as [[Anthropic]], [[OpenAI]], or [[SpaceX]].
 
 AI bubble hedging is the portfolio-response frame added by [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]]. The source starts from the possibility that AI is genuinely transformative while AI-linked equities still become overvalued, then asks what investors can do if simply selling stocks is impractical or poorly timed.
 
@@ -28,6 +30,7 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 - Zhu Ning's version of AI-bubble hedging begins with [[BubbleNecessaryConditions]] but rejects deterministic top-calling; warning signs should change exposure, leverage, and expectations rather than produce false certainty.
 - Greenwood's version reinforces hedging humility: if the signal is only weakly predictive, hedges should be sized for uncertainty rather than built around a confident crash date.
 - Episode 143 adds that financing mix is part of hedging: an equity-funded AI bubble and a debt/private-credit-funded AI bubble do not require the same risk budget.
+- Cuban's version adds position-form specificity: a private-company employee's hedge problem is not the same as an index investor's hedge problem because liquidity, lockups, taxes, and single-name concentration dominate.
 
 ## Connections
 - [[AIEquityValuationRisk]] and [[SpeculativeBubblePsychology]] — reason the hedge question arises.
@@ -38,3 +41,4 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[PositionSizing]] — behavioral-finance extension from the 42章经 interview.
 - [[RobinGreenwood]], [[GadiBarlevy|Gadi Barlevy]], [[StatisticalBubbleIndicators]], [[LeanVersusCleanBubblePolicy]], and [[ProductiveBubbleSpillovers]] — Planet Money extension around diagnosis limits and macro spillovers.
 - [[BubbleFinancingStructure]], [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[PrivateCreditTailRisk]] — episode 143's financing-channel extension.
+- [[MarkCuban]], [[ProtectiveCollarStrategy]], [[PaperWealthVsCashValue]], [[Anthropic]], [[OpenAI]], and [[SpaceX]] — concentrated employee-equity branch added by the All-In interview.

@@ -2,13 +2,15 @@
 title: "蜀国 / Shu State (Warring States)"
 type: entity
 tags: [state, pre-qin, warring-states, sichuan, qin-state]
-sources: [zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+last_updated: 2026-08-21
 ---
 
 # 蜀国 / Shu State (Warring States)
 
 蜀国 / Shu State enters the wiki through [[zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]] as the polity [[QinState|秦国]] conquers after accepting [[SimaCuo|司马错]]'s advice. The episode says Shu and [[BaStateWarringStates|巴国]] are fighting and both seek Qin help, letting Qin turn an outside request into regional conquest.
+
+[[zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr]] gives the decision before the later rebellion. [[SimaCuo|司马错]] argues that Shu is remote, disordered, rich enough to strengthen Qin, and low-risk compared with [[ZhangYiStrategist|张仪]]'s proposal to strike east toward [[HanState|韩国]] and the Zhou royal center. Qin's conquest of Shu therefore begins as a deliberate resource-base strategy.
 
 After conquest, Qin lowers the former ruler to [[ShuHouNingTong|蜀侯宁通]] and appoints [[ChenZhuangWarringStates|陈庄]] as chancellor. This arrangement preserves enough local form to govern, but it also creates the later rebellion when Chen Zhuang kills Ning Tong and tries to hold Shu for himself.
 

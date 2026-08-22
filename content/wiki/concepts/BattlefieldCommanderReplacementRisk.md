@@ -2,7 +2,7 @@
 title: "Battlefield Commander Replacement Risk / 阵前换将风险"
 type: concept
 tags: [military-command, strategy, governance, succession, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,10 @@ The same source adds a contrast case: [[QinState|秦国]] also changes commander
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] adds the operational consequence of Zhao's replacement. Zhao Kuo changes the army's disposition and attacks across the Dan River, abandoning Lian Po's defensive attrition posture. Because the replacement is visible to Qin and hidden Bai Qi can prepare for his offensive style, Zhao's command change becomes the opening for [[BattlefieldEncirclementLogistics|战场围困与断粮]].
 
+[[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]] gives Lian Po a second replacement case. After [[ZhaoDaoxiangwang|赵道襄王]] succeeds, he sends [[LeCheng|乐乘]] to replace Lian Po, who attacks the replacement and flees Zhao. The resulting damage is political as much as tactical: Zhao loses continuity with the commander who had just proved Zhao was not an easy post-Changping target.
+
+[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] gives the concept its late-Zhao endpoint. During Qin's 229 BCE invasion, [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] removes [[LiMu|李牧]] and [[SimaShang|司马尚]] after [[GuoKai|郭开]]'s bribed rebellion accusation, then appoints [[ZhaoCong|赵葱]] and [[YanJuZhao|颜聚]]. The episode stresses that even if the replacements were not assessed in detail, the act of changing commanders under Qin pressure is itself enough to shake military confidence.
+
 ## Key Claims
 - Removing a commander mid-campaign can break continuity of strategy, discipline, and trust.
 - The risk is sharper when troops already identify the campaign with the removed commander.
@@ -31,6 +35,8 @@ The same source adds a contrast case: [[QinState|秦国]] also changes commander
 - Changping adds that replacement can be especially dangerous when the incumbent's caution is treated as cowardice and the successor's untested reputation is amplified by the enemy.
 - Secrecy changes the risk profile: Qin's hidden replacement of Wang He with Bai Qi contrasts with Zhao's public and rumor-driven replacement of Lian Po.
 - Zhouji 94 part 2 shows the battlefield payoff of the risk: replacement alters doctrine, exposes predictable aggression, and lets the opponent build the trap around it.
+- Qinji 104 shows replacement can also trigger a commander break with the state, leaving later recall vulnerable to court intrigue.
+- Qinji 113 shows replacement risk becoming fatal when enemy bribery, treason accusation, disaster stress, and active invasion all converge.
 
 ## Connections
 - [[LeYi|乐毅]], [[QiJie|骑劫]], and [[YanState|燕国]] - removed commander, replacement general, and army.
@@ -42,3 +48,5 @@ The same source adds a contrast case: [[QinState|秦国]] also changes commander
 - [[LianPo|廉颇]], [[ZhaoKuo|赵括]], [[ZhaoDan|赵丹 / 赵孝成王]], [[FanJu|范雎]], [[BaiQi|白起]], and [[WangHe|王龁]] - Zhouji 94 paired Zhao/Qin replacement contrast.
 - [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] and [[CounterintelligenceRumorWedge|反间流言楔入]] - Changping-specific competence and information mechanisms.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]] - battlefield mechanism that exploits the replacement in Zhouji 94 part 2.
+- [[ZhaoDaoxiangwang|赵道襄王]], [[LeCheng|乐乘]], [[GuoKai|郭开]], and [[QinEastwardPressure|秦国东进压力]] - Qinji 104 replacement, exile, and failed recall of Lian Po.
+- [[LiMu|李牧]], [[SimaShang|司马尚]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], [[ZhaoCong|赵葱]], [[YanJuZhao|颜聚]], and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] - final Zhao-front replacement and collapse branch.

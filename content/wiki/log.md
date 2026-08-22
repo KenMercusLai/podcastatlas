@@ -8,6 +8,58 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?
+
+Added source page for an All-In interview with Mark Cuban on AI bubble concentration in venture funds, private equity, private credit, and data-center finance; early AI IPOs and public stock as acquisition currency; employee collars for concentrated private-company equity; enterprise implementation difficulty; agent drift and maintenance burden; Lovable-enabled entrepreneurship; OpenEvidence and doctor-augmented health AI; political algorithms, legal immigration, Texas operating culture, and sports streaming valuations. Created Agent Maintenance Burden; updated overview, index, Mark Cuban, All-In, Lovable, OpenEvidence, Private-Market Bubble Opacity, Data Center Debt Risk, AI Bubble Hedging, Protective Collar Strategy, Enterprise AI ROI Audit, Forward Deployed Engineer, AI Health Management, World Models, Sports Media Rights, Texas, National Basketball Association, AI Job Security Anxiety, and Immigration Backlash Cycle. No settled contradiction found; the source qualifies earlier AI-infrastructure bullishness with a concentrated private-market and credit-loss path rather than rejecting AI's long-term usefulness.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》126｜秦始皇死因之谜（2）
+
+Added source page for Qinji 126 part 2: "祖龙死" as a direct death warning, Qin Shi Huang's "游徙吉" divination, the thirty-thousand-household northern relocation, the fifth/final tour as source-scoped fate-change attempt, 《赵正书》 as excavated-text support, and the 北河/河北 textual-variant issue. Created Zhao Zheng Shu and Omen Countermeasure Mobility; updated overview, index, Qin Shi Huang, Qin State, Qin Late Omen Crisis, Shiji, Zizhi Tongjian, Xiongnu, Prophecy-Triggered Policy, Immortality Quest Politics, Imperial Tour Political Theater, Auspicious Omen Politics, Qin Frontier Buffer Management, Historical Detective Reasoning, and Textual Variant Political Stakes. No settled contradiction found; preserved the final-tour motive as source-scoped reconstruction and the 北河/河北 correction as a textual issue.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山
+
+Added source page for Qinji 122-1: Qin Shi Huang's 219 BCE eastern tour through former six-state territory, Taishan-Liangfu fengshan as heavenly-legitimacy claim, Qi-Lu scholars' disagreement over ritual procedure, Qin's use of native heaven-sacrifice practice, and the closing turn toward Yan-Qi fangshi and immortality search proposals. Created Taishan, Liangfu Mountain, Fengshan Ritual Legitimacy, and Imperial Tour Political Theater; updated overview, index, Qin Shi Huang, Qin State, Shiji, Sima Qian, Zizhi Tongjian, Mandate of Heaven Legitimacy, Confucian Ideal Governance, Qin Cosmic Capital Planning, Imperial Symbolic Standardization, Imperial Homogenization, Southern Tour Political Theater, and Immortality Quest Politics. No settled contradiction found; exact fengshan ritual steps and motive balance remain source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生
+
+Added source page for Qinji 121: Qin Shi Huang's first post-unification westward journey through Longxi and Beidi, source-scoped as high-temple ritual in Qin old lands; the Xianyang/Wei River/Ji Miao/Taiyi cosmic capital arrangement; and Qin chidao as road infrastructure with imperial lane hierarchy and controlled crossings. Created Qin Chidao Road System, Qin Ji Miao, Taiyi, Lishan, High-Temple Rite, and Qin Cosmic Capital Planning; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Yongcheng, Longxi Commandery, Beidi Commandery, Ganquan Palace, Warring States Period, Zhou Wu Wang, Confucius, Analects, Zizhi Tongjian, and related standardization/symbolic pages. No settled contradiction found; the westward-trip purpose, Taiyi target, and chidao dimensions are kept source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（1）
+
+Added source page for Zhouji 68 part 1: Qin's continued pressure on Wei after land cessions, Bai Qi and Sima Cuo taking dozens of cities, Qin Zhaoxiang Wang's East/West emperor title probe with Qi Min Wang, Su Dai's advice to reject empty status and focus on Song, renewed hezong pressure against Qin, the Qin-Qi-Zhao three-power setting, Song's wealth, Wei Ran and Li Dui's Dingtao/fief interests, and the Qin-Qi room-sharing around Anyi and Song. Created East-West Emperor Diplomatic Probe; updated overview, index, Qin/Qi/Zhao/Wei/Han state pages, Su Dai, Qi Min Wang, Qin Zhaoxiang Wang, Song State, Song Jun Yan, Wei Ran, Li Dui, Sima Cuo, Bai Qi, Dingtao, Anyi, Private Fief Expansion Through State War, Submission Through Status Elevation, Hezong Alliance, Qin Eastward Pressure, Land-For-Peace Exhaustion Trap, Lianheng Strategy, and Zonghengjia Diplomacy. No settled contradiction found; the Duyang/Gengyang location correction and the part-1 cliffhanger before the full Song Kang Wang cruelty narrative are kept source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？
+
+Added source page for Qinji 120-1: Wang Ben's 221 BCE northern attack on Qi, Qi Wang Jian's inducement surrender under Qin's unfulfilled five-hundred-li promise, his starvation at Gong, the host's casualty-sparing re-evaluation of Qi's fall, and Qin's post-unification self-defense narrative for destroying the six states. Created Casualty-Sparing Surrender and Conquest Self-Defense Narrative; updated overview, index, Qi Wang Jian, Hou Sheng, Jun Wang Hou, Wang Ben, Qin Shi Huang, Qin/Qi/Han/Zhao/Wei/Chu/Yan state pages, fallen-ruler pages, and related appeasement, low-posture, moralized-pretext, and vanquished-ruler reputation concepts. No settled contradiction found; the main tension is evaluative rather than factual: Qi's appeasement is both strategically terminal and civilian-sparing in the final campaign.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后
+
+Added source page for Qinji 119-3: Wang Ben's capture of Dai and Zhao Jia after Yan's fall, Wang Jian's Jiangnan/Baiyue pacification and Kuaiji Commandery setup, Qi's late peace under Jun Wang Hou, the jade linked-rings dignity story, Qi's possible misreading of Qin's far-state reassurance under yuanjiao jingong, and Yongmen Sima's remonstrance hook. Created Baiyue, Kuaiji Commandery, Yongmen Sima, and Distant-State Appeasement Trap; updated overview, index, Jun Wang Hou, Qi Wang Jian, Hou Sheng, Qi/Qin state pages, Qin Shi Huang, Wang Ben, Wang Jian, Zhao Jia, Dai State, Queen-Mother Regency, Yuanjiao Jingong Strategy, Appeasement Logic, Low-Posture Statecraft, and Conquest Commandery Transition. No settled contradiction found; the source-scoped "first true curtain-regency" title is preserved beside Xuan Taihou's earlier first queen-mother-power framing.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手
+
+Added source page for Qinji 111-1: Zhao's 236 BCE attack on Yan, Qin's opportunistic Wang Jian/Huan Yi/Yang Duanhe campaign against Zhao, Wei's earlier Ye transfer as pressure redirection, Yan's warning to Ying Zheng, Wang Jian's first developed appearance, and Zhao Daoxiang Wang's succession damage through Zhao Qian replacing Zhao Jia. Created Zhao Youmiu Wang, Zhao Jia, Huan Yi, Weak-State Mutual Predation, and Favorite-Driven Heir Displacement; updated overview, index, Qin/Zhao/Yan/Wei state pages, Qin Shi Huang, Wang Jian, Yang Duanhe, Zhao Daoxiang Wang, Qin Eastward Pressure, and Affection-Driven Succession Risk. No direct contradiction found; the title's causal claim is kept source-scoped rather than treated as a literal sole-cause explanation for Zhao's fall.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》47丨燕王哙的理想主义
+
+Added source page for a 芮淇讲透资治通鉴 episode contrasting Qin's practical Ba-Shu decision with Yan Wang Kuai's idealistic transfer of authority to Zi Zhi. Created Lu Maoshou and Rule-Breaking Abdication; updated overview, index, Yan Wang Kuai, Zi Zhi, Sima Cuo, Zhang Yi, Ying Si, Su Dai, Su Li, Chen Liao, Yan/Ba/Shu state pages, Qin Frontier Buffer Management, Chuaimo Technique, and Talent-Virtue Distinction. No direct contradiction found; Ba-Shu chronology is complementary with Zhouji 52, and the Chen Liao comparison is kept source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》104｜阴谋失算让秦国版图又又又膨胀了
+
+Added source page for a 芮淇讲透资治通鉴 episode on Ying Zheng's early reign under Lu Buwei, Han's Zheng Guo Canal plan to fatigue Qin, the canal's backfire into Qin agricultural and war capacity, Qin's attack on Wei while Xinlingjun remains unusable, Zhao's opportunistic attack on Wei, and Lian Po's removal, blocked recall, and death in Chu. Created Zheng Guo, Zhengguo Canal, Zhao Daoxiang Wang, Guo Kai, Le Cheng, and Self-Defeating Resource-Drain Strategy; updated overview, index, Qin Shi Huang, Lu Buwei, Lian Po, Meng Ao, Xinlingjun, Daliang, Qin/Han/Zhao/Wei state pages, and related rumor, command-replacement, yinmou-yangmou, and Qin-pressure concept pages. No direct contradiction found; the canal chronology and "廉颇老矣" envoy report are kept source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Xinlingjun's late arc: Qin's slander campaign after battlefield failure, Wei Anxi Wang's removal of Xinlingjun, Xinlingjun's frustrated withdrawal and death, Kong Bin's mourning-protocol advice, Liu Bang's youthful Xinlingjun admiration through Zhang Er, and the Qin transition from Qin Zhuangxiang Wang to Ying Zheng under Lu Buwei. Created Zhang Er; updated overview, index, Xinlingjun, Sima Qian, Wei Anxi Wang, Kong Bin, Han Huanhui Wang, Liu Bang, Qin Zhuangxiang Wang, Qin Shi Huang, Lu Buwei, Taiyuan, and related rumor, trust, patronage, reputation, power-exit, and Qin-pressure concept pages. No direct contradiction found; the title's Sima Qian "idol" frame and Liu Bang inheritance claim are kept source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin's 247 BCE expansion, Xinlingjun's recall from Zhao, five-state defeat of Meng Ao, and the Guancheng ethical conflict among Su Gao, Anling Jun, and Xinlingjun. Created Su Gao, Anling Jun, Guancheng, Xingze, Yingyang, Hu Sanxing, and State Survival vs Kinship and Ministerial Duty; updated overview, index, Xinlingjun, Mao Gong, Xue Gong, Meng Ao, Qin Zhuangxiang Wang, Qin Shi Huang, Wei Anxi Wang, Daliang, Taiyuan, Sanchuan, and related patronage, hezong, Qin-pressure, moral-cost, and historical-source pages. No direct contradiction found; Guancheng's speeches and title-level Sima Qian framing remain source-scoped.
+
+## [2026-08-21] ingest | Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits
+
+Added source page for an All-In episode on Anthropic's coding-led enterprise momentum, OpenAI's consumer-versus-enterprise strategy fork, Perplexity and Google as model/application distribution examples, private-equity AI rollups, superintelligence-driven valuation risk, agentic interfaces, Meta/YouTube youth-safety verdicts, age verification, and PCAST. Created PCAST; updated overview, index, All-In, Anthropic, OpenAI, Meta, YouTube, Perplexity, Google, David Sacks, David Friedberg, Michael Kratsios, and related AI strategy, SaaS, valuation, platform-liability, age-verification, and science-policy concept pages. No direct contradiction found; source-scoped business and litigation claims remain attributed to the episode and dated March 27, 2026.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Zhao's acceptance of Shangdang, Zhao Bao's fuller Qin-capacity warning, Zhao Xiaocheng Wang's ominous Shiji dream, Feng Ting's reward-and-weeping branch, and Sima Qian's four-dream Zhao-lineage structure. Created Historical Dream Foreshadowing, Zhao Dun, Changping Battle, and Zhao Kuo; updated overview, index, Feng Ting, Zhao Bao, Pingyuanjun, Zhao Dan, Shangdang, Han/Zhao/Qin state pages, Shiji, Zizhi Tongjian, Sima Qian, Zhanguo Ce, Windfall Decision Trap, Transport Corridor Severance, Qin Eastward Pressure, Farming-War Statecraft, Military Merit Rank System, Zhao Jianzi, and Zhao Wuling Wang. No direct contradiction found; Feng Ting's post-Shangdang fate is kept source-scoped because the episode preserves conflicting traditions.
@@ -1231,6 +1283,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍
+
+Added source page for Qinji 105: Qin famine-year pressure on Han, Meng Ao's twelve-city campaign, Li Mu's appointment after Lian Po, Li Mu's Yan campaign, northern-frontier command against Xiongnu, long defensive patience, baited encirclement, and the source-scoped contrast with Han Wudi's later resource-rich Xiongnu campaigns. Created Li Mu, Xiongnu, Wang Jian (Qin), Frontier Defensive Patience, Nomadic Cavalry Raiding Asymmetry, and Warring States Northern Great Walls; updated Zhao, Qin, Han, Yan, Meng Ao, Zhao Daoxiang Wang, Qin Eastward Pressure, Lure Enemy Out of Position, Warring States Military Transformation, Sunzi Bingfa, and Han Wudi. No direct contradiction found; troop counts, decade-long deterrence, and the Great Wall summary are kept source-scoped.
 
 ## [2026-08-18] ingest | EP 16: Data Decoded: Navigating the AI Revolution
 
@@ -8704,6 +8760,50 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判
+
+Added source page for Qinji 112-3: Yao Jia's return and defense against Han Fei's attack, the precedent argument around low-origin talent, Li Si's loyalty accusation against Han Fei, Han Fei's imprisonment and poisoned death, Ying Zheng's too-late regret, Sima Qian and Yang Xiong's reception, and the host's source-scoped challenge to Sima Guang's Han Fei judgment. Updated overview, index, Han Fei, Yao Jia, Li Si, Qin Shi Huang, Qin/Han state pages, Li Mu, Sima Qian, Yang Xiong, Sima Guang, Shiji, Zizhi Tongjian, Fayan, Wang Anshi, precedent figures, and related court-politics, envoy, and historiography concept pages. No settled contradiction found; Sima Guang motive claims and late-Warring-States envoy-norm collapse are kept source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？
+
+Added source page for Qinji 112-1: Li Si's first-attack-Han proposal, Han Fei's Cun Han redirection toward Zhao, Li Si's answer about Han uncertainty, Yao Jia's low-origin and Zhao mission background, Li Si's rumor operation that gets Yao Jia expelled, Ying Zheng's lavish backing, and Yao Jia's three-year disruption of the Han-Wei-Chu-Zhao hezong plan through persuasion and bribery. Created Yao Jia and Cun Han. Updated overview, index, Li Si, Han Fei, Qin Shi Huang, Qin State, Han State, Zhao State, Wei State, Chu State, Zhanguo Ce, Hezong Alliance, Terminal Hezong Failure, Interest-Based Coalition Sabotage, Counterintelligence Rumor Wedge, and Warring States Careerist Mobility. No direct contradiction found; the transcript cuts off during Li Si's accusation against Han Fei, so that branch remains source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国
+
+Added source page for Qinji 110-2: Li Si and Han Fei as Xunzi's standout students, Li Si's choice of Qin over Chu, his entry through Lu Buwei and rise with Ying Zheng, Zheng Guo's spy-case trigger for the guest-expulsion order, the full Jian Zhu Ke Shu argument, Ying Zheng's recall and restoration of Li Si, and the closing turn toward Qin's bribery/alienation/assassination tactics and Lu Buwei's death. Updated overview, index, Li Si, Jian Zhu Ke Shu, Guest Expulsion Order, Zheng Guo, Han Fei, Qin State, Qin Shi Huang, Lu Buwei, Xunzi, Warring States Careerist Mobility, Self-Defeating Resource-Drain Strategy, and Interest-Based Coalition Sabotage. No direct contradiction found; the transcript's "建筑课书" wording is normalized to 《谏逐客书》 and the title's "CP" phrasing is treated as a podcast hook for the Ying Zheng-Li Si working relationship.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》108-1｜历史敢当面顶撞秦始皇第一人
+
+Added source page for Qinji 108-1: Ying Zheng's 238 BCE personal-rule threshold, Yang Duanhe's continued pressure on Wei to the Qi border, the fourth-month cold disaster as omen framing, Lao Ai's rise and rebellion, Zhao Ji's confinement, and Mao Jiao's death-defying remonstrance. Created Lao Ai, Mao Jiao, Yang Duanhe, Changping Jun, Yongcheng, and Death-Defying Remonstrance. Updated overview, index, Qin Shi Huang, Lu Buwei, Zhao Ji, Qin State, Natural Disaster Political Omen, Qin Eastward Pressure, Terminal Hezong Failure, Hezong Alliance, and Court Feedback Collapse. No direct contradiction found; the episode's Qin-Qi border claim is recorded as a source-scoped interpretation of hezong's geographic closure, and the Lao Ai/Zhao Ji branch is not used to settle the older Ying Zheng paternity rumor.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡
+
+Added source page for the 芮淇讲透资治通鉴 episode on Xinlingjun's suspicious same-year death before Wei Anxi Wang, Qin's locust-and-epidemic response through rank-for-grain finance, Qin's creation of Dong Commandery, and Yan's failed attack on Zhao under Ju Xin. Created Wei Jingmin Wang, Pang Nuan, Dong Commandery, Xinlingjun Death Suspicion, and Rank Sale Disaster Finance. Updated overview, index, Xinlingjun, Wei Anxi Wang, Liu Bang, Qin Shi Huang, Qin State, Meng Ao, Wei State, Zhao State, Yan State, Yan Wang Xi, Ju Xin, Chunshenjun, Power Exit Trap, Qin Eastward Pressure, Hezong Alliance, Post-Disaster Predation Misread, Disaster Response State Capacity, Military Merit Rank System, and Financial Power And State Capacity. No direct contradiction found; the non-natural-death and smallpox claims are kept source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜
+
+Added source page for the second Qinji 102 installment: Lu's special historical-record authority and Confucius connection, Lu's late survival through great-power distraction, Qi's non-intervention under Qi Wang Jian and Hou Sheng, Chu's final destruction of Lu, Chunshenjun's move from Huai north to Jiangdong, Meng Ao's Zhao campaign notice, and the start of 《吕氏春秋》 compilation. Created Hou Sheng, Jiangdong, Historical Record Authority, and Small-State Survival by Great-Power Distraction; updated Lu State, Chu State, Qi State, Qi Wang Jian, Chunshenjun, Confucius, Lushi Chunqiu, Meng Ao, Qin Zhuangxiang Wang, Eastern Zhou Polity, Jiuding, Warring States Four Lords, and Fief Security Illusion. Recorded a source-scoped chronology tension with Qinji 102-1 over Eastern Zhou's destruction and the Jiuding transfer.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了
+
+Added source page for Qinji 100-1: Qin Zhaoxiang Wang's final years, "天下来宾" and Qin's quasi-royal hegemonic posture, Han Huanhui Wang's unusually deferential mourning, Wei Anxi Wang's killing and replacement of Wey's ruler, Qin Xiaowen Wang's accession, Zichu's crown-prince appointment, and Zhao Ji / Ying Zheng's return from Handan. Created Yan Taizi Dan, Wey Huaijun, Wey Yuanjun, Quasi-Royal Qin Hegemony, and Weak-Over-Weak Predation; updated Qin State, Qin Zhaoxiang Wang, Qin Xiaowen Wang, Qin Zhuangxiang Wang, Qin Shi Huang, Zhao Ji, Han State, Han Huanhui Wang, Wei State, Wei Anxi Wang, Wey State, Yan State, Power Etiquette Reading, and Weak-State Status Demotion. No direct contradiction found; the Wei lateness punishment and Ying Zheng memory-revenge readings are kept source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密
+
+Added source page for the third Qinji 99 installment: Xunzi and Linwu Jun's military debate before Zhao Xiaocheng Wang, Linwu Jun's technique-centered emphasis on timing, terrain, speed, and deception, Xunzi's people-unifying renyi army hierarchy, Qin's reward-and-punishment military strength as powerful but sub-kingly, the "盗兵" critique of profit-driven armies, and the five weights / three command refusals. Created Zaofu, Xunzian Military Legitimacy, Profit-Driven Army Limits, and Xunzian Command Restraint; updated overview, index, Xunzi, Linwu Jun, Zhao Dan, Xunzi Text, Qin Feizi, Qin State, Sunzi Bingfa, Xunzian Wangba Three Paths, Confucian Ideal Governance, People-Based Political Security, Warring States Military Transformation, Military Merit Rank System, Renhe Political Power, and Wangdao vs Badao. No direct contradiction found; the modern team-culture analogy, Linwu Jun's limited biography, and the Qi/Wei/Qin army hierarchy are kept source-scoped.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》99-2｜明明一脸“败相”的蔡泽 凭什么拜相
+
+Added source page for the second Qinji 99 installment: Cai Ze's completed 功成身退 persuasion of Fan Ju, Fan Ju's resignation and recommendation of Cai Ze, Cai Ze's brief Qin chancellorship, Fan Ju/Zheng Anping/Wang Ji linked fallout, and Xunzi's appointment as Lanling magistrate under Chunshenjun. Created Lanling Warring States and Linwu Jun; updated overview, index, Cai Ze, Fan Ju, Qin Zhaoxiang Wang, Qin/Chu/Lu state pages, Mi Wan, Chunshenjun, Xunzi, Zheng Anping, Wang Ji, Power Exit Trap, Warring States Careerist Mobility, Occupation Pacification Strategy, Confucian Ideal Governance, Xunzian Wangba Three Paths, and Talent Referral Quality. No direct contradiction found; Lanling wording, Fan Ju death, and Xunzi/Linwu Jun chronology remain source-scoped.
+
+## [2026-08-21] ingest | Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like
+
+Added All-In source page for Bryan Johnson's 5-MeO-DMT and longevity self-experiment discussion: psychedelic longevity claims, default-mode-network reset, psilocybin measurement, medical supervision, psychosis and bad-trip risk, founder and family identity disruption, mitochondrial therapy, patient-derived organoids, NewLimit, and cellular reprogramming control risk. Created Bryan Johnson, 5-MeO-DMT, Braintree, Venmo, Kernel, NewLimit, Default Mode Network, Psychedelic Longevity Hypothesis, Psychedelic Identity Disruption, Mitochondrial Therapy, Patient-Derived Organoids, and Cellular Reprogramming Control Problem; updated overview, index, All-In, DMT, Psilocybin Mushrooms, Neuroplasticity, Self-Experimentation, Tech-Culture Biohacking, Medical Risk Management, GLP-1 Agonists, and Life Reprogramming Vision. No direct contradiction found; the source-scoped boundary is that Johnson's 5-MeO objective data had not yet been analyzed, so the episode's strongest claims remain subjective and provisional.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相
+
+Added source page for the first Qinji 99 installment: the transition from 周纪 to 秦纪 as chronicle periodization, the distinction between Qin state and formal Qin dynasty, Qin Zhaoxiang Wang's post-Handan/Fan Ju personnel crisis, Cai Ze's access-by-provocation, Tang Ju's physiognomic confidence frame, Wen Wang Guanren Fa as a talent-assessment bridge, and Cai Ze's opening 功成身退 warning to Fan Ju. Created Cai Ze, Tang Ju, Chronicle Periodization, and Wen Wang Guanren Fa; updated overview and index, with existing Fan Ju/Qin pages receiving source-scoped follow-up. No direct contradiction found; the title's chancellor payoff, physiognomy, and Qin纪 boundary are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）
 
 Added source page for the fourth post-Changping installment: why Wei Qi's helpers were admired, how Pingyuanjun and Yu Qing fit aristocratic friendship and士人 recognition ethics, how Xun Yue criticizes the same conduct as dead-party loyalty, and how Li Bai, Wang Anshi, and Wang Shizhen read the story differently. Created Xun Yue, Li Bai, Wang Shizhen, and Death-Party Loyalty vs Official Duty; updated overview, index, Fan Ju, Wei Qi, Yu Qing, Pingyuanjun, Xinlingjun, Yu Rang, Sima Qian, Wang Anshi, Aristocratic Friendship vs State Order, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, Personal Revenge Through State Power, Warring States Careerist Mobility, and Imperial Examination Opportunity Equality. No direct contradiction found; the source is preserved as an interpretive/reception layer rather than a detailed Handan-campaign chronology.
@@ -8999,3 +9099,547 @@ Added source page for the fourth Mao Sui/Lu Zhonglian installment: Lu Zhonglian'
 ## [2026-08-21] lint | Wiki lint
 
 Ran health before lint; health scanned 12,259 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,259 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,259 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》96丨毛遂自荐（5）
+
+Added source page for the fifth Mao Sui/Xinlingjun installment: Wei Anxi Wang's fear of Qin, Sima Qian's special praise of Xinlingjun, Liu Bang's later admiration, Hou Ying's identity as an elderly Yi Gate keeper, the Confucian low-office reclusion reading, the "虚左" reception scene, Hou Ying's detour to Zhu Hai, and public humiliation as a test that builds Xinlingjun's reputation for礼贤下士. Created Zhu Hai, Confucian Low-Office Reclusion, and Public Humility Reputation Test; updated overview, index, Xinlingjun, Hou Ying, Wei Anxi Wang, Daliang, Sima Qian, Shiji, Liu Bang, Warring States Four Lords, Warring States Retainer Patronage, and Talent Attraction Through Respect. No direct contradiction found; Shiji's claim that Xinlingjun deterred attacks on Wei for more than ten years and the Yi Gate location inference are kept source-scoped.
+
+## [2026-08-21] lint | Wiki lint
+
+Ran health before lint; health scanned 12,263 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,263 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,263 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》96丨毛遂自荐（6）
+
+Added source page for the sixth Mao Sui/Xinlingjun installment: Pingyuanjun's pressure letter, Xinlingjun's initially useless death mission, Hou Ying's tiger-tally plan, Ru Ji's palace access, Zhu Hai's killing of Jin Bi, Xinlingjun's disciplined seizure of the Wei army, Wei-Chu-Zhao relief of Handan, Zheng Anping's surrender, Wang He's retreat, Han's entry into the coalition recovery, and Bai Qi's post-defeat "I told you so" pressure from Qin Zhaoxiang Wang. Created Ru Ji, Jing Yang, Tiger Tally Command System, Stealing Tiger Tallies to Rescue Zhao, and Moral Cost of Effective Rescue; updated overview, index, Xinlingjun, Hou Ying, Zhu Hai, Jin Bi, Wei Anxi Wang, Pingyuanjun, Zheng Anping, Wang He, Bai Qi, Coalition Transit Dependency, Coalition Self-Preservation Failure, Warring States Retainer Patronage, and Public Humility Reputation Test. No direct contradiction found; Jin Bi's death is kept as the host's source-scoped moral judgment, and tiger-tally material details are kept source-scoped pending material-history corroboration.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》97-1丨白起之死
+
+Added source page for the first Zhouji 97 installment: Hou Ying's timed suicide, Zhu Hai's游侠 framing, Wei-Chu-Zhao relief of Handan, Qin's failed insistence on continuing the campaign, Bai Qi's demotion and forced suicide at 杜邮, and the moral return of the Changping prisoner killing. Created Duyou Sword; updated overview, index, Bai Qi, Qin Zhaoxiang Wang, Fan Ju, Hou Ying, Zhu Hai, Xinlingjun, Handan, Qin/Zhao/Wei/Chu state pages, War Cost Tempo Discipline, Surrendered Prisoner Security Dilemma, Post-Battle Terror Signaling, Retainer Reciprocity Ethic, Warring States Retainer Patronage, Moral Cost of Effective Rescue, Stealing Tiger Tallies to Rescue Zhao, and Warring States War Brutalization. No direct contradiction found; the forty-year delay claim, casualty totals, Liang Qichao death-share calculation, and the unfinished "大力揽权" transition are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran health before lint; health scanned 12,271 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,271 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,271 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》97-2丨揭秘信陵君凭什么是四公子之首
+
+Added source page for the second Zhouji 97 installment: Zheng Anping's surrender and Fan Ju's recommendation liability, Qin Zhaoxiang Wang's protection of Fan Ju despite legal implication, Xinlingjun's post-rescue identity split between Wei criminal and Zhao benefactor, Zhao Xiaocheng Wang's five-city and stair-ritual reward problem, the 负臣 frame, Tangmu Yi as restrained honor, and Xinlingjun's Zhao-side visits to Mao Gong and Xue Gong. Created Mao Gong, Xue Gong, Fu Chen, and Tangmu Yi; updated overview, index, Xinlingjun, Pingyuanjun, Zhao Dan, Fan Ju, Zheng Anping, Wang Ji, Wei Anxi Wang, Qin Zhaoxiang Wang, Xunzi, Warring States Four Lords, Warring States Retainer Patronage, Talent Attraction Through Respect, Power Etiquette Reading, and Moral Cost of Effective Rescue. No direct contradiction found; Qin legal erosion, the 负臣 analogy, and the previewed Pingyuanjun tension are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran health before lint; health scanned 12,276 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,276 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,276 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》97-3丨吕不韦：历史上风投第一人
+
+Added source page for the third Zhouji 97 installment: Xinlingjun's answer to Pingyuanjun over low-status friendships, the moralized definition of士, Lu Zhonglian's refusal of fief and gold, noble discomfort with merchant profit, and Lu Buwei's political investment in the Qin hostage Yiren through Huayang Furen's childless but favored position. Created Qin Zhuangxiang Wang/Yiren, Huayang Furen, Moralized Shi Identity, Merchant-Aristocratic Value Conflict, Political Venture Investment, and Maternal Status Succession Leverage; updated overview, index, Lu Buwei, Qin Xiaowen Wang, Qin Shi Huang, Lu Zhonglian, Xinlingjun, and Pingyuanjun. No direct contradiction found; the venture-capital label, the unnamed woman given to Yiren, and the unfinished later adoption/enthronement sequence are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran health before lint; health scanned 12,283 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,283 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,283 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》97-4丨史上为事业送老婆第一人
+
+Added source page for the fourth Zhouji 97 installment: Lu Buwei's concentrated backing of Yiren, the Yangquan Jun to Huayang Furen persuasion route, Anguo Jun's establishment of Yiren as嫡子, the jade tally as written succession proof, Lu Buwei's doubtful师傅 role, Zhao Ji's transfer to Yiren, Qin Shi Huang's paternity rumor, and Yiren's escape from Handan and renaming as 子楚. Created Zhao Ji, Yangquan Jun, and Written Succession Credential; updated overview, index, Lu Buwei, Qin Zhuangxiang Wang/Yiren, Huayang Furen, Qin Xiaowen Wang, Qin Shi Huang, Political Venture Investment, Maternal Status Succession Leverage, Mandate of Heaven Legitimacy, Textual Variant Political Stakes, Historical Detective Reasoning, and Guo Moruo. No direct contradiction found; the paternity rumor and Lu Buwei's tutor role are kept source-scoped and treated as disputed.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》98丨历史上首个老赖登场了！
+
+Added source page for the Zhouji 98 finale: Zhou Nan Wang's failed Son-of-Heaven anti-Qin mobilization, war borrowing from wealthy households, the source-scoped "债台高筑" idiom story, Qin Zhaoxiang Wang's punishment of Western Zhou, Zhou Nan Wang's death at Luoyi, and the transition from 周纪 toward 秦纪. Created Zhaitai Gaozhu and Nominal Authority Mobilization Trap; updated overview, index, Zhou Nan Wang, Qin Zhaoxiang Wang, Hezong Alliance, Western Zhou Polity, Zhou Royal House, Eastern-Western Zhou Split, Mi Wan / Chu Kaolie Wang, Chunshenjun, Qin State, Zhao Ji, Qin Shi Huang, Fushu, Luoyi, and Handan. No direct contradiction found; the episode's 867-year Zhou arithmetic and idiom-origin explanation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？
+
+Added source page for the fourth Qinji 99 installment: Xunzi's standards for generals, army signal discipline, renyi rules of engagement, the host's Clausewitz-backed critique of bloodless-war idealism, Chen Ao's question about renyi and warfare, Xunzi's 251 BCE return to Lanling, Lu's nominal collapse under Chu occupation, and Qin Zhaoxiang Wang's 251 BCE death as the next-series hook. Created Carl von Clausewitz and Confucian Military Idealism Limits; updated Xunzi, Lanling, Chunshenjun, Lu State, Zhou Royal House, Western Zhou Polity, Qin Zhaoxiang Wang, Qin State, Chu State, Yan State, Mi Wan, Xunzian Military Legitimacy, Xunzian Command Restraint, Confucian Ideal Governance, Warring States Military Transformation, Warring States War Brutalization, Mencian Idealism Limits, People-Based Political Security, Occupation Pacification Strategy, and Wangdao versus Badao. No direct contradiction found; the Clausewitz comparison and Xunzi's Lanling chronology are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki lint result
+
+Health passed first with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,327 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 12,327 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model is not provider-qualified and no provider API key variables are available in this shell; a bounded in-session review of the orphan page, fragile-bridge endpoints, and explicit contradiction markers found no new direct contradiction. Supplemental manual review noted that `wiki/entities/LiXiaojie.md` mentions the EP266 AI-for-science source but does not include that source slug in frontmatter. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧
+
+Added source page for the second Qinji 100 installment: Qin Zhaoxiang Wang's political funeral, six-state mourning, Han's submissive mourning dress, the post-Zhou terminology shift around "薨," Qin Zhaoxiang Wang's long-reign continuity, Yan Wang Xi and Li Fu's attempt to exploit Zhao's post-Changping losses, Le Jian and Jiang Qu's ignored warnings, Lian Po's victory in the Hao-Dai battle, and Pingyuanjun's death and inherited-title note. Created Yan Wang Xi, Li Fu, Le Jian, Jiang Qu, Hao-Dai Battle, and Post-Disaster Predation Misread; updated Qin Zhaoxiang Wang, Zhao Dan, Yan State, Zhao State, Lian Po, Pingyuanjun, Changping Battle, Quasi-Royal Qin Hegemony, Weak-Over-Weak Predation, Power Etiquette Reading, and Political Funeral. No direct contradiction found; troop counts and the Zhu Xi terminology interpretation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》101-1｜这位倒霉君王登基三天即猝死
+
+Added source page for the first Qinji 101 installment: Qin Xiaowen Wang's formal three-day reign and uncertain death, Zichu's accession as Qin Zhuangxiang Wang, honors for Huayang Furen and Xia Taihou, Yan's Liaocheng command trap, Lu Zhonglian's arrow-letter persuasion, Tian Dan's recovery of the city, and Zi Shun's practice-into-character answer. Created Xia Taihou, Liaocheng, Zi Shun, Qin Xiaowen Wang Death Uncertainty, Liaocheng Commander Dilemma, and Virtue Practice Internalization; updated Qin Xiaowen Wang, Qin Zhuangxiang Wang, Huayang Furen, Lu Buwei, Lu Zhonglian, Tian Dan, Yan Wang Xi, Yan State, Qi State, Qin State, Wei Anxi Wang, Confucius, Xunzi, Interest Reframing Persuasion, and Historical Detective Reasoning. No direct contradiction found; the 251/250 BCE accession distinction and Lu Buwei murder suspicion are kept source-scoped.
+
+## [2026-08-21] lint | Wiki lint result
+
+Health passed first with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,341 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki scan found 12,341 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified; a bounded in-session review of the orphan page and fragile-bridge endpoints found no new direct contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》101-2｜如何看待性本善与性本恶？
+
+Added source page for the second Qinji 101 installment: Mencius's 性善论, Xunzi's 性恶论, Confucius's "性相近，习相远" as human-plasticity bridge, the fire-mask disaster example, disaster as civilization retreat, self-care before care for others, Wei Anxi Wang's fear-driven failure to use Xinlingjun consistently, Lu Zhonglian's Li Bai reception, and the open question of whether sustained good action can outweigh prior wrongdoing. Created Xingshan Theory, Human Nature Plasticity, and Disaster Civilization Retreat; updated Mengzi, Xunzi, Confucius, Wei Anxi Wang, Xinlingjun, Lu Zhonglian, Li Bai, Xing'e Theory, Virtue Practice Internalization, Fixed Human Nature Politics, and Action Defines Identity. No direct contradiction found; the 性善/性恶 slogans are kept as popular shorthand rather than direct classical quotations.
+
+## [2026-08-21] lint | Wiki lint result
+
+Health passed first with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,345 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki scan found 12,345 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？
+
+Added source page for the first Qinji 102 installment: Lu Buwei's appointment as Qin chancellor, the source-scoped claim that he descends from Jiang Taigong through a Jiang-surname/Lu-clan line, Jiang Taigong's late recognition by Zhou Wenwang, Zhou Wuwang's conquest and Qi enfeoffment branch, Eastern Zhou's destruction by Lu Buwei, Qin's Sanchuan commandery creation through Meng Ao, and Lu's final demotion under Chu. Created Zhou Wenwang and Late-Blooming Talent; updated overview, index, Lu Buwei, Qin Zhuangxiang Wang, Jiang Taigong, Zhou Wuwang, Eastern Zhou Polity, Zhou Royal House, Sanchuan, Meng Ao, Qin State, Qi State, Chu State, Lu State, and Zhouyi Divination. No direct contradiction found; the Lu Buwei genealogy, Jiang Taigong age details, and Sanchuan river-name uncertainty are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back
+
+Added source page for the All-In interview with Spencer Pratt on his Los Angeles mayoral campaign after losing his home in the Pacific Palisades fire. Created Spencer Pratt, Nithya Raman, Los Angeles Department of Water and Power, Los Angeles Fire Department, FireAid, Los Angeles Unified School District, Los Angeles Metro, Peter Chernin, Emergency Warning Infrastructure, Mandatory Treatment Homelessness Policy, Municipal Nonprofit Accountability, Public-Safety-First Urban Governance, Municipal Transparency Dashboard, and Permit Automation For Zoned Projects. Updated overview, index, All-In, Los Angeles, Pacific Palisades, Karen Bass, Rick Caruso, California Post-Fire Rebuilding Delay, Disaster Response State Capacity, Permitting Delay Cost, and SRO Loss And Homelessness. No direct contradiction found; Pratt's homelessness frame is recorded as a tension with the housing-supply-focused SRO loss concept, and claims about reservoirs, reports, nonprofit misuse, polling, investigations, and political motives are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 12,398 pages with no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the wiki scan found 12,398 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model is not provider-qualified; supplemental in-session checks found 184 entity/concept pages with source links missing from frontmatter and five pages whose body references a newer source than `last_updated`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | Charles & Chase Koch on How They Quietly Built a $150B Empire
+
+Added source page for the All-In interview with Charles Koch and Chase Koch on Koch Industries, capability-bounded growth, operating principles, private ownership, Stand Together, education reform, barrier-removal social change, and permissionless AI innovation. Created Charles Koch, Chase Koch, Koch Industries, Koch Fertilizer, Koch Disruptive Technologies, Georgia-Pacific, Molex, Stand Together, Alpha School, Khan Academy, Vela Fund, The Phoenix, Capability-Bounded Growth, Koch Operating Principles, Values-First Talent, Long-Term Private Ownership, and Barrier-Removal Social Change. Updated overview, index, All-In, Comparative Advantage, Values As Operational Asset, Permissionless AI Innovation, and Useful Work Career Compounding. No direct contradiction found; the business-history, labor, education, philanthropy, and policy claims are kept as source-scoped Koch-family participant accounts.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》107｜最后一次合纵伐秦 伐了个寂寞
+
+Added source page for Qinji 107: the failed final anti-Qin hezong campaign in 241 BCE, the conflicting Chunshenjun and Pang Nuan source traditions, Chu's move to Shouchun after Zhu Ying's warning, Qin's continued Dong Commandery pressure, and the source-scoped Wei/Wey ambiguity around Yuanjun and Jun Jiao. Created Zhu Ying, Shouchun, Wey Jun Jiao, and Terminal Hezong Failure. Updated overview, index, Chunshenjun, Mi Wan, Qin Shi Huang, Pang Nuan, Wei Jingmin Wang, Dong Commandery, Wey State, Wey Yuanjun, Qin State, Wei State, Hezong Alliance, Qin Eastward Pressure, Textual Variant Political Stakes, and Chu State. No direct contradiction found; variant campaign accounts and Wei/Wey identity wording are preserved as source-scoped cautions.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史
+
+Added source page for Qinji 108-2: Zhao Ji, Lu Buwei, and Lao Ai's scandal prehistory before the Qinji 108-1 rebellion account; Ying Zheng's hostage-childhood and minority-rule context; Lu Buwei's indirect exposure-management through Lao Ai's false eunuch entry; Lao Ai's rise through Zhao Ji to Changxin Hou and "假父" rhetoric; and the host's critique of gendered desire framing in Shiji-style historical writing. Created Gendered Historiographical Desire Framing; updated overview, index, Lao Ai, Zhao Ji, Lu Buwei, Qin Shi Huang, Shiji, Sima Qian, Zhang Ailing, Jin Ping Mei, Dream of the Red Chamber, and Female Subjectivity In Classic Reading. No direct contradiction found; the source is kept as a prequel and interpretive supplement to Qinji 108-1 and does not settle the older Ying Zheng paternity rumor.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 12,430 pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the wiki scan found 12,430 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint failed because LiteLLM received the unqualified model `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》108-3｜皇太后和情夫嫪毐情色背后的启示
+
+Added source page for Qinji 108-3: Zhao Ji's Yongcheng move and secret sons with Lao Ai, Lao Ai's rise from favorite into succession threat, Ying Zheng's purge and power consolidation, Lu Buwei's removal rather than immediate execution, Mao Jiao's restoration of the mother-son relationship, and the host's sympathetic gendered reading of Zhao Ji. Created Palace Scandal Power Consolidation; updated overview, index, Lao Ai, Zhao Ji, Lu Buwei, Qin Shi Huang, Mao Jiao, Xuan Taihou, Gendered Historiographical Desire Framing, Female Subjectivity In Classic Reading, and Queen-Mother Regency. No direct contradiction found; Zhao Ji's psychology, the Xuan Taihou comparison, and the Buddhist attachment frame are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》109-1｜历史上最著名的皇帝被“绿”了
+
+Added source page for Qinji 109-1: Chu Kaolie Wang's childless succession crisis, Chunshenjun's hidden-pregnancy betrayal, Li Yuan and his sister's ascent, Li Yuan's murder plot, Zhu Ying's "无妄之祸" warning, and the Qin Shi Huang paternity-rumor comparison. Created Li Yuan, Li Yuan's Sister, and Pregnancy Succession Substitution. Updated overview, index, Chunshenjun, Mi Wan, Zhu Ying, Chu State, Qin Shi Huang, Historical Detective Reasoning, Succession Non-Designation Risk, Power Exit Trap, and Warring States Four Lords. No direct contradiction found; Li Yuan's source spelling, Li Yuan's murder motive, and the paternity-rumor comparison are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门
+
+Added source page for Qinji 109-2: Zhu Ying ignored warning, Li Yuan palace ambush and destruction of Chunshenjun household, Chu Youwang accession under Li-family control, the closing evaluation of the Warring States Four Lords, and the Li Si / Jian Zhu Ke Shu next-episode hook. Created Chu Youwang, Jia Yi, Guo Qin Lun, Li Si, Jian Zhu Ke Shu, and Historiographical Presentism. Updated overview, index, Chunshenjun, Li Yuan, Li Yuan Sister, Zhu Ying, Mi Wan, Chu State, Warring States Four Lords, Pregnancy Succession Substitution, Succession Non-Designation Risk, Patron Succession Exposure, Power Exit Trap, Yang Xiong, Fayan, Sima Qian, Shiji, Sima Guang, Zizhi Tongjian, Zhu Xi, and Zizhi Tongjian Gangmu. No direct contradiction found; Li Yuan name spelling, the "无望/无妄" warning wording, and the Chu heir genealogy complications are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back
+
+Added source page for the All-In interview with Dan Loeb on Third Point, short selling, event-driven investing, modern stock picking, management quality, Nvidia, venture-to-public exit discipline, education reform, and criminal-justice clemency. Created Dan Loeb, Third Point, Actrade, Ross Ulbricht, Silk Road, Success Academies, Short Selling, Stock Picking, Event-Driven Investing, Management Quality as Investment Edge, Homebuilder Short Thesis, Private Winner Hold Discipline, and Criminal Justice Clemency Framework. Updated overview, index, All-In, Nvidia, Palantir, Investment Edge, Passive Investing, Accounting Red Flags, Business Moat, Private-Company Secondaries, Venture DPI Liquidity Pressure, and AI Equity Valuation Risk. No direct contradiction found; investment calls, homebuilder claims, Nvidia valuation, Palantir sale regret, and clemency narratives are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》48丨君王为啥不能传位宰相
+
+Added source page for Zhouji 48: Zhou Shenliang Wang's death and Zhou Nan Wang's accession; Yan Wang Kuai and Zi Zhi's rule-breaking transfer collapsing into Yan civil disorder; Shi Bei and the crown prince's failed anti-Zi-Zhi move; Qi Xuan Wang's Zhang Zi-led occupation and killing of Yan Wang Kuai and Zi Zhi; Sima Guang's 礼-as-rule interpretation; and Qin's early Zhou Nan Wang pressure on Yiqu, Wey/Quwo, and Han at Anmen. Created Shi Bei, Zhang Zi (Qi general), Anmen (Warring States), and Li As Political Order. Updated overview, index, Yan Wang Kuai, Zi Zhi, Qi Xuan Wang, Yan State, Yan Zhaowang, Zhou Shenliang Wang, Zhou Nan Wang, Qin State, Yiqu, Quwo, Wey State, Han Xiang Wang, Sima Guang, Rule-Breaking Abdication, Qin Frontier Buffer Management, and Qin Eastward Pressure. No direct contradiction found in the Yan sequence; the Yiqu prior-destruction wording and Quwo/Wey wording are kept source-scoped against existing Yiqu and Quwo synthesis.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？
+
+Added source page for Qinji 110-1: Lu Buwei's post-removal political aftershock, Qin royal-clan ministers' guest-expulsion argument, Zheng Guo as foreign-agent evidence, Li Si's low-status Chu clerk background, the toilet-mouse versus granary-mouse analogy, and Li Si's turn toward Xunzi study before the full Jian Zhu Ke Shu argument. Created Guest Expulsion Order and Mouse Philosophy; updated overview, index, Li Si, Jian Zhu Ke Shu, Qin Shi Huang, Lu Buwei, Xunzi, Qin State, Zheng Guo, Zhengguo Canal, Self-Defeating Resource-Drain Strategy, Human Nature Plasticity, and Warring States Careerist Mobility. No direct contradiction found; the episode's cliffhanger and Li Si motive reading are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-08-21] ingest | 《资治通鉴·秦纪》111-2｜我与吕不韦的隔空对话
+
+Added source page for Qinji 111-2: Lu Buwei's unsafe Luoyang retreat, Ying Zheng's merit/kinship/仲父-denying letter and Shu relocation order, Lu Buwei's poisoned-wine suicide in 235 BCE, the Wang Yu forced-death comparison, posthumous punishment of mourners, Yang Xiong/Fayan evaluation through Sima Guang, and the drought-year Wei-Chu/Qin support notice. Created Wang Yu (Southern Dynasties). Updated overview, index, Lu Buwei, Qin Shi Huang, Qin State, Wei State, Chu State, Power Exit Trap, Weak-State Mutual Predation, Terminal Hezong Failure, Textual Variant Political Stakes, Sima Guang, Yang Xiong, Fayan, Shiji, and Zizhi Tongjian. No direct contradiction found; Lu Buwei's psychology, Ying Zheng's motive, and the imagined final scene are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》112-2｜秦始皇也是他的书迷？
+
+Added source page for Qinji 112-2: Han Fei's ignored Legalist reform advice inside weak Han, his writings 《孤愤》 and 《五蠹》, the 郑人买履 practical-judgment parable, Ying Zheng's admirer response, Han Fei's mission to Qin, Li Si's opposition, and the 234-233 BCE Huan Yi / Li Mu Zhao-front setup. Created Han An, Gu Fen, Wu Du, Zheng Ren Mai Lv, and Author Admiration Power Risk. Updated overview, index, Han Fei, Li Si, Qin Shi Huang, Qin State, Han State, Zhao State, Li Mu, Huan Yi, Legalist Ruler Technique, and Rule Idolatry. No direct contradiction found; Han Fei's imprisonment and death remain unresolved by this source.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》113｜李牧如何用一己之力阻秦国统一
+
+Added source page for Qinji 113: Qin's 232 BCE Zhao-front pressure, Yan Taizi Dan's mistreatment and flight, Han/Wei land concessions, Han's 230 BCE destruction, Huayang Taihou's death, Zhao's earthquake-famine-drought crisis, Dun Ruo's rumor work, and the 229 BCE removal of Li Mu and Sima Shang through Guo Kai's bribed treason accusation. Created Sima Shang, Dun Ruo, Zhao Cong, Yan Ju (Zhao), and Disaster-Exploiting Conquest Timing. Updated overview, index, Li Mu, Guo Kai, Zhao Youmiu Wang, Wang Jian, Yang Duanhe, Yan Taizi Dan, Han An, Huayang Furen, Qin Shi Huang, Qin State, Zhao State, Han State, Wei State, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, Treason Accusation Trap, Battlefield Commander Replacement Risk, Qin Eastward Pressure, and Natural Disaster Political Omen. No settled contradiction found; Li Mu as the last variable in Qin unification is kept as a source-scoped strategic interpretation.
+
+## [2026-08-21] lint | Wiki lint check
+
+Health passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,493 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile graph bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 12,493 pages, so bridge findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM could not run because no provider API key variables are present in the environment; a bounded in-session sample review found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段
+
+Added source page for Qinji 114-1: Wang Jian's defeat of Zhao after the Li Mu/Sima Shang removal, Zhao Cong's death and Yan Ju's flight, Handan's fall, Zhao Qian's capture and Fangling exile, Ying Zheng's Handan revenge, Zhao Ji's death, Wang Jian's Zhongshan deployment, Zhao Jia's Dai remnant, and the Chu Youwang-to-Fuchu succession coup. Created Chu Ai Wang, Chu Fuchu, Captured Ruler Legitimacy Containment, and Remnant Resistance Base. Updated overview, index, Qin Shi Huang, Qin State, Zhao State, Zhao Qian, Zhao Jia, Zhao Cong, Yan Ju, Wang Jian, Handan, Zhongshan, Dai State, Yan State, Chu State, Chu Youwang, Zhao Ji, Huainanzi, Personal Revenge Through State Power, Textual Variant Political Stakes, Disaster-Exploiting Conquest Timing, Favorite-Driven Heir Displacement, and Weak-State Mutual Predation. No settled contradiction found; Fangling geography, kill/bury wording, Chu successor name variant, and the incomplete final transcript fragment are kept source-scoped.
+
+## [2026-08-22] lint | Wiki lint check
+
+Health passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,498 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile graph bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 12,498 pages, so bridge findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM could not run because `LLM_MODEL` and provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》114-2｜燕国刺杀秦始皇为何会选荆轲
+
+Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure after Zhao's fall, Ju Wu's rejected hezong/Xiongnu strategy, Fan Wuji's fugitive risk, Tian Guang's recommendation and suicide, Jing Ke's non-obvious侠士 profile, Taizi Dan's high-cost patronage, and the plan to use Fan Wuji's head as access to the Qin king. Created Jing Ke, Tian Guang, Ju Wu, Fan Wuji, Gao Jianli, Wei Wang Jia, Weak-State Assassination Strategy, and Honor Binding By Self-Sacrifice; updated overview, index, Yan Taizi Dan, Yan State, Qin Shi Huang, Qin State, Wang Jian, Wei Jingmin Wang, Wei State, Xiongnu, Political Assassination Ethics, Retainer Reciprocity Ethic, Warring States Retainer Patronage, Moralized Shi Identity, Hezong Alliance, and Qin Eastward Pressure. No settled contradiction found; the source title's Qin Shi Huang wording, Fan Wuji transcript naming, and pre-assassination stopping point are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-2｜起来！被压迫的人们！
+
+Added source page for Qinji 128-2: Hu Hai's pleasure-seeking and unprepared rule, harsher Qin law, revived Afang Palace and transport burdens, the Dazexiang rain-delay deadline crisis, Chen Sheng and Wu Guang's killing of officers and mobilization of nine hundred soldiers, Fusu/Xiang Yan legitimacy claims, fish-belly writing, fox-cry rumor, and the Zhang Chu/Ge Ying failure preview. Created Dazexiang Uprising, Zhang Chu Regime, Ge Ying, Fatal Deadline Rebellion Trigger, and Rebel Mandate Manufacture. Updated overview, index, Chen Sheng, Wu Guang, Qin Er Shi, Zhao Gao, Fu Su, Xiang Yan, Qin State, Afang Palace, Imperial Construction Overload, Chu Three-Households Anti-Qin Memory, and Chenwei Politics. No settled contradiction found; the "rain delay plus Qin law means death" account is preserved as source-scoped because this episode does not explore alternate legal debates.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣
+
+Added source page for Qinji 128-1: Qin Er Shi's first-year inspection tour as empty imitation of Qin Shi Huang, Hu Hai's pleasure-seeking after returning to Xianyang, Zhao Gao's use of succession insecurity to justify harsh-law purge, and the killings of princes, princesses, old ministers, Ying Jianglu, and Ying Gao. Created Ying Jianglu, Ying Gao, and Succession Legitimacy Purge; updated overview, index, Qin Er Shi, Zhao Gao, Qin State, Autocratic Succession, Legalist Ruler Technique, Collateral Punishment And Guilt By Association, and Court Feedback Collapse. No settled contradiction found; preserved the unresolved Qinji 127-3 Zhao Zheng Shu accession-source conflict as background rather than resolving it.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密
+
+Added source page for Qinji 127-4: Qin Shi Huang's Lishan burial and mausoleum tradition, including bronze sealing, tomb treasures, mechanisms, mercury waterways, celestial ceiling, lamps, concubine burial, and artisan secrecy killing; Hu Hai and Zhao Gao's killing of Meng Tian and Meng Yi despite Ziying's warning; and the Yang Xiong/Sima Guang/Sima Qian judgment that Meng Tian's final loyalty does not erase responsibility for harsh Qin labor projects. Created Ziying (Qin), Mausoleum Secrecy Killing, and Loyal Service Moral Liability; updated overview, index, Qin Shi Huang, Qin Shi Huang Mausoleum, Lishan, Qin Straight Road, Imperial Construction Overload, Qin Er Shi, Zhao Gao, Meng Tian, Meng Yi (Qin), Yang Xiong, Sima Guang, Sima Qian, and Bai Qi. No settled contradiction found; preserved the Qinji 127-3 succession-source conflict as unresolved and kept the tomb-detail evidence boundary source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫
+
+Added source page for Qinji 125-1: Qin Shi Huang's thirty-fifth-year construction and secrecy branch, including Meng Tian's Qin Straight Road assignment, Xianyang overcrowding after elite relocation, Afang Palace's celestialized design and unfinished status, Lishan mausoleum labor priority, palace and material mobilization, Qin Er Shi's interrupted restart, Lu Sheng's hidden-residence advice, execution for leaked imperial whereabouts, and the setup for investigating allegedly slanderous儒生. Created Afang Palace, Qin Shi Huang Mausoleum, Qin Straight Road, Imperial Construction Overload, Imperial Itinerary Secrecy, and Fangshi Accountability Trap; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Lishan, Lu Sheng, Meng Tian, Qin Er Shi, Immortality Quest Politics, Fangshi Fraud And Authority, Qin Cosmic Capital Planning, and Elite Relocation Control. No settled contradiction found; the source preserves the boundary that this transcript is a坑儒 prelude and does not narrate the completed event.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险
+
+Added source page for Qinji 123-2: Qin's 214 BCE southern campaign against Baiyue, conscription of 捕亡人/赘婿/merchants, the host's institutional explanation of post-unification war inertia, Guilin/Nanhai/Xiang commandery setup and convict migration, Meng Tian's northern campaign against Xiongnu and wall integration, and Zhang Liang's Huangshi Gong/《太公兵法》 transition from assassin to strategist. Created Guilin Commandery, Nanhai Commandery, Xiang Commandery, Huangshi Gong, Taigong Bingfa, Post-Unification War Inertia, and Marginal-Status Conscription. Updated overview and index; entity/concept page updates were made for the Qin, Baiyue, Xiongnu, Meng Tian, Zhang Liang, Shangjun, Jiang Taigong, farming-war, military-merit, conquest-commandery, and northern-wall branches. No settled contradiction found; recorded the ruler-decision versus institutional-war-machine tension as a source-scoped synthesis.
+
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！
+
+Added source page for Qinji 122-3: Qin Shi Huang's post-Langya return route, failed Pengcheng/Xuzhou Jiuding search, Xiangshan wind obstruction and Xiangjun explanation, punitive felling of Xiangshan trees, contrast between former-Qi ritual incorporation and Chu sacred-landscape humiliation, possible Huangdi route imitation, and Zhang Liang's Han-family revenge setup. Created Xiangjun, Xiangshan Shrine, Huangdi, and Imperial Local-God Conflict; updated overview, index, Qin Shi Huang, Qin State, Chu State, Jiuding, Xuzhou, Zhang Liang, Zizhi Tongjian, Imperial Tour Political Theater, and Weak-State Assassination Strategy. No settled contradiction found; Huangdi imitation is kept source-scoped and Zhang Liang's assassination details remain for the next source.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念
+
+Added source page for Qinji 120-2: Qin's post-unification imperial-title redesign, 制/诏/朕 language monopoly, 太上皇 genealogy, abolished谥法, numbered emperor sequence, five-virtue/water-virtue legitimacy, black color, October year-start, number six, 黔首 naming, law-fairness language, and harsh-punishment symbolism. Created Imperial Symbolic Standardization; updated overview, index, Qin Shi Huang, Qin State, Li Si, Qin Wang Wan, Qin Zhuangxiang Wang, Qin Wen Gong, Zou Yan, Xu Shen, Shuowen Jiezi, Yin-Yang Five-Phases Political Theory, Auspicious Omen Politics, Posthumous Name Politics, Legalist Ruler Technique, and Qin Administrative Standardization. No settled contradiction found; the anti-enfeoffment ending remains source-scoped because the transcript cuts off before a full郡县制 argument.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙”
+
+Added source page for Qinji 119-2: Ye Gong/Shen Zhuliang's warning against Zi Xi recalling Bai Gong Sheng, the 479 BCE Bai Gong Sheng rebellion against Chu Hui Wang, Ye Gong's suppression of the rebellion and later retirement from high office, the speech-and-intention critique of "刀子嘴豆腐心," and the Ye Gong Hao Long reputation problem through Liu Xiang's Xin Xu. Created Bai Gong Sheng Rebellion, Chu Hui Wang, Zi Xi (Chu), Guan Xiu (Chu), Liu Xiang, Xin Xu, Ye Gong Hao Long, and Speech As Moral Diagnostic; updated overview, index, Ye Gong, Bai Gong Sheng, Chu State, Renyi-Grounded Virtue, Power Exit Trap, Virtue Practice Internalization, Idiom Origin Skepticism, Confucius, and Analects. No settled contradiction found; kept the tension between the idiom's moral use and Ye Gong's historical reputation source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》119-1｜拆解荆轲刺秦必败的秘密
+
+Added source page for Qinji 119-1: Yan's final destruction in 222 BCE, Wang Ben's Liaodong campaign and capture of Yan Wang Xi, and Sima Guang/Yang Xiong's critique of Taizi Dan and Jing Ke as failed assassin politics rather than义. Created Bai Gong Sheng, Ye Gong, Crown Prince Jian of Chu, Yao Li, and Renyi-Grounded Virtue; updated overview, index, Jing Ke, Yan Taizi Dan, Yan Wang Xi, Wang Ben, Yan State, Qin State, Sima Guang, Yang Xiong, Nie Zheng, Wu Zixu, Political Assassination Ethics, Weak-State Assassination Strategy, and Heir Sacrifice Appeasement. No settled contradiction recorded; kept the tension between Jing Ke's later literary侠士 memory and Sima Guang/Yang Xiong's harsher renyi-grounded judgment source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》116｜史上最惨太子：被父王亲手斩杀？！
+
+Added source page for Qinji 116: Qin's attack on Yan after Jing Ke's failed assassination, Wang Jian's defeat of the Yan-Dai force and capture of Ji, Yan Wang Xi's killing of Yan Taizi Dan under Zhao Jia's advice, and the transition to the Chu campaign through Wang Ben, Li Xin, Meng Tian, Wang Jian, and anchoring-effect framing. Created Li Xin (Qin), Meng Tian, Wang Ben (Qin), and Heir Sacrifice Appeasement; updated overview, index, Yan Taizi Dan, Yan Wang Xi, Zhao Jia, Wang Jian, Qin Shi Huang, Qin State, Yan State, Chu State, Weak-State Assassination Strategy, Anchoring Effect, and Qin Eastward Pressure. No settled contradiction found; pre-imperial Qin Shi Huang wording and the anchoring interpretation are kept source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了
+
+Added source page for Qinji 115-1: Qinji 2 opening frame, the counterfactual that killing Ying Zheng would likely shake Qin without reversing its institutional unification momentum, Jing Ke and Qin Wuyang's 227 BCE arrival in Xianyang, Meng Jia's access-broker role, Yan's surrender script through Fan Wuji's head and the Du Kang map, Ying Zheng's high-ceremony reception, and Qin Wuyang's panic forcing Jing Ke to proceed alone. Created Meng Jia; updated Jing Ke, Qin Wuyang, Fan Wuji, Du Kang Map, Xianyang, Qin Wu Wang, Yan Taizi Dan, Yan State, Qin Shi Huang, Qin State, Weak-State Assassination Strategy, Assassination Access Credential, Private Access Talent Channel, Farming-War Statecraft, Qin Administrative Standardization, and Qin Eastward Pressure. No settled contradiction found; pre-imperial Qin Shi Huang wording, the episode's assassination-success counterfactual, and the transcript's stopping point before the strike are kept source-scoped.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》114-3｜荆轲刺秦为何久久不行动？在等谁？
+
+Added source page for Qinji 114-3: Jing Ke's delayed departure after Zhao's fall, the need for Fan Wuji's head and the Du Kang map as access credentials, Fan Wuji's suicide, Xu Furen's poisoned dagger, Qin Wuyang as assistant, Jing Ke's unnamed distant friend, Taizi Dan's suspicion-triggered departure, and the Yi Shui farewell. Created Qin Wuyang, Qin Kai, Xu Furen, Du Kang Map, Donghu, Sima Zhen, Assassination Access Credential, Mistrust-Triggered Mission Launch, and Yi Shui Farewell. Updated overview, index, Jing Ke, Yan Taizi Dan, Fan Wuji, Gao Jianli, Qin Shi Huang, Weak-State Assassination Strategy, Political Assassination Ethics, Retainer Reciprocity Ethic, Warring States Retainer Patronage, Honor Binding By Self-Sacrifice, and Moralized Shi Identity. No settled contradiction found; the unnamed distant friend, pre-imperial Qin Shi Huang title wording, and Fan Wuji transcript naming are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？
+
+Added source page for Qinji 115-2: Jing Ke's map-and-dagger reveal, failed strike, Ying Zheng's escape and counterattack, Jing Ke's death and punitive dismemberment, Qin's retaliatory order sending Wang Jian against Yan, the defeat of Yan and Dai/Zhao Jia west of the Yi River, and the later Tao Yuanming/Gong Zizhen poetic memory of Jing Ke. Created Tao Yuanming, Gong Zizhen, Tuqiong Bijian, and Youxia Suppression Under Unification; updated overview, index, Jing Ke, Qin Wuyang, Yan Taizi Dan, Wang Jian, Qin Shi Huang, Qin State, Yan State, Zhao Jia, Dai State, Weak-State Assassination Strategy, Assassination Access Credential, Mistrust-Triggered Mission Launch, Yi Shui Farewell, Political Assassination Ethics, Moralized Shi Identity, and Retainer Reciprocity Ethic. No settled contradiction found; Qin Wuyang counterfactual, Jing Ke's dying explanation, and pre-imperial title wording are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖
+
+Added source page for Qinji 117-1: Qin's 225 BCE two-front pressure, Wang Ben's flooding of Daliang and Wei's destruction, the Wei Bao/Bao Ji/Xu Fu prediction branch fulfilled by Liu Heng, and the Tang Ju-Anling "布衣之怒" story with explicit reliability cautions. Created Tang Ju (Anling envoy), Wei Bao, Wei Jiu, Bao Ji, Xu Fu (physiognomist), Liu Heng, Hydraulic Siege Warfare, Cloth-Clad Anger Persuasion, and Face-Slapping Reversal Narrative; updated overview, index, Wang Ben, Wei Wang Jia, Anling Jun, Daliang, Zhanguo Ce, Zizhi Tongjian, Talent Attraction Through Respect, Historical Detective Reasoning, Inspirational Narrative Commercialization, Qin Shi Huang, Qin State, Wei State, Chu State, and Liu Bang. No settled contradiction found; 唐雎/唐举 and 许负/徐福 homophones are kept separate, and the Tang Ju court scene is treated as source-scoped literary-historical material rather than settled transcript.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？
+
+Added source page for Qinji 117-2: Li Xin and Meng Tian's failed first Chu campaign, Xiang Yan's peace-signal and Nan Commandery trap, Ying Zheng's return to Wang Jian's 600,000-troop requirement, Meng Wu's deputy role, and Wang Jian's property-request self-protection. Created Xiang Yan, Meng Wu, and Greed Persona Self-Protection; updated overview, index, Li Xin, Meng Tian, Wang Jian, Qin Shi Huang, Qin State, Chu State, Wang Ben, Nan Commandery, Xianyang, Anchoring Effect, Deceptive Surrender Lull, Battlefield Information Control, Military Personalization, and Power Exit Trap. No settled contradiction found; 王儉/王翦, 蒙田/蒙恬, and 向燕/项燕 are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！
+
+Added source page for Qinji 118-1: Wang Jian's 600,000-person second Chu campaign, fortified waiting against Xiang Yan, Qin logistics and morale management, Chu withdrawal and Qinan defeat, "楚虽三户，亡秦必楚" memory, Fuchu's capture, and Li Kaiyuan/Qin Mi's Changping Jun reconstruction. Created Li Kaiyuan, Qin Mi, Qinan (Chu battlefield), Fortified Attrition Patience, and Chu Three-Households Anti-Qin Memory. Updated Wang Jian, Xiang Yan, Meng Wu, Changping Jun, Chu Fuchu, Qin Shi Huang, Qin State, Chu State, Greed Persona Self-Protection, Military Morale Through Shared Hardship, War Cost Tempo Discipline, Chronicle Source Gaps, and Evidence-Bound Historical Revision. No settled contradiction found; Changping Jun's Xiong Qi identity and Li Xin-defeat explanation are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！
+
+Added source page for Qinji 118-2: Changping Jun/Xiong Qi's Chu royal identity, pre-Qin 姓/氏 interpretation, the source dispute over whether Mi Wan was childless, Shiji and Zhanguoce scandal caution, Changping Jun's Chenying rebellion and brief Chu kingship, Xiang Yan's final resistance, Qin's temporary Chu commandery and later commandery subdivision, and the risk that remnant elites concentrate in Qi. Created Pre-Qin Surname-Clan Identity and Conquest Commandery Transition; updated overview, index, Changping Jun, Mi Wan, Chu Fuchu, Xiang Yan, Wang Jian, Meng Wu, Qin Shi Huang, Qin State, Chu State, Shiji, Sima Qian, Sima Guang, Zizhi Tongjian, Textual Variant Political Stakes, Historical Detective Reasoning, Evidence-Bound Historical Revision, Pregnancy Succession Substitution, Remnant Resistance Base, and Qin Administrative Standardization. Recorded contradictions/tensions: Qinji 118-2 disputes the earlier childless-Mi-Wan premise and gives a more extended Xiang Yan final sequence than Qinji 118-1.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》120-3｜揭秘秦始皇为何发明郡县制
+
+Added source page for Qinji 120-3: Wang Wan's proposal to enfeoff imperial sons in distant former Yan, Qi, and Chu territory, Li Si's anti-enfeoffment rebuttal from the Zhou precedent, Qin Shi Huang's acceptance of empire-wide commandery-county rule, the contrast between Zhou expansion-by-enfeoffment and Qin division-after-conquest, later Xiang Yu/Liu Bang/Han Wudi comparison cases, and the thirty-six-commandery setup with governors, commandants, and inspectors. Created Commandery-County Anti-Enfeoffment Settlement; updated overview, index, Qin Shi Huang, Qin State, Li Si, Wang Wan, Qin Administrative Standardization, and Conquest Commandery Transition. No settled contradiction found; this source supplies the full郡县制 argument that Qinji 120-2 had only reached as a cutoff.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》120-4｜并六国后 秦始皇教你如何守江山
+
+Added source page for Qinji 120-4: Qin Shi Huang's post-unification control package after the commandery-county decision, including weapon confiscation and twelve palace figures, unified weights and measures with annual checks, forced relocation of 120,000 powerful households to Xianyang, the weakening of local elite networks, palace replication after conquered states, and the tension between imperial command uniformity and deep six-state resentment. Created Post-Conquest Disarmament, Elite Relocation Control, and Imperial Homogenization; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Qin Administrative Standardization, Commandery-County Anti-Enfeoffment Settlement, Conquest Commandery Transition, and Imperial Symbolic Standardization. No settled contradiction found; the source adds coercive implementation and resentment context to the earlier symbolic-standardization and commandery-county pages.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities, but the graph is behind the 12,592-page wiki scan. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider API key variables are present; bounded in-session semantic review of the lint sample plus orphan/bridge endpoints found no direct contradictions and flagged source-breadth risk for broad AI, market, and governance synthesis. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 12,597 wiki pages. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？
+
+Added source page for Qinji 122-2: Qin Shi Huang's post-fengshan eastern tour through Qi sacred geography, worship of the Eight Spirits, the Langya stay, household relocation and tax remission, the Langya inscription's agricultural/legal/standardization program, Yan-Qi fangshi petitions, Xu Fu's Penglai sea-search story, and the source-critical boundary around Japanese Xu Fu shrines and descent claims. Created Langya Mountain, Qi Eight Spirits, Penglai, Langya Inscription Political Program, and Xu Fu Japan Descent Legend; updated overview, index, Qin Shi Huang, Qin State, Xu Fu, Japan, Shiji, Zizhi Tongjian, Immortality Quest Politics, Fangshi Fraud And Authority, and Imperial Tour/Symbolic Standardization. No settled contradiction found; preserved the source-internal tension between accepting Shiji's return version and the later rhetorical "one-way" phrasing.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？
+
+Added source page for Qinji 123-1: Zhang Liang's Bolangsha attack and "误中副车," Qin Shi Huang's continued eastern tours and Jieshi/Lu Sheng immortal-search branch, wall/levee removal as strong-trunk weak-branch centralization, "亡秦者胡" as prophecy-triggered policy, and Meng Tian's northern campaign trigger against Xiongnu. Created Lu Sheng, Bolangsha, Jieshi, Canghai Jun, Prophecy-Triggered Policy, and Strong-Trunk Weak-Branch Centralization. Updated overview, index, Qin Shi Huang, Qin State, Zhang Liang, Qin Er Shi, Meng Tian, Xiongnu, Weak-State Assassination Strategy, Imperial Tour Political Theater, Immortality Quest Politics, Fangshi Fraud And Authority, Chenwei Politics, Imperial Homogenization, and Warring States Northern Great Walls. No settled contradiction found; preserved the contemporaneous Xiongnu reading versus later Hu Hai hindsight.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！
+
+Added source page for Qinji 124: the 213 BCE book-burning order after Chunyu Yue's revived enfeoffment argument, Li Si's Legalist response, the targeted scope and exceptions of the order, penalties for private classical discussion and hidden books, official legal learning, cultural loss around six-state histories, and Kong Fu's hidden-book counterexample before the Chen Sheng/Wu Guang turn. Created Chunyu Yue, Kong Fu, Chen Yu, Chen Sheng, Wu Guang, Shangshu, Qin Book-Burning Policy, and Official Learning Monopoly; updated overview, index, Qin Shi Huang, Qin State, Li Si, Commandery-County Anti-Enfeoffment Settlement, Imperial Homogenization, Legalist Ruler Technique, Knowledge Monopoly, and Shijing. No settled contradiction found; the source explicitly separates "焚书" from the later "坑儒" branch and keeps the title's "平反" stance as source-scoped interpretation.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒
+
+Added source page for Qinji 125-2: the completed 212 BCE坑儒 branch after the Qinji 125-1 prelude, including Hou Sheng and Lu Sheng's flight and criticism, Qin Shi Huang's fear-driven court ecology, Xianyang scholar interrogations, 460-plus executions, Fusu's remonstrance, and Fusu's dispatch to Shangjun under Meng Tian. Created Fu Su, Hou Sheng (Fangshi), and Qin Kengru Incident; updated overview, index, Qin Shi Huang, Qin State, Lu Sheng, Meng Tian, Qin Book-Burning Policy, Fangshi Fraud And Authority, Fangshi Accountability Trap, Immortality Quest Politics, Imperial Itinerary Secrecy, and Court Feedback Collapse. No settled contradiction found; preserved the source's boundary between焚书 and坑儒 and its uncertainty over whether the punished people were mainly fangshi,儒生, or a mixed group.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》126｜秦始皇死因之谜（1）
+
+Added source page for Qinji 126: Qin Shi Huang's 211 BCE omen cluster, including 荧惑守心, Dong Commandery's "始皇死而地分" meteor inscription, collective punishment and stone destruction, the cultural response through 仙真人诗, the returned jade bi, "今年祖龙死," and source-critical doubt about whether the "始皇" wording is a direct contemporary record. Created Qin Late Omen Crisis; updated overview, index, Qin Shi Huang, Qin State, Dong Commandery, Shiji, Zizhi Tongjian, Auspicious Omen Politics, Celestial Omen Political Responsibility, Chinese Astrological Politics, Prophecy-Triggered Policy, Immortality Quest Politics, Imperial Tour Political Theater, Historical Detective Reasoning, and Textual Variant Political Stakes. No settled contradiction found; the source functions as a death-omen and final-tour prelude rather than a completed death-cause analysis.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏
+
+Added source page for Qinji 127-2: Qin Shi Huang's hidden death on tour, Li Si's initial decision to conceal the death, Zhao Gao's persuasion of Hu Hai and Li Si, the use of imperial letters and seals to forge the succession, the false order against Fusu and Meng Tian, Fusu's suicide, Meng Tian's refusal and imprisonment, the return through Qin Straight Road, and Hu Hai's accession at Xianyang. Created Zhao Gao, Meng Yi (Qin), Imperial Death Concealment, and Forged Edict Succession Coup; updated overview, index, Li Si, Fusu, Qin Er Shi, Meng Tian, Qin Shi Huang, Qin State, Imperial Itinerary Secrecy, Qin Straight Road, Shangjun, Xianyang, Status Anxiety Persuasion, Written Succession Credential, Autocratic Succession, and Patron Succession Exposure. No settled contradiction found; preserved the body-placement uncertainty, Li Si's source-scoped initial motive, and the tension between Fusu's praised heir image and his fatal obedience to the forged order.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！
+
+Added source page for Qinji 127-3: the received hidden-death and forged-edict account of Hu Hai's accession set beside the alternate 《赵正书》 deathbed-consultation account, including Li Si's loyalty declaration, Feng Quji's contested presence, the nearby-heir argument for Hu Hai, Zhao Gao's reweighted role, Meng-family aftermath, and the unresolved contradiction between forged succession and emergency succession legitimation. Created Feng Quji and Emergency Succession Legitimation; updated overview, index, Zhao Zheng Shu, Qin Shi Huang, Qin State, Qin Er Shi, Zhao Gao, Li Si, Fusu, Meng Tian, Meng Yi (Qin), Shiji, Peking University, Qin Straight Road, Xianyang, Imperial Death Concealment, Forged Edict Succession Coup, Autocratic Succession, Succession Non-Designation Risk, Historical Detective Reasoning, and Textual Variant Political Stakes. Source-level contradiction flagged with Qinji 127-2; not resolved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-3｜陈胜吴广组队成功
+
+Added source page for Qinji 128-3: Chen Sheng and Wu Guang's expansion from Dazexiang and Qixian to Chen County, Ge Ying's eastward assignment, Zhang Er and Chen Yu's hiding in Chen County and advice against premature kingship, the six-state restoration strategy, Chen Sheng's rejection of that route, his declaration as Chu king under Zhang Chu, the host's reading of Chen Sheng as seeking a Chu-centered inheritance of unification, and Wu Guang's westward assignment against Yingyang. Created Six-State Restoration Anti-Qin Strategy; updated overview, index, Chen Sheng, Wu Guang, Dazexiang Uprising, Zhang Chu Regime, Ge Ying, Zhang Er, Chen Yu, Fu Su, Rebel Mandate Manufacture, and Yingyang. No settled contradiction found; normalized the transcript forms "陈渝" and "葛英" to the existing Chen Yu and Ge Ying pages while preserving the wording note in the source page.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是
+
+Added source page for Qinji 128-5: Kuai Che's surrender-based expansion for Wu Chen, Chen Sheng's overconfidence after Zhou Wen's westward advance, Qin Er Shi's capital-defense preparation, Zhang Han's pardon-and-arm Lishan convict proposal, Zhou Wen's defeat, Wu Chen's Zhao kingship, Cai Ci's temporary compromise advice, Zhang Er and Chen Yu's refusal to coordinate a westward anti-Qin attack, and the Shiji/Zizhi Tongjian motive-omission issue. Created Zhang Han (Qin), Wu Chen, Zhou Wen (Rebel), Kuai Che, Cai Ci, Political Surrender Cascade, Capital Defense Mobilization, Lishan Convict Mobilization, Anti-Qin Coalition Fragmentation, and Textual Omission Attribution Shift; updated overview, index, Qin Er Shi, Chen Sheng, Zhang Er, Chen Yu, Zhang Chu Regime, Dazexiang Uprising, Kong Fu, Liu Bang, and Six-State Restoration Anti-Qin Strategy. No settled contradiction found; the source complicates but does not overturn the wiki's prior Hu Hai failure frame.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

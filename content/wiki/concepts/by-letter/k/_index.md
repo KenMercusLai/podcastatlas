@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 4881
+wiki_total_pages: 5023
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "KnowledgeWorkFragmentation"
     title: "Knowledge Work Fragmentation"
     url: "/wiki/concepts/knowledgeworkfragmentation/"
+  - key: "KochOperatingPrinciples"
+    title: "Koch Operating Principles"
+    url: "/wiki/concepts/kochoperatingprinciples/"
   - key: "KolmogorovArnoldNetworks"
     title: "Kolmogorov-Arnold Networks"
     url: "/wiki/concepts/kolmogorovarnoldnetworks/"
