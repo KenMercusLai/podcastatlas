@@ -2,7 +2,7 @@
 title: "背水一战 / Backwater Battle"
 type: concept
 tags: [idiom, warfare, morale, deception, chu-han]
-sources: [zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]
 last_updated: 2026-08-23
 ---
 
@@ -18,6 +18,8 @@ The battle's decisive movement combines morale pressure and deception. Han Xin a
 
 The red flags turn Zhao's rear into an information shock. Returning Zhao troops think their camp and possibly their king have already been taken. Their formation breaks despite officers trying to kill deserters, and Han uses the panic to defeat Zhao, kill Chen Yu, and capture Zhao Xie.
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] adds the explicit military-theory reading. Han Xin tells his officers that the tactic follows [[SunziBingfa|《孙子兵法》]]'s death-ground principle because his army contains many recently armed commoners who might otherwise scatter. The episode then warns that this explanation is incomplete if isolated: Han Xin's backwater array works because he has already used spies, confirmed Chen Yu's error, ruled out an ambush in the pass, and prepared the hidden-cavalry camp shock. The source therefore makes the battle a primary case for [[DeathGroundTacticalPreconditions|死地战术前提]].
+
 ## Key Claims
 - The backwater formation is not a standalone morale trick; it works inside a larger setup that first removes Li Zuoche's more dangerous supply-line alternative.
 - "No retreat" matters, but the source's battle chain also depends on inducing Zhao to leave camp and then making Zhao believe the rear has collapsed.
@@ -25,11 +27,13 @@ The red flags turn Zhao's rear into an information shock. Returning Zhao troops 
 - The source makes Zhao's morale collapse a social-information event: soldiers panic because the camp and king appear lost, not merely because they lose a normal field engagement.
 - The concept is adjacent to [[BreakingCauldronsAndSinkingBoats|破釜沉舟]], but Han Xin's case relies more on enemy interpretation and camp seizure than on destroying his own army's fallback infrastructure.
 - The episode leaves the deeper theoretical explanation of why the formation works to a later installment, so this page records the completed sequence rather than a final doctrine of all backwater tactics.
+- Hanji 157 part 1 supplies that theoretical explanation but keeps it conditional: the no-retreat morale device works only after intelligence, terrain judgment, enemy-choice confirmation, and surprise have made the risk usable.
 
 ## Connections
 - [[HanXin|韩信]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[ZhaoXie|赵歇]] - direct battle actors.
 - [[JingxingPass|井陉口]] and [[ZhaoState|赵国]] - terrain gate and defeated polity.
 - [[LiZuoChe|李左车]], [[TransportCorridorSeverance|交通线切割]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]] - rejected Zhao plan that would have attacked Han's weaker logistics.
 - [[BattlefieldInformationControl|战场信息控制]] - the main deception and perception-management mechanism.
+- [[DeathGroundTacticalPreconditions|死地战术前提]] and [[SunziBingfa|《孙子兵法》]] - Hanji 157 part 1 theoretical frame for why the visible backwater tactic is hard to reproduce.
 - [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] and [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]] - Chen Yu's reason for refusing the stronger indirect option.
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - adjacent morale and death-ground comparison points.

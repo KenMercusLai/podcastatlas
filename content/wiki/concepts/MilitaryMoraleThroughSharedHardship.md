@@ -2,8 +2,8 @@
 title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
 type: concept
 tags: [military-history, leadership, morale, management]
-sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+last_updated: 2026-08-23
 ---
 
 # Military Morale Through Shared Hardship / 同甘共苦式士气
@@ -28,6 +28,8 @@ In this negative form, shared hardship is visible by its absence. [[XiangYu|项�
 
 The episode keeps the morale device tied to operational preparation. Because [[YingBu|英布]] and [[PuGeneral|蒲将军]] have already damaged Qin's supply corridor, the death-ground order converts an improved battlefield into attack resolve rather than merely asking soldiers to be brave against unchanged conditions.
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] adds another extreme morale case through [[HanXin|韩信]]'s backwater explanation. Han Xin says many of his soldiers were not trained veterans, so placing them with no easy retreat made them fight instead of dispersing. The source immediately limits that lesson through [[DeathGroundTacticalPreconditions|死地战术前提]]: morale pressure succeeds here because intelligence and hidden cavalry have already prevented Zhao from using Han's exposed position against him.
+
 ## Key Claims
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
@@ -40,6 +42,7 @@ The episode keeps the morale device tied to operational preparation. Because [[Y
 - A commander's visible comfort during troop hardship can make strategic delay look like selfish passivity.
 - Failed shared hardship can undermine the commander's right to enforce discipline and create an opening for violent replacement.
 - Forced shared hardship can create irreversible morale, but it is most credible when battlefield conditions have already been improved.
+- Death-ground morale can compensate for undertrained troops, but only when intelligence and surprise keep forced resolve from becoming a self-made trap.
 
 ## Connections
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
@@ -52,3 +55,4 @@ The episode keeps the morale device tied to operational preparation. Because [[Y
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 long-wait morale and readiness case.
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[SongYi|宋义]], [[XiangYu|项羽]], [[AnyangQinRebellion|安阳]], and [[WuyanCounty|无盐县]] - negative case where commander insulation from soldier hardship helps justify command decapitation.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[ZhangRiver|漳水]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - extreme shared fate after supply-corridor preparation.
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]], [[BackwaterBattle|背水一战]], and [[DeathGroundTacticalPreconditions|死地战术前提]] - Han Xin's forced-resolve explanation and its intelligence/surprise limits.

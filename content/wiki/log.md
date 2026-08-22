@@ -10106,3 +10106,11 @@ Added source page for Hanji 156 part 2: Chen Yu's political and operational reas
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）
+
+Added source page for Hanji 157 part 1: the theoretical follow-up to Han Xin's Jingxing backwater victory, explaining death-ground morale through Sunzi while arguing that the tactic worked only after spy-confirmed enemy error, no pass ambush, and hidden cavalry created a second shock in Zhao's rear. Created Death-Ground Tactical Preconditions; updated overview, index, Han Xin, Backwater Battle, Battlefield Information Control, Sunzi Bingfa, Breaking Cauldrons and Sinking Boats, Military Morale Through Shared Hardship, Li Zuoche, and Jingxing Pass. No settled contradiction found; this source qualifies the surface morale reading of Hanji 156 part 2 without reversing it.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,995 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not updated.
