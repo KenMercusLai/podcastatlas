@@ -1,12 +1,12 @@
 ---
-title: "荥阳 / Yingyang (Warring States)"
+title: "荥阳 / Yingyang"
 type: entity
-tags: [place, city, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]
+tags: [place, city, qin-state, warring-states, chu-han]
+sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]
 last_updated: 2026-08-22
 ---
 
-# 荥阳 / Yingyang (Warring States)
+# 荥阳 / Yingyang
 
 荥阳 / Yingyang enters the wiki through [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] as a Qin-held point near [[Xingze|荥泽]] in the campaign setting around [[GuanchengWarringStates|管城]]. The episode says Yingyang has already been absorbed into [[SanchuanWarringStates|三川]] commandery.
 
@@ -16,6 +16,8 @@ Its role is not a stand-alone battle narrative. Yingyang helps make the map legi
 
 [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] supplies that battle's political consequence. Yingyang is described as a Guanzhong route point backed by the Ao granary, making it both a military gate and a logistics center. [[LiYou|李由]], governor of [[SanchuanWarringStates|三川]] and son of [[LiSi|李斯]], holds the city against Wu Guang's repeated attacks. The stalled siege becomes the immediate setting for [[TianZang|田臧]]'s killing of Wu Guang.
 
+[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] moves Yingyang from anti-Qin rebel-route geography into the Chu-Han recovery map. After the [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]] withdraws to the Yingyang area, scattered troops gather there, [[HanXin|韩信]] defeats Chu pursuers south of the city, and [[GuanYing|灌婴]] checks Chu cavalry east of it. The place therefore becomes the front anchor for [[XingyangStandoff|荥阳相持]].
+
 ## Connections
 - [[Xingze|荥泽]] and [[GuanchengWarringStates|管城]] - nearby strategic points in the source.
 - [[SanchuanWarringStates|三川]] - commandery frame attached to Qin control.
@@ -23,3 +25,4 @@ Its role is not a stand-alone battle narrative. Yingyang helps make the map legi
 - [[QinEastwardPressure|秦国东进压力]] - broader pressure pattern.
 - [[ZhangChuRegime|张楚政权]], [[ChenSheng|陈胜]], and [[WuGuang|吴广]] - Qinji 128-3 rebel-regime push toward Yingyang.
 - [[LiYou|李由]], [[TianZang|田臧]], [[ZhouWenRebel|周文 / 周章]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 siege, Qin defense, and rebel command crisis.
+- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]], [[LiuBang|刘邦]], [[HanXin|韩信]], [[GuanYing|灌婴]], [[Aocang|敖仓]], and [[XingyangStandoff|荥阳相持]] - Chu-Han defensive concentration and supply-route frame.

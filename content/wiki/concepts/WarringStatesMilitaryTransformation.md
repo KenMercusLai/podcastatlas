@@ -2,7 +2,7 @@
 title: "Warring States Military Transformation / 战国军事形态转变"
 type: concept
 tags: [warfare, military-history, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
+sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
 last_updated: 2026-08-22
 ---
 
@@ -36,6 +36,8 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 
 [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] adds a Chu-Han cavalry-shock version through [[XiangYu|项羽]] at the [[PengchengBattle|彭城之战]]. The source frames the battle as a large-scale case where a smaller mounted and chariot force independently maneuvers against [[LiuBang|刘邦]]'s much larger coalition, using secrecy, [[XiaoCounty|萧县]] route seizure, wing movement, and command-center attack to make enemy numbers unusable.
 
+[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] adds the response branch: [[LiuBang|刘邦]] starts [[HanCavalryFormation|汉军骑兵建设]] because Pengcheng exposed the cost of lacking mounted capability. The source makes [[GuanYing|灌婴]], [[LiBiQinCavalry|李璧]], and [[LuoJiaQinCavalry|骆甲]] a mixed command-and-technical solution, showing that military transformation includes organizational absorption of former Qin specialists as well as battlefield use of cavalry.
+
 ## Key Claims
 - Exaggerated troop figures can still preserve useful evidence about military organization.
 - The episode reads the Wei list as showing large infantry categories rather than a chariot-dominated army.
@@ -53,6 +55,7 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - Qinji 99 part 4 adds command-signal discipline and civilian-protection rules while warning that renyi language does not remove war's violent reality.
 - Qinji 105 adds a frontier anti-cavalry branch: transformed Warring States armies can mix walls, signals, intelligence, riding, archery, bait, and encirclement rather than relying on one arm alone.
 - Hanji 151 part 2 adds a Chu-Han offensive cavalry branch: mobile shock can decide a battle when paired with information control, route cutting, and a strike against command cohesion.
+- Hanji 153 part 2 adds a Chu-Han institutional response branch: cavalry advantage is answered through recruitment, command legitimacy, former Qin expertise, and integration into the Xingyang front.
 
 ## Connections
 - [[WeiState|魏国]], [[SuQin|苏秦]], and [[HezongAlliance|合纵]] - source setting and diplomatic use.
@@ -69,3 +72,4 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - [[XunzianCommandRestraint|五权三制]], [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], and [[CarlVonClausewitz|克劳塞维茨]] - Qinji 99 part 4 command order and war-realism branch.
 - [[LiMu|李牧]], [[Xiongnu|匈奴]], [[FrontierDefensivePatience|边境防御耐心]], [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]], and [[WarringStatesNorthernGreatWalls|战国北境长城]] - Qinji 105 Zhao frontier anti-raiding branch.
 - [[PengchengBattle|彭城之战]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[XiaoCounty|萧县]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - Hanji 151 part 2 mobile offensive shock against a larger coalition.
+- [[HanCavalryFormation|汉军骑兵建设]], [[GuanYing|灌婴]], [[LiBiQinCavalry|李璧]], [[LuoJiaQinCavalry|骆甲]], and [[XingyangStandoff|荥阳相持]] - Hanji 153 part 2 response to Chu cavalry dominance.

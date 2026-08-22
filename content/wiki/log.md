@@ -10058,3 +10058,11 @@ Ran lint after health and identity validation passed. Health scanned 12,957 wiki
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,960 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or API key is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）
+
+Added source page for Hanji 153 part 2: Sui He's Jiujiang mission departure, Liu Bang's fall back to Xingyang, Xiao He's emergency Guanzhong levy under Han Xin, Han Xin's check against Chu pursuers, Guan Ying's cavalry force with Li Bi and Luo Jia, Aocang-linked logistics, and the old generals' accusations against Chen Ping. Created Xingyang Standoff, Han Cavalry Formation, Li Bi, and Luo Jia; updated overview, index, Liu Bang, Xiang Yu, Pengcheng Battle, Sui He, Han Xin, Xiao He, Guan Ying, Chen Ping, Zhou Bo, Yingyang, Aocang, Xiayi Plan, Cavalry Shock Command Strike, Veteran Merit-Clique Supervision, and Warring States Military Transformation. No settled contradiction found; Guan Ying's cavalry ranking and the charges against Chen Ping are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,965 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not updated.

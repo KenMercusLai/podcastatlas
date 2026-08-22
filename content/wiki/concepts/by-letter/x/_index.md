@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 5088
+wiki_total_pages: 5090
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "XingShanTheory"
     title: "Xingshan Theory / 性善论"
     url: "/wiki/concepts/xingshantheory/"
+  - key: "XingyangStandoff"
+    title: "Xingyang Standoff / 荥阳相持"
+    url: "/wiki/concepts/xingyangstandoff/"
   - key: "XLACompiler"
     title: "XLA Compiler"
     url: "/wiki/concepts/xlacompiler/"

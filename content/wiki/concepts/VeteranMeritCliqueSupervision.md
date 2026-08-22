@@ -2,7 +2,7 @@
 title: "Veteran Merit-Clique Supervision / 功臣旧将监督"
 type: concept
 tags: [governance, military, court-politics, chu-han, supervision]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-22
 ---
 
@@ -12,11 +12,14 @@ Veteran merit-clique supervision / 功臣旧将监督 is the organizational logi
 
 The episode argues that Chen Ping's outsider status is useful precisely because he lacks those old obligations. As a newcomer from outside the inner veteran circle, he can watch, report, and help Liu Bang supervise generals without being bound by hometown feeling or long-shared hardship. The source therefore treats the disputed appointment not as naive favoritism but as a ruler's attempt to build oversight over a powerful founding group.
 
+[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] shows the backlash side of the same structure. [[ZhouBo|周勃]], [[GuanYing|灌婴]], and other old generals attack Chen Ping after his rapid rise, saying he has looks without ability, has moved through Wei and Chu before joining Han, is morally stained, and takes bribes from officers. The source leaves the accusations unresolved, but it makes the organizational problem concrete: outsider supervision can help a ruler, yet it also threatens veteran status and triggers coordinated complaint.
+
 ## Key Claims
 - Founding-merit circles can become hard for the ruler to monitor because shared history, pride, and informal ties blunt normal discipline.
 - An outsider can be valuable for supervision when the old group is too socially entangled.
 - The appointment of a disliked newcomer may be rational if the ruler needs independent reporting more than harmony with veterans.
 - Supervision and talent recruitment can be linked: the same newcomer both checks insiders and advertises room for outsiders.
+- The same appointment can generate veteran backlash; the complaint campaign against Chen Ping shows supervision as a factional risk, not only a neat management tool.
 
 ## Connections
 - [[LiuBang|刘邦]] - ruler managing old followers and new talent.
@@ -24,3 +27,4 @@ The episode argues that Chen Ping's outsider status is useful precisely because 
 - [[OutsiderTalentSignaling|厚待外来人才信号]] - paired recruitment signal in the same source.
 - [[CovertPoliticalTechnology|阴谋式政治技术]] - information-gathering and hidden-operation side of the role.
 - [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - Liu Bang's old local network that can become an insider bloc.
+- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]], [[ZhouBo|周勃]], and [[GuanYing|灌婴]] - old-general accusation campaign against Chen Ping.

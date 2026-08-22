@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6621
+wiki_total_pages: 6623
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "LiQi"
     title: "李琪 / Li Qi"
     url: "/wiki/entities/liqi/"
+  - key: "LiBiQinCavalry"
+    title: "李璧 / Li Bi"
+    url: "/wiki/entities/libiqincavalry/"
   - key: "LiPinger"
     title: "李瓶儿 / Li Ping'er"
     url: "/wiki/entities/lipinger/"
@@ -1070,6 +1073,9 @@ wiki_pages:
   - key: "LinghangzheRecoveryShip"
     title: "领航者号 Recovery Ship"
     url: "/wiki/entities/linghangzherecoveryship/"
+  - key: "LuoJiaQinCavalry"
+    title: "骆甲 / Luo Jia"
+    url: "/wiki/entities/luojiaqincavalry/"
   - key: "Lishan"
     title: "骊山 / Lishan"
     url: "/wiki/entities/lishan/"

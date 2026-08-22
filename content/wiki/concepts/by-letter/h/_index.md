@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5088
+wiki_total_pages: 5090
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "HaloProductStrategy"
     title: "Halo Product Strategy"
     url: "/wiki/concepts/haloproductstrategy/"
+  - key: "HanCavalryFormation"
+    title: "Han Cavalry Formation / 汉军骑兵建设"
+    url: "/wiki/concepts/hancavalryformation/"
   - key: "HanInheritsQinSystem"
     title: "Han Inherits Qin System / 汉承秦制"
     url: "/wiki/concepts/haninheritsqinsystem/"

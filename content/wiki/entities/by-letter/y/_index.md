@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6621
+wiki_total_pages: 6623
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -501,7 +501,7 @@ wiki_pages:
     title: "英布 / 黥布 / Ying Bu"
     url: "/wiki/entities/yingbu/"
   - key: "YingyangWarringStates"
-    title: "荥阳 / Yingyang (Warring States)"
+    title: "荥阳 / Yingyang"
     url: "/wiki/entities/yingyangwarringstates/"
   - key: "YuQing"
     title: "虞卿 / Yu Qing"

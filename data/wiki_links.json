@@ -18463,6 +18463,10 @@
     "title": "Han Boxiao",
     "url": "/wiki/entities/hanboxiao/"
   },
+  "HanCavalryFormation": {
+    "title": "Han Cavalry Formation / 汉军骑兵建设",
+    "url": "/wiki/concepts/hancavalryformation/"
+  },
   "HanCheng": {
     "title": "韩成 / Han Cheng",
     "url": "/wiki/entities/hancheng/"
@@ -24547,6 +24551,10 @@
     "title": "Li Beibin",
     "url": "/wiki/entities/libeibin/"
   },
+  "LiBiQinCavalry": {
+    "title": "李璧 / Li Bi",
+    "url": "/wiki/entities/libiqincavalry/"
+  },
   "LiBing": {
     "title": "李冰 / Li Bing",
     "url": "/wiki/entities/libing/"
@@ -26010,6 +26018,10 @@
   "LuoFuli": {
     "title": "Luo Fuli / 罗福莉",
     "url": "/wiki/entities/luofuli/"
+  },
+  "LuoJiaQinCavalry": {
+    "title": "骆甲 / Luo Jia",
+    "url": "/wiki/entities/luojiaqincavalry/"
   },
   "LuoQianqian": {
     "title": "Luo Qianqian / 雒芊芊",
@@ -45719,6 +45731,10 @@
     "title": "兴盛优选 / Xingsheng Youxuan",
     "url": "/wiki/entities/xingshengyouxuan/"
   },
+  "XingyangStandoff": {
+    "title": "Xingyang Standoff / 荥阳相持",
+    "url": "/wiki/concepts/xingyangstandoff/"
+  },
   "Xingze": {
     "title": "荥泽 / Xingze",
     "url": "/wiki/entities/xingze/"
@@ -46412,7 +46428,7 @@
     "url": "/wiki/entities/yingyanshijian/"
   },
   "YingyangWarringStates": {
-    "title": "荥阳 / Yingyang (Warring States)",
+    "title": "荥阳 / Yingyang",
     "url": "/wiki/entities/yingyangwarringstates/"
   },
   "YinhuaFund": {
@@ -50970,6 +50986,10 @@
   "zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu": {
     "title": "《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu/"
+  },
+  "zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu": {
+    "title": "《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

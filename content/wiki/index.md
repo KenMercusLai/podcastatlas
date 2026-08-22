@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）](sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu.md) — 芮淇讲透资治通鉴 episode on Liu Bang's concrete post-Pengcheng recovery through Sui He's Jiujiang mission, the Xingyang front, Xiao He and Han Xin's emergency support, Guan Ying's cavalry force, Aocang logistics, and the Chen Ping veteran backlash.
 - [《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（1）](sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Pengcheng recovery question at Xiayi, Zhang Liang's Xiayi Plan, the Ying Bu/Peng Yue/Han Xin multi-front strategy, and Sui He's volunteered mission to Jiujiang.
 - [《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）](sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Pengcheng flight, Xiahou Ying's rescue of Liu Ying and Princess Lu Yuan, Zeng He's disciplined holdout, family-hostage pressure, and post-defeat alliance repricing.
 - [《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）](sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno.md) — 芮淇讲透资治通鉴 episode reframing Pengcheng through Liu Bang's command ceiling, Han Xin's absence, ancient large-army coordination limits, and the later "多多益善" comparison.
@@ -1258,6 +1259,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李璧 / Li Bi](entities/LiBiQinCavalry.md) — Former Qin cavalry specialist who advises Liu Bang to place Guan Ying over the new Han cavalry force while serving as a deputy.
+- [骆甲 / Luo Jia](entities/LuoJiaQinCavalry.md) — Former Qin cavalry specialist paired with Li Bi in recommending Guan Ying for the post-Pengcheng Han cavalry command.
 - [随何 / Sui He](entities/SuiHe.md) — Liu Bang-side envoy who volunteers to persuade Ying Bu to rebel against Xiang Yu after the Xiayi Plan.
 - [曾赫 / Zeng He](entities/ZengHe.md) — Liu Bang-side commander who preserves formation during the Pengcheng rout and helps block Chu cavalry.
 - [审食其 / Shen Yiji](entities/ShenYiji.md) — Companion of Liu Taigong and Lu Zhi captured by Chu after the Pengcheng rout, kept source-scoped to the hostage chain.
@@ -1573,7 +1576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
 - [荥泽 / Xingze](entities/Xingze.md) — Water-control point near Guancheng that makes Daliang vulnerable in Qinji 103-1.
-- [荥阳 / Yingyang (Warring States)](entities/YingyangWarringStates.md) — Qin-held Sanchuan point later named as Wu Guang's westward Zhang Chu target after Chen Sheng's kingship.
+- [荥阳 / Yingyang](entities/YingyangWarringStates.md) — Qin-held Sanchuan point that later becomes Liu Bang's post-Pengcheng defensive concentration point in the Xingyang standoff.
 - [胡三省 / Hu Sanxing](entities/HuSanxing.md) — Zizhi Tongjian commentator whose Guancheng annotation criticizes Su Gao, Anling Jun, and Xinlingjun from a state-responsibility angle.
 - [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded non-intervention advice helps explain late Qi isolation and why Qi did not absorb Lu in the Qinji 102-2 source.
 - [江东 / Jiangdong (Warring States)](entities/JiangdongWarringStates.md) — Former Wu-region Chu fief requested by Chunshenjun, framed by Qinji 102-2 as safer than the Huai north border because of distance from Qin and the Yangtze barrier.
@@ -7883,6 +7886,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Xingyang Standoff / 荥阳相持](concepts/XingyangStandoff.md) — Post-Pengcheng Chu-Han holding phase where Liu Bang stabilizes around Xingyang through reinforcement, cavalry repair, and Aocang-linked logistics.
+- [Han Cavalry Formation / 汉军骑兵建设](concepts/HanCavalryFormation.md) — Liu Bang's post-Pengcheng mounted-force response using Guan Ying's command and former Qin cavalry specialists Li Bi and Luo Jia.
 - [Xiayi Plan / 下邑画策](concepts/XiayiPlan.md) — Zhang Liang's post-Pengcheng strategic redesign using Ying Bu, Peng Yue, Han Xin, and reward promises to rebuild Liu Bang's anti-Xiang field.
 - [Power-Based Alliance Repricing / 实力重估式阵营转向](concepts/PowerBasedAllianceRepricing.md) — Hanji 152 part 2 pattern where Liu Bang's Pengcheng defeat rapidly changes lords' expectations, protection needs, and camp choices.
 - [Ancient Large-Army Command Limits / 古代大兵团指挥极限](concepts/AncientLargeArmyCommandLimits.md) — Pengcheng and Wang Jian frame for why very large ancient armies demand exceptional command, logistics, communication, and coalition discipline.
