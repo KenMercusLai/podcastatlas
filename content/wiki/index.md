@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb.md) — 芮淇讲透资治通鉴 episode on Xiang Yu's partition backlash, demoted old kings, under-rewarded insiders, Mi Xin's forced relocation, and Xiao He's conversion of Liu Bang's Hanzhong demotion into Ba-Shu base-building.
 - [《资治通鉴·汉纪》143｜项羽是如何费尽心机弄死楚怀王芈心](sources/zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2.md) — 芮淇讲透资治通鉴 episode on Xiang Yu's rejection of the Huaiwang promise, Mi Xin's virtual elevation and removal to Chenxian, Liu Bang's Han kingship at Nanzheng, the Three Qin containment layer, and the Zhou-Qin hybrid reading of Xiang Yu's nineteen-lord settlement.
 - [《资治通鉴·汉纪》142｜这场聚会，项羽输掉了一切](sources/zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r.md) — 芮淇讲透资治通鉴 episode completing the Hongmen escape through Fan Kuai, Zhang Liang, Liu Bang, and Chen Ping, then turning to Xiang Yu's Xianyang violence, rejected Guanzhong base advice, and Han Sheng's death.
 - [《资治通鉴·汉纪》141｜还原历史中的“鸿门宴”](sources/zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy.md) — 芮淇讲透资治通鉴 episode on the opening of the Hongmen Banquet, Liu Bang's apology, Xiang Yu exposing Cao Wushang, Fan Zeng's jade-ring signals, Xiang Zhuang's sword dance, and Xiang Bo's protection of Liu Bang.
@@ -1237,6 +1238,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer used by Hanji 144 as part of the immediate-war faction redirected by Xiao He's Hanzhong base-building counsel.
+- [灌婴 / Guan Ying](entities/GuanYing.md) — Liu Bang-side officer grouped with Zhou Bo and Fan Kuai in Hanji 144's post-Hanzhong morale-management scene.
 - [南郑 / Nanzheng](entities/Nanzheng.md) — Liu Bang's assigned Han-king capital in Hanji 143, marking his constrained placement in Ba-Shu and Hanzhong behind the Three Qin layer.
 - [郴县 / Chen County (Changsha)](entities/ChenxianChangsha.md) — Changsha-commandery relocation site where Xiang Yu sends Mi Xin after virtually honoring him as Yi Emperor.
 - [申阳 / Shen Yang](entities/ShenYang.md) — Settlement lord made Henan king after taking Sanchuan and welcoming the Chu army in Hanji 143.
@@ -7823,6 +7826,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Reward Allocation Backlash / 分配反噬](concepts/RewardAllocationBacklash.md) — Hanji 144 frame for how Xiang Yu's partition creates resentment among demoted old kings, excluded rivals, and under-rewarded insiders.
+- [Strategic Retreat Base-Building / 退让式根据地经营](concepts/StrategicRetreatBaseBuilding.md) — Xiao He's Hanji 144 strategy for turning Liu Bang's Hanzhong demotion into a survivable Ba-Shu base and later return option.
 - [Zhou-Qin Hybrid Order / 周秦混合制](concepts/ZhouQinHybridOrder.md) — Hanji 143 frame for Xiang Yu's nineteen-lord settlement as a military-merit hegemonic order built on a Zhou-like promise field, not a simple reversal of Qin centralization.
 - [Three Qin Containment / 三秦压制](concepts/ThreeQinContainment.md) — Xiang Yu's use of Zhang Han, Sima Xin, and Dong Yi as Qin-core blocking kings around Liu Bang's assigned Han base.
 - [Informer Source Protection / 告密者来源保护](concepts/InformerSourceProtection.md) — Political-intelligence discipline around protecting informants, created from Xiang Yu's exposure of Cao Wushang at Hongmen.

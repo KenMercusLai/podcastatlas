@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6582
+wiki_total_pages: 6584
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "GuilingBattle"
     title: "桂陵之战 / Battle of Guiling"
     url: "/wiki/entities/guilingbattle/"
+  - key: "GuanYing"
+    title: "灌婴 / Guan Ying"
+    url: "/wiki/entities/guanying/"
   - key: "GongsunYan"
     title: "犀首公孙衍 / Gongsun Yan"
     url: "/wiki/entities/gongsunyan/"

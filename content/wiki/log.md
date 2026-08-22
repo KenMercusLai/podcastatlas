@@ -9886,3 +9886,15 @@ Added source page for Hanji 143: Xiang Yu's request to discard the Huaiwang prom
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1）
+
+Added source page for Hanji 144: Xiang Yu's partition backlash after the nineteen-king settlement, resentment among demoted old kings and excluded rivals, Mi Xin's forced relocation toward Chenxian, Han Guang's Yan/Liaodong grievance, Han Cheng's later killing and Zhang Liang's anti-Xiang alignment, Liu Bang's angry response to the Hanzhong demotion, Xiao He's argument for governing Hanzhong and Ba-Shu before returning toward Guanzhong, and the host's possible "双簧" reading of Liu Bang and Xiao He. Created Reward Allocation Backlash, Strategic Retreat Base-Building, Zhou Bo, and Guan Ying; updated overview, index, Xiang Yu, Liu Bang, Xiao He, Zhang Liang, Xiang Bo, Mi Xin, Han Guang, Han Cheng, Fan Kuai, Coalition Settlement Failure, Three Qin Containment, and Zhou-Qin Hybrid Order. No settled contradiction found; normalized transcript noise around 张图 and 相国 to existing Zang Tu and Xiang Bo context.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] graph | Knowledge graph rebuilt
+
+12882 nodes, 149964 edges (149964 extracted, 0 inferred).

@@ -2,7 +2,7 @@
 title: "韩广 / Han Guang"
 type: entity
 tags: [person, anti-qin, yan, zhao]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-22
 ---
 
@@ -16,8 +16,11 @@ Han Guang's second source role is the captive crisis around Wu Chen. After Yan c
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Han Guang's settlement demotion. [[XiangYu|项羽]] moves him from Yan king to Liaodong king, while [[ZangTu|臧荼]] becomes Yan king because he followed the Chu rescue-Zhao and westward-entry line. Han Guang's page therefore now shows how the anti-Qin title gained in Qinji 128-8 can be overridden by Xiang Yu's military-participation standard.
 
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] uses Han Guang as an explicit resentment case. The episode argues that rewarding Zang Tu by giving him Yan while pushing Han Guang to remote Liaodong shows why Xiang Yu's settlement produced [[RewardAllocationBacklash|分配反噬]]: the earlier king sees not just a smaller share, but a humiliation by one of his own campaign generals.
+
 ## Connections
 - [[WuChen|武臣]] - original commander who sends Han Guang to old Yan territory and is later captured by Yan.
 - [[YanState|燕国]] and [[ZhaoState|赵国]] - old state territories turned into separate anti-Qin regimes.
 - [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[ZhaoServantEnvoy|赵厮养卒]] - actors in the argument that leads Han Guang to release Wu Chen.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - wider restoration and fragmentation context.
+- [[ZangTu|臧荼]], [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], and [[RewardAllocationBacklash|分配反噬]] - Yan settlement demotion as a cause of anti-Xiang resentment.

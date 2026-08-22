@@ -2,7 +2,7 @@
 title: "韩成 / Han Cheng"
 type: entity
 tags: [person, han-state, qin, anti-qin, ruler]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ The source keeps his restoration fragile. Han Cheng's force takes several cities
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] records Han Cheng as one of the old kings Xiang Yu initially leaves in place. In the episode's settlement list, Han Cheng remains Han king with Yangdi as capital. His case contrasts with lords such as [[ZangTu|臧荼]] and [[TianDu|田都]], whose new titles come from closer alignment with Xiang Yu's campaign.
 
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] adds the darker sequel to that fragile placement. The episode says Xiang Yu later treats Han Cheng as a criminal and kills him, pushing [[ZhangLiang|张良]] further into determined opposition against Xiang Yu on [[LiuBang|刘邦]]'s side. This is not a contradiction with Hanji 143; it extends the timeline from initial allocation to the resentment and retaliation produced by the settlement.
+
 ## Connections
 - [[ZhangLiang|张良]] - recommends him and serves as Han situ.
 - [[XiangLiang|项梁]] - recognizes him as Han king.
 - [[HanState|韩国]] - old state whose royal line he represents.
 - [[QinState|秦国]] and [[ZhangHanQin|章邯]] - enemy pressure context.
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - restoration and symbolic-title frames.
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[RewardAllocationBacklash|分配反噬]] - execution and Zhang Liang's anti-Xiang alignment.

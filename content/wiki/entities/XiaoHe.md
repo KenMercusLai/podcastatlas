@@ -2,7 +2,7 @@
 title: "萧何 / Xiao He"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives Xiao He his first capital-administration payoff. After Liu Bang enters [[Xianyang|咸阳]], other generals move toward Qin treasury goods, but Xiao He goes to the chancellor's office and secures maps, household registers, and administrative records. The episode treats this as [[AdministrativeArchiveCapture|行政档案接管]]: Xiao He is already thinking about terrain, population, wealth, and governability rather than only victory spoils.
 
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] gives Xiao He the decisive restraint role after [[XiangYu|项羽]] sends [[LiuBang|刘邦]] to [[Hanzhong|汉中]]. When Liu Bang and officers such as [[ZhouBo|周勃]], [[GuanYing|灌婴]], and [[FanKuai|樊哙]] want to attack Xiang Yu, Xiao He argues that survival as Han king is better than death in an unwinnable war. His proposed line is to accept Hanzhong, govern the people, recruit capable people, draw on [[BaShu|巴蜀]] resources, and later return toward [[GuanzhongRegion|关中]], making him the source's anchor for [[StrategicRetreatBaseBuilding|退让式根据地经营]].
+
 ## Connections
 - [[LiuBang|刘邦]] - central figure whose bluff Xiao He manages.
 - [[LuGongLiuBangFatherInLaw|吕公]] and [[LuZhi|吕雉]] - banquet host and marriage outcome.
@@ -31,3 +33,4 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 - [[CaoShen|曹参]], [[DazexiangUprising|大泽乡起义]], and [[PeiCountyUprisingMobilization|沛县起义动员]] - Qinji 128-7 defection, city opening, and troop-gathering branch.
 - [[XiahouYing|夏侯婴]], [[CaoWushang|曹无伤]], and [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] - Huling surrender and Liu Bang's continuing local campaign.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Xianyang|咸阳]], [[AdministrativeArchiveCapture|行政档案接管]], [[YuefaSanzhang|约法三章]], and [[Bashang|霸上]] - archive capture and pacification administration after Qin's surrender.
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[GuanzhongRegion|关中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - post-settlement restraint and base-building plan.

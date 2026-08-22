@@ -2,7 +2,7 @@
 title: "Three Qin Containment / 三秦压制"
 type: concept
 tags: [strategy, chu-han, guanzhong, enfeoffment, containment]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]
 last_updated: 2026-08-22
 ---
 
@@ -14,14 +14,18 @@ The containment layer is built from surrendered Qin commanders. [[ZhangHanQin|�
 
 The device is politically double-edged. It rewards Qin elites who surrendered to Xiang Yu and gives them reason to defend their new positions, but it also advertises that Liu Bang's first-entry merit has been neutralized through geography and title wording. This turns an apparent compromise into a likely future conflict point inside the broader [[ZhouQinHybridOrder|周秦混合制]].
 
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] adds the contained side's response. [[XiaoHe|萧何]] accepts that Liu Bang cannot break the containment through immediate battle, but reframes the assignment as a temporary base: govern [[Hanzhong|汉中]] and [[BaShu|巴蜀]], gather people and resources, and wait for a later opening toward [[GuanzhongRegion|关中]]. The containment therefore creates both a lock and the conditions for [[StrategicRetreatBaseBuilding|退让式根据地经营]].
+
 ## Key Claims
 - The Three Qin convert surrendered enemies into border guardians against a former ally.
 - The arrangement preserves a nominal claim that Liu Bang received part of the Guanzhong world, while operationally moving him into a constrained and difficult base.
 - The strategy answers the immediate Liu Bang threat without resolving the legitimacy problem created by the Huaiwang promise.
 - The Three Qin show how Xiang Yu's settlement mixes reward, punishment, route control, and hostage-like geography.
+- Hanji 144 shows that containment can be reinterpreted by the constrained actor as a reason to preserve strength and build a base rather than attack immediately.
 
 ## Connections
 - [[LiuBang|刘邦]], [[BaShu|巴蜀]], [[Hanzhong|汉中]], and [[Nanzheng|南郑]] - assigned Han kingship and constrained base.
 - [[XiangYu|项羽]], [[FanZeng|范增]], [[HuaiwangAgreement|怀王之约]], and [[GuanzhongRegion|关中]] - decision-makers, promise, and target region.
 - [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]] - surrendered Qin leaders converted into the three blocking kings.
 - [[ZhouQinHybridOrder|周秦混合制]] and [[CoalitionSettlementFailure|联军战后安排失败]] - broader settlement frame and failure risk.
+- [[XiaoHe|萧何]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], [[FanKuai|樊哙]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - Liu Bang-side reaction and strategic reinterpretation in Hanji 144.

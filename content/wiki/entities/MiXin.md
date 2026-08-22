@@ -2,7 +2,7 @@
 title: "芈心 / Mi Xin / Later Chu Huai Wang"
 type: entity
 tags: [person, chu-state, qin, anti-qin, ruler]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
 last_updated: 2026-08-22
 ---
 
@@ -23,6 +23,8 @@ The most consequential act is [[HuaiwangAgreement|怀王之约]]. Mi Xin and his
 [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] shows the limit of that recovered royal allocation. Mi Xin's appointment gives Song Yi formal authority, but the army's stalled position at [[AnyangQinRebellion|安阳]], the suffering of soldiers, and Song Yi's trip to [[WuyanCounty|无盐县]] let Xiang Yu claim a different kind of emergency legitimacy. The result is that Mi Xin's command order is overturned inside the camp before the Julu battle begins.
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Mi Xin's post-Qin displacement. When [[XiangYu|项羽]] asks to discard the Guanzhong promise and distribute territory by his own settlement logic, Mi Xin insists on the original word. Xiang Yu then denies his authority, says Mi Xin was installed by the Xiang family and has no campaign merit, virtually honors him as 義帝, and sends him to [[ChenxianChangsha|郴县]]. The episode treats the title elevation as practical isolation: Mi Xin's symbolic rank rises while his ability to resist Xiang Yu disappears.
+
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] adds the forced-relocation backlash. Mi Xin does not willingly leave Pengcheng for Chenxian, so Xiang Yu sends soldiers to compel the move. The episode says Mi Xin's attendants and ministers resent leaving their home region and refuse to settle quietly, turning his symbolic demotion into a visible grievance against Xiang Yu's settlement.
 
 This page is separate from [[ChuHuaiwang|楚怀王]], the earlier Warring States ruler whose captivity and death in Qin create the reputation being reused here.
 
