@@ -10333,3 +10333,11 @@ Added source page for Hanji 171 part 1: Zhang Liang's post-founding seclusion af
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》171｜张良教你如何名利双收？（2）
+
+Added source page for Hanji 171 part 2: Zang Tu's rebellion and suppression, Lu Wan's appointment as Yan king, Li Ji's fear-driven rebellion, Changle and Weiyang palace construction, and Han Xin's Zhongli Mo crisis. Created Li Ji (Chu-Han), Changle Palace, Weiyang Palace, and Different-Surname King Suspicion; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Western Han dynasty, Zang Tu, Lu Wan, Zhongli Mo, Han Xin, Yan State, Power Exit Trap, and Hostile-Territory Royal Containment. No settled contradiction found; Zang Tu's motive and Liu Bang's pressure are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

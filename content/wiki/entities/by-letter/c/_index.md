@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6698
+wiki_total_pages: 6701
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "ChenxianChangsha"
     title: "郴县 / Chen County (Changsha)"
     url: "/wiki/entities/chenxianchangsha/"
+  - key: "ChanglePalace"
+    title: "长乐宫 / Changle Palace"
+    url: "/wiki/entities/changlepalace/"
   - key: "ChangAnHanCapital"
     title: "长安 / Chang'an (Han capital)"
     url: "/wiki/entities/changanhancapital/"

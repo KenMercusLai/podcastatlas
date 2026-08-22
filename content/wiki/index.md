@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》171｜张良教你如何名利双收？（2）](sources/zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn.md) — 芮淇讲透资治通鉴 episode on early Han different-surname king suspicion: Zang Tu's Yan rebellion, Lu Wan's replacement kingship, Li Ji's fear revolt, Changle/Weiyang palace building, and Han Xin's Zhongli Mo crisis.
 - [《资治通鉴·汉纪》171｜张良教你如何名利双收？（1）](sources/zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41.md) — 芮淇讲透资治通鉴 episode on Zhang Liang's post-founding withdrawal through Daoist seclusion and Chisongzi language, contrasted with Han Xin and Xiao He's exposure to Liu Bang's suspicion.
 - [《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）](sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk.md) — 芮淇讲透资治通鉴 episode completing the Hanji 170 capital question: Ding Gong as a negative loyalty example, Lou Jing and Zhang Liang arguing against Luoyang, and Liu Bang's move west to Chang'an as Guanzhong-based founding strategy.
 - [《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）](sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-accession cleanup of defeated elites: Tian Heng's island exile, summons, suicide, retainer deaths, Xu Beihong memory, and Ji Bu's pardon through Zhu Jia and Xiahou Ying.
@@ -1293,6 +1294,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [利几 / Li Ji (Chu-Han)](entities/LiJiChuHan.md) — Former Xiang-side figure whose fear-driven rebellion in Hanji 171 part 2 shows early Han suspicion spreading beyond major vassal kings.
+- [长乐宫 / Changle Palace](entities/ChanglePalace.md) — Early Western Han palace renovated from Qin Xinglegong and later associated with the empress dowager residence.
+- [未央宫 / Weiyang Palace](entities/WeiyangPalace.md) — Early Western Han palace built on the Qin Zhangtai base and later used as the ordinary imperial residence.
 - [赤松子 / Chisongzi](entities/Chisongzi.md) — Mythic immortal invoked by Zhang Liang in Hanji 171 as the transcendent vocabulary for withdrawing from early Han founding power.
 - [丁公 / Ding Gong](entities/DingGong.md) — Former Xiang Yu-side figure whom Liu Bang executes after accession as a negative example of disloyal office conduct.
 - [楼敬 / Lou Jing](entities/LouJing.md) — Qi man whose Guanzhong capital advice breaks the Zhou-Luoyang analogy and helps move Liu Bang toward Chang'an.
@@ -7995,6 +7999,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Different-Surname King Suspicion / 异姓诸侯王猜忌](concepts/DifferentSurnameKingSuspicion.md) — Early Han pattern where wartime regional kings become peacetime threats after unification, turning mistrust into replacement, containment, and fear rebellion.
 - [Transcendent Exit Political Camouflage / 假托神仙式权力退场](concepts/TranscendentExitPoliticalCamouflage.md) — Hanji 171 pattern where Zhang Liang uses immortal and Daoist withdrawal language to make post-founding exit from power respectable and non-threatening.
 - [旧敌忠义重释 / Former Enemy Loyalty Reframing](concepts/FormerEnemyLoyaltyReframing.md) — Founding-order move where a victor reclassifies a former enemy's hostile service as loyalty that the new regime can pardon and use.
 - [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, pardon, ritual, and dynastic founding.

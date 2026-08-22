@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5132
+wiki_total_pages: 5133
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "DietarySupplementRegulation"
     title: "Dietary Supplement Regulation"
     url: "/wiki/concepts/dietarysupplementregulation/"
+  - key: "DifferentSurnameKingSuspicion"
+    title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
+    url: "/wiki/concepts/differentsurnamekingsuspicion/"
   - key: "DiffusionTransformers"
     title: "Diffusion Transformers"
     url: "/wiki/concepts/diffusiontransformers/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6698
+wiki_total_pages: 6701
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "LiuFei"
     title: "刘飞"
     url: "/wiki/entities/liufei/"
+  - key: "LiJiChuHan"
+    title: "利几 / Li Ji (Chu-Han)"
+    url: "/wiki/entities/lijichuhan/"
   - key: "LizanSports"
     title: "力赞体育 / Lizan Sports"
     url: "/wiki/entities/lizansports/"
