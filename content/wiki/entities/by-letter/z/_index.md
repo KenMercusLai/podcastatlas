@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6504
+wiki_total_pages: 6506
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -530,9 +530,6 @@ wiki_pages:
   - key: "ZhuHaiWeiRetainer"
     title: "朱亥 / Zhu Hai"
     url: "/wiki/entities/zhuhaiweiretainer/"
-  - key: "ZhuJishi"
-    title: "朱吉石 / Zhu Jishi"
-    url: "/wiki/entities/zhujishi/"
   - key: "ZhuNing"
     title: "朱宁 / Zhu Ning"
     url: "/wiki/entities/zhuning/"
@@ -545,6 +542,9 @@ wiki_pages:
   - key: "ZhuYingWarringStates"
     title: "朱英 / Zhu Ying (Warring States)"
     url: "/wiki/entities/zhuyingwarringstates/"
+  - key: "ZhuJishi"
+    title: "朱鸡石 / 朱吉石 / Zhu Jishi"
+    url: "/wiki/entities/zhujishi/"
   - key: "ZhengmianLianjie"
     title: "正面连接"
     url: "/wiki/entities/zhengmianlianjie/"

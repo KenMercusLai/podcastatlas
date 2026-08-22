@@ -2,7 +2,7 @@
 title: "章邯 / Zhang Han (Qin)"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ That proposal matters because it makes Qin's response partly administrative. [[Q
 
 [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] shows Zhang Han's pressure continuing through subordinates after Chen Sheng's death. The transcript writes 张涵 in this passage, but the role remains Zhang Han's Qin counteroffensive: a subordinate attacks through the Xiao-Dang line, forcing [[LiuBang|刘邦]] to delay his attempt to recover [[FengCounty|丰邑 / 丰县]] and fight before consolidating under [[JingJu|景居 / 景驹]].
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] keeps Zhang Han as the military pressure facing the newly enlarged [[XiangLiang|项梁]] camp. Zhang Han reaches Li County, and Xiang Liang sends [[ZhuJishi|朱鸡石 / 朱吉石]] plus [[YuFanjun|余樊君]] against him. Zhu Jishi is defeated and flees, Yu Fanjun dies, and Xiang Liang later executes Zhu Jishi, so Zhang Han's campaign becomes the stress test immediately after Xiang Liang absorbs Qin Jia's surrendered troops.
+
 ## Connections
 - [[QinErshi|胡亥 / 秦二世]] - ruler who approves the pardon-and-armament proposal.
 - [[ZhouWenRebel|周文]] and [[ZhangChuRegime|张楚政权]] - rebel threat Zhang Han defeats.
@@ -31,4 +33,5 @@ That proposal matters because it makes Qin's response partly administrative. [[Q
 - [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]] and [[ZhangChuRegime|张楚政权]] - Tian Zang, Li Gui, Deng Shuang, and Wu Feng defeats after Wu Guang's death.
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[SimaXin|司马欣]], [[DongYiQin|董义]], [[CaiCi|蔡赐]], [[ZhangHeZhangChu|张鹤]], and [[ChenSheng|陈胜]] - final pressure on the Chen Sheng base.
 - [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]], [[LiuBang|刘邦]], and [[JingJu|景居 / 景驹]] - continuing Qin pressure that interrupts Liu Bang's Feng recovery plan.
+- [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]], [[XiangLiang|项梁]], [[ZhuJishi|朱鸡石 / 朱吉石]], and [[YuFanjun|余樊君]] - Li County pressure against Xiang Liang's subordinate commanders.
 - [[QinState|秦国]] and [[DazexiangUprising|大泽乡起义]] - regime and rebellion context.

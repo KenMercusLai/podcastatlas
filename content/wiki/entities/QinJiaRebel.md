@@ -2,7 +2,7 @@
 title: "秦嘉 / Qin Jia (Rebel)"
 type: entity
 tags: [person, anti-qin, rebellion, qin]
-sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-22
 ---
 
@@ -18,9 +18,12 @@ Qin Jia's wiki importance is structural. He shows that [[ZhangChuRegime|张楚�
 
 This sequel makes Qin Jia a double case: first a rebel commander defying Chen Sheng's monitor, then a post-Zhang Chu claimant-maker whose diplomacy cannot overcome inter-rebel status conflict.
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] completes Qin Jia's fall. [[XiangLiang|项梁]] publicly frames him as someone who betrayed the first rebel king, [[ChenSheng|陈胜]], by setting up [[JingJu|景居 / 景驹]]. The episode reads this as psychological and moral preparation for war: Xiang Liang makes Qin Jia look like a disloyal rebel rather than simply another anti-Qin leader. Qin Jia loses, flees, counterattacks at Huling, dies, and his army surrenders to Xiang Liang.
+
 ## Connections
 - [[ZhuJishi|朱吉石]] - co-leader in the Tan-area uprising.
 - [[WuPingJunPan|武平君畔]] - Chen Sheng's monitor whom Qin Jia kills.
 - [[ChenSheng|陈胜]] and [[ZhangChuRegime|张楚政权]] - authority Qin Jia claims while defying its chain of command.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] and [[RebelFounderAlienation|起义首领人心疏离]] - wider rebel-fragmentation context around Chen Sheng's final months.
 - [[JingJu|景居 / 景驹]], [[GongsunQing|公孙庆]], [[TianDanQinRebel|田儋]], and [[QiState|齐国]] - Qinji 129-4 claimant-making and failed alliance mission.
+- [[XiangLiang|项梁]] and [[MoralizedWarPretext|道德化战争借口]] - Qinji 130-2 defeat through a loyalty-framed attack.

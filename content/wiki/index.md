@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》130-2｜历史记录首次屠城！](sources/zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm.md) — 芮淇讲透资治通鉴 episode on Chen Ying's refusal of kingship and later Han payoff, Xiang Liang's absorption of Ying Bu and defeat of Qin Jia/Jing Ju, Liu Bang's recovery of Feng, and Xiang Yu's Xiangcheng massacre.
 - [《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书](sources/zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2.md) — 芮淇讲透资治通鉴 episode on Zhang Liang's Huangshi Gong bridge test, Taigong Bingfa / Liutao, Liu Bang joining Jing Ju and fighting Zhang Han's pressure, Zhao Ping's false Chen Sheng appointment of Xiang Liang, and Chen Ying's title-restraint through attachment.
 - [《资治通鉴·秦纪》129-4｜旧权贵张良如何在刘邦手下安身](sources/zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav.md) — 芮淇讲透资治通鉴 episode on post-Chen Sheng fragmentation, Song Liu's punished surrender, Yong Chi's Feng betrayal, Zhao Xie's restoration, Qin Jia's failed Qi alliance, Ying Bu's rise, and Zhang Liang's strategic recognition by Liu Bang.
 - [《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心](sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3.md) — 芮淇讲透资治通鉴 episode on Chen Sheng's final collapse: Qin Jia killing Wu Ping Jun Pan, Zhang Han's pressure on Chen County, Zhuang Gu's killing of Chen Sheng, Lu Chen's revenge and reburial, and Chen Sheng's split legacy as both anti-Qin initiator and alienating ruler.
@@ -1215,7 +1216,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [昭平 / Zhao Ping (Rebel)](entities/ZhaoPingRebel.md) — Guangling rebel actor who falsely invokes Chen Sheng's authority to appoint Xiang Liang and push Kuaiji troops west against Qin.
-- [陈婴 / Chen Ying](entities/ChenYing.md) — Dongyang rebel leader whose mother advises him not to claim kingship but to attach to Xiang Liang; transcript writes 陈英.
+- [陈婴 / Chen Ying](entities/ChenYing.md) — Dongyang rebel leader whose mother advises him not to claim kingship but to attach to Xiang Liang; later rewarded under Liu Bang in the episode's account.
+- [襄城 / Xiangcheng (Qin)](entities/XiangchengQin.md) — Yingchuan city whose resistance and massacre by Xiang Yu anchor Qinji 130-2's source-scoped first recorded 屠城 claim.
+- [余樊君 / Yu Fanjun](entities/YuFanjun.md) — Xiang Liang subordinate commander killed fighting Zhang Han near Li County in Qinji 130-2.
 - [宋刘 / Song Liu](entities/SongLiu.md) — Chen Sheng-side commander whose surrender at Nanyang is punished by Qin Er Shi, making surrender policy counterproductive in the episode's reading.
 - [雍齿 / Yong Chi](entities/YongChi.md) — Liu Bang subordinate who looks down on him and defects with Feng County to Zhou Shi's Wei-side force.
 - [丰邑 / 丰县 / Feng County](entities/FengCounty.md) — Liu Bang-held place entrusted to Yong Chi and then lost when Yong Chi defects to Zhou Shi's restoration line.
@@ -1225,7 +1228,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Punished Qin convict and bandit leader who joins Lu Chen, allies by marriage with Wu Rui, and enters anti-Qin warfare.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
 - [秦嘉 / Qin Jia (Rebel)](entities/QinJiaRebel.md) — Local anti-Qin rebel leader who refuses Chen Sheng's monitor Wu Ping Jun Pan and kills him under a false Chen Sheng order.
-- [朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader, named in the source as part of the local rebel force outside stable Zhang Chu control.
+- [朱鸡石 / 朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader later defeated by Zhang Han and executed by Xiang Liang; source spellings vary.
 - [武平君畔 / Wu Ping Jun Pan](entities/WuPingJunPan.md) — Chen Sheng's monitor sent to supervise the Tan-area army and killed by Qin Jia.
 - [司马欣 / Sima Xin](entities/SimaXin.md) — Qin figure sent by Qin Er Shi to assist Zhang Han's campaign against the rebels.
 - [董义 / Dong Yi (Qin)](entities/DongYiQin.md) — Qin figure named with Sima Xin as support for Zhang Han in the final pressure on Zhang Chu.

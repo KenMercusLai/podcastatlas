@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6504
+wiki_total_pages: 6506
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "Xiren"
     title: "袭人 / Xiren"
     url: "/wiki/entities/xiren/"
+  - key: "XiangchengQin"
+    title: "襄城 / Xiangcheng (Qin)"
+    url: "/wiki/entities/xiangchengqin/"
   - key: "XianglingWarringStates"
     title: "襄陵 / Xiangling"
     url: "/wiki/entities/xianglingwarringstates/"

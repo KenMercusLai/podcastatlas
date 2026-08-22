@@ -2,7 +2,7 @@
 title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
 type: concept
 tags: [rebellion, coalition, qin, statecraft]
-sources: [zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -28,6 +28,8 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 
 [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] adds two further forms. [[ZhaoPingRebel|昭平]] uses the dead [[ChenSheng|陈胜]]'s name to move [[XiangLiang|项梁]] and [[XiangYu|项羽]] west, showing that fragmented actors can still borrow a fallen center's authority. [[ChenYing|陈英 / 陈婴]] then refuses kingship and attaches to Xiang Liang, showing that not every local leader responds to fragmentation by claiming the highest title; some reduce risk through [[ClaimRestraintThroughAttachment|有所归属式名位节制]].
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] adds the consolidation side of fragmentation. [[YingBu|英布 / 黥布]] and Chen Ying attach to Xiang Liang, while Xiang Liang defeats [[QinJiaRebel|秦嘉]] and eliminates [[JingJu|景居 / 景驹]] through a loyalty-framed attack. The anti-Qin field is still divided, but the division now produces hierarchy: some forces join Xiang Liang voluntarily, and some are absorbed after defeat.
+
 ## Connections
 - [[WuChen|武臣]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[CaiCi|蔡赐]] - main actors in the source.
 - [[ChenSheng|陈胜]], [[ZhangChuRegime|张楚政权]], and [[DazexiangUprising|大泽乡起义]] - rebel regime and origin.
@@ -40,3 +42,4 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[QinJiaRebel|秦嘉]], [[WuPingJunPan|武平君畔]], [[RebelFounderAlienation|起义首领人心疏离]], and [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] - final Zhang Chu authority breakdown and center-level alienation.
 - [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[ZhaoXie|赵歇]], [[JingJu|景居 / 景驹]], [[GongsunQing|公孙庆]], [[YongChi|雍齿]], and [[FengCounty|丰邑 / 丰县]] - post-Chen-Sheng restoration competition, failed alliance, and local defection.
 - [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]], [[ZhaoPingRebel|昭平]], [[XiangLiang|项梁]], [[ChenYing|陈英 / 陈婴]], and [[ClaimRestraintThroughAttachment|有所归属式名位节制]] - false authorization, Xiang westward mobilization, and restrained attachment.
+- [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]], [[YingBu|英布 / 黥布]], [[QinJiaRebel|秦嘉]], [[JingJu|景居 / 景驹]], and [[MoralizedWarPretext|道德化战争借口]] - attachment, rebel-on-rebel defeat, and consolidation under Xiang Liang.

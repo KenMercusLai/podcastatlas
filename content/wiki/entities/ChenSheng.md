@@ -2,7 +2,7 @@
 title: "陈胜 / Chen Sheng"
 type: entity
 tags: [person, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -32,6 +32,8 @@ The same source explains the death through [[RebelFounderAlienation|起义首领
 
 [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] adds a further afterlife for Chen Sheng's authority. [[ZhaoPingRebel|昭平]] hears that Chen Sheng is dead but still claims Chen Sheng has appointed [[XiangLiang|项梁]] as Chu upper pillar of state. The appointment is false in the episode's telling, yet it works as a mobilizing script: Chen Sheng's name can still authorize the Xiang family's westward anti-Qin move after the living ruler is gone.
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] uses Chen Sheng as the negative contrast for [[ChenYing|陈英 / 陈婴]]. The episode says a similar warning against premature kingship had been available to Chen Sheng, but he still made himself king, became the obvious target, and was eventually killed by his own driver. The same source then shows Chen Sheng's name continuing to matter politically when [[XiangLiang|项梁]] denounces [[QinJiaRebel|秦嘉]] as a betrayer of the first rebel king.
+
 ## Connections
 - [[WuGuang|吴广]] - paired uprising leader.
 - [[DazexiangUprising|大泽乡起义]] and [[FatalDeadlineRebellionTrigger|误期死局式起义触发]] - event and direct trigger.
@@ -45,3 +47,4 @@ The same source explains the death through [[RebelFounderAlienation|起义首领
 - [[TianZang|田臧]], [[LiYou|李由]], [[YingyangWarringStates|荥阳]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Wu Guang's killing and Chen Sheng's suspicious non-punishment in Qinji 129-1.
 - [[QinJiaRebel|秦嘉]], [[WuPingJunPan|武平君畔]], [[ZhangHeZhangChu|张鹤]], [[ZhuangGu|庄谷]], [[LuChenQinRebel|吕臣]], [[RebelFounderAlienation|起义首领人心疏离]], and [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] - Qinji 129-3 final collapse, death, revenge, and legacy split.
 - [[ZhaoPingRebel|昭平]], [[XiangLiang|项梁]], and [[KuaijiCommandery|会稽郡]] - Qinji 130-1 false posthumous appointment and westward mobilization.
+- [[ChenYing|陈英 / 陈婴]], [[ClaimRestraintThroughAttachment|有所归属式名位节制]], and [[MoralizedWarPretext|道德化战争借口]] - Qinji 130-2 contrast and posthumous legitimacy use against Qin Jia.

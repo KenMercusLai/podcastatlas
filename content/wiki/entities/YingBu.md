@@ -2,7 +2,7 @@
 title: "英布 / 黥布 / Ying Bu"
 type: entity
 tags: [person, anti-qin, rebellion, qin-han, military]
-sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -14,11 +14,14 @@ At Lishan, Ying Bu builds ties with other convict heads and forceful men, then e
 
 The next step is local alliance. Ying Bu brings several thousand followers to [[WuRui|吴芮]], the Panyang magistrate known as Lord Pan. Wu Rui marries his daughter to Ying Bu and orders him to attack Qin, turning Ying Bu's punished-and-bandit following into a politically connected anti-Qin force.
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] folds Ying Bu into [[XiangLiang|项梁]]'s larger army. After defeating Qin troops and moving east, Ying Bu hears that Xiang Liang has crossed the Huai and brings his force under Xiang Liang. This makes Ying Bu one of the armed actors whose attachment helps Xiang Liang's camp grow to roughly sixty or seventy thousand people.
+
 The episode also preserves a fate-reading story. A physiognomist reportedly says Ying Bu will become king after being punished; after the punishment occurs, Ying Bu adopts the surname or name 黥, hoping the second half of the prediction will also come true. This page records that as the episode's legend-colored framing, not as a verified causal explanation.
 
 ## Connections
 - [[Lishan|骊山]] and [[QinState|秦国]] - punishment and convict-labor background.
 - [[LuChenQinRebel|吕臣]], [[ChenSheng|陈胜]], and [[ZhangChuRegime|张楚政权]] - Chu-side recovery field in which Ying Bu appears.
 - [[WuRui|吴芮]] - local official and father-in-law who integrates Ying Bu's force.
+- [[XiangLiang|项梁]] - larger anti-Qin commander Ying Bu joins in Qinji 130-2.
 - [[LiuBang|刘邦]] and [[WesternHanDynasty|Western Han]] - later horizon noted elsewhere in the wiki through Liu Bang's post-Ying-Bu tomb-rite route.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], [[LishanConvictMobilization|骊山刑徒应急动员]], and [[AuspiciousOmenPolitics|祥瑞政治]] - related military-manpower and fate-narrative frames.

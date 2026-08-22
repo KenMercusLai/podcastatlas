@@ -44927,6 +44927,10 @@
     "title": "项羽 / Xiang Yu",
     "url": "/wiki/entities/xiangyu/"
   },
+  "XiangchengQin": {
+    "title": "襄城 / Xiangcheng (Qin)",
+    "url": "/wiki/entities/xiangchengqin/"
+  },
   "Xiangling": {
     "title": "香菱 / Xiangling",
     "url": "/wiki/entities/xiangling/"
@@ -46031,6 +46035,10 @@
     "title": "Yu Chengdong",
     "url": "/wiki/entities/yuchengdong/"
   },
+  "YuFanjun": {
+    "title": "余樊君 / Yu Fanjun",
+    "url": "/wiki/entities/yufanjun/"
+  },
   "YuKaichao": {
     "title": "游凯超 / Kaichao Yu",
     "url": "/wiki/entities/yukaichao/"
@@ -47080,7 +47088,7 @@
     "url": "/wiki/entities/zhuhaiweiretainer/"
   },
   "ZhuJishi": {
-    "title": "朱吉石 / Zhu Jishi",
+    "title": "朱鸡石 / 朱吉石 / Zhu Jishi",
     "url": "/wiki/entities/zhujishi/"
   },
   "ZhuNing": {
@@ -50462,6 +50470,10 @@
   "zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2": {
     "title": "《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书",
     "url": "/wiki/sources/zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2/"
+  },
+  "zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm": {
+    "title": "《资治通鉴·秦纪》130-2｜历史记录首次屠城！",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

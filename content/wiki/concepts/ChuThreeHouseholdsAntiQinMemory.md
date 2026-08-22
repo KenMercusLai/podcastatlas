@@ -2,7 +2,7 @@
 title: "Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆"
 type: concept
 tags: [historical-memory, anti-qin, chu-state, warring-states, historiography]
-sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]
 last_updated: 2026-08-22
 ---
 
@@ -16,12 +16,15 @@ The concept is a memory frame, not a proof by itself. It should be linked to [[S
 
 [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]] shows that memory becoming politically usable before the Chu-Han endpoint. The source says Chen County had older anti-Qin resonance through [[ChangpingJun|昌平君]], [[XiangYan|项燕]], and the Qin-Chu war background, and [[ChenSheng|陈胜]] and [[WuGuang|吴广]] claim Xiang Yan still lives when launching the [[DazexiangUprising|大泽乡起义]]. The memory frame therefore moves from battlefield afterlife into [[RebelMandateManufacture|起义天命制造]].
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] adds the popular grievance side behind that memory. The episode closes by recalling [[ChuHuaiwang|楚怀王]]'s detention and death in Qin and says Chu people mourned him intensely. This does not replace the Xiang Yan lineage-memory branch; it widens the anti-Qin background from aristocratic saying to a remembered injury against the Chu ruler and people.
+
 ## Key Claims
 - A defeated state's political memory can remain usable after its formal army and ruler are broken.
 - "Three households" is interpreted by the source as an elite-lineage formula around Qu, Jing, and Zhao, not as a literal count of common households.
 - The line turns Xiang Yan's death from a military endpoint into a prophecy-like memory of later Qin collapse.
 - The memory is powerful because later anti-Qin figures can be read as fulfilling it, but that fulfillment reading remains historiographical.
 - Qinji 128-2 adds that Chu memory can be actively borrowed by rebels as a mobilization resource, not only recognized after Qin falls.
+- Qinji 130-2 adds Chu Huaiwang's captivity and death as another grievance that makes Chu anti-Qin sentiment politically available.
 
 ## Connections
 - [[XiangYan|项燕]], [[ChuState|楚国]], and [[QinanChuBattlefield|蕲南]] - source death scene and battlefield setting.
@@ -30,3 +33,4 @@ The concept is a memory frame, not a proof by itself. It should be linked to [[S
 - [[HistoricalMemoryContest]] and [[HistoricalRhymePoliticalReading|历史押韵式政治阅读]] - adjacent memory and retrospective-pattern frames.
 - [[QuYuan|屈原]] - existing Chu-lineage figure useful for anchoring the Qu clan named in the source's explanation.
 - [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[DazexiangUprising|大泽乡起义]], [[ChenSheng|陈胜]], [[WuGuang|吴广]], [[FuSu|扶苏]], and [[RebelMandateManufacture|起义天命制造]] - later use of Xiang Yan and Chu memory as rebel legitimacy.
+- [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]], [[ChuHuaiwang|楚怀王]], [[XiangLiang|项梁]], and [[XiangYu|项羽]] - Chu grievance as background for the Xiang family's anti-Qin appeal.

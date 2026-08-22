@@ -2,8 +2,8 @@
 title: "Warring States War Brutalization / 战国战争残酷化"
 type: concept
 tags: [warfare, warring-states, violence, statecraft]
-sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+last_updated: 2026-08-22
 ---
 
 # Warring States War Brutalization / 战国战争残酷化
@@ -22,6 +22,8 @@ This page is source-scoped for now. It extends the wiki's [[WarringStatesMilitar
 
 [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] adds the interpretive counterpoint. The source does not narrate a new atrocity; it uses [[CarlVonClausewitz|克劳塞维茨]] to warn that [[Xunzi|荀子]] and [[Mengzi|孟子 / Mencius]] can idealize righteous warfare in ways that understate the brutal coercion already visible in the Warring States record. This makes [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]] a conceptual partner to the brutality pattern.
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] extends the brutality continuum into the Qin-collapse war. [[XiangYu|项羽]] captures [[XiangchengQin|襄城]] after resistance and kills the city's military and civilian population. The episode treats this as a first recorded "屠城" in its narrative frame, distinguishing citywide post-capture killing from the earlier prisoner-killing and siege-catastrophe cases while keeping all of them in the same broader history of escalating wartime violence.
+
 ## Connections
 - [[BaiQi|白起]], [[QinState|秦国]], and [[ChuState|楚国]] - commander, attacker, and target state.
 - [[MiHeng|楚顷襄王]] and [[ZhuangXin|庄辛]] - ruler damaged by the attack and adviser who frames recovery after disaster.
@@ -31,3 +33,4 @@ This page is source-scoped for now. It extends the wiki's [[WarringStatesMilitar
 - [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[ZhaoKuo|赵括]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 surrendered-prisoner killing and cost-framed aftermath.
 - [[DuyouSword|杜邮剑]], [[PostBattleTerrorSignaling|战后恐怖震慑]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 97 part 1 brutality returning as moral memory at Bai Qi's death.
 - [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], and [[CarlVonClausewitz|克劳塞维茨]] - Qinji 99 part 4 critique of bloodless-war imagination.
+- [[XiangYu|项羽]], [[XiangchengQin|襄城]], [[PostBattleTerrorSignaling|战后恐怖震慑]], and [[NonKillingUnification|不爱杀人者能一之]] - Qinji 130-2 city-massacre extension and later violence contrast.

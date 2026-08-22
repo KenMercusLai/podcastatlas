@@ -2,7 +2,7 @@
 title: "陈婴 / Chen Ying"
 type: entity
 tags: [person, anti-qin, rebellion, qin-han]
-sources: [zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2]
 last_updated: 2026-08-22
 ---
 
@@ -14,8 +14,11 @@ In the episode, Chen Ying has occupied Dongyang and is asked by [[XiangLiang|项
 
 Chen Ying follows that advice and does not dare become king. The wiki treats the episode's use of him as a case of [[ClaimRestraintThroughAttachment|有所归属式名位节制]]: in a fractured anti-Qin field, refusing the highest title can be a practical survival strategy rather than weakness.
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] retells that refusal with more biographical frame. Chen Ying begins as a cautious Dongyang local official, is pushed into command when younger rebels cannot agree among themselves, and sees his force grow to roughly twenty thousand. The episode then extends the payoff: after the Chu-Han struggle, he surrenders to [[LiuBang|刘邦]], is rewarded as Tangyi Hou, serves in the Chu kingdom under Liu Bang's brother, dies in 183 BCE, and leaves descendants tied to the Han royal house by marriage.
+
 ## Connections
-- [[XiangLiang|项梁]] - stronger rebel leader who seeks alliance.
+- [[XiangLiang|项梁]] - stronger rebel leader to whom Chen Ying attaches his force.
 - [[ChenSheng|陈胜]], [[ZhangChuRegime|张楚政权]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - broader post-Chen-Sheng rebel context.
 - [[ClaimRestraintThroughAttachment|有所归属式名位节制]] and [[TitleRealityRestraint|名实相符式名号节制]] - concepts for the mother's warning and Chen Ying's refusal to claim kingship.
+- [[LiuBang|刘邦]] and [[WesternHanDynasty|Western Han]] - later surrender, enfeoffment, and family-integration branch added by Qinji 130-2.
 - [[ZhangLiang|张良]] - same episode's other major case for measured action and knowing limits.

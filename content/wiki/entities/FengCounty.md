@@ -2,7 +2,7 @@
 title: "丰邑 / 丰县 / Feng County"
 type: entity
 tags: [place, qin-han, rebellion, china]
-sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
 last_updated: 2026-08-22
 ---
 
@@ -14,9 +14,12 @@ last_updated: 2026-08-22
 
 Feng therefore shows how fragile Liu Bang's first territorial base still is. Unlike [[PeiCounty|沛县]], where local elders and officials help turn him into Pei Gong, Feng is exposed to personal disdain, garrison betrayal, and the competing pull of restored Wei politics.
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] gives the recovery. [[LiuBang|刘邦]] goes to [[XiangLiang|项梁]] at Xue, receives five thousand troops and ten fifth-rank commanders, and takes Feng on his fourth attempt. [[YongChi|雍齿]] flees to Wei, so Feng becomes the place where Liu Bang's dependence on a larger anti-Qin patron produces an immediate territorial result.
+
 ## Connections
 - [[LiuBang|刘邦]] - early leader whose position at Feng is damaged.
 - [[YongChi|雍齿]] - defender who defects from Liu Bang.
 - [[ZhouShiRebel|周市]] and [[WeiState|魏国]] - rival anti-Qin restoration line that receives Feng.
+- [[XiangLiang|项梁]] - external patron whose troops help Liu Bang retake Feng.
 - [[PeiCounty|沛县]], [[XiaoHe|萧何]], and [[PeiCountyUprisingMobilization|沛县起义动员]] - adjacent Liu Bang local-base branch.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider pattern that makes competing anti-Qin allegiances actionable.

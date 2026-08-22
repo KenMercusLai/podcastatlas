@@ -2,7 +2,7 @@
 title: "项梁 / Xiang Liang"
 type: entity
 tags: [person, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The coup depends on planning as much as Xiang Yu's force. Xiang Liang says only 
 
 [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] moves Xiang Liang from regional seizure into westward anti-Qin mobilization. [[ZhaoPingRebel|昭平]] falsely claims that [[ChenSheng|陈胜]] has appointed Xiang Liang as Chu upper pillar of state, then urges him to use the pacified Jiangdong / [[KuaijiCommandery|会稽郡]] force against Qin. Xiang Liang accepts the title and crosses the Yangtze with [[XiangYu|项羽]] and eight thousand men.
 
+[[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] turns that crossing into consolidation. [[ChenYing|陈英 / 陈婴]], [[YingBu|英布 / 黥布]], and other Chu-side forces attach to him, bringing his camp at Xiapi to roughly sixty or seventy thousand. Xiang Liang then attacks [[QinJiaRebel|秦嘉]] and [[JingJu|景居 / 景驹]] by arguing that Qin Jia betrayed the first rebel king, Chen Sheng, when he installed Jing Ju; the episode treats this as a [[MoralizedWarPretext|道德化战争借口]] that makes rebel-on-rebel war easier to justify. After Qin Jia dies and his army surrenders, Xiang Liang absorbs the force, but [[ZhangHanQin|章邯]]'s pressure soon kills [[YuFanjun|余樊君]], defeats [[ZhuJishi|朱鸡石 / 朱吉石]], and leads Xiang Liang to execute Zhu Jishi at Xue.
+
 ## Connections
 - [[XiangYu|项羽]] - later protagonist whose line the source foreshadows.
 - [[LiuBang|刘邦]] and [[TianDanQinRebel|田儋]] - parallel post-Dazexiang uprising figures named in the episode.
@@ -25,4 +27,5 @@ The coup depends on planning as much as Xiang Yu's force. Xiang Liang says only 
 - [[QinState|秦国]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - regime target and widening rebel field.
 - [[YinTong|殷通]], [[HuanChu|桓楚]], [[KuaijiCommandery|会稽郡]], and [[KuaijiCommanderyCoup|会稽郡守府夺权]] - Qinji 128-7 commandery takeover.
 - [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]], [[ZhaoPingRebel|昭平]], [[ChenYing|陈英 / 陈婴]], and [[ClaimRestraintThroughAttachment|有所归属式名位节制]] - westward mobilization and Chen Ying alliance branch.
+- [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]], [[QinJiaRebel|秦嘉]], [[JingJu|景居 / 景驹]], [[YingBu|英布 / 黥布]], [[ZhangHanQin|章邯]], [[ZhuJishi|朱鸡石 / 朱吉石]], [[YuFanjun|余樊君]], and [[MoralizedWarPretext|道德化战争借口]] - consolidation, legitimacy attack, troop absorption, and first Zhang Han pressure.
 - [[PeiCountyUprisingMobilization|沛县起义动员]] - same-source contrast with Liu Bang's county-based route.
