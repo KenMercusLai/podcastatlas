@@ -2,7 +2,7 @@
 title: "田荣 / Tian Rong"
 type: entity
 tags: [person, qi, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The same source turns Tian Rong from rescued ally into coalition blocker. When X
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] closes Tian Rong's personal branch but not the Qi resistance branch. Xiang Yu defeats him at Chengyang; Tian Rong flees to Pingyuan and is killed by local people hoping to show submission. The episode's point is that Tian Rong's death could have opened pacification, but Xiang Yu's subsequent killing, burning, and plunder force Qi people back into resistance.
 
+[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] gives that continuing branch a named succession. [[TianHeng|田横]] gathers the remnants and installs Tian Rong's son [[TianGuangQiKing|田广]] as Qi king around [[JuWarringStates|莒城 / 城阳]]. Tian Rong's failed kingship therefore still shapes [[PengchengBattle|彭城之战]] because his line supplies the banner that keeps [[XiangYu|项羽]] busy in Qi.
+
 ## Connections
 - [[TianDanQinRebel|田儋]] and [[TianHeng|田横]] - Qi kinship and restored-state network.
 - [[QiState|齐国]], [[ChuState|楚国]], and [[ZhaoState|赵国]] - polities involved in the succession and refugee dispute.
@@ -33,3 +35,4 @@ The same source turns Tian Rong from rescued ally into coalition blocker. When X
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[PengYue|彭越]], [[ChenYu|陈馀]], and [[RewardAllocationBacklash|分配反噬]] - excluded Qi actor becomes rebellion organizer.
 - [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[ZhangLiang|张良]], [[ZhaoXie|赵歇]], and [[HuaiwangAgreement|怀王之约]] - Tian Rong's letter helps Xiang Yu prioritize Qi before Liu Bang.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[XiangYu|项羽]], [[TianJia|田假]], and [[AtrocityBackfireMobilization|暴行反噬式动员]] - Tian Rong's death followed by failed Qi pacification.
+- [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[TianHeng|田横]], [[TianGuangQiKing|田广]], [[JuWarringStates|莒城 / 城阳]], and [[PengchengBattle|彭城之战]] - succession banner and renewed resistance after Tian Rong's death.

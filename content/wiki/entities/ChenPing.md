@@ -2,7 +2,7 @@
 title: "陈平 / Chen Ping"
 type: entity
 tags: [person, qin-han, chu-han, strategy, social-capital]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]
+sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]
 last_updated: 2026-08-22
 ---
 
@@ -40,6 +40,8 @@ The source presents Chen Ping as still belonging to Xiang Yu's camp, not yet as 
 
 For this source, Chen Ping's importance is transitional. He is a Xiang-camp agent whose conduct already points toward later compatibility with Liu Bang's side. The wiki therefore records him as a source-scoped hinge between Hongmen escape management and future Chu-Han personnel movement, without treating the episode as a completed defection.
 
+[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] places Chen Ping inside the post-capture [[Xuzhou|彭城]] failure rather than inside a clever stratagem. The source says even Chen Ping and [[ZhangLiang|张良]] are silent while [[LiuBang|刘邦]] and the army indulge in women, treasure, wine, and victory celebration. This adds a limit case to Chen Ping's acute danger-reading profile: before [[PengchengBattle|彭城之战]] turns against Liu Bang, the command group as a whole fails to restore discipline.
+
 ## Connections
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] - patron switching, Xiang-camp exit, Yellow River self-protection, and Liu Bang-side appointment.
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] - later Liu Bang trust, Lu Zhi-era ambiguity, Zhou Bo partnership, and Emperor Wen transition.
@@ -57,3 +59,4 @@ For this source, Chen Ping's importance is transitional. He is a Xiang-camp agen
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[Bashang|霸上]] - escape target, negotiator, and safe return point.
 - [[HongmenYan|鸿门宴]] - crisis scene where Chen Ping's source-scoped foreshadowing appears.
 - [[PowerEtiquetteReading|权力礼仪细读]] and [[CoalitionSettlementFailure|联军战后安排失败]] - surrounding interpretive frames for reading personnel movement and Xiang-camp weakness.
+- [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[PengchengBattle|彭城之战]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - momentary adviser silence during Pengcheng indulgence.

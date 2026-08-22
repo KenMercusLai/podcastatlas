@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（1）](sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu.md) — 芮淇讲透资治通鉴 episode opening the Pengcheng Battle setup through Dong Gong's mourning pretext, Liu Bang's coalition-building, Chen Yu/Zhang Er deception, Qi resistance, and Pengcheng victory overreach.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern.md) — 芮淇讲透资治通鉴 episode extending Chen Ping's successful-politician sequence through Baideng, Fan Kuai's delayed execution order, Lu Zhi-era camouflage, and worldly political cultivation.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj.md) — 芮淇讲透资治通鉴 episode continuing Chen Ping's successful-politician sequence through Liu Bang's bounded trust, covert inducement work, Lu Zhi-era ambiguity, Zhou Bo partnership, and Emperor Wen transition.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h.md) — 芮淇讲透资治通鉴 episode moving Chen Ping from Wei Jiu and Xiang Yu into Liu Bang's camp, framing covert political technique, outsider supervision of veteran generals, and public talent-signaling.
@@ -1253,6 +1254,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [彭城之战 / Battle of Pengcheng](entities/PengchengBattle.md) — First major Chu-Han battle branch, currently ingested through its political setup, Qi distraction, Pengcheng capture, and Liu Bang's post-victory overreach.
+- [董公 / Dong Gong (Xincheng)](entities/DongGongXincheng.md) — Xincheng elder whose advice turns Yi Emperor Mi Xin's murder into Liu Bang's mourning-based anti-Xiang mobilization pretext.
+- [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, disambiguated from Yan's Tian Guang and tied to renewed Qi resistance before Pengcheng.
 - [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu.
 - [修武 / Xiuwu](entities/Xiuwu.md) — Liu Bang's Henei-area camp where Chen Ping arrives and is introduced through Wei Wuzhi.
 - [冒顿单于 / Modu Chanyu](entities/MaoDunChanyu.md) — Xiongnu ruler whose Baideng encirclement of Liu Bang becomes a Chen Ping covert-leverage case in Hanji 150 part 4.

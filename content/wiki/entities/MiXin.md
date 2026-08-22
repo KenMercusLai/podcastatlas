@@ -2,7 +2,7 @@
 title: "芈心 / Mi Xin / Later Chu Huai Wang"
 type: entity
 tags: [person, chu-state, qin, anti-qin, ruler]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
+sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
 last_updated: 2026-08-22
 ---
 
@@ -32,6 +32,8 @@ The most consequential act is [[HuaiwangAgreement|怀王之约]]. Mi Xin and his
 
 The killing backfires in the source's interpretation. Local people pity and bury Mi Xin, while Liu Bang uses the death as a public accusation against Xiang Yu. Mi Xin therefore moves from restored figurehead to active allocator, then to isolated Yi Emperor, and finally to posthumous mobilizing proof that Xiang Yu's settlement has lost moral standing.
 
+[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] gives that posthumous proof a ritual sequence. [[DongGongXincheng|新城董公]] tells [[LiuBang|刘邦]] to mourn Mi Xin publicly, classify [[XiangYu|项羽]] as the murderer of a sovereign, and use the funeral as the public name for calling the lords. Mi Xin's role therefore extends beyond being a killed figurehead: his death becomes the immediate legitimating prelude to [[PengchengBattle|彭城之战]].
+
 This page is separate from [[ChuHuaiwang|楚怀王]], the earlier Warring States ruler whose captivity and death in Qin create the reputation being reused here.
 
 ## Connections
@@ -46,3 +48,4 @@ This page is separate from [[ChuHuaiwang|楚怀王]], the earlier Warring States
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], [[WartimeCommandDecapitation|战时统帅斩首]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - formal appointment overridden by army-level violence.
 - [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[LiuBang|刘邦]], and [[RewardAllocationBacklash|分配反噬]] - continuing forced-relocation pressure while Liu Bang invokes Mi Xin's earlier promise.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]], [[YingBu|英布]], [[WuRui|吴芮]], [[GongAo|共敖]], and [[ChenxianChangsha|郴县]] - final killing and burial after the forced relocation.
+- [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[DongGongXincheng|董公]], [[PengchengBattle|彭城之战]], and [[MoralizedWarPretext|道德化战争借口]] - public mourning as anti-Xiang mobilization.

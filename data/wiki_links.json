@@ -12583,6 +12583,10 @@
     "title": "东郡 / Dong Commandery",
     "url": "/wiki/entities/dongcommandery/"
   },
+  "DongGongXincheng": {
+    "title": "董公 / Dong Gong (Xincheng)",
+    "url": "/wiki/entities/donggongxincheng/"
+  },
   "DongHongguang": {
     "title": "Dong Hongguang / 董宏光",
     "url": "/wiki/entities/donghongguang/"
@@ -31719,6 +31723,10 @@
     "title": "彭越 / Peng Yue",
     "url": "/wiki/entities/pengyue/"
   },
+  "PengchengBattle": {
+    "title": "彭城之战 / Battle of Pengcheng",
+    "url": "/wiki/entities/pengchengbattle/"
+  },
   "Penglai": {
     "title": "Penglai / 蓬莱",
     "url": "/wiki/entities/penglai/"
@@ -41631,6 +41639,10 @@
     "title": "田光 / Tian Guang",
     "url": "/wiki/entities/tianguang/"
   },
+  "TianGuangQiKing": {
+    "title": "田广 / Tian Guang (Qi King)",
+    "url": "/wiki/entities/tianguangqiking/"
+  },
   "TianHe": {
     "title": "田和 / Tian He",
     "url": "/wiki/entities/tianhe/"
@@ -50882,6 +50894,10 @@
   "zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue": {
     "title": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023",
     "url": "/wiki/sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue/"
+  },
+  "zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu": {
+    "title": "《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

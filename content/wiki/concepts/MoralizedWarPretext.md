@@ -2,7 +2,7 @@
 title: "Moralized War Pretext / 道德化战争借口"
 type: concept
 tags: [diplomacy, war, legitimacy, propaganda, warring-states]
-sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]
+sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ This sits between [[CommonEnemyAlliance|共同敌人联盟]] and [[MoralReputati
 
 [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] adds the banquet-assassination version of the same problem. The host argues that if [[FanZeng|范增]] wanted to press [[LiuBang|刘邦]] hard, he should have openly questioned and intimidated him under [[XiangYu|项羽]]'s authority. Sending [[XiangZhuang|项庄]] to kill Liu Bang through a sword dance is treated as worse than formal execution because it lacks public reason, leader clarity, and aftermath design.
 
+[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] adds the strongest Liu Bang-side version through [[DongGongXincheng|新城董公]]. After [[XiangYu|项羽]] kills Yi Emperor [[MiXin|芈心 / 楚怀王]], Dong Gong tells [[LiuBang|刘邦]] to mourn publicly and call the lords to punish a rebellious regicide. The pretext is not invented from nothing; it formalizes a real killing into a public sequence that makes participation in the anti-Xiang coalition morally legible before [[PengchengBattle|彭城之战]].
+
 ## Key Claims
 - A war can have both material incentives and moral language; the concept tracks the conversion between them.
 - Publicizing a ruler's cruelty can help coordinate states that already have territorial or security reasons to attack.
@@ -35,6 +37,7 @@ This sits between [[CommonEnemyAlliance|共同敌人联盟]] and [[MoralReputati
 - Hanji 140 part 1 adds that missing pretext can be a strategic failure in itself: a correct threat read still needs a public reason and sequence if the actor must preserve aristocratic legitimacy.
 - Hanji 140 part 2 adds that an opposing mediator can exploit that gap: if the attack side lacks a public wrong, the defense can recode the target's conduct as merit and make immediate violence look unrighteous.
 - Hanji 141 adds that covert banquet assassination does not solve a missing pretext; it can make the attacker's side look less legitimate while also exposing adviser-command fractures.
+- Hanji 151 part 1 adds that mourning can be an organizing technology: a funeral rite for a murdered symbolic ruler turns private grief and real outrage into coalition permission.
 
 ## Connections
 - [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[TengState|滕国]], and [[QiMinWang|齐湣王]] - source case.
@@ -45,3 +48,4 @@ This sits between [[CommonEnemyAlliance|共同敌人联盟]] and [[MoralReputati
 - [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]], [[XiangLiang|项梁]], [[QinJiaRebel|秦嘉]], [[JingJu|景居 / 景驹]], and [[ChenSheng|陈胜]] - rebel-internal loyalty pretext.
 - [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[FanZeng|范增]], [[XiangBo|项伯]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[HanguPass|函谷关]], and [[MoralFaceUnderPowerCompetition|权力竞争中的要脸]] - absent pretext before the planned Hongmen attack and Xiang Bo's stronger counter-pretext.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[XiangZhuang|项庄]], [[AdvisorRoleBoundary|谋士越位]], and [[PowerEtiquetteReading|权力礼仪细读]] - sword-dance assassination as failed substitute for legitimate public sequence.
+- [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[DongGongXincheng|董公]], [[MiXin|芈心 / 楚怀王]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PengchengBattle|彭城之战]] - Yi Emperor mourning as the public name for anti-Xiang war.
