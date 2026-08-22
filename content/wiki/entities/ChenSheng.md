@@ -2,8 +2,8 @@
 title: "陈胜 / Chen Sheng"
 type: entity
 tags: [person, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+last_updated: 2026-08-23
 ---
 
 # 陈胜 / Chen Sheng
@@ -17,6 +17,8 @@ The episode makes Chen Sheng both practical and narrative. Practically, he and W
 The source's closing also previews Chen Sheng's later problem. [[GeYing|葛婴]]'s death is said to damage [[ZhangChuRegime|张楚政权]] not only because it removes a general, but because it worsens suspicion between Chen Sheng and his subordinates.
 
 [[zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams|Qinji 128-3]] follows Chen Sheng from uprising leader into regime claimant. After taking Dazexiang and Qixian, sending Ge Ying east, and expanding to Chen County, he faces advice from [[ZhangEr|张耳]] and [[ChenYu|陈馀]] to delay kingship and restore six-state royal descendants through [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]]. Chen Sheng refuses, calls himself Chu king, and founds Zhang Chu; the host reads this as a sign that he wants to inherit the unified realm through a Chu-centered or Fusu-like route rather than simply abolish unification.
+
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] returns to that rejected advice as the positive comparison against [[LiuBang|刘邦]]'s later crisis. For Chen Sheng, restoring the six old states would have meant giving away Qin-held territory to multiply Qin's enemies. The episode uses this contrast to show that a plan Chen Sheng may have needed becomes dangerous once Liu Bang is dividing territory and followers already tied to his own camp.
 
 [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]] adds Chen Sheng's next governing problem. After [[ZhouWenRebel|周文]] advances toward [[Xianyang|咸阳]], Chen Sheng becomes careless and rejects [[KongFu|孔鲋]]'s warning that defense should not depend on the enemy failing to arrive. Zhou Wen's defeat by [[ZhangHanQin|章邯]] then exposes the weakness of that overconfidence.
 
@@ -42,6 +44,7 @@ The same source explains the death through [[RebelFounderAlienation|起义首领
 - [[KongFu|孔鲋]] and [[ChenYu|陈馀]] - Qinji 124 hidden-book branch that later connects scholars to Chen Sheng's rebel regime.
 - [[QinState|秦国]] and [[QinBookBurningPolicy|秦代焚书令]] - regime and earlier coercive policy whose collapse context is foreshadowed in Qinji 124.
 - [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - Qinji 128-3 advice Chen Sheng rejects before declaring Zhang Chu.
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[LiuBang|刘邦]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - later comparison showing why Chen Sheng's potential restoration logic does not transfer cleanly to Liu Bang.
 - [[ZhouWenRebel|周文]], [[ZhangHanQin|章邯]], and [[KongFu|孔鲋]] - Qinji 128-5 overconfidence, warning, and defeat near Xianyang.
 - [[WuChen|武臣]], [[CaiCi|蔡赐]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Wu Chen's Zhao kingship and Chen Sheng's failed compromise.
 - [[TianZang|田臧]], [[LiYou|李由]], [[YingyangWarringStates|荥阳]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Wu Guang's killing and Chen Sheng's suspicious non-punishment in Qinji 129-1.

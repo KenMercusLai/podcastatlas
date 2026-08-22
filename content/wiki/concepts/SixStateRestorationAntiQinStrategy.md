@@ -2,7 +2,7 @@
 title: "Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略"
 type: concept
 tags: [rebellion, anti-qin, diplomacy, statecraft, qin-history]
-sources: [zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams]
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams]
 last_updated: 2026-08-23
 ---
 
@@ -28,6 +28,8 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 
 [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] adds a late warning case. Under pressure at [[XingyangStandoff|荥阳相持]], [[LiShiqi|郦食其]] advises [[LiuBang|刘邦]] to restore the six kingdoms as a way to weaken [[XiangYu|项羽]], and Liu Bang initially prepares seals. [[ZhangLiang|张良]] returns before the plan is executed and rejects it. This source therefore keeps restoration as historically powerful against Qin, but flags that reviving it after Qin has fallen can empower rival centers and undermine Liu Bang's own unification path.
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] completes the boundary condition. Zhang Liang argues that [[ShangTang|商汤]] and [[ZhouWuwang|周武王]] could use old-lineage honors only after they controlled the field, while Liu Bang would be dividing real territory, rewards, and followers before victory. The same mechanism that multiplies enemies against Qin for Chen Sheng would now multiply claimants around Liu Bang and possibly give Xiang Yu new alignment targets.
+
 ## Key Claims
 - A revolt that begins from survival pressure still needs a political map if it wants to defeat an empire.
 - Restoring old royal descendants can create allied legitimacy nodes faster than one rebel leader can govern all captured territory.
@@ -42,6 +44,7 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 - Qinji 130-3 adds that restoration can be deliberately figureheaded: Xiang Liang uses Mi Xin's Chu descent and Zhang Liang uses Han Cheng's Han descent to widen anti-Qin legitimacy without making the military organizer king.
 - Qinji 132 adds a hybrid phase: restored royal authority continues through Mi Xin and Wei Bao, while the Huaiwang agreement offers new kingship based on who first takes Guanzhong.
 - Hanji 159-1 adds the boundary condition: once the war is no longer against Qin, restoring old states can become a strategic trap rather than an enemy-multiplying coalition device.
+- Hanji 159-2 specifies the trap: restoration can move from giving away enemy territory to giving away one's own reward base, followers, and command leverage.
 
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - advisers who propose the strategy in Qinji 128-3.
@@ -55,3 +58,4 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 - [[MiXin|芈心 / 楚怀王]], [[HanCheng|韩成]], [[FanZeng|范增]], [[ZhangLiang|张良]], [[XiangLiang|项梁]], and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - Qinji 130-3 restored Chu and Han royal figureheads.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[WeiBao|魏豹]], [[HuaiwangAgreement|怀王之约]], [[GuanzhongRegion|关中]], and [[Julu|巨鹿]] - hybrid restoration, reward, and rescue-Zhao phase.
 - [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[LiShiqi|郦食其]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[XingyangStandoff|荥阳相持]] - attempted revival of the restoration method during Chu-Han crisis and Zhang Liang's rejection.
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[ShangTang|商汤]], [[ZhouWuwang|周武王]], and [[XiangYu|项羽]] - completed refutation showing why the anti-Qin precedent no longer fits Liu Bang's situation.

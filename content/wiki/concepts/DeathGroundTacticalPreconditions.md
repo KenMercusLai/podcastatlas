@@ -2,7 +2,7 @@
 title: "Death-Ground Tactical Preconditions / 死地战术前提"
 type: concept
 tags: [warfare, military-strategy, morale, sunzi, chu-han]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i]
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The concept also clarifies the relationship to [[BreakingCauldronsAndSinkingBoat
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] extends the concept after the battle. The same prudence that makes death-ground tactics usable also limits what should follow victory: Han Xin accepts Li Zuoche's warning that tired troops should not be thrown directly at [[YanState|燕国]] and [[QiState|齐国]] fortifications. Death-ground success therefore leads into rest, pacification, and envoy pressure rather than automatic escalation.
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] adds the clearest negative comparison. [[PengchengBattle|彭城之战]] has water, danger, and a large army, but lacks the preconditions that made [[HanXin|韩信]]'s use of death ground coherent. [[LiuBang|刘邦]]'s troops believe victory is already secure, while [[XiangYu|项羽]]'s troops are the side fighting with urgent resolve.
+
 ## Key Claims
 - Death-ground morale is a real mechanism, but it is not a complete battle plan.
 - The tactic is most coherent when the commander's own troops might otherwise scatter or fail to sustain contact.
@@ -29,8 +31,10 @@ The concept also clarifies the relationship to [[BreakingCauldronsAndSinkingBoat
 - Han Xin's case joins knowing oneself, knowing the enemy, regular deployment, and surprise; it is not reducible to courage.
 
 - Hanji 157 part 2 adds a post-victory precondition: after forced-resolve combat, the commander must account for troop exhaustion before choosing the next method of expansion.
+- Hanji 159-2 adds that the same surface posture can invert when morale belongs to the enemy rather than to the trapped force.
 
 ## Connections
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - negative test of copied death-ground posture.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - continuation of death-ground success through rest and diplomacy rather than repeated immediate assault.
 - [[BackwaterBattle|背水一战]] - the source case that makes the preconditions explicit.
 - [[HanXin|韩信]], [[ChenYu|陈馀]], [[LiZuoChe|李左车]], and [[JingxingPass|井陉口]] - actors and terrain behind the concept.

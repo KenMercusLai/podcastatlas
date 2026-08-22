@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？](sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb.md) — 芮淇讲透资治通鉴 episode completing Zhang Liang's borrowed-chopsticks refutation of Li Shiqi's six-kingdom restoration plan and generalizing it through Xun Yue's 行、势、情 strategy framework.
 - [《资治通鉴·汉纪》159-1｜刘邦洗脚的驭人之术](sources/zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3.md) — 芮淇讲透资治通鉴 episode on Liu Bang's foot-washing reception of Ying Bu, Ying Bu's equal-grade lodging, Long Ju's Jiujiang/Aocang counterpressure, and Zhang Liang blocking Li Shiqi's six-kingdom restoration plan.
 - [《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军](sources/zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu.md) — 芮淇讲透资治通鉴 episode completing Sui He's Jiujiang mission by persuading Ying Bu privately, publicly exposing the defection before a Chu envoy, and forcing Xiang Yu to divide pressure away from Liu Bang.
 - [《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）](sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3.md) — 芮淇讲透资治通鉴 episode on Han Xin honoring Li Zuoche after Jingxing, resting and pacifying Zhao, using envoy pressure to make Yan submit, requesting Zhang Er as Zhao king, and previewing Sui He's mission to Ying Bu.
@@ -7914,6 +7915,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, and actors' real commitments before copying historical precedent.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Han Xin/Li Zuoche pattern where a fresh battlefield victory is converted into envoy-backed surrender pressure rather than immediate assault.

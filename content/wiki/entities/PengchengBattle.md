@@ -2,8 +2,8 @@
 title: "彭城之战 / Battle of Pengcheng"
 type: entity
 tags: [battle, chu-han, war, liu-bang, xiang-yu]
-sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
+last_updated: 2026-08-23
 ---
 
 # 彭城之战 / Battle of Pengcheng
@@ -34,7 +34,10 @@ The pursuit turns defeat into mass death. Han troops are driven through river te
 
 [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] adds the material recovery layer after the redesign. Liu Bang falls back to [[YingyangWarringStates|荥阳]], [[XiaoHe|萧何]] sends emergency manpower from Guanzhong under Han Xin, Han Xin checks Chu pursuers south of Xingyang, [[GuanYing|灌婴]] builds cavalry with [[LiBiQinCavalry|李璧]] and [[LuoJiaQinCavalry|骆甲]], and road work toward [[Aocang|敖仓]] supports the front. Pengcheng's aftermath therefore now includes not only escape and diplomacy but the construction of [[XingyangStandoff|荥阳相持]].
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] reuses Pengcheng as the failed half of a back-to-water comparison. The episode contrasts [[HanXin|韩信]] at Jingxing with Liu Bang at Pengcheng to show that terrain similarity is not strategic sameness. Liu Bang's army is deep in enemy territory, relaxed by victory, and suddenly struck by a furious Chu counterattack, so the river-backed position becomes a rout rather than [[BackwaterBattle|背水一战]] resolve.
+
 ## Connections
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[BackwaterBattle|背水一战]], [[HanXin|韩信]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - later contrast showing why similar terrain can produce opposite results.
 - [[LiuBang|刘邦]] and [[XiangYu|项羽]] - opposing commanders in the battle.
 - [[Xuzhou|彭城]] - Chu capital whose capture triggers Xiang Yu's counterattack.
 - [[XiaoCounty|萧县]], [[SuiRiver|睢水]], and [[SiRiver|泗水]] - route-cutting and pursuit geography in the tactical account.

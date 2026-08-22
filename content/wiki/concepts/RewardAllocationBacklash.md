@@ -2,8 +2,8 @@
 title: "Reward Allocation Backlash / 分配反噬"
 type: concept
 tags: [statecraft, incentives, coalition, chu-han, enfeoffment]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+last_updated: 2026-08-23
 ---
 
 # Reward Allocation Backlash / 分配反噬
@@ -22,6 +22,8 @@ The concept extends [[CoalitionSettlementFailure|联军战后安排失败]] by f
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] makes [[WeiBao|魏豹]] the clean defection case. The episode explains his quick surrender to Liu Bang through dissatisfaction with Xiang Yu's partition: territory once associated with Wei Bao is reduced and redistributed to West Chu and [[SimaAng|司马卬]]. Reward allocation backlash therefore becomes not just a background grievance but an immediate surrender incentive.
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] adds the prospective Liu Bang-side version. Zhang Liang warns that if [[LiuBang|刘邦]] restores the six old royal houses, his followers will see the future reward pool transferred to hereditary kings and will drift back toward family, graves, and local rulers. Reward backlash can therefore arise before final victory, not only after a completed settlement.
+
 ## Key Claims
 - Distribution is a political act, not an administrative afterthought after victory.
 - Rewarding one coalition faction can create resentment among displaced old claimants and among unrewarded insiders at the same time.
@@ -32,8 +34,10 @@ The concept extends [[CoalitionSettlementFailure|联军战后安排失败]] by f
 - Hanji 148-2 adds the timing consequence: backlash matters not only because rebels exist, but because their simultaneous pressure buys a rival time to consolidate a western claim.
 - Hanji 149 adds that backlash can become moral-symbolic, not only territorial: a murdered figurehead gives excluded rivals a public accusation.
 - Hanji 149 part 2 adds Wei Bao's surrender as a direct case where reduced and redistributed territory converts grievance into defection.
+- Hanji 159-2 adds a preventive version: a ruler can avoid future backlash by refusing a plan that would visibly pre-allocate rewards away from current followers.
 
 ## Connections
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], [[LiShiqi|郦食其]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - near-backlash avoided by rejecting restored royal reward allocation.
 - [[XiangYu|项羽]], [[ZhouQinHybridOrder|周秦混合制]], and [[ThreeQinContainment|三秦压制]] - settlement designer and institutional setting.
 - [[LiuBang|刘邦]], [[HanGuang|韩广]], [[ZhaoXie|赵歇]], [[WeiBao|魏豹]], [[HanCheng|韩成]], and [[TianRong|田荣]] - actors whose resentment or exclusion exposes the backlash.
 - [[PengYue|彭越]], [[ChenYu|陈馀]], [[ZhangEr|张耳]], and [[ZhaoXie|赵歇]] - armed and Zhao-side extension of the backlash in Hanji 144 part 2.

@@ -2,7 +2,7 @@
 title: "背水一战 / Backwater Battle"
 type: concept
 tags: [idiom, warfare, morale, deception, chu-han]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]
 last_updated: 2026-08-23
 ---
 
@@ -22,6 +22,8 @@ The red flags turn Zhao's rear into an information shock. Returning Zhao troops 
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds the aftermath lesson. Han Xin's backwater victory becomes useful because he does not simply repeat battlefield pressure against the next cities. By honoring [[LiZuoChe|李左车]] and accepting advice to rest, pacify, and send envoys, Han Xin converts the battle's psychological effect into [[VictoryDeterrenceDiplomacy|胜势威慑外交]].
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] adds a failed-lookalike comparison. The episode sets Han Xin's Jingxing backwater victory against [[LiuBang|刘邦]]'s [[PengchengBattle|彭城之战]] disaster, where river-backed troops flee and drown. The contrast reinforces that backwater success depends on morale, preparation, enemy psychology, and command state, not the physical fact of water behind an army.
+
 ## Key Claims
 - The backwater formation is not a standalone morale trick; it works inside a larger setup that first removes Li Zuoche's more dangerous supply-line alternative.
 - "No retreat" matters, but the source's battle chain also depends on inducing Zhao to leave camp and then making Zhao believe the rear has collapsed.
@@ -32,8 +34,10 @@ The red flags turn Zhao's rear into an information shock. Returning Zhao troops 
 - Hanji 157 part 1 supplies that theoretical explanation but keeps it conditional: the no-retreat morale device works only after intelligence, terrain judgment, enemy-choice confirmation, and surprise have made the risk usable.
 
 - Hanji 157 part 2 adds that a death-ground victory can be over-spent if followed by immediate assaults with exhausted troops; the smarter continuation is to turn reputation into diplomatic pressure.
+- Hanji 159-2 adds the negative comparison: similar river terrain can produce rout when the army is complacent, the enemy is highly motivated, and the commander has not shaped the field.
 
 ## Connections
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - failed-lookalike contrast with Liu Bang's river-backed rout.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[LiZuoChe|李左车]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], and [[PoliticalSurrenderCascade|招降示范级联]] - post-battle conversion of Jingxing reputation into Yan submission and Qi pressure.
 - [[HanXin|韩信]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[ZhaoXie|赵歇]] - direct battle actors.
 - [[JingxingPass|井陉口]] and [[ZhaoState|赵国]] - terrain gate and defeated polity.

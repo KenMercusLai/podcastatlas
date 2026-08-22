@@ -2,8 +2,8 @@
 title: "宋义 / Song Yi"
 type: entity
 tags: [person, chu, anti-qin, rebellion, military]
-sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7]
+last_updated: 2026-08-23
 ---
 
 # 宋义 / Song Yi
@@ -24,7 +24,10 @@ Song Yi's trip to [[WuyanCounty|无盐县]] is the fatal morale marker. While so
 
 After Song Yi returns, Xiang Yu enters the command tent with other generals and kills him. Song Yi's page therefore becomes a second source case for [[WartimeCommandDecapitation|战时统帅斩首]], distinct from [[TianZang|田臧]] killing [[WuGuang|吴广]] because Xiang Yu relies less on forged superior authorization than on emergency, soldier hardship, and the claim that the chief general has failed [[ChuState|楚国]].
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] reuses Song Yi as a boundary case for strategy imitation. The episode says "watch two sides exhaust each other" can be rational in some settings, but Song Yi applies it in a life-or-death rescue situation where [[QinState|秦国]] might absorb [[ZhaoState|赵国]]'s strength and where Chu troops cannot sustain the delay. Song Yi therefore now supports [[XingshiqingStrategicAssessment|行势情战略评估]] as well as [[DelayedRescueStatecraft|晚救权谋]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[DelayedRescueStatecraft|晚救权谋]] - later use of Song Yi as the failed boundary case for wait-and-watch strategy.
 - [[XiangLiang|项梁]] - rebel leader whose camp Song Yi joins in the source's closing hook.
 - [[ZhangHanQin|章邯]] and [[Dingtao|定陶]] - Xiang Liang's defeat verifies Song Yi's warning in Qinji 132.
 - [[MiXin|芈心 / 楚怀王]], [[HuaiwangAgreement|怀王之约]], and [[Julu|巨鹿]] - political frame that makes Song Yi chief general of the Zhao relief army.

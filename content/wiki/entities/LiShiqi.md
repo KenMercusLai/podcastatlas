@@ -2,7 +2,7 @@
 title: "郦食其 / Li Shiqi"
 type: entity
 tags: [person, persuader, qin, chu-han, rhetoric]
-sources: [zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
 last_updated: 2026-08-23
 ---
 
@@ -26,7 +26,10 @@ After Chenliu, Liu Bang enfeoffs Li Shiqi as Guangye Jun and accepts his recomme
 
 [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] returns Li Shiqi to Liu Bang's decision room during the [[XingyangStandoff|荥阳相持]]. The transcript renders him as "丽姬," but the role fits Li Shiqi: he proposes restoring descendants of the six old states to weaken Xiang Yu, and Liu Bang initially prepares seals for the plan. The episode then has [[ZhangLiang|张良]] reject the proposal before Li Shiqi departs, making this a source-scoped failed-advice case rather than a completed mission.
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] supplies the full answer to that failed-advice case. The page keeps Li Shiqi's proposal source-scoped rather than treating it as simple incompetence: the same restoration logic had earlier force against [[QinState|秦国]], but Zhang Liang argues that in Liu Bang's current field it would transfer Liu-side rewards and people to new local kings. Li Shiqi therefore becomes a case where a plausible historical method is rejected because the situation has changed.
+
 ## Connections
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - full context-bound rejection of Li Shiqi's six-kingdom proposal.
 - [[LiuBang|刘邦]] - patron who first receives Li Shiqi disrespectfully, then accepts correction and strategy.
 - [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[ZhangLiang|张良]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - proposed six-kingdom restoration plan rejected before execution.
 - [[LiBai|李白]] - poet whose 《梁甫吟》 line introduces the episode's Li Shiqi branch.

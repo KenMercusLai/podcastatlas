@@ -2,8 +2,8 @@
 title: "Delayed Rescue Statecraft / 晚救权谋"
 type: concept
 tags: [strategy, diplomacy, warfare, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+last_updated: 2026-08-23
 ---
 
 # Delayed Rescue Statecraft / 晚救权谋
@@ -18,6 +18,8 @@ The strategy turns rescue into leverage. Qi privately reassures Han, lets Han an
 
 Unlike Sun Bin's case, Song Yi's delay lacks a stable internal command coalition. [[XiangYu|项羽]] argues that Qin may grow stronger if it takes Zhao's soldiers and supplies, while Chu soldiers are already hungry and cold. Song Yi's insult of Xiang Yu and trip to [[WuyanCounty|无盐县]] turn delayed rescue into a legitimacy failure, ending with [[WartimeCommandDecapitation|战时统帅斩首]] before the rescue can be tested.
 
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] reuses Song Yi's case as a general warning against copying the "two sides fight first" formula. The episode argues that the tactic can work when state survival is not immediately at stake, but fails when the endangered ally's collapse would strengthen the common enemy and when one's own army cannot endure the wait.
+
 ## Key Claims
 - Rescue timing can be as important as the decision to rescue.
 - Early intervention may transfer the ally's burden onto the rescuer.
@@ -26,6 +28,7 @@ Unlike Sun Bin's case, Song Yi's delay lacks a stable internal command coalition
 - The strategy has an ethical edge: the ally is helped, but only after being deliberately left in danger.
 - Delay fails when the rescuer's own army cannot sustain morale, supply, and trust during the wait.
 - A delayed-rescue plan must answer the risk that the common enemy may become stronger by consuming the endangered ally.
+- Hanji 159-2 adds that delayed rescue is not a portable trick; urgency, allied collapse risk, and troop morale decide whether waiting is wisdom or self-defeat.
 
 ## Connections
 - [[SunBin|孙膑]], [[QiWeiwang|齐威王]], [[TianJi|田忌]], and [[ZouJi|成侯邹忌]] - debate participants and decision-maker.
@@ -33,4 +36,5 @@ Unlike Sun Bin's case, Song Yi's delay lacks a stable internal command coalition
 - [[MalingBattle|马陵之战]], [[DecreasingStovesDeception]], and [[EarlyWarringStatesInterstateWar]] - campaign, tactic, and broader war setting.
 - [[EncirclingWeiToRescueZhao]] - adjacent rescue pattern, focused on target displacement rather than timing.
 - [[SongYi|宋义]], [[XiangYu|项羽]], [[AnyangQinRebellion|安阳]], [[Julu|巨鹿]], [[ZhaoState|赵国]], and [[QinState|秦国]] - Qinji 133 failed delayed-rescue case before the Julu battle.
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - later framework explaining why the same timing pattern cannot be copied across different crises.
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] and [[WartimeCommandDecapitation|战时统帅斩首]] - failure mechanisms when delay undermines command legitimacy.
