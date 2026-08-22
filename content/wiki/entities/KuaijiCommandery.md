@@ -2,7 +2,7 @@
 title: "会稽郡 / Kuaiji Commandery"
 type: entity
 tags: [commandery, qin-state, pre-qin, warring-states, southern-china]
-sources: [zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
+sources: [zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
 last_updated: 2026-08-22
 ---
 
@@ -14,6 +14,8 @@ The page is source-scoped because the episode itself narrows the claim. Kuaiji a
 
 [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] supplies the later contrast named above. Qin now pushes deeper into Lingnan and creates [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], and [[XiangCommandery|象郡]], so Kuaiji remains the earlier southeastern commandery marker rather than the endpoint of southern incorporation.
 
+[[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]] gives Kuaiji a new role after Qin's collapse begins. Its governor [[YinTong|殷通]] wants to answer [[ChenSheng|陈胜]]'s uprising and asks [[XiangLiang|项梁]] to help lead the move, but Xiang Liang and [[XiangYu|项羽]] instead kill Yin Tong, seize the commandery seal, and gather nearly eight thousand troops. The commandery therefore shifts from Qin administrative consolidation to rebel infrastructure through [[KuaijiCommanderyCoup|会稽郡守府夺权]].
+
 ## Connections
 - [[QinState|秦国]] - state establishing the commandery.
 - [[WangJianQin|王翦]] - commander associated with the pacification notice.
@@ -21,3 +23,4 @@ The page is source-scoped because the episode itself narrows the claim. Kuaiji a
 - [[WuState|吴国]] and [[YueState|越国]] - old regional frame around the area first subdued.
 - [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - broader Qin pattern of turning conquest into commandery administration.
 - [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], and [[XiangCommandery|象郡]] - later Lingnan commanderies contrasted in Qinji 123-2.
+- [[YinTong|殷通]], [[XiangLiang|项梁]], [[XiangYu|项羽]], and [[KuaijiCommanderyCoup|会稽郡守府夺权]] - Qinji 128-7 commandery takeover after the anti-Qin wave begins.

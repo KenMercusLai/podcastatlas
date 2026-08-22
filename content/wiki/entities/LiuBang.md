@@ -2,7 +2,7 @@
 title: "Liu Bang / 刘邦"
 type: entity
 tags: [history, china, empire]
-sources: [zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+sources: [zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-22
 ---
 
@@ -34,6 +34,10 @@ The episode then reads Liu Bang's later generosity and reputation-building as pa
 
 The same source makes [[LuGongLiuBangFatherInLaw|吕公]]'s banquet the first concrete scene of Liu Bang's status-making ability. Liu Bang arrives without invitation or money but announces "贺钱一万" and sits like an honored guest; [[XiaoHe|萧何]] tries to contain the boast, while Lu Gong reads the bearing through [[PhysiognomicInvestmentJudgment|看相式政治投资]] and offers [[LuZhi|吕雉]] in marriage. The episode therefore turns Liu Bang's early shamelessness into [[CharismaticPoliticalPerformance|造势型政治表演]] rather than a mere flaw.
 
+[[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]] turns that social-capital branch into action. While escorting Pei County laborers toward [[Lishan|骊山]], Liu Bang faces mass flight and releases the remaining men, becoming a fugitive around [[MangdangMountain|芒砀山]]. [[FanKuai|樊哙]] and others follow him out of gratitude, and the white-snake/red-emperor story begins to give his outlaw group a sacred-reputation layer under [[MandateOfHeavenLegitimacy|天命合法性]] and [[AuspiciousOmenPolitics|祥瑞政治]].
+
+The same source then makes Liu Bang's return to [[PeiCounty|沛县]] a case of [[PeiCountyUprisingMobilization|沛县起义动员]]. [[XiaoHe|萧何]] and [[CaoShen|曹参]] first advise the magistrate to call Liu Bang's men back after the [[DazexiangUprising|大泽乡起义]], then defect when the magistrate reverses and targets them. Liu Bang's letter into the city helps local elders kill the magistrate, open the gates, name him Pei Gong, and gather more than three thousand troops.
+
 ## Key Claims
 - Liu Bang's origin stories helped sacralize Han rule.
 - Founding mythology became a later vulnerability when legitimacy was read through signs.
@@ -45,6 +49,7 @@ The same source makes [[LuGongLiuBangFatherInLaw|吕公]]'s banquet the first co
 - Qinji 117-1 adds Bao Ji and Liu Heng as a later Han payoff to Wei Bao's misread fate prediction.
 - Qinji 128-5 adds Liu Bang as the closing transition toward the next Chu-Han line, not yet as a developed actor in this episode.
 - Qinji 128-6 develops Liu Bang as Liu Ji of Pei County: a low-status but socially connected亭长 whose local official network, youxia habits, Lu Gong marriage, and "贺钱一万" performance become early political capital.
+- Qinji 128-7 develops Liu Bang's first uprising route: corvee escort failure, release of the laborers, Mangdang Mountain exile, the white-snake legitimacy rumor, return through Xiao He and Cao Shen, and Pei County's killing of the magistrate to make him Pei Gong.
 
 ## Connections
 - [[WesternHanDynasty]] and [[WangMang]] - founding and late-dynasty contrast.
@@ -59,3 +64,4 @@ The same source makes [[LuGongLiuBangFatherInLaw|吕公]]'s banquet the first co
 - [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]], [[ZhangChuRegime|张楚政权]], [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], and [[XiangYu|项羽]] - closing transition from early anti-Qin fragmentation toward the later Chu-Han protagonists.
 - [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]], [[PeiCounty|沛县]], [[LiuTaigong|刘太公]], [[LuGongLiuBangFatherInLaw|吕公]], [[LuZhi|吕雉]], and [[XiaoHe|萧何]] - early biography, marriage, and local network branch.
 - [[CharismaticPoliticalPerformance|造势型政治表演]], [[GrassrootsOfficialNetwork|基层官吏网络政治资本]], and [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Qinji 128-6 concepts for Liu Bang's early rise.
+- [[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]], [[MangdangMountain|芒砀山]], [[CaoShen|曹参]], [[PeiCountyUprisingMobilization|沛县起义动员]], and [[XiangYu|项羽]] - first armed mobilization and contrast with the Xiang family route.

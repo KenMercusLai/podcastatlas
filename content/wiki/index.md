@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？](sources/zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1.md) — 芮淇讲透资治通鉴 episode contrasting Liu Bang's corvee-escort failure, Mangdang exile, Pei County return, and Pei Gong mobilization with Xiang Liang and Xiang Yu's violent seizure of Kuaiji commandery.
 - [《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公](sources/zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j.md) — 芮淇讲透资治通鉴 episode on Liu Bang's Pei County background, local official network, Lu Gong's banquet and face-reading bet, and the "贺钱一万" performance as early political capital.
 - [《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是](sources/zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg.md) — 芮淇讲透资治通鉴 episode on Kuai Che's surrender cascade for Wu Chen, Zhou Wen's failed push near Xianyang, Hu Hai and Zhang Han's capital-defense response, and the rebel camp's Zhao-centered fragmentation.
 - [《资治通鉴·秦纪》128-3｜陈胜吴广组队成功](sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams.md) — 芮淇讲透资治通鉴 episode on Chen Sheng and Wu Guang's expansion from Dazexiang/Qixian to Chen County, Zhang Er and Chen Yu's six-state restoration strategy, Chen Sheng's rejection and self-kingship as Zhang Chu, and Wu Guang's westward attack on Yingyang.
@@ -1207,11 +1208,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [曹参 / Cao Shen](entities/CaoShen.md) — Pei County official who defects with Xiao He and helps Liu Bang turn local fear into a three-thousand-person uprising force.
+- [殷通 / Yin Tong](entities/YinTong.md) — Kuaiji commandery governor killed by Xiang Yu when Xiang Liang refuses to rise under his command.
+- [桓楚 / Huan Chu](entities/HuanChu.md) — Fugitive used as the pretext for Xiang Liang to bring armed Xiang Yu into Yin Tong's meeting.
+- [芒砀山 / Mangdang Mountain](entities/MangdangMountain.md) — Liu Bang's fugitive refuge where the white-snake and red-emperor story starts attaching sacred reputation to his outlaw group.
 - [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
 - [吕雉 / Lu Zhi](entities/LuZhi.md) — Lu Gong's daughter whose marriage to Liu Bang links the Pei County banquet to the later Han founding family network.
-- [萧何 / Xiao He](entities/XiaoHe.md) — Pei County official who manages Lu Gong's banquet, contains Liu Bang's false ten-thousand-cash claim, and belongs to Liu Bang's early local network.
-- [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base, where county-office relationships, Lu Gong's banquet, and the later uprising converge.
-- [项梁 / Xiang Liang](entities/XiangLiang.md) — Anti-Qin uprising figure named by Qinji 128-6 alongside Liu Bang and Tian Dan after the Dazexiang opening.
+- [萧何 / Xiao He](entities/XiaoHe.md) — Pei County official who manages Lu Gong's banquet and later defects with Cao Shen to help Liu Bang become Pei Gong.
+- [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base, where county-office relationships, Lu Gong's banquet, and the Pei Gong uprising converge.
+- [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
 - [田儋 / Tian Dan (Qin Rebel)](entities/TianDanQinRebel.md) — Qi-region anti-Qin rebel leader, disambiguated from Warring States general Tian Dan / 田单.
 - [刘太公 / Liu Taigong](entities/LiuTaigong.md) — Liu Bang's father, used by Qinji 128-6 to sketch Liu Bang's family background and later 太上皇 honor.
 - [章邯 / Zhang Han (Qin)](entities/ZhangHanQin.md) — Qin official who answers Zhou Wen's near-Xianyang advance by proposing to pardon and arm Lishan laborers under his command.
@@ -3416,7 +3421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩琦 / Han Qi](entities/HanQi.md) — Northern Song official addressed by Su Zhe and associated with the exam opportunity that makes Su Zhe's youthful force visible.
 - [宋仁宗 / Song Renzong](entities/SongRenzong.md) — Emperor used in episode 164 as a political truth-telling case around invited criticism and tolerance.
 - [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
-- [项羽 / Xiang Yu](entities/XiangYu.md) — Hongmen Banquet power-holder read through pride, recognition hunger, residual moral face, and historical force.
+- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose early Kuaiji coup role and later Hongmen Banquet power both show charisma, violence, pride, and residual moral face.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
 - [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically.
 - [樊哙 / Fan Kuai](entities/FanKuai.md) — Hongmen Banquet actor whose apparent blunt courage works as status-recognizing rhetoric.
@@ -4504,7 +4509,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
-- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose sacred origin stories anchor episode 126's Mandate of Heaven backfire argument.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose early branch now runs from Pei County social capital and Lu Gong's marriage bet into Mangdang exile, white-snake reputation, and Pei County uprising.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
@@ -7681,6 +7686,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [沛县起义动员 / Pei County Uprising Mobilization](concepts/PeiCountyUprisingMobilization.md) — Liu Bang's route from corvee-escort fugitive to Pei Gong through Fan Kuai, Xiao He, Cao Shen, local elders, and county self-preservation.
+- [会稽郡守府夺权 / Kuaiji Commandery Coup](concepts/KuaijiCommanderyCoup.md) — Xiang Liang and Xiang Yu kill Yin Tong, seize the commandery seal, and convert Qin commandery resources into rebel military force.
 - [造势型政治表演 / Charismatic Political Performance](concepts/CharismaticPoliticalPerformance.md) — Liu Bang's "贺钱一万" pattern, where performed status creates social reality before money or office exists.
 - [基层官吏网络政治资本 / Grassroots Official Network](concepts/GrassrootsOfficialNetwork.md) — Liu Bang's Pei County lower-official relationships as pre-rebellion political capital and future Han founding infrastructure.
 - [看相式政治投资 / Physiognomic Investment Judgment](concepts/PhysiognomicInvestmentJudgment.md) — Lu Gong's source-scoped face-and-bearing judgment of Liu Bang as an early-stage political bet under uncertainty.

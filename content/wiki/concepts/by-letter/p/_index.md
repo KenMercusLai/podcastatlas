@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5026
+wiki_total_pages: 5028
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "PuzzleSnackMystery"
     title: "推理薯片 / Puzzle-Snack Mystery"
     url: "/wiki/concepts/puzzlesnackmystery/"
+  - key: "PeiCountyUprisingMobilization"
+    title: "沛县起义动员 / Pei County Uprising Mobilization"
+    url: "/wiki/concepts/peicountyuprisingmobilization/"
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"

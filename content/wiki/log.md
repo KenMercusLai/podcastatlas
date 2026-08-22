@@ -9391,6 +9391,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？
+
+Added source page for Qinji 128-7: Liu Bang's corvee-escort failure, release of laborers, Mangdang Mountain exile and white-snake rumor, Pei County magistrate's failed attempt to recall and control him, Xiao He and Cao Shen's defection, Pei County's killing of the magistrate and naming of Liu Bang as Pei Gong, plus Xiang Yu's Chu noble background, "万人敌" ambition, Xiang Liang's use of Huan Chu as a pretext, Yin Tong's killing, and the Kuaiji commandery coup. Created Cao Shen, Yin Tong, Huan Chu, Mangdang Mountain, Pei County Uprising Mobilization, and Kuaiji Commandery Coup; updated overview, index, Liu Bang, Xiang Yu, Xiang Liang, Fan Kuai, Xiao He, Pei County, Kuaiji Commandery, Dazexiang Uprising, Grassroots Official Network, and Rebel Mandate Manufacture. No settled contradiction found; recorded the white-snake story as a legitimacy narrative and the Yin Tong killing as an anti-Qin justification with source-scoped moral tension.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》128-2｜起来！被压迫的人们！
 
 Added source page for Qinji 128-2: Hu Hai's pleasure-seeking and unprepared rule, harsher Qin law, revived Afang Palace and transport burdens, the Dazexiang rain-delay deadline crisis, Chen Sheng and Wu Guang's killing of officers and mobilization of nine hundred soldiers, Fusu/Xiang Yan legitimacy claims, fish-belly writing, fox-cry rumor, and the Zhang Chu/Ge Ying failure preview. Created Dazexiang Uprising, Zhang Chu Regime, Ge Ying, Fatal Deadline Rebellion Trigger, and Rebel Mandate Manufacture. Updated overview, index, Chen Sheng, Wu Guang, Qin Er Shi, Zhao Gao, Fu Su, Xiang Yan, Qin State, Afang Palace, Imperial Construction Overload, Chu Three-Households Anti-Qin Memory, and Chenwei Politics. No settled contradiction found; the "rain delay plus Qin law means death" account is preserved as source-scoped because this episode does not explore alternate legal debates.
@@ -9647,6 +9651,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公
 
 Added source page for Qinji 128-6: Liu Bang's early Pei County profile, Liu Ji naming and Liu Taigong family context, youxia-style sociability, the Sishui亭长 local official network, Lu Gong's move to Pei County, Xiao He's banquet seating, Liu Bang's false "贺钱一万" status performance, Lu Gong's face-reading bet, and the Lu Zhi marriage. Created Lu Gong, Lu Zhi, Xiao He, Pei County, Xiang Liang, Tian Dan (Qin Rebel), Liu Taigong, Charismatic Political Performance, Grassroots Official Network, and Physiognomic Investment Judgment; updated overview, index, Liu Bang, Fan Kuai, Warring States Retainer Patronage, Youxia Suppression Under Unification, and Physiognomy Moral Appearance Fallacy. No settled contradiction found; recorded the physiognomy tension as source-scoped and disambiguated 田儋 from the existing 田单 page.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

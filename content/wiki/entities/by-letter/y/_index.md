@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6470
+wiki_total_pages: 6474
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "Yinjin"
     title: "殷晋 / Yinjin"
     url: "/wiki/entities/yinjin/"
+  - key: "YinTong"
+    title: "殷通 / Yin Tong"
+    url: "/wiki/entities/yintong/"
   - key: "YongningAncientCity"
     title: "永宁古城 / Yongning Ancient City"
     url: "/wiki/entities/yongningancientcity/"
