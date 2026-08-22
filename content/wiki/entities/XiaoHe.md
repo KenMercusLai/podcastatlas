@@ -2,7 +2,7 @@
 title: "萧何 / Xiao He"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 
 [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] moves Xiao He from Pei County mobilization into Liu Bang's early battlefield politics. After [[LiuBang|刘邦]] defeats the Sishui commandery supervisor Ping, Xiao He and [[XiahouYing|夏侯婴]] persuade Ping to surrender Huling County. The episode uses this as part of Liu Bang's local-gain line while [[ZhangChuRegime|张楚政权]] suffers larger command failures.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives Xiao He his first capital-administration payoff. After Liu Bang enters [[Xianyang|咸阳]], other generals move toward Qin treasury goods, but Xiao He goes to the chancellor's office and secures maps, household registers, and administrative records. The episode treats this as [[AdministrativeArchiveCapture|行政档案接管]]: Xiao He is already thinking about terrain, population, wealth, and governability rather than only victory spoils.
+
 ## Connections
 - [[LiuBang|刘邦]] - central figure whose bluff Xiao He manages.
 - [[LuGongLiuBangFatherInLaw|吕公]] and [[LuZhi|吕雉]] - banquet host and marriage outcome.
@@ -28,3 +30,4 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 - [[CharismaticPoliticalPerformance|造势型政治表演]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - concept links from the episode.
 - [[CaoShen|曹参]], [[DazexiangUprising|大泽乡起义]], and [[PeiCountyUprisingMobilization|沛县起义动员]] - Qinji 128-7 defection, city opening, and troop-gathering branch.
 - [[XiahouYing|夏侯婴]], [[CaoWushang|曹无伤]], and [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] - Huling surrender and Liu Bang's continuing local campaign.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Xianyang|咸阳]], [[AdministrativeArchiveCapture|行政档案接管]], [[YuefaSanzhang|约法三章]], and [[Bashang|霸上]] - archive capture and pacification administration after Qin's surrender.

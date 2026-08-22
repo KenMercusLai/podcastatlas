@@ -2,7 +2,7 @@
 title: "司马欣 / Sima Xin"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ The source does not yet give Sima Xin independent decisions. His page therefore 
 
 His advice reframes Zhang Han's military problem as a political survival trap. If Qin wins, Zhao Gao may envy and eliminate the successful commander; if Qin loses, defeat itself is punishable. Sima Xin therefore becomes the messenger who converts failed court access into the logic for surrender.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] adds Sima Xin's post-surrender command role. After [[XiangYu|项羽]] removes [[ZhangHanQin|章邯]] from direct control of the surrendered Qin army, Sima Xin is placed over those troops during the westward march. When the surrendered soldiers are killed at [[XinanMassacre|新安坑降]], the episode says Sima Xin is spared together with Zhang Han and [[DongYiQin|董翳]].
+
 ## Connections
 - [[QinErshi|胡亥 / 秦二世]] - ruler who sends him to support the campaign.
 - [[ZhangHanQin|章邯]] and [[DongYiQin|董义]] - Qin counteroffensive figures named in the same passage.
 - [[ChenSheng|陈胜]] and [[ZhangChuRegime|张楚政权]] - rebel target of the campaign.
 - [[QinState|秦国]] and [[CapitalDefenseMobilization|都城防卫动员]] - broader Qin capacity context from the preceding Qinji branch.
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[ZhaoGao|赵高]], [[Xianyang|咸阳]], and [[CrisisInformationBlockade|危机信息封锁]] - failed court mission, escaped pursuit, and warning that Zhang Han has no safe loyal option.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[ZhangHanQin|章邯]], [[DongYiQin|董翳]], and [[XinanMassacre|新安坑降]] - post-surrender command and survival of the senior leaders.

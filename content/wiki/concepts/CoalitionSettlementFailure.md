@@ -2,7 +2,7 @@
 title: "Coalition Settlement Failure / 联军战后安排失败"
 type: concept
 tags: [warfare, diplomacy, statecraft, coalition, warring-states, qin]
-sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-22
 ---
 
@@ -14,12 +14,16 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] adds a Qin-collapse version after [[JuluBattle|巨鹿之战]]. [[XiangYu|项羽]] accepts [[ZhangHanQin|章邯]]'s surrender for practical reasons, but then makes him 雍王. The episode criticizes this as a settlement failure because 雍州 represents the Qin/[[GuanzhongRegion|关中]] heartland and overlaps the reward logic of the [[HuaiwangAgreement|怀王之约]]. Xiang Yu wins the battlefield and gains submission, but the postwar order he sketches cannot clearly reconcile surrendered Qin commanders, old-state rulers, and the public Guanzhong promise.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] extends the failure from title allocation to surrendered-force management. Xiang Yu's camp fears that surrendered Qin troops resent forced service east of [[HanguPass|函谷关]] and may rebel, so [[YingBu|英布]] and [[PuGeneral|蒲将军]] kill them at [[XinanMassacre|新安坑降]] while sparing [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]]. The settlement preserves useful elite collaborators but destroys the mass of surrendered soldiers, revealing how a coalition victory can lack a durable integration plan for the people and forces it has just absorbed.
+
 ## Key Claims
 - A coalition's battlefield interests can diverge from its postwar design interests.
 - Short-term extraction and long-term threat removal can point to incompatible settlement plans.
 - A defeated state may survive if its enemies cannot coordinate after victory.
 - Reputation, cruelty, greed, land, puppet rulers, and partition all belong to the settlement calculation, not just the battle outcome.
 - A commander who wins coalition authority can still fail by allocating titles in a way that undercuts the promise system that helped coordinate the coalition.
+- Hanji 139 adds that coalition settlement can fail at the troop-integration level even before the formal division of territory.
+- Preserving surrendered commanders while killing surrendered troops creates a narrow elite bargain and a broad legitimacy deficit.
 
 ## Connections
 - [[HanState|韩国]], [[HanYihou|韩懿侯]], and [[GongsunQi|公孙齐]] - Han side of the coalition.
@@ -28,3 +32,4 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 - [[ZhuozeBattle|浊泽之战]] - military victory that the coalition fails to exploit.
 - [[SuccessionCrisisIntervention]] and [[EarlyWarringStatesInterstateWar]] - adjacent patterns.
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[XiangYu|项羽]], [[ZhangHanQin|章邯]], [[HuaiwangAgreement|怀王之约]], and [[GuanzhongRegion|关中]] - post-Julu surrender settlement and 雍王 title problem.
+- [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], [[SimaXin|司马欣]], [[DongYiQin|董翳]], [[YingBu|英布]], and [[PuGeneral|蒲将军]] - Hanji 139's surrendered-force settlement failure.

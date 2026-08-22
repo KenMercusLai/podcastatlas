@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》139｜“他”再次影响“汉朝”](sources/zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo.md) — 芮淇讲透资治通鉴 episode opening the Hanji branch through Ziying's surrender, Liu Bang's Bashang pacification and Yuefa Sanzhang, Xiao He's archive capture, and Xiang Yu's Xinan killing of surrendered Qin troops.
 - [《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2）](sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto.md) — 芮淇讲透资治通鉴 episode closing the Qin collapse sequence through Yan Le's Wangyi Palace coup against Hu Hai, Zhao Gao's reduced Qin kingship, Ziying's killing of Zhao Gao, and Liu Bang/Zhang Liang's Yaoguan-Lantian breakthrough.
 - [《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）](sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy.md) — 芮淇讲透资治通鉴 episode arguing Zhao Gao was not a eunuch through "宦人/宦籍" and "隐官" terminology, excavated bamboo-slip evidence, Yan Le as son-in-law, and the palace-coup prelude against Hu Hai.
 - [《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈](sources/zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj.md) — 芮淇讲透资治通鉴 episode on Zhang Han's surrender, Xiang Yu's flawed 雍王 settlement, Zhao Gao's 指鹿为马 loyalty test, and crisis information blockade before Liu Bang reaches Wuguan.
@@ -1231,6 +1232,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [霸上 / Bashang](entities/Bashang.md) — Liu Bang's post-Xianyang camp where palace withdrawal, Yuefa Sanzhang, and refusal of local gifts become occupation pacification.
+- [新安坑降 / Xinan Massacre](entities/XinanMassacre.md) — Xiang Yu's killing of surrendered Qin troops near Xinan, framed as an immediate security decision that destroys Qin-population support.
 - [阎乐 / Yan Le](entities/YanLe.md) — Zhao Gao's son-in-law and Xianyang令 whose presence supports the non-eunuch reading and whose role begins the Hu Hai coup branch.
 - [赵成 / Zhao Cheng (Qin)](entities/ZhaoChengQin.md) — Zhao Gao's younger brother and later 郎中令, disambiguated from the Warring States Zhao Cheng and tied to the coup against Hu Hai.
 - [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — Excavated Qin-Han evidence used in Qinji 138 to correct "宦人/宦籍" and "隐官" vocabulary around Zhao Gao.
@@ -1302,7 +1305,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [朱鸡石 / 朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader later defeated by Zhang Han and executed by Xiang Liang; source spellings vary.
 - [武平君畔 / Wu Ping Jun Pan](entities/WuPingJunPan.md) — Chen Sheng's monitor sent to supervise the Tan-area army and killed by Qin Jia.
 - [司马欣 / Sima Xin](entities/SimaXin.md) — Qin figure sent by Qin Er Shi to assist Zhang Han's campaign against the rebels.
-- [董义 / Dong Yi (Qin)](entities/DongYiQin.md) — Qin figure named with Sima Xin as support for Zhang Han in the final pressure on Zhang Chu.
+- [董义 / 董翳 / Dong Yi (Qin)](entities/DongYiQin.md) — Qin figure named with Sima Xin as support for Zhang Han, later spared at Xinan under the 董翳 source form.
 - [张鹤 / Zhang He (Zhang Chu)](entities/ZhangHeZhangChu.md) — Remaining Zhang Chu base-defense commander defeated and killed west of Chen County as Zhang Han advances.
 - [庄谷 / Zhuang Gu](entities/ZhuangGu.md) — Chen Sheng's driver who kills him near Xiachengfu and surrenders to Qin before Lu Chen kills him in revenge.
 - [吕臣 / Lu Chen (Qin Rebel)](entities/LuChenQinRebel.md) — Former Chen Sheng attendant and general who raises the Cangtou Army, retakes Chen County, kills Zhuang Gu, and reburies Chen Sheng.
@@ -7800,6 +7803,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [约法三章 / Three-Article Covenant](concepts/YuefaSanzhang.md) — Liu Bang's temporary, simplified legal promise at Bashang that reassures Guanzhong after Qin's harsh-law collapse.
+- [Administrative Archive Capture / 行政档案接管](concepts/AdministrativeArchiveCapture.md) — Xiao He's choice to secure Qin maps, registers, and records as governing infrastructure instead of plunder.
 - [治安名义政变 / Palace Coup Under Policing Pretext](concepts/PalaceCoupUnderPolicingPretext.md) — Armed palace seizure packaged as a law-enforcement response, introduced through Yan Le's Wangyi Palace attack.
 - [帝号退回王号 / Imperial Title Retrenchment](concepts/ImperialTitleRetrenchment.md) — Zhao Gao's post-Hu-Hai reduction from imperial title to Qin king title as the empire visibly contracts.
 - [宗庙仪式反制政变 / Ritual Ambush Countercoup](concepts/RitualAmbushCountercoup.md) — Ziying's use of illness, fasting, and temple-rite timing to lure and kill Zhao Gao.

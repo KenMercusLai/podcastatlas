@@ -2,8 +2,8 @@
 title: "People-Based Political Security / 民心型政治安全"
 type: concept
 tags: [statecraft, legitimacy, power, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
+last_updated: 2026-08-22
 ---
 
 # People-Based Political Security / 民心型政治安全
@@ -40,6 +40,8 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 
 [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] adds Xunzi's civilian-protection version. A [[XunzianMilitaryLegitimacy|renyi army]] should not kill the old and weak, trample crops, punish those who retreat without fighting, or treat voluntary submitters as ordinary captives. The source's point is that people-support is not only something a ruler already has; it is also something an army preserves or destroys through conduct.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives the early Han contrast in practical form. [[LiuBang|刘邦]] protects [[ZiyingQin|子婴]], returns to [[Bashang|霸上]], announces [[YuefaSanzhang|约法三章]], refuses local gifts, and tells Guanzhong people that harsh Qin law is the target rather than the population itself. The same source contrasts this with [[XiangYu|项羽]]'s [[XinanMassacre|新安坑降]], where surrendered Qin troops are treated as a security threat and eliminated, turning people-based security into a dividing line between governable occupation and fear-based control.
+
 ## Key Claims
 - Social support can be a security asset, not only a legitimacy ornament.
 - Heavy personal security can reveal political weakness by showing how much resentment surrounds the officeholder.
@@ -59,6 +61,8 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - Economic conditions can produce people-based security or insecurity directly: if food prices and livelihood collapse, people may leave even before a formal military defeat.
 - Qinji 99 part 3 adds that people-support can become an information advantage in war by depriving hostile rulers of secrecy and giving legitimate rulers broader eyes and ears.
 - Qinji 99 part 4 adds that civilian protection and differentiated treatment of submitters are military practices that preserve or damage people-based security.
+- Hanji 139 adds Liu Bang's Bashang program as a concrete people-support strategy: legal simplification, non-killing, gift refusal, and disciplined withdrawal make conquest politically safer.
+- The Xinan killing shows the opposite: a commander may solve an immediate military-security problem while destroying the future trust that surrendered populations need.
 
 ## Connections
 - [[ZhaoLiang|赵良]] and [[ShangYang|公孙鞅 / 商鞅]] - source warning and target.
@@ -79,3 +83,5 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], [[InterstateEconomicWarfare|跨国经济战]], and [[GrainBorderCoercion|粮食与封边胁迫]] - Zhouji 75-3 economic migration and food-security branch.
 - [[Xunzi|荀子]], [[LinwuJun|临武君]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], and [[BattlefieldInformationControl|战场信息控制]] - Qinji 99 part 3 people-support as military intelligence advantage.
 - [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]] and [[XunzianCommandRestraint|五权三制]] - Qinji 99 part 4 civilian-protection discipline and realism caution.
+- [[LiuBang|刘邦]], [[Bashang|霸上]], [[YuefaSanzhang|约法三章]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Hanji 139 people-support as immediate conquest security.
+- [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], and [[SurrenderedPrisonerSecurityDilemma|降卒安全困境]] - the fear-based alternative.

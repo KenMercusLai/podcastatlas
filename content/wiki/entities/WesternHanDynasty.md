@@ -2,8 +2,8 @@
 title: "Western Han dynasty / 西汉"
 type: entity
 tags: [history, china, empire]
-sources: [zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+last_updated: 2026-08-22
 ---
 
 # Western Han dynasty / 西汉
@@ -16,11 +16,14 @@ The dynasty matters because the source treats it as the maker of its own later v
 
 [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] adds Western Han as the durable-order counterpoint in a Mencian argument. The host says Qin's conquest looks like a challenge to [[Mengzi|孟子 / Mencius]]'s claim that a non-killing ruler can unify, but Qin is short-lived; by contrast, [[LiuBang|刘邦]] defeats the more violent [[XiangYu|项羽]] and establishes the Han base. The dynasty therefore now links to [[NonKillingUnification|不爱杀人者能一之]] as well as omen legitimacy.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] adds the chronicle-opening threshold for the Han branch. It is still before Liu Bang's final imperial victory, but the episode marks the first Hanji year through Qin's surrender, Liu Bang's [[Bashang|霸上]] pacification, and the contrast with [[XiangYu|项羽]]'s [[XinanMassacre|新安坑降]]. Western Han therefore gains a pre-founding governance prelude: the dynasty's later durability is foreshadowed through the choice to make Qin people survivable subjects.
+
 ## Key Claims
 - Western Han legitimacy relied on stories of Heaven's mandate and imperial sacredness.
 - Court politics near the end of the dynasty were shaped by imperial succession, consort kin, favorites, and omen interpretation.
 - Wang Mang's seizure of power is presented as an internal product of the dynasty's legitimacy system, not only as external betrayal.
 - Episode 87 adds that Western Han sacred politics also included large-scale fangshi patronage and politically lethal curse accusations.
+- Hanji 139 adds a pre-founding governance prelude: Liu Bang's Bashang policy is treated as a first visible move from rebellion into a durable Han-style occupation order.
 
 ## Connections
 - [[LiuBang]], [[HanAidi]], [[WangZhengjun]], [[DongXian]], [[HanPingdi]], and [[WangMang]] - key actors in the source's Western Han sequence.
@@ -28,3 +31,4 @@ The dynasty matters because the source treats it as the maker of its own later v
 - [[XinDynasty]] and [[LiuXiu]] - interruption and later restoration branch.
 - [[MandateOfHeavenLegitimacy]], [[ChenweiPolitics]], [[AuspiciousOmenPolitics]], [[ImmortalityQuestPolitics]], and [[WuguPoliticalPanic]] - political-theology and fangshu context.
 - [[Mengzi|孟子 / Mencius]], [[NonKillingUnification|不爱杀人者能一之]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - Zhouji 45 durable-order contrast.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Bashang|霸上]], [[YuefaSanzhang|约法三章]], [[QinState|秦国]], and [[XinanMassacre|新安坑降]] - Hanji opening through Qin surrender and contrasted occupation choices.

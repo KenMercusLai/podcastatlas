@@ -2723,6 +2723,10 @@
     "title": "Adlerian Teleology",
     "url": "/wiki/concepts/adlerianteleology/"
   },
+  "AdministrativeArchiveCapture": {
+    "title": "Administrative Archive Capture / 行政档案接管",
+    "url": "/wiki/concepts/administrativearchivecapture/"
+  },
   "AdministrativeOpacityAsControl": {
     "title": "Administrative Opacity As Control",
     "url": "/wiki/concepts/administrativeopacityascontrol/"
@@ -5526,6 +5530,10 @@
   "BaseballStrikeZoneAutomation": {
     "title": "Baseball Strike-Zone Automation",
     "url": "/wiki/concepts/baseballstrikezoneautomation/"
+  },
+  "Bashang": {
+    "title": "霸上 / Bashang",
+    "url": "/wiki/entities/bashang/"
   },
   "BasharAlAssad": {
     "title": "Bashar al-Assad",
@@ -12556,7 +12564,7 @@
     "url": "/wiki/entities/dongxian/"
   },
   "DongYiQin": {
-    "title": "董义 / Dong Yi (Qin)",
+    "title": "董义 / 董翳 / Dong Yi (Qin)",
     "url": "/wiki/entities/dongyiqin/"
   },
   "DongZhongshu": {
@@ -45391,6 +45399,10 @@
     "title": "新鸳鸯蝴蝶梦",
     "url": "/wiki/entities/xinyuanyanghudiemeng/"
   },
+  "XinanMassacre": {
+    "title": "新安坑降 / Xinan Massacre",
+    "url": "/wiki/entities/xinanmassacre/"
+  },
   "XinchuangOperatingSystems": {
     "title": "Xinchuang Operating Systems",
     "url": "/wiki/concepts/xinchuangoperatingsystems/"
@@ -46450,6 +46462,10 @@
   "YuebanDongli": {
     "title": "Yueban Dongli",
     "url": "/wiki/entities/yuebandongli/"
+  },
+  "YuefaSanzhang": {
+    "title": "约法三章 / Three-Article Covenant",
+    "url": "/wiki/concepts/yuefasanzhang/"
   },
   "YuenYuenAng": {
     "title": "Yuen Yuen Ang / 洪源远",
@@ -50522,6 +50538,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
+    "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

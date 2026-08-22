@@ -2,7 +2,7 @@
 title: "Post-Battle Terror Signaling / 战后恐怖震慑"
 type: concept
 tags: [warfare, psychology, coercion, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The episode also ties terror signaling to [[WarCostTempoDiscipline|战争成本�
 
 [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] adds a Liu Bang case at [[YingchuanCommandery|颍川郡]]. The source presents Liu Bang's massacre as colder and more instrumental than a revenge outburst: the point is to frighten other cities into surrender and accelerate the route west. This extends the concept beyond Xiang Yu and keeps the Liu Bang/Xiang Yu violence comparison from becoming a simple good-ruler/bad-ruler split.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] adds [[XiangYu|项羽]]'s [[XinanMassacre|新安坑降]] as a related but less purely instrumental case. The episode explains the killing mainly through fear of surrendered Qin troops rebelling, not through a deliberate survivor-message tactic. Even so, it creates the same political memory problem as terror signaling: Qin people remember the killing as blood debt, making Xiang Yu's future control of [[GuanzhongRegion|关中]] less viable.
+
 ## Key Claims
 - Terror can be used as communication, not only punishment or battlefield cleanup.
 - Releasing selected survivors can be part of the signal because they carry visible memory back to the target society.
@@ -28,6 +30,7 @@ The episode also ties terror signaling to [[WarCostTempoDiscipline|战争成本�
 - A terror signal can fail strategically and still succeed in creating durable moral memory around the perpetrator.
 - A no-survivor massacre can still function as remembered punitive terror, but the mechanism differs from deliberate survivor release.
 - Liu Bang's Yingchuan case shows that a later pacifier can still use massacre as route-speed coercion before switching to rewarded surrender.
+- Hanji 139 adds a boundary case: a security-driven massacre can still produce the reputational effects of terror even when signaling is not the episode's stated primary motive.
 
 ## Connections
 - [[BaiQi|白起]], [[ChangpingBattle|长平之战]], and [[ZhaoState|赵国]] - source actor, battle, and target society.
@@ -37,3 +40,4 @@ The episode also ties terror signaling to [[WarCostTempoDiscipline|战争成本�
 - [[DuyouSword|杜邮剑]], [[WeiState|魏国]], and [[ChuState|楚国]] - Zhouji 97 part 1 failed coercive follow-through and later Bai Qi memory.
 - [[XiangYu|项羽]], [[XiangchengQin|襄城]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Qinji 130-2 citywide post-capture killing.
 - [[LiuBang|刘邦]], [[YingchuanCommandery|颍川郡]], [[WanCounty|宛县]], and [[PoliticalSurrenderCascade|招降示范级联]] - Qinji 136 terror before the Nanyang surrender turn.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], and [[GuanzhongRegion|关中]] - security-motivated massacre with durable terror-memory effects.

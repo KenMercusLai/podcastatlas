@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5059
+wiki_total_pages: 5061
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "AdlerianTeleology"
     title: "Adlerian Teleology"
     url: "/wiki/concepts/adlerianteleology/"
+  - key: "AdministrativeArchiveCapture"
+    title: "Administrative Archive Capture / 行政档案接管"
+    url: "/wiki/concepts/administrativearchivecapture/"
   - key: "AdministrativeOpacityAsControl"
     title: "Administrative Opacity As Control"
     url: "/wiki/concepts/administrativeopacityascontrol/"

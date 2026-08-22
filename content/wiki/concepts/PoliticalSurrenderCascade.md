@@ -2,7 +2,7 @@
 title: "Political Surrender Cascade / 招降示范级联"
 type: concept
 tags: [statecraft, rebellion, signaling, military]
-sources: [zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The two variants show why the cascade depends on credibility, not just fear. A s
 
 [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] adds a cautionary limit at [[Yaoguan|峣关]]. [[ZhangLiang|张良]] sends [[LiShiqi|郦食其]] and [[LuJia|陆贾]] to persuade Qin generals, and the generals are willing to talk peace. He still warns [[LiuBang|刘邦]] that officers' willingness may not bind soldiers, so persuasion can create an attack window without guaranteeing a reliable surrender cascade.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives the successful post-surrender side at [[Bashang|霸上]]. Liu Bang's treatment of [[ZiyingQin|子婴]], old Qin officials, and Guanzhong commoners makes surrender look survivable, while [[YuefaSanzhang|约法三章]] gives local communities a simple public script to repeat. The same episode's [[XinanMassacre|新安坑降]] supplies the opposite signal: if surrendered common soldiers are killed, future surrender becomes less credible.
+
 ## Connections
 - [[KuaiChe|蒯彻]] and [[WuChen|武臣]] - adviser and commander in the source.
 - [[YanState|燕国]] and [[ZhaoState|赵国]] - old-state territories affected by the cascade.
@@ -28,3 +30,4 @@ The two variants show why the cascade depends on credibility, not just fear. A s
 - [[Chenliu|陈留]], [[LiShiqi|郦食其]], [[WanCounty|宛县]], [[ChenHuiNanyang|陈恢]], and [[LiuBang|刘邦]] - Qinji 136 coercive and rewarded-surrender variants.
 - [[HezongAlliance|合纵]] and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - adjacent political-scaling concepts.
 - [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[Yaoguan|峣关]], [[LuJia|陆贾]], [[ZhangLiang|张良]], and [[LantianLateQin|蓝田]] - final caution that commander-level peace does not guarantee troop-level compliance.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[ZiyingQin|子婴]], [[Bashang|霸上]], [[YuefaSanzhang|约法三章]], and [[XinanMassacre|新安坑降]] - successful surrender reassurance contrasted with surrender deterrence.

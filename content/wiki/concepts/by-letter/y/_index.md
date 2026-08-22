@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 5059
+wiki_total_pages: 5061
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "YuxiIntoHonglou"
     title: "玉溪一脉入红楼 / Yuxi Into Honglou"
     url: "/wiki/concepts/yuxiintohonglou/"
+  - key: "YuefaSanzhang"
+    title: "约法三章 / Three-Article Covenant"
+    url: "/wiki/concepts/yuefasanzhang/"
   - key: "YuanjiaoJingongStrategy"
     title: "远交近攻 / Yuanjiao Jingong Strategy"
     url: "/wiki/concepts/yuanjiaojingongstrategy/"

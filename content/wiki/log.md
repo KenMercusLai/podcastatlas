@@ -9415,6 +9415,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》139｜“他”再次影响“汉朝”
+
+Added source page for Hanji 139: Ziying's surrender and Qin's formal end, Liu Bang's Bashang pacification through sparing Ziying, preserving Qin officials, Yuefa Sanzhang, refusal of local gifts, Xiao He's archive capture, Fan Kuai/Zhang Liang palace-restraint advice, and Xiang Yu's Xinan killing of surrendered Qin troops. Created Bashang, Xinan Massacre, Yuefa Sanzhang, and Administrative Archive Capture; updated overview, index, Liu Bang, Xiang Yu, Ziying, Xiao He, Fan Kuai, Zhang Liang, Zhang Han, Sima Xin, Dong Yi, Ying Bu, Pu General, Qin State, Xianyang, Guanzhong, Hangu Pass, Western Han, Laozi, Occupation Pacification Strategy, Political Surrender Cascade, Non-Killing Unification, Surrendered Prisoner Security Dilemma, Punitive Surrender Deterrence, Post-Battle Terror Signaling, People-Based Political Security, and Coalition Settlement Failure. No settled contradiction found; kept Liu Bang's restraint as source-scoped political pacification rather than erasing prior Yingchuan terror, and merged the Dong Yi name forms 董义/董翳 on one canonical page.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）
 
 Added source page for Qinji 138: Zhao Gao's non-eunuch identity argument, the "宦人/宦籍" and "隐官" terminology corrections, Zhangjiashan and Shuihudi bamboo-slip evidence, Yan Le as Zhao Gao's son-in-law, Zhao Cheng as Zhao Gao's brother, Zhao Gao's hidden-office background and legal/calligraphic/court-service talent, the Meng Yi death-sentence backstory, and the palace-coup prelude after Hu Hai asks about the concealed rebellion. Created Yan Le, Zhao Cheng (Qin), Zhangjiashan Han Tomb Bamboo Slips, Shuihudi Qin Slips, Early Eunuch Terminology Misreading, Yinguan Status Misreading, and Excavated Text Lexical Correction; updated overview, index, Zhao Gao, Qin Er Shi, and Ziying. Contradiction flagged: this source revises the inherited "Zhao Gao was a eunuch" shorthand, including the earlier Qinji 128-1 title wording, while preserving the source-scoped caution around the "嬴婴" replacement wording.
@@ -9834,6 +9838,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2）
 
 Added source page for Qinji 138 part 2: Yan Le's Wangyi Palace coup and Hu Hai's suicide, Zhao Gao's post-coup reduction from emperor to Qin king, Ziying's source-scoped identity as Fusu's son and counter-killing of Zhao Gao, and Liu Bang/Zhang Liang's Yaoguan-Lantian breakthrough. Created Wangyi Palace, Yaoguan, Lantian (Late Qin), Lu Jia, Palace Coup Under Policing Pretext, Imperial Title Retrenchment, and Ritual Ambush Countercoup; updated overview, index, Zhao Gao, Qin Er Shi, Ziying, Yan Le, Zhao Cheng, Liu Bang, Zhang Liang, Wuguan, Qin State, Crisis Information Blockade, Political Surrender Cascade, and Court Feedback Collapse. No settled contradiction found; preserved Ziying's identity as this source's Shiji/dictionary-backed reading while keeping earlier source-scoped "嬴婴" caution visible and disambiguated late-Qin Lantian from the Warring States Lantian Battle.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

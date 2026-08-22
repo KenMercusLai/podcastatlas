@@ -2,7 +2,7 @@
 title: "Non-Killing Unification / 不爱杀人者能一之"
 type: concept
 tags: [political-theory, legitimacy, confucianism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The host tests the claim against later history. [[QinState|秦国]] eventually c
 
 [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] complicates and strengthens that comparative reading. Liu Bang massacres [[YingchuanCommandery|颍川郡]] as a calculated terror signal, so the source does not let him become a purely nonviolent figure. But the same episode then makes [[WanCounty|宛县]] and [[NanyangCommandery|南阳郡]] the turn toward rewarded surrender, no plunder, and treating Qin people as future subjects. "Not loving killing" therefore remains a relative capacity to move from violence into durable pacification, not an absence of violent acts.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives that relative contrast its first Qin-heartland proof. Liu Bang spares [[ZiyingQin|子婴]], avoids palace indulgence after advice from [[FanKuai|樊哙]] and [[ZhangLiang|张良]], and uses [[YuefaSanzhang|约法三章]] at [[Bashang|霸上]] to make Qin people willing to support him. [[XiangYu|项羽]] remains militarily formidable, but the [[XinanMassacre|新安坑降]] turns surrendered Qin soldiers into blood debt and makes future rule in [[GuanzhongRegion|关中]] politically brittle.
+
 ## Key Claims
 - "Not loving killing" is not weakness; it is a condition for attracting people exhausted by violent rule.
 - The concept distinguishes taking territory from settling the realm.
@@ -32,6 +34,7 @@ The host tests the claim against later history. [[QinState|秦国]] eventually c
 - Qinji 130-2 sharpens the Liu Bang/Xiang Yu comparison while keeping it comparative rather than claiming Liu Bang had no massacre record.
 - Qinji 132 shows the comparison affecting command assignment: the less brutal candidate is selected for pacification, while the more brutal commander is redirected to battlefield relief.
 - Qinji 136 adds the hardest Liu Bang qualification: he can use massacre as terror, but his durable advantage begins when he converts surrender into subject incorporation at Wan.
+- Hanji 139 adds the clearest direct contrast: Liu Bang's Bashang restraint builds Qin support, while Xiang Yu's Xinan killing turns a security fear into long-term legitimacy loss.
 
 ## Connections
 - [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[WeiXiangwang|魏襄王]] - source dialogue.
@@ -40,5 +43,6 @@ The host tests the claim against later history. [[QinState|秦国]] eventually c
 - [[XiangchengQin|襄城]], [[WarringStatesWarBrutalization|战国战争残酷化]], and [[PostBattleTerrorSignaling|战后恐怖震慑]] - Qinji 130-2 massacre case behind the Xiang Yu side of the contrast.
 - [[HuaiwangAgreement|怀王之约]], [[GuanzhongRegion|关中]], [[Julu|巨鹿]], and [[SongYi|宋义]] - Qinji 132 route-selection branch where pacification profile shapes assignment.
 - [[YingchuanCommandery|颍川郡]], [[WanCounty|宛县]], [[NanyangCommandery|南阳郡]], [[PostBattleTerrorSignaling|战后恐怖震慑]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 136 massacre-to-pacification qualification.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Bashang|霸上]], [[YuefaSanzhang|约法三章]], [[XinanMassacre|新安坑降]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - direct Bashang/Xinan contrast after Qin's surrender.
 - [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[QiState|齐国]], [[ChuState|楚国]], and [[WeiState|魏国]] - immediate negative case in the episode.
 - [[MoralizedWarPretext|道德化战争借口]] and [[VanquishedRulerReputationConstruction|亡国君污名建构]] - episode 68's extension from violence to war justification and reputation.

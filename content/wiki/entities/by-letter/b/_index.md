@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6565
+wiki_total_pages: 6567
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "BrushUpLife"
     title: "重启人生 / Brush Up Life"
     url: "/wiki/entities/brushuplife/"
+  - key: "Bashang"
+    title: "霸上 / Bashang"
+    url: "/wiki/entities/bashang/"
   - key: "BreadTalk"
     title: "面包新语 / BreadTalk"
     url: "/wiki/entities/breadtalk/"

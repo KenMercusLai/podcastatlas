@@ -2,7 +2,7 @@
 title: "子婴 / Ziying (Qin)"
 type: entity
 tags: [person, qin-dynasty, court-politics, remonstrance]
-sources: [zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi]
+sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ Hu Hai ignores the warning. Ziying therefore marks a failed branch of [[DeathDef
 
 [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] gives the host's more explicit identity reading: Ziying is treated as [[FuSu|扶苏]]'s son through the phrases "二世之兄子" and "二世兄子婴." The same source makes him Qin king rather than emperor after [[ImperialTitleRetrenchment|帝号退回王号]]. During the accession fasting and ancestral-temple sequence, Ziying suspects Zhao Gao may kill him, feigns illness, lures Zhao Gao into the palace, and has him killed through [[RitualAmbushCountercoup|宗庙仪式反制政变]]. He then sends troops to [[Yaoguan|峣关]], but [[LiuBang|刘邦]]'s victories around [[LantianLateQin|蓝田]] show that removing Zhao Gao cannot reverse Qin's military collapse.
 
+[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] completes Ziying's branch as surrender rather than restoration. With no usable troops or defensible city left, he rides out with the imperial seal, tallies, and insignia and surrenders to Liu Bang. Liu Bang refuses advice to kill him, so Ziying becomes the object through which Liu Bang signals that Qin elites and commoners can survive under the new occupation order.
+
 ## Key Claims
 - The episode identifies Ziying as Hu Hai's nephew.
 - Ziying argues against killing Meng Tian and Meng Yi by invoking Zhao's loss of Li Mu and Qi's destruction after killing loyal old ministers.
@@ -26,6 +28,7 @@ Hu Hai ignores the warning. Ziying therefore marks a failed branch of [[DeathDef
 - Qinji 138 introduces the next branch, where Zhao Gao plans to replace Hu Hai with a figure rendered as "嬴婴"; this wiki keeps that wording source-scoped.
 - Qinji 138 part 2 reads Ziying as Fusu's son, makes him Qin king after Zhao Gao's title reduction, and shows him killing Zhao Gao during the accession ritual.
 - Ziying's countercoup removes the court operator but comes too late to restore Qin's Yaoguan-Lantian military position.
+- Hanji 139 completes the collapse branch: Ziying's surrender with Qin credentials marks the end of Qin, and Liu Bang's refusal to kill him turns the captive king into a pacification signal.
 
 ## Connections
 - [[QinErshi|胡亥 / 秦二世]] - ruler whom Ziying advises.
@@ -35,3 +38,4 @@ Hu Hai ignores the warning. Ziying therefore marks a failed branch of [[DeathDef
 - [[CourtFeedbackCollapse|君臣反馈失灵]], [[DeathDefyingRemonstrance|赴死式直谏]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - adjacent patterns for ignored counsel and destroying usable commanders.
 - [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]], [[YanLe|阎乐]], and [[ZhaoChengQin|赵成]] - later replacement-king setup and source-scoped "嬴婴" wording.
 - [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[FuSu|扶苏]], [[ImperialTitleRetrenchment|帝号退回王号]], [[RitualAmbushCountercoup|宗庙仪式反制政变]], [[Yaoguan|峣关]], and [[LantianLateQin|蓝田]] - source identity reading, Qin kingship, Zhao Gao's death, and failed final defense.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[LiuBang|刘邦]], [[Bashang|霸上]], [[QinState|秦国]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - final surrender and Liu Bang's decision to spare him.
