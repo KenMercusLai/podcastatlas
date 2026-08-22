@@ -2,8 +2,8 @@
 title: "Poetry As Emotional Release"
 type: concept
 tags: [poetry, emotion, children, parenting, mental-health]
-sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
-last_updated: 2026-07-24
+sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314, zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei]
+last_updated: 2026-08-22
 ---
 
 # Poetry As Emotional Release
@@ -17,6 +17,8 @@ The concept connects expression to care. When a child writes a poem, adults may 
 [[shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]] sharpens the mechanism through [[ShortFormEmotionalSnapshot]]. Takuboku's short song releases feeling not by resolving it but by preserving a brief, inconsistent, sometimes ugly instant before it has to become a full confession or a defensible moral position.
 
 [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] adds a late-life version through [[ItoHiromi|伊藤比吕美]]. The episode's [[PoetryAsLifeProblemSolving]] frame treats poems as a way to work with body, sex, motherhood, family death, caregiving, and one's own death without forcing those experiences into simple explanation.
+
+[[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei]] adds a classical Chinese lyric version through [[LiQingzhao|李清照]]. In the episode's [[PoeticWineCulture|诗酒文化]] branch, wine helps carry changing emotional states across a life: youthful leisure sorrow, marital separation, widowhood, and the pain of national rupture. Poetry releases these feelings not by solving them, but by giving them a precise lyric form.
 
 ## Key Claims
 - Poetry permits feelings that ordinary discipline may suppress.
@@ -37,3 +39,4 @@ The concept connects expression to care. When a child writes a poem, adults may 
 - [[TankaEverydayExpression]], [[IshikawaTakuboku|石川啄木]], and [[DuanGeShiWoBeishangDeWanju|《短歌是我悲伤的玩具》]] - adult short-song extension.
 - [[ShortFormEmotionalSnapshot]] - later Takuboku-source sharpening of how brief poetic form releases unstable feeling.
 - [[PoetryAsLifeProblemSolving]], [[ItoHiromi|伊藤比吕美]], and [[ChurouNoOnna|《初老的女人》]] - late-life poetry extension.
+- [[LiQingzhao|李清照]], [[PoeticWineCulture|诗酒文化]], and [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]] - classical ci extension around wine, longing, and grief.

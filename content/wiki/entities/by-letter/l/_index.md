@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6530
+wiki_total_pages: 6534
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "LiShui"
     title: "《理水》"
     url: "/wiki/entities/lishui/"
+  - key: "LijiText"
+    title: "《礼记》 / Book of Rites"
+    url: "/wiki/entities/lijitext/"
   - key: "LihunNovel"
     title: "《离婚》 / Divorce"
     url: "/wiki/entities/lihunnovel/"

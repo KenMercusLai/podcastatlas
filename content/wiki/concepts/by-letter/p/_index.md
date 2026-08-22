@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5042
+wiki_total_pages: 5044
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "PodcastEnabledCareerPath"
     title: "Podcast-Enabled Career Path / 播客带来的职业路径"
     url: "/wiki/concepts/podcastenabledcareerpath/"
+  - key: "PoeticWineCulture"
+    title: "Poetic Wine Culture / 诗酒文化"
+    url: "/wiki/concepts/poeticwineculture/"
   - key: "PoetryAsElitePoliticalLanguage"
     title: "Poetry As Elite Political Language / 诗经作为贵族政治语言"
     url: "/wiki/concepts/poetryaselitepoliticallanguage/"

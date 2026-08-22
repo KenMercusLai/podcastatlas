@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5042
+wiki_total_pages: 5044
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "TelosCrisis"
     title: "Telos Crisis / 目的危机"
     url: "/wiki/concepts/teloscrisis/"
+  - key: "TemperateDrinkingSelfControl"
+    title: "Temperate Drinking Self-Control / 节制饮酒与自我控制"
+    url: "/wiki/concepts/temperatedrinkingselfcontrol/"
   - key: "TenCitiesThousandVehicles"
     title: "Ten Cities Thousand Vehicles"
     url: "/wiki/concepts/tencitiesthousandvehicles/"

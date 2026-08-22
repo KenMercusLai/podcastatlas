@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6530
+wiki_total_pages: 6534
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "GuiYouguang"
     title: "归有光 / Gui Youguang"
     url: "/wiki/entities/guiyouguang/"
+  - key: "GenghisKhan"
+    title: "成吉思汗 / Genghis Khan"
+    url: "/wiki/entities/genghiskhan/"
   - key: "GuomaiCulture"
     title: "果麦文化 / Guomai Culture"
     url: "/wiki/entities/guomaiculture/"

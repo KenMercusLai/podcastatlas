@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思](sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei.md) — 芮淇讲透资治通鉴 episode on alcohol's constructive side through poetic wine culture, Li Bai, Du Fu's Drinking Eight Immortals, Li Qingzhao's wine lyrics, Genghis Khan, Confucius, and drinking restraint.
 - [《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好](sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd.md) — 芮淇讲透资治通鉴 episode on alcohol as a catalyst across Cao Cao's Wancheng disaster, Zhang Fei losing Xuzhou, Li Yuan's Jinyang rebellion pressure, Gao Yang's imperial violence, Jin Ping Mei, Guifei Zuijiu, Mei Lanfang's adaptation, and Li Qingzhao's wine lyrics.
 - [《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩](sources/zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7.md) — 芮淇讲透资治通鉴 episode on Zhao Gao torturing Li Si into confession, intercepting his memorial, staging fake reviews, Li Si's five-punishment and waist-chopping execution, clan destruction, Dongmen Yellow Dog regret, and Zhao Gao's chancellorship.
 - [《资治通鉴·秦纪》130-4｜如何定论秦相李斯的下场](sources/zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x.md) — 芮淇讲透资治通鉴 episode on Zhao Gao isolating Hu Hai, trapping Li Si through staged remonstrance and family accusations, Li Si's failed counterattack, and the arrest of Li Si, Feng Quji, and Feng Jie after loyal advice over Afang Palace and burdens.
@@ -1219,6 +1220,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [杜甫 / Du Fu](entities/DuFu.md) — Tang poet whose Drinking Eight Immortals poem lets the source present wine as social portrait and poetic culture.
+- [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
+- [《礼记》 / Book of Rites](entities/LijiText.md) — Confucian classic cited for drinking without losing composure and for alcohol as harmonious social ritual.
+- [王仲闻 / Wang Zhongwen](entities/WangZhongwen.md) — Scholar whose Li Qingzhao annotation statistics are used to quantify wine in her ci corpus.
 - [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander in the Wancheng drinking story where Cao Cao's private indulgence becomes a security failure.
 - [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
 - [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
@@ -7753,6 +7758,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Poetic Wine Culture / 诗酒文化](concepts/PoeticWineCulture.md) — Frame where alcohol functions as poetic occasion, social warmth, inspiration, longing, and grief when bounded by restraint.
+- [Temperate Drinking Self-Control / 节制饮酒与自我控制](concepts/TemperateDrinkingSelfControl.md) — Ethical frame for enjoying drink without being trapped by it, grounded through Genghis Khan and Confucius.
 - [Alcohol as Power Catalyst / 酒作为权力催化剂](concepts/AlcoholAsPowerCatalyst.md) — Pattern where drinking amplifies existing desire, courage, humiliation, brutality, or sorrow, with larger consequences around rulers and military power.
 - [Coerced Confession Trap / 逼供认罪陷阱](concepts/CoercedConfessionTrap.md) — Pattern where torture and staged review teach a prisoner to repeat a false confession before the real review arrives.
 - [Dongmen Yellow Dog / 东门黄犬](concepts/DongmenYellowDog.md) — Li Si regret idiom contrasting late power disaster with ordinary hometown pleasure and missed retreat from office.

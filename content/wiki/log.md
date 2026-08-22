@@ -9403,6 +9403,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思
+
+Added source page for Qinji 131-3: a cross-period alcohol-and-culture essay covering poetic wine culture, Li Bai and Du Fu's wine-poetry branch, Li Qingzhao's wine lyrics across life stages, Woolf's writing-condition analogy, Genghis Khan's restrained drinking, Confucius's "不为酒困," and the closing standard of enjoying drink without losing drinking virtue. Created Du Fu, Genghis Khan, Book of Rites, Wang Zhongwen, Poetic Wine Culture, and Temperate Drinking Self-Control; updated overview, index, Li Qingzhao, Li Bai, Confucius, Analects, Virginia Woolf, Alcohol as Power Catalyst, Poetry as Emotional Release, and Capital Poetry Sociality. No settled contradiction found; kept the Genghis Khan leadership-causality claim and the cross-period Qinji framing source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书
 
 Added source page for Qinji 130-1: Zhang Liang's Huangshi Gong / 圯上老人 bridge test, the three appointments, Taigong Bingfa as Liutao, the "人生有度" framing, Liu Bang and Zhang Liang joining Jing Ju, Liu Bang's interrupted attempt to recover Feng under Zhang Han's pressure, Zhao Ping's false Chen Sheng appointment moving Xiang Liang and Xiang Yu west from Kuaiji, and Chen Ying's refusal to claim kingship after his mother's warning. Created Zhao Ping (Rebel), Chen Ying, and Claim Restraint Through Attachment; updated overview, index, Zhang Liang, Huangshi Gong, Taigong Bingfa, Liutao, Liu Bang, Jing Ju, Zhang Han, Xiang Liang, Xiang Yu, Kuaiji Commandery, Chen Sheng, Zhang Chu Regime, and Anti-Qin Coalition Fragmentation. No settled contradiction found; preserved source-scoped cautions around 景居/景驹, 向良/项梁, 张涵/章邯, 陈英/陈婴, and Zhao Ping's false appointment claim.
@@ -9739,6 +9743,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好
 
 Added source page for Qinji 131-2: a cross-period alcohol essay covering Cao Cao Wancheng disaster, Zhang Fei losing Xuzhou, Li Yuan Jinyang-palace rebellion pressure, Gao Yang imperial violence, Jin Ping Mei wine-as-desire frame, Guifei Zuijiu, Mei Lanfang adaptation, and Li Qingzhao wine-lyrics branch. Created Alcohol as Power Catalyst plus Zhang Xiu, Dian Wei, Cao Ang, Zhang Fei, Liu Bei, Li Yuan (Tang), Li Shimin, Pei Ji, Emperor Yang of Sui, Gao Yang, Yang Guifei, Guifei Zuijiu, Mei Lanfang, and Li Qingzhao; updated overview, index, Cao Cao, and Jin Ping Mei. No settled contradiction found; kept the episode source-scoped as a cross-period theme installment rather than a Qin chronological annal.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

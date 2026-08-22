@@ -12751,6 +12751,10 @@
     "title": "Dry Electrode Manufacturing",
     "url": "/wiki/concepts/dryelectrodemanufacturing/"
   },
+  "DuFu": {
+    "title": "杜甫 / Du Fu",
+    "url": "/wiki/entities/dufu/"
+  },
   "DuJiyan": {
     "title": "杜继彦",
     "url": "/wiki/entities/dujiyan/"
@@ -16978,6 +16982,10 @@
   "GeneticCulpabilityProblem": {
     "title": "Genetic Culpability Problem / 遗传归责问题",
     "url": "/wiki/concepts/geneticculpabilityproblem/"
+  },
+  "GenghisKhan": {
+    "title": "成吉思汗 / Genghis Khan",
+    "url": "/wiki/entities/genghiskhan/"
   },
   "GenlyAi": {
     "title": "金利·艾 / Genly Ai",
@@ -24715,6 +24723,10 @@
     "title": "《离婚》 / Divorce",
     "url": "/wiki/entities/lihunnovel/"
   },
+  "LijiText": {
+    "title": "《礼记》 / Book of Rites",
+    "url": "/wiki/entities/lijitext/"
+  },
   "Lijiang": {
     "title": "Lijiang / 丽江",
     "url": "/wiki/entities/lijiang/"
@@ -32230,6 +32242,10 @@
   "PoeticEdda": {
     "title": "The Poetic Edda / 诗体埃达",
     "url": "/wiki/entities/poeticedda/"
+  },
+  "PoeticWineCulture": {
+    "title": "Poetic Wine Culture / 诗酒文化",
+    "url": "/wiki/concepts/poeticwineculture/"
   },
   "PoetryAsElitePoliticalLanguage": {
     "title": "Poetry As Elite Political Language / 诗经作为贵族政治语言",
@@ -40583,6 +40599,10 @@
     "title": "Telos Crisis / 目的危机",
     "url": "/wiki/concepts/teloscrisis/"
   },
+  "TemperateDrinkingSelfControl": {
+    "title": "Temperate Drinking Self-Control / 节制饮酒与自我控制",
+    "url": "/wiki/concepts/temperatedrinkingselfcontrol/"
+  },
   "TempleUniversity": {
     "title": "Temple University",
     "url": "/wiki/entities/templeuniversity/"
@@ -43602,6 +43622,10 @@
   "WangZhengjun": {
     "title": "Wang Zhengjun / 王政君",
     "url": "/wiki/entities/wangzhengjun/"
+  },
+  "WangZhongwen": {
+    "title": "王仲闻 / Wang Zhongwen",
+    "url": "/wiki/entities/wangzhongwen/"
   },
   "WangZhu": {
     "title": "王蠋 / Wang Zhu",
@@ -50606,6 +50630,10 @@
   "zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd": {
     "title": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好",
     "url": "/wiki/sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd/"
+  },
+  "zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei": {
+    "title": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

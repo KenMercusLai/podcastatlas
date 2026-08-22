@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6530
+wiki_total_pages: 6534
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "DuShaoqing"
     title: "杜少卿"
     url: "/wiki/entities/dushaoqing/"
+  - key: "DuFu"
+    title: "杜甫 / Du Fu"
+    url: "/wiki/entities/dufu/"
   - key: "DuSujuan"
     title: "杜素娟 / Du Sujuan"
     url: "/wiki/entities/dusujuan/"

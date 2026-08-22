@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6530
+wiki_total_pages: 6534
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "WangShizhen"
     title: "王世贞 / Wang Shizhen"
     url: "/wiki/entities/wangshizhen/"
+  - key: "WangZhongwen"
+    title: "王仲闻 / Wang Zhongwen"
+    url: "/wiki/entities/wangzhongwen/"
   - key: "WangYiranSanlian"
     title: "王依然 / Wang Yiran (Sanlian)"
     url: "/wiki/entities/wangyiransanlian/"
