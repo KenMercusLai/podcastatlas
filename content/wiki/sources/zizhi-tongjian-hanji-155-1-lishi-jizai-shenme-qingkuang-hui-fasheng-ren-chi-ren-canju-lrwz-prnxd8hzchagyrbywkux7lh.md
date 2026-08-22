@@ -36,6 +36,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues f
 ## Connections
 - [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[ChenPing|陈平]], [[MoralSlanderReframing|道德诬陷焦点转移]], and [[HakuinEkaku|白隐慧鹤]] - recap and moral analogy around false accusation.
 - [[HanXin|韩信]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], [[BattlefieldInformationControl|战场信息控制]], and [[LureEnemyOutOfPosition|诱敌离位]] - the opening "声东击西" frame, kept source-scoped because the Wei Bao campaign has not yet unfolded in the transcript.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] - direct continuation that supplies the full Han Xin crossing operation against Wei Bao.
 - [[WeiBao|魏豹]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - renewed Wei Bao defection after earlier post-Pengcheng switching.
 - [[Feiqiu|废丘]], [[ZhangHanQin|章邯]], [[ThreeQinContainment|三秦压制]], [[ZhongdiCommandery|中地郡]], [[BeidiCommandery|北地郡]], and [[LongxiCommandery|陇西郡]] - final collapse of Zhang Han's holdout and Han administrative consolidation.
 - [[GuanzhongRegion|关中]], [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], [[WarDisasterCompounding]], [[FamineEntitlementFailure]], and [[DisasterCivilizationRetreat|灾变中的文明退场]] - famine, price spike, labor collapse, and breakdown of ordinary social restraints.

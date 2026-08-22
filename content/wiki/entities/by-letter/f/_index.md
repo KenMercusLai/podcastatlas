@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6629
+wiki_total_pages: 6638
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "FengXiWarringStates"
     title: "冯喜 / Feng Xi (Warring States)"
     url: "/wiki/entities/fengxiwarringstates/"
+  - key: "FengJingChuHan"
+    title: "冯敬 / Feng Jing (Chu-Han)"
+    url: "/wiki/entities/fengjingchuhan/"
   - key: "FengHaoWarringStates"
     title: "冯浩 / Feng Hao (Warring States adviser)"
     url: "/wiki/entities/fenghaowarringstates/"

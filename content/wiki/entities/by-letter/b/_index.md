@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6629
+wiki_total_pages: 6638
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "BaofengYingyin"
     title: "暴风影音 / Baofeng Yingyin"
     url: "/wiki/entities/baofengyingyin/"
+  - key: "BoZhi"
+    title: "柏直 / Bo Zhi"
+    url: "/wiki/entities/bozhi/"
   - key: "BrothersGrimm"
     title: "格林兄弟 / Brothers Grimm"
     url: "/wiki/entities/brothersgrimm/"

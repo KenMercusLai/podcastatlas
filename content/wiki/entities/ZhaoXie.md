@@ -2,8 +2,8 @@
 title: "赵歇 / Zhao Xie"
 type: entity
 tags: [person, ruler, zhao, qin-han, rebellion]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+last_updated: 2026-08-23
 ---
 
 # 赵歇 / Zhao Xie
@@ -24,6 +24,8 @@ Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式�
 
 [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] places Zhao Xie in the post-Pengcheng alliance reversal. After [[LiuBang|刘邦]] is defeated, Zhao Xie and Chen Yu are counted among those who turn back toward [[XiangYu|项羽]], showing that Zhao's anti-Xiang participation in the Pengcheng coalition does not survive Liu Bang's loss of visible strength.
 
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] makes Zhao Xie the next political target after [[HanXin|韩信]] defeats [[WeiBao|魏豹]] and takes [[DaiState|代地]]. Han Xin proposes moving through Zhao, Yan, and Qi so the northern line can pressure [[XiangYu|项羽]]'s grain route, while [[ChenYu|陈馀]]'s discovery that [[ZhangEr|张耳]] is still alive sets up the coming Zhao conflict.
+
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - figures who install Zhao Xie.
 - [[WuChen|武臣]] and [[LiLiangZhaoGeneral|李良]] - killed predecessor and rebel defector whose defeat opens the restoration choice.
@@ -33,3 +35,4 @@ Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式�
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - legitimacy route and wider coordination risk.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]], [[ChenYu|陈馀]], [[ZhangEr|张耳]], and [[XiaShuo|夏说]] - restoration from Dai back to Zhao after Chen Yu's victory.
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-Pengcheng return toward Xiang Yu.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[HanXin|韩信]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[DaiState|代地]] - setup for the northern campaign into Zhao.

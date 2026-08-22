@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”](sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l.md) — 芮淇讲透资治通鉴 episode on Wei Bao's humiliation-driven break, Han Xin's Linjin/Puban feint and Xiayang crossing, West Wei commandery conversion, and the constrained northern strategy toward Dai/Zhao/Yan/Qi.
 - [《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧](sources/zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh.md) — 芮淇讲透资治通鉴 episode on Wei Bao's renewed turn toward Xiang Yu, Feiqiu's fall and Zhang Han's suicide, the Guanzhong famine, and Ren氏's grain-hoarding fortune under wartime scarcity.
 - [《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？](sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8.md) — 芮淇讲透资治通鉴 episode resolving the Chen Ping "盗嫂/受金" accusations through Wei Wuzhi's talent defense, Chen Ping's practical money explanation, Liu Bang's renewed trust, and source-critical skepticism toward the family-scandal smear.
 - [《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）](sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu.md) — 芮淇讲透资治通鉴 episode on Liu Bang's concrete post-Pengcheng recovery through Sui He's Jiujiang mission, the Xingyang front, Xiao He and Han Xin's emergency support, Guan Ying's cavalry force, Aocang logistics, and the Chen Ping veteran backlash.
@@ -1261,6 +1262,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [卢绾 / Lu Wan](entities/LuWan.md) — Han-side figure sent with Liu Jia to support Peng Yue's grain-route pressure after Han Xin's northern army is repeatedly drained.
+- [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent to support Peng Yue's anti-Chu grain-route pressure in Hanji 155-2.
+- [晋阳 / Jinyang](entities/Jinyang.md) — Northern place Han Xin takes after defeating Dai forces, becoming the Taiyuan commandery hinge in Hanji 155-2.
+- [河东郡 / Hedong Commandery](entities/HedongCommandery.md) — Commandery created after Han Xin captures Wei Bao and Han converts West Wei territory into administrative units.
+- [下阳 / Xiayang (Chu-Han)](entities/XiayangChuHan.md) — Actual Yellow River crossing point Han Xin uses to bypass Wei Bao's Puban defense and strike Anyi.
+- [项佗 / Xiang Tuo (Chu-Han)](entities/XiangTuoChuHan.md) — Wei Bao infantry commander whose presence is read as evidence of Chu-side support.
+- [冯敬 / Feng Jing (Chu-Han)](entities/FengJingChuHan.md) — Wei Bao cavalry commander named in Liu Bang and Li Shiqi's pre-campaign assessment.
+- [周叔 / Zhou Shu](entities/ZhouShu.md) — Stronger Wei commander whom Han Xin asks about and whose non-use exposes Wei Bao's personnel weakness.
+- [柏直 / Bo Zhi](entities/BoZhi.md) — Wei Bao's actual commander in Hanji 155-2, contrasted with Zhou Shu in the source's command-fit critique.
 - [白隐慧鹤 / Hakuin Ekaku](entities/HakuinEkaku.md) — Rinzai Zen master used in Hanji 155-1 as an analogy for bearing false accusation without losing composure.
 - [中地郡 / Zhongdi Commandery](entities/ZhongdiCommandery.md) — Commandery named in Hanji 155-1 as one of Liu Bang's administrative units after pacifying Yong territory.
 - [任氏 / Ren Family (Qin-Han merchant)](entities/RenShiQinMerchant.md) — Qin末宣曲 grain-hoarding family whose famine profit raises the source's question of power-backed commercial protection in wartime.
@@ -7894,6 +7904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
 - [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.
 - [Wartime Agricultural Labor Collapse / 战争抽空农业劳动力](concepts/WartimeAgriculturalLaborCollapse.md) — Famine mechanism where mass warfare removes farmers from fields, leaving food output and prices to break down.
 - [Xingyang Standoff / 荥阳相持](concepts/XingyangStandoff.md) — Post-Pengcheng Chu-Han holding phase where Liu Bang stabilizes around Xingyang through reinforcement, cavalry repair, and Aocang-linked logistics.

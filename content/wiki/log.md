@@ -10075,9 +10075,17 @@ Added source page for Hanji 154: the follow-up to Chen Ping's "盗嫂/受金" ac
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”
+
+Added source page for Hanji 155-2: Wei Bao's humiliation grievance against Liu Bang, Han Xin's Linjin/Puban feint and Xiayang crossing against Anyi, Cao Shen and Guan Ying's pursuit, Wei Bao's capture, West Wei commandery conversion into Hedong/Shangdang/Taiyuan, Chen Yu's discovery of the Zhang Er deception, and Han Xin's constrained northern strategy through Dai toward Zhao/Yan/Qi. Created River Crossing Deception, Bo Zhi, Zhou Shu, Feng Jing, Xiang Tuo, Xiayang, Hedong Commandery, Jinyang, Liu Jia, and Lu Wan; updated related Chu-Han actor, place, strategy, and commandery pages. No settled contradiction found; this source completes Hanji 155-1's open "声东击西" setup.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧
 
 Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin versus Wei Bao, the Hakuin false-accusation analogy after the Chen Ping thread, Wei Bao's visit-mother pretext and renewed submission to Xiang Yu, Feiqiu's flooding and Zhang Han's suicide, Liu Bang's Liyang crown-prince/amnesty move, Guanzhong famine, and Ren氏's grain-hoarding fortune. Created Feiqiu, RenShiQinMerchant, ZhongdiCommandery, HakuinEkaku, WartimeAgriculturalLaborCollapse, and PowerBackedGrainHoarding; updated overview, index, and related Chu-Han, famine, commandery, and deception pages. No settled contradiction found; kept the "声东击西" campaign detail source-scoped because the available transcript stops before the full Wei Bao operation.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

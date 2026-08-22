@@ -2,8 +2,8 @@
 title: "彭越 / Peng Yue"
 type: entity
 tags: [person, qin, anti-qin, chu-han, military]
-sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+last_updated: 2026-08-23
 ---
 
 # 彭越 / Peng Yue
@@ -24,6 +24,8 @@ By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than 
 
 [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] revalues Peng Yue inside [[XiayiPlan|下邑画策]]. [[ZhangLiang|张良]] names him as one of the usable forces because he is still tied to anti-Chu pressure with Qi and can strike [[XiangYu|项羽]]'s rear. The episode therefore turns Peng Yue's irregular pressure from a background nuisance into one leg of Liu Bang's multi-front recovery design.
 
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds why Peng Yue's leg of the design becomes more important. [[HanXin|韩信]] proposes taking the north and then cutting [[XiangYu|项羽]]'s grain route from that direction, but [[LiuBang|刘邦]] repeatedly removes elite soldiers from Han Xin's army for the [[XingyangStandoff|荥阳相持]] front. The source says Liu Bang therefore turns to Peng Yue for the grain-route pressure, sending [[LiuJia|刘贾]] and [[LuWan|卢绾]] to support him.
+
 ## Connections
 - [[LiuBang|刘邦]] - leader Peng Yue joins during the Changyi campaign in this source.
 - [[QinErshi|胡亥 / 秦二世]], [[ChenSheng|陈胜]], and [[XiangLiang|项梁]] - crisis and uprising context that lets Peng Yue's local force emerge.
@@ -34,3 +36,4 @@ By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than 
 - [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] and [[HuaiwangAgreement|怀王之约]] - continuing pressure that helps delay Xiang Yu's western response to Liu Bang.
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[PengchengBattle|彭城之战]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-defeat loss of ground and wandering pressure-point status.
 - [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]], [[XiayiPlan|下邑画策]], [[ZhangLiang|张良]], and [[YingBu|英布]] - rear-pressure role inside Liu Bang's post-Pengcheng recovery plan.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[LiuJia|刘贾]], [[LuWan|卢绾]], and [[XingyangStandoff|荥阳相持]] - delegated grain-route pressure after Han Xin's army is repeatedly drained.

@@ -2,8 +2,8 @@
 title: "Xingyang Standoff / 荥阳相持"
 type: concept
 tags: [warfare, chu-han, logistics, campaign, stalemate]
-sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
+last_updated: 2026-08-23
 ---
 
 # Xingyang Standoff / 荥阳相持
@@ -14,15 +14,19 @@ The episode treats the phase as a repair system. [[XiaoHe|萧何]] raises emerge
 
 The concept therefore names the shift from flight to durable contest. Liu Bang still has not solved the war after Pengcheng, but he has found a defensive position, a supply route, a manpower channel, and a cavalry response that keep [[XiangYu|项羽]] from turning the rout into immediate final collapse.
 
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds the cost of keeping that front alive. [[HanXin|韩信]] is allowed to open the northern campaign after defeating [[WeiBao|魏豹]], but [[LiuBang|刘邦]] repeatedly pulls elite soldiers from Han Xin's army to patch the Xingyang front. The standoff therefore competes with offensive strategy: it preserves Liu Bang's center while limiting how far Han Xin can carry the northern grain-route cutoff.
+
 ## Key Claims
 - A defeated army can survive by converting retreat into a defensible concentration point before it has regained full offensive strength.
 - Stalemate is constructed from logistics, reinforcement, blocking actions, and force redesign, not only from battlefield parity.
 - Xingyang's importance in this source comes from being a front where scattered troops, Guanzhong support, Han Xin's command, Guan Ying's cavalry, and Aocang grain can connect.
 - The source frames the Chu-Han standoff as lasting from Han year 2, sixth month, to Han year 4, ninth month: two years and three months.
 - The phase turns [[XiayiPlan|下邑画策]] from a strategic design into the material holding environment needed for that design to work.
+- Hanji 155-2 adds that a holding front can consume the elite manpower needed for delegated offensive operations elsewhere.
 
 ## Connections
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PengchengBattle|彭城之战]] - defeated leader, opposing commander, and precipitating rout.
 - [[YingyangWarringStates|荥阳]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - front geography, grain source, and the broader importance of route control.
 - [[XiaoHe|萧何]], [[HanXin|韩信]], [[GuanYing|灌婴]], and [[HanCavalryFormation|汉军骑兵建设]] - manpower, command, and mounted-force repair.
 - [[XiayiPlan|下邑画策]] and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - strategic plan and post-defeat alliance field that require a stable front.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[WeiBao|魏豹]], [[DaiState|代国]], and [[PengYue|彭越]] - northern offensive constrained by the need to reinforce Xingyang.

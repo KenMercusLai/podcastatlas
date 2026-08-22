@@ -2,7 +2,7 @@
 title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
 type: concept
 tags: [conquest, administration, commandery-county-system, qin-state, warring-states, statecraft]
-sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]
+sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]
 last_updated: 2026-08-23
 ---
 
@@ -26,6 +26,8 @@ It also clarifies why Chu's fall is bigger than a single capital capture. Chu ha
 
 [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] extends the same Chu-Han pattern after [[Feiqiu|废丘]] falls and [[ZhangHanQin|章邯]] dies. With the former Yong pocket removed, Han organizes the area into [[ZhongdiCommandery|中地郡]], [[BeidiCommandery|北地郡]], and [[LongxiCommandery|陇西郡]], turning siege completion into administrative incorporation.
 
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds the West Wei version. After [[HanXin|韩信]] captures [[WeiBao|魏豹]], the Han side sets up [[HedongCommandery|河东郡]], [[Shangdang|上党郡]], and [[TaiyuanWarringStates|太原郡]]. The episode therefore pairs tactical conquest through [[RiverCrossingDeception|渡河欺敌]] with immediate administrative conversion.
+
 ## Key Claims
 - Conquest is incomplete until captured territory is translated into legible administrative units.
 - Temporary commandery naming can preserve the defeated state's regional label while preparing later subdivision.
@@ -37,6 +39,7 @@ It also clarifies why Chu's fall is bigger than a single capital capture. Chu ha
 - Qinji 120-4 adds that commandery conversion can be paired with elite relocation to reduce local resistance before the new government model is imposed.
 - Hanji 149 part 2 adds the Chu-Han form: commandery conversion can absorb surrendered or captured settlement kingdoms before empire-wide unification is complete.
 - Hanji 155-1 adds that commandery transition may wait until a stubborn fortified pocket falls; only then can nominal conquest become complete territorial administration.
+- Hanji 155-2 adds that defeating a restored Chu-Han kingdom can be followed immediately by multiple commandery divisions rather than by restoring another royal holder.
 
 ## Connections
 - [[QinState|秦国]], [[ChuState|楚国]], [[WangJianQin|王翦]], [[MengWu|蒙武]], and [[ChuFuchu|熊负刍 / 楚王负刍]] - source conquest case.
@@ -49,3 +52,4 @@ It also clarifies why Chu's fall is bigger than a single capital capture. Chu ha
 - [[EliteRelocationControl|豪杰迁徙控制]], [[ImperialHomogenization|帝国整齐划一]], and [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr|Qinji 120-4]] - social-control layer supporting commandery implementation after conquest.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiuBang|刘邦]], [[ShenYang|申阳]], [[HenanCommanderyChuHan|河南郡]], [[SimaAng|司马卬]], and [[HeneiCommandery|河内郡]] - Chu-Han surrender/capture converted into commandery control.
 - [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[Feiqiu|废丘]], [[ZhangHanQin|章邯]], [[ZhongdiCommandery|中地郡]], [[BeidiCommandery|北地郡]], and [[LongxiCommandery|陇西郡]] - fall of the final Yong pocket followed by commandery setup.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[WeiBao|魏豹]], [[HedongCommandery|河东郡]], [[Shangdang|上党郡]], and [[TaiyuanWarringStates|太原郡]] - West Wei's defeat followed by administrative division.

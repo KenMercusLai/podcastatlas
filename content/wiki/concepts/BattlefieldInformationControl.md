@@ -2,8 +2,8 @@
 title: "Battlefield Information Control / 战场信息控制"
 type: concept
 tags: [military-strategy, deception, command, warring-states]
-sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
+last_updated: 2026-08-23
 ---
 
 # Battlefield Information Control / 战场信息控制
@@ -22,6 +22,8 @@ The concept links discipline and deception. In this source, command secrecy is n
 
 [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] adds [[XiangYu|项羽]]'s Pengcheng return as a Chu-Han example. After [[LiuBang|刘邦]] captures [[Xuzhou|彭城]], Xiang Yu seals news and leaves the visible order of continuing the Qi campaign against [[TianHeng|田横]] in place. The information effect is that the smaller elite force can move toward [[XiaoCounty|萧县]] and the west side of the battlefield before Liu Bang's coalition has corrected its expectations.
 
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds [[HanXin|韩信]]'s West Wei crossing as a river-line version. Han Xin lets [[WeiBao|魏豹]] see ships and crossing preparation at the obvious [[LinjinWarringStates|临晋]] / [[PubanWarringStates|蒲阪]] front, while the real crossing happens at [[XiayangChuHan|下阳]]. Here information control works by making the enemy defend a visible logistics problem that is not the decisive one.
+
 ## Key Claims
 - Information control can include what an enemy spy is permitted to see, not only what one's own soldiers are told.
 - Strict speech discipline can be part of deception, especially before a rapid movement.
@@ -30,6 +32,7 @@ The concept links discipline and deception. In this source, command secrecy is n
 - Zhouji 94 part 2 adds the payoff: hidden command identity can let one side model the enemy commander while denying reciprocal knowledge.
 - Qinji 117-2 adds that information control can work through peace signals and diversion, not only through spies or hidden commander identity.
 - Hanji 151 part 2 adds that strategic-theater appearance can be held steady while the real striking force is already moving elsewhere.
+- Hanji 155-2 adds that crossing preparations themselves can be staged as information, turning a river obstacle into a deception channel.
 
 ## Connections
 - [[ZhaoShe|赵奢]] - commander whose staged inaction defines the concept.
@@ -41,3 +44,4 @@ The concept links discipline and deception. In this source, command secrecy is n
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]] - operational use of the asymmetry in Zhouji 94 part 2.
 - [[XiangYan|项燕]], [[LiXinQin|李信]], [[ChuState|楚国]], and [[NanCommandery|南郡]] - Qinji 117-2 peace-and-diversion setup.
 - [[XiangYu|项羽]], [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], [[TianHeng|田横]], [[XiaoCounty|萧县]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - Hanji 151 part 2 hidden return and false Qi-front appearance.
+- [[HanXin|韩信]], [[WeiBao|魏豹]], [[RiverCrossingDeception|渡河欺敌]], [[LinjinWarringStates|临晋]], and [[XiayangChuHan|下阳]] - Hanji 155-2 visible crossing preparation and hidden northern crossing.

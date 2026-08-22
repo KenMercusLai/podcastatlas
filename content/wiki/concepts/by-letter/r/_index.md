@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5093
+wiki_total_pages: 5094
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "RitualizedMinisterHumiliation"
     title: "Ritualized Minister Humiliation / 礼节化臣属羞辱"
     url: "/wiki/concepts/ritualizedministerhumiliation/"
+  - key: "RiverCrossingDeception"
+    title: "River Crossing Deception / 渡河欺敌"
+    url: "/wiki/concepts/rivercrossingdeception/"
   - key: "RMBExchangeRatePolicy"
     title: "RMB Exchange Rate Policy"
     url: "/wiki/concepts/rmbexchangeratepolicy/"

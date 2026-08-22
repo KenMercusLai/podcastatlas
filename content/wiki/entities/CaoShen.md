@@ -2,8 +2,8 @@
 title: "曹参 / Cao Shen"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]
+last_updated: 2026-08-23
 ---
 
 # 曹参 / Cao Shen
@@ -18,6 +18,8 @@ For this source, Cao Shen matters as a lower county-office connector. He helps m
 
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] names Cao Shen in the small set of early Han figures whose [[Shiji|《史记》]] treatment marks them as more than ordinary ministers. In that comparison, Cao Shen helps define the rank of [[ChenPing|陈平]]'s career even though the episode's analytical focus remains Chen Ping's [[SecondInCommandRoleFit|二把手角色适配]].
 
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] gives Cao Shen a direct role in [[HanXin|韩信]]'s attack on [[WeiBao|魏豹]]. After Han Xin crosses at [[XiayangChuHan|下阳]], Cao Shen moves against [[Anyi|安邑]], defeats Wei forces, and helps create the pressure that lets [[GuanYing|灌婴]]'s cavalry pursuit end in Wei Bao's capture.
+
 ## Connections
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[FanKuai|樊哙]], and [[PeiCounty|沛县]] - source actors and local setting.
 - [[DazexiangUprising|大泽乡起义]] and [[QinState|秦国]] - wider rebellion context and regime target.
@@ -25,3 +27,4 @@ For this source, Cao Shen matters as a lower county-office connector. He helps m
 - [[WesternHanDynasty|Western Han]] - later founding horizon implied by the Pei County network.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[HanXin|韩信]], [[ZhangHanQin|章邯]], and [[LayeredFeintCentralBreakthrough|多路佯动中央突破]] - Xiabian attack as a false main-force signal before the Chen Cang breakthrough.
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]], [[ChenPing|陈平]], and [[SecondInCommandRoleFit|二把手角色适配]] - founding-minister comparison set.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[Anyi|安邑]], [[GuanYing|灌婴]], and [[RiverCrossingDeception|渡河欺敌]] - Anyi-side attack and pursuit pressure in the Wei campaign.
