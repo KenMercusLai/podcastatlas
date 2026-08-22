@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6484
+wiki_total_pages: 6494
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "QinChugong"
     title: "秦出公 / Qin Chugong"
     url: "/wiki/entities/qinchugong/"
+  - key: "QinJiaRebel"
+    title: "秦嘉 / Qin Jia (Rebel)"
+    url: "/wiki/entities/qinjiarebel/"
   - key: "QinState"
     title: "秦国 / Qin State"
     url: "/wiki/entities/qinstate/"

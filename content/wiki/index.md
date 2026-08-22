@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心](sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3.md) — 芮淇讲透资治通鉴 episode on Chen Sheng's final collapse: Qin Jia killing Wu Ping Jun Pan, Zhang Han's pressure on Chen County, Zhuang Gu's killing of Chen Sheng, Lu Chen's revenge and reburial, and Chen Sheng's split legacy as both anti-Qin initiator and alienating ruler.
 - [《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集](sources/zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp.md) — 芮淇讲透资治通鉴 episode on Zhang Chu's post-Wu Guang battlefield losses, Li Si's fear-driven 督责 memorial to Qin Er Shi, and Li Liang's betrayal of restored Zhao after Wang Li's recruitment letter and Wu Chen's sister's drunken ritual insult.
 - [《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相](sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp.md) — 芮淇讲透资治通鉴 episode on Wu Guang's failed Yingyang siege, Tian Zang's killing of him under claimed crisis, Zhou Wen's defeat by Zhang Han, and Liu Bang's parallel local gains.
 - [《资治通鉴·秦纪》128-8｜一名赵国炊事兵逆袭成为外交大臣](sources/zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri.md) — 芮淇讲透资治通鉴 episode on Qi, Yan, Zhao, Wei, and Wey in the Qin-collapse restoration wave, centered on a Zhao camp servant persuading Yan to release Wu Chen.
@@ -1211,6 +1212,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [秦嘉 / Qin Jia (Rebel)](entities/QinJiaRebel.md) — Local anti-Qin rebel leader who refuses Chen Sheng's monitor Wu Ping Jun Pan and kills him under a false Chen Sheng order.
+- [朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader, named in the source as part of the local rebel force outside stable Zhang Chu control.
+- [武平君畔 / Wu Ping Jun Pan](entities/WuPingJunPan.md) — Chen Sheng's monitor sent to supervise the Tan-area army and killed by Qin Jia.
+- [司马欣 / Sima Xin](entities/SimaXin.md) — Qin figure sent by Qin Er Shi to assist Zhang Han's campaign against the rebels.
+- [董义 / Dong Yi (Qin)](entities/DongYiQin.md) — Qin figure named with Sima Xin as support for Zhang Han in the final pressure on Zhang Chu.
+- [张鹤 / Zhang He (Zhang Chu)](entities/ZhangHeZhangChu.md) — Remaining Zhang Chu base-defense commander defeated and killed west of Chen County as Zhang Han advances.
+- [庄谷 / Zhuang Gu](entities/ZhuangGu.md) — Chen Sheng's driver who kills him near Xiachengfu and surrenders to Qin before Lu Chen kills him in revenge.
+- [吕臣 / Lu Chen (Qin Rebel)](entities/LuChenQinRebel.md) — Former Chen Sheng attendant and general who raises the Cangtou Army, retakes Chen County, kills Zhuang Gu, and reburies Chen Sheng.
+- [诸坊 / Zhu Fang (Zhang Chu)](entities/ZhuFangZhangChu.md) — Chen Sheng's zhongzheng inspector whose harsh enforcement helps turn Zhang Chu inward through fear.
+- [胡武 / Hu Wu (Zhang Chu)](entities/HuWuZhangChu.md) — Chen Sheng's si guo inspection official paired with Zhu Fang in the punitive inspection system.
 - [李良 / Li Liang (Zhao General)](entities/LiLiangZhaoGeneral.md) — Zhao-side commander disambiguated from the modern Li Liang, whose blocked Taiyuan route, Wang Li recruitment letter, and status insult lead to his betrayal of Wu Chen.
 - [王离 / Wang Li (Qin)](entities/WangLiQin.md) — Qin commander who blocks Li Liang near Jingxing and sends the imperial-name recruitment letter that makes later defection possible.
 - [武臣姐姐 / Wu Chen's Sister](entities/ZhaoWuchenSister.md) — Unnamed sister of Wu Chen whose drunken failure to return Li Liang's salute triggers the restored-Zhao defection cascade.
@@ -7699,6 +7710,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rebel Founder Alienation / 起义首领人心疏离](concepts/RebelFounderAlienation.md) — Chen Sheng pattern where founding anti-Qin legitimacy decays after kingship through arrogance, killing old friends, and making closeness unsafe.
+- [Punitive Inspection Loyalty Trap / 苛察忠诚陷阱](concepts/PunitiveInspectionLoyaltyTrap.md) — Zhang Chu governance failure where inspectors treat harshness and extrajudicial punishment as evidence of loyalty.
 - [Duze Extraction Politics / 督责式压榨政治](concepts/DuzeExtractionPolitics.md) — Late-Qin governance pattern where Li Si's self-protective memorial validates Hu Hai's pressure, extraction, and killing incentives.
 - [Status Insult Defection Cascade / 名分羞辱触发叛变](concepts/StatusInsultDefectionCascade.md) — Pattern where a ritual/status slight activates a preexisting defection option and turns personal humiliation into regime collapse.
 - [Wartime Command Decapitation / 战时统帅斩首](concepts/WartimeCommandDecapitation.md) — Qinji 129-1 pattern where a command group kills a stalled commander under crisis and seeks legitimacy through false or tacit superior authorization.

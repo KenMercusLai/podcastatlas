@@ -2,7 +2,7 @@
 title: "武臣 / Wu Chen"
 type: entity
 tags: [person, anti-qin, rebellion, zhao]
-sources: [zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ Wu Chen then accepts Zhang Er and Chen Yu's second recommendation: do not move w
 
 [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]] gives Wu Chen's restored-Zhao branch a violent endpoint. He sends [[LiLiangZhaoGeneral|李良]] toward Taiyuan after Li Liang pacifies Changshan, but Li Liang is blocked by [[WangLiQin|王离]] and later humiliated when [[ZhaoWuchenSister|Wu Chen's sister]] drunkenly fails to return his roadside bow. Li Liang kills her, attacks [[Handan|邯郸]], and kills Wu Chen and left chancellor Shao Sao, turning the separate Zhao line from self-strengthening into internal collapse.
 
+[[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] records the immediate survivor side of that endpoint. [[ChenYu|陈馀]] and [[ZhangEr|张耳]] are still in Handan when Li Liang strikes, but Chen Yu's information channels let them escape. Wu Chen's death therefore remains the restored-Zhao collapse point, while the adviser pair survives to continue beyond him.
+
 ## Connections
 - [[KuaiChe|蒯彻]] and [[PoliticalSurrenderCascade|招降示范级联]] - early expansion through modeled surrender.
 - [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[ChenSheng|陈胜]] - advisers and rival rebel authority around Zhao kingship.
@@ -28,3 +30,4 @@ Wu Chen then accepts Zhang Er and Chen Yu's second recommendation: do not move w
 - [[CaiCi|蔡赐]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Chen Sheng's compromise and Wu Chen's self-strengthening route.
 - [[HanGuang|韩广]], [[ZhaoServantEnvoy|赵厮养卒]], [[LowStatusStrategicPersuasion|低位者战略说服]], and [[YanState|燕国]] - Qinji 128-8 capture and release branch.
 - [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]], [[LiLiangZhaoGeneral|李良]], [[WangLiQin|王离]], [[ZhaoWuchenSister|武臣姐姐]], and [[StatusInsultDefectionCascade|名分羞辱触发叛变]] - Li Liang's betrayal and Wu Chen's death.
+- [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[ChenYu|陈馀]], and [[ZhangEr|张耳]] - survival of the Zhao adviser pair after Wu Chen's death.

@@ -2,7 +2,7 @@
 title: "章邯 / Zhang Han (Qin)"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ That proposal matters because it makes Qin's response partly administrative. [[Q
 
 [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]] extends Zhang Han's recovery line after [[TianZang|田臧]] replaces Wu Guang. Zhang Han defeats and kills Tian Zang at Ao granary, then turns back against the troops left near Yingyang and kills Li Gui. He also defeats Deng Shuang at Jia and Wu Feng at Xu, so the episode makes Zhang Han the battlefield force that turns Zhang Chu's command fracture into a chain of losses.
 
+[[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] carries that pressure to [[ChenSheng|陈胜]]'s base. [[QinErshi|胡亥 / 秦二世]] sends [[SimaXin|司马欣]] and [[DongYiQin|董义]] to assist Zhang Han, while Zhang Han's force has already defeated Wu Feng and killed [[CaiCi|蔡赐]]. When Zhang Han reaches the Chen County field, [[ZhangHeZhangChu|张鹤]]'s remaining Zhang Chu defense is defeated, making Zhang Han the military pressure behind Chen Sheng's final flight.
+
 ## Connections
 - [[QinErshi|胡亥 / 秦二世]] - ruler who approves the pardon-and-armament proposal.
 - [[ZhouWenRebel|周文]] and [[ZhangChuRegime|张楚政权]] - rebel threat Zhang Han defeats.
@@ -25,4 +27,5 @@ That proposal matters because it makes Qin's response partly administrative. [[Q
 - [[CapitalDefenseMobilization|都城防卫动员]] and [[LishanConvictMobilization|骊山刑徒应急动员]] - response mechanisms this episode adds.
 - [[YingyangWarringStates|荥阳]], [[WuGuang|吴广]], [[TianZang|田臧]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 pressure that helps produce the Zhang Chu command crisis.
 - [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]] and [[ZhangChuRegime|张楚政权]] - Tian Zang, Li Gui, Deng Shuang, and Wu Feng defeats after Wu Guang's death.
+- [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[SimaXin|司马欣]], [[DongYiQin|董义]], [[CaiCi|蔡赐]], [[ZhangHeZhangChu|张鹤]], and [[ChenSheng|陈胜]] - final pressure on the Chen Sheng base.
 - [[QinState|秦国]] and [[DazexiangUprising|大泽乡起义]] - regime and rebellion context.

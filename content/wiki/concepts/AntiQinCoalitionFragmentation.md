@@ -2,7 +2,7 @@
 title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
 type: concept
 tags: [rebellion, coalition, qin, statecraft]
-sources: [zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 
 [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]] adds two sharper consequences. Inside [[ZhangChuRegime|张楚政权]], Tian Zang's replacement command collapses quickly when [[ZhangHanQin|章邯]] kills him and then defeats the officers left near Yingyang. Inside restored [[ZhaoState|赵国]], [[LiLiangZhaoGeneral|李良]] is first approachable by [[WangLiQin|王离]] because his Zhao route is blocked, then flips after a [[ZhaoWuchenSister|court-family insult]] convinces him that Wu Chen's regime will not protect his status.
 
+[[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] makes the internal side of the fragmentation terminal. [[ChenYu|陈馀]] and [[ZhangEr|张耳]] survive [[LiLiangZhaoGeneral|李良]]'s Handan coup because Chen Yu's Zhao networks warn them early, but [[ZhangChuRegime|张楚政权]] is failing in parallel: [[QinJiaRebel|秦嘉]] kills [[WuPingJunPan|武平君畔]] while borrowing [[ChenSheng|陈胜]]'s name, and Chen Sheng's own [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] makes the rebel center less able to hold loyalty.
+
 ## Connections
 - [[WuChen|武臣]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[CaiCi|蔡赐]] - main actors in the source.
 - [[ChenSheng|陈胜]], [[ZhangChuRegime|张楚政权]], and [[DazexiangUprising|大泽乡起义]] - rebel regime and origin.
@@ -31,3 +33,4 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 - [[TianDanQinRebel|田儋]], [[HanGuang|韩广]], [[ZhouShiRebel|周市]], [[WeiJiu|魏咎]], and [[ZhaoServantEnvoy|赵厮养卒]] - Qinji 128-8 wider field of revived state centers and negotiation crises.
 - [[WuGuang|吴广]], [[TianZang|田臧]], [[YingyangWarringStates|荥阳]], [[LiYou|李由]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 command-killing branch inside Zhang Chu.
 - [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]], [[LiLiangZhaoGeneral|李良]], [[WangLiQin|王离]], [[WuChen|武臣]], and [[StatusInsultDefectionCascade|名分羞辱触发叛变]] - restored-Zhao defection and internal collapse branch.
+- [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[QinJiaRebel|秦嘉]], [[WuPingJunPan|武平君畔]], [[RebelFounderAlienation|起义首领人心疏离]], and [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] - final Zhang Chu authority breakdown and center-level alienation.

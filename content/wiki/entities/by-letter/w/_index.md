@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6484
+wiki_total_pages: 6494
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "WuanWarringStates"
     title: "武安 / Wuan (Warring States)"
     url: "/wiki/entities/wuanwarringstates/"
+  - key: "WuPingJunPan"
+    title: "武平君畔 / Wu Ping Jun Pan"
+    url: "/wiki/entities/wupingjunpan/"
   - key: "WuSong"
     title: "武松 / Wu Song"
     url: "/wiki/entities/wusong/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6484
+wiki_total_pages: 6494
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "ZhuangMinghao"
     title: "庄明浩 / 庄明昊"
     url: "/wiki/entities/zhuangminghao/"
+  - key: "ZhuangGu"
+    title: "庄谷 / Zhuang Gu"
+    url: "/wiki/entities/zhuanggu/"
   - key: "ZhuangXin"
     title: "庄辛 / Zhuang Xin"
     url: "/wiki/entities/zhuangxin/"
@@ -497,6 +500,9 @@ wiki_pages:
   - key: "ZhangQing"
     title: "张青 / Zhang Qing"
     url: "/wiki/entities/zhangqing/"
+  - key: "ZhangHeZhangChu"
+    title: "张鹤 / Zhang He (Zhang Chu)"
+    url: "/wiki/entities/zhanghezhangchu/"
   - key: "ZouJi"
     title: "成侯邹忌 / Chenghou Zou Ji"
     url: "/wiki/entities/zouji/"
@@ -521,6 +527,9 @@ wiki_pages:
   - key: "ZhuHaiWeiRetainer"
     title: "朱亥 / Zhu Hai"
     url: "/wiki/entities/zhuhaiweiretainer/"
+  - key: "ZhuJishi"
+    title: "朱吉石 / Zhu Jishi"
+    url: "/wiki/entities/zhujishi/"
   - key: "ZhuNing"
     title: "朱宁 / Zhu Ning"
     url: "/wiki/entities/zhuning/"
@@ -578,6 +587,9 @@ wiki_pages:
   - key: "Zili"
     title: "自立"
     url: "/wiki/entities/zili/"
+  - key: "ZhuFangZhangChu"
+    title: "诸坊 / Zhu Fang (Zhang Chu)"
+    url: "/wiki/entities/zhufangzhangchu/"
   - key: "ZhugeLiang"
     title: "诸葛亮 / Zhuge Liang"
     url: "/wiki/entities/zhugeliang/"

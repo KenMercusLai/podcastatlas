@@ -12491,6 +12491,10 @@
     "title": "Dong Xian / 董贤",
     "url": "/wiki/entities/dongxian/"
   },
+  "DongYiQin": {
+    "title": "董义 / Dong Yi (Qin)",
+    "url": "/wiki/entities/dongyiqin/"
+  },
   "DongZhongshu": {
     "title": "Dong Zhongshu / 董仲舒",
     "url": "/wiki/entities/dongzhongshu/"
@@ -19603,6 +19607,10 @@
     "title": "胡适",
     "url": "/wiki/entities/hushi/"
   },
+  "HuWuZhangChu": {
+    "title": "胡武 / Hu Wu (Zhang Chu)",
+    "url": "/wiki/entities/huwuzhangchu/"
+  },
   "HuYanQiMinister": {
     "title": "胡衍 / Hu Yan (Qi Minister)",
     "url": "/wiki/entities/huyanqiminister/"
@@ -25486,6 +25494,10 @@
   "LuBuwei": {
     "title": "吕不韦 / Lu Buwei",
     "url": "/wiki/entities/lubuwei/"
+  },
+  "LuChenQinRebel": {
+    "title": "吕臣 / Lu Chen (Qin Rebel)",
+    "url": "/wiki/entities/luchenqinrebel/"
   },
   "LuChuan": {
     "title": "陆川 / Lu Chuan",
@@ -33407,6 +33419,10 @@
     "title": "Punishment Theory Tradeoff",
     "url": "/wiki/concepts/punishmenttheorytradeoff/"
   },
+  "PunitiveInspectionLoyaltyTrap": {
+    "title": "Punitive Inspection Loyalty Trap / 苛察忠诚陷阱",
+    "url": "/wiki/concepts/punitiveinspectionloyaltytrap/"
+  },
   "PupuSupermarket": {
     "title": "朴朴超市 / Pupu Supermarket",
     "url": "/wiki/entities/pupusupermarket/"
@@ -33642,6 +33658,10 @@
   "QinHuiwenhou": {
     "title": "惠文后 / Queen Huiwen of Qin",
     "url": "/wiki/entities/qinhuiwenhou/"
+  },
+  "QinJiaRebel": {
+    "title": "秦嘉 / Qin Jia (Rebel)",
+    "url": "/wiki/entities/qinjiarebel/"
   },
   "QinJianGong": {
     "title": "秦简公 / Duke Jian of Qin",
@@ -34298,6 +34318,10 @@
   "RebelAlliance": {
     "title": "Rebel Alliance",
     "url": "/wiki/entities/rebelalliance/"
+  },
+  "RebelFounderAlienation": {
+    "title": "Rebel Founder Alienation / 起义首领人心疏离",
+    "url": "/wiki/concepts/rebelfounderalienation/"
   },
   "RebelMandateManufacture": {
     "title": "Rebel Mandate Manufacture / 起义天命制造",
@@ -37566,6 +37590,10 @@
   "SimaShang": {
     "title": "司马尚 / Sima Shang",
     "url": "/wiki/entities/simashang/"
+  },
+  "SimaXin": {
+    "title": "司马欣 / Sima Xin",
+    "url": "/wiki/entities/simaxin/"
   },
   "SimaZhen": {
     "title": "司马贞 / Sima Zhen",
@@ -44575,6 +44603,10 @@
     "title": "吴立伟 / Wu Liwei",
     "url": "/wiki/entities/wuliwei/"
   },
+  "WuPingJunPan": {
+    "title": "武平君畔 / Wu Ping Jun Pan",
+    "url": "/wiki/entities/wupingjunpan/"
+  },
   "WuQi": {
     "title": "吴起 / Wu Qi",
     "url": "/wiki/entities/wuqi/"
@@ -46271,6 +46303,10 @@
     "title": "Zhang Haoran",
     "url": "/wiki/entities/zhanghaoran/"
   },
+  "ZhangHeZhangChu": {
+    "title": "张鹤 / Zhang He (Zhang Chu)",
+    "url": "/wiki/entities/zhanghezhangchu/"
+  },
   "ZhangHua": {
     "title": "Zhang Hua / 张华",
     "url": "/wiki/entities/zhanghua/"
@@ -46975,6 +47011,10 @@
     "title": "猪八戒",
     "url": "/wiki/entities/zhubajie/"
   },
+  "ZhuFangZhangChu": {
+    "title": "诸坊 / Zhu Fang (Zhang Chu)",
+    "url": "/wiki/entities/zhufangzhangchu/"
+  },
   "ZhuFuYan": {
     "title": "主父偃 / Zhufu Yan",
     "url": "/wiki/entities/zhufuyan/"
@@ -46986,6 +47026,10 @@
   "ZhuHaiWeiRetainer": {
     "title": "朱亥 / Zhu Hai",
     "url": "/wiki/entities/zhuhaiweiretainer/"
+  },
+  "ZhuJishi": {
+    "title": "朱吉石 / Zhu Jishi",
+    "url": "/wiki/entities/zhujishi/"
   },
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",
@@ -47006,6 +47050,10 @@
   "ZhuangChenchao": {
     "title": "Zhuang Chenchao",
     "url": "/wiki/entities/zhuangchenchao/"
+  },
+  "ZhuangGu": {
+    "title": "庄谷 / Zhuang Gu",
+    "url": "/wiki/entities/zhuanggu/"
   },
   "ZhuangMinghao": {
     "title": "庄明浩 / 庄明昊",
@@ -50350,6 +50398,10 @@
   "zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp": {
     "title": "《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集",
     "url": "/wiki/sources/zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp/"
+  },
+  "zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3": {
+    "title": "《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

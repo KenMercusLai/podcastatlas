@@ -2,7 +2,7 @@
 title: "张耳 / Zhang Er"
 type: entity
 tags: [person, retainer, warring-states, qin, western-han]
-sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
+sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The host adds a source-critical layer: [[Shiji|《史记》]] says Zhang Er and 
 
 [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] does not directly prove Zhang Er's intention, but it makes his perceived incentives decisive. [[ZhaoServantEnvoy|赵厮养卒]] tells Yan that if [[WuChen|武臣]] is killed, Zhang Er and [[ChenYu|陈馀]] can attack [[YanState|燕国]] under the banner of avenging the Zhao king. The episode therefore uses Zhang Er's position inside Zhao to explain why Yan releases Wu Chen.
 
+[[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] continues the restored-Zhao branch after [[LiLiangZhaoGeneral|李良]] kills [[WuChen|武臣]]. Zhang Er is still in [[Handan|邯郸]], but [[ChenYu|陈馀]] receives early warning through Zhao-side connections and urges him to flee. The source gives Zhang Er a survival-by-network scene rather than a new strategic counsel scene.
+
 ## Connections
 - [[Xinlingjun|信陵君]] - earlier patron whose retainer network Zhang Er had belonged to.
 - [[LiuBang|刘邦]] - young admirer who turns to Zhang Er after missing Xinlingjun.
@@ -32,3 +34,4 @@ The host adds a source-critical layer: [[Shiji|《史记》]] says Zhang Er and 
 - [[WuChen|武臣]], [[CaiCi|蔡赐]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Qinji 128-5 Zhao kingship and separate-state expansion advice.
 - [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - motive omission around Zhang Er and Chen Yu's grievance.
 - [[ZhaoServantEnvoy|赵厮养卒]], [[HanGuang|韩广]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Qinji 128-8 third-party incentive argument used to secure Wu Chen's release.
+- [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[ChenYu|陈馀]], [[LiLiangZhaoGeneral|李良]], [[WuChen|武臣]], and [[Handan|邯郸]] - escape from Handan after Li Liang's coup.

@@ -2,7 +2,7 @@
 title: "陈馀 / Chen Yu"
 type: entity
 tags: [person, qin, anti-qin, pre-qin]
-sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The episode also adds a source-comparison problem. [[Shiji|《史记》]] gives 
 
 [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] makes Chen Yu's political position central to an outside persuasion scene. [[ZhaoServantEnvoy|赵厮养卒]] argues that if [[YanState|燕国]] kills [[WuChen|武臣]], Chen Yu and [[ZhangEr|张耳]] can claim vengeance for Zhao's king and attack Yan. The source uses that possible incentive, not a direct statement from Chen Yu, to explain why Yan lets Wu Chen return.
 
+[[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] makes Chen Yu's local information network life-saving. After [[LiLiangZhaoGeneral|李良]] kills [[WuChen|武臣]] and attacks [[Handan|邯郸]], Chen Yu reportedly learns the news quickly because of his Zhao connections and marriage ties, then calls [[ZhangEr|张耳]] to flee with him. The episode uses this moment to show that elite networks and information speed can decide survival in the restored-Zhao collapse.
+
 ## Connections
 - [[KongFu|孔鲋]] - figure whose safety and later appointment Chen Yu helps mediate.
 - [[QinBookBurningPolicy|秦代焚书令]] - policy background for Chen Yu's visit.
@@ -31,3 +33,4 @@ The episode also adds a source-comparison problem. [[Shiji|《史记》]] gives 
 - [[WuChen|武臣]], [[CaiCi|蔡赐]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Qinji 128-5 Zhao kingship and refusal to coordinate westward attack.
 - [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - motive omission around Chen Yu and Zhang Er.
 - [[ZhaoServantEnvoy|赵厮养卒]], [[HanGuang|韩广]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Qinji 128-8 third-party incentive argument used to free Wu Chen.
+- [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[LiLiangZhaoGeneral|李良]], [[WuChen|武臣]], [[ZhangEr|张耳]], and [[Handan|邯郸]] - early warning and escape after Li Liang's coup.

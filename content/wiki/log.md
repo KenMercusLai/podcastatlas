@@ -9391,6 +9391,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心
+
+Added source page for Qinji 129-3: Chen Yu and Zhang Er's escape after Li Liang kills Wu Chen, Qin Jia and Zhu Jishi's local uprising and killing of Wu Ping Jun Pan, Sima Xin and Dong Yi's support for Zhang Han, Zhang He's failed Chen County defense, Zhuang Gu's killing of Chen Sheng, Chen Sheng's post-kingship alienation through arrogance, old-friend killings, and punitive inspectors, plus Lu Chen's revenge and Liu Bang's later tomb rites. Created Qin Jia (Rebel), Zhu Jishi, Wu Ping Jun Pan, Sima Xin, Dong Yi (Qin), Zhang He (Zhang Chu), Zhuang Gu, Lu Chen (Qin Rebel), Zhu Fang (Zhang Chu), Hu Wu (Zhang Chu), Rebel Founder Alienation, and Punitive Inspection Loyalty Trap; updated overview and index. No settled contradiction found; preserved uncertain transcript forms as source-scoped notes.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》128-8｜一名赵国炊事兵逆袭成为外交大臣
 
 Added source page for Qinji 128-8: Tian Dan's Di county killing and Qi restoration, Han Guang's installation as Yan king, Wu Chen's capture by Yan, the anonymous Zhao servant envoy's successful persuasion for Wu Chen's release, Zhou Shi's refusal to self-coronate and restoration of Wei Jiu, and Qin Er Shi's final deposition of Wey Jun Jiao. Created Zhao Servant Envoy, Han Guang, Zhou Shi (Rebel), and Low-Status Strategic Persuasion; updated Tian Dan (Qin Rebel), Wu Chen, Zhang Er, Chen Yu, Wei Jiu, Wey State, Wey Jun Jiao, Six-State Restoration Anti-Qin Strategy, Anti-Qin Coalition Fragmentation, and Interest Reframing Persuasion. No settled contradiction found; preserved transcript cautions around Tian Dan/田儋 and Zhou Shi/周市.
@@ -9679,6 +9683,10 @@ Ran lint after health and identity validation passed. Deterministic checks found
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集
 
 Added source page for Qinji 129-2: Tian Zang's defeat at Ao granary, Zhang Han's follow-on victories over Zhang Chu commanders, Li Si's fear-driven 《上书对二世》 and Hu Hai's extraction/killing incentives, and Li Liang's betrayal of restored Zhao after Wang Li's recruitment letter and Wu Chen's sister's drunken ritual insult. Created Li Liang (Zhao General), Wang Li (Qin), Wu Chen's Sister, Duze Extraction Politics, and Status Insult Defection Cascade; updated overview, index, Li Si, Qin Er Shi, Zhang Chu Regime, Tian Zang, Zhang Han, Wu Chen, Handan, Zhao State, Qin State, Anti-Qin Coalition Fragmentation, Legalist Ruler Technique, Court Feedback Collapse, and Lu Wine Handan War Cascade. No settled contradiction found; disambiguated the historical 李良 from the existing modern ByteDance Li Liang page and kept the final Qin Jia/Wu Ping Jun Pan fragment source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

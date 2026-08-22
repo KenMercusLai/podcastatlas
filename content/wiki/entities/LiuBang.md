@@ -2,7 +2,7 @@
 title: "Liu Bang / 刘邦"
 type: entity
 tags: [history, china, empire]
-sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-22
 ---
 
@@ -40,6 +40,8 @@ The same source then makes Liu Bang's return to [[PeiCounty|沛县]] a case of [
 
 [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] gives Liu Bang a parallel local-success line while Zhang Chu's central armies are breaking. Qin's Sishui commandery supervisor Ping besieges Liu Bang, but Liu Bang counterattacks successfully; [[XiahouYing|夏侯婴]] and [[XiaoHe|萧何]] then persuade Ping to surrender Huling. Liu Bang leaves Yong Chi to hold Feng County, moves north toward Xue County, and his left sima [[CaoWushang|曹无伤]] captures and kills the Sishui commandery governor Zhuang.
 
+[[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] adds Liu Bang as a later keeper of [[ChenSheng|陈胜]]'s memory rather than as the episode's main battlefield actor. After [[LuChenQinRebel|吕臣]] avenges and reburies Chen Sheng, the source says Liu Bang, after gaining the empire, assigns thirty households to guard Chen Sheng's tomb and maintain hereditary sacrifices. The episode uses this to separate Chen Sheng's failed personal rule from his continuing symbolic status as the initiator of the anti-Qin wave.
+
 ## Key Claims
 - Liu Bang's origin stories helped sacralize Han rule.
 - Founding mythology became a later vulnerability when legitimacy was read through signs.
@@ -53,6 +55,7 @@ The same source then makes Liu Bang's return to [[PeiCounty|沛县]] a case of [
 - Qinji 128-6 develops Liu Bang as Liu Ji of Pei County: a low-status but socially connected亭长 whose local official network, youxia habits, Lu Gong marriage, and "贺钱一万" performance become early political capital.
 - Qinji 128-7 develops Liu Bang's first uprising route: corvee escort failure, release of the laborers, Mangdang Mountain exile, the white-snake legitimacy rumor, return through Xiao He and Cao Shen, and Pei County's killing of the magistrate to make him Pei Gong.
 - Qinji 129-1 adds Liu Bang's first post-Pei County battlefield expansion: Huling surrender through Xiahou Ying and Xiao He, then the Xue County branch where Cao Wushang kills the Sishui commandery governor.
+- Qinji 129-3 adds Liu Bang's later Chen Sheng tomb-rite order as evidence that Chen Sheng's symbolic initiating role survived his personal collapse.
 
 ## Connections
 - [[WesternHanDynasty]] and [[WangMang]] - founding and late-dynasty contrast.
@@ -69,3 +72,4 @@ The same source then makes Liu Bang's return to [[PeiCounty|沛县]] a case of [
 - [[CharismaticPoliticalPerformance|造势型政治表演]], [[GrassrootsOfficialNetwork|基层官吏网络政治资本]], and [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Qinji 128-6 concepts for Liu Bang's early rise.
 - [[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]], [[MangdangMountain|芒砀山]], [[CaoShen|曹参]], [[PeiCountyUprisingMobilization|沛县起义动员]], and [[XiangYu|项羽]] - first armed mobilization and contrast with the Xiang family route.
 - [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]], [[XiahouYing|夏侯婴]], [[XiaoHe|萧何]], and [[CaoWushang|曹无伤]] - Huling surrender and Xue County campaign continuation.
+- [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[ChenSheng|陈胜]], [[LuChenQinRebel|吕臣]], and [[RebelFounderAlienation|起义首领人心疏离]] - later tomb rites preserving Chen Sheng's first-uprising memory.

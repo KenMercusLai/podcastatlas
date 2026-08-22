@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5032
+wiki_total_pages: 5034
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "PunishmentTheoryTradeoff"
     title: "Punishment Theory Tradeoff"
     url: "/wiki/concepts/punishmenttheorytradeoff/"
+  - key: "PunitiveInspectionLoyaltyTrap"
+    title: "Punitive Inspection Loyalty Trap / 苛察忠诚陷阱"
+    url: "/wiki/concepts/punitiveinspectionloyaltytrap/"
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"

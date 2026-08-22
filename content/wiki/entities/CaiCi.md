@@ -2,7 +2,7 @@
 title: "蔡赐 / Cai Ci"
 type: entity
 tags: [person, anti-qin, rebellion, adviser]
-sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -14,9 +14,12 @@ Cai Ci's argument is strategic rather than sentimental. [[QinState|秦国]] has 
 
 The episode reads the family relocation as practical soft detention. Cai Ci therefore becomes the adviser who preserves a temporary anti-Qin alignment, but his solution cannot prevent [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] once [[ZhangEr|张耳]] and [[ChenYu|陈馀]] persuade Wu Chen to prioritize Zhao's own expansion.
 
+[[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] adds Cai Ci's battlefield endpoint. The episode says [[ZhangHanQin|章邯]] has already defeated Wu Feng and killed Cai Ci before reaching the Chen County field. This turns Cai Ci from a temporary coalition-preserving adviser into one more senior Zhang Chu figure removed during Qin's counteroffensive.
+
 ## Connections
 - [[ChenSheng|陈胜]] and [[ZhangChuRegime|张楚政权]] - ruler and rebel regime Cai Ci advises.
 - [[WuChen|武臣]], [[ZhangEr|张耳]], and [[ChenYu|陈馀]] - Zhao-side figures whose move triggers the crisis.
 - [[QinState|秦国]] - undefeated common enemy in Cai Ci's argument.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider pattern Cai Ci delays but cannot solve.
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - restoration logic behind the Zhao title, now moving into separate-state interest.
+- [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] and [[ZhangHanQin|章邯]] - later defeat and death notice during Qin's push toward Chen Sheng.
