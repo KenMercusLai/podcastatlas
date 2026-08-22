@@ -48,6 +48,8 @@ The episode also reactivates Zhang Er's old Liu Bang connection. It recalls Liu 
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] gives Zhang Er a practical northern-front role. After [[HanXin|韩信]] defeats [[WeiBao|魏豹]] and asks for troops to attack Zhao, Yan, and Qi, [[LiuBang|刘邦]] sends Zhang Er to assist him. The source explains the appointment through Zhang Er's old roots in Zhao: he may not be the main battlefield technician, but he can help Han Xin recruit, navigate local ties, and turn the coming Zhao campaign into more than a foreign invasion.
 
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] puts that role into immediate danger at [[JingxingPass|井陉口]]. Zhang Er advances with Han Xin against [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]], meaning his old Zhao-world standing now works in two directions: it helps explain why Liu Bang assigned him to the northern campaign, but it also intensifies Chen Yu's personal motive to destroy the Han force.
+
 ## Connections
 - [[Xinlingjun|信陵君]] - earlier patron whose retainer network Zhang Er had belonged to.
 - [[LiuBang|刘邦]] - young admirer who turns to Zhang Er after missing Xinlingjun.
@@ -67,3 +69,4 @@ The episode also reactivates Zhang Er's old Liu Bang connection. It recalls Liu 
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[ChenYu|陈馀]], [[LiuBang|刘邦]], and [[PengchengBattle|彭城之战]] - protected ally whose apparent death is faked to gain Zhao participation.
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[HanWangXin|韩王信]], [[YingyangWarringStates|荥阳]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - remaining with Liu Bang while other lords defect after Pengcheng.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[HanXin|韩信]], [[ZhaoState|赵国]], and [[ChenYu|陈馀]] - northern campaign support through local Zhao roots.
+- [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]], [[JingxingPass|井陉口]], [[LiZuoChe|李左车]], and [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] - campaign setting where Chen Yu refuses the supply-cut plan and chooses direct confrontation.

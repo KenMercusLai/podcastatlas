@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5094
+wiki_total_pages: 5095
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "MoralSuspensionInArtReading"
     title: "Moral Suspension In Art Reading"
     url: "/wiki/concepts/moralsuspensioninartreading/"
+  - key: "MoralizedAntiDeceptionCommand"
+    title: "Moralized Anti-Deception Command / 道德化拒诈指挥"
+    url: "/wiki/concepts/moralizedantideceptioncommand/"
   - key: "MoralizedShiIdentity"
     title: "Moralized Shi Identity / 士的道德化身份"
     url: "/wiki/concepts/moralizedshiidentity/"

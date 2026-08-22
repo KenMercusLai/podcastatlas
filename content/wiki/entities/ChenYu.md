@@ -50,6 +50,10 @@ The episode therefore turns Chen Yu's earlier caution into a personal dispossess
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds the delayed cost of that bargain. Chen Yu discovers that [[ZhangEr|张耳]] is alive after all and interprets Liu Bang's earlier substitute head as deception, so his post-Pengcheng return toward [[XiangYu|项羽]] now has a personal trust-rupture reason as well as a power-repricing reason. This sets up the coming Zhao confrontation with [[HanXin|韩信]] and Zhang Er.
 
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] makes Chen Yu the decisive Zhao-side commander at [[JingxingPass|井陉口]]. [[LiZuoChe|李左车]] proposes cutting Han Xin and Zhang Er's long supply line while Chen Yu fortifies and refuses battle, but Chen Yu rejects the plan by invoking a "义兵" posture and refusing deceptive or strange stratagems. The source treats this as a practical mistake because the terrain, numbers, and logistics favor Zhao if Chen Yu exploits them.
+
+The same episode complicates Chen Yu's moral identity. He claims to be a儒者 leading a righteous army, yet his hatred of Zhang Er remains intense enough that the host uses him as an example of why one label or one action cannot settle a person's character. Chen Yu now becomes the source case for [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] rather than only for alliance rupture.
+
 ## Connections
 - [[KongFu|孔鲋]] - figure whose safety and later appointment Chen Yu helps mediate.
 - [[QinBookBurningPolicy|秦代焚书令]] - policy background for Chen Yu's visit.
@@ -70,3 +74,4 @@ The episode therefore turns Chen Yu's earlier caution into a personal dispossess
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[LiuBang|刘邦]], [[PengchengBattle|彭城之战]], and [[MoralizedWarPretext|道德化战争借口]] - Zhao participation after Liu Bang deceives him with a substitute Zhang Er head.
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[ZhaoXie|赵歇]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-Pengcheng return toward Xiang Yu.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[LiuBang|刘邦]], [[ZhangEr|张耳]], and [[HanXin|韩信]] - discovery of the substitute-head deception and setup for the Zhao campaign.
+- [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]], [[LiZuoChe|李左车]], [[JingxingPass|井陉口]], [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - rejection of the supply-cut plan and Shiji/Tongjian wording contrast around his stated motive.

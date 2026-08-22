@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6638
+wiki_total_pages: 6640
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "Jiuding"
     title: "九鼎 / Jiuding"
     url: "/wiki/entities/jiuding/"
+  - key: "JingxingPass"
+    title: "井陉口 / Jingxing Pass"
+    url: "/wiki/entities/jingxingpass/"
   - key: "JiaoheAncientCity"
     title: "交河故城 / Jiaohe Ancient City"
     url: "/wiki/entities/jiaoheancientcity/"

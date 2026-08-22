@@ -26,6 +26,8 @@ Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式�
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] makes Zhao Xie the next political target after [[HanXin|韩信]] defeats [[WeiBao|魏豹]] and takes [[DaiState|代地]]. Han Xin proposes moving through Zhao, Yan, and Qi so the northern line can pressure [[XiangYu|项羽]]'s grain route, while [[ChenYu|陈馀]]'s discovery that [[ZhangEr|张耳]] is still alive sets up the coming Zhao conflict.
 
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] places Zhao Xie with Chen Yu at [[JingxingPass|井陉口]], where Zhao holds terrain and claimed numerical superiority against Han Xin and Zhang Er. Zhao Xie's restored kingship is still mediated through Chen Yu's command decisions: [[LiZuoChe|李左车]] sees a supply-line solution, but Chen Yu's rejection leaves Zhao committed to a direct fight as the transcript moves toward the backwater battle.
+
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - figures who install Zhao Xie.
 - [[WuChen|武臣]] and [[LiLiangZhaoGeneral|李良]] - killed predecessor and rebel defector whose defeat opens the restoration choice.
@@ -36,3 +38,4 @@ Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式�
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]], [[ChenYu|陈馀]], [[ZhangEr|张耳]], and [[XiaShuo|夏说]] - restoration from Dai back to Zhao after Chen Yu's victory.
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-Pengcheng return toward Xiang Yu.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[HanXin|韩信]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[DaiState|代地]] - setup for the northern campaign into Zhao.
+- [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]], [[JingxingPass|井陉口]], [[LiZuoChe|李左车]], and [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] - Zhao defensive advantage and the rejected supply-line plan.

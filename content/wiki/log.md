@@ -10090,3 +10090,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）
+
+Added source page for Hanji 156 part 1: Han Xin and Zhang Er's move toward Zhao through Jingxing, Zhao Xie and Chen Yu's defensive advantage, Li Zuoche's supply-line interdiction plan, Chen Yu's refusal under "义兵不用诈谋奇计" reasoning, and the source-scoped red-flag camp shock before the transcript stops. Created Li Zuoche, Jingxing Pass, and Moralized Anti-Deception Command; updated overview, index, Han Xin, Zhang Er, Chen Yu, Zhao Xie, Li Mu, Taihang Road, Battlefield Encirclement Logistics, Transport Corridor Severance, Battlefield Information Control, Textual Omission Attribution Shift, and Confucian Military Idealism Limits. No settled contradiction found; the incomplete "背水一战" narration remains source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,991 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not updated.

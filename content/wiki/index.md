@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）](sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l.md) — 芮淇讲透资治通鉴 episode opening Han Xin's Jingxing campaign against Zhao through terrain, supply-line risk, Li Zuoche's rejected plan, and Chen Yu's moralized refusal of stratagem.
 - [《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”](sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l.md) — 芮淇讲透资治通鉴 episode on Wei Bao's humiliation-driven break, Han Xin's Linjin/Puban feint and Xiayang crossing, West Wei commandery conversion, and the constrained northern strategy toward Dai/Zhao/Yan/Qi.
 - [《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧](sources/zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh.md) — 芮淇讲透资治通鉴 episode on Wei Bao's renewed turn toward Xiang Yu, Feiqiu's fall and Zhang Han's suicide, the Guanzhong famine, and Ren氏's grain-hoarding fortune under wartime scarcity.
 - [《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？](sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8.md) — 芮淇讲透资治通鉴 episode resolving the Chen Ping "盗嫂/受金" accusations through Wei Wuzhi's talent defense, Chen Ping's practical money explanation, Liu Bang's renewed trust, and source-critical skepticism toward the family-scandal smear.
@@ -1262,6 +1263,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [井陉口 / Jingxing Pass](entities/JingxingPass.md) — Taihang pass and Zhao-campaign chokepoint where Han Xin's army faces narrow-road, ambush, and supply-line exposure.
+- [李左车 / Li Zuoche](entities/LiZuoChe.md) — Zhao Guangwu Jun and Li Mu's grandson whose rejected Jingxing plan targets Han Xin's long supply line.
 - [卢绾 / Lu Wan](entities/LuWan.md) — Han-side figure sent with Liu Jia to support Peng Yue's grain-route pressure after Han Xin's northern army is repeatedly drained.
 - [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent to support Peng Yue's anti-Chu grain-route pressure in Hanji 155-2.
 - [晋阳 / Jinyang](entities/Jinyang.md) — Northern place Han Xin takes after defeating Dai forces, becoming the Taiyuan commandery hinge in Hanji 155-2.
@@ -1313,7 +1316,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏说 / Xia Shuo](entities/XiaShuo.md) — Chen Yu delegate appointed to manage Dai while Chen Yu stays in Zhao after restoring Zhao Xie.
 - [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him toward Liu Bang and whose Lu-regency opposition contrasts with Chen Ping.
 - [王陵母亲 / Mother of Wang Ling](entities/WangLingMother.md) — Unnamed hostage whose suicide blocks Xiang Yu's coercion and turns corpse desecration into political backfire.
-- [韩信 / Han Xin](entities/HanXin.md) — Future Han general now extended from Huaiyin poverty and 忍辱大勇 into public command, Hanzhong Dui, Qin-style army reform, and the Chen Cang campaign.
+- [韩信 / Han Xin](entities/HanXin.md) — Han general whose arc now runs from Huaiyin restraint and Hanzhong appointment through the Three Qin, West Wei, Dai, and Jingxing campaign setup.
 - [陈仓 / Chen Cang](entities/ChenCang.md) — Hanji 148-1 route and battle point where Han Xin's layered feints become the central breakthrough against Zhang Han.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
 - [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer who both joins the old-general accusation against Chen Ping and later pairs with him in Lu Zhi-era survival and post-Lu restoration.
@@ -1456,7 +1459,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [秦直道 / Qin Straight Road](entities/QinZhidao.md) — Meng Tian-led road project from Yunyang to Jiuyuan, treated as part of late Qin construction overload.
 - [淳于越 / Chunyu Yue](entities/ChunyuYue.md) — Qi-born Qin court scholar whose revived enfeoffment argument triggers Li Si's book-burning proposal.
 - [孔鲋 / Kong Fu](entities/KongFu.md) — Confucius descendant who hides books after Qin's book-burning order and later serves Chen Sheng's rebel regime as博士.
-- [陈馀 / Chen Yu](entities/ChenYu.md) — Zhao restoration actor whose rupture with Zhang Er and small post-partition reward become a Qi-backed attack to restore Zhao Xie.
+- [陈馀 / Chen Yu](entities/ChenYu.md) — Zhao restoration actor whose Zhang Er rupture now culminates in rejecting Li Zuoche's Jingxing supply-cut plan under a righteous-army claim.
 - [陈胜 / Chen Sheng](entities/ChenSheng.md) — Dazexiang uprising co-leader who expands to Chen County, rejects six-state restoration counsel, and declares Zhang Chu.
 - [吴广 / Wu Guang](entities/WuGuang.md) — Dazexiang uprising co-leader later appointed acting Zhang Chu king to supervise the westward attack on Yingyang.
 - [《尚书》 / Shangshu](entities/Shangshu.md) — Classic named with Shijing as a private-text target under Qin's book-burning order.
@@ -1581,7 +1584,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Los Angeles Unified School District](entities/LosAngelesUnifiedSchoolDistrict.md) — School system used in Pratt's spending-transparency critique around outcomes, parent fundraising, and public dashboards.
 - [Los Angeles Metro](entities/LosAngelesMetro.md) — Transit agency used in Pratt's argument that safety and fare enforcement must precede ridership and expansion ambitions.
 - [Peter Chernin](entities/PeterChernin.md) — Media-industry figure Pratt cites to narrow what a Los Angeles mayor can do for independent production.
-- [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose apparent frontier avoidance becomes a prepared bait-and-encirclement victory against Xiongnu.
+- [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose frontier patience, anti-Qin resistance, and later family afterlife extend through Li Zuoche's Jingxing advice.
 - [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic opponent in Li Mu's frontier command story, framed through mobile horse-archery raiding and later Han comparison.
 - [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general whose arc now runs from Zhao campaigns and Yan retaliation to property-request self-protection and fortified attrition against Chu.
 - [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose exposed canal mission both enlarges Qin's grain base and triggers the guest-expulsion crisis.
@@ -1589,7 +1592,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
 - [郭开 / Guo Kai](entities/GuoKai.md) — Zhao court enemy of Lian Po who bribes the recall envoy and blocks Lian Po's return.
 - [乐乘 / Le Cheng](entities/LeCheng.md) — Former Yan general in Zhao service whose appointment to replace Lian Po triggers Lian Po's break with Zhao.
-- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer and Chen Sheng adviser who urges restoring six-state royal descendants before Chen Sheng claims kingship.
+- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer and Liu-side survivor whose Zhao roots now make him Han Xin's assistant and Chen Yu's personal target in the Jingxing campaign.
 - [苏高 / Su Gao](entities/SuGao.md) — Anling subordinate whose refusal to attack Guancheng, defended by his son, creates the episode's father-son and ruler-subject duty conflict.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
@@ -7904,6 +7907,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
 - [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
 - [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.
 - [Wartime Agricultural Labor Collapse / 战争抽空农业劳动力](concepts/WartimeAgriculturalLaborCollapse.md) — Famine mechanism where mass warfare removes farmers from fields, leaving food output and prices to break down.

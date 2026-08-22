@@ -22411,6 +22411,10 @@
     "title": "《精神吸血鬼》",
     "url": "/wiki/entities/jingshenxixueguibook/"
   },
+  "JingxingPass": {
+    "title": "井陉口 / Jingxing Pass",
+    "url": "/wiki/entities/jingxingpass/"
+  },
   "JingyangJunQin": {
     "title": "泾阳君 / Jingyang Jun (Qin)",
     "url": "/wiki/entities/jingyangjunqin/"
@@ -24802,6 +24806,10 @@
   "LiZongmin": {
     "title": "李宗闵",
     "url": "/wiki/entities/lizongmin/"
+  },
+  "LiZuoChe": {
+    "title": "李左车 / Li Zuoche",
+    "url": "/wiki/entities/lizuoche/"
   },
   "LianKuoru": {
     "title": "连阔如 / Lian Kuoru",
@@ -28698,6 +28706,10 @@
   "MoralSuspensionInArtReading": {
     "title": "Moral Suspension In Art Reading",
     "url": "/wiki/concepts/moralsuspensioninartreading/"
+  },
+  "MoralizedAntiDeceptionCommand": {
+    "title": "Moralized Anti-Deception Command / 道德化拒诈指挥",
+    "url": "/wiki/concepts/moralizedantideceptioncommand/"
   },
   "MoralizedShiIdentity": {
     "title": "Moralized Shi Identity / 士的道德化身份",
@@ -51078,6 +51090,10 @@
   "zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l": {
     "title": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”",
     "url": "/wiki/sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l/"
+  },
+  "zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l": {
+    "title": "《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",
