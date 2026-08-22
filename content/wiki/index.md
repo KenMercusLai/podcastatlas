@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军](sources/zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu.md) — 芮淇讲透资治通鉴 episode completing Sui He's Jiujiang mission by persuading Ying Bu privately, publicly exposing the defection before a Chu envoy, and forcing Xiang Yu to divide pressure away from Liu Bang.
 - [《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）](sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3.md) — 芮淇讲透资治通鉴 episode on Han Xin honoring Li Zuoche after Jingxing, resting and pacifying Zhao, using envoy pressure to make Yan submit, requesting Zhang Er as Zhao king, and previewing Sui He's mission to Ying Bu.
 - [《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）](sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i.md) — 芮淇讲透资治通鉴 episode explaining why Han Xin's backwater battle worked through death-ground morale only after spies, enemy-choice confirmation, and hidden cavalry made the tactic usable.
 - [《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2）](sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Jingxing backwater battle through spy confirmation, hidden red-flag cavalry, feigned defeat, Zhao camp seizure, morale collapse, Chen Yu's death, and Zhao Xie's capture.
@@ -1283,7 +1284,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [废丘 / Feiqiu](entities/Feiqiu.md) — Zhang Han's final holdout city after Han Xin's Three Qin breakthrough, flooded by Han forces before Zhang Han's suicide.
 - [李璧 / Li Bi](entities/LiBiQinCavalry.md) — Former Qin cavalry specialist who advises Liu Bang to place Guan Ying over the new Han cavalry force while serving as a deputy.
 - [骆甲 / Luo Jia](entities/LuoJiaQinCavalry.md) — Former Qin cavalry specialist paired with Li Bi in recommending Guan Ying for the post-Pengcheng Han cavalry command.
-- [随何 / Sui He](entities/SuiHe.md) — Liu Bang-side envoy whose Jiujiang mission to persuade Ying Bu becomes the next diplomatic thread after Han Xin settles Zhao/Yan.
+- [随何 / Sui He](entities/SuiHe.md) — Liu Bang-side envoy who turns Ying Bu by combining interest reframing with public no-return pressure before Xiang Yu's envoy.
+- [Jiujiang Kingdom / 九江国](entities/JiujiangChuHan.md) — Ying Bu's Chu-Han power base and the court setting where Sui He turns a private defection promise into an open break with Xiang Yu.
 - [曾赫 / Zeng He](entities/ZengHe.md) — Liu Bang-side commander who preserves formation during the Pengcheng rout and helps block Chu cavalry.
 - [审食其 / Shen Yiji](entities/ShenYiji.md) — Companion of Liu Taigong and Lu Zhi captured by Chu after the Pengcheng rout, kept source-scoped to the hostage chain.
 - [吕泽 / Lu Ze](entities/LuZe.md) — Lu Zhi's brother and Liu-side commander whose Xiayi troops give Liu Bang a post-Pengcheng rally point.
@@ -1402,7 +1404,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵歇 / Zhao Xie](entities/ZhaoXie.md) — Old Zhao royal descendant installed by Zhang Er and Chen Yu after Wu Chen's death and Li Liang's defeat.
 - [景驹 / Jing Ju](entities/JingJu.md) — Provisional Chu claimant set up by Qin Jia and Ning Jun after Chen Sheng's collapse; transcript renders him as 景居.
 - [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
-- [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu makes him the target of Sui He's Liu-side mission.
+- [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu becomes open defection after Sui He's public commitment trap.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
 - [秦嘉 / Qin Jia (Rebel)](entities/QinJiaRebel.md) — Local anti-Qin rebel leader who refuses Chen Sheng's monitor Wu Ping Jun Pan and kills him under a false Chen Sheng order.
 - [朱鸡石 / 朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader later defeated by Zhang Han and executed by Xiang Liang; source spellings vary.
@@ -7910,6 +7912,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Han Xin/Li Zuoche pattern where a fresh battlefield victory is converted into envoy-backed surrender pressure rather than immediate assault.
 - [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, hidden red-flag cavalry, Zhao morale collapse, and later victory-to-diplomacy conversion.
 - [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, and surprise have already made forced commitment usable.

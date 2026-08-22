@@ -10075,6 +10075,10 @@ Added source page for Hanji 154: the follow-up to Chen Ping's "盗嫂/受金" ac
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军
+
+Added source page for Hanji 158: Sui He's mission to Jiujiang, his reading of Ying Bu's hesitation, the interest-reframing argument against continued Chu alignment, Ying Bu's private acceptance of Han, Sui He's public declaration before Xiang Yu's envoy, the envoy killing that closes Ying Bu's return path, and the strategic effect of forcing Xiang Yu to divide pressure away from Liu Bang. Created Jiujiang Kingdom and Irreversible Defection Binding; updated overview, index, Sui He, Ying Bu, Liu Bang, Xiang Yu, Zhang Liang, Xiayi Plan, Xingyang Standoff, Power-Based Alliance Repricing, Interest Reframing Persuasion, Chuaimo Technique, and Envoy Killing Taboo. No settled contradiction found; the host's "见利忘义" judgment on Ying Bu and the envoy-killing norm breach are kept source-scoped.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”
 
 Added source page for Hanji 155-2: Wei Bao's humiliation grievance against Liu Bang, Han Xin's Linjin/Puban feint and Xiayang crossing against Anyi, Cao Shen and Guan Ying's pursuit, Wei Bao's capture, West Wei commandery conversion into Hedong/Shangdang/Taiyuan, Chen Yu's discovery of the Zhang Er deception, and Han Xin's constrained northern strategy through Dai toward Zhao/Yan/Qi. Created River Crossing Deception, Bo Zhi, Zhou Shu, Feng Jing, Xiang Tuo, Xiayang, Hedong Commandery, Jinyang, Liu Jia, and Lu Wan; updated related Chu-Han actor, place, strategy, and commandery pages. No settled contradiction found; this source completes Hanji 155-1's open "声东击西" setup.
@@ -10117,6 +10121,10 @@ Ran lint after health and identity validation passed. Health scanned 12,995 wiki
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）
 
 Added source page for Hanji 157 part 2: Han Xin's post-Jingxing intelligence advantage, capture and honored treatment of Li Zuoche, Li Zuoche's exhausted-army warning, the rest-and-pacify strategy for Zhao, envoy pressure that makes Yan submit, Zhang Er's Liu-approved Zhao kingship, Xiang Yu's pressure against the new Zhao front, and the handoff toward Sui He's mission to Ying Bu. Created Victory Deterrence Diplomacy; updated overview, index, Han Xin, Li Zuoche, Zhang Er, Liu Bang, Sui He, Ying Bu, Baili Xi, Zhao State, Yan State, Qi State, Backwater Battle, Death-Ground Tactical Preconditions, Political Surrender Cascade, Occupation Pacification Strategy, Talent Attraction Through Respect, and Use Strengths Over Faults. No settled contradiction found; normalized transcript 陈瑜 to Chen Yu and kept Qi's surrender as Li Zuoche's source-scoped prediction.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

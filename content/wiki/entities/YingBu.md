@@ -2,7 +2,7 @@
 title: "英布 / 黥布 / Ying Bu"
 type: entity
 tags: [person, anti-qin, rebellion, qin-han, military]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-23
 ---
 
@@ -34,7 +34,12 @@ In the episode's reading, Ying Bu's corridor attack is what makes the later [[Br
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] brings Ying Bu back as the next target of Liu Bang-side diplomacy. After the Han Xin-Zhao sequence, the episode turns to [[SuiHe|随何]]'s arrival on the Jiujiang route and previews the effort to make Ying Bu abandon [[XiangYu|项羽]], tying his earlier trust fracture to the next phase of [[XiayiPlan|下邑画策]] implementation.
 
+[[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]] gives the defection itself. Ying Bu receives Sui He at [[JiujiangChuHan|九江国]] only after delay, showing that he wants a Han-side option while avoiding visible rupture with Chu. Sui He then forces Ying Bu to face the inconsistency between calling himself Xiang Yu's subject and withholding full support during Xiang Yu's Qi campaign and Liu Bang's Pengcheng occupation.
+
+The episode presents Ying Bu's acceptance as both interest-based and unstable. He privately says "请奉命" to Sui He, but asks for secrecy because he still fears Xiang Yu. When Sui He publicly announces the defection before a Chu envoy and urges the envoy's death, Ying Bu is pushed into [[IrreversibleDefectionBinding|断路式策反绑定]]. He kills the envoy, attacks Chu, later loses to Chu forces, and flees with Sui He in civilian clothes to Liu Bang.
+
 ## Connections
+- [[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]], [[JiujiangChuHan|九江国]], [[SuiHe|随何]], and [[IrreversibleDefectionBinding|断路式策反绑定]] - private acceptance, public rupture, envoy killing, and flight to Liu Bang after defeat.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[SuiHe|随何]], [[XiangYu|项羽]], and [[XiayiPlan|下邑画策]] - preview of the diplomatic effort to pull Jiujiang away from Chu.
 - [[Lishan|骊山]] and [[QinState|秦国]] - punishment and convict-labor background.
 - [[LuChenQinRebel|吕臣]], [[ChenSheng|陈胜]], and [[ZhangChuRegime|张楚政权]] - Chu-side recovery field in which Ying Bu appears.

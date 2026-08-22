@@ -1,9 +1,9 @@
 ---
 title: "Interest Reframing Persuasion / 利益重构式说服"
 type: concept
-tags: [persuasion, diplomacy, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
-last_updated: 2026-08-22
+tags: [persuasion, diplomacy, strategy, pre-qin-history, warring-states, chu-han]
+sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
+last_updated: 2026-08-23
 ---
 
 # Interest Reframing Persuasion / 利益重构式说服
@@ -24,6 +24,8 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 
 [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] adds a low-status variant through [[ZhaoServantEnvoy|赵厮养卒]]. He persuades [[YanState|燕国]] to release [[WuChen|武臣]] not by asking for kindness to Zhao, but by arguing that killing Wu Chen would help [[ZhangEr|张耳]] and [[ChenYu|陈馀]] claim a punitive pretext against Yan. The same interest-reframing logic works here through [[LowStatusStrategicPersuasion|低位者战略说服]]: the servant wins because he identifies the third-party incentive Yan has missed.
 
+[[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]] adds a Chu-Han defection variant through [[SuiHe|随何]]. Speaking to [[YingBu|英布]], Sui He grants that [[XiangYu|项羽]] looks powerful, but reframes that strength as a liability: Chu carries the legitimacy burden of killing [[MiXin|义帝芈心]], faces long supply lines, and may attract the lords' joint resistance if it becomes too dominant. The argument works because it turns Ying Bu's fear of Chu into a reason to treat Han as the better long-term option.
+
 ## Key Claims
 - Effective weak-side persuasion may work by confirming the stronger side's power before narrowing the question to risk-adjusted advantage.
 - The argument must name the stronger side's concrete exposure: routes, allies, rear security, future rivals, and lost strategic sequencing.
@@ -35,6 +37,7 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - Zhouji 96 part 3 adds that interest reframing can be layered under moral rhetoric: the speaker can first make submission shameful, then make it look personally unsafe for the decision-maker.
 - Qinji 101-1 adds that interest reframing can break a siege by making the defender compare active exits instead of treating continued paralysis as safety.
 - Qinji 128-8 adds that interest reframing can come from a low-status envoy if the argument clarifies a third party's incentive better than formal diplomacy does.
+- Hanji 158 adds that interest reframing can serve as the first stage of defection work: the target must see the current patron's apparent strength as future danger before a no-return commitment device can work.
 
 ## Connections
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - source case and decision point.
@@ -47,3 +50,4 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - [[LuZhonglian|鲁仲连]], [[XinyuanYan|新垣衍]], [[SubmissionThroughStatusElevation|尊号式投降方案]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 personal-risk reframing against title submission.
 - [[LiaochengWarringStates|辽城]], [[LiaochengCommanderDilemma|辽城守将进退困局]], [[YanWangXi|燕王喜]], and [[TianDan|田单]] - Qinji 101-1 commander-exit reframing.
 - [[ZhaoServantEnvoy|赵厮养卒]], [[WuChen|武臣]], [[HanGuang|韩广]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Qinji 128-8 captive-release reframing.
+- [[SuiHe|随何]], [[YingBu|英布]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[IrreversibleDefectionBinding|断路式策反绑定]] - Hanji 158 defection reframing and public commitment closure.

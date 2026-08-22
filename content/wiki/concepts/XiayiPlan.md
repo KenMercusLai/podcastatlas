@@ -2,7 +2,7 @@
 title: "Xiayi Plan / 下邑画策"
 type: concept
 tags: [strategy, alliance, warfare, chu-han, delegation]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
+sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
 last_updated: 2026-08-23
 ---
 
@@ -15,6 +15,8 @@ The plan is a strategic redesign after failure. Zhang Liang does not tell Liu Ba
 The concept therefore links incentives, delegation, and multi-front pressure. Liu Bang's reward promise supplies the price, Zhang Liang's diagnosis supplies the target list, and [[SuiHe|随何]]'s volunteered mission to Ying Bu begins the execution phase. The point is not that Liu Bang has recovered strength already, but that he has stopped treating strength as one army under his own direct command.
 
 [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] adds the first execution environment. Sui He leaves with a small party for Jiujiang, while Liu Bang falls back to [[YingyangWarringStates|荥阳]], [[XiaoHe|萧何]] and [[HanXin|韩信]] help stabilize the front, and [[HanCavalryFormation|汉军骑兵建设]] under [[GuanYing|灌婴]] begins to answer Xiang Yu's cavalry advantage. The plan now has both an external diplomatic leg and a holding front.
+
+[[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]] completes the Ying Bu leg. [[SuiHe|随何]] converts the damaged Xiang Yu-Ying Bu relationship into open defection by first persuading Ying Bu privately at [[JiujiangChuHan|九江国]], then exposing the commitment before a Chu envoy and pushing Ying Bu into [[IrreversibleDefectionBinding|断路式策反绑定]]. The plan's diplomatic line therefore succeeds not merely by offering reward, but by making the defection impossible to quietly reverse.
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds the northern leg in execution and limitation. After defeating [[WeiBao|魏豹]], Han Xin asks for troops to move through Zhao, Yan, and Qi and then cut Chu's grain route from the north. Liu Bang accepts enough to send [[ZhangEr|张耳]] with him, but the repeated removal of elite troops for Xingyang means the full cutoff plan is not completed by Han Xin; the pressure shifts toward [[PengYue|彭越]] with [[LiuJia|刘贾]] and [[LuWan|卢绾]].
 
@@ -29,6 +31,7 @@ Xiayi Plan is adjacent to [[StrategicRetreatBaseBuilding|退让式根据地经�
 - The plan turns [[PowerBasedAllianceRepricing|实力重估式阵营转向]] back against Xiang Yu by trying to make his own strong subordinate and rear threats reprice the field.
 - Hanji 153 part 2 adds that the plan needs a material holding environment: without [[XingyangStandoff|荥阳相持]], cavalry repair, and Aocang-linked logistics, diplomacy alone cannot buy Liu Bang enough time.
 - Hanji 155-2 adds that delegated fronts can be strategically correct while still resource-constrained by the main front's survival needs and ruler mistrust.
+- Hanji 158 adds that a defection leg may require a no-return device after persuasion: Ying Bu's private assent has to be made public and costly before it reliably changes the war.
 
 ## Connections
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[Xiayi|下邑]] - defeated ruler, strategist, and planning site.
@@ -39,4 +42,5 @@ Xiayi Plan is adjacent to [[StrategicRetreatBaseBuilding|退让式根据地经�
 - [[Wuguan|武关]] - reward boundary in Liu Bang's offer of lands east of the pass.
 - [[StrategicRetreatBaseBuilding|退让式根据地经营]], [[CommonEnemyAlliance|共同敌人联盟]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - related recovery, alliance, and post-defeat repricing patterns.
 - [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]], [[XingyangStandoff|荥阳相持]], [[HanCavalryFormation|汉军骑兵建设]], and [[Aocang|敖仓]] - first execution layer after the plan.
+- [[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]], [[JiujiangChuHan|九江国]], [[InterestReframingPersuasion|利益重构式说服]], and [[IrreversibleDefectionBinding|断路式策反绑定]] - completed Ying Bu defection leg.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[ZhangEr|张耳]], [[DaiState|代国]], [[ZhaoState|赵国]], [[QiState|齐国]], and [[LiuJia|刘贾]] - northern execution, constrained cutoff, and shifted rear-pressure support.

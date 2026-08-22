@@ -1,9 +1,9 @@
 ---
 title: "揣摩 / Chuaimo Technique"
 type: concept
-tags: [rhetoric, persuasion, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
-last_updated: 2026-08-21
+tags: [rhetoric, persuasion, diplomacy, pre-qin-history, warring-states, chu-han]
+sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
+last_updated: 2026-08-23
 ---
 
 # 揣摩 / Chuaimo Technique
@@ -24,6 +24,8 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] adds Fan Ju's audience-reading version. Fan Ju reads Qin Zhaoxiang Wang's frustration with [[XuanTaihou|宣太后]] and [[WeiRan|魏冉]], uses a shock line to force recognition, and then withholds the answer until the ruler is ready to protect him. The source also makes eavesdropper awareness part of the reading: the argument is timed not only to the ruler's psychology but to who else may hear it.
 
+[[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]] adds [[SuiHe|随何]]'s Chu-Han version. Sui He reads [[YingBu|英布]] through delay and hospitality: Ying Bu does not want to reject Han, but is afraid to meet openly because [[XiangYu|项羽]] is still dangerous. In the audience, Sui He watches Ying Bu's reaction, waits until the argument loosens him, and only then states the concrete proposal to join [[LiuBang|刘邦]].
+
 ## Key Claims
 - Persuasion depends on reading the situation and the audience together.
 - Technique does not erase access problems; Su Qin still fails when the listener, court mood, or local reputation blocks reception.
@@ -34,6 +36,7 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 - In Zhouji 32, chuaimo becomes [[DignityBasedPersuasion|dignity-based persuasion]] when threat analysis is tuned to what would make each ruler feel dishonored by submission.
 - In Zhouji 84, chuaimo can be defensive: a vulnerable envoy wins room for his state by reading what dangers the stronger ruler is prepared to recognize.
 - In Zhouji 88 part 2, chuaimo becomes protected remonstrance: the adviser reads the ruler's hidden grievance, the room's information risk, and the protection needed before the critique can be voiced.
+- In Hanji 158, chuaimo becomes defection persuasion: the envoy reads delay, fear, body language, and the arrival of a rival envoy to decide when to switch from argument to commitment pressure.
 
 ## Connections
 - [[SuQin|苏秦]], [[ZhangYiStrategist|张仪]], [[YinfuJing|《阴符》]], and [[Guiguzi|鬼谷子]] - biographical, interpersonal, textual, and rhetorical sources of the concept.
@@ -43,4 +46,5 @@ The episode also links chuaimo to [[Guiguzi|鬼谷子]] because the received Gui
 - [[DignityBasedPersuasion|尊严激将式说服]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 audience-specific extension.
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 84 incentive-reading and risk-reframing extension.
 - [[FanJu|范雎]], [[WeiRan|魏冉]], [[XuanTaihou|宣太后]], and [[ProtectiveRemonstranceSequencing|护身符式进言]] - Zhouji 88 part 2 audience reading, shock, delay, and protection sequence.
+- [[SuiHe|随何]], [[YingBu|英布]], [[JiujiangChuHan|九江国]], [[InterestReframingPersuasion|利益重构式说服]], and [[IrreversibleDefectionBinding|断路式策反绑定]] - Hanji 158 delay-reading, reaction-reading, and forced public commitment.
 - [[FailureDrivenSelfStudy|失败后的自学翻身]] - learning pattern that precedes the method.

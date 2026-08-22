@@ -2,7 +2,7 @@
 title: "Xingyang Standoff / 荥阳相持"
 type: concept
 tags: [warfare, chu-han, logistics, campaign, stalemate]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
+sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
 last_updated: 2026-08-23
 ---
 
@@ -14,6 +14,8 @@ The episode treats the phase as a repair system. [[XiaoHe|萧何]] raises emerge
 
 The concept therefore names the shift from flight to durable contest. Liu Bang still has not solved the war after Pengcheng, but he has found a defensive position, a supply route, a manpower channel, and a cavalry response that keep [[XiangYu|项羽]] from turning the rout into immediate final collapse.
 
+[[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]] adds the diplomatic pressure relief that makes the standoff easier to hold. [[SuiHe|随何]]'s successful persuasion of [[YingBu|英布]] in [[JiujiangChuHan|九江国]] forces [[XiangYu|项羽]] to divide attention and eventually send forces against Ying Bu, reducing the pressure that could otherwise have followed Liu Bang from Pengcheng into Xingyang.
+
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds the cost of keeping that front alive. [[HanXin|韩信]] is allowed to open the northern campaign after defeating [[WeiBao|魏豹]], but [[LiuBang|刘邦]] repeatedly pulls elite soldiers from Han Xin's army to patch the Xingyang front. The standoff therefore competes with offensive strategy: it preserves Liu Bang's center while limiting how far Han Xin can carry the northern grain-route cutoff.
 
 ## Key Claims
@@ -23,10 +25,12 @@ The concept therefore names the shift from flight to durable contest. Liu Bang s
 - The source frames the Chu-Han standoff as lasting from Han year 2, sixth month, to Han year 4, ninth month: two years and three months.
 - The phase turns [[XiayiPlan|下邑画策]] from a strategic design into the material holding environment needed for that design to work.
 - Hanji 155-2 adds that a holding front can consume the elite manpower needed for delegated offensive operations elsewhere.
+- Hanji 158 adds the other side of the same exchange: successful diplomacy against Ying Bu buys time for Xingyang by forcing Xiang Yu to fight a new southern/rear problem.
 
 ## Connections
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PengchengBattle|彭城之战]] - defeated leader, opposing commander, and precipitating rout.
 - [[YingyangWarringStates|荥阳]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - front geography, grain source, and the broader importance of route control.
 - [[XiaoHe|萧何]], [[HanXin|韩信]], [[GuanYing|灌婴]], and [[HanCavalryFormation|汉军骑兵建设]] - manpower, command, and mounted-force repair.
 - [[XiayiPlan|下邑画策]] and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - strategic plan and post-defeat alliance field that require a stable front.
+- [[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]], [[SuiHe|随何]], [[YingBu|英布]], and [[IrreversibleDefectionBinding|断路式策反绑定]] - diplomatic pressure relief that helps make the holding front durable.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[WeiBao|魏豹]], [[DaiState|代国]], and [[PengYue|彭越]] - northern offensive constrained by the need to reinforce Xingyang.
