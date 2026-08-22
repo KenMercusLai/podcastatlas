@@ -2,7 +2,7 @@
 title: "陈胜 / Chen Sheng"
 type: entity
 tags: [person, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,10 @@ The source's closing also previews Chen Sheng's later problem. [[GeYing|葛婴]]
 
 The same episode shows Chen Sheng struggling to keep the anti-Qin camp together. When [[WuChen|武臣]] declares himself Zhao king under the influence of [[ZhangEr|张耳]] and [[ChenYu|陈馀]], Chen Sheng first wants to kill Wu Chen's family and attack him. [[CaiCi|蔡赐]] persuades him that this would create another enemy before Qin falls, so Chen Sheng recognizes Zhao and orders Wu Chen westward. The compromise fails strategically once Zhao chooses self-expansion, making Chen Sheng central to [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]].
 
+[[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] deepens Chen Sheng's internal-authority problem. [[TianZang|田臧]] and other generals kill [[WuGuang|吴广]] by falsely claiming Chen Sheng's order, then send Wu Guang's head to Chen Sheng. The source says Chen Sheng is angry but does not punish them; instead he gives Tian Zang the Chu lingyin seal and makes him upper general.
+
+The host treats that response as evidence that Chen Sheng may have tacitly approved the killing, especially because his post-kingship rule has already been associated with favoritism, harsh scrutiny, and alienated generals. This page records the suspicion as source-scoped: Qinji 129-1 supplies strong circumstantial signals, not a direct authorization scene.
+
 ## Connections
 - [[WuGuang|吴广]] - paired uprising leader.
 - [[DazexiangUprising|大泽乡起义]] and [[FatalDeadlineRebellionTrigger|误期死局式起义触发]] - event and direct trigger.
@@ -32,3 +36,4 @@ The same episode shows Chen Sheng struggling to keep the anti-Qin camp together.
 - [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - Qinji 128-3 advice Chen Sheng rejects before declaring Zhang Chu.
 - [[ZhouWenRebel|周文]], [[ZhangHanQin|章邯]], and [[KongFu|孔鲋]] - Qinji 128-5 overconfidence, warning, and defeat near Xianyang.
 - [[WuChen|武臣]], [[CaiCi|蔡赐]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Wu Chen's Zhao kingship and Chen Sheng's failed compromise.
+- [[TianZang|田臧]], [[LiYou|李由]], [[YingyangWarringStates|荥阳]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Wu Guang's killing and Chen Sheng's suspicious non-punishment in Qinji 129-1.

@@ -9667,3 +9667,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相
+
+Added source page for Qinji 129-1: Liu Bang's local Huling and Xue gains, Zhou Wen / Zhou Zhang's repeated defeat and suicide under Zhang Han's pursuit, Wu Guang's stalled siege of Yingyang against Li You, Tian Zang's killing of Wu Guang by falsely claiming Chen Sheng's order, and Chen Sheng's suspicious non-punishment and promotion of Tian Zang. Created Tian Zang, Li You, Xiahou Ying, Cao Wushang, and Wartime Command Decapitation; updated overview, index, Chen Sheng, Wu Guang, Zhang Chu Regime, Yingyang, Zhang Han, Zhou Wen, Liu Bang, Xiao He, Dazexiang Uprising, Anti-Qin Coalition Fragmentation, Li Si, and Sanchuan. No settled contradiction found; kept the title's "灭口" framing and Chen Sheng tacit-approval argument as source-scoped inference.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key/model variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

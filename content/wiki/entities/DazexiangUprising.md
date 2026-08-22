@@ -2,7 +2,7 @@
 title: "大泽乡起义 / Dazexiang Uprising"
 type: entity
 tags: [event, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]
+sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ Chen Sheng and Wu Guang first kill the officers commanding the unit, then turn s
 
 [[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]] shows the uprising's diffusion into local decisions outside Chen Sheng's direct command. In [[PeiCounty|沛县]], the magistrate considers responding by recalling [[LiuBang|刘邦]]'s fugitive group; in [[KuaijiCommandery|会稽郡]], [[YinTong|殷通]] tries to use the wave to raise troops before [[XiangLiang|项梁]] and [[XiangYu|项羽]] preempt him. The Dazexiang event is therefore now the trigger not only for Zhang Chu expansion and Zhao fragmentation, but also for Liu Bang's [[PeiCountyUprisingMobilization|沛县起义动员]] and the Xiang family's [[KuaijiCommanderyCoup|会稽郡守府夺权]].
 
+[[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] shows the uprising's first center losing coherence while its outer effects continue. [[LiuBang|刘邦]] wins around Huling and Xue, but [[ZhouWenRebel|周文 / 周章]] dies after repeated defeat by [[ZhangHanQin|章邯]], and [[WuGuang|吴广]] is killed by [[TianZang|田臧]] after the failed [[YingyangWarringStates|荥阳]] siege. The uprising branch therefore now includes both diffusion and central command breakdown.
+
 ## Connections
 - [[ChenSheng|陈胜]] and [[WuGuang|吴广]] - rebel leaders who convert a fatal deadline into organized revolt.
 - [[QinState|秦国]], [[QinErshi|胡亥 / 秦二世]], and [[ZhaoGao|赵高]] - regime and accession background that the source treats as enabling conditions.
@@ -30,3 +32,4 @@ Chen Sheng and Wu Guang first kill the officers commanding the unit, then turn s
 - [[ZhouWenRebel|周文]], [[ZhangHanQin|章邯]], and [[LishanConvictMobilization|骊山刑徒应急动员]] - Qinji 128-5 failed advance near Xianyang.
 - [[WuChen|武臣]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Zhao kingship and rebel-side fragmentation.
 - [[LiuBang|刘邦]], [[PeiCountyUprisingMobilization|沛县起义动员]], [[XiangLiang|项梁]], [[XiangYu|项羽]], and [[KuaijiCommanderyCoup|会稽郡守府夺权]] - Qinji 128-7 local and commandery responses to the uprising wave.
+- [[TianZang|田臧]], [[LiYou|李由]], [[XiahouYing|夏侯婴]], [[CaoWushang|曹无伤]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 internal breakdown and Liu Bang-side expansion.

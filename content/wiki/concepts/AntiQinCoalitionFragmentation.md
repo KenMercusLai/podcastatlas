@@ -2,7 +2,7 @@
 title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
 type: concept
 tags: [rebellion, coalition, qin, statecraft]
-sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 
 [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] widens the pattern beyond Zhao's refusal to attack west. [[TianDanQinRebel|田儋]] restores Qi, [[HanGuang|韩广]] accepts Yan kingship after being sent by Wu Chen, and [[ZhouShiRebel|周市]] restores Wei through [[WeiJiu|魏咎]]. These are all anti-Qin in origin, but they turn the field into multiple revived state centers with their own hostage problems, captive negotiations, and claims to old legitimacy.
 
+[[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] adds an internal-command version of the fragmentation. The problem is no longer only that restored states such as Zhao, Yan, Qi, and Wei follow separate interests; Zhang Chu's own generals can use battlefield crisis to remove [[WuGuang|吴广]], then rely on [[ChenSheng|陈胜]]'s non-punishment and promotion of [[TianZang|田臧]] to stabilize the act after the fact.
+
 ## Connections
 - [[WuChen|武臣]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[CaiCi|蔡赐]] - main actors in the source.
 - [[ChenSheng|陈胜]], [[ZhangChuRegime|张楚政权]], and [[DazexiangUprising|大泽乡起义]] - rebel regime and origin.
@@ -25,3 +27,4 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - adjacent coordination concepts.
 - [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - historiographical layer affecting blame for the split.
 - [[TianDanQinRebel|田儋]], [[HanGuang|韩广]], [[ZhouShiRebel|周市]], [[WeiJiu|魏咎]], and [[ZhaoServantEnvoy|赵厮养卒]] - Qinji 128-8 wider field of revived state centers and negotiation crises.
+- [[WuGuang|吴广]], [[TianZang|田臧]], [[YingyangWarringStates|荥阳]], [[LiYou|李由]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 command-killing branch inside Zhang Chu.

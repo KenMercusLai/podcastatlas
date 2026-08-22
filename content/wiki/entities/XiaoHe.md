@@ -2,7 +2,7 @@
 title: "萧何 / Xiao He"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The source later groups Xiao He with Lu Gong and [[ZhangLiang|张良]] as people
 
 Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Bang's letter persuades Pei County elders to kill the magistrate and open the gates, Xiao He and Cao Shen recruit in and around [[PeiCounty|沛县]], gathering more than three thousand men. This makes Xiao He central to [[PeiCountyUprisingMobilization|沛县起义动员]].
 
+[[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] moves Xiao He from Pei County mobilization into Liu Bang's early battlefield politics. After [[LiuBang|刘邦]] defeats the Sishui commandery supervisor Ping, Xiao He and [[XiahouYing|夏侯婴]] persuade Ping to surrender Huling County. The episode uses this as part of Liu Bang's local-gain line while [[ZhangChuRegime|张楚政权]] suffers larger command failures.
+
 ## Connections
 - [[LiuBang|刘邦]] - central figure whose bluff Xiao He manages.
 - [[LuGongLiuBangFatherInLaw|吕公]] and [[LuZhi|吕雉]] - banquet host and marriage outcome.
@@ -25,3 +27,4 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 - [[ZhangLiang|张良]] - named by the source as another recognizer of Liu Bang.
 - [[CharismaticPoliticalPerformance|造势型政治表演]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - concept links from the episode.
 - [[CaoShen|曹参]], [[DazexiangUprising|大泽乡起义]], and [[PeiCountyUprisingMobilization|沛县起义动员]] - Qinji 128-7 defection, city opening, and troop-gathering branch.
+- [[XiahouYing|夏侯婴]], [[CaoWushang|曹无伤]], and [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] - Huling surrender and Liu Bang's continuing local campaign.

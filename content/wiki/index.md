@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相](sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp.md) — 芮淇讲透资治通鉴 episode on Wu Guang's failed Yingyang siege, Tian Zang's killing of him under claimed crisis, Zhou Wen's defeat by Zhang Han, and Liu Bang's parallel local gains.
 - [《资治通鉴·秦纪》128-8｜一名赵国炊事兵逆袭成为外交大臣](sources/zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri.md) — 芮淇讲透资治通鉴 episode on Qi, Yan, Zhao, Wei, and Wey in the Qin-collapse restoration wave, centered on a Zhao camp servant persuading Yan to release Wu Chen.
 - [《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？](sources/zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1.md) — 芮淇讲透资治通鉴 episode contrasting Liu Bang's corvee-escort failure, Mangdang exile, Pei County return, and Pei Gong mobilization with Xiang Liang and Xiang Yu's violent seizure of Kuaiji commandery.
 - [《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公](sources/zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j.md) — 芮淇讲透资治通鉴 episode on Liu Bang's Pei County background, local official network, Lu Gong's banquet and face-reading bet, and the "贺钱一万" performance as early political capital.
@@ -1209,6 +1210,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [田臧 / Tian Zang](entities/TianZang.md) — Zhang Chu general who kills Wu Guang during the Yingyang crisis and is then promoted by Chen Sheng.
+- [李由 / Li You](entities/LiYou.md) — Li Si's son and Sanchuan governor defending Yingyang against Wu Guang's Zhang Chu army.
+- [夏侯婴 / Xiahou Ying](entities/XiahouYing.md) — Liu Bang-side figure who helps Xiao He persuade the Sishui supervisor Ping to surrender Huling.
+- [曹无伤 / Cao Wushang](entities/CaoWushang.md) — Liu Bang's left sima who captures and kills the Sishui commandery governor Zhuang near Xue, later flagged for the Hongmen Banquet branch.
 - [赵厮养卒 / Zhao Servant Envoy](entities/ZhaoServantEnvoy.md) — Anonymous low-status Zhao camp servant who persuades Yan to release Wu Chen by reframing his death as a pretext that would empower Zhang Er and Chen Yu.
 - [韩广 / Han Guang](entities/HanGuang.md) — Wu Chen's general in old Yan territory who is installed as Yan king and later releases Wu Chen after the servant envoy's argument.
 - [周市 / Zhou Shi (Rebel)](entities/ZhouShiRebel.md) — Zhang Chu commander who refuses self-coronation in old Wei territory and insists on restoring Wei Jiu as Wei king.
@@ -7690,6 +7695,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wartime Command Decapitation / 战时统帅斩首](concepts/WartimeCommandDecapitation.md) — Qinji 129-1 pattern where a command group kills a stalled commander under crisis and seeks legitimacy through false or tacit superior authorization.
 - [Low-Status Strategic Persuasion / 低位者战略说服](concepts/LowStatusStrategicPersuasion.md) — Qinji 128-8 pattern where a low-status envoy wins a state decision by identifying the other side's missed incentive risk.
 - [沛县起义动员 / Pei County Uprising Mobilization](concepts/PeiCountyUprisingMobilization.md) — Liu Bang's route from corvee-escort fugitive to Pei Gong through Fan Kuai, Xiao He, Cao Shen, local elders, and county self-preservation.
 - [会稽郡守府夺权 / Kuaiji Commandery Coup](concepts/KuaijiCommanderyCoup.md) — Xiang Liang and Xiang Yu kill Yin Tong, seize the commandery seal, and convert Qin commandery resources into rebel military force.

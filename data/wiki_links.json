@@ -7311,6 +7311,10 @@
     "title": "曹参 / Cao Shen",
     "url": "/wiki/entities/caoshen/"
   },
+  "CaoWushang": {
+    "title": "曹无伤 / Cao Wushang",
+    "url": "/wiki/entities/caowushang/"
+  },
   "CaoXudong": {
     "title": "Cao Xudong",
     "url": "/wiki/entities/caoxudong/"
@@ -24427,6 +24431,10 @@
     "title": "Li Yanhong",
     "url": "/wiki/entities/liyanhong/"
   },
+  "LiYou": {
+    "title": "李由 / Li You",
+    "url": "/wiki/entities/liyou/"
+  },
   "LiYuWriter": {
     "title": "李渔 / Li Yu",
     "url": "/wiki/entities/liyuwriter/"
@@ -41167,6 +41175,10 @@
     "title": "Tian Yuandong / 田渊栋",
     "url": "/wiki/entities/tianyuandong/"
   },
+  "TianZang": {
+    "title": "田臧 / Tian Zang",
+    "url": "/wiki/entities/tianzang/"
+  },
   "TianZifang": {
     "title": "田子方 / Tian Zifang",
     "url": "/wiki/entities/tianzifang/"
@@ -43555,6 +43567,10 @@
     "title": "Wars of the Roses / 玫瑰战争",
     "url": "/wiki/entities/warsoftheroses/"
   },
+  "WartimeCommandDecapitation": {
+    "title": "Wartime Command Decapitation / 战时统帅斩首",
+    "url": "/wiki/concepts/wartimecommanddecapitation/"
+  },
   "WartimeLeadershipAccountability": {
     "title": "Wartime Leadership Accountability",
     "url": "/wiki/concepts/wartimeleadershipaccountability/"
@@ -44786,6 +44802,10 @@
   "XiaTaihou": {
     "title": "夏姬 / 夏太后 / Lady Xia",
     "url": "/wiki/entities/xiataihou/"
+  },
+  "XiahouYing": {
+    "title": "夏侯婴 / Xiahou Ying",
+    "url": "/wiki/entities/xiahouying/"
   },
   "Xiamen": {
     "title": "Xiamen / 厦门",
@@ -50302,6 +50322,10 @@
   "zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri": {
     "title": "《资治通鉴·秦纪》128-8｜一名赵国炊事兵逆袭成为外交大臣",
     "url": "/wiki/sources/zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri/"
+  },
+  "zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp": {
+    "title": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",
