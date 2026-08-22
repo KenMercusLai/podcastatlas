@@ -9922,3 +9922,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信
+
+Added source page for Hanji 146: Han Xin's move from Xiang Liang and Xiang Yu into Liu Bang's Hanzhong camp, his underuse as langzhong and then minor Liu-side officer, near execution and Xiahou Ying's first recognition, grain-supply commandant role, Xiao He's deeper evaluation, Nanzheng desertion pressure, Xiao He's pursuit after Han Xin flees, the "国士无双" argument, and the demand for formal commander-appointment ceremony. Created Ritualized Command Appointment; updated overview, index, Han Xin, Xiao He, Liu Bang, Xiang Yu, Xiahou Ying, Nanzheng, Hanzhong, and Strategic Retreat Base-Building. No settled contradiction found; kept Han Xin's possible advice to Xiang Yu and the motive behind his military-law incident as source-scoped inference.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

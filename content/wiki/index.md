@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信](sources/zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl.md) — 芮淇讲透资治通鉴 episode on Han Xin moving from ignored Xiang/Liu subordinate to Xiao He's "国士无双" recommendation, Nanzheng desertion pressure, and formal public appointment as Liu Bang's commander.
 - [《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）](sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep.md) — 芮淇讲透资治通鉴 episode on Han Xin's proposed old-Han royal lineage, early military learning, humiliation-preserving restraint, Jiang Taigong/Sunzi models, and 《孙子兵法·火攻篇》 as action discipline against anger.
 - [《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）](sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce.md) — 芮淇讲透资治通鉴 episode on Han Xin's Huaiyin origins, poverty, Piaomu feeding, "胯下之辱," Shiji source basis, and the 忍辱大勇 reading of restraint under public humiliation.
 - [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（2）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu.md) — 芮淇讲透资治通鉴 episode on Liu Bang entering Hanzhong, Zhang Liang's burned-gallery-road signal, disappointed followers including Han Xin, Tian Rong/Peng Yue/Chen Yu's rebellion cascade, and Han Cheng's killing.
@@ -1241,11 +1242,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [韩信 / Han Xin](entities/HanXin.md) — Future Han general now extended from a disappointed Hanzhong follower into a Huaiyin early-biography case of poverty, public humiliation, and 忍辱大勇.
+- [韩信 / Han Xin](entities/HanXin.md) — Future Han general now extended from Huaiyin poverty and 忍辱大勇 into the Nanzheng recognition crisis where Xiao He pursues and secures his command appointment.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
 - [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer used by Hanji 144 as part of the immediate-war faction redirected by Xiao He's Hanzhong base-building counsel.
 - [灌婴 / Guan Ying](entities/GuanYing.md) — Liu Bang-side officer grouped with Zhou Bo and Fan Kuai in Hanji 144's post-Hanzhong morale-management scene.
-- [南郑 / Nanzheng](entities/Nanzheng.md) — Liu Bang's assigned Han-king capital in Hanji 143, marking his constrained placement in Ba-Shu and Hanzhong behind the Three Qin layer.
+- [南郑 / Nanzheng](entities/Nanzheng.md) — Liu Bang's assigned Han-king capital and Hanji 146 morale test where widespread desertion and Han Xin's flight trigger Xiao He's pursuit.
 - [郴县 / Chen County (Changsha)](entities/ChenxianChangsha.md) — Changsha-commandery relocation site where Xiang Yu sends Mi Xin after virtually honoring him as Yi Emperor.
 - [申阳 / Shen Yang](entities/ShenYang.md) — Settlement lord made Henan king after taking Sanchuan and welcoming the Chu army in Hanji 143.
 - [臧荼 / Zang Tu](entities/ZangTu.md) — Yan-side general rewarded as Yan king after following the Chu rescue-Zhao and westward-entry campaign.
@@ -1340,7 +1341,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [武臣姐姐 / Wu Chen's Sister](entities/ZhaoWuchenSister.md) — Unnamed sister of Wu Chen whose drunken failure to return Li Liang's salute triggers the restored-Zhao defection cascade.
 - [田臧 / Tian Zang](entities/TianZang.md) — Zhang Chu general who kills Wu Guang during the Yingyang crisis and is then promoted by Chen Sheng.
 - [李由 / Li You](entities/LiYou.md) — Li Si's son and Sanchuan governor whose office is later turned into a false treason accusation against Li Si.
-- [夏侯婴 / Xiahou Ying](entities/XiahouYing.md) — Liu Bang-side figure who helps Xiao He persuade the Sishui supervisor Ping to surrender Huling.
+- [夏侯婴 / Xiahou Ying](entities/XiahouYing.md) — Liu Bang-side figure who helps persuade Huling's surrender and later first notices Han Xin when Han Xin is nearly executed.
 - [曹无伤 / Cao Wushang](entities/CaoWushang.md) — Liu Bang's left sima who captures and kills the Sishui commandery governor Zhuang near Xue, later flagged for the Hongmen Banquet branch.
 - [赵厮养卒 / Zhao Servant Envoy](entities/ZhaoServantEnvoy.md) — Anonymous low-status Zhao camp servant who persuades Yan to release Wu Chen by reframing his death as a pretext that would empower Zhang Er and Chen Yu.
 - [韩广 / Han Guang](entities/HanGuang.md) — Wu Chen's general in old Yan territory who is installed as Yan king and later releases Wu Chen after the servant envoy's argument.
@@ -1351,7 +1352,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [芒砀山 / Mangdang Mountain](entities/MangdangMountain.md) — Liu Bang's fugitive refuge where the white-snake and red-emperor story starts attaching sacred reputation to his outlaw group.
 - [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
 - [吕雉 / Lu Zhi](entities/LuZhi.md) — Lu Gong's daughter whose marriage to Liu Bang links the Pei County banquet to the later Han founding family network.
-- [萧何 / Xiao He](entities/XiaoHe.md) — Pei County official who manages Lu Gong's banquet and later defects with Cao Shen to help Liu Bang become Pei Gong.
+- [萧何 / Xiao He](entities/XiaoHe.md) — Liu Bang's administrative anchor who captures Qin records, argues for Hanzhong base-building, and pursues Han Xin as "国士无双."
 - [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base, where county-office relationships, Lu Gong's banquet, and the Pei Gong uprising converge.
 - [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
 - [田儋 / Tian Dan (Qin Rebel)](entities/TianDanQinRebel.md) — Qi-region anti-Qin rebel leader, disambiguated from Warring States general Tian Dan / 田单.
@@ -1753,7 +1754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [岸门 / Anmen (Warring States)](entities/AnmenWarringStates.md) — Han-Qin battle site where Qin's victory leads Han crown prince Han Cang to be sent as hostage.
 - [丹阳之战 / Battle of Danyang](entities/DanyangBattle.md) — 312 BCE Qin defeat of Chu after Chu Huaiwang attacks from anger, leading to Qu Gai's capture and the loss of Hanzhong.
 - [蓝田之战 / Battle of Lantian](entities/LantianBattle.md) — Chu Huaiwang's second angry attack, where Qin draws Chu deep through Wuguan and Shangyu before counterattacking near Lantian.
-- [汉中 / Hanzhong](entities/Hanzhong.md) — Chu territory lost to Qin after Danyang, used by the episode to contrast concrete recovery needs with fixation on promised Shangyu.
+- [汉中 / Hanzhong](entities/Hanzhong.md) — Former Chu territory later assigned to Liu Bang as a constrained Han base whose viability depends on morale, resources, and talent retention.
 - [武关 / Wuguan](entities/Wuguan.md) — Qin-Chu pass route through which Chu attacks and is later drawn deeper toward Lantian.
 - [屈匄 / Qu Gai](entities/QuGai.md) — Chu commander captured at Danyang, making the military cost of Chu Huaiwang's anger concrete.
 - [屈原 / Qu Yuan](entities/QuYuan.md) — Chu anti-Qin statesman-poet whose exclusion helps explain why Chen Zhen's warnings lacked court weight.
@@ -3562,7 +3563,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩琦 / Han Qi](entities/HanQi.md) — Northern Song official addressed by Su Zhe and associated with the exam opportunity that makes Su Zhe's youthful force visible.
 - [宋仁宗 / Song Renzong](entities/SongRenzong.md) — Emperor used in episode 164 as a political truth-telling case around invited criticism and tolerance.
 - [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
-- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose early Kuaiji coup, Xiangcheng massacre, killing of Song Yi, and later Hongmen Banquet power show charisma, violence, pride, and residual moral face.
+- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose charisma, violence, pride, settlement failures, and inability to use Han Xin expose both command force and talent-use limits.
 - [项伯 / Xiang Bo](entities/XiangBo.md) — Xiang Yu's trusted uncle and Xiang-family elder whose night warning, Zhang Liang tie, and 存刘 argument turn the pre-Hongmen attack order into a meeting.
 - [项庄 / Xiang Zhuang](entities/XiangZhuang.md) — Xiang-camp figure sent by Fan Zeng to use a sword dance as a covert attempt to kill Liu Bang at Hongmen.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
@@ -4654,7 +4655,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
-- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose early branch now runs from Pei County social capital and Lu Gong's marriage bet into Mangdang exile, white-snake reputation, and Pei County uprising.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Hanzhong retreat, and Han Xin's public command appointment.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
@@ -7834,7 +7835,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Great Courage Under Humiliation / 忍辱大勇](concepts/GreatCourageUnderHumiliation.md) — Hanji 145 frame for reading Han Xin's "胯下之辱" as restraint that preserves a larger future rather than simple cowardice.
 - [Burning Gallery Roads / 烧栈道](concepts/BurningGalleryRoads.md) — Zhang Liang's Hanji 144 part 2 tactic where destroying the Hanzhong gallery roads protects Liu Bang and signals temporary acceptance of retreat.
 - [Reward Allocation Backlash / 分配反噬](concepts/RewardAllocationBacklash.md) — Hanji 144 frame for how Xiang Yu's partition creates resentment among demoted old kings, excluded rivals, under-rewarded insiders, and armed regional actors.
-- [Strategic Retreat Base-Building / 退让式根据地经营](concepts/StrategicRetreatBaseBuilding.md) — Xiao He's Hanji 144 strategy for turning Liu Bang's Hanzhong demotion into a survivable Ba-Shu base, protected by retreat signaling and talent absorption.
+- [Strategic Retreat Base-Building / 退让式根据地经营](concepts/StrategicRetreatBaseBuilding.md) — Xiao He's strategy for turning Liu Bang's Hanzhong demotion into a survivable Ba-Shu base, later tested by whether Han Xin can be retained and empowered.
+- [Ritualized Command Appointment / 仪式化拜将留才](concepts/RitualizedCommandAppointment.md) — Hanji 146 mechanism where Xiao He turns private recognition of Han Xin into public command authority through full appointment ceremony.
 - [Zhou-Qin Hybrid Order / 周秦混合制](concepts/ZhouQinHybridOrder.md) — Hanji 143 frame for Xiang Yu's nineteen-lord settlement as a military-merit hegemonic order built on a Zhou-like promise field, not a simple reversal of Qin centralization.
 - [Three Qin Containment / 三秦压制](concepts/ThreeQinContainment.md) — Xiang Yu's use of Zhang Han, Sima Xin, and Dong Yi as Qin-core blocking kings around Liu Bang's assigned Han base.
 - [Informer Source Protection / 告密者来源保护](concepts/InformerSourceProtection.md) — Political-intelligence discipline around protecting informants, created from Xiang Yu's exposure of Cao Wushang at Hongmen.

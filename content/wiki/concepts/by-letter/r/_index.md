@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5069
+wiki_total_pages: 5070
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "RitualTourismAuthenticityTension"
     title: "Ritual Tourism Authenticity Tension / 仪式文旅真实性张力"
     url: "/wiki/concepts/ritualtourismauthenticitytension/"
+  - key: "RitualizedCommandAppointment"
+    title: "Ritualized Command Appointment / 仪式化拜将留才"
+    url: "/wiki/concepts/ritualizedcommandappointment/"
   - key: "RitualizedMinisterHumiliation"
     title: "Ritualized Minister Humiliation / 礼节化臣属羞辱"
     url: "/wiki/concepts/ritualizedministerhumiliation/"

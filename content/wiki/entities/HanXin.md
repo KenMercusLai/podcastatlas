@@ -2,7 +2,7 @@
 title: "韩信 / Han Xin"
 type: entity
 tags: [person, chu-han, military, han]
-sources: [zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
+sources: [zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,10 @@ The key interpretive addition is [[GreatCourageUnderHumiliation|忍辱大勇]]. 
 
 That second episode also makes Han Xin's restraint more explicitly strategic. His refusal to spend his life on low-value conflict is read through [[AngerDrivenWarDecision|因怒兴师]] and the Sunzi rule that action should follow advantage rather than anger. In this frame, Han Xin's "能忍" is not social weakness but the ability to protect the future battlefield from the present insult.
 
+[[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]] turns that latent preparation into a recognition and retention crisis. Han Xin first joins [[XiangLiang|项梁]] with military learning already in hand, survives [[Dingtao|定陶]], serves [[XiangYu|项羽]] only as a langzhong, and repeatedly fails to have his advice adopted. The source treats possible objections to Xiang Yu's [[Xianyang|咸阳]] violence and partition choices as host inference, not settled record.
+
+After following [[LiuBang|刘邦]] into [[Hanzhong|汉中]], Han Xin remains underused as a minor or mid-level officer and nearly dies under military law before [[XiahouYing|夏侯婴]] notices him. The grain-supply commandant post then places him near [[XiaoHe|萧何]], whose stronger judgment converts Han Xin from a replaceable officer into a "国士无双" figure. When Han Xin flees [[Nanzheng|南郑]], Xiao He's pursuit and insistence on full appointment ceremony make Han Xin the source case for [[RitualizedCommandAppointment|仪式化拜将留才]].
+
 ## Connections
 - [[LiuBang|刘邦]], [[Hanzhong|汉中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - immediate source setting for Han Xin's first appearance.
 - [[RewardAllocationBacklash|分配反噬]], [[XiangYu|项羽]], and [[CoalitionSettlementFailure|联军战后安排失败]] - settlement conditions that make disappointed talent mobile.
@@ -29,3 +33,4 @@ That second episode also makes Han Xin's restraint more explicitly strategic. Hi
 - [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145]], [[Huaiyin|淮阴]], [[Shiji|《史记》]], and [[SimaQian|司马迁]] - early biography, birthplace, and source basis.
 - [[GreatCourageUnderHumiliation|忍辱大勇]] and [[SuShi|苏轼]] - interpretation of "胯下之辱" as restraint under a larger aim.
 - [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]], [[SunziBingfa|《孙子兵法》]], [[JiangTaigong|姜太公]], and [[AngerDrivenWarDecision|因怒兴师]] - source-scoped training inference and interest-gated action discipline.
+- [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]], [[XiahouYing|夏侯婴]], [[XiaoHe|萧何]], [[Nanzheng|南郑]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - transition from ignored talent to publicly retained command capacity.

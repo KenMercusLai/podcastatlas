@@ -2,7 +2,7 @@
 title: "萧何 / Xiao He"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,10 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 
 [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] gives Xiao He the decisive restraint role after [[XiangYu|项羽]] sends [[LiuBang|刘邦]] to [[Hanzhong|汉中]]. When Liu Bang and officers such as [[ZhouBo|周勃]], [[GuanYing|灌婴]], and [[FanKuai|樊哙]] want to attack Xiang Yu, Xiao He argues that survival as Han king is better than death in an unwinnable war. His proposed line is to accept Hanzhong, govern the people, recruit capable people, draw on [[BaShu|巴蜀]] resources, and later return toward [[GuanzhongRegion|关中]], making him the source's anchor for [[StrategicRetreatBaseBuilding|退让式根据地经营]].
 
+[[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]] gives that talent-recruitment line its most famous personnel case. Because [[HanXin|韩信]]'s grain-supply role brings him into Xiao He's administrative orbit, Xiao He can judge him more deeply than Liu Bang initially does. When Han Xin flees [[Nanzheng|南郑]], Xiao He chases him immediately and then tells Liu Bang that ordinary generals are easy to find, but Han Xin is "国士无双."
+
+Xiao He's recommendation is not only praise. He frames Han Xin's value by Liu Bang's ambition: if Liu Bang only wants to remain king in Hanzhong, Han Xin is unnecessary; if Liu Bang wants the empire, no one else can plan it with him in the same way. Xiao He also insists that appointment must be formal and public rather than a casual tent summons, making him the source's carrier of [[RitualizedCommandAppointment|仪式化拜将留才]].
+
 ## Connections
 - [[LiuBang|刘邦]] - central figure whose bluff Xiao He manages.
 - [[LuGongLiuBangFatherInLaw|吕公]] and [[LuZhi|吕雉]] - banquet host and marriage outcome.
@@ -34,3 +38,4 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 - [[XiahouYing|夏侯婴]], [[CaoWushang|曹无伤]], and [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] - Huling surrender and Liu Bang's continuing local campaign.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Xianyang|咸阳]], [[AdministrativeArchiveCapture|行政档案接管]], [[YuefaSanzhang|约法三章]], and [[Bashang|霸上]] - archive capture and pacification administration after Qin's surrender.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[GuanzhongRegion|关中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - post-settlement restraint and base-building plan.
+- [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]], [[HanXin|韩信]], [[Nanzheng|南郑]], [[TalentReferralQuality|荐才层级质量]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - pursuit, recommendation, and formal appointment of Han Xin.
