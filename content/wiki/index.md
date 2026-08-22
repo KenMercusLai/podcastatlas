@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城](sources/zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx.md) — 芮淇讲透资治通鉴 episode on Li Shiqi's Aocang/Chenggao logistics advice, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that disrupts the diplomatic submission.
 - [《资治通鉴·汉纪》162-2｜刘邦如何收拾位高权重的下属](sources/zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz.md) — 芮淇讲透资治通鉴 episode on Peng Yue's rear pressure, Xiang Yu's exhausting tactical wins, Liu Bang's flight from Chenggao, and his seizure of Han Xin and Zhang Er's command symbols before redirecting Han Xin toward Qi.
 - [《资治通鉴·汉纪》162-1｜他替刘邦去死 如今成了郑州的守护神](sources/zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm.md) — 芮淇讲透资治通鉴 episode on Ji Xin's substitutional death at Xingyang, Liu Bang's escape, Zhou Ke and Cong Gong executing Wei Bao, Yuan Sheng's Wuguan diversion, and Peng Yue's rear logistics pressure.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v.md) — 芮淇讲透资治通鉴 episode closing Hanji 161's quantum-fate detour through Yuan Liaofan, 《了凡四训》, Zeng Guofan, Inamori Kazuo, cognition, heart-field ethics, and virtue practice.
@@ -1279,7 +1280,8 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [郑州 / Zhengzhou](entities/Zhengzhou.md) — Present-day city frame used by Hanji 162-1 to connect Ji Xin's Xingyang sacrifice with later city-god memory.
 - [下邳 / Xiapi](entities/Xiapi.md) — Chu-Han river-linked rear-pressure point where Peng Yue's attack threatens Xiang Yu's logistics near Pengcheng.
-- [成皋 / Chenggao](entities/Chenggao.md) — Chu-Han central-front position repeatedly lost and retaken, whose renewed fall triggers Liu Bang's northern command recapture.
+- [成皋 / Chenggao](entities/Chenggao.md) — Chu-Han central-front position repeatedly lost and retaken, now also framed by Li Shiqi as part of the Aocang food-and-pass system Liu Bang should not abandon.
+- [曹咎 / Cao Jiu](entities/CaoJiu.md) — Xiang Yu-side trusted commander left to hold Chenggao while Xiang Yu turns east against Peng Yue in Hanji 162-3.
 - [袁先生 / Yuan Sheng (Chu-Han)](entities/YuanShengChuHan.md) — Adviser in Hanji 162-1 who tells Liu Bang to draw Xiang Yu south through Wuguan, hold fortified positions, and buy time for Xingyang, Chenggao, and Han Xin.
 - [枞公 / Cong Gong](entities/CongGong.md) — Liu Bang-side garrison figure who joins Zhou Ke in executing Wei Bao and is later killed after Xingyang/Chenggao falls.
 - [周苛 / Zhou Ke](entities/ZhouKe.md) — Liu Bang-side 御史大夫 left to hold Xingyang, who executes Wei Bao, refuses Xiang Yu's inducement, and is killed after capture.
@@ -1297,8 +1299,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [龙且 / Long Ju](entities/LongJuChuGeneral.md) — Chu general who restores Jiujiang after Ying Bu flees to Liu Bang, then reinforces Xiang Yu's Xingyang pressure and Aocang supply attack.
 - [井陉口 / Jingxing Pass](entities/JingxingPass.md) — Taihang pass and Zhao-campaign chokepoint where Han Xin's army faces narrow-road, ambush, and supply-line exposure.
 - [李左车 / Li Zuoche](entities/LiZuoChe.md) — Zhao Guangwu Jun and Li Mu's grandson whose rejected Jingxing plan and post-battle counsel shape Han Xin's Zhao/Yan strategy.
-- [卢绾 / Lu Wan](entities/LuWan.md) — Han-side figure sent with Liu Jia to support Peng Yue's grain-route pressure after Han Xin's northern army is repeatedly drained.
-- [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent to support Peng Yue's anti-Chu grain-route pressure in Hanji 155-2.
+- [卢绾 / Lu Wan](entities/LuWan.md) — Han-side figure sent with Liu Jia to support Peng Yue's grain-route pressure, with Hanji 162-3 showing the reinforced raids pulling Xiang Yu east again.
+- [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent with Lu Wan to support Peng Yue's anti-Chu grain-route pressure, later helping force Xiang Yu away from Chenggao.
 - [晋阳 / Jinyang](entities/Jinyang.md) — Northern place Han Xin takes after defeating Dai forces, becoming the Taiyuan commandery hinge in Hanji 155-2.
 - [河东郡 / Hedong Commandery](entities/HedongCommandery.md) — Commandery created after Han Xin captures Wei Bao and Han converts West Wei territory into administrative units.
 - [下阳 / Xiayang (Chu-Han)](entities/XiayangChuHan.md) — Actual Yellow River crossing point Han Xin uses to bypass Wei Bao's Puban defense and strike Anyi.
@@ -1325,7 +1327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘盈 / Liu Ying](entities/LiuYing.md) — Liu Bang's son in the Pengcheng escape scene, used by Hanji 152 part 1 to show the rout's urgency.
 - [鲁元公主 / Princess Lu Yuan](entities/LuYuanPrincess.md) — Liu Bang's daughter in the Pengcheng escape scene, paired with Liu Ying in the cart-flight account.
 - [董公 / Dong Gong (Xincheng)](entities/DongGongXincheng.md) — Xincheng elder whose advice turns Yi Emperor Mi Xin's murder into Liu Bang's mourning-based anti-Xiang mobilization pretext.
-- [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, disambiguated from Yan's Tian Guang and tied to renewed Qi resistance before Pengcheng.
+- [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, later persuaded by Li Shiqi at Linzi before Han Xin's unsynchronized attack reopens the Qi front.
 - [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu and later defends the recommendation by separating useful talent from moral-smear pressure.
 - [修武 / Xiuwu](entities/Xiuwu.md) — Liu Bang's Henei-area camp where Chen Ping arrives and is introduced through Wei Wuzhi.
 - [冒顿单于 / Modu Chanyu](entities/MaoDunChanyu.md) — Xiongnu ruler whose Baideng encirclement of Liu Bang becomes a Chen Ping covert-leverage case in Hanji 150 part 4.
@@ -1349,7 +1351,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏说 / Xia Shuo](entities/XiaShuo.md) — Chen Yu delegate appointed to manage Dai while Chen Yu stays in Zhao after restoring Zhao Xie.
 - [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him toward Liu Bang and whose Lu-regency opposition contrasts with Chen Ping.
 - [王陵母亲 / Mother of Wang Ling](entities/WangLingMother.md) — Unnamed hostage whose suicide blocks Xiang Yu's coercion and turns corpse desecration into political backfire.
-- [韩信 / Han Xin](entities/HanXin.md) — Han general whose arc now runs from Huaiyin restraint and Hanzhong appointment through Jingxing victory, Zhao consolidation, and Yan/Qi deterrence diplomacy.
+- [韩信 / Han Xin](entities/HanXin.md) — Han general whose arc now runs from Huaiyin restraint and Hanzhong appointment through Jingxing victory, Zhao consolidation, Yan/Qi deterrence diplomacy, and the Kuai Che-urged attack that disrupts Li Shiqi's Qi submission.
 - [陈仓 / Chen Cang](entities/ChenCang.md) — Hanji 148-1 route and battle point where Han Xin's layered feints become the central breakthrough against Zhang Han.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
 - [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer who both joins the old-general accusation against Chen Ping and later pairs with him in Lu Zhi-era survival and post-Lu restoration.
@@ -1379,8 +1381,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨熊 / Yang Xiong (Qin General)](entities/YangXiongQinGeneral.md) — Qin general defeated by Liu Bang and executed by Qin Er Shi, disambiguated from the later author Yang Xiong.
 - [司马卬 / Sima Ang](entities/SimaAng.md) — Zhao-side commander whose attempted move toward Guanzhong is blocked by Liu Bang as route and credit competition.
 - [颍川郡 / Yingchuan Commandery](entities/YingchuanCommandery.md) — Qinji 136 massacre site that complicates Liu Bang's later pacification profile.
-- [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose mobile rear pressure repeatedly threatens Xiang Yu's logistics and forces theater shifts.
-- [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose rebuke of Liu Bang's rude reception becomes Chenliu strategy, reward, and ethically compromised retainer service.
+- [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose mobile rear pressure, later reinforced by Liu Jia and Lu Wan, repeatedly threatens Xiang Yu's logistics and forces theater shifts.
+- [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose arc now runs from Chenliu access and strategy to Qi persuasion at Linzi and the danger created by Han Xin's unsynchronized attack.
 - [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, Hanji 150 PLUS's long-term self-cultivation discipline, and Hanji 161 part 4's 《了凡四训》 reception branch.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
@@ -1389,7 +1391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沙丘 / Shaqiu](entities/Shaqiu.md) — Place node for Qin Shi Huang's death-site reference in Qinji 135, kept separate from the Zhao 沙丘之变 event.
 - [巨鹿之战 / Battle of Julu](entities/JuluBattle.md) — Decisive anti-Qin battle where Xiang Yu first breaks Qin's supply corridor, then uses 破釜沉舟 after crossing the Zhang River.
 - [蒲将军 / Pu General](entities/PuGeneral.md) — Chu commander paired with Ying Bu in the twenty-thousand-person attack that breaks Qin's Julu supply corridor.
-- [敖仓 / Aocang](entities/Aocang.md) — Yellow River-side grain source whose corridor to Julu makes Wang Li's siege army strong until Chu cuts the route.
+- [敖仓 / Aocang](entities/Aocang.md) — Yellow River-side grain source whose corridor logic now spans Julu supply, Xingyang support, Chu-Han food pressure, and Li Shiqi's central-front advice.
 - [漳水 / Zhang River](entities/ZhangRiver.md) — River near Julu that Qinji 134 identifies as the actual 破釜沉舟 crossing, not the earlier Yellow River crossing.
 - [安阳 / Anyang (Qin Rebellion)](entities/AnyangQinRebellion.md) — Stopping point where Song Yi's forty-six-day delayed rescue turns the Julu mission into a Chu command crisis.
 - [无盐县 / Wuyan County](entities/WuyanCounty.md) — Chu-Qi border location where Song Yi's celebratory sendoff for his son contrasts with the suffering Chu army at Anyang.
@@ -1469,7 +1471,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [章邯 / Zhang Han (Qin)](entities/ZhangHanQin.md) — Qin official and later Yong king whose military record, surrender, and Xinan survival become a liability in Han Xin's Three Qin plan.
 - [武臣 / Wu Chen](entities/WuChen.md) — Anti-Qin commander who becomes Zhao king after surrender-driven expansion and then prioritizes Zhao self-strengthening over a westward attack on Qin.
 - [周文 / Zhou Wen (Rebel)](entities/ZhouWenRebel.md) — Zhang Chu commander whose large but weakly trained army reaches near Xianyang before Zhang Han defeats it.
-- [蒯彻 / Kuai Che](entities/KuaiChe.md) — Adviser who tells Wu Chen to use rewarded surrender as a visible model for taking cities without battle.
+- [蒯彻 / Kuai Che](entities/KuaiChe.md) — Adviser who first tells Wu Chen to use rewarded surrender as a model, later appearing as 蒯通 to push Han Xin to continue attacking Qi despite Li Shiqi's diplomacy.
 - [蔡赐 / Cai Ci](entities/CaiCi.md) — Chen Sheng adviser who prevents immediate retaliation against Wu Chen's family while Qin remains undefeated.
 - [大泽乡起义 / Dazexiang Uprising](entities/DazexiangUprising.md) — 209 BCE anti-Qin uprising where Chen Sheng and Wu Guang turn a rain-caused deadline death trap into organized revolt, expand to Chen County, and open the Zhang Chu choice.
 - [张楚政权 / Zhang Chu Regime](entities/ZhangChuRegime.md) — Rebel regime Chen Sheng declares after rejecting Zhang Er and Chen Yu's advice to restore six-state royal descendants first.
@@ -1631,7 +1633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
 - [荥泽 / Xingze](entities/Xingze.md) — Water-control point near Guancheng that makes Daliang vulnerable in Qinji 103-1.
-- [荥阳 / Yingyang](entities/YingyangWarringStates.md) — Qin-held Sanchuan point that later becomes Liu Bang's post-Pengcheng defensive concentration point in the Xingyang standoff.
+- [荥阳 / Yingyang](entities/YingyangWarringStates.md) — Qin-held Sanchuan point that later becomes Liu Bang's post-Pengcheng defensive concentration point and part of Li Shiqi's Yingyang-Chenggao-Aocang logistics argument.
 - [胡三省 / Hu Sanxing](entities/HuSanxing.md) — Zizhi Tongjian commentator whose Guancheng annotation criticizes Su Gao, Anling Jun, and Xinlingjun from a state-responsibility angle.
 - [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded non-intervention advice helps explain late Qi isolation and why Qi did not absorb Lu in the Qinji 102-2 source.
 - [江东 / Jiangdong (Warring States)](entities/JiangdongWarringStates.md) — Former Wu-region Chu fief requested by Chunshenjun, framed by Qinji 102-2 as safer than the Huai north border because of distance from Qin and the Yangtze barrier.
@@ -1913,7 +1915,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [少梁 / Shaoliang](entities/Shaoliang.md) — Wei-Qin battlefield where Qin captures a Wei figure rendered as 公孙措/公孙痤 before later Qin control notices.
 - [河西 / Hexi (Warring States)](entities/HexiWarringStates.md) — Contested western Wei region whose cession to Qin appears as a continuing frontier-loss branch.
 - [函谷关 / Hangu Pass](entities/HanguPass.md) — Qin pass used by Zhouji 33 as the test point for Shiji's fifteen-year hezong efficacy claim against the coming Zizhi Tongjian sequel.
-- [临淄 / Linzi](entities/Linzi.md) — Qi capital whose population, entertainment, density, and public confidence become evidence in Su Qin's anti-Qin persuasion.
+- [临淄 / Linzi](entities/Linzi.md) — Qi capital whose earlier prosperity rhetoric is later joined by Li Shiqi's Han-facing persuasion of Tian Guang during the Chu-Han war.
 - [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
 - [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
 - [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
@@ -2103,7 +2105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [子夏 / Zi Xia](entities/ZiXia.md) — Confucius disciple honored by Wei Wenhou as a teacher, making Confucian learning part of Wei's talent-attraction image.
 - [田子方 / Tian Zifang](entities/TianZifang.md) — Scholar associated by the source with Qi's Tian world and with Wei Wenhou's respectful treatment of mobile talent.
 - [段干木 / Duan Ganmu](entities/DuanGanmu.md) — Recluse whose avoidance of Wei Wenhou sharpens the source's portrait of non-coercive respect for worthy people.
-- [齐国 / Qi State](entities/QiState.md) — Pre-Qin state whose Ruiqi branch spans Sima Rangju, Tian-family transition, Qi Wei Wang, Sun Bin's campaigns, and Tian Ji's post-Maling court crisis.
+- [齐国 / Qi State](entities/QiState.md) — Pre-Qin state whose branch now spans Warring States politics and the Chu-Han moment when Li Shiqi's submission diplomacy is disrupted by Han Xin's attack.
 - [燕国 / Yan State](entities/YanState.md) — Pre-Qin state whose Yan Huan Gong-to-Yan Wen Gong succession later becomes Su Qin's first successful patronage base.
 - [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
 - [燕僖公 / Duke Xi of Yan](entities/YanXiGong.md) — Yan ruler succeeding Yan Min Gong in the source's chronology.
@@ -3672,7 +3674,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩琦 / Han Qi](entities/HanQi.md) — Northern Song official addressed by Su Zhe and associated with the exam opportunity that makes Su Zhe's youthful force visible.
 - [宋仁宗 / Song Renzong](entities/SongRenzong.md) — Emperor used in episode 164 as a political truth-telling case around invited criticism and tolerance.
 - [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
-- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose charisma, violence, pride, reward hesitation, settlement failures, and inability to use Han Xin become the negative case in Hanzhong Dui.
+- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose charisma, violence, pride, reward hesitation, settlement failures, inability to use Han Xin, and repeated need to answer Peng Yue's rear pressure become the negative case in Hanzhong Dui and later Qi persuasion.
 - [项伯 / Xiang Bo](entities/XiangBo.md) — Xiang Yu's trusted uncle and Xiang-family elder whose night warning, Zhang Liang tie, and 存刘 argument turn the pre-Hongmen attack order into a meeting.
 - [项庄 / Xiang Zhuang](entities/XiangZhuang.md) — Xiang-camp figure sent by Fan Zeng to use a sword dance as a covert attempt to kill Liu Bang at Hongmen.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
@@ -4764,7 +4766,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
-- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Han Xin's appointment, commandery absorption, Chen Ping's use, and command recapture from Han Xin and Zhang Er.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Han Xin's appointment, commandery absorption, Chen Ping's use, command recapture, and the unsynchronized Qi military/diplomatic lines.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
@@ -7958,17 +7960,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, and actors' real commitments before copying historical precedent.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
-- [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Han Xin/Li Zuoche pattern where a fresh battlefield victory is converted into envoy-backed surrender pressure rather than immediate assault.
+- [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Han Xin/Li Zuoche pattern where battlefield victory is converted into envoy-backed surrender pressure, later qualified by Li Shiqi's Qi success and Han Xin's unsynchronized attack.
 - [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, hidden red-flag cavalry, Zhao morale collapse, and later victory-to-diplomacy conversion.
 - [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, and surprise have already made forced commitment usable.
 - [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
 - [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
 - [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.
 - [Wartime Agricultural Labor Collapse / 战争抽空农业劳动力](concepts/WartimeAgriculturalLaborCollapse.md) — Famine mechanism where mass warfare removes farmers from fields, leaving food output and prices to break down.
-- [Xingyang Standoff / 荥阳相持](concepts/XingyangStandoff.md) — Post-Pengcheng Chu-Han holding phase where Liu Bang survives through reinforcement, cavalry repair, Aocang-linked logistics, counterintelligence, Ji Xin's sacrifice, and diversion strategy.
+- [Xingyang Standoff / 荥阳相持](concepts/XingyangStandoff.md) — Post-Pengcheng Chu-Han holding phase where Liu Bang survives through reinforcement, cavalry repair, Aocang-linked logistics, counterintelligence, Ji Xin's sacrifice, command recapture, and later multi-channel coordination across rear pressure and Qi diplomacy.
 - [统帅权再收束 / Command Authority Recapture](concepts/CommandAuthorityRecapture.md) — Liu Bang pattern where a ruler reclaims delegated military command symbols while preserving the high-value subordinate for a new campaign.
 - [Han Cavalry Formation / 汉军骑兵建设](concepts/HanCavalryFormation.md) — Liu Bang's post-Pengcheng mounted-force response using Guan Ying's command and former Qin cavalry specialists Li Bi and Luo Jia.
-- [Xiayi Plan / 下邑画策](concepts/XiayiPlan.md) — Zhang Liang's post-Pengcheng strategic redesign using Ying Bu, Peng Yue, Han Xin, and reward promises to rebuild Liu Bang's anti-Xiang field.
+- [Xiayi Plan / 下邑画策](concepts/XiayiPlan.md) — Zhang Liang's post-Pengcheng strategic redesign using Ying Bu, Peng Yue, Han Xin, and reward promises, later showing both reinforced rear pressure and a Qi-front coordination problem.
 - [Power-Based Alliance Repricing / 实力重估式阵营转向](concepts/PowerBasedAllianceRepricing.md) — Hanji 152 part 2 pattern where Liu Bang's Pengcheng defeat rapidly changes lords' expectations, protection needs, and camp choices.
 - [Ancient Large-Army Command Limits / 古代大兵团指挥极限](concepts/AncientLargeArmyCommandLimits.md) — Pengcheng and Wang Jian frame for why very large ancient armies demand exceptional command, logistics, communication, and coalition discipline.
 - [Cavalry Shock Command Strike / 骑兵奇袭指挥中枢](concepts/CavalryShockCommandStrike.md) — Pengcheng Battle pattern where a smaller mobile force preserves surprise, cuts retreat, and strikes the enemy commander to collapse coalition coordination.
@@ -8036,7 +8038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂](concepts/AntiQinCoalitionFragmentation.md) — Pattern where the anti-Qin movement quickly turns into separate territorial regimes whose self-strengthening overrides coordinated attack.
 - [Lishan Convict Mobilization / 骊山刑徒应急动员](concepts/LishanConvictMobilization.md) — Zhang Han's emergency conversion of pardoned Lishan laborers into armed troops against Zhou Wen near Xianyang.
 - [Capital Defense Mobilization / 都城防卫动员](concepts/CapitalDefenseMobilization.md) — Qinji 128-5 corrective showing Hu Hai's capital guards, trained soldiers, and emergency manpower still mattered against Zhou Wen.
-- [Political Surrender Cascade / 招降示范级联](concepts/PoliticalSurrenderCascade.md) — Kuai Che and Wu Chen's model where one visibly rewarded surrender induces many nearby cities to surrender without battle.
+- [Political Surrender Cascade / 招降示范级联](concepts/PoliticalSurrenderCascade.md) — Model where visible surrender induces nearby cities to submit without battle, now including Li Shiqi's more-than-seventy-city Qi submission and its disruption.
 - [Textual Omission Attribution Shift / 史书删节与责任归属转移](concepts/TextualOmissionAttributionShift.md) — Source-critical pattern where an omitted motive clause changes blame and moral pressure among historical actors.
 - [Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略](concepts/SixStateRestorationAntiQinStrategy.md) — Zhang Er and Chen Yu's advice that Chen Sheng should restore six-state royal descendants to multiply Qin's enemies before exposing his own kingship.
 - [Fatal Deadline Rebellion Trigger / 误期死局式起义触发](concepts/FatalDeadlineRebellionTrigger.md) — Dazexiang mechanism where Qin's fatal lateness rule collapses compliance, flight, and delay into death, making revolt the active self-rescue path.
@@ -8181,7 +8183,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Death-Party Loyalty vs Official Duty / 死党之义与守职奉上](concepts/DeathPartyLoyalty.md) — Xun Yue critique of private friendship or faction loyalty becoming stronger than office, ruler, and public responsibility.
 - [Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突](concepts/AristocraticFriendshipStateConflict.md) — Conflict where noble friendship and guest protection collide with revenge, ruler command, state law, and national survival.
 - [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence and massacre memory are used to damage resistance, now including Liu Bang's Yingchuan terror before the Wan surrender turn.
-- [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Su Dai pattern of redirecting policy by turning Bai Qi's possible victory into Fan Ju's personal rank threat.
+- [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Pattern of redirecting policy by making another actor's success look like personal rank or merit loss, from Fan Ju/Bai Qi to Kuai Che/Han Xin.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where route cuts, feigned retreat, flank insertion, pursuit pressure, and fieldworks turn movement into supply, retreat, or crowding disaster.
@@ -8190,7 +8192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Historical Dream Foreshadowing / 梦兆叙事伏笔](concepts/HistoricalDreamForeshadowing.md) — Historiographical pattern where recorded dreams in the Shiji Zhao lineage organize later rise, desire, disorder, and disaster.
 - [Windfall Decision Trap / 无故之利](concepts/WindfallDecisionTrap.md) — Decision pattern where an apparent free gain transfers hidden obligation, enemy pressure, or future retaliation to the recipient.
 - [襄王有意，神女无心 / Xiangwang Youyi, Shennv Wuxin](concepts/XiangwangYouyiShennvWuxin.md) — Classical one-sided desire motif from Song Yu's Wushan goddess tradition, used here to link Chu Qingxiang Wang's literary memory to the episode title.
-- [Transport Corridor Severance / 交通线切割](concepts/TransportCorridorSeverance.md) — Strategy pattern where Qin cuts routes and passes so a neighboring state's territory becomes fragmented before conquest.
+- [Transport Corridor Severance / 交通线切割](concepts/TransportCorridorSeverance.md) — Strategy pattern where routes, passes, and food corridors are cut or threatened, from Warring States fragmentation to Chu-Han Aocang, Chenggao, and Peng Yue pressure.
 - [Interest-Based Coalition Sabotage / 利益瓦解合纵](concepts/InterestBasedCoalitionSabotage.md) — Pattern spanning Fan Ju's anti-hezong inducements and Qin's later gold, bribery, assassination, and alienation tactics before conquest.
 - [Emotional De-escalation Persuasion / 情绪降温式说服](concepts/EmotionalDeescalationPersuasion.md) — Chu Long pattern of lowering emotional threat before turning Zhao Weihou toward the hostage decision.
 - [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where Fan Ju routes private revenge through Qin's real diplomatic and military pressure on Wei.
@@ -8203,7 +8205,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which commanders shape what enemies see before decisive movement, from Zhao She and Bai Qi to Xiang Yu's hidden Pengcheng return.
 - [High-Ground Timing Advantage / 制高点时机优势](concepts/HighGroundTimingAdvantage.md) — Tactical principle where reaching decisive terrain first, as Xu Li advises at Eyu, converts timing into battlefield advantage.
 - [Elite Fiscal-Law Compliance / 贵族税法同遵](concepts/EliteFiscalLawCompliance.md) — State-capacity pattern where tax and law must bind elite households, not only ordinary subjects, if public authority is to hold.
-- [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Weak-side diplomacy pattern where a request for restraint is translated into the stronger side's own risk map and preferred strategic sequence.
+- [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Weak-side diplomacy pattern where a request is translated into the target's own risk map, now extended by Li Shiqi reframing Qi survival toward Han submission.
 - [GPU Compute Asset-Backed Financing](concepts/GPUComputeAssetBackedFinancing.md) — Nvidia-centered financing frame where GPU clusters are treated as cash-flowing collateral backed by utilization, residual value, and compute demand.
 - [Decentralized AI Control](concepts/DecentralizedAIControl.md) — Argument that AI power should be distributed through open models, personal agents, and competing providers rather than centralized in a few frontier labs or regulators.
 - [Amazon DSP Labor Model](concepts/AmazonDSPLaborModel.md) — Amazon delivery subcontractor structure as a tradeoff between logistics flexibility, labor responsibility, liability, and political legitimacy.

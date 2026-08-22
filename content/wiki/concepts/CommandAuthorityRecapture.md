@@ -2,7 +2,7 @@
 title: "统帅权再收束 / Command Authority Recapture"
 type: concept
 tags: [command, military, statecraft, chu-han]
-sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
 last_updated: 2026-08-23
 ---
 
@@ -14,14 +14,18 @@ The concept differs from [[CommandSealTrustRupture|将印信任破裂]]. In that
 
 The episode's management frame is that delegated military success can become dangerous if it hardens into autonomous control while the central front is collapsing. Recapture solves one problem but preserves another: the ruler regains command now, yet must still rely on the same capable subordinate for the next campaign.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] shows that unresolved sequel. Han Xin has been redirected toward Qi, but [[LiShiqi|郦食其]] reaches the same target through diplomacy before Han Xin attacks. Because the recapture-and-redeployment sequence does not include a visible stop order after Li Shiqi's success, [[KuaiChe|蒯彻 / 蒯通]] can argue that Han Xin's original mandate still holds.
+
 ## Key Claims
 - Delegation in wartime is reversible when the ruler can still control the symbols and procedures of command.
 - Recapturing authority can be executed through timing and surprise rather than open confrontation.
 - The move is not the same as purging talent; Liu Bang strips the current army but gives Han Xin a new eastern task.
 - Command symbols matter because troops respond to the seal before they understand the political scene behind it.
 - The pattern exposes the tension inside [[XiayiPlan|下邑画策]]: Liu Bang needs independent fronts, but he also refuses to let any one delegated front become politically separate from him.
+- Hanji 162-3 adds that recaptured authority still needs follow-through coordination; a newly delegated campaign can conflict with a parallel envoy if the ruler does not update the mandate.
 
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[KuaiChe|蒯彻 / 蒯通]], and [[QiState|齐国]] - downstream command-update problem after Han Xin is sent toward Qi.
 - [[LiuBang|刘邦]], [[HanXin|韩信]], and [[ZhangEr|张耳]] - ruler, high-value commander, and Zhao king whose army is recaptured.
 - [[Chenggao|成皋]], [[XingyangStandoff|荥阳相持]], and [[XiahouYing|夏侯婴]] - crisis setting and escape route to the Zhao camp.
 - [[QiState|齐国]], [[Linzi|临淄]], and [[VictoryDeterrenceDiplomacy|胜势威慑外交]] - next campaign direction after authority is recaptured.

@@ -2,7 +2,7 @@
 title: "荥阳 / Yingyang"
 type: entity
 tags: [place, city, qin-state, warring-states, chu-han]
-sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ Its role is not a stand-alone battle narrative. Yingyang helps make the map legi
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] gives the front anchor its crisis and memory layers. [[JiXin|纪信]] impersonates [[LiuBang|刘邦]] at Yingyang to make Liu Bang's west-gate escape possible, [[ZhouKe|周苛]] and [[CongGong|枞公]] then commit the garrison by executing [[WeiBao|魏豹]], and the episode says Yingyang's people later worship Ji Xin as a [[Chenghuang|城隍]] in a memory frame tied to [[Zhengzhou|郑州]].
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] uses Yingyang as part of [[LiShiqi|郦食其]]'s linked central-front argument. The place is no longer only the siege city where Liu Bang escaped; it is one point in the Yingyang-[[Chenggao|成皋]]-[[Aocang|敖仓]] system that Li Shiqi says Liu Bang must not concede if Han wants durable food and pass control.
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[Chenggao|成皋]], [[Aocang|敖仓]], and [[LiuBang|刘邦]] - central-front logistics and pass-control argument.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[ZhouKe|周苛]], [[CongGong|枞公]], [[Chenghuang|城隍]], and [[Zhengzhou|郑州]] - siege escape, garrison commitment, and later local memory.
 - [[Xingze|荥泽]] and [[GuanchengWarringStates|管城]] - nearby strategic points in the source.
 - [[SanchuanWarringStates|三川]] - commandery frame attached to Qin control.

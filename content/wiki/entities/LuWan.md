@@ -2,7 +2,7 @@
 title: "卢绾 / Lu Wan"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
 last_updated: 2026-08-23
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-23
 
 The page keeps Lu Wan source-scoped. In this episode, his significance is not independent command detail but the redistribution of the anti-Chu grain-line mission away from Han Xin's constrained northern army and toward Peng Yue's rear-pressure role.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] extends that role into execution. Lu Wan is again paired with Liu Jia as Liu Bang sends infantry and cavalry across the Yellow River to strengthen Peng Yue. The reinforced harassment helps take a string of Chu-linked cities and pulls [[XiangYu|项羽]] away from the [[Chenggao|成皋]] front.
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] - source page for Lu Wan's reinforced rear-pressure role.
 - [[LiuBang|刘邦]] - ruler who sends Lu Wan.
 - [[LiuJia|刘贾]] and [[PengYue|彭越]] - paired support and supported commander.
 - [[HanXin|韩信]], [[XiayiPlan|下邑画策]], and [[XiangYu|项羽]] - wider multi-front anti-Chu strategy.

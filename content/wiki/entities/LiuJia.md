@@ -2,7 +2,7 @@
 title: "刘贾 / Liu Jia"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
 last_updated: 2026-08-23
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-23
 
 Liu Jia's role in this ingest is therefore a support node inside the later multi-front anti-Chu design. The episode does not develop his biography, so the page records only his function as part of the delegated grain-line pressure with [[LuWan|卢绾]] and Peng Yue.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] gives that support a concrete payoff. Liu Bang sends Liu Jia and Lu Wan south of the Yellow River with infantry and cavalry to assist Peng Yue; the reinforced pressure helps Peng Yue take Suiyang, Waihuang, and other cities and forces [[XiangYu|项羽]] to leave [[Chenggao|成皋]] again.
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] - source page for Liu Jia's direct reinforcement of Peng Yue.
 - [[LiuBang|刘邦]] - ruler who sends Liu Jia.
 - [[PengYue|彭越]] and [[LuWan|卢绾]] - supported commander and paired assistant.
 - [[HanXin|韩信]], [[XiayiPlan|下邑画策]], and [[XingyangStandoff|荥阳相持]] - strategic context in which the grain-line task shifts.

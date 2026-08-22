@@ -2,7 +2,7 @@
 title: "Interest Reframing Persuasion / 利益重构式说服"
 type: concept
 tags: [persuasion, diplomacy, strategy, pre-qin-history, warring-states, chu-han]
-sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
 last_updated: 2026-08-23
 ---
 
@@ -26,6 +26,8 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 
 [[zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu|Hanji 158]] adds a Chu-Han defection variant through [[SuiHe|随何]]. Speaking to [[YingBu|英布]], Sui He grants that [[XiangYu|项羽]] looks powerful, but reframes that strength as a liability: Chu carries the legitimacy burden of killing [[MiXin|义帝芈心]], faces long supply lines, and may attract the lords' joint resistance if it becomes too dominant. The argument works because it turns Ying Bu's fear of Chu into a reason to treat Han as the better long-term option.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] adds Li Shiqi's Qi variant. In [[Linzi|临淄]], [[LiShiqi|郦食其]] does not ask [[TianGuangQiKing|田广]] to help Han out of loyalty; he makes Qi's own survival point toward Han by arguing that Liu Bang rewards merit and attracts the capable, while Xiang Yu's broken promises and reward failures make Chu a worse bet. Qi's fear of Han Xin's army is therefore translated into an interest-based reason to submit before conquest.
+
 ## Key Claims
 - Effective weak-side persuasion may work by confirming the stronger side's power before narrowing the question to risk-adjusted advantage.
 - The argument must name the stronger side's concrete exposure: routes, allies, rear security, future rivals, and lost strategic sequencing.
@@ -38,8 +40,10 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - Qinji 101-1 adds that interest reframing can break a siege by making the defender compare active exits instead of treating continued paralysis as safety.
 - Qinji 128-8 adds that interest reframing can come from a low-status envoy if the argument clarifies a third party's incentive better than formal diplomacy does.
 - Hanji 158 adds that interest reframing can serve as the first stage of defection work: the target must see the current patron's apparent strength as future danger before a no-return commitment device can work.
+- Hanji 162-3 adds that interest reframing can turn fear of an approaching army into voluntary alignment, but the alignment still depends on the attacking side honoring the diplomatic channel.
 
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[QiState|齐国]] - Qi survival reframed from Chu alignment toward Han submission.
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - source case and decision point.
 - [[ChuState|楚国]], [[HanState|韩国]], [[WeiState|魏国]], [[QiState|齐国]], and [[ZhaoState|赵国]] - states whose positions are remapped by the argument.
 - [[StrategicDepthDefense|战略纵深防御]] and [[QinEastwardPressure|秦国东进压力]] - route-risk and strategic-sequence premises.

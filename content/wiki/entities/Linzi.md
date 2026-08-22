@@ -2,8 +2,8 @@
 title: "临淄 / Linzi"
 type: entity
 tags: [city, qi-state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
+last_updated: 2026-08-23
 ---
 
 # 临淄 / Linzi
@@ -16,7 +16,10 @@ The source uses Linzi for more than demographic scale. It describes a dense, pro
 
 [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] adds the reversal: after [[LeYi|乐毅]] defeats [[QiMinWang|齐湣王]]'s army, he enters Linzi and sends treasure and ritual valuables back to [[YanState|燕国]]. The same city that earlier served as evidence for Qi's confidence and [[WarringStatesUrbanProsperity|Warring States urban prosperity]] becomes the visible sign of Qi's political and military center failing.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] adds a Chu-Han persuasion scene at Linzi. [[LiShiqi|郦食其]] comes to the Qi capital and persuades [[TianGuangQiKing|田广]] that the world is turning toward [[LiuBang|刘邦]] rather than [[XiangYu|项羽]]. Linzi therefore becomes the place where a capital's war posture relaxes before [[HanXin|韩信]] attacks anyway.
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[LiuBang|刘邦]], and [[HanXin|韩信]] - Chu-Han persuasion scene and broken relaxation of Qi's defenses.
 - [[QiState|齐国]] - polity whose capital the source describes.
 - [[JixiaAcademy|稷下学宫]] and [[TianQiHuanGong|田武 / 田氏齐桓公]] - Zhouji 08 part 3 academy-origin branch.
 - [[SuQin|苏秦]], [[HezongAlliance|合纵]], and [[DignityBasedPersuasion|dignity-based persuasion]] - speech setting and rhetorical use.

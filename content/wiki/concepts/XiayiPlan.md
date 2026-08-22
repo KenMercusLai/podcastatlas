@@ -2,7 +2,7 @@
 title: "Xiayi Plan / 下邑画策"
 type: concept
 tags: [strategy, alliance, warfare, chu-han, delegation]
-sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
 last_updated: 2026-08-23
 ---
 
@@ -28,6 +28,8 @@ Xiayi Plan is adjacent to [[StrategicRetreatBaseBuilding|退让式根据地经�
 
 [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds the plan's command-risk boundary. Han Xin's delegated northern front has become useful enough that Liu Bang flees to it after losing Chenggao, but also powerful enough that Liu Bang immediately takes Han Xin and [[ZhangEr|张耳]]'s seals and military tokens. The plan therefore requires both delegation and [[CommandAuthorityRecapture|统帅权再收束]]: distributed pressure against Xiang Yu must stay subordinate to Liu Bang's central authority.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] shows both late execution and collision. The [[PengYue|彭越]] leg is strengthened when [[LiuBang|刘邦]] sends [[LiuJia|刘贾]] and [[LuWan|卢绾]], making Xiang Yu leave the central front again. The [[HanXin|韩信]] leg, however, collides with [[LiShiqi|郦食其]]'s Qi diplomacy when [[KuaiChe|蒯彻 / 蒯通]] pushes Han Xin to keep attacking. The plan's distributed-front strength therefore creates a coordination problem once diplomacy starts succeeding.
+
 ## Key Claims
 - Post-defeat strategy can begin before full recovery if the leader asks the next operating question quickly.
 - A direct military ceiling can be bypassed by changing the shape of war: frontal holding, enemy-side defection, rear raids, and independent campaigns replace one huge coalition battle.
@@ -41,8 +43,10 @@ Xiayi Plan is adjacent to [[StrategicRetreatBaseBuilding|退让式根据地经�
 - Hanji 159-1 adds that a successful defection still needs post-arrival status management and may trigger enemy counterpressure against the defector's original base.
 - Hanji 162-1 adds that the plan's later execution includes deliberate non-battle: Liu Bang's job can be to lure and fix Xiang Yu while garrisons recover and other fronts attack logistics.
 - Hanji 162-2 adds that delegated fronts need a command recapture mechanism when crisis drives the ruler back toward a subordinate army.
+- Hanji 162-3 adds that distributed fronts can interfere with one another: Peng Yue's rear pressure advances the plan, while Han Xin's unsynchronized Qi attack endangers Li Shiqi's diplomatic success.
 
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[PengYue|彭越]], [[LiuJia|刘贾]], [[LuWan|卢绾]], [[HanXin|韩信]], [[LiShiqi|郦食其]], and [[KuaiChe|蒯彻 / 蒯通]] - strengthened rear-pressure leg and colliding Qi military/diplomatic lines.
 - [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[CommandAuthorityRecapture|统帅权再收束]], [[HanXin|韩信]], and [[ZhangEr|张耳]] - command-risk boundary after delegated northern success.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[YuanShengChuHan|袁先生 / 袁生]], [[Chenggao|成皋]], [[WanCounty|宛县]], and [[PengYue|彭越]] - southward diversion and logistics pressure after Liu Bang's Xingyang escape.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[Xiayi|下邑]] - defeated ruler, strategist, and planning site.

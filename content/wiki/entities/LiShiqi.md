@@ -2,7 +2,7 @@
 title: "郦食其 / Li Shiqi"
 type: entity
 tags: [person, persuader, qin, chu-han, rhetoric]
-sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
 last_updated: 2026-08-23
 ---
 
@@ -28,7 +28,15 @@ After Chenliu, Liu Bang enfeoffs Li Shiqi as Guangye Jun and accepts his recomme
 
 [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] supplies the full answer to that failed-advice case. The page keeps Li Shiqi's proposal source-scoped rather than treating it as simple incompetence: the same restoration logic had earlier force against [[QinState|秦国]], but Zhang Liang argues that in Liu Bang's current field it would transfer Liu-side rewards and people to new local kings. Li Shiqi therefore becomes a case where a plausible historical method is rejected because the situation has changed.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] returns Li Shiqi from failed proposal to successful high-stakes diplomacy. First he warns Liu Bang not to abandon the [[YingyangWarringStates|荥阳]]-[[Chenggao|成皋]]-[[Aocang|敖仓]] zone, because ruler survival depends on people and people depend on grain. Then he asks to persuade [[QiState|齐国]], judging a quick military conquest costly because the Tian clan, terrain, coastline, and rivers make Qi difficult to break fast.
+
+At [[Linzi|临淄]], Li Shiqi persuades [[TianGuangQiKing|田广]] that the larger field has shifted toward Han. He attacks [[XiangYu|项羽]] for broken promises, killing Yi Emperor, and weak reward practice, while praising Liu Bang's capacity to distribute cities, wealth, and offices. The host flags some claims as rhetorical overstatement, especially the suggestion that Liu Bang has already secured Aocang and Chenggao, but the argument works because it fits Qi's own fear of choosing the losing side.
+
+The mission succeeds enough that Qi seeks reconciliation and relaxes its defenses, turning Li Shiqi into a source case for [[VictoryDeterrenceDiplomacy|胜势威慑外交]] and [[PoliticalSurrenderCascade|招降示范级联]]. The success also creates his danger: [[HanXin|韩信]], pushed by [[KuaiChe|蒯彻 / 蒯通]], attacks anyway, making Li Shiqi look like a deceiver to the court he has just persuaded.
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[TianGuangQiKing|田广]], [[QiState|齐国]], [[Linzi|临淄]], [[HanXin|韩信]], and [[KuaiChe|蒯彻 / 蒯通]] - successful Qi persuasion disrupted by a parallel Han military attack.
+- [[Aocang|敖仓]], [[YingyangWarringStates|荥阳]], [[Chenggao|成皋]], and [[TransportCorridorSeverance|交通线切割]] - logistics and pass-control argument before the Qi mission.
 - [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - full context-bound rejection of Li Shiqi's six-kingdom proposal.
 - [[LiuBang|刘邦]] - patron who first receives Li Shiqi disrespectfully, then accepts correction and strategy.
 - [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[ZhangLiang|张良]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - proposed six-kingdom restoration plan rejected before execution.

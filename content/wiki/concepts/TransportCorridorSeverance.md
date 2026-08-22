@@ -2,7 +2,7 @@
 title: "Transport Corridor Severance / 交通线切割"
 type: concept
 tags: [strategy, warfare, logistics, geography, warring-states]
-sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-23
 ---
 
@@ -30,6 +30,8 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 
 [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds the earlier Xiapi version of the same pressure. Peng Yue's attack toward [[Xiapi|下邳]] threatens the river-linked route near [[Xuzhou|彭城]], so Xiang Yu leaves [[Chenggao|成皋]] to answer the rear problem. This shows corridor severance as theater-shaping pressure even before the final food shortage: the route threat changes where the strongest enemy commander has to be.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] adds the reinforced version. [[LiuBang|刘邦]] sends [[LiuJia|刘贾]] and [[LuWan|卢绾]] to support [[PengYue|彭越]], after which Peng Yue captures Suiyang, Waihuang, and other points and burns Chu food and transport assets. At the same time, [[LiShiqi|郦食其]] frames [[Aocang|敖仓]] and [[Chenggao|成皋]] as the food-and-pass system Han must not abandon, making corridor control both a raiding tactic and a strategic counsel.
+
 ## Key Claims
 - Route control can matter as much as city capture because it changes whether a state can reinforce, communicate with, or command an exposed region.
 - Cutting corridors turns one enemy state into multiple isolated operational problems.
@@ -43,8 +45,10 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 - Hanji 159-1 adds that food-corridor pressure can distort political judgment, pushing a ruler toward risky legitimacy schemes when the front is starving.
 - Hanji 162-1 adds that a diversion can create the opening for corridor severance: the enemy commander is pulled toward one fortified front while irregular pressure attacks supply behind him.
 - Hanji 162-2 adds that corridor pressure can force a commander with superior tactical ability into repeated long movements, turning route harassment into strategic fatigue.
+- Hanji 162-3 adds that corridor pressure can be deliberately reinforced by sending regular support to an irregular rear-pressure actor, while the same logistics map becomes the basis for strategic advice about Aocang and Chenggao.
 
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[PengYue|彭越]], [[LiuJia|刘贾]], [[LuWan|卢绾]], [[Aocang|敖仓]], and [[Chenggao|成皋]] - reinforced rear pressure and Li Shiqi's logistics advice.
 - [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[Xiapi|下邳]], [[Xuzhou|彭城]], [[Chenggao|成皋]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Xiapi pressure as the route threat that pulls Xiang Yu away from the central front.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[YuanShengChuHan|袁先生 / 袁生]], [[PengYue|彭越]], [[SuiRiver|睢水]], and [[WanCounty|宛县]] - diversion-enabled supply cutoff against Xiang Yu.
 - [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], and [[QinState|秦国]] - strategist, ruler, commander, and state using the method.

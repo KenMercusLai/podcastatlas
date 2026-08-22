@@ -142,7 +142,12 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] names Qi as the second target in Li Zuoche's post-Zhao sequence. The episode does not narrate a completed Qi surrender here; it records Li Zuoche's prediction that once [[YanState|燕国]] submits, another Han envoy can pressure Qi by precedent. Qi's role is therefore source-scoped as the next expected node in [[VictoryDeterrenceDiplomacy|胜势威慑外交]], not yet as an accomplished political result.
 
+[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] narrates that expected pressure beginning to work, but not cleanly. [[LiShiqi|郦食其]] persuades [[TianGuangQiKing|田广]] at [[Linzi|临淄]] that Han is becoming the safer side: [[LiuBang|刘邦]] rewards merit and holds the stronger future, while [[XiangYu|项羽]] is weakened by broken promises, Yi Emperor's death, and poor reward allocation. Qi sends envoys toward Liu Bang and relaxes its defensive posture.
+
+The same source immediately qualifies the result. [[HanXin|韩信]] hears of Li Shiqi's success and considers stopping, but [[KuaiChe|蒯彻 / 蒯通]] argues that Han Xin still has an attack order and risks losing merit to a single envoy. Qi's Hanji 162-3 role is therefore a partial [[PoliticalSurrenderCascade|招降示范级联]] case interrupted by unsynchronized Han command, not a stable final settlement.
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[Linzi|临淄]], [[HanXin|韩信]], and [[KuaiChe|蒯彻 / 蒯通]] - attempted Han-facing diplomatic pivot disrupted by attack.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[LiZuoChe|李左车]], [[HanXin|韩信]], [[YanState|燕国]], and [[VictoryDeterrenceDiplomacy|胜势威慑外交]] - predicted next target after Yan's submission, kept source-scoped because this episode does not narrate completion.
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]] - source-specific Qi branch.
 - [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]] - existing Qi-related wiki pages.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城
+
+Added source page for Hanji 162-3: Liu Bang's interception posture after command recapture, Liu Jia and Lu Wan reinforcing Peng Yue's rear raids, Xiang Yu leaving Cao Jiu at Chenggao, Li Shiqi's Aocang/Chenggao logistics warning, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that endangers the envoy. Created Cao Jiu; updated overview, index, Li Shiqi, Han Xin, Kuai Che/Kuai Tong, Tian Guang (Qi King), Qi State, Peng Yue, Liu Jia, Lu Wan, Liu Bang, Xiang Yu, Chenggao, Aocang, Yingyang, Linzi, Victory Deterrence Diplomacy, Political Surrender Cascade, Status Anxiety Persuasion, Transport Corridor Severance, Interest Reframing Persuasion, Xingyang Standoff, Xiayi Plan, and Command Authority Recapture. No settled contradiction found; Li Shiqi's Aocang/Chenggao factual overclaims and the Han command synchronization failure are kept source-scoped.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》162-2｜刘邦如何收拾位高权重的下属
 
 Added source page for Hanji 162-2: Peng Yue's rear pressure around Xiapi and Chu logistics, Xiang Yu's exhausting tactical victories around Xingyang/Chenggao, Zhou Ke and Cong Gong's final capture/death branch, Liu Bang's northward flight with Xiahou Ying, command recapture from Han Xin and Zhang Er through seals and military tokens, Han Xin's redirection toward Qi, and Gong Ao's death/Gong Wei succession. Created Xiapi, Gong Wei, and Command Authority Recapture; updated overview, index, Liu Bang, Han Xin, Zhang Er, Peng Yue, Xiang Yu, Chenggao, Zhou Ke, Cong Gong, Xiahou Ying, Gong Ao, Xingyang Standoff, Transport Corridor Severance, Xiayi Plan, Victory Overreach Failure, and Command-Seal Trust Rupture. No settled contradiction found; kept the high-status-subordinate management lesson and tactical-victory-versus-strategic-exhaustion reading source-scoped.
@@ -10201,6 +10205,10 @@ Added source page for Hanji 162-1: Ji Xin's substitutional death at Xingyang, Ch
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,042 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 
