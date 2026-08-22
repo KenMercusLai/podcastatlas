@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd.md) — 芮淇讲透资治通鉴 episode extending Hanji 161's quantum metaphor into meditation, inner stability, family energy, Buddhist/Daoist classics, Tianren Ganying, high-dimensional consciousness, and Tesla-style frequency language.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv.md) — 芮淇讲透资治通鉴 episode extending Hanji 161's quantum metaphor into gratitude, resentment, speech, anger, betrayal, romance, wealth attraction, and reaction choice.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj.md) — 芮淇讲透资治通鉴 episode using quantum entanglement as a source-scoped metaphor for fate, wealth, consciousness, family blessing, and relationship networks.
 - [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo.md) — 芮淇讲透资治通鉴 episode completing Chen Ping's Xingyang counterintelligence: the staged Fan Zeng envoy reception turns Xiang Yu against Fan Zeng and explains the failure through Xiang-family versus Chu-merit factional cleavage.
@@ -1273,6 +1274,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [释迦牟尼佛 / Shakyamuni Buddha](entities/ShakyamuniBuddha.md) — Buddhist figure invoked by Hanji 161 part 3 as the contrast for awakened perception versus ordinary appearance.
+- [《道德经》 / Daodejing](entities/Daodejing.md) — Daoist classic invoked by Hanji 161 part 3 as a source-scoped counterpart to Buddhist mind-language in the episode's high-dimensional consciousness synthesis.
+- [《金刚经》 / Diamond Sutra](entities/JingangJing.md) — Buddhist scripture cited by Hanji 161 part 3 for the appearance-versus-reality branch of the episode's consciousness metaphor.
 - [《命自我利》 / Ming Zi Wo Li](entities/MingZiWoLi.md) — Source-scoped fate-change text title named in Hanji 161 before the episode turns to quantum entanglement and relational fate.
 - [朱清时 / Zhu Qingshi](entities/ZhuQingshi.md) — Scientist cited by Hanji 161 while linking quantum mechanics, consciousness, and the episode's fate metaphor.
 - [周殷 / Zhou Yin](entities/ZhouYin.md) — Chu-side trusted-core figure named by Chen Ping as one of the reliable people whose ruler-minister trust Han wants to break.
@@ -7923,6 +7927,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [High-Dimensional Consciousness Entanglement / 高维意识纠缠](concepts/HighDimensionalConsciousnessEntanglement.md) — Hanji 161 part 3 synthesis where Daoist/Buddhist transcendence, parallel worlds, all-things-have-spirit, and Tesla-style frequency language become the source's strongest quantum-consciousness claim.
+- [Buddhist Consciousness Projection Frame / 佛教心识投射框架](concepts/BuddhistConsciousnessProjectionFrame.md) — Hanji 161 part 3 frame using 《金刚经》, 心, 识, 相, 空, and practice levels to explain appearance as consciousness-shaped rather than final reality.
+- [Tianren Ganying Projection Frame / 天人感应投射框架](concepts/TianrenGanyingProjectionFrame.md) — Hanji 161 part 3 frame where inner state, speech, family love, karma, cognition, and the outside world are treated as mutually responsive.
+- [Meditative Stability Practice / 定力修行框架](concepts/MeditativeStabilityPractice.md) — Hanji 161 part 3 practice frame for using静坐, 冥想, 禅修, retreat, and self-observation to reduce relational interference and stabilize response.
 - [Reaction Choice Frame / 反应选择框架](concepts/ReactionChoiceFrame.md) — Hanji 161 part 2 frame for pausing after injury or anger so the chosen response does not compound the original event.
 - [Gratitude Resentment Return Frame / 感恩怨恨回向框架](concepts/GratitudeResentmentReturnFrame.md) — Hanji 161 part 2 frame where gratitude, resentment, kind speech, and harsh speech feed back through relationships.
 - [Family Blessing Outcome Frame / 家人祝福与成事框架](concepts/FamilyBlessingOutcomeFrame.md) — Hanji 161 frame where major actions depend partly on family support, blessing, and practical understanding.

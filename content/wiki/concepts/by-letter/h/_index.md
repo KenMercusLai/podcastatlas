@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5107
+wiki_total_pages: 5111
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "HighCostMedicalExpenseBenefit"
     title: "High-Cost Medical Expense Benefit / 高额疗养制度"
     url: "/wiki/concepts/highcostmedicalexpensebenefit/"
+  - key: "HighDimensionalConsciousnessEntanglement"
+    title: "High-Dimensional Consciousness Entanglement / 高维意识纠缠"
+    url: "/wiki/concepts/highdimensionalconsciousnessentanglement/"
   - key: "HighDosePsychedelicPractice"
     title: "High-Dose Psychedelic Practice"
     url: "/wiki/concepts/highdosepsychedelicpractice/"

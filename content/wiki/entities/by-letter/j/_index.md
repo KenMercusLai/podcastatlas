@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6646
+wiki_total_pages: 6649
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "JianZhuKeShu"
     title: "《谏逐客书》 / Jian Zhu Ke Shu"
     url: "/wiki/entities/jianzhukeshu/"
+  - key: "JingangJing"
+    title: "《金刚经》 / Diamond Sutra"
+    url: "/wiki/entities/jingangjing/"
   - key: "JinPingMei"
     title: "《金瓶梅》 / Jin Ping Mei"
     url: "/wiki/entities/jinpingmei/"

@@ -2,13 +2,15 @@
 title: "Family Blessing Outcome Frame / 家人祝福与成事框架"
 type: concept
 tags: [family, relationships, support, fate, agency]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]
 last_updated: 2026-08-23
 ---
 
 # Family Blessing Outcome Frame / 家人祝福与成事框架
 
 Family blessing outcome frame / 家人祝福与成事框架 is the Hanji 161 claim that major action depends partly on whether close family can support, bless, or at least understand the move. In [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]], the host says marriage, resignation, entrepreneurship, spiritual retreat, and other consequential choices are not purely individual decisions because parents, spouse, children, and household relationships are part of the person's 因缘.
+
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] narrows the family layer toward love, acceptance, and parent-child repair. The host says love for pets, relatives, and especially parents can awaken inner energy, and she links accepting parents and caring for them with maturity, family harmony, and the beginning of better luck.
 
 This is stronger and more spiritualized than the existing [[FamilySupportedAspiration|家庭承托的愿望]] frame. Family-supported aspiration says dreams are made possible and meaningful through family support, responsibility, and resources. Family blessing outcome frame adds the source's claim that support and blessing affect whether "good luck" or smooth results can arrive.
 
@@ -18,6 +20,7 @@ The concept should not be used to blame relatives for a person's failure or to m
 - Major choices are treated as embedded in family relations rather than as isolated self-expression.
 - Blessing and understanding are not only emotional comfort in the source; they are part of the conditions under which action is said to succeed.
 - Family support can include explicit permission, practical coverage, emotional steadiness, and willingness not to sabotage the action.
+- Part 3 adds that parent acceptance and care are treated as inner-energy and family-harmony sources, not only as practical permission for a project.
 - The concept complements [[FamilyLaborBoundaries]] because support must be made visible rather than assumed as free background.
 
 ## Connections
@@ -26,3 +29,4 @@ The concept should not be used to blame relatives for a person's failure or to m
 - [[FamilyLaborBoundaries]] - practical labor and care-work boundary.
 - [[RelationshipNeedDiversification]] - support can come from multiple relational channels, not only one family member.
 - [[ResponsibilityAgainstRomanticEscape]] - adjacent warning that aspiration still carries duties to others.
+- [[TianrenGanyingProjectionFrame|天人感应投射框架]] and [[MeditativeStabilityPractice|定力修行框架]] - part 3's broader projection and practice frame around family energy.

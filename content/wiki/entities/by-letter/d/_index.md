@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6646
+wiki_total_pages: 6649
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "DiscoursesOnLivy"
     title: "《论李维》 / Discourses on Livy"
     url: "/wiki/entities/discoursesonlivy/"
+  - key: "Daodejing"
+    title: "《道德经》 / Daodejing"
+    url: "/wiki/entities/daodejing/"
   - key: "DescendantsOfTheDragon"
     title: "《龙的传人》 / Descendants of the Dragon"
     url: "/wiki/entities/descendantsofthedragon/"

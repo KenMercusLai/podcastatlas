@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5107
+wiki_total_pages: 5111
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "MedievalUrbanMarginality"
     title: "Medieval Urban Marginality"
     url: "/wiki/concepts/medievalurbanmarginality/"
+  - key: "MeditativeStabilityPractice"
+    title: "Meditative Stability Practice / 定力修行框架"
+    url: "/wiki/concepts/meditativestabilitypractice/"
   - key: "MegaCapConcentrationRisk"
     title: "Mega-Cap Concentration Risk"
     url: "/wiki/concepts/megacapconcentrationrisk/"

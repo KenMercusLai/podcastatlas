@@ -2,7 +2,7 @@
 title: "Consciousness Measurement"
 type: concept
 tags: [consciousness, neuroscience, ai, quantum-metaphor]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
 last_updated: 2026-08-23
 ---
 
@@ -16,6 +16,8 @@ Consciousness measurement is the open problem of finding empirical handles on co
 
 [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161]] adds a source-scoped quantum-consciousness branch. The episode cites [[ZhuQingshi|朱清时]] while arguing that consciousness and matter are inseparable, then uses that claim to support [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]]. The wiki records this as a worldview and metaphorical extension, not as an empirical consciousness-measurement result.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] adds a further source-scoped contrast through [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]] and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]]. The episode talks about心, 识, 空性, consciousness frequency, and high-dimensional unity, but it still does not offer a measurement protocol; it is stored as worldview material adjacent to consciousness questions.
+
 ## Key Claims
 - Miolane separates intelligence from consciousness: intelligence is task-directed perception and action, while consciousness is another aspect of mind.
 - [[NeuralGeometry]] can compare brain states without proving that a geometric shape is consciousness itself.
@@ -26,6 +28,7 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - The Chiang episode keeps the AI analogy speculative: superintelligence sharpens the question of understanding minds, but it does not supply a direct consciousness test.
 - Episode 256 adds that neuroscience results about simple motor readiness should not be overread as a full assay of [[FreeWill|free will]] or meaningful agency.
 - Hanji 161 adds a cautionary contrast: quantum-consciousness language can be important as worldview material while still needing separation from validated measurement.
+- Hanji 161 part 3 adds Buddhist and Daoist consciousness vocabulary while preserving the same measurement boundary.
 
 ## Connections
 - [[ClaireIsabelWebb]] - interviewer who keeps returning to consciousness, time, affect, and AI questions.
@@ -35,4 +38,4 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - [[AIInterpretabilityByAI]] and [[HumanJudgmentUnderAI]] - adjacent concerns about whether internal states are understandable and responsibly acted on.
 - [[UnderstandTedChiang|《领悟》 / Understand]], [[RationalWorldviewCollapse]], and [[PureRationalityTrap]] - literary extension into self-understanding as danger.
 - [[BenjaminLibet]], [[LibetExperimentInterpretation]], and [[MoralResponsibilityUnderDeterminism]] - EP256 branch on what neuroscience can and cannot settle.
-- [[ZhuQingshi|朱清时]] and [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] - Hanji 161 quantum-consciousness metaphor branch.
+- [[ZhuQingshi|朱清时]], [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]], [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]], and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]] - Hanji 161 quantum-consciousness metaphor branch.

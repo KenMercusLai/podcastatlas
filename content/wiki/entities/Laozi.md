@@ -2,8 +2,8 @@
 title: "老子 / Laozi"
 type: entity
 tags: [person, thinker, pre-qin, daoism]
-sources: [zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-23
 ---
 
 # 老子 / Laozi
@@ -16,6 +16,8 @@ The page records only this source-scoped association. The episode does not prove
 
 [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] uses Laozi as a strategic rather than ethical lens. The host reads "上善若水" and water's lack of fixed form as a way to explain [[HanXin|韩信]]'s adaptive use of terrain and timing: the point is not to copy a route mechanically, but to change with the situation until [[ThreeQinContainment|三秦压制]] has an exploitable opening.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] adds a Daoist-cosmology use through [[Daodejing|《道德经》]]. The host treats Daoist天人合一 and the Daodejing as source-scoped support for [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]], where consciousness resonates with a cosmic source and ordinary perception is only one level of reality.
+
 ## Connections
 - [[TaishiDan|太史旦]] - speculative identity comparison in the source.
 - [[QinState|秦国]] and [[Shiji|《史记》]] - destination and source context.
@@ -23,3 +25,4 @@ The page records only this source-scoped association. The episode does not prove
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle context being supplemented.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], and [[NonKillingUnification|不爱杀人者能一之]] - Daoist ethical frame applied to Xiang Yu's prisoner killing.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[HanXin|韩信]], [[Hanzhong|汉中]], and [[LayeredFeintCentralBreakthrough|多路佯动中央突破]] - adaptive terrain-and-form frame for the Three Qin campaign.
+- [[Daodejing|《道德经》]], [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]], and [[DaoistNourishingLifeTechniques]] - Hanji 161 part 3 Daoist cosmology and practice branch.

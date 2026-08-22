@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6646
+wiki_total_pages: 6649
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1613,6 +1613,9 @@ wiki_pages:
   - key: "SuduTechnology"
     title: "速度科技 / Sudu Technology"
     url: "/wiki/entities/sudutechnology/"
+  - key: "ShakyamuniBuddha"
+    title: "释迦牟尼佛 / Shakyamuni Buddha"
+    url: "/wiki/entities/shakyamunibuddha/"
   - key: "ShanchengWarringStates"
     title: "陕城 / Shancheng (Warring States)"
     url: "/wiki/entities/shanchengwarringstates/"

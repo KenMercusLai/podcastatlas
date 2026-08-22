@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5107
+wiki_total_pages: 5111
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "BubbleWealthRedistribution"
     title: "Bubble Wealth Redistribution / 泡沫财富再分配"
     url: "/wiki/concepts/bubblewealthredistribution/"
+  - key: "BuddhistConsciousnessProjectionFrame"
+    title: "Buddhist Consciousness Projection Frame / 佛教心识投射框架"
+    url: "/wiki/concepts/buddhistconsciousnessprojectionframe/"
   - key: "BuddhistLifeAffirmingLiterature"
     title: "Buddhist Life-Affirming Literature"
     url: "/wiki/concepts/buddhistlifeaffirmingliterature/"

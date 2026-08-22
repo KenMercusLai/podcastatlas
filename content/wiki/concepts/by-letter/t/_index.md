@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5107
+wiki_total_pages: 5111
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "TianJiHorseRacing"
     title: "Tian Ji Horse Racing / 田忌赛马"
     url: "/wiki/concepts/tianjihorseracing/"
+  - key: "TianrenGanyingProjectionFrame"
+    title: "Tianren Ganying Projection Frame / 天人感应投射框架"
+    url: "/wiki/concepts/tianrenganyingprojectionframe/"
   - key: "TigerTallyCommandSystem"
     title: "Tiger Tally Command System / 虎符调兵制度"
     url: "/wiki/concepts/tigertallycommandsystem/"
