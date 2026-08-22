@@ -10261,3 +10261,11 @@ Added source page for Hanji 166: Han Xin's final refusal of Kuai Che's third-pol
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》167｜见证项羽最终之战（1）
+
+Added source page for Hanji 167: Liu Bang's post-Honggou pursuit, Han Xin and Peng Yue's initial non-arrival, Zhang Liang's land-for-mobilization advice, Liu Jia's Huainan operation, Zhou Yin's surrender and Jiujiang troop gathering, Ying Bu's northward participation, and Xiang Yu's arrival at Gaixia before the transcript cuts off at the first charge. Created Gaixia Battle and Territorial Reward Mobilization; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Han Xin, Zhang Liang, Honggou Settlement, Instrumental Truce Breach, Conceded Kingship Stabilization, Xiayi Plan, Power-Based Alliance Repricing, Reward Allocation Backlash, Xiang Camp Factional Cleavage, Peng Yue, Zhou Yin, Liu Jia, and Ying Bu. No settled contradiction found; Zhou Yin's earlier trusted-core role is treated as a chronology tension resolved by later terminal defection.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

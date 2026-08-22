@@ -16795,6 +16795,10 @@
     "title": "Gaius Marius / 马略",
     "url": "/wiki/entities/gaiusmarius/"
   },
+  "GaixiaBattle": {
+    "title": "垓下之战 / Battle of Gaixia",
+    "url": "/wiki/entities/gaixiabattle/"
+  },
   "GalacticEmpire": {
     "title": "Galactic Empire",
     "url": "/wiki/entities/galacticempire/"
@@ -41279,6 +41283,10 @@
     "title": "Territorial Control Churn / 城池反复易手",
     "url": "/wiki/concepts/territorialcontrolchurn/"
   },
+  "TerritorialRewardMobilization": {
+    "title": "Territorial Reward Mobilization / 许地会师式动员",
+    "url": "/wiki/concepts/territorialrewardmobilization/"
+  },
   "TerryKarl": {
     "title": "Terry Karl",
     "url": "/wiki/entities/terrykarl/"
@@ -51394,6 +51402,10 @@
   "zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1": {
     "title": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1/"
+  },
+  "zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv": {
+    "title": "《资治通鉴·汉纪》167｜见证项羽最终之战（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

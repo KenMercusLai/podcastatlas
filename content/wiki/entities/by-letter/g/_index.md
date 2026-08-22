@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6667
+wiki_total_pages: 6668
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "GeologicalResearchInstitute"
     title: "地质研究所 / 地质调查所"
     url: "/wiki/entities/geologicalresearchinstitute/"
+  - key: "GaixiaBattle"
+    title: "垓下之战 / Battle of Gaixia"
+    url: "/wiki/entities/gaixiabattle/"
   - key: "GreyWolfRock"
     title: "大灰狼罗克 / Grey Wolf Rock"
     url: "/wiki/entities/greywolfrock/"

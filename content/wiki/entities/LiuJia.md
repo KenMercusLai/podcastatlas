@@ -2,7 +2,7 @@
 title: "刘贾 / Liu Jia"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
+sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
 last_updated: 2026-08-23
 ---
 
@@ -14,7 +14,10 @@ Liu Jia's role in this ingest is therefore a support node inside the later multi
 
 [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] gives that support a concrete payoff. Liu Bang sends Liu Jia and Lu Wan south of the Yellow River with infantry and cavalry to assist Peng Yue; the reinforced pressure helps Peng Yue take Suiyang, Waihuang, and other cities and forces [[XiangYu|项羽]] to leave [[Chenggao|成皋]] again.
 
+[[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]] moves Liu Jia from Peng Yue support into the Huainan collapse that precedes [[GaixiaBattle|垓下之战]]. He crosses the Huai River, surrounds Shouchun, and sends people to induce [[ZhouYin|周殷]] to surrender, turning a Chu-side trusted figure into part of the final pressure on Xiang Yu.
+
 ## Connections
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]], [[ZhouYin|周殷]], [[YingBu|英布]], and [[GaixiaBattle|垓下之战]] - Huainan operation and final anti-Chu pressure.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] - source page for Liu Jia's direct reinforcement of Peng Yue.
 - [[LiuBang|刘邦]] - ruler who sends Liu Jia.
 - [[PengYue|彭越]] and [[LuWan|卢绾]] - supported commander and paired assistant.

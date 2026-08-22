@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5122
+wiki_total_pages: 5123
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "TerritorialControlChurn"
     title: "Territorial Control Churn / 城池反复易手"
     url: "/wiki/concepts/territorialcontrolchurn/"
+  - key: "TerritorialRewardMobilization"
+    title: "Territorial Reward Mobilization / 许地会师式动员"
+    url: "/wiki/concepts/territorialrewardmobilization/"
   - key: "TestTimeScaling"
     title: "Test-Time Scaling"
     url: "/wiki/concepts/testtimescaling/"

@@ -2,7 +2,7 @@
 title: "Xiang Camp Factional Cleavage / 项羽阵营派系裂缝"
 type: concept
 tags: [statecraft, factional-politics, chu-han, kinship, military]
-sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo]
+sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo]
 last_updated: 2026-08-23
 ---
 
@@ -14,6 +14,8 @@ The Xiang-family side includes figures such as [[XiangBo|项伯]], [[XiangZhuang
 
 The concept matters because a factional crack makes an external rumor feel locally plausible. The episode says Xiang Bo and Fan Zeng had already clashed around [[HongmenYan|鸿门宴]] and Liu Bang's fate; Chen Ping's envoy-feast performance then makes Fan Zeng look like an alternate power channel inside Chu, not merely as a loyal adviser.
 
+[[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]] adds a terminal sequel through Zhou Yin. Earlier pages classify him as part of Xiang Yu's trusted old-Chu merit core; the Gaixia setup shows him surrendering after Liu Jia surrounds Shouchun, then using Huainan, Shucheng, Jiujiang troops, and Ying Bu to add pressure against Xiang Yu. The later defection does not erase the earlier category, but it shows that trusted-core cohesion can still break under final battlefield isolation.
+
 This differs from generic [[RewardAllocationBacklash|分配反噬]]. Reward grievance can make a rumor believable, but here the sharper failure is Xiang Yu's inability to balance kin loyalty with non-kin merit. It also differs from generic [[RumorErosionOfTrust|谣言侵蚀信任]] because the rumor succeeds by mapping onto a visible faction structure.
 
 ## Key Claims
@@ -22,8 +24,10 @@ This differs from generic [[RewardAllocationBacklash|分配反噬]]. Reward grie
 - Merit commanders become exposed when their usefulness makes them look like independent centers of authority.
 - Counterintelligence works best when it turns an existing internal division into a decision-making distortion.
 - Xiang Yu's failure is not only military or temperamental; it is also an inability to mediate between the people his family made safe and the people his wars made necessary.
+- Hanji 167 adds the terminal-pressure version: an earlier trusted merit commander can later become a defection channel when the regime is isolated.
 
 ## Connections
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]], [[ZhouYin|周殷]], [[LiuJia|刘贾]], [[YingBu|英布]], and [[GaixiaBattle|垓下之战]] - later defection of a previously trusted merit-side figure.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[ChenPing|陈平]], [[XiangYu|项羽]], and [[FanZeng|范增]] - source case and main actors.
 - [[XiangBo|项伯]], [[XiangZhuang|项庄]], and [[XiangTuoChuHan|项佗]] - Xiang-family side of the cleavage.
 - [[LongJuChuGeneral|龙且]], [[ZhongliMo|钟离眜]], [[ZhouYin|周殷]], and [[ChenYing|陈婴]] - old Chu merit-command side.
