@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6694
+wiki_total_pages: 6697
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "DingErLihun"
     title: "丁二（《离婚》） / Ding Er"
     url: "/wiki/entities/dingerlihun/"
+  - key: "DingGong"
+    title: "丁公 / Ding Gong"
+    url: "/wiki/entities/dinggong/"
   - key: "DingWenjiang"
     title: "丁文江"
     url: "/wiki/entities/dingwenjiang/"

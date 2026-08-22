@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）](sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk.md) — 芮淇讲透资治通鉴 episode completing the Hanji 170 capital question: Ding Gong as a negative loyalty example, Lou Jing and Zhang Liang arguing against Luoyang, and Liu Bang's move west to Chang'an as Guanzhong-based founding strategy.
 - [《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）](sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-accession cleanup of defeated elites: Tian Heng's island exile, summons, suicide, retainer deaths, Xu Beihong memory, and Ji Bu's pardon through Zhu Jia and Xiahou Ying.
 - [《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）](sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc.md) — 芮淇讲透资治通鉴 episode on Liu Bang's accession aftermath: Lu Zhi and Liu Ying's founding positions, Wu Rui and Wuzhu's southern kingships, postwar return-and-veteran relief, the South Palace specialist-use explanation, and Han Xin's hostile Chu placement.
 - [《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）](sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi.md) — 芮淇讲透资治通鉴 episode on Liu Bang's transition from Xiang Yu's death into Han founding order: Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, Gong Wei's capture, Han Xin and Peng Yue's kingships, amnesty, and accession.
@@ -1291,6 +1292,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [丁公 / Ding Gong](entities/DingGong.md) — Former Xiang Yu-side figure whom Liu Bang executes after accession as a negative example of disloyal office conduct.
+- [楼敬 / Lou Jing](entities/LouJing.md) — Qi man whose Guanzhong capital advice breaks the Zhou-Luoyang analogy and helps move Liu Bang toward Chang'an.
+- [长安 / Chang'an (Han capital)](entities/ChangAnHanCapital.md) — Early Western Han capital chosen after Lou Jing and Zhang Liang argue for Guanzhong's defensive, resource, and transport advantages.
 - [季布 / Ji Bu](entities/JiBu.md) — Former Xiang Yu general whom Liu Bang first hunts and then pardons as a public example of former enemy loyalty.
 - [朱家 / Zhu Jia (Lu)](entities/ZhuJiaLu.md) — Lu-region rescuer and persuader who hides Ji Bu and argues for reframing former enemy service as loyalty.
 - [徐悲鸿 / Xu Beihong](entities/XuBeihong.md) — Painter used by Hanji 170 part 1 to show Tian Heng's afterlife as patriotic moral memory.

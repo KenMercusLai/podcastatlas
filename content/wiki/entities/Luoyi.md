@@ -2,7 +2,7 @@
 title: "洛邑 / Luoyi"
 type: entity
 tags: [city, zhou-dynasty, pre-qin, diplomacy]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
+sources: [zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
 last_updated: 2026-08-23
 ---
 
@@ -24,7 +24,10 @@ The place also matters for the following year's [[Fengze|逢泽]] geography. The
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] moves Luoyang / Luoyi into the Western Han founding frame. The episode says [[LiuBang|刘邦]] sets the capital at Luoyang and then, at the South Palace, asks why he won the realm while [[XiangYu|项羽]] lost it. The city becomes the stage for [[SpecialistDelegationLeadership|专才分工式领导力]], because Liu Bang explains Han victory through his ability to use [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]].
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] turns Luoyang from temporary founding stage into rejected capital option. [[LouJing|楼敬]] argues that Zhou could use Luoyang because Zhou's authority rested on long moral accumulation and a settled ritual order, while Liu Bang's empire has just been made through war. [[ZhangLiang|张良]] adds that Luoyang's terrain is not enough to offset its small hinterland and multi-sided exposure, so Liu Bang leaves for [[ChangAnHanCapital|长安]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]], [[LouJing|楼敬]], [[ZhangLiang|张良]], [[GuanzhongRegion|关中]], [[ChangAnHanCapital|长安]], and [[StrategicCapitalRelocation|战略性迁都]] - rejected capital option in the Han founding move west.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[SpecialistDelegationLeadership|专才分工式领导力]] - capital setting and South Palace explanation of Han victory.
 - [[ZhouRoyalHouse|周王室]] and [[ZhouXianwang|周显王]] - royal institution and reign frame.
 - [[AudienceVsMeetingDiplomacy]] - source concept attached to "会于京师."

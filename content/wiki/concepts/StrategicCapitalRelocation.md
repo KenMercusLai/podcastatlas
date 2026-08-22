@@ -2,8 +2,8 @@
 title: "Strategic Capital Relocation / 战略性迁都"
 type: concept
 tags: [statecraft, geography, capitals, warring-states]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-23
 ---
 
 # Strategic Capital Relocation / 战略性迁都
@@ -16,6 +16,8 @@ The source traces a sequence from Pingyang to Yiyang, Yangdi, and finally Xinzhe
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] adds a Chu-Han version through Liu Bang's move to [[LiyangQinHan|栎阳]] after the Guanzhong breakthrough. Here relocation is not aimed at one conquest target like Han-Zheng; it turns recovered Guanzhong into a capital-backed rear base while Liu Bang expands through Longxi, Beidi, Henan, Wei, and Henei.
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] adds the formal founding-capital version. [[LouJing|楼敬]] rejects Liu Bang's plan to imitate Zhou by staying at [[Luoyi|洛阳 / 洛邑]], arguing that Han's war-made order needs [[GuanzhongRegion|关中]]'s defensible and fertile base. [[ZhangLiang|张良]] confirms that [[ChangAnHanCapital|长安]] can draw on Ba-Shu, northern resources, and river transport while Luoyang lacks enough hinterland. Relocation is therefore not only consolidation after breakthrough; it is the choice of what geography the new dynasty will inhabit.
+
 ## Key Claims
 - A capital can be a strategic instrument, not only a seat of administration.
 - Moving the center of rule can reveal the direction in which a state expects to expand.
@@ -23,6 +25,7 @@ The source traces a sequence from Pingyang to Yiyang, Yangdi, and finally Xinzhe
 - Geography constrains ambition: the source says Han's other expansion directions were harder, making Zheng the more realistic target.
 - A capital move can also belong to administrative consolidation, not only outward expansion toward a target.
 - Hanji 149 part 2 adds capital relocation as rear-base consolidation after a breakthrough.
+- Hanji 170 part 2 adds founding-capital relocation as a choice between symbolic centrality and strategic base depth.
 
 ## Connections
 - [[HanState|韩国]], [[HanKangzi|韩康子]], [[HanWuzi|韩武子]], [[HanJinghou|韩景侯]], and [[HanAihou|韩哀侯]] - source sequence.
@@ -31,3 +34,4 @@ The source traces a sequence from Pingyang to Yiyang, Yangdi, and finally Xinzhe
 - [[TerritorialControlChurn]] - neighboring concept for how control shifts once states are under sustained pressure.
 - [[QinState|秦国]], [[ShangYang|公孙鞅 / 商鞅]], [[Xianyang|咸阳]], and [[QinAdministrativeStandardization]] - Zhouji 17 Qin second-reform extension.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiuBang|刘邦]], [[LiyangQinHan|栎阳]], [[GuanzhongRegion|关中]], [[LongxiCommandery|陇西郡]], and [[BeidiCommandery|北地郡]] - Chu-Han capital-backed rear-base consolidation.
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]], [[LiuBang|刘邦]], [[LouJing|楼敬]], [[ZhangLiang|张良]], [[Luoyi|洛阳 / 洛邑]], and [[ChangAnHanCapital|长安]] - founding-capital relocation from Zhou symbolic center toward Guanzhong strategic depth.

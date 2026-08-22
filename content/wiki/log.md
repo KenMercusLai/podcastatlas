@@ -10119,6 +10119,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）
+
+Added source page for Hanji 170 part 2: Ding Gong's execution as a negative loyalty example after having spared Liu Bang at Pengcheng, Lou Jing's argument that Han cannot imitate Zhou's Luoyang logic, Zhang Liang's confirmation of Guanzhong's defensive, resource, and transport advantages, Liu Bang's same-day move west to Chang'an, and the preview of Zhang Liang's self-protection problem. Created Ding Gong, Lou Jing, and Chang'an (Han capital); updated overview, index, Liu Bang, Western Han dynasty, Zhang Liang, Ji Bu, Luoyang/Luoyi, Guanzhong Region, Strategic Capital Relocation, Former Enemy Loyalty Reframing, Battlefield Victory To Founding Order, and Ruiqi Jiangtou Zizhi Tongjian. No settled contradiction found; Ding Gong's possible private-benefit motive is kept as the host's source-scoped inference.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭
 
 Added source page for Hanji 164-1: Guangwu ravine standoff and Honggou framing, Liu Bang's ten-count legitimacy indictment against Xiang Yu, Xiang Yu's hidden crossbow shot, Liu Bang's toe-wound cover story, Zhang Liang's camp patrol to preserve command continuity, the broader Xingyang/Guangwu balance shift, Qi's retreat from Linzi, and Long Ju's rescue force entering Han Xin's feigned-defeat trap. Created Legitimacy Indictment Warfare and Command Continuity Damage Control; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Zhang Liang, Han Xin, Qi State, Tian Guang (Qi King), Tian Heng, Linzi, Guangwu, Long Ju, Xingyang Standoff, and Battlefield Information Control. No settled contradiction found; the source's "隆居" is normalized to Long Ju / 龙且, and additional Qi retreat names remain source-scoped.
@@ -10313,6 +10317,10 @@ Ran lint after health and identity validation passed. Health scanned 13,103 wiki
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）
 
 Added source page for Hanji 170 part 1: Tian Heng's island exile, Liu Bang's forced summons and protection against Li Shang's revenge, Tian Heng's suicide, follower deaths, Xu Beihong's later patriotic painting memory, Ji Bu's hiding under Zhu Jia, Zhu Jia's persuasion through Xiahou Ying, and Liu Bang's pardon and appointment of Ji Bu. Created Ji Bu, Zhu Jia (Lu), Xu Beihong, Nanyue, and Former Enemy Loyalty Reframing; updated overview, index, Liu Bang, Western Han dynasty, Qi State, Tian Heng, Li Shang, Xiahou Ying, Ruiqi Jiangtou Zizhi Tongjian, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, Battlefield Victory To Founding Order, Pardon As State Power, and Moral Reputation as Political Capital. No settled contradiction found; the title's Luoyang-to-Chang'an promise is recorded as preview because this part remains on political cleanup after accession.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 
