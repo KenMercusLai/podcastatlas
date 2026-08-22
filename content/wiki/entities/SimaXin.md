@@ -2,7 +2,7 @@
 title: "司马欣 / Sima Xin"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-22
 ---
 
@@ -17,6 +17,8 @@ The source does not yet give Sima Xin independent decisions. His page therefore 
 His advice reframes Zhang Han's military problem as a political survival trap. If Qin wins, Zhao Gao may envy and eliminate the successful commander; if Qin loses, defeat itself is punishable. Sima Xin therefore becomes the messenger who converts failed court access into the logic for surrender.
 
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] adds Sima Xin's post-surrender command role. After [[XiangYu|项羽]] removes [[ZhangHanQin|章邯]] from direct control of the surrendered Qin army, Sima Xin is placed over those troops during the westward march. When the surrendered soldiers are killed at [[XinanMassacre|新安坑降]], the episode says Sima Xin is spared together with Zhang Han and [[DongYiQin|董翳]].
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] makes Sima Xin one of the three Qin kings. Xiang Yu appoints him Sai king, with territory east of Xianyang toward the Yellow River, because of his earlier connection to [[XiangLiang|项梁]]. In the settlement, Sima Xin is no longer only a messenger and spared senior surrendered leader; he becomes part of the [[ThreeQinContainment|三秦压制]] barrier against [[LiuBang|刘邦]].
 
 ## Connections
 - [[QinErshi|胡亥 / 秦二世]] - ruler who sends him to support the campaign.

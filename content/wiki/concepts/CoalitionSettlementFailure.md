@@ -2,7 +2,7 @@
 title: "Coalition Settlement Failure / 联军战后安排失败"
 type: concept
 tags: [warfare, diplomacy, statecraft, coalition, warring-states, qin]
-sources: [zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-22
 ---
 
@@ -17,6 +17,8 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] extends the failure from title allocation to surrendered-force management. Xiang Yu's camp fears that surrendered Qin troops resent forced service east of [[HanguPass|函谷关]] and may rebel, so [[YingBu|英布]] and [[PuGeneral|蒲将军]] kill them at [[XinanMassacre|新安坑降]] while sparing [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]]. The settlement preserves useful elite collaborators but destroys the mass of surrendered soldiers, revealing how a coalition victory can lack a durable integration plan for the people and forces it has just absorbed.
 
 [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] extends the failure into capital and base selection. After [[HongmenYan|鸿门宴]], [[XiangYu|项羽]] controls the field strongly enough to enter [[Xianyang|咸阳]], but he kills [[ZiyingQin|子婴]], burns and plunders the capital, and rejects [[HanSheng|韩生]]'s advice to hold [[GuanzhongRegion|关中]] as a defensible, wealthy base. The problem is no longer only how to treat surrendered troops or allocate titles; it is whether battlefield supremacy can become an order with a center.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] adds the formal partition layer. Xiang Yu solves the immediate "who divides the world" problem by overriding [[MiXin|芈心 / 楚怀王]] and applying a military-merit story, but the settlement still carries failure risks: [[LiuBang|刘邦]] is confined rather than reconciled, surrendered Qin leaders become the [[ThreeQinContainment|Three Qin]] blocking layer, old kings and new commanders are rearranged, and excluded figures such as [[TianRong|田荣]] and [[ChenYu|陈馀]] remain outside the reward consensus. This extends the concept from plunder-and-depart failure into over-engineered but brittle partition.
 
 ## Key Claims
 - A coalition's battlefield interests can diverge from its postwar design interests.

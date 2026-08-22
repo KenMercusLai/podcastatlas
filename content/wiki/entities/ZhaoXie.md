@@ -2,7 +2,7 @@
 title: "赵歇 / Zhao Xie"
 type: entity
 tags: [person, ruler, zhao, qin-han, rebellion]
-sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -17,6 +17,8 @@ Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式�
 [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] puts Zhao Xie under renewed Qin pressure. [[ZhangHanQin|章邯]] breaks [[Handan|邯郸]] after killing [[XiangLiang|项梁]], and Zhao Xie flees with [[ZhangEr|张耳]] to [[Julu|巨鹿]]. [[WangLiQin|王离]] then surrounds Julu while [[ChenYu|陈馀]] camps to the north, making Zhao Xie's restored kingship dependent on outside rescue.
 
 [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] keeps Zhao Xie mostly as the besieged king whose survival depends on the [[JuluBattle|巨鹿之战]] outcome. Inside Julu, grain and soldiers are running down while [[WangLiQin|王离]] is supplied by [[ZhangHanQin|章邯]]'s corridor. Zhao Xie's restored royal legitimacy therefore cannot save the regime by itself; it needs military relief that normal Zhao-side action fails to provide.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Zhao Xie's settlement demotion. [[XiangYu|项羽]] moves him from Zhao king to Dai king, while [[ZhangEr|张耳]] becomes Changshan king because of reputation and participation in the westward entry. Zhao Xie's restored royal name remains useful, but it is subordinated to Xiang Yu's reward logic inside [[ZhouQinHybridOrder|周秦混合制]].
 
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - figures who install Zhao Xie.

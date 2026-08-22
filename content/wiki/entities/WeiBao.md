@@ -2,7 +2,7 @@
 title: "魏豹 / Wei Bao"
 type: entity
 tags: [person, wei-state, warring-states, chu-han-contention]
-sources: [zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
 last_updated: 2026-08-22
 ---
 
@@ -19,6 +19,8 @@ The prediction is fulfilled in a way that empties his self-centered reading. The
 [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]] moves Wei Bao back into the Qin-collapse restoration field. After [[WeiJiu|魏咎]] dies at Linji under [[ZhangHanQin|章邯]]'s pressure, Wei Bao escapes to [[ChuState|楚国]]. [[MiXin|芈心 / 楚怀王]] gives him several thousand soldiers so he can try to recover old Wei territory.
 
 [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] records the payoff of that backing. Wei Bao recovers more than twenty old Wei cities, and Mi Xin recognizes him as Wei king. The source therefore turns his earlier Chu-backed restoration attempt into a partial success inside the broader [[SixStateRestorationAntiQinStrategy|six-state restoration]] field.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Wei Bao's Xiang Yu settlement adjustment. [[XiangYu|项羽]] moves him from Wei king to West Wei king, with Pingyang as capital and Hedong as territory. The change shows how old restored royal titles can survive but be re-ranked and relocated inside [[ZhouQinHybridOrder|周秦混合制]].
 
 ## Connections
 - [[WeiState|魏国]], [[WeiWangJia|魏王假]], and [[WeiJiu|魏咎]] - fallen Wei context and related surviving figure.

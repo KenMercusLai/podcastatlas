@@ -2,7 +2,7 @@
 title: "吴芮 / Wu Rui"
 type: entity
 tags: [person, official, anti-qin, rebellion, qin-han]
-sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-08-22
 When Ying Bu arrives with several thousand followers, Wu Rui marries his daughter to him and orders him to attack Qin. The episode presents the marriage as a political and military alliance: Wu Rui supplies legitimacy and local connection; Ying Bu supplies armed men and battlefield mobility.
 
 The source notes that both Wu Rui and Ying Bu survive the broader turmoil. This page records that as a signal that their alliance is not only dramatic but also politically durable within the episode's compressed account.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Wu Rui his post-Qin reward. The episode says he leads southern Baiyue groups into the anti-Qin campaign and follows [[XiangYu|项羽]] into the pass, so Xiang Yu makes him Hengshan king. His subordinate [[MeiJuan|梅鋗]] also receives a large marquisate, making Wu Rui's branch a southern-alliance case inside [[ZhouQinHybridOrder|周秦混合制]].
 
 ## Connections
 - [[YingBu|英布 / 黥布]] - son-in-law and military ally.

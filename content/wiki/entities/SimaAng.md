@@ -2,7 +2,7 @@
 title: "司马卬 / Sima Ang"
 type: entity
 tags: [person, general, zhao, chu-han, guanzhong]
-sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
 last_updated: 2026-08-22
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-08-22
 Liu Bang responds by attacking around Pingyin and cutting the crossing route. In the source's interpretation, the point is not only operational security but credit control under [[HuaiwangAgreement|怀王之约]]: if another commander enters Guanzhong first, Liu Bang's promised reward route is endangered.
 
 Sima Ang therefore marks the competitive side of anti-Qin coalition warfare. Even while multiple forces oppose Qin, their routes and prizes can conflict, keeping [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] active inside the shared campaign.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Sima Ang a post-Qin reward despite that earlier route competition with Liu Bang. [[XiangYu|项羽]] makes him Yin king with capital at Chaoge because he had pacified Henei. His page therefore now includes both the pre-settlement competition for [[GuanzhongRegion|关中]] and the later military-merit title inside [[ZhouQinHybridOrder|周秦混合制]].
 
 ## Connections
 - [[LiuBang|刘邦]] - commander who blocks his southward move.

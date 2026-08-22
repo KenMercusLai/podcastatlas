@@ -9878,3 +9878,11 @@ Added source page for Hanji 142: Fan Kuai's forceful Hongmen entry and status-re
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》143｜项羽是如何费尽心机弄死楚怀王芈心
+
+Added source page for Hanji 143: Xiang Yu's request to discard the Huaiwang promise, Mi Xin's refusal, Xiang Yu's denial of Mi Xin's settlement authority, virtual elevation to Yi Emperor and relocation to Chenxian, Liu Bang's assignment as Han king at Nanzheng, the Three Qin blocking arrangement around Zhang Han, Sima Xin, and Dong Yi, and the episode's Zhou-Qin hybrid interpretation of the nineteen-lord settlement. Created Zhou-Qin Hybrid Order, Three Qin Containment, Nanzheng, Chenxian (Changsha), Shen Yang, Zang Tu, Tian Shi, Tian Du, Tian An, Gong Ao, and Mei Juan; updated overview, index, and related Chu-Han pages. No settled contradiction found; treated the title's "弄死楚怀王" as setup through isolation rather than a full narration of Mi Xin's final killing.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

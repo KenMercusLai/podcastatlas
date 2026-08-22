@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6573
+wiki_total_pages: 6582
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "ChedunTown"
     title: "车墩镇 / Chedun Town"
     url: "/wiki/entities/cheduntown/"
+  - key: "ChenxianChangsha"
+    title: "郴县 / Chen County (Changsha)"
+    url: "/wiki/entities/chenxianchangsha/"
   - key: "ChangAnJunZhao"
     title: "长安君 / Lord Chang'an of Zhao"
     url: "/wiki/entities/changanjunzhao/"

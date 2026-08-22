@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5063
+wiki_total_pages: 5065
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "ThreeJinVassalRecognition"
     title: "Three Jin Vassal Recognition / 三晋受封"
     url: "/wiki/concepts/threejinvassalrecognition/"
+  - key: "ThreeQinContainment"
+    title: "Three Qin Containment / 三秦压制"
+    url: "/wiki/concepts/threeqincontainment/"
   - key: "ThreeLayerScaleEconomies"
     title: "Three-Layer Scale Economies"
     url: "/wiki/concepts/threelayerscaleeconomies/"

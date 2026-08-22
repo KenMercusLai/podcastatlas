@@ -2,7 +2,7 @@
 title: "Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局"
 type: concept
 tags: [statecraft, administration, commandery-county-system, qin-history, centralization]
-sources: [zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv]
 last_updated: 2026-08-22
 ---
 
@@ -19,6 +19,8 @@ This makes the commandery-county system the administrative counterpart to [[Impe
 [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]] adds the social engineering that makes the settlement harder to contest. The source says Qin Shi Huang moves 120,000 powerful households to [[Xianyang|咸阳]], weakening local elite networks before appointed local governments impose the new order. The concept therefore includes not only the rejection of royal fiefs, but the coercive removal of regional intermediaries who might obstruct direct administration.
 
 [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] adds the backlash-and-enforcement sequel. Eight years after unification, [[ChunyuYue|淳于越]] revives the enfeoffment argument at court by appealing to Xia-Shang-Zhou precedent. [[LiSi|李斯]] answers not with another narrow administrative comparison, but by treating复古 speech itself as a threat to the settlement. The resulting [[QinBookBurningPolicy|秦代焚书令]] shows direct rule being defended through control of texts and teaching as well as through counties, offices, and elite relocation.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] supplies a contrastive correction to the common Xiang Yu comparison. The episode says Xiang Yu's partition should not be reduced to a simple rollback from Qin's commandery-county settlement to Zhou feudalism. Unlike Qin after full conquest, Xiang Yu lacks the force and administrative capacity to impose direct rule over the eastern world, so his [[ZhouQinHybridOrder|周秦混合制]] mixes military-merit enfeoffment, restored kings, surrendered Qin leaders, and hegemonic obligations. The comparison keeps Qin's anti-enfeoffment logic intact while making Xiang Yu's alternative a constrained and unstable post-coalition settlement rather than mere antiquarian復古.
 
 ## Key Claims
 - The commandery-county decision is a post-unification settlement, not only a continuation of pre-imperial reform.

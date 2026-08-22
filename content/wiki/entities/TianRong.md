@@ -2,7 +2,7 @@
 title: "田荣 / Tian Rong"
 type: entity
 tags: [person, qi, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-22
 ---
 
@@ -15,6 +15,8 @@ last_updated: 2026-08-22
 After returning to [[QiState|齐国]], Tian Rong rejects the officials' installation of [[TianJia|田假]] as Qi king. He argues that succession should at least pass through the strongest anti-Qin actor in Qi, then drives Tian Jia to [[ChuState|楚国]], while [[TianJiao|田角]] and [[TianJianQiGeneral|田间]] flee to [[ZhaoState|赵国]]. He installs Tian Dan's son as king, takes the chancellorship himself, and makes [[TianHeng|田横]] general.
 
 The same source turns Tian Rong from rescued ally into coalition blocker. When Xiang Liang asks Qi and Zhao to join a joint attack on Zhang Han, Tian Rong demands that Chu kill Tian Jia and Zhao kill Tian Jiao plus Tian Jian before Qi will send troops. Chu and Zhao refuse to kill refugees who have entrusted themselves to them, so Tian Rong refuses to cooperate. His page therefore sharpens [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]]: internal restoration legitimacy can override the common anti-Qin battlefield interest.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] records the settlement penalty for that non-cooperation. Xiang Yu does not give Tian Rong a kingship because Tian Rong repeatedly refused orders and did not join the westward campaign. Instead, the Qi field is divided among [[TianShi|田巿]], [[TianDu|田都]], and [[TianAn|田安]], making Tian Rong a major excluded actor inside [[ZhouQinHybridOrder|周秦混合制]].
 
 ## Connections
 - [[TianDanQinRebel|田儋]] and [[TianHeng|田横]] - Qi kinship and restored-state network.

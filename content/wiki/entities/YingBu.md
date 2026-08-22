@@ -2,7 +2,7 @@
 title: "英布 / 黥布 / Ying Bu"
 type: entity
 tags: [person, anti-qin, rebellion, qin-han, military]
-sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -25,6 +25,8 @@ In the episode's reading, Ying Bu's corridor attack is what makes the later [[Br
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives Ying Bu a darker post-Julu role. When [[XiangYu|项羽]] worries that the surrendered Qin troops may rebel near [[HanguPass|函谷关]], he discusses the problem with Ying Bu and [[PuGeneral|蒲将军]]. The episode says Ying Bu and Pu General then lead the night attack that kills the surrendered Qin soldiers at [[XinanMassacre|新安坑降]].
 
 [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] keeps Ying Bu as Xiang Yu's force-execution instrument. After [[LiuBang|刘邦]] seals the [[GuanzhongRegion|关中]] entry route, Xiang Yu orders Ying Bu and others to attack the pass, moving Ying Bu from the Xinan surrendered-troop killing into the coercive opening of the [[HongmenYan|鸿门宴]] crisis.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Ying Bu the reward endpoint implied by his prior campaign work. Xiang Yu makes him Jiujiang king, describing him as a brave Chu commander with major battlefield merit. Ying Bu now anchors one of the Chu-side reward cases inside [[ZhouQinHybridOrder|周秦混合制]], linking convict-bandit origins, Julu service, Xinan violence, and post-Qin kingship.
 
 ## Connections
 - [[Lishan|骊山]] and [[QinState|秦国]] - punishment and convict-labor background.

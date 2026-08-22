@@ -2,8 +2,8 @@
 title: "汉中 / Hanzhong"
 type: entity
 tags: [place, region, pre-qin, warring-states, chu-state, qin-state]
-sources: [zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+last_updated: 2026-08-22
 ---
 
 # 汉中 / Hanzhong
@@ -13,6 +13,8 @@ last_updated: 2026-08-20
 The episode's interpretive point is that Hanzhong should have become [[ChuHuaiwang|楚怀王]]'s practical recovery objective. Instead, he remains fixated on the six hundred li of [[Shangyu|商於]] that [[ZhangYiStrategist|张仪]] had only promised verbally. Hanzhong therefore anchors the gap between real, newly lost territory and imagined compensation.
 
 [[zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk]] uses Hanzhong as evidence of Zhang Yi's value to [[QinState|秦国]]. The host says Zhang Yi had recently helped Qin take six hundred li of Hanzhong, which makes his exposure in Chu especially bitter: a minister who just produced major territory can still become a [[MinisterAsExchangeableAsset|可交换功臣]] in a later bargain.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Hanzhong a Chu-Han settlement role. [[XiangYu|项羽]] assigns [[LiuBang|刘邦]] Hanzhong together with [[BaShu|巴蜀]] and the capital [[Nanzheng|南郑]], using the region to make Liu Bang Han king while keeping him away from direct [[GuanzhongRegion|关中]] rule. Hanzhong now sits inside [[ThreeQinContainment|三秦压制]] as both a title base and a constrained launch position.
 
 ## Connections
 - [[DanyangBattle|丹阳之战]] - battle after which Qin takes the region.

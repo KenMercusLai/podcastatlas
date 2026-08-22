@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6573
+wiki_total_pages: 6582
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1040,9 +1040,15 @@ wiki_pages:
   - key: "TianZifang"
     title: "田子方 / Tian Zifang"
     url: "/wiki/entities/tianzifang/"
+  - key: "TianAn"
+    title: "田安 / Tian An"
+    url: "/wiki/entities/tianan/"
   - key: "TianFeng"
     title: "田峰 / Tian Feng"
     url: "/wiki/entities/tianfeng/"
+  - key: "TianShi"
+    title: "田巿 / Tian Shi"
+    url: "/wiki/entities/tianshi/"
   - key: "TianChang"
     title: "田常 / Tian Chang"
     url: "/wiki/entities/tianchang/"
@@ -1079,6 +1085,9 @@ wiki_pages:
   - key: "TianJiao"
     title: "田角 / Tian Jiao"
     url: "/wiki/entities/tianjiao/"
+  - key: "TianDu"
+    title: "田都 / Tian Du"
+    url: "/wiki/entities/tiandu/"
   - key: "TianJianQiGeneral"
     title: "田间 / Tian Jian (Qi General)"
     url: "/wiki/entities/tianjianqigeneral/"

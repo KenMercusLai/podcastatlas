@@ -2,7 +2,7 @@
 title: "关中 / Guanzhong Region"
 type: entity
 tags: [region, qin-state, pre-qin, chu-han, logistics]
-sources: [zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
 last_updated: 2026-08-22
 ---
 
@@ -21,6 +21,8 @@ Guanzhong also separates the two mission tracks in this episode. [[LiuBang|刘�
 [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] adds the counter-framing through [[XiangBo|项伯]]. For Liu Bang's side, Guanzhong is the fulfilled reward and future base; for Xiang Yu's angry camp, it looks like seizure. Xiang Bo's successful argument reframes Liu Bang's first entry as coalition-enabling merit, making an immediate attack look morally wrong even before the final settlement is decided.
 
 [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] adds the strategic alternative after Xiang Yu has effectively taken control. [[HanSheng|韩生]] argues that Guanzhong's terrain and fertility make it the right base for durable rule, but [[XiangYu|项羽]] rejects the advice because he wants to return east in glory. The region therefore becomes not only Liu Bang's promised prize and support base, but also the statecraft option Xiang Yu refuses after winning the immediate confrontation.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] turns Guanzhong into the territory Xiang Yu deliberately prevents [[LiuBang|刘邦]] from holding directly. Liu Bang is made Han king at [[Nanzheng|南郑]] over [[BaShu|巴蜀]] and [[Hanzhong|汉中]], while [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]] are placed across the old Qin core as [[ThreeQinContainment|三秦压制]]. Guanzhong therefore shifts from promised reward and rejected capital-base into a managed exclusion zone inside [[ZhouQinHybridOrder|周秦混合制]].
 
 This page uses the `GuanzhongRegion` key to avoid colliding with [[GuanZhong|管仲 / Guan Zhong]], the Spring and Autumn minister.
 

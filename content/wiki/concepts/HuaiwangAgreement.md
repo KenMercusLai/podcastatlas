@@ -2,7 +2,7 @@
 title: "Huaiwang Agreement / 怀王之约"
 type: concept
 tags: [legitimacy, rebellion, qin, chu-han, coalition, reward]
-sources: [zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
 last_updated: 2026-08-22
 ---
 
@@ -27,6 +27,8 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] adds Xiang Bo's use of the same rule as a restraint on Xiang Yu. Liu Bang's first entry into Guanzhong can be attacked as premature seizure, but Xiang Bo reframes it as prior merit: without Liu Bang's first breakthrough, the coalition would not have arrived so smoothly. The agreement therefore becomes not only a title claim but also a moral shield against immediate punishment.
 
 [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] shows the rule used inside the banquet through [[FanKuai|樊哙]]'s rebuke. Fan Kuai reminds [[XiangYu|项羽]] that the prior promise made first entry into Guanzhong a legitimate claim, then pairs that claim with [[LiuBang|刘邦]]'s non-plunder conduct after entering [[Xianyang|咸阳]]. The agreement therefore becomes a live rhetorical defense for Liu Bang during the escape, even though Liu Bang survives by temporarily yielding to Xiang Yu's immediate command.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives the rule's formal defeat without making it disappear. [[MiXin|芈心 / 楚怀王]] insists on the original promise when Xiang Yu asks to change it, but [[XiangYu|项羽]] denies Mi Xin's right to decide the post-Qin order and redistributes the world by claimed military merit. Liu Bang still receives a Han kingship tied rhetorically to [[BaShu|巴蜀]] and [[Hanzhong|汉中]], but [[ThreeQinContainment|三秦压制]] means the Guanzhong promise has been hollowed out in practice.
 
 ## Key Claims
 - A coalition promise can coordinate ambition by making reward rules public before victory is complete.

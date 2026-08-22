@@ -2,7 +2,7 @@
 title: "韩成 / Han Cheng"
 type: entity
 tags: [person, han-state, qin, anti-qin, ruler]
-sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
+sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
 last_updated: 2026-08-22
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-08-22
 Xiang Liang accepts the proposal, appoints Han Cheng as Han king, and makes Zhang Liang Han's situ. Han Cheng and Zhang Liang then lead more than one thousand men westward into former Han territory.
 
 The source keeps his restoration fragile. Han Cheng's force takes several cities, loses them again to [[QinState|秦国]], and can only keep moving around Yingchuan as a guerrilla-style force. His page therefore illustrates both the appeal and the weakness of [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] when symbolic title outruns military base.
+
+[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] records Han Cheng as one of the old kings Xiang Yu initially leaves in place. In the episode's settlement list, Han Cheng remains Han king with Yangdi as capital. His case contrasts with lords such as [[ZangTu|臧荼]] and [[TianDu|田都]], whose new titles come from closer alignment with Xiang Yu's campaign.
 
 ## Connections
 - [[ZhangLiang|张良]] - recommends him and serves as Han situ.
