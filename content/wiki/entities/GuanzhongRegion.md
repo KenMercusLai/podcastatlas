@@ -2,7 +2,7 @@
 title: "关中 / Guanzhong Region"
 type: entity
 tags: [region, qin-state, pre-qin, chu-han, logistics]
-sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
+sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ Guanzhong also separates the two mission tracks in this episode. [[LiuBang|刘�
 
 [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] turns Guanzhong from prize and support base into immediate conflict object. Liu Bang closes the entry routes after occupying the region, while [[CaoWushang|曹无伤]] reports to [[XiangYu|项羽]] that Liu Bang intends to rule Guanzhong, install [[ZiyingQin|子婴]] as chancellor, and keep the treasures. The episode therefore makes Guanzhong the hinge between public reward promise and military confrontation before [[HongmenYan|鸿门宴]].
 
+[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] adds the counter-framing through [[XiangBo|项伯]]. For Liu Bang's side, Guanzhong is the fulfilled reward and future base; for Xiang Yu's angry camp, it looks like seizure. Xiang Bo's successful argument reframes Liu Bang's first entry as coalition-enabling merit, making an immediate attack look morally wrong even before the final settlement is decided.
+
 This page uses the `GuanzhongRegion` key to avoid colliding with [[GuanZhong|管仲 / Guan Zhong]], the Spring and Autumn minister.
 
 ## Connections
@@ -25,4 +27,4 @@ This page uses the `GuanzhongRegion` key to avoid colliding with [[GuanZhong|管
 - [[MiXin|芈心 / 楚怀王]], [[HuaiwangAgreement|怀王之约]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - Qinji 132 reward and route-selection branch.
 - [[Xianyang|咸阳]], [[HanguPass|函谷关]], and [[YingyangWarringStates|荥阳]] - adjacent Qin heartland and approach-route geography in the wiki.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Bashang|霸上]], [[YuefaSanzhang|约法三章]], [[XinanMassacre|新安坑降]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Liu Bang's local support and Xiang Yu's alienating prisoner killing.
-- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[CaoWushang|曹无伤]], [[HongmenYan|鸿门宴]], and [[MoralizedWarPretext|道德化战争借口]] - disputed kingship, sealed entry routes, and the need for a public reason to attack.
+- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[CaoWushang|曹无伤]], [[XiangBo|项伯]], [[HongmenYan|鸿门宴]], and [[MoralizedWarPretext|道德化战争借口]] - disputed kingship, sealed entry routes, first-entry merit framing, and the need for a public reason to attack.

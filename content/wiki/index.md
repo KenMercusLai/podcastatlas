@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（2）](sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e.md) — 芮淇讲透资治通鉴 episode completing Xiang Bo's night warning, Zhang Liang's refusal to flee alone, Liu Bang's courtesy-and-loyalty performance, Xiang Bo's persuasion of Xiang Yu, and the pre-Hongmen 灭刘/存刘 split.
 - [《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）](sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662.md) — 芮淇讲透资治通鉴 episode on Liu Bang's first-entry Guanzhong advantage, Xiang Yu's angry attack decision before Hongmen, Cao Wushang's leak, Fan Zeng's threat diagnosis and pretext failure, and Xiang Bo's entry into the Zhang Liang channel.
 - [《资治通鉴·汉纪》139｜“他”再次影响“汉朝”](sources/zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo.md) — 芮淇讲透资治通鉴 episode opening the Hanji branch through Ziying's surrender, Liu Bang's Bashang pacification and Yuefa Sanzhang, Xiao He's archive capture, and Xiang Yu's Xinan killing of surrendered Qin troops.
 - [《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2）](sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto.md) — 芮淇讲透资治通鉴 episode closing the Qin collapse sequence through Yan Le's Wangyi Palace coup against Hu Hai, Zhao Gao's reduced Qin kingship, Ziying's killing of Zhao Gao, and Liu Bang/Zhang Liang's Yaoguan-Lantian breakthrough.
@@ -3540,7 +3541,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋仁宗 / Song Renzong](entities/SongRenzong.md) — Emperor used in episode 164 as a political truth-telling case around invited criticism and tolerance.
 - [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
 - [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose early Kuaiji coup, Xiangcheng massacre, killing of Song Yi, and later Hongmen Banquet power show charisma, violence, pride, and residual moral face.
-- [项伯 / Xiang Bo](entities/XiangBo.md) — Xiang Yu's trusted uncle and Xiang-family elder who enters the Hongmen prelude as the personal channel through which the attack plan begins reaching Zhang Liang and Liu Bang.
+- [项伯 / Xiang Bo](entities/XiangBo.md) — Xiang Yu's trusted uncle and Xiang-family elder whose night warning, Zhang Liang tie, and 存刘 argument turn the pre-Hongmen attack order into a meeting.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
 - [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically.
 - [樊哙 / Fan Kuai](entities/FanKuai.md) — Hongmen Banquet actor whose apparent blunt courage works as status-recognizing rhetoric.

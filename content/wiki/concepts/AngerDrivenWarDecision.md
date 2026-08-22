@@ -2,7 +2,7 @@
 title: "Anger-Driven War Decision / 因怒兴师"
 type: concept
 tags: [warfare, governance, leadership, strategy, pre-qin-history]
-sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The episode uses [[SunziBingfa|《孙子兵法》]] to state the rule: rulers sh
 
 [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] adds [[XiangYu|项羽]]'s pre-[[HongmenYan|鸿门宴]] decision as a narrower command version. After learning that [[LiuBang|刘邦]] has entered [[GuanzhongRegion|关中]] first, sealed the pass, and allegedly plans to rule there, Xiang Yu's repeated anger produces an immediate plan to attack. The host's criticism is that Xiang Yu thinks about taking back the object of dispute before thinking through political settlement or post-attack handling.
 
+[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] adds the temporary interruption of that failure mode. [[XiangBo|项伯]] returns from [[Bashang|霸上]] and moves Xiang Yu out of the pure anger track by invoking family authority, Liu Bang's prior merit, and "义." The attack order is cancelled, but the underlying risk remains because the source presents Xiang Yu as easily swung by emotional frames rather than as someone who has solved the settlement problem.
+
 ## Key Claims
 - A leader can be legitimately wronged and still choose a strategically destructive response.
 - Anger becomes a state-level failure when it changes the war aim from recoverable interest to personal humiliation repair.
@@ -24,10 +26,11 @@ The episode uses [[SunziBingfa|《孙子兵法》]] to state the rule: rulers sh
 - Operational facts still matter under emotional decisions: supply lines, rear threats, and third-party opportunism punish rage-war quickly.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] and anger-driven war reinforce each other because rejected warnings remove the cooling mechanism before force is used.
 - Hanji 140 part 1 adds that anger-driven decision-making can happen before a formal war campaign: a commander may move straight from wounded entitlement and hostile reports to attack planning without settlement design.
+- Hanji 140 part 2 adds that anger can be interrupted by a trusted mediator, but interruption is not the same as strategic design; the decision remains vulnerable to whoever frames the next emotional scene.
 
 ## Connections
 - [[ChuHuaiwang|楚怀王]], [[ChenZhenWarringStates|陈枕]], and [[QuYuan|屈原]] - ruler, warning adviser, and weakened anti-Qin court voice.
 - [[ZhangYiStrategist|张仪]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - deception that triggers the emotional response.
 - [[DanyangBattle|丹阳之战]], [[QuGai|屈匄]], [[Hanzhong|汉中]], [[Wuguan|武关]], and [[LantianBattle|蓝田之战]] - campaign path and consequences.
 - [[SunziBingfa|《孙子兵法》]], [[ForcedMarchOperationalRisk|急行军作战风险]], and [[QinEastwardPressure|秦国东进压力]] - textual, operational, and strategic-pressure frames.
-- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[CaoWushang|曹无伤]], [[GuanzhongRegion|关中]], and [[HongmenYan|鸿门宴]] - leak-driven attack decision before Hongmen.
+- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[CaoWushang|曹无伤]], [[XiangBo|项伯]], [[GuanzhongRegion|关中]], and [[HongmenYan|鸿门宴]] - leak-driven attack decision and elder-mediated pause before Hongmen.

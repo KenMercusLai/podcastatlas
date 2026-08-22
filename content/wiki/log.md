@@ -9854,3 +9854,11 @@ Added source page for Hanji 140 part 1: Liu Bang's first-entry Guanzhong advanta
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（2）
+
+Added source page for Hanji 140 part 2: Xiang Bo's night ride to Bashang to warn Zhang Liang, Zhang Liang's refusal to flee without Liu Bang, Liu Bang's courtesy-and-loyalty performance toward Xiang Bo, Xiang Bo's return argument that attacking Liu Bang would be 不义, Xiang Yu's cancellation of the attack order, and the pre-Hongmen 灭刘派/存刘派 split. Updated overview, index, Liu Bang, Xiang Yu, Zhang Liang, Xiang Bo, Fan Zeng, Hongmen Yan, Bashang, Guanzhong, Huaiwang Agreement, Aristocratic Friendship vs State Order, Emotional De-escalation Persuasion, Power Etiquette Reading, Moralized War Pretext, Moral Face Under Power Competition, and Anger-Driven War Decision. No settled contradiction found; recorded the source's distinction between Fan Zeng's hindsight-plausible strategic warning and Xiang Bo's stronger in-the-moment public-morality argument.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
