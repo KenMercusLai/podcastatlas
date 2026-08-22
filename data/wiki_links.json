@@ -7975,6 +7975,10 @@
     "title": "Character Relationship Story Logic",
     "url": "/wiki/concepts/characterrelationshipstorylogic/"
   },
+  "CharismaticPoliticalPerformance": {
+    "title": "造势型政治表演 / Charismatic Political Performance",
+    "url": "/wiki/concepts/charismaticpoliticalperformance/"
+  },
   "CharlesByrne": {
     "title": "Charles Byrne / 查尔斯·伯恩",
     "url": "/wiki/entities/charlesbyrne/"
@@ -17599,6 +17603,10 @@
     "title": "大观园青春乌托邦 / Grand View Garden Youth Utopia",
     "url": "/wiki/concepts/grandviewgardenyouthutopia/"
   },
+  "GrassrootsOfficialNetwork": {
+    "title": "基层官吏网络政治资本 / Grassroots Official Network",
+    "url": "/wiki/concepts/grassrootsofficialnetwork/"
+  },
   "GrassrootsPrivateEntrepreneurship": {
     "title": "Grassroots Private Entrepreneurship",
     "url": "/wiki/concepts/grassrootsprivateentrepreneurship/"
@@ -24859,6 +24867,10 @@
     "title": "刘擎 / Liu Qing",
     "url": "/wiki/entities/liuqing/"
   },
+  "LiuTaigong": {
+    "title": "刘太公 / Liu Taigong",
+    "url": "/wiki/entities/liutaigong/"
+  },
   "LiuWenhuan": {
     "title": "Liu Wenhuan",
     "url": "/wiki/entities/liuwenhuan/"
@@ -25443,6 +25455,10 @@
     "title": "陆川 / Lu Chuan",
     "url": "/wiki/entities/luchuan/"
   },
+  "LuGongLiuBangFatherInLaw": {
+    "title": "吕公 / Lu Gong",
+    "url": "/wiki/entities/lugongliubangfatherinlaw/"
+  },
   "LuGonggong": {
     "title": "鲁共公 / Duke Gong of Lu",
     "url": "/wiki/entities/lugonggong/"
@@ -25510,6 +25526,10 @@
   "LuZhengyu": {
     "title": "卢正雨 / Lu Zhengyu",
     "url": "/wiki/entities/luzhengyu/"
+  },
+  "LuZhi": {
+    "title": "吕雉 / Lu Zhi",
+    "url": "/wiki/entities/luzhi/"
   },
   "LuZhonglian": {
     "title": "鲁仲连 / Lu Zhonglian",
@@ -31255,6 +31275,10 @@
     "title": "Peet's Coffee",
     "url": "/wiki/entities/peetscoffee/"
   },
+  "PeiCounty": {
+    "title": "沛县 / Pei County",
+    "url": "/wiki/entities/peicounty/"
+  },
   "PeiWenzhong": {
     "title": "裴文中",
     "url": "/wiki/entities/peiwenzhong/"
@@ -31706,6 +31730,10 @@
   "PhysicsOfAI": {
     "title": "Physics Of AI",
     "url": "/wiki/concepts/physicsofai/"
+  },
+  "PhysiognomicInvestmentJudgment": {
+    "title": "看相式政治投资 / Physiognomic Investment Judgment",
+    "url": "/wiki/concepts/physiognomicinvestmentjudgment/"
   },
   "PhysiognomyMoralAppearanceFallacy": {
     "title": "Physiognomy Moral Appearance Fallacy / 以貌定德谬误",
@@ -41051,6 +41079,10 @@
     "title": "田单 / Tian Dan",
     "url": "/wiki/entities/tiandan/"
   },
+  "TianDanQinRebel": {
+    "title": "田儋 / Tian Dan (Qin Rebel)",
+    "url": "/wiki/entities/tiandanqinrebel/"
+  },
   "TianFamilyReplacementOfQi": {
     "title": "Tian Family Replacement of Qi / 田氏代齐",
     "url": "/wiki/concepts/tianfamilyreplacementofqi/"
@@ -44747,6 +44779,10 @@
     "title": "湘君 / Xiangjun",
     "url": "/wiki/entities/xiangjun/"
   },
+  "XiangLiang": {
+    "title": "项梁 / Xiang Liang",
+    "url": "/wiki/entities/xiangliang/"
+  },
   "XiangShou": {
     "title": "向寿 / Xiang Shou",
     "url": "/wiki/entities/xiangshou/"
@@ -44798,6 +44834,10 @@
   "XiaoGuoGege": {
     "title": "小果哥哥 / XiaoGuoGege",
     "url": "/wiki/entities/xiaoguogege/"
+  },
+  "XiaoHe": {
+    "title": "萧何 / Xiao He",
+    "url": "/wiki/entities/xiaohe/"
   },
   "XiaoLei": {
     "title": "肖磊",
@@ -50210,6 +50250,10 @@
   "zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg": {
     "title": "《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是",
     "url": "/wiki/sources/zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg/"
+  },
+  "zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j": {
+    "title": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

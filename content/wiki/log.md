@@ -9643,3 +9643,11 @@ Added source page for Qinji 128-5: Kuai Che's surrender-based expansion for Wu C
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公
+
+Added source page for Qinji 128-6: Liu Bang's early Pei County profile, Liu Ji naming and Liu Taigong family context, youxia-style sociability, the Sishui亭长 local official network, Lu Gong's move to Pei County, Xiao He's banquet seating, Liu Bang's false "贺钱一万" status performance, Lu Gong's face-reading bet, and the Lu Zhi marriage. Created Lu Gong, Lu Zhi, Xiao He, Pei County, Xiang Liang, Tian Dan (Qin Rebel), Liu Taigong, Charismatic Political Performance, Grassroots Official Network, and Physiognomic Investment Judgment; updated overview, index, Liu Bang, Fan Kuai, Warring States Retainer Patronage, Youxia Suppression Under Unification, and Physiognomy Moral Appearance Fallacy. No settled contradiction found; recorded the physiognomy tension as source-scoped and disambiguated 田儋 from the existing 田单 page.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

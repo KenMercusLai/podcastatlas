@@ -2,7 +2,7 @@
 title: "Liu Bang / 刘邦"
 type: entity
 tags: [history, china, empire]
-sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+sources: [zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,10 @@ The episode then reads Liu Bang's later generosity and reputation-building as pa
 
 [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]] adds Liu Bang only as a transition signal at the end of the episode. After the source describes [[ZhangChuRegime|张楚政权]]'s western setback and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], it says the real later protagonists are [[XiangYu|项羽]] and Liu Bang, then introduces Liu Bang as a forty-eight-year-old Pei County man who starts without grand background and with only a small follower group. The source does not yet narrate his uprising in detail.
 
+[[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] develops that transition into Liu Bang's early social and performative profile. The source presents him as Liu Ji, son of [[LiuTaigong|刘太公]], from [[PeiCounty|沛县]], with a mixed reputation for drink, women, non-farming idleness, generosity, boldness, and youxia-style sociability. His Sishui亭长 period becomes [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] because low-level county officials and companions later become the first Han founding-merit circle.
+
+The same source makes [[LuGongLiuBangFatherInLaw|吕公]]'s banquet the first concrete scene of Liu Bang's status-making ability. Liu Bang arrives without invitation or money but announces "贺钱一万" and sits like an honored guest; [[XiaoHe|萧何]] tries to contain the boast, while Lu Gong reads the bearing through [[PhysiognomicInvestmentJudgment|看相式政治投资]] and offers [[LuZhi|吕雉]] in marriage. The episode therefore turns Liu Bang's early shamelessness into [[CharismaticPoliticalPerformance|造势型政治表演]] rather than a mere flaw.
+
 ## Key Claims
 - Liu Bang's origin stories helped sacralize Han rule.
 - Founding mythology became a later vulnerability when legitimacy was read through signs.
@@ -40,6 +44,7 @@ The episode then reads Liu Bang's later generosity and reputation-building as pa
 - Qinji 106 reinforces the tomb-rite branch and supplies the five-household arrangement as a sign of Xinlingjun's continued prestige in Liu Bang's political memory.
 - Qinji 117-1 adds Bao Ji and Liu Heng as a later Han payoff to Wei Bao's misread fate prediction.
 - Qinji 128-5 adds Liu Bang as the closing transition toward the next Chu-Han line, not yet as a developed actor in this episode.
+- Qinji 128-6 develops Liu Bang as Liu Ji of Pei County: a low-status but socially connected亭长 whose local official network, youxia habits, Lu Gong marriage, and "贺钱一万" performance become early political capital.
 
 ## Connections
 - [[WesternHanDynasty]] and [[WangMang]] - founding and late-dynasty contrast.
@@ -52,3 +57,5 @@ The episode then reads Liu Bang's later generosity and reputation-building as pa
 - [[ZhangEr|张耳]], [[WarringStatesRetainerPatronage|战国养士]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - Qinji 103-2 attempted patronage connection and inherited recruitment style.
 - [[BaoJi|薄姬]], [[LiuHeng|刘恒]], [[WeiBao|魏豹]], and [[XuFuPhysiognomist|许负]] - Qinji 117-1 prediction branch fulfilled through Han succession.
 - [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]], [[ZhangChuRegime|张楚政权]], [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], and [[XiangYu|项羽]] - closing transition from early anti-Qin fragmentation toward the later Chu-Han protagonists.
+- [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]], [[PeiCounty|沛县]], [[LiuTaigong|刘太公]], [[LuGongLiuBangFatherInLaw|吕公]], [[LuZhi|吕雉]], and [[XiaoHe|萧何]] - early biography, marriage, and local network branch.
+- [[CharismaticPoliticalPerformance|造势型政治表演]], [[GrassrootsOfficialNetwork|基层官吏网络政治资本]], and [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Qinji 128-6 concepts for Liu Bang's early rise.

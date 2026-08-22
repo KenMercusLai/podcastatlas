@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6463
+wiki_total_pages: 6470
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "Xingze"
     title: "荥泽 / Xingze"
     url: "/wiki/entities/xingze/"
+  - key: "XiaoHe"
+    title: "萧何 / Xiao He"
+    url: "/wiki/entities/xiaohe/"
   - key: "XiaoChuzhou"
     title: "萧楚舟 / Xiao Chuzhou"
     url: "/wiki/entities/xiaochuzhou/"
@@ -362,6 +365,9 @@ wiki_pages:
   - key: "Xueqiu"
     title: "雪球 / Xueqiu"
     url: "/wiki/entities/xueqiu/"
+  - key: "XiangLiang"
+    title: "项梁 / Xiang Liang"
+    url: "/wiki/entities/xiangliang/"
   - key: "XiangYan"
     title: "项燕 / Xiang Yan"
     url: "/wiki/entities/xiangyan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6463
+wiki_total_pages: 6470
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "PupuSupermarket"
     title: "朴朴超市 / Pupu Supermarket"
     url: "/wiki/entities/pupusupermarket/"
+  - key: "PeiCounty"
+    title: "沛县 / Pei County"
+    url: "/wiki/entities/peicounty/"
   - key: "PanXulun"
     title: "潘序伦"
     url: "/wiki/entities/panxulun/"

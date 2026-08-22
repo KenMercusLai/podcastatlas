@@ -1,0 +1,28 @@
+---
+title: "看相式政治投资 / Physiognomic Investment Judgment"
+type: concept
+tags: [politics, judgment, patronage, qin-han]
+sources: [zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+last_updated: 2026-08-22
+---
+
+# 看相式政治投资 / Physiognomic Investment Judgment
+
+看相式政治投资 / physiognomic investment judgment is the source-scoped decision pattern [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] uses for [[LuGongLiuBangFatherInLaw|吕公]]'s bet on [[LiuBang|刘邦]]. Lu Gong does not evaluate Liu Bang through money or formal office. He reads face, bearing, and banquet conduct, then offers his daughter [[LuZhi|吕雉]] to him.
+
+The source's "angel investor" metaphor matters because the judgment is made before measurable success. Liu Bang's "贺钱一万" is materially false, but the performance reveals audacity and status imagination. Lu Gong's evaluation turns that unstable signal into a family alliance.
+
+This concept is kept separate from proof that physiognomy works. The wiki links it to [[PhysiognomyMoralAppearanceFallacy|以貌定德谬误]] as a caution: a narrative may treat a face-reading as successful without establishing that appearance reliably indicates moral or political quality. Here the important structure is early-stage political judgment under uncertainty.
+
+## Key Claims
+- Early political backing often happens before conventional evidence is available.
+- In this source, Lu Gong reads embodied confidence and face as a signal of future fit for power.
+- The decision is high-stakes because it converts judgment into kinship, not just courtesy.
+- Physiognomic judgment should be recorded source-scopingly: it explains the story's logic without making a general empirical claim.
+
+## Connections
+- [[LuGongLiuBangFatherInLaw|吕公]], [[LiuBang|刘邦]], and [[LuZhi|吕雉]] - source case and marriage outcome.
+- [[CharismaticPoliticalPerformance|造势型政治表演]] - signal being interpreted.
+- [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - local network that makes the bet useful.
+- [[PhysiognomyMoralAppearanceFallacy|以貌定德谬误]] - cautionary contrast about appearance-based inference.
+- [[WarringStatesRetainerPatronage|战国养士]] and [[MoralReputationPoliticalCapital|道德名望政治资本]] - adjacent patronage and reputation-capital frames.

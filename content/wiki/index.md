@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公](sources/zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j.md) — 芮淇讲透资治通鉴 episode on Liu Bang's Pei County background, local official network, Lu Gong's banquet and face-reading bet, and the "贺钱一万" performance as early political capital.
 - [《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是](sources/zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg.md) — 芮淇讲透资治通鉴 episode on Kuai Che's surrender cascade for Wu Chen, Zhou Wen's failed push near Xianyang, Hu Hai and Zhang Han's capital-defense response, and the rebel camp's Zhao-centered fragmentation.
 - [《资治通鉴·秦纪》128-3｜陈胜吴广组队成功](sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams.md) — 芮淇讲透资治通鉴 episode on Chen Sheng and Wu Guang's expansion from Dazexiang/Qixian to Chen County, Zhang Er and Chen Yu's six-state restoration strategy, Chen Sheng's rejection and self-kingship as Zhang Chu, and Wu Guang's westward attack on Yingyang.
 - [《资治通鉴·秦纪》128-2｜起来！被压迫的人们！](sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25.md) — 芮淇讲透资治通鉴 episode on Qin Er Shi's pleasure-seeking rule, harsher law and construction burdens, the Dazexiang deadline crisis, Chen Sheng and Wu Guang's uprising, and rebel legitimation through Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor.
@@ -1206,6 +1207,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
+- [吕雉 / Lu Zhi](entities/LuZhi.md) — Lu Gong's daughter whose marriage to Liu Bang links the Pei County banquet to the later Han founding family network.
+- [萧何 / Xiao He](entities/XiaoHe.md) — Pei County official who manages Lu Gong's banquet, contains Liu Bang's false ten-thousand-cash claim, and belongs to Liu Bang's early local network.
+- [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base, where county-office relationships, Lu Gong's banquet, and the later uprising converge.
+- [项梁 / Xiang Liang](entities/XiangLiang.md) — Anti-Qin uprising figure named by Qinji 128-6 alongside Liu Bang and Tian Dan after the Dazexiang opening.
+- [田儋 / Tian Dan (Qin Rebel)](entities/TianDanQinRebel.md) — Qi-region anti-Qin rebel leader, disambiguated from Warring States general Tian Dan / 田单.
+- [刘太公 / Liu Taigong](entities/LiuTaigong.md) — Liu Bang's father, used by Qinji 128-6 to sketch Liu Bang's family background and later 太上皇 honor.
 - [章邯 / Zhang Han (Qin)](entities/ZhangHanQin.md) — Qin official who answers Zhou Wen's near-Xianyang advance by proposing to pardon and arm Lishan laborers under his command.
 - [武臣 / Wu Chen](entities/WuChen.md) — Anti-Qin commander who becomes Zhao king after surrender-driven expansion and then prioritizes Zhao self-strengthening over a westward attack on Qin.
 - [周文 / Zhou Wen (Rebel)](entities/ZhouWenRebel.md) — Zhang Chu commander whose large but weakly trained army reaches near Xianyang before Zhang Han defeats it.
@@ -7673,6 +7681,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [造势型政治表演 / Charismatic Political Performance](concepts/CharismaticPoliticalPerformance.md) — Liu Bang's "贺钱一万" pattern, where performed status creates social reality before money or office exists.
+- [基层官吏网络政治资本 / Grassroots Official Network](concepts/GrassrootsOfficialNetwork.md) — Liu Bang's Pei County lower-official relationships as pre-rebellion political capital and future Han founding infrastructure.
+- [看相式政治投资 / Physiognomic Investment Judgment](concepts/PhysiognomicInvestmentJudgment.md) — Lu Gong's source-scoped face-and-bearing judgment of Liu Bang as an early-stage political bet under uncertainty.
 - [Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂](concepts/AntiQinCoalitionFragmentation.md) — Pattern where the anti-Qin movement quickly turns into separate territorial regimes whose self-strengthening overrides coordinated attack.
 - [Lishan Convict Mobilization / 骊山刑徒应急动员](concepts/LishanConvictMobilization.md) — Zhang Han's emergency conversion of pardoned Lishan laborers into armed troops against Zhou Wen near Xianyang.
 - [Capital Defense Mobilization / 都城防卫动员](concepts/CapitalDefenseMobilization.md) — Qinji 128-5 corrective showing Hu Hai's capital guards, trained soldiers, and emergency manpower still mattered against Zhou Wen.

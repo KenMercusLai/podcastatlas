@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5023
+wiki_total_pages: 5026
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "GushiBian"
     title: "古史辨 / Doubting Antiquity"
     url: "/wiki/concepts/gushibian/"
+  - key: "GrassrootsOfficialNetwork"
+    title: "基层官吏网络政治资本 / Grassroots Official Network"
+    url: "/wiki/concepts/grassrootsofficialnetwork/"
   - key: "GrandViewGardenYouthUtopia"
     title: "大观园青春乌托邦 / Grand View Garden Youth Utopia"
     url: "/wiki/concepts/grandviewgardenyouthutopia/"
