@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5105
+wiki_total_pages: 5107
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "GrassrootsPrivateEntrepreneurship"
     title: "Grassroots Private Entrepreneurship"
     url: "/wiki/concepts/grassrootsprivateentrepreneurship/"
+  - key: "GratitudeResentmentReturnFrame"
+    title: "Gratitude Resentment Return Frame / 感恩怨恨回向框架"
+    url: "/wiki/concepts/gratituderesentmentreturnframe/"
   - key: "GrayMarketPeptides"
     title: "Gray-Market Peptides"
     url: "/wiki/concepts/graymarketpeptides/"

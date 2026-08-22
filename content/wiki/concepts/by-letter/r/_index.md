@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5105
+wiki_total_pages: 5107
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "RationalizedStateViolence"
     title: "Rationalized State Violence / 理性化国家暴力"
     url: "/wiki/concepts/rationalizedstateviolence/"
+  - key: "ReactionChoiceFrame"
+    title: "Reaction Choice Frame / 反应选择框架"
+    url: "/wiki/concepts/reactionchoiceframe/"
   - key: "ReadingAsCognitiveRestoration"
     title: "Reading As Cognitive Restoration"
     url: "/wiki/concepts/readingascognitiverestoration/"

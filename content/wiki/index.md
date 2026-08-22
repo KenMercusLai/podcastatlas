@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv.md) — 芮淇讲透资治通鉴 episode extending Hanji 161's quantum metaphor into gratitude, resentment, speech, anger, betrayal, romance, wealth attraction, and reaction choice.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj.md) — 芮淇讲透资治通鉴 episode using quantum entanglement as a source-scoped metaphor for fate, wealth, consciousness, family blessing, and relationship networks.
 - [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo.md) — 芮淇讲透资治通鉴 episode completing Chen Ping's Xingyang counterintelligence: the staged Fan Zeng envoy reception turns Xiang Yu against Fan Zeng and explains the failure through Xiang-family versus Chu-merit factional cleavage.
 - [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（1）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q.md) — 芮淇讲透资治通鉴 episode on Chen Ping's Xingyang counterintelligence plan: Liu Bang funds forty thousand gold, Chen Ping exploits Xiang Yu's suspicion and reward weakness, and Chu's trusted core begins to fracture.
@@ -7922,9 +7923,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Reaction Choice Frame / 反应选择框架](concepts/ReactionChoiceFrame.md) — Hanji 161 part 2 frame for pausing after injury or anger so the chosen response does not compound the original event.
+- [Gratitude Resentment Return Frame / 感恩怨恨回向框架](concepts/GratitudeResentmentReturnFrame.md) — Hanji 161 part 2 frame where gratitude, resentment, kind speech, and harsh speech feed back through relationships.
 - [Family Blessing Outcome Frame / 家人祝福与成事框架](concepts/FamilyBlessingOutcomeFrame.md) — Hanji 161 frame where major actions depend partly on family support, blessing, and practical understanding.
-- [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, and repeated social circles.
-- [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, and relationship influence rather than a settled physics claim.
+- [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, anger, and repeated social circles.
+- [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, relationship influence, attraction, and interference rather than a settled physics claim.
 - [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, and actors' real commitments before copying historical precedent.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.

@@ -132,6 +132,8 @@ last_updated: 2026-08-23
 
 [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]] adds a reflective Hanji detour rather than a direct annalistic scene. The episode uses [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] to connect fate change, wealth, consciousness, [[RelationalFateNetwork|关系命运网络]], and [[FamilyBlessingOutcomeFrame|家人祝福与成事框架]], while keeping its claims in the show's characteristic analogy-driven and source-scoped register.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv]] completes that detour by turning the same metaphor toward everyday practice: gratitude, resentment, online speech, anger after betrayal, romantic desire, wealth attraction, and quiet self-observation. It adds [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] and [[ReactionChoiceFrame|反应选择框架]], while extending the existing [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] and [[RelationalFateNetwork|关系命运网络]] branch.
+
 The episode's wiki role is to add a pre-Qin classics-reading branch that is more managerial and historiographical than literary. It cares about how commanders create morale, how annals encode succession, and how a terse phrase such as "盗贼杀君" can invite cautious political inference.
 
 ## Connections
@@ -184,4 +186,4 @@ The episode's wiki role is to add a pre-Qin classics-reading branch that is more
 - [[ZhengXiu|郑袖]], [[Qianzhong|黔中]], [[Shangyong|上庸]], [[CourtBackchannelSurvival|宫廷后门自救]], [[MinisterAsExchangeableAsset|可交换功臣]], and [[EnvoyKillingTaboo|不斩来使]] - Zhouji 53 Zhang Yi hostile-court survival and Qin-Chu exchange branch.
 - [[SelfPreservationAsStateStrategy|以自保包装国策]], [[SanchuanWarringStates|三川]], [[YinmouYangmouConversion|阴谋阳谋转换]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 55 final Zhang Yi exit, travel/source comparison, and Qi-Wei withdrawal branch.
 - [[MencianGreatManCriterion|孟子大丈夫标准]], [[YangXiong|扬雄]], [[Fayan|《法言》]], [[Zigong|子贡 / 端木赐]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 zonghengjia moral-evaluation branch.
-- [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]], [[RelationalFateNetwork|关系命运网络]], [[FamilyBlessingOutcomeFrame|家人祝福与成事框架]], [[ZhuQingshi|朱清时]], and [[MingZiWoLi|《命自我利》]] - Hanji 161 fate, consciousness, and relationship detour.
+- [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]], [[RelationalFateNetwork|关系命运网络]], [[FamilyBlessingOutcomeFrame|家人祝福与成事框架]], [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]], [[ReactionChoiceFrame|反应选择框架]], [[ZhuQingshi|朱清时]], and [[MingZiWoLi|《命自我利》]] - Hanji 161 fate, consciousness, relationship, and reaction-choice detour.

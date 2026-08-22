@@ -2,8 +2,8 @@
 title: "Emotion Regulation Toolkit / 情绪调节工具箱"
 type: concept
 tags: [mental-health, emotion, self-care, relationships, embodiment]
-sources: [ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
-last_updated: 2026-08-08
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv, ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
+last_updated: 2026-08-23
 ---
 
 # Emotion Regulation Toolkit / 情绪调节工具箱
@@ -14,18 +14,22 @@ The toolkit named in the source is deliberately ordinary: trusted friends or fam
 
 [[ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf]] adds a relationship-control version. The first tool may be slowing the scene down enough to feel the discomfort, then choosing one small action that returns agency: leaving with the bicycle, maintaining one's own evaluation, or refusing to let another person decide whether one is a good partner.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|Hanji 161 part 2]] adds a spiritualized anger-and-betrayal version. The episode describes fury as a state in which a person may feel "not themselves," then recommends pausing, accepting that the event has happened, finding the emotional "fuse," and choosing a response before hatred or complaint adds a second injury. This becomes the local [[ReactionChoiceFrame|反应选择框架]] branch.
+
 ## Key Claims
 - Emotional health is not permanent happiness or total avoidance of negative feeling.
 - Naming and tolerating emotion comes before choosing a tool.
 - Body-based activities matter because many people are stuck in screen, desk, and head-based work.
 - Support networks should include more than one person or service, so no single friend, partner, listener, or AI carries all distress.
 - Some tools create temporary pause rather than final solution; that can still be useful when the person returns with more capacity.
+- In Hanji 161 part 2, the immediate pause after betrayal or anger is the tool that preserves choice before the reaction compounds the original event.
 - Severe distress still needs [[MentalHealthCrisisInterventionBoundary|crisis-aware escalation]] rather than self-care alone.
 - In controlling relationships, regulation is not only calming down; it can mean restoring enough feeling and action to stop overriding oneself.
 
 ## Connections
 - [[RelationshipNeedDiversification]], [[EmotionalCoRegulationFit]], and [[EmpathyBoundaries]] - human support network branch.
 - [[SelfGeneratedEmotionalCapacity]], [[ActionAgainstAnxiety]], and [[CommunicationBoundarySetting]] - agency and boundary practices.
+- [[ReactionChoiceFrame|反应选择框架]] and [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] - Hanji 161 branch around anger, resentment, and chosen response.
 - [[TactileComfortConsumption]], [[CompanionAnimalHealth]], and [[ImmediateReliefWellnessConsumption]] - bodily and scene-based regulation tools.
 - [[ListeningTherapyBoundary]], [[TherapyRelationshipAndBoundaries]], and [[MentalHealthCrisisInterventionBoundary]] - limits of self-help and paid listening.
 - [[AttentionIndustrialization]] and [[AIUsePacing]] - screen and AI input conditions that can make regulation harder or easier.

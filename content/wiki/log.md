@@ -10075,6 +10075,10 @@ Added source page for Hanji 154: the follow-up to Chen Ping's "盗嫂/受金" ac
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）
+
+Added source page for Hanji 161 part 2: gratitude and resentment as relational return, online speech as moral cause, anger as a "not myself" state, trust injury and betrayal, the popular 10/90 reaction rule attributed in-source to Festinger, romantic desire as quantum attraction, wealth and goodwill attraction, and quiet observation against quantum interference. Created Gratitude Resentment Return Frame and Reaction Choice Frame; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Quantum Entanglement Fate Metaphor, Relational Fate Network, Emotion Regulation Toolkit, and Leon Festinger. No settled contradiction found; the quantum and harm-causality claims are kept source-scoped rather than treated as physics or victim-blaming.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？
 
 Added source page for Hanji 159-2: Zhang Liang's completed borrowed-chopsticks refutation of Li Shiqi's six-kingdom restoration proposal, Liu Bang's destruction of the prepared seals, Xun Yue's 行、势、情 framework, the Chen Sheng versus Liu Bang restoration comparison, Song Yi's delayed-rescue boundary, and the Han Xin backwater versus Liu Bang Pengcheng contrast. Created Xingshiqing Strategic Assessment; updated overview, index, Liu Bang, Zhang Liang, Li Shiqi, Xiang Yu, Xun Yue, Chen Sheng, Song Yi, Shang Tang, Zhou Wuwang, Han Xin, Pengcheng Battle, Backwater Battle, Death-Ground Tactical Preconditions, Xingyang Standoff, Six-State Restoration Anti-Qin Strategy, Reward Allocation Backlash, and Historical Precedent Weaponization. No settled contradiction found; this source narrows when old-state restoration is useful rather than negating the earlier anti-Qin use case.
