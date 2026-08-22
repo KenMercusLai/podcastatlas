@@ -50,10 +50,60 @@
 {{- $socialImage := .Site.Params.socialImage | default "images/podcast-atlas-social.png" | absURL -}}
 {{- $socialImageAlt := "Podcast Atlas — A living knowledge atlas synthesized from podcasts." -}}
 {{- $schemaType := "WebPage" -}}
+{{- $schemaName := $pageTitle -}}
+{{- $schemaProperties := dict -}}
 {{- if .IsHome -}}
   {{- $schemaType = "WebSite" -}}
+  {{- $searchURLTemplate := printf "%s?q={search_term_string}" ("search/" | absURL) -}}
+  {{- $searchAction := dict
+    "@type" "SearchAction"
+    "target" (dict "@type" "EntryPoint" "urlTemplate" $searchURLTemplate)
+    "query-input" "required name=search_term_string"
+  -}}
+  {{- $schemaProperties = merge $schemaProperties (dict "potentialAction" $searchAction) -}}
+{{- else if and .IsPage (eq .Section "episodes") -}}
+  {{- $schemaType = "PodcastEpisode" -}}
+  {{- $schemaName = .Title -}}
+  {{- $showTerms := .GetTerms "show" -}}
+  {{- if gt (len $showTerms) 0 -}}
+    {{- with index $showTerms 0 -}}
+      {{- $series := dict "@type" "PodcastSeries" "name" .LinkTitle "url" .Permalink -}}
+      {{- $schemaProperties = merge $schemaProperties (dict "partOfSeries" $series) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with .Date -}}
+    {{- $schemaProperties = merge $schemaProperties (dict "datePublished" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+  {{- end -}}
+  {{- with .Params.duration -}}
+    {{- $durationSeconds := int . -}}
+    {{- if gt $durationSeconds 0 -}}
+      {{- $schemaProperties = merge $schemaProperties (dict "duration" (printf "PT%dS" $durationSeconds)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with .Params.source_url -}}
+    {{- $schemaProperties = merge $schemaProperties (dict "sameAs" .) -}}
+  {{- end -}}
+{{- else if and (eq .Kind "term") (eq .Data.Singular "show") -}}
+  {{- $schemaType = "PodcastSeries" -}}
+  {{- $schemaName = .Title -}}
+  {{- $schemaProperties = merge $schemaProperties (dict "numberOfEpisodes" (int (len .Pages))) -}}
+{{- else if and .IsPage (eq .Section "wiki") (eq .Params.type "concept") -}}
+  {{- $schemaType = "DefinedTerm" -}}
+  {{- $schemaName = .Title -}}
+  {{- $termSet := dict "@type" "DefinedTermSet" "name" "Podcast Atlas Concepts" "url" ("wiki/concepts/" | absURL) -}}
+  {{- $schemaProperties = merge $schemaProperties (dict "inDefinedTermSet" $termSet) -}}
+{{- else if and .IsPage (eq .Section "wiki") (eq .Params.type "entity") -}}
+  {{- $schemaType = "Article" -}}
+  {{- $schemaName = .Title -}}
+  {{- $schemaProperties = merge $schemaProperties (dict "headline" .Title) -}}
+  {{- with .Params.last_updated -}}
+    {{- $schemaProperties = merge $schemaProperties (dict "dateModified" (time.Format "2006-01-02" .)) -}}
+  {{- end -}}
 {{- end -}}
-{{- $schema := dict "@context" "https://schema.org" "@type" $schemaType "name" $pageTitle "url" $canonicalURL "description" $description -}}
+{{- $schema := merge
+  (dict "@context" "https://schema.org" "@type" $schemaType "name" $schemaName "url" $canonicalURL "description" $description)
+  $schemaProperties
+-}}
 {{- $schemaJSON := $schema | jsonify -}}
 {{- $schemaJSON = replace $schemaJSON "https://schema.org" `https:\/\/schema.org` -}}
 

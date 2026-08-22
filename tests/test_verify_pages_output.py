@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from urllib.parse import urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -32,16 +33,68 @@ def episode_list_body(slugs, dates=None):
     return f'<ul class="episode-list">{items}</ul>'
 
 
-def valid_html(url, body=""):
-    payload = json.dumps(
-        {
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Example | Podcast Atlas",
-            "url": url,
-            "description": "Example description",
+def semantic_payload(url, schema_type=None):
+    path = urlsplit(url).path
+    if schema_type is None:
+        path_parts = path.strip("/").split("/")
+        if "episodes" in path_parts and path_parts[-2:-1] != ["page"] and path_parts[-1] != "episodes":
+            schema_type = "PodcastEpisode"
+        elif "shows" in path_parts and path_parts[-1] != "shows":
+            schema_type = "PodcastSeries"
+        elif "/wiki/concepts/" in path:
+            schema_type = "DefinedTerm"
+        elif "/wiki/entities/" in path:
+            schema_type = "Article"
+        elif path.rstrip("/").endswith("/project") or path == "/":
+            schema_type = "WebSite"
+        else:
+            schema_type = "WebPage"
+
+    payload = {
+        "@context": "https://schema.org",
+        "@type": schema_type,
+        "name": "Example | Podcast Atlas",
+        "url": url,
+        "description": "Example description",
+    }
+    if schema_type == "WebSite":
+        root = url.rstrip("/") + "/"
+        payload["potentialAction"] = {
+            "@type": "SearchAction",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": f"{root}search/?q={{search_term_string}}",
+            },
+            "query-input": "required name=search_term_string",
         }
-    )
+    elif schema_type == "PodcastEpisode":
+        payload.update(
+            {
+                "datePublished": "2026-01-01T00:00:00Z",
+                "duration": "PT60S",
+                "partOfSeries": {
+                    "@type": "PodcastSeries",
+                    "name": "Example Show",
+                    "url": "https://podcastatlas.ai/shows/example/",
+                },
+                "sameAs": "https://audio.example/episode",
+            }
+        )
+    elif schema_type == "PodcastSeries":
+        payload["numberOfEpisodes"] = 1
+    elif schema_type == "DefinedTerm":
+        payload["inDefinedTermSet"] = {
+            "@type": "DefinedTermSet",
+            "name": "Podcast Atlas Concepts",
+            "url": "https://podcastatlas.ai/wiki/concepts/",
+        }
+    elif schema_type == "Article":
+        payload.update({"headline": "Example", "dateModified": "2026-01-01"})
+    return payload
+
+
+def valid_html(url, body="", schema_type=None, payload=None):
+    payload = json.dumps(payload or semantic_payload(url, schema_type=schema_type))
     return (
         "<html><head>"
         f'<link rel="canonical" href="{url}">'
@@ -56,6 +109,138 @@ def valid_html(url, body=""):
 
 
 class VerifyPagesOutputTest(unittest.TestCase):
+    def test_rejects_generic_json_ld_on_semantic_detail_routes(self):
+        verifier = load_verifier()
+        cases = {
+            "episodes/example/index.html": "PodcastEpisode",
+            "shows/example/index.html": "PodcastSeries",
+            "wiki/concepts/example/index.html": "DefinedTerm",
+            "wiki/entities/example/index.html": "Article",
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            errors = []
+            for relative, expected_type in cases.items():
+                page = public / relative
+                write(
+                    page,
+                    valid_html(
+                        f"https://podcastatlas.ai/{relative.removesuffix('index.html')}",
+                        schema_type="WebPage",
+                    ),
+                )
+                verifier.validate_metadata_page(page, public, errors)
+
+        for relative, expected_type in cases.items():
+            self.assertIn(
+                f"invalid JSON-LD type in {relative}: expected {expected_type!r}, found 'WebPage'",
+                errors,
+            )
+
+    def test_rejects_missing_semantic_json_ld_properties(self):
+        verifier = load_verifier()
+        cases = {
+            "index.html": ("WebSite", "WebSite JSON-LD potentialAction in index.html"),
+            "episodes/example/index.html": (
+                "PodcastEpisode",
+                "PodcastEpisode JSON-LD datePublished in episodes/example/index.html",
+            ),
+            "shows/example/index.html": (
+                "PodcastSeries",
+                "PodcastSeries JSON-LD numberOfEpisodes in shows/example/index.html",
+            ),
+            "wiki/concepts/example/index.html": (
+                "DefinedTerm",
+                "DefinedTerm JSON-LD inDefinedTermSet in wiki/concepts/example/index.html",
+            ),
+            "wiki/entities/example/index.html": (
+                "Article",
+                "Article JSON-LD headline in wiki/entities/example/index.html",
+            ),
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            errors = []
+            for relative, (schema_type, _) in cases.items():
+                url = f"https://podcastatlas.ai/{relative.removesuffix('index.html')}"
+                payload = {
+                    "@context": "https://schema.org",
+                    "@type": schema_type,
+                    "name": "Example | Podcast Atlas",
+                    "url": url,
+                    "description": "Example description",
+                }
+                page = public / relative
+                write(page, valid_html(url, payload=payload))
+                verifier.validate_metadata_page(page, public, errors)
+
+        for _, expected_error in cases.values():
+            self.assertTrue(
+                any(error.startswith(expected_error) for error in errors),
+                f"missing error starting with {expected_error!r}: {errors}",
+            )
+
+    def test_validates_every_semantic_detail_page(self):
+        verifier = load_verifier()
+        cases = {
+            "episodes/z-wrong/index.html": "PodcastEpisode",
+            "shows/z-wrong/index.html": "PodcastSeries",
+            "wiki/concepts/z-wrong/index.html": "DefinedTerm",
+            "wiki/entities/z-wrong/index.html": "Article",
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            for relative, expected_type in cases.items():
+                url = f"https://podcastatlas.ai/{relative.removesuffix('index.html')}"
+                write(public / relative, valid_html(url, schema_type="WebPage"))
+                if relative.startswith("episodes/"):
+                    write(public / "episodes/z-wrong.md", "content")
+
+            report = verifier.validate(public)
+
+        for relative, expected_type in cases.items():
+            self.assertIn(
+                f"invalid JSON-LD type in {relative}: expected {expected_type!r}, found 'WebPage'",
+                report["errors"],
+            )
+
+    def test_treats_generated_by_letter_indexes_as_webpages(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            errors = []
+            for section in ("concepts", "entities"):
+                relative = f"wiki/{section}/by-letter/index.html"
+                url = f"https://podcastatlas.ai/wiki/{section}/by-letter/"
+                page = public / relative
+                write(page, valid_html(url, schema_type="WebPage"))
+                verifier.validate_metadata_page(page, public, errors)
+
+        self.assertFalse(
+            any("by-letter/index.html" in error and "JSON-LD type" in error for error in errors),
+            errors,
+        )
+
+    def test_accepts_complete_semantic_json_ld_properties(self):
+        verifier = load_verifier()
+        cases = (
+            "index.html",
+            "episodes/example/index.html",
+            "shows/example/index.html",
+            "wiki/concepts/example/index.html",
+            "wiki/entities/example/index.html",
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            errors = []
+            for relative in cases:
+                url = f"https://podcastatlas.ai/{relative.removesuffix('index.html')}"
+                page = public / relative
+                write(page, valid_html(url))
+                verifier.validate_metadata_page(page, public, errors)
+
+        self.assertEqual([], errors)
+
     def test_accepts_the_expected_site_output(self):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:

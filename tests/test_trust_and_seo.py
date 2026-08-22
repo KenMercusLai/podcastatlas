@@ -7,9 +7,48 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE_LAYOUT = ROOT / "layouts/_default/baseof.html"
 SEO_PARTIAL = ROOT / "layouts/partials/seo.html"
 HOME_LAYOUT = ROOT / "layouts/index.html"
+SEARCH_LAYOUT = ROOT / "layouts/search/list.html"
 
 
 class TrustAndSeoTest(unittest.TestCase):
+    def test_semantic_json_ld_uses_real_page_types_and_fields(self):
+        seo = SEO_PARTIAL.read_text()
+
+        for schema_type in (
+            "WebSite",
+            "PodcastEpisode",
+            "PodcastSeries",
+            "DefinedTerm",
+            "Article",
+        ):
+            self.assertIn(f'$schemaType = "{schema_type}"', seo)
+        for field in (
+            "potentialAction",
+            "SearchAction",
+            "urlTemplate",
+            "query-input",
+            "datePublished",
+            "duration",
+            "partOfSeries",
+            "sameAs",
+            "numberOfEpisodes",
+            "inDefinedTermSet",
+            "headline",
+            "dateModified",
+        ):
+            self.assertIn(f'"{field}"', seo)
+        self.assertIn('.GetTerms "show"', seo)
+        self.assertIn('.Params.source_url', seo)
+        self.assertIn('.Params.last_updated', seo)
+
+    def test_search_action_target_prefills_the_pagefind_query(self):
+        search = SEARCH_LAYOUT.read_text()
+
+        self.assertIn('new URLSearchParams(window.location.search).get("q")', search)
+        self.assertIn('customElements.whenDefined("pagefind-input")', search)
+        self.assertIn("component?.inputEl", search)
+        self.assertIn('new Event("input", { bubbles: true })', search)
+
     def test_every_html_page_gets_canonical_social_and_structured_metadata(self):
         base = BASE_LAYOUT.read_text()
         seo = SEO_PARTIAL.read_text() if SEO_PARTIAL.exists() else ""
