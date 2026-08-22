@@ -2,7 +2,7 @@
 title: "阿房宫 / Afang Palace"
 type: entity
 tags: [qin, palace, architecture, construction, xianyang]
-sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
+sources: [zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
 last_updated: 2026-08-22
 ---
 
@@ -16,12 +16,15 @@ Afang Palace is also the episode's most concrete example of [[ImperialConstructi
 
 [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]] adds the social-burden side of that restart. After the Lishan burial work is completed, Hu Hai increases labor and money to speed Afang Palace construction. The source places that revived project beside harsher law, capital-guard mobilization, and commandery supply demands as background to the [[DazexiangUprising|大泽乡起义]].
 
+[[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]] makes Afang Palace the object of failed high-level remonstrance. [[FengQuji|冯去疾]], [[LiSi|李斯]], and [[FengJieQin|冯劫 / 冯杰]] jointly ask [[QinErshi|胡亥 / 秦二世]] to pause the project and reduce frontier rotations because rebellion is worsening and the people are overburdened. Hu Hai rejects the request as disloyal retreat from Qin Shi Huang's policy and arrests the three, so Afang becomes not only a social burden but a test case for [[CourtFeedbackCollapse|君臣反馈失灵]].
+
 ## Key Claims
 - The episode treats Afang Palace as both capital expansion and imperial symbol, not only private luxury.
 - "Afang" is presented as a temporary name because Qin Shi Huang dies before formal naming.
 - Its incompletion results from succession timing, labor reallocation to the mausoleum, and later rebellion pressure.
 - The source uses the palace's literary afterlife through "阿房宫赋" as a warning about power corroding the people beneath it.
 - Qinji 128-2 makes Hu Hai's acceleration of Afang Palace part of the immediate social-pressure climate before Dazexiang.
+- Qinji 130-4 makes stopping Afang Palace the loyal advice that Hu Hai refuses before jailing the remonstrating ministers.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]], [[QinState|秦国]], and [[Xianyang|咸阳]] - ruler, regime, and capital setting.
@@ -31,3 +34,4 @@ Afang Palace is also the episode's most concrete example of [[ImperialConstructi
 - [[ImperialConstructionOverload|帝国工程过载]] - labor and project-system concept created from this source.
 - [[QinErshi|胡亥 / 秦二世]] - ruler who restarts the project before rebellion pressure stops it again.
 - [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[DazexiangUprising|大泽乡起义]], and [[FatalDeadlineRebellionTrigger|误期死局式起义触发]] - accelerated construction burden in the rebellion background.
+- [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]], [[FengQuji|冯去疾]], [[LiSi|李斯]], [[FengJieQin|冯劫 / 冯杰]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - failed ministerial request to stop construction.

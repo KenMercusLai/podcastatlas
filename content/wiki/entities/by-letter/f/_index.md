@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6513
+wiki_total_pages: 6514
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "FengTing"
     title: "冯亭 / Feng Ting"
     url: "/wiki/entities/fengting/"
+  - key: "FengJieQin"
+    title: "冯劫 / 冯杰 / Feng Jie (Qin)"
+    url: "/wiki/entities/fengjieqin/"
   - key: "FengQuji"
     title: "冯去疾 / Feng Quji"
     url: "/wiki/entities/fengquji/"

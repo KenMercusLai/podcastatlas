@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》130-4｜如何定论秦相李斯的下场](sources/zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x.md) — 芮淇讲透资治通鉴 episode on Zhao Gao isolating Hu Hai, trapping Li Si through staged remonstrance and family accusations, Li Si's failed counterattack, and the arrest of Li Si, Feng Quji, and Feng Jie after loyal advice over Afang Palace and burdens.
 - [《资治通鉴·秦纪》130-3｜为何立牧童为楚王，里面大有文章](sources/zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz.md) — 芮淇讲透资治通鉴 episode on Fan Zeng's advice to restore Chu royal legitimacy through shepherd Mi Xin, Zhang Liang's Han Cheng restoration, Zhang Han's Linji/Dong'e/Puyang pressure, and Tian Rong's Qi succession feud blocking a Qi-Zhao-Chu attack.
 - [《资治通鉴·秦纪》130-2｜历史记录首次屠城！](sources/zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm.md) — 芮淇讲透资治通鉴 episode on Chen Ying's refusal of kingship and later Han payoff, Xiang Liang's absorption of Ying Bu and defeat of Qin Jia/Jing Ju, Liu Bang's recovery of Feng, and Xiang Yu's Xiangcheng massacre.
 - [《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书](sources/zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2.md) — 芮淇讲透资治通鉴 episode on Zhang Liang's Huangshi Gong bridge test, Taigong Bingfa / Liutao, Liu Bang joining Jing Ju and fighting Zhang Han's pressure, Zhao Ping's false Chen Sheng appointment of Xiang Liang, and Chen Ying's title-restraint through attachment.
@@ -1216,6 +1217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [冯劫 / 冯杰 / Feng Jie (Qin)](entities/FengJieQin.md) — Qin general who joins Li Si and Feng Quji in urging Hu Hai to suspend Afang Palace and reduce burdens, then is arrested with them.
 - [芈心 / Mi Xin / Later Chu Huai Wang](entities/MiXin.md) — Shepherd descendant of old Chu Huai Wang installed by Xiang Liang as restored Chu figurehead after Fan Zeng's advice.
 - [韩成 / Han Cheng](entities/HanCheng.md) — Old Han royal descendant installed as Han king after Zhang Liang persuades Xiang Liang to widen anti-Qin restoration legitimacy.
 - [田荣 / Tian Rong](entities/TianRong.md) — Qi survivor who rescues the Tian line after Tian Dan's death, drives out Tian Jia, and withholds Qi troops unless Chu and Zhao kill his rivals.
@@ -7733,6 +7735,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Palace Access Monopoly / 宫廷接触垄断](concepts/PalaceAccessMonopoly.md) — Pattern where a court actor controls who can reach the ruler, turning advice, petitions, and timing into weapons.
 - [Restored Royal Figurehead Legitimacy / 复国王室名义合法性](concepts/RestoredRoyalFigureheadLegitimacy.md) — Pattern where a military organizer installs a low-power old royal descendant to borrow lineage, grievance, and public sympathy.
 - [Claim Restraint Through Attachment / 有所归属式名位节制](concepts/ClaimRestraintThroughAttachment.md) — Chen Ying pattern where a local rebel avoids top-title exposure by attaching to a stronger claimant.
 - [Strategic Recognition Alignment / 谋略知己式归附](concepts/StrategicRecognitionAlignment.md) — Zhang Liang pattern where a strategist joins a patron because the patron can understand and use difficult counsel.

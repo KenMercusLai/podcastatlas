@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5038
+wiki_total_pages: 5039
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "PainfulMemoryRehearsalRisk"
     title: "Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险"
     url: "/wiki/concepts/painfulmemoryrehearsalrisk/"
+  - key: "PalaceAccessMonopoly"
+    title: "Palace Access Monopoly / 宫廷接触垄断"
+    url: "/wiki/concepts/palaceaccessmonopoly/"
   - key: "PalaceScandalPowerConsolidation"
     title: "Palace Scandal Power Consolidation / 宫廷丑闻式收权"
     url: "/wiki/concepts/palacescandalpowerconsolidation/"
