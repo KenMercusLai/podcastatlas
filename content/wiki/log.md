@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心
+
+Added source page for Hanji 148-2: Han Xin's prior Guanzhong victory as Liu Bang's new operating condition, Liu Bang's attempt to retrieve Liu Taigong/Lu Zhi and contact Wang Ling, Xiang Yu's capture of Wang Ling's mother, her suicide to remove filial leverage, Xiang Yu's corpse-burning backfire, Liu Bang's public claim to be restoring the Huaiwang Agreement, and the wider timing pressure from Tian Rong, Peng Yue, Yan unrest, and Mi Xin's relocation. Created Wang Ling (Han minister) and Wang Ling Mother; updated overview, index, Han Xin, Liu Bang, Xiang Yu, Liu Taigong, Lu Zhi, Peng Yue, Tian Rong, Zhang Liang, Han Guang, Zang Tu, Mi Xin, Loyalty-Collateral Dilemma, Atrocity Backfire Mobilization, Reward Allocation Backlash, Coalition Settlement Failure, and Huaiwang Agreement. No settled contradiction found; disambiguated this Wang Ling from the existing Qin general page.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》147｜媲美诸葛亮隆中对的“汉中对”
 
 Added source page for Hanji 147: Han Xin's post-appointment strategy audience with Liu Bang, his comparison of Liu Bang's visible weakness against Xiang Yu, his critique of Xiang Yu's "匹夫之勇" and "妇人之仁," Xiang Yu's Guanzhong, Huaiwang-agreement, Yi Emperor, reward, and people-support failures, and the conclusion that Liu Bang can attack the Three Qin by combining Guanzhong memory, Yuefa Sanzhang, and resentment toward Zhang Han, Sima Xin, and Dong Yi after Xinan. Created Hanzhong Dui; updated overview, index, Han Xin, Liu Bang, Xiao He, Xiang Yu, Hanzhong, Nanzheng, Guanzhong Region, Three Qin Containment, Strategic Retreat Base-Building, Ritualized Command Appointment, Huaiwang Agreement, Yuefa Sanzhang, Xinan Massacre, Zhang Han, Sima Xin, and Dong Yi. No settled contradiction found; kept Han Xin's departure motive and the likely Xiao He-Han Xin long talk as source-scoped inference.
@@ -9942,6 +9946,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判
 
 Added source page for Hanji 148-1: Han Xin's post-Hanzhong-Dui execution plan, "申军法" as Qin-style military reorganization, the later reception of "明修栈道，暗渡陈仓," Guan Ying/Fan Kuai/Cao Shen's side-route actions, Zhang Han's second-order misread, the Chen Cang central breakthrough, Zhang Han's defeats at Chen Cang and Haozhi, and Sima Xin/Dong Yi's surrender. Created Chen Cang, Han Inherits Qin System, and Layered Feint Central Breakthrough; updated overview, index, Han Xin, Liu Bang, Zhang Han, Three Qin Containment, Hanzhong Dui, Strategic Retreat Base-Building, Military Merit Rank System, Guan Ying, Fan Kuai, Cao Shen, Sima Xin, Dong Yi, Hanzhong, Guanzhong Region, Sunzi Bingfa, Laozi, and Zhuge Liang. No settled contradiction found; kept the idiom-origin correction as reception history rather than a conflict with existing campaign pages.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

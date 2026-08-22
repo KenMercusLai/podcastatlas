@@ -2,7 +2,7 @@
 title: "彭越 / Peng Yue"
 type: entity
 tags: [person, qin, anti-qin, chu-han, military]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+sources: [zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than 
 
 [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] shows Peng Yue as an independent armed pressure point after Xiang Yu's partition. He now has more than ten thousand troops around 巨野 and is not meaningfully settled by [[XiangYu|项羽]]. [[TianRong|田荣]] gives him a general's seal, uses him to defeat [[TianAn|田安]], and then sends him against Western Chu, where Peng Yue defeats Xiang Yu's dispatched force. His branch therefore extends from local discipline into [[RewardAllocationBacklash|reward allocation backlash]] as a military threat.
 
+[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] keeps Peng Yue in that pressure role. While [[LiuBang|刘邦]] publicly frames his Guanzhong move as restoring the [[HuaiwangAgreement|怀王之约]], Peng Yue's harassment inside Chu-linked territory helps divide [[XiangYu|项羽]]'s attention and gives Liu Bang more time before a direct western response.
+
 ## Connections
 - [[LiuBang|刘邦]] - leader Peng Yue joins during the Changyi campaign in this source.
 - [[QinErshi|胡亥 / 秦二世]], [[ChenSheng|陈胜]], and [[XiangLiang|项梁]] - crisis and uprising context that lets Peng Yue's local force emerge.
@@ -25,3 +27,4 @@ By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than 
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider field in which local armed groups can attach to larger anti-Qin contenders.
 - [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] - source page for the fisher-to-commander branch.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[TianRong|田荣]], [[TianAn|田安]], and [[XiangYu|项羽]] - Qi-backed pressure against the post-Qin settlement.
+- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] and [[HuaiwangAgreement|怀王之约]] - continuing pressure that helps delay Xiang Yu's western response to Liu Bang.

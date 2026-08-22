@@ -2,7 +2,7 @@
 title: "Coalition Settlement Failure / 联军战后安排失败"
 type: concept
 tags: [warfare, diplomacy, statecraft, coalition, warring-states, qin]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 
 [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] shows the failure converting into operational overload. The settlement generates simultaneous Qi, Peng Yue, and Zhao-side rebellions through [[TianRong|田荣]], [[PengYue|彭越]], and [[ChenYu|陈馀]], while [[LiuBang|刘邦]] uses [[BurningGalleryRoads|burned gallery roads]] to make his Hanzhong retreat look final. A coalition settlement has failed when the ruler must spend his first months defending the allocation itself instead of consolidating the victory.
 
+[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] adds the next-stage overload after [[HanXin|韩信]] breaks the Three Qin position. [[XiangYu|项羽]] cannot immediately focus on Liu Bang because the settlement is still producing fires in Qi, Chu borderlands, Yan, and around [[MiXin|芈心 / 楚怀王]]. The failed settlement therefore becomes a time-allocation problem: the hegemon has more urgent claimants than he can answer at once.
+
 ## Key Claims
 - A coalition's battlefield interests can diverge from its postwar design interests.
 - Short-term extraction and long-term threat removal can point to incompatible settlement plans.
@@ -35,6 +37,7 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 - Hanji 142 adds that refusing to build from the conquered center can turn coalition command into plunder-and-depart rule rather than durable settlement.
 - Hanji 144 adds that a settlement can be territorially strong on paper while politically weak because disappointed stakeholders keep comparing rank, land quality, and recognition.
 - Hanji 144 part 2 adds an operational test: a settlement is failing when its enforcement fights create openings for rivals outside the rebellion theater.
+- Hanji 148-2 adds that settlement failure can become a response-lag problem after a rival makes a breakthrough elsewhere.
 
 ## Connections
 - [[HanState|韩国]], [[HanYihou|韩懿侯]], and [[GongsunQi|公孙齐]] - Han side of the coalition.
@@ -47,3 +50,4 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 - [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[Xianyang|咸阳]], [[GuanzhongRegion|关中]], [[HanSheng|韩生]], and [[ZiyingQin|子婴]] - capital destruction, rejected base advice, and the post-Hongmen settlement failure.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[RewardAllocationBacklash|分配反噬]], [[HanGuang|韩广]], [[HanCheng|韩成]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - partition backlash and Liu Bang's base-building response.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[TianRong|田荣]], [[PengYue|彭越]], [[ChenYu|陈馀]], [[BurningGalleryRoads|烧栈道]], and [[GuanzhongRegion|关中]] - rebellion cascade and western opening.
+- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[HanXin|韩信]], [[WangLingHanMinister|王陵]], [[HanGuang|韩广]], and [[MiXin|芈心 / 楚怀王]] - breakthrough in the west plus unresolved settlement fires elsewhere.

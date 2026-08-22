@@ -2,7 +2,7 @@
 title: "韩信 / Han Xin"
 type: entity
 tags: [person, chu-han, military, han]
-sources: [zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
+sources: [zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,8 @@ After following [[LiuBang|刘邦]] into [[Hanzhong|汉中]], Han Xin remains und
 
 [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] turns that plan into execution. The episode gives Han Xin two connected achievements: he first pushes Liu Bang's army through [[HanInheritsQinSystem|汉承秦制式军制改造]] by "申军法," then uses [[LayeredFeintCentralBreakthrough|多路佯动中央突破]] against [[ZhangHanQin|章邯]]. In this reading, Han Xin's genius lies in joining institutional preparation, subordinate deployment through [[GuanYing|灌婴]], [[FanKuai|樊哙]], and [[CaoShen|曹参]], and the central strike through [[ChenCang|陈仓]] rather than only in a single surprise route.
 
+[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] uses that campaign as the new starting condition rather than repeating the tactical detail. Han Xin's Guanzhong success has changed [[LiuBang|刘邦]]'s perceived strength, allowing Liu Bang to contact [[WangLingHanMinister|王陵]] and attempt to recover his family while [[XiangYu|项羽]] is pulled toward wider settlement crises.
+
 ## Connections
 - [[LiuBang|刘邦]], [[Hanzhong|汉中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - immediate source setting for Han Xin's first appearance.
 - [[RewardAllocationBacklash|分配反噬]], [[XiangYu|项羽]], and [[CoalitionSettlementFailure|联军战后安排失败]] - settlement conditions that make disappointed talent mobile.
@@ -40,3 +42,4 @@ After following [[LiuBang|刘邦]] into [[Hanzhong|汉中]], Han Xin remains und
 - [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]], [[XiahouYing|夏侯婴]], [[XiaoHe|萧何]], [[Nanzheng|南郑]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - transition from ignored talent to publicly retained command capacity.
 - [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[GuanzhongRegion|关中]], and [[ThreeQinContainment|三秦压制]] - transition from appointment to concrete west-to-east strategy.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[HanInheritsQinSystem|汉承秦制]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], and [[ChenCang|陈仓]] - transition from Hanzhong strategy into the campaign that breaks the Three Qin.
+- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[WangLingHanMinister|王陵]], and [[GuanzhongRegion|关中]] - downstream political effect of the campaign victory.

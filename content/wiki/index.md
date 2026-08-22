@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心](sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm.md) — 芮淇讲透资治通鉴 episode on Wang Ling's mother, Xiang Yu's hostage coercion, Liu Bang's Huaiwang-agreement claim, and settlement backlash across Qi, Yan, and Yi Emperor pressure.
 - [《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判](sources/zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe.md) — 芮淇讲透资治通鉴 episode on Han Xin's Qin-style army reform, layered feints, Chen Cang breakthrough, Zhang Han's defeat, and the collapse of the Three Qin.
 - [《资治通鉴·汉纪》147｜媲美诸葛亮隆中对的“汉中对”](sources/zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai.md) — 芮淇讲透资治通鉴 episode on Han Xin's Hanzhong strategy talk: Xiang Yu's apparent strengths, Liu Bang's Guanzhong legitimacy, and why the Three Qin can be the first recoverable target.
 - [《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信](sources/zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl.md) — 芮淇讲透资治通鉴 episode on Han Xin moving from ignored Xiang/Liu subordinate to Xiao He's "国士无双" recommendation, Nanzheng desertion pressure, and formal public appointment as Liu Bang's commander.
@@ -1244,6 +1245,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him firmly toward Liu Bang.
+- [王陵母亲 / Mother of Wang Ling](entities/WangLingMother.md) — Unnamed hostage whose suicide blocks Xiang Yu's coercion and turns corpse desecration into political backfire.
 - [韩信 / Han Xin](entities/HanXin.md) — Future Han general now extended from Huaiyin poverty and 忍辱大勇 into public command, Hanzhong Dui, Qin-style army reform, and the Chen Cang campaign.
 - [陈仓 / Chen Cang](entities/ChenCang.md) — Hanji 148-1 route and battle point where Han Xin's layered feints become the central breakthrough against Zhang Han.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.

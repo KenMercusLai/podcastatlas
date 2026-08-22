@@ -2,7 +2,7 @@
 title: "芈心 / Mi Xin / Later Chu Huai Wang"
 type: entity
 tags: [person, chu-state, qin, anti-qin, ruler]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
+sources: [zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ The most consequential act is [[HuaiwangAgreement|怀王之约]]. Mi Xin and his
 
 [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] adds the forced-relocation backlash. Mi Xin does not willingly leave Pengcheng for Chenxian, so Xiang Yu sends soldiers to compel the move. The episode says Mi Xin's attendants and ministers resent leaving their home region and refuse to settle quietly, turning his symbolic demotion into a visible grievance against Xiang Yu's settlement.
 
+[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] keeps Mi Xin's removal active in the background. As [[LiuBang|刘邦]] claims to be restoring the [[HuaiwangAgreement|怀王之约]], [[XiangYu|项羽]] is also pressuring Yi Emperor Mi Xin to move away from Pengcheng; the source presents followers leaving Mi Xin as a sign that Xiang Yu's symbolic settlement is losing even its remaining legitimacy theater.
+
 This page is separate from [[ChuHuaiwang|楚怀王]], the earlier Warring States ruler whose captivity and death in Qin create the reputation being reused here.
 
 ## Connections
@@ -38,3 +40,4 @@ This page is separate from [[ChuHuaiwang|楚怀王]], the earlier Warring States
 - [[HuaiwangAgreement|怀王之约]], [[GuanzhongRegion|关中]], [[SongYi|宋义]], and [[Julu|巨鹿]] - reward rule and mission assignment issued under his court.
 - [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]], [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], and [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]] - concept branches his role anchors.
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], [[WartimeCommandDecapitation|战时统帅斩首]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - formal appointment overridden by army-level violence.
+- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[LiuBang|刘邦]], and [[RewardAllocationBacklash|分配反噬]] - continuing forced-relocation pressure while Liu Bang invokes Mi Xin's earlier promise.
