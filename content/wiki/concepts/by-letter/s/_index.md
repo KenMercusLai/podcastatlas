@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5115
+wiki_total_pages: 5116
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"

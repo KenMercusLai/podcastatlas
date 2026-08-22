@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》162-2｜刘邦如何收拾位高权重的下属
+
+Added source page for Hanji 162-2: Peng Yue's rear pressure around Xiapi and Chu logistics, Xiang Yu's exhausting tactical victories around Xingyang/Chenggao, Zhou Ke and Cong Gong's final capture/death branch, Liu Bang's northward flight with Xiahou Ying, command recapture from Han Xin and Zhang Er through seals and military tokens, Han Xin's redirection toward Qi, and Gong Ao's death/Gong Wei succession. Created Xiapi, Gong Wei, and Command Authority Recapture; updated overview, index, Liu Bang, Han Xin, Zhang Er, Peng Yue, Xiang Yu, Chenggao, Zhou Ke, Cong Gong, Xiahou Ying, Gong Ao, Xingyang Standoff, Transport Corridor Severance, Xiayi Plan, Victory Overreach Failure, and Command-Seal Trust Rupture. No settled contradiction found; kept the high-status-subordinate management lesson and tactical-victory-versus-strategic-exhaustion reading source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（1）
 
 Added source page for Hanji 153 part 1: Liu Bang's immediate post-Pengcheng recovery question at Xiayi, Zhang Liang's Xiayi Plan using Ying Bu, Peng Yue, and Han Xin, the reward promise east of Wuguan, the Xiang Yu-Ying Bu trust fracture, and Sui He's volunteered mission to Jiujiang. Created Sui He and Xiayi Plan; updated overview, index, Liu Bang, Zhang Liang, Xiang Yu, Ying Bu, Peng Yue, Han Xin, Pengcheng Battle, Xiayi, Lu Ze, Wuguan, and Power-Based Alliance Repricing. No settled contradiction found; kept the opening adversity frame and the "hidden Han Xin" reading source-scoped.
@@ -10197,3 +10201,7 @@ Added source page for Hanji 162-1: Ji Xin's substitutional death at Xingyang, Ch
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,042 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

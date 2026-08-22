@@ -2,7 +2,7 @@
 title: "Xiayi Plan / 下邑画策"
 type: concept
 tags: [strategy, alliance, warfare, chu-han, delegation]
-sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
+sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
 last_updated: 2026-08-23
 ---
 
@@ -26,6 +26,8 @@ Xiayi Plan is adjacent to [[StrategicRetreatBaseBuilding|退让式根据地经�
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] adds a late-Xingyang refinement to the same strategy. [[YuanShengChuHan|袁先生 / 袁生]] advises [[LiuBang|刘邦]] to stop trying to rush back into the [[XingyangStandoff|荥阳相持]], instead moving through [[Wuguan|武关]] toward [[WanCounty|宛县]], refusing battle, and drawing [[XiangYu|项羽]] south. This indirectly protects Xingyang and [[Chenggao|成皋]], while leaving [[HanXin|韩信]] and [[PengYue|彭越]] more room to work.
 
+[[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds the plan's command-risk boundary. Han Xin's delegated northern front has become useful enough that Liu Bang flees to it after losing Chenggao, but also powerful enough that Liu Bang immediately takes Han Xin and [[ZhangEr|张耳]]'s seals and military tokens. The plan therefore requires both delegation and [[CommandAuthorityRecapture|统帅权再收束]]: distributed pressure against Xiang Yu must stay subordinate to Liu Bang's central authority.
+
 ## Key Claims
 - Post-defeat strategy can begin before full recovery if the leader asks the next operating question quickly.
 - A direct military ceiling can be bypassed by changing the shape of war: frontal holding, enemy-side defection, rear raids, and independent campaigns replace one huge coalition battle.
@@ -38,8 +40,10 @@ Xiayi Plan is adjacent to [[StrategicRetreatBaseBuilding|退让式根据地经�
 - Hanji 158 adds that a defection leg may require a no-return device after persuasion: Ying Bu's private assent has to be made public and costly before it reliably changes the war.
 - Hanji 159-1 adds that a successful defection still needs post-arrival status management and may trigger enemy counterpressure against the defector's original base.
 - Hanji 162-1 adds that the plan's later execution includes deliberate non-battle: Liu Bang's job can be to lure and fix Xiang Yu while garrisons recover and other fronts attack logistics.
+- Hanji 162-2 adds that delegated fronts need a command recapture mechanism when crisis drives the ruler back toward a subordinate army.
 
 ## Connections
+- [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[CommandAuthorityRecapture|统帅权再收束]], [[HanXin|韩信]], and [[ZhangEr|张耳]] - command-risk boundary after delegated northern success.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[YuanShengChuHan|袁先生 / 袁生]], [[Chenggao|成皋]], [[WanCounty|宛县]], and [[PengYue|彭越]] - southward diversion and logistics pressure after Liu Bang's Xingyang escape.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[Xiayi|下邑]] - defeated ruler, strategist, and planning site.
 - [[PengchengBattle|彭城之战]] and [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]] - catastrophe and command-limit diagnosis that make redesign necessary.

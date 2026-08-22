@@ -2,7 +2,7 @@
 title: "彭越 / Peng Yue"
 type: entity
 tags: [person, qin, anti-qin, chu-han, military]
-sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
 last_updated: 2026-08-23
 ---
 
@@ -28,7 +28,10 @@ By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than 
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] shows that pressure taking effect after [[YuanShengChuHan|袁先生 / 袁生]] draws Xiang Yu south. While Xiang Yu faces Liu Bang's fortified refusal to fight around Wan, Peng Yue moves toward the [[SuiRiver|睢水]] and cuts Chu logistics, leaving Xiang Yu with Liu Bang in front, Peng Yue behind, and food under pressure.
 
+[[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds the preceding rhythm of that pressure. After losing ground in the wake of [[PengchengBattle|彭城之战]], Peng Yue resumes mobile attacks along the Yellow River, cuts Chu food routes, and defeats a Chu force around [[Xiapi|下邳]]. The episode uses him as the force that repeatedly pulls [[XiangYu|项羽]] away from [[Chenggao|成皋]], making rear harassment one cause of Xiang Yu's strategic exhaustion even when Xiang Yu keeps winning local battles.
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[Xiapi|下邳]], [[Chenggao|成皋]], [[XiangYu|项羽]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - mobile rear pressure forcing Xiang Yu into exhausting theater shifts.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[SuiRiver|睢水]], [[YuanShengChuHan|袁先生 / 袁生]], and [[TransportCorridorSeverance|交通线切割]] - rear logistics cutoff after Xiang Yu follows Liu Bang south.
 - [[LiuBang|刘邦]] - leader Peng Yue joins during the Changyi campaign in this source.
 - [[QinErshi|胡亥 / 秦二世]], [[ChenSheng|陈胜]], and [[XiangLiang|项梁]] - crisis and uprising context that lets Peng Yue's local force emerge.

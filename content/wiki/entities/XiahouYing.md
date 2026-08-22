@@ -2,8 +2,8 @@
 title: "夏侯婴 / Xiahou Ying"
 type: entity
 tags: [person, qin-han, anti-qin, military]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
+last_updated: 2026-08-23
 ---
 
 # 夏侯婴 / Xiahou Ying
@@ -20,7 +20,10 @@ For this source, Xiahou Ying matters as an operational connector inside Liu Bang
 
 [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] gives Xiahou Ying his strongest family-protection scene. During Liu Bang's escape after the [[PengchengBattle|彭城之战]], Liu Bang pushes [[LiuYing|刘盈]] and [[LuYuanPrincess|鲁元公主]] off the cart under Chu pursuit, while Xiahou Ying repeatedly stops to bring them back. The episode says Liu Ying and [[LuZhi|吕雉]] later remember this rescue, and it also frames Xiahou Ying's long survival under three rulers through humility and careful role discipline.
 
+[[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds another escape-driver role. When [[LiuBang|刘邦]] abandons [[Chenggao|成皋]] under renewed [[XiangYu|项羽]] pressure, Xiahou Ying rides with him north across the Yellow River toward [[HanXin|韩信]] and [[ZhangEr|张耳]]'s camp, where Liu Bang then executes [[CommandAuthorityRecapture|统帅权再收束]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[Chenggao|成皋]], [[HanXin|韩信]], [[ZhangEr|张耳]], and [[CommandAuthorityRecapture|统帅权再收束]] - northward escape and arrival at the Zhao camp.
 - [[LiuBang|刘邦]] and [[XiaoHe|萧何]] - commander and fellow persuader in the Huling surrender.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[FanKuai|樊哙]], [[JiXin|纪信]], [[JinQiang|金强]], and [[HongmenYan|鸿门宴]] - trusted entourage waiting outside Xiang Yu's tent.
 - [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[Bashang|霸上]], and [[Lishan|骊山]] - return-route escort after Liu Bang leaves Hongmen.

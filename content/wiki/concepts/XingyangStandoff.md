@@ -2,7 +2,7 @@
 title: "Xingyang Standoff / 荥阳相持"
 type: concept
 tags: [warfare, chu-han, logistics, campaign, stalemate]
-sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
+sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
 last_updated: 2026-08-23
 ---
 
@@ -28,6 +28,8 @@ The concept therefore names the shift from flight to durable contest. Liu Bang s
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] turns the siege into an extraction and time-buying problem. [[JiXin|纪信]]'s [[SubstitutionalEscapeSacrifice|代身突围牺牲]] lets [[LiuBang|刘邦]] leave the city, while [[ZhouKe|周苛]] and [[CongGong|枞公]] harden the remaining garrison by executing [[WeiBao|魏豹]]. The same episode then has [[YuanShengChuHan|袁先生 / 袁生]] redirect Liu Bang through [[Wuguan|武关]] toward Wan so [[XiangYu|项羽]] is drawn south, giving Xingyang, [[Chenggao|成皋]], and [[HanXin|韩信]] time to recover.
 
+[[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds the next collapse-and-reassembly turn. Xiang Yu retakes Xingyang and Chenggao after dealing with [[PengYue|彭越]], but the victory leaves him stretched by repeated theater shifts. Liu Bang abandons Chenggao, crosses the Yellow River with [[XiahouYing|夏侯婴]], and rebuilds immediate command by taking [[HanXin|韩信]] and [[ZhangEr|张耳]]'s seals through [[CommandAuthorityRecapture|统帅权再收束]].
+
 ## Key Claims
 - A defeated army can survive by converting retreat into a defensible concentration point before it has regained full offensive strength.
 - Stalemate is constructed from logistics, reinforcement, blocking actions, and force redesign, not only from battlefield parity.
@@ -41,8 +43,10 @@ The concept therefore names the shift from flight to durable contest. Liu Bang s
 - Hanji 160 part 1 adds that failed peace can force the standoff into information warfare, using Chen Ping's funded rumor operation to reduce Chu pressure indirectly.
 - Hanji 160 part 2 adds the result of that information warfare: Fan Zeng's exit weakens Chu's decision system even before the siege is fully resolved.
 - Hanji 162-1 adds that the standoff can survive a near-collapse through sacrificial impersonation, garrison commitment, and an indirect diversion that pulls Xiang Yu away from the central front.
+- Hanji 162-2 adds that even after Xingyang and Chenggao fall again, the standoff continues as a command-reassembly problem: Liu Bang survives by reasserting authority over the northern army and redirecting Han Xin toward Qi.
 
 ## Connections
+- [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[LiuBang|刘邦]], [[HanXin|韩信]], [[ZhangEr|张耳]], [[XiahouYing|夏侯婴]], and [[CommandAuthorityRecapture|统帅权再收束]] - renewed central-front collapse followed by northern command recapture.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[ZhouKe|周苛]], [[CongGong|枞公]], [[YuanShengChuHan|袁先生 / 袁生]], and [[Chenggao|成皋]] - escape, garrison hardening, and southward diversion after the siege crisis.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - counterintelligence payoff through Fan Zeng's isolation.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[FanZeng|范增]], [[XiangBo|项伯]], and [[CovertPoliticalTechnology|阴谋式政治技术]] - failed peace and funded counterintelligence as the next survival move.
