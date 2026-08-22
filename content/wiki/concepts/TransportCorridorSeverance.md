@@ -2,7 +2,7 @@
 title: "Transport Corridor Severance / 交通线切割"
 type: concept
 tags: [strategy, warfare, logistics, geography, warring-states]
-sources: [zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-23
 ---
 
@@ -24,6 +24,8 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 
 [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] adds a campaign-passage version. At [[JingxingPass|井陉口]], [[LiZuoChe|李左车]] reads [[HanXin|韩信]] and [[ZhangEr|张耳]]'s force as vulnerable because food trails behind a long army moving through a narrow route. His proposed side-path attack would sever the transport line before Han can choose a normal battle.
 
+[[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] adds the central-front version against Han. Chu captures [[Aocang|敖仓]], controls Yellow River transport, and repeatedly attacks the Han food corridor around [[XingyangStandoff|荥阳相持]]. Here severance is not only a proposed tactic or pre-battle setup; it becomes the pressure that makes [[LiuBang|刘邦]] receptive to a bad political plan.
+
 ## Key Claims
 - Route control can matter as much as city capture because it changes whether a state can reinforce, communicate with, or command an exposed region.
 - Cutting corridors turns one enemy state into multiple isolated operational problems.
@@ -34,6 +36,7 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 - Zhouji 94 part 2 adds that the same logic can shrink to battle scale: cutting the army's food route turns maneuver into starvation.
 - Qinji 134 adds that corridor severance can support siege relief: cutting the besieger's protected food route can make direct battle winnable.
 - Hanji 156 adds that a narrow pass can make a moving army's supply tail the corridor to cut, even before formal encirclement begins.
+- Hanji 159-1 adds that food-corridor pressure can distort political judgment, pushing a ruler toward risky legitimacy schemes when the front is starving.
 
 ## Connections
 - [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], and [[QinState|秦国]] - strategist, ruler, commander, and state using the method.
@@ -44,3 +47,4 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[ZhaoKuo|赵括]], and [[QinZhaoxiangwang|秦昭襄王]] - battle-scale severance and state mobilization in Zhouji 94 part 2.
 - [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[ZhangHanQin|章邯]], [[WangLiQin|王离]], [[YingBu|英布]], and [[PuGeneral|蒲将军]] - Qinji 134 supply-corridor break before Xiang Yu's decisive attack.
 - [[JingxingPass|井陉口]], [[LiZuoChe|李左车]], [[HanXin|韩信]], [[ZhangEr|张耳]], and [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] - Hanji 156 proposed side-path severance of Han's supply route.
+- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[XingyangStandoff|荥阳相持]], [[LongJuChuGeneral|龙且]], and [[LiShiqi|郦食其]] - Chu control of Aocang and Han food-corridor pressure.

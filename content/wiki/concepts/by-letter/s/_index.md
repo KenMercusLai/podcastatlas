@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5099
+wiki_total_pages: 5100
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "StatusOrderBacklash"
     title: "Status Order Backlash / 名分秩序反弹"
     url: "/wiki/concepts/statusorderbacklash/"
+  - key: "StatusSuppressionThenEqualTreatment"
+    title: "Status Suppression Then Equal Treatment / 先挫锐气后同等厚待"
+    url: "/wiki/concepts/statussuppressionthenequaltreatment/"
   - key: "StatusQuoRationalization"
     title: "Status-Quo Rationalization / 现状合理化"
     url: "/wiki/concepts/statusquorationalization/"

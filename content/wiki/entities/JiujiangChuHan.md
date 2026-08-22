@@ -2,7 +2,7 @@
 title: "Jiujiang Kingdom / 九江国"
 type: entity
 tags: [place, polity, chu-han, ying-bu]
-sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
+sources: [zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu]
 last_updated: 2026-08-23
 ---
 
@@ -14,8 +14,11 @@ Jiujiang Kingdom / 九江国 is [[YingBu|英布]]'s Chu-Han power base after [[X
 
 The same episode makes Jiujiang strategically larger than its local geography. When Sui He publicly declares that Ying Bu already belongs to Han and pushes the killing of Xiang Yu's envoy, Jiujiang becomes the site where a private promise turns into [[IrreversibleDefectionBinding|断路式策反绑定]]. Ying Bu's later attack on Chu forces Xiang Yu to spend attention and troops against his former southern-side commander, helping Liu Bang preserve the [[XingyangStandoff|荥阳相持]].
 
+[[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] adds the rollback after the break. Ying Bu flees to Liu Bang, but Chu-side forces kill his family and [[LongJuChuGeneral|龙且]] restores Jiujiang for Xiang Yu. Jiujiang therefore remains valuable as a lever against Chu, but the episode shows that defection does not instantly give Liu Bang control of the territory.
+
 ## Connections
 - [[YingBu|英布]] - Jiujiang king whose separate base creates room for defection.
+- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] and [[LongJuChuGeneral|龙且]] - post-defection Chu restoration of the Jiujiang position.
 - [[SuiHe|随何]] and [[LiuBang|刘邦]] - envoy and ruler behind the Han-side mission.
 - [[XiangYu|项羽]] - overlord whose pressure and envoy demand trigger the final rupture.
 - [[XiayiPlan|下邑画策]] - strategic design that identifies Jiujiang as a southern lever against Chu.

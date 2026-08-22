@@ -2,7 +2,7 @@
 title: "Xingyang Standoff / 荥阳相持"
 type: concept
 tags: [warfare, chu-han, logistics, campaign, stalemate]
-sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
+sources: [zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]
 last_updated: 2026-08-23
 ---
 
@@ -18,6 +18,8 @@ The concept therefore names the shift from flight to durable contest. Liu Bang s
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds the cost of keeping that front alive. [[HanXin|韩信]] is allowed to open the northern campaign after defeating [[WeiBao|魏豹]], but [[LiuBang|刘邦]] repeatedly pulls elite soldiers from Han Xin's army to patch the Xingyang front. The standoff therefore competes with offensive strategy: it preserves Liu Bang's center while limiting how far Han Xin can carry the northern grain-route cutoff.
 
+[[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] adds the next crisis turn. [[LongJuChuGeneral|龙且]] restores Jiujiang for Chu and reinforces [[XiangYu|项羽]], after which Chu captures [[Aocang|敖仓]], controls Yellow River transport, and repeatedly strikes Han's food corridor. The standoff is therefore not a stable equilibrium: when logistics break, Liu Bang becomes willing to consider [[LiShiqi|郦食其]]'s six-kingdom restoration plan until [[ZhangLiang|张良]] stops it.
+
 ## Key Claims
 - A defeated army can survive by converting retreat into a defensible concentration point before it has regained full offensive strength.
 - Stalemate is constructed from logistics, reinforcement, blocking actions, and force redesign, not only from battlefield parity.
@@ -26,8 +28,10 @@ The concept therefore names the shift from flight to durable contest. Liu Bang s
 - The phase turns [[XiayiPlan|下邑画策]] from a strategic design into the material holding environment needed for that design to work.
 - Hanji 155-2 adds that a holding front can consume the elite manpower needed for delegated offensive operations elsewhere.
 - Hanji 158 adds the other side of the same exchange: successful diplomacy against Ying Bu buys time for Xingyang by forcing Xiang Yu to fight a new southern/rear problem.
+- Hanji 159-1 adds that the same front can relapse into crisis when Chu retakes Aocang and turns the food corridor against Han.
 
 ## Connections
+- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[LongJuChuGeneral|龙且]], [[LiShiqi|郦食其]], and [[ZhangLiang|张良]] - renewed supply crisis and blocked six-kingdom restoration response.
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PengchengBattle|彭城之战]] - defeated leader, opposing commander, and precipitating rout.
 - [[YingyangWarringStates|荥阳]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - front geography, grain source, and the broader importance of route control.
 - [[XiaoHe|萧何]], [[HanXin|韩信]], [[GuanYing|灌婴]], and [[HanCavalryFormation|汉军骑兵建设]] - manpower, command, and mounted-force repair.

@@ -2,7 +2,7 @@
 title: "郦食其 / Li Shiqi"
 type: entity
 tags: [person, persuader, qin, chu-han, rhetoric]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+sources: [zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
 last_updated: 2026-08-23
 ---
 
@@ -24,8 +24,11 @@ After Chenliu, Liu Bang enfeoffs Li Shiqi as Guangye Jun and accepts his recomme
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds Li Shiqi as an intelligence and judgment partner before the campaign against [[WeiBao|魏豹]]. [[LiuBang|刘邦]] asks him about Wei's commanders, and Li Shiqi's answers help establish the episode's contrast between [[BoZhi|柏直]] as Wei Bao's actual commander and [[ZhouShu|周叔]] as the stronger figure Wei Bao fails to use.
 
+[[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] returns Li Shiqi to Liu Bang's decision room during the [[XingyangStandoff|荥阳相持]]. The transcript renders him as "丽姬," but the role fits Li Shiqi: he proposes restoring descendants of the six old states to weaken Xiang Yu, and Liu Bang initially prepares seals for the plan. The episode then has [[ZhangLiang|张良]] reject the proposal before Li Shiqi departs, making this a source-scoped failed-advice case rather than a completed mission.
+
 ## Connections
 - [[LiuBang|刘邦]] - patron who first receives Li Shiqi disrespectfully, then accepts correction and strategy.
+- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[ZhangLiang|张良]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - proposed six-kingdom restoration plan rejected before execution.
 - [[LiBai|李白]] - poet whose 《梁甫吟》 line introduces the episode's Li Shiqi branch.
 - [[Chenliu|陈留]] and [[LiShang|郦商]] - target and family-command payoff of Li Shiqi's advice.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[BoZhi|柏直]], and [[ZhouShu|周叔]] - pre-campaign assessment of Wei Bao's command quality.
