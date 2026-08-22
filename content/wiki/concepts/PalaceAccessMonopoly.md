@@ -2,7 +2,7 @@
 title: "Palace Access Monopoly / 宫廷接触垄断"
 type: concept
 tags: [governance, court-politics, information-control, qin]
-sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
+sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
 last_updated: 2026-08-22
 ---
 
@@ -16,12 +16,15 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 
 [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] extends the same access problem into prison review. After [[LiSi|李斯]] is jailed, Zhao Gao controls whether his memorial reaches [[QinErshi|胡亥 / 秦二世]] and controls which interrogators Li Si sees. The palace bottleneck becomes a [[CoercedConfessionTrap|逼供认罪陷阱]]: when a real imperial reviewer finally arrives, the prisoner has already learned that denial only leads to more torture.
 
+[[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] widens the access problem from audience timing to crisis information. Zhao Gao keeps reports of [[WangLiQin|王离]]'s capture, [[ZhangHanQin|章邯]]'s defeats, and broad eastern rebellion from Hu Hai, while using [[PointingDeerAsHorse|指鹿为马]] to map which officials will publicly obey him. The access monopoly has therefore become [[CrisisInformationBlockade|危机信息封锁]] plus public loyalty testing.
+
 ## Key Claims
 - Access control can be more decisive than formal rank when the ruler accepts an intermediary's filtering role.
 - Seclusion language can make isolation feel like dignity rather than vulnerability.
 - Timed access can weaponize true advice by making it arrive in a context where the ruler experiences it as personal offense.
 - A captured audience channel turns accusations, family ties, and policy warnings into tools for eliminating rivals.
 - Access monopoly can migrate from court audience to legal review when the same intermediary controls custody, documents, and who appears before the prisoner.
+- Qinji 137 adds that access monopoly can also become battlefield-news blockade: the intermediary decides not only who reaches the ruler, but what reality reaches him.
 
 ## Connections
 - [[ZhaoGao|赵高]] - court operator who creates the access bottleneck in the source.
@@ -30,3 +33,4 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 - [[FengQuji|冯去疾]], [[FengJieQin|冯劫 / 冯杰]], and [[AfangPalace|阿房宫]] - later remonstrance that fails inside the captured access system.
 - [[CourtFeedbackCollapse|君臣反馈失灵]], [[LegalistRulerTechnique|法家君术]], and [[DuzeExtractionPolitics|督责式压榨政治]] - adjacent governance-failure concepts.
 - [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]], [[CoercedConfessionTrap|逼供认罪陷阱]], and [[PoliticalShowTrial]] - prison-stage continuation of the captured access channel.
+- [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[PointingDeerAsHorse|指鹿为马]], [[CrisisInformationBlockade|危机信息封锁]], [[WangLiQin|王离]], and [[ZhangHanQin|章邯]] - later extension into public obedience testing and war-news suppression.

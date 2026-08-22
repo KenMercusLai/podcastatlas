@@ -2,7 +2,7 @@
 title: "巨鹿之战 / Battle of Julu"
 type: entity
 tags: [event, battle, qin, chu, zhao, rebellion, military-logistics]
-sources: [zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw]
+sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw]
 last_updated: 2026-08-22
 ---
 
@@ -20,9 +20,12 @@ The battle therefore marks both a military and political turn. Militarily, Qin l
 
 [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] adds the immediate Zhao-side aftermath. Once the siege is lifted, the unresolved conflict between [[ZhangEr|张耳]] inside Julu and [[ChenYu|陈馀]] outside it does not disappear. Zhang Er's accusation, Chen Yu's thrown seal, and Zhang Er's seizure of the troops turn the battle's relief into [[CommandSealTrustRupture|将印信任破裂]] between the former allies.
 
+[[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] records the Qin-side aftermath: [[WangLiQin|王离]]'s defeat or capture and [[ZhangHanQin|章邯]]'s continuing losses leave Zhang Han exposed to both [[XiangYu|项羽]] in the field and [[ZhaoGao|赵高]] at court. The battle's effect therefore keeps unfolding as a command-survival crisis that ends in Zhang Han's surrender.
+
 ## Connections
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] and [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] - setup through Xiang Liang's death, Song Yi's appointment, and Xiang Yu's command seizure.
 - [[Julu|巨鹿]], [[ZhaoXie|赵歇]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], [[WangLiQin|王离]], and [[ZhangHanQin|章邯]] - siege actors and field layout.
 - [[XiangYu|项羽]], [[YingBu|英布]], [[PuGeneral|蒲将军]], [[Aocang|敖仓]], and [[ZhangRiver|漳水]] - Chu attack sequence and geography.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[TransportCorridorSeverance|交通线切割]], [[BreakingCauldronsAndSinkingBoats|破釜沉舟]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - operational and coalition concepts clarified by the battle.
 - [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[CommandSealTrustRupture|将印信任破裂]] - post-battle Zhao-side rupture.
+- [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], [[ZhaoGao|赵高]], and [[CrisisInformationBlockade|危机信息封锁]] - Qin-side command collapse and concealed defeat news.

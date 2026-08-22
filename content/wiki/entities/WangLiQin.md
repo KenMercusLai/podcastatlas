@@ -2,7 +2,7 @@
 title: "王离 / Wang Li (Qin)"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
+sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
 last_updated: 2026-08-22
 ---
 
@@ -20,10 +20,13 @@ The page keeps Wang Li source-scoped. In this episode, he is less a battlefield 
 
 Xiang Yu then crosses the [[ZhangRiver|漳水]], uses [[BreakingCauldronsAndSinkingBoats|破釜沉舟]], and defeats Wang Li's army after nine engagements. The episode makes Wang Li's defeat the immediate military result of [[JuluBattle|巨鹿之战]], while the lords' later submission to Xiang Yu becomes the political result.
 
+[[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] records Wang Li's loss as part of the news [[ZhaoGao|赵高]] keeps from [[QinErshi|胡亥 / 秦二世]]. In this episode's summary, Wang Li has been captured by [[XiangYu|项羽]], while [[ZhangHanQin|章邯]]'s remaining army continues losing and requesting reinforcements. Wang Li therefore becomes one of the concrete facts inside Zhao Gao's [[CrisisInformationBlockade|危机信息封锁]].
+
 ## Connections
 - [[LiLiangZhaoGeneral|李良]] - target of Wang Li's blockade and recruitment letter.
 - [[QinState|秦国]] and [[QinErshi|胡亥 / 秦二世]] - regime and imperial name used in the letter.
 - [[WuChen|武臣]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - restored-Zhao context affected by Li Liang's later defection.
 - [[Julu|巨鹿]], [[ZhaoXie|赵歇]], [[ZhangEr|张耳]], [[ZhangHanQin|章邯]], [[SongYi|宋义]], and [[XiangYu|项羽]] - Qinji 132 siege and rescue-Zhao setup.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[ZhangRiver|漳水]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - completed siege defeat after the supply corridor breaks.
+- [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[ZhaoGao|赵高]], and [[CrisisInformationBlockade|危机信息封锁]] - captured-general news hidden from Hu Hai.
 - [[StatusInsultDefectionCascade|名分羞辱触发叛变]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - concepts extended by the sequence that begins with Wang Li's approach.

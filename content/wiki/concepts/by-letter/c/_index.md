@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5051
+wiki_total_pages: 5053
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1376,6 +1376,9 @@ wiki_pages:
   - key: "CrisisAutonomousMarriage"
     title: "Crisis Autonomous Marriage / 患难自主婚姻"
     url: "/wiki/concepts/crisisautonomousmarriage/"
+  - key: "CrisisInformationBlockade"
+    title: "Crisis Information Blockade / 危机信息封锁"
+    url: "/wiki/concepts/crisisinformationblockade/"
   - key: "CrisisStakeholderLeadership"
     title: "Crisis Stakeholder Leadership"
     url: "/wiki/concepts/crisisstakeholderleadership/"

@@ -2,7 +2,7 @@
 title: "Huaiwang Agreement / 怀王之约"
 type: concept
 tags: [legitimacy, rebellion, qin, chu-han, coalition, reward]
-sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
+sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 
 [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] shows the agreement shaping local decisions on Liu Bang's route. [[ChenHuiNanyang|陈恢]] explicitly uses Liu Bang's need to reach [[GuanzhongRegion|关中]] first as the reason he should not waste time storming [[WanCounty|宛县]]. [[SimaAng|司马卬]]'s attempted move toward Guanzhong also shows the competitive side of the promise: Liu Bang has reason to block other commanders from entering first.
 
+[[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] adds the agreement's post-victory vulnerability. After [[XiangYu|项羽]] accepts [[ZhangHanQin|章邯]]'s surrender, he makes Zhang Han 雍王. The episode reads 雍王 as effectively a [[GuanzhongRegion|关中]] kingship because Yongzhou is treated as the Qin heartland. That decision creates tension with the public promise that the first entrant into Guanzhong should receive the kingship, and it turns the agreement from a coordinating rule into a settlement problem.
+
 ## Key Claims
 - A coalition promise can coordinate ambition by making reward rules public before victory is complete.
 - The agreement converts anti-Qin action from inherited-state restoration into performance-based kingship.
@@ -29,6 +31,7 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 - Mission allocation does not by itself solve command legitimacy; the Julu relief army can still split over timing, morale, and personal authority.
 - The agreement also changes siege bargaining: local actors can persuade Liu Bang by pointing to his deadline and reward incentives.
 - The agreement intensifies route competition among anti-Qin commanders, not only between Liu Bang and Xiang Yu.
+- Qinji 137 adds that the agreement can be undermined after victory if the strongest coalition commander reallocates Guanzhong-like kingship to a surrendered Qin general.
 
 ## Connections
 - [[MiXin|芈心 / 楚怀王]] - ruler whose court issues the agreement.
@@ -38,3 +41,4 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 - [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]], [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], and [[MeritBasedRewardPunishment|因功赏罚]] - adjacent legitimacy and reward concepts.
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], [[DelayedRescueStatecraft|晚救权谋]], and [[WartimeCommandDecapitation|战时统帅斩首]] - command breakdown on the rescue-Zhao side of the agreement.
 - [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]], [[WanCounty|宛县]], [[ChenHuiNanyang|陈恢]], and [[SimaAng|司马卬]] - local bargaining and route competition on Liu Bang's westward side.
+- [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[ZhangHanQin|章邯]], [[XiangYu|项羽]], and [[CoalitionSettlementFailure|联军战后安排失败]] - 雍王 appointment as a post-victory challenge to the reward rule.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈](sources/zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj.md) — 芮淇讲透资治通鉴 episode on Zhang Han's surrender, Xiang Yu's flawed 雍王 settlement, Zhao Gao's 指鹿为马 loyalty test, and crisis information blockade before Liu Bang reaches Wuguan.
 - [《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿](sources/zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o.md) — 芮淇讲透资治通鉴 episode completing Li Shiqi's meeting with Liu Bang, taking Chenliu, the Yingchuan massacre, and the Wan/Nanyang surrender turn toward pacifying Qin people.
 - [《资治通鉴·秦纪》135｜命运太神奇：从渔夫做到王](sources/zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb.md) — 芮淇讲透资治通鉴 episode on Zhang Er and Chen Yu's post-Julu rupture, Peng Yue's fisher-to-disciplined-commander rise, and Li Shiqi's pending attempt to reach Liu Bang.
 - [《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运”](sources/zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu.md) — 芮淇讲透资治通鉴番外 episode on Zeng Guofan, the attributed Bingjian person-reading tradition, spirit-bone physiognomy, affect and bearing, and speech order as a practical talent signal.
@@ -7789,6 +7790,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [指鹿为马 / Pointing Deer As Horse](concepts/PointingDeerAsHorse.md) — Zhao Gao's public obedience test where an obvious falsehood maps officials for later purge.
+- [Crisis Information Blockade / 危机信息封锁](concepts/CrisisInformationBlockade.md) — Pattern where a court insider suppresses bad war news from the ruler until the crisis reaches an undeniable threshold.
 - [将印信任破裂 / Command-Seal Trust Rupture](concepts/CommandSealTrustRupture.md) — Zhang Er and Chen Yu pattern where post-crisis suspicion turns a general's seal and troop control into the mechanism of final rupture.
 - [盗匪成军纪律化 / Bandit-to-Army Discipline](concepts/BanditToArmyDiscipline.md) — Peng Yue pattern where credible command, deadline enforcement, and selective punishment convert a loose outlaw group into a usable military force.
 - [神骨相法 / Spirit-Bone Physiognomy](concepts/ShenGuPhysiognomy.md) — Source-scoped method from Qinji 135 番外篇3 reading eyes as spirit, face bones as root, and speech order as the most practical talent signal.

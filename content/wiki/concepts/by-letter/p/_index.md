@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5051
+wiki_total_pages: 5053
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "Pyramiding"
     title: "Pyramiding"
     url: "/wiki/concepts/pyramiding/"
+  - key: "PointingDeerAsHorse"
+    title: "指鹿为马 / Pointing Deer As Horse"
+    url: "/wiki/concepts/pointingdeerashorse/"
   - key: "PuzzleSnackMystery"
     title: "推理薯片 / Puzzle-Snack Mystery"
     url: "/wiki/concepts/puzzlesnackmystery/"

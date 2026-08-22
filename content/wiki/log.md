@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈
+
+Added source page for Qinji 137: Zhang Han's post-Julu trap under Qin Er Shi's rebuke and Zhao Gao's court control, Sima Xin's failed Xianyang mission, Chen Yu's surrender letter using Bai Qi and Meng Tian as warning examples, Xiang Yu's acceptance of Zhang Han's surrender and criticized 雍王 settlement, Zhao Gao's 指鹿为马 loyalty test, hidden news of Wang Li's capture and Zhang Han's losses, Liu Bang's capture of Wuguan, and Hu Hai's dream/ritual response before questioning Zhao Gao. Created Pointing Deer As Horse and Crisis Information Blockade; updated overview, index, Zhang Han, Sima Xin, Chen Yu, Wang Li, Zhao Gao, Qin Er Shi, Xiang Yu, Liu Bang, Julu Battle, Wuguan, Huaiwang Agreement, Coalition Settlement Failure, and Palace Access Monopoly. No settled contradiction found; normalized source variants 张涵 and 陈瑜 to the canonical Zhang Han / Chen Yu pages and left the uncertain "屎城" envoy form unmaterialized.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本
 
 Added source page for Qinji 134: Xiang Yu's Julu battle after killing Song Yi, Liu Bang's parallel victories, Tian An's Jibei attachment, Zhang Han's supply corridor feeding Wang Li's siege army, Zhang Er's appeals to Chen Yu, the failed five-thousand-person rescue attempt, Ying Bu and Pu General breaking the Qin yongdao from Aocang toward Julu, Xiang Yu's Zhang River crossing and 破釜沉舟 order, nine engagements against Qin, and the lords' submission to Xiang Yu as coalition commander. Created Julu Battle, Pu General, Aocang, Zhang River, and Breaking Cauldrons and Sinking Boats; updated overview, index, Xiang Yu, Ying Bu, Liu Bang, Zhang Han, Wang Li, Zhang Er, Chen Yu, Zhao Xie, Julu, Battlefield Encirclement Logistics, Transport Corridor Severance, Military Morale Through Shared Hardship, Coalition Self-Preservation Failure, Anti-Qin Coalition Fragmentation, and War Cost Tempo Discipline. No settled contradiction found; preserved the "Zhang River, not Yellow River" correction as source-scoped geography reasoning.
@@ -9810,6 +9814,10 @@ Ran lint after identity validation and health pre-flight passed. Health scanned 
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿
 
 Added source page for Qinji 136: Li Shiqi's completed meeting with Liu Bang, the foot-washing rebuke, the Chenliu plan and morally compromised inside action, Liu Bang's Chenliu provisioning and Li Shang appointment, failed Kaifeng pressure, Yang Xiong's defeat and execution, the Yingchuan massacre, Sima Ang route competition, Zhang Liang's rear-threat warning at Wan, Chen Hui's Nanyang surrender proposal, and Zhang Han's post-Julu pressure under Qin Er Shi's rebuke. Created Chenliu, Wan County, Chen Hui (Nanyang), Li Shang, Yang Xiong (Qin General), Sima Ang, and Yingchuan Commandery; updated overview, index, Li Shiqi, Liu Bang, Zhang Liang, Zhang Han, Qin Er Shi, Nanyang Commandery, Kaifeng, Low-Status Strategic Persuasion, Post-Battle Terror Signaling, Political Surrender Cascade, Occupation Pacification Strategy, Non-Killing Unification, and Huaiwang Agreement. No settled contradiction found; normalized ASR variants 利益机/丽商/陈辉/杨雄/张涵 to the canonical historical pages while keeping the caution source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

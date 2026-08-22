@@ -1,9 +1,9 @@
 ---
 title: "Coalition Settlement Failure / 联军战后安排失败"
 type: concept
-tags: [warfare, diplomacy, statecraft, coalition, warring-states]
-sources: [zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-18
+tags: [warfare, diplomacy, statecraft, coalition, warring-states, qin]
+sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-22
 ---
 
 # Coalition Settlement Failure / 联军战后安排失败
@@ -12,11 +12,14 @@ Coalition settlement failure / 联军战后安排失败 is the pattern [[zizhi-t
 
 In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]], install [[GongzhongHuan|公中缓]], and take land. [[HanYihou|韩懿侯]] rejects that as reputationally costly and strategically inadequate, preferring to split Wei into two smaller states so it cannot recover as a great threat.
 
+[[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] adds a Qin-collapse version after [[JuluBattle|巨鹿之战]]. [[XiangYu|项羽]] accepts [[ZhangHanQin|章邯]]'s surrender for practical reasons, but then makes him 雍王. The episode criticizes this as a settlement failure because 雍州 represents the Qin/[[GuanzhongRegion|关中]] heartland and overlaps the reward logic of the [[HuaiwangAgreement|怀王之约]]. Xiang Yu wins the battlefield and gains submission, but the postwar order he sketches cannot clearly reconcile surrendered Qin commanders, old-state rulers, and the public Guanzhong promise.
+
 ## Key Claims
 - A coalition's battlefield interests can diverge from its postwar design interests.
 - Short-term extraction and long-term threat removal can point to incompatible settlement plans.
 - A defeated state may survive if its enemies cannot coordinate after victory.
 - Reputation, cruelty, greed, land, puppet rulers, and partition all belong to the settlement calculation, not just the battle outcome.
+- A commander who wins coalition authority can still fail by allocating titles in a way that undercuts the promise system that helped coordinate the coalition.
 
 ## Connections
 - [[HanState|韩国]], [[HanYihou|韩懿侯]], and [[GongsunQi|公孙齐]] - Han side of the coalition.
@@ -24,3 +27,4 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 - [[WeiState|魏国]], [[LiangHuiWang|魏罃 / 梁惠王]], [[GongzhongHuan|公中缓]], and [[Anyi|安邑]] - target state and claimants.
 - [[ZhuozeBattle|浊泽之战]] - military victory that the coalition fails to exploit.
 - [[SuccessionCrisisIntervention]] and [[EarlyWarringStatesInterstateWar]] - adjacent patterns.
+- [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[XiangYu|项羽]], [[ZhangHanQin|章邯]], [[HuaiwangAgreement|怀王之约]], and [[GuanzhongRegion|关中]] - post-Julu surrender settlement and 雍王 title problem.
