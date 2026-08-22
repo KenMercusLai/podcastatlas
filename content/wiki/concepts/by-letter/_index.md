@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5085
+wiki_total_pages: 5086
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "AncientGreekHonorCommunity"
     title: "Ancient Greek Honor Community"
     url: "/wiki/concepts/ancientgreekhonorcommunity/"
+  - key: "AncientLargeArmyCommandLimits"
+    title: "Ancient Large-Army Command Limits / 古代大兵团指挥极限"
+    url: "/wiki/concepts/ancientlargearmycommandlimits/"
   - key: "AngerDrivenWarDecision"
     title: "Anger-Driven War Decision / 因怒兴师"
     url: "/wiki/concepts/angerdrivenwardecision/"

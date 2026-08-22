@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）](sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno.md) — 芮淇讲透资治通鉴 episode reframing Pengcheng through Liu Bang's command ceiling, Han Xin's absence, ancient large-army coordination limits, and the later "多多益善" comparison.
 - [《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2）](sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay.md) — 芮淇讲透资治通鉴 episode completing the Pengcheng Battle tactical account through Xiang Yu's secrecy, Xiao County route cut, cavalry shock against Liu Bang's command center, river pursuit, and windstorm escape.
 - [《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（1）](sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu.md) — 芮淇讲透资治通鉴 episode opening the Pengcheng Battle setup through Dong Gong's mourning pretext, Liu Bang's coalition-building, Chen Yu/Zhang Er deception, Qi resistance, and Pengcheng victory overreach.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern.md) — 芮淇讲透资治通鉴 episode extending Chen Ping's successful-politician sequence through Baideng, Fan Kuai's delayed execution order, Lu Zhi-era camouflage, and worldly political cultivation.
@@ -1259,6 +1260,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [睢水 / Sui River](entities/SuiRiver.md) — River casualty marker in the Pengcheng Battle pursuit, cited through "睢水为之不流."
 - [泗水 / Si River](entities/SiRiver.md) — Pengcheng/Xuzhou river node linking Qin Shi Huang's Jiuding search to the Pengcheng Battle pursuit geography.
 - [彭城之战 / Battle of Pengcheng](entities/PengchengBattle.md) — First major Chu-Han battle branch now covering its political setup, Qi distraction, Pengcheng capture, Xiang Yu's secret cavalry counterattack, and Liu Bang's escape.
+- [刘盈 / Liu Ying](entities/LiuYing.md) — Liu Bang's son in the Pengcheng escape scene, used by Hanji 152 part 1 to show the rout's urgency.
+- [鲁元公主 / Princess Lu Yuan](entities/LuYuanPrincess.md) — Liu Bang's daughter in the Pengcheng escape scene, paired with Liu Ying in the cart-flight account.
 - [董公 / Dong Gong (Xincheng)](entities/DongGongXincheng.md) — Xincheng elder whose advice turns Yi Emperor Mi Xin's murder into Liu Bang's mourning-based anti-Xiang mobilization pretext.
 - [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, disambiguated from Yan's Tian Guang and tied to renewed Qi resistance before Pengcheng.
 - [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu.
@@ -7873,6 +7876,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ancient Large-Army Command Limits / 古代大兵团指挥极限](concepts/AncientLargeArmyCommandLimits.md) — Pengcheng and Wang Jian frame for why very large ancient armies demand exceptional command, logistics, communication, and coalition discipline.
 - [Cavalry Shock Command Strike / 骑兵奇袭指挥中枢](concepts/CavalryShockCommandStrike.md) — Pengcheng Battle pattern where a smaller mobile force preserves surprise, cuts retreat, and strikes the enemy commander to collapse coalition coordination.
 - [Tactical Delay Risk Transfer / 延时转责式政治化解](concepts/TacticalDelayRiskTransfer.md) — Chen Ping and Zhou Bo frame for converting an irreversible execution order into custody, transport, and delayed sovereign responsibility.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.

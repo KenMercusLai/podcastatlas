@@ -9447,9 +9447,13 @@ Health passed with no empty/stub files, index drift, or source-log coverage gaps
 
 Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure after Zhao's fall, Ju Wu's rejected hezong/Xiongnu strategy, Fan Wuji's fugitive risk, Tian Guang's recommendation and suicide, Jing Ke's non-obvious侠士 profile, Taizi Dan's high-cost patronage, and the plan to use Fan Wuji's head as access to the Qin king. Created Jing Ke, Tian Guang, Ju Wu, Fan Wuji, Gao Jianli, Wei Wang Jia, Weak-State Assassination Strategy, and Honor Binding By Self-Sacrifice; updated overview, index, Yan Taizi Dan, Yan State, Qin Shi Huang, Qin State, Wang Jian, Wei Jingmin Wang, Wei State, Xiongnu, Political Assassination Ethics, Retainer Reciprocity Ethic, Warring States Retainer Patronage, Moralized Shi Identity, Hezong Alliance, and Qin Eastward Pressure. No settled contradiction found; the source title's Qin Shi Huang wording, Fan Wuji transcript naming, and pre-assassination stopping point are kept source-scoped.
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）
+
+Added source page for Hanji 152 part 1: Pengcheng defeat reframed through Liu Bang's command ceiling, Han Xin's absence from the main army, the later "韩信将兵，多多益善" exchange, ancient large-army signaling/logistics constraints, Wang Jian/Han Xin as rare large-force commanders, and Liu Bang's flight with his children. Created Ancient Large-Army Command Limits, Liu Ying, and Princess Lu Yuan; updated overview, index, Pengcheng Battle, Han Xin, Liu Bang, Xiang Yu, and Zhang Han. No settled contradiction found; kept the Han Xin-at-Pengcheng claim as source-scoped counterfactual and troop totals as source framing.
+
 ## [2026-08-22] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health and identity validation passed. Health scanned 12,951 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or API key is configured in this shell; `wiki/lint-report.md` was not saved.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）
 
@@ -10034,3 +10038,7 @@ Ran lint after health and identity validation passed. Health scanned 12,942 wiki
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,947 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or API key is configured in this shell; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

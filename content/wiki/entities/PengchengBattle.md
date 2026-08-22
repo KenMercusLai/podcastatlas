@@ -2,7 +2,7 @@
 title: "彭城之战 / Battle of Pengcheng"
 type: entity
 tags: [battle, chu-han, war, liu-bang, xiang-yu]
-sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
+sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ The attack itself becomes a [[CavalryShockCommandStrike|骑兵奇袭指挥中枢
 
 The pursuit turns defeat into mass death. Han troops are driven through river terrain around Gu water, [[SiRiver|泗水]], and [[SuiRiver|睢水]], with the cited "睢水为之不流" marking the scale of slaughter and drowning. Liu Bang is then surrounded, but a sudden violent northwest wind and sandstorm disrupts Chu troops and horses, allowing him to escape toward Pei with a small mounted escort.
 
+[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno|Hanji 152 part 1]] adds the defeated-side explanation. The source argues that Liu Bang's key error was not placing [[HanXin|韩信]] in command while Han Xin remained in [[GuanzhongRegion|关中]] against [[ZhangHanQin|章邯]]. Pengcheng therefore becomes a case of [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]]: a huge allied army needs a commander able to coordinate large forces under ancient signaling, transport, and road constraints, and Liu Bang's own ceiling was below the scale he tried to direct.
+
 ## Connections
 - [[LiuBang|刘邦]] and [[XiangYu|项羽]] - opposing commanders in the battle.
 - [[Xuzhou|彭城]] - Chu capital whose capture triggers Xiang Yu's counterattack.
@@ -35,3 +37,4 @@ The pursuit turns defeat into mass death. Han troops are driven through river te
 - [[TianHeng|田横]], [[TianGuangQiKing|田广]], [[TianRong|田荣]], [[QiState|齐国]], and [[JuWarringStates|莒城 / 城阳]] - Qi resistance keeping Xiang Yu away from Pengcheng.
 - [[CoalitionSettlementFailure|联军战后安排失败]] and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - structural setup and immediate failure mode.
 - [[BattlefieldInformationControl|战场信息控制]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - secrecy, route severance, mounted shock, and military-history framing added by part 2.
+- [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]], [[HanXin|韩信]], [[ZhangHanQin|章邯]], and [[GuanzhongRegion|关中]] - Hanji 152 part 1 command-capacity explanation for why Liu Bang's numerical superiority did not become battlefield control.

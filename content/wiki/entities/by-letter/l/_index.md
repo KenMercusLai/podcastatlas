@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6614
+wiki_total_pages: 6616
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "LiuChang"
     title: "刘畅 / Liu Chang"
     url: "/wiki/entities/liuchang/"
+  - key: "LiuYing"
+    title: "刘盈 / Liu Ying"
+    url: "/wiki/entities/liuying/"
   - key: "LiuLiangyou"
     title: "刘良佑 / Liu Liangyou"
     url: "/wiki/entities/liuliangyou/"
@@ -1070,6 +1073,9 @@ wiki_pages:
   - key: "LuZhonglian"
     title: "鲁仲连 / Lu Zhonglian"
     url: "/wiki/entities/luzhonglian/"
+  - key: "LuYuanPrincess"
+    title: "鲁元公主 / Princess Lu Yuan"
+    url: "/wiki/entities/luyuanprincess/"
   - key: "LuGonggong"
     title: "鲁共公 / Duke Gong of Lu"
     url: "/wiki/entities/lugonggong/"
