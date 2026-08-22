@@ -2,8 +2,8 @@
 title: "卫国 / Wey State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-22
 ---
 
 # 卫国 / Wey State
@@ -28,6 +28,8 @@ This page uses "Wey" to avoid colliding with [[WeiState|魏国 / Wei State]], a 
 
 The interpretive point is still useful: the source treats Wey's remnant survival as the product of low posture, limited strategic value, and residual kinship-sacrifice custom. This extends the earlier weak-state pattern from title demotion and externally imposed succession into near-erasure under [[QinState|秦国]]'s expanding commandery order.
 
+[[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] records the endpoint. [[QinErshi|胡亥 / 秦二世]] deposes [[WeyJunJiao|卫君角]] as a commoner, and the episode treats this as the final end of Wey. The host stresses the paradox of the ending: Wey lasted longer than the stronger Warring States powers largely because its weakness made it useful as a harmless remnant, but that same hollowness meant Qin could abolish it without a major war.
+
 ## Connections
 - [[QiState|齐国]], [[YanState|燕国]], and [[LuState|鲁国]] - states in the same 373 BCE conflict cluster.
 - [[WeyShenggong|卫声公]] and [[WeyChenggong|卫成公]] - succession pair.
@@ -40,3 +42,4 @@ The interpretive point is still useful: the source treats Wey's remnant survival
 - [[QuwoWarringStates|曲沃]], [[QinState|秦国]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 48 source-scoped Wey/Quwo wording caution.
 - [[WeyHuaijun|卫怀君]], [[WeyYuanjun|卫元君]], [[WeiAnxiWang|魏安釐王]], and [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]] - Qinji 100-1 externally imposed killing and replacement.
 - [[WeyJunJiao|卫君角]], [[DongCommandery|东郡]], [[TextualVariantPoliticalStakes|史书异文政治重量]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - remnant survival branch and source-scoped Wei/Wey ambiguity.
+- [[QinErshi|胡亥 / 秦二世]] and [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] - final deposition of Wey Jun Jiao and formal end of Wey.

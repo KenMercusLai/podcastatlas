@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6474
+wiki_total_pages: 6477
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "ZhouAnWang"
     title: "周安王 / King An of Zhou"
     url: "/wiki/entities/zhouanwang/"
+  - key: "ZhouShiRebel"
+    title: "周市 / Zhou Shi (Rebel)"
+    url: "/wiki/entities/zhoushirebel/"
   - key: "ZhouPingwang"
     title: "周平王 / King Ping of Zhou"
     url: "/wiki/entities/zhoupingwang/"
@@ -593,6 +596,9 @@ wiki_pages:
   - key: "ZhaoKuangyin"
     title: "赵匡胤 / Song Taizu"
     url: "/wiki/entities/zhaokuangyin/"
+  - key: "ZhaoServantEnvoy"
+    title: "赵厮养卒 / Zhao Servant Envoy"
+    url: "/wiki/entities/zhaoservantenvoy/"
   - key: "ZhaoJia"
     title: "赵嘉 / Zhao Jia"
     url: "/wiki/entities/zhaojia/"

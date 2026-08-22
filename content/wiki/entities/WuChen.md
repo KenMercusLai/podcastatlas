@@ -2,7 +2,7 @@
 title: "武臣 / Wu Chen"
 type: entity
 tags: [person, anti-qin, rebellion, zhao]
-sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ The later turning point is Wu Chen's kingship. After [[ZhouWenRebel|周文]] ret
 
 Wu Chen then accepts Zhang Er and Chen Yu's second recommendation: do not move west against [[QinState|秦国]] immediately, but expand Zhao by attacking Yan, Dai, Henei, Changshan, and Shangdang. That makes Wu Chen a concrete node in [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]].
 
+[[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] shows one cost of that separate Zhao line. Wu Chen sends [[HanGuang|韩广]] to take Yan territory, but Yan-region figures make Han Guang their own king. Wu Chen later moves along the Yan-Zhao frontier and is captured by Yan forces; after formal envoys fail, [[ZhaoServantEnvoy|赵厮养卒]] persuades Yan to release him by arguing that killing him would give Zhang Er and Chen Yu a pretext to attack Yan.
+
 ## Connections
 - [[KuaiChe|蒯彻]] and [[PoliticalSurrenderCascade|招降示范级联]] - early expansion through modeled surrender.
 - [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[ChenSheng|陈胜]] - advisers and rival rebel authority around Zhao kingship.
 - [[ZhangChuRegime|张楚政权]] and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - larger rebel setting and restoration logic.
 - [[ZhaoState|赵国]], [[YanState|燕国]], and [[Handan|邯郸]] - geographic and political field.
 - [[CaiCi|蔡赐]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Chen Sheng's compromise and Wu Chen's self-strengthening route.
+- [[HanGuang|韩广]], [[ZhaoServantEnvoy|赵厮养卒]], [[LowStatusStrategicPersuasion|低位者战略说服]], and [[YanState|燕国]] - Qinji 128-8 capture and release branch.

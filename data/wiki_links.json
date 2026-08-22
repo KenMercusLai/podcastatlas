@@ -18271,6 +18271,10 @@
     "title": "Han Fei / 韩非",
     "url": "/wiki/entities/hanfei/"
   },
+  "HanGuang": {
+    "title": "韩广 / Han Guang",
+    "url": "/wiki/entities/hanguang/"
+  },
   "HanGui": {
     "title": "韩廆 / Han Gui",
     "url": "/wiki/entities/hangui/"
@@ -25438,6 +25442,10 @@
   "LowStatusRegistry": {
     "title": "贱籍身份 / Low-Status Registry",
     "url": "/wiki/concepts/lowstatusregistry/"
+  },
+  "LowStatusStrategicPersuasion": {
+    "title": "Low-Status Strategic Persuasion / 低位者战略说服",
+    "url": "/wiki/concepts/lowstatusstrategicpersuasion/"
   },
   "LowStatusSyndrome": {
     "title": "Low-Status Syndrome / 低地位综合症",
@@ -46539,6 +46547,10 @@
     "title": "赵普 / Zhao Pu",
     "url": "/wiki/entities/zhaopu/"
   },
+  "ZhaoServantEnvoy": {
+    "title": "赵厮养卒 / Zhao Servant Envoy",
+    "url": "/wiki/entities/zhaoservantenvoy/"
+  },
   "ZhaoShe": {
     "title": "赵奢 / Zhao She",
     "url": "/wiki/entities/zhaoshe/"
@@ -46854,6 +46866,10 @@
   "ZhouShenliangwang": {
     "title": "周慎靓王 / Zhou Shenliang Wang",
     "url": "/wiki/entities/zhoushenliangwang/"
+  },
+  "ZhouShiRebel": {
+    "title": "周市 / Zhou Shi (Rebel)",
+    "url": "/wiki/entities/zhoushirebel/"
   },
   "ZhouWeilieWang": {
     "title": "周威烈王 / King Weilie of Zhou",
@@ -50282,6 +50298,10 @@
   "zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1": {
     "title": "《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？",
     "url": "/wiki/sources/zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1/"
+  },
+  "zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri": {
+    "title": "《资治通鉴·秦纪》128-8｜一名赵国炊事兵逆袭成为外交大臣",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

@@ -2,8 +2,8 @@
 title: "卫君角 / Wey Jun Jiao"
 type: entity
 tags: [person, ruler, wey-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
+last_updated: 2026-08-22
 ---
 
 # 卫君角 / Wey Jun Jiao
@@ -14,8 +14,11 @@ The episode says one explanation has [[WeyYuanjun|卫元君]] moving with his cl
 
 This page therefore preserves a naming and identity caution. It is a concrete example of why [[TextualVariantPoliticalStakes|史书异文政治重量]] matters even for small states: a single Wei/Wey ambiguity can change whether the reader imagines a great Warring States power or a much weaker surviving polity.
 
+[[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] gives Jun Jiao the endpoint. [[QinErshi|胡亥 / 秦二世]] deposes him as a commoner, ending [[WeyState|卫国]] as even a remnant polity. The source frames this not as a large conquest but as the final cancellation of a state that had already been reduced to a tiny sacrificial shell.
+
 ## Connections
 - [[WeyState|卫国]] and [[WeyYuanjun|卫元君]] - existing polity and ruler branch.
 - [[WeiState|魏国]] - disambiguation counterpart in the source ambiguity.
 - [[QinState|秦国]] and [[DongCommandery|东郡]] - power absorbing territory while preserving a remnant ruler shell.
 - [[TextualVariantPoliticalStakes|史书异文政治重量]] - source-critical frame for the naming problem.
+- [[QinErshi|胡亥 / 秦二世]] and [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] - final deposition and Wey's formal extinction.

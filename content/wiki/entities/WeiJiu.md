@@ -2,7 +2,7 @@
 title: "魏咎 / Wei Jiu"
 type: entity
 tags: [person, wei-state, warring-states, chu-han-contention]
-sources: [zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
+sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
 last_updated: 2026-08-22
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-22
 
 The source does not develop Wei Jiu's own biography. His role is connective: he marks the way a destroyed Warring States royal house can leave loose surviving figures who later become available in the Chen Sheng and Chu-Han era.
 
+[[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] pays off that availability. [[ZhouShiRebel|周市]] captures old Wei territory but refuses to become king himself, repeatedly asking [[ChenSheng|陈胜]] to release Wei Jiu so a former Wei royal descendant can hold the title. Chen Sheng agrees, Wei Jiu goes to Wei territory, and is installed as Wei king with Zhou Shi as chancellor.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiWangJia|魏王假]] - fallen polity and surrendered ruler.
 - [[WeiBao|魏豹]] - paired Wei survivor in the source.
 - [[WangBenQin|王贲]], [[Daliang|大梁]], and [[HydraulicSiegeWarfare|水攻围城]] - military event that destroys Wei in the episode.
+- [[ZhouShiRebel|周市]], [[ChenSheng|陈胜]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - Qinji 128-8 restoration of Wei through surviving royal legitimacy.

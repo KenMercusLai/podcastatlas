@@ -2,8 +2,8 @@
 title: "Interest Reframing Persuasion / 利益重构式说服"
 type: concept
 tags: [persuasion, diplomacy, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
+last_updated: 2026-08-22
 ---
 
 # Interest Reframing Persuasion / 利益重构式说服
@@ -22,6 +22,8 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 
 [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] adds Lu Zhonglian's [[LiaochengWarringStates|辽城]] letter as a siege variant. He does not simply tell the trapped Yan commander to surrender. He redescribes the commander's current posture as bad for loyalty, courage, wisdom, and survival, then forces comparison between returning to a suspicious [[YanWangXi|燕王喜]] and surrendering to [[QiState|齐国]]. The reframing works because it makes inaction look like the worst interest path.
 
+[[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] adds a low-status variant through [[ZhaoServantEnvoy|赵厮养卒]]. He persuades [[YanState|燕国]] to release [[WuChen|武臣]] not by asking for kindness to Zhao, but by arguing that killing Wu Chen would help [[ZhangEr|张耳]] and [[ChenYu|陈馀]] claim a punitive pretext against Yan. The same interest-reframing logic works here through [[LowStatusStrategicPersuasion|低位者战略说服]]: the servant wins because he identifies the third-party incentive Yan has missed.
+
 ## Key Claims
 - Effective weak-side persuasion may work by confirming the stronger side's power before narrowing the question to risk-adjusted advantage.
 - The argument must name the stronger side's concrete exposure: routes, allies, rear security, future rivals, and lost strategic sequencing.
@@ -32,6 +34,7 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - Zhouji 95 part 2 adds that reframing can redirect the same material concession toward a different audience, but only works if the new audience has credible will and capacity.
 - Zhouji 96 part 3 adds that interest reframing can be layered under moral rhetoric: the speaker can first make submission shameful, then make it look personally unsafe for the decision-maker.
 - Qinji 101-1 adds that interest reframing can break a siege by making the defender compare active exits instead of treating continued paralysis as safety.
+- Qinji 128-8 adds that interest reframing can come from a low-status envoy if the argument clarifies a third party's incentive better than formal diplomacy does.
 
 ## Connections
 - [[Chunshenjun|黄歇 / 春申君]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - source case and decision point.
@@ -43,3 +46,4 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - [[YuQing|虞卿]], [[QiState|齐国]], [[QiWangJian|齐王建 / 田建]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 city-transfer reframing and its source-scoped weakness.
 - [[LuZhonglian|鲁仲连]], [[XinyuanYan|新垣衍]], [[SubmissionThroughStatusElevation|尊号式投降方案]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 personal-risk reframing against title submission.
 - [[LiaochengWarringStates|辽城]], [[LiaochengCommanderDilemma|辽城守将进退困局]], [[YanWangXi|燕王喜]], and [[TianDan|田单]] - Qinji 101-1 commander-exit reframing.
+- [[ZhaoServantEnvoy|赵厮养卒]], [[WuChen|武臣]], [[HanGuang|韩广]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Qinji 128-8 captive-release reframing.

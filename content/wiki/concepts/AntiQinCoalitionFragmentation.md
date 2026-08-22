@@ -2,7 +2,7 @@
 title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
 type: concept
 tags: [rebellion, coalition, qin, statecraft]
-sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ Zhang Er and Chen Yu then advise Wu Chen not to attack Qin westward. They argue 
 
 This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] but more pessimistic. The earlier strategy proposed multiplying Qin's enemies under a broad anti-Qin purpose; this episode shows the restored-state logic turning into separate interest and coordination failure.
 
+[[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] widens the pattern beyond Zhao's refusal to attack west. [[TianDanQinRebel|田儋]] restores Qi, [[HanGuang|韩广]] accepts Yan kingship after being sent by Wu Chen, and [[ZhouShiRebel|周市]] restores Wei through [[WeiJiu|魏咎]]. These are all anti-Qin in origin, but they turn the field into multiple revived state centers with their own hostage problems, captive negotiations, and claims to old legitimacy.
+
 ## Connections
 - [[WuChen|武臣]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[CaiCi|蔡赐]] - main actors in the source.
 - [[ChenSheng|陈胜]], [[ZhangChuRegime|张楚政权]], and [[DazexiangUprising|大泽乡起义]] - rebel regime and origin.
 - [[ZhaoState|赵国]], [[YanState|燕国]], and [[QinState|秦国]] - separate-state and common-enemy field.
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - adjacent coordination concepts.
 - [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - historiographical layer affecting blame for the split.
+- [[TianDanQinRebel|田儋]], [[HanGuang|韩广]], [[ZhouShiRebel|周市]], [[WeiJiu|魏咎]], and [[ZhaoServantEnvoy|赵厮养卒]] - Qinji 128-8 wider field of revived state centers and negotiation crises.

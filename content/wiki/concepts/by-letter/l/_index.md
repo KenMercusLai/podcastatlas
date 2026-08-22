@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5028
+wiki_total_pages: 5029
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "LowPostureStatecraft"
     title: "Low-Posture Statecraft / 低姿态权宜"
     url: "/wiki/concepts/lowposturestatecraft/"
+  - key: "LowStatusStrategicPersuasion"
+    title: "Low-Status Strategic Persuasion / 低位者战略说服"
+    url: "/wiki/concepts/lowstatusstrategicpersuasion/"
   - key: "LowStatusSyndrome"
     title: "Low-Status Syndrome / 低地位综合症"
     url: "/wiki/concepts/lowstatussyndrome/"
