@@ -2,7 +2,7 @@
 title: "吴芮 / Wu Rui"
 type: entity
 tags: [person, official, anti-qin, rebellion, qin-han]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -16,8 +16,11 @@ The source notes that both Wu Rui and Ying Bu survive the broader turmoil. This 
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Wu Rui his post-Qin reward. The episode says he leads southern Baiyue groups into the anti-Qin campaign and follows [[XiangYu|项羽]] into the pass, so Xiang Yu makes him Hengshan king. His subordinate [[MeiJuan|梅鋗]] also receives a large marquisate, making Wu Rui's branch a southern-alliance case inside [[ZhouQinHybridOrder|周秦混合制]].
 
+[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]] adds Wu Rui to the Yi Emperor killing order. [[XiangYu|项羽]] commands Wu Rui, [[YingBu|英布]], and [[GongAo|共敖]] to attack [[MiXin|芈心 / 楚怀王]] on the route toward [[ChenxianChangsha|郴县]]. The source groups Wu Rui among rulers reluctant to kill a former anti-Qin盟主, even though Ying Bu ultimately executes the order.
+
 ## Connections
 - [[YingBu|英布 / 黥布]] - son-in-law and military ally.
 - [[QinState|秦国]] and [[ZhangChuRegime|张楚政权]] - enemy regime and broader rebellion context.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider field where local officials and armed groups combine outside a single command.
 - [[WarringStatesRetainerPatronage|战国养士]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - adjacent network frames for local authority and follower integration.
+- [[MiXin|芈心 / 楚怀王]], [[GongAo|共敖]], and [[ChenxianChangsha|郴县]] - Hanji 149's Yi Emperor death order.

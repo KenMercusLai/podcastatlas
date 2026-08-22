@@ -16739,6 +16739,10 @@
     "title": "干宝 / Gan Bao",
     "url": "/wiki/entities/ganbao/"
   },
+  "GanGong": {
+    "title": "甘公 / Gan Gong",
+    "url": "/wiki/entities/gangong/"
+  },
   "GanLong": {
     "title": "甘龙 / Gan Long",
     "url": "/wiki/entities/ganlong/"
@@ -45275,6 +45279,10 @@
     "title": "侠累 / Xia Lei",
     "url": "/wiki/entities/xialei/"
   },
+  "XiaShuo": {
+    "title": "夏说 / Xia Shuo",
+    "url": "/wiki/entities/xiashuo/"
+  },
   "XiaTaihou": {
     "title": "夏姬 / 夏太后 / Lady Xia",
     "url": "/wiki/entities/xiataihou/"
@@ -50730,6 +50738,10 @@
   "zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm": {
     "title": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心",
     "url": "/wiki/sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm/"
+  },
+  "zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw": {
+    "title": "《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

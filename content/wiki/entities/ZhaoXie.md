@@ -2,7 +2,7 @@
 title: "赵歇 / Zhao Xie"
 type: entity
 tags: [person, ruler, zhao, qin-han, rebellion]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式�
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Zhao Xie's settlement demotion. [[XiangYu|项羽]] moves him from Zhao king to Dai king, while [[ZhangEr|张耳]] becomes Changshan king because of reputation and participation in the westward entry. Zhao Xie's restored royal name remains useful, but it is subordinated to Xiang Yu's reward logic inside [[ZhouQinHybridOrder|周秦混合制]].
 
+[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]] reverses that demotion through [[ChenYu|陈馀]]'s rebellion. After Chen Yu defeats [[ZhangEr|张耳]], he brings Zhao Xie back from Dai to Xiangguo and restores him as Zhao king. Zhao Xie then rewards Chen Yu with the Dai kingship, while Chen Yu stays in Zhao and delegates Dai affairs to [[XiaShuo|夏说]].
+
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - figures who install Zhao Xie.
 - [[WuChen|武臣]] and [[LiLiangZhaoGeneral|李良]] - killed predecessor and rebel defector whose defeat opens the restoration choice.
@@ -27,3 +29,4 @@ Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式�
 - [[Julu|巨鹿]], [[ZhangHanQin|章邯]], [[WangLiQin|王离]], and [[HuaiwangAgreement|怀王之约]] - Qinji 132 siege and Chu rescue trigger.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - completed siege relief after normal Zhao rescue fails.
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - legitimacy route and wider coordination risk.
+- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]], [[ChenYu|陈馀]], [[ZhangEr|张耳]], and [[XiaShuo|夏说]] - restoration from Dai back to Zhao after Chen Yu's victory.
