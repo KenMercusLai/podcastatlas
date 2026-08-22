@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5046
+wiki_total_pages: 5047
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "FiveDynastiesTenKingdomsConceptFormation"
     title: "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation"
     url: "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"
+  - key: "FateReadingPoliticalRisk"
+    title: "命相判断的政治风险 / Fate-Reading Political Risk"
+    url: "/wiki/concepts/fatereadingpoliticalrisk/"
   - key: "FemaleBeautySelfSurveillance"
     title: "女性美貌自我监控 / Female Beauty Self-Surveillance"
     url: "/wiki/concepts/femalebeautyselfsurveillance/"

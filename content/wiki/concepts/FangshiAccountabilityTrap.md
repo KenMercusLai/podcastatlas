@@ -2,7 +2,7 @@
 title: "Fangshi Accountability Trap / 方士问责陷阱"
 type: concept
 tags: [qin, fangshi, religion, court-politics, risk]
-sources: [zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
+sources: [zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
 last_updated: 2026-08-22
 ---
 
@@ -16,11 +16,14 @@ The source treats the trap as a bridge from [[ImmortalityQuestPolitics|求仙政
 
 This concept is narrower than [[FangshiFraudAndAuthority|方士骗术与权威]]. Fraud-and-authority describes how unverifiable claims create extraction or influence; the accountability trap describes what happens afterward, when a powerful patron demands delivery from people whose claims cannot be delivered in ordinary terms.
 
+[[zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk|Qinji 135 番外篇1]] adds an avoidance-side variant through [[XuFuPhysiognomist|许负]]. She is not a sea-search fangshi in the [[XuFu|徐福]] sense, but the political risk is adjacent: once [[QinShiHuang|秦始皇]] summons a renowned fate-reader to court, the specialist may be forced to speak about regime fate inside a coercive imperial setting. The episode's account has her feign illness because reading a ruler she believes doomed would expose her to lethal blame, so the trap can shape conduct even before a specialist accepts court service.
+
 ## Key Claims
 - Unverifiable promises can win court access, but they also create a future accountability problem.
 - The more a ruler acts on fangshi advice, the harder failure becomes to explain away.
 - In a coercive court, failed sacred promises can redirect blame toward specialists, scholars, or alleged slanderers.
 - Qinji 125-1 records the prelude; Qinji 125-2 records how the same delivery failure becomes flight, anger, and mass punishment.
+- Qinji 135 adds that a specialist may avoid court entry when the expected answer concerns a ruler's death or dynastic collapse.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], and [[HouShengFangshi|侯生]] - ruler and named fangshi in the source.
@@ -30,3 +33,4 @@ This concept is narrower than [[FangshiFraudAndAuthority|方士骗术与权威]]
 - [[QinBookBurningPolicy|秦代焚书令]] - prior "焚书" branch kept separate from the coming坑儒 branch.
 - [[QinKengruIncident|秦代坑儒事件]] - completed punishment branch after fangshi flight and criticism.
 - [[ChenweiPolitics|谶纬政治]] and [[ProphecyTriggeredPolicy|预言触发政策]] - adjacent omen and interpretation patterns around fangshi authority.
+- [[zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk|Qinji 135 番外篇1]], [[XuFuPhysiognomist|许负]], and [[FateReadingPoliticalRisk|命相判断的政治风险]] - refusal to enter the emperor's risk field.

@@ -9774,3 +9774,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？
+
+Added source page for Qinji 135 番外篇1: a partial episode summary on the female physiognomist 许负, her birth-omen legend, Zhouyi/bagua learning, Huangshi Gong's 《心器密纸》 gift, refusal of Qin Shi Huang's summons after predicting Qin collapse, and transcript cutoff at the Liu Bang county-seal scene. Created Shaqiu and Fate-Reading Political Risk; updated overview, index, Xu Fu (physiognomist), Qin Shi Huang, Liu Bang, Huangshi Gong, Zhouyi Divination, and Fangshi Accountability Trap. No direct contradiction found; normalized transcript forms 徐复 / 徐父 to the existing 许负 page while keeping the source wording and incomplete-transcript caution visible.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
