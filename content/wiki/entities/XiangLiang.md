@@ -2,7 +2,7 @@
 title: "项梁 / Xiang Liang"
 type: entity
 tags: [person, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,10 @@ The same episode shows both the reach and limit of Xiang Liang's coalition comma
 
 [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] only adds a next-story hook after Li Si's execution. The source says former Chu lingyin [[SongYi|宋义]] joins Xiang Liang's camp as the narrative turns back from [[ZhaoGao|赵高]]'s Qin court to the anti-Qin field.
 
+[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] completes Xiang Liang's arc. After victories at Dong'e and Dingtao, he grows contemptuous of Qin forces. Song Yi warns that victory can produce commander arrogance and soldier slackness, but Xiang Liang ignores him and sends him to Qi.
+
+[[QinErshi|胡亥 / 秦二世]] then reinforces [[ZhangHanQin|章邯]], who night-attacks the Chu camp at [[Dingtao|定陶]] and kills Xiang Liang. The episode uses his death as both a military reversal and a political opening: [[MiXin|芈心 / 楚怀王]] can stop being only Xiang Liang's figurehead and begin reorganizing the Chu armies from [[Xuzhou|彭城]].
+
 ## Connections
 - [[XiangYu|项羽]] - later protagonist whose line the source foreshadows.
 - [[LiuBang|刘邦]] and [[TianDanQinRebel|田儋]] - parallel post-Dazexiang uprising figures named in the episode.
@@ -37,3 +41,4 @@ The same episode shows both the reach and limit of Xiang Liang's coalition comma
 - [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]], [[FanZeng|范增]], [[MiXin|芈心 / 楚怀王]], [[HanCheng|韩成]], [[TianRong|田荣]], and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - restored Chu figurehead, Han restoration, and Qi coordination failure.
 - [[PeiCountyUprisingMobilization|沛县起义动员]] - same-source contrast with Liu Bang's county-based route.
 - [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] and [[SongYi|宋义]] - closing hook into Song Yi's entry under Xiang Liang.
+- [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[Dingtao|定陶]], [[ZhangHanQin|章邯]], and [[HuaiwangAgreement|怀王之约]] - Xiang Liang's fatal defeat and the posthumous royal reorganization it enables.

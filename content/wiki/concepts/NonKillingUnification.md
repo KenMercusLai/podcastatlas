@@ -2,7 +2,7 @@
 title: "Non-Killing Unification / 不爱杀人者能一之"
 type: concept
 tags: [political-theory, legitimacy, confucianism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The host tests the claim against later history. [[QinState|秦国]] eventually c
 
 [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] strengthens that negative case by giving Song Kang Wang both ability and failure. The source says he could fight, expand, rule for decades, and hold a long alliance with [[ZhaoWulingwang|赵武灵王]], but his cruelty and reputation still make [[MoralizedWarPretext|道德化战争借口]] usable and leave Song's people unwilling to defend him. This keeps the concept focused on durable settlement rather than personal competence.
 
+[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] makes the contrast operational before the Chu-Han outcome is known. Under [[HuaiwangAgreement|怀王之约]], [[XiangYu|项羽]] asks to go west against Qin with [[LiuBang|刘邦]], but older Chu generals argue that Xiang Yu's cruelty, especially the [[XiangchengQin|襄城]] massacre, makes him unfit to pacify the exhausted Qin population. Liu Bang is therefore sent toward [[GuanzhongRegion|关中]], while Xiang Yu is assigned to the [[Julu|巨鹿]] relief army.
+
 ## Key Claims
 - "Not loving killing" is not weakness; it is a condition for attracting people exhausted by violent rule.
 - The concept distinguishes taking territory from settling the realm.
@@ -26,11 +28,13 @@ The host tests the claim against later history. [[QinState|秦国]] eventually c
 - The Song Kang Wang case turns the Mencian claim from moral language into a security and state-survival problem.
 - Episode 68 adds that talent and state-strengthening ability do not neutralize the security cost of being remembered as a ruler who loves violence.
 - Qinji 130-2 sharpens the Liu Bang/Xiang Yu comparison while keeping it comparative rather than claiming Liu Bang had no massacre record.
+- Qinji 132 shows the comparison affecting command assignment: the less brutal candidate is selected for pacification, while the more brutal commander is redirected to battlefield relief.
 
 ## Connections
 - [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[WeiXiangwang|魏襄王]] - source dialogue.
 - [[MencianPeopleBasedLegitimacy]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], and [[PeopleBasedPoliticalSecurity]] - adjacent legitimacy and statecraft frames.
 - [[QinState|秦国]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - later historical tests used by the host.
 - [[XiangchengQin|襄城]], [[WarringStatesWarBrutalization|战国战争残酷化]], and [[PostBattleTerrorSignaling|战后恐怖震慑]] - Qinji 130-2 massacre case behind the Xiang Yu side of the contrast.
+- [[HuaiwangAgreement|怀王之约]], [[GuanzhongRegion|关中]], [[Julu|巨鹿]], and [[SongYi|宋义]] - Qinji 132 route-selection branch where pacification profile shapes assignment.
 - [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[QiState|齐国]], [[ChuState|楚国]], and [[WeiState|魏国]] - immediate negative case in the episode.
 - [[MoralizedWarPretext|道德化战争借口]] and [[VanquishedRulerReputationConstruction|亡国君污名建构]] - episode 68's extension from violence to war justification and reputation.

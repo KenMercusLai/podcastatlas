@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6534
+wiki_total_pages: 6536
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "GongsunLong"
     title: "公孙龙 / Gongsun Long"
     url: "/wiki/entities/gongsunlong/"
+  - key: "GuanzhongRegion"
+    title: "关中 / Guanzhong Region"
+    url: "/wiki/entities/guanzhongregion/"
   - key: "GuanYadiQizhulou"
     title: "关亚迪 / Guan Yadi"
     url: "/wiki/entities/guanyadiqizhulou/"

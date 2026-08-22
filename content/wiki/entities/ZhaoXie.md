@@ -2,7 +2,7 @@
 title: "赵歇 / Zhao Xie"
 type: entity
 tags: [person, ruler, zhao, qin-han, rebellion]
-sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -14,8 +14,11 @@ The source presents Zhao Xie's enthronement as a legitimacy and local-grounding 
 
 Zhao Xie therefore extends [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] from an abstract proposal into an actual Zhao repair step after internal collapse. It does not end [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], but it shows how restoration politics can also stabilize a branch after a coup.
 
+[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] puts Zhao Xie under renewed Qin pressure. [[ZhangHanQin|章邯]] breaks [[Handan|邯郸]] after killing [[XiangLiang|项梁]], and Zhao Xie flees with [[ZhangEr|张耳]] to [[Julu|巨鹿]]. [[WangLiQin|王离]] then surrounds Julu while [[ChenYu|陈馀]] camps to the north, making Zhao Xie's restored kingship dependent on outside rescue.
+
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - figures who install Zhao Xie.
 - [[WuChen|武臣]] and [[LiLiangZhaoGeneral|李良]] - killed predecessor and rebel defector whose defeat opens the restoration choice.
 - [[ZhaoState|赵国]] and [[Handan|邯郸]] - restored polity and prior collapse setting.
+- [[Julu|巨鹿]], [[ZhangHanQin|章邯]], [[WangLiQin|王离]], and [[HuaiwangAgreement|怀王之约]] - Qinji 132 siege and Chu rescue trigger.
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - legitimacy route and wider coordination risk.

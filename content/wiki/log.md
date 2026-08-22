@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神
+
+Added source page for Qinji 132: Song Yi's warning that Xiang Liang's victories have produced arrogance, Zhang Han's reinforced night attack at Dingtao and Xiang Liang's death, Xiang Yu/Liu Bang/Lu Chen moving Mi Xin to Pengcheng, Mi Xin's post-Xiang-Liang army and office reorganization, Wei Bao's recognition as Wei king, Zhang Han and Wang Li creating the Julu crisis after Handan falls, the Huaiwang agreement promising Guanzhong kingship to whoever first destroys Qin there, Song Yi/Xiang Yu/Fan Zeng's rescue-Zhao command, and Liu Bang's separate westward assignment. Created Huaiwang Agreement, Julu, and Guanzhong Region; updated overview, index, Song Yi, Mi Xin, Xiang Liang, Zhang Han, Wang Li, Fan Zeng, Xiang Yu, Liu Bang, Lu Chen, Wei Bao, Zhao Xie, Zhang Er, Chen Yu, Dingtao, Xuzhou/Pengcheng, Handan, Restored Royal Figurehead Legitimacy, Six-State Restoration Anti-Qin Strategy, Anti-Qin Coalition Fragmentation, and Non-Killing Unification. No settled contradiction found; treated the title's Xiang Yu "sealed god" framing as setup rather than a full Julu battle account, and kept the Qi envoy Gaoling Jun separate from the existing Qin noble Gaoling Jun page.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩
 
 Added source page for Qinji 131-1: Zhao Gao's torture-driven investigation of Li Si and Li You, intercepted memorial, fake official reviews that condition Li Si to repeat a false confession before a real reviewer, Zhao Gao's false report about Li You, Li Si's five-punishment and waist-chopping execution at Xianyang, family and clan destruction, Dongmen Yellow Dog regret, and Zhao Gao's appointment as chancellor. Created Coerced Confession Trap, Dongmen Yellow Dog, Song Yi, and Shangcai; updated overview, index, Li Si, Zhao Gao, Qin Er Shi, Li You, Xiang Liang, Palace Access Monopoly, Court Feedback Collapse, Collateral Punishment And Guilt By Association, Political Show Trial, Mouse Philosophy, Duze Extraction Politics, and Power Exit Trap. No settled contradiction found; treated the Fusu alternative as source-scoped counterfactual commentary and refined the Li You accusation as unsupported by the envoy report in this episode.
@@ -9751,3 +9755,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,795 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identity validation found no case-insensitive key or public-route collisions. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while current lint scanned 12,795 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

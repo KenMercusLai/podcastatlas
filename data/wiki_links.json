@@ -17959,6 +17959,10 @@
     "title": "Guanyin / 观音",
     "url": "/wiki/entities/guanyin/"
   },
+  "GuanzhongRegion": {
+    "title": "关中 / Guanzhong Region",
+    "url": "/wiki/entities/guanzhongregion/"
+  },
   "GuanziText": {
     "title": "《管子》 / Guanzi",
     "url": "/wiki/entities/guanzitext/"
@@ -19678,6 +19682,10 @@
   "Huainanzi": {
     "title": "Huainanzi / 《淮南子》",
     "url": "/wiki/entities/huainanzi/"
+  },
+  "HuaiwangAgreement": {
+    "title": "Huaiwang Agreement / 怀王之约",
+    "url": "/wiki/concepts/huaiwangagreement/"
   },
   "HuajuGuanzhongXuzhiErshize": {
     "title": "《话剧观众须知二十则》",
@@ -22714,6 +22722,10 @@
   "JuliusCaesarPlay": {
     "title": "Julius Caesar / 《尤里乌斯·恺撒》",
     "url": "/wiki/entities/juliuscaesarplay/"
+  },
+  "Julu": {
+    "title": "巨鹿 / Julu",
+    "url": "/wiki/entities/julu/"
   },
   "JumeiYoupin": {
     "title": "聚美优品 / Jumei Youpin",
@@ -50634,6 +50646,10 @@
   "zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei": {
     "title": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思",
     "url": "/wiki/sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei/"
+  },
+  "zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw": {
+    "title": "《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

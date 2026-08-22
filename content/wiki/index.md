@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神](sources/zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw.md) — 芮淇讲透资治通鉴 episode on Xiang Liang's death at Dingtao, Mi Xin's Pengcheng reorganization, the Huaiwang agreement, the Julu rescue command, and Liu Bang's westward Guanzhong assignment.
 - [《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思](sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei.md) — 芮淇讲透资治通鉴 episode on alcohol's constructive side through poetic wine culture, Li Bai, Du Fu's Drinking Eight Immortals, Li Qingzhao's wine lyrics, Genghis Khan, Confucius, and drinking restraint.
 - [《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好](sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd.md) — 芮淇讲透资治通鉴 episode on alcohol as a catalyst across Cao Cao's Wancheng disaster, Zhang Fei losing Xuzhou, Li Yuan's Jinyang rebellion pressure, Gao Yang's imperial violence, Jin Ping Mei, Guifei Zuijiu, Mei Lanfang's adaptation, and Li Qingzhao's wine lyrics.
 - [《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩](sources/zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7.md) — 芮淇讲透资治通鉴 episode on Zhao Gao torturing Li Si into confession, intercepting his memorial, staging fake reviews, Li Si's five-punishment and waist-chopping execution, clan destruction, Dongmen Yellow Dog regret, and Zhao Gao's chancellorship.
@@ -1220,6 +1221,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [巨鹿 / Julu](entities/Julu.md) — Besieged Zhao refuge whose crisis pulls Song Yi, Xiang Yu, and Fan Zeng into the Chu rescue mission.
+- [关中 / Guanzhong Region](entities/GuanzhongRegion.md) — Qin heartland and the promised kingship target in the Huaiwang agreement.
 - [杜甫 / Du Fu](entities/DuFu.md) — Tang poet whose Drinking Eight Immortals poem lets the source present wine as social portrait and poetic culture.
 - [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
 - [《礼记》 / Book of Rites](entities/LijiText.md) — Confucian classic cited for drinking without losing composure and for alcohol as harmonious social ritual.
@@ -1238,7 +1241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《贵妃醉酒》 / Guifei Zuijiu](entities/GuifeiZuijiu.md) — Stage work whose older erotic drunkenness branch is said to be reshaped by Mei Lanfang.
 - [梅兰芳 / Mei Lanfang](entities/MeiLanfang.md) — Performer/reformer credited with removing or softening explicit material from Guifei Zuijiu.
 - [李清照 / Li Qingzhao](entities/LiQingzhao.md) — Song lyric poet introduced as the episode's final, source-scoped female wine-and-poetry branch.
-- [宋义 / Song Yi](entities/SongYi.md) — Former Chu lingyin introduced as joining Xiang Liang's anti-Qin camp after Li Si's death branch closes.
+- [宋义 / Song Yi](entities/SongYi.md) — Former Chu lingyin whose warning about Xiang Liang's arrogance is vindicated before Mi Xin appoints him chief general for the Julu relief army.
 - [上蔡 / Shangcai](entities/Shangcai.md) — Li Si's hometown and the east-gate memory point behind the Dongmen Yellow Dog regret idiom.
 - [冯劫 / 冯杰 / Feng Jie (Qin)](entities/FengJieQin.md) — Qin general who joins Li Si and Feng Quji in urging Hu Hai to suspend Afang Palace and reduce burdens, then is arrested with them.
 - [芈心 / Mi Xin / Later Chu Huai Wang](entities/MiXin.md) — Shepherd descendant of old Chu Huai Wang installed by Xiang Liang as restored Chu figurehead after Fan Zeng's advice.
@@ -7758,13 +7761,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Huaiwang Agreement / 怀王之约](concepts/HuaiwangAgreement.md) — Mi Xin's promise that whoever first enters Guanzhong and destroys Qin will become king there, turning coalition ambition into a reward rule.
 - [Poetic Wine Culture / 诗酒文化](concepts/PoeticWineCulture.md) — Frame where alcohol functions as poetic occasion, social warmth, inspiration, longing, and grief when bounded by restraint.
 - [Temperate Drinking Self-Control / 节制饮酒与自我控制](concepts/TemperateDrinkingSelfControl.md) — Ethical frame for enjoying drink without being trapped by it, grounded through Genghis Khan and Confucius.
 - [Alcohol as Power Catalyst / 酒作为权力催化剂](concepts/AlcoholAsPowerCatalyst.md) — Pattern where drinking amplifies existing desire, courage, humiliation, brutality, or sorrow, with larger consequences around rulers and military power.
 - [Coerced Confession Trap / 逼供认罪陷阱](concepts/CoercedConfessionTrap.md) — Pattern where torture and staged review teach a prisoner to repeat a false confession before the real review arrives.
 - [Dongmen Yellow Dog / 东门黄犬](concepts/DongmenYellowDog.md) — Li Si regret idiom contrasting late power disaster with ordinary hometown pleasure and missed retreat from office.
 - [Palace Access Monopoly / 宫廷接触垄断](concepts/PalaceAccessMonopoly.md) — Pattern where a court actor controls who can reach the ruler, turning advice, petitions, and timing into weapons.
-- [Restored Royal Figurehead Legitimacy / 复国王室名义合法性](concepts/RestoredRoyalFigureheadLegitimacy.md) — Pattern where a military organizer installs a low-power old royal descendant to borrow lineage, grievance, and public sympathy.
+- [Restored Royal Figurehead Legitimacy / 复国王室名义合法性](concepts/RestoredRoyalFigureheadLegitimacy.md) — Pattern where a military organizer installs a low-power old royal descendant, who can later become an active allocator when command conditions change.
 - [Claim Restraint Through Attachment / 有所归属式名位节制](concepts/ClaimRestraintThroughAttachment.md) — Chen Ying pattern where a local rebel avoids top-title exposure by attaching to a stronger claimant.
 - [Strategic Recognition Alignment / 谋略知己式归附](concepts/StrategicRecognitionAlignment.md) — Zhang Liang pattern where a strategist joins a patron because the patron can understand and use difficult counsel.
 - [Punitive Surrender Deterrence / 杀降纳降反噬](concepts/PunitiveSurrenderDeterrence.md) — Pattern where executing a surrenderer makes future enemies less willing to surrender and weakens reintegration.

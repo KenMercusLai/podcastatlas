@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5044
+wiki_total_pages: 5045
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "HPSScienceEducation"
     title: "HPS Science Education / 科学史哲社会科学教育"
     url: "/wiki/concepts/hpsscienceeducation/"
+  - key: "HuaiwangAgreement"
+    title: "Huaiwang Agreement / 怀王之约"
+    url: "/wiki/concepts/huaiwangagreement/"
   - key: "HuaqiangbeiAISolutionProviders"
     title: "Huaqiangbei AI Solution Providers / 华强北AI方案商"
     url: "/wiki/concepts/huaqiangbeiaisolutionproviders/"

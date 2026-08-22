@@ -2,7 +2,7 @@
 title: "徐州 / Xuzhou"
 type: entity
 tags: [city, china, song-dynasty, flood-control, governance, pre-qin, warring-states, diplomacy]
-sources: [zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The source uses Xuzhou to balance the popular Su Dongpo image of food, poetry, a
 
 [[zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu]] adds an earlier Qin-imperial use of the same place through its Pengcheng name. After leaving former Qi territory, [[QinShiHuang|秦始皇]] passes through Pengcheng, identified by the host with present-day Xuzhou, to search the Si River for a lost [[Jiuding|九鼎]]. The failed search makes Xuzhou/Pengcheng a site where imperial travel intersects with missing Zhou legitimacy symbols, distinct from both Xuzhou mutual kingship and Su Shi local governance.
 
+[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] adds Pengcheng as the new Chu political center after [[XiangLiang|项梁]] dies at [[Dingtao|定陶]]. [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[LuChenQinRebel|吕臣]] move [[MiXin|芈心 / 楚怀王]] there from Xuyi. From Pengcheng, Mi Xin merges troops, distributes titles, recognizes [[WeiBao|魏豹]], and issues [[HuaiwangAgreement|怀王之约]], turning the place into the staging point for both the [[Julu|巨鹿]] rescue and Liu Bang's westward route toward [[GuanzhongRegion|关中]].
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - official whose Xuzhou service anchors the page.
 - [[LocalGovernanceAsCare]] and [[ScholarOfficialPublicDuty]] - source concepts.
@@ -26,3 +28,4 @@ The source uses Xuzhou to balance the popular Su Dongpo image of food, poetry, a
 - [[XuzhouMutualKingship|徐州相王]], [[QiWeiwang|齐威王]], [[LiangHuiWang|魏惠王 / 梁惠王]], and [[MalingBattle|马陵之战]] - Warring States diplomacy branch.
 - [[ChuWeiwang|楚威王]] and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 backlash and siege branch.
 - [[zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu|Qinji 122-3]], [[QinShiHuang|嬴政 / 秦始皇]], and [[Jiuding|九鼎]] - Pengcheng/Xuzhou search for the lost ding.
+- [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[MiXin|芈心 / 楚怀王]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[LuChenQinRebel|吕臣]], and [[HuaiwangAgreement|怀王之约]] - post-Xiang-Liang Chu center and mission-allocation site.

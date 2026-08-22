@@ -2,7 +2,7 @@
 title: "芈心 / Mi Xin / Later Chu Huai Wang"
 type: entity
 tags: [person, chu-state, qin, anti-qin, ruler]
-sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
+sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]
 last_updated: 2026-08-22
 ---
 
@@ -14,6 +14,12 @@ Mi Xin's low status is the point rather than a disqualification. The source says
 
 After the installation, [[ChenYing|陈英 / 陈婴]] is made pillar of state, receives five counties, and follows Mi Xin to Xuyi. The source therefore places Mi Xin at the symbolic center of Xiang Liang's anti-Qin camp, while Xiang Liang still remains the effective military organizer.
 
+[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] changes Mi Xin's status after [[XiangLiang|项梁]] dies at [[Dingtao|定陶]]. [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[LuChenQinRebel|吕臣]] move him from Xuyi to [[Xuzhou|彭城]], but the move does not leave him a passive symbol. In the episode's reading, Xiang Liang's death gives Mi Xin room to recover authority from the Xiang military household.
+
+Mi Xin merges Lu Chen's and Xiang Yu's troops under his own command, assigns Liu Bang to Dang commandery and the Wu'an Hou title, gives Xiang Yu the Chang'an Hou and Lu Gong titles, makes Lu Chen situ, and appoints Lu Chen's father Lu Qing as lingyin. He also recognizes [[WeiBao|魏豹]] as Wei king after Wei Bao recovers old Wei cities.
+
+The most consequential act is [[HuaiwangAgreement|怀王之约]]. Mi Xin and his ministers promise that whoever first enters [[GuanzhongRegion|关中]] and destroys [[QinState|秦国]] will become king there. The same strategic planning sends [[SongYi|宋义]], Xiang Yu, and [[FanZeng|范增]] to rescue [[Julu|巨鹿]], while Liu Bang moves west.
+
 This page is separate from [[ChuHuaiwang|楚怀王]], the earlier Warring States ruler whose captivity and death in Qin create the reputation being reused here.
 
 ## Connections
@@ -22,4 +28,6 @@ This page is separate from [[ChuHuaiwang|楚怀王]], the earlier Warring States
 - [[ChuHuaiwang|楚怀王]] - grandfather and title source in the episode's account.
 - [[ChuState|楚国]] and [[QinState|秦国]] - restored polity claim and enemy.
 - [[ChenYing|陈英 / 陈婴]] - pillar of state attached to his court.
+- [[XiangYu|项羽]], [[LiuBang|刘邦]], [[LuChenQinRebel|吕臣]], [[Xuzhou|彭城]], and [[WeiBao|魏豹]] - Qinji 132 post-Xiang-Liang political reorganization.
+- [[HuaiwangAgreement|怀王之约]], [[GuanzhongRegion|关中]], [[SongYi|宋义]], and [[Julu|巨鹿]] - reward rule and mission assignment issued under his court.
 - [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]], [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], and [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]] - concept branches his role anchors.

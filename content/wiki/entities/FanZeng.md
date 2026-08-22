@@ -2,7 +2,7 @@
 title: "范增 / Fan Zeng"
 type: entity
 tags: [strategist, chinese-history, power]
-sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ This makes Fan Zeng's page less narrowly a Hongmen Banquet warning case. In the 
 
 His failure is a political-handling failure. QinZong argues that Fan Zeng cannot move Xiang Yu because he does not manage pride, recognition, and the emotional situation; smashing the jade dipper and insulting Xiang Yu after the escape only deepens the gap between correct judgment and effective influence.
 
+[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] places Fan Zeng inside the command structure after [[XiangLiang|项梁]]'s death. Under [[HuaiwangAgreement|怀王之约]], [[MiXin|芈心 / 楚怀王]] sends [[SongYi|宋义]] as chief general, [[XiangYu|项羽]] as second general, and Fan Zeng as last general to rescue [[Julu|巨鹿]]. The source does not yet give Fan Zeng an active decision in this campaign; it mainly marks his formal place in the army that will lead into Xiang Yu's Julu branch.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - central source scene.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[FanKuai|樊哙]] - figures in the power field.
 - [[PowerEtiquetteReading]] and [[MoralFaceUnderPowerCompetition]] - concepts sharpened through his failure.
 - [[WangAnshi|王安石]] and [[GoodIntentionsPoliticalLimits]] - comparison branch around insight without enough political hand.
 - [[XiangLiang|项梁]], [[MiXin|芈心 / 楚怀王]], [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]], and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - Qinji 130-3 old-Chu legitimacy argument.
+- [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[SongYi|宋义]], [[XiangYu|项羽]], [[Julu|巨鹿]], and [[HuaiwangAgreement|怀王之约]] - formal place in the Chu relief command.
