@@ -2,7 +2,7 @@
 title: "Coalition Self-Preservation Failure / 联盟自保失灵"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,10 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 
 [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]] adds a restored-state rebellion version. [[XiangLiang|项梁]] asks Qi and Zhao to join a concentrated attack on [[ZhangHanQin|章邯]], but [[TianRong|田荣]] conditions Qi participation on Chu killing [[TianJia|田假]] and Zhao killing [[TianJiao|田角]] plus [[TianJianQiGeneral|田间]]. Chu and Zhao refuse to kill political refugees under their protection, so the coalition preserves local moral and status commitments while losing operational unity against Qin.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] adds the completed [[JuluBattle|巨鹿之战]] crowding-and-watching case. [[ChenYu|陈馀]] preserves his outside Zhao force until Zhang Yan and Chen Ze force a limited sortie that is wiped out, while other lords build camps near Julu but watch from their walls as [[XiangYu|项羽]] attacks. The coalition only joins after Chu has made Qin break.
+
+This case is not a total failure, because Xiang Yu's victory eventually activates the lords. But their participation comes after someone else has paid the decisive risk, so Julu turns coalition self-preservation into a post-victory submission pattern.
+
 ## Key Claims
 - A common enemy is not enough to produce operational unity.
 - Shared slogans can hide unequal willingness to spend troops, food, and political risk.
@@ -44,6 +48,7 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - Zhouji 96 part 3 adds that coalition self-preservation can be challenged by reframing appeasement as personal and institutional exposure rather than safety.
 - Zhouji 96 part 6 adds that a stalled coalition can be reactivated by irregular coercion, but that fix carries institutional and moral costs.
 - Qinji 130-3 adds that a coalition can fail when one member demands settlement of an internal succession feud before contributing troops against the common enemy.
+- Qinji 134 adds that a coalition can withhold decisive help until one member has already broken the enemy, then submit to the winner's command.
 
 ## Connections
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[ZonghengjiaDiplomacy|纵横家外交]] - larger alliance and diplomacy frame.
@@ -57,3 +62,4 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 - [[LuZhonglian|鲁仲连]], [[XinyuanYan|新垣衍]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 96 part 3 rebuttal to preservation-through-submission.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 forced coalition activation.
 - [[XiangLiang|项梁]], [[TianRong|田荣]], [[TianJia|田假]], [[TianJiao|田角]], [[TianJianQiGeneral|田间]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Qinji 130-3 restored-state feud blocking a joint attack on Zhang Han.
+- [[JuluBattle|巨鹿之战]], [[ChenYu|陈馀]], [[XiangYu|项羽]], [[WangLiQin|王离]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - Qinji 134 watching lords and post-victory submission.

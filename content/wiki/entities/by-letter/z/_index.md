@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6538
+wiki_total_pages: 6542
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "ZhuoChi"
     title: "淖齿 / 卓齿 / Zhuo Chi"
     url: "/wiki/entities/zhuochi/"
+  - key: "ZhangRiver"
+    title: "漳水 / Zhang River"
+    url: "/wiki/entities/zhangriver/"
   - key: "ZhangshuiAlliance"
     title: "漳水之盟 / Zhangshui Alliance"
     url: "/wiki/entities/zhangshuialliance/"

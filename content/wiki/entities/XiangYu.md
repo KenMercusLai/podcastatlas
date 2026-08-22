@@ -2,7 +2,7 @@
 title: "项羽 / Xiang Yu"
 type: entity
 tags: [history, china, power, war]
-sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,10 @@ Xiang Yu asks to accompany Liu Bang west against Qin because he wants revenge fo
 
 Song Yi's insult and targeted discipline order make Xiang Yu's conflict personal, while Song Yi's [[WuyanCounty|无盐县]] banquet lets Xiang Yu appeal to the soldiers' hardship. Xiang Yu then enters the command tent and kills Song Yi, converting command grievance into [[WartimeCommandDecapitation|战时统帅斩首]]. This is a major step in [[MilitaryPersonalization|军队私人化]]: formal appointment still belongs to Mi Xin's Chu court, but actual army power shifts to Xiang Yu through violence and camp legitimacy.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] turns Xiang Yu's seized command into his [[JuluBattle|巨鹿之战]] victory. The episode stresses sequence: Xiang Yu first sends [[YingBu|英布]] and [[PuGeneral|蒲将军]] to break Qin's protected supply corridor from [[Aocang|敖仓]] toward [[Julu|巨鹿]], then crosses the [[ZhangRiver|漳水]] with the main force and uses [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] to force death-ground morale.
+
+The victory gives Xiang Yu more than battlefield fame. Other lords had watched from their camps until Chu broke [[WangLiQin|王离]]'s army; after the battle, they submit to Xiang Yu as coalition commander. This makes Julu the moment when his personal military authority begins to dominate the anti-Qin coalition, not just a tactical success.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - source scene.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - main counterparts.
@@ -42,3 +46,4 @@ Song Yi's insult and targeted discipline order make Xiang Yu's conflict personal
 - [[PeiCountyUprisingMobilization|沛县起义动员]] and [[LiuBang|刘邦]] - same-episode contrast between grassroots local mobilization and aristocratic violent seizure.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[SongYi|宋义]], [[FanZeng|范增]], [[Julu|巨鹿]], [[HuaiwangAgreement|怀王之约]], and [[GuanzhongRegion|关中]] - post-Xiang-Liang assignment away from western pacification and into the rescue-Zhao army.
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], [[WuyanCounty|无盐县]], [[DelayedRescueStatecraft|晚救权谋]], [[WartimeCommandDecapitation|战时统帅斩首]], and [[MilitaryPersonalization|军队私人化]] - killing Song Yi and taking practical control of the relief army.
+- [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[YingBu|英布]], [[PuGeneral|蒲将军]], [[Aocang|敖仓]], [[ZhangRiver|漳水]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - supply-corridor preparation, death-ground morale, and coalition command after victory.

@@ -2,7 +2,7 @@
 title: "War Cost Tempo Discipline / 战争成本与速决纪律"
 type: concept
 tags: [warfare, strategy, logistics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 
 [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] adds the opposite-looking but compatible lesson: slowness can be cost discipline when the waiting side has the stronger logistics. [[WangJianQin|王翦]] does not seek immediate redemption after [[LiXinQin|李信]]'s failure; with 600,000 troops and steady provisions, he makes [[ChuState|楚国]] bear mobilization pressure until Chu withdraws, then attacks.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] adds the fast-exploitation version through [[XiangYu|项羽]] at [[JuluBattle|巨鹿之战]]. Xiang Yu does not linger after [[YingBu|英布]] and [[PuGeneral|蒲将军]] break Qin's supply corridor; he crosses the [[ZhangRiver|漳水]], gives the army three days of food, and forces immediate combat. Here speed is disciplined by the temporary logistical opening created against [[WangLiQin|王离]], not by impatience alone.
+
 ## Key Claims
 - The reason to prefer quick victory is that prolonged war is expensive, not that speed is always tactically correct.
 - Nonmilitary victory is strategically superior when it can preserve resources and still secure the objective.
@@ -31,6 +33,7 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 - Command refusal can be a form of cost discipline when the assignment would convert earlier victory into likely overextension.
 - Sound cost judgment does not guarantee political safety; a correct refusal may still be punished if it visibly undercuts ruler authority.
 - Delaying battle can reduce cost when one's own logistics can sustain the pause and the enemy's mobilization cannot.
+- Fast attack can reduce cost when a supply-corridor disruption creates a narrow window before the enemy can repair or reconnect.
 
 ## Connections
 - [[SunziBingfa|《孙子兵法》]], [[BaiQi|白起]], and [[QinZhaoxiangwang|秦昭襄王]] - source text, commander, and ruler in the episode's cost argument.
@@ -41,3 +44,4 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 - [[WangHe|王龁]], [[HezongAlliance|合纵]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 96 substitute command, likely external rescue, and reputation-risk logic.
 - [[DuyouSword|杜邮剑]], [[FanJu|范雎]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 97 part 1 strategic vindication becoming political danger.
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 delayed-battle cost discipline.
+- [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[ZhangRiver|漳水]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - fast exploitation after the besieger's supply corridor breaks.

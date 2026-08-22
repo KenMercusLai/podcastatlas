@@ -2,8 +2,8 @@
 title: "Transport Corridor Severance / 交通线切割"
 type: concept
 tags: [strategy, warfare, logistics, geography, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+last_updated: 2026-08-22
 ---
 
 # Transport Corridor Severance / 交通线切割
@@ -20,6 +20,8 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] adds a battle-scale analogue. Once Zhao Kuo attacks, Bai Qi cuts the Zhao army away from its camp and food route, while Qin Zhaoxiang Wang mobilizes Henei to prevent relief. This does not replace the earlier regional corridor concept; it links it to [[BattlefieldEncirclementLogistics|战场围困与断粮]], where the severed route belongs to a trapped field army rather than an isolated territory.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] adds a siege-relief version at [[JuluBattle|巨鹿之战]]. Qin's protected yongdao carries food from [[Aocang|敖仓]] toward [[WangLiQin|王离]]'s army at [[Julu|巨鹿]], while [[ZhangHanQin|章邯]] guards the broader supply system. [[YingBu|英布]] and [[PuGeneral|蒲将军]] break that corridor before Xiang Yu's main attack, so severance now works against the besieger rather than against an exposed province or field army.
+
 ## Key Claims
 - Route control can matter as much as city capture because it changes whether a state can reinforce, communicate with, or command an exposed region.
 - Cutting corridors turns one enemy state into multiple isolated operational problems.
@@ -28,6 +30,7 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 - Zhouji 93 adds that corridor severance can transfer risk outward: the isolated region may be offered as an apparent gift that imports the original attacker's retaliation.
 - Zhouji 93 part 2 adds that once the recipient ceremonially accepts the severed region, the imported conflict becomes harder to unwind.
 - Zhouji 94 part 2 adds that the same logic can shrink to battle scale: cutting the army's food route turns maneuver into starvation.
+- Qinji 134 adds that corridor severance can support siege relief: cutting the besieger's protected food route can make direct battle winnable.
 
 ## Connections
 - [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], and [[QinState|秦国]] - strategist, ruler, commander, and state using the method.
@@ -36,3 +39,4 @@ The concept extends [[YuanjiaoJingongStrategy|远交近攻]] by explaining how "
 - [[FengTing|冯亭]], [[ZhaoDan|赵丹 / 赵孝成王]], [[ZhaoBao|赵豹 / 平阳君]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 political consequence of the severed Shangdang corridor.
 - [[Pingyuanjun|平原君]] and [[ChangpingBattle|长平之战]] - acceptance agent and downstream war prelude in Zhouji 93 part 2.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[ZhaoKuo|赵括]], and [[QinZhaoxiangwang|秦昭襄王]] - battle-scale severance and state mobilization in Zhouji 94 part 2.
+- [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[ZhangHanQin|章邯]], [[WangLiQin|王离]], [[YingBu|英布]], and [[PuGeneral|蒲将军]] - Qinji 134 supply-corridor break before Xiang Yu's decisive attack.

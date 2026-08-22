@@ -2,8 +2,8 @@
 title: "Battlefield Encirclement Logistics / 战场围困与断粮"
 type: concept
 tags: [warfare, logistics, encirclement, military-command, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
+last_updated: 2026-08-22
 ---
 
 # Battlefield Encirclement Logistics / 战场围困与断粮
@@ -14,12 +14,18 @@ In the episode, [[ZhaoKuo|赵括]] replaces [[LianPo|廉颇]]'s defensive postur
 
 The concept is adjacent to [[TransportCorridorSeverance|交通线切割]], but it operates at battle scale rather than regional strategy scale. Earlier corridor severance isolates [[Shangdang|上党]] from [[HanState|韩国]] and produces the political prelude to Changping; battlefield encirclement logistics isolates Zhao's main force from food, retreat, and reinforcement after Zhao Kuo moves.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] adds the Julu reversal case. At first, [[WangLiQin|王离]] is the besieger whose army is fed through [[ZhangHanQin|章邯]]'s corridor from [[Aocang|敖仓]] toward [[Julu|巨鹿]]. [[XiangYu|项羽]] changes the encirclement not by immediately attacking Wang Li, but by sending [[YingBu|英布]] and [[PuGeneral|蒲将军]] to break the corridor and separate Wang Li from Zhang Han.
+
+This adds an attacking-rescue version of the concept. The side trying to relieve a siege can win by turning the besieger's supply arrangement into the weak point, then using [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] to exploit the newly fragile battlefield.
+
 ## Key Claims
 - Encirclement becomes decisive when it controls food movement, not only battlefield position.
 - A feigned retreat can be useful when it pulls the enemy across a terrain or river line that makes retreat harder.
 - Fast cavalry or light forces may make the first cut, but fieldworks and heavier troops are needed to keep the cut closed.
 - Prepared defenses can turn an attacking army's momentum into immobility if the attacker lacks siege equipment.
 - The operational trap becomes a state-capacity contest once the encircling side must prevent outside relief and supply.
+- A besieger can become vulnerable when its own food corridor is exposed to a relief force.
+- Breaking the besieger's logistics can be the precondition for a successful morale-intensive assault.
 
 ## Connections
 - [[BaiQi|白起]], [[ZhaoKuo|赵括]], [[QinState|秦国]], and [[ZhaoState|赵国]] - commander pair and opposing states in the source case.
@@ -27,3 +33,4 @@ The concept is adjacent to [[TransportCorridorSeverance|交通线切割]], but i
 - [[QinZhaoxiangwang|秦昭襄王]] - ruler who reinforces the encirclement through emergency mobilization.
 - [[BattlefieldInformationControl|战场信息控制]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - command and information conditions that let the trap work.
 - [[TransportCorridorSeverance|交通线切割]] and [[WarringStatesWarBrutalization|战国战争残酷化]] - related logistics pattern and violence outcome.
+- [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[YingBu|英布]], [[PuGeneral|蒲将军]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - Qinji 134 relief-force version where the besieger's corridor is cut before the decisive attack.

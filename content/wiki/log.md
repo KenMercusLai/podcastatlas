@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本
+
+Added source page for Qinji 134: Xiang Yu's Julu battle after killing Song Yi, Liu Bang's parallel victories, Tian An's Jibei attachment, Zhang Han's supply corridor feeding Wang Li's siege army, Zhang Er's appeals to Chen Yu, the failed five-thousand-person rescue attempt, Ying Bu and Pu General breaking the Qin yongdao from Aocang toward Julu, Xiang Yu's Zhang River crossing and 破釜沉舟 order, nine engagements against Qin, and the lords' submission to Xiang Yu as coalition commander. Created Julu Battle, Pu General, Aocang, Zhang River, and Breaking Cauldrons and Sinking Boats; updated overview, index, Xiang Yu, Ying Bu, Liu Bang, Zhang Han, Wang Li, Zhang Er, Chen Yu, Zhao Xie, Julu, Battlefield Encirclement Logistics, Transport Corridor Severance, Military Morale Through Shared Hardship, Coalition Self-Preservation Failure, Anti-Qin Coalition Fragmentation, and War Cost Tempo Discipline. No settled contradiction found; preserved the "Zhang River, not Yellow River" correction as source-scoped geography reasoning.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神
 
 Added source page for Qinji 132: Song Yi's warning that Xiang Liang's victories have produced arrogance, Zhang Han's reinforced night attack at Dingtao and Xiang Liang's death, Xiang Yu/Liu Bang/Lu Chen moving Mi Xin to Pengcheng, Mi Xin's post-Xiang-Liang army and office reorganization, Wei Bao's recognition as Wei king, Zhang Han and Wang Li creating the Julu crisis after Handan falls, the Huaiwang agreement promising Guanzhong kingship to whoever first destroys Qin there, Song Yi/Xiang Yu/Fan Zeng's rescue-Zhao command, and Liu Bang's separate westward assignment. Created Huaiwang Agreement, Julu, and Guanzhong Region; updated overview, index, Song Yi, Mi Xin, Xiang Liang, Zhang Han, Wang Li, Fan Zeng, Xiang Yu, Liu Bang, Lu Chen, Wei Bao, Zhao Xie, Zhang Er, Chen Yu, Dingtao, Xuzhou/Pengcheng, Handan, Restored Royal Figurehead Legitimacy, Six-State Restoration Anti-Qin Strategy, Anti-Qin Coalition Fragmentation, and Non-Killing Unification. No settled contradiction found; treated the title's Xiang Yu "sealed god" framing as setup rather than a full Julu battle account, and kept the Qi envoy Gaoling Jun separate from the existing Qin noble Gaoling Jun page.
@@ -9762,6 +9766,10 @@ Ran lint after health and identity validation passed. Health scanned 12,795 wiki
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？
 
 Added source page for Qinji 133: Song Yi's forty-six-day halt at Anyang on the way to Julu, his delayed-rescue argument, conflict with Xiang Yu, targeted discipline order, troop hardship, Wuyan banquet while soldiers suffer, and Xiang Yu's killing of Song Yi after framing him as selfish and not state-serving. Created Anyang (Qin Rebellion) and Wuyan County; updated overview, index, Song Yi, Xiang Yu, Fan Zeng, Mi Xin, Julu, Huaiwang Agreement, Delayed Rescue Statecraft, Military Morale Through Shared Hardship, Wartime Command Decapitation, and Anti-Qin Coalition Fragmentation. No settled contradiction found; kept Song Yi's strategy feasibility and Tian Du's background role source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

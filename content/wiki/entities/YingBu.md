@@ -2,7 +2,7 @@
 title: "英布 / 黥布 / Ying Bu"
 type: entity
 tags: [person, anti-qin, rebellion, qin-han, military]
-sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -18,10 +18,15 @@ The next step is local alliance. Ying Bu brings several thousand followers to [[
 
 The episode also preserves a fate-reading story. A physiognomist reportedly says Ying Bu will become king after being punished; after the punishment occurs, Ying Bu adopts the surname or name 黥, hoping the second half of the prediction will also come true. This page records that as the episode's legend-colored framing, not as a verified causal explanation.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] gives Ying Bu a decisive operational role before [[XiangYu|项羽]]'s main [[JuluBattle|巨鹿之战]] attack. Ying Bu and [[PuGeneral|蒲将军]] lead twenty thousand elite Chu troops across the Yellow River first, strike Qin support units, and break the protected corridor carrying grain from [[Aocang|敖仓]] toward [[Julu|巨鹿]].
+
+In the episode's reading, Ying Bu's corridor attack is what makes the later [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] charge coherent. It separates [[ZhangHanQin|章邯]] from [[WangLiQin|王离]] and shifts Qin from a well-fed siege posture into a divided battlefield problem.
+
 ## Connections
 - [[Lishan|骊山]] and [[QinState|秦国]] - punishment and convict-labor background.
 - [[LuChenQinRebel|吕臣]], [[ChenSheng|陈胜]], and [[ZhangChuRegime|张楚政权]] - Chu-side recovery field in which Ying Bu appears.
 - [[WuRui|吴芮]] - local official and father-in-law who integrates Ying Bu's force.
 - [[XiangLiang|项梁]] - larger anti-Qin commander Ying Bu joins in Qinji 130-2.
+- [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[PuGeneral|蒲将军]], [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - corridor-breaking action before Xiang Yu's main attack.
 - [[LiuBang|刘邦]] and [[WesternHanDynasty|Western Han]] - later horizon noted elsewhere in the wiki through Liu Bang's post-Ying-Bu tomb-rite route.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], [[LishanConvictMobilization|骊山刑徒应急动员]], and [[AuspiciousOmenPolitics|祥瑞政治]] - related military-manpower and fate-narrative frames.

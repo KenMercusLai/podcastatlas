@@ -2,7 +2,7 @@
 title: "张耳 / Zhang Er"
 type: entity
 tags: [person, retainer, warring-states, qin, western-han]
-sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
 last_updated: 2026-08-22
 ---
 
@@ -28,6 +28,10 @@ The host adds a source-critical layer: [[Shiji|《史记》]] says Zhang Er and 
 
 [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] shows the restored Zhao branch under direct Qin attack. After [[ZhangHanQin|章邯]] crosses north and breaks [[Handan|邯郸]], Zhang Er flees with Zhao Xie to [[Julu|巨鹿]]. [[WangLiQin|王离]] surrounds the city while Chen Yu camps to the north. Zhang Er's restored-state project therefore becomes the emergency that pulls Chu into the rescue-Zhao mission.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] shows Zhang Er inside the siege trying to force action from outside allies. As food and troops run down in [[Julu|巨鹿]], he repeatedly asks [[ChenYu|陈馀]] to attack Qin. When Chen Yu refuses on strength-preservation grounds, Zhang Er sends Zhang Yan and Chen Ze to rebuke him through their earlier life-and-death commitment.
+
+The result is tragic rather than effective: Chen Yu gives Zhang Yan and Chen Ze five thousand elite troops, and the attack is wiped out. Zhang Er's pressure therefore marks the desperation inside Julu and the limit of ordinary Zhao-side relief before [[XiangYu|项羽]] changes the battlefield through corridor attack and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]].
+
 ## Connections
 - [[Xinlingjun|信陵君]] - earlier patron whose retainer network Zhang Er had belonged to.
 - [[LiuBang|刘邦]] - young admirer who turns to Zhang Er after missing Xinlingjun.
@@ -41,3 +45,4 @@ The host adds a source-critical layer: [[Shiji|《史记》]] says Zhang Er and 
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[ChenYu|陈馀]], [[LiLiangZhaoGeneral|李良]], [[WuChen|武臣]], and [[Handan|邯郸]] - escape from Handan after Li Liang's coup.
 - [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[ZhaoXie|赵歇]], [[ZhaoState|赵国]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - defeat of Li Liang and restoration of a Zhao royal descendant.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[Julu|巨鹿]], [[WangLiQin|王离]], [[SongYi|宋义]], and [[XiangYu|项羽]] - siege crisis that summons the Chu relief army.
+- [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[ChenYu|陈馀]], [[JuluBattle|巨鹿之战]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - inside-siege pressure, failed Zhao-side sortie, and eventual Chu rescue.

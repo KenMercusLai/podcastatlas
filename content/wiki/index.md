@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本](sources/zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw.md) — 芮淇讲透资治通鉴 episode on the Julu battle, Qin supply-corridor disruption, Ying Bu and Pu General breaking the yongdao, Xiang Yu crossing the Zhang River, and the operational meaning of 破釜沉舟.
 - [《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？](sources/zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx.md) — 芮淇讲透资治通鉴 episode on Song Yi's forty-six-day halt at Anyang, his conflict with Xiang Yu, the Wuyan banquet morale failure, and Xiang Yu's killing of Song Yi before Julu.
 - [《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神](sources/zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw.md) — 芮淇讲透资治通鉴 episode on Xiang Liang's death at Dingtao, Mi Xin's Pengcheng reorganization, the Huaiwang agreement, the Julu rescue command, and Liu Bang's westward Guanzhong assignment.
 - [《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思](sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei.md) — 芮淇讲透资治通鉴 episode on alcohol's constructive side through poetic wine culture, Li Bai, Du Fu's Drinking Eight Immortals, Li Qingzhao's wine lyrics, Genghis Khan, Confucius, and drinking restraint.
@@ -1222,6 +1223,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [巨鹿之战 / Battle of Julu](entities/JuluBattle.md) — Decisive anti-Qin battle where Xiang Yu first breaks Qin's supply corridor, then uses 破釜沉舟 after crossing the Zhang River.
+- [蒲将军 / Pu General](entities/PuGeneral.md) — Chu commander paired with Ying Bu in the twenty-thousand-person attack that breaks Qin's Julu supply corridor.
+- [敖仓 / Aocang](entities/Aocang.md) — Yellow River-side grain source whose corridor to Julu makes Wang Li's siege army strong until Chu cuts the route.
+- [漳水 / Zhang River](entities/ZhangRiver.md) — River near Julu that Qinji 134 identifies as the actual 破釜沉舟 crossing, not the earlier Yellow River crossing.
 - [安阳 / Anyang (Qin Rebellion)](entities/AnyangQinRebellion.md) — Stopping point where Song Yi's forty-six-day delayed rescue turns the Julu mission into a Chu command crisis.
 - [无盐县 / Wuyan County](entities/WuyanCounty.md) — Chu-Qi border location where Song Yi's celebratory sendoff for his son contrasts with the suffering Chu army at Anyang.
 - [巨鹿 / Julu](entities/Julu.md) — Besieged Zhao refuge whose crisis pulls Song Yi, Xiang Yu, and Fan Zeng into the Chu rescue mission and later exposes Song Yi's delayed-rescue command failure.
@@ -7764,6 +7769,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [破釜沉舟 / Breaking Cauldrons and Sinking Boats](concepts/BreakingCauldronsAndSinkingBoats.md) — Xiang Yu's death-ground commitment device at Julu, treated as morale action after supply-corridor preparation rather than generic inspiration.
 - [Huaiwang Agreement / 怀王之约](concepts/HuaiwangAgreement.md) — Mi Xin's Guanzhong reward rule and mission allocation, whose Julu-rescue side soon exposes command legitimacy risk under Song Yi and Xiang Yu.
 - [Poetic Wine Culture / 诗酒文化](concepts/PoeticWineCulture.md) — Frame where alcohol functions as poetic occasion, social warmth, inspiration, longing, and grief when bounded by restraint.
 - [Temperate Drinking Self-Control / 节制饮酒与自我控制](concepts/TemperateDrinkingSelfControl.md) — Ethical frame for enjoying drink without being trapped by it, grounded through Genghis Khan and Confucius.

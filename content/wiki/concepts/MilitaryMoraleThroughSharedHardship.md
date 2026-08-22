@@ -2,7 +2,7 @@
 title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
 type: concept
 tags: [military-history, leadership, morale, management]
-sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,10 @@ The source explicitly translates the pattern into modern management terms: leade
 
 In this negative form, shared hardship is visible by its absence. [[XiangYu|项羽]] can accuse Song Yi of ignoring the troops and pursuing private interest, then convert that morale grievance into [[WartimeCommandDecapitation|战时统帅斩首]]. The episode therefore links morale not only to willingness to fight but also to whether soldiers accept the commander's right to delay battle.
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] adds the positive but extreme sequel through [[BreakingCauldronsAndSinkingBoats|破釜沉舟]]. Xiang Yu crosses the [[ZhangRiver|漳水]] near [[Julu|巨鹿]], sinks boats, destroys cooking vessels, burns camp, and leaves only three days of food. This is shared hardship as enforced common fate: commander and troops alike have no ordinary retreat path.
+
+The episode keeps the morale device tied to operational preparation. Because [[YingBu|英布]] and [[PuGeneral|蒲将军]] have already damaged Qin's supply corridor, the death-ground order converts an improved battlefield into attack resolve rather than merely asking soldiers to be brave against unchanged conditions.
+
 ## Key Claims
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
@@ -35,6 +39,7 @@ In this negative form, shared hardship is visible by its absence. [[XiangYu|项�
 - In a fortified waiting strategy, morale can appear as disciplined appetite for action rather than immediate combat.
 - A commander's visible comfort during troop hardship can make strategic delay look like selfish passivity.
 - Failed shared hardship can undermine the commander's right to enforce discipline and create an opening for violent replacement.
+- Forced shared hardship can create irreversible morale, but it is most credible when battlefield conditions have already been improved.
 
 ## Connections
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
@@ -46,3 +51,4 @@ In this negative form, shared hardship is visible by its absence. [[XiangYu|项�
 - [[LiTan|李谈 / 李同]], [[Pingyuanjun|平原君]], [[Handan|邯郸]], and [[EliteCrisisBurdenSharing|贵族危机共担动员]] - Zhouji 96 part 4 siege mobilization and household-sacrifice extension.
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 long-wait morale and readiness case.
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[SongYi|宋义]], [[XiangYu|项羽]], [[AnyangQinRebellion|安阳]], and [[WuyanCounty|无盐县]] - negative case where commander insulation from soldier hardship helps justify command decapitation.
+- [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[ZhangRiver|漳水]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - extreme shared fate after supply-corridor preparation.

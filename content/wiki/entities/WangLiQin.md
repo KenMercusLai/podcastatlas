@@ -2,7 +2,7 @@
 title: "王离 / Wang Li (Qin)"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
+sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,14 @@ The page keeps Wang Li source-scoped. In this episode, he is less a battlefield 
 
 [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] moves Wang Li from recruitment pressure into direct siege command. After [[ZhangHanQin|章邯]] breaks [[Handan|邯郸]], [[ZhaoXie|赵歇]] and [[ZhangEr|张耳]] take refuge at [[Julu|巨鹿]]. Wang Li surrounds Julu while Zhang Han camps to the south, making Wang Li the immediate encircling force that triggers the Chu relief mission under [[SongYi|宋义]], [[XiangYu|项羽]], and [[FanZeng|范增]].
 
+[[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]] follows Wang Li's siege to defeat. The source stresses that his army initially has enough troops and supplies because [[ZhangHanQin|章邯]] keeps a corridor open from [[Aocang|敖仓]] toward [[Julu|巨鹿]]. Once [[YingBu|英布]] and [[PuGeneral|蒲将军]] break that corridor, Wang Li is separated from Zhang Han and loses the logistical position that made the siege hard to relieve.
+
+Xiang Yu then crosses the [[ZhangRiver|漳水]], uses [[BreakingCauldronsAndSinkingBoats|破釜沉舟]], and defeats Wang Li's army after nine engagements. The episode makes Wang Li's defeat the immediate military result of [[JuluBattle|巨鹿之战]], while the lords' later submission to Xiang Yu becomes the political result.
+
 ## Connections
 - [[LiLiangZhaoGeneral|李良]] - target of Wang Li's blockade and recruitment letter.
 - [[QinState|秦国]] and [[QinErshi|胡亥 / 秦二世]] - regime and imperial name used in the letter.
 - [[WuChen|武臣]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - restored-Zhao context affected by Li Liang's later defection.
 - [[Julu|巨鹿]], [[ZhaoXie|赵歇]], [[ZhangEr|张耳]], [[ZhangHanQin|章邯]], [[SongYi|宋义]], and [[XiangYu|项羽]] - Qinji 132 siege and rescue-Zhao setup.
+- [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[ZhangRiver|漳水]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - completed siege defeat after the supply corridor breaks.
 - [[StatusInsultDefectionCascade|名分羞辱触发叛变]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - concepts extended by the sequence that begins with Wang Li's approach.

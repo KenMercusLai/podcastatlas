@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6538
+wiki_total_pages: 6542
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "AnmenWarringStates"
     title: "岸门 / Anmen (Warring States)"
     url: "/wiki/entities/anmenwarringstates/"
+  - key: "Aocang"
+    title: "敖仓 / Aocang"
+    url: "/wiki/entities/aocang/"
   - key: "Agarwood"
     title: "沉香 / Agarwood"
     url: "/wiki/entities/agarwood/"

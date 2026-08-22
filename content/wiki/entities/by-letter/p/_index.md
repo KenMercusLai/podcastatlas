@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6538
+wiki_total_pages: 6542
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "PiedPiperOfHamelin"
     title: "花衣魔笛手 / The Pied Piper of Hamelin"
     url: "/wiki/entities/piedpiperofhamelin/"
+  - key: "PuGeneral"
+    title: "蒲将军 / Pu General"
+    url: "/wiki/entities/pugeneral/"
   - key: "PuSongling"
     title: "蒲松龄 / Pu Songling"
     url: "/wiki/entities/pusongling/"
