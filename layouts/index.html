@@ -17,9 +17,15 @@
 
     .home-tagline {
       max-width: 720px;
-      margin: 0 0 26px;
+      margin: 0 0 8px;
       color: var(--muted);
       font-size: clamp(1.05rem, 2.4vw, 1.3rem);
+    }
+
+    .home-update-signal {
+      margin: 0 0 26px;
+      color: var(--muted);
+      font-size: 0.9rem;
     }
 
     .home-search {
@@ -161,10 +167,13 @@
 {{ end }}
 
 {{ define "main" }}
+  {{ $episodes := (where .Site.RegularPages "Section" "episodes").ByDate.Reverse }}
+  {{ $showSection := .Site.GetPage "/show" }}
   <section class="home-hero">
     <p class="home-kicker">Discover knowledge through podcasts</p>
     <h1>{{ .Site.Title }}</h1>
     <p class="home-tagline">A living knowledge atlas synthesized from podcasts.</p>
+    <p class="home-update-signal">Updated daily from {{ len $episodes }} episodes across {{ len $showSection.Pages }} shows.</p>
 
     <div class="home-search" data-pagefind-ignore="all">
       <pagefind-config bundle-path="{{ "pagefind/" | relURL }}"></pagefind-config>
@@ -172,8 +181,8 @@
     </div>
 
     <div class="home-actions">
-      <a href="{{ "wiki/" | relURL }}">Explore the Wiki →</a>
-      <a href="{{ "episodes/" | relURL }}">Browse Episodes →</a>
+      <a href="{{ "wiki/" | relURL }}">Explore Knowledge →</a>
+      <a href="{{ "episodes/" | relURL }}">Browse Episode Guides →</a>
     </div>
   </section>
 
@@ -226,7 +235,7 @@
   {{ if $discoveries }}
     <section class="home-section" aria-labelledby="daily-discoveries-heading">
       <h2 id="daily-discoveries-heading" class="home-section-heading">Daily discoveries</h2>
-      <p class="home-section-intro">Three paths into the atlas, selected deterministically for today.</p>
+      <p class="home-section-intro">A fresh concept, entity, and source note from across the atlas.</p>
       <div class="home-discovery-grid">
         {{ range $discoveries }}
           {{ $page := .page }}
@@ -243,7 +252,6 @@
     </section>
   {{ end }}
 
-  {{ $episodes := (where .Site.RegularPages "Section" "episodes").ByDate.Reverse }}
   {{ $latestEpisodes := first 6 $episodes }}
   {{ $archivePool := $episodes | after 6 }}
   {{ $today := now.UTC }}
@@ -287,7 +295,6 @@
     </section>
   {{ end }}
 
-  {{ $showSection := .Site.GetPage "/show" }}
   <section class="home-section" aria-labelledby="explore-atlas-heading">
     <h2 id="explore-atlas-heading" class="home-section-heading">Explore the atlas</h2>
     <p class="home-section-intro">Browse the canonical knowledge collections behind the daily discoveries.</p>
