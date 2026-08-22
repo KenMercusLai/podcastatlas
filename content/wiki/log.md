@@ -9415,6 +9415,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）
+
+Added source page for Hanji 145 part 2: Han Xin's proposed old-Han royal descent and paternal flight to Huaiyin, possible early military training and family兵书, the link between poverty/social awkwardness and long兵法 study, Jiang Taigong and Sunzi as strategic models, Su Shi's "大勇" frame, and 《孙子兵法·火攻篇》 as an interest-gated action rule against anger and resentment. Updated overview, index, Han Xin, Huaiyin, Great Courage Under Humiliation, SunziBingfa, Anger-Driven War Decision, Su Shi, Jiang Taigong, Sima Qian, and Shiji. No settled contradiction found; kept the royal-lineage and father-training details source-scoped beside the earlier family-background evidence gap.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》139｜“他”再次影响“汉朝”
 
 Added source page for Hanji 139: Ziying's surrender and Qin's formal end, Liu Bang's Bashang pacification through sparing Ziying, preserving Qin officials, Yuefa Sanzhang, refusal of local gifts, Xiao He's archive capture, Fan Kuai/Zhang Liang palace-restraint advice, and Xiang Yu's Xinan killing of surrendered Qin troops. Created Bashang, Xinan Massacre, Yuefa Sanzhang, and Administrative Archive Capture; updated overview, index, Liu Bang, Xiang Yu, Ziying, Xiao He, Fan Kuai, Zhang Liang, Zhang Han, Sima Xin, Dong Yi, Ying Bu, Pu General, Qin State, Xianyang, Guanzhong, Hangu Pass, Western Han, Laozi, Occupation Pacification Strategy, Political Surrender Cascade, Non-Killing Unification, Surrendered Prisoner Security Dilemma, Punitive Surrender Deterrence, Post-Battle Terror Signaling, People-Based Political Security, and Coalition Settlement Failure. No settled contradiction found; kept Liu Bang's restraint as source-scoped political pacification rather than erasing prior Yingchuan terror, and merged the Dong Yi name forms 董义/董翳 on one canonical page.
@@ -9910,6 +9914,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）
 
 Added source page for Hanji 145: Han Xin's Huaiyin origin, poverty and social isolation, Piaomu's feeding and rebuke, the market "胯下之辱" scene, Shiji's Huaiyin Hou biography as source basis, and Su Shi's "大勇" frame for reading non-retaliation as restraint under a larger aim. Created Huaiyin and Great Courage Under Humiliation; updated overview, index, Han Xin, Shiji, Sima Qian, and Su Shi. No settled contradiction found; kept possible old Han-state royal descent and family-background gaps source-scoped rather than converting them into settled genealogy.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

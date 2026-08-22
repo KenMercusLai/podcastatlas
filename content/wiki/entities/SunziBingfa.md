@@ -2,8 +2,8 @@
 title: "《孙子兵法》 / The Art of War"
 type: entity
 tags: [book, military-text, strategy, pre-qin, chinese-history]
-sources: [zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+last_updated: 2026-08-22
 ---
 
 # 《孙子兵法》 / The Art of War
@@ -24,6 +24,8 @@ The page is distinct from [[SunBinBingfa|《孙膑兵法》]]. Zhouji 16 used th
 
 [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] invokes Sunzi's "诡道" logic to explain [[LiMu|李牧]] against [[Xiongnu|匈奴]]. Li Mu appears unable and unwilling to fight while he is building frontier readiness, then turns that reputation into bait for the final encirclement.
 
+[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] uses the "火攻" chapter less as battlefield technique than as action philosophy for [[HanXin|韩信]]. The episode cites the warning that rulers and generals should not act from anger or resentment, then stresses the rule that one moves when the move fits advantage and stops when it does not. In this branch, Sunzi becomes the bridge between Han Xin's early [[GreatCourageUnderHumiliation|忍辱大勇]] and a later command temperament disciplined by interest rather than emotion.
+
 ## Connections
 - [[SunBin|孙膑]] - strategist whose plan the episode reads through the text.
 - [[PangJuan|庞涓]], [[WeiState|魏国]], and [[QiState|齐国]] - opponent and campaign setting.
@@ -35,3 +37,4 @@ The page is distinct from [[SunBinBingfa|《孙膑兵法》]]. Zhouji 16 used th
 - [[ChangpingBattle|长平之战]], [[BaiQi|白起]], [[WangLing|王陵]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 post-victory cost and tempo lesson.
 - [[LinwuJun|临武君]], [[Xunzi|荀子]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Qinji 99 part 3 tactical-technique counterpoint.
 - [[LiMu|李牧]], [[Xiongnu|匈奴]], [[LureEnemyOutOfPosition|诱敌离位]], and [[FrontierDefensivePatience|边境防御耐心]] - Qinji 105 deceptive non-battle and final encirclement.
+- [[HanXin|韩信]], [[GreatCourageUnderHumiliation|忍辱大勇]], [[AngerDrivenWarDecision|因怒兴师]], and [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] - Fire Attack principle as emotional restraint and advantage-gated action.

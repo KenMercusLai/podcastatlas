@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）](sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep.md) — 芮淇讲透资治通鉴 episode on Han Xin's proposed old-Han royal lineage, early military learning, humiliation-preserving restraint, Jiang Taigong/Sunzi models, and 《孙子兵法·火攻篇》 as action discipline against anger.
 - [《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）](sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce.md) — 芮淇讲透资治通鉴 episode on Han Xin's Huaiyin origins, poverty, Piaomu feeding, "胯下之辱," Shiji source basis, and the 忍辱大勇 reading of restraint under public humiliation.
 - [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（2）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu.md) — 芮淇讲透资治通鉴 episode on Liu Bang entering Hanzhong, Zhang Liang's burned-gallery-road signal, disappointed followers including Han Xin, Tian Rong/Peng Yue/Chen Yu's rebellion cascade, and Han Cheng's killing.
 - [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb.md) — 芮淇讲透资治通鉴 episode on Xiang Yu's partition backlash, demoted old kings, under-rewarded insiders, Mi Xin's forced relocation, and Xiao He's conversion of Liu Bang's Hanzhong demotion into Ba-Shu base-building.
