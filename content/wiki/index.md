@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩](sources/zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7.md) — 芮淇讲透资治通鉴 episode on Zhao Gao torturing Li Si into confession, intercepting his memorial, staging fake reviews, Li Si's five-punishment and waist-chopping execution, clan destruction, Dongmen Yellow Dog regret, and Zhao Gao's chancellorship.
 - [《资治通鉴·秦纪》130-4｜如何定论秦相李斯的下场](sources/zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x.md) — 芮淇讲透资治通鉴 episode on Zhao Gao isolating Hu Hai, trapping Li Si through staged remonstrance and family accusations, Li Si's failed counterattack, and the arrest of Li Si, Feng Quji, and Feng Jie after loyal advice over Afang Palace and burdens.
 - [《资治通鉴·秦纪》130-3｜为何立牧童为楚王，里面大有文章](sources/zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz.md) — 芮淇讲透资治通鉴 episode on Fan Zeng's advice to restore Chu royal legitimacy through shepherd Mi Xin, Zhang Liang's Han Cheng restoration, Zhang Han's Linji/Dong'e/Puyang pressure, and Tian Rong's Qi succession feud blocking a Qi-Zhao-Chu attack.
 - [《资治通鉴·秦纪》130-2｜历史记录首次屠城！](sources/zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm.md) — 芮淇讲透资治通鉴 episode on Chen Ying's refusal of kingship and later Han payoff, Xiang Liang's absorption of Ying Bu and defeat of Qin Jia/Jing Ju, Liu Bang's recovery of Feng, and Xiang Yu's Xiangcheng massacre.
@@ -1217,6 +1218,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [宋义 / Song Yi](entities/SongYi.md) — Former Chu lingyin introduced as joining Xiang Liang's anti-Qin camp after Li Si's death branch closes.
+- [上蔡 / Shangcai](entities/Shangcai.md) — Li Si's hometown and the east-gate memory point behind the Dongmen Yellow Dog regret idiom.
 - [冯劫 / 冯杰 / Feng Jie (Qin)](entities/FengJieQin.md) — Qin general who joins Li Si and Feng Quji in urging Hu Hai to suspend Afang Palace and reduce burdens, then is arrested with them.
 - [芈心 / Mi Xin / Later Chu Huai Wang](entities/MiXin.md) — Shepherd descendant of old Chu Huai Wang installed by Xiang Liang as restored Chu figurehead after Fan Zeng's advice.
 - [韩成 / Han Cheng](entities/HanCheng.md) — Old Han royal descendant installed as Han king after Zhang Liang persuades Xiang Liang to widen anti-Qin restoration legitimacy.
@@ -1251,7 +1254,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王离 / Wang Li (Qin)](entities/WangLiQin.md) — Qin commander who blocks Li Liang near Jingxing and sends the imperial-name recruitment letter that makes later defection possible.
 - [武臣姐姐 / Wu Chen's Sister](entities/ZhaoWuchenSister.md) — Unnamed sister of Wu Chen whose drunken failure to return Li Liang's salute triggers the restored-Zhao defection cascade.
 - [田臧 / Tian Zang](entities/TianZang.md) — Zhang Chu general who kills Wu Guang during the Yingyang crisis and is then promoted by Chen Sheng.
-- [李由 / Li You](entities/LiYou.md) — Li Si's son and Sanchuan governor defending Yingyang against Wu Guang's Zhang Chu army.
+- [李由 / Li You](entities/LiYou.md) — Li Si's son and Sanchuan governor whose office is later turned into a false treason accusation against Li Si.
 - [夏侯婴 / Xiahou Ying](entities/XiahouYing.md) — Liu Bang-side figure who helps Xiao He persuade the Sishui supervisor Ping to surrender Huling.
 - [曹无伤 / Cao Wushang](entities/CaoWushang.md) — Liu Bang's left sima who captures and kills the Sishui commandery governor Zhuang near Xue, later flagged for the Hongmen Banquet branch.
 - [赵厮养卒 / Zhao Servant Envoy](entities/ZhaoServantEnvoy.md) — Anonymous low-status Zhao camp servant who persuades Yan to release Wu Chen by reframing his death as a pretext that would empower Zhang Er and Chen Yu.
@@ -1280,7 +1283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [嬴将闾 / Ying Jianglu](entities/YingJianglu.md) — Qin prince whose unanswered request for a real charge shows the procedural emptiness of Hu Hai's royal purge.
 - [子婴 / Ziying (Qin)](entities/ZiyingQin.md) — Qin prince who warns Hu Hai not to kill Meng Tian and Meng Yi by citing Zhao's loss of Li Mu and Qi's old-minister killings.
 - [冯去疾 / Feng Quji](entities/FengQuji.md) — Qin minister named by the 《赵正书》 variant in Qinji 127-3 as part of the deathbed argument for choosing nearby Hu Hai.
-- [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider who moves from death secrecy and forged succession into Hu Hai's harsh-law purge of ministers and royal kin.
+- [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider who moves from death secrecy and forged succession into palace access monopoly, Li Si's coerced confession, and chancellor power under Hu Hai.
 - [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
 - [《赵正书》 / Zhao Zheng Shu](entities/ZhaoZhengShu.md) — Western Han bamboo manuscript used by Qinji 126 part 2 to support the final-tour-as-fate-change reconstruction.
 - [秦始皇晚年异象危机 / Qin Late Omen Crisis](entities/QinLateOmenCrisis.md) — 211 BCE omen cluster around Qin Shi Huang: 荧惑守心, Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the later "游徙吉" response.
@@ -1381,7 +1384,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [楚幽王 / King You of Chu](entities/ChuYouwang.md) — Young Chu ruler who succeeds after Chu Kaolie Wang's death while Li Yuan and his sister control the court in Qinji 109-2.
 - [贾谊 / Jia Yi](entities/JiaYi.md) — Early Western Han writer whose Guo Qin Lun praise of the Warring States Four Lords is contrasted with Yang Xiong and Sima Guang's criticism.
 - [《过秦论》 / Guo Qin Lun](entities/GuoQinLun.md) — Jia Yi essay cited for praising the Four Lords as wise, loyal, generous, and respectful of worthy people in an anti-Qin explanatory frame.
-- [李斯 / Li Si](entities/LiSi.md) — Qin minister whose early mouse philosophy, Xunzi study, Qin entry, and Jian Zhu Ke Shu response turn guest expulsion into a state-strategy argument.
+- [李斯 / Li Si](entities/LiSi.md) — Qin minister whose arc runs from mouse philosophy and Qin entry through imperial policy design, Hu Hai's accession, coerced confession, and waist-chopping execution.
 - [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial arguing that Qin's historical success depended on foreign guest talent and that expulsion would strengthen enemy states.
 - [李源 / 李元 / Li Yuan (Warring States)](entities/LiYuanWarringStates.md) — Zhao-origin retainer who uses his sister's pregnancy, Chu Kaolie Wang's childlessness, and Chunshenjun's fear to enter Chu's succession center, then kills Chunshenjun after Mi Wan dies.
 - [李源妹妹 / 李元妹妹 / Li Yuan's Sister](entities/LiYuanSister.md) — Woman whose pregnancy by Chunshenjun is redirected into Chu Kaolie Wang's palace and becomes the vehicle for a hidden-heir succession plot.
@@ -1573,7 +1576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
 - [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Wangba theory, Jixia and Lanling biography, 性恶论, and the Li Si/Han Fei student branch.
 - [《荀子》 / Xunzi](entities/XunziText.md) — Pre-Qin text whose Wangba chapter supplies the episode's three-path ruler framework and whose Chengxiang chapter appears as a transcript-noisy side note.
-- [秦二世 / 胡亥 / Qin Er Shi](entities/QinErshi.md) — Qin ruler whose contested accession, pleasure-seeking, and Zhao Gao-backed purge turn insecurity into royal and ministerial slaughter.
+- [秦二世 / 胡亥 / Qin Er Shi](entities/QinErshi.md) — Qin ruler whose contested accession, pleasure-seeking, Zhao Gao-backed purge, and captured review process turn insecurity into royal, ministerial, and family slaughter.
 - [周武王 / King Wu of Zhou](entities/ZhouWuwang.md) — Classical kingly-rule exemplar paired with Shang Tang in the episode's Xunzian Wangba framework.
 - [蒙敖 / Meng Ao](entities/MengAo.md) — Qin commander identified by the source as the correct 285 BCE general against Qi, replacing the chronicle's Meng Wu notice through a Shiji correction.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
@@ -7735,6 +7738,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Coerced Confession Trap / 逼供认罪陷阱](concepts/CoercedConfessionTrap.md) — Pattern where torture and staged review teach a prisoner to repeat a false confession before the real review arrives.
+- [Dongmen Yellow Dog / 东门黄犬](concepts/DongmenYellowDog.md) — Li Si regret idiom contrasting late power disaster with ordinary hometown pleasure and missed retreat from office.
 - [Palace Access Monopoly / 宫廷接触垄断](concepts/PalaceAccessMonopoly.md) — Pattern where a court actor controls who can reach the ruler, turning advice, petitions, and timing into weapons.
 - [Restored Royal Figurehead Legitimacy / 复国王室名义合法性](concepts/RestoredRoyalFigureheadLegitimacy.md) — Pattern where a military organizer installs a low-power old royal descendant to borrow lineage, grievance, and public sympathy.
 - [Claim Restraint Through Attachment / 有所归属式名位节制](concepts/ClaimRestraintThroughAttachment.md) — Chen Ying pattern where a local rebel avoids top-title exposure by attaching to a stronger claimant.

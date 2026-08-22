@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6514
+wiki_total_pages: 6516
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "Shangyong"
     title: "上庸 / Shangyong"
     url: "/wiki/entities/shangyong/"
+  - key: "Shangcai"
+    title: "上蔡 / Shangcai"
+    url: "/wiki/entities/shangcai/"
   - key: "Shangjun"
     title: "上郡 / Shangjun"
     url: "/wiki/entities/shangjun/"
@@ -1394,6 +1397,9 @@ wiki_pages:
   - key: "SunRuoxi"
     title: "孙若曦 / Sun Ruoxi"
     url: "/wiki/entities/sunruoxi/"
+  - key: "SongYi"
+    title: "宋义 / Song Yi"
+    url: "/wiki/entities/songyi/"
   - key: "SongRenzong"
     title: "宋仁宗 / Song Renzong"
     url: "/wiki/entities/songrenzong/"

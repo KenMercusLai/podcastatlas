@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5039
+wiki_total_pages: 5041
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "CodingDemocratization"
     title: "Coding Democratization / Coding 平权"
     url: "/wiki/concepts/codingdemocratization/"
+  - key: "CoercedConfessionTrap"
+    title: "Coerced Confession Trap / 逼供认罪陷阱"
+    url: "/wiki/concepts/coercedconfessiontrap/"
   - key: "CoercedDenunciation"
     title: "Coerced Denunciation"
     url: "/wiki/concepts/coerceddenunciation/"

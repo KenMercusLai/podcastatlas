@@ -2,7 +2,7 @@
 title: "李由 / Li You"
 type: entity
 tags: [person, qin, military, official]
-sources: [zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
+sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
 last_updated: 2026-08-22
 ---
 
@@ -14,9 +14,12 @@ Li You's role in this episode is positional rather than biographical. By holding
 
 [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]] turns that positional role into a family-political vulnerability. [[ZhaoGao|赵高]] tells [[QinErshi|胡亥 / 秦二世]] that Li You governs [[SanchuanWarringStates|三川]], that rebels associated with [[ChenSheng|陈胜]] have local ties to [[LiSi|李斯]], and that Li You may have let rebels pass or exchanged letters with them. The episode treats this as a constructed accusation surface against Li Si rather than as settled proof of Li You's conduct.
 
+[[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] makes the constructed nature of the accusation clearer. The source says Hu Hai's envoy investigates Li You in Sanchuan and reports that there is no rebellion evidence, but Zhao Gao tells Hu Hai the opposite. Li You therefore remains important here less as an independent actor than as the family handle through which Zhao Gao can make Li Si's forced confession look plausible.
+
 ## Connections
 - [[LiSi|李斯]] - father named by the source.
 - [[YingyangWarringStates|荥阳]] and [[SanchuanWarringStates|三川]] - battlefield and commandery office.
 - [[WuGuang|吴广]], [[TianZang|田臧]], and [[ZhangChuRegime|张楚政权]] - rebel attackers and internal crisis produced by the failed siege.
 - [[QinState|秦国]] and [[QinErshi|胡亥 / 秦二世]] - regime and ruler context.
 - [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]] and [[ZhaoGao|赵高]] - accusation that converts Li You's commandery office into pressure against Li Si.
+- [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] and [[CoercedConfessionTrap|逼供认罪陷阱]] - envoy report and Zhao Gao's false summary to Hu Hai.

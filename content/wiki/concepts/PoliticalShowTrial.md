@@ -2,7 +2,7 @@
 title: "Political Show Trial"
 type: concept
 tags: [politics, law, religion, power]
-sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
 last_updated: 2026-07-18
 ---
 
@@ -16,6 +16,8 @@ The episode contrasts Bernard's process with [[WilliamOfBaskerville|巴斯克维
 
 [[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]] adds the [[SalemWitchTrials|塞勒姆猎巫]] as a colonial legal-religious case. The source presents the trials as proceedings where questions were shaped by guilt assumptions, [[SpectralEvidence]] converted visions into proof, and confession could become a route to survival by naming others.
 
+[[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] adds an imperial-prison version through [[LiSi|李斯]]. The result does not depend on a public courtroom spectacle; [[ZhaoGao|赵高]] produces the required political truth by torture, intercepted memorials, fake officials, and a real review that receives the already-manufactured confession. The show-trial element is the preselected outcome disguised as checked guilt.
+
 ## Key Claims
 - Power can turn ambiguous signs into legal or religious certainty.
 - Vulnerable people are more likely to become explanatory sacrifices when institutions need closure.
@@ -23,6 +25,7 @@ The episode contrasts Bernard's process with [[WilliamOfBaskerville|巴斯克维
 - Show trials are a social version of [[InterpretationAndOverinterpretation]]: the authority decides which pattern counts before facts are tested.
 - Public denunciation can become show-trial-like even outside formal law when power demands a usable confession, enemy, or betrayal scene.
 - Witch-trial procedure adds that authority can use visible suffering, invisible harm claims, and religious explanation to make a preselected causal story look judicial.
+- Qinji 131-1 adds that a show trial can be private in production and public only in punishment: the decisive theater is the managed confession, not necessarily the hearing.
 
 ## Connections
 - [[BernardGui|贝尔纳 / Bernard Gui]] - inquisitorial figure who exemplifies the concept.
@@ -32,3 +35,4 @@ The episode contrasts Bernard's process with [[WilliamOfBaskerville|巴斯克维
 - [[InterpretationAndOverinterpretation]] - reasoning failure reinforced by power.
 - [[KnowledgeMonopoly]] - adjacent institutional control over truth, access, and judgment.
 - [[SalemWitchTrials]], [[SpectralEvidence]], and [[WitchHuntMechanism]] - witch-trial extension where weak evidence and public fear become legal certainty.
+- [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]], [[LiSi|李斯]], [[ZhaoGao|赵高]], [[CoercedConfessionTrap|逼供认罪陷阱]], and [[QinErshi|胡亥 / 秦二世]] - imperial-prison confession manufacturing and ruler-side confirmation.

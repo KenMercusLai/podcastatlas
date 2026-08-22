@@ -2,7 +2,7 @@
 title: "Duze Extraction Politics / 督责式压榨政治"
 type: concept
 tags: [governance, legalism, qin, rebellion]
-sources: [zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
+sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
 last_updated: 2026-08-22
 ---
 
@@ -18,12 +18,15 @@ The practical effect is a destructive metric system. Hu Hai reportedly treats gr
 
 [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]] shows the self-destructive sequel for Li Si himself. After validating Hu Hai's pleasure-preserving pressure logic in Qinji 129-2, Li Si cannot later use ordinary remonstrance to reverse the burdens. [[ZhaoGao|赵高]] has created [[PalaceAccessMonopoly|宫廷接触垄断]], and Hu Hai treats a request to stop [[AfangPalace|阿房宫]] and reduce rotations as disloyal ministerial failure.
 
+[[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] closes that self-destructive path. The pressure-and-punishment logic Li Si earlier helps dignify is now applied to him as prison torture and forced confession. This does not make Duze extraction identical to judicial coercion, but it shows the same court culture: severity produces the result the ruler and intermediary want, then treats that result as proof of loyalty and order.
+
 ## Key Claims
 - A ruler-technique argument can become politically catastrophic when it validates the ruler's desire to avoid responsibility.
 - Extraction and killing metrics can make officials optimize for visible severity rather than state repair.
 - Fear-driven advice is especially dangerous when the adviser depends on preserving office under a suspicious ruler.
 - The concept links late Qin's court pathology to field rebellion: bad incentives at the center make the social base less willing to defend the regime.
 - Qinji 130-4 adds that the extraction logic can trap its own author: once pressure and ruler pleasure are legitimized, later burden-reduction advice has little institutional standing.
+- Qinji 131-1 adds the terminal version: the author of the pressure logic is subjected to a pressure-driven confession process that converts pain into evidence.
 
 ## Connections
 - [[LiSi|李斯]], [[QinErshi|胡亥 / 秦二世]], and [[LiYou|李由]] - adviser, ruler, and family-pressure context.
@@ -32,3 +35,4 @@ The practical effect is a destructive metric system. Hu Hai reportedly treats gr
 - [[QinState|秦国]], [[DazexiangUprising|大泽乡起义]], and [[ZhangHanQin|章邯]] - regime, social rupture, and battlefield response context.
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[ZhuFangZhangChu|诸坊]], [[HuWuZhangChu|胡武]], and [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] - rebel-regime echo of severity-as-loyalty incentives.
 - [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[FengQuji|冯去疾]], [[FengJieQin|冯劫 / 冯杰]], and [[ImperialConstructionOverload|帝国工程过载]] - failed attempt to reverse burden pressure after access capture.
+- [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]], [[CoercedConfessionTrap|逼供认罪陷阱]], and [[DongmenYellowDog|东门黄犬]] - pressure logic returning onto Li Si as confession manufacturing and final regret.

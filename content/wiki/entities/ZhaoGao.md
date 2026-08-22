@@ -2,7 +2,7 @@
 title: "赵高 / Zhao Gao"
 type: entity
 tags: [person, qin-dynasty, court-politics, eunuch, legalism]
-sources: [zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]
+sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,10 @@ After Qin Shi Huang dies, Zhao Gao first persuades Hu Hai to use the imperial le
 
 The same source shows Zhao Gao moving from access control to direct destruction of Li Si. He frames Li Si as dissatisfied after the [[ShaqiuCrisis|沙丘]] transition, uses [[LiYou|李由]]'s [[SanchuanWarringStates|三川]] office as an accusation surface, and turns Li Si's memorial against Zhao Gao back on Li Si after Hu Hai gives it to him. Zhao Gao's strength here is not only slander, but control over the ruler's attention and emotional reading of events.
 
+[[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] turns that access control into control over prison procedure. Zhao Gao tortures Li Si into confession, intercepts the memorial that Li Si still hopes will reach [[QinErshi|胡亥 / 秦二世]], and sends fake officials to make denial repeatedly lead to more pain. When Hu Hai later sends a real reviewer, Li Si repeats the false confession, giving Zhao Gao a usable judicial result.
+
+The same episode adds Zhao Gao's final reward from the Li Si case. Even though a real envoy reportedly finds no proof that [[LiYou|李由]] rebelled, Zhao Gao tells Hu Hai that Li You did betray Qin. After Li Si's execution and family destruction, Hu Hai appoints Zhao Gao chancellor and lets him handle affairs large and small.
+
 ## Key Claims
 - Zhao Gao's legal skill and access to the imperial carriage office make him more than a palace attendant in the source's transition narrative.
 - His past death sentence under Meng Yi makes the Meng family a survival threat, not just a factional rival.
@@ -37,6 +41,7 @@ The same source shows Zhao Gao moving from access control to direct destruction 
 - Qinji 128-1 shows Zhao Gao converting Hu Hai's pleasure-seeking and legitimacy fear into a purge program that also expands Zhao Gao's own personnel control.
 - Qinji 128-2 carries Zhao Gao's influence from court purge into rebellion background: the source treats his prompting of Hu Hai's accession as one early cause of the regime path that ends at Dazexiang.
 - Qinji 130-4 adds access monopoly as Zhao Gao's next mechanism: he isolates Hu Hai from senior officials, controls remonstrance timing, and converts Li Si's warning into evidence against Li Si.
+- Qinji 131-1 adds prison-review capture: Zhao Gao uses torture, fake officials, intercepted memorials, and false reporting on Li You to turn accusation into confession and then into his own chancellorship.
 
 ## Connections
 - [[QinShiHuang|秦始皇]] - ruler who promoted and pardoned him.
@@ -49,3 +54,4 @@ The same source shows Zhao Gao moving from access control to direct destruction 
 - [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]], [[YingJianglu|嬴将闾]], [[YingGao|嬴高]], [[SuccessionLegitimacyPurge|继位合法性清洗]], and [[LegalistRulerTechnique|法家君术]] - harsh-law royal purge after Hu Hai returns to Xianyang.
 - [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[DazexiangUprising|大泽乡起义]], and [[FatalDeadlineRebellionTrigger|误期死局式起义触发]] - accession manipulation as background to the social crisis.
 - [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[LiYou|李由]], [[TianChang|田常 / 田恒]], [[FengQuji|冯去疾]], and [[FengJieQin|冯劫 / 冯杰]] - isolation of Hu Hai, staged resentment against Li Si, and the failed ministerial correction.
+- [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]], [[CoercedConfessionTrap|逼供认罪陷阱]], [[PoliticalShowTrial]], [[LiSi|李斯]], and [[QinErshi|胡亥 / 秦二世]] - coerced prison confession, blocked appeal, false review, and Zhao Gao's chancellor appointment.

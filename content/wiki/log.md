@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩
+
+Added source page for Qinji 131-1: Zhao Gao's torture-driven investigation of Li Si and Li You, intercepted memorial, fake official reviews that condition Li Si to repeat a false confession before a real reviewer, Zhao Gao's false report about Li You, Li Si's five-punishment and waist-chopping execution at Xianyang, family and clan destruction, Dongmen Yellow Dog regret, and Zhao Gao's appointment as chancellor. Created Coerced Confession Trap, Dongmen Yellow Dog, Song Yi, and Shangcai; updated overview, index, Li Si, Zhao Gao, Qin Er Shi, Li You, Xiang Liang, Palace Access Monopoly, Court Feedback Collapse, Collateral Punishment And Guilt By Association, Political Show Trial, Mouse Philosophy, Duze Extraction Politics, and Power Exit Trap. No settled contradiction found; treated the Fusu alternative as source-scoped counterfactual commentary and refined the Li You accusation as unsupported by the envoy report in this episode.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》130-4｜如何定论秦相李斯的下场
 
 Added source page for Qinji 130-4: Zhao Gao's isolation of Hu Hai from senior officials, staged audience timing that turns Li Si's remonstrance into irritation, accusations linking Li You's Sanchuan office to rebel collusion, Li Si's failed counter-memorial using Tian Chang / 田恒 as warning, and the arrest of Feng Quji, Li Si, and Feng Jie after they ask Hu Hai to suspend Afang Palace and reduce burdens. Created Feng Jie (Qin) and Palace Access Monopoly; updated overview, index, Li Si, Zhao Gao, Qin Er Shi, Feng Quji, Li You, Tian Chang, Afang Palace, Qin State, Court Feedback Collapse, Duze Extraction Politics, and Legalist Ruler Technique. No settled contradiction found; kept the source's "田恒" form linked to Tian Chang rather than the later anti-Qin Tian Heng page, and preserved 冯杰 as a transcript form for Feng Jie.
@@ -9727,3 +9731,7 @@ Ran lint after health and identity validation passed. Health scanned 12,751 wiki
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,763 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identity validation found no case-insensitive key or public-route collisions. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while current lint scanned 12,763 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded marker scan surfaced existing source-scoped tensions rather than a new hard contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
