@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你
+
+Added source page for Hanji 150 PLUS: a short reflection using Zeng Guofan to frame "成事" as long-term endurance, patient accumulation, self-discipline,善念/善言/善行, and gradual self-change rather than a burst of effort. Created Long-Term Achievement Discipline; updated overview, index, Zeng Guofan, Late-Blooming Talent, Human Nature Plasticity, and Virtue Practice Internalization. No settled contradiction found; kept the Zeng childhood anecdote as illustrative and the "2023" action frame as source-dated despite the 2026-01-14 file date.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）
 
 Added source page for Hanji 149 part 2: Zheng Chang's appointment and surrender, Shen Yang's surrender and Henan Commandery conversion, Han Wang Xin's disambiguated Han kingship, Liu Bang's move to Liyang and seizure of Longxi/Beidi, Xiang Yu's Qi campaign and atrocity backfire after Tian Rong's death, Wei Bao's reward-allocation-driven surrender, and Sima Ang's capture with Henei Commandery creation. Created Han Wang Xin, Zheng Chang (Han King), Liyang (Qin-Han), Henan Commandery (Chu-Han), Henei Commandery, and Zhang Ping (Qin General); updated overview, index, Liu Bang, Xiang Yu, Tian Rong, Shen Yang, Wei Bao, Sima Ang, Longxi Commandery, Beidi Commandery, Guanzhong Region, Han Xin, Xiao He, Zhang Liang, Yingchuan, Sanchuan, Guan Ying, Atrocity Backfire Mobilization, Occupation Pacification Strategy, Political Surrender Cascade, Conquest Commandery Transition, Strategic Capital Relocation, Reward Allocation Backlash, Coalition Settlement Failure, and Three Qin Containment. No settled contradiction found; disambiguated Han Wang Xin from Han Xin, Zhang Ping (Qin General) from Zhang Ping (Han), and Liyang (Qin-Han) from other romanized Liyang locations.
@@ -9954,6 +9958,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判
 
 Added source page for Hanji 148-1: Han Xin's post-Hanzhong-Dui execution plan, "申军法" as Qin-style military reorganization, the later reception of "明修栈道，暗渡陈仓," Guan Ying/Fan Kuai/Cao Shen's side-route actions, Zhang Han's second-order misread, the Chen Cang central breakthrough, Zhang Han's defeats at Chen Cang and Haozhi, and Sima Xin/Dong Yi's surrender. Created Chen Cang, Han Inherits Qin System, and Layered Feint Central Breakthrough; updated overview, index, Han Xin, Liu Bang, Zhang Han, Three Qin Containment, Hanzhong Dui, Strategic Retreat Base-Building, Military Merit Rank System, Guan Ying, Fan Kuai, Cao Shen, Sima Xin, Dong Yi, Hanzhong, Guanzhong Region, Sunzi Bingfa, Laozi, and Zhuge Liang. No settled contradiction found; kept the idiom-origin correction as reception history rather than a conflict with existing campaign pages.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

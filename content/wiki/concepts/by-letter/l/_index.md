@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5073
+wiki_total_pages: 5074
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "LongTailModelHosting"
     title: "Long-Tail Model Hosting"
     url: "/wiki/concepts/longtailmodelhosting/"
+  - key: "LongTermAchievementDiscipline"
+    title: "Long-Term Achievement Discipline / 长期成事纪律"
+    url: "/wiki/concepts/longtermachievementdiscipline/"
   - key: "LongTermCareInsurancePlanning"
     title: "Long-Term Care Insurance Planning"
     url: "/wiki/concepts/longtermcareinsuranceplanning/"

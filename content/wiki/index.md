@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你](sources/zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7.md) — 芮淇讲透资治通鉴 PLUS episode using Zeng Guofan to frame 成事 as long-term endurance, self-discipline, patient accumulation, and self-change rather than short bursts of effort.
 - [《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）](sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Guanzhong absorption of Henan, Han, Longxi, Beidi, Wei, and Henei positions, Xiang Yu's punitive Qi campaign, and the contrast between surrender conversion and atrocity backfire.
 - [《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）](sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw.md) — 芮淇讲透资治通鉴 episode on Yi Emperor Mi Xin's killing, Xiang Yu's fear of symbolic legitimacy, Liu Bang's anti-Xiang mobilization pretext, and Zhao/Han-side defections toward Liu Bang.
 - [《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心](sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm.md) — 芮淇讲透资治通鉴 episode on Wang Ling's mother, Xiang Yu's hostage coercion, Liu Bang's Huaiwang-agreement claim, and settlement backlash across Qi, Yan, and Yi Emperor pressure.
@@ -1288,7 +1289,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [颍川郡 / Yingchuan Commandery](entities/YingchuanCommandery.md) — Qinji 136 massacre site that complicates Liu Bang's later pacification profile.
 - [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose disciplined armed force becomes Tian Rong's pressure tool against Xiang Yu's settlement.
 - [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose rebuke of Liu Bang's rude reception becomes Chenliu strategy, reward, and ethically compromised retainer service.
-- [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, tied to doubtful Bingjian attribution and language-based personnel judgment.
+- [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition and Hanji 150 PLUS's long-term self-cultivation discipline.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
 - [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — Western Han marquis and high military-political figure whose imprisonment and self-starvation fulfill Xu Fu's staged prediction.
@@ -7999,6 +8000,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.
 - [Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续](concepts/SmallStateSurvivalByDistraction.md) — Pattern where a weak state's continued existence depends on larger powers being too busy, weak, distant, or compromised to absorb it.
 - [Late-Blooming Talent / 大器晚成式人才显现](concepts/LateBloomingTalent.md) — Life-course pattern where long-hidden preparation becomes consequential only when timing, recognition, and political stage align.
+- [Long-Term Achievement Discipline / 长期成事纪律](concepts/LongTermAchievementDiscipline.md) — Hanji 150 PLUS method where durable achievement grows from sustained attention, frustration tolerance, patient tending, and moral self-cultivation.
 - [Xingshan Theory / 性善论](concepts/XingShanTheory.md) — Mencian human-nature optimism grounded in moral sprouts and linked to benevolent government, kept inside a broader human-plasticity frame.
 - [Human Nature Plasticity / 人性可变性](concepts/HumanNaturePlasticity.md) — Synthesis of the Mencius-Xunzi contrast that treats conduct as changeable through environment, motive, need, education, law, ritual, and crisis.
 - [Disaster Civilization Retreat / 灾变中的文明退场](concepts/DisasterCivilizationRetreat.md) — Crisis ethics frame where disaster thins civilized restraint and safety design must account for panic, scarcity, and survival impulses.
