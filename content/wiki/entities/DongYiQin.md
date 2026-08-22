@@ -2,7 +2,7 @@
 title: "董义 / 董翳 / Dong Yi (Qin)"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ Like [[SimaXin|司马欣]], Dong Yi is not developed as an independent decision-
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Dong Yi / 董翳 his settlement title. Because he had persuaded [[ZhangHanQin|章邯]] to surrender, [[XiangYu|项羽]] makes him Di king over the Shang commandery area. He therefore joins Zhang Han and [[SimaXin|司马欣]] in [[ThreeQinContainment|三秦压制]], converting a surrendered Qin official into a territorial blocker against [[LiuBang|刘邦]].
 
+[[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] uses Dong Yi / 董翳 as part of the same unstable Three Qin layer. In [[HanXin|韩信]]'s [[HanzhongDui|汉中对]], the issue is not Dong Yi's individual policy but the collective reputation of Zhang Han, Sima Xin, and Dong Yi among Qin people after years of losses and [[XinanMassacre|新安坑降]]. His Di kingship therefore marks containment by title without secure local support.
+
 ## Connections
 - [[SimaXin|司马欣]] - co-named Qin assistant in the episode.
 - [[ZhangHanQin|章邯]] - campaign commander he is sent to support.
 - [[QinErshi|胡亥 / 秦二世]] and [[QinState|秦国]] - ruler and state context.
 - [[ZhangChuRegime|张楚政权]] and [[RebelFounderAlienation|起义首领人心疏离]] - collapsing rebel target.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], [[ZhangHanQin|章邯]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - spared senior surrendered leader in the Xinan branch.
+- [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[LiuBang|刘邦]], and [[GuanzhongRegion|关中]] - Di kingship as part of Han Xin's weak-containment diagnosis.

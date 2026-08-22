@@ -2,7 +2,7 @@
 title: "汉中 / Hanzhong"
 type: entity
 tags: [place, region, pre-qin, warring-states, chu-state, qin-state]
-sources: [zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The episode's interpretive point is that Hanzhong should have become [[ChuHuaiwa
 
 [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]] shows the human cost of that constrained launch position. Once Liu Bang reaches [[Nanzheng|南郑]], many followers miss the eastern homeland and desert. The episode uses [[HanXin|韩信]]'s own flight and [[XiaoHe|萧何]]'s pursuit to show that Hanzhong can become a real base only if [[StrategicRetreatBaseBuilding|退让式根据地经营]] includes credible rank, ceremony, and future offensive purpose.
 
+[[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] supplies that future offensive purpose through [[HanzhongDui|汉中对]]. Hanzhong is no longer only the place Liu Bang was pushed into by [[XiangYu|项羽]]'s settlement; it becomes the analysis room from which Han Xin identifies [[GuanzhongRegion|关中]] and the [[ThreeQinContainment|Three Qin]] as the first breakable target.
+
 ## Connections
 - [[DanyangBattle|丹阳之战]] - battle after which Qin takes the region.
 - [[QinState|秦国]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - capturing state, losing state, and ruler.
@@ -25,3 +27,4 @@ The episode's interpretive point is that Hanzhong should have become [[ChuHuaiwa
 - [[AngerDrivenWarDecision|因怒兴师]] - decision frame in which recovery priorities collapse.
 - [[MinisterAsExchangeableAsset|可交换功臣]] - Zhouji 53 interpretation of why Zhang Yi's prior territorial service does not guarantee personal protection.
 - [[Nanzheng|南郑]], [[HanXin|韩信]], [[XiaoHe|萧何]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - Hanji 146 morale and talent-retention test inside the Han base.
+- [[HanzhongDui|汉中对]], [[GuanzhongRegion|关中]], and [[ThreeQinContainment|三秦压制]] - Hanji 147 conversion of the base into an eastward strategy.

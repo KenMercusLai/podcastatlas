@@ -2,7 +2,7 @@
 title: "韩信 / Han Xin"
 type: entity
 tags: [person, chu-han, military, han]
-sources: [zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
+sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ That second episode also makes Han Xin's restraint more explicitly strategic. Hi
 
 After following [[LiuBang|刘邦]] into [[Hanzhong|汉中]], Han Xin remains underused as a minor or mid-level officer and nearly dies under military law before [[XiahouYing|夏侯婴]] notices him. The grain-supply commandant post then places him near [[XiaoHe|萧何]], whose stronger judgment converts Han Xin from a replaceable officer into a "国士无双" figure. When Han Xin flees [[Nanzheng|南郑]], Xiao He's pursuit and insistence on full appointment ceremony make Han Xin the source case for [[RitualizedCommandAppointment|仪式化拜将留才]].
 
+[[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] gives the immediate payoff of that appointment. Han Xin opens by making Liu Bang admit that he is weaker than Xiang Yu in visible force, then turns the comparison around: Xiang Yu's bravery lacks delegation, his kindness lacks reward execution, and his settlement choices have alienated [[GuanzhongRegion|关中]]. This becomes [[HanzhongDui|汉中对]], a plan to use Liu Bang's prior [[YuefaSanzhang|约法三章]] and the weakness of [[ThreeQinContainment|三秦压制]] to take the Three Qin before reopening the eastward contest.
+
 ## Connections
 - [[LiuBang|刘邦]], [[Hanzhong|汉中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - immediate source setting for Han Xin's first appearance.
 - [[RewardAllocationBacklash|分配反噬]], [[XiangYu|项羽]], and [[CoalitionSettlementFailure|联军战后安排失败]] - settlement conditions that make disappointed talent mobile.
@@ -34,3 +36,4 @@ After following [[LiuBang|刘邦]] into [[Hanzhong|汉中]], Han Xin remains und
 - [[GreatCourageUnderHumiliation|忍辱大勇]] and [[SuShi|苏轼]] - interpretation of "胯下之辱" as restraint under a larger aim.
 - [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]], [[SunziBingfa|《孙子兵法》]], [[JiangTaigong|姜太公]], and [[AngerDrivenWarDecision|因怒兴师]] - source-scoped training inference and interest-gated action discipline.
 - [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]], [[XiahouYing|夏侯婴]], [[XiaoHe|萧何]], [[Nanzheng|南郑]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - transition from ignored talent to publicly retained command capacity.
+- [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[GuanzhongRegion|关中]], and [[ThreeQinContainment|三秦压制]] - transition from appointment to concrete west-to-east strategy.

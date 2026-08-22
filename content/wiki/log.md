@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》147｜媲美诸葛亮隆中对的“汉中对”
+
+Added source page for Hanji 147: Han Xin's post-appointment strategy audience with Liu Bang, his comparison of Liu Bang's visible weakness against Xiang Yu, his critique of Xiang Yu's "匹夫之勇" and "妇人之仁," Xiang Yu's Guanzhong, Huaiwang-agreement, Yi Emperor, reward, and people-support failures, and the conclusion that Liu Bang can attack the Three Qin by combining Guanzhong memory, Yuefa Sanzhang, and resentment toward Zhang Han, Sima Xin, and Dong Yi after Xinan. Created Hanzhong Dui; updated overview, index, Han Xin, Liu Bang, Xiao He, Xiang Yu, Hanzhong, Nanzheng, Guanzhong Region, Three Qin Containment, Strategic Retreat Base-Building, Ritualized Command Appointment, Huaiwang Agreement, Yuefa Sanzhang, Xinan Massacre, Zhang Han, Sima Xin, and Dong Yi. No settled contradiction found; kept Han Xin's departure motive and the likely Xiao He-Han Xin long talk as source-scoped inference.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈
 
 Added source page for Qinji 137: Zhang Han's post-Julu trap under Qin Er Shi's rebuke and Zhao Gao's court control, Sima Xin's failed Xianyang mission, Chen Yu's surrender letter using Bai Qi and Meng Tian as warning examples, Xiang Yu's acceptance of Zhang Han's surrender and criticized 雍王 settlement, Zhao Gao's 指鹿为马 loyalty test, hidden news of Wang Li's capture and Zhang Han's losses, Liu Bang's capture of Wuguan, and Hu Hai's dream/ritual response before questioning Zhao Gao. Created Pointing Deer As Horse and Crisis Information Blockade; updated overview, index, Zhang Han, Sima Xin, Chen Yu, Wang Li, Zhao Gao, Qin Er Shi, Xiang Yu, Liu Bang, Julu Battle, Wuguan, Huaiwang Agreement, Coalition Settlement Failure, and Palace Access Monopoly. No settled contradiction found; normalized source variants 张涵 and 陈瑜 to the canonical Zhang Han / Chen Yu pages and left the uncertain "屎城" envoy form unmaterialized.
@@ -9926,6 +9930,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信
 
 Added source page for Hanji 146: Han Xin's move from Xiang Liang and Xiang Yu into Liu Bang's Hanzhong camp, his underuse as langzhong and then minor Liu-side officer, near execution and Xiahou Ying's first recognition, grain-supply commandant role, Xiao He's deeper evaluation, Nanzheng desertion pressure, Xiao He's pursuit after Han Xin flees, the "国士无双" argument, and the demand for formal commander-appointment ceremony. Created Ritualized Command Appointment; updated overview, index, Han Xin, Xiao He, Liu Bang, Xiang Yu, Xiahou Ying, Nanzheng, Hanzhong, and Strategic Retreat Base-Building. No settled contradiction found; kept Han Xin's possible advice to Xiang Yu and the motive behind his military-law incident as source-scoped inference.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

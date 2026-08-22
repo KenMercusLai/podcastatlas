@@ -2,7 +2,7 @@
 title: "Ritualized Command Appointment / 仪式化拜将留才"
 type: concept
 tags: [leadership, talent, command, ritual, chu-han]
-sources: [zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl]
+sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl]
 last_updated: 2026-08-22
 ---
 
@@ -16,12 +16,15 @@ The concept differs from generic respect for talent. [[TalentAttractionThroughRe
 
 It also extends [[StrategicRetreatBaseBuilding|退让式根据地经营]]. Hanzhong can become a base only if Liu Bang's side does more than survive geographically: it must hold people such as Han Xin, give them usable authority, and make the surrounding army understand that the appointment is serious.
 
+[[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] shows the mechanism's immediate output. Because Liu Bang has already treated Han Xin's appointment as public and serious, Han Xin can speak from the position of a chief commander rather than a clever subordinate. The resulting [[HanzhongDui|汉中对]] turns ceremony into strategy: the appointment creates enough authority for Han Xin to critique [[XiangYu|项羽]], name [[ThreeQinContainment|三秦压制]] as the first target, and redirect the Hanzhong base toward [[GuanzhongRegion|关中]].
+
 ## Key Claims
 - Hidden talent is not retained by private praise alone; the role and public signal must match the person's expected contribution.
 - A senior insider can translate latent ability into appointment only by linking it to the ruler's true strategic goal.
 - Ceremony can be operational, not decorative, when it makes authority legible to the appointee and to the rest of the organization.
 - Underused talent may rationally exit if the organization offers only small posts, casual attention, or vague future promise.
 - The Han Xin case turns Hanzhong from mere confinement into a personnel test: the base is useful only if it can keep and empower future command capacity.
+- Hanji 147 adds that ceremony is validated by downstream strategic output: public authority lets the appointee define the campaign rather than merely receive orders.
 
 ## Connections
 - [[HanXin|韩信]], [[XiaoHe|萧何]], and [[LiuBang|刘邦]] - source case.
@@ -29,3 +32,4 @@ It also extends [[StrategicRetreatBaseBuilding|退让式根据地经营]]. Hanzh
 - [[XiahouYing|夏侯婴]] and [[PrivateAccessTalentChannel|私人进身通道]] - earlier access channel that notices Han Xin but does not yet create decisive authority.
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[TalentReferralQuality|荐才层级质量]], [[StrategicRecognitionAlignment|谋略知己式归附]], and [[LateBloomingTalent|大器晚成式人才显现]] - adjacent talent-recognition concepts.
 - [[PowerEtiquetteReading|权力礼仪细读]] - broader method for treating ceremony, rank, and address as political evidence.
+- [[HanzhongDui|汉中对]], [[ThreeQinContainment|三秦压制]], and [[GuanzhongRegion|关中]] - immediate strategic payoff in Hanji 147.

@@ -2,7 +2,7 @@
 title: "萧何 / Xiao He"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -28,6 +28,8 @@ Xiao He then helps turn Liu Bang's outlaw force into a county army. After Liu Ba
 
 Xiao He's recommendation is not only praise. He frames Han Xin's value by Liu Bang's ambition: if Liu Bang only wants to remain king in Hanzhong, Han Xin is unnecessary; if Liu Bang wants the empire, no one else can plan it with him in the same way. Xiao He also insists that appointment must be formal and public rather than a casual tent summons, making him the source's carrier of [[RitualizedCommandAppointment|仪式化拜将留才]].
 
+[[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] shows why that recommendation could bear the weight Xiao He placed on it. The episode infers that Xiao He and [[HanXin|韩信]] likely had a long strategic conversation after the pursuit, because Liu Bang's later [[HanzhongDui|汉中对]] meeting reveals a fully formed plan for reversing [[ThreeQinContainment|三秦压制]]. Xiao He's role therefore extends from recognizing talent to putting his own credibility behind a strategist whose value only becomes legible once Liu Bang asks for concrete policy.
+
 ## Connections
 - [[LiuBang|刘邦]] - central figure whose bluff Xiao He manages.
 - [[LuGongLiuBangFatherInLaw|吕公]] and [[LuZhi|吕雉]] - banquet host and marriage outcome.
@@ -39,3 +41,4 @@ Xiao He's recommendation is not only praise. He frames Han Xin's value by Liu Ba
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Xianyang|咸阳]], [[AdministrativeArchiveCapture|行政档案接管]], [[YuefaSanzhang|约法三章]], and [[Bashang|霸上]] - archive capture and pacification administration after Qin's surrender.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[GuanzhongRegion|关中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - post-settlement restraint and base-building plan.
 - [[zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl|Hanji 146]], [[HanXin|韩信]], [[Nanzheng|南郑]], [[TalentReferralQuality|荐才层级质量]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - pursuit, recommendation, and formal appointment of Han Xin.
+- [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], and [[ThreeQinContainment|三秦压制]] - payoff of the recommendation in a concrete campaign design.

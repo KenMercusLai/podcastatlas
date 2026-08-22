@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5070
+wiki_total_pages: 5071
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "HandsetChipCoDesign"
     title: "Handset-Chip Co-Design"
     url: "/wiki/concepts/handsetchipcodesign/"
+  - key: "HanzhongDui"
+    title: "Hanzhong Dui / 汉中对"
+    url: "/wiki/concepts/hanzhongdui/"
   - key: "HanziTransdialectalFunction"
     title: "Hanzi Transdialectal Function"
     url: "/wiki/concepts/hanzitransdialectalfunction/"

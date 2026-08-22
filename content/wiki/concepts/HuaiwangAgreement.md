@@ -2,7 +2,7 @@
 title: "Huaiwang Agreement / 怀王之约"
 type: concept
 tags: [legitimacy, rebellion, qin, chu-han, coalition, reward]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
+sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,8 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives the rule's formal defeat without making it disappear. [[MiXin|芈心 / 楚怀王]] insists on the original promise when Xiang Yu asks to change it, but [[XiangYu|项羽]] denies Mi Xin's right to decide the post-Qin order and redistributes the world by claimed military merit. Liu Bang still receives a Han kingship tied rhetorically to [[BaShu|巴蜀]] and [[Hanzhong|汉中]], but [[ThreeQinContainment|三秦压制]] means the Guanzhong promise has been hollowed out in practice.
 
+[[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] shows the rule returning as an offensive legitimacy claim. In [[HanzhongDui|汉中对]], [[HanXin|韩信]] argues that Guanzhong people still know Liu Bang was the promised first entrant and that Xiang Yu's allocation to the Three Qin violated that expectation. The agreement therefore survives as political memory that can help Liu Bang attack [[ThreeQinContainment|三秦压制]] under the banner of restoring a known promise, not merely seizing territory.
+
 ## Key Claims
 - A coalition promise can coordinate ambition by making reward rules public before victory is complete.
 - The agreement converts anti-Qin action from inherited-state restoration into performance-based kingship.
@@ -43,6 +45,7 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 - Hanji 140 part 1 adds that the agreement can also become a pre-settlement military crisis when the first entrant controls the pass before the coalition leader arrives.
 - Hanji 140 part 2 adds that the first-entry rule can be rhetorically reversed from provocation into protection: Liu Bang's prior success lets Xiang Bo argue against attacking him as an unrighteous treatment of merit.
 - Hanji 142 adds Fan Kuai's banquet use of the rule: the agreement can still defend Liu Bang's merit claim even while Liu Bang tactically gives up the region to survive.
+- Hanji 147 adds that a formally defeated promise can retain campaign value when the affected population remembers who should have received the territory.
 
 ## Connections
 - [[MiXin|芈心 / 楚怀王]] - ruler whose court issues the agreement.
@@ -55,3 +58,4 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[ZhangHanQin|章邯]], [[XiangYu|项羽]], and [[CoalitionSettlementFailure|联军战后安排失败]] - 雍王 appointment as a post-victory challenge to the reward rule.
 - [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[CaoWushang|曹无伤]], [[XiangBo|项伯]], [[HanguPass|函谷关]], and [[HongmenYan|鸿门宴]] - first-entry claim converted into pass closure, attack planning, and then a merit-based argument for pausing the attack.
 - [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[FanKuai|樊哙]], [[Xianyang|咸阳]], and [[Bashang|霸上]] - banquet rebuke and survival through temporary submission.
+- [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[HanXin|韩信]], and [[ThreeQinContainment|三秦压制]] - renewed use of the first-entry promise as the legitimacy basis for taking the Three Qin.

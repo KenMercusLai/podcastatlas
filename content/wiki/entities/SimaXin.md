@@ -2,7 +2,7 @@
 title: "司马欣 / Sima Xin"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ His advice reframes Zhang Han's military problem as a political survival trap. I
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] makes Sima Xin one of the three Qin kings. Xiang Yu appoints him Sai king, with territory east of Xianyang toward the Yellow River, because of his earlier connection to [[XiangLiang|项梁]]. In the settlement, Sima Xin is no longer only a messenger and spared senior surrendered leader; he becomes part of the [[ThreeQinContainment|三秦压制]] barrier against [[LiuBang|刘邦]].
 
+[[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]] shifts that same title from barrier to vulnerability. In [[HanzhongDui|汉中对]], [[HanXin|韩信]] treats Sima Xin's Sai kingship as politically thin because Qin people remember the losses of Qin soldiers and the [[XinanMassacre|新安坑降]] split between dead common troops and spared senior leaders. Sima Xin's role in the Three Qin therefore helps explain why Liu Bang might take the region through legitimacy and proclamation, not only battlefield pressure.
+
 ## Connections
 - [[QinErshi|胡亥 / 秦二世]] - ruler who sends him to support the campaign.
 - [[ZhangHanQin|章邯]] and [[DongYiQin|董义]] - Qin counteroffensive figures named in the same passage.
@@ -27,3 +29,4 @@ His advice reframes Zhang Han's military problem as a political survival trap. I
 - [[QinState|秦国]] and [[CapitalDefenseMobilization|都城防卫动员]] - broader Qin capacity context from the preceding Qinji branch.
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[ZhaoGao|赵高]], [[Xianyang|咸阳]], and [[CrisisInformationBlockade|危机信息封锁]] - failed court mission, escaped pursuit, and warning that Zhang Han has no safe loyal option.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[ZhangHanQin|章邯]], [[DongYiQin|董翳]], and [[XinanMassacre|新安坑降]] - post-surrender command and survival of the senior leaders.
+- [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[LiuBang|刘邦]], and [[YuefaSanzhang|约法三章]] - Sai kingship as a weak point in Han Xin's Three Qin diagnosis.
