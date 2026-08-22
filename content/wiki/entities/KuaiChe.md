@@ -2,7 +2,7 @@
 title: "蒯彻 / Kuai Che"
 type: entity
 tags: [person, strategist, anti-qin, rebellion, chu-han]
-sources: [zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-23
 ---
 
@@ -26,7 +26,10 @@ His argument has two layers. The procedural layer is that Han Xin was ordered to
 
 When Han Xin answers through Liu Bang's chariot, clothing, food, and promotion, Kuai Che shifts from opportunity to danger. He uses [[ZhangEr|张耳]] and [[ChenYu|陈馀]] to argue that intense friendship can still collapse into lethal hostility, and [[WenZhongYue|文种]] under [[Goujian|越王勾践]] to argue that victory can make a great minister disposable. The episode leaves him as the adviser who names Han Xin's [[PowerExitTrap|权力退场困境]] most directly: return to Chu and be distrusted, remain with Han and be feared, or become an independent third pole.
 
+[[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] shows the argument failing in practice. Kuai Che presses timing and danger one more time, but [[HanXin|韩信]] remains caught between gratitude, expected reward, and hesitation. With no further path, Kuai Che withdraws by feigning madness and turns to divination, making his exit a survival move after a rejected high-risk counsel.
+
 ## Connections
+- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[HanXin|韩信]], [[TripartiteBalanceStrategy|三分天下式制衡]], and [[PowerExitTrap|权力退场困境]] - final failed warning and feigned-madness withdrawal.
 - [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[XiangYu|项羽]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], [[WenZhongYue|文种]], [[TripartiteBalanceStrategy|三分天下式制衡]], and [[PowerExitTrap|权力退场困境]] - completed warning that combines third-pole strategy, loyalty pressure, broken friendship, and post-victory minister danger.
 - [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[HanXin|韩信]], [[WuShe|武涉]], and [[TripartiteBalanceStrategy|三分天下式制衡]] - re-entry after Wu She's failed warning.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[HanXin|韩信]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], and [[QiState|齐国]] - later 蒯通 branch where he pushes Han Xin to attack Qi despite diplomatic submission.

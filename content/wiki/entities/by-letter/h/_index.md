@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6665
+wiki_total_pages: 6667
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "HeQianran"
     title: "何倩然 / He Qianran"
     url: "/wiki/entities/heqianran/"
+  - key: "HouGongChuHan"
+    title: "侯公 / Hou Gong (Chu-Han)"
+    url: "/wiki/entities/hougongchuhan/"
   - key: "HouYing"
     title: "侯嬴 / Hou Ying"
     url: "/wiki/entities/houying/"
@@ -860,6 +863,9 @@ wiki_pages:
   - key: "HanXiwang"
     title: "韩釐王 / King Xi of Han"
     url: "/wiki/entities/hanxiwang/"
+  - key: "HonggouSettlement"
+    title: "鸿沟议和 / Honggou Settlement"
+    url: "/wiki/entities/honggousettlement/"
   - key: "HuangYimeng"
     title: "黄一孟 / Huang Yimeng"
     url: "/wiki/entities/huangyimeng/"

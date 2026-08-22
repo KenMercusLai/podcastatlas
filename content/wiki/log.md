@@ -10253,3 +10253,11 @@ Added source page for Hanji 165-2: Kuai Che's completed warning to Han Xin, the 
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？
+
+Added source page for Hanji 166: Han Xin's final refusal of Kuai Che's third-pole warning, Kuai Che's feigned-madness withdrawal, Liu Bang's formal reward to Ying Bu, Lu Jia's failed negotiation, Hou Gong's successful Honggou agreement, the return of Liu Taigong and Lu Zhi, and Zhang Liang/Chen Ping's advice to pursue Xiang Yu after the truce. Created Hou Gong (Chu-Han), Honggou Settlement, and Instrumental Truce Breach; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Han Xin, Kuai Che, Lu Jia, Liu Taigong, Lu Zhi, Ying Bu, Zhang Liang, Chen Ping, Guangwu, Tripartite Balance Strategy, Power Exit Trap, Retainer Reciprocity Ethic, and Grace-Debt Loyalty Pressure. No settled contradiction found; the host's chronology correction around Wu She/Kuai Che and the claim that Liu Bang used the agreement instrumentally are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

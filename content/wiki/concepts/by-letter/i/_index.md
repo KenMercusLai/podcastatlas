@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5121
+wiki_total_pages: 5122
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "InstrumentalBeliefCritique"
     title: "Instrumental Belief Critique"
     url: "/wiki/concepts/instrumentalbeliefcritique/"
+  - key: "InstrumentalTruceBreach"
+    title: "Instrumental Truce Breach / 工具化议和毁约"
+    url: "/wiki/concepts/instrumentaltrucebreach/"
   - key: "InsurableInterestBoundary"
     title: "Insurable Interest Boundary"
     url: "/wiki/concepts/insurableinterestboundary/"

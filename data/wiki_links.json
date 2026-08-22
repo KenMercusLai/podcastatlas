@@ -19627,6 +19627,10 @@
     "title": "洪蔚琳",
     "url": "/wiki/entities/hongweilin/"
   },
+  "HonggouSettlement": {
+    "title": "鸿沟议和 / Honggou Settlement",
+    "url": "/wiki/entities/honggousettlement/"
+  },
   "Hongguo": {
     "title": "红果",
     "url": "/wiki/entities/hongguo/"
@@ -19782,6 +19786,10 @@
   "HouChao": {
     "title": "侯超 / Hou Chao",
     "url": "/wiki/entities/houchao/"
+  },
+  "HouGongChuHan": {
+    "title": "侯公 / Hou Gong (Chu-Han)",
+    "url": "/wiki/entities/hougongchuhan/"
   },
   "HouSheng": {
     "title": "后胜 / Hou Sheng",
@@ -20970,6 +20978,10 @@
   "InstrumentalBeliefCritique": {
     "title": "Instrumental Belief Critique",
     "url": "/wiki/concepts/instrumentalbeliefcritique/"
+  },
+  "InstrumentalTruceBreach": {
+    "title": "Instrumental Truce Breach / 工具化议和毁约",
+    "url": "/wiki/concepts/instrumentaltrucebreach/"
   },
   "InsurableInterestBoundary": {
     "title": "Insurable Interest Boundary",
@@ -51378,6 +51390,10 @@
   "zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb": {
     "title": "《资治通鉴·汉纪》165-2｜韩信为何至死也不背叛刘邦",
     "url": "/wiki/sources/zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb/"
+  },
+  "zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1": {
+    "title": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

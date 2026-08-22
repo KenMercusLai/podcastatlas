@@ -2,8 +2,8 @@
 title: "吕雉 / Lu Zhi"
 type: entity
 tags: [person, qin-han, family, western-han]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+last_updated: 2026-08-23
 ---
 
 # 吕雉 / Lu Zhi
@@ -22,7 +22,10 @@ The episode places Lu Zhi inside a wider Lu family network. Her brothers Lu Ze a
 
 The same episode then treats Chen Ping's apparent cooperation under Lu Zhi as controlled camouflage. He agrees publicly, avoids open martyrdom, and hides his later coordination with Zhou Bo until the anti-Lu action becomes possible.
 
+[[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] ends Lu Zhi's Chu-hostage sequence. After Hou Gong secures the Honggou agreement, Xiang Yu sends Lu Zhi and Liu Taigong back with ceremony. The episode treats their return as the immediate payoff of Liu Bang's negotiation before he reverses course and pursues Xiang Yu.
+
 ## Connections
+- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[LiuTaigong|刘太公]], [[HouGongChuHan|侯公]], [[HonggouSettlement|鸿沟议和]], and [[InstrumentalTruceBreach|工具化议和毁约]] - release from Chu captivity and hostage-first negotiation reading.
 - [[LuGongLiuBangFatherInLaw|吕公]] - father and decision-maker in the source.
 - [[LiuBang|刘邦]] - husband chosen through the banquet story.
 - [[LiuTaigong|刘太公]], [[WangLingHanMinister|王陵]], and [[WangLingMother|王陵母亲]] - Hanji 148-2 family-retrieval and hostage-coercion setting.

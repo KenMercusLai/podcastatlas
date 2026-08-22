@@ -2,7 +2,7 @@
 title: "广武 / Guangwu (Chu-Han)"
 type: entity
 tags: [place, chu-han, battlefield, standoff]
-sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7]
+sources: [zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ At Guangwu, Xiang Yu threatens to cook [[LiuTaigong]], only for Liu Bang to refu
 
 The same source makes Guangwu the scene of [[CommandContinuityDamageControl|统帅连续性危机处置]]. Xiang Yu's hidden crossbow shot hits Liu Bang, but Liu Bang calls it a toe wound and returns to camp while [[ZhangLiang|张良]] patrols to preserve army confidence. Guangwu therefore now links failed hostage pressure, failed duel pressure, legitimacy speech, and wound concealment into one central-front episode.
 
+[[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] follows the standoff into the separate [[HonggouSettlement|鸿沟议和]]. This page keeps Guangwu as the confrontation setting from Hanji 163-164, while Honggou Settlement records the later boundary agreement and hostage release that grow out of Chu's weakened position.
+
 ## Connections
+- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] and [[HonggouSettlement|鸿沟议和]] - later boundary agreement kept distinct from the Guangwu standoff setting.
 - [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[LegitimacyIndictmentWarfare|正当性控诉战]], [[CommandContinuityDamageControl|统帅连续性危机处置]], and [[ZhangLiang|张良]] - accusation speech, crossbow wound, and camp-stabilizing cover story.
 - [[LiuBang]] — holds the Han side of the standoff and refuses Xiang Yu's direct-pressure tactics.
 - [[XiangYu]] — tries hostage leverage, a duel challenge, and personal intimidation from a worsening supply position.

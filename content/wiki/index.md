@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？](sources/zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1.md) — 芮淇讲透资治通鉴 episode on Han Xin's final refusal of Kuai Che, Lu Jia and Hou Gong's Honggou negotiation, the return of Liu Taigong and Lu Zhi, and Liu Bang's post-truce pursuit of Xiang Yu.
 - [《资治通鉴·汉纪》165-2｜韩信为何至死也不背叛刘邦](sources/zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb.md) — 芮淇讲透资治通鉴 episode completing Kuai Che's warning to Han Xin through third-pole strategy, gratitude-based loyalty, Zhang Er/Chen Yu and Wen Zhong precedents, and the post-victory power-exit trap.
 - [《资治通鉴·汉纪》165-1｜刘邦这句话，差点弄丢大汉江山](sources/zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq.md) — 芮淇讲透资治通鉴 episode on Han Xin's Qi kingship request, Liu Bang's forced pivot from anger to real title, Wu She's三分天下 pitch, and Kuai Che's next warning.
 - [《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的](sources/zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Qi-front trap through the Battle of Weishui, Long Ju's contempt-driven pursuit, the dam-and-flood split of the Chu army, and Qi's collapse.
@@ -1283,6 +1284,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [侯公 / Hou Gong (Chu-Han)](entities/HouGongChuHan.md) — Liu Bang-side envoy who succeeds after Lu Jia and helps secure the Honggou settlement.
+- [鸿沟议和 / Honggou Settlement](entities/HonggouSettlement.md) — Chu-Han boundary-and-hostage agreement that returns Liu Taigong and Lu Zhi before Liu Bang resumes pursuit.
 - [武涉 / Wu She](entities/WuShe.md) — Xiang Yu-side persuader who tries to turn Han Xin's Qi power into neutrality or a Chu-Han-Qi tripartite balance after Long Ju's death.
 - [潍水之战 / Battle of Weishui](entities/WeishuiBattle.md) — Chu-Han battle where Han Xin dams the Weishui, feigns retreat, splits Long Ju's pursuing force with a timed flood, and triggers Qi's final collapse.
 - [广武 / Guangwu (Chu-Han)](entities/GuangwuChuHan.md) — Chu-Han standoff site where Liu Bang rejects Xiang Yu's hostage leverage and duel challenge after Han retakes Chenggao and Aocang.
@@ -7952,6 +7955,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Instrumental Truce Breach / 工具化议和毁约](concepts/InstrumentalTruceBreach.md) — source-scoped pattern where a truce is used to recover hostages and sequence advantage before renewed pursuit.
 - [Conceded Kingship Stabilization / 让封真王式稳局](concepts/ConcededKingshipStabilization.md) — Liu Bang's forced title concession to Han Xin, granting real Qi kingship to preserve alignment when denial would expose weakness.
 - [Tripartite Balance Strategy / 三分天下式制衡](concepts/TripartiteBalanceStrategy.md) — Wu She and Kuai Che's Hanji 165 proposal that Han Xin preserve Qi, Zhao, and Yan as a third pole between Liu Bang and Xiang Yu for self-protection.
 - [Command Continuity Damage Control / 统帅连续性危机处置](concepts/CommandContinuityDamageControl.md) — Hanji 164-1 pattern where a wounded commander and trusted proxy preserve army confidence by controlling the visible story of command continuity.
