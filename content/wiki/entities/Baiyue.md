@@ -2,8 +2,8 @@
 title: "百越 / Baiyue"
 type: entity
 tags: [peoples, region, pre-qin, warring-states, southern-china]
-sources: [zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
+last_updated: 2026-08-23
 ---
 
 # 百越 / Baiyue
@@ -14,7 +14,10 @@ The source stresses that Baiyue is not a single state. It is a collective name f
 
 [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] supplies that later post-unification campaign. In Qin Shi Huang's thirty-third year, the source says Qin drafts捕亡人,赘婿, and merchants for the southern expedition, takes the broad Lingnan region, and establishes [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], and [[XiangCommandery|象郡]]. The episode therefore turns Baiyue from a southeastern extension after Chu into a central case for [[PostUnificationWarInertia|统一后战争惯性]] and [[MarginalStatusConscription|边缘身份征发]].
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] moves the Baiyue branch into the Western Han founding settlement. The episode says [[WuRui|吴芮]] had led Baiyue groups in the anti-Qin campaign, and [[LiuBang|刘邦]] later makes him king of [[ChangshaKingdom|长沙国]]. The same episode pairs this with [[WuzhuMinyueKing|无诸 / Wuzhu]]'s [[Minyue|闽越]] kingship, linking broad Baiyue/Yue-descended southern forces to Han recognition politics.
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[WuRui|吴芮]], [[ChangshaKingdom|长沙国]], [[WuzhuMinyueKing|无诸 / Wuzhu]], and [[Minyue|闽越]] - southern coalition service and early Han title recognition.
 - [[WangJianQin|王翦]] - Qin commander tied to the episode's southern pacification notice.
 - [[QinState|秦国]] and [[ChuState|楚国]] - conquering state and recently destroyed southern opponent.
 - [[KuaijiCommandery|会稽郡]] - administrative endpoint created from the campaign in the source.

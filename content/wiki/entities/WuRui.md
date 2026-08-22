@@ -2,7 +2,7 @@
 title: "吴芮 / Wu Rui"
 type: entity
 tags: [person, official, anti-qin, rebellion, qin-han]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-23
 ---
 # 吴芮 / Wu Rui
@@ -19,7 +19,10 @@ The source notes that both Wu Rui and Ying Bu survive the broader turmoil. This 
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] shows Wu Rui surviving into the Han accession recognition field. He is named with [[HanXin|韩信]], [[HanWangXin|韩王信]], [[YingBu|英布]], [[ZhangAo|张敖]], and [[ZangTu|臧荼]] among the kings urging [[LiuBang|刘邦]] to accept the imperial title.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] gives the reward side of that survival. After accession, Liu Bang changes Wu Rui from the former Hengshan king into king of [[ChangshaKingdom|长沙国]], explicitly tying the grant to Wu Rui's earlier leadership of [[Baiyue|百越]] forces against Qin. Wu Rui therefore becomes one southern example of [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[ChangshaKingdom|长沙国]], [[Baiyue|百越]], and [[WesternHanDynasty|西汉]] - southern military contribution converted into founding-era kingship.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LiuBang|刘邦]], [[HanXin|韩信]], [[YingBu|英布]], [[ZhangAo|张敖]], and [[ZangTu|臧荼]] - accession-petition group.
 - [[YingBu|英布 / 黥布]] - son-in-law and military ally.
 - [[QinState|秦国]] and [[ZhangChuRegime|张楚政权]] - enemy regime and broader rebellion context.

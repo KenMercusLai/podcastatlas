@@ -2,7 +2,7 @@
 title: "统帅权再收束 / Command Authority Recapture"
 type: concept
 tags: [command, military, statecraft, chu-han]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
 last_updated: 2026-08-23
 ---
 # 统帅权再收束 / Command Authority Recapture
@@ -21,6 +21,8 @@ The episode's management frame is that delegated military success can become dan
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] reopens recapture after final victory. Once [[XiangYu|项羽]] is dead and [[HanXin|韩信]]'s independent battlefield value has peaked, Liu Bang enters Han Xin's camp at [[Dingtao|定陶]] and removes command again before converting him into Chu king. The move shows recapture as a postwar founding tool: the ruler reduces military autonomy before rewarding the same person with territorially bounded kingship.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] adds what that Chu conversion means after the army has been removed. The episode treats Han Xin's placement at [[Xiapi|下邳]] as [[HostileTerritoryRoyalContainment|敌意封国安置]]: command recapture strips the mobile army, and the following territorial grant places the overmighty commander in a jurisdiction where local Chu resentment can limit him.
+
 ## Key Claims
 - Delegation in wartime is reversible when the ruler can still control the symbols and procedures of command.
 - Recapturing authority can be executed through timing and surprise rather than open confrontation.
@@ -30,8 +32,10 @@ The episode's management frame is that delegated military success can become dan
 - Hanji 162-3 adds that recaptured authority still needs follow-through coordination; a newly delegated campaign can conflict with a parallel envoy if the ruler does not update the mandate.
 - Hanji 165-1 adds the limit case: once a delegated campaign produces territorial kingship leverage, the ruler may need to concede status rather than recapture command.
 - Hanji 169 adds the post-victory case: once the existential enemy is gone, recapture can return before a new kingship grant fixes the subordinate inside the founding order.
+- Hanji 169 part 2 clarifies that the post-victory grant may also contain through hostile jurisdiction, not only through loss of army.
 
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[HostileTerritoryRoyalContainment|敌意封国安置]], [[Xiapi|下邳]], and [[ChuState|楚国]] - post-recapture Chu kingship as hostile-territory containment.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[Dingtao|定陶]], [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]], [[HanXin|韩信]], and [[LiuBang|刘邦]] - post-victory army removal before Chu kingship.
 - [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[ConcededKingshipStabilization|让封真王式稳局]], [[LiuBang|刘邦]], and [[HanXin|韩信]] - title concession after command recapture no longer fits the power field.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[KuaiChe|蒯彻 / 蒯通]], and [[QiState|齐国]] - downstream command-update problem after Han Xin is sent toward Qi.

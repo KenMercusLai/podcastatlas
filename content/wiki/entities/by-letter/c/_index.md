@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6687
+wiki_total_pages: 6690
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1331,6 +1331,9 @@ wiki_pages:
   - key: "ChangjiangBusinessSchool"
     title: "长江商学院 / Cheung Kong Graduate School of Business"
     url: "/wiki/entities/changjiangbusinessschool/"
+  - key: "ChangshaKingdom"
+    title: "长沙国 / Changsha Kingdom"
+    url: "/wiki/entities/changshakingdom/"
   - key: "ChangshengFund"
     title: "长盛基金 / Changsheng Fund"
     url: "/wiki/entities/changshengfund/"

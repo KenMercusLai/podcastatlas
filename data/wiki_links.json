@@ -8015,6 +8015,10 @@
     "title": "Changsha / 长沙",
     "url": "/wiki/entities/changsha/"
   },
+  "ChangshaKingdom": {
+    "title": "长沙国 / Changsha Kingdom",
+    "url": "/wiki/entities/changshakingdom/"
+  },
   "ChangshengFund": {
     "title": "长盛基金 / Changsheng Fund",
     "url": "/wiki/entities/changshengfund/"
@@ -19783,6 +19787,10 @@
     "title": "Hostile Media Effect / 敌意媒体效应",
     "url": "/wiki/concepts/hostilemediaeffect/"
   },
+  "HostileTerritoryRoyalContainment": {
+    "title": "敌意封国安置 / Hostile-Territory Royal Containment",
+    "url": "/wiki/concepts/hostileterritoryroyalcontainment/"
+  },
   "HotelAssetLightFranchiseModel": {
     "title": "Hotel Asset-Light Franchise Model",
     "url": "/wiki/concepts/hotelassetlightfranchisemodel/"
@@ -28419,6 +28427,10 @@
     "title": "民生证券 / Minsheng Securities",
     "url": "/wiki/entities/minshengsecurities/"
   },
+  "Minyue": {
+    "title": "闽越 / Minyue",
+    "url": "/wiki/entities/minyue/"
+  },
   "MinzhengVocationalUniversity": {
     "title": "民政职业大学 / Minzheng Vocational University",
     "url": "/wiki/entities/minzhengvocationaluniversity/"
@@ -33146,6 +33158,10 @@
   "PostwarReconstructionFinance": {
     "title": "Postwar Reconstruction Finance",
     "url": "/wiki/concepts/postwarreconstructionfinance/"
+  },
+  "PostwarReturnAndVeteranRelief": {
+    "title": "战后复员安民 / Postwar Return and Veteran Relief",
+    "url": "/wiki/concepts/postwarreturnandveteranrelief/"
   },
   "PovertyTrapModernization": {
     "title": "Poverty-Trap Modernization / 贫困陷阱与现代化",
@@ -39122,6 +39138,10 @@
   "SpatialNavigationTorus": {
     "title": "Spatial Navigation Torus",
     "url": "/wiki/concepts/spatialnavigationtorus/"
+  },
+  "SpecialistDelegationLeadership": {
+    "title": "专才分工式领导力 / Specialist Delegation Leadership",
+    "url": "/wiki/concepts/specialistdelegationleadership/"
   },
   "SpecializedBuffetFormat": {
     "title": "Specialized Buffet Format / 细分自助餐",
@@ -45675,6 +45695,10 @@
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
   },
+  "WuzhuMinyueKing": {
+    "title": "无诸 / Wuzhu (Minyue king)",
+    "url": "/wiki/entities/wuzhuminyueking/"
+  },
   "WuzhuiHorse": {
     "title": "乌骓马 / Wuzhui Horse",
     "url": "/wiki/entities/wuzhuihorse/"
@@ -51514,6 +51538,10 @@
   "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi": {
     "title": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi/"
+  },
+  "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc": {
+    "title": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

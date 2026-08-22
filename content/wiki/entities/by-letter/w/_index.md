@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6687
+wiki_total_pages: 6690
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "WuyanCounty"
     title: "无盐县 / Wuyan County"
     url: "/wiki/entities/wuyancounty/"
+  - key: "WuzhuMinyueKing"
+    title: "无诸 / Wuzhu (Minyue king)"
+    url: "/wiki/entities/wuzhuminyueking/"
   - key: "WangyiPalace"
     title: "望夷宫 / Wangyi Palace"
     url: "/wiki/entities/wangyipalace/"

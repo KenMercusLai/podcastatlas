@@ -2,8 +2,8 @@
 title: "Great Courage Under Humiliation / 忍辱大勇"
 type: concept
 tags: [courage, patience, humiliation, chu-han, virtue]
-sources: [zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce]
+last_updated: 2026-08-23
 ---
 
 # Great Courage Under Humiliation / 忍辱大勇
@@ -16,14 +16,18 @@ This differs from generic passivity. The episode does not say every humiliation 
 
 [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] gives the concept a stronger military-intellectual layer. The source argues that Han Xin's restraint may reflect not only temperament but a learned habit from [[SunziBingfa|《孙子兵法》]]: action should be selected by advantage, not by anger, resentment, or crowd pressure. The humiliation scene therefore becomes an early sign of command psychology, because the future general already refuses to let another person's provocation choose the terms of engagement.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] returns to the old humiliation after Han Xin becomes Chu king. The episode reads his appointment of the man who humiliated him as zhongwei through [[HostileTerritoryRoyalContainment|敌意封国安置]]: in a potentially hostile Chu jurisdiction, turning a former aggressor into a grateful security official is not only magnanimity but practical self-protection.
+
 ## Key Claims
 - Forbearance becomes strategic only when it protects a larger future, not when it merely rationalizes fear.
 - Public humiliation pressures people into short-term retaliation because reputation is being judged in real time.
 - The episode reads Han Xin's silence as a psychological precondition for later scale: he can absorb social contempt without letting it dictate his horizon.
 - Classical commentary can transform an anecdote from moral embarrassment into a theory of courage.
 - Hanji 145 part 2 adds that humiliation-resilience can be read as an action-selection discipline: do not move when the move serves only anger.
+- Hanji 169 part 2 adds that later use of the humiliator can become a security and loyalty tactic after Han Xin is placed in Chu.
 
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[HostileTerritoryRoyalContainment|敌意封国安置]], and [[RetainerReciprocityEthic|士为知己者死]] - later rereading of the humiliator appointment as loyalty and security engineering.
 - [[HanXin|韩信]], [[Huaiyin|淮阴]], and [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145]] - source case.
 - [[SuShi|苏轼]], [[Shiji|《史记》]], and [[SimaQian|司马迁]] - classical interpretation and biography source chain.
 - [[StrategicRetreatBaseBuilding|退让式根据地经营]] - adjacent Chu-Han frame for preserving future agency through non-immediate action.

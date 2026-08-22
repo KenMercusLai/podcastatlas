@@ -2,7 +2,7 @@
 title: "Hanzhong Dui / 汉中对"
 type: concept
 tags: [strategy, chu-han, military, legitimacy, guanzhong]
-sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai]
 last_updated: 2026-08-23
 ---
 
@@ -18,6 +18,8 @@ The concept therefore links military plan, legitimacy claim, personnel policy, r
 
 [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] returns to the dialogue's personnel diagnosis in retrospective form. [[LongJuChuGeneral|龙且]]'s death at [[WeishuiBattle|潍水之战]] illustrates the Xiang Yu-side problem that able commanders can remain extensions of personal-force leadership, while [[LiuBang|刘邦]]'s closing comparison emphasizes his capacity to use specialists such as [[XiaoHe|萧何]], [[ZhangLiang|张良]], and [[HanXin|韩信]].
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] gives that retrospective comparison its founding-stage form. At the South Palace, Liu Bang explicitly states that he cannot match Zhang Liang, Xiao He, or Han Xin in their specialist domains, but that he can use them. The episode therefore connects the Hanzhong Dui's early personnel diagnosis to [[SpecialistDelegationLeadership|专才分工式领导力]] as a public explanation of the new order.
+
 ## Key Claims
 - Strategy can begin by making the patron state the unfavorable facts; Liu Bang's admission of weakness gives Han Xin's later reversal credibility.
 - Apparent personal virtues can be strategic defects if they do not become delegation, reward, and settlement capacity.
@@ -27,8 +29,10 @@ The concept therefore links military plan, legitimacy claim, personnel policy, r
 - The "one proclamation" claim is source-scoped strategic judgment: it does not mean no fighting, but that legitimacy and local support can lower the cost of taking the Three Qin.
 - Hanji 148-1 adds that the Hanzhong Dui requires execution capacity: institutional reform, subordinate coordination, and route deception convert the political opening into actual territory.
 - Hanji 164-2 adds retrospective proof of the personnel argument: Liu Bang's side can win through specialists while Xiang Yu's side loses trusted commanders who have not grown into independent strategic operators.
+- Hanji 169 part 2 adds the founding explanation: Liu Bang names specialist-use itself as the reason Han won.
 
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[SpecialistDelegationLeadership|专才分工式领导力]], [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] - South Palace formulation of the earlier personnel diagnosis.
 - [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[LongJuChuGeneral|龙且]], [[HanXin|韩信]], and [[RiverCrossingDeception|渡河欺敌]] - later battlefield illustration of the personnel and command-capacity diagnosis.
 - [[HanXin|韩信]], [[LiuBang|刘邦]], and [[XiaoHe|萧何]] - strategist, patron, and recommender behind the scene.
 - [[Hanzhong|汉中]], [[Nanzheng|南郑]], [[BaShu|巴蜀]], and [[GuanzhongRegion|关中]] - confined base and first target.

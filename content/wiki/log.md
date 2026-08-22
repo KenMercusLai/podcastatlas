@@ -10301,3 +10301,11 @@ Added source page for Hanji 169: Liu Bang's post-Xiang-Yu settlement through Lu 
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）
+
+Added source page for Hanji 169 part 2: Liu Bang's accession, Lu Zhi's empress title, Liu Ying's crown-prince status, Wu Rui's Changsha kingship, Wuzhu's Minyue kingship, Luoyang capital setting, postwar return-and-veteran relief, the South Palace explanation of Han victory through Zhang Liang, Xiao He, and Han Xin, and Han Xin's politically difficult Chu kingship with personal-security adaptation. Created Changsha Kingdom, Wuzhu (Minyue king), Minyue, Postwar Return and Veteran Relief, Specialist Delegation Leadership, and Hostile-Territory Royal Containment; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; the transcript's 吴珠 naming is preserved as source-scoped while linked to the Minyue Wuzhu context.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 13,103 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the wiki scan found 13,103 pages, so bridge findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic-marker scan surfaced existing source-scoped tensions rather than a new unhandled hard contradiction. Report returned in-session; `wiki/lint-report.md` was not updated.

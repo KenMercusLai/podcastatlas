@@ -2,7 +2,7 @@
 title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
 type: concept
 tags: [statecraft, founding, chu-han, legitimacy]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -16,13 +16,17 @@ It then moves through ruler-subordinate management. Liu Bang removes [[HanXin|�
 
 The final layer is legitimacy performance. A broad pardon, the kings' accession petition, [[ShusunTong|叔孙通]]'s ceremony, and Liu Bang's Luoyang question about why Han won all turn coercive victory into a narratable imperial beginning for [[WesternHanDynasty|西汉]].
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] extends the pattern beyond accession. The founding sequence now includes family ordering for [[LuZhi|吕雉]] and [[LiuYing|刘盈]], southern recognition through [[ChangshaKingdom|长沙国]] and [[Minyue|闽越]], [[PostwarReturnAndVeteranRelief|战后复员安民]], [[SpecialistDelegationLeadership|专才分工式领导力]], and [[HostileTerritoryRoyalContainment|敌意封国安置]] for Han Xin's Chu placement.
+
 ## Key Claims
 - Battlefield success must be followed by controlled surrender, enemy-symbol management, and decisions about former rivals' kin.
 - Founding rulers need to both reward and contain overmighty wartime contributors.
 - Pardon and ritual are not decorative after victory; they announce that violence is being translated into governance.
 - A ruler's explanation of victory matters because it tells the new political class what kind of capacity the dynasty claims to value.
+- Hanji 169 part 2 adds family title ordering, southern allied recognition, population/veteran repair, and hostile-territory containment as post-accession founding work.
 
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[ChangshaKingdom|长沙国]], [[Minyue|闽越]], [[PostwarReturnAndVeteranRelief|战后复员安民]], [[SpecialistDelegationLeadership|专才分工式领导力]], and [[HostileTerritoryRoyalContainment|敌意封国安置]] - accession aftermath and broader founding settlement.
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], [[LuCountyChuHan|鲁县]], [[XiangBo|项伯]], and [[XiangXiang|项襄]] - defeated-side pacification and absorption.
 - [[HanXin|韩信]], [[PengYue|彭越]], [[CommandAuthorityRecapture|统帅权再收束]], [[ConcededKingshipStabilization|让封真王式稳局]], and [[TerritorialRewardMobilization|许地会师式动员]] - reward and containment of victory-making commanders.
 - [[PardonAsStatePower]], [[ShusunTong|叔孙通]], and [[RitualRecognitionOfMilitaryPower|礼制承认军事权力]] - pardon and accession as state-making instruments.

@@ -2,7 +2,7 @@
 title: "刘盈 / Liu Ying"
 type: entity
 tags: [person, western-han, chu-han]
-sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ In the source's account, Liu Bang encounters Liu Ying and [[LuYuanPrincess|鲁�
 
 [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] shifts Liu Ying from battlefield-vulnerability marker into succession status. After [[LiuBang|刘邦]] returns from [[YingyangWarringStates|荥阳]] to [[LiyangQinHan|栎阳]], he makes Liu Ying crown prince and issues a general amnesty.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] confirms that wartime succession status inside the founding order. After Liu Bang's accession, the episode says [[LuZhi|吕雉]] is made empress and Liu Ying is made crown prince of the new [[WesternHanDynasty|西汉]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LuZhi|吕雉]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - crown-prince status after imperial accession.
 - [[LiuBang|刘邦]] - father and fleeing commander in the source scene.
 - [[LuYuanPrincess|鲁元公主]] - sibling paired with Liu Ying in the escape account.
 - [[XiahouYing|夏侯婴]] and [[LuZhi|吕雉]] - rescuer and mother tied to the later gratitude branch.

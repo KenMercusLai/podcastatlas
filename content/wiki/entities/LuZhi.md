@@ -2,7 +2,7 @@
 title: "吕雉 / Lu Zhi"
 type: entity
 tags: [person, qin-han, family, western-han]
-sources: [zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-23
 ---
 
@@ -24,7 +24,10 @@ The same episode then treats Chen Ping's apparent cooperation under Lu Zhi as co
 
 [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] ends Lu Zhi's Chu-hostage sequence. After Hou Gong secures the Honggou agreement, Xiang Yu sends Lu Zhi and Liu Taigong back with ceremony. The episode treats their return as the immediate payoff of Liu Bang's negotiation before he reverses course and pursues Xiang Yu.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] moves Lu Zhi from recovered hostage into founding empress. After [[LiuBang|刘邦]] becomes emperor, the episode says Lu Zhi is made empress while [[LiuYing|刘盈]] is made crown prince, turning the family line into part of the first [[WesternHanDynasty|西汉]] order.
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], and [[WesternHanDynasty|西汉]] - founding empress title and succession arrangement.
 - [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[LiuTaigong|刘太公]], [[HouGongChuHan|侯公]], [[HonggouSettlement|鸿沟议和]], and [[InstrumentalTruceBreach|工具化议和毁约]] - release from Chu captivity and hostage-first negotiation reading.
 - [[LuGongLiuBangFatherInLaw|吕公]] - father and decision-maker in the source.
 - [[LiuBang|刘邦]] - husband chosen through the banquet story.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）](sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc.md) — 芮淇讲透资治通鉴 episode on Liu Bang's accession aftermath: Lu Zhi and Liu Ying's founding positions, Wu Rui and Wuzhu's southern kingships, postwar return-and-veteran relief, the South Palace specialist-use explanation, and Han Xin's hostile Chu placement.
 - [《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）](sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi.md) — 芮淇讲透资治通鉴 episode on Liu Bang's transition from Xiang Yu's death into Han founding order: Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, Gong Wei's capture, Han Xin and Peng Yue's kingships, amnesty, and accession.
 - [《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）](sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca.md) — 芮淇讲透资治通鉴 episode completing Xiang Yu's final route through Dongcheng, Wujiang, refusal to cross, gift of Wuzhui, self-killing, and the critique that tactical self-proof cannot replace strategic self-correction.
 - [《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）](sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3.md) — 芮淇讲透资治通鉴 episode carrying Gaixia after the battlefield defeat into four-sided Chu songs, Gaixia Song, Yu Ji's suicide, Xiang Yu's breakout, Guan Ying's pursuit, and the "Heaven's will as people's will" reading.
@@ -1474,6 +1475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
 - [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu becomes open defection after Sui He's public commitment trap.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
+- [长沙国 / Changsha Kingdom](entities/ChangshaKingdom.md) — Early Western Han southern kingdom granted to Wu Rui after Liu Bang's accession, distinct from the modern Changsha city page.
 - [秦嘉 / Qin Jia (Rebel)](entities/QinJiaRebel.md) — Local anti-Qin rebel leader who refuses Chen Sheng's monitor Wu Ping Jun Pan and kills him under a false Chen Sheng order.
 - [朱鸡石 / 朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader later defeated by Zhang Han and executed by Xiang Liang; source spellings vary.
 - [武平君畔 / Wu Ping Jun Pan](entities/WuPingJunPan.md) — Chen Sheng's monitor sent to supervise the Tan-area army and killed by Qin Jia.
@@ -1558,6 +1560,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [太一 / Taiyi](entities/Taiyi.md) — Supreme deity inferred by Qinji 121 as the likely target of Qin Ji Miao's heaven-centered sacrifice.
 - [骊山 / Lishan](entities/Lishan.md) — Mountain reached by Qinji 121's Xianyang-area road-and-palace construction, linked to Qin Shi Huang's cosmic capital layout.
 - [百越 / Baiyue](entities/Baiyue.md) — Broad label for Yue peoples and polities subdued in Qinji 119-3 as Wang Jian pushes Qin control into Jiangnan before the Kuaiji Commandery setup.
+- [无诸 / Wuzhu (Minyue king)](entities/WuzhuMinyueKing.md) — Former Yue ruler named in the transcript as 吴珠, granted Minyue kingship by Liu Bang after supporting Han against Xiang Yu.
+- [闽越 / Minyue](entities/Minyue.md) — Yue-descended southeastern polity Liu Bang recognizes through Wuzhu's Minyue kingship in Hanji 169 part 2.
 - [会稽郡 / Kuaiji Commandery](entities/KuaijiCommandery.md) — Commandery Qinji 119-3 links to Wang Jian's post-Chu pacification of Jiangnan and Baiyue.
 - [雍门司马 / Yongmen Sima](entities/YongmenSima.md) — Qi remonstrance figure who challenges Qi Wang Jian's proposed trip to Qin by asking whether the king exists for the state.
 - [白公胜之乱 / Bai Gong Sheng Rebellion](entities/BaiGongShengRebellion.md) — 479 BCE Chu crisis where Bai Gong Sheng kills Zi Xi and seizes Chu Hui Wang before Ye Gong suppresses the rebellion.
@@ -7981,6 +7985,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, pardon, ritual, and dynastic founding.
+- [战后复员安民 / Postwar Return and Veteran Relief](concepts/PostwarReturnAndVeteranRelief.md) — Liu Bang's early Han policy of returning displaced people, restoring property, restraining local officials, and supporting or exempting demobilized soldiers.
+- [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Liu Bang's South Palace explanation that he won by recognizing and using Zhang Liang, Xiao He, and Han Xin rather than matching their specialist abilities.
+- [敌意封国安置 / Hostile-Territory Royal Containment](concepts/HostileTerritoryRoyalContainment.md) — Han Xin's relocation from Qi to Chu as both royal reward and exposure to a politically hostile jurisdiction, with personal-security adaptation.
 - [Tactical Self-Vindication Trap / 战术自证陷阱](concepts/TacticalSelfVindicationTrap.md) — Hanji 168 part 2 pattern where Xiang Yu proves tactical courage at Dongcheng while avoiding strategic and political self-correction.
 - [Four-Sided Chu Songs / 四面楚歌](concepts/FourSidedChuSongs.md) — Hanji 168 morale-collapse mechanism where surrounding Chu songs make Xiang Yu experience battlefield encirclement as homeland and people-support collapse.
 - [Layered Depth Defense / 纵深分层防御](concepts/LayeredDepthDefense.md) — Gaixia tactical pattern where Han Xin uses three lines, controlled retreat, wing pressure, and final convergence to exhaust Xiang Yu's shock attack.
