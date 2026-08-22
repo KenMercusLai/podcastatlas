@@ -1,9 +1,9 @@
 ---
 title: "Consciousness Measurement"
 type: concept
-tags: [consciousness, neuroscience, ai]
-sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
-last_updated: 2026-08-07
+tags: [consciousness, neuroscience, ai, quantum-metaphor]
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+last_updated: 2026-08-23
 ---
 
 # Consciousness Measurement
@@ -14,6 +14,8 @@ Consciousness measurement is the open problem of finding empirical handles on co
 
 [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a free-will caution through [[LibetExperimentInterpretation]]. The source treats neural readiness-potential results as important evidence about arbitrary button-press actions, but warns against turning them into a complete measurement of meaningful choice, personhood, or responsibility.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161]] adds a source-scoped quantum-consciousness branch. The episode cites [[ZhuQingshi|朱清时]] while arguing that consciousness and matter are inseparable, then uses that claim to support [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]]. The wiki records this as a worldview and metaphorical extension, not as an empirical consciousness-measurement result.
+
 ## Key Claims
 - Miolane separates intelligence from consciousness: intelligence is task-directed perception and action, while consciousness is another aspect of mind.
 - [[NeuralGeometry]] can compare brain states without proving that a geometric shape is consciousness itself.
@@ -23,6 +25,7 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - Affect, social complexity, and multi-agent tasks remain underexplained relative to spatial navigation.
 - The Chiang episode keeps the AI analogy speculative: superintelligence sharpens the question of understanding minds, but it does not supply a direct consciousness test.
 - Episode 256 adds that neuroscience results about simple motor readiness should not be overread as a full assay of [[FreeWill|free will]] or meaningful agency.
+- Hanji 161 adds a cautionary contrast: quantum-consciousness language can be important as worldview material while still needing separation from validated measurement.
 
 ## Connections
 - [[ClaireIsabelWebb]] - interviewer who keeps returning to consciousness, time, affect, and AI questions.
@@ -32,3 +35,4 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - [[AIInterpretabilityByAI]] and [[HumanJudgmentUnderAI]] - adjacent concerns about whether internal states are understandable and responsibly acted on.
 - [[UnderstandTedChiang|《领悟》 / Understand]], [[RationalWorldviewCollapse]], and [[PureRationalityTrap]] - literary extension into self-understanding as danger.
 - [[BenjaminLibet]], [[LibetExperimentInterpretation]], and [[MoralResponsibilityUnderDeterminism]] - EP256 branch on what neuroscience can and cannot settle.
+- [[ZhuQingshi|朱清时]] and [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] - Hanji 161 quantum-consciousness metaphor branch.

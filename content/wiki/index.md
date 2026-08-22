@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj.md) — 芮淇讲透资治通鉴 episode using quantum entanglement as a source-scoped metaphor for fate, wealth, consciousness, family blessing, and relationship networks.
 - [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo.md) — 芮淇讲透资治通鉴 episode completing Chen Ping's Xingyang counterintelligence: the staged Fan Zeng envoy reception turns Xiang Yu against Fan Zeng and explains the failure through Xiang-family versus Chu-merit factional cleavage.
 - [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（1）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q.md) — 芮淇讲透资治通鉴 episode on Chen Ping's Xingyang counterintelligence plan: Liu Bang funds forty thousand gold, Chen Ping exploits Xiang Yu's suspicion and reward weakness, and Chu's trusted core begins to fracture.
 - [《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？](sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb.md) — 芮淇讲透资治通鉴 episode completing Zhang Liang's borrowed-chopsticks refutation of Li Shiqi's six-kingdom restoration plan and generalizing it through Xun Yue's 行、势、情 strategy framework.
@@ -1271,6 +1272,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《命自我利》 / Ming Zi Wo Li](entities/MingZiWoLi.md) — Source-scoped fate-change text title named in Hanji 161 before the episode turns to quantum entanglement and relational fate.
+- [朱清时 / Zhu Qingshi](entities/ZhuQingshi.md) — Scientist cited by Hanji 161 while linking quantum mechanics, consciousness, and the episode's fate metaphor.
 - [周殷 / Zhou Yin](entities/ZhouYin.md) — Chu-side trusted-core figure named by Chen Ping as one of the reliable people whose ruler-minister trust Han wants to break.
 - [钟离眜 / Zhongli Mo](entities/ZhongliMo.md) — Chu general targeted by Chen Ping's rumor that unrewarded merit could make him join Han and seek kingship.
 - [龙且 / Long Ju](entities/LongJuChuGeneral.md) — Chu general who restores Jiujiang after Ying Bu flees to Liu Bang, then reinforces Xiang Yu's Xingyang pressure and Aocang supply attack.
@@ -7919,6 +7922,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Family Blessing Outcome Frame / 家人祝福与成事框架](concepts/FamilyBlessingOutcomeFrame.md) — Hanji 161 frame where major actions depend partly on family support, blessing, and practical understanding.
+- [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, and repeated social circles.
+- [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, and relationship influence rather than a settled physics claim.
 - [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, and actors' real commitments before copying historical precedent.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.

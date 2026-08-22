@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6644
+wiki_total_pages: 6646
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "MakingFrankensteinBook"
     title: "《制造弗兰肯斯坦：玛丽·雪莱背后的科学》"
     url: "/wiki/entities/makingfrankensteinbook/"
+  - key: "MingZiWoLi"
+    title: "《命自我利》 / Ming Zi Wo Li"
+    url: "/wiki/entities/mingziwoli/"
   - key: "MingRuoZhaoShuang"
     title: "《命若朝霜》 / Ming Ruo Zhao Shuang"
     url: "/wiki/entities/mingruozhaoshuang/"

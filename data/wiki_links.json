@@ -14687,6 +14687,10 @@
     "title": "Family-Based Emotional Motivation / 家庭本位的情感动力",
     "url": "/wiki/concepts/familybasedemotionalmotivation/"
   },
+  "FamilyBlessingOutcomeFrame": {
+    "title": "Family Blessing Outcome Frame / 家人祝福与成事框架",
+    "url": "/wiki/concepts/familyblessingoutcomeframe/"
+  },
   "FamilyBusinessScaling": {
     "title": "Family Business Scaling",
     "url": "/wiki/concepts/familybusinessscaling/"
@@ -28187,6 +28191,10 @@
     "title": "《命若朝霜》 / Ming Ruo Zhao Shuang",
     "url": "/wiki/entities/mingruozhaoshuang/"
   },
+  "MingZiWoLi": {
+    "title": "《命自我利》 / Ming Zi Wo Li",
+    "url": "/wiki/entities/mingziwoli/"
+  },
   "Minghao": {
     "title": "明浩",
     "url": "/wiki/entities/minghao/"
@@ -34431,6 +34439,10 @@
     "title": "Quantity Change to Quality Change / 量变引发质变",
     "url": "/wiki/concepts/quantitychangequalitychange/"
   },
+  "QuantumEntanglementFateMetaphor": {
+    "title": "Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻",
+    "url": "/wiki/concepts/quantumentanglementfatemetaphor/"
+  },
   "Quanzhou": {
     "title": "Quanzhou / 泉州",
     "url": "/wiki/entities/quanzhou/"
@@ -35086,6 +35098,10 @@
   "ReinforcementLearningAGIPath": {
     "title": "Reinforcement Learning AGI Path",
     "url": "/wiki/concepts/reinforcementlearningagipath/"
+  },
+  "RelationalFateNetwork": {
+    "title": "Relational Fate Network / 关系命运网络",
+    "url": "/wiki/concepts/relationalfatenetwork/"
   },
   "RelationalIsolationControl": {
     "title": "Relational Isolation Control / 关系孤立控制",
@@ -47907,6 +47923,10 @@
     "title": "朱宁 / Zhu Ning",
     "url": "/wiki/entities/zhuning/"
   },
+  "ZhuQingshi": {
+    "title": "朱清时 / Zhu Qingshi",
+    "url": "/wiki/entities/zhuqingshi/"
+  },
   "ZhuXi": {
     "title": "朱熹 / Zhu Xi",
     "url": "/wiki/entities/zhuxi/"
@@ -51170,6 +51190,10 @@
   "zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo": {
     "title": "《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo/"
+  },
+  "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj": {
+    "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

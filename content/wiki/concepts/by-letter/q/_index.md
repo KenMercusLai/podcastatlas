@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 5102
+wiki_total_pages: 5105
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "QuantityChangeQualityChange"
     title: "Quantity Change to Quality Change / 量变引发质变"
     url: "/wiki/concepts/quantitychangequalitychange/"
+  - key: "QuantumEntanglementFateMetaphor"
+    title: "Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻"
+    url: "/wiki/concepts/quantumentanglementfatemetaphor/"
   - key: "QuasiRoyalQinHegemony"
     title: "Quasi-Royal Qin Hegemony / 准天子式秦霸权"
     url: "/wiki/concepts/quasiroyalqinhegemony/"

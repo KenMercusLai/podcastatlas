@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5102
+wiki_total_pages: 5105
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "FamiliarSpaceDating"
     title: "Familiar-Space Dating / 熟悉空间约会"
     url: "/wiki/concepts/familiarspacedating/"
+  - key: "FamilyBlessingOutcomeFrame"
+    title: "Family Blessing Outcome Frame / 家人祝福与成事框架"
+    url: "/wiki/concepts/familyblessingoutcomeframe/"
   - key: "FamilyBusinessScaling"
     title: "Family Business Scaling"
     url: "/wiki/concepts/familybusinessscaling/"

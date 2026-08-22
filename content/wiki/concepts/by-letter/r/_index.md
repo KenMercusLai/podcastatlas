@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5102
+wiki_total_pages: 5105
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"
+  - key: "RelationalFateNetwork"
+    title: "Relational Fate Network / 关系命运网络"
+    url: "/wiki/concepts/relationalfatenetwork/"
   - key: "RelationalIsolationControl"
     title: "Relational Isolation Control / 关系孤立控制"
     url: "/wiki/concepts/relationalisolationcontrol/"

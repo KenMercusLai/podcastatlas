@@ -10161,3 +10161,11 @@ Added source page for Hanji 160 part 2: Chen Ping's staged reception of Xiang Yu
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）
+
+Added source page for Hanji 161: a reflective fate-and-relationship detour on seeking wealth, longevity, children, and fate change; the source-scoped text title 《命自我利》; quantum entanglement as a metaphor for non-isolated life; Einstein as the locality/realism contrast; Zhu Qingshi and consciousness; everyday coincidence, 因缘, 共业, close social circles, and family blessing as conditions for action. Created Quantum Entanglement Fate Metaphor, Relational Fate Network, Family Blessing Outcome Frame, Zhu Qingshi, and Ming Zi Wo Li; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Albert Einstein, Consciousness Measurement, and Family-Supported Aspiration. No settled contradiction found; the physics-to-fate bridge and the book title are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
