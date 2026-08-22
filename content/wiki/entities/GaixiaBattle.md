@@ -2,7 +2,7 @@
 title: "垓下之战 / Battle of Gaixia"
 type: entity
 tags: [battle, chu-han, war, liu-bang, xiang-yu, han-xin]
-sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv]
+sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv]
 last_updated: 2026-08-23
 ---
 
@@ -14,12 +14,21 @@ The immediate setup is incentive failure. Liu Bang summons [[HanXin|韩信]] and
 
 The pressure also comes through [[LiuJia|刘贾]] and [[ZhouYin|周殷]]. Liu Jia crosses the Huai River and surrounds Shouchun, Zhou Yin surrenders and helps pacify Huainan, and [[YingBu|英布]] is drawn northward into the final anti-Chu field. This gives Gaixia a side-and-rear collapse layer: Xiang Yu is not only outnumbered by Liu Bang's front but increasingly deprived of dependable surrounding support.
 
-The episode's endpoint preserves Xiang Yu's battlefield expectation. At Gaixia, he still commands a disciplined core of Chu troops and expects a broad plain to favor his open-field shock style, recalling the victories at [[JuluBattle|巨鹿之战]] and [[PengchengBattle|彭城之战]]. The transcript stops after his initial rush against Liu Bang's army, when the allied forces surprisingly do not fall into disorder.
+Hanji 167 part 1's endpoint preserves Xiang Yu's battlefield expectation. At Gaixia, he still commands a disciplined core of Chu troops and expects a broad plain to favor his open-field shock style, recalling the victories at [[JuluBattle|巨鹿之战]] and [[PengchengBattle|彭城之战]]. The transcript stops after his initial rush, when the allied forces surprisingly do not fall into disorder.
+
+[[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] completes the battlefield account by shifting the real command opponent from Liu Bang to [[HanXin|韩信]]. Liu Bang's decisive act is to yield coalition command, while Han Xin turns the sixty-ten-thousand army into three lines: his own first line with [[KongXi|孔熙]] and [[ChenHe|陈贺]] on the wings, Liu Bang's second line, and the [[ZhouBo|周勃]] / [[ChaiWu|柴武]] third line.
+
+The tactical result is [[LayeredDepthDefense|纵深分层防御]]. Xiang Yu breaks through Han Xin's first line and Liu Bang's second line, but neither breakthrough produces the coalition panic he needs. Han Xin's controlled retreat and wing pressure make the Chu advance consume strength while earlier Han lines remain able to converge again.
+
+By the time Xiang Yu reaches the third line, the Chu army can no longer reproduce the [[PengchengBattle|Pengcheng]] pattern of shock-driven command collapse. Zhou Bo and Chai Wu's line holds, Han forces close from multiple directions, and Xiang Yu falls back into a starving camp after catastrophic losses. The source therefore turns Gaixia into the battlefield where Han Xin solves the problem Liu Bang failed to solve at Pengcheng: how to make a very large allied force stay coherent under Xiang Yu's direct attack.
 
 ## Connections
-- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]] - source episode opening the battle.
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] - source episode completing the battlefield sequence through Han Xin's three-line formation and Xiang Yu's defeat.
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]] - source episode opening the battle.
 - [[LiuBang|刘邦]] and [[XiangYu|项羽]] - pursuing Han ruler and final Chu commander.
 - [[HanXin|韩信]], [[PengYue|彭越]], and [[ZhangLiang|张良]] - absent allies and strategist whose reward diagnosis makes the final assembly possible.
+- [[KongXi|孔熙]], [[ChenHe|陈贺]], [[ZhouBo|周勃]], and [[ChaiWu|柴武]] - named line and wing commanders in the completed battle account.
+- [[LayeredDepthDefense|纵深分层防御]] - Gaixia-specific tactical pattern created by the three-line array, controlled retreat, and final encirclement.
 - [[LiuJia|刘贾]], [[ZhouYin|周殷]], and [[YingBu|英布]] - Huainan-side pressure and defection layer.
 - [[TerritorialRewardMobilization|许地会师式动员]] and [[XiayiPlan|下邑画策]] - incentive mechanism and earlier strategic design behind the final coalition.
 - [[HonggouSettlement|鸿沟议和]] and [[InstrumentalTruceBreach|工具化议和毁约]] - preceding truce and pursuit sequence.

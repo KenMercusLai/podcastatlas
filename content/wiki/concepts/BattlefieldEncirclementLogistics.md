@@ -2,7 +2,7 @@
 title: "Battlefield Encirclement Logistics / 战场围困与断粮"
 type: concept
 tags: [warfare, logistics, encirclement, military-command, warring-states]
-sources: [zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
+sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
 last_updated: 2026-08-23
 ---
 
@@ -22,6 +22,8 @@ This adds an attacking-rescue version of the concept. The side trying to relieve
 
 [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] adds a rout-and-pursuit version at the [[PengchengBattle|彭城之战]]. Xiang Yu first takes [[XiaoCounty|萧县]], cutting [[LiuBang|刘邦]]'s westward retreat and supply line, then attacks from the west and drives the broken coalition toward river terrain around [[SiRiver|泗水]] and [[SuiRiver|睢水]]. The trap here is not a long siege; it is the rapid conversion of a route cut into crowding, panic, and drowning.
 
+[[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] adds the Gaixia depth-and-close version. [[HanXin|韩信]] does not begin by cutting one road behind [[XiangYu|项羽]]; he lets the Chu attack spend itself against successive lines while [[KongXi|孔熙]] and [[ChenHe|陈贺]] press toward the rear. Once the [[ZhouBo|周勃]] / [[ChaiWu|柴武]] third line holds, earlier Han formations converge again and Xiang Yu's remaining force retreats into a camp with almost no food.
+
 ## Key Claims
 - Encirclement becomes decisive when it controls food movement, not only battlefield position.
 - A feigned retreat can be useful when it pulls the enemy across a terrain or river line that makes retreat harder.
@@ -32,6 +34,7 @@ This adds an attacking-rescue version of the concept. The side trying to relieve
 - Breaking the besieger's logistics can be the precondition for a successful morale-intensive assault.
 - A retreat-line cut can make battlefield pursuit lethal even without a prolonged encirclement, especially when a large force is driven into river terrain.
 - Hanji 156 adds that the concept can appear as rejected advice: the stronger side may fail by declining to convert terrain and logistics advantage into a waiting trap.
+- Gaixia adds an exhaustion-first encirclement: the attacker is not trapped by one immediate cutoff but by layered resistance, rear pressure, and the loss of food after the field defeat.
 
 ## Connections
 - [[BaiQi|白起]], [[ZhaoKuo|赵括]], [[QinState|秦国]], and [[ZhaoState|赵国]] - commander pair and opposing states in the source case.
@@ -42,3 +45,4 @@ This adds an attacking-rescue version of the concept. The side trying to relieve
 - [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[YingBu|英布]], [[PuGeneral|蒲将军]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - Qinji 134 relief-force version where the besieger's corridor is cut before the decisive attack.
 - [[JingxingPass|井陉口]], [[LiZuoChe|李左车]], [[ChenYu|陈馀]], [[HanXin|韩信]], and [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] - Hanji 156 proposed supply-line trap that Chen Yu rejects.
 - [[PengchengBattle|彭城之战]], [[XiaoCounty|萧县]], [[SiRiver|泗水]], [[SuiRiver|睢水]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - Hanji 151 part 2 route severance and river pursuit.
+- [[GaixiaBattle|垓下之战]], [[LayeredDepthDefense|纵深分层防御]], [[HanXin|韩信]], [[XiangYu|项羽]], [[KongXi|孔熙]], [[ChenHe|陈贺]], [[ZhouBo|周勃]], and [[ChaiWu|柴武]] - Hanji 167 part 2 layered exhaustion and closing encirclement.

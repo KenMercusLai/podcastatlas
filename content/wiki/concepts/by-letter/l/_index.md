@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5123
+wiki_total_pages: 5124
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "LawyerState"
     title: "Lawyer State / 律师国家"
     url: "/wiki/concepts/lawyerstate/"
+  - key: "LayeredDepthDefense"
+    title: "Layered Depth Defense / 纵深分层防御"
+    url: "/wiki/concepts/layereddepthdefense/"
   - key: "LayeredFeintCentralBreakthrough"
     title: "Layered Feint Central Breakthrough / 多路佯动中央突破"
     url: "/wiki/concepts/layeredfeintcentralbreakthrough/"

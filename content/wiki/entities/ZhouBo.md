@@ -2,7 +2,7 @@
 title: "周勃 / Zhou Bo"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ His source role is therefore less a developed biography than an internal-morale 
 
 [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] sharpens the accusation scene by treating Zhou Bo's "盗嫂" claim as likely political slander. The host emphasizes that Zhou Bo is a Pei County old follower rather than someone close to Chen Ping's Yangwu/Huyou family background, so his ability to know an intimate family scandal is doubtful. This keeps the charge source-scoped as a veteran-backlash tactic rather than as settled knowledge about Chen Ping.
 
+[[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] adds a direct battlefield role. At the [[GaixiaBattle|垓下之战]], Zhou Bo and [[ChaiWu|柴武]] command the third line in [[HanXin|韩信]]'s formation. After [[XiangYu|项羽]] breaks through the first line and [[LiuBang|刘邦]]'s second line without making the coalition collapse, the Zhou Bo / Chai Wu line becomes the stopping layer that lets [[LayeredDepthDefense|纵深分层防御]] close into encirclement.
+
 ## Connections
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]], [[ChaiWu|柴武]], [[GaixiaBattle|垓下之战]], and [[LayeredDepthDefense|纵深分层防御]] - third-line command in Han Xin's final battle formation.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[GuanYing|灌婴]], and [[FanKuai|樊哙]] - Liu Bang-side figures in the Hanzhong reaction scene.
 - [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[ThreeQinContainment|三秦压制]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - strategic setting around the retreat.
 - [[ChenPing|陈平]], [[LuZhi|吕雉]], [[WangLingHanMinister|王陵]], [[LiuHeng|刘恒 / Emperor Wen of Han]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - later regency and restoration context added by Hanji 150 part 3.

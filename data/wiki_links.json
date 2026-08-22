@@ -7935,6 +7935,10 @@
     "title": "柴荣 / Emperor Shizong of Later Zhou",
     "url": "/wiki/entities/chairong/"
   },
+  "ChaiWu": {
+    "title": "柴武 / Chai Wu",
+    "url": "/wiki/entities/chaiwu/"
+  },
   "ChainRestaurantStandardization": {
     "title": "Chain Restaurant Standardization",
     "url": "/wiki/concepts/chainrestaurantstandardization/"
@@ -8234,6 +8238,10 @@
   "ChenDoctorInvestmentABC": {
     "title": "陈博士 / 投资ABC",
     "url": "/wiki/entities/chendoctorinvestmentabc/"
+  },
+  "ChenHe": {
+    "title": "陈贺 / Chen He",
+    "url": "/wiki/entities/chenhe/"
   },
   "ChenHuiNanyang": {
     "title": "陈恢 / Chen Hui (Nanyang)",
@@ -23783,6 +23791,10 @@
     "title": "Kong Tao / 孔涛",
     "url": "/wiki/entities/kongtao/"
   },
+  "KongXi": {
+    "title": "孔熙 / Kong Xi",
+    "url": "/wiki/entities/kongxi/"
+  },
   "KongXiangxi": {
     "title": "孔祥熙",
     "url": "/wiki/entities/kongxiangxi/"
@@ -24378,6 +24390,10 @@
   "LawyerState": {
     "title": "Lawyer State / 律师国家",
     "url": "/wiki/concepts/lawyerstate/"
+  },
+  "LayeredDepthDefense": {
+    "title": "Layered Depth Defense / 纵深分层防御",
+    "url": "/wiki/concepts/layereddepthdefense/"
   },
   "LayeredFeintCentralBreakthrough": {
     "title": "Layered Feint Central Breakthrough / 多路佯动中央突破",
@@ -51406,6 +51422,10 @@
   "zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv": {
     "title": "《资治通鉴·汉纪》167｜见证项羽最终之战（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv/"
+  },
+  "zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p": {
+    "title": "《资治通鉴·汉纪》167｜见证项羽最终之战（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

@@ -10269,3 +10269,11 @@ Added source page for Hanji 167: Liu Bang's post-Honggou pursuit, Han Xin and Pe
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》167｜见证项羽最终之战（2）
+
+Added source page for Hanji 167 part 2: Liu Bang yielding command at Gaixia, Han Xin's three-line formation, Kong Xi and Chen He's wing pressure, Liu Bang's second line, Zhou Bo and Chai Wu's third line, Xiang Yu's failed attempt to reproduce Pengcheng-style shock collapse, and the final encirclement of the exhausted Chu force. Created Kong Xi, Chen He, Chai Wu, and Layered Depth Defense; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Gaixia Battle, Han Xin, Xiang Yu, Liu Bang, Zhou Bo, Ancient Large-Army Command Limits, Battlefield Encirclement Logistics, and Cavalry Shock Command Strike. No settled contradiction found; part 2 resolves part 1's suspended first charge and reinforces the existing Liu Bang/Han Xin command-scale contrast.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

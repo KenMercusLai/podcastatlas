@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6668
+wiki_total_pages: 6671
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "ChaSheng"
     title: "查晟 / Cha Sheng"
     url: "/wiki/entities/chasheng/"
+  - key: "ChaiWu"
+    title: "柴武 / Chai Wu"
+    url: "/wiki/entities/chaiwu/"
   - key: "ChaiRong"
     title: "柴荣 / Emperor Shizong of Later Zhou"
     url: "/wiki/entities/chairong/"
@@ -1394,6 +1397,9 @@ wiki_pages:
   - key: "ChenSheng"
     title: "陈胜 / Chen Sheng"
     url: "/wiki/entities/chensheng/"
+  - key: "ChenHe"
+    title: "陈贺 / Chen He"
+    url: "/wiki/entities/chenhe/"
   - key: "ChenDiexian"
     title: "陈迭仙"
     url: "/wiki/entities/chendiexian/"
