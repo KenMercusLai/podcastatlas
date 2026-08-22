@@ -2,7 +2,7 @@
 title: "田横 / Tian Heng"
 type: entity
 tags: [person, qi, qin, anti-qin, military]
-sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-can
 
 [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] continues Tian Heng's role in the post-Linzi retreat. The episode says the Tian line abandons [[Linzi|临淄]] after the Lixia defeat and disperses to multiple positions while [[TianGuangQiKing|田广]] seeks Chu rescue at Gaomi. Tian Heng therefore remains part of the Qi command group managing collapse after the failed surrender, even though the source keeps some retreat names and offices source-scoped.
 
+[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] turns that managed collapse into Tian Heng's last independent Qi attempt in this sequence. After [[WeishuiBattle|潍水之战]] kills [[LongJuChuGeneral|龙且]] and [[TianGuangQiKing|田广]] is captured, Tian Heng hears that Tian Guang is dead, declares himself Qi king, and attacks [[GuanYing|灌婴]]. His defeat at Ying County and flight to [[PengYue|彭越]] make him the surviving Tian-line resistance figure after formal Qi control has largely passed to Han.
+
 ## Connections
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[TianGuangQiKing|田广]], [[GuanYing|灌婴]], and [[PengYue|彭越]] - self-kingship attempt, defeat, and flight after Qi's collapse.
 - [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[TianGuangQiKing|田广]], [[Linzi|临淄]], [[QiState|齐国]], and [[LongJuChuGeneral|龙且]] - post-Lixia retreat and Chu rescue setting.
 - [[TianDanQinRebel|田儋]] and [[TianRong|田荣]] - Qi kinship and restored-state line.
 - [[QiState|齐国]] - polity in which he becomes general.

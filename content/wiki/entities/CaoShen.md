@@ -2,7 +2,7 @@
 title: "曹参 / Cao Shen"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]
+sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ For this source, Cao Shen matters as a lower county-office connector. He helps m
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] gives Cao Shen a direct role in [[HanXin|韩信]]'s attack on [[WeiBao|魏豹]]. After Han Xin crosses at [[XiayangChuHan|下阳]], Cao Shen moves against [[Anyi|安邑]], defeats Wei forces, and helps create the pressure that lets [[GuanYing|灌婴]]'s cavalry pursuit end in Wei Bao's capture.
 
+[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] brings Cao Shen into the Qi pacification branch after [[WeishuiBattle|潍水之战]]. The source does not give him the central tactical move, which belongs to [[HanXin|韩信]], but it names Cao Shen with [[GuanYing|灌婴]] in the continued pursuit of Qi forces after [[TianHeng|田横]]'s failed counterattack. Cao Shen's page therefore now links the earlier West Wei follow-through role to a second Han Xin campaign cleanup role.
+
 ## Connections
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[QiState|齐国]], [[HanXin|韩信]], and [[GuanYing|灌婴]] - follow-up pursuit after Qi's final collapse.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[FanKuai|樊哙]], and [[PeiCounty|沛县]] - source actors and local setting.
 - [[DazexiangUprising|大泽乡起义]] and [[QinState|秦国]] - wider rebellion context and regime target.
 - [[PeiCountyUprisingMobilization|沛县起义动员]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - concept frames for Cao Shen's role.

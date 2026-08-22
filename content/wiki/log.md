@@ -10229,3 +10229,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的
+
+Added source page for Hanji 164-2: Long Ju's rescue of Qi, the rejected defensive supply-cutting advice, Han Xin's upstream Weishui dam, feigned retreat, timed flood, Long Ju's death, and the follow-up collapse of Qi through Tian Guang, Tian Heng, Guan Ying, and Cao Shen. Created Weishui Battle; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Han Xin, Long Ju, Qi State, Tian Guang (Qi King), Tian Heng, Guan Ying, Cao Shen, Xiang Yu, Liu Bang, Xingyang Standoff, Battlefield Information Control, River Crossing Deception, Lure Enemy Out of Position, and Hanzhong Dui. No settled contradiction found; the Qi chancellor 田光 remains source-scoped to avoid colliding with Tian Guang the Yan elder.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

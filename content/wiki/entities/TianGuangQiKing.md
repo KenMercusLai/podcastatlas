@@ -2,7 +2,7 @@
 title: "田广 / Tian Guang (Qi King)"
 type: entity
 tags: [person, qi, chu-han, ruler, anti-chu]
-sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
+sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ Tian Guang accepts the argument enough to send envoys to Liu Bang and seek recon
 
 [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] continues that flight after Qi's Lixia defeat. Tian Guang abandons [[Linzi|临淄]], retreats to Gaomi, and waits for Chu support. [[XiangYu|项羽]] sends [[LongJuChuGeneral|龙且]] to join him, so Tian Guang's position becomes the meeting point between Qi's broken defense and the Chu rescue force that [[HanXin|韩信]] begins to draw forward through feigned defeat.
 
+[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] closes Tian Guang's Qi kingship branch after [[WeishuiBattle|潍水之战]]. Once Long Ju is killed and the Chu rescue force scatters, Tian Guang flees again but is captured by Han Xin at Chengyang. His fall leaves [[TianHeng|田横]] to claim the Qi kingship briefly, turning Tian Guang from the restored Tian-line figurehead into the captured ruler whose defeat triggers the final pacification of Qi.
+
 ## Connections
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[HanXin|韩信]], [[LongJuChuGeneral|龙且]], and [[TianHeng|田横]] - Chu rescue defeat, flight, capture, and succession attempt.
 - [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[Linzi|临淄]], [[LongJuChuGeneral|龙且]], [[HanXin|韩信]], and [[BattlefieldInformationControl|战场信息控制]] - retreat to Gaomi and the opening of the Long Ju rescue trap.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[LiuBang|刘邦]], [[HanXin|韩信]], and [[KuaiChe|蒯彻 / 蒯通]] - persuasion, attempted reconciliation, and renewed attack.
 - [[TianRong|田荣]] - father whose death leaves a restored-Qi succession problem.

@@ -2,7 +2,7 @@
 title: "灌婴 / Guan Ying"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ last_updated: 2026-08-23
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] puts Guan Ying back into field command under [[HanXin|韩信]]. After Han Xin's hidden crossing at [[XiayangChuHan|下阳]] exposes [[WeiBao|魏豹]], Guan Ying's cavalry crosses and pursues while [[CaoShen|曹参]] presses from the Anyi side, helping convert the river deception into Wei Bao's capture.
 
+[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] adds Guan Ying to the follow-up after [[WeishuiBattle|潍水之战]]. After [[LongJuChuGeneral|龙且]] is killed and [[TianGuangQiKing|田广]] is captured, Guan Ying captures the Qi chancellor Tian Guang, enters Boyang, and later defeats [[TianHeng|田横]] at Ying County. The source therefore extends Guan Ying from cavalry repair and pursuit roles into the eastern pacification that finishes [[QiState|齐国]] for Han.
+
 ## Connections
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[QiState|齐国]], [[TianHeng|田横]], and [[CaoShen|曹参]] - capture and follow-up battles after Long Ju's defeat.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[ZhouBo|周勃]], and [[FanKuai|樊哙]] - Liu Bang-side reaction field after the settlement.
 - [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[ThreeQinContainment|三秦压制]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - constrained base and retreat strategy.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], [[HanXin|韩信]], and [[ChenCang|陈仓]] - Ziwu-route feint and cavalry exploitation after the breakthrough.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的](sources/zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Qi-front trap through the Battle of Weishui, Long Ju's contempt-driven pursuit, the dam-and-flood split of the Chu army, and Qi's collapse.
 - [《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭](sources/zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy.md) — 芮淇讲透资治通鉴 episode on the Guangwu ravine standoff, Liu Bang's legitimacy indictment against Xiang Yu, Xiang Yu's crossbow shot, Liu Bang and Zhang Liang's wound-cover damage control, and Han Xin's Qi-front trap for Long Ju.
 - [《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？](sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7.md) — 芮淇讲透资治通鉴 episode on Li Shiqi's death after Han Xin's Kuai Che-urged Qi attack, Cao Jiu's provoked defeat at Chenggao/Sishui, and Xiang Yu's failed hostage and duel pressure at Guangwu.
 - [《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城](sources/zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx.md) — 芮淇讲透资治通鉴 episode on Li Shiqi's Aocang/Chenggao logistics advice, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that disrupts the diplomatic submission.
@@ -1280,6 +1281,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [潍水之战 / Battle of Weishui](entities/WeishuiBattle.md) — Chu-Han battle where Han Xin dams the Weishui, feigns retreat, splits Long Ju's pursuing force with a timed flood, and triggers Qi's final collapse.
 - [广武 / Guangwu (Chu-Han)](entities/GuangwuChuHan.md) — Chu-Han standoff site where Liu Bang rejects Xiang Yu's hostage leverage and duel challenge after Han retakes Chenggao and Aocang.
 - [汜水 / Si River (Chu-Han)](entities/SishuiChuHan.md) — river crossing outside Chenggao where Cao Jiu's provoked sortie is struck mid-crossing in Hanji 163.
 - [郑州 / Zhengzhou](entities/Zhengzhou.md) — Present-day city frame used by Hanji 162-1 to connect Ji Xin's Xingyang sacrifice with later city-god memory.

@@ -2,7 +2,7 @@
 title: "龙且 / Long Ju"
 type: entity
 tags: [person, chu-han, military, chu]
-sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3]
+sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ The episode then moves Long Ju north toward the central front. His support stren
 
 [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] returns Long Ju to direct command under a transcript/source variant written as "隆居." After [[QiState|齐国]] collapses under [[HanXin|韩信]]'s attack, [[XiangYu|项羽]] sends his trusted general with a claimed 200,000 troops to rescue [[TianGuangQiKing|田广]] at Gaomi. Long Ju's contempt for Han Xin then becomes the visible weakness Han Xin exploits through a feigned defeat, extending Long Ju's page from trusted-core status into the opening of his Qi-front disaster.
 
+[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] completes that disaster at [[WeishuiBattle|潍水之战]]. Long Ju rejects a retainer's defensive plan to hold camp, let Tian Guang recall occupied Qi cities, and strain Han Xin's supply line. He instead reads Han Xin through old contempt - the Piaomu feeding story, the humiliation under another man's legs, and Han Xin's earlier low rank under Xiang Yu - so Han Xin's feigned defeat looks like confirmation of what Long Ju already wants to believe. When Long Ju pursues into the Weishui, the upstream dam release splits his force and he is killed by the Han counterattack.
+
 ## Connections
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[HanXin|韩信]], [[TianGuangQiKing|田广]], and [[RiverCrossingDeception|渡河欺敌]] - rejected defensive plan, pursuit into the river trap, and death.
 - [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[HanXin|韩信]], [[QiState|齐国]], [[TianGuangQiKing|田广]], and [[BattlefieldInformationControl|战场信息控制]] - Qi rescue mission and feigned-defeat setup.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[ChenYing|陈婴]], and [[FanZeng|范增]] - old Chu merit-command pillar.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[FanZeng|范增]], [[ZhongliMo|钟离眜]], and [[ZhouYin|周殷]] - trusted Chu core named in Chen Ping's analysis.

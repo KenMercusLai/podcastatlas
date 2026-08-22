@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6663
+wiki_total_pages: 6664
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "WoteShoes"
     title: "沃特鞋企 / Wote Shoes"
     url: "/wiki/entities/woteshoes/"
+  - key: "WeishuiBattle"
+    title: "潍水之战 / Battle of Weishui"
+    url: "/wiki/entities/weishuibattle/"
   - key: "WangShizhen"
     title: "王世贞 / Wang Shizhen"
     url: "/wiki/entities/wangshizhen/"
