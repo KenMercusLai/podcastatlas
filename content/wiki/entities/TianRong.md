@@ -1,0 +1,24 @@
+---
+title: "田荣 / Tian Rong"
+type: entity
+tags: [person, qi, qin, anti-qin, rebellion]
+sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+last_updated: 2026-08-22
+---
+
+# 田荣 / Tian Rong
+
+田荣 / Tian Rong first appears in the wiki background through [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] as one of [[TianDanQinRebel|田儋]]'s Qi kinsmen in Di County, alongside [[TianHeng|田横]]. That earlier source focuses on Tian Dan's seizure of Qi kingship, but it places Tian Rong inside the same restored-Qi network from the beginning.
+
+[[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]] makes Tian Rong the central Qi-side survivor after [[ZhangHanQin|章邯]] kills Tian Dan and defeats the relief army at Linji. Tian Rong gathers defeated troops, withdraws to Dong'e, and is then besieged by Zhang Han until [[XiangLiang|项梁]] attacks and defeats Qin outside the city.
+
+After returning to [[QiState|齐国]], Tian Rong rejects the officials' installation of [[TianJia|田假]] as Qi king. He argues that succession should at least pass through the strongest anti-Qin actor in Qi, then drives Tian Jia to [[ChuState|楚国]], while [[TianJiao|田角]] and [[TianJianQiGeneral|田间]] flee to [[ZhaoState|赵国]]. He installs Tian Dan's son as king, takes the chancellorship himself, and makes [[TianHeng|田横]] general.
+
+The same source turns Tian Rong from rescued ally into coalition blocker. When Xiang Liang asks Qi and Zhao to join a joint attack on Zhang Han, Tian Rong demands that Chu kill Tian Jia and Zhao kill Tian Jiao plus Tian Jian before Qi will send troops. Chu and Zhao refuse to kill refugees who have entrusted themselves to them, so Tian Rong refuses to cooperate. His page therefore sharpens [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]]: internal restoration legitimacy can override the common anti-Qin battlefield interest.
+
+## Connections
+- [[TianDanQinRebel|田儋]] and [[TianHeng|田横]] - Qi kinship and restored-state network.
+- [[QiState|齐国]], [[ChuState|楚国]], and [[ZhaoState|赵国]] - polities involved in the succession and refugee dispute.
+- [[ZhangHanQin|章邯]] and [[XiangLiang|项梁]] - Qin pressure and Chu rescue at Dong'e.
+- [[TianJia|田假]], [[TianJiao|田角]], and [[TianJianQiGeneral|田间]] - rival Qi figures whose deaths Tian Rong demands.
+- [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - concept branches clarified by his refusal to join Xiang Liang.

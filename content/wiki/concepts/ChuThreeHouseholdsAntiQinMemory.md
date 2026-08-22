@@ -2,7 +2,7 @@
 title: "Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆"
 type: concept
 tags: [historical-memory, anti-qin, chu-state, warring-states, historiography]
-sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]
+sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The concept is a memory frame, not a proof by itself. It should be linked to [[S
 
 [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] adds the popular grievance side behind that memory. The episode closes by recalling [[ChuHuaiwang|楚怀王]]'s detention and death in Qin and says Chu people mourned him intensely. This does not replace the Xiang Yan lineage-memory branch; it widens the anti-Qin background from aristocratic saying to a remembered injury against the Chu ruler and people.
 
+[[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]] turns the memory into an explicit institutional move. [[FanZeng|范增]] cites the slogan while advising [[XiangLiang|项梁]] to avoid [[ChenSheng|陈胜]]'s self-kingship mistake and restore a Chu royal descendant. Xiang Liang's installation of [[MiXin|芈心 / 楚怀王]] shows the memory becoming [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]], not only background resentment.
+
 ## Key Claims
 - A defeated state's political memory can remain usable after its formal army and ruler are broken.
 - "Three households" is interpreted by the source as an elite-lineage formula around Qu, Jing, and Zhao, not as a literal count of common households.
@@ -25,6 +27,7 @@ The concept is a memory frame, not a proof by itself. It should be linked to [[S
 - The memory is powerful because later anti-Qin figures can be read as fulfilling it, but that fulfillment reading remains historiographical.
 - Qinji 128-2 adds that Chu memory can be actively borrowed by rebels as a mobilization resource, not only recognized after Qin falls.
 - Qinji 130-2 adds Chu Huaiwang's captivity and death as another grievance that makes Chu anti-Qin sentiment politically available.
+- Qinji 130-3 adds that Fan Zeng can convert the slogan and grievance into a concrete succession recommendation: restore a Chu royal descendant under Xiang Liang's military leadership.
 
 ## Connections
 - [[XiangYan|项燕]], [[ChuState|楚国]], and [[QinanChuBattlefield|蕲南]] - source death scene and battlefield setting.
@@ -34,3 +37,4 @@ The concept is a memory frame, not a proof by itself. It should be linked to [[S
 - [[QuYuan|屈原]] - existing Chu-lineage figure useful for anchoring the Qu clan named in the source's explanation.
 - [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[DazexiangUprising|大泽乡起义]], [[ChenSheng|陈胜]], [[WuGuang|吴广]], [[FuSu|扶苏]], and [[RebelMandateManufacture|起义天命制造]] - later use of Xiang Yan and Chu memory as rebel legitimacy.
 - [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]], [[ChuHuaiwang|楚怀王]], [[XiangLiang|项梁]], and [[XiangYu|项羽]] - Chu grievance as background for the Xiang family's anti-Qin appeal.
+- [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]], [[FanZeng|范增]], [[MiXin|芈心 / 楚怀王]], and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - slogan becomes a restored-king recommendation.

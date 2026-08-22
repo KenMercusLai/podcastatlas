@@ -18295,6 +18295,10 @@
     "title": "Han Boxiao",
     "url": "/wiki/entities/hanboxiao/"
   },
+  "HanCheng": {
+    "title": "韩成 / Han Cheng",
+    "url": "/wiki/entities/hancheng/"
+  },
   "HanFei": {
     "title": "Han Fei / 韩非",
     "url": "/wiki/entities/hanfei/"
@@ -27415,6 +27419,10 @@
     "title": "芈完 / 楚考烈王 / Mi Wan",
     "url": "/wiki/entities/miwan/"
   },
+  "MiXin": {
+    "title": "芈心 / Mi Xin / Later Chu Huai Wang",
+    "url": "/wiki/entities/mixin/"
+  },
   "MiaEcommerce": {
     "title": "蜜芽 / Mia",
     "url": "/wiki/entities/miaecommerce/"
@@ -34891,6 +34899,10 @@
     "title": "Restore Britain",
     "url": "/wiki/entities/restorebritain/"
   },
+  "RestoredRoyalFigureheadLegitimacy": {
+    "title": "Restored Royal Figurehead Legitimacy / 复国王室名义合法性",
+    "url": "/wiki/concepts/restoredroyalfigureheadlegitimacy/"
+  },
   "RestrainedEmotionInClassicalWriting": {
     "title": "Restrained Emotion In Classical Writing / 古典文本中的克制情感",
     "url": "/wiki/concepts/restrainedemotioninclassicalwriting/"
@@ -41211,6 +41223,10 @@
     "title": "田和 / Tian He",
     "url": "/wiki/entities/tianhe/"
   },
+  "TianHeng": {
+    "title": "田横 / Tian Heng",
+    "url": "/wiki/entities/tianheng/"
+  },
   "TianJi": {
     "title": "田忌 / Tian Ji",
     "url": "/wiki/entities/tianji/"
@@ -41219,6 +41235,18 @@
     "title": "Tian Ji Horse Racing / 田忌赛马",
     "url": "/wiki/concepts/tianjihorseracing/"
   },
+  "TianJia": {
+    "title": "田假 / Tian Jia",
+    "url": "/wiki/entities/tianjia/"
+  },
+  "TianJianQiGeneral": {
+    "title": "田间 / Tian Jian (Qi General)",
+    "url": "/wiki/entities/tianjianqigeneral/"
+  },
+  "TianJiao": {
+    "title": "田角 / Tian Jiao",
+    "url": "/wiki/entities/tianjiao/"
+  },
   "TianLongBaBu": {
     "title": "《天龙八部》",
     "url": "/wiki/entities/tianlongbabu/"
@@ -41226,6 +41254,10 @@
   "TianQiHuanGong": {
     "title": "田氏齐桓公 / Tian-family Qi Huan Gong",
     "url": "/wiki/entities/tianqihuangong/"
+  },
+  "TianRong": {
+    "title": "田荣 / Tian Rong",
+    "url": "/wiki/entities/tianrong/"
   },
   "TianWenWeiChancellor": {
     "title": "田文 / Tian Wen (Wei chancellor)",
@@ -50474,6 +50506,10 @@
   "zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm": {
     "title": "《资治通鉴·秦纪》130-2｜历史记录首次屠城！",
     "url": "/wiki/sources/zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm/"
+  },
+  "zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz": {
+    "title": "《资治通鉴·秦纪》130-3｜为何立牧童为楚王，里面大有文章",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

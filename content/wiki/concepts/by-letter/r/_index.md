@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5037
+wiki_total_pages: 5038
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "RestorativeCreativePacing"
     title: "Restorative Creative Pacing"
     url: "/wiki/concepts/restorativecreativepacing/"
+  - key: "RestoredRoyalFigureheadLegitimacy"
+    title: "Restored Royal Figurehead Legitimacy / 复国王室名义合法性"
+    url: "/wiki/concepts/restoredroyalfigureheadlegitimacy/"
   - key: "RestrainedEmotionInClassicalWriting"
     title: "Restrained Emotion In Classical Writing / 古典文本中的克制情感"
     url: "/wiki/concepts/restrainedemotioninclassicalwriting/"

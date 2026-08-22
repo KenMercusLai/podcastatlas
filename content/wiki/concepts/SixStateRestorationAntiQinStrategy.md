@@ -2,7 +2,7 @@
 title: "Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略"
 type: concept
 tags: [rebellion, anti-qin, diplomacy, statecraft, qin-history]
-sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams]
+sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 
 [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] adds a repair version through [[ZhaoXie|赵歇]]. After [[LiLiangZhaoGeneral|李良]] kills [[WuChen|武臣]], [[ZhangEr|张耳]] and [[ChenYu|陈馀]] defeat Li Liang and then install Zhao Xie as an old Zhao royal descendant. Here restoration is not only initial mobilization against Qin; it is a way to rebuild legitimacy after a restored-state coup.
 
+[[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]] adds the Xiang Liang and Zhang Liang versions. [[FanZeng|范增]] persuades [[XiangLiang|项梁]] to restore a Chu royal descendant, so Xiang Liang installs [[MiXin|芈心 / 楚怀王]] as a new Chu Huai Wang; [[ZhangLiang|张良]] then persuades him to install [[HanCheng|韩成]] as Han king. This episode therefore clarifies a sub-mechanism, [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]]: a restored royal name can strengthen a rebel leader's legitimacy even when the figurehead has little military power.
+
 ## Key Claims
 - A revolt that begins from survival pressure still needs a political map if it wants to defeat an empire.
 - Restoring old royal descendants can create allied legitimacy nodes faster than one rebel leader can govern all captured territory.
@@ -33,6 +35,7 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 - Qinji 128-5 shows that restoration can also become separate-state self-strengthening if no shared command or trust holds the anti-Qin camp together.
 - Qinji 128-8 shows restoration multiplying across Qi and Wei, including a case where the military actor deliberately avoids personal kingship to make the restored state more legitimate.
 - Qinji 129-4 adds that old royal names can also repair a rebel polity after internal collapse, as with Zhao Xie after Wu Chen.
+- Qinji 130-3 adds that restoration can be deliberately figureheaded: Xiang Liang uses Mi Xin's Chu descent and Zhang Liang uses Han Cheng's Han descent to widen anti-Qin legitimacy without making the military organizer king.
 
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - advisers who propose the strategy in Qinji 128-3.
@@ -43,3 +46,4 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 - [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]], [[WuChen|武臣]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - sequel where Zhao restoration turns away from coordinated westward attack.
 - [[TianDanQinRebel|田儋]], [[ZhouShiRebel|周市]], [[WeiJiu|魏咎]], and [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] - Qi and Wei restoration branches after the revolt spreads.
 - [[ZhaoXie|赵歇]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], [[WuChen|武臣]], and [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] - Zhao royal restoration after Li Liang's coup.
+- [[MiXin|芈心 / 楚怀王]], [[HanCheng|韩成]], [[FanZeng|范增]], [[ZhangLiang|张良]], [[XiangLiang|项梁]], and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - Qinji 130-3 restored Chu and Han royal figureheads.

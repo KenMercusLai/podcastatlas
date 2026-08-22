@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6506
+wiki_total_pages: 6513
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "HanYihou"
     title: "韩懿侯 / Marquis Yi of Han"
     url: "/wiki/entities/hanyihou/"
+  - key: "HanCheng"
+    title: "韩成 / Han Cheng"
+    url: "/wiki/entities/hancheng/"
   - key: "HanWenhou"
     title: "韩文侯 / Marquis Wen of Han"
     url: "/wiki/entities/hanwenhou/"

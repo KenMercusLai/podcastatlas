@@ -2,7 +2,7 @@
 title: "魏咎 / Wei Jiu"
 type: entity
 tags: [person, wei-state, warring-states, chu-han-contention]
-sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
+sources: [zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
 last_updated: 2026-08-22
 ---
 
@@ -14,8 +14,11 @@ The source does not develop Wei Jiu's own biography. His role is connective: he 
 
 [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] pays off that availability. [[ZhouShiRebel|周市]] captures old Wei territory but refuses to become king himself, repeatedly asking [[ChenSheng|陈胜]] to release Wei Jiu so a former Wei royal descendant can hold the title. Chen Sheng agrees, Wei Jiu goes to Wei territory, and is installed as Wei king with Zhou Shi as chancellor.
 
+[[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]] records Wei Jiu's endpoint. [[ZhangHanQin|章邯]] attacks him at Linji, and Zhou Shi asks Qi and Chu for help. Zhang Han defeats the relief army, kills [[TianDanQinRebel|田儋]] and Zhou Shi, and leaves Wei Jiu unable to hold the city. Wei Jiu negotiates for Qin to spare Linji's civilians, then burns himself to death.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiWangJia|魏王假]] - fallen polity and surrendered ruler.
 - [[WeiBao|魏豹]] - paired Wei survivor in the source.
 - [[WangBenQin|王贲]], [[Daliang|大梁]], and [[HydraulicSiegeWarfare|水攻围城]] - military event that destroys Wei in the episode.
 - [[ZhouShiRebel|周市]], [[ChenSheng|陈胜]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - Qinji 128-8 restoration of Wei through surviving royal legitimacy.
+- [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]], [[ZhangHanQin|章邯]], [[TianDanQinRebel|田儋]], and [[WeiBao|魏豹]] - Linji defeat, civilian-sparing surrender condition, and succession of Wei recovery efforts.
