@@ -9906,3 +9906,11 @@ Added source page for Hanji 144 part 2: Zhang Liang's gift-mediated use of Xiang
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）
+
+Added source page for Hanji 145: Han Xin's Huaiyin origin, poverty and social isolation, Piaomu's feeding and rebuke, the market "胯下之辱" scene, Shiji's Huaiyin Hou biography as source basis, and Su Shi's "大勇" frame for reading non-retaliation as restraint under a larger aim. Created Huaiyin and Great Courage Under Humiliation; updated overview, index, Han Xin, Shiji, Sima Qian, and Su Shi. No settled contradiction found; kept possible old Han-state royal descent and family-background gaps source-scoped rather than converting them into settled genealogy.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

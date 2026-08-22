@@ -2,8 +2,8 @@
 title: "苏轼 / Su Shi / Su Dongpo"
 type: entity
 tags: [writer, poet, official, song-dynasty, china]
-sources: [114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
-last_updated: 2026-07-24
+sources: [zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+last_updated: 2026-08-22
 ---
 
 # 苏轼 / Su Shi / Su Dongpo
@@ -16,6 +16,8 @@ The episode's strongest claim is that Su Shi's greatness is cumulative. [[DingFe
 
 [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]] adds a smaller food-literary cameo. The episode uses Su Shi's crab-related poetic and anecdotal afterlife, including "一蟹不如一蟹", to show how Song literati taste, joking, seasonal eating, and proverb-making help turn [[Crab|螃蟹]] into [[CrabCulturalSymbolism]].
 
+[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145]] uses Su Shi as a moral interpreter rather than as the biographical subject. The episode cites 《留侯论》 to explain [[HanXin|韩信]]'s "胯下之辱" through [[GreatCourageUnderHumiliation|忍辱大勇]]: real courage may appear as non-retaliation when sudden pressure or unprovoked insult would otherwise consume the person's future.
+
 ## Connections
 - [[SuXun|苏洵]], [[SuZhe|苏辙]], [[ChengFuren|程夫人]], [[WangFuSuShi|王弗]], and [[WangChaoyun|王朝云]] - family and intimate network.
 - [[OuyangXiu|欧阳修]], [[WangAnshi|王安石]], [[SongShenzong|宋神宗]], and [[SimaGuang|司马光]] - political-literary field around him.
@@ -23,3 +25,4 @@ The episode's strongest claim is that Su Shi's greatness is cumulative. [[DingFe
 - [[Huangzhou|黄州]], [[Hangzhou|杭州]], [[Xuzhou|徐州]], [[Huizhou|惠州]], [[Danzhou|儋州]], and [[Changzhou|常州]] - life-stage locations.
 - [[EarnedOptimism]], [[ScholarOfficialPublicDuty]], [[LocalGovernanceAsCare]], and [[AuthorMythDeflation]] - main interpretive frames.
 - [[Crab|螃蟹]] and [[CrabCulturalSymbolism]] - episode 114's food-literary extension.
+- [[HanXin|韩信]] and [[GreatCourageUnderHumiliation|忍辱大勇]] - Hanji 145's use of 《留侯论》 as a courage-and-restraint frame.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）](sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce.md) — 芮淇讲透资治通鉴 episode on Han Xin's Huaiyin origins, poverty, Piaomu feeding, "胯下之辱," Shiji source basis, and the 忍辱大勇 reading of restraint under public humiliation.
 - [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（2）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu.md) — 芮淇讲透资治通鉴 episode on Liu Bang entering Hanzhong, Zhang Liang's burned-gallery-road signal, disappointed followers including Han Xin, Tian Rong/Peng Yue/Chen Yu's rebellion cascade, and Han Cheng's killing.
 - [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb.md) — 芮淇讲透资治通鉴 episode on Xiang Yu's partition backlash, demoted old kings, under-rewarded insiders, Mi Xin's forced relocation, and Xiao He's conversion of Liu Bang's Hanzhong demotion into Ba-Shu base-building.
 - [《资治通鉴·汉纪》143｜项羽是如何费尽心机弄死楚怀王芈心](sources/zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2.md) — 芮淇讲透资治通鉴 episode on Xiang Yu's rejection of the Huaiwang promise, Mi Xin's virtual elevation and removal to Chenxian, Liu Bang's Han kingship at Nanzheng, the Three Qin containment layer, and the Zhou-Qin hybrid reading of Xiang Yu's nineteen-lord settlement.
@@ -1239,7 +1240,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [韩信 / Han Xin](entities/HanXin.md) — Future Han general first appearing here as a disappointed follower entering Hanzhong with Liu Bang before his later command role is developed.
+- [韩信 / Han Xin](entities/HanXin.md) — Future Han general now extended from a disappointed Hanzhong follower into a Huaiyin early-biography case of poverty, public humiliation, and 忍辱大勇.
+- [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
 - [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer used by Hanji 144 as part of the immediate-war faction redirected by Xiao He's Hanzhong base-building counsel.
 - [灌婴 / Guan Ying](entities/GuanYing.md) — Liu Bang-side officer grouped with Zhou Bo and Fan Kuai in Hanji 144's post-Hanzhong morale-management scene.
 - [南郑 / Nanzheng](entities/Nanzheng.md) — Liu Bang's assigned Han-king capital in Hanji 143, marking his constrained placement in Ba-Shu and Hanzhong behind the Three Qin layer.
@@ -7828,6 +7830,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Great Courage Under Humiliation / 忍辱大勇](concepts/GreatCourageUnderHumiliation.md) — Hanji 145 frame for reading Han Xin's "胯下之辱" as restraint that preserves a larger future rather than simple cowardice.
 - [Burning Gallery Roads / 烧栈道](concepts/BurningGalleryRoads.md) — Zhang Liang's Hanji 144 part 2 tactic where destroying the Hanzhong gallery roads protects Liu Bang and signals temporary acceptance of retreat.
 - [Reward Allocation Backlash / 分配反噬](concepts/RewardAllocationBacklash.md) — Hanji 144 frame for how Xiang Yu's partition creates resentment among demoted old kings, excluded rivals, under-rewarded insiders, and armed regional actors.
 - [Strategic Retreat Base-Building / 退让式根据地经营](concepts/StrategicRetreatBaseBuilding.md) — Xiao He's Hanji 144 strategy for turning Liu Bang's Hanzhong demotion into a survivable Ba-Shu base, protected by retreat signaling and talent absorption.
