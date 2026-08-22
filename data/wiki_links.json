@@ -20335,6 +20335,10 @@
     "title": "Imperial Symbolic Standardization / 帝国符号标准化",
     "url": "/wiki/concepts/imperialsymbolicstandardization/"
   },
+  "ImperialTitleRetrenchment": {
+    "title": "帝号退回王号 / Imperial Title Retrenchment",
+    "url": "/wiki/concepts/imperialtitleretrenchment/"
+  },
   "ImperialTourPoliticalTheater": {
     "title": "Imperial Tour Political Theater / 帝国巡游政治剧场",
     "url": "/wiki/concepts/imperialtourpoliticaltheater/"
@@ -23855,6 +23859,10 @@
     "title": "蓝田之战 / Battle of Lantian",
     "url": "/wiki/entities/lantianbattle/"
   },
+  "LantianLateQin": {
+    "title": "蓝田 / Lantian (Late Qin)",
+    "url": "/wiki/entities/lantianlateqin/"
+  },
   "LaoAi": {
     "title": "嫪毐 / Lao Ai",
     "url": "/wiki/entities/laoai/"
@@ -25678,6 +25686,10 @@
   "LuHuanGong": {
     "title": "鲁桓公 / Duke Huan of Lu",
     "url": "/wiki/entities/luhuangong/"
+  },
+  "LuJia": {
+    "title": "陆贾 / Lu Jia",
+    "url": "/wiki/entities/lujia/"
   },
   "LuJinggong": {
     "title": "鲁景公 / Duke Jing of Lu",
@@ -31055,6 +31067,10 @@
     "title": "Palace Access Monopoly / 宫廷接触垄断",
     "url": "/wiki/concepts/palaceaccessmonopoly/"
   },
+  "PalaceCoupUnderPolicingPretext": {
+    "title": "治安名义政变 / Palace Coup Under Policing Pretext",
+    "url": "/wiki/concepts/palacecoupunderpolicingpretext/"
+  },
   "PalaceScandalPowerConsolidation": {
     "title": "Palace Scandal Power Consolidation / 宫廷丑闻式收权",
     "url": "/wiki/concepts/palacescandalpowerconsolidation/"
@@ -35386,6 +35402,10 @@
   "Ritan": {
     "title": "日谈",
     "url": "/wiki/entities/ritan/"
+  },
+  "RitualAmbushCountercoup": {
+    "title": "宗庙仪式反制政变 / Ritual Ambush Countercoup",
+    "url": "/wiki/concepts/ritualambushcountercoup/"
   },
   "RitualHopeConsumption": {
     "title": "Ritual Hope Consumption / 仪式性希望消费",
@@ -43755,6 +43775,10 @@
     "title": "王道 versus 霸道 / Kingly Way Over Hegemony",
     "url": "/wiki/concepts/wangdaovsbadao/"
   },
+  "WangyiPalace": {
+    "title": "望夷宫 / Wangyi Palace",
+    "url": "/wiki/entities/wangyipalace/"
+  },
   "WangziDing": {
     "title": "王子定 / Prince Ding",
     "url": "/wiki/entities/wangziding/"
@@ -45882,6 +45906,10 @@
   "YaoXin": {
     "title": "姚欣 / Yao Xin",
     "url": "/wiki/entities/yaoxin/"
+  },
+  "Yaoguan": {
+    "title": "峣关 / Yaoguan",
+    "url": "/wiki/entities/yaoguan/"
   },
   "YaserGonzalezCabrera": {
     "title": "Yaser Gonzalez Cabrera",
@@ -50830,6 +50858,10 @@
   "zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy": {
     "title": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）",
     "url": "/wiki/sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy/"
+  },
+  "zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto": {
+    "title": "《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2）",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

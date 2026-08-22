@@ -9830,3 +9830,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2）
+
+Added source page for Qinji 138 part 2: Yan Le's Wangyi Palace coup and Hu Hai's suicide, Zhao Gao's post-coup reduction from emperor to Qin king, Ziying's source-scoped identity as Fusu's son and counter-killing of Zhao Gao, and Liu Bang/Zhang Liang's Yaoguan-Lantian breakthrough. Created Wangyi Palace, Yaoguan, Lantian (Late Qin), Lu Jia, Palace Coup Under Policing Pretext, Imperial Title Retrenchment, and Ritual Ambush Countercoup; updated overview, index, Zhao Gao, Qin Er Shi, Ziying, Yan Le, Zhao Cheng, Liu Bang, Zhang Liang, Wuguan, Qin State, Crisis Information Blockade, Political Surrender Cascade, and Court Feedback Collapse. No settled contradiction found; preserved Ziying's identity as this source's Shiji/dictionary-backed reading while keeping earlier source-scoped "嬴婴" caution visible and disambiguated late-Qin Lantian from the Warring States Lantian Battle.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

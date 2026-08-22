@@ -2,7 +2,7 @@
 title: "武关 / Wuguan"
 type: entity
 tags: [place, pass, pre-qin, warring-states, qin-state, chu-state]
-sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+sources: [zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
 last_updated: 2026-08-20
 ---
 
@@ -18,6 +18,8 @@ The second attack uses the same route in a more dangerous way. Qin retreats thro
 
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] adds Wuguan's Qin-collapse role. [[LiuBang|刘邦]] captures the pass with tens of thousands of troops, making the anti-Qin war visible at a gateway into Qin's heartland. In that episode, Wuguan is the point where [[ZhaoGao|赵高]]'s [[CrisisInformationBlockade|危机信息封锁]] can no longer keep [[QinErshi|胡亥 / 秦二世]] insulated from the eastern rebellion.
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] makes Wuguan the previous gateway before the final [[Yaoguan|峣关]] and [[LantianLateQin|蓝田]] line. Once Wuguan exposes the war to Hu Hai, the palace crisis ends with Hu Hai's death; the battlefield sequence then continues as Ziying's Qin tries and fails to hold the next pass.
+
 ## Connections
 - [[DanyangBattle|丹阳之战]] and [[LantianBattle|蓝田之战]] - two campaign stages tied to the route.
 - [[QinState|秦国]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - combatants and decision-maker.
@@ -26,3 +28,4 @@ The second attack uses the same route in a more dangerous way. Qin retreats thro
 - [[Qianzhong|黔中]], [[ZhangYiStrategist|张仪]], and [[LianhengStrategy|连横]] - Zhouji 53 land-exchange and Qin threat-map branch.
 - [[QinZhaoxiangwang|秦昭襄王]], [[ZhaoJu|昭雎]], [[MiLan|芈兰]], [[Xianyang|咸阳]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 62 meeting trap and detention branch.
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[LiuBang|刘邦]], [[ZhaoGao|赵高]], [[QinErshi|胡亥 / 秦二世]], and [[CrisisInformationBlockade|危机信息封锁]] - Qin-collapse gateway captured and hidden crisis exposed.
+- [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[Yaoguan|峣关]], [[LantianLateQin|蓝田]], and [[ZiyingQin|子婴]] - next defensive line after Wuguan's fall exposes the court crisis.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（2）](sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto.md) — 芮淇讲透资治通鉴 episode closing the Qin collapse sequence through Yan Le's Wangyi Palace coup against Hu Hai, Zhao Gao's reduced Qin kingship, Ziying's killing of Zhao Gao, and Liu Bang/Zhang Liang's Yaoguan-Lantian breakthrough.
 - [《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）](sources/zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy.md) — 芮淇讲透资治通鉴 episode arguing Zhao Gao was not a eunuch through "宦人/宦籍" and "隐官" terminology, excavated bamboo-slip evidence, Yan Le as son-in-law, and the palace-coup prelude against Hu Hai.
 - [《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈](sources/zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj.md) — 芮淇讲透资治通鉴 episode on Zhang Han's surrender, Xiang Yu's flawed 雍王 settlement, Zhao Gao's 指鹿为马 loyalty test, and crisis information blockade before Liu Bang reaches Wuguan.
 - [《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿](sources/zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o.md) — 芮淇讲透资治通鉴 episode completing Li Shiqi's meeting with Liu Bang, taking Chenliu, the Yingchuan massacre, and the Wan/Nanyang surrender turn toward pacifying Qin people.
@@ -1339,6 +1340,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [嬴高 / Ying Gao](entities/YingGao.md) — Qin prince who petitions to be buried with Qin Shi Huang so his death does not endanger his family during Hu Hai's purge.
 - [嬴将闾 / Ying Jianglu](entities/YingJianglu.md) — Qin prince whose unanswered request for a real charge shows the procedural emptiness of Hu Hai's royal purge.
 - [子婴 / Ziying (Qin)](entities/ZiyingQin.md) — Qin prince who warns Hu Hai not to kill the Meng brothers and later appears in Qinji 138's source-scoped "嬴婴" replacement-king setup.
+- [望夷宫 / Wangyi Palace](entities/WangyiPalace.md) — Qin Er Shi's final palace setting where Yan Le uses a thief-catching pretext to force Hu Hai's suicide.
+- [峣关 / Yaoguan](entities/Yaoguan.md) — Late-Qin pass defended after Ziying kills Zhao Gao, then bypassed and broken by Liu Bang under Zhang Liang's advice.
+- [蓝田 / Lantian (Late Qin)](entities/LantianLateQin.md) — Lantian-area battlefield in Qinji 138 part 2, disambiguated from the earlier Chu-Qin Lantian Battle.
+- [陆贾 / Lu Jia](entities/LuJia.md) — Liu Bang-side persuader sent with Li Shiqi in Zhang Liang's plan to test and loosen Qin's Yaoguan defense.
 - [冯去疾 / Feng Quji](entities/FengQuji.md) — Qin minister named by the 《赵正书》 variant in Qinji 127-3 as part of the deathbed argument for choosing nearby Hu Hai.
 - [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider now treated as a eunuch-label controversy, moving from death secrecy and access monopoly into truth inversion and a family-backed coup circle.
 - [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
@@ -7795,6 +7800,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [治安名义政变 / Palace Coup Under Policing Pretext](concepts/PalaceCoupUnderPolicingPretext.md) — Armed palace seizure packaged as a law-enforcement response, introduced through Yan Le's Wangyi Palace attack.
+- [帝号退回王号 / Imperial Title Retrenchment](concepts/ImperialTitleRetrenchment.md) — Zhao Gao's post-Hu-Hai reduction from imperial title to Qin king title as the empire visibly contracts.
+- [宗庙仪式反制政变 / Ritual Ambush Countercoup](concepts/RitualAmbushCountercoup.md) — Ziying's use of illness, fasting, and temple-rite timing to lure and kill Zhao Gao.
 - [早期宦官词义误读 / Early Eunuch Terminology Misreading](concepts/EarlyEunuchTerminologyMisreading.md) — Qinji 138 pattern where later eunuch meanings are projected onto early "宦人/宦籍" palace-service terms.
 - [隐官身份误读 / Yinguan Status Misreading](concepts/YinguanStatusMisreading.md) — Correction that "隐官" in Zhao Gao's background is a legal-status/workplace term rather than proof of castration.
 - [出土文献词义校正 / Excavated Text Lexical Correction](concepts/ExcavatedTextLexicalCorrection.md) — Method where bamboo-slip evidence corrects inherited institutional word meanings.

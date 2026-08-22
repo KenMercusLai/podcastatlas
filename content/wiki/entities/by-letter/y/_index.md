@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6561
+wiki_total_pages: 6565
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "YueZhongqi"
     title: "岳钟琪 / Yue Zhongqi"
     url: "/wiki/entities/yuezhongqi/"
+  - key: "Yaoguan"
+    title: "峣关 / Yaoguan"
+    url: "/wiki/entities/yaoguan/"
   - key: "YangXiong"
     title: "扬雄 / Yang Xiong"
     url: "/wiki/entities/yangxiong/"

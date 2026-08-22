@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5056
+wiki_total_pages: 5059
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "PeiCountyUprisingMobilization"
     title: "沛县起义动员 / Pei County Uprising Mobilization"
     url: "/wiki/concepts/peicountyuprisingmobilization/"
+  - key: "PalaceCoupUnderPolicingPretext"
+    title: "治安名义政变 / Palace Coup Under Policing Pretext"
+    url: "/wiki/concepts/palacecoupunderpolicingpretext/"
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"

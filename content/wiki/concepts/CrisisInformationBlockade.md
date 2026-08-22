@@ -2,7 +2,7 @@
 title: "Crisis Information Blockade / 危机信息封锁"
 type: concept
 tags: [governance, information-control, court-politics, crisis, qin]
-sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj]
+sources: [zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj]
 last_updated: 2026-08-22
 ---
 
@@ -14,6 +14,8 @@ The blocked information is not trivial. The episode says [[WangLiQin|王离]] ha
 
 The blockade buys Zhao Gao time but raises the eventual danger. Once [[LiuBang|刘邦]] captures [[Wuguan|武关]], the crisis reaches a Qin heartland gateway and can no longer be kept at a comfortable distance. Hu Hai's question about the eastern "bandits" then turns information control into personal danger for Zhao Gao.
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] shows the personal-danger endpoint. Zhao Gao does not solve the reporting failure; he removes the ruler who is asking questions. At [[WangyiPalace|望夷宫]], Hu Hai's last remaining eunuch says that not speaking is why he survived, making the blockade a court-wide survival rule rather than only Zhao Gao's private lie.
+
 This concept is narrower than [[InformationCocoon|信息茧房]] and different from [[BattlefieldInformationControl|战场信息控制]]. It is not passive selective exposure, and it is not deception aimed at an enemy army. It is a court insider suppressing operational reality from the ruler in order to delay blame and preserve personal power.
 
 ## Key Claims
@@ -22,6 +24,7 @@ This concept is narrower than [[InformationCocoon|信息茧房]] and different f
 - The more successful the blockade is early, the more dangerous the later reality shock becomes.
 - Military crisis is especially hard to hide once geography changes the evidence: Wuguan's fall turns distant rebellion into a core-security problem.
 - Crisis information blockade often pairs with purge politics, because the same actor who hides bad news must later control who is blamed for it.
+- The endpoint can be violent substitution: when hidden crisis becomes undeniable, the operator may target the ruler rather than reveal the truth.
 
 ## Connections
 - [[ZhaoGao|赵高]], [[QinErshi|胡亥 / 秦二世]], [[WangLiQin|王离]], and [[ZhangHanQin|章邯]] - source actors and blocked battlefield information.
@@ -29,3 +32,4 @@ This concept is narrower than [[InformationCocoon|信息茧房]] and different f
 - [[CourtFeedbackCollapse|君臣反馈失灵]] and [[PalaceAccessMonopoly|宫廷接触垄断]] - adjacent Qin court information failures.
 - [[PointingDeerAsHorse|指鹿为马]] - same-episode companion mechanism where reality is overwritten in public rather than hidden in private.
 - [[PowerExitTrap|权力退场困境]] - personal danger once the operator can no longer safely reveal or solve the crisis.
+- [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[WangyiPalace|望夷宫]], and [[PalaceCoupUnderPolicingPretext|治安名义政变]] - blockade endpoint as palace attack and Hu Hai's isolation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6561
+wiki_total_pages: 6565
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "LanXiaokang"
     title: "蓝小康 / Lan Xiaokang"
     url: "/wiki/entities/lanxiaokang/"
+  - key: "LantianLateQin"
+    title: "蓝田 / Lantian (Late Qin)"
+    url: "/wiki/entities/lantianlateqin/"
   - key: "LantianBattle"
     title: "蓝田之战 / Battle of Lantian"
     url: "/wiki/entities/lantianbattle/"
@@ -1043,6 +1046,9 @@ wiki_pages:
   - key: "LuChuan"
     title: "陆川 / Lu Chuan"
     url: "/wiki/entities/luchuan/"
+  - key: "LuJia"
+    title: "陆贾 / Lu Jia"
+    url: "/wiki/entities/lujia/"
   - key: "LongxiCommandery"
     title: "陇西郡 / Longxi Commandery"
     url: "/wiki/entities/longxicommandery/"

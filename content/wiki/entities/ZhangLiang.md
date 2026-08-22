@@ -26,6 +26,8 @@ In QinZong's reading, [[FanKuai|樊哙]]'s dramatic rebuke of [[XiangYu|项羽]]
 
 [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] shows Zhang Liang working as a route-risk adviser on Liu Bang's western line. After Liu Bang moves through [[YingchuanCommandery|颍川郡]], Zhang Liang reappears and is sent to recover old Han territory. At [[WanCounty|宛县]], he warns Liu Bang that bypassing the city could leave a rear enemy while Qin blocks the road ahead, causing Liu Bang to turn back and surround Wan before accepting its surrender.
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] gives a late payoff to that route-risk role at [[Yaoguan|峣关]]. Zhang Liang tells [[LiuBang|刘邦]] not to underestimate Qin, uses mountain flags to create psychological pressure, and sends [[LiShiqi|郦食其]] and [[LuJia|陆贾]] to persuade Qin generals. When Liu Bang considers accepting the peace offer, Zhang Liang warns that generals may want to defect while soldiers may not follow, so the better move is to attack while the Qin side is relaxed.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - central source scene.
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], [[FanKuai|樊哙]], and [[FanZeng|范增]] - figures whose moves he reads.
@@ -38,3 +40,4 @@ In QinZong's reading, [[FanKuai|樊哙]]'s dramatic rebuke of [[XiangYu|项羽]]
 - [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]], [[ClaimRestraintThroughAttachment|有所归属式名位节制]], and [[PowerExitTrap|权力退场困境]] - reprise of the bridge test through measured action and later successful withdrawal.
 - [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[JingJu|景居 / 景驹]], [[LiuBang|刘邦]], and [[StrategicRecognitionAlignment|谋略知己式归附]] - first attachment to Liu Bang through understood strategy.
 - [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]], [[WanCounty|宛县]], [[NanyangCommandery|南阳郡]], and [[ChenHuiNanyang|陈恢]] - rear-threat warning and surrender setup on Liu Bang's westward route.
+- [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[Yaoguan|峣关]], [[LuJia|陆贾]], [[LantianLateQin|蓝田]], and [[PoliticalSurrenderCascade|招降示范级联]] - final route warning, persuasion plan, and attack timing before Liu Bang's Lantian victories.

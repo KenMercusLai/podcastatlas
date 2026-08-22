@@ -2,7 +2,7 @@
 title: "Political Surrender Cascade / 招降示范级联"
 type: concept
 tags: [statecraft, rebellion, signaling, military]
-sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ This is not the same as battlefield victory. It depends on social proof, fear of
 
 The two variants show why the cascade depends on credibility, not just fear. A severed-head display may open one city, but the Wan settlement makes surrender look survivable and even honorable, which is more useful for Liu Bang's longer [[GuanzhongRegion|关中]] route.
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] adds a cautionary limit at [[Yaoguan|峣关]]. [[ZhangLiang|张良]] sends [[LiShiqi|郦食其]] and [[LuJia|陆贾]] to persuade Qin generals, and the generals are willing to talk peace. He still warns [[LiuBang|刘邦]] that officers' willingness may not bind soldiers, so persuasion can create an attack window without guaranteeing a reliable surrender cascade.
+
 ## Connections
 - [[KuaiChe|蒯彻]] and [[WuChen|武臣]] - adviser and commander in the source.
 - [[YanState|燕国]] and [[ZhaoState|赵国]] - old-state territories affected by the cascade.
@@ -25,3 +27,4 @@ The two variants show why the cascade depends on credibility, not just fear. A s
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - later risk when fast expansion becomes separate-state power.
 - [[Chenliu|陈留]], [[LiShiqi|郦食其]], [[WanCounty|宛县]], [[ChenHuiNanyang|陈恢]], and [[LiuBang|刘邦]] - Qinji 136 coercive and rewarded-surrender variants.
 - [[HezongAlliance|合纵]] and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - adjacent political-scaling concepts.
+- [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[Yaoguan|峣关]], [[LuJia|陆贾]], [[ZhangLiang|张良]], and [[LantianLateQin|蓝田]] - final caution that commander-level peace does not guarantee troop-level compliance.

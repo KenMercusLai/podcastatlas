@@ -38,6 +38,8 @@ The same episode adds Zhao Gao's final reward from the Li Si case. Even though a
 
 [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]] then moves him from concealment to direct palace action. After Hu Hai asks about the rebellion, Zhao Gao joins with Yan Le and his brother [[ZhaoChengQin|赵成]] to move against the ruler, while proposing a replacement rendered by the source as "嬴婴" and connected here cautiously to [[ZiyingQin|子婴]].
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] completes that move. Zhao Gao uses Yan Le's [[PalaceCoupUnderPolicingPretext|治安名义政变]] at [[WangyiPalace|望夷宫]] to force Hu Hai's suicide, then announces [[ImperialTitleRetrenchment|帝号退回王号]] by reducing the ruler from emperor to Qin king. His control fails almost immediately because Ziying treats the accession ritual as a trap, feigns illness, and kills Zhao Gao through [[RitualAmbushCountercoup|宗庙仪式反制政变]].
+
 ## Key Claims
 - Zhao Gao's legal skill and access to the imperial carriage office make him more than a palace attendant in the source's transition narrative.
 - His past death sentence under Meng Yi makes the Meng family a survival threat, not just a factional rival.
@@ -53,6 +55,7 @@ The same episode adds Zhao Gao's final reward from the Li Si case. Even though a
 - Qinji 137 adds public falsehood and crisis-news suppression: Zhao Gao uses the deer-horse test to map officials' obedience and blocks bad war reports until Liu Bang reaches Wuguan.
 - Qinji 138 revises Zhao Gao's identity: "宦人/宦籍" and "隐官" are read as office, access, and legal-status terms rather than proof that he was a castrated eunuch.
 - Qinji 138 also adds Zhao Gao's family-backed coup circle through Yan Le and Zhao Cheng after Hu Hai begins asking about the concealed rebellion.
+- Qinji 138 part 2 finishes Zhao Gao's arc: he kills Hu Hai under a policing pretext, reduces Qin's title claim to kingship, and is then killed by Ziying during the accession ritual.
 
 ## Connections
 - [[QinShiHuang|秦始皇]] - ruler who promoted and pardoned him.
@@ -68,3 +71,4 @@ The same episode adds Zhao Gao's final reward from the Li Si case. Even though a
 - [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]], [[CoercedConfessionTrap|逼供认罪陷阱]], [[PoliticalShowTrial]], [[LiSi|李斯]], and [[QinErshi|胡亥 / 秦二世]] - coerced prison confession, blocked appeal, false review, and Zhao Gao's chancellor appointment.
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[PointingDeerAsHorse|指鹿为马]], [[CrisisInformationBlockade|危机信息封锁]], [[WangLiQin|王离]], [[ZhangHanQin|章邯]], [[LiuBang|刘邦]], and [[Wuguan|武关]] - truth inversion, military-news suppression, and crisis exposure.
 - [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]], [[YanLe|阎乐]], [[ZhaoChengQin|赵成]], [[EarlyEunuchTerminologyMisreading|早期宦官词义误读]], [[YinguanStatusMisreading|隐官身份误读]], [[ZhangjiashanHanmuZhujian|张家山汉墓竹简]], and [[ShuihudiQinJian|睡虎地秦简]] - eunuch-label revision, hidden-office background, and late palace-coup circle.
+- [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[WangyiPalace|望夷宫]], [[PalaceCoupUnderPolicingPretext|治安名义政变]], [[ImperialTitleRetrenchment|帝号退回王号]], and [[RitualAmbushCountercoup|宗庙仪式反制政变]] - Hu Hai's death, title reduction, and Zhao Gao's own killing by Ziying.

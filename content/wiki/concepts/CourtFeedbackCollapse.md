@@ -50,6 +50,8 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 
 [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7]] adds the post-arrest version. Li Si still tries to send corrective information to [[QinErshi|胡亥 / 秦二世]] by memorializing his service and denying rebellion, but [[ZhaoGao|赵高]] intercepts the document. The later imperial review also fails because fake reviews and torture have already trained Li Si to repeat a false confession. Feedback therefore collapses even when the ruler thinks he has checked the matter.
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] gives the abandonment endpoint. At [[WangyiPalace|望夷宫]], Hu Hai asks why the remaining eunuch did not warn him earlier; the answer is that silence preserved the eunuch's life. In this branch, feedback collapse has become a survival norm: the ruler's past punishments teach attendants not to report reality, and when the coup arrives there is no advisory system left to defend him.
+
 ## Key Claims
 - A ruler's self-certainty can silence capable advisers before policy is tested.
 - Ministerial flattery is dangerous because it disguises information failure as harmony.

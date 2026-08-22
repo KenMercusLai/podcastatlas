@@ -70,6 +70,8 @@ The same episode then gives Liu Bang a cleaner pacification turn at [[WanCounty|
 
 [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] completes that recognition scene. In the episode's account, Xu Fu's face-reading turns into immediate local transfer: her father hands over Wen County's seal and Liu Bang gains the county nearly bloodlessly. The sequel also says Liu Bang later remembers and rewards Xu Fu after founding Han, making her case a higher-stakes parallel to [[LuGongLiuBangFatherInLaw|吕公]]'s earlier [[PhysiognomicInvestmentJudgment|看相式政治投资]].
 
+[[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]] carries Liu Bang from the [[Wuguan|武关]] pressure point into Qin's final defensive line. After [[ZiyingQin|子婴]] sends troops to [[Yaoguan|峣关]], [[ZhangLiang|张良]] advises Liu Bang to use flags, persuasion through [[LiShiqi|郦食其]] and [[LuJia|陆贾]], and then attack while Qin is relaxed rather than accept a premature peace. Liu Bang bypasses Yaoguan, crosses mountain terrain, and defeats Qin forces south and north of [[LantianLateQin|蓝田]].
+
 ## Key Claims
 - Liu Bang's origin stories helped sacralize Han rule.
 - Founding mythology became a later vulnerability when legitimacy was read through signs.
@@ -92,6 +94,7 @@ The same episode then gives Liu Bang a cleaner pacification turn at [[WanCounty|
 - Qinji 135 adds Peng Yue's attachment during the Changyi campaign and introduces Li Shiqi as a low-status persuader trying to reach Liu Bang despite Liu Bang's anti-scholar reputation.
 - Qinji 136 completes Li Shiqi's recognition scene, turns Chenliu into Liu Bang's preparation base, adds the Yingchuan massacre as a terror-signaling complication, and makes Wan/Nanyang surrender the turn toward pacifying Qin people as future subjects.
 - Qinji 137 adds Liu Bang's capture of Wuguan as the pressure point that exposes Zhao Gao's hidden war crisis.
+- Qinji 138 part 2 adds Liu Bang's Yaoguan-Lantian breakthrough: persuasion creates an opening, but final progress comes from bypassing the pass and attacking while Qin is lax.
 - Qinji 135 番外篇1 adds the initial Xu Fu recognition scene, and 番外篇2 completes it by having Wen County's seal handed over to Liu Bang and later linking Liu Bang's imperial reward to Xu Fu's early support.
 
 ## Connections
@@ -118,4 +121,5 @@ The same episode then gives Liu Bang a cleaner pacification turn at [[WanCounty|
 - [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]], [[PengYue|彭越]], [[LiShiqi|郦食其]], [[BanditToArmyDiscipline|盗匪成军纪律化]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Changyi ally acquisition and pending persuader access.
 - [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]], [[Chenliu|陈留]], [[YingchuanCommandery|颍川郡]], [[WanCounty|宛县]], [[ChenHuiNanyang|陈恢]], and [[PoliticalSurrenderCascade|招降示范级联]] - completed Li Shiqi advice, westward provisioning, terror, and rewarded surrender.
 - [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[Wuguan|武关]], [[ZhaoGao|赵高]], and [[CrisisInformationBlockade|危机信息封锁]] - captured pass as the visible end of Zhao Gao's concealment.
+- [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto|Qinji 138 part 2]], [[Yaoguan|峣关]], [[LantianLateQin|蓝田]], [[LuJia|陆贾]], and [[PoliticalSurrenderCascade|招降示范级联]] - final pass breakthrough through persuasion, caution, bypass, and attack.
 - [[zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk|Qinji 135 番外篇1]], [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]], [[XuFuPhysiognomist|许负]], and [[FateReadingPoliticalRisk|命相判断的政治风险]] - recognition-and-seal handoff scene completed by the sequel.
