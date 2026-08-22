@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？](sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7.md) — 芮淇讲透资治通鉴 episode on Li Shiqi's death after Han Xin's Kuai Che-urged Qi attack, Cao Jiu's provoked defeat at Chenggao/Sishui, and Xiang Yu's failed hostage and duel pressure at Guangwu.
 - [《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城](sources/zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx.md) — 芮淇讲透资治通鉴 episode on Li Shiqi's Aocang/Chenggao logistics advice, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that disrupts the diplomatic submission.
 - [《资治通鉴·汉纪》162-2｜刘邦如何收拾位高权重的下属](sources/zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz.md) — 芮淇讲透资治通鉴 episode on Peng Yue's rear pressure, Xiang Yu's exhausting tactical wins, Liu Bang's flight from Chenggao, and his seizure of Han Xin and Zhang Er's command symbols before redirecting Han Xin toward Qi.
 - [《资治通鉴·汉纪》162-1｜他替刘邦去死 如今成了郑州的守护神](sources/zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm.md) — 芮淇讲透资治通鉴 episode on Ji Xin's substitutional death at Xingyang, Liu Bang's escape, Zhou Ke and Cong Gong executing Wei Bao, Yuan Sheng's Wuguan diversion, and Peng Yue's rear logistics pressure.
@@ -1278,6 +1279,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [广武 / Guangwu (Chu-Han)](entities/GuangwuChuHan.md) — Chu-Han standoff site where Liu Bang rejects Xiang Yu's hostage leverage and duel challenge after Han retakes Chenggao and Aocang.
+- [汜水 / Si River (Chu-Han)](entities/SishuiChuHan.md) — river crossing outside Chenggao where Cao Jiu's provoked sortie is struck mid-crossing in Hanji 163.
 - [郑州 / Zhengzhou](entities/Zhengzhou.md) — Present-day city frame used by Hanji 162-1 to connect Ji Xin's Xingyang sacrifice with later city-god memory.
 - [下邳 / Xiapi](entities/Xiapi.md) — Chu-Han river-linked rear-pressure point where Peng Yue's attack threatens Xiang Yu's logistics near Pengcheng.
 - [成皋 / Chenggao](entities/Chenggao.md) — Chu-Han central-front position repeatedly lost and retaken, now also framed by Li Shiqi as part of the Aocang food-and-pass system Liu Bang should not abandon.
@@ -7943,6 +7946,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Command Synchronization Failure / 军令同步失灵](concepts/CommandSynchronizationFailure.md) — breakdown where diplomacy and military command keep executing incompatible mandates after conditions change, making Li Shiqi's Qi success fatal.
 - [Substitutional Escape Sacrifice / 代身突围牺牲](concepts/SubstitutionalEscapeSacrifice.md) — Hanji 162-1 pattern where a retainer impersonates the ruler to draw enemy attention, save the leader, and accept lethal consequence.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
 - [Cognition As Fortune Root / 认知通达决定福禄](concepts/CognitionAsFortuneRoot.md) — Hanji 161 part 4 claim that clear cognition and changed worldview matter more for fortune than feng shui, astrology, fortune-telling, ornaments, or cosmetic techniques.

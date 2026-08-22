@@ -2,7 +2,7 @@
 title: "Political Surrender Cascade / 招降示范级联"
 type: concept
 tags: [statecraft, rebellion, signaling, military]
-sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-23
 ---
 
@@ -27,6 +27,8 @@ The two variants show why the cascade depends on credibility, not just fear. A s
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds a Chu-Han military-reputation variant through Han Xin after Zhao's defeat. [[LiZuoChe|李左车]] advises that Han should make [[YanState|燕国]] submit by combining rest, pacification, visible pressure, and an envoy; Yan's surrender can then become the precedent used to pressure [[QiState|齐国]].
 
 [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] supplies the Qi branch, but as a broken cascade. [[LiShiqi|郦食其]] persuades [[TianGuangQiKing|田广]] and more than seventy Qi cities to move toward Han without immediate battle, yet [[HanXin|韩信]] attacks after [[KuaiChe|蒯彻 / 蒯通]] turns the result into a merit threat. The case shows that cascade logic can be politically fragile when surrender, military command, and reward accounting are not aligned.
+
+[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] records the cascade breaking rather than completing. Qi has lowered its guard after accepting Li Shiqi's persuasion, but Han Xin attacks anyway, producing Li Shiqi's execution and Qi's rapid military collapse. The result is still a Han gain, but not a stable surrender cascade; it is a forced collapse caused by [[CommandSynchronizationFailure|军令同步失灵]].
 
 ## Key Claims
 - Hanji 157 part 2 adds that a cascade can be powered by battlefield reputation: one state submits because a recent victory makes resistance look isolated, then that submission becomes leverage against the next state.

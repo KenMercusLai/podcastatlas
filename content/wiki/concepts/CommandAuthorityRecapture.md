@@ -2,7 +2,7 @@
 title: "统帅权再收束 / Command Authority Recapture"
 type: concept
 tags: [command, military, statecraft, chu-han]
-sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
 last_updated: 2026-08-23
 ---
 
@@ -15,6 +15,8 @@ The concept differs from [[CommandSealTrustRupture|将印信任破裂]]. In that
 The episode's management frame is that delegated military success can become dangerous if it hardens into autonomous control while the central front is collapsing. Recapture solves one problem but preserves another: the ruler regains command now, yet must still rely on the same capable subordinate for the next campaign.
 
 [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] shows that unresolved sequel. Han Xin has been redirected toward Qi, but [[LiShiqi|郦食其]] reaches the same target through diplomacy before Han Xin attacks. Because the recapture-and-redeployment sequence does not include a visible stop order after Li Shiqi's success, [[KuaiChe|蒯彻 / 蒯通]] can argue that Han Xin's original mandate still holds.
+
+[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] shows the cost of the missing update. Han Xin attacks, Li Shiqi is killed, and Qi's negotiated surrender turns into a battlefield collapse. The episode turns command authority recapture from an abstract governance problem into a concrete [[CommandSynchronizationFailure|军令同步失灵]]: the center's old order remains live after diplomacy has changed the operational facts.
 
 ## Key Claims
 - Delegation in wartime is reversible when the ruler can still control the symbols and procedures of command.

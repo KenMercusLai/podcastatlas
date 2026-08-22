@@ -2,7 +2,7 @@
 title: "Status Anxiety Persuasion / 位阶焦虑式说服"
 type: concept
 tags: [persuasion, diplomacy, court-politics, warring-states, pre-qin-history, chu-han]
-sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1]
 last_updated: 2026-08-23
 ---
 
@@ -17,6 +17,8 @@ The source does not say Fan Ju was irrational. Su Dai combines the status argume
 [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]] adds a succession-coup version through [[ZhaoGao|赵高]]'s approach to [[LiSi|李斯]]. Zhao Gao does not ask Li Si to prefer [[QinErshi|胡亥]] because Hu Hai is better; he asks whether Li Si can match [[MengTian|蒙恬]] in talent, strategy, merit, popularity, and [[FuSu|扶苏]]'s trust. The pressure works by making Fusu's legitimate succession look like Li Si's personal eclipse, converting a state transition into a ministerial rank panic.
 
 [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] adds a Chu-Han military version through [[KuaiChe|蒯彻 / 蒯通]]'s advice to [[HanXin|韩信]]. After [[LiShiqi|郦食其]] persuades [[TianGuangQiKing|田广]], Kuai Che does not only argue procedure; he asks whether one envoy's speech winning more than seventy cities should make Han Xin's hard military work look smaller. The persuasion turns a command decision into a rank-and-merit comparison.
+
+[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] shows that this persuasion succeeds. Han Xin attacks Qi, Li Shiqi is executed as a deceiver, and Kuai Che's merit argument becomes a cause of [[CommandSynchronizationFailure|军令同步失灵]]. The concept therefore has lethal consequences: anxiety over credit does not merely change reputation, it can overturn a diplomatic settlement and kill the person who produced it.
 
 ## Key Claims
 - A persuader can alter policy by turning a state benefit into a minister's personal threat.

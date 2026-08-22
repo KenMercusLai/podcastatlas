@@ -2,7 +2,7 @@
 title: "项伯 / Xiang Bo"
 type: entity
 tags: [person, qin-han, chu-han, xiang-family]
-sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
 last_updated: 2026-08-23
 ---
 
@@ -27,6 +27,8 @@ After returning to Xiang Yu's camp, Xiang Bo argues that attacking Liu Bang woul
 [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] shows Xiang Bo still functioning as a preservation channel later at Xingyang. When Liu Bang asks to divide the world at Xingyang's east-west line, Xiang Bo persuades Xiang Yu to consider accepting the peace. [[FanZeng|范增]] overturns that opening by arguing for Liu Bang's destruction, so Xiang Bo's role remains influential but not decisive against the anti-Liu adviser line.
 
 [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] reframes that preservation-channel role as part of a larger [[XiangCampFactionalCleavage|项羽阵营派系裂缝]]. The host places Xiang Bo on the Xiang-family and in-law side of Xiang Yu's regime, against the old Chu merit-command side represented by Fan Zeng. His Hongmen protection of Liu Bang and kinship authority therefore become more than personal quirks: they are the older fault line Chen Ping later exploits when isolating Fan Zeng.
+
+In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], Xiang Bo again restrains [[XiangYu|项羽]], this time during the hostage crisis at [[GuangwuChuHan|广武]]. When Xiang Yu threatens to cook [[LiuTaigong|刘太公]], Xiang Bo argues that killing him would only add harm and would not force [[LiuBang|刘邦]] to submit. The intervention keeps his page's preservation theme but shifts it from personal rescue to practical anti-backfire advice.
 
 ## Key Claims
 - Xiang Bo's authority in these sources comes from kinship, age, prior service in the Xiang camp, and his old life-debt relationship with Zhang Liang.

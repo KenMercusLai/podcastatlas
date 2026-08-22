@@ -2,7 +2,7 @@
 title: "蒯彻 / Kuai Che"
 type: entity
 tags: [person, strategist, anti-qin, rebellion, chu-han]
-sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-23
 ---
 
@@ -17,6 +17,8 @@ The result is the episode's main example of [[PoliticalSurrenderCascade|招降�
 [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] returns the same figure under the 蒯通 name. This page treats 蒯通 as the Han-source name/avoidance form for Kuai Che rather than creating a duplicate entity. In this later episode, Kuai Che advises [[HanXin|韩信]] not to halt the [[QiState|齐国]] campaign after [[LiShiqi|郦食其]] persuades [[TianGuangQiKing|田广]] to submit to Han.
 
 His argument has two layers. The procedural layer is that Han Xin was ordered to attack Qi and has not received a stop order from [[LiuBang|刘邦]]. The sharper psychological layer is [[StatusAnxietyPersuasion|位阶焦虑式说服]]: if one envoy can take more than seventy cities by speech, Han Xin's own campaign merit may look inferior. Kuai Che therefore becomes a recurring surrender-and-merit strategist, first using visible reward to make cities submit, then using merit anxiety to push a commander against an already-persuaded enemy.
+
+[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] shows the lethal consequence of that reframing. Han Xin accepts the argument, attacks Qi, and leaves Li Shiqi exposed as the apparent author of a false surrender promise. Kuai Che's reasoning therefore becomes a central driver of [[CommandSynchronizationFailure|军令同步失灵]]: he exploits the absence of a new stop order and turns procedural ambiguity into competitive urgency.
 
 ## Connections
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[HanXin|韩信]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], and [[QiState|齐国]] - later 蒯通 branch where he pushes Han Xin to attack Qi despite diplomatic submission.

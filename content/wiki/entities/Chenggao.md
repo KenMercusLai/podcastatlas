@@ -2,7 +2,7 @@
 title: "成皋 / Chenggao"
 type: entity
 tags: [place, chu-han, logistics, fortress]
-sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3]
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3]
 last_updated: 2026-08-23
 ---
 
@@ -15,6 +15,8 @@ last_updated: 2026-08-23
 [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] gives Chenggao another reversal. Liu Bang retakes it while Xiang Yu goes east against [[PengYue|彭越]], but Xiang Yu later returns, retakes the line, and makes Liu Bang abandon the position. Chenggao's fall becomes the immediate trigger for Liu Bang's flight north and [[CommandAuthorityRecapture|统帅权再收束]] at [[HanXin|韩信]] and [[ZhangEr|张耳]]'s camp.
 
 [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] makes Chenggao a hinge in two arguments. [[LiShiqi|郦食其]] tells [[LiuBang|刘邦]] not to abandon the Chenggao-[[Aocang|敖仓]] zone because grain and pass control can restore the front; meanwhile [[XiangYu|项羽]] leaves [[CaoJiu|曹咎]] to hold Chenggao when he turns east against Peng Yue. The source treats Li Shiqi's claim that Chenggao is already secure as rhetorical overstatement, but it preserves the place's strategic role.
+
+[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] completes that delegated-defense test with failure. Cao Jiu leaves Chenggao through the east gate after repeated insults, is hit while crossing [[SishuiChuHan|汜水]], and loses the city back to Liu Bang. Chenggao's fall also restores Han control over [[Aocang|敖仓]], so the fortress becomes the hinge between a tactical provocation and Xiang Yu's growing food shortage at [[GuangwuChuHan|广武]].
 
 ## Connections
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[Aocang|敖仓]], [[CaoJiu|曹咎]], and [[PengYue|彭越]] - logistics advice and Xiang Yu's garrison delegation while answering rear pressure.

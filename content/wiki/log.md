@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？
+
+Added source page for Hanji 163: Li Shiqi's death after Han Xin's Kuai Che-urged attack on Qi, Cao Jiu's provoked defeat at Sishui and the loss of Chenggao/Aocang, and the Guangwu hostage and duel confrontation between Xiang Yu and Liu Bang. Created Command Synchronization Failure, Guangwu (Chu-Han), and Sishui (Chu-Han); updated overview, index, and connected Chu-Han entity and concept pages. No settled contradiction found; Li Shiqi's hypothetical fourth-hero status and ambiguous Qi-name details remain source-scoped.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城
 
 Added source page for Hanji 162-3: Liu Bang's interception posture after command recapture, Liu Jia and Lu Wan reinforcing Peng Yue's rear raids, Xiang Yu leaving Cao Jiu at Chenggao, Li Shiqi's Aocang/Chenggao logistics warning, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that endangers the envoy. Created Cao Jiu; updated overview, index, Li Shiqi, Han Xin, Kuai Che/Kuai Tong, Tian Guang (Qi King), Qi State, Peng Yue, Liu Jia, Lu Wan, Liu Bang, Xiang Yu, Chenggao, Aocang, Yingyang, Linzi, Victory Deterrence Diplomacy, Political Surrender Cascade, Status Anxiety Persuasion, Transport Corridor Severance, Interest Reframing Persuasion, Xingyang Standoff, Xiayi Plan, and Command Authority Recapture. No settled contradiction found; Li Shiqi's Aocang/Chenggao factual overclaims and the Han command synchronization failure are kept source-scoped.
@@ -10205,6 +10209,10 @@ Added source page for Hanji 162-1: Ji Xin's substitutional death at Xingyang, Ch
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,042 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

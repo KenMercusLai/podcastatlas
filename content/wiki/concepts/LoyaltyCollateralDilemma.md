@@ -2,8 +2,8 @@
 title: "Loyalty-Collateral Dilemma / 忠义牵连困境"
 type: concept
 tags: [ethics, loyalty, political-violence, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
+last_updated: 2026-08-23
 ---
 
 # Loyalty-Collateral Dilemma / 忠义牵连困境
@@ -15,6 +15,8 @@ The concept is narrower than ordinary honor-over-life. The pressure does not fal
 The source does not present the dilemma as easy moral instruction. Wang Zhu had already withdrawn from Qi service because [[QiMinWang|齐湣王]] would not listen, so his loyalty is not blind agreement with the ruler. His death instead becomes a severe claim that a person can reject a bad ruler, fail to save the state, and still refuse to let the conquering side convert him into a legitimating prize.
 
 [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] adds a family-hostage version through [[WangLingMother|王陵母亲]]. [[XiangYu|项羽]] tries to make [[WangLingHanMinister|王陵]]'s political choice depend on his mother's survival, but she kills herself after instructing him to serve [[LiuBang|刘邦]]. The dilemma is therefore resolved by the collateral person removing herself from the coercive structure, which is morally extreme and politically effective in the source's reading.
+
+In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], [[LiuTaigong|刘太公]] becomes the explicit collateral object at [[GuangwuChuHan|广武]] when Xiang Yu threatens to cook him. Liu Bang refuses to let paternal obligation dictate the war decision, while [[XiangBo|项伯]] argues that killing the hostage will not create strategic leverage. The episode shows hostage collateral failing when the target can publicly reframe kinship and when the coercer cannot connect violence to a useful political outcome.
 
 ## Key Claims
 - Coercion can force moral cost onto third parties rather than only the target.

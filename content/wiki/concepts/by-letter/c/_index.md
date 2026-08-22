@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5116
+wiki_total_pages: 5117
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "ComfortLedFootwearDemand"
     title: "Comfort-Led Footwear Demand"
     url: "/wiki/concepts/comfortledfootweardemand/"
+  - key: "CommandSynchronizationFailure"
+    title: "Command Synchronization Failure / 军令同步失灵"
+    url: "/wiki/concepts/commandsynchronizationfailure/"
   - key: "CommandAndControlInfrastructure"
     title: "Command-and-Control Infrastructure"
     url: "/wiki/concepts/commandandcontrolinfrastructure/"

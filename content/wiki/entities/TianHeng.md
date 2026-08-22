@@ -2,8 +2,8 @@
 title: "田横 / Tian Heng"
 type: entity
 tags: [person, qi, qin, anti-qin, military]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+last_updated: 2026-08-23
 ---
 
 # 田横 / Tian Heng
@@ -17,6 +17,8 @@ The page therefore keeps Tian Heng tied to restored Qi's internal consolidation.
 [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] moves Tian Heng from restored-Qi office into active anti-Chu resistance after [[TianRong|田荣]]'s death. He gathers scattered Qi soldiers, installs Tian Rong's son [[TianGuangQiKing|田广]] as king, and holds out around [[JuWarringStates|莒城 / 城阳]]. This renewed Qi center keeps [[XiangYu|项羽]] occupied away from [[Xuzhou|彭城]], creating the opening for [[LiuBang|刘邦]] before [[PengchengBattle|彭城之战]].
 
 [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] gives that Qi resistance a post-Pengcheng settlement turn. Tian Heng defeats the Xiang-backed [[TianJia|田假]], after which Tian Jia flees to Xiang Yu and is killed. Tian Heng then reconciles with Xiang Yu and pacifies the Three Qi area, showing how Xiang Yu's Pengcheng victory changes the bargaining field even for a successful Qi opponent.
+
+In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], Tian Heng appears alongside [[TianGuangQiKing|田广]] when [[HanXin|韩信]] attacks after [[LiShiqi|郦食其]] has persuaded Qi to submit. The episode frames the execution of Li Shiqi as Qi leadership turning a failed synchronization inside Han into personal betrayal by the envoy, linking Tian Heng to the collapse of [[VictoryDeterrenceDiplomacy|胜势威慑外交]] and [[CommandSynchronizationFailure|军令同步失灵]].
 
 ## Connections
 - [[TianDanQinRebel|田儋]] and [[TianRong|田荣]] - Qi kinship and restored-state line.

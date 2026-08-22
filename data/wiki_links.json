@@ -9787,6 +9787,10 @@
     "title": "将印信任破裂 / Command-Seal Trust Rupture",
     "url": "/wiki/concepts/commandsealtrustrupture/"
   },
+  "CommandSynchronizationFailure": {
+    "title": "Command Synchronization Failure / 军令同步失灵",
+    "url": "/wiki/concepts/commandsynchronizationfailure/"
+  },
   "CommanderyCountyAntiEnfeoffment": {
     "title": "Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局",
     "url": "/wiki/concepts/commanderycountyantienfeoffment/"
@@ -18130,6 +18134,10 @@
   "GuanglunIntelligence": {
     "title": "光轮智能",
     "url": "/wiki/entities/guanglunintelligence/"
+  },
+  "GuangwuChuHan": {
+    "title": "广武 / Guangwu (Chu-Han)",
+    "url": "/wiki/entities/guangwuchuhan/"
   },
   "Guangxi": {
     "title": "Guangxi / 广西",
@@ -38335,6 +38343,10 @@
     "title": "Siri (起朱楼宴宾客)",
     "url": "/wiki/entities/siriqizhulou/"
   },
+  "SishuiChuHan": {
+    "title": "汜水 / Si River (Chu-Han)",
+    "url": "/wiki/entities/sishuichuhan/"
+  },
   "SituatedMediaObservation": {
     "title": "Situated Media Observation / 在场的媒体观察",
     "url": "/wiki/concepts/situatedmediaobservation/"
@@ -51322,6 +51334,10 @@
   "zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx": {
     "title": "《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城",
     "url": "/wiki/sources/zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx/"
+  },
+  "zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7": {
+    "title": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

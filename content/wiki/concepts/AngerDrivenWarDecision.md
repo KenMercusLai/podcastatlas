@@ -2,8 +2,8 @@
 title: "Anger-Driven War Decision / 因怒兴师"
 type: concept
 tags: [warfare, governance, leadership, strategy, pre-qin-history]
-sources: [zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+last_updated: 2026-08-23
 ---
 
 # Anger-Driven War Decision / 因怒兴师
@@ -19,6 +19,8 @@ The episode uses [[SunziBingfa|《孙子兵法》]] to state the rule: rulers sh
 [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] adds the temporary interruption of that failure mode. [[XiangBo|项伯]] returns from [[Bashang|霸上]] and moves Xiang Yu out of the pure anger track by invoking family authority, Liu Bang's prior merit, and "义." The attack order is cancelled, but the underlying risk remains because the source presents Xiang Yu as easily swung by emotional frames rather than as someone who has solved the settlement problem.
 
 [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] brings the same [[SunziBingfa|《孙子兵法》]] warning into [[HanXin|韩信]]'s early biography. Instead of using the principle to criticize a ruler's campaign, the episode uses it to explain why a future general might refuse a street-level fight: anger can pass, but a ruined body, lost opportunity, or irreversible death cannot be restored. The concept therefore also covers the smaller action threshold before war, where the question is whether a provocation deserves any response at all.
+
+[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] adds [[CaoJiu|曹咎]] as a battlefield version of the same pattern. Xiang Yu orders him to hold [[Chenggao|成皋]] without fighting, but repeated Han insults draw him out through the east gate and across [[SishuiChuHan|汜水]]. Liu Bang's army attacks while Chu is mid-crossing, so anger transforms a defensive assignment into the loss of Chenggao and [[Aocang|敖仓]].
 
 ## Key Claims
 - A leader can be legitimately wronged and still choose a strategically destructive response.
