@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5125
+wiki_total_pages: 5126
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "TacticalDelayRiskTransfer"
     title: "Tactical Delay Risk Transfer / 延时转责式政治化解"
     url: "/wiki/concepts/tacticaldelayrisktransfer/"
+  - key: "TacticalSelfVindicationTrap"
+    title: "Tactical Self-Vindication Trap / 战术自证陷阱"
+    url: "/wiki/concepts/tacticalselfvindicationtrap/"
   - key: "TactileComfortConsumption"
     title: "Tactile Comfort Consumption / 触感安慰消费"
     url: "/wiki/concepts/tactilecomfortconsumption/"

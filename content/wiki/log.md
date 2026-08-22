@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）
+
+Added source page for Hanji 168 part 2: Xiang Yu's final route through Dongcheng, the twenty-eight-rider breakout, Yang Xi's frightened retreat, Wujiang pavilion chief's crossing offer, Xiang Yu's refusal to cross, the Wuzhui gift, the final self-killing, and the Han reward group around his body. Created Dongcheng (Chu-Han), Wujiang (Chu-Han), Wujiang Pavilion Chief, Wuzhui Horse, Yang Xi (Han), Lu Matong, Wang Yi (Han), Lu Sheng (Han), Yang Wu (Han), Du Mu, and Tactical Self-Vindication Trap; updated overview, index, Xiang Yu, Gaixia Battle, Four-Sided Chu Songs, People-Based Political Security, Correctable Leadership Error, and Gaixia Song. No settled contradiction found; kept the south-of-Yangtze regrouping possibility and Du Mu counterfactual source-scoped.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？
 
 Added source page for Hanji 163: Li Shiqi's death after Han Xin's Kuai Che-urged attack on Qi, Cao Jiu's provoked defeat at Sishui and the loss of Chenggao/Aocang, and the Guangwu hostage and duel confrontation between Xiang Yu and Liu Bang. Created Command Synchronization Failure, Guangwu (Chu-Han), and Sishui (Chu-Han); updated overview, index, and connected Chu-Han entity and concept pages. No settled contradiction found; Li Shiqi's hypothetical fourth-hero status and ambiguous Qi-name details remain source-scoped.
@@ -10285,3 +10289,7 @@ Added source page for Hanji 168 part 1: Li Qingzhao's later Xiang Yu memory, the
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 13,090 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

@@ -2,7 +2,7 @@
 title: "Four-Sided Chu Songs / 四面楚歌"
 type: concept
 tags: [psychological-warfare, morale, chu-han, gaixia, military-command]
-sources: [zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3]
+sources: [zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca, zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3]
 last_updated: 2026-08-23
 ---
 
@@ -14,13 +14,17 @@ The source treats this as psychological warfare rather than simple background so
 
 The concept also links external and internal morale. Four-sided Chu songs trigger Xiang Yu's drinking and [[GaixiaSong|《垓下歌》]], then the commander's despair makes the surrounding attendants weep. The source's military reading is that an army in that emotional state has already lost much of its fighting capacity even before the final breakout begins.
 
+[[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] extends the concept from psychological attack into leadership failure. The host says four-sided Chu songs were an attack on will, but [[XiangYu|项羽]] does not respond by assembling commanders, testing the information, planning a breakout, or rebuilding morale. He instead amplifies the no-exit interpretation, making enemy psychological warfare work through his own command presence.
+
 ## Key Claims
 - The tactic works by making a surrounded army doubt not only its battlefield position but also its homeland's survival and loyalty.
 - The phrase combines sound, identity, and encirclement; it is not reducible to numerical disadvantage.
 - A commander's public interpretation of the sound matters because morale collapse travels from the leader through the camp.
 - In this source, 四面楚歌 is the bridge between [[LayeredDepthDefense|纵深分层防御]] on the battlefield and the private tragedy of [[YuJi|虞姬]].
+- Hanji 168 part 2 adds that psychological warfare succeeds faster when the commander treats the induced despair as truth rather than as a signal to stabilize the army.
 
 ## Connections
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] and [[TacticalSelfVindicationTrap|战术自证陷阱]] - leadership-failure sequel after the morale attack lands.
 - [[GaixiaBattle|垓下之战]] and [[XiangYu|项羽]] - final setting and commander affected by the songs.
 - [[GaixiaSong|《垓下歌》]] - the emotional response that follows the perceived homeland collapse.
 - [[YuJi|虞姬]] - person drawn into Xiang Yu's final unsolved dilemma after the song.

@@ -12691,6 +12691,10 @@
     "title": "《东北博弈》",
     "url": "/wiki/entities/dongbeiboyi/"
   },
+  "DongchengChuHan": {
+    "title": "东城 / Dongcheng (Chu-Han)",
+    "url": "/wiki/entities/dongchengchuhan/"
+  },
   "DongfengMotor": {
     "title": "Dongfeng Motor / 东风汽车",
     "url": "/wiki/entities/dongfengmotor/"
@@ -12922,6 +12926,10 @@
   "DuKangMap": {
     "title": "督亢地图 / Du Kang Map",
     "url": "/wiki/entities/dukangmap/"
+  },
+  "DuMu": {
+    "title": "杜牧 / Du Mu",
+    "url": "/wiki/entities/dumu/"
   },
   "DuRuo": {
     "title": "杜若 / Du Ruo",
@@ -26047,6 +26055,10 @@
     "title": "鹿毛寿 / Lu Maoshou",
     "url": "/wiki/entities/lumaoshou/"
   },
+  "LuMatong": {
+    "title": "吕马童 / Lu Matong",
+    "url": "/wiki/entities/lumatong/"
+  },
   "LuMingong": {
     "title": "鲁湣公 / Duke Min of Lu",
     "url": "/wiki/entities/lumingong/"
@@ -26070,6 +26082,10 @@
   "LuSheng": {
     "title": "卢生 / Lu Sheng",
     "url": "/wiki/entities/lusheng/"
+  },
+  "LuShengHanGeneral": {
+    "title": "吕胜 / Lu Sheng (Han)",
+    "url": "/wiki/entities/lushenghangeneral/"
   },
   "LuState": {
     "title": "鲁国 / Lu State",
@@ -40667,6 +40683,10 @@
     "title": "Tactical Delay Risk Transfer / 延时转责式政治化解",
     "url": "/wiki/concepts/tacticaldelayrisktransfer/"
   },
+  "TacticalSelfVindicationTrap": {
+    "title": "Tactical Self-Vindication Trap / 战术自证陷阱",
+    "url": "/wiki/concepts/tacticalselfvindicationtrap/"
+  },
   "TactileComfortConsumption": {
     "title": "Tactile Comfort Consumption / 触感安慰消费",
     "url": "/wiki/concepts/tactilecomfortconsumption/"
@@ -44267,6 +44287,10 @@
     "title": "王阳明 / Wang Yangming",
     "url": "/wiki/entities/wangyangming/"
   },
+  "WangYiHanGeneral": {
+    "title": "王翳 / Wang Yi (Han)",
+    "url": "/wiki/entities/wangyihangeneral/"
+  },
   "WangYinglin": {
     "title": "王应麟 / Wang Yinglin",
     "url": "/wiki/entities/wangyinglin/"
@@ -45587,6 +45611,14 @@
     "title": "Wuhu / 芜湖",
     "url": "/wiki/entities/wuhu/"
   },
+  "WujiangChuHan": {
+    "title": "乌江 / Wujiang (Chu-Han)",
+    "url": "/wiki/entities/wujiangchuhan/"
+  },
+  "WujiangPavilionChief": {
+    "title": "乌江亭长 / Wujiang Pavilion Chief",
+    "url": "/wiki/entities/wujiangpavilionchief/"
+  },
   "WumingXianjing": {
     "title": "《污名陷阱》",
     "url": "/wiki/entities/wumingxianjing/"
@@ -45630,6 +45662,10 @@
   "Wuzhiqi": {
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
+  },
+  "WuzhuiHorse": {
+    "title": "乌骓马 / Wuzhui Horse",
+    "url": "/wiki/entities/wuzhuihorse/"
   },
   "Wuzi": {
     "title": "《吴子》 / Wuzi",
@@ -46430,6 +46466,14 @@
   "YangShen": {
     "title": "杨慎",
     "url": "/wiki/entities/yangshen/"
+  },
+  "YangWuHanGeneral": {
+    "title": "杨武 / Yang Wu (Han)",
+    "url": "/wiki/entities/yangwuhangeneral/"
+  },
+  "YangXiHan": {
+    "title": "杨喜 / Yang Xi (Han)",
+    "url": "/wiki/entities/yangxihan/"
   },
   "YangXiaohuaSkier": {
     "title": "杨小华 / Yang Xiaohua (Skier)",
@@ -51442,6 +51486,10 @@
   "zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3": {
     "title": "《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3/"
+  },
+  "zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca": {
+    "title": "《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

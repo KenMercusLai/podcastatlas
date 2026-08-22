@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6673
+wiki_total_pages: 6683
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -785,12 +785,18 @@ wiki_pages:
   - key: "LuLiuliang"
     title: "吕留良 / Lu Liuliang"
     url: "/wiki/entities/luliuliang/"
+  - key: "LuShengHanGeneral"
+    title: "吕胜 / Lu Sheng (Han)"
+    url: "/wiki/entities/lushenghangeneral/"
   - key: "LuChenQinRebel"
     title: "吕臣 / Lu Chen (Qin Rebel)"
     url: "/wiki/entities/luchenqinrebel/"
   - key: "LuZhi"
     title: "吕雉 / Lu Zhi"
     url: "/wiki/entities/luzhi/"
+  - key: "LuMatong"
+    title: "吕马童 / Lu Matong"
+    url: "/wiki/entities/lumatong/"
   - key: "LouChang"
     title: "娄昌 / Lou Chang"
     url: "/wiki/entities/louchang/"

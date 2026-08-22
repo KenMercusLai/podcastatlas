@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6673
+wiki_total_pages: 6683
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "DongpoRou"
     title: "东坡肉 / Dongpo Rou"
     url: "/wiki/entities/dongporou/"
+  - key: "DongchengChuHan"
+    title: "东城 / Dongcheng (Chu-Han)"
+    url: "/wiki/entities/dongchengchuhan/"
   - key: "DongyueDadi"
     title: "东岳大帝"
     url: "/wiki/entities/dongyuedadi/"
@@ -773,6 +776,9 @@ wiki_pages:
   - key: "DuShaoqing"
     title: "杜少卿"
     url: "/wiki/entities/dushaoqing/"
+  - key: "DuMu"
+    title: "杜牧 / Du Mu"
+    url: "/wiki/entities/dumu/"
   - key: "DuFu"
     title: "杜甫 / Du Fu"
     url: "/wiki/entities/dufu/"

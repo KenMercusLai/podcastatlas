@@ -2,7 +2,7 @@
 title: "垓下之战 / Battle of Gaixia"
 type: entity
 tags: [battle, chu-han, war, liu-bang, xiang-yu, han-xin]
-sources: [zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv]
+sources: [zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca, zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv]
 last_updated: 2026-08-23
 ---
 
@@ -26,7 +26,10 @@ By the time Xiang Yu reaches the third line, the Chu army can no longer reproduc
 
 The same episode then follows Xiang Yu burying Yu Ji, abandoning most of the remaining army, and breaking out with eight hundred men. [[GuanYing|灌婴]] leads five thousand cavalry in pursuit, Xiang Yu is reduced to a little over one hundred men after crossing the Huai River, and a farmer's false directions near Yinling push the story toward the source's final interpretation: Xiang Yu's "Heaven will destroy me" language should be read against the loss of people-support.
 
+[[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] completes the post-Gaixia route. At [[DongchengChuHan|东城]], Xiang Yu's remaining twenty-eight riders still break pursuit and show extraordinary tactical force; at [[WujiangChuHan|乌江]], the [[WujiangPavilionChief|乌江亭长]] offers a crossing back to Jiangdong. The episode's final battle reading is therefore not that Xiang Yu lacked courage, but that courage had become disconnected from [[CorrectableLeadershipError|self-correction]], morale recovery, and strategic rebuilding.
+
 ## Connections
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] - source episode completing the Eastcheng breakout, Wujiang refusal, self-killing, and corpse-reward sequence.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] - source episode completing the battlefield sequence through Han Xin's three-line formation and Xiang Yu's defeat.
 - [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]] - sequel episode carrying Gaixia into four-sided Chu songs, Yu Ji's death, breakout, pursuit, and Xiang Yu's final self-reading.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]] - source episode opening the battle.

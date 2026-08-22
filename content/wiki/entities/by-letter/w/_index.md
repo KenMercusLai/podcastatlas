@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6673
+wiki_total_pages: 6683
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -512,6 +512,15 @@ wiki_pages:
   - key: "WutaiPoetryCase"
     title: "乌台诗案 / Wutai Poetry Case"
     url: "/wiki/entities/wutaipoetrycase/"
+  - key: "WujiangChuHan"
+    title: "乌江 / Wujiang (Chu-Han)"
+    url: "/wiki/entities/wujiangchuhan/"
+  - key: "WujiangPavilionChief"
+    title: "乌江亭长 / Wujiang Pavilion Chief"
+    url: "/wiki/entities/wujiangpavilionchief/"
+  - key: "WuzhuiHorse"
+    title: "乌骓马 / Wuzhui Horse"
+    url: "/wiki/entities/wuzhuihorse/"
   - key: "WuGeGeGeDouChongWo"
     title: "五个哥哥都宠我"
     url: "/wiki/entities/wugegegedouchongwo/"
@@ -803,6 +812,9 @@ wiki_pages:
   - key: "WangJianQin"
     title: "王翦 / Wang Jian (Qin)"
     url: "/wiki/entities/wangjianqin/"
+  - key: "WangYiHanGeneral"
+    title: "王翳 / Wang Yi (Han)"
+    url: "/wiki/entities/wangyihangeneral/"
   - key: "WangHang"
     title: "王航"
     url: "/wiki/entities/wanghang/"
