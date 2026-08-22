@@ -9735,3 +9735,11 @@ Ran lint after health and identity validation passed. Health scanned 12,763 wiki
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好
+
+Added source page for Qinji 131-2: a cross-period alcohol essay covering Cao Cao Wancheng disaster, Zhang Fei losing Xuzhou, Li Yuan Jinyang-palace rebellion pressure, Gao Yang imperial violence, Jin Ping Mei wine-as-desire frame, Guifei Zuijiu, Mei Lanfang adaptation, and Li Qingzhao wine-lyrics branch. Created Alcohol as Power Catalyst plus Zhang Xiu, Dian Wei, Cao Ang, Zhang Fei, Liu Bei, Li Yuan (Tang), Li Shimin, Pei Ji, Emperor Yang of Sui, Gao Yang, Yang Guifei, Guifei Zuijiu, Mei Lanfang, and Li Qingzhao; updated overview, index, Cao Cao, and Jin Ping Mei. No settled contradiction found; kept the episode source-scoped as a cross-period theme installment rather than a Qin chronological annal.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

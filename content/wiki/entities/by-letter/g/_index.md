@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6516
+wiki_total_pages: 6530
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "GraveOfTheFireflies"
     title: "《萤火虫之墓》 / Grave of the Fireflies"
     url: "/wiki/entities/graveofthefireflies/"
+  - key: "GuifeiZuijiu"
+    title: "《贵妃醉酒》 / Guifei Zuijiu"
+    url: "/wiki/entities/guifeizuijiu/"
   - key: "GuoQinLun"
     title: "《过秦论》 / Guo Qin Lun"
     url: "/wiki/entities/guoqinlun/"
@@ -845,6 +848,9 @@ wiki_pages:
   - key: "GaoNing"
     title: "高宁 / Gao Ning"
     url: "/wiki/entities/gaoning/"
+  - key: "GaoYangNorthernQi"
+    title: "高洋 / Northern Qi Emperor Wenxuan"
+    url: "/wiki/entities/gaoyangnorthernqi/"
   - key: "GaoJianli"
     title: "高渐离 / Gao Jianli"
     url: "/wiki/entities/gaojianli/"

@@ -3275,6 +3275,10 @@
     "title": "Alchemy-Chemistry Continuity / 炼金术与化学连续性",
     "url": "/wiki/concepts/alchemychemistrycontinuity/"
   },
+  "AlcoholAsPowerCatalyst": {
+    "title": "Alcohol as Power Catalyst / 酒作为权力催化剂",
+    "url": "/wiki/concepts/alcoholaspowercatalyst/"
+  },
   "Aldhani": {
     "title": "Aldhani",
     "url": "/wiki/entities/aldhani/"
@@ -7286,6 +7290,10 @@
   "CantonMichigan": {
     "title": "Canton, Michigan",
     "url": "/wiki/entities/cantonmichigan/"
+  },
+  "CaoAng": {
+    "title": "曹昂 / Cao Ang",
+    "url": "/wiki/entities/caoang/"
   },
   "CaoBin": {
     "title": "曹彬 / Cao Bin",
@@ -11946,6 +11954,10 @@
   "DiHuang": {
     "title": "翟黄 / Di Huang",
     "url": "/wiki/entities/dihuang/"
+  },
+  "DianWei": {
+    "title": "典韦 / Dian Wei",
+    "url": "/wiki/entities/dianwei/"
   },
   "DianeKPMGChiefEconomist": {
     "title": "Diane (KPMG Chief Economist)",
@@ -16691,6 +16703,10 @@
     "title": "高信 / Gao Xin (Warring States)",
     "url": "/wiki/entities/gaoxinwarringstates/"
   },
+  "GaoYangNorthernQi": {
+    "title": "高洋 / Northern Qi Emperor Wenxuan",
+    "url": "/wiki/entities/gaoyangnorthernqi/"
+  },
   "GaoYiding": {
     "title": "高一丁 / Gao Yiding",
     "url": "/wiki/entities/gaoyiding/"
@@ -17954,6 +17970,10 @@
   "GuiYouguang": {
     "title": "归有光 / Gui Youguang",
     "url": "/wiki/entities/guiyouguang/"
+  },
+  "GuifeiZuijiu": {
+    "title": "《贵妃醉酒》 / Guifei Zuijiu",
+    "url": "/wiki/entities/guifeizuijiu/"
   },
   "Guigui": {
     "title": "龟龟",
@@ -24415,9 +24435,17 @@
     "title": "李琪 / Li Qi",
     "url": "/wiki/entities/liqi/"
   },
+  "LiQingzhao": {
+    "title": "李清照 / Li Qingzhao",
+    "url": "/wiki/entities/liqingzhao/"
+  },
   "LiShangyin": {
     "title": "李商隐 / Li Shangyin",
     "url": "/wiki/entities/lishangyin/"
+  },
+  "LiShimin": {
+    "title": "李世民 / Li Shimin",
+    "url": "/wiki/entities/lishimin/"
   },
   "LiShoukui": {
     "title": "李守奎",
@@ -24494,6 +24522,10 @@
   "LiYuanSister": {
     "title": "李源妹妹 / 李元妹妹 / Li Yuan's Sister",
     "url": "/wiki/entities/liyuansister/"
+  },
+  "LiYuanTang": {
+    "title": "李渊 / Li Yuan (Tang)",
+    "url": "/wiki/entities/liyuantang/"
   },
   "LiYuanWarringStates": {
     "title": "李源 / 李元 / Li Yuan (Warring States)",
@@ -24894,6 +24926,10 @@
   "LiuBang": {
     "title": "Liu Bang / 刘邦",
     "url": "/wiki/entities/liubang/"
+  },
+  "LiuBei": {
+    "title": "刘备 / Liu Bei",
+    "url": "/wiki/entities/liubei/"
   },
   "LiuBinyan": {
     "title": "刘彬晏 / Liu Binyan",
@@ -27066,6 +27102,10 @@
   "MehmetSimsek": {
     "title": "Mehmet Simsek",
     "url": "/wiki/entities/mehmetsimsek/"
+  },
+  "MeiLanfang": {
+    "title": "梅兰芳 / Mei Lanfang",
+    "url": "/wiki/entities/meilanfang/"
   },
   "MeijiIntellectualPrecarity": {
     "title": "Meiji Intellectual Precarity",
@@ -31378,6 +31418,10 @@
   "PeiCountyUprisingMobilization": {
     "title": "沛县起义动员 / Pei County Uprising Mobilization",
     "url": "/wiki/concepts/peicountyuprisingmobilization/"
+  },
+  "PeiJi": {
+    "title": "裴寂 / Pei Ji",
+    "url": "/wiki/entities/peiji/"
   },
   "PeiWenzhong": {
     "title": "裴文中",
@@ -45575,9 +45619,17 @@
     "title": "杨端和 / Yang Duanhe",
     "url": "/wiki/entities/yangduanhe/"
   },
+  "YangGuangSui": {
+    "title": "杨广 / Emperor Yang of Sui",
+    "url": "/wiki/entities/yangguangsui/"
+  },
   "YangGuangxian": {
     "title": "杨光先 / Yang Guangxian",
     "url": "/wiki/entities/yangguangxian/"
+  },
+  "YangGuifei": {
+    "title": "杨贵妃 / Yang Guifei",
+    "url": "/wiki/entities/yangguifei/"
   },
   "YangLingfeng": {
     "title": "Yang Lingfeng / 杨凌峰",
@@ -46399,6 +46451,10 @@
     "title": "张耳 / Zhang Er",
     "url": "/wiki/entities/zhanger/"
   },
+  "ZhangFei": {
+    "title": "张飞 / Zhang Fei",
+    "url": "/wiki/entities/zhangfei/"
+  },
   "ZhangHaijun": {
     "title": "Zhang Haijun / 张海军",
     "url": "/wiki/entities/zhanghaijun/"
@@ -46530,6 +46586,10 @@
   "ZhangXingyun": {
     "title": "张星云 / Zhang Xingyun",
     "url": "/wiki/entities/zhangxingyun/"
+  },
+  "ZhangXiu": {
+    "title": "张绣 / Zhang Xiu",
+    "url": "/wiki/entities/zhangxiu/"
   },
   "ZhangYi": {
     "title": "Zhang Yi",
@@ -50542,6 +50602,10 @@
   "zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7": {
     "title": "《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩",
     "url": "/wiki/sources/zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7/"
+  },
+  "zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd": {
+    "title": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

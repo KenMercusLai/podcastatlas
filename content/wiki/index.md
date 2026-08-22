@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好](sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd.md) — 芮淇讲透资治通鉴 episode on alcohol as a catalyst across Cao Cao's Wancheng disaster, Zhang Fei losing Xuzhou, Li Yuan's Jinyang rebellion pressure, Gao Yang's imperial violence, Jin Ping Mei, Guifei Zuijiu, Mei Lanfang's adaptation, and Li Qingzhao's wine lyrics.
 - [《资治通鉴·秦纪》131-1｜秦相李斯一生精明却遭腰斩](sources/zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7.md) — 芮淇讲透资治通鉴 episode on Zhao Gao torturing Li Si into confession, intercepting his memorial, staging fake reviews, Li Si's five-punishment and waist-chopping execution, clan destruction, Dongmen Yellow Dog regret, and Zhao Gao's chancellorship.
 - [《资治通鉴·秦纪》130-4｜如何定论秦相李斯的下场](sources/zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x.md) — 芮淇讲透资治通鉴 episode on Zhao Gao isolating Hu Hai, trapping Li Si through staged remonstrance and family accusations, Li Si's failed counterattack, and the arrest of Li Si, Feng Quji, and Feng Jie after loyal advice over Afang Palace and burdens.
 - [《资治通鉴·秦纪》130-3｜为何立牧童为楚王，里面大有文章](sources/zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz.md) — 芮淇讲透资治通鉴 episode on Fan Zeng's advice to restore Chu royal legitimacy through shepherd Mi Xin, Zhang Liang's Han Cheng restoration, Zhang Han's Linji/Dong'e/Puyang pressure, and Tian Rong's Qi succession feud blocking a Qi-Zhao-Chu attack.
@@ -1218,6 +1219,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander in the Wancheng drinking story where Cao Cao's private indulgence becomes a security failure.
+- [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
+- [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
+- [张飞 / Zhang Fei](entities/ZhangFei.md) — Three Kingdoms figure used as the compact example of drunkenly losing Xuzhou and harming Liu Bei's base.
+- [刘备 / Liu Bei](entities/LiuBei.md) — Three Kingdoms leader whose Xuzhou base is lost after Zhang Fei's drunken failure in Qinji 131-2.
+- [李渊 / Li Yuan (Tang)](entities/LiYuanTang.md) — Future Tang founder whose Jinyang-palace drinking exposure is framed as a rebellion trigger, disambiguated from Warring States Li Yuan.
+- [李世民 / Li Shimin](entities/LiShimin.md) — Li Yuan's son, presented with Pei Ji as converting a drunken palace exposure into a rebellion argument.
+- [裴寂 / Pei Ji](entities/PeiJi.md) — Banquet organizer in the Jinyang-palace story who turns drink, palace women, and imperial risk into pressure on Li Yuan.
+- [杨广 / Emperor Yang of Sui](entities/YangGuangSui.md) — Sui emperor whose authority makes Li Yuan's drunken Jinyang-palace exposure politically lethal.
+- [高洋 / Northern Qi Emperor Wenxuan](entities/GaoYangNorthernQi.md) — Ruler used as Qinji 131-2's extreme case of alcohol, unchecked power, sexual violence, and theatrical cruelty.
+- [杨贵妃 / Yang Guifei](entities/YangGuifei.md) — Central figure of Guifei Zuijiu, used to show drunkenness as palace abandonment and emotional performance.
+- [《贵妃醉酒》 / Guifei Zuijiu](entities/GuifeiZuijiu.md) — Stage work whose older erotic drunkenness branch is said to be reshaped by Mei Lanfang.
+- [梅兰芳 / Mei Lanfang](entities/MeiLanfang.md) — Performer/reformer credited with removing or softening explicit material from Guifei Zuijiu.
+- [李清照 / Li Qingzhao](entities/LiQingzhao.md) — Song lyric poet introduced as the episode's final, source-scoped female wine-and-poetry branch.
 - [宋义 / Song Yi](entities/SongYi.md) — Former Chu lingyin introduced as joining Xiang Liang's anti-Qin camp after Li Si's death branch closes.
 - [上蔡 / Shangcai](entities/Shangcai.md) — Li Si's hometown and the east-gate memory point behind the Dongmen Yellow Dog regret idiom.
 - [冯劫 / 冯杰 / Feng Jie (Qin)](entities/FengJieQin.md) — Qin general who joins Li Si and Feng Quji in urging Hu Hai to suspend Afang Palace and reduce burdens, then is arrested with them.
@@ -1749,7 +1764,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
-- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy for refusing to surrender power when accumulated enemies make retirement unsafe.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy for power-exit danger and Qinji 131-2 Wancheng case where drinking, desire, and guard failure lead to Dian Wei and Cao Ang's deaths.
 - [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor in the Cao-family analogy for irreversible political control.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
@@ -4675,7 +4690,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鸟山石燕 / Toriyama Sekien](entities/ToriyamaSekien.md) — Yokai image-maker whose 暗眼小僧 picture anchors the episode's homophone, allusion, and visual-sign reading.
 - [多田克己 / Tada Katsumi](entities/TadaKatsumi.md) — Real yokai researcher presented as the model for 多多良胜五郎 and a bridge from fiction to folklore scholarship.
 - [螃蟹 / Crab](entities/Crab.md) — Food animal and cultural object used to connect Chinese seasonal eating, catching tools, place names, folklore, literature, and moral projection.
-- [《金瓶梅》 / Jin Ping Mei](entities/JinPingMei.md) — Classical novel used in episode 114 as the worldly crab-banquet comparison for 《红楼梦》.
+- [《金瓶梅》 / Jin Ping Mei](entities/JinPingMei.md) — Classical novel used for household/social texture, desire-reading comparisons, crab banquets, and Qinji 131-2's "wine as desire mediator" frame.
 - [黄庭坚 / Huang Tingjian](entities/HuangTingjian.md) — Song poet whose Buddhist hesitation and crab poems ground the source's eating/killing moral ambivalence branch.
 - [李琪 / Li Qi](entities/LiQi.md) — Yuan writer of 《讯蟹书》, used as the source's personified crab-defense author.
 - [《讯蟹书》](entities/XunXieshu.md) — Crab-defense essay that turns animal stigma into ethical satire and reversal of human judgment.
@@ -7738,6 +7753,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Alcohol as Power Catalyst / 酒作为权力催化剂](concepts/AlcoholAsPowerCatalyst.md) — Pattern where drinking amplifies existing desire, courage, humiliation, brutality, or sorrow, with larger consequences around rulers and military power.
 - [Coerced Confession Trap / 逼供认罪陷阱](concepts/CoercedConfessionTrap.md) — Pattern where torture and staged review teach a prisoner to repeat a false confession before the real review arrives.
 - [Dongmen Yellow Dog / 东门黄犬](concepts/DongmenYellowDog.md) — Li Si regret idiom contrasting late power disaster with ordinary hometown pleasure and missed retreat from office.
 - [Palace Access Monopoly / 宫廷接触垄断](concepts/PalaceAccessMonopoly.md) — Pattern where a court actor controls who can reach the ruler, turning advice, petitions, and timing into weapons.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6516
+wiki_total_pages: 6530
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "LiuXiang"
     title: "刘向 / Liu Xiang"
     url: "/wiki/entities/liuxiang/"
+  - key: "LiuBei"
+    title: "刘备 / Liu Bei"
+    url: "/wiki/entities/liubei/"
   - key: "LiuTaigong"
     title: "刘太公 / Liu Taigong"
     url: "/wiki/entities/liutaigong/"
@@ -785,6 +788,9 @@ wiki_pages:
   - key: "LazyBearSports"
     title: "懒熊体育 / LazyBear Sports"
     url: "/wiki/entities/lazybearsports/"
+  - key: "LiShimin"
+    title: "李世民 / Li Shimin"
+    url: "/wiki/entities/lishimin/"
   - key: "LiZhizao"
     title: "李之藻 / Li Zhizao"
     url: "/wiki/entities/lizhizao/"
@@ -854,6 +860,12 @@ wiki_pages:
   - key: "LiHongjun"
     title: "李洪军 / Li Hongjun"
     url: "/wiki/entities/lihongjun/"
+  - key: "LiQingzhao"
+    title: "李清照 / Li Qingzhao"
+    url: "/wiki/entities/liqingzhao/"
+  - key: "LiYuanTang"
+    title: "李渊 / Li Yuan (Tang)"
+    url: "/wiki/entities/liyuantang/"
   - key: "LiYuWriter"
     title: "李渔 / Li Yu"
     url: "/wiki/entities/liyuwriter/"

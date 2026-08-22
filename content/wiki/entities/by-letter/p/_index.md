@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6516
+wiki_total_pages: 6530
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "PuyangWarringStates"
     title: "蒲阳 / Puyang (Warring States)"
     url: "/wiki/entities/puyangwarringstates/"
+  - key: "PeiJi"
+    title: "裴寂 / Pei Ji"
+    url: "/wiki/entities/peiji/"
   - key: "PeiWenzhong"
     title: "裴文中"
     url: "/wiki/entities/peiwenzhong/"

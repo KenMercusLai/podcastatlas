@@ -2,8 +2,8 @@
 title: "《金瓶梅》 / Jin Ping Mei"
 type: entity
 tags: [book, literature, chinese-classics, novel]
-sources: [zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]
-last_updated: 2026-08-04
+sources: [zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd, zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]
+last_updated: 2026-08-22
 ---
 
 # 《金瓶梅》 / Jin Ping Mei
@@ -20,6 +20,8 @@ The source uses this comparison to argue that [[CaoXueqin|曹雪芹]] did not si
 
 [[zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy]] uses 《金瓶梅》 as a desire-reading comparison for the [[ZhaoJi|赵姬]] and [[LaoAi|嫪毐]] branch. The host cites the distinction between [[HongLouMeng|《红楼梦》]] as "情" and 《金瓶梅》 as "欲," while also stressing that Jin Ping Mei should not be dismissed as mere obscenity. Its "酒色财气" frame becomes a way to show how desire can expose household, status, and destruction rather than remain only titillating detail.
 
+[[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] returns to 《金瓶梅》 from the angle of alcohol. The host uses "酒为色媒人" to argue that drinking carries desire and social darkness through the novel, making it a literary instance of [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] rather than a decorative habit.
+
 ## Key Claims
 - 《金瓶梅》 can be entered through cleaned retelling without reducing the original's literary value to explicit material or denying that the full text is darker and harder.
 - The novel's opening uses [[WaterMargin|《水浒传》]] familiarity but shifts attention from heroic action toward household, market, desire, and social network.
@@ -29,6 +31,7 @@ The source uses this comparison to argue that [[CaoXueqin|曹雪芹]] did not si
 - The episode treats the relation between the two novels as transformation rather than simple borrowing.
 - Food scenes help reveal class atmosphere, gendered sociability, and the boundary between market/lower urban texture and elite literary framing.
 - Qinji 108-2 uses the novel as an interpretive bridge: desire can be written as social and tragic structure, not only as scandal.
+- Qinji 131-2 adds the alcohol branch: wine functions as a mediator of desire and a diagnostic device for the novel's dark social world.
 
 ## Connections
 - [[Banlatte|半拿铁]], [[CleanEditionClassicReading]], [[UrbanEverydayFiction]], and [[HouseholdAsSocialWeb]] - source method and interpretive frames added by the Banlatte special.
@@ -39,3 +42,4 @@ The source uses this comparison to argue that [[CaoXueqin|曹雪芹]] did not si
 - [[Crab|螃蟹]] and [[CrabCulturalSymbolism]] - food-object branch.
 - [[ClassicReadingComplexity]], [[GenreLiteraryLegitimacy]], [[FictionAsHistoricalEvidence]], and [[ClassicalPoeticIntertextuality]] - broader reading frames for tracking how older texts enter later works and later criticism.
 - [[ZhaoJi|赵姬]], [[LaoAi|嫪毐]], [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]], and [[FemaleSubjectivityInClassicReading|经典阅读中的女性主体性]] - Qinji 108-2 desire-reading comparison.
+- [[AlcoholAsPowerCatalyst|酒作为权力催化剂]], [[GuifeiZuijiu|《贵妃醉酒》]], and [[LiQingzhao|李清照]] - Qinji 131-2 alcohol, desire, performance, and literary-expression branch.

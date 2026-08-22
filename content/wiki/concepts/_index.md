@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5041
+wiki_total_pages: 5042
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "AlchemyChemistryContinuity"
     title: "Alchemy-Chemistry Continuity / 炼金术与化学连续性"
     url: "/wiki/concepts/alchemychemistrycontinuity/"
+  - key: "AlcoholAsPowerCatalyst"
+    title: "Alcohol as Power Catalyst / 酒作为权力催化剂"
+    url: "/wiki/concepts/alcoholaspowercatalyst/"
   - key: "AlgorithmAversion"
     title: "Algorithm Aversion"
     url: "/wiki/concepts/algorithmaversion/"

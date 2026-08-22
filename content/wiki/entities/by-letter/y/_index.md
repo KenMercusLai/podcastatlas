@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6516
+wiki_total_pages: 6530
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "YangXiaohuaSkier"
     title: "杨小华 / Yang Xiaohua (Skier)"
     url: "/wiki/entities/yangxiaohuaskier/"
+  - key: "YangGuangSui"
+    title: "杨广 / Emperor Yang of Sui"
+    url: "/wiki/entities/yangguangsui/"
   - key: "YangShen"
     title: "杨慎"
     url: "/wiki/entities/yangshen/"
@@ -407,6 +410,9 @@ wiki_pages:
   - key: "YangDuanhe"
     title: "杨端和 / Yang Duanhe"
     url: "/wiki/entities/yangduanhe/"
+  - key: "YangGuifei"
+    title: "杨贵妃 / Yang Guifei"
+    url: "/wiki/entities/yangguifei/"
   - key: "Yinxu"
     title: "殷墟"
     url: "/wiki/entities/yinxu/"
