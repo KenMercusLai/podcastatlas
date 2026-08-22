@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[ChenPing|陈平]] "successful politician" sequence after [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|Hanji 150 part 1]] and [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|part 2]]. It recaps his poverty, marriage-backed rise, and Liu Bang-side appointment, then turns the main interpretive weight toward later court survival under [[LiuBang|刘邦]], [[LuZhi|吕雉]], and [[LiuHeng|刘恒 / Emperor Wen of Han]]. The source's central claim is that Chen Ping is not morally clean or suited to independent rule, but he is a durable [[PoliticalSurvivalFirst|安全第一政治生存]] operator whose [[CovertPoliticalTechnology|阴谋式政治技术]] and [[SecondInCommandRoleFit|二把手角色适配]] let him survive lethal power transitions.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[ChenPing|陈平]] "successful politician" sequence after [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|Hanji 150 part 1]] and [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|part 2]]. It recaps his poverty, marriage-backed rise, and Liu Bang-side appointment, then turns the main interpretive weight toward later court survival under [[LiuBang|刘邦]], [[LuZhi|吕雉]], and [[LiuHeng|刘恒 / Emperor Wen of Han]]. The source's central claim is that Chen Ping is not morally clean or suited to independent rule, but he is a durable [[PoliticalSurvivalFirst|安全第一政治生存]] operator whose [[CovertPoliticalTechnology|阴谋式政治技术]] and [[SecondInCommandRoleFit|二把手角色适配]] let him survive lethal power transitions.
 
 ## Key Claims
 - Chen Ping's early poverty, brotherly support, and marriage into [[ZhangFu|张负]]'s family are repeated as the social-resource foundation behind his later political mobility.
@@ -40,6 +40,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - source frame for Chen Ping's refusal to enter no-exit positions under shifting rulers.
 - [[SecondInCommandRoleFit|二把手角色适配]] - source frame for Liu Bang's judgment that Chen Ping is valuable as operator and assistant but dangerous as a sole principal.
 - [[PowerExitTrap|权力退场困境]] and [[PatronSuccessionExposure|靠山更替暴露风险]] - adjacent concepts for why ruler death and factional turnover make office-holding lethal.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] - continuation that adds the White Mount, Fan Kuai, Lu-regency camouflage, and worldly-cultivation episodes.
 
 ## Contradictions
 - No settled contradiction is recorded. The source overlaps with part 1 and part 2 on Chen Ping's early life and appointment; this ingest treats those sections as recap and records the new value in its later Lu Zhi and Emperor Wen survival frame.

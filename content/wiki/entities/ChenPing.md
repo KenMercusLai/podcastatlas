@@ -2,7 +2,7 @@
 title: "陈平 / Chen Ping"
 type: entity
 tags: [person, qin-han, chu-han, strategy, social-capital]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]
 last_updated: 2026-08-22
 ---
 
@@ -22,11 +22,17 @@ The Yellow River boat scene makes that self-preservation concrete. Chen Ping rea
 
 At [[Xiuwu|修武]], [[WeiWuzhi|魏无知]] introduces Chen Ping to [[LiuBang|刘邦]]. Liu Bang quickly appoints him despite old generals' complaints, which the source reads through [[VeteranMeritCliqueSupervision|功臣旧将监督]] and [[OutsiderTalentSignaling|厚待外来人才信号]]: Chen Ping is useful because he is talented, outside the old Pei County circle, and visible proof that Liu Bang will empower non-hometown talent after the [[HanXin|韩信]] precedent.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] completes the profile by following Chen Ping into later court survival. When Liu Bang confronts him over accusations including patron switching, sexual scandal, and taking money, Chen Ping answers pragmatically: Liu Bang needs his ability, and Chen Ping needs resources to live and work. Liu Bang then gives him large funds for enemy-side inducement without demanding accounts, making Chen Ping a trusted but morally uncomfortable carrier of [[CovertPoliticalTechnology|阴谋式政治技术]].
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] follows Chen Ping into later court survival. When Liu Bang confronts him over accusations including patron switching, sexual scandal, and taking money, Chen Ping answers pragmatically: Liu Bang needs his ability, and Chen Ping needs resources to live and work. Liu Bang then gives him large funds for enemy-side inducement without demanding accounts, making Chen Ping a trusted but morally uncomfortable carrier of [[CovertPoliticalTechnology|阴谋式政治技术]].
 
 The same source frames Chen Ping's long career through [[PoliticalSurvivalFirst|安全第一政治生存]]. Under [[LuZhi|吕雉]] he does not openly make himself the anti-Lu martyr that [[WangLingHanMinister|王陵]] becomes, but after Lu Zhi dies he joins [[ZhouBo|周勃]] and the Liu-family restoration that installs [[LiuHeng|刘恒 / Emperor Wen of Han]]. The host therefore treats him as slippery and private-virtue-poor, yet unusually capable of staying alive and useful across Liu Bang, Lu Zhi, and Emperor Wen.
 
 Hanji 150 part 3 also sharpens Chen Ping's role boundary through [[SecondInCommandRoleFit|二把手角色适配]]. Liu Bang can use him heavily but does not treat him as a person fit for sole independent responsibility; the source contrasts him with [[ZhangLiang|张良]], [[XiaoHe|萧何]], [[CaoShen|曹参]], and Zhou Bo as a different kind of founding-minister value.
+
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] extends the profile through concrete survival cases. At the [[BaidengEncirclement|白登之围]], Chen Ping's reported stratagem works through [[MaoDunChanyu|冒顿单于]]'s favored woman rather than through battlefield force, giving the sequence a frontier case for [[CovertPoliticalTechnology|阴谋式政治技术]].
+
+The same source makes the [[FanKuai|樊哙]] affair Chen Ping's sharpest no-win order. [[LiuBang|刘邦]] wants Fan Kuai killed, but killing him risks [[LuZhi|吕雉]]'s later anger, while refusal risks Liu Bang. Chen Ping and [[ZhouBo|周勃]] choose custody and transport instead, turning the case into [[TacticalDelayRiskTransfer|延时转责式政治化解]]: an irreversible order is slowed until the sovereign or changed succession field must own the final decision.
+
+Hanji 150 part 4 also deepens the Lu-regency material. Chen Ping's public agreement with Lu Zhi, apparent estrangement from Zhou Bo, and conspicuous indulgence are treated as camouflage that keeps him alive until he can join the post-Lu restoration and serve under [[LiuHeng|刘恒 / Emperor Wen of Han]]. The host then turns him into the central case for [[WorldlyPoliticalCultivation|入世政治修行]], arguing that Chen Ping's "道场" is the court itself rather than a retreat from power.
 
 陈平 / Chen Ping enters the wiki through [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] as a trusted [[XiangYu|项羽]]-side officer during the later [[HongmenYan|鸿门宴]] sequence. After [[LiuBang|刘邦]] leaves the tent and does not return, Xiang Yu sends Chen Ping to look for him.
 
@@ -43,6 +49,9 @@ For this source, Chen Ping's importance is transitional. He is a Xiang-camp agen
 - [[WeiJiu|魏咎]], [[SimaAng|司马卬]], [[WeiWuzhi|魏无知]], and [[Xiuwu|修武]] - Wei, Xiang-camp, and Liu Bang access settings in the continuation.
 - [[CovertPoliticalTechnology|阴谋式政治技术]], [[VeteranMeritCliqueSupervision|功臣旧将监督]], and [[OutsiderTalentSignaling|厚待外来人才信号]] - continuation concepts around hidden technique, supervision, and talent signaling.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] and [[SecondInCommandRoleFit|二把手角色适配]] - part 3 concepts for Chen Ping's court survival discipline and bounded role fit.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] - White Mount stratagem, Fan Kuai delay tactic, Lu-regency camouflage, and worldly political cultivation.
+- [[BaidengEncirclement|白登之围]], [[MaoDunChanyu|冒顿单于]], [[FanKuai|樊哙]], and [[TacticalDelayRiskTransfer|延时转责式政治化解]] - new source cases for indirect leverage and delaying irreversible decisions.
+- [[WorldlyPoliticalCultivation|入世政治修行]], [[FanLi|范蠡]], [[TaoYuanming|陶渊明]], and [[Confucius|孔子]] - part 4 comparison and philosophical frame.
 - [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] - source of entry.
 - [[XiangYu|项羽]] - commander who trusts Chen Ping and sends him to search.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[Bashang|霸上]] - escape target, negotiator, and safe return point.

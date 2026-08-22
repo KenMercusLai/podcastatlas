@@ -10010,3 +10010,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）
+
+Added source page for Hanji 150 part 4: Chen Ping's Baideng stratagem, low-threat survival under Liu Bang, the Fan Kuai execution-order dilemma, rapid self-protection after Liu Bang's death, Lu Zhi-era camouflage, later coordination with Zhou Bo against the Lu faction, and the source's broader argument for worldly political cultivation over withdrawal or pure reputation. Created Baideng Encirclement, Modu Chanyu, Tactical Delay Risk Transfer, and Worldly Political Cultivation; updated overview, index, Chen Ping, Liu Bang, Zhang Liang, Xiao He, Han Xin, Political Survival First, Covert Political Technology, Second-in-Command Role Fit, Fan Kuai, Zhou Bo, Lu Zhi, Liu Heng, Xiongnu, Tao Yuanming, Confucius, Fan Li, and the prior Hanji 150 part 3 wording. No settled contradiction found; corrected the earlier "part 3 completes the sequence" wording because part 4 extends the sequence.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,938 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded in-session sample review found no direct contradictions and flagged thin concept depth for `wiki/concepts/ExportPorcelainCustomization.md` and `wiki/concepts/FinancialPowerAndStateCapacity.md`. Report returned in-session; `wiki/lint-report.md` was not saved.

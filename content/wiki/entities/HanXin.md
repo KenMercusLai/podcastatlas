@@ -2,7 +2,7 @@
 title: "韩信 / Han Xin"
 type: entity
 tags: [person, chu-han, military, han]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]
 last_updated: 2026-08-22
 ---
 
@@ -34,6 +34,8 @@ After following [[LiuBang|刘邦]] into [[Hanzhong|汉中]], Han Xin remains und
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] uses Han Xin mainly as Liu Bang's military rear anchor after Guanzhong recovery, while explicitly distinguishing the general from [[HanWangXin|韩王信]], the old Han royal descendant whom Liu Bang installs as king of Han.
 
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] uses Han Xin as a contrast case for [[ChenPing|陈平]]. The host presents Han Xin as brilliant in war but weak in court-survival intelligence, so his fate becomes the negative comparison for Chen Ping's [[PoliticalSurvivalFirst|安全第一政治生存]] and [[WorldlyPoliticalCultivation|入世政治修行]].
+
 ## Connections
 - [[LiuBang|刘邦]], [[Hanzhong|汉中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - immediate source setting for Han Xin's first appearance.
 - [[RewardAllocationBacklash|分配反噬]], [[XiangYu|项羽]], and [[CoalitionSettlementFailure|联军战后安排失败]] - settlement conditions that make disappointed talent mobile.
@@ -46,3 +48,4 @@ After following [[LiuBang|刘邦]] into [[Hanzhong|汉中]], Han Xin remains und
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[HanInheritsQinSystem|汉承秦制]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], and [[ChenCang|陈仓]] - transition from Hanzhong strategy into the campaign that breaks the Three Qin.
 - [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[WangLingHanMinister|王陵]], and [[GuanzhongRegion|关中]] - downstream political effect of the campaign victory.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[HanWangXin|韩王信]], [[XiaoHe|萧何]], and [[LiyangQinHan|栎阳]] - disambiguation from Han Wang Xin and rear-base military role.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[ChenPing|陈平]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[WorldlyPoliticalCultivation|入世政治修行]] - contrast between military genius and court-survival adaptability.

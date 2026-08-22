@@ -2,7 +2,7 @@
 title: "Second-in-Command Role Fit / 二把手角色适配"
 type: concept
 tags: [politics, organization, talent, statecraft, han]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
 last_updated: 2026-08-22
 ---
 
@@ -14,11 +14,14 @@ The episode's compact formula is "智有余，然难以独任." That judgment se
 
 For Chen Ping, this role fit turns a moral problem into an organizational asset. His [[CovertPoliticalTechnology|阴谋式政治技术]] and [[PoliticalSurvivalFirst|安全第一政治生存]] are useful when they serve a larger strategic direction, but they are riskier if converted into sole command or open institutional leadership.
 
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] broadens the comparison set. The source contrasts Chen Ping with [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] to argue that his distinctive value is not pure strategy, civil administration, or military command, but the ability to keep operating as a dangerous deputy across incompatible rulers and factional fields.
+
 ## Key Claims
 - Talent evaluation should include role scope, not only intelligence or usefulness.
 - Some operators are best used as deputies, fixers, or internal counterweights because their strengths depend on ambiguity and discretion.
 - Bounded trust can be rational: a ruler may fund hidden work generously while withholding independent final authority.
 - The frame helps compare [[ChenPing|陈平]] with [[ZhangLiang|张良]], [[XiaoHe|萧何]], [[CaoShen|曹参]], and [[ZhouBo|周勃]] as different founding-minister types rather than interchangeable "able men."
+- Part 4 adds [[HanXin|韩信]] to the comparison as a case of brilliant single-domain military ability without Chen Ping's court-survival adaptability.
 
 ## Connections
 - [[ChenPing|陈平]] - central case of high ability with bounded independent trust.
@@ -27,3 +30,4 @@ For Chen Ping, this role fit turns a moral problem into an organizational asset.
 - [[CovertPoliticalTechnology|阴谋式政治技术]] - Chen Ping's operating mode.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival discipline that supports but also limits his role fit.
 - [[VeteranMeritCliqueSupervision|功臣旧将监督]], [[OutsiderTalentSignaling|厚待外来人才信号]], and [[TalentReferralQuality|荐才层级质量]] - adjacent organizational-talent frames.
+- [[WorldlyPoliticalCultivation|入世政治修行]] - part 4 frame that turns deputy-style survival into a broader claim about staying inside the political field.

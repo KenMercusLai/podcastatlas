@@ -6,7 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
-- [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj.md) — 芮淇讲透资治通鉴 episode completing Chen Ping's successful-politician sequence through Liu Bang's bounded trust, covert inducement work, Lu Zhi-era ambiguity, Zhou Bo partnership, and Emperor Wen transition.
+- [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern.md) — 芮淇讲透资治通鉴 episode extending Chen Ping's successful-politician sequence through Baideng, Fan Kuai's delayed execution order, Lu Zhi-era camouflage, and worldly political cultivation.
+- [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj.md) — 芮淇讲透资治通鉴 episode continuing Chen Ping's successful-politician sequence through Liu Bang's bounded trust, covert inducement work, Lu Zhi-era ambiguity, Zhou Bo partnership, and Emperor Wen transition.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h.md) — 芮淇讲透资治通鉴 episode moving Chen Ping from Wei Jiu and Xiang Yu into Liu Bang's camp, framing covert political technique, outsider supervision of veteran generals, and public talent-signaling.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar.md) — 芮淇讲透资治通鉴 episode opening Chen Ping's early-life branch through poverty, Zhang Fu's marriage backing, local social capital, and fair meat distribution at a village sacrifice as early political skill.
 - [《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023](sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue.md) — 芮淇讲透资治通鉴 PLUS New Year special on 元旦 as a layered holiday built from 尧舜禹 legend, Han Wudi calendar order, textual memory, festival foods, peach/cypress protective symbolism, poetry, and a 2023 blessing.
@@ -1254,6 +1255,8 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu.
 - [修武 / Xiuwu](entities/Xiuwu.md) — Liu Bang's Henei-area camp where Chen Ping arrives and is introduced through Wei Wuzhi.
+- [冒顿单于 / Modu Chanyu](entities/MaoDunChanyu.md) — Xiongnu ruler whose Baideng encirclement of Liu Bang becomes a Chen Ping covert-leverage case in Hanji 150 part 4.
+- [白登之围 / Baideng Encirclement](entities/BaidengEncirclement.md) — Early Han frontier crisis where Chen Ping's reported stratagem works through Modu Chanyu's household-status pressure rather than open force.
 - [张负 / Zhang Fu](entities/ZhangFu.md) — Huyou local wealthy elder who notices Chen Ping's bearing and visitor traffic, then backs him through marriage funding and family alliance.
 - [陈平妻 / Wife of Chen Ping](entities/ChenPingWife.md) — Zhang Fu's unnamed granddaughter whose marriage to Chen Ping converts stigma, family backing, and wedding support into early social-capital mobility.
 - [《荆楚岁时记》 / Jingchu Suishi Ji](entities/JingChuSuiShiJi.md) — Festival-custom record cited for Jingchu New Year greetings, pepper-cypress wine, peach decoction, and egg eating.
@@ -7862,6 +7865,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tactical Delay Risk Transfer / 延时转责式政治化解](concepts/TacticalDelayRiskTransfer.md) — Chen Ping and Zhou Bo frame for converting an irreversible execution order into custody, transport, and delayed sovereign responsibility.
+- [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Chen Ping frame for treating self-preservation, maneuvering room, and factional timing as core political disciplines in lethal court politics.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.

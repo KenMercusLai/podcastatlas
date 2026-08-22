@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5082
+wiki_total_pages: 5084
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "TacticalCredibilityCost"
     title: "Tactical Credibility Cost / 战术信用成本"
     url: "/wiki/concepts/tacticalcredibilitycost/"
+  - key: "TacticalDelayRiskTransfer"
+    title: "Tactical Delay Risk Transfer / 延时转责式政治化解"
+    url: "/wiki/concepts/tacticaldelayrisktransfer/"
   - key: "TactileComfortConsumption"
     title: "Tactile Comfort Consumption / 触感安慰消费"
     url: "/wiki/concepts/tactilecomfortconsumption/"

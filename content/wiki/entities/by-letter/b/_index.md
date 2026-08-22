@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6606
+wiki_total_pages: 6608
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "BaiPeople"
     title: "白族 / Bai People"
     url: "/wiki/entities/baipeople/"
+  - key: "BaidengEncirclement"
+    title: "白登之围 / Baideng Encirclement"
+    url: "/wiki/entities/baidengencirclement/"
   - key: "BaiQi"
     title: "白起 / Bai Qi"
     url: "/wiki/entities/baiqi/"

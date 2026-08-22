@@ -2,7 +2,7 @@
 title: "Covert Political Technology / 阴谋式政治技术"
 type: concept
 tags: [strategy, intelligence, statecraft, chu-han, ethics]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] adds the trust-and-budget side of the concept. [[LiuBang|刘邦]] gives Chen Ping large funds for enemy-side inducement and does not require detailed accounting, making covert technique a ruler-authorized instrument rather than only Chen Ping's private habit. The same source narrows the role through [[SecondInCommandRoleFit|二把手角色适配]]: hidden work can be valuable while still needing boundaries around independent authority.
 
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] adds the [[BaidengEncirclement|白登之围]] version. Chen Ping's reported solution to [[MaoDunChanyu|冒顿单于]]'s encirclement reaches the chanyu's favored woman, using her fear of displacement as the lever that changes the military situation. The concept therefore includes indirect household and status incentives, not only bribes, rumors, and enemy-camp division.
+
 ## Key Claims
 - Some political work is effective because it is hidden, deniable, or routed through rumor and inducement.
 - The same skills that protect a ruler or break an enemy can damage a figure's moral reputation.
@@ -23,6 +25,7 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 - Chen Ping's case keeps the wiki from treating political skill only as charisma, battlefield command, or principled counsel.
 - Covert work often requires a sponsor willing to tolerate ambiguity in spending, means, and reputation.
 - The usefulness of covert technique does not remove the need for role limits and political accountability.
+- Covert technique can operate through private status anxiety around a decision-maker when open force is unavailable.
 
 ## Connections
 - [[ChenPing|陈平]] - source case.
@@ -30,4 +33,6 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 - [[ZhangLiang|张良]] - contrast figure whose strategy is often presented through clearer adviser craft.
 - [[VeteranMeritCliqueSupervision|功臣旧将监督]] - internal-use side of covert information work.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] and [[SecondInCommandRoleFit|二把手角色适配]] - part 3 extensions around survival discipline and bounded authority.
+- [[BaidengEncirclement|白登之围]], [[MaoDunChanyu|冒顿单于]], and [[Xiongnu|匈奴]] - part 4 frontier case for indirect relationship leverage.
+- [[TacticalDelayRiskTransfer|延时转责式政治化解]] - adjacent part 4 maneuver that solves danger through timing rather than open opposition.
 - [[MachiavellianRealism]], [[InformerSourceProtection|告密者来源保护]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - adjacent frames for realism, information discipline, and hidden/open strategy conversion.

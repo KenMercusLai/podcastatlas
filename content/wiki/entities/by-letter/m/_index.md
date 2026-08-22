@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6606
+wiki_total_pages: 6608
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "MitsumiElectric"
     title: "三美电机"
     url: "/wiki/entities/mitsumielectric/"
+  - key: "MaoDunChanyu"
+    title: "冒顿单于 / Modu Chanyu"
+    url: "/wiki/entities/maodunchanyu/"
   - key: "MatteoRicci"
     title: "利玛窦 / Matteo Ricci"
     url: "/wiki/entities/matteoricci/"

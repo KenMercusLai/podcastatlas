@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5082
+wiki_total_pages: 5084
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "WorldModels"
     title: "World Models"
     url: "/wiki/concepts/worldmodels/"
+  - key: "WorldlyPoliticalCultivation"
+    title: "Worldly Political Cultivation / 入世政治修行"
+    url: "/wiki/concepts/worldlypoliticalcultivation/"
   - key: "WrittenSuccessionCredential"
     title: "Written Succession Credential / 书面继承凭证"
     url: "/wiki/concepts/writtensuccessioncredential/"

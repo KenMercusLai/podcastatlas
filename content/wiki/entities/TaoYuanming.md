@@ -2,7 +2,7 @@
 title: "陶渊明 / Tao Yuanming"
 type: entity
 tags: [person, poet, literature, reception]
-sources: [zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu]
 last_updated: 2026-08-22
 ---
 
@@ -12,8 +12,11 @@ last_updated: 2026-08-22
 
 The page is source-scoped. It records that the episode uses Tao Yuanming to show how Jing Ke could remain emotionally powerful even though the mission failed and [[YanState|燕国]] did not survive the pressure from [[QinState|秦国]]. In this reading, the poem preserves a late memory of侠义 more than it offers new evidence about the assassination's mechanics.
 
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] uses Tao Yuanming differently, as a contrast in the host's argument about [[WorldlyPoliticalCultivation|入世政治修行]]. The source criticizes the posture of withdrawing after frustration and uses Tao as part of a broader comparison to [[ChenPing|陈平]], whose value is presented as staying inside the political field instead of leaving it for personal clarity or literary purity.
+
 ## Connections
 - [[JingKe|荆轲]] - subject of the poem discussed by the source.
 - [[GongZizhen|龚自珍]] - later poet whom the source connects to reading Tao Yuanming's Jing Ke poem.
 - [[YiShuiFarewell|易水送别]] and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - memory and political-order frames around the episode's literary close.
 - [[MoralizedShiIdentity|士的道德化身份]] and [[RetainerReciprocityEthic|士为知己者死]] - honor vocabulary that makes Jing Ke's afterlife legible.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[ChenPing|陈平]], and [[WorldlyPoliticalCultivation|入世政治修行]] - source-scoped contrast between retreat/purity and political participation.

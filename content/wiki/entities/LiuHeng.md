@@ -2,7 +2,7 @@
 title: "刘恒 / Emperor Wen of Han"
 type: entity
 tags: [person, emperor, western-han, succession]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
+sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The source places Liu Heng's accession in 180 BCE and uses it to explain why Xu 
 
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] adds Liu Heng as the post-[[LuZhi|吕雉]] succession endpoint in [[ChenPing|陈平]]'s political-survival story. After Lu Zhi dies, Chen Ping, [[ZhouBo|周勃]], and Liu-family forces remove Lu-family power and install the king of Dai as emperor, making Liu Heng the ruler under whom Chen Ping's three-court survival reaches its official peak.
 
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] keeps Liu Heng in that endpoint role and adds reception of Chen Ping's later usefulness. The episode says Chen Ping assists Emperor Wen after the anti-Lu transition, making Liu Heng the ruler whose reign confirms the practical payoff of Chen Ping's earlier low profile and factional timing.
+
 ## Connections
 - [[BaoJi|薄姬]] - mother in the source's prediction branch.
 - [[LiuBang|刘邦]] - father in the episode's Han payoff.
@@ -25,3 +27,4 @@ The source places Liu Heng's accession in 180 BCE and uses it to explain why Xu 
 - [[ProphecyFulfillmentDisplacement|预言兑现错位]] - Bao Ji prediction and Deng Tong countermeasure pattern.
 - [[WesternHanDynasty|Western Han]] - dynastic setting.
 - [[ChenPing|陈平]], [[ZhouBo|周勃]], [[LuZhi|吕雉]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - Hanji 150 part 3 transition from Lu regency to Emperor Wen.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] and [[WorldlyPoliticalCultivation|入世政治修行]] - source endpoint for Chen Ping remaining useful after survival and restoration.

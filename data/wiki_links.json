@@ -5267,6 +5267,10 @@
     "title": "白起 / Bai Qi",
     "url": "/wiki/entities/baiqi/"
   },
+  "BaidengEncirclement": {
+    "title": "白登之围 / Baideng Encirclement",
+    "url": "/wiki/entities/baidengencirclement/"
+  },
   "Baidu": {
     "title": "Baidu",
     "url": "/wiki/entities/baidu/"
@@ -26555,6 +26559,10 @@
     "title": "毛冬 / Mao Dong",
     "url": "/wiki/entities/maodong/"
   },
+  "MaoDunChanyu": {
+    "title": "冒顿单于 / Modu Chanyu",
+    "url": "/wiki/entities/maodunchanyu/"
+  },
   "MaoGong": {
     "title": "毛公 / Mao Gong",
     "url": "/wiki/entities/maogong/"
@@ -40347,6 +40355,10 @@
     "title": "Tactical Credibility Cost / 战术信用成本",
     "url": "/wiki/concepts/tacticalcredibilitycost/"
   },
+  "TacticalDelayRiskTransfer": {
+    "title": "Tactical Delay Risk Transfer / 延时转责式政治化解",
+    "url": "/wiki/concepts/tacticaldelayrisktransfer/"
+  },
   "TactileComfortConsumption": {
     "title": "Tactile Comfort Consumption / 触感安慰消费",
     "url": "/wiki/concepts/tactilecomfortconsumption/"
@@ -45034,6 +45046,10 @@
   "WorldValuesSurvey": {
     "title": "World Values Survey",
     "url": "/wiki/entities/worldvaluessurvey/"
+  },
+  "WorldlyPoliticalCultivation": {
+    "title": "Worldly Political Cultivation / 入世政治修行",
+    "url": "/wiki/concepts/worldlypoliticalcultivation/"
   },
   "WoteShoes": {
     "title": "沃特鞋企 / Wote Shoes",
@@ -50854,6 +50870,10 @@
   "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj": {
     "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj/"
+  },
+  "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern": {
+    "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern/"
   },
   "zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7": {
     "title": "《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你",
