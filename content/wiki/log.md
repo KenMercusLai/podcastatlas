@@ -9798,3 +9798,11 @@ Ran lint after health and identity validation passed. Health scanned 12,812 wiki
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》135｜命运太神奇：从渔夫做到王
+
+Added source page for Qinji 135 main chronology: Zhang Er and Chen Yu's post-Julu rupture over rescue, accusation, the general's seal, and troop control; Peng Yue's rise from fisher and bandit leader into a disciplined force joining Liu Bang; and Li Shiqi's low-status attempt to reach Liu Bang despite Liu Bang's anti-scholar reputation. Created Peng Yue, Li Shiqi, Command-Seal Trust Rupture, and Bandit-to-Army Discipline; updated overview, index, Zhang Er, Chen Yu, Liu Bang, Julu Battle, and Low-Status Strategic Persuasion. No settled contradiction found; preserved the prior Qinji 134 context that Chen Yu's caution had operational reasons while recording this episode's emphasis on betrayal and trust collapse.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after identity validation and health pre-flight passed. Health scanned 12,821 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while current lint scanned 12,821 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

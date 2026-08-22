@@ -2,7 +2,7 @@
 title: "陈馀 / Chen Yu"
 type: entity
 tags: [person, qin, anti-qin, pre-qin]
-sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -32,6 +32,10 @@ The episode also adds a source-comparison problem. [[Shiji|《史记》]] gives 
 
 The episode gives Chen Yu's caution partial evidentiary support and moral cost at the same time. When Zhang Yan and Chen Ze demand action, Chen Yu gives them five thousand elite troops; they attack Qin and are annihilated. Chen Yu's calculation is therefore not simple cowardice in the source, but it still leaves Julu dependent on Xiang Yu's separate intervention.
 
+[[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] follows that unresolved cost into the aftermath. Zhang Er confronts Chen Yu after [[JuluBattle|巨鹿之战]], questions why Chen Yu did not rescue him, and disbelieves the explanation that Zhang Yan and Chen Ze died in the failed attack. Chen Yu tries to answer the accusation by throwing over the general's seal, but the gesture gives Zhang Er an opening to take both seal and troops.
+
+The episode therefore turns Chen Yu's earlier caution into a personal dispossession story. He returns to find the army gone, leaves with only about one hundred followers, and shifts from old friend to enemy of Zhang Er. The source makes this a case of [[CommandSealTrustRupture|将印信任破裂]] rather than merely hurt feeling: the symbol of command becomes the mechanism by which the relationship is broken.
+
 ## Connections
 - [[KongFu|孔鲋]] - figure whose safety and later appointment Chen Yu helps mediate.
 - [[QinBookBurningPolicy|秦代焚书令]] - policy background for Chen Yu's visit.
@@ -45,3 +49,4 @@ The episode gives Chen Yu's caution partial evidentiary support and moral cost a
 - [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[ZhaoXie|赵歇]], [[ZhaoState|赵国]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - post-coup repair through royal restoration.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[Julu|巨鹿]], [[WangLiQin|王离]], [[ZhangHanQin|章邯]], and [[HuaiwangAgreement|怀王之约]] - northern camp outside the siege and Chu rescue trigger.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[ZhangEr|张耳]], [[JuluBattle|巨鹿之战]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - contested preservation of outside Zhao troops during the siege.
+- [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]], [[ZhangEr|张耳]], and [[CommandSealTrustRupture|将印信任破裂]] - post-Julu seal handoff, troop loss, and final rupture.

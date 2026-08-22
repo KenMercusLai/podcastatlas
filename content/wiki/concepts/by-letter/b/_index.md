@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5049
+wiki_total_pages: 5051
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "BombUnderTableSuspense"
     title: "桌下炸弹悬念 / Bomb-Under-Table Suspense"
     url: "/wiki/concepts/bombundertablesuspense/"
+  - key: "BanditToArmyDiscipline"
+    title: "盗匪成军纪律化 / Bandit-to-Army Discipline"
+    url: "/wiki/concepts/bandittoarmydiscipline/"
   - key: "BreakingCauldronsAndSinkingBoats"
     title: "破釜沉舟 / Breaking Cauldrons and Sinking Boats"
     url: "/wiki/concepts/breakingcauldronsandsinkingboats/"

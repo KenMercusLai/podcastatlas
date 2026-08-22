@@ -2,7 +2,7 @@
 title: "张耳 / Zhang Er"
 type: entity
 tags: [person, retainer, warring-states, qin, western-han]
-sources: [zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
+sources: [zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
 last_updated: 2026-08-22
 ---
 
@@ -32,6 +32,10 @@ The host adds a source-critical layer: [[Shiji|《史记》]] says Zhang Er and 
 
 The result is tragic rather than effective: Chen Yu gives Zhang Yan and Chen Ze five thousand elite troops, and the attack is wiped out. Zhang Er's pressure therefore marks the desperation inside Julu and the limit of ordinary Zhao-side relief before [[XiangYu|项羽]] changes the battlefield through corridor attack and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]].
 
+[[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] turns that failed relief dispute into Zhang Er's break with Chen Yu. After Julu is lifted, Zhang Er confronts Chen Yu, rejects his explanation about Zhang Yan and Chen Ze's death, and treats the absence of rescue as betrayal. When Chen Yu angrily throws over the general's seal, Zhang Er's retainers urge him to accept it; Zhang Er takes the seal and the troops while Chen Yu is away.
+
+The episode makes Zhang Er's action more than an angry quarrel. A relationship once described as father-and-son-like becomes [[CommandSealTrustRupture|将印信任破裂]] because command symbols and soldiers change hands at the exact moment trust has collapsed. Zhang Er gains the army, but the source frames the gain as the act that turns Chen Yu into a lasting enemy.
+
 ## Connections
 - [[Xinlingjun|信陵君]] - earlier patron whose retainer network Zhang Er had belonged to.
 - [[LiuBang|刘邦]] - young admirer who turns to Zhang Er after missing Xinlingjun.
@@ -46,3 +50,4 @@ The result is tragic rather than effective: Chen Yu gives Zhang Yan and Chen Ze 
 - [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[ZhaoXie|赵歇]], [[ZhaoState|赵国]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - defeat of Li Liang and restoration of a Zhao royal descendant.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[Julu|巨鹿]], [[WangLiQin|王离]], [[SongYi|宋义]], and [[XiangYu|项羽]] - siege crisis that summons the Chu relief army.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[ChenYu|陈馀]], [[JuluBattle|巨鹿之战]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - inside-siege pressure, failed Zhao-side sortie, and eventual Chu rescue.
+- [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]], [[ChenYu|陈馀]], and [[CommandSealTrustRupture|将印信任破裂]] - post-Julu accusation, seal transfer, troop seizure, and final rupture.

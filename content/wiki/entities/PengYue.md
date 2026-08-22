@@ -1,0 +1,24 @@
+---
+title: "彭越 / Peng Yue"
+type: entity
+tags: [person, qin, anti-qin, chu-han, military]
+sources: [zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+last_updated: 2026-08-22
+---
+
+# 彭越 / Peng Yue
+
+彭越 / Peng Yue enters the wiki through [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] as the episode's "from fisher to king" figure. The source presents him as a Changyi local who once made a living fishing around Juye, then became a bandit under [[QinErshi|秦二世]]'s harsh rule.
+
+His first developed scene is organizational rather than royal. During the [[ChenSheng|陈胜]] and [[XiangLiang|项梁]] uprising wave, local young men gather around him and ask him to become leader. Peng Yue initially refuses, then agrees on the condition that everyone assemble at sunrise the next day and that latecomers will be killed.
+
+When many arrive late, Peng Yue does not kill them all. He executes the last arrival, sets up a ritual platform, and declares the uprising. The episode treats the act as a harsh credibility signal: the group stops treating command as a joke and begins obeying. Peng Yue therefore becomes the source case for [[BanditToArmyDiscipline|盗匪成军纪律化]].
+
+By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than one thousand people by taking nearby territory and absorbing defeated soldiers from different states. He then brings his force to Liu Bang, making him a new ally in Liu Bang's separate campaign line after [[JuluBattle|巨鹿之战]].
+
+## Connections
+- [[LiuBang|刘邦]] - leader Peng Yue joins during the Changyi campaign in this source.
+- [[QinErshi|胡亥 / 秦二世]], [[ChenSheng|陈胜]], and [[XiangLiang|项梁]] - crisis and uprising context that lets Peng Yue's local force emerge.
+- [[BanditToArmyDiscipline|盗匪成军纪律化]] - concept opened by Peng Yue's execution of the last latecomer and creation of command obedience.
+- [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider field in which local armed groups can attach to larger anti-Qin contenders.
+- [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] - source page for the fisher-to-commander branch.

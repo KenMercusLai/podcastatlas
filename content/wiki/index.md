@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》135｜命运太神奇：从渔夫做到王](sources/zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb.md) — 芮淇讲透资治通鉴 episode on Zhang Er and Chen Yu's post-Julu rupture, Peng Yue's fisher-to-disciplined-commander rise, and Li Shiqi's pending attempt to reach Liu Bang.
 - [《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运”](sources/zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu.md) — 芮淇讲透资治通鉴番外 episode on Zeng Guofan, the attributed Bingjian person-reading tradition, spirit-bone physiognomy, affect and bearing, and speech order as a practical talent signal.
 - [《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯](sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s.md) — 芮淇讲透资治通鉴番外 episode completing Xu Fu's Liu Bang recognition, Bao Ji prophecy payoff, Deng Tong and Zhou Yafu starvation predictions, and the source-scoped 相术 method discussion.
 - [《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？](sources/zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk.md) — 芮淇讲透资治通鉴番外 episode on 许负's origin legend, Zhouyi/bagua learning, Huangshi Gong's book gift, refusal of Qin Shi Huang's summons, and incomplete Liu Bang recognition scene.
@@ -1226,6 +1227,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose strict deadline and execution of the last latecomer turn a loose band into a disciplined force before he joins Liu Bang.
+- [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper and pending low-status persuader trying to reach Liu Bang despite Liu Bang's anti-scholar reputation.
 - [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, tied to doubtful Bingjian attribution and language-based personnel judgment.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
@@ -7778,6 +7781,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [将印信任破裂 / Command-Seal Trust Rupture](concepts/CommandSealTrustRupture.md) — Zhang Er and Chen Yu pattern where post-crisis suspicion turns a general's seal and troop control into the mechanism of final rupture.
+- [盗匪成军纪律化 / Bandit-to-Army Discipline](concepts/BanditToArmyDiscipline.md) — Peng Yue pattern where credible command, deadline enforcement, and selective punishment convert a loose outlaw group into a usable military force.
 - [神骨相法 / Spirit-Bone Physiognomy](concepts/ShenGuPhysiognomy.md) — Source-scoped method from Qinji 135 番外篇3 reading eyes as spirit, face bones as root, and speech order as the most practical talent signal.
 - [预言兑现错位 / Prophecy Fulfillment Displacement](concepts/ProphecyFulfillmentDisplacement.md) — Pattern where a prediction is heard correctly but fulfilled through another person, dynasty, patron, or mechanism.
 - [命相判断的政治风险 / Fate-Reading Political Risk](concepts/FateReadingPoliticalRisk.md) — Pattern where a fate-reader's judgment changes exposure to rulers, succession, favorites, and ministers, from avoiding Qin Shi Huang to recognizing Liu Bang.

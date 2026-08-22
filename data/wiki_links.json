@@ -5327,6 +5327,10 @@
     "title": "Bandit Assassination Attribution / 盗贼行刺归因",
     "url": "/wiki/concepts/banditassassinationattribution/"
   },
+  "BanditToArmyDiscipline": {
+    "title": "盗匪成军纪律化 / Bandit-to-Army Discipline",
+    "url": "/wiki/concepts/bandittoarmydiscipline/"
+  },
   "BanffNationalPark": {
     "title": "Banff National Park / 班夫",
     "url": "/wiki/entities/banffnationalpark/"
@@ -9690,6 +9694,10 @@
   "CommandAndControlInfrastructure": {
     "title": "Command-and-Control Infrastructure",
     "url": "/wiki/concepts/commandandcontrolinfrastructure/"
+  },
+  "CommandSealTrustRupture": {
+    "title": "将印信任破裂 / Command-Seal Trust Rupture",
+    "url": "/wiki/concepts/commandsealtrustrupture/"
   },
   "CommanderyCountyAntiEnfeoffment": {
     "title": "Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局",
@@ -24499,6 +24507,10 @@
     "title": "李世民 / Li Shimin",
     "url": "/wiki/entities/lishimin/"
   },
+  "LiShiqi": {
+    "title": "郦食其 / Li Shiqi",
+    "url": "/wiki/entities/lishiqi/"
+  },
   "LiShoukui": {
     "title": "李守奎",
     "url": "/wiki/entities/lishoukui/"
@@ -31514,6 +31526,10 @@
   "PengXinyu": {
     "title": "彭新宇 / Peng Xinyu",
     "url": "/wiki/entities/pengxinyu/"
+  },
+  "PengYue": {
+    "title": "彭越 / Peng Yue",
+    "url": "/wiki/entities/pengyue/"
   },
   "Penglai": {
     "title": "Penglai / 蓬莱",
@@ -50734,6 +50750,10 @@
   "zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu": {
     "title": "《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运”",
     "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu/"
+  },
+  "zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb": {
+    "title": "《资治通鉴·秦纪》135｜命运太神奇：从渔夫做到王",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

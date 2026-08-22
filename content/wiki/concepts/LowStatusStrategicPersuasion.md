@@ -2,7 +2,7 @@
 title: "Low-Status Strategic Persuasion / 低位者战略说服"
 type: concept
 tags: [persuasion, diplomacy, anti-qin, statecraft]
-sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-22
 ---
 
@@ -14,13 +14,19 @@ The source case occurs after [[YanState|燕国]] captures [[WuChen|武臣]], the
 
 This overlaps with [[InterestReframingPersuasion|利益重构式说服]], but the distinctive feature is rank inversion. The source's dramatic force comes from a camp servant seeing the political incentives more clearly than official messengers. It also differs from [[DignityBasedPersuasion|尊严激将式说服]] because the argument does not mainly shame Yan; it makes Yan's current course look self-endangering.
 
+[[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] adds an access-stage variant through [[LiShiqi|郦食其]]. Li Shiqi is not yet shown winning Liu Bang over; the episode stops before the meeting. But the setup belongs here because an old, poor gatekeeper called a "狂生" tries to reach [[LiuBang|刘邦]] by identifying Liu Bang as the rare commander who may be arrogant yet still open to large strategy.
+
+This variant marks the moment before persuasion succeeds. The low-status speaker first has to get past reputation, social contempt, and the target's anti-scholar habits. The episode's cliffhanger means the wiki should keep Li Shiqi's case as pending rather than treating it as completed recognition.
+
 ## Key Claims
 - Low status can become usable in crisis when formal envoys have failed and the counterparty wants a practical exit.
 - The decisive move is not pleading upward, but redescribing the other side's action as creating danger for itself.
 - A weak speaker can persuade a stronger actor by identifying third-party incentives that the stronger actor has missed.
 - The pattern can convert a captive crisis into release without conceding the stronger side's moral superiority.
+- Qinji 135 adds that low-status persuasion can begin as an access problem: before the argument can work, the speaker must find a channel to a potentially receptive but socially hostile patron.
 
 ## Connections
 - [[ZhaoServantEnvoy|赵厮养卒]], [[WuChen|武臣]], [[HanGuang|韩广]], and [[YanState|燕国]] - source case and decision setting.
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - third-party incentives used in the argument.
+- [[LiShiqi|郦食其]], [[LiuBang|刘邦]], and [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] - access-stage variant before the actual persuasion scene.
 - [[InterestReframingPersuasion|利益重构式说服]], [[MoralizedWarPretext|道德化战争借口]], and [[ZonghengjiaDiplomacy|纵横家外交]] - adjacent persuasion and statecraft concepts.
