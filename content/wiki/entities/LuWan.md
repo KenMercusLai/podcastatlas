@@ -2,10 +2,9 @@
 title: "卢绾 / Lu Wan"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
 last_updated: 2026-08-23
 ---
-
 # 卢绾 / Lu Wan
 
 卢绾 / Lu Wan enters the wiki through [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] as a Han-side figure sent with [[LiuJia|刘贾]] to assist [[PengYue|彭越]]. The task appears after [[LiuBang|刘邦]] accepts [[HanXin|韩信]]'s northern campaign but keeps drawing elite troops back toward the main [[XingyangStandoff|荥阳相持]] front.
@@ -14,7 +13,10 @@ The page keeps Lu Wan source-scoped. In this episode, his significance is not in
 
 [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] extends that role into execution. Lu Wan is again paired with Liu Jia as Liu Bang sends infantry and cavalry across the Yellow River to strengthen Peng Yue. The reinforced harassment helps take a string of Chu-linked cities and pulls [[XiangYu|项羽]] away from the [[Chenggao|成皋]] front.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] gives Lu Wan a post-Xiang-Yu pacification task. [[LiuBang|刘邦]] sends him with [[LiuJia|刘贾]] against [[GongWei|共尉]] at Jiangling after Gong Wei refuses to submit; the city falls only after additional Han support, making Lu Wan part of the remaining-resistance cleanup.
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[GongWei|共尉]], and [[LiuJia|刘贾]] - Linjiang resistance and Jiangling siege.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] - source page for Lu Wan's reinforced rear-pressure role.
 - [[LiuBang|刘邦]] - ruler who sends Lu Wan.
 - [[LiuJia|刘贾]] and [[PengYue|彭越]] - paired support and supported commander.

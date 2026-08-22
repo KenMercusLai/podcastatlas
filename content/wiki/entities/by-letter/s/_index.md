@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6683
+wiki_total_pages: 6687
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1328,6 +1328,9 @@ wiki_pages:
   - key: "ShuangXuetao"
     title: "双雪涛 / Shuang Xuetao"
     url: "/wiki/entities/shuangxuetao/"
+  - key: "ShusunTong"
+    title: "叔孙通 / Shusun Tong"
+    url: "/wiki/entities/shusuntong/"
   - key: "ShuliangHe"
     title: "叔梁纥"
     url: "/wiki/entities/shulianghe/"

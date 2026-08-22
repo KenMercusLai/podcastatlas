@@ -2,10 +2,9 @@
 title: "吴芮 / Wu Rui"
 type: entity
 tags: [person, official, anti-qin, rebellion, qin-han]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+last_updated: 2026-08-23
 ---
-
 # 吴芮 / Wu Rui
 
 吴芮 / Wu Rui enters the wiki through [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] as the Panyang magistrate with strong local reputation, called Lord Pan in the episode. His source role is to convert [[YingBu|英布 / 黥布]] from a convict-bandit military leader into an allied anti-Qin commander with local-elite backing.
@@ -18,7 +17,10 @@ The source notes that both Wu Rui and Ying Bu survive the broader turmoil. This 
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]] adds Wu Rui to the Yi Emperor killing order. [[XiangYu|项羽]] commands Wu Rui, [[YingBu|英布]], and [[GongAo|共敖]] to attack [[MiXin|芈心 / 楚怀王]] on the route toward [[ChenxianChangsha|郴县]]. The source groups Wu Rui among rulers reluctant to kill a former anti-Qin盟主, even though Ying Bu ultimately executes the order.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] shows Wu Rui surviving into the Han accession recognition field. He is named with [[HanXin|韩信]], [[HanWangXin|韩王信]], [[YingBu|英布]], [[ZhangAo|张敖]], and [[ZangTu|臧荼]] among the kings urging [[LiuBang|刘邦]] to accept the imperial title.
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LiuBang|刘邦]], [[HanXin|韩信]], [[YingBu|英布]], [[ZhangAo|张敖]], and [[ZangTu|臧荼]] - accession-petition group.
 - [[YingBu|英布 / 黥布]] - son-in-law and military ally.
 - [[QinState|秦国]] and [[ZhangChuRegime|张楚政权]] - enemy regime and broader rebellion context.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider field where local officials and armed groups combine outside a single command.

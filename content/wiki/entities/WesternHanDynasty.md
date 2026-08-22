@@ -2,10 +2,9 @@
 title: "Western Han dynasty / 西汉"
 type: entity
 tags: [history, china, empire]
-sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+last_updated: 2026-08-23
 ---
-
 # Western Han dynasty / 西汉
 
 The Western Han dynasty / 西汉 is the dynastic setting for [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]]. The episode begins with [[LiuBang|刘邦]]'s founding legitimacy and then tracks how that sacred narrative weakened by the time of [[HanAidi|汉哀帝]], [[WangZhengjun|王政君]], [[DongXian|董贤]], [[HanPingdi|汉平帝]], and [[WangMang|王莽]].
@@ -18,14 +17,18 @@ The dynasty matters because the source treats it as the maker of its own later v
 
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] adds the chronicle-opening threshold for the Han branch. It is still before Liu Bang's final imperial victory, but the episode marks the first Hanji year through Qin's surrender, Liu Bang's [[Bashang|霸上]] pacification, and the contrast with [[XiangYu|项羽]]'s [[XinanMassacre|新安坑降]]. Western Han therefore gains a pre-founding governance prelude: the dynasty's later durability is foreshadowed through the choice to make Qin people survivable subjects.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] reaches the formal founding threshold. After Xiang Yu's death, Liu Bang settles Chu holdouts, rewards and contains major contributors, issues a broad pardon, accepts the imperial-title petition from regional kings, and uses [[ShusunTong|叔孙通]]'s simplified ritual to become the first emperor of the Han dynasty. Western Han's page therefore now distinguishes Hanji 139's pre-founding occupation style from Hanji 169's accession and founding-order consolidation.
+
 ## Key Claims
 - Western Han legitimacy relied on stories of Heaven's mandate and imperial sacredness.
 - Court politics near the end of the dynasty were shaped by imperial succession, consort kin, favorites, and omen interpretation.
 - Wang Mang's seizure of power is presented as an internal product of the dynasty's legitimacy system, not only as external betrayal.
 - Episode 87 adds that Western Han sacred politics also included large-scale fangshi patronage and politically lethal curse accusations.
 - Hanji 139 adds a pre-founding governance prelude: Liu Bang's Bashang policy is treated as a first visible move from rebellion into a durable Han-style occupation order.
+- Hanji 169 adds the formal founding threshold: accession follows pacification, command recapture, territorial reward, amnesty, and ritual recognition.
 
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LiuBang|刘邦]], [[ShusunTong|叔孙通]], [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]], and [[PardonAsStatePower]] - imperial accession and founding-order consolidation.
 - [[LiuBang]], [[HanAidi]], [[WangZhengjun]], [[DongXian]], [[HanPingdi]], and [[WangMang]] - key actors in the source's Western Han sequence.
 - [[HanWudi]], [[LiuAn]], and [[Huainanzi]] - episode 87's fangshu and knowledge-compilation branch.
 - [[XinDynasty]] and [[LiuXiu]] - interruption and later restoration branch.

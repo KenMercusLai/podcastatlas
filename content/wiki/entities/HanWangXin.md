@@ -2,10 +2,9 @@
 title: "韩王信 / Han Wang Xin"
 type: entity
 tags: [person, han-state, chu-han, ruler]
-sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
 last_updated: 2026-08-23
 ---
-
 # 韩王信 / Han Wang Xin
 
 韩王信 / Han Wang Xin enters the wiki through [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] as an old [[HanState|韩国]] royal descendant used by [[LiuBang|刘邦]] to restore a Han title under Liu Bang's authority. The source explicitly distinguishes him from the general [[HanXin|韩信]].
@@ -18,7 +17,10 @@ That promise becomes useful after [[ZhengChangHanKing|郑昌]], the Han king ins
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] places Han Wang Xin inside the emergency garrison list after [[JiXin|纪信]]'s substitution lets [[LiuBang|刘邦]] escape [[YingyangWarringStates|荥阳]]. He is named with [[ZhouKe|周苛]], [[WeiBao|魏豹]], and [[CongGong|枞公]] among those left behind to hold the city during the [[XingyangStandoff|荥阳相持]].
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] moves Han Wang Xin from loyal regional actor into the accession-petition group. He is named with [[HanXin|韩信]], [[YingBu|英布]], [[WuRui|吴芮]], [[ZhangAo|张敖]], and [[ZangTu|臧荼]] among the kings urging Liu Bang to accept the imperial title, making old Han legitimacy part of the public recognition of [[WesternHanDynasty|西汉]]'s founding.
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[ZhangAo|张敖]], [[YingBu|英布]], [[WuRui|吴芮]], and [[ZangTu|臧荼]] - accession petition to Liu Bang.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[ZhouKe|周苛]], [[WeiBao|魏豹]], and [[CongGong|枞公]] - remaining Xingyang garrison personnel after Liu Bang's escape.
 - [[LiuBang|刘邦]] and [[ZhangLiang|张良]] - patrons and Han-restoration channel.
 - [[HanXin|韩信]] - different Liu Bang-side figure with the same Chinese name.

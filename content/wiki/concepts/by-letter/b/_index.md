@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5126
+wiki_total_pages: 5127
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "ByteDanceGrowthSystem"
     title: "ByteDance Growth System"
     url: "/wiki/concepts/bytedancegrowthsystem/"
+  - key: "BattlefieldVictoryToFoundingOrder"
+    title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
+    url: "/wiki/concepts/battlefieldvictorytofoundingorder/"
   - key: "BombUnderTableSuspense"
     title: "桌下炸弹悬念 / Bomb-Under-Table Suspense"
     url: "/wiki/concepts/bombundertablesuspense/"

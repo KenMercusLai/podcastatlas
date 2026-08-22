@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6683
+wiki_total_pages: 6687
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "LuGonggong"
     title: "鲁共公 / Duke Gong of Lu"
     url: "/wiki/entities/lugonggong/"
+  - key: "LuCountyChuHan"
+    title: "鲁县 / Lu County (Chu-Han)"
+    url: "/wiki/entities/lucountychuhan/"
   - key: "LuState"
     title: "鲁国 / Lu State"
     url: "/wiki/entities/lustate/"

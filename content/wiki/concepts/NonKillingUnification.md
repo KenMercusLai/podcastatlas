@@ -2,10 +2,9 @@
 title: "Non-Killing Unification / 不爱杀人者能一之"
 type: concept
 tags: [political-theory, legitimacy, confucianism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]
+last_updated: 2026-08-23
 ---
-
 # Non-Killing Unification / 不爱杀人者能一之
 
 Non-killing unification / 不爱杀人者能一之 is the Mencian statecraft claim foregrounded in [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]]. When [[WeiXiangwang|魏襄王]] asks how the realm can be settled, [[Mengzi|孟子 / Mencius]] answers first that it must be unified, then says the ruler who can unify it is one who does not love killing.
@@ -24,6 +23,8 @@ The host tests the claim against later history. [[QinState|秦国]] eventually c
 
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives that relative contrast its first Qin-heartland proof. Liu Bang spares [[ZiyingQin|子婴]], avoids palace indulgence after advice from [[FanKuai|樊哙]] and [[ZhangLiang|张良]], and uses [[YuefaSanzhang|约法三章]] at [[Bashang|霸上]] to make Qin people willing to support him. [[XiangYu|项羽]] remains militarily formidable, but the [[XinanMassacre|新安坑降]] turns surrendered Qin soldiers into blood debt and makes future rule in [[GuanzhongRegion|关中]] politically brittle.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] adds the postwar completion of that relative contrast. Liu Bang initially threatens [[LuCountyChuHan|鲁县]], but accepts surrender after proving [[XiangYu|项羽]] is dead, buries Xiang Yu with Duke of Lu rites, spares and rewards selected Xiang relatives, and issues a broad pardon below capital crimes. The source does not make Liu Bang nonviolent; it shows him using restraint and amnesty to turn victory into a governable [[WesternHanDynasty|西汉]] founding order.
+
 ## Key Claims
 - "Not loving killing" is not weakness; it is a condition for attracting people exhausted by violent rule.
 - The concept distinguishes taking territory from settling the realm.
@@ -35,8 +36,10 @@ The host tests the claim against later history. [[QinState|秦国]] eventually c
 - Qinji 132 shows the comparison affecting command assignment: the less brutal candidate is selected for pacification, while the more brutal commander is redirected to battlefield relief.
 - Qinji 136 adds the hardest Liu Bang qualification: he can use massacre as terror, but his durable advantage begins when he converts surrender into subject incorporation at Wan.
 - Hanji 139 adds the clearest direct contrast: Liu Bang's Bashang restraint builds Qin support, while Xiang Yu's Xinan killing turns a security fear into long-term legitimacy loss.
+- Hanji 169 adds the postwar version: restraint toward Lu County, Xiang Yu's burial, Xiang-clan absorption, and amnesty help move from conquest to founding.
 
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LuCountyChuHan|鲁县]], [[XiangBo|项伯]], [[XiangXiang|项襄]], [[PardonAsStatePower]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - postwar restraint and amnesty after Xiang Yu's death.
 - [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[WeiXiangwang|魏襄王]] - source dialogue.
 - [[MencianPeopleBasedLegitimacy]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], and [[PeopleBasedPoliticalSecurity]] - adjacent legitimacy and statecraft frames.
 - [[QinState|秦国]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - later historical tests used by the host.

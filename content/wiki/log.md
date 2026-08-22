@@ -10293,3 +10293,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,090 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）
+
+Added source page for Hanji 169: Liu Bang's post-Xiang-Yu settlement through Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, Gong Wei's capture, Han Xin's command removal and Chu kingship, Peng Yue's Liang kingship, broad amnesty, the accession petition, Shusun Tong's simplified rite, and the Luoyang south-palace question. Created Lu County (Chu-Han), Xiang Xiang, Zhang Ao, Shusun Tong, and Battlefield Victory To Founding Order; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; the source's critique of Xiang Yu's Heaven explanation is kept as complementary to earlier people-support readings.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

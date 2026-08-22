@@ -2,10 +2,9 @@
 title: "项伯 / Xiang Bo"
 type: entity
 tags: [person, qin-han, chu-han, xiang-family]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
 last_updated: 2026-08-23
 ---
-
 # 项伯 / Xiang Bo
 
 项伯 / Xiang Bo enters the wiki through [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] as [[XiangYu|项羽]]'s uncle and an older Xiang-family figure after [[XiangLiang|项梁]]'s death. The source says he had helped Xiang Liang in the army, held the Chu office of lingyin, and remained a trusted elder whom Xiang Yu respected.
@@ -30,6 +29,8 @@ After returning to Xiang Yu's camp, Xiang Bo argues that attacking Liu Bang woul
 
 In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], Xiang Bo again restrains [[XiangYu|项羽]], this time during the hostage crisis at [[GuangwuChuHan|广武]]. When Xiang Yu threatens to cook [[LiuTaigong|刘太公]], Xiang Bo argues that killing him would only add harm and would not force [[LiuBang|刘邦]] to submit. The intervention keeps his page's preservation theme but shifts it from personal rescue to practical anti-backfire advice.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] gives the postwar payoff of that preservation channel. After Xiang Yu's death, Liu Bang does not destroy the Xiang clan; the episode says Xiang Bo and other Xiang relatives are made marquises and given the Liu surname. Xiang Bo therefore moves from a wartime "preserve Liu" figure into a Xiang-family member preserved and absorbed by the new [[WesternHanDynasty|西汉]] order.
+
 ## Key Claims
 - Xiang Bo's authority in these sources comes from kinship, age, prior service in the Xiang camp, and his old life-debt relationship with Zhang Liang.
 - His entry makes the Hongmen crisis depend on personal channels inside a formal military confrontation.
@@ -39,8 +40,10 @@ In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-can
 - Hanji 144 extends the same relationship channel into post-settlement bargaining, though the available transcript has a noisy "相国" form.
 - Hanji 144 part 2 records the practical payoff of that channel: Liu Bang gains more room before entering Hanzhong and then uses [[BurningGalleryRoads|烧栈道]] to protect the retreat.
 - Hanji 160 part 1 extends the preservation-channel pattern into the Xingyang peace offer, where Xiang Bo can open acceptance but cannot overrule Fan Zeng's insistence on attack.
+- Hanji 169 adds the postwar reversal: the Xiang elder who helped preserve Liu Bang is himself preserved and rewarded after Xiang Yu's defeat.
 
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[XiangXiang|项襄]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - Xiang-family absorption after Xiang Yu's death.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[ChenPing|陈平]] - Xiang-family role and old anti-Fan-Zeng crack exploited by the envoy-feast wedge.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[FanZeng|范增]], and [[ChenPing|陈平]] - peace-opening role before Fan Zeng's rejection and Chen Ping's countermeasure.
 - [[XiangYu|项羽]], [[XiangLiang|项梁]], and [[ChuState|楚国]] - family and political camp.

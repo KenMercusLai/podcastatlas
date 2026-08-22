@@ -2,10 +2,9 @@
 title: "扬雄 / Yang Xiong"
 type: entity
 tags: [person, writer, chinese-classics, western-han, confucianism]
-sources: [zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
+last_updated: 2026-08-23
 ---
-
 # 扬雄 / Yang Xiong
 
 扬雄 / Yang Xiong enters this wiki branch through [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]], where the episode cites his [[Fayan|《法言》]] after discussing [[Mengzi|孟子 / Mencius]]'s [[MencianGreatManCriterion|大丈夫标准]]. The source renders his name as "杨雄," but the page keeps the conventional "扬雄" form.
@@ -24,7 +23,10 @@ The episode uses him to distinguish similar-looking political activity by motive
 
 [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi]] adds Yang Xiong's judgment on [[MengTian|蒙恬]] through [[Fayan|《法言》]]. The episode presents his position as severe: Meng Tian's loyal death is not enough to cancel the deaths and labor suffering attached to [[QinZhidao|秦直道]], long-wall construction, and other Qin projects. This makes Yang Xiong an authority for [[LoyalServiceMoralLiability|忠臣事暴政的罪责]] as well as for motive-based talent judgment.
 
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] adds Yang Xiong's anti-fatalistic judgment on [[XiangYu|项羽]]. The episode cites [[Fayan|《法言》]] to reject Xiang Yu's claim that Gaixia and Wujiang were simply Heaven's will: [[LiuBang|刘邦]] could gather and use people's strengths, while Xiang Yu disliked hearing counsel and weakened his own side. This extends Yang Xiong's recurring role as a judge who tests visible talent by political-moral consequence rather than brilliance alone.
+
 ## Connections
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[MandateOfHeavenLegitimacy|天命合法性]] - anti-fatalistic reading of Xiang Yu's defeat.
 - [[Fayan|《法言》]] - text cited by the episode.
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Guiguzi|鬼谷子]] - figures whose strategic arts the passage criticizes.
 - [[Zigong|子贡 / 端木赐]] and [[LuState|鲁国]] - contrast case used to separate rescue motive from wealth-seeking motive.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）](sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi.md) — 芮淇讲透资治通鉴 episode on Liu Bang's transition from Xiang Yu's death into Han founding order: Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, Gong Wei's capture, Han Xin and Peng Yue's kingships, amnesty, and accession.
 - [《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）](sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca.md) — 芮淇讲透资治通鉴 episode completing Xiang Yu's final route through Dongcheng, Wujiang, refusal to cross, gift of Wuzhui, self-killing, and the critique that tactical self-proof cannot replace strategic self-correction.
 - [《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）](sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3.md) — 芮淇讲透资治通鉴 episode carrying Gaixia after the battlefield defeat into four-sided Chu songs, Gaixia Song, Yu Ji's suicide, Xiang Yu's breakout, Guan Ying's pursuit, and the "Heaven's will as people's will" reading.
 - [《资治通鉴·汉纪》167｜见证项羽最终之战（2）](sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p.md) — 芮淇讲透资治通鉴 episode completing Gaixia through Liu Bang yielding command, Han Xin's three-line layered defense, Xiang Yu's failed shock breakthrough, and the encirclement of the exhausted Chu army.
@@ -1288,6 +1289,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zhang Ao](entities/ZhangAo.md) — Zhao king named in the accession petition urging Liu Bang to accept the imperial title.
+- [Shusun Tong](entities/ShusunTong.md) — Scholar-official who prepares Liu Bang's simplified imperial accession ritual from Qin precedent.
+- [Lu County (Chu-Han)](entities/LuCountyChuHan.md) — Chu-loyal county whose surrender and Xiang Yu burial frame Liu Bang's postwar pacification.
+- [Xiang Xiang](entities/XiangXiang.md) — Xiang-family relative absorbed into Liu Bang's postwar order with marquisate and Liu surname.
 - [东城 / Dongcheng (Chu-Han)](entities/DongchengChuHan.md) — Xiang Yu's final tactical self-proof setting after Gaixia, where twenty-eight riders still break Han pursuit.
 - [乌江 / Wujiang (Chu-Han)](entities/WujiangChuHan.md) — Xiang Yu's final crossing point, refusal-to-retreat scene, Wuzhui gift setting, and self-killing location in Hanji 168 part 2.
 - [乌江亭长 / Wujiang Pavilion Chief](entities/WujiangPavilionChief.md) — Local official who offers Xiang Yu the only boat across Wujiang and receives Wuzhui.
@@ -7975,6 +7980,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, pardon, ritual, and dynastic founding.
 - [Tactical Self-Vindication Trap / 战术自证陷阱](concepts/TacticalSelfVindicationTrap.md) — Hanji 168 part 2 pattern where Xiang Yu proves tactical courage at Dongcheng while avoiding strategic and political self-correction.
 - [Four-Sided Chu Songs / 四面楚歌](concepts/FourSidedChuSongs.md) — Hanji 168 morale-collapse mechanism where surrounding Chu songs make Xiang Yu experience battlefield encirclement as homeland and people-support collapse.
 - [Layered Depth Defense / 纵深分层防御](concepts/LayeredDepthDefense.md) — Gaixia tactical pattern where Han Xin uses three lines, controlled retreat, wing pressure, and final convergence to exhaust Xiang Yu's shock attack.
