@@ -10463,6 +10463,10 @@
     "title": "Coventry (life settlements)",
     "url": "/wiki/entities/coventrylifesettlements/"
   },
+  "CovertPoliticalTechnology": {
+    "title": "Covert Political Technology / 阴谋式政治技术",
+    "url": "/wiki/concepts/covertpoliticaltechnology/"
+  },
   "CowardlySacrificeWitness": {
     "title": "胆小鬼的献祭 / Cowardly Sacrifice As Witness",
     "url": "/wiki/concepts/cowardlysacrificewitness/"
@@ -31011,6 +31015,10 @@
     "title": "Outrank",
     "url": "/wiki/entities/outrank/"
   },
+  "OutsiderTalentSignaling": {
+    "title": "Outsider Talent Signaling / 厚待外来人才信号",
+    "url": "/wiki/concepts/outsidertalentsignaling/"
+  },
   "OuyangBin": {
     "title": "欧阳斌 / Ouyang Bin",
     "url": "/wiki/entities/ouyangbin/"
@@ -43315,6 +43323,10 @@
     "title": "Vesta",
     "url": "/wiki/entities/vesta/"
   },
+  "VeteranMeritCliqueSupervision": {
+    "title": "Veteran Merit-Clique Supervision / 功臣旧将监督",
+    "url": "/wiki/concepts/veteranmeritcliquesupervision/"
+  },
   "ViaticalSettlement": {
     "title": "Viatical Settlement",
     "url": "/wiki/concepts/viaticalsettlement/"
@@ -44330,6 +44342,10 @@
   "WeiWuhou": {
     "title": "魏武侯 / Marquis Wu of Wei",
     "url": "/wiki/entities/weiwuhou/"
+  },
+  "WeiWuzhi": {
+    "title": "魏无知 / Wei Wuzhi",
+    "url": "/wiki/entities/weiwuzhi/"
   },
   "WeiXi": {
     "title": "魏熙",
@@ -45654,6 +45670,10 @@
   "XiuLife": {
     "title": "Xiu Life / 秀生活",
     "url": "/wiki/entities/xiulife/"
+  },
+  "Xiuwu": {
+    "title": "修武 / Xiuwu",
+    "url": "/wiki/entities/xiuwu/"
   },
   "XiuyuBattle": {
     "title": "修鱼之战 / Battle of Xiuyu",
@@ -50818,6 +50838,10 @@
   "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar": {
     "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar/"
+  },
+  "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h": {
+    "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h/"
   },
   "zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7": {
     "title": "《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你",

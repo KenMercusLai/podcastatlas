@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6604
+wiki_total_pages: 6606
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "Xinlingjun"
     title: "信陵君 / Lord Xinling"
     url: "/wiki/entities/xinlingjun/"
+  - key: "Xiuwu"
+    title: "修武 / Xiuwu"
+    url: "/wiki/entities/xiuwu/"
   - key: "XiuyuBattle"
     title: "修鱼之战 / Battle of Xiuyu"
     url: "/wiki/entities/xiuyubattle/"

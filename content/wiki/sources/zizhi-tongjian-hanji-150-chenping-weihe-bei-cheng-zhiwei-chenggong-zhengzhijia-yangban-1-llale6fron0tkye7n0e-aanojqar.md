@@ -36,6 +36,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens a [[C
 - [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Zhang Fu's early bet on Chen Ping through appearance, bearing, and visible visitor traffic.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] - adjacent frame for how visible fairness and service become public trust.
 - [[XiangYu|项羽]], [[MiXin|芈心 / 楚怀王]], and [[LiuBang|刘邦]] - surrounding Chu-Han disorder in which Chen Ping's later political value will be tested.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] - continuation that resolves the Liu Bang meeting and later appointment thread.
 
 ## Contradictions
-- No settled contradiction is recorded. The ingest keeps the final Liu Bang meeting as unresolved because the available source text cuts off during the transition.
+- No settled contradiction is recorded. The final Liu Bang meeting is unresolved within this source, but [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] later completes the thread.

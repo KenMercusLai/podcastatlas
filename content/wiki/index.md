@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h.md) — 芮淇讲透资治通鉴 episode moving Chen Ping from Wei Jiu and Xiang Yu into Liu Bang's camp, framing covert political technique, outsider supervision of veteran generals, and public talent-signaling.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar.md) — 芮淇讲透资治通鉴 episode opening Chen Ping's early-life branch through poverty, Zhang Fu's marriage backing, local social capital, and fair meat distribution at a village sacrifice as early political skill.
 - [《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023](sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue.md) — 芮淇讲透资治通鉴 PLUS New Year special on 元旦 as a layered holiday built from 尧舜禹 legend, Han Wudi calendar order, textual memory, festival foods, peach/cypress protective symbolism, poetry, and a 2023 blessing.
 - [《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你](sources/zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7.md) — 芮淇讲透资治通鉴 PLUS episode using Zeng Guofan to frame 成事 as long-term endurance, self-discipline, patient accumulation, and self-change rather than short bursts of effort.
@@ -1250,6 +1251,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu.
+- [修武 / Xiuwu](entities/Xiuwu.md) — Liu Bang's Henei-area camp where Chen Ping arrives and is introduced through Wei Wuzhi.
 - [张负 / Zhang Fu](entities/ZhangFu.md) — Huyou local wealthy elder who notices Chen Ping's bearing and visitor traffic, then backs him through marriage funding and family alliance.
 - [陈平妻 / Wife of Chen Ping](entities/ChenPingWife.md) — Zhang Fu's unnamed granddaughter whose marriage to Chen Ping converts stigma, family backing, and wedding support into early social-capital mobility.
 - [《荆楚岁时记》 / Jingchu Suishi Ji](entities/JingChuSuiShiJi.md) — Festival-custom record cited for Jingchu New Year greetings, pepper-cypress wine, peach decoction, and egg eating.
@@ -1281,7 +1284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田安 / Tian An](entities/TianAn.md) — Qi-side figure made Jibei king as Xiang Yu fragments the Qi settlement.
 - [共敖 / Gong Ao](entities/GongAo.md) — Chu-side commander made Linjiang king for attacking Nan commandery.
 - [梅鋗 / Mei Juan](entities/MeiJuan.md) — Wu Rui subordinate rewarded as a large marquis in Xiang Yu's settlement.
-- [陈平 / Chen Ping](entities/ChenPing.md) — Chu-Han political operator whose early poverty, Zhang-family marriage backing, fair allocation skill, and later Hongmen restraint frame him as a pragmatic survivor.
+- [陈平 / Chen Ping](entities/ChenPing.md) — Chu-Han political operator whose early local trust, covert strategy, self-protective patron switching, and Liu Bang-side outsider role frame him as a pragmatic survivor.
 - [韩生 / Han Sheng](entities/HanSheng.md) — Adviser who tells Xiang Yu to hold Guanzhong after entering Xianyang and is killed after the "沐猴而冠" criticism reaches Xiang Yu.
 - [霸上 / Bashang](entities/Bashang.md) — Liu Bang's post-Xianyang camp where palace withdrawal, Yuefa Sanzhang, and refusal of local gifts become occupation pacification.
 - [新安坑降 / Xinan Massacre](entities/XinanMassacre.md) — Xiang Yu's killing of surrendered Qin troops near Xinan, framed as an immediate security decision that destroys Qin-population support.
@@ -4681,7 +4684,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
-- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Hanzhong retreat, Han Xin's appointment, and the Three Qin attack plan.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Han Xin's appointment, commandery absorption, and Chen Ping's outsider supervision role.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
@@ -7858,8 +7861,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
+- [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals whose shared merit and ties make ordinary discipline harder.
+- [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors.
 - [Local Social Capital Accumulation / 乡里社会资本积累](concepts/LocalSocialCapitalAccumulation.md) — Chen Ping's early pattern of converting reading, friendships, funeral help, Zhang-family marriage backing, and local trust into political capacity.
-- [Fair Allocation As Political Skill / 公平分配式政治能力](concepts/FairAllocationPoliticalSkill.md) — Chen Ping's社祭分肉 scene as a micro-governance test where fair visible benefit distribution creates public trust.
+- [Fair Allocation As Political Skill / 公平分配式政治能力](concepts/FairAllocationPoliticalSkill.md) — Chen Ping's社祭分肉 scene and later reward-distribution logic as visible benefit allocation that creates public trust and internal cohesion.
 - [YuanDan Festival Layering / 元旦节日层累](concepts/YuanDanFestivalLayering.md) — New Year concept where 元旦 combines mythic origin, calendar standardization, textual memory, food, protective plants, door symbols, poetry, and present-day blessing.
 - [Hanzhong Dui / 汉中对](concepts/HanzhongDui.md) — Han Xin's post-appointment strategy dialogue, now extended from diagnosis into army reform and the Chen Cang campaign against the Three Qin.
 - [Han Inherits Qin System / 汉承秦制](concepts/HanInheritsQinSystem.md) — Source-scoped Hanji 148-1 pattern where Han Xin's "申军法" selectively inherits Qin military discipline and incentive systems for Liu Bang's army.

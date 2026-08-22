@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5077
+wiki_total_pages: 5080
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "CourtFeedbackCollapse"
     title: "Court Feedback Collapse / 君臣反馈失灵"
     url: "/wiki/concepts/courtfeedbackcollapse/"
+  - key: "CovertPoliticalTechnology"
+    title: "Covert Political Technology / 阴谋式政治技术"
+    url: "/wiki/concepts/covertpoliticaltechnology/"
   - key: "CPGDistribution"
     title: "CPG Distribution"
     url: "/wiki/concepts/cpgdistribution/"

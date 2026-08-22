@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5077
+wiki_total_pages: 5080
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "OutrageTriggeredSkepticism"
     title: "Outrage-Triggered Skepticism"
     url: "/wiki/concepts/outragetriggeredskepticism/"
+  - key: "OutsiderTalentSignaling"
+    title: "Outsider Talent Signaling / 厚待外来人才信号"
+    url: "/wiki/concepts/outsidertalentsignaling/"
   - key: "OvarianCancerDiagnostics"
     title: "Ovarian Cancer Diagnostics"
     url: "/wiki/concepts/ovariancancerdiagnostics/"

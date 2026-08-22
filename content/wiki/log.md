@@ -9994,3 +9994,11 @@ Added source page for Hanji 150: Chen Ping early poverty, brotherly protection, 
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）
+
+Added source page for Hanji 150 part 2: Chen Ping's movement from Wei Jiu to Xiang Yu and then Liu Bang, the Sima Ang exposure, Yellow River self-protection scene, Wei Wuzhi's introduction at Xiuwu, and Liu Bang's rapid appointment of Chen Ping despite veteran resistance. Created Wei Wuzhi, Xiuwu, Covert Political Technology, Veteran Merit-Clique Supervision, and Outsider Talent Signaling; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Wei Jiu, Sima Ang, Henei Commandery, Fair Allocation As Political Skill, and the prior Hanji 150 part 1 source. No settled contradiction found; modern intelligence-agency comparisons are recorded as explanatory analogies, not institutional equivalences.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
