@@ -10115,6 +10115,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭
+
+Added source page for Hanji 164-1: Guangwu ravine standoff and Honggou framing, Liu Bang's ten-count legitimacy indictment against Xiang Yu, Xiang Yu's hidden crossbow shot, Liu Bang's toe-wound cover story, Zhang Liang's camp patrol to preserve command continuity, the broader Xingyang/Guangwu balance shift, Qi's retreat from Linzi, and Long Ju's rescue force entering Han Xin's feigned-defeat trap. Created Legitimacy Indictment Warfare and Command Continuity Damage Control; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Zhang Liang, Han Xin, Qi State, Tian Guang (Qi King), Tian Heng, Linzi, Guangwu, Long Ju, Xingyang Standoff, and Battlefield Information Control. No settled contradiction found; the source's "隆居" is normalized to Long Ju / 龙且, and additional Qi retreat names remain source-scoped.
+
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -10209,6 +10213,10 @@ Added source page for Hanji 162-1: Ji Xin's substitutional death at Xingyang, Ch
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,042 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

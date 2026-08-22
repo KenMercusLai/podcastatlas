@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭](sources/zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy.md) — 芮淇讲透资治通鉴 episode on the Guangwu ravine standoff, Liu Bang's legitimacy indictment against Xiang Yu, Xiang Yu's crossbow shot, Liu Bang and Zhang Liang's wound-cover damage control, and Han Xin's Qi-front trap for Long Ju.
 - [《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？](sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7.md) — 芮淇讲透资治通鉴 episode on Li Shiqi's death after Han Xin's Kuai Che-urged Qi attack, Cao Jiu's provoked defeat at Chenggao/Sishui, and Xiang Yu's failed hostage and duel pressure at Guangwu.
 - [《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城](sources/zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx.md) — 芮淇讲透资治通鉴 episode on Li Shiqi's Aocang/Chenggao logistics advice, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that disrupts the diplomatic submission.
 - [《资治通鉴·汉纪》162-2｜刘邦如何收拾位高权重的下属](sources/zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz.md) — 芮淇讲透资治通鉴 episode on Peng Yue's rear pressure, Xiang Yu's exhausting tactical wins, Liu Bang's flight from Chenggao, and his seizure of Han Xin and Zhang Er's command symbols before redirecting Han Xin toward Qi.
@@ -7946,6 +7947,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Command Continuity Damage Control / 统帅连续性危机处置](concepts/CommandContinuityDamageControl.md) — Hanji 164-1 pattern where a wounded commander and trusted proxy preserve army confidence by controlling the visible story of command continuity.
+- [Legitimacy Indictment Warfare / 正当性控诉战](concepts/LegitimacyIndictmentWarfare.md) — Hanji 164-1 pattern where Liu Bang refuses Xiang Yu's duel frame by publicly recasting the opponent as a covenant-breaking illegitimate ruler.
 - [Command Synchronization Failure / 军令同步失灵](concepts/CommandSynchronizationFailure.md) — breakdown where diplomacy and military command keep executing incompatible mandates after conditions change, making Li Shiqi's Qi success fatal.
 - [Substitutional Escape Sacrifice / 代身突围牺牲](concepts/SubstitutionalEscapeSacrifice.md) — Hanji 162-1 pattern where a retainer impersonates the ruler to draw enemy attention, save the leader, and accept lethal consequence.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.

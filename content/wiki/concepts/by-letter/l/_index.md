@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5117
+wiki_total_pages: 5119
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "LegendAsSocialHistory"
     title: "Legend As Social History"
     url: "/wiki/concepts/legendassocialhistory/"
+  - key: "LegitimacyIndictmentWarfare"
+    title: "Legitimacy Indictment Warfare / 正当性控诉战"
+    url: "/wiki/concepts/legitimacyindictmentwarfare/"
   - key: "LeisureSailing"
     title: "Leisure Sailing / 休闲帆船"
     url: "/wiki/concepts/leisuresailing/"

@@ -2,7 +2,7 @@
 title: "Battlefield Information Control / 战场信息控制"
 type: concept
 tags: [military-strategy, deception, command, warring-states]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
+sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
 last_updated: 2026-08-23
 ---
 
@@ -30,6 +30,8 @@ The concept links discipline and deception. In this source, command secrecy is n
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] makes the spy layer central rather than incidental. The episode cites [[SunziBingfa|《孙子兵法》]]'s "用间" logic to argue that Han Xin dares to enter the pass and form with water at his back only after "先知": Chen Yu has rejected Li Zuoche's plan, and Zhao has not prepared a pass ambush. Information control is therefore not only deception shown to the enemy; it is also verified knowledge that lets the commander decide which risks are real.
 
+[[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] adds the opening of Han Xin's Qi-front trap against [[LongJuChuGeneral|龙且]]. After Chu sends Long Ju to rescue [[TianGuangQiKing|田广]], Han Xin crosses to attack and then feigns defeat. The available source cuts off before the full result, but it already shows the information target: Long Ju reads the retreat through contempt for Han Xin and therefore receives the false signal in the way Han Xin needs.
+
 ## Key Claims
 - Information control can include what an enemy spy is permitted to see, not only what one's own soldiers are told.
 - Strict speech discipline can be part of deception, especially before a rapid movement.
@@ -41,8 +43,10 @@ The concept links discipline and deception. In this source, command secrecy is n
 - Hanji 155-2 adds that crossing preparations themselves can be staged as information, turning a river obstacle into a deception channel.
 - Hanji 156 adds that silence, lowered flags, spy confirmation, feigned defeat, and camp flag replacement can be chained inside a chokepoint campaign to make the enemy misread both front and rear.
 - Hanji 157 part 1 clarifies that battlefield information control also includes risk verification before the visible stratagem begins; "death ground" tactics require knowing which enemy options have been removed.
+- Hanji 164-1 adds a source-scoped Qi-front setup: Han Xin's feigned defeat works first on Long Ju's judgment, making contempt part of the information channel.
 
 ## Connections
+- [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[HanXin|韩信]], [[LongJuChuGeneral|龙且]], [[TianGuangQiKing|田广]], and [[QiState|齐国]] - feigned defeat before Chu's rescue force.
 - [[ZhaoShe|赵奢]] - commander whose staged inaction defines the concept.
 - [[EyuBattle|阏与 / 燕宇之战]] - battle where the information-control sequence pays off.
 - [[XuLiWarringStates|许历 / 许立]] - later adviser whose role shows the boundary between secrecy and useful counsel.

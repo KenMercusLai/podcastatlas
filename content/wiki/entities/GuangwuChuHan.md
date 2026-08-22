@@ -2,7 +2,7 @@
 title: "广武 / Guangwu (Chu-Han)"
 type: entity
 tags: [place, chu-han, battlefield, standoff]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7]
+sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7]
 last_updated: 2026-08-23
 ---
 
@@ -12,7 +12,12 @@ Guangwu is the standoff position where [[LiuBang]] and [[XiangYu]] face each oth
 
 At Guangwu, Xiang Yu threatens to cook [[LiuTaigong]], only for Liu Bang to refuse the hostage frame and for [[XiangBo]] to argue that killing the hostage would add harm without solving Chu's problem. Xiang Yu then challenges Liu Bang to a duel; Liu Bang rejects the contest as a matter of strength rather than strategy, while the intimidation of the [[Loufan]] archers shows Xiang Yu's personal force still shapes local battlefield behavior.
 
+[[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] deepens Guangwu from a place of standoff into a place of political theater and command crisis. The episode describes the ravine as the physical "鸿沟" Xiang Yu cannot cross, then shows Liu Bang using the distance to list Xiang Yu's crimes through [[LegitimacyIndictmentWarfare|正当性控诉战]] rather than accepting single combat.
+
+The same source makes Guangwu the scene of [[CommandContinuityDamageControl|统帅连续性危机处置]]. Xiang Yu's hidden crossbow shot hits Liu Bang, but Liu Bang calls it a toe wound and returns to camp while [[ZhangLiang|张良]] patrols to preserve army confidence. Guangwu therefore now links failed hostage pressure, failed duel pressure, legitimacy speech, and wound concealment into one central-front episode.
+
 ## Connections
+- [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[LegitimacyIndictmentWarfare|正当性控诉战]], [[CommandContinuityDamageControl|统帅连续性危机处置]], and [[ZhangLiang|张良]] - accusation speech, crossbow wound, and camp-stabilizing cover story.
 - [[LiuBang]] — holds the Han side of the standoff and refuses Xiang Yu's direct-pressure tactics.
 - [[XiangYu]] — tries hostage leverage, a duel challenge, and personal intimidation from a worsening supply position.
 - [[Chenggao]] — its recapture by Han is the immediate military precondition for Guangwu.

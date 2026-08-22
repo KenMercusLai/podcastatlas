@@ -2,7 +2,7 @@
 title: "田横 / Tian Heng"
 type: entity
 tags: [person, qi, qin, anti-qin, military]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ The page therefore keeps Tian Heng tied to restored Qi's internal consolidation.
 
 In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], Tian Heng appears alongside [[TianGuangQiKing|田广]] when [[HanXin|韩信]] attacks after [[LiShiqi|郦食其]] has persuaded Qi to submit. The episode frames the execution of Li Shiqi as Qi leadership turning a failed synchronization inside Han into personal betrayal by the envoy, linking Tian Heng to the collapse of [[VictoryDeterrenceDiplomacy|胜势威慑外交]] and [[CommandSynchronizationFailure|军令同步失灵]].
 
+[[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] continues Tian Heng's role in the post-Linzi retreat. The episode says the Tian line abandons [[Linzi|临淄]] after the Lixia defeat and disperses to multiple positions while [[TianGuangQiKing|田广]] seeks Chu rescue at Gaomi. Tian Heng therefore remains part of the Qi command group managing collapse after the failed surrender, even though the source keeps some retreat names and offices source-scoped.
+
 ## Connections
+- [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[TianGuangQiKing|田广]], [[Linzi|临淄]], [[QiState|齐国]], and [[LongJuChuGeneral|龙且]] - post-Lixia retreat and Chu rescue setting.
 - [[TianDanQinRebel|田儋]] and [[TianRong|田荣]] - Qi kinship and restored-state line.
 - [[QiState|齐国]] - polity in which he becomes general.
 - [[TianJia|田假]], [[TianJiao|田角]], and [[TianJianQiGeneral|田间]] - rival Qi arrangement displaced by Tian Rong.
