@@ -10181,3 +10181,11 @@ Added source page for Hanji 161 part 3: quantum interference in relationships, r
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）
+
+Added source page for Hanji 161 part 4: the fate-change sequence closes by identifying the earlier story as Yuan Liaofan and 《了凡四训》, linking Yuan's encounter with Yungu Chanshi to intention,修心,积德行善, Zeng Guofan's self-cultivation reception, Inamori Kazuo's management reception, cognition as the root of fortune, and heart-field ethics in human relations. Created Yuan Liaofan, Yungu Chanshi, Liaofan Sixun, Inamori Kazuo, Fate Change Through Virtue Practice, Cognition As Fortune Root, and Heart-Field Ethics; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Ming Zi Wo Li, Zeng Guofan, Zhu Qingshi, Daodejing, Quantum Entanglement Fate Metaphor, Relational Fate Network, Meditative Stability Practice, High-Dimensional Consciousness Entanglement, Consciousness Measurement, Virtue Practice Internalization, Long-Term Achievement Discipline, and Hanji 161 part 1. No settled contradiction found; Hanji 161 part 4 clarifies 《命自我利》 as a source/transcript variant of the Yuan Liaofan / 《了凡四训》 story, while the consciousness-to-fate claims remain source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 13,035 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not set to a provider-qualified model; report returned in-session and `wiki/lint-report.md` was not updated.

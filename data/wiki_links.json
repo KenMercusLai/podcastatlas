@@ -9619,6 +9619,10 @@
     "title": "Cognition",
     "url": "/wiki/entities/cognition/"
   },
+  "CognitionAsFortuneRoot": {
+    "title": "Cognition As Fortune Root / 认知通达决定福禄",
+    "url": "/wiki/concepts/cognitionasfortuneroot/"
+  },
   "CognitiveDebt": {
     "title": "Cognitive Debt / 认知负债",
     "url": "/wiki/concepts/cognitivedebt/"
@@ -14899,6 +14903,10 @@
     "title": "Fatal Deadline Rebellion Trigger / 误期死局式起义触发",
     "url": "/wiki/concepts/fataldeadlinerebelliontrigger/"
   },
+  "FateChangeThroughVirtuePractice": {
+    "title": "Fate Change Through Virtue Practice / 积善修心式改命",
+    "url": "/wiki/concepts/fatechangethroughvirtuepractice/"
+  },
   "FateReadingPoliticalRisk": {
     "title": "命相判断的政治风险 / Fate-Reading Political Risk",
     "url": "/wiki/concepts/fatereadingpoliticalrisk/"
@@ -18963,6 +18971,10 @@
     "title": "Hearsay Brewing and Theater",
     "url": "/wiki/entities/hearsaybrewingandtheater/"
   },
+  "HeartFieldEthics": {
+    "title": "Heart-Field Ethics / 心田处世伦理",
+    "url": "/wiki/concepts/heartfieldethics/"
+  },
   "HeatedRivalry": {
     "title": "Heated Rivalry",
     "url": "/wiki/entities/heatedrivalry/"
@@ -20562,6 +20574,10 @@
   "InVivoMRNACART": {
     "title": "In Vivo mRNA CAR-T",
     "url": "/wiki/concepts/invivomrnacart/"
+  },
+  "InamoriKazuo": {
+    "title": "稻盛和夫 / Inamori Kazuo",
+    "url": "/wiki/entities/inamorikazuo/"
   },
   "InboundTourismBrandDiscovery": {
     "title": "Inbound Tourism Brand Discovery",
@@ -24914,6 +24930,10 @@
   "LiaochengWarringStates": {
     "title": "辽城 / Liao City (Warring States)",
     "url": "/wiki/entities/liaochengwarringstates/"
+  },
+  "LiaofanSixun": {
+    "title": "《了凡四训》 / Liaofan Sixun",
+    "url": "/wiki/entities/liaofansixun/"
   },
   "LiaozhaiZhiyi": {
     "title": "《聊斋志异》",
@@ -46871,6 +46891,10 @@
     "title": "YuanDan Festival Layering / 元旦节日层累",
     "url": "/wiki/concepts/yuandanfestivallayering/"
   },
+  "YuanLiaofan": {
+    "title": "袁了凡 / Yuan Liaofan",
+    "url": "/wiki/entities/yuanliaofan/"
+  },
   "YuanMing": {
     "title": "Yuan Ming / 袁鸣",
     "url": "/wiki/entities/yuanming/"
@@ -46974,6 +46998,10 @@
   "YunLei": {
     "title": "运雷",
     "url": "/wiki/entities/yunlei/"
+  },
+  "YunguChanshi": {
+    "title": "云谷禅师 / Yungu Chanshi",
+    "url": "/wiki/entities/yunguchanshi/"
   },
   "Yunmengze": {
     "title": "Yunmengze / 云梦泽",
@@ -51238,6 +51266,10 @@
   "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd": {
     "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd/"
+  },
+  "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v": {
+    "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

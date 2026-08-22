@@ -2,7 +2,7 @@
 title: "Meditative Stability Practice / 定力修行框架"
 type: concept
 tags: [meditation, self-regulation, buddhism, spirituality, relationships]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd]
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd]
 last_updated: 2026-08-23
 ---
 
@@ -14,12 +14,15 @@ This extends [[ReactionChoiceFrame|反应选择框架]] from part 2. Reaction ch
 
 The wiki keeps the frame source-scoped. Its useful practical claim is that calm observation can reduce impulsive reaction and rumination. Its stronger claims about spiritual energy fields and fate alteration are recorded as the host's worldview, not as medical or scientific proof.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] extends the practice frame by stressing that hearing the Way is insufficient without action. In this installment,修心 becomes [[FateChangeThroughVirtuePractice|积善修心式改命]]: cognition, intention, and virtue have to become conduct before fate-change language has content.
+
 ## Key Claims
 - 定力 is treated as a trained capacity, not a mood.
 - Retreat and practice reduce everyday social and emotional noise so the person can see their own direction more clearly.
 - The host connects practice to "降服其心" and a protective "金刚罩" image.
 - The practice is meant to interrupt resentment, complaint, and repeated relational patterns.
 - This frame makes self-observation a condition for both inner stability and fate-change language.
+- Part 4 adds that practice is the difference between merely hearing a teaching and embodying it.
 
 ## Connections
 - [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] - source episode.
@@ -27,3 +30,4 @@ The wiki keeps the frame source-scoped. Its useful practical claim is that calm 
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] and [[RelationalFateNetwork|关系命运网络]] - worldview in which the practice is said to reduce interference.
 - [[JingangJing|《金刚经》]] and [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]] - Buddhist language that the episode uses to describe mind and appearance.
 - [[SpiritualFreedomUnderConstraint|受限处境中的精神自由]] - adjacent idea of preserving inner freedom under hard conditions.
+- [[FateChangeThroughVirtuePractice|积善修心式改命]], [[CognitionAsFortuneRoot|认知通达决定福禄]], and [[Daodejing|《道德经》]] - part 4 hearing-and-practicing extension.

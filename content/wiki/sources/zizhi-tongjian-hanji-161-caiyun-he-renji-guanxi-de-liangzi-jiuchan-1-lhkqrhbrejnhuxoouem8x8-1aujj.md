@@ -46,4 +46,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode detours fro
 ## Contradictions
 - No settled wiki contradiction is recorded.
 - Source-scope caution: the episode's links from quantum entanglement to consciousness, soul, fate, wealth, and relationships are treated as metaphorical and philosophical claims from the host, not as established physics.
-- Source-scope caution: the source file renders the referenced fate-change book as 《命自我利》. The wiki preserves that wording without identifying it with another text unless a later source makes the identification explicit.
+- Source-scope clarification: the source file renders the referenced fate-change book as [[MingZiWoLi|《命自我利》]]. [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] later identifies the same story as [[YuanLiaofan|袁了凡]] and [[LiaofanSixun|《了凡四训》]], so the wiki now treats 《命自我利》 as a source/transcript title variant rather than a separate established text.

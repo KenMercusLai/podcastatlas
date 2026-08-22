@@ -2,7 +2,7 @@
 title: "朱清时 / Zhu Qingshi"
 type: entity
 tags: [science, physics, consciousness, china]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]
 last_updated: 2026-08-23
 ---
 
@@ -12,8 +12,10 @@ last_updated: 2026-08-23
 
 The wiki records his role source-scopingly. In this ingest, Zhu Qingshi is not used as an independent proof that consciousness, soul, and quantum entanglement explain fate. He functions as the named authority through whom the episode links [[ConsciousnessMeasurement]] to [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]].
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] returns to the same citation while arguing that present consciousness and intention can affect future achievement. The page keeps that repetition inside the same source-scoped branch rather than upgrading it into a settled scientific claim.
+
 ## Connections
-- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161]] - source that cites him.
+- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161 part 1]] and [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|part 4]] - sources that cite him.
 - [[ConsciousnessMeasurement]] - wiki consciousness branch extended by the source.
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] - metaphorical frame the episode builds around the citation.
 - [[AlbertEinstein|Albert Einstein]] - contrasting physics figure in the same source.

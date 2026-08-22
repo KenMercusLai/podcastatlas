@@ -2,8 +2,8 @@
 title: "曾国藩 / Zeng Guofan"
 type: entity
 tags: [qing-history, personnel, leadership, physiognomy, self-cultivation, long-termism]
-sources: [zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7, zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7, zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu]
+last_updated: 2026-08-23
 ---
 
 # 曾国藩 / Zeng Guofan
@@ -18,9 +18,12 @@ This page keeps Zeng's role source-scoped. In this ingest he is not mainly a lat
 
 The source also uses Zeng's language of hatching eggs, building nests, cultivating trees, and flowing springs to define self-discipline. For this wiki, that keeps Zeng's page from becoming a general hero biography; he is a recurring example of method, first for cautious observation and then for durable self-cultivation.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] adds Zeng as a reception case for [[LiaofanSixun|《了凡四训》]]. The episode says he treated the text as a guide for修身, official conduct, and family instruction, extending his wiki role from long-term discipline into [[FateChangeThroughVirtuePractice|积善修心式改命]].
+
 ## Connections
 - [[Bingjian|《冰鉴》]] - attributed text whose authorship the episode treats cautiously.
 - [[ShenGuPhysiognomy|神骨相法]] - method branch tied to his reputation in this source.
 - [[WenWangGuanrenFa|文王官人法]], [[SituationalCharacterTests|五观识人法]], and [[TalentVirtueDistinction|才德之分]] - adjacent personnel-judgment frames.
 - [[PhysiognomyMoralAppearanceFallacy|以貌定德谬误]] and [[ObservationBeforeInference]] - caution against converting appearance-reading anecdotes into proof.
 - [[LongTermAchievementDiscipline|长期成事纪律]], [[LateBloomingTalent|大器晚成式人才显现]], [[VirtuePracticeInternalization|修养内化]], and [[HumanNaturePlasticity|人性可变性]] - Hanji 150 PLUS self-cultivation branch.
+- [[LiaofanSixun|《了凡四训》]], [[YuanLiaofan|袁了凡]], and [[FateChangeThroughVirtuePractice|积善修心式改命]] - Hanji 161 part 4 fate-change reception branch.

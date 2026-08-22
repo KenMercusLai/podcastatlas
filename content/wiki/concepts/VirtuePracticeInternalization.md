@@ -2,8 +2,8 @@
 title: "Virtue Practice Internalization / 修养内化"
 type: concept
 tags: [ethics, moral-cultivation, confucianism, human-nature, warring-states]
-sources: [zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7, zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7, zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]
+last_updated: 2026-08-23
 ---
 
 # Virtue Practice Internalization / 修养内化
@@ -20,6 +20,8 @@ This frame sits between two wiki cautions. It supports [[MoralizedShiIdentity|�
 
 [[zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7|Hanji 150 PLUS]] connects the same formation logic to "成事." The episode's closing claim that one should keep善念、善言、善行 together makes achievement depend on cultivated intention, speech, and conduct rather than only competence or stamina. That makes [[LongTermAchievementDiscipline|长期成事纪律]] a practical extension of moral internalization.
 
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] adds the [[LiaofanSixun|《了凡四训》]] version through [[YuanLiaofan|袁了凡]]. The episode says fate can change when intention becomes accumulated good action, and it extends that logic through [[ZengGuofan|曾国藩]] and [[InamoriKazuo|稻盛和夫]] as readers who turn moral practice into self-cultivation, family teaching, official conduct, or management.
+
 ## Key Claims
 - Self-conscious ethical action is not automatically hypocrisy; it can be early-stage cultivation.
 - Repetition can turn externally maintained conduct into internal disposition.
@@ -28,6 +30,7 @@ This frame sits between two wiki cautions. It supports [[MoralizedShiIdentity|�
 - Qinji 101-2 extends the claim from performed virtue to the harder case of past wrongdoing followed by sustained good action.
 - Qinji 119-2 adds that speech and intention are part of cultivation, not secondary decoration around action.
 - Hanji 150 PLUS adds that durable achievement should be guarded by cultivated speech, intention, and conduct.
+- Hanji 161 part 4 adds that fate-change requires accumulated virtue practice rather than merely hearing or admiring a teaching.
 
 ## Connections
 - [[ZiShun|子顺]], [[WeiAnxiWang|魏安釐王]], and [[LuZhonglian|鲁仲连]] - source scene and evaluated figure.
@@ -36,4 +39,4 @@ This frame sits between two wiki cautions. It supports [[MoralizedShiIdentity|�
 - [[FixedHumanNaturePolitics]], [[ActionDefinesIdentity]], and [[LearningHowToLearn]] - adjacent wiki frames about change through action, practice, and formation.
 - [[HumanNaturePlasticity|人性可变性]], [[XingShanTheory|性善论]], [[XingETheory|性恶论]], and [[DisasterCivilizationRetreat|灾变中的文明退场]] - Qinji 101-2 broader human-nature and crisis context.
 - [[SpeechAsMoralDiagnostic|言语作为德行信号]], [[RenyiGroundedVirtue|仁义为本的信勇]], [[YeGong|叶公]], and [[BaiGongSheng|白公胜]] - Qinji 119-2 body-speech-intention and personnel-judgment extension.
-- [[ZengGuofan|曾国藩]] and [[LongTermAchievementDiscipline|长期成事纪律]] - Hanji 150 PLUS achievement and self-cultivation extension.
+- [[ZengGuofan|曾国藩]], [[LongTermAchievementDiscipline|长期成事纪律]], [[YuanLiaofan|袁了凡]], [[LiaofanSixun|《了凡四训》]], and [[FateChangeThroughVirtuePractice|积善修心式改命]] - Hanji 150 PLUS and Hanji 161 part 4 self-cultivation extensions.

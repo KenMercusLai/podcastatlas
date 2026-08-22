@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5111
+wiki_total_pages: 5114
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "CogitoErgoSum"
     title: "Cogito Ergo Sum / 我思故我在"
     url: "/wiki/concepts/cogitoergosum/"
+  - key: "CognitionAsFortuneRoot"
+    title: "Cognition As Fortune Root / 认知通达决定福禄"
+    url: "/wiki/concepts/cognitionasfortuneroot/"
   - key: "CognitiveDebt"
     title: "Cognitive Debt / 认知负债"
     url: "/wiki/concepts/cognitivedebt/"

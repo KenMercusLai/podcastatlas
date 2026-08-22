@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v.md) — 芮淇讲透资治通鉴 episode closing Hanji 161's quantum-fate detour through Yuan Liaofan, 《了凡四训》, Zeng Guofan, Inamori Kazuo, cognition, heart-field ethics, and virtue practice.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd.md) — 芮淇讲透资治通鉴 episode extending Hanji 161's quantum metaphor into meditation, inner stability, family energy, Buddhist/Daoist classics, Tianren Ganying, high-dimensional consciousness, and Tesla-style frequency language.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv.md) — 芮淇讲透资治通鉴 episode extending Hanji 161's quantum metaphor into gratitude, resentment, speech, anger, betrayal, romance, wealth attraction, and reaction choice.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj.md) — 芮淇讲透资治通鉴 episode using quantum entanglement as a source-scoped metaphor for fate, wealth, consciousness, family blessing, and relationship networks.
@@ -1274,11 +1275,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [稻盛和夫 / Inamori Kazuo](entities/InamoriKazuo.md) — Business-side reception case in Hanji 161 part 4 for applying 《了凡四训》-style self-cultivation to enterprise management.
+- [《了凡四训》 / Liaofan Sixun](entities/LiaofanSixun.md) — Yuan Liaofan fate-change text named by Hanji 161 part 4, clarifying the earlier source-scoped 《命自我利》 title branch.
+- [云谷禅师 / Yungu Chanshi](entities/YunguChanshi.md) — Buddhist teacher in Hanji 161 part 4 who redirects Yuan Liaofan from passive fate acceptance toward intention, virtue, and practice.
+- [袁了凡 / Yuan Liaofan](entities/YuanLiaofan.md) — Figure identified in Hanji 161 part 4 as the earlier fate-change seeker whose story anchors 《了凡四训》.
 - [释迦牟尼佛 / Shakyamuni Buddha](entities/ShakyamuniBuddha.md) — Buddhist figure invoked by Hanji 161 part 3 as the contrast for awakened perception versus ordinary appearance.
-- [《道德经》 / Daodejing](entities/Daodejing.md) — Daoist classic invoked by Hanji 161 part 3 as a source-scoped counterpart to Buddhist mind-language in the episode's high-dimensional consciousness synthesis.
+- [《道德经》 / Daodejing](entities/Daodejing.md) — Daoist classic invoked by Hanji 161 part 3 for high-dimensional consciousness and by part 4 for the 上士/中士/下士 practice hierarchy.
 - [《金刚经》 / Diamond Sutra](entities/JingangJing.md) — Buddhist scripture cited by Hanji 161 part 3 for the appearance-versus-reality branch of the episode's consciousness metaphor.
-- [《命自我利》 / Ming Zi Wo Li](entities/MingZiWoLi.md) — Source-scoped fate-change text title named in Hanji 161 before the episode turns to quantum entanglement and relational fate.
-- [朱清时 / Zhu Qingshi](entities/ZhuQingshi.md) — Scientist cited by Hanji 161 while linking quantum mechanics, consciousness, and the episode's fate metaphor.
+- [《命自我利》 / Ming Zi Wo Li](entities/MingZiWoLi.md) — Source/transcript title variant from Hanji 161 part 1, later clarified by part 4 as the Yuan Liaofan / 《了凡四训》 story.
+- [朱清时 / Zhu Qingshi](entities/ZhuQingshi.md) — Scientist cited by Hanji 161 while linking quantum mechanics, consciousness, intention, and the episode's fate metaphor.
 - [周殷 / Zhou Yin](entities/ZhouYin.md) — Chu-side trusted-core figure named by Chen Ping as one of the reliable people whose ruler-minister trust Han wants to break.
 - [钟离眜 / Zhongli Mo](entities/ZhongliMo.md) — Chu general targeted by Chen Ping's rumor that unrewarded merit could make him join Han and seek kingship.
 - [龙且 / Long Ju](entities/LongJuChuGeneral.md) — Chu general who restores Jiujiang after Ying Bu flees to Liu Bang, then reinforces Xiang Yu's Xingyang pressure and Aocang supply attack.
@@ -1367,7 +1372,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [颍川郡 / Yingchuan Commandery](entities/YingchuanCommandery.md) — Qinji 136 massacre site that complicates Liu Bang's later pacification profile.
 - [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose disciplined armed force becomes Tian Rong's pressure tool against Xiang Yu's settlement.
 - [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose rebuke of Liu Bang's rude reception becomes Chenliu strategy, reward, and ethically compromised retainer service.
-- [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition and Hanji 150 PLUS's long-term self-cultivation discipline.
+- [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, Hanji 150 PLUS's long-term self-cultivation discipline, and Hanji 161 part 4's 《了凡四训》 reception branch.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
 - [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — Western Han marquis and high military-political figure whose imprisonment and self-starvation fulfill Xu Fu's staged prediction.
@@ -7927,6 +7932,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
+- [Cognition As Fortune Root / 认知通达决定福禄](concepts/CognitionAsFortuneRoot.md) — Hanji 161 part 4 claim that clear cognition and changed worldview matter more for fortune than feng shui, astrology, fortune-telling, ornaments, or cosmetic techniques.
+- [Fate Change Through Virtue Practice / 积善修心式改命](concepts/FateChangeThroughVirtuePractice.md) — Hanji 161 part 4 frame where inherited命数 can be altered through intention,修心,发愿, accumulated good deeds, and embodied practice.
 - [High-Dimensional Consciousness Entanglement / 高维意识纠缠](concepts/HighDimensionalConsciousnessEntanglement.md) — Hanji 161 part 3 synthesis where Daoist/Buddhist transcendence, parallel worlds, all-things-have-spirit, and Tesla-style frequency language become the source's strongest quantum-consciousness claim.
 - [Buddhist Consciousness Projection Frame / 佛教心识投射框架](concepts/BuddhistConsciousnessProjectionFrame.md) — Hanji 161 part 3 frame using 《金刚经》, 心, 识, 相, 空, and practice levels to explain appearance as consciousness-shaped rather than final reality.
 - [Tianren Ganying Projection Frame / 天人感应投射框架](concepts/TianrenGanyingProjectionFrame.md) — Hanji 161 part 3 frame where inner state, speech, family love, karma, cognition, and the outside world are treated as mutually responsive.
@@ -7934,8 +7942,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reaction Choice Frame / 反应选择框架](concepts/ReactionChoiceFrame.md) — Hanji 161 part 2 frame for pausing after injury or anger so the chosen response does not compound the original event.
 - [Gratitude Resentment Return Frame / 感恩怨恨回向框架](concepts/GratitudeResentmentReturnFrame.md) — Hanji 161 part 2 frame where gratitude, resentment, kind speech, and harsh speech feed back through relationships.
 - [Family Blessing Outcome Frame / 家人祝福与成事框架](concepts/FamilyBlessingOutcomeFrame.md) — Hanji 161 frame where major actions depend partly on family support, blessing, and practical understanding.
-- [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, anger, and repeated social circles.
-- [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, relationship influence, attraction, and interference rather than a settled physics claim.
+- [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, anger, social circles, and heart-field conduct.
+- [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, relationship influence, attraction, interference, and virtue-practice-based fate change.
 - [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, and actors' real commitments before copying historical precedent.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
@@ -8115,13 +8123,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.
 - [Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续](concepts/SmallStateSurvivalByDistraction.md) — Pattern where a weak state's continued existence depends on larger powers being too busy, weak, distant, or compromised to absorb it.
 - [Late-Blooming Talent / 大器晚成式人才显现](concepts/LateBloomingTalent.md) — Life-course pattern where long-hidden preparation becomes consequential only when timing, recognition, and political stage align.
-- [Long-Term Achievement Discipline / 长期成事纪律](concepts/LongTermAchievementDiscipline.md) — Hanji 150 PLUS method where durable achievement grows from sustained attention, frustration tolerance, patient tending, and moral self-cultivation.
+- [Long-Term Achievement Discipline / 长期成事纪律](concepts/LongTermAchievementDiscipline.md) — Hanji 150 PLUS method where durable achievement grows from sustained attention, frustration tolerance, patient tending, moral self-cultivation, and the later 《了凡四训》 reception branch.
 - [Xingshan Theory / 性善论](concepts/XingShanTheory.md) — Mencian human-nature optimism grounded in moral sprouts and linked to benevolent government, kept inside a broader human-plasticity frame.
 - [Human Nature Plasticity / 人性可变性](concepts/HumanNaturePlasticity.md) — Synthesis of the Mencius-Xunzi contrast that treats conduct as changeable through environment, motive, need, education, law, ritual, and crisis.
 - [Disaster Civilization Retreat / 灾变中的文明退场](concepts/DisasterCivilizationRetreat.md) — Crisis ethics frame where disaster thins civilized restraint and safety design must account for panic, scarcity, and survival impulses.
 - [Qin Xiaowen Wang Death Uncertainty / 秦孝文王三日而亡疑案](concepts/QinXiaowenwangDeathUncertainty.md) — Source-scoped death mystery around Xiaowen Wang's three-day formal reign, balancing Lu Buwei murder suspicion against illness, exhaustion, and court pressure.
 - [Liao City Commander Dilemma / 辽城守将进退困局](concepts/LiaochengCommanderDilemma.md) — Political-military trap where an occupying commander cannot advance, return, or surrender safely after ruler suspicion and enemy siege.
-- [Virtue Practice Internalization / 修养内化](concepts/VirtuePracticeInternalization.md) — Moral-cultivation frame where repeated outward performance can become stable character, tied to Lu Zhonglian and Confucius's "性相近，习相远."
+- [Virtue Practice Internalization / 修养内化](concepts/VirtuePracticeInternalization.md) — Moral-cultivation frame where repeated outward performance can become stable character, now extended through 《了凡四训》 and accumulated virtue practice.
 - [Post-Disaster Predation Misread / 灾后趁虚误判](concepts/PostDisasterPredationMisread.md) — Strategic error where a state treats another state's recent catastrophe as proof it can no longer resist.
 - [Quasi-Royal Qin Hegemony / 准天子式秦霸权](concepts/QuasiRoyalQinHegemony.md) — Late Qin Zhaoxiang-era pattern where Qin's military dominance is visible through attendance, mourning, sacrifice, and punitive protocol enforcement before formal empire.
 - [East-West Emperor Diplomatic Probe / 东西二帝试探](concepts/EastWestEmperorDiplomaticProbe.md) — Qin-Qi status gambit where a paired emperor title is used to test legitimacy, shift reputational risk, and distract from Qi's material Song strategy.
@@ -12386,7 +12394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Population Coding](concepts/PopulationCoding.md) — View that groups of neurons jointly encode perception, location, action, or internal state.
 - [Spatial Navigation Torus](concepts/SpatialNavigationTorus.md) — Torus-shaped population geometry appearing in spatial navigation circuits and trained artificial networks.
 - [Fourier Spatial Encoding](concepts/FourierSpatialEncoding.md) — Fourier-like periodic basis explanation for efficient spatial representation and navigation tori.
-- [Consciousness Measurement](concepts/ConsciousnessMeasurement.md) — Empirical boundary problem of comparing conscious states without reducing consciousness to a simple AI threshold.
+- [Consciousness Measurement](concepts/ConsciousnessMeasurement.md) — Empirical boundary problem of comparing conscious states, with Hanji 161's quantum-consciousness claims kept as source-scoped worldview material.
 - [Human Flourishing Profit](concepts/HumanFlourishingProfit.md) — Eric Ries's standard for judging a company by human flourishing rather than accounting profit alone.
 - [Steward Ownership](concepts/StewardOwnership.md) — Mission-preserving ownership structure with foundation-like control over a for-profit operating business.
 - [Accountability Sinks](concepts/AccountabilitySinks.md) — Systems problem where unwanted outcomes persist while responsibility for fixing them becomes hard to locate.

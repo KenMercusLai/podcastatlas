@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6649
+wiki_total_pages: 6653
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "YuQiRebellion"
     title: "于七之乱 / Yu Qi Rebellion"
     url: "/wiki/entities/yuqirebellion/"
+  - key: "YunguChanshi"
+    title: "云谷禅师 / Yungu Chanshi"
+    url: "/wiki/entities/yunguchanshi/"
   - key: "YiWanFuWengHuiGui"
     title: "亿万富翁回归"
     url: "/wiki/entities/yiwanfuwenghuigui/"
@@ -506,6 +509,9 @@ wiki_pages:
   - key: "YuQing"
     title: "虞卿 / Yu Qing"
     url: "/wiki/entities/yuqing/"
+  - key: "YuanLiaofan"
+    title: "袁了凡 / Yuan Liaofan"
+    url: "/wiki/entities/yuanliaofan/"
   - key: "YuanZhang"
     title: "袁掌 / Yuan Zhang"
     url: "/wiki/entities/yuanzhang/"

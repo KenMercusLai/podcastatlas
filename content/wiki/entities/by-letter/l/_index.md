@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6649
+wiki_total_pages: 6653
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "Lynx"
     title: "Lynx / 猞猁"
     url: "/wiki/entities/lynx/"
+  - key: "LiaofanSixun"
+    title: "《了凡四训》 / Liaofan Sixun"
+    url: "/wiki/entities/liaofansixun/"
   - key: "LegendOfMir"
     title: "《传奇》 / Legend of Mir"
     url: "/wiki/entities/legendofmir/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5111
+wiki_total_pages: 5114
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "FatalDeadlineRebellionTrigger"
     title: "Fatal Deadline Rebellion Trigger / 误期死局式起义触发"
     url: "/wiki/concepts/fataldeadlinerebelliontrigger/"
+  - key: "FateChangeThroughVirtuePractice"
+    title: "Fate Change Through Virtue Practice / 积善修心式改命"
+    url: "/wiki/concepts/fatechangethroughvirtuepractice/"
   - key: "FavoriteDrivenHeirDisplacement"
     title: "Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶"
     url: "/wiki/concepts/favoritedrivenheirdisplacement/"
