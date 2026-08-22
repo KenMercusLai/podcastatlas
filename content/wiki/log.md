@@ -10153,3 +10153,11 @@ Added source page for Hanji 160 part 1: Liu Bang's failed Xingyang peace request
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,008 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not set to a provider-qualified model; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）
+
+Added source page for Hanji 160 part 2: Chen Ping's staged reception of Xiang Yu's envoy, the false Fan Zeng channel signal, Xiang Yu's suspicion after the envoy report, Fan Zeng's retirement request and death before Pengcheng, and the host's structural explanation through Xiang-family versus old-Chu-merit factional conflict. Created Xiang Camp Factional Cleavage; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Zhongli Mo, Long Ju, Zhou Yin, Xiang Zhuang, Xiang Tuo, Xingyang Standoff, Covert Political Technology, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, and Reward Allocation Backlash. No settled contradiction found; the episode's own skepticism about the theatrical envoy-feast story is kept as a source-scoped caution.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

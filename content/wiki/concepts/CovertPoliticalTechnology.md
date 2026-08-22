@@ -2,7 +2,7 @@
 title: "Covert Political Technology / 阴谋式政治技术"
 type: concept
 tags: [strategy, intelligence, statecraft, chu-han, ethics]
-sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 
 [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] gives the concept its central Chu-Han battlefield case. With [[LiuBang|刘邦]] trapped at [[XingyangStandoff|荥阳]], [[ChenPing|陈平]] asks for tens of thousands in gold to send agents into Chu and separate [[XiangYu|项羽]] from [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]]. Liu Bang gives forty thousand gold without auditing the outflow, showing covert political technique as funded, deniable, ruler-sponsored counter-cohesion work.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] adds the execution detail. Chen Ping uses ritual reception, food quality, and a staged correction of status to make Xiang Yu's own envoy transmit the damaging signal. The operation shows covert political technology as social theater backed by intelligence about [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], not only as bribery or anonymous rumor.
+
 ## Key Claims
 - Some political work is effective because it is hidden, deniable, or routed through rumor and inducement.
 - The same skills that protect a ruler or break an enemy can damage a figure's moral reputation.
@@ -29,8 +31,10 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 - The usefulness of covert technique does not remove the need for role limits and political accountability.
 - Covert technique can operate through private status anxiety around a decision-maker when open force is unavailable.
 - In the Xingyang case, covert technique turns reward dissatisfaction and ruler suspicion inside the enemy camp into a substitute for direct battlefield relief.
+- In the Fan Zeng case, covert technique can turn protocol and hospitality into an information weapon, especially when the operator understands the target camp's factional structure.
 
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[XiangBo|项伯]] - staged envoy protocol as faction-aware information weapon.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[CounterintelligenceRumorWedge|反间流言楔入]], [[ZhongliMo|钟离眜]], and [[ZhouYin|周殷]] - funded rumor operation against Xiang Yu's trusted core.
 - [[ChenPing|陈平]] - source case.
 - [[LiuBang|刘邦]] and [[XiangYu|项羽]] - later beneficiary and earlier patron field.

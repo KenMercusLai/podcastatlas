@@ -2,8 +2,8 @@
 title: "项庄 / Xiang Zhuang"
 type: entity
 tags: [person, qin-han, chu-han, hongmen]
-sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy]
+last_updated: 2026-08-23
 ---
 
 # 项庄 / Xiang Zhuang
@@ -12,7 +12,10 @@ last_updated: 2026-08-22
 
 The episode makes Xiang Zhuang less an independent strategist than the instrument of Fan Zeng's improvised escalation. His sword dance becomes the source scene behind "项庄舞剑，意在沛公", but [[XiangBo|项伯]] answers by drawing his own sword and dancing protectively around Liu Bang, preventing Xiang Zhuang from finding an opening.
 
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] reuses Xiang Zhuang as one of the Xiang-family figures inside [[XiangCampFactionalCleavage|项羽阵营派系裂缝]]. The source does not add a new action for him, but it makes the family grouping itself important: Xiang Yu's trust in his kin side helps explain why non-kin advisers such as Fan Zeng can be isolated.
+
 ## Connections
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] and [[XiangCampFactionalCleavage|项羽阵营派系裂缝]] - later source that uses him as a Xiang-family faction marker.
 - [[FanZeng|范增]] - adviser who gives the assassination instruction.
 - [[XiangYu|项羽]] - commander whose unresolved will creates the space for Fan Zeng's workaround.
 - [[LiuBang|刘邦]], [[XiangBo|项伯]], and [[HongmenYan|鸿门宴]] - target, blocker, and scene.

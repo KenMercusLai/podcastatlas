@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo.md) — 芮淇讲透资治通鉴 episode completing Chen Ping's Xingyang counterintelligence: the staged Fan Zeng envoy reception turns Xiang Yu against Fan Zeng and explains the failure through Xiang-family versus Chu-merit factional cleavage.
 - [《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（1）](sources/zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q.md) — 芮淇讲透资治通鉴 episode on Chen Ping's Xingyang counterintelligence plan: Liu Bang funds forty thousand gold, Chen Ping exploits Xiang Yu's suspicion and reward weakness, and Chu's trusted core begins to fracture.
 - [《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？](sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb.md) — 芮淇讲透资治通鉴 episode completing Zhang Liang's borrowed-chopsticks refutation of Li Shiqi's six-kingdom restoration plan and generalizing it through Xun Yue's 行、势、情 strategy framework.
 - [《资治通鉴·汉纪》159-1｜刘邦洗脚的驭人之术](sources/zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3.md) — 芮淇讲透资治通鉴 episode on Liu Bang's foot-washing reception of Ying Bu, Ying Bu's equal-grade lodging, Long Ju's Jiujiang/Aocang counterpressure, and Zhang Liang blocking Li Shiqi's six-kingdom restoration plan.
@@ -7918,6 +7919,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, and actors' real commitments before copying historical precedent.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
