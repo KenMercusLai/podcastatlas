@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5131
+wiki_total_pages: 5132
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "TranscendenceAgainstHumanFeeling"
     title: "Transcendence Against Human Feeling"
     url: "/wiki/concepts/transcendenceagainsthumanfeeling/"
+  - key: "TranscendentExitPoliticalCamouflage"
+    title: "Transcendent Exit Political Camouflage / 假托神仙式权力退场"
+    url: "/wiki/concepts/transcendentexitpoliticalcamouflage/"
   - key: "TransformationAsExit"
     title: "Transformation As Exit"
     url: "/wiki/concepts/transformationasexit/"

@@ -10325,3 +10325,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》171｜张良教你如何名利双收？（1）
+
+Added source page for Hanji 171 part 1: Zhang Liang's post-founding seclusion after the Chang'an move, his claim that revenge, strategist service, and marquisate have already satisfied worldly achievement, the Chisongzi/immortal vocabulary around withdrawal, Sima Guang's praise of knowing when to stop, and the host's critique that Han Xin and Xiao He should not be blamed for danger created by Liu Bang's suspicion of powerful founding ministers. Created Chisongzi and Transcendent Exit Political Camouflage; updated overview, index, Zhang Liang, Liu Bang, Han Xin, Xiao He, Sima Guang, Ruiqi Jiangtou Zizhi Tongjian, Power Exit Trap, Daoist Nourishing-Life Techniques, Victim Blaming As Institutional Defense, and Sou Shen Ji. No settled contradiction found; the Sima Guang/host difference is recorded as an interpretive tension.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
