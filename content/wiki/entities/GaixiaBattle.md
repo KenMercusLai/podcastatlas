@@ -2,7 +2,7 @@
 title: "垓下之战 / Battle of Gaixia"
 type: entity
 tags: [battle, chu-han, war, liu-bang, xiang-yu, han-xin]
-sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv]
+sources: [zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv]
 last_updated: 2026-08-23
 ---
 
@@ -22,13 +22,20 @@ The tactical result is [[LayeredDepthDefense|纵深分层防御]]. Xiang Yu brea
 
 By the time Xiang Yu reaches the third line, the Chu army can no longer reproduce the [[PengchengBattle|Pengcheng]] pattern of shock-driven command collapse. Zhou Bo and Chai Wu's line holds, Han forces close from multiple directions, and Xiang Yu falls back into a starving camp after catastrophic losses. The source therefore turns Gaixia into the battlefield where Han Xin solves the problem Liu Bang failed to solve at Pengcheng: how to make a very large allied force stay coherent under Xiang Yu's direct attack.
 
+[[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]] extends Gaixia from battlefield defeat into the night collapse and final escape. [[FourSidedChuSongs|四面楚歌]] makes Xiang Yu hear the surrounding Han army as if Chu itself has already turned against him; [[GaixiaSong|《垓下歌》]] makes the commander's despair visible; and [[YuJi|虞姬]]'s suicide resolves the personal dilemma that Xiang Yu cannot solve in words.
+
+The same episode then follows Xiang Yu burying Yu Ji, abandoning most of the remaining army, and breaking out with eight hundred men. [[GuanYing|灌婴]] leads five thousand cavalry in pursuit, Xiang Yu is reduced to a little over one hundred men after crossing the Huai River, and a farmer's false directions near Yinling push the story toward the source's final interpretation: Xiang Yu's "Heaven will destroy me" language should be read against the loss of people-support.
+
 ## Connections
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] - source episode completing the battlefield sequence through Han Xin's three-line formation and Xiang Yu's defeat.
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]] - sequel episode carrying Gaixia into four-sided Chu songs, Yu Ji's death, breakout, pursuit, and Xiang Yu's final self-reading.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]] - source episode opening the battle.
 - [[LiuBang|刘邦]] and [[XiangYu|项羽]] - pursuing Han ruler and final Chu commander.
 - [[HanXin|韩信]], [[PengYue|彭越]], and [[ZhangLiang|张良]] - absent allies and strategist whose reward diagnosis makes the final assembly possible.
 - [[KongXi|孔熙]], [[ChenHe|陈贺]], [[ZhouBo|周勃]], and [[ChaiWu|柴武]] - named line and wing commanders in the completed battle account.
 - [[LayeredDepthDefense|纵深分层防御]] - Gaixia-specific tactical pattern created by the three-line array, controlled retreat, and final encirclement.
+- [[FourSidedChuSongs|四面楚歌]], [[GaixiaSong|《垓下歌》]], and [[YuJi|虞姬]] - night morale-collapse and tragic-personal layer after the battlefield defeat.
+- [[GuanYing|灌婴]] - cavalry commander sent to pursue Xiang Yu after the breakout.
 - [[LiuJia|刘贾]], [[ZhouYin|周殷]], and [[YingBu|英布]] - Huainan-side pressure and defection layer.
 - [[TerritorialRewardMobilization|许地会师式动员]] and [[XiayiPlan|下邑画策]] - incentive mechanism and earlier strategic design behind the final coalition.
 - [[HonggouSettlement|鸿沟议和]] and [[InstrumentalTruceBreach|工具化议和毁约]] - preceding truce and pursuit sequence.

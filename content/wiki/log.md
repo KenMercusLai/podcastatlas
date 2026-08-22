@@ -10277,3 +10277,11 @@ Added source page for Hanji 167 part 2: Liu Bang yielding command at Gaixia, Han
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）
+
+Added source page for Hanji 168 part 1: Li Qingzhao's later Xiang Yu memory, the four-sided Chu songs at Gaixia, the host's Shiji supplement of Gaixia Song after Zizhi Tongjian's omission, Yu Ji's suicide, Xiang Yu's eight-hundred-man breakout, Guan Ying's cavalry pursuit, the Yinling farmer's false direction, and the "Heaven's will as people's will" reading of Xiang Yu's end. Created Yu Ji, Gaixia Song, and Four-Sided Chu Songs; updated overview, index, Gaixia Battle, Xiang Yu, Guan Ying, Li Qingzhao, Shiji, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, People-Based Political Security, and Textual Variant Political Stakes. No settled contradiction found; Yu Ji's attributed response song is kept source-scoped because the episode notes authenticity doubts.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

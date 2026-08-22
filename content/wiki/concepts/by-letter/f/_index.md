@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5124
+wiki_total_pages: 5125
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "FourExchangeHongKongMarketFragmentation"
     title: "Four-Exchange Hong Kong Market Fragmentation / 香港四会并列市场碎片化"
     url: "/wiki/concepts/fourexchangehongkongmarketfragmentation/"
+  - key: "FourSidedChuSongs"
+    title: "Four-Sided Chu Songs / 四面楚歌"
+    url: "/wiki/concepts/foursidedchusongs/"
   - key: "FourierSpatialEncoding"
     title: "Fourier Spatial Encoding"
     url: "/wiki/concepts/fourierspatialencoding/"

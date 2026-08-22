@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）](sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3.md) — 芮淇讲透资治通鉴 episode carrying Gaixia after the battlefield defeat into four-sided Chu songs, Gaixia Song, Yu Ji's suicide, Xiang Yu's breakout, Guan Ying's pursuit, and the "Heaven's will as people's will" reading.
 - [《资治通鉴·汉纪》167｜见证项羽最终之战（2）](sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p.md) — 芮淇讲透资治通鉴 episode completing Gaixia through Liu Bang yielding command, Han Xin's three-line layered defense, Xiang Yu's failed shock breakthrough, and the encirclement of the exhausted Chu army.
 - [《资治通鉴·汉纪》167｜见证项羽最终之战（1）](sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv.md) — 芮淇讲透资治通鉴 episode opening Gaixia through Liu Bang's post-Honggou pursuit, Han Xin and Peng Yue's land-for-mobilization bargain, Zhou Yin's Huainan surrender, Ying Bu's northward participation, and Xiang Yu's initial charge.
 - [《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？](sources/zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1.md) — 芮淇讲透资治通鉴 episode on Han Xin's final refusal of Kuai Che, Lu Jia and Hou Gong's Honggou negotiation, the return of Liu Taigong and Lu Zhi, and Liu Bang's post-truce pursuit of Xiang Yu.
@@ -1286,10 +1287,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [虞姬 / Yu Ji](entities/YuJi.md) — Xiang Yu's favored companion at Gaixia, whose suicide in Hanji 168 resolves his private dilemma and anchors the "霸王别姬" tragic scene.
+- [《垓下歌》 / Gaixia Song](entities/GaixiaSong.md) — Poem restored from Shiji in Hanji 168 to show Xiang Yu's tragic self-revelation and the morale cost of a commander's despair.
 - [孔熙 / Kong Xi](entities/KongXi.md) — Han Xin-side left-wing commander in the Gaixia first line, used by Hanji 167 part 2 to show flank pressure during the controlled retreat.
 - [陈贺 / Chen He](entities/ChenHe.md) — Han Xin-side right-wing commander in the Gaixia first line, paired with Kong Xi in the layered-depth formation.
 - [柴武 / Chai Wu](entities/ChaiWu.md) — Han-side commander paired with Zhou Bo on the third Gaixia line that stops Xiang Yu's exhausted attack.
-- [垓下之战 / Battle of Gaixia](entities/GaixiaBattle.md) — Xiang Yu's final-battle setting opened by Hanji 167, where Liu Bang's coalition needs land-promise assembly and Huainan-side pressure before battlefield climax.
+- [垓下之战 / Battle of Gaixia](entities/GaixiaBattle.md) — Xiang Yu's final-battle setting now running from land-promise coalition assembly and Han Xin's depth defense into four-sided Chu songs, Yu Ji's death, breakout, and pursuit.
 - [侯公 / Hou Gong (Chu-Han)](entities/HouGongChuHan.md) — Liu Bang-side envoy who succeeds after Lu Jia and helps secure the Honggou settlement.
 - [鸿沟议和 / Honggou Settlement](entities/HonggouSettlement.md) — Chu-Han boundary-and-hostage agreement that returns Liu Taigong and Lu Zhi before Liu Bang resumes pursuit.
 - [武涉 / Wu She](entities/WuShe.md) — Xiang Yu-side persuader who tries to turn Han Xin's Qi power into neutrality or a Chu-Han-Qi tripartite balance after Long Ju's death.
@@ -7961,6 +7964,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Four-Sided Chu Songs / 四面楚歌](concepts/FourSidedChuSongs.md) — Hanji 168 morale-collapse mechanism where surrounding Chu songs make Xiang Yu experience battlefield encirclement as homeland and people-support collapse.
 - [Layered Depth Defense / 纵深分层防御](concepts/LayeredDepthDefense.md) — Gaixia tactical pattern where Han Xin uses three lines, controlled retreat, wing pressure, and final convergence to exhaust Xiang Yu's shock attack.
 - [Territorial Reward Mobilization / 许地会师式动员](concepts/TerritorialRewardMobilization.md) — Hanji 167 pattern where concrete promised territory turns autonomous allies from non-arrival into decisive battle participants.
 - [Instrumental Truce Breach / 工具化议和毁约](concepts/InstrumentalTruceBreach.md) — source-scoped pattern where a truce is used to recover hostages and sequence advantage before renewed pursuit.

@@ -16223,6 +16223,10 @@
     "title": "Four Seasons Hotels and Resorts",
     "url": "/wiki/entities/fourseasonshotels/"
   },
+  "FourSidedChuSongs": {
+    "title": "Four-Sided Chu Songs / 四面楚歌",
+    "url": "/wiki/concepts/foursidedchusongs/"
+  },
   "FourierSpatialEncoding": {
     "title": "Fourier Spatial Encoding",
     "url": "/wiki/concepts/fourierspatialencoding/"
@@ -16806,6 +16810,10 @@
   "GaixiaBattle": {
     "title": "垓下之战 / Battle of Gaixia",
     "url": "/wiki/entities/gaixiabattle/"
+  },
+  "GaixiaSong": {
+    "title": "《垓下歌》 / Gaixia Song",
+    "url": "/wiki/entities/gaixiasong/"
   },
   "GalacticEmpire": {
     "title": "Galactic Empire",
@@ -46943,6 +46951,10 @@
     "title": "余樊君 / Yu Fanjun",
     "url": "/wiki/entities/yufanjun/"
   },
+  "YuJi": {
+    "title": "虞姬 / Yu Ji",
+    "url": "/wiki/entities/yuji/"
+  },
   "YuKaichao": {
     "title": "游凯超 / Kaichao Yu",
     "url": "/wiki/entities/yukaichao/"
@@ -51426,6 +51438,10 @@
   "zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p": {
     "title": "《资治通鉴·汉纪》167｜见证项羽最终之战（2）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p/"
+  },
+  "zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3": {
+    "title": "《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

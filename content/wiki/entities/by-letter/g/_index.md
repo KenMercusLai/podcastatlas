@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6671
+wiki_total_pages: 6673
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "GuwenDeLiliang"
     title: "《古文的力量》"
     url: "/wiki/entities/guwendeliliang/"
+  - key: "GaixiaSong"
+    title: "《垓下歌》 / Gaixia Song"
+    url: "/wiki/entities/gaixiasong/"
   - key: "GoodLuckBook"
     title: "《好运》"
     url: "/wiki/entities/goodluckbook/"
