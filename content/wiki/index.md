@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》165-2｜韩信为何至死也不背叛刘邦](sources/zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb.md) — 芮淇讲透资治通鉴 episode completing Kuai Che's warning to Han Xin through third-pole strategy, gratitude-based loyalty, Zhang Er/Chen Yu and Wen Zhong precedents, and the post-victory power-exit trap.
 - [《资治通鉴·汉纪》165-1｜刘邦这句话，差点弄丢大汉江山](sources/zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq.md) — 芮淇讲透资治通鉴 episode on Han Xin's Qi kingship request, Liu Bang's forced pivot from anger to real title, Wu She's三分天下 pitch, and Kuai Che's next warning.
 - [《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的](sources/zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Qi-front trap through the Battle of Weishui, Long Ju's contempt-driven pursuit, the dam-and-flood split of the Chu army, and Qi's collapse.
 - [《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭](sources/zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy.md) — 芮淇讲透资治通鉴 episode on the Guangwu ravine standoff, Liu Bang's legitimacy indictment against Xiang Yu, Xiang Yu's crossbow shot, Liu Bang and Zhang Liang's wound-cover damage control, and Han Xin's Qi-front trap for Long Ju.
@@ -1359,7 +1360,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏说 / Xia Shuo](entities/XiaShuo.md) — Chen Yu delegate appointed to manage Dai while Chen Yu stays in Zhao after restoring Zhao Xie.
 - [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him toward Liu Bang and whose Lu-regency opposition contrasts with Chen Ping.
 - [王陵母亲 / Mother of Wang Ling](entities/WangLingMother.md) — Unnamed hostage whose suicide blocks Xiang Yu's coercion and turns corpse desecration into political backfire.
-- [韩信 / Han Xin](entities/HanXin.md) — Han general whose arc now runs from Huaiyin restraint and Hanzhong appointment through Jingxing victory, Zhao consolidation, Yan/Qi deterrence diplomacy, and the Kuai Che-urged attack that disrupts Li Shiqi's Qi submission.
+- [韩信 / Han Xin](entities/HanXin.md) — Han general whose arc now runs from Huaiyin restraint and Hanzhong appointment through Qi kingship, Kuai Che's tripartite warning, and the clash between gratitude and post-victory danger.
 - [陈仓 / Chen Cang](entities/ChenCang.md) — Hanji 148-1 route and battle point where Han Xin's layered feints become the central breakthrough against Zhang Han.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
 - [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer who both joins the old-general accusation against Chen Ping and later pairs with him in Lu Zhi-era survival and post-Lu restoration.
@@ -1479,7 +1480,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [章邯 / Zhang Han (Qin)](entities/ZhangHanQin.md) — Qin official and later Yong king whose military record, surrender, and Xinan survival become a liability in Han Xin's Three Qin plan.
 - [武臣 / Wu Chen](entities/WuChen.md) — Anti-Qin commander who becomes Zhao king after surrender-driven expansion and then prioritizes Zhao self-strengthening over a westward attack on Qin.
 - [周文 / Zhou Wen (Rebel)](entities/ZhouWenRebel.md) — Zhang Chu commander whose large but weakly trained army reaches near Xianyang before Zhang Han defeats it.
-- [蒯彻 / Kuai Che](entities/KuaiChe.md) — Adviser who first tells Wu Chen to use rewarded surrender as a model, later appearing as 蒯通 to push Han Xin to continue attacking Qi despite Li Shiqi's diplomacy.
+- [蒯彻 / Kuai Che](entities/KuaiChe.md) — Adviser who first models rewarded surrender, later pushes Han Xin to attack Qi, and then warns him through tripartite strategy, broken-friendship precedent, and功高震主 danger.
 - [蔡赐 / Cai Ci](entities/CaiCi.md) — Chen Sheng adviser who prevents immediate retaliation against Wu Chen's family while Qin remains undefeated.
 - [大泽乡起义 / Dazexiang Uprising](entities/DazexiangUprising.md) — 209 BCE anti-Qin uprising where Chen Sheng and Wu Guang turn a rain-caused deadline death trap into organized revolt, expand to Chen County, and open the Zhang Chu choice.
 - [张楚政权 / Zhang Chu Regime](entities/ZhangChuRegime.md) — Rebel regime Chen Sheng declares after rejecting Zhang Er and Chen Yu's advice to restore six-state royal descendants first.
@@ -1503,7 +1504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [秦直道 / Qin Straight Road](entities/QinZhidao.md) — Meng Tian-led road project from Yunyang to Jiuyuan, treated as part of late Qin construction overload.
 - [淳于越 / Chunyu Yue](entities/ChunyuYue.md) — Qi-born Qin court scholar whose revived enfeoffment argument triggers Li Si's book-burning proposal.
 - [孔鲋 / Kong Fu](entities/KongFu.md) — Confucius descendant who hides books after Qin's book-burning order and later serves Chen Sheng's rebel regime as博士.
-- [陈馀 / Chen Yu](entities/ChenYu.md) — Zhao restoration actor whose Zhang Er rupture now culminates in rejecting Li Zuoche's Jingxing supply-cut plan under a righteous-army claim.
+- [陈馀 / Chen Yu](entities/ChenYu.md) — Zhao restoration actor whose Zhang Er rupture culminates in Jingxing defeat and later serves as Kuai Che's warning that intimate alliance can become lethal hostility.
 - [陈胜 / Chen Sheng](entities/ChenSheng.md) — Dazexiang uprising co-leader who expands to Chen County, rejects six-state restoration counsel, and declares Zhang Chu.
 - [吴广 / Wu Guang](entities/WuGuang.md) — Dazexiang uprising co-leader later appointed acting Zhang Chu king to supervise the westward attack on Yingyang.
 - [《尚书》 / Shangshu](entities/Shangshu.md) — Classic named with Shijing as a private-text target under Qin's book-burning order.
@@ -1602,7 +1603,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨端和 / Yang Duanhe](entities/YangDuanhe.md) — Qin commander who continues the Wei campaign line and helps push Qin's boundary to Qi in Qinji 108-1.
 - [昌平君 / Changping Jun](entities/ChangpingJun.md) — Qin- and Chu-linked figure whose sparse chronicle appearances now include Lao Ai suppression, death in the Chu endgame, and Li Kaiyuan's Xiong Qi reconstruction.
 - [雍城 / Yongcheng (Qin)](entities/YongchengQin.md) — Qin ancestral and palace setting for Ying Zheng's crown ceremony, Lao Ai's rebellion, and Zhao Ji's confinement.
-- [朱英 / Zhu Ying (Warring States)](entities/ZhuYingWarringStates.md) — Chu adviser who turns Qin's post-hezong pressure and Wei's weakening into the argument for moving the Chu capital to Shouchun.
+- [朱英 / Zhu Ying (Warring States)](entities/ZhuYingWarringStates.md) — Chu adviser whose route-security and Li Yuan warnings later become the analogy for Kuai Che's danger-reading counsel to Han Xin.
 - [寿春 / Shouchun (Warring States)](entities/ShouchunWarringStates.md) — Chu capital destination after the failed final hezong campaign, framed as a defensive relocation away from Qin pressure.
 - [卫君角 / Wey Jun Jiao](entities/WeyJunJiao.md) — Remnant Wey ruler figure in the source-scoped Wei/Wey ambiguity around Chaoge, Puyang, Yewang, and Dong Commandery.
 - [Charles Koch](entities/CharlesKoch.md) — Koch Industries leader whose All-In account links capability-bounded growth, values-first hiring, operating principles, private ownership, and barrier-removal social change.
@@ -1636,7 +1637,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
 - [郭开 / Guo Kai](entities/GuoKai.md) — Zhao court enemy of Lian Po who bribes the recall envoy and blocks Lian Po's return.
 - [乐乘 / Le Cheng](entities/LeCheng.md) — Former Yan general in Zhao service whose appointment to replace Lian Po triggers Lian Po's break with Zhao.
-- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer and Liu-side survivor whose Zhao roots make him Han Xin's assistant, Liu-backed Zhao king, and later target of Liu Bang's command recapture.
+- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer and Liu-side Zhao king whose rupture with Chen Yu becomes Kuai Che's cautionary precedent about friendship under power pressure.
 - [苏高 / Su Gao](entities/SuGao.md) — Anling subordinate whose refusal to attack Guancheng, defended by his son, creates the episode's father-son and ruler-subject duty conflict.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
@@ -1838,7 +1839,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴王夫差 / King Fuchai of Wu](entities/Fuchai.md) — Wu ruler who defeats Qi, overreaches toward Jin, and is later destroyed by Goujian's Yue.
 - [越王勾践 / King Goujian of Yue](entities/Goujian.md) — Yue ruler who feigns submission to Wu, waits for Wu's exhaustion, destroys Wu, and then endangers victorious ministers.
 - [范蠡 / Fan Li](entities/FanLi.md) — Yue minister who leaves after Goujian's victory and warns Wen Zhong about post-victory minister danger.
-- [文种 / Wen Zhong of Yue](entities/WenZhongYue.md) — Yue minister who ignores Fan Li's warning and later dies after Goujian gives him a sword.
+- [文种 / Wen Zhong of Yue](entities/WenZhongYue.md) — Yue minister who ignores Fan Li's warning and later becomes Kuai Che's Chu-Han precedent for "鸟尽弓藏，兔死狗烹."
 - [曾参 / Zeng Shen](entities/ZengShen.md) — Confucian figure in Gan Mao's parable showing repeated rumor can overcome even intimate trust.
 - [吴娃 / Wu Wa](entities/WuWa.md) — Favored wife of Zhao Wuling Wang and mother of Zhao He, whose branch foreshadows a succession fault line.
 - [赵何 / Zhao He](entities/ZhaoHe.md) — Son of Zhao Wuling Wang and Wu Wa whose favored branch collides with Zhao Zhang's elder legitimate claim.
@@ -1887,7 +1888,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
 - [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao aristocrat and Four Lords figure whose household becomes a repeated crisis channel, from Shangdang and Mao Sui to Li Tan's Handan burden-sharing rebuke.
 - [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei Warring States Four Lords figure whose patronage network enables 窃符救赵, relieving Handan while leaving Jin Bi's death as moral cost.
-- [春申君 / 黄歇 / Lord Chunshen](entities/Chunshenjun.md) — Chu diplomat and Warring States Four Lords member whose Zhouji 84 letter persuades Qin to halt Bai Qi by reframing Chu survival as Qin's interest.
+- [春申君 / 黄歇 / Lord Chunshen](entities/Chunshenjun.md) — Chu diplomat and Warring States Four Lords member whose late refusal of Zhu Ying's warning becomes a later analogy for missed protective timing.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
 - [孟尝君 / Tian Wen](entities/Mengchangjun.md) — Qi aristocrat and retainer patron whose arc now includes Qin chancellorship, imprisonment, Wang Anshi's critique, later Xue independence, and lineage destruction.
@@ -3682,7 +3683,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩琦 / Han Qi](entities/HanQi.md) — Northern Song official addressed by Su Zhe and associated with the exam opportunity that makes Su Zhe's youthful force visible.
 - [宋仁宗 / Song Renzong](entities/SongRenzong.md) — Emperor used in episode 164 as a political truth-telling case around invited criticism and tolerance.
 - [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
-- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose charisma, violence, pride, reward hesitation, settlement failures, inability to use Han Xin, and repeated need to answer Peng Yue's rear pressure become the negative case in Hanzhong Dui and later Qi persuasion.
+- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose force-centered rule now culminates in relying on Han Xin neutrality and becoming the unsafe-return option in Kuai Che's tripartite warning.
 - [项伯 / Xiang Bo](entities/XiangBo.md) — Xiang Yu's trusted uncle and Xiang-family elder whose night warning, Zhang Liang tie, and 存刘 argument turn the pre-Hongmen attack order into a meeting.
 - [项庄 / Xiang Zhuang](entities/XiangZhuang.md) — Xiang-camp figure sent by Fan Zeng to use a sword dance as a covert attempt to kill Liu Bang at Hongmen.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
@@ -4774,7 +4775,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
-- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Han Xin's appointment, commandery absorption, Chen Ping's use, command recapture, and the unsynchronized Qi military/diplomatic lines.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now includes both recognition that binds Han Xin and the post-victory ruler-fear risk Kuai Che warns Han Xin about.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
@@ -7952,7 +7953,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Conceded Kingship Stabilization / 让封真王式稳局](concepts/ConcededKingshipStabilization.md) — Liu Bang's forced title concession to Han Xin, granting real Qi kingship to preserve alignment when denial would expose weakness.
-- [Tripartite Balance Strategy / 三分天下式制衡](concepts/TripartiteBalanceStrategy.md) — Wu She's Hanji 165-1 proposal that Han Xin preserve Qi as a third pole between Liu Bang and Xiang Yu for self-protection.
+- [Tripartite Balance Strategy / 三分天下式制衡](concepts/TripartiteBalanceStrategy.md) — Wu She and Kuai Che's Hanji 165 proposal that Han Xin preserve Qi, Zhao, and Yan as a third pole between Liu Bang and Xiang Yu for self-protection.
 - [Command Continuity Damage Control / 统帅连续性危机处置](concepts/CommandContinuityDamageControl.md) — Hanji 164-1 pattern where a wounded commander and trusted proxy preserve army confidence by controlling the visible story of command continuity.
 - [Legitimacy Indictment Warfare / 正当性控诉战](concepts/LegitimacyIndictmentWarfare.md) — Hanji 164-1 pattern where Liu Bang refuses Xiang Yu's duel frame by publicly recasting the opponent as a covenant-breaking illegitimate ruler.
 - [Command Synchronization Failure / 军令同步失灵](concepts/CommandSynchronizationFailure.md) — breakdown where diplomacy and military command keep executing incompatible mandates after conditions change, making Li Shiqi's Qi success fatal.
@@ -8313,7 +8314,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Birth Taboo Succession Exclusion / 出生日禁忌与继承排斥](concepts/BirthTabooSuccessionExclusion.md) — Tian Wen's May-fifth birth and low-status maternal line as filters that almost remove him from Tian Ying's household before rhetorical recognition becomes possible.
 - [High-Status Law-Enforcement Signal / 高位执法信号](concepts/HighStatusLawEnforcementSignal.md) — Shang Yang reform pattern where punishment near the prince makes the new law visibly credible among high-status insiders.
 - [Tall Poppy Governance / 高大罂粟花式震慑](concepts/TallPoppyGovernance.md) — Comparative statecraft analogy where striking prominent figures disciplines the wider political community by example.
-- [恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure](concepts/GraceDebtLoyaltyPressure.md) — Reward-without-achievement mechanism that binds a subordinate through shame, obligation, and repayment pressure.
+- [恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure](concepts/GraceDebtLoyaltyPressure.md) — Favor, recognition, and remembered material benefit binding a subordinate through shame, obligation, repayment pressure, or shared troubles.
 - [因事立道式政治转身 / Situational Political Pivot](concepts/SituationalPoliticalPivot.md) — Strategy of repurposing a hostile situation into a different court, audience, or goal.
 - [Qin Diplomatic Exclusion / 秦国外交排斥](concepts/QinDiplomaticExclusion.md) — Qin Xiao Gong accession frame where Qin's pre-reform pressure is military, cultural, and diplomatic because eastern states treat Qin as an excluded peripheral power.
 - [阴谋阳谋转换 / Yinmou-Yangmou Conversion](concepts/YinmouYangmouConversion.md) — Zhang Yi's tactic of revealing a hidden plan so the disclosure itself changes Qi's incentives.
@@ -8346,7 +8347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
 - [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
 - [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Zhao Liang's warning that popular regard and elite acceptance can become practical safety infrastructure for powerful ministers.
-- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, or exposed ruler humiliations make staying, leaving, or appearing fully capable dangerous; Ye Gong adds a clean-exit contrast.
+- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, exposed humiliations, or decisive military merit make staying, leaving, or appearing fully capable dangerous.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
@@ -8395,7 +8396,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Succession-Crisis Intervention / 继承危机外部干预](concepts/SuccessionCrisisIntervention.md) — Pattern where unresolved succession invites outside powers to back claimants, seize leverage, or redesign a target state.
 - [Coalition Settlement Failure / 联军战后安排失败](concepts/CoalitionSettlementFailure.md) — Pattern where battlefield victory fails to become durable political order because the postwar settlement creates incompatible claims, coercive repairs, and new strategic openings.
 - [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Personnel-judgment frame now spanning Sima Guang's severe rule, motive and level tests, and Hanji 154's wartime talent defense.
-- [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Yu Rang honor logic where exceptional patron recognition creates exceptional repayment obligation.
+- [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Honor logic where exceptional patron recognition creates repayment obligation, now including Han Xin's refusal to abandon Liu Bang for self-preservation.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
 - [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.

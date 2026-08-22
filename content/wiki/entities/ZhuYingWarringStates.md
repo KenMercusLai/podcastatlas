@@ -2,8 +2,8 @@
 title: "朱英 / Zhu Ying (Warring States)"
 type: entity
 tags: [person, adviser, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
+last_updated: 2026-08-23
 ---
 
 # 朱英 / Zhu Ying (Warring States)
@@ -18,7 +18,10 @@ The episode says Chunshenjun accepts the reasoning and moves Chu's capital to [[
 
 [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] gives the full warning. Zhu Ying distinguishes the "unexpected blessing" of assisting a young ruler from the "unexpected disaster" that [[LiYuanWarringStates|李源 / 李元]] will enter the palace first and kill Chunshenjun. He also volunteers to become the "unexpected person": if Chunshenjun makes him a palace guard, Zhu Ying says he can kill Li Yuan at the decisive moment. Chunshenjun refuses, and Zhu Ying flees because he expects both that his advice will be ignored and that Li Yuan may punish him for knowing the danger.
 
+[[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]] uses Zhu Ying as an analogy for [[KuaiChe|蒯彻 / 蒯通]]. Both advisers see a narrow window before danger becomes irreversible; both present a protective move to a powerful listener; and the host uses Chunshenjun's failure to act as a warning frame for [[HanXin|韩信]]'s hesitation.
+
 ## Connections
+- [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]], [[KuaiChe|蒯彻 / 蒯通]], and [[HanXin|韩信]] - analogy for ignored or delayed danger-reading counsel.
 - [[Chunshenjun|黄歇 / 春申君]] - political listener who acts on the warning.
 - [[ChuState|楚国]], [[MiWan|楚考烈王]], and [[ShouchunWarringStates|寿春]] - state, ruler frame, and relocation result.
 - [[QinState|秦国]], [[WeiState|魏国]], and [[QinEastwardPressure|秦国东进压力]] - threat geography behind the advice.

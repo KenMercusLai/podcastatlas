@@ -2,7 +2,7 @@
 title: "Retainer Reciprocity Ethic / 士为知己者死"
 type: concept
 tags: [ethics, honor, pre-qin-history, political-violence]
-sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
+sources: [zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
 last_updated: 2026-08-23
 ---
 
@@ -32,6 +32,8 @@ This extension also shows the tension between reciprocity and office duty. [[LiB
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] adds a Chu-Han command version through [[JiXin|纪信]]. Ji Xin's death is not revenge for a patron or access to an assassination target; it is [[SubstitutionalEscapeSacrifice|substitutional escape sacrifice]], accepting the ruler's visible identity long enough to save [[LiuBang|刘邦]]. The host uses the scene to argue that Liu Bang's followers' willingness to die for him cannot be explained by reward alone.
 
+[[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]] adds a non-suicidal but politically decisive version through [[HanXin|韩信]]. Han Xin refuses [[KuaiChe|蒯彻 / 蒯通]]'s third-pole argument by remembering that [[LiuBang|刘邦]] gave him a chariot, clothes, food, and promotion. The episode therefore shows recognition-based reciprocity blocking a self-preservation strategy: Han Xin treats betrayal for advantage as见利忘义 even while Kuai Che warns that gratitude will not remove ruler fear.
+
 This concept is adjacent to [[AristocraticHonorOverLife]], but its center is patron recognition rather than family reputation. It is also adjacent to [[PoliticalAssassinationEthics]], but the episode does not mainly ask whether Yu Rang's killing attempt is universally justifiable; it asks how a particular retainer code makes self-destruction intelligible.
 
 ## Key Claims
@@ -49,8 +51,10 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - Qinji 114-3 adds a protected-guest variant: recognition and refuge can make self-sacrifice intelligible when the guest's body becomes the only credible route to the target.
 - Qinji 115-2 adds a memory-limit variant: reciprocal death can be preserved as侠义 while the stronger state treats the same world of private armed actors as politically intolerable.
 - Hanji 162-1 adds a command-survival variant: a retainer can repay recognition by temporarily becoming the ruler's public body and accepting certain death to preserve the leader and the cause.
+- Hanji 165-2 adds a loyalty-choice variant: remembered recognition can make an actor reject a strategically plausible betrayal even when that rejection may leave the actor exposed after victory.
 
 ## Connections
+- [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[KuaiChe|蒯彻 / 蒯通]], [[TripartiteBalanceStrategy|三分天下式制衡]], and [[PowerExitTrap|权力退场困境]] - recognition debt used against a self-preservation argument.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[LiuBang|刘邦]], [[SubstitutionalEscapeSacrifice|代身突围牺牲]], and [[Chenghuang|城隍]] - Chu-Han sacrifice and later memory branch.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[ZhaoXiangzi|赵襄子]] - source case.
 - [[Shiji|《史记》]] and [[Zhanguoce|《战国策》]] - textual frames for the famous formulation.

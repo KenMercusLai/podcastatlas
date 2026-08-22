@@ -10245,3 +10245,11 @@ Added source page for Hanji 165-1: Han Xin's request to act as Qi king, Liu Bang
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》165-2｜韩信为何至死也不背叛刘邦
+
+Added source page for Hanji 165-2: Kuai Che's completed warning to Han Xin, the proposal to preserve Qi as a third pole with Zhao and Yan, Han Xin's gratitude-based refusal through Liu Bang's chariot/clothing/food恩遇, Zhang Er/Chen Yu as a broken-friendship precedent, Wen Zhong as the "鸟尽弓藏，兔死狗烹" precedent, and Zhu Ying/Chunshenjun as the host analogy for delayed action after a danger warning. Updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Han Xin, Liu Bang, Xiang Yu, Kuai Che, Zhang Er, Chen Yu, Wen Zhong, Zhu Ying, Chunshenjun, Tripartite Balance Strategy, Power Exit Trap, Retainer Reciprocity Ethic, and Grace-Debt Loyalty Pressure. No settled contradiction found; Kuai Che's physiognomy and three-way-order counterfactual remain source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
