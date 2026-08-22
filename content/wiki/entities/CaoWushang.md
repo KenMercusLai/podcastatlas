@@ -2,7 +2,7 @@
 title: "曹无伤 / Cao Wushang"
 type: entity
 tags: [person, qin-han, anti-qin, military]
-sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
+sources: [zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
 last_updated: 2026-08-22
 ---
 
@@ -16,10 +16,13 @@ The host flags Cao Wushang's later narrative importance by noting that he is the
 
 [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] shows the consequence of that leak from the opposite side. When Liu Bang apologizes at [[HongmenYan|鸿门宴]] and blames slanderous "small people" for the split, Xiang Yu casually names Cao Wushang as the informer. The episode reads this as an [[InformerSourceProtection|告密者来源保护]] failure: Xiang Yu gains an intelligence source but then exposes him to the target.
 
+[[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] completes Cao Wushang's branch. After Liu Bang escapes Hongmen and returns to [[Bashang|霸上]], he immediately has Cao Wushang killed. The death is the direct payoff of Xiang Yu's source-protection failure: once the informant's name is exposed inside the banquet, Liu Bang can punish him as soon as he is safe.
+
 ## Connections
 - [[LiuBang|刘邦]] - commander Cao Wushang serves in this source.
 - [[HongmenYan|《鸿门宴》]] - later episode context previewed by the host.
 - [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[XiangYu|项羽]], [[GuanzhongRegion|关中]], and [[ZiyingQin|子婴]] - secret leak that turns Liu Bang's Guanzhong position into an attack crisis.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] and [[InformerSourceProtection|告密者来源保护]] - Xiang Yu's exposure of the informant inside the banquet.
+- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] and [[Bashang|霸上]] - execution after Liu Bang returns safely from Hongmen.
 - [[XiahouYing|夏侯婴]] and [[XiaoHe|萧何]] - other Liu Bang-side figures introduced or extended in the same episode.
 - [[QinState|秦国]] and [[DazexiangUprising|大泽乡起义]] - anti-Qin campaign setting.

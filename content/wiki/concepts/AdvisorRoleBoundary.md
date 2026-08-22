@@ -2,7 +2,7 @@
 title: "Advisor Role Boundary / 谋士越位"
 type: concept
 tags: [advice, governance, power, strategy]
-sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy]
+sources: [zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy]
 last_updated: 2026-08-22
 ---
 
@@ -14,13 +14,17 @@ The concept does not mean advisers should be passive. It names the moment when c
 
 This extends [[MoralizedWarPretext|道德化战争借口]] from the previous episode. If a commander needs public reason before violence, an adviser who bypasses that requirement may win a tactical chance while weakening the legitimacy and internal trust needed to govern the aftermath.
 
+[[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] adds the failure's aftermath. After Liu Bang escapes, Fan Zeng smashes the jade dipper and publicly rebukes [[XiangYu|项羽]]. The episode treats the anger as understandable but still ineffective: the adviser is right about the danger, yet the public humiliation arrives after the decision window and further weakens his ability to move the commander.
+
 ## Key Claims
 - Strategic insight is not the same as usable authority.
 - Advisers need to move the decision-maker, not only prove that their own threat assessment is right.
 - Unauthorized action can damage the command relationship even when the adviser's goal is strategically plausible.
 - A plan that lacks public reason, leader buy-in, and contingency design may turn correct urgency into institutional rupture.
+- After failure, public rebuke can deepen the role problem if it turns correct diagnosis into humiliation of the decision-maker.
 
 ## Connections
 - [[FanZeng|范增]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[XiangZhuang|项庄]], and [[HongmenYan|鸿门宴]] - source case.
+- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[ZhangLiang|张良]], and [[Bashang|霸上]] - gift-return scene and Fan Zeng's post-escape rebuke.
 - [[MoralizedWarPretext|道德化战争借口]], [[MoralFaceUnderPowerCompetition|权力竞争中的要脸]], and [[PowerEtiquetteReading|权力礼仪细读]] - legitimacy, face, and ritual context.
 - [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]], [[ProtectiveRemonstranceSequencing|护身符式进言]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - adjacent adviser-effectiveness problems.

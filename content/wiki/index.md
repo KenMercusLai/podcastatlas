@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》142｜这场聚会，项羽输掉了一切](sources/zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r.md) — 芮淇讲透资治通鉴 episode completing the Hongmen escape through Fan Kuai, Zhang Liang, Liu Bang, and Chen Ping, then turning to Xiang Yu's Xianyang violence, rejected Guanzhong base advice, and Han Sheng's death.
 - [《资治通鉴·汉纪》141｜还原历史中的“鸿门宴”](sources/zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy.md) — 芮淇讲透资治通鉴 episode on the opening of the Hongmen Banquet, Liu Bang's apology, Xiang Yu exposing Cao Wushang, Fan Zeng's jade-ring signals, Xiang Zhuang's sword dance, and Xiang Bo's protection of Liu Bang.
 - [《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（2）](sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e.md) — 芮淇讲透资治通鉴 episode completing Xiang Bo's night warning, Zhang Liang's refusal to flee alone, Liu Bang's courtesy-and-loyalty performance, Xiang Bo's persuasion of Xiang Yu, and the pre-Hongmen 灭刘/存刘 split.
 - [《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）](sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662.md) — 芮淇讲透资治通鉴 episode on Liu Bang's first-entry Guanzhong advantage, Xiang Yu's angry attack decision before Hongmen, Cao Wushang's leak, Fan Zeng's threat diagnosis and pretext failure, and Xiang Bo's entry into the Zhang Liang channel.
@@ -1235,6 +1236,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陈平 / Chen Ping](entities/ChenPing.md) — Xiang Yu-side officer in Hanji 142 whose restrained search after Liu Bang's Hongmen exit foreshadows later movement toward Liu Bang's camp.
+- [韩生 / Han Sheng](entities/HanSheng.md) — Adviser who tells Xiang Yu to hold Guanzhong after entering Xianyang and is killed after the "沐猴而冠" criticism reaches Xiang Yu.
 - [霸上 / Bashang](entities/Bashang.md) — Liu Bang's post-Xianyang camp where palace withdrawal, Yuefa Sanzhang, and refusal of local gifts become occupation pacification.
 - [新安坑降 / Xinan Massacre](entities/XinanMassacre.md) — Xiang Yu's killing of surrendered Qin troops near Xinan, framed as an immediate security decision that destroys Qin-population support.
 - [阎乐 / Yan Le](entities/YanLe.md) — Zhao Gao's son-in-law and Xianyang令 whose presence supports the non-eunuch reading and whose role begins the Hu Hai coup branch.

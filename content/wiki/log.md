@@ -9870,3 +9870,11 @@ Added source page for Hanji 141: Liu Bang's Hongmen entry with Zhang Liang while
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》142｜这场聚会，项羽输掉了一切
+
+Added source page for Hanji 142: Fan Kuai's forceful Hongmen entry and status-recognizing rebuke, Liu Bang's bathroom-pretext escape and small-road return to Bashang, Zhang Liang's delayed gift explanation, Chen Ping's source-scoped search restraint, Fan Zeng's smashed jade-dipper warning, Cao Wushang's execution, and Xiang Yu's post-Xianyang killing of Ziying, palace burning, plunder, rejected Guanzhong base advice, and killing of Han Sheng. Created Chen Ping and Han Sheng; updated overview, index, Hongmen Yan, Liu Bang, Xiang Yu, Zhang Liang, Fan Kuai, Fan Zeng, Xiahou Ying, Ji Xin, Cao Wushang, Bashang, Ziying, Guanzhong, Xianyang, Informer Source Protection, Advisor Role Boundary, Power Etiquette Reading, Huaiwang Agreement, Occupation Pacification Strategy, People-Based Political Security, Coalition Settlement Failure, and Victory Overreach Failure. No settled contradiction found; treated Chen Ping's role as foreshadowing rather than completed defection and kept Xiang Yu's harsher post-Xianyang judgment compatible with the earlier moral-face reading.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

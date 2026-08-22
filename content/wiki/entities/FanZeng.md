@@ -2,7 +2,7 @@
 title: "范增 / Fan Zeng"
 type: entity
 tags: [strategist, chinese-history, power]
-sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ His failure is a political-handling failure. QinZong argues that Fan Zeng cannot
 
 [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] carries that failure into the banquet. Fan Zeng repeatedly signals Xiang Yu with a jade ring, but Xiang Yu refuses to respond. Fan Zeng then leaves the tent, summons [[XiangZhuang|项庄]], and tells him to kill Liu Bang through a sword-dance performance. The episode treats this as [[AdvisorRoleBoundary|谋士越位]]: Fan Zeng may be right about Liu Bang's long-term danger, but he acts without Xiang Yu's clear decision, without a legitimate public sequence, and without a plan for the consequences.
 
+[[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] gives the aftermath of that failure. After [[ZhangLiang|张良]] returns with Liu Bang's gifts and confirms Liu Bang has escaped to [[Bashang|霸上]], Fan Zeng smashes the jade dipper and says the person who will take Xiang Yu's empire must be Liu Bang. The source again credits his threat judgment while stressing his influence failure: public rage and humiliation of [[XiangYu|项羽]] do not repair the missed decision window.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - central source scene.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[FanKuai|樊哙]] - figures in the power field.
@@ -36,3 +38,4 @@ His failure is a political-handling failure. QinZong argues that Fan Zeng cannot
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], and [[WartimeCommandDecapitation|战时统帅斩首]] - same command crisis, though the source gives the decisive action to Xiang Yu.
 - [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[GuanzhongRegion|关中]], [[CaoWushang|曹无伤]], [[XiangBo|项伯]], [[MoralizedWarPretext|道德化战争借口]], and [[MoralFaceUnderPowerCompetition|权力竞争中的要脸]] - correct Liu Bang threat read paired with a failed public-justification strategy and the resulting 灭刘/存刘 split.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[XiangZhuang|项庄]], [[AdvisorRoleBoundary|谋士越位]], and [[PowerEtiquetteReading|权力礼仪细读]] - jade-ring signals, sword-dance workaround, and adviser authority failure inside the banquet.
+- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[Bashang|霸上]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - smashed jade dipper, correct long-term threat read, and public rebuke after the escape.

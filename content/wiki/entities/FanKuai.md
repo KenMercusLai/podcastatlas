@@ -2,7 +2,7 @@
 title: "樊哙 / Fan Kuai"
 type: entity
 tags: [chinese-history, power, rhetoric]
-sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The source's main move is to read Fan Kuai's speech as likely shaped by [[ZhangL
 
 [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] places Fan Kuai in Liu Bang's Hongmen escort before his later dramatic entrance. The source identifies him as Liu Bang's fellow townsman, in-law, fierce fighter, and personal guard; he accompanies Liu Bang from [[Bashang|霸上]] but remains outside the gate with [[XiahouYing|夏侯婴]], [[JiXin|纪信]], [[JinQiang|金强]], and the cavalry while Liu Bang and [[ZhangLiang|张良]] enter the tent.
 
+[[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] gives Fan Kuai the full Hongmen payoff. [[ZhangLiang|张良]] calls him in after the sword-dance danger becomes acute; Fan Kuai enters with shield and sword, accepts [[XiangYu|项羽]]'s wine and raw meat test, then rebukes Xiang Yu by invoking [[HuaiwangAgreement|怀王之约]], [[LiuBang|刘邦]]'s restrained entry into [[Xianyang|咸阳]], and the danger of repeating Qin-style violence. The source reads his courage and speech as complementary: physical force interrupts the killing sequence, while likely Zhang Liang-shaped rhetoric makes de-escalation possible.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - source scene.
 - [[ZhangLiang|张良]] - strategic interpreter behind the speech in the episode's reading.
@@ -29,3 +31,4 @@ The source's main move is to read Fan Kuai's speech as likely shaped by [[ZhangL
 - [[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]], [[MangdangMountain|芒砀山]], and [[PeiCountyUprisingMobilization|沛县起义动员]] - first follower and messenger role in Liu Bang's uprising route.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[Xianyang|咸阳]], [[Bashang|霸上]], [[ZhangLiang|张良]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - palace-restraint warning before Liu Bang's Bashang pacification.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[XiahouYing|夏侯婴]], [[JiXin|纪信]], and [[JinQiang|金强]] - Hongmen escort and gate-side backup before the source's cliffhanger.
+- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[HuaiwangAgreement|怀王之约]], [[Bashang|霸上]], and [[PowerEtiquetteReading|权力礼仪细读]] - forced tent entry, status-recognizing rebuke, and later small-road protection during Liu Bang's return.
