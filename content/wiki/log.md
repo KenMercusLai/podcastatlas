@@ -9691,3 +9691,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》129-4｜旧权贵张良如何在刘邦手下安身
+
+Added source page for Qinji 129-4: post-Chen Sheng fragmentation, Song Liu's punished surrender at Nanyang, Yong Chi's defection from Liu Bang at Feng, Zhang Er and Chen Yu's restoration of Zhao Xie, Qin Jia and Jing Ju's failed alliance attempt with Tian Dan through Gongsun Qing, Lu Chen and Ying Bu's Chu-side recovery, Wu Rui's marriage alliance with Ying Bu, and Zhang Liang's shift to Liu Bang through strategic recognition. Created Song Liu, Yong Chi, Feng County, Zhao Xie, Jing Ju, Gongsun Qing, Ying Bu, Wu Rui, Strategic Recognition Alignment, and Punitive Surrender Deterrence; updated overview, index, Liu Bang, Zhang Liang, Zhang Er, Chen Yu, Wu Chen, Li Liang (Zhao General), Qin Jia, Tian Dan (Qin Rebel), Zhang Chu Regime, Qin Er Shi, Nanyang Commandery, Lu Chen, Taigong Bingfa, Anti-Qin Coalition Fragmentation, and Six-State Restoration Anti-Qin Strategy. No settled contradiction found; preserved source-scoped caution around 景居/景驹 and the recognition-based explanation of Zhang Liang's choice.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

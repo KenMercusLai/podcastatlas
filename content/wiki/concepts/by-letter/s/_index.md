@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5034
+wiki_total_pages: 5036
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "StrategicMustWorkProductBet"
     title: "Strategic Must-Work Product Bet"
     url: "/wiki/concepts/strategicmustworkproductbet/"
+  - key: "StrategicRecognitionAlignment"
+    title: "Strategic Recognition Alignment / 谋略知己式归附"
+    url: "/wiki/concepts/strategicrecognitionalignment/"
   - key: "StrategicRerelease"
     title: "Strategic Rerelease"
     url: "/wiki/concepts/strategicrerelease/"

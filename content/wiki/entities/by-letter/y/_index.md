@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6494
+wiki_total_pages: 6502
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "YingliGreenEnergy"
     title: "英利绿色能源 / Yingli Green Energy"
     url: "/wiki/entities/yingligreenenergy/"
+  - key: "YingBu"
+    title: "英布 / 黥布 / Ying Bu"
+    url: "/wiki/entities/yingbu/"
   - key: "YingyangWarringStates"
     title: "荥阳 / Yingyang (Warring States)"
     url: "/wiki/entities/yingyangwarringstates/"
@@ -539,6 +542,9 @@ wiki_pages:
   - key: "YongmenSima"
     title: "雍门司马 / Yongmen Sima"
     url: "/wiki/entities/yongmensima/"
+  - key: "YongChi"
+    title: "雍齿 / Yong Chi"
+    url: "/wiki/entities/yongchi/"
   - key: "Yubai"
     title: "雨白 / Yubai"
     url: "/wiki/entities/yubai/"

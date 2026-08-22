@@ -14947,6 +14947,10 @@
     "title": "焚景源",
     "url": "/wiki/entities/fenjingyuan/"
   },
+  "FengCounty": {
+    "title": "丰邑 / 丰县 / Feng County",
+    "url": "/wiki/entities/fengcounty/"
+  },
   "FengDao": {
     "title": "冯道 / Feng Dao",
     "url": "/wiki/entities/fengdao/"
@@ -17354,6 +17358,10 @@
   "GongsunQi": {
     "title": "公孙齐 / Gongsun Qi",
     "url": "/wiki/entities/gongsunqi/"
+  },
+  "GongsunQing": {
+    "title": "公孙庆 / Gongsun Qing",
+    "url": "/wiki/entities/gongsunqing/"
   },
   "GongsunWuzhi": {
     "title": "公孙无知 / Gongsun Wuzhi",
@@ -22070,6 +22078,10 @@
   "JingJian": {
     "title": "景监 / Jing Jian",
     "url": "/wiki/entities/jingjian/"
+  },
+  "JingJu": {
+    "title": "景驹 / Jing Ju",
+    "url": "/wiki/entities/jingju/"
   },
   "JingKe": {
     "title": "荆轲 / Jing Ke",
@@ -33423,6 +33435,10 @@
     "title": "Punitive Inspection Loyalty Trap / 苛察忠诚陷阱",
     "url": "/wiki/concepts/punitiveinspectionloyaltytrap/"
   },
+  "PunitiveSurrenderDeterrence": {
+    "title": "Punitive Surrender Deterrence / 杀降纳降反噬",
+    "url": "/wiki/concepts/punitivesurrenderdeterrence/"
+  },
   "PupuSupermarket": {
     "title": "朴朴超市 / Pupu Supermarket",
     "url": "/wiki/entities/pupusupermarket/"
@@ -38155,6 +38171,10 @@
     "title": "宋康王 / 宋君偃 / King Kang of Song",
     "url": "/wiki/entities/songjunyan/"
   },
+  "SongLiu": {
+    "title": "宋刘 / Song Liu",
+    "url": "/wiki/entities/songliu/"
+  },
   "SongMilitaryCentralization": {
     "title": "宋初军事集权 / Song Military Centralization",
     "url": "/wiki/concepts/songmilitarycentralization/"
@@ -39222,6 +39242,10 @@
   "StrategicMustWorkProductBet": {
     "title": "Strategic Must-Work Product Bet",
     "url": "/wiki/concepts/strategicmustworkproductbet/"
+  },
+  "StrategicRecognitionAlignment": {
+    "title": "Strategic Recognition Alignment / 谋略知己式归附",
+    "url": "/wiki/concepts/strategicrecognitionalignment/"
   },
   "StrategicRerelease": {
     "title": "Strategic Rerelease",
@@ -44619,6 +44643,10 @@
     "title": "吴清源",
     "url": "/wiki/entities/wuqingyuan/"
   },
+  "WuRui": {
+    "title": "吴芮 / Wu Rui",
+    "url": "/wiki/entities/wurui/"
+  },
   "WuShubin": {
     "title": "吴淑彬 / Wu Shubin",
     "url": "/wiki/entities/wushubin/"
@@ -45735,6 +45763,10 @@
     "title": "《阴符》 / Yinfu Jing",
     "url": "/wiki/entities/yinfujing/"
   },
+  "YingBu": {
+    "title": "英布 / 黥布 / Ying Bu",
+    "url": "/wiki/entities/yingbu/"
+  },
   "YingGao": {
     "title": "嬴高 / Ying Gao",
     "url": "/wiki/entities/yinggao/"
@@ -45838,6 +45870,10 @@
   "YonezawaHonobu": {
     "title": "米泽穗信 / Yonezawa Honobu",
     "url": "/wiki/entities/yonezawahonobu/"
+  },
+  "YongChi": {
+    "title": "雍齿 / Yong Chi",
+    "url": "/wiki/entities/yongchi/"
   },
   "YongchengQin": {
     "title": "雍城 / Yongcheng (Qin)",
@@ -46662,6 +46698,10 @@
   "ZhaoXianzi": {
     "title": "赵献子 / Zhao Xianzi",
     "url": "/wiki/entities/zhaoxianzi/"
+  },
+  "ZhaoXie": {
+    "title": "赵歇 / Zhao Xie",
+    "url": "/wiki/entities/zhaoxie/"
   },
   "ZhaoXixu": {
     "title": "昭奚恤 / Zhao Xixu",
@@ -50402,6 +50442,10 @@
   "zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3": {
     "title": "《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心",
     "url": "/wiki/sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3/"
+  },
+  "zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav": {
+    "title": "《资治通鉴·秦纪》129-4｜旧权贵张良如何在刘邦手下安身",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

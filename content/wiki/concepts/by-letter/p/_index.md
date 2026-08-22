@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5034
+wiki_total_pages: 5036
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "PunitiveInspectionLoyaltyTrap"
     title: "Punitive Inspection Loyalty Trap / 苛察忠诚陷阱"
     url: "/wiki/concepts/punitiveinspectionloyaltytrap/"
+  - key: "PunitiveSurrenderDeterrence"
+    title: "Punitive Surrender Deterrence / 杀降纳降反噬"
+    url: "/wiki/concepts/punitivesurrenderdeterrence/"
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"

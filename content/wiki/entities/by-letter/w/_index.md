@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6494
+wiki_total_pages: 6502
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "WuLiwei"
     title: "吴立伟 / Wu Liwei"
     url: "/wiki/entities/wuliwei/"
+  - key: "WuRui"
+    title: "吴芮 / Wu Rui"
+    url: "/wiki/entities/wurui/"
   - key: "WuQi"
     title: "吴起 / Wu Qi"
     url: "/wiki/entities/wuqi/"

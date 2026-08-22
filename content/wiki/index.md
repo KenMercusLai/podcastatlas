@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》129-4｜旧权贵张良如何在刘邦手下安身](sources/zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav.md) — 芮淇讲透资治通鉴 episode on post-Chen Sheng fragmentation, Song Liu's punished surrender, Yong Chi's Feng betrayal, Zhao Xie's restoration, Qin Jia's failed Qi alliance, Ying Bu's rise, and Zhang Liang's strategic recognition by Liu Bang.
 - [《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心](sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3.md) — 芮淇讲透资治通鉴 episode on Chen Sheng's final collapse: Qin Jia killing Wu Ping Jun Pan, Zhang Han's pressure on Chen County, Zhuang Gu's killing of Chen Sheng, Lu Chen's revenge and reburial, and Chen Sheng's split legacy as both anti-Qin initiator and alienating ruler.
 - [《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集](sources/zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp.md) — 芮淇讲透资治通鉴 episode on Zhang Chu's post-Wu Guang battlefield losses, Li Si's fear-driven 督责 memorial to Qin Er Shi, and Li Liang's betrayal of restored Zhao after Wang Li's recruitment letter and Wu Chen's sister's drunken ritual insult.
 - [《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相](sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp.md) — 芮淇讲透资治通鉴 episode on Wu Guang's failed Yingyang siege, Tian Zang's killing of him under claimed crisis, Zhou Wen's defeat by Zhang Han, and Liu Bang's parallel local gains.
@@ -1212,6 +1213,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [宋刘 / Song Liu](entities/SongLiu.md) — Chen Sheng-side commander whose surrender at Nanyang is punished by Qin Er Shi, making surrender policy counterproductive in the episode's reading.
+- [雍齿 / Yong Chi](entities/YongChi.md) — Liu Bang subordinate who looks down on him and defects with Feng County to Zhou Shi's Wei-side force.
+- [丰邑 / 丰县 / Feng County](entities/FengCounty.md) — Liu Bang-held place entrusted to Yong Chi and then lost when Yong Chi defects to Zhou Shi's restoration line.
+- [赵歇 / Zhao Xie](entities/ZhaoXie.md) — Old Zhao royal descendant installed by Zhang Er and Chen Yu after Wu Chen's death and Li Liang's defeat.
+- [景驹 / Jing Ju](entities/JingJu.md) — Provisional Chu claimant set up by Qin Jia and Ning Jun after Chen Sheng's collapse; transcript renders him as 景居.
+- [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
+- [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Punished Qin convict and bandit leader who joins Lu Chen, allies by marriage with Wu Rui, and enters anti-Qin warfare.
+- [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
 - [秦嘉 / Qin Jia (Rebel)](entities/QinJiaRebel.md) — Local anti-Qin rebel leader who refuses Chen Sheng's monitor Wu Ping Jun Pan and kills him under a false Chen Sheng order.
 - [朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader, named in the source as part of the local rebel force outside stable Zhang Chu control.
 - [武平君畔 / Wu Ping Jun Pan](entities/WuPingJunPan.md) — Chen Sheng's monitor sent to supervise the Tan-area army and killed by Qin Jia.
@@ -7710,6 +7719,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Recognition Alignment / 谋略知己式归附](concepts/StrategicRecognitionAlignment.md) — Zhang Liang pattern where a strategist joins a patron because the patron can understand and use difficult counsel.
+- [Punitive Surrender Deterrence / 杀降纳降反噬](concepts/PunitiveSurrenderDeterrence.md) — Pattern where executing a surrenderer makes future enemies less willing to surrender and weakens reintegration.
 - [Rebel Founder Alienation / 起义首领人心疏离](concepts/RebelFounderAlienation.md) — Chen Sheng pattern where founding anti-Qin legitimacy decays after kingship through arrogance, killing old friends, and making closeness unsafe.
 - [Punitive Inspection Loyalty Trap / 苛察忠诚陷阱](concepts/PunitiveInspectionLoyaltyTrap.md) — Zhang Chu governance failure where inspectors treat harshness and extrajudicial punishment as evidence of loyalty.
 - [Duze Extraction Politics / 督责式压榨政治](concepts/DuzeExtractionPolitics.md) — Late-Qin governance pattern where Li Si's self-protective memorial validates Hu Hai's pressure, extraction, and killing incentives.

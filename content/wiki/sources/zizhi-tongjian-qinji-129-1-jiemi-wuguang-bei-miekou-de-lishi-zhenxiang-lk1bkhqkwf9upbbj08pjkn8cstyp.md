@@ -13,7 +13,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the e
 ## Key Claims
 - The episode frames Qin Er Shi's second year, 208-207 BCE, as a compressed field where many rebel figures appear and die quickly.
 - [[LiuBang|刘邦]] defeats Qin forces around Huling after the Sishui commandery supervisor Ping first besieges him and then surrenders under persuasion from [[XiahouYing|夏侯婴]] and [[XiaoHe|萧何]].
-- Liu Bang leaves Yong Chi to hold Feng County and moves north toward Xue County, where [[CaoWushang|曹无伤]] captures and kills the Sishui commandery governor Zhuang.
+- Liu Bang leaves [[YongChi|雍齿]] to hold [[FengCounty|丰邑 / 丰县]] and moves north toward Xue County, where [[CaoWushang|曹无伤]] captures and kills the Sishui commandery governor Zhuang.
 - [[ZhouWenRebel|周文 / 周章]] retreats east after [[ZhangHanQin|章邯]] defeats the westward Zhang Chu army, loses again at Caoyang and Mianchi, then kills himself as his force collapses.
 - [[WuGuang|吴广]], as the second major [[ZhangChuRegime|张楚]] leader after [[ChenSheng|陈胜]], besieges [[YingyangWarringStates|荥阳]], a strategic route and granary-adjacent position tied to Qin's Sanchuan commandery.
 - [[LiYou|李由]], son of [[LiSi|李斯]] and Sanchuan commandery governor, holds Yingyang against Wu Guang's repeated attacks.

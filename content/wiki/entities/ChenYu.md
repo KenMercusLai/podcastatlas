@@ -2,7 +2,7 @@
 title: "陈馀 / Chen Yu"
 type: entity
 tags: [person, qin, anti-qin, pre-qin]
-sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The episode also adds a source-comparison problem. [[Shiji|《史记》]] gives 
 
 [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] makes Chen Yu's local information network life-saving. After [[LiLiangZhaoGeneral|李良]] kills [[WuChen|武臣]] and attacks [[Handan|邯郸]], Chen Yu reportedly learns the news quickly because of his Zhao connections and marriage ties, then calls [[ZhangEr|张耳]] to flee with him. The episode uses this moment to show that elite networks and information speed can decide survival in the restored-Zhao collapse.
 
+[[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] turns Chen Yu's survival network back into political reconstruction. Chen Yu and [[ZhangEr|张耳]] gather the scattered Zhao troops, defeat [[LiLiangZhaoGeneral|李良]], and install [[ZhaoXie|赵歇]] as Zhao king after a guest recommends using the old royal line. The episode treats this as cautious local-state building: Chen Yu and Zhang Er do not simply rule in their own names after Wu Chen's death.
+
 ## Connections
 - [[KongFu|孔鲋]] - figure whose safety and later appointment Chen Yu helps mediate.
 - [[QinBookBurningPolicy|秦代焚书令]] - policy background for Chen Yu's visit.
@@ -34,3 +36,4 @@ The episode also adds a source-comparison problem. [[Shiji|《史记》]] gives 
 - [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - motive omission around Chen Yu and Zhang Er.
 - [[ZhaoServantEnvoy|赵厮养卒]], [[HanGuang|韩广]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Qinji 128-8 third-party incentive argument used to free Wu Chen.
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[LiLiangZhaoGeneral|李良]], [[WuChen|武臣]], [[ZhangEr|张耳]], and [[Handan|邯郸]] - early warning and escape after Li Liang's coup.
+- [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[ZhaoXie|赵歇]], [[ZhaoState|赵国]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - post-coup repair through royal restoration.

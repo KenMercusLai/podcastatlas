@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6494
+wiki_total_pages: 6502
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "FengyeEntertainment"
     title: "丰业娱乐 / Fengye Entertainment"
     url: "/wiki/entities/fengyeentertainment/"
+  - key: "FengCounty"
+    title: "丰邑 / 丰县 / Feng County"
+    url: "/wiki/entities/fengcounty/"
   - key: "FengduDadi"
     title: "丰都大帝"
     url: "/wiki/entities/fengdudadi/"

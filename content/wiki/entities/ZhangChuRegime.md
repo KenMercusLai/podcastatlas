@@ -2,7 +2,7 @@
 title: "张楚政权 / Zhang Chu Regime"
 type: entity
 tags: [regime, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]
+sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ The same source makes the regime's internal authority problem sharper. [[WuChen|
 
 [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] turns that deterioration into terminal collapse. [[QinJiaRebel|秦嘉]] and [[ZhuJishi|朱吉石]] raise troops but reject the central monitor [[WuPingJunPan|武平君畔]], killing him under a false Chen Sheng order. [[ZhangHanQin|章邯]] reaches the Chen County field, [[ZhangHeZhangChu|张鹤]] is defeated, [[ZhuangGu|庄谷]] kills Chen Sheng, and [[LuChenQinRebel|吕臣]] only partially repairs the symbolic damage by killing Zhuang Gu and reburying Chen Sheng. The regime now carries both the initiating glory of [[DazexiangUprising|大泽乡起义]] and the internal fear pattern of [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]].
 
+[[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] shows the post-Chen-Sheng field splintering rather than disappearing. [[SongLiu|宋刘]]'s surrender at [[NanyangCommandery|南阳郡]] is punished by Qin, [[QinJiaRebel|秦嘉]] backs [[JingJu|景居 / 景驹]] as a new Chu claimant, and [[LuChenQinRebel|吕臣]] joins with [[YingBu|英布 / 黥布]] to defeat Qin forces and retake Chen County. Zhang Chu's central regime is gone, but the Chu banner persists through competing restorers, local commanders, and armed outsiders.
+
 ## Connections
 - [[DazexiangUprising|大泽乡起义]], [[ChenSheng|陈胜]], and [[WuGuang|吴广]] - uprising and rebel leaders that open the Zhang Chu branch.
 - [[GeYing|葛婴]] - subordinate-general figure whose death the source marks as politically damaging.
@@ -38,3 +40,4 @@ The same source makes the regime's internal authority problem sharper. [[WuChen|
 - [[TianZang|田臧]], [[LiYou|李由]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 internal command killing at Yingyang.
 - [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]], [[ZhangHanQin|章邯]], [[TianZang|田臧]], and [[ChenSheng|陈胜]] - post-Wu-Guang losses at Ao granary, Yingyang, Jia, and Xu.
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[QinJiaRebel|秦嘉]], [[WuPingJunPan|武平君畔]], [[ZhangHeZhangChu|张鹤]], [[ZhuangGu|庄谷]], [[LuChenQinRebel|吕臣]], and [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] - final collapse and partial posthumous recovery.
+- [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[SongLiu|宋刘]], [[JingJu|景居 / 景驹]], [[GongsunQing|公孙庆]], [[YingBu|英布 / 黥布]], and [[WuRui|吴芮]] - post-collapse surrender, claimant-making, failed diplomacy, and Chu-side military recovery.

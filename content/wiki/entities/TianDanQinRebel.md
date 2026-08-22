@@ -2,7 +2,7 @@
 title: "田儋 / Tian Dan (Qin Rebel)"
 type: entity
 tags: [person, qin, anti-qin, qi]
-sources: [zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -14,10 +14,15 @@ last_updated: 2026-08-22
 
 This page is deliberately disambiguated from [[TianDan|田单 / Tian Dan]], the Warring States Qi restoration general. The two names share pinyin in common transcription, but the source's 田儋 belongs to the Qin-collapse rebellion context, not the earlier Jimo restoration branch.
 
+[[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] adds Tian Dan's failed coordination with the Chu-side [[JingJu|景居 / 景驹]] branch. [[QinJiaRebel|秦嘉]] sends [[GongsunQing|公孙庆]] to ask Qi to join an attack on Qin, but Tian Dan asks why Zhang Chu installed Jing Ju without first consulting Qi. When Gongsun Qing answers that Qi also proclaimed a king without consulting Zhang Chu, Tian Dan kills him.
+
+The episode therefore sharpens Tian Dan's role inside [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]]. Qi restoration is anti-Qin in origin, but Tian Dan still defends Qi's status and authorization claims against another anti-Qin claimant.
+
 ## Connections
 - [[QiState|齐国]] - old regional setting for the source's uprising notice.
 - [[LiuBang|刘邦]] and [[XiangLiang|项梁]] - parallel uprising figures named in the same sentence.
 - [[ChenSheng|陈胜]], [[WuGuang|吴广]], and [[DazexiangUprising|大泽乡起义]] - initial anti-Qin trigger.
 - [[QinState|秦国]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - shared enemy and widening rebel-field concept.
 - [[zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri|Qinji 128-8]] and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - Di county killing, local mobilization, and old-Qi royal claim.
+- [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[QinJiaRebel|秦嘉]], [[JingJu|景居 / 景驹]], and [[GongsunQing|公孙庆]] - failed Chu-Qi coordination and envoy killing.
 - [[TianDan|田单 / Tian Dan]] - distinct earlier Qi figure with a colliding pinyin route.

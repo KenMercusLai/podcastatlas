@@ -2,7 +2,7 @@
 title: "张耳 / Zhang Er"
 type: entity
 tags: [person, retainer, warring-states, qin, western-han]
-sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
+sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The host adds a source-critical layer: [[Shiji|《史记》]] says Zhang Er and 
 
 [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] continues the restored-Zhao branch after [[LiLiangZhaoGeneral|李良]] kills [[WuChen|武臣]]. Zhang Er is still in [[Handan|邯郸]], but [[ChenYu|陈馀]] receives early warning through Zhao-side connections and urges him to flee. The source gives Zhang Er a survival-by-network scene rather than a new strategic counsel scene.
 
+[[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] gives Zhang Er the next repair move after that escape. He and [[ChenYu|陈馀]] gather scattered troops, defeat [[LiLiangZhaoGeneral|李良]], and watch Li Liang surrender to [[ZhangHanQin|章邯]]. On a guest's advice, they then install [[ZhaoXie|赵歇]], a descendant of the old Zhao royal house, as Zhao king at Xindu. This makes Zhang Er's restoration logic more concrete: after Wu Chen's personal kingship collapses, inherited royal name becomes a tool for local legitimacy.
+
 ## Connections
 - [[Xinlingjun|信陵君]] - earlier patron whose retainer network Zhang Er had belonged to.
 - [[LiuBang|刘邦]] - young admirer who turns to Zhang Er after missing Xinlingjun.
@@ -35,3 +37,4 @@ The host adds a source-critical layer: [[Shiji|《史记》]] says Zhang Er and 
 - [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - motive omission around Zhang Er and Chen Yu's grievance.
 - [[ZhaoServantEnvoy|赵厮养卒]], [[HanGuang|韩广]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Qinji 128-8 third-party incentive argument used to secure Wu Chen's release.
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[ChenYu|陈馀]], [[LiLiangZhaoGeneral|李良]], [[WuChen|武臣]], and [[Handan|邯郸]] - escape from Handan after Li Liang's coup.
+- [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[ZhaoXie|赵歇]], [[ZhaoState|赵国]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - defeat of Li Liang and restoration of a Zhao royal descendant.

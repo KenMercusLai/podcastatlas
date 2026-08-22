@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6494
+wiki_total_pages: 6502
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "SongXiugong"
     title: "宋休公 / Duke Xiu of Song"
     url: "/wiki/entities/songxiugong/"
+  - key: "SongLiu"
+    title: "宋刘 / Song Liu"
+    url: "/wiki/entities/songliu/"
   - key: "SongTicheng"
     title: "宋剔成 / Song Ticheng"
     url: "/wiki/entities/songticheng/"

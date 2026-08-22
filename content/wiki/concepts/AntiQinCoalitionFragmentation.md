@@ -2,7 +2,7 @@
 title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
 type: concept
 tags: [rebellion, coalition, qin, statecraft]
-sources: [zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 
 [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]] makes the internal side of the fragmentation terminal. [[ChenYu|陈馀]] and [[ZhangEr|张耳]] survive [[LiLiangZhaoGeneral|李良]]'s Handan coup because Chen Yu's Zhao networks warn them early, but [[ZhangChuRegime|张楚政权]] is failing in parallel: [[QinJiaRebel|秦嘉]] kills [[WuPingJunPan|武平君畔]] while borrowing [[ChenSheng|陈胜]]'s name, and Chen Sheng's own [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] makes the rebel center less able to hold loyalty.
 
+[[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]] shows fragmentation continuing after the first rebel center falls. [[ZhangEr|张耳]] and [[ChenYu|陈馀]] restore [[ZhaoXie|赵歇]] rather than rejoin a unified Zhang Chu command, [[QinJiaRebel|秦嘉]] backs [[JingJu|景居 / 景驹]], [[TianDanQinRebel|田儋]] kills [[GongsunQing|公孙庆]] over title authorization, and [[YongChi|雍齿]] shifts [[FengCounty|丰邑 / 丰县]] from [[LiuBang|刘邦]] to [[ZhouShiRebel|周市]]'s Wei-side force. The anti-Qin enemy is shared, but command, status, and local self-interest remain separate.
+
 ## Connections
 - [[WuChen|武臣]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[CaiCi|蔡赐]] - main actors in the source.
 - [[ChenSheng|陈胜]], [[ZhangChuRegime|张楚政权]], and [[DazexiangUprising|大泽乡起义]] - rebel regime and origin.
@@ -34,3 +36,4 @@ This pattern is related to [[SixStateRestorationAntiQinStrategy|六国复国式�
 - [[WuGuang|吴广]], [[TianZang|田臧]], [[YingyangWarringStates|荥阳]], [[LiYou|李由]], and [[WartimeCommandDecapitation|战时统帅斩首]] - Qinji 129-1 command-killing branch inside Zhang Chu.
 - [[zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp|Qinji 129-2]], [[LiLiangZhaoGeneral|李良]], [[WangLiQin|王离]], [[WuChen|武臣]], and [[StatusInsultDefectionCascade|名分羞辱触发叛变]] - restored-Zhao defection and internal collapse branch.
 - [[zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3|Qinji 129-3]], [[QinJiaRebel|秦嘉]], [[WuPingJunPan|武平君畔]], [[RebelFounderAlienation|起义首领人心疏离]], and [[PunitiveInspectionLoyaltyTrap|苛察忠诚陷阱]] - final Zhang Chu authority breakdown and center-level alienation.
+- [[zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav|Qinji 129-4]], [[ZhaoXie|赵歇]], [[JingJu|景居 / 景驹]], [[GongsunQing|公孙庆]], [[YongChi|雍齿]], and [[FengCounty|丰邑 / 丰县]] - post-Chen-Sheng restoration competition, failed alliance, and local defection.
