@@ -25899,6 +25899,10 @@
     "title": "鲁元公主 / Princess Lu Yuan",
     "url": "/wiki/entities/luyuanprincess/"
   },
+  "LuZe": {
+    "title": "吕泽 / Lu Ze",
+    "url": "/wiki/entities/luze/"
+  },
   "LuZhengyu": {
     "title": "卢正雨 / Lu Zhengyu",
     "url": "/wiki/entities/luzhengyu/"
@@ -32903,6 +32907,10 @@
     "title": "Poverty-Trap Modernization / 贫困陷阱与现代化",
     "url": "/wiki/concepts/povertytrapmodernization/"
   },
+  "PowerBasedAllianceRepricing": {
+    "title": "Power-Based Alliance Repricing / 实力重估式阵营转向",
+    "url": "/wiki/concepts/powerbasedalliancerepricing/"
+  },
   "PowerBatteryIndustryChain": {
     "title": "Power Battery Industry Chain",
     "url": "/wiki/concepts/powerbatteryindustrychain/"
@@ -37562,6 +37570,10 @@
   "ShenYang": {
     "title": "申阳 / Shen Yang",
     "url": "/wiki/entities/shenyang/"
+  },
+  "ShenYiji": {
+    "title": "审食其 / Shen Yiji",
+    "url": "/wiki/entities/shenyiji/"
   },
   "ShenYujun": {
     "title": "沈宇军 / Shen Yujun",
@@ -45607,6 +45619,10 @@
     "title": "小智AI / Xiaozhi AI",
     "url": "/wiki/entities/xiaozhiai/"
   },
+  "Xiayi": {
+    "title": "下邑 / Xiayi",
+    "url": "/wiki/entities/xiayi/"
+  },
   "XieChen": {
     "title": "谢晨",
     "url": "/wiki/entities/xiechen/"
@@ -46862,6 +46878,10 @@
   "ZengGuofan": {
     "title": "曾国藩 / Zeng Guofan",
     "url": "/wiki/entities/zengguofan/"
+  },
+  "ZengHe": {
+    "title": "曾赫 / Zeng He",
+    "url": "/wiki/entities/zenghe/"
   },
   "ZengJing": {
     "title": "曾静 / Zeng Jing",
@@ -50934,6 +50954,10 @@
   "zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno": {
     "title": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno/"
+  },
+  "zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj": {
+    "title": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

@@ -10042,3 +10042,11 @@ Ran lint after health and identity validation passed. Health scanned 12,947 wiki
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）
+
+Added source page for Hanji 152 part 2: Liu Bang's post-Pengcheng flight with Liu Ying and Princess Lu Yuan, Xiahou Ying's repeated rescue of the children, Zeng He's disciplined holdout against Chu cavalry, Shen Yiji/Liu Taigong/Lu Zhi's capture as hostages, Lu Ze's Xiayi rally point, and the rapid post-defeat alliance repricing that sends many lords back toward Xiang Yu while Zhang Er and Han Wang Xin remain with Liu Bang. Created Zeng He, Shen Yiji, Lu Ze, Xiayi, and Power-Based Alliance Repricing; updated overview, index, Pengcheng Battle, Liu Bang, Xiang Yu, Xiahou Ying, Liu Ying, Princess Lu Yuan, Lu Zhi, Liu Taigong, Sima Xin, Dong Yi, Wei Bao, Chen Yu, Zhao Xie, Tian Heng, Tian Jia, Peng Yue, Sima Ang, Zhang Er, and Han Wang Xin. No settled contradiction found; Sima Ang's death note is kept as a source-scoped chronology caution beside the earlier capture-and-commandery account.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,957 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or API key is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.

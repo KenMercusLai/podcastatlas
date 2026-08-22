@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）](sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Pengcheng flight, Xiahou Ying's rescue of Liu Ying and Princess Lu Yuan, Zeng He's disciplined holdout, family-hostage pressure, and post-defeat alliance repricing.
 - [《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）](sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno.md) — 芮淇讲透资治通鉴 episode reframing Pengcheng through Liu Bang's command ceiling, Han Xin's absence, ancient large-army coordination limits, and the later "多多益善" comparison.
 - [《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2）](sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay.md) — 芮淇讲透资治通鉴 episode completing the Pengcheng Battle tactical account through Xiang Yu's secrecy, Xiao County route cut, cavalry shock against Liu Bang's command center, river pursuit, and windstorm escape.
 - [《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（1）](sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu.md) — 芮淇讲透资治通鉴 episode opening the Pengcheng Battle setup through Dong Gong's mourning pretext, Liu Bang's coalition-building, Chen Yu/Zhang Er deception, Qi resistance, and Pengcheng victory overreach.
@@ -1256,6 +1257,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [曾赫 / Zeng He](entities/ZengHe.md) — Liu Bang-side commander who preserves formation during the Pengcheng rout and helps block Chu cavalry.
+- [审食其 / Shen Yiji](entities/ShenYiji.md) — Companion of Liu Taigong and Lu Zhi captured by Chu after the Pengcheng rout, kept source-scoped to the hostage chain.
+- [吕泽 / Lu Ze](entities/LuZe.md) — Lu Zhi's brother and Liu-side commander whose Xiayi troops give Liu Bang a post-Pengcheng rally point.
+- [下邑 / Xiayi](entities/Xiayi.md) — Liu Bang-linked place that becomes Lu Ze's post-Pengcheng rally point after earlier appearing in Qinji 130-1.
 - [萧县 / Xiao County](entities/XiaoCounty.md) — Pengcheng Battle hinge where Xiang Yu cuts Liu Bang's westward retreat and supply line before the surprise attack.
 - [睢水 / Sui River](entities/SuiRiver.md) — River casualty marker in the Pengcheng Battle pursuit, cited through "睢水为之不流."
 - [泗水 / Si River](entities/SiRiver.md) — Pengcheng/Xuzhou river node linking Qin Shi Huang's Jiuding search to the Pengcheng Battle pursuit geography.
@@ -7876,6 +7881,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Power-Based Alliance Repricing / 实力重估式阵营转向](concepts/PowerBasedAllianceRepricing.md) — Hanji 152 part 2 pattern where Liu Bang's Pengcheng defeat rapidly changes lords' expectations, protection needs, and camp choices.
 - [Ancient Large-Army Command Limits / 古代大兵团指挥极限](concepts/AncientLargeArmyCommandLimits.md) — Pengcheng and Wang Jian frame for why very large ancient armies demand exceptional command, logistics, communication, and coalition discipline.
 - [Cavalry Shock Command Strike / 骑兵奇袭指挥中枢](concepts/CavalryShockCommandStrike.md) — Pengcheng Battle pattern where a smaller mobile force preserves surprise, cuts retreat, and strikes the enemy commander to collapse coalition coordination.
 - [Tactical Delay Risk Transfer / 延时转责式政治化解](concepts/TacticalDelayRiskTransfer.md) — Chen Ping and Zhou Bo frame for converting an irreversible execution order into custody, transport, and delayed sovereign responsibility.

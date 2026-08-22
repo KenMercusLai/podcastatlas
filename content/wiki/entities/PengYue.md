@@ -2,7 +2,7 @@
 title: "彭越 / Peng Yue"
 type: entity
 tags: [person, qin, anti-qin, chu-han, military]
-sources: [zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
+sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than 
 
 [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] keeps Peng Yue in that pressure role. While [[LiuBang|刘邦]] publicly frames his Guanzhong move as restoring the [[HuaiwangAgreement|怀王之约]], Peng Yue's harassment inside Chu-linked territory helps divide [[XiangYu|项羽]]'s attention and gives Liu Bang more time before a direct western response.
 
+[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] shows Peng Yue losing that pressure position after [[PengchengBattle|彭城之战]]. Once Liu Bang's coalition collapses, Peng Yue is described as defeated, stripped of territory, and moving around the river and Henan/Hua County area rather than holding a stable base. His branch therefore shifts from useful harassment to exposed survival after Liu Bang's strength is publicly damaged.
+
 ## Connections
 - [[LiuBang|刘邦]] - leader Peng Yue joins during the Changyi campaign in this source.
 - [[QinErshi|胡亥 / 秦二世]], [[ChenSheng|陈胜]], and [[XiangLiang|项梁]] - crisis and uprising context that lets Peng Yue's local force emerge.
@@ -28,3 +30,4 @@ By the time [[LiuBang|刘邦]] attacks Changyi, Peng Yue has gathered more than 
 - [[zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb|Qinji 135]] - source page for the fisher-to-commander branch.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[TianRong|田荣]], [[TianAn|田安]], and [[XiangYu|项羽]] - Qi-backed pressure against the post-Qin settlement.
 - [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] and [[HuaiwangAgreement|怀王之约]] - continuing pressure that helps delay Xiang Yu's western response to Liu Bang.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[PengchengBattle|彭城之战]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-defeat loss of ground and wandering pressure-point status.

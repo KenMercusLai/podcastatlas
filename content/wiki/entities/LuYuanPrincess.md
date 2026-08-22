@@ -2,7 +2,7 @@
 title: "鲁元公主 / Princess Lu Yuan"
 type: entity
 tags: [person, western-han, chu-han]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
+sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
 last_updated: 2026-08-22
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-22
 
 The source pairs her with [[LiuYing|刘盈]] in the cart-flight account. Liu Bang finds both children while fleeing, tries to carry them away, and then pushes them off under pursuit because he believes the cart is too slow. The page keeps that role source-scoped: Princess Lu Yuan is used here to mark the danger and moral harshness of Liu Bang's escape.
 
+[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] gives the paired rescue its payoff through [[XiahouYing|夏侯婴]]. Xiahou Ying repeatedly brings Princess Lu Yuan and Liu Ying back onto the cart, and the episode treats that act as the reason Liu Ying and [[LuZhi|吕雉]] later especially honor him.
+
 ## Connections
 - [[LiuBang|刘邦]] - father and fleeing commander in the source scene.
 - [[LiuYing|刘盈]] - sibling paired with Princess Lu Yuan in the escape account.
+- [[XiahouYing|夏侯婴]] and [[LuZhi|吕雉]] - rescuer and mother tied to the later gratitude branch.
 - [[PengchengBattle|彭城之战]] and [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]] - battle and command-failure frame behind the collapse.

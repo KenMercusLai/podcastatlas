@@ -2,7 +2,7 @@
 title: "田横 / Tian Heng"
 type: entity
 tags: [person, qi, qin, anti-qin, military]
-sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ The page therefore keeps Tian Heng tied to restored Qi's internal consolidation.
 
 [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] moves Tian Heng from restored-Qi office into active anti-Chu resistance after [[TianRong|田荣]]'s death. He gathers scattered Qi soldiers, installs Tian Rong's son [[TianGuangQiKing|田广]] as king, and holds out around [[JuWarringStates|莒城 / 城阳]]. This renewed Qi center keeps [[XiangYu|项羽]] occupied away from [[Xuzhou|彭城]], creating the opening for [[LiuBang|刘邦]] before [[PengchengBattle|彭城之战]].
 
+[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] gives that Qi resistance a post-Pengcheng settlement turn. Tian Heng defeats the Xiang-backed [[TianJia|田假]], after which Tian Jia flees to Xiang Yu and is killed. Tian Heng then reconciles with Xiang Yu and pacifies the Three Qi area, showing how Xiang Yu's Pengcheng victory changes the bargaining field even for a successful Qi opponent.
+
 ## Connections
 - [[TianDanQinRebel|田儋]] and [[TianRong|田荣]] - Qi kinship and restored-state line.
 - [[QiState|齐国]] - polity in which he becomes general.
 - [[TianJia|田假]], [[TianJiao|田角]], and [[TianJianQiGeneral|田间]] - rival Qi arrangement displaced by Tian Rong.
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - broader restoration and fragmentation context.
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[TianGuangQiKing|田广]], [[JuWarringStates|莒城 / 城阳]], [[XiangYu|项羽]], and [[PengchengBattle|彭城之战]] - renewed Qi resistance that fixes Xiang Yu in the east.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[TianJia|田假]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-Pengcheng defeat of Tian Jia and reconciliation with Xiang Yu.

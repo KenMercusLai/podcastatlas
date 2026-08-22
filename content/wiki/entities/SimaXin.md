@@ -2,7 +2,7 @@
 title: "司马欣 / Sima Xin"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ His advice reframes Zhang Han's military problem as a political survival trap. I
 
 [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] gives Sima Xin's Sai kingship its collapse point. After [[ZhangHanQin|章邯]] loses at [[ChenCang|陈仓]] and Haozhi and is forced back toward Feiqiu, Sima Xin recognizes that the Three Qin position can no longer hold and surrenders to [[LiuBang|刘邦]].
 
+[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] shows that surrender as unstable after the [[PengchengBattle|彭城之战]]. Once Liu Bang is badly defeated, Sima Xin and [[DongYiQin|董翳]] flee or break away again and return to [[XiangYu|项羽]]. In this source, Sima Xin becomes a clean case of [[PowerBasedAllianceRepricing|实力重估式阵营转向]]: the weak Three Qin king first submits when Han Xin breaks the western position, then shifts back when Pengcheng makes Liu Bang look unsafe.
+
 ## Connections
 - [[QinErshi|胡亥 / 秦二世]] - ruler who sends him to support the campaign.
 - [[ZhangHanQin|章邯]] and [[DongYiQin|董义]] - Qin counteroffensive figures named in the same passage.
@@ -33,3 +35,4 @@ His advice reframes Zhang Han's military problem as a political survival trap. I
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[ZhangHanQin|章邯]], [[DongYiQin|董翳]], and [[XinanMassacre|新安坑降]] - post-surrender command and survival of the senior leaders.
 - [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[LiuBang|刘邦]], and [[YuefaSanzhang|约法三章]] - Sai kingship as a weak point in Han Xin's Three Qin diagnosis.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[ThreeQinContainment|三秦压制]], [[ChenCang|陈仓]], and [[DongYiQin|董翳]] - surrender after Zhang Han's defeats break the containment layer.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[PengchengBattle|彭城之战]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - return toward Xiang Yu after Liu Bang's defeat.

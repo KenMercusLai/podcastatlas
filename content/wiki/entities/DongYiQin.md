@@ -2,7 +2,7 @@
 title: "董义 / 董翳 / Dong Yi (Qin)"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ Like [[SimaXin|司马欣]], Dong Yi is not developed as an independent decision-
 
 [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] completes that weak-title arc. After [[ZhangHanQin|章邯]] is beaten at [[ChenCang|陈仓]] and Haozhi, Dong Yi / 董翳 surrenders together with [[SimaXin|司马欣]], showing that the Three Qin arrangement cannot survive once Zhang Han's field defense collapses.
 
+[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] shows the next turn after [[PengchengBattle|彭城之战]]. Dong Yi / 董翳 and Sima Xin again leave Liu Bang's side and submit to [[XiangYu|项羽]], making the earlier surrender look like a power-contingent choice rather than a settled allegiance.
+
 ## Connections
 - [[SimaXin|司马欣]] - co-named Qin assistant in the episode.
 - [[ZhangHanQin|章邯]] - campaign commander he is sent to support.
@@ -28,3 +30,4 @@ Like [[SimaXin|司马欣]], Dong Yi is not developed as an independent decision-
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], [[ZhangHanQin|章邯]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - spared senior surrendered leader in the Xinan branch.
 - [[zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai|Hanji 147]], [[HanzhongDui|汉中对]], [[LiuBang|刘邦]], and [[GuanzhongRegion|关中]] - Di kingship as part of Han Xin's weak-containment diagnosis.
 - [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[ThreeQinContainment|三秦压制]], [[SimaXin|司马欣]], and [[ChenCang|陈仓]] - surrender after Zhang Han's defeats.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[PengchengBattle|彭城之战]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - return toward Chu after Liu Bang's defeat.

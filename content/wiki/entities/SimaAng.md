@@ -2,7 +2,7 @@
 title: "司马卬 / Sima Ang"
 type: entity
 tags: [person, general, zhao, chu-han, guanzhong]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ Sima Ang therefore marks the competitive side of anti-Qin coalition warfare. Eve
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] gives the end of that Yin-king position. After [[WeiBao|魏豹]] submits, Liu Bang advances into Henei, captures Sima Ang, and organizes the new territory as [[HeneiCommandery|河内郡]]. Sima Ang therefore becomes another title-holder whose Xiang Yu settlement position is converted into Liu Bang-side commandery control.
 
+[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] adds a source-scoped later status note by saying the Yin king Sima Ang has died in battle after Pengcheng's reversal. The page preserves that as a later endpoint or compressed recap alongside Hanji 149 part 2's earlier capture-and-commandery conversion, rather than treating it as a resolved chronology on its own.
+
 ## Connections
 - [[LiuBang|刘邦]] - commander who blocks his southward move.
 - [[GuanzhongRegion|关中]] and [[HuaiwangAgreement|怀王之约]] - target and reward rule that make the route competitive.
@@ -28,3 +30,4 @@ Sima Ang therefore marks the competitive side of anti-Qin coalition warfare. Eve
 - [[ZhangLiang|张良]] - strategist active on Liu Bang's route in the same episode.
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]], [[ChenPing|陈平]], and [[XiangYu|项羽]] - Sima Ang's shift creating exposure for Chen Ping.
 - [[LiuBang|刘邦]], [[WeiBao|魏豹]], [[HeneiCommandery|河内郡]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - capture and commandery conversion in Hanji 149 part 2.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] and [[PengchengBattle|彭城之战]] - source-scoped note that Sima Ang is dead after the post-Pengcheng reversal.
