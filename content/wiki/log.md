@@ -9806,3 +9806,11 @@ Added source page for Qinji 135 main chronology: Zhang Er and Chen Yu's post-Jul
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after identity validation and health pre-flight passed. Health scanned 12,821 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while current lint scanned 12,821 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿
+
+Added source page for Qinji 136: Li Shiqi's completed meeting with Liu Bang, the foot-washing rebuke, the Chenliu plan and morally compromised inside action, Liu Bang's Chenliu provisioning and Li Shang appointment, failed Kaifeng pressure, Yang Xiong's defeat and execution, the Yingchuan massacre, Sima Ang route competition, Zhang Liang's rear-threat warning at Wan, Chen Hui's Nanyang surrender proposal, and Zhang Han's post-Julu pressure under Qin Er Shi's rebuke. Created Chenliu, Wan County, Chen Hui (Nanyang), Li Shang, Yang Xiong (Qin General), Sima Ang, and Yingchuan Commandery; updated overview, index, Li Shiqi, Liu Bang, Zhang Liang, Zhang Han, Qin Er Shi, Nanyang Commandery, Kaifeng, Low-Status Strategic Persuasion, Post-Battle Terror Signaling, Political Surrender Cascade, Occupation Pacification Strategy, Non-Killing Unification, and Huaiwang Agreement. No settled contradiction found; normalized ASR variants 利益机/丽商/陈辉/杨雄/张涵 to the canonical historical pages while keeping the caution source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

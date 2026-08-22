@@ -2,7 +2,7 @@
 title: "Political Surrender Cascade / 招降示范级联"
 type: concept
 tags: [statecraft, rebellion, signaling, military]
-sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-22
 ---
 
@@ -14,9 +14,14 @@ The episode's concrete mechanism is visible reward. Wu Chen sends Kuai Che with 
 
 This is not the same as battlefield victory. It depends on social proof, fear of isolation, and credible promises under conditions where Qin local authority is already weakening. In this source, the same mechanism helps Wu Chen expand fast enough that his base can later become a separate Zhao-centered interest inside [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]].
 
+[[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] adds two Liu Bang variants. At [[Chenliu|陈留]], surrender is induced through coercive display after [[LiShiqi|郦食其]] kills the local head, so the cascade begins with terror and insider betrayal. At [[WanCounty|宛县]], [[ChenHuiNanyang|陈恢]] persuades Liu Bang to reward surrender, preserve the governor, and keep moving, making nearby cities more willing to attach without further devastation.
+
+The two variants show why the cascade depends on credibility, not just fear. A severed-head display may open one city, but the Wan settlement makes surrender look survivable and even honorable, which is more useful for Liu Bang's longer [[GuanzhongRegion|关中]] route.
+
 ## Connections
 - [[KuaiChe|蒯彻]] and [[WuChen|武臣]] - adviser and commander in the source.
 - [[YanState|燕国]] and [[ZhaoState|赵国]] - old-state territories affected by the cascade.
 - [[ZhangChuRegime|张楚政权]] and [[DazexiangUprising|大泽乡起义]] - rebellion context.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - later risk when fast expansion becomes separate-state power.
+- [[Chenliu|陈留]], [[LiShiqi|郦食其]], [[WanCounty|宛县]], [[ChenHuiNanyang|陈恢]], and [[LiuBang|刘邦]] - Qinji 136 coercive and rewarded-surrender variants.
 - [[HezongAlliance|合纵]] and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - adjacent political-scaling concepts.

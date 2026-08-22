@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6550
+wiki_total_pages: 6557
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "YangZhu"
     title: "杨朱 / Yang Zhu"
     url: "/wiki/entities/yangzhu/"
+  - key: "YangXiongQinGeneral"
+    title: "杨熊 / Yang Xiong (Qin General)"
+    url: "/wiki/entities/yangxiongqingeneral/"
   - key: "YangLu"
     title: "杨璐 / Yang Lu"
     url: "/wiki/entities/yanglu/"
@@ -557,6 +560,9 @@ wiki_pages:
   - key: "Yubai"
     title: "雨白 / Yubai"
     url: "/wiki/entities/yubai/"
+  - key: "YingchuanCommandery"
+    title: "颍川郡 / Yingchuan Commandery"
+    url: "/wiki/entities/yingchuancommandery/"
   - key: "YanJuZhao"
     title: "颜聚 / Yan Ju (Zhao)"
     url: "/wiki/entities/yanjuzhao/"

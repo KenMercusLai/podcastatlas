@@ -2,7 +2,7 @@
 title: "Occupation Pacification Strategy / 占领区怀柔治理"
 type: concept
 tags: [statecraft, military-command, occupation, legitimacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
+sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 
 [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] returns to the same cultural-governance version after Lu's sharper collapse. Chu occupies Lu and exiles its ruler, while Xunzi's second Lanling tenure is credited with prosperity through scholar-administration. The source therefore makes occupation pacification span both active conquest and the quieter problem of making absorbed territory governable after the old state's formal survival becomes nominal.
 
+[[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] adds a pre-occupation surrender version through [[LiuBang|刘邦]] at [[WanCounty|宛县]]. After [[ZhangLiang|张良]] warns against leaving Wan behind, [[ChenHuiNanyang|陈恢]] persuades Liu Bang to reward surrender and preserve local order rather than storm or bypass the city. The episode explicitly frames this as a change in Liu Bang's view of Qin people: they are no longer only enemies to punish, but future subjects to incorporate.
+
 ## Key Claims
 - A conquered territory can be militarily taken but politically unsecured.
 - Harsh assault on the last holdouts can destabilize already captured places.
@@ -28,6 +30,7 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 - Pacification can be undone quickly when a successor commander substitutes humiliation and terror for tolerable control.
 - Cultural authority can be a pacification tool when newly occupied territory has a strong inherited scholarly or ritual identity.
 - Qinji 99 part 4 adds that this cultural pacification can continue after the conquered state's formal survival has become only nominal.
+- Qinji 136 adds that pacification can begin before formal occupation, when surrender terms make future rule more credible than continued revenge.
 
 ## Connections
 - [[LeYi|乐毅]], [[YanState|燕国]], and [[QiState|齐国]] - commander, occupying power, and conquered territory.
@@ -38,3 +41,4 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 - [[QiJie|骑劫]], [[AtrocityBackfireMobilization|暴行反噬式动员]], and [[FireOxNightRaid|火牛阵夜袭]] - Zhouji 79 reversal of pacification into occupation collapse.
 - [[Chunshenjun|黄歇 / 春申君]], [[Xunzi|荀子]], [[LanlingWarringStates|兰陵 / Lanling]], [[ChuState|楚国]], and [[LuState|鲁国]] - Qinji 99 part 2 scholar appointment in a newly held cultural territory.
 - [[ConfucianIdealGovernance|儒家理想治理]] and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Qinji 99 part 4 Xunzi's second Lanling tenure as post-conquest administrative legitimacy.
+- [[LiuBang|刘邦]], [[WanCounty|宛县]], [[NanyangCommandery|南阳郡]], [[ChenHuiNanyang|陈恢]], and [[PoliticalSurrenderCascade|招降示范级联]] - Qinji 136 rewarded surrender as pacification before Guanzhong.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿](sources/zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o.md) — 芮淇讲透资治通鉴 episode completing Li Shiqi's meeting with Liu Bang, taking Chenliu, the Yingchuan massacre, and the Wan/Nanyang surrender turn toward pacifying Qin people.
 - [《资治通鉴·秦纪》135｜命运太神奇：从渔夫做到王](sources/zizhi-tongjian-qinji-135-mingyun-tai-shenqi-cong-yufu-zuodao-wang-lrh1lhuxxikx4m6prpi6qm0jcafb.md) — 芮淇讲透资治通鉴 episode on Zhang Er and Chen Yu's post-Julu rupture, Peng Yue's fisher-to-disciplined-commander rise, and Li Shiqi's pending attempt to reach Liu Bang.
 - [《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运”](sources/zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu.md) — 芮淇讲透资治通鉴番外 episode on Zeng Guofan, the attributed Bingjian person-reading tradition, spirit-bone physiognomy, affect and bearing, and speech order as a practical talent signal.
 - [《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯](sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s.md) — 芮淇讲透资治通鉴番外 episode completing Xu Fu's Liu Bang recognition, Bao Ji prophecy payoff, Deng Tong and Zhou Yafu starvation predictions, and the source-scoped 相术 method discussion.
@@ -1227,8 +1228,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陈留 / Chenliu](entities/Chenliu.md) — Qinji 136 route hub where Li Shiqi's risky inside action gives Liu Bang grain, weapons, recruits, and a stronger westward base.
+- [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose negotiated surrender turns Liu Bang from rear-risk assault toward rewarded pacification.
+- [陈恢 / Chen Hui (Nanyang)](entities/ChenHuiNanyang.md) — Nanyang retainer who persuades Liu Bang to accept Wan's surrender by appealing to his Guanzhong deadline under the Huaiwang agreement.
+- [郦商 / Li Shang](entities/LiShang.md) — Li Shiqi's younger brother appointed general over many Chenliu troops after Liu Bang takes the city.
+- [杨熊 / Yang Xiong (Qin General)](entities/YangXiongQinGeneral.md) — Qin general defeated by Liu Bang and executed by Qin Er Shi, disambiguated from the later author Yang Xiong.
+- [司马卬 / Sima Ang](entities/SimaAng.md) — Zhao-side commander whose attempted move toward Guanzhong is blocked by Liu Bang as route and credit competition.
+- [颍川郡 / Yingchuan Commandery](entities/YingchuanCommandery.md) — Qinji 136 massacre site that complicates Liu Bang's later pacification profile.
 - [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose strict deadline and execution of the last latecomer turn a loose band into a disciplined force before he joins Liu Bang.
-- [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper and pending low-status persuader trying to reach Liu Bang despite Liu Bang's anti-scholar reputation.
+- [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose rebuke of Liu Bang's rude reception becomes Chenliu strategy, reward, and ethically compromised retainer service.
 - [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, tied to doubtful Bingjian attribution and language-based personnel judgment.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
 - [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
@@ -7803,7 +7811,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Duze Extraction Politics / 督责式压榨政治](concepts/DuzeExtractionPolitics.md) — Late-Qin governance pattern where Li Si's self-protective memorial validates Hu Hai's pressure, extraction, and killing incentives.
 - [Status Insult Defection Cascade / 名分羞辱触发叛变](concepts/StatusInsultDefectionCascade.md) — Pattern where a ritual/status slight activates a preexisting defection option and turns personal humiliation into regime collapse.
 - [Wartime Command Decapitation / 战时统帅斩首](concepts/WartimeCommandDecapitation.md) — Pattern where crisis, hardship, or authorization claims make killing a commander appear as urgent operational correction.
-- [Low-Status Strategic Persuasion / 低位者战略说服](concepts/LowStatusStrategicPersuasion.md) — Qinji 128-8 pattern where a low-status envoy wins a state decision by identifying the other side's missed incentive risk.
+- [Low-Status Strategic Persuasion / 低位者战略说服](concepts/LowStatusStrategicPersuasion.md) — Pattern where a low-status speaker wins access and influence by naming the stronger actor's missed risk, now completed by Li Shiqi's rebuke and Chenliu plan.
 - [沛县起义动员 / Pei County Uprising Mobilization](concepts/PeiCountyUprisingMobilization.md) — Liu Bang's route from corvee-escort fugitive to Pei Gong through Fan Kuai, Xiao He, Cao Shen, local elders, and county self-preservation.
 - [会稽郡守府夺权 / Kuaiji Commandery Coup](concepts/KuaijiCommanderyCoup.md) — Xiang Liang and Xiang Yu kill Yin Tong, seize the commandery seal, and convert Qin commandery resources into rebel military force.
 - [造势型政治表演 / Charismatic Political Performance](concepts/CharismaticPoliticalPerformance.md) — Liu Bang's "贺钱一万" pattern, where performed status creates social reality before money or office exists.
@@ -7955,7 +7963,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mao Sui Self-Recommendation / 毛遂自荐](concepts/MaoSuiSelfRecommendation.md) — Idiom and talent-visibility pattern where an overlooked retainer self-nominates and then proves useful under a high-risk diplomatic crisis.
 - [Death-Party Loyalty vs Official Duty / 死党之义与守职奉上](concepts/DeathPartyLoyalty.md) — Xun Yue critique of private friendship or faction loyalty becoming stronger than office, ruler, and public responsibility.
 - [Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突](concepts/AristocraticFriendshipStateConflict.md) — Conflict where noble friendship and guest protection collide with revenge, ruler command, state law, and national survival.
-- [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence, monuments, and released survivors are used to damage the defeated state's will to resist.
+- [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence and massacre memory are used to damage resistance, now including Liu Bang's Yingchuan terror before the Wan surrender turn.
 - [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Su Dai pattern of redirecting policy by turning Bai Qi's possible victory into Fan Ju's personal rank threat.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
@@ -8063,7 +8071,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — Governance failure where humiliation turns into war aim, replacing strategic recovery with emotionally driven escalation.
 - [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — Mencian leadership lesson that the decisive test after a mistake is visible correction rather than regret, excuses, or face-saving.
 - [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom stories against period fit, evidence, and reputation effects, from "二百五" to Ye Gong Hao Long.
-- [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian claim that durable unification comes from a ruler who does not love killing and can attract people exhausted by violence.
+- [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian durable-rule claim now kept explicitly comparative: Liu Bang can massacre at Yingchuan yet gains advantage by shifting to pacification at Wan.
 - [Coalition Self-Preservation Failure / 联盟自保失灵](concepts/CoalitionSelfPreservationFailure.md) — Alliance failure mode where states share an enemy but each preserves its own forces and waits for another ally to pay the first cost.
 - [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.
 - [Retainer Risk Conversion / 门客风险转化](concepts/RetainerRiskConversion.md) — Mengchang Jun pattern where a household-scandal retainer is separated with dignity and turned into outside diplomatic leverage.

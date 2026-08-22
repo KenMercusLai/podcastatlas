@@ -1,0 +1,22 @@
+---
+title: "司马卬 / Sima Ang"
+type: entity
+tags: [person, general, zhao, chu-han, guanzhong]
+sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+last_updated: 2026-08-22
+---
+
+# 司马卬 / Sima Ang
+
+司马卬 / Sima Ang enters the wiki through [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] as a Zhao-side commander attempting to move south across the Yellow River toward [[GuanzhongRegion|关中]]. The episode treats his movement as a competitive threat to [[LiuBang|刘邦]]'s westward mission.
+
+Liu Bang responds by attacking around Pingyin and cutting the crossing route. In the source's interpretation, the point is not only operational security but credit control under [[HuaiwangAgreement|怀王之约]]: if another commander enters Guanzhong first, Liu Bang's promised reward route is endangered.
+
+Sima Ang therefore marks the competitive side of anti-Qin coalition warfare. Even while multiple forces oppose Qin, their routes and prizes can conflict, keeping [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] active inside the shared campaign.
+
+## Connections
+- [[LiuBang|刘邦]] - commander who blocks his southward move.
+- [[GuanzhongRegion|关中]] and [[HuaiwangAgreement|怀王之约]] - target and reward rule that make the route competitive.
+- [[ZhaoState|赵国]] - factional background in the episode's description.
+- [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - wider pattern of allied competition.
+- [[ZhangLiang|张良]] - strategist active on Liu Bang's route in the same episode.

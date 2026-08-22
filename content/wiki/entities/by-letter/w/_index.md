@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6550
+wiki_total_pages: 6557
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "WahahaGroup"
     title: "娃哈哈 / Wahaha Group"
     url: "/wiki/entities/wahahagroup/"
+  - key: "WanCounty"
+    title: "宛县 / Wan County"
+    url: "/wiki/entities/wancounty/"
   - key: "WuJunIndieGameCreator"
     title: "巫君 / Wu Jun (indie game creator)"
     url: "/wiki/entities/wujunindiegamecreator/"

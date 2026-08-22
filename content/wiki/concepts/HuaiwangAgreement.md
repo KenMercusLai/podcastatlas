@@ -2,7 +2,7 @@
 title: "Huaiwang Agreement / 怀王之约"
 type: concept
 tags: [legitimacy, rebellion, qin, chu-han, coalition, reward]
-sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
+sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 
 [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] shows the command risk inside the same allocation. The westward reward race continues in the background through [[LiuBang|刘邦]], but the Zhao-rescue side stalls when [[SongYi|宋义]] holds the army at [[AnyangQinRebellion|安阳]]. Xiang Yu's killing of Song Yi shows that a public reward rule can allocate missions without guaranteeing obedience inside a high-pressure army.
 
+[[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] shows the agreement shaping local decisions on Liu Bang's route. [[ChenHuiNanyang|陈恢]] explicitly uses Liu Bang's need to reach [[GuanzhongRegion|关中]] first as the reason he should not waste time storming [[WanCounty|宛县]]. [[SimaAng|司马卬]]'s attempted move toward Guanzhong also shows the competitive side of the promise: Liu Bang has reason to block other commanders from entering first.
+
 ## Key Claims
 - A coalition promise can coordinate ambition by making reward rules public before victory is complete.
 - The agreement converts anti-Qin action from inherited-state restoration into performance-based kingship.
@@ -25,6 +27,8 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 - The rule creates an incentive race toward Guanzhong while still leaving the Zhao rescue crisis to be handled by the Chu main force.
 - The agreement later strengthens Liu Bang's claim because entering Guanzhong first is attached to a prior political promise.
 - Mission allocation does not by itself solve command legitimacy; the Julu relief army can still split over timing, morale, and personal authority.
+- The agreement also changes siege bargaining: local actors can persuade Liu Bang by pointing to his deadline and reward incentives.
+- The agreement intensifies route competition among anti-Qin commanders, not only between Liu Bang and Xiang Yu.
 
 ## Connections
 - [[MiXin|芈心 / 楚怀王]] - ruler whose court issues the agreement.
@@ -33,3 +37,4 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 - [[Julu|巨鹿]], [[ZhaoXie|赵歇]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[WangLiQin|王离]] - crisis that pulls the Chu main army north.
 - [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]], [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], and [[MeritBasedRewardPunishment|因功赏罚]] - adjacent legitimacy and reward concepts.
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], [[DelayedRescueStatecraft|晚救权谋]], and [[WartimeCommandDecapitation|战时统帅斩首]] - command breakdown on the rescue-Zhao side of the agreement.
+- [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]], [[WanCounty|宛县]], [[ChenHuiNanyang|陈恢]], and [[SimaAng|司马卬]] - local bargaining and route competition on Liu Bang's westward side.
