@@ -2,7 +2,7 @@
 title: "函谷关 / Hangu Pass"
 type: entity
 tags: [place, pass, qin-state, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]
+sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The episode immediately makes that claim a source-critical problem. [[ZizhiTongj
 
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] adds a late-Qin prisoner-security version. As [[XiangYu|项羽]] leads the anti-Qin coalition west with surrendered Qin troops, the pass becomes the imagined point where those troops might face Qin defenders, rebel, or rejoin Qin. That fear is part of the episode's rationale for [[XinanMassacre|新安坑降]] before the coalition reaches the Qin heartland.
 
+[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] changes the pass problem from surrendered-Qin security to Liu Bang/Xiang Yu rivalry. [[LiuBang|刘邦]] seals the Guanzhong entry route after reaching the region first, and Xiang Yu sends [[YingBu|英布]] and others to break through. The pass therefore becomes the material boundary where the [[HuaiwangAgreement|怀王之约]] reward race turns into open coercion among former anti-Qin allies.
+
 ## Connections
 - [[QinState|秦国]] - state whose eastward military movement is being described.
 - [[SuQin|苏秦]] and [[HezongAlliance|合纵]] - strategist and alliance whose claimed success is measured by Qin not crossing the pass.
@@ -28,3 +30,4 @@ The episode immediately makes that claim a source-critical problem. [[ZizhiTongj
 - [[ChuHuaiwang|楚怀王]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 five-state attack and withdrawal branch.
 - [[ZhaoWulingwang|赵武灵王]], [[QinZhaoxiangwang|秦昭襄王]], [[Xianyang|咸阳]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Zhouji 61 bypass strategy after disguised reconnaissance.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], [[ZhangHanQin|章邯]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - feared mutiny or reattachment point for surrendered Qin troops.
+- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[LiuBang|刘邦]], [[YingBu|英布]], [[GuanzhongRegion|关中]], and [[HongmenYan|鸿门宴]] - closed entry route and forced breakthrough before the banquet crisis.

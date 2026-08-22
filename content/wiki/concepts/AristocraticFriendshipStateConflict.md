@@ -2,8 +2,8 @@
 title: "Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突"
 type: concept
 tags: [ethics, aristocracy, statecraft, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]
+last_updated: 2026-08-22
 ---
 
 # Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突
@@ -18,6 +18,8 @@ The concept does not say one side is always right. It records why the episode re
 
 The same source adds reception boundaries. [[LiBai|李白]] can aestheticize Yu Qing as heroic, while [[XunYue|荀悦]] criticizes the pattern as [[DeathPartyLoyalty|死党之义与守职奉上]] because it lets private loyalty outrank office and ruler. The concept therefore now includes both the internal honor logic and the later state-order objection.
 
+[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] adds a Chu-Han transition version. [[LiuBang|刘邦]] and [[XiangYu|项羽]] are former anti-Qin comrades, but the first-entry [[GuanzhongRegion|关中]] reward makes friendship or battle partnership secondary to state-making competition. [[XiangBo|项伯]] then appears as a personal and kinship channel inside the attack plan, showing how private ties can disrupt a military decision before [[HongmenYan|鸿门宴]].
+
 ## Key Claims
 - In aristocratic politics, friendship and guest protection are public reputation systems, not only private feelings.
 - A noble code can resist state coercion, but it can also force one state to bear another person's private danger.
@@ -25,6 +27,7 @@ The same source adds reception boundaries. [[LiBai|李白]] can aestheticize Yu 
 - Fan Ju's understandable revenge does not automatically make every protector of Wei Qi morally corrupt.
 - The conflict overlaps with [[AristocraticPoliticalAsylum|贵族政治避难]], but its emphasis is ethical collision rather than exile mechanics alone.
 - Part 4 adds that the conflict is also a reception problem: the same act can be read as heroic friendship, dangerous private clique loyalty, or a symptom of social transition.
+- Hanji 140 part 1 adds that old alliance and kinship ties can remain operational even after the state reward structure turns former comrades into rivals.
 
 ## Connections
 - [[FanJu|范雎]], [[WeiQiWarringStates|魏齐]], and [[PersonalRevengeThroughStatePower|以国力行私仇]] - revenge side of the conflict.
@@ -33,3 +36,4 @@ The same source adds reception boundaries. [[LiBai|李白]] can aestheticize Yu 
 - [[AristocraticPoliticalAsylum|贵族政治避难]], [[WarringStatesRetainerPatronage|战国养士]], and [[WarringStatesFourLords|战国四公子]] - social structures that make the friendship code politically powerful.
 - [[AristocraticHonorOverLife|贵族名誉高于生命]] - honor consequence visible in Wei Qi's suicide.
 - [[XunYue|荀悦]], [[LiBai|李白]], [[WangAnshi|王安石]], [[WangShizhen|王世贞]], [[RetainerReciprocityEthic|士为知己者死]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 reception, reciprocity, and state-order critique.
+- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[LiuBang|刘邦]], [[XiangYu|项羽]], [[XiangBo|项伯]], [[ZhangLiang|张良]], and [[HongmenYan|鸿门宴]] - old alliance and personal channels inside the Guanzhong rivalry.

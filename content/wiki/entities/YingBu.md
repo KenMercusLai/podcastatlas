@@ -2,7 +2,7 @@
 title: "英布 / 黥布 / Ying Bu"
 type: entity
 tags: [person, anti-qin, rebellion, qin-han, military]
-sources: [zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ In the episode's reading, Ying Bu's corridor attack is what makes the later [[Br
 
 [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] gives Ying Bu a darker post-Julu role. When [[XiangYu|项羽]] worries that the surrendered Qin troops may rebel near [[HanguPass|函谷关]], he discusses the problem with Ying Bu and [[PuGeneral|蒲将军]]. The episode says Ying Bu and Pu General then lead the night attack that kills the surrendered Qin soldiers at [[XinanMassacre|新安坑降]].
 
+[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] keeps Ying Bu as Xiang Yu's force-execution instrument. After [[LiuBang|刘邦]] seals the [[GuanzhongRegion|关中]] entry route, Xiang Yu orders Ying Bu and others to attack the pass, moving Ying Bu from the Xinan surrendered-troop killing into the coercive opening of the [[HongmenYan|鸿门宴]] crisis.
+
 ## Connections
 - [[Lishan|骊山]] and [[QinState|秦国]] - punishment and convict-labor background.
 - [[LuChenQinRebel|吕臣]], [[ChenSheng|陈胜]], and [[ZhangChuRegime|张楚政权]] - Chu-side recovery field in which Ying Bu appears.
@@ -31,5 +33,6 @@ In the episode's reading, Ying Bu's corridor attack is what makes the later [[Br
 - [[XiangLiang|项梁]] - larger anti-Qin commander Ying Bu joins in Qinji 130-2.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[PuGeneral|蒲将军]], [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - corridor-breaking action before Xiang Yu's main attack.
 - [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[PuGeneral|蒲将军]], [[XinanMassacre|新安坑降]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - commander involved in killing surrendered Qin troops.
+- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[HanguPass|函谷关]], [[GuanzhongRegion|关中]], and [[HongmenYan|鸿门宴]] - pass attack after Liu Bang blocks the coalition.
 - [[LiuBang|刘邦]] and [[WesternHanDynasty|Western Han]] - later horizon noted elsewhere in the wiki through Liu Bang's post-Ying-Bu tomb-rite route.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], [[LishanConvictMobilization|骊山刑徒应急动员]], and [[AuspiciousOmenPolitics|祥瑞政治]] - related military-manpower and fate-narrative frames.

@@ -9846,3 +9846,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）
+
+Added source page for Hanji 140 part 1: Liu Bang's first-entry Guanzhong advantage and pass closure, Xiang Yu's angry forced breakthrough and attack decision, Cao Wushang's leak, Fan Zeng's recognition of Liu Bang's dangerous restraint and failure to supply a legitimate pretext, and Xiang Bo's entry into the Zhang Liang warning channel. Created Xiang Bo; updated overview, index, Liu Bang, Xiang Yu, Fan Zeng, Cao Wushang, Zhang Liang, Hongmen Yan, Guanzhong, Hangu Pass, Bashang, Ying Bu, Huaiwang Agreement, Aristocratic Friendship vs State Order, Anger-Driven War Decision, Moralized War Pretext, and Moral Face Under Power Competition. No settled contradiction found; kept the transcript cutoff around Xiang Bo/Zhang Liang source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
