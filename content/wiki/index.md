@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》162-1｜他替刘邦去死 如今成了郑州的守护神](sources/zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm.md) — 芮淇讲透资治通鉴 episode on Ji Xin's substitutional death at Xingyang, Liu Bang's escape, Zhou Ke and Cong Gong executing Wei Bao, Yuan Sheng's Wuguan diversion, and Peng Yue's rear logistics pressure.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v.md) — 芮淇讲透资治通鉴 episode closing Hanji 161's quantum-fate detour through Yuan Liaofan, 《了凡四训》, Zeng Guofan, Inamori Kazuo, cognition, heart-field ethics, and virtue practice.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd.md) — 芮淇讲透资治通鉴 episode extending Hanji 161's quantum metaphor into meditation, inner stability, family energy, Buddhist/Daoist classics, Tianren Ganying, high-dimensional consciousness, and Tesla-style frequency language.
 - [《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）](sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv.md) — 芮淇讲透资治通鉴 episode extending Hanji 161's quantum metaphor into gratitude, resentment, speech, anger, betrayal, romance, wealth attraction, and reaction choice.
@@ -1275,6 +1276,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郑州 / Zhengzhou](entities/Zhengzhou.md) — Present-day city frame used by Hanji 162-1 to connect Ji Xin's Xingyang sacrifice with later city-god memory.
+- [成皋 / Chenggao](entities/Chenggao.md) — Chu-Han central-front position paired with Xingyang and relieved by Yuan Sheng's southward diversion plan.
+- [袁先生 / Yuan Sheng (Chu-Han)](entities/YuanShengChuHan.md) — Adviser in Hanji 162-1 who tells Liu Bang to draw Xiang Yu south through Wuguan, hold fortified positions, and buy time for Xingyang, Chenggao, and Han Xin.
+- [枞公 / Cong Gong](entities/CongGong.md) — Liu Bang-side garrison figure who joins Zhou Ke in executing Wei Bao after Liu Bang escapes Xingyang.
+- [周苛 / Zhou Ke](entities/ZhouKe.md) — Liu Bang-side 御史大夫 left to hold Xingyang, who executes Wei Bao with Cong Gong to harden garrison commitment.
 - [稻盛和夫 / Inamori Kazuo](entities/InamoriKazuo.md) — Business-side reception case in Hanji 161 part 4 for applying 《了凡四训》-style self-cultivation to enterprise management.
 - [《了凡四训》 / Liaofan Sixun](entities/LiaofanSixun.md) — Yuan Liaofan fate-change text named by Hanji 161 part 4, clarifying the earlier source-scoped 《命自我利》 title branch.
 - [云谷禅师 / Yungu Chanshi](entities/YunguChanshi.md) — Buddhist teacher in Hanji 161 part 4 who redirects Yuan Liaofan from passive fate acceptance toward intention, virtue, and practice.
@@ -3669,7 +3675,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
 - [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically and then overreaches through Xiang Zhuang.
 - [樊哙 / Fan Kuai](entities/FanKuai.md) — Hongmen Banquet actor whose apparent blunt courage works as status-recognizing rhetoric.
-- [纪信 / Ji Xin](entities/JiXin.md) — Liu Bang-side trusted attendant who accompanies the Hongmen trip and waits outside Xiang Yu's tent.
+- [纪信 / Ji Xin](entities/JiXin.md) — Liu Bang-side trusted attendant who later impersonates Liu Bang at Xingyang, dies under Xiang Yu, and becomes tied to Zhengzhou city-god memory.
 - [金强 / Jin Qiang](entities/JinQiang.md) — Liu Bang-side trusted attendant preserved under the source's 金强 transcript form in the Hongmen escort.
 - [司马迁 / Sima Qian](entities/SimaQian.md) — Historian used as both Hongmen narrative source and model for experience-cultivated prose force.
 - [《教一只猞猁忘记动物园》](entities/JiaoYiZhiSheliWangjiDongwuyuan.md) — 袁掌 nonfiction book using 天线宝宝's rescue, rehabilitation, release, and monitoring to explain wildlife care and public conservation.
@@ -7932,6 +7938,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Substitutional Escape Sacrifice / 代身突围牺牲](concepts/SubstitutionalEscapeSacrifice.md) — Hanji 162-1 pattern where a retainer impersonates the ruler to draw enemy attention, save the leader, and accept lethal consequence.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
 - [Cognition As Fortune Root / 认知通达决定福禄](concepts/CognitionAsFortuneRoot.md) — Hanji 161 part 4 claim that clear cognition and changed worldview matter more for fortune than feng shui, astrology, fortune-telling, ornaments, or cosmetic techniques.
 - [Fate Change Through Virtue Practice / 积善修心式改命](concepts/FateChangeThroughVirtuePractice.md) — Hanji 161 part 4 frame where inherited命数 can be altered through intention,修心,发愿, accumulated good deeds, and embodied practice.
@@ -7955,7 +7962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
 - [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.
 - [Wartime Agricultural Labor Collapse / 战争抽空农业劳动力](concepts/WartimeAgriculturalLaborCollapse.md) — Famine mechanism where mass warfare removes farmers from fields, leaving food output and prices to break down.
-- [Xingyang Standoff / 荥阳相持](concepts/XingyangStandoff.md) — Post-Pengcheng Chu-Han holding phase where Liu Bang stabilizes around Xingyang through reinforcement, cavalry repair, and Aocang-linked logistics.
+- [Xingyang Standoff / 荥阳相持](concepts/XingyangStandoff.md) — Post-Pengcheng Chu-Han holding phase where Liu Bang survives through reinforcement, cavalry repair, Aocang-linked logistics, counterintelligence, Ji Xin's sacrifice, and diversion strategy.
 - [Han Cavalry Formation / 汉军骑兵建设](concepts/HanCavalryFormation.md) — Liu Bang's post-Pengcheng mounted-force response using Guan Ying's command and former Qin cavalry specialists Li Bi and Luo Jia.
 - [Xiayi Plan / 下邑画策](concepts/XiayiPlan.md) — Zhang Liang's post-Pengcheng strategic redesign using Ying Bu, Peng Yue, Han Xin, and reward promises to rebuild Liu Bang's anti-Xiang field.
 - [Power-Based Alliance Repricing / 实力重估式阵营转向](concepts/PowerBasedAllianceRepricing.md) — Hanji 152 part 2 pattern where Liu Bang's Pengcheng defeat rapidly changes lords' expectations, protection needs, and camp choices.

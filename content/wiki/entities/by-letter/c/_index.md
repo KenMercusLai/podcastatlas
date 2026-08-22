@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6653
+wiki_total_pages: 6658
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1163,6 +1163,9 @@ wiki_pages:
   - key: "ChangzhouIndustrialVocationalTechnicalCollege"
     title: "常州工业职业技术学院 / Changzhou Industrial Vocational Technical College"
     url: "/wiki/entities/changzhouindustrialvocationaltechnicalcollege/"
+  - key: "Chenggao"
+    title: "成皋 / Chenggao"
+    url: "/wiki/entities/chenggao/"
   - key: "Chouxiangzai"
     title: "抽象仔 / Chouxiangzai"
     url: "/wiki/entities/chouxiangzai/"
@@ -1208,6 +1211,9 @@ wiki_pages:
   - key: "CaoXueqin"
     title: "曹雪芹 / Cao Xueqin"
     url: "/wiki/entities/caoxueqin/"
+  - key: "CongGong"
+    title: "枞公 / Cong Gong"
+    url: "/wiki/entities/conggong/"
   - key: "ChaSheng"
     title: "查晟 / Cha Sheng"
     url: "/wiki/entities/chasheng/"

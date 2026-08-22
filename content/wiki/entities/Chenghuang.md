@@ -2,8 +2,8 @@
 title: "城隍"
 type: entity
 tags: [deity, local-governance, folklore, afterlife, china, ritual]
-sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, 136-chunri-mingmei-liaoliao-guishen-827911486]
-last_updated: 2026-08-07
+sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, 136-chunri-mingmei-liaoliao-guishen-827911486]
+last_updated: 2026-08-23
 ---
 
 # 城隍
@@ -14,7 +14,10 @@ last_updated: 2026-08-07
 
 The source also stresses how city-god posts could be filled by historical worthies. Suzhou's Spring Lord, Hangzhou's Wen Tianxiang, Han Yu as a Guozijian city god, and the Ming elevation of city-god ranks all show how the office borrows prestige from officialdom, moral reputation, education, and imperial classification. [[LiaozhaiZhiyi|《聊斋志异》]] then turns the role into story through underworld examinations and delayed appointment.
 
+[[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] adds [[JiXin|纪信]] as a Chu-Han case of a historical figure becoming a city-protection deity. After Ji Xin dies impersonating [[LiuBang|刘邦]] during the [[XingyangStandoff|荥阳相持]], the source says the people of [[YingyangWarringStates|荥阳]] honor him as a city god and connects that memory to present-day [[Zhengzhou|郑州]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[SubstitutionalEscapeSacrifice|代身突围牺牲]], [[YingyangWarringStates|荥阳]], and [[Zhengzhou|郑州]] - historical sacrifice converted into protective city-god memory.
 - [[136-chunri-mingmei-liaoliao-guishen-827911486]] - source episode.
 - [[LocalDeityGovernance]] - main concept for city gods as local divine administration.
 - [[UnderworldBureaucracy]] - larger system where city gods report and manage souls.

@@ -10073,7 +10073,7 @@ Added source page for Hanji 154: the follow-up to Chen Ping's "盗嫂/受金" ac
 
 ## [2026-08-23] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health and identity validation passed. Health scanned 13,042 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）
 
@@ -10189,3 +10189,11 @@ Added source page for Hanji 161 part 4: the fate-change sequence closes by ident
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,035 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not set to a provider-qualified model; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》162-1｜他替刘邦去死 如今成了郑州的守护神
+
+Added source page for Hanji 162-1: Ji Xin's substitutional death at Xingyang, Chen Ping's east-gate distraction, Liu Bang's west-gate escape, Zhou Ke and Cong Gong executing Wei Bao to harden the garrison, Yuan Sheng's Wuguan diversion toward Wan, and Peng Yue's Sui River logistics pressure against Xiang Yu. Created Zhou Ke, Cong Gong, Yuan Sheng (Chu-Han), Chenggao, Zhengzhou, and Substitutional Escape Sacrifice; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Ji Xin, Liu Bang, Xiang Yu, Chen Ping, Han Xin, Wei Bao, Han Wang Xin, Peng Yue, Wuguan, Wan County, Aocang, Chenghuang, Yingyang, Sui River, Xingyang Standoff, Xiayi Plan, Transport Corridor Severance, Charismatic Political Performance, Retainer Reciprocity Ethic, Loyalty Beyond Contract, Moral Reputation Political Capital, Power-Based Alliance Repricing, and Honor Binding By Self-Sacrifice. No settled contradiction found; the host's claims about Liu Bang's performative hesitation, Xiang Yu's reactive strategy, and Xingyang-to-Zhengzhou memory are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 13,042 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

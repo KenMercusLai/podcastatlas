@@ -2,8 +2,8 @@
 title: "韩王信 / Han Wang Xin"
 type: entity
 tags: [person, han-state, chu-han, ruler]
-sources: [zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
+last_updated: 2026-08-23
 ---
 
 # 韩王信 / Han Wang Xin
@@ -16,7 +16,10 @@ That promise becomes useful after [[ZhengChangHanKing|郑昌]], the Han king ins
 
 [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] shows Han Wang Xin staying with Liu Bang after the [[PengchengBattle|彭城之战]] rather than joining the post-defeat defections. The source groups him with [[ZhangEr|张耳]] as one of the remaining Liu-side lords who withdraws toward [[YingyangWarringStates|荥阳]], making his loyalty a contrast case inside [[PowerBasedAllianceRepricing|实力重估式阵营转向]].
 
+[[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] places Han Wang Xin inside the emergency garrison list after [[JiXin|纪信]]'s substitution lets [[LiuBang|刘邦]] escape [[YingyangWarringStates|荥阳]]. He is named with [[ZhouKe|周苛]], [[WeiBao|魏豹]], and [[CongGong|枞公]] among those left behind to hold the city during the [[XingyangStandoff|荥阳相持]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[ZhouKe|周苛]], [[WeiBao|魏豹]], and [[CongGong|枞公]] - remaining Xingyang garrison personnel after Liu Bang's escape.
 - [[LiuBang|刘邦]] and [[ZhangLiang|张良]] - patrons and Han-restoration channel.
 - [[HanXin|韩信]] - different Liu Bang-side figure with the same Chinese name.
 - [[ZhengChangHanKing|郑昌]] and [[HanCheng|韩成]] - previous Han kingship claimants in the post-Qin settlement.

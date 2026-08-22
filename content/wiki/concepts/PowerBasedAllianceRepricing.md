@@ -2,7 +2,7 @@
 title: "Power-Based Alliance Repricing / 实力重估式阵营转向"
 type: concept
 tags: [alliance, diplomacy, statecraft, chu-han, power]
-sources: [zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj]
+sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The source gives several versions. [[SimaXin|司马欣]] and [[DongYiQin|董翳]
 
 [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] gives Wei Bao's repricing a concrete second act. He asks [[LiuBang|刘邦]] to return to West Wei under the pretext of visiting his sick mother, seals the Yellow River crossings, and submits to [[XiangYu|项羽]]. The source adds a status motive to the power calculation: Wei Bao says Liu Bang treats lords and ministers with humiliating arrogance, so personal dignity becomes one way battlefield credibility translates into alliance movement.
 
+[[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] shows the punitive trust cost of repeated repricing. After Wei Bao has been defeated and spared, [[ZhouKe|周苛]] and [[CongGong|枞公]] decide he cannot be trusted inside the [[YingyangWarringStates|荥阳]] garrison. His earlier ability to switch camps now makes him unusable in a defense that depends on no-surrender commitment.
+
 This concept is related to [[WarringStatesAllianceSwitching|战国同盟转向]], but it is narrower. Alliance switching can come from marriage, hostages, land returns, or diplomacy; power-based repricing specifically names the rapid post-defeat recalculation that follows a visible change in military credibility.
 
 ## Key Claims
@@ -31,8 +33,10 @@ This concept is related to [[WarringStatesAllianceSwitching|战国同盟转向]]
 - Hanji 153 adds that repricing can be contested: a weakened leader can offer credible rewards, exploit enemy-side distrust, and delegate command to make the field move again.
 - Hanji 155-1 adds that status insult can help an actor justify or emotionally sustain a switch that already makes sense under changed power conditions.
 - Hanji 158 adds that contested repricing may need public commitment design; a wavering actor's private calculation changes the wider field only after the switch becomes costly to undo.
+- Hanji 162-1 adds that repeated switching can become a lethal liability once a garrison must prove that surrender channels are closed.
 
 ## Connections
+- [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[WeiBao|魏豹]], [[ZhouKe|周苛]], [[CongGong|枞公]], and [[XingyangStandoff|荥阳相持]] - execution of an unreliable alliance-switcher inside a crisis garrison.
 - [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - defeat, weakened coalition leader, and restored strong side.
 - [[SimaXin|司马欣]], [[DongYiQin|董翳]], [[WeiBao|魏豹]], [[ChenYu|陈馀]], and [[ZhaoXie|赵歇]] - post-Pengcheng switching cases.
 - [[TianHeng|田横]], [[TianJia|田假]], and [[QiState|齐国]] - Qi-side settlement after Xiang Yu regains leverage.

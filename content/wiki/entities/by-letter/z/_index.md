@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6653
+wiki_total_pages: 6658
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "ZhouRoyalHouse"
     title: "周王室 / Zhou Royal House"
     url: "/wiki/entities/zhouroyalhouse/"
+  - key: "ZhouKe"
+    title: "周苛 / Zhou Ke"
+    url: "/wiki/entities/zhouke/"
   - key: "ZhouNanwang"
     title: "周赧王 / Zhou Nan Wang"
     url: "/wiki/entities/zhounanwang/"
@@ -791,6 +794,9 @@ wiki_pages:
   - key: "ZhengAnping"
     title: "郑安平 / Zheng Anping"
     url: "/wiki/entities/zhenganping/"
+  - key: "Zhengzhou"
+    title: "郑州 / Zhengzhou"
+    url: "/wiki/entities/zhengzhou/"
   - key: "ZhengKangGong"
     title: "郑康公 / Duke Kang of Zheng"
     url: "/wiki/entities/zhengkanggong/"

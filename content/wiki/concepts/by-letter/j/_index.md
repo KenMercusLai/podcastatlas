@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 5114
+wiki_total_pages: 5115
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"

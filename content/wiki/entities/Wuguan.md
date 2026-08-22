@@ -2,8 +2,8 @@
 title: "武关 / Wuguan"
 type: entity
 tags: [place, pass, pre-qin, warring-states, qin-state, chu-state]
-sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+last_updated: 2026-08-23
 ---
 
 # 武关 / Wuguan
@@ -22,7 +22,10 @@ The second attack uses the same route in a more dangerous way. Qin retreats thro
 
 [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] reuses Wuguan as a political boundary rather than a pass battle. After the [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]] asks at [[Xiayi|下邑]] who can help attack Chu and offers the lands east of Wuguan as reward. The pass therefore marks the divide between Liu Bang's western base and the eastern reward field used in [[XiayiPlan|下邑画策]].
 
+[[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] reuses Wuguan as an operational diversion route. After Liu Bang escapes [[YingyangWarringStates|荥阳]], [[YuanShengChuHan|袁先生 / 袁生]] advises him to move out through Wuguan toward [[WanCounty|宛县]], fortify, and refuse battle, pulling [[XiangYu|项羽]] south and buying time for [[XingyangStandoff|荥阳相持]], [[Chenggao|成皋]], and [[HanXin|韩信]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[YuanShengChuHan|袁先生 / 袁生]], [[WanCounty|宛县]], [[Chenggao|成皋]], and [[HanXin|韩信]] - southward diversion route after Liu Bang escapes Xingyang.
 - [[DanyangBattle|丹阳之战]] and [[LantianBattle|蓝田之战]] - two campaign stages tied to the route.
 - [[QinState|秦国]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - combatants and decision-maker.
 - [[Shangyu|商於]] - promised region beyond the pass route.

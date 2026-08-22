@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5114
+wiki_total_pages: 5115
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "SubstanceAndExtension"
     title: "Substance And Extension"
     url: "/wiki/concepts/substanceandextension/"
+  - key: "SubstitutionalEscapeSacrifice"
+    title: "Substitutional Escape Sacrifice / 代身突围牺牲"
+    url: "/wiki/concepts/substitutionalescapesacrifice/"
   - key: "SubtlePlotPsychologicalAftertaste"
     title: "Subtle Plot Psychological Aftertaste"
     url: "/wiki/concepts/subtleplotpsychologicalaftertaste/"

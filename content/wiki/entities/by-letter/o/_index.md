@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 6653
+wiki_total_pages: 6658
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
