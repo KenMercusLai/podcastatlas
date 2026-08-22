@@ -2,7 +2,7 @@
 title: "Victory Overreach Failure / 数胜必亡式胜利反噬"
 type: concept
 tags: [statecraft, war, leadership, overreach, warring-states]
-sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]
+sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ This is related to [[PostVictoryOppressionRisk|post-victory oppression risk]], b
 
 [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] adds a Liu Bang-side version after the capture of [[Xuzhou|彭城]]. [[LiuBang|刘邦]] has just used [[DongGongXincheng|Dong Gong]]'s mourning logic, coalition bargaining, and [[XiangYu|项羽]]'s Qi distraction to seize the Chu capital, but the army immediately relaxes into treasure, women, wine, and feasts. The source marks the danger by saying even [[ZhangLiang|张良]] and [[ChenPing|陈平]] are silent, so the overreach belongs to command atmosphere and discipline, not only one ruler's appetite.
 
+[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] gives the tactical punishment for that relaxation. Xiang Yu secretly returns, seizes [[XiaoCounty|萧县]], cuts Liu Bang's retreat, and attacks the coalition command center from the unexpected west. Here overreach does not mature into years of bad policy; it becomes an immediate readiness failure that lets [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] turn a captured capital into a catastrophic rout.
+
 ## Key Claims
 - Victory can be destabilizing when it inflates ruler ambition faster than state capacity.
 - Repeated military success can hide exhaustion among subjects and officials.
@@ -29,6 +31,7 @@ This is related to [[PostVictoryOppressionRisk|post-victory oppression risk]], b
 - Once overreach destroys social and diplomatic protection, military defeat can become a refuge failure and bodily vulnerability for the ruler.
 - Hanji 142 adds that even one decisive victory can create overreach if the commander treats the conquered center as spoil rather than as a base for governable order.
 - Hanji 151 part 1 adds that victory overreach can follow successful legitimacy work: a coalition may win the capital and still lose vigilance before the enemy's operational response.
+- Hanji 151 part 2 adds the payoff: post-capture overreach can be punished within a single battle if an opponent preserves surprise, cuts retreat, and strikes the command center before the victorious side regains discipline.
 
 ## Connections
 - [[QiMinWang|齐湣王]], [[SongState|宋国]], [[HuYanQiMinister|胡衍]], and [[ChenJuQiMinister|陈举]] - source case.
@@ -38,3 +41,4 @@ This is related to [[PostVictoryOppressionRisk|post-victory oppression risk]], b
 - [[ZhuoChi|卓齿]], [[Linzi|临淄]], [[WeyState|卫国]], [[ZouState|邹国]], and [[LuState|鲁国]] - Zhouji 70 collapse, flight, and execution branch.
 - [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[XiangYu|项羽]], [[Xianyang|咸阳]], [[GuanzhongRegion|关中]], and [[HanSheng|韩生]] - immediate post-victory conversion of command into plunder, rejected advice, and anger.
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[LiuBang|刘邦]], [[PengchengBattle|彭城之战]], [[Xuzhou|彭城]], [[ZhangLiang|张良]], and [[ChenPing|陈平]] - post-capture indulgence before Xiang Yu's return.
+- [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]], [[XiangYu|项羽]], [[XiaoCounty|萧县]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - immediate tactical reversal after the indulgence.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6611
+wiki_total_pages: 6614
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "XiaoHe"
     title: "萧何 / Xiao He"
     url: "/wiki/entities/xiaohe/"
+  - key: "XiaoCounty"
+    title: "萧县 / Xiao County"
+    url: "/wiki/entities/xiaocounty/"
   - key: "XiaoChuzhou"
     title: "萧楚舟 / Xiao Chuzhou"
     url: "/wiki/entities/xiaochuzhou/"

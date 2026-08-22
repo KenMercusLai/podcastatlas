@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5084
+wiki_total_pages: 5085
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "CausalWorldModels"
     title: "Causal World Models"
     url: "/wiki/concepts/causalworldmodels/"
+  - key: "CavalryShockCommandStrike"
+    title: "Cavalry Shock Command Strike / 骑兵奇袭指挥中枢"
+    url: "/wiki/concepts/cavalryshockcommandstrike/"
   - key: "CelestialOmenPoliticalResponsibility"
     title: "Celestial Omen Political Responsibility / 天象政治责任"
     url: "/wiki/concepts/celestialomenpoliticalresponsibility/"

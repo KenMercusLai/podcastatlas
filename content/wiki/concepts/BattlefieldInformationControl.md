@@ -2,7 +2,7 @@
 title: "Battlefield Information Control / 战场信息控制"
 type: concept
 tags: [military-strategy, deception, command, warring-states]
-sources: [zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
+sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The concept links discipline and deception. In this source, command secrecy is n
 
 [[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]] adds a Chu-side example through [[XiangYan|项燕]]. Xiang Yan lets [[LiXinQin|李信]] read peace signals and a small attack on [[NanCommandery|南郡]] as evidence that Qin can dictate tempo. The information effect is operational: Li Xin moves quickly to answer the visible threat while the Chu main force controls the real timing behind him.
 
+[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] adds [[XiangYu|项羽]]'s Pengcheng return as a Chu-Han example. After [[LiuBang|刘邦]] captures [[Xuzhou|彭城]], Xiang Yu seals news and leaves the visible order of continuing the Qi campaign against [[TianHeng|田横]] in place. The information effect is that the smaller elite force can move toward [[XiaoCounty|萧县]] and the west side of the battlefield before Liu Bang's coalition has corrected its expectations.
+
 ## Key Claims
 - Information control can include what an enemy spy is permitted to see, not only what one's own soldiers are told.
 - Strict speech discipline can be part of deception, especially before a rapid movement.
@@ -27,6 +29,7 @@ The concept links discipline and deception. In this source, command secrecy is n
 - Qin's Changping case shows command identity itself can be protected information when revealing the true commander would let the enemy adjust.
 - Zhouji 94 part 2 adds the payoff: hidden command identity can let one side model the enemy commander while denying reciprocal knowledge.
 - Qinji 117-2 adds that information control can work through peace signals and diversion, not only through spies or hidden commander identity.
+- Hanji 151 part 2 adds that strategic-theater appearance can be held steady while the real striking force is already moving elsewhere.
 
 ## Connections
 - [[ZhaoShe|赵奢]] - commander whose staged inaction defines the concept.
@@ -37,3 +40,4 @@ The concept links discipline and deception. In this source, command secrecy is n
 - [[BaiQi|白起]], [[WangHe|王龁]], [[QinZhaoxiangwang|秦昭襄王]], [[ZhaoKuo|赵括]], and [[ChangpingBattle|长平之战]] - Zhouji 94 secret Qin command upgrade.
 - [[BattlefieldEncirclementLogistics|战场围困与断粮]] - operational use of the asymmetry in Zhouji 94 part 2.
 - [[XiangYan|项燕]], [[LiXinQin|李信]], [[ChuState|楚国]], and [[NanCommandery|南郡]] - Qinji 117-2 peace-and-diversion setup.
+- [[XiangYu|项羽]], [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], [[TianHeng|田横]], [[XiaoCounty|萧县]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - Hanji 151 part 2 hidden return and false Qi-front appearance.

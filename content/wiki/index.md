@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2）](sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay.md) — 芮淇讲透资治通鉴 episode completing the Pengcheng Battle tactical account through Xiang Yu's secrecy, Xiao County route cut, cavalry shock against Liu Bang's command center, river pursuit, and windstorm escape.
 - [《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（1）](sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu.md) — 芮淇讲透资治通鉴 episode opening the Pengcheng Battle setup through Dong Gong's mourning pretext, Liu Bang's coalition-building, Chen Yu/Zhang Er deception, Qi resistance, and Pengcheng victory overreach.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern.md) — 芮淇讲透资治通鉴 episode extending Chen Ping's successful-politician sequence through Baideng, Fan Kuai's delayed execution order, Lu Zhi-era camouflage, and worldly political cultivation.
 - [《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）](sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj.md) — 芮淇讲透资治通鉴 episode continuing Chen Ping's successful-politician sequence through Liu Bang's bounded trust, covert inducement work, Lu Zhi-era ambiguity, Zhou Bo partnership, and Emperor Wen transition.
@@ -1254,7 +1255,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [彭城之战 / Battle of Pengcheng](entities/PengchengBattle.md) — First major Chu-Han battle branch, currently ingested through its political setup, Qi distraction, Pengcheng capture, and Liu Bang's post-victory overreach.
+- [萧县 / Xiao County](entities/XiaoCounty.md) — Pengcheng Battle hinge where Xiang Yu cuts Liu Bang's westward retreat and supply line before the surprise attack.
+- [睢水 / Sui River](entities/SuiRiver.md) — River casualty marker in the Pengcheng Battle pursuit, cited through "睢水为之不流."
+- [泗水 / Si River](entities/SiRiver.md) — Pengcheng/Xuzhou river node linking Qin Shi Huang's Jiuding search to the Pengcheng Battle pursuit geography.
+- [彭城之战 / Battle of Pengcheng](entities/PengchengBattle.md) — First major Chu-Han battle branch now covering its political setup, Qi distraction, Pengcheng capture, Xiang Yu's secret cavalry counterattack, and Liu Bang's escape.
 - [董公 / Dong Gong (Xincheng)](entities/DongGongXincheng.md) — Xincheng elder whose advice turns Yi Emperor Mi Xin's murder into Liu Bang's mourning-based anti-Xiang mobilization pretext.
 - [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, disambiguated from Yan's Tian Guang and tied to renewed Qi resistance before Pengcheng.
 - [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu.
@@ -7869,6 +7873,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cavalry Shock Command Strike / 骑兵奇袭指挥中枢](concepts/CavalryShockCommandStrike.md) — Pengcheng Battle pattern where a smaller mobile force preserves surprise, cuts retreat, and strikes the enemy commander to collapse coalition coordination.
 - [Tactical Delay Risk Transfer / 延时转责式政治化解](concepts/TacticalDelayRiskTransfer.md) — Chen Ping and Zhou Bo frame for converting an irreversible execution order into custody, transport, and delayed sovereign responsibility.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
@@ -8080,7 +8085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Su Dai pattern of redirecting policy by turning Bai Qi's possible victory into Fan Ju's personal rank threat.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
-- [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where feigned retreat, barriers, flank cuts, cavalry insertion, and fieldworks turn an attack into starvation.
+- [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where route cuts, feigned retreat, flank insertion, pursuit pressure, and fieldworks turn movement into supply, retreat, or crowding disaster.
 - [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.
 - [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.
 - [Historical Dream Foreshadowing / 梦兆叙事伏笔](concepts/HistoricalDreamForeshadowing.md) — Historiographical pattern where recorded dreams in the Shiji Zhao lineage organize later rise, desire, disorder, and disaster.
@@ -8096,7 +8101,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Private Fief Expansion Through State War / 以国战扩私邑](concepts/PrivateFiefExpansionThroughStateWar.md) — pattern where a minister redirects state war toward expansion of a private fief.
 - [Private Punishment Without Procedure / 无程序私刑](concepts/PrivatePunishmentWithoutProcedure.md) — failure mode where elite suspicion turns into punitive violence without investigation or adjudication.
 - [Two Rats Courage Maxim / 两鼠斗穴勇者胜](concepts/TwoRatsCourageMaxim.md) — Zhao She's narrow-route maxim behind "狭路相逢勇者胜," treated as disciplined operational courage rather than reckless aggression.
-- [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which Zhao She shapes what Qin sees before Eyu and Qin later hides Bai Qi's Changping command.
+- [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which commanders shape what enemies see before decisive movement, from Zhao She and Bai Qi to Xiang Yu's hidden Pengcheng return.
 - [High-Ground Timing Advantage / 制高点时机优势](concepts/HighGroundTimingAdvantage.md) — Tactical principle where reaching decisive terrain first, as Xu Li advises at Eyu, converts timing into battlefield advantage.
 - [Elite Fiscal-Law Compliance / 贵族税法同遵](concepts/EliteFiscalLawCompliance.md) — State-capacity pattern where tax and law must bind elite households, not only ordinary subjects, if public authority is to hold.
 - [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Weak-side diplomacy pattern where a request for restraint is translated into the stronger side's own risk map and preferred strategic sequence.
@@ -8151,7 +8156,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Wang Zhu case where loyal refusal of enemy service risks making nearby people collateral unless the target exits the coercive choice.
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
-- [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where repeated victory inflates a ruler, exhausts support, kills corrective feedback, and invites coalition backlash.
+- [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where victory inflates confidence, relaxes discipline, exhausts support, kills corrective feedback, or invites tactical reversal.
 - [Ruler Non-Natural Death Typology / 帝王非命死法类型](concepts/RulerNonNaturalDeathTypology.md) — Source-scoped grouping of ruler deaths by poisoning, strangling, weapons, and starvation, used to preview Qi Min Wang's end.
 - [Moralized War Pretext / 道德化战争借口](concepts/MoralizedWarPretext.md) — Pattern where states convert a target ruler's cruelty reputation into public justification and coordination cover for war.
 - [Vanquished Ruler Reputation Construction / 亡国君污名建构](concepts/VanquishedRulerReputationConstruction.md) — Historiographical caution that defeated rulers' atrocity lists can preserve real violence while also reflecting later enemy, moral, or narrative amplification.
@@ -8210,7 +8215,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unverified Territorial Promise Trap / 未验地先断交陷阱](concepts/UnverifiedTerritorialPromiseTrap.md) — Zhang Yi's 313 BCE tactic of making Chu break with Qi before Qin delivered the promised Shangyu land.
 - [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
 - [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
-- [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history frame for infantry scale, cavalry transition, command sequencing, large encirclement, and mass-war cost.
+- [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history frame for infantry scale, cavalry transition, command sequencing, large encirclement, mobile shock, and mass-war cost.
 - [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.

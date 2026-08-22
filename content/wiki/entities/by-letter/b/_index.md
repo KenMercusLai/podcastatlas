@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6611
+wiki_total_pages: 6614
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"

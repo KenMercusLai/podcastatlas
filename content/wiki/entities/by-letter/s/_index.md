@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6611
+wiki_total_pages: 6614
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "ShaxiAncientTown"
     title: "沙溪古镇 / Shaxi Ancient Town"
     url: "/wiki/entities/shaxiancienttown/"
+  - key: "SiRiver"
+    title: "泗水 / Si River"
+    url: "/wiki/entities/siriver/"
   - key: "SaruKaniGassen"
     title: "猿蟹合战 / Saru Kani Gassen"
     url: "/wiki/entities/sarukanigassen/"
@@ -1538,6 +1541,9 @@ wiki_pages:
   - key: "ShuihudiQinJian"
     title: "睡虎地秦简 / Shuihudi Qin Slips"
     url: "/wiki/entities/shuihudiqinjian/"
+  - key: "SuiRiver"
+    title: "睢水 / Sui River"
+    url: "/wiki/entities/suiriver/"
   - key: "ShichengWarringStates"
     title: "石城 / Shicheng"
     url: "/wiki/entities/shichengwarringstates/"

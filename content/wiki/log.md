@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2）
+
+Added source page for Hanji 151 part 2: Xiang Yu's Pengcheng counterattack through information blockade, false continuation of the Qi campaign, secret movement of thirty thousand elite mounted/chariot troops, night seizure of Xiao County, west-side attack against Liu Bang's command center, coalition collapse, river pursuit around Gu water, Si River, and Sui River, and Liu Bang's escape under a sudden violent windstorm. Created Xiao County, Sui River, Si River, and Cavalry Shock Command Strike; updated overview, index, Pengcheng Battle, Liu Bang, Xiang Yu, Xuzhou/Pengcheng, Victory Overreach Failure, Battlefield Information Control, Battlefield Encirclement Logistics, and Warring States Military Transformation. No settled contradiction found; troop counts, "天命" escape framing, and Liu Bang arrogance are kept source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（1）
 
 Added source page for Hanji 151 part 1: the setup to Pengcheng Battle through Dong Gong's advice to mourn Yi Emperor Mi Xin and name Xiang Yu as a regicidal rebel, Liu Bang's mourning-based coalition call, the fake Zhang Er head used to satisfy Chen Yu and gain Zhao participation, Henei and north-of-Yellow-River positioning, Tian Heng's installation of Tian Guang as Qi king around Chengyang/Ju, Liu Bang's capture of Pengcheng, and the victory indulgence that leaves even Zhang Liang and Chen Ping silent before Xiang Yu's response. Created Pengcheng Battle, Dong Gong (Xincheng), and Tian Guang (Qi King); updated overview, index, Liu Bang, Xiang Yu, Mi Xin, Chen Yu, Zhang Er, Tian Heng, Tian Rong, Ju, Xuzhou/Pengcheng, Zhang Liang, Chen Ping, Moralized War Pretext, Victory Overreach Failure, and Coalition Settlement Failure. No settled contradiction found; kept this source as the pre-battle setup rather than a full tactical account of the famous battle.
@@ -10026,3 +10030,7 @@ Ran lint after health and identity validation passed. Health scanned 12,938 wiki
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,942 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or API key is configured; bounded in-session sample review found no direct contradictions, flagged stale "latest addition" wording in `wiki/overview.md`, and noted missing `## Key Claims` sections in `wiki/concepts/ExportPorcelainCustomization.md` and `wiki/concepts/FinancialPowerAndStateCapacity.md`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,947 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or API key is configured in this shell; `wiki/lint-report.md` was not saved.
