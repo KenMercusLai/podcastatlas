@@ -54,6 +54,8 @@ The episode therefore turns Chen Yu's earlier caution into a personal dispossess
 
 The same episode complicates Chen Yu's moral identity. He claims to be a儒者 leading a righteous army, yet his hatred of Zhang Er remains intense enough that the host uses him as an example of why one label or one action cannot settle a person's character. Chen Yu now becomes the source case for [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] rather than only for alliance rupture.
 
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] makes the failure more concrete. Chen Yu is not described as ignorant of [[SunziBingfa|《孙子兵法》]]; he wants a public, upright-looking victory and badly underestimates Han Xin's numbers and condition. When Han Xin's backwater force refuses to break and Zhao returns to find Han red flags in its own camp, Chen Yu loses the army's confidence structure and is killed during the rout.
+
 ## Connections
 - [[KongFu|孔鲋]] - figure whose safety and later appointment Chen Yu helps mediate.
 - [[QinBookBurningPolicy|秦代焚书令]] - policy background for Chen Yu's visit.
@@ -75,3 +77,4 @@ The same episode complicates Chen Yu's moral identity. He claims to be a儒者 l
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[ZhaoXie|赵歇]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - post-Pengcheng return toward Xiang Yu.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[LiuBang|刘邦]], [[ZhangEr|张耳]], and [[HanXin|韩信]] - discovery of the substitute-head deception and setup for the Zhao campaign.
 - [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]], [[LiZuoChe|李左车]], [[JingxingPass|井陉口]], [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - rejection of the supply-cut plan and Shiji/Tongjian wording contrast around his stated motive.
+- [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]], [[BackwaterBattle|背水一战]], [[HanXin|韩信]], and [[BattlefieldInformationControl|战场信息控制]] - open-victory posture, force misread, red-flag camp shock, and death in the Zhao rout.

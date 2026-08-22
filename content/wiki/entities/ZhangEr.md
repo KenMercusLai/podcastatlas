@@ -50,6 +50,8 @@ The episode also reactivates Zhang Er's old Liu Bang connection. It recalls Liu 
 
 [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] puts that role into immediate danger at [[JingxingPass|井陉口]]. Zhang Er advances with Han Xin against [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]], meaning his old Zhao-world standing now works in two directions: it helps explain why Liu Bang assigned him to the northern campaign, but it also intensifies Chen Yu's personal motive to destroy the Han force.
 
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] gives Zhang Er an active battlefield role inside [[BackwaterBattle|背水一战]]. He and Han Xin feign defeat after prolonged fighting, abandon flags and drums, and retreat toward the water-side Han camp so Zhao will leave its own camp exposed. The victory therefore turns Zhang Er from local Zhao guide and political asset into a co-visible participant in Chen Yu's defeat.
+
 ## Connections
 - [[Xinlingjun|信陵君]] - earlier patron whose retainer network Zhang Er had belonged to.
 - [[LiuBang|刘邦]] - young admirer who turns to Zhang Er after missing Xinlingjun.
@@ -70,3 +72,4 @@ The episode also reactivates Zhang Er's old Liu Bang connection. It recalls Liu 
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[HanWangXin|韩王信]], [[YingyangWarringStates|荥阳]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - remaining with Liu Bang while other lords defect after Pengcheng.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[HanXin|韩信]], [[ZhaoState|赵国]], and [[ChenYu|陈馀]] - northern campaign support through local Zhao roots.
 - [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]], [[JingxingPass|井陉口]], [[LiZuoChe|李左车]], and [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] - campaign setting where Chen Yu refuses the supply-cut plan and chooses direct confrontation.
+- [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]], [[BackwaterBattle|背水一战]], [[HanXin|韩信]], and [[ZhaoXie|赵歇]] - feigned defeat and completed victory over Chen Yu's Zhao army.

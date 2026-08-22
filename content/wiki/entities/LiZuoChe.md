@@ -2,7 +2,7 @@
 title: "李左车 / Li Zuoche"
 type: entity
 tags: [person, zhao, chu-han, military]
-sources: [zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l]
+sources: [zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l]
 last_updated: 2026-08-23
 ---
 
@@ -16,9 +16,12 @@ Li Zuoche asks Chen Yu for 30,000 men so he can move through side paths and cut 
 
 The source treats the plan as genuinely feasible. Li Zuoche's role is therefore not only "ignored adviser"; he marks the strategic problem Han Xin is spared when Chen Yu rejects the plan under [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]].
 
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] strengthens that counterfactual. Han Xin is happy only after spies confirm that Chen Yu has not adopted Li Zuoche's advice, and the later [[BackwaterBattle|背水一战]] depends on Zhao accepting open battle instead of turning Jingxing into a supply trap.
+
 ## Connections
 - [[HanXin|韩信]] and [[ZhangEr|张耳]] - commanders whose supply line Li Zuoche wants to attack.
 - [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]] - Zhao-side decision-maker and king whom Li Zuoche advises.
 - [[LiMu|李牧]] - named grandfather whose military reputation frames Li Zuoche's credibility.
 - [[JingxingPass|井陉口]], [[TaihangRoad|太行道]], [[TransportCorridorSeverance|交通线切割]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]] - terrain and logistics concepts behind his plan.
 - [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] and [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]] - Chen Yu's reason for rejecting the plan.
+- [[BackwaterBattle|背水一战]] - completed battle whose possibility depends on Li Zuoche's plan remaining unused.

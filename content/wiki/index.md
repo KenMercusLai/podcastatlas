@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2）](sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Jingxing backwater battle through spy confirmation, hidden red-flag cavalry, feigned defeat, Zhao camp seizure, morale collapse, Chen Yu's death, and Zhao Xie's capture.
 - [《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）](sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l.md) — 芮淇讲透资治通鉴 episode opening Han Xin's Jingxing campaign against Zhao through terrain, supply-line risk, Li Zuoche's rejected plan, and Chen Yu's moralized refusal of stratagem.
 - [《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”](sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l.md) — 芮淇讲透资治通鉴 episode on Wei Bao's humiliation-driven break, Han Xin's Linjin/Puban feint and Xiayang crossing, West Wei commandery conversion, and the constrained northern strategy toward Dai/Zhao/Yan/Qi.
 - [《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧](sources/zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh.md) — 芮淇讲透资治通鉴 episode on Wei Bao's renewed turn toward Xiang Yu, Feiqiu's fall and Zhang Han's suicide, the Guanzhong famine, and Ren氏's grain-hoarding fortune under wartime scarcity.
@@ -7907,6 +7908,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, feigned defeat, hidden red-flag cavalry, camp seizure, and Zhao morale collapse.
 - [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
 - [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
 - [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.

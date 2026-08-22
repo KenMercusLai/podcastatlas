@@ -10098,3 +10098,11 @@ Added source page for Hanji 156 part 1: Han Xin and Zhang Er's move toward Zhao 
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,991 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2）
+
+Added source page for Hanji 156 part 2: Chen Yu's political and operational reason for rejecting Li Zuoche's plan, Han Xin's spy-confirmed entry through Jingxing, the two-thousand-cavalry red-flag camp seizure, the backwater formation at Mianman/Ye water, the feigned defeat that draws Zhao out, and the morale collapse that ends with Chen Yu killed and Zhao Xie captured. Created Backwater Battle; updated overview, index, Han Xin, Chen Yu, Zhang Er, Zhao Xie, Zhao State, Jingxing Pass, Li Zuoche, Battlefield Information Control, Moralized Anti-Deception Command, and Confucian Military Idealism Limits. No settled contradiction found; this source resolves the previous source-scoped red-flag scene rather than reversing it.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "井陉口 / Jingxing Pass"
 type: entity
 tags: [place, route, military-geography, zhao, chu-han]
-sources: [zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
+sources: [zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp]
 last_updated: 2026-08-23
 ---
 
@@ -14,10 +14,10 @@ last_updated: 2026-08-23
 
 For [[ZhaoState|赵国]], Jingxing gives [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]] a defensive advantage. For Han Xin and [[ZhangEr|张耳]], it turns forward movement into a logistics and formation problem: the force must exit a dangerous pass with supplies trailing behind. [[LiZuoChe|李左车]]'s rejected plan depends on exactly this geography.
 
-The source ends before the full backwater battle is narrated, so Jingxing is recorded here as the pre-battle terrain and logistics setting, not yet as the completed tactical result.
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] turns that terrain problem into the completed [[BackwaterBattle|背水一战]]. Han Xin exits the pass only after learning through spies that Chen Yu has rejected Li Zuoche's plan, sends hidden cavalry ahead near the eastern mouth, and uses the river-side formation to make Zhao leave its camp. Jingxing therefore becomes both the chokepoint that endangered Han and the entry gate for Han Xin's trap.
 
 ## Connections
 - [[TaihangRoad|太行道]] - broader route frame to which Jingxing belongs.
 - [[HanXin|韩信]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], [[ZhaoXie|赵歇]], and [[LiZuoChe|李左车]] - actors whose options are shaped by the pass.
 - [[WangLiQin|王离]] and [[LiLiangZhaoGeneral|李良]] - earlier Qin-collapse use of the same route as a movement constraint.
-- [[TransportCorridorSeverance|交通线切割]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], and [[BattlefieldInformationControl|战场信息控制]] - concepts connected to the pass's supply, ambush, and movement consequences.
+- [[TransportCorridorSeverance|交通线切割]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], [[BattlefieldInformationControl|战场信息控制]], and [[BackwaterBattle|背水一战]] - concepts connected to the pass's supply, ambush, movement, and completed battle consequences.
