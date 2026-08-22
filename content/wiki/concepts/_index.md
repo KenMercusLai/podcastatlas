@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5061
+wiki_total_pages: 5063
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "AdvancedPackaging"
     title: "Advanced Packaging"
     url: "/wiki/concepts/advancedpackaging/"
+  - key: "AdvisorRoleBoundary"
+    title: "Advisor Role Boundary / 谋士越位"
+    url: "/wiki/concepts/advisorroleboundary/"
   - key: "AerosolCoolingMasking"
     title: "Aerosol Cooling Masking"
     url: "/wiki/concepts/aerosolcoolingmasking/"

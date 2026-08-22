@@ -9862,3 +9862,11 @@ Added source page for Hanji 140 part 2: Xiang Bo's night ride to Bashang to warn
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》141｜还原历史中的“鸿门宴”
+
+Added source page for Hanji 141: Liu Bang's Hongmen entry with Zhang Liang while Fan Kuai, Xiahou Ying, Ji Xin, Jin Qiang, and cavalry wait outside; the seating hierarchy; Liu Bang's apology and Xiang Yu's exposure of Cao Wushang as informant; Fan Zeng's ignored jade-ring signals; Xiang Zhuang's sword-dance assassination attempt; and Xiang Bo's protective counter-dance. Created Xiang Zhuang, Ji Xin, Jin Qiang, Informer Source Protection, and Advisor Role Boundary; updated overview, index, Hongmen Yan, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Zhang Liang, Fan Kuai, Xiahou Ying, Cao Wushang, Power Etiquette Reading, Moralized War Pretext, Moral Face Under Power Competition, and Emotional De-escalation Persuasion. No settled contradiction found; treated the critique of Fan Zeng's overreach and the 金强 transcript form as source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -1,0 +1,18 @@
+---
+title: "纪信 / Ji Xin"
+type: entity
+tags: [person, qin-han, chu-han, liu-bang-camp]
+sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy]
+last_updated: 2026-08-22
+---
+
+# 纪信 / Ji Xin
+
+纪信 / Ji Xin enters the wiki through [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] as one of [[LiuBang|刘邦]]'s trusted old subordinates in the Hongmen entourage. The episode lists him with [[FanKuai|樊哙]], [[XiahouYing|夏侯婴]], [[JinQiang|金强]], and the accompanying cavalry who travel from [[Bashang|霸上]] but remain outside the camp gate when Liu Bang and [[ZhangLiang|张良]] enter [[XiangYu|项羽]]'s tent.
+
+For this source, Ji Xin's role is not developed beyond loyalty and proximity. His presence matters because Liu Bang's apology scene is not unprotected innocence: the trusted guard-and-rider layer stays outside the room while speech and etiquette are tested inside.
+
+## Connections
+- [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[HongmenYan|鸿门宴]] - commander, strategist, and crisis setting.
+- [[FanKuai|樊哙]], [[XiahouYing|夏侯婴]], and [[JinQiang|金强]] - other trusted attendants in the same source.
+- [[Bashang|霸上]] and [[XiangYu|项羽]] - departure camp and hostile camp.

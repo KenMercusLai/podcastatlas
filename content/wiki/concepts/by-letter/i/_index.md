@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5061
+wiki_total_pages: 5063
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "InformedOptimism"
     title: "Informed Optimism"
     url: "/wiki/concepts/informedoptimism/"
+  - key: "InformerSourceProtection"
+    title: "Informer Source Protection / 告密者来源保护"
+    url: "/wiki/concepts/informersourceprotection/"
   - key: "InfrastructureAccountabilityGap"
     title: "Infrastructure Accountability Gap"
     url: "/wiki/concepts/infrastructureaccountabilitygap/"

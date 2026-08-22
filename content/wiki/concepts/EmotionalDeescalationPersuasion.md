@@ -2,8 +2,8 @@
 title: "Emotional De-escalation Persuasion / 情绪降温式说服"
 type: concept
 tags: [persuasion, rhetoric, diplomacy, communication, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
+last_updated: 2026-08-22
 ---
 
 # Emotional De-escalation Persuasion / 情绪降温式说服
@@ -16,6 +16,8 @@ The source case is the hostage dispute over [[ChangAnJunZhao|长安君]]. Zhao W
 
 [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] adds a military-crisis version. [[LiuBang|刘邦]] cannot defeat [[XiangYu|项羽]] directly, so after [[ZhangLiang|张良]] receives [[XiangBo|项伯]]'s warning, Liu Bang first changes Xiang Bo's emotional setting: he honors him as an elder, drinks with him, proposes family connection, and frames himself as a loyal comrade rather than a rival claimant. Xiang Bo then carries a cooled version of the crisis back to Xiang Yu, where the attack can become a next-morning explanation instead of immediate violence.
 
+[[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] shows the limit of that de-escalation. Liu Bang's apology further cools Xiang Yu's anger, but it does not align Xiang Yu, [[FanZeng|范增]], and Xiang Bo around a settlement. The attack returns in disguised form through [[XiangZhuang|项庄]]'s sword dance, so de-escalation buys time without automatically producing strategic agreement.
+
 ## Key Claims
 - Directly demanding that an angry person calm down can intensify resistance because it challenges the emotion before the relationship is reopened.
 - De-escalation works by lowering perceived threat: pace, posture, topic choice, and self-disclosure matter before the argument itself.
@@ -24,9 +26,11 @@ The source case is the hostage dispute over [[ChangAnJunZhao|长安君]]. Zhao W
 - Emotional sequencing and factual accuracy are separable: a persuasion can succeed by fitting the listener's frame even when its institutional diagnosis needs later correction.
 - The pattern overlaps with [[ChuaimoTechnique|揣摩]], but it focuses on emotional sequencing rather than only audience-specific interest analysis.
 - Hanji 140 part 2 adds that de-escalation can pass through a mediator: Liu Bang cools Xiang Bo first, and Xiang Bo then cools Xiang Yu by translating the crisis into kinship, old comradeship, and义.
+- Hanji 141 adds a boundary: cooling the principal's anger may still leave uncooled factional pressure from advisers or other camp actors.
 
 ## Connections
 - [[ChuLong|触龙]], [[ZhaoWeihou|赵威后]], and [[ChangAnJunZhao|长安君]] - source case.
 - [[HostageDiplomacyRupture|质子外交破裂]], [[QiState|齐国]], [[QinState|秦国]], and [[ZhaoState|赵国]] - diplomatic pressure behind the persuasion problem.
 - [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[LiuBang|刘邦]], [[XiangBo|项伯]], [[ZhangLiang|张良]], and [[XiangYu|项羽]] - mediated de-escalation before Hongmen.
+- [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[FanZeng|范增]], [[XiangZhuang|项庄]], and [[AdvisorRoleBoundary|谋士越位]] - de-escalation limit once factional kill pressure reappears through performance.
 - [[ChuaimoTechnique|揣摩]], [[DignityBasedPersuasion|尊严激将式说服]], and [[InterestReframingPersuasion|利益重构式说服]] - adjacent persuasion patterns with different levers.

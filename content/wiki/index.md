@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》141｜还原历史中的“鸿门宴”](sources/zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy.md) — 芮淇讲透资治通鉴 episode on the opening of the Hongmen Banquet, Liu Bang's apology, Xiang Yu exposing Cao Wushang, Fan Zeng's jade-ring signals, Xiang Zhuang's sword dance, and Xiang Bo's protection of Liu Bang.
 - [《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（2）](sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e.md) — 芮淇讲透资治通鉴 episode completing Xiang Bo's night warning, Zhang Liang's refusal to flee alone, Liu Bang's courtesy-and-loyalty performance, Xiang Bo's persuasion of Xiang Yu, and the pre-Hongmen 灭刘/存刘 split.
 - [《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）](sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662.md) — 芮淇讲透资治通鉴 episode on Liu Bang's first-entry Guanzhong advantage, Xiang Yu's angry attack decision before Hongmen, Cao Wushang's leak, Fan Zeng's threat diagnosis and pretext failure, and Xiang Bo's entry into the Zhang Liang channel.
 - [《资治通鉴·汉纪》139｜“他”再次影响“汉朝”](sources/zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo.md) — 芮淇讲透资治通鉴 episode opening the Hanji branch through Ziying's surrender, Liu Bang's Bashang pacification and Yuefa Sanzhang, Xiao He's archive capture, and Xiang Yu's Xinan killing of surrendered Qin troops.
@@ -3542,9 +3543,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
 - [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose early Kuaiji coup, Xiangcheng massacre, killing of Song Yi, and later Hongmen Banquet power show charisma, violence, pride, and residual moral face.
 - [项伯 / Xiang Bo](entities/XiangBo.md) — Xiang Yu's trusted uncle and Xiang-family elder whose night warning, Zhang Liang tie, and 存刘 argument turn the pre-Hongmen attack order into a meeting.
+- [项庄 / Xiang Zhuang](entities/XiangZhuang.md) — Xiang-camp figure sent by Fan Zeng to use a sword dance as a covert attempt to kill Liu Bang at Hongmen.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
-- [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically.
+- [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically and then overreaches through Xiang Zhuang.
 - [樊哙 / Fan Kuai](entities/FanKuai.md) — Hongmen Banquet actor whose apparent blunt courage works as status-recognizing rhetoric.
+- [纪信 / Ji Xin](entities/JiXin.md) — Liu Bang-side trusted attendant who accompanies the Hongmen trip and waits outside Xiang Yu's tent.
+- [金强 / Jin Qiang](entities/JinQiang.md) — Liu Bang-side trusted attendant preserved under the source's 金强 transcript form in the Hongmen escort.
 - [司马迁 / Sima Qian](entities/SimaQian.md) — Historian used as both Hongmen narrative source and model for experience-cultivated prose force.
 - [《教一只猞猁忘记动物园》](entities/JiaoYiZhiSheliWangjiDongwuyuan.md) — 袁掌 nonfiction book using 天线宝宝's rescue, rehabilitation, release, and monitoring to explain wildlife care and public conservation.
 - [袁掌 / Yuan Zhang](entities/YuanZhang.md) — Wildlife-care worker, conservation communicator, and author discussing lynx rescue, release, and story-based public science.
@@ -7806,6 +7810,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Informer Source Protection / 告密者来源保护](concepts/InformerSourceProtection.md) — Political-intelligence discipline around protecting informants, created from Xiang Yu's exposure of Cao Wushang at Hongmen.
+- [Advisor Role Boundary / 谋士越位](concepts/AdvisorRoleBoundary.md) — Failure mode where correct strategic advice bypasses decision authority, legitimacy, and aftermath planning.
 - [约法三章 / Three-Article Covenant](concepts/YuefaSanzhang.md) — Liu Bang's temporary, simplified legal promise at Bashang that reassures Guanzhong after Qin's harsh-law collapse.
 - [Administrative Archive Capture / 行政档案接管](concepts/AdministrativeArchiveCapture.md) — Xiao He's choice to secure Qin maps, registers, and records as governing infrastructure instead of plunder.
 - [治安名义政变 / Palace Coup Under Policing Pretext](concepts/PalaceCoupUnderPolicingPretext.md) — Armed palace seizure packaged as a law-enforcement response, introduced through Yan Le's Wangyi Palace attack.
