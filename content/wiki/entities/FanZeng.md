@@ -2,7 +2,7 @@
 title: "范增 / Fan Zeng"
 type: entity
 tags: [strategist, chinese-history, power]
-sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ His failure is a political-handling failure. QinZong argues that Fan Zeng cannot
 
 [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] places Fan Zeng inside the command structure after [[XiangLiang|项梁]]'s death. Under [[HuaiwangAgreement|怀王之约]], [[MiXin|芈心 / 楚怀王]] sends [[SongYi|宋义]] as chief general, [[XiangYu|项羽]] as second general, and Fan Zeng as last general to rescue [[Julu|巨鹿]]. The source does not yet give Fan Zeng an active decision in this campaign; it mainly marks his formal place in the army that will lead into Xiang Yu's Julu branch.
 
+[[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] keeps Fan Zeng inside that stalled command. The source says Xiang Yu and Fan Zeng are anxious when Song Yi stops at [[AnyangQinRebellion|安阳]], but it gives the direct confrontation and later killing to Xiang Yu. Fan Zeng's role here is therefore mainly positional: he belongs to the same relief army whose formal hierarchy collapses before [[Julu|巨鹿]].
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - central source scene.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[FanKuai|樊哙]] - figures in the power field.
@@ -25,3 +27,4 @@ His failure is a political-handling failure. QinZong argues that Fan Zeng cannot
 - [[WangAnshi|王安石]] and [[GoodIntentionsPoliticalLimits]] - comparison branch around insight without enough political hand.
 - [[XiangLiang|项梁]], [[MiXin|芈心 / 楚怀王]], [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]], and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - Qinji 130-3 old-Chu legitimacy argument.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[SongYi|宋义]], [[XiangYu|项羽]], [[Julu|巨鹿]], and [[HuaiwangAgreement|怀王之约]] - formal place in the Chu relief command.
+- [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], and [[WartimeCommandDecapitation|战时统帅斩首]] - same command crisis, though the source gives the decisive action to Xiang Yu.

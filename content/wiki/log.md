@@ -9759,3 +9759,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,795 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identity validation found no case-insensitive key or public-route collisions. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while current lint scanned 12,795 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+## [2026-08-22] ingest | 《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？
+
+Added source page for Qinji 133: Song Yi's forty-six-day halt at Anyang on the way to Julu, his delayed-rescue argument, conflict with Xiang Yu, targeted discipline order, troop hardship, Wuyan banquet while soldiers suffer, and Xiang Yu's killing of Song Yi after framing him as selfish and not state-serving. Created Anyang (Qin Rebellion) and Wuyan County; updated overview, index, Song Yi, Xiang Yu, Fan Zeng, Mi Xin, Julu, Huaiwang Agreement, Delayed Rescue Statecraft, Military Morale Through Shared Hardship, Wartime Command Decapitation, and Anti-Qin Coalition Fragmentation. No settled contradiction found; kept Song Yi's strategy feasibility and Tian Du's background role source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

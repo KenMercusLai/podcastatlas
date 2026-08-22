@@ -2,7 +2,7 @@
 title: "Huaiwang Agreement / 怀王之约"
 type: concept
 tags: [legitimacy, rebellion, qin, chu-han, coalition, reward]
-sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
+sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]
 last_updated: 2026-08-22
 ---
 
@@ -16,12 +16,15 @@ It also changes Mi Xin's role. In [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-w
 
 The source treats the agreement as one foundation of later Han legitimacy. Liu Bang's eventual entry into Guanzhong can be read not merely as battlefield success but as fulfillment of a publicly announced Chu-alliance rule, making the agreement an important bridge from anti-Qin rebellion to [[WesternHanDynasty|Western Han]] lawful memory.
 
+[[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] shows the command risk inside the same allocation. The westward reward race continues in the background through [[LiuBang|刘邦]], but the Zhao-rescue side stalls when [[SongYi|宋义]] holds the army at [[AnyangQinRebellion|安阳]]. Xiang Yu's killing of Song Yi shows that a public reward rule can allocate missions without guaranteeing obedience inside a high-pressure army.
+
 ## Key Claims
 - A coalition promise can coordinate ambition by making reward rules public before victory is complete.
 - The agreement converts anti-Qin action from inherited-state restoration into performance-based kingship.
 - Mi Xin's ability to issue the rule shows that a restored figurehead can become an active allocator when the military patron dies.
 - The rule creates an incentive race toward Guanzhong while still leaving the Zhao rescue crisis to be handled by the Chu main force.
 - The agreement later strengthens Liu Bang's claim because entering Guanzhong first is attached to a prior political promise.
+- Mission allocation does not by itself solve command legitimacy; the Julu relief army can still split over timing, morale, and personal authority.
 
 ## Connections
 - [[MiXin|芈心 / 楚怀王]] - ruler whose court issues the agreement.
@@ -29,3 +32,4 @@ The source treats the agreement as one foundation of later Han legitimacy. Liu B
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], [[SongYi|宋义]], and [[FanZeng|范增]] - actors sorted into westward and rescue-Zhao missions.
 - [[Julu|巨鹿]], [[ZhaoXie|赵歇]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[WangLiQin|王离]] - crisis that pulls the Chu main army north.
 - [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]], [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], and [[MeritBasedRewardPunishment|因功赏罚]] - adjacent legitimacy and reward concepts.
+- [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], [[DelayedRescueStatecraft|晚救权谋]], and [[WartimeCommandDecapitation|战时统帅斩首]] - command breakdown on the rescue-Zhao side of the agreement.

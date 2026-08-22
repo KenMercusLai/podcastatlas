@@ -2,7 +2,7 @@
 title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
 type: concept
 tags: [military-history, leadership, morale, management]
-sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,10 @@ The source explicitly translates the pattern into modern management terms: leade
 
 [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] adds a long-campaign readiness version through [[WangJianQin|王翦]]. After refusing [[XiangYan|项燕]]'s challenges, Wang Jian keeps Qin troops fed, shares ordinary rhythms with them, and reads stone-throwing contests as a sign that delayed aggression has not become fatigue. This is less about dramatic sacrifice than about preserving physical confidence during [[FortifiedAttritionPatience|坚壁耗敌式耐心]].
 
+[[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] adds a negative case through [[SongYi|宋义]]. While the Chu rescue army waits at [[AnyangQinRebellion|安阳]] in cold rain, with food, fuel, and clothing in shortage, Song Yi leaves to send his son toward office in [[QiState|齐国]] and celebrates at [[WuyanCounty|无盐县]]. The source treats the contrast between soldiers' suffering and commander's comfort as a direct loss of command legitimacy.
+
+In this negative form, shared hardship is visible by its absence. [[XiangYu|项羽]] can accuse Song Yi of ignoring the troops and pursuing private interest, then convert that morale grievance into [[WartimeCommandDecapitation|战时统帅斩首]]. The episode therefore links morale not only to willingness to fight but also to whether soldiers accept the commander's right to delay battle.
+
 ## Key Claims
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
@@ -29,6 +33,8 @@ The source explicitly translates the pattern into modern management terms: leade
 - Battlefield resolve is easier to sustain under existential siege than after rank, wealth, and court danger create reasons to survive and appear harmless.
 - Siege morale can also depend on whether elite households visibly convert protected wealth and comfort into the defense borne by ordinary soldiers and commoners.
 - In a fortified waiting strategy, morale can appear as disciplined appetite for action rather than immediate combat.
+- A commander's visible comfort during troop hardship can make strategic delay look like selfish passivity.
+- Failed shared hardship can undermine the commander's right to enforce discipline and create an opening for violent replacement.
 
 ## Connections
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
@@ -39,3 +45,4 @@ The source explicitly translates the pattern into modern management terms: leade
 - [[TianDan|田单]], [[LuZhonglian|鲁仲连]], [[QiXiangWang|齐襄王]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 part 2 high-merit commander constraint.
 - [[LiTan|李谈 / 李同]], [[Pingyuanjun|平原君]], [[Handan|邯郸]], and [[EliteCrisisBurdenSharing|贵族危机共担动员]] - Zhouji 96 part 4 siege mobilization and household-sacrifice extension.
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 long-wait morale and readiness case.
+- [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[SongYi|宋义]], [[XiangYu|项羽]], [[AnyangQinRebellion|安阳]], and [[WuyanCounty|无盐县]] - negative case where commander insulation from soldier hardship helps justify command decapitation.

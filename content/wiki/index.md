@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？](sources/zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx.md) — 芮淇讲透资治通鉴 episode on Song Yi's forty-six-day halt at Anyang, his conflict with Xiang Yu, the Wuyan banquet morale failure, and Xiang Yu's killing of Song Yi before Julu.
 - [《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神](sources/zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw.md) — 芮淇讲透资治通鉴 episode on Xiang Liang's death at Dingtao, Mi Xin's Pengcheng reorganization, the Huaiwang agreement, the Julu rescue command, and Liu Bang's westward Guanzhong assignment.
 - [《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思](sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei.md) — 芮淇讲透资治通鉴 episode on alcohol's constructive side through poetic wine culture, Li Bai, Du Fu's Drinking Eight Immortals, Li Qingzhao's wine lyrics, Genghis Khan, Confucius, and drinking restraint.
 - [《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好](sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd.md) — 芮淇讲透资治通鉴 episode on alcohol as a catalyst across Cao Cao's Wancheng disaster, Zhang Fei losing Xuzhou, Li Yuan's Jinyang rebellion pressure, Gao Yang's imperial violence, Jin Ping Mei, Guifei Zuijiu, Mei Lanfang's adaptation, and Li Qingzhao's wine lyrics.
@@ -1221,7 +1222,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [巨鹿 / Julu](entities/Julu.md) — Besieged Zhao refuge whose crisis pulls Song Yi, Xiang Yu, and Fan Zeng into the Chu rescue mission.
+- [安阳 / Anyang (Qin Rebellion)](entities/AnyangQinRebellion.md) — Stopping point where Song Yi's forty-six-day delayed rescue turns the Julu mission into a Chu command crisis.
+- [无盐县 / Wuyan County](entities/WuyanCounty.md) — Chu-Qi border location where Song Yi's celebratory sendoff for his son contrasts with the suffering Chu army at Anyang.
+- [巨鹿 / Julu](entities/Julu.md) — Besieged Zhao refuge whose crisis pulls Song Yi, Xiang Yu, and Fan Zeng into the Chu rescue mission and later exposes Song Yi's delayed-rescue command failure.
 - [关中 / Guanzhong Region](entities/GuanzhongRegion.md) — Qin heartland and the promised kingship target in the Huaiwang agreement.
 - [杜甫 / Du Fu](entities/DuFu.md) — Tang poet whose Drinking Eight Immortals poem lets the source present wine as social portrait and poetic culture.
 - [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
@@ -1241,7 +1244,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《贵妃醉酒》 / Guifei Zuijiu](entities/GuifeiZuijiu.md) — Stage work whose older erotic drunkenness branch is said to be reshaped by Mei Lanfang.
 - [梅兰芳 / Mei Lanfang](entities/MeiLanfang.md) — Performer/reformer credited with removing or softening explicit material from Guifei Zuijiu.
 - [李清照 / Li Qingzhao](entities/LiQingzhao.md) — Song lyric poet introduced as the episode's final, source-scoped female wine-and-poetry branch.
-- [宋义 / Song Yi](entities/SongYi.md) — Former Chu lingyin whose warning about Xiang Liang's arrogance is vindicated before Mi Xin appoints him chief general for the Julu relief army.
+- [宋义 / Song Yi](entities/SongYi.md) — Former Chu lingyin whose Julu relief command collapses after delayed rescue, troop hardship, the Wuyan banquet, and Xiang Yu's killing of him.
 - [上蔡 / Shangcai](entities/Shangcai.md) — Li Si's hometown and the east-gate memory point behind the Dongmen Yellow Dog regret idiom.
 - [冯劫 / 冯杰 / Feng Jie (Qin)](entities/FengJieQin.md) — Qin general who joins Li Si and Feng Quji in urging Hu Hai to suspend Afang Palace and reduce burdens, then is arrested with them.
 - [芈心 / Mi Xin / Later Chu Huai Wang](entities/MiXin.md) — Shepherd descendant of old Chu Huai Wang installed by Xiang Liang as restored Chu figurehead after Fan Zeng's advice.
@@ -3496,7 +3499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩琦 / Han Qi](entities/HanQi.md) — Northern Song official addressed by Su Zhe and associated with the exam opportunity that makes Su Zhe's youthful force visible.
 - [宋仁宗 / Song Renzong](entities/SongRenzong.md) — Emperor used in episode 164 as a political truth-telling case around invited criticism and tolerance.
 - [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
-- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose early Kuaiji coup role and later Hongmen Banquet power both show charisma, violence, pride, and residual moral face.
+- [项羽 / Xiang Yu](entities/XiangYu.md) — Chu noble warrior whose early Kuaiji coup, Xiangcheng massacre, killing of Song Yi, and later Hongmen Banquet power show charisma, violence, pride, and residual moral face.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
 - [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically.
 - [樊哙 / Fan Kuai](entities/FanKuai.md) — Hongmen Banquet actor whose apparent blunt courage works as status-recognizing rhetoric.
@@ -7761,7 +7764,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Huaiwang Agreement / 怀王之约](concepts/HuaiwangAgreement.md) — Mi Xin's promise that whoever first enters Guanzhong and destroys Qin will become king there, turning coalition ambition into a reward rule.
+- [Huaiwang Agreement / 怀王之约](concepts/HuaiwangAgreement.md) — Mi Xin's Guanzhong reward rule and mission allocation, whose Julu-rescue side soon exposes command legitimacy risk under Song Yi and Xiang Yu.
 - [Poetic Wine Culture / 诗酒文化](concepts/PoeticWineCulture.md) — Frame where alcohol functions as poetic occasion, social warmth, inspiration, longing, and grief when bounded by restraint.
 - [Temperate Drinking Self-Control / 节制饮酒与自我控制](concepts/TemperateDrinkingSelfControl.md) — Ethical frame for enjoying drink without being trapped by it, grounded through Genghis Khan and Confucius.
 - [Alcohol as Power Catalyst / 酒作为权力催化剂](concepts/AlcoholAsPowerCatalyst.md) — Pattern where drinking amplifies existing desire, courage, humiliation, brutality, or sorrow, with larger consequences around rulers and military power.
@@ -7776,7 +7779,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Punitive Inspection Loyalty Trap / 苛察忠诚陷阱](concepts/PunitiveInspectionLoyaltyTrap.md) — Zhang Chu governance failure where inspectors treat harshness and extrajudicial punishment as evidence of loyalty.
 - [Duze Extraction Politics / 督责式压榨政治](concepts/DuzeExtractionPolitics.md) — Late-Qin governance pattern where Li Si's self-protective memorial validates Hu Hai's pressure, extraction, and killing incentives.
 - [Status Insult Defection Cascade / 名分羞辱触发叛变](concepts/StatusInsultDefectionCascade.md) — Pattern where a ritual/status slight activates a preexisting defection option and turns personal humiliation into regime collapse.
-- [Wartime Command Decapitation / 战时统帅斩首](concepts/WartimeCommandDecapitation.md) — Qinji 129-1 pattern where a command group kills a stalled commander under crisis and seeks legitimacy through false or tacit superior authorization.
+- [Wartime Command Decapitation / 战时统帅斩首](concepts/WartimeCommandDecapitation.md) — Pattern where crisis, hardship, or authorization claims make killing a commander appear as urgent operational correction.
 - [Low-Status Strategic Persuasion / 低位者战略说服](concepts/LowStatusStrategicPersuasion.md) — Qinji 128-8 pattern where a low-status envoy wins a state decision by identifying the other side's missed incentive risk.
 - [沛县起义动员 / Pei County Uprising Mobilization](concepts/PeiCountyUprisingMobilization.md) — Liu Bang's route from corvee-escort fugitive to Pei Gong through Fan Kuai, Xiao He, Cao Shen, local elders, and county self-preservation.
 - [会稽郡守府夺权 / Kuaiji Commandery Coup](concepts/KuaijiCommanderyCoup.md) — Xiang Liang and Xiang Yu kill Yin Tong, seize the commandery seal, and convert Qin commandery resources into rebel military force.
@@ -8087,7 +8090,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peace-Parley Entrapment / 和谈诱捕](concepts/PeaceParleyEntrapment.md) — Battlefield-deception pattern where friendship, oath, banquet, and peace language isolate a commander for capture.
 - [Farming-War Statecraft / 耕战逻辑](concepts/FarmingWarStatecraft.md) — Qin reform logic routing state capacity and elite advancement through agriculture and war, with battlefield merit as the higher-reward channel.
 - [Decreasing Stoves Deception / 减灶诱敌](concepts/DecreasingStovesDeception.md) — Sun Bin's Maling tactic of reducing visible camp stoves so Pang Juan reads staged false weakness as Qi desertion.
-- [Delayed Rescue Statecraft / 晚救权谋](concepts/DelayedRescueStatecraft.md) — Sun Bin's intervention-timing strategy: reassure an ally privately, let enemy and ally exhaust each other, then rescue with greater leverage.
+- [Delayed Rescue Statecraft / 晚救权谋](concepts/DelayedRescueStatecraft.md) — Intervention-timing strategy that can create leverage when disciplined, or collapse when delay destroys morale and command trust.
 - [Crown-Prince Command Risk / 太子挂帅风险](concepts/CrownPrinceCommandRisk.md) — Succession and military-command risk created when an heir gains battlefield authority, officer networks, or combat exposure.
 - [Forced-March Operational Risk / 急行军作战风险](concepts/ForcedMarchOperationalRisk.md) — Military risk that rapid pursuit for advantage breaks command, logistics, formation, and endurance before battle, especially after deceptive signals.
 - [Poll Tax / 人头税](concepts/PollTax.md) — Tax charged by person, which the episode reads as likely emerging from Shang Yang's 348 BCE fiscal reform.
@@ -8147,7 +8150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
-- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, soldiers' willingness to fight, and readiness under delayed battle.
+- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, visible insulation from hardship, discipline, and soldiers' willingness to accept delayed battle.
 - [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
 - [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that "bandits killed the ruler" may identify physical killers while obscuring political authorship.
 - [Small-State Buffer Diplomacy / 小国夹缝外交](concepts/SmallStateBufferDiplomacy.md) — Pattern where a small state between great powers appears fickle because any alliance choice creates another threat.
