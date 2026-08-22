@@ -2,8 +2,8 @@
 title: "陈平 / Chen Ping"
 type: entity
 tags: [person, qin-han, chu-han, strategy, social-capital]
-sources: [zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]
+last_updated: 2026-08-23
 ---
 
 # 陈平 / Chen Ping
@@ -44,6 +44,10 @@ For this source, Chen Ping's importance is transitional. He is a Xiang-camp agen
 
 [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] returns Chen Ping to the moment before his later self-defense. [[ZhouBo|周勃]], [[GuanYing|灌婴]], and other old generals complain that Chen Ping has only appearance, switched camps from Wei to Chu to Han, has sexual scandal attached to him, and takes bribes from officers. The source leaves the truth unresolved and ends with Liu Bang beginning to suspect Chen Ping, making this a pre-resolution scene for [[VeteranMeritCliqueSupervision|功臣旧将监督]] rather than a settled verdict on Chen Ping.
 
+[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] resolves that thread. [[WeiWuzhi|魏无知]] answers [[LiuBang|刘邦]] by separating the talent he recommended from the personal virtue Liu Bang is questioning, and Chen Ping answers the money charge in practical terms: he arrived poor and needed resources to live and work. Liu Bang accepts the answer, apologizes, rewards Chen Ping, and confirms him in a supervisory role over generals.
+
+The same source reopens Chen Ping's early family evidence from [[Shiji|《史记》]]. It reads [[ChenPingSisterInLaw|陈平嫂]]'s hostility and [[ChenPingBrother|陈平兄]]'s decision to expel her as evidence that the "盗嫂" charge is probably an old-general smear rather than a reliable family scandal. This adds [[MoralSlanderReframing|道德诬陷焦点转移]] to Chen Ping's profile: he does not win by proving a negative exhaustively, but by returning Liu Bang to usefulness, evidence, and role.
+
 ## Connections
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] - patron switching, Xiang-camp exit, Yellow River self-protection, and Liu Bang-side appointment.
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] - later Liu Bang trust, Lu Zhi-era ambiguity, Zhou Bo partnership, and Emperor Wen transition.
@@ -63,3 +67,4 @@ For this source, Chen Ping's importance is transitional. He is a Xiang-camp agen
 - [[PowerEtiquetteReading|权力礼仪细读]] and [[CoalitionSettlementFailure|联军战后安排失败]] - surrounding interpretive frames for reading personnel movement and Xiang-camp weakness.
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[PengchengBattle|彭城之战]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - momentary adviser silence during Pengcheng indulgence.
 - [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], and [[VeteranMeritCliqueSupervision|功臣旧将监督]] - old-general attack on Chen Ping's rapid outsider rise.
+- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[WeiWuzhi|魏无知]], [[ChenPingBrother|陈平兄]], [[ChenPingSisterInLaw|陈平嫂]], and [[MoralSlanderReframing|道德诬陷焦点转移]] - resolution of the "盗嫂/受金" accusation thread through talent framing, practical explanation, and source-critical family evidence.

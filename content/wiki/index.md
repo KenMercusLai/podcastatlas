@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？](sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8.md) — 芮淇讲透资治通鉴 episode resolving the Chen Ping "盗嫂/受金" accusations through Wei Wuzhi's talent defense, Chen Ping's practical money explanation, Liu Bang's renewed trust, and source-critical skepticism toward the family-scandal smear.
 - [《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）](sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu.md) — 芮淇讲透资治通鉴 episode on Liu Bang's concrete post-Pengcheng recovery through Sui He's Jiujiang mission, the Xingyang front, Xiao He and Han Xin's emergency support, Guan Ying's cavalry force, Aocang logistics, and the Chen Ping veteran backlash.
 - [《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（1）](sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Pengcheng recovery question at Xiayi, Zhang Liang's Xiayi Plan, the Ying Bu/Peng Yue/Han Xin multi-front strategy, and Sui He's volunteered mission to Jiujiang.
 - [《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）](sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Pengcheng flight, Xiahou Ying's rescue of Liu Ying and Princess Lu Yuan, Zeng He's disciplined holdout, family-hostage pressure, and post-defeat alliance repricing.
@@ -1274,11 +1275,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁元公主 / Princess Lu Yuan](entities/LuYuanPrincess.md) — Liu Bang's daughter in the Pengcheng escape scene, paired with Liu Ying in the cart-flight account.
 - [董公 / Dong Gong (Xincheng)](entities/DongGongXincheng.md) — Xincheng elder whose advice turns Yi Emperor Mi Xin's murder into Liu Bang's mourning-based anti-Xiang mobilization pretext.
 - [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, disambiguated from Yan's Tian Guang and tied to renewed Qi resistance before Pengcheng.
-- [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu.
+- [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu and later defends the recommendation by separating useful talent from moral-smear pressure.
 - [修武 / Xiuwu](entities/Xiuwu.md) — Liu Bang's Henei-area camp where Chen Ping arrives and is introduced through Wei Wuzhi.
 - [冒顿单于 / Modu Chanyu](entities/MaoDunChanyu.md) — Xiongnu ruler whose Baideng encirclement of Liu Bang becomes a Chen Ping covert-leverage case in Hanji 150 part 4.
 - [白登之围 / Baideng Encirclement](entities/BaidengEncirclement.md) — Early Han frontier crisis where Chen Ping's reported stratagem works through Modu Chanyu's household-status pressure rather than open force.
 - [张负 / Zhang Fu](entities/ZhangFu.md) — Huyou local wealthy elder who notices Chen Ping's bearing and visitor traffic, then backs him through marriage funding and family alliance.
+- [陈平兄 / Elder Brother of Chen Ping](entities/ChenPingBrother.md) — Unnamed brother who supports Chen Ping's early non-farming formation and whose expulsion of his wife becomes evidence in the Hanji 154 "盗嫂" analysis.
+- [陈平嫂 / Sister-in-law of Chen Ping](entities/ChenPingSisterInLaw.md) — Unnamed sister-in-law whose hostility toward Chen Ping is used by Hanji 154 to question the credibility of the "盗嫂" allegation.
 - [陈平妻 / Wife of Chen Ping](entities/ChenPingWife.md) — Zhang Fu's unnamed granddaughter whose marriage to Chen Ping converts stigma, family backing, and wedding support into early social-capital mobility.
 - [《荆楚岁时记》 / Jingchu Suishi Ji](entities/JingChuSuiShiJi.md) — Festival-custom record cited for Jingchu New Year greetings, pepper-cypress wine, peach decoction, and egg eating.
 - [《四民月令》 / Simin Yueling](entities/SiminYueling.md) — Eastern Han seasonal text cited for pepper-cypress wine as a New Year drink.
@@ -1298,8 +1301,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩信 / Han Xin](entities/HanXin.md) — Future Han general now extended from Huaiyin poverty and 忍辱大勇 into public command, Hanzhong Dui, Qin-style army reform, and the Chen Cang campaign.
 - [陈仓 / Chen Cang](entities/ChenCang.md) — Hanji 148-1 route and battle point where Han Xin's layered feints become the central breakthrough against Zhang Han.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
-- [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer later paired with Chen Ping in Hanji 150 part 3's Lu Zhi-era ambiguity and post-Lu restoration frame.
-- [灌婴 / Guan Ying](entities/GuanYing.md) — Liu Bang-side officer grouped with Zhou Bo and Fan Kuai in Hanji 144's post-Hanzhong morale-management scene.
+- [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer who both joins the old-general accusation against Chen Ping and later pairs with him in Lu Zhi-era survival and post-Lu restoration.
+- [灌婴 / Guan Ying](entities/GuanYing.md) — Liu Bang-side cavalry commander and old-general figure whose post-Pengcheng role includes both Han cavalry formation and the Chen Ping accusation campaign.
 - [南郑 / Nanzheng](entities/Nanzheng.md) — Liu Bang's assigned Han-king capital, first a morale and retention test and then the implied setting for Han Xin's Hanzhong Dui planning.
 - [郴县 / Chen County (Changsha)](entities/ChenxianChangsha.md) — Changsha-commandery relocation site where Xiang Yu sends Mi Xin after virtually honoring him as Yi Emperor.
 - [申阳 / Shen Yang](entities/ShenYang.md) — Settlement lord made Henan king after taking Sanchuan and welcoming the Chu army in Hanji 143.
@@ -1309,7 +1312,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田安 / Tian An](entities/TianAn.md) — Qi-side figure made Jibei king as Xiang Yu fragments the Qi settlement.
 - [共敖 / Gong Ao](entities/GongAo.md) — Chu-side commander made Linjiang king for attacking Nan commandery.
 - [梅鋗 / Mei Juan](entities/MeiJuan.md) — Wu Rui subordinate rewarded as a large marquis in Xiang Yu's settlement.
-- [陈平 / Chen Ping](entities/ChenPing.md) — Chu-Han political operator whose early local trust, covert strategy, self-protective patron switching, Liu Bang-side outsider role, and three-court survival frame him as a pragmatic survivor.
+- [陈平 / Chen Ping](entities/ChenPing.md) — Chu-Han political operator whose early local trust, covert strategy, outsider supervision role, slander response, and three-court survival frame him as a pragmatic survivor.
 - [韩生 / Han Sheng](entities/HanSheng.md) — Adviser who tells Xiang Yu to hold Guanzhong after entering Xianyang and is killed after the "沐猴而冠" criticism reaches Xiang Yu.
 - [霸上 / Bashang](entities/Bashang.md) — Liu Bang's post-Xianyang camp where palace withdrawal, Yuefa Sanzhang, and refusal of local gifts become occupation pacification.
 - [新安坑降 / Xinan Massacre](entities/XinanMassacre.md) — Xiang Yu's killing of surrendered Qin troops near Xinan, framed as an immediate security decision that destroys Qin-population support.
@@ -4709,7 +4712,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
-- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Han Xin's appointment, commandery absorption, and Chen Ping's outsider supervision role.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now runs from Pei County social capital through Guanzhong occupation, Han Xin's appointment, commandery absorption, and his decision to keep Chen Ping despite veteran accusations.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
@@ -7895,10 +7898,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tactical Delay Risk Transfer / 延时转责式政治化解](concepts/TacticalDelayRiskTransfer.md) — Chen Ping and Zhou Bo frame for converting an irreversible execution order into custody, transport, and delayed sovereign responsibility.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
+- [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Chen Ping frame for treating self-preservation, maneuvering room, and factional timing as core political disciplines in lethal court politics.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
-- [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals whose shared merit and ties make ordinary discipline harder.
-- [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors.
+- [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.
+- [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors and sustaining that signal through insider backlash.
 - [Local Social Capital Accumulation / 乡里社会资本积累](concepts/LocalSocialCapitalAccumulation.md) — Chen Ping's early pattern of converting reading, friendships, funeral help, Zhang-family marriage backing, and local trust into political capacity.
 - [Fair Allocation As Political Skill / 公平分配式政治能力](concepts/FairAllocationPoliticalSkill.md) — Chen Ping's社祭分肉 scene and later reward-distribution logic as visible benefit allocation that creates public trust and internal cohesion.
 - [YuanDan Festival Layering / 元旦节日层累](concepts/YuanDanFestivalLayering.md) — New Year concept where 元旦 combines mythic origin, calendar standardization, textual memory, food, protective plants, door symbols, poetry, and present-day blessing.
@@ -8193,7 +8197,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Queen-Mother Regency / 太后摄政](concepts/QueenMotherRegency.md) — Court-power pattern where a young ruler's mother governs through kin, office, purge capacity, and diplomatic choices.
 - [胡服骑射 / Hu Fu Qi She](concepts/HufuQishe.md) — Zhao Wuling Wang's military reform linking Hu-style clothing, horseback mobility, archery, Zhongshan strategy, elite compliance, and Hu recruitment.
 - [Interstate Cascade Diplomacy / 多国连锁外交](concepts/InterstateCascadeDiplomacy.md) — Zigong-style rescue strategy that redirects one state's attack by chaining several rulers' incentives across Qi, Wu, Yue, Jin, and Lu.
-- [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Risk model where repeated accusation, court pressure, or battlefield frustration makes a ruler abandon a commander mid-campaign.
+- [Rumor Erosion of Trust / 谣言侵蚀信任](concepts/RumorErosionOfTrust.md) — Risk model where accusation erodes ruler trust, now including Hanji 154's failed smear against Chen Ping.
 - [Oath-Bound Command Trust / 盟誓约束下的统帅信任](concepts/OathBoundCommandTrust.md) — Political commitment device where a ruler publicly binds support for a long campaign before predictable slander begins.
 - [Affection-Driven Succession Risk / 宠爱驱动的立储风险](concepts/AffectionDrivenSuccessionRisk.md) — Succession danger when ruler affection for a spouse or younger child destabilizes an older legitimate branch.
 - [Mencian Great-Man Criterion / 孟子大丈夫标准](concepts/MencianGreatManCriterion.md) — Mencius's test that greatness requires moral steadiness under wealth, poverty, and force rather than mere political impact.
@@ -8298,7 +8302,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renhe Political Power / 人和政治力量](concepts/RenhePoliticalPower.md) — Source synthesis that talent respect, promise-keeping, and diplomatic consistency turn human alignment into political strength.
 - [Succession-Crisis Intervention / 继承危机外部干预](concepts/SuccessionCrisisIntervention.md) — Pattern where unresolved succession invites outside powers to back claimants, seize leverage, or redesign a target state.
 - [Coalition Settlement Failure / 联军战后安排失败](concepts/CoalitionSettlementFailure.md) — Pattern where battlefield victory fails to become durable political order because the postwar settlement creates incompatible claims, coercive repairs, and new strategic openings.
-- [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Sima Guang personnel-judgment frame extended by motive and level tests for whether useful skill counts as worthy talent.
+- [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Personnel-judgment frame now spanning Sima Guang's severe rule, motive and level tests, and Hanji 154's wartime talent defense.
 - [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Yu Rang honor logic where exceptional patron recognition creates exceptional repayment obligation.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
@@ -8311,7 +8315,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strategic Capital Relocation / 战略性迁都](concepts/StrategicCapitalRelocation.md) — Mechanism by which Han's repeated capital moves show sustained pressure toward Zheng.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
-- [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Zisi's talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes.
+- [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes or ungrounded scandal.
 - [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce self-certainty, palace filtering, manipulative intimacy, or suspicion-confirming interpretations instead of correcting errors.
 - [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where state-strengthening reform creates concentrated resistance, from violent backlash to ritual-identity opposition and managed compliance.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.

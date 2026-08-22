@@ -10066,3 +10066,11 @@ Added source page for Hanji 153 part 2: Sui He's Jiujiang mission departure, Liu
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,965 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？
+
+Added source page for Hanji 154: the follow-up to Chen Ping's "盗嫂/受金" accusations through Wei Wuzhi's talent-versus-virtue defense, Chen Ping's practical explanation for accepting money, Liu Bang's apology and renewed appointment, and the source-critical argument that "盗嫂" is likely old-general slander rather than a reliable family scandal. Created Moral Slander Reframing, Chen Ping Brother, and Chen Ping Sister-in-law; updated overview, index, Chen Ping, Wei Wuzhi, Liu Bang, Zhou Bo, Guan Ying, Talent-Virtue Distinction, Use Strengths Over Faults, Veteran Merit-Clique Supervision, Outsider Talent Signaling, Rumor Erosion of Trust, and Hanji 153 part 2. No settled contradiction found; kept the source's uncertainty caveat around absolute proof while recording "受金" as explainable and "盗嫂" as likely smear.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

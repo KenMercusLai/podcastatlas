@@ -5,7 +5,7 @@ tags: [podcast, zizhi-tongjian, han, chu-han, liu-bang, xingyang, cavalry, logis
 sources: []
 date: 2026-01-16
 source_file: "/home/ken/repos/podcastatlas/content/episodes/《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2） [ll_RvX07PyW_qG1JofkJro_qfLLU].md"
-last_updated: 2026-08-22
+last_updated: 2026-08-23
 ---
 
 # 《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）
@@ -42,4 +42,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 ## Contradictions
 - No settled contradiction is recorded. This source extends Hanji 153 part 1 by showing initial execution and stabilization after the plan, rather than changing the Xiayi Plan itself.
 - Source-scope caution: Guan Ying being "only second to Xiang Yu" as a cavalry tactician is recorded as the host's evaluation, not as an independent ranking.
-- Source-scope caution: the claims against Chen Ping are accusations inside a personnel conflict; this episode ends before resolving their truth or Chen Ping's answer.
+- Source-scope caution: the claims against Chen Ping are accusations inside a personnel conflict; this episode ends before resolving their truth or Chen Ping's answer. [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] follows up by treating "受金" as practically explainable and "盗嫂" as likely slander.

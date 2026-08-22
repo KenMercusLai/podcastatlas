@@ -8263,6 +8263,14 @@
     "title": "陈平 / Chen Ping",
     "url": "/wiki/entities/chenping/"
   },
+  "ChenPingBrother": {
+    "title": "陈平兄 / Elder Brother of Chen Ping",
+    "url": "/wiki/entities/chenpingbrother/"
+  },
+  "ChenPingSisterInLaw": {
+    "title": "陈平嫂 / Sister-in-law of Chen Ping",
+    "url": "/wiki/entities/chenpingsisterinlaw/"
+  },
   "ChenPingWife": {
     "title": "陈平妻 / Wife of Chen Ping",
     "url": "/wiki/entities/chenpingwife/"
@@ -28650,6 +28658,10 @@
   "MoralResponsibilityUnderDeterminism": {
     "title": "Moral Responsibility Under Determinism / 决定论下的道德责任",
     "url": "/wiki/concepts/moralresponsibilityunderdeterminism/"
+  },
+  "MoralSlanderReframing": {
+    "title": "Moral Slander Reframing / 道德诬陷焦点转移",
+    "url": "/wiki/concepts/moralslanderreframing/"
   },
   "MoralSuspensionInArtReading": {
     "title": "Moral Suspension In Art Reading",
@@ -50990,6 +51002,10 @@
   "zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu": {
     "title": "《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu/"
+  },
+  "zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8": {
+    "title": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

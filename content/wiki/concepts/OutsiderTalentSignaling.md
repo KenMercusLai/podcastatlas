@@ -2,8 +2,8 @@
 title: "Outsider Talent Signaling / 厚待外来人才信号"
 type: concept
 tags: [talent, recruitment, signaling, chu-han, statecraft]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+last_updated: 2026-08-23
 ---
 
 # Outsider Talent Signaling / 厚待外来人才信号
@@ -14,14 +14,18 @@ The host argues that Liu Bang is not only judging one person. After the success 
 
 This concept is the recruitment-side counterpart to [[VeteranMeritCliqueSupervision|功臣旧将监督]]. The same outsider appointment helps supervise insiders and signals to other outsiders that the ruler's talent market is open.
 
+[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] adds the stress test. The signal would collapse if old generals could remove Chen Ping with accusations as soon as he was promoted. Liu Bang's apology, reward, and confirmation of Chen Ping's supervisory role therefore make the public signal more credible: outsiders can see that appointment is not automatically revoked when insiders complain.
+
 ## Key Claims
 - Rewarding an outsider can broadcast recruitment credibility beyond the individual appointee.
 - Publicly trusting new talent can be more persuasive than abstract claims about loving worthy people.
 - The signal is risky because insiders may resent the newcomer, but that resentment can be acceptable if the ruler needs more talent and independent oversight.
 - The mechanism depends on follow-through: outsiders will read whether the promised authority is real.
+- A signal is strengthened when the ruler sustains it through insider backlash, not only when he makes the initial appointment.
 
 ## Connections
 - [[LiuBang|刘邦]], [[ChenPing|陈平]], and [[HanXin|韩信]] - source recruitment chain.
 - [[WeiWuzhi|魏无知]] and [[Xiuwu|修武]] - access channel and receiving camp.
 - [[VeteranMeritCliqueSupervision|功臣旧将监督]] - paired internal-control logic.
+- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] and [[MoralSlanderReframing|道德诬陷焦点转移]] - accusation response as a follow-through test for the outsider signal.
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[StrategicRecognitionAlignment|谋略知己式归附]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - adjacent talent-attraction frames.

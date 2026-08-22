@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5090
+wiki_total_pages: 5091
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "MoralResponsibilityUnderDeterminism"
     title: "Moral Responsibility Under Determinism / 决定论下的道德责任"
     url: "/wiki/concepts/moralresponsibilityunderdeterminism/"
+  - key: "MoralSlanderReframing"
+    title: "Moral Slander Reframing / 道德诬陷焦点转移"
+    url: "/wiki/concepts/moralslanderreframing/"
   - key: "MoralSuspensionInArtReading"
     title: "Moral Suspension In Art Reading"
     url: "/wiki/concepts/moralsuspensioninartreading/"

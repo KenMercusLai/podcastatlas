@@ -2,8 +2,8 @@
 title: "Rumor Erosion of Trust / 谣言侵蚀信任"
 type: concept
 tags: [governance, trust, court-politics, rhetoric, pre-qin-history]
-sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+last_updated: 2026-08-23
 ---
 
 # Rumor Erosion of Trust / 谣言侵蚀信任
@@ -24,6 +24,8 @@ The concept matters because it treats trust as a political resource with a decay
 
 [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] makes Guo Kai's trust-destroying role repeat at higher stakes. This time the rumor is not about [[LianPo|廉颇]]'s age but about [[LiMu|李牧]] and [[SimaShang|司马尚]] plotting rebellion during Qin's 229 BCE invasion. Zhao's damaged disaster environment and [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]]'s weak judgment make the accusation actionable.
 
+[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] adds a useful failed-rumor case inside [[LiuBang|刘邦]]'s camp. [[ZhouBo|周勃]], [[GuanYing|灌婴]], and other old generals accuse [[ChenPing|陈平]] of "盗嫂," but [[WeiWuzhi|魏无知]] and Chen Ping move Liu Bang back to evidence, usefulness, and role. The source therefore shows that rumor erosion is not automatic: a ruler can block it when accuser access is weak and the target's value is concrete.
+
 ## Key Claims
 - Repetition can make even implausible accusation politically effective.
 - Campaign duration increases the time available for court factions to reframe a commander's delay as betrayal or incompetence.
@@ -35,6 +37,7 @@ The concept matters because it treats trust as a political resource with a decay
 - Even battlefield success can erode trust when the success makes a subject look like an alternative center of authority.
 - Court reporting can convert a commander's physical display into damaging evidence when an intermediary is bribed.
 - Disaster and famine can accelerate rumor erosion because public fear, low morale, and military stress make loyalty stories easier to operationalize.
+- Rumor can fail when the ruler tests accuser credibility, separates concrete faults from ungrounded scandal, and still needs the target's role-specific ability.
 
 ## Connections
 - [[GanMao|甘茂]] and [[QinWuwang|秦武王]] - speaker and ruler whose trust is at issue.
@@ -47,3 +50,4 @@ The concept matters because it treats trust as a political resource with a decay
 - [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - Qinji 103-2 success-to-suspicion branch.
 - [[LianPo|廉颇]], [[ZhaoDaoxiangwang|赵道襄王]], [[GuoKai|郭开]], and [[LeCheng|乐乘]] - Qinji 104 late-career blocked recall and command-trust collapse.
 - [[LiMu|李牧]], [[SimaShang|司马尚]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], [[DisasterExploitingConquestTiming|趁灾进攻时机]], and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] - disaster-era accusation and Zhao's final command-trust collapse.
+- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[ChenPing|陈平]], [[WeiWuzhi|魏无知]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], and [[MoralSlanderReframing|道德诬陷焦点转移]] - failed same-camp smear against a useful outsider.

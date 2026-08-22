@@ -2,8 +2,8 @@
 title: "Talent-Virtue Distinction / 才德之分"
 type: concept
 tags: [governance, ethics, chinese-history, talent]
-sources: [zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
+last_updated: 2026-08-23
 ---
 
 # Talent-Virtue Distinction / 才德之分
@@ -22,6 +22,8 @@ The episode's practical rule is severe: if a ruler cannot find a saint or gentle
 
 [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] applies a related distinction to patronage quality. [[Mengchangjun|孟尝君 / 田文]]'s retainers are capable enough to save him through theft and rooster imitation, but [[WangAnshi|王安石]]'s critique asks whether such ability counts as the kind of talent a ruler or minister should seek. The source therefore adds [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]]: ability must be ranked by governing level and public consequence, not just by usefulness in a crisis.
 
+[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] adds a wartime reversal through [[WeiWuzhi|魏无知]] defending [[ChenPing|陈平]] to [[LiuBang|刘邦]]. Wei Wuzhi does not say virtue is irrelevant in all offices; he says Liu Bang's immediate question is whether Chen Ping's talent can help win the Chu-Han struggle. The episode therefore qualifies the older severe rule with a role-and-crisis lens: personal virtue concerns remain visible, but they cannot automatically overrule scarce useful ability.
+
 This concept sits beside the wiki's existing talent-use branch. [[UseStrengthsOverFaults]] asks rulers not to waste useful ability over lesser blemishes, while talent-virtue distinction asks when a flaw is not a blemish but a moral direction that can turn ability into danger.
 
 ## Key Claims
@@ -33,6 +35,7 @@ This concept sits beside the wiki's existing talent-use branch. [[UseStrengthsOv
 - Zhouji 47 adds that even a personally benevolent ruler can fail the talent-virtue test if he cannot evaluate whether trust, office, and succession authority belong together.
 - Zhouji 56 adds a motive test: a person can be talented, persistent, and historically consequential while still failing moral approval if the skill serves wealth, rank, or deceptive private advantage.
 - Zhouji 63 adds a level test: a skill can be useful and still too low-level to count as statecraft talent.
+- Hanji 154 adds a crisis-use test: in wartime, a recommender may defend talent by asking whether the ability changes the strategic situation, not whether the person satisfies an ideal virtue profile.
 
 ## Connections
 - [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - source frame.
@@ -41,5 +44,6 @@ This concept sits beside the wiki's existing talent-use branch. [[UseStrengthsOv
 - [[YanWangKuai|燕王哙]], [[ZiZhi|子之]], [[SuDai|苏代]], [[LuMaoshou|鹿毛寿]], [[YanZhaowang|燕昭王]], [[LeYi|乐毅]], and [[JuXin|剧辛]] - Zhouji 47 and 52 false and successful Yan personnel judgments.
 - [[YangXiong|扬雄]], [[Fayan|《法言》]], [[Zigong|子贡 / 端木赐]], [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 motive-based extension of the talent question.
 - [[Mengchangjun|孟尝君 / 田文]], [[WangAnshi|王安石]], and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Zhouji 63 patronage-quality extension of the talent question.
+- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[WeiWuzhi|魏无知]], [[ChenPing|陈平]], [[LiuBang|刘邦]], and [[MoralSlanderReframing|道德诬陷焦点转移]] - wartime defense of useful talent against moral-smear pressure.
 - [[WarringStatesPeriod|战国时期]] - political setting where talent without virtue becomes high impact.
 - [[UseStrengthsOverFaults]] and [[LegalistRulerTechnique]] - adjacent but different talent/governance concepts.
