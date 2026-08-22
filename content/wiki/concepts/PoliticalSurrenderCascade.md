@@ -2,8 +2,8 @@
 title: "Political Surrender Cascade / 招降示范级联"
 type: concept
 tags: [statecraft, rebellion, signaling, military]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+last_updated: 2026-08-23
 ---
 
 # Political Surrender Cascade / 招降示范级联
@@ -24,7 +24,13 @@ The two variants show why the cascade depends on credibility, not just fear. A s
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] adds Liu Bang's post-Guanzhong cascade: [[ShenYang|申阳]] surrenders, [[ZhengChangHanKing|郑昌]] surrenders, [[WeiBao|魏豹]] surrenders, and [[SimaAng|司马卬]] is captured as the Yellow River line breaks. The episode contrasts those attachable or conquerable settlement lords with Xiang Yu's Qi conduct, where potential submission is destroyed by punishment.
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds a Chu-Han military-reputation variant through Han Xin after Zhao's defeat. [[LiZuoChe|李左车]] advises that Han should make [[YanState|燕国]] submit by combining rest, pacification, visible pressure, and an envoy; Yan's surrender can then become the precedent used to pressure [[QiState|齐国]].
+
+## Key Claims
+- Hanji 157 part 2 adds that a cascade can be powered by battlefield reputation: one state submits because a recent victory makes resistance look isolated, then that submission becomes leverage against the next state.
+
 ## Connections
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[HanXin|韩信]], [[YanState|燕国]], and [[QiState|齐国]] - surrender cascade driven by Jingxing reputation and envoy sequencing.
 - [[KuaiChe|蒯彻]] and [[WuChen|武臣]] - adviser and commander in the source.
 - [[YanState|燕国]] and [[ZhaoState|赵国]] - old-state territories affected by the cascade.
 - [[ZhangChuRegime|张楚政权]] and [[DazexiangUprising|大泽乡起义]] - rebellion context.

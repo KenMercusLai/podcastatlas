@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）](sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3.md) — 芮淇讲透资治通鉴 episode on Han Xin honoring Li Zuoche after Jingxing, resting and pacifying Zhao, using envoy pressure to make Yan submit, requesting Zhang Er as Zhao king, and previewing Sui He's mission to Ying Bu.
 - [《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）](sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i.md) — 芮淇讲透资治通鉴 episode explaining why Han Xin's backwater battle worked through death-ground morale only after spies, enemy-choice confirmation, and hidden cavalry made the tactic usable.
 - [《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2）](sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Jingxing backwater battle through spy confirmation, hidden red-flag cavalry, feigned defeat, Zhao camp seizure, morale collapse, Chen Yu's death, and Zhao Xie's capture.
 - [《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）](sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l.md) — 芮淇讲透资治通鉴 episode opening Han Xin's Jingxing campaign against Zhao through terrain, supply-line risk, Li Zuoche's rejected plan, and Chen Yu's moralized refusal of stratagem.
@@ -1266,7 +1267,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [井陉口 / Jingxing Pass](entities/JingxingPass.md) — Taihang pass and Zhao-campaign chokepoint where Han Xin's army faces narrow-road, ambush, and supply-line exposure.
-- [李左车 / Li Zuoche](entities/LiZuoChe.md) — Zhao Guangwu Jun and Li Mu's grandson whose rejected Jingxing plan targets Han Xin's long supply line.
+- [李左车 / Li Zuoche](entities/LiZuoChe.md) — Zhao Guangwu Jun and Li Mu's grandson whose rejected Jingxing plan and post-battle counsel shape Han Xin's Zhao/Yan strategy.
 - [卢绾 / Lu Wan](entities/LuWan.md) — Han-side figure sent with Liu Jia to support Peng Yue's grain-route pressure after Han Xin's northern army is repeatedly drained.
 - [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent to support Peng Yue's anti-Chu grain-route pressure in Hanji 155-2.
 - [晋阳 / Jinyang](entities/Jinyang.md) — Northern place Han Xin takes after defeating Dai forces, becoming the Taiyuan commandery hinge in Hanji 155-2.
@@ -1282,7 +1283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [废丘 / Feiqiu](entities/Feiqiu.md) — Zhang Han's final holdout city after Han Xin's Three Qin breakthrough, flooded by Han forces before Zhang Han's suicide.
 - [李璧 / Li Bi](entities/LiBiQinCavalry.md) — Former Qin cavalry specialist who advises Liu Bang to place Guan Ying over the new Han cavalry force while serving as a deputy.
 - [骆甲 / Luo Jia](entities/LuoJiaQinCavalry.md) — Former Qin cavalry specialist paired with Li Bi in recommending Guan Ying for the post-Pengcheng Han cavalry command.
-- [随何 / Sui He](entities/SuiHe.md) — Liu Bang-side envoy who volunteers to persuade Ying Bu to rebel against Xiang Yu after the Xiayi Plan.
+- [随何 / Sui He](entities/SuiHe.md) — Liu Bang-side envoy whose Jiujiang mission to persuade Ying Bu becomes the next diplomatic thread after Han Xin settles Zhao/Yan.
 - [曾赫 / Zeng He](entities/ZengHe.md) — Liu Bang-side commander who preserves formation during the Pengcheng rout and helps block Chu cavalry.
 - [审食其 / Shen Yiji](entities/ShenYiji.md) — Companion of Liu Taigong and Lu Zhi captured by Chu after the Pengcheng rout, kept source-scoped to the hostage chain.
 - [吕泽 / Lu Ze](entities/LuZe.md) — Lu Zhi's brother and Liu-side commander whose Xiayi troops give Liu Bang a post-Pengcheng rally point.
@@ -1318,7 +1319,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏说 / Xia Shuo](entities/XiaShuo.md) — Chen Yu delegate appointed to manage Dai while Chen Yu stays in Zhao after restoring Zhao Xie.
 - [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him toward Liu Bang and whose Lu-regency opposition contrasts with Chen Ping.
 - [王陵母亲 / Mother of Wang Ling](entities/WangLingMother.md) — Unnamed hostage whose suicide blocks Xiang Yu's coercion and turns corpse desecration into political backfire.
-- [韩信 / Han Xin](entities/HanXin.md) — Han general whose arc now runs from Huaiyin restraint and Hanzhong appointment through the Three Qin, West Wei, Dai, and Jingxing campaign setup.
+- [韩信 / Han Xin](entities/HanXin.md) — Han general whose arc now runs from Huaiyin restraint and Hanzhong appointment through Jingxing victory, Zhao consolidation, and Yan/Qi deterrence diplomacy.
 - [陈仓 / Chen Cang](entities/ChenCang.md) — Hanji 148-1 route and battle point where Han Xin's layered feints become the central breakthrough against Zhang Han.
 - [淮阴 / Huaiyin](entities/Huaiyin.md) — Han Xin's birthplace and early-life setting, identified by Hanji 145 as Chu territory around modern Huai'an before Qin's commandery-county incorporation.
 - [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer who both joins the old-general accusation against Chen Ping and later pairs with him in Lu Zhi-era survival and post-Lu restoration.
@@ -1401,7 +1402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵歇 / Zhao Xie](entities/ZhaoXie.md) — Old Zhao royal descendant installed by Zhang Er and Chen Yu after Wu Chen's death and Li Liang's defeat.
 - [景驹 / Jing Ju](entities/JingJu.md) — Provisional Chu claimant set up by Qin Jia and Ning Jun after Chen Sheng's collapse; transcript renders him as 景居.
 - [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
-- [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Punished Qin convict and bandit leader who joins Lu Chen, allies by marriage with Wu Rui, and enters anti-Qin warfare.
+- [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu makes him the target of Sui He's Liu-side mission.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
 - [秦嘉 / Qin Jia (Rebel)](entities/QinJiaRebel.md) — Local anti-Qin rebel leader who refuses Chen Sheng's monitor Wu Ping Jun Pan and kills him under a false Chen Sheng order.
 - [朱鸡石 / 朱吉石 / Zhu Jishi](entities/ZhuJishi.md) — Qin Jia's Tan-area co-leader later defeated by Zhang Han and executed by Xiang Liang; source spellings vary.
@@ -1594,7 +1595,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
 - [郭开 / Guo Kai](entities/GuoKai.md) — Zhao court enemy of Lian Po who bribes the recall envoy and blocks Lian Po's return.
 - [乐乘 / Le Cheng](entities/LeCheng.md) — Former Yan general in Zhao service whose appointment to replace Lian Po triggers Lian Po's break with Zhao.
-- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer and Liu-side survivor whose Zhao roots now make him Han Xin's assistant and Chen Yu's personal target in the Jingxing campaign.
+- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer and Liu-side survivor whose Zhao roots make him Han Xin's assistant and later Liu-backed Zhao king.
 - [苏高 / Su Gao](entities/SuGao.md) — Anling subordinate whose refusal to attack Guancheng, defended by his son, creates the episode's father-son and ruler-subject duty conflict.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
@@ -7909,7 +7910,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, feigned defeat, hidden red-flag cavalry, camp seizure, and Zhao morale collapse.
+- [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Han Xin/Li Zuoche pattern where a fresh battlefield victory is converted into envoy-backed surrender pressure rather than immediate assault.
+- [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, hidden red-flag cavalry, Zhao morale collapse, and later victory-to-diplomacy conversion.
 - [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, and surprise have already made forced commitment usable.
 - [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
 - [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.

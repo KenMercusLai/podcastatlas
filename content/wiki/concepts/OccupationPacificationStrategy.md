@@ -2,8 +2,8 @@
 title: "Occupation Pacification Strategy / 占领区怀柔治理"
 type: concept
 tags: [statecraft, military-command, occupation, legitimacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
+last_updated: 2026-08-23
 ---
 
 # Occupation Pacification Strategy / 占领区怀柔治理
@@ -28,6 +28,8 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] gives another negative case through Xiang Yu in Qi. Tian Rong's death could have opened a pacification path because local people had killed him to show submission, but Xiang Yu continues punitive killing and plunder. In this source, the failure is not just cruelty; it is refusal to convert a defeated rebel region into a governable one.
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds a newly conquered Zhao version. Li Zuoche tells [[HanXin|韩信]] to pause after victory, rest the army, and pacify [[ZhaoState|赵国]]'s people before moving pressure toward Yan and Qi. Pacification here is not the final occupation of a capital; it is the rear-area quieting that makes [[VictoryDeterrenceDiplomacy|胜势威慑外交]] credible.
+
 ## Key Claims
 - A conquered territory can be militarily taken but politically unsecured.
 - Harsh assault on the last holdouts can destabilize already captured places.
@@ -41,7 +43,10 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 - Hanji 142 adds the negative mirror: killing the surrendered ruler, burning the capital, and treating the center as spoil destroys the occupation-pacification path.
 - Hanji 149 part 2 adds the post-victory negative case: after Tian Rong's death, punitive occupation in Qi destroys a possible submission path.
 
+- Hanji 157 part 2 adds that pacification can be a bridge between one battle and the next diplomatic move: a quiet rear makes intimidation of neighboring states more believable.
+
 ## Connections
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[ZhaoState|赵国]], [[ZhangEr|张耳]], and [[VictoryDeterrenceDiplomacy|胜势威慑外交]] - post-Jingxing rest and people-pacification before envoy pressure on Yan and Qi.
 - [[LeYi|乐毅]], [[YanState|燕国]], and [[QiState|齐国]] - commander, occupying power, and conquered territory.
 - [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]] - last holdouts that make the strategy visible.
 - [[WangZhu|王蠋]] - coercion boundary from the earlier occupation source.

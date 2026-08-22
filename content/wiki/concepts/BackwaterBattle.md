@@ -2,7 +2,7 @@
 title: "背水一战 / Backwater Battle"
 type: concept
 tags: [idiom, warfare, morale, deception, chu-han]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The red flags turn Zhao's rear into an information shock. Returning Zhao troops 
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] adds the explicit military-theory reading. Han Xin tells his officers that the tactic follows [[SunziBingfa|《孙子兵法》]]'s death-ground principle because his army contains many recently armed commoners who might otherwise scatter. The episode then warns that this explanation is incomplete if isolated: Han Xin's backwater array works because he has already used spies, confirmed Chen Yu's error, ruled out an ambush in the pass, and prepared the hidden-cavalry camp shock. The source therefore makes the battle a primary case for [[DeathGroundTacticalPreconditions|死地战术前提]].
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds the aftermath lesson. Han Xin's backwater victory becomes useful because he does not simply repeat battlefield pressure against the next cities. By honoring [[LiZuoChe|李左车]] and accepting advice to rest, pacify, and send envoys, Han Xin converts the battle's psychological effect into [[VictoryDeterrenceDiplomacy|胜势威慑外交]].
+
 ## Key Claims
 - The backwater formation is not a standalone morale trick; it works inside a larger setup that first removes Li Zuoche's more dangerous supply-line alternative.
 - "No retreat" matters, but the source's battle chain also depends on inducing Zhao to leave camp and then making Zhao believe the rear has collapsed.
@@ -29,7 +31,10 @@ The red flags turn Zhao's rear into an information shock. Returning Zhao troops 
 - The episode leaves the deeper theoretical explanation of why the formation works to a later installment, so this page records the completed sequence rather than a final doctrine of all backwater tactics.
 - Hanji 157 part 1 supplies that theoretical explanation but keeps it conditional: the no-retreat morale device works only after intelligence, terrain judgment, enemy-choice confirmation, and surprise have made the risk usable.
 
+- Hanji 157 part 2 adds that a death-ground victory can be over-spent if followed by immediate assaults with exhausted troops; the smarter continuation is to turn reputation into diplomatic pressure.
+
 ## Connections
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[LiZuoChe|李左车]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], and [[PoliticalSurrenderCascade|招降示范级联]] - post-battle conversion of Jingxing reputation into Yan submission and Qi pressure.
 - [[HanXin|韩信]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[ZhaoXie|赵歇]] - direct battle actors.
 - [[JingxingPass|井陉口]] and [[ZhaoState|赵国]] - terrain gate and defeated polity.
 - [[LiZuoChe|李左车]], [[TransportCorridorSeverance|交通线切割]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]] - rejected Zhao plan that would have attacked Han's weaker logistics.

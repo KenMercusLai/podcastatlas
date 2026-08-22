@@ -2,7 +2,7 @@
 title: "李左车 / Li Zuoche"
 type: entity
 tags: [person, zhao, chu-han, military]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l]
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ The source treats the plan as genuinely feasible. Li Zuoche's role is therefore 
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] keeps Li Zuoche important after defeat. The episode closes by saying Han Xin accepts Li Zuoche's counsel and sends people toward [[YanState|燕国]], which then submits as predicted. Li Zuoche's role therefore shifts from the ignored Zhao adviser whose plan would have stopped Han Xin to the post-battle strategist who helps Han Xin convert the Zhao victory into wider pressure without another immediate battle.
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] develops Li Zuoche's post-defeat counsel in detail. He first declines as a defeated general, but Han Xin answers with the [[BailiXi|百里奚]] precedent and admits that Zhao could have captured him if [[ChenYu|陈馀]] had listened earlier. Li Zuoche then reads the field asymmetrically: Han Xin's name now frightens the region, but his troops are tired. His answer is [[VictoryDeterrenceDiplomacy|胜势威慑外交]]: rest and pacify [[ZhaoState|赵国]], make a visible move toward [[YanState|燕国]], send an envoy, then use Yan's submission to pressure [[QiState|齐国]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[PoliticalSurrenderCascade|招降示范级联]], [[YanState|燕国]], and [[QiState|齐国]] - full post-defeat advice sequence after Han Xin honors him.
 - [[HanXin|韩信]] and [[ZhangEr|张耳]] - commanders whose supply line Li Zuoche wants to attack.
 - [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]] - Zhao-side decision-maker and king whom Li Zuoche advises.
 - [[LiMu|李牧]] - named grandfather whose military reputation frames Li Zuoche's credibility.

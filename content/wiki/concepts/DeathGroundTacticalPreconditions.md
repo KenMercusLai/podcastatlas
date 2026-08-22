@@ -2,7 +2,7 @@
 title: "Death-Ground Tactical Preconditions / 死地战术前提"
 type: concept
 tags: [warfare, military-strategy, morale, sunzi, chu-han]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i]
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i]
 last_updated: 2026-08-23
 ---
 
@@ -18,6 +18,8 @@ This keeps death-ground tactics separate from simple inspiration. The episode's 
 
 The concept also clarifies the relationship to [[BreakingCauldronsAndSinkingBoats|破釜沉舟]]. Xiang Yu's Julu commitment device is also a death-ground action, but that source already ties it to prior supply-corridor disruption. Han Xin's backwater case makes the same rule more explicit: the commander creates no-retreat morale only after the battle has been shaped enough for that morale to matter.
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] extends the concept after the battle. The same prudence that makes death-ground tactics usable also limits what should follow victory: Han Xin accepts Li Zuoche's warning that tired troops should not be thrown directly at [[YanState|燕国]] and [[QiState|齐国]] fortifications. Death-ground success therefore leads into rest, pacification, and envoy pressure rather than automatic escalation.
+
 ## Key Claims
 - Death-ground morale is a real mechanism, but it is not a complete battle plan.
 - The tactic is most coherent when the commander's own troops might otherwise scatter or fail to sustain contact.
@@ -26,7 +28,10 @@ The concept also clarifies the relationship to [[BreakingCauldronsAndSinkingBoat
 - Later imitation fails when commanders copy the visible "no retreat" posture without reproducing the hidden conditions.
 - Han Xin's case joins knowing oneself, knowing the enemy, regular deployment, and surprise; it is not reducible to courage.
 
+- Hanji 157 part 2 adds a post-victory precondition: after forced-resolve combat, the commander must account for troop exhaustion before choosing the next method of expansion.
+
 ## Connections
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - continuation of death-ground success through rest and diplomacy rather than repeated immediate assault.
 - [[BackwaterBattle|背水一战]] - the source case that makes the preconditions explicit.
 - [[HanXin|韩信]], [[ChenYu|陈馀]], [[LiZuoChe|李左车]], and [[JingxingPass|井陉口]] - actors and terrain behind the concept.
 - [[SunziBingfa|《孙子兵法》]] - textual frame for death ground, spies, regular force, and surprise.

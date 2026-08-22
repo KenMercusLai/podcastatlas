@@ -2,7 +2,7 @@
 title: "Use Strengths Over Faults / 用人取长弃短"
 type: concept
 tags: [governance, leadership, talent, pre-qin-history]
-sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The concept does not say misconduct never matters. Its source-scoped claim is na
 
 [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] adds the Chen Ping accusation version. [[WeiWuzhi|魏无知]] and [[ChenPing|陈平]] do not ask [[LiuBang|刘邦]] to ignore every concern; Chen Ping explains the concrete "受金" charge and offers to return the money if his plans lack value. Liu Bang's decision to keep and reward him makes the concept operate through proof of usefulness rather than through a claim that faults never matter.
 
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds a defeated-adviser version through [[HanXin|韩信]] and [[LiZuoChe|李左车]]. Li Zuoche's defeat could disqualify him socially, but Han Xin treats his earlier correct advice as evidence of usable strategic judgment. The source therefore turns "defeated general" status into a context marker rather than a total verdict on ability.
+
 ## Key Claims
 - Talent evaluation should separate role-critical strengths from lesser defects.
 - Small past faults can become strategically expensive if they cause leaders to waste scarce capability.
@@ -29,7 +31,10 @@ The concept does not say misconduct never matters. Its source-scoped claim is na
 - The episode treats Zisi's argument as "资治" material because it links moral evaluation to governing consequences.
 - Hanji 154 adds that preserving useful talent may require separating a concrete, explainable fault from an ungrounded smear.
 
+- Hanji 157 part 2 adds that defeat does not necessarily invalidate counsel; a commander can separate a person's current defeated status from the quality of his earlier judgment.
+
 ## Connections
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[HanXin|韩信]], [[LiZuoChe|李左车]], and [[BailiXi|百里奚]] - defeated-adviser example of judging useful capacity rather than status alone.
 - [[LiKe|李克]], [[WuQi|吴起]], [[WeiWenhou|魏文侯]], and [[WeiState|魏国]] - earlier Wu Qi case.
 - [[Zisi|子思]] - speaker of the argument.
 - [[GouBian|苟变]] - case through which the lesson is expressed.

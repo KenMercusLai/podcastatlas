@@ -10114,3 +10114,10 @@ Added source page for Hanji 157 part 1: the theoretical follow-up to Han Xin's J
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,995 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not updated.
+## [2026-08-23] ingest | 《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）
+
+Added source page for Hanji 157 part 2: Han Xin's post-Jingxing intelligence advantage, capture and honored treatment of Li Zuoche, Li Zuoche's exhausted-army warning, the rest-and-pacify strategy for Zhao, envoy pressure that makes Yan submit, Zhang Er's Liu-approved Zhao kingship, Xiang Yu's pressure against the new Zhao front, and the handoff toward Sui He's mission to Ying Bu. Created Victory Deterrence Diplomacy; updated overview, index, Han Xin, Li Zuoche, Zhang Er, Liu Bang, Sui He, Ying Bu, Baili Xi, Zhao State, Yan State, Qi State, Backwater Battle, Death-Ground Tactical Preconditions, Political Surrender Cascade, Occupation Pacification Strategy, Talent Attraction Through Respect, and Use Strengths Over Faults. No settled contradiction found; normalized transcript 陈瑜 to Chen Yu and kept Qi's surrender as Li Zuoche's source-scoped prediction.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
