@@ -18,14 +18,18 @@ The final layer is legitimacy performance. A broad pardon, the kings' accession 
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] extends the pattern beyond accession. The founding sequence now includes family ordering for [[LuZhi|吕雉]] and [[LiuYing|刘盈]], southern recognition through [[ChangshaKingdom|长沙国]] and [[Minyue|闽越]], [[PostwarReturnAndVeteranRelief|战后复员安民]], [[SpecialistDelegationLeadership|专才分工式领导力]], and [[HostileTerritoryRoyalContainment|敌意封国安置]] for Han Xin's Chu placement.
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] adds the next cleanup layer: unresolved defeated elites and former enemies. [[TianHeng|田横]] has to be summoned, protected from [[LiShang|郦商]]'s revenge, and politically neutralized, even though his suicide and follower deaths prevent smooth absorption. [[JiBu|季布]] supplies the successful counterpart: through [[ZhuJiaLu|朱家]] and [[XiahouYing|夏侯婴]], Liu Bang converts a dangerous former [[XiangYu|项羽]] officer into a pardoned Han appointee under [[FormerEnemyLoyaltyReframing|旧敌忠义重释]].
+
 ## Key Claims
 - Battlefield success must be followed by controlled surrender, enemy-symbol management, and decisions about former rivals' kin.
 - Founding rulers need to both reward and contain overmighty wartime contributors.
 - Pardon and ritual are not decorative after victory; they announce that violence is being translated into governance.
 - A ruler's explanation of victory matters because it tells the new political class what kind of capacity the dynasty claims to value.
 - Hanji 169 part 2 adds family title ordering, southern allied recognition, population/veteran repair, and hostile-territory containment as post-accession founding work.
+- Hanji 170 part 1 adds defeated-elite cleanup: some remaining opponents can only be honored after death, while others can be pardoned and turned into examples for the new order.
 
 ## Connections
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[JiBu|季布]], [[ZhuJiaLu|朱家]], [[XiahouYing|夏侯婴]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - defeated-elite cleanup and former-enemy absorption.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[ChangshaKingdom|长沙国]], [[Minyue|闽越]], [[PostwarReturnAndVeteranRelief|战后复员安民]], [[SpecialistDelegationLeadership|专才分工式领导力]], and [[HostileTerritoryRoyalContainment|敌意封国安置]] - accession aftermath and broader founding settlement.
 - [[LiuBang|刘邦]], [[XiangYu|项羽]], [[LuCountyChuHan|鲁县]], [[XiangBo|项伯]], and [[XiangXiang|项襄]] - defeated-side pacification and absorption.
 - [[HanXin|韩信]], [[PengYue|彭越]], [[CommandAuthorityRecapture|统帅权再收束]], [[ConcededKingshipStabilization|让封真王式稳局]], and [[TerritorialRewardMobilization|许地会师式动员]] - reward and containment of victory-making commanders.

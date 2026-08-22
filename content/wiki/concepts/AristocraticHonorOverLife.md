@@ -3,7 +3,7 @@ title: "Aristocratic Honor Over Life / 贵族名誉高于生命"
 type: concept
 tags: [honor, pre-qin-history, ethics, political-violence]
 sources: [zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
-last_updated: 2026-08-21
+last_updated: 2026-08-23
 ---
 
 # Aristocratic Honor Over Life / 贵族名誉高于生命
@@ -26,6 +26,8 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe]] adds Bai Qi as a command-honor variant. He would rather risk royal punishment for refusing [[QinZhaoxiangwang|秦昭襄王]] and [[FanJu|范雎]] than accept a Handan campaign likely to fail and stain his record. Here honor is professional military reputation, not family reputation or guest-recognition etiquette, but it still makes survival and obedience secondary to public name.
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] adds [[TianHeng|田横]] as a post-defeat royal-honor case. Tian Heng chooses suicide before meeting [[LiuBang|刘邦]] because he reads subject status, prior equality in royal title, and the moral burden of having killed [[LiShiqi|郦食其]] as unbearable. The episode then turns his followers' suicides into [[RetainerReciprocityEthic|retainer reciprocity]], keeping Tian Heng's own death centered on personal and political dignity after defeat.
+
 ## Key Claims
 - Public name can matter as much as physical survival in aristocratic honor narratives.
 - Family protection and family reputation can pull in opposite directions.
@@ -39,8 +41,10 @@ The concept is not a general endorsement of self-sacrifice. It records a histori
 - Wei Qi adds a fugitive-honor variant where even delayed recognition by a potential host can feel worse than death.
 - Zhouji 95 part 4 adds that explaining honor volatility is not the same as praising it; later readers can admire, criticize, or distance themselves from the same conduct.
 - Zhouji 96 adds a command-reputation variant where a commander risks punishment rather than accept an assignment he believes will produce disgrace.
+- Hanji 170 part 1 adds a defeated-king variant where accepting the victor's summons is interpreted as worse than death because it would publicly reverse status and expose unresolved guilt.
 
 ## Connections
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[LiuBang|刘邦]], [[LiShiqi|郦食其]], and [[RetainerReciprocityEthic|士为知己者死]] - post-defeat honor, suicide, and follower death branch.
 - [[NieZheng|聂政]] and [[NieYing|聂英]] - central source case.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - retainer-recognition branch.
 - [[Mengchangjun|孟尝君 / 田文]] and [[WarringStatesRetainerPatronage|战国养士]] - patronage branch where士人 dignity becomes both recruitment mechanism and volatility risk.

@@ -10309,3 +10309,11 @@ Added source page for Hanji 169 part 2: Liu Bang's accession, Lu Zhi's empress t
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,103 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the wiki scan found 13,103 pages, so bridge findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic-marker scan surfaced existing source-scoped tensions rather than a new unhandled hard contradiction. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）
+
+Added source page for Hanji 170 part 1: Tian Heng's island exile, Liu Bang's forced summons and protection against Li Shang's revenge, Tian Heng's suicide, follower deaths, Xu Beihong's later patriotic painting memory, Ji Bu's hiding under Zhu Jia, Zhu Jia's persuasion through Xiahou Ying, and Liu Bang's pardon and appointment of Ji Bu. Created Ji Bu, Zhu Jia (Lu), Xu Beihong, Nanyue, and Former Enemy Loyalty Reframing; updated overview, index, Liu Bang, Western Han dynasty, Qi State, Tian Heng, Li Shang, Xiahou Ying, Ruiqi Jiangtou Zizhi Tongjian, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, Battlefield Victory To Founding Order, Pardon As State Power, and Moral Reputation as Political Capital. No settled contradiction found; the title's Luoyang-to-Chang'an promise is recorded as preview because this part remains on political cleanup after accession.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

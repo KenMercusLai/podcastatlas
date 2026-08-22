@@ -36,6 +36,8 @@ This extension also shows the tension between reciprocity and office duty. [[LiB
 
 [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] completes the Han Xin version by showing reciprocity prevail over action. Han Xin refuses Kuai Che again because betraying Liu Bang would violate the恩遇 he remembers, even though the episode acknowledges that accepting the advice might have improved his later personal fate.
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] adds a defeated-ruler retainer death branch through [[TianHeng|田横]]. Tian Heng's two attendants kill themselves beside his tomb after delivering his head to [[LiuBang|刘邦]], and the five hundred followers on the island kill themselves after hearing of Tian Heng's death. The episode presents their action as extreme recognition loyalty and later connects it to [[XuBeihong|徐悲鸿]]'s patriotic painting, showing how retainer reciprocity can become historical-symbolic capital long after the political cause is lost.
+
 This concept is adjacent to [[AristocraticHonorOverLife]], but its center is patron recognition rather than family reputation. It is also adjacent to [[PoliticalAssassinationEthics]], but the episode does not mainly ask whether Yu Rang's killing attempt is universally justifiable; it asks how a particular retainer code makes self-destruction intelligible.
 
 ## Key Claims
@@ -55,8 +57,10 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - Qinji 115-2 adds a memory-limit variant: reciprocal death can be preserved as侠义 while the stronger state treats the same world of private armed actors as politically intolerable.
 - Hanji 162-1 adds a command-survival variant: a retainer can repay recognition by temporarily becoming the ruler's public body and accepting certain death to preserve the leader and the cause.
 - Hanji 165-2 adds a loyalty-choice variant: remembered recognition can make an actor reject a strategically plausible betrayal even when that rejection may leave the actor exposed after victory.
+- Hanji 170 part 1 adds a defeated-ruler variant: followers can repay a failed patron through death even after the new ruler has already converted military victory into imperial order.
 
 ## Connections
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[LiuBang|刘邦]], [[XuBeihong|徐悲鸿]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - defeated-ruler retainer deaths and later patriotic memory.
 - [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]] - final refusal of betrayal on gratitude grounds.
 - [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[KuaiChe|蒯彻 / 蒯通]], [[TripartiteBalanceStrategy|三分天下式制衡]], and [[PowerExitTrap|权力退场困境]] - recognition debt used against a self-preservation argument.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[LiuBang|刘邦]], [[SubstitutionalEscapeSacrifice|代身突围牺牲]], and [[Chenghuang|城隍]] - Chu-Han sacrifice and later memory branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5130
+wiki_total_pages: 5131
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "FemaleBeautySelfSurveillance"
     title: "女性美貌自我监控 / Female Beauty Self-Surveillance"
     url: "/wiki/concepts/femalebeautyselfsurveillance/"
+  - key: "FormerEnemyLoyaltyReframing"
+    title: "旧敌忠义重释 / Former Enemy Loyalty Reframing"
+    url: "/wiki/concepts/formerenemyloyaltyreframing/"
   - key: "FolkloreAsSocialMemory"
     title: "民俗作为社会记忆 / Folklore As Social Memory"
     url: "/wiki/concepts/folkloreassocialmemory/"

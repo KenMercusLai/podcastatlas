@@ -21,6 +21,8 @@ The dynasty matters because the source treats it as the maker of its own later v
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] extends the founding threshold after the accession itself. The episode adds [[LuZhi|吕雉]] as empress, [[LiuYing|刘盈]] as crown prince, [[WuRui|吴芮]]'s [[ChangshaKingdom|长沙国]] grant, [[WuzhuMinyueKing|无诸 / Wuzhu]]'s [[Minyue|闽越]] kingship, postwar population/veteran relief, and the South Palace doctrine that Liu Bang won by using specialists. Western Han's founding is therefore recorded as family ordering, southern recognition, social repair, and personnel doctrine, not only a ritual accession.
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] adds a defeated-elite cleanup layer to that founding. [[TianHeng|田横]]'s island exile and suicide show that not every former rival can be smoothly absorbed, while [[JiBu|季布]]'s pardon shows the regime redefining former enemy loyalty as a virtue it can use. Western Han's founding order therefore now includes symbolic management of honorable losers and practical absorption of useful former enemies.
+
 ## Key Claims
 - Western Han legitimacy relied on stories of Heaven's mandate and imperial sacredness.
 - Court politics near the end of the dynasty were shaped by imperial succession, consort kin, favorites, and omen interpretation.
@@ -29,8 +31,10 @@ The dynasty matters because the source treats it as the maker of its own later v
 - Hanji 139 adds a pre-founding governance prelude: Liu Bang's Bashang policy is treated as a first visible move from rebellion into a durable Han-style occupation order.
 - Hanji 169 adds the formal founding threshold: accession follows pacification, command recapture, territorial reward, amnesty, and ritual recognition.
 - Hanji 169 part 2 adds that accession immediately produces family titles, southern title recognition, population/veteran reconstruction, and a public specialist-use doctrine.
+- Hanji 170 part 1 adds defeated-elite cleanup: Tian Heng's unresolved honor crisis and Ji Bu's pardon show the new regime defining how former enemies will be remembered or absorbed.
 
 ## Connections
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[JiBu|季布]], [[PardonAsStatePower|赦免作为国家权力]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - defeated-elite cleanup and former-enemy absorption after accession.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LuZhi|吕雉]], [[LiuYing|刘盈]], [[ChangshaKingdom|长沙国]], [[Minyue|闽越]], [[PostwarReturnAndVeteranRelief|战后复员安民]], and [[SpecialistDelegationLeadership|专才分工式领导力]] - accession aftermath and founding-state reconstruction.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LiuBang|刘邦]], [[ShusunTong|叔孙通]], [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]], and [[PardonAsStatePower]] - imperial accession and founding-order consolidation.
 - [[LiuBang]], [[HanAidi]], [[WangZhengjun]], [[DongXian]], [[HanPingdi]], and [[WangMang]] - key actors in the source's Western Han sequence.

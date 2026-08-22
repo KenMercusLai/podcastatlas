@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6690
+wiki_total_pages: 6694
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "JiangTaigong"
     title: "姜太公 / 姜子牙 / Jiang Taigong"
     url: "/wiki/entities/jiangtaigong/"
+  - key: "JiBu"
+    title: "季布 / Ji Bu"
+    url: "/wiki/entities/jibu/"
   - key: "JiatingGongyeshe"
     title: "家庭工业社"
     url: "/wiki/entities/jiatinggongyeshe/"

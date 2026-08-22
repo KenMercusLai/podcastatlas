@@ -22,7 +22,10 @@ For this source, Xiahou Ying matters as an operational connector inside Liu Bang
 
 [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] adds another escape-driver role. When [[LiuBang|刘邦]] abandons [[Chenggao|成皋]] under renewed [[XiangYu|项羽]] pressure, Xiahou Ying rides with him north across the Yellow River toward [[HanXin|韩信]] and [[ZhangEr|张耳]]'s camp, where Liu Bang then executes [[CommandAuthorityRecapture|统帅权再收束]].
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] gives Xiahou Ying a persuasion-channel role after victory. [[ZhuJiaLu|朱家]] comes to him in [[Luoyi|洛阳 / 洛邑]] to argue that [[JiBu|季布]] should not be killed for serving [[XiangYu|项羽]] loyally. Xiahou Ying transmits the argument to Liu Bang, helping turn a personal enemy into a pardoned Han officer and making him part of [[FormerEnemyLoyaltyReframing|旧敌忠义重释]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[ZhuJiaLu|朱家]], [[JiBu|季布]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - channel from private rescue argument to Liu Bang's pardon decision.
 - [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[Chenggao|成皋]], [[HanXin|韩信]], [[ZhangEr|张耳]], and [[CommandAuthorityRecapture|统帅权再收束]] - northward escape and arrival at the Zhao camp.
 - [[LiuBang|刘邦]] and [[XiaoHe|萧何]] - commander and fellow persuader in the Huling surrender.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[FanKuai|樊哙]], [[JiXin|纪信]], [[JinQiang|金强]], and [[HongmenYan|鸿门宴]] - trusted entourage waiting outside Xiang Yu's tent.

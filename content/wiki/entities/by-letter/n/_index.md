@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 6690
+wiki_total_pages: 6694
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "NanhaiCommandery"
     title: "南海郡 / Nanhai Commandery"
     url: "/wiki/entities/nanhaicommandery/"
+  - key: "Nanyue"
+    title: "南越 / Nanyue"
+    url: "/wiki/entities/nanyue/"
   - key: "Nanzheng"
     title: "南郑 / Nanzheng"
     url: "/wiki/entities/nanzheng/"

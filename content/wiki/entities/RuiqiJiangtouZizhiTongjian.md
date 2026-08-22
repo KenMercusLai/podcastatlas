@@ -7,6 +7,8 @@ last_updated: 2026-08-23
 ---
 # 芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian
 
+[[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] continues the show's early [[WesternHanDynasty|西汉]] founding sequence after Liu Bang's accession. Although the title previews the Luoyang-to-Chang'an question, this part uses [[TianHeng|田横]]'s suicide and followers' deaths plus [[JiBu|季布]]'s pardon through [[ZhuJiaLu|朱家]] and [[XiahouYing|夏侯婴]] to show [[LiuBang|刘邦]] cleaning up defeated elites and redefining former enemy loyalty.
+
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] completes the show's Hanji 169 founding transition after Liu Bang's accession. It adds [[LuZhi|吕雉]]'s empress title, [[LiuYing|刘盈]]'s crown-prince status, [[WuRui|吴芮]]'s [[ChangshaKingdom|长沙国]] grant, [[WuzhuMinyueKing|无诸 / Wuzhu]]'s [[Minyue|闽越]] kingship, postwar return-and-veteran relief, the South Palace specialist-use explanation, and [[HanXin|韩信]]'s hostile Chu placement.
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] moves the show's Chu-Han sequence from [[XiangYu|项羽]]'s death into [[LiuBang|刘邦]]'s founding settlement. It uses Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, [[GongWei|共尉]]'s capture, [[HanXin|韩信]]'s command removal and Chu kingship, [[PengYue|彭越]]'s Liang kingship, amnesty, and [[ShusunTong|叔孙通]]'s simplified accession rite to frame [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]].
@@ -162,6 +164,7 @@ last_updated: 2026-08-23
 The episode's wiki role is to add a pre-Qin classics-reading branch that is more managerial and historiographical than literary. It cares about how commanders create morale, how annals encode succession, and how a terse phrase such as "盗贼杀君" can invite cautious political inference.
 
 ## Connections
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[JiBu|季布]], [[ZhuJiaLu|朱家]], [[XiahouYing|夏侯婴]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - defeated-elite cleanup and former-enemy loyalty reframing.
 - [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]], [[FourSidedChuSongs|四面楚歌]], [[GaixiaSong|《垓下歌》]], [[YuJi|虞姬]], [[LiQingzhao|李清照]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - continuation from Gaixia tactics into tragic, literary, and people-support interpretation.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]], [[GaixiaBattle|垓下之战]], [[LayeredDepthDefense|纵深分层防御]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[HanXin|韩信]] - completion of the final battle through command delegation and depth defense.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]], [[GaixiaBattle|垓下之战]], [[TerritorialRewardMobilization|许地会师式动员]], [[LiuBang|刘邦]], [[XiangYu|项羽]], [[HanXin|韩信]], and [[PengYue|彭越]] - opening of the final battle through alliance incentives and Huainan pressure.

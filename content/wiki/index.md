@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）](sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-accession cleanup of defeated elites: Tian Heng's island exile, summons, suicide, retainer deaths, Xu Beihong memory, and Ji Bu's pardon through Zhu Jia and Xiahou Ying.
 - [《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）](sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc.md) — 芮淇讲透资治通鉴 episode on Liu Bang's accession aftermath: Lu Zhi and Liu Ying's founding positions, Wu Rui and Wuzhu's southern kingships, postwar return-and-veteran relief, the South Palace specialist-use explanation, and Han Xin's hostile Chu placement.
 - [《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）](sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi.md) — 芮淇讲透资治通鉴 episode on Liu Bang's transition from Xiang Yu's death into Han founding order: Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, Gong Wei's capture, Han Xin and Peng Yue's kingships, amnesty, and accession.
 - [《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）](sources/zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca.md) — 芮淇讲透资治通鉴 episode completing Xiang Yu's final route through Dongcheng, Wujiang, refusal to cross, gift of Wuzhui, self-killing, and the critique that tactical self-proof cannot replace strategic self-correction.
@@ -1290,6 +1291,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [季布 / Ji Bu](entities/JiBu.md) — Former Xiang Yu general whom Liu Bang first hunts and then pardons as a public example of former enemy loyalty.
+- [朱家 / Zhu Jia (Lu)](entities/ZhuJiaLu.md) — Lu-region rescuer and persuader who hides Ji Bu and argues for reframing former enemy service as loyalty.
+- [徐悲鸿 / Xu Beihong](entities/XuBeihong.md) — Painter used by Hanji 170 part 1 to show Tian Heng's afterlife as patriotic moral memory.
+- [南越 / Nanyue](entities/Nanyue.md) — Frontier outside option named in Zhu Jia's argument that persecuted former enemy talent could strengthen external powers.
 - [Zhang Ao](entities/ZhangAo.md) — Zhao king named in the accession petition urging Liu Bang to accept the imperial title.
 - [Shusun Tong](entities/ShusunTong.md) — Scholar-official who prepares Liu Bang's simplified imperial accession ritual from Qin precedent.
 - [Lu County (Chu-Han)](entities/LuCountyChuHan.md) — Chu-loyal county whose surrender and Xiang Yu burial frame Liu Bang's postwar pacification.
@@ -7984,6 +7989,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [旧敌忠义重释 / Former Enemy Loyalty Reframing](concepts/FormerEnemyLoyaltyReframing.md) — Founding-order move where a victor reclassifies a former enemy's hostile service as loyalty that the new regime can pardon and use.
 - [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, pardon, ritual, and dynastic founding.
 - [战后复员安民 / Postwar Return and Veteran Relief](concepts/PostwarReturnAndVeteranRelief.md) — Liu Bang's early Han policy of returning displaced people, restoring property, restraining local officials, and supporting or exempting demobilized soldiers.
 - [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Liu Bang's South Palace explanation that he won by recognizing and using Zhang Liang, Xiao He, and Han Xin rather than matching their specialist abilities.
