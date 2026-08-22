@@ -11835,6 +11835,10 @@
     "title": "邓老板",
     "url": "/wiki/entities/denglaoban/"
   },
+  "DengTong": {
+    "title": "邓通 / Deng Tong",
+    "url": "/wiki/entities/dengtong/"
+  },
   "DengTuzhi": {
     "title": "邓图直 / Deng Tuzhi",
     "url": "/wiki/entities/dengtuzhi/"
@@ -18374,6 +18378,10 @@
   "HanHuanhuiwang": {
     "title": "韩桓惠王 / King Huanhui of Han",
     "url": "/wiki/entities/hanhuanhuiwang/"
+  },
+  "HanJingdi": {
+    "title": "汉景帝 / Emperor Jing of Han",
+    "url": "/wiki/entities/hanjingdi/"
   },
   "HanJinghou": {
     "title": "韩景侯 / Marquis Jing of Han",
@@ -33283,6 +33291,10 @@
     "title": "Property Rights And Community Obligations",
     "url": "/wiki/concepts/propertyrightscommunityobligations/"
   },
+  "ProphecyFulfillmentDisplacement": {
+    "title": "预言兑现错位 / Prophecy Fulfillment Displacement",
+    "url": "/wiki/concepts/prophecyfulfillmentdisplacement/"
+  },
   "ProphecyTriggeredPolicy": {
     "title": "Prophecy-Triggered Policy / 预言触发政策",
     "url": "/wiki/concepts/prophecytriggeredpolicy/"
@@ -47223,6 +47235,10 @@
     "title": "Zhou Xinian / 周希年",
     "url": "/wiki/entities/zhouxinian/"
   },
+  "ZhouYafu": {
+    "title": "周亚夫 / Zhou Yafu",
+    "url": "/wiki/entities/zhouyafu/"
+  },
   "ZhouYebing": {
     "title": "周叶冰 / Zhou Yebing",
     "url": "/wiki/entities/zhouyebing/"
@@ -50698,6 +50714,10 @@
   "zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk": {
     "title": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？",
     "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk/"
+  },
+  "zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s": {
+    "title": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯",
+    "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s/"
   },
   "zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk": {
     "title": "《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相",

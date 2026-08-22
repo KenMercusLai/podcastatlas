@@ -2,7 +2,7 @@
 title: "看相式政治投资 / Physiognomic Investment Judgment"
 type: concept
 tags: [politics, judgment, patronage, qin-han]
-sources: [zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-22
 ---
 
@@ -14,15 +14,20 @@ The source's "angel investor" metaphor matters because the judgment is made befo
 
 This concept is kept separate from proof that physiognomy works. The wiki links it to [[PhysiognomyMoralAppearanceFallacy|以貌定德谬误]] as a caution: a narrative may treat a face-reading as successful without establishing that appearance reliably indicates moral or political quality. Here the important structure is early-stage political judgment under uncertainty.
 
+[[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] adds a higher-stakes parallel through [[XuFuPhysiognomist|许负]]. Her recognition of [[LiuBang|刘邦]] is not a marriage bet like [[LuGongLiuBangFatherInLaw|吕公]]'s; it becomes a county-level political transfer when her father hands over the seal. The concept therefore covers a family alliance case and a regime-switching case, while keeping both source-scoped.
+
 ## Key Claims
 - Early political backing often happens before conventional evidence is available.
 - In this source, Lu Gong reads embodied confidence and face as a signal of future fit for power.
 - The decision is high-stakes because it converts judgment into kinship, not just courtesy.
+- Qinji 135 番外篇2 shows the same story logic at county scale: face-reading can authorize surrender to a rising contender.
 - Physiognomic judgment should be recorded source-scopingly: it explains the story's logic without making a general empirical claim.
 
 ## Connections
 - [[LuGongLiuBangFatherInLaw|吕公]], [[LiuBang|刘邦]], and [[LuZhi|吕雉]] - source case and marriage outcome.
+- [[XuFuPhysiognomist|许负]] and [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] - county-seal handoff after recognizing Liu Bang.
 - [[CharismaticPoliticalPerformance|造势型政治表演]] - signal being interpreted.
 - [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - local network that makes the bet useful.
 - [[PhysiognomyMoralAppearanceFallacy|以貌定德谬误]] - cautionary contrast about appearance-based inference.
+- [[FateReadingPoliticalRisk|命相判断的政治风险]] and [[ProphecyFulfillmentDisplacement|预言兑现错位]] - adjacent risk and narrative-payoff patterns.
 - [[WarringStatesRetainerPatronage|战国养士]] and [[MoralReputationPoliticalCapital|道德名望政治资本]] - adjacent patronage and reputation-capital frames.

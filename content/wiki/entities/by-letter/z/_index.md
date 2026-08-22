@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6543
+wiki_total_pages: 6546
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "ZhanTeacher"
     title: "占老师 / Zhan Teacher"
     url: "/wiki/entities/zhanteacher/"
+  - key: "ZhouYafu"
+    title: "周亚夫 / Zhou Yafu"
+    url: "/wiki/entities/zhouyafu/"
   - key: "ZhouGong"
     title: "周公 / Duke of Zhou"
     url: "/wiki/entities/zhougong/"

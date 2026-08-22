@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯](sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s.md) — 芮淇讲透资治通鉴番外 episode completing Xu Fu's Liu Bang recognition, Bao Ji prophecy payoff, Deng Tong and Zhou Yafu starvation predictions, and the source-scoped 相术 method discussion.
 - [《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？](sources/zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk.md) — 芮淇讲透资治通鉴番外 episode on 许负's origin legend, Zhouyi/bagua learning, Huangshi Gong's book gift, refusal of Qin Shi Huang's summons, and incomplete Liu Bang recognition scene.
 - [《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本](sources/zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw.md) — 芮淇讲透资治通鉴 episode on the Julu battle, Qin supply-corridor disruption, Ying Bu and Pu General breaking the yongdao, Xiang Yu crossing the Zhang River, and the operational meaning of 破釜沉舟.
 - [《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？](sources/zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx.md) — 芮淇讲透资治通鉴 episode on Song Yi's forty-six-day halt at Anyang, his conflict with Xiang Yu, the Wuyan banquet morale failure, and Xiang Yu's killing of Song Yi before Julu.
@@ -1224,6 +1225,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [邓通 / Deng Tong](entities/DengTong.md) — Western Han favorite whose emperor-backed wealth collapses after succession, fulfilling Xu Fu's poverty-and-starvation prediction in the episode.
+- [周亚夫 / Zhou Yafu](entities/ZhouYafu.md) — Western Han marquis and high military-political figure whose imprisonment and self-starvation fulfill Xu Fu's staged prediction.
+- [汉景帝 / Emperor Jing of Han](entities/HanJingdi.md) — Emperor Wen's successor, used by Qinji 135 番外篇2 as the reign context where Deng Tong and Zhou Yafu's fortunes reverse.
 - [沙丘 / Shaqiu](entities/Shaqiu.md) — Place node for Qin Shi Huang's death-site reference in Qinji 135, kept separate from the Zhao 沙丘之变 event.
 - [巨鹿之战 / Battle of Julu](entities/JuluBattle.md) — Decisive anti-Qin battle where Xiang Yu first breaks Qin's supply corridor, then uses 破釜沉舟 after crossing the Zhang River.
 - [蒲将军 / Pu General](entities/PuGeneral.md) — Chu commander paired with Ying Bu in the twenty-thousand-person attack that breaks Qin's Julu supply corridor.
@@ -1369,11 +1373,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《秦谜》 / Qin Mi](entities/QinMi.md) — Li Kaiyuan work used source-scopingly in Qinji 118-1 to reconstruct Changping Jun as Xiong Qi and explain Li Xin's Chu failure.
 - [蕲南 / Qinan (Chu battlefield)](entities/QinanChuBattlefield.md) — Chu battlefield near which Wang Jian defeats Xiang Yan in Qinji 118-1, distinct from the incense-material page Qinan.
 - [唐雎 / Tang Ju (Anling envoy)](entities/TangJuEnvoy.md) — Anling envoy whose "布衣之怒" reply to Ying Zheng anchors the episode's source-critical face-slapping reversal story.
-- [魏豹 / Wei Bao](entities/WeiBao.md) — Wei royal survivor who misreads Xu Fu's prediction about Bao Ji as his own coming rise.
+- [魏豹 / Wei Bao](entities/WeiBao.md) — Wei royal survivor who misreads Xu Fu's prediction about Bao Ji as his own coming rise, a source case for prophecy fulfillment displacement.
 - [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
-- [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao.
-- [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Bao Ji's prediction, Qin Shi Huang's summons, and a transcript-incomplete Liu Bang recognition branch, distinct from 徐福 the fangshi.
-- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, used here as the later fulfillment of Xu Fu's prediction.
+- [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao, making her the hinge of the displaced-prophecy branch.
+- [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Female physiognomist tied to Qin Shi Huang's summons, Liu Bang's Wen County recognition, Bao Ji's prediction, and later Deng Tong / Zhou Yafu cases, distinct from 徐福 the fangshi.
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, later Emperor Wen, who honors Xu Fu and tries to prevent Deng Tong's predicted poverty.
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
@@ -7771,7 +7775,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [命相判断的政治风险 / Fate-Reading Political Risk](concepts/FateReadingPoliticalRisk.md) — Pattern where a fate-reader's judgment changes exposure to imperial power, from avoiding Qin Shi Huang to the incomplete Liu Bang recognition scene.
+- [预言兑现错位 / Prophecy Fulfillment Displacement](concepts/ProphecyFulfillmentDisplacement.md) — Pattern where a prediction is heard correctly but fulfilled through another person, dynasty, patron, or mechanism.
+- [命相判断的政治风险 / Fate-Reading Political Risk](concepts/FateReadingPoliticalRisk.md) — Pattern where a fate-reader's judgment changes exposure to rulers, succession, favorites, and ministers, from avoiding Qin Shi Huang to recognizing Liu Bang.
 - [破釜沉舟 / Breaking Cauldrons and Sinking Boats](concepts/BreakingCauldronsAndSinkingBoats.md) — Xiang Yu's death-ground commitment device at Julu, treated as morale action after supply-corridor preparation rather than generic inspiration.
 - [Huaiwang Agreement / 怀王之约](concepts/HuaiwangAgreement.md) — Mi Xin's Guanzhong reward rule and mission allocation, whose Julu-rescue side soon exposes command legitimacy risk under Song Yi and Xiang Yu.
 - [Poetic Wine Culture / 诗酒文化](concepts/PoeticWineCulture.md) — Frame where alcohol functions as poetic occasion, social warmth, inspiration, longing, and grief when bounded by restraint.

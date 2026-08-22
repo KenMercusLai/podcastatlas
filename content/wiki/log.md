@@ -9411,6 +9411,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯
+
+Added source page for Qinji 135 番外篇2: Xu Fu's completed Liu Bang/Wen County recognition branch, Liu Bang's later reward, Wei Bao's misread Bao Ji prophecy, Liu Heng's Emperor Wen payoff, Deng Tong's wealth-to-starvation prediction, Zhou Yafu's marquis-and-minister-to-starvation prediction, and the source-scoped 相术 method discussion around spirit and bones. Created Deng Tong, Zhou Yafu, Han Jingdi, and Prophecy Fulfillment Displacement; updated overview, index, Xu Fu (physiognomist), Liu Bang, Wei Bao, Bao Ji, Liu Heng, Fate-Reading Political Risk, Physiognomic Investment Judgment, and the prior Qinji 135 番外篇1 source backlink. No settled contradiction found; preserved the 徐复 / 徐傅-like transcript variants under canonical [[XuFuPhysiognomist|许负]] and kept the title/accuracy claims source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思
 
 Added source page for Qinji 131-3: a cross-period alcohol-and-culture essay covering poetic wine culture, Li Bai and Du Fu's wine-poetry branch, Li Qingzhao's wine lyrics across life stages, Woolf's writing-condition analogy, Genghis Khan's restrained drinking, Confucius's "不为酒困," and the closing standard of enjoying drink without losing drinking virtue. Created Du Fu, Genghis Khan, Book of Rites, Wang Zhongwen, Poetic Wine Culture, and Temperate Drinking Self-Control; updated overview, index, Li Qingzhao, Li Bai, Confucius, Analects, Virginia Woolf, Alcohol as Power Catalyst, Poetry as Emotional Release, and Capital Poetry Sociality. No settled contradiction found; kept the Genghis Khan leadership-causality claim and the cross-period Qinji framing source-scoped.
@@ -9782,3 +9786,7 @@ Added source page for Qinji 135 番外篇1: a partial episode summary on the fem
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 12,812 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identity validation found no case-insensitive key or public-route collisions. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while current lint scanned 12,812 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

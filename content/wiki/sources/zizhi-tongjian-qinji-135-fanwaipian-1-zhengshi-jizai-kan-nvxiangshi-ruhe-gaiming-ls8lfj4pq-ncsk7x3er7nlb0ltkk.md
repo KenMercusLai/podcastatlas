@@ -31,6 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]]番外 episode shift
 
 ## Connections
 - [[XuFuPhysiognomist|许负 / Xu Fu (physiognomist)]] - central figure; this source adds an origin legend and Qin-collapse avoidance story to the older Bao Ji prediction branch.
+- [[zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s|Qinji 135 番外篇2]] - sequel source that completes the Liu Bang recognition branch and adds Deng Tong / Zhou Yafu prediction cases.
 - [[QinShiHuang|秦始皇]], [[QinState|秦国]], [[Xianyang|咸阳]], and [[Shaqiu|沙丘]] - imperial setting for the summons, refusal, and death-prophecy payoff.
 - [[HuangshiGong|黄石公]], [[ZhangLiang|张良]], and [[TaigongBingfa|《太公兵法》]] - legendary teacher network used to authorize the physiognomist's learning.
 - [[ZhouyiDivination|《周易》占卜]], [[YinYangFivePhasesPoliticalTheory|阴阳五行政治理论]], and [[FateReadingPoliticalRisk|命相判断的政治风险]] - technique and risk frame for the episode.
