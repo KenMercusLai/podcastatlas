@@ -2,7 +2,7 @@
 title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
 type: concept
 tags: [conquest, administration, commandery-county-system, qin-state, warring-states, statecraft]
-sources: [zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]
+sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ It also clarifies why Chu's fall is bigger than a single capital capture. Chu ha
 
 [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]] adds the local-resistance problem inside that transition. The episode says Qin forcibly relocates powerful households away from conquered regions, then lets local governments push the new management model with fewer old elite networks in place. This makes commandery transition a social conversion as well as an office map.
 
+[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] supplies a Chu-Han successor version rather than a Qin imperial one. Liu Bang converts [[ShenYang|申阳]]'s surrendered Henan kingdom into [[HenanCommanderyChuHan|河南郡]] and later organizes [[SimaAng|司马卬]]'s captured territory as [[HeneiCommandery|河内郡]], showing commandery conversion as a practical tool for absorbing Xiang Yu's settlement lords.
+
 ## Key Claims
 - Conquest is incomplete until captured territory is translated into legible administrative units.
 - Temporary commandery naming can preserve the defeated state's regional label while preparing later subdivision.
@@ -31,6 +33,7 @@ It also clarifies why Chu's fall is bigger than a single capital capture. Chu ha
 - Qinji 123-2 extends the southern branch beyond Kuaiji into Lingnan commanderies, pairing conquest with convict settlement and marginal-status mobilization.
 - Qinji 120-3 shows the final policy choice: commandery conversion becomes the alternative to re-enfeoffing conquered territory under imperial sons.
 - Qinji 120-4 adds that commandery conversion can be paired with elite relocation to reduce local resistance before the new government model is imposed.
+- Hanji 149 part 2 adds the Chu-Han form: commandery conversion can absorb surrendered or captured settlement kingdoms before empire-wide unification is complete.
 
 ## Connections
 - [[QinState|秦国]], [[ChuState|楚国]], [[WangJianQin|王翦]], [[MengWu|蒙武]], and [[ChuFuchu|熊负刍 / 楚王负刍]] - source conquest case.
@@ -41,3 +44,4 @@ It also clarifies why Chu's fall is bigger than a single capital capture. Chu ha
 - [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], [[XiangCommandery|象郡]], and [[MarginalStatusConscription|边缘身份征发]] - post-unification Lingnan commandery setup and social-mobilization layer.
 - [[CommanderyCountyAntiEnfeoffment|郡县制反分封定局]], [[QinWangWan|王绾]], [[LiSi|李斯]], and [[zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv|Qinji 120-3]] - empire-wide rejection of renewed princely states.
 - [[EliteRelocationControl|豪杰迁徙控制]], [[ImperialHomogenization|帝国整齐划一]], and [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr|Qinji 120-4]] - social-control layer supporting commandery implementation after conquest.
+- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiuBang|刘邦]], [[ShenYang|申阳]], [[HenanCommanderyChuHan|河南郡]], [[SimaAng|司马卬]], and [[HeneiCommandery|河内郡]] - Chu-Han surrender/capture converted into commandery control.

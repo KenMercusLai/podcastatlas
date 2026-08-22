@@ -18515,6 +18515,10 @@
     "title": "韩通 / Han Tong",
     "url": "/wiki/entities/hantong/"
   },
+  "HanWangXin": {
+    "title": "韩王信 / Han Wang Xin",
+    "url": "/wiki/entities/hanwangxin/"
+  },
   "HanWenhou": {
     "title": "韩文侯 / Marquis Wen of Han",
     "url": "/wiki/entities/hanwenhou/"
@@ -18963,9 +18967,17 @@
     "title": "Hemant Taneja",
     "url": "/wiki/entities/hemanttaneja/"
   },
+  "HenanCommanderyChuHan": {
+    "title": "河南郡 / Henan Commandery (Chu-Han)",
+    "url": "/wiki/entities/henancommanderychuhan/"
+  },
   "HenanSmartSupercomputingCenter": {
     "title": "河南智能超算中心 / Henan Smart Supercomputing Center",
     "url": "/wiki/entities/henansmartsupercomputingcenter/"
+  },
+  "HeneiCommandery": {
+    "title": "河内郡 / Henei Commandery",
+    "url": "/wiki/entities/heneicommandery/"
   },
   "HenganGroup": {
     "title": "恒安集团",
@@ -25254,6 +25266,10 @@
   "LixinAccounting": {
     "title": "立信会计",
     "url": "/wiki/entities/lixinaccounting/"
+  },
+  "LiyangQinHan": {
+    "title": "栎阳 / Liyang (Qin-Han)",
+    "url": "/wiki/entities/liyangqinhan/"
   },
   "LizFarmer": {
     "title": "Liz Farmer",
@@ -46867,6 +46883,10 @@
     "title": "张平 / Zhang Ping",
     "url": "/wiki/entities/zhangpinghan/"
   },
+  "ZhangPingQinGeneral": {
+    "title": "章平 / Zhang Ping (Qin General)",
+    "url": "/wiki/entities/zhangpingqingeneral/"
+  },
   "ZhangQi": {
     "title": "Zhang Qi / 张奇",
     "url": "/wiki/entities/zhangqi/"
@@ -47238,6 +47258,10 @@
   "ZhengAnping": {
     "title": "郑安平 / Zheng Anping",
     "url": "/wiki/entities/zhenganping/"
+  },
+  "ZhengChangHanKing": {
+    "title": "郑昌 / Zheng Chang (Han King)",
+    "url": "/wiki/entities/zhengchanghanking/"
   },
   "ZhengChenggong": {
     "title": "Zheng Chenggong / 郑成功",
@@ -50742,6 +50766,10 @@
   "zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw": {
     "title": "《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw/"
+  },
+  "zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn": {
+    "title": "《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

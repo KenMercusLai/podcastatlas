@@ -2,8 +2,8 @@
 title: "三川 / Sanchuan (Warring States)"
 type: entity
 tags: [place, region, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-58-zhaowulingwang-ruhe-dazao-qiangguo-lq9mgpib0whh0w-jkv0kxcafbnnz, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]
+last_updated: 2026-08-22
 ---
 
 # 三川 / Sanchuan (Warring States)
@@ -20,6 +20,8 @@ The source does not pause to define Sanchuan geographically, so this page should
 
 [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] returns to Sanchuan at the moment Qin faces anti-Qin rebellion rather than Warring States rivals. [[LiYou|李由]] is the Sanchuan governor defending [[YingyangWarringStates|荥阳]] against [[WuGuang|吴广]], and the city's successful defense helps create the Zhang Chu command crisis that ends in Wu Guang's death.
 
+[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] gives Sanchuan a Chu-Han afterlife through [[ShenYang|申阳]]. The source says Shen Yang had taken Sanchuan and been made Henan king by Xiang Yu; when he surrenders to Liu Bang, Liu Bang turns the territory into [[HenanCommanderyChuHan|河南郡]].
+
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[QinWuwang|秦武王]], and [[QinState|秦国]] - strategist, listener, and state in the proposed plan.
 - [[WeiState|魏国]], [[QiState|齐国]], and [[HanState|韩国]] - states whose conflict or exposure creates the opening.
@@ -29,3 +31,4 @@ The source does not pause to define Sanchuan geographically, so this page should
 - [[MengAo|蒙敖]], [[QinZhuangxiangwang|秦庄襄王]], [[HanState|韩国]], and [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]] - Chenggao capture and commandery creation.
 - [[YingyangWarringStates|荥阳]], [[Xingze|荥泽]], [[GuanchengWarringStates|管城]], [[Daliang|大梁]], and [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck|Qinji 103-1]] - Qin-held regional pressure after Xinlingjun's coalition victory.
 - [[LiYou|李由]], [[WuGuang|吴广]], [[TianZang|田臧]], and [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] - commandery office and Yingyang siege during Qin's collapse.
+- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[ShenYang|申阳]], [[HenanCommanderyChuHan|河南郡]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - Chu-Han surrender and commandery conversion.

@@ -2,7 +2,7 @@
 title: "魏豹 / Wei Bao"
 type: entity
 tags: [person, wei-state, warring-states, chu-han-contention]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
+sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The prediction is fulfilled in a way that empties his self-centered reading. The
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] gives Wei Bao's Xiang Yu settlement adjustment. [[XiangYu|项羽]] moves him from Wei king to West Wei king, with Pingyang as capital and Hedong as territory. The change shows how old restored royal titles can survive but be re-ranked and relocated inside [[ZhouQinHybridOrder|周秦混合制]].
 
+[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] shows that demotion becoming defection. Wei Bao surrenders to [[LiuBang|刘邦]] without major resistance after Liu Bang crosses the Yellow River from Linjin. The episode explains the quick turn through [[RewardAllocationBacklash|分配反噬]]: Xiang Yu's settlement had cut Wei Bao down from a larger old-Wei commandery base and reassigned pieces to West Chu and [[SimaAng|司马卬]].
+
 ## Connections
 - [[WeiState|魏国]], [[WeiWangJia|魏王假]], and [[WeiJiu|魏咎]] - fallen Wei context and related surviving figure.
 - [[BaoJi|薄姬]] - favored woman whose predicted child Wei Bao misreads as his own future.
@@ -30,3 +32,4 @@ The prediction is fulfilled in a way that empties his self-centered reading. The
 - [[ProphecyFulfillmentDisplacement|预言兑现错位]] - concept capturing how Wei Bao's correct hearing becomes a wrong self-centered interpretation.
 - [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]], [[MiXin|芈心 / 楚怀王]], [[ChuState|楚国]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - post-Wei-Jiu restoration attempt with Chu backing.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] - recovery of old Wei cities and recognition as Wei king.
+- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiuBang|刘邦]], [[SimaAng|司马卬]], and [[CoalitionSettlementFailure|联军战后安排失败]] - Yellow River crossing and surrender after partition grievance.

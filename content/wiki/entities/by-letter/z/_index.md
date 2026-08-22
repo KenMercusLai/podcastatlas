@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6591
+wiki_total_pages: 6597
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "ZhiqingXiaojiuguan"
     title: "知青小酒馆 / Zhiqing Xiaojiuguan"
     url: "/wiki/entities/zhiqingxiaojiuguan/"
+  - key: "ZhangPingQinGeneral"
+    title: "章平 / Zhang Ping (Qin General)"
+    url: "/wiki/entities/zhangpingqingeneral/"
   - key: "ZhangHanQin"
     title: "章邯 / Zhang Han (Qin)"
     url: "/wiki/entities/zhanghanqin/"
@@ -779,6 +782,9 @@ wiki_pages:
   - key: "ZhengWenGong"
     title: "郑文公 / Duke Wen of Zheng"
     url: "/wiki/entities/zhengwengong/"
+  - key: "ZhengChangHanKing"
+    title: "郑昌 / Zheng Chang (Han King)"
+    url: "/wiki/entities/zhengchanghanking/"
   - key: "ZhengZhu"
     title: "郑朱 / Zheng Zhu"
     url: "/wiki/entities/zhengzhu/"

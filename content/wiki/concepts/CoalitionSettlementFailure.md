@@ -2,7 +2,7 @@
 title: "Coalition Settlement Failure / 联军战后安排失败"
 type: concept
 tags: [warfare, diplomacy, statecraft, coalition, warring-states, qin]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-22
 ---
 
@@ -28,6 +28,8 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]] adds the failure of symbolic cleanup. Xiang Yu tries to solve the Mi Xin problem by killing the Yi Emperor through [[YingBu|英布]], [[WuRui|吴芮]], and [[GongAo|共敖]], but that action turns into Liu Bang's public justification for assembling lords. A settlement has failed at this point not only because claimants rebel, but because the attempted removal of one legitimacy problem creates a larger coalition argument against the remover.
 
+[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] adds the territorial unraveling. [[ShenYang|申阳]]'s Henan kingdom, [[ZhengChangHanKing|郑昌]]'s Han kingship, [[WeiBao|魏豹]]'s West Wei position, and [[SimaAng|司马卬]]'s Yin kingship either surrender or are captured as Liu Bang advances. At the same time, Xiang Yu's Qi campaign shows that even a military victory over [[TianRong|田荣]] cannot repair the settlement when punitive occupation turns local submission into renewed resistance.
+
 ## Key Claims
 - A coalition's battlefield interests can diverge from its postwar design interests.
 - Short-term extraction and long-term threat removal can point to incompatible settlement plans.
@@ -41,6 +43,7 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 - Hanji 144 part 2 adds an operational test: a settlement is failing when its enforcement fights create openings for rivals outside the rebellion theater.
 - Hanji 148-2 adds that settlement failure can become a response-lag problem after a rival makes a breakthrough elsewhere.
 - Hanji 149 adds that murdering a residual symbolic ruler can convert settlement enforcement into a coalition-building accusation.
+- Hanji 149 part 2 adds that settlement failure becomes territorial unraveling when rewarded kings and peripheral lords can be absorbed by a rival's commandery system.
 
 ## Connections
 - [[HanState|韩国]], [[HanYihou|韩懿侯]], and [[GongsunQi|公孙齐]] - Han side of the coalition.
@@ -55,3 +58,4 @@ In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]],
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[TianRong|田荣]], [[PengYue|彭越]], [[ChenYu|陈馀]], [[BurningGalleryRoads|烧栈道]], and [[GuanzhongRegion|关中]] - rebellion cascade and western opening.
 - [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[HanXin|韩信]], [[WangLingHanMinister|王陵]], [[HanGuang|韩广]], and [[MiXin|芈心 / 楚怀王]] - breakthrough in the west plus unresolved settlement fires elsewhere.
 - [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]], [[YingBu|英布]], [[WuRui|吴芮]], [[GongAo|共敖]], and [[LiuBang|刘邦]] - failed symbolic cleanup and Liu Bang's anti-Xiang call.
+- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[ShenYang|申阳]], [[ZhengChangHanKing|郑昌]], [[WeiBao|魏豹]], [[SimaAng|司马卬]], [[TianRong|田荣]], and [[AtrocityBackfireMobilization|暴行反噬式动员]] - surrender/capture of settlement lords plus failed Qi pacification.

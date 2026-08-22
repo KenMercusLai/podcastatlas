@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6591
+wiki_total_pages: 6597
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -704,9 +704,15 @@ wiki_pages:
   - key: "HanYang"
     title: "汉洋 / Han Yang"
     url: "/wiki/entities/hanyang/"
+  - key: "HeneiCommandery"
+    title: "河内郡 / Henei Commandery"
+    url: "/wiki/entities/heneicommandery/"
   - key: "HenanSmartSupercomputingCenter"
     title: "河南智能超算中心 / Henan Smart Supercomputing Center"
     url: "/wiki/entities/henansmartsupercomputingcenter/"
+  - key: "HenanCommanderyChuHan"
+    title: "河南郡 / Henan Commandery (Chu-Han)"
+    url: "/wiki/entities/henancommanderychuhan/"
   - key: "HexiWarringStates"
     title: "河西 / Hexi (Warring States)"
     url: "/wiki/entities/hexiwarringstates/"
@@ -827,6 +833,9 @@ wiki_pages:
   - key: "HanLiehou"
     title: "韩烈侯 / Marquis Lie of Han"
     url: "/wiki/entities/hanliehou/"
+  - key: "HanWangXin"
+    title: "韩王信 / Han Wang Xin"
+    url: "/wiki/entities/hanwangxin/"
   - key: "HanAn"
     title: "韩王安 / Han An"
     url: "/wiki/entities/hanan/"

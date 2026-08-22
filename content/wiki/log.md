@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）
+
+Added source page for Hanji 149 part 2: Zheng Chang's appointment and surrender, Shen Yang's surrender and Henan Commandery conversion, Han Wang Xin's disambiguated Han kingship, Liu Bang's move to Liyang and seizure of Longxi/Beidi, Xiang Yu's Qi campaign and atrocity backfire after Tian Rong's death, Wei Bao's reward-allocation-driven surrender, and Sima Ang's capture with Henei Commandery creation. Created Han Wang Xin, Zheng Chang (Han King), Liyang (Qin-Han), Henan Commandery (Chu-Han), Henei Commandery, and Zhang Ping (Qin General); updated overview, index, Liu Bang, Xiang Yu, Tian Rong, Shen Yang, Wei Bao, Sima Ang, Longxi Commandery, Beidi Commandery, Guanzhong Region, Han Xin, Xiao He, Zhang Liang, Yingchuan, Sanchuan, Guan Ying, Atrocity Backfire Mobilization, Occupation Pacification Strategy, Political Surrender Cascade, Conquest Commandery Transition, Strategic Capital Relocation, Reward Allocation Backlash, Coalition Settlement Failure, and Three Qin Containment. No settled contradiction found; disambiguated Han Wang Xin from Han Xin, Zhang Ping (Qin General) from Zhang Ping (Han), and Liyang (Qin-Han) from other romanized Liyang locations.
+
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）
 
 Added source page for Hanji 149: Xiang Yu's forced relocation of Yi Emperor Mi Xin to Chenxian, the order to Ying Bu, Wu Rui, and Gong Ao to kill him, Ying Bu's eventual execution of the order, local burial at Chenxian, Xiang Yu's motives around the Huaiwang Agreement and fear of Mi Xin as a political banner, Liu Bang's use of the murder to summon lords against Xiang Yu, Chen Yu's defeat of Zhang Er and restoration of Zhao Xie, Xia Shuo's Dai administration role, Gan Gong's advice that Zhang Er join Liu Bang, and Zhang Liang's move to Liu Bang after Han Cheng's death. Created Gan Gong and Xia Shuo; updated overview, index, Mi Xin, Xiang Yu, Liu Bang, Ying Bu, Wu Rui, Gong Ao, Chenxian, Chen Yu, Zhang Er, Zhao Xie, Zhang Liang, Han Cheng, Huaiwang Agreement, Restored Royal Figurehead Legitimacy, Reward Allocation Backlash, and Coalition Settlement Failure. No settled contradiction found; this source completes the killing only set up in Hanji 143.
@@ -9950,6 +9954,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判
 
 Added source page for Hanji 148-1: Han Xin's post-Hanzhong-Dui execution plan, "申军法" as Qin-style military reorganization, the later reception of "明修栈道，暗渡陈仓," Guan Ying/Fan Kuai/Cao Shen's side-route actions, Zhang Han's second-order misread, the Chen Cang central breakthrough, Zhang Han's defeats at Chen Cang and Haozhi, and Sima Xin/Dong Yi's surrender. Created Chen Cang, Han Inherits Qin System, and Layered Feint Central Breakthrough; updated overview, index, Han Xin, Liu Bang, Zhang Han, Three Qin Containment, Hanzhong Dui, Strategic Retreat Base-Building, Military Merit Rank System, Guan Ying, Fan Kuai, Cao Shen, Sima Xin, Dong Yi, Hanzhong, Guanzhong Region, Sunzi Bingfa, Laozi, and Zhuge Liang. No settled contradiction found; kept the idiom-origin correction as reception history rather than a conflict with existing campaign pages.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

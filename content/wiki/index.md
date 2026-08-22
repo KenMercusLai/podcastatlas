@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）](sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Guanzhong absorption of Henan, Han, Longxi, Beidi, Wei, and Henei positions, Xiang Yu's punitive Qi campaign, and the contrast between surrender conversion and atrocity backfire.
 - [《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）](sources/zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw.md) — 芮淇讲透资治通鉴 episode on Yi Emperor Mi Xin's killing, Xiang Yu's fear of symbolic legitimacy, Liu Bang's anti-Xiang mobilization pretext, and Zhao/Han-side defections toward Liu Bang.
 - [《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心](sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm.md) — 芮淇讲透资治通鉴 episode on Wang Ling's mother, Xiang Yu's hostage coercion, Liu Bang's Huaiwang-agreement claim, and settlement backlash across Qi, Yan, and Yi Emperor pressure.
 - [《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判](sources/zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe.md) — 芮淇讲透资治通鉴 episode on Han Xin's Qin-style army reform, layered feints, Chen Cang breakthrough, Zhang Han's defeat, and the collapse of the Three Qin.
@@ -1246,6 +1247,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [韩王信 / Han Wang Xin](entities/HanWangXin.md) — Old Han royal descendant, distinct from the general Han Xin, whom Liu Bang installs as Han king after Zheng Chang surrenders.
+- [郑昌 / Zheng Chang (Han King)](entities/ZhengChangHanKing.md) — Xiang Yu loyalist made Han king after Han Cheng's death, then displaced when he surrenders to Liu Bang.
+- [栎阳 / Liyang (Qin-Han)](entities/LiyangQinHan.md) — Qin-Han capital site Liu Bang uses as a rear-base capital after recovering Guanzhong.
+- [河南郡 / Henan Commandery (Chu-Han)](entities/HenanCommanderyChuHan.md) — Commandery Liu Bang creates from Shen Yang's surrendered Henan kingdom.
+- [河内郡 / Henei Commandery](entities/HeneiCommandery.md) — Henei territory Liu Bang organizes after capturing Sima Ang.
+- [章平 / Zhang Ping (Qin General)](entities/ZhangPingQinGeneral.md) — Zhang Han's younger brother defeated by Han forces in Beidi, disambiguated from Zhang Liang's father Zhang Ping.
 - [甘公 / Gan Gong](entities/GanGong.md) — Adviser who tells the defeated Zhang Er to choose Liu Bang over Xiang Yu because Liu Bang has the future.
 - [夏说 / Xia Shuo](entities/XiaShuo.md) — Chen Yu delegate appointed to manage Dai while Chen Yu stays in Zhao after restoring Zhao Xie.
 - [王陵 / Wang Ling (Han minister)](entities/WangLingHanMinister.md) — Pei County notable and later Han minister, disambiguated from the Qin general, whose mother's death pushes him firmly toward Liu Bang.
