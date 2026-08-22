@@ -9986,3 +9986,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）
+
+Added source page for Hanji 150: Chen Ping early poverty, brotherly protection, reading and friendship, Zhang Fu marriage backing, the unnamed wife as social-capital bridge, and the社祭分肉 scene as fair allocation and early political skill. Created Zhang Fu, Chen Ping Wife, Local Social Capital Accumulation, and Fair Allocation As Political Skill; updated overview, index, Chen Ping, and Physiognomic Investment Judgment. No settled contradiction found; kept the final turn toward Liu Bang as unresolved because the available transcript cuts off during the transition.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

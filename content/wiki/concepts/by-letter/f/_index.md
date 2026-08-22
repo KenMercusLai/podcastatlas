@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5075
+wiki_total_pages: 5077
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "FailureDrivenSelfStudy"
     title: "Failure-Driven Self-Study / 失败后的自学翻身"
     url: "/wiki/concepts/failuredrivenselfstudy/"
+  - key: "FairAllocationPoliticalSkill"
+    title: "Fair Allocation As Political Skill / 公平分配式政治能力"
+    url: "/wiki/concepts/fairallocationpoliticalskill/"
   - key: "FairComparisonFrames"
     title: "Fair Comparison Frames"
     url: "/wiki/concepts/faircomparisonframes/"
