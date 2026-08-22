@@ -9898,3 +9898,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] graph | Knowledge graph rebuilt
 
 12882 nodes, 149964 edges (149964 extracted, 0 inferred).
+
+## [2026-08-22] ingest | 《资治通鉴·汉纪》144｜项羽集团覆灭的原因（2）
+
+Added source page for Hanji 144 part 2: Zhang Liang's gift-mediated use of Xiang Bo after Liu Bang accepts Hanzhong, the burning of the gallery roads as both defense and political signal, Liu Bang's absorption of disappointed followers including Han Xin, Tian Rong's attack on the Qi settlement, Peng Yue's Qi-backed pressure, Chen Yu's request for troops against Zhang Er to restore Zhao Xie, the resulting Qi-Zhao pressure on Xiang Yu, and Han Cheng's detention, demotion, and killing. Created Han Xin and Burning Gallery Roads; updated overview, index, Xiang Yu, Liu Bang, Zhang Liang, Xiang Bo, Tian Rong, Peng Yue, Chen Yu, Han Cheng, Reward Allocation Backlash, Coalition Settlement Failure, and Strategic Retreat Base-Building. No settled contradiction found; kept minor intermediaries such as 张同、夏说 and 萧公角 source-scoped rather than creating low-signal pages.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

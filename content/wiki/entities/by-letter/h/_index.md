@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6584
+wiki_total_pages: 6585
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "HaodaiBattle"
     title: "鄗代之战 / Battle of Hao-Dai"
     url: "/wiki/entities/haodaibattle/"
+  - key: "HanXin"
+    title: "韩信 / Han Xin"
+    url: "/wiki/entities/hanxin/"
   - key: "HanAihou"
     title: "韩哀侯 / Marquis Ai of Han"
     url: "/wiki/entities/hanaihou/"

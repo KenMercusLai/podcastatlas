@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（2）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu.md) — 芮淇讲透资治通鉴 episode on Liu Bang entering Hanzhong, Zhang Liang's burned-gallery-road signal, disappointed followers including Han Xin, Tian Rong/Peng Yue/Chen Yu's rebellion cascade, and Han Cheng's killing.
 - [《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1）](sources/zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb.md) — 芮淇讲透资治通鉴 episode on Xiang Yu's partition backlash, demoted old kings, under-rewarded insiders, Mi Xin's forced relocation, and Xiao He's conversion of Liu Bang's Hanzhong demotion into Ba-Shu base-building.
 - [《资治通鉴·汉纪》143｜项羽是如何费尽心机弄死楚怀王芈心](sources/zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2.md) — 芮淇讲透资治通鉴 episode on Xiang Yu's rejection of the Huaiwang promise, Mi Xin's virtual elevation and removal to Chenxian, Liu Bang's Han kingship at Nanzheng, the Three Qin containment layer, and the Zhou-Qin hybrid reading of Xiang Yu's nineteen-lord settlement.
 - [《资治通鉴·汉纪》142｜这场聚会，项羽输掉了一切](sources/zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r.md) — 芮淇讲透资治通鉴 episode completing the Hongmen escape through Fan Kuai, Zhang Liang, Liu Bang, and Chen Ping, then turning to Xiang Yu's Xianyang violence, rejected Guanzhong base advice, and Han Sheng's death.
@@ -1238,6 +1239,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [韩信 / Han Xin](entities/HanXin.md) — Future Han general first appearing here as a disappointed follower entering Hanzhong with Liu Bang before his later command role is developed.
 - [周勃 / Zhou Bo](entities/ZhouBo.md) — Liu Bang-side officer used by Hanji 144 as part of the immediate-war faction redirected by Xiao He's Hanzhong base-building counsel.
 - [灌婴 / Guan Ying](entities/GuanYing.md) — Liu Bang-side officer grouped with Zhou Bo and Fan Kuai in Hanji 144's post-Hanzhong morale-management scene.
 - [南郑 / Nanzheng](entities/Nanzheng.md) — Liu Bang's assigned Han-king capital in Hanji 143, marking his constrained placement in Ba-Shu and Hanzhong behind the Three Qin layer.
@@ -1264,7 +1266,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨熊 / Yang Xiong (Qin General)](entities/YangXiongQinGeneral.md) — Qin general defeated by Liu Bang and executed by Qin Er Shi, disambiguated from the later author Yang Xiong.
 - [司马卬 / Sima Ang](entities/SimaAng.md) — Zhao-side commander whose attempted move toward Guanzhong is blocked by Liu Bang as route and credit competition.
 - [颍川郡 / Yingchuan Commandery](entities/YingchuanCommandery.md) — Qinji 136 massacre site that complicates Liu Bang's later pacification profile.
-- [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose strict deadline and execution of the last latecomer turn a loose band into a disciplined force before he joins Liu Bang.
+- [彭越 / Peng Yue](entities/PengYue.md) — Changyi fisher-turned-rebel commander whose disciplined armed force becomes Tian Rong's pressure tool against Xiang Yu's settlement.
 - [郦食其 / Li Shiqi](entities/LiShiqi.md) — Poor Gaoyang gatekeeper whose rebuke of Liu Bang's rude reception becomes Chenliu strategy, reward, and ethically compromised retainer service.
 - [曾国藩 / Zeng Guofan](entities/ZengGuofan.md) — Reputational anchor for Qinji 135 番外篇3's person-reading tradition, tied to doubtful Bingjian attribution and language-based personnel judgment.
 - [《冰鉴》 / Bingjian](entities/Bingjian.md) — Attributed Zeng Guofan physiognomy/person-reading text used by Qinji 135 番外篇3 to discuss spirit, bones, bearing, and speech.
@@ -1302,8 +1304,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [上蔡 / Shangcai](entities/Shangcai.md) — Li Si's hometown and the east-gate memory point behind the Dongmen Yellow Dog regret idiom.
 - [冯劫 / 冯杰 / Feng Jie (Qin)](entities/FengJieQin.md) — Qin general who joins Li Si and Feng Quji in urging Hu Hai to suspend Afang Palace and reduce burdens, then is arrested with them.
 - [芈心 / Mi Xin / Later Chu Huai Wang](entities/MiXin.md) — Shepherd descendant of old Chu Huai Wang installed by Xiang Liang as restored Chu figurehead after Fan Zeng's advice.
-- [韩成 / Han Cheng](entities/HanCheng.md) — Old Han royal descendant installed as Han king after Zhang Liang persuades Xiang Liang to widen anti-Qin restoration legitimacy.
-- [田荣 / Tian Rong](entities/TianRong.md) — Qi survivor who rescues the Tian line after Tian Dan's death, drives out Tian Jia, and withholds Qi troops unless Chu and Zhao kill his rivals.
+- [韩成 / Han Cheng](entities/HanCheng.md) — Old Han royal descendant installed through Zhang Liang's restoration logic and later detained, demoted, and killed by Xiang Yu.
+- [田荣 / Tian Rong](entities/TianRong.md) — Qi survivor excluded by Xiang Yu's settlement who seizes Qi kingship and helps Peng Yue and Chen Yu open the eastern rebellion cascade.
 - [田假 / Tian Jia](entities/TianJia.md) — Emergency Qi king installed after Tian Dan's death and expelled to Chu by Tian Rong, turning refuge into a coalition dispute.
 - [田角 / Tian Jiao](entities/TianJiao.md) — Tian Jia's chancellor who flees to Zhao and becomes one of the men Tian Rong demands Zhao kill before Qi will aid Xiang Liang.
 - [田间 / Tian Jian (Qi General)](entities/TianJianQiGeneral.md) — Qi general under Tian Jia, disambiguated from Qi Wang Jian / 田建 and made part of Tian Rong's anti-coalition condition.
@@ -1378,7 +1380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [秦直道 / Qin Straight Road](entities/QinZhidao.md) — Meng Tian-led road project from Yunyang to Jiuyuan, treated as part of late Qin construction overload.
 - [淳于越 / Chunyu Yue](entities/ChunyuYue.md) — Qi-born Qin court scholar whose revived enfeoffment argument triggers Li Si's book-burning proposal.
 - [孔鲋 / Kong Fu](entities/KongFu.md) — Confucius descendant who hides books after Qin's book-burning order and later serves Chen Sheng's rebel regime as博士.
-- [陈馀 / Chen Yu](entities/ChenYu.md) — Chen Sheng adviser paired with Zhang Er in warning against premature kingship and proposing six-state restoration; also tied to Kong Fu after book burning.
+- [陈馀 / Chen Yu](entities/ChenYu.md) — Zhao restoration actor whose rupture with Zhang Er and small post-partition reward become a Qi-backed attack to restore Zhao Xie.
 - [陈胜 / Chen Sheng](entities/ChenSheng.md) — Dazexiang uprising co-leader who expands to Chen County, rejects six-state restoration counsel, and declares Zhang Chu.
 - [吴广 / Wu Guang](entities/WuGuang.md) — Dazexiang uprising co-leader later appointed acting Zhang Chu king to supervise the westward attack on Yingyang.
 - [《尚书》 / Shangshu](entities/Shangshu.md) — Classic named with Shijing as a private-text target under Qin's book-burning order.
@@ -7826,8 +7828,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Reward Allocation Backlash / 分配反噬](concepts/RewardAllocationBacklash.md) — Hanji 144 frame for how Xiang Yu's partition creates resentment among demoted old kings, excluded rivals, and under-rewarded insiders.
-- [Strategic Retreat Base-Building / 退让式根据地经营](concepts/StrategicRetreatBaseBuilding.md) — Xiao He's Hanji 144 strategy for turning Liu Bang's Hanzhong demotion into a survivable Ba-Shu base and later return option.
+- [Burning Gallery Roads / 烧栈道](concepts/BurningGalleryRoads.md) — Zhang Liang's Hanji 144 part 2 tactic where destroying the Hanzhong gallery roads protects Liu Bang and signals temporary acceptance of retreat.
+- [Reward Allocation Backlash / 分配反噬](concepts/RewardAllocationBacklash.md) — Hanji 144 frame for how Xiang Yu's partition creates resentment among demoted old kings, excluded rivals, under-rewarded insiders, and armed regional actors.
+- [Strategic Retreat Base-Building / 退让式根据地经营](concepts/StrategicRetreatBaseBuilding.md) — Xiao He's Hanji 144 strategy for turning Liu Bang's Hanzhong demotion into a survivable Ba-Shu base, protected by retreat signaling and talent absorption.
 - [Zhou-Qin Hybrid Order / 周秦混合制](concepts/ZhouQinHybridOrder.md) — Hanji 143 frame for Xiang Yu's nineteen-lord settlement as a military-merit hegemonic order built on a Zhou-like promise field, not a simple reversal of Qin centralization.
 - [Three Qin Containment / 三秦压制](concepts/ThreeQinContainment.md) — Xiang Yu's use of Zhang Han, Sima Xin, and Dong Yi as Qin-core blocking kings around Liu Bang's assigned Han base.
 - [Informer Source Protection / 告密者来源保护](concepts/InformerSourceProtection.md) — Political-intelligence discipline around protecting informants, created from Xiang Yu's exposure of Cao Wushang at Hongmen.
@@ -8214,7 +8217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Symmetric Interstate Credibility / 对称外交信用](concepts/SymmetricInterstateCredibility.md) — Diplomatic trust produced when Wei refuses both Han's anti-Zhao request and Zhao's anti-Han request on the same brother-state grounds.
 - [Renhe Political Power / 人和政治力量](concepts/RenhePoliticalPower.md) — Source synthesis that talent respect, promise-keeping, and diplomatic consistency turn human alignment into political strength.
 - [Succession-Crisis Intervention / 继承危机外部干预](concepts/SuccessionCrisisIntervention.md) — Pattern where unresolved succession invites outside powers to back claimants, seize leverage, or redesign a target state.
-- [Coalition Settlement Failure / 联军战后安排失败](concepts/CoalitionSettlementFailure.md) — Pattern where a victorious coalition cannot convert battlefield success into political settlement because members want different outcomes.
+- [Coalition Settlement Failure / 联军战后安排失败](concepts/CoalitionSettlementFailure.md) — Pattern where battlefield victory fails to become durable political order because the postwar settlement creates incompatible claims, coercive repairs, and new strategic openings.
 - [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Sima Guang personnel-judgment frame extended by motive and level tests for whether useful skill counts as worthy talent.
 - [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Yu Rang honor logic where exceptional patron recognition creates exceptional repayment obligation.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.

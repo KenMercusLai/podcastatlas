@@ -2,7 +2,7 @@
 title: "Strategic Retreat Base-Building / 退让式根据地经营"
 type: concept
 tags: [strategy, statecraft, chu-han, patience, base-building]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-22
 ---
 
@@ -14,13 +14,17 @@ The retreat is strategic because it preserves future action. Xiao He tells Liu B
 
 This concept differs from generic patience. It is not simply waiting; it turns an imposed disadvantage into a governing base, an internal morale story, and a later offensive option.
 
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] adds the retreat's operational cover. [[ZhangLiang|张良]] first uses [[XiangBo|项伯]] to improve Liu Bang's practical position, then advises [[BurningGalleryRoads|烧栈道]] after escorting him toward Hanzhong. The road burning turns retreat into a credible signal of staying put, while the arrival of disappointed followers including [[HanXin|韩信]] shows that a base can grow through personnel absorption even before open counterattack begins.
+
 ## Key Claims
 - Retreat can be strategic when it preserves the organization and creates a better future operating base.
 - A leader may need to perform anger before accepting retreat so followers do not interpret survival as surrender of ambition.
 - Base-building requires people, resources, talent recruitment, and timing, not only terrain.
 - The same geography that looks like confinement under [[ThreeQinContainment|三秦压制]] can become usable if the constrained side governs it well.
+- Strategic retreat needs cover: the adversary must believe the retreat has removed the immediate threat long enough for the base to develop.
 
 ## Connections
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[Hanzhong|汉中]], [[BaShu|巴蜀]], and [[Nanzheng|南郑]] - source case for retreat, rule, and future return.
 - [[XiangYu|项羽]], [[ThreeQinContainment|三秦压制]], and [[GuanzhongRegion|关中]] - opposing settlement and future target.
+- [[ZhangLiang|张良]], [[XiangBo|项伯]], [[BurningGalleryRoads|烧栈道]], and [[HanXin|韩信]] - relationship channel, retreat signal, and talent absorption in Hanji 144 part 2.
 - [[CharismaticPoliticalPerformance|造势型政治表演]], [[FrontierDefensivePatience|边境防御耐心]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - adjacent performance, patience, and governance frames.

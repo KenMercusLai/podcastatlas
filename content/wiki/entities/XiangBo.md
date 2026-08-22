@@ -2,7 +2,7 @@
 title: "项伯 / Xiang Bo"
 type: entity
 tags: [person, qin-han, chu-han, xiang-family]
-sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ After returning to Xiang Yu's camp, Xiang Bo argues that attacking Liu Bang woul
 
 [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] appears to preserve Xiang Bo's post-Hongmen intermediary role under the transcript form "相国." The episode says [[ZhangLiang|张良]] transfers Liu Bang's gifts to this figure, who values friendship and has treated Liu Bang as someone under his protection since Hongmen. This page treats the passage as Xiang Bo context rather than creating a separate page, and records the role source-scoped: he remains a relationship channel through which Liu Bang seeks a more favorable practical arrangement after the Hanzhong assignment.
 
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] completes the immediate payoff of that channel. Xiang Bo accepts the gift-mediated request from Zhang Liang and persuades [[XiangYu|项羽]] to let [[LiuBang|刘邦]] hold the Hanzhong-related space he needs before moving into the Han assignment. The episode again makes Xiang Bo's political effect indirect: he does not join Liu Bang, but his private trust with Zhang Liang changes what Liu Bang can practically carry into retreat.
+
 ## Key Claims
 - Xiang Bo's authority in these sources comes from kinship, age, prior service in the Xiang camp, and his old life-debt relationship with Zhang Liang.
 - His entry makes the Hongmen crisis depend on personal channels inside a formal military confrontation.
@@ -29,6 +31,7 @@ After returning to Xiang Yu's camp, Xiang Bo argues that attacking Liu Bang woul
 - Xiang Bo's intervention shows how kin authority and old friendship can reroute an already-issued military order when the commander still cares about "义" and family recognition.
 - Hanji 141 shows the same "存刘" position becoming embodied action: Xiang Bo protects Liu Bang inside the banquet, not only through prior persuasion.
 - Hanji 144 extends the same relationship channel into post-settlement bargaining, though the available transcript has a noisy "相国" form.
+- Hanji 144 part 2 records the practical payoff of that channel: Liu Bang gains more room before entering Hanzhong and then uses [[BurningGalleryRoads|烧栈道]] to protect the retreat.
 
 ## Connections
 - [[XiangYu|项羽]], [[XiangLiang|项梁]], and [[ChuState|楚国]] - family and political camp.
@@ -36,4 +39,5 @@ After returning to Xiang Yu's camp, Xiang Bo argues that attacking Liu Bang woul
 - [[FanZeng|范增]], [[AngerDrivenWarDecision|因怒兴师]], and [[MoralizedWarPretext|道德化战争借口]] - contrast between the "灭刘" threat diagnosis and Xiang Bo's "存刘" public-morality argument.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[XiangZhuang|项庄]], and [[AdvisorRoleBoundary|谋士越位]] - protective counter-dance against Fan Zeng's sword-dance workaround.
 - [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[ZhangLiang|张良]], [[Hanzhong|汉中]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - gift-mediated bargaining after Liu Bang accepts temporary retreat.
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[BurningGalleryRoads|烧栈道]] - practical Hanzhong-room request and retreat signaling.
 - [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], [[EmotionalDeescalationPersuasion|情绪降温式说服]], and [[PowerEtiquetteReading|权力礼仪细读]] - personal ties, emotional sequencing, and status channels under state-level conflict.

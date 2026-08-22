@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5067
+wiki_total_pages: 5068
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "BureaucraticWorkloadControl"
     title: "Bureaucratic Workload Control"
     url: "/wiki/concepts/bureaucraticworkloadcontrol/"
+  - key: "BurningGalleryRoads"
+    title: "Burning Gallery Roads / 烧栈道"
+    url: "/wiki/concepts/burninggalleryroads/"
   - key: "BusinessFluentDesign"
     title: "Business Fluent Design"
     url: "/wiki/concepts/businessfluentdesign/"

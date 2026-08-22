@@ -2,7 +2,7 @@
 title: "田荣 / Tian Rong"
 type: entity
 tags: [person, qi, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
+sources: [zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri]
 last_updated: 2026-08-22
 ---
 
@@ -18,9 +18,12 @@ The same source turns Tian Rong from rescued ally into coalition blocker. When X
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] records the settlement penalty for that non-cooperation. Xiang Yu does not give Tian Rong a kingship because Tian Rong repeatedly refused orders and did not join the westward campaign. Instead, the Qi field is divided among [[TianShi|田巿]], [[TianDu|田都]], and [[TianAn|田安]], making Tian Rong a major excluded actor inside [[ZhouQinHybridOrder|周秦混合制]].
 
+[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] gives the rebellion response. Tian Rong attacks [[TianDu|田都]], who flees to [[XiangYu|项羽]], then kills [[TianShi|田巿]] after Tian Shi tries to obey the new Jiaodong assignment. Tian Rong makes himself Qi king, gives [[PengYue|彭越]] a general's seal to attack [[TianAn|田安]], and later supplies troops to [[ChenYu|陈馀]] so Zhao can be reopened against [[ZhangEr|张耳]]. His excluded status therefore turns into the first large eastern revolt against Xiang Yu's order.
+
 ## Connections
 - [[TianDanQinRebel|田儋]] and [[TianHeng|田横]] - Qi kinship and restored-state network.
 - [[QiState|齐国]], [[ChuState|楚国]], and [[ZhaoState|赵国]] - polities involved in the succession and refugee dispute.
 - [[ZhangHanQin|章邯]] and [[XiangLiang|项梁]] - Qin pressure and Chu rescue at Dong'e.
 - [[TianJia|田假]], [[TianJiao|田角]], and [[TianJianQiGeneral|田间]] - rival Qi figures whose deaths Tian Rong demands.
 - [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - concept branches clarified by his refusal to join Xiang Liang.
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[PengYue|彭越]], [[ChenYu|陈馀]], and [[RewardAllocationBacklash|分配反噬]] - excluded Qi actor becomes rebellion organizer.
