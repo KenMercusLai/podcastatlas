@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5119
+wiki_total_pages: 5121
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "TricksterAmbivalence"
     title: "Trickster Ambivalence"
     url: "/wiki/concepts/tricksterambivalence/"
+  - key: "TripartiteBalanceStrategy"
+    title: "Tripartite Balance Strategy / 三分天下式制衡"
+    url: "/wiki/concepts/tripartitebalancestrategy/"
   - key: "TroupeDisciplineAsIdentityFormation"
     title: "Troupe Discipline As Identity Formation"
     url: "/wiki/concepts/troupedisciplineasidentityformation/"

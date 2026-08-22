@@ -2,7 +2,7 @@
 title: "临淄 / Linzi"
 type: entity
 tags: [city, qi-state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
+sources: [zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ The source uses Linzi for more than demographic scale. It describes a dense, pro
 
 [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] adds Linzi's abandonment after Han Xin's attack and the Lixia defeat. [[TianGuangQiKing|田广]], [[TianHeng|田横]], and the Qi leadership can no longer hold the capital, so the Tian line disperses while Qi asks [[XiangYu|项羽]] for rescue. Linzi's Chu-Han branch therefore moves from diplomatic relaxation to capital loss.
 
+[[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] makes Linzi the title-conferral and persuasion setting after Qi's collapse. [[ZhangLiang|张良]] is sent there to make [[HanXin|韩信]] real king of Qi, and [[WuShe|武涉]] later meets Han Xin there to argue for [[TripartiteBalanceStrategy|三分天下式制衡]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[ZhangLiang|张良]], [[HanXin|韩信]], [[WuShe|武涉]], and [[TripartiteBalanceStrategy|三分天下式制衡]] - Qi kingship conferral and Chu-side persuasion scene.
 - [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[HanXin|韩信]], [[TianGuangQiKing|田广]], [[TianHeng|田横]], and [[LongJuChuGeneral|龙且]] - abandonment after Lixia and the Chu rescue request.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[LiuBang|刘邦]], and [[HanXin|韩信]] - Chu-Han persuasion scene and broken relaxation of Qi's defenses.
 - [[QiState|齐国]] - polity whose capital the source describes.

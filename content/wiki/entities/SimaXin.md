@@ -2,7 +2,7 @@
 title: "司马欣 / Sima Xin"
 type: entity
 tags: [person, qin, military, rebellion]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
+sources: [zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3]
 last_updated: 2026-08-23
 ---
 
@@ -28,7 +28,10 @@ His advice reframes Zhang Han's military problem as a political survival trap. I
 
 In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], Sima Xin dies with [[CaoJiu|曹咎]] after the Chu sortie from [[Chenggao|成皋]] is struck while crossing [[SishuiChuHan|汜水]]. The episode makes his end part of the same breakdown in disciplined command: Xiang Yu's order to avoid battle fails, the crossing becomes a trap, and Han recovers Chenggao and [[Aocang|敖仓]].
 
+[[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] adds Sima Xin's posthumous political use. After recovering from the [[GuangwuChuHan|广武]] arrow wound and returning to [[LiyangQinHan|栎阳]], [[LiuBang|刘邦]] hangs Sima Xin's head in the market for four days to warn Qin people against renewed two-sided calculation. The source frames this as unusually direct symbolic punishment: Liu Bang does not often display a lord's head this way in the Chu-Han struggle.
+
 ## Connections
+- [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[LiuBang|刘邦]], [[LiyangQinHan|栎阳]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - posthumous head display as warning against renewed switching.
 - [[QinErshi|胡亥 / 秦二世]] - ruler who sends him to support the campaign.
 - [[ZhangHanQin|章邯]] and [[DongYiQin|董义]] - Qin counteroffensive figures named in the same passage.
 - [[ChenSheng|陈胜]] and [[ZhangChuRegime|张楚政权]] - rebel target of the campaign.

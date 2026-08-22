@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5119
+wiki_total_pages: 5121
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "ComputingVersusThinking"
     title: "Computing Versus Thinking"
     url: "/wiki/concepts/computingversusthinking/"
+  - key: "ConcededKingshipStabilization"
+    title: "Conceded Kingship Stabilization / 让封真王式稳局"
+    url: "/wiki/concepts/concededkingshipstabilization/"
   - key: "ConceptLedHospitality"
     title: "Concept Led Hospitality"
     url: "/wiki/concepts/conceptledhospitality/"

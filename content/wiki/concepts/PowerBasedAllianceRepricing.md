@@ -2,7 +2,7 @@
 title: "Power-Based Alliance Repricing / 实力重估式阵营转向"
 type: concept
 tags: [alliance, diplomacy, statecraft, chu-han, power]
-sources: [zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj]
+sources: [zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj]
 last_updated: 2026-08-23
 ---
 
@@ -22,6 +22,8 @@ The source gives several versions. [[SimaXin|司马欣]] and [[DongYiQin|董翳]
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] shows the punitive trust cost of repeated repricing. After Wei Bao has been defeated and spared, [[ZhouKe|周苛]] and [[CongGong|枞公]] decide he cannot be trusted inside the [[YingyangWarringStates|荥阳]] garrison. His earlier ability to switch camps now makes him unusable in a defense that depends on no-surrender commitment.
 
+[[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] adds a pivot-power version after [[WeishuiBattle|潍水之战]]. [[WuShe|武涉]] argues that [[HanXin|韩信]] should reprice the field around his own survival: if he helps [[LiuBang|刘邦]], Chu falls and Han Xin becomes the next threat; if he preserves [[XiangYu|项羽]] and holds [[QiState|齐国]], he can sustain [[TripartiteBalanceStrategy|三分天下式制衡]]. The episode records this as Chu-side persuasion, but it extends repricing from lords choosing a camp after defeat to a victorious commander deciding whether either camp should be allowed to win outright.
+
 This concept is related to [[WarringStatesAllianceSwitching|战国同盟转向]], but it is narrower. Alliance switching can come from marriage, hostages, land returns, or diplomacy; power-based repricing specifically names the rapid post-defeat recalculation that follows a visible change in military credibility.
 
 ## Key Claims
@@ -34,8 +36,10 @@ This concept is related to [[WarringStatesAllianceSwitching|战国同盟转向]]
 - Hanji 155-1 adds that status insult can help an actor justify or emotionally sustain a switch that already makes sense under changed power conditions.
 - Hanji 158 adds that contested repricing may need public commitment design; a wavering actor's private calculation changes the wider field only after the switch becomes costly to undo.
 - Hanji 162-1 adds that repeated switching can become a lethal liability once a garrison must prove that surrender channels are closed.
+- Hanji 165-1 adds that repricing can face the victor too: Han Xin's own safety may depend on whether he lets one side end the war.
 
 ## Connections
+- [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[WuShe|武涉]], [[HanXin|韩信]], [[QiState|齐国]], and [[TripartiteBalanceStrategy|三分天下式制衡]] - pivot-power argument after Long Ju's defeat.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[WeiBao|魏豹]], [[ZhouKe|周苛]], [[CongGong|枞公]], and [[XingyangStandoff|荥阳相持]] - execution of an unreliable alliance-switcher inside a crisis garrison.
 - [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - defeat, weakened coalition leader, and restored strong side.
 - [[SimaXin|司马欣]], [[DongYiQin|董翳]], [[WeiBao|魏豹]], [[ChenYu|陈馀]], and [[ZhaoXie|赵歇]] - post-Pengcheng switching cases.

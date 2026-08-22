@@ -10237,3 +10237,11 @@ Added source page for Hanji 164-2: Long Ju's rescue of Qi, the rejected defensiv
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》165-1｜刘邦这句话，差点弄丢大汉江山
+
+Added source page for Hanji 165-1: Han Xin's request to act as Qi king, Liu Bang's anger and quick pivot under Zhang Liang and Chen Ping's warning, the formal grant of real Qi kingship, Xiang Yu's dispatch of Wu She to urge a Chu-Han-Qi balance, Han Xin's gratitude-based refusal, and Kuai Che's closing entrance. Created Wu She, Conceded Kingship Stabilization, and Tripartite Balance Strategy; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; Wu She's anti-Liu Bang claims and the Zhang Ao/Zhang Yan family sequel remain source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
