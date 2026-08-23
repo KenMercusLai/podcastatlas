@@ -1,0 +1,30 @@
+---
+title: "Legitimacy Window Seizure / 合法性窗口抢占"
+type: concept
+tags: [legitimacy, statecraft, timing, late-han, three-kingdoms]
+sources: [zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo]
+last_updated: 2026-08-23
+---
+
+# Legitimacy Window Seizure / 合法性窗口抢占
+
+Legitimacy window seizure / 合法性窗口抢占 is the pattern [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] draws from [[XunYu|荀彧]] persuading [[CaoCao|曹操]] to welcome [[EmperorXianOfHan|汉献帝]]. The emperor has returned to [[LuoyangLateHan|洛阳]], the old capital is ruined, and the court is vulnerable; that weakness makes action risky, but it also creates a short window in which supporting the recognized sovereign can become public order, strategic leverage, and talent attraction.
+
+The source's three-part formula is "大顺、大略、大德." "大顺" is settling public feeling around the still-recognized Han ruler, "大略" is gaining the ability to issue commands through the emperor's name, and "大德" is making Cao Cao's camp a credible destination for capable people. The window must be seized because another strong actor could act first and make the same legitimacy harder for Cao Cao to claim later.
+
+This concept overlaps with [[MingqiLegitimacy|名器合法性]] and [[StrategicCapitalRelocation|战略性迁都]], but it is narrower than either. Mingqi legitimacy explains why titles, seals, offices, and sovereign names still matter. Strategic capital relocation explains the later move from Luoyang to [[Xudu|许都]]. Legitimacy window seizure names the earlier timing problem: when an exposed but recognized sovereign is available, delay can transfer the legitimacy advantage to a rival.
+
+The concept also contrasts with [[AntiUsurpationCoalitionPressure|讨逆同盟压力]]. In the Yuan Shu branch, legitimacy forces rivals to respond to an illegitimate claimant. In the Cao Cao branch, legitimacy rewards the actor who first protects and operationalizes the still-recognized ruler.
+
+## Key Claims
+- Weak sovereigns can still create strong strategic windows when public recognition of the title remains alive.
+- The value of acting first is partly reputational: the same move looks different when framed as rescue rather than later opportunism.
+- Legitimacy can attract talent as well as justify orders, because capable people need a credible political platform.
+- A legitimacy window is not automatically safe; the court's vulnerability is exactly what makes the opportunity time-sensitive.
+- This mechanism precedes the material mechanics of relocation, supply, and armed control developed in the follow-on episodes.
+
+## Connections
+- [[CaoCao|曹操]], [[XunYu|荀彧]], and [[EmperorXianOfHan|汉献帝]] - source actors in the welcome-the-emperor decision.
+- [[LuoyangLateHan|洛阳]], [[Xudu|许都]], and [[StrategicCapitalRelocation|战略性迁都]] - court-location mechanics that follow the initial window.
+- [[MingqiLegitimacy|名器合法性]], [[MoralizedWarPretext|道德化战争借口]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - adjacent legitimacy mechanisms in the same late-Han sequence.
+- [[XingshiqingStrategicAssessment|行势情战略评估]] - broader frame for judging timing, public feeling, actor incentives, and title force together.

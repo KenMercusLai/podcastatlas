@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 2cfb7c44513d90b7903a9d15b2983821a849dc5b
-summary: "The wiki's current map centers on how durable value emerges when capability is tied to context, evidence, institutions, distribution, and accountable human judgment."
-episode_count: 1328
-source_count: 1328
-paragraph_count: 139
+as_of_overview_commit: 35610ae9e4403f5b7fe6a013ac858cd8369dece2
+summary: "The wiki maps how durable value emerges when capability is tied to context, evidence, institutions, distribution, legitimacy, and accountable judgment."
+episode_count: 1329
+source_count: 1329
+paragraph_count: 140
 topic_count: 8
 ---
 
@@ -56,7 +56,7 @@ Governance converts force, markets, symbols, trust, and rules into institutions,
 
 ### History and Geopolitics
 
-Historical power shifts through staged condition-reading: late-Han actors manage routes, legitimacy, relocation, alliances, and fragile local order, while broader state power depends on enforceable systems and political acceptance.
+Historical power shifts through staged condition-reading: late-Han actors manage legitimacy, routes, relocation, alliances, and fragile local order, while broader state power depends on enforceable systems and political acceptance.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].

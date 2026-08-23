@@ -2,11 +2,15 @@
 title: "孙策 / Sun Ce"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources: [zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
 last_updated: 2026-08-23
 ---
 
 # 孙策 / Sun Ce
+
+[[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] supplies Sun Ce's prior break from [[YuanShu|袁术]]. When Yuan Shu prepares to claim the imperial title, Sun Ce writes that the current [[EmperorXianOfHan|汉献帝]] has not behaved like Xia Jie or Shang Zhou: the emperor is young and constrained, not an oppressor whose overthrow can be justified by classical precedent.
+
+The source treats the letter as both warning and exit document. Sun Ce invokes the Yuan family's long Han service and Dong Zhuo's failure to claim the throne, then makes clear that if Yuan Shu proceeds he will not support him. Yuan Shu's angry non-reply turns the relationship into open separation, so Yuan Shu's title overreach becomes Sun Ce's opportunity for autonomous development in Jiangdong.
 
 [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds the Kuaiji campaign before the later hunting-risk warning. Sun Ce decides not to clear Yan Baihu and other local strongmen first, judging them lower-priority than [[KuaijiCommandery|会稽郡]]. When [[WangLangLateHan|王朗]] blocks repeated crossings at Guling, Sun Ce accepts [[SunJingLateHan|孙静]]'s detour-and-rear-attack plan, uses camp fires as deception, and forces Wang Lang into flight and surrender.
 
@@ -27,7 +31,7 @@ The episode also gives Sun Ce an active local-security role. When [[ChenYuWuComm
 ## Connections
 - [[SunJingLateHan|孙静]], [[YuFan|虞翻]], [[WangLangLateHan|王朗]], and [[LeaderPersonalExposure|领导者轻身涉险]] - Hanji 1004-1005 Kuaiji takeover, surprise maneuver, and personal-risk warning.
 - [[CaoCao|曹操]] and [[EmperorXianOfHan|汉献帝]] - source of the title and legitimacy package.
-- [[YuanShu|袁术]] and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - Hanji 1015 source-scoped usurpation-response branch.
+- [[YuanShu|袁术]], [[EmperorXianOfHan|汉献帝]], [[AntiUsurpationCoalitionPressure|讨逆同盟压力]], and [[MoralizedWarPretext|道德化战争借口]] - Hanji 1002 warning/break branch and Hanji 1015 usurpation-response branch.
 - [[KuaijiCommandery|会稽郡]] - commandery governorship attached to Sun Ce in the episode.
 - [[SunJianLateHan|孙坚]] - father whose title Sun Ce inherits.
 - [[ChenYuWuCommandery|陈瑀]] - local opponent whom Sun Ce preempts.

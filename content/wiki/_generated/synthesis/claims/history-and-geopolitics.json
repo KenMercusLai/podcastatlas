@@ -122,27 +122,30 @@
       "global_candidate": false,
       "id": "late-han-legitimacy-and-marriage-alliance-exposure",
       "qualifications": [
-        "This claim is source-scoped to the Ruiqi Hanji 1015-1016 interpretation of Yuan Shu, Cao Cao, Chen Gui, Lu Bu, and the Han court.",
-        "It treats title legitimacy and sequencing as political-risk frames, not as a complete account of all military and fiscal causes behind Yuan Shu's failure."
+        "This claim is source-scoped to the Ruiqi Hanji 1002 and 1015-1016 interpretation of Yuan Shu, Sun Ce, Cao Cao, Xun Yu, Chen Gui, Lu Bu, and the Han court.",
+        "It treats title legitimacy, legitimacy-window timing, and marriage exposure as political-risk frames, not as a complete account of all military and fiscal causes behind Yuan Shu's failure."
       ],
-      "statement": "The Hanji 1015-1016 branch makes late-Han title order a strategic condition: [[YuanShu]]'s Shouchun imperial claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]] under [[EmperorXianOfHan]], while [[GuoJia]], [[XunYu]], and [[ZhongYao]] show [[CaoCao]] pairing anti-usurpation legitimacy with sequencing and [[GuanzhongRegion]] stabilization before [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]].",
+      "statement": "The Hanji 1002 and 1015-1016 branch makes late-Han title order a strategic condition: [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns [[EmperorXianOfHan]]'s recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]].",
       "status": "source-scoped",
       "supporting_wikilinks": [
+        "SunCe",
         "YuanShu",
+        "MoralizedWarPretext",
+        "XunYu",
+        "EmperorXianOfHan",
+        "LegitimacyWindowSeizure",
+        "CaoCao",
         "TitleRealityRestraint",
         "AntiUsurpationCoalitionPressure",
-        "EmperorXianOfHan",
-        "GuoJia",
-        "XunYu",
-        "ZhongYao",
-        "CaoCao",
-        "GuanzhongRegion",
         "ChenGui",
         "MarriageAllianceWarExposure",
         "LyuBu",
         "Xuzhou",
         "MingqiLegitimacy",
-        "XingshiqingStrategicAssessment"
+        "XingshiqingStrategicAssessment",
+        "GuoJia",
+        "ZhongYao",
+        "GuanzhongRegion"
       ]
     },
     {
@@ -201,6 +204,6 @@
       ]
     }
   ],
-  "summary": "The history-and-geopolitics input now links ten kinds of historical change: Hanji 1003-1004 show Cao Cao's late-Han court access and relocation as condition-reading, where Dong Zhao first clears Yang Feng through adviser initiative and then turns ruined Luoyang into a Xu relocation plan while Sun Jing supplies maneuver in Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
+  "summary": "The history-and-geopolitics input now links eleven kinds of historical change: Hanji 1002 shows late-Han legitimacy as both a trap for Yuan Shu and a window for Cao Cao; Hanji 1003-1004 show Cao Cao's court access and relocation as condition-reading, with Dong Zhao clearing Yang Feng before ruined Luoyang becomes a Xu relocation plan and Sun Jing supplying maneuver in Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence; Hanji 1015-1016 show title order and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
   "topic_id": "history-and-geopolitics"
 }

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e1ca143c8028d1d9242fe111015583e9707bdfb6650810af92e0a3a6364b7b45",
       "03bcd52c81384ad5923c792ea257b87584f327c0cbec8f48c94af1f3965a1cf3",
       "f082b46864d0cc242392f4c7e61425d9e6be4aa5cd2414342adf527f7fbecfc8",
       "c71ab78463ab574c96b8e6e95d7497970368ca05d307062d2b4e8402bec11469",
@@ -141,11 +142,36 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 139
+    "paragraph_count": 140
   },
-  "overview_commit": "2cfb7c44513d90b7903a9d15b2983821a849dc5b",
-  "overview_digest": "4cacc13506cfb0d02a3c711f28cf177b22698d4373821c5994610ccac279317b",
+  "overview_commit": "35610ae9e4403f5b7fe6a013ac858cd8369dece2",
+  "overview_digest": "b5c62608fac39d308aae014fe3b325d8956e054d0c7217eeeae41010bcad585b",
   "paragraphs": [
+    {
+      "id": "e1ca143c8028d1d9242fe111015583e9707bdfb6650810af92e0a3a6364b7b45",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the immediate prelude to [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] and the later [[YuanShu|袁术]] self-coronation branch. [[SunCe|孙策]] warns Yuan Shu that the current [[EmperorXianOfHan|汉献帝]] is not a Jie-or-Zhou-style tyrant and then breaks with Yuan Shu when the warning fails, while [[XunYu|荀彧]] tells [[CaoCao|曹操]] that welcoming the emperor can secure public feeling, strategic command, and talent before another actor seizes the same opportunity. The source adds [[LegitimacyWindowSeizure|合法性窗口抢占]] while extending [[AntiUsurpationCoalitionPressure|讨逆同盟压力]], [[MoralizedWarPretext|道德化战争借口]], [[MingqiLegitimacy|名器合法性]], and [[XingshiqingStrategicAssessment|行势情战略评估]]; no settled contradiction is recorded, and the title's \"最大赢\" wording is preserved as source-given.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AntiUsurpationCoalitionPressure",
+        "CaoCao",
+        "EmperorXianOfHan",
+        "LegitimacyWindowSeizure",
+        "MingqiLegitimacy",
+        "MoralizedWarPretext",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunCe",
+        "XingshiqingStrategicAssessment",
+        "XunYu",
+        "YuanShu",
+        "zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo",
+        "zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1"
+      ]
+    },
     {
       "id": "03bcd52c81384ad5923c792ea257b87584f327c0cbec8f48c94af1f3965a1cf3",
       "primary_topic": "history-and-geopolitics",

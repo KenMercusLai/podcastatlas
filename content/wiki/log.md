@@ -1367,7 +1367,6 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍
 
 Added source page for Qinji 105: Qin famine-year pressure on Han, Meng Ao's twelve-city campaign, Li Mu's appointment after Lian Po, Li Mu's Yan campaign, northern-frontier command against Xiongnu, long defensive patience, baited encirclement, and the source-scoped contrast with Han Wudi's later resource-rich Xiongnu campaigns. Created Li Mu, Xiongnu, Wang Jian (Qin), Frontier Defensive Patience, Nomadic Cavalry Raiding Asymmetry, and Warring States Northern Great Walls; updated Zhao, Qin, Han, Yan, Meng Ao, Zhao Daoxiang Wang, Qin Eastward Pressure, Lure Enemy Out of Position, Warring States Military Transformation, Sunzi Bingfa, and Han Wudi. No direct contradiction found; troop counts, decade-long deterrence, and the Great Wall summary are kept source-scoped.
@@ -10673,6 +10672,14 @@ Added source page for Hanji 1004: Dong Zhao's advice to move Emperor Xian from r
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢
+
+Added source page for Hanji 1002: Yuan Shu's impending imperial claim, Sun Ce's warning-and-break, and Xun Yu's advice that Cao Cao should welcome Emperor Xian before another actor captures the legitimacy window. Created Legitimacy Window Seizure; updated overview, index, Sun Ce, Yuan Shu, Cao Cao, Emperor Xian of Han, Xun Yu, Anti-Usurpation Coalition Pressure, Mingqi Legitimacy, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; preserved the source title's "最大赢" wording as given.
 
 ## [2026-08-23] lint | Wiki health check
 

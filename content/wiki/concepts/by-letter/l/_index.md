@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5180
+wiki_total_pages: 5181
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "LegitimacyIndictmentWarfare"
     title: "Legitimacy Indictment Warfare / 正当性控诉战"
     url: "/wiki/concepts/legitimacyindictmentwarfare/"
+  - key: "LegitimacyWindowSeizure"
+    title: "Legitimacy Window Seizure / 合法性窗口抢占"
+    url: "/wiki/concepts/legitimacywindowseizure/"
   - key: "LeisureSailing"
     title: "Leisure Sailing / 休闲帆船"
     url: "/wiki/concepts/leisuresailing/"

@@ -2,7 +2,7 @@
 title: "Moralized War Pretext / 道德化战争借口"
 type: concept
 tags: [diplomacy, war, legitimacy, propaganda, warring-states]
-sources: [zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]
+sources: [zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]
 last_updated: 2026-08-22
 ---
 
@@ -28,6 +28,8 @@ This sits between [[CommonEnemyAlliance|共同敌人联盟]] and [[MoralReputati
 
 [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] adds the late-Han anti-usurpation version through [[YuanShu|袁术]]. Yuan Shu's self-coronation gives [[CaoCao|曹操]] and others a cleaner public reason to attack than ordinary rivalry, because the action can be named as punishing a rebel against [[EmperorXianOfHan|汉献帝]]. The source's narrower mechanism is captured as [[AntiUsurpationCoalitionPressure|讨逆同盟压力]].
 
+[[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] supplies the warning version before the self-coronation. [[SunCe|孙策]] tells Yuan Shu that a legitimate replacement story requires the old ruler's visible failure; because Emperor Xian has not harmed the people, Yuan Shu's claim would manufacture a public reason for others to attack him rather than secure wider obedience.
+
 ## Key Claims
 - A war can have both material incentives and moral language; the concept tracks the conversion between them.
 - Publicizing a ruler's cruelty can help coordinate states that already have territorial or security reasons to attack.
@@ -41,6 +43,7 @@ This sits between [[CommonEnemyAlliance|共同敌人联盟]] and [[MoralReputati
 - Hanji 141 adds that covert banquet assassination does not solve a missing pretext; it can make the attacker's side look less legitimate while also exposing adviser-command fractures.
 - Hanji 151 part 1 adds that mourning can be an organizing technology: a funeral rite for a murdered symbolic ruler turns private grief and real outrage into coalition permission.
 - Hanji 1015 adds that open usurpation can make a punitive pretext available by forcing rivals to answer whether they recognize the claimant.
+- Hanji 1002 adds that a prospective claimant can be warned in advance that the title move itself will create the enemy's best moralized pretext.
 
 ## Connections
 - [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[TengState|滕国]], and [[QiMinWang|齐湣王]] - source case.
@@ -52,4 +55,4 @@ This sits between [[CommonEnemyAlliance|共同敌人联盟]] and [[MoralReputati
 - [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[FanZeng|范增]], [[XiangBo|项伯]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[HanguPass|函谷关]], and [[MoralFaceUnderPowerCompetition|权力竞争中的要脸]] - absent pretext before the planned Hongmen attack and Xiang Bo's stronger counter-pretext.
 - [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[XiangZhuang|项庄]], [[AdvisorRoleBoundary|谋士越位]], and [[PowerEtiquetteReading|权力礼仪细读]] - sword-dance assassination as failed substitute for legitimate public sequence.
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[DongGongXincheng|董公]], [[MiXin|芈心 / 楚怀王]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PengchengBattle|彭城之战]] - Yi Emperor mourning as the public name for anti-Xiang war.
-- [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]], [[YuanShu|袁术]], [[CaoCao|曹操]], [[EmperorXianOfHan|汉献帝]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - late-Han anti-usurpation branch.
+- [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]], [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]], [[YuanShu|袁术]], [[SunCe|孙策]], [[CaoCao|曹操]], [[EmperorXianOfHan|汉献帝]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - late-Han anti-usurpation branch.

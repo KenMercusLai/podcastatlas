@@ -2,13 +2,17 @@
 title: "袁术 / Yuan Shu"
 type: entity
 tags: [person, late-han, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+sources: [zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
 last_updated: 2026-08-23
 ---
 
 # 袁术 / Yuan Shu
 
 袁术 / Yuan Shu is developed across the Hanji 1008 and Hanji 1015-1020 late-Han branch as the powerholder whose resources, titles, and alliances repeatedly become liabilities. [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] supplies an earlier coalition-management failure: Yuan Shu tries to reduce [[LyuBu|吕布]]'s risk through a marriage proposal, then sends [[JiLing|纪灵]] against [[LiuBei|刘备]], but Lü Bu sees the encirclement danger and stops the campaign through辕门射戟.
+
+[[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] supplies the warning stage before the formal self-coronation account. Yuan Shu is already considering the imperial title, and [[SunCe|孙策]] writes to argue that the current [[EmperorXianOfHan|汉献帝]] has not lost the moral standing that would justify replacement. The source makes Yuan Shu's ambition a title-reality failure before it becomes a military coalition problem.
+
+That warning also shows Yuan Shu losing usable support before the larger anti-usurpation response. Sun Ce tells him that flatterers and prophecy-readers will not bear the consequences, Yuan Shu replies only with anger and illness, and the relationship breaks. In this source, unsupported imperial ambition first destroys an ally relationship, then later becomes the open [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] developed in Hanji 1015.
 
 [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] supplies the self-coronation scene: Yuan Shu declares himself emperor at [[Shouchun|寿春]], names the regime "仲家", changes the [[JiujiangCommandery|九江郡]] office into a [[HuainanRegion|淮南]] capital-style post, and performs imperial ritual before he has enough recognition to make the title secure.
 
@@ -29,6 +33,7 @@ The source summarizes his failure in three connected ways: he does not align wit
 ## Connections
 - [[HeKui|何夔]] - person whose judgment supplies the episode's critique.
 - [[CaoCao|曹操]] - rival powerholder who asks about Yuan Shu and draws a talent lesson from the answer.
+- [[SunCe|孙策]] - former dependent/regional actor whose Hanji 1002 warning becomes a clean break.
 - [[YangBiao|杨彪]] and [[YangXiu|杨修]] - marriage-linked old-Han elite branch that becomes politically exposed.
 - [[JiLing|纪灵]], [[LiuBei|刘备]], [[LyuBu|吕布]], and [[CredibleForceDisplayDeterrence|可信武力展示威慑]] - Hanji 1008 failed attack and mediation branch.
 - [[ChenGui|陈珪]], [[ChenDeng|陈登]], [[JinShang|金尚]], [[HanYinLateHan|韩胤]], and [[LyuBu|吕布]] - Hanji 1016 pressure, title, and marriage-alliance branch.
