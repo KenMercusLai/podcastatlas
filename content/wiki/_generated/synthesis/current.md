@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: 4e3caaa18831658d68148ee2bbd1c08fab68b7aa
-summary: "Podcast Atlas tracks how ideas harden into systems: workflows, markets, institutions, evidence, trust, and judgment shape whether claims become durable."
-episode_count: 1332
-source_count: 1332
-paragraph_count: 143
+as_of_overview_commit: f7d5cc4e3e9a90659fb777d6f713434495501edf
+summary: "Podcast Atlas tracks how ideas become durable systems: workflows, markets, institutions, evidence, trust, local control, and judgment shape whether claims survive real-world use."
+episode_count: 1333
+source_count: 1333
+paragraph_count: 144
 topic_count: 8
 ---
 
@@ -19,9 +19,9 @@ topic_count: 8
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation.
 - Greater AI autonomy increases the importance of [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], and [[AgentPermissionBoundaries]] rather than removing human responsibility.
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.
+- [[ForeignRestaurantBrandLocalControl]] shows that recognized consumer brands may still need local decision rights, while [[DemandSupplyChainControlFrame]] asks whether upstream control such as [[FragranceSupplyChainMoat]] sits elsewhere.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
-- [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved.
 
@@ -29,54 +29,54 @@ topic_count: 8
 
 ### AI and Technology
 
-The AI and technology corpus treats capability as only the start. Durable value appears when models are embedded in workflows, interfaces, verification loops, economic models, world-grounded feedback, and human permission boundaries. EP276 adds a cultural angle: AI can also mark era change and anxiety inside platform-mediated life.
+The AI and technology corpus treats capability as only the start. Durable value appears when models are embedded in workflows, interfaces, verification loops, product economics, world-grounded feedback, and human permission boundaries, while EP276 adds AI as an era-change and anxiety marker inside platform-mediated life.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - Greater AI autonomy increases the importance of [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], and [[AgentPermissionBoundaries]] rather than removing human responsibility. Evidence: [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], [[AgentPermissionBoundaries]], [[DeterministicAuditData]], [[AIInvestmentResearch]], [[HumanRiskOverride]].
 
 ### Business and Markets
 
-Business and market sources repeatedly test ideas against demand, distribution, payment proof, operating capacity, trust, and risk discipline. Narrative attention can open doors, but durable value still depends on execution and credible customer or investor feedback.
+Business and market sources test ideas against customer pull, payment proof, distribution, operating capacity, trust, supply-chain leverage, and risk discipline. Episode 145 adds that consumer brand recognition can persist while local decision rights shift, but demand-side localization still has to be tested against upstream control.
 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]].
-- A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the trust survives only when operating pace and delivery remain credible. Evidence: [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], [[SustainableGrowthPace]].
+- [[ForeignRestaurantBrandLocalControl]] shows that recognized consumer brands may still need local decision rights, while [[DemandSupplyChainControlFrame]] asks whether upstream control such as [[FragranceSupplyChainMoat]] sits elsewhere. Evidence: [[ForeignRestaurantBrandLocalControl]], [[DemandSupplyChainControlFrame]], [[FragranceSupplyChainMoat]].
 
 ### Culture and Media
 
-Culture and media sources use literature, film, games, folklore, sports, and creator economies as laboratories for human behavior. The strongest cultural claims connect expressive form to institutions, platforms, audience practice, and lived memory.
+Culture and media sources use literature, folklore, games, and media forms to examine politics, identity, evidence, and agency rather than treating works only as plots or entertainment objects.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
 ### Governance and Institutions
 
-Governance sources show that power becomes durable through enforceable rules, fiscal systems, succession arrangements, market design, accountability, and symbolic legitimacy. Trust and mission can stabilize institutions, but they also become liabilities when controls fail.
+Governance appears as translation work: military victory, legal doctrine, title claims, markets, public symbols, and private trust become durable only when procedures, controls, legitimacy, and exits hold together.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-Historical and geopolitical sources emphasize systems over isolated events: Warring States reforms, late-Han legitimacy contests, Cold War technology shifts, and platform ecosystems all show that order depends on incentives, capacity, alliances, and succession paths.
+History and geopolitics link late-Han legitimacy, early Chinese state-building, and technology-leadership shifts through the same systems lens: order changes when capacity, incentives, alliances, standards, platforms, and supply chains move together.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
 
 ### Psychology and Personal Development
 
-Psychology and personal-development sources center calibrated judgment: trust depends on perceived authorship and boundaries, while growth, risk-taking, desire, status, and emotional regulation require appropriately sized exposure rather than slogans.
+Psychology and personal-development sources emphasize calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, role fit, and status sensitivity matter because confidence, convenience, desire, and ambition can hide fragile assumptions.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, and climate sources separate plausible claims from implemented outcomes. Evidence, expert judgment, regulatory fit, physical constraints, adoption incentives, and measurement determine whether discoveries or interventions scale.
+Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation remain visible instead of being replaced by technological promise.
 
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-Work, education, and society sources argue that abstract capability becomes real through staged practice, evidence, local operations, care structures, institutional trust, and boundaries. AI changes production, but it does not remove human judgment.
+Work, education, and social practice cluster around implementation, boundaries, and responsibility: AI and non-AI opportunities become real through staged evidence, operations, trust, local context, and human judgment.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved. Evidence: [[ProductLedWillingnessToPay]], [[OpenSourceWedge]], [[SalesAsLearnableSkill]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AdvancedMarketCommitment]], [[BankDueDiligence]], [[AetherAI]], [[ThreatLocker]], [[JimSimons]], [[BuildingPublic]].

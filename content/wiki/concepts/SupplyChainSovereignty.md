@@ -3,7 +3,7 @@ title: "Supply Chain Sovereignty"
 type: concept
 tags: [supply-chain, geopolitics, trade, energy, semiconductors, manufacturing]
 sources: [all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310, all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, why-are-we-so-obsessed-with-manufacturing, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-21
+last_updated: 2026-08-24
 ---
 
 # Supply Chain Sovereignty
@@ -38,6 +38,8 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 
 [[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds the gray-routing and career-exposure version. The source says tariff conflict can push goods through Southeast Asia, Canada, Mexico, and other intermediate channels while individuals working for exposed foreign firms should think about transferable industries and employers in countries whose China trade may deepen.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds a consumer-goods version through [[FragranceSupplyChainMoat]]. The episode argues that "chokepoint" logic is not limited to hard technology: Chinese fragrance brands can become visible at the consumer end while upstream scent molecules, formulas, perfumer talent, patents, and supplier relationships remain concentrated in foreign fragrance giants.
+
 ## Key Claims
 - Supply-chain resilience is used to justify domestic production, ally-shoring, energy expansion, tariffs, and trade reciprocity.
 - The concept links economic policy to security policy: a trade deficit becomes a sign of outsourced manufacturing and defense-industrial weakness.
@@ -55,6 +57,7 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 - Vol.128 adds that supply-chain adaptation can be informal and individual: middlemen reroute goods, while workers exposed to trade conflict hedge career location and employer risk.
 - The Lutnick source adds that tiny but concentrated inputs such as magnets can become production chokepoints, making sovereignty a parts-list and supplier-power problem as much as a finished-goods problem.
 - The Dreyfus source adds that sovereignty is also a time-to-build problem: mines, processing, grid upgrades, and craft-labor pipelines may take a decade or more to rebuild.
+- Episode 145 adds that consumer categories can have hidden upstream control points even when the storefront brand looks local.
 
 ## Connections
 - [[RahmEmanuel|Rahm Emanuel]], [[AlliedEconomicBlocAgainstChina]], [[Taiwan]], [[Japan]], [[EuropeanUnion|European Union]], and [[ResearchInstitutionsAsStrategicCapacity]] - allied economic-statecraft branch added by All-In.
@@ -73,3 +76,4 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 - [[DeglobalizationTradeIntermediation]], [[TariffExemptionPressureValve]], [[TariffPolicyPlanningRisk]], [[Canada]], and [[Mexico]] - gray-routing and career-exposure branch added by Qizhulou vol.128.
 - [[TradeDeficitOwnershipFrame]], [[Section232TariffAuthority]], [[CHIPSAct|CHIPS Act]], [[TaxpayerReturnIndustrialPolicy]], and [[NvidiaH20|Nvidia H20]] - Commerce-led industrial and export-control branch added by All-In.
 - [[DanDreyfus|Dan Dreyfus]], [[CapitalIntensiveAICycle]], [[CriticalMineralOfftakeIndustrialPolicy]], [[CopperSupplyBottleneck]], and [[ElectricGridModernizationBottleneck]] - critical-minerals crisis branch added by All-In.
+- [[FragranceSupplyChainMoat]], [[DemandSupplyChainControlFrame]], [[ChineseFragrance]], and [[Guanxia]] - consumer-fragrance supply-chain branch added by FengTouQuan episode 145.

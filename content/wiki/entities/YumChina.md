@@ -2,8 +2,8 @@
 title: "Yum China / 百胜中国"
 type: entity
 tags: [company, restaurants, china, foodservice]
-sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]
-last_updated: 2026-08-16
+sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Yum China / 百胜中国
@@ -13,6 +13,8 @@ last_updated: 2026-08-16
 [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds Yum China / 百胜中国 as a chain-restaurant operating case. The source says second-quarter KFC same-store transaction volume grew while average ticket fell, and frames coffee, light meals, and Pizza Hut burgers as lower-ticket incremental orders rather than a pure premiumization story.
 
 The episode's useful contribution is [[StoreWithinStoreFoodservice|store-within-store foodservice]]. Yum China is presented as testing new categories inside existing restaurant kitchens, employees, and traffic flows, so the experiment can use [[ChainRestaurantStandardization]] and shared operations instead of bearing the full cost of a standalone new chain.
+
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds Yum China to [[ForeignRestaurantBrandLocalControl]]. The source says Yum China bought [[PizzaHutChina]] brand ownership from [[YumBrands]] for 1.2 billion USD, while the rest of global Pizza Hut was sold separately for 1.5 billion USD. The hosts read this as evidence that Yum China's long-localized operation made the China region unusually valuable inside the brand.
 
 ## Source Position
 - KFC's higher transaction count but lower average order value points to value pressure and smaller-order growth.
@@ -28,3 +30,4 @@ The episode's useful contribution is [[StoreWithinStoreFoodservice|store-within-
 - [[ChainRestaurantStandardization]] - repeatable store process needed for category modules.
 - [[RestaurantSupplyChainLocalization]] - upstream ingredient, kitchen, and preparation fit.
 - [[RestaurantOperatingSystem]], [[RetailIncrementality]], and [[ProductLedWillingnessToPay]] - adjacent restaurant and demand concepts.
+- [[YumBrands]] and [[ForeignRestaurantBrandLocalControl]] - episode 145's brand-rights ownership branch.

@@ -2,8 +2,8 @@
 title: "Pizza Hut China / 必胜客中国"
 type: entity
 tags: [brand, restaurants, china, foodservice]
-sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]
-last_updated: 2026-08-16
+sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Pizza Hut China / 必胜客中国
@@ -12,8 +12,11 @@ Pizza Hut China / 必胜客中国 appears in [[bali-shui-he-shengpeilu-hai-neng-
 
 The episode treats the move as store-economics improvement rather than only legal housekeeping. If roughly 3% of sales previously went to brand fees, recapturing that expense can improve margin and make new-store economics more attractive for franchisees.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds the valuation comparison. It says Yum China bought Pizza Hut China brand ownership from [[YumBrands]] for 1.2 billion USD, while Pizza Hut outside China sold for 1.5 billion USD. The source uses that comparison to argue that the China region's local operation and scale gave it unusually high weight in the global brand.
+
 ## Connections
 - [[YumChina]] - mainland China operator and buyer in the source.
 - [[FranchiseLedConsumerChainExpansion]] - expansion logic affected by brand fees and unit economics.
 - [[StoreWithinStoreFoodservice]] - adjacent Yum China operating concept from an earlier source.
 - [[RestaurantOperatingSystem]] and [[ChainRestaurantStandardization]] - restaurant operations context.
+- [[YumBrands]] and [[ForeignRestaurantBrandLocalControl]] - broader ownership-control context added by FengTouQuan episode 145.

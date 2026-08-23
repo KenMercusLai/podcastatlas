@@ -2,13 +2,15 @@
 title: "Haagen-Dazs"
 type: entity
 tags: [company, ice-cream, retail, cpg]
-sources: [132-xuegao-jianghu-fengtouquan-1-132-1]
-last_updated: 2026-07-08
+sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Haagen-Dazs
 
 Haagen-Dazs appears in [[132-xuegao-jianghu-fengtouquan-1-132-1]] as the premium incumbent ice-cream comparison case. The episode says the brand is owned by [[GeneralMills]] and argues that its China store model has weakened as high per-scoop pricing and large store formats fit the current consumption environment less well.
+
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds the 2026 store-business sale to [[Ningji]]. The source says the deal covers China stores, while packaged ice-cream channels such as supermarkets, hotels, and airport lounges remain with [[GeneralMills]]. It also adds a historical explanation: Haagen-Dazs stores originally helped Chinese consumers accept premium ice cream by making the product a high-end mall experience, but later product, store, price, and freshness innovation slowed.
 
 ## Source Position
 - The hosts say Haagen-Dazs China stores fell from more than 500 in 2019 to a little over 200.
@@ -21,3 +23,4 @@ Haagen-Dazs appears in [[132-xuegao-jianghu-fengtouquan-1-132-1]] as the premium
 - [[YerenXiansheng]], [[DairyQueen]], and [[ZhongXuegao]] - comparison cases.
 - [[FreshMadeIceCreamRetail]] - category shift that challenges factory-made or scoop-shop premium models.
 - [[RetailSiteSelection]] and [[ExperientialRetail]] - store-model questions raised by the source.
+- [[Ningji]], [[ForeignRestaurantBrandLocalControl]], [[RestaurantExperienceDesign]], and [[AssetLightVsHeavyAssetModels]] - store-turnaround branch added by episode 145.

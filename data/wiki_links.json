@@ -403,6 +403,10 @@
     "title": "144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”",
     "url": "/wiki/sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt/"
   },
+  "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1": {
+    "title": "145. 改嫁中资的餐饮洋品牌",
+    "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+  },
   "145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647": {
     "title": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？",
     "url": "/wiki/sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647/"
@@ -7059,6 +7063,10 @@
     "title": "CES",
     "url": "/wiki/entities/ces/"
   },
+  "CFBGroup": {
+    "title": "CFB Group / CFB 集团",
+    "url": "/wiki/entities/cfbgroup/"
+  },
   "CHIPSAct": {
     "title": "CHIPS Act",
     "url": "/wiki/entities/chipsact/"
@@ -7066,6 +7074,10 @@
   "CIA": {
     "title": "CIA / Central Intelligence Agency / 中情局",
     "url": "/wiki/entities/cia/"
+  },
+  "CITICCapital": {
+    "title": "CITIC Capital / 中信资本",
+    "url": "/wiki/entities/citiccapital/"
   },
   "CITICPress": {
     "title": "中信出版社 / CITIC Press",
@@ -7674,6 +7686,10 @@
   "CarlyUrban": {
     "title": "Carly Urban",
     "url": "/wiki/entities/carlyurban/"
+  },
+  "CarlyleGroup": {
+    "title": "Carlyle Group / 凯雷资本",
+    "url": "/wiki/entities/carlylegroup/"
   },
   "CarmichaelsBookstore": {
     "title": "Carmichael's Bookstore",
@@ -12047,6 +12063,10 @@
     "title": "Demand-Side Oil Market Power",
     "url": "/wiki/concepts/demandsideoilmarketpower/"
   },
+  "DemandSupplyChainControlFrame": {
+    "title": "Demand-Supply Chain Control Frame / 需求-供应链控制框架",
+    "url": "/wiki/concepts/demandsupplychaincontrolframe/"
+  },
   "DemianNovel": {
     "title": "《德米安》 / Demian",
     "url": "/wiki/entities/demiannovel/"
@@ -15031,6 +15051,10 @@
     "title": "《放学后的小巷》",
     "url": "/wiki/entities/fangxuehoudexiaoxiang/"
   },
+  "FangyuanCapital": {
+    "title": "Fangyuan Capital / 方圆资本",
+    "url": "/wiki/entities/fangyuancapital/"
+  },
   "FannieMae": {
     "title": "Fannie Mae",
     "url": "/wiki/entities/fanniemae/"
@@ -16103,6 +16127,10 @@
     "title": "Foreign-Relative Court Politics / 楚系外戚政治",
     "url": "/wiki/concepts/foreignrelativecourtpolitics/"
   },
+  "ForeignRestaurantBrandLocalControl": {
+    "title": "Foreign Restaurant Brand Local Control / 外资餐饮品牌本土控制权",
+    "url": "/wiki/concepts/foreignrestaurantbrandlocalcontrol/"
+  },
   "ForensicDeathTimeInference": {
     "title": "Forensic Death-Time Inference",
     "url": "/wiki/concepts/forensicdeathtimeinference/"
@@ -16454,6 +16482,10 @@
   "FragranceProductStorytelling": {
     "title": "Fragrance Product Storytelling / 香气产品叙事",
     "url": "/wiki/concepts/fragranceproductstorytelling/"
+  },
+  "FragranceSupplyChainMoat": {
+    "title": "Fragrance Supply-Chain Moat / 香味供应链壁垒",
+    "url": "/wiki/concepts/fragrancesupplychainmoat/"
   },
   "FrameworkLedSaaS": {
     "title": "Framework-Led SaaS",
@@ -28051,6 +28083,10 @@
     "title": "Meditative Stability Practice / 定力修行框架",
     "url": "/wiki/concepts/meditativestabilitypractice/"
   },
+  "MeetFresh": {
+    "title": "Meet Fresh / 鲜芋仙",
+    "url": "/wiki/entities/meetfresh/"
+  },
   "MegaCapConcentrationRisk": {
     "title": "Mega-Cap Concentration Risk",
     "url": "/wiki/concepts/megacapconcentrationrisk/"
@@ -30598,6 +30634,10 @@
   "NingenDock": {
     "title": "Ningen Dock / 人间 Dock",
     "url": "/wiki/concepts/ningendock/"
+  },
+  "Ningji": {
+    "title": "Ningji / 宁记",
+    "url": "/wiki/entities/ningji/"
   },
   "Nintendo": {
     "title": "Nintendo",
@@ -40843,6 +40883,10 @@
     "title": "Suburban Delivery Strategy",
     "url": "/wiki/concepts/suburbandeliverystrategy/"
   },
+  "SubwayChina": {
+    "title": "Subway China / 赛百味中国",
+    "url": "/wiki/entities/subwaychina/"
+  },
   "SuccessAcademies": {
     "title": "Success Academies",
     "url": "/wiki/entities/successacademies/"
@@ -47950,6 +47994,10 @@
   "YukioMishima": {
     "title": "三岛由纪夫 / Yukio Mishima",
     "url": "/wiki/entities/yukiomishima/"
+  },
+  "YumBrands": {
+    "title": "Yum Brands / 百胜美国",
+    "url": "/wiki/entities/yumbrands/"
   },
   "YumChina": {
     "title": "Yum China / 百胜中国",

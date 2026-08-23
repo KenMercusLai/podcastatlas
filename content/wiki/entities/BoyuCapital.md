@@ -2,8 +2,8 @@
 title: "Boyu Capital / 博裕资本"
 type: entity
 tags: [investment, private-equity, coffee, china]
-sources: [141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
-last_updated: 2026-07-09
+sources: [141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Boyu Capital / 博裕资本
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 Boyu Capital is the investment institution tied to [[Starbucks]] China's control shift in [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]]. The episode frames [[BoyuCapital]] as a central example of [[CoffeeChainInstitutionalization]]: large local or Asian investors can own or control coffee-chain assets once the category is mature enough and professional operators are available.
 
 The hosts also give Boyu a fundraising and institutional-brand interpretation. They argue that controlling a recognizable asset such as Starbucks China can matter to global LPs even if the investment's absolute return is not dramatic, because it demonstrates access to scarce consumer assets and operational relevance in China.
+
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] updates that coffee-chain branch by treating the China structure as settled in the source: [[Starbucks]] headquarters keeps 40% and Boyu holds 60%. The episode then links Boyu's control to early localization changes in music, store-level choice, and Chinese cultural theme stores, making the investment a case of [[ForeignRestaurantBrandLocalControl]] rather than only [[CoffeeChainInstitutionalization]].
 
 ## Source Position
 - The episode says [[Starbucks]] headquarters would retain a minority stake while Boyu controls the China operation.
@@ -21,3 +23,4 @@ The hosts also give Boyu a fundraising and institutional-brand interpretation. T
 - [[Starbucks]] - central brand in the Boyu discussion.
 - [[CoffeeChainInstitutionalization]] and [[CoffeeChainLocalization]] - concepts added by the source.
 - [[ConsumerBrandMoat]] and [[PremiumEverydayBrandTension]] - why a brand like Starbucks remains valuable but difficult to reposition.
+- [[ForeignRestaurantBrandLocalControl]] and [[RestaurantExperienceDesign]] - episode 145's broader restaurant-localization branch.

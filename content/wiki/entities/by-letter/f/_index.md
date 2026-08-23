@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6846
+wiki_total_pages: 6854
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "FanMin"
     title: "Fan Min"
     url: "/wiki/entities/fanmin/"
+  - key: "FangyuanCapital"
+    title: "Fangyuan Capital / 方圆资本"
+    url: "/wiki/entities/fangyuancapital/"
   - key: "FannieMae"
     title: "Fannie Mae"
     url: "/wiki/entities/fanniemae/"

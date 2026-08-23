@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a15fdb4c16b463947613913bfcdd29020461bdb0d54a5fc060b937415b8e85f3",
       "c65ef3dbf832d317675a2b433e038fc3ffd774f9c65a72160dafa4d46fbaa22b",
       "5a812adda2354fa116abbd4ceeb289347859d235ee63a80cd2cbbb9fb68ab97f",
       "3f1d2cb89b2462a4b2548a48ae235c7a207e6374aa52b275f70538dfb76e1ad1",
@@ -145,11 +146,59 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 143
+    "paragraph_count": 144
   },
-  "overview_commit": "4e3caaa18831658d68148ee2bbd1c08fab68b7aa",
-  "overview_digest": "859191d84271dc4b1324e1b70cd2db2391ccd408d3dc970b71e7f5dc8e5c14d8",
+  "overview_commit": "f7d5cc4e3e9a90659fb777d6f713434495501edf",
+  "overview_digest": "04a823186291acb5489dc82b9c33b3f599d648d9632cddd38bcdf14f48322564",
   "paragraphs": [
+    {
+      "id": "a15fdb4c16b463947613913bfcdd29020461bdb0d54a5fc060b937415b8e85f3",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]], a [[FengTouQuan]] episode on foreign restaurant brands shifting China control toward local capital and operators. It adds [[SubwayChina]], [[CITICCapital]], [[CarlyleGroup]], [[MeetFresh]], [[CFBGroup]], [[FangyuanCapital]], [[Ningji]], [[YumBrands]], [[ForeignRestaurantBrandLocalControl]], [[DemandSupplyChainControlFrame]], and [[FragranceSupplyChainMoat]], while extending [[McDonalds]], [[BurgerKing]], [[Starbucks]], [[BoyuCapital]], [[CPEYuanfeng]], [[YumChina]], [[PizzaHutChina]], [[HaagenDazs]], [[GeneralMills]], [[YerenXiansheng]], [[DairyQueen]], [[GlobalProductLocalization]], [[LocalPartnerMarketEntry]], [[FranchiseLedConsumerChainExpansion]], [[FreshMadeIceCreamRetail]], [[RestaurantExperienceDesign]], [[ExperientialRetail]], [[ConsumerBrandMoat]], [[SupplyChainSovereignty]], [[ChineseFragrance]], [[FragranceProductStorytelling]], and [[EmotionEconomy]]. Its core synthesis is that restaurant localization can require control-rights transfer, not only menu tweaks: food demand is highly local and operationally fast-moving, but the source's broader frame warns that local consumer heat must still be tested against upstream supply-chain control, as shown by the fragrance industry. No direct contradiction is recorded; Pizza Hut timing is kept as announcement-versus-completion variation, and the Hong Kong savings-insurance segment remains source-scoped commercial content.",
+      "topic_scores": {
+        "business-and-markets": 5,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+        "BoyuCapital",
+        "BurgerKing",
+        "CFBGroup",
+        "CITICCapital",
+        "CPEYuanfeng",
+        "CarlyleGroup",
+        "ChineseFragrance",
+        "ConsumerBrandMoat",
+        "DairyQueen",
+        "DemandSupplyChainControlFrame",
+        "EmotionEconomy",
+        "ExperientialRetail",
+        "FangyuanCapital",
+        "FengTouQuan",
+        "ForeignRestaurantBrandLocalControl",
+        "FragranceProductStorytelling",
+        "FragranceSupplyChainMoat",
+        "FranchiseLedConsumerChainExpansion",
+        "FreshMadeIceCreamRetail",
+        "GeneralMills",
+        "GlobalProductLocalization",
+        "HaagenDazs",
+        "LocalPartnerMarketEntry",
+        "McDonalds",
+        "MeetFresh",
+        "Ningji",
+        "PizzaHutChina",
+        "RestaurantExperienceDesign",
+        "Starbucks",
+        "SubwayChina",
+        "SupplyChainSovereignty",
+        "YerenXiansheng",
+        "YumBrands",
+        "YumChina"
+      ]
+    },
     {
       "id": "c65ef3dbf832d317675a2b433e038fc3ffd774f9c65a72160dafa4d46fbaa22b",
       "primary_topic": "ai-and-technology",

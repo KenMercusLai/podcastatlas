@@ -2,8 +2,8 @@
 title: "Experiential Retail"
 type: concept
 tags: [retail, consumer, product, distribution]
-sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, the-walt-disney-company-1, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, 132-xuegao-jianghu-fengtouquan-1-132-1, vol-263-lang-de-youhuo-998128018, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88]
-last_updated: 2026-08-13
+sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, the-walt-disney-company-1, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, 132-xuegao-jianghu-fengtouquan-1-132-1, vol-263-lang-de-youhuo-998128018, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Experiential Retail
@@ -38,6 +38,8 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 
 [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds a mall-food-market version. The source argues that older [[FoodRepublic|大食代]] food courts sold cheap, varied, clean indoor meals, while newer [[SceneLedFoodMarket|scene-led food markets]] such as [[CityMart|城市集市]] sell a more designed visit that can mix food, small retail, decor, and social sharing. It extends experiential retail into a foodservice format where the operator has to build a place people want to browse, photograph, and revisit.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds a local-control and dessert-chain version. [[Starbucks]] China's music and themed-store changes show experience as a set of small controllable signals, while [[HaagenDazs]] and [[YerenXiansheng]] show how an ice-cream visit can shift from large premium seating to lighter family, celebration, and mall-edge formats.
+
 ## Key Claims
 - The store is not just the point of sale; it is the medium through which the product becomes personally meaningful.
 - Experiential retail often asks the customer to spend time and attention, so the process must feel rewarding rather than like friction.
@@ -58,6 +60,7 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 - A young fashion store can be rational even before it is a strong standalone profit center if it teaches the brand, captures customers, and creates direct relationship evidence.
 - A home-brand store can convert catalog imagery into physical trust by letting customers see how separate products compose into a room and lifestyle system.
 - A food market can become experiential retail when the room, tenant mix, visual theme, and social-media surface become part of the product rather than background.
+- Experience can become a local-control test: a global headquarters may preserve brand consistency, but local operators may see the need to change music, cultural cues, seating, pricing, and store footprint.
 
 ## Connections
 - [[BuildABear]] and [[MaxineClark]] - source case.
@@ -78,3 +81,4 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 - [[IsraelAcabla]], [[KennethCole]], [[DirectToConsumerBrandControl]], and [[WholesaleToDirectCustomerBridge]] - small-fashion brand-building branch added by the Kenneth Cole Advice Line episode.
 - [[SerenaAndLily|Serena & Lily]], [[LilyKanter]], [[SerenaDugan]], [[RetailSiteSelection]], and [[ConsumerBrandMoat]] - home-brand branch where the first store turned catalog presentation into a physical lifestyle environment.
 - [[FoodRepublic]], [[CityMart]], [[SceneLedFoodMarket]], [[RestaurantExperienceDesign]], and [[ShoppingCenterRestaurantization]] - mall-food-market branch added by the 大食代 source.
+- [[Starbucks]], [[HaagenDazs]], [[YerenXiansheng]], [[Ningji]], and [[ForeignRestaurantBrandLocalControl]] - restaurant-control and dessert-experience branch added by episode 145.

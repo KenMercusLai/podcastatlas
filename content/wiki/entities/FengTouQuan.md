@@ -2,8 +2,8 @@
 title: "疯投圈"
 type: entity
 tags: [podcast, media, business, investing]
-sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, 143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
-last_updated: 2026-08-09
+sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, 143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # 疯投圈
@@ -26,6 +26,8 @@ last_updated: 2026-08-09
 
 [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] adds a Chinese consumer-brand soft-power case through [[ShanxiaYousong]], [[Guanxia]], [[Sandunban]], and [[PANE]]. The episode extends the show's experience-consumption branch into [[ChineseConsumerBrandSoftPower]], [[AspirationalEmotionalPremium]], [[InboundTourismBrandDiscovery]], and [[BrandPodcasting]], asking how brands can earn overseas attention through design, story, store experience, and emotional identity rather than only function or price.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds a foreign-restaurant-brand localization and control episode. It connects [[ForeignRestaurantBrandLocalControl]] with [[McDonalds]], [[SubwayChina]], [[BurgerKing]], [[Starbucks]], [[PizzaHutChina]], and [[HaagenDazs]], then broadens the show's consumer-brand lens into [[DemandSupplyChainControlFrame]] and [[FragranceSupplyChainMoat]].
+
 ## Connections
 - [[132-xuegao-jianghu-fengtouquan-1-132-1]] - source episode.
 - [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] - experience-consumption source episode.
@@ -43,3 +45,4 @@ last_updated: 2026-08-09
 - [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]], [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], [[ImageFirstIP]], [[InboundTourismBrandDiscovery]], and [[FanEconomy]] - Japan/Korea consumer comparison added from episode 142.
 - [[143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]], [[HighEndEVBranding]], [[EVBatteryLeasing]], [[BatterySwapInfrastructure]], [[EVProductLineClarity]], and [[AutomotiveMediaInfluence]] - Chinese premium-EV branding branch added from episode 143.
 - [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]], [[ShanxiaYousong]], [[PANE]], [[ChineseConsumerBrandSoftPower]], and [[AspirationalEmotionalPremium]] - Chinese consumer-brand soft-power branch added from episode 144.
+- [[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]], [[ForeignRestaurantBrandLocalControl]], [[DemandSupplyChainControlFrame]], and [[FragranceSupplyChainMoat]] - restaurant-localization and supply-chain-control branch added from episode 145.

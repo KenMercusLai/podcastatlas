@@ -4,7 +4,7 @@
       "global_candidate": true,
       "id": "demand-needs-distribution-and-payment-proof",
       "qualifications": [
-        "The exact proof differs across software, consumer goods, and regulated products."
+        "The exact proof differs across software, consumer goods, regulated products, restaurants, finance, and AI services."
       ],
       "statement": "[[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.",
       "status": "supported",
@@ -12,6 +12,20 @@
         "CustomerPull",
         "ProductLedWillingnessToPay",
         "CPGDistribution"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "local-control-tests-consumer-brand-moats",
+      "qualifications": [
+        "The restaurant-control pattern should not be generalized to every consumer sector without testing demand localization and upstream supply-chain control."
+      ],
+      "statement": "[[ForeignRestaurantBrandLocalControl]] shows that recognized consumer brands may still need local decision rights, while [[DemandSupplyChainControlFrame]] asks whether upstream control such as [[FragranceSupplyChainMoat]] sits elsewhere.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "ForeignRestaurantBrandLocalControl",
+        "DemandSupplyChainControlFrame",
+        "FragranceSupplyChainMoat"
       ]
     },
     {
@@ -57,6 +71,6 @@
       ]
     }
   ],
-  "summary": "The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets. Hanji 1009 adds a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.",
+  "summary": "The business and market sources repeatedly separate attention from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, and disciplined risk management determine whether an attractive idea survives contact with real markets. Episode 145 adds a restaurant-control and fragrance-supply-chain qualification: consumer recognition may survive while decision rights move local, but demand-side heat is not the same as upstream control. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.",
   "topic_id": "business-and-markets"
 }

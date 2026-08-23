@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6846
+wiki_total_pages: 6854
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "MeditationsOnFirstPhilosophy"
     title: "Meditations on First Philosophy / 《第一哲学的沉思》"
     url: "/wiki/entities/meditationsonfirstphilosophy/"
+  - key: "MeetFresh"
+    title: "Meet Fresh / 鲜芋仙"
+    url: "/wiki/entities/meetfresh/"
   - key: "MeganMcCartyCorino"
     title: "Megan McCarty-Corino"
     url: "/wiki/entities/meganmccartycorino/"

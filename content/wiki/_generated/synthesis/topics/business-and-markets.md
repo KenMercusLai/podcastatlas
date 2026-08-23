@@ -3,16 +3,16 @@
 generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
-last_updated: 2026-08-23
-as_of_overview_commit: 2a27906f053abfb5431581a85b9be070e8f10bb3
-input_digest: 183c76fe74c113f0e3d16bd4f659c2e8660d20d88bb63ce93c99caaf007fe6f7
+last_updated: 2026-08-24
+as_of_overview_commit: f7d5cc4e3e9a90659fb777d6f713434495501edf
+input_digest: 926b45dc512944ebe4568fb34b41400c90e8ea4626d6c62963aa64cea258065c
 ---
 
 # Business and Markets
 
 ## Current State
 
-The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets. Hanji 1009 adds a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.
+The business and market sources repeatedly separate attention from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, and disciplined risk management determine whether an attractive idea survives contact with real markets. Episode 145 adds a restaurant-control and fragrance-supply-chain qualification: consumer recognition may survive while decision rights move local, but demand-side heat is not the same as upstream control. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.
 
 ## Cross-source Findings
 
@@ -24,7 +24,17 @@ The business and market sources repeatedly separate attention from durable value
 
 **Qualifications:**
 
-- The exact proof differs across software, consumer goods, and regulated products.
+- The exact proof differs across software, consumer goods, regulated products, restaurants, finance, and AI services.
+
+### Local Control Tests Consumer Brand Moats
+
+[[ForeignRestaurantBrandLocalControl]] shows that recognized consumer brands may still need local decision rights, while [[DemandSupplyChainControlFrame]] asks whether upstream control such as [[FragranceSupplyChainMoat]] sits elsewhere.
+
+**Evidence:** [[ForeignRestaurantBrandLocalControl]], [[DemandSupplyChainControlFrame]], [[FragranceSupplyChainMoat]]
+
+**Qualifications:**
+
+- The restaurant-control pattern should not be generalized to every consumer sector without testing demand localization and upstream supply-chain control.
 
 ### Trust Is An Operating Asset
 

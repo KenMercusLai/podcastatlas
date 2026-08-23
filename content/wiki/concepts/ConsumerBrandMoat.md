@@ -3,7 +3,7 @@ title: "Consumer Brand Moat"
 type: concept
 tags: [investing, consumer-brands, moat, cpg, restaurants]
 sources: [bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a, madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, seven-allegedly-fake-chanel-bags-vs-the-realreal, how-black-hair-care-grew-black-power, costco-1, rolex-1, ferrari-1, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
-last_updated: 2026-08-17
+last_updated: 2026-08-24
 ---
 
 # Consumer Brand Moat
@@ -66,6 +66,8 @@ A consumer brand moat is the durable business advantage that forms when customer
 
 [[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds a negative footwear moat case through [[Vans]] and [[Converse]]. It shows that awareness, heritage, and subculture memory can decay as purchase drivers when comfort-led demand and old product architecture make the brand easier to admire than rebuy.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds a foreign-restaurant-brand stress test. The source argues that brands such as [[McDonalds]], [[SubwayChina]], [[Starbucks]], [[PizzaHutChina]], and [[HaagenDazs]] can retain recognition while still needing local control, store-model repair, and faster consumer insight to keep the moat alive in China.
+
 ## Key Claims
 - A moat is stronger when the customer does not need to rethink the purchase every time.
 - Gift reliability, payment acceptance, and everyday cravings are different forms of the same behavioral asset.
@@ -103,6 +105,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - In beauty and social-commerce brands, founder presence can start the moat, but product quality and transferable customer trust have to keep it from becoming only personal attention.
 - A heritage brand can retain recognition while losing moat strength if product comfort, use cases, and cultural membership no longer reduce the buyer's decision burden.
 - In regulated baby products, a moat can be built from emotional permission and compliance discipline at the same time: parents need less shame, but also credible safety, supply, and claim boundaries.
+- In restaurant chains, brand recognition can survive an ownership shift, but the moat weakens if local operators cannot refresh price, product, store experience, and franchise economics fast enough.
 
 ## Connections
 - [[Bobbie]], [[LauraModi]], [[InfantFormula]], [[FormulaFeedingStigma]], [[InfantFormulaRegulatoryMoat]], and [[FormulaSupplyChainResilience]] - infant formula brand-moat branch added by How I Built This.
@@ -138,5 +141,6 @@ A consumer brand moat is the durable business advantage that forms when customer
 - [[BobbiBrown]], [[JonesRoadBeauty]], [[AbbyRose]], [[ProductLedBrandLongevity]], and [[FounderLedLiveSelling]] - beauty and live-selling brand branch added by How I Built This.
 - [[SerenaAndLily|Serena & Lily]], [[LilyKanter]], [[SerenaDugan]], [[DirectToConsumerBrandControl]], [[ExperientialRetail]], and [[InventoryHeavyConsumerBrandFinancing]] - premium home-brand branch added by How I Built This.
 - [[CharlieMunger]], [[WarrenBuffett]], and [[BerkshireHathaway]] — investing frame behind the episode.
+- [[ForeignRestaurantBrandLocalControl]], [[DemandSupplyChainControlFrame]], [[FragranceSupplyChainMoat]], [[HaagenDazs]], and [[Ningji]] - restaurant and fragrance control branch added by FengTouQuan episode 145.
 - [[ProductLedWillingnessToPay]], [[GiftToLoyalBuyerLoop]], [[RetailShelfPlacement]], [[SubcultureLedMarketing]], and [[CPGDistribution]] — adjacent consumer-product concepts already tracked by the wiki.
 - [[InvestmentRiskManagement]] — durable moats reduce, but do not remove, the need for valuation and position discipline.

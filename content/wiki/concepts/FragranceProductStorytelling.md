@@ -2,8 +2,8 @@
 title: "Fragrance Product Storytelling / 香气产品叙事"
 type: concept
 tags: [fragrance, branding, consumer-products, retail, storytelling]
-sources: [ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
-last_updated: 2026-08-09
+sources: [ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Fragrance Product Storytelling / 香气产品叙事
@@ -14,6 +14,8 @@ The concept explains why line incense and perfume brands invest in boxes, gifts,
 
 [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] adds a globalization angle. In this source, [[Guanxia]]'s story work matters not only because scent is hard to sample online, but because Chinese tea, osmanthus, poetic atmosphere, and line incense need translation into a retail language that foreign visitors can understand without already knowing the cultural references.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds a supply-chain boundary. Storytelling can make a fragrance brand legible, but the source argues that upstream scent invention may still sit with foreign fragrance houses whose formulas, patents, perfumers, and customer relationships are hard for downstream brands to replace.
+
 ## Key Claims
 - Fragrance products need story because the core experience is hard to digitize and hard to judge from ingredient lists.
 - Offline experience matters: customers often need a shop, counter, hotel lobby, or event to test whether a scent fits their body, room, or mood.
@@ -21,6 +23,7 @@ The concept explains why line incense and perfume brands invest in boxes, gifts,
 - Storytelling has to be constrained by product proof; poetic copy cannot compensate for weak scent quality or unclear raw-material trust.
 - Gift suitability raises the importance of packaging and named meaning because the giver needs to explain why the scent fits the recipient.
 - A fragrance story can become an export bridge when it makes a culturally specific scent legible to outsiders while preserving enough mystery and atmosphere to remain aspirational.
+- Storytelling can build the downstream brand, but it does not by itself solve [[FragranceSupplyChainMoat|fragrance supply-chain moat]] exposure.
 
 ## Connections
 - [[ChineseFragrance]], [[LineIncenseDailyLife]], and [[IncenseFormulaReconstruction]] - source-specific scent branches.
@@ -29,3 +32,4 @@ The concept explains why line incense and perfume brands invest in boxes, gifts,
 - [[StoryLedConsumerBranding]], [[ConsumerBrandMoat]], and [[EmotionalBrandRelationship]] - broader brand concepts.
 - [[ProductLedWillingnessToPay]], [[PackagingAsProductExperience]], and [[ExperientialRetail]] - demand, packaging, and retail-adoption frames.
 - [[ChineseConsumerBrandSoftPower]], [[AspirationalEmotionalPremium]], and [[InboundTourismBrandDiscovery]] - outbound consumer-brand extension added by episode 144.
+- [[FragranceSupplyChainMoat]] and [[DemandSupplyChainControlFrame]] - upstream-control boundary added by FengTouQuan episode 145.

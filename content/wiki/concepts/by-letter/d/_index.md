@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5187
+wiki_total_pages: 5190
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "DemandSideOilMarketPower"
     title: "Demand-Side Oil Market Power"
     url: "/wiki/concepts/demandsideoilmarketpower/"
+  - key: "DemandSupplyChainControlFrame"
+    title: "Demand-Supply Chain Control Frame / 需求-供应链控制框架"
+    url: "/wiki/concepts/demandsupplychaincontrolframe/"
   - key: "DemocracyInAmerica"
     title: "Democracy in America"
     url: "/wiki/concepts/democracyinamerica/"

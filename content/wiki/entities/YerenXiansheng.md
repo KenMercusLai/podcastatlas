@@ -2,8 +2,8 @@
 title: "Yeren Xiansheng"
 type: entity
 tags: [company, ice-cream, retail, franchising, china]
-sources: [132-xuegao-jianghu-fengtouquan-1-132-1]
-last_updated: 2026-07-08
+sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Yeren Xiansheng
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 Yeren Xiansheng is the central brand case in [[132-xuegao-jianghu-fengtouquan-1-132-1]]. The episode presents it as a Chinese store-made gelato/ice-cream chain that began in Beijing in 2011, spent more than a decade with mostly direct-operated stores, and then expanded rapidly through franchising after 2023.
 
 The source frames Yeren Xiansheng as a test of whether [[FreshMadeIceCreamRetail]] can become a larger Chinese consumer-chain opportunity. Its operating edge is not only flavor; the episode emphasizes pass-by trial, visible same-day production rules, a reluctance to rely on delivery, and the ability to turn mature tea-drink and coffee franchise operators into expansion capacity.
+
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds the family-scene and store-box version. The episode contrasts Yeren Xiansheng with [[HaagenDazs]] by arguing that ice cream works as emotional value for children, older family members, couples, birthdays, and shared celebrations, while Yeren's smaller mall-edge stores avoid the heavy-space economics of older premium dessert shops.
 
 ## Source Position
 - The episode says Yeren Xiansheng had fewer than 100 stores by the end of 2022 and later grew to more than 1000 stores.
@@ -25,3 +27,4 @@ The source frames Yeren Xiansheng as a test of whether [[FreshMadeIceCreamRetail
 - [[InStoreDemos]] and [[ExperientialRetail]] - trial and store experience mechanics.
 - [[LocalMarketProof]] and [[RetailSiteSelection]] - Beijing learning, mall traffic, and region-specific seasonality.
 - [[ZhongXuegao]], [[HaagenDazs]], [[DairyQueen]], and [[MixueBingcheng]] - comparison brands in the episode.
+- [[EmotionEconomy]], [[RestaurantExperienceDesign]], and [[AssetLightVsHeavyAssetModels]] - family-scene and lighter-store branch added by episode 145.

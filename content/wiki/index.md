@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [145. 改嫁中资的餐饮洋品牌](sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1.md) — 疯投圈 episode on foreign restaurant brands shifting China control to local investors and operators, covering McDonald's, Subway, Burger King, Starbucks, Pizza Hut, Haagen-Dazs, ice-cream store models, fragrance supply-chain moats, and demand-versus-supply-chain industry judgment.
 - [EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你](sources/ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc.md) — Talk三联 episode with Jia Zhangke on short-video rediscovery of older film scenes, ordinary-life poetics, youth mobility, AI anxiety, and era transition.
 - [EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能](sources/ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox.md) — Talk三联 episode with Jia Zhangke on AI cinema, realism beyond realist method, production-method change, labor backlash, rights, and his continuing commitment to live-action reality.
 - [《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？](sources/zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's omen-, five-phases-, and seal-backed imperial ambition before Yan Xiang and Zhang Cheng warn that rule rests on virtue, accepted title order, and people-support.
@@ -1340,6 +1341,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Subway China / 赛百味中国](entities/SubwayChina.md) — Foreign-origin sandwich chain whose China local general-agency shift is used as a store-acceleration case.
+- [CITIC Capital / 中信资本](entities/CITICCapital.md) — Controlling investor in McDonald's China in episode 145's local-control template.
+- [Carlyle Group / 凯雷资本](entities/CarlyleGroup.md) — Minority co-investor in the 2017 McDonald's China transaction, later exiting in the source's account.
+- [Meet Fresh / 鲜芋仙](entities/MeetFresh.md) — Taiwan-founded dessert brand used in episode 145's CFB platform and emotional-value branch.
+- [CFB Group / CFB 集团](entities/CFBGroup.md) — Multi-brand restaurant platform tied to Dairy Queen, Meet Fresh, and private-equity-backed local operation in episode 145.
+- [Fangyuan Capital / 方圆资本](entities/FangyuanCapital.md) — Private-equity background tied to CFB Group in the source's restaurant-platform discussion.
+- [Ningji / 宁记](entities/Ningji.md) — Chinese lemon-tea brand that acquired Haagen-Dazs China store operations in episode 145.
+- [Yum Brands / 百胜美国](entities/YumBrands.md) — U.S. restaurant brand owner selling Pizza Hut China brand ownership to Yum China in episode 145.
 - [贾樟柯 / Jia Zhangke](entities/JiaZhangke.md) — Director whose Talk三联 interview links short-video rediscovery, ordinary-life poetics, youth mobility, era transition, and AI cinema's production-method questions.
 - [赵涛 / Zhao Tao](entities/ZhaoTao.md) — Actor whose 《山河故人》 dance scene anchors EP276's discussion of film-clip afterlife, freedom, aging, and hometown.
 - [《山河故人》 / Mountains May Depart](entities/ShanHeGuRen.md) — Jia Zhangke film whose opening disco memory and ending dance scene are used in EP276 to explain renewed online resonance.
@@ -8190,6 +8199,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Foreign Restaurant Brand Local Control / 外资餐饮品牌本土控制权](concepts/ForeignRestaurantBrandLocalControl.md) — Pattern where a foreign-origin restaurant brand keeps operating in China while China control, equity, master-franchise rights, or brand ownership moves to local actors.
+- [Demand-Supply Chain Control Frame / 需求-供应链控制框架](concepts/DemandSupplyChainControlFrame.md) — Industry-judgment frame asking whether local demand insight and upstream supply-chain control point in the same direction.
+- [Fragrance Supply-Chain Moat / 香味供应链壁垒](concepts/FragranceSupplyChainMoat.md) — Upstream fragrance advantage built from molecules, formulas, perfumers, patents, and sticky supplier relationships.
 - [Film Clip Remix Afterlife / 电影片段二创再流通](concepts/FilmClipRemixAfterlife.md) — EP276 frame for older Jia Zhangke film scenes and lines regaining force through short-video remix and viewer projection.
 - [Ordinary Life Poetics / 日常生活诗意](concepts/OrdinaryLifePoetics.md) — Jia Zhangke's EP276 claim that ordinary labor, county scenes, youth dancing, and departures already contain poetic material.
 - [Mobility Farewell Generation / 流动生活中的离别经验](concepts/MobilityFarewellGeneration.md) — EP276 frame for why farewell lines resonate when young people repeatedly move across home, education, work, cities, and countries.

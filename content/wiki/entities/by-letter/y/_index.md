@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6846
+wiki_total_pages: 6854
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "Yuhao"
     title: "Yuhao / 宇豪"
     url: "/wiki/entities/yuhao/"
+  - key: "YumBrands"
+    title: "Yum Brands / 百胜美国"
+    url: "/wiki/entities/yumbrands/"
   - key: "YumChina"
     title: "Yum China / 百胜中国"
     url: "/wiki/entities/yumchina/"

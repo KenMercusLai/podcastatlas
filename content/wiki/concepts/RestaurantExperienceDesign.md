@@ -2,8 +2,8 @@
 title: "Restaurant Experience Design"
 type: concept
 tags: [hospitality, restaurants, design, consumer, localization]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-263-lang-de-youhuo-998128018, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
-last_updated: 2026-08-16
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-263-lang-de-youhuo-998128018, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Restaurant Experience Design
@@ -22,6 +22,8 @@ The concept extends [[ExperientialRetail]] into hospitality. Build-A-Bear makes 
 
 [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds a food-market version through [[CityMart|城市集市]]. The source contrasts the older [[FoodRepublic|大食代]] layout of surrounding stalls and central seating with newer [[SceneLedFoodMarket|scene-led food markets]] that invest in themes, decor, social-media visibility, mixed retail, and local adaptation. The experience becomes part of the commercial product rather than a neutral container around cheap food.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds the local-control detail version. The source treats [[Starbucks]] China's Chinese-language music, manager-level playlist choice, and Guangzhou local-culture themed store as restaurant experience changes enabled by local decision rights. It also contrasts [[HaagenDazs]]' older high-investment dessert-shop experience with [[YerenXiansheng]]'s lighter family and celebration scenes.
+
 ## Key Claims
 - A restaurant can differentiate through atmosphere and ritual even when the founder is not a chef.
 - Design, sound, lighting, temperature, service rhythm, and host behavior are part of the product, not decoration around the product.
@@ -33,6 +35,7 @@ The concept extends [[ExperientialRetail]] into hospitality. Build-A-Bear makes 
 - Cross-border restaurant experience design must translate the dining procedure itself, especially for hot pot, new tea drinks, dumplings, and regional Chinese dishes whose use occasion may not be obvious.
 - Food-market experience design can replace pure food variety as the traffic driver, but it raises the operating burden because the space has to remain visually and socially fresh.
 - In premium self-service, the designed experience can come from budget certainty, tier comparison, perceived abundance, and access to a high-status ingredient rather than from decor alone.
+- Local restaurant control can show up first in sensory details such as music, cultural themes, and store-level flexibility before it becomes obvious in menu or pricing.
 
 ## Connections
 - [[StephenStarr]], [[STARRRestaurants]], [[TheContinental]], and [[Budokan]] - source cases.
@@ -44,3 +47,4 @@ The concept extends [[ExperientialRetail]] into hospitality. Build-A-Bear makes 
 - [[DinTaiFung]], [[Haidilao]], [[HeyTea]], [[RestaurantCulturalLegibility]], and [[CultureLedFoodAdoption]] - cross-border food-experience branch added by E232.
 - [[CityMart]], [[SceneLedFoodMarket]], [[FoodRepublic]], and [[MallFoodCourtDecline]] - food-market experience branch added by the 大食代 source.
 - [[NiuniuSukiyaki]], [[Wagyu]], [[BuffetBudgetLockIn]], and [[SpecializedBuffetFormat]] - premium self-service branch added by 声动早咖啡.
+- [[Starbucks]], [[HaagenDazs]], [[YerenXiansheng]], [[Ningji]], and [[ForeignRestaurantBrandLocalControl]] - local-control and dessert-store branch added by FengTouQuan episode 145.

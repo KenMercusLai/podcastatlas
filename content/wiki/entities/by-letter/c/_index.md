@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6846
+wiki_total_pages: 6854
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "CarlyUrban"
     title: "Carly Urban"
     url: "/wiki/entities/carlyurban/"
+  - key: "CarlyleGroup"
+    title: "Carlyle Group / 凯雷资本"
+    url: "/wiki/entities/carlylegroup/"
   - key: "CarmichaelsBookstore"
     title: "Carmichael's Bookstore"
     url: "/wiki/entities/carmichaelsbookstore/"
@@ -296,6 +299,9 @@ wiki_pages:
   - key: "Ceuta"
     title: "Ceuta"
     url: "/wiki/entities/ceuta/"
+  - key: "CFBGroup"
+    title: "CFB Group / CFB 集团"
+    url: "/wiki/entities/cfbgroup/"
   - key: "Chagee"
     title: "Chagee / 霸王茶姬"
     url: "/wiki/entities/chagee/"
@@ -671,6 +677,9 @@ wiki_pages:
   - key: "Citgo"
     title: "Citgo"
     url: "/wiki/entities/citgo/"
+  - key: "CITICCapital"
+    title: "CITIC Capital / 中信资本"
+    url: "/wiki/entities/citiccapital/"
   - key: "CityCleta"
     title: "City Cleta"
     url: "/wiki/entities/citycleta/"

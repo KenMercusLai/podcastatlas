@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6846
+wiki_total_pages: 6854
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "SubstackNotes"
     title: "Substack Notes"
     url: "/wiki/entities/substacknotes/"
+  - key: "SubwayChina"
+    title: "Subway China / 赛百味中国"
+    url: "/wiki/entities/subwaychina/"
   - key: "SuccessAcademies"
     title: "Success Academies"
     url: "/wiki/entities/successacademies/"

@@ -2,8 +2,8 @@
 title: "Starbucks"
 type: entity
 tags: [company, retail, food]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
-last_updated: 2026-08-16
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Starbucks
@@ -16,6 +16,8 @@ Starbucks appears in [[justins-nut-butter-justin-gold-he-was-waiting-tables-then
 
 [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds the rumor-response version of the China localization problem. The episode summarizes reporting that [[ZhangQing|张青]] was working on Starbucks China's supplier and cost structure, then records Starbucks China's 2026-08-12 response that the online information was seriously inaccurate. The source therefore extends [[CoffeeSupplyChainLocalization]] without treating the rumored supplier changes as verified.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds the restaurant-control and experience-localization version. The episode says Starbucks headquarters and [[BoyuCapital]] finalized a China structure where headquarters keeps 40% and Boyu controls 60%, then reads changes to in-store music, manager-level song choice, and a Guangzhou intangible-cultural-heritage themed store as early signs of [[ForeignRestaurantBrandLocalControl]] moving from ownership into experience detail.
+
 ## Connections
 - [[JustinsNutButter]], [[JustinGold]], and [[LanceGentry]] - brand and operators tied to the placement.
 - [[CPGDistribution]] - national retail/food-service expansion path.
@@ -23,3 +25,4 @@ Starbucks appears in [[justins-nut-butter-justin-gold-he-was-waiting-tables-then
 - [[LowPriceBrandPerception]], [[LifestyleCostRationalization]], and [[MiddleClassConsumptionPressure]] - coffee-price and consumption-pressure concepts added by EP35.
 - [[BoyuCapital]], [[CoffeeChainInstitutionalization]], [[CoffeeChainLocalization]], and [[PremiumEverydayBrandTension]] - China coffee-market strategy concepts added by episode 141.
 - [[ZhangQing]], [[MixueBingcheng]], and [[CoffeeSupplyChainLocalization]] - source-scoped supply-chain rumor and denial branch added by 声动早咖啡.
+- [[ForeignRestaurantBrandLocalControl]], [[RestaurantExperienceDesign]], and [[ExperientialRetail]] - episode 145's local-control and store-experience branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5187
+wiki_total_pages: 5190
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "ForeignCorruptPracticesAct"
     title: "Foreign Corrupt Practices Act"
     url: "/wiki/concepts/foreigncorruptpracticesact/"
+  - key: "ForeignRestaurantBrandLocalControl"
+    title: "Foreign Restaurant Brand Local Control / 外资餐饮品牌本土控制权"
+    url: "/wiki/concepts/foreignrestaurantbrandlocalcontrol/"
   - key: "ForeignBackedCivilWar"
     title: "Foreign-Backed Civil War"
     url: "/wiki/concepts/foreignbackedcivilwar/"
@@ -779,6 +782,9 @@ wiki_pages:
   - key: "FragranceProductStorytelling"
     title: "Fragrance Product Storytelling / 香气产品叙事"
     url: "/wiki/concepts/fragranceproductstorytelling/"
+  - key: "FragranceSupplyChainMoat"
+    title: "Fragrance Supply-Chain Moat / 香味供应链壁垒"
+    url: "/wiki/concepts/fragrancesupplychainmoat/"
   - key: "FrameworkLedSaaS"
     title: "Framework-Led SaaS"
     url: "/wiki/concepts/frameworkledsaas/"

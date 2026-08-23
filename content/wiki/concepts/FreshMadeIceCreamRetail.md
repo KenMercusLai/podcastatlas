@@ -2,8 +2,8 @@
 title: "Fresh-Made Ice Cream Retail"
 type: concept
 tags: [ice-cream, retail, consumer, food, china]
-sources: [132-xuegao-jianghu-fengtouquan-1-132-1]
-last_updated: 2026-07-08
+sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+last_updated: 2026-08-24
 ---
 
 # Fresh-Made Ice Cream Retail
@@ -12,6 +12,8 @@ Fresh-made ice cream retail is the store-based model where the final ice-cream p
 
 The concept matters because it changes the competitive comparison. [[ZhongXuegao]] and [[HaagenDazs]] carry more of the burden of prepackaged or factory-made premium ice cream, while [[DairyQueen]], [[MixueBingcheng]], and Yeren Xiansheng show store-based formats with different price bands, freshness signals, and operating constraints.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds a family-scene and store-format comparison. The source argues that [[YerenXiansheng]] wins not only through freshness but through birthdays, parent-child outings, elderly consumers, couples, ice-cream cakes, low-delivery reliance, and smaller mall-edge stores. That puts pressure on [[HaagenDazs]] after its China store operations move to [[Ningji]].
+
 ## Key Claims
 - Store-made ice cream can reduce reliance on parcel-level frozen delivery, but it does not eliminate upstream cold-chain or ingredient-preparation constraints.
 - The "fresh made" claim has a boundary problem: final production may occur in store even if the base ingredients were prepared and frozen elsewhere.
@@ -19,6 +21,7 @@ The concept matters because it changes the competitive comparison. [[ZhongXuegao
 - Delivery can weaken the product presentation because melting, air content, size perception, and time-to-consumption matter.
 - The model may grow as Chinese consumers learn gelato and store-made ice cream, but the episode treats category education as slower than tea drinks or coffee.
 - Store-made ice cream can become vulnerable to price war once larger beverage, coffee, or fast-food chains recognize the category opportunity.
+- Store-made ice cream can carry [[EmotionEconomy|emotional value]] when the product fits family, celebration, and shared-dessert scenes better than coffee or tea drinks.
 
 ## Connections
 - [[YerenXiansheng]] - central source case.
@@ -26,3 +29,4 @@ The concept matters because it changes the competitive comparison. [[ZhongXuegao
 - [[ColdChainCPGConstraint]] - frozen-logistics pressure the store-made model partly avoids.
 - [[InStoreDemos]], [[ExperientialRetail]], and [[RetailSiteSelection]] - store mechanics that make the model work.
 - [[FranchiseLedConsumerChainExpansion]] - rollout mechanism after local proof.
+- [[Ningji]], [[RestaurantExperienceDesign]], and [[AssetLightVsHeavyAssetModels]] - episode 145's store-turnaround and lighter-format branch.

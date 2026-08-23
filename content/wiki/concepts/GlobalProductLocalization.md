@@ -16,7 +16,8 @@ sources:
   - 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo
   - 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1
   - fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677
-last_updated: 2026-08-16
+  - 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1
+last_updated: 2026-08-24
 ---
 
 # Global Product Localization
@@ -49,6 +50,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds the vehicle-localization version through [[BYD]]. In [[Brazil]], localization means flex-fuel engineering for ethanol habits, local production, and local parts targets; in [[Japan]], it means a compact model fitted to a hard, trust-sensitive auto market.
 
+[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds the foreign-restaurant-control version through [[ForeignRestaurantBrandLocalControl]]. Here localization may require moving majority control, master-franchise rights, brand ownership, or store-operation authority toward local investors and operators, because food and beverage competition turns on fast local decisions around taste, price, store format, music, cultural themes, and franchise economics.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -62,6 +65,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Hardware globalization can depend on category creation: a company may need to make the product form itself familiar before conventional localization matters.
 - Smaller consumer-electronics categories can avoid some protectionist pressure at first, but security narratives can still turn global demand into regulatory exposure.
 - Consumer-chain localization can require local ownership, local professional managers, and faster product-price-store iteration than a global headquarters can supply.
+- Episode 145 adds that restaurant localization can become a control-rights question across whole brands, not only a menu question inside one brand.
 - Global sports brands may need local teams with enough autonomy to turn memes, city events, content formats, and campaign timing into products and experiences.
 - Restaurant localization can require changing the operating environment around the product - lease, approvals, menu bridges, service explanation, and local team credibility - rather than only adapting flavor.
 - Media localization can require changing fantasy signals and story psychology: the same plot pattern may need different visual status markers, relationship dynamics, and payment assumptions across markets.
@@ -89,3 +93,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[FactorySecondGeneration]], [[WoteShoes]], [[SecondGenerationBusinessEntryRoutes]], [[ManufacturingSalesShift]], and [[Amazon]] - family-manufacturing overseas-channel extension added by EP255.
 - [[ChineseConsumerBrandSoftPower]], [[InboundTourismBrandDiscovery]], [[ShanxiaYousong]], [[Guanxia]], [[PANE]], and [[Sandunban]] - consumer-brand attention-localization branch added by episode 144.
 - [[BYD]], [[Brazil]], [[Japan]], [[ChineseHardwareGlobalization]], and [[JapanMarketEntryTrust]] - vehicle-localization branch added by 声动早咖啡.
+- [[ForeignRestaurantBrandLocalControl]], [[DemandSupplyChainControlFrame]], [[McDonalds]], [[Starbucks]], [[SubwayChina]], [[PizzaHutChina]], and [[HaagenDazs]] - restaurant-control branch added by FengTouQuan episode 145.
