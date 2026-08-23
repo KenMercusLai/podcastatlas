@@ -2,7 +2,7 @@
 title: "楚国 / Chu Kingdom (early Han)"
 type: entity
 tags: [kingdom, western-han, qin-han, polity]
-sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
+sources: [zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
 last_updated: 2026-08-23
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-23
 
 This page is distinct from [[ChuState|楚国]], the pre-Qin and Chu-Han state tradition. The Hanji 174 use is a post-founding royal jurisdiction created after [[HanXin|韩信]] loses the older Chu kingship.
 
+[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] shows this Liu-family Chu kingdom under rebel pressure. [[YingBu|英布 / 黥布]] defeats [[LiuJiao|刘交]] before [[LiuBang|刘邦]] personally brings the main Han force, making Chu a failed first defense line in the final Huainan campaign rather than a secure same-surname buffer.
+
 ## Connections
+- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[LiuJiao|刘交]], [[YingBu|英布 / 黥布]], and [[LiuBang|刘邦]] - Chu defeat before Liu Bang's main suppression.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] - source page.
 - [[LiuJiao|刘交]] - recipient and Chu king.
 - [[LiuBang|刘邦]] and [[HanXin|韩信]] - grantor and displaced previous Chu king.

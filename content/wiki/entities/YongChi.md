@@ -2,8 +2,8 @@
 title: "雍齿 / Yong Chi"
 type: entity
 tags: [person, anti-qin, qin-han, rebellion]
-sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+last_updated: 2026-08-23
 ---
 
 # 雍齿 / Yong Chi
@@ -18,7 +18,10 @@ The page keeps the episode's explanation source-scoped. Yong Chi's betrayal is n
 
 [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] returns to Yong Chi after Liu Bang has become emperor. The source transcript writes the name as "庸耻," but the described old hatred and Shifang marquis reward point to the same figure. [[ZhangLiang|张良]] advises [[LiuBang|刘邦]] to enfeoff Yong Chi first precisely because Liu Bang hates him; once other generals see even Yong Chi rewarded for merit, their fear of being forgotten or punished can subside.
 
+[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] shows the old Feng betrayal still alive in Liu Bang's memory. When [[PeiCounty|沛县]] elders ask him to exempt [[FengCounty|丰邑 / 丰县]] from taxes and corvee like Pei, Liu Bang hesitates because Feng once followed Yong Chi's defection. The request succeeds only after ministers argue that Yong Chi has already been made Shifang marquis, so the prior [[HostileRecipientRewardSignal|仇敌受封安众]] now supports a broader hometown reconciliation.
+
 ## Connections
+- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[PeiCounty|沛县]], [[FengCounty|丰邑 / 丰县]], and [[ImperialHomeCountyTaxExemption|帝王故乡免租徭役]] - old betrayal remembered and then folded into Feng's exemption.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[HostileRecipientRewardSignal|仇敌受封安众]] - old enemy rewarded as a credibility signal to anxious merit-holders.
 - [[LiuBang|刘邦]] - early leader Yong Chi defects from.
 - [[FengCounty|丰邑 / 丰县]] - place he is assigned to defend and then hands over.

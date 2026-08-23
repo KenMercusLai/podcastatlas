@@ -2,7 +2,7 @@
 title: "淮南国 / Huainan Kingdom (early Han)"
 type: entity
 tags: [kingdom, western-han, qin-han, ying-bu]
-sources: [zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n]
+sources: [zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ Hanji 186's concrete Huainan crisis begins inside this royal court. [[BenHe|奔�
 
 [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] changes Huainan from suspected rebel base into a formally replaced kingdom. After Ying Bu captures Han envoys and raises troops, Liu Bang abolishes his title and names [[LiuChangHuainanKing|刘长 / Liu Chang (Huainan king)]] as Huainan king. The source therefore adds the replacement side of the crisis: Huainan is not only the stage for [[InvestigationDrivenRebellionEscalation|investigation-driven rebellion escalation]], but also a test case for replacing a different-surname king with Liu-family authority.
 
+[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] closes Ying Bu's old Huainan branch militarily. After defeating [[LiuJiao|刘交]]'s Chu defense, Ying Bu loses to Liu Bang's coordinated attack near Qi County and flees across the Huai and Yangtze before dying in Poyang County. For Huainan, the episode completes the move from semi-autonomous different-surname kingdom to failed rebellion and Liu-family replacement.
+
 ## Connections
+- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[YingBu|英布 / 黥布]], [[LiuJiao|刘交]], and [[LiuBang|刘邦]] - final defeat and death of the former Huainan king.
 - [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]], [[YingBu|英布 / 黥布]], [[LiuBang|刘邦]], [[LiuChangHuainanKing|刘长 / Liu Chang (Huainan king)]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - open rebellion, abolition of Ying Bu's title, and Liu-family replacement.
 - [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] - source page.
 - [[YingBu|英布 / 黥布]] - Huainan king and coming rebel.

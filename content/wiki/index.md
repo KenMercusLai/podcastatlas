@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》188｜古代中国的“天下无税”县](sources/zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz.md) — 芮淇讲透资治通鉴 episode completing Ying Bu's defeat, Liu Bang's wounded return to Pei, the Great Wind Song, and permanent tax/corvee exemptions for Pei and Feng.
 - [《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征](sources/zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox.md) — 芮淇讲透资治通鉴 episode on Ying Bu's open rebellion, Xue Gong's upper/middle/lower strategy forecast, Liu Bang replacing him with Liu Chang, and Liu Bang's ill personal campaign after Liu Ying's command risk is rejected.
 - [《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案](sources/zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n.md) — 芮淇讲透资治通鉴 episode on Ying Bu's fear after Peng Yue's death, Ben He's failed concubine-access gambit, the accusation sent to Liu Bang, Xiao He's investigation advice, and Huainan's turn toward rebellion.
 - [《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土](sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh.md) — 芮淇讲透资治通鉴 episode completing Lu Jia's Nanyue mission, Zhao Tuo's Qin-to-Nanyue consolidation, recognition-backed submission to Han, the Xinyu civil-governance lesson, and Fan Kuai's sickbed remonstrance to Liu Bang.
@@ -8328,6 +8329,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Maternal Status Succession Leverage / 子以母贵式继承杠杆](concepts/MaternalStatusSuccessionLeverage.md) — Succession mechanism where affiliation with a higher-status maternal figure can raise an under-ranked son's heir value.
 - [负臣 / Corrective Disobedient Minister](concepts/FuChen.md) — Ruler-minister pattern where a subject overrides command to correct a ruler's mistake, saving the state while becoming hard for the ruler to tolerate.
 - [汤沐邑 / Tangmu Yi](concepts/TangmuYi.md) — Polite reward form whose tax-revenue grant lets gratitude be expressed without over-elevating a guest's political rank.
+- [帝王故乡免租徭役 / Imperial Home-County Tax Exemption](concepts/ImperialHomeCountyTaxExemption.md) — Liu Bang's Hanji 188 exemption of Pei and Feng from rent, tax, and corvee after the Ying Bu campaign.
 - [Duyou Sword / 杜邮剑](concepts/DuyouSword.md) — Cultural allusion from Bai Qi's forced suicide at 杜邮, linking功臣 exit failure, ruler suspicion, command refusal, and the moral memory of Changping.
 - [Moral Cost of Effective Rescue / 成事的道德代价](concepts/MoralCostOfEffectiveRescue.md) — Ethical frame for successful emergency action that saves a state while killing a duty-bound or innocent obstacle.
 - [Stealing Tiger Tallies to Rescue Zhao / 窃符救赵](concepts/StealingTigerTalliesToRescueZhao.md) — Xinlingjun's irregular rescue sequence using stolen command credentials, palace access, retainer violence, and allied coordination to break Qin's pressure on Handan.

@@ -2,7 +2,7 @@
 title: "郦商 / Li Shang"
 type: entity
 tags: [person, general, chu-han, qin-rebellion]
-sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+sources: [zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ Qinji 136 does not yet develop Li Shang's independent career. For that source, h
 
 [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] returns to Li Shang as a revenge risk. [[TianHeng|田横]] hesitates to answer Liu Bang's summons because Tian Heng had killed [[LiShiqi|郦食其]], and Li Shang is now a high-ranking Han officer. Liu Bang orders Li Shang not to harm Tian Heng or his followers, making Li Shang's restrained vengeance part of the broader attempt to fold defeated Qi elites into [[WesternHanDynasty|西汉]] order.
 
+[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] adds Li Shang to the final [[YingBu|英布 / 黥布]] campaign. In the coordinated Han attack near Qi County, Li Shang's force presses Ying Bu from the front while [[CaoShen|曹参]] and [[GuanYing|灌婴]] strike from other directions, giving him a direct field role in ending the Huainan rebellion.
+
 ## Connections
+- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[YingBu|英布 / 黥布]], [[CaoShen|曹参]], and [[GuanYing|灌婴]] - frontal attack role in the final suppression of Ying Bu.
 - [[LiShiqi|郦食其]] - elder brother and recommender.
 - [[LiuBang|刘邦]] - commander who appoints him general.
 - [[Chenliu|陈留]] - troop source for his new command.

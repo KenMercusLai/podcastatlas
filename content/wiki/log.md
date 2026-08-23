@@ -10127,6 +10127,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》188｜古代中国的“天下无税”县
+
+Added source page for Hanji 188: Ying Bu's final defeat after Liu Bang waits for Qi reinforcements, Cao Shen/Li Shang/Guan Ying's coordinated attack, Liu Bang's wound and return to Pei, the Great Wind Song, Pei's permanent tax/corvee exemption as a Tangmu place, and Feng's later inclusion after ministers plead past the old Yong Chi grievance. Created Imperial Home-County Tax Exemption; updated overview, index, Liu Bang, Ying Bu, Pei County, Feng County, Tangmu Yi, Cao Shen, Guan Ying, Li Shang, Liu Jiao, Liu Fei, Fan Kuai, Xiahou Ying, Yong Chi, Huainan Kingdom, Zhang Liang, Chu Kingdom, and Qi Kingdom. No settled contradiction found; the source reinforces Hanji 187's bounded-strategy reading of Ying Bu and qualifies Tangmu Yi by showing exemption rather than revenue assignment.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案
 
 Added source page for Hanji 186: Ying Bu's fear after Peng Yue's death, Ben He's failed attempt to gain favor through Ying Bu's favorite concubine, the accusation sent to Liu Bang, Xiao He's detention-and-investigation advice, and Huainan's turn toward rebellion. Created Ben He, Huainan Kingdom (early Han), Pingyuanjun Zhu Jian, Liangfu Hou, and Inner-Court Access Brokerage Risk; updated overview, index, Ying Bu, Peng Yue, Liu Bang, Xiao He, Western Han, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 184's merit-holder fear warning while source-scoping Xiao He's response as investigation-first rather than immediate purge.

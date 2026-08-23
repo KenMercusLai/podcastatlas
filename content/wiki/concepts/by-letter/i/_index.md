@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5153
+wiki_total_pages: 5154
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "ImperialTitleRetrenchment"
     title: "帝号退回王号 / Imperial Title Retrenchment"
     url: "/wiki/concepts/imperialtitleretrenchment/"
+  - key: "ImperialHomeCountyTaxExemption"
+    title: "帝王故乡免租徭役 / Imperial Home-County Tax Exemption"
+    url: "/wiki/concepts/imperialhomecountytaxexemption/"
   - key: "ImperialBondservantGovernance"
     title: "皇室包衣治理 / Imperial Bondservant Governance"
     url: "/wiki/concepts/imperialbondservantgovernance/"
