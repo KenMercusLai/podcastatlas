@@ -8343,6 +8343,14 @@
     "title": "Chen Tianqiao / 陈天桥",
     "url": "/wiki/entities/chentianqiao/"
   },
+  "ChenXi": {
+    "title": "陈豨 / Chen Xi",
+    "url": "/wiki/entities/chenxi/"
+  },
+  "ChenXiRebellion": {
+    "title": "陈豨之乱 / Chen Xi Rebellion",
+    "url": "/wiki/entities/chenxirebellion/"
+  },
   "ChenYing": {
     "title": "陈婴 / Chen Ying",
     "url": "/wiki/entities/chenying/"
@@ -21387,6 +21395,10 @@
     "title": "Inventory Write-Down Risk",
     "url": "/wiki/concepts/inventorywritedownrisk/"
   },
+  "InvestigationDrivenRebellionEscalation": {
+    "title": "调查推动式反叛升级 / Investigation-Driven Rebellion Escalation",
+    "url": "/wiki/concepts/investigationdrivenrebellionescalation/"
+  },
   "InvestmentABC": {
     "title": "投资ABC / Investment ABC",
     "url": "/wiki/entities/investmentabc/"
@@ -24547,6 +24559,10 @@
     "title": "乐间 / Le Jian",
     "url": "/wiki/entities/lejian/"
   },
+  "LeShu": {
+    "title": "乐叔 / Le Shu",
+    "url": "/wiki/entities/leshu/"
+  },
   "LeSports": {
     "title": "乐视体育 / LeSports",
     "url": "/wiki/entities/lesports/"
@@ -26874,6 +26890,10 @@
   "Mannisen": {
     "title": "曼妮森",
     "url": "/wiki/entities/mannisen/"
+  },
+  "ManqiuChen": {
+    "title": "曼丘臣 / Manqiu Chen",
+    "url": "/wiki/entities/manqiuchen/"
   },
   "MansurYavas": {
     "title": "Mansur Yavas",
@@ -44347,6 +44367,10 @@
     "title": "王洪杰 / Wang Hongjie",
     "url": "/wiki/entities/wanghongjie/"
   },
+  "WangHuang": {
+    "title": "王黄 / Wang Huang",
+    "url": "/wiki/entities/wanghuang/"
+  },
   "WangJiQin": {
     "title": "王稽 / Wang Ji (Qin envoy)",
     "url": "/wiki/entities/wangjiqin/"
@@ -47910,6 +47934,10 @@
   "ZhaoKuoMother": {
     "title": "赵母 / Zhao Kuo's Mother",
     "url": "/wiki/entities/zhaokuomother/"
+  },
+  "ZhaoLi": {
+    "title": "赵利 / Zhao Li",
+    "url": "/wiki/entities/zhaoli/"
   },
   "ZhaoLiang": {
     "title": "赵良 / Zhao Liang",
@@ -51826,6 +51854,10 @@
   "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s": {
     "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
     "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+  },
+  "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9": {
+    "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

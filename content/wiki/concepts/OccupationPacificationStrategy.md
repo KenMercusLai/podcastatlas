@@ -2,7 +2,7 @@
 title: "Occupation Pacification Strategy / 占领区怀柔治理"
 type: concept
 tags: [statecraft, military-command, occupation, legitimacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
 last_updated: 2026-08-23
 ---
 
@@ -32,6 +32,8 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 
 [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] adds a post-crisis Zhao variant rather than a battlefield occupation. After [[ZhangAo|张敖]] loses the Zhao kingship and the conspiracy kills or discredits major Zhao ministers, [[LiuBang|刘邦]] praises and appoints [[TianShuHan|田叔]] and [[MengShuHan|孟叔]]. The host reads this as a way to soothe Zhao-region elites near the [[Xiongnu|匈奴]] frontier: pacification can require absorbing reputable local loyalists, not only relieving commoners or restraining troops.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] adds a rebellion-suppression Zhao variant. During [[ChenXiRebellion|陈豨之乱]], Liu Bang refuses to kill officials who failed to hold lost counties if they did not rebel, heavily rewards local Zhao strongmen, and honors [[LeYi|乐毅]]'s descendant [[LeShu|乐叔]]. Pacification here is not only kindness to conquered people; it is a fast political package for distinguishing weakness from treason, motivating local defense, and invoking respected regional memory.
+
 ## Key Claims
 - A conquered territory can be militarily taken but politically unsecured.
 - Harsh assault on the last holdouts can destabilize already captured places.
@@ -47,8 +49,10 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 
 - Hanji 157 part 2 adds that pacification can be a bridge between one battle and the next diplomatic move: a quiet rear makes intimidation of neighboring states more believable.
 - Hanji 180 part 2 adds that post-crisis pacification can use loyal local elites as stabilizers after a regional title change and treason case.
+- Hanji 182 adds that rebellion suppression can require selective non-punishment, outsized local rewards, and symbolic honors to rebuild cooperation in a suspect region.
 
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[LiuBang|刘邦]], [[ChenXiRebellion|陈豨之乱]], [[Handan|邯郸]], [[LeYi|乐毅]], and [[LeShu|乐叔]] - Zhao-region suppression through non-punishment, local rewards, and symbolic honor.
 - [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[TianShuHan|田叔]], [[MengShuHan|孟叔]], [[ZhangAo|张敖]], [[LiuBang|刘邦]], and [[Xiongnu|匈奴]] - Zhao elite absorption after the kingship crisis.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[ZhaoState|赵国]], [[ZhangEr|张耳]], and [[VictoryDeterrenceDiplomacy|胜势威慑外交]] - post-Jingxing rest and people-pacification before envoy pressure on Yan and Qi.
 - [[LeYi|乐毅]], [[YanState|燕国]], and [[QiState|齐国]] - commander, occupying power, and conquered territory.

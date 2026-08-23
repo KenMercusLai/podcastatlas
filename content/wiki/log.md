@@ -10445,3 +10445,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint; report printed in session, not saved to lint-report.md.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）
+
+Added source page for Hanji 182: Chen Xi's frontier appointment, Han Xin's inside-outside rebellion proposal, Zhou Chang's warning, Liu Bang's investigation, Liu Taigong funeral summons, Chen Xi's self-declared Dai kingship, the Wang Huang / Manqiu Chen / Han Wang Xin / Zhao Li rebel network, and Liu Bang's suppression through Handan judgment, selective non-punishment, local rewards, Le Shu symbolic pacification, and bribery of rebel generals. Created Chen Xi, Chen Xi Rebellion, Wang Huang, Manqiu Chen, Zhao Li, Le Shu, and Investigation-Driven Rebellion Escalation; updated overview, index, Han Xin, Liu Bang, Zhou Chang, Han Wang Xin, Dai Kingdom, Handan, Le Yi, Liu Taigong, Different-Surname King Suspicion, Frontier Vassal Containment, Occupation Pacification Strategy, and Covert Political Technology. No settled contradiction found; Han Xin's later conspiracy is recorded as a post-demotion stage rather than a contradiction with earlier refusal-to-betray episodes, and Xiao He's promised role remains pending for the sequel.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint; report printed in session, not saved to lint-report.md.

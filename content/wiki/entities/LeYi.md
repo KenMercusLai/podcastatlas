@@ -2,8 +2,8 @@
 title: "乐毅 / Le Yi"
 type: entity
 tags: [person, general, yan-state, zhao-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2]
+last_updated: 2026-08-23
 ---
 
 # 乐毅 / Le Yi
@@ -30,7 +30,10 @@ In the source, Le Yi is less a complete biography than the strongest proof that 
 
 The same source adds two biographical edges. It says Le Yi had once served [[ZhaoWulingwang|赵武灵王]] and left Zhao after the [[ShaqiuCrisis|Shaqiu crisis]], making his later return to Zhao part of [[WarringStatesCareeristMobility|Warring States careerist mobility]] rather than a simple defection. It also records the post-letter settlement: [[LeXian|乐贤]] inherits the Changguo Jun title in Yan, Le Yi is enfeoffed at Guanjin with the title Wangzhu Jun in Zhao, and he dies well after achievements that could have made him politically unusable.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] adds Le Yi's early Han symbolic afterlife. During [[LiuBang|刘邦]]'s campaign against [[ChenXi|陈豨]], Liu Bang searches for Le Yi's descendant [[LeShu|乐叔]], grants him Lecheng Jun status, and enfeoffs him at Yuexiang. The source uses Le Yi's memory as Zhao-region pacification capital, not as a new Warring States biography detail.
+
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[LeShu|乐叔]], [[LiuBang|刘邦]], [[ChenXiRebellion|陈豨之乱]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - descendant honor as Zhao-region symbolic pacification.
 - [[YanZhaowang|燕昭王]] and [[YanState|燕国]] - ruler and receiving state.
 - [[GuoWeiWarringStates|郭隗]] - adviser whose treatment signals Yan's seriousness.
 - [[JuXin|剧辛]] - fellow Zhao-origin talent entering Yan.
