@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6820
+wiki_total_pages: 6825
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "Beimin"
     title: "北明 / 北民"
     url: "/wiki/entities/beimin/"
+  - key: "BeihaiCommandery"
+    title: "北海郡 / Beihai Commandery"
+    url: "/wiki/entities/beihaicommandery/"
   - key: "Banlatte"
     title: "半拿铁"
     url: "/wiki/entities/banlatte/"

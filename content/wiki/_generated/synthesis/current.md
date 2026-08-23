@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 2a27906f053abfb5431581a85b9be070e8f10bb3
+as_of_overview_commit: 39ad9ae8eeea6af2b497e2f98541830c3bcc354d
 summary: "The corpus maps durable capability through systems: governance, trust, distribution, verification, evidence, and human judgment across AI, markets, history, health, and work."
-episode_count: 1322
-source_count: 1322
-paragraph_count: 134
+episode_count: 1324
+source_count: 1324
+paragraph_count: 135
 topic_count: 8
 ---
 
@@ -19,9 +19,9 @@ topic_count: 8
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]].
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
+- The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship.
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
-- [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design.
 
@@ -49,7 +49,7 @@ The cultural sources use literature, folklore, games, and media forms as tools f
 
 ### Governance and Institutions
 
-Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1010 now adds Liu Biao's defensive Jingzhou branch: mourning-framed absorption, elite reassurance, refugee-friendly local order, and ritual restraint can preserve a region, but Jia Xu's assessment keeps that capacity bounded by slow change-reading and limited expansion ability. Hanji 1011 adds the pre-Wancheng borrowed-knife branch: talent without survival caution becomes removable when reputation protection lets violence be delegated through other actors. Hanji 1012-1013 define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
+Governance translates power into durable systems: conquest becomes founding order, legal doctrine becomes administration, title claims become legitimacy tests, public symbols become authority, market behavior becomes rule-bound information, and trust becomes a governing asset. Hanji 1007 adds Kong Rong's Beihai failure, where lineage, literary fame, scholarly courtesy, and honored advisers do not become troops, grain, strategic alignment, or safe feedback. The later Hanji 1010-1020 branch keeps widening that problem through Liu Biao's bounded defensive order, Mi Heng's delegated removal, Wancheng command exposure, household settlement, strategic sequencing, coalition control, title legitimacy, interest reading, and talent retention.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "adf00627d5be4cfb272de11fb766c9f52649da45289369bf2b3b806c0a8feba6",
       "f1c4fde4377cc40cb30fc15ef315b7b3f66de1c57a811261f4eb8a28081685a8",
       "36295a7f803925f6d35a42dfb314e41680d8a568745b2c06627b3e1dd2e192b3",
       "e62054037194f29da3543f167e9eb6961031d6f82634bee7c638837ec3b725c4",
@@ -136,11 +137,41 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 134
+    "paragraph_count": 135
   },
-  "overview_commit": "4f7b8fe16dfafda1c43b9437a3fe3ecc6dcb8c91",
-  "overview_digest": "dd98ad20f9f12e98c94c0bd6903a62420956b8698048c10f61668f16649560fa",
+  "overview_commit": "39ad9ae8eeea6af2b497e2f98541830c3bcc354d",
+  "overview_digest": "6154f03bca68629d4c8a6f915bf36aa5b6c941041dfdf3785eccde5576ceebb7",
   "paragraphs": [
+    {
+      "id": "adf00627d5be4cfb272de11fb766c9f52649da45289369bf2b3b806c0a8feba6",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the immediate prelude to [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]]. It opens with [[WhiteBearEffect|白熊效应]] and the host's \"转移、替代、升华\" response, then turns [[KongRong|孔融]]'s [[BeihaiCommandery|北海郡]] governorship into [[PrestigeCapacityGap|名望能力落差]]: lineage from [[Confucius|孔子]], childhood fame, literary status, and respect for [[ZhengXuan|郑玄]] do not become troops, grain, strategic alignment, or safe advice channels. [[ZuoChengzu|左承祖]] reads the field realistically by urging dependence on a stronger power such as [[YuanShao|袁绍]], [[CaoCao|曹操]], or [[GongsunZan|公孙瓒]], but Kong Rong kills him, [[LiuYixun|刘义逊]] leaves, and [[YuanTan|袁谭]] later takes Beihai. This extends [[XingshiqingStrategicAssessment|行势情战略评估]], [[TalentAsStateTreasure|以贤臣为宝]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[CourtFeedbackCollapse|君臣反馈失灵]] without settling any new contradiction.",
+      "topic_scores": {
+        "governance-and-institutions": 3
+      },
+      "wikilinks": [
+        "BeihaiCommandery",
+        "CaoCao",
+        "Confucius",
+        "CourtFeedbackCollapse",
+        "GongsunZan",
+        "KongRong",
+        "LiuYixun",
+        "PoliticalSurvivalFirst",
+        "PrestigeCapacityGap",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAsStateTreasure",
+        "WhiteBearEffect",
+        "XingshiqingStrategicAssessment",
+        "YuanShao",
+        "YuanTan",
+        "ZhengXuan",
+        "ZuoChengzu",
+        "zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt",
+        "zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k"
+      ]
+    },
     {
       "id": "f1c4fde4377cc40cb30fc15ef315b7b3f66de1c57a811261f4eb8a28081685a8",
       "primary_topic": "business-and-markets",

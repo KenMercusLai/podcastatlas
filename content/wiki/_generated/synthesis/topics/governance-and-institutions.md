@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: c18c64d1b1c1d285d7346c5a519539e98f491c98
-input_digest: 666544cc7990b3d96ff14f171894d19f40c053b54bc9e888b30e972cb4a8b864
+as_of_overview_commit: 39ad9ae8eeea6af2b497e2f98541830c3bcc354d
+input_digest: 4746bd4bdaa43c469d3afc8b419fcf15e01cdaa09ec91464f19b53bfd0517ccb
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1010 now adds Liu Biao's defensive Jingzhou branch: mourning-framed absorption, elite reassurance, refugee-friendly local order, and ritual restraint can preserve a region, but Jia Xu's assessment keeps that capacity bounded by slow change-reading and limited expansion ability. Hanji 1011 adds the pre-Wancheng borrowed-knife branch: talent without survival caution becomes removable when reputation protection lets violence be delegated through other actors. Hanji 1012-1013 define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
+Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1007 now adds Kong Rong's Beihai branch: lineage, literary fame, scholarly courtesy, and honored advisers fail as governance when they do not become troops, grain, strategic alignment, or safe feedback. Hanji 1010-1011 then add Liu Biao's defensive Jingzhou capacity and Mi Heng's borrowed-knife removal, while Hanji 1012-1020 widen the late-Han branch into Wancheng command exposure, household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, interest reading, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
 
 ## Cross-source Findings
 
@@ -128,6 +128,17 @@ Trust and mission are governance assets only when protected by structures: custo
 **Qualifications:**
 
 - The claim joins older ownership structures, AI governance, operating culture, and founder-brand cases under the narrower question of how trust survives pressure.
+
+### Late Han Prestige Without Capacity Collapses Advice
+
+Hanji 1007 adds a late-Han local-governance failure: [[KongRong]]'s lineage, literary fame, and respect for [[ZhengXuan]] do not become troops, grain, strategic alignment, or safe advice channels in [[BeihaiCommandery]], so killing [[ZuoChengzu]] and losing [[LiuYixun]] leaves Beihai exposed to [[YuanTan]] despite Kong's prestige.
+
+**Evidence:** [[KongRong]], [[ZhengXuan]], [[BeihaiCommandery]], [[ZuoChengzu]], [[LiuYixun]], [[YuanTan]], [[PrestigeCapacityGap]], [[XingshiqingStrategicAssessment]], [[TalentAsStateTreasure]], [[PoliticalSurvivalFirst]], [[CourtFeedbackCollapse]], [[WhiteBearEffect]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1007's reading of Kong Rong's Beihai governorship.
+- The episode's white-bear framing is treated as an opening psychological analogy, not as independent evidence for the historical Beihai events.
 
 ### Late Han Defensive Governance Has Strategic Ceiling
 

@@ -10127,6 +10127,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！
+
+Added source page for Hanji 1007: the white-bear thought-suppression opening, Kong Rong's Beihai governorship as a prestige-capacity gap, Zheng Xuan as scholarly prestige, Zuo Chengzu's advice to rely on a stronger power, Liu Yixun's departure after Zuo is killed, and Yuan Tan's attack on Beihai. Created Yuan Tan, Zheng Xuan, Zuo Chengzu, Liu Yixun, Beihai Commandery, White Bear Effect, and Prestige-Capacity Gap; updated overview, index, Kong Rong, Xingshiqing Strategic Assessment, Talent as State Treasure, Political Survival First, and Court Feedback Collapse. No settled contradiction found; the psychology frame and Kong Rong character diagnosis remain source-scoped.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴
 
 Added source page for Hanji 191: Lu Wan's shift from Liu Bang's most trusted Yan king into covert support for prolonging Chen Xi through Zhang Sheng, Fan Qi, Zang Yan, and Xiongnu channels; Liu Bang's summons, Shen Yiji/Zhao Yao investigation, Fan Kuai campaign, and pardon/rank edict separating Yan officials and people from Lu Wan; and the source-scoped South Sea king note after Zhao Tuo's Nanyue recognition. Created Zhang Sheng (Western Han envoy), Fan Qi (Lu Wan envoy), and Zang Yan; updated overview, index, Lu Wan, Zang Tu, Yan State, Xiongnu, Chen Xi, Chen Xi Rebellion, Fan Kuai, Liu Bang, Lu Zhi, Shen Yiji, Zhao Yao, Zhao Tuo, Nanyue, Nanhai Commandery, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, Political Surrender Cascade, Frontier Vassal Containment, and Recognition-Backed Frontier Diplomacy. No settled contradiction found; the source preserves the existing Chen Xi death-attribution conflict and treats the South Sea king notice as a nominal boundary condition rather than proven Nanhai control.
@@ -10633,6 +10637,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？
 
 Added source page for Hanji 1008: Cao Cao's late-Han屯田制 as an answer to war-driven grain collapse, Zao Zhi's proposal, Ren Jun's implementation role around Xudu, and Lü Bu's辕门射戟 mediation between Yuan Shu's Ji Ling and Liu Bei. Created Zao Zhi, Ren Jun, Ji Ling, Xudu, Tuntian System, and Credible Force-Display Deterrence; updated overview, index, Cao Cao, Lü Bu, Liu Bei, Yuan Shu, Pei County/Xiaopei, War Cost Tempo Discipline, and Wartime Agricultural Labor Collapse. No settled contradiction found; kept the source's numerical conversions, archery estimates, and modern deterrence analogy source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

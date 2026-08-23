@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！](sources/zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt.md) — 芮淇讲透资治通鉴 episode on Kong Rong's Beihai failure, Zuo Chengzu's killed alliance advice, Liu Yixun's departure, Yuan Tan's attack, and the white-bear psychology opening.
 - [《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？](sources/zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k.md) — 芮淇讲透资治通鉴 episode on Cao Cao's屯田制 as late-Han agricultural logistics, Zao Zhi and Ren Jun's implementation around Xudu, and Lü Bu's辕门射戟 mediation between Yuan Shu's Ji Ling and Liu Bei.
 - [《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？](sources/zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc.md) — 芮淇讲透资治通鉴 episode on Lü Bu attacking Liu Bei after his force grows, Liu Bei fleeing to Cao Cao, Guo Jia's advice not to kill a shelter-seeking hero, and Yuan Huan's refusal to abuse Liu Bei for Lü Bu.
 - [《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？](sources/zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd.md) — 芮淇讲透资治通鉴 episode on Liu Biao's 196 CE absorption of Zhang Ji's remnants after Rangcheng, Jia Xu's move from Duan Wei to Zhang Xiu, and Liu Biao as a capable defensive Jingzhou governor with a strategic ceiling.
@@ -1331,6 +1332,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao-side late-Han actor whose early Qingzhou victories include taking Beihai from Kong Rong, before the source warns that pride and poor companions erode reputation.
+- [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
+- [左承祖 / Zuo Chengzu](entities/ZuoChengzu.md) — Beihai adviser whose realistic advice to rely on a stronger power is rejected and punished by Kong Rong.
+- [刘义逊 / Liu Yixun](entities/LiuYixun.md) — Respected Beihai guest who leaves after Kong Rong kills Zuo Chengzu, marking the wider collapse of safe advice.
+- [北海郡 / Beihai Commandery](entities/BeihaiCommandery.md) — Late-Han commandery where Kong Rong's prestige, weak capacity, killed advice, and Yuan Tan's attack converge.
 - [袁涣 / Yuan Huan (late Han)](entities/YuanHuanLateHan.md) — Late-Han official who refuses Lü Bu's demand to write an abusive letter against Liu Bei, blocking a moral rationalization of betrayal.
 - [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
 - [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general whose suspicious courtesy toward Jia Xu makes him a survival-risk contrast before Jia Xu joins Zhang Xiu.
@@ -1393,7 +1399,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.
 - [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose Yuan Shu marriage tie leads to a politically risky arrest and release under Cao Cao.
 - [杨修 / Yang Xiu](entities/YangXiu.md) — Yang Biao's son and Yuan Shu marriage link in Hanji 1020's court-risk branch.
-- [孔融 / Kong Rong](entities/KongRong.md) — Old-Han voice whose Hanji 1016 appointment mission to Yuan Shao and Hanji 1020 challenge over Yang Biao both show court-order legitimacy pressure.
+- [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose Hanji 1007 Beihai failure, Hanji 1011 Mi Heng recommendation, Hanji 1016 Yuan Shao mission, and Hanji 1020 Yang Biao challenge show prestige, advice, and legitimacy pressure.
 - [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official who joins Kong Rong in warning against torturing Yang Biao.
 - [满宠 / Man Chong](entities/ManChong.md) — Xudu official whose interrogation report gives Cao Cao a release path in the Yang Biao case.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
@@ -8155,6 +8161,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
+- [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Hanji 1008 concept for Cao Cao's state-directed agricultural logistics, turning displaced labor, land, offices, and storage into campaign grain capacity.
 - [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Hanji 1008辕门射戟 pattern where a bounded public display of force makes rival parties believe intervention is credible enough to withdraw.
 - [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.
@@ -8225,7 +8233,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, anger, social circles, and heart-field conduct.
 - [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, relationship influence, attraction, interference, and virtue-practice-based fate change.
 - [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
-- [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, legitimacy, geography, situational timing, actor commitments, alliance incentives, local-governance ceilings, and historical-fit limits.
+- [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, legitimacy, geography, situational timing, actor commitments, alliance incentives, local-capacity limits, and historical-fit limits.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.
@@ -8246,7 +8254,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
-- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, host-risk reading, motive-reading, maneuvering room, staged alignment, alliance blocking, and factional timing as core political disciplines in lethal politics.
+- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, host-risk reading, motive-reading, maneuvering room, staged alignment, alliance blocking, adviser exit, and factional timing as core political disciplines in lethal politics.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.
 - [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors and sustaining that signal through insider backlash.
@@ -8634,7 +8642,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.
 - [Allusive Remonstrance / 隐语进谏](concepts/AllusiveRemonstrance.md) — Indirect criticism pattern in which Chunyu Kun uses a silent-bird riddle to reach Qi Wei Wang.
 - [Poetry As Elite Political Language / 诗经作为贵族政治语言](concepts/PoetryAsElitePoliticalLanguage.md) — Pre-Qin elite communication pattern where Shijing fluency lets sensitive political messages move through shared poetic code.
-- [Talent as State Treasure / 以贤臣为宝](concepts/TalentAsStateTreasure.md) — Ruler-evaluation frame where officials who create security, order, and population confidence outrank display wealth, and ignored capable people signal leadership failure.
+- [Talent as State Treasure / 以贤臣为宝](concepts/TalentAsStateTreasure.md) — Ruler-evaluation frame where officials who create security, order, correction, and population confidence outrank display wealth, and ignored capable people signal leadership failure.
 - [Qi Wei Wang Political Turnaround / 齐威王一鸣惊人式转向](concepts/QiWeiwangPoliticalTurnaround.md) — Governance pattern linking the "一鸣惊人" answer to audits, military recovery, and possible strategic feigning.
 - [Wei Great Wall Anti-Qin Defense / 魏长城防秦](concepts/WeiGreatWallAntiQinDefense.md) — Wei's defensive-wall response to visible Qin pressure in the 358 BCE West Mountain context.
 - [Warring States Marriage Diplomacy / 战国联姻外交](concepts/WarringStatesMarriageDiplomacy.md) — Ruling-house marriage as interstate diplomacy whose alliance value remains limited by state interests.
@@ -8665,7 +8673,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes or ungrounded scandal.
-- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where correction exists but is filtered, punished, ignored, or overridden by ruler self-certainty, pride, intimacy, or suspicion.
+- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where correction exists but is filtered, punished, ignored, driven away, or overridden by ruler self-certainty, pride, intimacy, or suspicion.
 - [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where state-strengthening reform creates concentrated resistance, from violent backlash to ritual-identity opposition and managed compliance.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.

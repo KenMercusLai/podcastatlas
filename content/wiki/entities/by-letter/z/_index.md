@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6820
+wiki_total_pages: 6825
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "ZongFuli"
     title: "宗馥莉 / Zong Fuli"
     url: "/wiki/entities/zongfuli/"
+  - key: "ZuoChengzu"
+    title: "左承祖 / Zuo Chengzu"
+    url: "/wiki/entities/zuochengzu/"
   - key: "ZuoShuang"
     title: "左爽 / Zuo Shuang"
     url: "/wiki/entities/zuoshuang/"
@@ -869,6 +872,9 @@ wiki_pages:
   - key: "ZhengYou"
     title: "郑游"
     url: "/wiki/entities/zhengyou/"
+  - key: "ZhengXuan"
+    title: "郑玄 / Zheng Xuan"
+    url: "/wiki/entities/zhengxuan/"
   - key: "ZhengXugong"
     title: "郑繻公 / Duke Xu of Zheng"
     url: "/wiki/entities/zhengxugong/"

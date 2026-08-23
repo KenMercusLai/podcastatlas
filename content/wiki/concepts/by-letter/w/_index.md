@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5174
+wiki_total_pages: 5176
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "WhistleblowerLegalIntimidation"
     title: "Whistleblower Legal Intimidation"
     url: "/wiki/concepts/whistleblowerlegalintimidation/"
+  - key: "WhiteBearEffect"
+    title: "White Bear Effect / 白熊效应"
+    url: "/wiki/concepts/whitebeareffect/"
   - key: "WholeProcessCancerDocumentation"
     title: "Whole-Process Cancer Documentation"
     url: "/wiki/concepts/wholeprocesscancerdocumentation/"

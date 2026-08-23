@@ -2,7 +2,7 @@
 title: "Talent as State Treasure / 以贤臣为宝"
 type: concept
 tags: [statecraft, personnel, leadership, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]
+sources: [zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]
 last_updated: 2026-08-23
 ---
 
@@ -14,11 +14,14 @@ The concept extends the wiki's broader talent branch without duplicating [[Talen
 
 [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] adds a late-Han failure-and-contrast case. [[CaoCao|曹操]] treats [[HeKui|何夔]] as evidence that [[YuanShu|袁术]] cannot survive: a powerholder who cannot tolerate or use a capable official is losing state capacity even before the final military collapse. The same episode turns [[XuChu|许褚]] into a security-talent case, because Cao Cao recognizes that local armed protection can become a disciplined close-guard resource.
 
+[[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] adds an earlier late-Han negative case through [[KongRong|孔融]]. Kong Rong can honor [[ZhengXuan|郑玄]] and receive [[ZuoChengzu|左承祖]] and [[LiuYixun|刘义逊]] as respected guests, but he does not convert them into decision capacity. Once he kills Zuo Chengzu for realistic advice, the talent problem becomes institutional: Liu Yixun leaves, and the local order loses corrective capacity before [[YuanTan|袁谭]] attacks.
+
 [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] adds the negative internal-use version through [[GaoShun|高顺]]. Gao Shun has discipline, loyalty, and an effective "陷阵营," but [[LyuBu|吕布]] transfers his troops to [[WeiXuLateHan|魏续]] and ignores his warning about [[ZhangBaLateHan|张霸]]. Talent exists inside the organization, but the leader's trust pattern prevents it from becoming stable capacity.
 
 Hanji 1014 adds the comparative leadership version through [[TenVictoriesTenDefeats|十胜十败论]]. [[XunYu|荀彧]] and [[GuoJia|郭嘉]] present [[CaoCao|曹操]] as stronger than [[YuanShao|袁绍]] partly because he uses people by ability, resists suspicion, and attracts loyal, capable actors. Talent is treated as a strategic asset because it changes what a weaker army can plausibly attempt.
 
 ## Key Claims
+- Hanji 1007 adds that honoring famous or high-minded people is not enough; talent becomes state capacity only when corrective advice is usable and safe.
 - Hanji 1014 adds that talent value can appear in comparative leadership assessment before battle, not only after a regime visibly retains or loses a capable person.
 - Hanji 1020 adds that failure to retain capable people can be diagnostic evidence of regime decline, not merely a staffing weakness.
 - Hanji 1018 adds that retaining a capable person is not enough if the leader strips authority from the talent and ignores the talent's corrective advice.
@@ -34,5 +37,6 @@ Hanji 1014 adds the comparative leadership version through [[TenVictoriesTenDefe
 - [[QiWeiwangPoliticalTurnaround]] - earlier Qi Wei Wang branch that makes the talent valuation politically credible.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where personnel converts into state capacity.
 - [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]], [[YuanShu|袁术]], [[HeKui|何夔]], [[CaoCao|曹操]], and [[XuChu|许褚]] - late-Han talent-retention and security-capacity branch.
+- [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]], [[KongRong|孔融]], [[ZhengXuan|郑玄]], [[ZuoChengzu|左承祖]], and [[LiuYixun|刘义逊]] - honored prestige and guests failing to become decision capacity.
 - [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]], [[LyuBu|吕布]], [[GaoShun|高顺]], [[WeiXuLateHan|魏续]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - loyal capacity undermined by misallocated trust and ignored advice.
 - [[TenVictoriesTenDefeats|十胜十败论]], [[XunYu|荀彧]], [[GuoJia|郭嘉]], and [[YuanShao|袁绍]] - Hanji 1014 comparison where talent use becomes strategic advantage.
