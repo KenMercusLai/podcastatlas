@@ -1,4 +1,5 @@
 import importlib.util
+import gzip
 import json
 from pathlib import Path
 import tempfile
@@ -134,6 +135,32 @@ def synthesis_html_fragments(
 
 
 class VerifyPagesOutputTest(unittest.TestCase):
+    def test_pagefind_verifier_requires_current_synthesis_and_rejects_internal_routes(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(public / "pagefind/pagefind.en-us.pf_meta", "meta")
+            write(public / "pagefind/index/en-us_example.pf_index", "index")
+            fragment = public / "pagefind/fragment/en-us_example.pf_fragment"
+            fragment.parent.mkdir(parents=True, exist_ok=True)
+
+            fragment.write_bytes(gzip.compress(b"/wiki/current-synthesis/ compact synthesis"))
+            errors: list[str] = []
+            verifier.validate_pagefind_output(public, errors)
+            self.assertEqual([], errors)
+
+            fragment.write_bytes(gzip.compress(b"/wiki/concepts/example/"))
+            errors = []
+            verifier.validate_pagefind_output(public, errors)
+            self.assertIn("Current Synthesis is missing from Pagefind result fragments", errors)
+
+            fragment.write_bytes(
+                gzip.compress(b"/wiki/current-synthesis/ /wiki/_generated/synthesis/current/")
+            )
+            errors = []
+            verifier.validate_pagefind_output(public, errors)
+            self.assertIn("internal _generated URL found in Pagefind result fragments", errors)
+
     def test_current_synthesis_verifier_checks_snapshot_metadata_across_landing_and_detail(self):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
@@ -324,6 +351,9 @@ class VerifyPagesOutputTest(unittest.TestCase):
             ]
             for relative in expected_paths:
                 write(public / relative, "content")
+            (public / "pagefind/fragment/en-us_example.pf_fragment").write_bytes(
+                gzip.compress(b"/wiki/current-synthesis/ compact synthesis")
+            )
             metadata_pages = (
                 "index.html",
                 "episodes/index.html",
