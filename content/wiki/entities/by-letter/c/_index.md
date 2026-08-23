@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6763
+wiki_total_pages: 6773
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1370,6 +1370,9 @@ wiki_pages:
   - key: "ChenCountyChuHan"
     title: "陈县 / Chen County (Chu-Han)"
     url: "/wiki/entities/chencountychuhan/"
+  - key: "ChenStateLateHan"
+    title: "陈国 / Chen State (late Han)"
+    url: "/wiki/entities/chenstatelatehan/"
   - key: "ChenYing"
     title: "陈婴 / Chen Ying"
     url: "/wiki/entities/chenying/"
@@ -1400,6 +1403,9 @@ wiki_pages:
   - key: "ChenQiaoMutiny"
     title: "陈桥兵变 / Chenqiao Mutiny"
     url: "/wiki/entities/chenqiaomutiny/"
+  - key: "ChenYuWuCommandery"
+    title: "陈瑀 / Chen Yu (Wu commandery)"
+    url: "/wiki/entities/chenyuwucommandery/"
   - key: "ChenJiaWarringStates"
     title: "陈甲 / Chen Jia (Warring States)"
     url: "/wiki/entities/chenjiawarringstates/"

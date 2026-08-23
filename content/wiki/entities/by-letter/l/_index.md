@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6763
+wiki_total_pages: 6773
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "LiuRuyi"
     title: "刘如意 / Liu Ruyi"
     url: "/wiki/entities/liuruyi/"
+  - key: "LiuChongChenKing"
+    title: "刘宠 / Liu Chong (Chen king)"
+    url: "/wiki/entities/liuchongchenking/"
   - key: "LiuBinyan"
     title: "刘彬晏 / Liu Binyan"
     url: "/wiki/entities/liubinyan/"
@@ -803,6 +806,9 @@ wiki_pages:
   - key: "LuGongLiuBangFatherInLaw"
     title: "吕公 / Lu Gong"
     url: "/wiki/entities/lugongliubangfatherinlaw/"
+  - key: "LyuBu"
+    title: "吕布 / Lü Bu"
+    url: "/wiki/entities/lyubu/"
   - key: "LuZe"
     title: "吕泽 / Lu Ze"
     url: "/wiki/entities/luze/"
@@ -1124,6 +1130,9 @@ wiki_pages:
   - key: "LinghangzheRecoveryShip"
     title: "领航者号 Recovery Ship"
     url: "/wiki/entities/linghangzherecoveryship/"
+  - key: "LuoJun"
+    title: "骆俊 / Luo Jun"
+    url: "/wiki/entities/luojun/"
   - key: "LuoJiaQinCavalry"
     title: "骆甲 / Luo Jia"
     url: "/wiki/entities/luojiaqincavalry/"

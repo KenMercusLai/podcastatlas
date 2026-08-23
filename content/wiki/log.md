@@ -10541,3 +10541,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki lint
 
 Ran lint after health and identity validation passed. Health scanned 13,230 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scanned 13,230 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph bridge findings as final. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider model/API-key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生
+
+Added source page for Hanji 1019: Liu Chong and Luo Jun's Chen state order, Yuan Shu's failed grain demand and Zhang Kai's false-surrender assassination, Sun Ce's Cao-backed title/preemption branch, and the source-scoped lesson that "势" must be borrowed, built, and defended against. Created Liu Chong (Chen king), Luo Jun, Chen State (late Han), Sun Ce, Sun Jian (late Han), Chen Yu (Wu commandery), Zhang Kai (assassin), Lü Bu, Gao Shun, and Wei Xu (late Han); updated overview, index, Yuan Shu, Cao Cao, Kuaiji Commandery, Guiguzi, Xingshiqing Strategic Assessment, People-Based Political Security, Person-Dependent Governance Fragility, and Assassination Access Credential. No settled contradiction found; disambiguated late-Han Chen Yu from the existing Chu-Han Chen Yu page.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

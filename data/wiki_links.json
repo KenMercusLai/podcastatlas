@@ -8351,6 +8351,10 @@
     "title": "陈胜 / Chen Sheng",
     "url": "/wiki/entities/chensheng/"
   },
+  "ChenStateLateHan": {
+    "title": "陈国 / Chen State (late Han)",
+    "url": "/wiki/entities/chenstatelatehan/"
+  },
   "ChenTianqiao": {
     "title": "Chen Tianqiao / 陈天桥",
     "url": "/wiki/entities/chentianqiao/"
@@ -8378,6 +8382,10 @@
   "ChenYu": {
     "title": "陈馀 / Chen Yu",
     "url": "/wiki/entities/chenyu/"
+  },
+  "ChenYuWuCommandery": {
+    "title": "陈瑀 / Chen Yu (Wu commandery)",
+    "url": "/wiki/entities/chenyuwucommandery/"
   },
   "ChenZhePeter": {
     "title": "Chen Zhe Peter",
@@ -17019,6 +17027,10 @@
     "title": "高善文 / Gao Shanwen",
     "url": "/wiki/entities/gaoshanwen/"
   },
+  "GaoShun": {
+    "title": "高顺 / Gao Shun",
+    "url": "/wiki/entities/gaoshun/"
+  },
   "GaoXinWarringStates": {
     "title": "高信 / Gao Xin (Warring States)",
     "url": "/wiki/entities/gaoxinwarringstates/"
@@ -25559,6 +25571,10 @@
     "title": "刘诚",
     "url": "/wiki/entities/liucheng/"
   },
+  "LiuChongChenKing": {
+    "title": "刘宠 / Liu Chong (Chen king)",
+    "url": "/wiki/entities/liuchongchenking/"
+  },
   "LiuDong": {
     "title": "刘东",
     "url": "/wiki/entities/liudong/"
@@ -26451,6 +26467,10 @@
     "title": "骆甲 / Luo Jia",
     "url": "/wiki/entities/luojiaqincavalry/"
   },
+  "LuoJun": {
+    "title": "骆俊 / Luo Jun",
+    "url": "/wiki/entities/luojun/"
+  },
   "LuoQianqian": {
     "title": "Luo Qianqian / 雒芊芊",
     "url": "/wiki/entities/luoqianqian/"
@@ -26534,6 +26554,10 @@
   "Lynx": {
     "title": "Lynx / 猞猁",
     "url": "/wiki/entities/lynx/"
+  },
+  "LyuBu": {
+    "title": "吕布 / Lü Bu",
+    "url": "/wiki/entities/lyubu/"
   },
   "MAGA": {
     "title": "MAGA / Make America Great Again",
@@ -40591,6 +40615,10 @@
     "title": "Sun Bum",
     "url": "/wiki/entities/sunbum/"
   },
+  "SunCe": {
+    "title": "孙策 / Sun Ce",
+    "url": "/wiki/entities/sunce/"
+  },
   "SunChoe": {
     "title": "Sun Choe",
     "url": "/wiki/entities/sunchoe/"
@@ -40602,6 +40630,10 @@
   "SunJian": {
     "title": "Sun Jian",
     "url": "/wiki/entities/sunjian/"
+  },
+  "SunJianLateHan": {
+    "title": "孙坚 / Sun Jian (late Han)",
+    "url": "/wiki/entities/sunjianlatehan/"
   },
   "SunRuoxi": {
     "title": "孙若曦 / Sun Ruoxi",
@@ -45059,6 +45091,10 @@
     "title": "魏小康 / Wei Xiaokang",
     "url": "/wiki/entities/weixiaokang/"
   },
+  "WeiXuLateHan": {
+    "title": "魏续 / Wei Xu (late Han)",
+    "url": "/wiki/entities/weixulatehan/"
+  },
   "WeiZexiIncident": {
     "title": "魏则西事件",
     "url": "/wiki/concepts/weizexiincident/"
@@ -47770,6 +47806,10 @@
   "ZhangJintao": {
     "title": "张金涛 / Zhang Jintao",
     "url": "/wiki/entities/zhangjintao/"
+  },
+  "ZhangKaiAssassin": {
+    "title": "张闿 / Zhang Kai (assassin)",
+    "url": "/wiki/entities/zhangkaiassassin/"
   },
   "ZhangKaidi": {
     "title": "张开地 / Zhang Kaidi",
@@ -51698,6 +51738,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio": {
+    "title": "《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio/"
   },
   "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0": {
     "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",

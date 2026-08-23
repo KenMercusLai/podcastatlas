@@ -50,8 +50,11 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 
 [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] adds a late-Han court and local-protection version. [[HeKui|何夔]] says [[YuanShu|袁术]] cannot gain popular support because he lacks trust, while [[XuChu|许褚]] shows the micro-level opposite: in a violent countryside, local households attach to someone who can actually protect them. The [[YangBiao|杨彪]] case adds a court version, because [[ManChong|满宠]] warns [[CaoCao|曹操]] that punishing a famous old minister without proof would lose public confidence.
 
+[[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] adds a polity-scale late-Han version through [[ChenStateLateHan|陈国]]. [[LiuChongChenKing|刘宠]]'s military protection and [[LuoJun|骆俊]]'s civil administration make Chen attractive to displaced people after disorder; popular movement toward Chen is therefore evidence of protection capacity. The same case also shows the limit: people-based security can make a local order valuable, but it does not by itself protect the leadership core from [[YuanShu|袁术]] and [[ZhangKaiAssassin|张闿]].
+
 ## Key Claims
 - Hanji 1020 adds that popular support can appear as trust in a ruler's credibility, dependence on local protection, or public confidence in high-profile court procedure.
+- Hanji 1019 adds that a whole local polity can become a refuge when military defense and civil administration make people safer than the surrounding order.
 - Social support can be a security asset, not only a legitimacy ornament.
 - Heavy personal security can reveal political weakness by showing how much resentment surrounds the officeholder.
 - A ruler's backing can hide insecurity without resolving it.
@@ -100,3 +103,4 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[Xianyang|咸阳]], [[ZiyingQin|子婴]], [[HanSheng|韩生]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - capital destruction, surrendered-ruler killing, and feedback collapse after victory.
 - [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]], [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]], [[XiangYu|项羽]], [[GaixiaBattle|垓下之战]], [[WujiangChuHan|乌江]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - "Heaven's will as people's will" interpretation after the farmer's misdirection, then the refusal to treat the loss as correctable.
 - [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]], [[YuanShu|袁术]], [[HeKui|何夔]], [[XuChu|许褚]], [[YangBiao|杨彪]], and [[ManChong|满宠]] - late-Han trust, local protection, and high-prestige prosecution branch.
+- [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]], [[ChenStateLateHan|陈国]], [[LiuChongChenKing|刘宠]], [[LuoJun|骆俊]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - late-Han refuge polity and leadership fragility branch.

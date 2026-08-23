@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生](sources/zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio.md) — 芮淇讲透资治通鉴 episode on Liu Chong and Luo Jun's Chen state order, Yuan Shu's grain-demand assassination through Zhang Kai, Sun Ce's title/preemption branch, and the source-scoped lesson about reading and defending against "势."
 - [《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？](sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's failed imperial momentum, He Kui's diagnosis, Xu Chu's absorption into Cao Cao's guard, and the Yang Biao case as a reputation-constrained prosecution.
 - [《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴](sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr.md) — 芮淇讲透资治通鉴 episode on Lu Wan's drift from Liu Bang's intimate Yan king into covert Chen Xi/Xiongnu delay, Liu Bang's investigation and Fan Kuai campaign, and the source-scoped South Sea king note after Zhao Tuo's Nanyue recognition.
 - [《资治通鉴·汉纪》189｜刘邦死前最后一搏](sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz.md) — 芮淇讲透资治通鉴 episode closing Liu Bang's final attempt to replace Liu Ying with Liu Ruyi through Zhang Liang's avoidance, Shusun Tong's remonstrance, Shangshan Sihao's support, and Qi Ji's exposed position after Ying Bu cleanup.
@@ -1319,6 +1320,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘宠 / Liu Chong (Chen king)](entities/LiuChongChenKing.md) — Late-Han Chen king whose military defense and death with Luo Jun anchor Hanji 1019's local-order fragility case.
+- [骆俊 / Luo Jun](entities/LuoJun.md) — Chen state chancellor whose civil governance pairs with Liu Chong's military capacity before Yuan Shu's assassination plot removes both.
+- [陈国 / Chen State (late Han)](entities/ChenStateLateHan.md) — Late-Han refuge polity made strong by Liu Chong and Luo Jun, then destabilized after Zhang Kai's false-surrender assassination.
+- [孙策 / Sun Ce](entities/SunCe.md) — Late-Han regional actor whose Cao-backed titles and preemption of Chen Yu form Hanji 1019's legitimacy and local-conflict branch.
+- [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Sun Ce's father, disambiguated from the modern researcher page, whose Wu Cheng marquis title is inherited in Hanji 1019.
+- [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
+- [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Yuan Shu's assassin who uses false surrender to kill Liu Chong and Luo Jun.
+- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader used by Hanji 1019 as a personnel-judgment failure around Gao Shun and Wei Xu.
+- [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate mishandled in Hanji 1019's opening leadership branch.
+- [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun in Hanji 1019.
 - [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder used by Hanji 1020 as the negative case for misreading momentum, breaking trust, and losing talent.
 - [何夔 / He Kui](entities/HeKui.md) — Late-Han official whose refusal of Yuan Shu and answer to Cao Cao diagnose Yuan Shu's political failure.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.

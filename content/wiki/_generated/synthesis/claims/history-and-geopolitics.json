@@ -1,6 +1,27 @@
 {
   "claims": [
     {
+      "global_candidate": false,
+      "id": "late-han-local-order-is-person-dependent",
+      "qualifications": [
+        "This claim is source-scoped to the Ruiqi Hanji 1019 narration of Chen state under Liu Chong and Luo Jun.",
+        "It treats Yuan Shu's attack as a decapitation of a specific leadership pair, not as proof that every local refuge regime must collapse."
+      ],
+      "statement": "[[ChenStateLateHan]] shows late-Han refuge capacity arising from paired military and civil governance under [[LiuChongChenKing]] and [[LuoJun]], while [[ZhangKaiAssassin]]'s false surrender for [[YuanShu]] shows how person-dependent order could be destroyed through access rather than open conquest.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ChenStateLateHan",
+        "LiuChongChenKing",
+        "LuoJun",
+        "YuanShu",
+        "ZhangKaiAssassin",
+        "AssassinationAccessCredential",
+        "PeopleBasedPoliticalSecurity",
+        "PersonDependentGovernanceFragility",
+        "XingshiqingStrategicAssessment"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "warring-states-power-was-built-through-enforceable-systems",
       "qualifications": [
@@ -35,6 +56,6 @@
       ]
     }
   ],
-  "summary": "The history-and-geopolitics input currently links two kinds of historical change: early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, while mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
+  "summary": "The history-and-geopolitics input currently links three kinds of historical change: late-Han local order can protect people yet remain exposed to leadership decapitation, early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
   "topic_id": "history-and-geopolitics"
 }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6763
+wiki_total_pages: 6773
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "ZhangRui"
     title: "张锐"
     url: "/wiki/entities/zhangrui/"
+  - key: "ZhangKaiAssassin"
+    title: "张闿 / Zhang Kai (assassin)"
+    url: "/wiki/entities/zhangkaiassassin/"
   - key: "ZhangKuo"
     title: "张阔 / Zhang Kuo"
     url: "/wiki/entities/zhangkuo/"

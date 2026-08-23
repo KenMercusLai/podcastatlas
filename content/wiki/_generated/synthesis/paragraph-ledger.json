@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "39b9b220c33ef0ac03b6eb5b92ce66403d711f2edbda663e9330b9b72575d56d",
       "2ecc88a24b9491ba3fd16fe9e877425b74656c3e235d3a14717161c531381460",
       "c9c7072ad97ee0426533028e642b2f74efcc6ef2e585f53c2802e650e500dba0",
       "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
@@ -125,11 +126,41 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 123
+    "paragraph_count": 124
   },
-  "overview_commit": "26c2138240498e9cacfa7f9bb622dc9aa201f673",
-  "overview_digest": "db44c335320ac20c4c5c3301ca60aa334e05a02969de0117f8d20e0401a3e2df",
+  "overview_commit": "3daec70c8387fdd6da8dc6237e3c9cc1108aac13",
+  "overview_digest": "eef3a936a8b05d2d33676f5ace41104669e4444f998e37884d03b392c4b28498",
   "paragraphs": [
+    {
+      "id": "39b9b220c33ef0ac03b6eb5b92ce66403d711f2edbda663e9330b9b72575d56d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the immediate lead-in to the late-Han [[YuanShu|袁术]] failure branch. [[LiuChongChenKing|刘宠]] and [[LuoJun|骆俊]] make [[ChenStateLateHan|陈国]] unusually safe through military defense and civil administration, drawing displaced people and troops after disorder, but that visible strength also makes Chen a grain target. When Yuan Shu's demand fails, [[ZhangKaiAssassin|张闿]] uses false surrender as [[AssassinationAccessCredential|刺杀接近凭证]] and kills both leaders, turning the Chen case into a bridge between [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]]. The same episode adds [[SunCe|孙策]]'s Cao-backed title package, [[ChenYuWuCommandery|陈瑀]]'s failed attack, and the opening [[LyuBu|吕布]] / [[GaoShun|高顺]] / [[WeiXuLateHan|魏续]] personnel lesson, while extending [[XingshiqingStrategicAssessment|行势情战略评估]] through the warning that \"势\" must also be defended against when an opponent is cornered.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AssassinationAccessCredential",
+        "ChenStateLateHan",
+        "ChenYuWuCommandery",
+        "GaoShun",
+        "LiuChongChenKing",
+        "LuoJun",
+        "LyuBu",
+        "PeopleBasedPoliticalSecurity",
+        "PersonDependentGovernanceFragility",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunCe",
+        "WeiXuLateHan",
+        "XingshiqingStrategicAssessment",
+        "YuanShu",
+        "ZhangKaiAssassin",
+        "zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio"
+      ]
+    },
     {
       "id": "2ecc88a24b9491ba3fd16fe9e877425b74656c3e235d3a14717161c531381460",
       "primary_topic": "governance-and-institutions",

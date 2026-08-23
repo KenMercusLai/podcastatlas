@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 8e9107e5071d03a866e47177f749ef14b088d452
-input_digest: 27fd904f4116c2ffdc6de6dcb94cfbca19ea5fb35e51c03e9b343c0e0c002cd2
+as_of_overview_commit: 3daec70c8387fdd6da8dc6237e3c9cc1108aac13
+input_digest: bbcc1cdb4a61775c2f929738db878d0b5167bcb3db4e3893ab17f3a7d8e9df89
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input currently links two kinds of historical change: early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, while mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input currently links three kinds of historical change: late-Han local order can protect people yet remain exposed to leadership decapitation, early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
+
+### Late Han Local Order Is Person Dependent
+
+[[ChenStateLateHan]] shows late-Han refuge capacity arising from paired military and civil governance under [[LiuChongChenKing]] and [[LuoJun]], while [[ZhangKaiAssassin]]'s false surrender for [[YuanShu]] shows how person-dependent order could be destroyed through access rather than open conquest.
+
+**Evidence:** [[ChenStateLateHan]], [[LiuChongChenKing]], [[LuoJun]], [[YuanShu]], [[ZhangKaiAssassin]], [[AssassinationAccessCredential]], [[PeopleBasedPoliticalSecurity]], [[PersonDependentGovernanceFragility]], [[XingshiqingStrategicAssessment]]
+
+**Qualifications:**
+
+- This claim is source-scoped to the Ruiqi Hanji 1019 narration of Chen state under Liu Chong and Luo Jun.
+- It treats Yuan Shu's attack as a decapitation of a specific leadership pair, not as proof that every local refuge regime must collapse.
 
 ### Warring States Power Was Built Through Enforceable Systems
 

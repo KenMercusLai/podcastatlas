@@ -2,8 +2,8 @@
 title: "Assassination Access Credential / 刺杀接近凭证"
 type: concept
 tags: [strategy, assassination, deception, diplomacy, warring-states]
-sources: [zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]
+last_updated: 2026-08-23
 ---
 
 # Assassination Access Credential / 刺杀接近凭证
@@ -18,6 +18,8 @@ The concept adds a practical layer to [[WeakStateAssassinationStrategy|弱国刺
 
 [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu]] shows the credential reaching its limit. The [[DuKangMap|督亢地图]] does bring Jing Ke close enough to reveal the dagger at the map's end, making [[TuqiongBijian|图穷匕见]] the moment when access turns into exposed violence. Yet the credential cannot compensate for team breakdown, a missed first strike, Ying Zheng's movement, or the court's eventual tactical advice.
 
+[[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] adds a late-Han false-surrender version. [[ZhangKaiAssassin|张闿]] does not use a diplomatic map or trophy; he uses the posture of surrender to approach [[LiuChongChenKing|刘宠]] and [[LuoJun|骆俊]] for [[YuanShu|袁术]]. The case broadens the concept from high-court envoy access to wartime local access, where accepting a surrender can itself become the credential that lowers guard.
+
 ## Key Claims
 - Close-range assassination is partly an access-design problem, not only a bravery or weapon problem.
 - Diplomatic gifts can function as tactical credentials when they satisfy what the target ruler most wants.
@@ -26,6 +28,7 @@ The concept adds a practical layer to [[WeakStateAssassinationStrategy|弱国刺
 - Credentials still require an interpreter or broker: in Qinji 115-1, Meng Jia's access turns the objects into a formal palace audience.
 - A credential can fail downstream even after it wins proximity if the mission team cannot hold together under court pressure.
 - Qinji 115-2 shows that access success and assassination success are separate thresholds: the map wins proximity but cannot guarantee control of the target.
+- Hanji 1019 adds that surrender posture can function as the credential; the receiving side's openness to defection becomes the attack surface.
 
 ## Connections
 - [[JingKe|荆轲]], [[FanWuji|樊无忌]], and [[DuKangMap|督亢地图]] - source case and access materials.
@@ -33,3 +36,4 @@ The concept adds a practical layer to [[WeakStateAssassinationStrategy|弱国刺
 - [[MengJia|蒙嘉]], [[Xianyang|咸阳]], [[XuFuren|徐夫人]], and [[QinWuyang|秦武阳]] - broker, palace setting, weapon, and assistant that matter once access is pursued.
 - [[TuqiongBijian|图穷匕见]] - reveal point where the credential's hidden violence becomes visible.
 - [[PoliticalAssassinationEthics|政治刺杀伦理]] and [[RetainerReciprocityEthic|士为知己者死]] - ethical frames around coercive access preparation.
+- [[ZhangKaiAssassin|张闿]], [[YuanShu|袁术]], [[LiuChongChenKing|刘宠]], [[LuoJun|骆俊]], and [[ChenStateLateHan|陈国]] - Hanji 1019 false-surrender access branch.

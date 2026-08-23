@@ -2,7 +2,7 @@
 title: "曹操 / Cao Cao"
 type: entity
 tags: [person, ruler, late-han, three-kingdoms, china]
-sources: [zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The host invokes Cao Cao's own self-justifying writing to make the point that wi
 
 This addition keeps Cao Cao double-edged. He is severe enough that He Kui fears humiliation and Yang Biao can be arrested under a thin accusation, but he is also shown adjusting when [[ManChong|满宠]] warns that punishment without evidence would damage popular confidence. In this source, Cao Cao's strength is not moral purity; it is the ability to identify talent, absorb force, and step back from a reputationally costly prosecution.
 
+[[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] adds the immediate setup to that Yuan Shu branch. Cao Cao uses court authorization to recognize [[SunCe|孙策]] with titles under [[EmperorXianOfHan|汉献帝]]'s name, trying to pull a strong regional actor into his orbit. The episode later has Cao Cao eastward against [[YuanShu|袁术]], defeating Qiao Rui's force after Yuan Shu abandons the army and retreats across the Huai River.
+
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] - Warring States figure compared with him.
 - [[CaoPi|曹丕]] - son whose later control over the Han court becomes the sequel in the episode's analogy.
@@ -28,3 +30,4 @@ This addition keeps Cao Cao double-edged. He is severe enough that He Kui fears 
 - [[LeYi|乐毅]], [[BaoYanHuiwangShu|《报燕惠王书》]], and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 reception branch for Le Yi's letter.
 - [[ZhangXiu|张绣]], [[DianWei|典韦]], [[CaoAng|曹昂]], and [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] - Qinji 131-2 Wancheng drinking-and-security branch.
 - [[YuanShu|袁术]], [[HeKui|何夔]], [[XuChu|许褚]], [[YangBiao|杨彪]], and [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]] - Hanji 1020 late-Han talent, force-absorption, and court-risk branch.
+- [[SunCe|孙策]], [[EmperorXianOfHan|汉献帝]], and [[KuaijiCommandery|会稽郡]] - Hanji 1019 court-title and late-Han regional alignment branch.
