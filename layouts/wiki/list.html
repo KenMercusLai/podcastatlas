@@ -164,10 +164,23 @@
       <p class="wiki-section-intro">Start with the current synthesis across podcast sources, then examine the questions where the evidence is still incomplete.</p>
       <div class="wiki-feature-grid">
         {{ with $currentSynthesis }}
-          <article class="wiki-feature">
+          <article class="wiki-feature current-synthesis-card" data-synthesis-source="{{ $currentSynthesis.Params.synthesis_source }}" data-summary="{{ $currentSynthesis.Params.summary }}" data-episode-count="{{ $currentSynthesis.Params.episode_count }}" data-source-count="{{ $currentSynthesis.Params.source_count }}">
             <span class="wiki-label">Living synthesis</span>
             <h3><a href="{{ .RelPermalink }}">Current Synthesis</a></h3>
-            <p>The atlas's evolving account of ideas and claims across all processed podcast sources.</p>
+            {{ with $currentSynthesis.Params.summary }}
+              <p class="wiki-feature-summary">{{ . }}</p>
+            {{ else }}
+              <p>A compact cross-source map of the atlas's current knowledge.</p>
+            {{ end }}
+            {{ with $currentSynthesis.Params.last_updated }}
+              <p class="wiki-feature-updated">Updated <time datetime="{{ . }}">{{ . | time.Format "January 2, 2006" }}</time></p>
+            {{ end }}
+            {{ with $currentSynthesis.Params.source_count }}
+              {{ $sourceCount := . }}
+              {{ with $currentSynthesis.Params.episode_count }}
+                <p class="wiki-feature-coverage">Based on {{ $sourceCount }} source notes from {{ . }} processed episodes</p>
+              {{ end }}
+            {{ end }}
           </article>
         {{ end }}
         {{ with $openQuestions }}

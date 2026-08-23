@@ -108,7 +108,57 @@ def valid_html(url, body="", schema_type=None, payload=None):
     )
 
 
+def synthesis_html_fragments(
+    summary="A compact cross-source knowledge map.",
+    updated="2026-08-23",
+    episodes="10",
+    sources="9",
+):
+    attrs = (
+        'data-synthesis-source="compact" '
+        f'data-summary="{summary}" data-episode-count="{episodes}" data-source-count="{sources}"'
+    )
+    detail = (
+        f'<article class="current-synthesis" {attrs}>'
+        f'<p class="synthesis-updated">Updated <time datetime="{updated}">{updated}</time></p>'
+        '<h2>Executive Summary</h2><p>Compact body.</p>'
+        '<h2>Synthesis by Domain</h2><p>Domain body.</p></article>'
+    )
+    card = (
+        f'<article class="wiki-feature current-synthesis-card" {attrs}>'
+        f'<p class="wiki-feature-summary">{summary}</p>'
+        f'<p class="wiki-feature-updated">Updated <time datetime="{updated}">{updated}</time></p>'
+        '</article>'
+    )
+    return detail, card
+
+
 class VerifyPagesOutputTest(unittest.TestCase):
+    def test_current_synthesis_verifier_checks_snapshot_metadata_across_landing_and_detail(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            detail, card = synthesis_html_fragments(summary="Example description")
+            write(
+                public / "wiki/current-synthesis/index.html",
+                valid_html("https://podcastatlas.ai/wiki/current-synthesis/", detail),
+            )
+            write(public / "wiki/index.html", valid_html("https://podcastatlas.ai/wiki/", card))
+            errors: list[str] = []
+            verifier.validate_current_synthesis(public, errors)
+            self.assertEqual([], errors)
+
+            _, mismatched_card = synthesis_html_fragments(
+                summary="Different summary", updated="2026-08-22", episodes="11", sources="9"
+            )
+            write(public / "wiki/index.html", valid_html("https://podcastatlas.ai/wiki/", mismatched_card))
+            errors = []
+            verifier.validate_current_synthesis(public, errors)
+
+        self.assertIn("Current Synthesis summary differs between landing and detail", errors)
+        self.assertIn("Current Synthesis episode-count differs between landing and detail", errors)
+        self.assertIn("Current Synthesis update date differs between landing and detail", errors)
+
     def test_rejects_generic_json_ld_on_semantic_detail_routes(self):
         verifier = load_verifier()
         cases = {
@@ -251,6 +301,7 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "tags/index.html",
                 "shows/index.html",
                 "wiki/index.html",
+                "wiki/current-synthesis/index.html",
                 "search/index.html",
                 "about/index.html",
                 "about/index.md",
@@ -279,6 +330,7 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "tags/index.html",
                 "shows/index.html",
                 "wiki/index.html",
+                "wiki/current-synthesis/index.html",
                 "search/index.html",
                 "about/index.html",
                 "methodology/index.html",
@@ -286,12 +338,17 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "episodes/episode.160/index.html",
                 "episodes/中文标题/index.html",
             )
+            synthesis_detail, synthesis_card = synthesis_html_fragments(summary="Example description")
             for relative in metadata_pages:
                 url = f"https://podcastatlas.ai/{relative.removesuffix('index.html')}"
                 if relative == "index.html":
                     body = "A living knowledge atlas synthesized from podcasts."
                 elif relative == "episodes/index.html":
                     body = episode_list_body(("example", "episode.160", "中文标题"))
+                elif relative == "wiki/index.html":
+                    body = synthesis_card
+                elif relative == "wiki/current-synthesis/index.html":
+                    body = synthesis_detail
                 else:
                     body = ""
                 write(public / relative, valid_html(url, body))

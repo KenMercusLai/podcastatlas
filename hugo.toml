@@ -4,7 +4,7 @@ title = 'Podcast Atlas'
 theme = 'hugo-xmin'
 enableRobotsTXT = true
 preview_urls = false
-ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$', '(^|/)content/wiki/overview\.md$']
+ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$', '(^|/)content/wiki/overview\.md$', '(^|/)content/wiki/_generated/']
 
 [pagination]
   pagerSize = 100

@@ -1,0 +1,45 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "perceived-authorship-shapes-trust",
+      "qualifications": [
+        "Acceptance is higher when AI is understood as assisting human-led work."
+      ],
+      "statement": "[[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "HumanAuthorshipPremium",
+        "AlgorithmAversion"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "risk-taking-needs-sized-exposure",
+      "qualifications": [
+        "Fractional sizing is emphasized because estimated probabilities and emotional tolerance are uncertain."
+      ],
+      "statement": "[[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "PositionSizing",
+        "KellyCriterion",
+        "AveragingDown"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "workplace-relationships-need-explicit-boundaries",
+      "qualifications": [
+        "The evidence is source-scoped to banking workplace discussions."
+      ],
+      "statement": "[[WorkplaceRelationshipBoundaries]] distinguishes professional cooperation from friendship and factional loyalty in office conflict.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "WorkplaceRelationshipBoundaries"
+      ]
+    }
+  ],
+  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, and risk discipline matter because confidence and convenience can hide fragile assumptions.",
+  "topic_id": "psychology-and-personal-development"
+}

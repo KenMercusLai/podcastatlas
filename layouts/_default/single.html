@@ -1,8 +1,23 @@
 {{ define "main" }}
   {{ if or (eq .Section "wiki") (eq .Type "wiki") }}
-    <article>
+    {{ if .Params.synthesis_source }}
+      <article class="current-synthesis" data-synthesis-source="{{ .Params.synthesis_source }}" data-summary="{{ .Params.summary }}" data-episode-count="{{ .Params.episode_count }}" data-source-count="{{ .Params.source_count }}">
+    {{ else }}
+      <article>
+    {{ end }}
       {{ if not (findRE `(?m)^#\s+` .RawContent 1) }}
         <h1>{{ .Title }}</h1>
+      {{ end }}
+      {{ if .Params.synthesis_source }}
+        {{ with .Params.last_updated }}
+          <p class="synthesis-updated">Updated <time datetime="{{ . }}">{{ . | time.Format "January 2, 2006" }}</time></p>
+        {{ end }}
+        {{ with .Params.source_count }}
+          {{ $sourceCount := . }}
+          {{ with $.Params.episode_count }}
+            <p class="current-synthesis-coverage">Coverage snapshot: {{ lang.FormatNumber 0 . }} processed episodes · {{ lang.FormatNumber 0 $sourceCount }} source notes</p>
+          {{ end }}
+        {{ end }}
       {{ end }}
       <div class="meta wiki-meta">
         {{ if eq .Params.type "source" }}

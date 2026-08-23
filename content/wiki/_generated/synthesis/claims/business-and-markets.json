@@ -1,0 +1,47 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "demand-needs-distribution-and-payment-proof",
+      "qualifications": [
+        "The exact proof differs across software, consumer goods, and regulated products."
+      ],
+      "statement": "[[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "CustomerPull",
+        "ProductLedWillingnessToPay",
+        "CPGDistribution"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "trust-is-an-operating-asset",
+      "qualifications": [
+        "Mission language without product performance or operating capacity is not sufficient."
+      ],
+      "statement": "A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the trust survives only when operating pace and delivery remain credible.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "SaaSTrustMoat",
+        "PurposeDrivenBusiness",
+        "SustainableGrowthPace"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "risk-discipline-matters-more-than-single-forecast",
+      "qualifications": [
+        "These sources do not establish one universally optimal portfolio or trading rule."
+      ],
+      "statement": "[[InvestmentRiskManagement]] and [[StopLossDiscipline]] treat uncertainty, position exposure, and exit rules as more reliable controls than confidence in one forecast.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "InvestmentRiskManagement",
+        "StopLossDiscipline"
+      ]
+    }
+  ],
+  "summary": "The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets.",
+  "topic_id": "business-and-markets"
+}

@@ -1,0 +1,47 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "workflow-integration-beats-capability-alone",
+      "qualifications": [
+        "The strongest evidence comes from software, enterprise deployment, and agent-product sources."
+      ],
+      "statement": "AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]].",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "ContextEngineering",
+        "AgentFacingInterfaces",
+        "ForwardDeployedEngineer"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "verification-and-permissions-remain-human-responsibilities",
+      "qualifications": [
+        "The appropriate boundary depends on task reversibility, data sensitivity, and the quality of observable feedback."
+      ],
+      "statement": "Greater agent autonomy increases the importance of [[AICodingVerification]], [[HumanJudgmentUnderAI]], and [[AgentPermissionBoundaries]] rather than removing human responsibility.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "AICodingVerification",
+        "HumanJudgmentUnderAI",
+        "AgentPermissionBoundaries"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "ai-product-economics-constrain-access",
+      "qualifications": [
+        "Pricing evidence is still concentrated in current consumer and developer-product examples."
+      ],
+      "statement": "[[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] make consumer AI access a product-design trade-off among free usage, paid tiers, distribution, and heavy-user cost.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "AIInferenceCostStructure",
+        "AISubscriptionEconomics"
+      ]
+    }
+  ],
+  "summary": "Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries.",
+  "topic_id": "ai-and-technology"
+}

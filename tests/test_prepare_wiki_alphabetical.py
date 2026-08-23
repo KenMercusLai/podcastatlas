@@ -41,6 +41,13 @@ class AlphabeticalBucketTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "digit or letter"):
             prepare.alphabetical_bucket("%_🤖")
 
+    def test_generated_synthesis_is_excluded_from_canonical_link_scan(self):
+        generated = prepare.WIKI_DIR / "_generated" / "synthesis" / "current.md"
+        canonical = prepare.WIKI_DIR / "concepts" / "Current.md"
+
+        self.assertTrue(prepare.skip_link_scan(generated))
+        self.assertFalse(prepare.skip_link_scan(canonical))
+
     def test_discovers_symbol_leading_pages_but_not_generated_section_indexes(self):
         self.assertTrue(prepare.is_canonical_page_path(Path("_OpenAI.md")))
         self.assertTrue(prepare.is_canonical_page_path(Path("#AI.md")))

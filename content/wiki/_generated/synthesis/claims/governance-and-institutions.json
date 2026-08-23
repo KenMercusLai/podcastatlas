@@ -1,0 +1,47 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "state-capacity-does-not-guarantee-political-security",
+      "qualifications": [
+        "The historical claim is source-scoped to the current Warring States material."
+      ],
+      "statement": "[[QinAdministrativeStandardization]] increased state capacity, but [[PeopleBasedPoliticalSecurity]] and [[PowerExitTrap]] show why administrative success did not guarantee security for the reformer.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "QinAdministrativeStandardization",
+        "PeopleBasedPoliticalSecurity",
+        "PowerExitTrap"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "private-and-ai-power-require-governance",
+      "qualifications": [
+        "The sources offer competing ownership and oversight mechanisms rather than one settled model."
+      ],
+      "statement": "[[PrivateRegulatoryPower]] and [[AIAlignmentGovernance]] show that governance questions arise inside firms and technical organizations as well as through public law.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "PrivateRegulatoryPower",
+        "AIAlignmentGovernance",
+        "FinancialGravity"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "safety-rules-carry-rights-tradeoffs",
+      "qualifications": [
+        "The balance between access restrictions, privacy reform, and product liability remains contested."
+      ],
+      "statement": "Rules intended to reduce platform harm must be evaluated alongside [[YouthOnlineSpeechRights]] and alternatives such as [[ComprehensiveConsumerDataPrivacy]].",
+      "status": "contested",
+      "supporting_wikilinks": [
+        "YouthOnlineSpeechRights",
+        "ComprehensiveConsumerDataPrivacy"
+      ]
+    }
+  ],
+  "summary": "Governance is presented as enforceable control over incentives, information, rights, and accountability; stronger institutional capacity can produce order while also creating backlash, concentrated power, or new legitimacy problems.",
+  "topic_id": "governance-and-institutions"
+}

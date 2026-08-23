@@ -1,0 +1,2936 @@
+{
+  "coverage": {
+    "assigned_paragraph_ids": [
+      "eeed228b443ab51eb6510a7e08942a965b7cc44aa817e1a025225acb1b2f77da",
+      "792bc6e294997222808f1676d0b67b792cfa97d896abe3f3e0075457d69dbf99",
+      "87c983a25af279b6675ac412cdb464d2757ecfe0fb5e3603ce9e67eb678a3620",
+      "6e00c628aaaa38f934b3488a910d4a30178ca20a9895c1d7d428733e4081c134",
+      "444a03d6a61c86f52167765f47c08f5b702b5c578a143be5229e174d05cf6b99",
+      "ac2137406338dfcfca5d3447e2a914134cf8b6722ef4e04fea5d73774b1708c0",
+      "9344098736f7d118be35278ab8cc0aa9769c387f8f8b2ab4a4791154502debe3",
+      "e05a8ec662580ac2916a4606ff0cd30e6ad9deeba65cb89a1b99fc59d46643b1",
+      "b894d2f242928c8ee408e0388b669058e1ed036817f1ef6e8197823aa1ef0c20",
+      "836d805c47e9ebed9ce4d986cfe9550341cc3b5f732e0ea2333904bad187428c",
+      "85b569f556a729fb66411cf361ad986d9f3168e760c0b55728f9e6bddea1afbd",
+      "6cbfbc18bfaf10393480bccc83233292873d9c750211c62fda4c3fd0f96bb524",
+      "2a6e349f1a6574007bb4465b192cefd50d33bb5c5dbcb9cf4fd5718f294b80c4",
+      "c92aff803104a476d44d17a2d086fc635e4d7f23cf6acca5413010ba2600c20a",
+      "7ed10819d5a5bdf4afe0c515f96909e0a7bb6d36ab1a55f895a4d13d8d12fbff",
+      "15f68f6f5300aa12e9649b327302eea2433688059d97fa601f8154888802a0a5",
+      "14a0cbca45b3ce5e036c8eaa5b536f8f92b44405c1b3fb0b2ad05772433c9f2c",
+      "825c124af0d4177538e0a2601f49055e98dc6d910550c419a62ca7bfa7e251e8",
+      "6d2ac8d89034f648bc018208e86ac6b0d0cb7d4fbdfb948abbd7d7359ede84c2",
+      "f57003238e7f2b72af65bae465473a1a950fd08ad9b22af47d50e28b6d5e4bea",
+      "4ecfbd6182c82e1283815f4ad6e1d05023f7e151bd7dd4dbb8772b881f4d7e8c",
+      "1750c0f120513aa9c80b94fa4cd7496ed7a06143d3046ea330094dbbc4f12f56",
+      "c6ed2408961e48b59681bd967e89d477cfa4a74de9ee78ae221026ca73620bb9",
+      "349d4a5566c345063a89f592368bc4c39a731df2915756fea9da602606475dba",
+      "0ea1c0cebd7d71170ec6032f3a45d8a0f3f22f5374e18dac62dc6fbd4205f57c",
+      "7b7f91674077540c697140dfeea7a0e81cfc3f7d2fda986cee110e13556ad8a2",
+      "ebe0972487094380b16fe4d2d21ce29ea273c14f0df643521c965c2e94b8ad03",
+      "79191dcb70010651bb514e2400f5e6fb37d49d527c2801b2cd2fae6cb1a1adb2",
+      "25521dbd547883abde832b086c6e8b00351b293d3c4e37314e2f1790736fde3a",
+      "860f6d5b66676081b26b799bef96f4b44d76cc755bf8531d4d39e7949f0cf63a",
+      "6e96111867cb00d782985bf768cfab2f7043d1804052b364a2a5b08c79bcabc1",
+      "ad03a5f16f938784e7e8a0d01387b3de5ead4b42c40ba950ba1eceda38e15384",
+      "549657c683c8f88c746c0a156f054ff22b4d87131fafa3431f919f00af3f269f",
+      "fdf1e1e37c97df6fd9e632806a8019bba92df1d15004d329e3b6ff14cda13380",
+      "4f1ae1f57713579d6857e84929b0f3cfeed28e78ab1b55c1e7dfb0ed3dcc9538",
+      "6f54967734b8a88829c8fcea180d262d7b13dce2295c56d59804c209378bd2bf",
+      "9d2468cb2e687611f35df5407722be9ce3fab23df121b54b5be641e3dda0df57",
+      "67b95ee222ba113a29522f7398607f47bc3b101a012caff65de7c8ed78e6f545",
+      "1208808a8d9541e8bf3a3ccb236570251a615ecd25a436e3fb3fdff265e2a387",
+      "7f59cd52b9e38560a3f86ca4e2b9d978c986599aad63f29ddac2f95f298b1222",
+      "fcd664ef64b4acc401055e841da7f5fa05aa2978853f210db6a841df3e7de483",
+      "4b6f82ece0945549202b33bbff831566d966b52ffaa40c6e5681d39c7eb6575b",
+      "24a16539c0598ab0a076d87ab55bffa6fc44baf27547691376b8160f39b0f320",
+      "8a3d150bd0d180ad26eb06f1ca3aaf0faa2505623ada1eac164be3e5d2532dd2",
+      "d2422c1bf8ad8b05efcd0411a594704105bf1b0e6593f5264266c31eb4de43e2",
+      "93e3ae9f477e755077d21f680162b41ec31e01771680baa2bf4cb6ca86b38c77",
+      "c65799c5172ba05d0b2426fd984802d42419defa34b4222c64467353c353041e",
+      "c83023efd45aebb3c38df1cdc56f2d502fc4d34e7342b6d41de22230f42a4a42",
+      "f43cf6073649074c1c49c1a12ebf6bc64853057525ae760a35f1da5b33c3dc1b",
+      "2704be0bcb00043413db828a723ce5efd1870773aa5ea61aca7297f87f183489",
+      "d2ce83a799430a79c03d73bc4253aaf99524fdcff29f93e988b0de629aea42f4",
+      "52bae82f223683bcb2cb7e30f4b92fcff5cd98f54eaa3a0239c085a9e59b2a89",
+      "6e016627e7cbccd69822bd22cc4090be855e4c52cc8b95495dd722dbcfe3252c",
+      "52715042e7599e6607cfddd94598362a82d529943016e3a53e511d2623e9d9c6",
+      "1a2e01212d3091d103ea8e7139c2d65e7585c640ba8c4b97b55ab7659521749f",
+      "2ac44564c51514aa7a3393577842c4f19e007d398966f97f481ae67c984c259d",
+      "ac8475229910ddcdf470b37bec17fa774b0604f82e2a4f1ec4217617c8241563",
+      "68fd3127057b7c3447e4ae70ded4f05212779473fa1f40a8ef30f7190e53816f",
+      "c6bf8425c5a0bb7bf5a623b4a199c295a6dec026dc9564326844e115e4752d9a",
+      "f611786b550081d94f1b86b6b3b85ee0b6eca9fd39985a94323d86ceb7c6cac2",
+      "215ef9c251ef6052a5f1d59ccaa118d8fb764568b55bb7823f51d7da6423cfb2",
+      "fc40068701aa86ce68184f5090c6d1674d29f55aa0313e2d36ef69602ffb8a02",
+      "a281f78abe175ac403d5de7cd9b84fe52243f3552bc88b63c7710c9ad318a8d3",
+      "c81cac1b955d29b2fcdbd70884d32c5370f7dc34dba118525b7d6ddce5d0302c",
+      "41092178006b2bf34507164b12d8d879c36bb3cb5f5ccdf46a7b4206a1ba1e53",
+      "330b5e1f4fe6fc3c97a56acb8c821df2d3875daf84bc2c1da71022066f2469c6",
+      "ffc573666862dcd2875a52249adf8ffe49169fb6c83e3e48f7edb53622e28f04",
+      "317e449895bd48ec58de5266d08a7e6fc4e742d773e1583c9bfd7b1f69eaec49",
+      "5f32aa9f664db977750ace9bcf2f08ca9ffa458d2228f4f55f916123dc05a31f",
+      "2244af2a56de3cca8ddf06f3cb786ad6a8164d192c2d6441cbab19e718e5e7f6",
+      "0d0852cb292f592ef772fce0493e140a9af1ca900c132b841fad7e1c50184843",
+      "f0e80eda5a9486a162f15edd77471fb1c0b453e229b88210a55b0fdf428eccd4",
+      "52d991e952ccfe3d7e532cf96f4f07630fd3bce222d87c2703f49910b14103a5",
+      "2e5b513dcdc3aff51365436c87b4b4c5415dc77ffadd7612b21971730b54bf20",
+      "34e8666631b913edf595541c10143e1734042d7bcdd1775b37d23c655dd9dd2c",
+      "b77a2238e9237a4ae21cb64d14d504dab107303436c022782520ca8c3b28118d",
+      "3388c4bc8e013733961074a1bf565ff7c822a9b53ad20ee10e612dd6c185800d",
+      "f25cc6eb8f3350925bcfe3829f31a0c7226f93be441604a1fb7060e5a5490539",
+      "4ac05dd03640e1697eef383173843af55b92751790b2a236229a5691b20d0f09",
+      "9262b27e96fe36ca64b0ea156a44e15cfe2f1ca3d306abe592aeab40ef9ffad9",
+      "3d0496e30a483b2fd78706892603f1c57f02aa75800832d5f282a8fc4267b1de",
+      "2a4b14020eebeac8958aa3dfb1fe76f39d0f63e6ed84cc55d80151b1b862f13d",
+      "57330ede9aeb197a6e7eea2f9713a9547248e11c0797cd5529852800c8a9164e",
+      "8110fb2b43f34c1f8d6459c317f6097808b3b71e2e91a93f86029b236b2d4346",
+      "7ae984347442592b780585e4d35e1d92adf0a6f34ad57818033d57c05712ae00",
+      "b2db4ab93a7ddc6f5087b46032a3117a92437c116d0e7742d5d45b7f0783d176",
+      "86e7a52f30dce8e0968dd3ad3227e2671a1b1f60bb9aafd41523c932020a3ae5",
+      "1bca33302181e162ad304789966655ec9faad6fc8488501c32caca612d13bf56",
+      "30bc949b27d29aecd5ee00ccb27e58521b08525efbf4b45b1ec0540bdf1c5294",
+      "c9d0313b6667f687fe9773c7c74d53dca16efffb0dc77112a52aa01e70295401",
+      "ff07036e82db26508c7e3db5d63d6a53a496f09ab7da2e2cee2775e0faa6892b",
+      "617401277f9d2ff3c8dce3b1b5657770620bed2c412b605077c02394975831de",
+      "366116ce6f7bc54bb8247884accda0d3e96fc6ac7c08eb5fcd46e84d944980e9",
+      "10025ccf89890f0adeb971f713509dc75f624bee5e546a2fc3e9a67268ea3963",
+      "6f9d8e343ce9840f77f6c4307c6df054b9955f54efd5e39cbea4d7998b8c1772",
+      "dfde1ed71301833f9974ed6372aed91a1fa0d6d30afa096be97ebb99705fca5f",
+      "b053ade2f9fbf6bbcbd03aa7b42018b0c3dba6800555441a0eecce1f9165aea5",
+      "420c2d23e30812a99f64d960ad4b099adaa2f172df3a630206510a4c548b3eba",
+      "324e69e693ba4d8608748e7a486133ec03c6c94553e7a73fb160c8b1171459cd",
+      "7e8568b81ab3e10fee25efc6f471bdc71969c4cb407ecad0ee1dfea6c4c04dc4",
+      "e4206f4ff68ae78175deba2a380ca4113cb76a7bdefa42b94046340016a0bc7a",
+      "51c2b8419c2d2f0885b415d1f7a1c5ff4c2401cbca76ce817204de1c8ea38c48",
+      "1f2bec291ccdeddd1ee51418d6652299ae848a0b340dc744dafead3a2a77e96a",
+      "681b024c92800794dd2908fdb7d7f07c55620f3b3674a90d2f407fb49e74db92",
+      "4ad857015ce7b01007cf4058def2af173a516ee04eeb000de94edf7b898bb58a",
+      "47547b45c81e281091ecdf2eb59978225605d5fb1097c6a104ce17586b1a5a6b",
+      "058d9265d940fecc521027cfc166a64a88192a7e1b26bfc62098faf423a213e6",
+      "3bd06f7791a785c89c7cb89d29d511a801365f2d34b951c8af3ca8c703350dba",
+      "54aaf85d43572fac51b6ed1f6eb5b175642282000494edb4f0dc86434bb624b2",
+      "ece3fb46b17a20ad3397763f99b36edb0e204a56b9f11e671393741c42a6a938",
+      "17ddf55e757dee7e7c40e27c114d07d700a651557986a940cd1df07d3873dc84",
+      "d90079f2bf1f12697a497b353afb0a01f60f2353404489e681ea8333a3b7e357",
+      "366aeaf1ab8d74869650d9f4152784035d3840f0dab7d89b56cad153a6f3df8a",
+      "b03bfb696131132ed4a293592a06dfc7972edbcc25b74c127303a1825b71bf72",
+      "2694bbbe38636fb067d7ba1b99c5f60214788988498dfef0416eff05c0ceb0aa",
+      "7d8bba114571475f8050ad2b392e10a8629496b1e98fd1f8dc00ee346c2ec192",
+      "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
+      "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
+      "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
+    ],
+    "paragraph_count": 119
+  },
+  "overview_commit": "b584e94806790866a5b885588a74974fcdf2a432",
+  "overview_digest": "f0f0f30fdc87cbced09a3a9880e2b641c38f01855e6e6e64542a1edee342843a",
+  "paragraphs": [
+    {
+      "id": "eeed228b443ab51eb6510a7e08942a965b7cc44aa817e1a025225acb1b2f77da",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The Ruiqi Zhouji sequence now ties early Warring States power to institutional execution and political afterlife. Wei's post-Guiling problem is not only military, because [[QinEastwardPressure|Qin pressure]] at Anyi and Guyang forces diplomatic repair; Han's [[ShenBuhai|申不害]] branch shows [[LegalistRulerTechnique|Legalist technique]] as ruler self-restraint over appointments and rewards; and Qin's reform branch moves state capacity into [[Xianyang|capital location]], [[HouseholdSeparationLaw|households]], counties, land, measurement standards, war incentives, and fiscal extraction. The Shang Yang death sequence adds that effective institutional control does not automatically produce [[PeopleBasedPoliticalSecurity|social support]] for the reformer: [[PowerExitTrap|exit traps]], [[WarringStatesReformBacklash|reform backlash]], and [[TextualVariantPoliticalStakes|source-wording stakes]] become part of the same Qin state-building story. Across [[MeritBasedRewardPunishment]], [[QinAdministrativeStandardization]], [[ShangYangReforms]], and [[LegalistSelfBindingBackfire]], \"Legalist\" governance in these sources is a set of enforceable controls over territory, status, family space, information, violence, and ruler discretion rather than one abstract doctrine.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 5,
+        "history-and-geopolitics": 5,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "HouseholdSeparationLaw",
+        "LegalistRulerTechnique",
+        "LegalistSelfBindingBackfire",
+        "MeritBasedRewardPunishment",
+        "PeopleBasedPoliticalSecurity",
+        "PowerExitTrap",
+        "QinAdministrativeStandardization",
+        "QinEastwardPressure",
+        "ShangYangReforms",
+        "ShenBuhai",
+        "TextualVariantPoliticalStakes",
+        "WarringStatesReformBacklash",
+        "Xianyang"
+      ]
+    },
+    {
+      "id": "792bc6e294997222808f1676d0b67b792cfa97d896abe3f3e0075457d69dbf99",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The late Qinji sequence now extends that state-building story from conquest capacity into post-conquest imperial identity. [[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0|Qinji 120-1]] shows Qin turning victory over [[QiState|齐国]] into a [[ConquestSelfDefenseNarrative|self-defense narrative]], while [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]] shows the next layer: [[QinShiHuang|嬴政 / 秦始皇]] builds a new imperial vocabulary and water-virtue symbol system through [[ImperialSymbolicStandardization|帝国符号标准化]], tying [[YinYangFivePhasesPoliticalTheory|five-phase legitimacy]], [[PosthumousNamePolitics|abolished谥法]], [[QinAdministrativeStandardization|standardization]], and [[LegalistRulerTechnique|law-and-punishment technique]] into one package.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 5,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ConquestSelfDefenseNarrative",
+        "ImperialSymbolicStandardization",
+        "LegalistRulerTechnique",
+        "PosthumousNamePolitics",
+        "QiState",
+        "QinAdministrativeStandardization",
+        "QinShiHuang",
+        "YinYangFivePhasesPoliticalTheory",
+        "zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0",
+        "zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq"
+      ]
+    },
+    {
+      "id": "87c983a25af279b6675ac412cdb464d2757ecfe0fb5e3603ce9e67eb678a3620",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "[[78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000]] adds a Western dueling branch to the wiki's law, honor, and violence material. It adds [[XifangJuedouShi|《西方决斗史》]], [[JohnGideonMillingen]], [[HonorDuelCulture]], [[JudicialDuel]], [[TrialByOrdeal]], [[ChivalricTournamentCulture]], [[ProceduralizedViolence]], [[WeaponTechnologyDuelLethality]], [[FemaleDuelAgency]], [[AndrewJackson]], [[AaronBurr]], [[AlexanderPushkin]], [[EvaristeGalois]], [[RichardBrinsleySheridan]], [[JulieDAubigny]], and [[HenryIIOfFrance]], while extending [[MihuanChishu]], [[NapoleonBonaparte]], [[AlexanderHamilton]], [[PowerViolenceDistinction]], [[PrivateRevengeModernLaw]], and [[FemaleSelfPossession]]. Its core synthesis is that dueling was a brutal honor practice, but also a revealing institution: societies tried to turn insult, uncertain truth, social rank, and reputation into rule-bound combat before modern law, evidence, and public procedure fully displaced that logic.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+        "AaronBurr",
+        "AlexanderHamilton",
+        "AlexanderPushkin",
+        "AndrewJackson",
+        "ChivalricTournamentCulture",
+        "EvaristeGalois",
+        "FemaleDuelAgency",
+        "FemaleSelfPossession",
+        "HenryIIOfFrance",
+        "HonorDuelCulture",
+        "JohnGideonMillingen",
+        "JudicialDuel",
+        "JulieDAubigny",
+        "MihuanChishu",
+        "NapoleonBonaparte",
+        "PowerViolenceDistinction",
+        "PrivateRevengeModernLaw",
+        "ProceduralizedViolence",
+        "RichardBrinsleySheridan",
+        "TrialByOrdeal",
+        "WeaponTechnologyDuelLethality",
+        "XifangJuedouShi"
+      ]
+    },
+    {
+      "id": "6e00c628aaaa38f934b3488a910d4a30178ca20a9895c1d7d428733e4081c134",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The Le Guin source adds an anthropological science-fiction branch to the wiki's literary and political material. [[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] connects [[UrsulaKLeGuin|Ursula K. Le Guin / 厄休拉·勒古恩]], [[TheLeftHandOfDarkness|《黑暗的左手》]], [[Gethen|格森星 / Gethen]], [[GenlyAi|金利·艾 / Genly Ai]], [[Estraven|伊斯特拉凡 / Estraven]], [[Karhide|卡海德]], [[Orgoreyn|欧格瑞恩]], and [[Ekumen|艾库曼]] to [[AmbisexualWorldbuilding]], [[AnthropologicalScienceFictionWorldbuilding]], [[ShifgrethorPoliticalFace]], [[CorrectQuestionEpistemology]], [[PatriotismAsHatred]], and [[IntimacyBeyondGenderScript]]. Its core synthesis is that Le Guin's alien planet is not only a gender premise or a diplomatic plot: it is a method for asking better questions about sex, state loyalty, exile, propaganda, trust, and love when familiar categories fail.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522",
+        "AmbisexualWorldbuilding",
+        "AnthropologicalScienceFictionWorldbuilding",
+        "CorrectQuestionEpistemology",
+        "Ekumen",
+        "Estraven",
+        "GenlyAi",
+        "Gethen",
+        "IntimacyBeyondGenderScript",
+        "Karhide",
+        "Orgoreyn",
+        "PatriotismAsHatred",
+        "ShifgrethorPoliticalFace",
+        "TheLeftHandOfDarkness",
+        "UrsulaKLeGuin"
+      ]
+    },
+    {
+      "id": "444a03d6a61c86f52167765f47c08f5b702b5c578a143be5229e174d05cf6b99",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The Zheng Yuanjie source extends the wiki's childhood-literature branch into public-institutional satire. [[FeimaPaiQiche|《飞马牌汽车》]] shows that a children's story can reason like organizational analysis: a reasonable safety rule becomes [[SafetyAsControl]] and [[RuleIdolatry]] when no accountable exception is possible; officials then produce [[BureaucraticAbsurdityEscalation]] by creating meetings, agencies, devices, and representative layers; and the unresolved traffic jam becomes [[ProblemIndustrialization]] when services, fees, prestige, and jobs attach to the stuck state. The source also sharpens [[AntiAuthoritarianEducation]] through [[XunTuJi|《训兔记》]], where obedience is not virtue by default but a training system that can erase judgment.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AntiAuthoritarianEducation",
+        "BureaucraticAbsurdityEscalation",
+        "FeimaPaiQiche",
+        "ProblemIndustrialization",
+        "RuleIdolatry",
+        "SafetyAsControl",
+        "XunTuJi"
+      ]
+    },
+    {
+      "id": "ac2137406338dfcfca5d3447e2a914134cf8b6722ef4e04fea5d73774b1708c0",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The Kundera source adds a compact modern-literature branch through [[12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675]] and [[SlowKundera|《慢》]]. [[SlownessAsModernityCritique]] connects speed to bodily disappearance and slowness to recovered experience; [[PublicMoralPerformance]] turns televised charity and intellectual argument into a public-stage problem; [[KitschAsWasteDenial]] and [[AntiLyricism]] explain why crude body comedy matters aesthetically; and [[AuthorAsPoliticalSymbol]] keeps [[MilanKundera|Kundera]]'s [[CzechRepublic|Czech]] history, exile, privacy anxiety, and contested biography visible without reducing the fiction to politics alone. The source's durable synthesis is [[PoliticalConditionAsHumanExperiment]]: politics, media, speed, and exile are conditions that expose human vanity, fear, courage, desire, and self-mythologizing.",
+      "topic_scores": {
+        "culture-and-media": 3,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675",
+        "AntiLyricism",
+        "AuthorAsPoliticalSymbol",
+        "CzechRepublic",
+        "KitschAsWasteDenial",
+        "MilanKundera",
+        "PoliticalConditionAsHumanExperiment",
+        "PublicMoralPerformance",
+        "SlowKundera",
+        "SlownessAsModernityCritique"
+      ]
+    },
+    {
+      "id": "9344098736f7d118be35278ab8cc0aa9769c387f8f8b2ab4a4791154502debe3",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The Okamoto Kanoko source extends the wiki's literature branch from familiar childhood classics and zhiguai archives into modern Japanese short fiction that resists plot extraction. [[BuddhistLifeAffirmingLiterature]] gives the source its tonal distinction: [[LaoJiChao|《老妓抄》]] can hold loneliness, aging, desire, and futility without becoming despair. [[SubtlePlotPsychologicalAftertaste]] and [[GenderedPatronageInversion]] also sharpen existing reading and gender frames by showing that quiet fiction can make money, dependence, age, and unfinished aspiration visible through relation rather than thesis.",
+      "topic_scores": {
+        "culture-and-media": 2
+      },
+      "wikilinks": [
+        "BuddhistLifeAffirmingLiterature",
+        "GenderedPatronageInversion",
+        "LaoJiChao",
+        "SubtlePlotPsychologicalAftertaste"
+      ]
+    },
+    {
+      "id": "e05a8ec662580ac2916a4606ff0cd30e6ad9deeba65cb89a1b99fc59d46643b1",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The Peter Reinhardt [[TheSocialRadars]] source adds a bridge between early-YC software learning and climate hard-tech execution. [[OpenSourceWedge]] makes the [[Segment]] story more specific than a generic pivot: a small open-source utility became a company only after [[HackerNews]] response, user requests, hosted workflow control, pricing discovery, and [[SalesAsLearnableSkill]] turned attention into [[ProductLedWillingnessToPay]]. The [[CharmIndustrial|Charm Industrial]] half extends the carbon-removal branch beyond [[DirectAirCapture]] through [[BioOilCarbonRemoval]], where biomass sourcing, transport distance, underground injection, [[CarbonStoragePermanence]], [[CarbonRemovalPermitting]], and [[AdvancedMarketCommitment|advanced market commitments]] decide whether removal can move from high-intent procurement into lower-cost scale.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AdvancedMarketCommitment",
+        "BioOilCarbonRemoval",
+        "CarbonRemovalPermitting",
+        "CarbonStoragePermanence",
+        "CharmIndustrial",
+        "DirectAirCapture",
+        "HackerNews",
+        "OpenSourceWedge",
+        "ProductLedWillingnessToPay",
+        "SalesAsLearnableSkill",
+        "Segment",
+        "TheSocialRadars"
+      ]
+    },
+    {
+      "id": "b894d2f242928c8ee408e0388b669058e1ed036817f1ef6e8197823aa1ef0c20",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "science-health-and-climate"
+      ],
+      "text": "The April 20 [[MarketplaceTech]] source adds a construction-carbon branch to the wiki's climate and built-environment material. [[EmbodiedCarbonBuildingCode]] distinguishes emissions in materials and construction from [[OperationalCarbon]], while [[ConstructionCarbonCompliance]] turns that distinction into reuse, whole-project reduction, and material-threshold routes. The interesting link to the existing synthesis is market formation: [[LowCarbonConstructionMaterials]] may become easier to source when California's code makes demand visible, extending [[EconomicClimateTechAdoption]] from cheaper customer value into regulation-backed supplier confidence.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "ConstructionCarbonCompliance",
+        "EconomicClimateTechAdoption",
+        "EmbodiedCarbonBuildingCode",
+        "LowCarbonConstructionMaterials",
+        "MarketplaceTech",
+        "OperationalCarbon"
+      ]
+    },
+    {
+      "id": "836d805c47e9ebed9ce4d986cfe9550341cc3b5f732e0ea2333904bad187428c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "culture-and-media"
+      ],
+      "text": "The April 17 [[MarketplaceTech]] Bytes source ties three existing wiki threads together through accountability and market entry. [[StateAILiabilityShield]] and [[CatastrophicAILiability]] extend the platform-liability branch by showing why AI developer protections are harder to analogize to social media when possible harms include critical infrastructure cyberattacks or bioweapon creation. [[SatelliteConnectivityCompetition]] adds a connectivity branch where [[Amazon]]'s [[Globalstar]] deal may challenge [[SpaceX]] in [[DirectToDeviceSatelliteConnectivity]], potentially affecting emergency access and hard-to-reach internet service. [[PhysicalBookPlatformBridge]] adds the softer consumer counterpart: [[Spotify]] can support physical-book habits through [[BookshopOrg|Bookshop.org]] and [[PageMatch]], but still keeps the purchase path and audiobook continuity inside its platform.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "culture-and-media": 2,
+        "governance-and-institutions": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Amazon",
+        "BookshopOrg",
+        "CatastrophicAILiability",
+        "DirectToDeviceSatelliteConnectivity",
+        "Globalstar",
+        "MarketplaceTech",
+        "PageMatch",
+        "PhysicalBookPlatformBridge",
+        "SatelliteConnectivityCompetition",
+        "SpaceX",
+        "Spotify",
+        "StateAILiabilityShield"
+      ]
+    },
+    {
+      "id": "85b569f556a729fb66411cf361ad986d9f3168e760c0b55728f9e6bddea1afbd",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The April 14 [[MarketplaceTech]] source adds a public-finance version of the wiki's crypto branch. [[StateCryptoReserves]] extends [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] into state balance sheets: officials may want an asset that behaves differently from stocks and bonds, but no state has yet proven that a Bitcoin reserve works during fiscal stress. [[PublicCryptoInvestmentRisk]] and [[SeparateCryptoReserveFund]] keep the taxpayer-risk question visible, while [[SeizedDigitalAssetCustody]] shows that [[Arizona]]'s model is closer to preserving digital property than making a fresh investment bet.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "Arizona",
+        "Bitcoin",
+        "BitcoinSafeHavenBehavior",
+        "DigitalGold",
+        "MarketplaceTech",
+        "PublicCryptoInvestmentRisk",
+        "SeizedDigitalAssetCustody",
+        "SeparateCryptoReserveFund",
+        "StateCryptoReserves"
+      ]
+    },
+    {
+      "id": "6cbfbc18bfaf10393480bccc83233292873d9c750211c62fda4c3fd0f96bb524",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The April 13 [[MarketplaceTech]] source adds a consumer-facing version of the AI authenticity problem. [[HumanAuthorshipPremium]] links [[GenuineFred]]'s human-designed label to [[ColleenKirk]]'s research on lower trust, authenticity, purchase intent, and word of mouth when consumers believe AI authored a product, advertisement, communication, or artwork. Its most reusable distinction is not AI versus no AI, but authorship order: [[AIAssistantAugmentation]] is more acceptable when the human develops the work and AI assists, while AI-led work can trigger [[AlgorithmAversion]], [[AIAuthorshipPresence]] concerns, and [[AIContentDevaluation]] in emotionally meaningful or identity-linked categories.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIAssistantAugmentation",
+        "AIAuthorshipPresence",
+        "AIContentDevaluation",
+        "AlgorithmAversion",
+        "ColleenKirk",
+        "GenuineFred",
+        "HumanAuthorshipPremium",
+        "MarketplaceTech"
+      ]
+    },
+    {
+      "id": "2a6e349f1a6574007bb4465b192cefd50d33bb5c5dbcb9cf4fd5718f294b80c4",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The April 6 [[MarketplaceTech]] source adds a child-safety law branch to the wiki's platform-governance material. [[CaliforniaAB1709]] shows one regulatory route: keep children under 16 off social media through an access ban modeled on [[Australia]]. [[AaronMackey]] and the [[ElectronicFrontierFoundation|Electronic Frontier Foundation]] supply the counterframe: minors still have [[YouthOnlineSpeechRights]], age gates can create [[SocialMediaAgeGateSpeechBurden]] for adults as well as children, and [[ComprehensiveConsumerDataPrivacy]] can target collection and targeting practices without broadly blocking lawful communication. The durable synthesis is that social-media harm regulation has to distinguish product-design liability, platform editorial defenses, user speech rights, and privacy-law business-model reform.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3,
+        "culture-and-media": 1,
+        "governance-and-institutions": 4,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AaronMackey",
+        "Australia",
+        "CaliforniaAB1709",
+        "ComprehensiveConsumerDataPrivacy",
+        "ElectronicFrontierFoundation",
+        "MarketplaceTech",
+        "SocialMediaAgeGateSpeechBurden",
+        "YouthOnlineSpeechRights"
+      ]
+    },
+    {
+      "id": "c92aff803104a476d44d17a2d086fc635e4d7f23cf6acca5413010ba2600c20a",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The NBA tanking source adds a sports rule-design branch to the wiki's economics material. [[planet-money-vs-the-nbas-tanking-problem]] connects [[SportsTanking]], [[SportsDraftIncentiveDesign]], [[DraftLotteryTradeoff]], [[DraftWheel]], [[GoldPlan]], [[NoDraftPlayerMarket]], [[SportsCompetitiveBalance]], and [[SportsPlayerAutonomy]] through the [[NationalBasketballAssociation|NBA]], [[ProfessionalWomensHockeyLeague|PWHL]], and [[NationalWomensSoccerLeague|NWSL]]. Its core contribution is that bad sports incentives are not just bad sportsmanship: draft rules can make losing rational, and every repair shifts costs among weak teams, fans, owners, small markets, and incoming players.",
+      "topic_scores": {
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "DraftLotteryTradeoff",
+        "DraftWheel",
+        "GoldPlan",
+        "NationalBasketballAssociation",
+        "NationalWomensSoccerLeague",
+        "NoDraftPlayerMarket",
+        "ProfessionalWomensHockeyLeague",
+        "SportsCompetitiveBalance",
+        "SportsDraftIncentiveDesign",
+        "SportsPlayerAutonomy",
+        "SportsTanking",
+        "planet-money-vs-the-nbas-tanking-problem"
+      ]
+    },
+    {
+      "id": "7ed10819d5a5bdf4afe0c515f96909e0a7bb6d36ab1a55f895a4d13d8d12fbff",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The dinosaur-sanctuary source adds a science-and-care branch to the wiki's animal and evidence material. [[146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126]] connects [[DinoSanctuary|《恐龙庇护所》]], [[DinosaurAsLivingAnimal]], [[CaptiveAnimalCareLabor]], [[BirdDinosaurContinuity]], and [[EvidenceBoundPaleontologicalReconstruction]] to the existing animal-welfare branch. Its main contribution is to join wonder with responsibility: a speculative dinosaur can remain thrilling while still being imagined through fossils, birds, enclosure constraints, dirty work, stress signals, and the ethical question of what this animal needs.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126",
+        "BirdDinosaurContinuity",
+        "CaptiveAnimalCareLabor",
+        "DinoSanctuary",
+        "DinosaurAsLivingAnimal",
+        "EvidenceBoundPaleontologicalReconstruction"
+      ]
+    },
+    {
+      "id": "15f68f6f5300aa12e9649b327302eea2433688059d97fa601f8154888802a0a5",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The cursed-mummy source adds a Holmes-pastiche branch to the wiki's mystery material. [[144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738]] connects [[ShimadaSoji|岛田庄司]], [[TheCursedMummy|《被诅咒的木乃伊》]], [[SherlockHolmes|福尔摩斯]], [[JohnWatson|华生]], and [[NatsumeSoseki|夏目漱石]] through [[HolmesPasticheTradition]], [[DualManuscriptNarration]], and [[OrientalistMysteryMisdirection]]. Its main contribution is to qualify the wiki's [[HonkakuMystery|本格推理]] branch: the locked-room mummy fraud still matters, but the episode treats voice, pseudomanuscript framing, cultural misreading, and the global afterlife of Holmes as the stronger literary payoff.",
+      "topic_scores": {
+        "culture-and-media": 2
+      },
+      "wikilinks": [
+        "144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738",
+        "DualManuscriptNarration",
+        "HolmesPasticheTradition",
+        "HonkakuMystery",
+        "JohnWatson",
+        "NatsumeSoseki",
+        "OrientalistMysteryMisdirection",
+        "SherlockHolmes",
+        "ShimadaSoji",
+        "TheCursedMummy"
+      ]
+    },
+    {
+      "id": "14a0cbca45b3ce5e036c8eaa5b536f8f92b44405c1b3fb0b2ad05772433c9f2c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "culture-and-media"
+      ],
+      "text": "The penalty-shootout source adds a sports micro-strategy branch to the wiki's larger economics and decision-making material. [[GameTheory]] and [[MixedStrategy]] make football penalties a compact version of the same problem that appears across investing, platforms, and institutions: the best local action can become bad once others can predict it. [[DataDrivenPenaltyPreparation]] also qualifies the wiki's recurring confidence in analytics by showing that data must feed [[StrategicUnpredictability]] rather than become a rigid script under [[PenaltyShootoutPressure]].",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "DataDrivenPenaltyPreparation",
+        "GameTheory",
+        "MixedStrategy",
+        "PenaltyShootoutPressure",
+        "StrategicUnpredictability"
+      ]
+    },
+    {
+      "id": "825c124af0d4177538e0a2601f49055e98dc6d910550c419a62ca7bfa7e251e8",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Soccernomics source broadens that football-economics branch from micro-strategy into industry structure. [[FootballAsEconomicLaboratory]] ties the episode back to [[EconomicWayOfThinking]]: football makes loyalty, hidden value, discrimination, open markets, coach reputation, and event welfare observable. [[FootballLaborMarketDiscrimination]] and [[OpenFootballTalentMarkets]] extend the wiki's labor-market material by showing how prejudice and protectionism waste talent, while [[SoftBudgetFootballClubs]] and [[SportsMegaEventWelfareAccounting]] explain why football's value often appears outside ordinary profit and GDP accounts.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EconomicWayOfThinking",
+        "FootballAsEconomicLaboratory",
+        "FootballLaborMarketDiscrimination",
+        "OpenFootballTalentMarkets",
+        "SoftBudgetFootballClubs",
+        "SportsMegaEventWelfareAccounting"
+      ]
+    },
+    {
+      "id": "6d2ac8d89034f648bc018208e86ac6b0d0cb7d4fbdfb948abbd7d7359ede84c2",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The January 16 [[MarketplaceTech]] Bytes episode tightens the wiki's AI infrastructure synthesis by linking three fronts: chip export controls, power-rate politics, and assistant distribution. [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] shows [[NvidiaH200|Nvidia H200]] exports becoming a hybrid security and revenue arrangement that can push [[China]] toward [[Huawei]] and [[DomesticAIChipCatchUp]]. It also shows [[Microsoft]] trying to preserve data-center social license by paying more for power and forgoing some incentives, making [[DataCenterCostShifting]], [[DataCenterTaxIncentives]], and [[DataCenterBacklash]] affordability questions rather than only technical infrastructure issues. The [[Apple]] and [[Gemini]] segment adds the platform endpoint: [[Google]]'s model, chip, search, and app stack matters more if it reaches [[Siri]] and iPhone distribution, while [[AIProductFragmentation]] remains the test of whether capability becomes a coherent assistant.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIProductFragmentation",
+        "Apple",
+        "China",
+        "DataCenterBacklash",
+        "DataCenterCostShifting",
+        "DataCenterTaxIncentives",
+        "DomesticAIChipCatchUp",
+        "Gemini",
+        "Google",
+        "Huawei",
+        "MarketplaceTech",
+        "Microsoft",
+        "NvidiaH200",
+        "Siri",
+        "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "f57003238e7f2b72af65bae465473a1a950fd08ad9b22af47d50e28b6d5e4bea",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The Thiel source adds a Silicon Valley politics branch to the wiki's existing Trumpism and technology-power synthesis. [[TechnologyRightPowerNetwork]] explains how [[StanfordReview]], [[CampusConservativeMediaNetwork]], [[FoundersFund]], [[ThielFellowship]], [[RightWingMediaInfrastructure]], and [[PoliticalTalentPipeline]] can turn ideological selection into durable political capacity. It extends [[NewRightPolicyNetwork]] and [[TrumpismInstitutionalization]] upstream: before policy shops, transition documents, or administrative-state plans, the source sees a long funnel of anti-progressive campus media, Girardian anti-competition, Schmittian crisis politics, Straussian backstage influence, Palantir-style security technology, and Thiel-backed candidate selection around [[JDVance]].",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 5
+      },
+      "wikilinks": [
+        "CampusConservativeMediaNetwork",
+        "FoundersFund",
+        "JDVance",
+        "NewRightPolicyNetwork",
+        "PoliticalTalentPipeline",
+        "RightWingMediaInfrastructure",
+        "StanfordReview",
+        "TechnologyRightPowerNetwork",
+        "ThielFellowship",
+        "TrumpismInstitutionalization"
+      ]
+    },
+    {
+      "id": "4ecfbd6182c82e1283815f4ad6e1d05023f7e151bd7dd4dbb8772b881f4d7e8c",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The Marketplace Tech fire-rebuilding source adds a house-scale adaptation branch. Earlier wildfire material in the wiki emphasized [[FireTechClimateResilience]] as a market around detection, suppression, utilities, insurance, home hardening, and institutional buying; [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] shows the homeowner-material layer through [[CrossLaminatedTimber]], [[FireResistantBuildingEnvelope]], [[ConcreteFilledWallSystems]], [[ThreeDPrintedHousing]], and [[BiophilicDesign]]. The resulting synthesis is that [[ClimateAdaptation]] is not simply a harder shell: a rebuilt home has to negotiate future fire, construction speed, embodied carbon, cost, permitting, neighborhood character, and the emotional continuity of a lost place.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "BiophilicDesign",
+        "ClimateAdaptation",
+        "ConcreteFilledWallSystems",
+        "CrossLaminatedTimber",
+        "FireResistantBuildingEnvelope",
+        "FireTechClimateResilience",
+        "ThreeDPrintedHousing",
+        "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "1750c0f120513aa9c80b94fa4cd7496ed7a06143d3046ea330094dbbc4f12f56",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The Bibi election source extends the wiki's institution-and-legitimacy thread across politics, sport, and climate. [[IsraeliElection2026]] shows electoral legitimacy under strain when voters can judge wartime leadership but parties may avoid the [[PalestinianQuestionInIsraeliPolitics]]. [[SportsPoliticalInterference]] shows that even a successful expanded [[FIFAWorldCup]] can be remembered for host-country pressure on rules. [[IcebergClimateSymbolism]] shows how climate meaning attaches to concrete objects such as [[A23A]] when natural cycles, ecological ambiguity, and warming-sea anxiety become hard to separate.",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "A23A",
+        "FIFAWorldCup",
+        "IcebergClimateSymbolism",
+        "IsraeliElection2026",
+        "PalestinianQuestionInIsraeliPolitics",
+        "SportsPoliticalInterference"
+      ]
+    },
+    {
+      "id": "c6ed2408961e48b59681bd967e89d477cfa4a74de9ee78ae221026ca73620bb9",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The folk-tale mystery source extends the wiki's literature and folklore material from source-history inquiry into rule-world puzzle design. Earlier folklore pages used [[StoryMotifTransmission]], [[MythicSourceLayering]], and [[EvidenceBoundFolkloreInquiry]] to ask how legends travel, accumulate, or encode social memory. [[SettingBasedMystery]] and [[FolkTaleMysteryRewriting]] ask what happens when those motifs are accepted as operational rules: a magic mallet can become physical evidence, a tiny body can structure an alibi, and animal transformation can turn identity into a fair-play problem.",
+      "topic_scores": {
+        "culture-and-media": 4,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EvidenceBoundFolkloreInquiry",
+        "FolkTaleMysteryRewriting",
+        "MythicSourceLayering",
+        "SettingBasedMystery",
+        "StoryMotifTransmission"
+      ]
+    },
+    {
+      "id": "349d4a5566c345063a89f592368bc4c39a731df2915756fea9da602606475dba",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The Clark Ashton Smith source adds a weird-fiction and Cthulhu branch to the wiki's literary material. [[CthulhuMythos]] is treated as [[OpenSharedMythos]] rather than closed continuity, while [[CosmicHorror]] explains the field's fear of unknown scale, age, depth, and nonhuman priority. Smith's specific contribution is [[HorrorHumorWeirdFiction]] and [[AntiAnthropocentricSatire]]: in [[SevenGeases|《七咒赋》]], [[TheDoorToSaturn|《通往土星之门》]], and the related story summaries, humans are often too small, inconvenient, or already studied to be as important as they imagine. That extends [[AbsurdRationality]] and [[ClassicReadingComplexity]] by showing how apparently pulp or monster-adjacent stories can preserve literary density, procedural comedy, and anti-human-center philosophy.",
+      "topic_scores": {
+        "culture-and-media": 2
+      },
+      "wikilinks": [
+        "AbsurdRationality",
+        "AntiAnthropocentricSatire",
+        "ClassicReadingComplexity",
+        "CosmicHorror",
+        "CthulhuMythos",
+        "HorrorHumorWeirdFiction",
+        "OpenSharedMythos",
+        "SevenGeases",
+        "TheDoorToSaturn"
+      ]
+    },
+    {
+      "id": "0ea1c0cebd7d71170ec6032f3a45d8a0f3f22f5374e18dac62dc6fbd4205f57c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Chen Diexian source adds a consumer-industrial history branch to the wiki's business and culture material. [[ButterflyBrand|蝴蝶牌]] shows that a brand moat can be built before contemporary platforms: romance-writer persona, magazine recipes, household chemistry, product naming, trademark design, celebrity image, and [[NationalGoodsBranding]] all create trust and demand. [[VernacularIndustrialism]] also gives the wiki a longer history for later [[ShanzhaiPhones]], [[GlobalProductLocalization]], and [[ChineseHardwareGlobalization]] themes: borrowing and imitation can be exploitative or low quality, but they can also become local repair, cost reduction, raw-material learning, and user-fit innovation.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ButterflyBrand",
+        "ChineseHardwareGlobalization",
+        "GlobalProductLocalization",
+        "NationalGoodsBranding",
+        "ShanzhaiPhones",
+        "VernacularIndustrialism"
+      ]
+    },
+    {
+      "id": "7b7f91674077540c697140dfeea7a0e81cfc3f7d2fda986cee110e13556ad8a2",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Asahi ransomware source adds an operational-security branch to the wiki's existing security and disaster-recovery material. [[AsahiGroup]] and [[SuperDry]] make the point concrete: cyberattacks become business problems when order handling, inventory, logistics, customer service, factories, and [[SAP]]-style ERP systems stop coordinating physical supply. The source's durable concepts are [[RansomwareBusinessContinuity]], [[OfflineBackupRecoveryDrills]], and [[PersonalSecurityTiering]]: prevention matters, but ransom refusal and personal safety depend on recoverable backups, rehearsed restoration, account hygiene, and security spending matched to target value.",
+      "topic_scores": {
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "AsahiGroup",
+        "OfflineBackupRecoveryDrills",
+        "PersonalSecurityTiering",
+        "RansomwareBusinessContinuity",
+        "SAP",
+        "SuperDry"
+      ]
+    },
+    {
+      "id": "ebe0972487094380b16fe4d2d21ce29ea273c14f0df643521c965c2e94b8ad03",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The first source argues that effective AI use is shifting from chat prompts toward [[AgenticWorkflow]], where AI systems have persistent context, can call tools, and operate inside real workflows. Its practical core is [[ContextEngineering]] plus [[AISkills]]: models and tools may converge, so durable advantage comes from examples, preferences, criteria, workflows, files, and tacit standards made explicit.",
+      "topic_scores": {
+        "ai-and-technology": 2
+      },
+      "wikilinks": [
+        "AISkills",
+        "AgenticWorkflow",
+        "ContextEngineering"
+      ]
+    },
+    {
+      "id": "79191dcb70010651bb514e2400f5e6fb37d49d527c2801b2cd2fae6cb1a1adb2",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The second source adds a more organizational view through [[Qwen]], [[Alibaba]], and [[LinJunyang]]. It treats open-source model success as strategically valuable but difficult to sustain inside a large company because influence, training cost, ROI, management order, and personal ambition are evaluated through different logics. That tension is captured by [[LargeCompanyOpenSourceStrategy]], [[AICommercializationPressure]], [[LargeCompanyOrganizationalInertia]], and [[StarTalentInBigCompanies]].",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "AICommercializationPressure",
+        "Alibaba",
+        "LargeCompanyOpenSourceStrategy",
+        "LargeCompanyOrganizationalInertia",
+        "LinJunyang",
+        "Qwen",
+        "StarTalentInBigCompanies"
+      ]
+    },
+    {
+      "id": "25521dbd547883abde832b086c6e8b00351b293d3c4e37314e2f1790736fde3a",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The third source turns commercialization pressure toward consumer AI through [[Doubao]] and [[ByteDance]]. It argues that China's [[SoftwarePaymentCulture]] was shaped by years of free internet products, but [[AIInferenceCostStructure]] makes unlimited free AI harder because token generation, GPU capacity, and electricity scale with use. [[AISubscriptionEconomics]] then becomes a balancing act among free access, paid tiers, heavy-user costs, ad limits, and competitor pressure from products such as [[Yuanbao]] and [[DeepSeek]].",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AIInferenceCostStructure",
+        "AISubscriptionEconomics",
+        "ByteDance",
+        "DeepSeek",
+        "Doubao",
+        "SoftwarePaymentCulture",
+        "Yuanbao"
+      ]
+    },
+    {
+      "id": "860f6d5b66676081b26b799bef96f4b44d76cc755bf8531d4d39e7949f0cf63a",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "EP117 adds the service-entry version of that consumer AI pressure. [[Qwen]] is not presented only as another chatbot; the source argues that [[Alibaba]] needs a consumer assistant because [[AIAssistantServiceEntry]] could reroute users toward whoever controls the assistant layer. [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], [[DingTalk]], and [[Quark]] make Alibaba's opportunity different from [[ByteDance]]'s traffic-led [[Doubao]] or [[Tencent]]'s [[WeChat]]/mini-program path, while [[AgenticCommerce]] and [[AgentPermissionBoundaries]] explain why buying, booking, ranking, payment, and refund workflows are harder than search replacement.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1
+      },
+      "wikilinks": [
+        "AIAssistantServiceEntry",
+        "AgentPermissionBoundaries",
+        "AgenticCommerce",
+        "Alibaba",
+        "ByteDance",
+        "Damai",
+        "DingTalk",
+        "Doubao",
+        "Fliggy",
+        "Gaode",
+        "Quark",
+        "Qwen",
+        "Taobao",
+        "Tencent",
+        "WeChat"
+      ]
+    },
+    {
+      "id": "6e96111867cb00d782985bf768cfab2f7043d1804052b364a2a5b08c79bcabc1",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The fourth source adds [[Ninety]] as a SaaS operating-system case. [[MarkAbbott]] describes how [[CommunityLedSaaSGrowth]] through [[EOSWorldwide]] coaches, peer groups, and self-implementers helped Ninety bootstrap early adoption, while [[FrameworkLedSaaS]] created both distribution advantage and licensing constraints. The same episode adds founder lessons about [[StageAppropriateHiring]] after fundraising and about defending against [[AINativeSaaSThreat]] through [[SaaSTrustMoat]].",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AINativeSaaSThreat",
+        "CommunityLedSaaSGrowth",
+        "EOSWorldwide",
+        "FrameworkLedSaaS",
+        "MarkAbbott",
+        "Ninety",
+        "SaaSTrustMoat",
+        "StageAppropriateHiring"
+      ]
+    },
+    {
+      "id": "ad03a5f16f938784e7e8a0d01387b3de5ead4b42c40ba950ba1eceda38e15384",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The fifth source adds [[ThibautLouisLucas]] and [[TeaMaker]] as a contrasting SaaS builder case. Lucas argues for [[FastProductValidation]], repeated product attempts, and [[CustomerPull]] over founder status, vanity metrics, or premature fundraising. His path through [[TweetHunter]], [[Tapio]], [[Lempire]], [[Revid]], and [[Outrank]] reframes AI-era SaaS strategy around [[DistributionLedProductBuilding]], [[SaaSHoldingCompany]] structure, influencer partnerships, and [[AIDiscoverySEO]].",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 5
+      },
+      "wikilinks": [
+        "AIDiscoverySEO",
+        "CustomerPull",
+        "DistributionLedProductBuilding",
+        "FastProductValidation",
+        "Lempire",
+        "Outrank",
+        "Revid",
+        "SaaSHoldingCompany",
+        "Tapio",
+        "TeaMaker",
+        "ThibautLouisLucas",
+        "TweetHunter"
+      ]
+    },
+    {
+      "id": "549657c683c8f88c746c0a156f054ff22b4d87131fafa3431f919f00af3f269f",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The sixth source adds [[EricRies]], [[ValidatedLearning]], and the governance argument from *Incorruptible*. Ries agrees that AI accelerates prototypes, but he warns that startups still progress through customer learning, production feasibility, and unit economics rather than impressive demos alone. The same episode introduces [[FinancialGravity]], [[CustomerConcentrationRisk]], [[StartupGovernance]], and [[ShareholderPrimacy]] as a post-success risk cluster: once a company creates valuable trust, investors, customers, acquirers, boards, and market norms may try to redirect that value.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 5,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CustomerConcentrationRisk",
+        "EricRies",
+        "FinancialGravity",
+        "ShareholderPrimacy",
+        "StartupGovernance",
+        "ValidatedLearning"
+      ]
+    },
+    {
+      "id": "fdf1e1e37c97df6fd9e632806a8019bba92df1d15004d329e3b6ff14cda13380",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The seventh source adds [[MariusMiners]] and [[PeakAI]] as an AI-search SaaS case. It introduces [[AISearchAnalytics]] and [[GenerativeEngineOptimization]] as concrete ways AI answer engines become both a product category and an acquisition channel. The episode also sharpens the validation cluster through [[PreProductSelling]]: Miners argues that founders should listen for urgent customer problems before pitching, use prototypes and LOIs carefully, and still treat actual payment as the strongest signal.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3
+      },
+      "wikilinks": [
+        "AISearchAnalytics",
+        "GenerativeEngineOptimization",
+        "MariusMiners",
+        "PeakAI",
+        "PreProductSelling"
+      ]
+    },
+    {
+      "id": "4f1ae1f57713579d6857e84929b0f3cfeed28e78ab1b55c1e7dfb0ed3dcc9538",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The eighth source adds [[GirishRedikar]], [[RecruiterBox]], and [[Sprinto]] as a compliance SaaS case. It reinforces [[FastProductValidation]], [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[ValidatedLearning]] through a founder story where customers tolerated a painful payment flow, then the second company validated demand before writing code. Its new contribution is [[ServiceProductization]]: Sprinto had to prove that a consultant-heavy audit workflow could become software by repeatedly running real audits. The same episode introduces [[FounderProductFit]], [[DemandHarvesting]], [[ComplianceAutomation]], [[AIGovernanceAndCompliance]], and [[DeterministicAuditData]].",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 5,
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIGovernanceAndCompliance",
+        "ComplianceAutomation",
+        "CustomerPull",
+        "DemandHarvesting",
+        "DeterministicAuditData",
+        "FastProductValidation",
+        "FounderProductFit",
+        "GirishRedikar",
+        "ProductLedWillingnessToPay",
+        "RecruiterBox",
+        "ServiceProductization",
+        "Sprinto",
+        "ValidatedLearning"
+      ]
+    },
+    {
+      "id": "6f54967734b8a88829c8fcea180d262d7b13dce2295c56d59804c209378bd2bf",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The ninth source adds [[DannyJenkins]] and [[ThreatLocker]] as a cybersecurity SaaS case. It reinforces [[FastProductValidation]], [[ValidatedLearning]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] through a difficult endpoint-security product that needed live deployments, upfront payment, and product fixes before validation became real. Its new contribution is [[ZeroTrustSecurity]], [[DefaultDenySecurity]], [[MSPChannelDistribution]], and [[CategoryCreation]]: ThreatLocker had to turn application control and least privilege into a broader security category, then distribute it through cold outreach, webinars, trade shows, MSPs, and enterprise sales.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CategoryCreation",
+        "CustomerPull",
+        "DannyJenkins",
+        "DefaultDenySecurity",
+        "FastProductValidation",
+        "MSPChannelDistribution",
+        "ProductLedWillingnessToPay",
+        "ThreatLocker",
+        "ValidatedLearning",
+        "ZeroTrustSecurity"
+      ]
+    },
+    {
+      "id": "9d2468cb2e687611f35df5407722be9ce3fab23df121b54b5be641e3dda0df57",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The tenth source adds [[TianjieJack]], [[CangShifu]], and the product-design thesis around [[HeadlessSoftware]]. It argues that the agent wave challenges GUI-first software thinking because agents need access to tools, data, permissions, and repeatable procedures more than they need screens. The episode extends earlier [[AgenticWorkflow]], [[ContextEngineering]], and [[AISkills]] themes into [[AgentFacingInterfaces]] such as CLI, API, MCP-like, and skill layers, then frames [[AgenticEconomy]] infrastructure around sandboxes, memory, payments, agent networks, and token supply. It also adds project-level examples through [[Manus]], [[OpenCloud]], [[TokenGrant]], [[CodePilot]], and [[YouyouAgent]].",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 1
+      },
+      "wikilinks": [
+        "AISkills",
+        "AgentFacingInterfaces",
+        "AgenticEconomy",
+        "AgenticWorkflow",
+        "CangShifu",
+        "CodePilot",
+        "ContextEngineering",
+        "HeadlessSoftware",
+        "Manus",
+        "OpenCloud",
+        "TianjieJack",
+        "TokenGrant",
+        "YouyouAgent"
+      ]
+    },
+    {
+      "id": "67b95ee222ba113a29522f7398607f47bc3b101a012caff65de7c8ed78e6f545",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The newer Manus source deepens that agent-product thread. Instead of treating [[Manus]] only as a milestone, it asks why the product had to go overseas: the episode connects [[AIAgentOverseasCommercialization]], [[ChineseModelLiberalArtsConstraint]], and [[ChinaAgentMarketFriction]] to the practical needs of browser automation, marketing language, open web data, paid SEO tools, and platform incentives. It also adds [[AIOperationsRole]] as the human complement: even when agents lower implementation cost, people still need to translate business goals into executable workflows and verify results.",
+      "topic_scores": {
+        "ai-and-technology": 5,
+        "business-and-markets": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AIAgentOverseasCommercialization",
+        "AIOperationsRole",
+        "ChinaAgentMarketFriction",
+        "ChineseModelLiberalArtsConstraint",
+        "Manus"
+      ]
+    },
+    {
+      "id": "1208808a8d9541e8bf3a3ccb236570251a615ecd25a436e3fb3fdff265e2a387",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The eleventh source adds [[Shibo]], [[YuebanDongli]], and [[Xiaoban]] as a concrete [[EmbodiedAI]] and consumer hardware case. It reframes AI companionship away from chatbots and task robots toward [[CompanionRobots]] whose value depends on [[RobotLiveliness]], restrained non-human expression, soft materials, bipedal movement, long-term memory, and emotionally meaningful refusal or withdrawal. Technically, it adds [[OnDeviceFastSlowBrain]], [[EmotionalInteractionModels]], and [[FamilyWorldSimulator]] as patterns for making small models, simulated household data, and low-latency embodied behavior work together.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CompanionRobots",
+        "EmbodiedAI",
+        "EmotionalInteractionModels",
+        "FamilyWorldSimulator",
+        "OnDeviceFastSlowBrain",
+        "RobotLiveliness",
+        "Shibo",
+        "Xiaoban",
+        "YuebanDongli"
+      ]
+    },
+    {
+      "id": "7f59cd52b9e38560a3f86ca4e2b9d978c986599aad63f29ddac2f95f298b1222",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The twelfth source adds [[MiniMax]], [[YanJunjie]], [[MiniMaxM3]], [[MultiCard]], [[Deerflow]], and [[FinancialAIAgents]] as a model-company and practitioner roundtable. It sharpens the agent theme through [[ModelHarnessCoEvolution]], where models and agents/harnesses improve each other through real workflows, and it sharpens the engineering-risk theme through [[AICodingVerification]], where the hard work moves from generating code to validating, reviewing, maintaining, and taking responsibility for it. It also adds [[FrontierModelScaling]], [[DomainExpertAlignment]], and [[AIInterpretabilityByAI]] as longer-term constraints on model progress: bigger models require compute and data discipline, high-stakes domains require experts, and safety may depend on using stronger AI to explain AI itself.",
+      "topic_scores": {
+        "ai-and-technology": 6,
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AICodingVerification",
+        "AIInterpretabilityByAI",
+        "Deerflow",
+        "DomainExpertAlignment",
+        "FinancialAIAgents",
+        "FrontierModelScaling",
+        "MiniMax",
+        "MiniMaxM3",
+        "ModelHarnessCoEvolution",
+        "MultiCard",
+        "YanJunjie"
+      ]
+    },
+    {
+      "id": "fcd664ef64b4acc401055e841da7f5fa05aa2978853f210db6a841df3e7de483",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The thirteenth source adds [[HuangBiwei]] and [[AetherAI]] as a causal AI and robotics case. It reframes [[WorldModels]] around [[CausalWorldModels]], arguing that useful physical-world models need causal variables, causal structures, and action-conditioned transition dynamics rather than only plausible video or demonstration imitation. The episode positions [[VisionLanguageActionModels]] and [[WorldActionModels]] as useful but incomplete stages, then connects [[CausalAI]] to [[EmbodiedAI]], targeted data collection, simulation, [[FrontierModelScaling]], and [[AIForScience]].",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIForScience",
+        "AetherAI",
+        "CausalAI",
+        "CausalWorldModels",
+        "EmbodiedAI",
+        "FrontierModelScaling",
+        "HuangBiwei",
+        "VisionLanguageActionModels",
+        "WorldActionModels",
+        "WorldModels"
+      ]
+    },
+    {
+      "id": "4b6f82ece0945549202b33bbff831566d966b52ffaa40c6e5681d39c7eb6575b",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The fourteenth source adds [[JimSimons]], [[RenaissanceTechnologies]], and the [[MedallionFund]] as an investing case. It introduces [[QuantitativeInvesting]] as a system of weak signals, noise filtering, capacity limits, talent, data, execution, and [[InvestmentRiskManagement]], then turns that institutional system into ordinary-investor advice: admit uncertainty, size positions small, diversify, automate discipline, and beware [[QuantitativeOverfitting]]. The episode also extends the wiki's finance-AI thread through [[AIInvestmentResearch]] and [[FinancialAIAgents]], arguing that AI tools such as [[ChatGPT]] can explain markets and filings but should not become autonomous stock pickers. Its market sections add [[MarketEfficiency]], [[MarketRegimeShift]], [[PassiveInvesting]], [[CryptocurrencyMarketStructure]], [[Bitcoin]], [[Stablecoins]], and [[AIIPOValuation]] as connected investing themes.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 6,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIIPOValuation",
+        "AIInvestmentResearch",
+        "Bitcoin",
+        "ChatGPT",
+        "CryptocurrencyMarketStructure",
+        "FinancialAIAgents",
+        "InvestmentRiskManagement",
+        "JimSimons",
+        "MarketEfficiency",
+        "MarketRegimeShift",
+        "MedallionFund",
+        "PassiveInvesting",
+        "QuantitativeInvesting",
+        "QuantitativeOverfitting",
+        "RenaissanceTechnologies",
+        "Stablecoins"
+      ]
+    },
+    {
+      "id": "24a16539c0598ab0a076d87ab55bffa6fc44baf27547691376b8160f39b0f320",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The Qizhulou vol.103 source revisits that [[JimSimons]] branch from the history and organization side. It adds [[LeonardBaum]], [[JamesAx]], [[SandorStraus]], [[ElwynBerlekamp]], [[HenryLaufer]], [[PeterBrown]], and [[RobertMercer]] to show how [[RenaissanceTechnologies]] developed through early mistakes, data accumulation, short-horizon trading, single-model integration, IBM speech-recognition talent, and stock-market expansion. The conceptual additions are [[QuantitativeDataMoat]], [[ShortTermStatisticalArbitrage]], [[HumanRiskOverride]], and [[AlphaDecay]]: quant advantage requires unique data, cost-aware repeated trading, signal renewal, and human authority to cut risk when models meet liquidity or regime danger.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AlphaDecay",
+        "ElwynBerlekamp",
+        "HenryLaufer",
+        "HumanRiskOverride",
+        "JamesAx",
+        "JimSimons",
+        "LeonardBaum",
+        "PeterBrown",
+        "QuantitativeDataMoat",
+        "RenaissanceTechnologies",
+        "RobertMercer",
+        "SandorStraus",
+        "ShortTermStatisticalArbitrage"
+      ]
+    },
+    {
+      "id": "8a3d150bd0d180ad26eb06f1ca3aaf0faa2505623ada1eac164be3e5d2532dd2",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The fifteenth source adds [[YinQi]], [[StepFun]], [[QianliTechnology]], and [[Megvii]] as an AI 1.0 to AI 2.0 strategy case. It turns [[AICommercializationPressure]] into a foundation-model company problem: Yin argues that pure 2B and pure software 2C are both difficult paths for model companies with huge R&D needs, so [[AIPlusTerminals]] may be needed to create product pull, differentiated data, and profit. The source also adds [[LongChainAICompetition]] and [[AIOrganizationDesign]]: the foundation-model race combines model capability, capital, terminals, physical data, organization, talent density, collaboration, and focus.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 3
+      },
+      "wikilinks": [
+        "AICommercializationPressure",
+        "AIOrganizationDesign",
+        "AIPlusTerminals",
+        "LongChainAICompetition",
+        "Megvii",
+        "QianliTechnology",
+        "StepFun",
+        "YinQi"
+      ]
+    },
+    {
+      "id": "d2422c1bf8ad8b05efcd0411a594704105bf1b0e6593f5264266c31eb4de43e2",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The sixteenth source adds [[RollingAI]], [[Agan]], [[LiuKai]], [[Palantir]], and [[BCG]] as an enterprise AI deployment case. It corrects and deepens [[ForwardDeployedEngineer]] as the role that turns model capability into working systems by handling business integration, knowledge governance, system connection, and human-AI collaboration design. Its central frame is [[DigitalEmployees]]: AI in companies should be onboarded, trained, managed, and paired with expert humans. The source also adds [[FrontlineAIEnablement]], [[BusinessLedAITransformation]], and [[ServiceAsSoftware]], arguing that enterprise AI succeeds when frontline judgment, incentives, business pain, and service-like outcome delivery change together.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "Agan",
+        "BCG",
+        "BusinessLedAITransformation",
+        "DigitalEmployees",
+        "ForwardDeployedEngineer",
+        "FrontlineAIEnablement",
+        "LiuKai",
+        "Palantir",
+        "RollingAI",
+        "ServiceAsSoftware"
+      ]
+    },
+    {
+      "id": "93e3ae9f477e755077d21f680162b41ec31e01771680baa2bf4cb6ca86b38c77",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "culture-and-media",
+        "work-education-and-society"
+      ],
+      "text": "The seventeenth source adds [[Xiaoning]], [[Youju]], [[MiHoYo]], [[Xingbugudi]], [[CharacterAI]], [[TypeTypeMaker]], [[YORO]], [[Roblox]], and [[NetEase]] as an AI interactive entertainment case. It reframes \"AI games\" as [[AIInteractiveEntertainment]] and separates four layers: AI as production tool, creation entry point, interaction object, and relationship-changing entertainment/social infrastructure. Its main warning is [[AIGameIndustrialization]]: generated assets or prototypes do not yet equal stable, tuned, repeatedly fun games. The source also adds [[AINPCSocialInfrastructure]], [[AIInteractiveContentPlatforms]], [[DesignedAgencyInGames]], [[AI3DPrototyping]], and [[CreationAsConsumption]], arguing that AI entertainment still needs retention loops, creator-consumer roles, designed agency, distribution, and a consensus-defining product.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "culture-and-media": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AI3DPrototyping",
+        "AIGameIndustrialization",
+        "AIInteractiveContentPlatforms",
+        "AIInteractiveEntertainment",
+        "AINPCSocialInfrastructure",
+        "CharacterAI",
+        "CreationAsConsumption",
+        "DesignedAgencyInGames",
+        "MiHoYo",
+        "NetEase",
+        "Roblox",
+        "TypeTypeMaker",
+        "Xiaoning",
+        "Xingbugudi",
+        "YORO",
+        "Youju"
+      ]
+    },
+    {
+      "id": "c65799c5172ba05d0b2426fd984802d42419defa34b4222c64467353c353041e",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "culture-and-media",
+        "work-education-and-society"
+      ],
+      "text": "The [[Mujian]] source adds a builder-operator view of that same entertainment branch. [[Roi]] distinguishes [[AISimulationContent]] from [[CharacterAI]]-style companion chat, interactive fiction, AI-generated traditional games, and future [[WorldModels]]: her near-term thesis is that creators can make text-first virtual-life simulations if the system provides agents, rules, state, feedback, and controlled freedom. The source sharpens [[AIInteractiveContentPlatforms]] by showing what the platform must coordinate: creator education, prompt/code/media assets, account identity, cross-work consumption, token cost, revenue sharing, and distribution. It also adds [[AISuperCreators]] as a non-geek creator pattern, where young women and other motivated users learn models and tooling through strong play, romance, roleplay, and self-expression needs.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "culture-and-media": 3,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AIInteractiveContentPlatforms",
+        "AISimulationContent",
+        "AISuperCreators",
+        "CharacterAI",
+        "Mujian",
+        "Roi",
+        "WorldModels"
+      ]
+    },
+    {
+      "id": "c83023efd45aebb3c38df1cdc56f2d502fc4d34e7342b6d41de22230f42a4a42",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The eighteenth source adds [[Paperboy]], [[JiangYang]], [[JieDechen]], [[Millian]], [[SameDev]], [[EarthKit]], and [[Slack]] as a human-agent interface and early-startup case. It argues that today's agent products are still too dependent on chat boxes, sessions, prompts, and short-lived context. Its new concepts are [[HumanAgentCollaboration]], [[OSLevelContext]], [[PersistentAgentMemory]], and [[ProactiveAgents]]: Paperboy wants agents to learn from the user's computer environment, preserve personal and work memory, infer second-scale needs such as autocomplete, and work through IM/inbox-like surfaces inside existing workflows rather than forcing users to migrate to a new AI Slack.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EarthKit",
+        "HumanAgentCollaboration",
+        "JiangYang",
+        "JieDechen",
+        "Millian",
+        "OSLevelContext",
+        "Paperboy",
+        "PersistentAgentMemory",
+        "ProactiveAgents",
+        "SameDev",
+        "Slack"
+      ]
+    },
+    {
+      "id": "f43cf6073649074c1c49c1a12ebf6bc64853057525ae760a35f1da5b33c3dc1b",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The nineteenth source adds [[LaiXinlu]], [[ShareAI]], [[LearnClaudeCode]], [[KComputer]], and [[AgentHarness]] as an agent-infrastructure case. It uses [[ClaudeCode]] to break harness design into execution ability, context/environment, and governance/orchestration, then argues for \"model as agent\" design: more context, more action capacity, CLI/Unix-style surfaces, markdown/file memory, context compression, and less brittle flow-style control. It also extends [[AgenticEconomy]] through hybrid agent networking, agent payment, personalized model training, and \"zero-person company\" speculation.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "AgentHarness",
+        "AgenticEconomy",
+        "ClaudeCode",
+        "KComputer",
+        "LaiXinlu",
+        "LearnClaudeCode",
+        "ShareAI"
+      ]
+    },
+    {
+      "id": "2704be0bcb00043413db828a723ce5efd1870773aa5ea61aca7297f87f183489",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The twentieth source adds [[Adao]], [[Zeying]], [[Tommy]], [[HermesAgent]], and [[OpenClaw]] as a second agent-harness case centered on the domestic OpenCloud/OpenClaw wave. It reinforces [[AgentHarness]] as a work environment with tools, constraints, feedback, state, and memory, then adds [[PersistentAgentMemory]] as a product differentiator, [[MultiAgentCollaboration]] as cross-checking and high-bandwidth context exchange, [[InterleavedThinking]] as a model capability for tool-and-environment feedback, [[AgentSelfEvolution]] as memory and skills improving future runs, and [[AgentIdentityAndAuthentication]] as an emerging safety and infrastructure pressure.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Adao",
+        "AgentHarness",
+        "AgentIdentityAndAuthentication",
+        "AgentSelfEvolution",
+        "HermesAgent",
+        "InterleavedThinking",
+        "MultiAgentCollaboration",
+        "OpenClaw",
+        "PersistentAgentMemory",
+        "Tommy",
+        "Zeying"
+      ]
+    },
+    {
+      "id": "d2ce83a799430a79c03d73bc4253aaf99524fdcff29f93e988b0de629aea42f4",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The twenty-first source adds [[BairongIntelligence]], [[ZhangShaofeng]], and [[Baijian]] as an enterprise AI operator case. It reinforces [[DigitalEmployees]] but makes the management layer more concrete: digital employees need HR-like records, standard-person benchmarks, business teachers, production owners, compliance boundaries, and incentives for human employees who transfer expertise. The source adds [[DarkOffice]] as the office-work counterpart to a dark factory, [[ContactCenterAI]] as an early measurable agent landing scene, [[OutcomeBasedAIPricing]] as a buyer-friendly alternative to Chinese custom-software economics, and [[AIBPORollUp]] as a service-market reconstruction thesis for consulting, legal, tax, accounting, recruiting, and other professional workflows.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 3,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIBPORollUp",
+        "Baijian",
+        "BairongIntelligence",
+        "ContactCenterAI",
+        "DarkOffice",
+        "DigitalEmployees",
+        "OutcomeBasedAIPricing",
+        "ZhangShaofeng"
+      ]
+    },
+    {
+      "id": "52bae82f223683bcb2cb7e30f4b92fcff5cd98f54eaa3a0239c085a9e59b2a89",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The twenty-second source adds [[YingdiHaike]], [[Windsurf]], [[Cognition]], [[Devin]], [[GoogleDeepMind]], [[GeminiCLI]], [[METR]], [[Zed]], and [[JetBrains]] as an AI coding market case. It sharpens [[VibeCoding]] as a capability-expansion practice rather than a guaranteed speed-up, adds [[ModelProviderToolCompetition]] as a platform-risk frame for coding-tool startups, and connects [[AIInferenceCostStructure]], [[AISubscriptionEconomics]], [[AICodingVerification]], [[AgentFacingInterfaces]], and [[AgentHarness]] through the concrete examples of Cursor pricing, Claude Code, Gemini CLI, long-context handling, and GUI/CLI review tradeoffs.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "AICodingVerification",
+        "AIInferenceCostStructure",
+        "AISubscriptionEconomics",
+        "AgentFacingInterfaces",
+        "AgentHarness",
+        "Cognition",
+        "Devin",
+        "GeminiCLI",
+        "GoogleDeepMind",
+        "JetBrains",
+        "METR",
+        "ModelProviderToolCompetition",
+        "VibeCoding",
+        "Windsurf",
+        "YingdiHaike",
+        "Zed"
+      ]
+    },
+    {
+      "id": "6e016627e7cbccd69822bd22cc4090be855e4c52cc8b95495dd722dbcfe3252c",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The twenty-third source adds [[KejiLuandun]], [[LaoGao]], [[ZhangLe]], [[WangDafu]], and [[ShengpaiNotice]] as a hands-on AI coding and operations case. It sharpens [[AIEngineeringThinking]] as the practical layer between a high-level wish and a usable product: requirements, architecture, tests, end-to-end checks, screenshots, docs, logs, review, compliance rubrics, and business handoffs. It also connects [[VibeCoding]], [[AICodingVerification]], [[ContextEngineering]], [[DomainExpertAlignment]], [[HumanJudgmentUnderAI]], and [[FrontlineAIEnablement]] through concrete examples in podcast production, old-system refactoring, data matching, internal content review, operations scripts, and flower-shop delivery operations.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AICodingVerification",
+        "AIEngineeringThinking",
+        "ContextEngineering",
+        "DomainExpertAlignment",
+        "FrontlineAIEnablement",
+        "HumanJudgmentUnderAI",
+        "KejiLuandun",
+        "LaoGao",
+        "ShengpaiNotice",
+        "VibeCoding",
+        "WangDafu",
+        "ZhangLe"
+      ]
+    },
+    {
+      "id": "52715042e7599e6607cfddd94598362a82d529943016e3a53e511d2623e9d9c6",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The twenty-fourth source adds [[LuZiheng]], [[Kaiwuji]], [[AIMaterialsDiscovery]], [[MaterialsPipelineCompany]], [[MatterSim]], and [[MatterGen]] as an AI-for-materials case. It turns [[AIForScience]] from a broad investment direction into a concrete workflow: business need, target properties, generated or searched candidates, expert filtering, gram-level experiment, kilogram-level validation, customer line trials, and production decisions. The episode argues that AI's largest materials leverage may come from original material IP discovery, but the value is only proven if models, experiments, expert judgment, scale-up, and commercialization form one loop.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIForScience",
+        "AIMaterialsDiscovery",
+        "Kaiwuji",
+        "LuZiheng",
+        "MaterialsPipelineCompany",
+        "MatterGen",
+        "MatterSim"
+      ]
+    },
+    {
+      "id": "1a2e01212d3091d103ea8e7139c2d65e7585c640ba8c4b97b55ab7659521749f",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The twenty-fifth source adds [[Xiaohongshu]], [[Shanbin]], [[XiaohongshuHackathonPeakCompetition]], [[XiaoE]], [[Mingwei]], [[YeBowen]], [[Edward]], [[ChenJingchu]], [[KunNi]], [[LiPengcheng]], [[PartyGuitar]], [[Atoom]], [[VibeSong]], [[KenanVoiceChanger]], [[AIHackathons]], [[BuildingPublic]], and [[AssistiveAI]] as an AI-builder community case. It turns [[VibeCoding]] from an individual or tool-market practice into an event and platform phenomenon: when prototypes can be made in 48 hours, the differentiators become idea selection, aesthetics, embodied or assistive usefulness, public storytelling, on-site mutual help, and the ability to turn demo attention into [[CustomerPull]].",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "AIHackathons",
+        "AssistiveAI",
+        "Atoom",
+        "BuildingPublic",
+        "ChenJingchu",
+        "CustomerPull",
+        "Edward",
+        "KenanVoiceChanger",
+        "KunNi",
+        "LiPengcheng",
+        "Mingwei",
+        "PartyGuitar",
+        "Shanbin",
+        "VibeCoding",
+        "VibeSong",
+        "XiaoE",
+        "Xiaohongshu",
+        "XiaohongshuHackathonPeakCompetition",
+        "YeBowen"
+      ]
+    },
+    {
+      "id": "2ac44564c51514aa7a3393577842c4f19e007d398966f97f481ae67c984c259d",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The twenty-sixth source adds [[FengyanFengyu]], [[JustinYan]], [[Zili]], [[StayPit]], [[NewSpot]], [[AgentNativeSoftware]], [[OnDemandApps]], and [[AgentPermissionBoundaries]] as a personal-agent and OpenClaw case. It turns the OpenCloud/OpenClaw wave from a market signal into a builder workflow: building a simplified [[OpenClaw]]-like agent through [[VibeCoding]] reveals how channels, triggers, self-written [[AISkills]], multimodal input, separate accounts, virtual machines, permission tiers, and [[AIInferenceCostStructure]] shape whether agent-native software can be useful and safe.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 1
+      },
+      "wikilinks": [
+        "AIInferenceCostStructure",
+        "AISkills",
+        "AgentNativeSoftware",
+        "AgentPermissionBoundaries",
+        "FengyanFengyu",
+        "JustinYan",
+        "NewSpot",
+        "OnDemandApps",
+        "OpenClaw",
+        "StayPit",
+        "VibeCoding",
+        "Zili"
+      ]
+    },
+    {
+      "id": "ac8475229910ddcdf470b37bec17fa774b0604f82e2a4f1ec4217617c8241563",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The twenty-seventh source returns to [[FengyanFengyu]] with a broader snapshot of AI acceleration. It adds [[Google]], [[Apple]], [[Siri]], [[Cloudflare]], and [[Superpowers]] while reinforcing [[Gemini]], [[Codex]], [[ClaudeCode]], [[Anthropic]], [[OpenAI]], and [[ChatGPT]]. Its distinctive contribution is to combine hands-on agent orchestration, [[AIProductFragmentation]], platform-level assistant risk, operations automation, [[AIWorkforceMonitoring]], token-cost anxiety, and the observation that current AI chat still struggles to create the divergent, socially surprising value of human conversation.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1
+      },
+      "wikilinks": [
+        "AIProductFragmentation",
+        "AIWorkforceMonitoring",
+        "Anthropic",
+        "Apple",
+        "ChatGPT",
+        "ClaudeCode",
+        "Cloudflare",
+        "Codex",
+        "FengyanFengyu",
+        "Gemini",
+        "Google",
+        "OpenAI",
+        "Siri",
+        "Superpowers"
+      ]
+    },
+    {
+      "id": "68fd3127057b7c3447e4ae70ded4f05212779473fa1f40a8ef30f7190e53816f",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The twenty-eighth source returns to [[KejiLuandun]] with [[Baidu]] as a legacy search-platform case. It adds [[LiYanhong]], [[Wenxin]], and [[LuQi]], then frames Baidu's reported loss and online-marketing decline through [[SearchAdvertisingDecline]], [[OpenWebTrafficDecline]], and [[CashCowStrategicInertia]]. Its distinctive contribution is the AI-search cannibalization problem: putting AI answers at the top of search may improve answer delivery while weakening the old ad-click path, and early AI investment does not matter unless it becomes a product users actually choose.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "Baidu",
+        "CashCowStrategicInertia",
+        "KejiLuandun",
+        "LiYanhong",
+        "LuQi",
+        "OpenWebTrafficDecline",
+        "SearchAdvertisingDecline",
+        "Wenxin"
+      ]
+    },
+    {
+      "id": "c6bf8425c5a0bb7bf5a623b4a199c295a6dec026dc9564326844e115e4752d9a",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The twenty-ninth source returns to [[YiLaoYongYi]] with [[Mannisen]] and [[Shuixian]] discussing post-2000s internship pressure. It adds [[GraduationAnxiety]], [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[BigCompanyHalo]], and [[DirtyWork]] as a career-entry cluster: internships can calm anxiety and signal employability, but they are more useful when tied to a concrete stage goal, explicit communication practice, and direction filtering.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "BigCompanyHalo",
+        "DirtyWork",
+        "GraduationAnxiety",
+        "InternshipAsCareerExploration",
+        "Mannisen",
+        "Shuixian",
+        "WorkplaceHiddenRules",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "f611786b550081d94f1b86b6b3b85ee0b6eca9fd39985a94323d86ceb7c6cac2",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The thirtieth source adds [[HowIBuiltThis]], [[GuyRaz]], [[JustinGold]], [[JustinsNutButter]], [[WholeFoodsMarket]], [[UNFI]], [[Starbucks]], [[LanceGentry]], [[PeterBurns]], [[VMG]], [[Hormel]], [[ForwardConsumerPartners]], and [[MattLeeds]] as a CPG founder case. It turns the wiki's validation and distribution themes into a physical-retail problem: product taste mattered, but so did shared kitchens, jar costs, demos, distributor gatekeeping, [[RetailShelfPlacement]], [[SalesVelocity]], [[TrialSizeProduct]], food audits, operator hiring, and the emotional complexity of selling and later returning to a founder-named brand.",
+      "topic_scores": {
+        "business-and-markets": 6
+      },
+      "wikilinks": [
+        "ForwardConsumerPartners",
+        "GuyRaz",
+        "Hormel",
+        "HowIBuiltThis",
+        "JustinGold",
+        "JustinsNutButter",
+        "LanceGentry",
+        "MattLeeds",
+        "PeterBurns",
+        "RetailShelfPlacement",
+        "SalesVelocity",
+        "Starbucks",
+        "TrialSizeProduct",
+        "UNFI",
+        "VMG",
+        "WholeFoodsMarket"
+      ]
+    },
+    {
+      "id": "215ef9c251ef6052a5f1d59ccaa118d8fb764568b55bb7823f51d7da6423cfb2",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Catalina Crunch source adds a second [[HowIBuiltThis]] CPG founder case with a different center of gravity. [[CatalinaCrunch]] starts from [[DietaryConstraintProductInsight]] rather than flavor variety: [[KrishnaKaliannan]] needed low-sugar, low-carb, crunchy food for diabetes, epilepsy, and keto eating. Its operating lesson is [[CPGManufacturingScaleUp]]: early [[CustomerPull]] from friends, diabetes communities, and online orders did not remove the need to solve formulation, commercial kitchens, co-manufacturing, stand-up pouch packaging, low-ticket shipping economics, [[WholeFoodsMarket]] claim positioning, [[CommodityPriceExposure]], and later [[FounderRoleTransition]] through [[DougBehrens]].",
+      "topic_scores": {
+        "business-and-markets": 5
+      },
+      "wikilinks": [
+        "CPGManufacturingScaleUp",
+        "CatalinaCrunch",
+        "CommodityPriceExposure",
+        "CustomerPull",
+        "DietaryConstraintProductInsight",
+        "DougBehrens",
+        "FounderRoleTransition",
+        "HowIBuiltThis",
+        "KrishnaKaliannan",
+        "WholeFoodsMarket"
+      ]
+    },
+    {
+      "id": "fc40068701aa86ce68184f5090c6d1674d29f55aa0313e2d36ef69602ffb8a02",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The thirty-first source returns to [[YiLaoYongYi]] with [[LaoMai]] and [[Daxiong]] explaining global market turmoil. It adds [[FederalReserve]], [[BankOfJapan]], [[BerkshireHathaway]], [[YenCarryTrade]], [[CarryTradeUnwind]], [[YieldCurveInversion]], [[MarketMeanReversion]], [[MonetaryPolicyLag]], and [[DerivativeAmplifiedVolatility]] as a macro-market stress cluster: equity drawdowns can come from valuation, policy, currency funding, derivatives, leverage, and sentiment feedback rather than one clean fundamental trigger.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "BankOfJapan",
+        "BerkshireHathaway",
+        "CarryTradeUnwind",
+        "Daxiong",
+        "DerivativeAmplifiedVolatility",
+        "FederalReserve",
+        "LaoMai",
+        "MarketMeanReversion",
+        "MonetaryPolicyLag",
+        "YenCarryTrade",
+        "YiLaoYongYi",
+        "YieldCurveInversion"
+      ]
+    },
+    {
+      "id": "a281f78abe175ac403d5de7cd9b84fe52243f3552bc88b63c7710c9ad318a8d3",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The thirty-second source continues [[YiLaoYongYi]]'s market thread with [[LaoMai]] and [[Daxiong]] discussing recession risk, U.S. equities, U.S. Treasuries, and RMB/USD. It adds [[USRecessionRisk]] and [[SahmRule]] as labor and macro warning frames, [[AIEquityValuationRisk]] through [[Nvidia]], [[JensenHuang]], [[Microsoft]], [[Google]], and [[Amazon]], and the allocation cluster of [[QDIIAllocation]], [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]] through [[USTreasury]], [[JanetYellen]], and [[PeoplesBankOfChina]].",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIEquityValuationRisk",
+        "Amazon",
+        "CurrencyRisk",
+        "Daxiong",
+        "Google",
+        "JanetYellen",
+        "JensenHuang",
+        "LaoMai",
+        "Microsoft",
+        "Nvidia",
+        "PeoplesBankOfChina",
+        "QDIIAllocation",
+        "RMBExchangeRatePolicy",
+        "SahmRule",
+        "TreasuryDurationRisk",
+        "USRecessionRisk",
+        "USTreasury",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "c81cac1b955d29b2fcdbd70884d32c5370f7dc34dba118525b7d6ddce5d0302c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The thirty-third source adds [[Banlatte]] as a China business-history podcast and reframes mobile phones as [[MobileInternetPrehistory]]. It adds [[Motorola]], [[Nokia]], and [[Ericsson]] as the old global handset/network leaders, [[GSMStandardization]] and [[Symbian]] as the standards and pre-iPhone smartphone platform layer, [[IPhone]] and [[Android]] as the touch-and-app ecosystem turn, [[HTC]] and [[Samsung]] as Android-era hardware examples, and [[BirdMobile]], [[Kejian]], [[MediaTek]], [[Huaqiangbei]], [[ShanzhaiPhones]], [[TurnkeyHandsetSolutions]], [[PHSXiaolingtong]], [[ChineseDomesticHandsetWaves]], [[OperatorSubsidizedHandsets]], [[ChinaHandsetSupplyChain]], and [[FeaturePhoneCulturalMemory]] as the Chinese domestic handset and supply-chain arc.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "Android",
+        "Banlatte",
+        "BirdMobile",
+        "ChinaHandsetSupplyChain",
+        "ChineseDomesticHandsetWaves",
+        "Ericsson",
+        "FeaturePhoneCulturalMemory",
+        "GSMStandardization",
+        "HTC",
+        "Huaqiangbei",
+        "IPhone",
+        "Kejian",
+        "MediaTek",
+        "MobileInternetPrehistory",
+        "Motorola",
+        "Nokia",
+        "OperatorSubsidizedHandsets",
+        "PHSXiaolingtong",
+        "Samsung",
+        "ShanzhaiPhones",
+        "Symbian",
+        "TurnkeyHandsetSolutions"
+      ]
+    },
+    {
+      "id": "41092178006b2bf34507164b12d8d879c36bb3cb5f5ccdf46a7b4206a1ba1e53",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The thirty-fourth source returns to [[YiLaoYongYi]]'s career thread with [[UpwardManagement]] as the central frame. It adds [[PromotionExpectationManagement]] and [[InternalTransferStrategy]] while extending [[WorkplaceHiddenRules]] from intern etiquette into boss-facing execution: clarify the boss's real demand, bring options rather than only problems, avoid surprising the person who carries accountability, prepare promotion evidence before review season, and handle department movement as a managed transition rather than a betrayal.",
+      "topic_scores": {
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "InternalTransferStrategy",
+        "PromotionExpectationManagement",
+        "UpwardManagement",
+        "WorkplaceHiddenRules",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "330b5e1f4fe6fc3c97a56acb8c821df2d3875daf84bc2c1da71022066f2469c6",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The thirty-fifth source adds [[NeiheKonghuang]], [[WuTao]], and [[Ryo]] as a technical-culture podcast case. It adds [[ImmersiveTranslate]] and [[AITranslation]] through webpages, PDFs, subtitles, OCR, manga, and translation-earbud examples; [[TaskAsAService]] through the idea that users may stop operating apps when the computer can complete the task; [[AIProgrammingEngineShift]] through the metaphor that AI gives programming an engine; [[EuropeanAIIndustrialConstraints]] through [[EuropeanUnion]], [[SAP]], and [[AlephAlpha]] references; and [[ABriefHistoryOfIntelligence]] as a bridge from biological intelligence to simulation, [[WorldModels]], and current model self-description.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "culture-and-media": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ABriefHistoryOfIntelligence",
+        "AIProgrammingEngineShift",
+        "AITranslation",
+        "AlephAlpha",
+        "EuropeanAIIndustrialConstraints",
+        "EuropeanUnion",
+        "ImmersiveTranslate",
+        "NeiheKonghuang",
+        "Ryo",
+        "SAP",
+        "TaskAsAService",
+        "WorldModels",
+        "WuTao"
+      ]
+    },
+    {
+      "id": "ffc573666862dcd2875a52249adf8ffe49169fb6c83e3e48f7edb53622e28f04",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The thirty-sixth source returns to [[NeiheKonghuang]] with [[WuTao]] and [[Ryo]] discussing Apple Podcasts' anniversary, early iPod/iTunes listening, campus radio, listener feedback, AI programming, and monitor choice. It adds [[PodcastAsAsynchronousMedia]] as a frame for recorded audio, live-radio tradeoffs, and portable listening habits; adds [[DisplayErgonomics]] as a frame for screen size, aspect ratio, curvature, DPI, viewing distance, Retina, and text clarity; reinforces [[AIProgrammingEngineShift]], [[VibeCoding]], and [[AICodingVerification]] by arguing that AI changes familiar programming work without eliminating judgment; and extends [[OpenWebTrafficDecline]] through anecdotes about search moving toward short-video and [[Xiaohongshu]] entry points.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "culture-and-media": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AICodingVerification",
+        "AIProgrammingEngineShift",
+        "DisplayErgonomics",
+        "NeiheKonghuang",
+        "OpenWebTrafficDecline",
+        "PodcastAsAsynchronousMedia",
+        "Ryo",
+        "VibeCoding",
+        "WuTao",
+        "Xiaohongshu"
+      ]
+    },
+    {
+      "id": "317e449895bd48ec58de5266d08a7e6fc4e742d773e1583c9bfd7b1f69eaec49",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The thirty-seventh source returns to [[HowIBuiltThis]] through an Advice Line episode with [[JeffreyHollender]] of [[SeventhGeneration]]. It adds [[PurposeDrivenBusiness]], [[GreenHushing]], [[MissionDrivenCustomerEducation]], and [[SustainableGrowthPace]] while connecting [[25AndPine]], [[RedTruckOrchards]], and [[Petaluma]] to the existing CPG and validation cluster: social attention must become repeatable acquisition, unfamiliar food products need sampling and simple use cases, plant-based dog food should lead with function and evidence rather than guilt, and mission-driven growth still has to respect employee and operating capacity.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "25AndPine",
+        "GreenHushing",
+        "HowIBuiltThis",
+        "JeffreyHollender",
+        "MissionDrivenCustomerEducation",
+        "Petaluma",
+        "PurposeDrivenBusiness",
+        "RedTruckOrchards",
+        "SeventhGeneration",
+        "SustainableGrowthPace"
+      ]
+    },
+    {
+      "id": "5f32aa9f664db977750ace9bcf2f08ca9ffa458d2228f4f55f916123dc05a31f",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The thirty-eighth source returns to [[YiLaoYongYi]]'s fictional time-travel investing format with [[JesseLivermore]]. It adds [[TrendFollowing]] as a market-confirmation method, [[StopLossDiscipline]] as the practical exit rule, [[Pyramiding]] as a way to add only after favorable evidence, [[AveragingDown]] as the failure mode behind several Livermore losses, and [[SpeculativeBubblePsychology]] as the bridge from railroad, automobile, and 1929 narratives to current AI-market enthusiasm.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "AveragingDown",
+        "JesseLivermore",
+        "Pyramiding",
+        "SpeculativeBubblePsychology",
+        "StopLossDiscipline",
+        "TrendFollowing",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "2244af2a56de3cca8ddf06f3cb786ad6a8164d192c2d6441cbab19e718e5e7f6",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The thirty-ninth source returns to [[YiLaoYongYi]] with a non-AI creator-economy case: [[Zhuzhu]] explains ordinary [[Xiaohongshu]] posting, brand collaborations, barter, local store visits, platform review, hostile comments, and the limits of follower-count economics. It adds [[XiaohongshuCreatorMonetization]], [[LocalLifestyleStoreReviews]], [[LifestyleSubsidyCreatorWork]], and [[FinancialFreedomVsLifestyleFreedom]] as a cluster about modest self-media income, local business promotion, and lifestyle autonomy.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3,
+        "culture-and-media": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "FinancialFreedomVsLifestyleFreedom",
+        "LifestyleSubsidyCreatorWork",
+        "LocalLifestyleStoreReviews",
+        "Xiaohongshu",
+        "XiaohongshuCreatorMonetization",
+        "YiLaoYongYi",
+        "Zhuzhu"
+      ]
+    },
+    {
+      "id": "0d0852cb292f592ef772fce0493e140a9af1ca900c132b841fad7e1c50184843",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The fortieth source returns to [[YiLaoYongYi]]'s market thread with [[LaoMai]] and [[Daxiong]] discussing whether to stay in or leave U.S. equities after a sharp 2025 pullback. It adds [[DonaldTrump]] and [[JeromePowell]] as policy-context figures, [[GoldmanSachs]] and [[JPMorganChase]] as market-data and bank-signal references, [[Tesla]] as a political-momentum and valuation case, and [[HSBC]], [[SP500]], [[NasdaqComposite]], [[HangSengTechIndex]], and [[Xiaomi]] as allocation objects. Its main conceptual additions are [[MegaCapConcentrationRisk]], [[RetailInvestorCrowding]], [[DefensiveDividendAssets]], [[IndexReentryDiscipline]], [[HongKongTechRepricing]], and [[ContrarianSentimentIndicators]].",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ContrarianSentimentIndicators",
+        "Daxiong",
+        "DefensiveDividendAssets",
+        "DonaldTrump",
+        "GoldmanSachs",
+        "HSBC",
+        "HangSengTechIndex",
+        "HongKongTechRepricing",
+        "IndexReentryDiscipline",
+        "JPMorganChase",
+        "JeromePowell",
+        "LaoMai",
+        "MegaCapConcentrationRisk",
+        "NasdaqComposite",
+        "RetailInvestorCrowding",
+        "SP500",
+        "Tesla",
+        "Xiaomi",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "f0e80eda5a9486a162f15edd77471fb1c0b453e229b88210a55b0fdf428eccd4",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The forty-first source returns to [[YiLaoYongYi]] through a [[QianliangHutongFM]] crossover on banking work. It adds [[BankOrganizationalHierarchy]] and [[MatrixReporting]] as organization concepts, [[ForeignBankingInChina]] and [[BankClientSegmentation]] as operating and customer-positioning concepts, and [[BankingKYCCompliance]] plus [[BankingComplianceBoundaries]] as regulatory-practice concepts linking account opening, tax declarations, data localization, product advice, and witness account opening.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BankClientSegmentation",
+        "BankOrganizationalHierarchy",
+        "BankingComplianceBoundaries",
+        "BankingKYCCompliance",
+        "ForeignBankingInChina",
+        "MatrixReporting",
+        "QianliangHutongFM",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "52d991e952ccfe3d7e532cf96f4f07630fd3bce222d87c2703f49910b14103a5",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The forty-second source returns to [[YiLaoYongYi]] through an aviation workplace conversation with an anonymous long-tenured cabin crew member. It adds [[CabinCrewWork]], [[AirlineServiceDifferentiation]], [[PassengerComplaintHandling]], and [[AviationSafetyRules]] while using [[Emirates]], [[AirNewZealand]], and [[SingaporeAirlines]] as airline-service examples.",
+      "topic_scores": {
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AirNewZealand",
+        "AirlineServiceDifferentiation",
+        "AviationSafetyRules",
+        "CabinCrewWork",
+        "Emirates",
+        "PassengerComplaintHandling",
+        "SingaporeAirlines",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "2e5b513dcdc3aff51365436c87b4b4c5415dc77ffadd7612b21971730b54bf20",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The forty-third source returns to [[YiLaoYongYi]] through an anti-money-laundering explainer anchored by [[QianTuWuLiang]]. It adds [[AntiMoneyLaundering]], [[MoneyLaunderingStages]], [[ConsumerAMLExposure]], [[AccountMisuseRisk]], [[CrossBorderFundTransferRisk]], [[UndergroundMoneyTransferRisk]], and [[VirtualAssetAMLRisk]], while updating [[BankingKYCCompliance]], [[BankingComplianceBoundaries]], [[CryptocurrencyMarketStructure]], [[Bitcoin]], and [[Stablecoins]] with a compliance and personal-risk lens.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 2
+      },
+      "wikilinks": [
+        "AccountMisuseRisk",
+        "AntiMoneyLaundering",
+        "BankingComplianceBoundaries",
+        "BankingKYCCompliance",
+        "Bitcoin",
+        "ConsumerAMLExposure",
+        "CrossBorderFundTransferRisk",
+        "CryptocurrencyMarketStructure",
+        "MoneyLaunderingStages",
+        "QianTuWuLiang",
+        "Stablecoins",
+        "UndergroundMoneyTransferRisk",
+        "VirtualAssetAMLRisk",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "34e8666631b913edf595541c10143e1734042d7bcdd1775b37d23c655dd9dd2c",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The forty-fourth source returns to [[YiLaoYongYi]] with [[Xiaodai]] explaining ordinary insurance buying. It adds [[InsuranceRiskTransfer]] as the product-fit frame, [[FamilyProtectionInsurancePlanning]] for term life and household responsibility, [[HealthInsurancePlanning]] for critical illness, medical, and high-end medical coverage, [[SavingsStyleInsurance]] for annuity and forced-saving products, [[OverseasInsuranceRisk]] for Hong Kong and foreign-currency insurance, and [[InsuranceSalesTrust]] for banks, brokers, agents, online platforms, commissions, and long-term service.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "FamilyProtectionInsurancePlanning",
+        "HealthInsurancePlanning",
+        "InsuranceRiskTransfer",
+        "InsuranceSalesTrust",
+        "OverseasInsuranceRisk",
+        "SavingsStyleInsurance",
+        "Xiaodai",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "b77a2238e9237a4ae21cb64d14d504dab107303436c022782520ca8c3b28118d",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The forty-fifth source returns to [[YiLaoYongYi]] with [[Xiaodai]] and [[LaoMai]] discussing finance workers' diverging paths after cycles, platform choices, and money temptation. It uses [[ZhongzhiGroup]] as the news hook, then adds [[FinancialCareerRisk]] for platform, title, compensation, and client-resource decisions; [[ThirdPartyWealthPlatformRisk]] for high-yield, high-commission, high-status outside platforms; [[FinancialEmployeeMisconductControls]] for gambling, borrowing, relationship, and customer-information controls; [[IndependentInvestmentConsulting]] and [[InvestorEducation]] for advice-fee and customer-understanding work; and [[FinanceCareerPortability]] for moving finance-trained skills into management, training, consulting, clothing, food service, or other life paths.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "FinanceCareerPortability",
+        "FinancialCareerRisk",
+        "FinancialEmployeeMisconductControls",
+        "IndependentInvestmentConsulting",
+        "InvestorEducation",
+        "LaoMai",
+        "ThirdPartyWealthPlatformRisk",
+        "Xiaodai",
+        "YiLaoYongYi",
+        "ZhongzhiGroup"
+      ]
+    },
+    {
+      "id": "3388c4bc8e013733961074a1bf565ff7c822a9b53ad20ee10e612dd6c185800d",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The forty-sixth source returns to [[YiLaoYongYi]] through [[CityInTheCity]] and a bank-workplace realism discussion with [[Maidisen]], [[MagicJack]], and [[Xiaodai]]. It adds [[BankInternalAudit]] as an institutional risk-control frame, [[BankDueDiligence]] as a documented credit-work and loan-use discipline, and [[WorkplaceRelationshipBoundaries]] as the practical separation between coworkers, friends, bosses, and sides in office conflict.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "BankDueDiligence",
+        "BankInternalAudit",
+        "CityInTheCity",
+        "MagicJack",
+        "Maidisen",
+        "WorkplaceRelationshipBoundaries",
+        "Xiaodai",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "id": "f25cc6eb8f3350925bcfe3829f31a0c7226f93be441604a1fb7060e5a5490539",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology",
+        "work-education-and-society"
+      ],
+      "text": "Across the sources, AI adoption, technical SaaS adoption, CPG adoption, creator work, handset adoption, and investing themes depend on context, implementation detail, distribution, product trust, verification, and interface, channel, supply-chain, community, merchandising, or market-structure design rather than capability claims alone. Enterprise deployment appears as [[ForwardDeployedEngineer]] work in the first source and is deepened by the [[RollingAI]] source through [[DigitalEmployees]], [[FrontlineAIEnablement]], and [[BusinessLedAITransformation]]; model access only matters when it enters workflows, incentives, systems, and local judgment. The second source shows the same principle through production failures in [[AIAssistedSoftwareDevelopmentRisk]] and through [[HumanJudgmentUnderAI]], where AI can improve preparation but cannot replace fast, situated judgment in live professional settings. The [[HeadlessSoftware]] source adds that products also need agent-callable surfaces; if an agent can execute the work, GUI becomes more important for review and trust than for the core operation itself. The [[Paperboy]] source adds the personal-agent version: agents need [[OSLevelContext]], [[PersistentAgentMemory]], and calibrated [[ProactiveAgents]] before they can become high-bandwidth collaborators instead of prompt-driven tools. The [[Xiaoban]] source adds the physical AI version: a useful model is only one layer inside material safety, motion latency, privacy choices, expressive design, charging rituals, and the user's interpretation of agency. The [[JustinsNutButter]] and [[CatalinaCrunch]] sources add the physical retail version: a liked product still needs production capacity, [[CPGDistribution]], [[InStoreDemos]], [[RetailShelfPlacement]], [[PackagingAsProductExperience]], and [[CPGManufacturingScaleUp]] before demand becomes scalable. The [[Banlatte]] handset source adds the mobile-hardware version: a desired device still depends on network standards, operator channels, chips, factories, after-sales, [[ChinaHandsetSupplyChain]], and [[SmartphoneOperatingSystemEcosystems]]. The [[MiniMax]] source adds the model-builder version: even as [[FrontierModelScaling]] and [[MiniMaxM3]] improve generation, teams still need [[AICodingVerification]], [[DomainExpertAlignment]], and [[ModelHarnessCoEvolution]]. The [[AetherAI]] source adds the causal-robotics version: for physical tasks, capability claims remain weak unless the model can handle hidden variables, distribution shift, and action-conditioned dynamics through [[CausalWorldModels]]. The [[Youju]] source adds the entertainment version: generated content and prototypes matter only if they become stable systems, designed agency, repeatable fun, creator-consumer loops, and social context through [[AIInteractiveEntertainment]] and [[AIGameIndustrialization]]. The [[StepFun]] source adds the terminal-strategy version: model capability has to meet vehicles, cabins, devices, physical data, and [[AIOrganizationDesign]] before it becomes a durable company loop. The [[ThreatLocker]] source adds the cybersecurity version: claims about [[ZeroTrustSecurity]] and [[DefaultDenySecurity]] only matter when they work in real customer environments and can be sold through credible technical channels. The [[JimSimons]] source adds the investing version: AI can lower research cost, but market advantage still depends on data, execution, risk control, incentives, patience, and avoiding overconfidence. The EP38 [[YiLaoYongYi]] source adds the market-stress version: investors may understand a selloff only by combining policy timing, [[YenCarryTrade]] funding, [[DerivativeAmplifiedVolatility]], [[YieldCurveInversion]], and [[MarketMeanReversion]] rather than searching for one isolated bad event. EP57 adds the broad-index version: investors may understand a U.S. equity pullback only by combining [[DonaldTrump]] policy pressure, [[FederalReserve]] timing, [[RetailInvestorCrowding]], [[MegaCapConcentrationRisk]], [[AIEquityValuationRisk]], and [[IndexReentryDiscipline]] rather than assuming every correction is a clean buying opportunity. EP41 adds the workplace version: employees may understand career outcomes only by combining demand clarification, evidence, manager incentives, decision ownership, timing, and organization culture rather than assuming competence will automatically be seen. EP43 adds the creator-work version: ordinary creators may understand income only by combining niche fit, merchant budgets, local search behavior, content packaging, platform review, and fixed living costs rather than assuming follower count creates wealth. The [[KejiLuandun]] AI coding source adds the hands-on builder version: AI lowers implementation cost, but users still need [[AIEngineeringThinking]] to specify the problem, verify output, expose logs, handle human communication, and decide which business logic matters. The [[KejiLuandun]] Baidu source adds the incumbent-platform version: AI investment does not rescue a company if the distribution substrate shifts and the new AI product does not become a chosen entry point. The [[XiaohongshuHackathonPeakCompetition]] source adds the public-builder version: AI lowers prototype cost, but teams still need [[BuildingPublic]], demo craft, community feedback, accessible usefulness, and follow-up validation after applause. The [[Ninety]], [[TeaMaker]], [[PeakAI]], [[Sprinto]], [[ThreatLocker]], [[JustinsNutButter]], [[CatalinaCrunch]], [[Banlatte]], [[Zhuzhu]], and EP57 market source extend this into company, creator, and investor strategy: lower build friction, better product ideas, visible audience attention, or a market pullback do not remove distribution, support, customer-commitment work, production engineering, workflow productization, audit evidence, category education, manufacturing constraints, shelf economics, supply-chain depth, ecosystem timing, merchant satisfaction, platform compliance, valuation, crowding, or the need to prove recurring demand and price discipline.",
+      "topic_scores": {
+        "ai-and-technology": 7,
+        "business-and-markets": 11,
+        "culture-and-media": 2,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 5,
+        "work-education-and-society": 6
+      },
+      "wikilinks": [
+        "AIAssistedSoftwareDevelopmentRisk",
+        "AICodingVerification",
+        "AIEngineeringThinking",
+        "AIEquityValuationRisk",
+        "AIGameIndustrialization",
+        "AIInteractiveEntertainment",
+        "AIOrganizationDesign",
+        "AetherAI",
+        "Banlatte",
+        "BuildingPublic",
+        "BusinessLedAITransformation",
+        "CPGDistribution",
+        "CPGManufacturingScaleUp",
+        "CatalinaCrunch",
+        "CausalWorldModels",
+        "ChinaHandsetSupplyChain",
+        "DefaultDenySecurity",
+        "DerivativeAmplifiedVolatility",
+        "DigitalEmployees",
+        "DomainExpertAlignment",
+        "DonaldTrump",
+        "FederalReserve",
+        "ForwardDeployedEngineer",
+        "FrontierModelScaling",
+        "FrontlineAIEnablement",
+        "HeadlessSoftware",
+        "HumanJudgmentUnderAI",
+        "InStoreDemos",
+        "IndexReentryDiscipline",
+        "JimSimons",
+        "JustinsNutButter",
+        "KejiLuandun",
+        "MarketMeanReversion",
+        "MegaCapConcentrationRisk",
+        "MiniMax",
+        "MiniMaxM3",
+        "ModelHarnessCoEvolution",
+        "Ninety",
+        "OSLevelContext",
+        "PackagingAsProductExperience",
+        "Paperboy",
+        "PeakAI",
+        "PersistentAgentMemory",
+        "ProactiveAgents",
+        "RetailInvestorCrowding",
+        "RetailShelfPlacement",
+        "RollingAI",
+        "SmartphoneOperatingSystemEcosystems",
+        "Sprinto",
+        "StepFun",
+        "TeaMaker",
+        "ThreatLocker",
+        "Xiaoban",
+        "XiaohongshuHackathonPeakCompetition",
+        "YenCarryTrade",
+        "YiLaoYongYi",
+        "YieldCurveInversion",
+        "Youju",
+        "ZeroTrustSecurity",
+        "Zhuzhu"
+      ]
+    },
+    {
+      "id": "4ac05dd03640e1697eef383173843af55b92751790b2a236229a5691b20d0f09",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Advice Line source extends that same implementation-over-claims principle to mission-driven consumer products. [[PurposeDrivenBusiness]] is not treated as a substitute for product-market fit: [[SeventhGeneration]] still has to lead with cleaning performance, [[RedTruckOrchards]] still has to create trial and repeat purchase, [[Petaluma]] still has to prove health and palatability, and [[25AndPine]] still has to turn social attention into a repeatable channel.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "25AndPine",
+        "Petaluma",
+        "PurposeDrivenBusiness",
+        "RedTruckOrchards",
+        "SeventhGeneration"
+      ]
+    },
+    {
+      "id": "9262b27e96fe36ca64b0ea156a44e15cfe2f1ca3d306abe592aeab40ef9ffad9",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Christina Tosi Advice Line source extends the same principle to creative consumer brands. [[TheBeauCollective]] cannot assume Park City proof automatically transfers to Phoenix; [[CottonClara]] cannot choose category language without studying repeat buyers; and [[VashonIslandCoffeeDust]] cannot rely on giftability unless packaging, ritual, use cases, and convenience turn recipients into repeat customers.",
+      "topic_scores": {
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "CottonClara",
+        "TheBeauCollective",
+        "VashonIslandCoffeeDust"
+      ]
+    },
+    {
+      "id": "3d0496e30a483b2fd78706892603f1c57f02aa75800832d5f282a8fc4267b1de",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The e.l.f. source adds the value-brand version of the same principle. [[ELFCosmetics]] could sell for one dollar only because [[JoeyShamah]] and [[ScottVincentBorba]] solved packaging cost, initial PR, online ordering, [[HEB]] proof, [[Target]] tiering, and crisis fulfillment; low price did not remove the need for [[CPGDistribution]], [[SalesVelocity]], [[RetailShelfPlacement]], and [[FounderCashFlowConstraint]] discipline.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CPGDistribution",
+        "ELFCosmetics",
+        "FounderCashFlowConstraint",
+        "HEB",
+        "JoeyShamah",
+        "RetailShelfPlacement",
+        "SalesVelocity",
+        "ScottVincentBorba",
+        "Target"
+      ]
+    },
+    {
+      "id": "2a4b14020eebeac8958aa3dfb1fe76f39d0f63e6ed84cc55d80151b1b862f13d",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Sushiro source adds the chain-restaurant version of the same principle. [[ConveyorBeltSushi]] looks consumer-facing and playful, but [[Sushiro]]'s China traction depends on [[RestaurantSupplyChainLocalization]], [[ChainRestaurantStandardization]], mall-site sequencing, cooked-food localization, and system-level waste control. It extends the wiki's CPG and hospitality branches by showing that freshness, value, and experience can be produced through a repeatable operating system rather than through packaging, shelf placement, or bespoke restaurant atmosphere alone.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChainRestaurantStandardization",
+        "ConveyorBeltSushi",
+        "RestaurantSupplyChainLocalization",
+        "Sushiro"
+      ]
+    },
+    {
+      "id": "57330ede9aeb197a6e7eea2f9713a9547248e11c0797cd5529852800c8a9164e",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The [[BairongIntelligence]] source operationalizes the enterprise-deployment thread from a different angle than [[RollingAI]]. Where the FDE source emphasizes bringing AI into customer organizations, Bairong emphasizes running digital employees inside an operating company: fit agents into existing processes first, reward employees who teach them, expose legacy systems through APIs, and price work by measurable output.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BairongIntelligence",
+        "RollingAI"
+      ]
+    },
+    {
+      "id": "8110fb2b43f34c1f8d6459c317f6097808b3b71e2e91a93f86029b236b2d4346",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The recent [[AgentHarness]] sources make the agent-interface thread more concrete. [[HeadlessSoftware]] and [[AgentFacingInterfaces]] explain why agents need callable surfaces, while [[LaiXinlu]] adds that those surfaces should be inside a harness with execution ability, context/environment, and governance/orchestration. The [[HermesAgent]] source adds that harnesses must also support durable memory, saved skills, cross-agent review, interleaved tool feedback, and identity boundaries. The earlier [[FengyanFengyu]] source adds the local personal-agent version: trusted versus self-written skills, explicit versus automatic tool invocation, separate accounts, virtual machines, and trigger cadence. The Vol. 166 source adds a practical orchestration version through [[Superpowers]], design/plan markdown, subagents, review loops, computer-use style delegation, and [[Cloudflare]] operations. Together these sources turn memory, skills, CLI tools, sandboxing, context compression, handoff, permissions, review, and feedback into one system-design problem rather than separate feature ideas.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AgentFacingInterfaces",
+        "AgentHarness",
+        "Cloudflare",
+        "FengyanFengyu",
+        "HeadlessSoftware",
+        "HermesAgent",
+        "LaiXinlu",
+        "Superpowers"
+      ]
+    },
+    {
+      "id": "7ae984347442592b780585e4d35e1d92adf0a6f34ad57818033d57c05712ae00",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The [[Podwise]] source adds the product-client version of that thread. [[AgentOptimizedCLI]] turns the CLI-first claim into a design checklist: expose atomic actions instead of copying the GUI, make discovery first-class, keep commands pipeable and non-interactive, return structured output and actionable errors, separate terminal rendering from machine output, and move stable conversions into deterministic tools to reduce [[AIInferenceCostStructure]] waste. [[AISkills]] then become the layer that composes those atoms into [[AgenticWorkflow]] and [[TaskAsAService]] patterns.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1
+      },
+      "wikilinks": [
+        "AIInferenceCostStructure",
+        "AISkills",
+        "AgentOptimizedCLI",
+        "AgenticWorkflow",
+        "Podwise",
+        "TaskAsAService"
+      ]
+    },
+    {
+      "id": "b2db4ab93a7ddc6f5087b46032a3117a92437c116d0e7742d5d45b7f0783d176",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The EP127 [[YingdiHaike]] source adds the skills-as-operating-routine version of the same agent branch. [[AISkills]] are useful when they handle repeated work, weak-domain support, or real verification; otherwise they create context noise. Its coding examples make [[Playwright]], TDD, review loops, architecture maps, release checks, and cross-agent critique part of [[AICodingVerification]] and [[AIEngineeringThinking]], while its non-coding examples turn podcast transcripts, [[WeChatReading]] notes, email triage, analytics, server-cost monitoring, and investment tracking into [[RoutineAgentAutomation]]. The same source sharpens the governance boundary: more trust in [[Codex]], [[ClaudeCode]], or [[OpenCloud]] shifts work away from manual prompting, but [[AgentPermissionBoundaries]] and [[HumanJudgmentUnderAI]] still decide what can safely run unattended.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AICodingVerification",
+        "AIEngineeringThinking",
+        "AISkills",
+        "AgentPermissionBoundaries",
+        "ClaudeCode",
+        "Codex",
+        "HumanJudgmentUnderAI",
+        "OpenCloud",
+        "Playwright",
+        "RoutineAgentAutomation",
+        "WeChatReading",
+        "YingdiHaike"
+      ]
+    },
+    {
+      "id": "86e7a52f30dce8e0968dd3ad3227e2671a1b1f60bb9aafd41523c932020a3ae5",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The Planet Money prediction-market history source extends the market-governance synthesis backward. [[IowaElectronicMarkets]] shows that market prices can forecast elections well enough to challenge polling, while [[ElectionBettingMarkets]] shows that the same practice has long mixed information aggregation with gambling, political signaling, and hedging. [[AcademicPredictionMarketSandbox]] adds a regulatory design lesson: small-stakes research markets can be useful, but commercial successors such as [[Kalshi]] and [[Polymarket]] inherit harder questions about event scope, trader eligibility, insider information, and public trust.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AcademicPredictionMarketSandbox",
+        "ElectionBettingMarkets",
+        "IowaElectronicMarkets",
+        "Kalshi",
+        "Polymarket"
+      ]
+    },
+    {
+      "id": "1bca33302181e162ad304789966655ec9faad6fc8488501c32caca612d13bf56",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The investment and platform synthesis is that easy software wrappers face pressure from frontier models and agent tooling, but paid AI norms may also create room for focused tools if they solve concrete problems, earn trust, and can be found by customers or agents. [[Doubao]] adds the consumer version of [[ProductLedWillingnessToPay]], [[Baidu]] adds the incumbent version where [[SearchAdvertisingDecline]] and AI answer cannibalization can erode an old profit engine before a new one is proven, [[Xiaoban]] adds a consumer hardware version through emotional product quality and sub-10000 RMB pricing, [[JustinsNutButter]] and [[CatalinaCrunch]] add consumer packaged goods versions through sensory proof, nutrition claims, premium pricing, shelf context, [[TrialSizeProduct]], and [[PackagingAsProductExperience]] behavior, [[AIInteractiveEntertainment]] adds an entertainment version through time, attention, emotional payoff, and repeat play, [[Ninety]] adds the B2B version through AI packages, consumption allowances, organizational data, and possible value-based pricing, [[TeaMaker]] adds a founder-market version through revenue, retention, repeat usage, and users pulling products into existence, [[PeakAI]] adds an AI-search version through measurable channel visibility and mid-market time-to-value, [[Sprinto]] adds a compliance version through externally required trust evidence, [[ThreatLocker]] adds a cybersecurity case through urgent risk reduction and live-environment proof, [[PartyGuitar]] and [[KenanVoiceChanger]] add prototype cases where public excitement still must become real use or purchase, [[MiniMaxM3]] adds a model-provider case through coding capability and token usage, [[StepFun]] adds a foundation-model case through [[AIPlusTerminals]] and the need for a core application with large annual profit, [[RollingAI]] adds a [[ServiceAsSoftware]] case where agents carry service-like business outcomes, [[Paperboy]] adds a personal-agent case where defensibility may come from [[HumanAgentCollaboration]], [[OSLevelContext]], and [[PersistentAgentMemory]], and [[EricRies]] adds that AI-era products still need sustainable [[AIInferenceCostStructure]]. The [[JimSimons]] source adds that investors should separate AI product value from stock-market returns: [[AIInvestmentResearch]] can improve understanding, but [[AIIPOValuation]] still requires discipline around price, cash flow, competition, lockups, and downside tolerance. EP38 adds that even broad index or large-cap exposure can be hit by funding structure, central-bank timing, [[CarryTradeUnwind]], and valuation [[MarketMeanReversion]], so [[InvestmentRiskManagement]] must account for macro mechanics as well as individual security analysis. [[HeadlessSoftware]] adds that products may also need to be reachable through [[AgentFacingInterfaces]], while [[AgenticEconomy]] adds infrastructure opportunities around sandboxes, memory, payments, token supply, and agent networks. More durable opportunities may come from hard domains such as [[AIForScience]], [[AIMaterialsDiscovery]] and [[MaterialsPipelineCompany]] efforts like [[Kaiwuji]], [[EmbodiedAI]], [[WorldModels]], [[CausalWorldModels]], [[CompanionRobots]], [[AssistiveAI]], [[FinancialAIAgents]], vehicles and devices under [[AIPlusTerminals]], AI entertainment and creator products such as [[AINPCSocialInfrastructure]], [[AIInteractiveContentPlatforms]], [[VibeSong]], and [[AI3DPrototyping]], and cybersecurity controls such as [[ZeroTrustSecurity]], from infrastructure and platforms for [[EverythingAgent]], from workflow SaaS with defensible context such as [[Mas]], from distribution-heavy portfolios such as [[TeaMaker]], from CPG brands that combine [[CPGDistribution]] with real product differentiation such as [[JustinsNutButter]] and [[CatalinaCrunch]], from [[BuildingPublic]] channels on platforms such as [[Xiaohongshu]], from AI-search analytics and GEO tooling such as [[PeakAI]], from compliance automation with deterministic evidence such as [[Sprinto]], from security products that combine [[DefaultDenySecurity]] with [[MSPChannelDistribution]], from agent-interface and verification infrastructure, from FDE and service-as-software firms that can deliver measurable business outcomes, from personal-agent products that make memory and proactivity trustworthy, from finance tools that improve explanation without pretending to remove [[InvestmentRiskManagement]], or from personal tools that follow [[DataPortabilityAndSustainableTools]].",
+      "topic_scores": {
+        "ai-and-technology": 8,
+        "business-and-markets": 13,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 3,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AI3DPrototyping",
+        "AIForScience",
+        "AIIPOValuation",
+        "AIInferenceCostStructure",
+        "AIInteractiveContentPlatforms",
+        "AIInteractiveEntertainment",
+        "AIInvestmentResearch",
+        "AIMaterialsDiscovery",
+        "AINPCSocialInfrastructure",
+        "AIPlusTerminals",
+        "AgentFacingInterfaces",
+        "AgenticEconomy",
+        "AssistiveAI",
+        "Baidu",
+        "BuildingPublic",
+        "CPGDistribution",
+        "CarryTradeUnwind",
+        "CatalinaCrunch",
+        "CausalWorldModels",
+        "CompanionRobots",
+        "DataPortabilityAndSustainableTools",
+        "DefaultDenySecurity",
+        "Doubao",
+        "EmbodiedAI",
+        "EricRies",
+        "EverythingAgent",
+        "FinancialAIAgents",
+        "HeadlessSoftware",
+        "HumanAgentCollaboration",
+        "InvestmentRiskManagement",
+        "JimSimons",
+        "JustinsNutButter",
+        "Kaiwuji",
+        "KenanVoiceChanger",
+        "MSPChannelDistribution",
+        "MarketMeanReversion",
+        "Mas",
+        "MaterialsPipelineCompany",
+        "MiniMaxM3",
+        "Ninety",
+        "OSLevelContext",
+        "PackagingAsProductExperience",
+        "Paperboy",
+        "PartyGuitar",
+        "PeakAI",
+        "PersistentAgentMemory",
+        "ProductLedWillingnessToPay",
+        "RollingAI",
+        "SearchAdvertisingDecline",
+        "ServiceAsSoftware",
+        "Sprinto",
+        "StepFun",
+        "TeaMaker",
+        "ThreatLocker",
+        "TrialSizeProduct",
+        "VibeSong",
+        "WorldModels",
+        "Xiaoban",
+        "Xiaohongshu",
+        "ZeroTrustSecurity"
+      ]
+    },
+    {
+      "id": "30bc949b27d29aecd5ee00ccb27e58521b08525efbf4b45b1ec0540bdf1c5294",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Advice Line source adds that values-driven consumer companies can also create willingness to pay, but only when the value proposition is practical and testable: function before guilt, simple use cases before broad mission claims, and trial before expecting belief.",
+      "topic_scores": {
+        "business-and-markets": 2
+      },
+      "wikilinks": []
+    },
+    {
+      "id": "c9d0313b6667f687fe9773c7c74d53dca16efffb0dc77112a52aa01e70295401",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Christina Tosi source adds that giftable and community-led consumer products create willingness to pay through committed behavior: pre-sold memberships, repeat craft-kit purchases, visible packaging, and daily beverage rituals matter more than broad brand affection alone.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": []
+    },
+    {
+      "id": "ff07036e82db26508c7e3db5d63d6a53a496f09ab7da2e2cee2775e0faa6892b",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Tim Ferriss source adds that founder focus is also a willingness-to-pay and channel-learning problem: venue use, wholesale orders, and made-to-order waits matter only when they expose repeatable customer behavior rather than temporary attention or founder aspiration.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": []
+    },
+    {
+      "id": "617401277f9d2ff3c8dce3b1b5657770620bed2c412b605077c02394975831de",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "work-education-and-society"
+      ],
+      "text": "The Bairong source also expands the paid-AI and platform question. Alongside [[RollingAI]]'s [[ServiceAsSoftware]], it suggests that [[OutcomeBasedAIPricing]] and [[AIBPORollUp]] may be more natural than seat-style SaaS when the buyer already understands the work and can compare labor cost, transaction value, or service output.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIBPORollUp",
+        "OutcomeBasedAIPricing",
+        "RollingAI",
+        "ServiceAsSoftware"
+      ]
+    },
+    {
+      "id": "366116ce6f7bc54bb8247884accda0d3e96fc6ac7c08eb5fcd46e84d944980e9",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "EP39 extends the investment synthesis from \"what caused the shock\" to \"what should an investor do next.\" It argues that [[InvestmentRiskManagement]] has to distinguish AI adoption from [[AIEquityValuationRisk]], quota scarcity from [[QDIIAllocation]] price discipline, Treasury income from [[TreasuryDurationRisk]], and dollar yield from [[CurrencyRisk]] and [[RMBExchangeRatePolicy]].",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIEquityValuationRisk",
+        "CurrencyRisk",
+        "InvestmentRiskManagement",
+        "QDIIAllocation",
+        "RMBExchangeRatePolicy",
+        "TreasuryDurationRisk"
+      ]
+    },
+    {
+      "id": "10025ccf89890f0adeb971f713509dc75f624bee5e546a2fc3e9a67268ea3963",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP89 extends the investment synthesis from asset choice into access-route discipline. It argues that ordinary investors must separate a brokerage app's convenience from the legality of solicitation, personal FX purpose, source-of-funds consistency, and future buying rights; after the cleanup, [[InvestmentRiskManagement]] includes regulatory route risk alongside market price, [[CurrencyRisk]], and product-selection risk.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CurrencyRisk",
+        "InvestmentRiskManagement"
+      ]
+    },
+    {
+      "id": "6f9d8e343ce9840f77f6c4307c6df054b9955f54efd5e39cbea4d7998b8c1772",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "EP86 extends the investment synthesis from market, access-route, and trading discipline into company-level [[FinancialStatementAnalysis]]. It frames the income statement, balance sheet, and cash-flow statement as \"face, foundation, and daily cash,\" then uses [[Nvidia]], [[SMIC]], and [[TSMC]] to show how [[AssetLightVsHeavyAssetModels]] change margins, depreciation, capital expenditure, and [[ProfitAndCashFlowQuality]]. Its defensive contribution is [[AccountingRedFlags]]: [[ReceivablesRisk]] through [[SichuanChanghong]] and [[ApexDigital]], [[InventoryWriteDownRisk]] through [[BestBuy]] and [[Zhangzidao]], [[AuditOpinionRisk]] through audit opinions and auditor changes, and [[Toshiba]] as a profit-pressure case. It also links [[AIInvestmentResearch]] to filings by suggesting that AI should be used to inspect revenue mix, margins, cash conversion, capital expenditure, risk points, trends, and management language rather than simply ask whether a company is good.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIInvestmentResearch",
+        "AccountingRedFlags",
+        "ApexDigital",
+        "AssetLightVsHeavyAssetModels",
+        "AuditOpinionRisk",
+        "BestBuy",
+        "FinancialStatementAnalysis",
+        "InventoryWriteDownRisk",
+        "Nvidia",
+        "ProfitAndCashFlowQuality",
+        "ReceivablesRisk",
+        "SMIC",
+        "SichuanChanghong",
+        "TSMC",
+        "Toshiba",
+        "Zhangzidao"
+      ]
+    },
+    {
+      "id": "dfde1ed71301833f9974ed6372aed91a1fa0d6d30afa096be97ebb99705fca5f",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP80 extends the investment synthesis from statements, markets, and trading rules into durable business quality. It uses [[CharlieMunger]], [[WarrenBuffett]], and [[BerkshireHathaway]] to argue that visible assets and price charts can miss the real asset when customers repeatedly trust a product or network. [[SeesCandies]], [[AmericanExpress]], and [[CocaCola]] add [[ConsumerBrandMoat]] as a bridge between CPG willingness-to-pay, crisis observation, and long-term investing; [[TechnicalAnalysisLimits]] adds the warning that price evidence should not replace business understanding.",
+      "topic_scores": {
+        "business-and-markets": 7,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AmericanExpress",
+        "BerkshireHathaway",
+        "CharlieMunger",
+        "CocaCola",
+        "ConsumerBrandMoat",
+        "SeesCandies",
+        "TechnicalAnalysisLimits",
+        "WarrenBuffett"
+      ]
+    },
+    {
+      "id": "b053ade2f9fbf6bbcbd03aa7b42018b0c3dba6800555441a0eecce1f9165aea5",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP76 extends the investment synthesis from allocation caution into active-trading discipline. It argues that even if the broad thesis is right, the trade still needs [[TrendFollowing]] confirmation, [[StopLossDiscipline]], bounded leverage, and enough humility to avoid [[AveragingDown]] when the market is saying the setup is wrong.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AveragingDown",
+        "StopLossDiscipline",
+        "TrendFollowing"
+      ]
+    },
+    {
+      "id": "420c2d23e30812a99f64d960ad4b099adaa2f172df3a630206510a4c548b3eba",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "E153 extends that same trading-discipline branch into explicit [[PositionSizing]]. It argues that investors should estimate probability and payoff from their own records, discount those estimates, and prefer fractional [[KellyCriterion]] when uncertainty, drawdown tolerance, or emotional stability matter. It also reframes add-on buying as a stricter sizing decision: [[Pyramiding]] needs new evidence or favorable movement, while [[AveragingDown]] without a renewed edge simply enlarges an invalidated bet.",
+      "topic_scores": {
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "AveragingDown",
+        "KellyCriterion",
+        "PositionSizing",
+        "Pyramiding"
+      ]
+    },
+    {
+      "id": "324e69e693ba4d8608748e7a486133ec03c6c94553e7a73fb160c8b1171459cd",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "EP43 extends the platform and work synthesis into ordinary self-media. It argues that [[XiaohongshuCreatorMonetization]] should be evaluated less by follower count than by niche fit, merchant demand, platform rules, content workload, and fixed personal costs; [[FinancialFreedomVsLifestyleFreedom]] then becomes the practical question of whether creator work is meant to replace income or simply make daily life more flexible.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "FinancialFreedomVsLifestyleFreedom",
+        "XiaohongshuCreatorMonetization"
+      ]
+    },
+    {
+      "id": "7e8568b81ab3e10fee25efc6f471bdc71969c4cb407ecad0ee1dfea6c4c04dc4",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "EP35 extends the finance and work synthesis from career risk into middle-class household consumption. It argues that when financial-sector pay cuts and job relocations reset income expectations, the practical question is how to preserve life quality without paying for every brand, scene, or professional status signal. [[MiddleClassConsumptionPressure]] and [[LifestyleCostRationalization]] connect coffee, travel, meals, commuting, fitness, watches, and workwear to a broader shift from external identity toward comfort, use, and price discipline.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "LifestyleCostRationalization",
+        "MiddleClassConsumptionPressure"
+      ]
+    },
+    {
+      "id": "e4206f4ff68ae78175deba2a380ca4113cb76a7bdefa42b94046340016a0bc7a",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "EP34 extends the workplace and life-skills synthesis from formal career rules into everyday communication judgment. [[Maidisen]] uses missed romantic cues, awkward consolation, a carpool rumor, an elevator phrasing accident, and pronunciation misunderstandings to argue that \"分寸感\" starts with [[SocialSignalInterpretation]], [[CommunicationBoundarySetting]], [[WorkplaceCommunicationRisk]], and [[LanguagePrecision]] rather than a teachable high-EQ formula.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "CommunicationBoundarySetting",
+        "LanguagePrecision",
+        "Maidisen",
+        "SocialSignalInterpretation",
+        "WorkplaceCommunicationRisk"
+      ]
+    },
+    {
+      "id": "51c2b8419c2d2f0885b415d1f7a1c5ff4c2401cbca76ce817204de1c8ea38c48",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "EP57 extends the investment synthesis from recession and bond allocation into equity reentry. It argues that [[PassiveInvesting]] remains sensible for ordinary investors, but [[IndexReentryDiscipline]] matters when [[SP500]] and [[NasdaqComposite]] exposure is still shaped by high valuation, [[MegaCapConcentrationRisk]], [[RetailInvestorCrowding]], and post-[[DeepSeek]] [[AIEquityValuationRisk]]. It also adds that [[HongKongTechRepricing]] should not be reduced to a simple inverse trade against U.S. technology: [[HangSengTechIndex]] can benefit from China-tech reassessment, but liquidity stress can still pull both markets down.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIEquityValuationRisk",
+        "DeepSeek",
+        "HangSengTechIndex",
+        "HongKongTechRepricing",
+        "IndexReentryDiscipline",
+        "MegaCapConcentrationRisk",
+        "NasdaqComposite",
+        "PassiveInvesting",
+        "RetailInvestorCrowding",
+        "SP500"
+      ]
+    },
+    {
+      "id": "1f2bec291ccdeddd1ee51418d6652299ae848a0b340dc744dafead3a2a77e96a",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "E159 extends that Hong Kong branch from cross-market repricing into local market structure. It argues that [[HangSengTechIndex]], Hong Kong biotech, and Hong Kong non-bank financial indexes may be better used as elasticity tools, while longer-term Hong Kong investing depends more on cash-generating companies, [[DefensiveDividendAssets]], value discipline, limited momentum, and rebalancing. [[HongKongExchangesAndClearing]] also becomes a market-temperature signal and a reminder that IPO-heavy bull markets can benefit the exchange while absorbing liquidity from existing holders.",
+      "topic_scores": {
+        "business-and-markets": 6,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "DefensiveDividendAssets",
+        "HangSengTechIndex",
+        "HongKongExchangesAndClearing"
+      ]
+    },
+    {
+      "id": "681b024c92800794dd2908fdb7d7f07c55620f3b3674a90d2f407fb49e74db92",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP46 extends the investment synthesis from U.S./macro drawdowns into Chinese A-share bull cycles. It argues that policy and liquidity can start a rally, but [[InvestmentRiskManagement]] still has to ask whether policy is reaching fundamentals, whether new investors understand market mechanics, whether paper gains have been realized, and whether [[LeverageDrivenBullMarket]] dynamics are turning a repair rally into a fragile crowd trade.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "InvestmentRiskManagement",
+        "LeverageDrivenBullMarket"
+      ]
+    },
+    {
+      "id": "4ad857015ce7b01007cf4058def2af173a516ee04eeb000de94edf7b898bb58a",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP18 extends the personal-finance synthesis from investing and banking into risk transfer. It argues that insurance should be bought by mapping obligations to event-specific money needs: protect the income earner before the child, distinguish term life from whole life, separate critical illness payouts from medical reimbursement, avoid locking weak cash flow into [[SavingsStyleInsurance]], and be skeptical when [[OverseasInsuranceRisk]] or sales narratives add uncertainty to a product that is supposed to reduce it.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "OverseasInsuranceRisk",
+        "SavingsStyleInsurance"
+      ]
+    },
+    {
+      "id": "47547b45c81e281091ecdf2eb59978225605d5fb1097c6a104ce17586b1a5a6b",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP21 extends the finance synthesis from investing, banking, AML, and insurance into the careers of financial workers themselves. It argues that [[FinancialCareerRisk]] is not just job-market uncertainty: [[ThirdPartyWealthPlatformRisk]], high commissions, legal representative status, customer-resource migration, and internal-control gaps can turn ambition into legal exposure, while [[InvestorEducation]], [[IndependentInvestmentConsulting]], and [[FinanceCareerPortability]] show more constructive ways to use finance knowledge.",
+      "topic_scores": {
+        "business-and-markets": 7,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "FinanceCareerPortability",
+        "FinancialCareerRisk",
+        "IndependentInvestmentConsulting",
+        "InvestorEducation",
+        "ThirdPartyWealthPlatformRisk"
+      ]
+    },
+    {
+      "id": "058d9265d940fecc521027cfc166a64a88192a7e1b26bfc62098faf423a213e6",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP22 extends the banking synthesis from hierarchy, KYC, AML, and finance careers into branch operations. It argues that many customer-facing inconveniences are outputs of [[BankBranchAfterHoursWork]], [[BankCashLogistics]], [[BankBranchSecurityControls]], and [[ATMOperations]] rather than arbitrary slowness: large withdrawals need notice because cash inventory is managed, branch access is restricted because routes and unmonitored spaces carry risk, and ATM or cash work requires dual control because ordinary machine operations are still financial controls.",
+      "topic_scores": {
+        "business-and-markets": 5,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ATMOperations",
+        "BankBranchAfterHoursWork",
+        "BankBranchSecurityControls",
+        "BankCashLogistics"
+      ]
+    },
+    {
+      "id": "3bd06f7791a785c89c7cb89d29d511a801365f2d34b951c8af3ca8c703350dba",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "EP23 extends the same banking synthesis historically. It argues that banks, accounting firms, currency, bonds, and resource trade are all parts of [[FinancialPowerAndStateCapacity]]: [[AccountingInfrastructure]] makes activity auditable, [[BankTraineeSystem]] controls talent entry, [[ShanghaiForeignBanks]] makes trust and foreign capital visible in urban space, and [[CurrencyCredit]] determines whether silver dollars, paper money, or border-region notes can actually organize exchange.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AccountingInfrastructure",
+        "BankTraineeSystem",
+        "CurrencyCredit",
+        "FinancialPowerAndStateCapacity",
+        "ShanghaiForeignBanks"
+      ]
+    },
+    {
+      "id": "54aaf85d43572fac51b6ed1f6eb5b175642282000494edb4f0dc86434bb624b2",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "EP24 extends the banking synthesis from institutional controls into household borrowing. It argues that credit products should be understood as controlled claims on future income rather than free liquidity: [[MortgageApproval]] and [[PersonalCreditRecord]] determine large-loan access, [[ConsumerLoanRisk]] and [[CreditCardDebtMechanics]] expose hidden repayment pressure, and [[LoanIntermediaryRisk]] shows how bank-adjacent packaging can turn credit stress into broker fees, identity exposure, or friend-and-family liability.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ConsumerLoanRisk",
+        "CreditCardDebtMechanics",
+        "LoanIntermediaryRisk",
+        "MortgageApproval",
+        "PersonalCreditRecord"
+      ]
+    },
+    {
+      "id": "ece3fb46b17a20ad3397763f99b36edb0e204a56b9f11e671393741c42a6a938",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "EP26 extends the banking and workplace synthesis from operations into drama-mediated realism. It argues that [[CityInTheCity]] is useful as a conversation hook, but real bank work separates [[BankDueDiligence]], [[BankInternalAudit]], teller duties, corporate customer management, technology change, and branch/division movement more sharply than the drama; its career advice is to work with capability, make friends only after character is clearer, and protect oneself before choosing sides.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "BankDueDiligence",
+        "BankInternalAudit",
+        "CityInTheCity"
+      ]
+    },
+    {
+      "id": "17ddf55e757dee7e7c40e27c114d07d700a651557986a940cd1df07d3873dc84",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "EP58 extends the workplace and finance-career synthesis from formal advancement advice into everyday pacing. It argues that \"摸鱼\" can be destructive avoidance, but it can also be recovery, self-improvement, task sequencing, or output-presentation work when bounded by real delivery and role constraints; AI tools such as [[DeepSeek]] increase this pacing room only when people still own the judgment and final presentation.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "d90079f2bf1f12697a497b353afb0a01f60f2353404489e681ea8333a3b7e357",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The [[Banlatte]] handset source extends the platform synthesis backward. Before AI agents or mobile apps, the handset market already showed that terminal ownership, operating-system ecosystems, channel control, and supply-chain maturity decide whether a technology wave reaches daily life. [[Motorola]], [[Nokia]], and [[Ericsson]] show that old infrastructure and device advantages can decay when the basis of competition shifts; [[Android]], [[IPhone]], [[MediaTek]], and [[Huaqiangbei]] show that open ecosystems and low-cost manufacturing can rapidly redistribute power.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "Android",
+        "Banlatte",
+        "Ericsson",
+        "Huaqiangbei",
+        "IPhone",
+        "MediaTek",
+        "Motorola",
+        "Nokia"
+      ]
+    },
+    {
+      "id": "366aeaf1ab8d74869650d9f4152784035d3840f0dab7d89b56cad153a6f3df8a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The new [[Banlatte]] Minnan source extends the manufacturing and distribution synthesis further backward. [[Quanzhou]] shows a pre-industrial version of platform logic: ports, shibosi governance, foreign communities, religion, and ship technology made maritime trade legible and repeatable, while [[HaijinAndMaritimeSmuggling]] shows how restrictive policy can move the same demand into gray and violent networks. Its modern bridge is [[DiasporaCapitalManufacturingClusters]]: [[OverseasChineseMutualAidNetworks]], [[QiaopiRemittanceNetworks]], [[ChenJiageng]], and [[Jinjiang]] show how migration, trust, remittance, education, and hometown capital can become regional industrial capacity before later supply-chain concepts such as [[ChinaHandsetSupplyChain]] and [[ChineseHardwareGlobalization]] appear.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Banlatte",
+        "ChenJiageng",
+        "ChinaHandsetSupplyChain",
+        "ChineseHardwareGlobalization",
+        "DiasporaCapitalManufacturingClusters",
+        "HaijinAndMaritimeSmuggling",
+        "Jinjiang",
+        "OverseasChineseMutualAidNetworks",
+        "QiaopiRemittanceNetworks",
+        "Quanzhou"
+      ]
+    },
+    {
+      "id": "b03bfb696131132ed4a293592a06dfc7972edbcc25b74c127303a1825b71bf72",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The [[Banlatte]] Lan Shili source extends the private-enterprise and governance synthesis into early Chinese civil aviation. [[EastStarAirlines]] shows that [[ChinesePrivateAirlineOpening]] was not enough by itself: private entrants still needed local support, regulatory approval, aircraft financing, operating discipline, and enough liquidity to survive shocks. The reusable business lesson is the combination of [[GrassrootsPrivateEntrepreneurship]] and [[LeveragedAviationExpansion]]: founder force can open doors, but [[AviationFinanceLeasing]], [[CrossProjectCashTransfer]], [[LocalGovernmentEnterpriseRescue]], and [[PrivateAirlineFailureModes]] can turn speed into fragility when cash, contracts, officials, and counterparties stop moving in the same direction.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AviationFinanceLeasing",
+        "Banlatte",
+        "ChinesePrivateAirlineOpening",
+        "CrossProjectCashTransfer",
+        "EastStarAirlines",
+        "GrassrootsPrivateEntrepreneurship",
+        "LeveragedAviationExpansion",
+        "LocalGovernmentEnterpriseRescue",
+        "PrivateAirlineFailureModes"
+      ]
+    },
+    {
+      "id": "2694bbbe38636fb067d7ba1b99c5f60214788988498dfef0416eff05c0ceb0aa",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The [[NeiheKonghuang]] sources extend the platform and work synthesis sideways. [[AITranslation]] shows AI reducing language as an interface barrier; [[TaskAsAService]] shows AI reducing apps and front ends as necessary task surfaces; [[AIProgrammingEngineShift]] shows AI reducing syntax and API recall as the scarce part of programming while increasing the importance of [[AICodingVerification]], [[AIEngineeringThinking]], and [[HumanJudgmentUnderAI]]; [[PodcastAsAsynchronousMedia]] shows distribution devices reshaping attention; and [[DisplayErgonomics]] shows that AI-era review work still depends on physical screens, sharp text, and human visual limits.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "culture-and-media": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AICodingVerification",
+        "AIEngineeringThinking",
+        "AIProgrammingEngineShift",
+        "AITranslation",
+        "DisplayErgonomics",
+        "HumanJudgmentUnderAI",
+        "NeiheKonghuang",
+        "PodcastAsAsynchronousMedia",
+        "TaskAsAService"
+      ]
+    },
+    {
+      "id": "7d8bba114571475f8050ad2b392e10a8629496b1e98fd1f8dc00ee346c2ec192",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "psychology-and-personal-development"
+      ],
+      "text": "The governance synthesis is that trust and mission can become both moat and liability. [[SaaSTrustMoat]] helps explain why companies such as [[Ninety]] may defend against AI-native entrants through data, relationships, compliance, and service reliability, why [[Sprinto]] can build around externally required trust evidence, and why [[ThreatLocker]] must prove security claims in real customer environments. [[JustinsNutButter]] adds the founder-brand version: customer and employee trust can attach to a local values-oriented identity, making acquisition both financially rational and emotionally costly. [[FinancialGravity]] explains why the same trust can attract pressure from investors, boards, large customers, or acquirers, while [[TrustAsBusinessAsset]] makes explicit that valuable trust must be protected before it becomes a target. [[LongTermStockExchange]], [[OpenAI]], [[Anthropic]], and [[LongTermBenefitTrust]] anchor different sides of this question: one is presented as a team aligning culture and structure against outside pressure, one shows how paper authority can fail when actual power and mission interpretation fracture, and one is presented as an AI-era attempt to govern long-term stakes under exceptional capital pressure. [[StewardOwnership]], [[NovoNordisk]], and [[Zeiss]] add older ownership patterns that make purpose harder to redirect than ordinary mission language alone. [[PrivateRegulatoryPower]] adds the standards layer: companies such as [[Costco]] can create public effects through private audits and market access rules. [[AIAlignmentGovernance]] adds the frontier-AI version: model alignment also depends on who aligns the people and organizations building the models. [[AIWorkforceMonitoring]] adds a more mundane but immediate governance risk: if organizations cannot evaluate AI-enabled work by results and judgment, they may be tempted to over-measure employee behavior instead. [[PostAcquisitionFounderIdentity]] adds that even a reasonable acquirer can leave the founder struggling with usefulness, control, and brand stewardship after sale.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 7,
+        "culture-and-media": 1,
+        "governance-and-institutions": 4,
+        "psychology-and-personal-development": 4,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIAlignmentGovernance",
+        "AIWorkforceMonitoring",
+        "Anthropic",
+        "Costco",
+        "FinancialGravity",
+        "JustinsNutButter",
+        "LongTermBenefitTrust",
+        "LongTermStockExchange",
+        "Ninety",
+        "NovoNordisk",
+        "OpenAI",
+        "PostAcquisitionFounderIdentity",
+        "PrivateRegulatoryPower",
+        "SaaSTrustMoat",
+        "Sprinto",
+        "StewardOwnership",
+        "ThreatLocker",
+        "TrustAsBusinessAsset",
+        "Zeiss"
+      ]
+    },
+    {
+      "id": "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "culture-and-media"
+      ],
+      "text": "The [[SeventhGeneration]] source adds the operating-culture version of the same governance problem. [[GreenHushing]] shows that public purpose language can become risky even when internal practices continue, and [[SustainableGrowthPace]] shows that mission-led companies still need to choose a pace that does not burn out the people expected to carry the mission.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "GreenHushing",
+        "SeventhGeneration",
+        "SustainableGrowthPace"
+      ]
+    },
+    {
+      "id": "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The [[YangcongXueyuan]] [[LateTalk]] source adds an education branch to the AI-agency synthesis. [[YangLingfeng]] argues that [[SelfDirectedLearning]] is built from willingness, ability, tools, and belief, so AI learning products should be judged by whether they return students to real reasoning rather than merely deliver faster answers. [[LearningExperienceDesign]] names Yangcong's route: short animated lessons, purpose cues, empathy for stuck students, achievement loops, AI-assisted support, and classroom integration are meant to lower the threshold for system-two thinking. The source qualifies [[AIAsTutor]], [[AIUsePacing]], and [[AILiteracyAgainstWorship]] with [[AIShortcutRisk]]: a correct AI answer can still damage learning if it removes the struggle that builds durable understanding.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIAsTutor",
+        "AILiteracyAgainstWorship",
+        "AIShortcutRisk",
+        "AIUsePacing",
+        "LateTalk",
+        "LearningExperienceDesign",
+        "SelfDirectedLearning",
+        "YangLingfeng",
+        "YangcongXueyuan"
+      ]
+    },
+    {
+      "id": "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "work-education-and-society"
+      ],
+      "text": "The [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] source adds a prediction-map view of 2026 from [[AllIn|All-In]]. Its main synthesis is volatility around abundance: the hosts expect a pro-growth Trump-era macro and IPO backdrop, but also [[CaliforniaWealthTaxCapitalFlight]], [[AIBacklashPolitics]], [[EntryLevelAICareerLadderRisk]], and tech-populist pressure on wealth. The episode extends the AI and market branches through [[SoftwareMaintenanceRevenueCompression]], [[JevonsParadoxInAI]], [[AIIPOValuation]], [[IPDealStructureSubstitution]], [[AcceleratedDepreciationCapexPullForward]], [[CriticalMineralsGeopolitics]], [[Polymarket]], [[Huawei]], [[SMIC]], and [[CitizenJournalismAccountability]]. Its unresolved value is not factual prediction accuracy yet, but the way it puts contradictory investor assumptions side by side: AI may shrink entry ladders or expand knowledge-work demand; SpaceX may IPO or reverse merge into [[Tesla]]; and prediction markets may become public information infrastructure while still carrying integrity and gambling-like risks.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIBacklashPolitics",
+        "AIIPOValuation",
+        "AcceleratedDepreciationCapexPullForward",
+        "AllIn",
+        "CaliforniaWealthTaxCapitalFlight",
+        "CitizenJournalismAccountability",
+        "CriticalMineralsGeopolitics",
+        "EntryLevelAICareerLadderRisk",
+        "Huawei",
+        "IPDealStructureSubstitution",
+        "JevonsParadoxInAI",
+        "Polymarket",
+        "SMIC",
+        "SoftwareMaintenanceRevenueCompression",
+        "Tesla",
+        "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260"
+      ]
+    }
+  ],
+  "schema_version": 1
+}

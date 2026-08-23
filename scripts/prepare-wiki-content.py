@@ -649,13 +649,14 @@ def skip_link_scan(path: Path) -> bool:
         relative = path.relative_to(WIKI_DIR)
     except ValueError:
         relative = None
+    is_generated = relative is not None and "_generated" in relative.parts
     is_safe_proxy = (
         relative is not None
         and len(relative.parts) == 4
         and relative.parts[1] == "by-key"
         and relative.parts[3] == "index.md"
     )
-    return path.name == "_index.md" or path == STATS_PATH or is_safe_proxy
+    return path.name == "_index.md" or path == STATS_PATH or is_generated or is_safe_proxy
 
 
 def compare_file(path: Path, expected: str) -> bool:

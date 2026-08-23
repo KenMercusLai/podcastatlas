@@ -21,6 +21,7 @@ REQUIRED_FILES = (
     "tags/index.html",
     "shows/index.html",
     "wiki/index.html",
+    "wiki/current-synthesis/index.html",
     "search/index.html",
     "about/index.html",
     "about/index.md",
@@ -46,6 +47,7 @@ METADATA_PAGE_FILES = (
     "shows/index.html",
     "tags/index.html",
     "wiki/index.html",
+    "wiki/current-synthesis/index.html",
     "search/index.html",
 )
 METADATA_PATTERNS = {
@@ -468,6 +470,96 @@ def validate_metadata_page(path: Path, public_dir: Path, errors: list[str]) -> N
             errors.append(f"invalid JSON-LD URL in {relative}: {payload.get('url')!r}")
 
 
+def synthesis_article(page_html: str, class_name: str) -> tuple[dict[str, str], str] | None:
+    pattern = re.compile(
+        rf'<article\b(?=[^>]*\bclass=(?:"[^"]*\b{re.escape(class_name)}\b[^"]*"|\'[^\']*\b{re.escape(class_name)}\b[^\']*\'|[^\s>]*\b{re.escape(class_name)}\b))[^>]*>.*?</article>',
+        re.IGNORECASE | re.DOTALL,
+    )
+    match = pattern.search(page_html)
+    if not match:
+        return None
+    opening = match.group(0).split(">", 1)[0]
+    attributes: dict[str, str] = {}
+    for name, double, single, bare in re.findall(
+        r'([\w:-]+)\s*=\s*(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))', opening
+    ):
+        attributes[name.lower()] = html.unescape(double or single or bare)
+    return attributes, match.group(0)
+
+
+def validate_current_synthesis(public_dir: Path, errors: list[str]) -> None:
+    detail_path = public_dir / "wiki" / "current-synthesis" / "index.html"
+    landing_path = public_dir / "wiki" / "index.html"
+    if not detail_path.is_file() or not landing_path.is_file():
+        return
+    detail_html = detail_path.read_text(encoding="utf-8")
+    landing_html = landing_path.read_text(encoding="utf-8")
+    detail = synthesis_article(detail_html, "current-synthesis")
+    card = synthesis_article(landing_html, "current-synthesis-card")
+    if detail is None:
+        errors.append("Current Synthesis detail is missing its artifact marker")
+        return
+    if card is None:
+        errors.append("Wiki landing is missing its Current Synthesis card marker")
+        return
+    detail_attrs, detail_block = detail
+    card_attrs, card_block = card
+    source = detail_attrs.get("data-synthesis-source", "")
+    if source not in {"compact", "overview-legacy"}:
+        errors.append(f"unsupported Current Synthesis source: {source!r}")
+        return
+    if card_attrs.get("data-synthesis-source") != source:
+        errors.append("Current Synthesis source differs between landing and detail")
+    summary = detail_attrs.get("data-summary", "").strip()
+    if not summary:
+        errors.append("Current Synthesis is missing its summary")
+    if card_attrs.get("data-summary", "").strip() != summary:
+        errors.append("Current Synthesis summary differs between landing and detail")
+    meta_description = extracted_attribute(DESCRIPTION_RE.search(detail_html))
+    if summary and meta_description and not (
+        summary.startswith(meta_description) or meta_description.startswith(summary)
+    ):
+        errors.append("Current Synthesis summary does not match its meta description")
+
+    if source == "compact":
+        for key in ("episode-count", "source-count"):
+            detail_value = detail_attrs.get(f"data-{key}", "")
+            card_value = card_attrs.get(f"data-{key}", "")
+            if not re.fullmatch(r"[1-9][0-9]*", detail_value):
+                errors.append(f"compact Current Synthesis has invalid {key}: {detail_value!r}")
+            if card_value != detail_value:
+                errors.append(f"Current Synthesis {key} differs between landing and detail")
+
+    def time_in_class(block: str, class_name: str) -> str | None:
+        container = re.search(
+            rf'<[^>]+\bclass=(?:"[^"]*\b{re.escape(class_name)}\b[^"]*"|\'[^\']*\b{re.escape(class_name)}\b[^\']*\'|[^\s>]*\b{re.escape(class_name)}\b)[^>]*>.*?<time\b[^>]*\bdatetime=(?:"([^"]+)"|\'([^\']+)\'|([^\s>]+))',
+            block,
+            re.IGNORECASE | re.DOTALL,
+        )
+        if container is None:
+            return None
+        return next((value for value in container.groups() if value), None)
+
+    detail_date = time_in_class(detail_block, "synthesis-updated")
+    card_date = time_in_class(card_block, "wiki-feature-updated")
+    if detail_date is None or card_date is None:
+        errors.append("Current Synthesis is missing a visible update date")
+    else:
+        try:
+            parsed = date.fromisoformat(detail_date)
+        except ValueError:
+            parsed = None
+        if parsed is None or parsed.isoformat() != detail_date:
+            errors.append(f"compact Current Synthesis has invalid update date: {detail_date!r}")
+        if card_date != detail_date:
+            errors.append("Current Synthesis update date differs between landing and detail")
+    if source == "overview-legacy":
+        return
+    for heading in ("Executive Summary", "Synthesis by Domain"):
+        if heading not in detail_html:
+            errors.append(f"compact Current Synthesis is missing {heading}")
+
+
 def validate(public_dir: Path) -> dict:
     public_dir = public_dir.resolve()
     files = [path for path in public_dir.rglob("*") if path.is_file()]
@@ -496,6 +588,8 @@ def validate(public_dir: Path) -> dict:
         path = public_dir / relative
         if path.is_file():
             validate_metadata_page(path, public_dir, errors)
+
+    validate_current_synthesis(public_dir, errors)
 
     homepage = public_dir / "index.html"
     if homepage.is_file():
