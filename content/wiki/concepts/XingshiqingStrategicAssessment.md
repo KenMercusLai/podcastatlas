@@ -2,7 +2,7 @@
 title: "行势情战略评估 / Xingshiqing Strategic Assessment"
 type: concept
 tags: [strategy, statecraft, historiography, chu-han]
-sources: [zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
+sources: [zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
 last_updated: 2026-08-23
 ---
 
@@ -32,8 +32,11 @@ The episode also gives the positive contrast through [[XuChu|许褚]]. Xu Chu's 
 
 Hanji 1014 adds the immediately prior confidence-and-comparison layer. [[CaoCao|曹操]] is angry at [[YuanShao|袁绍]] but still recognizes material weakness, so [[XunYu|荀彧]] and [[GuoJia|郭嘉]] use [[TenVictoriesTenDefeats|十胜十败论]] to shift assessment from troop count alone to leader conduct, legitimacy, discipline, talent use, decisiveness, reward, and military judgment. In this branch, "势" includes whether a weaker side can find usable advantage in organizational quality and morale.
 
+[[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] adds a negative late-Han ruler assessment through [[JiaXu|贾诩]]'s judgment of [[LiuBiao|刘表]]. Liu Biao can preserve [[Jingzhou|荆州]], absorb remnants after [[ZhangJiLateHan|张济]]'s death, and govern defensively, but Jia Xu says he does not read disorder-era change sharply enough, lacks decisive action, and is too suspicious. This source therefore separates [[DefensiveLocalGovernance|保境安民式守成治理]] from conquest-level strategic assessment.
+
 ## Key Claims
 - Hanji 1014 adds that strategic assessment can include comparative leadership systems and confidence, not only external timing or troop numbers.
+- Hanji 1010 adds that preserving a stable region is not the same as reading and acting on a wider disorder-era opportunity.
 - Hanji 1016 adds that "势" includes the legitimacy and geography created by titles and marriage alliances, not only troop counts or routes.
 - Hanji 1015 adds that "势" includes strategic sequencing, rear-area reassurance, and the reputational obligations triggered by a claimant's title move.
 - Hanji 1020 adds that "势" can be a regime-level legitimacy and talent question, not only a battlefield or route-choice question.
@@ -62,3 +65,4 @@ Hanji 1014 adds the immediately prior confidence-and-comparison layer. [[CaoCao|
 - [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]], [[ChenGui|陈珪]], [[YuanShu|袁术]], [[LyuBu|吕布]], [[MingqiLegitimacy|名器合法性]], and [[MarriageAllianceWarExposure|联姻同盟战场暴露]] - title legitimacy, marriage exposure, and actor-psychology assessment.
 - [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]], [[GuoJia|郭嘉]], [[XunYu|荀彧]], [[ZhongYao|钟繇]], [[GuanzhongRegion|关中]], [[MaTeng|马腾]], [[HanSui|韩遂]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - sequencing, rear stabilization, and legitimacy-triggered response pressure.
 - [[CaoCao|曹操]], [[YuanShao|袁绍]], and [[TenVictoriesTenDefeats|十胜十败论]] - Hanji 1014 comparative leadership assessment before the Hanji 1015 sequencing branch.
+- [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]], [[LiuBiao|刘表]], [[JiaXu|贾诩]], [[Jingzhou|荆州]], and [[DefensiveLocalGovernance|保境安民式守成治理]] - local-order success versus larger strategic ceiling.

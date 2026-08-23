@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？](sources/zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd.md) — 芮淇讲透资治通鉴 episode on Liu Biao's 196 CE absorption of Zhang Ji's remnants after Rangcheng, Jia Xu's move from Duan Wei to Zhang Xiu, and Liu Biao as a capable defensive Jingzhou governor with a strategic ceiling.
 - [《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人](sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva.md) — 芮淇讲透资治通鉴 episode on 祢衡's talent, public counter-humiliation of Cao Cao, transfer to Liu Biao and Huang Zu, and the source-scoped borrowed-knife killing lesson about reputation, delegated violence, and survival judgment.
 - [《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事](sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh.md) — 芮淇讲透资治通鉴 episode setting up the Wancheng disaster through Cao Cao's 197 CE southern campaign, Zhang Xiu's Jia Xu-advised surrender, Zhang Ji's widow Lady Zou, and the trust/status breach before Hanji 1013.
 - [《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？](sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh.md) — 芮淇讲透资治通鉴 episode on Cao Cao's desire pattern, the Wancheng Lady Zou/Lady Zhou transcript variant, Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin.
@@ -1328,10 +1329,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
+- [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general whose suspicious courtesy toward Jia Xu makes him a survival-risk contrast before Jia Xu joins Zhang Xiu.
+- [穰城 / Rangcheng](entities/Rangcheng.md) — Nanyang city where Zhang Ji dies attacking in Hanji 1010, opening Liu Biao's mourning-framed absorption of the remaining troops.
 - [祢衡 / Mi Heng (Late Han)](entities/MiHengLateHan.md) — Late-Han scholar whose talent, insults, naked drumming, and death through Cao Cao-Liu Biao-Huang Zu transfer anchor the Hanji 1011 borrowed-knife case.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official normalized from the transcript's "黄族", serving as the final actor who kills 祢衡 after Liu Biao passes him onward.
-- [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1011 as part of the offended Liu Biao circle around 祢衡.
-- [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1011 as part of the local pressure that precedes 祢衡's transfer to Huang Zu.
+- [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
+- [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
 - [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose repeated request for Lady Du alerts Cao Cao to her before the Xiapi household shift.
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
@@ -1339,12 +1343,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [尹夫人 / Lady Yin (Cao Cao)](entities/LadyYinCaoCao.md) — He Jin's daughter-in-law and He Yan's mother, taken into Cao Cao's household in Hanji 1013.
 - [何晏 / He Yan](entities/HeYan.md) — Lady Yin's son and Cao Cao foster son used by Hanji 1013 to bridge Cao household history to Wei-Jin cultural style.
 - [何进 / He Jin](entities/HeJin.md) — Late-Han family status marker for Lady Yin and He Yan in Hanji 1013.
-- [张济 / Zhang Ji (late Han)](entities/ZhangJiLateHan.md) — Zhang Xiu's uncle whose death transfers troops to Zhang Xiu and leaves Lady Zou as the Wancheng widow/aunt figure.
+- [张济 / Zhang Ji (late Han)](entities/ZhangJiLateHan.md) — Zhang Xiu's uncle whose death at Rangcheng lets Liu Biao absorb the remaining troops and later leaves Lady Zou as the Wancheng widow/aunt figure.
 - [邹氏 / Lady Zou (Wancheng)](entities/LadyZouWancheng.md) — Zhang Ji's widow and Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult; Hanji 1013's "周氏" is kept as a transcript variant.
 - [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
-- [贾诩 / Jia Xu](entities/JiaXu.md) — Zhang Xiu adviser whose Wancheng plan turns leaked danger into an armored camp-passage and night attack.
+- [贾诩 / Jia Xu](entities/JiaXu.md) — Zhang Xiu adviser whose host-risk reading, Liu Biao evaluation, surrender advice, and Wancheng plan make him a late-Han survival-and-strategy contrast.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
-- [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han regional power to whom Zhang Xiu reconnects after the Wancheng sequence.
+- [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as politically skillful at remnant absorption and defensive governance but limited by slow change-reading, indecision, and suspicion.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — Cao Cao's original wife and Cao Ang's foster mother; Hanji 1014 ties Cao Ang's death to the household rupture.
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
@@ -1572,7 +1576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — Excavated Qin-Han evidence used in Qinji 138 to correct "宦人/宦籍" and "隐官" vocabulary around Zhao Gao.
 - [睡虎地秦简 / Shuihudi Qin Slips](entities/ShuihudiQinJian.md) — Excavated Qin legal-administrative material used to support reading "隐官" as status/workplace rather than castration.
 - [陈留 / Chenliu](entities/Chenliu.md) — Qinji 136 route hub where Li Shiqi's risky inside action gives Liu Bang grain, weapons, recruits, and a stronger westward base.
-- [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose branches include Liu Bang's rewarded surrender-pacification and Cao Cao/Zhang Xiu's late-Han Wancheng disaster.
+- [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose branches include Liu Bang's rewarded surrender-pacification, Zhang Xiu's post-Zhang-Ji stationing, and Cao Cao/Zhang Xiu's Wancheng disaster.
 - [陈恢 / Chen Hui (Nanyang)](entities/ChenHuiNanyang.md) — Nanyang retainer who persuades Liu Bang to accept Wan's surrender by appealing to his Guanzhong deadline under the Huaiwang agreement.
 - [郦商 / Li Shang](entities/LiShang.md) — Li Shiqi's younger brother appointed general over many Chenliu troops after Liu Bang takes the city.
 - [杨熊 / Yang Xiong (Qin General)](entities/YangXiongQinGeneral.md) — Qin general defeated by Liu Bang and executed by Qin Er Shi, disambiguated from the later author Yang Xiong.
@@ -1598,7 +1602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
 - [《礼记》 / Book of Rites](entities/LijiText.md) — Confucian classic cited for drinking without losing composure and for alcohol as harmonious social ritual.
 - [王仲闻 / Wang Zhongwen](entities/WangZhongwen.md) — Scholar whose Li Qingzhao annotation statistics are used to quantify wine in her ci corpus.
-- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander whose Jia Xu-advised surrender to Cao Cao collapses into the Wancheng security failure after Lady Zou and Hu Che'er trigger insult and threat.
+- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander who inherits Zhang Ji's troops, attaches to Liu Biao through Jia Xu, and later turns Cao Cao's Wancheng surrender into a security disaster.
 - [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
 - [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
 - [张飞 / Zhang Fei](entities/ZhangFei.md) — Three Kingdoms figure used as the compact example of drunkenly losing Xuzhou and harming Liu Bei's base.
@@ -2044,7 +2048,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三川 / Sanchuan (Warring States)](entities/SanchuanWarringStates.md) — Region in Zhang Yi's Qin Wuwang pitch and the later route context after Gan Mao's Yiyang capture.
 - [郑袖 / Zheng Xiu](entities/ZhengXiu.md) — Chu Huaiwang favorite whose status anxiety is turned into the backchannel that saves Zhang Yi.
 - [黔中 / Qianzhong](entities/Qianzhong.md) — Chu region Qin seeks, demands, and later captures before reorganizing it as a Qin commandery.
-- [南阳郡 / Nanyang Commandery](entities/NanyangCommandery.md) — Qin commandery organized around newly gained northern Chu territory in the Zhouji 85 frame.
+- [南阳郡 / Nanyang Commandery](entities/NanyangCommandery.md) — Commandery node spanning Qin formation, Qin-collapse surrender cases, Liu Bang's Wan pacification, and the late-Han Rangcheng/Nanyang branch under Liu Biao.
 - [上庸 / Shangyong](entities/Shangyong.md) — Six-county Qin ransom object invoked to persuade Zheng Xiu to help free Zhang Yi.
 - [燕昭王 / King Zhao of Yan](entities/YanZhaowang.md) — Yan ruler Ji Ping who rebuilds after Qi's occupation by mourning losses and making talent recruitment credible.
 - [郭隗 / Guo Wei (Warring States)](entities/GuoWeiWarringStates.md) — Yan adviser whose "千金买骨" story turns ruler respect into a public talent-attraction signal.
@@ -8144,6 +8148,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [丧礼化收编 / Mourning-Framed Military Absorption](concepts/MourningFramedMilitaryAbsorption.md) — Hanji 1010 pattern where Liu Biao turns Zhang Ji's death from a victory celebration into mourning language that lets leaderless troops submit without public humiliation.
+- [保境安民式守成治理 / Defensive Local Governance](concepts/DefensiveLocalGovernance.md) — Hanji 1010 Liu Biao pattern where real local stability, scholar attraction, and ritual restraint protect Jingzhou but do not equal conquest-level strategic capacity.
 - [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1012-1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.
 - [Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效](concepts/WeiJinStyleCulturalAfterlife.md) — Hanji 1013 bridge from He Yan's Cao-household position to later Wei-Jin elite style, xuanxue, drug use, fragrance, appearance, and qingtan.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
@@ -8207,7 +8213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, anger, social circles, and heart-field conduct.
 - [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, relationship influence, attraction, interference, and virtue-practice-based fate change.
 - [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
-- [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, legitimacy, geography, situational timing, actor commitments, alliance incentives, and historical-fit limits.
+- [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, legitimacy, geography, situational timing, actor commitments, alliance incentives, local-governance ceilings, and historical-fit limits.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.
@@ -8228,7 +8234,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
-- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, motive-reading, maneuvering room, staged alignment, alliance blocking, and factional timing as core political disciplines in lethal politics.
+- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, host-risk reading, motive-reading, maneuvering room, staged alignment, alliance blocking, and factional timing as core political disciplines in lethal politics.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.
 - [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors and sustaining that signal through insider backlash.
@@ -8516,7 +8522,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Responsibility-Avoidant Killing / 避责式杀害](concepts/ResponsibilityAvoidantKilling.md) — Pattern where actors avoid a direct killing act while deliberately arranging confinement, deprivation, or other conditions that make death predictable.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [Rule-Breaking Abdication / 破坏规则式禅让](concepts/RuleBreakingAbdication.md) — Succession failure where a ruler treats the state as transferable moral capital and hands real authority to a non-dynastic minister.
-- [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Role-order reading in which 礼 and civil learning keep ruler, minister, father, son, command, succession, and court hierarchy legible after conquest.
+- [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Role-order reading in which 礼 and civil learning keep ruler, minister, father, son, command, succession, court hierarchy, and non-imperial ritual boundaries legible.
 - [君臣礼制距离 / Imperial Ritual Distance](concepts/ImperialRitualDistance.md) — Hanji 176 concept for how court ritual can create governance order while widening the ruler-minister gap through embodied hierarchy.
 - [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.
 - [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.

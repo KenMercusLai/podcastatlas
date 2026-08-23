@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6812
+wiki_total_pages: 6815
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "RehuLuandun"
     title: "热乎乱炖"
     url: "/wiki/entities/rehuluandun/"
+  - key: "Rangcheng"
+    title: "穰城 / Rangcheng"
+    url: "/wiki/entities/rangcheng/"
   - key: "RedHeadedWoodPigeon"
     title: "红头黑铃鸽"
     url: "/wiki/entities/redheadedwoodpigeon/"

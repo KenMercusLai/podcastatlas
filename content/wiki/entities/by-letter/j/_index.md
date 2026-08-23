@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6812
+wiki_total_pages: 6815
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "JingKingdomEarlyHan"
     title: "荆国 / Jing Kingdom (early Han)"
     url: "/wiki/entities/jingkingdomearlyhan/"
+  - key: "Jingzhou"
+    title: "荆州 / Jingzhou"
+    url: "/wiki/entities/jingzhou/"
   - key: "JingKe"
     title: "荆轲 / Jing Ke"
     url: "/wiki/entities/jingke/"

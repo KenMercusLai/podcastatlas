@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5167
+wiki_total_pages: 5169
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "DignityProtectingDeduction"
     title: "体面保护式推理 / Dignity-Protecting Deduction"
     url: "/wiki/concepts/dignityprotectingdeduction/"
+  - key: "DefensiveLocalGovernance"
+    title: "保境安民式守成治理 / Defensive Local Governance"
+    url: "/wiki/concepts/defensivelocalgovernance/"
   - key: "DualManuscriptNarration"
     title: "双手稿叙事 / Dual Manuscript Narration"
     url: "/wiki/concepts/dualmanuscriptnarration/"

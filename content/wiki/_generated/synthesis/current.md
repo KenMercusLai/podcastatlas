@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 438a3afbd1f78b6008f90fe92fc9fbee06ca93c9
+as_of_overview_commit: c18c64d1b1c1d285d7346c5a519539e98f491c98
 summary: "The corpus maps durable change to systems: AI workflows, market proof, governance controls, historical legitimacy, culture, science evidence, learning judgment, and trust."
-episode_count: 1320
-source_count: 1320
-paragraph_count: 132
+episode_count: 1321
+source_count: 1321
+paragraph_count: 133
 topic_count: 8
 ---
 
@@ -49,14 +49,14 @@ Cultural sources treat literature, folklore, games, and media as ways to examine
 
 ### Governance and Institutions
 
-Governance turns power into order through rules, titles, symbols, trust, markets, and exits; Hanji 1011 adds delegated violence as reputation management before the Wancheng command-exposure branch.
+Governance turns power into order through rules, titles, symbols, trust, markets, exits, and bounded local order; Hanji 1010 adds Liu Biao's defensive Jingzhou branch before delegated violence and Wancheng command exposure.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-History and geopolitics connect delegated violence, Cao Cao's leadership system, late-Han legitimacy, local-order fragility, state capacity, and handset ecosystems.
+History and geopolitics connect Liu Biao's bounded Jingzhou order, delegated violence, Cao Cao's leadership system, late-Han legitimacy, local-order fragility, state capacity, and handset ecosystems.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "36295a7f803925f6d35a42dfb314e41680d8a568745b2c06627b3e1dd2e192b3",
       "e62054037194f29da3543f167e9eb6961031d6f82634bee7c638837ec3b725c4",
       "2b6ff603a81c96089f7a32dfa941dd475ab0ba8936303267a7c8cff787f70e69",
       "5395ef9177de8b773e65acc72ed0b4c6977f76ec86df8337cb7d029b78a344d8",
@@ -134,11 +135,44 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 132
+    "paragraph_count": 133
   },
-  "overview_commit": "438a3afbd1f78b6008f90fe92fc9fbee06ca93c9",
-  "overview_digest": "141948952bb3d0c9be58adc71d451f6ff45cd391958bb7d787ad8820cf6fa389",
+  "overview_commit": "c18c64d1b1c1d285d7346c5a519539e98f491c98",
+  "overview_digest": "fd958e34f4f61cf979e611d1b8ffacfbc2955262e9055a3c9396667da80a21d5",
   "paragraphs": [
+    {
+      "id": "36295a7f803925f6d35a42dfb314e41680d8a568745b2c06627b3e1dd2e192b3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the Liu Biao setup immediately before [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]]. It adds [[Jingzhou|荆州]], [[DuanWeiLateHan|段煨]], [[Rangcheng|穰城]], [[MourningFramedMilitaryAbsorption|丧礼化收编]], and [[DefensiveLocalGovernance|保境安民式守成治理]], while extending [[LiuBiao|刘表]], [[ZhangJiLateHan|张济]], [[ZhangXiu|张绣]], [[JiaXu|贾诩]], [[KuaiYue|蒯越]], [[CaiMao|蔡瑁]], [[NanyangCommandery|南阳郡]], [[WanCounty|宛县]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[LiAsPoliticalOrder|礼制政治秩序]]. Its core synthesis is that Liu Biao should not be reduced to a \"pretty fool\": he can use mourning, reassurance, elite alliances, refugee-friendly governance, and ritual restraint to preserve Jingzhou, but Jia Xu's evaluation keeps that strength bounded because Liu Biao lacks the change-reading and decisiveness needed for larger disorder-era expansion. No settled contradiction is recorded; the source's transcript variants are normalized to canonical late-Han names and the apparent \"刘建\" death detail is treated as a likely arrow/stray-arrow rendering rather than a person page.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaiMao",
+        "DefensiveLocalGovernance",
+        "DuanWeiLateHan",
+        "JiaXu",
+        "Jingzhou",
+        "KuaiYue",
+        "LiAsPoliticalOrder",
+        "LiuBiao",
+        "MourningFramedMilitaryAbsorption",
+        "NanyangCommandery",
+        "PoliticalSurvivalFirst",
+        "Rangcheng",
+        "RuiqiJiangtouZizhiTongjian",
+        "WanCounty",
+        "XingshiqingStrategicAssessment",
+        "ZhangJiLateHan",
+        "ZhangXiu",
+        "zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd",
+        "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva"
+      ]
+    },
     {
       "id": "e62054037194f29da3543f167e9eb6961031d6f82634bee7c638837ec3b725c4",
       "primary_topic": "ai-and-technology",

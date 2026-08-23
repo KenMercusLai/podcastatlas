@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 438a3afbd1f78b6008f90fe92fc9fbee06ca93c9
-input_digest: b4da90974eb0be0e79691bc94d32e5f23d47cddb850ecbd7a69bd73dcbf8ced6
+as_of_overview_commit: c18c64d1b1c1d285d7346c5a519539e98f491c98
+input_digest: 931a4ed493f58802b736c13c2f0a8968a0a5275b6ed39c645d844a684997259c
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input now links six kinds of historical change: Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input now links seven kinds of historical change: Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
+
+### Late Han Liu Biao Local Order Has Strategic Ceiling
+
+Hanji 1010 places [[LiuBiao]] before the Wancheng and Mi Heng branches as a ruler who can preserve [[Jingzhou]] through [[MourningFramedMilitaryAbsorption]], elite alliances, and [[DefensiveLocalGovernance]], while [[JiaXu]] treats that stability as strategically bounded because Liu Biao lacks disorder-era decisiveness.
+
+**Evidence:** [[LiuBiao]], [[Jingzhou]], [[MourningFramedMilitaryAbsorption]], [[DefensiveLocalGovernance]], [[JiaXu]], [[ZhangJiLateHan]], [[ZhangXiu]], [[Rangcheng]], [[XingshiqingStrategicAssessment]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1010's Liu Biao assessment and the host's answer to the pretty-fool framing.
+- The source preserves normalized transcript variants and does not create a separate person page for the apparent Liu Jian death detail.
 
 ### Late Han Borrowed Knife Killing Routes Violence
 

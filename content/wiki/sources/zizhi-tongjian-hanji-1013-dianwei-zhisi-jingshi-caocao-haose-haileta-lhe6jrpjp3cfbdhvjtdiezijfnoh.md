@@ -26,7 +26,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 - During the attack, Dian Wei wakes, cannot find his main weapon, fights with a waist sword, kills many attackers, and dies holding the entrance long enough for Cao Cao to escape.
 - Cao Cao escapes from the rear, but Cao Anmin is killed, Cao Ang gives his horse to Cao Cao and dies after losing his mount, and Cao Cao is wounded before [[YuJin|于禁]] defeats Zhang Xiu's continued pursuit.
 - [[LadyDingCaoCao|丁夫人]] breaks with Cao Cao over Cao Ang's death; the source treats the rupture as a household consequence of the earlier Wancheng command failure.
-- Zhang Xiu later retreats to Rangcheng and reconnects with [[LiuBiao|刘表]], while Cao Cao collects the remnants and defends at Wuyin.
+- Zhang Xiu later retreats to [[Rangcheng|穰城]] and reconnects with [[LiuBiao|刘表]], while Cao Cao collects the remnants and defends at Wuyin.
 
 ## Key Quotes
 > "这一切就是为了一个女人" - the episode's compressed judgment on the cost of the Wancheng disaster.

@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: 438a3afbd1f78b6008f90fe92fc9fbee06ca93c9
-input_digest: f1c8d0108b44e9d2d89b9244eaa1cf33c5d35ecdcf8df52f406558606b43da9f
+as_of_overview_commit: c18c64d1b1c1d285d7346c5a519539e98f491c98
+input_digest: 666544cc7990b3d96ff14f171894d19f40c053b54bc9e888b30e972cb4a8b864
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1011 now adds a pre-Wancheng borrowed-knife branch: talent without survival caution becomes removable when reputation protection lets violence be delegated through other actors. Hanji 1012-1013 define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
+Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1010 now adds Liu Biao's defensive Jingzhou branch: mourning-framed absorption, elite reassurance, refugee-friendly local order, and ritual restraint can preserve a region, but Jia Xu's assessment keeps that capacity bounded by slow change-reading and limited expansion ability. Hanji 1011 adds the pre-Wancheng borrowed-knife branch: talent without survival caution becomes removable when reputation protection lets violence be delegated through other actors. Hanji 1012-1013 define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
 
 ## Cross-source Findings
 
@@ -128,6 +128,17 @@ Trust and mission are governance assets only when protected by structures: custo
 **Qualifications:**
 
 - The claim joins older ownership structures, AI governance, operating culture, and founder-brand cases under the narrower question of how trust survives pressure.
+
+### Late Han Defensive Governance Has Strategic Ceiling
+
+Hanji 1010 frames [[LiuBiao]] as a defensive local-order builder rather than a simple fool: [[MourningFramedMilitaryAbsorption]] lets him absorb [[ZhangJiLateHan]]'s troops after [[Rangcheng]], [[Jingzhou]] governance works through elite reassurance and [[DefensiveLocalGovernance]], and [[JiaXu]]'s assessment plus [[LiAsPoliticalOrder]] keep that strength bounded by slow change-reading and ritual restraint.
+
+**Evidence:** [[LiuBiao]], [[MourningFramedMilitaryAbsorption]], [[ZhangJiLateHan]], [[Rangcheng]], [[Jingzhou]], [[DefensiveLocalGovernance]], [[JiaXu]], [[LiAsPoliticalOrder]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1010's Liu Biao assessment before the Mi Heng and Wancheng branches.
+- The transcript variants are normalized to canonical late-Han pages, and the apparent Liu Jian death detail is treated as a likely arrow or stray-arrow rendering rather than a new person page.
 
 ### Late Han Reputation Management Delegates Violence
 

@@ -209,6 +209,28 @@
     },
     {
       "global_candidate": false,
+      "id": "late-han-defensive-governance-has-strategic-ceiling",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 1010's Liu Biao assessment before the Mi Heng and Wancheng branches.",
+        "The transcript variants are normalized to canonical late-Han pages, and the apparent Liu Jian death detail is treated as a likely arrow or stray-arrow rendering rather than a new person page."
+      ],
+      "statement": "Hanji 1010 frames [[LiuBiao]] as a defensive local-order builder rather than a simple fool: [[MourningFramedMilitaryAbsorption]] lets him absorb [[ZhangJiLateHan]]'s troops after [[Rangcheng]], [[Jingzhou]] governance works through elite reassurance and [[DefensiveLocalGovernance]], and [[JiaXu]]'s assessment plus [[LiAsPoliticalOrder]] keep that strength bounded by slow change-reading and ritual restraint.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "LiuBiao",
+        "MourningFramedMilitaryAbsorption",
+        "ZhangJiLateHan",
+        "Rangcheng",
+        "Jingzhou",
+        "DefensiveLocalGovernance",
+        "JiaXu",
+        "LiAsPoliticalOrder",
+        "XingshiqingStrategicAssessment",
+        "PoliticalSurvivalFirst"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-reputation-management-delegates-violence",
       "qualifications": [
         "This claim is source-scoped to Hanji 1011 and the host's borrowed-knife interpretation of Mi Heng's death.",
@@ -293,6 +315,6 @@
       ]
     }
   ],
-  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1011 now adds a pre-Wancheng borrowed-knife branch: talent without survival caution becomes removable when reputation protection lets violence be delegated through other actors. Hanji 1012-1013 define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
+  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1010 now adds Liu Biao's defensive Jingzhou branch: mourning-framed absorption, elite reassurance, refugee-friendly local order, and ritual restraint can preserve a region, but Jia Xu's assessment keeps that capacity bounded by slow change-reading and limited expansion ability. Hanji 1011 adds the pre-Wancheng borrowed-knife branch: talent without survival caution becomes removable when reputation protection lets violence be delegated through other actors. Hanji 1012-1013 define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
   "topic_id": "governance-and-institutions"
 }

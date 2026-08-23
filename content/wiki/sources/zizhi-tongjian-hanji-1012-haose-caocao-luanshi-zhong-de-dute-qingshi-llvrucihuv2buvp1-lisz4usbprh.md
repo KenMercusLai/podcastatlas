@@ -19,8 +19,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the
 - The opening "信" section frames belief as action before results are visible, using oracle-bone divination, a child learning to walk, bamboo growth, rocket development, and Dunhuang painters as examples of persistence under uncertainty.
 - The historical frame is 197 CE, the second year of Jian'an under [[EmperorXianOfHan|汉献帝]], when [[CaoCao|曹操]] leads a southern campaign.
 - [[ZhangXiu|张绣]] judges that he cannot resist Cao Cao's larger force and, on [[JiaXu|贾诩]]'s advice, surrenders.
-- Jia Xu is described as having left Duan Wei before joining Zhang Xiu, who respects him like an elder and listens to his advice.
-- [[ZhangJiLateHan|张济]] had died after a food-short army attacked Rangcheng; Zhang Xiu then absorbed Zhang Ji's troops and aligned with [[LiuBiao|刘表]].
+- Jia Xu is described as having left [[DuanWeiLateHan|段煨]] before joining Zhang Xiu, who respects him like an elder and listens to his advice.
+- [[ZhangJiLateHan|张济]] had died after a food-short army attacked [[Rangcheng|穰城]]; Zhang Xiu then absorbed Zhang Ji's troops and aligned with [[LiuBiao|刘表]].
 - Cao Cao learns of Zhang Ji's widow [[LadyZouWancheng|邹氏]], meets her, and takes her into his household after Zhang Xiu has just surrendered.
 - For Zhang Xiu, Lady Zou is not only a woman in Cao Cao's private life but a respected aunt by marriage, so Cao Cao's conduct can be read as an insult to family status and surrender dignity.
 - The episode links this incident to Cao Cao's broader pattern of taking mature or previously married women, naming [[LadyDuCaoCao|杜夫人]] and [[LadyYinCaoCao|尹夫人]] as adjacent examples developed in the next episode.
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the
 
 ## Connections
 - [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] - direct sequel narrating Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the Wancheng deaths.
-- [[CaoCao|曹操]], [[ZhangXiu|张绣]], [[JiaXu|贾诩]], [[ZhangJiLateHan|张济]], [[LadyZouWancheng|邹氏]], [[LiuBiao|刘表]], and [[WanCounty|宛城]] - pre-crisis surrender and household-status chain.
+- [[CaoCao|曹操]], [[ZhangXiu|张绣]], [[JiaXu|贾诩]], [[DuanWeiLateHan|段煨]], [[ZhangJiLateHan|张济]], [[Rangcheng|穰城]], [[LadyZouWancheng|邹氏]], [[LiuBiao|刘表]], and [[WanCounty|宛城]] - pre-crisis surrender and household-status chain.
 - [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]] and [[StatusInsultDefectionCascade|名分羞辱触发叛变]] - conceptual frame for why private desire becomes command risk under unstable submission.
 - [[LadyDuCaoCao|杜夫人]] and [[LadyYinCaoCao|尹夫人]] - adjacent Cao household examples used to position the Wancheng incident inside a broader desire pattern.
 

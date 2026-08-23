@@ -10613,3 +10613,11 @@ Added source page for Hanji 1011: Mi Heng's talent and abrasive speech, Kong Ron
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？
+
+Added source page for Hanji 1010: Liu Biao's 196 CE handling of Zhang Ji's death at Rangcheng, mourning-framed absorption of the remaining troops, Jia Xu's host-risk move from Duan Wei to Zhang Xiu, and the balanced evaluation of Liu Biao as a capable defensive Jingzhou governor with a strategic ceiling. Created Jingzhou, Duan Wei (late Han), Rangcheng, Mourning-Framed Military Absorption, and Defensive Local Governance; updated overview, index, Liu Biao, Zhang Ji (late Han), Zhang Xiu, Jia Xu, Kuai Yue, Cai Mao, Nanyang Commandery, Wan County, Xingshiqing Strategic Assessment, Political Survival First, and Li As Political Order. No settled contradiction found; normalized transcript variants 张继/张秀/贾许/段威/壤城/渊城/款越/蔡茂 and treated the apparent "刘建" death detail as a likely arrow/stray-arrow rendering rather than a person page.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

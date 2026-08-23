@@ -2,7 +2,7 @@
 title: "宛县 / Wan County"
 type: entity
 tags: [place, qin, nanyang, chu-han, late-han, three-kingdoms, surrender]
-sources: [zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+sources: [zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
 last_updated: 2026-08-23
 ---
 
@@ -16,6 +16,8 @@ The surrender of Wan becomes the episode's turning point from pure anti-Qin veng
 
 [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|Hanji 1012]] adds the later Wancheng use of the same place node as a failed surrender-management setup. [[ZhangXiu|张绣]] surrenders to [[CaoCao|曹操]] on [[JiaXu|贾诩]]'s advice, but Cao Cao's taking of [[LadyZouWancheng|邹氏]] makes the submission unstable before the attack has begun.
 
+[[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] adds the pre-surrender stationing note. After [[ZhangJiLateHan|张济]] dies at [[Rangcheng|穰城]], [[ZhangXiu|张绣]] inherits the troops and stations at Wan before attaching to [[LiuBiao|刘表]]. The source's transcript renders Wan as "渊城"; the wiki keeps the canonical Wancheng/Wan County form.
+
 [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] supplies the sequel. Zhang Xiu turns after Cao Cao rewards [[HuCheEr|胡车儿]] and lets a plan to kill Zhang Xiu leak. The place therefore shifts from a Liu Bang surrender-pacification case to a late-Han example of unstable submission and [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]].
 
 [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] reuses Wan as the area toward which [[YuanShengChuHan|袁先生 / 袁生]] sends Liu Bang after the [[YingyangWarringStates|荥阳]] escape. Liu Bang moves through [[Wuguan|武关]] toward Wan, Ye, and Chou, recruits along the route, and refuses battle with [[XiangYu|项羽]], making Wan part of a diversion that relieves [[XingyangStandoff|荥阳相持]] and [[Chenggao|成皋]].
@@ -23,6 +25,7 @@ The surrender of Wan becomes the episode's turning point from pure anti-Qin veng
 ## Connections
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[Wuguan|武关]], [[YuanShengChuHan|袁先生 / 袁生]], [[XiangYu|项羽]], and [[Chenggao|成皋]] - Chu-Han diversion area after Liu Bang leaves Xingyang.
 - [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|Hanji 1012]], [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]], [[CaoCao|曹操]], [[ZhangXiu|张绣]], [[LadyZouWancheng|邹氏]], [[DianWei|典韦]], and [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]] - late-Han Wancheng surrender and night-attack branch.
+- [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]], [[Rangcheng|穰城]], [[ZhangJiLateHan|张济]], and [[LiuBiao|刘表]] - pre-Wancheng troop succession and Liu Biao alignment branch.
 - [[NanyangCommandery|南阳郡]] - commandery setting.
 - [[LiuBang|刘邦]] and [[ZhangLiang|张良]] - commander and strategist in the surround-and-return decision.
 - [[ChenHuiNanyang|陈恢]] - retainer whose surrender argument prevents a costly assault.

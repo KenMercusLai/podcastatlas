@@ -2,6 +2,27 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-liu-biao-local-order-has-strategic-ceiling",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 1010's Liu Biao assessment and the host's answer to the pretty-fool framing.",
+        "The source preserves normalized transcript variants and does not create a separate person page for the apparent Liu Jian death detail."
+      ],
+      "statement": "Hanji 1010 places [[LiuBiao]] before the Wancheng and Mi Heng branches as a ruler who can preserve [[Jingzhou]] through [[MourningFramedMilitaryAbsorption]], elite alliances, and [[DefensiveLocalGovernance]], while [[JiaXu]] treats that stability as strategically bounded because Liu Biao lacks disorder-era decisiveness.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "LiuBiao",
+        "Jingzhou",
+        "MourningFramedMilitaryAbsorption",
+        "DefensiveLocalGovernance",
+        "JiaXu",
+        "ZhangJiLateHan",
+        "ZhangXiu",
+        "Rangcheng",
+        "XingshiqingStrategicAssessment"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-borrowed-knife-killing-routes-violence",
       "qualifications": [
         "This claim is source-scoped to Hanji 1011 and the host's borrowed-knife interpretation of Mi Heng's death.",
@@ -127,6 +148,6 @@
       ]
     }
   ],
-  "summary": "The history-and-geopolitics input now links six kinds of historical change: Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
+  "summary": "The history-and-geopolitics input now links seven kinds of historical change: Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
   "topic_id": "history-and-geopolitics"
 }

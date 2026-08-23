@@ -11947,6 +11947,10 @@
     "title": "Defensive Dividend Assets",
     "url": "/wiki/concepts/defensivedividendassets/"
   },
+  "DefensiveLocalGovernance": {
+    "title": "保境安民式守成治理 / Defensive Local Governance",
+    "url": "/wiki/concepts/defensivelocalgovernance/"
+  },
   "DefianceAct": {
     "title": "Defiance Act",
     "url": "/wiki/concepts/defianceact/"
@@ -13118,6 +13122,10 @@
   "DuanSihe": {
     "title": "段四合 / Duan Sihe",
     "url": "/wiki/entities/duansihe/"
+  },
+  "DuanWeiLateHan": {
+    "title": "段煨 / Duan Wei (late Han)",
+    "url": "/wiki/entities/duanweilatehan/"
   },
   "DuanXiaolou": {
     "title": "段小楼 / Duan Xiaolou",
@@ -22827,6 +22835,10 @@
     "title": "泾阳君 / Jingyang Jun (Qin)",
     "url": "/wiki/entities/jingyangjunqin/"
   },
+  "Jingzhou": {
+    "title": "荆州 / Jingzhou",
+    "url": "/wiki/entities/jingzhou/"
+  },
   "Jinjiang": {
     "title": "Jinjiang / 晋江",
     "url": "/wiki/entities/jinjiang/"
@@ -29423,6 +29435,10 @@
     "title": "Mountain Pass Rare Earth Mine",
     "url": "/wiki/entities/mountainpassrareearthmine/"
   },
+  "MourningFramedMilitaryAbsorption": {
+    "title": "丧礼化收编 / Mourning-Framed Military Absorption",
+    "url": "/wiki/concepts/mourningframedmilitaryabsorption/"
+  },
   "MourningMingReading": {
     "title": "悼明读法 / Mourning Ming Reading",
     "url": "/wiki/concepts/mourningmingreading/"
@@ -35250,6 +35266,10 @@
   "RandomizedControlledTrials": {
     "title": "Randomized Controlled Trials",
     "url": "/wiki/concepts/randomizedcontrolledtrials/"
+  },
+  "Rangcheng": {
+    "title": "穰城 / Rangcheng",
+    "url": "/wiki/entities/rangcheng/"
   },
   "RangeExtendedEV": {
     "title": "Range-Extended EV / 增程式电动车",
@@ -51942,6 +51962,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd": {
+    "title": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd/"
   },
   "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva": {
     "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",

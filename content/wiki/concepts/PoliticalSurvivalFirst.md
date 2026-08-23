@@ -2,7 +2,7 @@
 title: "Political Survival First / 安全第一政治生存"
 type: concept
 tags: [politics, statecraft, risk, han, survival]
-sources: [zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
+sources: [zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
 last_updated: 2026-08-23
 ---
 
@@ -24,8 +24,11 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 
 [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] adds a negative late-Han example through [[MiHengLateHan|祢衡]]. Mi Heng has talent and moral independence, but the source argues that unmanaged pride and speech turn him into material for [[BorrowedKnifeKilling|借刀杀人]] by [[CaoCao|曹操]], [[LiuBiao|刘表]], and [[HuangZu|黄祖]]. The host's comparison to [[JiaXu|贾诩]] makes survival-first politics a discipline of hiding sharpness when direct expression only supplies stronger actors with a route to remove you.
 
+[[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] makes that Jia Xu contrast concrete. Jia Xu leaves [[DuanWeiLateHan|段煨]] despite good treatment because he reads Duan Wei's suspicion and Jia Xu's own prestige as a future risk, then moves to [[ZhangXiu|张绣]] because Zhang Xiu needs the advice more. Survival-first judgment here means evaluating host incentives, not only current hospitality.
+
 ## Key Claims
 - Hanji 1011 adds that talent without self-protection can be actively weaponized by stronger actors through indirect danger routing.
+- Hanji 1010 adds that good treatment can still be unsafe when the host has reason to fear a guest's prestige.
 - Hanji 182 part 3 adds that the absence of survival-first judgment can make military genius politically unusable after the victory order changes.
 - Hanji 1016 adds that family survival can depend on refusing a dangerous title or alliance even when the refusal creates immediate hostage and retaliation risk.
 - Hanji 1017 adds that survival-first politics can operate at family scale, using staged alignment rather than a single irreversible camp choice.
@@ -48,3 +51,4 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 - [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], [[ChenGui|陈珪]], [[ChenDeng|陈登]], [[LyuBu|吕布]], [[CaoCao|曹操]], and [[GuanglingCommandery|广陵]] - late-Han family-survival and staged-alignment branch.
 - [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]], [[YuanShu|袁术]], [[HanYinLateHan|韩胤]], [[MingqiLegitimacy|名器合法性]], and [[MarriageAllianceWarExposure|联姻同盟战场暴露]] - prior refusal, marriage-blocking, and local-exposure branch.
 - [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]], [[MiHengLateHan|祢衡]], [[CaoCao|曹操]], [[LiuBiao|刘表]], [[HuangZu|黄祖]], [[JiaXu|贾诩]], and [[BorrowedKnifeKilling|借刀杀人]] - exposed-talent negative case and hiddenness contrast.
+- [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]], [[DuanWeiLateHan|段煨]], and [[ZhangXiu|张绣]] - Jia Xu's host-risk assessment before the Wancheng branch.
