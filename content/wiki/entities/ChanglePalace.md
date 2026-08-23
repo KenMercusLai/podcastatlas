@@ -2,7 +2,7 @@
 title: "长乐宫 / Changle Palace"
 type: entity
 tags: [place, palace, western-han, changan]
-sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ The episode also notes the later Western Han arrangement in which emperors norma
 
 [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] returns to Changle Palace after its completion in the winter tenth month of Han year seven. The palace becomes the stage where [[ShusunTong|叔孙通]]'s new audience ritual is performed: officials enter before dawn, ranks are arranged, guards and flags frame the ruler, toasts proceed by title, and censors remove breaches. The building therefore shifts from capital infrastructure into the visible setting for [[ImperialRitualDistance|君臣礼制距离]].
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] gives Changle Palace a harsher capital-security role. [[LuZhi|吕雉]] and [[XiaoHe|萧何]] use false news of [[ChenXi|陈豨]]'s defeat to draw [[HanXin|韩信]] into a palace congratulations setting; once he enters, he is bound, killed, and exterminated by three clans. The same palace that displays ritual order can therefore also become a controlled space for eliminating a politically dangerous功臣.
+
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[HanXin|韩信]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - false-victory summons and killing inside Changle Palace.
 - [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court-audience ritual inside Changle Palace.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] - source page.
 - [[LiuBang|刘邦]], [[ChangAnHanCapital|长安]], and [[WesternHanDynasty|西汉]] - founding ruler, capital, and dynasty.

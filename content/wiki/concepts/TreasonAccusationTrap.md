@@ -2,7 +2,7 @@
 title: "Treason Accusation Trap / 谋反指控陷阱"
 type: concept
 tags: [court-politics, governance, political-intrigue, pre-qin-history]
-sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 
 [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] adds an early Han version around [[HanXin|韩信]]. The source begins with someone reporting that Han Xin is rebelling; [[LiuBang|刘邦]] does not treat the report as enough for direct war, but it makes action necessary. [[ChenPing|陈平]] then supplies the operational mechanism through [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], showing that a treason accusation can set the political frame while a separate protocol trap provides the arrest opportunity.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] adds a border case rather than a simple planted accusation. The report against Han Xin comes through the younger brother of a retainer whom Han Xin has imprisoned, and the source presents Han Xin as having prepared a concrete capital plan. Once the report reaches [[LuZhi|吕雉]], however, the political structure is familiar: a treason report creates urgent ruler-family security pressure, while [[XiaoHe|萧何]] and false victory protocol provide the arrest opportunity.
+
 ## Key Claims
+- Hanji 182 part 2 adds that even a seemingly grounded informer report can produce the same operational pattern as a trap: security pressure first, protocol capture second.
 - Hanji 172 adds a two-step version: accusation creates ruler-security pressure, while ritual summons supplies the low-force capture method.
 - Treason accusations do not have to be airtight to be politically powerful; they only have to make distrust operational.
 - A staged third-party act can be more useful than direct accusation because it gives the ruler something to investigate.
@@ -34,6 +37,7 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 - A treason accusation can remove a commander even when the external enemy is the obvious immediate threat; ruler fear can outrank battlefield necessity.
 
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[HanXin|韩信]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - informer report followed by palace-protocol capture.
 - [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[ChenPing|陈平]], and [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] - early Han accusation followed by protocol-based arrest.
 - [[ZouJi|成侯邹忌]] - actor who creates the accusation trap in the source.
 - [[TianJi|田忌]] and [[SunBin|孙膑]] - target and adviser affected by the accusation.

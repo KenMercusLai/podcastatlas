@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "ChangerdaiGoGoGo"
     title: "厂二代GoGoGo"
     url: "/wiki/entities/changerdaigogogo/"
+  - key: "Canhe"
+    title: "参合 / Canhe"
+    url: "/wiki/entities/canhe/"
   - key: "ChangAnTang"
     title: "唐代长安 / Tang Chang'an"
     url: "/wiki/entities/changantang/"

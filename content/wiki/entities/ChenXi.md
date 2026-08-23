@@ -2,7 +2,7 @@
 title: "陈豨 / Chen Xi"
 type: entity
 tags: [person, western-han, rebellion, frontier]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ Chen Xi then behaves like a high-status retainer patron, with a huge guest train
 
 The episode's military reading is negative. Chen Xi fails to hold Handan and relies on the Zhang River line in a way Liu Bang reads as proof that he lacks strategic judgment. His generals also prove vulnerable to Liu Bang's bribery, making Chen Xi a case where frontier command, retainer display, investigation pressure, and weak coalition discipline combine into rebellion.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] follows Chen Xi after the revolt starts collapsing. Liu Bang defeats him south of Dai county, Chen Xi retreats to [[Canhe|参合]] and joins [[HanWangXin|韩王信]], and he survives the fall of Canhe only temporarily; the episode says he is later defeated by [[FanKuai|樊哙]] near Lingqiu and dies. This makes Chen Xi less a durable alternative ruler than the moving center of a rebellion whose allies are peeled away one branch at a time.
+
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[Canhe|参合]], [[HanWangXin|韩王信]], and [[FanKuai|樊哙]] - later defeat, retreat, and death branch.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] - source page.
 - [[HanXin|韩信]] - proposer of the inside-outside rebellion design.
 - [[LiuBang|刘邦]] and [[ZhouChang|周昌]] - ruler and reporter whose response pushes the investigation path.

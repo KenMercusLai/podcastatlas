@@ -2,7 +2,7 @@
 title: "Covert Political Technology / 阴谋式政治技术"
 type: concept
 tags: [strategy, intelligence, statecraft, chu-han, ethics]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-23
 ---
 
@@ -28,7 +28,10 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 
 [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] adds a Liu Bang-directed suppression case outside Chen Ping's immediate authorship. During [[ChenXiRebellion|陈豨之乱]], Liu Bang asks about [[ChenXi|陈豨]]'s major generals, learns that many come from merchant backgrounds, and sends heavy bribes to induce surrender. The concept therefore includes ruler-sponsored financial defection operations as a rebellion-breaking tool, not only Chen Ping's rumor and protocol manipulations.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] extends the same repertoire in two directions. In the field, bounties for [[WangHuang|王黄]] and [[ManqiuChen|曼丘臣]] make their own men deliver them to Liu Bang. In the capital, [[LuZhi|吕雉]] and [[XiaoHe|萧何]] use false victory news and court congratulations to lure [[HanXin|韩信]] into [[ChanglePalace|长乐宫]], making protocol, trust, and misinformation part of the same hidden coercive toolkit.
+
 ## Key Claims
+- Hanji 182 part 2 adds bounty-induced capture and false-victory court protocol as two linked covert techniques during one rebellion crisis.
 - Hanji 182 adds that covert political technology can target rebel subordinates' material incentives directly through bribery and defection.
 - Hanji 172 adds that covert technique can be routed through official protocol itself: an ordinary-looking itinerary and summons can carry the hidden coercive work.
 - Some political work is effective because it is hidden, deniable, or routed through rumor and inducement.
@@ -43,6 +46,7 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 - In the Fan Zeng case, covert technique can turn protocol and hospitality into an information weapon, especially when the operator understands the target camp's factional structure.
 
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[WangHuang|王黄]], [[ManqiuChen|曼丘臣]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], [[HanXin|韩信]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - bounty capture and false-victory summons as hidden coercive technique.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[LiuBang|刘邦]], [[ChenXi|陈豨]], and [[ChenXiRebellion|陈豨之乱]] - bribery of rebel generals as coalition-breaking suppression.
 - [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[LiuBang|刘邦]], [[HanXin|韩信]], and [[ChenCountyChuHan|陈县]] - false itinerary and summons as covert coercion.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[XiangBo|项伯]] - staged envoy protocol as faction-aware information weapon.

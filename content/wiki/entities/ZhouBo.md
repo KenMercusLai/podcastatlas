@@ -2,7 +2,7 @@
 title: "周勃 / Zhou Bo"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ His source role is therefore less a developed biography than an internal-morale 
 
 [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] adds a direct battlefield role. At the [[GaixiaBattle|垓下之战]], Zhou Bo and [[ChaiWu|柴武]] command the third line in [[HanXin|韩信]]'s formation. After [[XiangYu|项羽]] breaks through the first line and [[LiuBang|刘邦]]'s second line without making the coalition collapse, the Zhou Bo / Chai Wu line becomes the stopping layer that lets [[LayeredDepthDefense|纵深分层防御]] close into encirclement.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] adds a post-founding suppression role. Zhou Bo attacks [[Mayi|马邑]] and helps press [[HanWangXin|韩王信]] with Chai Wu during the [[ChenXiRebellion|陈豨之乱]] cleanup. The episode's note that Mayi is slaughtered after capture puts Zhou Bo's branch inside the harsher coercive side of Liu Bang's northern campaign.
+
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[Mayi|马邑]], [[HanWangXin|韩王信]], and [[ChenXiRebellion|陈豨之乱]] - northern suppression role and Mayi reconquest.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]], [[ChaiWu|柴武]], [[GaixiaBattle|垓下之战]], and [[LayeredDepthDefense|纵深分层防御]] - third-line command in Han Xin's final battle formation.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[GuanYing|灌婴]], and [[FanKuai|樊哙]] - Liu Bang-side figures in the Hanzhong reaction scene.
 - [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[ThreeQinContainment|三秦压制]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - strategic setting around the retreat.

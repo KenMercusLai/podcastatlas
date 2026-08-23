@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "DongpoRou"
     title: "东坡肉 / Dongpo Rou"
     url: "/wiki/entities/dongporou/"
+  - key: "Dongyuan"
+    title: "东垣 / Dongyuan"
+    url: "/wiki/entities/dongyuan/"
   - key: "DongchengChuHan"
     title: "东城 / Dongcheng (Chu-Han)"
     url: "/wiki/entities/dongchengchuhan/"

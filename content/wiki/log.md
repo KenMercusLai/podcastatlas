@@ -10446,6 +10446,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint; report printed in session, not saved to lint-report.md.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）
+
+Added source page for Hanji 182 part 2: Chen Xi's suppression through Dongyuan, Quni, Mayi, and Canhe; Han Wang Xin's refusal of Chai Wu's surrender letter; and Han Xin's exposure, false-victory summons, Changle Palace killing, and the "成也萧何败也萧何" idiom. Created Dongyuan, Zhending, Canhe, Hou Chang, Zhang Chun (Western Han rebel), Guo Meng, Jin Xi (Han general), and Celebratory Summons Entrapment; updated overview, index, Han Xin, Xiao He, Lu Zhi, Chen Xi, Chen Xi Rebellion, Han Wang Xin, Liu Bang, Western Han, Changle Palace, Quni, Mayi, Zhou Bo, Chai Wu, Fan Kuai, Guan Ying, Cao Shen, Zhao Li, Wang Huang, Manqiu Chen, Power Exit Trap, Treason Accusation Trap, and Covert Political Technology. No settled contradiction found; Han Xin's later conspiracy remains a post-demotion stage rather than a contradiction of earlier loyalty episodes, and Han Wang Xin's refusal is recorded as a source-scoped challenge to surrender credibility.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）
 
 Added source page for Hanji 182: Chen Xi's frontier appointment, Han Xin's inside-outside rebellion proposal, Zhou Chang's warning, Liu Bang's investigation, Liu Taigong funeral summons, Chen Xi's self-declared Dai kingship, the Wang Huang / Manqiu Chen / Han Wang Xin / Zhao Li rebel network, and Liu Bang's suppression through Handan judgment, selective non-punishment, local rewards, Le Shu symbolic pacification, and bribery of rebel generals. Created Chen Xi, Chen Xi Rebellion, Wang Huang, Manqiu Chen, Zhao Li, Le Shu, and Investigation-Driven Rebellion Escalation; updated overview, index, Han Xin, Liu Bang, Zhou Chang, Han Wang Xin, Dai Kingdom, Handan, Le Yi, Liu Taigong, Different-Surname King Suspicion, Frontier Vassal Containment, Occupation Pacification Strategy, and Covert Political Technology. No settled contradiction found; Han Xin's later conspiracy is recorded as a post-demotion stage rather than a contradiction with earlier refusal-to-betray episodes, and Xiao He's promised role remains pending for the sequel.
@@ -10453,3 +10457,7 @@ Added source page for Hanji 182: Chen Xi's frontier appointment, Han Xin's insid
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint; report printed in session, not saved to lint-report.md.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint; report printed in session, not saved to lint-report.md. Semantic checks unavailable because LLM_MODEL and provider API keys are unset.

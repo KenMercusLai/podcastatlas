@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）](sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb.md) — 芮淇讲透资治通鉴 episode completing Chen Xi's suppression through Dongyuan, Quni, Mayi, and Canhe, Han Wang Xin's refusal, and Han Xin's Changle Palace killing through Lu Zhi and Xiao He's false-victory summons.
 - [《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）](sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9.md) — 芮淇讲透资治通鉴 episode opening Chen Xi's rebellion through Han Xin's inside-outside plan, Zhou Chang's warning, Liu Bang's investigation, Chen Xi's northern alliance, and Liu Bang's suppression tactics.
 - [《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因](sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s.md) — 芮淇讲透资治通鉴 episode on Liu Bang's failed attempt to replace Liu Ying with Liu Ruyi, Qi Ji's weak political base, Zhou Chang's remonstrance and Zhao reassignment, and the protection failure around the favored heir.
 - [《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）](sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2.md) — 芮淇讲透资治通鉴 episode on Guan Gao's death, Xun Yue and Sima Guang's judgments of the case, Zhang Ao's likely removal under anti-different-surname king policy, Tian Shu and Meng Shu's appointment, and the Xiao He promotion chronology note.
@@ -1308,6 +1309,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [东垣 / Dongyuan](entities/Dongyuan.md) — Zhao-region stronghold in the Chen Xi rebellion that Liu Bang takes and renames Zhending.
+- [真定 / Zhending](entities/Zhending.md) — Liu Bang's renamed Dongyuan, marking claimed stabilization after the Chen Xi rebellion siege.
+- [参合 / Canhe](entities/Canhe.md) — Northern transport node where Chen Xi and Han Wang Xin regroup near Xiongnu-facing routes before Han suppression.
+- [侯昶 / Hou Chang](entities/HouChang.md) — Chen Xi-aligned rebel commander defeated and killed by Guan Ying at Quni.
+- [张春 / Zhang Chun (Western Han rebel)](entities/ZhangChunWesternHan.md) — Chen Xi-aligned rebel commander defeated around Liaocheng by Guo Meng and Qi troops.
+- [郭蒙 / Guo Meng](entities/GuoMeng.md) — Han commander in Cao Shen's Qi-linked suppression track who defeats Zhang Chun near Liaocheng.
+- [靳歙 / Jin Xi (Han general)](entities/JinXiHanGeneral.md) — Han general paired with Guan Ying in the pursuit of Hou Chang during the Chen Xi rebellion.
 - [陈豨 / Chen Xi](entities/ChenXi.md) — Frontier official whose retainer display, investigation pressure, and Han Xin-linked plan lead into the Chen Xi Rebellion.
 - [陈豨之乱 / Chen Xi Rebellion](entities/ChenXiRebellion.md) — Early Western Han northern revolt linking Chen Xi, Han Xin, Han Wang Xin's old network, Zhao/Dai frontier power, and Liu Bang's suppression campaign.
 - [王黄 / Wang Huang](entities/WangHuang.md) — Han Wang Xin old follower who helps connect Chen Xi's rebellion to the wider northern anti-Han network.
@@ -8044,6 +8052,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Celebratory Summons Entrapment / 报捷祝贺式诱捕](concepts/CelebratorySummonsEntrapment.md) — False victory news and congratulatory court protocol used to lure a politically dangerous target into controlled palace space.
 - [调查推动式反叛升级 / Investigation-Driven Rebellion Escalation](concepts/InvestigationDrivenRebellionEscalation.md) — Pattern where a politically directed inquiry turns retainer networks, frontier command, and court summons into a self-confirming rebellion spiral.
 - [Alternative-Heir Protection Failure / 备位继承人保护失灵](concepts/AlternativeHeirProtectionFailure.md) — Succession failure mode where an exposed favored-heir branch receives only thin protection after the ruler cannot complete the replacement.
 - [关中豪强迁徙 / Guanzhong Elite Relocation](concepts/GuanzhongEliteRelocation.md) — Liu Jing's early Han policy of moving six-state elites and local powers into Guanzhong for capital-region population, defense, and elite control.

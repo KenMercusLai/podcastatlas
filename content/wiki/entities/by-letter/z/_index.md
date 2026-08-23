@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "ZhangXingyun"
     title: "张星云 / Zhang Xingyun"
     url: "/wiki/entities/zhangxingyun/"
+  - key: "ZhangChunWesternHan"
+    title: "张春 / Zhang Chun (Western Han rebel)"
+    url: "/wiki/entities/zhangchunwesternhan/"
   - key: "ZhangYueguang"
     title: "张月光"
     url: "/wiki/entities/zhangyueguang/"
@@ -623,6 +626,9 @@ wiki_pages:
   - key: "ZhenQianjinTaShiXueba"
     title: "甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba"
     url: "/wiki/entities/zhenqianjintashixueba/"
+  - key: "Zhending"
+    title: "真定 / Zhending"
+    url: "/wiki/entities/zhending/"
   - key: "ZhendouBoxingGym"
     title: "真斗拳馆"
     url: "/wiki/entities/zhendouboxinggym/"

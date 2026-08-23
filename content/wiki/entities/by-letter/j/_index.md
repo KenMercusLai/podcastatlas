@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "JinQiang"
     title: "金强 / Jin Qiang"
     url: "/wiki/entities/jinqiang/"
+  - key: "JinXiHanGeneral"
+    title: "靳歙 / Jin Xi (Han general)"
+    url: "/wiki/entities/jinxihangeneral/"
   - key: "Jizong"
     title: "鸡枞 / Jizong"
     url: "/wiki/entities/jizong/"

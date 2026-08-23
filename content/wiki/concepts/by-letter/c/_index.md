@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5149
+wiki_total_pages: 5150
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "CavalryShockCommandStrike"
     title: "Cavalry Shock Command Strike / 骑兵奇袭指挥中枢"
     url: "/wiki/concepts/cavalryshockcommandstrike/"
+  - key: "CelebratorySummonsEntrapment"
+    title: "Celebratory Summons Entrapment / 报捷祝贺式诱捕"
+    url: "/wiki/concepts/celebratorysummonsentrapment/"
   - key: "CelestialOmenPoliticalResponsibility"
     title: "Celestial Omen Political Responsibility / 天象政治责任"
     url: "/wiki/concepts/celestialomenpoliticalresponsibility/"

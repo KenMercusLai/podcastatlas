@@ -2,7 +2,7 @@
 title: "陈豨之乱 / Chen Xi Rebellion"
 type: entity
 tags: [event, rebellion, western-han, frontier]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ The rebel side is not only Chen Xi. [[WangHuang|王黄]] and [[ManqiuChen|曼丘
 
 The suppression side shows Liu Bang's practical range. He criticizes Chen Xi for abandoning [[Handan|邯郸]], refuses to execute ordinary officials who lacked the force to hold lost counties, rewards Zhao local strongmen at high cost, honors [[LeYi|乐毅]]'s descendant [[LeShu|乐叔]], and uses money to split Chen Xi's merchant-background generals. The event therefore extends both [[InvestigationDrivenRebellionEscalation|investigation-driven rebellion escalation]] and [[OccupationPacificationStrategy|occupation pacification strategy]].
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] completes the suppression arc. The Han side holds Handan, breaks rebel branches through bounty capture and pursuit, takes [[Dongyuan|东垣]] and renames it [[Zhending|真定]], defeats [[HouChang|侯昶]] at [[QuniCounty|曲逆]], and kills [[HanWangXin|韩王信]] at [[Canhe|参合]]. The same crisis also activates the capital branch against [[HanXin|韩信]], whose alleged inside plot is exposed while Liu Bang is away campaigning.
+
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[Dongyuan|东垣]], [[Zhending|真定]], [[QuniCounty|曲逆]], [[Canhe|参合]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - completed field and palace suppression arcs.
 - [[ChenXi|陈豨]], [[HanXin|韩信]], [[LiuBang|刘邦]], and [[ZhouChang|周昌]] - central trigger actors.
 - [[WangHuang|王黄]], [[ManqiuChen|曼丘臣]], [[HanWangXin|韩王信]], and [[ZhaoLi|赵利]] - northern rebel network.
 - [[DaiKingdomEarlyHan|代国]], [[ZhaoState|赵国]], [[Handan|邯郸]], and [[Xiongnu|匈奴]] - geographic and frontier context.
