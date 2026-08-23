@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6897
+wiki_total_pages: 6901
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1667,6 +1667,9 @@ wiki_pages:
   - key: "ShizukoNoLongerHuman"
     title: "静子 / Shizuko"
     url: "/wiki/entities/shizukonolongerhuman/"
+  - key: "SkylandFoodCourt"
+    title: "食通天 Skyland Food Court"
+    url: "/wiki/entities/skylandfoodcourt/"
   - key: "ShikanoYasuaki"
     title: "鹿野靖明"
     url: "/wiki/entities/shikanoyasuaki/"

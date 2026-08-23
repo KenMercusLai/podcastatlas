@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6897
+wiki_total_pages: 6901
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "ModernTreasury"
     title: "Modern Treasury"
     url: "/wiki/entities/moderntreasury/"
+  - key: "Moderna"
+    title: "Moderna"
+    url: "/wiki/entities/moderna/"
   - key: "MOECapital"
     title: "MOE Capital"
     url: "/wiki/entities/moecapital/"

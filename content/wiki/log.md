@@ -10776,3 +10776,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？
+
+Added source page for a 声动早咖啡 coffee-bean episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland and City Mart successor formats, platform/supermarket foodservice, and short updates on Moderna/Merck personalized mRNA cancer vaccines, Kuaishou's Kling AI, Tesla China/Doubao/Volcengine, and Carlsberg's alcohol-free beer and soft-drink growth. Created pages for Moderna, Kling AI, Volcengine, Skyland Food Court, and Non-Alcoholic Beer Growth; updated overview, index, ShengdongZaokafei, FoodRepublic, FoodCourtSecondLandlord, ShoppingCenterRestaurantization, MallFoodCourtDecline, SceneLedFoodMarket, CityMart, MeituanHuanxiongShitang, PlatformCanteen, InternalCanteenFoodCourtOperation, ChainRestaurantStandardization, OffPremiseRestaurantCommerce, Kuaishou, VideoModels, Doubao, Tesla, Merck, CancerVaccinePlatform, and Carlsberg. No direct contradiction found; the source reinforces the existing 大食代 analysis while adding delivery-platform margin pressure and successor-operator details.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

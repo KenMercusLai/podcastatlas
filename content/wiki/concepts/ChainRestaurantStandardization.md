@@ -2,8 +2,8 @@
 title: "Chain Restaurant Standardization"
 type: concept
 tags: [restaurants, operations, standardization, food-safety, localization]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, chef-vs-robot, vol-263-lang-de-youhuo-998128018, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
-last_updated: 2026-08-16
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, chef-vs-robot, vol-263-lang-de-youhuo-998128018, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+last_updated: 2026-08-24
 ---
 
 # Chain Restaurant Standardization
@@ -22,6 +22,8 @@ The episode's key distinction is that standardization is not the same as blindly
 
 [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds a competitive version through the decline of anonymous [[FoodRepublic|大食代]] stalls. The source argues that chains such as 老乡鸡, 和府捞面, and 喜家德水饺 gained an edge over food-court category stalls because central kitchens, procurement scale, menu consistency, and recognizable brand names let them enter malls without being meaningfully more expensive to consumers.
 
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] strengthens the same claim with a chain-rate snapshot. It says China's restaurant chain rate has reached 25% and is growing about two percentage points per year, while mall-adjacent chains such as 米村拌饭, 遇见小面, and 老乡鸡 can combine recognizable brands, group-buying coupons, delivery, and 20-40 yuan meals. Standardization therefore changes the landlord negotiation: a chain can offer traffic and operations directly instead of needing a food-court intermediary.
+
 ## Key Claims
 - Measurement systems such as RFID can convert freshness, plate age, customer pickup, and discard timing into operational data.
 - Hygiene routines are not cosmetic in high-trust food categories; they are part of the product's credibility.
@@ -34,6 +36,7 @@ The episode's key distinction is that standardization is not the same as blindly
 - Chain standardization can weaken food-court intermediaries when branded restaurants can use scale and operating systems to deal directly with mall landlords.
 - Store-within-store foodservice treats a restaurant's existing operating base as a test surface for adjacent categories, lowering the cost and risk of category expansion.
 - Specialized buffet standardization can reduce menu complexity, but it also makes the core ingredient's quality, refill rhythm, and perceived abundance more exposed.
+- The source-scoped chain-rate snapshot of 25% signals why mid/small food-court vendors face stronger branded competition.
 
 ## Connections
 - [[Sushiro]] - central source case.

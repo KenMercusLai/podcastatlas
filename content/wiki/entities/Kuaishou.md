@@ -2,8 +2,8 @@
 title: "Kuaishou"
 type: entity
 tags: [company, short-video, social-platform, china]
-sources: [no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
-last_updated: 2026-08-12
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
+last_updated: 2026-08-24
 ---
 
 # Kuaishou
@@ -22,6 +22,8 @@ The source uses Kuaishou as a contrast case for short-video ecology. Musical.ly 
 
 [[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds [[KuaishouLite]] as the domestic short-video case that made the Lite-app incentive model widely visible. The episode says Kuaishou Lite used aggressive cashout perception and low early thresholds to create market attention, but its durability depended on Kuaishou's content, feed, algorithm, and ad monetization rather than rewards alone.
 
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] adds a current AI-video commercialization snapshot. The source says Kuaishou's second-quarter net profit fell 30%, while [[KlingAI|Kling AI]] revenue grew more than 200%; the tension is that model training and R&D spending can make AI product growth coexist with lower profitability.
+
 ## Key Points
 - Kuaishou is the reference point for broad, ordinary-user UGC.
 - The source treats Kuaishou as both a competitor and an ecosystem benchmark.
@@ -31,6 +33,7 @@ The source uses Kuaishou as a contrast case for short-video ecology. Musical.ly 
 - Episode 8 adds Kuaishou Lite as the strongest domestic proof that [[LiteAppGrowth]] can scale when backed by a real short-video consumption and monetization system.
 - Episode 141 adds Kuaishou as a market-narrative distribution surface rather than a product-mechanics case.
 - Episode 214 adds Kuaishou as the later owner of [[AcFun]], tying it to the older [[BulletCommentCommunity]] lineage.
+- Kling AI links Kuaishou to video-model commercialization, but the source frames AI revenue growth alongside training and R&D cost pressure.
 
 ## Connections
 - [[MusicalLy]], [[TikTok]], and [[Douyin]] — comparison platforms.
@@ -42,3 +45,4 @@ The source uses Kuaishou as a contrast case for short-video ecology. Musical.ly 
 - [[KuaishouLite]], [[DouyinLite]], [[LiteAppGrowth]], and [[GrowthROILayers]] — domestic Lite-app incentive context added by episode 8.
 - [[CreatorDrivenFinancialNarrative]], [[InformationCocoon]], [[Xiaohongshu]], [[Douyin]], and [[Xueqiu]] — episode 141's creator and market-narrative extension.
 - [[AcFun]], [[Niconico]], [[Bilibili]], and [[BulletCommentCommunity]] — bullet-comment community branch added by episode 214.
+- [[KlingAI]], [[VideoModels]], and [[AIInferenceCostStructure]] - AI-video branch and cost context.

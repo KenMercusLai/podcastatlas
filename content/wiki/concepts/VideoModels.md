@@ -2,8 +2,8 @@
 title: "Video Models"
 type: concept
 tags: [video, generative-ai, content]
-sources: [all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-20
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-24
 ---
 
 # Video Models
@@ -40,6 +40,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] adds a product-strategy caution through [[Sora]], [[Meitu]], and [[Jianying]]. The source argues that stronger video generation alone does not guarantee a durable app or platform: quality, cost, workflow fit, editing control, and vertical use cases decide whether video models become usable products.
 
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] adds [[KlingAI|Kling AI]] as a revenue signal inside the same competition. The source says Kling revenue grew more than 200%, while [[Kuaishou]]'s profit was pressured by higher AI R&D and training expense and [[ByteDance]] and [[MiniMax]] kept releasing competing video models.
+
 ## Source Notes
 - The episode mentions commercial signals from products such as Kling and [[Seedance]], plus a case called Zombie Cleaner.
 - The host resists dismissing short-drama-style content, arguing that popular content can still have value.
@@ -59,6 +61,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - The same source gives a China-video-model explanation based on visual-entertainment data quantity, data quality, preference alignment, and short-video/livestream-commerce ecosystems.
 - The LateTalk Lib TV source adds that video-model applications are judged by subscription economics, launch timing, workflow packaging, and margin assumptions, not only by model output quality.
 - The 声动早咖啡 source adds that video models are becoming a clearer commercialization lane, but one where price, clip length, audio, editing, and short-drama workflow adoption are now direct competitive variables.
+- The Food Republic coffee-bean source adds that Kling AI can grow revenue while training and R&D cost still pressure Kuaishou profitability.
 - The All-In Black Forest Labs source adds that video models can be a bridge between media generation and action prediction, but high-end film still needs continuity, control, and rights-safe workflows.
 
 ## Connections
@@ -78,4 +81,5 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[Vidu]], [[ViduS1]], [[StreamingVideoGeneration]], [[RealTimeInteractiveVideoGeneration]], and [[InferenceAccelerationStack]] — real-time interactive branch added by the Shizilukou Crossing source.
 - [[LibTV]], [[Evoken]], [[Seedance]], [[AISubscriptionEconomics]], and [[AIApplicationSurvivalStrategy]] — downstream video-creation application and pricing branch added by LateTalk.
 - [[MiniMax]], [[Seedance]], [[ByteDance]], [[Sora]], and [[AIInferenceCostStructure]] - price, duration, and commercial-usage branch added by 声动早咖啡.
+- [[Kuaishou]] and [[KlingAI]] - AI-video commercialization and cost-pressure branch.
 - [[BlackForestLabs|Black Forest Labs]], [[RobinRombach]], [[Flux]], [[GenerativeMediaControlLayers]], [[MartinScorsese]], and [[IPControlledGenerativeModels]] - All-In visual-model and creative-control branch.

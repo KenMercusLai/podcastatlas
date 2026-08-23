@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？](sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222.md) — 声动早咖啡 episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland/City Mart successor formats, and short updates on mRNA cancer vaccines, Kling AI, Doubao in Tesla China, and Carlsberg's alcohol-free growth.
 - [EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise](sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise.md) — Data Science With Sam episode with Jim Spignardo of Proarc on enterprise AI pilot failure, Microsoft 365 Copilot adoption, shadow AI, governance, baselines, and dedicated AI ownership.
 - [宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26](sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b.md) — What's Next episode on Unitree's listing surge, humanoid-robot commercialization, repeat-purchase demand, existing-business versus option-value valuation, simulation, and Disney's IP-led robotics model.
 - [I, robot? AI and consciousness](sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015.md) — The Intelligence episode on AI consciousness boundaries, ELIZA and chatbot mind projection, Claude workspace analogies, Europe's STI surge, and Mary de Rachewiltz's translation of Ezra Pound's Cantos.
@@ -2746,6 +2747,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [北京东方新天地 / Beijing Oriental Plaza](entities/BeijingOrientalPlaza.md) — Wangfujing mall setting for the episode's Beijing Food Republic closure case.
 - [美团浣熊食堂 / Meituan Huanxiong Shitang](entities/MeituanHuanxiongShitang.md) — Meituan platform-led canteen-like foodservice space discussed as a successor pressure on older food courts.
 - [城市集市 / City Mart](entities/CityMart.md) — Shanghai scene-led food-market operator contrasted with the older 大食代 model.
+- [食通天 Skyland Food Court](entities/SkylandFoodCourt.md) — Newer food-court operator used as a high-end-mall successor path to the older Food Republic model.
+- [Moderna](entities/Moderna.md) — Biotech company named with Merck in the personalized mRNA cancer-vaccine update.
+- [Kling AI / 可灵 AI](entities/KlingAI.md) — Kuaishou AI video product used as a revenue-growth and model-cost pressure example.
+- [Volcengine / 火山引擎](entities/Volcengine.md) — ByteDance cloud and AI-services layer connecting Doubao into Tesla China's in-car system.
 - [卓瑞 / Zhuo Rui](entities/ZhuoRui.md) — NVIDIA autonomous-driving, robotics, and smart-city product speaker explaining the automotive AI platform stack.
 - [张宁 / Zhang Ning (Pony.ai)](entities/ZhangNingPonyAI.md) — Pony.ai speaker explaining L4 Robotaxi responsibility, fleet operations, simulation, and commercialization.
 - [Bilibili / 哔哩哔哩](entities/Bilibili.md) — Chinese video and bullet-comment community grown from MikuFans into a creator, anime, game, and youth-culture platform.
@@ -9136,6 +9141,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Platform Canteen / 平台食堂](concepts/PlatformCanteen.md) — App/platform-led foodservice space that combines branded food supply, offline stalls, and platform traffic.
 - [Scene-Led Food Market / 场景化美食市集](concepts/SceneLedFoodMarket.md) — Food-market format that competes through theme, decor, browsing, mixed retail, and social circulation.
 - [Internal Canteen Food-Court Operation / 内部食堂美食广场化](concepts/InternalCanteenFoodCourtOperation.md) — Enterprise or education canteen direction that reuses food-court management capability outside malls.
+- [Non-Alcoholic Beer Growth / 无醇啤酒增长](concepts/NonAlcoholicBeerGrowth.md) — Beverage-company growth route where beer makers use no/low-alcohol beer and soft drinks to offset pressure on traditional beer.
 - [Autonomous Driving Responsibility Boundary](concepts/AutonomousDrivingResponsibilityBoundary.md) — L2/L3/L4 distinction based on who owns driving responsibility and fallback duties.
 - [Robotaxi Fleet Operations](concepts/RobotaxiFleetOperations.md) — Operations layer covering dispatch, charging, maintenance, incidents, passenger handling, and vehicle lifecycle economics for driverless fleets.
 - [Car-Grade Autonomous Compute](concepts/CarGradeAutonomousCompute.md) — Vehicle-side compute stack for production autonomy, combining SoCs, software, sensors, redundancy, safety, and OTA support.

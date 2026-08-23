@@ -2,11 +2,13 @@
 title: "声动早咖啡"
 type: entity
 tags: [podcast, media, business, technology, china]
-sources: [vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
-last_updated: 2026-08-17
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+last_updated: 2026-08-24
 ---
 
 # 声动早咖啡
+
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] adds another coffee-bean listener-question episode. It opens with short updates on [[Moderna]], [[Merck]], [[Kuaishou]], [[KlingAI|Kling AI]], [[Tesla]], [[Doubao]], [[Volcengine]], and [[Carlsberg]], then uses [[FoodRepublic|大食代]] to explain why traditional mall food courts are losing fit as chains, malls, delivery platforms, supermarkets, and platform canteens reorganize the same meal demand.
 
 [[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds another roundup-and-explainer example. It opens with short updates on [[JDCom|JD.com / 京东]], [[Didi]], [[Apple]], and [[DeepSeekHarness|DeepSeek Harness]], then uses [[Vans]] and [[Converse|匡威 / Converse]] to explain why classic canvas shoes are losing momentum under [[ComfortLedFootwearDemand]], [[SubcultureMainstreamingDilution]], and [[HeritageProductInnovationDebt]].
 
@@ -41,6 +43,7 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - The Kao episode shows the format's mix of quick daily business updates and one deeper business-history explanation.
 - The Spider-Man/AI-price-war episode shows the show's compact multi-industry roundup mode.
 - The popcorn-bucket episode shows how a playful consumer object can become an entry point into media economics, licensing, retail margin, and fandom behavior.
+- The Food Republic episode shows how the listener-question format can reuse an existing business-history topic while adding margin, channel, and successor-operator details.
 - It extends [[MorningAudioRitual]] by making news listening part of waking, coffee, commuting, and planning the day.
 - Its coffee metaphor links the show to [[Coffee|coffee / 咖啡]] and [[CaffeinatedModernity]], but the trailer uses coffee as a media-positioning device rather than a food or retail topic.
 
@@ -59,5 +62,6 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - [[LOreal|L'Oreal / 欧莱雅]], [[Kerastase|Kérastase / 卡诗]], [[HaircareSkincareization]], [[PremiumHaircareMarket]], [[SalonChannelTrust]], and [[BeautyProblemNaming]] - hair-care market branch added by the August 2026 hair-care episode.
 - [[Starbucks]], [[LiNing|Li-Ning]], [[MetaMuseModels]], [[BottledBeverageDemandPressure]], [[SonyTSMCImageSensorJV]], [[AIPersonaLabeling]], and [[AITravelCommerceTrust]] - rumor-response, AI, beverage, semiconductor, music, and travel-commerce branches added by the 2026-08-13 roundup.
 - [[Garmin]], [[ProfessionalWearableMoat]], [[SpecializedHardwareVerticalIntegration]], [[NavigationDeviceCommoditization]], [[Dipsig]], [[TencentWorkBody]], and [[LosAngelesLakers]] - Garmin explainer and business-news branches added by the 2026-08-14 coffee-bean episode.
+- [[FoodRepublic]], [[FoodCourtSecondLandlord]], [[MallFoodCourtDecline]], [[SkylandFoodCourt]], and [[NonAlcoholicBeerGrowth]] - food-court and short-news branches from the latest coffee-bean episode.
 - [[MorningAudioRitual]], [[ShortFormBusinessTechAudio]], and [[PodcastReleaseCadence]] - format and habit concepts.
 - [[Coffee|Coffee / 咖啡]] and [[CaffeinatedModernity]] - metaphor and wakefulness branch.

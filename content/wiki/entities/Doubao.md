@@ -2,8 +2,8 @@
 title: "Doubao"
 type: entity
 tags: [ai, product, assistant, china]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-16
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
+last_updated: 2026-08-24
 ---
 
 # Doubao
@@ -36,6 +36,8 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 
 [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds the hotel-order version of that commerce test. The source says some hotel merchants reported a 12% comprehensive fee for orders entering through Doubao and closing on [[Douyin]], while Doubao responded that life services had no paid promotion and only charged after completed orders.
 
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] adds an in-car assistant surface. The source says [[Tesla]] China's car system connected to Doubao through [[Volcengine]], with Doubao appearing as an independent app for continuous conversation and information search, while the current version cannot directly control the vehicle.
+
 ## Key Points
 - The hosts present Doubao's rumored paid membership as a natural consequence of [[AIInferenceCostStructure]] and rapid user growth.
 - They argue that [[Doubao]] cannot rely only on "costs are high" messaging; it needs [[ProductLedWillingnessToPay]] through clearly differentiated features.
@@ -57,6 +59,7 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - The same source presents Feishu and Doubao enterprise edition as a possible route from consumer-assistant scale into [[AIOfficeAgent|AI office]] and enterprise-data workflows.
 - The 声动早咖啡 source adds that AI shopping can be a plausible bridge from assistant use to commerce, but brand adoption and deliberate purchase behavior remain unresolved.
 - The later 声动早咖啡 source adds that hotel booking makes the trust and monetization problem sharper because fee attribution, ranking neutrality, and booking accuracy matter to both merchants and users.
+- In-car integration extends Doubao into cockpit information search and conversation, but the source marks vehicle-control authority as out of scope for the current version.
 
 ## Connections
 - [[ByteDance]] — company behind Doubao.
@@ -77,3 +80,4 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - [[Feishu]], [[DoubaoEnterpriseEdition]], [[AIOfficeAgent]], [[YalanLuanfanshu]], [[EricFeishu]], [[AICommercializationPressure]], and [[AIInferenceCostStructure]] - AI-office and monetization branch added by Luanfanshu episode 270.
 - [[Douyin]], [[ByteDance]], [[AIAssistantServiceEntry]], and [[AgenticCommerce]] - AI-shopping and commerce workflow branch added by 声动早咖啡.
 - [[AITravelCommerceTrust]], [[OTAPlatformConcentration]], [[HotelPlatformPricingPower]], and [[PlatformIntermediationTax]] - hotel-order fee and trust branch added by the later 声动早咖啡 source.
+- [[Tesla]] and [[Volcengine]] - in-car integration branch.

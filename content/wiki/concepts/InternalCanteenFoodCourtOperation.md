@@ -2,13 +2,15 @@
 title: "Internal Canteen Food-Court Operation / 内部食堂美食广场化"
 type: concept
 tags: [restaurants, foodservice, institutions, operations]
-sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]
-last_updated: 2026-08-13
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]
+last_updated: 2026-08-24
 ---
 
 # Internal Canteen Food-Court Operation / 内部食堂美食广场化
 
 Internal canteen food-court operation is the source's possible next direction for [[FoodRepublic|大食代]] after the old mall model weakened. In [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]], company spokespeople are described as exploring cooperation with enterprises and education institutions to operate internal canteens.
+
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] repeats that Food Republic is exploring enterprise-headquarters and education-institution canteens while China remains a long-term focus. The source keeps this as exploration, which matters because institutional canteens demand stable service contracts and compliance rather than the mall traffic and novelty cycle.
 
 The concept matters because it reuses some of the same capabilities as [[FoodCourtSecondLandlord|food-court second-landlord]] operation: centralized stall management, vendor coordination, food-safety routines, shared seating, and predictable meal demand. But the customer changes from mall landlords and shoppers to institutions with their own procurement, subsidy, compliance, and worker or student service requirements.
 

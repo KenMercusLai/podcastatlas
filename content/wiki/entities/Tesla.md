@@ -2,8 +2,8 @@
 title: "Tesla"
 type: entity
 tags: [company, ev, batteries, investing, technology, autonomous-driving]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-08-18
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-08-24
 ---
 
 # Tesla
@@ -28,6 +28,8 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 
 [[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds Tesla through [[CaoXudong]]'s discussion of FSD entering China. Cao says he welcomes FSD's China entry because it would push the industry toward safety, quality, and experience competition, but he does not count Tesla as a third-party supplier because a carmaker selling its own vehicles faces different channel constraints from [[Momenta]] or [[Huawei]].
 
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] adds a China cockpit-AI branch. The source says Tesla China's in-car system formally connected to [[Doubao]] through [[Volcengine]], marking Tesla's first third-party large-model introduction in China; the feature is framed as conversation and information search rather than direct vehicle control.
+
 [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] adds Tesla as part of the 2025 robotaxi deployment wave, saying the company launched a limited CyberCab service in Austin. The episode uses Tesla as one of several expanding robotaxi actors rather than as proof that the category has solved [[RobotaxiEconomics]] or [[PathToProfitability]].
 
 [[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds Tesla through the used-EV affordability branch. [[HenryEpp]] says used Teslas can be found around $21,000 to $23,000 in many places, making Tesla a concrete example of how older EV inventory can lower entry prices after the [[EVTaxCreditCliff]].
@@ -42,6 +44,7 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - The Momenta interview treats Tesla FSD as an external benchmark that can raise the advanced-driving bar without changing Cao's view that third-party suppliers will still consolidate.
 - The December 2025 Marketplace Tech source treats Tesla's limited CyberCab service as evidence that robotaxis broadened beyond [[Waymo]], while still leaving profitability and regulation unsettled.
 - The December 31, 2025 Marketplace Tech source treats used Teslas as a lower-price entry point for EV buyers, not as a claim about Tesla's new-car demand or profitability.
+- The Doubao integration shows Tesla China experimenting with third-party AI assistant surfaces while keeping vehicle-control authority separate in the source account.
 
 ## Connections
 - [[DonaldTrump]] — political-trade context behind the episode's Tesla example.
@@ -54,6 +57,7 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - [[RealRobotDataStrategy]], [[Sim2Real]], and [[OpenWorldRobotManipulation]] — fleet-data and manipulation contrast added by E244.
 - [[Panasonic]], [[PowerBatteryIndustryChain]], and [[DryElectrodeManufacturing]] — battery-format and manufacturing-route context added by E229.
 - [[Momenta]], [[Huawei]], and [[AutonomousDrivingDataFlywheel]] — advanced-driving supplier and benchmark context added by LateTalk.
+- [[Doubao]] and [[Volcengine]] - China cockpit-AI branch.
 - [[KirstenKorosek]], [[TechCrunch]], [[Waymo]], [[Zoox]], [[RobotaxiEconomics]], and [[AutonomousVehicleRegulatoryPatchwork]] - 2025 robotaxi deployment context added by Marketplace Tech.
 - [[UsedEVAffordability]], [[EVTaxCreditCliff]], and [[HenryEpp]] - used-EV market context added by the December 31 Marketplace Tech episode.
 - [[ZannyMintonBeddoes]], [[AIAbundanceNarrative]], [[PhysicalAI]], [[AIWorkOptionality]], [[UniversalHighIncome]], and [[TechnoOptimismPresentThreatGap]] - Gigafactory interview context added by The Intelligence.

@@ -2,8 +2,8 @@
 title: "Cancer Vaccine Platform"
 type: concept
 tags: [biotech, oncology, vaccines]
-sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
-last_updated: 2026-08-06
+sources: [kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
+last_updated: 2026-08-24
 ---
 
 # Cancer Vaccine Platform
@@ -18,16 +18,20 @@ The source is a founder interview rather than independent clinical validation. I
 
 [[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds the difficulty side. [[XiaoPTeacher|小P老师]] says pathogen vaccines target comparatively stable antigens, while tumor mutations are highly individualized. That makes both universal and personalized cancer vaccines biologically plausible but clinically hard, with current progress still limited and uneven in the source's account.
 
+[[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]] adds a large-pharma personalized mRNA example through [[Moderna]] and [[Merck]]. In the source's account, tumor mutations are analyzed after surgery, an individualized mRNA vaccine is made, and the immune system is trained to recognize matching cancer cells. The source also flags the hard parts: production complexity, cost, lack of disclosed detailed trial data in the episode, and the need to show similar efficacy across more cancer types.
+
 ## Key Claims
 - Cancer vaccines are framed as immune-recognition tools, not only as post-diagnosis drugs.
 - A vaccine target can be strategically attractive if it appears across several major cancer types.
 - The treatment-to-prevention path requires clinical proof in an initial setting before the broader preventive claim can matter.
 - Expected vaccine-like tolerability is a source claim, not established wiki-wide clinical evidence.
 - Episode 156 adds that cancer-vaccine development is constrained by tumor heterogeneity and individualized antigens.
+- Personalized mRNA cancer vaccines connect platform biology to individualized manufacturing, making cost and execution part of the clinical thesis.
 
 ## Connections
 - [[AdventrisPharmaceuticals]], [[JenHerbach]], and [[KRASOncologyTarget]] - source case and first target.
 - [[CARTCellTherapy]], [[CancerImmuneRecognitionProblem]], and [[SolidTumorCARTConstraints]] - adjacent CAR-T branch added by E235.
+- [[Moderna]] and [[Merck]] - personalized mRNA case added by the coffee-bean episode.
 - [[BiotechFounderControl]] - governance layer needed to protect scientific strategy.
 - [[LifeSciencesWorkflowSoftware]] and [[AIForScience]] - adjacent life-sciences technology branches already present in the wiki.
 - [[ClinicalDevelopmentCapability]] and [[BiotechBDDataValidationPhase]] - evidence and validation context added by episode 156.

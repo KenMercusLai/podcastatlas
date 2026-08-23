@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 6897
+wiki_total_pages: 6901
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "KLH"
     title: "KLH"
     url: "/wiki/entities/klh/"
+  - key: "KlingAI"
+    title: "Kling AI / 可灵 AI"
+    url: "/wiki/entities/klingai/"
   - key: "KnossosPalace"
     title: "Knossos Palace"
     url: "/wiki/entities/knossospalace/"

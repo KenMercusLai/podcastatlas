@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
       "961bd97a19ba6b2a7c2f61a5beccedaee0edeaf6e12833491c84ad634a6332bd",
       "94c1cfccaafcf24b83e4513c839b70794cde0174a4936e2cfdd2dc8a872b263c",
       "cfe5db0a7de5a9ad07b27b1ecc2b5a020aad0df779aba39119d08d81ce061727",
@@ -151,11 +152,53 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 149
+    "paragraph_count": 150
   },
-  "overview_commit": "83976dbe08d5b7a83b24fe88961e0627d583d4fe",
-  "overview_digest": "e3e1104dffc87827f13eb4a0b982b5beeb0b6f223d62e0ba47912ef79fd2b803",
+  "overview_commit": "c6669769a964bae896abca8b43e8c066c5e16b2d",
+  "overview_digest": "7acd721893c8632fb1e95c7685fd73a4f78c038ded19f6dfe70be70d9b034c6e",
   "paragraphs": [
+    {
+      "id": "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222]], a [[ShengdongZaokafei|声动早咖啡]] coffee-bean business explainer about the consumer retail and restaurant market behind traditional mall food-court closures such as [[FoodRepublic|大食代 / Food Republic]] in China. It adds [[Moderna]], [[KlingAI|Kling AI]], [[Volcengine]], [[SkylandFoodCourt|食通天 Skyland]], and [[NonAlcoholicBeerGrowth]], while extending [[Merck]], [[CancerVaccinePlatform]], [[Kuaishou]], [[VideoModels]], [[Tesla]], [[Doubao]], [[Carlsberg]], [[FoodCourtSecondLandlord]], [[ShoppingCenterRestaurantization]], [[MallFoodCourtDecline]], [[ChainRestaurantStandardization]], [[OffPremiseRestaurantCommerce]], [[SceneLedFoodMarket]], [[CityMart]], [[MeituanHuanxiongShitang]], [[PlatformCanteen]], [[InternalCanteenFoodCourtOperation]], and [[ShengdongZaokafei]]. Its core synthesis is that food-court demand persists but the old second-landlord business model is squeezed by chain-restaurant brands, direct mall leasing, delivery-platform take rates, platform canteens, supermarket prepared meals, and more designed food-market operators; the short news segment also reinforces how AI, oncology, cockpit assistants, and beverage portfolios convert growth into cost, trust, or channel questions. No direct contradiction is recorded; the episode mainly reinforces the earlier [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] 大食代 analysis with delivery-margin and successor-operator detail.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 4,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CancerVaccinePlatform",
+        "Carlsberg",
+        "ChainRestaurantStandardization",
+        "CityMart",
+        "Doubao",
+        "FoodCourtSecondLandlord",
+        "FoodRepublic",
+        "InternalCanteenFoodCourtOperation",
+        "KlingAI",
+        "Kuaishou",
+        "MallFoodCourtDecline",
+        "MeituanHuanxiongShitang",
+        "Merck",
+        "Moderna",
+        "NonAlcoholicBeerGrowth",
+        "OffPremiseRestaurantCommerce",
+        "PlatformCanteen",
+        "SceneLedFoodMarket",
+        "ShengdongZaokafei",
+        "ShoppingCenterRestaurantization",
+        "SkylandFoodCourt",
+        "Tesla",
+        "VideoModels",
+        "Volcengine",
+        "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222",
+        "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835"
+      ]
+    },
     {
       "id": "961bd97a19ba6b2a7c2f61a5beccedaee0edeaf6e12833491c84ad634a6332bd",
       "primary_topic": "ai-and-technology",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5222
+wiki_total_pages: 5223
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "NominalAuthorityMobilizationTrap"
     title: "Nominal Authority Mobilization Trap / 虚名权威动员陷阱"
     url: "/wiki/concepts/nominalauthoritymobilizationtrap/"
+  - key: "NonAlcoholicBeerGrowth"
+    title: "Non-Alcoholic Beer Growth / 无醇啤酒增长"
+    url: "/wiki/concepts/nonalcoholicbeergrowth/"
   - key: "NonBankHealthcareLending"
     title: "Non-Bank Healthcare Lending"
     url: "/wiki/concepts/nonbankhealthcarelending/"
