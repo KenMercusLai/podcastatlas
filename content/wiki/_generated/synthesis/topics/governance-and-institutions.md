@@ -4,61 +4,61 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: ebe6c21ea820d282b0d5126cd761486f22c2f545
-input_digest: ed679186c48d1fb6b3f6c17bdd2532da4c2e98b87c20134ce0531a60db0ec939
+as_of_overview_commit: 318f160a564ff5ad84415c2bb007f30a90c53ee1
+input_digest: b559de7289feb29ff548e0e866747befc182ef0ce70cb347ed079d5ae56045c4
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance is presented as enforceable control over incentives, information, rights, legitimacy, and institutional trust. The topic spans ancient state formation, imperial symbolism, honor violence, private and AI governance, compliance markets, prediction markets, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, or new legitimacy problems.
+Governance is presented as enforceable control over incentives, information, rights, legitimacy, infrastructure, and institutional trust. The topic spans ancient state formation, early Han frontier and ritual order, imperial symbolism, honor violence, literary political conditions, platform and AI liability, private infrastructure, compliance markets, prediction markets, maritime and aviation capacity, electoral legitimacy, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, or new legitimacy problems.
 
 ## Cross-source Findings
 
 ### State Capacity Does Not Guarantee Political Security
 
-[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], and [[LiuBang]] show that durable order also depends on social support, exit design, and post-victory placement of residual power.
+[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], and [[LiAsPoliticalOrder]] show that durable order also depends on social support, exit design, frontier security, and ritualized hierarchy.
 
-**Evidence:** [[QinAdministrativeStandardization]], [[MeritBasedRewardPunishment]], [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]]
+**Evidence:** [[QinAdministrativeStandardization]], [[MeritBasedRewardPunishment]], [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], [[LiAsPoliticalOrder]]
 
 **Qualifications:**
 
-- The early Han reward-settlement material extends the pattern beyond the earlier Warring States and Qin reform sequence rather than replacing it.
+- The early Han material extends the pattern beyond the earlier Warring States and Qin reform sequence rather than replacing it.
 
 ### Private And Ai Power Require Governance
 
-[[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[AIWorkforceMonitoring]], and [[LongTermBenefitTrust]] show that governance questions arise inside firms and technical organizations as well as through public law.
+[[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[DataCenterBacklash]], [[SatelliteConnectivityCompetition]], [[TechnologyRightPowerNetwork]], and [[LongTermBenefitTrust]] show that governance questions arise inside firms, technical organizations, infrastructure networks, and political talent systems as well as through public law.
 
-**Evidence:** [[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[AIWorkforceMonitoring]], [[LongTermBenefitTrust]], [[FinancialGravity]]
+**Evidence:** [[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[DataCenterBacklash]], [[SatelliteConnectivityCompetition]], [[TechnologyRightPowerNetwork]], [[LongTermBenefitTrust]]
 
 **Qualifications:**
 
-- The sources offer competing ownership, oversight, and measurement mechanisms rather than one settled model.
+- The sources offer competing ownership, oversight, liability, distribution, and measurement mechanisms rather than one settled model.
 
 ### Safety Rules Carry Rights Tradeoffs
 
-Rules intended to reduce platform and AI harm must be evaluated alongside [[YouthOnlineSpeechRights]], [[ComprehensiveConsumerDataPrivacy]], [[StateAILiabilityShield]], and [[CatastrophicAILiability]].
+Rules intended to reduce platform and AI harm must be evaluated alongside [[YouthOnlineSpeechRights]], [[ComprehensiveConsumerDataPrivacy]], [[StateAILiabilityShield]], [[CatastrophicAILiability]], and [[SocialMediaAgeGateSpeechBurden]].
 
-**Evidence:** [[YouthOnlineSpeechRights]], [[ComprehensiveConsumerDataPrivacy]], [[StateAILiabilityShield]], [[CatastrophicAILiability]]
+**Evidence:** [[YouthOnlineSpeechRights]], [[ComprehensiveConsumerDataPrivacy]], [[StateAILiabilityShield]], [[CatastrophicAILiability]], [[SocialMediaAgeGateSpeechBurden]]
 
 **Qualifications:**
 
-- The balance between access restrictions, privacy reform, product liability, and developer liability remains contested.
+- The balance between access restrictions, privacy reform, product liability, developer liability, and platform editorial defenses remains contested.
 
 ### Procedure Converts Conflict Into Legible Order
 
-[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], and [[ConquestSelfDefenseNarrative]] show institutions turning honor, violence, conquest, and legitimacy into rule-bound or symbolically legible forms.
+[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], and [[StrategicUnpredictability]] show institutions turning honor, violence, conquest, legitimacy, and competitive prediction into rule-bound or symbolically legible forms.
 
-**Evidence:** [[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]]
+**Evidence:** [[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], [[StrategicUnpredictability]]
 
 **Qualifications:**
 
-- Proceduralization can constrain conflict without making the underlying practice just or nonviolent.
+- Proceduralization can constrain conflict without making the underlying practice just, nonviolent, or strategically stable.
 
 ### Cultural Works Expose Informal Governance
 
-[[ShifgrethorPoliticalFace]], [[PatriotismAsHatred]], [[PublicMoralPerformance]], and [[PoliticalConditionAsHumanExperiment]] show fiction and literary criticism treating reputation, loyalty, media performance, and exile as informal political institutions.
+[[ShifgrethorPoliticalFace]], [[PatriotismAsHatred]], [[PublicMoralPerformance]], and [[PoliticalConditionAsHumanExperiment]] show fiction and literary criticism treating reputation, loyalty, media performance, exile, and social categories as informal political institutions.
 
 **Evidence:** [[ShifgrethorPoliticalFace]], [[PatriotismAsHatred]], [[PublicMoralPerformance]], [[PoliticalConditionAsHumanExperiment]]
 
@@ -68,19 +68,29 @@ Rules intended to reduce platform and AI harm must be evaluated alongside [[Yout
 
 ### Markets Need Rules That Make Risk Legible
 
-[[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[AntiMoneyLaundering]], [[AcademicPredictionMarketSandbox]], and [[FinancialPowerAndStateCapacity]] show markets depending on standards, auditability, eligibility rules, and compliance boundaries.
+[[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[AntiMoneyLaundering]], [[AcademicPredictionMarketSandbox]], [[FinancialPowerAndStateCapacity]], [[ChinesePrivateAirlineOpening]], and [[DiasporaCapitalManufacturingClusters]] show markets depending on standards, auditability, eligibility rules, compliance boundaries, local permission, and trusted infrastructure.
 
-**Evidence:** [[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[AntiMoneyLaundering]], [[AcademicPredictionMarketSandbox]], [[FinancialPowerAndStateCapacity]]
+**Evidence:** [[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[AntiMoneyLaundering]], [[AcademicPredictionMarketSandbox]], [[FinancialPowerAndStateCapacity]], [[ChinesePrivateAirlineOpening]], [[DiasporaCapitalManufacturingClusters]]
 
 **Qualifications:**
 
-- Legibility can reduce risk or create useful demand signals, but it can also shift costs and compliance burdens.
+- Legibility can reduce risk or create useful demand signals, but it can also shift costs, compliance burdens, and political exposure.
+
+### Legitimacy Is Tested By Unresolved Symbols
+
+[[IsraeliElection2026]], [[PalestinianQuestionInIsraeliPolitics]], [[SportsPoliticalInterference]], and [[IcebergClimateSymbolism]] show public legitimacy fraying when formal events, symbolic objects, or natural phenomena carry unresolved political meaning.
+
+**Evidence:** [[IsraeliElection2026]], [[PalestinianQuestionInIsraeliPolitics]], [[SportsPoliticalInterference]], [[IcebergClimateSymbolism]]
+
+**Qualifications:**
+
+- The examples range from electoral politics to sport and climate symbolism, so the claim is about recurring legitimacy pressure rather than one institutional domain.
 
 ### Trust And Mission Require Operating Constraints
 
-[[SaaSTrustMoat]], [[TrustAsBusinessAsset]], [[GreenHushing]], and [[SustainableGrowthPace]] show that trust and mission can become durable assets only when organizations protect them through ownership, pacing, evidence, and operating discipline.
+[[SaaSTrustMoat]], [[TrustAsBusinessAsset]], [[GreenHushing]], [[SustainableGrowthPace]], [[FinancialGravity]], and [[PostAcquisitionFounderIdentity]] show that trust and mission can become durable assets only when organizations protect them through ownership, pacing, evidence, and operating discipline.
 
-**Evidence:** [[SaaSTrustMoat]], [[TrustAsBusinessAsset]], [[GreenHushing]], [[SustainableGrowthPace]]
+**Evidence:** [[SaaSTrustMoat]], [[TrustAsBusinessAsset]], [[GreenHushing]], [[SustainableGrowthPace]], [[FinancialGravity]], [[PostAcquisitionFounderIdentity]]
 
 **Qualifications:**
 

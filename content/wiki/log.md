@@ -10119,6 +10119,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课
+
+Added source page for Hanji 175: Modu Chanyu's rise through Touman's Yuezhi hostage trap, whistling-arrow command training, patricide, Donghu concessions and attack, Xiongnu expansion, Han Wang Xin's Mayi siege and surrender, and Shusun Tong's practical court ritual training for Liu Bang. Created Touman Chanyu, Yuezhi, and Absolute Command Obedience; updated overview, index, Liu Bang, Western Han dynasty, Ruiqi Jiangtou Zizhi Tongjian, Xiongnu, Modu Chanyu, Donghu, Han Wang Xin, Mayi, Shusun Tong, Frontier Vassal Containment, Battlefield Victory To Founding Order, Li As Political Order, and Lure Enemy Out of Position. No settled contradiction found; Han Wang Xin's relocation remains a dual defense/containment policy whose failure mode is now visible.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）
 
 Added source page for Hanji 170 part 2: Ding Gong's execution as a negative loyalty example after having spared Liu Bang at Pengcheng, Lou Jing's argument that Han cannot imitate Zhou's Luoyang logic, Zhang Liang's confirmation of Guanzhong's defensive, resource, and transport advantages, Liu Bang's same-day move west to Chang'an, and the preview of Zhang Liang's self-protection problem. Created Ding Gong, Lou Jing, and Chang'an (Han capital); updated overview, index, Liu Bang, Western Han dynasty, Zhang Liang, Ji Bu, Luoyang/Luoyi, Guanzhong Region, Strategic Capital Relocation, Former Enemy Loyalty Reframing, Battlefield Victory To Founding Order, and Ruiqi Jiangtou Zizhi Tongjian. No settled contradiction found; Ding Gong's possible private-benefit motive is kept as the host's source-scoped inference.
@@ -10369,6 +10373,10 @@ Ran lint after health and identity validation passed. Health scanned 13,138 wiki
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）
 
 Added source page for Hanji 174 part 2: Zhang Liang's diagnosis of reward anxiety, Liu Bang's enfeoffment of Yong Chi as a hated-recipient reassurance signal, the first-class merit ranking with Xiao He over Cao Shen and Zhang Ao, E Qianqiu's "一时之功 / 万世之功" defense of Xiao He's rear supply contribution, Xiao He's special court privileges, Liu Taigong's elevation to Taishanghuang, and the Xiongnu teaser. Created E Qianqiu and Hostile Recipient Reward Signal; updated overview, index, Liu Bang, Zhang Liang, Xiao He, Cao Shen, Yong Chi, Zhang Ao, Liu Taigong, Liyang, Ruiqi Jiangtou Zizhi Tongjian, Founding Merit Hierarchy, Reward Allocation Backlash, Merit-Based Reward and Punishment, Battlefield Victory To Founding Order, and Specialist Delegation Leadership. No settled contradiction found; transcript "庸耻" was normalized to Yong Chi.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

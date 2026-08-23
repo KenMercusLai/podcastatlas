@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课](sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf.md) — 芮淇讲透资治通鉴 episode on Modu's Xiongnu consolidation, Han Wang Xin's Mayi surrender, and Shusun Tong's practical court ritual training for Liu Bang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt.md) — 芮淇讲透资治通鉴 episode on Zhang Liang calming reward anxiety by having Liu Bang enfeoff Yong Chi, E Qianqiu defending Xiao He over Cao Shen, and Liu Taigong becoming Taishanghuang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Han-Xin reward settlement, Xiao He's "功人" merit hierarchy, Liu-family kingships, and Han Wang Xin's frontier relocation.
 - [《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）](sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx.md) — 芮淇讲透资治通鉴 episode on Han Xin's post-demotion isolation in Chang'an, Fan Kuai's deferential reception, the "耻与哙伍" insult, and the possibility that public distance from Fan Kuai was political self-protection.
@@ -1298,6 +1299,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [头曼单于 / Touman Chanyu](entities/ToumanChanyu.md) — Xiongnu ruler whose hostage trap against Modu triggers Modu's escape, command training, and patricidal seizure of power.
+- [月氏 / Yuezhi](entities/Yuezhi.md) — Western neighbor used in Touman's hostage trap and later attacked by Modu after Donghu's defeat.
 - [鄂千秋 / E Qianqiu](entities/EQianqiu.md) — Early Han merit-ranking interpreter who defends Xiao He's first-place reward over Cao Shen and is made Anping marquis.
 - [刘交 / Liu Jiao](entities/LiuJiao.md) — Liu Bang's younger brother made king of the early Han Chu kingdom after Han Xin's former Chu territory is split.
 - [刘喜 / Liu Xi (Dai king)](entities/LiuXiDaiKing.md) — Liu-family king of early Han Dai, used by Hanji 174 to show same-surname royal placement on the northern settlement map.
@@ -1306,7 +1309,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [楚国 / Chu Kingdom (early Han)](entities/ChuKingdomEarlyHan.md) — Same-surname kingdom granted to Liu Jiao from Xue, Donghai, Pengcheng, and related counties after Han Xin's demotion.
 - [代国 / Dai Kingdom (early Han)](entities/DaiKingdomEarlyHan.md) — Northern early Han kingdom granted to Liu Xi in Hanji 174, distinct from the earlier Dai polity.
 - [齐国 / Qi Kingdom (early Han)](entities/QiKingdomEarlyHan.md) — Early Han Liu-family kingdom granted to Liu Fei across the old Qi region.
-- [马邑 / Mayi](entities/Mayi.md) — Frontier capital requested by Han Wang Xin because Jinyang was too far from the Xiongnu-facing edge.
+- [马邑 / Mayi](entities/Mayi.md) — Han Wang Xin's Xiongnu-facing frontier capital, first requested for defense and then surrendered under siege in Hanji 175.
 - [陈县 / Chen County (Chu-Han)](entities/ChenCountyChuHan.md) — Chen Ping's chosen meeting site for Liu Bang's fake Yunmeng tour trap against Han Xin, disambiguated from Changsha's 郴县.
 - [利几 / Li Ji (Chu-Han)](entities/LiJiChuHan.md) — Former Xiang-side figure whose fear-driven rebellion in Hanji 171 part 2 shows early Han suspicion spreading beyond major vassal kings.
 - [长乐宫 / Changle Palace](entities/ChanglePalace.md) — Early Western Han palace renovated from Qin Xinglegong and later associated with the empress dowager residence.
@@ -1320,7 +1323,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐悲鸿 / Xu Beihong](entities/XuBeihong.md) — Painter used by Hanji 170 part 1 to show Tian Heng's afterlife as patriotic moral memory.
 - [南越 / Nanyue](entities/Nanyue.md) — Frontier outside option named in Zhu Jia's argument that persecuted former enemy talent could strengthen external powers.
 - [Zhang Ao](entities/ZhangAo.md) — Zhao king named in the accession petition urging Liu Bang to accept the imperial title.
-- [Shusun Tong](entities/ShusunTong.md) — Scholar-official who prepares Liu Bang's simplified imperial accession ritual from Qin precedent.
+- [Shusun Tong](entities/ShusunTong.md) — Scholar-official who prepares Liu Bang's accession ritual and later trains officials in practical court hierarchy.
 - [Lu County (Chu-Han)](entities/LuCountyChuHan.md) — Chu-loyal county whose surrender and Xiang Yu burial frame Liu Bang's postwar pacification.
 - [Xiang Xiang](entities/XiangXiang.md) — Xiang-family relative absorbed into Liu Bang's postwar order with marquisate and Liu surname.
 - [东城 / Dongcheng (Chu-Han)](entities/DongchengChuHan.md) — Xiang Yu's final tactical self-proof setting after Gaixia, where twenty-eight riders still break Han pursuit.
@@ -1397,7 +1400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, later persuaded by Li Shiqi at Linzi before Han Xin's unsynchronized attack reopens the Qi front.
 - [魏无知 / Wei Wuzhi](entities/WeiWuzhi.md) — Wei-origin intermediary who introduces Chen Ping to Liu Bang at Xiuwu and later defends the recommendation by separating useful talent from moral-smear pressure.
 - [修武 / Xiuwu](entities/Xiuwu.md) — Liu Bang's Henei-area camp where Chen Ping arrives and is introduced through Wei Wuzhi.
-- [冒顿单于 / Modu Chanyu](entities/MaoDunChanyu.md) — Xiongnu ruler whose Baideng encirclement of Liu Bang becomes a Chen Ping covert-leverage case in Hanji 150 part 4.
+- [冒顿单于 / Modu Chanyu](entities/MaoDunChanyu.md) — Xiongnu ruler whose rise through violent command training and Donghu conquest sets up the early Han frontier crisis and later Baideng encirclement.
 - [白登之围 / Baideng Encirclement](entities/BaidengEncirclement.md) — Early Han frontier crisis where Chen Ping's reported stratagem works through Modu Chanyu's household-status pressure rather than open force.
 - [张负 / Zhang Fu](entities/ZhangFu.md) — Huyou local wealthy elder who notices Chen Ping's bearing and visitor traffic, then backs him through marriage funding and family alliance.
 - [陈平兄 / Elder Brother of Chen Ping](entities/ChenPingBrother.md) — Unnamed brother who supports Chen Ping's early non-farming formation and whose expulsion of his wife becomes evidence in the Hanji 154 "盗嫂" analysis.
@@ -1408,7 +1411,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《晋书》 / Jinshu](entities/JinShu.md) — Historical text cited as the source's earliest textual anchor for the term "元旦."
 - [陆游 / Lu You](entities/LuYou.md) — Southern Song poet cited for New Year imagery around peach charms and pepper wine.
 - [尧舜禹传说 / Yao-Shun-Yu Legend](entities/YaoShunYuLegend.md) — Mythic-ruler origin frame used to connect sacrifice, succession, and the year's beginning.
-- [韩王信 / Han Wang Xin](entities/HanWangXin.md) — Old Han royal descendant, distinct from the general Han Xin, whom Liu Bang installs as Han king after Zheng Chang surrenders.
+- [韩王信 / Han Wang Xin](entities/HanWangXin.md) — Old Han royal descendant whose early loyalty, frontier relocation, Mayi siege, and surrender are distinct from the general Han Xin.
 - [郑昌 / Zheng Chang (Han King)](entities/ZhengChangHanKing.md) — Xiang Yu loyalist made Han king after Han Cheng's death, then displaced when he surrenders to Liu Bang.
 - [栎阳 / Liyang (Qin-Han)](entities/LiyangQinHan.md) — Qin-Han capital site Liu Bang uses as a rear-base capital after recovering Guanzhong.
 - [河南郡 / Henan Commandery (Chu-Han)](entities/HenanCommanderyChuHan.md) — Commandery Liu Bang creates from Shen Yang's surrendered Henan kingdom.
@@ -1691,7 +1694,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Los Angeles Metro](entities/LosAngelesMetro.md) — Transit agency used in Pratt's argument that safety and fare enforcement must precede ridership and expansion ambitions.
 - [Peter Chernin](entities/PeterChernin.md) — Media-industry figure Pratt cites to narrow what a Los Angeles mayor can do for independent production.
 - [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose frontier patience, anti-Qin resistance, and later family afterlife extend through Li Zuoche's Jingxing advice.
-- [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic opponent in Li Mu's frontier command story, framed through mobile horse-archery raiding and later Han comparison.
+- [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic frontier power whose arc runs from Li Mu's raiding problem through Modu's consolidation to early Western Han crisis.
 - [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general whose arc now runs from Zhao campaigns and Yan retaliation to property-request self-protection and fortified attrition against Chu.
 - [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose exposed canal mission both enlarges Qin's grain base and triggers the guest-expulsion crisis.
 - [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
@@ -4830,13 +4833,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Mang / 王莽](entities/WangMang.md) — Xin founder read by episode 126 as a product of Western Han sacred legitimacy, moral reputation, omen politics, and reform overcontrol.
 - [《祥瑞》](entities/XiangruiBook.md) — Zhang Xiangrong book used by episode 126 to reread Wang Mang through Heaven, omens, Confucian ideals, and late Western Han politics.
 - [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
-- [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose sacred founding legitimacy becomes vulnerable to Wang Mang's Mandate of Heaven claim.
+- [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose founding branch now includes Qin pacification, early Han consolidation, Xiongnu frontier pressure, and later Mandate vulnerability.
 - [Xin dynasty / 新朝](entities/XinDynasty.md) — Wang Mang's short-lived regime, framed by episode 126 through omen-backed seizure, reform stress, frontier instability, and revolt.
 - [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose status helped Wang Mang return to power while her later resistance marked the legitimacy break.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
-- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now includes both recognition that binds Han Xin and the post-victory ruler-fear risk Kuai Che warns Han Xin about.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
@@ -8013,16 +8016,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [绝对服从式指挥训练 / Absolute Command Obedience](concepts/AbsoluteCommandObedience.md) — Hanji 175 pattern where Modu's whistling-arrow drills turn lethal signal-following into command reliability.
 - [仇敌受封安众 / Hostile Recipient Reward Signal](concepts/HostileRecipientRewardSignal.md) — Hanji 174 part 2 reward-credibility pattern where enfeoffing a hated claimant reassures the wider merit-holder group.
 - [建国功臣排序 / Founding Merit Hierarchy](concepts/FoundingMeritHierarchy.md) — Hanji 174 frame for ranking unlike founding contributions, especially Xiao He's rear organization above frontline pursuit.
 - [同姓王分封 / Same-Surname King Enfeoffment](concepts/SameSurnameKingEnfeoffment.md) — Early Han strategy of assigning Liu-family kingships to stabilize major regions after different-surname king risk.
-- [边境迁封式牵制 / Frontier Vassal Containment](concepts/FrontierVassalContainment.md) — Hanji 174 pattern where a capable non-Liu king is moved to a frontier defense role that also limits his central base.
+- [边境迁封式牵制 / Frontier Vassal Containment](concepts/FrontierVassalContainment.md) — Early Han pattern where a capable non-Liu king is moved to a frontier defense role that can also fail under siege and imperial suspicion.
 - [Public Disavowal Self-Protection / 公开切割式自保](concepts/PublicDisavowalSelfProtection.md) — Survival pattern where an exposed actor publicly disparages or distances from a powerful possible ally so observers do not read the relationship as factional alliance.
 - [Ritual-Tour Summons Entrapment / 巡游会侯式诱捕](concepts/RitualTourSummonsEntrapment.md) — Chen Ping's Hanji 172 tactic of using an imperial tour and vassal gathering as the low-force arrest mechanism against Han Xin.
 - [Different-Surname King Suspicion / 异姓诸侯王猜忌](concepts/DifferentSurnameKingSuspicion.md) — Early Han pattern where wartime regional kings become peacetime threats after unification, turning mistrust into replacement, containment, and fear rebellion.
 - [Transcendent Exit Political Camouflage / 假托神仙式权力退场](concepts/TranscendentExitPoliticalCamouflage.md) — Hanji 171 pattern where Zhang Liang uses immortal and Daoist withdrawal language to make post-founding exit from power respectable and non-threatening.
 - [旧敌忠义重释 / Former Enemy Loyalty Reframing](concepts/FormerEnemyLoyaltyReframing.md) — Founding-order move where a victor reclassifies a former enemy's hostile service as loyalty that the new regime can pardon and use.
-- [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, pardon, ritual, and dynastic founding.
+- [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, frontier placement, ritual, and dynastic founding.
 - [战后复员安民 / Postwar Return and Veteran Relief](concepts/PostwarReturnAndVeteranRelief.md) — Liu Bang's early Han policy of returning displaced people, restoring property, restraining local officials, and supporting or exempting demobilized soldiers.
 - [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Liu Bang's South Palace explanation that he won by recognizing and using Zhang Liang, Xiao He, and Han Xin rather than matching their specialist abilities.
 - [敌意封国安置 / Hostile-Territory Royal Containment](concepts/HostileTerritoryRoyalContainment.md) — Han Xin's relocation from Qi to Chu as both royal reward and exposure to a politically hostile jurisdiction, with personal-security adaptation.
@@ -8358,7 +8362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Responsibility-Avoidant Killing / 避责式杀害](concepts/ResponsibilityAvoidantKilling.md) — Pattern where actors avoid a direct killing act while deliberately arranging confinement, deprivation, or other conditions that make death predictable.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [Rule-Breaking Abdication / 破坏规则式禅让](concepts/RuleBreakingAbdication.md) — Succession failure where a ruler treats the state as transferable moral capital and hands real authority to a non-dynastic minister.
-- [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Sima Guang/Confucian role-order reading in which 礼 functions as the rule system keeping ruler, minister, father, son, command, and succession legible.
+- [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Role-order reading in which 礼 keeps ruler, minister, father, son, command, succession, and court hierarchy legible.
 - [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.
 - [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.
 - [鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique](concepts/JimingGoudaoTalentCritique.md) — Wang Anshi-based critique that tactical retainer tricks can save a patron without proving statecraft-level talent or good talent selection.
@@ -8446,7 +8450,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
 - [Lu Wine Handan War Cascade / 鲁酒薄而邯郸围](concepts/LuWineHandanWarCascade.md) — Diplomatic-causal chain where a tribute insult, honor conflict, and strategic distraction widen into Wei's siege of Handan.
 - [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
-- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing a formed enemy out of its strong position through exposed targets, false weakness, or prepared pursuit bait.
+- [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy into vulnerability through exposed targets, false weakness, concessions, or prepared pursuit bait.
 - [Treason Accusation Trap / 谋反指控陷阱](concepts/TreasonAccusationTrap.md) — Court-politics pattern where a planted suspicious event turns a rival's prestige into operational treason suspicion.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices, including Qin's first left/right chancellors, as crucial state-operation evidence.

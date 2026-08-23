@@ -2,7 +2,7 @@
 title: "Lure Enemy Out of Position / 诱敌离位"
 type: concept
 tags: [warfare, strategy, tactics, pre-qin-history]
-sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The pattern matters because it shifts the question from strength comparison to p
 
 [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] adds [[LongJuChuGeneral|龙且]] at [[WeishuiBattle|潍水之战]]. A defensive camp-and-supply plan is available, but Long Ju's contempt for [[HanXin|韩信]] and hunger for visible merit make the feigned retreat irresistible, pulling him away from the safer posture and into the river trap.
 
+[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] adds a steppe-political version through [[MaoDunChanyu|冒顿单于]] and [[Donghu|东胡]]. Modu first concedes a prized horse and a wife, letting Donghu misread restraint as weakness; when Donghu crosses the red line by demanding land, Modu attacks an unprepared enemy. The enemy is not lured into a battlefield formation here; it is lured into a false political estimate of Xiongnu fear.
+
 ## Key Claims
 - A strong enemy can be made weaker by changing its location and formation before the decisive fight.
 - A small exposed force may be a deliberate lure rather than a simple sacrifice.
@@ -28,8 +30,10 @@ The pattern matters because it shifts the question from strength comparison to p
 - The Maling outcome shows contempt can be activated by a concrete false signal: an enemy may leave good operating conditions because it thinks the target is easy.
 - Qinji 105 shows the lure can be built over years: repeated refusal to fight can create enemy overconfidence before the false opening appears.
 - Hanji 164-2 adds that contempt can make a commander abandon a stronger defensive plan for pursuit.
+- Hanji 175 adds that concessions can lure an opponent into overconfidence before the decisive attack, especially when the concession hides a non-negotiable territorial red line.
 
 ## Connections
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], [[Donghu|东胡]], and [[Xiongnu|匈奴]] - concession sequence that creates false enemy confidence before attack.
 - [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[HanXin|韩信]], [[LongJuChuGeneral|龙且]], and [[RiverCrossingDeception|渡河欺敌]] - false retreat that draws Long Ju into a flood trap.
 - [[SunBin|孙膑]] and [[QiWeiwang|齐威王]] - teacher and questioner in the source.
 - [[TianJi|田忌]] and [[QiState|齐国]] - command setting for later application.

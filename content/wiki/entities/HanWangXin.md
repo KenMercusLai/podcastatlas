@@ -2,7 +2,7 @@
 title: "韩王信 / Han Wang Xin"
 type: entity
 tags: [person, han-state, chu-han, ruler]
-sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
+sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
 last_updated: 2026-08-23
 ---
 # 韩王信 / Han Wang Xin
@@ -21,7 +21,12 @@ That promise becomes useful after [[ZhengChangHanKing|郑昌]], the Han king ins
 
 [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] changes Han Wang Xin's territorial role. Liu Bang moves him away from the old Han interior and gives him the Taiyuan / Han kingdom, initially around [[Jinyang|晋阳]]; because Xiongnu attacks make Jinyang too distant from the frontier, Han Wang Xin asks to shift the capital to [[Mayi|马邑]], and Liu Bang approves. The source frames the move as frontier defense while the wiki also records its containment effect: a capable non-Liu king is placed on the edge rather than in the central-plains heartland.
 
+[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] shows that edge placement becoming a crisis. When [[Xiongnu|匈奴]] forces surround Mayi, Han Wang Xin sends envoys to negotiate while also asking Western Han for rescue. [[LiuBang|刘邦]] hears that he is repeatedly communicating with Xiongnu and sends a rebuke, which the source presents as enough to make Han Wang Xin fear punishment. He then surrenders Mayi in September, and [[MaoDunChanyu|冒顿单于]] uses the opening to push past Yanmen toward Taiyuan and Jinyang.
+
+The episode therefore turns Han Wang Xin from a frontier-containment example into a failure case. A ruler placed at the edge can defend the border only if the center can distinguish tactical negotiation under siege from betrayal; suspicion makes the external threat and internal trust problem reinforce each other.
+
 ## Connections
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[Mayi|马邑]], [[MaoDunChanyu|冒顿单于]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - siege, suspicion, surrender, and the failure mode of frontier placement.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[Jinyang|晋阳]], [[Mayi|马邑]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - relocation from old Han territory toward the northern frontier.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[ZhangAo|张敖]], [[YingBu|英布]], [[WuRui|吴芮]], and [[ZangTu|臧荼]] - accession petition to Liu Bang.
 - [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[JiXin|纪信]], [[ZhouKe|周苛]], [[WeiBao|魏豹]], and [[CongGong|枞公]] - remaining Xingyang garrison personnel after Liu Bang's escape.

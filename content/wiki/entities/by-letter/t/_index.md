@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6711
+wiki_total_pages: 6713
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "TaihangRoad"
     title: "太行道 / Taihang Road"
     url: "/wiki/entities/taihangroad/"
+  - key: "ToumanChanyu"
+    title: "头曼单于 / Touman Chanyu"
+    url: "/wiki/entities/toumanchanyu/"
   - key: "TaiqiuShe"
     title: "宋太丘社 / Taiqiu She"
     url: "/wiki/entities/taiqiushe/"

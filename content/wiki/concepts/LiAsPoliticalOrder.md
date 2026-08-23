@@ -2,8 +2,8 @@
 title: "Li As Political Order / 礼制政治秩序"
 type: concept
 tags: [confucianism, governance, legitimacy, hierarchy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
+last_updated: 2026-08-23
 ---
 
 # Li As Political Order / 礼制政治秩序
@@ -14,14 +14,20 @@ The concept is not presented as ceremonial formalism. In the Yan case, the probl
 
 The episode connects this to [[Confucius|孔子]]'s formula "君君臣臣，父父子子." The host reads that formula as reciprocal: subordinates owe obedience within a role, but superiors also owe protection and responsibility. A ruler therefore violates 礼 not only by being harsh, but also by abandoning the institutional duty to keep succession and command intelligible.
 
+[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] adds an early Western Han court version through [[ShusunTong|叔孙通]]. After [[LiuBang|刘邦]] abolishes Qin's elaborate protocols, banquet behavior by rough merit-holders shows that victory has not produced a stable palace order. Shusun Tong's answer is to design rites that mark superior and subordinate positions, while adapting precedent to Liu Bang's demand for simplicity.
+
+This case makes the concept more administrative than the Yan abdication case. 礼 is still role order, but now the problem is daily court conduct: how officials drink, speak, approach the ruler, and perform rank inside the palace after a military coalition has become a dynasty.
+
 ## Key Claims
 - 礼 is treated as a practical rule system, not merely ritual decoration.
 - Role names matter because they tell officials, heirs, armies, and subjects whose authority they are recognizing.
 - The ruler's duty includes preserving the frame within which ministers and heirs can perform their own duties.
 - A personally benevolent ruler can still destroy political order if he dissolves the rules that make authority transferable.
 - The concept gives [[RuleBreakingAbdication|破坏规则式禅让]] its deeper mechanism: abdication rhetoric becomes dangerous when it breaks role order without creating legitimate replacement order.
+- Hanji 175 adds that a new dynasty may need ritual rules to convert wartime comrades and merit-holders into officials who recognize hierarchy in routine court settings.
 
 ## Connections
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - court ritual design as practical role ordering after founding.
 - [[SimaGuang|司马光]], [[ZizhiTongjian|《资治通鉴》]], and [[Confucius|孔子]] - interpretive and classical frame.
 - [[YanWangKuai|燕王哙]], [[ZiZhi|子之]], [[ShiBei|市被]], and [[YanState|燕国]] - source case.
 - [[RuleBreakingAbdication|破坏规则式禅让]] and [[GoodIntentionsPoliticalLimits]] - adjacent patterns around moralized political failure.

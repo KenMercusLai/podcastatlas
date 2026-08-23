@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: ebe6c21ea820d282b0d5126cd761486f22c2f545
-input_digest: 1c1ebc8a883356efeddd58b1a3ac7f991f34350e6362725306854697e9d45d17
+as_of_overview_commit: 318f160a564ff5ad84415c2bb007f30a90c53ee1
+input_digest: b1757a3a25e5f302e9bd6c93dccb40b9ffbe68be524ecda05d3bf1fa6b45e354
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, reward hierarchy, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening.
+The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, reward hierarchy, frontier defense, ritual order, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening.
 
 ## Cross-source Findings
 
@@ -28,13 +28,13 @@ The historical material treats power as an institutional and infrastructural pro
 
 ### Early Han Founding Order Placed Residual Power
 
-[[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], managed former-enemy loyalty, Han Xin's removal through [[Yunmengze]], and the Hanji 174 turn toward reward ranking and territorial redesign.
+[[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], Han Xin's removal through [[Yunmengze]], reward ranking and territorial redesign, frontier exposure through [[Xiongnu]] pressure at [[Mayi]], and [[ShusunTong]]'s turn toward [[LiAsPoliticalOrder]].
 
-**Evidence:** [[LiuBang]], [[StrategicCapitalRelocation]], [[Yunmengze]], [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]]
+**Evidence:** [[LiuBang]], [[StrategicCapitalRelocation]], [[Yunmengze]], [[Xiongnu]], [[Mayi]], [[ShusunTong]], [[LiAsPoliticalOrder]], [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf]]
 
 **Qualifications:**
 
-- The current bounded input covers the postwar Ruiqi Hanji sequence through Hanji 174 and does not yet include the full later rebellion arc.
+- The current bounded input covers the postwar Ruiqi Hanji sequence through Hanji 175 and does not yet include the full later rebellion arc.
 
 ### Technology Leadership Shifts With Ecosystems
 

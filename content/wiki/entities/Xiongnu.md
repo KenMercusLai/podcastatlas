@@ -2,8 +2,8 @@
 title: "匈奴 / Xiongnu"
 type: entity
 tags: [people, frontier, nomadic, steppe, pre-qin, warring-states, military]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
+last_updated: 2026-08-23
 ---
 
 # 匈奴 / Xiongnu
@@ -24,6 +24,8 @@ The episode also places Xiongnu rise in a longer frontier sequence. Earlier nort
 
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds a settlement-pressure note. After the "祖龙死" omen and "游徙吉" divination, Qin Shi Huang moves thirty thousand households toward the northern frontier, which the episode describes as adjoining Xiongnu territory. Xiongnu therefore remains the border condition that makes omen-driven relocation also legible as [[QinFrontierBufferManagement|frontier management]].
 
+[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] fills the transition from Qin-era frontier pressure to early Han crisis. After Qin's collapse, the episode says Xiongnu return south across the Yellow River, while [[MaoDunChanyu|冒顿单于]]'s seizure of power and destruction of [[Donghu|东胡]] make the steppe threat more unified. Xiongnu pressure then reaches [[HanWangXin|韩王信]] at [[Mayi|马邑]], whose surrender opens the route toward Taiyuan and [[Jinyang|晋阳]] before the later Baideng crisis.
+
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] moves Xiongnu from the Qin and Warring States frontier background into a direct early Han crisis. In the source's account, [[MaoDunChanyu|冒顿单于]] surrounds [[LiuBang|刘邦]] at the [[BaidengEncirclement|白登之围]], and [[ChenPing|陈平]] resolves the dead end by acting through the chanyu's favored woman rather than by defeating the Xiongnu army in open battle.
 
 ## Connections
@@ -36,4 +38,5 @@ The episode also places Xiongnu rise in a longer frontier sequence. Earlier nort
 - [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], [[MengTian|蒙恬]], and [[ProphecyTriggeredPolicy|预言触发政策]] - Qin's immediate reading of "胡" as northern frontier danger.
 - [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[Shangjun|上郡]], [[WarringStatesNorthernGreatWalls|战国北境长城]], and [[PostUnificationWarInertia|统一后战争惯性]] - Qin follow-through campaign, county creation, wall integration, and frontier-war outlet.
 - [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[OmenCountermeasureMobility|游徙避命]], and [[QinFrontierBufferManagement|秦国后方边患管理]] - northern household relocation near the Xiongnu frontier.
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], [[Donghu|东胡]], [[HanWangXin|韩王信]], and [[Mayi|马邑]] - Modu's consolidation and the immediate early Han frontier crisis.
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[MaoDunChanyu|冒顿单于]], [[BaidengEncirclement|白登之围]], [[LiuBang|刘邦]], and [[ChenPing|陈平]] - early Han encirclement crisis and indirect stratagem.

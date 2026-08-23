@@ -4,15 +4,18 @@
       "global_candidate": true,
       "id": "ai-raises-the-value-of-verifiable-judgment",
       "qualifications": [
-        "The balance differs between routine work, high-stakes professional decisions, and physical or embodied AI systems."
+        "The balance differs between routine work, high-stakes professional decisions, education, physical or embodied AI systems, and contested forecasts about entry-level labor demand."
       ],
-      "statement": "[[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], and [[FrontlineAIEnablement]] show that faster generation shifts work toward requirements, review, accountability, and evidence.",
-      "status": "supported",
+      "statement": "[[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design.",
+      "status": "qualified",
       "supporting_wikilinks": [
         "HumanJudgmentUnderAI",
         "AICodingVerification",
         "AIEngineeringThinking",
-        "FrontlineAIEnablement"
+        "FrontlineAIEnablement",
+        "AIUsePacing",
+        "DeepSeek",
+        "EntryLevelAICareerLadderRisk"
       ]
     },
     {
@@ -21,14 +24,16 @@
       "qualifications": [
         "These sources are practical accounts rather than controlled labor-market studies."
       ],
-      "statement": "[[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], and [[FinanceCareerPortability]] frame careers as staged experiments requiring explicit goals, evidence, risk control, and managed communication.",
+      "statement": "[[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], [[FinanceCareerPortability]], [[CabinCrewWork]], and [[BankDueDiligence]] frame careers as staged experiments requiring explicit goals, evidence, service discipline, risk control, and managed communication.",
       "status": "supported",
       "supporting_wikilinks": [
         "InternshipAsCareerExploration",
         "UpwardManagement",
         "InternalTransferStrategy",
         "FinancialCareerRisk",
-        "FinanceCareerPortability"
+        "FinanceCareerPortability",
+        "CabinCrewWork",
+        "BankDueDiligence"
       ]
     },
     {
@@ -49,15 +54,17 @@
       "global_candidate": true,
       "id": "outcomes-depend-on-distribution-and-context",
       "qualifications": [
-        "The relevant context differs sharply across software, physical products, creator work, hardware ecosystems, and games."
+        "The relevant context differs sharply across software, physical products, creator work, hardware ecosystems, games, embodied AI, and paid AI services."
       ],
-      "statement": "[[ProductLedWillingnessToPay]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AIInteractiveEntertainment]], and [[XiaohongshuCreatorMonetization]] show that adoption and income depend on channels, production, platform rules, repeat use, and customer context rather than capability or attention alone.",
+      "statement": "[[ProductLedWillingnessToPay]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AIInteractiveEntertainment]], [[CompanionRobots]], [[OutcomeBasedAIPricing]], and [[XiaohongshuCreatorMonetization]] show that adoption and income depend on channels, production, platform rules, repeat use, buyer context, and designed interaction rather than capability or attention alone.",
       "status": "supported",
       "supporting_wikilinks": [
         "ProductLedWillingnessToPay",
         "CPGDistribution",
         "ChinaHandsetSupplyChain",
         "AIInteractiveEntertainment",
+        "CompanionRobots",
+        "OutcomeBasedAIPricing",
         "XiaohongshuCreatorMonetization"
       ]
     },
@@ -67,13 +74,15 @@
       "qualifications": [
         "The early Han material is a historical analogy inside this topic input, not a modern workplace case."
       ],
-      "statement": "[[LiuBang]], [[ZhangLiang]], [[UpwardManagement]], [[WorkplaceHiddenRules]], and [[WorkplaceRelationshipBoundaries]] show that post-achievement outcomes depend on role assignment, reputation, timing, and boundary management as much as raw competence.",
+      "statement": "[[LiuBang]], [[ShusunTong]], [[LiAsPoliticalOrder]], [[UpwardManagement]], [[WorkplaceHiddenRules]], [[CommunicationBoundarySetting]], and [[WorkplaceRelationshipBoundaries]] show that post-achievement outcomes depend on role assignment, status hierarchy, reputation, timing, language, and boundary management as much as raw competence.",
       "status": "qualified",
       "supporting_wikilinks": [
         "LiuBang",
-        "ZhangLiang",
+        "ShusunTong",
+        "LiAsPoliticalOrder",
         "UpwardManagement",
         "WorkplaceHiddenRules",
+        "CommunicationBoundarySetting",
         "WorkplaceRelationshipBoundaries"
       ]
     },
@@ -81,19 +90,37 @@
       "global_candidate": false,
       "id": "mission-work-needs-capacity-and-evidence",
       "qualifications": [
-        "Mission and evidence appear in different forms across CPG, education, banking, finance, and service work."
+        "Mission and evidence appear in different forms across CPG, education, banking, finance, service work, animal care, and climate hard tech."
       ],
-      "statement": "[[PurposeDrivenBusiness]], [[MissionDrivenCustomerEducation]], [[GreenHushing]], [[SustainableGrowthPace]], and [[BankInternalAudit]] show that values, trust, and professional claims need operating capacity, evidence, and risk controls.",
+      "statement": "[[PurposeDrivenBusiness]], [[MissionDrivenCustomerEducation]], [[GreenHushing]], [[SustainableGrowthPace]], [[BankInternalAudit]], [[CaptiveAnimalCareLabor]], and [[CarbonRemovalPermitting]] show that values, trust, and professional claims need operating capacity, evidence, care labor, and risk controls.",
       "status": "supported",
       "supporting_wikilinks": [
         "PurposeDrivenBusiness",
         "MissionDrivenCustomerEducation",
         "GreenHushing",
         "SustainableGrowthPace",
-        "BankInternalAudit"
+        "BankInternalAudit",
+        "CaptiveAnimalCareLabor",
+        "CarbonRemovalPermitting"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "work-changes-reshape-autonomy-and-consumption",
+      "qualifications": [
+        "The sources describe household and creator adaptation under changing work income rather than a universal consumption rule."
+      ],
+      "statement": "[[FinancialFreedomVsLifestyleFreedom]], [[MiddleClassConsumptionPressure]], [[LifestyleCostRationalization]], [[LifestyleSubsidyCreatorWork]], and [[XiaohongshuCreatorMonetization]] show that work pressure and modest platform income reshape autonomy through fixed costs, status signals, local opportunities, and price discipline.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "FinancialFreedomVsLifestyleFreedom",
+        "MiddleClassConsumptionPressure",
+        "LifestyleCostRationalization",
+        "LifestyleSubsidyCreatorWork",
+        "XiaohongshuCreatorMonetization"
       ]
     }
   ],
-  "summary": "The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, and well-designed operating systems.",
+  "summary": "The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, designed interaction, and operating systems that preserve human reasoning and career mobility.",
   "topic_id": "work-education-and-society"
 }

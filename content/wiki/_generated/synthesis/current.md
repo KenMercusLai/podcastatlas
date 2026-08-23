@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: ebe6c21ea820d282b0d5126cd761486f22c2f545
-summary: "Current synthesis map: durable value comes from turning capability, authority, trust, and evidence into systems that survive real-world distribution, incentives, and institutional pressure."
-episode_count: 1289
-source_count: 1289
+as_of_overview_commit: 318f160a564ff5ad84415c2bb007f30a90c53ee1
+summary: "Current synthesis map: durable value comes from turning capability, authority, trust, and evidence into systems that survive distribution, incentives, frontier pressure, and institutional scrutiny."
+episode_count: 1291
+source_count: 1291
 paragraph_count: 120
 topic_count: 8
 ---
@@ -19,64 +19,64 @@ topic_count: 8
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]].
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
-- [[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], and [[LiuBang]] show that durable order also depends on social support, exit design, and post-victory placement of residual power.
-- [[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], managed former-enemy loyalty, Han Xin's removal through [[Yunmengze]], and the Hanji 174 turn toward reward ranking and territorial redesign.
+- [[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], and [[LiAsPoliticalOrder]] show that durable order also depends on social support, exit design, frontier security, and ritualized hierarchy.
+- [[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], Han Xin's removal through [[Yunmengze]], reward ranking and territorial redesign, frontier exposure through [[Xiongnu]] pressure at [[Mayi]], and [[ShusunTong]]'s turn toward [[LiAsPoliticalOrder]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
-- [[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding.
+- [[ProductLedWillingnessToPay]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AIInteractiveEntertainment]], [[CompanionRobots]], [[OutcomeBasedAIPricing]], and [[XiaohongshuCreatorMonetization]] show that adoption and income depend on channels, production, platform rules, repeat use, buyer context, and designed interaction rather than capability or attention alone.
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-Useful AI is moving from isolated model capability toward systems with persistent context, callable tools, verification, distribution, and explicit permission boundaries.
+Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]]. Evidence: [[ContextEngineering]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]].
 - Greater agent autonomy increases the importance of [[AICodingVerification]], [[HumanJudgmentUnderAI]], and [[AgentPermissionBoundaries]] rather than removing human responsibility. Evidence: [[AICodingVerification]], [[HumanJudgmentUnderAI]], [[AgentPermissionBoundaries]].
 
 ### Business and Markets
 
-Business value depends on customer pull, distribution, operating capacity, trust, and disciplined risk management rather than attention or a single attractive idea.
+The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets.
 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]].
 - A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the trust survives only when operating pace and delivery remain credible. Evidence: [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], [[SustainableGrowthPace]].
 
 ### Culture and Media
 
-The cultural sources use literature, folklore, games, and media forms to examine politics, identity, evidence, and agency.
+The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, and agency rather than treating works only as plots or entertainment objects.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
 ### Governance and Institutions
 
-Governance appears as enforceable control over incentives, rights, legitimacy, trust, and information; stronger rules can create order while introducing backlash or concentrated power.
+Governance is presented as enforceable control over incentives, information, rights, legitimacy, infrastructure, and institutional trust. The topic spans ancient state formation, early Han frontier and ritual order, imperial symbolism, honor violence, literary political conditions, platform and AI liability, private infrastructure, compliance markets, prediction markets, maritime and aviation capacity, electoral legitimacy, and mission-led organizations.
 
-- [[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], and [[LiuBang]] show that durable order also depends on social support, exit design, and post-victory placement of residual power. Evidence: [[QinAdministrativeStandardization]], [[MeritBasedRewardPunishment]], [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]].
-- [[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[AIWorkforceMonitoring]], and [[LongTermBenefitTrust]] show that governance questions arise inside firms and technical organizations as well as through public law. Evidence: [[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[AIWorkforceMonitoring]], [[LongTermBenefitTrust]], [[FinancialGravity]].
+- [[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], and [[LiAsPoliticalOrder]] show that durable order also depends on social support, exit design, frontier security, and ritualized hierarchy. Evidence: [[QinAdministrativeStandardization]], [[MeritBasedRewardPunishment]], [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], [[LiAsPoliticalOrder]].
+- [[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[DataCenterBacklash]], [[SatelliteConnectivityCompetition]], [[TechnologyRightPowerNetwork]], and [[LongTermBenefitTrust]] show that governance questions arise inside firms, technical organizations, infrastructure networks, and political talent systems as well as through public law. Evidence: [[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[DataCenterBacklash]], [[SatelliteConnectivityCompetition]], [[TechnologyRightPowerNetwork]], [[LongTermBenefitTrust]].
 
 ### History and Geopolitics
 
-Historical power is treated as an institutional and infrastructural process shaped by law, standards, geography, reward hierarchy, ecosystems, and supply chains.
+The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, reward hierarchy, frontier defense, ritual order, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]].
-- [[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], managed former-enemy loyalty, Han Xin's removal through [[Yunmengze]], and the Hanji 174 turn toward reward ranking and territorial redesign. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[Yunmengze]], [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]].
+- [[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], Han Xin's removal through [[Yunmengze]], reward ranking and territorial redesign, frontier exposure through [[Xiongnu]] pressure at [[Mayi]], and [[ShusunTong]]'s turn toward [[LiAsPoliticalOrder]]. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[Yunmengze]], [[Xiongnu]], [[Mayi]], [[ShusunTong]], [[LiAsPoliticalOrder]], [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf]].
 
 ### Psychology and Personal Development
 
-The personal-development material emphasizes calibrated judgment around trust, authenticity, uncertainty, boundaries, and exposure sizing.
+The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, and risk discipline matter because confidence and convenience can hide fragile assumptions.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation remain visible.
+Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by a technological promise.
 
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-Work and education sources favor agency with scaffolding: explicit goals, communication, verification, distribution, trust, pacing, and learning struggle.
+The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but capability becomes durable only through judgment, evidence, context, designed interaction, and operating systems.
 
-- [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], and [[FrontlineAIEnablement]] show that faster generation shifts work toward requirements, review, accountability, and evidence. Evidence: [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]].
+- [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design. Evidence: [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], [[EntryLevelAICareerLadderRisk]].
 - [[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding. Evidence: [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[AIShortcutRisk]].

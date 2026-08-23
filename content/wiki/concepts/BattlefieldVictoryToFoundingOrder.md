@@ -2,7 +2,7 @@
 title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
 type: concept
 tags: [statecraft, founding, chu-han, legitimacy]
-sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -26,6 +26,8 @@ The final layer is legitimacy performance. A broad pardon, the kings' accession 
 
 [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] adds the immediate social repair and family-status layer. [[YongChi|雍齿]]'s enfeoffment calms anxious merit-holders, [[EQianqiu|鄂千秋]] helps justify [[XiaoHe|萧何]]'s first-place rank, and [[LiuTaigong|刘太公]]'s elevation to 太上皇 shows the founding sequence moving from military reward into imperial household order.
 
+[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] adds the next dual pressure: external frontier threat and internal court discipline. [[HanWangXin|韩王信]]'s [[Mayi|马邑]] relocation turns into siege and surrender when [[Xiongnu|匈奴]] pressure meets imperial suspicion, while [[ShusunTong|叔孙通]] responds to palace disorder by designing a practical ritual hierarchy for [[LiuBang|刘邦]]'s officials. Founding order now has to make both borders and court behavior governable.
+
 ## Key Claims
 - Battlefield success must be followed by controlled surrender, enemy-symbol management, and decisions about former rivals' kin.
 - Founding rulers need to both reward and contain overmighty wartime contributors.
@@ -36,8 +38,10 @@ The final layer is legitimacy performance. A broad pardon, the kings' accession 
 - Hanji 170 part 2 adds loyalty-boundary setting and capital-base choice: Ding Gong is made a negative example, while Chang'an turns Guanzhong into the spatial foundation of the new regime.
 - Hanji 174 adds that founding order must rank different kinds of merit and redraw regional power after removing an overmighty king.
 - Hanji 174 part 2 adds that founding order also needs reassurance signals, court-status privilege, and family title hierarchy once open warfare has ended.
+- Hanji 175 adds that founding order can be strained simultaneously by frontier vassal failure and by the need to discipline victory-era officials into court hierarchy.
 
 ## Connections
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], [[HanWangXin|韩王信]], [[Mayi|马邑]], [[ShusunTong|叔孙通]], and [[LiAsPoliticalOrder|礼制政治秩序]] - external frontier pressure and internal ritual ordering after reward settlement.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[HostileRecipientRewardSignal|仇敌受封安众]], [[EQianqiu|鄂千秋]], [[LiuTaigong|刘太公]], and [[LiyangQinHan|栎阳]] - reward reassurance, merit interpretation, and family-status ordering.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[FoundingMeritHierarchy|建国功臣排序]], [[SameSurnameKingEnfeoffment|同姓王分封]], [[FrontierVassalContainment|边境迁封式牵制]], and [[WesternHanDynasty|西汉]] - reward hierarchy, Liu-family kingdoms, and frontier placement after Han Xin's demotion.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[JiBu|季布]], [[ZhuJiaLu|朱家]], [[XiahouYing|夏侯婴]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - defeated-elite cleanup and former-enemy absorption.
