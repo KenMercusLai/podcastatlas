@@ -10123,6 +10123,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）
+
+Added source page for Hanji 178 part 2: Liu Bang's post-Baideng reward for Chen Ping at Quni, Zhang Ao's Handan humiliation and the Guan Gao/Zhao Wu assassination conspiracy, Liu Xi's failure in Dai and Liu Ruyi's replacement kingship, Weiyang Palace completion and Sima Guang's criticism, Zongzheng, and the post-Baideng heqin policy turn. Created Quni County, Guan Gao, Zhao Wu (Zhao minister), Liu Ruyi, Zongzheng Office, and Vassal Humiliation Conspiracy; updated overview, index, Chen Ping, Liu Bang, Zhang Ao, Zhang Er, Princess Lu Yuan, Dai Kingdom (early Han), Liu Xi, Weiyang Palace, Xiao He, Sima Guang, Han Wudi, Lou Jing, Western Han dynasty, Same-Surname King Enfeoffment, Untimely Extravagance, and Han-Xiongnu Heqin Policy. No settled contradiction found; preserved the Lu Yuan-Zhang Ao marriage dating and Xiao He's face-saving palace justification as source-scoped interpretations.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）
 
 Added source page for Hanji 178: Chen Ping's indirect approach to Modu's Yanzhi, Modu's broader release calculation at Baideng, Liu Bang's controlled withdrawal through the opened corner, Liu Jing/Lou Jing's vindication, and the proposed Han-Xiongnu heqin policy. Created Yanzhi (Xiongnu Consort), Encirclement Release Calculus, and Han-Xiongnu Heqin Policy; updated overview, index, Baideng Encirclement, Liu Bang, Chen Ping, Modu Chanyu, Lou Jing, Xiahou Ying, Lu Zhi, Princess Lu Yuan, Xiongnu, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related covert, encirclement, and cavalry-asymmetry concepts. No settled contradiction found; the episode narrows the Baideng escape story by distinguishing Yanzhi-channel persuasion from Modu's strategic risk calculation.
@@ -10397,6 +10401,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线
 
 Added source page for Hanji 177: Han Wang Xin's post-Mayi surrender chain, Liu Bang's northern campaign, Liu Jing's rejected warning that Xiongnu weakness was staged, and Modu's winter cavalry encirclement at Baideng. Updated overview, index, Baideng Encirclement, Han Wang Xin, Xiongnu, Modu Chanyu, Liu Bang, Liu Jing/Lou Jing, Chen Ping, Mayi, Shangdang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related frontier, information-control, lure, cavalry-asymmetry, and encirclement concepts. No settled contradiction found; Hanji 177 complements Hanji 150 part 4 by supplying the military setup before Chen Ping's later escape stratagem.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

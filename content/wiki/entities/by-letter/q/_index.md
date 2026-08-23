@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6715
+wiki_total_pages: 6720
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "QuFang"
     title: "曲芳 / Qu Fang"
     url: "/wiki/entities/qufang/"
+  - key: "QuniCounty"
+    title: "曲逆 / Quni County"
+    url: "/wiki/entities/qunicounty/"
   - key: "QinJimiao"
     title: "极庙 / Qin Ji Miao"
     url: "/wiki/entities/qinjimiao/"

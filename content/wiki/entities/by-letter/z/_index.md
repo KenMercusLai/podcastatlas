@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6715
+wiki_total_pages: 6720
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "ZongQinghou"
     title: "宗庆后 / Zong Qinghou"
     url: "/wiki/entities/zongqinghou/"
+  - key: "ZongzhengOffice"
+    title: "宗正 / Zongzheng Office"
+    url: "/wiki/entities/zongzhengoffice/"
   - key: "ZongFuli"
     title: "宗馥莉 / Zong Fuli"
     url: "/wiki/entities/zongfuli/"
@@ -668,6 +671,9 @@ wiki_pages:
   - key: "ZhaoKuangyin"
     title: "赵匡胤 / Song Taizu"
     url: "/wiki/entities/zhaokuangyin/"
+  - key: "ZhaoWuZhaoMinister"
+    title: "赵午 / Zhao Wu (Zhao minister)"
+    url: "/wiki/entities/zhaowuzhaominister/"
   - key: "ZhaoServantEnvoy"
     title: "赵厮养卒 / Zhao Servant Envoy"
     url: "/wiki/entities/zhaoservantenvoy/"
