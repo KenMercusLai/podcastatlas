@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-24
-as_of_overview_commit: d5bbbd54ccef5e9236068103fd46f9842b6c8924
-input_digest: 0c3f025d78ca1e904706e5db6269a3b7f038d3200810ebac082d2fc80d01ce5c
+as_of_overview_commit: 83976dbe08d5b7a83b24fe88961e0627d583d4fe
+input_digest: c54a02090ad9bdc7ec8f78778295a707811aff671ce403df788c76fdcfbf7144
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and social practice now cluster around implementation, boundaries, and responsibility. AI cinema, agents, interactive entertainment, companion robots, AI tutors, and AI coding lower production friction, but they do not remove human judgment, workflow design, rights, labor, energy limits, or the struggle required for learning. Non-AI career and service sources reinforce the same pattern: internships, upward management, finance, banking, aviation, creator monetization, household consumption, mission-driven CPG, carbon removal, family political strategy, and prediction markets turn abstract opportunity into staged evidence, operations, trust, and risk control.
+Work, education, and social practice now cluster around implementation, boundaries, and responsibility. AI cinema, agents, interactive entertainment, companion robots, AI tutors, AI coding, and enterprise Copilot-style adoption lower production friction, but they do not remove human judgment, workflow design, ownership, baselines, rights, labor, energy limits, or the struggle required for learning. EP48 adds that workplace AI readiness is not license access: role-specific use cases, training, governance, business sponsors, and measurement decide whether worker experimentation becomes durable productivity. Non-AI career and service sources reinforce the same pattern: internships, upward management, finance, banking, aviation, creator monetization, household consumption, mission-driven CPG, carbon removal, family political strategy, and prediction markets turn abstract opportunity into staged evidence, operations, trust, and risk control.
 
 ## Cross-source Findings
 
@@ -25,6 +25,17 @@ AI and automation change work only when they reorganize production roles, workfl
 **Qualifications:**
 
 - EP277 treats AI cinema as a possible production-method rupture but leaves its mature aesthetics, rights regime, labor settlement, and energy costs unresolved.
+
+### Workplace Ai Readiness Needs Ownership And Baselines
+
+Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough.
+
+**Evidence:** [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]]
+
+**Qualifications:**
+
+- EP48 grounds this claim in enterprise Microsoft 365 Copilot adoption, so the 90-day rollout details should remain source-scoped.
+- The claim treats shadow AI as a workplace readiness signal only when organizations can also manage data, permission, and policy risk.
 
 ### Implementation Beats Capability Claims
 

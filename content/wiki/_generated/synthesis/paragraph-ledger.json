@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "961bd97a19ba6b2a7c2f61a5beccedaee0edeaf6e12833491c84ad634a6332bd",
       "94c1cfccaafcf24b83e4513c839b70794cde0174a4936e2cfdd2dc8a872b263c",
       "cfe5db0a7de5a9ad07b27b1ecc2b5a020aad0df779aba39119d08d81ce061727",
       "ca21f843ce1c289056b59b5b8ea930ff2fab54120277c8f80f4bdbc389ca5452",
@@ -150,11 +151,46 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 148
+    "paragraph_count": 149
   },
-  "overview_commit": "e4c2323e8804a75847bed94f9b485fb61739d226",
-  "overview_digest": "0ad3c8b483d156d7f9eceace537f761598360640d3fc4f24dd34bf99fe5b7ff6",
+  "overview_commit": "83976dbe08d5b7a83b24fe88961e0627d583d4fe",
+  "overview_digest": "e3e1104dffc87827f13eb4a0b982b5beeb0b6f223d62e0ba47912ef79fd2b803",
   "paragraphs": [
+    {
+      "id": "961bd97a19ba6b2a7c2f61a5beccedaee0edeaf6e12833491c84ad634a6332bd",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]], a [[DataScienceWithSam]] episode with [[JimSpignardo]] of [[Proarc]] on enterprise AI pilot failure and [[MicrosoftCopilot|Microsoft 365 Copilot]] adoption. It adds [[JimSpignardo]], [[Proarc]], [[TheAITurningPoint]], [[Microsoft365CopilotAdoption]], [[ShadowAI]], and [[AIAdoptionBaselineMeasurement]], while extending [[DataScienceWithSam]], [[SamDataScienceWithSam]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[EnterpriseAIROIAudit]], [[AIDataReadiness]], [[AIGovernanceAndCompliance]], [[WorkplaceAIReadinessGap]], and [[AIOperationsRole]]. Its core synthesis is that enterprise AI adoption fails when organizations treat AI as a tool rollout instead of an operating-model change: use cases, data grounding, permissions, training, ownership, governance, baselines, champions, and business-owner measurement decide whether pilots become productivity. No direct contradiction is recorded; the source reinforces earlier enterprise AI adoption pages while adding a Copilot-specific 90-day rollout and a risk/signal reading of shadow AI.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIAdoptionBaselineMeasurement",
+        "AIDataReadiness",
+        "AIGovernanceAndCompliance",
+        "AIOperationsRole",
+        "BusinessLedAITransformation",
+        "DataScienceWithSam",
+        "EnterpriseAIPilotPurgatory",
+        "EnterpriseAIROIAudit",
+        "JimSpignardo",
+        "Microsoft365CopilotAdoption",
+        "MicrosoftCopilot",
+        "Proarc",
+        "SamDataScienceWithSam",
+        "ShadowAI",
+        "TheAITurningPoint",
+        "WorkplaceAIReadinessGap",
+        "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise"
+      ]
+    },
     {
       "id": "94c1cfccaafcf24b83e4513c839b70794cde0174a4936e2cfdd2dc8a872b263c",
       "primary_topic": "ai-and-technology",

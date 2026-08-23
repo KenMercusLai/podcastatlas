@@ -1267,6 +1267,10 @@
     "title": "AI Access To Justice",
     "url": "/wiki/concepts/aiaccesstojustice/"
   },
+  "AIAdoptionBaselineMeasurement": {
+    "title": "AI Adoption Baseline Measurement",
+    "url": "/wiki/concepts/aiadoptionbaselinemeasurement/"
+  },
   "AIAdvertisingTargeting": {
     "title": "AI Advertising Targeting",
     "url": "/wiki/concepts/aiadvertisingtargeting/"
@@ -22911,6 +22915,10 @@
     "title": "Jim Sinegal",
     "url": "/wiki/entities/jimsinegal/"
   },
+  "JimSpignardo": {
+    "title": "Jim Spignardo",
+    "url": "/wiki/entities/jimspignardo/"
+  },
   "JimThorpe": {
     "title": "Jim Thorpe",
     "url": "/wiki/entities/jimthorpe/"
@@ -28835,6 +28843,10 @@
     "title": "Microsoft",
     "url": "/wiki/entities/microsoft/"
   },
+  "Microsoft365CopilotAdoption": {
+    "title": "Microsoft 365 Copilot Adoption",
+    "url": "/wiki/concepts/microsoft365copilotadoption/"
+  },
   "MicrosoftCopilot": {
     "title": "Microsoft Copilot",
     "url": "/wiki/entities/microsoftcopilot/"
@@ -34335,6 +34347,10 @@
     "title": "Proactive Observability",
     "url": "/wiki/concepts/proactiveobservability/"
   },
+  "Proarc": {
+    "title": "Proarc",
+    "url": "/wiki/entities/proarc/"
+  },
   "ProbabilisticSoftware": {
     "title": "Probabilistic Software",
     "url": "/wiki/concepts/probabilisticsoftware/"
@@ -38443,6 +38459,10 @@
     "title": "Shabana Mahmood",
     "url": "/wiki/entities/shabanamahmood/"
   },
+  "ShadowAI": {
+    "title": "Shadow AI",
+    "url": "/wiki/concepts/shadowai/"
+  },
   "Shahed136": {
     "title": "Shahed 136",
     "url": "/wiki/entities/shahed136/"
@@ -42334,6 +42354,10 @@
   "Thailand": {
     "title": "Thailand",
     "url": "/wiki/entities/thailand/"
+  },
+  "TheAITurningPoint": {
+    "title": "The AI Turning Point",
+    "url": "/wiki/entities/theaiturningpoint/"
   },
   "TheArtOfInsubordination": {
     "title": "The Art of Insubordination / 不服从的艺术",
@@ -50278,6 +50302,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise": {
+    "title": "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise",
+    "url": "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
   },
   "ep-5-implementation-of-data-science-in-cybersecurity": {
     "title": "EP 5: Implementation of Data Science in Cybersecurity",

@@ -2,11 +2,13 @@
 title: "AI Data Readiness"
 type: concept
 tags: [ai, data-quality, data-engineering, analytics]
-sources: [ep-28-the-ai-revolution-redefining-healthcare-financing, ep-16-data-decoded-navigating-the-ai-revolution]
-last_updated: 2026-08-18
+sources: [ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise, ep-28-the-ai-revolution-redefining-healthcare-financing, ep-16-data-decoded-navigating-the-ai-revolution]
+last_updated: 2026-08-24
 ---
 
 # AI Data Readiness
+
+[[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] adds an enterprise Copilot grounding version. [[JimSpignardo]] identifies poor grounding as a pilot failure cause when data access is wrong, information is messy, permissions are inconsistent, or employees cannot trust answers from old or outdated content.
 
 AI data readiness is the preparation layer required before AI can safely support analysis, prediction, or automation. In [[ep-16-data-decoded-navigating-the-ai-revolution]], [[VishalDataScienceWithSam|Vishal]] says companies need to prepare, clean, organize, and validate their data before expecting AI systems to produce useful answers.
 
@@ -21,6 +23,7 @@ The concept is adjacent to [[DataEngineeringForDataScience]], but it is framed f
 - Privacy, access control, and compliance are part of readiness when sensitive customer, health, financial, or employment data is involved.
 - Bad or ambiguous input data can make LLM-mediated analytics faster while making decisions worse.
 - In clinic lending, readiness also includes borrower permission, document completeness, operating context, and lender-fit criteria.
+- Enterprise AI readiness includes permission consistency, source freshness, and trustworthy grounding, not only clean analytic tables.
 
 ## Connections
 - [[DataScienceWithSam]], [[SamDataScienceWithSam]], and [[VishalDataScienceWithSam]] - source context.
@@ -28,3 +31,4 @@ The concept is adjacent to [[DataEngineeringForDataScience]], but it is framed f
 - [[NaturalLanguageAnalytics]], [[CustomerChurnPrediction]], [[AIEnabledLoanDocumentAnalysis]], and [[DataDrivenClinicUnderwriting]] - source use cases that need ready data.
 - [[BusinessLedAITransformation]], [[AIVerification]], and [[AIModelBiasGovernance]] - organizational and governance boundaries.
 - [[DomainExpertAlignment]] and [[HumanJudgmentUnderAI]] - human context needed to decide whether data is fit for purpose.
+- [[JimSpignardo]], [[Microsoft365CopilotAdoption]], [[ShadowAI]], and [[AIAdoptionBaselineMeasurement]] - enterprise Copilot readiness branch from EP48.

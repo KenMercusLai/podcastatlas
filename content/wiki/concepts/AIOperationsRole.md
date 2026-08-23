@@ -2,11 +2,13 @@
 title: "AI Operations Role"
 type: concept
 tags: [ai, work, operations, agents]
-sources: [weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
-last_updated: 2026-07-07
+sources: [ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
+last_updated: 2026-08-24
 ---
 
 # AI Operations Role
+
+[[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] adds the dedicated AI ownership version. [[JimSpignardo]] says organizations serious about AI should put AI responsibility in a job description, work description, title, promoted role, hire, or external partner relationship; otherwise AI becomes secondary.
 
 AI operations role is the source's practical role pattern for people who understand business processes well enough to translate messy goals into AI-executable workflows. In [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]], the hosts compare this future role to low-code operators or VBA-heavy office workers: the durable value is not merely knowing prompts, but knowing the work, the data, the handoffs, and the boundaries of [[AgenticWorkflow]].
 
@@ -21,6 +23,7 @@ The source argues that AI lowers execution cost and can shorten the path from id
 - Lower implementation cost increases both good MVPs and weak projects, shifting the bottleneck toward maintenance, customer understanding, and revenue.
 - The role overlaps with enterprise AI deployment, but it can also exist inside small teams, solo founders, and internal operations groups.
 - In offline businesses, the role may include creating data paths from printers, photos, screenshots, and voice because no clean software integration exists.
+- Dedicated ownership matters because pilots need someone to move from use-case discovery into training, governance, measurement, and operational handoff.
 
 ## Connections
 - [[AgenticWorkflow]] — work pattern the role translates into executable tasks.
@@ -30,3 +33,4 @@ The source argues that AI lowers execution cost and can shorten the path from id
 - [[RoutineAgentAutomation]] — recurring-work version of the role.
 - [[AICodingVerification]] — verification practice needed when code generation becomes cheap.
 - [[OfflineAIImplementation]], [[OperationalDataCapture]], and [[AIVisualMerchandising]] — flower-shop examples where the role translates store work into AI-executable routines.
+- [[JimSpignardo]], [[Proarc]], [[Microsoft365CopilotAdoption]], and [[AIAdoptionBaselineMeasurement]] — enterprise ownership and measured rollout branch from EP48.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6894
+wiki_total_pages: 6897
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "PriyaRathod"
     title: "Priya Rathod"
     url: "/wiki/entities/priyarathod/"
+  - key: "Proarc"
+    title: "Proarc"
+    url: "/wiki/entities/proarc/"
   - key: "ProcterGamble"
     title: "Procter & Gamble"
     url: "/wiki/entities/proctergamble/"

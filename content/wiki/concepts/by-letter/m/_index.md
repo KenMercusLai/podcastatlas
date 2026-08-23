@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5219
+wiki_total_pages: 5222
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "MicrohistoryFromHostileArchives"
     title: "Microhistory From Hostile Archives"
     url: "/wiki/concepts/microhistoryfromhostilearchives/"
+  - key: "Microsoft365CopilotAdoption"
+    title: "Microsoft 365 Copilot Adoption"
+    url: "/wiki/concepts/microsoft365copilotadoption/"
   - key: "MiddleEastSocialGameGrowth"
     title: "Middle East Social Game Growth"
     url: "/wiki/concepts/middleeastsocialgamegrowth/"

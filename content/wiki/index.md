@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise](sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise.md) — Data Science With Sam episode with Jim Spignardo of Proarc on enterprise AI pilot failure, Microsoft 365 Copilot adoption, shadow AI, governance, baselines, and dedicated AI ownership.
 - [宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26](sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b.md) — What's Next episode on Unitree's listing surge, humanoid-robot commercialization, repeat-purchase demand, existing-business versus option-value valuation, simulation, and Disney's IP-led robotics model.
 - [I, robot? AI and consciousness](sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015.md) — The Intelligence episode on AI consciousness boundaries, ELIZA and chatbot mind projection, Claude workspace analogies, Europe's STI surge, and Mary de Rachewiltz's translation of Ezra Pound's Cantos.
 - [271.唐朝都要不存在了？为什么伪史论会在今年大爆发？](sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un.md) — 乱翻书 live episode on 伪史论, "唐朝不存在", historical evidence chains, short-video amplification, simple-causality comfort, professional-community trust, and arguing for bystanders.
@@ -1348,6 +1349,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jim Spignardo](entities/JimSpignardo.md) — Proarc cloud strategy and AI enablement leader explaining Copilot adoption, pilot failure, governance, baselines, and ownership in Data Science With Sam EP48.
+- [Proarc](entities/Proarc.md) — Consulting and enablement company tied to Jim Spignardo's Microsoft 365 Copilot adoption playbook and enterprise AI ownership advice.
+- [The AI Turning Point](entities/TheAITurningPoint.md) — Jim Spignardo book mentioned in EP48 as an AI transformation and change-management reflection.
 - [Wang Xingxing / 王兴兴](entities/WangXingxing.md) — Unitree founder figure cited in S10E26 on incomplete humanoid robot product-market fit.
 - [Honda / 本田](entities/Honda.md) — Automotive and robotics company used in S10E26 as an early humanoid-form argument for human-built spaces.
 - [DARPA](entities/DARPA.md) — U.S. research agency used in S10E26 as a demand-shaping reference for quadruped robotics.
@@ -8246,6 +8250,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Microsoft 365 Copilot Adoption](concepts/Microsoft365CopilotAdoption.md) — Rollout discipline for moving Copilot from license assignment into governed, measured, role-based workflow adoption.
+- [Shadow AI](concepts/ShadowAI.md) — Employee AI use outside approved channels, treated as both governance risk and unmet workflow-demand signal.
+- [AI Adoption Baseline Measurement](concepts/AIAdoptionBaselineMeasurement.md) — Pre-rollout measurement of current workflows so enterprise AI outcomes can be compared against a real baseline.
 - [Unitree IPO Valuation / 宇树上市估值](concepts/UnitreeIPOValuation.md) — Public-market frame separating Unitree's existing robot business from future humanoid and platform option value.
 - [Robot Repurchase Demand / 机器人复购需求](concepts/RobotRepurchaseDemand.md) — Commercial test asking who buys a robot, what they do with it, and whether they buy again.
 - [Disney Robot Experience Commercialization / 迪士尼机器人体验商业化](concepts/DisneyRobotExperienceCommercialization.md) — Disney-style robot business model where IP, parks, character interaction, and emotional experience carry the value.

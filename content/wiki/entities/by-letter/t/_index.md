@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6894
+wiki_total_pages: 6897
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "Thailand"
     title: "Thailand"
     url: "/wiki/entities/thailand/"
+  - key: "TheAITurningPoint"
+    title: "The AI Turning Point"
+    url: "/wiki/entities/theaiturningpoint/"
   - key: "TheArtOfInsubordination"
     title: "The Art of Insubordination / 不服从的艺术"
     url: "/wiki/entities/theartofinsubordination/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5219
+wiki_total_pages: 5222
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "AIAccessToJustice"
     title: "AI Access To Justice"
     url: "/wiki/concepts/aiaccesstojustice/"
+  - key: "AIAdoptionBaselineMeasurement"
+    title: "AI Adoption Baseline Measurement"
+    url: "/wiki/concepts/aiadoptionbaselinemeasurement/"
   - key: "AIAdvertisingTargeting"
     title: "AI Advertising Targeting"
     url: "/wiki/concepts/aiadvertisingtargeting/"

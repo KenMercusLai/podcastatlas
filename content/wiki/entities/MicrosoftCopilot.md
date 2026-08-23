@@ -2,11 +2,13 @@
 title: "Microsoft Copilot"
 type: entity
 tags: [ai-tool, microsoft, workplace]
-sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]
-last_updated: 2026-08-18
+sources: [ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Microsoft Copilot
+
+[[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] adds Microsoft's 365 adoption-practice version through [[JimSpignardo]] of [[Proarc]]. The source says organizations often fail when they treat Copilot as another software license; useful [[Microsoft365CopilotAdoption]] needs readiness checks, AI usage policy, guardrails, role-based pain points, baselines, outcome measurement, and business-owner involvement.
 
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds Microsoft's own strategy frame for Copilot. [[SatyaNadella|Satya Nadella]] describes Copilot as a knowledge-work surface that is absorbing chat, reasoning, computer use, skills, and agent calls rather than remaining a document assistant.
 
@@ -20,3 +22,4 @@ For the wiki, Microsoft Copilot connects [[Microsoft]]'s AI strategy to [[AIAssi
 - [[Clorox]] and [[HiddenValleyRanch]] - CPG adoption case.
 - [[AIAssistantAugmentation]], [[BusinessLedAITransformation]], and [[HumanJudgmentUnderAI]] - assistant, organization, and review boundaries.
 - [[GitHubCopilot|GitHub Copilot]], [[AgenticWorkflow]], [[ComputerUseAgent]], and [[Agent365|Agent 365]] - Microsoft agentic work context added by Nadella's All-In interview.
+- [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIGovernanceAndCompliance]], and [[ShadowAI]] - rollout, measurement, and governance branch added by Data Science With Sam EP48.

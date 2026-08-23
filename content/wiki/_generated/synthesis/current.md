@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: e4c2323e8804a75847bed94f9b485fb61739d226
-summary: "Capability compounds only when evidence, workflows, trust, distribution, governance, and physical feedback turn it into repeatable value."
-episode_count: 1340
-source_count: 1340
-paragraph_count: 148
+as_of_overview_commit: 83976dbe08d5b7a83b24fe88961e0627d583d4fe
+summary: "Capability compounds when workflows, evidence, governance, trust, distribution, ownership, and physical feedback turn it into repeatable value."
+episode_count: 1341
+source_count: 1341
+paragraph_count: 149
 topic_count: 8
 ---
 
@@ -17,26 +17,26 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation.
+- Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], and [[AIOperationsRole]] show that use cases, grounding, permissions, baselines, guardrails, and ownership decide whether pilots become productivity.
 - Greater AI autonomy increases the importance of [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], and [[AgentPermissionBoundaries]] rather than removing human responsibility.
-- Physical AI and AI-for-science need grounded feedback loops: [[EmbodiedAI]], [[PhysicalAI]], [[HumanoidRobotCommercialization]], [[RobotRepurchaseDemand]], [[CausalWorldModels]], [[WorldModels]], [[VisionLanguageActionModels]], [[AIForScience]], and [[AIMaterialsDiscovery]] only become useful when models meet motion, causality, experiments, scale-up, repeat demand, and real users.
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
-- Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use.
+- AI governance is not only restriction: [[AIGovernanceAndCompliance]], [[Microsoft365CopilotAdoption]], [[ShadowAI]], and [[AIAdoptionBaselineMeasurement]] show that clear policy, approved tools, sensitive-data handling, privilege boundaries, and remedial education can make enterprise adoption faster by reducing ambiguity.
 - Trust and mission are governance assets only when protected by structures: customer reliability, private standards, benefit trusts, stewardship ownership, AI alignment governance, post-acquisition identity, greenhushing, and growth pace all show that values can attract pressure as well as loyalty.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
-- Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved.
+- Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough.
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-AI capability creates value only after it is embedded in workflows, safety defaults, interfaces, verification, product economics, physical deployment, and domain context; robotics adds buyers, repeat demand, form fit, and valuation discipline.
+AI capability creates value only after it is embedded in workflows, verification, governance, product economics, physical feedback, and domain context; EP48 adds enterprise ownership, baselines, and guardrails.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
-- Greater AI autonomy increases the importance of [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], and [[AgentPermissionBoundaries]] rather than removing human responsibility. Evidence: [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], [[AgentPermissionBoundaries]], [[DeterministicAuditData]], [[AIInvestmentResearch]], [[HumanRiskOverride]].
+- Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], and [[AIOperationsRole]] show that use cases, grounding, permissions, baselines, guardrails, and ownership decide whether pilots become productivity. Evidence: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[WorkplaceAIReadinessGap]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].
 
 ### Business and Markets
 
-Markets reward repeatable value rather than attention alone: customer pull, payment proof, distribution, operating capacity, trust, local control, logistics, valuation discipline, and repeat demand decide durability.
+Markets reward repeatable value rather than attention alone: payment proof, distribution, operating capacity, trust, local control, logistics, valuation discipline, and repeat demand decide durability.
 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[RobotRepurchaseDemand]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]].
@@ -49,34 +49,34 @@ Cultural sources treat literature, folklore, games, and media forms as tools for
 
 ### Governance and Institutions
 
-Governance works through translation mechanisms: symbols, titles, legal rules, markets, private trust, and mission structures become durable only when they survive control, support, and accountability tests.
+Governance works through translation mechanisms: symbols, titles, legal rules, markets, trust, and AI guardrails become durable only when they survive support and accountability tests.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-Historical change is traced through legitimacy windows, condition-reading, defensive order, delegated violence, title order, leadership decapitation risk, enforceable systems, and technology ecosystems.
+Historical change is traced through legitimacy windows, condition-reading, defensive order, delegated violence, title order, leadership risk, enforceable systems, and technology ecosystems.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
 
 ### Psychology and Personal Development
 
-The personal-development thread emphasizes calibrated judgment around trust, authenticity, boundaries, risk, status, desire, ambition, and market excitement; Unitree adds PMF and valuation discipline to that caution.
+Personal-development sources emphasize calibrated judgment around trust, authenticity, boundaries, risk, status, desire, ambition, market excitement, PMF, and valuation discipline.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation remain visible.
+Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, material performance, and implementation remain visible.
 
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-Work and learning sources show that AI, automation, internships, finance, banking, creator work, and public building turn opportunity into outcomes through implementation, responsibility, trust, and risk control.
+Work and learning turn opportunity into outcomes through implementation, responsibility, trust, ownership, baselines, training, workflow design, and risk control.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
-- Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved. Evidence: [[ProductLedWillingnessToPay]], [[OpenSourceWedge]], [[SalesAsLearnableSkill]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AdvancedMarketCommitment]], [[BankDueDiligence]], [[AetherAI]], [[ThreatLocker]], [[JimSimons]], [[BuildingPublic]].
+- Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].
