@@ -4295,6 +4295,10 @@
     "title": "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂",
     "url": "/wiki/concepts/antiqincoalitionfragmentation/"
   },
+  "AntiUsurpationCoalitionPressure": {
+    "title": "Anti-Usurpation Coalition Pressure / 讨逆同盟压力",
+    "url": "/wiki/concepts/antiusurpationcoalitionpressure/"
+  },
   "Antifragility": {
     "title": "Antifragility",
     "url": "/wiki/concepts/antifragility/"
@@ -17767,6 +17771,10 @@
     "title": "犀首公孙衍 / Gongsun Yan",
     "url": "/wiki/entities/gongsunyan/"
   },
+  "GongsunZan": {
+    "title": "公孙瓒 / Gongsun Zan",
+    "url": "/wiki/entities/gongsunzan/"
+  },
   "GongzhongHan": {
     "title": "公众 / Gongzhong of Han",
     "url": "/wiki/entities/gongzhonghan/"
@@ -18415,6 +18423,10 @@
     "title": "Gumroad",
     "url": "/wiki/entities/gumroad/"
   },
+  "GuoJia": {
+    "title": "郭嘉 / Guo Jia",
+    "url": "/wiki/entities/guojia/"
+  },
   "GuoJinglong": {
     "title": "郭静龙",
     "url": "/wiki/entities/guojinglong/"
@@ -18798,6 +18810,10 @@
   "HanState": {
     "title": "韩国 / Han State",
     "url": "/wiki/entities/hanstate/"
+  },
+  "HanSui": {
+    "title": "韩遂 / Han Sui",
+    "url": "/wiki/entities/hansui/"
   },
   "HanTong": {
     "title": "韩通 / Han Tong",
@@ -20150,6 +20166,10 @@
   "HuainanKingdomEarlyHan": {
     "title": "淮南国 / Huainan Kingdom (early Han)",
     "url": "/wiki/entities/huainankingdomearlyhan/"
+  },
+  "HuainanRegion": {
+    "title": "淮南 / Huainan Region",
+    "url": "/wiki/entities/huainanregion/"
   },
   "Huainanzi": {
     "title": "Huainanzi / 《淮南子》",
@@ -22790,6 +22810,10 @@
   "JiujiangChuHan": {
     "title": "Jiujiang Kingdom / 九江国",
     "url": "/wiki/entities/jiujiangchuhan/"
+  },
+  "JiujiangCommandery": {
+    "title": "九江郡 / Jiujiang Commandery",
+    "url": "/wiki/entities/jiujiangcommandery/"
   },
   "JiujiuwuDeDansheng": {
     "title": "《居酒屋的诞生》",
@@ -26690,6 +26714,10 @@
   "MaShaonainaiLihun": {
     "title": "马少奶奶（《离婚》） / Ma Shaonainai",
     "url": "/wiki/entities/mashaonainailihun/"
+  },
+  "MaTeng": {
+    "title": "马腾 / Ma Teng",
+    "url": "/wiki/entities/mateng/"
   },
   "MaWangDengji": {
     "title": "《马王登基》",
@@ -38479,6 +38507,10 @@
     "title": "《小市民》系列",
     "url": "/wiki/entities/shoshiminseries/"
   },
+  "Shouchun": {
+    "title": "寿春 / Shouchun",
+    "url": "/wiki/entities/shouchun/"
+  },
   "ShouchunWarringStates": {
     "title": "寿春 / Shouchun (Warring States)",
     "url": "/wiki/entities/shouchunwarringstates/"
@@ -48439,6 +48471,10 @@
     "title": "Zhong Xuegao",
     "url": "/wiki/entities/zhongxuegao/"
   },
+  "ZhongYao": {
+    "title": "钟繇 / Zhong Yao",
+    "url": "/wiki/entities/zhongyao/"
+  },
   "ZhongdiCommandery": {
     "title": "中地郡 / Zhongdi Commandery",
     "url": "/wiki/entities/zhongdicommandery/"
@@ -51802,6 +51838,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk": {
+    "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
   },
   "zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs": {
     "title": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择",

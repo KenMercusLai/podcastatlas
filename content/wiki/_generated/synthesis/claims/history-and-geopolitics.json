@@ -4,24 +4,26 @@
       "global_candidate": false,
       "id": "late-han-legitimacy-and-marriage-alliance-exposure",
       "qualifications": [
-        "This claim is source-scoped to the Ruiqi Hanji 1016 interpretation of Yuan Shu, Chen Gui, Lu Bu, and the Han court.",
-        "It treats 名器 legitimacy as a political-risk frame, not as a complete account of all military and fiscal causes behind Yuan Shu's failure."
+        "This claim is source-scoped to the Ruiqi Hanji 1015-1016 interpretation of Yuan Shu, Cao Cao, Chen Gui, Lu Bu, and the Han court.",
+        "It treats title legitimacy and sequencing as political-risk frames, not as a complete account of all military and fiscal causes behind Yuan Shu's failure."
       ],
-      "statement": "[[MingqiLegitimacy]] makes late-Han title order a strategic condition: [[YuanShu]]'s unsupported imperial name creates punishment risk under [[EmperorXianOfHan]]'s court order, while [[ChenGui]] blocks [[MarriageAllianceWarExposure]] by preventing a Yuan Shu-[[LyuBu]] marriage route through [[HanYinLateHan]] and protecting [[Xuzhou]] and [[ChenDeng]]'s Cao-aligned exit path.",
+      "statement": "The Hanji 1015-1016 branch makes late-Han title order a strategic condition: [[YuanShu]]'s Shouchun imperial claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]] under [[EmperorXianOfHan]], while [[GuoJia]], [[XunYu]], and [[ZhongYao]] show [[CaoCao]] pairing anti-usurpation legitimacy with sequencing and [[GuanzhongRegion]] stabilization before [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]].",
       "status": "source-scoped",
       "supporting_wikilinks": [
-        "MingqiLegitimacy",
         "YuanShu",
+        "TitleRealityRestraint",
+        "AntiUsurpationCoalitionPressure",
         "EmperorXianOfHan",
+        "GuoJia",
+        "XunYu",
+        "ZhongYao",
+        "CaoCao",
+        "GuanzhongRegion",
         "ChenGui",
-        "ChenDeng",
-        "LyuBu",
-        "HanYinLateHan",
         "MarriageAllianceWarExposure",
+        "LyuBu",
         "Xuzhou",
-        "YuanShao",
-        "KongRong",
-        "PoliticalSurvivalFirst",
+        "MingqiLegitimacy",
         "XingshiqingStrategicAssessment"
       ]
     },
@@ -81,6 +83,6 @@
       ]
     }
   ],
-  "summary": "The history-and-geopolitics input currently links four kinds of historical change: late-Han title legitimacy and marriage alliances can redirect war exposure before open battle, late-Han local order can protect people yet remain exposed to leadership decapitation, early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
+  "summary": "The history-and-geopolitics input currently links four kinds of historical change: late-Han legitimacy, strategic sequencing, and marriage alliances can redirect war exposure before open battle; late-Han local order can protect people yet remain exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
   "topic_id": "history-and-geopolitics"
 }

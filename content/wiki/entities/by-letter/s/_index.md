@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6784
+wiki_total_pages: 6792
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1469,6 +1469,9 @@ wiki_pages:
   - key: "Secoo"
     title: "寺库 / Secoo"
     url: "/wiki/entities/secoo/"
+  - key: "Shouchun"
+    title: "寿春 / Shouchun"
+    url: "/wiki/entities/shouchun/"
   - key: "ShouchunWarringStates"
     title: "寿春 / Shouchun (Warring States)"
     url: "/wiki/entities/shouchunwarringstates/"

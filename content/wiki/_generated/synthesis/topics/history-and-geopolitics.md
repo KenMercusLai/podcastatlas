@@ -4,28 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 9166811491d42b69993e208db9dc5459d88cc934
-input_digest: 59f3922b2fa4f966adff60ec1db7b569f2d5f6965f5f34251387036614abb378
+as_of_overview_commit: 8b870c33e9744cbc8f16f26ae3059d8105887337
+input_digest: d00cfdf277041be2da1b268724ec5d1738d244a4ef53332c2a49432e2af94d56
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input currently links four kinds of historical change: late-Han title legitimacy and marriage alliances can redirect war exposure before open battle, late-Han local order can protect people yet remain exposed to leadership decapitation, early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input currently links four kinds of historical change: late-Han legitimacy, strategic sequencing, and marriage alliances can redirect war exposure before open battle; late-Han local order can protect people yet remain exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
 
 ### Late Han Legitimacy And Marriage Alliance Exposure
 
-[[MingqiLegitimacy]] makes late-Han title order a strategic condition: [[YuanShu]]'s unsupported imperial name creates punishment risk under [[EmperorXianOfHan]]'s court order, while [[ChenGui]] blocks [[MarriageAllianceWarExposure]] by preventing a Yuan Shu-[[LyuBu]] marriage route through [[HanYinLateHan]] and protecting [[Xuzhou]] and [[ChenDeng]]'s Cao-aligned exit path.
+The Hanji 1015-1016 branch makes late-Han title order a strategic condition: [[YuanShu]]'s Shouchun imperial claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]] under [[EmperorXianOfHan]], while [[GuoJia]], [[XunYu]], and [[ZhongYao]] show [[CaoCao]] pairing anti-usurpation legitimacy with sequencing and [[GuanzhongRegion]] stabilization before [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]].
 
-**Evidence:** [[MingqiLegitimacy]], [[YuanShu]], [[EmperorXianOfHan]], [[ChenGui]], [[ChenDeng]], [[LyuBu]], [[HanYinLateHan]], [[MarriageAllianceWarExposure]], [[Xuzhou]], [[YuanShao]], [[KongRong]], [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]]
+**Evidence:** [[YuanShu]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[EmperorXianOfHan]], [[GuoJia]], [[XunYu]], [[ZhongYao]], [[CaoCao]], [[GuanzhongRegion]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[MingqiLegitimacy]], [[XingshiqingStrategicAssessment]]
 
 **Qualifications:**
 
-- This claim is source-scoped to the Ruiqi Hanji 1016 interpretation of Yuan Shu, Chen Gui, Lu Bu, and the Han court.
-- It treats 名器 legitimacy as a political-risk frame, not as a complete account of all military and fiscal causes behind Yuan Shu's failure.
+- This claim is source-scoped to the Ruiqi Hanji 1015-1016 interpretation of Yuan Shu, Cao Cao, Chen Gui, Lu Bu, and the Han court.
+- It treats title legitimacy and sequencing as political-risk frames, not as a complete account of all military and fiscal causes behind Yuan Shu's failure.
 
 ### Late Han Local Order Is Person Dependent
 

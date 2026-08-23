@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5160
+wiki_total_pages: 5161
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1376,6 +1376,9 @@ wiki_pages:
   - key: "AntiQinCoalitionFragmentation"
     title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
     url: "/wiki/concepts/antiqincoalitionfragmentation/"
+  - key: "AntiUsurpationCoalitionPressure"
+    title: "Anti-Usurpation Coalition Pressure / 讨逆同盟压力"
+    url: "/wiki/concepts/antiusurpationcoalitionpressure/"
   - key: "Antifragility"
     title: "Antifragility"
     url: "/wiki/concepts/antifragility/"

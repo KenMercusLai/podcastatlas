@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6784
+wiki_total_pages: 6792
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "JiuzhouCulture"
     title: "九州文化 / Jiuzhou Culture"
     url: "/wiki/entities/jiuzhouculture/"
+  - key: "JiujiangCommandery"
+    title: "九江郡 / Jiujiang Commandery"
+    url: "/wiki/entities/jiujiangcommandery/"
   - key: "Jiuding"
     title: "九鼎 / Jiuding"
     url: "/wiki/entities/jiuding/"

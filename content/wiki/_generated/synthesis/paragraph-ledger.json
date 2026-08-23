@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0dd987792595f39ffef0ecac2b22eef76c379c84d88f7c343e12348115f6c27e",
       "b92d00a234edc209af84bf8ac6021cdd20660b9b641f0a99f267b86e0d2393af",
       "8236fb4b8eff8ecab0397d253c02e5cf870aa024a26418ed2b37a275eaa75332",
       "da73b0ab4bac8bfcd5b84274fa2bf2d849d3161fff59d2dd1efbe5864a01b531",
@@ -129,11 +130,51 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 127
+    "paragraph_count": 128
   },
-  "overview_commit": "9166811491d42b69993e208db9dc5459d88cc934",
-  "overview_digest": "7946b6f8df9fab0d456399e9668aa56bb4f825f3ab16c1a1f016f0a70c8e45b3",
+  "overview_commit": "8b870c33e9744cbc8f16f26ae3059d8105887337",
+  "overview_digest": "39b4e6f9a24f4df8c49e15374514f05c56183b9aa1c65e8dd47e89bcfd5ac000",
   "paragraphs": [
+    {
+      "id": "0dd987792595f39ffef0ecac2b22eef76c379c84d88f7c343e12348115f6c27e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the immediate lead-in to [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]]. [[GuoJia|郭嘉]] and [[XunYu|荀彧]] help [[CaoCao|曹操]] sort the field: [[YuanShao|袁绍]] is occupied against [[GongsunZan|公孙瓒]], so Cao Cao should not leave [[LyuBu|吕布]] as an eastern partner for Yuan Shao; [[ZhongYao|钟繇]] then stabilizes [[GuanzhongRegion|关中]] by persuading [[MaTeng|马腾]] and [[HanSui|韩遂]] to submit and send sons to court. The episode's second half turns [[YuanShu|袁术]]'s [[Shouchun|寿春]] self-coronation, [[JiujiangCommandery|九江郡]] renaming, and [[HuainanRegion|淮南]] capital posture into a negative case for [[MingqiLegitimacy|名器合法性]] and [[TitleRealityRestraint|名实相符式名号节制]]: the imperial title outruns capacity and recognition, producing [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] because [[EmperorXianOfHan|汉献帝]] still gives Cao Cao, [[LiuBei|刘备]], [[SunCe|孙策]], Yuan Shao, and Lü Bu a public reason to oppose the claim. This extends [[XingshiqingStrategicAssessment|行势情战略评估]] by making strategic sequencing, rear stability, title reality, and reputational obligation part of the same late-Han judgment problem.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AntiUsurpationCoalitionPressure",
+        "CaoCao",
+        "EmperorXianOfHan",
+        "GongsunZan",
+        "GuanzhongRegion",
+        "GuoJia",
+        "HanSui",
+        "HuainanRegion",
+        "JiujiangCommandery",
+        "LiuBei",
+        "LyuBu",
+        "MaTeng",
+        "MingqiLegitimacy",
+        "RuiqiJiangtouZizhiTongjian",
+        "Shouchun",
+        "SunCe",
+        "TitleRealityRestraint",
+        "XingshiqingStrategicAssessment",
+        "XunYu",
+        "YuanShao",
+        "YuanShu",
+        "ZhongYao",
+        "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+        "zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs"
+      ]
+    },
     {
       "id": "b92d00a234edc209af84bf8ac6021cdd20660b9b641f0a99f267b86e0d2393af",
       "primary_topic": "governance-and-institutions",

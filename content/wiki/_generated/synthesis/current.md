@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 9166811491d42b69993e208db9dc5459d88cc934
-summary: "Podcast Atlas maps durable agency as systems work: AI, markets, governance, culture, science, and education depend on verification, trust, context, legitimacy, and pacing."
-episode_count: 1315
-source_count: 1315
-paragraph_count: 127
+as_of_overview_commit: 8b870c33e9744cbc8f16f26ae3059d8105887337
+summary: "Podcast Atlas maps agency as systems work: AI, markets, governance, history, culture, science, and education depend on verification, trust, legitimacy, context, and pacing."
+episode_count: 1316
+source_count: 1316
+paragraph_count: 128
 topic_count: 8
 ---
 
@@ -49,34 +49,34 @@ The cultural sources use literature, folklore, games, and media forms as tools f
 
 ### Governance and Institutions
 
-Governance is translation work: conquest becomes founding order, law becomes enforceable administration, markets become rule-bound information, and trust becomes an asset and liability. The late-Han branch now starts with title legitimacy and marriage-alliance exposure before Chen family survival, coalition control, Chen state decapitation risk, and Cao Cao's talent absorption under prosecution constraints.
+Governance is translation work: conquest becomes founding order, law becomes enforceable administration, title claims become legitimacy tests, markets become rule-bound information, and trust becomes both asset and liability. The late-Han branch now starts with Yuan Shu's self-coronation, Cao Cao's sequencing and Guanzhong stabilization, and anti-usurpation pressure before Chen family survival, coalition control, Chen state decapitation risk, and talent absorption under prosecution constraints.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-The history input now links late-Han title legitimacy and marriage exposure, late-Han local-order decapitation risk, early Chinese enforceable state systems, and handset-platform ecosystem shifts.
+The history input now links late-Han title legitimacy, strategic sequencing, and marriage exposure; late-Han local-order decapitation risk; early Chinese enforceable state systems; and handset-platform ecosystem shifts.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
 
 ### Psychology and Personal Development
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, and risk discipline matter because confidence and convenience can hide fragile assumptions.
+The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, and role-fit matter because confidence, convenience, and ambition can hide fragile assumptions.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by technological promise.
+Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by a technological promise.
 
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-The work and education sources favor agency with scaffolding: explicit goals, communication, verification, distribution, trust, pacing, and room to learn. Hanji 1017 adds a historical analogy for major commitments: course changes are strongest when staged, evidence-backed, and context-aware rather than driven by light switching.
+The work and education sources favor agency with scaffolding: explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction, but durable capability depends on judgment, evidence, context, designed interaction, and operating systems that preserve human reasoning and career mobility.
 
 - [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design. Evidence: [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], [[EntryLevelAICareerLadderRisk]].
 - [[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding. Evidence: [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[AIShortcutRisk]].

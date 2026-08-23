@@ -38,8 +38,23 @@
       "supporting_wikilinks": [
         "WorkplaceRelationshipBoundaries"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "judgment-needs-fit-between-ambition-and-conditions",
+      "qualifications": [
+        "This is source-scoped to the Hanji 1015 framing; the input's strongest evidence is political judgment rather than clinical psychology."
+      ],
+      "statement": "[[TitleRealityRestraint]] and [[XingshiqingStrategicAssessment]] add a historical self-knowledge case: [[YuanShu]] fails because ambition and imperial identity are not matched to capacity, timing, recognition, or the [[AntiUsurpationCoalitionPressure]] his move creates.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "TitleRealityRestraint",
+        "XingshiqingStrategicAssessment",
+        "YuanShu",
+        "AntiUsurpationCoalitionPressure"
+      ]
     }
   ],
-  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, and risk discipline matter because confidence and convenience can hide fragile assumptions.",
+  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, and role-fit matter because confidence, convenience, and ambition can hide fragile assumptions.",
   "topic_id": "psychology-and-personal-development"
 }

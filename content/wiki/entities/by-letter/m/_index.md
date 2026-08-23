@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6784
+wiki_total_pages: 6792
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1310,6 +1310,9 @@ wiki_pages:
   - key: "MaShaonainaiLihun"
     title: "马少奶奶（《离婚》） / Ma Shaonainai"
     url: "/wiki/entities/mashaonainailihun/"
+  - key: "MaTeng"
+    title: "马腾 / Ma Teng"
+    url: "/wiki/entities/mateng/"
   - key: "Mayi"
     title: "马邑 / Mayi"
     url: "/wiki/entities/mayi/"

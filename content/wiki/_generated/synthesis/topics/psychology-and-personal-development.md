@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-23
-as_of_overview_commit: b584e94806790866a5b885588a74974fcdf2a432
-input_digest: 081b7ac8a2ead60b857527e2482b821c7885a82a8a817b5410f3148def613ab5
+as_of_overview_commit: 8b870c33e9744cbc8f16f26ae3059d8105887337
+input_digest: 1e6904115e2ef4761a852d6390684bc3cabdf57f50bf6addef9b0b9a47f43a45
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, and risk discipline matter because confidence and convenience can hide fragile assumptions.
+The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, and role-fit matter because confidence, convenience, and ambition can hide fragile assumptions.
 
 ## Cross-source Findings
 
@@ -45,3 +45,13 @@ The psychology and personal-development material emphasizes calibrated judgment:
 **Qualifications:**
 
 - The evidence is source-scoped to banking workplace discussions.
+
+### Judgment Needs Fit Between Ambition And Conditions
+
+[[TitleRealityRestraint]] and [[XingshiqingStrategicAssessment]] add a historical self-knowledge case: [[YuanShu]] fails because ambition and imperial identity are not matched to capacity, timing, recognition, or the [[AntiUsurpationCoalitionPressure]] his move creates.
+
+**Evidence:** [[TitleRealityRestraint]], [[XingshiqingStrategicAssessment]], [[YuanShu]], [[AntiUsurpationCoalitionPressure]]
+
+**Qualifications:**
+
+- This is source-scoped to the Hanji 1015 framing; the input's strongest evidence is political judgment rather than clinical psychology.

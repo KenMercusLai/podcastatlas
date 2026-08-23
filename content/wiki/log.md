@@ -10573,3 +10573,11 @@ Added source page for Hanji 1016: 名器 legitimacy, Yuan Shu's unsupported impe
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？
+
+Added source page for Hanji 1015: Cao Cao's sequencing around Lü Bu and Yuan Shao, Xun Yu's Guanzhong assessment, Zhong Yao's successful persuasion of Ma Teng and Han Sui, and Yuan Shu's Shouchun self-coronation as a mismatch of title, capacity, and shared legitimacy. Created Guo Jia, Zhong Yao, Ma Teng, Han Sui, Gongsun Zan, Shouchun, Jiujiang Commandery, Huainan Region, and Anti-Usurpation Coalition Pressure; updated overview, index, Yuan Shu, Cao Cao, Xun Yu, Yuan Shao, Lü Bu, Liu Bei, Sun Ce, Emperor Xian, Guanzhong Region, Mingqi Legitimacy, Title-Reality Restraint, Status Order Backlash, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; the episode's "德不配位" and modern-management lessons are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？](sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Lü Bu/Yuan Shao sequencing, Zhong Yao stabilizing Guanzhong, and Yuan Shu's Shouchun self-coronation as a title-reality and anti-usurpation coalition-pressure failure.
 - [《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择](sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs.md) — 芮淇讲透资治通鉴 episode on 名器 legitimacy, Yuan Shu's unsupported imperial claim, Chen Gui blocking the Yuan Shu-Lü Bu marriage alliance, Han Yin's failed mission, and the Chen family's survival path toward Cao Cao.
 - [《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事](sources/zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq.md) — 芮淇讲透资治通鉴 episode on Chen Deng judging Lü Bu as "轻于去就", Cao Cao's Guangling appointment, the Chen family's staged survival strategy, and the modern choice-making extension.
 - [《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？](sources/zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8.md) — 芮淇讲透资治通鉴 episode on Chen Deng calming Lü Bu, Cao Cao's "饥附饱扬" judgment, Chen Gui's Yuan Shu coalition diagnosis, Han Xian/Yang Feng's switch, and Gao Shun's ignored loyal advice.
@@ -1323,6 +1324,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose Hanji 1015 sequencing advice treats Yuan Shao's Gongsun Zan campaign as a window to remove Lü Bu first.
+- [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official sent to Chang'an in Hanji 1015 to stabilize Guanzhong by persuading Ma Teng, Han Sui, and related western forces.
+- [马腾 / Ma Teng](entities/MaTeng.md) — Major Guanzhong military leader who submits after Zhong Yao's interest-framing letters in Hanji 1015.
+- [韩遂 / Han Sui](entities/HanSui.md) — Major Guanzhong military leader paired with Ma Teng in Hanji 1015's western rear-stabilization branch.
+- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Yuan Shao's northern opponent whose campaign creates Cao Cao's temporary window against Lü Bu in Hanji 1015.
+- [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
+- [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
+- [淮南 / Huainan Region](entities/HuainanRegion.md) — Late-Han regional frame around Yuan Shu's Shouchun base, disambiguated from other Huainan kingdom pages.
 - [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power formally appointed by Emperor Xian's court in Hanji 1016, contrasting accepted Han-court title order with Yuan Shu's self-claimed imperial title.
 - [金尚 / Jin Shang](entities/JinShang.md) — Late-Han official killed after refusing Yuan Shu's taiwei title, used by Hanji 1016 as a title-risk and survival-pacing caution.
 - [韩胤 / Han Yin (late Han)](entities/HanYinLateHan.md) — Yuan Shu envoy whose Lü Bu marriage mission collapses after Chen Gui's warning, ending with execution at Cao Cao's court.
@@ -8111,6 +8120,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Anti-Usurpation Coalition Pressure / 讨逆同盟压力](concepts/AntiUsurpationCoalitionPressure.md) — Hanji 1015 pattern where Yuan Shu's self-coronation forces rivals to oppose him because non-response would look like recognition.
 - [Mingqi Legitimacy / 名器合法性](concepts/MingqiLegitimacy.md) — Hanji 1016 title-and-symbol legitimacy frame where unsupported imperial names, official appointments, and refusal of office alter political risk.
 - [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Hanji 1016 pattern where a marriage alliance would move Yuan Shu's war and legitimacy costs onto Lü Bu and Xuzhou.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
