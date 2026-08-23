@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Enterprise Sales With No Product: Landing a Big Four Customer](sources/enterprise-sales-with-no-product-landing-a-big-four-customer.md) — The SaaS Podcast episode with Christian Lund on Templafy's pre-product enterprise sales, Big Four customer, POC qualification, cloud-to-AI technology resets, and buyer-ready AI messaging.
 - [咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？](sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222.md) — 声动早咖啡 episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland/City Mart successor formats, and short updates on mRNA cancer vaccines, Kling AI, Doubao in Tesla China, and Carlsberg's alcohol-free growth.
 - [EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise](sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise.md) — Data Science With Sam episode with Jim Spignardo of Proarc on enterprise AI pilot failure, Microsoft 365 Copilot adoption, shadow AI, governance, baselines, and dedicated AI ownership.
 - [宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26](sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b.md) — What's Next episode on Unitree's listing surge, humanoid-robot commercialization, repeat-purchase demand, existing-business versus option-value valuation, simulation, and Disney's IP-led robotics model.
@@ -1350,6 +1351,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Templafy](entities/Templafy.md) — Enterprise document automation SaaS company used as a case for pre-product selling, POC discipline, cloud rebuilding, and AI-era positioning.
+- [Christian Lund](entities/ChristianLund.md) — Templafy co-founder explaining enterprise sales before product maturity, "yes, if" POC gating, and AI messaging timing.
+- [Omnidocs](entities/Omnidocs.md) — Older document-automation business whose domain expertise and limits led into the cloud-era Templafy rebuild.
 - [Jim Spignardo](entities/JimSpignardo.md) — Proarc cloud strategy and AI enablement leader explaining Copilot adoption, pilot failure, governance, baselines, and ownership in Data Science With Sam EP48.
 - [Proarc](entities/Proarc.md) — Consulting and enablement company tied to Jim Spignardo's Microsoft 365 Copilot adoption playbook and enterprise AI ownership advice.
 - [The AI Turning Point](entities/TheAITurningPoint.md) — Jim Spignardo book mentioned in EP48 as an AI transformation and change-management reflection.
@@ -6974,7 +6978,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [BLACKPINK](entities/BLACKPINK.md) — Korean entertainment example used to illustrate fan-economy and global consumer-marketing reach.
 - [Farzad Rashidi](entities/FarzadRashidi.md) — Responna co-founder explaining the SaaS-to-service pivot, customer execution gap, and AI visibility workflow.
 - [Responna](entities/Responna.md) — Outreach SaaS turned done-for-you AI visibility service using software, AI, publisher supply, and productized operations.
-- [Omer Khan](entities/OmerKhan.md) — Host of The SaaS Podcast, framing the Responna episode around service as software and outcome-priced delivery.
+- [Omer Khan](entities/OmerKhan.md) — Host of The SaaS Podcast, now linked to episodes on Responna, Skimmer, Happierleads, Featherless AI, and Templafy.
 - [Visme](entities/Visme.md) — Company where Responna began as an internal SEO and outreach tool before becoming a standalone product.
 - [Jeni Britton](entities/JeniBritton.md) — Founder of Jeni's Splendid Ice Creams and Advice Line guest connecting product quality, customer language, and founder control.
 - [Jeni's Splendid Ice Creams](entities/JenisSplendidIceCreams.md) — Ice cream company founded by Jeni Britton, used as operating backdrop for CPG advice.
@@ -8192,7 +8196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tesla](entities/Tesla.md) — EV, autonomous-driving, and battery-format comparison case across investing, FSD/Robotaxi field notes, Musk hard tech, and cylindrical-cell route dependence.
 - [Tether](entities/Tether.md) — Crypto-sector company cited by episode 155 as holding substantial gold, used as a bridge between crypto capital, digital-gold narratives, and gold demand.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
-- [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
+- [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, enterprise sales, distribution, and AI-era SaaS strategy.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
 - [Thibaut-Louis Lucas](entities/ThibautLouisLucas.md) — Founder of Tea Maker and guest discussing failed startups, product validation, and distribution-led SaaS.
 - [Tianjie Jack](entities/TianjieJack.md) — ZhenFund investor discussing GUI thinking, headless software, agent infrastructure, and Token Grant.
@@ -8255,6 +8259,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Enterprise POC Discipline](concepts/EnterprisePOCDiscipline.md) — Enterprise-sales practice of accepting POCs only with explicit proof criteria, budget, timing, buyer intent, and rollout consequences.
+- [Enterprise Customer As Market](concepts/EnterpriseCustomerAsMarket.md) — View that one large enterprise can contain enough internal workflows and teams to justify broad landing and later expansion.
+- [Technology Reset Rebuild](concepts/TechnologyResetRebuild.md) — Strategy of rebuilding a product foundation for a platform shift rather than making the old system look current.
 - [Microsoft 365 Copilot Adoption](concepts/Microsoft365CopilotAdoption.md) — Rollout discipline for moving Copilot from license assignment into governed, measured, role-based workflow adoption.
 - [Shadow AI](concepts/ShadowAI.md) — Employee AI use outside approved channels, treated as both governance risk and unmet workflow-demand signal.
 - [AI Adoption Baseline Measurement](concepts/AIAdoptionBaselineMeasurement.md) — Pre-rollout measurement of current workflows so enterprise AI outcomes can be compared against a real baseline.

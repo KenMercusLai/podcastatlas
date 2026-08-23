@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6901
+wiki_total_pages: 6904
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "ChristianDemocraticUnionGermany"
     title: "Christian Democratic Union (Germany)"
     url: "/wiki/entities/christiandemocraticuniongermany/"
+  - key: "ChristianLund"
+    title: "Christian Lund"
+    url: "/wiki/entities/christianlund/"
   - key: "ChristianStClair"
     title: "Christian St. Clair"
     url: "/wiki/entities/christianstclair/"

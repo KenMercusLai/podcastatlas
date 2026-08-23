@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: c6669769a964bae896abca8b43e8c066c5e16b2d
-summary: "Capability becomes value only through workflows, trust, distribution, governance, operating capacity, evidence, and grounded physical or market systems."
-episode_count: 1342
-source_count: 1342
-paragraph_count: 150
+as_of_overview_commit: c7f5054878ea11b300f197296c3ecd5329245d0d
+summary: "Capability becomes durable value through workflows, buyer proof, distribution, governance, trust, ecosystem timing, and grounded market systems."
+episode_count: 1343
+source_count: 1343
+paragraph_count: 151
 topic_count: 8
 ---
 
@@ -17,11 +17,11 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation.
-- [[AIInferenceCostStructure]], [[AISubscriptionEconomics]], [[ModelProviderToolCompetition]], [[OutcomeBasedAIPricing]], [[ServiceAsSoftware]], [[AIProductFragmentation]], [[AICommercializationPressure]], [[KlingAI]], and [[Doubao]] show that AI product value is constrained by cost, packaging, distribution, and control boundaries even when products such as [[VideoModels]] or in-car assistants find new surfaces.
-- [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
+- Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], and [[EnterprisePOCDiscipline]] show that use cases, grounding, permissions, baselines, guardrails, ownership, proof criteria, and buyer timing decide whether pilots become productivity.
+- [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
 - [[HuaweiNoCarManufacturingBoundary]] shows that a firm can avoid formal manufacturing ownership while still shaping market outcomes through [[HuaweiSmartSelectionCarModel]], [[AutomotiveChannelMigration]], [[HongmengZhixing]], and [[ShenzhenYinwang]].
-- Regulation shapes markets by making costs, demand, and liability legible, from [[EmbodiedCarbonBuildingCode|building-carbon rules]] and low-carbon material sourcing to AI liability, satellite connectivity competition, physical-book platform bridges, and child-safety/privacy tradeoffs.
 - Trust and mission are governance assets only when protected by structures: customer reliability, private standards, benefit trusts, stewardship ownership, AI alignment governance, post-acquisition identity, greenhushing, and growth pace all show that values can attract pressure as well as loyalty.
+- [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved.
 
@@ -29,16 +29,16 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow integration, verification, permissions, product economics, distribution, safety defaults, physical grounding, and domain context. The latest coffee-bean source adds Kling AI revenue growth and Doubao in Tesla China as video and cockpit surfaces where cost and control boundaries still matter.
+AI value depends on workflow integration, verification, permissions, economics, safety defaults, physical grounding, and buyer-ready deployment. The Templafy update adds that cloud and AI resets can require product rebuilds, but control-and-guardrail language still needs explicit proof criteria and customer timing.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
-- Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], and [[AIOperationsRole]] show that use cases, grounding, permissions, baselines, guardrails, and ownership decide whether pilots become productivity. Evidence: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[WorkplaceAIReadinessGap]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].
+- Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], and [[EnterprisePOCDiscipline]] show that use cases, grounding, permissions, baselines, guardrails, ownership, proof criteria, and buyer timing decide whether pilots become productivity. Evidence: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], [[EnterprisePOCDiscipline]], [[Templafy]], [[WorkplaceAIReadinessGap]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].
 
 ### Business and Markets
 
-Business value repeatedly depends on customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, logistics security, valuation discipline, and repeat demand. The Food Republic update adds a restaurant-retail example: meal demand persists, but second-landlord food courts lose fit to chains, direct mall leasing, delivery economics, platform canteens, supermarket meals, and scene-led or higher-end markets.
+Business value repeatedly depends on customer pull, payment proof, distribution, operating capacity, local control, trust, supply-chain leverage, logistics security, valuation discipline, and repeat demand. Templafy adds the enterprise SaaS version: pre-product selling works only with clear budget, timing, proof criteria, and rollout consequences.
 
-- [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[RobotRepurchaseDemand]].
+- [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]].
 
 ### Culture and Media

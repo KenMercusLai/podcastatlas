@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6901
+wiki_total_pages: 6904
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "TelecomItalia"
     title: "Telecom Italia"
     url: "/wiki/entities/telecomitalia/"
+  - key: "Templafy"
+    title: "Templafy"
+    url: "/wiki/entities/templafy/"
   - key: "TempleUniversity"
     title: "Temple University"
     url: "/wiki/entities/templeuniversity/"

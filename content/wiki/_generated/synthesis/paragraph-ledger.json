@@ -68,6 +68,7 @@
       "fdf1e1e37c97df6fd9e632806a8019bba92df1d15004d329e3b6ff14cda13380",
       "4f1ae1f57713579d6857e84929b0f3cfeed28e78ab1b55c1e7dfb0ed3dcc9538",
       "6f54967734b8a88829c8fcea180d262d7b13dce2295c56d59804c209378bd2bf",
+      "08bd6f25a59eafcb69a9d455f3fd4740d35ebba7c8795c139521f46b46ae439e",
       "9d2468cb2e687611f35df5407722be9ce3fab23df121b54b5be641e3dda0df57",
       "67b95ee222ba113a29522f7398607f47bc3b101a012caff65de7c8ed78e6f545",
       "1208808a8d9541e8bf3a3ccb236570251a615ecd25a436e3fb3fdff265e2a387",
@@ -152,10 +153,10 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 150
+    "paragraph_count": 151
   },
-  "overview_commit": "c6669769a964bae896abca8b43e8c066c5e16b2d",
-  "overview_digest": "7acd721893c8632fb1e95c7685fd73a4f78c038ded19f6dfe70be70d9b034c6e",
+  "overview_commit": "c7f5054878ea11b300f197296c3ecd5329245d0d",
+  "overview_digest": "90ea09f215c3216b648bb6cf7d73649a983144b37b1d5e8d77863b7c1255df2f",
   "paragraphs": [
     {
       "id": "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
@@ -2004,6 +2005,28 @@
         "ThreatLocker",
         "ValidatedLearning",
         "ZeroTrustSecurity"
+      ]
+    },
+    {
+      "id": "08bd6f25a59eafcb69a9d455f3fd4740d35ebba7c8795c139521f46b46ae439e",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The Templafy source adds [[ChristianLund]], [[Templafy]], and [[Omnidocs]] as an enterprise SaaS case between [[PreProductSelling]] and scaled buyer discipline. It shows [[TechnologyResetRebuild]] twice: the cloud shift forced a rebuild from the older Omnidocs model, and AI later forced another product-foundation rethink. Its main sales contribution is [[EnterprisePOCDiscipline]] and [[EnterpriseCustomerAsMarket]]: early thought leadership and targeted buyer access could win a global Big Four conversation before product maturity, but small POCs only made sense when budget, timing, proof criteria, and rollout consequences were explicit. The source also qualifies AI-era category messaging: being directionally right about enterprise AI control and guardrails can still lose deals if customers are ready only for nearer-term individual productivity language.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 4,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChristianLund",
+        "EnterpriseCustomerAsMarket",
+        "EnterprisePOCDiscipline",
+        "Omnidocs",
+        "PreProductSelling",
+        "TechnologyResetRebuild",
+        "Templafy"
       ]
     },
     {

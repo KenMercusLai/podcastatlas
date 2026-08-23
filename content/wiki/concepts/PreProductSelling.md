@@ -2,8 +2,8 @@
 title: "Pre-Product Selling"
 type: concept
 tags: [startup, validation, sales, saas]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, socialradarsseason2-dimitri-final, socialradarspod-paulb-final, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
-last_updated: 2026-07-12
+sources: [enterprise-sales-with-no-product-landing-a-big-four-customer, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, socialradarsseason2-dimitri-final, socialradarspod-paulb-final, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+last_updated: 2026-08-24
 ---
 
 # Pre-Product Selling
@@ -20,6 +20,8 @@ Pre-product selling is the practice of testing whether customers will commit bef
 
 [[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds the compliance-workflow version through [[Vanta]]. [[ChristinaCacioppo]] first delivered a [[ManualComplianceMVP]] spreadsheet for [[Segment]], then adapted it for [[Front]], and only then moved the next customer toward a web app. The source shows pre-product selling as paid or customer-valued expert work before software, not only LOIs or landing pages.
 
+[[enterprise-sales-with-no-product-landing-a-big-four-customer]] adds the enterprise thought-leadership version through [[ChristianLund]] and [[Templafy]]. The company sold a cloud-era document-automation thesis before product maturity, using [[Omnidocs]] domain expertise and targeted enterprise access to reach sophisticated buyers. The source also adds a boundary: a pre-product enterprise conversation should become [[EnterprisePOCDiscipline]], not an open-ended small pilot.
+
 ## Key Claims
 - The strongest version asks customers for their top problems before pitching, reducing biased feedback from politeness or founder persuasion.
 - LOIs can show more commitment than verbal interest, but the source treats them as weaker than actual payment.
@@ -33,6 +35,7 @@ Pre-product selling is the practice of testing whether customers will commit bef
 - The method is strongest when the commitment costs the customer something; otherwise it can become another form of polite validation.
 - For critical infrastructure, LOIs should be read as serious but incomplete validation because trust, bank coordination, and migration work still have to happen before production use.
 - For compliance software, a manual artifact can be strong pre-product evidence when customers use it to understand audit gaps and ask for the next version.
+- In enterprise SaaS, thought leadership can open pre-product sales only when it is paired with explicit buyer intent, proof criteria, and rollout consequences.
 
 ## Connections
 - [[PeakAI]], [[MariusMiners]], and [[Antler]] - case where the pattern supported early company formation and funding.
@@ -43,6 +46,7 @@ Pre-product selling is the practice of testing whether customers will commit bef
 - [[PaulBuchheit]], [[CustomerPull]], and [[OutlierDrivenAngelInvesting]] - Buchheit episode branch where LOIs and other sacrifices improve demand evidence.
 - [[ModernTreasury]], [[DimitriDadiomov]], [[MoneyMovementInfrastructure]], and [[TrustHeavyInfrastructureSales]] - Dadiomov episode branch where a serious LOI preceded a long implementation path.
 - [[Vanta]], [[ChristinaCacioppo]], [[SOC2Audit]], [[Segment]], [[Front]], and [[ManualComplianceMVP]] - compliance spreadsheet case where customer work preceded software.
+- [[Templafy]], [[ChristianLund]], [[Omnidocs]], and [[EnterprisePOCDiscipline]] - enterprise document-automation case where thought leadership preceded a mature product.
 - [[CustomerPull]] - demand signal the method tries to detect.
 - [[ProductLedWillingnessToPay]] - stronger payment-based version of commitment.
 - [[FounderEgo]] - risk pattern the method can counter by forcing founders to face customer behavior.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 6901
+wiki_total_pages: 6904
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "OmidKordestani"
     title: "Omid Kordestani"
     url: "/wiki/entities/omidkordestani/"
+  - key: "Omnidocs"
+    title: "Omnidocs"
+    url: "/wiki/entities/omnidocs/"
   - key: "OnDisobedience"
     title: "On Disobedience / 论不服从"
     url: "/wiki/entities/ondisobedience/"

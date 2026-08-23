@@ -9171,6 +9171,10 @@
     "title": "Christian Democratic Union (Germany)",
     "url": "/wiki/entities/christiandemocraticuniongermany/"
   },
+  "ChristianLund": {
+    "title": "Christian Lund",
+    "url": "/wiki/entities/christianlund/"
+  },
   "ChristianStClair": {
     "title": "Christian St. Clair",
     "url": "/wiki/entities/christianstclair/"
@@ -14263,6 +14267,10 @@
     "title": "Enterprise Custom Delivery",
     "url": "/wiki/concepts/enterprisecustomdelivery/"
   },
+  "EnterpriseCustomerAsMarket": {
+    "title": "Enterprise Customer As Market",
+    "url": "/wiki/concepts/enterprisecustomerasmarket/"
+  },
   "EnterpriseDataActivation": {
     "title": "Enterprise Data Activation",
     "url": "/wiki/concepts/enterprisedataactivation/"
@@ -14290,6 +14298,10 @@
   "EnterpriseOwnedModels": {
     "title": "Enterprise Owned Models",
     "url": "/wiki/concepts/enterpriseownedmodels/"
+  },
+  "EnterprisePOCDiscipline": {
+    "title": "Enterprise POC Discipline",
+    "url": "/wiki/concepts/enterprisepocdiscipline/"
   },
   "EnterprisePrearrangedAgents": {
     "title": "Enterprise Prearranged Agents",
@@ -31491,6 +31503,10 @@
     "title": "Omid Kordestani",
     "url": "/wiki/entities/omidkordestani/"
   },
+  "Omnidocs": {
+    "title": "Omnidocs",
+    "url": "/wiki/entities/omnidocs/"
+  },
   "OnDemandApps": {
     "title": "On-Demand Apps",
     "url": "/wiki/concepts/ondemandapps/"
@@ -42183,6 +42199,10 @@
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
   },
+  "TechnologyResetRebuild": {
+    "title": "Technology Reset Rebuild",
+    "url": "/wiki/concepts/technologyresetrebuild/"
+  },
   "TechnologyRightPowerNetwork": {
     "title": "Technology Right Power Network",
     "url": "/wiki/concepts/technologyrightpowernetwork/"
@@ -42218,6 +42238,10 @@
   "TemperateDrinkingSelfControl": {
     "title": "Temperate Drinking Self-Control / 节制饮酒与自我控制",
     "url": "/wiki/concepts/temperatedrinkingselfcontrol/"
+  },
+  "Templafy": {
+    "title": "Templafy",
+    "url": "/wiki/entities/templafy/"
   },
   "TempleUniversity": {
     "title": "Temple University",
@@ -50278,6 +50302,10 @@
   "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask": {
     "title": "E45 孟岩对话李继刚：人何以自处",
     "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+  },
+  "enterprise-sales-with-no-product-landing-a-big-four-customer": {
+    "title": "Enterprise Sales With No Product: Landing a Big Four Customer",
+    "url": "/wiki/sources/enterprise-sales-with-no-product-landing-a-big-four-customer/"
   },
   "ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker": {
     "title": "EP 10: A thought-provoking chat with an actuary and TEDx speaker",

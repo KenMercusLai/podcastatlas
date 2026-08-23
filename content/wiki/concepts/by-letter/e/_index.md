@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5223
+wiki_total_pages: 5226
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "EnterpriseCustomDelivery"
     title: "Enterprise Custom Delivery"
     url: "/wiki/concepts/enterprisecustomdelivery/"
+  - key: "EnterpriseCustomerAsMarket"
+    title: "Enterprise Customer As Market"
+    url: "/wiki/concepts/enterprisecustomerasmarket/"
   - key: "EnterpriseDataActivation"
     title: "Enterprise Data Activation"
     url: "/wiki/concepts/enterprisedataactivation/"
@@ -392,6 +395,9 @@ wiki_pages:
   - key: "EnterpriseOwnedModels"
     title: "Enterprise Owned Models"
     url: "/wiki/concepts/enterpriseownedmodels/"
+  - key: "EnterprisePOCDiscipline"
+    title: "Enterprise POC Discipline"
+    url: "/wiki/concepts/enterprisepocdiscipline/"
   - key: "EnterprisePrearrangedAgents"
     title: "Enterprise Prearranged Agents"
     url: "/wiki/concepts/enterpriseprearrangedagents/"
