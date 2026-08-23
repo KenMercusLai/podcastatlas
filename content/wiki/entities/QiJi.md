@@ -2,7 +2,7 @@
 title: "戚姬 / Qi Ji"
 type: entity
 tags: [person, western-han, court-politics, succession]
-sources: [zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s]
+sources: [zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz, zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s]
 last_updated: 2026-08-23
 ---
 
@@ -14,7 +14,10 @@ The source uses Qi Ji to explain how private favor becomes a succession problem.
 
 That political weakness is central to the source's judgment. Qi Ji can press the heir question, but she lacks the front-court allies and institutional leverage that would make a Liu Ruyi succession stable. The host argues that Liu Bang should either have completed the succession change or taught Qi Ji how to reduce [[LuZhi|吕雉]]'s fear and resentment; instead he leaves her exposed under [[AlternativeHeirProtectionFailure|alternative-heir protection failure]].
 
+[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] shows Qi Ji at the moment Liu Bang gives up the replacement attempt. After [[ShangshanSiHao|商山四皓]] appear with [[LiuYing|刘盈]], Liu Bang tells Qi Ji that the crown prince is hard to shake and that [[LuZhi|吕雉]] will be her master after his death. The episode then adds a behavioral warning: Qi Ji's "鱼藻宫" naming is read as a provocative claim to queenly intimacy that worsens Lu Zhi's hostility.
+
 ## Connections
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[ShangshanSiHao|商山四皓]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[LuZhi|吕雉]], and [[Shijing|《诗经》]] - failed replacement, Liu Bang's warning, and the provocative "鱼藻宫" branch.
 - [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] - source page.
 - [[LiuBang|刘邦]] - favored ruler-partner relationship that gives Qi Ji access but not durable power.
 - [[LiuRuyi|刘如意]] - son and succession beneficiary she tries to advance.

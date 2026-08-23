@@ -27,8 +27,40 @@
         "Android",
         "ChinaHandsetSupplyChain"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "early-han-succession-relied-on-visible-coalitions",
+      "qualifications": [
+        "This is grounded in the Hanji 189 episode's closing treatment of Liu Bang's final succession attempt."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]], [[ZhangLiang]], [[ShusunTong]], and [[ShangshanSiHao]] show that [[LiuBang]] could not replace [[LiuYing]] with [[LiuRuyi]] once avoidance, formal remonstrance, and visible elite reputation made the heir's coalition hard to overturn.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+        "ZhangLiang",
+        "ShusunTong",
+        "ShangshanSiHao",
+        "LiuBang",
+        "LiuYing",
+        "LiuRuyi"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "chenxi-death-credit-remains-source-conflicted",
+      "qualifications": [
+        "The conflict should be preserved as source-scoped until the underlying chronicle passages are reconciled."
+      ],
+      "statement": "[[ZhouBo]], [[FanKuai]], and [[ChenXi]] now carry a contested death-credit detail: the Hanji 189 branch credits Zhou Bo, while the existing Fan Kuai branch credits Fan Kuai.",
+      "status": "contested",
+      "supporting_wikilinks": [
+        "ZhouBo",
+        "FanKuai",
+        "ChenXi"
+      ]
     }
   ],
-  "summary": "The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening. The current bounded input emphasizes early Warring States and Qin institutional execution alongside the modern handset transition from old global leaders to touch-and-app ecosystems and Chinese supply-chain capacity.",
+  "summary": "The historical material treats power as an institutional, infrastructural, and coalition-maintenance process. Warring States and Qin sources connect durable rule to enforceable laws, administrative geography, and social acceptance; the handset-history branch shows technology leadership shifting through standards, operating systems, channels, and supply chains; and the Hanji 189 addition shows early Han succession depending on visible elite support rather than Liu Bang's personal preference alone, while preserving a contested Chen Xi death-credit detail.",
   "topic_id": "history-and-geopolitics"
 }

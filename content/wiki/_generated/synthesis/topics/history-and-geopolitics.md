@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 62bbef78c19b0fc3a60d9fe064058de037b2e6aa
-input_digest: 27fd904f4116c2ffdc6de6dcb94cfbca19ea5fb35e51c03e9b343c0e0c002cd2
+as_of_overview_commit: d3c448c1791d9349d16b47814ab2b1a13cc34d34
+input_digest: e8a19ca861c597464eff282985f63571a314a6b808fbf9002dbda28f2e49283d
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening. The current bounded input emphasizes early Warring States and Qin institutional execution alongside the modern handset transition from old global leaders to touch-and-app ecosystems and Chinese supply-chain capacity.
+The historical material treats power as an institutional, infrastructural, and coalition-maintenance process. Warring States and Qin sources connect durable rule to enforceable laws, administrative geography, and social acceptance; the handset-history branch shows technology leadership shifting through standards, operating systems, channels, and supply chains; and the Hanji 189 addition shows early Han succession depending on visible elite support rather than Liu Bang's personal preference alone, while preserving a contested Chen Xi death-credit detail.
 
 ## Cross-source Findings
 
@@ -35,3 +35,23 @@ The historical material treats power as an institutional and infrastructural pro
 **Qualifications:**
 
 - The evidence is strongest for the handset transition and should not be generalized mechanically to every technology sector.
+
+### Early Han Succession Relied On Visible Coalitions
+
+[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]], [[ZhangLiang]], [[ShusunTong]], and [[ShangshanSiHao]] show that [[LiuBang]] could not replace [[LiuYing]] with [[LiuRuyi]] once avoidance, formal remonstrance, and visible elite reputation made the heir's coalition hard to overturn.
+
+**Evidence:** [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]], [[ZhangLiang]], [[ShusunTong]], [[ShangshanSiHao]], [[LiuBang]], [[LiuYing]], [[LiuRuyi]]
+
+**Qualifications:**
+
+- This is grounded in the Hanji 189 episode's closing treatment of Liu Bang's final succession attempt.
+
+### Chenxi Death Credit Remains Source Conflicted
+
+[[ZhouBo]], [[FanKuai]], and [[ChenXi]] now carry a contested death-credit detail: the Hanji 189 branch credits Zhou Bo, while the existing Fan Kuai branch credits Fan Kuai.
+
+**Evidence:** [[ZhouBo]], [[FanKuai]], [[ChenXi]]
+
+**Qualifications:**
+
+- The conflict should be preserved as source-scoped until the underlying chronicle passages are reconciled.

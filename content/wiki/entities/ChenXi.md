@@ -2,7 +2,7 @@
 title: "陈豨 / Chen Xi"
 type: entity
 tags: [person, western-han, rebellion, frontier]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
+sources: [zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ The episode's military reading is negative. Chen Xi fails to hold Handan and rel
 
 [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] follows Chen Xi after the revolt starts collapsing. Liu Bang defeats him south of Dai county, Chen Xi retreats to [[Canhe|参合]] and joins [[HanWangXin|韩王信]], and he survives the fall of Canhe only temporarily; the episode says he is later defeated by [[FanKuai|樊哙]] near Lingqiu and dies. This makes Chen Xi less a durable alternative ruler than the moving center of a rebellion whose allies are peeled away one branch at a time.
 
+[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] gives a conflicting closing attribution. In its brief cleanup before the succession discussion, the episode says [[ZhouBo|周勃]] pacifies the Dai, Yanmen, and Yunzhong area, pursues to Dangcheng, and kills Chen Xi. The wiki records this as a source conflict with Hanji 182 part 2's Fan Kuai / Lingqiu version rather than choosing between them.
+
 ## Connections
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[ZhouBo|周勃]], and [[ChenXiRebellion|陈豨之乱]] - conflicting attribution in which Zhou Bo kills Chen Xi after northern cleanup.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[Canhe|参合]], [[HanWangXin|韩王信]], and [[FanKuai|樊哙]] - later defeat, retreat, and death branch.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] - source page.
 - [[HanXin|韩信]] - proposer of the inside-outside rebellion design.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》189｜刘邦死前最后一搏](sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz.md) — 芮淇讲透资治通鉴 episode closing Liu Bang's final attempt to replace Liu Ying with Liu Ruyi through Zhang Liang's avoidance, Shusun Tong's remonstrance, Shangshan Sihao's support, and Qi Ji's exposed position after Ying Bu cleanup.
 - [《资治通鉴·汉纪》188｜古代中国的“天下无税”县](sources/zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz.md) — 芮淇讲透资治通鉴 episode completing Ying Bu's defeat, Liu Bang's wounded return to Pei, the Great Wind Song, and permanent tax/corvee exemptions for Pei and Feng.
 - [《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征](sources/zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox.md) — 芮淇讲透资治通鉴 episode on Ying Bu's open rebellion, Xue Gong's upper/middle/lower strategy forecast, Liu Bang replacing him with Liu Chang, and Liu Bang's ill personal campaign after Liu Ying's command risk is rejected.
 - [《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案](sources/zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n.md) — 芮淇讲透资治通鉴 episode on Ying Bu's fear after Peng Yue's death, Ben He's failed concubine-access gambit, the accusation sent to Liu Bang, Xiao He's investigation advice, and Huainan's turn toward rebellion.
@@ -1316,6 +1317,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [商山四皓 / Shangshan Sihao](entities/ShangshanSiHao.md) — Four elderly recluses whose public support for Liu Ying makes Liu Bang abandon the final crown-prince replacement attempt.
+- [刘濞 / Liu Bi (King of Wu)](entities/LiuBiWuKing.md) — Liu Bang's nephew appointed king of early Han Wu after Ying Bu's defeat and the Jing-to-Wu reorganization.
+- [吴国 / Wu Kingdom (early Han)](entities/WuKingdomEarlyHan.md) — Early Han kingdom created from Jing after Ying Bu's defeat and granted to Liu Bi as part of same-surname enfeoffment.
+- [吴臣 / Wu Chen (Changsha king)](entities/WuChenChangshaKing.md) — Changsha king whose envoys lure fleeing Ying Bu toward a supposed Nanyue escape before his death.
 - [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
 - [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — Liu-family replacement named king of Huainan after Ying Bu's title is abolished during the rebellion.
 - [奔鹤 / Ben He](entities/BenHe.md) — Huainan official whose failed attempt to gain favor through Ying Bu's concubine becomes a flight, accusation, investigation, and rebellion trigger.

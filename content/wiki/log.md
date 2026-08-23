@@ -10127,6 +10127,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》189｜刘邦死前最后一搏
+
+Added source page for Hanji 189: Ying Bu's final flight and killing through Wu Chen of Changsha, Zhou Bo's reported Dai/Yanmen/Yunzhong cleanup and source-scoped Chen Xi death credit, Liu Bi's appointment to the reorganized Wu kingdom, Liu Bang's Confucius sacrifice at Lu, and Liu Bang's last failed attempt to replace Liu Ying with Liu Ruyi through Zhang Liang's avoidance, Shusun Tong's remonstrance, and the Shangshan Sihao's visible support. Created Shangshan Sihao, Liu Bi (King of Wu), early Han Wu Kingdom, and Wu Chen (Changsha king); updated overview, index, Liu Bang, Liu Ying, Liu Ruyi, Qi Ji, Lu Zhi, Zhang Liang, Shusun Tong, Ying Bu, Changsha Kingdom, Chen Xi, Zhou Bo, Same-Surname King Enfeoffment, Alternative Heir Protection Failure, Affection-Driven Succession Risk, and Favorite-Driven Heir Displacement. Flagged a source conflict: Hanji 189 credits Zhou Bo with killing Chen Xi at Dangcheng, while the existing Hanji 182/Fan Kuai branch credits Fan Kuai near Lingqiu.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》188｜古代中国的“天下无税”县
 
 Added source page for Hanji 188: Ying Bu's final defeat after Liu Bang waits for Qi reinforcements, Cao Shen/Li Shang/Guan Ying's coordinated attack, Liu Bang's wound and return to Pei, the Great Wind Song, Pei's permanent tax/corvee exemption as a Tangmu place, and Feng's later inclusion after ministers plead past the old Yong Chi grievance. Created Imperial Home-County Tax Exemption; updated overview, index, Liu Bang, Ying Bu, Pei County, Feng County, Tangmu Yi, Cao Shen, Guan Ying, Li Shang, Liu Jiao, Liu Fei, Fan Kuai, Xiahou Ying, Yong Chi, Huainan Kingdom, Zhang Liang, Chu Kingdom, and Qi Kingdom. No settled contradiction found; the source reinforces Hanji 187's bounded-strategy reading of Ying Bu and qualifies Tangmu Yi by showing exemption rather than revenue assignment.
@@ -10509,6 +10513,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征
 
 Added source page for Hanji 187: Ying Bu's open rebellion after Han Xin and Peng Yue, Xue Gong's upper/middle/lower strategy forecast, Liu Bang's abolition of Ying Bu's title and appointment of Liu Chang as Huainan king, Liu Bang's rejected plan to send crown prince Liu Ying, Lu Zhi's intervention, Zhang Liang's sickbed sendoff, and Ying Bu's early tactical success against divided Chu defenses. Created Xue Gong (Han adviser) and Liu Chang (Huainan king); updated overview, index, Ying Bu, Liu Bang, Huainan Kingdom, Liu Ying, Lu Zhi, Xiahou Ying, Zhang Liang, Crown-Prince Command Risk, Xingshiqing Strategic Assessment, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 186's fear-and-investigation chain while limiting Ying Bu's threat through Xue Gong's lower-strategy diagnosis.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

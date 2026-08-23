@@ -2,7 +2,7 @@
 title: "周勃 / Zhou Bo"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-23
 ---
 
@@ -24,7 +24,10 @@ His source role is therefore less a developed biography than an internal-morale 
 
 [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] adds a post-founding suppression role. Zhou Bo attacks [[Mayi|马邑]] and helps press [[HanWangXin|韩王信]] with Chai Wu during the [[ChenXiRebellion|陈豨之乱]] cleanup. The episode's note that Mayi is slaughtered after capture puts Zhou Bo's branch inside the harsher coercive side of Liu Bang's northern campaign.
 
+[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] gives Zhou Bo a stronger version of that cleanup role, saying he pacifies Dai, Yanmen, and Yunzhong, pursues to Dangcheng, and kills [[ChenXi|陈豨]]. This conflicts with the Hanji 182 part 2 / [[FanKuai|樊哙]] attribution, so the wiki keeps it as a source-scoped variant.
+
 ## Connections
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[ChenXi|陈豨]], and [[ChenXiRebellion|陈豨之乱]] - source-scoped variant crediting Zhou Bo with Chen Xi's death.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[Mayi|马邑]], [[HanWangXin|韩王信]], and [[ChenXiRebellion|陈豨之乱]] - northern suppression role and Mayi reconquest.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]], [[ChaiWu|柴武]], [[GaixiaBattle|垓下之战]], and [[LayeredDepthDefense|纵深分层防御]] - third-line command in Han Xin's final battle formation.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[GuanYing|灌婴]], and [[FanKuai|樊哙]] - Liu Bang-side figures in the Hanzhong reaction scene.

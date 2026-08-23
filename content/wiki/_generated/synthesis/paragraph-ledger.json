@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0691494221c680033e22d2d8d9d417ba4612daf72a198ccf6ed5cc1f340e3032",
       "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
       "1c586d4c3ba4e610219271aaa9cf7ed27268a2c448a870be3b0674762bc38c54",
       "eeed228b443ab51eb6510a7e08942a965b7cc44aa817e1a025225acb1b2f77da",
@@ -123,11 +124,43 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 121
+    "paragraph_count": 122
   },
-  "overview_commit": "555216936b5ee872169925a8548dbc421ab22f3b",
-  "overview_digest": "de063b10378196601972910f649f32c364d054bc6e3a7b7dfe8b08b427861f15",
+  "overview_commit": "d3c448c1791d9349d16b47814ab2b1a13cc34d34",
+  "overview_digest": "a2fb99c8de7141003e9943011fc0ff15a57ddec53b222889a08d81d4314cb469",
   "paragraphs": [
+    {
+      "id": "0691494221c680033e22d2d8d9d417ba4612daf72a198ccf6ed5cc1f340e3032",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that closes [[LiuBang|刘邦]]'s final attempt to replace [[LiuYing|刘盈]] with [[LiuRuyi|刘如意]] after the [[YingBu|英布 / 黥布]] cleanup. It adds [[ShangshanSiHao|商山四皓]], [[LiuBiWuKing|刘濞]], [[WuKingdomEarlyHan|吴国 / Wu Kingdom (early Han)]], and [[WuChenChangshaKing|吴臣 / Wu Chen (Changsha king)]], while extending [[QiJi|戚姬 / 戚夫人]], [[LuZhi|吕雉]], [[ZhangLiang|张良]], [[ShusunTong|叔孙通]], [[AlternativeHeirProtectionFailure|备位继承人保护失灵]], [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]], [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]], and [[SameSurnameKingEnfeoffment|同姓王分封]]. Its core synthesis is that Liu Bang's late personal preference cannot override an established heir once avoidance, formal remonstrance, and visible scholar reputation converge; the same episode also flags a source conflict over whether [[ZhouBo|周勃]] or [[FanKuai|樊哙]] gets credit for [[ChenXi|陈豨]]'s final death.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AffectionDrivenSuccessionRisk",
+        "AlternativeHeirProtectionFailure",
+        "ChenXi",
+        "FanKuai",
+        "FavoriteDrivenHeirDisplacement",
+        "LiuBang",
+        "LiuBiWuKing",
+        "LiuRuyi",
+        "LiuYing",
+        "LuZhi",
+        "QiJi",
+        "RuiqiJiangtouZizhiTongjian",
+        "SameSurnameKingEnfeoffment",
+        "ShangshanSiHao",
+        "ShusunTong",
+        "WuChenChangshaKing",
+        "WuKingdomEarlyHan",
+        "YingBu",
+        "ZhangLiang",
+        "ZhouBo",
+        "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz"
+      ]
+    },
     {
       "id": "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
       "primary_topic": "governance-and-institutions",

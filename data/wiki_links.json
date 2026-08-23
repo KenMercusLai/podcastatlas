@@ -25527,6 +25527,10 @@
     "title": "刘备 / Liu Bei",
     "url": "/wiki/entities/liubei/"
   },
+  "LiuBiWuKing": {
+    "title": "刘濞 / Liu Bi (King of Wu)",
+    "url": "/wiki/entities/liubiwuking/"
+  },
   "LiuBinyan": {
     "title": "刘彬晏 / Liu Binyan",
     "url": "/wiki/entities/liubinyan/"
@@ -37943,6 +37947,10 @@
     "title": "上郡 / Shangjun",
     "url": "/wiki/entities/shangjun/"
   },
+  "ShangshanSiHao": {
+    "title": "商山四皓 / Shangshan Sihao",
+    "url": "/wiki/entities/shangshansihao/"
+  },
   "Shangshu": {
     "title": "《尚书》 / Shangshu",
     "url": "/wiki/entities/shangshu/"
@@ -45731,6 +45739,10 @@
     "title": "武臣 / Wu Chen",
     "url": "/wiki/entities/wuchen/"
   },
+  "WuChenChangshaKing": {
+    "title": "吴臣 / Wu Chen (Changsha king)",
+    "url": "/wiki/entities/wuchenchangshaking/"
+  },
   "WuChengen": {
     "title": "吴承恩",
     "url": "/wiki/entities/wuchengen/"
@@ -45766,6 +45778,10 @@
   "WuKai": {
     "title": "Wu Kai / 吴恺",
     "url": "/wiki/entities/wukai/"
+  },
+  "WuKingdomEarlyHan": {
+    "title": "吴国 / Wu Kingdom (early Han)",
+    "url": "/wiki/entities/wukingdomearlyhan/"
   },
   "WuLiande": {
     "title": "Wu Liande / 伍连德",
@@ -51974,6 +51990,10 @@
   "zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz": {
     "title": "《资治通鉴·汉纪》188｜古代中国的“天下无税”县",
     "url": "/wiki/sources/zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz/"
+  },
+  "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz": {
+    "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

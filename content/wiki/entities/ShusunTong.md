@@ -2,7 +2,7 @@
 title: "叔孙通 / Shusun Tong"
 type: entity
 tags: [person, ritual, chu-han, western-han]
-sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ The episode stresses his pragmatism. Shusun Tong says rites and music change by 
 
 [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] completes the ritual proposal at [[ChanglePalace|长乐宫]]. Shusun Tong's trained procedure orders kings, officials, guards, toasts, silence, and censorial discipline so effectively that Liu Bang feels imperial authority as a visible hierarchy. The same source also narrows the judgment against him: the ritual is useful statecraft, but [[YangXiong|扬雄]] and [[Fayan|《法言》]] make Shusun Tong a case for [[MotiveBasedTalentEvaluation|动机导向的才干评价]] because his talent serves court usability and rulerly awe more than a full Confucian restoration.
 
+[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] adds Shusun Tong's succession remonstrance. When [[LiuBang|刘邦]] tries again to replace [[LiuYing|刘盈]] with [[LiuRuyi|刘如意]], Shusun Tong uses the failures of disrupted or mishandled succession to argue that the crown prince is the root of the realm. The episode makes his flexibility bounded: the ritual specialist who adapted to Liu Bang's court still refuses to cooperate with a late heir change he sees as state-threatening.
+
 ## Connections
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], and [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - death-facing remonstrance against replacing the crown prince.
 - [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ChanglePalace|长乐宫]], [[LiAsPoliticalOrder|礼制政治秩序]], [[PowerEtiquetteReading|权力礼仪细读]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court ritual as both administrative order and monarchic distance.
 - [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] - court hierarchy and ritual training after banquet disorder.
 - [[LiuBang|刘邦]] - ruler whose imperial accession Shusun Tong helps ritualize.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6748
+wiki_total_pages: 6752
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1370,6 +1370,9 @@ wiki_pages:
   - key: "ShangyeJiushiZheyang"
     title: "商业就是这样"
     url: "/wiki/entities/shangyejiushizheyang/"
+  - key: "ShangshanSiHao"
+    title: "商山四皓 / Shangshan Sihao"
+    url: "/wiki/entities/shangshansihao/"
   - key: "Shangyu"
     title: "商於 / Shangyu"
     url: "/wiki/entities/shangyu/"
