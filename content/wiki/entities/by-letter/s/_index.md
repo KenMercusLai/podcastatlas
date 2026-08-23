@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6908
+wiki_total_pages: 6913
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "SuLinWong"
     title: "Su-Lin Wong"
     url: "/wiki/entities/sulinwong/"
+  - key: "SubCom"
+    title: "SubCom"
+    url: "/wiki/entities/subcom/"
   - key: "Substack"
     title: "Substack"
     url: "/wiki/entities/substack/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6908
+wiki_total_pages: 6913
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "BakerLab"
     title: "Baker Lab"
     url: "/wiki/entities/bakerlab/"
+  - key: "BalticSea"
+    title: "Baltic Sea"
+    url: "/wiki/entities/balticsea/"
   - key: "BambuLab"
     title: "Bambu Lab / 拓竹科技"
     url: "/wiki/entities/bambulab/"

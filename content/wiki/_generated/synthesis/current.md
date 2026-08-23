@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: c7f5054878ea11b300f197296c3ecd5329245d0d
-summary: "Capability becomes durable value through workflows, buyer proof, distribution, governance, trust, ecosystem timing, and grounded market systems."
-episode_count: 1343
-source_count: 1343
-paragraph_count: 151
+as_of_overview_commit: f841e0e2c9487971d0474bb36e3d8fe7bd3befc4
+summary: "Capability becomes durable value through workflows, buyer proof, governance, trust, grounded evidence, market systems, and resilient infrastructure."
+episode_count: 1346
+source_count: 1346
+paragraph_count: 152
 topic_count: 8
 ---
 
@@ -19,8 +19,8 @@ topic_count: 8
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation.
 - Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], and [[EnterprisePOCDiscipline]] show that use cases, grounding, permissions, baselines, guardrails, ownership, proof criteria, and buyer timing decide whether pilots become productivity.
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
-- [[HuaweiNoCarManufacturingBoundary]] shows that a firm can avoid formal manufacturing ownership while still shaping market outcomes through [[HuaweiSmartSelectionCarModel]], [[AutomotiveChannelMigration]], [[HongmengZhixing]], and [[ShenzhenYinwang]].
 - Trust and mission are governance assets only when protected by structures: customer reliability, private standards, benefit trusts, stewardship ownership, AI alignment governance, post-acquisition identity, greenhushing, and growth pace all show that values can attract pressure as well as loyalty.
+- [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved.
@@ -29,54 +29,54 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow integration, verification, permissions, economics, safety defaults, physical grounding, and buyer-ready deployment. The Templafy update adds that cloud and AI resets can require product rebuilds, but control-and-guardrail language still needs explicit proof criteria and customer timing.
+AI value depends on workflow integration, verification, permissions, product economics, safety defaults, physical grounding, and buyer-ready deployment.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], and [[EnterprisePOCDiscipline]] show that use cases, grounding, permissions, baselines, guardrails, ownership, proof criteria, and buyer timing decide whether pilots become productivity. Evidence: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], [[EnterprisePOCDiscipline]], [[Templafy]], [[WorkplaceAIReadinessGap]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].
 
 ### Business and Markets
 
-Business value repeatedly depends on customer pull, payment proof, distribution, operating capacity, local control, trust, supply-chain leverage, logistics security, valuation discipline, and repeat demand. Templafy adds the enterprise SaaS version: pre-product selling works only with clear budget, timing, proof criteria, and rollout consequences.
+Business value depends on customer pull, payment proof, distribution, operating capacity, local control, trust, supply-chain leverage, valuation discipline, and repeat demand.
 
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]].
 
 ### Culture and Media
 
-The cultural sources use literature, folklore, games, film, and media forms to examine politics, identity, evidence, agency, and public meaning rather than treating works only as entertainment objects.
+Cultural sources use literature, folklore, games, film, and media forms to examine politics, identity, evidence, agency, and public meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
 ### Governance and Institutions
 
-Governance translates power, markets, platforms, enterprise AI, finance, trust, and public infrastructure into enforceable rules, legitimacy, liability, standards, and operating constraints. Good governance can enable adoption, but weak structures turn trust and mission into liabilities.
+Governance turns power, markets, platforms, enterprise AI, finance, trust, and public infrastructure into enforceable rules, legitimacy, liability, standards, and operating constraints.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-The history and geopolitics sources show durable power emerging from legitimacy, relocation, institutions, alliances, adviser judgment, enforceable systems, and ecosystem shifts rather than from victory or technology alone.
+History and geopolitics now connect state capacity, legitimacy, alliances, adviser judgment, technology ecosystems, and resilient physical internet infrastructure.
 
+- [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
-- [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
 
 ### Psychology and Personal Development
 
-The psychology material emphasizes calibrated judgment: trust, identity, status, uncertainty, risk sizing, role fit, and emotional interpretation matter because confidence and market excitement can hide fragile assumptions.
+Psychology and personal-development claims emphasize calibrated judgment, trust, authenticity, uncertainty, boundaries, risk discipline, role fit, status sensitivity, and emotional interpretation.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, verification, cost, and implementation remain visible instead of being replaced by technical promise.
+Science, health, and climate claims stay credible when evidence, expert judgment, physical constraints, regulation, verification, cost, and implementation remain visible.
 
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-Work, education, and social practice change when tools are translated into workflows, ownership, baselines, rights, learning effort, context practice, and human responsibility rather than treated as capability claims alone.
+Work, education, and social practice change when tools are translated into workflows, ownership, baselines, rights, learning effort, context practice, and human responsibility.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

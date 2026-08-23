@@ -2,11 +2,13 @@
 title: "Digital Infrastructure War Risk"
 type: concept
 tags: [infrastructure, geopolitics, cloud, ai]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260820-tech-pod-128-tech-20260820-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Digital Infrastructure War Risk
+
+[[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]] adds a submarine-cable version of the risk. [[ErinMurphy]] explains that [[UnderseaDataCables]] carry most global internet and telecom traffic plus large financial flows, so sabotage, vendor trust, landing-point equipment, and route redundancy can become security issues even when most cable cuts are accidental, natural, or wear-related.
 
 Digital infrastructure war risk is the possibility that data centers, submarine cables, internet exchange points, cloud regions, AI compute clusters, and nearby power infrastructure become explicit targets or pressure points in a military conflict. [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] uses the Iran-related conflict to argue that servers are no longer just an invisible background for the internet; they are physical assets with addresses, power draw, cooling needs, staff, and strategic value.
 
@@ -17,6 +19,7 @@ The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] threa
 [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the private-vendor targeting version. [[PareshDave]] says [[Iran]]-linked threats named U.S. technology companies with Middle East infrastructure, and the episode discusses reported attacks on [[AmazonWebServices|AWS]] data centers whose customers include the [[USDepartmentOfDefense|U.S. military]]. This turns [[DualUseTechInfrastructureTargeting]] into a specific mechanism inside the broader war-risk frame.
 
 ## Key Claims
+- Submarine cables add a wide-area routing layer to war risk because high-impact disruption can occur outside data centers or cloud regions.
 - Digital infrastructure has become basic social and commercial infrastructure, so disruption can affect communication, finance, work, and AI-assisted production.
 - Data centers are visible in practice because large buildings, power demand, network links, and satellite imagery make them hard to hide.
 - The more AI compute becomes production capacity, the more [[AIComputeContinuity]] resembles factory, power-grid, or logistics continuity.
@@ -26,6 +29,7 @@ The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] threa
 - Private technology infrastructure can become targetable when cloud, AI, chips, and platform services are embedded in military or intelligence operations.
 
 ## Connections
+- [[UnderseaDataCables]], [[CableNetworkResilience]], and [[CableLandingPointSecurity]] - submarine-cable infrastructure and landing-point trust branch added by Marketplace Tech.
 - [[DataCenterPhysicalResilience]] — facility-level resilience against attack and recovery constraints.
 - [[WarAwareDisasterRecovery]] — business-continuity planning under active conflict.
 - [[RegionalNetworkTopologyRisk]] — geographic and network-path exposure.

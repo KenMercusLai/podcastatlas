@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | Why the Trump administration plans to boost funding for subsea cables
+
+Added source page for Marketplace Tech episode on undersea data cables as strategic internet and financial infrastructure, Trump administration funding for Caribbean and Central American cable replacement, hyperscaler ownership, trusted networks, landing-point security, sabotage ambiguity, and redundancy. Created pages for Erin Murphy, SubCom, Central America, Baltic Sea, Taiwan Strait, Undersea Data Cables, Trusted Network Geopolitics, Cable Landing Point Security, and Cable Network Resilience; updated overview, index, Marketplace Tech, United States, Donald Trump, China, Russia, Caribbean, AWS, Microsoft, Google, Meta, Digital Infrastructure War Risk, Regional Network Topology Risk, and Asymmetric Infrastructure Attack. No direct contradiction found; the source keeps sabotage risk low while treating cable resilience as high-impact infrastructure planning.
+
 ## [2026-08-24] ingest | Bombs and bombshells: Zelensky under pressure
 
 Added source page for The Intelligence episode on Volodymyr Zelensky under Russian air-war, election, corruption, and export pressure; China's mental-health treatment and counseling-regulation gap; and PAW Patrol as children's media values debate and child competence fantasy. Created pages for Sarah Wu, Operation Forrest Gump, Wartime Election Constraint, Ukraine Export Chokepoint, China Mental Health Access Gap, Mental Health Service Regulation Gap, Children's Media Values Debate, and Child Competence Wish Fulfillment; updated overview, index, The Intelligence, Economist Podcasts, Ukraine, Russia, China, Kyiv, Volodymyr Zelensky, Mykhailo Fedorov, Oleksandr Syrskyi, Oliver Carroll, Andrew Miller, Jason Palmer, National Health Commission of China, PAW Patrol, Spin Master, Air Defense Saturation, Wartime Leadership Accountability, Ukraine Military Command Reform, Therapy Relationship and Boundaries, Mental Health Crisis Intervention Boundary, and Listening Therapy Boundary. No direct contradiction found; Fedorov and Syrskyi spellings are normalized to existing canonical pages.
@@ -10792,6 +10796,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？
 
 Added source page for a 声动早咖啡 coffee-bean episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland and City Mart successor formats, platform/supermarket foodservice, and short updates on Moderna/Merck personalized mRNA cancer vaccines, Kuaishou's Kling AI, Tesla China/Doubao/Volcengine, and Carlsberg's alcohol-free beer and soft-drink growth. Created pages for Moderna, Kling AI, Volcengine, Skyland Food Court, and Non-Alcoholic Beer Growth; updated overview, index, ShengdongZaokafei, FoodRepublic, FoodCourtSecondLandlord, ShoppingCenterRestaurantization, MallFoodCourtDecline, SceneLedFoodMarket, CityMart, MeituanHuanxiongShitang, PlatformCanteen, InternalCanteenFoodCourtOperation, ChainRestaurantStandardization, OffPremiseRestaurantCommerce, Kuaishou, VideoModels, Doubao, Tesla, Merck, CancerVaccinePlatform, and Carlsberg. No direct contradiction found; the source reinforces the existing 大食代 analysis while adding delivery-platform margin pressure and successor-operator details.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

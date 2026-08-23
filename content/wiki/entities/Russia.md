@@ -2,11 +2,13 @@
 title: "Russia"
 type: entity
 tags: [country, geopolitics, security, space, crypto]
-sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+sources: [tech-20260820-tech-pod-128-tech-20260820-tech-pod-128, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
 last_updated: 2026-08-24
 ---
 
 # Russia
+
+[[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]] adds Russia to the undersea-cable risk branch in two source-scoped ways. [[ErinMurphy]] names Russia-linked vendors as a possible national-security concern for network equipment, and the episode cites concerns involving Russian ships and cables near the [[TaiwanStrait]] while keeping attribution uncertain.
 
 [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds Russia as the limiting case for economic interdependence and European integration optimism. The source argues that Europe's earlier energy dependence on Russia did not stop the Russia-Ukraine war, and that postwar economic decoupling shows how quickly trade ties can become politically severed under security pressure.
 
@@ -37,6 +39,7 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 [[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] extends that pressure into a more explicit economic-targeting frame. [[OliverCarroll]] says Russia's attacks have moved beyond port infrastructure toward ships, warehouses, and civilian businesses, making [[UkraineExportChokepoint]] and [[AirDefenseSaturation]] linked constraints rather than separate military and trade problems.
 
 ## Connections
+- [[UnderseaDataCables]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], and [[TaiwanStrait]] - undersea-cable trust and ambiguous maritime-risk branch added by Marketplace Tech.
 - [[EuropeanIntegrationWarPrevention]], [[Ukraine]], and [[MacroNarrativeMicroLifeGap]] - energy, war, and lived-relationship qualifications added by episode 139.
 - [[RussianEmpire]], [[PeterTheGreat]], [[VitusBering]], [[FirstKamchatkaExpedition]], [[GreatNorthernExpedition]], [[Kamchatka]], [[Okhotsk]], [[Alaska]], [[RussianNorthPacificExpansion]], and [[ExplorationToExtractionPipeline]] - eighteenth-century imperial exploration and North Pacific expansion branch added by 蜜獾吃书.
 - [[Shahed136]], [[LowCostDroneWarfare]], [[DroneDecoyEconomics]], [[DroneDefenseEconomics]], and [[CounterDroneLayeredDefense]] - drone and decoy branch added by Marketplace Tech.

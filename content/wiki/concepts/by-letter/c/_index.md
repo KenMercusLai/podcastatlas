@@ -6,11 +6,17 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5235
+wiki_total_pages: 5239
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
     url: "/wiki/concepts/cabincrewwork/"
+  - key: "CableLandingPointSecurity"
+    title: "Cable Landing Point Security"
+    url: "/wiki/concepts/cablelandingpointsecurity/"
+  - key: "CableNetworkResilience"
+    title: "Cable Network Resilience"
+    url: "/wiki/concepts/cablenetworkresilience/"
   - key: "CadaverTradeAnatomyFear"
     title: "Cadaver Trade And Anatomy Fear / 尸体贸易与解剖恐惧"
     url: "/wiki/concepts/cadavertradeanatomyfear/"

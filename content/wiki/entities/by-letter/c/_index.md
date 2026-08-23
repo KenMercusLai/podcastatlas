@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6908
+wiki_total_pages: 6913
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "CentersForMedicareAndMedicaidServices"
     title: "Centers for Medicare & Medicaid Services"
     url: "/wiki/entities/centersformedicareandmedicaidservices/"
+  - key: "CentralAmerica"
+    title: "Central America"
+    url: "/wiki/entities/centralamerica/"
   - key: "CentralBankOfBrazil"
     title: "Central Bank of Brazil"
     url: "/wiki/entities/centralbankofbrazil/"

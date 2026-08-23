@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5235
+wiki_total_pages: 5239
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "TrustedFlaggerSystem"
     title: "Trusted Flagger System"
     url: "/wiki/concepts/trustedflaggersystem/"
+  - key: "TrustedNetworkGeopolitics"
+    title: "Trusted Network Geopolitics"
+    url: "/wiki/concepts/trustednetworkgeopolitics/"
   - key: "TruthAgainstAbsurdPower"
     title: "Truth Against Absurd Power"
     url: "/wiki/concepts/truthagainstabsurdpower/"

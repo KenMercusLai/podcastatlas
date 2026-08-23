@@ -3,18 +3,29 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-08-23
-as_of_overview_commit: 35610ae9e4403f5b7fe6a013ac858cd8369dece2
-input_digest: c1b38d2c4c2d9f8356621a0d1805b16f23e8fe92feb53acc527265ece7193423
+last_updated: 2026-08-24
+as_of_overview_commit: f841e0e2c9487971d0474bb36e3d8fe7bd3befc4
+input_digest: ad5c01b061c0f9e0cf8f9aa7ab21c92e9291f6ac99fb2cc9dc00c0166803b566
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input now links eleven kinds of historical change: Hanji 1002 shows late-Han legitimacy as both a trap for Yuan Shu and a window for Cao Cao; Hanji 1003-1004 show Cao Cao's court access and relocation as condition-reading, with Dong Zhao clearing Yang Feng before ruined Luoyang becomes a Xu relocation plan and Sun Jing supplying maneuver in Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence; Hanji 1015-1016 show title order and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input now links contemporary infrastructure strategy with older state-capacity and legitimacy patterns. The Marketplace Tech undersea-cable source shows physical internet routes, landing points, supplier trust, repair capacity, and route redundancy becoming geopolitical terrain in U.S.-China competition while keeping sabotage risk qualified as low probability. Hanji 1002 shows late-Han legitimacy as both a trap for Yuan Shu and a window for Cao Cao; Hanji 1003-1004 show Cao Cao's court access and relocation as condition-reading, with Dong Zhao clearing Yang Feng before ruined Luoyang becomes a Xu relocation plan and Sun Jing supplying maneuver in Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence; Hanji 1015-1016 show title order and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
+
+### Digital Infrastructure Is Geopolitical Terrain
+
+[[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
+
+**Evidence:** [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]]
+
+**Qualifications:**
+
+- This claim is source-scoped to the Marketplace Tech episode with Erin Murphy on subsea cable funding and risk.
+- The source qualifies sabotage as low probability and says most cable damage comes from accidents, natural causes, or wear, so the geopolitical claim is about resilience planning and trusted routes rather than proof of frequent hostile action.
 
 ### Late Han Control Requires Relocation And Maneuver
 

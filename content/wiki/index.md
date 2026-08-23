@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why the Trump administration plans to boost funding for subsea cables](sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128.md) — Marketplace Tech episode with Erin Murphy on undersea data cables, hyperscaler ownership, U.S. funding for Caribbean and Central American cable replacement, trusted networks, landing-point security, sabotage ambiguity, and redundancy.
 - [Bombs and bombshells: Zelensky under pressure](sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0.md) — The Intelligence episode on Zelensky under Russian, election, corruption, and export pressure; China's mental-health access gap; and PAW Patrol as children's media values debate and competence fantasy.
 - [EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01](sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr.md) — Talk三联 episode on AI workplace anxiety, token spending, editorial AI translation, commercialization pressure, AI productivity ratchets, human-scale AI use, and non-algorithmic capabilities.
 - [Enterprise Sales With No Product: Landing a Big Four Customer](sources/enterprise-sales-with-no-product-landing-a-big-four-customer.md) — The SaaS Podcast episode with Christian Lund on Templafy's pre-product enterprise sales, Big Four customer, POC qualification, cloud-to-AI technology resets, and buyer-ready AI messaging.
@@ -1353,6 +1354,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Erin Murphy](entities/ErinMurphy.md) — Expert explaining undersea cables as strategic internet, financial, and national-security infrastructure.
+- [SubCom](entities/SubCom.md) — Cable-infrastructure company named as a possible trusted-network participant in the Marketplace Tech subsea-cable episode.
+- [Central America](entities/CentralAmerica.md) — Region paired with the Caribbean in the Trump administration undersea-cable funding plan.
+- [Baltic Sea](entities/BalticSea.md) — Maritime region used as an example of ambiguous subsea-cable incident attribution.
+- [Taiwan Strait](entities/TaiwanStrait.md) — Maritime region where cable incidents and ship concerns illustrate topology and sabotage ambiguity.
 - [Sarah Wu](entities/SarahWu.md) — The Intelligence contributor explaining China's mental-health access, regulation, and social-stability tensions.
 - [Operation Forrest Gump](entities/OperationForrestGump.md) — Anti-corruption operation in the source alleging money laundering linked to bail for officials charged in earlier investigations.
 - [李维 / Li Wei (Sanlian)](entities/LiWeiSanlian.md) — Talk三联 EP275 speaker framing AI tool use through token spend, team adoption, productivity, sales, and human judgment.
@@ -8265,6 +8271,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Undersea Data Cables](concepts/UnderseaDataCables.md) — Submarine fiber-optic infrastructure carrying most global data and financial traffic, now treated as strategic infrastructure.
+- [Trusted Network Geopolitics](concepts/TrustedNetworkGeopolitics.md) — Infrastructure strategy linking cable funding, supplier trust, route choice, and U.S.-China competition.
+- [Cable Landing Point Security](concepts/CableLandingPointSecurity.md) — Security layer around cable landing stations, equipment, software, vendors, and operational control.
+- [Cable Network Resilience](concepts/CableNetworkResilience.md) — Route diversity and rerouting capacity that let subsea cable systems absorb damage or sabotage.
 - [Wartime Election Constraint](concepts/WartimeElectionConstraint.md) — Barriers to elections under martial law when wartime legitimacy collides with legal, logistical, and public-support limits.
 - [Ukraine Export Chokepoint](concepts/UkraineExportChokepoint.md) — War-economic pressure where attacks on ports, ships, and harvest logistics threaten GDP and state capacity.
 - [China Mental Health Access Gap](concepts/ChinaMentalHealthAccessGap.md) — Gap between rising need and shortages, high costs, uneven public understanding, and limited service capacity in China.

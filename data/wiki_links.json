@@ -5415,6 +5415,10 @@
     "title": "Balance-Sheet Macro Analysis",
     "url": "/wiki/concepts/balancesheetmacroanalysis/"
   },
+  "BalticSea": {
+    "title": "Baltic Sea",
+    "url": "/wiki/entities/balticsea/"
+  },
   "BambuLab": {
     "title": "Bambu Lab / 拓竹科技",
     "url": "/wiki/entities/bambulab/"
@@ -7263,6 +7267,14 @@
     "title": "Cabin Crew Work",
     "url": "/wiki/concepts/cabincrewwork/"
   },
+  "CableLandingPointSecurity": {
+    "title": "Cable Landing Point Security",
+    "url": "/wiki/concepts/cablelandingpointsecurity/"
+  },
+  "CableNetworkResilience": {
+    "title": "Cable Network Resilience",
+    "url": "/wiki/concepts/cablenetworkresilience/"
+  },
   "CactusFlowerStory": {
     "title": "《仙人掌之花》",
     "url": "/wiki/entities/cactusflowerstory/"
@@ -8014,6 +8026,10 @@
   "CentersForMedicareAndMedicaidServices": {
     "title": "Centers for Medicare & Medicaid Services",
     "url": "/wiki/entities/centersformedicareandmedicaidservices/"
+  },
+  "CentralAmerica": {
+    "title": "Central America",
+    "url": "/wiki/entities/centralamerica/"
   },
   "CentralBalanceSheetDemandSupport": {
     "title": "Central Balance-Sheet Demand Support / 中央资产负债表托底",
@@ -14502,6 +14518,10 @@
   "ErinGriffith": {
     "title": "Erin Griffith",
     "url": "/wiki/entities/eringriffith/"
+  },
+  "ErinMurphy": {
+    "title": "Erin Murphy",
+    "url": "/wiki/entities/erinmurphy/"
   },
   "ErnestHemingway": {
     "title": "Ernest Hemingway / 海明威",
@@ -41147,6 +41167,10 @@
     "title": "苏辙 / Su Zhe",
     "url": "/wiki/entities/suzhe/"
   },
+  "SubCom": {
+    "title": "SubCom",
+    "url": "/wiki/entities/subcom/"
+  },
   "SubagentWorkflow": {
     "title": "Subagent Workflow",
     "url": "/wiki/concepts/subagentworkflow/"
@@ -41778,6 +41802,10 @@
   "Taiwan": {
     "title": "Taiwan",
     "url": "/wiki/entities/taiwan/"
+  },
+  "TaiwanStrait": {
+    "title": "Taiwan Strait",
+    "url": "/wiki/entities/taiwanstrait/"
   },
   "Taiyi": {
     "title": "太一 / Taiyi",
@@ -43803,6 +43831,10 @@
     "title": "Trusted Flagger System",
     "url": "/wiki/concepts/trustedflaggersystem/"
   },
+  "TrustedNetworkGeopolitics": {
+    "title": "Trusted Network Geopolitics",
+    "url": "/wiki/concepts/trustednetworkgeopolitics/"
+  },
   "TruthAPI": {
     "title": "Truth API",
     "url": "/wiki/entities/truthapi/"
@@ -44230,6 +44262,10 @@
   "UndergroundMoneyTransferRisk": {
     "title": "Underground Money Transfer Risk",
     "url": "/wiki/concepts/undergroundmoneytransferrisk/"
+  },
+  "UnderseaDataCables": {
+    "title": "Undersea Data Cables",
+    "url": "/wiki/concepts/underseadatacables/"
   },
   "UnderservedRomanceAudience": {
     "title": "Underserved Romance Audience",
@@ -51962,6 +51998,10 @@
   "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128": {
     "title": "Can an AI music company make nice with human artists?",
     "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+  },
+  "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128": {
+    "title": "Why the Trump administration plans to boost funding for subsea cables",
+    "url": "/wiki/sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128/"
   },
   "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128": {
     "title": "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery",

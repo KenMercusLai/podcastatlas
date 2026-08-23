@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "144d6dc6453da14d1a4f2d185e1b6531611739454ab441bd8d1d3d18b8ebabc6",
       "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
       "961bd97a19ba6b2a7c2f61a5beccedaee0edeaf6e12833491c84ad634a6332bd",
       "94c1cfccaafcf24b83e4513c839b70794cde0174a4936e2cfdd2dc8a872b263c",
@@ -153,11 +154,47 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 151
+    "paragraph_count": 152
   },
-  "overview_commit": "e6fdcd43ce3897776498b26c964f031496a16b51",
-  "overview_digest": "f60997ceae3ba5e42c6c70bd69ed96719125113b158454c31da00d8e840f1d35",
+  "overview_commit": "f841e0e2c9487971d0474bb36e3d8fe7bd3befc4",
+  "overview_digest": "fa863df76e034197e3e409feb6929ff0d6d6556a9b1b4f5f0c759befa6b5d396",
   "paragraphs": [
+    {
+      "id": "144d6dc6453da14d1a4f2d185e1b6531611739454ab441bd8d1d3d18b8ebabc6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]], a [[MarketplaceTech]] episode with [[ErinMurphy]] on [[UnderseaDataCables]] as strategic internet and financial infrastructure. It adds [[ErinMurphy]], [[SubCom]], [[CentralAmerica]], [[BalticSea]], [[TaiwanStrait]], [[UnderseaDataCables]], [[TrustedNetworkGeopolitics]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]], while extending [[MarketplaceTech]], [[UnitedStates]], [[DonaldTrump]], [[China]], [[Russia]], [[Caribbean]], [[AmazonWebServices|AWS]], [[Microsoft]], [[Google]], [[Meta]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], and [[AsymmetricInfrastructureAttack]]. Its core synthesis is that the physical internet is becoming strategic terrain: cable routes, landing-point equipment, supplier trust, repair capacity, and route redundancy determine whether commercial cloud and financial traffic can keep moving during accident, sabotage ambiguity, or U.S.-China infrastructure competition. No direct contradiction is recorded; the episode qualifies infrastructure-war-risk narratives by saying sabotage risk is low and most cable damage is ordinary, while still treating high-impact disruption as worth planning around.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AmazonWebServices",
+        "AsymmetricInfrastructureAttack",
+        "BalticSea",
+        "CableLandingPointSecurity",
+        "CableNetworkResilience",
+        "Caribbean",
+        "CentralAmerica",
+        "China",
+        "DigitalInfrastructureWarRisk",
+        "DonaldTrump",
+        "ErinMurphy",
+        "Google",
+        "MarketplaceTech",
+        "Meta",
+        "Microsoft",
+        "RegionalNetworkTopologyRisk",
+        "Russia",
+        "SubCom",
+        "TaiwanStrait",
+        "TrustedNetworkGeopolitics",
+        "UnderseaDataCables",
+        "UnitedStates",
+        "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128"
+      ]
+    },
     {
       "id": "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
       "primary_topic": "business-and-markets",
