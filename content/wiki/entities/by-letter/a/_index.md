@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "AppliedCompute"
     title: "Applied Compute"
     url: "/wiki/entities/appliedcompute/"
+  - key: "ApprenticeBoysOfDerry"
+    title: "Apprentice Boys of Derry"
+    url: "/wiki/entities/apprenticeboysofderry/"
   - key: "AppSumo"
     title: "AppSumo"
     url: "/wiki/entities/appsumo/"
@@ -1070,6 +1073,9 @@ wiki_pages:
   - key: "AungSanSuuKyi"
     title: "Aung San Suu Kyi"
     url: "/wiki/entities/aungsansuukyi/"
+  - key: "AustinCurrie"
+    title: "Austin Currie"
+    url: "/wiki/entities/austincurrie/"
   - key: "Australia"
     title: "Australia"
     url: "/wiki/entities/australia/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "WilliamChaloner"
     title: "William Chaloner / 查罗纳"
     url: "/wiki/entities/williamchaloner/"
+  - key: "WilliamCraig"
+    title: "William Craig"
+    url: "/wiki/entities/williamcraig/"
   - key: "WilliamDeresiewicz"
     title: "William Deresiewicz"
     url: "/wiki/entities/williamderesiewicz/"

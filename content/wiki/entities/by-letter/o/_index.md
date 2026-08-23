@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "OrangeHouseLebanon"
     title: "Orange House"
     url: "/wiki/entities/orangehouselebanon/"
+  - key: "OrangeOrder"
+    title: "Orange Order"
+    url: "/wiki/entities/orangeorder/"
   - key: "OrenCass"
     title: "Oren Cass"
     url: "/wiki/entities/orencass/"

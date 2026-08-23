@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "StopKillingGames"
     title: "Stop Killing Games"
     url: "/wiki/entities/stopkillinggames/"
+  - key: "Stormont"
+    title: "Stormont"
+    url: "/wiki/entities/stormont/"
   - key: "StoryOfYourLife"
     title: "Story of Your Life"
     url: "/wiki/entities/storyofyourlife/"

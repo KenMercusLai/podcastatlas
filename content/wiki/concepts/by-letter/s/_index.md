@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5244
+wiki_total_pages: 5251
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "SecretGRAS"
     title: "Secret GRAS"
     url: "/wiki/concepts/secretgras/"
+  - key: "SectarianSecurityDilemma"
+    title: "Sectarian Security Dilemma"
+    url: "/wiki/concepts/sectariansecuritydilemma/"
   - key: "Section122TariffAuthority"
     title: "Section 122 Tariff Authority"
     url: "/wiki/concepts/section122tariffauthority/"
@@ -1043,6 +1046,9 @@ wiki_pages:
   - key: "StateCryptoReserves"
     title: "State Crypto Reserves"
     url: "/wiki/concepts/statecryptoreserves/"
+  - key: "StatePolicingLegitimacyCrisis"
+    title: "State Policing Legitimacy Crisis"
+    url: "/wiki/concepts/statepolicinglegitimacycrisis/"
   - key: "StateResourceMonopoly"
     title: "State Resource Monopoly / 资源垄断式国家统制"
     url: "/wiki/concepts/stateresourcemonopoly/"

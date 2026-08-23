@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "TensorFlow"
     title: "TensorFlow"
     url: "/wiki/entities/tensorflow/"
+  - key: "TerenceONeill"
+    title: "Terence O'Neill"
+    url: "/wiki/entities/terenceoneill/"
   - key: "TerryMeilunMeihuan"
     title: "Terry / 美轮美换"
     url: "/wiki/entities/terrymeilunmeihuan/"
@@ -335,6 +338,9 @@ wiki_pages:
   - key: "TheResidency"
     title: "The Residency"
     url: "/wiki/entities/theresidency/"
+  - key: "TheRestIsHistory"
+    title: "The Rest Is History"
+    url: "/wiki/entities/therestishistory/"
   - key: "TheSaaSPodcast"
     title: "The SaaS Podcast"
     url: "/wiki/entities/thesaaspodcast/"
@@ -350,6 +356,9 @@ wiki_pages:
   - key: "TimeMachine"
     title: "The Time Machine / 《时间机器》"
     url: "/wiki/entities/timemachine/"
+  - key: "TheTroubles"
+    title: "The Troubles"
+    url: "/wiki/entities/thetroubles/"
   - key: "TheWageStandard"
     title: "The Wage Standard"
     url: "/wiki/entities/thewagestandard/"

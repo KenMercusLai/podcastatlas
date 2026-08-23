@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [698. The Troubles: The Brink of Civil War (Part 2)](sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988.md) — The Rest Is History episode on Northern Ireland's 1968-1969 escalation from civil rights protest through Burntollet, the Bogside, Belfast violence, British Army deployment, and the Hunt Report.
 - [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817.md) — 硅谷101 episode with Dongxu and Zhang Hongjiang on the shift from token maxing to token efficient agent workflows, OpenClaw, Hermes, Slock/Raft, local models, model routing, agent-native startups, and AI work implications.
 - [Advice Line with Carlton Calvin of Razor](sources/advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e.md) — How I Built This Advice Line episode with Carlton Calvin on Razor, trend spotting, toy/game licensing proof, founder-visible marketing, stationery wholesale, craft-spirits distribution, SKU focus, and sales delegation.
 - [Why the Trump administration plans to boost funding for subsea cables](sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128.md) — Marketplace Tech episode with Erin Murphy on undersea data cables, hyperscaler ownership, U.S. funding for Caribbean and Central American cable replacement, trusted networks, landing-point security, sabotage ambiguity, and redundancy.
@@ -1356,6 +1357,37 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring the wiki's new Northern Ireland 1968-1969 branch.
+- [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through the 1968-1969 move from civil rights protest into street violence.
+- [Northern Ireland](entities/NorthernIreland.md) — UK region where civil-rights grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the source.
+- [Terence O'Neill](entities/TerenceONeill.md) — Northern Ireland prime minister whose reform appeal and authority collapse structure the episode's tragedy.
+- [Ian Paisley](entities/IanPaisley.md) — Hardline unionist figure whose anti-civil-rights rhetoric and challenge to O'Neill expose unionist fragmentation.
+- [Austin Currie](entities/AustinCurrie.md) — Nationalist MP whose Caledon housing protest made Catholic discrimination visible.
+- [Gerry Fitt](entities/GerryFitt.md) — Civil-rights political figure beaten and arrested during the banned Derry march.
+- [John Hume](entities/JohnHume.md) — Civil-rights leader who later supported British troop deployment as protection during the 1969 crisis.
+- [Bernadette Devlin](entities/BernadetteDevlin.md) — People's Democracy activist and young Westminster MP tied to Burntollet and radical civil-rights politics.
+- [Harold Wilson](entities/HaroldWilson.md) — British prime minister whose government pressured Stormont and sent troops into Northern Ireland.
+- [Jim Callaghan](entities/JimCallaghan.md) — British home secretary who handled reform pressure and approved troop deployment.
+- [William Craig](entities/WilliamCraig.md) — Northern Ireland home affairs minister who banned the Derry civil-rights march and warned concessions could provoke loyalists.
+- [James Chichester-Clark](entities/JamesChichesterClark.md) — O'Neill's successor who inherited the crisis and requested troops for Derry.
+- [Jack Lynch](entities/JackLynch.md) — Irish Taoiseach whose August 1969 statement intensified Catholic hopes and Protestant fears.
+- [Royal Ulster Constabulary](entities/RoyalUlsterConstabulary.md) — Police force whose conduct became central to the Northern Ireland legitimacy crisis.
+- [B Specials](entities/BSpecials.md) — Auxiliary police force whose abolition was demanded by civil-rights activists and recommended by the Hunt Report.
+- [Ulster Volunteer Force](entities/UlsterVolunteerForce.md) — Loyalist paramilitary organization tied to early killings and anti-O'Neill spoiler bombings.
+- [Irish Republican Army](entities/IrishRepublicanArmy.md) — Republican paramilitary organization present as both real actor and loyalist accusation in the source.
+- [Northern Ireland Civil Rights Association](entities/NorthernIrelandCivilRightsAssociation.md) — Civil-rights organization demanding fair housing, voting, boundaries, and policing reform.
+- [People's Democracy (Northern Ireland)](entities/PeoplesDemocracyNorthernIreland.md) — Radical student civil-rights group whose Belfast-to-Derry march was ambushed at Burntollet.
+- [British Army](entities/BritishArmy.md) — Force sent into Derry and Belfast in August 1969 and initially welcomed by many Catholics.
+- [Derry / Londonderry](entities/Derry.md) — City at the center of the October 1968 march and the Battle of the Bogside.
+- [Belfast](entities/Belfast.md) — City where August 1969 violence included Divis flats, civilian deaths, displacement, and troop deployment.
+- [Bogside](entities/Bogside.md) — Derry district where barricades, petrol bombs, RUC action, and army arrival marked the 1969 crisis.
+- [Stormont](entities/Stormont.md) — Northern Ireland parliament and government whose reform capacity collapsed in the episode's account.
+- [Burntollet Bridge Attack](entities/BurntolletBridgeAttack.md) — Loyalist ambush of People's Democracy marchers on 4 January 1969.
+- [Battle of the Bogside](entities/BattleOfTheBogside.md) — August 1969 Derry street battle that made British military intervention unavoidable.
+- [Apprentice Boys of Derry](entities/ApprenticeBoysOfDerry.md) — Unionist commemorative organization whose 12 August parade became the Bogside flashpoint.
+- [Orange Order](entities/OrangeOrder.md) — Unionist fraternal organization represented through the July 1969 marching-season riots.
+- [Derry Citizens Defence Association](entities/DerryCitizensDefenceAssociation.md) — Catholic local defense body that prepared barricades before the Battle of the Bogside.
+- [Patrick Rooney](entities/PatrickRooney.md) — Nine-year-old killed by RUC armoured-car fire in Belfast during the August 1969 violence.
 - [张宏江 / Zhang Hongjiang](entities/ZhangHongjiang.md) — Senior AI researcher and technology executive/investor voice in E249, framing token-cost decline, infrastructure cycles, AGI, and work disruption.
 - [Lama Ventures](entities/LamaVentures.md) — AI-focused venture platform connecting Silicon Valley and Chinese founder ecosystems in E249.
 - [DB9](entities/DB9.md) — Dongxu's AI-assisted cloud-native distributed database project used as a high-value token-maxing cost-accounting example.
@@ -8285,6 +8317,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Northern Ireland Civil Rights Movement](concepts/NorthernIrelandCivilRightsMovement.md) — Movement frame for Catholic and civil-liberties demands over housing, votes, boundaries, and policing.
+- [Reform Timing Trap](concepts/ReformTimingTrap.md) — Pattern where late concessions satisfy neither reformers nor hardliners after trust has collapsed.
+- [State Policing Legitimacy Crisis](concepts/StatePolicingLegitimacyCrisis.md) — Pattern where police conduct becomes evidence that the state itself is partisan.
+- [Sectarian Security Dilemma](concepts/SectarianSecurityDilemma.md) — Mutual-fear pattern where each community reads the other's defensive preparation as attack preparation.
+- [Provocation Publicity Politics](concepts/ProvocationPublicityPolitics.md) — Protest and counter-mobilization pattern where visible confrontation is used to force attention or harden narratives.
+- [Paramilitary Spoiler Violence](concepts/ParamilitarySpoilerViolence.md) — Armed-group violence used to destroy a moderate political settlement or leadership position.
+- [Civil Rights To Street War Threshold](concepts/CivilRightsToStreetWarThreshold.md) — Escalation threshold where protest, policing, counter-protest, and communal defense become sustained urban violence.
 - [Token Efficient Agent Workflow](concepts/TokenEfficientAgentWorkflow.md) — Agent operating discipline that routes frontier models, local models, deterministic tools, multi-agent review, and human attention by task value, risk, and verification cost.
 - [Consumer Trend Spotting](concepts/ConsumerTrendSpotting.md) — Deliberate scanning for consumer behavior and format changes before they become obvious retail demand.
 - [Toy Inventor Licensing Path](concepts/ToyInventorLicensingPath.md) — Route where a game or toy inventor seeks publisher or toy-company licensing only after stronger buyer-visible proof.

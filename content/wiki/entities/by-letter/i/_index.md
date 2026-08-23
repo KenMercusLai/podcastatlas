@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
     url: "/wiki/entities/ilibertine/"
+  - key: "IanPaisley"
+    title: "Ian Paisley"
+    url: "/wiki/entities/ianpaisley/"
   - key: "IBM"
     title: "IBM"
     url: "/wiki/entities/ibm/"
@@ -206,6 +209,9 @@ wiki_pages:
   - key: "Ireland"
     title: "Ireland"
     url: "/wiki/entities/ireland/"
+  - key: "IrishRepublicanArmy"
+    title: "Irish Republican Army"
+    url: "/wiki/entities/irishrepublicanarmy/"
   - key: "IronwoodTPU"
     title: "Ironwood TPU"
     url: "/wiki/entities/ironwoodtpu/"

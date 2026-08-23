@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -437,6 +437,12 @@ wiki_pages:
   - key: "NorthKorea"
     title: "North Korea"
     url: "/wiki/entities/northkorea/"
+  - key: "NorthernIreland"
+    title: "Northern Ireland"
+    url: "/wiki/entities/northernireland/"
+  - key: "NorthernIrelandCivilRightsAssociation"
+    title: "Northern Ireland Civil Rights Association"
+    url: "/wiki/entities/northernirelandcivilrightsassociation/"
   - key: "NorthernWhiteRhinoceros"
     title: "Northern White Rhinoceros / 北部白犀牛"
     url: "/wiki/entities/northernwhiterhinoceros/"

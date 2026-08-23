@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5244
+wiki_total_pages: 5251
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "CivilLibertiesSurveillanceRisk"
     title: "Civil Liberties Surveillance Risk"
     url: "/wiki/concepts/civillibertiessurveillancerisk/"
+  - key: "CivilRightsToStreetWarThreshold"
+    title: "Civil Rights To Street War Threshold"
+    url: "/wiki/concepts/civilrightstostreetwarthreshold/"
   - key: "CivilServiceContinuity"
     title: "Civil Service Continuity / 文官连续性"
     url: "/wiki/concepts/civilservicecontinuity/"

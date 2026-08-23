@@ -1383,6 +1383,7 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍
 
 Added source page for Qinji 105: Qin famine-year pressure on Han, Meng Ao's twelve-city campaign, Li Mu's appointment after Lian Po, Li Mu's Yan campaign, northern-frontier command against Xiongnu, long defensive patience, baited encirclement, and the source-scoped contrast with Han Wudi's later resource-rich Xiongnu campaigns. Created Li Mu, Xiongnu, Wang Jian (Qin), Frontier Defensive Patience, Nomadic Cavalry Raiding Asymmetry, and Warring States Northern Great Walls; updated Zhao, Qin, Han, Yan, Meng Ao, Zhao Daoxiang Wang, Qin Eastward Pressure, Lure Enemy Out of Position, Warring States Military Transformation, Sunzi Bingfa, and Han Wudi. No direct contradiction found; troop counts, decade-long deterrence, and the Great Wall summary are kept source-scoped.
@@ -10828,6 +10829,14 @@ Added source page for a How I Built This Advice Line episode with Carlton Calvin
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 698. The Troubles: The Brink of Civil War (Part 2)
+
+Added source page for a The Rest Is History episode on Northern Ireland's 1968-1969 escalation from civil rights protest into street fighting, covering Caledon, Derry, Burntollet, O'Neill's failed reform gamble, loyalist spoiler bombings, the Battle of the Bogside, Belfast violence, British Army deployment, and the Hunt Report. Created pages for The Rest Is History, The Troubles, Northern Ireland, Terence O'Neill, Ian Paisley, Austin Currie, Gerry Fitt, John Hume, Bernadette Devlin, Harold Wilson, Jim Callaghan, William Craig, James Chichester-Clark, Jack Lynch, the RUC, B Specials, UVF, IRA, NICRA, People's Democracy, the British Army, Derry, Belfast, Bogside, Stormont, Burntollet Bridge Attack, Battle of the Bogside, Apprentice Boys of Derry, Orange Order, Derry Citizens Defence Association, Patrick Rooney, Northern Ireland Civil Rights Movement, Reform Timing Trap, State Policing Legitimacy Crisis, Sectarian Security Dilemma, Provocation Publicity Politics, Paramilitary Spoiler Violence, and Civil Rights To Street War Threshold; updated overview, index, United Kingdom, and Ireland. No direct contradiction found; the source adds a historical near-civil-war case inside the UK without validating contemporary claims that Britain as a whole is inevitably heading toward civil war.
 
 ## [2026-08-24] lint | Wiki health check
 

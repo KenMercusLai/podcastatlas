@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "JackLondon"
     title: "Jack London / 杰克·伦敦"
     url: "/wiki/entities/jacklondon/"
+  - key: "JackLynch"
+    title: "Jack Lynch"
+    url: "/wiki/entities/jacklynch/"
   - key: "JackTheRipper"
     title: "Jack the Ripper"
     url: "/wiki/entities/jacktheripper/"
@@ -101,6 +104,9 @@ wiki_pages:
   - key: "JamesCameron"
     title: "James Cameron"
     url: "/wiki/entities/jamescameron/"
+  - key: "JamesChichesterClark"
+    title: "James Chichester-Clark"
+    url: "/wiki/entities/jameschichesterclark/"
   - key: "JamesDamore"
     title: "James Damore"
     url: "/wiki/entities/jamesdamore/"
@@ -377,6 +383,9 @@ wiki_pages:
   - key: "JimJulesAndJim"
     title: "Jim / 占"
     url: "/wiki/entities/jimjulesandjim/"
+  - key: "JimCallaghan"
+    title: "Jim Callaghan"
+    url: "/wiki/entities/jimcallaghan/"
   - key: "JimClark"
     title: "Jim Clark"
     url: "/wiki/entities/jimclark/"
@@ -518,6 +527,9 @@ wiki_pages:
   - key: "JohnHopeSimpson"
     title: "John Hope Simpson"
     url: "/wiki/entities/johnhopesimpson/"
+  - key: "JohnHume"
+    title: "John Hume"
+    url: "/wiki/entities/johnhume/"
   - key: "JohnHunter"
     title: "John Hunter / 约翰·亨特"
     url: "/wiki/entities/johnhunter/"

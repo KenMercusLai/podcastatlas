@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -377,6 +377,12 @@ wiki_pages:
   - key: "DerekHockeyNinja"
     title: "Derek (Hockey Ninja)"
     url: "/wiki/entities/derekhockeyninja/"
+  - key: "Derry"
+    title: "Derry / Londonderry"
+    url: "/wiki/entities/derry/"
+  - key: "DerryCitizensDefenceAssociation"
+    title: "Derry Citizens Defence Association"
+    url: "/wiki/entities/derrycitizensdefenceassociation/"
   - key: "DesmondShum"
     title: "Desmond Shum"
     url: "/wiki/entities/desmondshum/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "RoyalSocietyForProtectionOfBirds"
     title: "Royal Society for the Protection of Birds"
     url: "/wiki/entities/royalsocietyforprotectionofbirds/"
+  - key: "RoyalUlsterConstabulary"
+    title: "Royal Ulster Constabulary"
+    url: "/wiki/entities/royalulsterconstabulary/"
   - key: "RPGMaker"
     title: "RPG Maker"
     url: "/wiki/entities/rpgmaker/"

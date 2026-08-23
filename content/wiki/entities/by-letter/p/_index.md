@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "PatrickHeiniger"
     title: "Patrick Heiniger"
     url: "/wiki/entities/patrickheiniger/"
+  - key: "PatrickRooney"
+    title: "Patrick Rooney"
+    url: "/wiki/entities/patrickrooney/"
   - key: "PatrickWilliams"
     title: "Patrick Williams"
     url: "/wiki/entities/patrickwilliams/"
@@ -224,6 +227,9 @@ wiki_pages:
   - key: "PeoplesBankOfChina"
     title: "People's Bank of China"
     url: "/wiki/entities/peoplesbankofchina/"
+  - key: "PeoplesDemocracyNorthernIreland"
+    title: "People's Democracy (Northern Ireland)"
+    url: "/wiki/entities/peoplesdemocracynorthernireland/"
   - key: "PercyShelley"
     title: "Percy Shelley / 珀西·雪莱"
     url: "/wiki/entities/percyshelley/"

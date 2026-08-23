@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6ea267261525c88f7bc096afcd8cc7f8e4f50e4f9746ea37a20ee80d74810e9a",
       "20d66f1b575bf4525f57794be596ff5af6b48bb1bc804aede97fbc0d0473e5c6",
       "144d6dc6453da14d1a4f2d185e1b6531611739454ab441bd8d1d3d18b8ebabc6",
       "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
@@ -155,11 +156,66 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 153
+    "paragraph_count": 154
   },
-  "overview_commit": "ea7d089c50a3642be0d22d7bb6ddf86373cbed98",
-  "overview_digest": "ff435658af927453d3f228ad750edff4aaf7471c1fe4f016e0bd953883982324",
+  "overview_commit": "aae74e625f772fb4f49d209776ef3a9e4dbfebfb",
+  "overview_digest": "8be324b5ceae7670e89e214f4036af95e0538a553a3d5dbb923dda0d843c9083",
   "paragraphs": [
+    {
+      "id": "6ea267261525c88f7bc096afcd8cc7f8e4f50e4f9746ea37a20ee80d74810e9a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], a [[TheRestIsHistory]] episode on [[NorthernIreland]] in 1968-1969 as [[TheTroubles]] moved from [[NorthernIrelandCivilRightsMovement|civil rights protest]] toward open street violence. It adds [[TheRestIsHistory]], [[TheTroubles]], [[NorthernIreland]], [[TerenceONeill|Terence O'Neill]], [[IanPaisley]], [[AustinCurrie]], [[GerryFitt]], [[JohnHume]], [[BernadetteDevlin]], [[HaroldWilson]], [[JimCallaghan]], [[WilliamCraig]], [[JamesChichesterClark]], [[JackLynch]], [[RoyalUlsterConstabulary|RUC]], [[BSpecials|B Specials]], [[UlsterVolunteerForce|UVF]], [[IrishRepublicanArmy|IRA]], [[NorthernIrelandCivilRightsAssociation|NICRA]], [[PeoplesDemocracyNorthernIreland|People's Democracy]], [[BritishArmy]], [[Derry]], [[Belfast]], [[Bogside]], [[Stormont]], [[BurntolletBridgeAttack]], [[BattleOfTheBogside]], [[ApprenticeBoysOfDerry]], [[OrangeOrder]], [[DerryCitizensDefenceAssociation]], [[PatrickRooney]], [[NorthernIrelandCivilRightsMovement]], [[ReformTimingTrap]], [[StatePolicingLegitimacyCrisis]], [[SectarianSecurityDilemma]], [[ProvocationPublicityPolitics]], [[ParamilitarySpoilerViolence]], and [[CivilRightsToStreetWarThreshold]], while extending [[UnitedKingdom]] and [[Ireland]]. Its core synthesis is that discrimination and institutional memory mattered, but the crisis escalated through identifiable choices: late reform, provocative marching, police partiality, loyalist spoiler violence, republican and Catholic defense preparations, Dublin rhetoric, Westminster ignorance, and troop deployment without a political settlement. No direct contradiction is recorded; the source adds a historical near-civil-war case inside the UK without validating contemporary claims that Britain as a whole is inevitably heading toward civil war.",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 4
+      },
+      "wikilinks": [
+        "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+        "ApprenticeBoysOfDerry",
+        "AustinCurrie",
+        "BSpecials",
+        "BattleOfTheBogside",
+        "Belfast",
+        "BernadetteDevlin",
+        "Bogside",
+        "BritishArmy",
+        "BurntolletBridgeAttack",
+        "CivilRightsToStreetWarThreshold",
+        "Derry",
+        "DerryCitizensDefenceAssociation",
+        "GerryFitt",
+        "HaroldWilson",
+        "IanPaisley",
+        "Ireland",
+        "IrishRepublicanArmy",
+        "JackLynch",
+        "JamesChichesterClark",
+        "JimCallaghan",
+        "JohnHume",
+        "NorthernIreland",
+        "NorthernIrelandCivilRightsAssociation",
+        "NorthernIrelandCivilRightsMovement",
+        "OrangeOrder",
+        "ParamilitarySpoilerViolence",
+        "PatrickRooney",
+        "PeoplesDemocracyNorthernIreland",
+        "ProvocationPublicityPolitics",
+        "ReformTimingTrap",
+        "RoyalUlsterConstabulary",
+        "SectarianSecurityDilemma",
+        "StatePolicingLegitimacyCrisis",
+        "Stormont",
+        "TerenceONeill",
+        "TheRestIsHistory",
+        "TheTroubles",
+        "UlsterVolunteerForce",
+        "UnitedKingdom",
+        "WilliamCraig"
+      ]
+    },
     {
       "id": "20d66f1b575bf4525f57794be596ff5af6b48bb1bc804aede97fbc0d0473e5c6",
       "primary_topic": "ai-and-technology",

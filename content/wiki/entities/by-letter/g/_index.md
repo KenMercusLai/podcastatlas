@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6925
+wiki_total_pages: 6956
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "GerontocracyInAmerica"
     title: "Gerontocracy in America"
     url: "/wiki/entities/gerontocracyinamerica/"
+  - key: "GerryFitt"
+    title: "Gerry Fitt"
+    url: "/wiki/entities/gerryfitt/"
   - key: "Ghana"
     title: "Ghana"
     url: "/wiki/entities/ghana/"
