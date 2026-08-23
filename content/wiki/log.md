@@ -10389,3 +10389,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线
+
+Added source page for Hanji 177: Han Wang Xin's post-Mayi surrender chain, Liu Bang's northern campaign, Liu Jing's rejected warning that Xiongnu weakness was staged, and Modu's winter cavalry encirclement at Baideng. Updated overview, index, Baideng Encirclement, Han Wang Xin, Xiongnu, Modu Chanyu, Liu Bang, Liu Jing/Lou Jing, Chen Ping, Mayi, Shangdang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related frontier, information-control, lure, cavalry-asymmetry, and encirclement concepts. No settled contradiction found; Hanji 177 complements Hanji 150 part 4 by supplying the military setup before Chen Ping's later escape stratagem.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

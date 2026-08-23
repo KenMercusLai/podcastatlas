@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线](sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on.md) — 芮淇讲透资治通鉴 episode on Han Wang Xin's post-Mayi Xiongnu alignment, Liu Bang's northern campaign, Liu Jing's rejected warning about deliberate Xiongnu weakness, and Modu's cavalry trap at Baideng.
 - [《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度](sources/zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy.md) — 芮淇讲透资治通鉴 episode on Shusun Tong's completed Changle Palace court ritual, Liu Bang's imperial-awe response, Sima Guang's praise of li governance, Lu Jia's Xinyu, and Yang Xiong's critique of ritual talent serving royal favor.
 - [《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课](sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf.md) — 芮淇讲透资治通鉴 episode on Modu's Xiongnu consolidation, Han Wang Xin's Mayi surrender, and Shusun Tong's practical court ritual training for Liu Bang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt.md) — 芮淇讲透资治通鉴 episode on Zhang Liang calming reward anxiety by having Liu Bang enfeoff Yong Chi, E Qianqiu defending Xiao He over Cao Shen, and Liu Taigong becoming Taishanghuang.

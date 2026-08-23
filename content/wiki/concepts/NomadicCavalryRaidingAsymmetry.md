@@ -2,8 +2,8 @@
 title: "Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称"
 type: concept
 tags: [frontier, warfare, cavalry, nomadic, logistics]
-sources: [zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
+last_updated: 2026-08-23
 ---
 
 # Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称
@@ -14,14 +14,18 @@ The asymmetry is economic as much as tactical. The source says northern pastoral
 
 The episode's comparison with [[HanWudi|汉武帝]] makes the resource point explicit. Han Wudi's later offensive Xiongnu campaigns are treated as a "rich war" made possible by decades of Han recovery and accumulation; post-[[ChangpingBattle|长平之战]] Zhao is too depleted for that style. Li Mu's answer is therefore not to match mobility across the steppe, but to make Xiongnu mobility commit too deeply near Zhao's prepared force.
 
+[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] brings the asymmetry into early [[WesternHanDynasty|西汉]]. [[LiuBang|刘邦]] commands a large, infantry-heavy force in severe winter after [[HanWangXin|韩王信]]'s surrender, while [[MaoDunChanyu|冒顿单于]] can avoid fixed battle, display weakness, and use cavalry mobility to choose the encirclement point at [[BaidengEncirclement|白登]]. The episode therefore shows why chasing mobile Xiongnu forces before the Han state has a mature cavalry/logistics base can turn apparent strength into exposure.
+
 ## Key Claims
 - Mobile raiders can impose repeated cost without needing to hold territory.
 - Border defenders face a protection problem, not only a battle problem: farms, herds, and civilians are fixed assets.
 - Chasing mobile cavalry is expensive and may be strategically impossible for a weakened state.
 - Walls, fortresses, withdrawal discipline, and baited counterattack are different answers to the same raiding asymmetry.
 - Later imperial offensive campaigns against Xiongnu require a resource base that late Warring States Zhao does not have in this source's account.
+- Hanji 177 adds that early Han's large army can still be operationally inferior if winter, infantry speed, and false intelligence let Xiongnu cavalry choose the decisive contact.
 
 ## Connections
+- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LiuBang|刘邦]], [[MaoDunChanyu|冒顿单于]], [[BaidengEncirclement|白登之围]], and [[LureEnemyOutOfPosition|诱敌离位]] - early Han pursuit punished by Xiongnu mobility and staged weakness.
 - [[Xiongnu|匈奴]] and [[LiMu|李牧]] - source opponent and commander.
 - [[ZhaoState|赵国]] and [[HanWudi|汉武帝]] - constrained Warring States defender and later imperial contrast.
 - [[FrontierDefensivePatience|边境防御耐心]] - Li Mu's low-cost answer to the asymmetry.

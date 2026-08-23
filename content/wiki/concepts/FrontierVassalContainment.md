@@ -2,7 +2,7 @@
 title: "边境迁封式牵制 / Frontier Vassal Containment"
 type: concept
 tags: [statecraft, frontier, vassal-kings, western-han]
-sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
+sources: [zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
 last_updated: 2026-08-23
 ---
 
@@ -16,14 +16,18 @@ This differs from [[HostileTerritoryRoyalContainment|敌意封国安置]] for Ha
 
 [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] adds the failure mode. When [[MaoDunChanyu|冒顿单于]] surrounds Mayi, Han Wang Xin negotiates with [[Xiongnu|匈奴]] while requesting Han aid. [[LiuBang|刘邦]] interprets the repeated contact suspiciously and sends a rebuke; Han Wang Xin fears punishment and surrenders. The concept therefore now includes a trust problem: frontier containment can expose a vassal to external coercion while also making his necessary enemy contact look like betrayal to the center.
 
+[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] adds the aftershock. Once Han Wang Xin surrenders, he is no longer merely a failed defender; he becomes part of the enemy-linked northern field that Liu Bang must attack. The containment failure therefore scales from local border loss into a campaign problem: the center's attempt to push risk outward helps create the route by which risk returns as [[BaidengEncirclement|白登之围]].
+
 ## Key Claims
 - A capable vassal can be contained by relocation rather than direct removal.
 - Frontier assignment can turn a potential interior threat into external-defense capacity.
 - The tactic is ambiguous because it may increase the vassal's military exposure and local autonomy while reducing central proximity.
 - Capital placement inside the frontier kingdom matters: Mayi makes the assignment more militarily responsive and more politically exposed.
 - The containment can fail when external siege pressure and imperial suspicion reinforce each other.
+- After surrender, failed frontier containment can become an invasion corridor and campaign trigger rather than a contained local rebellion.
 
 ## Connections
+- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[HanWangXin|韩王信]], [[LiuBang|刘邦]], [[Xiongnu|匈奴]], and [[BaidengEncirclement|白登之围]] - post-surrender campaign after the frontier placement collapses.
 - [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], and [[Mayi|马邑]] - the frontier placement collapses into surrender under Xiongnu pressure and Liu Bang's suspicion.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[LiuBang|刘邦]], [[HanWangXin|韩王信]], [[Jinyang|晋阳]], [[Mayi|马邑]], and [[Xiongnu|匈奴]] - source case and frontier geography.
 - [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - broader risk field around non-Liu kings after victory.

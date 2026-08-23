@@ -2,7 +2,7 @@
 title: "上党 / Shangdang"
 type: entity
 tags: [place, han-state, zhao-state, qin-state, warring-states]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The source's key point is that Shangdang does not simply fall into Qin hands. It
 
 [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds Shangdang to the Chu-Han administrative aftermath. Once [[HanXin|韩信]] captures [[WeiBao|魏豹]], Han organizes conquered Wei territory into [[HedongCommandery|河东郡]], Shangdang, and [[TaiyuanWarringStates|太原郡]], making Shangdang part of [[ConquestCommanderyTransition|灭国后的郡县化过渡]] in addition to its earlier Qin-Zhao history.
 
+[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] returns Shangdang as [[LiuBang|刘邦]]'s first campaign field after [[HanWangXin|韩王信]] leaves [[Mayi|马邑]] and aligns with the [[Xiongnu|匈奴]]. Han forces enter Shangdang, defeat Han Wang Xin at 铜鞮, and recover the region before the campaign moves north through the Taiyuan-Pingcheng line toward the [[BaidengEncirclement|白登之围]].
+
 ## Connections
 - [[HanState|韩国]] - original state context before the route is cut.
 - [[QinState|秦国]], [[BaiQi|白起]], and [[FanJu|范雎]] - attacker, commander, and strategic planner behind the isolation.
@@ -30,3 +32,4 @@ The source's key point is that Shangdang does not simply fall into Qin hands. It
 - [[Pingyuanjun|平原君]] and [[ChangpingBattle|长平之战]] - acceptance agent and downstream war frame in Zhouji 93 part 2.
 - [[SimaGeng|司马梗]], [[TaiyuanWarringStates|太原]], [[WangHe|王龁]], [[WuanWarringStates|武安]], and [[Pilao|皮牢]] - Zhouji 95 post-Changping follow-on pressure route.
 - [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[WeiBao|魏豹]], [[HanXin|韩信]], and [[HedongCommandery|河东郡]] - commandery setup after West Wei's defeat.
+- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LiuBang|刘邦]], [[HanWangXin|韩王信]], and [[BaidengEncirclement|白登之围]] - early-Han frontier campaign route from Shangdang recovery toward the Baideng trap.
