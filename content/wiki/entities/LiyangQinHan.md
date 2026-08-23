@@ -2,7 +2,7 @@
 title: "栎阳 / Liyang (Qin-Han)"
 type: entity
 tags: [place, capital, qin, han, chu-han]
-sources: [zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ For this wiki, Liyang is a narrow capital-base marker: Liu Bang is no longer mer
 
 [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] returns Liu Bang to Liyang after his [[GuangwuChuHan|广武]] wound. The source says he hangs [[SimaXin|司马欣]]'s head in the market there for four days, turning the rear capital into a public warning site against wavering between Han and Chu.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] uses Liyang as the setting after the reward-settlement sequence. [[LiuBang|刘邦]] returns there before honoring [[LiuTaigong|刘太公]] as 太上皇, so the place marks the shift from court merit ranking to imperial family-status ordering.
+
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[LiuTaigong|刘太公]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - post-reward return and 太上皇 title setting.
 - [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[SimaXin|司马欣]], [[GuangwuChuHan|广武]], and [[LiuBang|刘邦]] - post-wound return and market head-display warning.
 - [[LiuBang|刘邦]], [[GuanzhongRegion|关中]], and [[StrategicCapitalRelocation|战略性迁都]] - ruler, region, and capital-move frame.
 - [[LongxiCommandery|陇西郡]], [[BeidiCommandery|北地郡]], and [[ZhangPingQinGeneral|章平]] - frontier expansion after the move.

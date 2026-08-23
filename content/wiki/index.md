@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt.md) — 芮淇讲透资治通鉴 episode on Zhang Liang calming reward anxiety by having Liu Bang enfeoff Yong Chi, E Qianqiu defending Xiao He over Cao Shen, and Liu Taigong becoming Taishanghuang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Han-Xin reward settlement, Xiao He's "功人" merit hierarchy, Liu-family kingships, and Han Wang Xin's frontier relocation.
 - [《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）](sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx.md) — 芮淇讲透资治通鉴 episode on Han Xin's post-demotion isolation in Chang'an, Fan Kuai's deferential reception, the "耻与哙伍" insult, and the possibility that public distance from Fan Kuai was political self-protection.
 - [《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信](sources/zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv.md) — 芮淇讲透资治通鉴 episode on Liu Bang and Chen Ping's fake Yunmeng tour trap, Zhongli Mo's suicide, Han Xin's arrest at Chen County, and his demotion from Chu king to Huaiyin marquis.
@@ -1297,6 +1298,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [鄂千秋 / E Qianqiu](entities/EQianqiu.md) — Early Han merit-ranking interpreter who defends Xiao He's first-place reward over Cao Shen and is made Anping marquis.
 - [刘交 / Liu Jiao](entities/LiuJiao.md) — Liu Bang's younger brother made king of the early Han Chu kingdom after Han Xin's former Chu territory is split.
 - [刘喜 / Liu Xi (Dai king)](entities/LiuXiDaiKing.md) — Liu-family king of early Han Dai, used by Hanji 174 to show same-surname royal placement on the northern settlement map.
 - [刘肥 / Liu Fei (Qi king)](entities/LiuFeiQiKing.md) — Liu Bang's eldest son and early Han Qi king, disambiguated from the modern podcast host Liu Fei.
@@ -8011,6 +8013,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [仇敌受封安众 / Hostile Recipient Reward Signal](concepts/HostileRecipientRewardSignal.md) — Hanji 174 part 2 reward-credibility pattern where enfeoffing a hated claimant reassures the wider merit-holder group.
 - [建国功臣排序 / Founding Merit Hierarchy](concepts/FoundingMeritHierarchy.md) — Hanji 174 frame for ranking unlike founding contributions, especially Xiao He's rear organization above frontline pursuit.
 - [同姓王分封 / Same-Surname King Enfeoffment](concepts/SameSurnameKingEnfeoffment.md) — Early Han strategy of assigning Liu-family kingships to stabilize major regions after different-surname king risk.
 - [边境迁封式牵制 / Frontier Vassal Containment](concepts/FrontierVassalContainment.md) — Hanji 174 pattern where a capable non-Liu king is moved to a frontier defense role that also limits his central base.

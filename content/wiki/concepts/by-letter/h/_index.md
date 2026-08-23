@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5138
+wiki_total_pages: 5139
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "HyperscalerAIGatekeeping"
     title: "Hyperscaler AI Gatekeeping"
     url: "/wiki/concepts/hyperscaleraigatekeeping/"
+  - key: "HostileRecipientRewardSignal"
+    title: "仇敌受封安众 / Hostile Recipient Reward Signal"
+    url: "/wiki/concepts/hostilerecipientrewardsignal/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"

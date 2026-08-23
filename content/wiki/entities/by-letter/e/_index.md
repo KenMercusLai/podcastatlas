@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 6710
+wiki_total_pages: 6711
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "Ekumen"
     title: "艾库曼 / Ekumen"
     url: "/wiki/entities/ekumen/"
+  - key: "EQianqiu"
+    title: "鄂千秋 / E Qianqiu"
+    url: "/wiki/entities/eqianqiu/"
   - key: "EyuBattle"
     title: "阏与 / 燕宇之战 / Battle of Eyu"
     url: "/wiki/entities/eyubattle/"

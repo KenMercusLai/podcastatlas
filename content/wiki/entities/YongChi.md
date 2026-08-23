@@ -2,7 +2,7 @@
 title: "雍齿 / Yong Chi"
 type: entity
 tags: [person, anti-qin, qin-han, rebellion]
-sources: [zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
 last_updated: 2026-08-22
 ---
 
@@ -16,7 +16,10 @@ The page keeps the episode's explanation source-scoped. Yong Chi's betrayal is n
 
 [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] gives the immediate reversal. After [[XiangLiang|项梁]] grants Liu Bang five thousand men and ten fifth-rank commanders, Liu Bang attacks [[FengCounty|丰邑 / 丰县]] again and finally succeeds. Yong Chi flees to Wei, turning the earlier betrayal into a temporary but serious setback rather than a permanent loss.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] returns to Yong Chi after Liu Bang has become emperor. The source transcript writes the name as "庸耻," but the described old hatred and Shifang marquis reward point to the same figure. [[ZhangLiang|张良]] advises [[LiuBang|刘邦]] to enfeoff Yong Chi first precisely because Liu Bang hates him; once other generals see even Yong Chi rewarded for merit, their fear of being forgotten or punished can subside.
+
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[HostileRecipientRewardSignal|仇敌受封安众]] - old enemy rewarded as a credibility signal to anxious merit-holders.
 - [[LiuBang|刘邦]] - early leader Yong Chi defects from.
 - [[FengCounty|丰邑 / 丰县]] - place he is assigned to defend and then hands over.
 - [[ZhouShiRebel|周市]] and [[WeiState|魏国]] - restoration-side force that recruits him.

@@ -2,7 +2,7 @@
 title: "刘太公 / Liu Taigong"
 type: entity
 tags: [person, qin-han, family, western-han]
-sources: [zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-can
 
 [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] resolves the hostage branch. After Lu Jia fails and Hou Gong succeeds, Xiang Yu returns Liu Taigong and Lu Zhi under the Honggou agreement, ending their two-year-and-five-month captivity in Chu. The host's interpretation makes Liu Taigong's release the immediate objective behind Liu Bang's peace request before the later pursuit.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] moves Liu Taigong from recovered hostage and family elder into formal imperial status. After the merit-reward disputes are settled, [[LiuBang|刘邦]] returns to [[LiyangQinHan|栎阳]] and, on the episode's date marker of summer fifth month, twenty-second day, honors his father as 太上皇. The source treats this as part of the founding order's shift from military rewards to dynastic family hierarchy.
+
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[LiyangQinHan|栎阳]], [[LiuBang|刘邦]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - return to the rear capital and elevation as 太上皇.
 - [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[LuZhi|吕雉]], [[HonggouSettlement|鸿沟议和]], and [[InstrumentalTruceBreach|工具化议和毁约]] - hostage release under the settlement and the host's hostage-first interpretation.
 - [[LiuBang|刘邦]] - son whose rise gives Liu Taigong historical significance in this source.
 - [[LuZhi|吕雉]], [[WangLingHanMinister|王陵]], and [[XiangYu|项羽]] - Hanji 148-2 family-retrieval and coercion context.

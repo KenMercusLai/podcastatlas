@@ -10365,3 +10365,11 @@ Added source page for Hanji 174: Liu Bang's post-Han-Xin founding reward settlem
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 13,138 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions, with source-breadth gaps around single-source concept pages. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）
+
+Added source page for Hanji 174 part 2: Zhang Liang's diagnosis of reward anxiety, Liu Bang's enfeoffment of Yong Chi as a hated-recipient reassurance signal, the first-class merit ranking with Xiao He over Cao Shen and Zhang Ao, E Qianqiu's "一时之功 / 万世之功" defense of Xiao He's rear supply contribution, Xiao He's special court privileges, Liu Taigong's elevation to Taishanghuang, and the Xiongnu teaser. Created E Qianqiu and Hostile Recipient Reward Signal; updated overview, index, Liu Bang, Zhang Liang, Xiao He, Cao Shen, Yong Chi, Zhang Ao, Liu Taigong, Liyang, Ruiqi Jiangtou Zizhi Tongjian, Founding Merit Hierarchy, Reward Allocation Backlash, Merit-Based Reward and Punishment, Battlefield Victory To Founding Order, and Specialist Delegation Leadership. No settled contradiction found; transcript "庸耻" was normalized to Yong Chi.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

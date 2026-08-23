@@ -2,7 +2,7 @@
 title: "专才分工式领导力 / Specialist Delegation Leadership"
 type: concept
 tags: [leadership, statecraft, talent, chu-han]
-sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc]
 last_updated: 2026-08-23
 ---
 
@@ -14,6 +14,8 @@ The concept is not generic humility. The episode reads the statement as Liu Bang
 
 [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] retroactively hardens this doctrine through reward. Liu Bang's defense of [[XiaoHe|萧何]] says that the rear administrator is not a lesser noncombatant but the "功人" who makes field success possible. The episode therefore turns specialist delegation from a victory explanation into a founding merit hierarchy that tells generals why organizational capacity outranks their visible pursuit.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] gives the doctrine an outside interpreter. [[EQianqiu|鄂千秋]] argues that [[CaoShen|曹参]]'s combat merit is real but episodic, while Xiao He's continuous supply of men and food keeps the state from breaking. Specialist delegation therefore has to be translated into rank language before frontline contributors will accept it.
+
 This page separates the pattern from adjacent personnel concepts. [[UseStrengthsOverFaults|用人取长弃短]] concerns tolerating defects in useful people, while [[SecondInCommandRoleFit|二把手角色适配]] concerns fitting a subordinate to bounded court roles. Specialist delegation leadership is broader: it is the ruler's ability to coordinate strategy, logistics, and command specialists without needing to embody all three capacities.
 
 ## Key Claims
@@ -22,8 +24,10 @@ This page separates the pattern from adjacent personnel concepts. [[UseStrengths
 - Liu Bang's self-comparison relies on role differentiation: strategy, supply administration, and battlefield command are separate capacities.
 - The negative contrast with Xiang Yu is not merely that Xiang Yu lacked talent around him, but that he could not use [[FanZeng|范增]] effectively.
 - Hanji 174 adds that specialist delegation must be made legible in reward rankings, or battlefield contributors may mistake visible combat for the whole merit system.
+- Hanji 174 part 2 adds that a third-party explanation can make the specialist's invisible contribution politically acceptable.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[EQianqiu|鄂千秋]], [[CaoShen|曹参]], and [[FoundingMeritHierarchy|建国功臣排序]] - explanation that makes rear specialization outrank visible combat.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[XiaoHe|萧何]], [[FoundingMeritHierarchy|建国功臣排序]], and [[MeritBasedRewardPunishment|因功赏罚]] - reward explanation that ranks rear administrative specialization above frontline pursuit.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] - source page.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] - ruler and three specialist examples.

@@ -2,7 +2,7 @@
 title: "曹参 / Cao Shen"
 type: entity
 tags: [person, qin-han, official, western-han]
-sources: [zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ For this source, Cao Shen matters as a lower county-office connector. He helps m
 
 [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] brings Cao Shen into the Qi pacification branch after [[WeishuiBattle|潍水之战]]. The source does not give him the central tactical move, which belongs to [[HanXin|韩信]], but it names Cao Shen with [[GuanYing|灌婴]] in the continued pursuit of Qi forces after [[TianHeng|田横]]'s failed counterattack. Cao Shen's page therefore now links the earlier West Wei follow-through role to a second Han Xin campaign cleanup role.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] places Cao Shen second in the first-class founding merit ranking, behind [[XiaoHe|萧何]] and ahead of [[ZhangAo|张敖]]. The episode says many officials object because Cao Shen has more visible battlefield credentials, including heavy wounds and repeated city captures, but [[EQianqiu|鄂千秋]] argues that those are still "一时之功" when compared with Xiao He's state-preserving rear supply.
+
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[XiaoHe|萧何]], [[EQianqiu|鄂千秋]], [[FoundingMeritHierarchy|建国功臣排序]], and [[MeritBasedRewardPunishment|因功赏罚]] - second-place ranking and the battlefield-versus-rear contribution debate.
 - [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[QiState|齐国]], [[HanXin|韩信]], and [[GuanYing|灌婴]] - follow-up pursuit after Qi's final collapse.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[FanKuai|樊哙]], and [[PeiCounty|沛县]] - source actors and local setting.
 - [[DazexiangUprising|大泽乡起义]] and [[QinState|秦国]] - wider rebellion context and regime target.
