@@ -1,0 +1,46 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "climate-adoption-is-an-implementation-system",
+      "qualifications": [
+        "The evidence spans building codes, rebuilding, and carbon removal rather than one standardized market."
+      ],
+      "statement": "[[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "ClimateAdaptation",
+        "LowCarbonConstructionMaterials",
+        "CarbonStoragePermanence"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "scientific-imagination-remains-evidence-bound",
+      "qualifications": [
+        "The claim is source-scoped to the dinosaur-sanctuary material."
+      ],
+      "statement": "[[DinosaurAsLivingAnimal]] and [[EvidenceBoundPaleontologicalReconstruction]] join imaginative reconstruction to fossils, bird continuity, care labor, and animal welfare.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "DinosaurAsLivingAnimal",
+        "EvidenceBoundPaleontologicalReconstruction"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "health-products-should-map-specific-risks",
+      "qualifications": [
+        "This is a synthesis of consumer guidance, not individualized financial or medical advice."
+      ],
+      "statement": "[[InsuranceRiskTransfer]] and [[HealthInsurancePlanning]] are most useful when coverage is matched to specific household obligations and medical costs.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "InsuranceRiskTransfer",
+        "HealthInsurancePlanning"
+      ]
+    }
+  ],
+  "summary": "Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by a technological promise.",
+  "topic_id": "science-health-and-climate"
+}

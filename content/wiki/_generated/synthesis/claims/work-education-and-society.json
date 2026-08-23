@@ -1,0 +1,48 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "ai-raises-the-value-of-verifiable-judgment",
+      "qualifications": [
+        "The balance differs between routine work and high-stakes professional decisions."
+      ],
+      "statement": "[[HumanJudgmentUnderAI]] and [[AICodingVerification]] show that faster generation shifts work toward requirements, review, accountability, and evidence.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "HumanJudgmentUnderAI",
+        "AICodingVerification",
+        "FrontlineAIEnablement"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "career-moves-benefit-from-stage-specific-learning",
+      "qualifications": [
+        "These sources are practical accounts rather than controlled labor-market studies."
+      ],
+      "statement": "[[InternshipAsCareerExploration]], [[UpwardManagement]], and [[InternalTransferStrategy]] frame careers as staged experiments requiring explicit goals and managed communication.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "InternshipAsCareerExploration",
+        "UpwardManagement",
+        "InternalTransferStrategy"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "learning-tools-should-preserve-reasoning",
+      "qualifications": [
+        "The optimal amount of productive struggle varies by learner and task."
+      ],
+      "statement": "[[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "SelfDirectedLearning",
+        "LearningExperienceDesign",
+        "AIShortcutRisk"
+      ]
+    }
+  ],
+  "summary": "The work and education sources favor agency with scaffolding: people need explicit goals, communication, verification, and room to learn, while AI should support judgment rather than remove the struggle that builds it.",
+  "topic_id": "work-education-and-society"
+}

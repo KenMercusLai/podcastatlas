@@ -1,0 +1,34 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "warring-states-power-was-built-through-enforceable-systems",
+      "qualifications": [
+        "This synthesis follows the current Ruiqi Zhouji and Qinji source sequence."
+      ],
+      "statement": "[[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ShangYangReforms",
+        "QinAdministrativeStandardization",
+        "PeopleBasedPoliticalSecurity"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "technology-leadership-shifts-with-ecosystems",
+      "qualifications": [
+        "The evidence is strongest for the handset transition and should not be generalized mechanically to every technology sector."
+      ],
+      "statement": "[[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "MobileInternetPrehistory",
+        "Android",
+        "ChinaHandsetSupplyChain"
+      ]
+    }
+  ],
+  "summary": "The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, technical ecosystems, and supply chains shape what states and firms can sustain.",
+  "topic_id": "history-and-geopolitics"
+}

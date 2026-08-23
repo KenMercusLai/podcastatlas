@@ -1,0 +1,47 @@
+{
+  "claims": [
+    {
+      "global_candidate": true,
+      "id": "literature-functions-as-human-experiment",
+      "qualifications": [
+        "The claim is grounded mainly in the current Kundera branch."
+      ],
+      "statement": "[[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "PoliticalConditionAsHumanExperiment",
+        "PublicMoralPerformance",
+        "SlownessAsModernityCritique"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "folklore-can-become-rule-bound-inquiry",
+      "qualifications": [
+        "These are distinct uses of folklore and should not be collapsed into one genre rule."
+      ],
+      "statement": "[[EvidenceBoundFolkloreInquiry]] and [[SettingBasedMystery]] show how inherited motifs can support source criticism or fair-play puzzle design.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "EvidenceBoundFolkloreInquiry",
+        "SettingBasedMystery",
+        "FolkTaleMysteryRewriting"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "speculative-fiction-challenges-human-centrality",
+      "qualifications": [
+        "This conclusion is concentrated in the Clark Ashton Smith material."
+      ],
+      "statement": "[[CosmicHorror]] and [[AntiAnthropocentricSatire]] use nonhuman scale and humor to challenge assumptions about human importance.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "CosmicHorror",
+        "AntiAnthropocentricSatire"
+      ]
+    }
+  ],
+  "summary": "The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, and agency rather than treating works only as plots or entertainment objects.",
+  "topic_id": "culture-and-media"
+}
