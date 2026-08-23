@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up](sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830.md) — All-In episode on Dario Amodei's response, Anthropic regulatory-capture criticism, AI safety rhetoric, data-center backlash, open-source AI, self-regulation models, AI job anxiety, midterms, and affordability-driven socialism.
 - [Who decides what big box sells? Our GAME got us answers](sources/who-decides-what-big-box-sells-our-game-got-us-answers.md) — Planet Money episode following Sell Me a Sasquatch through line review, buyer concerns, planograms, pricing, royalties, manufacturing deadlines, shelf tests, and Target/Walmart availability.
 - [145. 改嫁中资的餐饮洋品牌](sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1.md) — 疯投圈 episode on foreign restaurant brands shifting China control to local investors and operators, covering McDonald's, Subway, Burger King, Starbucks, Pizza Hut, Haagen-Dazs, ice-cream store models, fragrance supply-chain moats, and demand-versus-supply-chain industry judgment.
 - [EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你](sources/ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc.md) — Talk三联 episode with Jia Zhangke on short-video rediscovery of older film scenes, ordinary-life poetics, youth mobility, AI anxiety, and era transition.
@@ -2420,6 +2421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ElevenLabs](entities/ElevenLabs.md) — AI audio company used in the episode as an application-layer example for specialized models and model fungibility.
 - [Gavin Baker](entities/GavinBaker.md) — Atreides Management investor voice in the All-In secondaries episode, contrasting public-market discipline with access-driven private-market incentives.
 - [Atreides Management](entities/AtreidesManagement.md) — Investment-firm context for Gavin Baker's public/private-market discipline comments in the All-In secondaries episode.
+- [Fivetran](entities/Fivetran.md) — Enterprise data company named in All-In's source-scoped antitrust side story about alleged interlocking directorates involving Andreessen Horowitz and Databricks.
 - [Kelly Rodriques](entities/KellyRodriques.md) — Forge Global CEO explaining regulated SPVs, Forge/Schwab infrastructure, and democratized but risk-aware private-market access.
 - [Forge Global](entities/ForgeGlobal.md) — Private-market platform framed by All-In as infrastructure for permissioned secondaries, SPVs, and broader private-company exposure.
 - [Circle](entities/Circle.md) — Stablecoin issuer behind USDC, presented by All-In as a regulated bridge between open blockchain networks and mainstream financial trust.
@@ -12486,7 +12488,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, data centers, tech power, and speed of change.
+- [AI Regulatory Capture Risk](concepts/AIRegulatoryCaptureRisk.md) — Risk that frontier AI safety rules become incumbent-friendly barriers when leading labs help define the standards, thresholds, or release procedures.
+- [AI Industry Self-Regulation](concepts/AIIndustrySelfRegulation.md) — Debate over voluntary AI standards, ratings, and information-sharing versus quasi-governmental pre-release model checkpoints.
 - [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, bills, cost shifting, environmental burden, and rapid technological change.
+- [Recursive Self-Improvement Regulation Paradox](concepts/RecursiveSelfImprovementRegulationParadox.md) — Governance problem where approval gates may slow compliant AI labs while distributed model-improvement loops continue elsewhere.
+- [Affordability-Driven Socialism](concepts/AffordabilityDrivenSocialism.md) — Political pattern where high housing, healthcare, education, energy, and childcare costs push voters toward state intervention or DSA-style ideas.
 - [AI Metabolic Infrastructure](concepts/AIMetabolicInfrastructure.md) — Frame treating AI as a material system that consumes data, minerals, energy, water, land, labor, culture, and utility capacity while producing outputs, heat, carbon, and waste.
 - [China Divorce Restrictions](concepts/ChinaDivorceRestrictions.md) — Legal, administrative, property, and censorship barriers to divorce in China, framed against population policy and women's exit costs.
 - [Marriage Exit Friction](concepts/MarriageExitFriction.md) — Policy-design problem where making divorce harder can reduce reported exits while discouraging marriage entry or trapping unhappy spouses.

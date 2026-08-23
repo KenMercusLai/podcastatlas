@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5196
+wiki_total_pages: 5200
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "RecursiveSelfImprovement"
     title: "Recursive Self-Improvement"
     url: "/wiki/concepts/recursiveselfimprovement/"
+  - key: "RecursiveSelfImprovementRegulationParadox"
+    title: "Recursive Self-Improvement Regulation Paradox"
+    url: "/wiki/concepts/recursiveselfimprovementregulationparadox/"
   - key: "RedHeadShips"
     title: "Red Head Ships / 红头船"
     url: "/wiki/concepts/redheadships/"

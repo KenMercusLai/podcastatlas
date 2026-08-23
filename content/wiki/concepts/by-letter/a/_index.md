@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5196
+wiki_total_pages: 5200
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "AffectivePolarization"
     title: "Affective Polarization / 情感极化"
     url: "/wiki/concepts/affectivepolarization/"
+  - key: "AffordabilityDrivenSocialism"
+    title: "Affordability-Driven Socialism"
+    url: "/wiki/concepts/affordabilitydrivensocialism/"
   - key: "AfghanWomenFirstPersonWriting"
     title: "Afghan Women First-Person Writing"
     url: "/wiki/concepts/afghanwomenfirstpersonwriting/"
@@ -704,6 +707,9 @@ wiki_pages:
   - key: "AIImpersonationFraudRisk"
     title: "AI Impersonation Fraud Risk"
     url: "/wiki/concepts/aiimpersonationfraudrisk/"
+  - key: "AIIndustrySelfRegulation"
+    title: "AI Industry Self-Regulation"
+    url: "/wiki/concepts/aiindustryselfregulation/"
   - key: "AIInferenceCostStructure"
     title: "AI Inference Cost Structure"
     url: "/wiki/concepts/aiinferencecoststructure/"
@@ -902,6 +908,9 @@ wiki_pages:
   - key: "AIRecruitingSourcing"
     title: "AI Recruiting Sourcing"
     url: "/wiki/concepts/airecruitingsourcing/"
+  - key: "AIRegulatoryCaptureRisk"
+    title: "AI Regulatory Capture Risk"
+    url: "/wiki/concepts/airegulatorycapturerisk/"
   - key: "AIResearchFeedbackCompression"
     title: "AI Research Feedback Compression"
     url: "/wiki/concepts/airesearchfeedbackcompression/"

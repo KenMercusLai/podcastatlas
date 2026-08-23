@@ -2,11 +2,13 @@
 title: "David Friedberg"
 type: entity
 tags: [person, entrepreneur, podcast-host]
-sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-21
+sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-24
 ---
 
 # David Friedberg
+
+[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds Friedberg's steelman-and-affordability role. He pushes the group to take frontier-lab safety concerns seriously, then argues that [[RecursiveSelfImprovement]] makes approval-based regulation hard to contain globally; later he frames housing, healthcare, education, and asset ownership as the cost-of-living basis for [[AffordabilityDrivenSocialism]].
 
 [[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds Friedberg's tort-and-science-policy branch. He argues social-media child harm should not erase parental responsibility, treats AI abundance as making human agency more important, and helps frame [[PCAST]] as a science and industrialization response to AI, biotech, semiconductors, quantum, nuclear power, and [[China]] competition.
 
@@ -27,6 +29,7 @@ David Friedberg appears in [[all-in-with-chamath-jason-sacks-friedberg-why-ai-wi
 ## Connections
 - [[Cerebras]], [[AndrewFeldman]], [[AIAbundanceNarrative]], [[BlackForestLabs|Black Forest Labs]], [[RobinRombach]], and [[VideoModels]] - July 10 All-In AI infrastructure and multimodal-model context.
 - [[PropertyRightsAsInvestmentIncentive]], [[WealthTaxLegitimacy]], [[EquityCompensationUpside]], and [[IranNuclearMissileBargaining]] - private-property, mobility, and uranium-removal branch added by the June 19 episode.
+- [[RecursiveSelfImprovementRegulationParadox]], [[AffordabilityDrivenSocialism]], [[HousingAffordabilitySupplyMechanics]], and [[DataCenterBacklash]] - August 21 branch on AI safety steelmanning, regulatory limits, and cost-of-living politics.
 - [[AllIn|All-In]], [[ChamathPalihapitiya|Chamath Palihapitiya]], [[JasonCalacanis|Jason Calacanis]], and [[DavidSacks|David Sacks]] - show context.
 - [[Circle]], [[CrowdStrike]], [[ArcherAviation|Archer Aviation]], and [[Crusoe]] - Davos CEO interview branches added by the January 25 episode.
 - [[MartyMakary|Marty Makary]], [[FoodAndDrugAdministration|FDA]], [[VaccineScheduleTrustRebuilding]], and [[RootCausePublicHealthResearch]] - Makary interview branches.

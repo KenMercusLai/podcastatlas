@@ -2,8 +2,8 @@
 title: "Recursive Self-Improvement"
 type: concept
 tags: [ai, agents, training, safety]
-sources: [cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
-last_updated: 2026-08-09
+sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
+last_updated: 2026-08-24
 ---
 
 # Recursive Self-Improvement
@@ -32,6 +32,8 @@ The source is careful about the difference between one self-improvement loop and
 
 [[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds a model-team qualification through [[ChaSheng]]. He says today's self-improvement is still largely a human-designed loop across algorithms, engineering, and data pipelines; the scarce part is knowing which direction is better, which makes [[HumanTasteAsAITrainingSignal]] and [[ResearchTaste]] part of the mechanism.
 
+[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds a governance paradox rather than a new technical definition. [[DavidFriedberg|David Friedberg]] argues that if RSI is real, a pre-release approval regime may be a poor containment tool because labs or individuals could run improvement loops wherever chips, power, and connectivity are available. This creates [[RecursiveSelfImprovementRegulationParadox]] beside the existing safety-control and verification problems.
+
 ## Key Claims
 - RSI depends on long-horizon task ability, tool use, search, code generation, and feedback loops.
 - Coding is an early route because model training, data pipelines, infrastructure, benchmark construction, and evaluation are code-heavy.
@@ -49,6 +51,7 @@ The source is careful about the difference between one self-improvement loop and
 - The episode adds a scaling-dynamics caveat: if model progress follows S-curve plateaus and breakthroughs rather than one smooth scaling law, first-mover advantage may be less absolute than simple compounding stories imply.
 - Meng's source adds that RSI can be operationalized as data and environment production before full model self-replication: training traces, benchmark environments, and verifier feedback may be the purchasable near-term form.
 - The Evolvent AI source also argues that RSI capability may be partly internalized by stronger base models through pretraining, long context, and world-model-like knowledge rather than living only in an external harness.
+- The August 21 All-In source adds that RSI can weaken domestic release-gate effectiveness: compliance may bind named firms more than the underlying distributed improvement loop.
 
 ## Connections
 - [[MengFanqing]], [[EvolventAI]], [[RSIData]], [[SyntheticAgentData]], [[EnvironmentBasedAgentBenchmarks]], and [[RSIBenchData]] — Evolvent AI source branch on data-level RSI and benchmark environments.

@@ -10693,6 +10693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up
+
+Added source page for an All-In episode on Dario Amodei's response to criticism, Anthropic regulatory-capture claims, AI safety rhetoric, FINRA/MPAA-style self-regulation, data-center backlash, open-source AI, recursive self-improvement regulation, midterm odds, and affordability-driven socialism. Created AI Regulatory Capture Risk, AI Industry Self-Regulation, Recursive Self-Improvement Regulation Paradox, Affordability-Driven Socialism, and Fivetran; updated overview, index, All-In, Anthropic, Dario Amodei, the All-In hosts, AI safety and data-center politics pages, Polymarket, DSA, and antitrust side-story entities. No settled contradiction found; the episode's policy, polling, spending, and inflation claims remain source-scoped.
+
 ## [2026-08-24] ingest | Who decides what big box sells? Our GAME got us answers
 
 Added source page for a Planet Money episode following Sell Me a Sasquatch from naming into big-box retail approval, line review, buyer questions, planograms, price-point scoping, royalties, packaging upgrades, manufacturing deadlines, shelf testing, and Target/Walmart availability. Created Matt Adelman, Tori Welch, Retail Line Review, Planogram Gatekeeping, Retail Price-Point Product Scoping, Audience-Backed Retail Pitch, Mass Retail Production Deadline, and Licensed Product Risk Allocation; updated overview, index, Planet Money, NPR, Exploding Kittens, Sell Me a Sasquatch, The Market for Lemons, Retail Shelf Appeal, Retail Shelf Placement, Packaging As Product Experience, Product Launch Under Constraint, Target, Walmart, Erika Beras, and Kenny Malone. No direct contradiction found; the original line-review retailer remains source-scoped because the episode withholds its identity.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6856
+wiki_total_pages: 6857
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "FiveBelow"
     title: "Five Below"
     url: "/wiki/entities/fivebelow/"
+  - key: "Fivetran"
+    title: "Fivetran"
+    url: "/wiki/entities/fivetran/"
   - key: "FlashInvaders"
     title: "Flash Invaders"
     url: "/wiki/entities/flashinvaders/"

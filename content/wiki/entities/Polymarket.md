@@ -2,11 +2,13 @@
 title: "Polymarket"
 type: entity
 tags: [prediction-market, markets, probability]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
-last_updated: 2026-08-20
+sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
+last_updated: 2026-08-24
 ---
 
 # Polymarket
+
+[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds Polymarket as a 2026 midterm probability signal. [[JasonCalacanis|Jason Calacanis]] cites a market showing Democrats near even odds to take the Senate, while [[DavidSacks|David Sacks]] treats the Senate as a toss-up but says polling error makes him lean toward Republicans holding it.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Polymarket as a noisy market signal for AI IPO timing. [[JasonCalacanis|Jason Calacanis]] cites a roughly 65% Anthropic IPO probability while also noting light volume, making this a source-scoped example of prediction markets as context rather than proof.
 
@@ -32,6 +34,7 @@ Polymarket also appears in [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-ch
 - The Planet Money history source makes Polymarket part of a longer [[PredictionMarketHistory]] rather than only a current crypto or event-contract platform.
 - The later Albert source treats Polymarket as a possible OPF feedback loop, but the claim remains speculative and exposed to [[InvestmentRiskManagement]] concerns.
 - The All-In prediction source is a bullish asset and infrastructure call, so it should be read beside the page's existing ethics, integrity, and suitability caveats.
+- The August 21 All-In source uses Polymarket as election context, not as proof of final 2026 Senate outcomes.
 
 ## Connections
 - [[PredictionMarketEthics]], [[Kalshi]], and [[CommodityFuturesTradingCommission|CFTC]] - harmful-event market and regulatory frame added by Marketplace Tech.

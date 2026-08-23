@@ -1771,6 +1771,10 @@
     "title": "AI Impersonation Fraud Risk",
     "url": "/wiki/concepts/aiimpersonationfraudrisk/"
   },
+  "AIIndustrySelfRegulation": {
+    "title": "AI Industry Self-Regulation",
+    "url": "/wiki/concepts/aiindustryselfregulation/"
+  },
   "AIInferenceCostStructure": {
     "title": "AI Inference Cost Structure",
     "url": "/wiki/concepts/aiinferencecoststructure/"
@@ -2042,6 +2046,10 @@
   "AIRecruitingSourcing": {
     "title": "AI Recruiting Sourcing",
     "url": "/wiki/concepts/airecruitingsourcing/"
+  },
+  "AIRegulatoryCaptureRisk": {
+    "title": "AI Regulatory Capture Risk",
+    "url": "/wiki/concepts/airegulatorycapturerisk/"
   },
   "AIResearchFeedbackCompression": {
     "title": "AI Research Feedback Compression",
@@ -2886,6 +2894,10 @@
   "AffectivePolarization": {
     "title": "Affective Polarization / 情感极化",
     "url": "/wiki/concepts/affectivepolarization/"
+  },
+  "AffordabilityDrivenSocialism": {
+    "title": "Affordability-Driven Socialism",
+    "url": "/wiki/concepts/affordabilitydrivensocialism/"
   },
   "AffordableCareAct": {
     "title": "Affordable Care Act / 奥巴马医改",
@@ -15830,6 +15842,10 @@
   "FiveHundredStartups": {
     "title": "500 Startups",
     "url": "/wiki/entities/fivehundredstartups/"
+  },
+  "Fivetran": {
+    "title": "Fivetran",
+    "url": "/wiki/entities/fivetran/"
   },
   "FixedHumanNaturePolitics": {
     "title": "Fixed Human Nature Politics",
@@ -35683,6 +35699,10 @@
     "title": "Recursive Self-Improvement",
     "url": "/wiki/concepts/recursiveselfimprovement/"
   },
+  "RecursiveSelfImprovementRegulationParadox": {
+    "title": "Recursive Self-Improvement Regulation Paradox",
+    "url": "/wiki/concepts/recursiveselfimprovementregulationparadox/"
+  },
   "Recursor": {
     "title": "Recursor",
     "url": "/wiki/entities/recursor/"
@@ -49498,6 +49518,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605": {
     "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830": {
+    "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370": {
     "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",

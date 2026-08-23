@@ -2,11 +2,13 @@
 title: "Dario Amodei"
 type: entity
 tags: [person, ai, safety]
-sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-08-21
+sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-24
 ---
 
 # Dario Amodei
+
+[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds Amodei through his response to criticism of [[Anthropic]]'s regulation and safety posture. The hosts keep his motives mostly sincere, but argue that job-loss warnings, blackmail-style safety examples, and preferred AI regulatory frameworks can feed [[AISafetyNarrativeBackfire]], [[AIRegulatoryCaptureRisk]], [[DataCenterBacklash]], and demands for quasi-governmental [[FrontierModelReleaseGovernance]].
 
 [[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds a stronger market-facing version of the centralized-control critique. [[GavinBaker|Gavin Baker]] says Anthropic's constitution and Amodei's view of the public good make him prefer an AI aligned to his own values instead, while the hosts connect Amodei's safety posture to [[DecentralizedAIControl]], [[ModelValueEmbedding]], [[OpenModelSafetyGovernance]], and pressure from [[OpenSourceAIModels]].
 
@@ -29,6 +31,7 @@ Dario Amodei appears in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengz
 
 ## Connections
 - [[DecentralizedAIControl]], [[ModelValueEmbedding]], [[OpenSourceAIModels]], [[OpenModelSafetyGovernance]], and [[Anthropic]] - August 14 All-In branch around constitutional AI, values, and centralized-control criticism.
+- [[AIRegulatoryCaptureRisk]], [[AIIndustrySelfRegulation]], [[DataCenterBacklash]], and [[RecursiveSelfImprovementRegulationParadox]] - August 21 All-In branch around Amodei's response and the broader governance backlash.
 - [[Fable5|Fable 5]], [[HyperscalerAIGatekeeping]], and [[FrontierModelReleaseGovernance]] - All-In branch around cyber-risk framing, model shutdown, and centralized control.
 - [[Anthropic]] — company context.
 - [[AISafetyNarrativeBackfire]] — main concept attached to his role in this source.

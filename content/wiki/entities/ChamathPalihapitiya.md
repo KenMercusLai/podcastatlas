@@ -2,11 +2,13 @@
 title: "Chamath Palihapitiya"
 type: entity
 tags: [person, investor, podcast-host]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-20
+sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-24
 ---
 
 # Chamath Palihapitiya
+
+[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds Chamath's data-center-backlash and corporate-capitalism branch. He links AI doom messaging, rising yields, utility pressure, and anti-data-center politics to [[DataCenterBacklash]] and argues that technology leaders need a better public face for capitalism if AI wealth and automation are not going to feed [[AffordabilityDrivenSocialism]].
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Chamath's enterprise token-audit role. He says some companies are seeing AI spend double while productivity gains remain modest, then describes using [[OpenRouter]], [[GLM52|GLM 5.2]], and routing to cut costs sharply; his contribution links [[AIInferenceCostStructure]], [[EnterpriseAIROIAudit]], [[ModelRoutingCostControl]], and [[JevonsParadoxInAI]].
 
@@ -25,6 +27,7 @@ Chamath Palihapitiya appears in [[all-in-with-chamath-jason-sacks-friedberg-why-
 ## Connections
 - [[Cerebras]], [[AndrewFeldman]], [[BlackForestLabs|Black Forest Labs]], [[RobinRombach]], [[OpenSourceAIModels]], and [[VideoModels]] - July 10 All-In AI infrastructure and visual-model context.
 - [[HyperscalerAIGatekeeping]], [[Anthropic]], [[Fable5|Fable 5]], [[Amazon]], [[Microsoft]], and [[Google]] - AI control branch added by the Fable shutdown discussion.
+- [[DataCenterBacklash]], [[AIBacklashPolitics]], [[AffordabilityDrivenSocialism]], and [[AICommercializationPressure]] - August 21 branch on AI messaging, infrastructure politics, and capitalism's public legitimacy.
 - [[AllIn|All-In]], [[JasonCalacanis|Jason Calacanis]], [[DavidSacks|David Sacks]], and [[DavidFriedberg|David Friedberg]] - show context.
 - [[Circle]], [[CrowdStrike]], [[ArcherAviation|Archer Aviation]], and [[Crusoe]] - Davos CEO interview branches added by the January 25 episode.
 - [[HowardLutnick|Howard Lutnick]], [[ManufacturingWorkforcePipeline]], and [[GoodJobsForNonCollegeWorkers]] - skilled-trades and growth-policy branch added by the Lutnick interview.

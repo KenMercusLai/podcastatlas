@@ -2,11 +2,13 @@
 title: "Jason Calacanis"
 type: entity
 tags: [person, investor, podcast-host]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-20
+sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-24
 ---
 
 # Jason Calacanis
+
+[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds Jason's voter-anxiety and affordability branch. He argues ordinary Americans are more likely to judge AI through jobs, local driver income, data centers, billionaire enrichment, housing, childcare, wages, and trade-school access than through abstract safety theory, making him a key voice in the source's [[AIBacklashPolitics]] and [[AffordabilityDrivenSocialism]] synthesis.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Jason's IPO-timing and enterprise-agent role. He frames [[Anthropic]] as the leading possible AI IPO, cites [[Polymarket]] odds, brings in [[Uber]] agentic-usage data, and pushes the episode toward [[TrumpAccounts|Trump accounts]] as a mass-market ownership product.
 
@@ -29,6 +31,7 @@ In this episode, Jason's role is to move the discussion from AI as a general the
 ## Connections
 - [[AndrewFeldman]], [[Cerebras]], [[TokenMaxxing]], [[LoopMaxxing]], [[FrontierModelReleaseGovernance]], [[BlackForestLabs|Black Forest Labs]], [[MartinScorsese]], and [[IPControlledGenerativeModels]] - July 10 AI infrastructure and creative-tool branch.
 - [[RetailPrivateMarketAccess]], [[FrontierModelReleaseGovernance]], [[SpaceX]], and [[USIranNuclearDiplomacy]] - retail IPO access, AI self-certification, and Iran containment branch added by the June 19 episode.
+- [[AIBacklashPolitics]], [[AIJobSecurityAnxiety]], [[Waymo]], [[AffordabilityDrivenSocialism]], and [[Polymarket]] - August 21 branch on labor anxiety, autonomy, affordability politics, and midterm odds.
 - [[AllIn|All-In]], [[ChamathPalihapitiya|Chamath Palihapitiya]], [[DavidSacks|David Sacks]], and [[DavidFriedberg|David Friedberg]] - show context.
 - [[Stablecoins]], [[AIDetectionAndResponse]], [[EVTOLCertificationRamp]], and [[EnergyFirstNeocloud]] - technology branches added by the Davos CEO episode.
 - [[HowardLutnick|Howard Lutnick]], [[TradeReciprocityProtectionism]], [[TariffRevenueFiscalSubstitution]], and [[AIExportControls]] - policy-interview context added by the Lutnick source.
