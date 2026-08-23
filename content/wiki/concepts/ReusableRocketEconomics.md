@@ -2,13 +2,17 @@
 title: "Reusable Rocket Economics"
 type: concept
 tags: [space, economics, manufacturing, spacex, china]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714]
 last_updated: 2026-08-24
 ---
 
 # Reusable Rocket Economics
 
 [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a Chinese private-launch milestone through [[LandSpace]] and [[Zhuque3]]. The source says Zhuque-3 Yao-2 completed China's first successful land recovery of a carrier rocket, and it frames the result as a confidence signal for LandSpace's planned fundraising. This extends the concept's existing caution: a landing can improve investor belief and technical credibility, while repeat launch cadence and turnaround still decide the economic outcome.
+
+[[zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714]] adds [[DongKai]]'s operating version of the same caution. Dong says reuse is a multiplier for launch capacity, not a replacement for production capacity, and he frames [[LandSpace]]'s strategic target as large payload, high frequency, and low cost. His benchmark contrast is sobering: [[Falcon9]]'s roughly 150 launches per year are far beyond China's then-total annual launch count, so a single Long March 5-class model reaching 50 launches per year within five years would already be a step-change in his view.
+
+The episode adds [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[RocketRecoveryBinaryOutcome]] as economic preconditions. A reusable rocket must be designed to reduce post-flight maintenance, must pick recovery ranges that balance payload with landing safety, and must actually land stably before financing or capacity narratives become repeat-use economics.
 
 Reusable rocket economics is the cost-structure shift created when launch vehicles can return, be inspected, and fly again rather than being discarded after one mission. In [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]], [[LouisHong]] argues that this was the real turning point for [[SpaceX]] and the space industry.
 
@@ -26,6 +30,7 @@ The episode uses ordinary transport as the analogy: air travel, trains, and cars
 - The economic impact depends on reuse plus production scale, reliability, inspection, cadence, and mission demand; landing alone is not enough.
 - Reusable launch turns [[SpaceEconomyInfrastructure]] from a government or prestige project into a platform with downstream business logic.
 - Route choice changes the cost equation: [[Falcon9]] landing legs, [[Starship]] tower catch, and [[LongMarch10B]] sea-net capture allocate mass, infrastructure, risk, and turnaround work differently.
+- Reuse can multiply launch capacity only when production, landing, refurbishment, and mission demand all scale together.
 - Full reusability adds the upper-stage problem: first-stage reuse can raise cadence, but discarded second stages still limit marginal cost and production throughput.
 - Flight rate matters because launch infrastructure and labor are fixed-cost systems as much as vehicle systems.
 - Orbital compute magnifies the launch-cost question because a 1GW target may require thousands of compute satellites and roughly 100 Starship-class launches under the episode's rough model.
@@ -35,7 +40,7 @@ The episode uses ordinary transport as the analogy: air travel, trains, and cars
 - [[SpaceX]], [[Falcon9]], and [[Starship]] — company and launch systems in the source.
 - [[Stoke]], [[AndyLapsa]], and [[SecondStageReuseConstraint]] — full-reuse startup case and upper-stage bottleneck added by The Social Radars.
 - [[LongMarch10B]], [[SeaNetRocketRecovery]], and [[ReusableRocketTurnaround]] — China-specific recovery route and post-capture validation added by S10E21.
-- [[LandSpace]] and [[Zhuque3]] — Chinese private-launch milestone added by 声动早咖啡.
+- [[LandSpace]], [[Zhuque3]], [[DongKai]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[RocketRecoveryBinaryOutcome]] — Chinese private-launch milestone and engineering account.
 - [[Starlink]] — downstream constellation business enabled by lower launch cost.
 - [[FirstPrinciplesManufacturing]] — manufacturing discipline needed to make reuse and launch cadence economically useful.
 - [[AIIPOValuation]] — investor frame qualified by the source's claim that the technical inflection came before IPO attention.

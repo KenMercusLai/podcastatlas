@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5264
+wiki_total_pages: 5267
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "RecordedMeetingAnalysis"
     title: "Recorded Meeting Analysis"
     url: "/wiki/concepts/recordedmeetinganalysis/"
+  - key: "RecoveryRangePayloadTradeoff"
+    title: "Recovery Range Payload Tradeoff"
+    url: "/wiki/concepts/recoveryrangepayloadtradeoff/"
   - key: "RecruitingSupplyStrategy"
     title: "Recruiting Supply Strategy"
     url: "/wiki/concepts/recruitingsupplystrategy/"
@@ -482,6 +485,9 @@ wiki_pages:
   - key: "ReusableRocketTurnaround"
     title: "Reusable Rocket Turnaround"
     url: "/wiki/concepts/reusablerocketturnaround/"
+  - key: "ReuseFirstRocketDesign"
+    title: "Reuse-First Rocket Design"
+    url: "/wiki/concepts/reusefirstrocketdesign/"
   - key: "ReverseNewCoBiotechModel"
     title: "Reverse NewCo Biotech Model"
     url: "/wiki/concepts/reversenewcobiotechmodel/"
@@ -626,6 +632,9 @@ wiki_pages:
   - key: "RocketPropellantSettling"
     title: "Rocket Propellant Settling"
     url: "/wiki/concepts/rocketpropellantsettling/"
+  - key: "RocketRecoveryBinaryOutcome"
+    title: "Rocket Recovery Binary Outcome"
+    url: "/wiki/concepts/rocketrecoverybinaryoutcome/"
   - key: "RocketRecoveryRouteChoice"
     title: "Rocket Recovery Route Choice"
     url: "/wiki/concepts/rocketrecoveryroutechoice/"

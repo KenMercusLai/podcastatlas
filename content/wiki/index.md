@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态 | S9E41](sources/zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714.md) — What's Next replay with Dong Kai on Zhuque-3's 2025 recovery failure, 2026 Yao-2 success, reuse-first design, recovery-distance payload tradeoffs, and launch-cadence economics.
 - [Wake-up haul: an Ozempic moment for the brain](sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744.md) — The Intelligence episode on orexin agonists and narcolepsy, Japan's startup-capital and IPO constraints, and procrastination as self-regulatory failure.
 - [Cyberattacks on U.S. water systems raise concerns about security](sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128.md) — Marketplace Tech episode with Nikita Shah on multi-state water-system cyberattacks, basic cyber hygiene failures, manual recovery, AI vulnerability discovery, election information operations, and private-sector offensive cyber authority.
 - [蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿](sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506.md) — 声动早咖啡 roundup on Unitree's listing, LandSpace/Zhuque-3 land recovery, Baidu and iQIYI AI/media pressure, Xiaomi EV export plans, Arc'teryx China growth, Lucky Coffee, GLP-1 nutrition, airline meals, and Sydney drone lifeguards.
@@ -1361,6 +1362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dong Kai / 董凯](entities/DongKai.md) — LandSpace Zhuque-3 overall deputy chief designer explaining reusable-rocket design, recovery standards, and launch-cadence constraints.
 - [Shailesh Chitnis](entities/ShaileshChitnis.md) — The Intelligence voice explaining orexin agonists, narcolepsy, and the source's cautious GLP-1 analogy.
 - [Ovoperextone](entities/Ovoperextone.md) — Takeda orexin agonist named as the source's concrete narcolepsy drug case.
 - [Alkermes](entities/Alkermes.md) — Pharmaceutical company named as working on orexin-agonist drugs.
@@ -8348,6 +8350,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rocket Recovery Binary Outcome](concepts/RocketRecoveryBinaryOutcome.md) — Strict reusable-booster recovery standard where close descent still fails unless the stage lands and remains stable.
+- [Recovery Range Payload Tradeoff](concepts/RecoveryRangePayloadTradeoff.md) — Zhuque-3 source frame for how landing-site distance and propellant reserve affect reusable-rocket payload.
+- [Reuse-First Rocket Design](concepts/ReuseFirstRocketDesign.md) — Design principle that material, propellant, engine, recovery, and maintenance choices must serve repeated flight from the start.
 - [Orexin Agonists](concepts/OrexinAgonists.md) — Drug-category frame for medicines mimicking orexin, with narcolepsy as the grounded first use case and broader uses still uncertain.
 - [Narcolepsy Wake-Sleep Boundary](concepts/NarcolepsyWakeSleepBoundary.md) — Source framing of narcolepsy as a blurred boundary between sleeping and waking linked to orexin biology.
 - [Japanese Startup Exit Constraint](concepts/JapaneseStartupExitConstraint.md) — Japan startup-system problem combining limited late-stage venture capital, low founder status, and premature IPO pressure.

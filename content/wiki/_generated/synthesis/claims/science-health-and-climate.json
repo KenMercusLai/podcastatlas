@@ -15,6 +15,23 @@
       ]
     },
     {
+      "global_candidate": true,
+      "id": "reusable-launch-needs-operational-closure",
+      "qualifications": [
+        "This claim is grounded in the Zhuque-3 replay source and preserves the distinction between a first successful recovery and proven low-cost repeat reuse."
+      ],
+      "statement": "[[Zhuque3]] shows that reusable launch is not proven by ascent or a near landing alone; [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[ReusableRocketTurnaround]] all have to close before [[ReusableRocketEconomics]] is demonstrated.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "Zhuque3",
+        "RocketRecoveryBinaryOutcome",
+        "ReuseFirstRocketDesign",
+        "RecoveryRangePayloadTradeoff",
+        "ReusableRocketTurnaround",
+        "ReusableRocketEconomics"
+      ]
+    },
+    {
       "global_candidate": false,
       "id": "scientific-imagination-remains-evidence-bound",
       "qualifications": [
@@ -41,6 +58,6 @@
       ]
     }
   ],
-  "summary": "Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by a technological promise.",
+  "summary": "Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery and turnaround, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.",
   "topic_id": "science-health-and-climate"
 }

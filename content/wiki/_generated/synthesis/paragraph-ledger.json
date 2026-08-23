@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8b6c6c1e2e4d589fbc6db6aac4dfc609de7aff75e790e469520bd0910f34a2a9",
       "cbad7cf493d5370d11e5d301c666d5a37465520e77f31c7e20d747b7a1554575",
       "9a1d3dc2b7fb17f46f11a17ab82c30607d0538f83a810f7e32c7a9c236493155",
       "6ea267261525c88f7bc096afcd8cc7f8e4f50e4f9746ea37a20ee80d74810e9a",
@@ -158,11 +159,39 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 156
+    "paragraph_count": 157
   },
-  "overview_commit": "2a90b8cf0dc78980f4e8c5cb291b4ec0bebab27c",
-  "overview_digest": "9ac063aed9055dcbb573a4d869ae9698b13d33bf62a7c669af5e6c745ff1a048",
+  "overview_commit": "5d4ab724b8fb083f7c5b46bc632042536f74578a",
+  "overview_digest": "58819913b370a0f4ebf0a3083893383946a0b20914da8d6e3b4396e80d9c93ec",
   "paragraphs": [
+    {
+      "id": "8b6c6c1e2e4d589fbc6db6aac4dfc609de7aff75e790e469520bd0910f34a2a9",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714]], a [[WhatsNextKejiZaozhidao|What's Next｜科技早知道]] replay episode with [[DongKai|董凯]] of [[LandSpace|蓝箭航天]] on [[Zhuque3|朱雀三号]]'s path from a 2025 first-flight recovery failure to the August 19, 2026 Yao-2 success. It adds [[DongKai]], [[RocketRecoveryBinaryOutcome]], [[RecoveryRangePayloadTradeoff]], and [[ReuseFirstRocketDesign]], while extending [[ReusableRocketEconomics]], [[RocketRecoveryRouteChoice]], [[ReusableRocketTurnaround]], [[SpaceX]], [[Falcon9]], [[Starship]], [[BlueOrigin]], [[CommercialRocketLaunchPriority]], and [[SpaceEconomyInfrastructure]]. Its core synthesis is that reusable launch has to close several gates at once: the booster either lands and remains stable or recovery fails, but failed flight data can still improve the next attempt; design choices such as methane, stainless steel, recovery range, production cadence, safety boundaries, and turnaround targets matter only if they converge into repeated safe reuse. No settled contradiction is recorded; the source deepens the wiki's existing Zhuque-3 branch by preserving the 2025 terminal failure and the later 2026 recovery milestone without treating one landing as proven low-cost reuse.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "BlueOrigin",
+        "CommercialRocketLaunchPriority",
+        "DongKai",
+        "Falcon9",
+        "LandSpace",
+        "RecoveryRangePayloadTradeoff",
+        "ReusableRocketEconomics",
+        "ReusableRocketTurnaround",
+        "ReuseFirstRocketDesign",
+        "RocketRecoveryBinaryOutcome",
+        "RocketRecoveryRouteChoice",
+        "SpaceEconomyInfrastructure",
+        "SpaceX",
+        "Starship",
+        "WhatsNextKejiZaozhidao",
+        "Zhuque3",
+        "zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714"
+      ]
+    },
     {
       "id": "cbad7cf493d5370d11e5d301c666d5a37465520e77f31c7e20d747b7a1554575",
       "primary_topic": "business-and-markets",

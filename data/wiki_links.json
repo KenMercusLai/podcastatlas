@@ -13055,6 +13055,10 @@
     "title": "Dong Hongguang / 董宏光",
     "url": "/wiki/entities/donghongguang/"
   },
+  "DongKai": {
+    "title": "Dong Kai / 董凯",
+    "url": "/wiki/entities/dongkai/"
+  },
   "DongMin": {
     "title": "董敏",
     "url": "/wiki/entities/dongmin/"
@@ -36223,6 +36227,10 @@
     "title": "Recorded Meeting Analysis",
     "url": "/wiki/concepts/recordedmeetinganalysis/"
   },
+  "RecoveryRangePayloadTradeoff": {
+    "title": "Recovery Range Payload Tradeoff",
+    "url": "/wiki/concepts/recoveryrangepayloadtradeoff/"
+  },
   "RecruiterBox": {
     "title": "RecruiterBox",
     "url": "/wiki/entities/recruiterbox/"
@@ -36883,6 +36891,10 @@
     "title": "Reusable Rocket Turnaround",
     "url": "/wiki/concepts/reusablerocketturnaround/"
   },
+  "ReuseFirstRocketDesign": {
+    "title": "Reuse-First Rocket Design",
+    "url": "/wiki/concepts/reusefirstrocketdesign/"
+  },
   "Reuters": {
     "title": "Reuters",
     "url": "/wiki/entities/reuters/"
@@ -37330,6 +37342,10 @@
   "RocketPropellantSettling": {
     "title": "Rocket Propellant Settling",
     "url": "/wiki/concepts/rocketpropellantsettling/"
+  },
+  "RocketRecoveryBinaryOutcome": {
+    "title": "Rocket Recovery Binary Outcome",
+    "url": "/wiki/concepts/rocketrecoverybinaryoutcome/"
   },
   "RocketRecoveryRouteChoice": {
     "title": "Rocket Recovery Route Choice",
@@ -53102,6 +53118,10 @@
   "zhongqiu-kuaile-669967741": {
     "title": "中秋快乐！",
     "url": "/wiki/sources/zhongqiu-kuaile-669967741/"
+  },
+  "zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714": {
+    "title": "【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态 | S9E41",
+    "url": "/wiki/sources/zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714/"
   },
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",

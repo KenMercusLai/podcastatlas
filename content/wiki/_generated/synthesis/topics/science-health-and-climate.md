@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-08-23
-as_of_overview_commit: b584e94806790866a5b885588a74974fcdf2a432
-input_digest: e331a54acd3f89c6b22888918b4041c981c83722407045e8ab971ecf2f5e65f6
+last_updated: 2026-08-24
+as_of_overview_commit: 5d4ab724b8fb083f7c5b46bc632042536f74578a
+input_digest: 02cd3840e2ad8b4f98741fe532f6e9c7baac44e061b3fc53b8c276afc952eaf1
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by a technological promise.
+Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery and turnaround, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.
 
 ## Cross-source Findings
 
@@ -25,6 +25,16 @@ Science, health, and climate claims become credible when evidence, expert judgme
 **Qualifications:**
 
 - The evidence spans building codes, rebuilding, and carbon removal rather than one standardized market.
+
+### Reusable Launch Needs Operational Closure
+
+[[Zhuque3]] shows that reusable launch is not proven by ascent or a near landing alone; [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[ReusableRocketTurnaround]] all have to close before [[ReusableRocketEconomics]] is demonstrated.
+
+**Evidence:** [[Zhuque3]], [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], [[ReusableRocketTurnaround]], [[ReusableRocketEconomics]]
+
+**Qualifications:**
+
+- This claim is grounded in the Zhuque-3 replay source and preserves the distinction between a first successful recovery and proven low-cost repeat reuse.
 
 ### Scientific Imagination Remains Evidence Bound
 
