@@ -2,7 +2,7 @@
 title: "叔孙通 / Shusun Tong"
 type: entity
 tags: [person, ritual, chu-han, western-han]
-sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -18,10 +18,14 @@ Liu Bang's response also matters. He accepts the ritual function but rejects exc
 
 The episode stresses his pragmatism. Shusun Tong says rites and music change by era, proposes combining ancient precedent with recent Qin forms, accepts Liu Bang's demand that the rites be easy to perform, and then trains more than one hundred officials and students outside the capital until Liu Bang judges the system workable.
 
+[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] completes the ritual proposal at [[ChanglePalace|长乐宫]]. Shusun Tong's trained procedure orders kings, officials, guards, toasts, silence, and censorial discipline so effectively that Liu Bang feels imperial authority as a visible hierarchy. The same source also narrows the judgment against him: the ritual is useful statecraft, but [[YangXiong|扬雄]] and [[Fayan|《法言》]] make Shusun Tong a case for [[MotiveBasedTalentEvaluation|动机导向的才干评价]] because his talent serves court usability and rulerly awe more than a full Confucian restoration.
+
 ## Connections
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[PowerEtiquetteReading|权力礼仪细读]] - court hierarchy and ritual training after banquet disorder.
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ChanglePalace|长乐宫]], [[LiAsPoliticalOrder|礼制政治秩序]], [[PowerEtiquetteReading|权力礼仪细读]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court ritual as both administrative order and monarchic distance.
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] - court hierarchy and ritual training after banquet disorder.
 - [[LiuBang|刘邦]] - ruler whose imperial accession Shusun Tong helps ritualize.
 - [[WesternHanDynasty|西汉]] - dynasty whose first imperial rite is being formed.
+- [[YangXiong|扬雄]], [[Fayan|《法言》]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - critique of ritual talent that adapts to ruler demand without a higher public moral ambition.
 - [[RitualRecognitionOfMilitaryPower|礼制承认军事权力]] - adjacent concept for formal recognition after military success.
 - [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - broader transition from victory to ruling order.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] - source page.

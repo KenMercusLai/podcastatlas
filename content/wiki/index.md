@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度](sources/zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy.md) — 芮淇讲透资治通鉴 episode on Shusun Tong's completed Changle Palace court ritual, Liu Bang's imperial-awe response, Sima Guang's praise of li governance, Lu Jia's Xinyu, and Yang Xiong's critique of ritual talent serving royal favor.
 - [《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课](sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf.md) — 芮淇讲透资治通鉴 episode on Modu's Xiongnu consolidation, Han Wang Xin's Mayi surrender, and Shusun Tong's practical court ritual training for Liu Bang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt.md) — 芮淇讲透资治通鉴 episode on Zhang Liang calming reward anxiety by having Liu Bang enfeoff Yong Chi, E Qianqiu defending Xiao He over Cao Shen, and Liu Taigong becoming Taishanghuang.
 - [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Han-Xin reward settlement, Xiao He's "功人" merit hierarchy, Liu-family kingships, and Han Wang Xin's frontier relocation.
@@ -1554,6 +1555,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [峣关 / Yaoguan](entities/Yaoguan.md) — Late-Qin pass defended after Ziying kills Zhao Gao, then bypassed and broken by Liu Bang under Zhang Liang's advice.
 - [蓝田 / Lantian (Late Qin)](entities/LantianLateQin.md) — Lantian-area battlefield in Qinji 138 part 2, disambiguated from the earlier Chu-Qin Lantian Battle.
 - [陆贾 / Lu Jia](entities/LuJia.md) — Liu Bang-side persuader sent with Li Shiqi in Zhang Liang's plan to test and loosen Qin's Yaoguan defense.
+- [《新语》 / Xinyu](entities/Xinyu.md) — Lu Jia text used in Hanji 176 to frame Liu Bang's turn from military conquest toward ritual-civil governance.
 - [冯去疾 / Feng Quji](entities/FengQuji.md) — Qin minister named by the 《赵正书》 variant in Qinji 127-3 as part of the deathbed argument for choosing nearby Hu Hai.
 - [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider now treated as a eunuch-label controversy, moving from death secrecy and access monopoly into truth inversion and a family-backed coup circle.
 - [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
@@ -8083,7 +8085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fair Allocation As Political Skill / 公平分配式政治能力](concepts/FairAllocationPoliticalSkill.md) — Chen Ping's社祭分肉 scene and later reward-distribution logic as visible benefit allocation that creates public trust and internal cohesion.
 - [YuanDan Festival Layering / 元旦节日层累](concepts/YuanDanFestivalLayering.md) — New Year concept where 元旦 combines mythic origin, calendar standardization, textual memory, food, protective plants, door symbols, poetry, and present-day blessing.
 - [Hanzhong Dui / 汉中对](concepts/HanzhongDui.md) — Han Xin's post-appointment strategy dialogue, now extended from diagnosis into army reform and the Chen Cang campaign against the Three Qin.
-- [Han Inherits Qin System / 汉承秦制](concepts/HanInheritsQinSystem.md) — Source-scoped Hanji 148-1 pattern where Han Xin's "申军法" selectively inherits Qin military discipline and incentive systems for Liu Bang's army.
+- [Han Inherits Qin System / 汉承秦制](concepts/HanInheritsQinSystem.md) — Han pattern where successor rule selectively inherits useful Qin military, ritual, legal, and official-knowledge systems rather than rejecting Qin institutions wholesale.
 - [Layered Feint Central Breakthrough / 多路佯动中央突破](concepts/LayeredFeintCentralBreakthrough.md) — Han Xin's use of multiple side-route signals to make Zhang Han overread the feints before the main Chen Cang breakthrough.
 - [Great Courage Under Humiliation / 忍辱大勇](concepts/GreatCourageUnderHumiliation.md) — Hanji 145 frame for reading Han Xin's "胯下之辱" as restraint that preserves a larger future rather than simple cowardice.
 - [Burning Gallery Roads / 烧栈道](concepts/BurningGalleryRoads.md) — Zhang Liang's Hanji 144 part 2 tactic where destroying the Hanzhong gallery roads protects Liu Bang and signals temporary acceptance of retreat.
@@ -8363,6 +8365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [Rule-Breaking Abdication / 破坏规则式禅让](concepts/RuleBreakingAbdication.md) — Succession failure where a ruler treats the state as transferable moral capital and hands real authority to a non-dynastic minister.
 - [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Role-order reading in which 礼 keeps ruler, minister, father, son, command, succession, and court hierarchy legible.
+- [君臣礼制距离 / Imperial Ritual Distance](concepts/ImperialRitualDistance.md) — Hanji 176 concept for how court ritual can create governance order while widening the ruler-minister gap through embodied hierarchy.
 - [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.
 - [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.
 - [鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique](concepts/JimingGoudaoTalentCritique.md) — Wang Anshi-based critique that tactical retainer tricks can save a patron without proving statecraft-level talent or good talent selection.

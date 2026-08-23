@@ -4,27 +4,28 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: 318f160a564ff5ad84415c2bb007f30a90c53ee1
-input_digest: b559de7289feb29ff548e0e866747befc182ef0ce70cb347ed079d5ae56045c4
+as_of_overview_commit: 62bbef78c19b0fc3a60d9fe064058de037b2e6aa
+input_digest: e6e858f42ccc7cdb51d20e9e77e1670101e09980f8abdb7627fded0f78edaf15
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance is presented as enforceable control over incentives, information, rights, legitimacy, infrastructure, and institutional trust. The topic spans ancient state formation, early Han frontier and ritual order, imperial symbolism, honor violence, literary political conditions, platform and AI liability, private infrastructure, compliance markets, prediction markets, maritime and aviation capacity, electoral legitimacy, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, or new legitimacy problems.
+Governance is presented as enforceable control over incentives, information, rights, legitimacy, infrastructure, ritual hierarchy, and institutional trust. The topic spans ancient state formation, early Han frontier and court ritual order, imperial symbolism, honor violence, literary political conditions, platform and AI liability, private infrastructure, compliance markets, prediction markets, maritime and aviation capacity, electoral legitimacy, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, social distance, or new legitimacy problems.
 
 ## Cross-source Findings
 
 ### State Capacity Does Not Guarantee Political Security
 
-[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], and [[LiAsPoliticalOrder]] show that durable order also depends on social support, exit design, frontier security, and ritualized hierarchy.
+[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], [[LiAsPoliticalOrder]], and [[ImperialRitualDistance]] show that durable order also depends on social support, exit design, frontier security, ritualized hierarchy, and limits on ruler-minister distance.
 
-**Evidence:** [[QinAdministrativeStandardization]], [[MeritBasedRewardPunishment]], [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], [[LiAsPoliticalOrder]]
+**Evidence:** [[QinAdministrativeStandardization]], [[MeritBasedRewardPunishment]], [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], [[LiAsPoliticalOrder]], [[ImperialRitualDistance]], [[Xinyu]]
 
 **Qualifications:**
 
 - The early Han material extends the pattern beyond the earlier Warring States and Qin reform sequence rather than replacing it.
+- Hanji 176 adds that ritual hierarchy can create usable court order while also widening ruler-minister distance.
 
 ### Private And Ai Power Require Governance
 
@@ -48,13 +49,14 @@ Rules intended to reduce platform and AI harm must be evaluated alongside [[Yout
 
 ### Procedure Converts Conflict Into Legible Order
 
-[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], and [[StrategicUnpredictability]] show institutions turning honor, violence, conquest, legitimacy, and competitive prediction into rule-bound or symbolically legible forms.
+[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], [[StrategicUnpredictability]], and [[ChanglePalace]] show institutions turning honor, violence, conquest, legitimacy, competitive prediction, and court hierarchy into rule-bound or symbolically legible forms.
 
-**Evidence:** [[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], [[StrategicUnpredictability]]
+**Evidence:** [[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], [[StrategicUnpredictability]], [[ChanglePalace]]
 
 **Qualifications:**
 
 - Proceduralization can constrain conflict without making the underlying practice just, nonviolent, or strategically stable.
+- The early Han court ritual case is more administrative than violent, but it belongs to the same proceduralization pattern.
 
 ### Cultural Works Expose Informal Governance
 

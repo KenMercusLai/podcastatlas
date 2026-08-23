@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-23
-as_of_overview_commit: 318f160a564ff5ad84415c2bb007f30a90c53ee1
-input_digest: b30c357f957f2b4224294ef4d901dde0978b803f28e8588e4185b8756b5df632
+as_of_overview_commit: 62bbef78c19b0fc3a60d9fe064058de037b2e6aa
+input_digest: 90b0edfd83ecdd8cc3a78f3ca5a986b8877856aa5104cc7783958f9bee0f17e4
 ---
 
 # Work, Education, and Society
@@ -58,13 +58,13 @@ The work and education sources favor agency with scaffolding: people and organiz
 
 ### Status And Boundaries Shape Post Achievement Work
 
-[[LiuBang]], [[ShusunTong]], [[LiAsPoliticalOrder]], [[UpwardManagement]], [[WorkplaceHiddenRules]], [[CommunicationBoundarySetting]], and [[WorkplaceRelationshipBoundaries]] show that post-achievement outcomes depend on role assignment, status hierarchy, reputation, timing, language, and boundary management as much as raw competence.
+[[UpwardManagement]], [[WorkplaceHiddenRules]], [[CommunicationBoundarySetting]], [[WorkplaceRelationshipBoundaries]], [[SocialSignalInterpretation]], and [[LanguagePrecision]] show that work and social outcomes depend on role assignment, status hierarchy, reputation, timing, language, and boundary management as much as raw competence.
 
-**Evidence:** [[LiuBang]], [[ShusunTong]], [[LiAsPoliticalOrder]], [[UpwardManagement]], [[WorkplaceHiddenRules]], [[CommunicationBoundarySetting]], [[WorkplaceRelationshipBoundaries]]
+**Evidence:** [[UpwardManagement]], [[WorkplaceHiddenRules]], [[CommunicationBoundarySetting]], [[WorkplaceRelationshipBoundaries]], [[SocialSignalInterpretation]], [[LanguagePrecision]]
 
 **Qualifications:**
 
-- The early Han material is a historical analogy inside this topic input, not a modern workplace case.
+- These sources emphasize practical workplace and social judgment rather than a universal theory of status.
 
 ### Mission Work Needs Capacity And Evidence
 

@@ -2,7 +2,7 @@
 title: "Li As Political Order / 礼制政治秩序"
 type: concept
 tags: [confucianism, governance, legitimacy, hierarchy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
+sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
 last_updated: 2026-08-23
 ---
 
@@ -18,6 +18,8 @@ The episode connects this to [[Confucius|孔子]]'s formula "君君臣臣，父�
 
 This case makes the concept more administrative than the Yan abdication case. 礼 is still role order, but now the problem is daily court conduct: how officials drink, speak, approach the ruler, and perform rank inside the palace after a military coalition has become a dynasty.
 
+[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] supplies the completed Changle Palace version. The ritual arranges kings, officials, guards, toasts, speech, and censorial discipline around Liu Bang, then uses [[SimaGuang|司马光]] to state the broad governance theory: 礼 orders conduct from personal behavior through family, locality, administration, ruler-minister sequence, and vassal obedience. The same source also creates [[ImperialRitualDistance|君臣礼制距离]] as the concept's caution: order can stabilize hierarchy while making access to the ruler less reciprocal.
+
 ## Key Claims
 - 礼 is treated as a practical rule system, not merely ritual decoration.
 - Role names matter because they tell officials, heirs, armies, and subjects whose authority they are recognizing.
@@ -25,8 +27,10 @@ This case makes the concept more administrative than the Yan abdication case. �
 - A personally benevolent ruler can still destroy political order if he dissolves the rules that make authority transferable.
 - The concept gives [[RuleBreakingAbdication|破坏规则式禅让]] its deeper mechanism: abdication rhetoric becomes dangerous when it breaks role order without creating legitimate replacement order.
 - Hanji 175 adds that a new dynasty may need ritual rules to convert wartime comrades and merit-holders into officials who recognize hierarchy in routine court settings.
+- Hanji 176 adds the fully performed court-audience version and makes the concept ambivalent by pairing ritual order with ruler-minister distance.
 
 ## Connections
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ChanglePalace|长乐宫]], [[SimaGuang|司马光]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court ritual, positive ritual theory, and hierarchy-distance caveat.
 - [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - court ritual design as practical role ordering after founding.
 - [[SimaGuang|司马光]], [[ZizhiTongjian|《资治通鉴》]], and [[Confucius|孔子]] - interpretive and classical frame.
 - [[YanWangKuai|燕王哙]], [[ZiZhi|子之]], [[ShiBei|市被]], and [[YanState|燕国]] - source case.

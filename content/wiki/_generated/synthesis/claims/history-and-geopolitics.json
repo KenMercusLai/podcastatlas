@@ -16,25 +16,6 @@
     },
     {
       "global_candidate": true,
-      "id": "early-han-founding-order-placed-residual-power",
-      "qualifications": [
-        "The current bounded input covers the postwar Ruiqi Hanji sequence through Hanji 175 and does not yet include the full later rebellion arc."
-      ],
-      "statement": "[[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], Han Xin's removal through [[Yunmengze]], reward ranking and territorial redesign, frontier exposure through [[Xiongnu]] pressure at [[Mayi]], and [[ShusunTong]]'s turn toward [[LiAsPoliticalOrder]].",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "LiuBang",
-        "StrategicCapitalRelocation",
-        "Yunmengze",
-        "Xiongnu",
-        "Mayi",
-        "ShusunTong",
-        "LiAsPoliticalOrder",
-        "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf"
-      ]
-    },
-    {
-      "global_candidate": true,
       "id": "technology-leadership-shifts-with-ecosystems",
       "qualifications": [
         "The evidence is strongest for the handset transition and should not be generalized mechanically to every technology sector."
@@ -48,6 +29,6 @@
       ]
     }
   ],
-  "summary": "The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, reward hierarchy, frontier defense, ritual order, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening.",
+  "summary": "The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening. The current bounded input emphasizes early Warring States and Qin institutional execution alongside the modern handset transition from old global leaders to touch-and-app ecosystems and Chinese supply-chain capacity.",
   "topic_id": "history-and-geopolitics"
 }

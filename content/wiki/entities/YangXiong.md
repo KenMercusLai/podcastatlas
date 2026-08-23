@@ -2,7 +2,7 @@
 title: "扬雄 / Yang Xiong"
 type: entity
 tags: [person, writer, chinese-classics, western-han, confucianism]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
+sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
 last_updated: 2026-08-23
 ---
 # 扬雄 / Yang Xiong
@@ -25,7 +25,10 @@ The episode uses him to distinguish similar-looking political activity by motive
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] adds Yang Xiong's anti-fatalistic judgment on [[XiangYu|项羽]]. The episode cites [[Fayan|《法言》]] to reject Xiang Yu's claim that Gaixia and Wujiang were simply Heaven's will: [[LiuBang|刘邦]] could gather and use people's strengths, while Xiang Yu disliked hearing counsel and weakened his own side. This extends Yang Xiong's recurring role as a judge who tests visible talent by political-moral consequence rather than brilliance alone.
 
+[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] applies that judgment style to [[ShusunTong|叔孙通]]. The episode cites [[Fayan|《法言》]] to criticize Shusun Tong for going to Lu to bring ritual experts but then adapting to court custom and rulerly favor instead of making Liu Bang submit to a fuller Confucian standard. Yang Xiong therefore extends [[MotiveBasedTalentEvaluation|动机导向的才干评价]] from persuaders, assassins, and ministers to ritual technicians.
+
 ## Connections
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], [[Fayan|《法言》]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - critique of ritual expertise that serves rulerly awe rather than a higher public standard.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[MandateOfHeavenLegitimacy|天命合法性]] - anti-fatalistic reading of Xiang Yu's defeat.
 - [[Fayan|《法言》]] - text cited by the episode.
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Guiguzi|鬼谷子]] - figures whose strategic arts the passage criticizes.

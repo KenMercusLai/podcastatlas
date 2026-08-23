@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5140
+wiki_total_pages: 5141
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"
+  - key: "ImperialRitualDistance"
+    title: "君臣礼制距离 / Imperial Ritual Distance"
+    url: "/wiki/concepts/imperialritualdistance/"
   - key: "ImperialTitleRetrenchment"
     title: "帝号退回王号 / Imperial Title Retrenchment"
     url: "/wiki/concepts/imperialtitleretrenchment/"

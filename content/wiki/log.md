@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度
+
+Added source page for Hanji 176: Shusun Tong's completed Changle Palace court ritual, Liu Bang's experience of imperial dignity, Sima Guang's praise of li as governance, Lu Jia's Xinyu civil-order lesson, and Yang Xiong's critique of ritual talent serving royal favor. Created Imperial Ritual Distance and Xinyu; updated overview, index, Shusun Tong, Changle Palace, Liu Bang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Lu Jia, Sima Guang, Yang Xiong, Fayan, Li Bai, Li-as-political-order, Power Etiquette Reading, Han Inherits Qin System, Official Learning Monopoly, Motive-Based Talent Evaluation, and Battlefield Victory To Founding Order. No settled contradiction found; preserved the source's tension between ritual order and hierarchical distance.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）
 
 Added source page for Hanji 168 part 2: Xiang Yu's final route through Dongcheng, the twenty-eight-rider breakout, Yang Xi's frightened retreat, Wujiang pavilion chief's crossing offer, Xiang Yu's refusal to cross, the Wuzhui gift, the final self-killing, and the Han reward group around his body. Created Dongcheng (Chu-Han), Wujiang (Chu-Han), Wujiang Pavilion Chief, Wuzhui Horse, Yang Xi (Han), Lu Matong, Wang Yi (Han), Lu Sheng (Han), Yang Wu (Han), Du Mu, and Tactical Self-Vindication Trap; updated overview, index, Xiang Yu, Gaixia Battle, Four-Sided Chu Songs, People-Based Political Security, Correctable Leadership Error, and Gaixia Song. No settled contradiction found; kept the south-of-Yangtze regrouping possibility and Du Mu counterfactual source-scoped.
@@ -10373,6 +10377,10 @@ Ran lint after health and identity validation passed. Health scanned 13,138 wiki
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）
 
 Added source page for Hanji 174 part 2: Zhang Liang's diagnosis of reward anxiety, Liu Bang's enfeoffment of Yong Chi as a hated-recipient reassurance signal, the first-class merit ranking with Xiao He over Cao Shen and Zhang Ao, E Qianqiu's "一时之功 / 万世之功" defense of Xiao He's rear supply contribution, Xiao He's special court privileges, Liu Taigong's elevation to Taishanghuang, and the Xiongnu teaser. Created E Qianqiu and Hostile Recipient Reward Signal; updated overview, index, Liu Bang, Zhang Liang, Xiao He, Cao Shen, Yong Chi, Zhang Ao, Liu Taigong, Liyang, Ruiqi Jiangtou Zizhi Tongjian, Founding Merit Hierarchy, Reward Allocation Backlash, Merit-Based Reward and Punishment, Battlefield Victory To Founding Order, and Specialist Delegation Leadership. No settled contradiction found; transcript "庸耻" was normalized to Yong Chi.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

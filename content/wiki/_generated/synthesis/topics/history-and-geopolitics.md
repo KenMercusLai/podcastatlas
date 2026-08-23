@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 318f160a564ff5ad84415c2bb007f30a90c53ee1
-input_digest: b1757a3a25e5f302e9bd6c93dccb40b9ffbe68be524ecda05d3bf1fa6b45e354
+as_of_overview_commit: 62bbef78c19b0fc3a60d9fe064058de037b2e6aa
+input_digest: 27fd904f4116c2ffdc6de6dcb94cfbca19ea5fb35e51c03e9b343c0e0c002cd2
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, reward hierarchy, frontier defense, ritual order, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening.
+The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening. The current bounded input emphasizes early Warring States and Qin institutional execution alongside the modern handset transition from old global leaders to touch-and-app ecosystems and Chinese supply-chain capacity.
 
 ## Cross-source Findings
 
@@ -25,16 +25,6 @@ The historical material treats power as an institutional and infrastructural pro
 **Qualifications:**
 
 - This synthesis follows the current Ruiqi Zhouji and Qinji source sequence.
-
-### Early Han Founding Order Placed Residual Power
-
-[[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], Han Xin's removal through [[Yunmengze]], reward ranking and territorial redesign, frontier exposure through [[Xiongnu]] pressure at [[Mayi]], and [[ShusunTong]]'s turn toward [[LiAsPoliticalOrder]].
-
-**Evidence:** [[LiuBang]], [[StrategicCapitalRelocation]], [[Yunmengze]], [[Xiongnu]], [[Mayi]], [[ShusunTong]], [[LiAsPoliticalOrder]], [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf]]
-
-**Qualifications:**
-
-- The current bounded input covers the postwar Ruiqi Hanji sequence through Hanji 175 and does not yet include the full later rebellion arc.
 
 ### Technology Leadership Shifts With Ecosystems
 

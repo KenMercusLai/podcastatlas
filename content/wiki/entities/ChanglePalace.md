@@ -2,7 +2,7 @@
 title: "长乐宫 / Changle Palace"
 type: entity
 tags: [place, palace, western-han, changan]
-sources: [zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
 last_updated: 2026-08-23
 ---
 
@@ -14,7 +14,10 @@ The source uses the palace notice as institutional background rather than as arc
 
 The episode also notes the later Western Han arrangement in which emperors normally live in Weiyang Palace while empress dowagers live in Changle Palace. In this source, that pattern is introduced through the later separation between [[LiuYing|刘盈]] and [[LuZhi|吕雉]].
 
+[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] returns to Changle Palace after its completion in the winter tenth month of Han year seven. The palace becomes the stage where [[ShusunTong|叔孙通]]'s new audience ritual is performed: officials enter before dawn, ranks are arranged, guards and flags frame the ruler, toasts proceed by title, and censors remove breaches. The building therefore shifts from capital infrastructure into the visible setting for [[ImperialRitualDistance|君臣礼制距离]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court-audience ritual inside Changle Palace.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] - source page.
 - [[LiuBang|刘邦]], [[ChangAnHanCapital|长安]], and [[WesternHanDynasty|西汉]] - founding ruler, capital, and dynasty.
 - [[WeiyangPalace|未央宫]], [[LiuYing|刘盈]], and [[LuZhi|吕雉]] - later palace-residence pairing.

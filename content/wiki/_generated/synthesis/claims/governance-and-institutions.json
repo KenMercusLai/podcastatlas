@@ -4,9 +4,10 @@
       "global_candidate": true,
       "id": "state-capacity-does-not-guarantee-political-security",
       "qualifications": [
-        "The early Han material extends the pattern beyond the earlier Warring States and Qin reform sequence rather than replacing it."
+        "The early Han material extends the pattern beyond the earlier Warring States and Qin reform sequence rather than replacing it.",
+        "Hanji 176 adds that ritual hierarchy can create usable court order while also widening ruler-minister distance."
       ],
-      "statement": "[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], and [[LiAsPoliticalOrder]] show that durable order also depends on social support, exit design, frontier security, and ritualized hierarchy.",
+      "statement": "[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], [[LiAsPoliticalOrder]], and [[ImperialRitualDistance]] show that durable order also depends on social support, exit design, frontier security, ritualized hierarchy, and limits on ruler-minister distance.",
       "status": "supported",
       "supporting_wikilinks": [
         "QinAdministrativeStandardization",
@@ -15,7 +16,9 @@
         "PowerExitTrap",
         "LiuBang",
         "Xiongnu",
-        "LiAsPoliticalOrder"
+        "LiAsPoliticalOrder",
+        "ImperialRitualDistance",
+        "Xinyu"
       ]
     },
     {
@@ -55,9 +58,10 @@
       "global_candidate": false,
       "id": "procedure-converts-conflict-into-legible-order",
       "qualifications": [
-        "Proceduralization can constrain conflict without making the underlying practice just, nonviolent, or strategically stable."
+        "Proceduralization can constrain conflict without making the underlying practice just, nonviolent, or strategically stable.",
+        "The early Han court ritual case is more administrative than violent, but it belongs to the same proceduralization pattern."
       ],
-      "statement": "[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], and [[StrategicUnpredictability]] show institutions turning honor, violence, conquest, legitimacy, and competitive prediction into rule-bound or symbolically legible forms.",
+      "statement": "[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], [[StrategicUnpredictability]], and [[ChanglePalace]] show institutions turning honor, violence, conquest, legitimacy, competitive prediction, and court hierarchy into rule-bound or symbolically legible forms.",
       "status": "supported",
       "supporting_wikilinks": [
         "ProceduralizedViolence",
@@ -65,7 +69,8 @@
         "ImperialSymbolicStandardization",
         "ConquestSelfDefenseNarrative",
         "GameTheory",
-        "StrategicUnpredictability"
+        "StrategicUnpredictability",
+        "ChanglePalace"
       ]
     },
     {
@@ -134,6 +139,6 @@
       ]
     }
   ],
-  "summary": "Governance is presented as enforceable control over incentives, information, rights, legitimacy, infrastructure, and institutional trust. The topic spans ancient state formation, early Han frontier and ritual order, imperial symbolism, honor violence, literary political conditions, platform and AI liability, private infrastructure, compliance markets, prediction markets, maritime and aviation capacity, electoral legitimacy, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, or new legitimacy problems.",
+  "summary": "Governance is presented as enforceable control over incentives, information, rights, legitimacy, infrastructure, ritual hierarchy, and institutional trust. The topic spans ancient state formation, early Han frontier and court ritual order, imperial symbolism, honor violence, literary political conditions, platform and AI liability, private infrastructure, compliance markets, prediction markets, maritime and aviation capacity, electoral legitimacy, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, social distance, or new legitimacy problems.",
   "topic_id": "governance-and-institutions"
 }
