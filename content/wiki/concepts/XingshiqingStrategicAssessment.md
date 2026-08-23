@@ -2,7 +2,7 @@
 title: "行势情战略评估 / Xingshiqing Strategic Assessment"
 type: concept
 tags: [strategy, statecraft, historiography, chu-han]
-sources: [zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
+sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
 last_updated: 2026-08-23
 ---
 
@@ -22,9 +22,12 @@ The episode also gives the positive contrast through [[XuChu|许褚]]. Xu Chu's 
 
 [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] adds a negative "防势" version through [[LiuChongChenKing|刘宠]]. [[ChenStateLateHan|陈国]] has military strength, local popularity, and grain, but Liu Chong and [[LuoJun|骆俊]] do not sufficiently account for [[YuanShu|袁术]] as a desperate actor after his grain demand fails. In this source, reading "势" means not only borrowing momentum or building capacity, but also guarding against the backlash of another actor's collapsing position.
 
+[[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] adds the coalition-interest version immediately before that sequence. [[ChenGui|陈珪]] sees that Yuan Shu's nominal allies [[HanXianLateHan|韩暹]] and [[YangFengLateHan|杨奉]] do not have a durable shared interest with him, while [[ChenDeng|陈登]]'s handling of [[LyuBu|吕布]] shows the actor-psychology side of "情." In this branch, condition-sensitive assessment means reading dependency, vanity, legitimacy, and spoils before counting troops.
+
 ## Key Claims
 - Hanji 1020 adds that "势" can be a regime-level legitimacy and talent question, not only a battlefield or route-choice question.
 - Hanji 1019 adds that a strong local order can still misread danger when an external rival's bad position makes assassination more likely.
+- Hanji 1018 adds that "势" can lie inside an alliance's incentive structure: a large coalition may be weak if its members can be given a better legitimacy-and-spoils path.
 - Hanji 187 adds that a strategy can be ranked by whether the actor has the temperament and coalition horizon to execute it, not only by whether the route exists on a map.
 - A strategy's name or precedent is not enough; its usable meaning changes with control, timing, incentives, and morale.
 - "行" checks the practical distribution of gain and loss before a plan is moralized as wise.
@@ -42,3 +45,4 @@ The episode also gives the positive contrast through [[XuChu|许褚]]. Xu Chu's 
 - [[HistoricalPrecedentWeaponization|历史先例武器化]] and [[HistoricalDetectiveReasoning|historical detective reasoning]] - neighboring source-critical frames for using inherited examples carefully.
 - [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]], [[YuanShu|袁术]], [[HeKui|何夔]], [[CaoCao|曹操]], and [[XuChu|许褚]] - late-Han timing, trust, talent, and alignment branch.
 - [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]], [[LiuChongChenKing|刘宠]], [[LuoJun|骆俊]], [[ChenStateLateHan|陈国]], and [[YuanShu|袁术]] - local strength, grain refusal, and desperate-actor risk.
+- [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]], [[ChenDeng|陈登]], [[ChenGui|陈珪]], [[LyuBu|吕布]], [[HanXianLateHan|韩暹]], [[YangFengLateHan|杨奉]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - dependency, alliance incentives, and defection assessment.

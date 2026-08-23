@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "da73b0ab4bac8bfcd5b84274fa2bf2d849d3161fff59d2dd1efbe5864a01b531",
       "39b9b220c33ef0ac03b6eb5b92ce66403d711f2edbda663e9330b9b72575d56d",
       "2ecc88a24b9491ba3fd16fe9e877425b74656c3e235d3a14717161c531381460",
       "c9c7072ad97ee0426533028e642b2f74efcc6ef2e585f53c2802e650e500dba0",
@@ -126,11 +127,44 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 124
+    "paragraph_count": 125
   },
-  "overview_commit": "3daec70c8387fdd6da8dc6237e3c9cc1108aac13",
-  "overview_digest": "eef3a936a8b05d2d33676f5ace41104669e4444f998e37884d03b392c4b28498",
+  "overview_commit": "f995d1956a588ebe934f4067b31eea5b05219df6",
+  "overview_digest": "ea9063437592326e5d0d965c392e220b62ba53a6d6ce31b6dadc7df7f0db5102",
   "paragraphs": [
+    {
+      "id": "da73b0ab4bac8bfcd5b84274fa2bf2d849d3161fff59d2dd1efbe5864a01b531",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that fills in the late-Han [[LyuBu|吕布]] setup before [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] and [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]]. [[ChenDeng|陈登]] handles Cao Cao's refusal to grant Lü Bu [[Xuzhou|徐州]] by converting suspicion into [[JiFuBaoYang|饥附饱扬]], while [[ChenGui|陈珪]] reads [[YuanShu|袁术]]'s anti-Lü-Bu force as [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] because [[HanXianLateHan|韩暹]] and [[YangFengLateHan|杨奉]] can be offered a better legitimacy-and-spoils path. The episode therefore extends [[InterestReframingPersuasion|利益重构式说服]] and [[XingshiqingStrategicAssessment|行势情战略评估]] from formal diplomacy into battlefield coalition switching. Its closing [[GaoShun|高顺]] branch also sharpens [[TalentAsStateTreasure|以贤臣为宝]] and [[CourtFeedbackCollapse|君臣反馈失灵]]: Lü Bu has disciplined loyal capacity near him, but by transferring trust toward [[WeiXuLateHan|魏续]] and ignoring the warning about [[ZhangBaLateHan|张霸]], he cannot make that capacity durable.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChenDeng",
+        "ChenGui",
+        "CourtFeedbackCollapse",
+        "GaoShun",
+        "HanXianLateHan",
+        "InterestReframingPersuasion",
+        "InterestStructuredAllianceFragility",
+        "JiFuBaoYang",
+        "LyuBu",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAsStateTreasure",
+        "WeiXuLateHan",
+        "XingshiqingStrategicAssessment",
+        "Xuzhou",
+        "YangFengLateHan",
+        "YuanShu",
+        "ZhangBaLateHan",
+        "zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8",
+        "zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio",
+        "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0"
+      ]
+    },
     {
       "id": "39b9b220c33ef0ac03b6eb5b92ce66403d711f2edbda663e9330b9b72575d56d",
       "primary_topic": "governance-and-institutions",

@@ -10549,3 +10549,11 @@ Added source page for Hanji 1019: Liu Chong and Luo Jun's Chen state order, Yuan
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？
+
+Added source page for Hanji 1018: Chen Deng's handling of Lü Bu after Cao Cao withholds the Xuzhou title, the 饥附饱扬 judgment, Chen Gui's diagnosis of Yuan Shu's coalition, Han Xian and Yang Feng's switch, and Gao Shun's ignored warning around Zhang Ba. Created Chen Deng, Chen Gui, Han Xian (late Han), Yang Feng (late Han), Zhang Xun (Yuan Shu general), Qiao Rui, Zhang Ba (late Han), Ji Fu Bao Yang, and Interest-Structured Alliance Fragility; updated overview, index, Lü Bu, Gao Shun, Wei Xu, Yuan Shu, Cao Cao, Xuzhou, Hanji 1019, Interest Reframing Persuasion, Xingshiqing Strategic Assessment, Talent as State Treasure, and Court Feedback Collapse. No settled contradiction found; the source page keeps the episode-title Sun Ce/Liu Bei hook source-scoped because the provided text develops the Cao Cao/Lü Bu branch.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -26,7 +26,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the
 - After the double killing, Chen's order rapidly weakens and is swallowed by Yuan Shu's force, making the case a late-Han example of [[PersonDependentGovernanceFragility|person-dependent governance fragility]].
 - The host argues that Liu Chong's tragedy is not lack of loyalty or military skill but a failure to read Yuan Shu's desperate position: a cornered rival can turn danger into assassination risk.
 - The [[Guiguzi|鬼谷子]] line "谋之于阴，成之于阳" is used to move the lesson from battlefield strength toward [[XingshiqingStrategicAssessment|condition-sensitive assessment]] of momentum, alliance, grain, and threat.
-- [[CaoCao|曹操]]'s later eastward campaign defeats Qiao Rui and other Yuan Shu commanders at Qiyang, after which drought, hunger, and retreat across the Huai River make Yuan Shu's defeat look irreversible.
+- [[CaoCao|曹操]]'s later eastward campaign defeats [[QiaoRui|桥蕤]] and other Yuan Shu commanders at Qiyang, after which drought, hunger, and retreat across the Huai River make Yuan Shu's defeat look irreversible.
 
 ## Key Quotes
 > "十发十中" - the episode's compact image of Liu Chong's crossbow skill.

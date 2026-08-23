@@ -2,7 +2,7 @@
 title: "Talent as State Treasure / 以贤臣为宝"
 type: concept
 tags: [statecraft, personnel, leadership, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]
+sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]
 last_updated: 2026-08-23
 ---
 
@@ -14,8 +14,11 @@ The concept extends the wiki's broader talent branch without duplicating [[Talen
 
 [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] adds a late-Han failure-and-contrast case. [[CaoCao|曹操]] treats [[HeKui|何夔]] as evidence that [[YuanShu|袁术]] cannot survive: a powerholder who cannot tolerate or use a capable official is losing state capacity even before the final military collapse. The same episode turns [[XuChu|许褚]] into a security-talent case, because Cao Cao recognizes that local armed protection can become a disciplined close-guard resource.
 
+[[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] adds the negative internal-use version through [[GaoShun|高顺]]. Gao Shun has discipline, loyalty, and an effective "陷阵营," but [[LyuBu|吕布]] transfers his troops to [[WeiXuLateHan|魏续]] and ignores his warning about [[ZhangBaLateHan|张霸]]. Talent exists inside the organization, but the leader's trust pattern prevents it from becoming stable capacity.
+
 ## Key Claims
 - Hanji 1020 adds that failure to retain capable people can be diagnostic evidence of regime decline, not merely a staffing weakness.
+- Hanji 1018 adds that retaining a capable person is not enough if the leader strips authority from the talent and ignores the talent's corrective advice.
 - A state's true treasure is not rare display wealth but people who produce security, order, and population confidence.
 - Personnel value is judged by political effect: deterrence, governance, and social attraction matter more than courtly magnificence.
 - The concept turns Qi Wei Wang's reply into a ruler-image test: a ruler who can name capable officials as treasures claims higher political vision than one boasting of objects.
@@ -28,3 +31,4 @@ The concept extends the wiki's broader talent branch without duplicating [[Talen
 - [[QiWeiwangPoliticalTurnaround]] - earlier Qi Wei Wang branch that makes the talent valuation politically credible.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where personnel converts into state capacity.
 - [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]], [[YuanShu|袁术]], [[HeKui|何夔]], [[CaoCao|曹操]], and [[XuChu|许褚]] - late-Han talent-retention and security-capacity branch.
+- [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]], [[LyuBu|吕布]], [[GaoShun|高顺]], [[WeiXuLateHan|魏续]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - loyal capacity undermined by misallocated trust and ignored advice.

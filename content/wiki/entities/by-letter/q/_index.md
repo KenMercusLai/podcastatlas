@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6773
+wiki_total_pages: 6780
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "QinJimiao"
     title: "极庙 / Qin Ji Miao"
     url: "/wiki/entities/qinjimiao/"
+  - key: "QiaoRui"
+    title: "桥蕤 / Qiao Rui"
+    url: "/wiki/entities/qiaorui/"
   - key: "QishuiMusic"
     title: "汽水音乐 / Qishui Music"
     url: "/wiki/entities/qishuimusic/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6773
+wiki_total_pages: 6780
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "ZhangBohouJerry"
     title: "张伯后 / Jerry"
     url: "/wiki/entities/zhangbohoujerry/"
+  - key: "ZhangXunYuanShu"
+    title: "张勋 / Zhang Xun (Yuan Shu general)"
+    url: "/wiki/entities/zhangxunyuanshu/"
   - key: "ZhangKun"
     title: "张坤 / Zhang Kun"
     url: "/wiki/entities/zhangkun/"
@@ -542,6 +545,9 @@ wiki_pages:
   - key: "ZhangKuo"
     title: "张阔 / Zhang Kuo"
     url: "/wiki/entities/zhangkuo/"
+  - key: "ZhangBaLateHan"
+    title: "张霸 / Zhang Ba (late Han)"
+    url: "/wiki/entities/zhangbalatehan/"
   - key: "ZhangQing"
     title: "张青 / Zhang Qing"
     url: "/wiki/entities/zhangqing/"

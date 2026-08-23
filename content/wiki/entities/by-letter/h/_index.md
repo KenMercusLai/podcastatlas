@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6773
+wiki_total_pages: 6780
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "HanJinghou"
     title: "韩景侯 / Marquis Jing of Han"
     url: "/wiki/entities/hanjinghou/"
+  - key: "HanXianLateHan"
+    title: "韩暹 / Han Xian (late Han)"
+    url: "/wiki/entities/hanxianlatehan/"
   - key: "HanHuanhuiwang"
     title: "韩桓惠王 / King Huanhui of Han"
     url: "/wiki/entities/hanhuanhuiwang/"

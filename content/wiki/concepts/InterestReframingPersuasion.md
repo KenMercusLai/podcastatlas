@@ -2,7 +2,7 @@
 title: "Interest Reframing Persuasion / 利益重构式说服"
 type: concept
 tags: [persuasion, diplomacy, strategy, pre-qin-history, warring-states, chu-han]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
+sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu, zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm]
 last_updated: 2026-08-23
 ---
 
@@ -30,6 +30,8 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 
 [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] adds the cost when the persuader's principal does not behave consistently with the persuasion. Li Shiqi's interest frame works on Qi, but Han Xin's attack makes the promised preservation look false, so the target kills the envoy. The episode therefore marks a limit of interest reframing: the new interest must be backed by synchronized action, not just a convincing argument.
 
+[[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] adds a late-Han coalition-switching variant through [[LyuBu|吕布]]'s letter to [[HanXianLateHan|韩暹]] and [[YangFengLateHan|杨奉]]. Lü Bu does not merely ask them to leave [[YuanShu|袁术]]; he reframes the switch as protection of [[EmperorXianOfHan|汉献帝]]'s order, avoidance of Yuan Shu's rebellion, and access to Yuan Shu's supplies. The persuasion works because moral name and material payoff move in the same direction.
+
 ## Key Claims
 - Effective weak-side persuasion may work by confirming the stronger side's power before narrowing the question to risk-adjusted advantage.
 - The argument must name the stronger side's concrete exposure: routes, allies, rear security, future rivals, and lost strategic sequencing.
@@ -43,6 +45,7 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - Qinji 128-8 adds that interest reframing can come from a low-status envoy if the argument clarifies a third party's incentive better than formal diplomacy does.
 - Hanji 158 adds that interest reframing can serve as the first stage of defection work: the target must see the current patron's apparent strength as future danger before a no-return commitment device can work.
 - Hanji 162-3 adds that interest reframing can turn fear of an approaching army into voluntary alignment, but the alignment still depends on the attacking side honoring the diplomatic channel.
+- Hanji 1018 adds that a side-switching appeal can combine legitimacy and spoils when a coalition's interest structure is already weak.
 
 ## Connections
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[QiState|齐国]] - Qi survival reframed from Chu alignment toward Han submission.
@@ -57,3 +60,4 @@ The pattern overlaps with [[ChuaimoTechnique|揣摩]] and [[ZonghengjiaDiplomacy
 - [[LiaochengWarringStates|辽城]], [[LiaochengCommanderDilemma|辽城守将进退困局]], [[YanWangXi|燕王喜]], and [[TianDan|田单]] - Qinji 101-1 commander-exit reframing.
 - [[ZhaoServantEnvoy|赵厮养卒]], [[WuChen|武臣]], [[HanGuang|韩广]], [[ZhangEr|张耳]], [[ChenYu|陈馀]], and [[LowStatusStrategicPersuasion|低位者战略说服]] - Qinji 128-8 captive-release reframing.
 - [[SuiHe|随何]], [[YingBu|英布]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[IrreversibleDefectionBinding|断路式策反绑定]] - Hanji 158 defection reframing and public commitment closure.
+- [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]], [[LyuBu|吕布]], [[HanXianLateHan|韩暹]], [[YangFengLateHan|杨奉]], [[YuanShu|袁术]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - late-Han legitimacy-and-spoils coalition switch.

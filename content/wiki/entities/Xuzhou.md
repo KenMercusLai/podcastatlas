@@ -1,8 +1,8 @@
 ---
 title: "徐州 / Xuzhou"
 type: entity
-tags: [city, china, song-dynasty, flood-control, governance, pre-qin, warring-states, diplomacy]
-sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+tags: [city, china, song-dynasty, flood-control, governance, pre-qin, warring-states, diplomacy, late-han]
+sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The source uses Xuzhou to balance the popular Su Dongpo image of food, poetry, a
 
 [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] makes the area around Pengcheng the battle's tactical field. Xiang Yu secretly returns, takes [[XiaoCounty|萧县]] to the west rather than immediately attacking the occupied capital, then drives Liu Bang's coalition back through Pengcheng-side river terrain around Gu water, [[SiRiver|泗水]], and [[SuiRiver|睢水]].
 
+[[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] adds a late-Han administrative-status use. [[LyuBu|吕布]] wants [[ChenDeng|陈登]] to obtain the Xuzhou governor title from [[CaoCao|曹操]], but the court does not grant it. In this source, Xuzhou is not a battle site; it is the office title that makes Lü Bu feel either recognized or cheated.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - official whose Xuzhou service anchors the page.
 - [[LocalGovernanceAsCare]] and [[ScholarOfficialPublicDuty]] - source concepts.
@@ -35,3 +37,4 @@ The source uses Xuzhou to balance the popular Su Dongpo image of food, poetry, a
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[MiXin|芈心 / 楚怀王]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[LuChenQinRebel|吕臣]], and [[HuaiwangAgreement|怀王之约]] - post-Xiang-Liang Chu center and mission-allocation site.
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[PengchengBattle|彭城之战]], [[TianHeng|田横]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - city captured during Xiang Yu's Qi distraction and immediately turned into a celebration-risk setting.
 - [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]], [[XiaoCounty|萧县]], [[SiRiver|泗水]], [[SuiRiver|睢水]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - west-side route cut and river pursuit around the battle.
+- [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]], [[LyuBu|吕布]], [[ChenDeng|陈登]], and [[CaoCao|曹操]] - late-Han governorship title and recognition conflict.

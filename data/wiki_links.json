@@ -8271,6 +8271,10 @@
     "title": "Chen Danian / 陈大年",
     "url": "/wiki/entities/chendanian/"
   },
+  "ChenDeng": {
+    "title": "陈登 / Chen Deng",
+    "url": "/wiki/entities/chendeng/"
+  },
   "ChenDiexian": {
     "title": "陈迭仙",
     "url": "/wiki/entities/chendiexian/"
@@ -8278,6 +8282,10 @@
   "ChenDoctorInvestmentABC": {
     "title": "陈博士 / 投资ABC",
     "url": "/wiki/entities/chendoctorinvestmentabc/"
+  },
+  "ChenGui": {
+    "title": "陈珪 / Chen Gui",
+    "url": "/wiki/entities/chengui/"
   },
   "ChenHe": {
     "title": "陈贺 / Chen He",
@@ -18807,6 +18815,10 @@
     "title": "韩武子 / Han Wuzi",
     "url": "/wiki/entities/hanwuzi/"
   },
+  "HanXianLateHan": {
+    "title": "韩暹 / Han Xian (late Han)",
+    "url": "/wiki/entities/hanxianlatehan/"
+  },
   "HanXiangwang": {
     "title": "韩襄王 / King Xiang of Han",
     "url": "/wiki/entities/hanxiangwang/"
@@ -21283,6 +21295,10 @@
     "title": "Interest Reframing Persuasion / 利益重构式说服",
     "url": "/wiki/concepts/interestreframingpersuasion/"
   },
+  "InterestStructuredAllianceFragility": {
+    "title": "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性",
+    "url": "/wiki/concepts/intereststructuredalliancefragility/"
+  },
   "InterfaceScience": {
     "title": "Interface Science / 界面科学",
     "url": "/wiki/concepts/interfacescience/"
@@ -22350,6 +22366,10 @@
   "JiDuYuBiShi": {
     "title": "《嫉妒与鄙视》",
     "url": "/wiki/entities/jiduyubishi/"
+  },
+  "JiFuBaoYang": {
+    "title": "饥附饱扬 / Ji Fu Bao Yang",
+    "url": "/wiki/concepts/jifubaoyang/"
   },
   "JiQi": {
     "title": "Ji Qi",
@@ -34522,6 +34542,10 @@
   "QiaoFamilyCompound": {
     "title": "Qiao Family Compound / 乔家大院",
     "url": "/wiki/entities/qiaofamilycompound/"
+  },
+  "QiaoRui": {
+    "title": "桥蕤 / Qiao Rui",
+    "url": "/wiki/entities/qiaorui/"
   },
   "QiaodanSports": {
     "title": "Qiaodan Sports",
@@ -46847,6 +46871,10 @@
     "title": "杨端和 / Yang Duanhe",
     "url": "/wiki/entities/yangduanhe/"
   },
+  "YangFengLateHan": {
+    "title": "杨奉 / Yang Feng (late Han)",
+    "url": "/wiki/entities/yangfenglatehan/"
+  },
   "YangGuangSui": {
     "title": "杨广 / Emperor Yang of Sui",
     "url": "/wiki/entities/yangguangsui/"
@@ -47739,6 +47767,10 @@
     "title": "张敖 / Zhang Ao",
     "url": "/wiki/entities/zhangao/"
   },
+  "ZhangBaLateHan": {
+    "title": "张霸 / Zhang Ba (late Han)",
+    "url": "/wiki/entities/zhangbalatehan/"
+  },
   "ZhangBinSportsMedia": {
     "title": "张斌 / Zhang Bin",
     "url": "/wiki/entities/zhangbinsportsmedia/"
@@ -47930,6 +47962,10 @@
   "ZhangXiu": {
     "title": "张绣 / Zhang Xiu",
     "url": "/wiki/entities/zhangxiu/"
+  },
+  "ZhangXunYuanShu": {
+    "title": "张勋 / Zhang Xun (Yuan Shu general)",
+    "url": "/wiki/entities/zhangxunyuanshu/"
   },
   "ZhangYi": {
     "title": "Zhang Yi",
@@ -51738,6 +51774,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8": {
+    "title": "《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8/"
   },
   "zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio": {
     "title": "《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生",

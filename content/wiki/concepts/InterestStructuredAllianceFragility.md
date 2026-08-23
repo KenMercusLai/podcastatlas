@@ -1,0 +1,27 @@
+---
+title: "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性"
+type: concept
+tags: [alliance, strategy, incentives, late-han]
+sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+last_updated: 2026-08-23
+---
+
+# Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性
+
+Interest-structured alliance fragility / 利益结构式联盟脆弱性 enters the wiki through [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]], where [[ChenGui|陈珪]] diagnoses [[YuanShu|袁术]]'s coalition against [[LyuBu|吕布]]. The coalition has numbers, routes, and commanders, but Chen Gui argues that Yuan Shu, [[HanXianLateHan|韩暹]], and [[YangFengLateHan|杨奉]] do not share enough long-term interest to stay bound.
+
+The key mechanism is not abstract disunity. Lü Bu breaks the campaign by offering Han Xian and Yang Feng a better combined frame: they can remember their service to [[EmperorXianOfHan|汉献帝]], avoid Yuan Shu's rebellion-tainted side, and take Yuan Shu's military supplies. The episode therefore treats alliance strength as an incentive structure, not just a count of troops.
+
+The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]] and [[InterestBasedCoalitionSabotage|利益瓦解合纵]]. Coalition self-preservation explains allies who hesitate to spend their own resources for a shared project; interest-based sabotage often attacks coalition organizers before the army forms. Hanji 1018 shows a field coalition already moving, then collapsing because its members can be profitably re-sorted during the campaign.
+
+## Key Claims
+- An alliance without durable shared interest can be large and still brittle.
+- A shared enemy or temporary patron may not overcome doubts about legitimacy, spoils, and future safety.
+- The most effective counter may be a new incentive bundle, not a direct battlefield answer.
+- Coalition analysis has to ask what each participant can gain by switching, not only what the coalition formally claims to pursue.
+
+## Connections
+- [[ChenGui|陈珪]] - source diagnostician of the coalition's weak interest structure.
+- [[LyuBu|吕布]], [[YuanShu|袁术]], [[HanXianLateHan|韩暹]], and [[YangFengLateHan|杨奉]] - source actors.
+- [[ZhangXunYuanShu|张勋]] and [[QiaoRui|桥蕤]] - Yuan Shu-side commanders exposed when the coalition flips.
+- [[InterestReframingPersuasion|利益重构式说服]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[InterestBasedCoalitionSabotage|利益瓦解合纵]] - adjacent alliance and persuasion patterns.
