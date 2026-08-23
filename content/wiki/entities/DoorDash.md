@@ -2,11 +2,13 @@
 title: "DoorDash"
 type: entity
 tags: [company, marketplace, food-delivery, local-services]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
-last_updated: 2026-08-20
+sources: [tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+last_updated: 2026-08-24
 ---
 
 # DoorDash
+
+[[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] adds DoorDash as one of the delivery companies expanding into drone delivery alongside [[Uber]] and [[Amazon]]. The mention is brief, but it links DoorDash's local-delivery marketplace branch to [[DroneDeliveryAdoptionConstraints]], where speed has to be weighed against reliability, neighborhood acceptance, regulation, and operating limits.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds DoorDash as another enterprise model-routing case. The source says DoorDash uses different models for different workloads, making the company an example of [[ModelRoutingCostControl]] inside a production marketplace business rather than only a local-commerce platform.
 
@@ -25,5 +27,6 @@ DoorDash also extends the wiki's local-services and fulfillment branch. Its earl
 - [[PaloAltoDelivery]], [[StanfordStartupGarage]], and [[YCombinator]] - early prototype and accelerator path.
 - [[CustomerDiscoveryByDoingWork]], [[JankyMVP]], [[ThreeSidedMarketplaceValidation]], [[FounderProximity]], and [[SuburbanDeliveryStrategy]] - concepts grounded by the episode.
 - [[InstantRetail]], [[LocalLifePlatformDependency]], and [[EcommerceFulfillmentComplexity]] - adjacent local-commerce and fulfillment concepts.
+- [[DroneDeliveryAdoptionConstraints]], [[Amazon]], and [[Uber]] - brief Marketplace Tech Bytes mention around drone delivery for food and goods.
 - [[PaulBuchheit]] and [[OutlierDrivenAngelInvesting]] - angel-investor branch added by the Buchheit episode.
 - [[Amazon]], [[UberEats|Uber Eats]], and [[UltraFastDeliveryEconomics]] - Marketplace Tech comparison around consumer willingness to pay for speed.

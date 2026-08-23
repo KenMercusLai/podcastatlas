@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cfe5db0a7de5a9ad07b27b1ecc2b5a020aad0df779aba39119d08d81ce061727",
       "ca21f843ce1c289056b59b5b8ea930ff2fab54120277c8f80f4bdbc389ca5452",
       "68b56d320b14d21fcfc2fdb2001a6d7d38bc59c0feed25211a60b3325cc9327c",
       "a15fdb4c16b463947613913bfcdd29020461bdb0d54a5fc060b937415b8e85f3",
@@ -148,11 +149,46 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 146
+    "paragraph_count": 147
   },
-  "overview_commit": "cefa5e0ddb351a952ee999ab4bee46de8ffcdc80",
-  "overview_digest": "01ffc8274c2416568c80000d0c45913befd1e4eda2346e5fd11630ce2a710e80",
+  "overview_commit": "ddae659bece33ad9b1771146affafb262c518338",
+  "overview_digest": "fbb8a9bbd8a94931fd82568be000106a5fd1d9dfeae681935f399d1ac154b013",
   "paragraphs": [
+    {
+      "id": "cfe5db0a7de5a9ad07b27b1ecc2b5a020aad0df779aba39119d08d81ce061727",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]], a [[MarketplaceTech]] Bytes episode with [[PareshDave]] of [[Wired]] on [[OpenAI]] teen [[ChatGPT]] safeguards, AI data-center cargo theft, and [[Amazon]] drone delivery. It adds [[AIDataCenterCargoTheft]] and [[DroneDeliveryAdoptionConstraints]], while extending [[TeenChatbotMentalHealthRisk]], [[AIGuidedLearningGuardrails]], [[CognitiveOffloading]], [[AIHardwareSupplyChainPressure]], [[DataCenterPhysicalResilience]], [[AIExportControls]], [[DataCenterThermalManagement]], [[UltraFastDeliveryEconomics]], [[InstantRetail]], and [[RobotDeliveryEconomics]]. Its core synthesis is that AI's safety and infrastructure problems are moving into ordinary operations: teen defaults, age detection, and learning guardrails have to survive competitive product incentives, while chips, servers, copper, cooling parts, cables, and drone packages have to survive theft, logistics, local acceptance, and physical-world constraints.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIDataCenterCargoTheft",
+        "AIExportControls",
+        "AIGuidedLearningGuardrails",
+        "AIHardwareSupplyChainPressure",
+        "Amazon",
+        "ChatGPT",
+        "CognitiveOffloading",
+        "DataCenterPhysicalResilience",
+        "DataCenterThermalManagement",
+        "DroneDeliveryAdoptionConstraints",
+        "InstantRetail",
+        "MarketplaceTech",
+        "OpenAI",
+        "PareshDave",
+        "RobotDeliveryEconomics",
+        "TeenChatbotMentalHealthRisk",
+        "UltraFastDeliveryEconomics",
+        "Wired",
+        "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "ca21f843ce1c289056b59b5b8ea930ff2fab54120277c8f80f4bdbc389ca5452",
       "primary_topic": "business-and-markets",

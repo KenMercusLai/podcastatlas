@@ -1515,6 +1515,10 @@
     "title": "AI Cyber-Defense Utility",
     "url": "/wiki/concepts/aicyberdefenseutility/"
   },
+  "AIDataCenterCargoTheft": {
+    "title": "AI Data Center Cargo Theft",
+    "url": "/wiki/concepts/aidatacentercargotheft/"
+  },
   "AIDataCenterMemoryHierarchy": {
     "title": "AI Data Center Memory Hierarchy",
     "url": "/wiki/concepts/aidatacentermemoryhierarchy/"
@@ -13070,6 +13074,10 @@
   "DroneDefenseEconomics": {
     "title": "Drone Defense Economics",
     "url": "/wiki/concepts/dronedefenseeconomics/"
+  },
+  "DroneDeliveryAdoptionConstraints": {
+    "title": "Drone Delivery Adoption Constraints",
+    "url": "/wiki/concepts/dronedeliveryadoptionconstraints/"
   },
   "DroneProcurementIncentives": {
     "title": "Drone Procurement Incentives",
@@ -51646,6 +51654,10 @@
   "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128": {
     "title": "Can an AI music company make nice with human artists?",
     "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+  },
+  "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128": {
+    "title": "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery",
+    "url": "/wiki/sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

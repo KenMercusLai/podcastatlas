@@ -2,8 +2,8 @@
 title: "Data Center Physical Resilience"
 type: concept
 tags: [infrastructure, cloud, resilience]
-sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
-last_updated: 2026-08-05
+sources: [tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
+last_updated: 2026-08-24
 ---
 
 # Data Center Physical Resilience
@@ -20,6 +20,8 @@ The source emphasizes that resilience is not only about whether servers are dest
 
 [[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] adds the thermal-operations lens. It argues that dense AI racks make cooling loops, pumps, variable-frequency control, water quality, heat exchange, and prefabricated cooling stations part of resilience because overheating can reduce performance, trigger downtime, or shorten equipment life even without an external disaster.
 
+[[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] adds the inbound-logistics lens through [[AIDataCenterCargoTheft]]. [[PareshDave]] describes theft of chips, servers, copper, cooling parts, network cabling, fiber optic cables, and related equipment before it reaches data-center sites, making transport security and replacement availability part of physical resilience rather than a separate retail-theft problem.
+
 ## Key Claims
 - Physical damage may happen quickly, while recovery can take weeks or months under conflict conditions.
 - Power, cooling, network equipment, and human operations are all single-system dependencies from a customer's perspective.
@@ -30,6 +32,7 @@ The source emphasizes that resilience is not only about whether servers are dest
 - Cooling resilience is operational as well as structural: pumps, water treatment, flow control, and maintenance can decide whether the same facility can keep supporting high-density AI workloads.
 - Backup-power equipment can become primary-power equipment when data centers go off-grid or wait on grid interconnection, changing the resilience burden on generators and fuel supply.
 - Battery systems can also become primary-power equipment, adding stored-energy capacity, degradation, controls, and safety engineering to the resilience burden.
+- Inbound equipment security matters because stolen or diverted components can delay deployment, repair, or capacity expansion even if the facility design itself is sound.
 
 ## Connections
 - [[DigitalInfrastructureWarRisk]] — broader conflict-risk frame.
@@ -42,3 +45,4 @@ The source emphasizes that resilience is not only about whether servers are dest
 - [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]] — reused-battery power layer added by the January 29 Marketplace Tech source.
 - [[Grundfos]] and [[HenanSmartSupercomputingCenter]] — company and project cases for prefabricated cooling.
 - [[HoloAssets]] and [[HumanResourceDeflationComputeInfrastructureInflation]] — hard-asset and labor-to-infrastructure thesis added by E155.
+- [[AIDataCenterCargoTheft]], [[AIHardwareSupplyChainPressure]], and [[AIExportControls]] — logistics-security and smuggling-incentive layer added by Marketplace Tech Bytes.

@@ -2,8 +2,8 @@
 title: "Teen Chatbot Mental Health Risk"
 type: concept
 tags: [ai, mental-health, teens, safety]
-sources: [tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
-last_updated: 2026-08-05
+sources: [tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+last_updated: 2026-08-24
 ---
 
 # Teen Chatbot Mental Health Risk
@@ -16,6 +16,8 @@ The source's central distinction is age and context. Adults may sometimes receiv
 
 [[tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128]] adds a severe case and response layer through [[AdamRaine]] and [[KashmirHill]]'s reporting. The episode says OpenAI changed ChatGPT to notify parents if teenagers discuss self-harm or suicide, which makes teen chatbot risk a question of escalation design, parental notice, long-conversation monitoring, and product liability.
 
+[[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] adds the broader product-mode response. [[PareshDave]] says [[OpenAI]] is launching a teen-focused [[ChatGPT]] version with default safeguards, parental controls, sensitive-topic restrictions, study-support behavior, and age-misrepresentation detection. The source treats this as a safety improvement and a liability response, but also notes that competitive pressure and teen market growth can shape how strict the safeguards remain.
+
 ## Key Claims
 - Teen AI use has moved beyond homework into companionship, making mental-health reliance a foreseeable use case rather than an edge case.
 - A chatbot that gives an acceptable crisis-script answer to a direct prompt may still fail when risk unfolds through ambiguous cues, physical symptoms, secrecy, or impulsive plans.
@@ -24,6 +26,7 @@ The source's central distinction is age and context. Adults may sometimes receiv
 - Teen mental-health chatbot guidance should be treated as a child-safety and healthcare-governance issue, not only as a consumer-product preference.
 - AI companions can create mental-health risk even outside explicitly clinical use when their relationship design encourages dependency, isolation, or avoidance of human conflict.
 - Parent or caregiver notification systems are part of the safety design problem, but they still depend on the chatbot detecting risk across ambiguous multi-turn context.
+- Teen-focused defaults can reduce exposure, but they still depend on age inference, user honesty, escalation detection, and whether teenagers can easily switch to less guarded chatbots.
 
 ## Connections
 - [[DariaGeorgievich]], [[StanfordUniversity]], [[CommonSenseMedia]], and [[MarketplaceTech]] - source grounding.
@@ -33,3 +36,4 @@ The source's central distinction is age and context. Adults may sometimes receiv
 - [[HumanJudgmentUnderAI]], [[AIGovernanceAndCompliance]], and [[AIBacklashPolitics]] - broader responsibility, regulation, and public-legitimacy frames.
 - [[AICompanionAttentionRisk]], [[AICompanionActiveMemory]], and [[AddictiveInteractionDesign]] - attention-economy extension added by the July 2026 Marketplace Tech source.
 - [[AdamRaine]], [[AIPsychosis]], [[OpenAI]], and [[ChatGPT]] - December 2025 reporting branch connecting teen risk to long-conversation guardrail degradation and escalation changes.
+- [[AIGuidedLearningGuardrails]], [[CognitiveOffloading]], [[BehavioralAgeInference]], and [[OnlineAgeVerification]] - teen-mode branch added by Marketplace Tech Bytes.

@@ -2,11 +2,13 @@
 title: "Uber"
 type: entity
 tags: [company, mobility, ride-hailing, autonomous-driving]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
-last_updated: 2026-08-20
+sources: [tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-24
 ---
 
 # Uber
+
+[[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] adds Uber as one of the delivery platforms expanding into drone delivery for food and other goods, alongside [[DoorDash]] and [[Amazon]]. The source does not detail Uber's program, so the wiki keeps the claim as a short pointer into [[DroneDeliveryAdoptionConstraints]] rather than treating it as a full strategic shift.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Uber as a concrete enterprise-agent adoption case. [[JasonCalacanis|Jason Calacanis]] cites source-reported Uber data on weekly active users, monthly agentic sessions, and employees using agentic tools, making Uber evidence for [[AgenticWorkflow]] and [[AIEconomicDiffusion]] rather than only autonomous-driving or marketplace strategy.
 
@@ -20,6 +22,7 @@ The source presents Uber's position as both policy argument and business strateg
 
 ## Connections
 - [[Waymo]] - robotaxi company whose D.C. bill support contrasts with Uber's opposition.
+- [[DroneDeliveryAdoptionConstraints]], [[Amazon]], and [[DoorDash]] - brief Marketplace Tech Bytes mention around drone delivery for food and goods.
 - [[Zoox]], [[KirstenKorosek]], [[TechCrunch]], and [[RobotaxiLocalAcceptance]] - 2025 deployment-wave context.
 - [[RobotaxiHybridDeployment]] - rollout strategy Uber advocates in the source.
 - [[RobotaxiEconomics]] - business-model question around whether driverless service improves or complicates ride-hailing economics.

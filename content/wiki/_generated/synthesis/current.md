@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: cefa5e0ddb351a952ee999ab4bee46de8ffcdc80
-summary: "Durable value comes from workflows, institutions, distribution, risk discipline, cultural interpretation, evidence, and operating control beyond formal ownership."
-episode_count: 1336
-source_count: 1336
-paragraph_count: 146
+as_of_overview_commit: ddae659bece33ad9b1771146affafb262c518338
+summary: "Durable value comes from workflows, distribution, institutions, risk discipline, evidence, operating control, and real-world logistics beyond capability or ownership."
+episode_count: 1337
+source_count: 1337
+paragraph_count: 147
 topic_count: 8
 ---
 
@@ -29,14 +29,14 @@ topic_count: 8
 
 ### AI and Technology
 
-AI and technology sources treat model capability as useful only when embedded in workflow design, interfaces, permissions, verification, product economics, and domain feedback; otherwise capability remains an isolated claim.
+AI sources treat model capability as useful only when embedded in workflows, interfaces, permissions, verification, product economics, safety defaults, domain feedback, and physical logistics.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - Greater AI autonomy increases the importance of [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], and [[AgentPermissionBoundaries]] rather than removing human responsibility. Evidence: [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], [[AgentPermissionBoundaries]], [[DeterministicAuditData]], [[AIInvestmentResearch]], [[HumanRiskOverride]].
 
 ### Business and Markets
 
-Business and market sources show that customer pull, payment proof, distribution, local control, trust, risk discipline, retail gates, and Huawei's car alliance all turn attention or formal boundaries into operating tests.
+Business sources show that customer pull, payment proof, distribution, local control, trust, risk discipline, retail gates, logistics security, and operating translation turn attention or formal boundaries into durable value.
 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], and [[MassRetailProductionDeadline]] can repeatedly deliver the product. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], and [[CausalWorldModels]] all make capability depend on workflow fit, verification, interfaces, experiments, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]].

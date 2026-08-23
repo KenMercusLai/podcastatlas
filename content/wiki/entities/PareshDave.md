@@ -2,11 +2,13 @@
 title: "Paresh Dave"
 type: entity
 tags: [person, journalist, technology]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Paresh Dave
+
+[[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] adds Paresh Dave as the [[Wired]] journalist interpreting [[OpenAI]]'s teen [[ChatGPT]] safeguards, theft around AI data-center shipments, and [[Amazon]] drone delivery. His comments connect [[TeenChatbotMentalHealthRisk]], [[AIGuidedLearningGuardrails]], [[AIDataCenterCargoTheft]], and [[DroneDeliveryAdoptionConstraints]] into a weekly-news frame about AI safety, physical infrastructure, and last-mile automation.
 
 [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds Dave as the [[Wired]] journalist connecting possible [[SpaceX]], [[OpenAI]], and [[Anthropic]] IPOs to capital needs, public credibility, financial disclosure, and employee or investor liquidity. The same [[MarketplaceTech]] Bytes episode uses his comments to connect [[MicronTechnology|Micron]]'s [[MicronClayMegaFab|Clay mega fab]] to enforceable community commitments and to connect [[YouTube]]'s 2026 goals to [[AISlopDetection]].
 
@@ -23,6 +25,7 @@ His comments are preserved as episode analysis rather than independent verificat
 ## Connections
 - [[MarketplaceTech]] and [[StephanieHughes]] - show and host context.
 - [[Wired]] - publication affiliation.
+- [[OpenAI]], [[ChatGPT]], [[AIDataCenterCargoTheft]], [[Amazon]], and [[DroneDeliveryAdoptionConstraints]] - August 21, 2026 Bytes topic cluster.
 - [[MeganMcCartyCorino]], [[SpaceX]], [[MicronTechnology]], [[YouTube]], [[AIIPOValuation]], [[EnforceableCommunityBenefits]], and [[AISlopDetection]] - January 23 Bytes topic cluster.
 - [[Apple]], [[OpenAI]], [[KathyHochul]], [[Uber]], and [[Waymo]] - July 17, 2026 Bytes topic cluster.
 - [[AIHardwareTradeSecretDispute]], [[HyperscaleDataCenterMoratorium]], and [[RobotaxiHybridDeployment]] - concepts added through his July 17 analysis.

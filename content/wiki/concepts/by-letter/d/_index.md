@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5203
+wiki_total_pages: 5205
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "DroneDefenseEconomics"
     title: "Drone Defense Economics"
     url: "/wiki/concepts/dronedefenseeconomics/"
+  - key: "DroneDeliveryAdoptionConstraints"
+    title: "Drone Delivery Adoption Constraints"
+    url: "/wiki/concepts/dronedeliveryadoptionconstraints/"
   - key: "DroneProcurementIncentives"
     title: "Drone Procurement Incentives"
     url: "/wiki/concepts/droneprocurementincentives/"

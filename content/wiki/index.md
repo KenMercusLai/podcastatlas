@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery](sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on OpenAI teen ChatGPT safeguards, AI data-center cargo theft, export-control smuggling incentives, and Amazon drone-delivery limits.
 - [No.215 华为不造车，鸿蒙智行到底是什么？](sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843.md) — Banlatte episode on Huawei's no-car-manufacturing boundary, Hongmeng Zhixing, AITO/Wenjie, Luxeed, Stelato, Shangjie, Maextro, Yinwang, and Huawei's smart-vehicle cooperation model.
 - [Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up](sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830.md) — All-In episode on Dario Amodei's response, Anthropic regulatory-capture criticism, AI safety rhetoric, data-center backlash, open-source AI, self-regulation models, AI job anxiety, midterms, and affordability-driven socialism.
 - [Who decides what big box sells? Our GAME got us answers](sources/who-decides-what-big-box-sells-our-game-got-us-answers.md) — Planet Money episode following Sell Me a Sasquatch through line review, buyer concerns, planograms, pricing, royalties, manufacturing deadlines, shelf tests, and Target/Walmart availability.
@@ -12065,6 +12066,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Defense Tech Startup Procurement](concepts/DefenseTechStartupProcurement.md) — Military procurement pattern where newer technology companies win work traditionally associated with legacy defense contractors.
 - [Media AI Rescue Strategy](concepts/MediaAIRescueStrategy.md) — Attempt to use AI games, quizzes, personalization, or interactive content to compensate for a weakened media business model.
 - [Ultra-Fast Delivery Economics](concepts/UltraFastDeliveryEconomics.md) — Cost, pricing, inventory, routing, and expectation-setting problem behind one-hour or near-immediate delivery.
+- [Drone Delivery Adoption Constraints](concepts/DroneDeliveryAdoptionConstraints.md) — Practical limits on aerial delivery adoption from reliability, noise, privacy, geography, regulation, operating hours, and community acceptance.
 - [AI Consumer Decision Shaping](concepts/AIConsumerDecisionShaping.md) — Recommendation, fulfillment, and price-personalization loop where platforms influence what consumers notice, want, and buy.
 - [Low-Cost Drone Warfare](concepts/LowCostDroneWarfare.md) — Warfare pattern where cheap, numerous, adaptable drones create strategic effects through range, volume, attrition, and defensive cost pressure.
 - [Commercial Off-The-Shelf Weaponization](concepts/CommercialOffTheShelfWeaponization.md) — Conversion of ordinary commercial parts, materials, electronics, and control links into useful military systems.
@@ -12332,6 +12334,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High Bandwidth Flash](concepts/HighBandwidthFlash.md) — NAND-derived high-bandwidth flash direction positioned as useful for large capacity but not a clean HBM replacement.
 - [CXL Memory Pooling](concepts/CXLMemoryPooling.md) — DRAM pooling architecture used to improve memory utilization inside AI data-center systems.
 - [AI Hardware Supply Chain Pressure](concepts/AIHardwareSupplyChainPressure.md) — Pattern where AI data-center demand redirects component supply, product focus, consumer pricing, hard-drive availability, and archive-storage access across memory and storage markets.
+- [AI Data Center Cargo Theft](concepts/AIDataCenterCargoTheft.md) — Logistics-security risk where high-value AI data-center components attract organized cargo diversion, document fraud, resale, or smuggling before equipment reaches facilities.
 - [Data Center Debt Risk](concepts/DataCenterDebtRisk.md) — Financial fragility from AI data-center buildouts that depend on debt, third-party developers, leases, future cloud demand, and local project execution.
 - [AI Search Advertising](concepts/AISearchAdvertising.md) — Sponsored placement and product-listing design for AI answer engines, where user trust, advertiser scale, conversion data, and fewer visible answer slots shape monetization.
 - [Tech Hiring Stabilization](concepts/TechHiringStabilization.md) — Labor-market pattern where tech postings stop falling but remain far below a prior baseline rather than recovering into a hiring boom.

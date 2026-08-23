@@ -10693,6 +10693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery
+
+Added source page for a Marketplace Tech Bytes episode with Paresh Dave on OpenAI teen ChatGPT safeguards, AI data-center cargo theft, and Amazon drone delivery. Created AI Data Center Cargo Theft and Drone Delivery Adoption Constraints; updated overview, index, Marketplace Tech, Paresh Dave, OpenAI, ChatGPT, Amazon, DoorDash, Uber, teen chatbot safety, AI guided learning guardrails, cognitive offloading, AI hardware supply-chain pressure, data-center physical resilience, AI export controls, data-center thermal management, ultra-fast delivery economics, instant retail, and robot delivery economics. No direct contradiction found; revenue, theft-routing, smuggling-incentive, and drone-expansion claims remain source-scoped to the episode.
+
 ## [2026-08-24] ingest | No.215 华为不造车，鸿蒙智行到底是什么？
 
 Added source page for Banlatte episode 215 on Huawei's no-car-manufacturing boundary, Hongmeng Zhixing, AITO/Wenjie, Luxeed, Stelato, Shangjie, Maextro, Yinwang, and the smart selection car model. Created Hongmeng Zhixing, AITO, Luxeed, Stelato, Shangjie, Maextro, Shenzhen Yinwang, BAIC Group, SAIC Motor, JAC Group, Avatr, Huawei Smart Selection Car Model, Huawei No-Car Manufacturing Boundary, and Automotive Channel Migration; updated overview, index, Banlatte, Huawei, Yu Chengdong, Ren Zhengfei, Seres, Chery, Huawei Organizational Methodology, High-End EV Branding, Smart Driving Democratization, Range-Extended EV, EV Product Line Clarity, Autonomous Driving Data Flywheel, and Autonomous Driving Responsibility Boundary. No direct contradiction found; sales, delivery, revenue, ranking, and installation claims remain source-scoped to the episode's cited figures.
@@ -10716,6 +10720,10 @@ Added source page for Talk三联 EP276: Jia Zhangke's response to short-video re
 ## [2026-08-24] ingest | EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能
 
 Added source page for Talk三联 EP277: Jia Zhangke's defense of AI cinema as exploration rather than betrayal of reality, his distinction between realism and responding to the real world, and his view that AI may change film production methods more deeply than the film-to-digital carrier shift. Created Jia Zhangke, Pingyao International Film Festival, and Film Reality Beyond Realism; updated overview, index, Talk三联-adjacent AI film concepts, creative-labor backlash, likeness/copyright/energy concerns, Charlie Chaplin, and Martin Scorsese. No settled contradiction found; the episode qualifies AI-video optimism by keeping mature AI-film aesthetics, production roles, and legal/ethical rules source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5203
+wiki_total_pages: 5205
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"
+  - key: "AIDataCenterCargoTheft"
+    title: "AI Data Center Cargo Theft"
+    url: "/wiki/concepts/aidatacentercargotheft/"
   - key: "AIDataCenterMemoryHierarchy"
     title: "AI Data Center Memory Hierarchy"
     url: "/wiki/concepts/aidatacentermemoryhierarchy/"
