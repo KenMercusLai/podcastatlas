@@ -10581,3 +10581,11 @@ Added source page for Hanji 1015: Cao Cao's sequencing around Lü Bu and Yuan Sh
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？
+
+Added source page for Hanji 1014: Cao Cao's household list and 分香卖履 deathbed arrangement, Yu Jin's Wancheng retreat discipline, and Xun Yu/Guo Jia's 十胜十败 comparison against Yuan Shao. Created Yu Jin, Lady Ding (Cao Cao), Lady Bian (Cao Cao), Fenxiang Mailu, Crisis-First Military Discipline, and Ten Victories and Ten Defeats; updated overview, index, Cao Cao, Yuan Shao, Xun Yu, Guo Jia, Cao Ang, Xingshiqing Strategic Assessment, Merit-Based Reward and Punishment, and Talent as State Treasure. No settled contradiction found; household list and confidence lesson are source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

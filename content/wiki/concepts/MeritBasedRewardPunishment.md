@@ -2,7 +2,7 @@
 title: "Merit-Based Reward and Punishment / 因功赏罚"
 type: concept
 tags: [governance, legalism, statecraft, incentives, pre-qin-history, chu-han]
-sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ The worn-trousers story extends the principle from appointments to ordinary rewa
 
 [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] adds a credibility problem before the ranking can even proceed. [[ZhangLiang|张良]] tells [[LiuBang|刘邦]] to reward [[YongChi|雍齿]] first because he is personally hated; the source's point is that merit-based reward must be visible against private resentment, not only against favoritism. [[EQianqiu|鄂千秋]] then supplies the second layer by explaining why Xiao He's less visible support work deserves the top rank over [[CaoShen|曹参]]'s battlefield record.
 
+Hanji 1014 adds a late-Han battlefield-order version through [[YuJin|于禁]]. In the Wancheng retreat, Yu Jin stops friendly plundering, prepares the camp before defending his own reputation, and is then praised and enfeoffed by [[CaoCao|曹操]]. The source makes reward credible because it follows difficult crisis performance rather than private closeness.
+
 ## Key Claims
 - A reward loses governing force when it is detached from visible merit.
 - A ruler must apply standards even against the minister who taught them.
@@ -28,8 +30,10 @@ The worn-trousers story extends the principle from appointments to ordinary rewa
 - Hanji 160 part 1 adds the negative retention case: if merit is not credibly converted into reward, an enemy can turn the gap into a defection rumor.
 - Hanji 174 adds that merit-based rewards must compare unlike contributions: battlefield action and rear organization can both be merit, but may not rank equally.
 - Hanji 174 part 2 adds that merit-based reward also has to defeat private-enmity suspicion: a disliked recipient may be the clearest proof that the standard is real.
+- Hanji 1014 adds that crisis discipline can become rewardable merit when a commander protects order before self-vindication.
 
 ## Connections
+- [[YuJin|于禁]], [[CaoCao|曹操]], and [[CrisisFirstMilitaryDiscipline|临危先务军纪]] - Hanji 1014 retreat discipline and reward branch.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[YongChi|雍齿]], [[HostileRecipientRewardSignal|仇敌受封安众]], [[EQianqiu|鄂千秋]], and [[CaoShen|曹参]] - proof that merit can override enmity and that rear contribution can outrank visible fighting.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[XiaoHe|萧何]], [[LiuBang|刘邦]], and [[FoundingMeritHierarchy|建国功臣排序]] - "功狗 / 功人" ranking of battlefield pursuit versus rear organization.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[XiangYu|项羽]], [[ZhongliMo|钟离眜]], and [[RewardAllocationBacklash|分配反噬]] - under-rewarded merit becoming a rumor vulnerability.

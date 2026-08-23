@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 8b870c33e9744cbc8f16f26ae3059d8105887337
-summary: "Podcast Atlas maps agency as systems work: AI, markets, governance, history, culture, science, and education depend on verification, trust, legitimacy, context, and pacing."
-episode_count: 1316
-source_count: 1316
-paragraph_count: 128
+as_of_overview_commit: 7ef0ec0fe22e57f0ff6b658b8c0f01deb23e0b14
+summary: "The corpus maps durable change to systems: AI workflows, market proof, governance controls, historical legitimacy, culture, science evidence, and learning judgment."
+episode_count: 1317
+source_count: 1317
+paragraph_count: 129
 topic_count: 8
 ---
 
@@ -29,54 +29,54 @@ topic_count: 8
 
 ### AI and Technology
 
-Useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries.
+AI value is shifting from raw model capability to workflow systems with context, tools, verification, distribution, and permission boundaries.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]]. Evidence: [[ContextEngineering]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]].
 - Greater agent autonomy increases the importance of [[AICodingVerification]], [[HumanJudgmentUnderAI]], and [[AgentPermissionBoundaries]] rather than removing human responsibility. Evidence: [[AICodingVerification]], [[HumanJudgmentUnderAI]], [[AgentPermissionBoundaries]].
 
 ### Business and Markets
 
-The business and market sources separate attention from durable value: customer pull, distribution, operating capacity, trust, and risk discipline determine whether an attractive idea survives contact with real markets.
+Market durability depends less on attention than on customer pull, distribution, willingness to pay, operating capacity, trust, and risk discipline.
 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]].
 - A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the trust survives only when operating pace and delivery remain credible. Evidence: [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], [[SustainableGrowthPace]].
 
 ### Culture and Media
 
-The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, and agency rather than treating works only as plots or entertainment objects.
+Cultural sources treat literature, folklore, games, and media as ways to examine politics, identity, evidence, and agency.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
 ### Governance and Institutions
 
-Governance is translation work: conquest becomes founding order, law becomes enforceable administration, title claims become legitimacy tests, markets become rule-bound information, and trust becomes both asset and liability. The late-Han branch now starts with Yuan Shu's self-coronation, Cao Cao's sequencing and Guanzhong stabilization, and anti-usurpation pressure before Chen family survival, coalition control, Chen state decapitation risk, and talent absorption under prosecution constraints.
+Governance turns power into order through rules, titles, symbols, trust, markets, and exits, while repeatedly exposing backlash, compliance, and legitimacy risks.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-The history input now links late-Han title legitimacy, strategic sequencing, and marriage exposure; late-Han local-order decapitation risk; early Chinese enforceable state systems; and handset-platform ecosystem shifts.
+History and geopolitics now connect Cao Cao's leadership system, late-Han legitimacy and alliances, local-order fragility, state capacity, and handset ecosystems.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
 
 ### Psychology and Personal Development
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, and role-fit matter because confidence, convenience, and ambition can hide fragile assumptions.
+The psychology material stresses calibrated judgment: confidence, ambition, convenience, and authenticity need boundaries, uncertainty handling, and sized risk.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by a technological promise.
+Science, health, and climate claims are strongest when evidence, expert judgment, physical constraints, regulation, and implementation remain visible.
 
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-The work and education sources favor agency with scaffolding: explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction, but durable capability depends on judgment, evidence, context, designed interaction, and operating systems that preserve human reasoning and career mobility.
+Work and education sources favor agency with scaffolding: goals, communication, verification, trust, pacing, and learning structures keep capability usable.
 
 - [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design. Evidence: [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], [[EntryLevelAICareerLadderRisk]].
 - [[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding. Evidence: [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[AIShortcutRisk]].

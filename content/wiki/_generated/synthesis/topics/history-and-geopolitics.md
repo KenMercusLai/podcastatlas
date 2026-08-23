@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 8b870c33e9744cbc8f16f26ae3059d8105887337
-input_digest: d00cfdf277041be2da1b268724ec5d1738d244a4ef53332c2a49432e2af94d56
+as_of_overview_commit: 7ef0ec0fe22e57f0ff6b658b8c0f01deb23e0b14
+input_digest: d6aa0c215e3f6de88f2debeffcfbc999baf9299c760762cd9bdc440bfa783ae2
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input currently links four kinds of historical change: late-Han legitimacy, strategic sequencing, and marriage alliances can redirect war exposure before open battle; late-Han local order can protect people yet remain exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input now links five kinds of historical change: Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
+
+### Late Han Cao Cao Strength Combines Discipline And Adviser Confidence
+
+Hanji 1014 frames [[CaoCao]]'s pre-Yuan-Shao strength as a three-part system: [[FenxiangMailu]] and the [[CaoAng]] aftermath expose household settlement, [[YuJin]] and [[CrisisFirstMilitaryDiscipline]] show retreat-order capacity rewarded through [[MeritBasedRewardPunishment]], and [[XunYu]] with [[GuoJia]] use [[TenVictoriesTenDefeats]] to turn [[YuanShao]]'s material advantage into a leadership-comparison problem.
+
+**Evidence:** [[CaoCao]], [[FenxiangMailu]], [[CaoAng]], [[YuJin]], [[CrisisFirstMilitaryDiscipline]], [[MeritBasedRewardPunishment]], [[XunYu]], [[GuoJia]], [[TenVictoriesTenDefeats]], [[YuanShao]], [[XingshiqingStrategicAssessment]], [[TalentAsStateTreasure]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1014's bridge from Wancheng aftermath into the pre-Hanji 1015 Yuan Shao pressure frame.
+- The household list, modern confidence lesson, and attribution differences between Sanguozhi and Zizhi Tongjian are preserved as source-layer variation rather than global historical corrections.
 
 ### Late Han Legitimacy And Marriage Alliance Exposure
 

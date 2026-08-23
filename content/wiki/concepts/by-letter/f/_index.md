@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5161
+wiki_total_pages: 5164
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "FiveDynastiesTenKingdomsConceptFormation"
     title: "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation"
     url: "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"
+  - key: "FenxiangMailu"
+    title: "分香卖履 / Fenxiang Mailu"
+    url: "/wiki/concepts/fenxiangmailu/"
   - key: "FateReadingPoliticalRisk"
     title: "命相判断的政治风险 / Fate-Reading Political Risk"
     url: "/wiki/concepts/fatereadingpoliticalrisk/"

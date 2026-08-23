@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5161
+wiki_total_pages: 5164
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "TenCitiesThousandVehicles"
     title: "Ten Cities Thousand Vehicles"
     url: "/wiki/concepts/tencitiesthousandvehicles/"
+  - key: "TenVictoriesTenDefeats"
+    title: "Ten Victories and Ten Defeats / 十胜十败论"
+    url: "/wiki/concepts/tenvictoriestendefeats/"
   - key: "TenderOfferMediaCampaign"
     title: "Tender Offer Media Campaign / 收购要约媒体战"
     url: "/wiki/concepts/tenderoffermediacampaign/"

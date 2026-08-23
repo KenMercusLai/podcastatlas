@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6792
+wiki_total_pages: 6795
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "LongwangZhinu1931ChangjiangShuizai"
     title: "《龙王之怒：1931年长江水灾》"
     url: "/wiki/entities/longwangzhinu1931changjiangshuizai/"
+  - key: "LadyDingCaoCao"
+    title: "丁夫人 / Lady Ding (Cao Cao)"
+    url: "/wiki/entities/ladydingcaocao/"
   - key: "LinjinWarringStates"
     title: "临晋 / Linjin (Warring States)"
     url: "/wiki/entities/linjinwarringstates/"
@@ -773,6 +776,9 @@ wiki_pages:
   - key: "LaurieGarrett"
     title: "劳丽·加勒特 / Laurie Garrett"
     url: "/wiki/entities/lauriegarrett/"
+  - key: "LadyBianCaoCao"
+    title: "卞夫人 / Lady Bian (Cao Cao)"
+    url: "/wiki/entities/ladybiancaocao/"
   - key: "LuZhengyu"
     title: "卢正雨 / Lu Zhengyu"
     url: "/wiki/entities/luzhengyu/"

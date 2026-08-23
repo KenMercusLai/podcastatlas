@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c376851971a9096ea391c66839272b586ac677efe9e21f04e5ee2d2bf5d125d2",
       "0dd987792595f39ffef0ecac2b22eef76c379c84d88f7c343e12348115f6c27e",
       "b92d00a234edc209af84bf8ac6021cdd20660b9b641f0a99f267b86e0d2393af",
       "8236fb4b8eff8ecab0397d253c02e5cf870aa024a26418ed2b37a275eaa75332",
@@ -130,11 +131,40 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 128
+    "paragraph_count": 129
   },
-  "overview_commit": "8b870c33e9744cbc8f16f26ae3059d8105887337",
-  "overview_digest": "39b4e6f9a24f4df8c49e15374514f05c56183b9aa1c65e8dd47e89bcfd5ac000",
+  "overview_commit": "7ef0ec0fe22e57f0ff6b658b8c0f01deb23e0b14",
+  "overview_digest": "4887837d9338cce3f8a2c63ca5d4af069079afa22772aed12555e8b01e57a1ab",
   "paragraphs": [
+    {
+      "id": "c376851971a9096ea391c66839272b586ac677efe9e21f04e5ee2d2bf5d125d2",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode bridging the Wancheng aftermath and the Hanji 1015 late-Han sequencing branch through [[CaoCao|曹操]], [[YuJin|于禁]], [[XunYu|荀彧]], [[GuoJia|郭嘉]], and [[YuanShao|袁绍]]. It adds [[LadyDingCaoCao|丁夫人]], [[LadyBianCaoCao|卞夫人]], [[FenxiangMailu|分香卖履]], [[CrisisFirstMilitaryDiscipline|临危先务军纪]], and [[TenVictoriesTenDefeats|十胜十败论]], while extending [[CaoAng|曹昂]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[MeritBasedRewardPunishment|因功赏罚]], and [[TalentAsStateTreasure|以贤臣为宝]]. Its core synthesis is that Cao Cao's strength is shown in three linked registers: household settlement after Wancheng, command discipline through Yu Jin's retreat priorities, and adviser confidence through a leadership-system comparison with Yuan Shao. No settled contradiction is recorded; the household list and modern confidence lesson remain source-scoped, and 《三国志》 versus 《资治通鉴》 attribution differences are preserved as source-layer variation.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CaoAng",
+        "CaoCao",
+        "CrisisFirstMilitaryDiscipline",
+        "FenxiangMailu",
+        "GuoJia",
+        "LadyBianCaoCao",
+        "LadyDingCaoCao",
+        "MeritBasedRewardPunishment",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAsStateTreasure",
+        "TenVictoriesTenDefeats",
+        "XingshiqingStrategicAssessment",
+        "XunYu",
+        "YuJin",
+        "YuanShao",
+        "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69"
+      ]
+    },
     {
       "id": "0dd987792595f39ffef0ecac2b22eef76c379c84d88f7c343e12348115f6c27e",
       "primary_topic": "governance-and-institutions",
