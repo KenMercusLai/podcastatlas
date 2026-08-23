@@ -4,10 +4,10 @@
       "global_candidate": true,
       "id": "demand-needs-distribution-and-payment-proof",
       "qualifications": [
-        "The exact proof differs across software, consumer goods, regulated products, restaurants, finance, AI services, and games.",
+        "The exact proof differs across software, consumer goods, regulated products, restaurants, finance, AI services, games, and robots.",
         "The big-box buyer in the Sell Me a Sasquatch line-review room remains unnamed in the source, so the retailer identity should stay source-scoped."
       ],
-      "statement": "[[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], and [[MassRetailProductionDeadline]] can repeatedly deliver the product.",
+      "statement": "[[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.",
       "status": "qualified",
       "supporting_wikilinks": [
         "CustomerPull",
@@ -16,7 +16,8 @@
         "RetailLineReview",
         "PlanogramGatekeeping",
         "RetailPricePointProductScoping",
-        "MassRetailProductionDeadline"
+        "MassRetailProductionDeadline",
+        "RobotRepurchaseDemand"
       ]
     },
     {
@@ -25,7 +26,7 @@
       "qualifications": [
         "This is a cross-industry synthesis rather than a claim that the same operating playbook works in every domain."
       ],
-      "statement": "Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], and [[CausalWorldModels]] all make capability depend on workflow fit, verification, interfaces, experiments, or repeated use.",
+      "statement": "Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use.",
       "status": "supported",
       "supporting_wikilinks": [
         "ForwardDeployedEngineer",
@@ -35,7 +36,8 @@
         "AgentFacingInterfaces",
         "AIGameIndustrialization",
         "AIForScience",
-        "CausalWorldModels"
+        "CausalWorldModels",
+        "HumanoidRobotCommercialization"
       ]
     },
     {
@@ -89,14 +91,16 @@
       "qualifications": [
         "These sources do not establish one universally optimal portfolio or trading rule."
       ],
-      "statement": "[[InvestmentRiskManagement]], [[StopLossDiscipline]], [[FinancialStatementAnalysis]], [[CurrencyRisk]], and [[IndexReentryDiscipline]] treat uncertainty, position exposure, company quality, access routes, and exit rules as more reliable controls than confidence in one forecast.",
+      "statement": "[[InvestmentRiskManagement]], [[StopLossDiscipline]], [[FinancialStatementAnalysis]], [[CurrencyRisk]], [[IndexReentryDiscipline]], [[AIEquityValuationRisk]], and [[UnitreeIPOValuation]] treat uncertainty, position exposure, company quality, access routes, valuation, and exit rules as more reliable controls than confidence in one forecast.",
       "status": "supported",
       "supporting_wikilinks": [
         "InvestmentRiskManagement",
         "StopLossDiscipline",
         "FinancialStatementAnalysis",
         "CurrencyRisk",
-        "IndexReentryDiscipline"
+        "IndexReentryDiscipline",
+        "AIEquityValuationRisk",
+        "UnitreeIPOValuation"
       ]
     },
     {
@@ -136,8 +140,28 @@
         "Amazon",
         "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "robotics-valuation-needs-repeat-purchase",
+      "qualifications": [
+        "The claim is source-scoped to the What's Next S10E26 analysis and does not independently verify Unitree's reported market capitalization, revenue, or future adoption.",
+        "The Disney branch is not a direct comp for industrial robots; it broadens the revenue model beyond labor substitution."
+      ],
+      "statement": "S10E26 adds that robot-company valuation should separate public enthusiasm from repeatable business evidence: [[UnitreeRobotics]] and [[UnitreeIPOValuation]] still need [[RobotRepurchaseDemand]], [[AICommercializationPressure]], and [[ProductionRobotScenarioSelection]], while [[DisneyRobotExperienceCommercialization]] shows a different market logic based on IP, emotion, and experience.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "UnitreeRobotics",
+        "UnitreeIPOValuation",
+        "RobotRepurchaseDemand",
+        "AICommercializationPressure",
+        "ProductionRobotScenarioSelection",
+        "DisneyRobotExperienceCommercialization",
+        "AIEquityValuationRisk",
+        "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b"
+      ]
     }
   ],
-  "summary": "The business and market sources repeatedly separate attention and formal ownership from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, verification, logistics security, and disciplined risk management determine whether an attractive idea survives contact with real markets. Huawei's automotive ecosystem adds an alliance-platform version of that pattern: a company may avoid formal car manufacturing while still shaping products, channels, service standards, brands, and supplier architecture through Hongmeng Zhixing, the smart selection model, channel migration, and Yinwang. Sell Me a Sasquatch adds a mass-retail version: a playable economics game still needed line-review approval, audience proof, planogram and shelf confidence, a $19.99 price frame, licensed-risk allocation, packaging decisions, and factory deadlines before it could appear at Target and Walmart. The August 21 Marketplace Tech Bytes source adds a physical-operations version: AI data-center growth can make cargo theft, export-control leakage, cooling parts, cabling, and drone-delivery acceptance into market constraints rather than background infrastructure. The AI, SaaS, CPG, restaurant, finance, creator, sports, banking, insurance, prediction-market, automotive, and governance sources all preserve the same distinction between capability or attention and the systems that make value repeatable. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.",
+  "summary": "The business and market sources repeatedly separate attention and formal ownership from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, verification, logistics security, valuation discipline, and repeat demand determine whether an attractive idea survives contact with real markets. Unitree adds a robotics-public-market version of that pattern: a listing surge and low-cost robot platform are not enough without buyers, tasks, repeat purchase, scene-specific ROI, and a defensible split between existing business value and future humanoid option value. Huawei's automotive ecosystem adds an alliance-platform version: a company may avoid formal car manufacturing while still shaping products, channels, service standards, brands, and supplier architecture through Hongmeng Zhixing, the smart selection model, channel migration, and Yinwang. Sell Me a Sasquatch adds a mass-retail version: a playable economics game still needed line-review approval, audience proof, planogram and shelf confidence, a $19.99 price frame, licensed-risk allocation, packaging decisions, and factory deadlines before it could appear at Target and Walmart. The August 21 Marketplace Tech Bytes source adds a physical-operations version: AI data-center growth can make cargo theft, export-control leakage, cooling parts, cabling, and drone-delivery acceptance into market constraints rather than background infrastructure. The AI, SaaS, CPG, restaurant, finance, creator, sports, banking, insurance, prediction-market, automotive, robotics, and governance sources all preserve the same distinction between capability or attention and the systems that make value repeatable. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.",
   "topic_id": "business-and-markets"
 }

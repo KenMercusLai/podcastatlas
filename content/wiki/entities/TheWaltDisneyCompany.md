@@ -2,11 +2,13 @@
 title: "The Walt Disney Company"
 type: entity
 tags: [company, media, entertainment, ip, theme-parks]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, disney-the-renaissance-and-the-empire-1, betty-boop-excel-olympics-penny-isms-our-2026-valentines, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-08-16
+sources: [yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, disney-the-renaissance-and-the-empire-1, betty-boop-excel-olympics-penny-isms-our-2026-valentines, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-08-24
 ---
 
 # The Walt Disney Company
+
+[[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] adds Disney as a robotics commercialization contrast. The source says Disney works backward from immersive experience and IP interaction, using animatronics, expressive small robots, and [[NewtonPhysicsEngine|Newton]]-style simulation-adjacent technology to create [[DisneyRobotExperienceCommercialization]] rather than selling general-purpose humanoid labor machines.
 
 The Walt Disney Company is the media and entertainment company examined in [[the-walt-disney-company-1]]. The source follows its development from the Disney Brothers Cartoon Studio through Mickey, feature animation, merchandising, television, Disneyland, the Florida project, and the post-Walt period when parks and consumer products became dominant profit engines.
 
@@ -48,6 +50,7 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - ESPN's cable affiliate fees made Disney's expansion look easier for years, but cord-cutting exposed that a distribution profit pool can decay even when the IP remains strong.
 - Disney+ may be strategically necessary for family reach and customer control, but streaming weakens the older scarcity, windowing, and cable economics that once made Disney unusually profitable.
 - A free ad-supported streaming product could widen Disney's funnel, but it also pushes the company further toward advertising, aggregation, and lower-price audience segments.
+- Disney's robotics branch shows the physical version of the same flywheel: robot technology can be valuable when it makes characters, park encounters, and fan objects feel more alive.
 
 ## Connections
 - [[WaltDisney]] and [[RoyDisney]] - founding and operating partnership.
@@ -65,3 +68,4 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - [[DisneyRenaissance]], [[Pixar]], [[JohnLasseter]], [[EdCatmull]], [[SteveJobs]], [[MarvelEntertainment]], and [[Lucasfilm]] - creative renewal and IP-acquisition branch.
 - [[CapitalCitiesABC]], [[ESPN]], [[ESPNAffiliateFeeModel]], [[DisneyPlus]], [[Hulu]], [[BAMTech]], and [[StreamingContentTreadmill]] - cable-to-streaming distribution branch.
 - [[ShengdongZaokafei]], [[StreamingPlatformBundling]], and [[StreamingContentTreadmill]] - free ad-supported streaming funnel update added by 声动早咖啡.
+- [[DisneyRobotExperienceCommercialization]], [[NewtonPhysicsEngine]], [[RobotLiveliness]], and [[CompanionRobots]] - robotics and character-experience branch added by What's Next S10E26.

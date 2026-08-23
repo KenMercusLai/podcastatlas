@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6889
+wiki_total_pages: 6894
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "HomiKharas"
     title: "Homi Kharas"
     url: "/wiki/entities/homikharas/"
+  - key: "Honda"
+    title: "Honda / 本田"
+    url: "/wiki/entities/honda/"
   - key: "HongKong"
     title: "Hong Kong / 香港"
     url: "/wiki/entities/hongkong/"

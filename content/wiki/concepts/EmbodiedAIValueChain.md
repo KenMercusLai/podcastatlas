@@ -2,11 +2,13 @@
 title: "Embodied AI Value Chain"
 type: concept
 tags: [robotics, commercialization, strategy]
-sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-08-07
+sources: [yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-08-24
 ---
 
 # Embodied AI Value Chain
+
+[[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] adds a capital-market and platform-value layer through [[UnitreeRobotics]]. The episode says cheaper Unitree robot platforms can help universities and developers experiment, but [[UnitreeIPOValuation]] still depends on whether body hardware, robot brains, data/simulation, and scenario owners turn into durable shareholder value rather than only ecosystem value.
 
 Embodied AI value chain is the source's frame for why robot companies cannot be judged only by algorithm papers or demo videos. In [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]], [[GaoJiyang]] says the value chain includes whole machines, supply chain, data, AI infrastructure, algorithms, models, distribution, and customer value.
 
@@ -35,6 +37,7 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 - Full-stack manipulation platforms can occupy a different value-chain position from vertical scene integrators: they provide stable short skills, hardware, APIs, and development tools rather than personally building every deployment scenario.
 - Autonomous-driving companies can enter the embodied-AI value chain through model/data advantages first, then selectively add body design, manufacturing partnerships, or platform cooperation where needed.
 - A physical-intelligence startup may need temporary vertical integration when the ecosystem cannot yet supply reliable standard modules, interfaces, or data loops.
+- Lowering hardware platform cost can expand the embodied-AI ecosystem, but the value chain still has to show where repeat demand, profit, and public-market value are captured.
 
 ## Connections
 - [[Xinghaitu]], [[GaoJiyang]], and [[XuHuazhe]] — company, founder, and scientist-departure context.
@@ -48,3 +51,4 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 - [[SuduTechnology]], [[LayeredRobotArchitecture]], [[Sim2Real]], and [[OpenWorldRobotManipulation]] — platform and low-level-skill route added by E244.
 - [[Momenta]], [[CaoXudong]], [[AutonomousDrivingDataFlywheel]], [[Didi]], [[AutoNavi]], and [[T3Chuxing]] — autonomous-driving-to-robotics and partner-led Robotaxi route added by LateTalk.
 - [[StridingAI]], [[YaoSong]], [[PhysicalIntelligenceSystemStack]], [[MilestoneCommercialization]], and [[RobotDemoAuthenticity]] — full-stack physical-intelligence route added by episode 173.
+- [[UnitreeRobotics]], [[UnitreeIPOValuation]], [[RobotRepurchaseDemand]], [[WorldLabs]], and [[NewtonPhysicsEngine]] — listing, repeat-demand, and simulation-platform branch added by What's Next S10E26.

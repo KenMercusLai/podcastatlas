@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26](sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b.md) — What's Next episode on Unitree's listing surge, humanoid-robot commercialization, repeat-purchase demand, existing-business versus option-value valuation, simulation, and Disney's IP-led robotics model.
 - [I, robot? AI and consciousness](sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015.md) — The Intelligence episode on AI consciousness boundaries, ELIZA and chatbot mind projection, Claude workspace analogies, Europe's STI surge, and Mary de Rachewiltz's translation of Ezra Pound's Cantos.
 - [271.唐朝都要不存在了？为什么伪史论会在今年大爆发？](sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un.md) — 乱翻书 live episode on 伪史论, "唐朝不存在", historical evidence chains, short-video amplification, simple-causality comfort, professional-community trust, and arguing for bystanders.
 - [Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery](sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on OpenAI teen ChatGPT safeguards, AI data-center cargo theft, export-control smuggling incentives, and Amazon drone-delivery limits.
@@ -1347,6 +1348,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Wang Xingxing / 王兴兴](entities/WangXingxing.md) — Unitree founder figure cited in S10E26 on incomplete humanoid robot product-market fit.
+- [Honda / 本田](entities/Honda.md) — Automotive and robotics company used in S10E26 as an early humanoid-form argument for human-built spaces.
+- [DARPA](entities/DARPA.md) — U.S. research agency used in S10E26 as a demand-shaping reference for quadruped robotics.
+- [World Labs](entities/WorldLabs.md) — Fei-Fei Li associated company used in S10E26 to discuss simulated-world data for robots.
+- [Newton Physics Engine](entities/NewtonPhysicsEngine.md) — Open physics-engine project named in S10E26 as a simulation branch involving Nvidia, Google DeepMind, and Disney.
 - [Alok Jha](entities/AlokJha.md) — The Intelligence science voice mapping AI consciousness through phenomenal/access consciousness, chatbot projection, workspace theory, functionalism, and organoid computing.
 - [Blake Lemoine](entities/BlakeLemoine.md) — Google engineer used by The Intelligence as a modern case of chatbot mind projection rather than proof of machine consciousness.
 - [ELIZA](entities/ELIZA.md) — 1966 chatbot used by The Intelligence to explain the Eliza effect and the risk of inferring mind from conversational form.
@@ -8240,6 +8246,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Unitree IPO Valuation / 宇树上市估值](concepts/UnitreeIPOValuation.md) — Public-market frame separating Unitree's existing robot business from future humanoid and platform option value.
+- [Robot Repurchase Demand / 机器人复购需求](concepts/RobotRepurchaseDemand.md) — Commercial test asking who buys a robot, what they do with it, and whether they buy again.
+- [Disney Robot Experience Commercialization / 迪士尼机器人体验商业化](concepts/DisneyRobotExperienceCommercialization.md) — Disney-style robot business model where IP, parks, character interaction, and emotional experience carry the value.
 - [AI Consciousness Boundary](concepts/AIConsciousnessBoundary.md) — Boundary between fluent chatbot simulation and evidence of subjective machine consciousness, with current LLM consciousness unproven and future systems left open.
 - [Chatbot Mind Projection](concepts/ChatbotMindProjection.md) — Eliza-effect pattern where users infer thought, feeling, or personhood from conversational AI behavior.
 - [Phenomenal and Access Consciousness](concepts/PhenomenalAccessConsciousness.md) — Distinction between subjective experience and information availability used to clarify AI-consciousness debates.

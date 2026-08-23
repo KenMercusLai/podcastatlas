@@ -10701,6 +10701,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26
+
+Added source page for What's Next S10E26 on Unitree's listing surge, humanoid robot commercialization, repeat-purchase demand, existing-business versus option-value valuation, simulation/world-model data, and Disney's IP-led robotics commercialization. Created Unitree IPO Valuation, Robot Repurchase Demand, Disney Robot Experience Commercialization, Wang Xingxing, Honda, DARPA, World Labs, and Newton Physics Engine; updated overview, index, Unitree Robotics, What's Next｜科技早知道, Humanoid Robot Commercialization, Robot Form-Factor Pragmatism, Production Robot Scenario Selection, Embodied AI Value Chain, Boston Dynamics, Tesla Optimus, Fei-Fei Li, The Walt Disney Company, Robot Liveliness, Companion Robots, Robotics Simulation Evaluation, Physical AI, AI Equity Valuation Risk, and AI Commercialization Pressure. No direct contradiction found; the source qualifies humanoid-robot optimism with PMF, repurchase, and valuation discipline.
+
 ## [2026-08-24] ingest | Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery
 
 Added source page for a Marketplace Tech Bytes episode with Paresh Dave on OpenAI teen ChatGPT safeguards, AI data-center cargo theft, and Amazon drone delivery. Created AI Data Center Cargo Theft and Drone Delivery Adoption Constraints; updated overview, index, Marketplace Tech, Paresh Dave, OpenAI, ChatGPT, Amazon, DoorDash, Uber, teen chatbot safety, AI guided learning guardrails, cognitive offloading, AI hardware supply-chain pressure, data-center physical resilience, AI export controls, data-center thermal management, ultra-fast delivery economics, instant retail, and robot delivery economics. No direct contradiction found; revenue, theft-routing, smuggling-incentive, and drone-expansion claims remain source-scoped to the episode.
@@ -10728,6 +10732,10 @@ Added source page for Talk三联 EP276: Jia Zhangke's response to short-video re
 ## [2026-08-24] ingest | EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能
 
 Added source page for Talk三联 EP277: Jia Zhangke's defense of AI cinema as exploration rather than betrayal of reality, his distinction between realism and responding to the real world, and his view that AI may change film production methods more deeply than the film-to-digital carrier shift. Created Jia Zhangke, Pingyao International Film Festival, and Film Reality Beyond Realism; updated overview, index, Talk三联-adjacent AI film concepts, creative-labor backlash, likeness/copyright/energy concerns, Charlie Chaplin, and Martin Scorsese. No settled contradiction found; the episode qualifies AI-video optimism by keeping mature AI-film aesthetics, production roles, and legal/ethical rules source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

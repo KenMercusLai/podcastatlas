@@ -3,10 +3,12 @@ title: "Physical AI"
 type: concept
 tags: [ai, robotics, automotive, physical-ai]
 sources: [all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, 150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, acc532947b65-acc532947b65, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
-last_updated: 2026-08-20
+last_updated: 2026-08-24
 ---
 
 # Physical AI
+
+[[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] adds the post-listing robotics-market version through [[UnitreeRobotics|宇树科技]]. The source keeps physical AI tied to buyers, tasks, repeat purchase, and valuation discipline: a low-cost robot platform can create social and ecosystem value, but [[UnitreeIPOValuation]] still has to separate the existing business from future humanoid and platform option value.
 
 [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds [[BlackForestLabs|Black Forest Labs]]' media-to-robotics version through [[RobinRombach|Robin Rombach]]. Rombach says the same type of multimodal model could generate a movie and serve as part of a robot brain once it learns visual understanding, prediction, and action selection.
 
@@ -64,8 +66,10 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - Episode 150 adds that a Physical AI "ChatGPT moment" would likely be a clearly useful AI-driven physical application, not a leaderboard milestone by itself.
 - The All-In CES source adds that physical AI can be strategically necessary while diffusing more slowly than software because robots lack a cloud-like API layer and require manufacturing depth.
 - The Black Forest Labs source adds a media-model route into physical AI: action prediction can make video/audio/image pretraining relevant to robot behavior, but hardware variation and task-specific fine-tuning remain constraints.
+- The Unitree listing source adds a public-market test: physical AI companies still have to prove repeatable demand, scene fit, and valuation support even when hardware cost curves and technical attention improve.
 
 ## Connections
+- [[UnitreeRobotics|宇树科技]], [[UnitreeIPOValuation]], [[RobotRepurchaseDemand]], [[HumanoidRobotCommercialization]], and [[DisneyRobotExperienceCommercialization]] — public-robotics and post-listing commercialization branch added by What's Next S10E26.
 - [[XPeng]], [[HeXiaopeng]], [[XPengIron]], and [[XPengGX]] — source company, CEO, robot, and vehicle case.
 - [[EmbodiedAI]] — broader robotics and physical-intelligence category already tracked by the wiki.
 - [[AIPlusTerminals]] — device and vehicle carriers for model capability and physical-world data.

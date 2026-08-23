@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5216
+wiki_total_pages: 5219
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "DisneyRenaissance"
     title: "Disney Renaissance"
     url: "/wiki/concepts/disneyrenaissance/"
+  - key: "DisneyRobotExperienceCommercialization"
+    title: "Disney Robot Experience Commercialization / 迪士尼机器人体验商业化"
+    url: "/wiki/concepts/disneyrobotexperiencecommercialization/"
   - key: "DisneyVaultHomeVideoEconomics"
     title: "Disney Vault Home Video Economics"
     url: "/wiki/concepts/disneyvaulthomevideoeconomics/"

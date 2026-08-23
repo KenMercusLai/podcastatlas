@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-08-23
-as_of_overview_commit: 4a88bc4543198df6706baf64357741a0d4df7a79
-input_digest: 8f864c4b23d15949cd58253069ededd681cf196bde499eb4c8e4aa58f488bf3c
+last_updated: 2026-08-24
+as_of_overview_commit: e4c2323e8804a75847bed94f9b485fb61739d226
+input_digest: beeed61f981e6db32f03086f56fb9e8be0f42f1f92c5f05fa7cb5080e14a12e3
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, and status sensitivity matter because confidence, convenience, desire, and ambition can hide fragile assumptions.
+The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, and market excitement can hide fragile assumptions. The Unitree source adds a small public-market and robotics variant: excitement around humanoid robots and emotionally resonant robot experiences still needs product-market fit, repeat-purchase evidence, and valuation discipline.
 
 ## Cross-source Findings
 
@@ -66,3 +66,14 @@ The psychology and personal-development material emphasizes calibrated judgment:
 **Qualifications:**
 
 - This is source-scoped to the Hanji 1015 framing; the input's strongest evidence is political judgment rather than clinical psychology.
+
+### Market Excitement Needs Commercial Self Check
+
+S10E26 adds a market-psychology caution: [[UnitreeIPOValuation]] and [[AIEquityValuationRisk]] separate enthusiasm around [[UnitreeRobotics]] from [[RobotRepurchaseDemand]], while [[DisneyRobotExperienceCommercialization]], [[RobotLiveliness]], and [[CompanionRobots]] show that emotional value can be real without proving every humanoid-labor-substitution thesis.
+
+**Evidence:** [[UnitreeIPOValuation]], [[AIEquityValuationRisk]], [[UnitreeRobotics]], [[RobotRepurchaseDemand]], [[DisneyRobotExperienceCommercialization]], [[RobotLiveliness]], [[CompanionRobots]], [[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]]
+
+**Qualifications:**
+
+- The episode supplies a valuation-discipline and emotional-product branch, not an independent psychological study of investors or robot users.
+- The Disney and companion-robot links describe an alternate emotional-value path, not proof that Unitree's humanoid PMF is solved.

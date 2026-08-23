@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6889
+wiki_total_pages: 6894
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "WangTiezhen"
     title: "Wang Tiezhen / 王铁镇"
     url: "/wiki/entities/wangtiezhen/"
+  - key: "WangXingxing"
+    title: "Wang Xingxing / 王兴兴"
+    url: "/wiki/entities/wangxingxing/"
   - key: "WangYong"
     title: "Wang Yong"
     url: "/wiki/entities/wangyong/"
@@ -419,6 +422,9 @@ wiki_pages:
   - key: "WorldGoldCouncil"
     title: "World Gold Council / 世界黄金协会"
     url: "/wiki/entities/worldgoldcouncil/"
+  - key: "WorldLabs"
+    title: "World Labs"
+    url: "/wiki/entities/worldlabs/"
   - key: "WorldLibertyFinancial"
     title: "World Liberty Financial"
     url: "/wiki/entities/worldlibertyfinancial/"

@@ -2,11 +2,13 @@
 title: "Production Robot Scenario Selection"
 type: concept
 tags: [robotics, commercialization, product-strategy]
-sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, chef-vs-robot, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
-last_updated: 2026-08-07
+sources: [yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, chef-vs-robot, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
+last_updated: 2026-08-24
 ---
 
 # Production Robot Scenario Selection
+
+[[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] adds a demand-quality test to scenario selection. The source argues that warehouse logistics robots, industrial collaborative robots, restaurant delivery robots, and hotel delivery robots are more commercially legible because the task is bounded and repeatable, while general home humanoids remain earlier because safety, liability, form, and task frequency are less settled.
 
 [[chef-vs-robot]] adds a restaurant-kitchen scenario through [[RobbyWokbot]]. The case fits a bounded production scene: repeated wok motions, predictable ingredient prompts, high labor intensity, and visible throughput gains, but it also exposes quality and breakdown constraints through [[WokHei]] and [[RobotChefCostQualityTradeoff]].
 
@@ -28,6 +30,7 @@ Production robot scenario selection is [[GaoJiyang]]'s method for deciding where
 - Restaurant wok automation is another bounded scene, but customer taste judgment and service downtime make the failure-cost calculation different from warehouse sorting.
 - BlueJ adds a package-handling example where the task is concrete enough to link robotics progress directly to throughput, cost, and labor concerns.
 - Striding AI adds a partner-access version: scenes can be selected not only for task fit, but also for whether the founder can secure enough deployment permission, data, and commercial feedback to improve the full stack.
+- The Unitree listing source adds that scenario quality should include [[RobotRepurchaseDemand]]: a buyer who purchases every year is stronger evidence than one-off research, government, or performance demand.
 
 ## Connections
 - [[Xinghaitu]] and [[GaoJiyang]] — company and source speaker.
@@ -38,3 +41,4 @@ Production robot scenario selection is [[GaoJiyang]]'s method for deciding where
 - [[RobbyWokbot]], [[RestaurantAutomation]], [[WokHei]], and [[RobotChefCostQualityTradeoff]] - restaurant production scenario added by Planet Money.
 - [[Amazon]], [[BlueJ]], [[PhysicalAI]], and [[AutomationDisplacementEffect]] - overhead package-handling scenario added by Marketplace Tech.
 - [[StridingAI]], [[YaoSong]], [[CPGroup]], [[PhysicalIntelligenceSystemStack]], and [[MilestoneCommercialization]] — retail and 3C manufacturing scenario route added by episode 173.
+- [[RobotRepurchaseDemand]], [[UnitreeIPOValuation]], and [[HumanoidRobotCommercialization]] — S10E26's repeat-demand and public-market proof branch.

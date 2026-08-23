@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 6889
+wiki_total_pages: 6894
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "NewSpot"
     title: "NewSpot"
     url: "/wiki/entities/newspot/"
+  - key: "NewtonPhysicsEngine"
+    title: "Newton Physics Engine"
+    url: "/wiki/entities/newtonphysicsengine/"
   - key: "NextRobot"
     title: "Next Robot"
     url: "/wiki/entities/nextrobot/"

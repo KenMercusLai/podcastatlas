@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "94c1cfccaafcf24b83e4513c839b70794cde0174a4936e2cfdd2dc8a872b263c",
       "cfe5db0a7de5a9ad07b27b1ecc2b5a020aad0df779aba39119d08d81ce061727",
       "ca21f843ce1c289056b59b5b8ea930ff2fab54120277c8f80f4bdbc389ca5452",
       "68b56d320b14d21fcfc2fdb2001a6d7d38bc59c0feed25211a60b3325cc9327c",
@@ -149,11 +150,51 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 147
+    "paragraph_count": 148
   },
-  "overview_commit": "470559e985e2f148b1b46b2bd79366a5f602edd7",
-  "overview_digest": "fdd666929e642097fbef3517beac5da7ff1c74355bb959ddb0b8606a9ffdea3f",
+  "overview_commit": "e4c2323e8804a75847bed94f9b485fb61739d226",
+  "overview_digest": "0ad3c8b483d156d7f9eceace537f761598360640d3fc4f24dd34bf99fe5b7ff6",
   "paragraphs": [
+    {
+      "id": "94c1cfccaafcf24b83e4513c839b70794cde0174a4936e2cfdd2dc8a872b263c",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]], a [[WhatsNextKejiZaozhidao|What's Next｜科技早知道]] episode on [[UnitreeRobotics|宇树科技]]'s listing surge and humanoid-robot commercialization. It adds [[UnitreeIPOValuation]], [[RobotRepurchaseDemand]], [[DisneyRobotExperienceCommercialization]], [[WangXingxing|王兴兴]], [[Honda]], [[DARPA]], [[WorldLabs]], and [[NewtonPhysicsEngine]], while extending [[HumanoidRobotCommercialization]], [[RobotFormFactorPragmatism]], [[EmbodiedAIValueChain]], [[ProductionRobotScenarioSelection]], [[RoboticsSimulationEvaluation]], [[PhysicalAI]], [[AIEquityValuationRisk]], [[AICommercializationPressure]], [[TheWaltDisneyCompany]], [[RobotLiveliness]], and [[CompanionRobots]]. Its core synthesis is that Unitree's listing is a robotics milestone but not settled proof of humanoid PMF: investors still need to separate existing robot-platform value from future option value, and robot companies need buyers, tasks, repeat purchases, and scene-specific commercial loops. The Disney branch broadens the model by showing that robots can monetize IP, emotion, and immersive experience rather than only labor substitution. No direct contradiction is recorded; the source qualifies existing humanoid optimism with demand and valuation discipline.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AICommercializationPressure",
+        "AIEquityValuationRisk",
+        "CompanionRobots",
+        "DARPA",
+        "DisneyRobotExperienceCommercialization",
+        "EmbodiedAIValueChain",
+        "Honda",
+        "HumanoidRobotCommercialization",
+        "NewtonPhysicsEngine",
+        "PhysicalAI",
+        "ProductionRobotScenarioSelection",
+        "RobotFormFactorPragmatism",
+        "RobotLiveliness",
+        "RobotRepurchaseDemand",
+        "RoboticsSimulationEvaluation",
+        "TheWaltDisneyCompany",
+        "UnitreeIPOValuation",
+        "UnitreeRobotics",
+        "WangXingxing",
+        "WhatsNextKejiZaozhidao",
+        "WorldLabs",
+        "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b"
+      ]
+    },
     {
       "id": "cfe5db0a7de5a9ad07b27b1ecc2b5a020aad0df779aba39119d08d81ce061727",
       "primary_topic": "ai-and-technology",

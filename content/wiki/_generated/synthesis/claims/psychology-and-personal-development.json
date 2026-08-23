@@ -73,8 +73,28 @@
         "YuanShu",
         "AntiUsurpationCoalitionPressure"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "market-excitement-needs-commercial-self-check",
+      "qualifications": [
+        "The episode supplies a valuation-discipline and emotional-product branch, not an independent psychological study of investors or robot users.",
+        "The Disney and companion-robot links describe an alternate emotional-value path, not proof that Unitree's humanoid PMF is solved."
+      ],
+      "statement": "S10E26 adds a market-psychology caution: [[UnitreeIPOValuation]] and [[AIEquityValuationRisk]] separate enthusiasm around [[UnitreeRobotics]] from [[RobotRepurchaseDemand]], while [[DisneyRobotExperienceCommercialization]], [[RobotLiveliness]], and [[CompanionRobots]] show that emotional value can be real without proving every humanoid-labor-substitution thesis.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "UnitreeIPOValuation",
+        "AIEquityValuationRisk",
+        "UnitreeRobotics",
+        "RobotRepurchaseDemand",
+        "DisneyRobotExperienceCommercialization",
+        "RobotLiveliness",
+        "CompanionRobots",
+        "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b"
+      ]
     }
   ],
-  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, and status sensitivity matter because confidence, convenience, desire, and ambition can hide fragile assumptions.",
+  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, and market excitement can hide fragile assumptions. The Unitree source adds a small public-market and robotics variant: excitement around humanoid robots and emotionally resonant robot experiences still needs product-market fit, repeat-purchase evidence, and valuation discipline.",
   "topic_id": "psychology-and-personal-development"
 }

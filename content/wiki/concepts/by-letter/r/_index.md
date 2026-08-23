@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5216
+wiki_total_pages: 5219
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "RobotReinforcementLearning"
     title: "Robot Reinforcement Learning"
     url: "/wiki/concepts/robotreinforcementlearning/"
+  - key: "RobotRepurchaseDemand"
+    title: "Robot Repurchase Demand / 机器人复购需求"
+    url: "/wiki/concepts/robotrepurchasedemand/"
   - key: "RobotTeleoperationAndRemoteTakeover"
     title: "Robot Teleoperation and Remote Takeover"
     url: "/wiki/concepts/robotteleoperationandremotetakeover/"
