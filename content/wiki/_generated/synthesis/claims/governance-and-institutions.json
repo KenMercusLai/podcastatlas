@@ -211,17 +211,17 @@
       "global_candidate": false,
       "id": "wancheng-private-desire-becomes-command-exposure",
       "qualifications": [
-        "This is source-scoped to the Hanji 1013 interpretation; the source's strongest causal slogan is kept as shorthand rather than the sole explanation for Dian Wei's death.",
-        "The Lady Zhou branch is disambiguated as the Wancheng figure connected to Zhang Xiu."
+        "This is source-scoped to the Hanji 1012-1013 interpretation; Hanji 1012 supplies the pre-disaster setup and Hanji 1013 supplies the night-attack mechanics, so the causal slogan remains shorthand rather than the whole explanation for Dian Wei's death.",
+        "The Wancheng woman is normalized as Lady Zou; Hanji 1013's Zhou form is preserved as a transcript variant rather than a separate canonical person."
       ],
-      "statement": "Hanji 1013 frames Wancheng as a command-exposure chain in which [[CaoCao]]'s household desire and status handling turn surrendered authority into danger: [[LadyDuCaoCao]] and [[LadyYinCaoCao]] establish the desire pattern, [[LadyZhouWancheng]], [[HuCheEr]], [[ZhangXiu]], and [[JiaXu]] turn it into pre-emptive revolt mechanics, and drink plus weapon theft disable [[DianWei]] before the deaths of [[CaoAng]] and [[CaoAnmin]] rupture [[LadyDingCaoCao]]'s household position.",
+      "statement": "Hanji 1012-1013 frame Wancheng as a command-exposure chain in which [[CaoCao]]'s household desire and status handling turn surrendered authority into danger: Hanji 1012 supplies the fragile surrender prelude, [[LadyDuCaoCao]] and [[LadyYinCaoCao]] establish the broader desire pattern, [[LadyZouWancheng]], [[HuCheEr]], [[ZhangXiu]], and [[JiaXu]] turn resentment into pre-emptive revolt mechanics, and drink plus weapon theft disable [[DianWei]] before the deaths of [[CaoAng]] and [[CaoAnmin]] rupture [[LadyDingCaoCao]]'s household position.",
       "status": "source-scoped",
       "supporting_wikilinks": [
         "CaoCao",
         "LadyDuCaoCao",
         "LadyYinCaoCao",
         "WanCounty",
-        "LadyZhouWancheng",
+        "LadyZouWancheng",
         "HuCheEr",
         "ZhangXiu",
         "JiaXu",
@@ -231,6 +231,7 @@
         "CaoAng",
         "CaoAnmin",
         "LadyDingCaoCao",
+        "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
         "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh"
       ]
     },
@@ -272,6 +273,6 @@
       ]
     }
   ],
-  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1013 adds a Wancheng command-exposure branch in which private desire, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
+  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1012-1013 now define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
   "topic_id": "governance-and-institutions"
 }

@@ -10597,3 +10597,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事
+
+Added source page for Hanji 1012: Cao Cao's 197 CE southern campaign, Zhang Xiu's Jia Xu-advised surrender, Zhang Ji's death and troop transfer, Lady Zou as Zhang Ji's widow and Zhang Xiu's aunt, and the trust/status breach that sets up the Hanji 1013 Wancheng disaster. Created Zhang Ji (late Han); updated overview, index, Cao Cao, Zhang Xiu, Jia Xu, Liu Biao, Lady Zou, Wan County, Desire-Driven Command Exposure, and Status Insult Defection Cascade. No settled contradiction found; Hanji 1013's "周氏" is preserved as a transcript variant for the canonical Lady Zou page.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

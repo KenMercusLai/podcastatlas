@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-23
-as_of_overview_commit: 8b870c33e9744cbc8f16f26ae3059d8105887337
-input_digest: 1e6904115e2ef4761a852d6390684bc3cabdf57f50bf6addef9b0b9a47f43a45
+as_of_overview_commit: 4a88bc4543198df6706baf64357741a0d4df7a79
+input_digest: 8f864c4b23d15949cd58253069ededd681cf196bde499eb4c8e4aa58f488bf3c
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, and role-fit matter because confidence, convenience, and ambition can hide fragile assumptions.
+The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, and status sensitivity matter because confidence, convenience, desire, and ambition can hide fragile assumptions.
 
 ## Cross-source Findings
 
@@ -45,6 +45,17 @@ The psychology and personal-development material emphasizes calibrated judgment:
 **Qualifications:**
 
 - The evidence is source-scoped to banking workplace discussions.
+
+### Private Desire Can Break New Trust
+
+[[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]] adds a historical trust-and-status case: after [[ZhangJiLateHan]]'s death and [[ZhangXiu]]'s surrender on [[JiaXu]]'s advice, [[CaoCao]]'s taking of [[LadyZouWancheng]] turns private desire into an affront to family status and new-subordinate trust before the Wancheng attack.
+
+**Evidence:** [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]], [[ZhangJiLateHan]], [[ZhangXiu]], [[JiaXu]], [[CaoCao]], [[LadyZouWancheng]], [[DesireDrivenCommandExposure]], [[StatusInsultDefectionCascade]]
+
+**Qualifications:**
+
+- The source stops before the night attack, so it explains the psychological and status precondition rather than the whole military disaster.
+- Hanji 1013's Zhou form is preserved as a transcript variant for the same Wancheng woman.
 
 ### Judgment Needs Fit Between Ambition And Conditions
 

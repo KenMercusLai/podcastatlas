@@ -1,7 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
-      "e73adfd7e57b6a9d7261bcad385086b3d5b96a8732186604f355693dacc6879d",
+      "2b6ff603a81c96089f7a32dfa941dd475ab0ba8936303267a7c8cff787f70e69",
+      "5395ef9177de8b773e65acc72ed0b4c6977f76ec86df8337cb7d029b78a344d8",
       "c376851971a9096ea391c66839272b586ac677efe9e21f04e5ee2d2bf5d125d2",
       "0dd987792595f39ffef0ecac2b22eef76c379c84d88f7c343e12348115f6c27e",
       "b92d00a234edc209af84bf8ac6021cdd20660b9b641f0a99f267b86e0d2393af",
@@ -132,16 +133,41 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 130
+    "paragraph_count": 131
   },
-  "overview_commit": "09eb3368b861cec7488236ad2d40c2eeeb6a78cf",
-  "overview_digest": "78dfd44548f0b7a68d48cb6027fb96d8e7224d2ce4e8f16c92cf2f23c2d9da82",
+  "overview_commit": "4a88bc4543198df6706baf64357741a0d4df7a79",
+  "overview_digest": "37612496cfd9937cff610c369c60ae2b14181656c4a485c517ce632e2c4acd70",
   "paragraphs": [
     {
-      "id": "e73adfd7e57b6a9d7261bcad385086b3d5b96a8732186604f355693dacc6879d",
+      "id": "2b6ff603a81c96089f7a32dfa941dd475ab0ba8936303267a7c8cff787f70e69",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the pre-disaster setup for the Wancheng branch before [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]]. It adds [[ZhangJiLateHan|张济]] and normalizes the Wancheng woman as [[LadyZouWancheng|邹氏]] while preserving Hanji 1013's \"周氏\" as a transcript variant; it also extends [[CaoCao|曹操]], [[ZhangXiu|张绣]], [[JiaXu|贾诩]], [[LiuBiao|刘表]], [[WanCounty|宛城]], [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]], and [[StatusInsultDefectionCascade|名分羞辱触发叛变]]. Its core synthesis is that the surrender relationship is already fragile before open rebellion: Zhang Xiu inherits Zhang Ji's troops, follows Jia Xu's advice to submit, and has just entered Cao Cao's camp order when Cao Cao's taking of Zhang Ji's widow turns private desire into an affront to family status and new-subordinate trust. No settled contradiction is recorded; the episode stops before the night attack and leaves the tactical disaster to the next installment.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "DesireDrivenCommandExposure",
+        "JiaXu",
+        "LadyZouWancheng",
+        "LiuBiao",
+        "RuiqiJiangtouZizhiTongjian",
+        "StatusInsultDefectionCascade",
+        "WanCounty",
+        "ZhangJiLateHan",
+        "ZhangXiu",
+        "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
+        "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh"
+      ]
+    },
+    {
+      "id": "5395ef9177de8b773e65acc72ed0b4c6977f76ec86df8337cb7d029b78a344d8",
       "primary_topic": "governance-and-institutions",
       "secondary_topics": [],
-      "text": "The latest addition is [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the missing Wancheng disaster immediately before [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]]. [[CaoCao|曹操]] first appears through [[LadyDuCaoCao|杜夫人]] and [[LadyYinCaoCao|尹夫人]] as a household-desire actor, then the episode narrows to [[WanCounty|宛城]]: taking [[LadyZhouWancheng|周氏]], rewarding [[HuCheEr|胡车儿]], and leaking a plan against [[ZhangXiu|张绣]] let [[JiaXu|贾诩]] turn surrender resentment into a pre-emptive night attack. [[HuCheEr|胡车儿]] disables [[DianWei|典韦]] through drink and weapon theft, so [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] now has a detailed guard-failure case inside [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]]. The deaths of Dian Wei, [[CaoAng|曹昂]], and [[CaoAnmin|曹安民]] then feed directly into [[LadyDingCaoCao|丁夫人]]'s household rupture and the Hanji 1014 aftermath, while [[HeYan|何晏]] opens a smaller [[WeiJinStyleCulturalAfterlife|魏晋风度文化后效]] bridge. The source adds no settled contradiction; its strongest causal slogan is kept as source-scoped shorthand rather than the whole explanation.",
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the Wancheng disaster immediately after [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|Hanji 1012]] and before [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]]. [[CaoCao|曹操]] first appears through [[LadyDuCaoCao|杜夫人]] and [[LadyYinCaoCao|尹夫人]] as a household-desire actor, then the episode narrows to [[WanCounty|宛城]]: taking [[LadyZouWancheng|邹氏]], rewarding [[HuCheEr|胡车儿]], and leaking a plan against [[ZhangXiu|张绣]] let [[JiaXu|贾诩]] turn surrender resentment into a pre-emptive night attack. [[HuCheEr|胡车儿]] disables [[DianWei|典韦]] through drink and weapon theft, so [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] now has a detailed guard-failure case inside [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]]. The deaths of Dian Wei, [[CaoAng|曹昂]], and [[CaoAnmin|曹安民]] then feed directly into [[LadyDingCaoCao|丁夫人]]'s household rupture and the Hanji 1014 aftermath, while [[HeYan|何晏]] opens a smaller [[WeiJinStyleCulturalAfterlife|魏晋风度文化后效]] bridge. The source adds no settled contradiction; its strongest causal slogan is kept as source-scoped shorthand rather than the whole explanation.",
       "topic_scores": {
         "governance-and-institutions": 1
       },
@@ -158,11 +184,12 @@
         "LadyDingCaoCao",
         "LadyDuCaoCao",
         "LadyYinCaoCao",
-        "LadyZhouWancheng",
+        "LadyZouWancheng",
         "RuiqiJiangtouZizhiTongjian",
         "WanCounty",
         "WeiJinStyleCulturalAfterlife",
         "ZhangXiu",
+        "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
         "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
         "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69"
       ]

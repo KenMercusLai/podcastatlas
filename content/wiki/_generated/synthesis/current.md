@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 09eb3368b861cec7488236ad2d40c2eeeb6a78cf
-summary: "The corpus maps durable change to systems: AI workflows, market proof, governance controls, historical legitimacy, culture, science evidence, and learning judgment."
-episode_count: 1318
-source_count: 1318
-paragraph_count: 130
+as_of_overview_commit: 4a88bc4543198df6706baf64357741a0d4df7a79
+summary: "The corpus maps durable change to systems: AI workflows, market proof, governance controls, historical legitimacy, culture, science evidence, learning judgment, and trust."
+episode_count: 1319
+source_count: 1319
+paragraph_count: 131
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Cultural sources treat literature, folklore, games, and media as ways to examine
 
 ### Governance and Institutions
 
-Governance turns power into order through rules, titles, symbols, trust, markets, and exits, while Hanji 1013 adds how private desire and status insult can expose command to lethal security failure.
+Governance turns power into order through rules, titles, symbols, trust, markets, and exits; Hanji 1012-1013 add how private desire, status insult, and guard failure expose command.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
@@ -63,7 +63,7 @@ History and geopolitics connect Cao Cao's leadership system, late-Han legitimacy
 
 ### Psychology and Personal Development
 
-The psychology material stresses calibrated judgment: confidence, ambition, convenience, and authenticity need boundaries, uncertainty handling, and sized risk.
+The psychology material stresses calibrated judgment: confidence, ambition, convenience, desire, and authenticity need boundaries, uncertainty handling, trust, and sized risk.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].

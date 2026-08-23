@@ -16,5 +16,5 @@ Lady Yin's main role in this episode is connective. Through her, the source move
 - [[CaoCao|曹操]] - husband in the source's household branch.
 - [[HeYan|何晏]] - son who becomes Cao Cao's foster son.
 - [[HeJin|何进]] - family status marker in the source.
-- [[LadyDuCaoCao|杜夫人]] and [[LadyZhouWancheng|周氏]] - adjacent women used by the episode to structure Cao Cao's desire pattern.
+- [[LadyDuCaoCao|杜夫人]] and [[LadyZouWancheng|邹氏]] - adjacent women used by the episode to structure Cao Cao's desire pattern.
 - [[WeiJinStyleCulturalAfterlife|魏晋风度文化后效]] - later cultural branch opened through He Yan.

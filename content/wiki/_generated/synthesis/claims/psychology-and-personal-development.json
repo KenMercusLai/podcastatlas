@@ -41,6 +41,26 @@
     },
     {
       "global_candidate": false,
+      "id": "private-desire-can-break-new-trust",
+      "qualifications": [
+        "The source stops before the night attack, so it explains the psychological and status precondition rather than the whole military disaster.",
+        "Hanji 1013's Zhou form is preserved as a transcript variant for the same Wancheng woman."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]] adds a historical trust-and-status case: after [[ZhangJiLateHan]]'s death and [[ZhangXiu]]'s surrender on [[JiaXu]]'s advice, [[CaoCao]]'s taking of [[LadyZouWancheng]] turns private desire into an affront to family status and new-subordinate trust before the Wancheng attack.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
+        "ZhangJiLateHan",
+        "ZhangXiu",
+        "JiaXu",
+        "CaoCao",
+        "LadyZouWancheng",
+        "DesireDrivenCommandExposure",
+        "StatusInsultDefectionCascade"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "judgment-needs-fit-between-ambition-and-conditions",
       "qualifications": [
         "This is source-scoped to the Hanji 1015 framing; the input's strongest evidence is political judgment rather than clinical psychology."
@@ -55,6 +75,6 @@
       ]
     }
   ],
-  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, and role-fit matter because confidence, convenience, and ambition can hide fragile assumptions.",
+  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, and status sensitivity matter because confidence, convenience, desire, and ambition can hide fragile assumptions.",
   "topic_id": "psychology-and-personal-development"
 }

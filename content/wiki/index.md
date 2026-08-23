@@ -6,7 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
-- [《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？](sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh.md) — 芮淇讲透资治通鉴 episode on Cao Cao's desire pattern, Lady Zhou at Wancheng, Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin.
+- [《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事](sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh.md) — 芮淇讲透资治通鉴 episode setting up the Wancheng disaster through Cao Cao's 197 CE southern campaign, Zhang Xiu's Jia Xu-advised surrender, Zhang Ji's widow Lady Zou, and the trust/status breach before Hanji 1013.
+- [《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？](sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh.md) — 芮淇讲透资治通鉴 episode on Cao Cao's desire pattern, the Wancheng Lady Zou/Lady Zhou transcript variant, Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin.
 - [《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？](sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69.md) — 芮淇讲透资治通鉴 episode on Cao Cao's household and 分香卖履, Yu Jin restoring Wancheng retreat discipline, and Xun Yu/Guo Jia's 十胜十败 comparison against Yuan Shao.
 - [《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？](sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Lü Bu/Yuan Shao sequencing, Zhong Yao stabilizing Guanzhong, and Yuan Shu's Shouchun self-coronation as a title-reality and anti-usurpation coalition-pressure failure.
 - [《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择](sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs.md) — 芮淇讲透资治通鉴 episode on 名器 legitimacy, Yuan Shu's unsupported imperial claim, Chen Gui blocking the Yuan Shu-Lü Bu marriage alliance, Han Yin's failed mission, and the Chen family's survival path toward Cao Cao.
@@ -1333,7 +1334,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [尹夫人 / Lady Yin (Cao Cao)](entities/LadyYinCaoCao.md) — He Jin's daughter-in-law and He Yan's mother, taken into Cao Cao's household in Hanji 1013.
 - [何晏 / He Yan](entities/HeYan.md) — Lady Yin's son and Cao Cao foster son used by Hanji 1013 to bridge Cao household history to Wei-Jin cultural style.
 - [何进 / He Jin](entities/HeJin.md) — Late-Han family status marker for Lady Yin and He Yan in Hanji 1013.
-- [周氏 / Lady Zhou (Wancheng)](entities/LadyZhouWancheng.md) — Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult in Hanji 1013.
+- [张济 / Zhang Ji (late Han)](entities/ZhangJiLateHan.md) — Zhang Xiu's uncle whose death transfers troops to Zhang Xiu and leaves Lady Zou as the Wancheng widow/aunt figure.
+- [邹氏 / Lady Zou (Wancheng)](entities/LadyZouWancheng.md) — Zhang Ji's widow and Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult; Hanji 1013's "周氏" is kept as a transcript variant.
 - [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
 - [贾诩 / Jia Xu](entities/JiaXu.md) — Zhang Xiu adviser whose Wancheng plan turns leaked danger into an armored camp-passage and night attack.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
@@ -1591,7 +1593,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
 - [《礼记》 / Book of Rites](entities/LijiText.md) — Confucian classic cited for drinking without losing composure and for alcohol as harmonious social ritual.
 - [王仲闻 / Wang Zhongwen](entities/WangZhongwen.md) — Scholar whose Li Qingzhao annotation statistics are used to quantify wine in her ci corpus.
-- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander in the Wancheng drinking story where Cao Cao's private indulgence becomes a security failure.
+- [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander whose Jia Xu-advised surrender to Cao Cao collapses into the Wancheng security failure after Lady Zou and Hu Che'er trigger insult and threat.
 - [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
 - [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
 - [张飞 / Zhang Fei](entities/ZhangFei.md) — Three Kingdoms figure used as the compact example of drunkenly losing Xuzhou and harming Liu Bei's base.
@@ -8137,7 +8139,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.
+- [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1012-1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.
 - [Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效](concepts/WeiJinStyleCulturalAfterlife.md) — Hanji 1013 bridge from He Yan's Cao-household position to later Wei-Jin elite style, xuanxue, drug use, fragrance, appearance, and qingtan.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
 - [Crisis-First Military Discipline / 临危先务军纪](concepts/CrisisFirstMilitaryDiscipline.md) — Hanji 1014 Yu Jin pattern: public order and camp security before personal vindication in retreat.
