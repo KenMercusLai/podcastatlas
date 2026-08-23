@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5253
+wiki_total_pages: 5258
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "CyberDataTheftAndLeakOperations"
     title: "Cyber Data Theft and Leak Operations"
     url: "/wiki/concepts/cyberdatatheftandleakoperations/"
+  - key: "CyberHygieneBaseline"
+    title: "Cyber Hygiene Baseline"
+    url: "/wiki/concepts/cyberhygienebaseline/"
   - key: "CyberSabotage"
     title: "Cyber Sabotage"
     url: "/wiki/concepts/cybersabotage/"

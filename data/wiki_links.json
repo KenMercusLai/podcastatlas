@@ -11335,6 +11335,10 @@
     "title": "Cyber Avatars",
     "url": "/wiki/concepts/cyberavatars/"
   },
+  "CyberAvengers": {
+    "title": "Cyber Avengers",
+    "url": "/wiki/entities/cyberavengers/"
+  },
   "CyberCab": {
     "title": "CyberCab",
     "url": "/wiki/entities/cybercab/"
@@ -11342,6 +11346,10 @@
   "CyberDataTheftAndLeakOperations": {
     "title": "Cyber Data Theft and Leak Operations",
     "url": "/wiki/concepts/cyberdatatheftandleakoperations/"
+  },
+  "CyberHygieneBaseline": {
+    "title": "Cyber Hygiene Baseline",
+    "url": "/wiki/concepts/cyberhygienebaseline/"
   },
   "CyberSabotage": {
     "title": "Cyber Sabotage",
@@ -13970,6 +13978,10 @@
   "ElectionBettingMarkets": {
     "title": "Election Betting Markets",
     "url": "/wiki/concepts/electionbettingmarkets/"
+  },
+  "ElectionInformationOperations": {
+    "title": "Election Information Operations",
+    "url": "/wiki/concepts/electioninformationoperations/"
   },
   "ElectoralIneligibilityPenalty": {
     "title": "Electoral Ineligibility Penalty",
@@ -29347,6 +29359,10 @@
     "title": "Minnan Ritual Network / 闽南仪式网络",
     "url": "/wiki/concepts/minnanritualnetwork/"
   },
+  "Minnesota": {
+    "title": "Minnesota",
+    "url": "/wiki/entities/minnesota/"
+  },
   "MinoanCivilization": {
     "title": "Minoan Civilization",
     "url": "/wiki/entities/minoancivilization/"
@@ -31038,6 +31054,10 @@
   "NikiLauda": {
     "title": "Niki Lauda",
     "url": "/wiki/entities/nikilauda/"
+  },
+  "NikitaShah": {
+    "title": "Nikita Shah",
+    "url": "/wiki/entities/nikitashah/"
   },
   "NikolaTesla": {
     "title": "Nikola Tesla / 尼古拉·特斯拉",
@@ -34594,6 +34614,10 @@
   "PrivateRevengeModernLaw": {
     "title": "Private Revenge And Modern Law",
     "url": "/wiki/concepts/privaterevengemodernlaw/"
+  },
+  "PrivateSectorOffensiveCyberAuthority": {
+    "title": "Private-Sector Offensive Cyber Authority",
+    "url": "/wiki/concepts/privatesectoroffensivecyberauthority/"
   },
   "PrivateWinnerHoldDiscipline": {
     "title": "Private Winner Hold Discipline",
@@ -40867,6 +40891,10 @@
     "title": "State Crypto Reserves",
     "url": "/wiki/concepts/statecryptoreserves/"
   },
+  "StateCyberActorThreatModel": {
+    "title": "State Cyber Actor Threat Model",
+    "url": "/wiki/concepts/statecyberactorthreatmodel/"
+  },
   "StateManagedProstitution": {
     "title": "State-Managed Prostitution / 国家管制女闾",
     "url": "/wiki/concepts/statemanagedprostitution/"
@@ -45938,6 +45966,10 @@
   "WaterSourceAuthenticityRisk": {
     "title": "Water Source Authenticity Risk",
     "url": "/wiki/concepts/watersourceauthenticityrisk/"
+  },
+  "WaterSystemCyberResilience": {
+    "title": "Water System Cyber Resilience",
+    "url": "/wiki/concepts/watersystemcyberresilience/"
   },
   "WatsonPower": {
     "title": "华生力 / Watson Power",
@@ -52290,6 +52322,10 @@
   "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128": {
     "title": "Can an AI music company make nice with human artists?",
     "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+  },
+  "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128": {
+    "title": "Cyberattacks on U.S. water systems raise concerns about security",
+    "url": "/wiki/sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128/"
   },
   "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128": {
     "title": "Why the Trump administration plans to boost funding for subsea cables",

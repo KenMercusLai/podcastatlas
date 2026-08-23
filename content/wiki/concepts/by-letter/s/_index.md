@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5253
+wiki_total_pages: 5258
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "StateCryptoReserves"
     title: "State Crypto Reserves"
     url: "/wiki/concepts/statecryptoreserves/"
+  - key: "StateCyberActorThreatModel"
+    title: "State Cyber Actor Threat Model"
+    url: "/wiki/concepts/statecyberactorthreatmodel/"
   - key: "StatePolicingLegitimacyCrisis"
     title: "State Policing Legitimacy Crisis"
     url: "/wiki/concepts/statepolicinglegitimacycrisis/"

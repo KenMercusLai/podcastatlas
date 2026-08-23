@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5253
+wiki_total_pages: 5258
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "WaterSourceAuthenticityRisk"
     title: "Water Source Authenticity Risk"
     url: "/wiki/concepts/watersourceauthenticityrisk/"
+  - key: "WaterSystemCyberResilience"
+    title: "Water System Cyber Resilience"
+    url: "/wiki/concepts/watersystemcyberresilience/"
   - key: "WeakInstitutionsMarketBuilding"
     title: "Weak Institutions Market Building / 弱制度启动市场"
     url: "/wiki/concepts/weakinstitutionsmarketbuilding/"

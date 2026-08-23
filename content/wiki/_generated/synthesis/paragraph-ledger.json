@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9a1d3dc2b7fb17f46f11a17ab82c30607d0538f83a810f7e32c7a9c236493155",
       "6ea267261525c88f7bc096afcd8cc7f8e4f50e4f9746ea37a20ee80d74810e9a",
       "20d66f1b575bf4525f57794be596ff5af6b48bb1bc804aede97fbc0d0473e5c6",
       "144d6dc6453da14d1a4f2d185e1b6531611739454ab441bd8d1d3d18b8ebabc6",
@@ -156,11 +157,44 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 154
+    "paragraph_count": 155
   },
-  "overview_commit": "c2f15eb05569d6fbf4ddfacaf8d28097bc664b51",
-  "overview_digest": "154f08b081ee07825252f59750fe8dfe7fc77a81cc7f7718882fcf7fa217b836",
+  "overview_commit": "be104d35fbb1eb8c1db41b72d906b5561ccc7b6f",
+  "overview_digest": "aa51797d324d2ffdff7e70dd5545085609b14b1bc8e8a87c8cf2ffd4fe41fde6",
   "paragraphs": [
+    {
+      "id": "9a1d3dc2b7fb17f46f11a17ab82c30607d0538f83a810f7e32c7a9c236493155",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128]], a [[MarketplaceTech]] episode with [[NikitaShah]] of the [[CenterForStrategicAndInternationalStudies|Center for Strategic and International Studies]] on cyberattacks against U.S. water systems. It adds [[NikitaShah]], [[CyberAvengers]], [[Minnesota]], [[WaterSystemCyberResilience]], [[CyberHygieneBaseline]], [[StateCyberActorThreatModel]], [[ElectionInformationOperations]], and [[PrivateSectorOffensiveCyberAuthority]], while extending [[MarketplaceTech]], [[UnitedStates]], [[DonaldTrump]], [[NewYorkState|New York State]], [[IranLinkedCyberOperations]], [[IndustrialControlSystemCyberRisk]], [[AsymmetricInfrastructureAttack]], [[AICyberDefenseUtility]], [[FrontierModelCyberMisuse]], [[AIEnabledVulnerabilityDiscovery]], and [[AIElectionMisinformationRisk]]. Its core synthesis is that critical-infrastructure cyber risk is both basic and strategic: default passwords, missing multi-factor authentication, exposed operational technology, thin staffing, AI-assisted vulnerability discovery, information operations, and offensive-cyber authority all matter because public systems still need to operate after attack. No direct contradiction is recorded; the source cautions against treating [[CyberAvengers]]' attribution claim as settled before official U.S. assessment.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "AICyberDefenseUtility",
+        "AIElectionMisinformationRisk",
+        "AIEnabledVulnerabilityDiscovery",
+        "AsymmetricInfrastructureAttack",
+        "CenterForStrategicAndInternationalStudies",
+        "CyberAvengers",
+        "CyberHygieneBaseline",
+        "DonaldTrump",
+        "ElectionInformationOperations",
+        "FrontierModelCyberMisuse",
+        "IndustrialControlSystemCyberRisk",
+        "IranLinkedCyberOperations",
+        "MarketplaceTech",
+        "Minnesota",
+        "NewYorkState",
+        "NikitaShah",
+        "PrivateSectorOffensiveCyberAuthority",
+        "StateCyberActorThreatModel",
+        "UnitedStates",
+        "WaterSystemCyberResilience",
+        "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "6ea267261525c88f7bc096afcd8cc7f8e4f50e4f9746ea37a20ee80d74810e9a",
       "primary_topic": "governance-and-institutions",

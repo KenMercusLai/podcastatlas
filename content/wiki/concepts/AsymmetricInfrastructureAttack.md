@@ -2,11 +2,13 @@
 title: "Asymmetric Infrastructure Attack"
 type: concept
 tags: [geopolitics, infrastructure, risk]
-sources: [tech-20260820-tech-pod-128-tech-20260820-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+sources: [tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128, tech-20260820-tech-pod-128-tech-20260820-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
 last_updated: 2026-08-24
 ---
 
 # Asymmetric Infrastructure Attack
+
+[[tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128]] adds a water-utility cyber version. The episode's multi-state water-system activity shows how basic weaknesses such as default passwords, missing multi-factor authentication, and exposed operational technology can let relatively modest cyber operations threaten public confidence and service continuity, even when no major disruption occurs.
 
 [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]] adds the undersea-cable version. The episode describes [[UnderseaDataCables]] as mostly stable but physically vulnerable; sabotage risk is framed as low probability yet potentially high impact because a damaged cable can slow or interrupt connectivity unless [[CableNetworkResilience]] provides enough alternate paths.
 
@@ -25,6 +27,7 @@ The concept matters for business architecture because insurance, redundancy, and
 [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds a private cloud and AI infrastructure version. The episode's reported AWS drone-attack example and IRGC target warning show how a relatively low-cost strike can threaten expensive cloud facilities, military-adjacent services, and regional AI capacity without needing to attack a formal military base.
 
 ## Key Claims
+- Public-utility cyber incidents can be asymmetric when cheap access paths threaten high-trust services such as water systems.
 - Undersea cable sabotage fits the same pattern when a difficult-to-protect physical asset carries high-value communications or financial traffic.
 - Attack economics change when low-cost systems can threaten high-value assets.
 - The target does not need to be fully destroyed for business impact; partial damage, evacuation, or perceived vulnerability can interrupt service.
@@ -38,6 +41,7 @@ The concept matters for business architecture because insurance, redundancy, and
 - Commercial cloud and AI infrastructure can face asymmetric targeting when facilities are expensive, concentrated, and tied to military or intelligence workflows.
 
 ## Connections
+- [[WaterSystemCyberResilience]], [[CyberHygieneBaseline]], and [[IndustrialControlSystemCyberRisk]] - water-system cyber branch added by Marketplace Tech.
 - [[UnderseaDataCables]], [[CableNetworkResilience]], [[BalticSea]], and [[TaiwanStrait]] - cable-damage and attribution-ambiguity branch added by Marketplace Tech.
 - [[DigitalInfrastructureWarRisk]] — broader wartime infrastructure frame.
 - [[LowCostDroneWarfare]], [[DroneDefenseEconomics]], [[DroneDecoyEconomics]], [[Shahed136]], and [[LucasDrone]] — low-cost drone extension added by Marketplace Tech.

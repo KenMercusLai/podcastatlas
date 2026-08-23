@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Cyberattacks on U.S. water systems raise concerns about security](sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128.md) — Marketplace Tech episode with Nikita Shah on multi-state water-system cyberattacks, basic cyber hygiene failures, manual recovery, AI vulnerability discovery, election information operations, and private-sector offensive cyber authority.
 - [蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿](sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506.md) — 声动早咖啡 roundup on Unitree's listing, LandSpace/Zhuque-3 land recovery, Baidu and iQIYI AI/media pressure, Xiaomi EV export plans, Arc'teryx China growth, Lucky Coffee, GLP-1 nutrition, airline meals, and Sydney drone lifeguards.
 - [Vol.271 阿迪达斯如何触底反弹？](sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155.md) — 商业就是这样 episode on Adidas' post-2021 operating repair through supply-chain shocks, China recovery, Yeezy inventory handling, dealer relationship repair, Samba-led retro revival, running-shoe R&D, and market-expectation timing.
 - [698. The Troubles: The Brink of Civil War (Part 2)](sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988.md) — The Rest Is History episode on Northern Ireland's 1968-1969 escalation from civil rights protest through Burntollet, the Bogside, Belfast violence, British Army deployment, and the Hunt Report.
@@ -1359,6 +1360,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nikita Shah](entities/NikitaShah.md) — CSIS cybersecurity analyst explaining U.S. water-system attacks, resilience, AI cyber risk, election information operations, and offensive-cyber guardrails.
+- [Cyber Avengers](entities/CyberAvengers.md) — Cyber actor whose water-system responsibility claim is treated cautiously pending official attribution.
+- [Minnesota](entities/Minnesota.md) — State used as the episode's water-system incident origin and manual-recovery resilience example.
 - [Amer Sports / 亚玛芬体育](entities/AmerSports.md) — Outdoor-sports group behind Arc'teryx, added through the source's China premium-outdoor expansion branch.
 - [Arc'teryx / 始祖鸟](entities/Arcteryx.md) — Premium outdoor brand expanding in Greater China through flagship and store rollout.
 - [Lucky Coffee / 幸运咖](entities/LuckyCoffee.md) — Mixue coffee brand moving from low-tier scale toward higher-tier office and industrial-park locations.
@@ -8331,6 +8335,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Water System Cyber Resilience](concepts/WaterSystemCyberResilience.md) — Ability of water utilities to keep services safe and running after cyber incidents through planning, manual recovery, staffing, and basic controls.
+- [Cyber Hygiene Baseline](concepts/CyberHygieneBaseline.md) — Minimum controls such as non-default credentials, multi-factor authentication, and reduced operational-technology exposure.
+- [State Cyber Actor Threat Model](concepts/StateCyberActorThreatModel.md) — Threat-modeling frame separating state actors, criminals, and hacktivists by motive, capability, and attribution confidence.
+- [Election Information Operations](concepts/ElectionInformationOperations.md) — Cyber-enabled efforts to shape election trust, division, and public attention through information-space tactics.
+- [Private-Sector Offensive Cyber Authority](concepts/PrivateSectorOffensiveCyberAuthority.md) — Policy question of allowing selected companies to conduct offensive cyber operations against criminal hackers under guardrails.
 - [Northern Ireland Civil Rights Movement](concepts/NorthernIrelandCivilRightsMovement.md) — Movement frame for Catholic and civil-liberties demands over housing, votes, boundaries, and policing.
 - [Reform Timing Trap](concepts/ReformTimingTrap.md) — Pattern where late concessions satisfy neither reformers nor hardliners after trust has collapsed.
 - [State Policing Legitimacy Crisis](concepts/StatePolicingLegitimacyCrisis.md) — Pattern where police conduct becomes evidence that the state itself is partisan.

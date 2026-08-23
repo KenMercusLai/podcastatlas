@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6968
+wiki_total_pages: 6971
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "MinistryOfRailwaysChina"
     title: "Ministry of Railways (China) / 中国铁道部"
     url: "/wiki/entities/ministryofrailwayschina/"
+  - key: "Minnesota"
+    title: "Minnesota"
+    url: "/wiki/entities/minnesota/"
   - key: "MinoanCivilization"
     title: "Minoan Civilization"
     url: "/wiki/entities/minoancivilization/"

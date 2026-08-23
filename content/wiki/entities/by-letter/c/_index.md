@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6968
+wiki_total_pages: 6971
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "CVCCapitalPartners"
     title: "CVC Capital Partners"
     url: "/wiki/entities/cvccapitalpartners/"
+  - key: "CyberAvengers"
+    title: "Cyber Avengers"
+    url: "/wiki/entities/cyberavengers/"
   - key: "CyberCab"
     title: "CyberCab"
     url: "/wiki/entities/cybercab/"
