@@ -2,8 +2,8 @@
 title: "Russia"
 type: entity
 tags: [country, geopolitics, security, space, crypto]
-sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
-last_updated: 2026-08-07
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-24
 ---
 
 # Russia
@@ -34,6 +34,8 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 
 [[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] adds Russia as the external pressure behind Ukraine's internal command debate. The episode says Russia and [[Ukraine]] had recently intensified attacks, including a ballistic attack on [[Kyiv]], while Russian missile and drone pressure, Black Sea export vulnerability, and scarce [[PatriotMissileSystem|Patriot]] interceptors limit what [[UkraineMilitaryCommandReform]] can achieve alone.
 
+[[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] extends that pressure into a more explicit economic-targeting frame. [[OliverCarroll]] says Russia's attacks have moved beyond port infrastructure toward ships, warehouses, and civilian businesses, making [[UkraineExportChokepoint]] and [[AirDefenseSaturation]] linked constraints rather than separate military and trade problems.
+
 ## Connections
 - [[EuropeanIntegrationWarPrevention]], [[Ukraine]], and [[MacroNarrativeMicroLifeGap]] - energy, war, and lived-relationship qualifications added by episode 139.
 - [[RussianEmpire]], [[PeterTheGreat]], [[VitusBering]], [[FirstKamchatkaExpedition]], [[GreatNorthernExpedition]], [[Kamchatka]], [[Okhotsk]], [[Alaska]], [[RussianNorthPacificExpansion]], and [[ExplorationToExtractionPipeline]] - eighteenth-century imperial exploration and North Pacific expansion branch added by 蜜獾吃书.
@@ -51,3 +53,4 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 - [[Greenland]], [[UnitedStates]], [[China]], and [[GreenlandStrategicAccess]] - Arctic missile-warning and location branch added by Planet Money.
 - [[OlegGordievsky]], [[OperationPimlico]], [[KGB]], and [[UnitedKingdom]] - post-defection threat branch added by 蜜獾吃书 episode 81.
 - [[Kyiv]], [[AirDefenseSaturation]], [[PatriotMissileSystem]], and [[UkraineMilitaryCommandReform]] - external war pressure around the Kyiv brawl source.
+- [[UkraineExportChokepoint]], [[WartimeElectionConstraint]], and [[WartimeLeadershipAccountability]] - export disruption and political-pressure branch added by the Bombs and bombshells source.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5229
+wiki_total_pages: 5235
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "ChildBedroomDataPrivacy"
     title: "Child Bedroom Data Privacy"
     url: "/wiki/concepts/childbedroomdataprivacy/"
+  - key: "ChildCompetenceWishFulfillment"
+    title: "Child Competence Wish Fulfillment"
+    url: "/wiki/concepts/childcompetencewishfulfillment/"
   - key: "ChildDeathEducation"
     title: "Child Death Education / 儿童死亡教育"
     url: "/wiki/concepts/childdeatheducation/"
@@ -365,6 +368,9 @@ wiki_pages:
   - key: "ChildrensLiteratureComplexity"
     title: "Children's Literature Complexity"
     url: "/wiki/concepts/childrensliteraturecomplexity/"
+  - key: "ChildrensMediaValuesDebate"
+    title: "Children's Media Values Debate"
+    url: "/wiki/concepts/childrensmediavaluesdebate/"
   - key: "ChinaAgentMarketFriction"
     title: "China Agent Market Friction"
     url: "/wiki/concepts/chinaagentmarketfriction/"
@@ -437,6 +443,9 @@ wiki_pages:
   - key: "ChinaMacroTemperatureGaps"
     title: "China Macro Temperature Gaps / 中国宏观温差"
     url: "/wiki/concepts/chinamacrotemperaturegaps/"
+  - key: "ChinaMentalHealthAccessGap"
+    title: "China Mental Health Access Gap"
+    url: "/wiki/concepts/chinamentalhealthaccessgap/"
   - key: "ChinaModelAccessRestrictionRisk"
     title: "China Model Access Restriction Risk"
     url: "/wiki/concepts/chinamodelaccessrestrictionrisk/"

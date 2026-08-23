@@ -2,8 +2,8 @@
 title: "Kyiv"
 type: entity
 tags: [city, ukraine, war, geopolitics]
-sources: [putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
-last_updated: 2026-08-07
+sources: [putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-24
 ---
 
 # Kyiv
@@ -14,6 +14,8 @@ The episode says Russian strikes on the capital are now less frequent but more i
 
 [[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] keeps Kyiv in that air-war frame while adding a political one. The episode mentions a major ballistic attack on the capital, then uses [[VolodymyrZelensky]]'s handling of [[MykhailoFedorov]], [[OleksandrSyrskyi]], and [[MykhailoDrapatyi|Mykhailo Drapati]] to show how wartime command decisions become visible to the public as [[WartimeLeadershipAccountability]].
 
+[[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] adds another Kyiv attack reference, saying recent Russian strikes killed more than a dozen people and intensified fears about interceptor scarcity. The source uses the city as the immediate human setting for [[AirDefenseSaturation]] before widening to [[WartimeElectionConstraint]] and [[UkraineExportChokepoint]].
+
 ## Connections
 - [[Ukraine]] - national context.
 - [[OliverCarroll]] - reporter whose segment centers on Kyiv.
@@ -21,3 +23,4 @@ The episode says Russian strikes on the capital are now less frequent but more i
 - [[AirDefenseSaturation]], [[DroneDefenseEconomics]], and [[PatriotMissileSystem]] - air-war pressure and defense scarcity branch.
 - [[WarVisibilityStrategy]] - counterpart strategy where Ukraine tries to make war costs visible inside Russia.
 - [[MykhailoFedorov]], [[OleksandrSyrskyi]], [[MykhailoDrapatyi]], and [[UkraineMilitaryCommandReform]] - internal command-reform branch added by the Kyiv brawl source.
+- [[WartimeElectionConstraint]] and [[UkraineExportChokepoint]] - later political and export-risk extension.

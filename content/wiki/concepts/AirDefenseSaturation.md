@@ -2,8 +2,8 @@
 title: "Air Defense Saturation"
 type: concept
 tags: [warfare, drones, missiles, air-defense]
-sources: [putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
-last_updated: 2026-08-07
+sources: [putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-24
 ---
 
 # Air Defense Saturation
@@ -14,6 +14,8 @@ The source's main distinction is between drone interception success and ballisti
 
 [[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] adds a leadership-reform boundary to the same concept. [[ShashankJoshi]] says [[UkraineMilitaryCommandReform]] may improve how the army is run, but Russian missile and drone attacks, scarce [[PatriotMissileSystem|Patriot]] interceptors, and pressure on Black Sea exports remain constraints that command reshuffles cannot remove by themselves.
 
+[[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] makes that export boundary more explicit. [[OliverCarroll]] says the war's center of gravity has moved to the air, and the source links interceptor scarcity to attacks on civilian business, ports, and ships through [[UkraineExportChokepoint]].
+
 ## Key Claims
 - A high interception rate against drones does not solve the attack if ballistic missiles and cruise missiles arrive in the same wave.
 - Concentrated salvos can force defenders to triage scarce interceptors, sensors, and decision time.
@@ -21,6 +23,7 @@ The source's main distinction is between drone interception success and ballisti
 - [[LowCostDroneWarfare]] and missile attacks interact: drones can consume attention and magazines while more dangerous missiles exploit the gaps.
 - Domestic production promises do not solve urgent air-defense scarcity if factories and supply chains cannot come online quickly.
 - Internal command reform can improve adaptation while still leaving air-defense saturation as a separate material bottleneck.
+- Air-defense scarcity can become an economic chokepoint when ports, ships, warehouses, and harvest logistics cannot be reliably protected.
 
 ## Connections
 - [[Ukraine]], [[Kyiv]], [[OliverCarroll]], and [[Russia]] - source actors and geography.
@@ -29,3 +32,4 @@ The source's main distinction is between drone interception success and ballisti
 - [[Starlink]] - precision-support context for Ukraine's own drone campaign.
 - [[WarVisibilityStrategy]] - contrast with Ukraine's effort to bring war costs back inside Russia.
 - [[UkraineMilitaryCommandReform]], [[MykhailoFedorov]], [[OleksandrSyrskyi]], and [[MykhailoDrapatyi]] - command-reform boundary added by the Kyiv brawl source.
+- [[UkraineExportChokepoint]] and [[WartimeElectionConstraint]] - export and political-pressure extension added by the later source.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5229
+wiki_total_pages: 5235
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "MentalHealthCrisisPoliceResponse"
     title: "Mental Health Crisis Police Response"
     url: "/wiki/concepts/mentalhealthcrisispoliceresponse/"
+  - key: "MentalHealthServiceRegulationGap"
+    title: "Mental Health Service Regulation Gap"
+    url: "/wiki/concepts/mentalhealthserviceregulationgap/"
   - key: "MenuCosts"
     title: "Menu Costs"
     url: "/wiki/concepts/menucosts/"

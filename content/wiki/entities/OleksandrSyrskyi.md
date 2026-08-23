@@ -2,8 +2,8 @@
 title: "Oleksandr Syrskyi / Sersky"
 type: entity
 tags: [person, ukraine, military]
-sources: [kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
-last_updated: 2026-08-07
+sources: [kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-24
 ---
 
 # Oleksandr Syrskyi / Sersky
@@ -14,6 +14,8 @@ In the episode's account, Syrskyi represents the older command-culture side of [
 
 Syrskyi's removal does not resolve the source's whole Ukraine problem. Fedorov remains dismissed, air-defense shortages continue, and [[MykhailoDrapatyi]] inherits a battlefield system where command responsibility, technology adoption, and casualty sensitivity all matter.
 
+[[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] returns to the earlier dispute as background for [[MykhailoFedorov]]'s later election call. The source uses the spelling "Alexander Sirsky" and frames the dismissal dispute as one part of the chaos and shrinking circle around [[VolodymyrZelensky]].
+
 ## Connections
 - [[Ukraine]], [[VolodymyrZelensky]], and [[Kyiv]] - national and political setting.
 - [[MykhailoFedorov]] - reformist rival in the episode.
@@ -21,3 +23,4 @@ Syrskyi's removal does not resolve the source's whole Ukraine problem. Fedorov r
 - [[UkraineMilitaryCommandReform]] - concept built around the command-culture clash.
 - [[WartimeLeadershipAccountability]] - public protest and presidential judgment frame.
 - [[ShashankJoshi]] - analyst describing the conflict.
+- [[WartimeElectionConstraint]] - later election-pressure extension that uses the Fedorov-Syrskyi dispute as background.

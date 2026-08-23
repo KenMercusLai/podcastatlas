@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 6906
+wiki_total_pages: 6908
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "OpenTelemetry"
     title: "OpenTelemetry"
     url: "/wiki/entities/opentelemetry/"
+  - key: "OperationForrestGump"
+    title: "Operation Forrest Gump"
+    url: "/wiki/entities/operationforrestgump/"
   - key: "OperationPimlico"
     title: "Operation Pimlico / 皮姆利科行动"
     url: "/wiki/entities/operationpimlico/"

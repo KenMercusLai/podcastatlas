@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bombs and bombshells: Zelensky under pressure](sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0.md) — The Intelligence episode on Zelensky under Russian, election, corruption, and export pressure; China's mental-health access gap; and PAW Patrol as children's media values debate and competence fantasy.
 - [EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01](sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr.md) — Talk三联 episode on AI workplace anxiety, token spending, editorial AI translation, commercialization pressure, AI productivity ratchets, human-scale AI use, and non-algorithmic capabilities.
 - [Enterprise Sales With No Product: Landing a Big Four Customer](sources/enterprise-sales-with-no-product-landing-a-big-four-customer.md) — The SaaS Podcast episode with Christian Lund on Templafy's pre-product enterprise sales, Big Four customer, POC qualification, cloud-to-AI technology resets, and buyer-ready AI messaging.
 - [咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？](sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222.md) — 声动早咖啡 episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland/City Mart successor formats, and short updates on mRNA cancer vaccines, Kling AI, Doubao in Tesla China, and Carlsberg's alcohol-free growth.
@@ -1352,6 +1353,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sarah Wu](entities/SarahWu.md) — The Intelligence contributor explaining China's mental-health access, regulation, and social-stability tensions.
+- [Operation Forrest Gump](entities/OperationForrestGump.md) — Anti-corruption operation in the source alleging money laundering linked to bail for officials charged in earlier investigations.
 - [李维 / Li Wei (Sanlian)](entities/LiWeiSanlian.md) — Talk三联 EP275 speaker framing AI tool use through token spend, team adoption, productivity, sales, and human judgment.
 - [陈明霞 / Chen Mingxia](entities/ChenMingxia.md) — Talk三联 EP275 guest arguing for human-scale AI use, non-algorithmic capabilities, and skepticism toward token-KPI anxiety.
 - [Templafy](entities/Templafy.md) — Enterprise document automation SaaS company used as a case for pre-product selling, POC discipline, cloud rebuilding, and AI-era positioning.
@@ -8262,6 +8265,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wartime Election Constraint](concepts/WartimeElectionConstraint.md) — Barriers to elections under martial law when wartime legitimacy collides with legal, logistical, and public-support limits.
+- [Ukraine Export Chokepoint](concepts/UkraineExportChokepoint.md) — War-economic pressure where attacks on ports, ships, and harvest logistics threaten GDP and state capacity.
+- [China Mental Health Access Gap](concepts/ChinaMentalHealthAccessGap.md) — Gap between rising need and shortages, high costs, uneven public understanding, and limited service capacity in China.
+- [Mental Health Service Regulation Gap](concepts/MentalHealthServiceRegulationGap.md) — Lack of licensing, supervision, and quality controls in counseling and mental-health support markets.
+- [Children's Media Values Debate](concepts/ChildrensMediaValuesDebate.md) — Debate over whether children's entertainment transmits politics, institutional lessons, values, or psychological reassurance.
+- [Child Competence Wish Fulfillment](concepts/ChildCompetenceWishFulfillment.md) — Appeal of stories where child-aligned characters solve adult problems and turn anxiety into competence.
 - [Non-Algorithmic Capabilities / 非算法能力](concepts/NonAlgorithmicCapabilities.md) — EP275 frame for the judgment, connection, self-definition, decision, and aesthetic abilities that become more important as AI handles standard tasks.
 - [Human-Scale AI Use / 人作为 AI 的尺度](concepts/HumanScaleAIUse.md) — Standard for judging AI by whether it improves human work quality, life quality, value creation, and agency rather than token consumption or adoption pressure.
 - [AI Productivity Ratchet / AI 生产率棘轮](concepts/AIProductivityRatchet.md) — Workplace pattern where AI-fluent workers receive more tasks, review burden, and responsibility when productivity gains become a new baseline.

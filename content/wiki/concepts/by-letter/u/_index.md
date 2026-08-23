@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5229
+wiki_total_pages: 5235
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "UGCToProfessionalCreatorPipeline"
     title: "UGC To Professional Creator Pipeline"
     url: "/wiki/concepts/ugctoprofessionalcreatorpipeline/"
+  - key: "UkraineExportChokepoint"
+    title: "Ukraine Export Chokepoint"
+    url: "/wiki/concepts/ukraineexportchokepoint/"
   - key: "UkraineMilitaryCommandReform"
     title: "Ukraine Military Command Reform"
     url: "/wiki/concepts/ukrainemilitarycommandreform/"

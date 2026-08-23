@@ -8627,6 +8627,10 @@
     "title": "Child Bedroom Data Privacy",
     "url": "/wiki/concepts/childbedroomdataprivacy/"
   },
+  "ChildCompetenceWishFulfillment": {
+    "title": "Child Competence Wish Fulfillment",
+    "url": "/wiki/concepts/childcompetencewishfulfillment/"
+  },
   "ChildDeathEducation": {
     "title": "Child Death Education / 儿童死亡教育",
     "url": "/wiki/concepts/childdeatheducation/"
@@ -8670,6 +8674,10 @@
   "ChildrensLiteratureComplexity": {
     "title": "Children's Literature Complexity",
     "url": "/wiki/concepts/childrensliteraturecomplexity/"
+  },
+  "ChildrensMediaValuesDebate": {
+    "title": "Children's Media Values Debate",
+    "url": "/wiki/concepts/childrensmediavaluesdebate/"
   },
   "Chile": {
     "title": "Chile",
@@ -8826,6 +8834,10 @@
   "ChinaMacroTemperatureGaps": {
     "title": "China Macro Temperature Gaps / 中国宏观温差",
     "url": "/wiki/concepts/chinamacrotemperaturegaps/"
+  },
+  "ChinaMentalHealthAccessGap": {
+    "title": "China Mental Health Access Gap",
+    "url": "/wiki/concepts/chinamentalhealthaccessgap/"
   },
   "ChinaMerchantsBank": {
     "title": "China Merchants Bank / 招商银行",
@@ -28595,6 +28607,10 @@
     "title": "Mental Health Crisis Police Response",
     "url": "/wiki/concepts/mentalhealthcrisispoliceresponse/"
   },
+  "MentalHealthServiceRegulationGap": {
+    "title": "Mental Health Service Regulation Gap",
+    "url": "/wiki/concepts/mentalhealthserviceregulationgap/"
+  },
   "MenuCosts": {
     "title": "Menu Costs",
     "url": "/wiki/concepts/menucosts/"
@@ -31770,6 +31786,10 @@
   "OpenWorldRobotManipulation": {
     "title": "Open-World Robot Manipulation",
     "url": "/wiki/concepts/openworldrobotmanipulation/"
+  },
+  "OperationForrestGump": {
+    "title": "Operation Forrest Gump",
+    "url": "/wiki/entities/operationforrestgump/"
   },
   "OperationPimlico": {
     "title": "Operation Pimlico / 皮姆利科行动",
@@ -37810,6 +37830,10 @@
   "SarahPinsker": {
     "title": "Sarah Pinsker / 莎拉·平斯克",
     "url": "/wiki/entities/sarahpinsker/"
+  },
+  "SarahWu": {
+    "title": "Sarah Wu",
+    "url": "/wiki/entities/sarahwu/"
   },
   "SaruKaniGassen": {
     "title": "猿蟹合战 / Saru Kani Gassen",
@@ -44171,6 +44195,10 @@
     "title": "Ukraine",
     "url": "/wiki/entities/ukraine/"
   },
+  "UkraineExportChokepoint": {
+    "title": "Ukraine Export Chokepoint",
+    "url": "/wiki/concepts/ukraineexportchokepoint/"
+  },
   "UkraineMilitaryCommandReform": {
     "title": "Ukraine Military Command Reform",
     "url": "/wiki/concepts/ukrainemilitarycommandreform/"
@@ -45570,6 +45598,10 @@
   "WartimeCommandDecapitation": {
     "title": "Wartime Command Decapitation / 战时统帅斩首",
     "url": "/wiki/concepts/wartimecommanddecapitation/"
+  },
+  "WartimeElectionConstraint": {
+    "title": "Wartime Election Constraint",
+    "url": "/wiki/concepts/wartimeelectionconstraint/"
   },
   "WartimeLeadershipAccountability": {
     "title": "Wartime Leadership Accountability",
@@ -49966,6 +49998,10 @@
   "bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69": {
     "title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
     "url": "/wiki/sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69/"
+  },
+  "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0": {
+    "title": "Bombs and bombshells: Zelensky under pressure",
+    "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
   },
   "bookstore-economics": {
     "title": "BOOKstore Economics",

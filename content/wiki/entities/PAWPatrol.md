@@ -2,8 +2,8 @@
 title: "PAW Patrol"
 type: entity
 tags: [franchise, toys, children, entertainment-ip]
-sources: [advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5]
-last_updated: 2026-07-08
+sources: [advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-24
 ---
 
 # PAW Patrol
@@ -12,7 +12,10 @@ PAW Patrol is the children's franchise associated with [[SpinMaster]] in [[advic
 
 For the wiki, PAW Patrol is a children's entertainment version of the broader [[ConsumerBrandMoat]] problem. A franchise can become a durable business only if new product forms and story updates continue to give children, parents, and retailers reasons to care after the initial launch.
 
+[[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] adds a cultural interpretation through [[AndrewMiller]]. The source records political readings of PAW Patrol as pro-police, pro-privatization, teamwork-oriented, environmental, or anti-authoritarian, but Miller suggests [[ChildCompetenceWishFulfillment]] may better explain why small children return to it: the show lets child-aligned characters solve manageable adult problems.
+
 ## Connections
 - [[SpinMaster]] and [[RonnenHarary]] - company and co-founder context.
 - [[HowIBuiltThis]] and [[GuyRaz]] - show and host context.
 - [[ConsumerBrandMoat]], [[StoryLedConsumerBranding]], and [[ProductLedWillingnessToPay]] - concepts reinforced by the franchise example.
+- [[AndrewMiller]], [[ChildrensMediaValuesDebate]], and [[ChildCompetenceWishFulfillment]] - cultural-reading branch added by The Intelligence.

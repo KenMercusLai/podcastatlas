@@ -2,8 +2,8 @@
 title: "Mental Health Crisis Intervention Boundary / 心理危机干预边界"
 type: concept
 tags: [mental-health, crisis, therapy, safety]
-sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
-last_updated: 2026-08-07
+sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-24
 ---
 
 # Mental Health Crisis Intervention Boundary / 心理危机干预边界
@@ -14,6 +14,8 @@ The concept extends [[TherapyRelationshipAndBoundaries]] by making the risk oper
 
 [[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] adds the emergency-services version through [[MentalHealthCrisisPoliceResponse]]. In [[Albuquerque]], [[JoseArmas]]'s family called for help during a suicide threat and expected social workers, but police arrived; the source uses that mismatch to show that escalation can fail if the only available responder is armed enforcement.
 
+[[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] adds the hotline-and-public-system version through [[China]]. [[SarahWu]] says free hotlines have been set up nationwide and that the government wants a nationwide psychological-support and crisis-intervention system by 2030, while the same segment leaves capacity, regulation, and funding questions open.
+
 ## Key Claims
 - Self-harm, suicide threats, severe functional collapse, and life-threatening behavior exceed ordinary paid-listening capacity.
 - Crisis boundaries should be decided before the incident, not improvised after a listener is emotionally overwhelmed.
@@ -22,6 +24,7 @@ The concept extends [[TherapyRelationshipAndBoundaries]] by making the risk oper
 - AI companions face a parallel version of the same boundary when long sessions validate crisis framing without escalation.
 - Friends and family also need boundaries: witnessing matters, but severe danger should lead toward emergency or professional support.
 - Emergency escalation can still fail if dispatch, health services, and police response do not match the type of crisis.
+- Hotlines can widen the first point of contact, but crisis intervention still depends on trained escalation, local services, and public trust.
 
 ## Connections
 - [[ListeningTherapyBoundary]], [[PaidListeningServices]], and [[EmotionalServicePlatformIncentives]] - service context where the boundary appears.
@@ -29,3 +32,4 @@ The concept extends [[TherapyRelationshipAndBoundaries]] by making the risk oper
 - [[TeenChatbotMentalHealthRisk]], [[AIPsychosis]], [[SycophanticAICompanionRisk]], and [[ChatbotSafetyGuardrailDecay]] - AI mental-health safety parallels.
 - [[EmpathyBoundaries]] and [[CommunicationBoundarySetting]] - relationship practices that keep care from becoming dangerous over-identification.
 - [[MentalHealthCrisisPoliceResponse]], [[JoseArmas]], [[Albuquerque]], and [[AlbuquerquePoliceDepartment]] - emergency-response extension added by the Kyiv brawl source.
+- [[ChinaMentalHealthAccessGap]], [[MentalHealthServiceRegulationGap]], and [[SarahWu]] - hotline and public-system extension added by the later source.

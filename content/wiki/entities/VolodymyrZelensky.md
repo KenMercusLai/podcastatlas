@@ -2,8 +2,8 @@
 title: "Volodymyr Zelensky"
 type: entity
 tags: [person, ukraine, politics, geopolitics]
-sources: [far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
-last_updated: 2026-08-07
+sources: [far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-24
 ---
 
 # Volodymyr Zelensky
@@ -16,6 +16,8 @@ In the wiki, Zelensky's main contribution from this source is to make [[WarVisib
 
 [[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] adds Zelensky as a wartime leadership-accountability case. The episode says his dismissal of [[MykhailoFedorov]] triggered protests and that he later removed [[OleksandrSyrskyi|Oleksandr Sersky]], leaving him politically bruised even as [[MykhailoDrapatyi|Mykhailo Drapati]]'s appointment may signal [[UkraineMilitaryCommandReform]].
 
+[[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] adds a second accountability layer. Zelensky is shown facing heavier Russian strikes, [[UkraineExportChokepoint|export disruption]], [[MykhailoFedorov]]'s call for elections, and [[OperationForrestGump]] corruption allegations near his circle. The source frames his room for maneuver as shrinking, while [[WartimeElectionConstraint]] still makes an immediate presidential vote legally and politically hard.
+
 ## Connections
 - [[Ukraine]] - state context for Zelensky's role.
 - [[Russia]], [[Crimea]], and [[VladimirPutin]] - adversary, target geography, and opposing leader.
@@ -23,3 +25,4 @@ In the wiki, Zelensky's main contribution from this source is to make [[WarVisib
 - [[AsymmetricInfrastructureAttack]] - strike economics against energy and logistics infrastructure.
 - [[LowCostDroneWarfare]], [[Starlink]], and [[AirDefenseSaturation]] - drone-campaign and air-war context added by the later Economist source.
 - [[MykhailoFedorov]], [[OleksandrSyrskyi]], [[MykhailoDrapatyi]], [[UkraineMilitaryCommandReform]], and [[WartimeLeadershipAccountability]] - internal reshuffle and protest branch added by the Kyiv brawl source.
+- [[WartimeElectionConstraint]], [[UkraineExportChokepoint]], and [[OperationForrestGump]] - later pressure branch added by the Bombs and bombshells source.
