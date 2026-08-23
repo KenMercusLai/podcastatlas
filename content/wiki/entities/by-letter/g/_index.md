@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6971
+wiki_total_pages: 6983
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "GLM5"
     title: "GLM5"
     url: "/wiki/entities/glm5/"
+  - key: "GlobalEntrepreneurshipMonitor"
+    title: "Global Entrepreneurship Monitor"
+    url: "/wiki/entities/globalentrepreneurshipmonitor/"
   - key: "Globalstar"
     title: "Globalstar"
     url: "/wiki/entities/globalstar/"

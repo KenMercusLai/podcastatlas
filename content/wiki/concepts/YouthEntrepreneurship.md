@@ -2,11 +2,13 @@
 title: "Youth Entrepreneurship"
 type: concept
 tags: [education, entrepreneurship, youth, sales]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources: [wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Youth Entrepreneurship
+
+[[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] adds an adult-career-status contrast through [[Japan]]. [[GlobalEntrepreneurshipMonitor]] survey data in the source says entrepreneurship is far less often viewed as a desirable occupation in Japan than globally, making youth and early-career entrepreneurship a social-legitimacy problem as well as a skills problem.
 
 Youth entrepreneurship is the use of small, supervised commercial activity to teach children goal setting, customer communication, money purpose, persistence, and responsibility. In [[tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128]], [[GirlScoutsOfTheUSA|Girl Scouts of the USA]] uses cookie selling as the source case: girls create sales goals, explain why customers should buy from them, choose outreach channels, and learn from follow-up.
 

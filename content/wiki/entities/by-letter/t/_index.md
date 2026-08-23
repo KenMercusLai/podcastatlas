@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6971
+wiki_total_pages: 6983
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "TokyoDisneyResort"
     title: "Tokyo Disney Resort / 东京迪士尼"
     url: "/wiki/entities/tokyodisneyresort/"
+  - key: "TokyoStockExchange"
+    title: "Tokyo Stock Exchange"
+    url: "/wiki/entities/tokyostockexchange/"
   - key: "TomBlomfield"
     title: "Tom Blomfield"
     url: "/wiki/entities/tomblomfield/"

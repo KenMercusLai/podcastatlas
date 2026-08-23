@@ -2,11 +2,13 @@
 title: "Takeda Pharmaceutical / 武田制药"
 type: entity
 tags: [company, pharma, japan, healthcare]
-sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]
-last_updated: 2026-08-06
+sources: [wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]
+last_updated: 2026-08-24
 ---
 
 # Takeda Pharmaceutical / 武田制药
+
+[[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] adds Takeda through [[Ovoperextone]], the source-described [[FoodAndDrugAdministration|FDA]]-approved [[OrexinAgonists|orexin agonist]] for [[NarcolepsyWakeSleepBoundary|narcolepsy]]. The episode uses Takeda as the first concrete company in a possible broader orexin category, while keeping wider uses beyond narcolepsy uncertain.
 
 Takeda Pharmaceutical appears in [[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]] as another Japanese pharma company cited when the episode argues that Japan's drug-policy reform did not simply destroy domestic pharmaceutical capability.
 

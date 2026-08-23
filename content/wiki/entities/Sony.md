@@ -2,11 +2,13 @@
 title: "Sony"
 type: entity
 tags: [company, games, consumer-electronics]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652]
-last_updated: 2026-08-16
+sources: [wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652]
+last_updated: 2026-08-24
 ---
 
 # Sony
+
+[[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] adds Sony as one of [[Japan]]'s postwar entrepreneurial-success examples. [[EthanWu]] uses Sony, [[Honda]], and [[SoftBank]] to argue that Japan's current startup weakness should not be explained as a timeless lack of company-building ability, but through newer constraints such as [[JapaneseStartupExitConstraint]] and [[JapaneseInnovationRetreat]].
 
 [[we-almost-had-a-smartphone-in-the-90s-why-did-it-fail]] adds Sony as the launch partner for the [[SonyMagicLink]], the [[GeneralMagic]]-powered device that the episode treats as a failed early smartphone-like product. The source also uses Sony as competitive pressure in the later [[IPod]] story: [[TonyFadell]] says an urgent deadline mattered because a rival Sony audio product could have weakened [[Apple]]'s commitment.
 

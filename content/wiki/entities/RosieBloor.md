@@ -2,11 +2,13 @@
 title: "Rosie Bloor"
 type: entity
 tags: [host, media]
-sources: [its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
-last_updated: 2026-08-17
+sources: [wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744, its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-24
 ---
 
 # Rosie Bloor
+
+[[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] adds another host context for Rosie Bloor. She introduces the episode's sequence on [[OrexinAgonists]], [[JapaneseStartupExitConstraint]], and [[ProcrastinationSelfRegulationFailure]].
 
 [[its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0]] adds another host context, with the source summary spelling her as Rosie Blore. She introduces the episode's sequence on [[ZackPolanski]] and the [[GreenPartyOfEnglandAndWales]], [[SyntheticSpudCells]] from [[KateAdamalla]]'s lab, and [[TravelAgentResilience]] amid [[AITravelPlanning]].
 

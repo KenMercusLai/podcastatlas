@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5258
+wiki_total_pages: 5264
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "ProcessKnowledge"
     title: "Process Knowledge / 过程知识"
     url: "/wiki/concepts/processknowledge/"
+  - key: "ProcrastinationSelfRegulationFailure"
+    title: "Procrastination Self-Regulation Failure"
+    url: "/wiki/concepts/procrastinationselfregulationfailure/"
   - key: "ProcurementRecordsJournalism"
     title: "Procurement Records Journalism"
     url: "/wiki/concepts/procurementrecordsjournalism/"

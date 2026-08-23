@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 6971
+wiki_total_pages: 6983
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "Ovid"
     title: "Ovid / 奥维德"
     url: "/wiki/entities/ovid/"
+  - key: "Ovoperextone"
+    title: "Ovoperextone"
+    url: "/wiki/entities/ovoperextone/"
   - key: "Ozempic"
     title: "Ozempic"
     url: "/wiki/entities/ozempic/"

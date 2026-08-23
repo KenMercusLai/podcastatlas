@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 5258
+wiki_total_pages: 5264
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "JapaneseSpecificHealthCheckups"
     title: "Japanese Specific Health Checkups / 日本特定健诊"
     url: "/wiki/concepts/japanesespecifichealthcheckups/"
+  - key: "JapaneseStartupExitConstraint"
+    title: "Japanese Startup Exit Constraint"
+    url: "/wiki/concepts/japanesestartupexitconstraint/"
   - key: "JapaneseUniversalHealthCoverage"
     title: "Japanese Universal Health Coverage / 日本全民医保"
     url: "/wiki/concepts/japaneseuniversalhealthcoverage/"

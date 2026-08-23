@@ -2,11 +2,13 @@
 title: "Startup Ecosystem Optimism"
 type: concept
 tags: [startups, culture, ecosystems, venture-capital]
-sources: [tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-14
+sources: [wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-08-24
 ---
 
 # Startup Ecosystem Optimism
+
+[[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] adds [[Japan]] as a low-status counterexample. [[EthanWu]] says [[GlobalEntrepreneurshipMonitor]] survey data shows entrepreneurship is much less likely to be considered a desirable occupation in Japan than globally, which helps explain why capital, employees, and founders may hesitate even when examples such as [[Sony]], [[Honda]], [[SoftBank]], and [[SakanaAI]] exist.
 
 Startup ecosystem optimism is the cultural belief that ambitious builders can create new value rather than only compete for fixed status. [[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds the concept through [[TomBlomfield]]'s comparison of London and Silicon Valley.
 

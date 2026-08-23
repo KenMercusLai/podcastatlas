@@ -3643,6 +3643,10 @@
     "title": "Aliyun Bailian",
     "url": "/wiki/entities/aliyunbailian/"
   },
+  "Alkermes": {
+    "title": "Alkermes",
+    "url": "/wiki/entities/alkermes/"
+  },
   "AllBusinessClassSupersonicModel": {
     "title": "All-Business-Class Supersonic Model",
     "url": "/wiki/concepts/allbusinessclasssupersonicmodel/"
@@ -5978,6 +5982,10 @@
   "BenjaminNetanyahu": {
     "title": "Benjamin Netanyahu",
     "url": "/wiki/entities/benjaminnetanyahu/"
+  },
+  "BenjaminSutherland": {
+    "title": "Benjamin Sutherland",
+    "url": "/wiki/entities/benjaminsutherland/"
   },
   "BenjaminTodd": {
     "title": "Benjamin Todd",
@@ -14187,6 +14195,10 @@
     "title": "Emmanuel Macron",
     "url": "/wiki/entities/emmanuelmacron/"
   },
+  "EmmanuelMignot": {
+    "title": "Emmanuel Mignot",
+    "url": "/wiki/entities/emmanuelmignot/"
+  },
   "EmmettShear": {
     "title": "Emmett Shear",
     "url": "/wiki/entities/emmettshear/"
@@ -14655,6 +14667,10 @@
     "title": "伊斯特拉凡 / Estraven",
     "url": "/wiki/entities/estraven/"
   },
+  "EthanWu": {
+    "title": "Ethan Wu",
+    "url": "/wiki/entities/ethanwu/"
+  },
   "EthnographicEverydayFriction": {
     "title": "Ethnographic Everyday Friction / 民族志日常摩擦",
     "url": "/wiki/concepts/ethnographiceverydayfriction/"
@@ -14894,6 +14910,10 @@
   "ExecutivePowerPrecedent": {
     "title": "Executive Power Precedent",
     "url": "/wiki/concepts/executivepowerprecedent/"
+  },
+  "ExerciseSelfMasteryForProcrastination": {
+    "title": "Exercise Self-Mastery For Procrastination",
+    "url": "/wiki/concepts/exerciseselfmasteryforprocrastination/"
   },
   "ExigentSolutions": {
     "title": "Exigent Solutions",
@@ -17970,6 +17990,10 @@
   "GlennHall": {
     "title": "Glenn Hall",
     "url": "/wiki/entities/glennhall/"
+  },
+  "GlobalEntrepreneurshipMonitor": {
+    "title": "Global Entrepreneurship Monitor",
+    "url": "/wiki/entities/globalentrepreneurshipmonitor/"
   },
   "GlobalFinancialNetwork": {
     "title": "Global Financial Network",
@@ -22614,6 +22638,10 @@
   "JapaneseSpecificHealthCheckups": {
     "title": "Japanese Specific Health Checkups / 日本特定健诊",
     "url": "/wiki/concepts/japanesespecifichealthcheckups/"
+  },
+  "JapaneseStartupExitConstraint": {
+    "title": "Japanese Startup Exit Constraint",
+    "url": "/wiki/concepts/japanesestartupexitconstraint/"
   },
   "JapaneseUniversalHealthCoverage": {
     "title": "Japanese Universal Health Coverage / 日本全民医保",
@@ -28791,6 +28819,10 @@
     "title": "Mental Accounting / 心理账户",
     "url": "/wiki/concepts/mentalaccounting/"
   },
+  "MentalContrastingImplementationIntentions": {
+    "title": "Mental Contrasting With Implementation Intentions",
+    "url": "/wiki/concepts/mentalcontrastingimplementationintentions/"
+  },
   "MentalHealthCrisisInterventionBoundary": {
     "title": "Mental Health Crisis Intervention Boundary / 心理危机干预边界",
     "url": "/wiki/concepts/mentalhealthcrisisinterventionboundary/"
@@ -29867,6 +29899,10 @@
     "title": "Moralized War Pretext / 道德化战争借口",
     "url": "/wiki/concepts/moralizedwarpretext/"
   },
+  "MorganStanley": {
+    "title": "Morgan Stanley",
+    "url": "/wiki/entities/morganstanley/"
+  },
   "MoriBuichi": {
     "title": "森布一",
     "url": "/wiki/entities/moribuichi/"
@@ -30402,6 +30438,10 @@
   "NarcoStateRisk": {
     "title": "Narco-State Risk",
     "url": "/wiki/concepts/narcostaterisk/"
+  },
+  "NarcolepsyWakeSleepBoundary": {
+    "title": "Narcolepsy Wake-Sleep Boundary",
+    "url": "/wiki/concepts/narcolepsywakesleepboundary/"
   },
   "NarendraModi": {
     "title": "Narendra Modi",
@@ -32159,6 +32199,10 @@
     "title": "Oren Cass",
     "url": "/wiki/entities/orencass/"
   },
+  "OrexinAgonists": {
+    "title": "Orexin Agonists",
+    "url": "/wiki/concepts/orexinagonists/"
+  },
   "OrganSpecificAgingClock": {
     "title": "Organ-Specific Aging Clock",
     "url": "/wiki/concepts/organspecificagingclock/"
@@ -32374,6 +32418,10 @@
   "Ovid": {
     "title": "Ovid / 奥维德",
     "url": "/wiki/entities/ovid/"
+  },
+  "Ovoperextone": {
+    "title": "Ovoperextone",
+    "url": "/wiki/entities/ovoperextone/"
   },
   "Ozempic": {
     "title": "Ozempic",
@@ -34670,6 +34718,10 @@
   "ProcessKnowledge": {
     "title": "Process Knowledge / 过程知识",
     "url": "/wiki/concepts/processknowledge/"
+  },
+  "ProcrastinationSelfRegulationFailure": {
+    "title": "Procrastination Self-Regulation Failure",
+    "url": "/wiki/concepts/procrastinationselfregulationfailure/"
   },
   "ProcterGamble": {
     "title": "Procter & Gamble",
@@ -37871,6 +37923,10 @@
     "title": "Sajith Wickramasekara",
     "url": "/wiki/entities/sajithwickramasekara/"
   },
+  "SakanaAI": {
+    "title": "Sakana AI",
+    "url": "/wiki/entities/sakanaai/"
+  },
   "SakokuDutchWindow": {
     "title": "Sakoku Dutch Window",
     "url": "/wiki/concepts/sakokudutchwindow/"
@@ -38651,6 +38707,10 @@
     "title": "Sensory Hypersensitivity Accommodation / 感官超敏适配",
     "url": "/wiki/concepts/sensoryhypersensitivityaccommodation/"
   },
+  "SentessaPharmaceuticals": {
+    "title": "Sentessa Pharmaceuticals",
+    "url": "/wiki/entities/sentessapharmaceuticals/"
+  },
   "SentinelOne": {
     "title": "SentinelOne",
     "url": "/wiki/entities/sentinelone/"
@@ -38806,6 +38866,10 @@
   "Shahed136": {
     "title": "Shahed 136",
     "url": "/wiki/entities/shahed136/"
+  },
+  "ShaileshChitnis": {
+    "title": "Shailesh Chitnis",
+    "url": "/wiki/entities/shaileshchitnis/"
   },
   "ShakyamuniBuddha": {
     "title": "释迦牟尼佛 / Shakyamuni Buddha",
@@ -43599,6 +43663,10 @@
     "title": "《东京梦华录》",
     "url": "/wiki/entities/tokyomenghualu/"
   },
+  "TokyoStockExchange": {
+    "title": "Tokyo Stock Exchange",
+    "url": "/wiki/entities/tokyostockexchange/"
+  },
   "TomBlomfield": {
     "title": "Tom Blomfield",
     "url": "/wiki/entities/tomblomfield/"
@@ -47878,6 +47946,10 @@
   "YalanLuanfanshu": {
     "title": "雅兰 / Yalan (Luanfanshu)",
     "url": "/wiki/entities/yalanluanfanshu/"
+  },
+  "YamajiHiromi": {
+    "title": "Yamaji Hiromi",
+    "url": "/wiki/entities/yamajihiromi/"
   },
   "YanFei": {
     "title": "严飞 / Yan Fei",
@@ -52858,6 +52930,10 @@
   "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155": {
     "title": "Vol.271 阿迪达斯如何触底反弹？",
     "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+  },
+  "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744": {
+    "title": "Wake-up haul: an Ozempic moment for the brain",
+    "url": "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
   },
   "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": {
     "title": "We almost had a smartphone in the 90s. Why did it fail?",

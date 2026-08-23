@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5258
+wiki_total_pages: 5264
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "MentalAccounting"
     title: "Mental Accounting / 心理账户"
     url: "/wiki/concepts/mentalaccounting/"
+  - key: "MentalContrastingImplementationIntentions"
+    title: "Mental Contrasting With Implementation Intentions"
+    url: "/wiki/concepts/mentalcontrastingimplementationintentions/"
   - key: "MentalHealthCrisisInterventionBoundary"
     title: "Mental Health Crisis Intervention Boundary / 心理危机干预边界"
     url: "/wiki/concepts/mentalhealthcrisisinterventionboundary/"

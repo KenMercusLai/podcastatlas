@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6971
+wiki_total_pages: 6983
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "SajithWickramasekara"
     title: "Sajith Wickramasekara"
     url: "/wiki/entities/sajithwickramasekara/"
+  - key: "SakanaAI"
+    title: "Sakana AI"
+    url: "/wiki/entities/sakanaai/"
   - key: "SalarKamangar"
     title: "Salar Kamangar"
     url: "/wiki/entities/salarkamangar/"
@@ -293,6 +296,9 @@ wiki_pages:
   - key: "SenseTime"
     title: "SenseTime"
     url: "/wiki/entities/sensetime/"
+  - key: "SentessaPharmaceuticals"
+    title: "Sentessa Pharmaceuticals"
+    url: "/wiki/entities/sentessapharmaceuticals/"
   - key: "SentinelOne"
     title: "SentinelOne"
     url: "/wiki/entities/sentinelone/"
@@ -380,6 +386,9 @@ wiki_pages:
   - key: "Shahed136"
     title: "Shahed 136"
     url: "/wiki/entities/shahed136/"
+  - key: "ShaileshChitnis"
+    title: "Shailesh Chitnis"
+    url: "/wiki/entities/shaileshchitnis/"
   - key: "ShamrockTexas"
     title: "Shamrock, Texas"
     url: "/wiki/entities/shamrocktexas/"

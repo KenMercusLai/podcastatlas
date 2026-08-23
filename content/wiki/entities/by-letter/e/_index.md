@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 6971
+wiki_total_pages: 6983
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "EmmanuelMacron"
     title: "Emmanuel Macron"
     url: "/wiki/entities/emmanuelmacron/"
+  - key: "EmmanuelMignot"
+    title: "Emmanuel Mignot"
+    url: "/wiki/entities/emmanuelmignot/"
   - key: "EmmettShear"
     title: "Emmett Shear"
     url: "/wiki/entities/emmettshear/"
@@ -323,6 +326,9 @@ wiki_pages:
   - key: "ETFZhengjiuShijie"
     title: "ETF拯救世界 / ETF Zhengjiu Shijie"
     url: "/wiki/entities/etfzhengjiushijie/"
+  - key: "EthanWu"
+    title: "Ethan Wu"
+    url: "/wiki/entities/ethanwu/"
   - key: "EuclidHall"
     title: "Euclid Hall"
     url: "/wiki/entities/euclidhall/"

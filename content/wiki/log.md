@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | Wake-up haul: an Ozempic moment for the brain
+
+Added source page for The Intelligence episode on orexin agonists as a possible post-GLP-1 drug category, Japan's startup-capital and IPO constraints, and procrastination as self-regulatory failure. Created pages for Shailesh Chitnis, Ovoperextone, Alkermes, Sentessa Pharmaceuticals, Emmanuel Mignot, Morgan Stanley, Ethan Wu, Global Entrepreneurship Monitor, Tokyo Stock Exchange, Yamaji Hiromi, Sakana AI, Benjamin Sutherland, Orexin Agonists, Narcolepsy Wake-Sleep Boundary, Japanese Startup Exit Constraint, Procrastination Self-Regulation Failure, Mental Contrasting With Implementation Intentions, and Exercise Self-Mastery For Procrastination; updated overview, index, The Intelligence, Economist Podcasts, GLP-1 Agonists, Ozempic, Takeda Pharmaceutical, Eli Lilly, Food and Drug Administration, Japan, Sony, Honda, SoftBank, Rosie Bloor, Japanese Innovation Retreat, Youth Entrepreneurship, and Startup Ecosystem Optimism. No direct contradiction found; the source keeps the orexin/GLP-1 comparison, broader psychiatric indications, diet links, and medication evidence source-scoped.
+
 ## [2026-08-24] ingest | Why the Trump administration plans to boost funding for subsea cables
 
 Added source page for Marketplace Tech episode on undersea data cables as strategic internet and financial infrastructure, Trump administration funding for Caribbean and Central American cable replacement, hyperscaler ownership, trusted networks, landing-point security, sabotage ambiguity, and redundancy. Created pages for Erin Murphy, SubCom, Central America, Baltic Sea, Taiwan Strait, Undersea Data Cables, Trusted Network Geopolitics, Cable Landing Point Security, and Cable Network Resilience; updated overview, index, Marketplace Tech, United States, Donald Trump, China, Russia, Caribbean, AWS, Microsoft, Google, Meta, Digital Infrastructure War Risk, Regional Network Topology Risk, and Asymmetric Infrastructure Attack. No direct contradiction found; the source keeps sabotage risk low while treating cable resilience as high-impact infrastructure planning.
@@ -10861,6 +10865,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | Cyberattacks on U.S. water systems raise concerns about security
 
 Added source page for a Marketplace Tech episode with Nikita Shah of the Center for Strategic and International Studies on cyberattacks against U.S. water systems. Created pages for Nikita Shah, Cyber Avengers, Minnesota, Water System Cyber Resilience, Cyber Hygiene Baseline, State Cyber Actor Threat Model, Election Information Operations, and Private-Sector Offensive Cyber Authority; updated overview, index, Marketplace Tech, CSIS, United States, Donald Trump, New York State, Industrial Control System Cyber Risk, Asymmetric Infrastructure Attack, Iran-Linked Cyber Operations, AI Cyber-Defense Utility, Frontier Model Cyber Misuse, AI-Enabled Vulnerability Discovery, and AI Election Misinformation Risk. No direct contradiction found; the source cautions that Cyber Avengers' responsibility claim should not be treated as official attribution, while extending the wiki's critical-infrastructure, AI-cyber, and election-information branches.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

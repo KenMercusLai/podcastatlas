@@ -2,11 +2,13 @@
 title: "Ozempic"
 type: entity
 tags: [drug, healthcare, weight-loss]
-sources: [tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-24
 ---
 
 # Ozempic
+
+[[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] uses Ozempic metaphorically in the title and segment framing. The source asks whether [[OrexinAgonists]] could eventually have an "Ozempic moment" by expanding from [[NarcolepsyWakeSleepBoundary|narcolepsy]] into broader uses, while keeping that comparison explicitly premature.
 
 [[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds Ozempic to [[MostFavoredNationDrugPricing]]. [[HowardLutnick|Howard Lutnick]] says Ozempic and [[Mounjaro]] would be available through [[Medicaid]] and [[Medicare]] at $149 under the administration's drug-pricing deals.
 

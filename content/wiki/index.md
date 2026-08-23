@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Wake-up haul: an Ozempic moment for the brain](sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744.md) — The Intelligence episode on orexin agonists and narcolepsy, Japan's startup-capital and IPO constraints, and procrastination as self-regulatory failure.
 - [Cyberattacks on U.S. water systems raise concerns about security](sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128.md) — Marketplace Tech episode with Nikita Shah on multi-state water-system cyberattacks, basic cyber hygiene failures, manual recovery, AI vulnerability discovery, election information operations, and private-sector offensive cyber authority.
 - [蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿](sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506.md) — 声动早咖啡 roundup on Unitree's listing, LandSpace/Zhuque-3 land recovery, Baidu and iQIYI AI/media pressure, Xiaomi EV export plans, Arc'teryx China growth, Lucky Coffee, GLP-1 nutrition, airline meals, and Sydney drone lifeguards.
 - [Vol.271 阿迪达斯如何触底反弹？](sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155.md) — 商业就是这样 episode on Adidas' post-2021 operating repair through supply-chain shocks, China recovery, Yeezy inventory handling, dealer relationship repair, Samba-led retro revival, running-shoe R&D, and market-expectation timing.
@@ -1360,6 +1361,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shailesh Chitnis](entities/ShaileshChitnis.md) — The Intelligence voice explaining orexin agonists, narcolepsy, and the source's cautious GLP-1 analogy.
+- [Ovoperextone](entities/Ovoperextone.md) — Takeda orexin agonist named as the source's concrete narcolepsy drug case.
+- [Alkermes](entities/Alkermes.md) — Pharmaceutical company named as working on orexin-agonist drugs.
+- [Sentessa Pharmaceuticals](entities/SentessaPharmaceuticals.md) — Company named through Eli Lilly's source-reported orexin-category acquisition.
+- [Emmanuel Mignot](entities/EmmanuelMignot.md) — Stanford researcher whose dog narcolepsy work anchors the source's orexin discovery story.
+- [Morgan Stanley](entities/MorganStanley.md) — Financial institution cited for an orexin-medicine market estimate through 2035.
+- [Ethan Wu](entities/EthanWu.md) — The Intelligence voice explaining Japan's weak unicorn record and startup exit constraints.
+- [Global Entrepreneurship Monitor](entities/GlobalEntrepreneurshipMonitor.md) — Survey source used for Japan's low entrepreneurship-status comparison.
+- [Tokyo Stock Exchange](entities/TokyoStockExchange.md) — Exchange whose growth-market delisting reform is tied to Japan's early-IPO problem.
+- [Yamaji Hiromi](entities/YamajiHiromi.md) — Tokyo Stock Exchange chief executive quoted on making IPOs a starting point.
+- [Sakana AI](entities/SakanaAI.md) — Japanese AI unicorn used as a positive but bounded startup-momentum signal.
+- [Benjamin Sutherland](entities/BenjaminSutherland.md) — The Intelligence voice explaining procrastination research and interventions.
 - [Nikita Shah](entities/NikitaShah.md) — CSIS cybersecurity analyst explaining U.S. water-system attacks, resilience, AI cyber risk, election information operations, and offensive-cyber guardrails.
 - [Cyber Avengers](entities/CyberAvengers.md) — Cyber actor whose water-system responsibility claim is treated cautiously pending official attribution.
 - [Minnesota](entities/Minnesota.md) — State used as the episode's water-system incident origin and manual-recovery resilience example.
@@ -8335,6 +8348,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Orexin Agonists](concepts/OrexinAgonists.md) — Drug-category frame for medicines mimicking orexin, with narcolepsy as the grounded first use case and broader uses still uncertain.
+- [Narcolepsy Wake-Sleep Boundary](concepts/NarcolepsyWakeSleepBoundary.md) — Source framing of narcolepsy as a blurred boundary between sleeping and waking linked to orexin biology.
+- [Japanese Startup Exit Constraint](concepts/JapaneseStartupExitConstraint.md) — Japan startup-system problem combining limited late-stage venture capital, low founder status, and premature IPO pressure.
+- [Procrastination Self-Regulation Failure](concepts/ProcrastinationSelfRegulationFailure.md) — Research framing of procrastination as a self-control and executive-function problem with income and health links.
+- [Mental Contrasting With Implementation Intentions](concepts/MentalContrastingImplementationIntentions.md) — Behavioral intervention that pairs a goal with its obstacle and a specific response tactic.
+- [Exercise Self-Mastery For Procrastination](concepts/ExerciseSelfMasteryForProcrastination.md) — Procrastination intervention frame where exercise may build mastery over discomfort and unpleasant tasks.
 - [Water System Cyber Resilience](concepts/WaterSystemCyberResilience.md) — Ability of water utilities to keep services safe and running after cyber incidents through planning, manual recovery, staffing, and basic controls.
 - [Cyber Hygiene Baseline](concepts/CyberHygieneBaseline.md) — Minimum controls such as non-default credentials, multi-factor authentication, and reduced operational-technology exposure.
 - [State Cyber Actor Threat Model](concepts/StateCyberActorThreatModel.md) — Threat-modeling frame separating state actors, criminals, and hacktivists by motive, capability, and attribution confidence.

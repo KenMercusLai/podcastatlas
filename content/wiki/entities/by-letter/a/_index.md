@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6971
+wiki_total_pages: 6983
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "AliyunBailian"
     title: "Aliyun Bailian"
     url: "/wiki/entities/aliyunbailian/"
+  - key: "Alkermes"
+    title: "Alkermes"
+    url: "/wiki/entities/alkermes/"
   - key: "AllNipponAirways"
     title: "All Nippon Airways / 全日空"
     url: "/wiki/entities/allnipponairways/"

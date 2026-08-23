@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6971
+wiki_total_pages: 6983
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "YairLapid"
     title: "Yair Lapid"
     url: "/wiki/entities/yairlapid/"
+  - key: "YamajiHiromi"
+    title: "Yamaji Hiromi"
+    url: "/wiki/entities/yamajihiromi/"
   - key: "YanJunjie"
     title: "Yan Junjie"
     url: "/wiki/entities/yanjunjie/"

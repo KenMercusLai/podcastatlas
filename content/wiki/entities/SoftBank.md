@@ -2,11 +2,13 @@
 title: "SoftBank"
 type: entity
 tags: [company, investing, technology, ai]
-sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
-last_updated: 2026-08-07
+sources: [wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
+last_updated: 2026-08-24
 ---
 
 # SoftBank
+
+[[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] adds SoftBank as a historical [[Japan]] startup-success example. [[EthanWu]] notes that SoftBank began as a small software distributor run by a 24-year-old, using it with [[Sony]] and [[Honda]] to show that Japan's current unicorn shortage is not simply an absence of entrepreneurial precedent.
 
 [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds SoftBank through [[MasayoshiSon]] as the source's main contemporary [[WilliamDurant]] analogy. The episode grants that Son's earlier industrial and platform bets created real achievement, then asks whether the search for another Alibaba-scale win can push SoftBank toward larger, more identity-loaded [[OpenAI]], [[Oracle]], and [[StargateAIInfrastructure]] commitments.
 

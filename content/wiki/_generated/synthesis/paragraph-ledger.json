@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cbad7cf493d5370d11e5d301c666d5a37465520e77f31c7e20d747b7a1554575",
       "9a1d3dc2b7fb17f46f11a17ab82c30607d0538f83a810f7e32c7a9c236493155",
       "6ea267261525c88f7bc096afcd8cc7f8e4f50e4f9746ea37a20ee80d74810e9a",
       "20d66f1b575bf4525f57794be596ff5af6b48bb1bc804aede97fbc0d0473e5c6",
@@ -157,11 +158,60 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 155
+    "paragraph_count": 156
   },
-  "overview_commit": "be104d35fbb1eb8c1db41b72d906b5561ccc7b6f",
-  "overview_digest": "aa51797d324d2ffdff7e70dd5545085609b14b1bc8e8a87c8cf2ffd4fe41fde6",
+  "overview_commit": "2a90b8cf0dc78980f4e8c5cb291b4ec0bebab27c",
+  "overview_digest": "9ac063aed9055dcbb573a4d869ae9698b13d33bf62a7c669af5e6c745ff1a048",
   "paragraphs": [
+    {
+      "id": "cbad7cf493d5370d11e5d301c666d5a37465520e77f31c7e20d747b7a1554575",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]], a [[TheIntelligence]] episode on [[OrexinAgonists]], [[JapaneseStartupExitConstraint]], and [[ProcrastinationSelfRegulationFailure]]. It adds [[ShaileshChitnis]], [[Ovoperextone]], [[Alkermes]], [[SentessaPharmaceuticals]], [[EmmanuelMignot]], [[MorganStanley]], [[EthanWu]], [[GlobalEntrepreneurshipMonitor]], [[TokyoStockExchange]], [[YamajiHiromi]], [[SakanaAI]], [[BenjaminSutherland]], [[OrexinAgonists]], [[NarcolepsyWakeSleepBoundary]], [[JapaneseStartupExitConstraint]], [[ProcrastinationSelfRegulationFailure]], [[MentalContrastingImplementationIntentions]], and [[ExerciseSelfMasteryForProcrastination]], while extending [[TheIntelligence]], [[EconomistPodcasts]], [[GLP1Agonists]], [[Ozempic]], [[TakedaPharmaceutical]], [[EliLilly]], [[FoodAndDrugAdministration]], [[Japan]], [[Sony]], [[Honda]], [[SoftBank]], [[RosieBloor]], [[JapaneseInnovationRetreat]], [[YouthEntrepreneurship]], and [[StartupEcosystemOptimism]]. Its core synthesis is that promising categories still need discipline at the boundary between hype and adoption: orexin agonists have a grounded narcolepsy path but broader uses remain early, Japan has historical entrepreneurial proof but current capital/status/IPO constraints, and procrastination has practical intervention evidence but also unresolved causality around diet and medication. No direct contradiction is recorded; the source qualifies the [[GLP1Agonists|GLP-1]] analogy rather than treating orexin as already equivalent.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "Alkermes",
+        "BenjaminSutherland",
+        "EconomistPodcasts",
+        "EliLilly",
+        "EmmanuelMignot",
+        "EthanWu",
+        "ExerciseSelfMasteryForProcrastination",
+        "FoodAndDrugAdministration",
+        "GLP1Agonists",
+        "GlobalEntrepreneurshipMonitor",
+        "Honda",
+        "Japan",
+        "JapaneseInnovationRetreat",
+        "JapaneseStartupExitConstraint",
+        "MentalContrastingImplementationIntentions",
+        "MorganStanley",
+        "NarcolepsyWakeSleepBoundary",
+        "OrexinAgonists",
+        "Ovoperextone",
+        "Ozempic",
+        "ProcrastinationSelfRegulationFailure",
+        "RosieBloor",
+        "SakanaAI",
+        "SentessaPharmaceuticals",
+        "ShaileshChitnis",
+        "SoftBank",
+        "Sony",
+        "StartupEcosystemOptimism",
+        "TakedaPharmaceutical",
+        "TheIntelligence",
+        "TokyoStockExchange",
+        "YamajiHiromi",
+        "YouthEntrepreneurship",
+        "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744"
+      ]
+    },
     {
       "id": "9a1d3dc2b7fb17f46f11a17ab82c30607d0538f83a810f7e32c7a9c236493155",
       "primary_topic": "ai-and-technology",
