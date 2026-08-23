@@ -2,8 +2,8 @@
 title: "Political Survival First / 安全第一政治生存"
 type: concept
 tags: [politics, statecraft, risk, han, survival]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
+last_updated: 2026-08-23
 ---
 
 # Political Survival First / 安全第一政治生存
@@ -16,7 +16,10 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] makes the discipline more concrete. Chen Ping avoids visible factional power under Liu Bang, uses [[TacticalDelayRiskTransfer|延时转责式政治化解]] in the [[FanKuai|樊哙]] affair, performs loyalty before [[LuZhi|吕雉]] after Liu Bang's death, and later hides his tie to Zhou Bo until the anti-Lu opportunity exists. The source's survival claim is therefore not passive endurance; it is controlled exposure until timing makes action possible.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] adds Han Xin as a negative contrast. The episode says Han Xin could read battle but not politics: he did not sufficiently study history, motive, or how people change when class position and power incentives change. In this light, [[PoliticalSurvivalFirst|安全第一政治生存]] is not praised because it is morally clean; it is necessary because brilliance without motive-reading leaves even a victorious commander exposed.
+
 ## Key Claims
+- Hanji 182 part 3 adds that the absence of survival-first judgment can make military genius politically unusable after the victory order changes.
 - In a lethal court, self-preservation can become a political operating discipline rather than a private weakness.
 - Survival-first actors avoid closing every path before succession, regency, or factional outcomes are known.
 - The strategy can preserve useful agency, but it also damages moral legibility because outsiders may read prudence as opportunism.
@@ -24,6 +27,7 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 - Survival can require visible compliance, feigned distance from allies, and delay of irreversible orders until the authority field changes.
 
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[PowerExitTrap|权力退场困境]] - negative contrast where battlefield genius lacks timely court-survival judgment.
 - [[ChenPing|陈平]] - source case.
 - [[LuZhi|吕雉]], [[ZhouBo|周勃]], and [[WangLingHanMinister|王陵]] - regency-period comparison set.
 - [[LiuBang|刘邦]] and [[LiuHeng|刘恒 / Emperor Wen of Han]] - ruler transition endpoints around Chen Ping's survival.

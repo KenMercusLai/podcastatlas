@@ -2,7 +2,7 @@
 title: "Celebratory Summons Entrapment / 报捷祝贺式诱捕"
 type: concept
 tags: [court-politics, statecraft, deception, western-han]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb]
+sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb]
 last_updated: 2026-08-23
 ---
 
@@ -14,7 +14,10 @@ The device is to announce falsely that [[LiuBang|刘邦]]'s campaign has already
 
 The concept is adjacent to [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] from Hanji 172. Both use official protocol as the carrier for coercion, but the earlier case lures Han Xin through the emperor's itinerary and vassal gathering, while this case uses victory news, ministerial congratulations, and Xiao He's personal credibility.
 
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] adds what happens after the summons succeeds. The episode keeps the core mechanism the same, but deepens the controlled-space outcome with the source-scoped "three not die" lore: once Han Xin is inside Changle Palace, the false celebration has already converted court attendance into physical helplessness. The trap therefore includes not only misleading entry but the removal of ordinary avenues for appeal, force, or refusal.
+
 ## Key Claims
+- Hanji 182 part 3 adds that the trap's success is measured by loss of options after entry, not only by the initial deception.
 - Court celebration can be weaponized when attendance norms make refusal suspicious.
 - A false report can function as logistical control, not only misinformation.
 - The most effective lure may be a trusted benefactor whose prior help makes the target lower his guard.
@@ -22,6 +25,7 @@ The concept is adjacent to [[RitualTourSummonsEntrapment|巡游会侯式诱捕]]
 - The episode makes "成也萧何，败也萧何" a political-technology claim: the same relationship that enabled Han Xin's rise becomes the channel of his fall.
 
 ## Connections
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]], [[PowerExitTrap|权力退场困境]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - post-entry helplessness and the cost of late political misreading.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] - source page.
 - [[HanXin|韩信]], [[XiaoHe|萧何]], [[LuZhi|吕雉]], and [[ChanglePalace|长乐宫]] - target, lure, decision-maker, and controlled space.
 - [[ChenXi|陈豨]], [[ChenXiRebellion|陈豨之乱]], and [[LiuBang|刘邦]] - false victory news and absent emperor context.

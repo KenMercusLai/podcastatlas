@@ -10119,6 +10119,10 @@ Added source page for Hanji 155-2: Wei Bao's humiliation grievance against Liu B
 
 Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin versus Wei Bao, the Hakuin false-accusation analogy after the Chen Ping thread, Wei Bao's visit-mother pretext and renewed submission to Xiang Yu, Feiqiu's flooding and Zhang Han's suicide, Liu Bang's Liyang crown-prince/amnesty move, Guanzhong famine, and Ren氏's grain-hoarding fortune. Created Feiqiu, RenShiQinMerchant, ZhongdiCommandery, HakuinEkaku, WartimeAgriculturalLaborCollapse, and PowerBackedGrainHoarding; updated overview, index, and related Chu-Han, famine, commandery, and deception pages. No settled contradiction found; kept the "声东击西" campaign detail source-scoped because the available transcript stops before the full Wei Bao operation.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（3）
+
+Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-scoped "three not die" execution lore, the "生死一知己，存亡两妇人" life-summary frame, and the retrospective judgment that Han Xin's military genius failed to become political survival. Updated overview, index, Han Xin, Xiao He, Lu Zhi, Liu Bang, Changle Palace, Kuai Che, Celebratory Summons Entrapment, Power Exit Trap, Retainer Reciprocity Ethic, and Political Survival First. No settled contradiction found; the later conspiracy remains a post-demotion stage, and the bamboo-killing details are preserved as dramatic lore rather than a strict historical correction.
+
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -10461,3 +10465,7 @@ Ran lint; report printed in session, not saved to lint-report.md.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint; report printed in session, not saved to lint-report.md. Semantic checks unavailable because LLM_MODEL and provider API keys are unset.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
