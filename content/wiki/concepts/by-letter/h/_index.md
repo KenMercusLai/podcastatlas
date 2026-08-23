@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5200
+wiki_total_pages: 5203
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -461,9 +461,15 @@ wiki_pages:
   - key: "HuaqiangbeiAISolutionProviders"
     title: "Huaqiangbei AI Solution Providers / 华强北AI方案商"
     url: "/wiki/concepts/huaqiangbeiaisolutionproviders/"
+  - key: "HuaweiNoCarManufacturingBoundary"
+    title: "Huawei No-Car Manufacturing Boundary / 华为不造车边界"
+    url: "/wiki/concepts/huaweinocarmanufacturingboundary/"
   - key: "HuaweiOrganizationalMethodology"
     title: "Huawei Organizational Methodology"
     url: "/wiki/concepts/huaweiorganizationalmethodology/"
+  - key: "HuaweiSmartSelectionCarModel"
+    title: "Huawei Smart Selection Car Model / 华为智选车模式"
+    url: "/wiki/concepts/huaweismartselectioncarmodel/"
   - key: "HumanAgencyUnderAI"
     title: "Human Agency Under AI"
     url: "/wiki/concepts/humanagencyunderai/"

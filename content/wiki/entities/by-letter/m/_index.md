@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6857
+wiki_total_pages: 6868
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "MadeGood"
     title: "MadeGood"
     url: "/wiki/entities/madegood/"
+  - key: "Maextro"
+    title: "Maextro / 尊界"
+    url: "/wiki/entities/maextro/"
   - key: "MAGA"
     title: "MAGA / Make America Great Again"
     url: "/wiki/entities/maga/"

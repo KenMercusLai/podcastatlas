@@ -40,6 +40,22 @@
     },
     {
       "global_candidate": true,
+      "id": "formal-boundaries-can-hide-operating-control",
+      "qualifications": [
+        "The episode keeps delivery, ranking, revenue, and installation figures source-scoped, so the claim is about business architecture rather than independently verified market share."
+      ],
+      "statement": "[[HuaweiNoCarManufacturingBoundary]] shows that a firm can avoid formal manufacturing ownership while still shaping market outcomes through [[HuaweiSmartSelectionCarModel]], [[AutomotiveChannelMigration]], [[HongmengZhixing]], and [[ShenzhenYinwang]].",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "HuaweiNoCarManufacturingBoundary",
+        "HuaweiSmartSelectionCarModel",
+        "AutomotiveChannelMigration",
+        "HongmengZhixing",
+        "ShenzhenYinwang"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "local-control-tests-consumer-brand-moats",
       "qualifications": [
         "The restaurant-control pattern should not be generalized to every consumer sector without testing demand localization and upstream supply-chain control."
@@ -99,6 +115,6 @@
       ]
     }
   ],
-  "summary": "The business and market sources repeatedly separate attention from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, verification, and disciplined risk management determine whether an attractive idea survives contact with real markets. Sell Me a Sasquatch adds a mass-retail version of that pattern: a playable economics game still needed line-review approval, audience proof, planogram and shelf confidence, a $19.99 price frame, licensed-risk allocation, packaging decisions, and factory deadlines before it could appear at Target and Walmart. The AI, SaaS, CPG, restaurant, finance, creator, sports, banking, insurance, prediction-market, and governance sources all preserve the same distinction between capability or attention and the systems that make value repeatable. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.",
+  "summary": "The business and market sources repeatedly separate attention and formal ownership from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, verification, and disciplined risk management determine whether an attractive idea survives contact with real markets. Huawei's automotive ecosystem adds an alliance-platform version of that pattern: a company may avoid formal car manufacturing while still shaping products, channels, service standards, brands, and supplier architecture through Hongmeng Zhixing, the smart selection model, channel migration, and Yinwang. Sell Me a Sasquatch adds a mass-retail version: a playable economics game still needed line-review approval, audience proof, planogram and shelf confidence, a $19.99 price frame, licensed-risk allocation, packaging decisions, and factory deadlines before it could appear at Target and Walmart. The AI, SaaS, CPG, restaurant, finance, creator, sports, banking, insurance, prediction-market, automotive, and governance sources all preserve the same distinction between capability or attention and the systems that make value repeatable. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.",
   "topic_id": "business-and-markets"
 }

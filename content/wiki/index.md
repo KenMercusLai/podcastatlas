@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.215 华为不造车，鸿蒙智行到底是什么？](sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843.md) — Banlatte episode on Huawei's no-car-manufacturing boundary, Hongmeng Zhixing, AITO/Wenjie, Luxeed, Stelato, Shangjie, Maextro, Yinwang, and Huawei's smart-vehicle cooperation model.
 - [Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up](sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830.md) — All-In episode on Dario Amodei's response, Anthropic regulatory-capture criticism, AI safety rhetoric, data-center backlash, open-source AI, self-regulation models, AI job anxiety, midterms, and affordability-driven socialism.
 - [Who decides what big box sells? Our GAME got us answers](sources/who-decides-what-big-box-sells-our-game-got-us-answers.md) — Planet Money episode following Sell Me a Sasquatch through line review, buyer concerns, planograms, pricing, royalties, manufacturing deadlines, shelf tests, and Target/Walmart availability.
 - [145. 改嫁中资的餐饮洋品牌](sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1.md) — 疯投圈 episode on foreign restaurant brands shifting China control to local investors and operators, covering McDonald's, Subway, Burger King, Starbucks, Pizza Hut, Haagen-Dazs, ice-cream store models, fragrance supply-chain moats, and demand-versus-supply-chain industry judgment.
@@ -7660,6 +7661,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huawei](entities/Huawei.md) — Chinese technology company interpreted through Tau Law, semiconductor constraints, HiSilicon backup culture, customer engineering, and organization methodology.
 - [HiSilicon](entities/HiSilicon.md) — Huawei chip-design capability used as the episode's backup-plan and semiconductor-system integration case.
 - [Ren Zhengfei](entities/RenZhengfei.md) — Huawei founder figure used to explain backup culture, pressure-focused execution, customer-frontline language, and Tau Law's organizational fit.
+- [Hongmeng Zhixing / 鸿蒙智行](entities/HongmengZhixing.md) — Huawei-led intelligent-vehicle alliance connecting AITO, Luxeed, Stelato, Shangjie, Maextro, partner automakers, channels, and supplier technology.
+- [AITO / 问界](entities/AITO.md) — Seres-Huawei cooperation brand used by episode 215 as the first proof case for Huawei's smart selection car model.
+- [Luxeed / 智界](entities/Luxeed.md) — Chery-Huawei Hongmeng Zhixing branch that pairs Chery manufacturing capacity with Huawei product and technology involvement.
+- [Stelato / 享界](entities/Stelato.md) — BAIC-Huawei high-end sedan branch in Hongmeng Zhixing, including the S9 pure-EV and range-extended demand-broadening case.
+- [Shangjie / 尚界](entities/Shangjie.md) — SAIC-Huawei lower-price Hongmeng Zhixing branch aimed at placing Huawei intelligent-vehicle capability below RMB 200,000.
+- [Maextro / 尊界](entities/Maextro.md) — JAC-Huawei ultra-luxury Hongmeng Zhixing branch centered on the S800 and Chinese premium-brand manufacturing ambitions.
+- [Shenzhen Yinwang / 深圳引望](entities/ShenzhenYinwang.md) — Huawei intelligent-vehicle supplier platform carrying automotive solution assets, personnel, and broader automaker participation.
+- [BAIC Group / 北汽](entities/BAICGroup.md) — Automaker partner behind Stelato / 享界 in the Huawei Hongmeng Zhixing portfolio.
+- [SAIC Motor / 上汽](entities/SAICMotor.md) — Automaker partner behind Shangjie / 尚界, contributing cost-control and vehicle-manufacturing experience to the Huawei alliance.
+- [JAC Group / 江淮](entities/JACGroup.md) — Automaker partner behind Maextro / 尊界 and the S800 ultra-luxury branch.
+- [Avatr / 阿维塔](entities/Avatr.md) — Automaker named as a minority-stake buyer in Shenzhen Yinwang, showing Huawei's broader supplier-platform route.
 - [Quark](entities/Quark.md) — Alibaba search/browser/netdisk product surface discussed as a Qwen distribution path and AI-product-fragmentation case.
 - [Taobao](entities/Taobao.md) — Alibaba ecommerce platform discussed as a possible fulfillment surface for Qwen and agentic commerce.
 - [Gaode](entities/Gaode.md) — Alibaba map and local-service surface discussed as part of Qwen's real-world service-entry layer.
@@ -9420,6 +9432,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Free Rider Problem](concepts/FreeRiderProblem.md) — Coordination failure where firms benefit from another actor's market-opening investment without sharing the cost.
 - [National Export Branding](concepts/NationalExportBranding.md) — Origin-based export strategy using a country's image to communicate quality, safety, and desirability.
 - [High-End EV Branding / 新能源车高端心智](concepts/HighEndEVBranding.md) — Premium electric-vehicle positioning problem where brands must justify higher prices despite feature convergence, price pressure, and crowded Chinese competition.
+- [Huawei Smart Selection Car Model / 华为智选车模式](concepts/HuaweiSmartSelectionCarModel.md) — Cooperation model where automakers keep manufacturing qualification while Huawei shapes product definition, smart systems, retail, launch, and service.
+- [Huawei No-Car Manufacturing Boundary / 华为不造车边界](concepts/HuaweiNoCarManufacturingBoundary.md) — Formal boundary separating Huawei from whole-vehicle manufacturing while preserving deep product, technology, channel, and supplier influence.
+- [Automotive Channel Migration / 汽车渠道迁移](concepts/AutomotiveChannelMigration.md) — Pattern where consumer-electronics product, retail, launch, and service capability moves into smart EV sales and user operations.
 - [EV Battery Leasing / 电动车电池租赁](concepts/EVBatteryLeasing.md) — Battery-as-recurring-payment structure that lowers upfront EV purchase friction while preserving sticker-price and brand-positioning signals.
 - [Battery Swap Infrastructure / 换电体系](concepts/BatterySwapInfrastructure.md) — Physical network and operating system for exchanging EV batteries, supporting NIO's battery-leasing and residual-value narrative.
 - [EV Product Line Clarity / 电动车产品线清晰度](concepts/EVProductLineClarity.md) — Product-strategy discipline of making EV model names, tiers, target users, and upgrade paths legible enough to support premium trust.

@@ -2,8 +2,8 @@
 title: "Huawei Organizational Methodology"
 type: concept
 tags: [organization, strategy, huawei, enterprise]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]
-last_updated: 2026-07-08
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843]
+last_updated: 2026-08-24
 ---
 
 # Huawei Organizational Methodology
@@ -14,6 +14,8 @@ The hosts describe the method through backup plans, pressure-focused resource al
 
 [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds a reception case rather than a Huawei-centered case. [[YangMeng]] says Anker's answer to short consumer-electronics lifecycles came partly from studying Huawei IPD-style systematization: turn single-product success into reusable organization capability so more categories can be built repeatedly.
 
+[[no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843]] adds the automotive version of the same methodology. The episode argues that [[Huawei]] moved phone-era product definition, launch discipline, retail traffic, service standards, and rapid iteration into [[HongmengZhixing|鸿蒙智行]], while keeping partner automakers responsible for manufacturing and qualification under [[HuaweiNoCarManufacturingBoundary|华为不造车边界]].
+
 ## Source Position
 - The method is tied to [[RenZhengfei]]'s founder history and Huawei's early experiences with supply interruption and self-research.
 - [[HiSilicon]] is presented as the backup-plan example that became strategically central under restriction.
@@ -22,6 +24,7 @@ The hosts describe the method through backup plans, pressure-focused resource al
 - The hosts frame Huawei's Songshan Lake campus as a deliberate customer-confidence machine: route, displays, bookshelves, demos, and reception process all serve the buyer-facing narrative.
 - The downside is potential overconcentration of power and pressure, plus ecosystem compression when Huawei enters an industry with partners and suppliers attached.
 - The Anker source treats Huawei/IPD as an example of product-development capability becoming an organizational system, not only a process manual.
+- The automotive source adds that the methodology can cross product categories: Huawei's consumer-device organization becomes relevant to cars when intelligent cockpit, assisted driving, channel explanation, and service are central to buyer trust.
 
 ## Connections
 - [[Huawei]], [[RenZhengfei]], and [[HiSilicon]] — source case and organizational lineage.
@@ -31,3 +34,4 @@ The hosts describe the method through backup plans, pressure-focused resource al
 - [[TechnicalCultureSalesCultureTension]] — adjacent pattern where customer and sales structure reshape technical organizations.
 - [[BusinessLedAITransformation]] — related enterprise-change pattern where technology only matters when it enters workflow, incentives, and operations.
 - [[AnkerInnovations]], [[ConsumerElectronicsLifecycle]], and [[ThirdTypeCompany]] — Anker's adaptation of systematized product capability across many categories.
+- [[HongmengZhixing]], [[HuaweiSmartSelectionCarModel]], [[AutomotiveChannelMigration]], and [[HuaweiNoCarManufacturingBoundary]] — automotive ecosystem branch added by episode 215.

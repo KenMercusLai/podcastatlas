@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6857
+wiki_total_pages: 6868
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "AishaGaza"
     title: "Aisha (Gaza Letters)"
     url: "/wiki/entities/aishagaza/"
+  - key: "AITO"
+    title: "AITO / 问界"
+    url: "/wiki/entities/aito/"
   - key: "Akeso"
     title: "Akeso / 康方生物"
     url: "/wiki/entities/akeso/"
@@ -1082,6 +1085,9 @@ wiki_pages:
   - key: "AvatarTheLastAirbender"
     title: "Avatar: The Last Airbender"
     url: "/wiki/entities/avatarthelastairbender/"
+  - key: "Avatr"
+    title: "Avatr / 阿维塔"
+    url: "/wiki/entities/avatr/"
   - key: "AvignonFestival"
     title: "Avignon Festival"
     url: "/wiki/entities/avignonfestival/"

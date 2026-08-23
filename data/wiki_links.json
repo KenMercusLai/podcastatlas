@@ -2147,6 +2147,10 @@
     "title": "AI Super Creators",
     "url": "/wiki/concepts/aisupercreators/"
   },
+  "AITO": {
+    "title": "AITO / 问界",
+    "url": "/wiki/entities/aito/"
+  },
   "AITalentCompetition": {
     "title": "AI Talent Competition",
     "url": "/wiki/concepts/aitalentcompetition/"
@@ -5051,6 +5055,10 @@
     "title": "Automobile City Path Dependence",
     "url": "/wiki/concepts/automobilecitypathdependence/"
   },
+  "AutomotiveChannelMigration": {
+    "title": "Automotive Channel Migration / 汽车渠道迁移",
+    "url": "/wiki/concepts/automotivechannelmigration/"
+  },
   "AutomotiveCollectorEconomics": {
     "title": "Automotive Collector Economics",
     "url": "/wiki/concepts/automotivecollectoreconomics/"
@@ -5094,6 +5102,10 @@
   "AvatarTheLastAirbender": {
     "title": "Avatar: The Last Airbender",
     "url": "/wiki/entities/avatarthelastairbender/"
+  },
+  "Avatr": {
+    "title": "Avatr / 阿维塔",
+    "url": "/wiki/entities/avatr/"
   },
   "AveragingDown": {
     "title": "Averaging Down",
@@ -5178,6 +5190,10 @@
   "B2BToA2A": {
     "title": "B2B to A2A",
     "url": "/wiki/concepts/b2btoa2a/"
+  },
+  "BAICGroup": {
+    "title": "BAIC Group / 北汽",
+    "url": "/wiki/entities/baicgroup/"
   },
   "BAICapital": {
     "title": "B.A.I Capital",
@@ -19987,6 +20003,10 @@
     "title": "《鸿门宴》",
     "url": "/wiki/entities/hongmenyan/"
   },
+  "HongmengZhixing": {
+    "title": "Hongmeng Zhixing / 鸿蒙智行",
+    "url": "/wiki/entities/hongmengzhixing/"
+  },
   "HongseHuojianIndexTool": {
     "title": "红色火箭 / Hongse Huojian",
     "url": "/wiki/entities/hongsehuojianindextool/"
@@ -20435,9 +20455,17 @@
     "title": "Huawei CM384",
     "url": "/wiki/entities/huaweicm384/"
   },
+  "HuaweiNoCarManufacturingBoundary": {
+    "title": "Huawei No-Car Manufacturing Boundary / 华为不造车边界",
+    "url": "/wiki/concepts/huaweinocarmanufacturingboundary/"
+  },
   "HuaweiOrganizationalMethodology": {
     "title": "Huawei Organizational Methodology",
     "url": "/wiki/concepts/huaweiorganizationalmethodology/"
+  },
+  "HuaweiSmartSelectionCarModel": {
+    "title": "Huawei Smart Selection Car Model / 华为智选车模式",
+    "url": "/wiki/concepts/huaweismartselectioncarmodel/"
   },
   "HuayangBattle": {
     "title": "华阳之战 / Battle of Huayang",
@@ -21906,6 +21934,10 @@
   "IvyLeagueMeritocracy": {
     "title": "Ivy League Meritocracy",
     "url": "/wiki/concepts/ivyleaguemeritocracy/"
+  },
+  "JACGroup": {
+    "title": "JAC Group / 江淮",
+    "url": "/wiki/entities/jacgroup/"
   },
   "JAX": {
     "title": "JAX",
@@ -26787,6 +26819,10 @@
     "title": "Luther, Oklahoma",
     "url": "/wiki/entities/lutheroklahoma/"
   },
+  "Luxeed": {
+    "title": "Luxeed / 智界",
+    "url": "/wiki/entities/luxeed/"
+  },
   "Luxixi": {
     "title": "鲁西西 / Luxixi",
     "url": "/wiki/entities/luxixi/"
@@ -27026,6 +27062,10 @@
   "MadeToOrderCommerce": {
     "title": "Made-To-Order Commerce",
     "url": "/wiki/concepts/madetoordercommerce/"
+  },
+  "Maextro": {
+    "title": "Maextro / 尊界",
+    "url": "/wiki/entities/maextro/"
   },
   "MagazineReadingEcology": {
     "title": "Magazine Reading Ecology / 杂志阅读生态",
@@ -37155,6 +37195,10 @@
     "title": "Ryo",
     "url": "/wiki/entities/ryo/"
   },
+  "SAICMotor": {
+    "title": "SAIC Motor / 上汽",
+    "url": "/wiki/entities/saicmotor/"
+  },
   "SAP": {
     "title": "SAP",
     "url": "/wiki/entities/sap/"
@@ -38371,6 +38415,10 @@
     "title": "Shanghai Stock Exchange",
     "url": "/wiki/entities/shanghaistockexchange/"
   },
+  "Shangjie": {
+    "title": "Shangjie / 尚界",
+    "url": "/wiki/entities/shangjie/"
+  },
   "Shangjun": {
     "title": "上郡 / Shangjun",
     "url": "/wiki/entities/shangjun/"
@@ -38590,6 +38638,10 @@
   "ShenzhenStockExchange": {
     "title": "Shenzhen Stock Exchange / 深圳证券交易所",
     "url": "/wiki/entities/shenzhenstockexchange/"
+  },
+  "ShenzhenYinwang": {
+    "title": "Shenzhen Yinwang / 深圳引望",
+    "url": "/wiki/entities/shenzhenyinwang/"
   },
   "ShenzhouInternational": {
     "title": "Shenzhou International / 申洲国际",
@@ -40422,6 +40474,10 @@
   "StefanZweig": {
     "title": "Stefan Zweig / 茨威格",
     "url": "/wiki/entities/stefanzweig/"
+  },
+  "Stelato": {
+    "title": "Stelato / 享界",
+    "url": "/wiki/entities/stelato/"
   },
   "StellersSeaCow": {
     "title": "Steller's Sea Cow / 斯特勒海牛",
@@ -50766,6 +50822,10 @@
   "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305": {
     "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
     "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+  },
+  "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843": {
+    "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+    "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
   },
   "older-workers-arent-retiring-should-they-be-forced-to": {
     "title": "Older workers aren't retiring. Should they be forced to?",

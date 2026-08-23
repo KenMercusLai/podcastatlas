@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6857
+wiki_total_pages: 6868
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "LutherOklahoma"
     title: "Luther, Oklahoma"
     url: "/wiki/entities/lutheroklahoma/"
+  - key: "Luxeed"
+    title: "Luxeed / 智界"
+    url: "/wiki/entities/luxeed/"
   - key: "LuxsharePrecision"
     title: "Luxshare Precision"
     url: "/wiki/entities/luxshareprecision/"

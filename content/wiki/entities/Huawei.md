@@ -2,8 +2,8 @@
 title: "Huawei"
 type: entity
 tags: [company, china, semiconductors, telecom, organization]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-18
+sources: [no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-24
 ---
 
 # Huawei
@@ -32,6 +32,8 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 
 [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]] adds Huawei's consumer-phone transition. The episode follows Huawei from "中华酷联" carrier-channel volume into [[YuChengdong]]'s shift toward owned brands, P6, Mate7, high-end positioning, offline-channel learning, and [[HiSilicon]]/Kirin persistence.
 
+[[no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843]] adds Huawei's intelligent-vehicle ecosystem branch through [[HongmengZhixing|鸿蒙智行]], [[HuaweiSmartSelectionCarModel|华为智选车模式]], and [[ShenzhenYinwang|引望]]. The source argues that Huawei does not formally become the automaker, but it uses technology, product definition, retail channels, brand launches, service standards, and user operations to shape vehicles made with [[Seres]], [[Chery]], [[BAICGroup|北汽]], [[SAICMotor|上汽]], and [[JACGroup|江淮]].
+
 ## Source Position
 - Huawei is described as unusually influential in China: many companies want to learn from it, but the hosts argue that its methods are difficult to copy without the surrounding organization.
 - [[TauLaw]] is treated as a Huawei-specific strategic metric more than an industry-wide law unless it gains repeated measurable proof.
@@ -44,6 +46,8 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - The What's Next source treats Huawei's memory route as part of domestic AI infrastructure resilience rather than only handset or telecom self-reliance.
 - The Momenta source treats Huawei as an autonomous-driving competitor and benchmark, not as a semiconductor or telecom case.
 - Episode 210 treats Huawei as one of the few "中华酷联" firms that escaped carrier dependence by turning phones into a self-owned consumer brand backed by chips, product strategy, and retail execution.
+- Episode 215 extends that consumer-terminal story into cars: [[AutomotiveChannelMigration|automotive channel migration]] makes Huawei's phone-era retail, product, launch, and service capabilities relevant to smart EV adoption.
+- The same episode keeps [[HuaweiNoCarManufacturingBoundary|not making cars]] as a real formal boundary while showing that boundary can coexist with deep control over the customer-facing vehicle system.
 - The All-In prediction source treats Huawei as a 2026 winner but gives only a high-level investor thesis, so the claim should be read beside the more technical WAIC and Tau Law evidence pages.
 
 ## Connections
@@ -60,5 +64,6 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - [[HighBandwidthMemory]], [[MemoryWall]], [[ChangXinMemory]], and [[AIStorageSupercycle]] — domestic AI memory branch added by What's Next.
 - [[Momenta]], [[CaoXudong]], and [[AutonomousDrivingDataFlywheel]] — third-party city NOA competition frame added by LateTalk.
 - [[YuChengdong]], [[OperatorSubsidizedHandsets]], [[OfflineHandsetChannelSystem]], and [[HandsetMarketConcentration]] — smartphone-market transition added by episode 210.
+- [[HongmengZhixing]], [[AITO]], [[Luxeed]], [[Stelato]], [[Shangjie]], [[Maextro]], [[HuaweiSmartSelectionCarModel]], [[HuaweiNoCarManufacturingBoundary]], [[AutomotiveChannelMigration]], and [[ShenzhenYinwang]] — intelligent-vehicle ecosystem branch added by episode 215.
 - [[SMIC]], [[CriticalMineralsGeopolitics]], and [[DataCenterPowerBottleneck]] - All-In's 2026 infrastructure and national-security market branch.
 - [[AmericanAIStackStrategy]], [[DomesticAIChipCatchUp]], [[AIExportControls]], and [[Nvidia]] - U.S.-China AI-stack competition branch added by the January 23 All-In episode.

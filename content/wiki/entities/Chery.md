@@ -2,8 +2,8 @@
 title: "Chery / 奇瑞"
 type: entity
 tags: [company, automotive, china, anhui, manufacturing]
-sources: [no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
-last_updated: 2026-08-07
+sources: [no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843]
+last_updated: 2026-08-24
 ---
 
 # Chery / 奇瑞
@@ -14,9 +14,12 @@ The source emphasizes improvised execution under constraint. The project initial
 
 Chery's low-price Fengyun launch and early export record make it a bridge between local-government industrial ambition and a real manufacturing firm. In the episode, it helps explain why modern [[Anhui]] industrial identity is not only about [[Hefei]]'s capital allocation, but also about earlier carmaking capability in Wuhu.
 
+[[no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843]] adds Chery as the automaker partner behind [[Luxeed|智界]] in [[HongmengZhixing|鸿蒙智行]]. The source stresses Chery's mature R&D, manufacturing, supply-chain, and export capacity, while also treating early 智界 S7 delivery problems as evidence that Huawei cooperation still depends on partner-side organization and production ramp quality.
+
 ## Connections
 - [[Wuhu]] and [[Anhui]] - city and province anchors.
 - [[Hefei]] - later provincial industrial-policy comparison.
 - [[AutomobileCityPathDependence]] - city-auto industry frame.
 - [[MerchantToIndustrialCityUpgrade]] - shift from regional commerce to production capacity.
 - [[BYD]] and [[NIO]] - later EV comparison cases in the source.
+- [[Luxeed]], [[HongmengZhixing]], [[HuaweiSmartSelectionCarModel]], and [[EVProductLineClarity]] - Huawei cooperation branch added by episode 215.

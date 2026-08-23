@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6857
+wiki_total_pages: 6868
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "HongkongLand"
     title: "Hongkong Land / 香港置地"
     url: "/wiki/entities/hongkongland/"
+  - key: "HongmengZhixing"
+    title: "Hongmeng Zhixing / 鸿蒙智行"
+    url: "/wiki/entities/hongmengzhixing/"
   - key: "Honor"
     title: "Honor"
     url: "/wiki/entities/honor/"

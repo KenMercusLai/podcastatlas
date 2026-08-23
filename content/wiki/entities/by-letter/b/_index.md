@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6857
+wiki_total_pages: 6868
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "Bahrain"
     title: "Bahrain"
     url: "/wiki/entities/bahrain/"
+  - key: "BAICGroup"
+    title: "BAIC Group / 北汽"
+    url: "/wiki/entities/baicgroup/"
   - key: "Baidu"
     title: "Baidu"
     url: "/wiki/entities/baidu/"

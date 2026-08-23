@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5200
+wiki_total_pages: 5203
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1700,6 +1700,9 @@ wiki_pages:
   - key: "AutomobileCityPathDependence"
     title: "Automobile City Path Dependence"
     url: "/wiki/concepts/automobilecitypathdependence/"
+  - key: "AutomotiveChannelMigration"
+    title: "Automotive Channel Migration / 汽车渠道迁移"
+    url: "/wiki/concepts/automotivechannelmigration/"
   - key: "AutomotiveCollectorEconomics"
     title: "Automotive Collector Economics"
     url: "/wiki/concepts/automotivecollectoreconomics/"

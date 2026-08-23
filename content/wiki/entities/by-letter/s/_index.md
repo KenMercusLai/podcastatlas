@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6857
+wiki_total_pages: 6868
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "SahilLavingia"
     title: "Sahil Lavingia"
     url: "/wiki/entities/sahillavingia/"
+  - key: "SAICMotor"
+    title: "SAIC Motor / 上汽"
+    url: "/wiki/entities/saicmotor/"
   - key: "SainteBeuve"
     title: "Sainte-Beuve / 圣伯夫"
     url: "/wiki/entities/saintebeuve/"
@@ -413,6 +416,9 @@ wiki_pages:
   - key: "ShanghaiStockExchange"
     title: "Shanghai Stock Exchange"
     url: "/wiki/entities/shanghaistockexchange/"
+  - key: "Shangjie"
+    title: "Shangjie / 尚界"
+    url: "/wiki/entities/shangjie/"
   - key: "Shangzhixing"
     title: "Shangzhixing"
     url: "/wiki/entities/shangzhixing/"
@@ -473,6 +479,9 @@ wiki_pages:
   - key: "ShenzhenStockExchange"
     title: "Shenzhen Stock Exchange / 深圳证券交易所"
     url: "/wiki/entities/shenzhenstockexchange/"
+  - key: "ShenzhenYinwang"
+    title: "Shenzhen Yinwang / 深圳引望"
+    url: "/wiki/entities/shenzhenyinwang/"
   - key: "ShenzhouInternational"
     title: "Shenzhou International / 申洲国际"
     url: "/wiki/entities/shenzhouinternational/"
@@ -944,6 +953,9 @@ wiki_pages:
   - key: "StefanZweig"
     title: "Stefan Zweig / 茨威格"
     url: "/wiki/entities/stefanzweig/"
+  - key: "Stelato"
+    title: "Stelato / 享界"
+    url: "/wiki/entities/stelato/"
   - key: "StellersSeaCow"
     title: "Steller's Sea Cow / 斯特勒海牛"
     url: "/wiki/entities/stellersseacow/"

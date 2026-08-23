@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: 5ce87075daaa979a08f07293ccefb9254b93de9d
-summary: "Ideas become durable through institutions, workflow integration, market proof, risk discipline, cultural interpretation, and evidence-bound implementation."
-episode_count: 1334
-source_count: 1334
-paragraph_count: 145
+as_of_overview_commit: cefa5e0ddb351a952ee999ab4bee46de8ffcdc80
+summary: "Durable value comes from workflows, institutions, distribution, risk discipline, cultural interpretation, evidence, and operating control beyond formal ownership."
+episode_count: 1336
+source_count: 1336
+paragraph_count: 146
 topic_count: 8
 ---
 
@@ -18,9 +18,9 @@ topic_count: 8
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation.
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], and [[MassRetailProductionDeadline]] can repeatedly deliver the product.
+- [[HuaweiNoCarManufacturingBoundary]] shows that a firm can avoid formal manufacturing ownership while still shaping market outcomes through [[HuaweiSmartSelectionCarModel]], [[AutomotiveChannelMigration]], [[HongmengZhixing]], and [[ShenzhenYinwang]].
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
-- [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]].
@@ -29,14 +29,14 @@ topic_count: 8
 
 ### AI and Technology
 
-AI and technology sources converge on embedding model capability in workflows, interfaces, permissions, product economics, verification loops, and domain-specific feedback rather than treating capability alone as durable value.
+AI and technology sources treat model capability as useful only when embedded in workflow design, interfaces, permissions, verification, product economics, and domain feedback; otherwise capability remains an isolated claim.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - Greater AI autonomy increases the importance of [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], and [[AgentPermissionBoundaries]] rather than removing human responsibility. Evidence: [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], [[AgentPermissionBoundaries]], [[DeterministicAuditData]], [[AIInvestmentResearch]], [[HumanRiskOverride]].
 
 ### Business and Markets
 
-Business and market sources distinguish attention from durable value: customer pull, payment proof, distribution, local control, trust, risk discipline, and the Sell Me a Sasquatch retail case all show that ideas need operating systems before they scale.
+Business and market sources show that customer pull, payment proof, distribution, local control, trust, risk discipline, retail gates, and Huawei's car alliance all turn attention or formal boundaries into operating tests.
 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], and [[MassRetailProductionDeadline]] can repeatedly deliver the product. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], and [[CausalWorldModels]] all make capability depend on workflow fit, verification, interfaces, experiments, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]].
@@ -49,14 +49,14 @@ Culture and media sources use literature, folklore, games, and media forms to ex
 
 ### Governance and Institutions
 
-Governance appears as translation from authority claims into enforceable systems: capitals, titles, law, standards, markets, private trust, and public symbols all require legitimacy, controls, and workable exits.
+Governance sources show authority becoming durable only through enforceable systems: capitals, titles, law, standards, markets, private trust, public symbols, legitimacy, controls, and workable exits.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-Historical and geopolitical sources track how legitimacy, relocation, alliances, adviser judgment, defensive local order, state systems, and technology ecosystems reshape power across eras.
+Historical and geopolitical sources connect legitimacy, relocation, alliance management, defensive local order, state systems, and technology ecosystems to power shifts across eras.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
