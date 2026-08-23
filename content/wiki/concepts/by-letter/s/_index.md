@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5239
+wiki_total_pages: 5243
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "Skimpflation"
     title: "Skimpflation"
     url: "/wiki/concepts/skimpflation/"
+  - key: "SKUFocusUnderCashConstraint"
+    title: "SKU Focus Under Cash Constraint"
+    url: "/wiki/concepts/skufocusundercashconstraint/"
   - key: "SlaughterWelfare"
     title: "Slaughter Welfare"
     url: "/wiki/concepts/slaughterwelfare/"

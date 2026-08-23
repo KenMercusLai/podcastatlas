@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6913
+wiki_total_pages: 6922
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "Raytheon"
     title: "Raytheon"
     url: "/wiki/entities/raytheon/"
+  - key: "RazorUSA"
+    title: "Razor USA"
+    url: "/wiki/entities/razorusa/"
   - key: "RBC"
     title: "RBC"
     url: "/wiki/entities/rbc/"

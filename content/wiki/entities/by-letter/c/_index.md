@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6913
+wiki_total_pages: 6922
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "Carlsberg"
     title: "Carlsberg"
     url: "/wiki/entities/carlsberg/"
+  - key: "CarltonCalvin"
+    title: "Carlton Calvin"
+    url: "/wiki/entities/carltoncalvin/"
   - key: "CarlyMarriott"
     title: "Carly Marriott"
     url: "/wiki/entities/carlymarriott/"

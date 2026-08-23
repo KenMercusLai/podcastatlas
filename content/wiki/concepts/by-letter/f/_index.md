@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5239
+wiki_total_pages: 5243
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "FounderUserObsession"
     title: "Founder User Obsession"
     url: "/wiki/concepts/founderuserobsession/"
+  - key: "FounderVisibilityMarketing"
+    title: "Founder Visibility Marketing"
+    url: "/wiki/concepts/foundervisibilitymarketing/"
   - key: "FounderVisionTimingMismatch"
     title: "Founder Vision-Timing Mismatch"
     url: "/wiki/concepts/foundervisiontimingmismatch/"

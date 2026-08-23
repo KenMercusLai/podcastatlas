@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Carlton Calvin of Razor](sources/advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e.md) — How I Built This Advice Line episode with Carlton Calvin on Razor, trend spotting, toy/game licensing proof, founder-visible marketing, stationery wholesale, craft-spirits distribution, SKU focus, and sales delegation.
 - [Why the Trump administration plans to boost funding for subsea cables](sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128.md) — Marketplace Tech episode with Erin Murphy on undersea data cables, hyperscaler ownership, U.S. funding for Caribbean and Central American cable replacement, trusted networks, landing-point security, sabotage ambiguity, and redundancy.
 - [Bombs and bombshells: Zelensky under pressure](sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0.md) — The Intelligence episode on Zelensky under Russian, election, corruption, and export pressure; China's mental-health access gap; and PAW Patrol as children's media values debate and competence fantasy.
 - [EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01](sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr.md) — Talk三联 episode on AI workplace anxiety, token spending, editorial AI translation, commercialization pressure, AI productivity ratchets, human-scale AI use, and non-algorithmic capabilities.
@@ -1354,6 +1355,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Carlton Calvin](entities/CarltonCalvin.md) — Razor USA founder and Advice Line guest emphasizing trend spotting, retail distribution, sales reps, and focus.
+- [Razor USA](entities/RazorUSA.md) — Consumer-products company behind Razor scooters, used in the episode for trend, copycat, patent, retail, and sales-delegation context.
+- [Sean Barassa](entities/SeanBarassa.md) — Creator of the party game Eulogy, advised to prove demand before expecting licensing.
+- [Eulogy](entities/EulogyGame.md) — Party game where players invent a life story and deliver a eulogy, used as a game-licensing proof case.
+- [Shireen Tippett](entities/ShireenTippett.md) — Founder of Honey Bespoke Stationery, advised on founder-led content, retail stores, markets, and reps.
+- [Honey Bespoke Stationery](entities/HoneyBespokeStationery.md) — Personalized and collegiate stationery business moving from marketplace dependence toward owned and wholesale channels.
+- [Little Water Distillery](entities/LittleWaterDistillery.md) — Atlantic City craft distillery used as a distribution complexity, debt, and SKU-focus case.
+- [Mark (Little Water Distillery)](entities/MarkLittleWaterDistillery.md) — Little Water Distillery caller focused on growing 48 Blocks Espresso Martini.
+- [48 Blocks Espresso Martini](entities/48BlocksEspressoMartini.md) — Little Water Distillery product singled out for focus, story, cans, and line-extension testing.
 - [Erin Murphy](entities/ErinMurphy.md) — Expert explaining undersea cables as strategic internet, financial, and national-security infrastructure.
 - [SubCom](entities/SubCom.md) — Cable-infrastructure company named as a possible trusted-network participant in the Marketplace Tech subsea-cable episode.
 - [Central America](entities/CentralAmerica.md) — Region paired with the Caribbean in the Trump administration undersea-cable funding plan.
@@ -8271,6 +8281,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Consumer Trend Spotting](concepts/ConsumerTrendSpotting.md) — Deliberate scanning for consumer behavior and format changes before they become obvious retail demand.
+- [Toy Inventor Licensing Path](concepts/ToyInventorLicensingPath.md) — Route where a game or toy inventor seeks publisher or toy-company licensing only after stronger buyer-visible proof.
+- [Founder Visibility Marketing](concepts/FounderVisibilityMarketing.md) — Pattern where a founder's face, voice, process, or production story helps customers trust and understand a small brand.
+- [SKU Focus Under Cash Constraint](concepts/SKUFocusUnderCashConstraint.md) — Discipline of concentrating scarce cash and channel effort on products already showing pull.
 - [Undersea Data Cables](concepts/UnderseaDataCables.md) — Submarine fiber-optic infrastructure carrying most global data and financial traffic, now treated as strategic infrastructure.
 - [Trusted Network Geopolitics](concepts/TrustedNetworkGeopolitics.md) — Infrastructure strategy linking cable funding, supplier trust, route choice, and U.S.-China competition.
 - [Cable Landing Point Security](concepts/CableLandingPointSecurity.md) — Security layer around cable landing stations, equipment, software, vendors, and operational control.

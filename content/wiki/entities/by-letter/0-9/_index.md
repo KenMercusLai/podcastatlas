@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "0-9"
-wiki_total_pages: 6913
+wiki_total_pages: 6922
 wiki_pages:
   - key: "1789Capital"
     title: "1789 Capital"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "42Zhangjing"
     title: "42章经"
     url: "/wiki/entities/42zhangjing/"
+  - key: "48BlocksEspressoMartini"
+    title: "48 Blocks Espresso Martini"
+    url: "/wiki/entities/48blocksespressomartini/"
   - key: "5MeODMT"
     title: "5-MeO-DMT"
     url: "/wiki/entities/5meodmt/"

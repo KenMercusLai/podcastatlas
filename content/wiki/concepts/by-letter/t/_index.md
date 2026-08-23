@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5239
+wiki_total_pages: 5243
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "ToxicShockSyndromeRisk"
     title: "Toxic Shock Syndrome Risk"
     url: "/wiki/concepts/toxicshocksyndromerisk/"
+  - key: "ToyInventorLicensingPath"
+    title: "Toy Inventor Licensing Path"
+    url: "/wiki/concepts/toyinventorlicensingpath/"
   - key: "TPUPodSystemOptimization"
     title: "TPU Pod System Optimization"
     url: "/wiki/concepts/tpupodsystemoptimization/"

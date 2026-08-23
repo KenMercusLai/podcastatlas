@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6913
+wiki_total_pages: 6922
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "MarkDataScienceWithSam"
     title: "Mark (Data Science With Sam)"
     url: "/wiki/entities/markdatasciencewithsam/"
+  - key: "MarkLittleWaterDistillery"
+    title: "Mark (Little Water Distillery)"
+    url: "/wiki/entities/marklittlewaterdistillery/"
   - key: "MarkAbbott"
     title: "Mark Abbott"
     url: "/wiki/entities/markabbott/"

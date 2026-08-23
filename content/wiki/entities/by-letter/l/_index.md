@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6913
+wiki_total_pages: 6922
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "Lithuania"
     title: "Lithuania"
     url: "/wiki/entities/lithuania/"
+  - key: "LittleWaterDistillery"
+    title: "Little Water Distillery"
+    url: "/wiki/entities/littlewaterdistillery/"
   - key: "LittleWhiteAndLittleGrey"
     title: "Little White and Little Grey"
     url: "/wiki/entities/littlewhiteandlittlegrey/"

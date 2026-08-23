@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6913
+wiki_total_pages: 6922
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "Honda"
     title: "Honda / 本田"
     url: "/wiki/entities/honda/"
+  - key: "HoneyBespokeStationery"
+    title: "Honey Bespoke Stationery"
+    url: "/wiki/entities/honeybespokestationery/"
   - key: "HongKong"
     title: "Hong Kong / 香港"
     url: "/wiki/entities/hongkong/"

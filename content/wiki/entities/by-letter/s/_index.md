@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6913
+wiki_total_pages: 6922
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "SeaOtter"
     title: "Sea Otter / 海獭"
     url: "/wiki/entities/seaotter/"
+  - key: "SeanBarassa"
+    title: "Sean Barassa"
+    url: "/wiki/entities/seanbarassa/"
   - key: "SeanFanning"
     title: "Sean Fanning"
     url: "/wiki/entities/seanfanning/"
@@ -518,6 +521,9 @@ wiki_pages:
   - key: "ShiraAviono"
     title: "Shira Aviono"
     url: "/wiki/entities/shiraaviono/"
+  - key: "ShireenTippett"
+    title: "Shireen Tippett"
+    url: "/wiki/entities/shireentippett/"
   - key: "ShivonZilis"
     title: "Shivon Zilis"
     url: "/wiki/entities/shivonzilis/"

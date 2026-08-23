@@ -10816,3 +10816,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | Advice Line with Carlton Calvin of Razor
+
+Added source page for a How I Built This Advice Line episode with Carlton Calvin of Razor USA advising Eulogy, Honey Bespoke Stationery, and Little Water Distillery on trend spotting, copycat/patent limits, toy/game licensing proof, founder-visible marketing, school-connected retail, craft-spirits distribution, SKU focus, cans, and sales delegation. Created pages for Carlton Calvin, Razor USA, Sean Barassa, Eulogy, Shireen Tippett, Honey Bespoke Stationery, Little Water Distillery, Mark (Little Water Distillery), 48 Blocks Espresso Martini, Consumer Trend Spotting, Toy Inventor Licensing Path, Founder Visibility Marketing, and SKU Focus Under Cash Constraint; updated overview, index, How I Built This, Guy Raz, CPG Distribution, Channel Focus Experiments, Fast Product Validation, Game Mechanic To Retail Product, Story Led Consumer Branding, Founder Delegation Discipline, Founder Role Transition, Direct-to-Consumer Brand Control, and Wholesale As Marketing. No direct contradiction found; the source reinforces the wiki's Advice Line pattern that consumer-product growth should be staged around proof, channel fit, focus, and founder capacity.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
