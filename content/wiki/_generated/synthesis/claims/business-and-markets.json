@@ -40,8 +40,23 @@
         "InvestmentRiskManagement",
         "StopLossDiscipline"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "reputation-protects-future-talent-access",
+      "qualifications": [
+        "This is an analogical bridge from a late-Han political source into the business-and-markets topic; it should not be read as evidence about a modern commercial market by itself."
+      ],
+      "statement": "Hanji 1009 extends the topic's trust logic into talent access: [[ReputationConstrainedTalentProtection]] and [[TalentAttractionThroughRespect]] frame [[CaoCao]]'s decision to spare [[LiuBei]] as protection of future recruitment credibility.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ReputationConstrainedTalentProtection",
+        "TalentAttractionThroughRespect",
+        "CaoCao",
+        "LiuBei"
+      ]
     }
   ],
-  "summary": "The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets.",
+  "summary": "The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets. Hanji 1009 adds a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.",
   "topic_id": "business-and-markets"
 }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5169
+wiki_total_pages: 5172
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "MoralCostOfEffectiveRescue"
     title: "Moral Cost of Effective Rescue / 成事的道德代价"
     url: "/wiki/concepts/moralcostofeffectiverescue/"
+  - key: "MoralDisengagementRationalization"
+    title: "Moral Disengagement Rationalization / 道德推脱式自我合理化"
+    url: "/wiki/concepts/moraldisengagementrationalization/"
   - key: "MoralFaceUnderPowerCompetition"
     title: "Moral Face Under Power Competition / 权力竞争中的要脸"
     url: "/wiki/concepts/moralfaceunderpowercompetition/"

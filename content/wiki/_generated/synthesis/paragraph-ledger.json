@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f1c4fde4377cc40cb30fc15ef315b7b3f66de1c57a811261f4eb8a28081685a8",
       "36295a7f803925f6d35a42dfb314e41680d8a568745b2c06627b3e1dd2e192b3",
       "e62054037194f29da3543f167e9eb6961031d6f82634bee7c638837ec3b725c4",
       "2b6ff603a81c96089f7a32dfa941dd475ab0ba8936303267a7c8cff787f70e69",
@@ -135,11 +136,39 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 133
+    "paragraph_count": 134
   },
-  "overview_commit": "c18c64d1b1c1d285d7346c5a519539e98f491c98",
-  "overview_digest": "fd958e34f4f61cf979e611d1b8ffacfbc2955262e9055a3c9396667da80a21d5",
+  "overview_commit": "2a27906f053abfb5431581a85b9be070e8f10bb3",
+  "overview_digest": "b70f5b41e31a1d0824418cfdc6a8d573969d6deb57ffdaf97f6898397408eb5d",
   "paragraphs": [
+    {
+      "id": "f1c4fde4377cc40cb30fc15ef315b7b3f66de1c57a811261f4eb8a28081685a8",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the missing late-Han prelude before [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]]. It adds [[YuanHuanLateHan|袁涣]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], [[ReputationConstrainedTalentProtection|名声约束下的人才保护]], and [[MoralDisengagementRationalization|道德推脱式自我合理化]], while extending [[LiuBei|刘备]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[GuoJia|郭嘉]], [[PeiCounty|小沛]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[DunningKrugerEffect|Dunning-Kruger effect]]. Its core synthesis is that the Liu Bei-Lü Bu-Cao Cao triangle turns alliance into reputation strategy: Lü Bu's fear of Liu Bei's growth pushes a possible ally into Cao Cao's camp, Guo Jia frames sparing Liu Bei as necessary for Cao Cao's wider talent market, and Yuan Huan's refusal to abuse Liu Bei blocks Lü Bu's attempt to launder betrayal through public slander. No settled contradiction is recorded; the source's masculinity and Dunning-Kruger readings are kept as source-scoped interpretation rather than independent evidence of inner motive.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "DunningKrugerEffect",
+        "GuoJia",
+        "LiuBei",
+        "LyuBu",
+        "MoralDisengagementRationalization",
+        "PeiCounty",
+        "ReputationConstrainedTalentProtection",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAttractionThroughRespect",
+        "ThreatDrivenAllianceReversal",
+        "YuanHuanLateHan",
+        "zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc",
+        "zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd"
+      ]
+    },
     {
       "id": "36295a7f803925f6d35a42dfb314e41680d8a568745b2c06627b3e1dd2e192b3",
       "primary_topic": "governance-and-institutions",

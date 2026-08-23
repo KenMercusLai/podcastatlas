@@ -4,15 +4,15 @@ generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
 last_updated: 2026-08-23
-as_of_overview_commit: b584e94806790866a5b885588a74974fcdf2a432
-input_digest: d87f385354ccb03f91d40287de0f2f81bdbade546eb87881c18de12831131445
+as_of_overview_commit: 2a27906f053abfb5431581a85b9be070e8f10bb3
+input_digest: 183c76fe74c113f0e3d16bd4f659c2e8660d20d88bb63ce93c99caaf007fe6f7
 ---
 
 # Business and Markets
 
 ## Current State
 
-The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets.
+The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets. Hanji 1009 adds a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.
 
 ## Cross-source Findings
 
@@ -45,3 +45,13 @@ A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the t
 **Qualifications:**
 
 - These sources do not establish one universally optimal portfolio or trading rule.
+
+### Reputation Protects Future Talent Access
+
+Hanji 1009 extends the topic's trust logic into talent access: [[ReputationConstrainedTalentProtection]] and [[TalentAttractionThroughRespect]] frame [[CaoCao]]'s decision to spare [[LiuBei]] as protection of future recruitment credibility.
+
+**Evidence:** [[ReputationConstrainedTalentProtection]], [[TalentAttractionThroughRespect]], [[CaoCao]], [[LiuBei]]
+
+**Qualifications:**
+
+- This is an analogical bridge from a late-Han political source into the business-and-markets topic; it should not be read as evidence about a modern commercial market by itself.

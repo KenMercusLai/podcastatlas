@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5169
+wiki_total_pages: 5172
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "RepublicanMemoryAgainstDictatorship"
     title: "Republican Memory Against Dictatorship / 反独裁的共和记忆"
     url: "/wiki/concepts/republicanmemoryagainstdictatorship/"
+  - key: "ReputationConstrainedTalentProtection"
+    title: "Reputation-Constrained Talent Protection / 名声约束下的人才保护"
+    url: "/wiki/concepts/reputationconstrainedtalentprotection/"
   - key: "RerankingModels"
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"

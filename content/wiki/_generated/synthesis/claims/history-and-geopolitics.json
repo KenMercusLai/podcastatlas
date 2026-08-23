@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-alliance-reversal-is-reputation-constrained",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 1009's Liu Bei, Lü Bu, Cao Cao, Guo Jia, and Yuan Huan sequence.",
+        "The episode's masculinity and Dunning-Kruger readings are retained as interpretive frames, not as independent proof of inner motive."
+      ],
+      "statement": "Hanji 1009 treats late-Han alliance movement as a reputation problem: [[ThreatDrivenAllianceReversal]] pushes [[LiuBei]] from [[LyuBu]] toward [[CaoCao]], [[GuoJia]] frames [[ReputationConstrainedTalentProtection]] as necessary for future talent reception, and [[YuanHuanLateHan]] refuses [[MoralDisengagementRationalization]] that would launder betrayal through slander.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ThreatDrivenAllianceReversal",
+        "LiuBei",
+        "LyuBu",
+        "CaoCao",
+        "GuoJia",
+        "ReputationConstrainedTalentProtection",
+        "YuanHuanLateHan",
+        "MoralDisengagementRationalization"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-liu-biao-local-order-has-strategic-ceiling",
       "qualifications": [
         "This claim is source-scoped to Hanji 1010's Liu Biao assessment and the host's answer to the pretty-fool framing.",
@@ -148,6 +168,6 @@
       ]
     }
   ],
-  "summary": "The history-and-geopolitics input now links seven kinds of historical change: Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
+  "summary": "The history-and-geopolitics input now links eight kinds of historical change: Hanji 1009 adds late-Han alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
   "topic_id": "history-and-geopolitics"
 }

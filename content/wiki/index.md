@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？](sources/zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc.md) — 芮淇讲透资治通鉴 episode on Lü Bu attacking Liu Bei after his force grows, Liu Bei fleeing to Cao Cao, Guo Jia's advice not to kill a shelter-seeking hero, and Yuan Huan's refusal to abuse Liu Bei for Lü Bu.
 - [《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？](sources/zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd.md) — 芮淇讲透资治通鉴 episode on Liu Biao's 196 CE absorption of Zhang Ji's remnants after Rangcheng, Jia Xu's move from Duan Wei to Zhang Xiu, and Liu Biao as a capable defensive Jingzhou governor with a strategic ceiling.
 - [《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人](sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva.md) — 芮淇讲透资治通鉴 episode on 祢衡's talent, public counter-humiliation of Cao Cao, transfer to Liu Biao and Huang Zu, and the source-scoped borrowed-knife killing lesson about reputation, delegated violence, and survival judgment.
 - [《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事](sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh.md) — 芮淇讲透资治通鉴 episode setting up the Wancheng disaster through Cao Cao's 197 CE southern campaign, Zhang Xiu's Jia Xu-advised surrender, Zhang Ji's widow Lady Zou, and the trust/status breach before Hanji 1013.
@@ -1329,6 +1330,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [袁涣 / Yuan Huan (late Han)](entities/YuanHuanLateHan.md) — Late-Han official who refuses Lü Bu's demand to write an abusive letter against Liu Bei, blocking a moral rationalization of betrayal.
 - [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
 - [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general whose suspicious courtesy toward Jia Xu makes him a survival-risk contrast before Jia Xu joins Zhang Xiu.
 - [穰城 / Rangcheng](entities/Rangcheng.md) — Nanyang city where Zhang Ji dies attacking in Hanji 1010, opening Liu Biao's mourning-framed absorption of the remaining troops.
@@ -1352,7 +1354,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — Cao Cao's original wife and Cao Ang's foster mother; Hanji 1014 ties Cao Ang's death to the household rupture.
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
-- [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose Hanji 1015 sequencing advice treats Yuan Shao's Gongsun Zan campaign as a window to remove Lü Bu first.
+- [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose Hanji 1009 advice protects Liu Bei for reputation reasons and whose Hanji 1015 sequencing advice treats Yuan Shao's Gongsun Zan campaign as a window to remove Lü Bu first.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official sent to Chang'an in Hanji 1015 to stabilize Guanzhong by persuading Ma Teng, Han Sui, and related western forces.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Major Guanzhong military leader who submits after Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Major Guanzhong military leader paired with Ma Teng in Hanji 1015's western rear-stabilization branch.
@@ -1378,7 +1380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Sun Ce's father, disambiguated from the modern researcher page, whose Wu Cheng marquis title is inherited in Hanji 1019.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
 - [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Yuan Shu's assassin who uses false surrender to kill Liu Chong and Luo Jun.
-- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose Hanji 1016-1019 branch combines marriage-alliance reversal, "轻于去就", tactical coalition-breaking, unstable trust, and ignored loyal advice.
+- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch now runs from the Hanji 1009 attack on Liu Bei and Yuan Huan coercion case into marriage-alliance reversal, "轻于去就", tactical coalition-breaking, unstable trust, and ignored loyal advice.
 - [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose disciplined 陷阵营 and ignored warning sharpen the Hanji 1018 personnel-judgment failure.
 - [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun through troop transfer, command dependence, and later betrayal risk.
 - [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose unsupported imperial claim, failed Lü Bu marriage alliance, coalition failure, Chen-state predation, and Hanji 1020 diagnosis show misread momentum, broken trust, and talent loss.
@@ -1606,7 +1608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
 - [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
 - [张飞 / Zhang Fei](entities/ZhangFei.md) — Three Kingdoms figure used as the compact example of drunkenly losing Xuzhou and harming Liu Bei's base.
-- [刘备 / Liu Bei](entities/LiuBei.md) — Three Kingdoms leader whose Xuzhou base is lost after Zhang Fei's drunken failure in Qinji 131-2.
+- [刘备 / Liu Bei](entities/LiuBei.md) — Three Kingdoms leader whose branch includes Zhang Fei's Xuzhou loss, flight from Lü Bu to Cao Cao in Hanji 1009, and later anti-Yuan-Shu legitimacy pressure.
 - [李渊 / Li Yuan (Tang)](entities/LiYuanTang.md) — Future Tang founder whose Jinyang-palace drinking exposure is framed as a rebellion trigger, disambiguated from Warring States Li Yuan.
 - [李世民 / Li Shimin](entities/LiShimin.md) — Li Yuan's son, presented with Pei Ji as converting a drunken palace exposure into a rebellion argument.
 - [裴寂 / Pei Ji](entities/PeiJi.md) — Banquet organizer in the Jinyang-palace story who turns drink, palace women, and imperial risk into pressure on Li Yuan.
@@ -1666,7 +1668,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
 - [吕雉 / Lu Zhi](entities/LuZhi.md) — Lu Gong's daughter, Liu Bang's wife, and later regency figure whose Lu-family kingship politics frame Chen Ping, Wang Ling, and Zhou Bo in Hanji 150 part 3.
 - [萧何 / Xiao He](entities/XiaoHe.md) — Liu Bang's administrative anchor who captures Qin records, argues for Hanzhong base-building, and pursues Han Xin as "国士无双."
-- [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base, where county-office relationships, Lu Gong's banquet, and the Pei Gong uprising converge.
+- [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base and Pei Gong uprising setting, later expanded by Hanji 1009 as Liu Bei's Xiaopei regrouping point.
 - [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
 - [田儋 / Tian Dan (Qin Rebel)](entities/TianDanQinRebel.md) — Qi-region anti-Qin rebel leader, disambiguated from Warring States general Tian Dan / 田单.
 - [刘太公 / Liu Taigong](entities/LiuTaigong.md) — Liu Bang's father, used by Qinji 128-6 to sketch Liu Bang's family background and later 太上皇 honor.
@@ -2155,7 +2157,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
-- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include Wancheng security failure, Chen Deng's Lü Bu appraisal, Han Yin's execution, Sun Ce title recognition, Yuan Shu diagnosis, and Yang Biao court-risk handling.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include sparing Liu Bei for reputation, Wancheng security failure, Chen Deng's Lü Bu appraisal, Han Yin's execution, Sun Ce title recognition, Yuan Shu diagnosis, and Yang Biao court-risk handling.
 - [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose court order still assigns recognized titles to powers like Yuan Shao while Cao Cao uses that legitimacy against Yuan Shu.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
@@ -8148,6 +8150,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.
+- [Reputation-Constrained Talent Protection / 名声约束下的人才保护](concepts/ReputationConstrainedTalentProtection.md) — Hanji 1009 Guo Jia/Cao Cao pattern where killing a dangerous but shelter-seeking hero would damage the camp's ability to attract capable people.
+- [Moral Disengagement Rationalization / 道德推脱式自我合理化](concepts/MoralDisengagementRationalization.md) — Hanji 1009 pattern where Lü Bu seeks public abuse of Liu Bei to justify betrayal and Yuan Huan refuses to participate.
 - [丧礼化收编 / Mourning-Framed Military Absorption](concepts/MourningFramedMilitaryAbsorption.md) — Hanji 1010 pattern where Liu Biao turns Zhang Ji's death from a victory celebration into mourning language that lets leaderless troops submit without public humiliation.
 - [保境安民式守成治理 / Defensive Local Governance](concepts/DefensiveLocalGovernance.md) — Hanji 1010 Liu Biao pattern where real local stability, scholar attraction, and ritual restraint protect Jingzhou but do not equal conquest-level strategic capacity.
 - [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1012-1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.

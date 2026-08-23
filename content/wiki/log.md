@@ -10621,3 +10621,11 @@ Added source page for Hanji 1010: Liu Biao's 196 CE handling of Zhang Ji's death
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？
+
+Added source page for Hanji 1009: Lü Bu attacking Liu Bei after Liu Bei's force grows, Liu Bei fleeing to Cao Cao, Guo Jia's argument that killing a shelter-seeking hero would damage Cao Cao's talent reputation, and Yuan Huan's refusal to write an abusive letter against Liu Bei. Created Yuan Huan (late Han), Threat-Driven Alliance Reversal, Reputation-Constrained Talent Protection, and Moral Disengagement Rationalization; updated overview, index, Liu Bei, Lü Bu, Cao Cao, Guo Jia, Pei County/Xiaopei, Talent Attraction Through Respect, and Dunning-Kruger Effect. No settled contradiction found; kept the episode's masculinity, threat-response, and Dunning-Kruger psychology as source-scoped interpretation.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

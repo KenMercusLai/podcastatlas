@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5169
+wiki_total_pages: 5172
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "ThirdPartyWealthPlatformRisk"
     title: "Third-Party Wealth Platform Risk"
     url: "/wiki/concepts/thirdpartywealthplatformrisk/"
+  - key: "ThreatDrivenAllianceReversal"
+    title: "Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转"
+    url: "/wiki/concepts/threatdrivenalliancereversal/"
   - key: "ThreatenedDefectionLeverage"
     title: "Threatened Defection Leverage / 投敌威胁式求援"
     url: "/wiki/concepts/threateneddefectionleverage/"

@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: c18c64d1b1c1d285d7346c5a519539e98f491c98
-input_digest: 931a4ed493f58802b736c13c2f0a8968a0a5275b6ed39c645d844a684997259c
+as_of_overview_commit: 2a27906f053abfb5431581a85b9be070e8f10bb3
+input_digest: df0d62c309e8805cd7153adcab0bb7d8089317d731c7041ed23815981f33e420
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input now links seven kinds of historical change: Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input now links eight kinds of historical change: Hanji 1009 adds late-Han alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
+
+### Late Han Alliance Reversal Is Reputation Constrained
+
+Hanji 1009 treats late-Han alliance movement as a reputation problem: [[ThreatDrivenAllianceReversal]] pushes [[LiuBei]] from [[LyuBu]] toward [[CaoCao]], [[GuoJia]] frames [[ReputationConstrainedTalentProtection]] as necessary for future talent reception, and [[YuanHuanLateHan]] refuses [[MoralDisengagementRationalization]] that would launder betrayal through slander.
+
+**Evidence:** [[ThreatDrivenAllianceReversal]], [[LiuBei]], [[LyuBu]], [[CaoCao]], [[GuoJia]], [[ReputationConstrainedTalentProtection]], [[YuanHuanLateHan]], [[MoralDisengagementRationalization]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1009's Liu Bei, Lü Bu, Cao Cao, Guo Jia, and Yuan Huan sequence.
+- The episode's masculinity and Dunning-Kruger readings are retained as interpretive frames, not as independent proof of inner motive.
 
 ### Late Han Liu Biao Local Order Has Strategic Ceiling
 
