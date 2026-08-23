@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6999
+wiki_total_pages: 7007
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "GeckoRobotics"
     title: "Gecko Robotics"
     url: "/wiki/entities/geckorobotics/"
+  - key: "GeelyAutomobile"
+    title: "Geely Automobile / 吉利汽车"
+    url: "/wiki/entities/geelyautomobile/"
   - key: "Gemini"
     title: "Gemini"
     url: "/wiki/entities/gemini/"

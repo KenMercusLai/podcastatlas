@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？](sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138.md) — 声动早咖啡 episode on Whatnot, Western live-shopping fit, collectible auctions, card breaks, gamified retention, overspending risk, and short updates on Geely, ByteDance-MPA copyright protection, Proya/Ulta, and Damai's toy-IP move.
 - [151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！](sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u.md) — 张小珺Jùn episode with Su Tinghao on AI self-study, ICML 2026 attention research, AI-native school use, job and meaning anxiety, AI companionship, and happiness as a life anchor.
 - [Getting entrepreneurial in Korea (Summer School)](sources/getting-entrepreneurial-in-korea-summer-school.md) — Planet Money Summer School episode on South Korea's development playbook, export discipline, Bangladesh's garment knowledge transfer, flying-geese industrialization, and North Korea's constrained donju entrepreneurship.
 - [【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态 | S9E41](sources/zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714.md) — What's Next replay with Dong Kai on Zhuque-3's 2025 recovery failure, 2026 Yao-2 success, reuse-first design, recovery-distance payload tradeoffs, and launch-cadence economics.
@@ -1364,6 +1365,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Whatnot](entities/Whatnot.md) — Live-shopping marketplace that fits Western demand around collectibles, fast auctions, card breaks, and room-level rewards.
+- [Geely Automobile / 吉利汽车](entities/GeelyAutomobile.md) — Chinese automaker whose source-scoped governance update links Li Shufu, An Conghui, and Zeekr integration.
+- [Li Shufu / 李书福](entities/LiShufu.md) — Geely founder who steps down as chair in the source's governance update.
+- [An Conghui / 安聪慧](entities/AnConghui.md) — Geely executive succeeding Li Shufu as chair in the source.
+- [Zeekr / 极氪](entities/Zeekr.md) — Geely EV brand and revenue contributor tied to integration pressure in the source.
+- [Proya / 珀莱雅](entities/Proya.md) — Chinese cosmetics company normalized cautiously from the transcript's "博莱亚" beauty-channel item.
+- [Ulta Beauty](entities/UltaBeauty.md) — U.S. beauty retailer normalized cautiously from the transcript's "AltoBeauty" channel item.
+- [好运连得 / Haoyun Liande](entities/HaoyunLiande.md) — Damai Entertainment designer-toy brand tied to Alibaba's IP-led retail expansion.
 - [Su Tinghao / 苏廷昊](entities/SuTinghao.md) — Teenage AI researcher whose source-described high-school attention paper was accepted by ICML 2026.
 - [International Conference on Machine Learning / ICML](entities/InternationalConferenceOnMachineLearning.md) — AI research conference that appears as Su Tinghao's paper venue and social research setting in episode 151.
 - [German Swiss International School / 香港德瑞国际学校](entities/GermanSwissInternationalSchool.md) — Hong Kong international-school context for Su Tinghao's AI-native self-study path.
@@ -8367,6 +8376,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Live Auction Commerce](concepts/LiveAuctionCommerce.md) — Real-time video marketplace format where sellers use fast auctions, chat, countdowns, and feedback to sell nonstandard goods.
+- [Online Card Breaking](concepts/OnlineCardBreaking.md) — Live trading-card format where buyers purchase shares before sealed cards are opened and allocated by stated rules.
+- [Gambling-Adjacent Commerce Design](concepts/GamblingAdjacentCommerceDesign.md) — Commerce risk pattern where uncertainty, rapid repeat decisions, social competition, and rare rewards resemble gambling mechanics.
 - [AI-Native Youth Research](concepts/AINativeYouthResearch.md) — Pattern where teenagers use AI tools, public research resources, and small experiments to enter frontier-adjacent AI work.
 - [Attention Projection Residuals](concepts/AttentionProjectionResiduals.md) — Source-scoped attention modification Su Tinghao describes, extending value residual learning into Q/K/V projection residual paths.
 - [AI Existential Meaning Anxiety](concepts/AIExistentialMeaningAnxiety.md) — Youth-facing anxiety that AI may overtake careers, learning missions, and contribution narratives, answered through agency, connection, and present-life anchors.

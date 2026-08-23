@@ -2,13 +2,15 @@
 title: "AI Content Licensing"
 type: concept
 tags: [ai, media, publishing, licensing]
-sources: [all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, tech-20260817-tech-pod-128-tech-20260817-tech-pod-128, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-08-20
+sources: [buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, tech-20260817-tech-pod-128-tech-20260817-tech-pod-128, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # AI Content Licensing
 
 [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds the film-and-franchise version through [[BlackForestLabs|Black Forest Labs]]. [[RobinRombach|Robin Rombach]] says public tools block certain protected IP while the company works with some IP holders on models, making licensing a user-facing creation boundary rather than only a training-data deal.
+
+[[buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138]] adds a rights-protection agreement branch through [[ByteDance]] and the [[MotionPictureAssociation]]. The source says the parties agreed to strengthen Hollywood IP protection in AI video and image generation after C-DANCE/[[Seedance]]-style outputs raised recognizable likeness and film-IP concerns.
 
 [[tech-20260817-tech-pod-128-tech-20260817-tech-pod-128]] adds the music-rights version through [[Suno]]. The source says [[UniversalMusicGroup]] and [[SonyMusic]] remain in active lawsuits with Suno, while [[WarnerMusicGroup]] has settled and is working with the company, making music AI a case where licensing, settlement, litigation, and partnership can happen at the same time.
 
@@ -28,6 +30,7 @@ The source frames licensing as both data supply and publisher survival strategy.
 - Archive blocking can be a defensive move when publishers do not trust that informal crawler norms or public-interest archives will prevent commercial AI reuse.
 - In music, licensing can also be reputation work because artist-facing programs are judged against whether training data and rights-holder relationships feel legitimate.
 - For film and franchise IP, licensing can move into the product surface: approved models, blocked public prompts, output filters, and fan-creation terms decide what users can make.
+- Rights protection can also be implemented as model or product controls after industry pressure, not only as an upfront data-license payment.
 
 ## Connections
 - [[Meta]] and [[NewsCorp]] - source deal counterparties.
@@ -39,3 +42,4 @@ The source frames licensing as both data supply and publisher survival strategy.
 - [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], [[AIProxyScrapingRisk]], and [[ArchiveAccessTradeoff]] - archive-blocking branch added by Marketplace Tech.
 - [[Suno]], [[UniversalMusicGroup]], [[SonyMusic]], [[WarnerMusicGroup]], [[AITrainingCopyrightDispute]], and [[DigitalMusicLicensing]] - music-rights branch added by Marketplace Tech.
 - [[BlackForestLabs|Black Forest Labs]], [[RobinRombach]], [[IPControlledGenerativeModels]], [[GenerativeMediaControlLayers]], [[TheWaltDisneyCompany|Disney]], and [[StarWars]] - franchise and fan-creation branch added by All-In.
+- [[ByteDance]], [[MotionPictureAssociation]], [[Seedance]], [[VideoModels]], and [[AIContentProvenance]] - rights-protection agreement branch added by 声动早咖啡.

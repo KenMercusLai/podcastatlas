@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6999
+wiki_total_pages: 7007
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "Haodf"
     title: "好大夫在线"
     url: "/wiki/entities/haodf/"
+  - key: "HaoyunLiande"
+    title: "好运连得 / Haoyun Liande"
+    url: "/wiki/entities/haoyunliande/"
   - key: "HansChristianAndersen"
     title: "安徒生 / Hans Christian Andersen"
     url: "/wiki/entities/hanschristianandersen/"

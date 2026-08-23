@@ -2,8 +2,8 @@
 title: "Addictive Interaction Design"
 type: concept
 tags: [design, addiction, behavior, platforms]
-sources: [tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
-last_updated: 2026-08-12
+sources: [buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138, tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+last_updated: 2026-08-24
 ---
 
 # Addictive Interaction Design
@@ -13,6 +13,8 @@ Addictive interaction design is the use of interface, pacing, feedback, friction
 [[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] adds a safety-withholding variant through [[TikTok]]. The episode's key design issue is not only that recommendation feeds can keep users scrolling, but that a safeguard intended to interrupt harmful loops was reportedly withheld from about 15 million U.S. users. That ties addictive-design allegations to [[PlatformSafetyABTesting]], [[FilterBubble]], and [[InternalSafetyResearchExposure]].
 
 The episode's point is not that every engaging product is equivalent to gambling. It is that casinos make visible a toolkit that other products can borrow: convert money into points, reduce exit moments, create near misses, vary rewards, hide long-term loss inside short sessions, and turn a user action into an immediate sensory response.
+
+[[buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138]] adds the commerce version through [[Whatnot]]. The source describes short auction countdowns, one-swipe bids, urgency sounds, winning animations, raffles, membership levels, and [[OnlineCardBreaking]] as features that can increase time spent and repeat purchase while raising [[GamblingAdjacentCommerceDesign]] concerns.
 
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] extends the concept into social-media and AI-companion litigation. [[GaiaBernstein]] says state attorneys general allege [[Meta]] used addictive features to keep young users on [[Facebook]] and [[Instagram]] longer, and she warns that AI companions may reproduce attention-economy risks through anthropomorphism, memory, and sycophancy.
 
@@ -31,6 +33,7 @@ The episode's point is not that every engaging product is equivalent to gambling
 - Digital detox products can respond to addictive design by reintroducing pauses, effort, or inconvenience, but they may also borrow the same engagement mechanics they are trying to counter.
 - Addiction allegations become legally consequential only if plaintiffs connect design mechanics to recognized harms and responsibility.
 - Safety controls can be part of the design analysis when a platform knows how to reduce a harmful engagement pattern but does not apply the control to all users.
+- Commerce design can become addictive when buying decisions are sped up, socialized, and wrapped in uncertain rewards rather than evaluated as separate purchases.
 
 ## Connections
 - [[TikTok]], [[ChaseNasca]], [[PlatformSafetyABTesting]], and [[InternalSafetyResearchExposure]] - withheld-safeguard branch added by Marketplace Tech.
@@ -41,3 +44,4 @@ The episode's point is not that every engaging product is equivalent to gambling
 - [[EricGoldman]], [[PlatformLegalCausation]], and [[InternetLiabilitySpillover]] - litigation and spillover branch added by the February 2026 Marketplace Tech episode.
 - [[StateAGPlatformLitigation]], [[BigTobaccoPlatformAnalogy]], and [[AICompanionAttentionRisk]] - social-media and AI-companion extensions added by Marketplace Tech.
 - [[DigitalDetoxEconomy]], [[ScreenTimeFriction]], [[Clearspace]], and [[TanyaSujohn]] - consumer counter-design branch added by the January 2, 2026 Marketplace Tech episode.
+- [[Whatnot]], [[LiveAuctionCommerce]], [[OnlineCardBreaking]], and [[GamblingAdjacentCommerceDesign]] - live-commerce extension added by 声动早咖啡.

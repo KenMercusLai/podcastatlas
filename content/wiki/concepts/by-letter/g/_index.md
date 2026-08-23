@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5279
+wiki_total_pages: 5282
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "GalvanicReanimationImaginary"
     title: "Galvanic Reanimation Imaginary / 伽伐尼式复活想象"
     url: "/wiki/concepts/galvanicreanimationimaginary/"
+  - key: "GamblingAdjacentCommerceDesign"
+    title: "Gambling-Adjacent Commerce Design"
+    url: "/wiki/concepts/gamblingadjacentcommercedesign/"
   - key: "GameIPLongTail"
     title: "Game IP Long Tail"
     url: "/wiki/concepts/gameiplongtail/"

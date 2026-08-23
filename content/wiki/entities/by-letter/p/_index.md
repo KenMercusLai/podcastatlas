@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6999
+wiki_total_pages: 7007
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "ProShares"
     title: "ProShares"
     url: "/wiki/entities/proshares/"
+  - key: "Proya"
+    title: "Proya / 珀莱雅"
+    url: "/wiki/entities/proya/"
   - key: "PrudhoeBay"
     title: "Prudhoe Bay / 普拉德霍湾"
     url: "/wiki/entities/prudhoebay/"

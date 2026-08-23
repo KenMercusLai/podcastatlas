@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5279
+wiki_total_pages: 5282
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "OnlineAppointmentRegistration"
     title: "Online Appointment Registration"
     url: "/wiki/concepts/onlineappointmentregistration/"
+  - key: "OnlineCardBreaking"
+    title: "Online Card Breaking"
+    url: "/wiki/concepts/onlinecardbreaking/"
   - key: "OnlineCommunityCommercializationFriction"
     title: "Online Community Commercialization Friction / 社区商业化摩擦"
     url: "/wiki/concepts/onlinecommunitycommercializationfriction/"

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: db570d4daf27948bb2336ae11e058e8543c67659
+as_of_overview_commit: a637492f768d8991b7261a4a3015365ef790a0bb
 summary: "Durable value needs capability grounded by workflows, markets, institutions, evidence, physical constraints, and human judgment."
-episode_count: 1356
-source_count: 1356
-paragraph_count: 159
+episode_count: 1357
+source_count: 1357
+paragraph_count: 160
 topic_count: 8
 ---
 
@@ -36,7 +36,7 @@ AI value depends on workflow integration, verification, permissions, product eco
 
 ### Business and Markets
 
-Markets reward repeatable value: distribution, payment proof, operations, trust, valuation discipline, and development-policy discipline decide whether capability or attention lasts.
+Markets reward repeatable value: category fit, distribution, payment proof, operations, trust, valuation discipline, and development-policy discipline decide whether capability or attention lasts.
 
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]].

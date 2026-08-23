@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6999
+wiki_total_pages: 7007
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "AmyWebb"
     title: "Amy Webb"
     url: "/wiki/entities/amywebb/"
+  - key: "AnConghui"
+    title: "An Conghui / 安聪慧"
+    url: "/wiki/entities/anconghui/"
   - key: "AnaLankas"
     title: "Ana Lankas"
     url: "/wiki/entities/analankas/"

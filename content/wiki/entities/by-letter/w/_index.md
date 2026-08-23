@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 6999
+wiki_total_pages: 7007
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "WhatsNextKejiZaozhidao"
     title: "What's Next｜科技早知道"
     url: "/wiki/entities/whatsnextkejizaozhidao/"
+  - key: "Whatnot"
+    title: "Whatnot"
+    url: "/wiki/entities/whatnot/"
   - key: "WhatsApp"
     title: "WhatsApp"
     url: "/wiki/entities/whatsapp/"

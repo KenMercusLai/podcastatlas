@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6999
+wiki_total_pages: 7007
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "Zed"
     title: "Zed"
     url: "/wiki/entities/zed/"
+  - key: "Zeekr"
+    title: "Zeekr / 极氪"
+    url: "/wiki/entities/zeekr/"
   - key: "Zeiss"
     title: "Zeiss"
     url: "/wiki/entities/zeiss/"

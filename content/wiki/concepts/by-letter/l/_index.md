@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5279
+wiki_total_pages: 5282
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "LithiumIronPhosphateBatteries"
     title: "Lithium Iron Phosphate Batteries"
     url: "/wiki/concepts/lithiumironphosphatebatteries/"
+  - key: "LiveAuctionCommerce"
+    title: "Live Auction Commerce"
+    url: "/wiki/concepts/liveauctioncommerce/"
   - key: "LiveMatchAnalytics"
     title: "Live Match Analytics"
     url: "/wiki/concepts/livematchanalytics/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 6999
+wiki_total_pages: 7007
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "UlsterVolunteerForce"
     title: "Ulster Volunteer Force"
     url: "/wiki/entities/ulstervolunteerforce/"
+  - key: "UltaBeauty"
+    title: "Ulta Beauty"
+    url: "/wiki/entities/ultabeauty/"
   - key: "UltraWave"
     title: "Ultra Wave"
     url: "/wiki/entities/ultrawave/"
