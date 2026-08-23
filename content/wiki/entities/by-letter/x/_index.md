@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6825
+wiki_total_pages: 6827
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "XunYue"
     title: "荀悦 / Xun Yue"
     url: "/wiki/entities/xunyue/"
+  - key: "XunYou"
+    title: "荀攸 / Xun You"
+    url: "/wiki/entities/xunyou/"
   - key: "Xingze"
     title: "荥泽 / Xingze"
     url: "/wiki/entities/xingze/"

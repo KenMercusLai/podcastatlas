@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: 39ad9ae8eeea6af2b497e2f98541830c3bcc354d
-input_digest: 4746bd4bdaa43c469d3afc8b419fcf15e01cdaa09ec91464f19b53bfd0517ccb
+as_of_overview_commit: 3d37aaaa6938e6707b8b205a887527b5600e9743
+input_digest: ef4647117b50d8937fa74c78842c9f37cd0ac1c3b7e23f254fbbc165af548a01
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1007 now adds Kong Rong's Beihai branch: lineage, literary fame, scholarly courtesy, and honored advisers fail as governance when they do not become troops, grain, strategic alignment, or safe feedback. Hanji 1010-1011 then add Liu Biao's defensive Jingzhou capacity and Mi Heng's borrowed-knife removal, while Hanji 1012-1020 widen the late-Han branch into Wancheng command exposure, household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, interest reading, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
+Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1006 now adds Cao Cao's talent-and-law prelude: Guo Jia's move from Yuan Shao to Cao Cao separates courtesy and prestige from usable judgment, while Man Chong's action against Cao Hong's clients makes kinship privilege a standards test. Hanji 1007 then adds Kong Rong's Beihai branch: lineage, literary fame, scholarly courtesy, and honored advisers fail as governance when they do not become troops, grain, strategic alignment, or safe feedback. Hanji 1010-1011 then add Liu Biao's defensive Jingzhou capacity and Mi Heng's borrowed-knife removal, while Hanji 1012-1020 widen the late-Han branch into Wancheng command exposure, household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, interest reading, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
 
 ## Cross-source Findings
 
@@ -128,6 +128,17 @@ Trust and mission are governance assets only when protected by structures: custo
 **Qualifications:**
 
 - The claim joins older ownership structures, AI governance, operating culture, and founder-brand cases under the narrower question of how trust survives pressure.
+
+### Late Han Talent And Law Require Usable Standards
+
+[[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] frames [[CaoCao]]'s early advantage as a paired talent-and-law system: [[GuoJia]] leaves [[YuanShao]] because prestige and courtesy do not equal usable judgment, while [[ManChong]] executing [[CaoHong]]'s clients creates [[RuleOverKinshipPower]], letting non-clan advisers and officials trust standards more than family access.
+
+**Evidence:** [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar]], [[CaoCao]], [[GuoJia]], [[YuanShao]], [[XunYou]], [[ManChong]], [[CaoHong]], [[RuleOverKinshipPower]], [[TalentAsStateTreasure]], [[TalentAttractionThroughRespect]], [[MeritBasedRewardPunishment]], [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]]
+
+**Qualifications:**
+
+- This is source-scoped to Hanji 1006's interpretation of Guo Jia's camp choice, Xun You's cautious adviser style, and Man Chong's enforcement case.
+- The claim treats Cao Cao's system as a comparative advantage within the episode, not as a general claim that Cao Cao consistently subordinated kinship to law in every later case.
 
 ### Late Han Prestige Without Capacity Collapses Advice
 

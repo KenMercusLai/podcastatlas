@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5176
+wiki_total_pages: 5177
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "RuleIdolatry"
     title: "Rule Idolatry"
     url: "/wiki/concepts/ruleidolatry/"
+  - key: "RuleOverKinshipPower"
+    title: "Rule Over Kinship Power / 法度压过亲缘特权"
+    url: "/wiki/concepts/ruleoverkinshippower/"
   - key: "RuleBoundOverthinking"
     title: "Rule-Bound Overthinking / 规则化过度思考"
     url: "/wiki/concepts/ruleboundoverthinking/"

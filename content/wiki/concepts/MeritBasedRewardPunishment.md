@@ -2,7 +2,7 @@
 title: "Merit-Based Reward and Punishment / 因功赏罚"
 type: concept
 tags: [governance, legalism, statecraft, incentives, pre-qin-history, chu-han]
-sources: [zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-23
 ---
 
@@ -22,6 +22,8 @@ The worn-trousers story extends the principle from appointments to ordinary rewa
 
 Hanji 1014 adds a late-Han battlefield-order version through [[YuJin|于禁]]. In the Wancheng retreat, Yu Jin stops friendly plundering, prepares the camp before defending his own reputation, and is then praised and enfeoffed by [[CaoCao|曹操]]. The source makes reward credible because it follows difficult crisis performance rather than private closeness.
 
+[[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] adds the punishment-side version through [[ManChong|满宠]] and [[CaoHong|曹洪]]. Cao Hong's clients break the law and try to reach protection through kinship, but Man Chong executes them and Cao Cao praises him. The episode links punishment credibility to [[RuleOverKinshipPower|法度压过亲缘特权]]: standards fail if the ruler's close relatives can quietly exempt their dependents.
+
 ## Key Claims
 - A reward loses governing force when it is detached from visible merit.
 - A ruler must apply standards even against the minister who taught them.
@@ -31,9 +33,11 @@ Hanji 1014 adds a late-Han battlefield-order version through [[YuJin|于禁]]. I
 - Hanji 174 adds that merit-based rewards must compare unlike contributions: battlefield action and rear organization can both be merit, but may not rank equally.
 - Hanji 174 part 2 adds that merit-based reward also has to defeat private-enmity suspicion: a disliked recipient may be the clearest proof that the standard is real.
 - Hanji 1014 adds that crisis discipline can become rewardable merit when a commander protects order before self-vindication.
+- Hanji 1006 adds that punishment standards need visible force against kinship privilege, not only against ordinary offenders.
 
 ## Connections
 - [[YuJin|于禁]], [[CaoCao|曹操]], and [[CrisisFirstMilitaryDiscipline|临危先务军纪]] - Hanji 1014 retreat discipline and reward branch.
+- [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]], [[ManChong|满宠]], [[CaoHong|曹洪]], and [[RuleOverKinshipPower|法度压过亲缘特权]] - punishment against kinship-backed offenders as a credibility signal.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[YongChi|雍齿]], [[HostileRecipientRewardSignal|仇敌受封安众]], [[EQianqiu|鄂千秋]], and [[CaoShen|曹参]] - proof that merit can override enmity and that rear contribution can outrank visible fighting.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[XiaoHe|萧何]], [[LiuBang|刘邦]], and [[FoundingMeritHierarchy|建国功臣排序]] - "功狗 / 功人" ranking of battlefield pursuit versus rear organization.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[XiangYu|项羽]], [[ZhongliMo|钟离眜]], and [[RewardAllocationBacklash|分配反噬]] - under-rewarded merit becoming a rumor vulnerability.

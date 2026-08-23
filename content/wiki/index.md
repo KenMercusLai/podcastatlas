@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？](sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar.md) — 芮淇讲透资治通鉴 episode on Guo Jia leaving Yuan Shao for Cao Cao, the Guo Jia/Xun You adviser contrast, and Man Chong's execution of Cao Hong's lawbreaking clients as law-over-kinship governance.
 - [《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！](sources/zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt.md) — 芮淇讲透资治通鉴 episode on Kong Rong's Beihai failure, Zuo Chengzu's killed alliance advice, Liu Yixun's departure, Yuan Tan's attack, and the white-bear psychology opening.
 - [《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？](sources/zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k.md) — 芮淇讲透资治通鉴 episode on Cao Cao's屯田制 as late-Han agricultural logistics, Zao Zhi and Ren Jun's implementation around Xudu, and Lü Bu's辕门射戟 mediation between Yuan Shu's Ji Ling and Liu Bei.
 - [《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？](sources/zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc.md) — 芮淇讲透资治通鉴 episode on Lü Bu attacking Liu Bei after his force grows, Liu Bei fleeing to Cao Cao, Guo Jia's advice not to kill a shelter-seeking hero, and Yuan Huan's refusal to abuse Liu Bei for Lü Bu.
@@ -1361,7 +1362,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — Cao Cao's original wife and Cao Ang's foster mother; Hanji 1014 ties Cao Ang's death to the household rupture.
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
-- [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose Hanji 1009 advice protects Liu Bei for reputation reasons and whose Hanji 1015 sequencing advice treats Yuan Shao's Gongsun Zan campaign as a window to remove Lü Bu first.
+- [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose Hanji 1006 branch explains his move from Yuan Shao to Cao Cao before later reputation-protection and strategic-sequencing advice.
+- [荀攸 / Xun You](entities/XunYou.md) — Low-profile Cao Cao strategist contrasted with Guo Jia as a cautious, secret-keeping adviser who survives through controlled visibility.
+- [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family kinsman whose lawbreaking clients create the Man Chong enforcement case and the law-over-kinship governance signal.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official sent to Chang'an in Hanji 1015 to stabilize Guanzhong by persuading Ma Teng, Han Sui, and related western forces.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Major Guanzhong military leader who submits after Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Major Guanzhong military leader paired with Ma Teng in Hanji 1015's western rear-stabilization branch.
@@ -1369,7 +1372,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
 - [淮南 / Huainan Region](entities/HuainanRegion.md) — Late-Han regional frame around Yuan Shu's Shouchun base, disambiguated from other Huainan kingdom pages.
-- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power formally appointed by Emperor Xian's court in Hanji 1016, contrasting accepted Han-court title order with Yuan Shu's self-claimed imperial title.
+- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power whose prestige and force do not keep Guo Jia in Hanji 1006 and who later receives Han-court recognition in contrast with Yuan Shu's self-claimed title.
 - [金尚 / Jin Shang](entities/JinShang.md) — Late-Han official killed after refusing Yuan Shu's taiwei title, used by Hanji 1016 as a title-risk and survival-pacing caution.
 - [韩胤 / Han Yin (late Han)](entities/HanYinLateHan.md) — Yuan Shu envoy whose Lü Bu marriage mission collapses after Chen Gui's warning, ending with execution at Cao Cao's court.
 - [陈登 / Chen Deng](entities/ChenDeng.md) — Late-Han official whose Hanji 1016-1018 branch moves from Yuan Shu hostage leverage into Cao Cao's Guangling appointment and Lü Bu management.
@@ -1401,7 +1404,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨修 / Yang Xiu](entities/YangXiu.md) — Yang Biao's son and Yuan Shu marriage link in Hanji 1020's court-risk branch.
 - [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose Hanji 1007 Beihai failure, Hanji 1011 Mi Heng recommendation, Hanji 1016 Yuan Shao mission, and Hanji 1020 Yang Biao challenge show prestige, advice, and legitimacy pressure.
 - [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official who joins Kong Rong in warning against torturing Yang Biao.
-- [满宠 / Man Chong](entities/ManChong.md) — Xudu official whose interrogation report gives Cao Cao a release path in the Yang Biao case.
+- [满宠 / Man Chong](entities/ManChong.md) — Severe Cao Cao-side legal official whose Hanji 1006 Cao Hong-client case and Hanji 1020 Yang Biao report both tie enforcement to political trust.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
 - [范齐 / Fan Qi (Lu Wan envoy)](entities/FanQiLuWanEnvoy.md) — Covert messenger sent by Lu Wan to tell Chen Xi to keep resisting so Yan would not face Liu Bang alone.
 - [臧衍 / Zang Yan](entities/ZangYan.md) — Zang Tu's Xiongnu-exiled son whose warning to Zhang Sheng reframes Chen Xi's survival as Yan's buffer against Liu Bang.
@@ -2168,7 +2171,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
-- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include屯田 grain-statecraft, sparing Liu Bei for reputation, Wancheng security failure, Chen Deng's Lü Bu appraisal, Han Yin's execution, Sun Ce title recognition, Yuan Shu diagnosis, and Yang Biao court-risk handling.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include recruiting Guo Jia, backing Man Chong against Cao Hong's clients,屯田 grain-statecraft, sparing Liu Bei for reputation, Wancheng failure, Chen Deng's Lü Bu appraisal, and Yuan Shu court-risk handling.
 - [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose court order still assigns recognized titles to powers like Yuan Shao while Cao Cao uses that legitimacy against Yuan Shu.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
@@ -8163,6 +8166,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
+- [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Hanji 1006 Man Chong/Cao Hong pattern where Cao Cao backs legal enforcement against kinship-backed clients to discipline clan privilege and reassure officials.
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Hanji 1008 concept for Cao Cao's state-directed agricultural logistics, turning displaced labor, land, offices, and storage into campaign grain capacity.
 - [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Hanji 1008辕门射戟 pattern where a bounded public display of force makes rival parties believe intervention is credible enough to withdraw.
 - [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.

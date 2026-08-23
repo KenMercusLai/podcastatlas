@@ -10645,3 +10645,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？
+
+Added source page for Hanji 1006: Guo Jia's departure from Yuan Shao and recognition of Cao Cao, the Guo Jia/Xun You adviser-style contrast, and Man Chong's execution of Cao Hong's lawbreaking clients as law-over-kinship governance. Created Xun You, Cao Hong, and Rule Over Kinship Power; updated overview, index, Cao Cao, Guo Jia, Yuan Shao, Man Chong, Talent as State Treasure, Talent Attraction Through Respect, Xingshiqing Strategic Assessment, Political Survival First, and Merit-Based Reward and Punishment. No settled contradiction found; Guo Jia's forecast list, Xun You's survival-style portrait, and the legal-political reading of Man Chong are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
