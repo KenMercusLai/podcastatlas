@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6827
+wiki_total_pages: 6829
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "YuJi"
     title: "虞姬 / Yu Ji"
     url: "/wiki/entities/yuji/"
+  - key: "YuFan"
+    title: "虞翻 / Yu Fan"
+    url: "/wiki/entities/yufan/"
   - key: "YuanLiaofan"
     title: "袁了凡 / Yuan Liaofan"
     url: "/wiki/entities/yuanliaofan/"

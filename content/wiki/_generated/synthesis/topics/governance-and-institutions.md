@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: 3d37aaaa6938e6707b8b205a887527b5600e9743
-input_digest: ef4647117b50d8937fa74c78842c9f37cd0ac1c3b7e23f254fbbc165af548a01
+as_of_overview_commit: 212fa11c290e0d5e716ebfd0bc891a2ea076a138
+input_digest: b5360d97738e26dd9051b30008a5bf89e907443d53fd73a62dcbc544fef6e1c1
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1006 now adds Cao Cao's talent-and-law prelude: Guo Jia's move from Yuan Shao to Cao Cao separates courtesy and prestige from usable judgment, while Man Chong's action against Cao Hong's clients makes kinship privilege a standards test. Hanji 1007 then adds Kong Rong's Beihai branch: lineage, literary fame, scholarly courtesy, and honored advisers fail as governance when they do not become troops, grain, strategic alignment, or safe feedback. Hanji 1010-1011 then add Liu Biao's defensive Jingzhou capacity and Mi Heng's borrowed-knife removal, while Hanji 1012-1020 widen the late-Han branch into Wancheng command exposure, household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, interest reading, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
+Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1005 now adds late-Han exposure management before the Guo Jia branch: Sun Ce's solo hunting turns the ruler's body into a security boundary, while Cao Cao uses the Xu court, Emperor Xian's appointment surface, and a great-general title concession to reduce conflict with Yuan Shao before adviser recruitment deepens. Hanji 1006 then adds Cao Cao's talent-and-law prelude: Guo Jia's move from Yuan Shao to Cao Cao separates courtesy and prestige from usable judgment, while Man Chong's action against Cao Hong's clients makes kinship privilege a standards test. Hanji 1007 then adds Kong Rong's Beihai branch: lineage, literary fame, scholarly courtesy, and honored advisers fail as governance when they do not become troops, grain, strategic alignment, or safe feedback. Hanji 1010-1011 then add Liu Biao's defensive Jingzhou capacity and Mi Heng's borrowed-knife removal, while Hanji 1012-1020 widen the late-Han branch into Wancheng command exposure, household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, interest reading, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
 
 ## Cross-source Findings
 
@@ -128,6 +128,18 @@ Trust and mission are governance assets only when protected by structures: custo
 **Qualifications:**
 
 - The claim joins older ownership structures, AI governance, operating culture, and founder-brand cases under the narrower question of how trust survives pressure.
+
+### Late Han Exposure And Title Management Precede Talent System
+
+[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] frames late-Han governance as exposure control before talent selection: [[SunCe]]'s solo hunting after taking [[KuaijiCommandery]] creates [[LeaderPersonalExposure]] despite [[YuFan]]'s warning, while [[CaoCao]] consolidates [[Xudu]] by defeating [[YangFengLateHan]], using [[EmperorXianOfHan]]'s appointment surface, and yielding visible rank to [[YuanShao]] as [[StrategicTitleConcession]] before the [[XunYu]], [[XunYou]], and [[GuoJia]] adviser channel develops.
+
+**Evidence:** [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4]], [[SunCe]], [[KuaijiCommandery]], [[LeaderPersonalExposure]], [[YuFan]], [[CaoCao]], [[Xudu]], [[YangFengLateHan]], [[EmperorXianOfHan]], [[YuanShao]], [[StrategicTitleConcession]], [[XunYu]], [[XunYou]], [[GuoJia]], [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]], [[MingqiLegitimacy]]
+
+**Qualifications:**
+
+- This is source-scoped to Hanji 1005's interpretation of Sun Ce's hunting risk, Yu Fan's warning, and Cao Cao's early Xu-court title management.
+- The claim treats Cao Cao's title concession as strategic exposure reduction, not as proof that his control of Emperor Xian's court was consensual or politically neutral.
+- Transcript variants for Xun Yu, Xun You, and Guo Jia are preserved as source-scoped normalization issues rather than new canonical entities.
 
 ### Late Han Talent And Law Require Usable Standards
 

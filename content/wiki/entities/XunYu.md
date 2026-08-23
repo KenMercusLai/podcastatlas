@@ -2,13 +2,17 @@
 title: "荀彧 / Xun Yu"
 type: entity
 tags: [person, late-han, official, strategist, china]
-sources: [zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
 last_updated: 2026-08-23
 ---
 
 # 荀彧 / Xun Yu
 
-荀彧 / Xun Yu enters the wiki through [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] as one of [[CaoCao|曹操]]'s core strategic advisers. He agrees with [[GuoJia|郭嘉]] that [[LyuBu|吕布]] should be handled before a full confrontation with [[YuanShao|袁绍]], and he answers Cao Cao's western worry by arguing that the [[GuanzhongRegion|关中]] generals are fragmented enough to be soothed rather than immediately conquered.
+[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] backfills Xun Yu's early Cao Cao-court role, with a transcript caution. The source's "徐玉" is treated as likely [[XunYu|荀彧]] because the office sequence matches Xun Yu serving as attendant and acting shangshu ling, then recommending [[XunYou|荀攸]] and the Yingchuan figure normalized here as [[GuoJia|郭嘉]].
+
+This makes Xun Yu a personnel channel before he is a strategic-comparison voice in the later ingests. His recommendation helps Cao Cao turn the new [[Xudu|许都]] court from a relocation achievement into an adviser-gathering institution.
+
+[[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] later develops Xun Yu as one of [[CaoCao|曹操]]'s core strategic advisers. He agrees with [[GuoJia|郭嘉]] that [[LyuBu|吕布]] should be handled before a full confrontation with [[YuanShao|袁绍]], and he answers Cao Cao's western worry by arguing that the [[GuanzhongRegion|关中]] generals are fragmented enough to be soothed rather than immediately conquered.
 
 The same episode has Xun Yu recommend [[ZhongYao|钟繇]] for the western assignment. Zhong Yao's later success with [[MaTeng|马腾]] and [[HanSui|韩遂]] makes Xun Yu's role a condition-sensitive judgment about personnel, region, and timing rather than only abstract advice.
 
@@ -20,6 +24,7 @@ The episode's interest is less in Xun Yu's biography than in his position inside
 
 ## Connections
 - [[CaoCao|曹操]] - political order in which Xun Yu is acting.
+- [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[XunYou|荀攸]], [[GuoJia|郭嘉]], and [[Xudu|许都]] - adviser recommendation and transcript-normalization branch.
 - [[GuoJia|郭嘉]], [[TenVictoriesTenDefeats|十胜十败论]], and [[YuanShao|袁绍]] - Hanji 1014 leadership-comparison branch.
 - [[ZhongYao|钟繇]], [[GuanzhongRegion|关中]], [[MaTeng|马腾]], and [[HanSui|韩遂]] - Hanji 1015 strategy and personnel branch.
 - [[LyuBu|吕布]] and [[YuanShao|袁绍]] - threats whose ordering Xun Yu helps assess.

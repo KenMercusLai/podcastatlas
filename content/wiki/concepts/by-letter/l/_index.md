@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5177
+wiki_total_pages: 5179
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "LayoffBuffer"
     title: "Layoff Buffer"
     url: "/wiki/concepts/layoffbuffer/"
+  - key: "LeaderPersonalExposure"
+    title: "Leader Personal Exposure / 领导者轻身涉险"
+    url: "/wiki/concepts/leaderpersonalexposure/"
   - key: "LeadingIncumbentDisadvantage"
     title: "Leading Incumbent Disadvantage"
     url: "/wiki/concepts/leadingincumbentdisadvantage/"

@@ -2,7 +2,7 @@
 title: "Political Survival First / 安全第一政治生存"
 type: concept
 tags: [politics, statecraft, risk, han, survival]
-sources: [zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
+sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
 last_updated: 2026-08-23
 ---
 
@@ -13,6 +13,8 @@ Political survival first / 安全第一政治生存 is the rule [[zizhi-tongjian
 The concept is not simple cowardice. In the episode's reading, Chen Ping survives because he keeps room to maneuver, reads human danger, avoids irreversible commitments when the power field is unclear, and shifts only when the dominant structure has actually changed. His conduct under [[LuZhi|吕雉]] is therefore kept source-scoped as tactical ambiguity rather than settled proof that he belongs to the Lu faction.
 
 The concept also explains why "good" and "effective" diverge in this source. Chen Ping can look slippery, morally compromised, and cold, yet the same discretion lets him remain alive long enough to help [[ZhouBo|周勃]] and the Liu-family restoration after Lu Zhi's death. Survival-first politics preserves agency by limiting exposure.
+
+[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] adds a ruler-body version through [[SunCe|孙策]]. [[YuFan|虞翻]] warns that Sun Ce's rank and mission make solo hunting different from ordinary recreation: if guards cannot prepare and followers cannot keep up, personal pleasure turns into political exposure. This branch is captured more narrowly as [[LeaderPersonalExposure|领导者轻身涉险]].
 
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] makes the discipline more concrete. Chen Ping avoids visible factional power under Liu Bang, uses [[TacticalDelayRiskTransfer|延时转责式政治化解]] in the [[FanKuai|樊哙]] affair, performs loyalty before [[LuZhi|吕雉]] after Liu Bang's death, and later hides his tie to Zhou Bo until the anti-Lu opportunity exists. The source's survival claim is therefore not passive endurance; it is controlled exposure until timing makes action possible.
 
@@ -31,6 +33,7 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] makes that Jia Xu contrast concrete. Jia Xu leaves [[DuanWeiLateHan|段煨]] despite good treatment because he reads Duan Wei's suspicion and Jia Xu's own prestige as a future risk, then moves to [[ZhangXiu|张绣]] because Zhang Xiu needs the advice more. Survival-first judgment here means evaluating host incentives, not only current hospitality.
 
 ## Key Claims
+- Hanji 1005 adds that survival discipline can apply directly to a leader's body, movement, and guard boundary, not only to factional alignment.
 - Hanji 1006 adds that a strategist can preserve influence by controlling visibility, secrecy, and self-exposure rather than seeking dramatic credit.
 - Hanji 1007 adds that refusing dependence can be a survival failure when local capacity is insufficient, and that advisers may preserve themselves by leaving once correction becomes punishable.
 - Hanji 1011 adds that talent without self-protection can be actively weaponized by stronger actors through indirect danger routing.
@@ -45,6 +48,7 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 - Survival can require visible compliance, feigned distance from allies, and delay of irreversible orders until the authority field changes.
 
 ## Connections
+- [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[SunCe|孙策]], [[YuFan|虞翻]], and [[LeaderPersonalExposure|领导者轻身涉险]] - ruler-body and personal-security branch.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[PowerExitTrap|权力退场困境]] - negative contrast where battlefield genius lacks timely court-survival judgment.
 - [[ChenPing|陈平]] - source case.
 - [[LuZhi|吕雉]], [[ZhouBo|周勃]], and [[WangLingHanMinister|王陵]] - regency-period comparison set.

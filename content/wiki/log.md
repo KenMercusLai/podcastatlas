@@ -10653,3 +10653,11 @@ Added source page for Hanji 1006: Guo Jia's departure from Yuan Shao and recogni
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？
+
+Added source page for Hanji 1005: Sun Ce's post-Kuaiji solo-hunting risk, Yu Fan's warning that leaders cannot casually shed protective boundaries, Cao Cao's attack on Yang Feng after the Xu relocation, Yuan Shao's title resentment, and Cao Cao's strategic concession of the great-general title while beginning the Xun Yu/Xun You/Guo Jia adviser channel. Created Yu Fan, Wang Lang (late Han), Leader Personal Exposure, and Strategic Title Concession; updated overview, index, Sun Ce, Kuaiji Commandery, Yang Feng (late Han), Yuan Shao, Cao Cao, Emperor Xian of Han, Xudu, Xun Yu, Xun You, Guo Jia, and Political Survival First. No settled contradiction found; normalized transcript variants "徐玉", "徐悠", and "过家" cautiously as Xun Yu, Xun You, and Guo Jia.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

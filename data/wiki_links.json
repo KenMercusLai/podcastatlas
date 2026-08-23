@@ -24803,6 +24803,10 @@
     "title": "乐毅 / Le Yi",
     "url": "/wiki/entities/leyi/"
   },
+  "LeaderPersonalExposure": {
+    "title": "Leader Personal Exposure / 领导者轻身涉险",
+    "url": "/wiki/concepts/leaderpersonalexposure/"
+  },
   "LeadingIncumbentDisadvantage": {
     "title": "Leading Incumbent Disadvantage",
     "url": "/wiki/concepts/leadingincumbentdisadvantage/"
@@ -40527,6 +40531,10 @@
     "title": "Strategic Retreat Base-Building / 退让式根据地经营",
     "url": "/wiki/concepts/strategicretreatbasebuilding/"
   },
+  "StrategicTitleConcession": {
+    "title": "Strategic Title Concession / 战略性名位让步",
+    "url": "/wiki/concepts/strategictitleconcession/"
+  },
   "StrategicUnpredictability": {
     "title": "Strategic Unpredictability",
     "url": "/wiki/concepts/strategicunpredictability/"
@@ -44767,6 +44775,10 @@
     "title": "Wang Laichun",
     "url": "/wiki/entities/wanglaichun/"
   },
+  "WangLangLateHan": {
+    "title": "王朗 / Wang Lang (late Han)",
+    "url": "/wiki/entities/wanglanglatehan/"
+  },
   "WangLiQin": {
     "title": "王离 / Wang Li (Qin)",
     "url": "/wiki/entities/wangliqin/"
@@ -47666,6 +47678,10 @@
   "YuChengdong": {
     "title": "Yu Chengdong",
     "url": "/wiki/entities/yuchengdong/"
+  },
+  "YuFan": {
+    "title": "虞翻 / Yu Fan",
+    "url": "/wiki/entities/yufan/"
   },
   "YuFanjun": {
     "title": "余樊君 / Yu Fanjun",
@@ -52042,6 +52058,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4": {
+    "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
   },
   "zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar": {
     "title": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？",

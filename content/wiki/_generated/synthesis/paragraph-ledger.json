@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c71ab78463ab574c96b8e6e95d7497970368ca05d307062d2b4e8402bec11469",
       "1c908fd21d908267de4a107b409c80ec034979ea7689b5270306ae89ab657a7c",
       "adf00627d5be4cfb272de11fb766c9f52649da45289369bf2b3b806c0a8feba6",
       "f1c4fde4377cc40cb30fc15ef315b7b3f66de1c57a811261f4eb8a28081685a8",
@@ -138,11 +139,42 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 136
+    "paragraph_count": 137
   },
-  "overview_commit": "3d37aaaa6938e6707b8b205a887527b5600e9743",
-  "overview_digest": "cf96633079c418e6301edc1bc96b549b29c0bae4fcddb6c1cdd715051226fb22",
+  "overview_commit": "212fa11c290e0d5e716ebfd0bc891a2ea076a138",
+  "overview_digest": "d24b9508cebe1ca3b875215f01c9cb19d85d99e52ed23d75ca08e41eb106daff",
   "paragraphs": [
+    {
+      "id": "c71ab78463ab574c96b8e6e95d7497970368ca05d307062d2b4e8402bec11469",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the immediate prelude to [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] through [[SunCe|孙策]]'s [[KuaijiCommandery|会稽郡]] risk case and [[CaoCao|曹操]]'s early [[Xudu|许都]] title-management branch. [[YuFan|虞翻]] warns Sun Ce that solo hunting in light clothing turns ordinary freedom into [[LeaderPersonalExposure|领导者轻身涉险]], while Cao Cao attacks [[YangFengLateHan|杨奉]], uses [[EmperorXianOfHan|汉献帝]]'s court to manage [[YuanShao|袁绍]], and yields the great-general rank as [[StrategicTitleConcession|战略性名位让步]]. The same source previews the [[XunYu|荀彧]] recommendation channel for [[XunYou|荀攸]] and [[GuoJia|郭嘉]], extending [[PoliticalSurvivalFirst|安全第一政治生存]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[MingqiLegitimacy|名器合法性]] while keeping transcript variants \"徐玉\", \"徐悠\", and \"过家\" source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "EmperorXianOfHan",
+        "GuoJia",
+        "KuaijiCommandery",
+        "LeaderPersonalExposure",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicTitleConcession",
+        "SunCe",
+        "XingshiqingStrategicAssessment",
+        "Xudu",
+        "XunYou",
+        "XunYu",
+        "YangFengLateHan",
+        "YuFan",
+        "YuanShao",
+        "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+        "zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar"
+      ]
+    },
     {
       "id": "1c908fd21d908267de4a107b409c80ec034979ea7689b5270306ae89ab657a7c",
       "primary_topic": "governance-and-institutions",

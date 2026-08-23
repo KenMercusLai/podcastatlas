@@ -2,11 +2,15 @@
 title: "袁绍 / Yuan Shao"
 type: entity
 tags: [person, late-han, warlord, china]
-sources: [zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
 last_updated: 2026-08-23
 ---
 
 # 袁绍 / Yuan Shao
+
+[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] backfills Yuan Shao's early status collision with [[CaoCao|曹操]] after [[EmperorXianOfHan|汉献帝]] reaches [[Xudu|许都]]. The court first reproaches Yuan Shao for having territory and troops but not sending rescue forces, then appoints him taiwei and Marquis of Ye. Yuan Shao resents that Cao Cao still holds the higher great-general title and says Cao Cao is using the emperor to command him.
+
+Cao Cao's answer is [[StrategicTitleConcession|战略性名位让步]]. Rather than make the rank dispute a premature war, Cao Cao yields the great-general title to Yuan Shao and accepts sikong plus acting chariots-and-cavalry general. The source presents Yuan Shao here as a status-sensitive stronger rival whose emotional reaction changes Cao Cao's tactical use of titles.
 
 [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] introduces 袁绍 / Yuan Shao as the powerful northern host whom [[GuoJia|郭嘉]] rejects after a short stay. The source says Yuan Shao treats Guo Jia politely, but Guo Jia concludes that he does not understand how to use people, cannot distinguish urgent from secondary matters, and hesitates too much to achieve hegemony.
 
@@ -21,6 +25,7 @@ Hanji 1014 supplies the immediate contrast frame before that sequencing. Yuan Sh
 The page is source-scoped. Hanji 1016 does not narrate Yuan Shao's broader career; it uses the appointment to show that Han-court titles still matter in the late-Han competition. Yuan Shao receives an official place inside the imperial naming order, while Yuan Shu's self-claimed imperial name makes him a target.
 
 ## Connections
+- [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[CaoCao|曹操]], [[EmperorXianOfHan|汉献帝]], and [[StrategicTitleConcession|战略性名位让步]] - early great-general title concession branch.
 - [[GuoJia|郭嘉]] - adviser who leaves Yuan Shao after judging his talent-use and decision-making limits.
 - [[EmperorXianOfHan|汉献帝]] - ruler whose name authorizes Yuan Shao's appointment.
 - [[KongRong|孔融]] - envoy sent with the tally.

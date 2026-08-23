@@ -2,13 +2,15 @@
 title: "郭嘉 / Guo Jia"
 type: entity
 tags: [person, late-han, strategist, china]
-sources: [zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
+sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
 last_updated: 2026-08-23
 ---
 
 # 郭嘉 / Guo Jia
 
-[[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] backfills Guo Jia's entry into [[CaoCao|曹操]]'s camp. The episode says Guo Jia spends only a short time with [[YuanShao|袁绍]] before deciding that Yuan Shao's hospitality and family prestige cannot overcome poor personnel use, weak priority judgment, and hesitation. After discussing the wider field with Cao Cao, both sides recognize a fit, and Cao Cao recommends him as 司空祭酒.
+[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] previews Guo Jia's arrival in [[CaoCao|曹操]]'s adviser system through [[XunYu|荀彧]]'s recommendation. The transcript appears to render his name as "过家"; the wiki normalizes cautiously to Guo Jia because the source places him as an Yingchuan adviser whom Cao Cao joyfully receives and makes military adviser, matching the following Hanji 1006 branch.
+
+[[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] then develops Guo Jia's entry into Cao Cao's camp. The episode says Guo Jia spends only a short time with [[YuanShao|袁绍]] before deciding that Yuan Shao's hospitality and family prestige cannot overcome poor personnel use, weak priority judgment, and hesitation. After discussing the wider field with Cao Cao, both sides recognize a fit, and Cao Cao recommends him as 司空祭酒.
 
 The same source contrasts Guo Jia with [[XunYou|荀攸]]. Guo Jia is the bold, risk-tolerant adviser whose value lies in unconventional prediction and strategic pressure, while Xun You represents cautious secrecy and survival. That pairing makes Guo Jia part of Cao Cao's wider talent system rather than a lone brilliant exception.
 
@@ -26,6 +28,7 @@ The source uses Guo Jia less as a biography than as a strategic-order node. His 
 - [[CaoCao|曹操]] - ruler who recruits him in Hanji 1006 and receives his later advice.
 - [[YuanShao|袁绍]] - earlier host whom Guo Jia rejects as unable to use people.
 - [[XunYou|荀攸]] - contrasting adviser style in Hanji 1006.
+- [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[XunYu|荀彧]], and [[Xudu|许都]] - recommendation and transcript-normalization branch.
 - [[LiuBei|刘备]], [[LyuBu|吕布]], and [[ReputationConstrainedTalentProtection|名声约束下的人才保护]] - Hanji 1009 shelter-and-reputation branch.
 - [[XunYu|荀彧]] - adviser paired with him in the Hanji 1014 comparison and agreeing with the Hanji 1015 sequencing.
 - [[TenVictoriesTenDefeats|十胜十败论]] - leadership-comparison frame attributed to him and Xun Yu in Hanji 1014.
