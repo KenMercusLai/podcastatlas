@@ -2,18 +2,21 @@
 title: "韩暹 / Han Xian (late Han)"
 type: entity
 tags: [person, late-han, military]
-sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-23
 ---
 
 # 韩暹 / Han Xian (late Han)
+
+[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds the earlier emperor-protection context for Han Xian. The episode groups Han Xian and the White Wave / Baibo-linked protectors among the forces that help [[EmperorXianOfHan|汉献帝]] escape Li Jue and Guo Si and return to [[LuoyangLateHan|洛阳]], while also judging that they lack the governance capacity and risk awareness needed to stabilize the court.
 
 韩暹 / Han Xian (late Han) enters the wiki through [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] as one of the outside military actors [[YuanShu|袁术]] draws into the campaign against [[LyuBu|吕布]]. The episode stresses that Han Xian and [[YangFengLateHan|杨奉]] had earlier escorted or protected [[EmperorXianOfHan|汉献帝]], giving Lü Bu a legitimacy hook for persuasion.
 
 Han Xian's source role is a coalition-switching case. Lü Bu's letter reframes service to Yuan Shu as participation in rebellion while promising the material upside of Yuan Shu's supplies. Han Xian then joins Yang Feng in turning against Yuan Shu's commander [[ZhangXunYuanShu|张勋]], making him part of [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] and [[InterestReframingPersuasion|利益重构式说服]].
 
 ## Connections
-- [[YangFengLateHan|杨奉]] - paired actor in the source's defection.
+- [[YangFengLateHan|杨奉]] - paired actor in the emperor-protection and later defection branches.
+- [[LuoyangLateHan|洛阳]] - court return setting in Hanji 1004.
 - [[YuanShu|袁术]] - temporary ally whose campaign loses them.
 - [[LyuBu|吕布]] - persuader and beneficiary of the switch.
 - [[EmperorXianOfHan|汉献帝]] - legitimacy reference used in Lü Bu's letter.

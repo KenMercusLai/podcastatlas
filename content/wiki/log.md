@@ -10661,3 +10661,11 @@ Added source page for Hanji 1005: Sun Ce's post-Kuaiji solo-hunting risk, Yu Fan
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？
+
+Added source page for Hanji 1004: Dong Zhao's advice to move Emperor Xian from ruined Luoyang to Xu, the supply-and-control logic behind Cao Cao's relocation, and Sun Jing's rear-attack plan that lets Sun Ce defeat Wang Lang in Kuaiji. Created Dong Zhao (late Han), Luoyang (late Han), and Sun Jing (late Han); updated overview, index, Cao Cao, Emperor Xian of Han, Xudu, Yang Feng, Han Xian, Sun Ce, Kuaiji Commandery, Wang Lang, Yu Fan, Strategic Capital Relocation, Xingshiqing Strategic Assessment, Political Survival First, Mingqi Legitimacy, and Leader Personal Exposure. No settled contradiction found; Sun Ce's later-death foreshadowing is kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

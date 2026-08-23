@@ -36,6 +36,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses [[SunC
 - [[CaoCao|曹操]], [[YangFengLateHan|杨奉]], [[YuanShu|袁术]], [[Xudu|许都]], and [[EmperorXianOfHan|汉献帝]] - Xu-court consolidation and Yang Feng's failed resistance.
 - [[YuanShao|袁绍]], [[StrategicTitleConcession|战略性名位让步]], [[MingqiLegitimacy|名器合法性]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - title-rank management as a way to defer a premature confrontation.
 - [[XunYu|荀彧]], [[XunYou|荀攸]], [[GuoJia|郭嘉]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - adviser-intake channel that Hanji 1006 develops more fully.
+- [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] - immediate prior episode, giving Dong Zhao's Xu relocation plan and Sun Jing's Kuaiji rear-attack setup.
 - [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] - immediate follow-on episode, giving the fuller Guo Jia/Xun You comparison.
 
 ## Contradictions

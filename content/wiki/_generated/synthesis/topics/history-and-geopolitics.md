@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 2a27906f053abfb5431581a85b9be070e8f10bb3
-input_digest: df0d62c309e8805cd7153adcab0bb7d8089317d731c7041ed23815981f33e420
+as_of_overview_commit: 5a78e029c7c4a86ff327c8c3d931a2e03e1132bb
+input_digest: 972894cd63836ae6a299773d1afac34779ef6a0841c8f8907c59018edb017b2f
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input now links eight kinds of historical change: Hanji 1009 adds late-Han alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input now links nine kinds of historical change: Hanji 1004 adds late-Han relocation and maneuver as condition-reading around Luoyang, Xu, Emperor Xian, Yang Feng, Sun Ce, and Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
+
+### Late Han Control Requires Relocation And Maneuver
+
+[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] makes late-Han control a condition-reading problem before the later Xu-court sequence: [[DongZhaoLateHan]] turns ruined [[LuoyangLateHan]], [[YangFengLateHan]]'s likely reaction, and [[EmperorXianOfHan]]'s supply needs into [[StrategicCapitalRelocation]] toward [[Xudu]], while [[SunJingLateHan]] helps [[SunCe]] break [[WangLangLateHan]]'s [[KuaijiCommandery]] defense through rear attack and deception.
+
+**Evidence:** [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]], [[DongZhaoLateHan]], [[LuoyangLateHan]], [[YangFengLateHan]], [[EmperorXianOfHan]], [[StrategicCapitalRelocation]], [[Xudu]], [[SunJingLateHan]], [[SunCe]], [[WangLangLateHan]], [[KuaijiCommandery]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]], [[LeaderPersonalExposure]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1004's Dong Zhao relocation plan and Sun Jing Kuaiji campaign branch.
+- Sun Ce's later-death foreshadowing is preserved as the episode's risk interpretation, not as a complete causal biography.
 
 ### Late Han Alliance Reversal Is Reputation Constrained
 

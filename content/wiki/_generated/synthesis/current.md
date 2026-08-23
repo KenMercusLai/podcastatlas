@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 212fa11c290e0d5e716ebfd0bc891a2ea076a138
+as_of_overview_commit: 5a78e029c7c4a86ff327c8c3d931a2e03e1132bb
 summary: "The corpus maps durable capability through systems: governance, trust, distribution, verification, evidence, and human judgment across AI, markets, history, health, and work."
-episode_count: 1326
-source_count: 1326
-paragraph_count: 137
+episode_count: 1327
+source_count: 1327
+paragraph_count: 138
 topic_count: 8
 ---
 
@@ -19,9 +19,9 @@ topic_count: 8
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]].
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
-- The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship.
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
+- [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design.
 
@@ -29,54 +29,54 @@ topic_count: 8
 
 ### AI and Technology
 
-Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries. The Hanji 1011 paragraph is present only as a deterministic routing artifact and is kept out of the AI-domain findings.
+Useful AI depends on workflow integration, persistent context, callable tools, verification, distribution, and explicit permission boundaries.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]]. Evidence: [[ContextEngineering]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]].
 - Greater agent autonomy increases the importance of [[AICodingVerification]], [[HumanJudgmentUnderAI]], and [[AgentPermissionBoundaries]] rather than removing human responsibility. Evidence: [[AICodingVerification]], [[HumanJudgmentUnderAI]], [[AgentPermissionBoundaries]].
 
 ### Business and Markets
 
-The business and market sources repeatedly separate attention from durable value: customer pull, distribution, operating capacity, trust, and disciplined risk management determine whether an attractive idea survives contact with real markets. Hanji 1009 adds a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.
+Markets reward attention only when customer pull, distribution, operating capacity, trust, and risk discipline turn demand into durable value.
 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]].
 - A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the trust survives only when operating pace and delivery remain credible. Evidence: [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], [[SustainableGrowthPace]].
 
 ### Culture and Media
 
-The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, and agency rather than treating works only as plots or entertainment objects.
+Cultural works function as experiments in politics, identity, evidence, and agency rather than only as entertainment objects.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
 ### Governance and Institutions
 
-Governance translates power into durable systems: conquest becomes founding order, legal doctrine becomes administration, title claims become legitimacy tests, public symbols become authority, market behavior becomes rule-bound information, and trust becomes a governing asset. Hanji 1005 adds late-Han exposure management before the Guo Jia branch: Sun Ce's solo hunting turns the ruler's body into a security boundary, while Cao Cao uses the Xu court, Emperor Xian's appointment surface, and a great-general title concession to reduce conflict with Yuan Shao before adviser recruitment deepens. Hanji 1006 then adds Cao Cao's talent-and-law prelude, where Guo Jia's move from Yuan Shao separates courtesy from usable judgment and Man Chong's enforcement against Cao Hong's clients makes kinship privilege a standards test. The later Hanji branch continues through Kong Rong's Beihai failure, Liu Biao's bounded defensive order, Mi Heng's delegated removal, Wancheng command exposure, household settlement, strategic sequencing, coalition control, title legitimacy, interest reading, and talent retention.
+Governance converts power into durable systems through founding order, legal controls, title legitimacy, public symbols, market rules, trust, and managed exposure; Hanji 1004-1005 add late-Han relocation, Kuaiji maneuver, Xu-court control, and title-management cases.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-The history-and-geopolitics input now links eight kinds of historical change: Hanji 1009 adds late-Han alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+Historical change appears through condition-reading: Hanji 1004 adds relocation and maneuver, later Hanji sources add alliance, legitimacy, local-order, and leadership-exposure patterns, while older state-building and handset cases show systems shifting around enforceable institutions and ecosystems.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
 
 ### Psychology and Personal Development
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, and status sensitivity matter because confidence, convenience, desire, and ambition can hide fragile assumptions.
+Calibrated judgment matters because trust, authorship, uncertainty, boundaries, role-fit, status, and risk size can hide fragile assumptions.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims become credible when evidence, expert judgment, physical constraints, regulation, and implementation are kept visible instead of being replaced by a technological promise.
+Scientific and climate claims become credible when evidence, expert judgment, physical constraints, regulation, cost, and implementation remain visible.
 
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, designed interaction, and operating systems that preserve human reasoning and career mobility. Hanji 1017 adds a historical analogy for major commitments: course changes are strongest when they are staged, evidence-backed, and context-aware rather than driven by light switching.
+Work and learning benefit from AI only when faster output is paired with goals, communication, verification, context, interaction design, and preserved human reasoning.
 
 - [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design. Evidence: [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], [[EntryLevelAICareerLadderRisk]].
 - [[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding. Evidence: [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[AIShortcutRisk]].

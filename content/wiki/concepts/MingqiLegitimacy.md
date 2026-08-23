@@ -2,7 +2,7 @@
 title: "Mingqi Legitimacy / 名器合法性"
 type: concept
 tags: [legitimacy, status, ritual, symbols, late-han, chinese-history]
-sources: [zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
 last_updated: 2026-08-23
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-23
 Mingqi legitimacy / 名器合法性 enters the wiki through the Hanji 1015-1016 late-Han branch. [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] supplies the initiating case: [[YuanShu|袁术]] declares himself emperor at [[Shouchun|寿春]], names the regime "仲家", renames the [[JiujiangCommandery|九江郡]] office into a [[HuainanRegion|淮南]] capital-style post, and performs imperial ritual. [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] then opens from the principle that "名器" should not be lightly accepted. "名" covers titles, rank, offices, and named political roles; "器" covers the physical objects that make power visible, such as seals, tallies, robes, vehicles, and insignia.
 
 The concept is not about symbols replacing force. Its point is that force becomes more or less usable depending on whether the symbolic order around it is accepted. Yuan Shu claims an imperial name without enough backing reality, so the title becomes a liability. [[EmperorXianOfHan|汉献帝]]'s court, by contrast, still lets [[CaoCao|曹操]] describe the campaign against Yuan Shu as punishment of an illegitimate actor rather than as ordinary warlord rivalry.
+
+[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds the earlier court-site condition for that vocabulary. Once [[CaoCao|曹操]] moves [[EmperorXianOfHan|汉献帝]] from ruined [[LuoyangLateHan|洛阳]] to [[Xudu|许县 / 许都]], the emperor can still appoint, reward, and legitimate, but the effective setting has shifted toward Cao Cao's control.
 
 Hanji 1015 adds the coalition-pressure side of the same title problem. Yuan Shu's name claim forces other actors to protect their own public standing: Cao Cao's Han-court role, [[LiuBei|刘备]]'s仁义 persona, and the opportunistic calculations of [[SunCe|孙策]], [[YuanShao|袁绍]], and [[LyuBu|吕布]] all make non-response costly. This becomes [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] rather than only personal overreach.
 

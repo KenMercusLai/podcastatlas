@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？](sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94.md) — 芮淇讲透资治通鉴 episode on Dong Zhao's advice to move Emperor Xian from ruined Luoyang to Xu, plus Sun Jing's rear-attack plan that lets Sun Ce defeat Wang Lang in Kuaiji.
 - [《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？](sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4.md) — 芮淇讲透资治通鉴 episode on Sun Ce's solo-hunting risk and Yu Fan's warning, plus Cao Cao's Yang Feng campaign, Yuan Shao title concession, and adviser-intake setup.
 - [《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？](sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar.md) — 芮淇讲透资治通鉴 episode on Guo Jia leaving Yuan Shao for Cao Cao, the Guo Jia/Xun You adviser contrast, and Man Chong's execution of Cao Hong's lawbreaking clients as law-over-kinship governance.
 - [《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！](sources/zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt.md) — 芮淇讲透资治通鉴 episode on Kong Rong's Beihai failure, Zuo Chengzu's killed alliance advice, Liu Yixun's departure, Yuan Tan's attack, and the white-bear psychology opening.
@@ -1334,6 +1335,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 1004 plan turns Cao Cao's welcome of Emperor Xian into a supply-grounded move from ruined Luoyang to Xu.
+- [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, weak supplies, and unstable military surroundings make the Xu relocation plausible in Hanji 1004.
+- [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
 - [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao-side late-Han actor whose early Qingzhou victories include taking Beihai from Kong Rong, before the source warns that pride and poor companions erode reputation.
 - [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
 - [左承祖 / Zuo Chengzu](entities/ZuoChengzu.md) — Beihai adviser whose realistic advice to rely on a stronger power is rejected and punished by Kong Rong.
@@ -8678,7 +8682,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.
 - [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.
 - [Generational Family Strategy / 家族代际战略](concepts/GenerationalFamilyStrategy.md) — Zhouji 10 frame for reading Han's destruction of Zheng as a lineage-level, multi-generation project.
-- [Strategic Capital Relocation / 战略性迁都](concepts/StrategicCapitalRelocation.md) — Mechanism by which Han's repeated capital moves show sustained pressure toward Zheng.
+- [Strategic Capital Relocation / 战略性迁都](concepts/StrategicCapitalRelocation.md) — Capital-move pattern where geography, supply, security, and political control reshape the usable center of rule.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes or ungrounded scandal.

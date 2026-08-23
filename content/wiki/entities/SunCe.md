@@ -2,11 +2,15 @@
 title: "孙策 / Sun Ce"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
 last_updated: 2026-08-23
 ---
 
 # 孙策 / Sun Ce
+
+[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds the Kuaiji campaign before the later hunting-risk warning. Sun Ce decides not to clear Yan Baihu and other local strongmen first, judging them lower-priority than [[KuaijiCommandery|会稽郡]]. When [[WangLangLateHan|王朗]] blocks repeated crossings at Guling, Sun Ce accepts [[SunJingLateHan|孙静]]'s detour-and-rear-attack plan, uses camp fires as deception, and forces Wang Lang into flight and surrender.
+
+The same source reads Sun Ce as a high-tempo frontier builder: bold, decisive, and good at surprise, but also impatient and insufficiently guarded. That evaluation prepares the more explicit [[LeaderPersonalExposure|领导者轻身涉险]] lesson in Hanji 1005 rather than resolving Sun Ce's death as a single accident.
 
 [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] backfills Sun Ce's earlier [[KuaijiCommandery|会稽郡]] branch. After defeating [[WangLangLateHan|王朗]], Sun Ce takes the commandery governorship and retains [[YuFan|虞翻]], Wang Lang's merit officer. The episode emphasizes Sun Ce's ability to absorb local personnel and treat Yu Fan as a friend.
 
@@ -21,7 +25,7 @@ The episode also gives Sun Ce an active local-security role. When [[ChenYuWuComm
 [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] mentions Sun Ce only as strategic pressure. The source says [[ChenDeng|陈登]]'s [[GuanglingCommandery|广陵]] base becomes a barrier against Sun Ce's northward movement, but it does not develop Sun Ce's own actions in that branch.
 
 ## Connections
-- [[YuFan|虞翻]], [[WangLangLateHan|王朗]], and [[LeaderPersonalExposure|领导者轻身涉险]] - Hanji 1005 Kuaiji takeover and personal-risk warning.
+- [[SunJingLateHan|孙静]], [[YuFan|虞翻]], [[WangLangLateHan|王朗]], and [[LeaderPersonalExposure|领导者轻身涉险]] - Hanji 1004-1005 Kuaiji takeover, surprise maneuver, and personal-risk warning.
 - [[CaoCao|曹操]] and [[EmperorXianOfHan|汉献帝]] - source of the title and legitimacy package.
 - [[YuanShu|袁术]] and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - Hanji 1015 source-scoped usurpation-response branch.
 - [[KuaijiCommandery|会稽郡]] - commandery governorship attached to Sun Ce in the episode.

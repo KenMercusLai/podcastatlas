@@ -2,11 +2,13 @@
 title: "杨奉 / Yang Feng (late Han)"
 type: entity
 tags: [person, late-han, military]
-sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-23
 ---
 
 # 杨奉 / Yang Feng (late Han)
+
+[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds Yang Feng as the military obstacle [[DongZhaoLateHan|董昭]] expects around [[CaoCao|曹操]]'s plan to move [[EmperorXianOfHan|汉献帝]] from [[LuoyangLateHan|洛阳]] to [[Xudu|许县 / 许都]]. Dong Zhao says Yang Feng has no strong outside support and wants friendship with Cao Cao, so Cao Cao should first send thanks and reassurance before using Luoyang's food shortage as the relocation reason.
 
 杨奉 / Yang Feng (late Han) enters the wiki through [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] as a former emperor-protection actor whose relationship with [[CaoCao|曹操]] breaks after Cao Cao moves [[EmperorXianOfHan|汉献帝]] to [[Xudu|许都]]. The source says Yang Feng had tried to block the move from Liang but arrived too late; Cao Cao later attacks him, Yang Feng flees south to [[YuanShu|袁术]], and Cao Cao occupies Yang Feng's Liang-area camps.
 
@@ -16,7 +18,7 @@ The episode uses Yang Feng to show how quickly a coalition can change sides when
 
 ## Connections
 - [[HanXianLateHan|韩暹]] - paired actor in the source.
-- [[CaoCao|曹操]], [[Xudu|许都]], and [[EmperorXianOfHan|汉献帝]] - Hanji 1005 conflict after the emperor's relocation.
+- [[CaoCao|曹操]], [[DongZhaoLateHan|董昭]], [[LuoyangLateHan|洛阳]], [[Xudu|许都]], and [[EmperorXianOfHan|汉献帝]] - Hanji 1004-1005 conflict around the emperor's relocation.
 - [[YuanShu|袁术]] - temporary coalition leader.
 - [[LyuBu|吕布]] - rival who converts him into an ally.
 - [[InterestReframingPersuasion|利益重构式说服]] and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - concepts grounded by the switch.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f082b46864d0cc242392f4c7e61425d9e6be4aa5cd2414342adf527f7fbecfc8",
       "c71ab78463ab574c96b8e6e95d7497970368ca05d307062d2b4e8402bec11469",
       "1c908fd21d908267de4a107b409c80ec034979ea7689b5270306ae89ab657a7c",
       "adf00627d5be4cfb272de11fb766c9f52649da45289369bf2b3b806c0a8feba6",
@@ -139,11 +140,43 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 137
+    "paragraph_count": 138
   },
-  "overview_commit": "212fa11c290e0d5e716ebfd0bc891a2ea076a138",
-  "overview_digest": "d24b9508cebe1ca3b875215f01c9cb19d85d99e52ed23d75ca08e41eb106daff",
+  "overview_commit": "5a78e029c7c4a86ff327c8c3d931a2e03e1132bb",
+  "overview_digest": "a77071f70c17bb9b712f0d3e620ffa2226fb7a8216fd76f8d582d7094cadd251",
   "paragraphs": [
+    {
+      "id": "f082b46864d0cc242392f4c7e61425d9e6be4aa5cd2414342adf527f7fbecfc8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the immediate prelude to [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] through [[CaoCao|曹操]]'s move from [[LuoyangLateHan|洛阳]] to [[Xudu|许都]] and [[SunCe|孙策]]'s first [[KuaijiCommandery|会稽郡]] campaign. [[DongZhaoLateHan|董昭]] reads Luoyang's ruined supply base and competing military actors as a control failure, then advises Cao Cao to reassure [[YangFengLateHan|杨奉]] and move [[EmperorXianOfHan|汉献帝]] to Xu; [[SunJingLateHan|孙静]] reads [[WangLangLateHan|王朗]]'s Guling defense as a reason for rear attack and deception. The source extends [[StrategicCapitalRelocation|战略性迁都]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[MingqiLegitimacy|名器合法性]], and [[LeaderPersonalExposure|领导者轻身涉险]] while keeping Sun Ce's later-death foreshadowing source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "DongZhaoLateHan",
+        "EmperorXianOfHan",
+        "KuaijiCommandery",
+        "LeaderPersonalExposure",
+        "LuoyangLateHan",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicCapitalRelocation",
+        "SunCe",
+        "SunJingLateHan",
+        "WangLangLateHan",
+        "XingshiqingStrategicAssessment",
+        "Xudu",
+        "YangFengLateHan",
+        "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+        "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4"
+      ]
+    },
     {
       "id": "c71ab78463ab574c96b8e6e95d7497970368ca05d307062d2b4e8402bec11469",
       "primary_topic": "governance-and-institutions",

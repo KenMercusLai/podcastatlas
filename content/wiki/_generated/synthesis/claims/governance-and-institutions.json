@@ -211,24 +211,30 @@
       "global_candidate": false,
       "id": "late-han-exposure-and-title-management-precede-talent-system",
       "qualifications": [
-        "This is source-scoped to Hanji 1005's interpretation of Sun Ce's hunting risk, Yu Fan's warning, and Cao Cao's early Xu-court title management.",
+        "This is source-scoped to Hanji 1004-1005's interpretation of Dong Zhao's relocation plan, Sun Ce's Kuaiji and hunting-risk branch, Yu Fan's warning, and Cao Cao's early Xu-court title management.",
         "The claim treats Cao Cao's title concession as strategic exposure reduction, not as proof that his control of Emperor Xian's court was consensual or politically neutral.",
         "Transcript variants for Xun Yu, Xun You, and Guo Jia are preserved as source-scoped normalization issues rather than new canonical entities."
       ],
-      "statement": "[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] frames late-Han governance as exposure control before talent selection: [[SunCe]]'s solo hunting after taking [[KuaijiCommandery]] creates [[LeaderPersonalExposure]] despite [[YuFan]]'s warning, while [[CaoCao]] consolidates [[Xudu]] by defeating [[YangFengLateHan]], using [[EmperorXianOfHan]]'s appointment surface, and yielding visible rank to [[YuanShao]] as [[StrategicTitleConcession]] before the [[XunYu]], [[XunYou]], and [[GuoJia]] adviser channel develops.",
+      "statement": "[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] and [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] frame late-Han governance as exposure control before talent selection: [[DongZhaoLateHan]] moves [[CaoCao]] from ruined [[LuoyangLateHan]] to [[Xudu]] by treating supply and [[YangFengLateHan]]'s reaction as control problems around [[EmperorXianOfHan]], [[SunJingLateHan]] helps [[SunCe]] break [[WangLangLateHan]]'s [[KuaijiCommandery]] defense before the later [[LeaderPersonalExposure]] warning, and Cao Cao then uses title management around [[YuanShao]] as [[StrategicTitleConcession]] before the [[XunYu]], [[XunYou]], and [[GuoJia]] adviser channel develops.",
       "status": "source-scoped",
       "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
         "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+        "DongZhaoLateHan",
+        "LuoyangLateHan",
         "SunCe",
         "KuaijiCommandery",
         "LeaderPersonalExposure",
         "YuFan",
+        "SunJingLateHan",
+        "WangLangLateHan",
         "CaoCao",
         "Xudu",
         "YangFengLateHan",
         "EmperorXianOfHan",
         "YuanShao",
         "StrategicTitleConcession",
+        "StrategicCapitalRelocation",
         "XunYu",
         "XunYou",
         "GuoJia",
@@ -394,6 +400,6 @@
       ]
     }
   ],
-  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1005 now adds late-Han exposure management before the Guo Jia branch: Sun Ce's solo hunting turns the ruler's body into a security boundary, while Cao Cao uses the Xu court, Emperor Xian's appointment surface, and a great-general title concession to reduce conflict with Yuan Shao before adviser recruitment deepens. Hanji 1006 then adds Cao Cao's talent-and-law prelude: Guo Jia's move from Yuan Shao to Cao Cao separates courtesy and prestige from usable judgment, while Man Chong's action against Cao Hong's clients makes kinship privilege a standards test. Hanji 1007 then adds Kong Rong's Beihai branch: lineage, literary fame, scholarly courtesy, and honored advisers fail as governance when they do not become troops, grain, strategic alignment, or safe feedback. Hanji 1010-1011 then add Liu Biao's defensive Jingzhou capacity and Mi Heng's borrowed-knife removal, while Hanji 1012-1020 widen the late-Han branch into Wancheng command exposure, household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, interest reading, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
+  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1004-1005 now add late-Han exposure management before the Guo Jia branch: Dong Zhao turns Luoyang's failed supply and military setting into a capital-relocation control problem around Emperor Xian, Sun Jing helps Sun Ce break Wang Lang's Kuaiji defense before the later hunting-risk warning, and Cao Cao uses the Xu court, Emperor Xian's appointment surface, and a great-general title concession to reduce conflict with Yuan Shao before adviser recruitment deepens. Hanji 1006 then adds Cao Cao's talent-and-law prelude: Guo Jia's move from Yuan Shao to Cao Cao separates courtesy and prestige from usable judgment, while Man Chong's action against Cao Hong's clients makes kinship privilege a standards test. Hanji 1007 then adds Kong Rong's Beihai branch: lineage, literary fame, scholarly courtesy, and honored advisers fail as governance when they do not become troops, grain, strategic alignment, or safe feedback. Hanji 1010-1011 then add Liu Biao's defensive Jingzhou capacity and Mi Heng's borrowed-knife removal, while Hanji 1012-1020 widen the late-Han branch into Wancheng command exposure, household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, interest reading, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
   "topic_id": "governance-and-institutions"
 }
