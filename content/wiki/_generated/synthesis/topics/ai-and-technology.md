@@ -3,56 +3,95 @@
 generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
-last_updated: 2026-08-23
-as_of_overview_commit: 438a3afbd1f78b6008f90fe92fc9fbee06ca93c9
-input_digest: 668aa9dcd4b0177ac4c17d0e89e2856e15e4b3d7d2a2d5ec780619b6fcd69600
+last_updated: 2026-08-24
+as_of_overview_commit: 4e3caaa18831658d68148ee2bbd1c08fab68b7aa
+input_digest: 9c084c094eb29b1b6666579ec2d09975d96994517d0e76e197867864721a2391
 ---
 
 # AI and Technology
 
 ## Current State
 
-Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries. The Hanji 1011 paragraph is present only as a deterministic routing artifact and is kept out of the AI-domain findings.
+The AI and technology sources converge on a practical pattern: model capability matters only after it is embedded in workflows, interfaces, verification loops, product economics, distribution, and domain-specific context. Agents, enterprise digital employees, AI coding, personal assistants, physical AI, AI-for-science, AI entertainment, and AI investment research all lower some production or analysis costs, but each domain still depends on human judgment, permission boundaries, evidence, market access, and grounded feedback. EP276 adds a cultural edge to the topic: AI can also function as an era-change and anxiety marker inside platform-mediated life, not only as a production tool.
 
 ## Cross-source Findings
 
 ### Workflow Integration Beats Capability Alone
 
-AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]].
+AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation.
 
-**Evidence:** [[ContextEngineering]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]]
+**Evidence:** [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]]
 
 **Qualifications:**
 
-- The strongest evidence comes from software, enterprise deployment, and agent-product sources.
+- The workflow shape differs by setting: enterprise deployment, personal agents, agent-optimized CLIs, routine automation, and service-as-software each require different context and integration surfaces.
 
 ### Verification And Permissions Remain Human Responsibilities
 
-Greater agent autonomy increases the importance of [[AICodingVerification]], [[HumanJudgmentUnderAI]], and [[AgentPermissionBoundaries]] rather than removing human responsibility.
+Greater AI autonomy increases the importance of [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], and [[AgentPermissionBoundaries]] rather than removing human responsibility.
 
-**Evidence:** [[AICodingVerification]], [[HumanJudgmentUnderAI]], [[AgentPermissionBoundaries]]
+**Evidence:** [[AICodingVerification]], [[AIEngineeringThinking]], [[HumanJudgmentUnderAI]], [[DomainExpertAlignment]], [[AgentPermissionBoundaries]], [[DeterministicAuditData]], [[AIInvestmentResearch]], [[HumanRiskOverride]]
 
 **Qualifications:**
 
-- The appropriate boundary depends on task reversibility, data sensitivity, and the quality of observable feedback.
+- The proper boundary depends on task reversibility, observability, data sensitivity, domain stakes, and whether output can be tested or audited.
 
 ### Ai Product Economics Constrain Access
 
-[[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] make consumer AI access a product-design trade-off among free usage, paid tiers, distribution, and heavy-user cost.
+[[AIInferenceCostStructure]], [[AISubscriptionEconomics]], [[ModelProviderToolCompetition]], [[OutcomeBasedAIPricing]], [[ServiceAsSoftware]], and [[AIProductFragmentation]] make AI access and monetization product-design problems, not only capability races.
 
-**Evidence:** [[AIInferenceCostStructure]], [[AISubscriptionEconomics]]
+**Evidence:** [[AIInferenceCostStructure]], [[AISubscriptionEconomics]], [[ModelProviderToolCompetition]], [[OutcomeBasedAIPricing]], [[ServiceAsSoftware]], [[AIProductFragmentation]], [[AIAssistantServiceEntry]], [[AgenticCommerce]], [[ChinaAgentMarketFriction]], [[AIPlusTerminals]]
 
 **Qualifications:**
 
-- Pricing evidence is still concentrated in current consumer and developer-product examples.
+- Pricing and distribution evidence is still concentrated in current consumer assistants, coding tools, enterprise agents, and Chinese platform examples.
+
+### Physical And Science Ai Need World Grounding
+
+Physical AI and AI-for-science need grounded feedback loops: [[EmbodiedAI]], [[CompanionRobots]], [[CausalWorldModels]], [[WorldModels]], [[VisionLanguageActionModels]], [[AIForScience]], and [[AIMaterialsDiscovery]] only become useful when models meet motion, causality, experiments, scale-up, and real users.
+
+**Evidence:** [[EmbodiedAI]], [[CompanionRobots]], [[CausalWorldModels]], [[WorldModels]], [[VisionLanguageActionModels]], [[AIForScience]], [[AIMaterialsDiscovery]], [[MaterialsPipelineCompany]], [[FamilyWorldSimulator]], [[EmotionalInteractionModels]]
+
+**Qualifications:**
+
+- The sources distinguish plausible generated worlds or demonstrations from causal, action-conditioned, experimentally validated, or socially accepted deployment.
+
+### Ai Entertainment And Creator Tools Need Systems
+
+AI entertainment and creator tooling become durable only when generation is embedded in systems such as [[AIInteractiveEntertainment]], [[AIGameIndustrialization]], [[AIInteractiveContentPlatforms]], [[AISimulationContent]], [[AISuperCreators]], [[AIHackathons]], [[BuildingPublic]], and [[VibeCoding]].
+
+**Evidence:** [[AIInteractiveEntertainment]], [[AIGameIndustrialization]], [[AIInteractiveContentPlatforms]], [[AISimulationContent]], [[AISuperCreators]], [[AIHackathons]], [[BuildingPublic]], [[VibeCoding]], [[CustomerPull]], [[AssistiveAI]]
+
+**Qualifications:**
+
+- Generated assets, prototype excitement, and creator enthusiasm still need retention, distribution, state, rules, revenue sharing, accessibility, and follow-up validation.
+
+### Ai Era Change Is Cultural As Well As Technical
+
+EP276 adds that AI can act as an era-change and anxiety signal inside platform-mediated life: [[EraTransitionProximity]], [[VirtualPhysicalLifeBalance]], [[AttentionIndustrialization]], and [[PlatformAffordance]] frame AI as part of changing attention, community, and lived continuity, while EP277 keeps the film-production branch in [[AIVideoProductionWorkflow]] and [[FilmRealityBeyondRealism]].
+
+**Evidence:** [[EraTransitionProximity]], [[VirtualPhysicalLifeBalance]], [[AttentionIndustrialization]], [[PlatformAffordance]], [[FilmClipRemixAfterlife]], [[FilmRealityBeyondRealism]], [[AIVideoProductionWorkflow]], [[JiaZhangke]]
+
+**Qualifications:**
+
+- EP276 does not by itself make a technical claim about AI film production; it uses AI mainly as a sign of approaching era change and as a source of anxiety shaped by virtual versus physical life.
+
+### Ai Investment And Market Claims Require Discipline
+
+AI-related investing claims require market discipline: [[AIEquityValuationRisk]], [[AIIPOValuation]], [[AIInvestmentResearch]], [[InvestmentRiskManagement]], [[IndexReentryDiscipline]], [[QDIIAllocation]], and [[JevonsParadoxInAI]] separate technology adoption from price, access, crowding, liquidity, and downside risk.
+
+**Evidence:** [[AIEquityValuationRisk]], [[AIIPOValuation]], [[AIInvestmentResearch]], [[InvestmentRiskManagement]], [[IndexReentryDiscipline]], [[QDIIAllocation]], [[JevonsParadoxInAI]], [[SoftwareMaintenanceRevenueCompression]], [[EntryLevelAICareerLadderRisk]], [[AIBacklashPolitics]]
+
+**Qualifications:**
+
+- Prediction material remains contested and should be treated as a map of investor assumptions rather than as verified future outcomes.
 
 ### Deterministic Routing Can Surface Off Topic Material
 
-The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], and [[PoliticalSurvivalFirst]] through deterministic routing, but the paragraph concerns late-Han reputation management and delegated violence rather than AI systems.
+The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], and [[CovertPoliticalTechnology]] through deterministic routing, but the paragraph concerns late-Han reputation management and delegated violence rather than AI systems.
 
-**Evidence:** [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]]
+**Evidence:** [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]]
 
 **Qualifications:**
 
 - This is a topic-maintenance note, not an AI-domain finding.
-- Hanji 1011 entered this topic through deterministic one-point overlap; its substantive claim belongs to governance and history.

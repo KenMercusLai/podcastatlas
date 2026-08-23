@@ -10693,9 +10693,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你
+
+Added source page for Talk三联 EP276: Jia Zhangke's response to short-video rediscovery of older film scenes, ordinary-life poetics, the emotional afterlife of the 《山河故人》 dance scene and farewell lines, youth mobility, virtual-versus-physical life, and the claim that an old era recedes because a new era is approaching. Created Zhao Tao, 《山河故人》, 《江湖儿女》, 《天注定》, 《风流一代》, Cui Jian, Film Clip Remix Afterlife, Ordinary Life Poetics, Mobility Farewell Generation, Virtual-Physical Life Balance, and Era Transition Proximity; updated overview, index, Jia Zhangke, and Talk三联. No settled contradiction found; EP276 keeps AI mostly as an era-change and anxiety marker while EP277 carries the AI-cinema production argument.
+
 ## [2026-08-24] ingest | EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能
 
 Added source page for Talk三联 EP277: Jia Zhangke's defense of AI cinema as exploration rather than betrayal of reality, his distinction between realism and responding to the real world, and his view that AI may change film production methods more deeply than the film-to-digital carrier shift. Created Jia Zhangke, Pingyao International Film Festival, and Film Reality Beyond Realism; updated overview, index, Talk三联-adjacent AI film concepts, creative-labor backlash, likeness/copyright/energy concerns, Charlie Chaplin, and Martin Scorsese. No settled contradiction found; the episode qualifies AI-video optimism by keeping mature AI-film aesthetics, production roles, and legal/ethical rules source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

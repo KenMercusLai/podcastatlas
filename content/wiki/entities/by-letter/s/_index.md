@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6840
+wiki_total_pages: 6846
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1241,6 +1241,9 @@ wiki_pages:
   - key: "Shangshu"
     title: "《尚书》 / Shangshu"
     url: "/wiki/entities/shangshu/"
+  - key: "ShanHeGuRen"
+    title: "《山河故人》 / Mountains May Depart"
+    url: "/wiki/entities/shanheguren/"
   - key: "SiddharthaHesse"
     title: "《悉达多》 / Siddhartha"
     url: "/wiki/entities/siddharthahesse/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6840
+wiki_total_pages: 6846
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "JiangHuCongTan"
     title: "《江湖丛谈》 / Jianghu Congtan"
     url: "/wiki/entities/jianghucongtan/"
+  - key: "JiangHuErNv"
+    title: "《江湖儿女》 / Ash Is Purest White"
+    url: "/wiki/entities/jianghuernv/"
   - key: "JiaguwenDeGushi"
     title: "《甲骨文的故事》"
     url: "/wiki/entities/jiaguwendegushi/"

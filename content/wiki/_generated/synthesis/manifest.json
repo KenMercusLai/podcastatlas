@@ -1,33 +1,33 @@
 {
   "content_date": "2026-08-24",
   "corpus": {
-    "episode_count": 1331,
-    "source_count": 1331
+    "episode_count": 1332,
+    "source_count": 1332
   },
   "generated": true,
   "global": {
-    "candidate_digest": "f86a1036a90dd57d630ef45779e7bd8505e1e78384aa8f06d0f0d668e53e3fda",
-    "compacted_at": "2026-08-23T14:33:32.382082Z",
+    "candidate_digest": "0d22ff4ef72b67992ee1db7966cf914f23bb8b07b4e17a78459f953e228b1f9c",
+    "compacted_at": "2026-08-23T14:48:47.362583Z",
     "content_date": "2026-08-24",
     "corpus": {
-      "episode_count": 1331,
-      "source_count": 1331
+      "episode_count": 1332,
+      "source_count": 1332
     },
-    "output_digest": "2d5652cfa1619d0aa7cf97acc36cdf85c3f266bfaf1404cd5daa5bad89f27480",
-    "overview_commit": "d5bbbd54ccef5e9236068103fd46f9842b6c8924",
-    "overview_digest": "58a7d4ce11e7f2d038e9734cb90a98b124a2ed1add3b595679f6f31fc355ab62",
+    "output_digest": "274fff142d00d750d74dd2dad65984f4ae4e23b15230b63087050006c1d61ab9",
+    "overview_commit": "4e3caaa18831658d68148ee2bbd1c08fab68b7aa",
+    "overview_digest": "859191d84271dc4b1324e1b70cd2db2391ccd408d3dc970b71e7f5dc8e5c14d8",
     "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "d5bbbd54ccef5e9236068103fd46f9842b6c8924",
-  "overview_digest": "58a7d4ce11e7f2d038e9734cb90a98b124a2ed1add3b595679f6f31fc355ab62",
-  "paragraph_count": 142,
+  "overview_commit": "4e3caaa18831658d68148ee2bbd1c08fab68b7aa",
+  "overview_digest": "859191d84271dc4b1324e1b70cd2db2391ccd408d3dc970b71e7f5dc8e5c14d8",
+  "paragraph_count": 143,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
-      "claim_digest": "4030e3cde28c7919573199bbd3d49c66c54e1deb56aeb7b76e6e42868225f752",
-      "input_digest": "668aa9dcd4b0177ac4c17d0e89e2856e15e4b3d7d2a2d5ec780619b6fcd69600",
-      "output_digest": "1776d27f91e2787959460845bbc61553463acb1929519957991dcf9ec294740c",
+      "claim_digest": "82ddb54059677983a42115159716c3d3fedc9a2055a2547d3f268e94fd20d9be",
+      "input_digest": "9c084c094eb29b1b6666579ec2d09975d96994517d0e76e197867864721a2391",
+      "output_digest": "78548ee7b5e5b304637b2670ee02f803373a73d676a00e675807f7e841afda6f",
       "title": "AI and Technology"
     },
     "business-and-markets": {

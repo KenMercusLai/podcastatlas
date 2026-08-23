@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6840
+wiki_total_pages: 6846
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "ZhaoKuoMother"
     title: "赵母 / Zhao Kuo's Mother"
     url: "/wiki/entities/zhaokuomother/"
+  - key: "ZhaoTao"
+    title: "赵涛 / Zhao Tao"
+    url: "/wiki/entities/zhaotao/"
   - key: "ZhaoLiehou"
     title: "赵烈侯 / Marquis Lie of Zhao"
     url: "/wiki/entities/zhaoliehou/"

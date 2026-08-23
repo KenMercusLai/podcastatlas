@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5182
+wiki_total_pages: 5187
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "EraTailwindInInvesting"
     title: "Era Tailwind In Investing / 投资时代红利"
     url: "/wiki/concepts/eratailwindininvesting/"
+  - key: "EraTransitionProximity"
+    title: "Era Transition Proximity / 时代远走与新文明靠近"
+    url: "/wiki/concepts/eratransitionproximity/"
   - key: "ERPTrustMoat"
     title: "ERP Trust Moat"
     url: "/wiki/concepts/erptrustmoat/"

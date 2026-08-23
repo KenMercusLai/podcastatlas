@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c65ef3dbf832d317675a2b433e038fc3ffd774f9c65a72160dafa4d46fbaa22b",
       "5a812adda2354fa116abbd4ceeb289347859d235ee63a80cd2cbbb9fb68ab97f",
       "3f1d2cb89b2462a4b2548a48ae235c7a207e6374aa52b275f70538dfb76e1ad1",
       "e1ca143c8028d1d9242fe111015583e9707bdfb6650810af92e0a3a6364b7b45",
@@ -144,11 +145,47 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 142
+    "paragraph_count": 143
   },
-  "overview_commit": "d5bbbd54ccef5e9236068103fd46f9842b6c8924",
-  "overview_digest": "58a7d4ce11e7f2d038e9734cb90a98b124a2ed1add3b595679f6f31fc355ab62",
+  "overview_commit": "4e3caaa18831658d68148ee2bbd1c08fab68b7aa",
+  "overview_digest": "859191d84271dc4b1324e1b70cd2db2391ccd408d3dc970b71e7f5dc8e5c14d8",
   "paragraphs": [
+    {
+      "id": "c65ef3dbf832d317675a2b433e038fc3ffd774f9c65a72160dafa4d46fbaa22b",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc]], a [[TalkSanlian|Talk三联]] episode with [[JiaZhangke|贾樟柯]] on short-video rediscovery, ordinary-life poetics, youth mobility, and era transition. It adds [[ZhaoTao|赵涛]], [[ShanHeGuRen|《山河故人》]], [[JiangHuErNv|《江湖儿女》]], [[TianZhuDing|《天注定》]], [[FengLiuYiDai|《风流一代》]], [[CuiJian|崔健]], [[FilmClipRemixAfterlife]], [[OrdinaryLifePoetics]], [[MobilityFarewellGeneration]], [[VirtualPhysicalLifeBalance]], and [[EraTransitionProximity]], while extending [[AttentionFragmentation]], [[AttentionIndustrialization]], [[PlatformAffordance]], [[AlgorithmicPublicAppearance]], [[GenerationalTechnologyBridge]], [[YouthHappinessAfterGrowth]], and the EP277 branch around [[AIVideoProductionWorkflow]], [[LiveActionFilmUnderAI]], and [[FilmRealityBeyondRealism]]. Its core synthesis is that older film scenes become newly legible when platform remix meets lived continuity: labor, hometown, dance, farewell, and drifting youth carry feelings that are not locked to one generation, while AI and new community forms make the receding old era visible because another era is already approaching. No settled contradiction is recorded; EP276 keeps AI as an era-change and anxiety marker where EP277 develops the film-production argument.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "culture-and-media": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIVideoProductionWorkflow",
+        "AlgorithmicPublicAppearance",
+        "AttentionFragmentation",
+        "AttentionIndustrialization",
+        "CuiJian",
+        "EraTransitionProximity",
+        "FengLiuYiDai",
+        "FilmClipRemixAfterlife",
+        "FilmRealityBeyondRealism",
+        "GenerationalTechnologyBridge",
+        "JiaZhangke",
+        "JiangHuErNv",
+        "LiveActionFilmUnderAI",
+        "MobilityFarewellGeneration",
+        "OrdinaryLifePoetics",
+        "PlatformAffordance",
+        "ShanHeGuRen",
+        "TalkSanlian",
+        "TianZhuDing",
+        "VirtualPhysicalLifeBalance",
+        "YouthHappinessAfterGrowth",
+        "ZhaoTao",
+        "ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc"
+      ]
+    },
     {
       "id": "5a812adda2354fa116abbd4ceeb289347859d235ee63a80cd2cbbb9fb68ab97f",
       "primary_topic": "work-education-and-society",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6840
+wiki_total_pages: 6846
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "FarewellMyConcubine"
     title: "《霸王别姬》 / Farewell My Concubine"
     url: "/wiki/entities/farewellmyconcubine/"
+  - key: "FengLiuYiDai"
+    title: "《风流一代》 / Caught by the Tides"
+    url: "/wiki/entities/fengliuyidai/"
   - key: "FeixingjiaFilm"
     title: "《飞行家》 / Feixingjia"
     url: "/wiki/entities/feixingjiafilm/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你](sources/ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc.md) — Talk三联 episode with Jia Zhangke on short-video rediscovery of older film scenes, ordinary-life poetics, youth mobility, AI anxiety, and era transition.
 - [EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能](sources/ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox.md) — Talk三联 episode with Jia Zhangke on AI cinema, realism beyond realist method, production-method change, labor backlash, rights, and his continuing commitment to live-action reality.
 - [《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？](sources/zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's omen-, five-phases-, and seal-backed imperial ambition before Yan Xiang and Zhang Cheng warn that rule rests on virtue, accepted title order, and people-support.
 - [《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢](sources/zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's impending imperial claim, Sun Ce's warning-and-break, and Xun Yu's legitimacy-window advice for Cao Cao to welcome Emperor Xian.
@@ -1339,7 +1340,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [贾樟柯 / Jia Zhangke](entities/JiaZhangke.md) — Director whose Talk三联 interview separates responding to reality from using realist photographic methods and frames AI cinema as a possible production-method shift.
+- [贾樟柯 / Jia Zhangke](entities/JiaZhangke.md) — Director whose Talk三联 interview links short-video rediscovery, ordinary-life poetics, youth mobility, era transition, and AI cinema's production-method questions.
+- [赵涛 / Zhao Tao](entities/ZhaoTao.md) — Actor whose 《山河故人》 dance scene anchors EP276's discussion of film-clip afterlife, freedom, aging, and hometown.
+- [《山河故人》 / Mountains May Depart](entities/ShanHeGuRen.md) — Jia Zhangke film whose opening disco memory and ending dance scene are used in EP276 to explain renewed online resonance.
+- [《江湖儿女》 / Ash Is Purest White](entities/JiangHuErNv.md) — Jia Zhangke film used in EP276 to show departure as imagined fate, memory, and repeated separation.
+- [《天注定》 / A Touch of Sin](entities/TianZhuDing.md) — Jia Zhangke film whose production memories ground EP276's mobile young-worker example.
+- [《风流一代》 / Caught by the Tides](entities/FengLiuYiDai.md) — Jia Zhangke film context for EP276's claim that an old era recedes because a new AI-marked civilization approaches.
+- [崔健 / Cui Jian](entities/CuiJian.md) — Musician used in EP276 as a generational-memory example inside Jia Zhangke's discussion of age, platforms, and cultural continuity.
 - [平遥国际电影展 / Pingyao International Film Festival](entities/PingyaoInternationalFilmFestival.md) — Film festival context where Jia Zhangke discusses AI posters, AI shorts, and a "Modern Times" theme for AI's entrance into cinema.
 - [阎象 / Yan Xiang (late Han)](entities/YanXiangLateHan.md) — Yuan Shu's chief clerk whose Zhou Wenwang comparison warns that family prestige and Han weakness do not justify an imperial claim.
 - [张范 / Zhang Fan (late Han)](entities/ZhangFanLateHan.md) — Recluse who refuses Yuan Shu's recruitment and sends Zhang Cheng instead, withholding symbolic endorsement from the title project.
@@ -8183,6 +8190,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Film Clip Remix Afterlife / 电影片段二创再流通](concepts/FilmClipRemixAfterlife.md) — EP276 frame for older Jia Zhangke film scenes and lines regaining force through short-video remix and viewer projection.
+- [Ordinary Life Poetics / 日常生活诗意](concepts/OrdinaryLifePoetics.md) — Jia Zhangke's EP276 claim that ordinary labor, county scenes, youth dancing, and departures already contain poetic material.
+- [Mobility Farewell Generation / 流动生活中的离别经验](concepts/MobilityFarewellGeneration.md) — EP276 frame for why farewell lines resonate when young people repeatedly move across home, education, work, cities, and countries.
+- [Era Transition Proximity / 时代远走与新文明靠近](concepts/EraTransitionProximity.md) — Jia Zhangke's EP276 formulation that one era recedes because another era, including AI and new social forms, is approaching.
+- [Virtual-Physical Life Balance / 虚拟与实体生活差异](concepts/VirtualPhysicalLifeBalance.md) — EP276 explanation of AI anxiety as shaped by virtual-platform time versus fuller physical life, not just city-versus-village location.
 - [Film Reality Beyond Realism](concepts/FilmRealityBeyondRealism.md) — Jia Zhangke's AI-cinema argument that films can respond to the real world through non-realist methods without abandoning reality as the object of concern.
 - [Legitimacy Window Seizure / 合法性窗口抢占](concepts/LegitimacyWindowSeizure.md) — Hanji 1002 Xun Yu/Cao Cao pattern where exposed sovereign legitimacy must be captured before another power turns it into order, strategy, and talent attraction.
 - [Leader Personal Exposure / 领导者轻身涉险](concepts/LeaderPersonalExposure.md) — Hanji 1005 Sun Ce pattern where solo hunting, light clothing, and weak guard preparation turn personal freedom into leader-security risk.

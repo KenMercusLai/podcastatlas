@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5182
+wiki_total_pages: 5187
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "FilialRevengePublicSympathy"
     title: "Filial Revenge Public Sympathy"
     url: "/wiki/concepts/filialrevengepublicsympathy/"
+  - key: "FilmClipRemixAfterlife"
+    title: "Film Clip Remix Afterlife / 电影片段二创再流通"
+    url: "/wiki/concepts/filmclipremixafterlife/"
   - key: "FilmGossipAsContext"
     title: "Film Gossip As Context"
     url: "/wiki/concepts/filmgossipascontext/"
