@@ -2,8 +2,8 @@
 title: "Work Self-Worth Boundary / 工作与自我价值边界"
 type: concept
 tags: [work, mental-health, boundaries, identity]
-sources: [ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]
-last_updated: 2026-08-10
+sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]
+last_updated: 2026-08-24
 ---
 
 # Work Self-Worth Boundary / 工作与自我价值边界
@@ -16,6 +16,8 @@ The concept connects [[WorkRoleDecentering]] to daily action. A person may not b
 
 [[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]] adds the factory-discipline version. [[ZhanTeacher|占老师]]'s "别放弃自我" does not mean ignoring material pressure; it means that even inside [[TayloristFactoryTime|factory time]], [[FactoryDisciplineAndSensoryNumbing|sensory numbing]], layoffs, and automation, the worker has to preserve perception, learning, and the question of what kind of person they are becoming.
 
+[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the AI-replacement version. The source treats "being useful to AI-era work" as a dangerous self-worth trap when it makes people absorb enterprise token anxiety, replacement slogans, or productivity ratchets as verdicts on their human value.
+
 ## Key Claims
 - Work results are information about a task, process, market, or organization; they should not automatically become a verdict on personhood.
 - Leaving a boss does not remove internalized pressure if the person still measures self-worth by income, customer approval, or constant usefulness.
@@ -24,6 +26,7 @@ The concept connects [[WorkRoleDecentering]] to daily action. A person may not b
 - Side projects or small shops can restore control and expression when the goal is not only income maximization.
 - EP265 adds that leave tests the boundary: a person who cannot stop answering may still be converting work availability into self-worth.
 - The 面基 source adds that self-worth boundary can be built while still employed, through learning, archive-making, and observing life beyond the role.
+- EP275 adds that a worker's worth should not be reduced to AI proficiency, token throughput, or whether a company can convert their work into measurable AI ROI.
 
 ## Connections
 - [[NotWorkingAmbivalence]] — broader frame that makes this boundary necessary even after exit.
@@ -33,3 +36,4 @@ The concept connects [[WorkRoleDecentering]] to daily action. A person may not b
 - [[AchievementPressureMentalHealth]], [[ShameBasedSelfConcept]], and [[StatusDescentPressure]] — psychological pressure patterns this boundary counters.
 - [[VacationShame]], [[WorkRestBoundary]], and [[LongVacationRecovery]] — vacation version of the boundary problem.
 - [[ZhanTeacher|占老师]], [[FactoryDisciplineAndSensoryNumbing]], [[WorkerPhotographicArchive]], and [[ContinuousLearningAgainstDisplacement]] - factory-discipline extension.
+- [[AIJobSecurityAnxiety]], [[AIProductivityRatchet]], and [[HumanScaleAIUse]] - EP275's AI-era self-worth boundary.

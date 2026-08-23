@@ -2,11 +2,13 @@
 title: "AI Job Security Anxiety"
 type: concept
 tags: [ai, labor, workplace, automation]
-sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
-last_updated: 2026-08-22
+sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+last_updated: 2026-08-24
 ---
 
 # AI Job Security Anxiety
+
+[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the FOMO-and-ratchet version. [[ChenMingxia|陈明霞]] argues that ordinary workers do not have to absorb the anxiety of companies trying not to leave the table or entrants trying to get on it; the episode also warns that good AI users can be rewarded with more work through [[AIProductivityRatchet]].
 
 AI job security anxiety is the worker hesitation described in [[tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128]]: employees may fear that using AI to become more productive will help employers eliminate or consolidate their own jobs. The episode ties this anxiety especially to headlines about junior-position consolidation and early-career roles.
 
@@ -24,6 +26,7 @@ The concept sits between [[AIWorkerLiteracy]] and [[AIAutomationRedistribution]]
 - The concept qualifies simple productivity narratives: worker reluctance may reflect rational risk assessment rather than backwardness.
 - Graduate anxiety can appear before mass unemployment if candidates already experience AI as a screening and competition amplifier.
 - Cuban's source adds that job fear should be evaluated against implementation reality: brittle agents can create new supervision and maintenance work even while they pressure routine roles.
+- EP275 adds that AI anxiety can be socially imported from big-company and capital narratives; worker adoption depends on whether AI gains improve life and work or simply raise targets.
 
 ## Connections
 - [[WorkplaceAIReadinessGap]], [[AINativeWorker]], and [[ManagerialAIFluencyGap]] - source concepts tied to adoption trust.
@@ -32,3 +35,4 @@ The concept sits between [[AIWorkerLiteracy]] and [[AIAutomationRedistribution]]
 - [[HumanAgencyUnderAI]] - personal agency issue when AI work can threaten the user's own livelihood.
 - [[AIGraduateCareerUncertainty]], [[AIHiringArmsRace]], and [[EntryLevelAICareerLadderRisk]] - early-career branch added by The Intelligence.
 - [[MarkCuban]], [[ForwardDeployedEngineer]], [[AgentMaintenanceBurden]], and [[AIWorkerLiteracy]] - All-In branch around implementation limits and AI-literate operators.
+- [[HumanScaleAIUse]], [[AIProductivityRatchet]], [[TokenMaxxing]], and [[AIUsePacing]] - EP275's anxiety, token, and workplace-ratchet branch.

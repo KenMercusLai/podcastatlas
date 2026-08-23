@@ -10701,6 +10701,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01
+
+Added source page for Talk三联 EP275 on AI workplace anxiety, token spending, editorial AI translation, commercialization pressure, AI productivity ratchets, human-scale AI use, and non-algorithmic capabilities. Created Li Wei (Sanlian), Chen Mingxia, Non-Algorithmic Capabilities, Human-Scale AI Use, and AI Productivity Ratchet; updated overview, index, Talk三联, Sanlian Life Weekly, Token Maxxing, AI Commercialization Pressure, AI Job Security Anxiety, Human Agency Under AI, Human Judgment Under AI, AI Use Pacing, Ratchet Effect In The Workplace, Workplace Incentive Design, AI Translation, Translation Publishing Workflow, Human Value Beyond Efficiency, Human Connection Under AI, Subjectivity As AI Asset, Cognitive Surrender, Cognitive Offloading, Good Work New Standard, Work Self-Worth Boundary, Live Human Feeling, AI Brain Fry, and Workplace Pacing. No direct contradiction found; token ROI, FOMO, and workplace replacement claims remain source-scoped.
+
 ## [2026-08-24] ingest | Enterprise Sales With No Product: Landing a Big Four Customer
 
 Added source page for a The SaaS Podcast episode with Christian Lund on Templafy's pre-product enterprise sales, Big Four customer, strict POC qualification, enterprise customer expansion logic, cloud-era rebuild from Omnidocs, and AI-era messaging reset. Created pages for Christian Lund, Templafy, Omnidocs, Enterprise POC Discipline, Enterprise Customer As Market, and Technology Reset Rebuild; updated overview, index, The SaaS Podcast, Omer Khan, Pre-Product Selling, Founder-Led Sales, Fast Product Validation, Customer Pull, SaaS Trust Moat, Self-Disruption Discipline, Startup Timing Windows, Category Creation, Enterprise AI Pilot Purgatory, and AI Governance And Compliance. No direct contradiction found; the source reinforces pre-product selling while qualifying vague small POCs and too-early AI category messaging.
@@ -10784,6 +10788,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？
 
 Added source page for a 声动早咖啡 coffee-bean episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland and City Mart successor formats, platform/supermarket foodservice, and short updates on Moderna/Merck personalized mRNA cancer vaccines, Kuaishou's Kling AI, Tesla China/Doubao/Volcengine, and Carlsberg's alcohol-free beer and soft-drink growth. Created pages for Moderna, Kling AI, Volcengine, Skyland Food Court, and Non-Alcoholic Beer Growth; updated overview, index, ShengdongZaokafei, FoodRepublic, FoodCourtSecondLandlord, ShoppingCenterRestaurantization, MallFoodCourtDecline, SceneLedFoodMarket, CityMart, MeituanHuanxiongShitang, PlatformCanteen, InternalCanteenFoodCourtOperation, ChainRestaurantStandardization, OffPremiseRestaurantCommerce, Kuaishou, VideoModels, Doubao, Tesla, Merck, CancerVaccinePlatform, and Carlsberg. No direct contradiction found; the source reinforces the existing 大食代 analysis while adding delivery-platform margin pressure and successor-operator details.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

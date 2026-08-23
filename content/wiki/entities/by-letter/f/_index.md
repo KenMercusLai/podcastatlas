@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6904
+wiki_total_pages: 6906
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5226
+wiki_total_pages: 5229
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "HumanMachineAmplification"
     title: "Human-Machine Amplification"
     url: "/wiki/concepts/humanmachineamplification/"
+  - key: "HumanScaleAIUse"
+    title: "Human-Scale AI Use / 人作为 AI 的尺度"
+    url: "/wiki/concepts/humanscaleaiuse/"
   - key: "HumanValueAIDeployment"
     title: "Human-Value AI Deployment / 提高人的价值以部署 AI"
     url: "/wiki/concepts/humanvalueaideployment/"

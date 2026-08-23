@@ -2015,6 +2015,10 @@
     "title": "AI Product Fragmentation",
     "url": "/wiki/concepts/aiproductfragmentation/"
   },
+  "AIProductivityRatchet": {
+    "title": "AI Productivity Ratchet / AI 生产率棘轮",
+    "url": "/wiki/concepts/aiproductivityratchet/"
+  },
   "AIProfessionalDataSecurity": {
     "title": "AI Professional Data Security",
     "url": "/wiki/concepts/aiprofessionaldatasecurity/"
@@ -8446,6 +8450,10 @@
   "ChenMian": {
     "title": "Chen Mian / 陈冕",
     "url": "/wiki/entities/chenmian/"
+  },
+  "ChenMingxia": {
+    "title": "陈明霞 / Chen Mingxia",
+    "url": "/wiki/entities/chenmingxia/"
   },
   "ChenPing": {
     "title": "陈平 / Chen Ping",
@@ -20723,6 +20731,10 @@
     "title": "Human Risk Override",
     "url": "/wiki/concepts/humanriskoverride/"
   },
+  "HumanScaleAIUse": {
+    "title": "Human-Scale AI Use / 人作为 AI 的尺度",
+    "url": "/wiki/concepts/humanscaleaiuse/"
+  },
   "HumanTasteAsAITrainingSignal": {
     "title": "Human Taste as AI Training Signal / 人的品味作为AI训练信号",
     "url": "/wiki/concepts/humantasteasaitrainingsignal/"
@@ -25494,6 +25506,10 @@
   "LiWeiQingOfficial": {
     "title": "李卫 / Li Wei",
     "url": "/wiki/entities/liweiqingofficial/"
+  },
+  "LiWeiSanlian": {
+    "title": "李维 / Li Wei (Sanlian)",
+    "url": "/wiki/entities/liweisanlian/"
   },
   "LiWuya": {
     "title": "李乌鸦",
@@ -30954,6 +30970,10 @@
   "NonAlcoholicBeerGrowth": {
     "title": "Non-Alcoholic Beer Growth / 无醇啤酒增长",
     "url": "/wiki/concepts/nonalcoholicbeergrowth/"
+  },
+  "NonAlgorithmicCapabilities": {
+    "title": "Non-Algorithmic Capabilities / 非算法能力",
+    "url": "/wiki/concepts/nonalgorithmiccapabilities/"
   },
   "NonBankHealthcareLending": {
     "title": "Non-Bank Healthcare Lending",
@@ -50598,6 +50618,10 @@
   "ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh": {
     "title": "EP274 如何找到适合自己的“更年期答案”？",
     "url": "/wiki/sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh/"
+  },
+  "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr": {
+    "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+    "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
   },
   "ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc": {
     "title": "EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你",

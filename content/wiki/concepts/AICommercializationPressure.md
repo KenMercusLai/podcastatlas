@@ -3,6 +3,7 @@ title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
 sources:
+  - ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr
   - bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453
   - 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4
   - duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1
@@ -42,6 +43,8 @@ last_updated: 2026-08-24
 ---
 
 # AI Commercialization Pressure
+
+[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the ordinary-workplace and capital-narrative version. [[ChenMingxia|陈明霞]] and [[LiWeiSanlian|李维]] frame the AI market as moving from a first phase of compute, token, and position grabbing toward a harder question: who earns money, who improves work, and whose token consumption is only a cost signal.
 
 [[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] adds the public humanoid-robot version through [[UnitreeRobotics|宇树科技]]. The source turns commercialization pressure into three practical questions: who buys the robot, what task it performs, and whether the buyer repurchases. It therefore links [[HumanoidRobotCommercialization]] to [[RobotRepurchaseDemand]], [[UnitreeIPOValuation]], and [[ProductionRobotScenarioSelection]] rather than treating listing enthusiasm as commercial proof.
 
@@ -157,6 +160,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - AI application commercialization pressure includes public trust and explanation pressure: a founder may need to defend growth sources, API-cost assumptions, cash flow, and originality before the business has mature moats.
 - AI-office products are a commercialization response to weak consumer-chat monetization because work tasks, enterprise data, and productivity gains can produce clearer willingness to pay than generic chatbot DAU.
 - Humanoid-robot commercialization faces a stricter public-market version of the same test: buyers, tasks, repeat purchases, maintenance economics, and scene-specific ROI have to support the option value investors are paying for.
+- EP275 adds that token spending and AI deployment face the same proof burden inside ordinary workplaces: adoption is not enough unless the tool improves quality, workflow, revenue, or human-scale value.
 
 ## Connections
 - [[UnitreeRobotics|宇树科技]], [[HumanoidRobotCommercialization]], [[RobotRepurchaseDemand]], [[UnitreeIPOValuation]], and [[ProductionRobotScenarioSelection]] — public humanoid-robot commercialization branch added by What's Next S10E26.

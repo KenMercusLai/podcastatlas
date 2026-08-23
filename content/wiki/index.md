@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01](sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr.md) — Talk三联 episode on AI workplace anxiety, token spending, editorial AI translation, commercialization pressure, AI productivity ratchets, human-scale AI use, and non-algorithmic capabilities.
 - [Enterprise Sales With No Product: Landing a Big Four Customer](sources/enterprise-sales-with-no-product-landing-a-big-four-customer.md) — The SaaS Podcast episode with Christian Lund on Templafy's pre-product enterprise sales, Big Four customer, POC qualification, cloud-to-AI technology resets, and buyer-ready AI messaging.
 - [咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？](sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222.md) — 声动早咖啡 episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland/City Mart successor formats, and short updates on mRNA cancer vaccines, Kling AI, Doubao in Tesla China, and Carlsberg's alcohol-free growth.
 - [EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise](sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise.md) — Data Science With Sam episode with Jim Spignardo of Proarc on enterprise AI pilot failure, Microsoft 365 Copilot adoption, shadow AI, governance, baselines, and dedicated AI ownership.
@@ -1351,6 +1352,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李维 / Li Wei (Sanlian)](entities/LiWeiSanlian.md) — Talk三联 EP275 speaker framing AI tool use through token spend, team adoption, productivity, sales, and human judgment.
+- [陈明霞 / Chen Mingxia](entities/ChenMingxia.md) — Talk三联 EP275 guest arguing for human-scale AI use, non-algorithmic capabilities, and skepticism toward token-KPI anxiety.
 - [Templafy](entities/Templafy.md) — Enterprise document automation SaaS company used as a case for pre-product selling, POC discipline, cloud rebuilding, and AI-era positioning.
 - [Christian Lund](entities/ChristianLund.md) — Templafy co-founder explaining enterprise sales before product maturity, "yes, if" POC gating, and AI messaging timing.
 - [Omnidocs](entities/Omnidocs.md) — Older document-automation business whose domain expertise and limits led into the cloud-era Templafy rebuild.
@@ -8259,6 +8262,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Non-Algorithmic Capabilities / 非算法能力](concepts/NonAlgorithmicCapabilities.md) — EP275 frame for the judgment, connection, self-definition, decision, and aesthetic abilities that become more important as AI handles standard tasks.
+- [Human-Scale AI Use / 人作为 AI 的尺度](concepts/HumanScaleAIUse.md) — Standard for judging AI by whether it improves human work quality, life quality, value creation, and agency rather than token consumption or adoption pressure.
+- [AI Productivity Ratchet / AI 生产率棘轮](concepts/AIProductivityRatchet.md) — Workplace pattern where AI-fluent workers receive more tasks, review burden, and responsibility when productivity gains become a new baseline.
 - [Enterprise POC Discipline](concepts/EnterprisePOCDiscipline.md) — Enterprise-sales practice of accepting POCs only with explicit proof criteria, budget, timing, buyer intent, and rollout consequences.
 - [Enterprise Customer As Market](concepts/EnterpriseCustomerAsMarket.md) — View that one large enterprise can contain enough internal workflows and teams to justify broad landing and later expansion.
 - [Technology Reset Rebuild](concepts/TechnologyResetRebuild.md) — Strategy of rebuilding a product foundation for a platform shift rather than making the old system look current.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5226
+wiki_total_pages: 5229
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "AIProductFragmentation"
     title: "AI Product Fragmentation"
     url: "/wiki/concepts/aiproductfragmentation/"
+  - key: "AIProductivityRatchet"
+    title: "AI Productivity Ratchet / AI 生产率棘轮"
+    url: "/wiki/concepts/aiproductivityratchet/"
   - key: "AIProfessionalDataSecurity"
     title: "AI Professional Data Security"
     url: "/wiki/concepts/aiprofessionaldatasecurity/"

@@ -2,11 +2,13 @@
 title: "Workplace Incentive Design"
 type: concept
 tags: [workplace, incentives, management, economics]
-sources: [advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a, a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, the-laws-of-the-office-revisited, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
-last_updated: 2026-08-08
+sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a, a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, the-laws-of-the-office-revisited, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-24
 ---
 
 # Workplace Incentive Design
+
+[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds AI adoption as an incentive-design problem. If AI-fluent employees are rewarded mainly with more tasks, more output review, and higher baseline expectations, the rational response may be hesitation, selective use, or cynicism rather than enthusiastic adoption.
 
 Workplace incentive design is the episode's practical frame for how metrics, deadlines, promotions, and visible social signals shape behavior at work. [[the-laws-of-the-office-revisited]] develops it through four office laws: [[GoodhartsLaw]], [[ParkinsonsLaw]], the [[PeterPrinciple]], and [[TruthfulSocialProof]].
 
@@ -30,6 +32,7 @@ The source's main lesson is that management tools are never neutral descriptions
 - Ownership incentives require communication and trust; hidden stakes or extractive leadership can weaken the behavior the incentive is supposed to create.
 - Equity plans should be judged by the behavior they create for managers as well as employees, especially when option-pool shares can be recycled.
 - Incentives can be staged: a founder can reward accountability and upside while delaying formal control until role fit is proven.
+- EP275 adds that AI adoption requires visible incentive answers: who receives the productivity gain, who does the review work, who owns mistakes, and whether higher output changes reward or only expectations.
 
 ## Connections
 - [[HearsayBrewingAndTheater]], [[TonyDeRosa]], and [[ControlPreservingIncentives]] - small-business operator incentive case.
@@ -41,3 +44,4 @@ The source's main lesson is that management tools are never neutral descriptions
 - [[EconomicWayOfThinking]] - broader wiki frame for reasoning from incentives and constraints.
 - [[ContractTheory]], [[InformationAsymmetryInContracts]], [[RatchetEffectWorkplace]], [[SubjectivePerformanceIncentives]], [[MixedIncentiveContracts]], [[EquityIncentiveAlignment]], and [[MotivationCrowdingOut]] - episode-79 contract-theory branch.
 - [[EmployeeStockOptions]], [[OptionPoolRecaptureIncentive]], and [[TrustAsBusinessAsset]] - employee-option governance branch added by Keji Luandun.
+- [[AIProductivityRatchet]], [[AIJobSecurityAnxiety]], [[AIWorkerLiteracy]], and [[HumanScaleAIUse]] - AI adoption and productivity-ratchet branch added by EP275.

@@ -2,8 +2,8 @@
 title: "Good Work New Standard / 好工作的新标准"
 type: concept
 tags: [work, labor, careers, china]
-sources: [ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb]
-last_updated: 2026-08-07
+sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb]
+last_updated: 2026-08-24
 ---
 
 # Good Work New Standard / 好工作的新标准
@@ -16,6 +16,8 @@ The concept is deliberately unstable. For some speakers, income still defines go
 
 [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds the vacation extension. If [[NormalWorkBaseline|normal work]] includes annual leave, good work also depends on whether the organization lets leave become real rest. A nominally decent job can still consume the person if messages, handoff failure, or [[VacationShame|vacation shame]] make time off unusable.
 
+[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the AI-era extension. A good job cannot be judged only by whether it adopts [[ChatGPT]], [[Claude]], [[Codex]], or higher token spending; it also depends on whether the work system preserves human judgment, bounded workload, non-algorithmic capability, and room to define value beyond productivity.
+
 ## Key Claims
 - Good work has to be judged across era, industry, age, family responsibility, body, and risk tolerance.
 - High pay can make a job feel successful, but it does not erase questions of respect, control, leave, growth, or meaning.
@@ -24,6 +26,7 @@ The concept is deliberately unstable. For some speakers, income still defines go
 - In media work, "good" also depends on whether public value, learning, autonomy, and exhaustion remain in tolerable balance.
 - EP257 adds that a bad or consuming job can make "not working" imaginable, but exit is only a partial answer unless the person can rebuild income, rhythm, support, and self-worth outside the old role.
 - EP265 adds that "good work" includes the right to stop temporarily: a job's quality is partly revealed by how it treats vacation, handoff, and post-vacation return.
+- EP275 adds that AI adoption does not automatically make work better if the gains turn into new task pressure, token KPIs, or narrower standards of human value.
 
 ## Connections
 - [[NormalWorkBaseline]] and [[WorkRoleDecentering]] — main work-standard subframes added by EP244.
@@ -32,3 +35,4 @@ The concept is deliberately unstable. For some speakers, income still defines go
 - [[JournalisticPublicness]] and [[MediaWorkAsLifestyle]] — journalism-specific version of the question.
 - [[GoodJobsForNonCollegeWorkers]] and [[ManufacturingJobQuality]] — adjacent job-quality concepts in the wiki.
 - [[VacationShame]], [[WorkRestBoundary]], and [[LongVacationRecovery]] — EP265's vacation-quality extension.
+- [[AIProductivityRatchet]], [[NonAlgorithmicCapabilities]], and [[HumanValueBeyondEfficiency]] — EP275's AI-era good-work extension.

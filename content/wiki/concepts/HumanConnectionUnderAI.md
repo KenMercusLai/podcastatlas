@@ -2,11 +2,13 @@
 title: "Human Connection Under AI"
 type: concept
 tags: [ai, communication, relationships, agency]
-sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-10
+sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-24
 ---
 
 # Human Connection Under AI
+
+[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the workplace, sales, and care version. [[LiWeiSanlian|李维]] uses sales as an example of [[NonAlgorithmicCapabilities]]: connecting, building trust, reading ambiguity, and helping another person accept value remain important when AI can handle more search, drafting, and standard reasoning. The episode also argues that live human service in elder care, child care, and other relational work may become scarcer as digital services reduce ordinary human contact.
 
 [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a stronger emotional-substitution question. The source asks whether users will still care that an AI is not "real" if it is more patient, stable, attentive, and remembering than many human relationships, while also using [[HumanValueBeyondEfficiency]] to argue that inefficient human contact may remain valuable precisely because it is lived directly.
 
@@ -36,6 +38,7 @@ The concept complements [[LanguageUserInterface]] rather than contradicting it. 
 - Human imperfection can be relational signal rather than production error when listeners trust the person behind the voice.
 - Paid and AI-mediated companionship reveal the scarcity of trusted listeners, but the fact that connection can be bought or simulated does not make it identical to durable human support.
 - If production becomes less central to social value, human connection becomes a candidate value anchor rather than only a communication style.
+- EP275 adds that connection is a work capability as well as a social value: sales, care, job seeking, and relationships all depend on trust and ambiguity that AI can assist but not fully own.
 
 ## Connections
 - [[LiDan|李诞]], [[PodcastIntimacy]], [[PodcastAuthenticityBoundary]], and [[AIContentProvenance]] — podcast, disclosure, and human-imperfection branch added by the Banlatte special.
@@ -48,3 +51,4 @@ The concept complements [[LanguageUserInterface]] rather than contradicting it. 
 - [[AIGriefBots]], [[DigitalMemorialization]], and [[PostMortemAIConsent]] — grief, family-memory, and post-mortem consent branch added by Marketplace Tech.
 - [[EmotionEconomy]], [[PaidListeningServices]], [[AIFriendProducts]], [[AICompanionAttentionRisk]], and [[EmotionRegulationToolkit]] — EP236's paid listening and AI companionship branch.
 - [[ChaSheng]], [[HumanAgencyUnderAI]], [[HumanTasteAsAITrainingSignal]], and [[AILaborSubstitutionValuationBoundary]] - source branch on post-production human value.
+- [[LiWeiSanlian|李维]], [[ChenMingxia|陈明霞]], [[NonAlgorithmicCapabilities]], [[HumanScaleAIUse]], and [[LiveHumanFeeling]] - EP275's work, care, and human-presence extension.

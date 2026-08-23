@@ -2,11 +2,13 @@
 title: "Human Value Beyond Efficiency"
 type: concept
 tags: [ai, agency, meaning, life-design]
-sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]
-last_updated: 2026-08-17
+sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]
+last_updated: 2026-08-24
 ---
 
 # Human Value Beyond Efficiency
+
+[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the "whole person" workplace version. The episode argues that when industrial efficiency, standardization, and AI execution make people feel like task endpoints, human value has to include weakness, imperfection, pleasure, connection, creativity, and "活人感" rather than only output.
 
 [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds the institutional version through [[HumanValueAIDeployment]]. [[ZhouLuohua|周洛华]] argues that human value is not preserved only by choosing meaningful inefficiency; it also has to be priced and protected through courts, insurance, medical communication, and professional incentives so AI can support people without making care, explanation, or safety economically invisible.
 
@@ -21,6 +23,7 @@ The concept extends [[HumanAgencyUnderAI]] and [[AIUsePacing]]. It is not an arg
 - [[IntelligenceDevaluation]] may make generic cognitive production cheaper, increasing the importance of taste, care, responsibility, and lived context.
 - [[AutomatedLifeDelegation]] is the negative boundary: delegating too much can remove the very friction that made an experience matter.
 - The 面基 source adds that institutions should make care, explanation, protection, and human harm costly enough to matter economically.
+- EP275 adds that "investing in people" means developing the whole person, not only making a worker more efficient at tasks AI can later compress.
 
 ## Connections
 - [[HumanValueAIDeployment]], [[RiskCostSeparation]], [[MedicalRiskManagement]], and [[DoctorPatientCommunication]] - institutional human-value branch added by 面基.
@@ -29,3 +32,4 @@ The concept extends [[HumanAgencyUnderAI]] and [[AIUsePacing]]. It is not an arg
 - [[HumanConnectionUnderAI]] and [[ReadingAsLifeExperience]] — slow experience and relationship value.
 - [[AIWorkOptionality]] and [[IntelligenceDevaluation]] — labor and capability repricing context.
 - [[AICompanionAuthenticityBoundary]] — example where emotional truth can matter even when technical authenticity is unclear.
+- [[HumanScaleAIUse]], [[NonAlgorithmicCapabilities]], [[LiveHumanFeeling]], and [[HumanConnectionUnderAI]] - EP275's whole-person and AI-workplace extension.
