@@ -1,7 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
-      "56f30cbef6db76e9513e6fe676df7f5c5694ae6dd7d8802fbbd59a0c5b09b15a",
+      "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
       "eeed228b443ab51eb6510a7e08942a965b7cc44aa817e1a025225acb1b2f77da",
       "792bc6e294997222808f1676d0b67b792cfa97d896abe3f3e0075457d69dbf99",
       "87c983a25af279b6675ac412cdb464d2757ecfe0fb5e3603ce9e67eb678a3620",
@@ -124,33 +124,39 @@
     ],
     "paragraph_count": 120
   },
-  "overview_commit": "cda1a0ad12e079cc4bbc0fef0f1838c14d8ad140",
-  "overview_digest": "b548d07b023e3cea3b90e71e5e553f5cbf3d30ce5dc495416a9489975f2821e9",
+  "overview_commit": "3680fc88b463c50709ac501979589cf44773e4b0",
+  "overview_digest": "ce8898987f6809eca820e95fb88fa4c1859f8e29a0f5130c4af79913fb60f014",
   "paragraphs": [
     {
-      "id": "56f30cbef6db76e9513e6fe676df7f5c5694ae6dd7d8802fbbd59a0c5b09b15a",
+      "id": "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
       "primary_topic": "governance-and-institutions",
       "secondary_topics": [],
-      "text": "The latest Ruiqi Hanji sequence has moved from wartime victory into founding-order risk. [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169 part 1]] and [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|part 2]] show [[LiuBang|刘邦]] converting battlefield victory into imperial family order, allied kingships, amnesty, ritual, and postwar repair; [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] and [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|part 2]] add defeated-elite cleanup, former-enemy loyalty standards, and the [[StrategicCapitalRelocation|strategic capital relocation]] to [[ChangAnHanCapital|长安]]. [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|Hanji 171 part 1]] reframes [[ZhangLiang|张良]]'s success as a post-victory exit problem, and [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] turns that danger toward different-surname kings and Han Xin's Zhongli Mo network. [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] supplies the coercive solution by using Chen Ping's fake [[Yunmengze|Yunmeng]] tour and Chen County audience to arrest Han Xin without testing his battlefield superiority; [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] shows that demotion leaves association risk and reputation residue; [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] and [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|part 2]] turn from removal into reward ranking, territorial redesign, and merit-holder reassurance; and [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] adds that founding order must also survive external frontier pressure and internal court disorder, as [[MaoDunChanyu|冒顿单于]]'s consolidated [[Xiongnu|匈奴]] exposes [[HanWangXin|韩王信]]'s [[Mayi|马邑]] placement while [[ShusunTong|叔孙通]] turns rough victory-era followers toward [[LiAsPoliticalOrder|ritualized court hierarchy]]. [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] completes that court branch at [[ChanglePalace|长乐宫]], showing ritual as both functional state order and [[ImperialRitualDistance|ruler-minister distance]] while adding [[Xinyu|《新语》]] and [[Fayan|《法言》]] to the early-Han civil-governance critique.",
+      "text": "The latest Ruiqi Hanji sequence has moved from wartime victory into founding-order risk. [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169 part 1]] and [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|part 2]] show [[LiuBang|刘邦]] converting battlefield victory into imperial family order, allied kingships, amnesty, ritual, and postwar repair; [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] and [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|part 2]] add defeated-elite cleanup, former-enemy loyalty standards, and the [[StrategicCapitalRelocation|strategic capital relocation]] to [[ChangAnHanCapital|长安]]. [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|Hanji 171 part 1]] reframes [[ZhangLiang|张良]]'s success as a post-victory exit problem, and [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] turns that danger toward different-surname kings and Han Xin's Zhongli Mo network. [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] supplies the coercive solution by using Chen Ping's fake [[Yunmengze|Yunmeng]] tour and Chen County audience to arrest Han Xin without testing his battlefield superiority; [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] shows that demotion leaves association risk and reputation residue; [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] and [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|part 2]] turn from removal into reward ranking, territorial redesign, and merit-holder reassurance; and [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] adds that founding order must also survive external frontier pressure and internal court disorder, as [[MaoDunChanyu|冒顿单于]]'s consolidated [[Xiongnu|匈奴]] exposes [[HanWangXin|韩王信]]'s [[Mayi|马邑]] placement while [[ShusunTong|叔孙通]] turns rough victory-era followers toward [[LiAsPoliticalOrder|ritualized court hierarchy]]. [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] completes that court branch at [[ChanglePalace|长乐宫]], showing ritual as both functional state order and [[ImperialRitualDistance|ruler-minister distance]] while adding [[Xinyu|《新语》]] and [[Fayan|《法言》]] to the early-Han civil-governance critique; [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] then turns from court order back to frontier command failure as [[MaoDunChanyu|冒顿单于]] uses staged weakness and cavalry mobility to trap Liu Bang at [[BaidengEncirclement|白登之围]]; and [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] makes Baideng a policy pivot, joining [[ChenPing|陈平]]'s [[YanzhiXiongnuConsort|阏氏]] channel to Modu's [[EncirclementReleaseCalculus|release calculus]] and [[LouJing|刘敬 / 楼敬]]'s proposed [[HanXiongnuHeqinPolicy|汉匈和亲政策]].",
       "topic_scores": {
-        "governance-and-institutions": 3,
+        "governance-and-institutions": 4,
         "history-and-geopolitics": 1,
         "work-education-and-society": 1
       },
       "wikilinks": [
+        "BaidengEncirclement",
         "ChangAnHanCapital",
         "ChanglePalace",
+        "ChenPing",
+        "EncirclementReleaseCalculus",
         "Fayan",
         "HanWangXin",
+        "HanXiongnuHeqinPolicy",
         "ImperialRitualDistance",
         "LiAsPoliticalOrder",
         "LiuBang",
+        "LouJing",
         "MaoDunChanyu",
         "Mayi",
         "ShusunTong",
         "StrategicCapitalRelocation",
         "Xinyu",
         "Xiongnu",
+        "YanzhiXiongnuConsort",
         "Yunmengze",
         "ZhangLiang",
         "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi",
@@ -164,7 +170,9 @@
         "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u",
         "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt",
         "zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf",
-        "zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy"
+        "zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy",
+        "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
+        "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym"
       ]
     },
     {

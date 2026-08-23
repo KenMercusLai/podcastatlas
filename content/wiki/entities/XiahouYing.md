@@ -2,7 +2,7 @@
 title: "夏侯婴 / Xiahou Ying"
 type: entity
 tags: [person, qin-han, anti-qin, military]
-sources: [zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
+sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp]
 last_updated: 2026-08-23
 ---
 
@@ -24,7 +24,10 @@ For this source, Xiahou Ying matters as an operational connector inside Liu Bang
 
 [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] gives Xiahou Ying a persuasion-channel role after victory. [[ZhuJiaLu|朱家]] comes to him in [[Luoyi|洛阳 / 洛邑]] to argue that [[JiBu|季布]] should not be killed for serving [[XiangYu|项羽]] loyally. Xiahou Ying transmits the argument to Liu Bang, helping turn a personal enemy into a pardoned Han officer and making him part of [[FormerEnemyLoyaltyReframing|旧敌忠义重释]].
 
+[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] adds a Baideng exit role. After [[MaoDunChanyu|冒顿单于]] opens one side of the [[BaidengEncirclement|白登之围]], [[ChenPing|陈平]] tells [[LiuBang|刘邦]] not to bolt in panic. Xiahou Ying drives the imperial carriage slowly out while guards aim crossbows outward, making him again the driver in a high-stakes Liu Bang escape.
+
 ## Connections
+- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[BaidengEncirclement|白登之围]], [[ChenPing|陈平]], and [[MaoDunChanyu|冒顿单于]] - controlled carriage withdrawal from the opened encirclement.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[ZhuJiaLu|朱家]], [[JiBu|季布]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - channel from private rescue argument to Liu Bang's pardon decision.
 - [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[Chenggao|成皋]], [[HanXin|韩信]], [[ZhangEr|张耳]], and [[CommandAuthorityRecapture|统帅权再收束]] - northward escape and arrival at the Zhao camp.
 - [[LiuBang|刘邦]] and [[XiaoHe|萧何]] - commander and fellow persuader in the Huling surrender.

@@ -10123,6 +10123,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）
+
+Added source page for Hanji 178: Chen Ping's indirect approach to Modu's Yanzhi, Modu's broader release calculation at Baideng, Liu Bang's controlled withdrawal through the opened corner, Liu Jing/Lou Jing's vindication, and the proposed Han-Xiongnu heqin policy. Created Yanzhi (Xiongnu Consort), Encirclement Release Calculus, and Han-Xiongnu Heqin Policy; updated overview, index, Baideng Encirclement, Liu Bang, Chen Ping, Modu Chanyu, Lou Jing, Xiahou Ying, Lu Zhi, Princess Lu Yuan, Xiongnu, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related covert, encirclement, and cavalry-asymmetry concepts. No settled contradiction found; the episode narrows the Baideng escape story by distinguishing Yanzhi-channel persuasion from Modu's strategic risk calculation.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课
 
 Added source page for Hanji 175: Modu Chanyu's rise through Touman's Yuezhi hostage trap, whistling-arrow command training, patricide, Donghu concessions and attack, Xiongnu expansion, Han Wang Xin's Mayi siege and surrender, and Shusun Tong's practical court ritual training for Liu Bang. Created Touman Chanyu, Yuezhi, and Absolute Command Obedience; updated overview, index, Liu Bang, Western Han dynasty, Ruiqi Jiangtou Zizhi Tongjian, Xiongnu, Modu Chanyu, Donghu, Han Wang Xin, Mayi, Shusun Tong, Frontier Vassal Containment, Battlefield Victory To Founding Order, Li As Political Order, and Lure Enemy Out of Position. No settled contradiction found; Han Wang Xin's relocation remains a dual defense/containment policy whose failure mode is now visible.
@@ -10393,6 +10397,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线
 
 Added source page for Hanji 177: Han Wang Xin's post-Mayi surrender chain, Liu Bang's northern campaign, Liu Jing's rejected warning that Xiongnu weakness was staged, and Modu's winter cavalry encirclement at Baideng. Updated overview, index, Baideng Encirclement, Han Wang Xin, Xiongnu, Modu Chanyu, Liu Bang, Liu Jing/Lou Jing, Chen Ping, Mayi, Shangdang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related frontier, information-control, lure, cavalry-asymmetry, and encirclement concepts. No settled contradiction found; Hanji 177 complements Hanji 150 part 4 by supplying the military setup before Chen Ping's later escape stratagem.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

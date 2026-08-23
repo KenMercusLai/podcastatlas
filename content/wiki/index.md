@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）](sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym.md) — 芮淇讲透资治通鉴 episode completing Baideng through Chen Ping's Yanzhi channel, Modu's release calculus, Liu Bang's controlled withdrawal, Liu Jing's vindication, and the heqin proposal.
 - [《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线](sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on.md) — 芮淇讲透资治通鉴 episode on Han Wang Xin's post-Mayi Xiongnu alignment, Liu Bang's northern campaign, Liu Jing's rejected warning about deliberate Xiongnu weakness, and Modu's cavalry trap at Baideng.
 - [《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度](sources/zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy.md) — 芮淇讲透资治通鉴 episode on Shusun Tong's completed Changle Palace court ritual, Liu Bang's imperial-awe response, Sima Guang's praise of li governance, Lu Jia's Xinyu, and Yang Xiong's critique of ritual talent serving royal favor.
 - [《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课](sources/zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf.md) — 芮淇讲透资治通鉴 episode on Modu's Xiongnu consolidation, Han Wang Xin's Mayi surrender, and Shusun Tong's practical court ritual training for Liu Bang.
@@ -1404,6 +1405,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [修武 / Xiuwu](entities/Xiuwu.md) — Liu Bang's Henei-area camp where Chen Ping arrives and is introduced through Wei Wuzhi.
 - [冒顿单于 / Modu Chanyu](entities/MaoDunChanyu.md) — Xiongnu ruler whose rise through violent command training and Donghu conquest sets up the early Han frontier crisis and later Baideng encirclement.
 - [白登之围 / Baideng Encirclement](entities/BaidengEncirclement.md) — Early Han frontier crisis where Chen Ping's reported stratagem works through Modu Chanyu's household-status pressure rather than open force.
+- [阏氏 / Yanzhi (Xiongnu Consort)](entities/YanzhiXiongnuConsort.md) — Xiongnu consort whose household-status fear becomes Chen Ping's indirect channel in the Baideng release, disambiguated from the Warring States place 阏氏.
 - [张负 / Zhang Fu](entities/ZhangFu.md) — Huyou local wealthy elder who notices Chen Ping's bearing and visitor traffic, then backs him through marriage funding and family alliance.
 - [陈平兄 / Elder Brother of Chen Ping](entities/ChenPingBrother.md) — Unnamed brother who supports Chen Ping's early non-farming formation and whose expulsion of his wife becomes evidence in the Hanji 154 "盗嫂" analysis.
 - [陈平嫂 / Sister-in-law of Chen Ping](entities/ChenPingSisterInLaw.md) — Unnamed sister-in-law whose hostility toward Chen Ping is used by Hanji 154 to question the credibility of the "盗嫂" allegation.
@@ -8019,6 +8021,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.
+- [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — Liu Jing's post-Baideng proposal to use ruling-house marriage as frontier restraint after direct war against Xiongnu proves costly.
 - [绝对服从式指挥训练 / Absolute Command Obedience](concepts/AbsoluteCommandObedience.md) — Hanji 175 pattern where Modu's whistling-arrow drills turn lethal signal-following into command reliability.
 - [仇敌受封安众 / Hostile Recipient Reward Signal](concepts/HostileRecipientRewardSignal.md) — Hanji 174 part 2 reward-credibility pattern where enfeoffing a hated claimant reassures the wider merit-holder group.
 - [建国功臣排序 / Founding Merit Hierarchy](concepts/FoundingMeritHierarchy.md) — Hanji 174 frame for ranking unlike founding contributions, especially Xiao He's rear organization above frontline pursuit.

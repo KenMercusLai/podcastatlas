@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5141
+wiki_total_pages: 5143
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "EmploymentIceAgeGeneration"
     title: "Employment Ice Age Generation"
     url: "/wiki/concepts/employmenticeagegeneration/"
+  - key: "EncirclementReleaseCalculus"
+    title: "Encirclement Release Calculus / 围困开口式风险权衡"
+    url: "/wiki/concepts/encirclementreleasecalculus/"
   - key: "EncirclementThreatPersuasion"
     title: "Encirclement Threat Persuasion / 包围威胁式说服"
     url: "/wiki/concepts/encirclementthreatpersuasion/"

@@ -2,7 +2,7 @@
 title: "Covert Political Technology / 阴谋式政治技术"
 type: concept
 tags: [strategy, intelligence, statecraft, chu-han, ethics]
-sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-23
 ---
 
@@ -17,6 +17,8 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] adds the trust-and-budget side of the concept. [[LiuBang|刘邦]] gives Chen Ping large funds for enemy-side inducement and does not require detailed accounting, making covert technique a ruler-authorized instrument rather than only Chen Ping's private habit. The same source narrows the role through [[SecondInCommandRoleFit|二把手角色适配]]: hidden work can be valuable while still needing boundaries around independent authority.
 
 [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] adds the [[BaidengEncirclement|白登之围]] version. Chen Ping's reported solution to [[MaoDunChanyu|冒顿单于]]'s encirclement reaches the chanyu's favored woman, using her fear of displacement as the lever that changes the military situation. The concept therefore includes indirect household and status incentives, not only bribes, rumors, and enemy-camp division.
+
+[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] gives that Baideng case more detail while narrowing what can be claimed. [[ChenPing|陈平]] approaches [[YanzhiXiongnuConsort|阏氏]] with gifts and an image of a Han beauty, turning possible replacement inside [[MaoDunChanyu|冒顿单于]]'s household into pressure for release. At the same time, the source says Chen Ping's full stratagem was secret and that Modu's final decision also depended on [[EncirclementReleaseCalculus|围困开口式风险权衡]], so covert leverage is a channel inside a broader strategic decision rather than the sole cause.
 
 [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] gives the concept its central Chu-Han battlefield case. With [[LiuBang|刘邦]] trapped at [[XingyangStandoff|荥阳]], [[ChenPing|陈平]] asks for tens of thousands in gold to send agents into Chu and separate [[XiangYu|项羽]] from [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]]. Liu Bang gives forty thousand gold without auditing the outflow, showing covert political technique as funded, deniable, ruler-sponsored counter-cohesion work.
 
@@ -33,6 +35,7 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 - Covert work often requires a sponsor willing to tolerate ambiguity in spending, means, and reputation.
 - The usefulness of covert technique does not remove the need for role limits and political accountability.
 - Covert technique can operate through private status anxiety around a decision-maker when open force is unavailable.
+- Hanji 178 narrows the Baideng case: Chen Ping's Yanzhi channel matters, but the full hidden stratagem is unrecoverable and Modu's release also follows strategic risk calculation.
 - In the Xingyang case, covert technique turns reward dissatisfaction and ruler suspicion inside the enemy camp into a substitute for direct battlefield relief.
 - In the Fan Zeng case, covert technique can turn protocol and hospitality into an information weapon, especially when the operator understands the target camp's factional structure.
 
@@ -45,6 +48,7 @@ This concept is adjacent to [[MachiavellianRealism]] because it looks at power a
 - [[ZhangLiang|张良]] - contrast figure whose strategy is often presented through clearer adviser craft.
 - [[VeteranMeritCliqueSupervision|功臣旧将监督]] - internal-use side of covert information work.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] and [[SecondInCommandRoleFit|二把手角色适配]] - part 3 extensions around survival discipline and bounded authority.
+- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[YanzhiXiongnuConsort|阏氏]], [[BaidengEncirclement|白登之围]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - detailed but bounded Baideng household-status channel.
 - [[BaidengEncirclement|白登之围]], [[MaoDunChanyu|冒顿单于]], and [[Xiongnu|匈奴]] - part 4 frontier case for indirect relationship leverage.
 - [[TacticalDelayRiskTransfer|延时转责式政治化解]] - adjacent part 4 maneuver that solves danger through timing rather than open opposition.
 - [[MachiavellianRealism]], [[InformerSourceProtection|告密者来源保护]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - adjacent frames for realism, information discipline, and hidden/open strategy conversion.

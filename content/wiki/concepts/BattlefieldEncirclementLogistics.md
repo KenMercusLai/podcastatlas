@@ -2,7 +2,7 @@
 title: "Battlefield Encirclement Logistics / 战场围困与断粮"
 type: concept
 tags: [warfare, logistics, encirclement, military-command, warring-states]
-sources: [zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
+sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]
 last_updated: 2026-08-23
 ---
 
@@ -26,6 +26,8 @@ This adds an attacking-rescue version of the concept. The side trying to relieve
 
 [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] adds the Baideng winter-isolation version. [[MaoDunChanyu|冒顿单于]]'s cavalry does not need to storm [[LiuBang|刘邦]] immediately once the Han ruler is separated at [[BaidengEncirclement|白登]]; the source stresses that cold, blocked retreat, slow support, and surrounding cavalry can make waiting itself lethal. Encirclement logistics here is less about one cut food corridor than about using mobility and weather to turn a commander-in-person advance into an unsustainable pocket.
 
+[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] adds the release boundary of that same encirclement. The pocket remains lethal through hunger, cold, and separation, but Modu's ability to keep it closed is not costless: allied forces fail to arrive, Han reinforcements are approaching, and holding or occupying the Han ruler could exceed Xiongnu aims. The concept therefore connects battlefield isolation to [[EncirclementReleaseCalculus|围困开口式风险权衡]], where the encircler may open one passage because total destruction creates new strategic risk.
+
 ## Key Claims
 - Encirclement becomes decisive when it controls food movement, not only battlefield position.
 - A feigned retreat can be useful when it pulls the enemy across a terrain or river line that makes retreat harder.
@@ -38,8 +40,10 @@ This adds an attacking-rescue version of the concept. The side trying to relieve
 - Hanji 156 adds that the concept can appear as rejected advice: the stronger side may fail by declining to convert terrain and logistics advantage into a waiting trap.
 - Gaixia adds an exhaustion-first encirclement: the attacker is not trapped by one immediate cutoff but by layered resistance, rear pressure, and the loss of food after the field defeat.
 - Hanji 177 adds that a mobile cavalry force can make winter exposure and separation from the main army part of encirclement logistics.
+- Hanji 178 adds that an encirclement's logistical success can still produce a release decision when allied uncertainty, reinforcements, and occupation costs make full annihilation risky.
 
 ## Connections
+- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[BaidengEncirclement|白登之围]], [[MaoDunChanyu|冒顿单于]], [[LiuBang|刘邦]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - lethal isolation whose continuation becomes strategically risky for the encircler.
 - [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[BaidengEncirclement|白登之围]], [[LiuBang|刘邦]], [[MaoDunChanyu|冒顿单于]], and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - winter cavalry encirclement that can kill through isolation.
 - [[BaiQi|白起]], [[ZhaoKuo|赵括]], [[QinState|秦国]], and [[ZhaoState|赵国]] - commander pair and opposing states in the source case.
 - [[ChangpingBattle|长平之战]] - battle where the mechanism is developed.

@@ -2,143 +2,165 @@
   "claims": [
     {
       "global_candidate": true,
-      "id": "state-capacity-does-not-guarantee-political-security",
+      "id": "founding-order-converts-victory-into-governance",
       "qualifications": [
-        "The early Han material extends the pattern beyond the earlier Warring States and Qin reform sequence rather than replacing it.",
-        "Hanji 176 adds that ritual hierarchy can create usable court order while also widening ruler-minister distance."
+        "This claim is grounded in the Ruiqi Hanji sequence and remains source-scoped to that interpretation of early Western Han founding."
       ],
-      "statement": "[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], [[LiuBang]], [[Xiongnu]], [[LiAsPoliticalOrder]], and [[ImperialRitualDistance]] show that durable order also depends on social support, exit design, frontier security, ritualized hierarchy, and limits on ruler-minister distance.",
+      "statement": "The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, and finally Baideng's [[HanXiongnuHeqinPolicy|heqin]] pivot.",
       "status": "supported",
       "supporting_wikilinks": [
-        "QinAdministrativeStandardization",
-        "MeritBasedRewardPunishment",
-        "PeopleBasedPoliticalSecurity",
-        "PowerExitTrap",
         "LiuBang",
-        "Xiongnu",
+        "StrategicCapitalRelocation",
         "LiAsPoliticalOrder",
-        "ImperialRitualDistance",
-        "Xinyu"
+        "BaidengEncirclement",
+        "HanXiongnuHeqinPolicy"
       ]
     },
     {
       "global_candidate": true,
-      "id": "private-and-ai-power-require-governance",
+      "id": "state-capacity-needs-controls-symbols-and-exits",
       "qualifications": [
-        "The sources offer competing ownership, oversight, liability, distribution, and measurement mechanisms rather than one settled model."
+        "The Qin and Warring States paragraphs support strong administrative capacity, while also warning that effective control can produce legitimacy and personal-survival costs."
       ],
-      "statement": "[[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[DataCenterBacklash]], [[SatelliteConnectivityCompetition]], [[TechnologyRightPowerNetwork]], and [[LongTermBenefitTrust]] show that governance questions arise inside firms, technical organizations, infrastructure networks, and political talent systems as well as through public law.",
+      "statement": "State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.",
       "status": "qualified",
       "supporting_wikilinks": [
-        "PrivateRegulatoryPower",
-        "AIAlignmentGovernance",
-        "DataCenterBacklash",
-        "SatelliteConnectivityCompetition",
-        "TechnologyRightPowerNetwork",
-        "LongTermBenefitTrust"
+        "LegalistRulerTechnique",
+        "QinAdministrativeStandardization",
+        "HouseholdSeparationLaw",
+        "ImperialSymbolicStandardization",
+        "PowerExitTrap",
+        "WarringStatesReformBacklash"
       ]
     },
     {
       "global_candidate": false,
-      "id": "safety-rules-carry-rights-tradeoffs",
+      "id": "institutions-proceduralize-status-truth-and-violence",
       "qualifications": [
-        "The balance between access restrictions, privacy reform, product liability, developer liability, and platform editorial defenses remains contested."
+        "These sources are not one institutional lineage; they use literature and history to expose recurring governance problems around honor, truth, reputation, and political conditions."
       ],
-      "statement": "Rules intended to reduce platform and AI harm must be evaluated alongside [[YouthOnlineSpeechRights]], [[ComprehensiveConsumerDataPrivacy]], [[StateAILiabilityShield]], [[CatastrophicAILiability]], and [[SocialMediaAgeGateSpeechBurden]].",
-      "status": "contested",
-      "supporting_wikilinks": [
-        "YouthOnlineSpeechRights",
-        "ComprehensiveConsumerDataPrivacy",
-        "StateAILiabilityShield",
-        "CatastrophicAILiability",
-        "SocialMediaAgeGateSpeechBurden"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "procedure-converts-conflict-into-legible-order",
-      "qualifications": [
-        "Proceduralization can constrain conflict without making the underlying practice just, nonviolent, or strategically stable.",
-        "The early Han court ritual case is more administrative than violent, but it belongs to the same proceduralization pattern."
-      ],
-      "statement": "[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], [[ConquestSelfDefenseNarrative]], [[GameTheory]], [[StrategicUnpredictability]], and [[ChanglePalace]] show institutions turning honor, violence, conquest, legitimacy, competitive prediction, and court hierarchy into rule-bound or symbolically legible forms.",
+      "statement": "Several cultural-history sources treat institutions as procedures for unstable status problems: duels, trials, political face, public moral performance, exile, and speed all turn private conflict into rule-bound or stage-bound behavior.",
       "status": "supported",
       "supporting_wikilinks": [
-        "ProceduralizedViolence",
         "HonorDuelCulture",
-        "ImperialSymbolicStandardization",
-        "ConquestSelfDefenseNarrative",
-        "GameTheory",
-        "StrategicUnpredictability",
-        "ChanglePalace"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "cultural-works-expose-informal-governance",
-      "qualifications": [
-        "These are interpretive claims from literary sources, not institutional histories in the narrow sense."
-      ],
-      "statement": "[[ShifgrethorPoliticalFace]], [[PatriotismAsHatred]], [[PublicMoralPerformance]], and [[PoliticalConditionAsHumanExperiment]] show fiction and literary criticism treating reputation, loyalty, media performance, exile, and social categories as informal political institutions.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
+        "ProceduralizedViolence",
         "ShifgrethorPoliticalFace",
-        "PatriotismAsHatred",
         "PublicMoralPerformance",
         "PoliticalConditionAsHumanExperiment"
       ]
     },
     {
-      "global_candidate": false,
-      "id": "markets-need-rules-that-make-risk-legible",
+      "global_candidate": true,
+      "id": "regulation-makes-market-demand-and-liability-visible",
       "qualifications": [
-        "Legibility can reduce risk or create useful demand signals, but it can also shift costs, compliance burdens, and political exposure."
+        "The same rule-making that creates markets or accountability can also burden speech, access, or platform competition."
       ],
-      "statement": "[[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[AntiMoneyLaundering]], [[AcademicPredictionMarketSandbox]], [[FinancialPowerAndStateCapacity]], [[ChinesePrivateAirlineOpening]], and [[DiasporaCapitalManufacturingClusters]] show markets depending on standards, auditability, eligibility rules, compliance boundaries, local permission, and trusted infrastructure.",
-      "status": "supported",
+      "statement": "Regulation shapes markets by making costs, demand, and liability legible, from [[EmbodiedCarbonBuildingCode|building-carbon rules]] and low-carbon material sourcing to AI liability, satellite connectivity competition, physical-book platform bridges, and child-safety/privacy tradeoffs.",
+      "status": "qualified",
       "supporting_wikilinks": [
         "EmbodiedCarbonBuildingCode",
-        "ConstructionCarbonCompliance",
-        "AntiMoneyLaundering",
-        "AcademicPredictionMarketSandbox",
-        "FinancialPowerAndStateCapacity",
-        "ChinesePrivateAirlineOpening",
-        "DiasporaCapitalManufacturingClusters"
+        "LowCarbonConstructionMaterials",
+        "StateAILiabilityShield",
+        "SatelliteConnectivityCompetition",
+        "PhysicalBookPlatformBridge",
+        "ComprehensiveConsumerDataPrivacy",
+        "YouthOnlineSpeechRights"
       ]
     },
     {
       "global_candidate": false,
-      "id": "legitimacy-is-tested-by-unresolved-symbols",
+      "id": "rule-design-manages-predictability-and-information",
       "qualifications": [
-        "The examples range from electoral politics to sport and climate symbolism, so the claim is about recurring legitimacy pressure rather than one institutional domain."
+        "The sports case is a micro-strategy analogy, while prediction markets raise broader regulatory and public-trust questions."
       ],
-      "statement": "[[IsraeliElection2026]], [[PalestinianQuestionInIsraeliPolitics]], [[SportsPoliticalInterference]], and [[IcebergClimateSymbolism]] show public legitimacy fraying when formal events, symbolic objects, or natural phenomena carry unresolved political meaning.",
-      "status": "qualified",
+      "statement": "Whether in penalties or election markets, rule design has to manage predictability and information: better data is useful only when it preserves [[StrategicUnpredictability|strategic unpredictability]] or limits gambling, insider, and public-trust risks.",
+      "status": "supported",
       "supporting_wikilinks": [
+        "MixedStrategy",
+        "DataDrivenPenaltyPreparation",
+        "StrategicUnpredictability",
+        "IowaElectronicMarkets",
+        "AcademicPredictionMarketSandbox",
+        "ElectionBettingMarkets"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "infrastructure-power-creates-governance-pressure",
+      "qualifications": [
+        "These are heterogeneous cases; their shared point is that infrastructure and distribution choices create political effects even when framed as technical, commercial, or symbolic."
+      ],
+      "statement": "Infrastructure power becomes governance pressure when chip controls, data-center costs, assistant distribution, ideological talent pipelines, elections, sports bodies, and climate symbols shape who pays, who gets access, and who can set public narratives.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "DataCenterCostShifting",
+        "DataCenterBacklash",
+        "DomesticAIChipCatchUp",
+        "AIProductFragmentation",
+        "TechnologyRightPowerNetwork",
         "IsraeliElection2026",
-        "PalestinianQuestionInIsraeliPolitics",
         "SportsPoliticalInterference",
         "IcebergClimateSymbolism"
       ]
     },
     {
       "global_candidate": false,
-      "id": "trust-and-mission-require-operating-constraints",
+      "id": "finance-compliance-is-state-capacity-at-user-level",
       "qualifications": [
-        "Trust can also attract investor, customer, acquirer, or public-pressure claims that reshape the mission."
+        "The investment paragraph is about portfolio discipline, while the banking and AML paragraphs emphasize institutional trust and compliance exposure."
       ],
-      "statement": "[[SaaSTrustMoat]], [[TrustAsBusinessAsset]], [[GreenHushing]], [[SustainableGrowthPace]], [[FinancialGravity]], and [[PostAcquisitionFounderIdentity]] show that trust and mission can become durable assets only when organizations protect them through ownership, pacing, evidence, and operating discipline.",
+      "statement": "Finance governance links state capacity to user-level risk: accounting, banking, currency, AML, KYC, cross-border transfers, and investment constraints all determine what economic activity can be trusted, audited, or safely accessed.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "FinancialPowerAndStateCapacity",
+        "AccountingInfrastructure",
+        "CurrencyCredit",
+        "AntiMoneyLaundering",
+        "BankingKYCCompliance",
+        "ConsumerAMLExposure",
+        "InvestmentRiskManagement",
+        "QDIIAllocation"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "public-private-infrastructure-mediates-enterprise-growth",
+      "qualifications": [
+        "The Minnan case is long-run regional commercial infrastructure; the East Star Airlines case is a modern private-airline fragility case."
+      ],
+      "statement": "Enterprise growth depends on aligned public and private infrastructure: ports, diaspora remittances, manufacturing clusters, airline regulation, aircraft finance, local-government support, and cash discipline can amplify or break founder force.",
       "status": "qualified",
       "supporting_wikilinks": [
-        "SaaSTrustMoat",
+        "Quanzhou",
+        "HaijinAndMaritimeSmuggling",
+        "DiasporaCapitalManufacturingClusters",
+        "ChinesePrivateAirlineOpening",
+        "AviationFinanceLeasing",
+        "LocalGovernmentEnterpriseRescue",
+        "GrassrootsPrivateEntrepreneurship"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "trust-and-mission-are-governance-assets-and-liabilities",
+      "qualifications": [
+        "The claim joins older ownership structures, AI governance, operating culture, and founder-brand cases under the narrower question of how trust survives pressure."
+      ],
+      "statement": "Trust and mission are governance assets only when protected by structures: customer reliability, private standards, benefit trusts, stewardship ownership, AI alignment governance, post-acquisition identity, greenhushing, and growth pace all show that values can attract pressure as well as loyalty.",
+      "status": "supported",
+      "supporting_wikilinks": [
         "TrustAsBusinessAsset",
-        "GreenHushing",
-        "SustainableGrowthPace",
         "FinancialGravity",
-        "PostAcquisitionFounderIdentity"
+        "PrivateRegulatoryPower",
+        "LongTermBenefitTrust",
+        "StewardOwnership",
+        "AIAlignmentGovernance",
+        "PostAcquisitionFounderIdentity",
+        "GreenHushing",
+        "SustainableGrowthPace"
       ]
     }
   ],
-  "summary": "Governance is presented as enforceable control over incentives, information, rights, legitimacy, infrastructure, ritual hierarchy, and institutional trust. The topic spans ancient state formation, early Han frontier and court ritual order, imperial symbolism, honor violence, literary political conditions, platform and AI liability, private infrastructure, compliance markets, prediction markets, maritime and aviation capacity, electoral legitimacy, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, social distance, or new legitimacy problems.",
+  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, public symbols become legitimacy, markets become rule-bound information systems, and private trust becomes a governing asset. The topic also keeps the liabilities visible: frontier defeats force diplomacy, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
   "topic_id": "governance-and-institutions"
 }
