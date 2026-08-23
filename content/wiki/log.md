@@ -10692,3 +10692,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能
+
+Added source page for Talk三联 EP277: Jia Zhangke's defense of AI cinema as exploration rather than betrayal of reality, his distinction between realism and responding to the real world, and his view that AI may change film production methods more deeply than the film-to-digital carrier shift. Created Jia Zhangke, Pingyao International Film Festival, and Film Reality Beyond Realism; updated overview, index, Talk三联-adjacent AI film concepts, creative-labor backlash, likeness/copyright/energy concerns, Charlie Chaplin, and Martin Scorsese. No settled contradiction found; the episode qualifies AI-video optimism by keeping mature AI-film aesthetics, production roles, and legal/ethical rules source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6838
+wiki_total_pages: 6840
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "PingzhouWarringStates"
     title: "平州 / Pingzhou (Warring States)"
     url: "/wiki/entities/pingzhouwarringstates/"
+  - key: "PingyaoInternationalFilmFestival"
+    title: "平遥国际电影展 / Pingyao International Film Festival"
+    url: "/wiki/entities/pingyaointernationalfilmfestival/"
   - key: "PangChunmei"
     title: "庞春梅 / Pang Chunmei"
     url: "/wiki/entities/pangchunmei/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5a812adda2354fa116abbd4ceeb289347859d235ee63a80cd2cbbb9fb68ab97f",
       "3f1d2cb89b2462a4b2548a48ae235c7a207e6374aa52b275f70538dfb76e1ad1",
       "e1ca143c8028d1d9242fe111015583e9707bdfb6650810af92e0a3a6364b7b45",
       "03bcd52c81384ad5923c792ea257b87584f327c0cbec8f48c94af1f3965a1cf3",
@@ -143,11 +144,38 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 141
+    "paragraph_count": 142
   },
-  "overview_commit": "bc9f9cded366b43769980dea9ca648a209e17b72",
-  "overview_digest": "d5f24bf65e89876712175474a47c776410493a089b12b0160e377139077a2ce0",
+  "overview_commit": "d5bbbd54ccef5e9236068103fd46f9842b6c8924",
+  "overview_digest": "58a7d4ce11e7f2d038e9734cb90a98b124a2ed1add3b595679f6f31fc355ab62",
   "paragraphs": [
+    {
+      "id": "5a812adda2354fa116abbd4ceeb289347859d235ee63a80cd2cbbb9fb68ab97f",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox]], a [[TalkSanlian|Talk三联]] episode with [[JiaZhangke|贾樟柯]] on AI cinema, realism, and film production. It adds [[JiaZhangke|贾樟柯]], [[PingyaoInternationalFilmFestival|平遥国际电影展]], and [[FilmRealityBeyondRealism]], while extending [[AIVideoProductionWorkflow]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[CharlieChaplin|卓别林]], and [[MartinScorsese|Martin Scorsese]]. Its core synthesis is that \"responding to the real world\" is not the same as using only realist photographic methods: Jia sees AI as a possible production-method rupture that may eventually form its own aesthetics, while still treating live-action location work as his own main creative home and keeping rights, labor, and energy constraints unresolved. No settled contradiction is recorded.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIEnergyBottleneck",
+        "AIPublicLikenessGeneration",
+        "AITrainingCopyrightDispute",
+        "AIVideoProductionWorkflow",
+        "CharlieChaplin",
+        "CreativeLaborAIBacklash",
+        "FilmRealityBeyondRealism",
+        "JiaZhangke",
+        "LiveActionFilmUnderAI",
+        "MartinScorsese",
+        "PingyaoInternationalFilmFestival",
+        "TalkSanlian",
+        "ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox"
+      ]
+    },
     {
       "id": "3f1d2cb89b2462a4b2548a48ae235c7a207e6374aa52b275f70538dfb76e1ad1",
       "primary_topic": "governance-and-institutions",

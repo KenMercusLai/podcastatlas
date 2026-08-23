@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6838
+wiki_total_pages: 6840
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "JiaFamilyHousehold"
     title: "贾府 / Jia Family Household"
     url: "/wiki/entities/jiafamilyhousehold/"
+  - key: "JiaZhangke"
+    title: "贾樟柯 / Jia Zhangke"
+    url: "/wiki/entities/jiazhangke/"
   - key: "JiaMu"
     title: "贾母 / Jia Mu"
     url: "/wiki/entities/jiamu/"

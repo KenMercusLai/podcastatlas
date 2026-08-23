@@ -2,128 +2,219 @@
   "claims": [
     {
       "global_candidate": true,
-      "id": "ai-raises-the-value-of-verifiable-judgment",
+      "id": "production-change-tests-human-judgment",
       "qualifications": [
-        "The balance differs between routine work, high-stakes professional decisions, education, physical or embodied AI systems, and contested forecasts about entry-level labor demand."
+        "EP277 treats AI cinema as a possible production-method rupture but leaves its mature aesthetics, rights regime, labor settlement, and energy costs unresolved."
       ],
-      "statement": "[[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design.",
+      "statement": "AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]].",
       "status": "qualified",
       "supporting_wikilinks": [
+        "AIVideoProductionWorkflow",
+        "JiaZhangke",
+        "FilmRealityBeyondRealism",
+        "LiveActionFilmUnderAI",
+        "RollingAI",
+        "HeadlessSoftware",
+        "Paperboy",
         "HumanJudgmentUnderAI",
-        "AICodingVerification",
         "AIEngineeringThinking",
-        "FrontlineAIEnablement",
-        "AIUsePacing",
-        "DeepSeek",
-        "EntryLevelAICareerLadderRisk"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "career-moves-benefit-from-stage-specific-learning",
-      "qualifications": [
-        "These sources are practical accounts rather than controlled labor-market studies.",
-        "Hanji 1017 is a historical-political analogy, not direct labor-market evidence; its extension from [[QingYuQuJiu]] to jobs, marriage, friends, and investing remains source-scoped."
-      ],
-      "statement": "[[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], [[FinanceCareerPortability]], [[CabinCrewWork]], [[BankDueDiligence]], and Hanji 1017's [[QingYuQuJiu]] / [[PoliticalSurvivalFirst]] frame careers and other major commitments as staged decisions requiring explicit goals, evidence, context reading, service discipline, risk control, and managed communication.",
-      "status": "supported",
-      "supporting_wikilinks": [
-        "InternshipAsCareerExploration",
-        "UpwardManagement",
-        "InternalTransferStrategy",
-        "FinancialCareerRisk",
-        "FinanceCareerPortability",
-        "CabinCrewWork",
-        "BankDueDiligence",
-        "QingYuQuJiu",
-        "PoliticalSurvivalFirst",
-        "XingshiqingStrategicAssessment"
+        "AICodingVerification"
       ]
     },
     {
       "global_candidate": true,
-      "id": "learning-tools-should-preserve-reasoning",
+      "id": "implementation-beats-capability-claims",
       "qualifications": [
-        "The optimal amount of productive struggle varies by learner and task."
+        "The specific implementation bottleneck differs by domain: it may be sales, retail shelves, permits, supply chains, audit evidence, hidden variables, customer deployment, or market structure."
       ],
-      "statement": "[[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding.",
+      "statement": "Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "ProductLedWillingnessToPay",
+        "OpenSourceWedge",
+        "SalesAsLearnableSkill",
+        "CPGDistribution",
+        "ChinaHandsetSupplyChain",
+        "AdvancedMarketCommitment",
+        "BankDueDiligence",
+        "AetherAI",
+        "ThreatLocker",
+        "JimSimons",
+        "BuildingPublic"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "career-entry-and-advancement-need-context-practice",
+      "qualifications": [
+        "Internships and transfers are most useful when tied to explicit stage goals, direction filtering, and managed communication rather than prestige alone."
+      ],
+      "statement": "Career progress is framed as context practice rather than credential magic: [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[UpwardManagement]], [[PromotionExpectationManagement]], and [[InternalTransferStrategy]] turn entry and mobility into staged communication, evidence, and risk-management problems.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "InternshipAsCareerExploration",
+        "GraduationAnxiety",
+        "WorkplaceHiddenRules",
+        "DirtyWork",
+        "BigCompanyHalo",
+        "UpwardManagement",
+        "PromotionExpectationManagement",
+        "InternalTransferStrategy",
+        "YiLaoYongYi"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "creator-and-lifestyle-work-requires-niche-economics",
+      "qualifications": [
+        "The sources frame modest self-media income as local merchant fit, platform compliance, workload, and cost discipline rather than a general replacement for employment."
+      ],
+      "statement": "Creator work and lifestyle autonomy depend on niche economics and bounded costs: [[XiaohongshuCreatorMonetization]], [[LifestyleSubsidyCreatorWork]], and [[FinancialFreedomVsLifestyleFreedom]] matter more than follower-count optimism, while [[MiddleClassConsumptionPressure]] and [[LifestyleCostRationalization]] reset what income is meant to support.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "XiaohongshuCreatorMonetization",
+        "LocalLifestyleStoreReviews",
+        "LifestyleSubsidyCreatorWork",
+        "FinancialFreedomVsLifestyleFreedom",
+        "MiddleClassConsumptionPressure",
+        "LifestyleCostRationalization",
+        "Zhuzhu"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "institutional-work-relies-on-boundaries",
+      "qualifications": [
+        "Drama and informal stories can introduce these settings, but the recurring advice is to separate duties, relationships, client interests, safety rules, and self-protection."
+      ],
+      "statement": "Professional settings such as finance, banking, cabin service, and office communication depend on explicit boundaries: [[FinancialCareerRisk]], [[FinancialEmployeeMisconductControls]], [[BankInternalAudit]], [[CabinCrewWork]], [[AviationSafetyRules]], [[CommunicationBoundarySetting]], and [[WorkplaceRelationshipBoundaries]] define what competence must protect.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "FinancialCareerRisk",
+        "ThirdPartyWealthPlatformRisk",
+        "FinancialEmployeeMisconductControls",
+        "IndependentInvestmentConsulting",
+        "FinanceCareerPortability",
+        "BankInternalAudit",
+        "BankDueDiligence",
+        "CabinCrewWork",
+        "AviationSafetyRules",
+        "PassengerComplaintHandling",
+        "CommunicationBoundarySetting",
+        "SocialSignalInterpretation",
+        "WorkplaceCommunicationRisk",
+        "LanguagePrecision",
+        "WorkplaceRelationshipBoundaries",
+        "CityInTheCity"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "education-and-care-require-struggle-and-responsibility",
+      "qualifications": [
+        "AI help and fictional wonder can lower access barriers, but shortcuts or spectacle can bypass the reasoning, evidence, dirty work, and care obligations the sources value."
+      ],
+      "statement": "Learning and care-centered work are valuable when they preserve responsibility and reasoning, from [[SelfDirectedLearning]] and [[LearningExperienceDesign]] to [[CaptiveAnimalCareLabor]] and [[DinosaurAsLivingAnimal]].",
       "status": "qualified",
       "supporting_wikilinks": [
         "SelfDirectedLearning",
         "LearningExperienceDesign",
-        "AIShortcutRisk"
+        "AIShortcutRisk",
+        "AIAsTutor",
+        "AIUsePacing",
+        "AILiteracyAgainstWorship",
+        "DinoSanctuary",
+        "CaptiveAnimalCareLabor",
+        "DinosaurAsLivingAnimal",
+        "EvidenceBoundPaleontologicalReconstruction",
+        "BirdDinosaurContinuity"
       ]
     },
     {
       "global_candidate": true,
-      "id": "outcomes-depend-on-distribution-and-context",
+      "id": "ai-entertainment-needs-systems-not-assets",
       "qualifications": [
-        "The relevant context differs sharply across software, physical products, creator work, hardware ecosystems, games, embodied AI, and paid AI services."
+        "Generated assets, chat, or prototypes do not yet equal stable games or entertainment communities; the sources keep stressing tuned rules, state, agency, and a consensus-defining product."
       ],
-      "statement": "[[ProductLedWillingnessToPay]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AIInteractiveEntertainment]], [[CompanionRobots]], [[OutcomeBasedAIPricing]], and [[XiaohongshuCreatorMonetization]] show that adoption and income depend on channels, production, platform rules, repeat use, buyer context, and designed interaction rather than capability or attention alone.",
-      "status": "supported",
-      "supporting_wikilinks": [
-        "ProductLedWillingnessToPay",
-        "CPGDistribution",
-        "ChinaHandsetSupplyChain",
-        "AIInteractiveEntertainment",
-        "CompanionRobots",
-        "OutcomeBasedAIPricing",
-        "XiaohongshuCreatorMonetization"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "status-and-boundaries-shape-post-achievement-work",
-      "qualifications": [
-        "These sources emphasize practical workplace and social judgment rather than a universal theory of status."
-      ],
-      "statement": "[[UpwardManagement]], [[WorkplaceHiddenRules]], [[CommunicationBoundarySetting]], [[WorkplaceRelationshipBoundaries]], [[SocialSignalInterpretation]], and [[LanguagePrecision]] show that work and social outcomes depend on role assignment, status hierarchy, reputation, timing, language, and boundary management as much as raw competence.",
+      "statement": "AI entertainment becomes durable work only when generation is embedded in systems: [[AIInteractiveEntertainment]], [[AIGameIndustrialization]], [[AIInteractiveContentPlatforms]], [[AISimulationContent]], and [[AISuperCreators]] still need retention, distribution, state, rules, revenue sharing, and creator education.",
       "status": "qualified",
       "supporting_wikilinks": [
-        "UpwardManagement",
-        "WorkplaceHiddenRules",
-        "CommunicationBoundarySetting",
-        "WorkplaceRelationshipBoundaries",
-        "SocialSignalInterpretation",
-        "LanguagePrecision"
+        "AIInteractiveEntertainment",
+        "AIGameIndustrialization",
+        "AIInteractiveContentPlatforms",
+        "AISimulationContent",
+        "AISuperCreators",
+        "AINPCSocialInfrastructure",
+        "DesignedAgencyInGames",
+        "CreationAsConsumption",
+        "Mujian",
+        "Roi",
+        "Youju",
+        "Xiaoning",
+        "CharacterAI"
       ]
     },
     {
       "global_candidate": false,
-      "id": "mission-work-needs-capacity-and-evidence",
+      "id": "embodied-ai-needs-material-social-context",
       "qualifications": [
-        "Mission and evidence appear in different forms across CPG, education, banking, finance, service work, animal care, and climate hard tech."
+        "The source distinguishes companionship from chatbot utility and task robotics; the product value depends on restrained non-human expression and household integration."
       ],
-      "statement": "[[PurposeDrivenBusiness]], [[MissionDrivenCustomerEducation]], [[GreenHushing]], [[SustainableGrowthPace]], [[BankInternalAudit]], [[CaptiveAnimalCareLabor]], and [[CarbonRemovalPermitting]] show that values, trust, and professional claims need operating capacity, evidence, care labor, and risk controls.",
+      "statement": "Embodied AI depends on material and social context as much as models: [[Xiaoban]], [[CompanionRobots]], [[RobotLiveliness]], [[OnDeviceFastSlowBrain]], [[EmotionalInteractionModels]], and [[FamilyWorldSimulator]] show companionship as movement, memory, refusal, privacy, charging rituals, and user interpretation.",
       "status": "supported",
       "supporting_wikilinks": [
-        "PurposeDrivenBusiness",
-        "MissionDrivenCustomerEducation",
-        "GreenHushing",
-        "SustainableGrowthPace",
-        "BankInternalAudit",
-        "CaptiveAnimalCareLabor",
-        "CarbonRemovalPermitting"
+        "Xiaoban",
+        "Shibo",
+        "YuebanDongli",
+        "EmbodiedAI",
+        "CompanionRobots",
+        "RobotLiveliness",
+        "OnDeviceFastSlowBrain",
+        "EmotionalInteractionModels",
+        "FamilyWorldSimulator"
       ]
     },
     {
       "global_candidate": false,
-      "id": "work-changes-reshape-autonomy-and-consumption",
+      "id": "alignment-strategy-scales-from-family-to-markets",
       "qualifications": [
-        "The sources describe household and creator adaptation under changing work income rather than a universal consumption rule."
+        "The historical and prediction-market materials are not the same domain; the shared claim is limited to incentives, commitment, and trust under uncertainty."
       ],
-      "statement": "[[FinancialFreedomVsLifestyleFreedom]], [[MiddleClassConsumptionPressure]], [[LifestyleCostRationalization]], [[LifestyleSubsidyCreatorWork]], and [[XiaohongshuCreatorMonetization]] show that work pressure and modest platform income reshape autonomy through fixed costs, status signals, local opportunities, and price discipline.",
+      "statement": "Strategic alignment appears at multiple social scales: [[ChenDeng]], [[ChenGui]], [[PoliticalSurvivalFirst]], and [[XingshiqingStrategicAssessment]] show family-level survival planning, while [[Polymarket]] and [[CitizenJournalismAccountability]] raise similar questions about incentives, public signals, and trust in prediction infrastructure.",
       "status": "source-scoped",
       "supporting_wikilinks": [
-        "FinancialFreedomVsLifestyleFreedom",
-        "MiddleClassConsumptionPressure",
-        "LifestyleCostRationalization",
-        "LifestyleSubsidyCreatorWork",
-        "XiaohongshuCreatorMonetization"
+        "ChenDeng",
+        "ChenGui",
+        "CaoCao",
+        "LyuBu",
+        "GuanglingCommandery",
+        "PoliticalSurvivalFirst",
+        "XingshiqingStrategicAssessment",
+        "QingYuQuJiu",
+        "Polymarket",
+        "CitizenJournalismAccountability"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "ai-abundance-creates-contested-labor-outcomes",
+      "qualifications": [
+        "The 2026 prediction source records contradictory investor assumptions rather than resolved outcomes; it is valuable as a map of tensions, not as settled accuracy."
+      ],
+      "statement": "The AI labor outlook remains unsettled: [[EntryLevelAICareerLadderRisk]] and [[SoftwareMaintenanceRevenueCompression]] point toward compressed work paths, while the same [[AllIn]] prediction map leaves open whether AI expands knowledge-work demand and public information infrastructure through tools such as [[Polymarket]].",
+      "status": "contested",
+      "supporting_wikilinks": [
+        "EntryLevelAICareerLadderRisk",
+        "SoftwareMaintenanceRevenueCompression",
+        "AllIn",
+        "AIBacklashPolitics",
+        "AIIPOValuation",
+        "JevonsParadoxInAI",
+        "Polymarket",
+        "CitizenJournalismAccountability"
       ]
     }
   ],
-  "summary": "The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, designed interaction, and operating systems that preserve human reasoning and career mobility. Hanji 1017 adds a historical analogy for major commitments: course changes are strongest when they are staged, evidence-backed, and context-aware rather than driven by light switching.",
+  "summary": "Work, education, and social practice now cluster around implementation, boundaries, and responsibility. AI cinema, agents, interactive entertainment, companion robots, AI tutors, and AI coding lower production friction, but they do not remove human judgment, workflow design, rights, labor, energy limits, or the struggle required for learning. Non-AI career and service sources reinforce the same pattern: internships, upward management, finance, banking, aviation, creator monetization, household consumption, mission-driven CPG, carbon removal, family political strategy, and prediction markets turn abstract opportunity into staged evidence, operations, trust, and risk control.",
   "topic_id": "work-education-and-society"
 }

@@ -2,11 +2,13 @@
 title: "AI Video Production Workflow"
 type: concept
 tags: [ai, video, workflow, creator-economy]
-sources: [all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-20
+sources: [ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-24
 ---
 
 # AI Video Production Workflow
+
+[[ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox]] adds [[JiaZhangke|贾樟柯]]'s film-industry version. He distinguishes AI from the film-to-digital shift: digital changed the carrier, while AI could change the production method by unsettling cameras, sound recorders, actors, crews, prompting roles, and the selection labor around generated images.
 
 [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds the professional ideation and launch-video branch through [[RobinRombach|Robin Rombach]] and [[BlackForestLabs|Black Forest Labs]]. The source treats [[MartinScorsese|Martin Scorsese]]'s use as visual ideation, then extends the workflow to storyboarding, startup launch videos, AI-generated scenery, and IP-owner model partnerships.
 
@@ -25,6 +27,7 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 [[the-business-of-heated-rivalry]] adds a boundary case from traditional television production. [[BrendanBrady]] says AI may help scheduling, budgeting, preparation, and other data-heavy production tasks, but he does not want it to become the creative engine for costuming or the authored parts of a show.
 
 ## Key Claims
+- Jia's source adds that AI video is not only a productivity workflow; it may reorganize the industrial roles that define film production.
 - AI video lets one person or a small team attempt work that previously required a larger filming crew.
 - The "抽卡师" role appears because repeated generation and selection become production labor.
 - Tool subscriptions and per-second generation cost are still materially cheaper than many live-action workflows in the source's account.
@@ -39,6 +42,7 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - The All-In Black Forest Labs source adds that professional use can start before final footage: previsualization, visual communication, and launch-storytelling may capture value while feature-film delivery remains hard.
 
 ## Connections
+- [[JiaZhangke|贾樟柯]], [[FilmRealityBeyondRealism]], and [[PingyaoInternationalFilmFestival|平遥国际电影展]] - AI-cinema and realism branch added by EP277.
 - [[AIShortDrama]] — main content category using the workflow.
 - [[AnhuiXiaoMujiang]] and [[XiaoGuoGege]] — concrete workflow case.
 - [[VideoModels]] and [[Seedance]] — model-capability context, with the source also naming C-dance, Jimeng, Kling, Vidu, and PixVerse as tools.

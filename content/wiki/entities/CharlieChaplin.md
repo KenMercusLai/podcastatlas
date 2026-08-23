@@ -2,11 +2,13 @@
 title: "Charlie Chaplin / 卓别林"
 type: entity
 tags: [director, actor, film, biography]
-sources: [01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-23
+sources: [ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-08-24
 ---
 
 # Charlie Chaplin / 卓别林
+
+[[ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox]] adds Chaplin through [[JiaZhangke|贾樟柯]]'s AI-cinema analogy. Jia links the "Modern Times" image of industrial production changing work and life to AI's possible effect on film production and everyday life.
 
 Charlie Chaplin is one of the main director subjects in [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]]. The episode uses him to separate political persecution and artistic stature from private moral reliability: Chaplin's left-leaning reputation and McCarthy-era exclusion from the United States sit beside the source's discussion of age-gap marriages, women's allegations, harsh treatment on set, anxieties, bodily rumors, and the theft of his body after burial.
 
@@ -15,6 +17,7 @@ Charlie Chaplin is one of the main director subjects in [[107-xianliao-weida-dao
 In the wiki, Chaplin is part of [[DirectorMythDeflation]] and [[ArtisticAchievementMoralAccountability]]. The source does not ask listeners to erase his film importance, but it does refuse to treat iconic comic genius, progressive politics, or victimization by anti-communist pressure as proof of personal virtue.
 
 ## Connections
+- [[JiaZhangke|贾樟柯]], [[PingyaoInternationalFilmFestival|平遥国际电影展]], and [[FilmRealityBeyondRealism]] - EP277's Modern Times and AI-cinema analogy.
 - [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] - source episode.
 - [[FilmGossipAsContext]] - the episode keeps some anecdotes as rumor-like or uncertain.
 - [[DirectorMythDeflation]] - Chaplin as a case where canonical status and private conduct diverge.
