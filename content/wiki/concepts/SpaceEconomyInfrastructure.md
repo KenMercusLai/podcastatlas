@@ -2,11 +2,13 @@
 title: "Space Economy Infrastructure"
 type: concept
 tags: [space, infrastructure, platforms, hard-tech]
-sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-07
+sources: [tech-20260818-tech-pod-128-tech-20260818-tech-pod-128, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-24
 ---
 
 # Space Economy Infrastructure
+
+[[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]] adds the launch-site layer through [[SpaceLaunchCapacityBottleneck]]. The episode shows that the space economy depends not only on rockets, satellites, and downstream applications, but also on pads, spaceports, range scheduling, ports, airspace, environmental review, and suitable coastal geography.
 
 Space economy infrastructure is the source's frame for treating space as a layered platform rather than a collection of heroic launches. In [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]], [[LouisHong]] separates the industry into upstream hardware and launch, midstream satellite operation and data transport, and downstream applications such as connectivity, manufacturing, AI infrastructure, and physical-world data services.
 
@@ -35,6 +37,7 @@ The source argues that [[SpaceX]] is important because it can operate like a pla
 - Lunar and Mars strategies may serve different goals: economic staging and resource use on the Moon, civilization symbolism and multi-planet ambition on Mars.
 - China-specific commercial launch infrastructure can be evaluated through constellation demand and national communications needs, not only by comparison with [[SpaceX]] launch-cost narratives.
 - Debris management is part of infrastructure: unmanaged stages and satellites can raise reliability, diplomacy, insurance, and safety costs for every downstream space application.
+- Terrestrial launch sites are part of the infrastructure stack: even a strong rocket and satellite market can bottleneck on pads, ports, geography, airspace, licensing, and public environmental acceptance.
 
 ## Connections
 - [[SpaceX]], [[Starlink]], [[Starship]], [[Falcon9]], and [[NASA]] — source's platform and institutional stack.
@@ -47,3 +50,4 @@ The source argues that [[SpaceX]] is important because it can operate like a pla
 - [[SpaceXMafia]] — talent network expected to build downstream hard-tech companies.
 - [[Orienspace]], [[YaoSong]], [[Gravity1Rocket]], [[CommercialRocketLaunchPriority]], and [[SatelliteConnectivityCompetition]] — China commercial-launch infrastructure branch added by episode 173.
 - [[OrbitalDebrisGovernance]], [[JoannaStern]], [[SpaceX]], [[Starlink]], and [[Moon]] - Marketplace Tech debris-management extension.
+- [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], and [[FloridaSpaceCoast]] - Marketplace Tech launch-site capacity extension.

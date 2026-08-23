@@ -4,17 +4,27 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-24
-as_of_overview_commit: 5d4ab724b8fb083f7c5b46bc632042536f74578a
-input_digest: 02cd3840e2ad8b4f98741fe532f6e9c7baac44e061b3fc53b8c276afc952eaf1
+as_of_overview_commit: 9257bd89e15d6fedd1e0f768965978e9c87e7f65
+input_digest: 3bc0aa5395c5cdbc6b5ab4099c5e589de74385bd59ee4c1758177d19b72590cb
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery and turnaround, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.
+Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.
 
 ## Cross-source Findings
+
+### Space Launch Capacity Is Ground Infrastructure
+
+[[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable.
+
+**Evidence:** [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]]
+
+**Qualifications:**
+
+- The FAA burden-reduction rationale and the conservation/legal objections remain source-scoped rather than legally resolved.
 
 ### Climate Adoption Is An Implementation System
 

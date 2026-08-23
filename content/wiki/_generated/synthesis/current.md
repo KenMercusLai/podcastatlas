@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: 5ee60504400f2676507aacb6adce1b5db924bb4b
-summary: "Durable value depends on capability translated through workflows, markets, institutions, evidence, physical constraints, human judgment, and implementation power."
-episode_count: 1358
-source_count: 1358
-paragraph_count: 161
+as_of_overview_commit: 9257bd89e15d6fedd1e0f768965978e9c87e7f65
+summary: "Durable value depends on capability translated through workflows, markets, institutions, evidence, physical infrastructure, human judgment, and implementation power."
+episode_count: 1359
+source_count: 1359
+paragraph_count: 162
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - Implementation power can outrun formal rule claims: [[WestBankOutpostEscalation]] shows how outposts, army ambiguity, and coalition protection turn land control into facts before politics resolves them, while [[UniformCivilCodeIndia]], [[MuslimPersonalLawIndia]], [[MajoritarianLegalUniformity]], and [[LiveInRelationshipRegistration]] show equal-law language shifting minority family-law practice and state oversight; [[PublicFigureWorkplaceAdviceSatire]] supplies a lighter governance analogy where authority failures are translated into ordinary management problems.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
-- [[Zhuque3]] shows that reusable launch is not proven by ascent or a near landing alone; [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[ReusableRocketTurnaround]] all have to close before [[ReusableRocketEconomics]] is demonstrated.
+- [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable.
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough.
 
 ## Synthesis by Domain
@@ -49,7 +49,7 @@ Culture and media sources use literature, games, folklore, and media forms to te
 
 ### Governance and Institutions
 
-Governance turns power, rules, markets, symbols, trust, and development policy into durable order only when legitimacy, feedback, competition, property protection, and implementation incentives hold. The latest source adds West Bank outpost escalation, India's uniform civil-code politics, and Bartleby satire as cases where formal rules are reshaped by on-the-ground enforcement or management practice.
+Governance turns power, rules, markets, symbols, trust, and development policy into durable order only when legitimacy, feedback, competition, property protection, and implementation incentives hold.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
@@ -70,14 +70,14 @@ Personal judgment is treated as calibrated exposure: trust, authorship, role fit
 
 ### Science, Health, and Climate
 
-Science, health, climate, and space-engineering claims become credible through physical constraints, evidence, regulation, implementation cost, and repeatable operations.
+Science, health, climate, and space-engineering claims become credible through physical constraints, evidence, regulation, implementation cost, and repeatable operations; launch capacity now includes pads, geography, licensing, and habitat review.
 
+- [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable. Evidence: [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]].
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
-- [[Zhuque3]] shows that reusable launch is not proven by ascent or a near landing alone; [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[ReusableRocketTurnaround]] all have to close before [[ReusableRocketEconomics]] is demonstrated. Evidence: [[Zhuque3]], [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], [[ReusableRocketTurnaround]], [[ReusableRocketEconomics]].
 
 ### Work, Education, and Society
 
-Work and education change when capability is translated into workflows, ownership, training, implementation systems, peer community, trust, and responsibility. AI adoption and career development both need staged evidence rather than access alone.
+Work and education change when capability is translated into workflows, ownership, training, implementation systems, peer community, trust, and responsibility.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

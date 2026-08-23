@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [As space launches increase, there aren't enough spaceports](sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128.md) — Marketplace Tech episode on commercial satellite demand, crowded U.S. launch pads, scarce spaceport geography, the FAA environmental-review waiver proposal, SpaceX, and habitat/legal objections.
 - [Settler bet: a West Bank flashpoint](sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d.md) — The Intelligence episode on West Bank settler outpost escalation, India's uniform civil-code politics, and Bartleby's public-figure workplace satire.
 - [不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？](sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138.md) — 声动早咖啡 episode on Whatnot, Western live-shopping fit, collectible auctions, card breaks, gamified retention, overspending risk, and short updates on Geely, ByteDance-MPA copyright protection, Proya/Ulta, and Damai's toy-IP move.
 - [151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！](sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u.md) — 张小珺Jùn episode with Su Tinghao on AI self-study, ICML 2026 attention research, AI-native school use, job and meaning anxiety, AI companionship, and happiness as a life anchor.
@@ -1366,6 +1367,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Michelle Hanlon](entities/MichelleHanlon.md) — Space-policy expert explaining satellite constellations and launch capacity as a U.S. space-industry bottleneck.
+- [Daniel Ackerman](entities/DanielAckerman.md) — Marketplace Tech reporter identifying the geography, port, population, and airspace constraints behind spaceport siting.
+- [Wendy Whitman Cobb](entities/WendyWhitmanCobb.md) — Space-policy scholar emphasizing how few U.S. locations meet the combined requirements for new launch sites.
+- [Brett Hartle](entities/BrettHartle.md) — Center for Biological Diversity critic warning that the FAA launch-review waiver could benefit SpaceX and harm Louisiana wetlands.
+- [Center for Biological Diversity](entities/CenterForBiologicalDiversity.md) — Conservation organization challenging the legal and habitat risks of reduced launch environmental review.
+- [Florida Space Coast](entities/FloridaSpaceCoast.md) — Crowded U.S. launch hub whose record launch count makes launch-capacity constraints visible.
+- [Cape Canaveral](entities/CapeCanaveral.md) — Florida launch area used as the source's main example of crowded but valuable launch geography.
+- [Vandenberg Space Force Base](entities/VandenbergSpaceForceBase.md) — California launch site named as part of the constrained U.S. launch-site inventory.
+- [Dominican Republic](entities/DominicanRepublic.md) — Country mentioned as exploring spaceport capacity amid global commercial launch growth.
 - [Anshel Pfeffer](entities/AnshelPfeffer.md) — The Intelligence correspondent explaining West Bank settler violence, outpost escalation, and coalition incentives.
 - [West Bank](entities/WestBank.md) — Territory framed as a flashpoint where settler outposts, Palestinian land access, and Israeli election politics interact.
 - [Palestinians](entities/Palestinians.md) — People/community context connecting West Bank land access, Gaza governance, and the Palestinian question in Israeli politics.
@@ -8394,6 +8404,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Space Launch Capacity Bottleneck](concepts/SpaceLaunchCapacityBottleneck.md) — Constraint where satellite demand grows faster than launch pads, spaceports, licensing, airspace, and site upgrades.
+- [Spaceport Siting Constraint](concepts/SpaceportSitingConstraint.md) — Geography and public-risk limits that make good rocket launch sites rare.
+- [Space Launch Environmental Review](concepts/SpaceLaunchEnvironmentalReview.md) — Regulatory process and waiver dispute around habitat, air, water, noise, debris, and protected-species impacts from launches and spaceports.
+- [Commercial Satellite Constellations](concepts/CommercialSatelliteConstellations.md) — Networks of many smaller satellites that make launch access a recurring operating need.
 - [West Bank Outpost Escalation](concepts/WestBankOutpostEscalation.md) — Pattern where small settler footholds near Palestinian land become tools for changing practical control and provoking clashes.
 - [Settler Provocation Strategy](concepts/SettlerProvocationStrategy.md) — Warning that some settlers may benefit from wider West Bank confrontation because it can justify more army deployment and land seizure.
 - [Uniform Civil Code in India](concepts/UniformCivilCodeIndia.md) — State-level equal-civil-law project whose implementation can shift minority family-law practices.

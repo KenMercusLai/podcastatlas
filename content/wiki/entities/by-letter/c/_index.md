@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7024
+wiki_total_pages: 7033
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "CaoXudong"
     title: "Cao Xudong"
     url: "/wiki/entities/caoxudong/"
+  - key: "CapeCanaveral"
+    title: "Cape Canaveral"
+    url: "/wiki/entities/capecanaveral/"
   - key: "CapitalCitiesABC"
     title: "Capital Cities/ABC"
     url: "/wiki/entities/capitalcitiesabc/"
@@ -260,6 +263,9 @@ wiki_pages:
   - key: "CenterForAIStandardsAndInnovation"
     title: "Center for AI Standards and Innovation"
     url: "/wiki/entities/centerforaistandardsandinnovation/"
+  - key: "CenterForBiologicalDiversity"
+    title: "Center for Biological Diversity"
+    url: "/wiki/entities/centerforbiologicaldiversity/"
   - key: "CenterForCounteringDigitalHate"
     title: "Center for Countering Digital Hate"
     url: "/wiki/entities/centerforcounteringdigitalhate/"

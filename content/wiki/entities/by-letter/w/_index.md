@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7024
+wiki_total_pages: 7033
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "WendyLiu"
     title: "Wendy Liu"
     url: "/wiki/entities/wendyliu/"
+  - key: "WendyWhitmanCobb"
+    title: "Wendy Whitman Cobb"
+    url: "/wiki/entities/wendywhitmancobb/"
   - key: "Wenxin"
     title: "Wenxin"
     url: "/wiki/entities/wenxin/"

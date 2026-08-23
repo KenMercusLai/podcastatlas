@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7024
+wiki_total_pages: 7033
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "BrettBaechek"
     title: "Brett Baechek"
     url: "/wiki/entities/brettbaechek/"
+  - key: "BrettHartle"
+    title: "Brett Hartle"
+    url: "/wiki/entities/bretthartle/"
   - key: "BrianArmstrong"
     title: "Brian Armstrong"
     url: "/wiki/entities/brianarmstrong/"

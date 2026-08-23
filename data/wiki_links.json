@@ -6887,6 +6887,10 @@
     "title": "Brett Baechek",
     "url": "/wiki/entities/brettbaechek/"
   },
+  "BrettHartle": {
+    "title": "Brett Hartle",
+    "url": "/wiki/entities/bretthartle/"
+  },
   "Brexit": {
     "title": "Brexit",
     "url": "/wiki/concepts/brexit/"
@@ -7683,6 +7687,10 @@
     "title": "Capability Overhang",
     "url": "/wiki/concepts/capabilityoverhang/"
   },
+  "CapeCanaveral": {
+    "title": "Cape Canaveral",
+    "url": "/wiki/entities/capecanaveral/"
+  },
   "CapitalAccountInvestmentRestrictions": {
     "title": "Capital Account Investment Restrictions",
     "url": "/wiki/concepts/capitalaccountinvestmentrestrictions/"
@@ -8130,6 +8138,10 @@
   "CenterForAIStandardsAndInnovation": {
     "title": "Center for AI Standards and Innovation",
     "url": "/wiki/entities/centerforaistandardsandinnovation/"
+  },
+  "CenterForBiologicalDiversity": {
+    "title": "Center for Biological Diversity",
+    "url": "/wiki/entities/centerforbiologicaldiversity/"
   },
   "CenterForCounteringDigitalHate": {
     "title": "Center for Countering Digital Hate",
@@ -10187,6 +10199,10 @@
     "title": "Commercial Rocket Launch Priority",
     "url": "/wiki/concepts/commercialrocketlaunchpriority/"
   },
+  "CommercialSatelliteConstellations": {
+    "title": "Commercial Satellite Constellations",
+    "url": "/wiki/concepts/commercialsatelliteconstellations/"
+  },
   "CommercialVehicleEnergyTransition": {
     "title": "Commercial Vehicle Energy Transition",
     "url": "/wiki/concepts/commercialvehicleenergytransition/"
@@ -11671,6 +11687,10 @@
     "title": "Dangerous Visions",
     "url": "/wiki/entities/dangerousvisions/"
   },
+  "DanielAckerman": {
+    "title": "Daniel Ackerman",
+    "url": "/wiki/entities/danielackerman/"
+  },
   "DanielCohn": {
     "title": "Daniel Cohn",
     "url": "/wiki/entities/danielcohn/"
@@ -13062,6 +13082,10 @@
   "DominicWindhamGiddens": {
     "title": "Dominic Windham-Giddens",
     "url": "/wiki/entities/dominicwindhamgiddens/"
+  },
+  "DominicanRepublic": {
+    "title": "Dominican Republic",
+    "url": "/wiki/entities/dominicanrepublic/"
   },
   "DominionFiduciaryServices": {
     "title": "Dominion Fiduciary Services",
@@ -16270,6 +16294,10 @@
   "Florida": {
     "title": "Florida",
     "url": "/wiki/entities/florida/"
+  },
+  "FloridaSpaceCoast": {
+    "title": "Florida Space Coast",
+    "url": "/wiki/entities/floridaspacecoast/"
   },
   "Flow": {
     "title": "Flow",
@@ -29243,6 +29271,10 @@
     "title": "Michele Folletti",
     "url": "/wiki/entities/michelefolletti/"
   },
+  "MichelleHanlon": {
+    "title": "Michelle Hanlon",
+    "url": "/wiki/entities/michellehanlon/"
+  },
   "Michigan": {
     "title": "Michigan",
     "url": "/wiki/entities/michigan/"
@@ -40643,6 +40675,14 @@
     "title": "Space Imagery AI",
     "url": "/wiki/concepts/spaceimageryai/"
   },
+  "SpaceLaunchCapacityBottleneck": {
+    "title": "Space Launch Capacity Bottleneck",
+    "url": "/wiki/concepts/spacelaunchcapacitybottleneck/"
+  },
+  "SpaceLaunchEnvironmentalReview": {
+    "title": "Space Launch Environmental Review",
+    "url": "/wiki/concepts/spacelaunchenvironmentalreview/"
+  },
   "SpaceMissionLivestreaming": {
     "title": "Space Mission Livestreaming",
     "url": "/wiki/concepts/spacemissionlivestreaming/"
@@ -40662,6 +40702,10 @@
   "SpaceflightAIDatasetScarcity": {
     "title": "Spaceflight AI Dataset Scarcity",
     "url": "/wiki/concepts/spaceflightaidatasetscarcity/"
+  },
+  "SpaceportSitingConstraint": {
+    "title": "Spaceport Siting Constraint",
+    "url": "/wiki/concepts/spaceportsitingconstraint/"
   },
   "Spain": {
     "title": "Spain",
@@ -45275,6 +45319,10 @@
     "title": "Vanda Ilson Siqueira",
     "url": "/wiki/entities/vandailsonsiqueira/"
   },
+  "VandenbergSpaceForceBase": {
+    "title": "Vandenberg Space Force Base",
+    "url": "/wiki/entities/vandenbergspaceforcebase/"
+  },
   "Vanessa": {
     "title": "Vanessa",
     "url": "/wiki/entities/vanessa/"
@@ -46602,6 +46650,10 @@
   "WendyLiu": {
     "title": "Wendy Liu",
     "url": "/wiki/entities/wendyliu/"
+  },
+  "WendyWhitmanCobb": {
+    "title": "Wendy Whitman Cobb",
+    "url": "/wiki/entities/wendywhitmancobb/"
   },
   "WenliLiangkaihua": {
     "title": "文力两开花 / Wenli Liangkaihua",
@@ -52674,6 +52726,10 @@
   "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128": {
     "title": "Can an AI music company make nice with human artists?",
     "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+  },
+  "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128": {
+    "title": "As space launches increase, there aren't enough spaceports",
+    "url": "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
   },
   "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128": {
     "title": "Cyberattacks on U.S. water systems raise concerns about security",

@@ -2,11 +2,13 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-08
+sources: [tech-20260818-tech-pod-128-tech-20260818-tech-pod-128, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-24
 ---
 
 # Starlink
+
+[[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]] adds Starlink as the episode's main example of [[CommercialSatelliteConstellations]] driving launch demand. The source says companies are deploying many smaller satellites for internet service, GPS, and Earth imaging, and it presents Starlink as a leading reason [[SpaceLaunchCapacityBottleneck]] has become visible around U.S. launch pads and spaceports.
 
 Starlink is the satellite internet business discussed in [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]]. [[LouisHong]] frames it as the second platform step after reusable rockets: once [[SpaceX]] could lower launch cost through [[ReusableRocketEconomics]], it could build a low-earth-orbit communications network at a scale that traditional launch economics would have made difficult.
 
@@ -38,3 +40,4 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 - [[PrivateInfrastructureWarPower]] — governance branch added by the full Musk interview.
 - [[UrbanLegend|都市传说]] and [[UFOConspiracyCulture]] — sky-sighting demystification branch added by episode 95.
 - [[JoannaStern]], [[MarketplaceTech]], and [[OrbitalDebrisGovernance]] - August 2026 earnings and space-junk branch.
+- [[CommercialSatelliteConstellations]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] - August 18 Marketplace Tech launch-capacity branch.

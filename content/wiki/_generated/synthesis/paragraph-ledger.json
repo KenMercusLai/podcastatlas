@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "fa7f975dc4f4d578ec7865c5b683b647185351d788ec913e95034d0567385fa5",
       "ff8d5e1ecffbd31906dfb80202dff1ee3e2ca38d3e412c988e94a88e717bd0cb",
       "c4548e80f0f55a8827d44e2a20ab4805bb20dcfc1b3812a71b4db15822a1c716",
       "933cd919c17f63322880bb6cbcaff7f15af6cde4d20a50b48a604e749e6d1d67",
@@ -163,11 +164,45 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 161
+    "paragraph_count": 162
   },
-  "overview_commit": "5ee60504400f2676507aacb6adce1b5db924bb4b",
-  "overview_digest": "4a669b325af405a4ce163a2b2ef138f535594f335ed35e52bf2511f28b6f0c07",
+  "overview_commit": "9257bd89e15d6fedd1e0f768965978e9c87e7f65",
+  "overview_digest": "e627b33661dede29ff392bcaeea8ec639555fcc949d24d0bec21d71ce69d14f2",
   "paragraphs": [
+    {
+      "id": "fa7f975dc4f4d578ec7865c5b683b647185351d788ec913e95034d0567385fa5",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]], a [[MarketplaceTech]] episode on commercial space launch capacity, scarce spaceport geography, and the [[FederalAviationAdministration|FAA]] proposal to reduce environmental review for launches and spaceports. It adds [[MichelleHanlon]], [[DanielAckerman]], [[WendyWhitmanCobb]], [[BrettHartle]], [[CenterForBiologicalDiversity]], [[FloridaSpaceCoast]], [[CapeCanaveral]], [[VandenbergSpaceForceBase]], [[DominicanRepublic]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], and [[CommercialSatelliteConstellations]], while extending [[SpaceX]], [[Starlink]], [[Louisiana]], [[SpaceEconomyInfrastructure]], [[ReusableRocketEconomics]], [[SatelliteConnectivityCompetition]], and [[EnvironmentalTradeoffAccounting]]. Its core synthesis is that the commercial space economy depends on terrestrial choke points: smaller satellite constellations and reusable rockets increase launch demand, but pads, ports, airspace, local geography, licensing, and habitat review decide whether that demand can turn into actual launch cadence. No direct contradiction is recorded; the source keeps the FAA's burden-reduction case and conservation critics' legal/habitat objections source-scoped.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "BrettHartle",
+        "CapeCanaveral",
+        "CenterForBiologicalDiversity",
+        "CommercialSatelliteConstellations",
+        "DanielAckerman",
+        "DominicanRepublic",
+        "EnvironmentalTradeoffAccounting",
+        "FederalAviationAdministration",
+        "FloridaSpaceCoast",
+        "Louisiana",
+        "MarketplaceTech",
+        "MichelleHanlon",
+        "ReusableRocketEconomics",
+        "SatelliteConnectivityCompetition",
+        "SpaceEconomyInfrastructure",
+        "SpaceLaunchCapacityBottleneck",
+        "SpaceLaunchEnvironmentalReview",
+        "SpaceX",
+        "SpaceportSitingConstraint",
+        "Starlink",
+        "VandenbergSpaceForceBase",
+        "WendyWhitmanCobb",
+        "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
+      ]
+    },
     {
       "id": "ff8d5e1ecffbd31906dfb80202dff1ee3e2ca38d3e412c988e94a88e717bd0cb",
       "primary_topic": "governance-and-institutions",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5289
+wiki_total_pages: 5293
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "CommercialRocketLaunchPriority"
     title: "Commercial Rocket Launch Priority"
     url: "/wiki/concepts/commercialrocketlaunchpriority/"
+  - key: "CommercialSatelliteConstellations"
+    title: "Commercial Satellite Constellations"
+    url: "/wiki/concepts/commercialsatelliteconstellations/"
   - key: "CommercialVehicleEnergyTransition"
     title: "Commercial Vehicle Energy Transition"
     url: "/wiki/concepts/commercialvehicleenergytransition/"

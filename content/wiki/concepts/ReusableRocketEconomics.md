@@ -2,11 +2,13 @@
 title: "Reusable Rocket Economics"
 type: concept
 tags: [space, economics, manufacturing, spacex, china]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714]
+sources: [tech-20260818-tech-pod-128-tech-20260818-tech-pod-128, lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714]
 last_updated: 2026-08-24
 ---
 
 # Reusable Rocket Economics
+
+[[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]] qualifies the launch-cost story by adding a ground-infrastructure constraint. The episode's [[SpaceLaunchCapacityBottleneck]] frame shows that reusable rockets and cheaper satellites still need enough pads, upgraded launch infrastructure, range capacity, and legally viable [[SpaceLaunchEnvironmentalReview]] to become high launch cadence.
 
 [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a Chinese private-launch milestone through [[LandSpace]] and [[Zhuque3]]. The source says Zhuque-3 Yao-2 completed China's first successful land recovery of a carrier rocket, and it frames the result as a confidence signal for LandSpace's planned fundraising. This extends the concept's existing caution: a landing can improve investor belief and technical credibility, while repeat launch cadence and turnaround still decide the economic outcome.
 
@@ -35,6 +37,7 @@ The episode uses ordinary transport as the analogy: air travel, trains, and cars
 - Flight rate matters because launch infrastructure and labor are fixed-cost systems as much as vehicle systems.
 - Orbital compute magnifies the launch-cost question because a 1GW target may require thousands of compute satellites and roughly 100 Starship-class launches under the episode's rough model.
 - A first successful land recovery can shift financing and commercial-service narratives before it proves low-cost repeat reuse.
+- Reusable economics also depends on launch-site throughput: recovered vehicles cannot create high cadence if pads, ports, licensing, and range scheduling become the limiting factors.
 
 ## Connections
 - [[SpaceX]], [[Falcon9]], and [[Starship]] — company and launch systems in the source.
@@ -45,3 +48,4 @@ The episode uses ordinary transport as the analogy: air travel, trains, and cars
 - [[FirstPrinciplesManufacturing]] — manufacturing discipline needed to make reuse and launch cadence economically useful.
 - [[AIIPOValuation]] — investor frame qualified by the source's claim that the technical inflection came before IPO attention.
 - [[OrbitalDataCenterEconomics]], [[SpaceBasedAIInfrastructure]], and [[Starbase]] - E239's launch-cost and industrial-scale stress test.
+- [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], and [[FloridaSpaceCoast]] - Marketplace Tech ground-infrastructure constraint on launch cadence.

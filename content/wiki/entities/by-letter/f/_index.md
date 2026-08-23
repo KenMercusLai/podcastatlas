@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7024
+wiki_total_pages: 7033
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "Florida"
     title: "Florida"
     url: "/wiki/entities/florida/"
+  - key: "FloridaSpaceCoast"
+    title: "Florida Space Coast"
+    url: "/wiki/entities/floridaspacecoast/"
   - key: "Flow"
     title: "Flow"
     url: "/wiki/entities/flow/"

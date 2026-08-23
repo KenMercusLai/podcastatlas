@@ -2,6 +2,23 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "space-launch-capacity-is-ground-infrastructure",
+      "qualifications": [
+        "The FAA burden-reduction rationale and the conservation/legal objections remain source-scoped rather than legally resolved."
+      ],
+      "statement": "[[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "SpaceEconomyInfrastructure",
+        "SpaceLaunchCapacityBottleneck",
+        "SpaceportSitingConstraint",
+        "SpaceLaunchEnvironmentalReview",
+        "CommercialSatelliteConstellations",
+        "ReusableRocketEconomics"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "climate-adoption-is-an-implementation-system",
       "qualifications": [
         "The evidence spans building codes, rebuilding, and carbon removal rather than one standardized market."
@@ -58,6 +75,6 @@
       ]
     }
   ],
-  "summary": "Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery and turnaround, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.",
+  "summary": "Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.",
   "topic_id": "science-health-and-climate"
 }

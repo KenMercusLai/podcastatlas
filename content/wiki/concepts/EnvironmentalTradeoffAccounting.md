@@ -2,11 +2,13 @@
 title: "Environmental Tradeoff Accounting"
 type: concept
 tags: [ecology, agriculture, policy, externalities]
-sources: [lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
-last_updated: 2026-08-17
+sources: [tech-20260818-tech-pod-128-tech-20260818-tech-pod-128, lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-24
 ---
 
 # Environmental Tradeoff Accounting
+
+[[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]] adds a spaceport version through [[SpaceLaunchEnvironmentalReview]]. The episode's accounting problem is whether easing [[FederalAviationAdministration|FAA]] environmental review for launches and spaceports accelerates a strategic commercial-space industry while shifting costs to wetlands, protected species, nearby communities, and legal accountability, especially around a possible [[SpaceX]] Gulf site in [[Louisiana]].
 
 [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds a contemporary river-repair version through the [[YangtzeRiver]]. The source treats [[YangtzeFishingBanRecovery]] as biologically real while also counting [[EnvironmentalRepairSocialCost]] for former fishing communities, plus dam and extinction constraints around [[ThreeGorgesDam]], [[ChinesePaddlefish]], and [[Baiji]].
 
@@ -58,6 +60,7 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - Pesticide decisions should be evaluated across crop-protection value, beekeeper losses, pollination yield gains, wild-insect decline, and the feasibility of lower-toxicity or better-timed application.
 - Hydraulic projects should be evaluated across abundance, state capacity, maintenance needs, saltwater intrusion, floodplain ecology, and displaced vulnerability.
 - River-repair accounting should include species recovery, irreversible extinction, dam barriers, enforcement burden, compensation quality, and migration of displaced workers.
+- Spaceport accounting should include launch capacity, national industrial strategy, wetlands and bird habitat, protected species, noise, debris risk, legal authority, and whether review waivers shift costs away from launch companies.
 
 ## Connections
 - [[YangtzeFishingBanRecovery]], [[EnvironmentalRepairSocialCost]], [[GabrielCrossley]], [[ThreeGorgesDam]], [[ChinesePaddlefish]], and [[Baiji]] - Yangtze cleanup extension from The Intelligence.
@@ -79,3 +82,4 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - [[FashionVictimsBook|《时尚受害者》]], [[FashionSupplyChainExternality]], and [[ToxicFashionMaterialRisk]] - fashion-material and substitution-cost branch added by episode 16.
 - [[PesticidePollinatorRisk]], [[WildPollinatorCrisis]], [[MigratoryBeekeeperLivelihood]], and [[NativeBeeEcologicalPollination]] - EP261 pollinator-risk extension.
 - [[AngkorHydraulicEmpire]], [[MekongDeltaColonialCanalAgriculture]], [[MekongDelta]], and [[ClimateAdaptation]] - Mekong water-engineering extension from EP267.
+- [[SpaceLaunchEnvironmentalReview]], [[SpaceLaunchCapacityBottleneck]], [[FederalAviationAdministration|Federal Aviation Administration]], [[SpaceX]], [[Louisiana]], and [[CenterForBiologicalDiversity]] - spaceport review-waiver branch from Marketplace Tech.

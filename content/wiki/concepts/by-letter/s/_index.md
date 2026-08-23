@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5289
+wiki_total_pages: 5293
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -800,6 +800,12 @@ wiki_pages:
   - key: "SpaceImageryAI"
     title: "Space Imagery AI"
     url: "/wiki/concepts/spaceimageryai/"
+  - key: "SpaceLaunchCapacityBottleneck"
+    title: "Space Launch Capacity Bottleneck"
+    url: "/wiki/concepts/spacelaunchcapacitybottleneck/"
+  - key: "SpaceLaunchEnvironmentalReview"
+    title: "Space Launch Environmental Review"
+    url: "/wiki/concepts/spacelaunchenvironmentalreview/"
   - key: "SpaceMissionLivestreaming"
     title: "Space Mission Livestreaming"
     url: "/wiki/concepts/spacemissionlivestreaming/"
@@ -809,6 +815,9 @@ wiki_pages:
   - key: "SpaceflightAIDatasetScarcity"
     title: "Spaceflight AI Dataset Scarcity"
     url: "/wiki/concepts/spaceflightaidatasetscarcity/"
+  - key: "SpaceportSitingConstraint"
+    title: "Spaceport Siting Constraint"
+    url: "/wiki/concepts/spaceportsitingconstraint/"
   - key: "SpaceXMafia"
     title: "SpaceX Mafia"
     url: "/wiki/concepts/spacexmafia/"

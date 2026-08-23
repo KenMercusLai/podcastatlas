@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7024
+wiki_total_pages: 7033
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "DangerousVisions"
     title: "Dangerous Visions"
     url: "/wiki/entities/dangerousvisions/"
+  - key: "DanielAckerman"
+    title: "Daniel Ackerman"
+    url: "/wiki/entities/danielackerman/"
   - key: "DanielCohn"
     title: "Daniel Cohn"
     url: "/wiki/entities/danielcohn/"
@@ -491,6 +494,9 @@ wiki_pages:
   - key: "DominicWindhamGiddens"
     title: "Dominic Windham-Giddens"
     url: "/wiki/entities/dominicwindhamgiddens/"
+  - key: "DominicanRepublic"
+    title: "Dominican Republic"
+    url: "/wiki/entities/dominicanrepublic/"
   - key: "DominionFiduciaryServices"
     title: "Dominion Fiduciary Services"
     url: "/wiki/entities/dominionfiduciaryservices/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7024
+wiki_total_pages: 7033
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "MicheleFolletti"
     title: "Michele Folletti"
     url: "/wiki/entities/michelefolletti/"
+  - key: "MichelleHanlon"
+    title: "Michelle Hanlon"
+    url: "/wiki/entities/michellehanlon/"
   - key: "Michigan"
     title: "Michigan"
     url: "/wiki/entities/michigan/"
