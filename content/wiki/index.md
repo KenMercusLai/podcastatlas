@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817.md) — 硅谷101 episode with Dongxu and Zhang Hongjiang on the shift from token maxing to token efficient agent workflows, OpenClaw, Hermes, Slock/Raft, local models, model routing, agent-native startups, and AI work implications.
 - [Advice Line with Carlton Calvin of Razor](sources/advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e.md) — How I Built This Advice Line episode with Carlton Calvin on Razor, trend spotting, toy/game licensing proof, founder-visible marketing, stationery wholesale, craft-spirits distribution, SKU focus, and sales delegation.
 - [Why the Trump administration plans to boost funding for subsea cables](sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128.md) — Marketplace Tech episode with Erin Murphy on undersea data cables, hyperscaler ownership, U.S. funding for Caribbean and Central American cable replacement, trusted networks, landing-point security, sabotage ambiguity, and redundancy.
 - [Bombs and bombshells: Zelensky under pressure](sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0.md) — The Intelligence episode on Zelensky under Russian, election, corruption, and export pressure; China's mental-health access gap; and PAW Patrol as children's media values debate and competence fantasy.
@@ -1355,6 +1356,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张宏江 / Zhang Hongjiang](entities/ZhangHongjiang.md) — Senior AI researcher and technology executive/investor voice in E249, framing token-cost decline, infrastructure cycles, AGI, and work disruption.
+- [Lama Ventures](entities/LamaVentures.md) — AI-focused venture platform connecting Silicon Valley and Chinese founder ecosystems in E249.
+- [DB9](entities/DB9.md) — Dongxu's AI-assisted cloud-native distributed database project used as a high-value token-maxing cost-accounting example.
 - [Carlton Calvin](entities/CarltonCalvin.md) — Razor USA founder and Advice Line guest emphasizing trend spotting, retail distribution, sales reps, and focus.
 - [Razor USA](entities/RazorUSA.md) — Consumer-products company behind Razor scooters, used in the episode for trend, copycat, patent, retail, and sales-delegation context.
 - [Sean Barassa](entities/SeanBarassa.md) — Creator of the party game Eulogy, advised to prove demand before expecting licensing.
@@ -8281,6 +8285,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Token Efficient Agent Workflow](concepts/TokenEfficientAgentWorkflow.md) — Agent operating discipline that routes frontier models, local models, deterministic tools, multi-agent review, and human attention by task value, risk, and verification cost.
 - [Consumer Trend Spotting](concepts/ConsumerTrendSpotting.md) — Deliberate scanning for consumer behavior and format changes before they become obvious retail demand.
 - [Toy Inventor Licensing Path](concepts/ToyInventorLicensingPath.md) — Route where a game or toy inventor seeks publisher or toy-company licensing only after stronger buyer-visible proof.
 - [Founder Visibility Marketing](concepts/FounderVisibilityMarketing.md) — Pattern where a founder's face, voice, process, or production story helps customers trust and understand a small brand.

@@ -2,8 +2,8 @@
 title: "GLM 5.2"
 type: entity
 tags: [model, ai, open-source-ai, china]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-07-07
+sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-24
 ---
 
 # GLM 5.2
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 GLM 5.2 is the Zhipu AI model release discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]]. The hosts present it as an open upgrade released shortly after U.S. model-access restrictions, and they read the timing as a pointed answer to [[AIExportControls]].
 
 [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds GLM 5.2 to the enterprise-substitution story. The source says GLM 5.2 drew Silicon Valley attention, passed a major coding threshold on Terminal Bench, and supported Anthropic-compatible API use, making it easier for teams to test it as a [[ClaudeCode]] backend substitute.
+
+[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] mentions GLM 5.2 as part of the model set that made [[Dongxu]] rethink always-on multi-agent use. In that source, GLM 5.2's role is not a benchmark reassessment; it is evidence that stronger or cheaper non-frontier-default models can be routed into [[TokenEfficientAgentWorkflow]].
 
 ## Source Position
 - The hosts say the release appeared rushed, with API and benchmark pieces not fully prepared at launch.
@@ -27,3 +29,4 @@ GLM 5.2 is the Zhipu AI model release discussed in [[ba-ai-chuicheng-hewuqi-de-r
 - [[AICodingVerification]] and [[HumanJudgmentUnderAI]] — practical testing still requires verification and judgment.
 - [[FrontierModelScaling]] and [[AIInferenceCostStructure]] — long-context, speed, and compute constraints.
 - [[EnterpriseOwnedModels]], [[AppliedCompute]], and [[Harvey]] — Q2 2026 enterprise post-training and substitution route added by LateTalk.
+- [[Dongxu]], [[ModelRoutingCostControl]], and [[TokenEfficientAgentWorkflow]] — E249's task-routing context.

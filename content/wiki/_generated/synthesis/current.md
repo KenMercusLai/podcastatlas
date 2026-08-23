@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: f841e0e2c9487971d0474bb36e3d8fe7bd3befc4
-summary: "Capability becomes durable value through workflows, buyer proof, governance, trust, grounded evidence, market systems, and resilient infrastructure."
-episode_count: 1346
-source_count: 1346
-paragraph_count: 152
+as_of_overview_commit: ea7d089c50a3642be0d22d7bb6ddf86373cbed98
+summary: "Durable value comes from token-efficient workflows, buyer proof, governance, trust, grounded evidence, market systems, and resilient infrastructure."
+episode_count: 1348
+source_count: 1348
+paragraph_count: 153
 topic_count: 8
 ---
 
@@ -16,12 +16,12 @@ topic_count: 8
 
 ## Executive Summary
 
-- AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation.
+- The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost.
 - Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], and [[EnterprisePOCDiscipline]] show that use cases, grounding, permissions, baselines, guardrails, ownership, proof criteria, and buyer timing decide whether pilots become productivity.
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
-- Trust and mission are governance assets only when protected by structures: customer reliability, private standards, benefit trusts, stewardship ownership, AI alignment governance, post-acquisition identity, greenhushing, and growth pace all show that values can attract pressure as well as loyalty.
+- AI governance is not only restriction: [[AIGovernanceAndCompliance]], [[Microsoft365CopilotAdoption]], [[ShadowAI]], and [[AIAdoptionBaselineMeasurement]] show that clear policy, approved tools, sensitive-data handling, privilege boundaries, and remedial education can make enterprise adoption faster by reducing ambiguity.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
-- [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together.
+- [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved.
 
@@ -29,10 +29,10 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow integration, verification, permissions, product economics, safety defaults, physical grounding, and buyer-ready deployment.
+AI value depends on workflow integration, token-efficient agent operation, verification, permissions, product economics, safety defaults, physical grounding, and buyer-ready deployment.
 
-- AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[AgentHarness]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
-- Enterprise AI adoption works only when tools are tied to operating-model change: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], and [[EnterprisePOCDiscipline]] show that use cases, grounding, permissions, baselines, guardrails, ownership, proof criteria, and buyer timing decide whether pilots become productivity. Evidence: [[Microsoft365CopilotAdoption]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], [[ShadowAI]], [[AIGovernanceAndCompliance]], [[AIOperationsRole]], [[TechnologyResetRebuild]], [[EnterprisePOCDiscipline]], [[Templafy]], [[WorkplaceAIReadinessGap]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].
+- AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
+- The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
 
 ### Business and Markets
 
@@ -56,7 +56,7 @@ Governance turns power, markets, platforms, enterprise AI, finance, trust, and p
 
 ### History and Geopolitics
 
-History and geopolitics now connect state capacity, legitimacy, alliances, adviser judgment, technology ecosystems, and resilient physical internet infrastructure.
+History and geopolitics connect state capacity, legitimacy, alliances, adviser judgment, technology ecosystems, and resilient physical internet infrastructure.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].

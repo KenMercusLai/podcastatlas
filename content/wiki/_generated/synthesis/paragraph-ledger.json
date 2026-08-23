@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "20d66f1b575bf4525f57794be596ff5af6b48bb1bc804aede97fbc0d0473e5c6",
       "144d6dc6453da14d1a4f2d185e1b6531611739454ab441bd8d1d3d18b8ebabc6",
       "966d38162cd10e736372a6adfda649333cf4622d848241338a7ffd066a728805",
       "961bd97a19ba6b2a7c2f61a5beccedaee0edeaf6e12833491c84ad634a6332bd",
@@ -154,11 +155,52 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 152
+    "paragraph_count": 153
   },
-  "overview_commit": "0c566422f6966b90731773df32d7138c47bf1e10",
-  "overview_digest": "c1b454ff5fe34926c46d4ee933d44fc7e7de7a81e7bfa13e378510d28374042f",
+  "overview_commit": "ea7d089c50a3642be0d22d7bb6ddf86373cbed98",
+  "overview_digest": "ff435658af927453d3f228ad750edff4aaf7471c1fe4f016e0bd953883982324",
   "paragraphs": [
+    {
+      "id": "20d66f1b575bf4525f57794be596ff5af6b48bb1bc804aede97fbc0d0473e5c6",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]], a [[SiliconValley101|硅谷101]] episode with [[Dongxu]] and [[ZhangHongjiang]] on the agent-economics shift from [[TokenMaxxing]] to [[TokenEfficientAgentWorkflow]]. It adds [[ZhangHongjiang]], [[LamaVentures]], [[DB9]], and [[TokenEfficientAgentWorkflow]], while extending [[OpenClaw]], [[HermesAgent]], [[SlockAI|Slock/Raft]], [[DeepSeek]], [[Fable5]], [[GLM52|GLM 5.2]], [[AIInferenceCostStructure]], [[ModelRoutingCostControl]], [[AgentHarness]], [[PersistentAgentMemory]], [[AISkills]], [[AgentSelfEvolution]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[AIManagingAI]], [[AgentPermissionBoundaries]], [[AgentRuntimeExecutionLayer]], [[AIOrganizationDesign]], [[HumanAgencyUnderAI]], and [[AIWorkOptionality]]. Its core synthesis is that agent value is moving from maximum-token exploration toward managed intelligence allocation: expensive frontier calls remain justified for high-value uncertain work, while repeated summaries, memory maintenance, and batch processing can move to local or cheaper models; multi-agent review helps when it materially improves acceptance, but it must be balanced against token cost, observability, permissions, and recovery. No direct contradiction is recorded; uncertain transcript names such as Fable/Fybe 5 and DeepSeek V4 Flash remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 5,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIInferenceCostStructure",
+        "AIManagingAI",
+        "AIOrganizationDesign",
+        "AISkills",
+        "AIWorkOptionality",
+        "AgentHarness",
+        "AgentNativeSoftware",
+        "AgentPermissionBoundaries",
+        "AgentRuntimeExecutionLayer",
+        "AgentSelfEvolution",
+        "DB9",
+        "DeepSeek",
+        "Dongxu",
+        "Fable5",
+        "GLM52",
+        "HermesAgent",
+        "HumanAgencyUnderAI",
+        "LamaVentures",
+        "LocalAgentExecution",
+        "ModelRoutingCostControl",
+        "MultiAgentCollaboration",
+        "OpenClaw",
+        "PersistentAgentMemory",
+        "SiliconValley101",
+        "SlockAI",
+        "TokenEfficientAgentWorkflow",
+        "TokenMaxxing",
+        "ZhangHongjiang",
+        "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817"
+      ]
+    },
     {
       "id": "144d6dc6453da14d1a4f2d185e1b6531611739454ab441bd8d1d3d18b8ebabc6",
       "primary_topic": "history-and-geopolitics",

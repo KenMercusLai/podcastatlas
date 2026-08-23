@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5243
+wiki_total_pages: 5244
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "ToAgentDistribution"
     title: "To-Agent Distribution"
     url: "/wiki/concepts/toagentdistribution/"
+  - key: "TokenEfficientAgentWorkflow"
+    title: "Token Efficient Agent Workflow"
+    url: "/wiki/concepts/tokenefficientagentworkflow/"
   - key: "TokenFactoryAIInfrastructure"
     title: "Token Factory AI Infrastructure"
     url: "/wiki/concepts/tokenfactoryaiinfrastructure/"

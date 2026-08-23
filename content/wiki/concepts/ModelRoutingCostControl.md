@@ -2,11 +2,13 @@
 title: "Model Routing Cost Control"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
-last_updated: 2026-08-20
+sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-24
 ---
 
 # Model Routing Cost Control
+
+[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s concrete operating pattern. He routes routine repeated work, memory organization, news and paper summaries, and lower-risk tasks to local or cheaper models, while reserving the strongest frontier models for difficult database bugs, cross-module changes, and tasks where one strong pass can beat a long multi-agent debate. The source names this broader shift [[TokenEfficientAgentWorkflow]].
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a procurement-level routing branch. The hosts describe enterprises using middleware, [[OpenRouter]], [[Coinbase]], [[DoorDash]], [[Databricks]], and cheaper open or hosted models to cut cost, while warning that routing must preserve workflow quality, memory, context, and reliability under [[ModelFungibility]] constraints.
 
@@ -41,6 +43,7 @@ The concept is the user- and product-workflow version of the serving-side routin
 - Routing platforms become more valuable when open weights create many viable models with different license, latency, sovereignty, and safety profiles.
 - Price cuts by multiple providers make routing less theoretical: model choice can become a live product and procurement decision even for ordinary users.
 - Enterprise routing also depends on sovereignty and continuity: the best model for a regulated or national-context task may be one the organization can deploy, audit, or replace.
+- E249 adds a multi-agent boundary: routing can choose a group of agents for review, but a stronger single model may be cheaper when it solves the hard part directly.
 
 ## Connections
 - [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — cost and quota pressure that makes routing necessary.
@@ -55,3 +58,4 @@ The concept is the user- and product-workflow version of the serving-side routin
 - [[OpenRouter]], [[ModelSovereignty]], [[AgentInferenceWorkload]], and [[ClosedModelAPIMoatPressure]] - E246's routing-market and agent-serving extension.
 - [[Qwen]], [[KimiK3]], [[OpenAI]], and [[Anthropic]] - model-provider set added by the 声动早咖啡 price-war source.
 - [[AndrewFeldman]], [[Cerebras]], [[OpenSourceAIModels]], [[ModelSovereignty]], [[GLM52|GLM 5.2]], [[Kimi]], and [[Qwen]] - All-In enterprise-routing branch.
+- [[Dongxu]], [[DeepSeek]], [[Fable5]], [[GLM52|GLM 5.2]], [[TokenEfficientAgentWorkflow]], and [[MultiAgentCollaboration]] — E249's practitioner routing pattern.

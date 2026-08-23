@@ -2,11 +2,13 @@
 title: "Fable 5"
 type: entity
 tags: [ai-model, coding, agents]
-sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, vol-171-jiaru-women-you-wuxian-token-1-6682-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
-last_updated: 2026-08-18
+sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, vol-171-jiaru-women-you-wuxian-token-1-6682-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+last_updated: 2026-08-24
 ---
 
 # Fable 5
+
+[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] mentions Fable/Fybe 5 in a source-scoped model-routing discussion. [[Dongxu]] says stronger models changed his view of multi-agent collaboration because a sufficiently capable single model can sometimes solve hard point problems that a group of weaker agents debates for a long time; the episode therefore reinforces [[ModelRoutingCostControl]] rather than treating Fable 5 as an always-on default.
 
 [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds the shutdown and export-control branch. The source says the U.S. government asked [[Anthropic]] to restrict Fable 5 to U.S. citizens, Anthropic shut it down globally instead, and private testers escalated jailbreak concerns to the White House after communication broke down.
 
@@ -38,3 +40,4 @@ The source repeatedly separates model capability from workflow wrapper. Some of 
 - [[Anthropic]], [[GPT56]], and [[FrontierModelAccessRestrictions]] — Q2 2026 frontier-model comparison added by the LateTalk source.
 - [[KimiK3]], [[ClosedModelAPIMoatPressure]], and [[OpenWeightReleaseBoundary]] — K3 comparison branch added by LateTalk episode 177.
 - [[UnlimitedTokenWorkflow]], [[AIUsePacing]], and [[HumanJudgmentUnderAI]] — Vol. 171's abundant-token and review-bottleneck branch.
+- [[Dongxu]], [[TokenEfficientAgentWorkflow]], and [[MultiAgentCollaboration]] — E249's source-scoped comparison of stronger single models and agent groups.

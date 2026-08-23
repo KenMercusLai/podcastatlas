@@ -2,11 +2,13 @@
 title: "Multi-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, verification]
-sources: [jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
-last_updated: 2026-08-08
+sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-24
 ---
 
 # Multi-Agent Collaboration
+
+[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s [[SlockAI|Slock/Raft]] code-review workflow. He uses multiple agents to critique complex software projects, let them challenge one another, and surface issues a single one-shot review can miss. The source also narrows the value claim: multi-agent work can cost an order of magnitude more tokens, so it belongs inside [[TokenEfficientAgentWorkflow]] rather than being the default endpoint for every task.
 
 [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds a cautionary version through [[JiaYangqing|Jia Yangqing]]: more agents do not automatically solve reliability. Agent teams need role boundaries, communication, and external verification or they can produce coordinated but still ungrounded answers.
 
@@ -35,6 +37,7 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - Message-based multi-agent systems need explicit [[AgentTaskClaiming]] so agents do not duplicate work or misread open tasks.
 - Agent identity and culture-like norms can affect output quality when many agents share one workspace.
 - Multi-agent AI employee setups need resource isolation because separate agents can conflict if they share one machine, account state, or long session indiscriminately.
+- E249 adds that a stronger frontier model can sometimes replace a long agent debate on a hard point, so collaboration value should be judged by marginal review gain, not agent count.
 
 ## Connections
 - [[SubagentWorkflow]] — related pattern for background delegation and synthesis.
@@ -47,3 +50,4 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - [[MobileAIWorkstation]], [[FoldablePhoneProductivity]], [[Doubao]], [[Kimi]], [[Yuanbao]], and [[DeepSeek]] — consumer comparison and multi-window examples added by Luanfanshu 268.
 - [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], [[AgentTaskClaiming]], and [[AgentOrganizationalCulture]] — organization-scale many-agent case added by the RC episode.
 - [[Kuse]], [[Junior]], [[KuseRing|Ring]], and [[Azura]] — AI employee collaboration and separate-work-device case added by the Yuhao source.
+- [[Dongxu]], [[SlockAI|Slock/Raft]], [[TokenEfficientAgentWorkflow]], and [[AIInferenceCostStructure]] — E249's cost-aware multi-agent code-review case.

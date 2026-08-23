@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6922
+wiki_total_pages: 6925
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "ZhangNingPonyAI"
     title: "张宁 / Zhang Ning (Pony.ai)"
     url: "/wiki/entities/zhangningponyai/"
+  - key: "ZhangHongjiang"
+    title: "张宏江 / Zhang Hongjiang"
+    url: "/wiki/entities/zhanghongjiang/"
   - key: "ZhangjiashanHanmuZhujian"
     title: "张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips"
     url: "/wiki/entities/zhangjiashanhanmuzhujian/"

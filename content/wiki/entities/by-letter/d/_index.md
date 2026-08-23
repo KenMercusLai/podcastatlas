@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6922
+wiki_total_pages: 6925
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "DAZN"
     title: "DAZN"
     url: "/wiki/entities/dazn/"
+  - key: "DB9"
+    title: "DB9"
+    url: "/wiki/entities/db9/"
   - key: "DeathWithDignity"
     title: "Death with Dignity"
     url: "/wiki/entities/deathwithdignity/"

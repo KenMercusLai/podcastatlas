@@ -2,11 +2,13 @@
 title: "Local Agent Execution"
 type: concept
 tags: [agents, local-first, security]
-sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, zhe-bannian-women-you-maile-naxie-keji-haowu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-08-18
+sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, zhe-bannian-women-you-maile-naxie-keji-haowu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+last_updated: 2026-08-24
 ---
 
 # Local Agent Execution
+
+[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds a local-model economics case. [[Dongxu]] says a locally running [[DeepSeek]] model on a Mac Studio became useful for repeated summaries, memory organization, and batch paper processing because the work no longer felt like a metered API bill. The source therefore links local execution to [[TokenEfficientAgentWorkflow]], not only privacy or desktop access.
 
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds the Microsoft PC version through [[Windows]] and [[PhiSilica|Phi Silica]]. [[SatyaNadella|Satya Nadella]] argues that the workstation is becoming important again because local models, NPUs, GPUs, and cloud calls can combine inside real work environments.
 
@@ -26,6 +28,7 @@ Local agent execution is the pattern where an agent operates against the user's 
 - Always-on local agents can turn old or low-power computers into useful infrastructure if remote access, recovery, and physical input fallback are handled.
 - Local execution should be paired with recoverability: users need a way to stop the service, revoke access, inspect logs, and undo agent-written configuration or file changes.
 - Hybrid local-cloud execution can make local prompt processing and file context useful while still using cloud models for heavier work.
+- E249 adds that local execution can change task selection itself: once marginal cost feels lower, users may attempt batch, repetitive, and exploratory work they previously avoided.
 
 ## Connections
 - [[OpenClaw]] — central product case.
@@ -38,3 +41,4 @@ Local agent execution is the pattern where an agent operates against the user's 
 - [[PersonalInfrastructureCostAccounting]] — local machines should be evaluated against cloud alternatives, maintenance burden, and workflow value.
 - [[ProbabilisticSoftware]] — local agent behavior can be useful without being fully predictable.
 - [[Windows]], [[PhiSilica|Phi Silica]], and [[LocalAIWorkstation]] - Microsoft local AI branch added by All-In.
+- [[Dongxu]], [[DeepSeek]], [[TokenEfficientAgentWorkflow]], and [[AIInferenceCostStructure]] — E249's local-model cost and behavior case.

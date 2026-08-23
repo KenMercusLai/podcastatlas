@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6922
+wiki_total_pages: 6925
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "LakesideBookCompany"
     title: "Lakeside Book Company"
     url: "/wiki/entities/lakesidebookcompany/"
+  - key: "LamaVentures"
+    title: "Lama Ventures"
+    url: "/wiki/entities/lamaventures/"
   - key: "LamarHunt"
     title: "Lamar Hunt"
     url: "/wiki/entities/lamarhunt/"

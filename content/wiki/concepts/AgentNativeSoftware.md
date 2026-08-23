@@ -2,11 +2,13 @@
 title: "Agent Native Software"
 type: concept
 tags: [agents, software-design, product]
-sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
-last_updated: 2026-08-18
+sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-24
 ---
 
 # Agent Native Software
+
+[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s direct test for agent-native businesses: if removing AI or the agent leaves the business basically intact, the product is not truly AI native or agent native. The episode applies this test to startup opportunities, arguing that infrastructure, memory, search, sandbox, collaboration harnesses, and agent-cloud services are more plausible near-term opportunities than thin applications that merely add an AI layer to old workflows.
 
 [[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[NikeshArora|Nikesh Arora]]'s enterprise-systems version. He argues that systems of record and systems of work will be reinvented as agents perform work behind or instead of human-facing UI, turning products such as [[Salesforce]] and [[Oracle]] into substrates for agent execution and [[AgentManagedAuditTrails]].
 
@@ -46,6 +48,7 @@ Agent-native software is software whose core substrate is an agent rather than a
 - SAP adds that incumbent enterprise software can move toward agent-native execution without abandoning the ERP substrate, especially when auditability and global compliance remain central.
 - Persistent, real-time systems can matter because agents may need to stay online, react to events, and maintain state rather than operate as one-shot assistants.
 - Agent-native collaboration software may need to be readable by two kinds of workers at once: humans scanning progress and agents consuming structured event history.
+- E249 adds that "agent native" is an existential product test, not a marketing label: without the agent, the business should lose its core reason to exist.
 
 ## Connections
 - [[OpenClaw]] — source example of an agent-native product form.
@@ -62,3 +65,4 @@ Agent-native software is software whose core substrate is an agent rather than a
 - [[AIEconomicDiffusion]], [[AIOrganizationDesign]], and [[AgentPermissionBoundaries]] — episode 141's workflow, team, and infrastructure redesign frame.
 - [[SlockAI|Slock.ai]], [[AgentDynamics]], [[AgentTaskClaiming]], and [[HumanAgentCollaboration]] — multi-agent workspace case added by the RC episode.
 - [[SAP]], [[SAPJoule]], [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], and [[AutonomousEnterprise]] — incumbent ERP-to-agent execution branch added by LateTalk.
+- [[Dongxu]], [[TokenEfficientAgentWorkflow]], [[AgentHarness]], [[PersistentAgentMemory]], and [[AgentRuntimeExecutionLayer]] — E249's agent-native startup and infrastructure frame.

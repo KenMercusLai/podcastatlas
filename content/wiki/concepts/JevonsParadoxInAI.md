@@ -2,11 +2,13 @@
 title: "Jevons Paradox In AI"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
-last_updated: 2026-08-20
+sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
+last_updated: 2026-08-24
 ---
 
 # Jevons Paradox In AI
+
+[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[ZhangHongjiang|张宏江]]'s token-economics version. He argues that as technology matures, token cost can fall dramatically while total consumption grows faster, especially because agents create more loops, more subtasks, and more use cases. [[Dongxu]]'s local-model examples show the user-level version: cheaper or fixed-cost inference makes people attempt work they previously avoided.
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds the token-price version. The hosts say token prices can fall sharply while total demand expands through more users, longer agent loops, and broader enterprise workflows, which keeps [[DataCenterPowerBottleneck]] and [[AIInferenceCostStructure]] central even after routing savings.
 
@@ -27,6 +29,7 @@ Jevons paradox in AI is the E155 argument that falling per-token cost can increa
 - Efficiency improvements can increase total environmental burden when deployment expands faster than per-use resource demand falls.
 - Memory efficiency can raise total demand when better utilization makes longer contexts, more agents, and more recoverable workflows practical.
 - The All-In source adds a labor-demand version: cheaper AI assistance can expand total demand for reviewed knowledge outputs even if some tasks become easier.
+- E249 adds that [[TokenEfficientAgentWorkflow]] can lower cost per task while still expanding total agent work because more tasks become worth delegating.
 
 ## Connections
 - [[AIInferenceCostStructure]] — per-token and workflow-level cost pressure.
@@ -37,3 +40,4 @@ Jevons paradox in AI is the E155 argument that falling per-token cost can increa
 - [[AIMetabolicInfrastructure]], [[DataCenterThermalManagement]], and [[DataCenterBacklash]] — ecological and local-infrastructure implications added by Crawford.
 - [[MemoryWall]], [[AIDataCenterMemoryHierarchy]], [[AgentEraNANDStorage]], and [[AIStorageSupercycle]] — memory-demand extension added by What's Next.
 - [[DavidSacks|David Sacks]], [[EntryLevelAICareerLadderRisk]], and [[HumanJudgmentUnderAI]] - labor-market tension added by All-In.
+- [[ZhangHongjiang]], [[Dongxu]], [[TokenEfficientAgentWorkflow]], and [[LocalAgentExecution]] — E249's price-decline and local-inference demand extension.

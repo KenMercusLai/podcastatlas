@@ -10709,6 +10709,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
+
+Added source page for a 硅谷101 episode with Dongxu and Zhang Hongjiang on the shift from token maxing to token efficient agent workflows, OpenClaw, Hermes, Slock/Raft, local DeepSeek models, multi-agent review, agent-native startup opportunities, and AI work implications. Created Zhang Hongjiang, Lama Ventures, DB9, and Token Efficient Agent Workflow; updated overview, index, SiliconValley101, Dongxu, PingCAP, OpenClaw, HermesAgent, SlockAI, DeepSeek, Fable5, GLM52, and related token-cost, routing, harness, memory, skills, local-execution, multi-agent, agent-native, permission, runtime, organization, and human-agency concepts. No direct contradiction found; the source's uncertain model/product names remain source-scoped.
+
 ## [2026-08-24] ingest | EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01
 
 Added source page for Talk三联 EP275 on AI workplace anxiety, token spending, editorial AI translation, commercialization pressure, AI productivity ratchets, human-scale AI use, and non-algorithmic capabilities. Created Li Wei (Sanlian), Chen Mingxia, Non-Algorithmic Capabilities, Human-Scale AI Use, and AI Productivity Ratchet; updated overview, index, Talk三联, Sanlian Life Weekly, Token Maxxing, AI Commercialization Pressure, AI Job Security Anxiety, Human Agency Under AI, Human Judgment Under AI, AI Use Pacing, Ratchet Effect In The Workplace, Workplace Incentive Design, AI Translation, Translation Publishing Workflow, Human Value Beyond Efficiency, Human Connection Under AI, Subjectivity As AI Asset, Cognitive Surrender, Cognitive Offloading, Good Work New Standard, Work Self-Worth Boundary, Live Human Feeling, AI Brain Fry, and Workplace Pacing. No direct contradiction found; token ROI, FOMO, and workplace replacement claims remain source-scoped.
@@ -10820,6 +10824,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | Advice Line with Carlton Calvin of Razor
 
 Added source page for a How I Built This Advice Line episode with Carlton Calvin of Razor USA advising Eulogy, Honey Bespoke Stationery, and Little Water Distillery on trend spotting, copycat/patent limits, toy/game licensing proof, founder-visible marketing, school-connected retail, craft-spirits distribution, SKU focus, cans, and sales delegation. Created pages for Carlton Calvin, Razor USA, Sean Barassa, Eulogy, Shireen Tippett, Honey Bespoke Stationery, Little Water Distillery, Mark (Little Water Distillery), 48 Blocks Espresso Martini, Consumer Trend Spotting, Toy Inventor Licensing Path, Founder Visibility Marketing, and SKU Focus Under Cash Constraint; updated overview, index, How I Built This, Guy Raz, CPG Distribution, Channel Focus Experiments, Fast Product Validation, Game Mechanic To Retail Product, Story Led Consumer Branding, Founder Delegation Discipline, Founder Role Transition, Direct-to-Consumer Brand Control, and Wholesale As Marketing. No direct contradiction found; the source reinforces the wiki's Advice Line pattern that consumer-product growth should be staged around proof, channel fit, focus, and founder capacity.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 
