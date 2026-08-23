@@ -2,11 +2,13 @@
 title: "Self-Directed Learning"
 type: concept
 tags: [education, learning, ai, agency]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-12
+sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, 151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]
+last_updated: 2026-08-24
 ---
 
 # Self-Directed Learning
+
+[[151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]] adds the AI-native high-school research version. [[SuTinghao|苏廷昊]] uses [[ChatGPT]], public courses, [[AndrejKarpathy|Andrej Karpathy]] videos, papers, and small experiments to build enough understanding to write and test Transformer variants, showing self-direction as a full research workflow rather than only homework completion.
 
 Self-directed learning is [[YangLingfeng]]'s durable education goal in [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]]. He breaks it into willingness, ability, tools, and belief: students need not only explanations, but the conviction that they can independently learn, plan, try, get stuck, recover, and apply knowledge.
 
@@ -23,6 +25,7 @@ AI can support self-directed learning when used through [[AIAsTutor]] and [[Lear
 - AI is useful when it lowers the threshold for thinking and helps a student recover from stuck points.
 - AI is harmful when it turns the learning process into answer retrieval and weakens the student's own confidence and reasoning.
 - AI-free classroom time can train self-direction by making the first attempt visible before AI support enters.
+- Episode 151 adds that self-direction can become research-grade when the student combines AI tools with repeated experiments, paper reading, and failure recovery.
 
 ## Connections
 - [[YangcongXueyuan]] and [[YangLingfeng]] — source company and speaker.
@@ -31,3 +34,4 @@ AI can support self-directed learning when used through [[AIAsTutor]] and [[Lear
 - [[AIShortcutRisk]], [[HumanAgencyUnderAI]], and [[HumanJudgmentUnderAI]] — failure modes and responsibility boundaries.
 - [[WaterFireEducation]] — adjacent agency-centered education frame.
 - [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's classroom sequencing branch.
+- [[SuTinghao]], [[AINativeYouthResearch]], [[AIResearchFeedbackCompression]], and [[AttentionProjectionResiduals]] - episode 151's high-school research branch.

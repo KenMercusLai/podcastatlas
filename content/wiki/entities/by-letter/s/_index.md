@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6994
+wiki_total_pages: 6999
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "SuHao"
     title: "Su Hao / 苏浩"
     url: "/wiki/entities/suhao/"
+  - key: "SuTinghao"
+    title: "Su Tinghao / 苏廷昊"
+    url: "/wiki/entities/sutinghao/"
   - key: "SuYu"
     title: "Su Yu / 苏煜"
     url: "/wiki/entities/suyu/"

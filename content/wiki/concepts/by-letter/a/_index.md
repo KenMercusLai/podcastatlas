@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5276
+wiki_total_pages: 5279
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "AIEquityValuationRisk"
     title: "AI Equity Valuation Risk"
     url: "/wiki/concepts/aiequityvaluationrisk/"
+  - key: "AIExistentialMeaningAnxiety"
+    title: "AI Existential Meaning Anxiety"
+    url: "/wiki/concepts/aiexistentialmeaninganxiety/"
   - key: "AIExperimentDocumentation"
     title: "AI Experiment Documentation"
     url: "/wiki/concepts/aiexperimentdocumentation/"
@@ -1124,6 +1127,9 @@ wiki_pages:
   - key: "AINativeWorkspace"
     title: "AI-Native Workspace"
     url: "/wiki/concepts/ainativeworkspace/"
+  - key: "AINativeYouthResearch"
+    title: "AI-Native Youth Research"
+    url: "/wiki/concepts/ainativeyouthresearch/"
   - key: "AIWrittenJournalism"
     title: "AI-Written Journalism"
     url: "/wiki/concepts/aiwrittenjournalism/"
@@ -1619,6 +1625,9 @@ wiki_pages:
   - key: "AttentionIndustrialization"
     title: "Attention Industrialization"
     url: "/wiki/concepts/attentionindustrialization/"
+  - key: "AttentionProjectionResiduals"
+    title: "Attention Projection Residuals"
+    url: "/wiki/concepts/attentionprojectionresiduals/"
   - key: "AttentionResidues"
     title: "Attention Residues"
     url: "/wiki/concepts/attentionresidues/"

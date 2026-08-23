@@ -10718,6 +10718,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode with Su Tinghao on AI-native self-study, an ICML 2026 attention paper, Transformer intuition, compute-cost and checkpoint failures, AI use in school, job and meaning anxiety, AI companion risks, AGI speculation, and happiness as a life anchor. Created pages for Su Tinghao, International Conference on Machine Learning / ICML, German Swiss International School, Andrew Ng, Andrej Karpathy, AI-Native Youth Research, Attention Projection Residuals, and AI Existential Meaning Anxiety; updated overview, index, and targeted AI/education/research concept pages. No direct contradiction found; transcript-level technical terms and future predictions remain source-scoped.
+
 ## [2026-08-24] ingest | 蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿
 
 Added source page for a 声动早咖啡 roundup on Unitree's listing-day valuation, LandSpace/Zhuque-3's reported Chinese land-recovery milestone, Baidu's AI-search ad pressure, iQIYI's long-video squeeze, Xiaomi's handset margin pressure and EV export plan, Arc'teryx/Amer Sports China growth, Lucky Coffee's higher-tier city push, Nestle's GLP-1 nutrition response, Chinese airline meal upgrades, Tesla CyberCab rollout reporting, and Sydney drone lifeguards. Created pages for Amer Sports, Arc'teryx, Lucky Coffee, Hainan Airlines, Sydney, CyberCab, and Gansu; updated overview, index, 声动早咖啡, Unitree Robotics, Wang Xingxing, LandSpace, Zhuque-3, Reusable Rocket Economics, Baidu, Search Advertising Decline, AI Search Advertising, iQIYI, Chinese Long-Video Platform Economics, Short Drama Economics, Xiaomi, AI Hardware Supply Chain Pressure, China Passenger Vehicle Demand Pressure, Mixue Bingcheng, Luckin Coffee, Beverage Category Convergence, Franchise-Led Consumer Chain Expansion, Nestle, GLP-1 Agonists, Air China, China Eastern Airlines, China Southern Airlines, Airline Service Differentiation, New South Wales, Tesla, Robotaxi Economics, and Robotaxi Fleet Operations. Kept Unitree market-value details source-scoped and treated Zhuque-3's landing as a recovery milestone rather than proof of repeat-use economics.
@@ -10885,6 +10889,10 @@ Added source page for a What's Next｜科技早知道 replay episode with Dong K
 ## [2026-08-24] lint | Wiki lint check
 
 Ran health, identity validation, and lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 13,606 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current wiki has 13,606 non-generated lint pages, so bridge findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries, and flagged thin concept depth / source-breadth risks for single-source pages such as `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/OracleBoneDivination.md`, `wiki/concepts/HumanDependentSafetySystem.md`, `wiki/concepts/DayZeroModelSupport.md`, and `wiki/concepts/EraTailwindInInvesting.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

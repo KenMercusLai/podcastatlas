@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6994
+wiki_total_pages: 6999
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "AndreessenHorowitz"
     title: "Andreessen Horowitz"
     url: "/wiki/entities/andreessenhorowitz/"
+  - key: "AndrejKarpathy"
+    title: "Andrej Karpathy"
+    url: "/wiki/entities/andrejkarpathy/"
   - key: "AndrewCrosse"
     title: "Andrew Crosse / 安德鲁·克罗斯"
     url: "/wiki/entities/andrewcrosse/"
@@ -755,6 +758,9 @@ wiki_pages:
   - key: "AndrewNelson"
     title: "Andrew Nelson"
     url: "/wiki/entities/andrewnelson/"
+  - key: "AndrewNg"
+    title: "Andrew Ng"
+    url: "/wiki/entities/andrewng/"
   - key: "AndrewRossSorkin"
     title: "Andrew Ross Sorkin"
     url: "/wiki/entities/andrewrosssorkin/"

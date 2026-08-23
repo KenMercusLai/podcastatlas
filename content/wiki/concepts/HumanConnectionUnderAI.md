@@ -8,6 +8,8 @@ last_updated: 2026-08-24
 
 # Human Connection Under AI
 
+[[151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]] adds a teen-researcher version through [[SuTinghao|苏廷昊]]. He uses AI as teacher, assistant, conversation partner, and occasional emotional outlet, but the episode's most durable answer to AI-era anxiety is human: ICML chess socializing, rural teaching, friends, children, and the goal of making people he likes happy.
+
 [[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the workplace, sales, and care version. [[LiWeiSanlian|李维]] uses sales as an example of [[NonAlgorithmicCapabilities]]: connecting, building trust, reading ambiguity, and helping another person accept value remain important when AI can handle more search, drafting, and standard reasoning. The episode also argues that live human service in elder care, child care, and other relational work may become scarcer as digital services reduce ordinary human contact.
 
 [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a stronger emotional-substitution question. The source asks whether users will still care that an AI is not "real" if it is more patient, stable, attentive, and remembering than many human relationships, while also using [[HumanValueBeyondEfficiency]] to argue that inefficient human contact may remain valuable precisely because it is lived directly.
@@ -39,6 +41,7 @@ The concept complements [[LanguageUserInterface]] rather than contradicting it. 
 - Paid and AI-mediated companionship reveal the scarcity of trusted listeners, but the fact that connection can be bought or simulated does not make it identical to durable human support.
 - If production becomes less central to social value, human connection becomes a candidate value anchor rather than only a communication style.
 - EP275 adds that connection is a work capability as well as a social value: sales, care, job seeking, and relationships all depend on trust and ambiguity that AI can assist but not fully own.
+- Episode 151 adds that human connection can be a direct answer to youth AI anxiety: AI may accelerate learning and work, but embodied friendships, teaching, and shared play remain the source's chosen value anchor.
 
 ## Connections
 - [[LiDan|李诞]], [[PodcastIntimacy]], [[PodcastAuthenticityBoundary]], and [[AIContentProvenance]] — podcast, disclosure, and human-imperfection branch added by the Banlatte special.
@@ -52,3 +55,4 @@ The concept complements [[LanguageUserInterface]] rather than contradicting it. 
 - [[EmotionEconomy]], [[PaidListeningServices]], [[AIFriendProducts]], [[AICompanionAttentionRisk]], and [[EmotionRegulationToolkit]] — EP236's paid listening and AI companionship branch.
 - [[ChaSheng]], [[HumanAgencyUnderAI]], [[HumanTasteAsAITrainingSignal]], and [[AILaborSubstitutionValuationBoundary]] - source branch on post-production human value.
 - [[LiWeiSanlian|李维]], [[ChenMingxia|陈明霞]], [[NonAlgorithmicCapabilities]], [[HumanScaleAIUse]], and [[LiveHumanFeeling]] - EP275's work, care, and human-presence extension.
+- [[SuTinghao]], [[AICompanionAttentionRisk]], [[AIExistentialMeaningAnxiety]], and [[AIForFun]] - episode 151's student, companion, and happiness branch.

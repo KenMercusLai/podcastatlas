@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！](sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u.md) — 张小珺Jùn episode with Su Tinghao on AI self-study, ICML 2026 attention research, AI-native school use, job and meaning anxiety, AI companionship, and happiness as a life anchor.
 - [Getting entrepreneurial in Korea (Summer School)](sources/getting-entrepreneurial-in-korea-summer-school.md) — Planet Money Summer School episode on South Korea's development playbook, export discipline, Bangladesh's garment knowledge transfer, flying-geese industrialization, and North Korea's constrained donju entrepreneurship.
 - [【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态 | S9E41](sources/zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714.md) — What's Next replay with Dong Kai on Zhuque-3's 2025 recovery failure, 2026 Yao-2 success, reuse-first design, recovery-distance payload tradeoffs, and launch-cadence economics.
 - [Wake-up haul: an Ozempic moment for the brain](sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744.md) — The Intelligence episode on orexin agonists and narcolepsy, Japan's startup-capital and IPO constraints, and procrastination as self-regulatory failure.
@@ -1363,6 +1364,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Su Tinghao / 苏廷昊](entities/SuTinghao.md) — Teenage AI researcher whose source-described high-school attention paper was accepted by ICML 2026.
+- [International Conference on Machine Learning / ICML](entities/InternationalConferenceOnMachineLearning.md) — AI research conference that appears as Su Tinghao's paper venue and social research setting in episode 151.
+- [German Swiss International School / 香港德瑞国际学校](entities/GermanSwissInternationalSchool.md) — Hong Kong international-school context for Su Tinghao's AI-native self-study path.
+- [Andrew Ng](entities/AndrewNg.md) — AI educator whose online courses appear as an entry point in Su Tinghao's self-study path.
+- [Andrej Karpathy](entities/AndrejKarpathy.md) — AI educator/researcher whose from-scratch GPT/Transformer video helped Su Tinghao internalize Transformer mechanics.
 - [Oliver Kim](entities/OliverKim.md) — Planet Money expert explaining South Korea's development playbook, export discipline, flying geese, and North Korea's constraints.
 - [Abdul Majid Chowdhury](entities/AbdulMajidChowdhury.md) — Bangladeshi businessman who used Daewoo training to help launch Desh Garments.
 - [Daewoo](entities/Daewoo.md) — South Korean company that trained Bangladeshis for export-oriented garment production under quota-driven incentives.
@@ -8361,6 +8367,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI-Native Youth Research](concepts/AINativeYouthResearch.md) — Pattern where teenagers use AI tools, public research resources, and small experiments to enter frontier-adjacent AI work.
+- [Attention Projection Residuals](concepts/AttentionProjectionResiduals.md) — Source-scoped attention modification Su Tinghao describes, extending value residual learning into Q/K/V projection residual paths.
+- [AI Existential Meaning Anxiety](concepts/AIExistentialMeaningAnxiety.md) — Youth-facing anxiety that AI may overtake careers, learning missions, and contribution narratives, answered through agency, connection, and present-life anchors.
 - [East Asian Tigers](concepts/EastAsianTigers.md) — Development comparison group of South Korea, Taiwan, Singapore, and Hong Kong converging rapidly toward rich-country incomes.
 - [Land Reform And Equality In Development](concepts/LandReformEqualityDevelopment.md) — Early-condition frame linking land redistribution and relatively equal income distribution to development participation.
 - [Export Discipline](concepts/ExportDiscipline.md) — Industrial-policy discipline where subsidized firms must prove capability through export competition.

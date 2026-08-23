@@ -2,11 +2,13 @@
 title: "AI Companion Attention Risk"
 type: concept
 tags: [ai, companions, attention, mental-health]
-sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]
-last_updated: 2026-08-10
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]
+last_updated: 2026-08-24
 ---
 
 # AI Companion Attention Risk
+
+[[151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]] adds a teen peer-use version. [[SuTinghao|苏廷昊]] describes classmates paying to chat with AI idols, mentions [[CharacterAI]]-style virtual companions, and discusses a source-reported teen suicide lawsuit, making companion risk visible inside ordinary student social life rather than only adult loneliness or product strategy.
 
 [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds an authenticity-focused companion case. The fictional "Digital Companion" does not merely hold attention; it speaks in a deceased grandfather's style, making [[AICompanionAuthenticityBoundary]] a deeper version of attention risk because the emotional response can be real even when the representation is synthetic.
 
@@ -26,6 +28,7 @@ The concept qualifies the wiki's [[AIFriendProducts]] branch. Memory and warmth 
 - For minors, companion design should be evaluated through child-safety, mental-health, and product-liability frames rather than only engagement metrics.
 - For general assistants, long-session engagement can become unsafe when conversational continuity turns into repeated validation of a delusional or self-harm-related frame.
 - The paid-listening comparison shows why availability is itself a risk factor: the more emotionally responsive and instantly reachable the system is, the easier it is to route distress through the product instead of through humans or professional care.
+- Episode 151 adds that companion risk is already visible among teenagers who treat idol chat, character chat, and AI venting as ordinary peer-culture options.
 
 ## Connections
 - [[GaiaBernstein]], [[MarketplaceTech]], and [[BigTobaccoPlatformAnalogy]] - source, show, and public-health comparison.
@@ -33,3 +36,4 @@ The concept qualifies the wiki's [[AIFriendProducts]] branch. Memory and warmth 
 - [[EmotionEconomy]], [[PaidListeningServices]], [[ListeningTherapyBoundary]], and [[HumanConnectionUnderAI]] - EP236's human paid-listening comparison.
 - [[AIFriendProducts]], [[AICompanionActiveMemory]], [[SycophanticAICompanionRisk]], [[TeenChatbotMentalHealthRisk]], and [[HumanConnectionUnderAI]] - AI-companion and relationship-risk branch.
 - [[AttentionIndustrialization]], [[AddictiveInteractionDesign]], and [[SocialMediaProductLiability]] - social-media design branch carried into AI companions.
+- [[SuTinghao]], [[CharacterAI]], [[TeenChatbotMentalHealthRisk]], and [[AIDefaultLearningEnvironment]] - teen-use branch added by episode 151.

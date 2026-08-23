@@ -2,11 +2,13 @@
 title: "AI Default Learning Environment"
 type: concept
 tags: [ai, education, learning, work]
-sources: [ep-9-chatgpt-and-education-systems, tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]
-last_updated: 2026-08-18
+sources: [ep-9-chatgpt-and-education-systems, tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, 151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]
+last_updated: 2026-08-24
 ---
 
 # AI Default Learning Environment
+
+[[151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]] adds the high-school peer-culture version through [[SuTinghao|苏廷昊]]. His classmates use AI for homework and projects, while he uses AI for research, writing, reviewer response, and low-value task offloading. The source therefore shifts the default environment from classroom policy to lived student strategy: AI is already part of how ambitious students allocate attention.
 
 [[ep-9-chatgpt-and-education-systems]] adds an early K-12 preview of the default-environment problem. [[SamDataScienceWithSam|Sam]] and [[JosephStrader]] discuss bans, online exams, teacher shortages, and student access to [[ChatGPT]], showing that schools were already facing AI as a normal background condition rather than a tool that could be fully excluded.
 
@@ -28,6 +30,7 @@ The source's closing anecdote makes the concept generational: a younger high-sch
 - A default AI environment raises the value of [[HumanJudgmentUnderAI]], [[AICodingVerification]], and [[AIUsePacing]] because students must decide when to trust, slow down, verify, or stop.
 - Universities should design assessment and practice assuming AI access, while still protecting specific activities where the cognitive struggle is the point.
 - Campus AI strategy now includes majors, minors, project courses, and ethics design, not only rules about whether students may use a chatbot.
+- Episode 151 adds that students themselves may treat AI as ordinary infrastructure for research and time allocation before institutions have fully redesigned curriculum or assessment.
 
 ## Connections
 - [[AIAsTutor]] - constructive learning mode inside the default environment.
@@ -40,3 +43,4 @@ The source's closing anecdote makes the concept generational: a younger high-sch
 - [[ScienceEducationAsCivicLiteracy]], [[ProjectBasedScienceLearning]], and [[AIHackathons]] - K12 science-education and youth-project extension.
 - [[AIEraMajorChoice]], [[MedicalAIEducation]], [[AIForScienceTalent]], and [[AIHollowingFoundationalTraining]] - EP266's university curriculum and major-choice extension.
 - [[HumanCenteredAIEducation]], [[ProjectDrivenAICurriculum]], [[USCStevensSchoolForComputingAndArtificialIntelligence]], and [[AcademicAIResearchRole]] - USC's institutional AI education branch.
+- [[SuTinghao]], [[GermanSwissInternationalSchool]], [[AINativeYouthResearch]], and [[SelfDirectedLearning]] - high-school research and AI-native study branch added by episode 151.

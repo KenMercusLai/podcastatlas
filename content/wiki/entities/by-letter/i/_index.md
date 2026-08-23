@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 6994
+wiki_total_pages: 6999
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "InternalRevenueService"
     title: "Internal Revenue Service"
     url: "/wiki/entities/internalrevenueservice/"
+  - key: "InternationalConferenceOnMachineLearning"
+    title: "International Conference on Machine Learning / ICML"
+    url: "/wiki/entities/internationalconferenceonmachinelearning/"
   - key: "InternationalHotel"
     title: "International Hotel"
     url: "/wiki/entities/internationalhotel/"

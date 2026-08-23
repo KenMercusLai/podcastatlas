@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "933cd919c17f63322880bb6cbcaff7f15af6cde4d20a50b48a604e749e6d1d67",
       "dbbc2456c59d75f517d0ee3b95a89f8540f69d66f77ca4cc223210f842e22d38",
       "8b6c6c1e2e4d589fbc6db6aac4dfc609de7aff75e790e469520bd0910f34a2a9",
       "cbad7cf493d5370d11e5d301c666d5a37465520e77f31c7e20d747b7a1554575",
@@ -160,11 +161,51 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 158
+    "paragraph_count": 159
   },
-  "overview_commit": "ef09fe5e4bddb03b2c212424d1e33ebc17b829c0",
-  "overview_digest": "bdff4bf416842d29f4f4246b098531797def5567ca28deb480316b4e89e2dadf",
+  "overview_commit": "db570d4daf27948bb2336ae11e058e8543c67659",
+  "overview_digest": "89b46e0c9b3caefa6ccd58e24e47637117eb491b8d18ba0416fb6e1fc1e78ed3",
   "paragraphs": [
+    {
+      "id": "933cd919c17f63322880bb6cbcaff7f15af6cde4d20a50b48a604e749e6d1d67",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]], a [[ZhangXiaojunCommercialInterviews|张小珺Jùn｜商业访谈录]] episode with [[SuTinghao|苏廷昊]] on a teenage path into AI research. It adds [[SuTinghao]], [[InternationalConferenceOnMachineLearning|International Conference on Machine Learning / ICML]], [[GermanSwissInternationalSchool]], [[AndrewNg]], [[AndrejKarpathy]], [[AINativeYouthResearch]], [[AttentionProjectionResiduals]], and [[AIExistentialMeaningAnxiety]], while extending [[ChatGPT]], [[OpenAI]], [[TransformerArchitecture]], [[AttentionResidues]], [[ResearchTaste]], [[AIResearchFeedbackCompression]], [[SelfDirectedLearning]], [[AIDefaultLearningEnvironment]], [[AIJobSecurityAnxiety]], [[AIFatalisticAcceleration]], [[AGINarrative]], [[AICompanionAttentionRisk]], [[TeenChatbotMentalHealthRisk]], [[HumanConnectionUnderAI]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[AIForFun]]. Its core synthesis is that AI-native research is both empowering and destabilizing: public courses, videos, chatbots, small-model experiments, and review workflows can let a high-school student reach frontier-adjacent work, but the same environment raises questions about compute cost, peer community, career meaning, emotional dependence, and how to keep life anchored in relationships and ordinary happiness. No direct contradiction is recorded; transcript-level technical names and future predictions remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 6
+      },
+      "wikilinks": [
+        "151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u",
+        "AGINarrative",
+        "AICompanionAttentionRisk",
+        "AIDefaultLearningEnvironment",
+        "AIExistentialMeaningAnxiety",
+        "AIFatalisticAcceleration",
+        "AIForFun",
+        "AIJobSecurityAnxiety",
+        "AINativeYouthResearch",
+        "AIResearchFeedbackCompression",
+        "AIUsePacing",
+        "AndrejKarpathy",
+        "AndrewNg",
+        "AttentionProjectionResiduals",
+        "AttentionResidues",
+        "ChatGPT",
+        "GermanSwissInternationalSchool",
+        "HumanAgencyUnderAI",
+        "HumanConnectionUnderAI",
+        "InternationalConferenceOnMachineLearning",
+        "OpenAI",
+        "ResearchTaste",
+        "SelfDirectedLearning",
+        "SuTinghao",
+        "TeenChatbotMentalHealthRisk",
+        "TransformerArchitecture",
+        "ZhangXiaojunCommercialInterviews"
+      ]
+    },
     {
       "id": "dbbc2456c59d75f517d0ee3b95a89f8540f69d66f77ca4cc223210f842e22d38",
       "primary_topic": "governance-and-institutions",

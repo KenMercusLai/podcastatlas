@@ -13,6 +13,10 @@
         "JiaZhangke",
         "FilmRealityBeyondRealism",
         "LiveActionFilmUnderAI",
+        "CreativeLaborAIBacklash",
+        "AIPublicLikenessGeneration",
+        "AITrainingCopyrightDispute",
+        "AIEnergyBottleneck",
         "RollingAI",
         "HeadlessSoftware",
         "Paperboy",
@@ -48,14 +52,18 @@
       "global_candidate": true,
       "id": "implementation-beats-capability-claims",
       "qualifications": [
-        "The specific implementation bottleneck differs by domain: it may be sales, retail shelves, permits, supply chains, audit evidence, hidden variables, customer deployment, or market structure."
+        "The specific implementation bottleneck differs by domain: it may be sales, retail shelves, permits, supply chains, audit evidence, hidden variables, customer deployment, pricing models, or market structure.",
+        "Outcome-based AI pricing is most grounded when buyers can compare task output, transaction value, or labor cost rather than simply count seats."
       ],
-      "statement": "Across software, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, or customer trust are solved.",
+      "statement": "Across software, AI services, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, customer trust, or pricing fit are solved.",
       "status": "supported",
       "supporting_wikilinks": [
         "ProductLedWillingnessToPay",
         "OpenSourceWedge",
         "SalesAsLearnableSkill",
+        "PurposeDrivenBusiness",
+        "MissionDrivenCustomerEducation",
+        "SustainableGrowthPace",
         "CPGDistribution",
         "ChinaHandsetSupplyChain",
         "AdvancedMarketCommitment",
@@ -63,16 +71,20 @@
         "AetherAI",
         "ThreatLocker",
         "JimSimons",
-        "BuildingPublic"
+        "BuildingPublic",
+        "OutcomeBasedAIPricing",
+        "ServiceAsSoftware",
+        "AIBPORollUp"
       ]
     },
     {
       "global_candidate": true,
       "id": "career-entry-and-advancement-need-context-practice",
       "qualifications": [
-        "Internships and transfers are most useful when tied to explicit stage goals, direction filtering, and managed communication rather than prestige alone."
+        "Internships and transfers are most useful when tied to explicit stage goals, direction filtering, and managed communication rather than prestige alone.",
+        "EP58 treats bounded task pacing and AI-assisted presentation room as useful only when real delivery, role constraints, and judgment remain owned by the worker."
       ],
-      "statement": "Career progress is framed as context practice rather than credential magic: [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[UpwardManagement]], [[PromotionExpectationManagement]], and [[InternalTransferStrategy]] turn entry and mobility into staged communication, evidence, and risk-management problems.",
+      "statement": "Career progress and workplace pacing are framed as context practice rather than credential magic: [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[UpwardManagement]], [[PromotionExpectationManagement]], and [[InternalTransferStrategy]] turn entry, mobility, and AI-assisted work rhythm into staged communication, evidence, and risk-management problems.",
       "status": "supported",
       "supporting_wikilinks": [
         "InternshipAsCareerExploration",
@@ -83,7 +95,46 @@
         "UpwardManagement",
         "PromotionExpectationManagement",
         "InternalTransferStrategy",
-        "YiLaoYongYi"
+        "YiLaoYongYi",
+        "DeepSeek"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "ai-native-research-expands-access-but-needs-grounding",
+      "qualifications": [
+        "The teenage research path is grounded in one interview source, so transcript-level paper details and future AI timelines remain source-scoped.",
+        "Lower access barriers do not resolve compute cost, peer community, emotional dependence, career-meaning anxiety, or the need to keep life anchored in relationships and ordinary happiness."
+      ],
+      "statement": "[[AINativeYouthResearch]] shows that public courses, videos, chatbots, small-model experiments, and review workflows can let a student such as [[SuTinghao]] reach [[InternationalConferenceOnMachineLearning|ICML]]-adjacent work, but the same path needs [[ResearchTaste]], [[AIUsePacing]], and human grounding.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u",
+        "SuTinghao",
+        "InternationalConferenceOnMachineLearning",
+        "GermanSwissInternationalSchool",
+        "AndrewNg",
+        "AndrejKarpathy",
+        "AINativeYouthResearch",
+        "AttentionProjectionResiduals",
+        "AIExistentialMeaningAnxiety",
+        "ChatGPT",
+        "OpenAI",
+        "TransformerArchitecture",
+        "AttentionResidues",
+        "ResearchTaste",
+        "AIResearchFeedbackCompression",
+        "SelfDirectedLearning",
+        "AIDefaultLearningEnvironment",
+        "AIJobSecurityAnxiety",
+        "AIFatalisticAcceleration",
+        "AGINarrative",
+        "AICompanionAttentionRisk",
+        "TeenChatbotMentalHealthRisk",
+        "HumanConnectionUnderAI",
+        "HumanAgencyUnderAI",
+        "AIUsePacing",
+        "AIForFun"
       ]
     },
     {
@@ -238,6 +289,6 @@
       ]
     }
   ],
-  "summary": "Work, education, and social practice now cluster around implementation, boundaries, and responsibility. AI cinema, agents, interactive entertainment, companion robots, AI tutors, AI coding, and enterprise Copilot-style adoption lower production friction, but they do not remove human judgment, workflow design, ownership, baselines, rights, labor, energy limits, or the struggle required for learning. EP48 adds that workplace AI readiness is not license access: role-specific use cases, training, governance, business sponsors, and measurement decide whether worker experimentation becomes durable productivity. Non-AI career and service sources reinforce the same pattern: internships, upward management, finance, banking, aviation, creator monetization, household consumption, mission-driven CPG, carbon removal, family political strategy, and prediction markets turn abstract opportunity into staged evidence, operations, trust, and risk control.",
+  "summary": "Work, education, and social practice now cluster around implementation, boundaries, responsibility, and grounded self-direction. AI-native youth research, AI cinema, agents, interactive entertainment, companion robots, AI tutors, AI coding, and enterprise Copilot-style adoption lower production friction, but they do not remove human judgment, workflow design, ownership, baselines, rights, labor, energy limits, peer community, or the struggle required for durable learning. EP48 adds that workplace AI readiness is not license access: role-specific use cases, training, governance, business sponsors, and measurement decide whether worker experimentation becomes durable productivity. Non-AI career and service sources reinforce the same pattern: internships, upward management, finance, banking, aviation, creator monetization, household consumption, mission-driven CPG, carbon removal, family political strategy, and prediction markets turn abstract opportunity into staged evidence, operations, trust, and risk control.",
   "topic_id": "work-education-and-society"
 }

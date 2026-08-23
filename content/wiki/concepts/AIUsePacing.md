@@ -8,6 +8,8 @@ last_updated: 2026-08-24
 
 # AI Use Pacing
 
+[[151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]] adds a student-research version through [[SuTinghao|苏廷昊]]. He uses AI to handle low-efficiency assignments, writing help, and research support, but also argues that students who only use AI to finish homework faster may weaken their own learning. Pacing here means deciding when AI removes wasted time and when it removes the practice that builds ability.
+
 [[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the anti-FOMO workplace version. The episode argues that ordinary workers do not have to inherit the anxiety of big companies or capital markets, and that AI should be used at the pace where it improves real work and life rather than because token subscriptions, tools, or narratives create pressure to keep up.
 
 [[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds the information-abundance and review-burden version. The episode describes heavy users opening multiple AI conversations and feeling more tired because AI surfaces more material, drafts, and code than the user can judge comfortably. Pacing therefore includes limiting how much AI output one generates before review, recall, and integration have happened.
@@ -74,6 +76,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - S10E25 adds that learning tasks may need slower AI timing than work tasks, because immediately smoothing away confusion can create [[CognitiveDebt]].
 - Vol. 171 adds that unlimited or near-unlimited token access can worsen pacing by making every idle hour feel usable for more agent work, even when the human review queue is already full.
 - EP275 adds that pacing is also narrative hygiene: not every person has the same reason as a frontier company, investor, or ambitious entrant to maximize AI use immediately.
+- Episode 151 adds that pacing matters for AI-native students: a tool can free time for deeper learning or quietly replace the learning loop, depending on when and why it is used.
 
 ## Connections
 
@@ -99,3 +102,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[CognitiveOffloading]], [[CognitiveDebt]], [[AIBrainFry]], and [[AIGuidedLearningGuardrails]] - S10E25's heavy-use and learning-timing extension.
 - [[UnlimitedTokenWorkflow]], [[AgenticWorkflow]], [[VibeCoding]], [[ComputerUseAgent]], and [[OutputQualityGates]] - Vol. 171's review-debt and loop-shutdown branch.
 - [[HumanScaleAIUse]], [[TokenMaxxing]], [[AIProductivityRatchet]], and [[NonAlgorithmicCapabilities]] - EP275's token-pressure and human-scale pacing branch.
+- [[SuTinghao]], [[AINativeYouthResearch]], [[SelfDirectedLearning]], and [[AIDefaultLearningEnvironment]] - student research and homework-use branch added by episode 151.

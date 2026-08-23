@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6994
+wiki_total_pages: 6999
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "GerardWay"
     title: "Gerard Way"
     url: "/wiki/entities/gerardway/"
+  - key: "GermanSwissInternationalSchool"
+    title: "German Swiss International School / 香港德瑞国际学校"
+    url: "/wiki/entities/germanswissinternationalschool/"
   - key: "Germany"
     title: "Germany"
     url: "/wiki/entities/germany/"

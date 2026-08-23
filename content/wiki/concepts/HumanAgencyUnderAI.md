@@ -8,6 +8,8 @@ last_updated: 2026-08-24
 
 # Human Agency Under AI
 
+[[151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u]] adds [[SuTinghao|苏廷昊]]'s youth version. He accepts that AI can do more work, research, and emotional support, but answers the pressure by deciding what still belongs to him: using AI where useful, keeping meaningful and happiness-producing parts of life, and orienting toward people he likes. This makes agency a teenage life-design problem, not only a worker or founder problem.
+
 [[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds the "do your own CEO" version. [[ChenMingxia|陈明霞]] argues that before choosing AI tools, a person has to define their own abilities, desires, difference, scarcity, and values; otherwise AI only accelerates externally supplied goals. The source turns agency into [[HumanScaleAIUse]] and [[NonAlgorithmicCapabilities]] rather than tool fluency alone.
 
 [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds a more automation-positive but still existential version. [[Dongxu]] says replacing repetitive work can be good if it returns time to human life, while [[ZhangHongjiang|张宏江]] raises the harder possibility that AI may satisfy new demand as well as old tasks. The source therefore connects human agency to [[AIWorkOptionality]], [[AIAutomationRedistribution]], and the question of what people choose when production need no longer organizes all work.
@@ -72,6 +74,7 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - The Liu Kefan source adds that agency includes deciding what AI should not decide: life direction, business interest, and locally grounded tradeoffs remain the user's responsibility.
 - EP275 adds that agency is also a workplace and life-design answer to AI anxiety: the person must decide what tool use is for before token spend, agent output, or boss expectations define the goal.
 - E249 adds that if agents absorb more repetitive and eventually high-skill work, agency shifts toward choosing ends, meaning, trust, and social arrangements rather than defending every task as uniquely human.
+- Episode 151 adds that AI-native youth agency includes choosing which work to delegate, which learning struggle to preserve, and which human relationships make the future worth caring about.
 
 ## Connections
 
@@ -96,3 +99,4 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[AIEngineeringThinking]], and [[HumanAsAgentTool]] - Hard Hacker branch on independent-builder agency and task delegation.
 - [[ChenMingxia|陈明霞]], [[LiWeiSanlian|李维]], [[HumanScaleAIUse]], [[NonAlgorithmicCapabilities]], and [[AIProductivityRatchet]] - EP275's self-direction and workplace-AI branch.
 - [[Dongxu]], [[ZhangHongjiang]], [[AIWorkOptionality]], [[AIAutomationRedistribution]], and [[TokenEfficientAgentWorkflow]] — E249's automation, labor, and meaning branch.
+- [[SuTinghao]], [[AIExistentialMeaningAnxiety]], [[AIForFun]], [[SelfDirectedLearning]], and [[HumanConnectionUnderAI]] — episode 151's youth agency and happiness branch.
