@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6780
+wiki_total_pages: 6781
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "GuangwuChuHan"
     title: "广武 / Guangwu (Chu-Han)"
     url: "/wiki/entities/guangwuchuhan/"
+  - key: "GuanglingCommandery"
+    title: "广陵 / Guangling Commandery"
+    url: "/wiki/entities/guanglingcommandery/"
   - key: "GuiYouguang"
     title: "归有光 / Gui Youguang"
     url: "/wiki/entities/guiyouguang/"

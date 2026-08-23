@@ -10557,3 +10557,11 @@ Added source page for Hanji 1018: Chen Deng's handling of Lü Bu after Cao Cao w
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事
+
+Added source page for Hanji 1017: Chen Deng's 197 CE meeting with Cao Cao, the "轻于去就" diagnosis of Lü Bu, Cao Cao's Guangling appointment, Chen Deng's local base-building, and Chen Gui's staged family-survival strategy. Created Qing Yu Qu Jiu and Guangling Commandery; updated overview, index, Chen Deng, Chen Gui, Lü Bu, Cao Cao, Sun Ce, Xiapi, Zhao Ping, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the transcript's "元素" is kept source-scoped as likely Yuan Shu in context, and the Sun Ce / Jiangdong claims remain bounded to this source.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

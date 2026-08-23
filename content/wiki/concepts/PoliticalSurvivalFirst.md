@@ -2,7 +2,7 @@
 title: "Political Survival First / 安全第一政治生存"
 type: concept
 tags: [politics, statecraft, risk, han, survival]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
+sources: [zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
 last_updated: 2026-08-23
 ---
 
@@ -18,8 +18,11 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 
 [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] adds Han Xin as a negative contrast. The episode says Han Xin could read battle but not politics: he did not sufficiently study history, motive, or how people change when class position and power incentives change. In this light, [[PoliticalSurvivalFirst|安全第一政治生存]] is not praised because it is morally clean; it is necessary because brilliance without motive-reading leaves even a victorious commander exposed.
 
+[[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] adds a late-Han family version through [[ChenGui|陈珪]] and [[ChenDeng|陈登]]. The Chen family does not simply pick the strongest visible actor at once. The episode reads its survival as staged: use [[LyuBu|吕布]] while he balances immediate danger, build capacity through offices such as [[GuanglingCommandery|广陵]], and keep a long-term path to [[CaoCao|曹操]] for the post-Lü-Bu order.
+
 ## Key Claims
 - Hanji 182 part 3 adds that the absence of survival-first judgment can make military genius politically unusable after the victory order changes.
+- Hanji 1017 adds that survival-first politics can operate at family scale, using staged alignment rather than a single irreversible camp choice.
 - In a lethal court, self-preservation can become a political operating discipline rather than a private weakness.
 - Survival-first actors avoid closing every path before succession, regency, or factional outcomes are known.
 - The strategy can preserve useful agency, but it also damages moral legibility because outsiders may read prudence as opportunism.
@@ -36,3 +39,4 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 - [[PowerExitTrap|权力退场困境]], [[PatronSuccessionExposure|靠山更替暴露风险]], and [[MachiavellianRealism]] - adjacent risk and realism frames.
 - [[TacticalDelayRiskTransfer|延时转责式政治化解]] and [[WorldlyPoliticalCultivation|入世政治修行]] - part 4 extensions around no-win orders and remaining inside the political field.
 - [[BaidengEncirclement|白登之围]] and [[FanKuai|樊哙]] - part 4 cases where survival depends on indirect leverage and delayed finality.
+- [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], [[ChenGui|陈珪]], [[ChenDeng|陈登]], [[LyuBu|吕布]], [[CaoCao|曹操]], and [[GuanglingCommandery|广陵]] - late-Han family-survival and staged-alignment branch.

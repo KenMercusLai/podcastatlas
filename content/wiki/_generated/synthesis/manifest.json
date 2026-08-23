@@ -1,27 +1,27 @@
 {
   "content_date": "2026-08-23",
   "corpus": {
-    "episode_count": 1313,
-    "source_count": 1313
+    "episode_count": 1314,
+    "source_count": 1314
   },
   "generated": true,
   "global": {
-    "candidate_digest": "e62842f25d564dea4d1ced2f19519e6e5a510380126c7462e8b995c3a7b43f38",
-    "compacted_at": "2026-08-23T08:39:25.934691Z",
+    "candidate_digest": "7cb538c1ee859016f199669056716ce535c22b132874af8fec4218a9f126382b",
+    "compacted_at": "2026-08-23T08:58:10.597283Z",
     "content_date": "2026-08-23",
     "corpus": {
-      "episode_count": 1313,
-      "source_count": 1313
+      "episode_count": 1314,
+      "source_count": 1314
     },
-    "output_digest": "40544ee9d178cd7f303a59d9a69be4509bda8585e4d27883bb11da23a9e8ab6c",
-    "overview_commit": "f995d1956a588ebe934f4067b31eea5b05219df6",
-    "overview_digest": "ea9063437592326e5d0d965c392e220b62ba53a6d6ce31b6dadc7df7f0db5102",
+    "output_digest": "2a0c3c338858a41dc079a63002989a40a4b404a70bb12155d159608efaed6ea8",
+    "overview_commit": "cd34330117931140fc3d98b9a0b21c87d98c617d",
+    "overview_digest": "2c29d9b9a8c042b5a1145b853c2d9647dae0e6fe22d3430d6eb9c6f058dcd464",
     "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "f995d1956a588ebe934f4067b31eea5b05219df6",
-  "overview_digest": "ea9063437592326e5d0d965c392e220b62ba53a6d6ce31b6dadc7df7f0db5102",
-  "paragraph_count": 125,
+  "overview_commit": "cd34330117931140fc3d98b9a0b21c87d98c617d",
+  "overview_digest": "2c29d9b9a8c042b5a1145b853c2d9647dae0e6fe22d3430d6eb9c6f058dcd464",
+  "paragraph_count": 126,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -43,9 +43,9 @@
       "title": "Culture and Media"
     },
     "governance-and-institutions": {
-      "claim_digest": "ee7b53c81372563218003a0d55899469d9080c6074f479f18ddf8df884ba19b4",
-      "input_digest": "9de6b7ec01fe90ddfcd13ddf53d0e4e2cf3e33ed9572fc1199657adf22b02d6f",
-      "output_digest": "341bec782e9ddfaa98226022849e7ab545ad1d583f1c1439168ffa2a0d711454",
+      "claim_digest": "a579f9c0ed3ca729662008a9b2441e75eae806afbf2273a4c914b4d1718d77bd",
+      "input_digest": "7a3528d607e05ee34a95cd07e3712d0f8958fdde6d88a6010d91ba85d5e36ea6",
+      "output_digest": "7801ceb8914aaab2b437482c0984c3bd45cc000e1454a7b4461f5dfba88f02b3",
       "title": "Governance and Institutions"
     },
     "history-and-geopolitics": {
@@ -67,9 +67,9 @@
       "title": "Science, Health, and Climate"
     },
     "work-education-and-society": {
-      "claim_digest": "bf826306501615e0439f65423c2e13e52729c23f5a6b4ea21411cb3fdfd105bf",
-      "input_digest": "90b0edfd83ecdd8cc3a78f3ca5a986b8877856aa5104cc7783958f9bee0f17e4",
-      "output_digest": "1ce551d3016617b3be8924561422b8ae85b73bd26e8acd6aeda7008f1ed4c75a",
+      "claim_digest": "c30bb173988c79eb30aa8ca50322e72c676384e3dfb8c7cafdadee001df6e136",
+      "input_digest": "b7c021474a0c06797d6064255bfe541b3b40c9bcfe198a90e11b821327111c1c",
+      "output_digest": "e35956a08c24522228429558325aecfb243bffb5edaed3fec3e07a3e0e104310",
       "title": "Work, Education, and Society"
     }
   }

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8236fb4b8eff8ecab0397d253c02e5cf870aa024a26418ed2b37a275eaa75332",
       "da73b0ab4bac8bfcd5b84274fa2bf2d849d3161fff59d2dd1efbe5864a01b531",
       "39b9b220c33ef0ac03b6eb5b92ce66403d711f2edbda663e9330b9b72575d56d",
       "2ecc88a24b9491ba3fd16fe9e877425b74656c3e235d3a14717161c531381460",
@@ -127,11 +128,36 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 125
+    "paragraph_count": 126
   },
-  "overview_commit": "f995d1956a588ebe934f4067b31eea5b05219df6",
-  "overview_digest": "ea9063437592326e5d0d965c392e220b62ba53a6d6ce31b6dadc7df7f0db5102",
+  "overview_commit": "cd34330117931140fc3d98b9a0b21c87d98c617d",
+  "overview_digest": "2c29d9b9a8c042b5a1145b853c2d9647dae0e6fe22d3430d6eb9c6f058dcd464",
   "paragraphs": [
+    {
+      "id": "8236fb4b8eff8ecab0397d253c02e5cf870aa024a26418ed2b37a275eaa75332",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that fills the setup immediately before [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]]. [[ChenDeng|陈登]] tells [[CaoCao|曹操]] that [[LyuBu|吕布]] is [[QingYuQuJiu|轻于去就]], so Cao Cao's appointment of Chen Deng to [[GuanglingCommandery|广陵]] becomes more than reward: it gives the Chen family a base to train troops, store grain, recruit local elites, and prepare a Cao-aligned eastern channel. [[ChenGui|陈珪]] is read as the family strategist behind that staged survival path, balancing immediate threats through Lü Bu while keeping the long-term exit toward Cao Cao open. The episode therefore extends [[XingshiqingStrategicAssessment|行势情战略评估]] and [[PoliticalSurvivalFirst|安全第一政治生存]] from individual court maneuvering into family-scale alignment strategy, and it sets up why Hanji 1018 can treat Lü Bu's later anger, neediness, and brittle alliances as symptoms of a deeper commitment problem.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChenDeng",
+        "ChenGui",
+        "GuanglingCommandery",
+        "LyuBu",
+        "PoliticalSurvivalFirst",
+        "QingYuQuJiu",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq",
+        "zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8"
+      ]
+    },
     {
       "id": "da73b0ab4bac8bfcd5b84274fa2bf2d849d3161fff59d2dd1efbe5864a01b531",
       "primary_topic": "governance-and-institutions",

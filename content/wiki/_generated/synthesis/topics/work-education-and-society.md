@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-23
-as_of_overview_commit: 62bbef78c19b0fc3a60d9fe064058de037b2e6aa
-input_digest: 90b0edfd83ecdd8cc3a78f3ca5a986b8877856aa5104cc7783958f9bee0f17e4
+as_of_overview_commit: cd34330117931140fc3d98b9a0b21c87d98c617d
+input_digest: b7c021474a0c06797d6064255bfe541b3b40c9bcfe198a90e11b821327111c1c
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, designed interaction, and operating systems that preserve human reasoning and career mobility.
+The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, designed interaction, and operating systems that preserve human reasoning and career mobility. Hanji 1017 adds a historical analogy for major commitments: course changes are strongest when they are staged, evidence-backed, and context-aware rather than driven by light switching.
 
 ## Cross-source Findings
 
@@ -28,13 +28,14 @@ The work and education sources favor agency with scaffolding: people and organiz
 
 ### Career Moves Benefit From Stage Specific Learning
 
-[[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], [[FinanceCareerPortability]], [[CabinCrewWork]], and [[BankDueDiligence]] frame careers as staged experiments requiring explicit goals, evidence, service discipline, risk control, and managed communication.
+[[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], [[FinanceCareerPortability]], [[CabinCrewWork]], [[BankDueDiligence]], and Hanji 1017's [[QingYuQuJiu]] / [[PoliticalSurvivalFirst]] frame careers and other major commitments as staged decisions requiring explicit goals, evidence, context reading, service discipline, risk control, and managed communication.
 
-**Evidence:** [[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], [[FinanceCareerPortability]], [[CabinCrewWork]], [[BankDueDiligence]]
+**Evidence:** [[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], [[FinanceCareerPortability]], [[CabinCrewWork]], [[BankDueDiligence]], [[QingYuQuJiu]], [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]]
 
 **Qualifications:**
 
 - These sources are practical accounts rather than controlled labor-market studies.
+- Hanji 1017 is a historical-political analogy, not direct labor-market evidence; its extension from [[QingYuQuJiu]] to jobs, marriage, friends, and investing remains source-scoped.
 
 ### Learning Tools Should Preserve Reasoning
 

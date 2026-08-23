@@ -2,20 +2,25 @@
 title: "陈登 / Chen Deng"
 type: entity
 tags: [person, late-han, official, adviser]
-sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-23
 ---
 
 # 陈登 / Chen Deng
 
-陈登 / Chen Deng enters the wiki through [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] as the late-Han official who can move between [[LyuBu|吕布]] and [[CaoCao|曹操]] without being trapped by either side's expectations. The episode says Cao Cao values him, promotes his father [[ChenGui|陈珪]], and appoints Chen Deng to Guangling, while declining to give Lü Bu the [[Xuzhou|徐州]] governor title Lü Bu wanted.
+陈登 / Chen Deng enters the wiki through the Hanji 1017-1018 late-Han branch as the official who can move between [[LyuBu|吕布]] and [[CaoCao|曹操]] without being trapped by either side's expectations. [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] has him meet Cao Cao in 197 CE, describe Lü Bu as brave but unreliable, and receive appointment as administrator of [[GuanglingCommandery|广陵]].
+
+That episode makes Chen Deng's value operational. Cao Cao asks him to handle eastern affairs and secretly contact Lü Bu's people, while Chen Deng turns Guangling into a local base by training soldiers, storing grain, and recruiting Jiang-Huai figures. The source later says Chen Deng defects first during Cao Cao's 198 CE attack on Lü Bu at [[Xiapi|下邳]], completing the family's turn from Lü Bu's orbit to Cao Cao's.
+
+[[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] continues the same channel. The episode says Cao Cao values Chen Deng, promotes his father [[ChenGui|陈珪]], and appoints Chen Deng to Guangling, while declining to give Lü Bu the [[Xuzhou|徐州]] governor title Lü Bu wanted.
 
 Chen Deng's central move is interpretive. When Lü Bu believes Chen Deng and Chen Gui have benefited at his expense, Chen Deng reports Cao Cao's "raise a tiger" judgment in a form that turns suspicion into a bearable compliment. The episode uses this scene to create [[JiFuBaoYang|饥附饱扬]]: Chen Deng understands Lü Bu's vanity, Cao Cao's caution, and the interest structure behind unstable attachment.
 
-The page is source-scoped. The episode title points toward Chen Deng's wider reputation among Cao Cao, Sun Ce, and Liu Bei, but the provided source text develops only the Cao Cao/Lü Bu branch.
+The page remains source-scoped. The Hanji 1017 source gives a broader family-survival and Guangling base-building frame, while the Hanji 1018 title points toward Chen Deng's wider reputation among Cao Cao, Sun Ce, and Liu Bei; the provided texts mainly develop the Cao Cao/Lü Bu branch.
 
 ## Connections
 - [[ChenGui|陈珪]] - father and political partner in the source.
 - [[LyuBu|吕布]] - volatile ruler whom Chen Deng placates.
 - [[CaoCao|曹操]] - powerholder who rewards Chen Deng and judges Lü Bu.
-- [[JiFuBaoYang|饥附饱扬]] and [[InterestReframingPersuasion|利益重构式说服]] - concepts sharpened by Chen Deng's handling of the message.
+- [[GuanglingCommandery|广陵]] - administrative base Chen Deng receives and develops in Hanji 1017.
+- [[QingYuQuJiu|轻于去就]], [[JiFuBaoYang|饥附饱扬]], and [[InterestReframingPersuasion|利益重构式说服]] - concepts sharpened by Chen Deng's reading and handling of Lü Bu.
