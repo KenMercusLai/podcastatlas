@@ -40,8 +40,23 @@
         "AIInferenceCostStructure",
         "AISubscriptionEconomics"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "deterministic-routing-can-surface-off-topic-material",
+      "qualifications": [
+        "This is a topic-maintenance note, not an AI-domain finding.",
+        "Hanji 1011 entered this topic through deterministic one-point overlap; its substantive claim belongs to governance and history."
+      ],
+      "statement": "The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], and [[PoliticalSurvivalFirst]] through deterministic routing, but the paragraph concerns late-Han reputation management and delegated violence rather than AI systems.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "MiHengLateHan",
+        "BorrowedKnifeKilling",
+        "PoliticalSurvivalFirst"
+      ]
     }
   ],
-  "summary": "Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries.",
+  "summary": "Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries. The Hanji 1011 paragraph is present only as a deterministic routing artifact and is kept out of the AI-domain findings.",
   "topic_id": "ai-and-technology"
 }

@@ -209,6 +209,26 @@
     },
     {
       "global_candidate": false,
+      "id": "late-han-reputation-management-delegates-violence",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 1011 and the host's borrowed-knife interpretation of Mi Heng's death.",
+        "It treats Cao Cao and Liu Biao's intent as political interpretation, not as a settled independent motive finding.",
+        "MiHengLateHan is used to avoid a case-insensitive identity collision with the existing MiHeng page for the Chu king Mi Heng."
+      ],
+      "statement": "Hanji 1011 frames [[BorrowedKnifeKilling]] as a late-Han governance tactic: [[CaoCao]] preserves reputation by not killing [[MiHengLateHan]] directly after public insult, [[LiuBiao]] redirects him to [[HuangZu]], and Huang Zu's anger supplies delegated violence, making talent without [[PoliticalSurvivalFirst]] dangerous.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "BorrowedKnifeKilling",
+        "CaoCao",
+        "MiHengLateHan",
+        "LiuBiao",
+        "HuangZu",
+        "PoliticalSurvivalFirst",
+        "KongRong"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "wancheng-private-desire-becomes-command-exposure",
       "qualifications": [
         "This is source-scoped to the Hanji 1012-1013 interpretation; Hanji 1012 supplies the pre-disaster setup and Hanji 1013 supplies the night-attack mechanics, so the causal slogan remains shorthand rather than the whole explanation for Dian Wei's death.",
@@ -273,6 +293,6 @@
       ]
     }
   ],
-  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1012-1013 now define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
+  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1011 now adds a pre-Wancheng borrowed-knife branch: talent without survival caution becomes removable when reputation protection lets violence be delegated through other actors. Hanji 1012-1013 define the Wancheng command-exposure branch: private desire, transcript-sensitive identity handling, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
   "topic_id": "governance-and-institutions"
 }

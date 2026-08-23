@@ -6535,6 +6535,10 @@
     "title": "Boris Johnson",
     "url": "/wiki/entities/borisjohnson/"
   },
+  "BorrowedKnifeKilling": {
+    "title": "Borrowed-Knife Killing / 借刀杀人",
+    "url": "/wiki/concepts/borrowedknifekilling/"
+  },
   "BorrowerReadinessFinancing": {
     "title": "Borrower Readiness Financing",
     "url": "/wiki/concepts/borrowerreadinessfinancing/"
@@ -7198,6 +7202,10 @@
   "CaiJi": {
     "title": "蔡姬",
     "url": "/wiki/entities/caiji/"
+  },
+  "CaiMao": {
+    "title": "蔡瑁 / Cai Mao",
+    "url": "/wiki/entities/caimao/"
   },
   "CaiXiaochuan": {
     "title": "蔡小川 / Cai Xiaochuan",
@@ -20283,6 +20291,10 @@
     "title": "黄子逸 / Huang Ziyi",
     "url": "/wiki/entities/huangziyisanlian/"
   },
+  "HuangZu": {
+    "title": "黄祖 / Huang Zu",
+    "url": "/wiki/entities/huangzu/"
+  },
   "Huangdi": {
     "title": "黄帝 / Huangdi",
     "url": "/wiki/entities/huangdi/"
@@ -24154,6 +24166,10 @@
   "KuaiChe": {
     "title": "蒯彻 / Kuai Che",
     "url": "/wiki/entities/kuaiche/"
+  },
+  "KuaiYue": {
+    "title": "蒯越 / Kuai Yue",
+    "url": "/wiki/entities/kuaiyue/"
   },
   "KuaijiCommandery": {
     "title": "会稽郡 / Kuaiji Commandery",
@@ -28334,6 +28350,10 @@
   "MiHeng": {
     "title": "芈横 / 楚顷襄王 / Mi Heng",
     "url": "/wiki/entities/miheng/"
+  },
+  "MiHengLateHan": {
+    "title": "祢衡 / Mi Heng (Late Han)",
+    "url": "/wiki/entities/mihenglatehan/"
   },
   "MiHoYo": {
     "title": "MiHoYo",
@@ -51922,6 +51942,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva": {
+    "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva/"
   },
   "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh": {
     "title": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事",

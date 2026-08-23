@@ -2,7 +2,7 @@
 title: "贾诩 / Jia Xu"
 type: entity
 tags: [person, late-han, three-kingdoms, adviser, china]
-sources: [zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
+sources: [zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
 last_updated: 2026-08-23
 ---
 
@@ -16,6 +16,8 @@ The plan is built on permission and timing. Zhang Xiu asks to change camp, says 
 
 In this source, Jia Xu is not yet a full biographical figure. He is the strategist who sees that Cao Cao's desire, confidence, and loose guard posture have created a usable tactical opening.
 
+[[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] uses Jia Xu as a contrast rather than a plot actor. After [[MiHengLateHan|祢衡]] dies from unrestrained speech inside stronger actors' games, the host says Mi Heng could have learned Jia Xu's "hide in seeming foolishness" survival wisdom. That makes Jia Xu a positive reference for [[PoliticalSurvivalFirst|安全第一政治生存]] before the Wancheng tactical branch begins.
+
 ## Connections
 - [[ZhangXiu|张绣]] - commander he advises.
 - [[CaoCao|曹操]] - target whose trust and judgment are exploited.
@@ -23,3 +25,4 @@ In this source, Jia Xu is not yet a full biographical figure. He is the strategi
 - [[HuCheEr|胡车儿]] and [[DianWei|典韦]] - guard-neutralization branch that complements Jia Xu's camp-movement plan.
 - [[WanCounty|宛城]] - setting of the attack.
 - [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]] - source concept for the combined desire, status, and command-security failure.
+- [[MiHengLateHan|祢衡]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - Hanji 1011 contrast between exposed talent and hidden survival wisdom.

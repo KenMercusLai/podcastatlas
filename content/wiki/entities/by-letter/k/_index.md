@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 6808
+wiki_total_pages: 6812
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "KuaiChe"
     title: "蒯彻 / Kuai Che"
     url: "/wiki/entities/kuaiche/"
+  - key: "KuaiYue"
+    title: "蒯越 / Kuai Yue"
+    url: "/wiki/entities/kuaiyue/"
   - key: "KakutaMitsuyo"
     title: "角田光代 / Mitsuyo Kakuta"
     url: "/wiki/entities/kakutamitsuyo/"

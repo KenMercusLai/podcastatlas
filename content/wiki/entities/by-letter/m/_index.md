@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6808
+wiki_total_pages: 6812
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1202,6 +1202,9 @@ wiki_pages:
   - key: "MaocaoYuanxingzhe"
     title: "猫草 / Maocao"
     url: "/wiki/entities/maocaoyuanxingzhe/"
+  - key: "MiHengLateHan"
+    title: "祢衡 / Mi Heng (Late Han)"
+    url: "/wiki/entities/mihenglatehan/"
   - key: "Mihuashi"
     title: "米画师 / Mihuashi"
     url: "/wiki/entities/mihuashi/"

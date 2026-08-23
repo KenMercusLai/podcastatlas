@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e62054037194f29da3543f167e9eb6961031d6f82634bee7c638837ec3b725c4",
       "2b6ff603a81c96089f7a32dfa941dd475ab0ba8936303267a7c8cff787f70e69",
       "5395ef9177de8b773e65acc72ed0b4c6977f76ec86df8337cb7d029b78a344d8",
       "c376851971a9096ea391c66839272b586ac677efe9e21f04e5ee2d2bf5d125d2",
@@ -133,11 +134,43 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 131
+    "paragraph_count": 132
   },
-  "overview_commit": "4a88bc4543198df6706baf64357741a0d4df7a79",
-  "overview_digest": "37612496cfd9937cff610c369c60ae2b14181656c4a485c517ce632e2c4acd70",
+  "overview_commit": "438a3afbd1f78b6008f90fe92fc9fbee06ca93c9",
+  "overview_digest": "141948952bb3d0c9be58adc71d451f6ff45cd391958bb7d787ad8820cf6fa389",
   "paragraphs": [
+    {
+      "id": "e62054037194f29da3543f167e9eb6961031d6f82634bee7c638837ec3b725c4",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the missing pre-Hanji-1012 late-Han branch through [[MiHengLateHan|祢衡]], [[KongRong|孔融]], [[CaoCao|曹操]], [[LiuBiao|刘表]], and [[HuangZu|黄祖]]. It adds [[MiHengLateHan|祢衡]], [[HuangZu|黄祖]], [[KuaiYue|蒯越]], [[CaiMao|蔡瑁]], and [[BorrowedKnifeKilling|借刀杀人]], while extending [[JiaXu|贾诩]], [[Analects|《论语》]], [[Confucius|孔子]], [[CovertPoliticalTechnology|阴谋式政治技术]], and [[PoliticalSurvivalFirst|安全第一政治生存]]. Its core synthesis is that Mi Heng's talent and public defiance become politically fatal once stronger actors can route risk through reputation management and delegated violence: Cao Cao avoids direct killing after public humiliation, Liu Biao redirects the disruptive guest into Huang Zu's hands, and Huang Zu supplies the immediate anger that completes the removal. No settled contradiction is recorded; the page disambiguates [[MiHengLateHan|祢衡]] from [[MiHeng|芈横 / 楚顷襄王]] and normalizes transcript variants for 黄祖, 蒯越, and 蔡瑁.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "Analects",
+        "BorrowedKnifeKilling",
+        "CaiMao",
+        "CaoCao",
+        "Confucius",
+        "CovertPoliticalTechnology",
+        "HuangZu",
+        "JiaXu",
+        "KongRong",
+        "KuaiYue",
+        "LiuBiao",
+        "MiHeng",
+        "MiHengLateHan",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva"
+      ]
+    },
     {
       "id": "2b6ff603a81c96089f7a32dfa941dd475ab0ba8936303267a7c8cff787f70e69",
       "primary_topic": "psychology-and-personal-development",

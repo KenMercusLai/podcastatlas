@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 7ef0ec0fe22e57f0ff6b658b8c0f01deb23e0b14
-input_digest: d6aa0c215e3f6de88f2debeffcfbc999baf9299c760762cd9bdc440bfa783ae2
+as_of_overview_commit: 438a3afbd1f78b6008f90fe92fc9fbee06ca93c9
+input_digest: b4da90974eb0be0e79691bc94d32e5f23d47cddb850ecbd7a69bd73dcbf8ced6
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input now links five kinds of historical change: Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input now links six kinds of historical change: Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
+
+### Late Han Borrowed Knife Killing Routes Violence
+
+Hanji 1011 frames [[BorrowedKnifeKilling]] as reputation-preserving delegated violence: [[CaoCao]] avoids killing [[MiHengLateHan]] directly after public humiliation, [[LiuBiao]] redirects the disruptive guest, and [[HuangZu]] supplies the immediate anger that completes the removal, making talent without [[PoliticalSurvivalFirst]] politically dangerous.
+
+**Evidence:** [[BorrowedKnifeKilling]], [[CaoCao]], [[MiHengLateHan]], [[LiuBiao]], [[HuangZu]], [[PoliticalSurvivalFirst]], [[KongRong]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1011 and the host's borrowed-knife interpretation of Mi Heng's death.
+- It treats Cao Cao and Liu Biao's motives as the episode's political reading, not as an independently resolved historical finding.
+- MiHengLateHan is used to distinguish late-Han Mi Heng from the existing MiHeng page for the Chu king Mi Heng.
 
 ### Late Han Cao Cao Strength Combines Discipline And Adviser Confidence
 

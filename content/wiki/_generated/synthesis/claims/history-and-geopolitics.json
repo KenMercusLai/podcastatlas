@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-borrowed-knife-killing-routes-violence",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 1011 and the host's borrowed-knife interpretation of Mi Heng's death.",
+        "It treats Cao Cao and Liu Biao's motives as the episode's political reading, not as an independently resolved historical finding.",
+        "MiHengLateHan is used to distinguish late-Han Mi Heng from the existing MiHeng page for the Chu king Mi Heng."
+      ],
+      "statement": "Hanji 1011 frames [[BorrowedKnifeKilling]] as reputation-preserving delegated violence: [[CaoCao]] avoids killing [[MiHengLateHan]] directly after public humiliation, [[LiuBiao]] redirects the disruptive guest, and [[HuangZu]] supplies the immediate anger that completes the removal, making talent without [[PoliticalSurvivalFirst]] politically dangerous.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "BorrowedKnifeKilling",
+        "CaoCao",
+        "MiHengLateHan",
+        "LiuBiao",
+        "HuangZu",
+        "PoliticalSurvivalFirst",
+        "KongRong"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-cao-cao-strength-combines-discipline-and-adviser-confidence",
       "qualifications": [
         "This claim is source-scoped to Hanji 1014's bridge from Wancheng aftermath into the pre-Hanji 1015 Yuan Shao pressure frame.",
@@ -107,6 +127,6 @@
       ]
     }
   ],
-  "summary": "The history-and-geopolitics input now links five kinds of historical change: Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
+  "summary": "The history-and-geopolitics input now links six kinds of historical change: Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
   "topic_id": "history-and-geopolitics"
 }

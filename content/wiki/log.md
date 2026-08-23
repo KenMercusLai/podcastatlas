@@ -10605,3 +10605,11 @@ Added source page for Hanji 1012: Cao Cao's 197 CE southern campaign, Zhang Xiu'
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人
+
+Added source page for Hanji 1011: Mi Heng's talent and abrasive speech, Kong Rong's recommendation to Cao Cao, the public drummer humiliation and naked counter-humiliation, Cao Cao's transfer to Liu Biao, Liu Biao's transfer to Huang Zu, and the borrowed-knife killing / survival-judgment lesson. Created Mi Heng (Late Han), Huang Zu, Kuai Yue, Cai Mao, and Borrowed-Knife Killing; updated overview, index, Cao Cao, Kong Rong, Liu Biao, Jia Xu, and Political Survival First. No settled contradiction found; disambiguated 祢衡 from the existing 芈横 / 楚顷襄王 page and normalized source transcript variants 黄族/款越/款月/蔡茂 to Huang Zu, Kuai Yue, and Cai Mao.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

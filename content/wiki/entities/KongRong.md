@@ -2,11 +2,13 @@
 title: "孔融 / Kong Rong"
 type: entity
 tags: [person, late-han, official, scholar, china]
-sources: [zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+sources: [zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
 last_updated: 2026-08-23
 ---
 
 # 孔融 / Kong Rong
+
+[[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] adds Kong Rong as [[MiHengLateHan|祢衡]]'s recommender to [[CaoCao|曹操]]. The source says Kong Rong appreciates Mi Heng's talent but also uses his later comment on Mi Heng's naked drumming to show how learned allusion can become politically reckless in a violent court.
 
 孔融 / Kong Rong enters the wiki through [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] as the old-Han voice who challenges [[CaoCao|曹操]] after [[YangBiao|杨彪]] is arrested. The source says Kong Rong rushes to argue that Yang Biao's family reputation should not be erased by [[YuanShu|袁术]]'s crime.
 
@@ -16,6 +18,7 @@ His intervention matters because Cao Cao initially pushes responsibility upward 
 
 ## Connections
 - [[YangBiao|杨彪]] - old-Han elite he defends.
+- [[MiHengLateHan|祢衡]] - scholar he recommends to Cao Cao in Hanji 1011.
 - [[CaoCao|曹操]] - powerholder he confronts.
 - [[EmperorXianOfHan|汉献帝]] - emperor named in Cao Cao's responsibility-shifting reply.
 - [[YuanShao|袁绍]] - recipient of Kong Rong's Hanji 1016 appointment mission.

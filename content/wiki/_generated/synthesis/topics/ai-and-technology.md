@@ -4,15 +4,15 @@ generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
 last_updated: 2026-08-23
-as_of_overview_commit: b584e94806790866a5b885588a74974fcdf2a432
-input_digest: dda163558450bedc891dfde676898cb9c8d90976cef970db6c8ac8d85349a919
+as_of_overview_commit: 438a3afbd1f78b6008f90fe92fc9fbee06ca93c9
+input_digest: 668aa9dcd4b0177ac4c17d0e89e2856e15e4b3d7d2a2d5ec780619b6fcd69600
 ---
 
 # AI and Technology
 
 ## Current State
 
-Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries.
+Across the current sources, useful AI is moving from isolated model capability toward systems that combine persistent context, callable tools, verification, distribution, and explicit permission boundaries. The Hanji 1011 paragraph is present only as a deterministic routing artifact and is kept out of the AI-domain findings.
 
 ## Cross-source Findings
 
@@ -45,3 +45,14 @@ Greater agent autonomy increases the importance of [[AICodingVerification]], [[H
 **Qualifications:**
 
 - Pricing evidence is still concentrated in current consumer and developer-product examples.
+
+### Deterministic Routing Can Surface Off Topic Material
+
+The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], and [[PoliticalSurvivalFirst]] through deterministic routing, but the paragraph concerns late-Han reputation management and delegated violence rather than AI systems.
+
+**Evidence:** [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]]
+
+**Qualifications:**
+
+- This is a topic-maintenance note, not an AI-domain finding.
+- Hanji 1011 entered this topic through deterministic one-point overlap; its substantive claim belongs to governance and history.

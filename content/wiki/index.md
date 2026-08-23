@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人](sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva.md) — 芮淇讲透资治通鉴 episode on 祢衡's talent, public counter-humiliation of Cao Cao, transfer to Liu Biao and Huang Zu, and the source-scoped borrowed-knife killing lesson about reputation, delegated violence, and survival judgment.
 - [《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事](sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh.md) — 芮淇讲透资治通鉴 episode setting up the Wancheng disaster through Cao Cao's 197 CE southern campaign, Zhang Xiu's Jia Xu-advised surrender, Zhang Ji's widow Lady Zou, and the trust/status breach before Hanji 1013.
 - [《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？](sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh.md) — 芮淇讲透资治通鉴 episode on Cao Cao's desire pattern, the Wancheng Lady Zou/Lady Zhou transcript variant, Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin.
 - [《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？](sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69.md) — 芮淇讲透资治通鉴 episode on Cao Cao's household and 分香卖履, Yu Jin restoring Wancheng retreat discipline, and Xun Yu/Guo Jia's 十胜十败 comparison against Yuan Shao.
@@ -1327,6 +1328,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [祢衡 / Mi Heng (Late Han)](entities/MiHengLateHan.md) — Late-Han scholar whose talent, insults, naked drumming, and death through Cao Cao-Liu Biao-Huang Zu transfer anchor the Hanji 1011 borrowed-knife case.
+- [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official normalized from the transcript's "黄族", serving as the final actor who kills 祢衡 after Liu Biao passes him onward.
+- [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1011 as part of the offended Liu Biao circle around 祢衡.
+- [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1011 as part of the local pressure that precedes 祢衡's transfer to Huang Zu.
 - [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose repeated request for Lady Du alerts Cao Cao to her before the Xiapi household shift.
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
@@ -8150,6 +8155,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
 - [饥附饱扬 / Ji Fu Bao Yang](concepts/JiFuBaoYang.md) — Hanji 1018 dependency pattern where a dangerous actor attaches while needy and leaves once secure.
 - [Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性](concepts/InterestStructuredAllianceFragility.md) — Hanji 1018 pattern where a coalition with troops and commanders remains brittle because its members can be offered a better legitimacy-and-spoils path.
+- [Borrowed-Knife Killing / 借刀杀人](concepts/BorrowedKnifeKilling.md) — Hanji 1011 indirect-elimination pattern where Cao Cao and Liu Biao preserve distance while Huang Zu performs the lethal act against 祢衡.
 - [Prestige-Constrained Political Prosecution / 名望约束下的政治追诉](concepts/PrestigeConstrainedPoliticalProsecution.md) — Hanji 1020 pattern where weak evidence, elite prestige, and public confidence constrain punishment in Yang Biao's case.
 - [内廷通道攀附风险 / Inner-Court Access Brokerage Risk](concepts/InnerCourtAccessBrokerageRisk.md) — Pattern where an outer official's attempt to gain favor through a ruler's intimate household channel becomes suspicion, accusation, investigation, and political crisis.
 - [Demoted Vassal Safety Signal / 降爵诸侯安全信号](concepts/DemotedVassalSafetySignal.md) — Early Han consolidation logic where preserving a demoted former king makes surrender or title loss look survivable to other exposed powerholders.

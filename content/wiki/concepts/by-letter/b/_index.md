@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5166
+wiki_total_pages: 5167
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "BorderlandCulturalIdentity"
     title: "Borderland Cultural Identity"
     url: "/wiki/concepts/borderlandculturalidentity/"
+  - key: "BorrowedKnifeKilling"
+    title: "Borrowed-Knife Killing / 借刀杀人"
+    url: "/wiki/concepts/borrowedknifekilling/"
   - key: "BorrowerReadinessFinancing"
     title: "Borrower Readiness Financing"
     url: "/wiki/concepts/borrowerreadinessfinancing/"
