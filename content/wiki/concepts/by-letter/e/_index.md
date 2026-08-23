@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5207
+wiki_total_pages: 5216
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "EuropeanLanguageFriction"
     title: "European Language Friction"
     url: "/wiki/concepts/europeanlanguagefriction/"
+  - key: "EuropeanSTISurge"
+    title: "European STI Surge"
+    url: "/wiki/concepts/europeanstisurge/"
   - key: "EuropeanUnionAIAct"
     title: "European Union AI Act"
     url: "/wiki/concepts/europeanunionaiact/"

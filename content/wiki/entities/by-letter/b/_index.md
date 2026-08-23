@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6880
+wiki_total_pages: 6889
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "BenedettoVigna"
     title: "Benedetto Vigna"
     url: "/wiki/entities/benedettovigna/"
+  - key: "BenitoMussolini"
+    title: "Benito Mussolini"
+    url: "/wiki/entities/benitomussolini/"
   - key: "BenjaminAlarie"
     title: "Benjamin Alarie"
     url: "/wiki/entities/benjaminalarie/"
@@ -392,6 +395,9 @@ wiki_pages:
   - key: "BlaisePascal"
     title: "Blaise Pascal / 帕斯卡"
     url: "/wiki/entities/blaisepascal/"
+  - key: "BlakeLemoine"
+    title: "Blake Lemoine"
+    url: "/wiki/entities/blakelemoine/"
   - key: "BlakeRoss"
     title: "Blake Ross"
     url: "/wiki/entities/blakeross/"

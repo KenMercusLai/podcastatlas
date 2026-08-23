@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 6880
+wiki_total_pages: 6889
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "FrankensteinCastle"
     title: "Frankenstein Castle / 弗兰肯斯坦城堡"
     url: "/wiki/entities/frankensteincastle/"
+  - key: "FranklinDRoosevelt"
+    title: "Franklin D. Roosevelt"
+    url: "/wiki/entities/franklindroosevelt/"
   - key: "FranzBoas"
     title: "Franz Boas / 博尔斯"
     url: "/wiki/entities/franzboas/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 5207
+wiki_total_pages: 5216
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "GlobalSportsSponsorship"
     title: "Global Sports Sponsorship"
     url: "/wiki/concepts/globalsportssponsorship/"
+  - key: "GlobalWorkspaceTheory"
+    title: "Global Workspace Theory"
+    url: "/wiki/concepts/globalworkspacetheory/"
   - key: "GlobalizationTaxOptimization"
     title: "Globalization Tax Optimization"
     url: "/wiki/concepts/globalizationtaxoptimization/"

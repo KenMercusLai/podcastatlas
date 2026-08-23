@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 6880
+wiki_total_pages: 6889
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "EliudKipchoge"
     title: "Eliud Kipchoge"
     url: "/wiki/entities/eliudkipchoge/"
+  - key: "ELIZA"
+    title: "ELIZA"
+    url: "/wiki/entities/eliza/"
   - key: "ElizabethHolmes"
     title: "Elizabeth Holmes"
     url: "/wiki/entities/elizabethholmes/"
@@ -332,6 +335,9 @@ wiki_pages:
   - key: "Euripides"
     title: "Euripides / 欧里比德斯"
     url: "/wiki/entities/euripides/"
+  - key: "EuropeanCentreForDiseasePreventionAndControl"
+    title: "European Centre for Disease Prevention and Control"
+    url: "/wiki/entities/europeancentrefordiseasepreventionandcontrol/"
   - key: "EuropeanCommission"
     title: "European Commission"
     url: "/wiki/entities/europeancommission/"
@@ -398,6 +404,9 @@ wiki_pages:
   - key: "ExxonMobil"
     title: "ExxonMobil"
     url: "/wiki/entities/exxonmobil/"
+  - key: "EzraPound"
+    title: "Ezra Pound"
+    url: "/wiki/entities/ezrapound/"
   - key: "ExcellentSheep"
     title: "《优秀的绵羊》 / Excellent Sheep"
     url: "/wiki/entities/excellentsheep/"

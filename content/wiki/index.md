@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [I, robot? AI and consciousness](sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015.md) — The Intelligence episode on AI consciousness boundaries, ELIZA and chatbot mind projection, Claude workspace analogies, Europe's STI surge, and Mary de Rachewiltz's translation of Ezra Pound's Cantos.
 - [271.唐朝都要不存在了？为什么伪史论会在今年大爆发？](sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un.md) — 乱翻书 live episode on 伪史论, "唐朝不存在", historical evidence chains, short-video amplification, simple-causality comfort, professional-community trust, and arguing for bystanders.
 - [Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery](sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on OpenAI teen ChatGPT safeguards, AI data-center cargo theft, export-control smuggling incentives, and Amazon drone-delivery limits.
 - [No.215 华为不造车，鸿蒙智行到底是什么？](sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843.md) — Banlatte episode on Huawei's no-car-manufacturing boundary, Hongmeng Zhixing, AITO/Wenjie, Luxeed, Stelato, Shangjie, Maextro, Yinwang, and Huawei's smart-vehicle cooperation model.
@@ -1346,6 +1347,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Alok Jha](entities/AlokJha.md) — The Intelligence science voice mapping AI consciousness through phenomenal/access consciousness, chatbot projection, workspace theory, functionalism, and organoid computing.
+- [Blake Lemoine](entities/BlakeLemoine.md) — Google engineer used by The Intelligence as a modern case of chatbot mind projection rather than proof of machine consciousness.
+- [ELIZA](entities/ELIZA.md) — 1966 chatbot used by The Intelligence to explain the Eliza effect and the risk of inferring mind from conversational form.
+- [European Centre for Disease Prevention and Control](entities/EuropeanCentreForDiseasePreventionAndControl.md) — ECDC public-health body cited for Europe's STI data and the unresolved causes behind gonorrhea and syphilis increases.
+- [Mary de Rachewiltz](entities/MaryDeRachewiltz.md) — Translator and daughter of Ezra Pound whose Cantos work is framed as both literary achievement and morally complicated loyalty.
+- [Ezra Pound](entities/EzraPound.md) — Modernist poet whose Cantos, fascist politics, wartime broadcasts, and daughter Mary de Rachewiltz's loyalty extend the compromised-art branch.
+- [The Cantos](entities/TheCantos.md) — Ezra Pound's long poem, discussed through Mary de Rachewiltz's English-Italian translation and the politics of compromised art.
+- [Benito Mussolini](entities/BenitoMussolini.md) — Fascist leader admired by Ezra Pound in The Intelligence's Mary de Rachewiltz segment.
+- [Franklin D. Roosevelt](entities/FranklinDRoosevelt.md) — U.S. president targeted by Ezra Pound's wartime radio broadcasts in The Intelligence's Pound segment.
 - [庞乱 / Pang Luan](entities/PangLuan.md) — 乱翻书 host for the episode 271 live discussion of 伪史论, evidence, and media trust.
 - [何森堡 / He Senbao](entities/HeSenbao.md) — Science writer and debunker who anchors episode 271's evidence-chain critique of 伪史论.
 - [猛哥 / Mengge](entities/MenggeTiancaiBushou.md) — 天才捕手 host who joins episode 271's discussion of pseudohistory, nationalist reversal, and conspiracy spread.
@@ -8230,6 +8240,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Consciousness Boundary](concepts/AIConsciousnessBoundary.md) — Boundary between fluent chatbot simulation and evidence of subjective machine consciousness, with current LLM consciousness unproven and future systems left open.
+- [Chatbot Mind Projection](concepts/ChatbotMindProjection.md) — Eliza-effect pattern where users infer thought, feeling, or personhood from conversational AI behavior.
+- [Phenomenal and Access Consciousness](concepts/PhenomenalAccessConsciousness.md) — Distinction between subjective experience and information availability used to clarify AI-consciousness debates.
+- [Global Workspace Theory](concepts/GlobalWorkspaceTheory.md) — Consciousness theory used by The Intelligence to interpret, but not overstate, Claude's reported workspace-like internals.
+- [Computational Functionalism](concepts/ComputationalFunctionalism.md) — View that consciousness depends on computation rather than biological substrate, keeping future AI consciousness possible in principle.
+- [Organoid Computing](concepts/OrganoidComputing.md) — Biological-computation boundary where human brain cells or organoids make the AI consciousness question less cleanly digital versus biological.
+- [European STI Surge](concepts/EuropeanSTISurge.md) — Public-health trend of rising gonorrhea and syphilis counts in Europe without a single settled behavioral explanation.
+- [STI Public Health Response](concepts/STIPublicHealthResponse.md) — Response frame combining outbreak control, screening, testing access, safe-sex campaigns, and antibiotic stewardship.
+- [Antimicrobial Resistance](concepts/AntimicrobialResistance.md) — Treatment-risk constraint that makes STI prevention, surveillance, and careful antibiotic use more important.
 - [伪史论 / Pseudo-History Conspiracy](concepts/PseudoHistoryConspiracy.md) — Historical denial pattern where a desired reversal rejects the wider evidence ecology instead of revising claims through bounded proof.
 - [Professional Community Trust / 专业共同体信任](concepts/ProfessionalCommunityTrust.md) — Trust in accountable expert communities as a necessary modern knowledge practice under editor, search, and algorithmic media environments.
 - [Retail Line Review](concepts/RetailLineReview.md) — Big-box buying process where seasonal product additions, removals, audience fit, price, and support are judged in short buyer meetings.

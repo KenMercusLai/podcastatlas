@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5207
+wiki_total_pages: 5216
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "ChatbotMemorySalienceFailure"
     title: "Chatbot Memory Salience Failure"
     url: "/wiki/concepts/chatbotmemorysaliencefailure/"
+  - key: "ChatbotMindProjection"
+    title: "Chatbot Mind Projection"
+    url: "/wiki/concepts/chatbotmindprojection/"
   - key: "ChatbotSafetyGuardrailDecay"
     title: "Chatbot Safety Guardrail Decay"
     url: "/wiki/concepts/chatbotsafetyguardraildecay/"
@@ -983,6 +986,9 @@ wiki_pages:
   - key: "ComputationalBiology"
     title: "Computational Biology"
     url: "/wiki/concepts/computationalbiology/"
+  - key: "ComputationalFunctionalism"
+    title: "Computational Functionalism"
+    url: "/wiki/concepts/computationalfunctionalism/"
   - key: "ComputeFreedom"
     title: "Compute Freedom / 算力自由"
     url: "/wiki/concepts/computefreedom/"

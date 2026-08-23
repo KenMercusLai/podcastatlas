@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | I, robot? AI and consciousness
+
+Added source page for The Intelligence episode on AI consciousness, Europe's STI surge, and Mary de Rachewiltz's translation of Ezra Pound. Created pages for Alok Jha, Blake Lemoine, ELIZA, European Centre for Disease Prevention and Control, Mary de Rachewiltz, Ezra Pound, The Cantos, Benito Mussolini, Franklin D. Roosevelt, AI Consciousness Boundary, Chatbot Mind Projection, Phenomenal and Access Consciousness, Global Workspace Theory, Computational Functionalism, Organoid Computing, European STI Surge, STI Public Health Response, and Antimicrobial Resistance; updated overview, index, Consciousness Measurement, Ideologically Compromised Art, The Intelligence, and Economist Podcasts. No direct contradiction found; the source keeps current LLM consciousness unproven, public-health causation unresolved, and Pound's literary legacy ethically contaminated.
+
 ## [2026-08-24] ingest | 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
 
 Added source page for Luanfanshu episode 271: live discussion of the 2026 pseudohistory surge, "唐朝不存在", evidence-chain reasoning, Rosetta Stone and Aristotle examples, short-video amplification, simple-causality comfort, professional-community trust, and public rebuttal for bystanders. Created Pseudo-History Conspiracy, Professional Community Trust, Pang Luan, He Senbao, Mengge, Tiancai Bushou, Song Fangjin, He Xin, Anatoly Fomenko, Tang Dynasty, Great Wild Goose Pagoda, Rosetta Stone, Jean-Francois Champollion, and Aristotle; updated overview, index, Luanfanshu, Conspiracy Theory Pattern Seeking, Evidence-Bound Historical Revision, Historical Detective Reasoning, Scientific Skepticism, Public Relevance Algorithms, Algorithmic Media Literacy, Algorithmic Amplification, Public Argument For Bystanders, and Science Communication Disadvantage. No direct contradiction found; the source sharpens the boundary between source-critical historical revision and totalizing denial.
@@ -10724,6 +10728,10 @@ Added source page for Talk三联 EP276: Jia Zhangke's response to short-video re
 ## [2026-08-24] ingest | EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能
 
 Added source page for Talk三联 EP277: Jia Zhangke's defense of AI cinema as exploration rather than betrayal of reality, his distinction between realism and responding to the real world, and his view that AI may change film production methods more deeply than the film-to-digital carrier shift. Created Jia Zhangke, Pingyao International Film Festival, and Film Reality Beyond Realism; updated overview, index, Talk三联-adjacent AI film concepts, creative-labor backlash, likeness/copyright/energy concerns, Charlie Chaplin, and Martin Scorsese. No settled contradiction found; the episode qualifies AI-video optimism by keeping mature AI-film aesthetics, production roles, and legal/ethical rules source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

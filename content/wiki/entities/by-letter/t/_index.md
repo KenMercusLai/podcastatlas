@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6880
+wiki_total_pages: 6889
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "TheBlackParade"
     title: "The Black Parade"
     url: "/wiki/entities/theblackparade/"
+  - key: "TheCantos"
+    title: "The Cantos"
+    url: "/wiki/entities/thecantos/"
   - key: "TheCenturyTrilogy"
     title: "The Century Trilogy / 世纪三部曲"
     url: "/wiki/entities/thecenturytrilogy/"

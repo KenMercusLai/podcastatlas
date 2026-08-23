@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5207
+wiki_total_pages: 5216
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "AIComputeContinuity"
     title: "AI Compute Continuity"
     url: "/wiki/concepts/aicomputecontinuity/"
+  - key: "AIConsciousnessBoundary"
+    title: "AI Consciousness Boundary"
+    url: "/wiki/concepts/aiconsciousnessboundary/"
   - key: "AIConsumerDecisionShaping"
     title: "AI Consumer Decision Shaping"
     url: "/wiki/concepts/aiconsumerdecisionshaping/"
@@ -1397,6 +1400,9 @@ wiki_pages:
   - key: "AntiheroMisreading"
     title: "Antihero Misreading"
     url: "/wiki/concepts/antiheromisreading/"
+  - key: "AntimicrobialResistance"
+    title: "Antimicrobial Resistance"
+    url: "/wiki/concepts/antimicrobialresistance/"
   - key: "AntitrustChill"
     title: "Antitrust Chill"
     url: "/wiki/concepts/antitrustchill/"

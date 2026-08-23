@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6880
+wiki_total_pages: 6889
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "MaryChilds"
     title: "Mary Childs"
     url: "/wiki/entities/marychilds/"
+  - key: "MaryDeRachewiltz"
+    title: "Mary de Rachewiltz"
+    url: "/wiki/entities/maryderachewiltz/"
   - key: "MaryPatCampbell"
     title: "Mary Pat Campbell"
     url: "/wiki/entities/marypatcampbell/"

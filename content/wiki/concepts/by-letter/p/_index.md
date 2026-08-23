@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5207
+wiki_total_pages: 5216
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "PhasedRetirementSuccession"
     title: "Phased Retirement Succession"
     url: "/wiki/concepts/phasedretirementsuccession/"
+  - key: "PhenomenalAccessConsciousness"
+    title: "Phenomenal and Access Consciousness"
+    url: "/wiki/concepts/phenomenalaccessconsciousness/"
   - key: "PhilosophyWorkplaceSatire"
     title: "Philosophy Workplace Satire"
     url: "/wiki/concepts/philosophyworkplacesatire/"

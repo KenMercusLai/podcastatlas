@@ -2,13 +2,15 @@
 title: "Consciousness Measurement"
 type: concept
 tags: [consciousness, neuroscience, ai, quantum-metaphor]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
-last_updated: 2026-08-23
+sources: [i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+last_updated: 2026-08-24
 ---
 
 # Consciousness Measurement
 
 Consciousness measurement is the open problem of finding empirical handles on conscious state without pretending that consciousness has a simple threshold. In [[claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]], [[ClaireIsabelWebb]] frames the public AI debate around whether a system crosses a consciousness line, while [[NinaMiolane]] keeps the discussion grounded in measurable neural activity, geometry, and computation.
+
+[[i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015]] adds a more explicitly public-facing AI-consciousness map through [[AlokJha]]. The episode distinguishes [[PhenomenalAccessConsciousness|phenomenal and access consciousness]], uses [[ELIZA]] and [[BlakeLemoine]] to show why [[ChatbotMindProjection]] is not measurement, and treats [[GlobalWorkspaceTheory]], [[ComputationalFunctionalism]], and [[OrganoidComputing]] as reasons future AI consciousness cannot be dismissed while current LLM consciousness remains unproven.
 
 [[104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]] adds a literary warning through [[UnderstandTedChiang|《领悟》 / Understand]]. The episode is less about measuring consciousness from outside than about whether a mind can fully understand itself or another superior mind without triggering destructive self-awareness.
 
@@ -32,10 +34,14 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - Hanji 161 adds a cautionary contrast: quantum-consciousness language can be important as worldview material while still needing separation from validated measurement.
 - Hanji 161 part 3 adds Buddhist and Daoist consciousness vocabulary while preserving the same measurement boundary.
 - Hanji 161 part 4 repeats the consciousness-intention claim while preserving the same measurement boundary.
+- The Intelligence AI-consciousness segment adds that chatbot output and user attachment should not be mistaken for consciousness evidence.
+- The same segment makes internal architecture relevant through a Claude workspace analogy, while preserving the boundary that workspace-like structure is not proof of subjective experience.
+- Organoid and brain-cell computing are future boundary cases because biological substrate may matter if strict computational functionalism is wrong.
 
 ## Connections
 - [[ClaireIsabelWebb]] - interviewer who keeps returning to consciousness, time, affect, and AI questions.
 - [[NinaMiolane]] - researcher who distinguishes measurable intelligence from consciousness.
+- [[AlokJha]], [[AIConsciousnessBoundary]], [[ChatbotMindProjection]], [[PhenomenalAccessConsciousness]], [[GlobalWorkspaceTheory]], [[ComputationalFunctionalism]], and [[OrganoidComputing]] - The Intelligence AI-consciousness branch.
 - [[NeuralGeometry]] and [[PopulationCoding]] - empirical route used in the source.
 - [[SpatialNavigationTorus]] - main geometric example that leads into sleep and replay.
 - [[AIInterpretabilityByAI]] and [[HumanJudgmentUnderAI]] - adjacent concerns about whether internal states are understandable and responsibly acted on.

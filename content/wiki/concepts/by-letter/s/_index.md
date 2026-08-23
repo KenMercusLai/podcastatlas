@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5207
+wiki_total_pages: 5216
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "StewardOwnership"
     title: "Steward Ownership"
     url: "/wiki/concepts/stewardownership/"
+  - key: "STIPublicHealthResponse"
+    title: "STI Public Health Response"
+    url: "/wiki/concepts/stipublichealthresponse/"
   - key: "StirFryRevival"
     title: "Stir-Fry Revival / 爆炒与小炒回潮"
     url: "/wiki/concepts/stirfryrevival/"
