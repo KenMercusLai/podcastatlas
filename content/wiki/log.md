@@ -10123,6 +10123,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因
+
+Added source page for Hanji 181: Liu Bang's proposed replacement of crown prince Liu Ying with Liu Ruyi, Qi Ji's weak political base, Zhou Chang's remonstrance and reassignment to Zhao, Zhao Yao's protector advice, and the host's reading that Liu Bang created danger for the favored branch without effective protection. Created Qi Ji, Zhou Chang, Zhao Yao, and Alternative-Heir Protection Failure; updated overview, index, Liu Bang, Lu Zhi, Liu Ying, Liu Ruyi, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related succession and same-surname kingship concepts. No settled contradiction found; the later-tragedy inevitability claim is kept source-scoped.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）
 
 Added source page for Hanji 180 part 2: Guan Gao's death after Zhang Ao's release, Xun Yue's legal critique of private loyalty, Sima Guang's responsibility judgment, Zhang Ao's removal as part of Liu Bang's different-surname king rollback, Tian Shu and Meng Shu's appointments as Zhao-region stabilization, and the Xiao He xiangguo chronology note. Updated overview, index, Guan Gao, Zhang Ao, Liu Bang, Tian Shu, Meng Shu, Xun Yue, Sima Guang, Xiao He, and related loyalty, assassination, kingship, pacification, and chronology concepts. No settled contradiction found; Zhang Ao's demotion causality and Xiao He's promotion date are kept source-scoped.
@@ -10437,3 +10441,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint; report printed in session, not saved to lint-report.md.

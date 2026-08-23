@@ -3683,6 +3683,10 @@
     "title": "Alternative for Germany",
     "url": "/wiki/entities/alternativeforgermany/"
   },
+  "AlternativeHeirProtectionFailure": {
+    "title": "Alternative-Heir Protection Failure / 备位继承人保护失灵",
+    "url": "/wiki/concepts/alternativeheirprotectionfailure/"
+  },
   "AltimeterCapital": {
     "title": "Altimeter Capital",
     "url": "/wiki/entities/altimetercapital/"
@@ -34287,6 +34291,10 @@
     "title": "齐桓公",
     "url": "/wiki/entities/qihuangong/"
   },
+  "QiJi": {
+    "title": "戚姬 / Qi Ji",
+    "url": "/wiki/entities/qiji/"
+  },
   "QiJie": {
     "title": "骑劫 / Qi Jie",
     "url": "/wiki/entities/qijie/"
@@ -47983,6 +47991,10 @@
     "title": "昭奚恤 / Zhao Xixu",
     "url": "/wiki/entities/zhaoxixu/"
   },
+  "ZhaoYao": {
+    "title": "赵尧 / Zhao Yao",
+    "url": "/wiki/entities/zhaoyao/"
+  },
   "ZhaoYoumiuWang": {
     "title": "赵迁 / 赵幽缪王 / Zhao Youmiu Wang",
     "url": "/wiki/entities/zhaoyoumiuwang/"
@@ -48202,6 +48214,10 @@
   "ZhouBo": {
     "title": "周勃 / Zhou Bo",
     "url": "/wiki/entities/zhoubo/"
+  },
+  "ZhouChang": {
+    "title": "周昌 / Zhou Chang",
+    "url": "/wiki/entities/zhouchang/"
   },
   "ZhouDaguan": {
     "title": "周达观 / Zhou Daguan",
@@ -51806,6 +51822,10 @@
   "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2": {
     "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）",
     "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2/"
+  },
+  "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s": {
+    "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

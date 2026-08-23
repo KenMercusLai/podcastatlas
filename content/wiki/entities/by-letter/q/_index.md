@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6723
+wiki_total_pages: 6726
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "QinHuiwenhou"
     title: "惠文后 / Queen Huiwen of Qin"
     url: "/wiki/entities/qinhuiwenhou/"
+  - key: "QiJi"
+    title: "戚姬 / Qi Ji"
+    url: "/wiki/entities/qiji/"
   - key: "Qingwen"
     title: "晴雯 / Qingwen"
     url: "/wiki/entities/qingwen/"

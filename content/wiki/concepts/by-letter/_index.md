@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5147
+wiki_total_pages: 5148
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1226,6 +1226,9 @@ wiki_pages:
   - key: "AlphaDecay"
     title: "Alpha Decay"
     url: "/wiki/concepts/alphadecay/"
+  - key: "AlternativeHeirProtectionFailure"
+    title: "Alternative-Heir Protection Failure / 备位继承人保护失灵"
+    url: "/wiki/concepts/alternativeheirprotectionfailure/"
   - key: "AlzheimerDrugEfficacyGap"
     title: "Alzheimer Drug Efficacy Gap"
     url: "/wiki/concepts/alzheimerdrugefficacygap/"

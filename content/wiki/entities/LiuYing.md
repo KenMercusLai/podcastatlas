@@ -2,7 +2,7 @@
 title: "刘盈 / Liu Ying"
 type: entity
 tags: [person, western-han, chu-han]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
+sources: [zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ In the source's account, Liu Bang encounters Liu Ying and [[LuYuanPrincess|鲁�
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] confirms that wartime succession status inside the founding order. After Liu Bang's accession, the episode says [[LuZhi|吕雉]] is made empress and Liu Ying is made crown prince of the new [[WesternHanDynasty|西汉]].
 
+[[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] moves Liu Ying from confirmed crown prince into a threatened heir. Liu Bang judges his gentle and benevolent temperament as unlike himself and considers replacing him with [[LiuRuyi|刘如意]]. The source makes [[ZhouChang|周昌]]'s refusal and [[LuZhi|吕雉]]'s thanks evidence that the danger is politically real, not just palace talk.
+
 ## Connections
+- [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], [[ZhouChang|周昌]], and [[LuZhi|吕雉]] - threatened crown-prince status under the proposed replacement.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LuZhi|吕雉]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - crown-prince status after imperial accession.
 - [[LiuBang|刘邦]] - father and fleeing commander in the source scene.
 - [[LuYuanPrincess|鲁元公主]] - sibling paired with Liu Ying in the escape account.

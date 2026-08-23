@@ -2,8 +2,8 @@
 title: "Affection-Driven Succession Risk / 宠爱驱动的立储风险"
 type: concept
 tags: [succession, governance, family-politics, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+last_updated: 2026-08-23
 ---
 
 # Affection-Driven Succession Risk / 宠爱驱动的立储风险
@@ -24,7 +24,10 @@ The episode makes the risk more precise: the problem is not simply that a younge
 
 [[zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]] adds a late Zhao echo without the partial-abdication layer. [[ZhaoDaoxiangwang|赵道襄王]] displaces [[ZhaoJia|赵嘉]] and installs [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] because of a favored relationship. This version is captured more narrowly by [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]]: the ruler's preference damages heir legitimacy before a major Qin attack, even without an old ruler staying alive as a separate power center.
 
+[[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s]] adds an early Western Han version through [[LiuBang|刘邦]]'s preference for [[QiJi|戚姬 / 戚夫人]] and [[LiuRuyi|刘如意]] over [[LuZhi|吕雉]] and [[LiuYing|刘盈]]. Unlike the Zhao Wuling Wang case, Liu Bang does not complete abdication or replacement; the risk remains as a threatened displacement that still produces fear, resentment, and the need for attempted protection.
+
 ## Key Claims
+- Hanji 181 adds that even an incomplete heir-replacement attempt can destabilize both the established heir and the favored branch when affection outruns institutional protection.
 - Ruler affection can become a succession force when it changes which child is politically favored.
 - A younger favored-son branch can destabilize an elder legitimate-son branch even before the formal conflict is narrated.
 - The risk differs from mere non-designation: the ruler may act, but the action can still leave rival claims alive.
@@ -36,6 +39,7 @@ The episode makes the risk more precise: the problem is not simply that a younge
 - The same pattern can reappear without partial abdication when a ruler directly displaces an established heir for a favored partner's son.
 
 ## Connections
+- [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]], [[LiuBang|刘邦]], [[QiJi|戚姬 / 戚夫人]], [[LiuRuyi|刘如意]], [[LiuYing|刘盈]], [[LuZhi|吕雉]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - early Han threatened-displacement variant.
 - [[ZhaoWulingwang|赵武灵王]], [[WuWa|吴娃]], [[ZhaoHe|赵何]], and [[ZhaoZhang|赵章]] - source case.
 - [[FeiYi|肥义]] and [[PowerExitTrap|权力退场困境]] - Zhouji 61 chancellor appointment and divided authority after abdication.
 - [[TianBuli|田不李]], [[LiDui|李兑]], [[GaoXinWarringStates|高信]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 compensation, warning, coup, and starvation ending.

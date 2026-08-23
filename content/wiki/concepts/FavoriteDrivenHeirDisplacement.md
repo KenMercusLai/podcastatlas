@@ -2,8 +2,8 @@
 title: "Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶"
 type: concept
 tags: [succession, governance, court-politics, family-politics, warring-states]
-sources: [zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
+last_updated: 2026-08-23
 ---
 
 # Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶
@@ -16,7 +16,10 @@ The source's language about Zhao Qian's mother is harsh and moralizing. This con
 
 [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] adds the post-fall consequence. [[ZhaoJia|赵嘉]], the displaced earlier heir, can gather clan members and officials in [[DaiState|代地 / 代国]] after [[Handan|邯郸]] falls, but he calls himself king of Dai rather than king of Zhao while [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] remains alive in Qin-controlled exile. The succession wound therefore survives state collapse, but it is constrained by [[CapturedRulerLegitimacyContainment|captured-ruler legitimacy containment]].
 
+[[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s]] adds an early Han case where the displacement pressure does not fully succeed. [[LiuBang|刘邦]] prefers [[QiJi|戚姬 / 戚夫人]]'s son [[LiuRuyi|刘如意]] and considers replacing [[LiuYing|刘盈]], but court resistance led by [[ZhouChang|周昌]] prevents formal replacement. The case therefore links favorite-driven displacement to [[AlternativeHeirProtectionFailure|备位继承人保护失灵]]: an incomplete attempt can still expose the favored branch.
+
 ## Key Claims
+- An attempted but incomplete replacement can still create a succession wound by alarming the established heir's branch and exposing the favored child.
 - A ruler's favored relationship can become a succession mechanism when it displaces an existing heir.
 - Replacing an established heir weakens the successor before outside pressure arrives.
 - The political risk belongs to the ruler's succession decision and court structure, not only to the favored person.
@@ -24,6 +27,7 @@ The source's language about Zhao Qian's mother is harsh and moralizing. This con
 - A displaced heir can become a remnant claimant after defeat, but the captive survival of the installed ruler can limit which title the claimant can safely use.
 
 ## Connections
+- [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]], [[LiuBang|刘邦]], [[QiJi|戚姬 / 戚夫人]], [[LiuRuyi|刘如意]], [[LiuYing|刘盈]], [[ZhouChang|周昌]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - early Han near-displacement case.
 - [[ZhaoDaoxiangwang|赵道襄王]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], and [[ZhaoJia|赵嘉]] - source case.
 - [[ZhaoState|赵国]] - state exposed by the succession change.
 - [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]], [[SuccessionNonDesignationRisk|未定继承人风险]], and [[BirthTabooSuccessionExclusion|出生日禁忌与继承排斥]] - related succession-risk concepts.
