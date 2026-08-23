@@ -2,7 +2,7 @@
 title: "同姓王分封 / Same-Surname King Enfeoffment"
 type: concept
 tags: [statecraft, enfeoffment, western-han, vassal-kings]
-sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
 last_updated: 2026-08-23
 ---
 
@@ -18,6 +18,8 @@ The concept sits in tension with [[CommanderyCountyAntiEnfeoffment|郡县制反�
 
 [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] extends the rotation from failed kinship defense to replacement of a non-Liu royal line. After [[ZhangAo|张敖]] is cleared of direct conspiracy but demoted from Zhao king, Liu Bang moves [[LiuRuyi|刘如意]] from Dai to Zhao. Same-surname kingship therefore becomes not only a first settlement map but also the replacement pattern after a different-surname king's court creates unacceptable risk.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] makes that replacement logic more explicit. The host argues that Zhang Ao would likely have been removed even without Guan Gao's plot because Liu Bang had already settled on reducing different-surname kings. Liu Ruyi's movement to Zhao therefore looks like an instance of a planned Liu-family map, not only an emergency response to one court scandal.
+
 ## Key Claims
 - Same-surname kingship is used as a trust substitute when different-surname kings look unsafe after victory.
 - The early Han grant map combines family politics with territorial control over former wartime bases.
@@ -25,8 +27,10 @@ The concept sits in tension with [[CommanderyCountyAntiEnfeoffment|郡县制反�
 - The move contrasts with Qin direct-rule ideology but arises from a different postwar settlement problem.
 - Hanji 178 part 2 adds that same-surname kingship also needs performance discipline: a Liu relative can be demoted and replaced by another Liu relative when frontier defense collapses.
 - Hanji 180 adds that a Liu relative can also replace a personally exonerated non-Liu king when the latter's court has become politically unsafe.
+- Hanji 180 part 2 adds that the replacement can be read as part of an already developing same-surname map, with the scandal acting as trigger rather than sole cause.
 
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[ZhangAo|张敖]], [[LiuRuyi|刘如意]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - same-surname replacement framed as broader policy.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - source scene and founding-order frame.
 - [[LiuJia|刘贾]], [[LiuJiao|刘交]], [[LiuXiDaiKing|刘喜]], and [[LiuFeiQiKing|刘肥]] - Liu-family recipients.
 - [[JingKingdomEarlyHan|荆国]], [[ChuKingdomEarlyHan|楚国]], [[DaiKingdomEarlyHan|代国]], and [[QiKingdomEarlyHan|齐国]] - royal jurisdictions created or assigned in the episode.

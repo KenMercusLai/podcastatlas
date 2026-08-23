@@ -2,7 +2,7 @@
 title: "荀悦 / Xun Yue"
 type: entity
 tags: [person, historian, eastern-han, chinese-history]
-sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ His role is therefore reception-historical rather than biographical. He helps th
 
 [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] adds a strategic-method layer to Xun Yue. The episode cites his view that deciding plans and judging victory depends on "行、势、情": broad gains and losses, temporary situation, and whether people's commitments are firm. This makes Xun Yue the source for [[XingshiqingStrategicAssessment|行势情战略评估]], the wiki's frame for why the same tactic can work in one historical setting and fail in another.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] returns Xun Yue to the private-loyalty problem through [[GuanGao|贯高]]. His judgment is stricter than heroic admiration: Guan Gao may have protected [[ZhangAo|张敖]] from false implication, but plotting to kill [[LiuBang|刘邦]] remains a public crime that loyal intention cannot offset.
+
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[GuanGao|贯高]], [[ZhangAo|张敖]], [[LiuBang|刘邦]], and [[PoliticalAssassinationEthics|政治刺杀伦理]] - legal-moral judgment that private loyalty cannot erase regicide conspiracy.
 - [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[ZhangLiang|张良]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - strategic assessment framework built from his comment.
 - [[YuQing|虞卿]], [[Pingyuanjun|平原君]], and [[Xinlingjun|信陵君]] - figures whose choices he criticizes in the episode's reception layer.
 - [[WeiQiWarringStates|魏齐]] and [[FanJu|范雎]] - underlying crisis around which the loyalty dispute forms.

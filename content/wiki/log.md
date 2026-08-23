@@ -10123,6 +10123,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）
+
+Added source page for Hanji 180 part 2: Guan Gao's death after Zhang Ao's release, Xun Yue's legal critique of private loyalty, Sima Guang's responsibility judgment, Zhang Ao's removal as part of Liu Bang's different-surname king rollback, Tian Shu and Meng Shu's appointments as Zhao-region stabilization, and the Xiao He xiangguo chronology note. Updated overview, index, Guan Gao, Zhang Ao, Liu Bang, Tian Shu, Meng Shu, Xun Yue, Sima Guang, Xiao He, and related loyalty, assassination, kingship, pacification, and chronology concepts. No settled contradiction found; Zhang Ao's demotion causality and Xiao He's promotion date are kept source-scoped.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）
 
 Added source page for Hanji 180: substitute-princess implementation of heqin, Liu Jing's Guanzhong elite relocation proposal, exposure of Guan Gao's assassination plot, Zhang Ao's arrest and demotion, Xie Gong's truth-checking role, Tian Shu and Meng Shu's retainer loyalty, and Guan Gao's torture-resistant exoneration followed by suicide after Zhang Ao's release. Created Xie Gong, Tian Shu, Meng Shu, Guanzhong Elite Relocation, and Torture-Resistant Exoneration; updated overview, index, Guan Gao, Zhang Ao, Zhao Wu, Liu Bang, Liu Jing/Lou Jing, Liu Ruyi, Lu Zhi, Princess Lu Yuan, Modu Chanyu, Xiongnu, Guanzhong, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, Coerced Confession Trap, Political Assassination Ethics, Same-Surname King Enfeoffment, Different-Surname King Suspicion, and Dai Kingdom. No settled contradiction found; Hanji 180 qualifies Hanji 179's anti-substitute warning by recording a substitute-princess implementation.
@@ -10421,6 +10425,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》179｜历史上“和亲”怎么来的
 
 Added source page for Hanji 179: Gaozu eighth-year post-Baideng pressure, the failed 百人县 assassination attempt by Guan Gao and Zhao Wu, early Han 重农轻商 restrictions, Liu Jing's concrete heqin design, Lu Zhi's resistance to sending Lu Yuan Princess, and the policy's later limits before Han Wudi's military turn. Created Heavy Agriculture and Light Commerce Policy; updated overview, index, Liu Bang, Liu Jing/Lou Jing, Lu Zhi, Lu Yuan Princess, Modu Chanyu, Xiongnu, Western Han, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, and related frontier pages. No settled contradiction found; the Tang/Qing/Song/Ming comparison is kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

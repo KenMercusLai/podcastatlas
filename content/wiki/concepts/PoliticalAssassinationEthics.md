@@ -2,7 +2,7 @@
 title: "Political Assassination Ethics / 政治刺杀伦理"
 type: concept
 tags: [politics, violence, ethics, assassination]
-sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-22
 ---
 
@@ -32,7 +32,10 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 
 [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] adds [[GuanGao|贯高]] as a failed-regicide aftermath case. The episode does not make the assassination attempt lawful or innocent, but it does make Guan Gao's later conduct ethically important: he refuses to falsely implicate [[ZhangAo|张敖]] under torture, accepts that his own regicide stain remains, and kills himself after his lord is released.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] strengthens the negative boundary. Through [[XunYue|荀悦]], the source says Guan Gao's private loyalty and exonerating testimony still cannot redeem the attempted killing of the emperor. The concept therefore has to separate post-failure truthfulness from retroactive justification: a conspirator can behave honorably after exposure without making the original assassination ethically acceptable.
+
 ## Key Claims
+- Hanji 180 part 2 adds a legal-state boundary: truthful conduct after a failed assassination does not retroactively justify the assassination itself.
 - Political assassination remains crime and violence even when the target is morally compromised.
 - A weak actor may see assassination as the last available move when law, courts, and ordinary politics cannot reach a powerful wrongdoer.
 - The moral argument is strongest when the act looks like self-sacrifice and retrospective punishment, not private gain or preventive domination.
@@ -62,3 +65,4 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 - [[TaoYuanming|陶渊明]], [[GongZizhen|龚自珍]], [[TuqiongBijian|图穷匕见]], and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - Qinji 115-2 failure, literary afterlife, and state-order response.
 - [[SimaGuang|司马光]], [[YangXiong|扬雄]], [[YaoLi|要离]], [[NieZheng|聂政]], and [[RenyiGroundedVirtue|仁义为本的信勇]] - Qinji 119-1 rejection of assassin death as automatic义.
 - [[GuanGao|贯高]], [[ZhangAo|张敖]], [[XieGong|谢公]], [[VassalHumiliationConspiracy|诸侯王羞辱触发谋刺]], and [[TortureResistantExoneration|刑讯守口式申冤]] - Hanji 180 failed-regicide and exonerating testimony branch.
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[XunYue|荀悦]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - explicit refusal to let loyal motive erase public crime.

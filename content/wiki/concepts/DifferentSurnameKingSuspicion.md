@@ -2,7 +2,7 @@
 title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
 type: concept
 tags: [statecraft, early-han, vassal-kings, suspicion]
-sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
 last_updated: 2026-08-23
 ---
 
@@ -26,7 +26,10 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 
 [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] adds [[ZhangAo|张敖]] as a different kind of case. Guan Gao's testimony clears Zhang Ao personally, so the source does not treat him as a proven rebel. But because his ministers actually plotted regicide, Liu Bang still removes the Zhao kingship and replaces him with [[LiuRuyi|刘如意]]. Suspicion here attaches to the court network around a non-Liu king even when the king's own guilt is denied.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] turns that case into an explicit policy reading. The host argues that Zhang Ao's removal was probably not caused by Guan Gao alone; it fits the visible sequence of Liu Bang reducing or replacing different-surname kings such as [[ZangTu|臧荼]], [[HanXin|韩信]], [[HanWangXin|韩王信]], [[PengYue|彭越]], [[YingBu|英布]], and [[LuWan|卢绾]]. The Zhao plot is therefore a trigger and justification, not necessarily the root policy cause.
+
 ## Key Claims
+- Hanji 180 part 2 adds a policy-over-trigger distinction: a specific conspiracy can supply the occasion for removing a non-Liu king while the underlying direction comes from the center's broader rollback of different-surname kings.
 - Hanji 177 adds a self-confirming path: once a suspected king has defected under pressure, the center's fear becomes a military reality even if the original motive mix remains ambiguous.
 - Hanji 180 adds a network-risk path: a different-surname king can lose kingship because his ministers are dangerous even when testimony clears the king personally.
 - Hanji 174 adds relocation as a suspicion-management tool: a non-Liu king can be assigned frontier defense in a way that also limits his central-territory base.
@@ -39,6 +42,7 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 - The pattern extends [[PowerExitTrap|权力退场困境]] from individual ministers to territorial kings.
 
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[ZhangAo|张敖]], [[ZangTu|臧荼]], [[HanXin|韩信]], [[HanWangXin|韩王信]], [[PengYue|彭越]], [[YingBu|英布]], and [[LuWan|卢绾]] - Zhang Ao removal read inside the broader anti-different-surname king sequence.
 - [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[HanWangXin|韩王信]], [[LiuBang|刘邦]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - suspicion becoming an active northern campaign problem after surrender.
 - [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[ZhangAo|张敖]], [[GuanGao|贯高]], [[TortureResistantExoneration|刑讯守口式申冤]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - personal exoneration paired with royal-title removal and Liu-family replacement.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[HanWangXin|韩王信]], [[Mayi|马邑]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - frontier relocation of a capable non-Liu king.

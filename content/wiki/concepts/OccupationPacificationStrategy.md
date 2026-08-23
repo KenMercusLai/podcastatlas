@@ -2,7 +2,7 @@
 title: "Occupation Pacification Strategy / 占领区怀柔治理"
 type: concept
 tags: [statecraft, military-command, occupation, legitimacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
 last_updated: 2026-08-23
 ---
 
@@ -30,6 +30,8 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 
 [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds a newly conquered Zhao version. Li Zuoche tells [[HanXin|韩信]] to pause after victory, rest the army, and pacify [[ZhaoState|赵国]]'s people before moving pressure toward Yan and Qi. Pacification here is not the final occupation of a capital; it is the rear-area quieting that makes [[VictoryDeterrenceDiplomacy|胜势威慑外交]] credible.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] adds a post-crisis Zhao variant rather than a battlefield occupation. After [[ZhangAo|张敖]] loses the Zhao kingship and the conspiracy kills or discredits major Zhao ministers, [[LiuBang|刘邦]] praises and appoints [[TianShuHan|田叔]] and [[MengShuHan|孟叔]]. The host reads this as a way to soothe Zhao-region elites near the [[Xiongnu|匈奴]] frontier: pacification can require absorbing reputable local loyalists, not only relieving commoners or restraining troops.
+
 ## Key Claims
 - A conquered territory can be militarily taken but politically unsecured.
 - Harsh assault on the last holdouts can destabilize already captured places.
@@ -44,8 +46,10 @@ The strategy belongs under [[PeopleBasedPoliticalSecurity|people-based political
 - Hanji 149 part 2 adds the post-victory negative case: after Tian Rong's death, punitive occupation in Qi destroys a possible submission path.
 
 - Hanji 157 part 2 adds that pacification can be a bridge between one battle and the next diplomatic move: a quiet rear makes intimidation of neighboring states more believable.
+- Hanji 180 part 2 adds that post-crisis pacification can use loyal local elites as stabilizers after a regional title change and treason case.
 
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[TianShuHan|田叔]], [[MengShuHan|孟叔]], [[ZhangAo|张敖]], [[LiuBang|刘邦]], and [[Xiongnu|匈奴]] - Zhao elite absorption after the kingship crisis.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[ZhaoState|赵国]], [[ZhangEr|张耳]], and [[VictoryDeterrenceDiplomacy|胜势威慑外交]] - post-Jingxing rest and people-pacification before envoy pressure on Yan and Qi.
 - [[LeYi|乐毅]], [[YanState|燕国]], and [[QiState|齐国]] - commander, occupying power, and conquered territory.
 - [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]] - last holdouts that make the strategy visible.

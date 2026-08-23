@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）](sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2.md) — 芮淇讲透资治通鉴 episode on Guan Gao's death, Xun Yue and Sima Guang's judgments of the case, Zhang Ao's likely removal under anti-different-surname king policy, Tian Shu and Meng Shu's appointment, and the Xiao He promotion chronology note.
 - [《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）](sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k.md) — 芮淇讲透资治通鉴 episode on substitute-princess heqin, Liu Jing's Guanzhong elite relocation policy, Guan Gao's torture-resistant exoneration of Zhang Ao, and Zhang Ao's demotion from Zhao king.
 - [《资治通鉴·汉纪》179｜历史上“和亲”怎么来的](sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1.md) — 芮淇讲透资治通鉴 episode on Liu Jing's concrete heqin proposal, Lu Zhi's resistance, post-Baideng northern pressure, early Han 重农轻商 policy, and the failed 百人县 assassination attempt.
 - [《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）](sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Baideng return through Chen Ping's Quni reward, Zhang Ao's humiliation crisis, Dai succession, Weiyang Palace, Zongzheng, and the heqin policy turn.
