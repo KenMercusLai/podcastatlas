@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择](sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs.md) — 芮淇讲透资治通鉴 episode on 名器 legitimacy, Yuan Shu's unsupported imperial claim, Chen Gui blocking the Yuan Shu-Lü Bu marriage alliance, Han Yin's failed mission, and the Chen family's survival path toward Cao Cao.
 - [《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事](sources/zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq.md) — 芮淇讲透资治通鉴 episode on Chen Deng judging Lü Bu as "轻于去就", Cao Cao's Guangling appointment, the Chen family's staged survival strategy, and the modern choice-making extension.
 - [《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？](sources/zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8.md) — 芮淇讲透资治通鉴 episode on Chen Deng calming Lü Bu, Cao Cao's "饥附饱扬" judgment, Chen Gui's Yuan Shu coalition diagnosis, Han Xian/Yang Feng's switch, and Gao Shun's ignored loyal advice.
 - [《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生](sources/zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio.md) — 芮淇讲透资治通鉴 episode on Liu Chong and Luo Jun's Chen state order, Yuan Shu's grain-demand assassination through Zhang Kai, Sun Ce's title/preemption branch, and the source-scoped lesson about reading and defending against "势."
@@ -1322,8 +1323,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [陈登 / Chen Deng](entities/ChenDeng.md) — Late-Han official who judges Lü Bu's instability, receives Cao Cao's Guangling appointment, and later placates Lü Bu over the Xuzhou title.
-- [陈珪 / Chen Gui](entities/ChenGui.md) — Chen Deng's father and adviser whose Hanji 1017-1018 branch combines staged family survival with Yuan Shu coalition diagnosis.
+- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power formally appointed by Emperor Xian's court in Hanji 1016, contrasting accepted Han-court title order with Yuan Shu's self-claimed imperial title.
+- [金尚 / Jin Shang](entities/JinShang.md) — Late-Han official killed after refusing Yuan Shu's taiwei title, used by Hanji 1016 as a title-risk and survival-pacing caution.
+- [韩胤 / Han Yin (late Han)](entities/HanYinLateHan.md) — Yuan Shu envoy whose Lü Bu marriage mission collapses after Chen Gui's warning, ending with execution at Cao Cao's court.
+- [陈登 / Chen Deng](entities/ChenDeng.md) — Late-Han official whose Hanji 1016-1018 branch moves from Yuan Shu hostage leverage into Cao Cao's Guangling appointment and Lü Bu management.
+- [陈珪 / Chen Gui](entities/ChenGui.md) — Chen Deng's father and adviser whose Hanji 1016-1018 branch combines Yuan Shu refusal, marriage-alliance blocking, staged family survival, and coalition diagnosis.
 - [广陵 / Guangling Commandery](entities/GuanglingCommandery.md) — Place and commandery node used by Hanji 1017 for Chen Deng's Cao-aligned base and by Qinji 130-1 for Zhao Ping's failed anti-Qin target.
 - [韩暹 / Han Xian (late Han)](entities/HanXianLateHan.md) — Late-Han military actor whom Lü Bu persuades to leave Yuan Shu's coalition by combining Han-court legitimacy and material spoils.
 - [杨奉 / Yang Feng (late Han)](entities/YangFengLateHan.md) — Han Xian's partner in the coalition switch that breaks Yuan Shu's attack on Lü Bu.
@@ -1337,15 +1341,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Sun Ce's father, disambiguated from the modern researcher page, whose Wu Cheng marquis title is inherited in Hanji 1019.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
 - [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Yuan Shu's assassin who uses false surrender to kill Liu Chong and Luo Jun.
-- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose Hanji 1017-1019 branch combines "轻于去就", tactical coalition-breaking, unstable trust, and ignored loyal advice.
+- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose Hanji 1016-1019 branch combines marriage-alliance reversal, "轻于去就", tactical coalition-breaking, unstable trust, and ignored loyal advice.
 - [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose disciplined 陷阵营 and ignored warning sharpen the Hanji 1018 personnel-judgment failure.
 - [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun through troop transfer, command dependence, and later betrayal risk.
-- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose coalition failure, Chen-state predation, and Hanji 1020 diagnosis show misread momentum, broken trust, and talent loss.
+- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose unsupported imperial claim, failed Lü Bu marriage alliance, coalition failure, Chen-state predation, and Hanji 1020 diagnosis show misread momentum, broken trust, and talent loss.
 - [何夔 / He Kui](entities/HeKui.md) — Late-Han official whose refusal of Yuan Shu and answer to Cao Cao diagnose Yuan Shu's political failure.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.
 - [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose Yuan Shu marriage tie leads to a politically risky arrest and release under Cao Cao.
 - [杨修 / Yang Xiu](entities/YangXiu.md) — Yang Biao's son and Yuan Shu marriage link in Hanji 1020's court-risk branch.
-- [孔融 / Kong Rong](entities/KongRong.md) — Old-Han voice who challenges Cao Cao over Yang Biao's arrest and responsibility-shifting.
+- [孔融 / Kong Rong](entities/KongRong.md) — Old-Han voice whose Hanji 1016 appointment mission to Yuan Shao and Hanji 1020 challenge over Yang Biao both show court-order legitimacy pressure.
 - [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official who joins Kong Rong in warning against torturing Yang Biao.
 - [满宠 / Man Chong](entities/ManChong.md) — Xudu official whose interrogation report gives Cao Cao a release path in the Yang Biao case.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
@@ -2114,9 +2118,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
-- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include Wancheng security failure, Chen Deng's Lü Bu appraisal, Sun Ce title recognition, Yuan Shu diagnosis, and Yang Biao court-risk handling.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include Wancheng security failure, Chen Deng's Lü Bu appraisal, Han Yin's execution, Sun Ce title recognition, Yuan Shu diagnosis, and Yang Biao court-risk handling.
 - [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
-- [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor in the Cao-family analogy for irreversible political control.
+- [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose court order still assigns recognized titles to powers like Yuan Shao while Cao Cao uses that legitimacy against Yuan Shu.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
 - [公子虔 / Gongzi Qian](entities/GongziQian.md) — Qin figure whose faction accuses Shang Yang after Qin Xiao Gong's death, turning reform backlash into Shang Yang's flight.
 - [楚威王 / King Wei of Chu](entities/ChuWeiwang.md) — Chu Xuan Wang's son and successor in the compact 340 BCE Zizhi Tongjian notice.
@@ -5091,7 +5095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乌台诗案 / Wutai Poetry Case](entities/WutaiPoetryCase.md) — Political-legal crisis where Su Shi's poems and memorial language became evidence against him.
 - [黄州 / Huangzhou](entities/Huangzhou.md) — Exile site where Su Shi becomes Dongpo and writes the Red Cliff works.
 - [杭州 / Hangzhou](entities/Hangzhou.md) — Su Shi office site linked to West Lake dredging, Su Causeway, disaster preparation, medicine, and infant rescue.
-- [徐州 / Xuzhou](entities/Xuzhou.md) — Place and administrative-status node spanning Warring States diplomacy, Pengcheng battle geography, Su Shi flood governance, and Lü Bu's late-Han governor-title dispute.
+- [徐州 / Xuzhou](entities/Xuzhou.md) — Place and administrative-status node spanning Warring States diplomacy, Pengcheng battle geography, Su Shi flood governance, and Lü Bu's late-Han marriage/title exposure.
 - [惠州 / Huizhou](entities/Huizhou.md) — Southern exile site associated with burial, bridge work, and Wang Chaoyun's death.
 - [儋州 / Danzhou](entities/Danzhou.md) — Farthest exile stage where Su Shi remains morally and educationally active under restrictions.
 - [苏堤 / Su Causeway](entities/SuCauseway.md) — West Lake public works trace tying Su Shi's scenic afterlife to water management.
@@ -8107,6 +8111,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mingqi Legitimacy / 名器合法性](concepts/MingqiLegitimacy.md) — Hanji 1016 title-and-symbol legitimacy frame where unsupported imperial names, official appointments, and refusal of office alter political risk.
+- [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Hanji 1016 pattern where a marriage alliance would move Yuan Shu's war and legitimacy costs onto Lü Bu and Xuzhou.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
 - [饥附饱扬 / Ji Fu Bao Yang](concepts/JiFuBaoYang.md) — Hanji 1018 dependency pattern where a dangerous actor attaches while needy and leaves once secure.
 - [Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性](concepts/InterestStructuredAllianceFragility.md) — Hanji 1018 pattern where a coalition with troops and commanders remains brittle because its members can be offered a better legitimacy-and-spoils path.
@@ -8161,7 +8167,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Relational Fate Network / 关系命运网络](concepts/RelationalFateNetwork.md) — Hanji 161 model for personal fate as shaped by family, partners, friends, words, support, harm, anger, social circles, and heart-field conduct.
 - [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, relationship influence, attraction, interference, and virtue-practice-based fate change.
 - [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
-- [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, actor commitments, alliance incentives, and historical-fit limits.
+- [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, legitimacy, geography, situational timing, actor commitments, alliance incentives, and historical-fit limits.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.
@@ -8182,7 +8188,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
-- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, motive-reading, maneuvering room, staged alignment, and factional timing as core political disciplines in lethal politics.
+- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, motive-reading, maneuvering room, staged alignment, alliance blocking, and factional timing as core political disciplines in lethal politics.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.
 - [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors and sustaining that signal through insider backlash.

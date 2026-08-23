@@ -2,7 +2,7 @@
 title: "Political Survival First / 安全第一政治生存"
 type: concept
 tags: [politics, statecraft, risk, han, survival]
-sources: [zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
+sources: [zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
 last_updated: 2026-08-23
 ---
 
@@ -20,8 +20,11 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 
 [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] adds a late-Han family version through [[ChenGui|陈珪]] and [[ChenDeng|陈登]]. The Chen family does not simply pick the strongest visible actor at once. The episode reads its survival as staged: use [[LyuBu|吕布]] while he balances immediate danger, build capacity through offices such as [[GuanglingCommandery|广陵]], and keep a long-term path to [[CaoCao|曹操]] for the post-Lü-Bu order.
 
+[[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] supplies the prior decision point for that family version. Chen Gui refuses [[YuanShu|袁术]] despite old friendship and pressure through Chen Deng, then blocks the Yuan Shu-[[LyuBu|吕布]] marriage because it would expose [[Xuzhou|徐州]] and tie the family to an illegitimate claim. Survival-first politics here is not flight from principle; it is the choice of a legitimacy field and war-risk path that preserves future room.
+
 ## Key Claims
 - Hanji 182 part 3 adds that the absence of survival-first judgment can make military genius politically unusable after the victory order changes.
+- Hanji 1016 adds that family survival can depend on refusing a dangerous title or alliance even when the refusal creates immediate hostage and retaliation risk.
 - Hanji 1017 adds that survival-first politics can operate at family scale, using staged alignment rather than a single irreversible camp choice.
 - In a lethal court, self-preservation can become a political operating discipline rather than a private weakness.
 - Survival-first actors avoid closing every path before succession, regency, or factional outcomes are known.
@@ -40,3 +43,4 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 - [[TacticalDelayRiskTransfer|延时转责式政治化解]] and [[WorldlyPoliticalCultivation|入世政治修行]] - part 4 extensions around no-win orders and remaining inside the political field.
 - [[BaidengEncirclement|白登之围]] and [[FanKuai|樊哙]] - part 4 cases where survival depends on indirect leverage and delayed finality.
 - [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], [[ChenGui|陈珪]], [[ChenDeng|陈登]], [[LyuBu|吕布]], [[CaoCao|曹操]], and [[GuanglingCommandery|广陵]] - late-Han family-survival and staged-alignment branch.
+- [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]], [[YuanShu|袁术]], [[HanYinLateHan|韩胤]], [[MingqiLegitimacy|名器合法性]], and [[MarriageAllianceWarExposure|联姻同盟战场暴露]] - prior refusal, marriage-blocking, and local-exposure branch.

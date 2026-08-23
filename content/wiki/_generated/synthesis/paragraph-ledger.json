@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b92d00a234edc209af84bf8ac6021cdd20660b9b641f0a99f267b86e0d2393af",
       "8236fb4b8eff8ecab0397d253c02e5cf870aa024a26418ed2b37a275eaa75332",
       "da73b0ab4bac8bfcd5b84274fa2bf2d849d3161fff59d2dd1efbe5864a01b531",
       "39b9b220c33ef0ac03b6eb5b92ce66403d711f2edbda663e9330b9b72575d56d",
@@ -128,11 +129,42 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 126
+    "paragraph_count": 127
   },
-  "overview_commit": "cd34330117931140fc3d98b9a0b21c87d98c617d",
-  "overview_digest": "2c29d9b9a8c042b5a1145b853c2d9647dae0e6fe22d3430d6eb9c6f058dcd464",
+  "overview_commit": "9166811491d42b69993e208db9dc5459d88cc934",
+  "overview_digest": "7946b6f8df9fab0d456399e9668aa56bb4f825f3ab16c1a1f016f0a70c8e45b3",
   "paragraphs": [
+    {
+      "id": "b92d00a234edc209af84bf8ac6021cdd20660b9b641f0a99f267b86e0d2393af",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that fills the setup immediately before [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]]. It turns \"名器\" into [[MingqiLegitimacy|名器合法性]]: [[YuanShu|袁术]] can seize the imperial name, but without enough capacity and recognition that title makes him punishable under [[EmperorXianOfHan|汉献帝]]'s court order rather than securely sovereign. [[ChenGui|陈珪]] applies that reading practically by refusing Yuan Shu's pressure through [[ChenDeng|陈登]] and by persuading [[LyuBu|吕布]] that marriage to Yuan Shu would create [[MarriageAllianceWarExposure|联姻同盟战场暴露]] for [[Xuzhou|徐州]]. [[HanYinLateHan|韩胤]]'s failed mission and execution make the alliance reversal visible, while [[KongRong|孔融]]'s mission to [[YuanShao|袁绍]] shows the same court title system still assigning recognized names to useful powers. This extends [[PoliticalSurvivalFirst|安全第一政治生存]] and [[XingshiqingStrategicAssessment|行势情战略评估]] by making symbolic legitimacy and local war exposure part of the Chen family's survival calculus.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ChenDeng",
+        "ChenGui",
+        "EmperorXianOfHan",
+        "HanYinLateHan",
+        "KongRong",
+        "LyuBu",
+        "MarriageAllianceWarExposure",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "Xuzhou",
+        "YuanShao",
+        "YuanShu",
+        "zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs",
+        "zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq"
+      ]
+    },
     {
       "id": "8236fb4b8eff8ecab0397d253c02e5cf870aa024a26418ed2b37a275eaa75332",
       "primary_topic": "governance-and-institutions",

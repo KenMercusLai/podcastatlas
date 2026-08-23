@@ -10565,3 +10565,11 @@ Added source page for Hanji 1017: Chen Deng's 197 CE meeting with Cao Cao, the "
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择
+
+Added source page for Hanji 1016: 名器 legitimacy, Yuan Shu's unsupported imperial claim, Chen Gui's refusal under Chen Deng hostage pressure, Jin Shang's refused title and death, Kong Rong's mission to Yuan Shao, Yuan Shu's marriage attempt through Han Yin, Lü Bu's reversal, and the Chen family's path toward Cao Cao. Created Yuan Shao, Jin Shang, Han Yin (late Han), Mingqi Legitimacy, and Marriage Alliance War Exposure; updated overview, index, Chen Gui, Chen Deng, Yuan Shu, Lü Bu, Cao Cao, Emperor Xian, Kong Rong, Xuzhou, Political Survival First, and Xingshiqing Strategic Assessment. No settled contradiction found.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

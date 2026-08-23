@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5158
+wiki_total_pages: 5160
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "MarketplaceLiveCommerce"
     title: "Marketplace Live Commerce"
     url: "/wiki/concepts/marketplacelivecommerce/"
+  - key: "MarriageAllianceWarExposure"
+    title: "Marriage Alliance War Exposure / 联姻同盟战场暴露"
+    url: "/wiki/concepts/marriagealliancewarexposure/"
   - key: "MarriageExitFriction"
     title: "Marriage Exit Friction"
     url: "/wiki/concepts/marriageexitfriction/"
@@ -509,6 +512,9 @@ wiki_pages:
   - key: "MindBodyUnion"
     title: "Mind-Body Union"
     url: "/wiki/concepts/mindbodyunion/"
+  - key: "MingqiLegitimacy"
+    title: "Mingqi Legitimacy / 名器合法性"
+    url: "/wiki/concepts/mingqilegitimacy/"
   - key: "MiniProgramGameMonetization"
     title: "Mini-Program Game Monetization / 小程序游戏变现"
     url: "/wiki/concepts/miniprogramgamemonetization/"

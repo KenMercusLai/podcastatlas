@@ -2,7 +2,7 @@
 title: "行势情战略评估 / Xingshiqing Strategic Assessment"
 type: concept
 tags: [strategy, statecraft, historiography, chu-han]
-sources: [zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
+sources: [zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
 last_updated: 2026-08-23
 ---
 
@@ -26,7 +26,10 @@ The episode also gives the positive contrast through [[XuChu|许褚]]. Xu Chu's 
 
 [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] supplies the prior family-survival version. Chen Deng reads Lü Bu as [[QingYuQuJiu|轻于去就]], while Chen Gui is interpreted as managing the family's risk in stages: use Lü Bu for short-term balance, use office and local force for medium-term capacity, and keep a long-term channel to [[CaoCao|曹操]]. The episode therefore makes "情" include a partner's exit habit and makes "势" include the timing of when a local family should shift its primary alignment.
 
+[[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] adds the prior legitimacy-and-exposure calculation. [[ChenGui|陈珪]] reads [[YuanShu|袁术]]'s imperial claim through [[MingqiLegitimacy|名器合法性]], refuses pressure built around [[ChenDeng|陈登]], and warns [[LyuBu|吕布]] that marriage with Yuan Shu would make [[Xuzhou|徐州]] absorb the wrong war. In this branch, "势" includes symbolic legitimacy and geography, while "情" includes Lü Bu's resentment, vanity, and willingness to reverse once the alliance is reframed.
+
 ## Key Claims
+- Hanji 1016 adds that "势" includes the legitimacy and geography created by titles and marriage alliances, not only troop counts or routes.
 - Hanji 1020 adds that "势" can be a regime-level legitimacy and talent question, not only a battlefield or route-choice question.
 - Hanji 1019 adds that a strong local order can still misread danger when an external rival's bad position makes assassination more likely.
 - Hanji 1018 adds that "势" can lie inside an alliance's incentive structure: a large coalition may be weak if its members can be given a better legitimacy-and-spoils path.
@@ -50,3 +53,4 @@ The episode also gives the positive contrast through [[XuChu|许褚]]. Xu Chu's 
 - [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]], [[LiuChongChenKing|刘宠]], [[LuoJun|骆俊]], [[ChenStateLateHan|陈国]], and [[YuanShu|袁术]] - local strength, grain refusal, and desperate-actor risk.
 - [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]], [[ChenDeng|陈登]], [[ChenGui|陈珪]], [[LyuBu|吕布]], [[HanXianLateHan|韩暹]], [[YangFengLateHan|杨奉]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - dependency, alliance incentives, and defection assessment.
 - [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], [[ChenDeng|陈登]], [[ChenGui|陈珪]], [[GuanglingCommandery|广陵]], [[CaoCao|曹操]], and [[QingYuQuJiu|轻于去就]] - staged family survival, local base-building, and unreliable-affiliation assessment.
+- [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]], [[ChenGui|陈珪]], [[YuanShu|袁术]], [[LyuBu|吕布]], [[MingqiLegitimacy|名器合法性]], and [[MarriageAllianceWarExposure|联姻同盟战场暴露]] - title legitimacy, marriage exposure, and actor-psychology assessment.

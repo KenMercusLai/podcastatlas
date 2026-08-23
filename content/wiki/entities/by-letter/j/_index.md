@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 6781
+wiki_total_pages: 6784
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1022,6 +1022,9 @@ wiki_pages:
   - key: "JinZicai"
     title: "金子才 / Jin Zicai"
     url: "/wiki/entities/jinzicai/"
+  - key: "JinShang"
+    title: "金尚 / Jin Shang"
+    url: "/wiki/entities/jinshang/"
   - key: "JinYong"
     title: "金庸 / Jin Yong"
     url: "/wiki/entities/jinyong/"

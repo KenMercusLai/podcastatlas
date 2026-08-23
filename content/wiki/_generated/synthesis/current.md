@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: cd34330117931140fc3d98b9a0b21c87d98c617d
-summary: "Podcast Atlas maps durable agency as systems work: AI, markets, governance, culture, science, and education depend on verification, trust, context, pacing, and staged commitments."
-episode_count: 1314
-source_count: 1314
-paragraph_count: 126
+as_of_overview_commit: 9166811491d42b69993e208db9dc5459d88cc934
+summary: "Podcast Atlas maps durable agency as systems work: AI, markets, governance, culture, science, and education depend on verification, trust, context, legitimacy, and pacing."
+episode_count: 1315
+source_count: 1315
+paragraph_count: 127
 topic_count: 8
 ---
 
@@ -49,14 +49,14 @@ The cultural sources use literature, folklore, games, and media forms as tools f
 
 ### Governance and Institutions
 
-Governance is presented as translation work: conquest becomes founding order, law becomes enforceable administration, markets become rule-bound information systems, and trust becomes both an asset and a liability. The late-Han branch now starts with Chen Deng and Chen Gui turning character reading and staged Guangling alignment into survival strategy before later coalition control, Chen state's decapitation risk, and Cao Cao's talent absorption under prosecution constraints.
+Governance is translation work: conquest becomes founding order, law becomes enforceable administration, markets become rule-bound information, and trust becomes an asset and liability. The late-Han branch now starts with title legitimacy and marriage-alliance exposure before Chen family survival, coalition control, Chen state decapitation risk, and Cao Cao's talent absorption under prosecution constraints.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-The history-and-geopolitics input links three kinds of historical change: late-Han local order can protect people yet remain exposed to leadership decapitation, early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, and mobile-phone leadership shifts when standards, platforms, channels, and supply chains move together.
+The history input now links late-Han title legitimacy and marriage exposure, late-Han local-order decapitation risk, early Chinese enforceable state systems, and handset-platform ecosystem shifts.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
