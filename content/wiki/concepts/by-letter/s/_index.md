@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5282
+wiki_total_pages: 5289
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "ServiceOrientedLocalGovernment"
     title: "Service-Oriented Local Government / 服务型地方政府"
     url: "/wiki/concepts/serviceorientedlocalgovernment/"
+  - key: "SettlerProvocationStrategy"
+    title: "Settler Provocation Strategy"
+    url: "/wiki/concepts/settlerprovocationstrategy/"
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "BarryPrizant"
     title: "Barry Prizant"
     url: "/wiki/entities/barryprizant/"
+  - key: "BartlebyColumn"
+    title: "Bartleby Column"
+    url: "/wiki/entities/bartlebycolumn/"
   - key: "BaruchSpinoza"
     title: "Baruch Spinoza / 斯宾诺莎"
     url: "/wiki/entities/baruchspinoza/"
@@ -329,6 +332,9 @@ wiki_pages:
   - key: "BetyeSaar"
     title: "Betye Saar"
     url: "/wiki/entities/betyesaar/"
+  - key: "BezalelSmotrich"
+    title: "Bezalel Smotrich"
+    url: "/wiki/entities/bezalelsmotrich/"
   - key: "BharatiyaJanataParty"
     title: "Bharatiya Janata Party"
     url: "/wiki/entities/bharatiyajanataparty/"

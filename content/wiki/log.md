@@ -10718,6 +10718,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | Settler bet: a West Bank flashpoint
+
+Added source page for a The Intelligence episode on West Bank settler outpost escalation, India's uniform civil-code politics, and Bartleby workplace satire. Created pages for Anshel Pfeffer, West Bank, Palestinians, Kusra, Tel Tel Piyot, Mike Huckabee, Itamar Ben-Gvir, Bezalel Smotrich, Uttarakhand, West Bengal, Assam, Gujarat, Madhya Pradesh, Khurshid Ahmed, Indian Muslims, Andrew Palmer, Bartleby Column, West Bank Outpost Escalation, Settler Provocation Strategy, Uniform Civil Code in India, Muslim Personal Law in India, Majoritarian Legal Uniformity, Live-In Relationship Registration, and Public-Figure Workplace Advice Satire; updated overview, index, The Intelligence, Economist Podcasts, Israel, Benjamin Netanyahu, Palestinian Question in Israeli Politics, Israeli Election 2026, India, Bharatiya Janata Party, Kira Huyu, Jared Kushner, Donald Trump, Upward Management, and Workplace Pacing. No direct contradiction found; the source deepens the existing Israel-election and India-governance branches with concrete implementation mechanisms.
+
 ## [2026-08-24] ingest | 不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？
 
 Added source page for a 声动早咖啡 episode on Whatnot and Western live shopping. Created pages for Whatnot, Geely Automobile, Li Shufu, An Conghui, Zeekr, Proya, Ulta Beauty, Haoyun Liande, Live Auction Commerce, Online Card Breaking, and Gambling-Adjacent Commerce Design; updated overview, index, Marketplace Live Commerce, Collectible Drop Scarcity, Intermittent Reinforcement, Addictive Interaction Design, ByteDance, Motion Picture Association, AI Content Licensing, Damai, Alibaba, Amazon, TikTok, and 声动早咖啡. No direct contradiction found; the source qualifies generic live-commerce optimism by showing that Whatnot's demand depends on collectible category fit, rapid auctions, card-break uncertainty, and source-scoped consumer-risk controls.
@@ -10893,6 +10897,10 @@ Added source page for a What's Next｜科技早知道 replay episode with Dong K
 ## [2026-08-24] lint | Wiki lint check
 
 Ran health, identity validation, and lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 13,606 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current wiki has 13,606 non-generated lint pages, so bridge findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries, and flagged thin concept depth / source-breadth risks for single-source pages such as `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/OracleBoneDivination.md`, `wiki/concepts/HumanDependentSafetySystem.md`, `wiki/concepts/DayZeroModelSupport.md`, and `wiki/concepts/EraTailwindInInvesting.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

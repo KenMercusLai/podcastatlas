@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5282
+wiki_total_pages: 5289
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "MajorEventAttentionConversion"
     title: "Major-Event Attention Conversion"
     url: "/wiki/concepts/majoreventattentionconversion/"
+  - key: "MajoritarianLegalUniformity"
+    title: "Majoritarian Legal Uniformity"
+    url: "/wiki/concepts/majoritarianlegaluniformity/"
   - key: "MakeToOrderLuxuryManufacturing"
     title: "Make-To-Order Luxury Manufacturing"
     url: "/wiki/concepts/maketoorderluxurymanufacturing/"
@@ -887,6 +890,9 @@ wiki_pages:
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"
+  - key: "MuslimPersonalLawIndia"
+    title: "Muslim Personal Law in India"
+    url: "/wiki/concepts/muslimpersonallawindia/"
   - key: "MuthosLogosTension"
     title: "Muthos Logos Tension"
     url: "/wiki/concepts/muthoslogostension/"

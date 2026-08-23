@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ff8d5e1ecffbd31906dfb80202dff1ee3e2ca38d3e412c988e94a88e717bd0cb",
       "c4548e80f0f55a8827d44e2a20ab4805bb20dcfc1b3812a71b4db15822a1c716",
       "933cd919c17f63322880bb6cbcaff7f15af6cde4d20a50b48a604e749e6d1d67",
       "dbbc2456c59d75f517d0ee3b95a89f8540f69d66f77ca4cc223210f842e22d38",
@@ -162,11 +163,40 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 160
+    "paragraph_count": 161
   },
-  "overview_commit": "a637492f768d8991b7261a4a3015365ef790a0bb",
-  "overview_digest": "500e8ca3160c33bda4457ab37172221bb0bfd85fcc2b0d273794e841d765eee9",
+  "overview_commit": "5ee60504400f2676507aacb6adce1b5db924bb4b",
+  "overview_digest": "4a669b325af405a4ce163a2b2ef138f535594f335ed35e52bf2511f28b6f0c07",
   "paragraphs": [
+    {
+      "id": "ff8d5e1ecffbd31906dfb80202dff1ee3e2ca38d3e412c988e94a88e717bd0cb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The new [[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] source adds a governance-through-implementation warning across two live political arenas. In the [[WestBank|West Bank]], [[WestBankOutpostEscalation]] shows how caravans, tents, herds, patrols, army ambiguity, and coalition protection can convert a small settler foothold into practical land control; [[SettlerProvocationStrategy]] adds that wider unrest may be useful to actors who want more army deployment and more land seizure before [[IsraeliElection2026]]. In [[India]], [[UniformCivilCodeIndia]] and [[MuslimPersonalLawIndia]] show a different form of asymmetric implementation: equal-law rhetoric can produce real women's-rights gains while still operating as [[MajoritarianLegalUniformity]] when [[IndianMuslims]] bear most of the adjustment and [[LiveInRelationshipRegistration]] expands state oversight of private life. The [[BartlebyColumn]] segment adds a lighter counterpart through [[PublicFigureWorkplaceAdviceSatire]], treating headline authority problems as ordinary failures of [[UpwardManagement]] and [[WorkplacePacing]].",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 4,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BartlebyColumn",
+        "India",
+        "IndianMuslims",
+        "IsraeliElection2026",
+        "LiveInRelationshipRegistration",
+        "MajoritarianLegalUniformity",
+        "MuslimPersonalLawIndia",
+        "PublicFigureWorkplaceAdviceSatire",
+        "SettlerProvocationStrategy",
+        "UniformCivilCodeIndia",
+        "UpwardManagement",
+        "WestBank",
+        "WestBankOutpostEscalation",
+        "WorkplacePacing",
+        "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d"
+      ]
+    },
     {
       "id": "c4548e80f0f55a8827d44e2a20ab4805bb20dcfc1b3812a71b4db15822a1c716",
       "primary_topic": "business-and-markets",

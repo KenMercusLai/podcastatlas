@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "Palantir"
     title: "Palantir"
     url: "/wiki/entities/palantir/"
+  - key: "Palestinians"
+    title: "Palestinians"
+    url: "/wiki/entities/palestinians/"
   - key: "PaloAltoInternetExchange"
     title: "Palo Alto Internet Exchange"
     url: "/wiki/entities/paloaltointernetexchange/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5282
+wiki_total_pages: 5289
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "PublicBenefitPrivateValueCapture"
     title: "Public-Benefit Private Value Capture"
     url: "/wiki/concepts/publicbenefitprivatevaluecapture/"
+  - key: "PublicFigureWorkplaceAdviceSatire"
+    title: "Public-Figure Workplace Advice Satire"
+    url: "/wiki/concepts/publicfigureworkplaceadvicesatire/"
   - key: "PublicPrivateMarketDiscipline"
     title: "Public-Private Market Discipline"
     url: "/wiki/concepts/publicprivatemarketdiscipline/"

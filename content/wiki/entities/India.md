@@ -2,11 +2,13 @@
 title: "India"
 type: entity
 tags: [country, law, social-policy, asia, politics, education]
-sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8, how-to-get-through-the-strait-of-hormuz, how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-08-08
+sources: [settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8, how-to-get-through-the-strait-of-hormuz, how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-24
 ---
 
 # India
+
+[[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] adds India as a family-law and minority-politics case. [[KiraHuyu|Kira Huju]] explains [[UniformCivilCodeIndia|uniform civil codes]] in BJP-ruled states as a policy with liberal equal-law language, some women's-rights gains, and a [[MajoritarianLegalUniformity]] risk because [[IndianMuslims]] bear much of the practical change.
 
 [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds India as a public-safety and infrastructure-accountability case. [[LeoMirani]] describes repeated deaths from falling billboards, trees, canopies, school roofs, industrial materials, and other objects, arguing that weather and aging structures matter but weak enforcement, corruption, small fines, and poor accountability make the pattern systemic.
 
@@ -32,3 +34,4 @@ In the wiki, India becomes one of the source's examples for [[FilialPietyLaws]] 
 - [[ChristianStClair]], [[FantagraphicsBooks]], [[HamidHosseini]], [[SepahNavy]], and [[MaritimeChokepointTolling]] - Planet Money branch where India appears in both cargo origin and oil-destination roles.
 - [[CockroachMovement]], [[NationalEligibilityCumEntranceTest]], [[DharmendraPradhan]], [[BharatiyaJanataParty]], [[Delhi]], [[EducationAccountabilityProtest]], and [[DissentSpaceCompression]] - youth protest and education-accountability branch added by The Intelligence.
 - [[LeoMirani]], [[FallingObjectPublicSafety]], [[InfrastructureAccountabilityGap]], [[BureaucraticRiskAvoidance]], and [[DisasterResponseStateCapacity]] - public-safety and infrastructure-accountability branch added by The Intelligence.
+- [[UniformCivilCodeIndia]], [[MuslimPersonalLawIndia]], [[MajoritarianLegalUniformity]], [[LiveInRelationshipRegistration]], [[Uttarakhand]], [[WestBengal]], [[Assam]], [[Gujarat]], [[MadhyaPradesh]], [[KhurshidAhmed]], and [[IndianMuslims]] - family-law and minority-politics branch added by the later The Intelligence source.

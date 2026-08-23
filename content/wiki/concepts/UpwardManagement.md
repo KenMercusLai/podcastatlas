@@ -2,13 +2,15 @@
 title: "Upward Management"
 type: concept
 tags: [career, workplace, communication, management]
-sources: [ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]
-last_updated: 2026-07-07
+sources: [settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d, ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]
+last_updated: 2026-08-24
 ---
 
 # Upward Management
 
 Upward management is the practice of influencing bosses and other higher-power stakeholders through clear communication, expectation setting, and decision support. In [[ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp]], the hosts define it against two extremes: passively waiting for a good boss to notice work, and treating a bad boss as someone to be "整顿". [[ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]] adds a more tactical version: employees can manage difficult-task expectations, make output easier for the boss to see, and sequence work so recovery time does not erase delivery. [[ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]] adds a boss-resource version: employees often cannot choose their boss, but a boss with authority, information, and willingness to sponsor can change career outcomes.
+
+[[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] adds a satirical branch through the [[BartlebyColumn]]. In [[PublicFigureWorkplaceAdviceSatire]], disguised public figures are advised as if they had ordinary management problems: hold pre-meetings, manage conflicting bosses, avoid public contempt for supervisors, and make time for thinking before public pressure takes over.
 
 ## Key Claims
 - The employee's first job is to understand the boss's real demand, not only the literal task sentence.
@@ -30,3 +32,4 @@ Upward management is the practice of influencing bosses and other higher-power s
 - [[InternshipAsCareerExploration]] — earlier career-stage concept that teaches why goals and communication context matter.
 - [[YiLaoYongYi]] — show context for the source that defines the concept.
 - [[WorkplaceRelationshipBoundaries]] — boss, colleague, and friendship roles should not be collapsed.
+- [[BartlebyColumn]] and [[PublicFigureWorkplaceAdviceSatire]] - satirical source branch turning public controversies into upward-management problems.

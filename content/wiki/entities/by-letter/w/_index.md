@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -221,6 +221,12 @@ wiki_pages:
   - key: "WestAfrica"
     title: "West Africa"
     url: "/wiki/entities/westafrica/"
+  - key: "WestBank"
+    title: "West Bank"
+    url: "/wiki/entities/westbank/"
+  - key: "WestBengal"
+    title: "West Bengal"
+    url: "/wiki/entities/westbengal/"
   - key: "WestVirginia"
     title: "West Virginia"
     url: "/wiki/entities/westvirginia/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5282
+wiki_total_pages: 5289
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "LiveActionShortDrama"
     title: "Live-Action Short Drama"
     url: "/wiki/concepts/liveactionshortdrama/"
+  - key: "LiveInRelationshipRegistration"
+    title: "Live-In Relationship Registration"
+    url: "/wiki/concepts/liveinrelationshipregistration/"
   - key: "LivestockCareEconomics"
     title: "Livestock Care Economics"
     url: "/wiki/concepts/livestockcareeconomics/"

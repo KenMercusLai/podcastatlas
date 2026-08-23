@@ -2,11 +2,13 @@
 title: "Benjamin Netanyahu"
 type: entity
 tags: [person, politics, israel]
-sources: [in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-08-08
+sources: [settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-08-24
 ---
 
 # Benjamin Netanyahu
+
+[[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] adds a [[WestBank|West Bank]] settler-violence constraint to Netanyahu's election and coalition branch. [[AnshelPfeffer]] says Netanyahu and the rest of the government are largely silent because far-right and settler parties are political partners before [[IsraeliElection2026]], leaving [[WestBankOutpostEscalation]] weakly checked.
 
 [[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds Netanyahu as an opportunistic wartime actor in the renewed [[Israel]]-[[Iran]] conflict. [[LiuYiSanlian|刘仪]] argues that Netanyahu historically avoided large military risks, but after October 7, mainstream Israeli support for military retaliation made war a lower-risk route for delaying accountability and pursuing a long-term goal of destroying Iran's strategic threat.
 
@@ -28,3 +30,4 @@ The source treats Netanyahu less as a biographical subject than as a coalition o
 - [[LindseyGraham]] and [[RepublicanForeignPolicyAdaptation]] - U.S. Republican support branch added by The Intelligence.
 - [[Iran]], [[DonaldTrump]], [[IranHorizontalEscalation]], and [[IranNuclearMissileBargaining]] - EP251 conflict and bargaining branch.
 - [[GazaDealImplementationGap]], [[DisarmamentWithdrawalSequencing]], and [[BoardOfPeace]] - later Gaza-deal implementation branch.
+- [[WestBank]], [[ItamarBenGvir]], [[BezalelSmotrich]], [[WestBankOutpostEscalation]], and [[SettlerProvocationStrategy]] - later source branch on coalition pressure and settler violence.

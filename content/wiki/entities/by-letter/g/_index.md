@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "Guizhou"
     title: "Guizhou"
     url: "/wiki/entities/guizhou/"
+  - key: "Gujarat"
+    title: "Gujarat"
+    url: "/wiki/entities/gujarat/"
   - key: "GulfCooperationCouncil"
     title: "Gulf Cooperation Council"
     url: "/wiki/entities/gulfcooperationcouncil/"

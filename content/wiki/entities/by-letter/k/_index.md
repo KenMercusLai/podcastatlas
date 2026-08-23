@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "KhmerEmpire"
     title: "Khmer Empire / 吴哥王朝"
     url: "/wiki/entities/khmerempire/"
+  - key: "KhurshidAhmed"
+    title: "Khurshid Ahmed"
+    url: "/wiki/entities/khurshidahmed/"
   - key: "Kickstarter"
     title: "Kickstarter"
     url: "/wiki/entities/kickstarter/"
@@ -425,6 +428,9 @@ wiki_pages:
   - key: "Kuse"
     title: "Kuse"
     url: "/wiki/entities/kuse/"
+  - key: "Kusra"
+    title: "Kusra"
+    url: "/wiki/entities/kusra/"
   - key: "Kyiv"
     title: "Kyiv"
     url: "/wiki/entities/kyiv/"

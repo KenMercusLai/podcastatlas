@@ -2,7 +2,7 @@
 title: "Workplace Pacing"
 type: concept
 tags: [career, workplace, productivity]
-sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
+sources: [settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d, ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
 last_updated: 2026-08-24
 ---
 
@@ -25,6 +25,8 @@ The concept is deliberately not a universal excuse for doing less work. The epis
 [[ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh]] adds menopause pacing. [[WorkplaceMenopauseSupport]] turns pacing from a private tactic into an accommodation question: hot flashes, sleep disruption, mood changes, or medical visits may need environmental, schedule, and communication norms if experienced workers are not to absorb the cost silently.
 
 [[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds AI-adoption pacing. The episode argues that individuals do not have to absorb the full anxiety of platform firms, employers, or capital markets; pacing can mean learning useful tools while refusing FOMO-driven token spending, replacement slogans, and automatic workload escalation.
+
+[[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] adds a comic public-leadership version through [[BartlebyColumn]] advice about leaving a major job, waiting before the next role, and blocking out thinking time when meetings and public attention crowd out judgment. The source connects pacing to [[PublicFigureWorkplaceAdviceSatire]] rather than presenting it as a formal productivity framework.
 
 ## Key Claims
 - Recovery time can be rational when work has high pressure, long hours, emotional load, or bursty client demands.
@@ -59,3 +61,4 @@ The concept is deliberately not a universal excuse for doing less work. The epis
 - [[VacationShame]], [[WorkRestBoundary]], and [[LongVacationRecovery]] - EP265's leave and recovery extension.
 - [[WorkplaceMenopauseSupport]] and [[WomenWorkplaceProgressStall]] - EP274's menopause accommodation and retention branch.
 - [[AIUsePacing]], [[AIProductivityRatchet]], and [[TokenMaxxing]] - EP275's AI-adoption pacing branch.
+- [[BartlebyColumn]], [[AndrewPalmer]], and [[PublicFigureWorkplaceAdviceSatire]] - satirical leadership and time-management branch added by The Intelligence.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Settler bet: a West Bank flashpoint](sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d.md) — The Intelligence episode on West Bank settler outpost escalation, India's uniform civil-code politics, and Bartleby's public-figure workplace satire.
 - [不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？](sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138.md) — 声动早咖啡 episode on Whatnot, Western live-shopping fit, collectible auctions, card breaks, gamified retention, overspending risk, and short updates on Geely, ByteDance-MPA copyright protection, Proya/Ulta, and Damai's toy-IP move.
 - [151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！](sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u.md) — 张小珺Jùn episode with Su Tinghao on AI self-study, ICML 2026 attention research, AI-native school use, job and meaning anxiety, AI companionship, and happiness as a life anchor.
 - [Getting entrepreneurial in Korea (Summer School)](sources/getting-entrepreneurial-in-korea-summer-school.md) — Planet Money Summer School episode on South Korea's development playbook, export discipline, Bangladesh's garment knowledge transfer, flying-geese industrialization, and North Korea's constrained donju entrepreneurship.
@@ -1365,6 +1366,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Anshel Pfeffer](entities/AnshelPfeffer.md) — The Intelligence correspondent explaining West Bank settler violence, outpost escalation, and coalition incentives.
+- [West Bank](entities/WestBank.md) — Territory framed as a flashpoint where settler outposts, Palestinian land access, and Israeli election politics interact.
+- [Palestinians](entities/Palestinians.md) — People/community context connecting West Bank land access, Gaza governance, and the Palestinian question in Israeli politics.
+- [Kusra](entities/Kusra.md) — Palestinian village at the center of the Tel Tel Piyot settler-outpost incident.
+- [Tel Tel Piyot](entities/TelTelPiyot.md) — New West Bank settler outpost used as the source's concrete land-control escalation case.
+- [Mike Huckabee](entities/MikeHuckabee.md) — U.S. ambassador in Jerusalem whose criticism and embassy intervention made the Kusra case harder to ignore.
+- [Itamar Ben-Gvir](entities/ItamarBenGvir.md) — Israeli minister cited as a political backer of settlers in the West Bank escalation source.
+- [Bezalel Smotrich](entities/BezalelSmotrich.md) — Israeli minister tied to settlement funding and far-right coalition leverage in the source.
+- [Uttarakhand](entities/Uttarakhand.md) — First Indian state in the source's uniform civil-code implementation account.
+- [West Bengal](entities/WestBengal.md) — Larger prospective Indian uniform-civil-code test because of its Muslim population share and political stakes.
+- [Assam](entities/Assam.md) — BJP-ruled Indian state listed as having passed a uniform civil-code version.
+- [Gujarat](entities/Gujarat.md) — BJP-ruled Indian state listed as having passed a uniform civil-code version.
+- [Madhya Pradesh](entities/MadhyaPradesh.md) — BJP-ruled Indian state listed as having passed a uniform civil-code version.
+- [Khurshid Ahmed](entities/KhurshidAhmed.md) — Uttarakhand Muslim social activist whose objection grounds the source's personal-law conflict.
+- [Indian Muslims](entities/IndianMuslims.md) — Minority community most directly affected by the source's uniform civil-code and personal-law debate.
+- [Andrew Palmer](entities/AndrewPalmer.md) — The Intelligence voice introducing the Bartleby workplace-advice satire segment.
+- [Bartleby Column](entities/BartlebyColumn.md) — Economist management-satire format used to turn public controversies into workplace advice.
 - [Whatnot](entities/Whatnot.md) — Live-shopping marketplace that fits Western demand around collectibles, fast auctions, card breaks, and room-level rewards.
 - [Geely Automobile / 吉利汽车](entities/GeelyAutomobile.md) — Chinese automaker whose source-scoped governance update links Li Shufu, An Conghui, and Zeekr integration.
 - [Li Shufu / 李书福](entities/LiShufu.md) — Geely founder who steps down as chair in the source's governance update.
@@ -8376,6 +8394,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [West Bank Outpost Escalation](concepts/WestBankOutpostEscalation.md) — Pattern where small settler footholds near Palestinian land become tools for changing practical control and provoking clashes.
+- [Settler Provocation Strategy](concepts/SettlerProvocationStrategy.md) — Warning that some settlers may benefit from wider West Bank confrontation because it can justify more army deployment and land seizure.
+- [Uniform Civil Code in India](concepts/UniformCivilCodeIndia.md) — State-level equal-civil-law project whose implementation can shift minority family-law practices.
+- [Muslim Personal Law in India](concepts/MuslimPersonalLawIndia.md) — Marriage, divorce, and inheritance sphere constrained by state-level uniform civil codes in the source.
+- [Majoritarian Legal Uniformity](concepts/MajoritarianLegalUniformity.md) — Equal-law rhetoric that in practice makes minorities conform to majority-rooted norms.
+- [Live-In Relationship Registration](concepts/LiveInRelationshipRegistration.md) — Uttarakhand cohabitation-reporting rule treated by the source as personal-life surveillance.
+- [Public-Figure Workplace Advice Satire](concepts/PublicFigureWorkplaceAdviceSatire.md) — Bartleby method of translating public controversies into ordinary workplace advice problems.
 - [Live Auction Commerce](concepts/LiveAuctionCommerce.md) — Real-time video marketplace format where sellers use fast auctions, chat, countdowns, and feedback to sell nonstandard goods.
 - [Online Card Breaking](concepts/OnlineCardBreaking.md) — Live trading-card format where buyers purchase shares before sealed cards are opened and allocated by stated rules.
 - [Gambling-Adjacent Commerce Design](concepts/GamblingAdjacentCommerceDesign.md) — Commerce risk pattern where uncertainty, rapid repeat decisions, social competition, and rare rewards resemble gambling mechanics.

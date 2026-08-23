@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "USDC"
     title: "USDC"
     url: "/wiki/entities/usdc/"
+  - key: "Uttarakhand"
+    title: "Uttarakhand"
+    url: "/wiki/entities/uttarakhand/"
   - key: "UglyFrogGame"
     title: "丑蛙 / Ugly Frog game"
     url: "/wiki/entities/uglyfroggame/"

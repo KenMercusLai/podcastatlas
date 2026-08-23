@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "MadeGood"
     title: "MadeGood"
     url: "/wiki/entities/madegood/"
+  - key: "MadhyaPradesh"
+    title: "Madhya Pradesh"
+    url: "/wiki/entities/madhyapradesh/"
   - key: "Maextro"
     title: "Maextro / 尊界"
     url: "/wiki/entities/maextro/"
@@ -740,6 +743,9 @@ wiki_pages:
   - key: "MikeHomer"
     title: "Mike Homer"
     url: "/wiki/entities/mikehomer/"
+  - key: "MikeHuckabee"
+    title: "Mike Huckabee"
+    url: "/wiki/entities/mikehuckabee/"
   - key: "MikeIsaac"
     title: "Mike Isaac"
     url: "/wiki/entities/mikeisaac/"

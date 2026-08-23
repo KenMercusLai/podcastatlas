@@ -2,11 +2,13 @@
 title: "Israel"
 type: entity
 tags: [country, geopolitics, security]
-sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-08-08
+sources: [settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d, socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-08-24
 ---
 
 # Israel
+
+[[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] adds Israel through [[WestBank|West Bank]] settler violence and state ambiguity rather than Gaza or Lebanon diplomacy. [[AnshelPfeffer]] says Israeli government and army responses vary from eviction to standing aside to helping settlers, while [[ItamarBenGvir]] and [[BezalelSmotrich]] provide political backing that makes [[BenjaminNetanyahu]]'s coalition reluctant to confront [[WestBankOutpostEscalation]].
 
 [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds Israel as a U.S. primary-politics issue rather than as the direct subject of a Middle East segment. The source says [[AbdulElSayed]] opposes aid to Israel and that [[MikeRogers]] is likely to attack him over Israel in the [[Michigan]] Senate race.
 
@@ -40,3 +42,4 @@ The source frames Israel's behavior through security skepticism. Israeli forces 
 - [[LindseyGraham]] and [[RepublicanForeignPolicyAdaptation]] - U.S. Republican support branch added by the later The Intelligence source.
 - [[IranNuclearMissileBargaining]], [[IranHorizontalEscalation]], and [[ResistanceAxisBackfire]] - EP251's threat and escalation branch.
 - [[GazaDealImplementationGap]], [[DisarmamentWithdrawalSequencing]], [[InternationalVerificationCommittee]], and [[BoardOfPeace]] - Gaza deal implementation branch added by the later The Intelligence source.
+- [[WestBank]], [[Kusra]], [[TelTelPiyot]], [[WestBankOutpostEscalation]], [[SettlerProvocationStrategy]], [[ItamarBenGvir]], [[BezalelSmotrich]], and [[MikeHuckabee]] - West Bank settler-violence branch added by the later The Intelligence source.

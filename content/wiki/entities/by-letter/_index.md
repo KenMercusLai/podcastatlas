@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "AndrewNg"
     title: "Andrew Ng"
     url: "/wiki/entities/andrewng/"
+  - key: "AndrewPalmer"
+    title: "Andrew Palmer"
+    url: "/wiki/entities/andrewpalmer/"
   - key: "AndrewRossSorkin"
     title: "Andrew Ross Sorkin"
     url: "/wiki/entities/andrewrosssorkin/"
@@ -851,6 +854,9 @@ wiki_pages:
   - key: "AnnieCrabill"
     title: "Annie Crabill"
     url: "/wiki/entities/anniecrabill/"
+  - key: "AnshelPfeffer"
+    title: "Anshel Pfeffer"
+    url: "/wiki/entities/anshelpfeffer/"
   - key: "AntaSports"
     title: "Anta Sports / 安踏"
     url: "/wiki/entities/antasports/"
@@ -1049,6 +1055,9 @@ wiki_pages:
   - key: "ASML"
     title: "ASML / 阿斯麦"
     url: "/wiki/entities/asml/"
+  - key: "Assam"
+    title: "Assam"
+    url: "/wiki/entities/assam/"
   - key: "AstraZeneca"
     title: "AstraZeneca / 阿斯利康"
     url: "/wiki/entities/astrazeneca/"

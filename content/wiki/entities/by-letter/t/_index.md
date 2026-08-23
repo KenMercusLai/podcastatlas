@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "Teespring"
     title: "Teespring"
     url: "/wiki/entities/teespring/"
+  - key: "TelTelPiyot"
+    title: "Tel Tel Piyot"
+    url: "/wiki/entities/teltelpiyot/"
   - key: "Telangana"
     title: "Telangana"
     url: "/wiki/entities/telangana/"

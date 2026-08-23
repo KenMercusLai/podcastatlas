@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5282
+wiki_total_pages: 5289
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "UnifiedRobotModels"
     title: "Unified Robot Models"
     url: "/wiki/concepts/unifiedrobotmodels/"
+  - key: "UniformCivilCodeIndia"
+    title: "Uniform Civil Code in India"
+    url: "/wiki/concepts/uniformcivilcodeindia/"
   - key: "UnilateralAIPauseCommitments"
     title: "Unilateral AI Pause Commitments"
     url: "/wiki/concepts/unilateralaipausecommitments/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5282
+wiki_total_pages: 5289
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "WestAfricaCocaineTransit"
     title: "West Africa Cocaine Transit"
     url: "/wiki/concepts/westafricacocainetransit/"
+  - key: "WestBankOutpostEscalation"
+    title: "West Bank Outpost Escalation"
+    url: "/wiki/concepts/westbankoutpostescalation/"
   - key: "WesternChinaMisreading"
     title: "Western China Misreading / 西方对中国的误读"
     url: "/wiki/concepts/westernchinamisreading/"

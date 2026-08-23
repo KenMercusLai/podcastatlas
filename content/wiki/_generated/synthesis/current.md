@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: a637492f768d8991b7261a4a3015365ef790a0bb
-summary: "Durable value needs capability grounded by workflows, markets, institutions, evidence, physical constraints, and human judgment."
-episode_count: 1357
-source_count: 1357
-paragraph_count: 160
+as_of_overview_commit: 5ee60504400f2676507aacb6adce1b5db924bb4b
+summary: "Durable value depends on capability translated through workflows, markets, institutions, evidence, physical constraints, human judgment, and implementation power."
+episode_count: 1358
+source_count: 1358
+paragraph_count: 161
 topic_count: 8
 ---
 
@@ -17,26 +17,26 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
-- [[getting-entrepreneurial-in-korea-summer-school]] adds that development playbooks need competitive and institutional discipline: [[ExportDiscipline]] makes [[SouthKorea|South Korea]]'s subsidies face world-market proof, [[TextileKnowledgeTransfer]] and [[MultiFiberArrangement]] help [[Bangladesh]] enter garments without guaranteeing movement up the [[IndustrialLadder]], and [[DonjuMarketClass]] in [[NorthKorea|North Korea]] shows entrepreneurship can be captured when [[PropertyRightsAsInvestmentIncentive]] is absent.
+- [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
-- The Korea Summer School source adds a development-governance case: [[LandReformEqualityDevelopment]], [[StrategicIndustrialPolicy]], and [[ExportDiscipline]] help explain [[SouthKorea|South Korea]]'s rise, while [[DonjuMarketClass]], [[PropertyRightsAsInvestmentIncentive]], [[InformalPropertyRightsProtection]], and [[MarxistLeninistStateCapacity]] show why [[NorthKorea|North Korea]]'s market energy remains politically capturable rather than development-protective.
+- Implementation power can outrun formal rule claims: [[WestBankOutpostEscalation]] shows how outposts, army ambiguity, and coalition protection turn land control into facts before politics resolves them, while [[UniformCivilCodeIndia]], [[MuslimPersonalLawIndia]], [[MajoritarianLegalUniformity]], and [[LiveInRelationshipRegistration]] show equal-law language shifting minority family-law practice and state oversight; [[PublicFigureWorkplaceAdviceSatire]] supplies a lighter governance analogy where authority failures are translated into ordinary management problems.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet.
 - [[Zhuque3]] shows that reusable launch is not proven by ascent or a near landing alone; [[RocketRecoveryBinaryOutcome]], [[ReuseFirstRocketDesign]], [[RecoveryRangePayloadTradeoff]], and [[ReusableRocketTurnaround]] all have to close before [[ReusableRocketEconomics]] is demonstrated.
-- [[AINativeYouthResearch]] shows that public courses, videos, chatbots, small-model experiments, and review workflows can let a student such as [[SuTinghao]] reach [[InternationalConferenceOnMachineLearning|ICML]]-adjacent work, but the same path needs [[ResearchTaste]], [[AIUsePacing]], and human grounding.
+- Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough.
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-AI value depends on workflow integration, verification, permissions, product economics, physical grounding, safety defaults, and operational deployment rather than model capability alone.
+AI value depends on workflow integration, verification, permissions, product economics, physical grounding, safety defaults, security resilience, and operational deployment rather than model capability alone.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
 
 ### Business and Markets
 
-Markets reward repeatable value: category fit, distribution, payment proof, operations, trust, valuation discipline, and development-policy discipline decide whether capability or attention lasts.
+Markets reward repeatable value: category fit, distribution, payment proof, operations, trust, valuation discipline, local control, infrastructure security, and development-policy discipline decide whether capability or attention lasts.
 
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]].
@@ -49,7 +49,7 @@ Culture and media sources use literature, games, folklore, and media forms to te
 
 ### Governance and Institutions
 
-Governance turns power, rules, markets, symbols, trust, and development policy into durable order only when legitimacy, feedback, competition, and property protection hold.
+Governance turns power, rules, markets, symbols, trust, and development policy into durable order only when legitimacy, feedback, competition, property protection, and implementation incentives hold. The latest source adds West Bank outpost escalation, India's uniform civil-code politics, and Bartleby satire as cases where formal rules are reshaped by on-the-ground enforcement or management practice.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
@@ -77,7 +77,7 @@ Science, health, climate, and space-engineering claims become credible through p
 
 ### Work, Education, and Society
 
-Work and education change when capability is translated into workflows, ownership, training, implementation systems, peer community, trust, and responsibility.
+Work and education change when capability is translated into workflows, ownership, training, implementation systems, peer community, trust, and responsibility. AI adoption and career development both need staged evidence rather than access alone.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

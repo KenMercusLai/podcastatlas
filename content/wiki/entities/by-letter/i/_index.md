@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 7007
+wiki_total_pages: 7024
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "India"
     title: "India"
     url: "/wiki/entities/india/"
+  - key: "IndianMuslims"
+    title: "Indian Muslims"
+    url: "/wiki/entities/indianmuslims/"
   - key: "IndianaUniversity"
     title: "Indiana University"
     url: "/wiki/entities/indianauniversity/"
@@ -263,6 +266,9 @@ wiki_pages:
   - key: "ItalianFascism"
     title: "Italian Fascism / 意大利法西斯主义"
     url: "/wiki/entities/italianfascism/"
+  - key: "ItamarBenGvir"
+    title: "Itamar Ben-Gvir"
+    url: "/wiki/entities/itamarbengvir/"
   - key: "Itochu"
     title: "Itochu / 伊藤忠商事"
     url: "/wiki/entities/itochu/"
