@@ -2,7 +2,7 @@
 title: "张敖 / Zhang Ao"
 type: entity
 tags: [person, chu-han, zhao, ruler]
-sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ This page also keeps Zhang Ao separate from the earlier [[ZhangEr|张耳]] page.
 
 The episode makes Zhang Ao a loyalty counterpoint to his ministers. [[GuanGao|贯高]] and [[ZhaoWuZhaoMinister|赵午]] want to kill Liu Bang to avenge the humiliation, but Zhang Ao bites his finger and stops them, arguing that his father lost his state and recovered it only through Liu Bang's grace. Zhang Ao therefore becomes the restrained center of a [[VassalHumiliationConspiracy|vassal humiliation conspiracy]]: the king refuses rebellion, while ministers privately radicalize on his behalf.
 
+[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] shows the ministers' private radicalization continuing despite Zhang Ao's refusal. Guan Gao and Zhao Wu arrange the failed 百人县 ambush without making Zhang Ao the visible sponsor. The same episode also sharpens Zhang Ao's household link because [[LuYuanPrincess|鲁元公主]], his wife, is the princess [[LouJing|刘敬 / 楼敬]] proposes sending to [[MaoDunChanyu|冒顿单于]] for heqin.
+
 ## Connections
+- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[GuanGao|贯高]], [[ZhaoWuZhaoMinister|赵午]], [[LuYuanPrincess|鲁元公主]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - failed ambush continuation and proposed removal of Zhang Ao's wife into frontier policy.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]], [[LuYuanPrincess|鲁元公主]], [[GuanGao|贯高]], [[ZhaoWuZhaoMinister|赵午]], [[Handan|邯郸]], and [[VassalHumiliationConspiracy|诸侯王羞辱触发谋刺]] - marriage alliance, humiliation, refusal, and ministerial conspiracy.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[XiaoHe|萧何]], [[CaoShen|曹参]], and [[FoundingMeritHierarchy|建国功臣排序]] - third position in the first-class merit ranking.
 - [[LiuBang|刘邦]] - ruler whom Zhang Ao joins in urging toward imperial title.

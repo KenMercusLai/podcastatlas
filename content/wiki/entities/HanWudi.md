@@ -2,8 +2,8 @@
 title: "Emperor Wu of Han / 汉武帝"
 type: entity
 tags: [person, emperor, china, western-han, fangshu]
-sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+last_updated: 2026-08-23
 ---
 
 # Emperor Wu of Han / 汉武帝
@@ -18,6 +18,8 @@ The same source also makes Han Wudi central to [[WuguPoliticalPanic|巫蛊之乱
 
 [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] adds Han Wudi as Sima Guang's negative afterexample in the [[WeiyangPalace|未央宫]] discussion. Sima Guang argues that early Western Han palace grandeur helped set a precedent whose later expansion under Han Wudi exhausted the people.
 
+[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] adds Han Wudi as the endpoint of the early [[HanXiongnuHeqinPolicy|汉匈和亲政策]] phase. The episode says heqin continues from [[LiuBang|刘邦]] through the early Western Han reigns and eases but does not end Xiongnu harassment; when Han Wudi succeeds, the policy is abandoned and the dynasty turns toward war with [[Xiongnu|匈奴]].
+
 ## Key Claims
 - The source treats Han Wudi's求仙 as a political and fiscal system, not only a private obsession.
 - Fangshi repeatedly convert failure into claims of hidden success, distance, obstruction, or the practitioner's own transcendence.
@@ -26,6 +28,7 @@ The same source also makes Han Wudi central to [[WuguPoliticalPanic|巫蛊之乱
 - Qinji 105 uses Han Wudi only as a later resource comparison: Western Han can sustain expensive anti-Xiongnu offensives that Zhao in Li Mu's time could not.
 - Hanji 150 PLUS uses Han Wudi as a calendar-standardization anchor for the traditional naming of 元旦.
 - Hanji 178 part 2 uses Han Wudi as a later warning about palace-building precedent and the fiscal-moral cost of imperial grandeur.
+- Hanji 179 uses Han Wudi as the later break point where early Han heqin gives way to military confrontation with Xiongnu.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -37,3 +40,4 @@ The same source also makes Han Wudi central to [[WuguPoliticalPanic|巫蛊之乱
 - [[LiMu|李牧]], [[Xiongnu|匈奴]], [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Qinji 105 contrast between constrained Zhao defense and later Western Han offensive resources.
 - [[YuanDanFestivalLayering|元旦节日层累]] and [[CalendarReformLegitimacy|历法改革与政治合法性]] - New Year calendar role added by Hanji 150 PLUS.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]], [[SimaGuang|司马光]], [[WeiyangPalace|未央宫]], and [[UntimelyExtravagance|时绌举赢]] - later palace-exhaustion warning in Sima Guang's critique.
+- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], and [[Xiongnu|匈奴]] - endpoint of early Han heqin and turn to war.

@@ -10413,3 +10413,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》179｜历史上“和亲”怎么来的
+
+Added source page for Hanji 179: Gaozu eighth-year post-Baideng pressure, the failed 百人县 assassination attempt by Guan Gao and Zhao Wu, early Han 重农轻商 restrictions, Liu Jing's concrete heqin design, Lu Zhi's resistance to sending Lu Yuan Princess, and the policy's later limits before Han Wudi's military turn. Created Heavy Agriculture and Light Commerce Policy; updated overview, index, Liu Bang, Liu Jing/Lou Jing, Lu Zhi, Lu Yuan Princess, Modu Chanyu, Xiongnu, Western Han, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, and related frontier pages. No settled contradiction found; the Tang/Qing/Song/Ming comparison is kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

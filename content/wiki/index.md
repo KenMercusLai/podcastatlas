@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》179｜历史上“和亲”怎么来的](sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1.md) — 芮淇讲透资治通鉴 episode on Liu Jing's concrete heqin proposal, Lu Zhi's resistance, post-Baideng northern pressure, early Han 重农轻商 policy, and the failed 百人县 assassination attempt.
 - [《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）](sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Baideng return through Chen Ping's Quni reward, Zhang Ao's humiliation crisis, Dai succession, Weiyang Palace, Zongzheng, and the heqin policy turn.
 - [《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）](sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym.md) — 芮淇讲透资治通鉴 episode completing Baideng through Chen Ping's Yanzhi channel, Modu's release calculus, Liu Bang's controlled withdrawal, Liu Jing's vindication, and the heqin proposal.
 - [《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线](sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on.md) — 芮淇讲透资治通鉴 episode on Han Wang Xin's post-Mayi Xiongnu alignment, Liu Bang's northern campaign, Liu Jing's rejected warning about deliberate Xiongnu weakness, and Modu's cavalry trap at Baideng.
@@ -8027,6 +8028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Heavy Agriculture and Light Commerce Policy / 重农轻商政策](concepts/HeavyAgricultureLightCommercePolicy.md) — Early Han policy preference that lowers merchant status while the source argues commerce persists through adaptation and official-merchant channels.
 - [诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy](concepts/VassalHumiliationConspiracy.md) — Pattern where insult to a dependent king makes ministers radicalize into private assassination planning.
 - [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.
 - [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — Liu Jing's post-Baideng proposal to use ruling-house marriage as frontier restraint after direct war against Xiongnu proves costly.

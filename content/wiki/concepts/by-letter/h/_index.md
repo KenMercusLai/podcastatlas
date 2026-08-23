@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5144
+wiki_total_pages: 5145
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "HeartFieldEthics"
     title: "Heart-Field Ethics / 心田处世伦理"
     url: "/wiki/concepts/heartfieldethics/"
+  - key: "HeavyAgricultureLightCommercePolicy"
+    title: "Heavy Agriculture and Light Commerce Policy / 重农轻商政策"
+    url: "/wiki/concepts/heavyagriculturelightcommercepolicy/"
   - key: "HefeiIndustrialInvestmentModel"
     title: "Hefei Industrial Investment Model / 合肥模式"
     url: "/wiki/concepts/hefeiindustrialinvestmentmodel/"

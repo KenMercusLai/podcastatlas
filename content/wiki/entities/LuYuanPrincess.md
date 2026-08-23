@@ -2,7 +2,7 @@
 title: "鲁元公主 / Princess Lu Yuan"
 type: entity
 tags: [person, western-han, chu-han]
-sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
+sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ The source pairs her with [[LiuYing|刘盈]] in the cart-flight account. Liu Ban
 
 [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] names her directly as Zhang Ao's wife and places the marriage back into Han-Zhao politics. The host treats the marriage as a political alliance between Liu Bang's household and [[ZhangEr|张耳]]'s Zhao line, probably formed after Liu Bang and Zhang Er's wartime reunion. This source therefore makes Princess Lu Yuan central to two different marriage-policy fields: internal vassal alliance through [[ZhangAo|张敖]] and external frontier heqin as the unresolved next question.
 
+[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] resolves that next question as a blocked plan. [[LouJing|刘敬 / 楼敬]] insists that the heqin bride should be Liu Bang's real legitimate elder princess, not a substitute, and the episode identifies that figure as Princess Lu Yuan even though she is already Zhang Ao's wife. [[LiuBang|刘邦]] initially accepts, but [[LuZhi|吕雉]]'s pleading stops the transfer, making Princess Lu Yuan the person at the collision point between Han-Zhao marriage alliance, maternal household protection, and [[HanXiongnuHeqinPolicy|汉匈和亲政策]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LouJing|刘敬 / 楼敬]], [[LuZhi|吕雉]], [[MaoDunChanyu|冒顿单于]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - proposed Xiongnu marriage and maternal blockage.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]], [[ZhangAo|张敖]], [[ZhangEr|张耳]], and [[VassalHumiliationConspiracy|诸侯王羞辱触发谋刺]] - internal Han-Zhao marriage alliance and its later humiliation crisis.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[LiuBang|刘邦]], [[LuZhi|吕雉]], [[LouJing|刘敬 / 楼敬]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - source-scoped link between Liu Jing's heqin proposal and Liu Bang's legitimate daughter.
 - [[LiuBang|刘邦]] - father and fleeing commander in the source scene.

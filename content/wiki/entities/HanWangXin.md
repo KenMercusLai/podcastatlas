@@ -2,7 +2,7 @@
 title: "韩王信 / Han Wang Xin"
 type: entity
 tags: [person, han-state, chu-han, ruler]
-sources: [zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
+sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
 last_updated: 2026-08-23
 ---
 # 韩王信 / Han Wang Xin
@@ -25,9 +25,12 @@ That promise becomes useful after [[ZhengChangHanKing|郑昌]], the Han king ins
 
 [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] follows the consequences of that surrender. Han Wang Xin is defeated by Liu Bang at 铜鞮 in [[Shangdang|上党]], flees into the Xiongnu camp, and remains part of the anti-Han pressure field when 曼丘臣 and 王黄 gather escaped Han troops and elevate 赵利. The source therefore shifts him from a trapped frontier king into an active breach point between Xiongnu force and early Han different-surname king mistrust.
 
+[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] keeps Han Wang Xin in that breach-point role after Baideng. The episode says Xiongnu, Han Wang Xin, and Zhao Li's forces again press south, leaving Liu Bang unable to solve the frontier only by chasing rebel kings. That is why [[LouJing|刘敬 / 楼敬]] treats Xiongnu support as the core problem behind the Han Wang Xin and Zhao Li branch.
+
 The episode therefore turns Han Wang Xin from a frontier-containment example into a failure case. A ruler placed at the edge can defend the border only if the center can distinguish tactical negotiation under siege from betrayal; suspicion makes the external threat and internal trust problem reinforce each other.
 
 ## Connections
+- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LouJing|刘敬 / 楼敬]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - renewed Xiongnu-backed pressure that makes heqin look like the lower-cost answer.
 - [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LiuBang|刘邦]], [[Xiongnu|匈奴]], [[Shangdang|上党]], and [[BaidengEncirclement|白登之围]] - post-surrender defeat, flight into Xiongnu protection, and the wider northern campaign that leads to Baideng.
 - [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[Mayi|马邑]], [[MaoDunChanyu|冒顿单于]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - siege, suspicion, surrender, and the failure mode of frontier placement.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[Jinyang|晋阳]], [[Mayi|马邑]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - relocation from old Han territory toward the northern frontier.
