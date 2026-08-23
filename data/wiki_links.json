@@ -10739,6 +10739,10 @@
     "title": "Credibility Cascade",
     "url": "/wiki/concepts/credibilitycascade/"
   },
+  "CredibleForceDisplayDeterrence": {
+    "title": "Credible Force-Display Deterrence / 可信武力展示威慑",
+    "url": "/wiki/concepts/credibleforcedisplaydeterrence/"
+  },
   "CreditCardDebtMechanics": {
     "title": "Credit Card Debt Mechanics",
     "url": "/wiki/concepts/creditcarddebtmechanics/"
@@ -22450,6 +22454,10 @@
   "JiFuBaoYang": {
     "title": "饥附饱扬 / Ji Fu Bao Yang",
     "url": "/wiki/concepts/jifubaoyang/"
+  },
+  "JiLing": {
+    "title": "纪灵 / Ji Ling",
+    "url": "/wiki/entities/jiling/"
   },
   "JiQi": {
     "title": "Ji Qi",
@@ -35787,6 +35795,10 @@
     "title": "人单合一 / RenDanHeYi",
     "url": "/wiki/concepts/rendanheyi/"
   },
+  "RenJun": {
+    "title": "任峻 / Ren Jun",
+    "url": "/wiki/entities/renjun/"
+  },
   "RenNing": {
     "title": "任宁 / Ren Ning",
     "url": "/wiki/entities/renning/"
@@ -43351,6 +43363,10 @@
     "title": "Tumor Microenvironment",
     "url": "/wiki/concepts/tumormicroenvironment/"
   },
+  "TuntianSystem": {
+    "title": "Tuntian System / 屯田制",
+    "url": "/wiki/concepts/tuntiansystem/"
+  },
   "TuoguReformPolitics": {
     "title": "Tuogu Reform Politics / 托古改制政治",
     "url": "/wiki/concepts/tuogureformpolitics/"
@@ -46823,6 +46839,10 @@
     "title": "玄奘",
     "url": "/wiki/entities/xuanzang/"
   },
+  "Xudu": {
+    "title": "许都 / Xudu",
+    "url": "/wiki/entities/xudu/"
+  },
   "XueBaochai": {
     "title": "薛宝钗 / Xue Baochai",
     "url": "/wiki/entities/xuebaochai/"
@@ -47890,6 +47910,10 @@
   "ZaoFu": {
     "title": "造父 / Zaofu",
     "url": "/wiki/entities/zaofu/"
+  },
+  "ZaoZhi": {
+    "title": "枣祗 / Zao Zhi",
+    "url": "/wiki/entities/zaozhi/"
   },
   "Zed": {
     "title": "Zed",
@@ -51978,6 +52002,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k": {
+    "title": "《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k/"
   },
   "zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc": {
     "title": "《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？",

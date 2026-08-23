@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5172
+wiki_total_pages: 5174
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "TumorMicroenvironment"
     title: "Tumor Microenvironment"
     url: "/wiki/concepts/tumormicroenvironment/"
+  - key: "TuntianSystem"
+    title: "Tuntian System / 屯田制"
+    url: "/wiki/concepts/tuntiansystem/"
   - key: "TuoguReformPolitics"
     title: "Tuogu Reform Politics / 托古改制政治"
     url: "/wiki/concepts/tuogureformpolitics/"

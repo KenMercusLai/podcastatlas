@@ -10629,3 +10629,11 @@ Added source page for Hanji 1009: Lü Bu attacking Liu Bei after Liu Bei's force
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？
+
+Added source page for Hanji 1008: Cao Cao's late-Han屯田制 as an answer to war-driven grain collapse, Zao Zhi's proposal, Ren Jun's implementation role around Xudu, and Lü Bu's辕门射戟 mediation between Yuan Shu's Ji Ling and Liu Bei. Created Zao Zhi, Ren Jun, Ji Ling, Xudu, Tuntian System, and Credible Force-Display Deterrence; updated overview, index, Cao Cao, Lü Bu, Liu Bei, Yuan Shu, Pei County/Xiaopei, War Cost Tempo Discipline, and Wartime Agricultural Labor Collapse. No settled contradiction found; kept the source's numerical conversions, archery estimates, and modern deterrence analogy source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

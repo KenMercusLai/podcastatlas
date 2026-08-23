@@ -2,13 +2,15 @@
 title: "吕布 / Lü Bu"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources: [zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
 last_updated: 2026-08-23
 ---
 
 # 吕布 / Lü Bu
 
-吕布 / Lü Bu is developed across the Hanji 1009 and Hanji 1015-1019 late-Han branch as a militarily dangerous but politically unstable powerholder. [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]] first shows him turning on [[LiuBei|刘备]] after Liu Bei's following grows beyond ten thousand. The episode reads this as [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]]: Lü Bu removes an immediate rival but pushes Liu Bei toward [[CaoCao|曹操]].
+吕布 / Lü Bu is developed across the Hanji 1008-1009 and Hanji 1015-1019 late-Han branch as a militarily dangerous but politically unstable powerholder. [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] first gives him a successful mediation moment: after [[YuanShu|袁术]] sends [[JiLing|纪灵]] against [[LiuBei|刘备]], Lü Bu judges that Liu Bei's fall would expose himself to Yuan Shu's wider encirclement and uses辕门射戟 to force both sides to withdraw. The page treats this as [[CredibleForceDisplayDeterrence|可信武力展示威慑]].
+
+[[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]] then shows him turning on Liu Bei after Liu Bei's following grows beyond ten thousand. The episode reads this as [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]]: Lü Bu removes an immediate rival but pushes Liu Bei toward [[CaoCao|曹操]].
 
 The same source adds [[YuanHuanLateHan|袁涣]] as a moral check on Lü Bu. Lü Bu wants Yuan Huan to write an abusive letter against Liu Bei, but Yuan Huan refuses, making Lü Bu's demand a case of [[MoralDisengagementRationalization|道德推脱式自我合理化]] rather than useful strategy.
 
@@ -29,6 +31,7 @@ Chen Deng's answer turns Cao Cao's mistrust into [[JiFuBaoYang|饥附饱扬]], a
 The later half of Hanji 1018 also shows the cost of Lü Bu's short horizon. He ignores [[GaoShun|高顺]]'s warning not to demand supplies from [[ZhangBaLateHan|张霸]] in person, fails to get them, and loses face. [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] then keeps the personnel-judgment branch compact: Lü Bu trusts [[WeiXuLateHan|魏续]] more than Gao Shun even though the source treats Gao Shun as the loyal one.
 
 ## Connections
+- [[LiuBei|刘备]], [[YuanShu|袁术]], [[JiLing|纪灵]], and [[CredibleForceDisplayDeterrence|可信武力展示威慑]] - Hanji 1008辕门射戟 mediation branch.
 - [[LiuBei|刘备]], [[YuanHuanLateHan|袁涣]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], and [[MoralDisengagementRationalization|道德推脱式自我合理化]] - Hanji 1009 ally-reversal and abusive-letter branch.
 - [[GuoJia|郭嘉]], [[XunYu|荀彧]], [[YuanShao|袁绍]], and [[GongsunZan|公孙瓒]] - Hanji 1015 eastern-flank timing branch.
 - [[ChenDeng|陈登]], [[ChenGui|陈珪]], [[HanYinLateHan|韩胤]], and [[CaoCao|曹操]] - Hanji 1016-1018 persuasion, marriage reversal, and title-disappointment branch.

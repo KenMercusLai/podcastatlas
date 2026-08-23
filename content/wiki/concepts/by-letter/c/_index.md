@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5172
+wiki_total_pages: 5174
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1379,6 +1379,9 @@ wiki_pages:
   - key: "CredibilityCascade"
     title: "Credibility Cascade"
     url: "/wiki/concepts/credibilitycascade/"
+  - key: "CredibleForceDisplayDeterrence"
+    title: "Credible Force-Display Deterrence / 可信武力展示威慑"
+    url: "/wiki/concepts/credibleforcedisplaydeterrence/"
   - key: "CreditCardDebtMechanics"
     title: "Credit Card Debt Mechanics"
     url: "/wiki/concepts/creditcarddebtmechanics/"
