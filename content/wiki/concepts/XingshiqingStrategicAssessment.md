@@ -2,7 +2,7 @@
 title: "行势情战略评估 / Xingshiqing Strategic Assessment"
 type: concept
 tags: [strategy, statecraft, historiography, chu-han]
-sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
+sources: [zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]
 last_updated: 2026-08-23
 ---
 
@@ -14,7 +14,10 @@ The source case is [[ZhangLiang|张良]]'s rejection of [[LiShiqi|郦食其]]'s 
 
 The concept also covers the episode's military analogies. [[SongYi|宋义]]'s wait-for-exhaustion logic resembles a usable third-party tactic in lower-urgency interstate warfare, but the Qin-Zhao-Chu crisis before [[JuluBattle|巨鹿之战]] makes delay dangerous. [[HanXin|韩信]]'s [[BackwaterBattle|背水一战]] works because morale, enemy misjudgment, and hidden cavalry are aligned, while Liu Bang's river-backed disaster at [[PengchengBattle|彭城之战]] shows that similar terrain can become rout when troops are complacent and the enemy is shocked into desperate counterattack.
 
+[[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] adds Xue Gong's three-strategy assessment of [[YingBu|英布 / 黥布]]'s rebellion as another concrete use of condition-sensitive strategy. The upper, middle, and lower plans differ less by slogan than by geography, supply, and coalition reach: controlling Qi/Lu, Yan/Zhao, [[Aocang|敖仓]], and [[Chenggao|成皋]] would expand the rebellion's conditions, while the lower strategy narrows the move toward self-preserving logistics and [[ChangshaKingdom|长沙国]] support. [[XueGongHanAdviser|Xue Gong]]'s forecast then turns "情" toward actor psychology: Ying Bu's fear and short horizon make the lower strategy more likely even though broader options exist.
+
 ## Key Claims
+- Hanji 187 adds that a strategy can be ranked by whether the actor has the temperament and coalition horizon to execute it, not only by whether the route exists on a map.
 - A strategy's name or precedent is not enough; its usable meaning changes with control, timing, incentives, and morale.
 - "行" checks the practical distribution of gain and loss before a plan is moralized as wise.
 - "势" checks whether the temporary battlefield or political moment supports the move.
@@ -22,6 +25,7 @@ The concept also covers the episode's military analogies. [[SongYi|宋义]]'s wa
 - Historical analogy is useful only when the current case matches the underlying conditions, not merely the visible surface.
 
 ## Connections
+- [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]], [[XueGongHanAdviser|薛公 / Xue Gong (Han adviser)]], [[YingBu|英布 / 黥布]], [[Aocang|敖仓]], [[Chenggao|成皋]], and [[ChangshaKingdom|长沙国]] - route, logistics, coalition, and actor-character assessment.
 - [[XunYue|荀悦]] - historian whose comment supplies the three-part frame.
 - [[ZhangLiang|张良]], [[LiuBang|刘邦]], [[LiShiqi|郦食其]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - source decision room where the framework is applied.
 - [[ChenSheng|陈胜]], [[ZhangEr|张耳]], and [[ChenYu|陈馀]] - earlier anti-Qin comparison where restoration had a different strategic meaning.

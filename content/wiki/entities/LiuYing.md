@@ -2,7 +2,7 @@
 title: "刘盈 / Liu Ying"
 type: entity
 tags: [person, western-han, chu-han]
-sources: [zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
+sources: [zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ In the source's account, Liu Bang encounters Liu Ying and [[LuYuanPrincess|鲁�
 
 [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] moves Liu Ying from confirmed crown prince into a threatened heir. Liu Bang judges his gentle and benevolent temperament as unlike himself and considers replacing him with [[LiuRuyi|刘如意]]. The source makes [[ZhouChang|周昌]]'s refusal and [[LuZhi|吕雉]]'s thanks evidence that the danger is politically real, not just palace talk.
 
+[[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] moves Liu Ying's threatened-heir status into campaign-command risk. Because [[LiuBang|刘邦]] is seriously ill, he first considers sending Liu Ying against [[YingBu|英布 / 黥布]]. The advisers speaking through [[LuZhi|吕雉]] argue that the appointment has little upside and severe downside: Liu Ying cannot rise above crown prince by winning, but defeat or inability to command Liu Bang's peer generals could damage succession security. [[ZhangLiang|张良]] later recommends giving Liu Ying a general title and Guandong command so he remains politically present without replacing Liu Bang as supreme field commander.
+
 ## Connections
+- [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]], [[LiuBang|刘邦]], [[LuZhi|吕雉]], [[ZhangLiang|张良]], [[YingBu|英布 / 黥布]], and [[CrownPrinceCommandRisk|太子挂帅风险]] - proposed campaign command and safer rear military title.
 - [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], [[ZhouChang|周昌]], and [[LuZhi|吕雉]] - threatened crown-prince status under the proposed replacement.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LuZhi|吕雉]], [[LiuBang|刘邦]], and [[WesternHanDynasty|西汉]] - crown-prince status after imperial accession.
 - [[LiuBang|刘邦]] - father and fleeing commander in the source scene.

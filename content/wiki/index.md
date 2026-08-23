@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征](sources/zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox.md) — 芮淇讲透资治通鉴 episode on Ying Bu's open rebellion, Xue Gong's upper/middle/lower strategy forecast, Liu Bang replacing him with Liu Chang, and Liu Bang's ill personal campaign after Liu Ying's command risk is rejected.
 - [《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案](sources/zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n.md) — 芮淇讲透资治通鉴 episode on Ying Bu's fear after Peng Yue's death, Ben He's failed concubine-access gambit, the accusation sent to Liu Bang, Xiao He's investigation advice, and Huainan's turn toward rebellion.
 - [《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土](sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh.md) — 芮淇讲透资治通鉴 episode completing Lu Jia's Nanyue mission, Zhao Tuo's Qin-to-Nanyue consolidation, recognition-backed submission to Han, the Xinyu civil-governance lesson, and Fan Kuai's sickbed remonstrance to Liu Bang.
 - [《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）](sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i.md) — 芮淇讲透资治通鉴 episode following Peng Yue's execution into Luan Bu's public mourning and death-facing defense, Liu Bang's pardon and same-surname replacement map, and the turn to Zhao Tuo/Nanyue diplomacy through Lu Jia.
@@ -1314,6 +1315,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
+- [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — Liu-family replacement named king of Huainan after Ying Bu's title is abolished during the rebellion.
 - [奔鹤 / Ben He](entities/BenHe.md) — Huainan official whose failed attempt to gain favor through Ying Bu's concubine becomes a flight, accusation, investigation, and rebellion trigger.
 - [淮南国 / Huainan Kingdom (early Han)](entities/HuainanKingdomEarlyHan.md) — Ying Bu's early Han royal base, with its own troops and officials, where Ben He's accusation and Han investigation trigger the rebellion decision.
 - [平原君诸建 / Pingyuanjun Zhu Jian](entities/PingyuanjunZhuJian.md) — Huainan chancellor who advises against Ying Bu's rebellion, disambiguated from the Warring States Lord Pingyuan.

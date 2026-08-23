@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6746
+wiki_total_pages: 6748
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "XueGong"
     title: "薛公 / Xue Gong"
     url: "/wiki/entities/xuegong/"
+  - key: "XueGongHanAdviser"
+    title: "薛公 / Xue Gong (Han adviser)"
+    url: "/wiki/entities/xuegonghanadviser/"
   - key: "XueWarringStates"
     title: "薛地 / Xue"
     url: "/wiki/entities/xuewarringstates/"
