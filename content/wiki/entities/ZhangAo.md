@@ -2,7 +2,7 @@
 title: "张敖 / Zhang Ao"
 type: entity
 tags: [person, chu-han, zhao, ruler]
-sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ The episode makes Zhang Ao a loyalty counterpoint to his ministers. [[GuanGao|�
 
 [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] shows the ministers' private radicalization continuing despite Zhang Ao's refusal. Guan Gao and Zhao Wu arrange the failed 百人县 ambush without making Zhang Ao the visible sponsor. The same episode also sharpens Zhang Ao's household link because [[LuYuanPrincess|鲁元公主]], his wife, is the princess [[LouJing|刘敬 / 楼敬]] proposes sending to [[MaoDunChanyu|冒顿单于]] for heqin.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] turns that private plot into Zhang Ao's royal crisis. Liu Bang has Zhang Ao arrested after the assassination report, while [[TianShuHan|田叔]], [[MengShuHan|孟叔]], and other followers visibly bind themselves to him during the journey to Chang'an. Zhang Ao is released after [[GuanGao|贯高]] endures torture without implicating him, but he loses the Zhao kingship and is reduced to Xuanping marquis. The episode therefore confirms his personal innocence in the plot while showing that innocence does not protect his royal title.
+
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[GuanGao|贯高]], [[XieGong|谢公]], [[TianShuHan|田叔]], [[MengShuHan|孟叔]], and [[TortureResistantExoneration|刑讯守口式申冤]] - arrest, exoneration, demotion, and retainer loyalty.
 - [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[GuanGao|贯高]], [[ZhaoWuZhaoMinister|赵午]], [[LuYuanPrincess|鲁元公主]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - failed ambush continuation and proposed removal of Zhang Ao's wife into frontier policy.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]], [[LuYuanPrincess|鲁元公主]], [[GuanGao|贯高]], [[ZhaoWuZhaoMinister|赵午]], [[Handan|邯郸]], and [[VassalHumiliationConspiracy|诸侯王羞辱触发谋刺]] - marriage alliance, humiliation, refusal, and ministerial conspiracy.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[XiaoHe|萧何]], [[CaoShen|曹参]], and [[FoundingMeritHierarchy|建国功臣排序]] - third position in the first-class merit ranking.

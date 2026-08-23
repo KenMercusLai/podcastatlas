@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6720
+wiki_total_pages: 6723
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1121,6 +1121,9 @@ wiki_pages:
   - key: "MengYi"
     title: "孟依"
     url: "/wiki/entities/mengyi/"
+  - key: "MengShuHan"
+    title: "孟叔 / Meng Shu (early Han)"
+    url: "/wiki/entities/mengshuhan/"
   - key: "MengTongxueFangxuehou"
     title: "孟同学（《放学后的小巷》）"
     url: "/wiki/entities/mengtongxuefangxuehou/"

@@ -18267,6 +18267,10 @@
     "title": "Guanyin / 观音",
     "url": "/wiki/entities/guanyin/"
   },
+  "GuanzhongEliteRelocation": {
+    "title": "关中豪强迁徙 / Guanzhong Elite Relocation",
+    "url": "/wiki/concepts/guanzhongeliterelocation/"
+  },
   "GuanzhongRegion": {
     "title": "关中 / Guanzhong Region",
     "url": "/wiki/entities/guanzhongregion/"
@@ -27890,6 +27894,10 @@
   "MengPo": {
     "title": "孟婆",
     "url": "/wiki/entities/mengpo/"
+  },
+  "MengShuHan": {
+    "title": "孟叔 / Meng Shu (early Han)",
+    "url": "/wiki/entities/mengshuhan/"
   },
   "MengTian": {
     "title": "蒙恬 / Meng Tian",
@@ -42179,6 +42187,10 @@
     "title": "田巿 / Tian Shi",
     "url": "/wiki/entities/tianshi/"
   },
+  "TianShuHan": {
+    "title": "田叔 / Tian Shu (early Han)",
+    "url": "/wiki/entities/tianshuhan/"
+  },
   "TianWenWeiChancellor": {
     "title": "田文 / Tian Wen (Wei chancellor)",
     "url": "/wiki/entities/tianwenweichancellor/"
@@ -42510,6 +42522,10 @@
   "ToriyamaSekien": {
     "title": "鸟山石燕 / Toriyama Sekien",
     "url": "/wiki/entities/toriyamasekien/"
+  },
+  "TortureResistantExoneration": {
+    "title": "刑讯守口式申冤 / Torture-Resistant Exoneration",
+    "url": "/wiki/concepts/tortureresistantexoneration/"
   },
   "Toshiba": {
     "title": "Toshiba",
@@ -46166,6 +46182,10 @@
   "XieChen": {
     "title": "谢晨",
     "url": "/wiki/entities/xiechen/"
+  },
+  "XieGong": {
+    "title": "谢公 / Xie Gong",
+    "url": "/wiki/entities/xiegong/"
   },
   "XieGuomin": {
     "title": "Xie Guomin / 谢国民",
@@ -51778,6 +51798,10 @@
   "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1": {
     "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
     "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+  },
+  "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k": {
+    "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",

@@ -2,7 +2,7 @@
 title: "同姓王分封 / Same-Surname King Enfeoffment"
 type: concept
 tags: [statecraft, enfeoffment, western-han, vassal-kings]
-sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
 last_updated: 2026-08-23
 ---
 
@@ -16,16 +16,20 @@ The concept sits in tension with [[CommanderyCountyAntiEnfeoffment|郡县制反�
 
 [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] adds a failure case inside the same concept. [[LiuXiDaiKing|刘喜]] is Liu Bang's brother and therefore highly trusted in kinship terms, but he still flees when Dai comes under Xiongnu-linked pressure. Liu Bang's answer is not to abandon same-surname kingship; he demotes Liu Xi and gives Dai to [[LiuRuyi|刘如意]], showing that kinship title can be rotated when frontier performance fails.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] extends the rotation from failed kinship defense to replacement of a non-Liu royal line. After [[ZhangAo|张敖]] is cleared of direct conspiracy but demoted from Zhao king, Liu Bang moves [[LiuRuyi|刘如意]] from Dai to Zhao. Same-surname kingship therefore becomes not only a first settlement map but also the replacement pattern after a different-surname king's court creates unacceptable risk.
+
 ## Key Claims
 - Same-surname kingship is used as a trust substitute when different-surname kings look unsafe after victory.
 - The early Han grant map combines family politics with territorial control over former wartime bases.
 - Kinship does not remove regional autonomy risk; it only changes the ruler's first-order trust assumption.
 - The move contrasts with Qin direct-rule ideology but arises from a different postwar settlement problem.
 - Hanji 178 part 2 adds that same-surname kingship also needs performance discipline: a Liu relative can be demoted and replaced by another Liu relative when frontier defense collapses.
+- Hanji 180 adds that a Liu relative can also replace a personally exonerated non-Liu king when the latter's court has become politically unsafe.
 
 ## Connections
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - source scene and founding-order frame.
 - [[LiuJia|刘贾]], [[LiuJiao|刘交]], [[LiuXiDaiKing|刘喜]], and [[LiuFeiQiKing|刘肥]] - Liu-family recipients.
 - [[JingKingdomEarlyHan|荆国]], [[ChuKingdomEarlyHan|楚国]], [[DaiKingdomEarlyHan|代国]], and [[QiKingdomEarlyHan|齐国]] - royal jurisdictions created or assigned in the episode.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]], [[LiuRuyi|刘如意]], [[HanWangXin|韩王信]], and [[Xiongnu|匈奴]] - Dai replacement after Liu Xi's frontier flight.
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[ZhangAo|张敖]], [[GuanGao|贯高]], and [[LiuRuyi|刘如意]] - Zhao replacement after the Guan Gao case.
 - [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]], [[ConcededKingshipStabilization|让封真王式稳局]], and [[CommanderyCountyAntiEnfeoffment|郡县制反分封定局]] - adjacent title-control and institutional-choice concepts.

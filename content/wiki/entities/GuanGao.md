@@ -2,7 +2,7 @@
 title: "贯高 / Guan Gao"
 type: entity
 tags: [person, western-han, zhao, conspiracy]
-sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv]
 last_updated: 2026-08-23
 ---
 
@@ -14,7 +14,10 @@ The source makes Guan Gao important because he separates his assassination impul
 
 [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] continues the plot into the failed 百人县 ambush. Guan Gao and Zhao Wu hide killers in the walls of the lodging where Liu Bang is expected to stay, but Liu Bang becomes uneasy after hearing the place name and leaves by night. The source therefore changes Guan Gao from a minister who merely intends assassination into an actor whose plan almost reaches execution.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] completes the case's first consequence. After the plot is reported, Zhao Wu and other conspirators die, but Guan Gao deliberately stays alive because [[ZhangAo|张敖]] still needs someone to prove he did not participate. Under torture, Guan Gao refuses to implicate Zhang Ao; after [[XieGong|谢公]] reports that testimony to [[LiuBang|刘邦]], Zhang Ao is released but demoted. Guan Gao then kills himself after confirming Zhang Ao's release, making him the source case for [[TortureResistantExoneration|刑讯守口式申冤]].
+
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[XieGong|谢公]], and [[TortureResistantExoneration|刑讯守口式申冤]] - interrogation, exonerating testimony, pardon, and suicide after Zhang Ao's release.
 - [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] - failed 百人县 ambush continuation.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] - source page.
 - [[ZhangAo|张敖]], [[ZhaoWuZhaoMinister|赵午]], and [[Handan|邯郸]] - Zhao court setting for the conspiracy.

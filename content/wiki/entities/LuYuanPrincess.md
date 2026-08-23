@@ -2,7 +2,7 @@
 title: "鲁元公主 / Princess Lu Yuan"
 type: entity
 tags: [person, western-han, chu-han]
-sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ The source pairs her with [[LiuYing|刘盈]] in the cart-flight account. Liu Ban
 
 [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] resolves that next question as a blocked plan. [[LouJing|刘敬 / 楼敬]] insists that the heqin bride should be Liu Bang's real legitimate elder princess, not a substitute, and the episode identifies that figure as Princess Lu Yuan even though she is already Zhang Ao's wife. [[LiuBang|刘邦]] initially accepts, but [[LuZhi|吕雉]]'s pleading stops the transfer, making Princess Lu Yuan the person at the collision point between Han-Zhao marriage alliance, maternal household protection, and [[HanXiongnuHeqinPolicy|汉匈和亲政策]].
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] shows the result of that blockage: Princess Lu Yuan is not sent to Modu, but Liu Bang still implements heqin by naming another woman as legitimate elder princess. Princess Lu Yuan therefore remains central to the policy's family-cost problem even when the actual mission is shifted to a substitute.
+
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[LiuBang|刘邦]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - substitute-princess workaround after her mother blocks the original plan.
 - [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LouJing|刘敬 / 楼敬]], [[LuZhi|吕雉]], [[MaoDunChanyu|冒顿单于]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - proposed Xiongnu marriage and maternal blockage.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]], [[ZhangAo|张敖]], [[ZhangEr|张耳]], and [[VassalHumiliationConspiracy|诸侯王羞辱触发谋刺]] - internal Han-Zhao marriage alliance and its later humiliation crisis.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[LiuBang|刘邦]], [[LuZhi|吕雉]], [[LouJing|刘敬 / 楼敬]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - source-scoped link between Liu Jing's heqin proposal and Liu Bang's legitimate daughter.

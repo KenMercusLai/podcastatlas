@@ -2,7 +2,7 @@
 title: "冒顿单于 / Modu Chanyu"
 type: entity
 tags: [person, xiongnu, western-han, frontier]
-sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern]
 last_updated: 2026-08-23
 ---
 
@@ -20,6 +20,8 @@ Hanji 175 then gives Modu a strategic-concession sequence. He yields a prized ho
 
 [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] makes Modu the intended counterpart of Liu Jing's concrete heqin design. [[LouJing|刘敬 / 楼敬]] argues that [[LiuBang|刘邦]] should send a real legitimate princess, not a substitute, because Modu's discovery of deception would be dangerous. Modu's role here is not developed through his own speech, but through the risk calculation Han advisers make about his power, temper, and ability to punish bad-faith diplomacy.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] records the policy compromise from the Han side: Liu Bang sends a woman named as legitimate elder princess to Modu and has Liu Jing escort her. Modu again remains mostly the external constraint rather than a speaking actor, but the episode shows his power forcing Han into a marriage-and-goods settlement even after Lu Zhi blocks the real Princess Lu Yuan plan.
+
 冒顿单于 / Modu Chanyu enters this wiki branch through [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] as the [[Xiongnu|匈奴]] ruler whose forces trap [[LiuBang|刘邦]] during the [[BaidengEncirclement|白登之围]]. The source uses him mainly as the opponent whose military advantage cannot be solved by frontal Han force.
 
 In the episode's reading, Modu's importance lies in the private relationship channel around him. [[ChenPing|陈平]] reportedly reaches the chanyu's favored woman with gifts and a threat of rival beauty, causing her to press for release of the encircled Han army. The source therefore makes Modu part of a political-psychology case: the visible decision belongs to the steppe ruler, but the pressure point runs through household status and influence.
@@ -27,6 +29,7 @@ In the episode's reading, Modu's importance lies in the private relationship cha
 ## Connections
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[YanzhiXiongnuConsort|阏氏]], [[EncirclementReleaseCalculus|围困开口式风险权衡]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - Baideng release decision and post-crisis policy turn.
 - [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LuYuanPrincess|鲁元公主]], and [[LuZhi|吕雉]] - proposed heqin counterpart and risk of deceiving him with a substitute bride.
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[LouJing|刘敬 / 楼敬]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - substitute-princess implementation after the blocked Lu Yuan plan.
 - [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[ToumanChanyu|头曼单于]], [[Yuezhi|月氏]], [[Donghu|东胡]], and [[AbsoluteCommandObedience|绝对服从式指挥训练]] - rise, command training, patricide, and steppe consolidation.
 - [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[LouJing|刘敬 / 楼敬]], [[BattlefieldInformationControl|战场信息控制]], and [[LureEnemyOutOfPosition|诱敌离位]] - false-weakness setup and cavalry encirclement at Baideng.
 - [[Xiongnu|匈奴]] - people and frontier power he leads in this source.

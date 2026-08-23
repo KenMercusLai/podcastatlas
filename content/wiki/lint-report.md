@@ -1,6 +1,6 @@
-# Wiki Lint Report — 2026-08-22
+# Wiki Lint Report — 2026-08-23
 
-Scanned 12666 pages.
+Scanned 13168 pages.
 
 ## Structural Issues
 
@@ -12,11 +12,13 @@ Scanned 12666 pages.
 ### Hub Pages with Insufficient Content (0 pages)
 No hub stubs detected — all high-degree nodes have sufficient content.
 
-### Fragile Bridges (3 community pairs)
+### Fragile Bridges (5 community pairs)
 These community connections rely on a single edge — one broken link isolates them:
-- Community 2 ↔ Community 11 via `concepts/AIForScience` → `entities/LiXiaojie`
-- Community 3 ↔ Community 7 via `concepts/AttentionIndustrialization` → `concepts/AttentionAsWeather`
-- Community 3 ↔ Community 11 via `concepts/HomeRouterSecurityLifecycle` → `concepts/PersonalSecurityTiering`
+- Community 0 ↔ Community 2 via `concepts/SocialEngineeringFraud` → `entities/Cambodia`
+- Community 2 ↔ Community 8 via `concepts/FangshiFraudAndAuthority` → `concepts/SocialEngineeringFraud`
+- Community 4 ↔ Community 12 via `entities/LongNow` → `concepts/CriticalMineralsGeopolitics`
+- Community 8 ↔ Community 15 via `concepts/ValuesFirstTalent` → `concepts/TalentVirtueDistinction`
+- Community 13 ↔ Community 15 via `concepts/EconomicWayOfThinking` → `concepts/ComparativeAdvantage`
 
 ### Isolated Communities (0 communities)
 No isolated communities — all clusters have external connections.

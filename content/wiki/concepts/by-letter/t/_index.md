@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5145
+wiki_total_pages: 5147
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"
+  - key: "TortureResistantExoneration"
+    title: "刑讯守口式申冤 / Torture-Resistant Exoneration"
+    url: "/wiki/concepts/tortureresistantexoneration/"
   - key: "TwelveInsigniaPoliticalSymbolism"
     title: "十二华章政治象征 / Twelve Insignia Political Symbolism"
     url: "/wiki/concepts/twelveinsigniapoliticalsymbolism/"

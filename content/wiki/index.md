@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）](sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k.md) — 芮淇讲透资治通鉴 episode on substitute-princess heqin, Liu Jing's Guanzhong elite relocation policy, Guan Gao's torture-resistant exoneration of Zhang Ao, and Zhang Ao's demotion from Zhao king.
 - [《资治通鉴·汉纪》179｜历史上“和亲”怎么来的](sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1.md) — 芮淇讲透资治通鉴 episode on Liu Jing's concrete heqin proposal, Lu Zhi's resistance, post-Baideng northern pressure, early Han 重农轻商 policy, and the failed 百人县 assassination attempt.
 - [《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）](sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Baideng return through Chen Ping's Quni reward, Zhang Ao's humiliation crisis, Dai succession, Weiyang Palace, Zongzheng, and the heqin policy turn.
 - [《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）](sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym.md) — 芮淇讲透资治通鉴 episode completing Baideng through Chen Ping's Yanzhi channel, Modu's release calculus, Liu Bang's controlled withdrawal, Liu Jing's vindication, and the heqin proposal.
@@ -1304,6 +1305,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [谢公 / Xie Gong](entities/XieGong.md) — Zhong dafu sent by Liu Bang to test Guan Gao's testimony and report whether Zhang Ao was innocent.
+- [田叔 / Tian Shu (early Han)](entities/TianShuHan.md) — Zhang Ao retainer who voluntarily follows him to Chang'an under prisoner-like degradation after the Zhao case breaks open.
+- [孟叔 / Meng Shu (early Han)](entities/MengShuHan.md) — Zhang Ao follower paired with Tian Shu as a visible retainer-loyalty signal during the Zhao arrest.
 - [曲逆 / Quni County](entities/QuniCounty.md) — County Liu Bang praises after Baideng and grants to Chen Ping as the Quni marquisate.
 - [贯高 / Guan Gao](entities/GuanGao.md) — Zhao minister who joins the plot to kill Liu Bang after Zhang Ao is humiliated at Handan.
 - [赵午 / Zhao Wu (Zhao minister)](entities/ZhaoWuZhaoMinister.md) — Zhao minister grouped with Guan Gao in the Zhang Ao humiliation conspiracy.
@@ -8028,6 +8032,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [关中豪强迁徙 / Guanzhong Elite Relocation](concepts/GuanzhongEliteRelocation.md) — Liu Jing's early Han policy of moving six-state elites and local powers into Guanzhong for capital-region population, defense, and elite control.
+- [刑讯守口式申冤 / Torture-Resistant Exoneration](concepts/TortureResistantExoneration.md) — Guan Gao pattern where survival under torture becomes truthful testimony that clears Zhang Ao rather than coerced implication.
 - [Heavy Agriculture and Light Commerce Policy / 重农轻商政策](concepts/HeavyAgricultureLightCommercePolicy.md) — Early Han policy preference that lowers merchant status while the source argues commerce persists through adaptation and official-merchant channels.
 - [诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy](concepts/VassalHumiliationConspiracy.md) — Pattern where insult to a dependent king makes ministers radicalize into private assassination planning.
 - [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.

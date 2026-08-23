@@ -2,7 +2,7 @@
 title: "楼敬 / Lou Jing"
 type: entity
 tags: [person, han, statecraft, capital]
-sources: [zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ The episode treats Lou Jing as the first adviser who breaks the superficial Zhou
 
 [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] gives Liu Jing's heqin design its full political shape. He argues that [[LiuBang|刘邦]] should send his legitimate elder princess, identified in the episode as [[LuYuanPrincess|鲁元公主]], to [[MaoDunChanyu|冒顿单于]], add generous goods the [[Xiongnu|匈奴]] lack, and send persuasive envoys to influence the next generation. He also warns that substituting another woman would be dangerous if Modu discovered it, so the policy depends on rank credibility as well as kinship.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] gives Liu Jing two follow-through roles. First, he escorts the substitute-princess heqin mission after Liu Bang works around Lu Zhi's refusal. Second, after returning from Xiongnu, he proposes [[GuanzhongEliteRelocation|关中豪强迁徙]]: moving six-state royal descendants, local magnates, and famous figures into [[GuanzhongRegion|关中]] so the capital base is more populous, more defensible, and less exposed to eastern elite networks.
+
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[GuanzhongRegion|关中]], and [[GuanzhongEliteRelocation|关中豪强迁徙]] - heqin escort and forced elite relocation proposal.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] - source case.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[LiuBang|刘邦]], [[Xiongnu|匈奴]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - apology, reward, and post-Baideng policy proposal.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] - source confirming heqin as Liu Bang's policy turn after the return route.

@@ -2,7 +2,7 @@
 title: "Coerced Confession Trap / 逼供认罪陷阱"
 type: concept
 tags: [law, coercion, court-politics, information-control, punishment, qin]
-sources: [zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7]
 last_updated: 2026-08-22
 ---
 
@@ -14,10 +14,13 @@ In the source, Zhao Gao first beats Li Si until he admits rebellion. After inter
 
 The trap is therefore a special case of [[PoliticalShowTrial]] and [[CourtFeedbackCollapse|君臣反馈失灵]]. A formal review still exists, but the signal it receives has already been shaped by an intermediary who controls custody, pain, paperwork, and the prisoner's expectations. The ruler can believe he has checked the case while receiving a confession manufactured before the check began.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] adds the inverse pattern through [[GuanGao|贯高]]. Officials want Guan Gao's tortured testimony to implicate [[ZhangAo|张敖]], but he refuses to convert his own guilt into false accusation. That case is tracked separately as [[TortureResistantExoneration|刑讯守口式申冤]] because coercion fails to manufacture the desired confession.
+
 ## Key Claims
 - Coerced confession can be made durable by staging repeated false opportunities for review.
 - A captured process can preserve the appearance of legal review while destroying its truth-finding function.
 - Torture creates evidence and fear at the same time, so the victim's later repetition of guilt cannot be treated as independent confirmation.
+- Hanji 180 adds the inverse warning: refusal under torture may become exonerating evidence, but only in a source frame where reputation and trusted mediation make the refusal credible.
 - The mechanism depends on information asymmetry: the ruler does not see the coercion, and the prisoner cannot verify whether the current official is real.
 - In Qinji 131-1, the trap extends [[PalaceAccessMonopoly|宫廷接触垄断]] from court audience control into prison review control.
 
@@ -27,4 +30,5 @@ The trap is therefore a special case of [[PoliticalShowTrial]] and [[CourtFeedba
 - [[QinErshi|胡亥 / 秦二世]] - ruler who sends a real reviewer but receives an already-conditioned confession.
 - [[LiYou|李由]] and [[SanchuanWarringStates|三川]] - family accusation surface used to make the treason case plausible.
 - [[PoliticalShowTrial]], [[CoercedDenunciation]], and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - adjacent forced-truth and procedure-capture concepts.
+- [[GuanGao|贯高]], [[ZhangAo|张敖]], [[XieGong|谢公]], and [[TortureResistantExoneration|刑讯守口式申冤]] - inverse Hanji 180 case where torture fails to produce false implication.
 - [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CriminalLawAsPowerLimitation]] - governance and law frames weakened by the trap.

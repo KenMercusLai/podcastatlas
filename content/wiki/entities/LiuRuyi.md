@@ -2,7 +2,7 @@
 title: "刘如意 / Liu Ruyi"
 type: entity
 tags: [person, western-han, liu-clan, ruler]
-sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv]
+sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv]
 last_updated: 2026-08-23
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-23
 
 The source does not yet develop Liu Ruyi's later succession politics. Its immediate point is territorial: a vulnerable northern kingdom remains a Liu-family appointment, but the recipient changes from Liu Bang's elder brother to a son after Liu Xi's failure at the frontier.
 
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] moves Liu Ruyi again, from Dai to the Zhao kingship after [[ZhangAo|张敖]] is released but stripped of the title. The source uses the move as part of Liu Bang's broader reduction of exposed or suspect non-Liu royal autonomy after the Guan Gao case.
+
 ## Connections
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[ZhangAo|张敖]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - movement from Dai to Zhao after Zhang Ao's demotion.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] - source page.
 - [[LiuBang|刘邦]] - father and grantor.
 - [[DaiKingdomEarlyHan|代国]], [[LiuXiDaiKing|刘喜]], and [[Xiongnu|匈奴]] - northern kingship and replacement context.
