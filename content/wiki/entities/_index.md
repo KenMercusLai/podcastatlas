@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6984
+wiki_total_pages: 6994
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "AbdulElSayed"
     title: "Abdul El-Sayed"
     url: "/wiki/entities/abdulelsayed/"
+  - key: "AbdulMajidChowdhury"
+    title: "Abdul Majid Chowdhury"
+    url: "/wiki/entities/abdulmajidchowdhury/"
   - key: "AbelBrodeur"
     title: "Abel Brodeur"
     url: "/wiki/entities/abelbrodeur/"
@@ -707,6 +710,9 @@ wiki_pages:
   - key: "Anaya"
     title: "Anaya / 阿那亚"
     url: "/wiki/entities/anaya/"
+  - key: "AndreAbrahamian"
+    title: "Andre Abrahamian"
+    url: "/wiki/entities/andreabrahamian/"
   - key: "AndreGide"
     title: "Andre Gide / 安德烈·纪德"
     url: "/wiki/entities/andregide/"

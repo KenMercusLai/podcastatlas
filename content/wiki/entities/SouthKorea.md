@@ -2,11 +2,13 @@
 title: "South Korea / 韩国"
 type: entity
 tags: [country, consumer, culture, technology, asia]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, vol-266-yi-ci-xing-gao-dong-etf-1002344828, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-08-07
+sources: [getting-entrepreneurial-in-korea-summer-school, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, vol-266-yi-ci-xing-gao-dong-etf-1002344828, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-08-24
 ---
 
 # South Korea / 韩国
+
+[[getting-entrepreneurial-in-korea-summer-school]] adds South Korea as a development-playbook case rather than only a contemporary consumer, market, or technology node. [[OliverKim]] uses the country to explain how postwar recovery, [[LandReformEqualityDevelopment]], relatively equal income distribution, state-backed manufacturing, and [[ExportDiscipline]] helped one [[EastAsianTigers|East Asian Tiger]] climb the [[IndustrialLadder]] from garments toward globally competitive firms such as [[Samsung]] and [[SKHynix|SK Hynix]].
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds South Korea as a comparison case in the [[YouthCriminalResponsibility]] debate. [[MeghnaNanu]] says politicians there are discussing changes similar to [[Sweden]]'s tougher approach to serious youth crime.
 
@@ -26,11 +28,13 @@ The source connects Korea's consumer power to [[KoreanCultureLedConsumerMarketin
 - Korea is treated as a possible third-country beneficiary in a China-U.S. competition context because it has distinct strengths, moderate scale, and global cultural reach.
 - The source cites memory semiconductors and [[Samsung]] as technology-strength examples while focusing most of its analysis on consumer scenes.
 - Vol.266 adds that Korean semiconductor-market access can be intermediated through Hong Kong-listed ETF products, creating [[CrossMarketLeveragedETFExecutionRisk]] when the product is leveraged.
+- The Planet Money Summer School source adds the historical development layer: Korean state support mattered because export targets and global competition disciplined supported firms.
 - The hosts argue Korean cultural exports travel globally partly because song, dance, beauty, and market-oriented entertainment are easier to localize than heavily national or political messages.
 - Episode 142 sharpens the comparison: product experience is framed as Japan's strength, while global marketing and fan-driven consumer influence are framed as Korea's strength.
 
 ## Connections
 - [[Samsung]], [[SKHynix|SK Hynix]], [[ETF7709HK|7709.HK]], [[AIEquityValuationRisk]], and [[ChinaEquityStructuralSelection]] - AI/semiconductor market-performance and ETF-access context.
+- [[OliverKim]], [[EastAsianTigers]], [[LandReformEqualityDevelopment]], [[ExportDiscipline]], [[IndustrialLadder]], [[FlyingGeeseModel]], [[Daewoo]], and [[TextileKnowledgeTransfer]] - development-playbook and transfer branch added by Planet Money.
 - [[Samsung]] - technology strength referenced in the episode.
 - [[GentleMonster]], [[KBeautyGlobalTrust]], [[SeongsuDong]], [[GongCha]], [[MannerCoffee]], and [[Sandunban]] - consumer cases connected to Korea.
 - [[KoreanCultureLedConsumerMarketing]], [[AIResistantExperientialConsumption]], and [[ConsumerBrandMoat]] - main wiki concepts extended through the Korea observations.

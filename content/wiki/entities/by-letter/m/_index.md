@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6984
+wiki_total_pages: 6994
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "ManiSkill"
     title: "ManiSkill"
     url: "/wiki/entities/maniskill/"
+  - key: "Manmulsang"
+    title: "Manmulsang"
+    url: "/wiki/entities/manmulsang/"
   - key: "MannerCoffee"
     title: "Manner Coffee"
     url: "/wiki/entities/mannercoffee/"

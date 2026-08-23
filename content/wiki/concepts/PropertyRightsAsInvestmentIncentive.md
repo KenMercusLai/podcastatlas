@@ -2,11 +2,13 @@
 title: "Property Rights As Investment Incentive"
 type: concept
 tags: [economics, property-rights, institutions, investment]
-sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, sand-heists-and-property-rights-in-the-caribbean-summer-school]
-last_updated: 2026-08-18
+sources: [getting-entrepreneurial-in-korea-summer-school, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, sand-heists-and-property-rights-in-the-caribbean-summer-school]
+last_updated: 2026-08-24
 ---
 
 # Property Rights As Investment Incentive
+
+[[getting-entrepreneurial-in-korea-summer-school]] adds a North Korea counterexample through [[JessieNorthKorea]] and the [[DonjuMarketClass]]. Jessie can build trade routes and earn money, but once her business is reported, the state can take her money and possessions without courts or secure ownership protection; the source uses that loss to show why entrepreneurial talent is not enough for broad development.
 
 [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds an All-In private-property version. [[DavidFriedberg|David Friedberg]] argues that taxing assets already purchased with post-tax income weakens secure control over property and can set precedents that extend beyond billionaires or crypto holders.
 
@@ -20,9 +22,11 @@ The source also narrows the claim. Private title is not sufficient by itself if 
 - Formal title can improve access to collateral, but only when banks and supporting institutions actually lend.
 - Collective property can protect community control while making individualized investment returns harder to capture.
 - The Barbuda case asks whether the investment gain from title is worth the loss of [[CommunalLandTenure]] and collective development authority.
+- The North Korea case adds that informal market activity can still fail as development when the state can confiscate gains and punish entrepreneurs.
 
 ## Connections
 - [[WealthTaxLegitimacy]], [[PaperWealthVsCashValue]], and [[AllIn|All-In]] - taxation and wealth-ownership branch added by the June 19 episode.
 - [[DamianKing]], [[GastonBrowne]], [[Barbuda]], and [[AntiguaAndBarbuda]] - source actors and case.
+- [[NorthKorea|North Korea]], [[JessieNorthKorea]], [[DonjuMarketClass]], [[KimJongUn]], and [[InformalPropertyRightsProtection]] - North Korean market-constraint branch added by Planet Money.
 - [[CommunalLandTenure]], [[BarbudaLandAct]], [[PropertyRightsCommunityObligations]], and [[DisasterRecoveryPrivatization]] - adjacent property concepts.
 - [[InformalPropertyRightsProtection]] - related wiki frame where investment confidence can arise before mature formal institutions.

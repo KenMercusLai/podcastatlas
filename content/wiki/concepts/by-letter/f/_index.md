@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5267
+wiki_total_pages: 5276
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "FlowEnvironmentDesign"
     title: "Flow Environment Design"
     url: "/wiki/concepts/flowenvironmentdesign/"
+  - key: "FlyingGeeseModel"
+    title: "Flying Geese Model"
+    url: "/wiki/concepts/flyinggeesemodel/"
   - key: "FocusedDiffuseThinkingBalance"
     title: "Focused-Diffuse Thinking Balance / 专注与发散思维均衡"
     url: "/wiki/concepts/focuseddiffusethinkingbalance/"

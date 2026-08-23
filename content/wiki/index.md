@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Getting entrepreneurial in Korea (Summer School)](sources/getting-entrepreneurial-in-korea-summer-school.md) — Planet Money Summer School episode on South Korea's development playbook, export discipline, Bangladesh's garment knowledge transfer, flying-geese industrialization, and North Korea's constrained donju entrepreneurship.
 - [【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态 | S9E41](sources/zhongting-zhuque-sanhao-fuzongshi-huojian-huishou-zhiyou-cheng-yu-bai-meiyou-zhongjiantai-s9e41-d9e11e3b-7c7e-4beb-b19f-6f90fff38714.md) — What's Next replay with Dong Kai on Zhuque-3's 2025 recovery failure, 2026 Yao-2 success, reuse-first design, recovery-distance payload tradeoffs, and launch-cadence economics.
 - [Wake-up haul: an Ozempic moment for the brain](sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744.md) — The Intelligence episode on orexin agonists and narcolepsy, Japan's startup-capital and IPO constraints, and procrastination as self-regulatory failure.
 - [Cyberattacks on U.S. water systems raise concerns about security](sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128.md) — Marketplace Tech episode with Nikita Shah on multi-state water-system cyberattacks, basic cyber hygiene failures, manual recovery, AI vulnerability discovery, election information operations, and private-sector offensive cyber authority.
@@ -1362,6 +1363,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Oliver Kim](entities/OliverKim.md) — Planet Money expert explaining South Korea's development playbook, export discipline, flying geese, and North Korea's constraints.
+- [Abdul Majid Chowdhury](entities/AbdulMajidChowdhury.md) — Bangladeshi businessman who used Daewoo training to help launch Desh Garments.
+- [Daewoo](entities/Daewoo.md) — South Korean company that trained Bangladeshis for export-oriented garment production under quota-driven incentives.
+- [Desh Garments](entities/DeshGarments.md) — Bangladesh garment factory created after Korean training and used as the source's first-rung industrialization case.
+- [Rana Plaza](entities/RanaPlaza.md) — Bangladesh garment-disaster reference qualifying the costs of rapid apparel industrialization.
+- [Kim Jong Un](entities/KimJongUn.md) — North Korean ruler whose limited market opening and weapons funding link donju activity to regime priorities.
+- [Nicholas Eberstadt](entities/NicholasEberstadt.md) — North Korea expert cited on the South-North economy gap and market growth funding nuclear activity.
+- [Andre Abrahamian](entities/AndreAbrahamian.md) — Business and policy educator teaching entrepreneurship topics inside North Korea's limited opening.
+- [Jessie (North Korea entrepreneur)](entities/JessieNorthKorea.md) — Source-scoped North Korean trader whose confiscated business illustrates weak property rights.
+- [Manmulsang](entities/Manmulsang.md) — North Korean Amazon-like company named as part of the limited domestic intranet commerce branch.
 - [Dong Kai / 董凯](entities/DongKai.md) — LandSpace Zhuque-3 overall deputy chief designer explaining reusable-rocket design, recovery standards, and launch-cadence constraints.
 - [Shailesh Chitnis](entities/ShaileshChitnis.md) — The Intelligence voice explaining orexin agonists, narcolepsy, and the source's cautious GLP-1 analogy.
 - [Ovoperextone](entities/Ovoperextone.md) — Takeda orexin agonist named as the source's concrete narcolepsy drug case.
@@ -8350,6 +8361,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [East Asian Tigers](concepts/EastAsianTigers.md) — Development comparison group of South Korea, Taiwan, Singapore, and Hong Kong converging rapidly toward rich-country incomes.
+- [Land Reform And Equality In Development](concepts/LandReformEqualityDevelopment.md) — Early-condition frame linking land redistribution and relatively equal income distribution to development participation.
+- [Export Discipline](concepts/ExportDiscipline.md) — Industrial-policy discipline where subsidized firms must prove capability through export competition.
+- [Industrial Ladder](concepts/IndustrialLadder.md) — Development sequence from labor-intensive goods such as garments toward more complex industries.
+- [Multi-Fiber Arrangement](concepts/MultiFiberArrangement.md) — Textile quota regime that unintentionally encouraged Korea-to-Bangladesh garment knowledge transfer.
+- [Textile Knowledge Transfer](concepts/TextileKnowledgeTransfer.md) — Movement of garment know-how through training, factory routines, and cross-cultural operating practice.
+- [Flying Geese Model](concepts/FlyingGeeseModel.md) — Pattern where industries and expertise move from earlier industrializers to later ones.
+- [Donju Market Class](concepts/DonjuMarketClass.md) — North Korean entrepreneur class tolerated by the regime but lacking secure property rights.
+- [Marxist-Leninist State Capacity](concepts/MarxistLeninistStateCapacity.md) — Claim that some former Marxist-Leninist systems can grow after market reforms because state capacity remains.
 - [Rocket Recovery Binary Outcome](concepts/RocketRecoveryBinaryOutcome.md) — Strict reusable-booster recovery standard where close descent still fails unless the stage lands and remains stable.
 - [Recovery Range Payload Tradeoff](concepts/RecoveryRangePayloadTradeoff.md) — Zhuque-3 source frame for how landing-site distance and propellant reserve affect reusable-rocket payload.
 - [Reuse-First Rocket Design](concepts/ReuseFirstRocketDesign.md) — Design principle that material, propellant, engine, recovery, and maintenance choices must serve repeated flight from the start.

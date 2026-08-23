@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5267
+wiki_total_pages: 5276
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "TextbookExcerptFlattening"
     title: "Textbook Excerpt Flattening / 教材删节造成的文本扁平化"
     url: "/wiki/concepts/textbookexcerptflattening/"
+  - key: "TextileKnowledgeTransfer"
+    title: "Textile Knowledge Transfer"
+    url: "/wiki/concepts/textileknowledgetransfer/"
   - key: "TextualOmissionAttributionShift"
     title: "Textual Omission Attribution Shift / 史书删节与责任归属转移"
     url: "/wiki/concepts/textualomissionattributionshift/"

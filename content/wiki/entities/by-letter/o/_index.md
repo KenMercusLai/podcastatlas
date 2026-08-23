@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 6984
+wiki_total_pages: 6994
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "OliverHart"
     title: "Oliver Hart"
     url: "/wiki/entities/oliverhart/"
+  - key: "OliverKim"
+    title: "Oliver Kim"
+    url: "/wiki/entities/oliverkim/"
   - key: "OliverMorton"
     title: "Oliver Morton"
     url: "/wiki/entities/olivermorton/"

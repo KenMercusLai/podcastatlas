@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5267
+wiki_total_pages: 5276
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "MarriageRitualOrthodoxy"
     title: "Marriage Ritual Orthodoxy / 婚姻礼法正当性"
     url: "/wiki/concepts/marriageritualorthodoxy/"
+  - key: "MarxistLeninistStateCapacity"
+    title: "Marxist-Leninist State Capacity"
+    url: "/wiki/concepts/marxistleniniststatecapacity/"
   - key: "MascotLedBrandRecognition"
     title: "Mascot Led Brand Recognition"
     url: "/wiki/concepts/mascotledbrandrecognition/"
@@ -827,6 +830,9 @@ wiki_pages:
   - key: "MultiAgentCollaboration"
     title: "Multi-Agent Collaboration"
     url: "/wiki/concepts/multiagentcollaboration/"
+  - key: "MultiFiberArrangement"
+    title: "Multi-Fiber Arrangement"
+    url: "/wiki/concepts/multifiberarrangement/"
   - key: "MultiIssueNegotiation"
     title: "Multi-Issue Negotiation / 多议题谈判"
     url: "/wiki/concepts/multiissuenegotiation/"

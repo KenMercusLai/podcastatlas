@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5267
+wiki_total_pages: 5276
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "EastAsianEducationCostPressure"
     title: "East Asian Education Cost Pressure / 东亚教育成本压力"
     url: "/wiki/concepts/eastasianeducationcostpressure/"
+  - key: "EastAsianTigers"
+    title: "East Asian Tigers"
+    url: "/wiki/concepts/eastasiantigers/"
   - key: "EastWestEmperorDiplomaticProbe"
     title: "East-West Emperor Diplomatic Probe / 东西二帝试探"
     url: "/wiki/concepts/eastwestemperordiplomaticprobe/"
@@ -665,6 +668,9 @@ wiki_pages:
   - key: "ExplorationToExtractionPipeline"
     title: "Exploration To Extraction Pipeline"
     url: "/wiki/concepts/explorationtoextractionpipeline/"
+  - key: "ExportDiscipline"
+    title: "Export Discipline"
+    url: "/wiki/concepts/exportdiscipline/"
   - key: "ExportMarketCoordination"
     title: "Export Market Coordination"
     url: "/wiki/concepts/exportmarketcoordination/"

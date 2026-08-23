@@ -2,11 +2,13 @@
 title: "Informal Property-Rights Protection / 非正式产权保护"
 type: concept
 tags: [china, institutions, property-rights, diaspora]
-sources: [150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]
-last_updated: 2026-08-06
+sources: [getting-entrepreneurial-in-korea-summer-school, 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]
+last_updated: 2026-08-24
 ---
 
 # Informal Property-Rights Protection / 非正式产权保护
+
+[[getting-entrepreneurial-in-korea-summer-school]] adds a comparative boundary through [[NorthKorea|North Korea]] and [[China]]. [[OliverKim]] says China did not have strong Western-style property rights, but chose not to suppress township and village enterprises in the same way North Korea suppressed or captured ordinary [[DonjuMarketClass|donju]] activity. The source therefore clarifies that informal protection still needs predictable tolerance and policy commitment.
 
 Informal property-rights protection is [[150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]]'s coastal-development mechanism from [[YuenYuenAng|洪源远]]'s research. When formal property institutions were weak, clan ties, hometown obligations, overseas Chinese networks, and official relationships could give investors enough confidence to put capital into local projects.
 
@@ -17,9 +19,11 @@ The source treats this as a substitute, not an ideal endpoint. Informal trust ca
 - Hometown, clan, and diaspora ties can make investment legible when courts or bureaucratic routines are still weak.
 - Informal protection is path-dependent: it can create early trust while also creating later governance limits.
 - The episode links this mechanism to the broader [[WeakInstitutionsMarketBuilding]] thesis.
+- The North Korea comparison adds that weak formal rights do not automatically produce development; entrepreneurs also need some predictable non-confiscation boundary.
 
 ## Connections
 - [[Fujian]], [[Zhejiang]], and [[OverseasChineseMutualAidNetworks]] - source case and adjacent diaspora trust branch.
+- [[NorthKorea|North Korea]], [[DonjuMarketClass]], [[JessieNorthKorea]], [[PropertyRightsAsInvestmentIncentive]], and [[MarxistLeninistStateCapacity]] - comparison branch added by Planet Money.
 - [[DiasporaCapitalManufacturingClusters]] - related development mechanism using returned money and hometown trust.
 - [[YuenYuenAng|洪源远]] and [[HowChinaEscapedPovertyTrap|《中国如何跳出贫困陷阱》]] - source frame.
 - [[WeakInstitutionsMarketBuilding]], [[DirectedImprovisation]], and [[LocalGovernmentPolicyExperimentation]] - institutional-development cluster.

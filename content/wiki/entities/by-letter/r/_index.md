@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6984
+wiki_total_pages: 6994
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "RamonSampedro"
     title: "Ramon Sampedro / 桑佩德罗"
     url: "/wiki/entities/ramonsampedro/"
+  - key: "RanaPlaza"
+    title: "Rana Plaza"
+    url: "/wiki/entities/ranaplaza/"
   - key: "RAND"
     title: "RAND"
     url: "/wiki/entities/rand/"

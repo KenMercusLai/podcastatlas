@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5267
+wiki_total_pages: 5276
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "LabourLeadershipCrisis"
     title: "Labour Leadership Crisis"
     url: "/wiki/concepts/labourleadershipcrisis/"
+  - key: "LandReformEqualityDevelopment"
+    title: "Land Reform And Equality In Development"
+    url: "/wiki/concepts/landreformequalitydevelopment/"
   - key: "LandForPeaceExhaustionTrap"
     title: "Land-For-Peace Exhaustion Trap / 抱薪救火式割地求和"
     url: "/wiki/concepts/landforpeaceexhaustiontrap/"

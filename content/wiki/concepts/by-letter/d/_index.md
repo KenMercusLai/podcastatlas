@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5267
+wiki_total_pages: 5276
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "DongmenYellowDog"
     title: "Dongmen Yellow Dog / 东门黄犬"
     url: "/wiki/concepts/dongmenyellowdog/"
+  - key: "DonjuMarketClass"
+    title: "Donju Market Class"
+    url: "/wiki/concepts/donjumarketclass/"
   - key: "DonroeDoctrine"
     title: "Donroe Doctrine"
     url: "/wiki/concepts/donroedoctrine/"

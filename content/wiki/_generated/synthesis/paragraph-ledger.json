@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "dbbc2456c59d75f517d0ee3b95a89f8540f69d66f77ca4cc223210f842e22d38",
       "8b6c6c1e2e4d589fbc6db6aac4dfc609de7aff75e790e469520bd0910f34a2a9",
       "cbad7cf493d5370d11e5d301c666d5a37465520e77f31c7e20d747b7a1554575",
       "9a1d3dc2b7fb17f46f11a17ab82c30607d0538f83a810f7e32c7a9c236493155",
@@ -159,11 +160,57 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 157
+    "paragraph_count": 158
   },
-  "overview_commit": "5d4ab724b8fb083f7c5b46bc632042536f74578a",
-  "overview_digest": "58819913b370a0f4ebf0a3083893383946a0b20914da8d6e3b4396e80d9c93ec",
+  "overview_commit": "ef09fe5e4bddb03b2c212424d1e33ebc17b829c0",
+  "overview_digest": "bdff4bf416842d29f4f4246b098531797def5567ca28deb480316b4e89e2dadf",
   "paragraphs": [
+    {
+      "id": "dbbc2456c59d75f517d0ee3b95a89f8540f69d66f77ca4cc223210f842e22d38",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[getting-entrepreneurial-in-korea-summer-school]], a [[PlanetMoney]] Summer School episode using [[SouthKorea|South Korea]], [[Bangladesh]], and [[NorthKorea|North Korea]] to test development playbooks. It adds [[OliverKim]], [[AbdulMajidChowdhury]], [[Daewoo]], [[DeshGarments]], [[RanaPlaza]], [[KimJongUn]], [[NicholasEberstadt]], [[AndreAbrahamian]], [[JessieNorthKorea]], [[Manmulsang]], [[EastAsianTigers]], [[LandReformEqualityDevelopment]], [[ExportDiscipline]], [[IndustrialLadder]], [[MultiFiberArrangement]], [[TextileKnowledgeTransfer]], [[FlyingGeeseModel]], [[DonjuMarketClass]], and [[MarxistLeninistStateCapacity]], while extending [[DevelopmentEconomics]], [[StrategicIndustrialPolicy]], [[PropertyRightsAsInvestmentIncentive]], and [[InformalPropertyRightsProtection]]. Its core synthesis is that development needs more than entrepreneurs or subsidies: South Korea's support worked because export competition disciplined firms, Bangladesh shows knowledge can move through people and quotas but still stall or become unsafe, and North Korea shows market energy can be confiscated or redirected toward regime power when property protection is absent. No direct contradiction is recorded; the source qualifies industrial-policy optimism with competition and property-rights optimism with the North Korean state-capture case.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 3,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AbdulMajidChowdhury",
+        "AndreAbrahamian",
+        "Bangladesh",
+        "Daewoo",
+        "DeshGarments",
+        "DevelopmentEconomics",
+        "DonjuMarketClass",
+        "EastAsianTigers",
+        "ExportDiscipline",
+        "FlyingGeeseModel",
+        "IndustrialLadder",
+        "InformalPropertyRightsProtection",
+        "JessieNorthKorea",
+        "KimJongUn",
+        "LandReformEqualityDevelopment",
+        "Manmulsang",
+        "MarxistLeninistStateCapacity",
+        "MultiFiberArrangement",
+        "NicholasEberstadt",
+        "NorthKorea",
+        "OliverKim",
+        "PlanetMoney",
+        "PropertyRightsAsInvestmentIncentive",
+        "RanaPlaza",
+        "SouthKorea",
+        "StrategicIndustrialPolicy",
+        "TextileKnowledgeTransfer",
+        "getting-entrepreneurial-in-korea-summer-school"
+      ]
+    },
     {
       "id": "8b6c6c1e2e4d589fbc6db6aac4dfc609de7aff75e790e469520bd0910f34a2a9",
       "primary_topic": "science-health-and-climate",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 6984
+wiki_total_pages: 6994
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "DADavidson"
     title: "D.A. Davidson"
     url: "/wiki/entities/dadavidson/"
+  - key: "Daewoo"
+    title: "Daewoo"
+    url: "/wiki/entities/daewoo/"
   - key: "DaiYusen"
     title: "Dai Yusen / 戴雨森"
     url: "/wiki/entities/daiyusen/"
@@ -383,6 +386,9 @@ wiki_pages:
   - key: "DerryCitizensDefenceAssociation"
     title: "Derry Citizens Defence Association"
     url: "/wiki/entities/derrycitizensdefenceassociation/"
+  - key: "DeshGarments"
+    title: "Desh Garments"
+    url: "/wiki/entities/deshgarments/"
   - key: "DesmondShum"
     title: "Desmond Shum"
     url: "/wiki/entities/desmondshum/"
