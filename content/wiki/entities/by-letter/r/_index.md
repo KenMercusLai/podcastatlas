@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6741
+wiki_total_pages: 6742
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "RedCrownedCrane"
     title: "丹顶鹤 / Red-crowned Crane"
     url: "/wiki/entities/redcrownedcrane/"
+  - key: "RenXiao"
+    title: "任嚣 / Ren Xiao"
+    url: "/wiki/entities/renxiao/"
   - key: "RenNing"
     title: "任宁 / Ren Ning"
     url: "/wiki/entities/renning/"

@@ -1,8 +1,8 @@
 ---
 title: "Victory Deterrence Diplomacy / 胜势威慑外交"
 type: concept
-tags: [diplomacy, military-strategy, deterrence, chu-han]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3]
+tags: [diplomacy, military-strategy, deterrence, chu-han, western-han]
+sources: [zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,9 @@ The alternative is to convert reputation into sequence. Han Xin should rest the 
 
 [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] shows the danger inside that constraint. The same Han Xin campaign that made Li Shiqi's warning credible continues after Qi accepts surrender, so the target concludes that diplomacy was deception. Victory-deterrence diplomacy can therefore become self-destructive unless the military pressure that gives it force is synchronized with the political settlement it produces.
 
-This is adjacent to [[PoliticalSurrenderCascade|招降示范级联]], but narrower. A surrender cascade can begin from reward, fear, or local example; victory deterrence diplomacy specifically begins from a recent battle that changes expectations about resistance. It is also adjacent to [[OccupationPacificationStrategy|占领区怀柔治理]], because the deterrent threat works better if the newly conquered rear is rested and politically quiet.
+[[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] adds a post-founding frontier version through [[LuJia|陆贾]]'s mission to [[ZhaoTuo|赵佗]]. Here the victory being spent is not Han Xin's fresh campaign reputation but [[LiuBang|刘邦]]'s completed defeat of [[XiangYu|项羽]] and rule over the Central Plains. Lu Jia makes that victory diplomatically usable by telling Zhao Tuo that [[Nanyue|南越]]'s local strength cannot match Han's people, territory, goods, and unified command.
+
+This is adjacent to [[PoliticalSurrenderCascade|招降示范级联]], but narrower. A surrender cascade can begin from reward, fear, or local example; victory deterrence diplomacy specifically begins from a recent or remembered victory that changes expectations about resistance. It is also adjacent to [[OccupationPacificationStrategy|占领区怀柔治理]], because the deterrent threat works better if the newly conquered rear is rested and politically quiet, and to [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]], where deterrence is packaged with formal title recognition.
 
 ## Key Claims
 - A victory can be spent as diplomatic capital instead of immediately followed by another battle.
@@ -29,8 +31,10 @@ This is adjacent to [[PoliticalSurrenderCascade|招降示范级联]], but narrow
 - The tactic depends on envoys and timing as much as battlefield reputation.
 - The concept does not claim persuasion replaces force; it shows how force can make persuasion credible.
 - Hanji 162-3 adds that the same force that makes persuasion credible must also be command-synchronized; otherwise a victorious army can turn the envoy's success into betrayal in the target's eyes.
+- Hanji 185 adds a frontier-recognition version: completed regime victory can make an envoy's warning credible even without moving troops immediately.
 
 ## Connections
+- [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[LuJia|陆贾]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], and [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - Liu Bang's completed victory converted into southern submission pressure.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[Linzi|临淄]], [[HanXin|韩信]], and [[KuaiChe|蒯彻 / 蒯通]] - Qi submission pressure disrupted by an unsynchronized attack.
 - [[HanXin|韩信]] and [[LiZuoChe|李左车]] - commander and adviser in the source case.
 - [[BackwaterBattle|背水一战]], [[DeathGroundTacticalPreconditions|死地战术前提]], and [[BattlefieldInformationControl|战场信息控制]] - battle and doctrine that create the reputation being converted.

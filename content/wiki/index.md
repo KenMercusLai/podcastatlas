@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土](sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh.md) — 芮淇讲透资治通鉴 episode completing Lu Jia's Nanyue mission, Zhao Tuo's Qin-to-Nanyue consolidation, recognition-backed submission to Han, the Xinyu civil-governance lesson, and Fan Kuai's sickbed remonstrance to Liu Bang.
 - [《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）](sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i.md) — 芮淇讲透资治通鉴 episode following Peng Yue's execution into Luan Bu's public mourning and death-facing defense, Liu Bang's pardon and same-surname replacement map, and the turn to Zhao Tuo/Nanyue diplomacy through Lu Jia.
 - [《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗](sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l.md) — 芮淇讲透资治通鉴 episode reopening Han Xin's death by challenging Sima Guang's judgment, treating the rebellion case as likely framed, and reading Liu Bang's preservation of Han Xin as a demoted-vassal safety signal disrupted by Lu Zhi-side capital action.
 - [《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（3）](sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Changle Palace death through Lu Zhi and Xiao He's lure, the source-scoped "three not die" execution lore, Kuai Che's vindicated warning, and the contrast between military genius and political survival.
@@ -1313,7 +1314,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [栾布 / Luan Bu](entities/LuanBu.md) — Peng Yue's old friend and former subordinate whose public mourning and death-facing speech make Liu Bang confront merit-holder fear after Peng Yue's execution.
-- [赵佗 / Zhao Tuo](entities/ZhaoTuo.md) — Former Qin Nanhai governor and Nanyue ruler whom Liu Bang recognizes as king before sending Lu Jia on a submission mission.
+- [赵佗 / Zhao Tuo](entities/ZhaoTuo.md) — Former Qin Nanhai powerholder who uses Ren Xiao's handoff to build Nanyue and later accepts Han recognition after Lu Jia's pressure.
+- [任嚣 / Ren Xiao](entities/RenXiao.md) — Qin Nanhai officer whose deathbed advice and appointment give Zhao Tuo the opening to turn Lingnan commanderies into the Nanyue base.
 - [东垣 / Dongyuan](entities/Dongyuan.md) — Zhao-region stronghold in the Chen Xi rebellion that Liu Bang takes and renames Zhending.
 - [真定 / Zhending](entities/Zhending.md) — Liu Bang's renamed Dongyuan, marking claimed stabilization after the Chen Xi rebellion siege.
 - [参合 / Canhe](entities/Canhe.md) — Northern transport node where Chen Xi and Han Wang Xin regroup near Xiongnu-facing routes before Han suppression.
@@ -1360,7 +1362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [季布 / Ji Bu](entities/JiBu.md) — Former Xiang Yu general whom Liu Bang first hunts and then pardons as a public example of former enemy loyalty.
 - [朱家 / Zhu Jia (Lu)](entities/ZhuJiaLu.md) — Lu-region rescuer and persuader who hides Ji Bu and argues for reframing former enemy service as loyalty.
 - [徐悲鸿 / Xu Beihong](entities/XuBeihong.md) — Painter used by Hanji 170 part 1 to show Tian Heng's afterlife as patriotic moral memory.
-- [南越 / Nanyue](entities/Nanyue.md) — Southern polity first named as a frontier outside option and later recognized under Zhao Tuo through Liu Bang's Lu Jia mission.
+- [南越 / Nanyue](entities/Nanyue.md) — Southern polity built by Zhao Tuo from former Qin Lingnan commanderies and drawn into Han order through Lu Jia's recognition-backed mission.
 - [Zhang Ao](entities/ZhangAo.md) — Zhao king named in the accession petition urging Liu Bang to accept the imperial title.
 - [Shusun Tong](entities/ShusunTong.md) — Scholar-official who prepares Liu Bang's accession ritual and later trains officials in practical court hierarchy.
 - [Lu County (Chu-Han)](entities/LuCountyChuHan.md) — Chu-loyal county whose surrender and Xiang Yu burial frame Liu Bang's postwar pacification.
@@ -1593,8 +1595,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [望夷宫 / Wangyi Palace](entities/WangyiPalace.md) — Qin Er Shi's final palace setting where Yan Le uses a thief-catching pretext to force Hu Hai's suicide.
 - [峣关 / Yaoguan](entities/Yaoguan.md) — Late-Qin pass defended after Ziying kills Zhao Gao, then bypassed and broken by Liu Bang under Zhang Liang's advice.
 - [蓝田 / Lantian (Late Qin)](entities/LantianLateQin.md) — Lantian-area battlefield in Qinji 138 part 2, disambiguated from the earlier Chu-Qin Lantian Battle.
-- [陆贾 / Lu Jia](entities/LuJia.md) — Liu Bang-side persuader and envoy, from Yaoguan negotiation and Xinyu civil-order teaching to the Nanyue submission mission.
-- [《新语》 / Xinyu](entities/Xinyu.md) — Lu Jia text used in Hanji 176 to frame Liu Bang's turn from military conquest toward ritual-civil governance.
+- [陆贾 / Lu Jia](entities/LuJia.md) — Liu Bang-side persuader and envoy, from Yaoguan negotiation and Xinyu civil-order teaching to the completed Nanyue submission mission.
+- [《新语》 / Xinyu](entities/Xinyu.md) — Lu Jia text used in Hanji 176 and 185 to frame Liu Bang's turn from military conquest toward ritual-civil governance.
 - [冯去疾 / Feng Quji](entities/FengQuji.md) — Qin minister named by the 《赵正书》 variant in Qinji 127-3 as part of the deathbed argument for choosing nearby Hu Hai.
 - [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider now treated as a eunuch-label controversy, moving from death secrecy and access monopoly into truth inversion and a family-backed coup circle.
 - [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
@@ -3793,7 +3795,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [项庄 / Xiang Zhuang](entities/XiangZhuang.md) — Xiang-camp figure sent by Fan Zeng to use a sword dance as a covert attempt to kill Liu Bang at Hongmen.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
 - [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically and then overreaches through Xiang Zhuang.
-- [樊哙 / Fan Kuai](entities/FanKuai.md) — Hongmen Banquet actor whose apparent blunt courage works as status-recognizing rhetoric.
+- [樊哙 / Fan Kuai](entities/FanKuai.md) — Liu Bang old follower whose blunt loyal speech works at Hongmen and again in Hanji 185's sickbed ruler-access crisis.
 - [纪信 / Ji Xin](entities/JiXin.md) — Liu Bang-side trusted attendant who later impersonates Liu Bang at Xingyang, dies under Xiang Yu, and becomes tied to Zhengzhou city-god memory.
 - [金强 / Jin Qiang](entities/JinQiang.md) — Liu Bang-side trusted attendant preserved under the source's 金强 transcript form in the Hongmen escort.
 - [司马迁 / Sima Qian](entities/SimaQian.md) — Historian used as both Hongmen narrative source and model for experience-cultivated prose force.
@@ -8078,6 +8080,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transcendent Exit Political Camouflage / 假托神仙式权力退场](concepts/TranscendentExitPoliticalCamouflage.md) — Hanji 171 pattern where Zhang Liang uses immortal and Daoist withdrawal language to make post-founding exit from power respectable and non-threatening.
 - [旧敌忠义重释 / Former Enemy Loyalty Reframing](concepts/FormerEnemyLoyaltyReframing.md) — Founding-order move where a victor reclassifies a former enemy's hostile service as loyalty that the new regime can pardon and use.
 - [Battlefield Victory To Founding Order](concepts/BattlefieldVictoryToFoundingOrder.md) — Transition pattern from final battlefield victory into pacification, command control, reward, repair, frontier recognition, ritual, and dynastic founding.
+- [Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交](concepts/RecognitionBackedFrontierDiplomacy.md) — Pattern where formal title recognition, envoy rhetoric, and credible military threat convert a frontier regime into submitted order before war.
 - [战后复员安民 / Postwar Return and Veteran Relief](concepts/PostwarReturnAndVeteranRelief.md) — Liu Bang's early Han policy of returning displaced people, restoring property, restraining local officials, and supporting or exempting demobilized soldiers.
 - [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Liu Bang's South Palace explanation that he won by recognizing and using Zhang Liang, Xiao He, and Han Xin rather than matching their specialist abilities.
 - [敌意封国安置 / Hostile-Territory Royal Containment](concepts/HostileTerritoryRoyalContainment.md) — Han Xin's relocation from Qi to Chu as both royal reward and exposure to a politically hostile jurisdiction, with personal-security adaptation.
@@ -8108,7 +8111,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, situational timing, and actors' real commitments before copying historical precedent.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
-- [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Han Xin/Li Zuoche pattern where battlefield victory is converted into envoy-backed surrender pressure, later qualified by Li Shiqi's Qi success and Han Xin's unsynchronized attack.
+- [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.
 - [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, hidden red-flag cavalry, Zhao morale collapse, and later victory-to-diplomacy conversion.
 - [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, and surprise have already made forced commitment usable.
 - [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
@@ -8413,7 +8416,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Responsibility-Avoidant Killing / 避责式杀害](concepts/ResponsibilityAvoidantKilling.md) — Pattern where actors avoid a direct killing act while deliberately arranging confinement, deprivation, or other conditions that make death predictable.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [Rule-Breaking Abdication / 破坏规则式禅让](concepts/RuleBreakingAbdication.md) — Succession failure where a ruler treats the state as transferable moral capital and hands real authority to a non-dynastic minister.
-- [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Role-order reading in which 礼 keeps ruler, minister, father, son, command, succession, and court hierarchy legible.
+- [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Role-order reading in which 礼 and civil learning keep ruler, minister, father, son, command, succession, and court hierarchy legible after conquest.
 - [君臣礼制距离 / Imperial Ritual Distance](concepts/ImperialRitualDistance.md) — Hanji 176 concept for how court ritual can create governance order while widening the ruler-minister gap through embodied hierarchy.
 - [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.
 - [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.

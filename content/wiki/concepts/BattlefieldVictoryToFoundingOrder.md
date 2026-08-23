@@ -2,7 +2,7 @@
 title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
 type: concept
 tags: [statecraft, founding, chu-han, legitimacy]
-sources: [zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -32,7 +32,10 @@ The final layer is legitimacy performance. A broad pardon, the kings' accession 
 
 [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] adds a harsher post-reward repair problem. [[PengYue|彭越]] had been formalized as Liang king after victory, but his execution leaves [[LuanBu|栾布]] to warn that punishing a possibly innocent contributor can make merit-holders fear the founding order. The same episode then shifts from internal repair to southern incorporation: [[LiuBang|刘邦]] recognizes [[ZhaoTuo|赵佗]] as [[Nanyue|南越]] king and sends [[LuJia|陆贾]] to pursue submission by diplomacy.
 
+[[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] completes that southern incorporation and adds a civil-governance coda. [[LuJia|陆贾]] converts Han's victory into [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] by making [[ZhaoTuo|赵佗]] accept the [[Nanyue|南越]] title and submit without war. Back at court, [[Xinyu|《新语》]] gives the same founding-order sequence its internal lesson: winning on horseback is not the same as governing a dynasty. [[FanKuai|樊哙]]'s sickbed remonstrance then adds ruler access and ministerial speech as another postwar order problem before the [[YingBu|英布]] rebellion.
+
 ## Key Claims
+- Hanji 185 adds that frontier recognition must be completed through credible submission, and that conquest must be followed by civil governance and restored ministerial access.
 - Hanji 184 adds that founding order must repair trust after harsh contributor punishment and can then turn from internal consolidation toward frontier recognition.
 - Battlefield success must be followed by controlled surrender, enemy-symbol management, and decisions about former rivals' kin.
 - Founding rulers need to both reward and contain overmighty wartime contributors.
@@ -47,7 +50,8 @@ The final layer is legitimacy performance. A broad pardon, the kings' accession 
 - Hanji 176 adds the performed court-audience endpoint of the ritual branch, while preserving the tension between order-making and ruler-minister distance.
 
 ## Connections
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LuanBu|栾布]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LuJia|陆贾]], and [[PardonAsStatePower]] - merit-holder trust repair followed by southern diplomatic incorporation.
+- [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[LuJia|陆贾]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[Xinyu|《新语》]], [[FanKuai|樊哙]], [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]], and [[LiAsPoliticalOrder|礼制政治秩序]] - southern submission, civil-governance lesson, and ruler-access repair.
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LuanBu|栾布]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LuJia|陆贾]], and [[PardonAsStatePower]] - merit-holder trust repair followed by southern diplomatic incorporation setup.
 - [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ChanglePalace|长乐宫]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], [[Xinyu|《新语》]], and [[ImperialRitualDistance|君臣礼制距离]] - completed court ritual and civil-order lesson after victory.
 - [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], [[HanWangXin|韩王信]], [[Mayi|马邑]], [[ShusunTong|叔孙通]], and [[LiAsPoliticalOrder|礼制政治秩序]] - external frontier pressure and internal ritual ordering after reward settlement.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[HostileRecipientRewardSignal|仇敌受封安众]], [[EQianqiu|鄂千秋]], [[LiuTaigong|刘太公]], and [[LiyangQinHan|栎阳]] - reward reassurance, merit interpretation, and family-status ordering.
