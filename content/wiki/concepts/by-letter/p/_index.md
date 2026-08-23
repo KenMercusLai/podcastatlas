@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5179
+wiki_total_pages: 5180
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "PrivateMarketBubbleOpacity"
     title: "Private-Market Bubble Opacity"
     url: "/wiki/concepts/privatemarketbubbleopacity/"
+  - key: "ProactiveAdviserInitiative"
+    title: "Proactive Adviser Initiative / 主动补位式谋臣"
+    url: "/wiki/concepts/proactiveadviserinitiative/"
   - key: "ProactiveAgents"
     title: "Proactive Agents"
     url: "/wiki/concepts/proactiveagents/"

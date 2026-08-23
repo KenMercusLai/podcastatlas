@@ -2,11 +2,13 @@
 title: "许都 / Xudu"
 type: entity
 tags: [place, late-han, china, capital, agriculture]
-sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k]
+sources: [zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k]
 last_updated: 2026-08-23
 ---
 
 # 许都 / Xudu
+
+[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] uses Xu first as [[CaoCao|曹操]]'s operating base before the court relocation. Cao Cao wants to move from Xu toward [[LuoyangLateHan|洛阳]], but the route runs through [[YangFengLateHan|杨奉]]'s position at Liang, which is why [[DongZhaoLateHan|董昭]]'s advance letter matters before the later move of [[EmperorXianOfHan|汉献帝]] to Xu.
 
 [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] supplies the decision that makes Xudu the late-Han court site. [[DongZhaoLateHan|董昭]] advises [[CaoCao|曹操]] to move [[EmperorXianOfHan|汉献帝]] from ruined [[LuoyangLateHan|洛阳]] to Xu county because Luoyang lacks food and reliable control while Xu is easier to supply and defend from Cao Cao's base.
 

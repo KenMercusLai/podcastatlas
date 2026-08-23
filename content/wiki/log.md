@@ -10127,6 +10127,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭
+
+Added source page for Hanji 1003: Dong Zhao's early help for Cao Cao through Zhang Yang's Henei route, his letter to Yang Feng that combines praise, grain, troops, and court legitimacy, and Dong Cheng's appeal against Han Xian as Cao Cao's Luoyang entry pretext. Created Zhang Yang (late Han), Dong Cheng (late Han), and Proactive Adviser Initiative; updated overview, index, Dong Zhao, Yang Feng, Han Xian, Luoyang, Xudu, Emperor Xian of Han, Cao Cao, Interest Reframing Persuasion, Strategic Recognition Alignment, and Xingshiqing Strategic Assessment. No settled contradiction found; Zhang Yang's mixed role is kept as source-scoped late-Han alignment change.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！
 
 Added source page for Hanji 1007: the white-bear thought-suppression opening, Kong Rong's Beihai governorship as a prestige-capacity gap, Zheng Xuan as scholarly prestige, Zuo Chengzu's advice to rely on a stronger power, Liu Yixun's departure after Zuo is killed, and Yuan Tan's attack on Beihai. Created Yuan Tan, Zheng Xuan, Zuo Chengzu, Liu Yixun, Beihai Commandery, White Bear Effect, and Prestige-Capacity Gap; updated overview, index, Kong Rong, Xingshiqing Strategic Assessment, Talent as State Treasure, Political Survival First, and Court Feedback Collapse. No settled contradiction found; the psychology frame and Kong Rong character diagnosis remain source-scoped.
@@ -10665,6 +10669,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？
 
 Added source page for Hanji 1004: Dong Zhao's advice to move Emperor Xian from ruined Luoyang to Xu, the supply-and-control logic behind Cao Cao's relocation, and Sun Jing's rear-attack plan that lets Sun Ce defeat Wang Lang in Kuaiji. Created Dong Zhao (late Han), Luoyang (late Han), and Sun Jing (late Han); updated overview, index, Cao Cao, Emperor Xian of Han, Xudu, Yang Feng, Han Xian, Sun Ce, Kuaiji Commandery, Wang Lang, Yu Fan, Strategic Capital Relocation, Xingshiqing Strategic Assessment, Political Survival First, Mingqi Legitimacy, and Leader Personal Exposure. No settled contradiction found; Sun Ce's later-death foreshadowing is kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

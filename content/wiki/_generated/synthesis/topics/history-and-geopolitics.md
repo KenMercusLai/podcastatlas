@@ -4,27 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: 5a78e029c7c4a86ff327c8c3d931a2e03e1132bb
-input_digest: 972894cd63836ae6a299773d1afac34779ef6a0841c8f8907c59018edb017b2f
+as_of_overview_commit: 2cfb7c44513d90b7903a9d15b2983821a849dc5b
+input_digest: 89bfd74f3e8921977dda83a6d258a1e2a693c10a70e19ac9c659a45e957807a0
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input now links nine kinds of historical change: Hanji 1004 adds late-Han relocation and maneuver as condition-reading around Luoyang, Xu, Emperor Xian, Yang Feng, Sun Ce, and Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
+The history-and-geopolitics input now links ten kinds of historical change: Hanji 1003-1004 show Cao Cao's late-Han court access and relocation as condition-reading, where Dong Zhao first clears Yang Feng through adviser initiative and then turns ruined Luoyang into a Xu relocation plan while Sun Jing supplies maneuver in Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence before the Yuan Shao confrontation; Hanji 1015-1016 show late-Han legitimacy and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.
 
 ## Cross-source Findings
 
 ### Late Han Control Requires Relocation And Maneuver
 
-[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] makes late-Han control a condition-reading problem before the later Xu-court sequence: [[DongZhaoLateHan]] turns ruined [[LuoyangLateHan]], [[YangFengLateHan]]'s likely reaction, and [[EmperorXianOfHan]]'s supply needs into [[StrategicCapitalRelocation]] toward [[Xudu]], while [[SunJingLateHan]] helps [[SunCe]] break [[WangLangLateHan]]'s [[KuaijiCommandery]] defense through rear attack and deception.
+[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] and [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] make late-Han control a staged condition-reading problem: [[DongZhaoLateHan]] first uses [[ProactiveAdviserInitiative]] and [[InterestReframingPersuasion]] to turn [[YangFengLateHan]]'s route control into temporary cooperation for [[CaoCao]], [[DongChengLateHan]]'s appeal against [[HanXianLateHan]] opens [[LuoyangLateHan]], and Dong Zhao then turns ruined Luoyang, [[EmperorXianOfHan]]'s supply needs, and Yang Feng's likely reaction into [[StrategicCapitalRelocation]] toward [[Xudu]], while [[SunJingLateHan]] helps [[SunCe]] break [[WangLangLateHan]]'s [[KuaijiCommandery]] defense through rear attack and deception.
 
-**Evidence:** [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]], [[DongZhaoLateHan]], [[LuoyangLateHan]], [[YangFengLateHan]], [[EmperorXianOfHan]], [[StrategicCapitalRelocation]], [[Xudu]], [[SunJingLateHan]], [[SunCe]], [[WangLangLateHan]], [[KuaijiCommandery]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]], [[LeaderPersonalExposure]]
+**Evidence:** [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]], [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]], [[DongZhaoLateHan]], [[ProactiveAdviserInitiative]], [[InterestReframingPersuasion]], [[YangFengLateHan]], [[CaoCao]], [[DongChengLateHan]], [[HanXianLateHan]], [[LuoyangLateHan]], [[EmperorXianOfHan]], [[StrategicCapitalRelocation]], [[Xudu]], [[SunJingLateHan]], [[SunCe]], [[WangLangLateHan]], [[KuaijiCommandery]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]], [[LeaderPersonalExposure]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1004's Dong Zhao relocation plan and Sun Jing Kuaiji campaign branch.
+- This claim is source-scoped to Hanji 1003's Dong Zhao-Yang Feng access prelude, Hanji 1004's Dong Zhao relocation plan, and the Sun Jing Kuaiji campaign branch.
+- Dong Zhao's underrecognized-genius framing and Zhang Yang's mixed role are preserved as Hanji 1003's source interpretation, not as a global ranking of late-Han advisers.
 - Sun Ce's later-death foreshadowing is preserved as the episode's risk interpretation, not as a complete causal biography.
 
 ### Late Han Alliance Reversal Is Reputation Constrained
@@ -35,7 +36,7 @@ Hanji 1009 treats late-Han alliance movement as a reputation problem: [[ThreatDr
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1009's Liu Bei, Lü Bu, Cao Cao, Guo Jia, and Yuan Huan sequence.
+- This claim is source-scoped to Hanji 1009's Liu Bei, Lu Bu, Cao Cao, Guo Jia, and Yuan Huan sequence.
 - The episode's masculinity and Dunning-Kruger readings are retained as interpretive frames, not as independent proof of inner motive.
 
 ### Late Han Liu Biao Local Order Has Strategic Ceiling

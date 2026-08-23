@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭](sources/zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1.md) — 芮淇讲透资治通鉴 episode on Dong Zhao clearing Cao Cao's path to Luoyang by persuading Yang Feng, plus Dong Cheng's appeal against Han Xian as Cao Cao's entry pretext.
 - [《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？](sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94.md) — 芮淇讲透资治通鉴 episode on Dong Zhao's advice to move Emperor Xian from ruined Luoyang to Xu, plus Sun Jing's rear-attack plan that lets Sun Ce defeat Wang Lang in Kuaiji.
 - [《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？](sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4.md) — 芮淇讲透资治通鉴 episode on Sun Ce's solo-hunting risk and Yu Fan's warning, plus Cao Cao's Yang Feng campaign, Yuan Shao title concession, and adviser-intake setup.
 - [《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？](sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar.md) — 芮淇讲透资治通鉴 episode on Guo Jia leaving Yuan Shao for Cao Cao, the Guo Jia/Xun You adviser contrast, and Man Chong's execution of Cao Hong's lawbreaking clients as law-over-kinship governance.
@@ -1335,7 +1336,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 1004 plan turns Cao Cao's welcome of Emperor Xian into a supply-grounded move from ruined Luoyang to Xu.
+- [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 1003-1004 branch clears Yang Feng from Cao Cao's Luoyang path and then turns Emperor Xian's relocation into a supply-grounded move from Luoyang to Xu.
+- [张杨 / Zhang Yang (late Han)](entities/ZhangYangLateHan.md) — Henei patron whose initial refusal is overcome by Dong Zhao, opening Cao Cao's early court-contact route.
+- [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor whose appeal against Han Xian gives Cao Cao an overt reason to enter Luoyang after initially blocking Cao Hong.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, weak supplies, and unstable military surroundings make the Xu relocation plausible in Hanji 1004.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
 - [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao-side late-Han actor whose early Qingzhou victories include taking Beihai from Kong Rong, before the source warns that pride and poor companions erode reputation.
@@ -1389,8 +1392,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [任峻 / Ren Jun](entities/RenJun.md) — Cao Cao-side official appointed典农中郎将 to implement屯田 with Zao Zhi around Xudu.
 - [纪灵 / Ji Ling](entities/JiLing.md) — Yuan Shu-side commander whose attack on Liu Bei is stopped by Lü Bu's辕门射戟.
 - [许都 / Xudu](entities/Xudu.md) — Cao Cao's late-Han court center after Emperor Xian's relocation, later becoming Hanji 1008's first major屯田 implementation site.
-- [韩暹 / Han Xian (late Han)](entities/HanXianLateHan.md) — Late-Han military actor whom Lü Bu persuades to leave Yuan Shu's coalition by combining Han-court legitimacy and material spoils.
-- [杨奉 / Yang Feng (late Han)](entities/YangFengLateHan.md) — Former emperor-protection actor defeated by Cao Cao after the Xu relocation, later Han Xian's partner in the Yuan Shu coalition switch.
+- [韩暹 / Han Xian (late Han)](entities/HanXianLateHan.md) — Late-Han military actor whose court pressure gives Dong Cheng reason to call Cao Cao, later persuaded by Lü Bu to leave Yuan Shu's coalition.
+- [杨奉 / Yang Feng (late Han)](entities/YangFengLateHan.md) — Former emperor-protection actor first persuaded by Dong Zhao's grain-and-troops letter, later defeated by Cao Cao after the Xu relocation and paired with Han Xian in the Yuan Shu coalition switch.
 - [张勋 / Zhang Xun (Yuan Shu general)](entities/ZhangXunYuanShu.md) — Yuan Shu commander whose attack on Lü Bu collapses after Han Xian and Yang Feng defect.
 - [桥蕤 / Qiao Rui](entities/QiaoRui.md) — Yuan Shu-side commander in Hanji 1018 and later Cao Cao target in Hanji 1019's Qiyang branch.
 - [张霸 / Zhang Ba (late Han)](entities/ZhangBaLateHan.md) — Taishan-area figure whose refusal to share supplies exposes Lü Bu's ignored-advice and lost-face problem.
@@ -8247,6 +8250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻](concepts/QuantumEntanglementFateMetaphor.md) — Hanji 161 source-scoped use of quantum entanglement as language for fate, consciousness, relationship influence, attraction, interference, and virtue-practice-based fate change.
 - [Xiang Camp Factional Cleavage / 项羽阵营派系裂缝](concepts/XiangCampFactionalCleavage.md) — Hanji 160 part 2 frame for the Xiang-family versus old-Chu-merit split that lets Chen Ping's rumor wedge isolate Fan Zeng from Xiang Yu.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, legitimacy, geography, situational timing, actor commitments, alliance incentives, local-capacity limits, and historical-fit limits.
+- [Proactive Adviser Initiative / 主动补位式谋臣](concepts/ProactiveAdviserInitiative.md) — Dong Zhao pattern where an adviser recognizes a future patron's bottleneck and acts before formal instruction by joining strategic assessment with calibrated persuasion.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
 - [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.

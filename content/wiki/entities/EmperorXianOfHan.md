@@ -2,7 +2,7 @@
 title: "汉献帝 / Emperor Xian of Han"
 type: entity
 tags: [person, ruler, late-han, china]
-sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-23
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-23
 汉献帝 / Emperor Xian of Han appears in [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] inside the episode's analogy between [[CaoCao|曹操]] and [[ShangYang|公孙鞅 / 商鞅]]. The source says [[CaoPi|曹丕]] later forces or receives his abdication after the Cao family has already monopolized power.
 
 The page is source-scoped. Its role is not to narrate the late Han in full, but to mark the endpoint of the analogy: some political actors escape a no-retreat condition by turning de facto control into dynastic replacement, while Shang Yang's Qin position does not offer that viable path.
+
+[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] supplies the immediate prelude to Cao Cao's court access. Emperor Xian has returned toward [[LuoyangLateHan|洛阳]] under the protection of actors such as [[HanXianLateHan|韩暹]] and [[YangFengLateHan|杨奉]], but those protectors also become obstacles around the court. [[DongZhaoLateHan|董昭]]'s letter to Yang Feng and [[DongChengLateHan|董承]]'s appeal against Han Xian give [[CaoCao|曹操]] the path and pretext to enter.
 
 [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds the concrete relocation from [[LuoyangLateHan|洛阳]] to [[Xudu|许县 / 许都]]. The source credits [[HanXianLateHan|韩暹]], [[YangFengLateHan|杨奉]], and other protection forces with helping Emperor Xian escape Li Jue and Guo Si and return to Luoyang, but it also says the court remains materially unsafe and politically exposed.
 
@@ -32,6 +34,6 @@ The addition therefore makes Emperor Xian's page less purely endpoint-focused. H
 - [[CaoCao|曹操]] and [[CaoPi|曹丕]] - analogy branch in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - contrast case.
 - [[PowerExitTrap|权力退场困境]] - conceptual frame for irreversible power.
-- [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]], [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[LuoyangLateHan|洛阳]], [[Xudu|许都]], [[YuanShao|袁绍]], [[StrategicCapitalRelocation|战略性迁都]], and [[StrategicTitleConcession|战略性名位让步]] - early relocation and Xu-court title allocation.
+- [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]], [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]], [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[LuoyangLateHan|洛阳]], [[Xudu|许都]], [[DongChengLateHan|董承]], [[YuanShao|袁绍]], [[StrategicCapitalRelocation|战略性迁都]], and [[StrategicTitleConcession|战略性名位让步]] - early Luoyang entry, relocation, and Xu-court title allocation.
 - [[KongRong|孔融]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[MingqiLegitimacy|名器合法性]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - Hanji 1015-1016 title-recognition and anti-usurpation branch.
 - [[YangBiao|杨彪]], [[KongRong|孔融]], and [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]] - Hanji 1020 court-control and responsibility branch.

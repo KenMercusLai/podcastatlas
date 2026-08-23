@@ -17,7 +17,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Key Claims
 - [[HanXianLateHan|韩暹]] and other White Wave / Baibo-linked forces help Emperor Xian escape Li Jue and Guo Si and return to Luoyang, but the episode says they cannot govern the court or protect it from the next risk.
-- After entering Luoyang, Cao Cao combines punishment and reward: he executes several officials for crimes, rewards protectors such as Dong Cheng, and begins remaking the court's authority structure.
+- After entering Luoyang, Cao Cao combines punishment and reward: he executes several officials for crimes, rewards protectors such as [[DongChengLateHan|董承]], and begins remaking the court's authority structure.
 - Dong Zhao supplies the core recommendation behind the Xu relocation. He reads the Luoyang generals as mutually suspicious and hard to command, then argues that Cao Cao should move the emperor to Xu before those actors block him.
 - Dong Zhao's plan handles both material need and political resistance: Luoyang is short of food and housing, Xu is easier to supply, and Yang Feng can be reassured with thanks before he understands the move's strategic cost.
 - The move to Xu is not presented as only opportunism. The source says Luoyang's burned palaces, famine, and depopulated surroundings made relocation persuasive to the emperor and officials while also placing the court inside Cao Cao's stronger operating zone.
@@ -37,6 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[SunCe|孙策]], [[SunJingLateHan|孙静]], [[WangLangLateHan|王朗]], [[YuFan|虞翻]], and [[KuaijiCommandery|会稽郡]] - Kuaiji attack and personnel setting before Hanji 1005.
 - [[LeaderPersonalExposure|领导者轻身涉险]] - downstream Sun Ce risk frame previewed by this source.
 - [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] - immediate follow-on episode covering Yang Feng's failed obstruction, Yuan Shao's title resentment, and Yu Fan's warning to Sun Ce.
+- [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] - immediate prior episode covering Dong Zhao's letter to Yang Feng and Dong Cheng's appeal before Cao Cao enters Luoyang.
 
 ## Contradictions
 - No settled contradiction found. This episode supplies the pre-Hanji-1005 causes behind a relocation already summarized in existing pages.

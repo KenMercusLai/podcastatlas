@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6832
+wiki_total_pages: 6834
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "ZhangYueguang"
     title: "张月光"
     url: "/wiki/entities/zhangyueguang/"
+  - key: "ZhangYangLateHan"
+    title: "张杨 / Zhang Yang (late Han)"
+    url: "/wiki/entities/zhangyanglatehan/"
   - key: "ZhangChuRegime"
     title: "张楚政权 / Zhang Chu Regime"
     url: "/wiki/entities/zhangchuregime/"
