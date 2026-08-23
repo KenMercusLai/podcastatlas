@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6755
+wiki_total_pages: 6763
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "YangYi"
     title: "杨一 / Yang Yi"
     url: "/wiki/entities/yangyi/"
+  - key: "YangXiu"
+    title: "杨修 / Yang Xiu"
+    url: "/wiki/entities/yangxiu/"
   - key: "YangGuangxian"
     title: "杨光先 / Yang Guangxian"
     url: "/wiki/entities/yangguangxian/"
@@ -413,6 +416,9 @@ wiki_pages:
   - key: "YangGuangSui"
     title: "杨广 / Emperor Yang of Sui"
     url: "/wiki/entities/yangguangsui/"
+  - key: "YangBiao"
+    title: "杨彪 / Yang Biao"
+    url: "/wiki/entities/yangbiao/"
   - key: "YangShen"
     title: "杨慎"
     url: "/wiki/entities/yangshen/"
@@ -530,6 +536,9 @@ wiki_pages:
   - key: "YuanZhang"
     title: "袁掌 / Yuan Zhang"
     url: "/wiki/entities/yuanzhang/"
+  - key: "YuanShu"
+    title: "袁术 / Yuan Shu"
+    url: "/wiki/entities/yuanshu/"
   - key: "YuanChanggeng"
     title: "袁长庚 / Yuan Changgeng"
     url: "/wiki/entities/yuanchanggeng/"

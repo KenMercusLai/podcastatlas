@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？](sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's failed imperial momentum, He Kui's diagnosis, Xu Chu's absorption into Cao Cao's guard, and the Yang Biao case as a reputation-constrained prosecution.
 - [《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴](sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr.md) — 芮淇讲透资治通鉴 episode on Lu Wan's drift from Liu Bang's intimate Yan king into covert Chen Xi/Xiongnu delay, Liu Bang's investigation and Fan Kuai campaign, and the source-scoped South Sea king note after Zhao Tuo's Nanyue recognition.
 - [《资治通鉴·汉纪》189｜刘邦死前最后一搏](sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz.md) — 芮淇讲透资治通鉴 episode closing Liu Bang's final attempt to replace Liu Ying with Liu Ruyi through Zhang Liang's avoidance, Shusun Tong's remonstrance, Shangshan Sihao's support, and Qi Ji's exposed position after Ying Bu cleanup.
 - [《资治通鉴·汉纪》188｜古代中国的“天下无税”县](sources/zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz.md) — 芮淇讲透资治通鉴 episode completing Ying Bu's defeat, Liu Bang's wounded return to Pei, the Great Wind Song, and permanent tax/corvee exemptions for Pei and Feng.
@@ -1318,6 +1319,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder used by Hanji 1020 as the negative case for misreading momentum, breaking trust, and losing talent.
+- [何夔 / He Kui](entities/HeKui.md) — Late-Han official whose refusal of Yuan Shu and answer to Cao Cao diagnose Yuan Shu's political failure.
+- [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.
+- [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose Yuan Shu marriage tie leads to a politically risky arrest and release under Cao Cao.
+- [杨修 / Yang Xiu](entities/YangXiu.md) — Yang Biao's son and Yuan Shu marriage link in Hanji 1020's court-risk branch.
+- [孔融 / Kong Rong](entities/KongRong.md) — Old-Han voice who challenges Cao Cao over Yang Biao's arrest and responsibility-shifting.
+- [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official who joins Kong Rong in warning against torturing Yang Biao.
+- [满宠 / Man Chong](entities/ManChong.md) — Xudu official whose interrogation report gives Cao Cao a release path in the Yang Biao case.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
 - [范齐 / Fan Qi (Lu Wan envoy)](entities/FanQiLuWanEnvoy.md) — Covert messenger sent by Lu Wan to tell Chen Xi to keep resisting so Yan would not face Liu Bang alone.
 - [臧衍 / Zang Yan](entities/ZangYan.md) — Zang Tu's Xiongnu-exiled son whose warning to Zhang Sheng reframes Chen Xi's survival as Yan's buffer against Liu Bang.
@@ -8077,6 +8086,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Prestige-Constrained Political Prosecution / 名望约束下的政治追诉](concepts/PrestigeConstrainedPoliticalProsecution.md) — Hanji 1020 pattern where weak evidence, elite prestige, and public confidence constrain punishment in Yang Biao's case.
 - [内廷通道攀附风险 / Inner-Court Access Brokerage Risk](concepts/InnerCourtAccessBrokerageRisk.md) — Pattern where an outer official's attempt to gain favor through a ruler's intimate household channel becomes suspicion, accusation, investigation, and political crisis.
 - [Demoted Vassal Safety Signal / 降爵诸侯安全信号](concepts/DemotedVassalSafetySignal.md) — Early Han consolidation logic where preserving a demoted former king makes surrender or title loss look survivable to other exposed powerholders.
 - [Celebratory Summons Entrapment / 报捷祝贺式诱捕](concepts/CelebratorySummonsEntrapment.md) — False victory news and congratulatory court protocol used to lure a politically dangerous target into controlled palace space, where entry becomes loss of options.

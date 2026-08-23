@@ -2,8 +2,8 @@
 title: "汉献帝 / Emperor Xian of Han"
 type: entity
 tags: [person, ruler, late-han, china]
-sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+last_updated: 2026-08-23
 ---
 
 # 汉献帝 / Emperor Xian of Han
@@ -12,7 +12,12 @@ last_updated: 2026-08-19
 
 The page is source-scoped. Its role is not to narrate the late Han in full, but to mark the endpoint of the analogy: some political actors escape a no-retreat condition by turning de facto control into dynastic replacement, while Shang Yang's Qin position does not offer that viable path.
 
+[[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] adds an earlier court-control use of Emperor Xian. After [[CaoCao|曹操]] brings him to Xu, the court still contains old-Han ministers whose prestige and networks matter. The arrest of [[YangBiao|杨彪]] is formally reported through imperial channels, but [[KongRong|孔融]]'s reply treats Cao Cao as the actor who cannot hide behind the emperor's name.
+
+The addition therefore makes Emperor Xian's page less purely endpoint-focused. He is also a living legitimating surface in Cao Cao's court: accusations can be framed as the emperor's will, while real accountability remains contested among ministers who understand where effective power sits.
+
 ## Connections
 - [[CaoCao|曹操]] and [[CaoPi|曹丕]] - analogy branch in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - contrast case.
 - [[PowerExitTrap|权力退场困境]] - conceptual frame for irreversible power.
+- [[YangBiao|杨彪]], [[KongRong|孔融]], and [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]] - Hanji 1020 court-control and responsibility branch.

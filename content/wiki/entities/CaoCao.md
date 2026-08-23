@@ -2,8 +2,8 @@
 title: "曹操 / Cao Cao"
 type: entity
 tags: [person, ruler, late-han, three-kingdoms, china]
-sources: [zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+last_updated: 2026-08-23
 ---
 
 # 曹操 / Cao Cao
@@ -16,6 +16,10 @@ The host invokes Cao Cao's own self-justifying writing to make the point that wi
 
 [[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] adds Cao Cao as a cautionary drinking-and-desire case. In the source's Wancheng story, [[ZhangXiu|张绣]]'s side gets [[DianWei|典韦]] drunk and hides his weapon, then attacks after Cao Cao's private indulgence has already made the situation unstable. Cao Cao escapes, but [[CaoAng|曹昂]], Cao Anmin, and Dian Wei die, making the episode's point that alcohol around commanders can turn private desire into a security failure.
 
+[[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] adds Cao Cao as a direct late-Han actor rather than only a later analogy or cautionary example. He asks [[HeKui|何夔]] to judge [[YuanShu|袁术]], then reads Yuan Shu's failure through talent and trust: a regime that cannot accommodate people like He Kui has already lost usable capacity. The same episode shows Cao Cao absorbing [[XuChu|许褚]]'s local armed following into his close guard while also controlling the court around [[EmperorXianOfHan|汉献帝]] through the politically risky [[YangBiao|杨彪]] case.
+
+This addition keeps Cao Cao double-edged. He is severe enough that He Kui fears humiliation and Yang Biao can be arrested under a thin accusation, but he is also shown adjusting when [[ManChong|满宠]] warns that punishment without evidence would damage popular confidence. In this source, Cao Cao's strength is not moral purity; it is the ability to identify talent, absorb force, and step back from a reputationally costly prosecution.
+
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] - Warring States figure compared with him.
 - [[CaoPi|曹丕]] - son whose later control over the Han court becomes the sequel in the episode's analogy.
@@ -23,3 +27,4 @@ The host invokes Cao Cao's own self-justifying writing to make the point that wi
 - [[PowerExitTrap|权力退场困境]] and [[GoodIntentionsPoliticalLimits]] - conceptual frames for power, exit, and political realism.
 - [[LeYi|乐毅]], [[BaoYanHuiwangShu|《报燕惠王书》]], and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 reception branch for Le Yi's letter.
 - [[ZhangXiu|张绣]], [[DianWei|典韦]], [[CaoAng|曹昂]], and [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] - Qinji 131-2 Wancheng drinking-and-security branch.
+- [[YuanShu|袁术]], [[HeKui|何夔]], [[XuChu|许褚]], [[YangBiao|杨彪]], and [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]] - Hanji 1020 late-Han talent, force-absorption, and court-risk branch.

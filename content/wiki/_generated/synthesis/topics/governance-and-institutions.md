@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: 8e9107e5071d03a866e47177f749ef14b088d452
-input_digest: 708f0f9da4904f30674ad8530b9442de0e002afe58151752744019ddda5869a6
+as_of_overview_commit: 26c2138240498e9cacfa7f9bb622dc9aa201f673
+input_digest: 41d8016b428191787f6cc67484f581f0acef40502f2ab606fd11e05c3a32cca0
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, public symbols become legitimacy, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 191 sharpens the early-Han side: even personal intimacy cannot dissolve different-surname king risk, so Lu Wan's Yan crisis turns trust into investigation, frontier hedging, military pressure, and pardon-based separation of a ruler from his officials. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
+Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, public symbols become legitimacy, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1020 adds a late-Han branch in which reading momentum, holding trust, and retaining talent decide whether Yuan Shu's formal ambition collapses while Cao Cao's harsh but talent-absorbing coalition grows, though Yang Biao's case shows prestige and evidence can still constrain court prosecution. Hanji 191 sharpens the early-Han side: even personal intimacy cannot dissolve different-surname king risk, so Lu Wan's Yan crisis turns trust into investigation, frontier hedging, military pressure, and pardon-based separation of a ruler from his officials. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
 
 ## Cross-source Findings
 
@@ -128,3 +128,14 @@ Trust and mission are governance assets only when protected by structures: custo
 **Qualifications:**
 
 - The claim joins older ownership structures, AI governance, operating culture, and founder-brand cases under the narrower question of how trust survives pressure.
+
+### Late Han Momentum Talent And Prosecution Constraints
+
+Hanji 1020 frames late-Han state capacity as the ability to read momentum and convert trust into personnel: [[YuanShu]] loses legitimacy by misreading timing and failing to keep talent, while [[CaoCao]] grows by absorbing [[HeKui]] and [[XuChu]] even as [[YangBiao]]'s case shows that prosecution near [[EmperorXianOfHan]] remains constrained by old-Han prestige and evidence.
+
+**Evidence:** [[YuanShu]], [[CaoCao]], [[HeKui]], [[XuChu]], [[YangBiao]], [[EmperorXianOfHan]], [[KongRong]], [[XunYu]], [[ManChong]], [[XingshiqingStrategicAssessment]], [[TalentAsStateTreasure]], [[PeopleBasedPoliticalSecurity]], [[PrestigeConstrainedPoliticalProsecution]]
+
+**Qualifications:**
+
+- This is source-scoped to the Ruiqi interpretation of the 197 CE cluster around Yuan Shu, He Kui, Xu Chu, and Yang Biao.
+- It does not clear Cao Cao of coercive court control; the Kong Rong, Xun Yu, and Man Chong branch instead shows that harsh command still needs public legitimacy and evidentiary limits.

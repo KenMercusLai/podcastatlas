@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 6755
+wiki_total_pages: 6763
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "Xunzi"
     title: "荀子 / Xunzi"
     url: "/wiki/entities/xunzi/"
+  - key: "XunYu"
+    title: "荀彧 / Xun Yu"
+    url: "/wiki/entities/xunyu/"
   - key: "XunYue"
     title: "荀悦 / Xun Yue"
     url: "/wiki/entities/xunyue/"
@@ -380,6 +383,9 @@ wiki_pages:
   - key: "XuShen"
     title: "许慎"
     url: "/wiki/entities/xushen/"
+  - key: "XuChu"
+    title: "许褚 / Xu Chu"
+    url: "/wiki/entities/xuchu/"
   - key: "XuFuPhysiognomist"
     title: "许负 / Xu Fu (physiognomist)"
     url: "/wiki/entities/xufuphysiognomist/"

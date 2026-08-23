@@ -10518,6 +10518,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 187: Ying Bu's open rebellion after Han Xin and Peng Yue, Xue Gong's upper/middle/lower strategy forecast, Liu Bang's abolition of Ying Bu's title and appointment of Liu Chang as Huainan king, Liu Bang's rejected plan to send crown prince Liu Ying, Lu Zhi's intervention, Zhang Liang's sickbed sendoff, and Ying Bu's early tactical success against divided Chu defenses. Created Xue Gong (Han adviser) and Liu Chang (Huainan king); updated overview, index, Ying Bu, Liu Bang, Huainan Kingdom, Liu Ying, Lu Zhi, Xiahou Ying, Zhang Liang, Crown-Prince Command Risk, Xingshiqing Strategic Assessment, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 186's fear-and-investigation chain while limiting Ying Bu's threat through Xue Gong's lower-strategy diagnosis.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？
+
+Added source page for Hanji 1020: Yuan Shu's failed imperial momentum, He Kui's diagnosis of timing/trust/talent failure, Cao Cao's contrastive talent absorption through He Kui and Xu Chu, and the Yang Biao case as a reputation-constrained prosecution under Emperor Xian's court. Created Yuan Shu, He Kui, Xu Chu, Yang Biao, Yang Xiu, Kong Rong, Xun Yu, Man Chong, and Prestige-Constrained Political Prosecution; updated overview, index, Cao Cao, Emperor Xian of Han, Xingshiqing Strategic Assessment, Talent as State Treasure, and People-Based Political Security. No settled contradiction found; Yang Biao's accusation is preserved as source-scoped political risk rather than treated as proven guilt.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -10529,3 +10537,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] lint | Wiki lint
+
+Ran lint after health and identity validation passed. Health scanned 13,230 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scanned 13,230 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph bridge findings as final. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider model/API-key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

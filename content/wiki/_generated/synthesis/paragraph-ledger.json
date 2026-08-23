@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "2ecc88a24b9491ba3fd16fe9e877425b74656c3e235d3a14717161c531381460",
       "c9c7072ad97ee0426533028e642b2f74efcc6ef2e585f53c2802e650e500dba0",
       "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
       "1c586d4c3ba4e610219271aaa9cf7ed27268a2c448a870be3b0674762bc38c54",
@@ -124,11 +125,39 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 122
+    "paragraph_count": 123
   },
-  "overview_commit": "8e9107e5071d03a866e47177f749ef14b088d452",
-  "overview_digest": "8fabb629b1647f45b73f20dbfe31873d70d63af387c1f7e9a8cda77eae6148e6",
+  "overview_commit": "26c2138240498e9cacfa7f9bb622dc9aa201f673",
+  "overview_digest": "db44c335320ac20c4c5c3301ca60aa334e05a02969de0117f8d20e0401a3e2df",
   "paragraphs": [
+    {
+      "id": "2ecc88a24b9491ba3fd16fe9e877425b74656c3e235d3a14717161c531381460",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that uses late-Han [[YuanShu|袁术]] as a test of whether a political actor can read \"势.\" [[HeKui|何夔]] tells [[CaoCao|曹操]] that Yuan Shu lacks the timing and trust needed for durable support, and the episode turns that into a broader failure of talent integration: Yuan Shu cannot hold people like He Kui, while Cao Cao can absorb He Kui and [[XuChu|许褚]] even under a severe command style. The same episode adds the [[YangBiao|杨彪]] case as a court-control boundary around [[EmperorXianOfHan|汉献帝]]: [[KongRong|孔融]], [[XunYu|荀彧]], and [[ManChong|满宠]] show that old-Han prestige and weak evidence can make punishment politically expensive. This extends [[XingshiqingStrategicAssessment|行势情战略评估]], [[TalentAsStateTreasure|以贤臣为宝]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]] without settling any new contradiction.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "EmperorXianOfHan",
+        "HeKui",
+        "KongRong",
+        "ManChong",
+        "PeopleBasedPoliticalSecurity",
+        "PrestigeConstrainedPoliticalProsecution",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAsStateTreasure",
+        "XingshiqingStrategicAssessment",
+        "XuChu",
+        "XunYu",
+        "YangBiao",
+        "YuanShu",
+        "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0"
+      ]
+    },
     {
       "id": "c9c7072ad97ee0426533028e642b2f74efcc6ef2e585f53c2802e650e500dba0",
       "primary_topic": "governance-and-institutions",

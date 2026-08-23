@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 8e9107e5071d03a866e47177f749ef14b088d452
+as_of_overview_commit: 26c2138240498e9cacfa7f9bb622dc9aa201f673
 summary: "Durable power and value come from systems: context, trust, distribution, institutions, verification, and judgment, with trust still constrained by structural risk."
-episode_count: 1310
-source_count: 1310
-paragraph_count: 122
+episode_count: 1311
+source_count: 1311
+paragraph_count: 123
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Cultural works in the corpus function as experiments in politics, identity, evid
 
 ### Governance and Institutions
 
-Governance translates power into institutions, symbols, markets, and trust structures while exposing backlash, liability, rights, stewardship risk, and the failure of personal trust under structural vassal suspicion.
+Governance translates power into institutions, symbols, markets, talent coalitions, and trust structures while exposing backlash, liability, rights, stewardship risk, and prosecution limits.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
