@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6795
+wiki_total_pages: 6807
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "QinXiaogong"
     title: "秦孝公 / Duke Xiao of Qin"
     url: "/wiki/entities/qinxiaogong/"
+  - key: "QinYilu"
+    title: "秦宜禄 / Qin Yilu"
+    url: "/wiki/entities/qinyilu/"
   - key: "QinKai"
     title: "秦开 / Qin Kai"
     url: "/wiki/entities/qinkai/"
@@ -224,6 +227,9 @@ wiki_pages:
   - key: "QinZhaoxiangwang"
     title: "秦昭襄王 / King Zhaoxiang of Qin"
     url: "/wiki/entities/qinzhaoxiangwang/"
+  - key: "QinLang"
+    title: "秦朗 / Qin Lang"
+    url: "/wiki/entities/qinlang/"
   - key: "QinWuwang"
     title: "秦武王 / King Wu of Qin"
     url: "/wiki/entities/qinwuwang/"

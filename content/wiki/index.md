@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？](sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh.md) — 芮淇讲透资治通鉴 episode on Cao Cao's desire pattern, Lady Zhou at Wancheng, Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin.
 - [《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？](sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69.md) — 芮淇讲透资治通鉴 episode on Cao Cao's household and 分香卖履, Yu Jin restoring Wancheng retreat discipline, and Xun Yu/Guo Jia's 十胜十败 comparison against Yuan Shao.
 - [《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？](sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Lü Bu/Yuan Shao sequencing, Zhong Yao stabilizing Guanzhong, and Yuan Shu's Shouchun self-coronation as a title-reality and anti-usurpation coalition-pressure failure.
 - [《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择](sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs.md) — 芮淇讲透资治通鉴 episode on 名器 legitimacy, Yuan Shu's unsupported imperial claim, Chen Gui blocking the Yuan Shu-Lü Bu marriage alliance, Han Yin's failed mission, and the Chen family's survival path toward Cao Cao.
@@ -1325,7 +1326,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Hanji 1014 Wancheng-retreat conduct links discipline, civilian protection, camp defense, and reward.
+- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose repeated request for Lady Du alerts Cao Cao to her before the Xiapi household shift.
+- [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
+- [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
+- [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
+- [尹夫人 / Lady Yin (Cao Cao)](entities/LadyYinCaoCao.md) — He Jin's daughter-in-law and He Yan's mother, taken into Cao Cao's household in Hanji 1013.
+- [何晏 / He Yan](entities/HeYan.md) — Lady Yin's son and Cao Cao foster son used by Hanji 1013 to bridge Cao household history to Wei-Jin cultural style.
+- [何进 / He Jin](entities/HeJin.md) — Late-Han family status marker for Lady Yin and He Yan in Hanji 1013.
+- [周氏 / Lady Zhou (Wancheng)](entities/LadyZhouWancheng.md) — Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult in Hanji 1013.
+- [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
+- [贾诩 / Jia Xu](entities/JiaXu.md) — Zhang Xiu adviser whose Wancheng plan turns leaked danger into an armored camp-passage and night attack.
+- [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
+- [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han regional power to whom Zhang Xiu reconnects after the Wancheng sequence.
+- [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — Cao Cao's original wife and Cao Ang's foster mother; Hanji 1014 ties Cao Ang's death to the household rupture.
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
 - [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose Hanji 1015 sequencing advice treats Yuan Shao's Gongsun Zan campaign as a window to remove Lü Bu first.
@@ -1552,7 +1565,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — Excavated Qin-Han evidence used in Qinji 138 to correct "宦人/宦籍" and "隐官" vocabulary around Zhao Gao.
 - [睡虎地秦简 / Shuihudi Qin Slips](entities/ShuihudiQinJian.md) — Excavated Qin legal-administrative material used to support reading "隐官" as status/workplace rather than castration.
 - [陈留 / Chenliu](entities/Chenliu.md) — Qinji 136 route hub where Li Shiqi's risky inside action gives Liu Bang grain, weapons, recruits, and a stronger westward base.
-- [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose negotiated surrender turns Liu Bang from rear-risk assault toward rewarded pacification.
+- [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose branches include Liu Bang's rewarded surrender-pacification and Cao Cao/Zhang Xiu's late-Han Wancheng disaster.
 - [陈恢 / Chen Hui (Nanyang)](entities/ChenHuiNanyang.md) — Nanyang retainer who persuades Liu Bang to accept Wan's surrender by appealing to his Guanzhong deadline under the Huaiwang agreement.
 - [郦商 / Li Shang](entities/LiShang.md) — Li Shiqi's younger brother appointed general over many Chenliu troops after Liu Bang takes the city.
 - [杨熊 / Yang Xiong (Qin General)](entities/YangXiongQinGeneral.md) — Qin general defeated by Liu Bang and executed by Qin Er Shi, disambiguated from the later author Yang Xiong.
@@ -8124,6 +8137,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.
+- [Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效](concepts/WeiJinStyleCulturalAfterlife.md) — Hanji 1013 bridge from He Yan's Cao-household position to later Wei-Jin elite style, xuanxue, drug use, fragrance, appearance, and qingtan.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
 - [Crisis-First Military Discipline / 临危先务军纪](concepts/CrisisFirstMilitaryDiscipline.md) — Hanji 1014 Yu Jin pattern: public order and camp security before personal vindication in retreat.
 - [分香卖履 / Fenxiang Mailu](concepts/FenxiangMailu.md) — Hanji 1014 Cao Cao deathbed household-settlement frame around incense, livelihood, and non-sacrificial family duty.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5164
+wiki_total_pages: 5166
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "DesirableDifficulty"
     title: "Desirable Difficulty"
     url: "/wiki/concepts/desirabledifficulty/"
+  - key: "DesireDrivenCommandExposure"
+    title: "Desire-Driven Command Exposure / 私欲驱动的统帅暴露"
+    url: "/wiki/concepts/desiredrivencommandexposure/"
   - key: "DetentionAsLocalEconomicDevelopment"
     title: "Detention As Local Economic Development"
     url: "/wiki/concepts/detentionaslocaleconomicdevelopment/"

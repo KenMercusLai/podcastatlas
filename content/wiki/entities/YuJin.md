@@ -2,11 +2,13 @@
 title: "于禁 / Yu Jin"
 type: entity
 tags: [person, general, late-han, three-kingdoms, china]
-sources: [zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69]
+sources: [zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69]
 last_updated: 2026-08-23
 ---
 
 # 于禁 / Yu Jin
+
+于禁 / Yu Jin first appears in the Wancheng branch through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]], where he arrives after [[CaoCao|曹操]] escapes and defeats [[ZhangXiu|张绣]]'s continued pursuit. The source uses him as the force that prevents the disaster from becoming total collapse.
 
 于禁 / Yu Jin enters the wiki through [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]] as [[CaoCao|曹操]]'s 平鲁校尉 during the Wancheng retreat. While Cao Cao's force is disordered, Yu Jin keeps his own troops controlled and suppresses plundering by Qingzhou soldiers attached to Cao Cao's army.
 
@@ -16,6 +18,7 @@ Cao Cao praises Yu Jin for settling disorder and securing the camp under extreme
 
 ## Connections
 - [[CaoCao|曹操]] - commander who praises and rewards him.
+- [[ZhangXiu|张绣]] - opposing commander whose pursuit he helps defeat in Hanji 1013.
 - [[CrisisFirstMilitaryDiscipline|临危先务军纪]] - core concept drawn from his conduct.
 - [[MeritBasedRewardPunishment|因功赏罚]] - reward logic applied after the retreat.
 - [[TenVictoriesTenDefeats|十胜十败论]] - later section in the same episode comparing leadership systems.

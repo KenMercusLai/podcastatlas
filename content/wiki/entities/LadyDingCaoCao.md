@@ -2,7 +2,7 @@
 title: "丁夫人 / Lady Ding (Cao Cao)"
 type: entity
 tags: [person, late-han, cao-family, three-kingdoms, china]
-sources: [zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69]
+sources: [zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69]
 last_updated: 2026-08-23
 ---
 
@@ -12,8 +12,11 @@ last_updated: 2026-08-23
 
 After Cao Ang dies in the Wancheng aftermath, the episode says Lady Ding breaks with Cao Cao. Her role is therefore not just genealogical. She makes the cost of Cao Cao's earlier security failure visible inside the family, where Cao Ang's death changes marriage, succession, and household memory.
 
+[[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] gives the rupture a sharper causal frame. The source says Lady Ding hates Cao Cao for the death of Cao Ang, ultimately separates from him, and never forgives him; the host also suggests Cao Cao may not have forgiven himself because Cao Ang was his first son and had been treated as an heir.
+
 ## Connections
 - [[CaoCao|曹操]] - husband whose Wancheng failure becomes a family rupture.
 - [[CaoAng|曹昂]] - foster son whose death drives the rupture.
+- [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]] - Wancheng failure mode behind the household rupture.
 - [[LadyBianCaoCao|卞夫人]] - later chief wife named in the same household list.
 - [[FenxiangMailu|分香卖履]] - later household-settlement frame in the source.

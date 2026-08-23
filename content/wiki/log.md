@@ -10586,6 +10586,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 1014: Cao Cao's household list and 分香卖履 deathbed arrangement, Yu Jin's Wancheng retreat discipline, and Xun Yu/Guo Jia's 十胜十败 comparison against Yuan Shao. Created Yu Jin, Lady Ding (Cao Cao), Lady Bian (Cao Cao), Fenxiang Mailu, Crisis-First Military Discipline, and Ten Victories and Ten Defeats; updated overview, index, Cao Cao, Yuan Shao, Xun Yu, Guo Jia, Cao Ang, Xingshiqing Strategic Assessment, Merit-Based Reward and Punishment, and Talent as State Treasure. No settled contradiction found; household list and confidence lesson are source-scoped.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？
+
+Added source page for Hanji 1013: Cao Cao's desire pattern through Lady Du and Lady Yin, the Wancheng chain through Lady Zhou, Zhang Xiu's resentment, Jia Xu's pre-emptive plan, Hu Che'er disabling Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin. Created Guan Yu, Lady Du, Qin Yilu, Qin Lang, Lady Yin, He Yan, He Jin, Lady Zhou (Wancheng), Hu Che'er, Jia Xu, Cao Anmin, Liu Biao, Desire-Driven Command Exposure, and Wei-Jin Style Cultural Afterlife; updated overview, index, Cao Cao, Zhang Xiu, Dian Wei, Cao Ang, Yu Jin, Lady Ding, Wan County, Alcohol as Power Catalyst, and Status Insult Defection Cascade. No settled contradiction found; the source's "for one woman" causal slogan is kept as source-scoped shorthand, and Lady Zhou is disambiguated from Zhou Shi (Rebel).
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

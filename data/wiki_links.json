@@ -7375,6 +7375,10 @@
     "title": "曹昂 / Cao Ang",
     "url": "/wiki/entities/caoang/"
   },
+  "CaoAnmin": {
+    "title": "曹安民 / Cao Anmin",
+    "url": "/wiki/entities/caoanmin/"
+  },
   "CaoBin": {
     "title": "曹彬 / Cao Bin",
     "url": "/wiki/entities/caobin/"
@@ -12130,6 +12134,10 @@
   "DesirableDifficulty": {
     "title": "Desirable Difficulty",
     "url": "/wiki/concepts/desirabledifficulty/"
+  },
+  "DesireDrivenCommandExposure": {
+    "title": "Desire-Driven Command Exposure / 私欲驱动的统帅暴露",
+    "url": "/wiki/concepts/desiredrivencommandexposure/"
   },
   "DesmondShum": {
     "title": "Desmond Shum",
@@ -18287,6 +18295,10 @@
     "title": "灌婴 / Guan Ying",
     "url": "/wiki/entities/guanying/"
   },
+  "GuanYu": {
+    "title": "关羽 / Guan Yu",
+    "url": "/wiki/entities/guanyu/"
+  },
   "GuanZhong": {
     "title": "管仲 / Guan Zhong",
     "url": "/wiki/entities/guanzhong/"
@@ -19147,6 +19159,10 @@
     "title": "林优里 / Hayashi Yuri",
     "url": "/wiki/entities/hayashiyuri/"
   },
+  "HeJin": {
+    "title": "何进 / He Jin",
+    "url": "/wiki/entities/hejin/"
+  },
   "HeKui": {
     "title": "何夔 / He Kui",
     "url": "/wiki/entities/hekui/"
@@ -19166,6 +19182,10 @@
   "HeXiaopeng": {
     "title": "He Xiaopeng / 何小鹏",
     "url": "/wiki/entities/hexiaopeng/"
+  },
+  "HeYan": {
+    "title": "何晏 / He Yan",
+    "url": "/wiki/entities/heyan/"
   },
   "HeadAndShoulders": {
     "title": "Head & Shoulders / 海飞丝",
@@ -20146,6 +20166,10 @@
   "HowardMarks": {
     "title": "Howard Marks / 霍华德·马克斯",
     "url": "/wiki/entities/howardmarks/"
+  },
+  "HuCheEr": {
+    "title": "胡车儿 / Hu Che'er",
+    "url": "/wiki/entities/hucheer/"
   },
   "HuGe": {
     "title": "胡戈 / Hu Ge",
@@ -22439,6 +22463,10 @@
     "title": "贾蔷 / Jia Qiang",
     "url": "/wiki/entities/jiaqiang/"
   },
+  "JiaXu": {
+    "title": "贾诩 / Jia Xu",
+    "url": "/wiki/entities/jiaxu/"
+  },
   "JiaYangqing": {
     "title": "Jia Yangqing / 贾扬清",
     "url": "/wiki/entities/jiayangqing/"
@@ -24299,6 +24327,18 @@
     "title": "丁夫人 / Lady Ding (Cao Cao)",
     "url": "/wiki/entities/ladydingcaocao/"
   },
+  "LadyDuCaoCao": {
+    "title": "杜夫人 / Lady Du (Cao Cao)",
+    "url": "/wiki/entities/ladyducaocao/"
+  },
+  "LadyYinCaoCao": {
+    "title": "尹夫人 / Lady Yin (Cao Cao)",
+    "url": "/wiki/entities/ladyyincaocao/"
+  },
+  "LadyZhouWancheng": {
+    "title": "周氏 / Lady Zhou (Wancheng)",
+    "url": "/wiki/entities/ladyzhouwancheng/"
+  },
   "LaelBrainard": {
     "title": "Lael Brainard",
     "url": "/wiki/entities/laelbrainard/"
@@ -25626,6 +25666,10 @@
   "LiuBiWuKing": {
     "title": "刘濞 / Liu Bi (King of Wu)",
     "url": "/wiki/entities/liubiwuking/"
+  },
+  "LiuBiao": {
+    "title": "刘表 / Liu Biao",
+    "url": "/wiki/entities/liubiao/"
   },
   "LiuBinyan": {
     "title": "刘彬晏 / Liu Binyan",
@@ -34703,6 +34747,10 @@
     "title": "秦代坑儒事件 / Qin Kengru Incident",
     "url": "/wiki/concepts/qinkengruincident/"
   },
+  "QinLang": {
+    "title": "秦朗 / Qin Lang",
+    "url": "/wiki/entities/qinlang/"
+  },
   "QinLateOmenCrisis": {
     "title": "秦始皇晚年异象危机 / Qin Late Omen Crisis",
     "url": "/wiki/entities/qinlateomencrisis/"
@@ -34770,6 +34818,10 @@
   "QinXiaowenwangDeathUncertainty": {
     "title": "Qin Xiaowen Wang Death Uncertainty / 秦孝文王三日而亡疑案",
     "url": "/wiki/concepts/qinxiaowenwangdeathuncertainty/"
+  },
+  "QinYilu": {
+    "title": "秦宜禄 / Qin Yilu",
+    "url": "/wiki/entities/qinyilu/"
   },
   "QinYing": {
     "title": "秦嬴 / Qin Ying",
@@ -45131,6 +45183,10 @@
     "title": "Wei Great Wall Anti-Qin Defense / 魏长城防秦",
     "url": "/wiki/concepts/weigreatwallantiqindefense/"
   },
+  "WeiJinStyleCulturalAfterlife": {
+    "title": "Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效",
+    "url": "/wiki/concepts/weijinstyleculturalafterlife/"
+  },
   "WeiJingminWang": {
     "title": "魏景湣王 / 魏增 / King Jingmin of Wei",
     "url": "/wiki/entities/weijingminwang/"
@@ -51862,6 +51918,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh": {
+    "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
   },
   "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69": {
     "title": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？",

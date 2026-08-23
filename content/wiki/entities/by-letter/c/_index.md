@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6795
+wiki_total_pages: 6807
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "CaoJiu"
     title: "曹咎 / Cao Jiu"
     url: "/wiki/entities/caojiu/"
+  - key: "CaoAnmin"
+    title: "曹安民 / Cao Anmin"
+    url: "/wiki/entities/caoanmin/"
   - key: "CaoYin"
     title: "曹寅 / Cao Yin"
     url: "/wiki/entities/caoyin/"

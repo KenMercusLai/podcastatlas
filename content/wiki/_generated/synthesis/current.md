@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 7ef0ec0fe22e57f0ff6b658b8c0f01deb23e0b14
+as_of_overview_commit: 09eb3368b861cec7488236ad2d40c2eeeb6a78cf
 summary: "The corpus maps durable change to systems: AI workflows, market proof, governance controls, historical legitimacy, culture, science evidence, and learning judgment."
-episode_count: 1317
-source_count: 1317
-paragraph_count: 129
+episode_count: 1318
+source_count: 1318
+paragraph_count: 130
 topic_count: 8
 ---
 
@@ -49,14 +49,14 @@ Cultural sources treat literature, folklore, games, and media as ways to examine
 
 ### Governance and Institutions
 
-Governance turns power into order through rules, titles, symbols, trust, markets, and exits, while repeatedly exposing backlash, compliance, and legitimacy risks.
+Governance turns power into order through rules, titles, symbols, trust, markets, and exits, while Hanji 1013 adds how private desire and status insult can expose command to lethal security failure.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-History and geopolitics now connect Cao Cao's leadership system, late-Han legitimacy and alliances, local-order fragility, state capacity, and handset ecosystems.
+History and geopolitics connect Cao Cao's leadership system, late-Han legitimacy and alliances, local-order fragility, state capacity, and handset ecosystems.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].

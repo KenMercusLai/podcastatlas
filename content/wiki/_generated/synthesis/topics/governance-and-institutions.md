@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-23
-as_of_overview_commit: 8b870c33e9744cbc8f16f26ae3059d8105887337
-input_digest: c0ebc7029fada1c980a8b77248f66209895c4f8014e3cbd15140d1696d450d32
+as_of_overview_commit: 09eb3368b861cec7488236ad2d40c2eeeb6a78cf
+input_digest: a55c4316b1eed942ab41c2919550cfcf910ad9b4fe1413a32c54587eb383076e
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1015-1020 widen the late-Han branch from title legitimacy into strategic sequencing, rear stabilization, staged family survival, coalition control, and talent retention: Yuan Shu's imperial name is a liability without capacity and recognition, Cao Cao's advisers pair Lu Bu sequencing with Guanzhong stabilization, Chen Gui blocks the Yuan Shu-Lu Bu marriage route to protect Xuzhou and the Chen family, Chen Deng and Chen Gui diagnose Lu Bu's light switching and turn Guangling into a Cao-aligned base, Liu Chong and Luo Jun make Chen state a refuge vulnerable to decapitation, and Yang Biao's case shows prestige and evidence can still constrain court prosecution. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
+Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, title claims become legitimacy tests, local refuge becomes person-dependent security, public symbols become authority, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 1013 adds a Wancheng command-exposure branch in which private desire, status insult, guard disabling, and leaked coercion turn surrendered authority into a lethal night-attack risk; Hanji 1014-1020 then widen the late-Han branch into household settlement, retreat discipline, strategic sequencing, rear stabilization, staged family survival, coalition control, title legitimacy, and talent retention. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.
 
 ## Cross-source Findings
 
@@ -129,15 +129,26 @@ Trust and mission are governance assets only when protected by structures: custo
 
 - The claim joins older ownership structures, AI governance, operating culture, and founder-brand cases under the narrower question of how trust survives pressure.
 
-### Late Han Interest Talent And Prosecution Constraints
+### Wancheng Private Desire Becomes Command Exposure
 
-Hanji 1015-1020 frame late-Han state capacity as sequencing, title legitimacy, local alignment, interest reading, coalition control, and talent retention: [[GuoJia]], [[XunYu]], and [[ZhongYao]] help [[CaoCao]] exploit [[YuanShao]]'s distraction and stabilize [[GuanzhongRegion]] before [[YuanShu]]'s self-coronation creates [[AntiUsurpationCoalitionPressure]] through [[MingqiLegitimacy]] and [[TitleRealityRestraint]]; later [[ChenGui]], [[ChenDeng]], and [[LyuBu]] show marriage exposure, brittle alliances, and personnel trust failures, while [[HeKui]], [[XuChu]], and [[YangBiao]] show that talent absorption and prosecution near [[EmperorXianOfHan]] remain constrained by trust, evidence, and public reputation.
+Hanji 1013 frames Wancheng as a command-exposure chain in which [[CaoCao]]'s household desire and status handling turn surrendered authority into danger: [[LadyDuCaoCao]] and [[LadyYinCaoCao]] establish the desire pattern, [[LadyZhouWancheng]], [[HuCheEr]], [[ZhangXiu]], and [[JiaXu]] turn it into pre-emptive revolt mechanics, and drink plus weapon theft disable [[DianWei]] before the deaths of [[CaoAng]] and [[CaoAnmin]] rupture [[LadyDingCaoCao]]'s household position.
 
-**Evidence:** [[GuoJia]], [[XunYu]], [[ZhongYao]], [[CaoCao]], [[YuanShao]], [[GuanzhongRegion]], [[YuanShu]], [[AntiUsurpationCoalitionPressure]], [[MingqiLegitimacy]], [[TitleRealityRestraint]], [[ChenGui]], [[ChenDeng]], [[LyuBu]], [[MarriageAllianceWarExposure]], [[InterestStructuredAllianceFragility]], [[HeKui]], [[XuChu]], [[YangBiao]], [[EmperorXianOfHan]], [[XingshiqingStrategicAssessment]], [[PrestigeConstrainedPoliticalProsecution]], [[TalentAsStateTreasure]]
+**Evidence:** [[CaoCao]], [[LadyDuCaoCao]], [[LadyYinCaoCao]], [[WanCounty]], [[LadyZhouWancheng]], [[HuCheEr]], [[ZhangXiu]], [[JiaXu]], [[AlcoholAsPowerCatalyst]], [[DesireDrivenCommandExposure]], [[DianWei]], [[CaoAng]], [[CaoAnmin]], [[LadyDingCaoCao]], [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]]
 
 **Qualifications:**
 
-- This is source-scoped to the Ruiqi interpretation of the 197 CE cluster around Guo Jia, Xun Yu, Zhong Yao, Yuan Shu, Chen Deng, Chen Gui, Lu Bu, Guangling, Liu Chong, Luo Jun, Yuan Shao, He Kui, Xu Chu, and Yang Biao.
+- This is source-scoped to the Hanji 1013 interpretation; the source's strongest causal slogan is kept as shorthand rather than the sole explanation for Dian Wei's death.
+- The Lady Zhou branch is disambiguated as the Wancheng figure connected to Zhang Xiu.
+
+### Late Han Interest Talent And Prosecution Constraints
+
+Hanji 1015-1020 frame late-Han state capacity as adviser judgment, sequencing, title legitimacy, local alignment, interest reading, coalition control, and talent retention: [[CaoCao]], [[GuoJia]], [[XunYu]], and [[ZhongYao]] show how strategic timing and [[GuanzhongRegion]] stabilization precede [[YuanShu]]'s self-coronation crisis through [[MingqiLegitimacy]] and [[TitleRealityRestraint]]; later [[ChenGui]], [[ChenDeng]], and [[LyuBu]] show marriage exposure, brittle alliances, and personnel trust failures, while [[HeKui]], [[XuChu]], and [[YangBiao]] show that talent absorption and prosecution near [[EmperorXianOfHan]] remain constrained by trust, evidence, and public reputation.
+
+**Evidence:** [[CaoCao]], [[GuoJia]], [[XunYu]], [[ZhongYao]], [[GuanzhongRegion]], [[YuanShu]], [[AntiUsurpationCoalitionPressure]], [[MingqiLegitimacy]], [[TitleRealityRestraint]], [[ChenGui]], [[ChenDeng]], [[LyuBu]], [[MarriageAllianceWarExposure]], [[InterestStructuredAllianceFragility]], [[HeKui]], [[XuChu]], [[YangBiao]], [[EmperorXianOfHan]], [[XingshiqingStrategicAssessment]], [[PrestigeConstrainedPoliticalProsecution]], [[TalentAsStateTreasure]]
+
+**Qualifications:**
+
+- This is source-scoped to the Ruiqi interpretation of the 197 CE cluster around Guo Jia, Xun Yu, Zhong Yao, Yuan Shu, Chen Deng, Chen Gui, Lu Bu, Guangling, Liu Chong, Luo Jun, Yuan Shao, He Kui, Xu Chu, Yang Biao, and the Wancheng aftermath.
 - Hanji 1015 supports the title-legitimacy, sequencing, and rear-stabilization precondition; it does not by itself fully explain Yuan Shu's later collapse.
 - Hanji 1017's modern extension from light switching to jobs, marriage, friends, and investing is treated as source-scoped analogy rather than direct institutional evidence.
 - Hanji 1018 supports an interest-structure claim, not a complete biography of Lu Bu, Chen Deng, or Yuan Shu.
