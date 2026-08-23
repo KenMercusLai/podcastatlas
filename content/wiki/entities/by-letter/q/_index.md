@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 6702
+wiki_total_pages: 6710
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "Qianzhong"
     title: "黔中 / Qianzhong"
     url: "/wiki/entities/qianzhong/"
+  - key: "QiKingdomEarlyHan"
+    title: "齐国 / Qi Kingdom (early Han)"
+    url: "/wiki/entities/qikingdomearlyhan/"
   - key: "QiState"
     title: "齐国 / Qi State"
     url: "/wiki/entities/qistate/"

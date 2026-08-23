@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）](sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u.md) — 芮淇讲透资治通鉴 episode on Liu Bang's post-Han-Xin reward settlement, Xiao He's "功人" merit hierarchy, Liu-family kingships, and Han Wang Xin's frontier relocation.
 - [《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）](sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx.md) — 芮淇讲透资治通鉴 episode on Han Xin's post-demotion isolation in Chang'an, Fan Kuai's deferential reception, the "耻与哙伍" insult, and the possibility that public distance from Fan Kuai was political self-protection.
 - [《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信](sources/zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv.md) — 芮淇讲透资治通鉴 episode on Liu Bang and Chen Ping's fake Yunmeng tour trap, Zhongli Mo's suicide, Han Xin's arrest at Chen County, and his demotion from Chu king to Huaiyin marquis.
 - [《资治通鉴·汉纪》171｜张良教你如何名利双收？（2）](sources/zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn.md) — 芮淇讲透资治通鉴 episode on early Han different-surname king suspicion: Zang Tu's Yan rebellion, Lu Wan's replacement kingship, Li Ji's fear revolt, Changle/Weiyang palace building, and Han Xin's Zhongli Mo crisis.
@@ -1296,6 +1297,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘交 / Liu Jiao](entities/LiuJiao.md) — Liu Bang's younger brother made king of the early Han Chu kingdom after Han Xin's former Chu territory is split.
+- [刘喜 / Liu Xi (Dai king)](entities/LiuXiDaiKing.md) — Liu-family king of early Han Dai, used by Hanji 174 to show same-surname royal placement on the northern settlement map.
+- [刘肥 / Liu Fei (Qi king)](entities/LiuFeiQiKing.md) — Liu Bang's eldest son and early Han Qi king, disambiguated from the modern podcast host Liu Fei.
+- [荆国 / Jing Kingdom (early Han)](entities/JingKingdomEarlyHan.md) — Same-surname kingdom granted to Liu Jia from the Huai River southeast part of Han Xin's former Chu kingdom.
+- [楚国 / Chu Kingdom (early Han)](entities/ChuKingdomEarlyHan.md) — Same-surname kingdom granted to Liu Jiao from Xue, Donghai, Pengcheng, and related counties after Han Xin's demotion.
+- [代国 / Dai Kingdom (early Han)](entities/DaiKingdomEarlyHan.md) — Northern early Han kingdom granted to Liu Xi in Hanji 174, distinct from the earlier Dai polity.
+- [齐国 / Qi Kingdom (early Han)](entities/QiKingdomEarlyHan.md) — Early Han Liu-family kingdom granted to Liu Fei across the old Qi region.
+- [马邑 / Mayi](entities/Mayi.md) — Frontier capital requested by Han Wang Xin because Jinyang was too far from the Xiongnu-facing edge.
 - [陈县 / Chen County (Chu-Han)](entities/ChenCountyChuHan.md) — Chen Ping's chosen meeting site for Liu Bang's fake Yunmeng tour trap against Han Xin, disambiguated from Changsha's 郴县.
 - [利几 / Li Ji (Chu-Han)](entities/LiJiChuHan.md) — Former Xiang-side figure whose fear-driven rebellion in Hanji 171 part 2 shows early Han suspicion spreading beyond major vassal kings.
 - [长乐宫 / Changle Palace](entities/ChanglePalace.md) — Early Western Han palace renovated from Qin Xinglegong and later associated with the empress dowager residence.
@@ -1356,7 +1365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [井陉口 / Jingxing Pass](entities/JingxingPass.md) — Taihang pass and Zhao-campaign chokepoint where Han Xin's army faces narrow-road, ambush, and supply-line exposure.
 - [李左车 / Li Zuoche](entities/LiZuoChe.md) — Zhao Guangwu Jun and Li Mu's grandson whose rejected Jingxing plan and post-battle counsel shape Han Xin's Zhao/Yan strategy.
 - [卢绾 / Lu Wan](entities/LuWan.md) — Han-side figure sent with Liu Jia to support Peng Yue's grain-route pressure, with Hanji 162-3 showing the reinforced raids pulling Xiang Yu east again.
-- [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent with Lu Wan to support Peng Yue's anti-Chu grain-route pressure, later helping force Xiang Yu away from Chenggao.
+- [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent with Lu Wan to support Peng Yue, later made king of early Han Jing after Han Xin's former Chu kingdom is split.
 - [晋阳 / Jinyang](entities/Jinyang.md) — Northern place Han Xin takes after defeating Dai forces, becoming the Taiyuan commandery hinge in Hanji 155-2.
 - [河东郡 / Hedong Commandery](entities/HedongCommandery.md) — Commandery created after Han Xin captures Wei Bao and Han converts West Wei territory into administrative units.
 - [下阳 / Xiayang (Chu-Han)](entities/XiayangChuHan.md) — Actual Yellow River crossing point Han Xin uses to bypass Wei Bao's Puban defense and strike Anyi.
@@ -8002,6 +8011,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [建国功臣排序 / Founding Merit Hierarchy](concepts/FoundingMeritHierarchy.md) — Hanji 174 frame for ranking unlike founding contributions, especially Xiao He's rear organization above frontline pursuit.
+- [同姓王分封 / Same-Surname King Enfeoffment](concepts/SameSurnameKingEnfeoffment.md) — Early Han strategy of assigning Liu-family kingships to stabilize major regions after different-surname king risk.
+- [边境迁封式牵制 / Frontier Vassal Containment](concepts/FrontierVassalContainment.md) — Hanji 174 pattern where a capable non-Liu king is moved to a frontier defense role that also limits his central base.
 - [Public Disavowal Self-Protection / 公开切割式自保](concepts/PublicDisavowalSelfProtection.md) — Survival pattern where an exposed actor publicly disparages or distances from a powerful possible ally so observers do not read the relationship as factional alliance.
 - [Ritual-Tour Summons Entrapment / 巡游会侯式诱捕](concepts/RitualTourSummonsEntrapment.md) — Chen Ping's Hanji 172 tactic of using an imperial tour and vassal gathering as the low-force arrest mechanism against Han Xin.
 - [Different-Surname King Suspicion / 异姓诸侯王猜忌](concepts/DifferentSurnameKingSuspicion.md) — Early Han pattern where wartime regional kings become peacetime threats after unification, turning mistrust into replacement, containment, and fear rebellion.

@@ -4,13 +4,14 @@
       "global_candidate": true,
       "id": "ai-raises-the-value-of-verifiable-judgment",
       "qualifications": [
-        "The balance differs between routine work and high-stakes professional decisions."
+        "The balance differs between routine work, high-stakes professional decisions, and physical or embodied AI systems."
       ],
-      "statement": "[[HumanJudgmentUnderAI]] and [[AICodingVerification]] show that faster generation shifts work toward requirements, review, accountability, and evidence.",
+      "statement": "[[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], and [[FrontlineAIEnablement]] show that faster generation shifts work toward requirements, review, accountability, and evidence.",
       "status": "supported",
       "supporting_wikilinks": [
         "HumanJudgmentUnderAI",
         "AICodingVerification",
+        "AIEngineeringThinking",
         "FrontlineAIEnablement"
       ]
     },
@@ -20,12 +21,14 @@
       "qualifications": [
         "These sources are practical accounts rather than controlled labor-market studies."
       ],
-      "statement": "[[InternshipAsCareerExploration]], [[UpwardManagement]], and [[InternalTransferStrategy]] frame careers as staged experiments requiring explicit goals and managed communication.",
+      "statement": "[[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], and [[FinanceCareerPortability]] frame careers as staged experiments requiring explicit goals, evidence, risk control, and managed communication.",
       "status": "supported",
       "supporting_wikilinks": [
         "InternshipAsCareerExploration",
         "UpwardManagement",
-        "InternalTransferStrategy"
+        "InternalTransferStrategy",
+        "FinancialCareerRisk",
+        "FinanceCareerPortability"
       ]
     },
     {
@@ -41,8 +44,56 @@
         "LearningExperienceDesign",
         "AIShortcutRisk"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "outcomes-depend-on-distribution-and-context",
+      "qualifications": [
+        "The relevant context differs sharply across software, physical products, creator work, hardware ecosystems, and games."
+      ],
+      "statement": "[[ProductLedWillingnessToPay]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AIInteractiveEntertainment]], and [[XiaohongshuCreatorMonetization]] show that adoption and income depend on channels, production, platform rules, repeat use, and customer context rather than capability or attention alone.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "ProductLedWillingnessToPay",
+        "CPGDistribution",
+        "ChinaHandsetSupplyChain",
+        "AIInteractiveEntertainment",
+        "XiaohongshuCreatorMonetization"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "status-and-boundaries-shape-post-achievement-work",
+      "qualifications": [
+        "The early Han material is a historical analogy inside this topic input, not a modern workplace case."
+      ],
+      "statement": "[[LiuBang]], [[ZhangLiang]], [[UpwardManagement]], [[WorkplaceHiddenRules]], and [[WorkplaceRelationshipBoundaries]] show that post-achievement outcomes depend on role assignment, reputation, timing, and boundary management as much as raw competence.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "LiuBang",
+        "ZhangLiang",
+        "UpwardManagement",
+        "WorkplaceHiddenRules",
+        "WorkplaceRelationshipBoundaries"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "mission-work-needs-capacity-and-evidence",
+      "qualifications": [
+        "Mission and evidence appear in different forms across CPG, education, banking, finance, and service work."
+      ],
+      "statement": "[[PurposeDrivenBusiness]], [[MissionDrivenCustomerEducation]], [[GreenHushing]], [[SustainableGrowthPace]], and [[BankInternalAudit]] show that values, trust, and professional claims need operating capacity, evidence, and risk controls.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "PurposeDrivenBusiness",
+        "MissionDrivenCustomerEducation",
+        "GreenHushing",
+        "SustainableGrowthPace",
+        "BankInternalAudit"
+      ]
     }
   ],
-  "summary": "The work and education sources favor agency with scaffolding: people need explicit goals, communication, verification, and room to learn, while AI should support judgment rather than remove the struggle that builds it.",
+  "summary": "The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, and well-designed operating systems.",
   "topic_id": "work-education-and-society"
 }

@@ -2,7 +2,7 @@
 title: "魏无知 / Wei Wuzhi"
 type: entity
 tags: [person, wei-state, chu-han, talent-access]
-sources: [zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ His role is small but structurally important. Chen Ping's talent does not reach 
 
 Wei Wuzhi therefore becomes more than an access channel. In this source he protects the recommendation by practicing [[MoralSlanderReframing|道德诬陷焦点转移]], moving the ruler from reputational scandal back to the role question: whether Chen Ping's plans can help win the struggle.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] supplies the payoff of that recommendation. When [[ChenPing|陈平]] receives his founding reward, he credits Wei Wuzhi as the person who made his service visible to [[LiuBang|刘邦]]. Liu Bang rewards Wei Wuzhi too, making the access channel itself part of the formal merit distribution.
+
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[ChenPing|陈平]], and [[LiuBang|刘邦]] - recommendation channel rewarded after Chen Ping's marquisate.
 - [[ChenPing|陈平]] - talent Wei Wuzhi introduces.
 - [[LiuBang|刘邦]] - ruler who receives and quickly promotes Chen Ping.
 - [[Xiuwu|修武]] - Liu Bang's camp where the introduction happens.

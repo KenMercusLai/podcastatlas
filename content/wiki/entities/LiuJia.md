@@ -2,7 +2,7 @@
 title: "刘贾 / Liu Jia"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
 last_updated: 2026-08-23
 ---
 # 刘贾 / Liu Jia
@@ -17,7 +17,10 @@ Liu Jia's role in this ingest is therefore a support node inside the later multi
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] keeps Liu Jia in cleanup operations after Xiang Yu's death. He is paired with [[LuWan|卢绾]] in the attack on [[GongWei|共尉]] at Jiangling, where remaining Linjiang resistance has to be folded into [[LiuBang|刘邦]]'s founding settlement.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] converts Liu Jia from military-support figure into same-surname king. Liu Bang assigns him [[JingKingdomEarlyHan|荆国]], formed from the Huai River southeast counties of Han Xin's former Chu kingdom. His page therefore now belongs to both the final anti-Chu operations and the Liu-family territorial settlement that follows Han Xin's demotion.
+
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[JingKingdomEarlyHan|荆国]], [[SameSurnameKingEnfeoffment|同姓王分封]], and [[HanXin|韩信]] - Liu-family kingship over part of Han Xin's former Chu kingdom.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LuWan|卢绾]], [[GongWei|共尉]], and [[LiuBang|刘邦]] - Jiangling siege against remaining Linjiang resistance.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]], [[ZhouYin|周殷]], [[YingBu|英布]], and [[GaixiaBattle|垓下之战]] - Huainan operation and final anti-Chu pressure.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] - source page for Liu Jia's direct reinforcement of Peng Yue.

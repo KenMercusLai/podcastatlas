@@ -2,7 +2,7 @@
 title: "Conceded Kingship Stabilization / 让封真王式稳局"
 type: concept
 tags: [statecraft, command, titles, chu-han, power]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq]
 last_updated: 2026-08-23
 ---
 # Conceded Kingship Stabilization / 让封真王式稳局
@@ -19,6 +19,8 @@ The concept differs from [[CommandAuthorityRecapture|统帅权再收束]]. In Ha
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] sharpens that postwar conversion into [[HostileTerritoryRoyalContainment|敌意封国安置]]. The Qi-to-Chu shift is not only a continued royal title; it also removes Han Xin from the Qi base he conquered and places him in Chu territory where public feeling may be hostile because of Xiang Yu's death.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] shows the successor phase after concession and containment. Once Han Xin's Chu kingship has been removed, his former kingdom is divided into [[JingKingdomEarlyHan|荆国]] for [[LiuJia|刘贾]] and [[ChuKingdomEarlyHan|楚国]] for [[LiuJiao|刘交]]. The concept therefore reaches its limit: a conceded kingship can stabilize a moment, but after victory and demotion the center may still dismantle the territorial base entirely.
+
 ## Key Claims
 - A ruler may concede a title to preserve alignment when denial would expose weakness or provoke defection.
 - Granting more than requested can turn a humiliating concession into apparent sovereign generosity.
@@ -27,8 +29,10 @@ The concept differs from [[CommandAuthorityRecapture|统帅权再收束]]. In Ha
 - Hanji 167 adds that title concession may not finish the alignment problem; later battlefield commitment can still require clearer territorial stakes.
 - Hanji 169 adds that after victory the ruler can pair title grants with command reduction, converting wartime leverage into a bounded founding settlement.
 - Hanji 169 part 2 adds that the bounded settlement can operate through territory selection: a title may reward status while exposing the recipient to local hostility.
+- Hanji 174 adds that after a conceded kingship is revoked, the old base can be redistributed to trusted kin rather than left as a single residual power unit.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[HanXin|韩信]], [[JingKingdomEarlyHan|荆国]], [[ChuKingdomEarlyHan|楚国]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - post-demotion breakup of the earlier Chu kingship base.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[HostileTerritoryRoyalContainment|敌意封国安置]], [[QiState|齐国]], [[ChuState|楚国]], and [[Xiapi|下邳]] - Qi-to-Chu conversion as title reward and jurisdictional containment.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[CommandAuthorityRecapture|统帅权再收束]], [[HanXin|韩信]], [[PengYue|彭越]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - Chu and Liang kingships after victory.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]], [[TerritorialRewardMobilization|许地会师式动员]], and [[PengYue|彭越]] - later expansion from Han Xin's title concession into final coalition land promises.

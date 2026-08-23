@@ -2,7 +2,7 @@
 title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
 type: concept
 tags: [statecraft, early-han, vassal-kings, suspicion]
-sources: [zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 
 [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] marks a boundary of the concept: removing different-surname kingship does not necessarily remove the suspicious residue. Han Xin is now only Huaiyin marquis, but his possible association with [[FanKuai|樊哙]] still matters because Fan Kuai carries old-follower, military, and [[LuZhi|吕雉]]-linked weight. The episode therefore extends the suspicion pattern from formal title and territory into post-demotion relationship management.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] adds [[HanWangXin|韩王信]] as a different-surname king case without presenting him as an immediate rebel in this excerpt. Liu Bang moves him away from old Han territory toward the Taiyuan / [[Mayi|马邑]] frontier, where defense against [[Xiongnu|匈奴]] also places a capable non-Liu king outside the central-plains core. The pattern therefore includes relocation and frontier burdening, not only arrest, demotion, or replacement.
+
 ## Key Claims
+- Hanji 174 adds relocation as a suspicion-management tool: a non-Liu king can be assigned frontier defense in a way that also limits his central-territory base.
 - Hanji 172 adds that different-surname king suspicion may be handled through protocol and summons, not only through immediate military suppression.
 - Hanji 173 adds that kingship removal may not end suspicion; the downgraded actor's visible associations can still be read as latent coalition risk.
 - Wartime delegation can turn into peacetime suspicion after the common enemy disappears.
@@ -30,6 +33,7 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 - The pattern extends [[PowerExitTrap|权力退场困境]] from individual ministers to territorial kings.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[HanWangXin|韩王信]], [[Mayi|马邑]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - frontier relocation of a capable non-Liu king.
 - [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[ChenCountyChuHan|陈县]], [[Yunmengze|云梦泽]], [[HanXin|韩信]], and [[ZhongliMo|钟离眜]] - non-battle removal of a different-surname king after the rebellion report.
 - [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[FanKuai|樊哙]], [[LuZhi|吕雉]], [[VeteranMeritCliqueSupervision|功臣旧将监督]], and [[PublicDisavowalSelfProtection|公开切割式自保]] - suspicion persisting after demotion through risky association.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] - source page.

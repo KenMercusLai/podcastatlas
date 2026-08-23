@@ -4,27 +4,37 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-23
-as_of_overview_commit: b584e94806790866a5b885588a74974fcdf2a432
-input_digest: 27fd904f4116c2ffdc6de6dcb94cfbca19ea5fb35e51c03e9b343c0e0c002cd2
+as_of_overview_commit: ebe6c21ea820d282b0d5126cd761486f22c2f545
+input_digest: 1c1ebc8a883356efeddd58b1a3ac7f991f34350e6362725306854697e9d45d17
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, technical ecosystems, and supply chains shape what states and firms can sustain.
+The historical material treats power as an institutional and infrastructural process: laws, standards, administrative geography, capital placement, reward hierarchy, technical ecosystems, and supply chains shape what states and firms can sustain after a strategic opening.
 
 ## Cross-source Findings
 
 ### Warring States Power Was Built Through Enforceable Systems
 
-[[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems.
+[[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
 
 **Evidence:** [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]]
 
 **Qualifications:**
 
 - This synthesis follows the current Ruiqi Zhouji and Qinji source sequence.
+
+### Early Han Founding Order Placed Residual Power
+
+[[LiuBang]]'s early Han settlement connects victory to [[StrategicCapitalRelocation]], managed former-enemy loyalty, Han Xin's removal through [[Yunmengze]], and the Hanji 174 turn toward reward ranking and territorial redesign.
+
+**Evidence:** [[LiuBang]], [[StrategicCapitalRelocation]], [[Yunmengze]], [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]]
+
+**Qualifications:**
+
+- The current bounded input covers the postwar Ruiqi Hanji sequence through Hanji 174 and does not yet include the full later rebellion arc.
 
 ### Technology Leadership Shifts With Ecosystems
 

@@ -4,33 +4,33 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-23
-as_of_overview_commit: b584e94806790866a5b885588a74974fcdf2a432
-input_digest: 90b0edfd83ecdd8cc3a78f3ca5a986b8877856aa5104cc7783958f9bee0f17e4
+as_of_overview_commit: ebe6c21ea820d282b0d5126cd761486f22c2f545
+input_digest: 11793d7c8c5ae2584c0260de1db7d1a3699a364626706aa3dadb1d62cf34e17b
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The work and education sources favor agency with scaffolding: people need explicit goals, communication, verification, and room to learn, while AI should support judgment rather than remove the struggle that builds it.
+The work and education sources favor agency with scaffolding: people and organizations need explicit goals, communication, verification, distribution, trust, pacing, and room to learn. AI lowers friction across coding, entertainment, tutoring, robotics, and workplace pacing, but the sources repeatedly argue that capability becomes durable only through judgment, evidence, context, and well-designed operating systems.
 
 ## Cross-source Findings
 
 ### Ai Raises The Value Of Verifiable Judgment
 
-[[HumanJudgmentUnderAI]] and [[AICodingVerification]] show that faster generation shifts work toward requirements, review, accountability, and evidence.
+[[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], and [[FrontlineAIEnablement]] show that faster generation shifts work toward requirements, review, accountability, and evidence.
 
-**Evidence:** [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[FrontlineAIEnablement]]
+**Evidence:** [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]]
 
 **Qualifications:**
 
-- The balance differs between routine work and high-stakes professional decisions.
+- The balance differs between routine work, high-stakes professional decisions, and physical or embodied AI systems.
 
 ### Career Moves Benefit From Stage Specific Learning
 
-[[InternshipAsCareerExploration]], [[UpwardManagement]], and [[InternalTransferStrategy]] frame careers as staged experiments requiring explicit goals and managed communication.
+[[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], and [[FinanceCareerPortability]] frame careers as staged experiments requiring explicit goals, evidence, risk control, and managed communication.
 
-**Evidence:** [[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]]
+**Evidence:** [[InternshipAsCareerExploration]], [[UpwardManagement]], [[InternalTransferStrategy]], [[FinancialCareerRisk]], [[FinanceCareerPortability]]
 
 **Qualifications:**
 
@@ -45,3 +45,33 @@ The work and education sources favor agency with scaffolding: people need explic
 **Qualifications:**
 
 - The optimal amount of productive struggle varies by learner and task.
+
+### Outcomes Depend On Distribution And Context
+
+[[ProductLedWillingnessToPay]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AIInteractiveEntertainment]], and [[XiaohongshuCreatorMonetization]] show that adoption and income depend on channels, production, platform rules, repeat use, and customer context rather than capability or attention alone.
+
+**Evidence:** [[ProductLedWillingnessToPay]], [[CPGDistribution]], [[ChinaHandsetSupplyChain]], [[AIInteractiveEntertainment]], [[XiaohongshuCreatorMonetization]]
+
+**Qualifications:**
+
+- The relevant context differs sharply across software, physical products, creator work, hardware ecosystems, and games.
+
+### Status And Boundaries Shape Post Achievement Work
+
+[[LiuBang]], [[ZhangLiang]], [[UpwardManagement]], [[WorkplaceHiddenRules]], and [[WorkplaceRelationshipBoundaries]] show that post-achievement outcomes depend on role assignment, reputation, timing, and boundary management as much as raw competence.
+
+**Evidence:** [[LiuBang]], [[ZhangLiang]], [[UpwardManagement]], [[WorkplaceHiddenRules]], [[WorkplaceRelationshipBoundaries]]
+
+**Qualifications:**
+
+- The early Han material is a historical analogy inside this topic input, not a modern workplace case.
+
+### Mission Work Needs Capacity And Evidence
+
+[[PurposeDrivenBusiness]], [[MissionDrivenCustomerEducation]], [[GreenHushing]], [[SustainableGrowthPace]], and [[BankInternalAudit]] show that values, trust, and professional claims need operating capacity, evidence, and risk controls.
+
+**Evidence:** [[PurposeDrivenBusiness]], [[MissionDrivenCustomerEducation]], [[GreenHushing]], [[SustainableGrowthPace]], [[BankInternalAudit]]
+
+**Qualifications:**
+
+- Mission and evidence appear in different forms across CPG, education, banking, finance, and service work.

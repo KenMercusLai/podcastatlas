@@ -4,27 +4,31 @@
       "global_candidate": true,
       "id": "state-capacity-does-not-guarantee-political-security",
       "qualifications": [
-        "The historical claim is source-scoped to the current Warring States material."
+        "The early Han reward-settlement material extends the pattern beyond the earlier Warring States and Qin reform sequence rather than replacing it."
       ],
-      "statement": "[[QinAdministrativeStandardization]] increased state capacity, but [[PeopleBasedPoliticalSecurity]] and [[PowerExitTrap]] show why administrative success did not guarantee security for the reformer.",
+      "statement": "[[QinAdministrativeStandardization]] and [[MeritBasedRewardPunishment]] increase administrative and military capacity, but [[PeopleBasedPoliticalSecurity]], [[PowerExitTrap]], and [[LiuBang]] show that durable order also depends on social support, exit design, and post-victory placement of residual power.",
       "status": "supported",
       "supporting_wikilinks": [
         "QinAdministrativeStandardization",
+        "MeritBasedRewardPunishment",
         "PeopleBasedPoliticalSecurity",
-        "PowerExitTrap"
+        "PowerExitTrap",
+        "LiuBang"
       ]
     },
     {
       "global_candidate": true,
       "id": "private-and-ai-power-require-governance",
       "qualifications": [
-        "The sources offer competing ownership and oversight mechanisms rather than one settled model."
+        "The sources offer competing ownership, oversight, and measurement mechanisms rather than one settled model."
       ],
-      "statement": "[[PrivateRegulatoryPower]] and [[AIAlignmentGovernance]] show that governance questions arise inside firms and technical organizations as well as through public law.",
+      "statement": "[[PrivateRegulatoryPower]], [[AIAlignmentGovernance]], [[AIWorkforceMonitoring]], and [[LongTermBenefitTrust]] show that governance questions arise inside firms and technical organizations as well as through public law.",
       "status": "qualified",
       "supporting_wikilinks": [
         "PrivateRegulatoryPower",
         "AIAlignmentGovernance",
+        "AIWorkforceMonitoring",
+        "LongTermBenefitTrust",
         "FinancialGravity"
       ]
     },
@@ -32,16 +36,79 @@
       "global_candidate": false,
       "id": "safety-rules-carry-rights-tradeoffs",
       "qualifications": [
-        "The balance between access restrictions, privacy reform, and product liability remains contested."
+        "The balance between access restrictions, privacy reform, product liability, and developer liability remains contested."
       ],
-      "statement": "Rules intended to reduce platform harm must be evaluated alongside [[YouthOnlineSpeechRights]] and alternatives such as [[ComprehensiveConsumerDataPrivacy]].",
+      "statement": "Rules intended to reduce platform and AI harm must be evaluated alongside [[YouthOnlineSpeechRights]], [[ComprehensiveConsumerDataPrivacy]], [[StateAILiabilityShield]], and [[CatastrophicAILiability]].",
       "status": "contested",
       "supporting_wikilinks": [
         "YouthOnlineSpeechRights",
-        "ComprehensiveConsumerDataPrivacy"
+        "ComprehensiveConsumerDataPrivacy",
+        "StateAILiabilityShield",
+        "CatastrophicAILiability"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "procedure-converts-conflict-into-legible-order",
+      "qualifications": [
+        "Proceduralization can constrain conflict without making the underlying practice just or nonviolent."
+      ],
+      "statement": "[[ProceduralizedViolence]], [[HonorDuelCulture]], [[ImperialSymbolicStandardization]], and [[ConquestSelfDefenseNarrative]] show institutions turning honor, violence, conquest, and legitimacy into rule-bound or symbolically legible forms.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "ProceduralizedViolence",
+        "HonorDuelCulture",
+        "ImperialSymbolicStandardization",
+        "ConquestSelfDefenseNarrative"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "cultural-works-expose-informal-governance",
+      "qualifications": [
+        "These are interpretive claims from literary sources, not institutional histories in the narrow sense."
+      ],
+      "statement": "[[ShifgrethorPoliticalFace]], [[PatriotismAsHatred]], [[PublicMoralPerformance]], and [[PoliticalConditionAsHumanExperiment]] show fiction and literary criticism treating reputation, loyalty, media performance, and exile as informal political institutions.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ShifgrethorPoliticalFace",
+        "PatriotismAsHatred",
+        "PublicMoralPerformance",
+        "PoliticalConditionAsHumanExperiment"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "markets-need-rules-that-make-risk-legible",
+      "qualifications": [
+        "Legibility can reduce risk or create useful demand signals, but it can also shift costs and compliance burdens."
+      ],
+      "statement": "[[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[AntiMoneyLaundering]], [[AcademicPredictionMarketSandbox]], and [[FinancialPowerAndStateCapacity]] show markets depending on standards, auditability, eligibility rules, and compliance boundaries.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "EmbodiedCarbonBuildingCode",
+        "ConstructionCarbonCompliance",
+        "AntiMoneyLaundering",
+        "AcademicPredictionMarketSandbox",
+        "FinancialPowerAndStateCapacity"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "trust-and-mission-require-operating-constraints",
+      "qualifications": [
+        "Trust can also attract investor, customer, acquirer, or public-pressure claims that reshape the mission."
+      ],
+      "statement": "[[SaaSTrustMoat]], [[TrustAsBusinessAsset]], [[GreenHushing]], and [[SustainableGrowthPace]] show that trust and mission can become durable assets only when organizations protect them through ownership, pacing, evidence, and operating discipline.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "SaaSTrustMoat",
+        "TrustAsBusinessAsset",
+        "GreenHushing",
+        "SustainableGrowthPace"
       ]
     }
   ],
-  "summary": "Governance is presented as enforceable control over incentives, information, rights, and accountability; stronger institutional capacity can produce order while also creating backlash, concentrated power, or new legitimacy problems.",
+  "summary": "Governance is presented as enforceable control over incentives, information, rights, legitimacy, and institutional trust. The topic spans ancient state formation, imperial symbolism, honor violence, private and AI governance, compliance markets, prediction markets, and mission-led organizations; across them, stronger rules or capacity can create order while also producing backlash, concentrated power, or new legitimacy problems.",
   "topic_id": "governance-and-institutions"
 }

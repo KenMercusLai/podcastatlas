@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6702
+wiki_total_pages: 6710
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "MaShaonainaiLihun"
     title: "马少奶奶（《离婚》） / Ma Shaonainai"
     url: "/wiki/entities/mashaonainailihun/"
+  - key: "Mayi"
+    title: "马邑 / Mayi"
+    url: "/wiki/entities/mayi/"
   - key: "MalingBattle"
     title: "马陵之战 / Battle of Maling"
     url: "/wiki/entities/malingbattle/"

@@ -2,7 +2,7 @@
 title: "Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局"
 type: concept
 tags: [statecraft, administration, commandery-county-system, qin-history, centralization]
-sources: [zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ This makes the commandery-county system the administrative counterpart to [[Impe
 
 [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] supplies a contrastive correction to the common Xiang Yu comparison. The episode says Xiang Yu's partition should not be reduced to a simple rollback from Qin's commandery-county settlement to Zhou feudalism. Unlike Qin after full conquest, Xiang Yu lacks the force and administrative capacity to impose direct rule over the eastern world, so his [[ZhouQinHybridOrder|周秦混合制]] mixes military-merit enfeoffment, restored kings, surrendered Qin leaders, and hegemonic obligations. The comparison keeps Qin's anti-enfeoffment logic intact while making Xiang Yu's alternative a constrained and unstable post-coalition settlement rather than mere antiquarian復古.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] adds a Western Han complication to the anti-enfeoffment story. Liu Bang reintroduces kingdoms through [[SameSurnameKingEnfeoffment|同姓王分封]], but the episode frames the move as postwar control of unstable regions after Han Xin's demotion rather than as a simple ideological rejection of Qin direct rule. The contrast remains source-scoped: early Han uses kingdoms to solve succession, trust, and frontier problems that Qin's unified commandery-county model had tried to prevent by refusing hereditary territorial power.
+
 ## Key Claims
 - The commandery-county decision is a post-unification settlement, not only a continuation of pre-imperial reform.
 - Distance can support a reasonable argument for delegated rule, but delegated hereditary rule carries a succession-time risk.
@@ -31,8 +33,10 @@ This makes the commandery-county system the administrative counterpart to [[Impe
 - The episode uses [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[HanWudi|汉武帝]] as later evidence that enfeoffment can recreate separatist power even after an empire is founded.
 - Qinji 120-4 shows the implementation layer: commandery-county rule is reinforced by moving local elites away from their home networks and into capital surveillance.
 - Qinji 124 shows the ideological enforcement layer: revived enfeoffment argument is treated as a political threat, leading to book burning and official-learning control.
+- Hanji 174 adds that early Western Han enfeoffment should be read as a control compromise in an unstable founding field, not a clean return to Zhou-style decentralization.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[SameSurnameKingEnfeoffment|同姓王分封]], [[WesternHanDynasty|西汉]], and [[HanXin|韩信]] - early Han royal kingdoms as postwar control after a different-surname king's demotion.
 - [[QinAdministrativeStandardization|秦国行政标准化]] - broader Qin pattern of making territory, households, measures, and offices legible to the state.
 - [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - conquest-facing version that turns defeated states into commandery units before the empire-wide settlement.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[LiSi|李斯]], and [[QinWangWan|王绾]] - decision-maker, anti-enfeoffment advocate, and partial-enfeoffment advocate in the source.

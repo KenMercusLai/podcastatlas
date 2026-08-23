@@ -10357,3 +10357,11 @@ Added source page for Hanji 173: Han Xin's post-demotion isolation in Chang'an, 
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）
+
+Added source page for Hanji 174: Liu Bang's post-Han-Xin founding reward settlement, Xiao He's "功狗/功人" merit ranking, Zhang Liang and Chen Ping's restrained reward handling, Liu-family kingships for Liu Jia, Liu Jiao, Liu Xi, and Liu Fei, and Han Wang Xin's relocation to the Xiongnu frontier at Mayi. Created Liu Jiao, Liu Xi (Dai king), Liu Fei (Qi king), Jing Kingdom (early Han), Chu Kingdom (early Han), Dai Kingdom (early Han), Qi Kingdom (early Han), Mayi, Founding Merit Hierarchy, Same-Surname King Enfeoffment, and Frontier Vassal Containment; updated overview, index, and related early Han settlement pages. No settled contradiction found; the Qin anti-enfeoffment contrast and Han Wang Xin's defense-versus-containment motive are kept source-scoped.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 13,138 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions, with source-breadth gaps around single-source concept pages. Report returned in-session; `wiki/lint-report.md` was not updated.

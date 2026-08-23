@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6702
+wiki_total_pages: 6710
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1226,6 +1226,9 @@ wiki_pages:
   - key: "ChaiRong"
     title: "柴荣 / Emperor Shizong of Later Zhou"
     url: "/wiki/entities/chairong/"
+  - key: "ChuKingdomEarlyHan"
+    title: "楚国 / Chu Kingdom (early Han)"
+    url: "/wiki/entities/chukingdomearlyhan/"
   - key: "ChuState"
     title: "楚国 / Chu State"
     url: "/wiki/entities/chustate/"

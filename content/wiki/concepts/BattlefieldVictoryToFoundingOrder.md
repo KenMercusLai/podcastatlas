@@ -2,7 +2,7 @@
 title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
 type: concept
 tags: [statecraft, founding, chu-han, legitimacy]
-sources: [zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi]
 last_updated: 2026-08-23
 ---
 
@@ -22,6 +22,8 @@ The final layer is legitimacy performance. A broad pardon, the kings' accession 
 
 [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] adds two further founding-order moves. First, [[DingGong|丁公]]'s execution makes loyalty vocabulary sharper: not every former enemy can be reclassified like Ji Bu if the old conduct looks like private betrayal of duty. Second, the move from [[Luoyi|洛阳 / 洛邑]] to [[ChangAnHanCapital|长安]] shows that victory must choose a capital base. [[LouJing|楼敬]] and [[ZhangLiang|张良]] turn [[GuanzhongRegion|关中]]'s geography, food, defense, and river transport into state architecture for the new [[WesternHanDynasty|西汉]].
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] adds the reward hierarchy and territorial map after Han Xin's demotion. The founding order now has to explain why [[XiaoHe|萧何]] outranks battlefield generals, how [[ZhangLiang|张良]] and [[ChenPing|陈平]] receive or redirect rewards without increasing exposure, how Han Xin's former Chu base is split into Liu-family kingdoms, and how [[HanWangXin|韩王信]] is moved toward the Xiongnu frontier.
+
 ## Key Claims
 - Battlefield success must be followed by controlled surrender, enemy-symbol management, and decisions about former rivals' kin.
 - Founding rulers need to both reward and contain overmighty wartime contributors.
@@ -30,8 +32,10 @@ The final layer is legitimacy performance. A broad pardon, the kings' accession 
 - Hanji 169 part 2 adds family title ordering, southern allied recognition, population/veteran repair, and hostile-territory containment as post-accession founding work.
 - Hanji 170 part 1 adds defeated-elite cleanup: some remaining opponents can only be honored after death, while others can be pardoned and turned into examples for the new order.
 - Hanji 170 part 2 adds loyalty-boundary setting and capital-base choice: Ding Gong is made a negative example, while Chang'an turns Guanzhong into the spatial foundation of the new regime.
+- Hanji 174 adds that founding order must rank different kinds of merit and redraw regional power after removing an overmighty king.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[FoundingMeritHierarchy|建国功臣排序]], [[SameSurnameKingEnfeoffment|同姓王分封]], [[FrontierVassalContainment|边境迁封式牵制]], and [[WesternHanDynasty|西汉]] - reward hierarchy, Liu-family kingdoms, and frontier placement after Han Xin's demotion.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[JiBu|季布]], [[ZhuJiaLu|朱家]], [[XiahouYing|夏侯婴]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - defeated-elite cleanup and former-enemy absorption.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]], [[DingGong|丁公]], [[LouJing|楼敬]], [[ZhangLiang|张良]], [[GuanzhongRegion|关中]], and [[ChangAnHanCapital|长安]] - loyalty-boundary setting and capital-base decision after accession.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[ChangshaKingdom|长沙国]], [[Minyue|闽越]], [[PostwarReturnAndVeteranRelief|战后复员安民]], [[SpecialistDelegationLeadership|专才分工式领导力]], and [[HostileTerritoryRoyalContainment|敌意封国安置]] - accession aftermath and broader founding settlement.

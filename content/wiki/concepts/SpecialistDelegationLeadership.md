@@ -2,7 +2,7 @@
 title: "专才分工式领导力 / Specialist Delegation Leadership"
 type: concept
 tags: [leadership, statecraft, talent, chu-han]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc]
 last_updated: 2026-08-23
 ---
 
@@ -12,6 +12,8 @@ last_updated: 2026-08-23
 
 The concept is not generic humility. The episode reads the statement as Liu Bang praising the three "人中俊杰" while also defining his own distinctive capacity. His advantage is not that he personally surpasses every specialist; it is that he identifies specialists, gives them usable roles, and lets their strengths combine into a state-making system.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] retroactively hardens this doctrine through reward. Liu Bang's defense of [[XiaoHe|萧何]] says that the rear administrator is not a lesser noncombatant but the "功人" who makes field success possible. The episode therefore turns specialist delegation from a victory explanation into a founding merit hierarchy that tells generals why organizational capacity outranks their visible pursuit.
+
 This page separates the pattern from adjacent personnel concepts. [[UseStrengthsOverFaults|用人取长弃短]] concerns tolerating defects in useful people, while [[SecondInCommandRoleFit|二把手角色适配]] concerns fitting a subordinate to bounded court roles. Specialist delegation leadership is broader: it is the ruler's ability to coordinate strategy, logistics, and command specialists without needing to embody all three capacities.
 
 ## Key Claims
@@ -19,8 +21,10 @@ This page separates the pattern from adjacent personnel concepts. [[UseStrengths
 - The South Palace explanation turns Han victory into an organizational doctrine for the new political class.
 - Liu Bang's self-comparison relies on role differentiation: strategy, supply administration, and battlefield command are separate capacities.
 - The negative contrast with Xiang Yu is not merely that Xiang Yu lacked talent around him, but that he could not use [[FanZeng|范增]] effectively.
+- Hanji 174 adds that specialist delegation must be made legible in reward rankings, or battlefield contributors may mistake visible combat for the whole merit system.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[XiaoHe|萧何]], [[FoundingMeritHierarchy|建国功臣排序]], and [[MeritBasedRewardPunishment|因功赏罚]] - reward explanation that ranks rear administrative specialization above frontline pursuit.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] - source page.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] - ruler and three specialist examples.
 - [[XiangYu|项羽]] and [[FanZeng|范增]] - negative comparison: one major adviser present but not effectively used.

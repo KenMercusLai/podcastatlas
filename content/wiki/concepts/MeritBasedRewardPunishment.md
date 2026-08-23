@@ -2,7 +2,7 @@
 title: "Merit-Based Reward and Punishment / 因功赏罚"
 type: concept
 tags: [governance, legalism, statecraft, incentives, pre-qin-history, chu-han]
-sources: [zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-23
 ---
 
@@ -16,14 +16,18 @@ The worn-trousers story extends the principle from appointments to ordinary rewa
 
 [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] exposes the retention problem when merit is visible but reward is delayed or withheld. [[ChenPing|陈平]] argues that [[XiangYu|项羽]] treats people respectfully but is reluctant to grant titles and rewards, making a rumor about [[ZhongliMo|钟离眜]]'s unrewarded military service plausible enough to damage trust. Merit-based reward logic therefore fails not only when rewards are arbitrary, but also when earned rewards are too grudging to stabilize loyalty.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] adds a ranking problem inside merit itself. The dispute over [[XiaoHe|萧何]]'s large grant shows that not all useful merit is battlefield killing; Liu Bang's "功狗 / 功人" answer ranks rear administration, supply, and organizational design above frontline pursuit because they make the whole victory system possible.
+
 ## Key Claims
 - A reward loses governing force when it is detached from visible merit.
 - A ruler must apply standards even against the minister who taught them.
 - Small favors are politically meaningful because they teach the court what behavior is actually rewarded.
 - The concept is adjacent to [[MilitaryMeritRankSystem|军功爵制]], but it is broader than battlefield rank because it covers office, goods, and ruler mood.
 - Hanji 160 part 1 adds the negative retention case: if merit is not credibly converted into reward, an enemy can turn the gap into a defection rumor.
+- Hanji 174 adds that merit-based rewards must compare unlike contributions: battlefield action and rear organization can both be merit, but may not rank equally.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[XiaoHe|萧何]], [[LiuBang|刘邦]], and [[FoundingMeritHierarchy|建国功臣排序]] - "功狗 / 功人" ranking of battlefield pursuit versus rear organization.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[XiangYu|项羽]], [[ZhongliMo|钟离眜]], and [[RewardAllocationBacklash|分配反噬]] - under-rewarded merit becoming a rumor vulnerability.
 - [[HanZhaohou|韩昭侯]] and [[ShenBuhai|申不害]] - source case.
 - [[HanState|韩国]] - polity where the doctrine is applied.

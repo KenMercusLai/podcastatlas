@@ -2,7 +2,7 @@
 title: "Reward Allocation Backlash / 分配反噬"
 type: concept
 tags: [statecraft, incentives, coalition, chu-han, enfeoffment]
-sources: [zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
 last_updated: 2026-08-23
 ---
 
@@ -30,6 +30,8 @@ The concept extends [[CoalitionSettlementFailure|联军战后安排失败]] by f
 
 [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]] adds the positive Liu Bang-side mirror. Han Xin and Peng Yue do not arrive for the final pursuit until Zhang Liang advises Liu Bang to specify concrete territory, so Liu Bang avoids immediate reward backlash by pricing participation before the battle. The same move still carries a future risk: the allies who are mobilized by land promises become harder to absorb after victory.
 
+[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] brings that future risk into the founding court. Generals object to [[XiaoHe|萧何]]'s top reward, and Liu Bang has to justify the allocation publicly through the "功狗 / 功人" distinction. The same episode shows reward pressure branching into Liu-family kingships and frontier relocation, while Zhang Liang's closing warning that some actors are preparing to rebel keeps the backlash problem open rather than solved.
+
 ## Key Claims
 - Distribution is a political act, not an administrative afterthought after victory.
 - Rewarding one coalition faction can create resentment among displaced old claimants and among unrewarded insiders at the same time.
@@ -44,8 +46,10 @@ The concept extends [[CoalitionSettlementFailure|联军战后安排失败]] by f
 - Hanji 160 part 1 adds an information-warfare version: even before a subordinate defects, visible under-rewarding can make defection rumors believable to a suspicious ruler.
 - Hanji 160 part 2 adds that reward resentment can be amplified by kin-versus-merit factional structure, especially when the ruler already favors one side.
 - Hanji 167 adds the preventive version: explicit territorial promises can mobilize allies before final victory, but they also create larger postwar reward obligations.
+- Hanji 174 adds the post-victory court version: even a successful settlement needs public explanation because rewarded merit, kinship placement, and frontier burden can generate the next backlash.
 
 ## Connections
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[XiaoHe|萧何]], [[ZhangLiang|张良]], [[FoundingMeritHierarchy|建国功臣排序]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - post-victory reward dispute and settlement instability.
 - [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167]], [[TerritorialRewardMobilization|许地会师式动员]], [[HanXin|韩信]], [[PengYue|彭越]], and [[GaixiaBattle|垓下之战]] - reward clarity used to avoid allied non-arrival before the final battle.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[XiangBo|项伯]] - reward politics joined to kin-versus-merit factional imbalance.
 - [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[XiangYu|项羽]], [[ZhongliMo|钟离眜]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - reward grievance converted into a trust-destroying rumor.
