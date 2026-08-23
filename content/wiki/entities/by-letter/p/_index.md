@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6742
+wiki_total_pages: 6746
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "Pingyuanjun"
     title: "平原君 / Lord Pingyuan"
     url: "/wiki/entities/pingyuanjun/"
+  - key: "PingyuanjunZhuJian"
+    title: "平原君诸建 / Pingyuanjun Zhu Jian"
+    url: "/wiki/entities/pingyuanjunzhujian/"
   - key: "PingAnGoodDoctor"
     title: "平安好医生"
     url: "/wiki/entities/pingangooddoctor/"

@@ -4,16 +4,37 @@
       "global_candidate": true,
       "id": "founding-order-converts-victory-into-governance",
       "qualifications": [
-        "This claim is grounded in the Ruiqi Hanji sequence and remains source-scoped to that interpretation of early Western Han founding."
+        "This claim is grounded in the Ruiqi Hanji sequence through Hanji 186 and remains source-scoped to that interpretation of early Western Han founding."
       ],
-      "statement": "The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, and finally Baideng's [[HanXiongnuHeqinPolicy|heqin]] pivot.",
+      "statement": "The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, and investigation-triggered rebellion risk.",
       "status": "supported",
       "supporting_wikilinks": [
         "LiuBang",
         "StrategicCapitalRelocation",
         "LiAsPoliticalOrder",
         "BaidengEncirclement",
-        "HanXiongnuHeqinPolicy"
+        "HanXiongnuHeqinPolicy",
+        "DifferentSurnameKingSuspicion",
+        "HuainanKingdomEarlyHan",
+        "InvestigationDrivenRebellionEscalation"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "vassal-investigations-can-escalate-suspicion",
+      "qualifications": [
+        "The Huainan branch is source-scoped; Xiao He's advice is investigation-first, but Ying Bu reads the inquiry through the prior deaths of Han Xin and Peng Yue."
+      ],
+      "statement": "Early Han vassal control has a feedback risk: accusations and investigations meant to manage autonomous kings can make exposed rulers interpret court procedure as a prelude to elimination, turning private access scandals into rebellion triggers.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "DifferentSurnameKingSuspicion",
+        "InnerCourtAccessBrokerageRisk",
+        "InvestigationDrivenRebellionEscalation",
+        "HuainanKingdomEarlyHan",
+        "BenHe",
+        "XiaoHe",
+        "YingBu"
       ]
     },
     {
@@ -161,6 +182,6 @@
       ]
     }
   ],
-  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, public symbols become legitimacy, markets become rule-bound information systems, and private trust becomes a governing asset. The topic also keeps the liabilities visible: frontier defeats force diplomacy, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
+  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, public symbols become legitimacy, markets become rule-bound information systems, and private trust becomes a governing asset. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
   "topic_id": "governance-and-institutions"
 }

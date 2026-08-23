@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5152
+wiki_total_pages: 5153
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"
+  - key: "InnerCourtAccessBrokerageRisk"
+    title: "内廷通道攀附风险 / Inner-Court Access Brokerage Risk"
+    url: "/wiki/concepts/innercourtaccessbrokeragerisk/"
   - key: "ImperialRitualDistance"
     title: "君臣礼制距离 / Imperial Ritual Distance"
     url: "/wiki/concepts/imperialritualdistance/"

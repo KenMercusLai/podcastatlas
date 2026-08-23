@@ -2,6 +2,7 @@
   "coverage": {
     "assigned_paragraph_ids": [
       "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
+      "1c586d4c3ba4e610219271aaa9cf7ed27268a2c448a870be3b0674762bc38c54",
       "eeed228b443ab51eb6510a7e08942a965b7cc44aa817e1a025225acb1b2f77da",
       "792bc6e294997222808f1676d0b67b792cfa97d896abe3f3e0075457d69dbf99",
       "87c983a25af279b6675ac412cdb464d2757ecfe0fb5e3603ce9e67eb678a3620",
@@ -122,10 +123,10 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 120
+    "paragraph_count": 121
   },
-  "overview_commit": "77595779bfb9da08f44f08c20413630803e3fd29",
-  "overview_digest": "d2e1d026b3e211a020255d81b0a8dd97dd5c31614e261ce1f4683097c1691fa6",
+  "overview_commit": "26204b6a22bb4e3441a5580ecf774bf074652a11",
+  "overview_digest": "10a149a6506dba04b11b80af6061bb87fae2d80e22efa79453d852a7503dd131",
   "paragraphs": [
     {
       "id": "706a87407c295d3a2cd85c595e60e35f18cb99cfacd1d38d1f032693905411ee",
@@ -173,6 +174,43 @@
         "zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy",
         "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
         "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym"
+      ]
+    },
+    {
+      "id": "1c586d4c3ba4e610219271aaa9cf7ed27268a2c448a870be3b0674762bc38c54",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The subsequent Ruiqi Hanji branch extends that founding-order risk from frontier settlement into internal vassal rollback and civil governance. [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] turns heqin into concrete policy under [[LuZhi|吕雉]]'s resistance; [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180 part 1]] and [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|part 2]] join elite relocation, [[GuanGao|贯高]], [[ZhangAo|张敖]], and same-surname substitution to [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]]; [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] makes succession favoritism a court-security problem; [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182 part 1]], [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|part 2]], [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|part 3]], [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], and [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] reopen [[HanXin|韩信]], [[XiaoHe|萧何]], and [[PengYue|彭越]] as removal, evidence, and merit-holder fear problems; [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] pairs [[LuJia|陆贾]]'s [[Nanyue|南越]] recognition diplomacy with civil admonition; and [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] moves fear inside [[HuainanKingdomEarlyHan|淮南国]], where [[PengYue|彭越]]'s corpse warning, [[BenHe|奔鹤]]'s [[InnerCourtAccessBrokerageRisk|inner-court access gambit]], [[XiaoHe|萧何]]'s investigation advice, and [[YingBu|英布 / 黥布]]'s reading of inquiry as lethal threat turn suspicion into [[InvestigationDrivenRebellionEscalation|investigation-driven rebellion escalation]].",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BenHe",
+        "DifferentSurnameKingSuspicion",
+        "GuanGao",
+        "HanXin",
+        "HuainanKingdomEarlyHan",
+        "InnerCourtAccessBrokerageRisk",
+        "InvestigationDrivenRebellionEscalation",
+        "LuJia",
+        "LuZhi",
+        "Nanyue",
+        "PengYue",
+        "XiaoHe",
+        "YingBu",
+        "ZhangAo",
+        "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+        "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+        "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2",
+        "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+        "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9",
+        "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb",
+        "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr",
+        "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l",
+        "zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i",
+        "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh",
+        "zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n"
       ]
     },
     {

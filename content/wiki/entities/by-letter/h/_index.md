@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6742
+wiki_total_pages: 6746
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "HainishCycle"
     title: "海恩宇宙 / Hainish Cycle"
     url: "/wiki/entities/hainishcycle/"
+  - key: "HuainanKingdomEarlyHan"
+    title: "淮南国 / Huainan Kingdom (early Han)"
+    url: "/wiki/entities/huainankingdomearlyhan/"
   - key: "Huaiyin"
     title: "淮阴 / Huaiyin"
     url: "/wiki/entities/huaiyin/"

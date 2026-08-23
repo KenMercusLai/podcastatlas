@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6742
+wiki_total_pages: 6746
 wiki_pages:
   - key: "BAICapital"
     title: "B.A.I Capital"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "BianHe"
     title: "卞和 / Bian He"
     url: "/wiki/entities/bianhe/"
+  - key: "BenHe"
+    title: "奔鹤 / Ben He"
+    url: "/wiki/entities/benhe/"
   - key: "BabyTree"
     title: "宝宝树 / BabyTree"
     url: "/wiki/entities/babytree/"

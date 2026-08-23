@@ -10127,6 +10127,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案
+
+Added source page for Hanji 186: Ying Bu's fear after Peng Yue's death, Ben He's failed attempt to gain favor through Ying Bu's favorite concubine, the accusation sent to Liu Bang, Xiao He's detention-and-investigation advice, and Huainan's turn toward rebellion. Created Ben He, Huainan Kingdom (early Han), Pingyuanjun Zhu Jian, Liangfu Hou, and Inner-Court Access Brokerage Risk; updated overview, index, Ying Bu, Peng Yue, Liu Bang, Xiao He, Western Han, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 184's merit-holder fear warning while source-scoping Xiao He's response as investigation-first rather than immediate purge.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土
 
 Added source page for Hanji 185: Ren Xiao's Lingnan handoff to Zhao Tuo, Zhao Tuo's consolidation of Nanyue, Lu Jia's identity-and-deterrence speech that makes Zhao Tuo accept Han recognition and submission, the Xinyu warning that horseback conquest cannot become horseback governance, and Fan Kuai's sickbed remonstrance to Liu Bang. Created Ren Xiao and Recognition-Backed Frontier Diplomacy; updated overview, index, Zhao Tuo, Nanyue, Lu Jia, Xinyu, Fan Kuai, Victory Deterrence Diplomacy, Li As Political Order, and Battlefield Victory To Founding Order. No settled contradiction found; Zhao Tuo's submission is preserved as an early-Han settlement rather than a claim that later Han-Nanyue tension disappears.
@@ -10485,6 +10489,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）
 
 Added source page for Hanji 184: Luan Bu's public mourning beneath Peng Yue's displayed head, his death-facing defense that Peng Yue had not rebelled and that killing him would chill other merit-holders, Liu Bang's pardon and duwei appointment, the same-surname replacement map for Liang and Huaiyang, and Liu Bang's recognition of Zhao Tuo as Nanyue king through Lu Jia's envoy mission. Created Luan Bu and Zhao Tuo; updated overview, index, Liu Bang, Peng Yue, Nanyue, Baiyue, Lu Jia, Nanhai Commandery, Guilin Commandery, Xiang Commandery, Dong Commandery, Yingchuan Commandery, Death-Defying Remonstrance, Pardon As State Power, Different-Surname King Suspicion, Same-Surname King Enfeoffment, and Battlefield Victory To Founding Order. No settled contradiction found; Luan Bu's claim that Peng Yue did not rebel is preserved as source-scoped advocacy, while the source complicates early Han consolidation by showing the chilling-effect risk of punishing a founding contributor.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

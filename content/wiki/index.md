@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案](sources/zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n.md) — 芮淇讲透资治通鉴 episode on Ying Bu's fear after Peng Yue's death, Ben He's failed concubine-access gambit, the accusation sent to Liu Bang, Xiao He's investigation advice, and Huainan's turn toward rebellion.
 - [《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土](sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh.md) — 芮淇讲透资治通鉴 episode completing Lu Jia's Nanyue mission, Zhao Tuo's Qin-to-Nanyue consolidation, recognition-backed submission to Han, the Xinyu civil-governance lesson, and Fan Kuai's sickbed remonstrance to Liu Bang.
 - [《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）](sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i.md) — 芮淇讲透资治通鉴 episode following Peng Yue's execution into Luan Bu's public mourning and death-facing defense, Liu Bang's pardon and same-surname replacement map, and the turn to Zhao Tuo/Nanyue diplomacy through Lu Jia.
 - [《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗](sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l.md) — 芮淇讲透资治通鉴 episode reopening Han Xin's death by challenging Sima Guang's judgment, treating the rebellion case as likely framed, and reading Liu Bang's preservation of Han Xin as a demoted-vassal safety signal disrupted by Lu Zhi-side capital action.
@@ -1313,6 +1314,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [奔鹤 / Ben He](entities/BenHe.md) — Huainan official whose failed attempt to gain favor through Ying Bu's concubine becomes a flight, accusation, investigation, and rebellion trigger.
+- [淮南国 / Huainan Kingdom (early Han)](entities/HuainanKingdomEarlyHan.md) — Ying Bu's early Han royal base, with its own troops and officials, where Ben He's accusation and Han investigation trigger the rebellion decision.
+- [平原君诸建 / Pingyuanjun Zhu Jian](entities/PingyuanjunZhuJian.md) — Huainan chancellor who advises against Ying Bu's rebellion, disambiguated from the Warring States Lord Pingyuan.
+- [梁富侯 / Liangfu Hou](entities/LiangfuHou.md) — Huainan-side adviser whose harder line supports Ying Bu's judgment that rebellion is the only remaining path.
 - [栾布 / Luan Bu](entities/LuanBu.md) — Peng Yue's old friend and former subordinate whose public mourning and death-facing speech make Liu Bang confront merit-holder fear after Peng Yue's execution.
 - [赵佗 / Zhao Tuo](entities/ZhaoTuo.md) — Former Qin Nanhai powerholder who uses Ren Xiao's handoff to build Nanyue and later accepts Han recognition after Lu Jia's pressure.
 - [任嚣 / Ren Xiao](entities/RenXiao.md) — Qin Nanhai officer whose deathbed advice and appointment give Zhao Tuo the opening to turn Lingnan commanderies into the Nanyue base.
@@ -8059,6 +8064,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [内廷通道攀附风险 / Inner-Court Access Brokerage Risk](concepts/InnerCourtAccessBrokerageRisk.md) — Pattern where an outer official's attempt to gain favor through a ruler's intimate household channel becomes suspicion, accusation, investigation, and political crisis.
 - [Demoted Vassal Safety Signal / 降爵诸侯安全信号](concepts/DemotedVassalSafetySignal.md) — Early Han consolidation logic where preserving a demoted former king makes surrender or title loss look survivable to other exposed powerholders.
 - [Celebratory Summons Entrapment / 报捷祝贺式诱捕](concepts/CelebratorySummonsEntrapment.md) — False victory news and congratulatory court protocol used to lure a politically dangerous target into controlled palace space, where entry becomes loss of options.
 - [调查推动式反叛升级 / Investigation-Driven Rebellion Escalation](concepts/InvestigationDrivenRebellionEscalation.md) — Pattern where a politically directed inquiry turns retainer networks, frontier command, and court summons into a self-confirming rebellion spiral.
