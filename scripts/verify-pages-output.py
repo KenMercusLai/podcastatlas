@@ -3,6 +3,7 @@
 from pathlib import Path
 from datetime import date, datetime
 import argparse
+import gzip
 import html
 import json
 import re
@@ -560,6 +561,33 @@ def validate_current_synthesis(public_dir: Path, errors: list[str]) -> None:
             errors.append(f"compact Current Synthesis is missing {heading}")
 
 
+def validate_pagefind_output(public_dir: Path, errors: list[str]) -> None:
+    pagefind_dir = public_dir / "pagefind"
+    if not list(pagefind_dir.glob("*.pf_meta")):
+        errors.append("missing Pagefind metadata index")
+    if not list((pagefind_dir / "index").glob("*.pf_index")):
+        errors.append("missing Pagefind search index")
+
+    fragments = list((pagefind_dir / "fragment").glob("*.pf_fragment"))
+    if not fragments:
+        errors.append("missing Pagefind result fragments")
+        return
+
+    decoded_fragments = []
+    for fragment in fragments:
+        try:
+            decoded_fragments.append(gzip.decompress(fragment.read_bytes()))
+        except (OSError, EOFError) as exc:
+            relative = fragment.relative_to(public_dir).as_posix()
+            errors.append(f"invalid Pagefind result fragment: {relative}: {exc}")
+            return
+
+    if not any(b"/wiki/current-synthesis/" in fragment for fragment in decoded_fragments):
+        errors.append("Current Synthesis is missing from Pagefind result fragments")
+    if any(b"/_generated/" in fragment for fragment in decoded_fragments):
+        errors.append("internal _generated URL found in Pagefind result fragments")
+
+
 def validate(public_dir: Path) -> dict:
     public_dir = public_dir.resolve()
     files = [path for path in public_dir.rglob("*") if path.is_file()]
@@ -603,13 +631,7 @@ def validate(public_dir: Path) -> dict:
         if "A living knowledge atlas synthesized from podcasts." not in homepage_html:
             errors.append("homepage is missing the discovery introduction")
 
-    pagefind_dir = public_dir / "pagefind"
-    if not list(pagefind_dir.glob("*.pf_meta")):
-        errors.append("missing Pagefind metadata index")
-    if not list((pagefind_dir / "index").glob("*.pf_index")):
-        errors.append("missing Pagefind search index")
-    if not list((pagefind_dir / "fragment").glob("*.pf_fragment")):
-        errors.append("missing Pagefind result fragments")
+    validate_pagefind_output(public_dir, errors)
 
     for section in ("tags", "shows", "categories"):
         section_dir = public_dir / section
