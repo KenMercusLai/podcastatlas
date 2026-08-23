@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 6868
+wiki_total_pages: 6880
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "GrandViewGarden"
     title: "大观园 / Grand View Garden"
     url: "/wiki/entities/grandviewgarden/"
+  - key: "GreatWildGoosePagoda"
+    title: "大雁塔 / Great Wild Goose Pagoda"
+    url: "/wiki/entities/greatwildgoosepagoda/"
   - key: "GanBao"
     title: "干宝 / Gan Bao"
     url: "/wiki/entities/ganbao/"

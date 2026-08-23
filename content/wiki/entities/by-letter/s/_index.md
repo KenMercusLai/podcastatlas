@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6868
+wiki_total_pages: 6880
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1463,6 +1463,9 @@ wiki_pages:
   - key: "SongDaogong"
     title: "宋悼公 / Duke Dao of Song"
     url: "/wiki/entities/songdaogong/"
+  - key: "SongFangjin"
+    title: "宋方金 / Song Fangjin"
+    url: "/wiki/entities/songfangjin/"
   - key: "SoongAiLing"
     title: "宋爱玲"
     url: "/wiki/entities/soongailing/"

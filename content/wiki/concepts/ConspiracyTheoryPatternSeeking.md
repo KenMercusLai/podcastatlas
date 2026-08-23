@@ -2,11 +2,13 @@
 title: "Conspiracy Theory Pattern Seeking"
 type: concept
 tags: [reasoning, interpretation, media-literacy, psychology]
-sources: [170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
-last_updated: 2026-07-18
+sources: [271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+last_updated: 2026-08-24
 ---
 
 # Conspiracy Theory Pattern Seeking
+
+[[271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un]] adds a historical-denial version through [[PseudoHistoryConspiracy|伪史论]]. The episode argues that conspiracy thinking can expand by self-protection: when one historical claim cannot survive evidence, the believer rejects more documents, artifacts, specialists, and neighboring histories rather than lowering confidence.
 
 [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds a moral-identity pathway. The episode notes that people who believe in 9/11, vaccine, or moon-landing conspiracy claims may experience themselves as resisting authority and fulfilling a moral duty, which makes correction harder than simply supplying facts.
 
@@ -28,6 +30,8 @@ The episode argues that [[WilliamOfBaskerville|巴斯克维尔的威廉 / Willia
 - In the UFO/pseudoscience branch, redaction, government secrecy, expert disagreement, or debunking can be reabsorbed as proof of a deeper cover-up unless [[ScientificSkepticism]] resets the burden of evidence.
 - In the urban-legend branch, the absence of accessible evidence can become part of the story's persuasiveness rather than a reason to lower confidence.
 - The Taizu death case shows the boundary between conspiratorial pleasure and source-grounded suspicion: a beautiful hidden pattern still needs chronology, motive, and alternative explanations.
+- Episode 271 adds that historical conspiracy can escalate by rejecting the whole evidence ecology, not only one inconvenient source.
+- Pseudohistory becomes socially dangerous when it converts uncertainty or failure into a named enemy group.
 
 ## Connections
 - [[InterpretationAndOverinterpretation]] - broader boundary problem between reading and overreading.
@@ -38,3 +42,4 @@ The episode argues that [[WilliamOfBaskerville|巴斯克维尔的威廉 / Willia
 - [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] - literary case.
 - [[UrbanLegend|都市传说]], [[CocaCola|Coca-Cola]], and [[RoswellIncident]] - modern rumor cases added by episode 95.
 - [[CandleShadowAxeSound|烛影斧声]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[EvidenceBoundHistoricalRevision]] - historical-suspicion boundary added by episode 170.
+- [[PseudoHistoryConspiracy|伪史论]], [[HeSenbao|何森堡]], [[SongFangjin|宋方金]], [[ProfessionalCommunityTrust]], and [[PublicArgumentForBystanders]] - pseudohistory and public-rebuttal branch added by episode 271.

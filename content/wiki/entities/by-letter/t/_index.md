@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6868
+wiki_total_pages: 6880
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "TangJu"
     title: "唐举 / Tang Ju"
     url: "/wiki/entities/tangju/"
+  - key: "TangDynasty"
+    title: "唐朝 / Tang Dynasty"
+    url: "/wiki/entities/tangdynasty/"
   - key: "TangJie"
     title: "唐杰 / Tang Jie"
     url: "/wiki/entities/tangjie/"
@@ -962,6 +965,9 @@ wiki_pages:
   - key: "TadaKatsumi"
     title: "多田克己 / Tada Katsumi"
     url: "/wiki/entities/tadakatsumi/"
+  - key: "TiancaiBushou"
+    title: "天才捕手 / Tiancai Bushou"
+    url: "/wiki/entities/tiancaibushou/"
   - key: "TianxianBaobaoLynx"
     title: "天线宝宝猞猁 / Tianxian Baobao Lynx"
     url: "/wiki/entities/tianxianbaobaolynx/"

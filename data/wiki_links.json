@@ -839,6 +839,10 @@
     "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
     "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
   },
+  "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un": {
+    "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+    "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  },
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": {
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
@@ -3943,6 +3947,10 @@
     "title": "Anatoly Dyatlov / 加特洛夫",
     "url": "/wiki/entities/anatolydyatlov/"
   },
+  "AnatolyFomenko": {
+    "title": "Anatoly Fomenko / 福缅科",
+    "url": "/wiki/entities/anatolyfomenko/"
+  },
   "Anaya": {
     "title": "Anaya / 阿那亚",
     "url": "/wiki/entities/anaya/"
@@ -4590,6 +4598,10 @@
   "AristocraticPoliticalAsylum": {
     "title": "Aristocratic Political Asylum / 贵族政治避难",
     "url": "/wiki/concepts/aristocraticpoliticalasylum/"
+  },
+  "Aristotle": {
+    "title": "Aristotle / 亚里士多德",
+    "url": "/wiki/entities/aristotle/"
   },
   "AristotlePoeticsBookTwo": {
     "title": "亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II",
@@ -18227,6 +18239,10 @@
     "title": "Great Treason Incident / 大逆事件",
     "url": "/wiki/entities/greattreasonincident/"
   },
+  "GreatWildGoosePagoda": {
+    "title": "大雁塔 / Great Wild Goose Pagoda",
+    "url": "/wiki/entities/greatwildgoosepagoda/"
+  },
   "GreaterManchester": {
     "title": "Greater Manchester",
     "url": "/wiki/entities/greatermanchester/"
@@ -19303,6 +19319,10 @@
     "title": "何倩然 / He Qianran",
     "url": "/wiki/entities/heqianran/"
   },
+  "HeSenbao": {
+    "title": "何森堡 / He Senbao",
+    "url": "/wiki/entities/hesenbao/"
+  },
   "HeShiBi": {
     "title": "和氏璧 / He Shi Bi",
     "url": "/wiki/entities/heshibi/"
@@ -19314,6 +19334,10 @@
   "HeXiaopeng": {
     "title": "He Xiaopeng / 何小鹏",
     "url": "/wiki/entities/hexiaopeng/"
+  },
+  "HeXin": {
+    "title": "何新 / He Xin",
+    "url": "/wiki/entities/hexin/"
   },
   "HeYan": {
     "title": "何晏 / He Yan",
@@ -22386,6 +22410,10 @@
   "JeanClaudeBiver": {
     "title": "Jean-Claude Biver",
     "url": "/wiki/entities/jeanclaudebiver/"
+  },
+  "JeanFrancoisChampollion": {
+    "title": "Jean-Francois Champollion / 商博良",
+    "url": "/wiki/entities/jeanfrancoischampollion/"
   },
   "JeanJacquesRousseau": {
     "title": "Jean-Jacques Rousseau / 卢梭",
@@ -28395,6 +28423,10 @@
     "title": "孟尝君 / Tian Wen",
     "url": "/wiki/entities/mengchangjun/"
   },
+  "MenggeTiancaiBushou": {
+    "title": "猛哥 / Mengge",
+    "url": "/wiki/entities/menggetiancaibushou/"
+  },
   "Mengniu": {
     "title": "蒙牛 / Mengniu",
     "url": "/wiki/entities/mengniu/"
@@ -32183,6 +32215,10 @@
     "title": "庞涓 / Pang Juan",
     "url": "/wiki/entities/pangjuan/"
   },
+  "PangLuan": {
+    "title": "庞乱 / Pang Luan",
+    "url": "/wiki/entities/pangluan/"
+  },
   "PangNuan": {
     "title": "庞煖 / Pang Nuan",
     "url": "/wiki/entities/pangnuan/"
@@ -34311,6 +34347,10 @@
     "title": "Productive Bubble Spillovers",
     "url": "/wiki/concepts/productivebubblespillovers/"
   },
+  "ProfessionalCommunityTrust": {
+    "title": "Professional Community Trust / 专业共同体信任",
+    "url": "/wiki/concepts/professionalcommunitytrust/"
+  },
   "ProfessionalDignityBeyondPatientIdentity": {
     "title": "Professional Dignity Beyond Patient Identity",
     "url": "/wiki/concepts/professionaldignitybeyondpatientidentity/"
@@ -34494,6 +34534,10 @@
   "PrudhoeBay": {
     "title": "Prudhoe Bay / 普拉德霍湾",
     "url": "/wiki/entities/prudhoebay/"
+  },
+  "PseudoHistoryConspiracy": {
+    "title": "伪史论 / Pseudo-History Conspiracy",
+    "url": "/wiki/concepts/pseudohistoryconspiracy/"
   },
   "PseudoscienceFraudVulnerability": {
     "title": "Pseudoscience Fraud Vulnerability",
@@ -36974,6 +37018,10 @@
   "Rorschach": {
     "title": "罗夏 / Rorschach",
     "url": "/wiki/entities/rorschach/"
+  },
+  "RosettaStone": {
+    "title": "Rosetta Stone / 罗塞塔石碑",
+    "url": "/wiki/entities/rosettastone/"
   },
   "RosieBloor": {
     "title": "Rosie Bloor",
@@ -39643,6 +39691,10 @@
     "title": "宋代党争 / Song Factional Politics",
     "url": "/wiki/concepts/songfactionalpolitics/"
   },
+  "SongFangjin": {
+    "title": "宋方金 / Song Fangjin",
+    "url": "/wiki/entities/songfangjin/"
+  },
   "SongFoundingLegitimacyPerformance": {
     "title": "宋初建国合法性表演 / Song Founding Legitimacy Performance",
     "url": "/wiki/concepts/songfoundinglegitimacyperformance/"
@@ -41663,6 +41715,10 @@
     "title": "唐传奇 / Tang Chuanqi",
     "url": "/wiki/concepts/tangchuanqi/"
   },
+  "TangDynasty": {
+    "title": "唐朝 / Tang Dynasty",
+    "url": "/wiki/entities/tangdynasty/"
+  },
   "TangFrontierPoetryFieldExperience": {
     "title": "边塞诗的实地经验 / Tang Frontier Poetry Field Experience",
     "url": "/wiki/concepts/tangfrontierpoetryfieldexperience/"
@@ -42850,6 +42906,10 @@
   "TianZifang": {
     "title": "田子方 / Tian Zifang",
     "url": "/wiki/entities/tianzifang/"
+  },
+  "TiancaiBushou": {
+    "title": "天才捕手 / Tiancai Bushou",
+    "url": "/wiki/entities/tiancaibushou/"
   },
   "TianjieJack": {
     "title": "Tianjie Jack",

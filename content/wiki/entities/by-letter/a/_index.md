@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6868
+wiki_total_pages: 6880
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "AnatolyDyatlov"
     title: "Anatoly Dyatlov / 加特洛夫"
     url: "/wiki/entities/anatolydyatlov/"
+  - key: "AnatolyFomenko"
+    title: "Anatoly Fomenko / 福缅科"
+    url: "/wiki/entities/anatolyfomenko/"
   - key: "Anaya"
     title: "Anaya / 阿那亚"
     url: "/wiki/entities/anaya/"
@@ -935,6 +938,9 @@ wiki_pages:
   - key: "ArinDube"
     title: "Arin Dube / Arindrajit Dube"
     url: "/wiki/entities/arindube/"
+  - key: "Aristotle"
+    title: "Aristotle / 亚里士多德"
+    url: "/wiki/entities/aristotle/"
   - key: "Arizona"
     title: "Arizona"
     url: "/wiki/entities/arizona/"

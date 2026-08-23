@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6868
+wiki_total_pages: 6880
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "PingyaoInternationalFilmFestival"
     title: "平遥国际电影展 / Pingyao International Film Festival"
     url: "/wiki/entities/pingyaointernationalfilmfestival/"
+  - key: "PangLuan"
+    title: "庞乱 / Pang Luan"
+    url: "/wiki/entities/pangluan/"
   - key: "PangChunmei"
     title: "庞春梅 / Pang Chunmei"
     url: "/wiki/entities/pangchunmei/"

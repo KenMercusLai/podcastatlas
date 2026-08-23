@@ -2,8 +2,8 @@
 title: "Scientific Skepticism"
 type: concept
 tags: [science, skepticism, evidence, epistemology]
-sources: [sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, dont-hate-the-replicator-hate-the-game, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
-last_updated: 2026-07-25
+sources: [271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, dont-hate-the-replicator-hate-the-game, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
+last_updated: 2026-08-24
 ---
 
 # Scientific Skepticism
@@ -15,6 +15,8 @@ Scientific skepticism is the episode's name for keeping curiosity and doubt toge
 [[sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]] adds the constructive Sagan version. [[SETI]], [[ContactNovel|《接触》 / Contact]], [[CosmosBook|《宇宙》 / Cosmos]], and [[VoyagerGoldenRecord]] show that skepticism can support wonder and public imagination rather than only debunk false claims. The source's boundary is clear: Sagan can be romantic about extraterrestrial intelligence and still require signal, testability, and humility.
 
 The concept is adjacent to [[RationalHumility]] and [[ObservationBeforeInference]]. It differs from blanket debunking because it does not begin with dismissal; it begins with evidence standards, rival hypotheses, independent checks, and the willingness to say that the answer is not yet known.
+
+[[271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un]] adds a pseudohistory version. The episode distinguishes skepticism from [[PseudoHistoryConspiracy|伪史论]] by burden of evidence: doubting a source is legitimate, but declaring all sources fake whenever they disagree with the theory is not skepticism.
 
 [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] adds a more unruly science-history branch. The source values experiment and curiosity, but it treats spectacular, painful, or self-risking experiments skeptically unless they can be controlled, interpreted, repeated, and corrected. Skepticism here protects experiment from becoming mere [[ScientificPublicSpectacle]].
 
@@ -30,6 +32,7 @@ The concept is adjacent to [[RationalHumility]] and [[ObservationBeforeInference
 - Episode 123 adds self-skepticism: the first object of doubt should often be the observer's own perception, memory, and group-positioned certainty.
 - The replication-games source adds method skepticism: a statistically significant result still needs reproducible code, documented data, and robustness checks.
 - Episode sp.01 adds that skepticism should not flatten public science into coldness; evidence discipline can coexist with literary power and hope.
+- Episode 271 adds that skepticism needs [[ProfessionalCommunityTrust]] when no individual can personally redo every historical, scientific, or technical verification chain.
 
 ## Connections
 - [[CarlSagan|Carl Sagan]] and [[TheDemonHauntedWorld|《魔鬼出没的世界》]] - central skeptical anchors.
@@ -40,3 +43,4 @@ The concept is adjacent to [[RationalHumility]] and [[ObservationBeforeInference
 - [[SocialPsychology]], [[HindsightBias]], [[HostileMediaEffect]], and [[GilbertSpinozaHypothesis]] - source-123 extensions into experimentally tested social cognition.
 - [[ReplicationCrisis]], [[PHacking]], [[ReplicationPackage]], and [[RobustnessChecks]] - social-science reproducibility branch added by Planet Money.
 - [[SETI]], [[ContactNovel|《接触》 / Contact]], and [[HumanisticScienceCommunication]] - constructive Sagan branch added by sp.01.
+- [[PseudoHistoryConspiracy|伪史论]], [[ProfessionalCommunityTrust]], [[HeSenbao|何森堡]], and [[SongFangjin|宋方金]] - episode 271's pseudohistory and community-trust branch.

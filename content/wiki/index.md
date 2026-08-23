@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [271.唐朝都要不存在了？为什么伪史论会在今年大爆发？](sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un.md) — 乱翻书 live episode on 伪史论, "唐朝不存在", historical evidence chains, short-video amplification, simple-causality comfort, professional-community trust, and arguing for bystanders.
 - [Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery](sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on OpenAI teen ChatGPT safeguards, AI data-center cargo theft, export-control smuggling incentives, and Amazon drone-delivery limits.
 - [No.215 华为不造车，鸿蒙智行到底是什么？](sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843.md) — Banlatte episode on Huawei's no-car-manufacturing boundary, Hongmeng Zhixing, AITO/Wenjie, Luxeed, Stelato, Shangjie, Maextro, Yinwang, and Huawei's smart-vehicle cooperation model.
 - [Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up](sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830.md) — All-In episode on Dario Amodei's response, Anthropic regulatory-capture criticism, AI safety rhetoric, data-center backlash, open-source AI, self-regulation models, AI job anxiety, midterms, and affordability-driven socialism.
@@ -1345,6 +1346,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [庞乱 / Pang Luan](entities/PangLuan.md) — 乱翻书 host for the episode 271 live discussion of 伪史论, evidence, and media trust.
+- [何森堡 / He Senbao](entities/HeSenbao.md) — Science writer and debunker who anchors episode 271's evidence-chain critique of 伪史论.
+- [猛哥 / Mengge](entities/MenggeTiancaiBushou.md) — 天才捕手 host who joins episode 271's discussion of pseudohistory, nationalist reversal, and conspiracy spread.
+- [天才捕手 / Tiancai Bushou](entities/TiancaiBushou.md) — Mengge's show identity named in Luanfanshu episode 271.
+- [宋方金 / Song Fangjin](entities/SongFangjin.md) — Screenwriter in episode 271 who frames 伪史论 through simple-causality craving, professional-community trust, and editor/search/algorithm worlds.
+- [何新 / He Xin](entities/HeXin.md) — Figure named in episode 271 as an early Chinese pseudohistory source around Greek-history skepticism.
+- [Anatoly Fomenko / 福缅科](entities/AnatolyFomenko.md) — Russian pseudohistory figure named in episode 271 as an influence on later 伪史论.
+- [唐朝 / Tang Dynasty](entities/TangDynasty.md) — Dynasty used in episode 271 as the shocking target of "唐朝不存在" pseudohistory claims.
+- [大雁塔 / Great Wild Goose Pagoda](entities/GreatWildGoosePagoda.md) — Tang-associated monument invoked in episode 271 as a material-memory target of pseudohistory.
+- [Rosetta Stone / 罗塞塔石碑](entities/RosettaStone.md) — Cross-linguistic evidence example used in episode 271 against totalizing historical denial.
+- [Jean-Francois Champollion / 商博良](entities/JeanFrancoisChampollion.md) — Decipherment figure used in episode 271's Rosetta Stone evidence-chain example.
+- [Aristotle / 亚里士多德](entities/Aristotle.md) — Philosopher used in episode 271 as a pseudohistory denial target and source-transmission example.
 - [Matt Adelman](entities/MattAdelman.md) — Former Target buyer explaining line review odds, planograms, shelf productivity, and buyer defense in the Planet Money board-game retail episode.
 - [Tori Welch](entities/ToriWelch.md) — Exploding Kittens global sourcing person connecting Sell Me a Sasquatch's retail launch to factory production and color quality control.
 - [Subway China / 赛百味中国](entities/SubwayChina.md) — Foreign-origin sandwich chain whose China local general-agency shift is used as a store-acceleration case.
@@ -8217,6 +8230,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [伪史论 / Pseudo-History Conspiracy](concepts/PseudoHistoryConspiracy.md) — Historical denial pattern where a desired reversal rejects the wider evidence ecology instead of revising claims through bounded proof.
+- [Professional Community Trust / 专业共同体信任](concepts/ProfessionalCommunityTrust.md) — Trust in accountable expert communities as a necessary modern knowledge practice under editor, search, and algorithmic media environments.
 - [Retail Line Review](concepts/RetailLineReview.md) — Big-box buying process where seasonal product additions, removals, audience fit, price, and support are judged in short buyer meetings.
 - [Planogram Gatekeeping](concepts/PlanogramGatekeeping.md) — Shelf-blueprint constraint where buyers must decide what a new product replaces and defend slot productivity.
 - [Retail Price-Point Product Scoping](concepts/RetailPricePointProductScoping.md) — Pattern where target retail price determines components, package quality, perceived category, and value signal.

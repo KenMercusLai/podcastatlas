@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5205
+wiki_total_pages: 5207
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "ProductiveBubbleSpillovers"
     title: "Productive Bubble Spillovers"
     url: "/wiki/concepts/productivebubblespillovers/"
+  - key: "ProfessionalCommunityTrust"
+    title: "Professional Community Trust / 专业共同体信任"
+    url: "/wiki/concepts/professionalcommunitytrust/"
   - key: "ProfessionalDignityBeyondPatientIdentity"
     title: "Professional Dignity Beyond Patient Identity"
     url: "/wiki/concepts/professionaldignitybeyondpatientidentity/"
@@ -1316,6 +1319,9 @@ wiki_pages:
   - key: "Pyramiding"
     title: "Pyramiding"
     url: "/wiki/concepts/pyramiding/"
+  - key: "PseudoHistoryConspiracy"
+    title: "伪史论 / Pseudo-History Conspiracy"
+    url: "/wiki/concepts/pseudohistoryconspiracy/"
   - key: "PostwarReturnAndVeteranRelief"
     title: "战后复员安民 / Postwar Return and Veteran Relief"
     url: "/wiki/concepts/postwarreturnandveteranrelief/"

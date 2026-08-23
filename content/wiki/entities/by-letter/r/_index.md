@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 6868
+wiki_total_pages: 6880
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "Ropet"
     title: "Ropet"
     url: "/wiki/entities/ropet/"
+  - key: "RosettaStone"
+    title: "Rosetta Stone / 罗塞塔石碑"
+    url: "/wiki/entities/rosettastone/"
   - key: "RosieBloor"
     title: "Rosie Bloor"
     url: "/wiki/entities/rosiebloor/"

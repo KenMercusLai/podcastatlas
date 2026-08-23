@@ -2,8 +2,8 @@
 title: "Public Relevance Algorithms / 公共相关性的算法"
 type: concept
 tags: [algorithms, media, platforms, knowledge]
-sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]
-last_updated: 2026-08-06
+sources: [271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]
+last_updated: 2026-08-24
 ---
 
 # Public Relevance Algorithms / 公共相关性的算法
@@ -16,6 +16,8 @@ The source's point is that when the internet becomes both the entry to informati
 
 [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds a political-philosophy layer. The episode reads public relevance algorithms through [[AlgorithmicCaveAllegory]], [[AlgorithmicReasonOutsourcing]], [[AlgorithmicDispersedKnowledge]], and [[AlgorithmicPublicAppearance]], arguing that ranking systems shape visible reality, judgment, social knowledge, and public appearance before any single user decision.
 
+[[271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un]] adds the "editor world, search world, algorithm world" contrast through [[SongFangjin|宋方金]]. The source treats [[PseudoHistoryConspiracy|伪史论]] as partly a public-relevance problem: short-video and feed systems can make extreme certainty more visible than slow evidence, changing which claims feel socially present.
+
 ## Key Claims
 - Public relevance algorithms process and certify knowledge at the same time.
 - They are comparable to editors, catalogues, indexes, and news judgments, but often claim greater neutrality because the decision is mathematical or automated.
@@ -23,6 +25,7 @@ The source's point is that when the internet becomes both the entry to informati
 - Their social effects unfold through [[AlgorithmicInclusionPatterns]], [[AlgorithmicPredictionLoop]], [[AlgorithmicRelevanceAssessment]], [[AlgorithmicObjectivityPromise]], [[AlgorithmicEntanglement]], and [[CalculatedPublics]].
 - Episode 164 adds that public relevance can be lost through drift, not only exclusion: news may be visible and still be followed by entertainment, anger, or low-friction interaction.
 - Episode 167 adds that public relevance is a political-philosophy problem: it defines the cave shadows people see, the reasoning they outsource, the knowledge that counts, and the selves that can appear.
+- Episode 271 adds that public relevance can move claims from fringe communities into a shared public field before evidence communities have had time to contextualize them.
 
 ## Connections
 - [[TarletonGillespie]] and [[TheRelevanceOfAlgorithms]] — source of the category in the episode.
@@ -32,3 +35,4 @@ The source's point is that when the internet becomes both the entry to informati
 - [[MarshallMcLuhan]] and [[WalterBenjamin]] — media-theory references used to interpret algorithms as perception-shaping media.
 - [[HuangShengchun]], [[FilterBubble]], [[IncidentalExposure]], [[AlgorithmicAmplification]], and [[AlgorithmicEntertainmentRedirect]] — episode 164's empirical media-effects extension.
 - [[DushuBuchenglin|独树不成林]], [[AlgorithmicCaveAllegory]], [[AlgorithmicReasonOutsourcing]], [[AlgorithmicDispersedKnowledge]], and [[AlgorithmicPublicAppearance]] — episode 167's political-philosophy extension.
+- [[PseudoHistoryConspiracy|伪史论]], [[ProfessionalCommunityTrust]], [[AlgorithmicAmplification]], and [[AlgorithmicMediaLiteracy]] — episode 271's pseudohistory visibility branch.
