@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: d3c448c1791d9349d16b47814ab2b1a13cc34d34
-summary: "Durable power and value come from systems: context, trust, distribution, institutions, verification, and human judgment, not isolated capability or intent."
-episode_count: 1309
-source_count: 1309
+as_of_overview_commit: 8e9107e5071d03a866e47177f749ef14b088d452
+summary: "Durable power and value come from systems: context, trust, distribution, institutions, verification, and judgment, with trust still constrained by structural risk."
+episode_count: 1310
+source_count: 1310
 paragraph_count: 122
 topic_count: 8
 ---
@@ -17,11 +17,11 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AgentFacingInterfaces]], and operational roles such as [[ForwardDeployedEngineer]].
+- Greater agent autonomy increases the importance of [[AICodingVerification]], [[HumanJudgmentUnderAI]], and [[AgentPermissionBoundaries]] rather than removing human responsibility.
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.
-- [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
-- The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, and investigation-triggered rebellion risk.
-- [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
-- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]], [[ZhangLiang]], [[ShusunTong]], and [[ShangshanSiHao]] show that [[LiuBang]] could not replace [[LiuYing]] with [[LiuRuyi]] once avoidance, formal remonstrance, and visible elite reputation made the heir's coalition hard to overturn.
+- The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship.
+- State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
+- [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design.
 
@@ -49,17 +49,17 @@ Cultural works in the corpus function as experiments in politics, identity, evid
 
 ### Governance and Institutions
 
-Governance translates power into institutions, symbols, markets, and trust structures while exposing backlash, liability, rights, and stewardship risks.
+Governance translates power into institutions, symbols, markets, and trust structures while exposing backlash, liability, rights, stewardship risk, and the failure of personal trust under structural vassal suspicion.
 
-- The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, and investigation-triggered rebellion risk. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]].
+- The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-History here treats power as institutional capacity, ecosystem infrastructure, and coalition maintenance, with Hanji 189 adding succession support politics.
+History here treats power as institutional capacity and ecosystem infrastructure: early Chinese states rely on enforceable systems, while handset leadership shifts through standards, platforms, channels, and supply chains.
 
-- [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]].
-- [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]].
+- [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
+- [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
 
 ### Psychology and Personal Development
 

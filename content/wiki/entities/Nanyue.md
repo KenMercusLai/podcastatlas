@@ -2,7 +2,7 @@
 title: "南越 / Nanyue"
 type: entity
 tags: [place, polity, han, frontier]
-sources: [zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy]
+sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy]
 last_updated: 2026-08-23
 ---
 
@@ -20,7 +20,10 @@ The source presents Nanyue as a large southern polity built from the former Qin 
 
 The source therefore treats Nanyue as a frontier polity that can be placed inside Han order without direct occupation. Its submission is real enough to include title acceptance, tribute/gifts, and obedience to Han constraints, but it does not erase Zhao Tuo's local base or self-confidence. That makes Nanyue a central case for [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] rather than a simple conquered commandery.
 
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] qualifies the recognition settlement by adding a later South Sea king notice. Because [[NanhaiCommandery|南海郡]] had just been treated as part of Zhao Tuo's three-commandery Nanyue base, the host reads Liu Bang's South Sea title as possibly a nominal carve-out rather than immediate effective Han control over Nanhai.
+
 ## Connections
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LiuBang|刘邦]], [[ZhaoTuo|赵佗]], and [[NanhaiCommandery|南海郡]] - South Sea king note that complicates the prior Nanyue recognition map.
 - [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[ZhaoTuo|赵佗]], [[LuJia|陆贾]], [[LiuBang|刘邦]], and [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - completed recognition-backed submission.
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] - recognition mission setup.
 - [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], [[XiangCommandery|象郡]], and [[Baiyue|百越]] - southern commandery and frontier field behind Nanyue's scale.

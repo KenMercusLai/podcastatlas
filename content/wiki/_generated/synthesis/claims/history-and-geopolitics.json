@@ -4,14 +4,17 @@
       "global_candidate": true,
       "id": "warring-states-power-was-built-through-enforceable-systems",
       "qualifications": [
-        "This synthesis follows the current Ruiqi Zhouji and Qinji source sequence."
+        "This synthesis follows the current Ruiqi Zhouji and Qinji source sequence.",
+        "The same paragraph qualifies state capacity by noting that effective control did not automatically create social support for the reformer."
       ],
       "statement": "[[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.",
       "status": "source-scoped",
       "supporting_wikilinks": [
         "ShangYangReforms",
         "QinAdministrativeStandardization",
-        "PeopleBasedPoliticalSecurity"
+        "PeopleBasedPoliticalSecurity",
+        "LegalistRulerTechnique",
+        "HouseholdSeparationLaw"
       ]
     },
     {
@@ -25,42 +28,13 @@
       "supporting_wikilinks": [
         "MobileInternetPrehistory",
         "Android",
-        "ChinaHandsetSupplyChain"
-      ]
-    },
-    {
-      "global_candidate": true,
-      "id": "early-han-succession-relied-on-visible-coalitions",
-      "qualifications": [
-        "This is grounded in the Hanji 189 episode's closing treatment of Liu Bang's final succession attempt."
-      ],
-      "statement": "[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]], [[ZhangLiang]], [[ShusunTong]], and [[ShangshanSiHao]] show that [[LiuBang]] could not replace [[LiuYing]] with [[LiuRuyi]] once avoidance, formal remonstrance, and visible elite reputation made the heir's coalition hard to overturn.",
-      "status": "source-scoped",
-      "supporting_wikilinks": [
-        "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
-        "ZhangLiang",
-        "ShusunTong",
-        "ShangshanSiHao",
-        "LiuBang",
-        "LiuYing",
-        "LiuRuyi"
-      ]
-    },
-    {
-      "global_candidate": false,
-      "id": "chenxi-death-credit-remains-source-conflicted",
-      "qualifications": [
-        "The conflict should be preserved as source-scoped until the underlying chronicle passages are reconciled."
-      ],
-      "statement": "[[ZhouBo]], [[FanKuai]], and [[ChenXi]] now carry a contested death-credit detail: the Hanji 189 branch credits Zhou Bo, while the existing Fan Kuai branch credits Fan Kuai.",
-      "status": "contested",
-      "supporting_wikilinks": [
-        "ZhouBo",
-        "FanKuai",
-        "ChenXi"
+        "ChinaHandsetSupplyChain",
+        "GSMStandardization",
+        "Symbian",
+        "TurnkeyHandsetSolutions"
       ]
     }
   ],
-  "summary": "The historical material treats power as an institutional, infrastructural, and coalition-maintenance process. Warring States and Qin sources connect durable rule to enforceable laws, administrative geography, and social acceptance; the handset-history branch shows technology leadership shifting through standards, operating systems, channels, and supply chains; and the Hanji 189 addition shows early Han succession depending on visible elite support rather than Liu Bang's personal preference alone, while preserving a contested Chen Xi death-credit detail.",
+  "summary": "The history-and-geopolitics input currently links two kinds of historical change: early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance, while mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together.",
   "topic_id": "history-and-geopolitics"
 }

@@ -4,10 +4,11 @@
       "global_candidate": true,
       "id": "founding-order-converts-victory-into-governance",
       "qualifications": [
-        "This claim is grounded in the Ruiqi Hanji sequence through Hanji 186 and remains source-scoped to that interpretation of early Western Han founding."
+        "This claim is grounded in the Ruiqi Hanji sequence through Hanji 191 and remains source-scoped to that interpretation of early Western Han founding.",
+        "Hanji 191 preserves the Zhou Bo/Fan Kuai conflict over Chen Xi's death rather than resolving it."
       ],
-      "statement": "The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, and investigation-triggered rebellion risk.",
-      "status": "supported",
+      "statement": "The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship.",
+      "status": "qualified",
       "supporting_wikilinks": [
         "LiuBang",
         "StrategicCapitalRelocation",
@@ -16,16 +17,19 @@
         "HanXiongnuHeqinPolicy",
         "DifferentSurnameKingSuspicion",
         "HuainanKingdomEarlyHan",
-        "InvestigationDrivenRebellionEscalation"
+        "InvestigationDrivenRebellionEscalation",
+        "LuWan",
+        "YanState"
       ]
     },
     {
       "global_candidate": false,
       "id": "vassal-investigations-can-escalate-suspicion",
       "qualifications": [
-        "The Huainan branch is source-scoped; Xiao He's advice is investigation-first, but Ying Bu reads the inquiry through the prior deaths of Han Xin and Peng Yue."
+        "The Huainan branch is source-scoped; Xiao He's advice is investigation-first, but Ying Bu reads the inquiry through the prior deaths of Han Xin and Peng Yue.",
+        "The Yan branch is later-stage: Lu Wan has already hedged through Chen Xi and Xiongnu channels before summons and inspection expose the crisis."
       ],
-      "statement": "Early Han vassal control has a feedback risk: accusations and investigations meant to manage autonomous kings can make exposed rulers interpret court procedure as a prelude to elimination, turning private access scandals into rebellion triggers.",
+      "statement": "Early Han vassal control has a feedback risk: accusations, summons, and investigations meant to manage autonomous powerholders can make exposed rulers interpret court procedure as a prelude to elimination, turning private access scandals or covert hedge behavior into rebellion triggers.",
       "status": "supported",
       "supporting_wikilinks": [
         "DifferentSurnameKingSuspicion",
@@ -34,7 +38,29 @@
         "HuainanKingdomEarlyHan",
         "BenHe",
         "XiaoHe",
-        "YingBu"
+        "YingBu",
+        "LuWan",
+        "ChenXi",
+        "Xiongnu"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "amnesty-and-recognition-separate-rulers-from-territories",
+      "qualifications": [
+        "The Yan case is coercive suppression, while the Nanyue case is frontier recognition; they share separation and incorporation logic but not the same legal status.",
+        "The South Sea king note is source-scoped as a possible nominal title rather than proof of effective Nanhai control."
+      ],
+      "statement": "Early Han governance can detach people or territory from a ruler without immediate full absorption: Liu Bang uses [[PoliticalSurrenderCascade|pardon and rank signaling]] to peel Yan officials away from Lu Wan, while [[RecognitionBackedFrontierDiplomacy]] keeps [[Nanyue]] inside Han hierarchy through title recognition despite unresolved control boundaries.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "PoliticalSurrenderCascade",
+        "RecognitionBackedFrontierDiplomacy",
+        "Nanyue",
+        "ZhaoTuo",
+        "FanKuai",
+        "LuWan",
+        "YanState"
       ]
     },
     {
@@ -182,6 +208,6 @@
       ]
     }
   ],
-  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, public symbols become legitimacy, markets become rule-bound information systems, and private trust becomes a governing asset. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
+  "summary": "Governance in the current corpus is a set of translation mechanisms: conquest becomes founding order, legal doctrine becomes enforceable administration, public symbols become legitimacy, markets become rule-bound information systems, and private trust becomes a governing asset. Hanji 191 sharpens the early-Han side: even personal intimacy cannot dissolve different-surname king risk, so Lu Wan's Yan crisis turns trust into investigation, frontier hedging, military pressure, and pardon-based separation of a ruler from his officials. The topic also keeps the liabilities visible: frontier defeats force diplomacy, autonomous vassal rollback can make investigation itself dangerous, hard controls can backfire, platform and AI rules can burden rights, financial compliance shifts risk onto users, and mission-led organizations still face capital, burnout, and stewardship pressure.",
   "topic_id": "governance-and-institutions"
 }

@@ -2,7 +2,7 @@
 title: "Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交"
 type: concept
 tags: [diplomacy, frontier, statecraft, western-han, legitimacy]
-sources: [zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i]
+sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ This differs from ordinary military conquest because the political relationship 
 
 The concept overlaps with [[VictoryDeterrenceDiplomacy|胜势威慑外交]], because Han victory makes Lu Jia's warning credible. It is narrower, however, because it requires a formal title-recognition package and a frontier or outside polity whose incorporation is cheaper through status than through immediate occupation.
 
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a boundary condition rather than a new completed mission. The episode's South Sea king note suggests that after recognizing [[ZhaoTuo|赵佗]], the Han court could still issue titles that nominally carved space out of [[Nanyue|南越]]; the host treats this as likely more diplomatic or virtual than an immediate administrative rollback of [[NanhaiCommandery|南海郡]].
+
 ## Key Claims
+- Hanji 191 adds that recognition settlements may coexist with nominal title-making that does not necessarily change effective frontier control.
 - Formal recognition can function as pressure when backed by recent military victory and a credible threat of punishment.
 - Envoy rhetoric matters because it turns a distant ruler's identity, kinship, and honor into reasons to accept hierarchy.
 - The recognized ruler is not necessarily absorbed administratively; the point is to make him submit to the central order without forcing a costly campaign.
@@ -24,6 +27,7 @@ The concept overlaps with [[VictoryDeterrenceDiplomacy|胜势威慑外交]], bec
 - Hanji 185 shows the mechanism's ambivalence: Zhao Tuo submits to Han law and title, but his joking comparison with Liu Bang preserves self-confidence rather than full ideological conversion.
 
 ## Connections
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[NanhaiCommandery|南海郡]], and [[LiuBang|刘邦]] - South Sea king title as a possible nominal boundary condition after recognition.
 - [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[LuJia|陆贾]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], and [[LiuBang|刘邦]] - completed source case.
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] - setup source where Liu Bang recognizes Zhao Tuo and sends Lu Jia.
 - [[RenXiao|任嚣]], [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], and [[XiangCommandery|象郡]] - southern commandery base that makes the frontier polity large enough to require this approach.

@@ -2,7 +2,7 @@
 title: "南海郡 / Nanhai Commandery"
 type: entity
 tags: [commandery, qin-state, qin-history, southern-china, frontier]
-sources: [zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]
+sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]
 last_updated: 2026-08-23
 ---
 
@@ -14,7 +14,10 @@ last_updated: 2026-08-23
 
 The page is source-scoped around the episode's administrative point. Nanhai is not developed as an independent local history here; it functions as evidence that Qin's campaign did not stop at battlefield success but immediately became a territorial-management problem.
 
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a source-scoped ambiguity after Zhao Tuo's recognition. Liu Bang is said to enfeoff a South Sea king, but because Nanhai had just been one of the three commanderies inside [[Nanyue|南越]], the host treats the new title as likely more virtual or diplomatic than a clean administrative recovery of the commandery.
+
 ## Connections
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LiuBang|刘邦]], [[ZhaoTuo|赵佗]], and [[Nanyue|南越]] - South Sea king title and the possible nominal carve-out from Zhao Tuo's base.
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LiuBang|刘邦]], and [[LuJia|陆贾]] - Nanhai governorship as the base for Zhao Tuo's later Nanyue recognition.
 - [[QinState|秦国]] and [[QinShiHuang|嬴政 / 秦始皇]] - conquering regime and imperial ruler.
 - [[Baiyue|百越]] - broad southern target of the campaign.

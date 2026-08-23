@@ -2,7 +2,7 @@
 title: "调查推动式反叛升级 / Investigation-Driven Rebellion Escalation"
 type: concept
 tags: [statecraft, suspicion, rebellion, western-han]
-sources: [zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
+sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ The mechanism is not that investigation is always wrong. The concept names a sel
 
 In Hanji 182, the escalation is sharpened by [[HanXin|韩信]]'s earlier forecast that repeated accusations can trigger Liu Bang's personal campaign. Chen Xi's later refusal to attend Liu Taigong's funeral therefore belongs to a wider political psychology: summons and ritual duty no longer look neutral once investigation has reclassified the actor as dangerous.
 
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a variant where investigation follows already suspicious covert delay rather than creating the first fear. [[LuWan|卢绾]] has secretly protected [[ZhangShengWesternHan|张胜]] and sent [[FanQiLuWanEnvoy|范齐]] toward [[ChenXi|陈豨]], but Liu Bang's summons and the [[ShenYiji|审食其]]-[[ZhaoYao|赵尧]] inquiry push Lu Wan into hiding and speaking openly about fear of [[LuZhi|吕雉]] and different-surname king elimination.
+
 ## Key Claims
+- Hanji 191 adds the late-stage form: summons and inspection can convert covert hedge behavior into visible panic, leaks, and confirmed rebellion.
 - Hanji 187 adds the open-action result of the spiral: fear of investigation becomes seizure of envoys and rebellion.
 - Hanji 186 adds that even a verification-oriented investigation can escalate if the target already expects the center to use accusation as a route to elimination.
 - A politically directed investigation can shift from finances to treason without a clean evidentiary boundary.
@@ -28,6 +31,7 @@ In Hanji 182, the escalation is sharpened by [[HanXin|韩信]]'s earlier forecas
 - The pattern is adjacent to [[FrontierVassalContainment|frontier vassal containment]] because external defense authority makes necessary local power look dangerous to the center.
 
 ## Connections
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LuWan|卢绾]], [[ShenYiji|审食其]], [[ZhaoYao|赵尧]], [[ZhangShengWesternHan|张胜]], [[FanQiLuWanEnvoy|范齐]], and [[LuZhi|吕雉]] - investigation converting covert delay into panic, exposure, and attack.
 - [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]], [[YingBu|英布 / 黥布]], [[HanXin|韩信]], [[PengYue|彭越]], [[BenHe|奔鹤]], and [[LiuBang|刘邦]] - cumulative fear chain turning inquiry into open revolt.
 - [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]], [[YingBu|英布 / 黥布]], [[BenHe|奔鹤]], [[XiaoHe|萧何]], [[PengYue|彭越]], and [[HuainanKingdomEarlyHan|淮南国]] - accusation, detention advice, secret inquiry, and rebellion decision.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[ChenXi|陈豨]], [[ZhouChang|周昌]], [[LiuBang|刘邦]], and [[ChenXiRebellion|陈豨之乱]] - source case.

@@ -2,7 +2,7 @@
 title: "Political Surrender Cascade / 招降示范级联"
 type: concept
 tags: [statecraft, rebellion, signaling, military]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
+sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-2-lvtievjrclb1lxxxxr6k-q7kryto, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg]
 last_updated: 2026-08-23
 ---
 
@@ -30,11 +30,15 @@ The two variants show why the cascade depends on credibility, not just fear. A s
 
 [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] records the cascade breaking rather than completing. Qi has lowered its guard after accepting Li Shiqi's persuasion, but Han Xin attacks anyway, producing Li Shiqi's execution and Qi's rapid military collapse. The result is still a Han gain, but not a stable surrender cascade; it is a forced collapse caused by [[CommandSynchronizationFailure|军令同步失灵]].
 
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a suppression-side cascade in the attack on Yan. [[LiuBang|刘邦]] sends [[FanKuai|樊哙]] militarily, but the edict simultaneously tells Yan people and officials that they are not guilty if they do not follow [[LuWan|卢绾]], and that surrender or return can bring pardon, rank, or reward. The result is a separation strategy: isolate the ruler while making compliance profitable for his subordinates.
+
 ## Key Claims
+- Hanji 191 adds the rebellion-suppression form: amnesty and rank promises can peel local officials and followers away from a condemned ruler while the army advances.
 - Hanji 157 part 2 adds that a cascade can be powered by battlefield reputation: one state submits because a recent victory makes resistance look isolated, then that submission becomes leverage against the next state.
 - Hanji 162-3 adds that a cascade can be interrupted by the victor's own side when a parallel commander treats diplomatic success as a rival merit claim rather than as shared strategic success.
 
 ## Connections
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LiuBang|刘邦]], [[FanKuai|樊哙]], [[LuWan|卢绾]], and [[YanState|燕国]] - pardon-and-rank edict used to separate Yan subordinates from Lu Wan.
 - [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[QiState|齐国]] - more-than-seventy-city submission interrupted by Han's own attack.
 - [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[HanXin|韩信]], [[YanState|燕国]], and [[QiState|齐国]] - surrender cascade driven by Jingxing reputation and envoy sequencing.
 - [[KuaiChe|蒯彻]] and [[WuChen|武臣]] - adviser and commander in the source.

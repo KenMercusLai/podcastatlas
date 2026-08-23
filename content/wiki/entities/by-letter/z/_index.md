@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6752
+wiki_total_pages: 6755
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "ZhangEr"
     title: "张耳 / Zhang Er"
     url: "/wiki/entities/zhanger/"
+  - key: "ZhangShengWesternHan"
+    title: "张胜 / Zhang Sheng (Western Han envoy)"
+    url: "/wiki/entities/zhangshengwesternhan/"
   - key: "ZhangLiang"
     title: "张良 / Zhang Liang"
     url: "/wiki/entities/zhangliang/"
@@ -653,6 +656,9 @@ wiki_pages:
   - key: "ZangTu"
     title: "臧荼 / Zang Tu"
     url: "/wiki/entities/zangtu/"
+  - key: "ZangYan"
+    title: "臧衍 / Zang Yan"
+    url: "/wiki/entities/zangyan/"
   - key: "Zili"
     title: "自立"
     url: "/wiki/entities/zili/"

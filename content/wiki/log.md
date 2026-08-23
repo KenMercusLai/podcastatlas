@@ -10127,6 +10127,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴
+
+Added source page for Hanji 191: Lu Wan's shift from Liu Bang's most trusted Yan king into covert support for prolonging Chen Xi through Zhang Sheng, Fan Qi, Zang Yan, and Xiongnu channels; Liu Bang's summons, Shen Yiji/Zhao Yao investigation, Fan Kuai campaign, and pardon/rank edict separating Yan officials and people from Lu Wan; and the source-scoped South Sea king note after Zhao Tuo's Nanyue recognition. Created Zhang Sheng (Western Han envoy), Fan Qi (Lu Wan envoy), and Zang Yan; updated overview, index, Lu Wan, Zang Tu, Yan State, Xiongnu, Chen Xi, Chen Xi Rebellion, Fan Kuai, Liu Bang, Lu Zhi, Shen Yiji, Zhao Yao, Zhao Tuo, Nanyue, Nanhai Commandery, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, Political Surrender Cascade, Frontier Vassal Containment, and Recognition-Backed Frontier Diplomacy. No settled contradiction found; the source preserves the existing Chen Xi death-attribution conflict and treats the South Sea king notice as a nominal boundary condition rather than proven Nanhai control.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》189｜刘邦死前最后一搏
 
 Added source page for Hanji 189: Ying Bu's final flight and killing through Wu Chen of Changsha, Zhou Bo's reported Dai/Yanmen/Yunzhong cleanup and source-scoped Chen Xi death credit, Liu Bi's appointment to the reorganized Wu kingdom, Liu Bang's Confucius sacrifice at Lu, and Liu Bang's last failed attempt to replace Liu Ying with Liu Ruyi through Zhang Liang's avoidance, Shusun Tong's remonstrance, and the Shangshan Sihao's visible support. Created Shangshan Sihao, Liu Bi (King of Wu), early Han Wu Kingdom, and Wu Chen (Changsha king); updated overview, index, Liu Bang, Liu Ying, Liu Ruyi, Qi Ji, Lu Zhi, Zhang Liang, Shusun Tong, Ying Bu, Changsha Kingdom, Chen Xi, Zhou Bo, Same-Surname King Enfeoffment, Alternative Heir Protection Failure, Affection-Driven Succession Risk, and Favorite-Driven Heir Displacement. Flagged a source conflict: Hanji 189 credits Zhou Bo with killing Chen Xi at Dangcheng, while the existing Hanji 182/Fan Kuai branch credits Fan Kuai near Lingqiu.
@@ -10513,6 +10517,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征
 
 Added source page for Hanji 187: Ying Bu's open rebellion after Han Xin and Peng Yue, Xue Gong's upper/middle/lower strategy forecast, Liu Bang's abolition of Ying Bu's title and appointment of Liu Chang as Huainan king, Liu Bang's rejected plan to send crown prince Liu Ying, Lu Zhi's intervention, Zhang Liang's sickbed sendoff, and Ying Bu's early tactical success against divided Chu defenses. Created Xue Gong (Han adviser) and Liu Chang (Huainan king); updated overview, index, Ying Bu, Liu Bang, Huainan Kingdom, Liu Ying, Lu Zhi, Xiahou Ying, Zhang Liang, Crown-Prince Command Risk, Xingshiqing Strategic Assessment, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 186's fear-and-investigation chain while limiting Ying Bu's threat through Xue Gong's lower-strategy diagnosis.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

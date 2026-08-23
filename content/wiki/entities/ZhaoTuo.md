@@ -2,7 +2,7 @@
 title: "赵佗 / Zhao Tuo"
 type: entity
 tags: [person, qin, western-han, nanyue, frontier]
-sources: [zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i]
+sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ The same episode completes the [[LuJia|陆贾]] mission. Zhao Tuo begins the mee
 
 Zhao Tuo therefore turns [[Nanyue|南越]] from an outside refuge mentioned in earlier Hanji 170 material into a concrete frontier-diplomacy problem. The completed case shows [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]]: Zhao Tuo accepts the Han title and submission while retaining enough self-regard to joke that he might have rivaled Liu Bang had he stayed in the Central Plains.
 
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a source-scoped qualification to that southern settlement. After the prior recognition of Zhao Tuo as Nanyue king, the episode notes Liu Bang enfeoffing a South Sea king in a way that seems to carve [[NanhaiCommandery|南海郡]] out from [[Nanyue|南越]] on paper; the host treats the arrangement as likely nominal rather than proof that Zhao Tuo's actual base had been cleanly removed.
+
 ## Connections
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[Nanyue|南越]], [[NanhaiCommandery|南海郡]], and [[LiuBang|刘邦]] - source-scoped South Sea king note after Zhao Tuo's recognition.
 - [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] and [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] - mission completion and setup source pages.
 - [[RenXiao|任嚣]] - Qin Nanhai officer whose deathbed appointment and advice open Zhao Tuo's consolidation path.
 - [[Nanyue|南越]], [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], and [[XiangCommandery|象郡]] - southern polity and territorial base in the source.

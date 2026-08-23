@@ -2,7 +2,7 @@
 title: "臧荼 / Zang Tu"
 type: entity
 tags: [person, yan, chu-han, enfeoffment]
-sources: [zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]
+sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]
 last_updated: 2026-08-23
 ---
 # 臧荼 / Zang Tu
@@ -17,7 +17,10 @@ Zang Tu's placement shows the settlement's preference for commanders who joined 
 
 [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] gives Zang Tu's terminal early-Han branch. In the seventh Han year, the source says he rebels in July, is defeated and captured by Liu Bang in October, and is replaced in Yan by [[LuWan|卢绾]]. The host treats his rebellion as likely driven less by a realistic bid for empire than by pressure from the central court and fear that a former Xiang-side different-surname king could not remain trusted. His son Zang Yan's later flight to [[Xiongnu|匈奴]] keeps the Yan problem connected to the northern frontier.
 
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] turns that exile note into an active political afterlife. [[ZangYan|臧衍]], referred to in the transcript as the former Yan king's son, persuades [[ZhangShengWesternHan|张胜]] that Lu Wan's Yan will be endangered if [[ChenXi|陈豨]] is suppressed quickly. Zang Tu's failed kingship therefore continues to shape Han-Yan politics through a Xiongnu-based exile channel.
+
 ## Connections
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[ZangYan|臧衍]], [[ZhangShengWesternHan|张胜]], [[LuWan|卢绾]], and [[ChenXiRebellion|陈豨之乱]] - Zang Tu's son as an exile interpreter of Yan's danger.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]], [[LiuBang|刘邦]], [[LuWan|卢绾]], [[YanState|燕国]], [[Xiongnu|匈奴]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - rebellion, suppression, and replacement by a trusted Han intimate.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[LiuBang|刘邦]], [[HanXin|韩信]], [[YingBu|英布]], [[WuRui|吴芮]], and [[ZhangAo|张敖]] - accession-petition group.
 - [[YanState|燕国]] and [[HanGuang|韩广]] - old Yan field and displaced ruler.
