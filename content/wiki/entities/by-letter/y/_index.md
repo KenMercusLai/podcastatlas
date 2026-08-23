@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 6956
+wiki_total_pages: 6961
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "YearlyCo"
     title: "Yearly Co."
     url: "/wiki/entities/yearlyco/"
+  - key: "Yeezy"
+    title: "Yeezy"
+    url: "/wiki/entities/yeezy/"
   - key: "Yemen"
     title: "Yemen"
     url: "/wiki/entities/yemen/"

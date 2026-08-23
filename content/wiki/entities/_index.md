@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6956
+wiki_total_pages: 6961
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "AdidasAdiosProEvo3"
     title: "Adidas Adios Pro Evo 3"
     url: "/wiki/entities/adidasadiosproevo3/"
+  - key: "AdidasSamba"
+    title: "Adidas Samba"
+    url: "/wiki/entities/adidassamba/"
   - key: "AdidasUltraBoost"
     title: "Adidas Ultra Boost"
     url: "/wiki/entities/adidasultraboost/"

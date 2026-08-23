@@ -10841,3 +10841,11 @@ Added source page for a The Rest Is History episode on Northern Ireland's 1968-1
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | Vol.271 阿迪达斯如何触底反弹？
+
+Added source page for a 商业就是这样 episode on Adidas' post-2021 operating repair through supply-chain disruption, China weakness and recovery, Yeezy termination and inventory handling, Russia exit pressure, Bjørn Gulden's channel reset, Samba-led retro revival, 2024 inventory restraint, running-shoe R&D, athlete proof, and share-price expectation timing. Created pages for Bjørn Gulden, Puma, Kanye West, Yeezy, Adidas Samba, Sportswear Inventory Cycle, and Retro Product Revival; updated Adidas, Nike, Adidas Adios Pro Evo 3, 商业就是这样, Performance Footwear Market, Sports Lifestyle Consumption, Direct-to-Consumer Brand Control, Inventory Write-Down Risk, Retail Inventory Velocity, Running Shoe Technology, Athlete Sponsorship Strategy, Global Product Localization, Financial Statement Analysis, and Market Expectation Gap. No direct contradiction found; the source qualifies Adidas' recovery as operating repair rather than a complete growth reversal.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

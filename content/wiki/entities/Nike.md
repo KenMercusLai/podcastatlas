@@ -2,8 +2,8 @@
 title: "Nike"
 type: entity
 tags: [company, footwear, sports, consumer-brand]
-sources: [vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
-last_updated: 2026-08-17
+sources: [vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-24
 ---
 
 # Nike
@@ -18,6 +18,8 @@ Nike is a global sportswear company discussed in [[e241-paoxie-jishu-diedaishi-m
 
 [[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds Nike as the parent-company context for [[Converse|匡威 / Converse]]. The source says Nike acquired Converse in 2003, that Converse later benefited from Chuck 70 demand, and that Nike management acknowledged the brand's heavy dependence on Chuck Taylor All-Star while current sales declined across regions.
 
+[[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] adds Nike as the competitive benchmark for [[Adidas]]' recovery. The source says Nike and Adidas shared 2021 stock-price peaks, compares their 2026 [[FIFAWorldCup]] sponsorship presence, and argues Adidas partly learned a Nike-like athlete-product-marketing loop in racing shoes.
+
 ## Key Claims
 - The episode says Nike's breakthrough was not merely adding a carbon plate, but combining plate structure with lightweight, soft, high-rebound foam.
 - [[NikeVaporfly]] and Alphafly gave Nike a period of elite-race and mass-consumer influence that competitors challenged as "spring shoe" style advantage.
@@ -26,6 +28,7 @@ Nike is a global sportswear company discussed in [[e241-paoxie-jishu-diedaishi-m
 - Episode 16 adds that footwear innovation also has an exposure history when glues, solvents, and prototyping work are included.
 - The 声动早咖啡 source adds that athlete-sponsorship uncertainty can create public rumor even before a new brand deal exists.
 - The Vans/Converse source adds a legacy-brand risk: owning a famous heritage shoe line does not remove the need for comfort, product renewal, and cultural relevance.
+- Vol.271 adds that Nike's stronger technology-story reputation becomes a benchmark Adidas tries to answer through higher R&D spending, marathon results, and [[AthleteSponsorshipStrategy]].
 
 ## Connections
 - [[NikeVaporfly]] — core product case.
@@ -36,3 +39,4 @@ Nike is a global sportswear company discussed in [[e241-paoxie-jishu-diedaishi-m
 - [[Converse]], [[ChuckTaylor]], [[ClassicCanvasShoeDecline]], and [[HeritageProductInnovationDebt]] — Converse ownership and heritage-product risk added by the Vans/Converse episode.
 - [[DirectToConsumerBrandControl]], [[HOKA]], and [[OnRunning]] — channel-strategy comparison from FengTouQuan episode 138.
 - [[BillBowerman|Bill Bowerman / 鲍尔曼]], [[ToxicFashionMaterialRisk]], and [[FashionSupplyChainExternality]] — safety-history branch from episode 16.
+- [[Adidas]], [[AdidasAdiosProEvo3]], [[RunningShoeTechnology]], [[FIFAWorldCup]], and [[AthleteSponsorshipStrategy]] — comparison branch extended by Vol.271.

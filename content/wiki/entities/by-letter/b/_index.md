@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 6956
+wiki_total_pages: 6961
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "BjornAdekOlsen"
     title: "Bjorn Adek Olsen"
     url: "/wiki/entities/bjornadekolsen/"
+  - key: "BjornGulden"
+    title: "Bjørn Gulden / 古尔登"
+    url: "/wiki/entities/bjorngulden/"
   - key: "BlackForestLabs"
     title: "Black Forest Labs"
     url: "/wiki/entities/blackforestlabs/"

@@ -2,8 +2,8 @@
 title: "Financial Statement Analysis"
 type: concept
 tags: [finance, accounting, investing]
-sources: [ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
-last_updated: 2026-08-06
+sources: [vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+last_updated: 2026-08-24
 ---
 
 # Financial Statement Analysis
@@ -14,6 +14,8 @@ Financial statement analysis is the episode's practical method for turning annua
 
 [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] extends the method into [[AnnualReportMacroReading]]. Instead of reading one report only to judge one stock, [[DavidWeng|大卫翁]] reads hundreds of annual reports to triangulate macro demand, local-government pressure, consumer weakness, REIT bottom-asset conditions, corporate adaptation, and management sentiment across [[China]].
 
+[[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] adds an operating-turnaround use case through [[Adidas]]. The episode reads revenue share, gross margin, free cash flow, inventory composition, sellable months, impairment provisions, and stock-price timing together, then warns against judging a company only by share-price direction.
+
 ## Key Claims
 - Investors can begin with the three statements without mastering all accounting theory.
 - Profit, assets, and cash should be read together because any one statement can look healthy while another reveals stress.
@@ -23,6 +25,7 @@ Financial statement analysis is the episode's practical method for turning annua
 - For [[ValueInvesting]], statement analysis supports [[MarginOfSafety]] by testing whether bad scenarios are already visible in cash flow, receivables, margins, or capital needs.
 - AI can summarize reports, but E160 treats close reading as part of judgment formation, not a task to fully outsource.
 - Vol.127 adds that financial statements and management discussion can become macro evidence when read across many firms and sectors.
+- A turnaround can be visible first in operational choices and market expectation before all financial metrics have fully recovered, so statement analysis should be paired with [[MarketExpectationGap]] rather than treated as a pure price-following exercise.
 
 ## Connections
 - [[ProfitAndCashFlowQuality]] — cash version of the analysis.
@@ -33,3 +36,4 @@ Financial statement analysis is the episode's practical method for turning annua
 - [[ValueInvesting]], [[MarginOfSafety]], and [[BusinessMoat]] — E160's use case for report reading as business understanding.
 - [[AIInvestmentResearch]] — assistant layer that can organize filings without replacing investor judgment.
 - [[AnnualReportMacroReading]], [[BalanceSheetMacroAnalysis]], and [[ChinaLocalDebtResolution]] — vol.127's macro use of annual reports.
+- [[Adidas]], [[SportswearInventoryCycle]], [[InventoryWriteDownRisk]], [[RetailInventoryVelocity]], [[ProfitAndCashFlowQuality]], and [[MarketExpectationGap]] — operating-turnaround branch added by Vol.271.

@@ -2763,6 +2763,10 @@
     "title": "Adidas Adios Pro Evo 3",
     "url": "/wiki/entities/adidasadiosproevo3/"
   },
+  "AdidasSamba": {
+    "title": "Adidas Samba",
+    "url": "/wiki/entities/adidassamba/"
+  },
   "AdidasUltraBoost": {
     "title": "Adidas Ultra Boost",
     "url": "/wiki/entities/adidasultraboost/"
@@ -6334,6 +6338,10 @@
   "BjornAdekOlsen": {
     "title": "Bjorn Adek Olsen",
     "url": "/wiki/entities/bjornadekolsen/"
+  },
+  "BjornGulden": {
+    "title": "Bjørn Gulden / 古尔登",
+    "url": "/wiki/entities/bjorngulden/"
   },
   "BlackBerry": {
     "title": "BlackBerry",
@@ -24007,6 +24015,10 @@
     "title": "《康熙来了》 / Kangxi Coming",
     "url": "/wiki/entities/kangxilaile/"
   },
+  "KanyeWest": {
+    "title": "Kanye West",
+    "url": "/wiki/entities/kanyewest/"
+  },
   "Kao": {
     "title": "Kao / 花王",
     "url": "/wiki/entities/kao/"
@@ -35103,6 +35115,10 @@
     "title": "Pulley",
     "url": "/wiki/entities/pulley/"
   },
+  "Puma": {
+    "title": "Puma",
+    "url": "/wiki/entities/puma/"
+  },
   "PunchedCardAdministration": {
     "title": "Punched Card Administration / 打孔卡行政",
     "url": "/wiki/concepts/punchedcardadministration/"
@@ -36742,6 +36758,10 @@
   "RetrievalAugmentedGeneration": {
     "title": "Retrieval-Augmented Generation",
     "url": "/wiki/concepts/retrievalaugmentedgeneration/"
+  },
+  "RetroProductRevival": {
+    "title": "Retro Product Revival",
+    "url": "/wiki/concepts/retroproductrevival/"
   },
   "RetrosynthesisAI": {
     "title": "Retrosynthesis AI",
@@ -40498,6 +40518,10 @@
   "SportsbookIntegrityMonitoring": {
     "title": "Sportsbook Integrity Monitoring",
     "url": "/wiki/concepts/sportsbookintegritymonitoring/"
+  },
+  "SportswearInventoryCycle": {
+    "title": "Sportswear Inventory Cycle",
+    "url": "/wiki/concepts/sportswearinventorycycle/"
   },
   "Spotify": {
     "title": "Spotify",
@@ -48087,6 +48111,10 @@
     "title": "Yearly Co.",
     "url": "/wiki/entities/yearlyco/"
   },
+  "Yeezy": {
+    "title": "Yeezy",
+    "url": "/wiki/entities/yeezy/"
+  },
   "Yemen": {
     "title": "Yemen",
     "url": "/wiki/entities/yemen/"
@@ -52758,6 +52786,10 @@
   "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835": {
     "title": "Vol.270 大食代留在了它的时代",
     "url": "/wiki/sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835/"
+  },
+  "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155": {
+    "title": "Vol.271 阿迪达斯如何触底反弹？",
+    "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
   },
   "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": {
     "title": "We almost had a smartphone in the 90s. Why did it fail?",

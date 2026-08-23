@@ -17,6 +17,7 @@ sources:
   - 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1
   - fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677
   - 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1
+  - vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155
 last_updated: 2026-08-24
 ---
 
@@ -52,6 +53,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds the foreign-restaurant-control version through [[ForeignRestaurantBrandLocalControl]]. Here localization may require moving majority control, master-franchise rights, brand ownership, or store-operation authority toward local investors and operators, because food and beverage competition turns on fast local decisions around taste, price, store format, music, cultural themes, and franchise economics.
 
+[[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] adds a post-crisis sportswear version through [[Adidas]]. The source says [[BjornGulden|Bjørn Gulden / 古尔登]] encouraged regional teams to build products around local market characteristics after becoming CEO, and connects this autonomy to Greater China revenue and margin repair.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -74,6 +77,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - EP255 adds that family-manufacturing localization may begin as a successor's entry path, but it still needs production readiness, fulfillment discipline, and a credible consumer story.
 - Episode 144 adds that brand localization can start as attention localization: tourists, Instagram, daigou, and overseas creators may test foreign legibility before the company has built mature local operations.
 - The BYD source adds that vehicle localization can require local R&D, fuel compatibility, local manufacturing, parts sourcing, and market-specific body-size choices.
+- Vol.271 adds that localization can be part of recovery after a regional growth engine stalls: local product autonomy may repair price power and channel confidence, not only improve cultural fit.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -94,3 +98,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[ChineseConsumerBrandSoftPower]], [[InboundTourismBrandDiscovery]], [[ShanxiaYousong]], [[Guanxia]], [[PANE]], and [[Sandunban]] - consumer-brand attention-localization branch added by episode 144.
 - [[BYD]], [[Brazil]], [[Japan]], [[ChineseHardwareGlobalization]], and [[JapanMarketEntryTrust]] - vehicle-localization branch added by 声动早咖啡.
 - [[ForeignRestaurantBrandLocalControl]], [[DemandSupplyChainControlFrame]], [[McDonalds]], [[Starbucks]], [[SubwayChina]], [[PizzaHutChina]], and [[HaagenDazs]] - restaurant-control branch added by FengTouQuan episode 145.
+- [[Adidas]], [[BjornGulden|Bjørn Gulden / 古尔登]], [[SportswearInventoryCycle]], and [[ConsumerBrandMoat]] - post-crisis sportswear localization branch added by Vol.271.

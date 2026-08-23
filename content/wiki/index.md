@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.271 阿迪达斯如何触底反弹？](sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155.md) — 商业就是这样 episode on Adidas' post-2021 operating repair through supply-chain shocks, China recovery, Yeezy inventory handling, dealer relationship repair, Samba-led retro revival, running-shoe R&D, and market-expectation timing.
 - [698. The Troubles: The Brink of Civil War (Part 2)](sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988.md) — The Rest Is History episode on Northern Ireland's 1968-1969 escalation from civil rights protest through Burntollet, the Bogside, Belfast violence, British Army deployment, and the Hunt Report.
 - [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817.md) — 硅谷101 episode with Dongxu and Zhang Hongjiang on the shift from token maxing to token efficient agent workflows, OpenClaw, Hermes, Slock/Raft, local models, model routing, agent-native startups, and AI work implications.
 - [Advice Line with Carlton Calvin of Razor](sources/advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e.md) — How I Built This Advice Line episode with Carlton Calvin on Razor, trend spotting, toy/game licensing proof, founder-visible marketing, stationery wholesale, craft-spirits distribution, SKU focus, and sales delegation.
@@ -7485,7 +7486,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jianying / 剪映](entities/Jianying.md) — Video-editing competitor used to clarify Meitu's narrower workflow defensibility.
 - [盖德](entities/Gaide.md) — Running-shoe reviewer and former sports-industry product manager explaining materials, fit, sponsorship, and marathon performance in E241.
 - [Nike](entities/Nike.md) — Sportswear and footwear company framed through Vaporfly, Alphafly, carbon-plate racing, and the missed official sub-2 marathon narrative.
-- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through Ultra Boost, Adios Pro Evo 3, Adizero Evo SL, and race-to-lifestyle demand.
+- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through Ultra Boost, Adios Pro Evo 3, Samba, World Cup marketing, inventory repair, China recovery, and race-to-lifestyle demand.
+- [Bjørn Gulden / 古尔登](entities/BjornGulden.md) — Adidas CEO in the Vol.271 turnaround source, associated with Yeezy inventory handling, channel repair, regional autonomy, and retro-product revival.
+- [Puma](entities/Puma.md) — Sportswear competitor used in Vol.271 as Bjørn Gulden's prior company before he became Adidas CEO.
+- [Kanye West](entities/KanyeWest.md) — Artist and Yeezy collaborator whose 2022 break with Adidas becomes a celebrity-collaboration and inventory-risk case.
+- [Yeezy](entities/Yeezy.md) — Adidas-Kanye West collaboration framed by Vol.271 as both a profit engine and abrupt post-termination inventory problem.
+- [Adidas Samba](entities/AdidasSamba.md) — Retro Adidas shoe line used in Vol.271 as a Samba-led archive revival supporting Adidas' recovery.
 - [New Balance](entities/NewBalance.md) — Running and lifestyle footwear brand discussed through comfort, fit, width options, running-fashion growth, and shelf-space opportunity.
 - [ASICS](entities/ASICS.md) — Running-footwear brand discussed through GEL history, slow-running comfort, and lifestyle demand.
 - [Brooks](entities/Brooks.md) — Running-footwear brand discussed as a comfort-oriented slow-running shoe company pressured by carbon-plate racing competition.
@@ -9127,6 +9133,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Formula Supply Chain Resilience](concepts/FormulaSupplyChainResilience.md) — Manufacturing and inventory capacity needed to keep serving parents despite long lead times, recalls, and concentrated supply.
 - [WIC Formula Contracting](concepts/WICFormulaContracting.md) — Public-benefit contracting structure that can shape formula choice and reinforce incumbent scale.
 - [Infant Formula Market Concentration](concepts/InfantFormulaMarketConcentration.md) — Market-structure pattern where a few formula brands dominate a regulated, supply-sensitive category.
+- [Sportswear Inventory Cycle](concepts/SportswearInventoryCycle.md) — Sportswear operating pattern where long production lead times, shipping delays, regional demand swings, event years, and channel incentives turn stock into margin and cash-flow risk.
+- [Retro Product Revival](concepts/RetroProductRevival.md) — Product strategy of reactivating a recognizable archive line through current styling, social circulation, scarcity, and portfolio focus.
 - [Classic Canvas Shoe Decline](concepts/ClassicCanvasShoeDecline.md) — Pattern where famous canvas-shoe brands lose momentum as comfort demand, identity dilution, and product innovation debt compound.
 - [Comfort-Led Footwear Demand](concepts/ComfortLedFootwearDemand.md) — Consumer shift toward daily shoes that combine comfort, function, and style, pressuring flat canvas classics.
 - [Subculture Mainstreaming Dilution](concepts/SubcultureMainstreamingDilution.md) — Brand failure mode where a once-subcultural product loses identity premium after broad mainstream distribution.

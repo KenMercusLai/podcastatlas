@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5251
+wiki_total_pages: 5253
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "RetrievalAugmentedGeneration"
     title: "Retrieval-Augmented Generation"
     url: "/wiki/concepts/retrievalaugmentedgeneration/"
+  - key: "RetroProductRevival"
+    title: "Retro Product Revival"
+    url: "/wiki/concepts/retroproductrevival/"
   - key: "RetrosynthesisAI"
     title: "Retrosynthesis AI"
     url: "/wiki/concepts/retrosynthesisai/"
