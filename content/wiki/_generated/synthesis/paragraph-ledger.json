@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8b6963c69412a10b52314fb3d3b9d8421ee97997660b50f1c89d12a74811249e",
       "fa7f975dc4f4d578ec7865c5b683b647185351d788ec913e95034d0567385fa5",
       "ff8d5e1ecffbd31906dfb80202dff1ee3e2ca38d3e412c988e94a88e717bd0cb",
       "c4548e80f0f55a8827d44e2a20ab4805bb20dcfc1b3812a71b4db15822a1c716",
@@ -164,11 +165,37 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 162
+    "paragraph_count": 163
   },
-  "overview_commit": "9257bd89e15d6fedd1e0f768965978e9c87e7f65",
-  "overview_digest": "e627b33661dede29ff392bcaeea8ec639555fcc949d24d0bec21d71ce69d14f2",
+  "overview_commit": "45976b4603173561685e7fbad3964f47f8890319",
+  "overview_digest": "e02ef3cff4ff520ee091f84ad04de6248780cbd65a450570afe8f95d842bbf36",
   "paragraphs": [
+    {
+      "id": "8b6963c69412a10b52314fb3d3b9d8421ee97997660b50f1c89d12a74811249e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "ai-and-technology",
+        "business-and-markets"
+      ],
+      "text": "The [[all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485]] source adds a governance-centered public-safety technology branch. [[GarrettLangley|Garrett Langley]] presents [[FlockSafety|Flock Safety]] as a narrower [[AutomaticLicensePlateReader|license-plate-reader]] company than critics suggest, emphasizing no facial recognition or video for that product, shorter default retention, mandatory [[PoliceDataAccessAudit|audit assistance]], and [[LocalSurveillanceGovernance|local approval]] as controls. The source's broader synthesis is [[PublicSafetyPrivacyTradeoff]]: crime-solving tools can be valuable while still creating [[CivilLibertiesSurveillanceRisk]] when police access, retention, AI pattern detection, [[DroneAsFirstResponder|drones]], and transparency portals are weakly governed. This does not resolve earlier [[SurveillanceAsAService]] concerns; it turns them into a test of product limits, audit consequences, public legitimacy, and human-in-the-loop decisions.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 3
+      },
+      "wikilinks": [
+        "AutomaticLicensePlateReader",
+        "CivilLibertiesSurveillanceRisk",
+        "DroneAsFirstResponder",
+        "FlockSafety",
+        "GarrettLangley",
+        "LocalSurveillanceGovernance",
+        "PoliceDataAccessAudit",
+        "PublicSafetyPrivacyTradeoff",
+        "SurveillanceAsAService",
+        "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485"
+      ]
+    },
     {
       "id": "fa7f975dc4f4d578ec7865c5b683b647185351d788ec913e95034d0567385fa5",
       "primary_topic": "science-health-and-climate",

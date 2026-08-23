@@ -2,8 +2,8 @@
 title: "Consumer Camera Surveillance"
 type: concept
 tags: [privacy, surveillance, ai, consumer-technology]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Consumer Camera Surveillance
@@ -20,6 +20,8 @@ The concept differs from ordinary home security because AI can turn many individ
 
 [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] sharpens that wearable branch through [[RayBanSmartGlasses|Ray-Ban smart glasses]] becoming more popular. [[MariaCurie|Maria Curi]] says a small red recording indicator may not be easy to notice, while the stronger commercial pull of Meta glasses makes [[SmartGlassesBystanderPrivacy]] a practical scale problem rather than only a speculative concern.
 
+[[all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485]] adds Flock's CEO-side distinction between consumer camera networks and [[AutomaticLicensePlateReader|license-plate readers]]. [[GarrettLangley|Garrett Langley]] says Flock's license-plate product does not record video or use facial recognition, while the episode's drone discussion shows how public-safety cameras can still feel more intrusive as systems move from fixed readers toward [[DroneAsFirstResponder|drone response]] and live video.
+
 ## Key Claims
 - A consumer safety use case can lower resistance to deploying cameras, data sharing, and AI matching across a neighborhood.
 - The same network that finds a pet can be imagined as a system for finding people, vehicles, or suspected crimes.
@@ -31,6 +33,7 @@ The concept differs from ordinary home security because AI can turn many individ
 - Archived camera footage can convert ordinary public visibility into [[PublicSpaceRoutineTracking]].
 - Wearable AI can move camera-surveillance concerns from fixed homes, cars, or street fixtures onto a person's face, making bystander notice and consent harder.
 - Strong demand for camera-enabled glasses can increase privacy exposure even when each device has a recording cue, because notice, consent, and data use are still separate questions.
+- Vendor-stated product limits can narrow the surveillance concern, but governance questions remain when camera outputs become searchable law-enforcement infrastructure.
 
 ## Connections
 - [[Ring]], [[Amazon]], [[RingSearchParty|Ring Search Party]], [[JamieSiminoff]], and [[FlockSafety]] - source case.
@@ -41,3 +44,4 @@ The concept differs from ordinary home security because AI can turn many individ
 - [[WillGottsagen]], [[Meta]], [[WearableAIAssistant]], and [[ConsentBasedRecording]] - always-on glasses privacy branch added by Marketplace Tech.
 - [[PlatformDataRegulation]] - broader data-governance concept, though this source is more about consumer devices and law-enforcement access than marketplace data.
 - [[RayBanSmartGlasses|Ray-Ban smart glasses]], [[NeuralBand]], and [[SmartGlassesBystanderPrivacy]] - January 2026 demand and bystander-notice branch.
+- [[AutomaticLicensePlateReader]], [[DroneAsFirstResponder]], [[LocalSurveillanceGovernance]], and [[PoliceDataAccessAudit]] - Flock CEO interview branch added by All-In.

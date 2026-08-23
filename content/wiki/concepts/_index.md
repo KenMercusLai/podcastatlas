@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5293
+wiki_total_pages: 5298
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1715,6 +1715,9 @@ wiki_pages:
   - key: "AutomatedPerformanceMarketing"
     title: "Automated Performance Marketing"
     url: "/wiki/concepts/automatedperformancemarketing/"
+  - key: "AutomaticLicensePlateReader"
+    title: "Automatic License Plate Reader"
+    url: "/wiki/concepts/automaticlicenseplatereader/"
   - key: "AutomationDisplacementEffect"
     title: "Automation Displacement Effect"
     url: "/wiki/concepts/automationdisplacementeffect/"

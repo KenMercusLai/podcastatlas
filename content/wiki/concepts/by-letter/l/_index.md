@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5293
+wiki_total_pages: 5298
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "LocalSocialCapitalAccumulation"
     title: "Local Social Capital Accumulation / 乡里社会资本积累"
     url: "/wiki/concepts/localsocialcapitalaccumulation/"
+  - key: "LocalSurveillanceGovernance"
+    title: "Local Surveillance Governance"
+    url: "/wiki/concepts/localsurveillancegovernance/"
   - key: "LocalVetoHousingPolitics"
     title: "Local Veto Housing Politics"
     url: "/wiki/concepts/localvetohousingpolitics/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety](sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485.md) — All-In interview with Flock Safety CEO Garrett Langley on license-plate readers, privacy criticism, retention defaults, audit assistance, local governance, AI caution, drones, and public-safety tradeoffs.
 - [As space launches increase, there aren't enough spaceports](sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128.md) — Marketplace Tech episode on commercial satellite demand, crowded U.S. launch pads, scarce spaceport geography, the FAA environmental-review waiver proposal, SpaceX, and habitat/legal objections.
 - [Settler bet: a West Bank flashpoint](sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d.md) — The Intelligence episode on West Bank settler outpost escalation, India's uniform civil-code politics, and Bartleby's public-figure workplace satire.
 - [不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？](sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138.md) — 声动早咖啡 episode on Whatnot, Western live-shopping fit, collectible auctions, card breaks, gamified retention, overspending risk, and short updates on Geely, ByteDance-MPA copyright protection, Proya/Ulta, and Damai's toy-IP move.
@@ -1367,6 +1368,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Garrett Langley](entities/GarrettLangley.md) — Flock Safety founder and CEO defending license-plate readers, audit assistance, local governance, AI caution, and drone response in the All-In interview.
 - [Michelle Hanlon](entities/MichelleHanlon.md) — Space-policy expert explaining satellite constellations and launch capacity as a U.S. space-industry bottleneck.
 - [Daniel Ackerman](entities/DanielAckerman.md) — Marketplace Tech reporter identifying the geography, port, population, and airspace constraints behind spaceport siting.
 - [Wendy Whitman Cobb](entities/WendyWhitmanCobb.md) — Space-policy scholar emphasizing how few U.S. locations meet the combined requirements for new launch sites.
@@ -8404,6 +8406,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Public Safety Privacy Tradeoff](concepts/PublicSafetyPrivacyTradeoff.md) — Governance problem balancing crime-solving benefits against retention, abuse, tracking, transparency, and police-trust risks.
+- [Automatic License Plate Reader](concepts/AutomaticLicensePlateReader.md) — Camera-and-software pattern that turns vehicle plates and attributes into searchable public-safety records.
+- [Police Data Access Audit](concepts/PoliceDataAccessAudit.md) — Accountability layer for detecting and disciplining misuse of police-accessible surveillance databases.
+- [Local Surveillance Governance](concepts/LocalSurveillanceGovernance.md) — City, state, transparency, and retention-control model for public-safety surveillance deployments.
+- [Drone As First Responder](concepts/DroneAsFirstResponder.md) — Public-safety drone model that reaches incidents before human responders while raising new oversight and privacy questions.
 - [Space Launch Capacity Bottleneck](concepts/SpaceLaunchCapacityBottleneck.md) — Constraint where satellite demand grows faster than launch pads, spaceports, licensing, airspace, and site upgrades.
 - [Spaceport Siting Constraint](concepts/SpaceportSitingConstraint.md) — Geography and public-risk limits that make good rocket launch sites rare.
 - [Space Launch Environmental Review](concepts/SpaceLaunchEnvironmentalReview.md) — Regulatory process and waiver dispute around habitat, air, water, noise, debris, and protected-species impacts from launches and spaceports.

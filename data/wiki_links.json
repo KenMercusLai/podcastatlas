@@ -5159,6 +5159,10 @@
     "title": "Automatic / Automatic Auctions",
     "url": "/wiki/entities/automaticauctions/"
   },
+  "AutomaticLicensePlateReader": {
+    "title": "Automatic License Plate Reader",
+    "url": "/wiki/concepts/automaticlicenseplatereader/"
+  },
   "AutomationDisplacementEffect": {
     "title": "Automation Displacement Effect",
     "url": "/wiki/concepts/automationdisplacementeffect/"
@@ -13355,6 +13359,10 @@
     "title": "Drive to Survive",
     "url": "/wiki/entities/drivetosurvive/"
   },
+  "DroneAsFirstResponder": {
+    "title": "Drone As First Responder",
+    "url": "/wiki/concepts/droneasfirstresponder/"
+  },
   "DroneCropMapping": {
     "title": "Drone Crop Mapping",
     "url": "/wiki/concepts/dronecropmapping/"
@@ -17610,6 +17618,10 @@
   "GarrettJohnson": {
     "title": "Garrett Johnson",
     "url": "/wiki/entities/garrettjohnson/"
+  },
+  "GarrettLangley": {
+    "title": "Garrett Langley",
+    "url": "/wiki/entities/garrettlangley/"
   },
   "GarryTan": {
     "title": "Garry Tan",
@@ -26679,6 +26691,10 @@
     "title": "Local Social Capital Accumulation / 乡里社会资本积累",
     "url": "/wiki/concepts/localsocialcapitalaccumulation/"
   },
+  "LocalSurveillanceGovernance": {
+    "title": "Local Surveillance Governance",
+    "url": "/wiki/concepts/localsurveillancegovernance/"
+  },
   "LocalVetoHousingPolitics": {
     "title": "Local Veto Housing Politics",
     "url": "/wiki/concepts/localvetohousingpolitics/"
@@ -34139,6 +34155,10 @@
     "title": "Police Consent Decree Culture Gap",
     "url": "/wiki/concepts/policeconsentdecreeculturegap/"
   },
+  "PoliceDataAccessAudit": {
+    "title": "Police Data Access Audit",
+    "url": "/wiki/concepts/policedataaccessaudit/"
+  },
   "PoliceFreeProtestSpace": {
     "title": "Police-Free Protest Space",
     "url": "/wiki/concepts/policefreeprotestspace/"
@@ -35406,6 +35426,10 @@
   "PublicSafetyFirstUrbanGovernance": {
     "title": "Public-Safety-First Urban Governance",
     "url": "/wiki/concepts/publicsafetyfirsturbangovernance/"
+  },
+  "PublicSafetyPrivacyTradeoff": {
+    "title": "Public Safety Privacy Tradeoff",
+    "url": "/wiki/concepts/publicsafetyprivacytradeoff/"
   },
   "PublicServiceDigitalization": {
     "title": "Public Service Digitalization",
@@ -50614,6 +50638,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830": {
     "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485": {
+    "title": "Flock CEO Garrett Langley on Controversy, \\\"Surveillance State\\\" Claims, and Privacy vs Safety",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370": {
     "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",

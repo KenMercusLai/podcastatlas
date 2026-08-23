@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7033
+wiki_total_pages: 7034
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "GarrettJohnson"
     title: "Garrett Johnson"
     url: "/wiki/entities/garrettjohnson/"
+  - key: "GarrettLangley"
+    title: "Garrett Langley"
+    url: "/wiki/entities/garrettlangley/"
   - key: "GarryTan"
     title: "Garry Tan"
     url: "/wiki/entities/garrytan/"

@@ -2,8 +2,8 @@
 title: "Civil Liberties Surveillance Risk"
 type: concept
 tags: [civil-liberties, surveillance, democracy, privacy]
-sources: [tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485, tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Civil Liberties Surveillance Risk
@@ -24,6 +24,8 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 
 [[tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128]] adds a legal-AI personalization version through [[BenjaminAlarie]]. [[PersonalizedLegalGuidance]] may require systems to know a great deal about legal circumstances, people, and case law; Alarie says society has to balance high-functioning legal systems against the risk of being over-surveilled.
 
+[[all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485]] adds a company-response version through [[GarrettLangley|Garrett Langley]] and [[FlockSafety|Flock Safety]]. Langley argues that civil-liberties risk can be narrowed through product limits, shorter retention, [[PoliceDataAccessAudit|mandatory audit assistance]], [[LocalSurveillanceGovernance|local approval]], transparency portals, and human-in-the-loop AI. The episode does not resolve the risk; it shifts the test from whether [[AutomaticLicensePlateReader|license-plate data]] is useful to whether limits and accountability are strong enough to prevent abuse or routine tracking.
+
 ## Key Claims
 - Surveillance can target people for speech or association, not only for crimes.
 - Private-sector data markets can make government monitoring cheaper and more scalable.
@@ -36,6 +38,7 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 - Public-benefit systems can become chilled when people fear service-linked data may be reused by enforcement agencies.
 - Child-safety identity checks can affect anonymity and association even when the immediate policy target is underage platform access.
 - Legal AI can create civil-liberties risk when personalized help depends on large-scale collection or mining of personal and case data.
+- Public-safety vendors can reduce but not erase civil-liberties risk when surveillance data is searchable by police, because retention, auditing, access, and local legitimacy remain separate control points.
 
 ## Connections
 - [[JeremyScott]] and [[ElectronicPrivacyInformationCenter]] - source civil-liberties framing.
@@ -48,3 +51,4 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 - [[ElizabethLaird]], [[FederalDataPracticeTrust]], [[PublicBenefitsDataChillingEffect]], [[EnforcementAgencyDataSharing]], and [[GovernmentDataAccountability]] - public-benefits and federal-data trust branch added by Marketplace Tech.
 - [[SocialMediaAgeBans]], [[OnlineAgeVerification]], [[France]], and [[WillOremus]] - social-media identity-check branch added by Marketplace Tech.
 - [[BenjaminAlarie]], [[PersonalizedLegalGuidance]], and [[AIAccessToJustice]] - legal-AI personalization branch added by Marketplace Tech.
+- [[GarrettLangley|Garrett Langley]], [[FlockSafety|Flock Safety]], [[AutomaticLicensePlateReader]], [[PoliceDataAccessAudit]], [[LocalSurveillanceGovernance]], and [[PublicSafetyPrivacyTradeoff]] - All-In interview branch around license-plate-reader governance.

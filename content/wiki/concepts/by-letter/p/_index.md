@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5293
+wiki_total_pages: 5298
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "PoliceConsentDecreeCultureGap"
     title: "Police Consent Decree Culture Gap"
     url: "/wiki/concepts/policeconsentdecreeculturegap/"
+  - key: "PoliceDataAccessAudit"
+    title: "Police Data Access Audit"
+    url: "/wiki/concepts/policedataaccessaudit/"
   - key: "PoliceKillingRateDivergence"
     title: "Police Killing Rate Divergence"
     url: "/wiki/concepts/policekillingratedivergence/"
@@ -1274,6 +1277,9 @@ wiki_pages:
   - key: "PublicRelevanceAlgorithms"
     title: "Public Relevance Algorithms / 公共相关性的算法"
     url: "/wiki/concepts/publicrelevancealgorithms/"
+  - key: "PublicSafetyPrivacyTradeoff"
+    title: "Public Safety Privacy Tradeoff"
+    url: "/wiki/concepts/publicsafetyprivacytradeoff/"
   - key: "PublicServiceDigitalization"
     title: "Public Service Digitalization"
     url: "/wiki/concepts/publicservicedigitalization/"

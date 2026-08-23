@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5293
+wiki_total_pages: 5298
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "DreamParenthoodAmbiguity"
     title: "Dream Parenthood Ambiguity / 梦中亲子暧昧"
     url: "/wiki/concepts/dreamparenthoodambiguity/"
+  - key: "DroneAsFirstResponder"
+    title: "Drone As First Responder"
+    url: "/wiki/concepts/droneasfirstresponder/"
   - key: "DroneCropMapping"
     title: "Drone Crop Mapping"
     url: "/wiki/concepts/dronecropmapping/"
