@@ -2,7 +2,7 @@
 title: "同姓王分封 / Same-Surname King Enfeoffment"
 type: concept
 tags: [statecraft, enfeoffment, western-han, vassal-kings]
-sources: [zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
+sources: [zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]
 last_updated: 2026-08-23
 ---
 
@@ -22,7 +22,10 @@ The concept sits in tension with [[CommanderyCountyAntiEnfeoffment|郡县制反�
 
 [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] changes Liu Ruyi's Zhao title from pure same-surname replacement into a succession-risk platform. The title gives Liu Ruyi status, but not the ministerial base needed to become heir; when Liu Bang considers replacing [[LiuYing|刘盈]], the same-surname king becomes an exposed alternative heir.
 
+[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] adds the post-Peng-Yue replacement map. After [[LuanBu|栾布]]'s pardon, Liu Bang names his son Liu Hui king of Liang and Liu You king of Huaiyang, while abolishing [[DongCommandery|东郡]] into Liang and [[YingchuanCommandery|颍川郡]] into Huaiyang. The source therefore extends same-surname kingship from Han Xin/Zhang Ao/Han Wang Xin-related replacements into Peng Yue's former field and adjacent central-plains territory.
+
 ## Key Claims
+- Hanji 184 adds that the same-surname map expands after Peng Yue's removal, converting the Liang and Huaiyang fields into Liu-family royal assignments.
 - Hanji 181 adds that same-surname kingship can supply royal status without supplying enough protection when the same prince becomes an alternative heir.
 - Same-surname kingship is used as a trust substitute when different-surname kings look unsafe after victory.
 - The early Han grant map combines family politics with territorial control over former wartime bases.
@@ -33,6 +36,7 @@ The concept sits in tension with [[CommanderyCountyAntiEnfeoffment|郡县制反�
 - Hanji 180 part 2 adds that the replacement can be read as part of an already developing same-surname map, with the scandal acting as trigger rather than sole cause.
 
 ## Connections
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LuanBu|栾布]], [[DongCommandery|东郡]], [[YingchuanCommandery|颍川郡]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - post-Peng-Yue Liu-family replacement map.
 - [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]], [[LiuRuyi|刘如意]], [[LiuYing|刘盈]], [[QiJi|戚姬 / 戚夫人]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - Zhao kingship becomes an exposed alternative-heir platform.
 - [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[ZhangAo|张敖]], [[LiuRuyi|刘如意]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - same-surname replacement framed as broader policy.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - source scene and founding-order frame.

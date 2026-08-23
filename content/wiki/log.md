@@ -10477,3 +10477,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）
+
+Added source page for Hanji 184: Luan Bu's public mourning beneath Peng Yue's displayed head, his death-facing defense that Peng Yue had not rebelled and that killing him would chill other merit-holders, Liu Bang's pardon and duwei appointment, the same-surname replacement map for Liang and Huaiyang, and Liu Bang's recognition of Zhao Tuo as Nanyue king through Lu Jia's envoy mission. Created Luan Bu and Zhao Tuo; updated overview, index, Liu Bang, Peng Yue, Nanyue, Baiyue, Lu Jia, Nanhai Commandery, Guilin Commandery, Xiang Commandery, Dong Commandery, Yingchuan Commandery, Death-Defying Remonstrance, Pardon As State Power, Different-Surname King Suspicion, Same-Surname King Enfeoffment, and Battlefield Victory To Founding Order. No settled contradiction found; Luan Bu's claim that Peng Yue did not rebel is preserved as source-scoped advocacy, while the source complicates early Han consolidation by showing the chilling-effect risk of punishing a founding contributor.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

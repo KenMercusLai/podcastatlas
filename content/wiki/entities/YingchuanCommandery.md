@@ -2,8 +2,8 @@
 title: "颍川郡 / Yingchuan Commandery"
 type: entity
 tags: [place, commandery, qin, chu-han, warfare]
-sources: [zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+last_updated: 2026-08-23
 ---
 
 # 颍川郡 / Yingchuan Commandery
@@ -16,7 +16,10 @@ For the wiki, Yingchuan therefore becomes a correction to simplified Liu Bang me
 
 [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] gives Yingchuan a later administrative role. After [[ZhengChangHanKing|郑昌]] surrenders, [[LiuBang|刘邦]] makes [[HanWangXin|韩王信]] king of Han and places Yingchuan under him, pairing old Han royal legitimacy with Liu Bang's direct absorption of [[HenanCommanderyChuHan|河南郡]].
 
+[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] later reassigns Yingchuan again inside the same early-Han search for safer regional control. After [[PengYue|彭越]] is killed, Liu Bang abolishes Yingchuan into Huaiyang and names his son Liu You as Huaiyang king, extending [[SameSurnameKingEnfeoffment|同姓王分封]] into the central-plains map.
+
 ## Connections
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - reassignment into Huaiyang under Liu-family kingship.
 - [[LiuBang|刘邦]] - commander responsible for the source-reported massacre.
 - [[Kaifeng|开封]] and [[YangXiongQinGeneral|杨熊]] - immediately preceding campaign context.
 - [[XiangYu|项羽]] and [[XiangchengQin|襄城]] - comparison massacre branch.

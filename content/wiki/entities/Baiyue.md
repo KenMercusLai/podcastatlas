@@ -2,7 +2,7 @@
 title: "百越 / Baiyue"
 type: entity
 tags: [peoples, region, pre-qin, warring-states, southern-china]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
+sources: [zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
 last_updated: 2026-08-23
 ---
 
@@ -16,7 +16,10 @@ The source stresses that Baiyue is not a single state. It is a collective name f
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] moves the Baiyue branch into the Western Han founding settlement. The episode says [[WuRui|吴芮]] had led Baiyue groups in the anti-Qin campaign, and [[LiuBang|刘邦]] later makes him king of [[ChangshaKingdom|长沙国]]. The same episode pairs this with [[WuzhuMinyueKing|无诸 / Wuzhu]]'s [[Minyue|闽越]] kingship, linking broad Baiyue/Yue-descended southern forces to Han recognition politics.
 
+[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] adds the Nanyue-frontier pressure side. The source says [[ZhaoTuo|赵佗]]'s [[Nanyue|南越]] polity had enough southern strength and Baiyue-linked border activity that [[LiuBang|刘邦]] sent [[LuJia|陆贾]] to seek submission by recognition before war.
+
 ## Connections
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LuJia|陆贾]], and [[LiuBang|刘邦]] - Nanyue recognition and southern-border submission attempt.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[WuRui|吴芮]], [[ChangshaKingdom|长沙国]], [[WuzhuMinyueKing|无诸 / Wuzhu]], and [[Minyue|闽越]] - southern coalition service and early Han title recognition.
 - [[WangJianQin|王翦]] - Qin commander tied to the episode's southern pacification notice.
 - [[QinState|秦国]] and [[ChuState|楚国]] - conquering state and recently destroyed southern opponent.

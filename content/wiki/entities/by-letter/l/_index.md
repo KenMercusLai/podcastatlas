@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6739
+wiki_total_pages: 6741
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -989,6 +989,9 @@ wiki_pages:
   - key: "LiFuWarringStates"
     title: "栗腹 / Li Fu (Warring States)"
     url: "/wiki/entities/lifuwarringstates/"
+  - key: "LuanBu"
+    title: "栾布 / Luan Bu"
+    url: "/wiki/entities/luanbu/"
   - key: "LiangQichao"
     title: "梁启超"
     url: "/wiki/entities/liangqichao/"
