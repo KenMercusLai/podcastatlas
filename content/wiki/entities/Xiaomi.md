@@ -2,11 +2,13 @@
 title: "Xiaomi"
 type: entity
 tags: [company, china, technology, investing, ai]
-sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
-last_updated: 2026-08-16
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+last_updated: 2026-08-24
 ---
 
 # Xiaomi
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a Q2 2026 earnings and strategy update. The source says Xiaomi's revenue fell 6.1% year over year and net profit fell 43%, partly because AI data-center demand pushed traditional memory prices higher and Xiaomi's broad handset price coverage made it exposed to component inflation. The same source says Xiaomi is putting more capital into cars, AI, and infrastructure, with EV deliveries up nearly 30% year over year and overseas EV sales planned for the second half of 2027.
 
 [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a robotics-model talent update. The source says former [[ByteDance]] robotics-business lead [[KongTao|Kong Tao]] joined Xiaomi in 2025 to work on robotics foundation models and brought some former ByteDance colleagues, connecting Xiaomi to [[PhysicalAI]], [[EmbodiedAI]], and [[VisionLanguageActionModels]] beyond its existing handset, EV, and large-model branches.
 
@@ -28,6 +30,7 @@ Xiaomi appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-sh
 - The What's Next source adds a supply-chain angle: Xiaomi's handset margins and component security become more sensitive when AI infrastructure buyers absorb memory capacity.
 - Episode 210 adds the smartphone-origin angle: Xiaomi first accumulated software users through [[MIUI]], then used online launches, low pricing, and ecosystem expansion to challenge both shanzhai phones and older carrier-channel incumbents.
 - The 声动早咖啡 source adds a vehicle-product angle, treating range extension as a sales and delivery option at a moment when the category's growth was slowing.
+- The later 声动早咖啡 update adds a pressure-and-reallocation angle: handset component inflation and shipment weakness make cars, AI, infrastructure, and overseas EV channels more central to Xiaomi's growth story.
 
 ## Connections
 - [[Alibaba]] and [[Tencent]] — peer large Chinese technology names in the episode's foreign-capital discussion.
@@ -38,3 +41,4 @@ Xiaomi appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-sh
 - [[LeiJun]], [[MIUI]], [[Redmi]], [[InternetPhoneModel]], and [[SmartphoneBrandSupplyChainExecution]] — Xiaomi's phone-history branch added by episode 210.
 - [[RangeExtendedEV]] - EV route side item added by 声动早咖啡.
 - [[KongTao]], [[PhysicalAI]], [[EmbodiedAI]], and [[VisionLanguageActionModels]] - robotics foundation-model branch added by the later 声动早咖啡 source.
+- [[AIHardwareSupplyChainPressure]], [[ChinaPassengerVehicleDemandPressure]], [[ChineseHardwareGlobalization]], and [[GlobalProductLocalization]] - memory-cost pressure and EV-export branch added by the 2026-08-19 声动早咖啡 source.

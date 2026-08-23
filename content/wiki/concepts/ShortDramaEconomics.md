@@ -2,11 +2,13 @@
 title: "Short Drama Economics"
 type: concept
 tags: [media, entertainment, advertising, economics]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]
-last_updated: 2026-08-07
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]
+last_updated: 2026-08-24
 ---
 
 # Short Drama Economics
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds the incumbent-pressure side of the short-drama branch. The source says short-drama apps' monthly active users had surpassed the main long-video platforms, using [[IQIYI|爱奇艺]]'s Q2 loss as evidence that short dramas pressure both user time and long-form content economics.
 
 Short drama economics is the episode's cost-and-distribution frame for why Chinese micro-drama, comic drama, and [[AIShortDrama]] formats evolve differently. In [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]], [[WangXiaoshu]] and [[XuWenliang]] repeatedly return to single-minute cost: the lower the cost, the wider the genre space and the more creators can test ideas; the higher the cost, the more conservative the topic selection becomes.
 
@@ -33,6 +35,7 @@ The source also explains the revenue side. Short dramas may begin with paid IAP-
 - At the current stage, better production can help traffic only when it serves topic selection, story logic, and audience resonance.
 - EP240 adds that domestic free-platform competition can be a push factor for overseas expansion, while overseas live-action production may cost more but buy localization and actor fit.
 - Short drama can be evaluated as an internet entertainment product: weak prestige aesthetics can coexist with strong emotional utility and measurable ROI.
+- Short-drama growth can weaken long-video incumbents even when the two formats are not perfect substitutes, because attention, advertising, and paid-content budgets are still limited.
 
 ## Connections
 - [[Hongguo]] and [[Douyin]] — free/ad-supported and algorithmic distribution context.

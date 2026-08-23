@@ -2,11 +2,13 @@
 title: "GLP-1 Agonists"
 type: concept
 tags: [healthcare, drugs, metabolism, weight-loss]
-sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822, all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]
-last_updated: 2026-08-21
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822, all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]
+last_updated: 2026-08-24
 ---
 
 # GLP-1 Agonists
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a CPG adaptation branch through [[Nestle]]. The source says GLP-1 drugs from companies such as [[NovoNordisk]] and [[EliLilly]] can suppress appetite, which may reduce packaged-food demand but also create concerns around muscle loss and nutritional insufficiency. Nestle's response is to build companion nutrition products, while the episode notes expert skepticism that drug-user-specific products are necessarily better than ordinary foods such as meat, eggs, and dairy.
 
 GLP-1 agonists enter the wiki through [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]], where [[JasmineSun]] explains that many people first know peptides through GLP-1 medications such as [[Ozempic]]. In the episode, the GLP-1 boom acts less as a pharmacology lesson than as the demand gateway into [[GrayMarketPeptides]]: some users seek cheaper versions, then begin exploring other injectable compounds with less evidence.
 
@@ -39,6 +41,7 @@ The source distinguishes the category's public popularity from the safety status
 - The hair-care source adds that GLP-1 popularity can spill into beauty demand when users or marketers connect weight-loss treatment to hair-loss anxiety.
 - The Makary source adds that GLP-1s can be clinically useful while also exposing food-system, chronic-disease, and drug-pricing failures.
 - The Bryan Johnson All-In source adds that GLP-1 familiarity may normalize broader biological intervention, while leaving specific longevity extrapolations unproven.
+- The Nestle source adds that GLP-1 adoption can create a companion nutrition market, but product claims should be separated from ordinary dietary adequacy and clinical evidence.
 
 ## Connections
 - [[Ozempic]] - named product reference point in the episode.
@@ -53,3 +56,4 @@ The source distinguishes the category's public popularity from the safety status
 - [[HairLossFollicleCycle]], [[PremiumHaircareMarket]], and [[HaircareSkincareization]] - hair-care demand branch added by the 声动早咖啡 source.
 - [[MartyMakary|Marty Makary]], [[RootCausePublicHealthResearch]], and [[MostFavoredNationDrugPricing]] - public-health and affordability branch added by All-In.
 - [[BryanJohnson]], [[PsychedelicLongevityHypothesis]], [[MitochondrialTherapy]], and [[CellularReprogrammingControlProblem]] - broader biological-intervention adoption frame added by All-In.
+- [[Nestle]] and [[MuscleAsLongevityInfrastructure]] - consumer-nutrition adaptation branch added by 声动早咖啡.

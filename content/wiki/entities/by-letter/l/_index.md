@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 6961
+wiki_total_pages: 6968
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "LuckinCoffee"
     title: "Luckin Coffee / 瑞幸咖啡"
     url: "/wiki/entities/luckincoffee/"
+  - key: "LuckyCoffee"
+    title: "Lucky Coffee / 幸运咖"
+    url: "/wiki/entities/luckycoffee/"
   - key: "Lucy"
     title: "Lucy"
     url: "/wiki/entities/lucy/"

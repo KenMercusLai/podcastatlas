@@ -2,11 +2,13 @@
 title: "Beverage Category Convergence"
 type: concept
 tags: [coffee, tea-drinks, retail, consumer, china, united-states]
-sources: [141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
-last_updated: 2026-07-23
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+last_updated: 2026-08-24
 ---
 
 # Beverage Category Convergence
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a concrete office-market entry case through [[LuckyCoffee|幸运咖]]. The source says the [[MixueBingcheng|Mixue]] coffee brand is moving from lower-tier coverage toward first- and second-tier commercial districts, testing whether a low-price chain can use franchise scale and larger stores to compete near [[LuckinCoffee|Luckin]]'s office network.
 
 Beverage category convergence is the blurring of boundaries between coffee chains and tea-drink chains. In [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]], [[FengTouQuan]] argues that the biggest new uncertainty in China's coffee market may come from tea-drink players such as [[MixueBingcheng]] and [[Guming]] selling coffee through existing store networks.
 
@@ -24,10 +26,11 @@ The source says tea-drink chains may enter coffee more easily than coffee chains
 - Convergence can reopen uncertainty even after [[CoffeeChainInstitutionalization]] makes the coffee category look mature.
 - Category difficulty is market-specific: coffee may be mature and crowded in Korea, while milk tea can remain more open despite looking outdated relative to mainland China.
 - Taste upgrading and category convergence are local, not universal; an "older" product can still work where consumer habits and competitors have not moved as quickly.
+- Higher-tier office coffee is a harder convergence arena because incumbent store density, pickup routines, and membership systems can defend demand even against lower-price challengers.
 
 ## Connections
 - [[MixueBingcheng]] and [[Guming]] - source cases for tea chains entering coffee.
-- [[LuckinCoffee]] - coffee incumbent whose tea-drink entry may face more friction.
+- [[LuckyCoffee]], [[MixueBingcheng]], and [[LuckinCoffee]] - lower-price challenger, parent network, and incumbent office-coffee benchmark.
 - [[GongCha]], [[MannerCoffee]], and [[Sandunban]] - Korea comparison cases added by episode 137.
 - [[FranchiseLedConsumerChainExpansion]] - store-network and franchise-operator infrastructure behind convergence.
 - [[LowPriceBrandPerception]] and [[PremiumEverydayBrandTension]] - pricing and brand-permission constraints.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6961
+wiki_total_pages: 6968
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "Switzerland"
     title: "Switzerland"
     url: "/wiki/entities/switzerland/"
+  - key: "Sydney"
+    title: "Sydney"
+    url: "/wiki/entities/sydney/"
   - key: "SydneyBrounstone"
     title: "Sydney Brounstone"
     url: "/wiki/entities/sydneybrounstone/"

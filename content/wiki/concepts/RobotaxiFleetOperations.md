@@ -2,11 +2,13 @@
 title: "Robotaxi Fleet Operations"
 type: concept
 tags: [robotaxi, operations, autonomous-driving, mobility]
-sources: [acc532947b65-acc532947b65]
-last_updated: 2026-08-12
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, acc532947b65-acc532947b65]
+last_updated: 2026-08-24
 ---
 
 # Robotaxi Fleet Operations
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a dedicated-vehicle operations note through [[Tesla]]'s [[CyberCab]]. The source says Tesla planned to start with employee rides on public roads before commercial service, which makes rollout sequencing, public-road permission, monitoring, and incident handling part of the fleet-operations problem even before large-scale passenger volume.
 
 Robotaxi fleet operations is the service layer needed when a Robotaxi company manages driverless vehicles as a fleet rather than relying on individual ride-hailing drivers. [[acc532947b65-acc532947b65]] adds the concept through [[ZhangNingPonyAI|张宁]] of [[PonyAI|Pony.ai]], who argues that Robotaxi includes charging, maintenance, cleaning, dispatch, emergency response, accidents, towing, passenger handling, and lifecycle management.
 
@@ -18,6 +20,7 @@ The concept extends [[RobotaxiEconomics]] because removing the driver does not r
 - Lifecycle economics matter because vehicle and sensor costs must be amortized across commercial operating mileage.
 - The source's 600,000-kilometer commercial-vehicle lifecycle frame turns Robotaxi from a launch demo into a depreciation and utilization problem.
 - Fleet operations become exportable know-how if a company can package the operating system, regulatory playbook, and service routines for partners abroad.
+- Purpose-built vehicles reduce some retrofit work but do not remove the need for charging, cleaning, dispatch, remote support, incident handling, and city-by-city operating permissions.
 
 ## Connections
 - [[PonyAI|Pony.ai]] and [[ZhangNingPonyAI]] - source operator and speaker.
@@ -26,3 +29,4 @@ The concept extends [[RobotaxiEconomics]] because removing the driver does not r
 - [[RobotaxiLocalAcceptance]] - passenger, neighborhood, and city-service trust.
 - [[AutonomousVehicleRegulatoryPatchwork]] - local permission and overseas rollout context.
 - [[CarGradeAutonomousCompute]] and [[AutonomousVehicleSafetyBenchmark]] - technical and safety foundations that fleet operations depend on.
+- [[Tesla]] and [[CyberCab]] - dedicated-vehicle rollout branch added by 声动早咖啡.

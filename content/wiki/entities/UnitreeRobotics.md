@@ -2,11 +2,13 @@
 title: "Unitree Robotics"
 type: entity
 tags: [company, robotics, hardware]
-sources: [yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
 last_updated: 2026-08-24
 ---
 
 # Unitree Robotics
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a short business-news update on Unitree's listing day. The source says the stock rose 460% on August 19, 2026 and valued the company above 340 billion RMB, while [[WangXingxing|王兴兴]]'s direct holding crossed 100 billion RMB in paper value. It also says Unitree had already been profitable in the prior year and had taken investment and model/compute support from a partner called Deepsea; these figures are kept source-scoped.
 
 [[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] adds Unitree's public-market moment. The source says Unitree's listing surge made the company a visible robotics milestone, but it cautions that [[UnitreeIPOValuation]] depends on separating existing quadruped and research-platform business from future option value around humanoids, robot brains, and ecosystem platforms. The episode also cites [[WangXingxing|王兴兴]]'s view that humanoid PMF remains incompletely verified.
 
@@ -21,6 +23,7 @@ Unitree Robotics appears in [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-
 ## Connections
 - [[EmbodiedAIValueChain]] — industry frame separating body, brain, data, and scenario roles.
 - [[UnitreeIPOValuation]], [[RobotRepurchaseDemand]], and [[HumanoidRobotCommercialization]] — public-market and commercial-proof frame added by the What's Next source.
+- [[AIEquityValuationRisk]] — source-scoped reminder that listing-day paper value can outrun settled robot demand.
 - [[EmbodiedAI]] — field where body hardware becomes one necessary but not sufficient layer.
 - [[ZhiyuanRobotics]] — another robot company mentioned in the source's commercialization discussion.
 - [[GuanglunIntelligence]] — data/simulation company representing a different layer of the same ecosystem.

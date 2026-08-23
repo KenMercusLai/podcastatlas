@@ -2,11 +2,13 @@
 title: "Chinese Long-Video Platform Economics"
 type: concept
 tags: [media, streaming, platforms, china, economics]
-sources: [no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
-last_updated: 2026-08-12
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+last_updated: 2026-08-24
 ---
 
 # Chinese Long-Video Platform Economics
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a current iQIYI earnings signal to the structural frame. The source says [[IQIYI|爱奇艺]] lost 200 million RMB in Q2 2026 and cites analysis that long-video platforms are pressured by both short-drama user competition and a weaker long-drama market. That makes [[ShortDramaEconomics]] not only an adjacent format, but a direct attention and monetization competitor.
 
 Chinese long-video platform economics is the cost-and-revenue structure described in [[no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]]. The episode argues that the industry moved from technology and upload competition into a long war over copyright, exclusive content, self-produced dramas, variety shows, memberships, bandwidth quality, and large-company financing.
 
@@ -21,6 +23,7 @@ The concept explains why scale did not make [[Youku]], [[Tudou]], [[IQIYI]], [[T
 - Large-company backing from [[Baidu]], [[Alibaba]], [[Tencent]], and broadcast systems became a survival condition.
 - [[Douyin]], [[Hongguo]], and [[ShortDramaEconomics]] pressure long-video platforms by changing attention, cost, and feedback speed.
 - [[Bilibili]] shows that community identity can make standard ad inventory and pure video-platform economics harder to apply.
+- A short-drama usage shock can turn weak network effects into an earnings problem when users spend more time in faster, cheaper, algorithmically tested story formats.
 
 ## Connections
 - [[Youku]], [[Tudou]], [[IQIYI]], [[TencentVideo]], and [[MangoTV]] — platform cases.

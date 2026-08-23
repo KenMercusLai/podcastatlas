@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6961
+wiki_total_pages: 6968
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "HaileGebrselassie"
     title: "Haile Gebrselassie"
     url: "/wiki/entities/hailegebrselassie/"
+  - key: "HainanAirlines"
+    title: "Hainan Airlines / 海南航空"
+    url: "/wiki/entities/hainanairlines/"
   - key: "HakanFidan"
     title: "Hakan Fidan"
     url: "/wiki/entities/hakanfidan/"

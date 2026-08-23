@@ -2,11 +2,13 @@
 title: "Nestle"
 type: entity
 tags: [company, cpg, coffee, food]
-sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
-last_updated: 2026-08-16
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
+last_updated: 2026-08-24
 ---
 
 # Nestle
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds Nestle's GLP-1 response strategy. The source says Nestle is developing nutrition products for consumers using semaglutide-like weight-loss drugs, trying to turn appetite suppression and packaged-food demand pressure into a nutrition, muscle-preservation, and weight-management product opportunity.
 
 [[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds Nestle as a bottled-water portfolio case. The source traces the company's water business from [[Vittel]] and [[Perrier]] through [[SanPellegrino]] and [[NestlePureLife]], then explains why Nestle would move a still-growing water and premium-beverage unit into a joint venture with [[PlatinumEquity]]. The episode's core reading is [[CPGPortfolioFocus]]: growth in water is less compelling when coffee, pet care, nutrition, food, and snacks offer stronger margin or group synergy.
 
@@ -21,6 +23,7 @@ The source says Nestle sold Blue Bottle to [[CenturiumCapital]] at a lower valua
 - Nestle's Blue Bottle ownership is treated as a mismatch between CPG capability and store-led coffee expansion.
 - The sale creates the source's link between [[BlueBottleCoffee]], [[CenturiumCapital]], and [[LuckinCoffee]].
 - The case qualifies [[CPGDistribution]] because offline branded retail can demand different capabilities from packaged consumer-product distribution.
+- The GLP-1 update adds a demand-substitution response: Nestle is trying to attach nutrition products to a drug-driven eating-pattern change rather than only defend legacy packaged-food volume.
 
 ## Connections
 - [[Perrier]], [[SanPellegrino]], [[Vittel]], [[NestlePureLife]], [[AcquaPanna]], and [[PlatinumEquity]] - water portfolio and joint-venture branch.
@@ -28,3 +31,4 @@ The source says Nestle sold Blue Bottle to [[CenturiumCapital]] at a lower valua
 - [[BlueBottleCoffee]] - brand sold by Nestle in the source's account.
 - [[CenturiumCapital]] and [[LuckinCoffee]] - buyer and portfolio context.
 - [[CoffeeChainLocalization]], [[ExperientialRetail]], and [[CPGDistribution]] - concepts clarified by the sale.
+- [[GLP1Agonists]], [[NovoNordisk]], [[EliLilly]], and [[MuscleAsLongevityInfrastructure]] - weight-loss-drug nutrition branch added by 声动早咖啡.

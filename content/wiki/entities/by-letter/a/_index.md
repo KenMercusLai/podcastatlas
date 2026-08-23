@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 6961
+wiki_total_pages: 6968
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "AmerBisat"
     title: "Amer Bisat"
     url: "/wiki/entities/amerbisat/"
+  - key: "AmerSports"
+    title: "Amer Sports / 亚玛芬体育"
+    url: "/wiki/entities/amersports/"
   - key: "AmericaFirstPolicyInstitute"
     title: "America First Policy Institute"
     url: "/wiki/entities/americafirstpolicyinstitute/"
@@ -920,6 +923,9 @@ wiki_pages:
   - key: "ArcLanguage"
     title: "Arc"
     url: "/wiki/entities/arclanguage/"
+  - key: "Arcteryx"
+    title: "Arc'teryx / 始祖鸟"
+    url: "/wiki/entities/arcteryx/"
   - key: "ArcherAviation"
     title: "Archer Aviation"
     url: "/wiki/entities/archeraviation/"

@@ -3811,6 +3811,10 @@
     "title": "Amer Bisat",
     "url": "/wiki/entities/amerbisat/"
   },
+  "AmerSports": {
+    "title": "Amer Sports / 亚玛芬体育",
+    "url": "/wiki/entities/amersports/"
+  },
   "AmericaAsIdea": {
     "title": "America as Idea",
     "url": "/wiki/concepts/americaasidea/"
@@ -4590,6 +4594,10 @@
   "ArchivePreservationBias": {
     "title": "Archive Preservation Bias / 档案保存偏差",
     "url": "/wiki/concepts/archivepreservationbias/"
+  },
+  "Arcteryx": {
+    "title": "Arc'teryx / 始祖鸟",
+    "url": "/wiki/entities/arcteryx/"
   },
   "ArcteryxMountainClassroom": {
     "title": "始祖鸟山地课堂 / Arcteryx Mountain Classroom",
@@ -11327,6 +11335,10 @@
     "title": "Cyber Avatars",
     "url": "/wiki/concepts/cyberavatars/"
   },
+  "CyberCab": {
+    "title": "CyberCab",
+    "url": "/wiki/entities/cybercab/"
+  },
   "CyberDataTheftAndLeakOperations": {
     "title": "Cyber Data Theft and Leak Operations",
     "url": "/wiki/concepts/cyberdatatheftandleakoperations/"
@@ -17371,6 +17383,10 @@
     "title": "甘泉宫 / Ganquan Palace",
     "url": "/wiki/entities/ganquanpalace/"
   },
+  "Gansu": {
+    "title": "Gansu / 甘肃",
+    "url": "/wiki/entities/gansu/"
+  },
   "GaoGu": {
     "title": "高固",
     "url": "/wiki/entities/gaogu/"
@@ -19010,6 +19026,10 @@
   "HaileGebrselassie": {
     "title": "Haile Gebrselassie",
     "url": "/wiki/entities/hailegebrselassie/"
+  },
+  "HainanAirlines": {
+    "title": "Hainan Airlines / 海南航空",
+    "url": "/wiki/entities/hainanairlines/"
   },
   "HainishCycle": {
     "title": "海恩宇宙 / Hainish Cycle",
@@ -27010,6 +27030,10 @@
   "LuckinCoffee": {
     "title": "Luckin Coffee / 瑞幸咖啡",
     "url": "/wiki/entities/luckincoffee/"
+  },
+  "LuckyCoffee": {
+    "title": "Lucky Coffee / 幸运咖",
+    "url": "/wiki/entities/luckycoffee/"
   },
   "Lucy": {
     "title": "Lucy",
@@ -41807,6 +41831,10 @@
     "title": "Sycophantic AI Companion Risk",
     "url": "/wiki/concepts/sycophanticaicompanionrisk/"
   },
+  "Sydney": {
+    "title": "Sydney",
+    "url": "/wiki/entities/sydney/"
+  },
   "SydneyBrounstone": {
     "title": "Sydney Brounstone",
     "url": "/wiki/entities/sydneybrounstone/"
@@ -51310,6 +51338,10 @@
   "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165": {
     "title": "Kyiv brawl: Ukraine's top general fired",
     "url": "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"
+  },
+  "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506": {
+    "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+    "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
   },
   "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d": {
     "title": "Latin lessons: the Donroe-doctrine boost",

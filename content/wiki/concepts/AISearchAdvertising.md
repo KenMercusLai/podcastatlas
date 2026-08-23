@@ -2,11 +2,13 @@
 title: "AI Search Advertising"
 type: concept
 tags: [ai, search, advertising, marketing]
-sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # AI Search Advertising
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds Baidu's delayed-commercialization case. The source says [[Baidu]] paused AI search monetization while AI chatbots were already changing user behavior, which exposes a transition risk for search incumbents: they may need AI answers to keep users, but cannot automatically monetize those answers at the same rate as old query-result pages.
 
 AI search advertising is the attempt to monetize AI answer engines, chatbots, and generative search products through sponsored placements, product listings, advertiser-informed recommendations, or other paid formats. In [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]], [[GarrettJohnson]] frames the category as a market-design problem rather than a simple feature copy from classic search.
 
@@ -31,6 +33,7 @@ The core tension is that AI platforms need users to trust distilled answers, whi
 - Sponsored placement can transfer trust to a destination before the user verifies the domain, making ad review, labeling, and consumer verification part of the trust problem.
 - AEO creates advertiser demand before the ad format is fully settled because brands already care how chatbots describe them.
 - Platforms need to distinguish paid brand appearance from organic factual answer quality if they want answer engines to keep user trust.
+- Search incumbents can face a revenue trough if they delay AI-search ads to protect experience while user attention has already moved toward answer-first or chat-first behavior.
 
 ## Connections
 - [[GarrettJohnson]] and [[BostonUniversity]] - source expert and affiliation.

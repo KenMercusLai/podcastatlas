@@ -2,11 +2,13 @@
 title: "Baidu"
 type: entity
 tags: [company, search, ai, china-internet]
-sources: [vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
-last_updated: 2026-08-17
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-24
 ---
 
 # Baidu
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a Q2 2026 business-news update. The source says Baidu's total revenue fell 4% year over year and online marketing revenue fell nearly 20%, while executives connected the pressure to AI chatbots changing how users get information and to intensified competition for attention. The episode also says Baidu paused AI search monetization, making [[AISearchAdvertising]] a live replacement-loop problem rather than a settled successor to classic search ads.
 
 Baidu is the central company case in [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]]. The [[KejiLuandun]] hosts use its reported Q3 2025 loss, online-marketing decline, AI spending, and search-ad pressure to argue that the old open-Web search-ad engine is losing structural support.
 
@@ -45,6 +47,7 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - The Intelligence adds the overseas robotaxi branch: Baidu's autonomous-driving technology may help Chinese AI services set foreign operating standards.
 - The Keji Luandun options episode adds Baidu as an early Chinese internet example where employee equity seemed more credible under stronger growth and listing expectations.
 - The Vans/Converse source adds a partner-layer role for Baidu: even when Baidu is not the center of consumer AI attention, its technology can appear in localized platform integrations.
+- The later 声动早咖啡 update reinforces the AI-search monetization problem: better answer surfaces can weaken ad inventory before a new sponsored-answer model is ready.
 
 ## Connections
 - [[Apple]], [[AppleIntelligence]], [[Alibaba]], and [[Qwen]] - China-market AI integration branch added by 声动早咖啡.
@@ -62,3 +65,4 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - [[BaiduTieba|百度贴吧]], [[KeywordCommunityArchitecture]], [[ForumSubcultureMemory]], and [[PlatformCommunityGovernance]] — PC-era community branch added by episode 212.
 - [[DonWeinland]], [[Switzerland]], [[RobotaxiEconomics]], [[ChinaAIExportLeverage]], and [[AIServiceExportStandardSetting]] - overseas driverless-taxi branch added by The Intelligence.
 - [[EmployeeStockOptions]], [[EquityCompensationUpside]], and [[EmployeeStockOptionLiquidityRisk]] - employee-equity context added by Keji Luandun.
+- [[AISearchAdvertising]], [[SearchAdvertisingDecline]], and [[ConversationalSearchInterface]] - Q2 2026 AI-search monetization pressure added by 声动早咖啡.

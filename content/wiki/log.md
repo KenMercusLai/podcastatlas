@@ -10710,6 +10710,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿
+
+Added source page for a 声动早咖啡 roundup on Unitree's listing-day valuation, LandSpace/Zhuque-3's reported Chinese land-recovery milestone, Baidu's AI-search ad pressure, iQIYI's long-video squeeze, Xiaomi's handset margin pressure and EV export plan, Arc'teryx/Amer Sports China growth, Lucky Coffee's higher-tier city push, Nestle's GLP-1 nutrition response, Chinese airline meal upgrades, Tesla CyberCab rollout reporting, and Sydney drone lifeguards. Created pages for Amer Sports, Arc'teryx, Lucky Coffee, Hainan Airlines, Sydney, CyberCab, and Gansu; updated overview, index, 声动早咖啡, Unitree Robotics, Wang Xingxing, LandSpace, Zhuque-3, Reusable Rocket Economics, Baidu, Search Advertising Decline, AI Search Advertising, iQIYI, Chinese Long-Video Platform Economics, Short Drama Economics, Xiaomi, AI Hardware Supply Chain Pressure, China Passenger Vehicle Demand Pressure, Mixue Bingcheng, Luckin Coffee, Beverage Category Convergence, Franchise-Led Consumer Chain Expansion, Nestle, GLP-1 Agonists, Air China, China Eastern Airlines, China Southern Airlines, Airline Service Differentiation, New South Wales, Tesla, Robotaxi Economics, and Robotaxi Fleet Operations. Kept Unitree market-value details source-scoped and treated Zhuque-3's landing as a recovery milestone rather than proof of repeat-use economics.
+
 ## [2026-08-24] ingest | E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
 
 Added source page for a 硅谷101 episode with Dongxu and Zhang Hongjiang on the shift from token maxing to token efficient agent workflows, OpenClaw, Hermes, Slock/Raft, local DeepSeek models, multi-agent review, agent-native startup opportunities, and AI work implications. Created Zhang Hongjiang, Lama Ventures, DB9, and Token Efficient Agent Workflow; updated overview, index, SiliconValley101, Dongxu, PingCAP, OpenClaw, HermesAgent, SlockAI, DeepSeek, Fable5, GLM52, and related token-cost, routing, harness, memory, skills, local-execution, multi-agent, agent-native, permission, runtime, organization, and human-agency concepts. No direct contradiction found; the source's uncertain model/product names remain source-scoped.
@@ -10845,6 +10849,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | Vol.271 阿迪达斯如何触底反弹？
 
 Added source page for a 商业就是这样 episode on Adidas' post-2021 operating repair through supply-chain disruption, China weakness and recovery, Yeezy termination and inventory handling, Russia exit pressure, Bjørn Gulden's channel reset, Samba-led retro revival, 2024 inventory restraint, running-shoe R&D, athlete proof, and share-price expectation timing. Created pages for Bjørn Gulden, Puma, Kanye West, Yeezy, Adidas Samba, Sportswear Inventory Cycle, and Retro Product Revival; updated Adidas, Nike, Adidas Adios Pro Evo 3, 商业就是这样, Performance Footwear Market, Sports Lifestyle Consumption, Direct-to-Consumer Brand Control, Inventory Write-Down Risk, Retail Inventory Velocity, Running Shoe Technology, Athlete Sponsorship Strategy, Global Product Localization, Financial Statement Analysis, and Market Expectation Gap. No direct contradiction found; the source qualifies Adidas' recovery as operating repair rather than a complete growth reversal.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

@@ -2,11 +2,13 @@
 title: "Search Advertising Decline"
 type: concept
 tags: [search, advertising, china-internet, ai]
-sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Search Advertising Decline
+
+[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a newer Baidu data point to the decline pattern. The source says [[Baidu]]'s online marketing revenue fell nearly 20% in Q2 2026 and links the drop to AI chatbots changing information-seeking behavior, while Baidu's own AI search commercialization was delayed. That makes the decline both a user-habit problem and a timing problem: the old ad surface weakens before [[AISearchAdvertising]] has proven replacement economics.
 
 Search advertising decline is the weakening of keyword search ads as a dominant traffic and monetization path. In [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]], the [[KejiLuandun]] hosts use [[Baidu]] as the main case: online marketing is described as falling even while the broader internet advertising market still grows, implying that Baidu is losing share rather than only suffering from macro weakness.
 
@@ -31,6 +33,7 @@ The source gives two mechanisms. First, user intent and advertiser attention hav
 - AI-search advertising is a candidate replacement loop, but it may not inherit the scale, auction depth, or user acceptance of classic search ads automatically.
 - Source-link visibility can answer regulatory and trust concerns without rebuilding the old search-ad and publisher-click economy.
 - Search ads can remain commercially powerful while becoming more trust-sensitive when scam advertisers use convincing landing pages.
+- AI-search monetization delay can turn product improvement into near-term revenue pressure when answer/chat behavior reduces classic search-ad exposure.
 
 ## Connections
 - [[Baidu]] — central search-ad decline case.
