@@ -10127,6 +10127,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗
+
+Added source page for Hanji 183: a revisionist reading of Han Xin's death that challenges Sima Guang's moralized blame, treats the late rebellion case as likely framed, reads Liu Bang's preservation of Han Xin as a demoted-vassal safety signal, and shifts agency toward Lu Zhi-side capital action while Liu Bang was away. Created Demoted Vassal Safety Signal; updated overview, index, Han Xin, Liu Bang, Lu Zhi, Xiao He, Fan Kuai, Sima Guang, Han Wang Xin, Chai Wu, Different-Surname King Suspicion, Power Exit Trap, Celebratory Summons Entrapment, Veteran Merit-Clique Supervision, Public Disavowal Self-Protection, Treason Accusation Trap, and Punitive Surrender Deterrence. Contradiction recorded as source-scoped: Hanji 182 preserves the transmitted conspiracy account while Hanji 183 preserves the host's frame-up counter-reading.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因
 
 Added source page for Hanji 181: Liu Bang's proposed replacement of crown prince Liu Ying with Liu Ruyi, Qi Ji's weak political base, Zhou Chang's remonstrance and reassignment to Zhao, Zhao Yao's protector advice, and the host's reading that Liu Bang created danger for the favored branch without effective protection. Created Qi Ji, Zhou Chang, Zhao Yao, and Alternative-Heir Protection Failure; updated overview, index, Liu Bang, Lu Zhi, Liu Ying, Liu Ruyi, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related succession and same-surname kingship concepts. No settled contradiction found; the later-tragedy inevitability claim is kept source-scoped.
@@ -10465,6 +10469,10 @@ Ran lint; report printed in session, not saved to lint-report.md.
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint; report printed in session, not saved to lint-report.md. Semantic checks unavailable because LLM_MODEL and provider API keys are unset.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] lint | Wiki health check
 

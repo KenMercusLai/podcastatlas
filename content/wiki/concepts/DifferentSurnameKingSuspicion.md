@@ -2,7 +2,7 @@
 title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
 type: concept
 tags: [statecraft, early-han, vassal-kings, suspicion]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+sources: [zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
 last_updated: 2026-08-23
 ---
 
@@ -30,7 +30,10 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 
 [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] extends the pattern from kings and demoted kings into the high-command frontier official [[ChenXi|陈豨]]. Chen Xi is not introduced as a different-surname king at first; he becomes dangerous because he commands frontier troops, has old ties to [[HanXin|韩信]], and displays enough retainer power to alarm [[ZhouChang|周昌]]. The episode's investigation chain shows suspicion becoming active production of rebellion risk, later linked to the fates of Han Xin, [[PengYue|彭越]], [[HanWangXin|韩王信]], [[YingBu|英布]], and [[LuWan|卢绾]].
 
+[[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] adds a counter-pressure inside the same suspicion pattern. The host argues that killing a demoted Han Xin could make other different-surname kings conclude that demotion or surrender only delayed death. In that reading, Liu Bang's interest in keeping Han Xin alive was not sentimental alone; it preserved [[DemotedVassalSafetySignal|降爵诸侯安全信号]] while the broader rollback of autonomous powerholders continued.
+
 ## Key Claims
+- Hanji 183 adds a safety-signal constraint: a ruler rolling back different-surname kings may still need visible survivors so submission, demotion, or loss of title remains credible.
 - Hanji 182 adds a non-king extension: the same suspicion logic can attach to an armed frontier official before he claims a royal title.
 - Hanji 182 adds an investigation-production path: suspicion can help create the rebellion it seeks to prevent when the target reads inquiry and summons as traps.
 - Hanji 180 part 2 adds a policy-over-trigger distinction: a specific conspiracy can supply the occasion for removing a non-Liu king while the underlying direction comes from the center's broader rollback of different-surname kings.
@@ -46,6 +49,7 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 - The pattern extends [[PowerExitTrap|权力退场困境]] from individual ministers to territorial kings.
 
 ## Connections
+- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[DemotedVassalSafetySignal|降爵诸侯安全信号]], [[PunitiveSurrenderDeterrence|杀降纳降反噬]], [[LiuBang|刘邦]], and [[HanXin|韩信]] - preservation of a demoted former king as a credibility signal inside anti-vassal rollback.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[ChenXi|陈豨]], [[HanXin|韩信]], [[ZhouChang|周昌]], [[LiuBang|刘邦]], and [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - frontier official suspicion and rebellion escalation.
 - [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[ZhangAo|张敖]], [[ZangTu|臧荼]], [[HanXin|韩信]], [[HanWangXin|韩王信]], [[PengYue|彭越]], [[YingBu|英布]], and [[LuWan|卢绾]] - Zhang Ao removal read inside the broader anti-different-surname king sequence.
 - [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[HanWangXin|韩王信]], [[LiuBang|刘邦]], [[Xiongnu|匈奴]], and [[FrontierVassalContainment|边境迁封式牵制]] - suspicion becoming an active northern campaign problem after surrender.

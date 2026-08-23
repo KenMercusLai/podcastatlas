@@ -2,7 +2,7 @@
 title: "Veteran Merit-Clique Supervision / 功臣旧将监督"
 type: concept
 tags: [governance, military, court-politics, chu-han, supervision]
-sources: [zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources: [zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
 last_updated: 2026-08-23
 ---
 
@@ -18,7 +18,10 @@ The episode argues that Chen Ping's outsider status is useful precisely because 
 
 [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] adds the post-founding danger side of the same veteran field. The source names [[ZhouBo|周勃]], [[FanKuai|樊哙]], and [[GuanYing|灌婴]] as important Pei/Feng military figures and treats Fan Kuai's combination of old-follower status, military merit, and [[LuZhi|吕雉]] connection as politically sensitive. In that setting, supervision is no longer only a ruler's management technique; the veteran circle itself becomes a field that other exposed figures, especially [[HanXin|韩信]], must avoid appearing to join.
 
+[[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] adds an intelligence-network angle to that veteran field. The host argues that postwar information channels and covert capacity belonged more to Liu Bang's merit-holder group than to Han Xin after demotion, helping explain why Han Xin's situational awareness deteriorated once he lost commanders such as [[CaoShen|曹参]] and was isolated in Chang'an. Fan Kuai's visit is therefore not merely social; it is a veteran/Lu-linked node whose meaning depends on who can read and use the capital network.
+
 ## Key Claims
+- Hanji 183 adds that the veteran merit field can own the intelligence and relationship channels around an isolated demoted actor, making the actor strategically famous but informationally weak.
 - Founding-merit circles can become hard for the ruler to monitor because shared history, pride, and informal ties blunt normal discipline.
 - An outsider can be valuable for supervision when the old group is too socially entangled.
 - The appointment of a disliked newcomer may be rational if the ruler needs independent reporting more than harmony with veterans.
@@ -28,6 +31,7 @@ The episode argues that Chen Ping's outsider status is useful precisely because 
 - Hanji 173 adds that an old-merit military circle can become dangerous company for another exposed actor, because mere visible association may look like faction-building.
 
 ## Connections
+- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[HanXin|韩信]], [[FanKuai|樊哙]], [[LuZhi|吕雉]], and [[CaoShen|曹参]] - veteran/Lu-linked channels and Han Xin's post-demotion information weakness.
 - [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[FanKuai|樊哙]], [[HanXin|韩信]], [[LuZhi|吕雉]], and [[PublicDisavowalSelfProtection|公开切割式自保]] - veteran-circle sensitivity behind Han Xin's public distancing from Fan Kuai.
 - [[LiuBang|刘邦]] - ruler managing old followers and new talent.
 - [[ChenPing|陈平]] - outsider supervisor and intelligence actor.

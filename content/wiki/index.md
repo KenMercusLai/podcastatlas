@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗](sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l.md) — 芮淇讲透资治通鉴 episode reopening Han Xin's death by challenging Sima Guang's judgment, treating the rebellion case as likely framed, and reading Liu Bang's preservation of Han Xin as a demoted-vassal safety signal disrupted by Lu Zhi-side capital action.
 - [《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（3）](sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr.md) — 芮淇讲透资治通鉴 episode completing Han Xin's Changle Palace death through Lu Zhi and Xiao He's lure, the source-scoped "three not die" execution lore, Kuai Che's vindicated warning, and the contrast between military genius and political survival.
 - [《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）](sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb.md) — 芮淇讲透资治通鉴 episode completing Chen Xi's suppression through Dongyuan, Quni, Mayi, and Canhe, Han Wang Xin's refusal, and Han Xin's Changle Palace killing through Lu Zhi and Xiao He's false-victory summons.
 - [《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）](sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9.md) — 芮淇讲透资治通鉴 episode opening Chen Xi's rebellion through Han Xin's inside-outside plan, Zhou Chang's warning, Liu Bang's investigation, Chen Xi's northern alliance, and Liu Bang's suppression tactics.
@@ -8053,6 +8054,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Demoted Vassal Safety Signal / 降爵诸侯安全信号](concepts/DemotedVassalSafetySignal.md) — Early Han consolidation logic where preserving a demoted former king makes surrender or title loss look survivable to other exposed powerholders.
 - [Celebratory Summons Entrapment / 报捷祝贺式诱捕](concepts/CelebratorySummonsEntrapment.md) — False victory news and congratulatory court protocol used to lure a politically dangerous target into controlled palace space, where entry becomes loss of options.
 - [调查推动式反叛升级 / Investigation-Driven Rebellion Escalation](concepts/InvestigationDrivenRebellionEscalation.md) — Pattern where a politically directed inquiry turns retainer networks, frontier command, and court summons into a self-confirming rebellion spiral.
 - [Alternative-Heir Protection Failure / 备位继承人保护失灵](concepts/AlternativeHeirProtectionFailure.md) — Succession failure mode where an exposed favored-heir branch receives only thin protection after the ruler cannot complete the replacement.
