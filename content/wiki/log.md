@@ -10349,3 +10349,11 @@ Added source page for Hanji 172: Liu Bang and Chen Ping's fake Yunmeng tour trap
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-23] ingest | 《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）
+
+Added source page for Hanji 173: Han Xin's post-demotion isolation in Chang'an, his visit to Fan Kuai, Fan Kuai's deferential reception, the "生乃与哙等为伍" insult, and the host's interpretation that public distance from Fan Kuai may have been political self-protection rather than only arrogance. Created Public Disavowal Self-Protection; updated overview, index, Han Xin, Liu Bang, Fan Kuai, Lu Zhi, Different-Surname King Suspicion, Veteran Merit-Clique Supervision, and Power Exit Trap. No settled contradiction found; kept the deliberate-distancing interpretation and the "two chances to rebel" setup source-scoped because the excerpt ends before the full follow-on argument.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

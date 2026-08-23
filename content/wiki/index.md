@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）](sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx.md) — 芮淇讲透资治通鉴 episode on Han Xin's post-demotion isolation in Chang'an, Fan Kuai's deferential reception, the "耻与哙伍" insult, and the possibility that public distance from Fan Kuai was political self-protection.
 - [《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信](sources/zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv.md) — 芮淇讲透资治通鉴 episode on Liu Bang and Chen Ping's fake Yunmeng tour trap, Zhongli Mo's suicide, Han Xin's arrest at Chen County, and his demotion from Chu king to Huaiyin marquis.
 - [《资治通鉴·汉纪》171｜张良教你如何名利双收？（2）](sources/zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn.md) — 芮淇讲透资治通鉴 episode on early Han different-surname king suspicion: Zang Tu's Yan rebellion, Lu Wan's replacement kingship, Li Ji's fear revolt, Changle/Weiyang palace building, and Han Xin's Zhongli Mo crisis.
 - [《资治通鉴·汉纪》171｜张良教你如何名利双收？（1）](sources/zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41.md) — 芮淇讲透资治通鉴 episode on Zhang Liang's post-founding withdrawal through Daoist seclusion and Chisongzi language, contrasted with Han Xin and Xiao He's exposure to Liu Bang's suspicion.
@@ -8001,6 +8002,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Public Disavowal Self-Protection / 公开切割式自保](concepts/PublicDisavowalSelfProtection.md) — Survival pattern where an exposed actor publicly disparages or distances from a powerful possible ally so observers do not read the relationship as factional alliance.
 - [Ritual-Tour Summons Entrapment / 巡游会侯式诱捕](concepts/RitualTourSummonsEntrapment.md) — Chen Ping's Hanji 172 tactic of using an imperial tour and vassal gathering as the low-force arrest mechanism against Han Xin.
 - [Different-Surname King Suspicion / 异姓诸侯王猜忌](concepts/DifferentSurnameKingSuspicion.md) — Early Han pattern where wartime regional kings become peacetime threats after unification, turning mistrust into replacement, containment, and fear rebellion.
 - [Transcendent Exit Political Camouflage / 假托神仙式权力退场](concepts/TranscendentExitPoliticalCamouflage.md) — Hanji 171 pattern where Zhang Liang uses immortal and Daoist withdrawal language to make post-founding exit from power respectable and non-threatening.

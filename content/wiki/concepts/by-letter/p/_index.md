@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5134
+wiki_total_pages: 5135
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "PublicCryptoInvestmentRisk"
     title: "Public Crypto Investment Risk"
     url: "/wiki/concepts/publiccryptoinvestmentrisk/"
+  - key: "PublicDisavowalSelfProtection"
+    title: "Public Disavowal Self-Protection / 公开切割式自保"
+    url: "/wiki/concepts/publicdisavowalselfprotection/"
   - key: "PublicDomainReuse"
     title: "Public Domain Reuse"
     url: "/wiki/concepts/publicdomainreuse/"

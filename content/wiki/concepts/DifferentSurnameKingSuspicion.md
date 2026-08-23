@@ -2,7 +2,7 @@
 title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
 type: concept
 tags: [statecraft, early-han, vassal-kings, suspicion]
-sources: [zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+sources: [zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
 last_updated: 2026-08-23
 ---
 
@@ -18,8 +18,11 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 
 [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] supplies the next step: suspicion does not become open war because Han Xin is too strong to attack cheaply. [[ChenPing|陈平]] instead turns the vassal king's duty to appear before the emperor into [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], letting [[LiuBang|刘邦]] remove Han Xin's kingship after the [[ZhongliMo|钟离眜]] crisis without first fighting Chu.
 
+[[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] marks a boundary of the concept: removing different-surname kingship does not necessarily remove the suspicious residue. Han Xin is now only Huaiyin marquis, but his possible association with [[FanKuai|樊哙]] still matters because Fan Kuai carries old-follower, military, and [[LuZhi|吕雉]]-linked weight. The episode therefore extends the suspicion pattern from formal title and territory into post-demotion relationship management.
+
 ## Key Claims
 - Hanji 172 adds that different-surname king suspicion may be handled through protocol and summons, not only through immediate military suppression.
+- Hanji 173 adds that kingship removal may not end suspicion; the downgraded actor's visible associations can still be read as latent coalition risk.
 - Wartime delegation can turn into peacetime suspicion after the common enemy disappears.
 - A different-surname king is dangerous not only because he may rebel, but because he controls a named territory, local relationships, and a remembered military contribution outside direct palace control.
 - Replacing a king with a trusted intimate may improve local security while worsening system-wide trust.
@@ -28,6 +31,7 @@ The third case is [[HanXin|韩信]] and [[ZhongliMo|钟离眜]]. Han Xin's Chu k
 
 ## Connections
 - [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[ChenCountyChuHan|陈县]], [[Yunmengze|云梦泽]], [[HanXin|韩信]], and [[ZhongliMo|钟离眜]] - non-battle removal of a different-surname king after the rebellion report.
+- [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[FanKuai|樊哙]], [[LuZhi|吕雉]], [[VeteranMeritCliqueSupervision|功臣旧将监督]], and [[PublicDisavowalSelfProtection|公开切割式自保]] - suspicion persisting after demotion through risky association.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] - source page.
 - [[LiuBang|刘邦]], [[ZangTu|臧荼]], [[LuWan|卢绾]], [[LiJiChuHan|利几]], [[HanXin|韩信]], and [[ZhongliMo|钟离眜]] - main actors in the episode's suspicion chain.
 - [[YanState|燕国]], [[Xiongnu|匈奴]], and [[DaiState|代国]] - northern security geography around the Yan replacement.

@@ -2,8 +2,8 @@
 title: "樊哙 / Fan Kuai"
 type: entity
 tags: [chinese-history, power, rhetoric]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+last_updated: 2026-08-23
 ---
 
 # 樊哙 / Fan Kuai
@@ -30,7 +30,10 @@ The source's main move is to read Fan Kuai's speech as likely shaped by [[ZhangL
 
 The episode uses Fan Kuai's survival to define [[TacticalDelayRiskTransfer|延时转责式政治化解]]. Fan Kuai matters here less as the bold Hongmen protector than as the life-or-death object of an order whose timing changes after Liu Bang dies.
 
+[[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] returns Fan Kuai to the early Western Han court as the object of [[HanXin|韩信]]'s famous "耻与哙伍" insult. The source first restores Fan Kuai's weight: he is a Pei/Feng old follower of [[LiuBang|刘邦]], a Hongmen protector, a marquis, and tied to [[LuZhi|吕雉]] through marriage. It then offers a political reading of Han Xin's contempt. Because a close Han Xin-Fan Kuai relationship could look like a dangerous blend of strategy, military prestige, old-follower legitimacy, and Lu-family access, Han Xin's public insult may function as [[PublicDisavowalSelfProtection|公开切割式自保]] rather than only personal arrogance.
+
 ## Connections
+- [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[HanXin|韩信]], [[PublicDisavowalSelfProtection|公开切割式自保]], [[PowerExitTrap|权力退场困境]], and [[VeteranMeritCliqueSupervision|功臣旧将监督]] - "耻与哙伍" as both insult and possible public distancing from a dangerous veteran node.
 - [[HongmenYan|《鸿门宴》]] - source scene.
 - [[ZhangLiang|张良]] - strategic interpreter behind the speech in the episode's reading.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[FanZeng|范增]] - power field.

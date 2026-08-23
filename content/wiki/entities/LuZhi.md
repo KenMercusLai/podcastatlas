@@ -2,7 +2,7 @@
 title: "吕雉 / Lu Zhi"
 type: entity
 tags: [person, qin-han, family, western-han]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+sources: [zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
 last_updated: 2026-08-23
 ---
 
@@ -26,6 +26,8 @@ The same episode then treats Chen Ping's apparent cooperation under Lu Zhi as co
 
 [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] moves Lu Zhi from recovered hostage into founding empress. After [[LiuBang|刘邦]] becomes emperor, the episode says Lu Zhi is made empress while [[LiuYing|刘盈]] is made crown prince, turning the family line into part of the first [[WesternHanDynasty|西汉]] order.
 
+[[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] uses Lu Zhi indirectly in the [[HanXin|韩信]]-[[FanKuai|樊哙]] scene. Because Fan Kuai is married into the Lu family through Lu Xu, the host reads any visible closeness between Han Xin and Fan Kuai as more dangerous: it could look like Han Xin's military prestige joining Fan Kuai's old-follower legitimacy and Lu-family channel.
+
 ## Connections
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], and [[WesternHanDynasty|西汉]] - founding empress title and succession arrangement.
 - [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[LiuTaigong|刘太公]], [[HouGongChuHan|侯公]], [[HonggouSettlement|鸿沟议和]], and [[InstrumentalTruceBreach|工具化议和毁约]] - release from Chu captivity and hostage-first negotiation reading.
@@ -35,6 +37,7 @@ The same episode then treats Chen Ping's apparent cooperation under Lu Zhi as co
 - [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[ShenYiji|审食其]], [[XiahouYing|夏侯婴]], [[LiuYing|刘盈]], and [[LuYuanPrincess|鲁元公主]] - family capture and later gratitude for the children's rescue.
 - [[ChenPing|陈平]], [[ZhouBo|周勃]], [[WangLingHanMinister|王陵]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - Hanji 150 part 3 regency-period contrast between open opposition and tactical ambiguity.
 - [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[FanKuai|樊哙]], and [[TacticalDelayRiskTransfer|延时转责式政治化解]] - post-Liu Bang information management and Chen Ping's survival under Lu Zhi.
+- [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[HanXin|韩信]], [[FanKuai|樊哙]], and [[PublicDisavowalSelfProtection|公开切割式自保]] - Lu-family tie that makes a Han Xin-Fan Kuai relationship politically legible as faction risk.
 - [[FanKuai|樊哙]] - later in-law link through Lu Xu.
 - [[PeiCounty|沛县]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - local network setting.
 - [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Lu Gong's basis for the marriage decision in this episode.
