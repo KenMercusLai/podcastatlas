@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 6834
+wiki_total_pages: 6838
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "HongmenYan"
     title: "《鸿门宴》"
     url: "/wiki/entities/hongmenyan/"
+  - key: "HeirloomImperialSeal"
+    title: "传国玉玺 / Heirloom Imperial Seal"
+    url: "/wiki/entities/heirloomimperialseal/"
   - key: "HeQianran"
     title: "何倩然 / He Qianran"
     url: "/wiki/entities/heqianran/"

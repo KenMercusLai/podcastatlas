@@ -2,13 +2,15 @@
 title: "Chenwei Politics / 谶纬政治"
 type: concept
 tags: [history, politics, china, religion]
-sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+last_updated: 2026-08-23
 ---
 
 # Chenwei Politics / 谶纬政治
 
 Chenwei politics / 谶纬政治 is the use of prophetic, omen, and apocryphal interpretation as political evidence. In [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]], [[WangMang|王莽]] rises in a world where strange signs, prophetic texts, and claims of cosmic approval can shift what officials treat as legitimate.
+
+[[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds a late-Han claimant use through [[YuanShu|袁术]]. Yuan Shu interprets "代汉者当涂高" through his own name and courtesy name, turning prophecy into self-flattering authorization; the episode then tests that claim against [[YanXiangLateHan|阎象]]'s and [[ZhangChengLateHan|张承]]'s resistance.
 
 The episode's key point is that Wang Mang did not invent this language by himself. [[DongZhongshu|董仲舒]] and broader [[WesternHanDynasty|Western Han]] sacred politics help explain why [[MandateOfHeavenLegitimacy|天命]], [[AuspiciousOmenPolitics|祥瑞]], and prophecy mattered inside practical court politics.
 
@@ -22,6 +24,7 @@ The episode's key point is that Wang Mang did not invent this language by himsel
 
 ## Key Claims
 - Prophecy and omen interpretation can function as political technology.
+- Hanji 1001 adds that a claimant can bend a vague prophecy toward himself, but the resulting argument still depends on whether advisers and political society accept it.
 - The danger grows when many actors can manufacture or interpret signs.
 - The source contrasts Wang Mang's exploitation of prophecy with [[LiuXiu|刘秀]]'s later effort to recentralize interpretation.
 - Episode 87 emphasizes that chenwei sits inside a larger field of star omens, auspicious signs, and ritual techniques.
@@ -32,6 +35,7 @@ The episode's key point is that Wang Mang did not invent this language by himsel
 
 ## Connections
 - [[WangMang]], [[DongZhongshu]], [[LiuXiu]], and [[XiangruiBook|《祥瑞》]] - source context.
+- [[YuanShu|袁术]], [[YanXiangLateHan|阎象]], [[ZhangChengLateHan|张承]], [[HeirloomImperialSeal|传国玉玺]], and [[MingqiLegitimacy|名器合法性]] - late-Han self-authorization and adviser-resistance branch.
 - [[MandateOfHeavenLegitimacy]], [[AuspiciousOmenPolitics]], and [[DynasticLegitimacyBackfire]] - conceptual cluster.
 - [[ChineseAstrologicalPolitics]], [[FangshuSystematization]], and [[ChineseFolkReligionLayering]] - adjacent wiki branch on religious layers and sign systems in Chinese historical imagination.
 - [[LaterZhou|后周]], [[ZhangYongde|张永德]], [[ZhaoKuangyin|赵匡胤 / 宋太祖]], and [[ChenQiaoMutiny|陈桥兵变]] - Song founding extension.

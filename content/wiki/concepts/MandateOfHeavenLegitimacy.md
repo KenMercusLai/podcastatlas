@@ -2,7 +2,7 @@
 title: "Mandate of Heaven Legitimacy / 天命合法性"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-23
 ---
 # Mandate of Heaven Legitimacy / 天命合法性
@@ -10,6 +10,8 @@ last_updated: 2026-08-23
 Mandate of Heaven legitimacy / 天命合法性 is the source's frame for how the [[WesternHanDynasty|Western Han dynasty]] sacralized rule. In [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]], stories around [[LiuBang|刘邦]] make the Liu house seem chosen by Heaven, while disasters, childless emperors, and omen culture later make that same claim unstable.
 
 The concept is important because it separates sacred legitimacy from simple propaganda. The episode presents the mandate as a working political language believed, managed, exploited, and feared by rulers, officials, and later challengers such as [[WangMang|王莽]].
+
+[[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds a failed-claimant mandate use. [[YuanShu|袁术]] tries to combine prophecy, [[YinYangFivePhasesPoliticalTheory|five-phases]] transfer logic, and the [[HeirloomImperialSeal|传国玉玺]], but [[YanXiangLateHan|阎象]] and [[ZhangChengLateHan|张承]] test the claim against virtue, title-rightness, and people-support rather than treating heavenly language as self-validating.
 
 [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a Mencian version through [[MencianPeopleBasedLegitimacy]]. In that source, Heaven is not primarily read through omens or dynastic signs but through the people's seeing and hearing, making popular response a test of whether rule is legitimate.
 
@@ -36,6 +38,7 @@ The concept is important because it separates sacred legitimacy from simple prop
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
+- Hanji 1001 adds that a claimant's heavenly-sign argument can fail when advisers reject the claim's virtue, title, and people-support foundations.
 - Omen interpretation gives political actors a way to argue that legitimacy has shifted.
 - In the source, mandate politics is inseparable from [[ChenweiPolitics]], [[AuspiciousOmenPolitics]], and [[DynasticLegitimacyBackfire]].
 - The Mencius source emphasizes a people-facing version of Heaven's will rather than an omen-centered imperial version.
@@ -51,6 +54,7 @@ The concept is important because it separates sacred legitimacy from simple prop
 - Hanji 169 adds a critical use: invoking Heaven can become a failed ruler's excuse unless it is tested against people's support, counsel, and political integration.
 
 ## Connections
+- [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]], [[YuanShu|袁术]], [[YanXiangLateHan|阎象]], [[ZhangChengLateHan|张承]], and [[HeirloomImperialSeal|传国玉玺]] - failed late-Han claimant use of prophecy, five-phases transfer, and imperial symbol.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[XiangYu|项羽]], [[YangXiong|扬雄]], [[LiuBang|刘邦]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - critique of fatalistic Heaven language after Xiang Yu's defeat.
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
 - [[DongZhongshu]] - intellectual background in the episode.

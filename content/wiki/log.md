@@ -10126,6 +10126,10 @@ Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？
+
+Added source page for Hanji 1001: Yuan Shu's prophecy-, five-phases-, and Heirloom Imperial Seal-backed imperial ambition, the generals' silence, Yan Xiang's Zhou Wenwang remonstrance, Zhang Fan's refusal, and Zhang Cheng's "in virtue, not strength" warning against provoking public anger. Created Yan Xiang (late Han), Zhang Fan (late Han), Zhang Cheng (late Han), and Heirloom Imperial Seal; updated overview, index, Yuan Shu, Emperor Xian of Han, Sun Jian (late Han), Mingqi Legitimacy, Title-Reality Restraint, Anti-Usurpation Coalition Pressure, Yin-Yang Five-Phases Political Theory, Chenwei Politics, Mandate of Heaven Legitimacy, and People-Based Political Security. No settled contradiction found; kept omen, five-phases, and seal claims as Yuan Shu's source-scoped self-authorization rather than accepted mandate evidence.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭
 
 Added source page for Hanji 1003: Dong Zhao's early help for Cao Cao through Zhang Yang's Henei route, his letter to Yang Feng that combines praise, grain, troops, and court legitimacy, and Dong Cheng's appeal against Han Xian as Cao Cao's Luoyang entry pretext. Created Zhang Yang (late Han), Dong Cheng (late Han), and Proactive Adviser Initiative; updated overview, index, Dong Zhao, Yang Feng, Han Xian, Luoyang, Xudu, Emperor Xian of Han, Cao Cao, Interest Reframing Persuasion, Strategic Recognition Alignment, and Xingshiqing Strategic Assessment. No settled contradiction found; Zhang Yang's mixed role is kept as source-scoped late-Han alignment change.
@@ -10682,5 +10686,9 @@ Ran lint. See lint-report.md for details.
 Added source page for Hanji 1002: Yuan Shu's impending imperial claim, Sun Ce's warning-and-break, and Xun Yu's advice that Cao Cao should welcome Emperor Xian before another actor captures the legitimacy window. Created Legitimacy Window Seizure; updated overview, index, Sun Ce, Yuan Shu, Cao Cao, Emperor Xian of Han, Xun Yu, Anti-Usurpation Coalition Pressure, Mingqi Legitimacy, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; preserved the source title's "最大赢" wording as given.
 
 ## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

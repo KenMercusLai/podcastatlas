@@ -2,8 +2,8 @@
 title: "Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论"
 type: concept
 tags: [cosmology, politics, china, legitimacy, fangshu]
-sources: [zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-23
 ---
 
 # Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论
@@ -16,6 +16,8 @@ The concept is anchored by [[ZouYan|邹衍]]. The episode presents him as a key 
 
 [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]] adds the post-unification Qin implementation. The episode says [[ZouYan|邹衍]]'s five-virtue cycle becomes a ready political language for [[QinShiHuang|嬴政 / 秦始皇]] after conquest: Zhou can be labeled fire virtue, Qin can claim water virtue, and that claim then organizes black color, October as year-start, number six, 德水 naming, and a law-and-punishment governing style.
 
+[[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds a late-Han opportunistic use. [[YuanShu|袁术]] links the Yuan lineage to Chen and Shun's earth virtue, reads Han as fire, and uses earth-over-fire reasoning as one layer of self-authorization. The source treats this as claimant logic, not as accepted legitimacy by itself.
+
 [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] adds a broader cosmological built-space branch through [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]]. This branch is not specifically a five-phases argument; it shows the same family of heaven-and-rule thinking entering [[QinJimiao|极庙]], inferred [[Taiyi|太一]] worship, and the Wei River/Milky Way analogy around [[Xianyang|咸阳]].
 
 ## Key Claims
@@ -25,6 +27,7 @@ The concept is anchored by [[ZouYan|邹衍]]. The episode presents him as a key 
 - Later fangshu gains authority by borrowing this explanatory grammar.
 - Number symbolism can strengthen political persuasion even when the speaker is also making a practical diplomatic appeal.
 - Qinji 120-2 shows the theory becoming a full imperial design package: color, calendar, number, river naming, and legal style all become water-virtue expressions.
+- Hanji 1001 shows five-phases reasoning reused by a late-Han claimant as self-authorization, while the source keeps that claim subject to virtue, title, and support tests.
 - Qinji 121 should be kept adjacent but distinct: cosmic capital planning uses heaven-centered symbolism without being reducible to the five-virtue water-phase package.
 
 ## Connections
@@ -33,6 +36,7 @@ The concept is anchored by [[ZouYan|邹衍]]. The episode presents him as a key 
 - [[QinShiHuang|秦始皇]] - water-phase political example in the source.
 - [[DongZhongshu|董仲舒]] - later Han Confucian-omen fusion.
 - [[MandateOfHeavenLegitimacy]], [[AuspiciousOmenPolitics]], and [[ChenweiPolitics]] - political-theology extensions.
+- [[YuanShu|袁术]], [[HeirloomImperialSeal|传国玉玺]], [[MingqiLegitimacy|名器合法性]], and [[TitleRealityRestraint|名实相符式名号节制]] - late-Han claimant use of five-phases logic as one part of an unsupported imperial argument.
 - [[FangshuSystematization]] and [[DaoistAlchemy]] - later system-building branches.
 - [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], [[QinState|秦国]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 prophecy-and-diplomacy extension.
 - [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]], [[ImperialSymbolicStandardization|帝国符号标准化]], [[PosthumousNamePolitics|谥号政治]], and [[LegalistRulerTechnique|法家君术]] - Qin imperial application after unification.

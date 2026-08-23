@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-23
-as_of_overview_commit: 35610ae9e4403f5b7fe6a013ac858cd8369dece2
+as_of_overview_commit: bc9f9cded366b43769980dea9ca648a209e17b72
 summary: "The wiki maps how durable value emerges when capability is tied to context, evidence, institutions, distribution, legitimacy, and accountable judgment."
-episode_count: 1329
-source_count: 1329
-paragraph_count: 140
+episode_count: 1330
+source_count: 1330
+paragraph_count: 141
 topic_count: 8
 ---
 
@@ -49,14 +49,14 @@ Literature, folklore, games, and media forms function as experiments in politics
 
 ### Governance and Institutions
 
-Governance converts force, markets, symbols, trust, and rules into institutions, while exposing the costs of brittle control, weak legitimacy, and unmanaged exits.
+Governance converts force, markets, symbols, trust, and rules into institutions. Hanji 1001 sharpens the title-legitimacy test by showing Yuan Shu's omens, seal, and force failing before adviser virtue and people-support checks.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-Historical power shifts through staged condition-reading: late-Han actors manage legitimacy, routes, relocation, alliances, and fragile local order, while broader state power depends on enforceable systems and political acceptance.
+Historical power shifts through condition-reading: late-Han actors manage legitimacy, routes, relocation, alliances, and fragile local order, while state power needs enforceable systems and political acceptance.
 
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 - [[MobileInternetPrehistory]], [[Android]], and [[ChinaHandsetSupplyChain]] show that device leadership can shift when standards, operating systems, channels, and manufacturing ecosystems change together. Evidence: [[MobileInternetPrehistory]], [[Android]], [[ChinaHandsetSupplyChain]], [[GSMStandardization]], [[Symbian]], [[TurnkeyHandsetSolutions]].
@@ -76,7 +76,7 @@ Scientific and climate claims become credible when evidence, expert judgment, ph
 
 ### Work, Education, and Society
 
-Work and education sources favor agency with scaffolding: AI and other tools help only when paired with goals, evidence, context, verification, and career-preserving learning systems.
+Work and education sources favor agency with scaffolding: tools help only when paired with goals, evidence, context, verification, and career-preserving learning systems.
 
 - [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], and [[EntryLevelAICareerLadderRisk]] show that faster generation shifts work toward requirements, review, accountability, evidence, pacing, and career-ladder design. Evidence: [[HumanJudgmentUnderAI]], [[AICodingVerification]], [[AIEngineeringThinking]], [[FrontlineAIEnablement]], [[AIUsePacing]], [[DeepSeek]], [[EntryLevelAICareerLadderRisk]].
 - [[SelfDirectedLearning]] and [[LearningExperienceDesign]] can lower learning barriers, but [[AIShortcutRisk]] appears when correct answers replace the effort that builds understanding. Evidence: [[SelfDirectedLearning]], [[LearningExperienceDesign]], [[AIShortcutRisk]].

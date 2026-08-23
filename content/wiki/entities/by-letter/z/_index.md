@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6834
+wiki_total_pages: 6838
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "ZhangZhihao"
     title: "张志浩"
     url: "/wiki/entities/zhangzhihao/"
+  - key: "ZhangChengLateHan"
+    title: "张承 / Zhang Cheng (late Han)"
+    url: "/wiki/entities/zhangchenglatehan/"
   - key: "ZhangAo"
     title: "张敖 / Zhang Ao"
     url: "/wiki/entities/zhangao/"
@@ -539,6 +542,9 @@ wiki_pages:
   - key: "ZhangZhiqi"
     title: "张芝琪 / Zhang Zhiqi"
     url: "/wiki/entities/zhangzhiqi/"
+  - key: "ZhangFanLateHan"
+    title: "张范 / Zhang Fan (late Han)"
+    url: "/wiki/entities/zhangfanlatehan/"
   - key: "ZhangFu"
     title: "张负 / Zhang Fu"
     url: "/wiki/entities/zhangfu/"

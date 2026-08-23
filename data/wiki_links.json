@@ -19319,6 +19319,10 @@
     "title": "Heirloom Carbon Technologies",
     "url": "/wiki/entities/heirloomcarbontechnologies/"
   },
+  "HeirloomImperialSeal": {
+    "title": "传国玉玺 / Heirloom Imperial Seal",
+    "url": "/wiki/entities/heirloomimperialseal/"
+  },
   "HelenOfTroy": {
     "title": "Helen of Troy",
     "url": "/wiki/entities/helenoftroy/"
@@ -47107,6 +47111,10 @@
     "title": "燕僖公 / Duke Xi of Yan",
     "url": "/wiki/entities/yanxigong/"
   },
+  "YanXiangLateHan": {
+    "title": "阎象 / Yan Xiang (late Han)",
+    "url": "/wiki/entities/yanxianglatehan/"
+  },
   "YanYing": {
     "title": "晏婴 / Yan Ying",
     "url": "/wiki/entities/yanying/"
@@ -48071,6 +48079,10 @@
     "title": "张伯后 / Jerry",
     "url": "/wiki/entities/zhangbohoujerry/"
   },
+  "ZhangChengLateHan": {
+    "title": "张承 / Zhang Cheng (late Han)",
+    "url": "/wiki/entities/zhangchenglatehan/"
+  },
   "ZhangChou": {
     "title": "张丑 / Zhang Chou",
     "url": "/wiki/entities/zhangchou/"
@@ -48094,6 +48106,10 @@
   "ZhangEr": {
     "title": "张耳 / Zhang Er",
     "url": "/wiki/entities/zhanger/"
+  },
+  "ZhangFanLateHan": {
+    "title": "张范 / Zhang Fan (late Han)",
+    "url": "/wiki/entities/zhangfanlatehan/"
   },
   "ZhangFei": {
     "title": "张飞 / Zhang Fei",
@@ -52086,6 +52102,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke": {
+    "title": "《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke/"
   },
   "zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo": {
     "title": "《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢",

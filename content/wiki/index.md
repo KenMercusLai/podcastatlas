@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？](sources/zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's omen-, five-phases-, and seal-backed imperial ambition before Yan Xiang and Zhang Cheng warn that rule rests on virtue, accepted title order, and people-support.
 - [《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢](sources/zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo.md) — 芮淇讲透资治通鉴 episode on Yuan Shu's impending imperial claim, Sun Ce's warning-and-break, and Xun Yu's legitimacy-window advice for Cao Cao to welcome Emperor Xian.
 - [《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭](sources/zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1.md) — 芮淇讲透资治通鉴 episode on Dong Zhao clearing Cao Cao's path to Luoyang by persuading Yang Feng, plus Dong Cheng's appeal against Han Xian as Cao Cao's entry pretext.
 - [《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？](sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94.md) — 芮淇讲透资治通鉴 episode on Dong Zhao's advice to move Emperor Xian from ruined Luoyang to Xu, plus Sun Jing's rear-attack plan that lets Sun Ce defeat Wang Lang in Kuaiji.
@@ -1337,6 +1338,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [阎象 / Yan Xiang (late Han)](entities/YanXiangLateHan.md) — Yuan Shu's chief clerk whose Zhou Wenwang comparison warns that family prestige and Han weakness do not justify an imperial claim.
+- [张范 / Zhang Fan (late Han)](entities/ZhangFanLateHan.md) — Recluse who refuses Yuan Shu's recruitment and sends Zhang Cheng instead, withholding symbolic endorsement from the title project.
+- [张承 / Zhang Cheng (late Han)](entities/ZhangChengLateHan.md) — Zhang Fan's younger brother whose "in virtue, not strength" remonstrance rejects Yuan Shu's force-based imperial reasoning.
+- [传国玉玺 / Heirloom Imperial Seal](entities/HeirloomImperialSeal.md) — Imperial object Yuan Shu forces from Sun Jian's household and treats as title support, while the source keeps it insufficient without accepted legitimacy.
 - [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 1003-1004 branch clears Yang Feng from Cao Cao's Luoyang path and then turns Emperor Xian's relocation into a supply-grounded move from Luoyang to Xu.
 - [张杨 / Zhang Yang (late Han)](entities/ZhangYangLateHan.md) — Henei patron whose initial refusal is overcome by Dong Zhao, opening Cao Cao's early court-contact route.
 - [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor whose appeal against Han Xian gives Cao Cao an overt reason to enter Luoyang after initially blocking Cao Hong.
@@ -1408,7 +1413,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from Hanji 1008's辕门射戟 mediation into the Hanji 1009 attack on Liu Bei, marriage-alliance reversal, "轻于去就", tactical coalition-breaking, unstable trust, and ignored loyal advice.
 - [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose disciplined 陷阵营 and ignored warning sharpen the Hanji 1018 personnel-judgment failure.
 - [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun through troop transfer, command dependence, and later betrayal risk.
-- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose unsupported imperial ambition costs Sun Ce, invites anti-usurpation pressure, fails through marriage/coalition/predation branches, and shows misread momentum, broken trust, and talent loss.
+- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose omen-, five-phases-, and seal-backed imperial ambition is rejected by internal remonstrance, costs Sun Ce, invites anti-usurpation pressure, and collapses through marriage/coalition/predation failures.
 - [何夔 / He Kui](entities/HeKui.md) — Late-Han official whose refusal of Yuan Shu and answer to Cao Cao diagnose Yuan Shu's political failure.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.
 - [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose Yuan Shu marriage tie leads to a politically risky arrest and release under Cao Cao.
@@ -8193,8 +8198,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
 - [Crisis-First Military Discipline / 临危先务军纪](concepts/CrisisFirstMilitaryDiscipline.md) — Hanji 1014 Yu Jin pattern: public order and camp security before personal vindication in retreat.
 - [分香卖履 / Fenxiang Mailu](concepts/FenxiangMailu.md) — Hanji 1014 Cao Cao deathbed household-settlement frame around incense, livelihood, and non-sacrificial family duty.
-- [Anti-Usurpation Coalition Pressure / 讨逆同盟压力](concepts/AntiUsurpationCoalitionPressure.md) — Hanji 1002/1015 pattern where Yuan Shu's imperial claim first costs ally support and then forces rivals to oppose him because non-response would look like recognition.
-- [Mingqi Legitimacy / 名器合法性](concepts/MingqiLegitimacy.md) — Hanji 1016 title-and-symbol legitimacy frame where unsupported imperial names, official appointments, and refusal of office alter political risk.
+- [Anti-Usurpation Coalition Pressure / 讨逆同盟压力](concepts/AntiUsurpationCoalitionPressure.md) — Hanji 1001/1002/1015 pattern where Yuan Shu's imperial claim first fails internal support, then costs ally support, then forces rivals to oppose him because non-response would look like recognition.
+- [Mingqi Legitimacy / 名器合法性](concepts/MingqiLegitimacy.md) — Late-Han title-and-symbol legitimacy frame where prophecies, seals, imperial names, official appointments, and refusal of office alter political risk.
 - [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Hanji 1016 pattern where a marriage alliance would move Yuan Shu's war and legitimacy costs onto Lü Bu and Xuzhou.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
 - [饥附饱扬 / Ji Fu Bao Yang](concepts/JiFuBaoYang.md) — Hanji 1018 dependency pattern where a dangerous actor attaches while needy and leaves once secure.
@@ -8603,7 +8608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阴谋阳谋转换 / Yinmou-Yangmou Conversion](concepts/YinmouYangmouConversion.md) — Zhang Yi's tactic of revealing a hidden plan so the disclosure itself changes Qi's incentives.
 - [Warring States Careerist Mobility / 乱世职业经理人式流动](concepts/WarringStatesCareeristMobility.md) — Frame for reading persuaders and ministers as mobile political professionals pursuing office, survival, and功名 across courts.
 - [Strategic Luxury Sabotage / 奢侈诱导式削弱](concepts/StrategicLuxurySabotage.md) — Su Qin's Qi-court tactic of encouraging palace and garden expansion to drain Qi resources for Yan's benefit.
-- [Title-Reality Restraint / 名实相符式名号节制](concepts/TitleRealityRestraint.md) — Zhao Wuling Wang's refusal of royal title because the name of kingship should match real kingly substance.
+- [Title-Reality Restraint / 名实相符式名号节制](concepts/TitleRealityRestraint.md) — Principle that political names should match real substance, from Zhao Wuling Wang's title refusal to Yuan Shu's failed seal- and force-backed imperial reasoning.
 - [No Small Matters in Governance / 治无小乱无大](concepts/NoSmallMattersInGovernance.md) — Wey Sijun's strict-law principle that a small enforcement failure can become a ruler-level threat to order.
 - [Weak-State Status Demotion / 弱国名分降格](concepts/WeakStateStatusDemotion.md) — Pattern where weaker states lose title weight while stronger Warring States powers claim higher status.
 - [Qin Frontier Buffer Management / 秦国后方边患管理](concepts/QinFrontierBufferManagement.md) — Qin pattern of managing Yiqu as a rear-frontier constraint while maintaining eastward pressure.
@@ -8629,7 +8634,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Low-Posture Statecraft / 低姿态权宜](concepts/LowPostureStatecraft.md) — Strategy of deliberate deference or displayed insufficiency, useful as expedient but risky as permanent survival doctrine.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
 - [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
-- [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Zhao Liang's warning that popular regard and elite acceptance can become practical safety infrastructure for powerful ministers.
+- [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Pattern where popular regard, local protection, elite acceptance, and internal adviser support become practical safety infrastructure for powerful actors.
 - [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, exposed humiliations, decisive military merit, or late recognition of missed exits make staying, leaving, or appearing fully capable dangerous.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
@@ -10094,7 +10099,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oracle-Bone Divination / 甲骨占卜](concepts/OracleBoneDivination.md) — Shang ritual and archival practice where burned-shell cracks and inscriptions record questions, diviners, outcomes, and state concerns.
 - [Zhouyi Divination / 《周易》占卜](concepts/ZhouyiDivination.md) — Yarrow-stalk and hexagram procedure where arithmetic arrangement, ritual authority, and interpretation become a durable divination system.
 - [Ancient Chinese Soul Summoning / 招魂](concepts/AncientChineseSoulSummoning.md) — Chu-centered soul ritual frame for illness, fainting, death anxiety, and body-soul explanations.
-- [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, and dynastic legitimacy.
+- [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, dynastic legitimacy, and claimant self-authorization.
 - [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial death anxiety turns immortal belief into expenditure, patronage, secrecy, and coercion.
 - [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, and failure reinterpretation can become predatory extraction.
 - [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Western Han curse-accusation pattern where illness, denunciation, torture, palace rivalry, and succession fear produce mass violence.
@@ -10966,9 +10971,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Public Rebuttal / 皇帝公开辩驳](concepts/ImperialPublicRebuttal.md) — Yongzheng's strategy of personally answering anti-Qing accusations and turning rebuttal into public state pedagogy.
 - [满汉合法性政治 / Han-Manchu Legitimacy Politics](concepts/HanManchuLegitimacyPolitics.md) — Episode 11 frame for how Hua-Yi arguments and Han loyalist symbolism made a weak conspiracy politically serious.
 - [Political Propaganda Backfire / 政治宣传反噬](concepts/PoliticalPropagandaBackfire.md) — Mechanism where official refutation or suppression preserves the rumor, scandal, or accusation it tries to defeat.
-- [Mandate of Heaven Legitimacy / 天命合法性](concepts/MandateOfHeavenLegitimacy.md) — Sacred legitimacy frame where Han rule is grounded in Heaven but becomes vulnerable when Heaven can be imagined as shifting.
+- [Mandate of Heaven Legitimacy / 天命合法性](concepts/MandateOfHeavenLegitimacy.md) — Sacred legitimacy frame where heavenly signs, people-support, ritual recognition, and claimant self-authorization are tested as grounds for rule.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
-- [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang's rise and later recentralized by Liu Xiu.
+- [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang, Liu Xiu, Yuan Shu, and other sign-politics cases.
 - [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of auspicious signs, petitions, ritual projects, and omen reports to make power transfer appear Heaven-approved.
 - [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, public sympathy, self-restraint, or filial image become usable power or remembered legitimacy.
 - [Confucian Ideal Governance / 儒家理想治理](concepts/ConfucianIdealGovernance.md) — Episode 126's frame for moralized rule through ritual, hierarchy, ancient models, and scholar support.
