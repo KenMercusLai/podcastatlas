@@ -4,27 +4,38 @@ generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
 last_updated: 2026-08-24
-as_of_overview_commit: f7d5cc4e3e9a90659fb777d6f713434495501edf
-input_digest: 926b45dc512944ebe4568fb34b41400c90e8ea4626d6c62963aa64cea258065c
+as_of_overview_commit: 5ce87075daaa979a08f07293ccefb9254b93de9d
+input_digest: 2752a6cd649d782113032ea0a2e07c102bfe48f71845294544974335916c6e1f
 ---
 
 # Business and Markets
 
 ## Current State
 
-The business and market sources repeatedly separate attention from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, and disciplined risk management determine whether an attractive idea survives contact with real markets. Episode 145 adds a restaurant-control and fragrance-supply-chain qualification: consumer recognition may survive while decision rights move local, but demand-side heat is not the same as upstream control. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.
+The business and market sources repeatedly separate attention from durable value: customer pull, payment proof, distribution, operating capacity, local decision rights, trust, supply-chain leverage, verification, and disciplined risk management determine whether an attractive idea survives contact with real markets. Sell Me a Sasquatch adds a mass-retail version of that pattern: a playable economics game still needed line-review approval, audience proof, planogram and shelf confidence, a $19.99 price frame, licensed-risk allocation, packaging decisions, and factory deadlines before it could appear at Target and Walmart. The AI, SaaS, CPG, restaurant, finance, creator, sports, banking, insurance, prediction-market, and governance sources all preserve the same distinction between capability or attention and the systems that make value repeatable. Hanji 1009 remains a source-scoped political analogy in which Cao Cao's reputation for protecting a surrendered rival preserves future access to talent.
 
 ## Cross-source Findings
 
 ### Demand Needs Distribution And Payment Proof
 
-[[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution systems such as [[CPGDistribution]] can repeatedly deliver the product.
+[[CustomerPull]] and [[ProductLedWillingnessToPay]] become durable only when distribution and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], and [[MassRetailProductionDeadline]] can repeatedly deliver the product.
 
-**Evidence:** [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]]
+**Evidence:** [[CustomerPull]], [[ProductLedWillingnessToPay]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]]
 
 **Qualifications:**
 
-- The exact proof differs across software, consumer goods, regulated products, restaurants, finance, and AI services.
+- The exact proof differs across software, consumer goods, regulated products, restaurants, finance, AI services, and games.
+- The big-box buyer in the Sell Me a Sasquatch line-review room remains unnamed in the source, so the retailer identity should stay source-scoped.
+
+### Capability Needs Operational Translation
+
+Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], and [[CausalWorldModels]] all make capability depend on workflow fit, verification, interfaces, experiments, or repeated use.
+
+**Evidence:** [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]]
+
+**Qualifications:**
+
+- This is a cross-industry synthesis rather than a claim that the same operating playbook works in every domain.
 
 ### Local Control Tests Consumer Brand Moats
 
@@ -38,9 +49,9 @@ The business and market sources repeatedly separate attention from durable value
 
 ### Trust Is An Operating Asset
 
-A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the trust survives only when operating pace and delivery remain credible.
+A [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], or [[TrustAsBusinessAsset]] can support adoption, but the trust survives only when operating pace and delivery remain credible.
 
-**Evidence:** [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], [[SustainableGrowthPace]]
+**Evidence:** [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], [[TrustAsBusinessAsset]], [[SustainableGrowthPace]]
 
 **Qualifications:**
 
@@ -48,9 +59,9 @@ A [[SaaSTrustMoat]] or [[PurposeDrivenBusiness]] can support adoption, but the t
 
 ### Risk Discipline Matters More Than Single Forecast
 
-[[InvestmentRiskManagement]] and [[StopLossDiscipline]] treat uncertainty, position exposure, and exit rules as more reliable controls than confidence in one forecast.
+[[InvestmentRiskManagement]], [[StopLossDiscipline]], [[FinancialStatementAnalysis]], [[CurrencyRisk]], and [[IndexReentryDiscipline]] treat uncertainty, position exposure, company quality, access routes, and exit rules as more reliable controls than confidence in one forecast.
 
-**Evidence:** [[InvestmentRiskManagement]], [[StopLossDiscipline]]
+**Evidence:** [[InvestmentRiskManagement]], [[StopLossDiscipline]], [[FinancialStatementAnalysis]], [[CurrencyRisk]], [[IndexReentryDiscipline]]
 
 **Qualifications:**
 

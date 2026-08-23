@@ -10693,6 +10693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | Who decides what big box sells? Our GAME got us answers
+
+Added source page for a Planet Money episode following Sell Me a Sasquatch from naming into big-box retail approval, line review, buyer questions, planograms, price-point scoping, royalties, packaging upgrades, manufacturing deadlines, shelf testing, and Target/Walmart availability. Created Matt Adelman, Tori Welch, Retail Line Review, Planogram Gatekeeping, Retail Price-Point Product Scoping, Audience-Backed Retail Pitch, Mass Retail Production Deadline, and Licensed Product Risk Allocation; updated overview, index, Planet Money, NPR, Exploding Kittens, Sell Me a Sasquatch, The Market for Lemons, Retail Shelf Appeal, Retail Shelf Placement, Packaging As Product Experience, Product Launch Under Constraint, Target, Walmart, Erika Beras, and Kenny Malone. No direct contradiction found; the original line-review retailer remains source-scoped because the episode withholds its identity.
+
 ## [2026-08-24] ingest | 145. 改嫁中资的餐饮洋品牌
 
 Added source page for a 疯投圈 episode on foreign restaurant brands shifting China control toward local capital and operators, covering McDonald's, Subway, Burger King, Starbucks, Meet Fresh/CFB, Pizza Hut China, Haagen-Dazs/Ningji, Yeren Xiansheng, and a broader demand-versus-supply-chain framework. Created Subway China, CITIC Capital, Carlyle Group, Meet Fresh, CFB Group, Fangyuan Capital, Ningji, Yum Brands, Foreign Restaurant Brand Local Control, Demand-Supply Chain Control Frame, and Fragrance Supply-Chain Moat; updated overview, index, FengTouQuan, McDonald's, Burger King, Starbucks, Boyu Capital, CPE Yuanfeng, Yum China, Pizza Hut China, Haagen-Dazs, General Mills, Yeren Xiansheng, Dairy Queen, Global Product Localization, Local Partner Market Entry, Franchise-Led Consumer Chain Expansion, Fresh-Made Ice Cream Retail, Restaurant Experience Design, Experiential Retail, Consumer Brand Moat, Supply Chain Sovereignty, Chinese Fragrance, Fragrance Product Storytelling, and Emotion Economy. No direct contradiction found; Pizza Hut timing is kept as announcement-versus-completion variation, and the insurance advertisement remains source-scoped.
@@ -10704,6 +10708,10 @@ Added source page for Talk三联 EP276: Jia Zhangke's response to short-video re
 ## [2026-08-24] ingest | EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能
 
 Added source page for Talk三联 EP277: Jia Zhangke's defense of AI cinema as exploration rather than betrayal of reality, his distinction between realism and responding to the real world, and his view that AI may change film production methods more deeply than the film-to-digital carrier shift. Created Jia Zhangke, Pingyao International Film Festival, and Film Reality Beyond Realism; updated overview, index, Talk三联-adjacent AI film concepts, creative-labor backlash, likeness/copyright/energy concerns, Charlie Chaplin, and Martin Scorsese. No settled contradiction found; the episode qualifies AI-video optimism by keeping mature AI-film aesthetics, production roles, and legal/ethical rules source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

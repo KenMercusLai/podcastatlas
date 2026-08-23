@@ -2,8 +2,8 @@
 title: "Product Launch Under Constraint"
 type: concept
 tags: [product-development, startups, operations]
-sources: [we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, how-to-make-a-book-into-a-bestseller, socialradarspod-paulb-final]
-last_updated: 2026-08-07
+sources: [we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, how-to-make-a-book-into-a-bestseller, socialradarspod-paulb-final, who-decides-what-big-box-sells-our-game-got-us-answers]
+last_updated: 2026-08-24
 ---
 
 # Product Launch Under Constraint
@@ -16,6 +16,8 @@ The Gmail invite system is the source's clearest operating lesson. It began as c
 
 [[we-almost-had-a-smartphone-in-the-90s-why-did-it-fail]] adds a consumer-hardware contrast. [[GeneralMagic]] spent years moving toward a single broad [[SonyMagicLink]] launch, while [[TonyFadell]]'s later [[IPod]] team at [[Apple]] worked under a Christmas deadline, budget pressure, competitive risk from [[Sony]], and a plan for rapid follow-on iterations.
 
+[[who-decides-what-big-box-sells-our-game-got-us-answers]] adds a mass-retail physical-product version through [[SellMeASasquatch]]. After two big-box retailers accept the game, [[ExplodingKittens]] and [[PlanetMoney]] must finalize cards, packaging, instructions, QR codes, color, and finish before factory files are due, with Chinese Lunar New Year adding calendar pressure.
+
 ## Key Claims
 - Launch timing can be forced by leaks, competitors, press cycles, or internal commitments before the product is operationally ready.
 - Capacity constraints can become product mechanics, but the team should remember the operational reason underneath the narrative.
@@ -23,11 +25,13 @@ The Gmail invite system is the source's clearest operating lesson. It began as c
 - Constraint-driven launch choices should feed back into [[FastFeedbackLoops]] so the team can repair, scale, and learn after exposure.
 - Promotional launch incentives can become operational liabilities when fulfillment instructions are unclear during a high-attention launch window.
 - Hardware launch constraints can improve execution when they force [[ClearCustomerDefinition]], [[BuildVsBorrowProductStrategy]], and a sequence of later versions rather than one maximal first release.
+- Big-box retail launches can turn buyer acceptance into immediate manufacturing deadlines because store timing, factory calendars, and packaging decisions have to align.
 
 ## Connections
 - [[Gmail]], [[PaulBuchheit]], and [[Google]] - source case.
 - [[PlanetMoneyBook]], [[AlexGoldmark]], [[PreOrderLaunchConcentration]], and [[NewYorkTimesBestsellerList]] - media-product launch case added by Planet Money.
 - [[GeneralMagic]], [[SonyMagicLink]], [[TonyFadell]], [[Apple]], and [[IPod]] - consumer-hardware contrast added by Planet Money.
+- [[SellMeASasquatch]], [[ExplodingKittens]], [[MassRetailProductionDeadline]], and [[PackagingAsProductExperience]] - mass-retail board-game launch branch added by Planet Money.
 - [[FastFeedbackLoops]] - post-launch repair and learning pattern.
 - [[CustomerPull]] - demand pressure that can overwhelm capacity if not staged.
 - [[ProductLedWillingnessToPay]] - user-visible value, such as one-gigabyte storage, can make a constrained launch worth attention.

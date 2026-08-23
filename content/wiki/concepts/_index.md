@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5190
+wiki_total_pages: 5196
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1604,6 +1604,9 @@ wiki_pages:
   - key: "AttractivenessLaborMarketPremium"
     title: "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价"
     url: "/wiki/concepts/attractivenesslabormarketpremium/"
+  - key: "AudienceBackedRetailPitch"
+    title: "Audience-Backed Retail Pitch"
+    url: "/wiki/concepts/audiencebackedretailpitch/"
   - key: "AudienceVsMeetingDiplomacy"
     title: "Audience-Versus-Meeting Diplomacy / 朝会之别"
     url: "/wiki/concepts/audiencevsmeetingdiplomacy/"

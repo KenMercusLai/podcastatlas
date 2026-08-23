@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5190
+wiki_total_pages: 5196
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "LibetExperimentInterpretation"
     title: "Libet Experiment Interpretation / 利比特实验解释"
     url: "/wiki/concepts/libetexperimentinterpretation/"
+  - key: "LicensedProductRiskAllocation"
+    title: "Licensed Product Risk Allocation"
+    url: "/wiki/concepts/licensedproductriskallocation/"
   - key: "LifeAntifragility"
     title: "Life Antifragility"
     url: "/wiki/concepts/lifeantifragility/"

@@ -2,8 +2,8 @@
 title: "Walmart"
 type: entity
 tags: [company, retail, commerce]
-sources: [meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, board-games-3-whats-in-a-name, costco-1]
-last_updated: 2026-08-16
+sources: [meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, board-games-3-whats-in-a-name, costco-1, who-decides-what-big-box-sells-our-game-got-us-answers]
+last_updated: 2026-08-24
 ---
 
 # Walmart
@@ -20,6 +20,8 @@ The page also connects to the existing [[Yihaodian]] branch, where Walmart appea
 
 [[board-games-3-whats-in-a-name]] adds Walmart as part of the big-box board-game retail frame. The source uses [[Walmart]] and [[Target]] to make [[RetailShelfAppeal]] concrete: [[SellMeASasquatch]] has to be understandable and attractive under fast shopper scanning, not only fun after a full rules explanation.
 
+[[who-decides-what-big-box-sells-our-game-got-us-answers]] adds Walmart as one of the named stores where [[SellMeASasquatch]] is available after [[ExplodingKittens]] secures major big-box acceptance and completes production. As with [[Target]], the source withholds the identity of the retailer in the original pitch meeting, so Walmart's page records availability and channel context rather than treating Walmart as the confirmed line-review buyer.
+
 [[costco-1]] adds Walmart through [[SamWalton]] and [[SamsClub|Sam's Club]]. Walton is described as studying [[PriceClub]] before launching Sam's Club, while Costco is contrasted with Walmart on wages, inventory turns, revenue per square foot, and the different operating logic behind warehouse-club membership.
 
 [[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds Walmart as a private fast-charging expansion example. In the source, Walmart and convenience store chains are part of the [[EVChargingInfrastructure]] buildout that could support U.S. EV adoption after the [[EVTaxCreditCliff]].
@@ -30,7 +32,7 @@ The page also connects to the existing [[Yihaodian]] branch, where Walmart appea
 - [[OpenAI]] and [[Shopify]] - commerce integration context in the episode.
 - [[AISearchAdvertising]] and [[AgenticCommerce]] - ad-placement and shopping-workflow concepts sharpened by the source.
 - [[Yihaodian]] - earlier wiki branch where Walmart appears through China ecommerce history.
-- [[SellMeASasquatch]], [[ExplodingKittens]], and [[RetailShelfAppeal]] - board-game retail branch added by Planet Money.
+- [[SellMeASasquatch]], [[ExplodingKittens]], [[RetailShelfAppeal]], [[RetailLineReview]], and [[PlanogramGatekeeping]] - board-game retail branch added by Planet Money.
 - [[SamWalton]], [[SamsClub|Sam's Club]], [[PriceClub]], [[Costco]], [[WarehouseClubModel]], and [[EmployeeRetentionEconomics]] - warehouse-club comparison added by Acquired.
 - [[EVChargingInfrastructure]] and [[EVTaxCreditCliff]] - charging-network context added by the December 2025 Marketplace Tech episode.
 - [[RetailSiteSelection]], [[InstantRetail]], and [[EcommerceFulfillmentComplexity]] - community-store and high-frequency local-demand branch added by the 声动早咖啡 source.

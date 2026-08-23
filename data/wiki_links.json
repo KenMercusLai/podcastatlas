@@ -4887,6 +4887,10 @@
     "title": "Audi",
     "url": "/wiki/entities/audi/"
   },
+  "AudienceBackedRetailPitch": {
+    "title": "Audience-Backed Retail Pitch",
+    "url": "/wiki/concepts/audiencebackedretailpitch/"
+  },
   "AudienceVsMeetingDiplomacy": {
     "title": "Audience-Versus-Meeting Diplomacy / 朝会之别",
     "url": "/wiki/concepts/audiencevsmeetingdiplomacy/"
@@ -25491,6 +25495,10 @@
     "title": "Library of Congress",
     "url": "/wiki/entities/libraryofcongress/"
   },
+  "LicensedProductRiskAllocation": {
+    "title": "Licensed Product Risk Allocation",
+    "url": "/wiki/concepts/licensedproductriskallocation/"
+  },
   "LidiyaSheCameFromMariupol": {
     "title": "莉蒂娅 / Lidiya",
     "url": "/wiki/entities/lidiyashecamefrommariupol/"
@@ -27727,6 +27735,10 @@
     "title": "Mashie",
     "url": "/wiki/entities/mashie/"
   },
+  "MassRetailProductionDeadline": {
+    "title": "Mass Retail Production Deadline",
+    "url": "/wiki/concepts/massretailproductiondeadline/"
+  },
   "MassachusettsInvestorsTrust": {
     "title": "Massachusetts Investors Trust",
     "url": "/wiki/entities/massachusettsinvestorstrust/"
@@ -27798,6 +27810,10 @@
   "MatsutakeCommonsManagement": {
     "title": "Matsutake Commons Management / 松茸山公共资源治理",
     "url": "/wiki/concepts/matsutakecommonsmanagement/"
+  },
+  "MattAdelman": {
+    "title": "Matt Adelman",
+    "url": "/wiki/entities/mattadelman/"
   },
   "MattAshby": {
     "title": "Matt Ashby",
@@ -33131,6 +33147,10 @@
     "title": "Planetary Self-Awareness",
     "url": "/wiki/concepts/planetaryselfawareness/"
   },
+  "PlanogramGatekeeping": {
+    "title": "Planogram Gatekeeping",
+    "url": "/wiki/concepts/planogramgatekeeping/"
+  },
   "PlantAcousticSignaling": {
     "title": "Plant Acoustic Signaling",
     "url": "/wiki/concepts/plantacousticsignaling/"
@@ -36206,6 +36226,14 @@
   "RetailInvestorCrowding": {
     "title": "Retail Investor Crowding",
     "url": "/wiki/concepts/retailinvestorcrowding/"
+  },
+  "RetailLineReview": {
+    "title": "Retail Line Review",
+    "url": "/wiki/concepts/retaillinereview/"
+  },
+  "RetailPricePointProductScoping": {
+    "title": "Retail Price-Point Product Scoping",
+    "url": "/wiki/concepts/retailpricepointproductscoping/"
   },
   "RetailPrivateMarketAccess": {
     "title": "Retail Private-Market Access",
@@ -43038,6 +43066,10 @@
   "TopOfJapan": {
     "title": "Top of Japan",
     "url": "/wiki/entities/topofjapan/"
+  },
+  "ToriWelch": {
+    "title": "Tori Welch",
+    "url": "/wiki/entities/toriwelch/"
   },
   "ToriyamaSekien": {
     "title": "鸟山石燕 / Toriyama Sekien",
@@ -52070,6 +52102,10 @@
   "what-makes-a-toy-go-viral": {
     "title": "What makes a toy go viral",
     "url": "/wiki/sources/what-makes-a-toy-go-viral/"
+  },
+  "who-decides-what-big-box-sells-our-game-got-us-answers": {
+    "title": "Who decides what big box sells? Our GAME got us answers",
+    "url": "/wiki/sources/who-decides-what-big-box-sells-our-game-got-us-answers/"
   },
   "why-are-we-so-obsessed-with-manufacturing": {
     "title": "Why are we so obsessed with manufacturing?",

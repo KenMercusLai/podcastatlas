@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Who decides what big box sells? Our GAME got us answers](sources/who-decides-what-big-box-sells-our-game-got-us-answers.md) — Planet Money episode following Sell Me a Sasquatch through line review, buyer concerns, planograms, pricing, royalties, manufacturing deadlines, shelf tests, and Target/Walmart availability.
 - [145. 改嫁中资的餐饮洋品牌](sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1.md) — 疯投圈 episode on foreign restaurant brands shifting China control to local investors and operators, covering McDonald's, Subway, Burger King, Starbucks, Pizza Hut, Haagen-Dazs, ice-cream store models, fragrance supply-chain moats, and demand-versus-supply-chain industry judgment.
 - [EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你](sources/ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc.md) — Talk三联 episode with Jia Zhangke on short-video rediscovery of older film scenes, ordinary-life poetics, youth mobility, AI anxiety, and era transition.
 - [EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能](sources/ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox.md) — Talk三联 episode with Jia Zhangke on AI cinema, realism beyond realist method, production-method change, labor backlash, rights, and his continuing commitment to live-action reality.
@@ -1341,6 +1342,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Matt Adelman](entities/MattAdelman.md) — Former Target buyer explaining line review odds, planograms, shelf productivity, and buyer defense in the Planet Money board-game retail episode.
+- [Tori Welch](entities/ToriWelch.md) — Exploding Kittens global sourcing person connecting Sell Me a Sasquatch's retail launch to factory production and color quality control.
 - [Subway China / 赛百味中国](entities/SubwayChina.md) — Foreign-origin sandwich chain whose China local general-agency shift is used as a store-acceleration case.
 - [CITIC Capital / 中信资本](entities/CITICCapital.md) — Controlling investor in McDonald's China in episode 145's local-control template.
 - [Carlyle Group / 凯雷资本](entities/CarlyleGroup.md) — Minority co-investor in the 2017 McDonald's China transaction, later exiting in the source's account.
@@ -8199,6 +8202,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Retail Line Review](concepts/RetailLineReview.md) — Big-box buying process where seasonal product additions, removals, audience fit, price, and support are judged in short buyer meetings.
+- [Planogram Gatekeeping](concepts/PlanogramGatekeeping.md) — Shelf-blueprint constraint where buyers must decide what a new product replaces and defend slot productivity.
+- [Retail Price-Point Product Scoping](concepts/RetailPricePointProductScoping.md) — Pattern where target retail price determines components, package quality, perceived category, and value signal.
+- [Audience-Backed Retail Pitch](concepts/AudienceBackedRetailPitch.md) — Retail pitch logic where a creator, media property, or community helps reduce buyer uncertainty about future demand.
+- [Mass Retail Production Deadline](concepts/MassRetailProductionDeadline.md) — Manufacturing deadline created when big-box commitments force final files, packaging, quality, and factory timing to align.
+- [Licensed Product Risk Allocation](concepts/LicensedProductRiskAllocation.md) — Royalty, guarantee, inventory, and manufacturing-risk split between a brand/licensor and the operating product company.
 - [Foreign Restaurant Brand Local Control / 外资餐饮品牌本土控制权](concepts/ForeignRestaurantBrandLocalControl.md) — Pattern where a foreign-origin restaurant brand keeps operating in China while China control, equity, master-franchise rights, or brand ownership moves to local actors.
 - [Demand-Supply Chain Control Frame / 需求-供应链控制框架](concepts/DemandSupplyChainControlFrame.md) — Industry-judgment frame asking whether local demand insight and upstream supply-chain control point in the same direction.
 - [Fragrance Supply-Chain Moat / 香味供应链壁垒](concepts/FragranceSupplyChainMoat.md) — Upstream fragrance advantage built from molecules, formulas, perfumers, patents, and sticky supplier relationships.

@@ -2,8 +2,8 @@
 title: "Target"
 type: entity
 tags: [company, retail]
-sources: [advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, board-games-3-whats-in-a-name, costco-1]
-last_updated: 2026-08-07
+sources: [advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, board-games-3-whats-in-a-name, costco-1, who-decides-what-big-box-sells-our-game-got-us-answers]
+last_updated: 2026-08-24
 ---
 
 # Target
@@ -16,6 +16,8 @@ The episode uses Target to show that [[LowPriceBrandPerception]] can evolve into
 
 [[board-games-3-whats-in-a-name]] adds Target as a big-box retail context for board games. The source uses Target and [[Walmart]] to explain why [[SellMeASasquatch]] needs [[RetailShelfAppeal]], [[ProductNamingAsPositioning]], and clear gift/game-night legibility rather than only a clever mechanic.
 
+[[who-decides-what-big-box-sells-our-game-got-us-answers]] adds Target as one of the named stores where [[SellMeASasquatch]] is available after the line-review and manufacturing sequence. The source does not identify the specific retailer in [[ErikaBeras]]'s pitch, so Target's role is kept as a named availability channel and prior big-box comparison rather than as the confirmed pitch-room buyer.
+
 [[costco-1]] adds Target as a revenue-per-square-foot comparison. The source uses Target and [[Walmart]] to show how unusual [[Costco]]'s warehouse productivity is under a low-SKU, membership-supported model.
 
 [[advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773]] adds Target as one of [[Everloop]]'s third-party e-commerce retailers in the source's baby-gear distribution context. The episode uses that channel list to show why retail access still leaves [[MeasuredChannelTesting]] and customer-call attribution unresolved.
@@ -26,5 +28,5 @@ The episode uses Target to show that [[LowPriceBrandPerception]] can evolve into
 - [[Everloop]], [[VinceGiudice]], and [[MeasuredChannelTesting]] - baby-gear channel context added by the Curt Richardson Advice Line source.
 - [[HEB]] - earlier retail proof point that strengthened the broader pitch.
 - [[RetailShelfPlacement]], [[SalesVelocity]], [[RetailIncrementality]], and [[CPGDistribution]] - concepts connected to end caps and retail performance.
-- [[SellMeASasquatch]], [[ExplodingKittens]], and [[RetailShelfAppeal]] - board-game retail branch added by Planet Money.
+- [[SellMeASasquatch]], [[ExplodingKittens]], [[RetailShelfAppeal]], [[RetailLineReview]], and [[PlanogramGatekeeping]] - board-game retail branch added by Planet Money.
 - [[Costco]], [[WarehouseClubModel]], [[LimitedSKUOperatingModel]], and [[RetailInventoryVelocity]] - productivity comparison added by Acquired.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 6854
+wiki_total_pages: 6856
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "TopOfJapan"
     title: "Top of Japan"
     url: "/wiki/entities/topofjapan/"
+  - key: "ToriWelch"
+    title: "Tori Welch"
+    url: "/wiki/entities/toriwelch/"
   - key: "Toshiba"
     title: "Toshiba"
     url: "/wiki/entities/toshiba/"

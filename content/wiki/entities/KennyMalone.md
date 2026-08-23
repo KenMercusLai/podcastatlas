@@ -2,8 +2,8 @@
 title: "Kenny Malone"
 type: entity
 tags: [podcast-host, journalism, economics]
-sources: [20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer, the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
-last_updated: 2026-08-07
+sources: [20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer, the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough, who-decides-what-big-box-sells-our-game-got-us-answers]
+last_updated: 2026-08-24
 ---
 
 # Kenny Malone
@@ -24,6 +24,8 @@ The episode uses Malone's hosting context to connect concrete club stories to la
 
 [[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds Malone as co-host translating [[ArinDube|Arin Dube]]'s labor-economics vocabulary through [[AlienFilm|Alien]] scenes. The episode places his hosting role inside the show's broader pattern of turning unusual source material into [[EconomicWayOfThinking]].
 
+[[who-decides-what-big-box-sells-our-game-got-us-answers]] adds Malone as co-host following [[SellMeASasquatch]] after buyer acceptance into final product decisions and manufacturing. His reporting includes the long wait after [[ErikaBeras]]'s pitch, the factory-floor call with [[ToriWelch]], and the store visit where the game appears on a big-box shelf.
+
 ## Connections
 - [[NPR]] and [[PlanetMoney]] - network and show context.
 - [[EmbeddedPodcast]], [[WeKeepUsSafe]], [[CapitolHillOrganizedProtest]], and [[AntonioMaysJr]] - investigative-series trailer branch introduced by Malone.
@@ -34,3 +36,4 @@ The episode uses Malone's hosting context to connect concrete club stories to la
 - [[CoreyTurner]], [[FederalStudentLoanCaps]], [[BennettHypothesis]], and [[LoanCapAccessRisk]] - student-loan policy branch added by the new Planet Money episode.
 - [[ConsumerSentimentIndicator]], [[UniversityOfMichigan]], and [[AggregateIndicatorsLivedExperienceGap]] - 2025 indicator branch added by the crossover source.
 - [[AlienFilm|Alien]], [[WeylandYutani]], [[LaborMonopsony]], and [[CompensatingDifferentials]] - labor-economics-by-film branch added by the Alien episode.
+- [[SellMeASasquatch]], [[ToriWelch]], [[MassRetailProductionDeadline]], and [[PackagingAsProductExperience]] - board-game manufacturing and launch branch added by Planet Money.

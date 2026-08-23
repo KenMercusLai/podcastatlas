@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6854
+wiki_total_pages: 6856
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "Matsutake"
     title: "Matsutake / 松茸"
     url: "/wiki/entities/matsutake/"
+  - key: "MattAdelman"
+    title: "Matt Adelman"
+    url: "/wiki/entities/mattadelman/"
   - key: "MattAshby"
     title: "Matt Ashby"
     url: "/wiki/entities/mattashby/"

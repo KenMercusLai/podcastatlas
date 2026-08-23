@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5190
+wiki_total_pages: 5196
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "PlanetarySelfAwareness"
     title: "Planetary Self-Awareness"
     url: "/wiki/concepts/planetaryselfawareness/"
+  - key: "PlanogramGatekeeping"
+    title: "Planogram Gatekeeping"
+    url: "/wiki/concepts/planogramgatekeeping/"
   - key: "PlantAcousticSignaling"
     title: "Plant Acoustic Signaling"
     url: "/wiki/concepts/plantacousticsignaling/"

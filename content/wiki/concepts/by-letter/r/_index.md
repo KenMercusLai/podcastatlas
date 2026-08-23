@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5190
+wiki_total_pages: 5196
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -416,6 +416,12 @@ wiki_pages:
   - key: "RetailInvestorCrowding"
     title: "Retail Investor Crowding"
     url: "/wiki/concepts/retailinvestorcrowding/"
+  - key: "RetailLineReview"
+    title: "Retail Line Review"
+    url: "/wiki/concepts/retaillinereview/"
+  - key: "RetailPricePointProductScoping"
+    title: "Retail Price-Point Product Scoping"
+    url: "/wiki/concepts/retailpricepointproductscoping/"
   - key: "RetailPrivateMarketAccess"
     title: "Retail Private-Market Access"
     url: "/wiki/concepts/retailprivatemarketaccess/"

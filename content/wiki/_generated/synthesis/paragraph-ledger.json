@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "68b56d320b14d21fcfc2fdb2001a6d7d38bc59c0feed25211a60b3325cc9327c",
       "a15fdb4c16b463947613913bfcdd29020461bdb0d54a5fc060b937415b8e85f3",
       "c65ef3dbf832d317675a2b433e038fc3ffd774f9c65a72160dafa4d46fbaa22b",
       "5a812adda2354fa116abbd4ceeb289347859d235ee63a80cd2cbbb9fb68ab97f",
@@ -146,11 +147,46 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 144
+    "paragraph_count": 145
   },
-  "overview_commit": "f7d5cc4e3e9a90659fb777d6f713434495501edf",
-  "overview_digest": "04a823186291acb5489dc82b9c33b3f599d648d9632cddd38bcdf14f48322564",
+  "overview_commit": "5ce87075daaa979a08f07293ccefb9254b93de9d",
+  "overview_digest": "1e38775db401c9d36d174859eb363bd74cf81b5d77f0b91770f4d50e640717c1",
   "paragraphs": [
+    {
+      "id": "68b56d320b14d21fcfc2fdb2001a6d7d38bc59c0feed25211a60b3325cc9327c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[who-decides-what-big-box-sells-our-game-got-us-answers]], a [[PlanetMoney]] episode continuing the [[SellMeASasquatch]] branch from naming into big-box retail approval, production, and launch. It adds [[MattAdelman]], [[ToriWelch]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[AudienceBackedRetailPitch]], [[MassRetailProductionDeadline]], and [[LicensedProductRiskAllocation]], while extending [[ExplodingKittens]], [[MarketForLemons]], [[AsymmetricInformation]], [[RetailShelfAppeal]], [[RetailShelfPlacement]], [[PackagingAsProductExperience]], [[ProductLaunchUnderConstraint]], [[Target]], [[Walmart]], [[ErikaBeras]], and [[KennyMalone]]. Its core synthesis is that turning an economics mechanic into a mass-retail product requires a second gate after good gameplay: buyers need audience, price, shelf, and planogram confidence, while the product team must translate that acceptance into royalties, material scope, factory deadlines, packaging quality, and launch support. No direct contradiction is recorded; the pitch-room retailer remains source-scoped because the episode withholds its identity.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AsymmetricInformation",
+        "AudienceBackedRetailPitch",
+        "ErikaBeras",
+        "ExplodingKittens",
+        "KennyMalone",
+        "LicensedProductRiskAllocation",
+        "MarketForLemons",
+        "MassRetailProductionDeadline",
+        "MattAdelman",
+        "PackagingAsProductExperience",
+        "PlanetMoney",
+        "PlanogramGatekeeping",
+        "ProductLaunchUnderConstraint",
+        "RetailLineReview",
+        "RetailPricePointProductScoping",
+        "RetailShelfAppeal",
+        "RetailShelfPlacement",
+        "SellMeASasquatch",
+        "Target",
+        "ToriWelch",
+        "Walmart",
+        "who-decides-what-big-box-sells-our-game-got-us-answers"
+      ]
+    },
     {
       "id": "a15fdb4c16b463947613913bfcdd29020461bdb0d54a5fc060b937415b8e85f3",
       "primary_topic": "business-and-markets",
