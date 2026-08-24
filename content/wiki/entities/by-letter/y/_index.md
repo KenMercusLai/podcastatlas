@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7134
+wiki_total_pages: 7135
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "YangYuJiaozi"
     title: "杨宇 / 饺子 / Yang Yu"
     url: "/wiki/entities/yangyujiaozi/"
+  - key: "YangDingLateHan"
+    title: "杨定 / Yang Ding (late Han)"
+    url: "/wiki/entities/yangdinglatehan/"
   - key: "YangXiaohuaSkier"
     title: "杨小华 / Yang Xiaohua (Skier)"
     url: "/wiki/entities/yangxiaohuaskier/"

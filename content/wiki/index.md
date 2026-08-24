@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？](sources/zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f.md) — 芮淇讲透资治通鉴 episode on Yang Ding's failed attack on Duan Wei, Zhang Ji's alliance switch, and Li Jue/Guo Si reuniting because Emperor Xian remained the higher-value political prize.
 - [《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？](sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's December 195 flight, Li Jue/Guo Si/Zhang Ji's pursuit, Dong Cheng and Yang Feng's emergency Baibo/Southern Xiongnu reinforcements, Jia Xu's minister-protection intervention, and the bloody Yellow River night crossing.
 - [《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇](sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's Anyi court, Chang'an's collapse, Yuan Shao missing Ju Shou's welcome-the-emperor strategy, and Sun Ce's Jiangdong start with Zhou Yu's material support.
 - [《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈](sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1.md) — 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong discipline and recruitment, Liu Yao's underuse of Taishi Ci, and the Shentingling encounter as a status-filtered talent-recognition failure.
@@ -1654,7 +1655,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [北海郡 / Beihai Commandery](entities/BeihaiCommandery.md) — Late-Han commandery where Kong Rong's prestige, weak capacity, killed advice, and Yuan Tan's attack converge.
 - [袁涣 / Yuan Huan (late Han)](entities/YuanHuanLateHan.md) — Late-Han official who refuses Lü Bu's demand to write an abusive letter against Liu Bei, blocking a moral rationalization of betrayal.
 - [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
-- [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general whose suspicious courtesy toward Jia Xu makes him a survival-risk contrast before Jia Xu joins Zhang Xiu.
+- [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general who resists Yang Ding while feeding Emperor Xian, later serving as Jia Xu's suspicious host before Jia Xu joins Zhang Xiu.
+- [杨定 / Yang Ding (late Han)](entities/YangDingLateHan.md) — Late-Han general whose failed attack on Duan Wei collapses when Zhang Ji, Li Jue, and Guo Si re-sort around Emperor Xian.
 - [穰城 / Rangcheng](entities/Rangcheng.md) — Nanyang city where Zhang Ji dies attacking in Hanji 1010, opening Liu Biao's mourning-framed absorption of the remaining troops.
 - [祢衡 / Mi Heng (Late Han)](entities/MiHengLateHan.md) — Late-Han scholar whose talent, insults, naked drumming, and death through Cao Cao-Liu Biao-Huang Zu transfer anchor the Hanji 1011 borrowed-knife case.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official normalized from the transcript's "黄族", serving as the final actor who kills 祢衡 after Liu Biao passes him onward.
@@ -1702,8 +1704,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [广陵 / Guangling Commandery](entities/GuanglingCommandery.md) — Place and commandery node used by Hanji 1017 for Chen Deng's Cao-aligned base and by Qinji 130-1 for Zhao Ping's failed anti-Qin target.
 - [枣祗 / Zao Zhi](entities/ZaoZhi.md) — Late-Han official whose屯田 proposal to Cao Cao opens Hanji 1008's agricultural-logistics branch.
 - [任峻 / Ren Jun](entities/RenJun.md) — Cao Cao-side official appointed典农中郎将 to implement屯田 with Zao Zhi around Xudu.
-- [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose struggle with Guo Si over Emperor Xian creates the flight-and-escort crisis before the Luoyang return.
-- [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor paired with Li Jue in the fight over Emperor Xian, making protection and capture hard to separate.
+- [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose rivalry and temporary reunion with Guo Si over Emperor Xian creates the flight-and-escort crisis before the Luoyang return.
+- [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor paired with Li Jue in rivalry and temporary reunion over Emperor Xian, making protection and capture hard to separate.
 - [赵岐 / Zhao Qi (late Han)](entities/ZhaoQiLateHan.md) — Official who persuades Liu Biao to send troops, supplies, and grain for Emperor Xian's Luoyang return.
 - [何仪 / He Yi (late Han)](entities/HeYiLateHan.md) — Runan-Yingchuan Yellow Turban remnant leader defeated by Cao Cao before joining Yuan Shu.
 - [陶谦 / Tao Qian (late Han)](entities/TaoQianLateHan.md) — Former Xuzhou governor whose old subordinate Cao Bao remains part of the inherited local order Liu Bei must manage.

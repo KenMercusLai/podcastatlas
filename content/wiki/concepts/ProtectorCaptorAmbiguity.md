@@ -2,11 +2,13 @@
 title: "Protector-Captor Ambiguity / 护驾与挟持模糊性"
 type: concept
 tags: [legitimacy, warlordism, late-han, statecraft, coercion]
-sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # Protector-Captor Ambiguity / 护驾与挟持模糊性
+
+[[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] backfills the pre-pursuit version of the pattern. [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] speak through the language of protecting [[EmperorXianOfHan|汉献帝]] and attacking [[DuanWeiLateHan|段煨]], while [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] reunite under a rescue pretext; in each case, the protective vocabulary is inseparable from the desire to control the emperor's route and body.
 
 Protector-captor ambiguity / 护驾与挟持模糊性 is the late-Han pattern made explicit by [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]]. [[EmperorXianOfHan|汉献帝]] is still valuable because his body and title can legitimate commands, appointments, and future strategic claims, but every armed group close enough to protect him is also close enough to control, redirect, threaten, or abandon him.
 
@@ -17,6 +19,7 @@ In Hanji 991, [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ZhangJiLat
 The concept differs from [[LegitimacyWindowSeizure|合法性窗口抢占]]. Legitimacy-window seizure names the strategic opportunity for an outside actor who can protect and operationalize the emperor. Protector-captor ambiguity names the prior danger: before the opportunity is captured, the emperor's recognized status attracts coercive protection from actors who cannot or will not restore ordinary sovereignty.
 
 ## Key Claims
+- Hanji 990 adds that "protecting" the emperor can first appear as an argument over whether to attack a supposed threat, not only as direct pursuit.
 - A recognized ruler can be politically powerful and physically helpless at the same time.
 - Protection becomes ambiguous when the protector controls routes, food, armed access, and communication.
 - The same imperial body can attract rescue, pursuit, and coercive hosting.
@@ -24,6 +27,7 @@ The concept differs from [[LegitimacyWindowSeizure|合法性窗口抢占]]. Legi
 - This ambiguity creates the precondition for later legitimacy-window seizure by a more capable actor.
 
 ## Connections
+- [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[DuanWeiLateHan|段煨]], and [[YangDingLateHan|杨定]] - pre-pursuit conflict where an attack is framed around imperial safety.
 - [[EmperorXianOfHan|汉献帝]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], and [[HanXianLateHan|韩暹]] - source actors.
 - [[BaiboArmy|白波军]], [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], [[QubeiSouthernXiongnu|去卑]], and [[SouthernXiongnu|南匈奴]] - reinforcement field.
 - [[MingqiLegitimacy|名器合法性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - adjacent symbolic, strategic, alliance, and survival concepts.

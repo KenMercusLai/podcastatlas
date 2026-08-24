@@ -2,11 +2,13 @@
 title: "杨奉 / Yang Feng (late Han)"
 type: entity
 tags: [person, late-han, military]
-sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-24
 ---
 
 # 杨奉 / Yang Feng (late Han)
+
+[[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] backfills Yang Feng's position just before Hanji 991. He joins [[YangDingLateHan|杨定]] and [[DongChengLateHan|董承]] in seeking an edict against [[DuanWeiLateHan|段煨]], then attacks without clear imperial authorization after [[EmperorXianOfHan|汉献帝]] refuses to declare Duan Wei rebellious.
 
 [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] adds Yang Feng's crisis-escort role before the later route-control and Luoyang-return branches. Yang Feng is paired with [[DongChengLateHan|董承]] after [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ZhangJiLateHan|张济]] defeat the court party; he joins the secret call for [[LiLeLateHan|李乐]], [[HanXianLateHan|韩暹]], [[HuCaiLateHan|胡才]], and [[QubeiSouthernXiongnu|去卑]], but the renewed pursuit still breaks the escort line.
 
@@ -28,6 +30,7 @@ The episode uses Yang Feng to show how quickly a coalition can change sides when
 
 ## Connections
 - [[HanXianLateHan|韩暹]], [[DongChengLateHan|董承]], [[ZhangYangLateHan|张杨]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - paired and opposing actors in the emperor-escort branch.
+- [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - failed anti-Duan attack before the later escort crisis.
 - [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], [[QubeiSouthernXiongnu|去卑]], and [[BaiboArmy|白波军]] - Hanji 991 emergency reinforcement cluster.
 - [[CaoCao|曹操]], [[DongZhaoLateHan|董昭]], [[LuoyangLateHan|洛阳]], [[Xudu|许都]], and [[EmperorXianOfHan|汉献帝]] - Hanji 1004-1005 conflict around the emperor's relocation.
 - [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] and [[InterestReframingPersuasion|利益重构式说服]] - earlier letter that converts Yang Feng's route control into temporary cooperation.

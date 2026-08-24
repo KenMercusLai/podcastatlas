@@ -2,11 +2,13 @@
 title: "李傕 / Li Jue (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 李傕 / Li Jue (late Han)
+
+[[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] backfills the moment before Li Jue's renewed pursuit in Hanji 991. After [[YangDingLateHan|杨定]] attacks [[DuanWeiLateHan|段煨]], Li Jue and [[GuoSiLateHan|郭汜]] suspend their private feud because [[EmperorXianOfHan|汉献帝]] is slipping out of their control; the episode treats the reunion as strategic convergence around the emperor rather than genuine reconciliation.
 
 [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] backfills Li Jue's most violent pursuit branch. After [[EmperorXianOfHan|汉献帝]] leaves Chang'an and reaches the Hongnong area, Li Jue joins [[GuoSiLateHan|郭汜]] and [[ZhangJiLateHan|张济]] in renewed pursuit, defeats the escort side around Hongnong Dongjian, and later attacks again after [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] draw in [[BaiboArmy|白波军]] and [[SouthernXiongnu|南匈奴]] reinforcements.
 
@@ -20,9 +22,10 @@ The page keeps Li Jue's role source-scoped to this branch. He matters here less 
 
 ## Connections
 - [[GuoSiLateHan|郭汜]] - rival in the struggle over Emperor Xian.
+- [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - temporary reunion and rescue/control pretext before renewed pursuit.
 - [[ZhangJiLateHan|张济]], [[JiaXu|贾诩]], [[BaiboArmy|白波军]], and [[QubeiSouthernXiongnu|去卑]] - Hanji 991 pursuit, restraint, and reinforcement branch.
 - [[EmperorXianOfHan|汉献帝]], [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], and [[HanXianLateHan|韩暹]] - court-flight and escort branch.
 - [[ChangAnHanCapital|长安]] and [[GuanzhongRegion|关中]] - Hanji 992 collapse setting after the emperor leaves.
 - [[LuoyangLateHan|洛阳]] - damaged destination of the emperor's return.
-- [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - concept grounded by the pursuit.
+- [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - concepts grounded by the pursuit and temporary reunion.
 - [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] - source context.
