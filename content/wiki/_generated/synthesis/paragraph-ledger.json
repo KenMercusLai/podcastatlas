@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "923478761916df674e938cd4a4510d0860531d841482ed161c0ba982703547a1",
       "8de1045d310e7e163fc33bb2a0d14b63f3b098aa25cde6a938bf6428bb8f20cc",
       "8b6963c69412a10b52314fb3d3b9d8421ee97997660b50f1c89d12a74811249e",
       "fa7f975dc4f4d578ec7865c5b683b647185351d788ec913e95034d0567385fa5",
@@ -166,11 +167,56 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 164
+    "paragraph_count": 165
   },
-  "overview_commit": "c42178d5348479164705ad9eff2371b7ba348b9d",
-  "overview_digest": "cc942bb23858a40971edebb3ed5e1607d7205917ce2de50c446dc7c971fc216f",
+  "overview_commit": "a367fd2a7100655f549306127ea753b1c8162566",
+  "overview_digest": "4dd12e08e834f1b224f463c90c4e54de7e7acc506eb300641468eda3d8081a01",
   "paragraphs": [
+    {
+      "id": "923478761916df674e938cd4a4510d0860531d841482ed161c0ba982703547a1",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the immediate pre-Hanji-1000 late-Han sequence through [[EmperorXianOfHan|汉献帝]]'s endangered eastward return and [[LiuBei|刘备]]'s loss of [[Xiapi|下邳]]. It adds [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhaoQiLateHan|赵岐]], [[HeYiLateHan|何仪]], [[TaoQianLateHan|陶谦]], [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]], [[MiZhu|糜竺]], and [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]], while extending [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], [[ZhangYangLateHan|张杨]], [[ZhangJiLateHan|张济]], [[LiuBiao|刘表]], [[CaoCao|曹操]], [[YuanShu|袁术]], [[LyuBu|吕布]], [[ZhangFei|张飞]], [[Xuzhou|徐州]], [[PeiCounty|小沛]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], and [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]]. Its core synthesis is that late-Han protection, alliance, and friendship are all materially conditional: armed escorts can become predators around the emperor, and Yuan Shu's promised grain can make Lü Bu turn against Liu Bei before later threat perception pushes the relationship into further reversal. No settled contradiction is recorded; Zhang Fei's drunken-loss shorthand from an earlier source is kept as source-layer variation beside Hanji 999's Cao Bao killing and Xu Dan gate-opening mechanism.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoBaoLateHan",
+        "CaoCao",
+        "DongChengLateHan",
+        "EmperorXianOfHan",
+        "GrainLeverageAllianceBetrayal",
+        "GuoSiLateHan",
+        "HanXianLateHan",
+        "HeYiLateHan",
+        "InterestStructuredAllianceFragility",
+        "LiJueLateHan",
+        "LiuBei",
+        "LiuBiao",
+        "LyuBu",
+        "MiZhu",
+        "PeiCounty",
+        "RuiqiJiangtouZizhiTongjian",
+        "TaoQianLateHan",
+        "ThreatDrivenAllianceReversal",
+        "WartimeAgriculturalLaborCollapse",
+        "Xiapi",
+        "XuDanLateHan",
+        "Xuzhou",
+        "YangFengLateHan",
+        "YuanShu",
+        "ZhangFei",
+        "ZhangJiLateHan",
+        "ZhangYangLateHan",
+        "ZhaoQiLateHan",
+        "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu"
+      ]
+    },
     {
       "id": "8de1045d310e7e163fc33bb2a0d14b63f3b098aa25cde6a938bf6428bb8f20cc",
       "primary_topic": "business-and-markets",

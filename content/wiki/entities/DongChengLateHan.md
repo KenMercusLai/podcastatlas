@@ -2,11 +2,13 @@
 title: "董承 / Dong Cheng (late Han)"
 type: entity
 tags: [person, late-han, court, military]
-sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
 last_updated: 2026-08-24
 ---
 
 # 董承 / Dong Cheng (late Han)
+
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] supplies Dong Cheng's pre-Luoyang-return role. After [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] fight over [[EmperorXianOfHan|汉献帝]], Dong Cheng joins the escort field with [[YangFengLateHan|杨奉]] and [[HanXianLateHan|韩暹]], then becomes dissatisfied with the armed actors dominating the court. He secretly contacts [[ZhangYangLateHan|张杨]] to repair [[LuoyangLateHan|洛阳]] and move the emperor toward the old capital.
 
 [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] places Dong Cheng in the ruined [[LuoyangLateHan|洛阳]] court after [[ZhangYangLateHan|张杨]] and [[YangFengLateHan|杨奉]] leave. Alongside [[HanXianLateHan|韩暹]], he remains near [[EmperorXianOfHan|汉献帝]] and helps guard the court, creating the immediate power environment that later makes his appeal to [[CaoCao|曹操]] consequential.
 
@@ -19,5 +21,5 @@ The episode then turns Dong Cheng into the legitimacy channel for Cao Cao's marc
 ## Connections
 - [[CaoCao|曹操]] and [[CaoHong|曹洪]] - Cao-side actors affected by Dong Cheng's initial obstruction and later appeal.
 - [[HanXianLateHan|韩暹]] - pressure source that changes Dong Cheng's incentives.
-- [[EmperorXianOfHan|汉献帝]] and [[LuoyangLateHan|洛阳]] - court setting of Dong Cheng's source role.
+- [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[EmperorXianOfHan|汉献帝]], [[ZhangYangLateHan|张杨]], and [[LuoyangLateHan|洛阳]] - court-flight and return setting of Dong Cheng's source role.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - adjacent concept because Dong Cheng's switch changes the timing and legitimacy of Cao Cao's move.

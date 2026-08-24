@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7048
+wiki_total_pages: 7056
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1250,6 +1250,9 @@ wiki_pages:
   - key: "Mihuashi"
     title: "米画师 / Mihuashi"
     url: "/wiki/entities/mihuashi/"
+  - key: "MiZhu"
+    title: "糜竺 / Mi Zhu"
+    url: "/wiki/entities/mizhu/"
   - key: "MiuXian"
     title: "缪贤 / Miu Xian"
     url: "/wiki/entities/miuxian/"

@@ -2,11 +2,13 @@
 title: "张济 / Zhang Ji (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, military, china]
-sources: [zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]
+last_updated: 2026-08-24
 ---
 
 # 张济 / Zhang Ji (late Han)
+
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] gives Zhang Ji an earlier emperor-flight role before the Jingzhou branch. After [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] fight over [[EmperorXianOfHan|汉献帝]], Zhang Ji appears to mediate, but the episode says he also wants to move the emperor under his own control toward Hongnong. His role therefore fits the source's wider point that late-Han "protection" can shade into capture.
 
 [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] adds the immediate death scene and political aftermath. Zhang Ji leads troops from Guanzhong into [[Jingzhou|荆州]] and attacks [[Rangcheng|穰城]] in [[NanyangCommandery|南阳郡]], trying to gain a base. He dies during the fighting, and [[LiuBiao|刘表]] uses the aftermath to absorb the remaining soldiers by mourning Zhang Ji rather than celebrating his death.
 
@@ -16,6 +18,7 @@ His death matters because it transfers both troops and family responsibility to 
 
 ## Connections
 - [[ZhangXiu|张绣]] - nephew who inherits his troops.
+- [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[EmperorXianOfHan|汉献帝]] - Hanji 999 mediation/control branch around the emperor's flight.
 - [[LadyZouWancheng|邹氏]] - widow whose status becomes central to the Wancheng insult.
 - [[CaoCao|曹操]] - power whose later conduct toward Lady Zou destabilizes Zhang Xiu's surrender.
 - [[LiuBiao|刘表]] - regional power linked to Zhang Xiu after Zhang Ji's death.

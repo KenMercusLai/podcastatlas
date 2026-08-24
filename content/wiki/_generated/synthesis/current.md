@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: 3054d8bea5cd0dc4bac2fd746dfab774d2d4cb26
-summary: "Current synthesis: durable value comes from matching capability and demand with evidence, distribution, controls, legitimacy, operating fit, and follow-through."
-episode_count: 1361
-source_count: 1361
-paragraph_count: 164
+as_of_overview_commit: a367fd2a7100655f549306127ea753b1c8162566
+summary: "Durable value comes from matching capability and demand with evidence, distribution, controls, legitimacy, operating fit, and follow-through."
+episode_count: 1363
+source_count: 1363
+paragraph_count: 165
 topic_count: 8
 ---
 
@@ -17,7 +17,7 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
-- The burger/lemon source adds that cautious-demand growth depends on operating fit: [[ChinaBurgerExpansion]] and [[StoreWithinStoreFoodservice]] use existing restaurant infrastructure for value-seeking meals, [[YellowLemonPriceCycle]] links agriculture, export disruption, inventory, and B-end beverage procurement, [[SoftDiscountRetail]] and [[HardDiscountRetail]] separate opportunistic inventory from structural low-cost operations, while [[CoachFashionBrand]] and [[KweichowMoutai]] show brand and channel discipline under pricing pressure.
+- [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
 - Public-safety surveillance governance now appears as a local legitimacy problem: [[FlockSafety]] and [[GarrettLangley]] connect [[AutomaticLicensePlateReader]], [[PoliceDataAccessAudit]], [[LocalSurveillanceGovernance]], [[DroneAsFirstResponder]], and [[PublicSafetyPrivacyTradeoff]] to the unresolved question of whether product limits, retention defaults, auditing, transparency, and consequences can reduce [[CivilLibertiesSurveillanceRisk]].
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
@@ -56,7 +56,7 @@ Governance turns formal authority into practice through state capacity, rules, i
 
 ### History and Geopolitics
 
-Historical and geopolitical sources connect older legitimacy, state-capacity, and military patterns with contemporary infrastructure competition and regional security crises.
+Historical and geopolitical sources connect older legitimacy, state-capacity, military, and alliance patterns with contemporary infrastructure competition and regional security crises.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].

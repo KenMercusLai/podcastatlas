@@ -2,8 +2,8 @@
 title: "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性"
 type: concept
 tags: [alliance, strategy, incentives, late-han]
-sources: [zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+last_updated: 2026-08-24
 ---
 
 # Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性
@@ -12,16 +12,19 @@ Interest-structured alliance fragility / 利益结构式联盟脆弱性 enters t
 
 The key mechanism is not abstract disunity. Lü Bu breaks the campaign by offering Han Xian and Yang Feng a better combined frame: they can remember their service to [[EmperorXianOfHan|汉献帝]], avoid Yuan Shu's rebellion-tainted side, and take Yuan Shu's military supplies. The episode therefore treats alliance strength as an incentive structure, not just a count of troops.
 
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] adds an earlier, narrower resource version through [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]]. [[YuanShu|袁术]] cannot rely on a stable alignment against [[LiuBei|刘备]], so he offers grain to [[LyuBu|吕布]] and turns Lü Bu's temporary relationship with Liu Bei into an attack on [[Xiapi|下邳]]. This is alliance fragility under scarcity: the price of switching is paid in food, and the payoff is a city.
+
 The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]] and [[InterestBasedCoalitionSabotage|利益瓦解合纵]]. Coalition self-preservation explains allies who hesitate to spend their own resources for a shared project; interest-based sabotage often attacks coalition organizers before the army forms. Hanji 1018 shows a field coalition already moving, then collapsing because its members can be profitably re-sorted during the campaign.
 
 ## Key Claims
 - An alliance without durable shared interest can be large and still brittle.
 - A shared enemy or temporary patron may not overcome doubts about legitimacy, spoils, and future safety.
+- Scarcity can make an alliance especially fragile when one actor can offer grain, access, or immediate survival support.
 - The most effective counter may be a new incentive bundle, not a direct battlefield answer.
 - Coalition analysis has to ask what each participant can gain by switching, not only what the coalition formally claims to pursue.
 
 ## Connections
 - [[ChenGui|陈珪]] - source diagnostician of the coalition's weak interest structure.
-- [[LyuBu|吕布]], [[YuanShu|袁术]], [[HanXianLateHan|韩暹]], and [[YangFengLateHan|杨奉]] - source actors.
+- [[LyuBu|吕布]], [[YuanShu|袁术]], [[LiuBei|刘备]], [[HanXianLateHan|韩暹]], and [[YangFengLateHan|杨奉]] - source actors.
 - [[ZhangXunYuanShu|张勋]] and [[QiaoRui|桥蕤]] - Yuan Shu-side commanders exposed when the coalition flips.
-- [[InterestReframingPersuasion|利益重构式说服]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[InterestBasedCoalitionSabotage|利益瓦解合纵]] - adjacent alliance and persuasion patterns.
+- [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]], [[InterestReframingPersuasion|利益重构式说服]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[InterestBasedCoalitionSabotage|利益瓦解合纵]] - adjacent alliance and persuasion patterns.

@@ -2,8 +2,8 @@
 title: "沛县 / Pei County"
 type: entity
 tags: [place, qin-han, late-han, china, rebellion]
-sources: [zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
+last_updated: 2026-08-24
 ---
 
 # 沛县 / Pei County
@@ -24,10 +24,13 @@ The episode's Pei County story is a case of [[PeiCountyUprisingMobilization|沛�
 
 [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]] adds the next late-Han "小沛" use. After Liu Bei flees Lü Bu and submits to [[CaoCao|曹操]], Cao Cao sends him toward Xiaopei with troops and grain to gather scattered followers and continue pressure against Lü Bu. This source makes Pei a recovery point inside the [[Xuzhou|徐州]] struggle rather than only Liu Bang's home-county memory.
 
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] adds the earlier Xiaopei assignment that makes Hanji 1008-1009 legible. After [[LyuBu|吕布]] takes [[Xiapi|下邳]] and [[LiuBei|刘备]] surrenders, Lü Bu appoints Liu Bei as Yuzhou inspector and stations him at Xiaopei while keeping [[Xuzhou|徐州]] for himself.
+
 ## Connections
 - [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[TangmuYi|汤沐邑]], [[FengCounty|丰邑 / 丰县]], and [[ImperialHomeCountyTaxExemption|帝王故乡免租徭役]] - late-life homecoming and permanent tax/corvee exemption.
 - [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]], [[YuanShu|袁术]], [[JiLing|纪灵]], [[LiuBei|刘备]], and [[LyuBu|吕布]] - late-Han Xiaopei attack and mediation branch.
 - [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]], [[LiuBei|刘备]], [[CaoCao|曹操]], [[LyuBu|吕布]], and [[Xuzhou|徐州]] - late-Han Xiaopei regrouping branch.
+- [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]], [[Xiapi|下邳]], and [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] - earlier post-surrender stationing after Liu Bei loses Xuzhou.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[LuGongLiuBangFatherInLaw|吕公]], and [[LuZhi|吕雉]] - main source actors in the Pei County branch.
 - [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - concept built from the county-office network.
 - [[CharismaticPoliticalPerformance|造势型政治表演]] - banquet performance staged in Pei County.

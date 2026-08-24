@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7048
+wiki_total_pages: 7056
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "TaoYuanming"
     title: "陶渊明 / Tao Yuanming"
     url: "/wiki/entities/taoyuanming/"
+  - key: "TaoQianLateHan"
+    title: "陶谦 / Tao Qian (late Han)"
+    url: "/wiki/entities/taoqianlatehan/"
   - key: "TakagiNaoko"
     title: "高木直子 / Takagi Naoko"
     url: "/wiki/entities/takaginaoko/"

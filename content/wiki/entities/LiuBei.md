@@ -2,8 +2,8 @@
 title: "刘备 / Liu Bei"
 type: entity
 tags: [person, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
+last_updated: 2026-08-24
 ---
 
 # 刘备 / Liu Bei
@@ -11,6 +11,10 @@ last_updated: 2026-08-23
 刘备 / Liu Bei enters the wiki through [[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] as the person harmed by [[ZhangFei|张飞]]'s drunken loss of Xuzhou. The episode uses Liu Bei's resulting lack of a base to make the Zhang Fei story political rather than merely comic.
 
 His role here is secondary but structurally important. In the source's alcohol frame, the drinker's lapse matters because it transfers cost to allies, dependents, and a wider military project.
+
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] supplies the detailed late-Han Xuzhou loss behind that compact memory. Liu Bei is fighting [[YuanShu|袁术]] around Xuyi and [[Huaiyin|淮阴]] while [[ZhangFei|张飞]] guards [[Xiapi|下邳]]. After Zhang Fei kills [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]] opens Xiapi to [[LyuBu|吕布]], Liu Bei's family is captured, and his force collapses into hunger before [[MiZhu|糜竺]] funds the remnant.
+
+The same source makes Liu Bei's surrender to Lü Bu a survival-first move rather than a voluntary alliance. He has lost Xiapi, been pushed toward Haixi, and faces an army so hungry that the source reports cannibalism. Submitting to Lü Bu and later stationing at [[PeiCounty|小沛]] keeps a damaged organization alive inside a new hierarchy created by [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]].
 
 [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] adds Liu Bei's immediate pre-Hanji-1009 vulnerability. [[YuanShu|袁术]] sends [[JiLing|纪灵]] against him after trying to bind [[LyuBu|吕布]] through marriage, and Liu Bei asks Lü Bu for help. Lü Bu's辕门射戟 mediation saves Liu Bei for the moment, but the next episode shows how quickly that temporary balance collapses.
 
@@ -22,8 +26,9 @@ The same source makes Liu Bei the test case for [[ReputationConstrainedTalentPro
 
 ## Connections
 - [[ZhangFei|张飞]] - subordinate whose drunken mistake affects Liu Bei's base.
+- [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]], [[MiZhu|糜竺]], [[Xiapi|下邳]], [[Xuzhou|徐州]], and [[PeiCounty|小沛]] - Hanji 999 loss, emergency funding, surrender, and regrouping branch.
 - [[YuanShu|袁术]], [[JiLing|纪灵]], [[LyuBu|吕布]], and [[CredibleForceDisplayDeterrence|可信武力展示威慑]] - Hanji 1008 attack and mediation branch.
 - [[CaoCao|曹操]], [[GuoJia|郭嘉]], [[LyuBu|吕布]], and [[PeiCounty|小沛]] - Hanji 1009 flight, protection, and regrouping branch.
 - [[YuanShu|袁术]], [[EmperorXianOfHan|汉献帝]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - Hanji 1015 usurpation-response branch.
-- [[ReputationConstrainedTalentProtection|名声约束下的人才保护]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], and [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] - concepts connecting Liu Bei's vulnerability to wider political consequences.
+- [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]], [[ReputationConstrainedTalentProtection|名声约束下的人才保护]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], and [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] - concepts connecting Liu Bei's vulnerability to wider political consequences.
 - [[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] - source context.

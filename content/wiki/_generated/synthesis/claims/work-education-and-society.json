@@ -270,6 +270,28 @@
       ]
     },
     {
+      "global_candidate": false,
+      "id": "material-supply-and-labor-shape-social-order",
+      "qualifications": [
+        "This is source-scoped to Hanji 999's late-Han warfare and refugee context, not a universal model of work organization.",
+        "The episode frames the agricultural-labor collapse and grain leverage as conditions behind alliance behavior rather than as complete economic history."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]] adds a premodern work-and-society case: [[WartimeAgriculturalLaborCollapse]], [[GrainLeverageAllianceBetrayal]], and [[InterestStructuredAllianceFragility]] show authority and alliance depending on who can keep grain, labor, protection, and family safety intact for [[EmperorXianOfHan]], [[LiuBei]], and [[Xuzhou]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
+        "WartimeAgriculturalLaborCollapse",
+        "GrainLeverageAllianceBetrayal",
+        "InterestStructuredAllianceFragility",
+        "EmperorXianOfHan",
+        "LiuBei",
+        "Xuzhou",
+        "LyuBu",
+        "YuanShu",
+        "MiZhu"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "ai-abundance-creates-contested-labor-outcomes",
       "qualifications": [
@@ -289,6 +311,6 @@
       ]
     }
   ],
-  "summary": "Work, education, and social practice now cluster around implementation, boundaries, responsibility, and grounded self-direction. AI-native youth research, AI cinema, agents, interactive entertainment, companion robots, AI tutors, AI coding, and enterprise Copilot-style adoption lower production friction, but they do not remove human judgment, workflow design, ownership, baselines, rights, labor, energy limits, peer community, or the struggle required for durable learning. EP48 adds that workplace AI readiness is not license access: role-specific use cases, training, governance, business sponsors, and measurement decide whether worker experimentation becomes durable productivity. Non-AI career and service sources reinforce the same pattern: internships, upward management, finance, banking, aviation, creator monetization, household consumption, mission-driven CPG, carbon removal, family political strategy, and prediction markets turn abstract opportunity into staged evidence, operations, trust, and risk control.",
+  "summary": "The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold.",
   "topic_id": "work-education-and-society"
 }

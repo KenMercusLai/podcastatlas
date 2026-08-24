@@ -2,8 +2,8 @@
 title: "Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转"
 type: concept
 tags: [alliance, strategy, psychology, late-han]
-sources: [zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc]
+last_updated: 2026-08-24
 ---
 
 # Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转
@@ -14,13 +14,16 @@ The mechanism differs from ordinary alliance switching. Lü Bu does not merely d
 
 The strategic cost is that the reversal pushes Liu Bei toward [[CaoCao|曹操]]. Lü Bu removes an immediate anxiety but worsens the larger field by converting a possible anti-Cao partner into a Cao-backed opponent. The concept therefore sits beside [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] and [[PowerBasedAllianceRepricing|实力重估式阵营转向]], but it names the protector's fear of an ally's rising force rather than coalition members' search for better payoff.
 
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] clarifies the earlier phase of the same Liu Bei-Lü Bu relationship. Before Lü Bu attacks Liu Bei out of threat perception, he has already betrayed Liu Bei for [[YuanShu|袁术]]'s promised grain and taken [[Xiapi|下邳]]. The wiki keeps that earlier move under [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] because its trigger is supply and opportunity rather than fear of Liu Bei's later troop growth.
+
 ## Key Claims
 - An alliance can reverse when one side's growth makes the former protector feel exposed.
 - The trigger is perceived future danger, not necessarily present betrayal.
+- A prior resource-driven betrayal can create the status inversion that later makes threat-driven reversal possible.
 - Short-term suppression can worsen the strategic field if the attacked ally seeks shelter from a stronger rival.
 - Threat perception can make a militarily strong actor choose a move that weakens his own future coalition options.
 
 ## Connections
 - [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]], [[LyuBu|吕布]], [[LiuBei|刘备]], and [[CaoCao|曹操]] - source case.
-- [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PowerBasedAllianceRepricing|实力重估式阵营转向]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - adjacent alliance-change frames.
+- [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PowerBasedAllianceRepricing|实力重估式阵营转向]], and [[WarringStatesAllianceSwitching|战国同盟转向]] - adjacent alliance-change frames.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - Liu Bei's ability to flee and accept a dangerous host after the reversal.

@@ -2,8 +2,8 @@
 title: "Wartime Agricultural Labor Collapse / 战争抽空农业劳动力"
 type: concept
 tags: [war, famine, agriculture, labor, chu-han]
-sources: [zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh]
+last_updated: 2026-08-24
 ---
 
 # Wartime Agricultural Labor Collapse / 战争抽空农业劳动力
@@ -16,12 +16,15 @@ In the episode, the result is not only hunger but price explosion and social bre
 
 [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] adds a late-Han version of the same agricultural breakdown. The source describes a world where long disorder prevents ordinary cultivation and makes both armies and civilians short of grain. [[CaoCao|曹操]]'s [[TuntianSystem|屯田制]] becomes the institutional answer: displaced people and land are reorganized into protected production around [[Xudu|许都]].
 
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] adds the field-army consequence before the institutional answer. After [[LiuBei|刘备]] loses [[Xiapi|下邳]] and is pushed back by [[YuanShu|袁术]], his force runs out of grain, the source reports cannibalism, and [[MiZhu|糜竺]]'s wealth becomes emergency support. This makes scarcity a direct political lever through [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]], not only a background condition.
+
 ## Key Claims
 - War can destroy food production by removing labor even when the land itself remains present.
 - Military success and rear-base stability can diverge: the same mobilization that sustains campaigns can hollow out agriculture.
 - Price spikes express both scarcity and failed access, connecting this concept to [[FamineEntitlementFailure]].
 - Migration to a food-surplus or less devastated region can become emergency relief when local production has collapsed.
 - Hanji 1008 adds that protected, state-organized farming can be an alternative response when a powerholder has enough administrative control to rebuild production.
+- Hanji 999 adds that scarcity can reshape alliance behavior before any institutional solution exists.
 
 ## Connections
 - [[GuanzhongRegion|关中]], [[LiuBang|刘邦]], [[HanXin|韩信]], and [[XiangYu|项羽]] - Chu-Han setting and competing armies.
@@ -30,3 +33,4 @@ In the episode, the result is not only hunger but price explosion and social bre
 - [[DisasterCivilizationRetreat|灾变中的文明退场]] - extreme social-order breakdown in the source.
 - [[PowerBackedGrainHoarding|权力保护下的乱世囤粮]] and [[RenShiQinMerchant|任氏]] - grain stockpiling branch that profits from the collapse.
 - [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]], [[CaoCao|曹操]], [[TuntianSystem|屯田制]], and [[Xudu|许都]] - late-Han organized-production answer to war-disrupted agriculture.
+- [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]], [[LiuBei|刘备]], [[YuanShu|袁术]], [[LyuBu|吕布]], [[MiZhu|糜竺]], and [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] - late-Han field-army starvation and grain leverage.

@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-24
-as_of_overview_commit: db570d4daf27948bb2336ae11e058e8543c67659
-input_digest: d6ef6d3c0033db0f8ee66a192ab130dcf01c734a3212083f70866dbfa537c028
+as_of_overview_commit: a367fd2a7100655f549306127ea753b1c8162566
+input_digest: 26640ad06949e48ce8bf133b24715957cd65a95e23210ca0b961aa905f10c275
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and social practice now cluster around implementation, boundaries, responsibility, and grounded self-direction. AI-native youth research, AI cinema, agents, interactive entertainment, companion robots, AI tutors, AI coding, and enterprise Copilot-style adoption lower production friction, but they do not remove human judgment, workflow design, ownership, baselines, rights, labor, energy limits, peer community, or the struggle required for durable learning. EP48 adds that workplace AI readiness is not license access: role-specific use cases, training, governance, business sponsors, and measurement decide whether worker experimentation becomes durable productivity. Non-AI career and service sources reinforce the same pattern: internships, upward management, finance, banking, aviation, creator monetization, household consumption, mission-driven CPG, carbon removal, family political strategy, and prediction markets turn abstract opportunity into staged evidence, operations, trust, and risk control.
+The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold.
 
 ## Cross-source Findings
 
@@ -129,6 +129,17 @@ Strategic alignment appears at multiple social scales: [[ChenDeng]], [[ChenGui]]
 **Qualifications:**
 
 - The historical and prediction-market materials are not the same domain; the shared claim is limited to incentives, commitment, and trust under uncertainty.
+
+### Material Supply And Labor Shape Social Order
+
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]] adds a premodern work-and-society case: [[WartimeAgriculturalLaborCollapse]], [[GrainLeverageAllianceBetrayal]], and [[InterestStructuredAllianceFragility]] show authority and alliance depending on who can keep grain, labor, protection, and family safety intact for [[EmperorXianOfHan]], [[LiuBei]], and [[Xuzhou]].
+
+**Evidence:** [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], [[WartimeAgriculturalLaborCollapse]], [[GrainLeverageAllianceBetrayal]], [[InterestStructuredAllianceFragility]], [[EmperorXianOfHan]], [[LiuBei]], [[Xuzhou]], [[LyuBu]], [[YuanShu]], [[MiZhu]]
+
+**Qualifications:**
+
+- This is source-scoped to Hanji 999's late-Han warfare and refugee context, not a universal model of work organization.
+- The episode frames the agricultural-labor collapse and grain leverage as conditions behind alliance behavior rather than as complete economic history.
 
 ### Ai Abundance Creates Contested Labor Outcomes
 

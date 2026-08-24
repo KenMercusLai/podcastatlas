@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？](sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's dangerous eastward return, Dong Cheng/Yang Feng/Han Xian/Zhang Yang's divided escort field, Yuan Shu's attack on Liu Bei, Zhang Fei killing Cao Bao, Lü Bu's grain-induced seizure of Xiapi, and Liu Bei's surrender/regrouping at Xiaopei.
 - [《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？](sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68.md) — 芮淇讲透资治通鉴 episode on Hao Meng's Xiapi night revolt against Lü Bu, Gao Shun and Cao Xing's suppression, Chen Gong's unpunished implication as factional-balance politics, and Emperor Xian's ruined Luoyang return before Yuan Shu's title-ambition setup.
 - [中国迎来汉堡开店潮，国产黄柠檬价格回落](sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543.md) — 声动早咖啡 episode on China burger expansion, domestic yellow-lemon price declines, Alibaba's Lingxi sale, DJI/Insta360 camera competition, Coach China growth, Moutai channel adjustment, and soft versus hard discount retail.
 - [Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety](sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485.md) — All-In interview with Flock Safety CEO Garrett Langley on license-plate readers, privacy criticism, retention defaults, audit assistance, local governance, AI caution, drones, and public-safety tradeoffs.
@@ -1613,6 +1614,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [广陵 / Guangling Commandery](entities/GuanglingCommandery.md) — Place and commandery node used by Hanji 1017 for Chen Deng's Cao-aligned base and by Qinji 130-1 for Zhao Ping's failed anti-Qin target.
 - [枣祗 / Zao Zhi](entities/ZaoZhi.md) — Late-Han official whose屯田 proposal to Cao Cao opens Hanji 1008's agricultural-logistics branch.
 - [任峻 / Ren Jun](entities/RenJun.md) — Cao Cao-side official appointed典农中郎将 to implement屯田 with Zao Zhi around Xudu.
+- [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose struggle with Guo Si over Emperor Xian creates the flight-and-escort crisis before the Luoyang return.
+- [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor paired with Li Jue in the fight over Emperor Xian, making protection and capture hard to separate.
+- [赵岐 / Zhao Qi (late Han)](entities/ZhaoQiLateHan.md) — Official who persuades Liu Biao to send troops, supplies, and grain for Emperor Xian's Luoyang return.
+- [何仪 / He Yi (late Han)](entities/HeYiLateHan.md) — Runan-Yingchuan Yellow Turban remnant leader defeated by Cao Cao before joining Yuan Shu.
+- [陶谦 / Tao Qian (late Han)](entities/TaoQianLateHan.md) — Former Xuzhou governor whose old subordinate Cao Bao remains part of the inherited local order Liu Bei must manage.
+- [曹豹 / Cao Bao (late Han)](entities/CaoBaoLateHan.md) — Former Tao Qian subordinate killed by Zhang Fei at Xiapi, triggering disorder that lets Lü Bu enter.
+- [许耽 / Xu Dan (late Han)](entities/XuDanLateHan.md) — Liu Bei-side subordinate who opens Xiapi to Lü Bu after Cao Bao's killing destabilizes the city.
+- [糜竺 / Mi Zhu](entities/MiZhu.md) — Donghai supporter who uses family wealth to fund Liu Bei's starving remnant after the loss of Xiapi.
 - [纪灵 / Ji Ling](entities/JiLing.md) — Yuan Shu-side commander whose attack on Liu Bei is stopped by Lü Bu's辕门射戟.
 - [许都 / Xudu](entities/Xudu.md) — Cao Cao's late-Han court center after Emperor Xian's relocation, later becoming Hanji 1008's first major屯田 implementation site.
 - [韩暹 / Han Xian (late Han)](entities/HanXianLateHan.md) — Late-Han military actor who escorts Emperor Xian back to Luoyang, pressures Dong Cheng into calling Cao Cao, and later leaves Yuan Shu's coalition.
@@ -8537,6 +8546,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
 - [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Hanji 1006 Man Chong/Cao Hong pattern where Cao Cao backs legal enforcement against kinship-backed clients to discipline clan privilege and reassure officials.
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Hanji 1008 concept for Cao Cao's state-directed agricultural logistics, turning displaced labor, land, offices, and storage into campaign grain capacity.
+- [Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛](concepts/GrainLeverageAllianceBetrayal.md) — Hanji 999 pattern where Yuan Shu's promised grain lets Lü Bu seize Xiapi from Liu Bei, showing scarcity as an alliance-switching lever.
 - [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Hanji 1008辕门射戟 pattern where a bounded public display of force makes rival parties believe intervention is credible enough to withdraw.
 - [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.
 - [Reputation-Constrained Talent Protection / 名声约束下的人才保护](concepts/ReputationConstrainedTalentProtection.md) — Hanji 1009 Guo Jia/Cao Cao pattern where killing a dangerous but shelter-seeking hero would damage the camp's ability to attract capable people.

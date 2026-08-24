@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-24
-as_of_overview_commit: aae74e625f772fb4f49d209776ef3a9e4dbfebfb
-input_digest: edaa81184a9f1598980609ef0f6f96def2b0b1c08e044c46efd134d38b7e7e86
+as_of_overview_commit: a367fd2a7100655f549306127ea753b1c8162566
+input_digest: a4b1367d063e02b8106a651e40f399f2729792ecf0dd6a8e9123d24cde8e5e00
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics input now links contemporary infrastructure strategy with older state-capacity and legitimacy patterns. The Marketplace Tech undersea-cable source shows physical internet routes, landing points, supplier trust, repair capacity, and route redundancy becoming geopolitical terrain in U.S.-China competition while keeping sabotage risk qualified as low probability. Hanji 1002 shows late-Han legitimacy as both a trap for Yuan Shu and a window for Cao Cao; Hanji 1003-1004 show Cao Cao's court access and relocation as condition-reading, with Dong Zhao clearing Yang Feng before ruined Luoyang becomes a Xu relocation plan and Sun Jing supplying maneuver in Kuaiji; Hanji 1009 adds alliance reversal, talent-reputation constraints, and refusal to launder betrayal; Hanji 1010 adds Liu Biao's defensive Jingzhou order as a bounded alternative to dismissing him as a pretty fool; Hanji 1011 adds borrowed-knife killing as reputation-preserving delegated violence; Hanji 1014 adds Cao Cao's household settlement, retreat discipline, and adviser confidence; Hanji 1015-1016 show title order and marriage alliances redirecting war exposure; Hanji 1019 shows local order protecting people while remaining exposed to leadership decapitation; early Chinese state power becomes durable through enforceable administrative systems that still require political acceptance; and mobile-phone leadership shifts when standards, platforms, channels, and supply-chain ecosystems move together. The Troubles episode adds Northern Ireland in 1968-1969 as a historical escalation case where discrimination, institutional memory, street mobilization, paramilitary spoilers, Irish government rhetoric, and British state intervention converted protest politics into open conflict.
+The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's civil-rights-to-street-war threshold, physical internet geopolitics, and handset ecosystem shifts. The late-Han sequence emphasizes that court access, protection, title legitimacy, local order, and alliance choice are materially conditional: escorts, grain, reputation, family survival, and recognitional timing matter as much as formal office or personal loyalty.
 
 ## Cross-source Findings
 
@@ -29,26 +29,27 @@ The history-and-geopolitics input now links contemporary infrastructure strategy
 
 ### Late Han Control Requires Relocation And Maneuver
 
-[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] and [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] make late-Han control a staged condition-reading problem: [[DongZhaoLateHan]] first uses [[ProactiveAdviserInitiative]] and [[InterestReframingPersuasion]] to turn [[YangFengLateHan]]'s route control into temporary cooperation for [[CaoCao]], [[DongChengLateHan]]'s appeal against [[HanXianLateHan]] opens [[LuoyangLateHan]], and Dong Zhao then turns ruined Luoyang, [[EmperorXianOfHan]]'s supply needs, and Yang Feng's likely reaction into [[StrategicCapitalRelocation]] toward [[Xudu]], while [[SunJingLateHan]] helps [[SunCe]] break [[WangLangLateHan]]'s [[KuaijiCommandery]] defense through rear attack and deception.
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]], [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]], and [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] make late-Han control a staged condition-reading problem: [[EmperorXianOfHan]]'s eastward return depends on escorts and supplies that can become predatory or scarce around [[LiJueLateHan]], [[GuoSiLateHan]], [[DongChengLateHan]], [[YangFengLateHan]], and [[HanXianLateHan]], then [[DongZhaoLateHan]] uses [[ProactiveAdviserInitiative]] and [[InterestReframingPersuasion]] to turn Yang Feng's route control into temporary cooperation for [[CaoCao]] before converting ruined [[LuoyangLateHan]] into [[StrategicCapitalRelocation]] toward [[Xudu]].
 
-**Evidence:** [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]], [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]], [[DongZhaoLateHan]], [[ProactiveAdviserInitiative]], [[InterestReframingPersuasion]], [[YangFengLateHan]], [[CaoCao]], [[DongChengLateHan]], [[HanXianLateHan]], [[LuoyangLateHan]], [[EmperorXianOfHan]], [[StrategicCapitalRelocation]], [[Xudu]], [[SunJingLateHan]], [[SunCe]], [[WangLangLateHan]], [[KuaijiCommandery]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]], [[LeaderPersonalExposure]]
+**Evidence:** [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]], [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]], [[EmperorXianOfHan]], [[LiJueLateHan]], [[GuoSiLateHan]], [[DongChengLateHan]], [[YangFengLateHan]], [[HanXianLateHan]], [[DongZhaoLateHan]], [[ProactiveAdviserInitiative]], [[InterestReframingPersuasion]], [[CaoCao]], [[LuoyangLateHan]], [[StrategicCapitalRelocation]], [[Xudu]], [[SunJingLateHan]], [[SunCe]], [[WangLangLateHan]], [[KuaijiCommandery]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]], [[LeaderPersonalExposure]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1003's Dong Zhao-Yang Feng access prelude, Hanji 1004's Dong Zhao relocation plan, and the Sun Jing Kuaiji campaign branch.
+- This claim is source-scoped to Hanji 999's endangered eastward return, Hanji 1003's Dong Zhao-Yang Feng access prelude, Hanji 1004's Dong Zhao relocation plan, and the Sun Jing Kuaiji campaign branch.
 - Dong Zhao's underrecognized-genius framing and Zhang Yang's mixed role are preserved as Hanji 1003's source interpretation, not as a global ranking of late-Han advisers.
 - Sun Ce's later-death foreshadowing is preserved as the episode's risk interpretation, not as a complete causal biography.
 
 ### Late Han Alliance Reversal Is Reputation Constrained
 
-Hanji 1009 treats late-Han alliance movement as a reputation problem: [[ThreatDrivenAllianceReversal]] pushes [[LiuBei]] from [[LyuBu]] toward [[CaoCao]], [[GuoJia]] frames [[ReputationConstrainedTalentProtection]] as necessary for future talent reception, and [[YuanHuanLateHan]] refuses [[MoralDisengagementRationalization]] that would launder betrayal through slander.
+Hanji 999 and 1009 treat late-Han alliance movement as materially and reputationally conditional: [[GrainLeverageAllianceBetrayal]] lets [[YuanShu]] use promised grain to pull [[LyuBu]] against [[LiuBei]] at [[Xiapi]] and [[Xuzhou]], while [[ThreatDrivenAllianceReversal]] later pushes Liu Bei toward [[CaoCao]], [[GuoJia]] frames [[ReputationConstrainedTalentProtection]] as necessary for future talent reception, and [[YuanHuanLateHan]] refuses [[MoralDisengagementRationalization]] that would launder betrayal through slander.
 
-**Evidence:** [[ThreatDrivenAllianceReversal]], [[LiuBei]], [[LyuBu]], [[CaoCao]], [[GuoJia]], [[ReputationConstrainedTalentProtection]], [[YuanHuanLateHan]], [[MoralDisengagementRationalization]]
+**Evidence:** [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], [[GrainLeverageAllianceBetrayal]], [[YuanShu]], [[LyuBu]], [[LiuBei]], [[Xiapi]], [[Xuzhou]], [[ThreatDrivenAllianceReversal]], [[CaoCao]], [[GuoJia]], [[ReputationConstrainedTalentProtection]], [[YuanHuanLateHan]], [[MoralDisengagementRationalization]], [[CaoBaoLateHan]], [[XuDanLateHan]], [[ZhangFei]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1009's Liu Bei, Lu Bu, Cao Cao, Guo Jia, and Yuan Huan sequence.
+- This claim is source-scoped to Hanji 999's Liu Bei-Lu Bu-Xuzhou sequence and Hanji 1009's Liu Bei, Lu Bu, Cao Cao, Guo Jia, and Yuan Huan sequence.
 - The episode's masculinity and Dunning-Kruger readings are retained as interpretive frames, not as independent proof of inner motive.
+- Zhang Fei's drunken-loss shorthand from an earlier source is preserved as source-layer variation beside Hanji 999's Cao Bao killing and Xu Dan gate-opening mechanism.
 
 ### Late Han Liu Biao Local Order Has Strategic Ceiling
 

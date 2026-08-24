@@ -2,13 +2,15 @@
 title: "吕布 / Lü Bu"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
 last_updated: 2026-08-24
 ---
 
 # 吕布 / Lü Bu
 
-吕布 / Lü Bu is developed across the Hanji 1000, Hanji 1008-1009, and Hanji 1015-1019 late-Han branch as a militarily dangerous but politically unstable powerholder. [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] backfills an internal crisis at [[Xiapi|下邳]]: [[HaoMeng|郝萌]]'s night revolt reaches his headquarters, forces him to flee to [[GaoShun|高顺]], and leaves him deciding what to do after [[CaoXingLateHan|曹性]] accuses [[ChenGongLateHan|陈宫]]. The episode reads his non-punishment of Chen Gong through [[LyuBuFactionalBalance|吕布集团派系平衡]] rather than only as gullibility.
+吕布 / Lü Bu is developed across the Hanji 999-1000, Hanji 1008-1009, and Hanji 1015-1019 late-Han branch as a militarily dangerous but politically unstable powerholder. [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] gives the first Xuzhou status inversion. [[YuanShu|袁术]] offers grain if Lü Bu attacks [[LiuBei|刘备]]'s [[Xiapi|下邳]] rear, and after [[ZhangFei|张飞]] kills [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]] opens the city. Lü Bu captures Liu Bei's family and turns from Liu Bei's guest into the holder of Xuzhou, making the episode a case of [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] before his later threat-driven attack on Liu Bei.
+
+[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] backfills an internal crisis at [[Xiapi|下邳]] after that status inversion: [[HaoMeng|郝萌]]'s night revolt reaches his headquarters, forces him to flee to [[GaoShun|高顺]], and leaves him deciding what to do after [[CaoXingLateHan|曹性]] accuses [[ChenGongLateHan|陈宫]]. The episode reads his non-punishment of Chen Gong through [[LyuBuFactionalBalance|吕布集团派系平衡]] rather than only as gullibility.
 
 [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] first gives him a successful mediation moment: after [[YuanShu|袁术]] sends [[JiLing|纪灵]] against [[LiuBei|刘备]], Lü Bu judges that Liu Bei's fall would expose himself to Yuan Shu's wider encirclement and uses辕门射戟 to force both sides to withdraw. The page treats this as [[CredibleForceDisplayDeterrence|可信武力展示威慑]].
 
@@ -34,6 +36,7 @@ The later half of Hanji 1018 also shows the cost of Lü Bu's short horizon. He i
 
 ## Connections
 - [[HaoMeng|郝萌]], [[CaoXingLateHan|曹性]], [[ChenGongLateHan|陈宫]], [[GaoShun|高顺]], [[ZhangLiao|张辽]], and [[LyuBuFactionalBalance|吕布集团派系平衡]] - Hanji 1000 internal revolt and factional non-punishment branch.
+- [[YuanShu|袁术]], [[LiuBei|刘备]], [[ZhangFei|张飞]], [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]], and [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] - Hanji 999 grain-backed seizure of Xiapi.
 - [[LiuBei|刘备]], [[YuanShu|袁术]], [[JiLing|纪灵]], and [[CredibleForceDisplayDeterrence|可信武力展示威慑]] - Hanji 1008辕门射戟 mediation branch.
 - [[LiuBei|刘备]], [[YuanHuanLateHan|袁涣]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], and [[MoralDisengagementRationalization|道德推脱式自我合理化]] - Hanji 1009 ally-reversal and abusive-letter branch.
 - [[GuoJia|郭嘉]], [[XunYu|荀彧]], [[YuanShao|袁绍]], and [[GongsunZan|公孙瓒]] - Hanji 1015 eastern-flank timing branch.

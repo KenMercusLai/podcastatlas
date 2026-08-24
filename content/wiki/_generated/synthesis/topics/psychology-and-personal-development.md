@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-24
-as_of_overview_commit: e4c2323e8804a75847bed94f9b485fb61739d226
-input_digest: beeed61f981e6db32f03086f56fb9e8be0f42f1f92c5f05fa7cb5080e14a12e3
+as_of_overview_commit: a367fd2a7100655f549306127ea753b1c8162566
+input_digest: 8d36919453f6bd337ebaf5c52893b2ed77ed9e0e213a684faa598f70e2973f71
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, and market excitement can hide fragile assumptions. The Unitree source adds a small public-market and robotics variant: excitement around humanoid robots and emotionally resonant robot experiences still needs product-market fit, repeat-purchase evidence, and valuation discipline.
+The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
 
 ## Cross-source Findings
 
@@ -56,6 +56,17 @@ The psychology and personal-development material emphasizes calibrated judgment:
 
 - The source stops before the night attack, so it explains the psychological and status precondition rather than the whole military disaster.
 - Hanji 1013's Zhou form is preserved as a transcript variant for the same Wancheng woman.
+
+### Relationship Trust Is Condition Dependent
+
+[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]] adds a trust-fragility case: [[InterestStructuredAllianceFragility]] and [[GrainLeverageAllianceBetrayal]] show friendship and alliance around [[LiuBei]], [[LyuBu]], and [[YuanShu]] changing when grain, protection, family safety, and survival pressure shift.
+
+**Evidence:** [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], [[InterestStructuredAllianceFragility]], [[GrainLeverageAllianceBetrayal]], [[LiuBei]], [[LyuBu]], [[YuanShu]], [[WartimeAgriculturalLaborCollapse]], [[CaoBaoLateHan]], [[XuDanLateHan]], [[ZhangFei]]
+
+**Qualifications:**
+
+- This is a historical political-military psychology case, not a standalone claim about all interpersonal trust.
+- Zhang Fei's drunken-loss shorthand remains source-layer variation beside Hanji 999's Cao Bao killing and Xu Dan gate-opening mechanism.
 
 ### Judgment Needs Fit Between Ambition And Conditions
 

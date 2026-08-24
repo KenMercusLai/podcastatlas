@@ -7627,6 +7627,10 @@
     "title": "曹安民 / Cao Anmin",
     "url": "/wiki/entities/caoanmin/"
   },
+  "CaoBaoLateHan": {
+    "title": "曹豹 / Cao Bao (late Han)",
+    "url": "/wiki/entities/caobaolatehan/"
+  },
   "CaoBin": {
     "title": "曹彬 / Cao Bin",
     "url": "/wiki/entities/caobin/"
@@ -18591,6 +18595,10 @@
     "title": "Grain And Border Coercion / 粮食与封边胁迫",
     "url": "/wiki/concepts/grainbordercoercion/"
   },
+  "GrainLeverageAllianceBetrayal": {
+    "title": "Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛",
+    "url": "/wiki/concepts/grainleveragealliancebetrayal/"
+  },
   "GrandViewGarden": {
     "title": "大观园 / Grand View Garden",
     "url": "/wiki/entities/grandviewgarden/"
@@ -19042,6 +19050,10 @@
   "GuoQinLun": {
     "title": "《过秦论》 / Guo Qin Lun",
     "url": "/wiki/entities/guoqinlun/"
+  },
+  "GuoSiLateHan": {
+    "title": "郭汜 / Guo Si (late Han)",
+    "url": "/wiki/entities/guosilatehan/"
   },
   "GuoWei": {
     "title": "郭威 / Guo Wei",
@@ -19778,6 +19790,10 @@
   "HeYan": {
     "title": "何晏 / He Yan",
     "url": "/wiki/entities/heyan/"
+  },
+  "HeYiLateHan": {
+    "title": "何仪 / He Yi (late Han)",
+    "url": "/wiki/entities/heyilatehan/"
   },
   "HeadAndShoulders": {
     "title": "Head & Shoulders / 海飞丝",
@@ -25843,6 +25859,10 @@
     "title": "李菁 / Li Jing (Sanlian)",
     "url": "/wiki/entities/lijingsanlian/"
   },
+  "LiJueLateHan": {
+    "title": "李傕 / Li Jue (late Han)",
+    "url": "/wiki/entities/lijuelatehan/"
+  },
   "LiKaShing": {
     "title": "Li Ka-shing / 李嘉诚",
     "url": "/wiki/entities/likashing/"
@@ -29218,6 +29238,10 @@
   "MiXin": {
     "title": "芈心 / Mi Xin / Later Chu Huai Wang",
     "url": "/wiki/entities/mixin/"
+  },
+  "MiZhu": {
+    "title": "糜竺 / Mi Zhu",
+    "url": "/wiki/entities/mizhu/"
   },
   "MiaEcommerce": {
     "title": "蜜芽 / Mia",
@@ -42703,6 +42727,10 @@
     "title": "Tanya Sujohn",
     "url": "/wiki/entities/tanyasujohn/"
   },
+  "TaoQianLateHan": {
+    "title": "陶谦 / Tao Qian (late Han)",
+    "url": "/wiki/entities/taoqianlatehan/"
+  },
   "TaoYuanming": {
     "title": "陶渊明 / Tao Yuanming",
     "url": "/wiki/entities/taoyuanming/"
@@ -48115,6 +48143,10 @@
     "title": "许褚 / Xu Chu",
     "url": "/wiki/entities/xuchu/"
   },
+  "XuDanLateHan": {
+    "title": "许耽 / Xu Dan (late Han)",
+    "url": "/wiki/entities/xudanlatehan/"
+  },
   "XuFu": {
     "title": "Xu Fu / 徐福",
     "url": "/wiki/entities/xufu/"
@@ -49830,6 +49862,10 @@
   "ZhaoPu": {
     "title": "赵普 / Zhao Pu",
     "url": "/wiki/entities/zhaopu/"
+  },
+  "ZhaoQiLateHan": {
+    "title": "赵岐 / Zhao Qi (late Han)",
+    "url": "/wiki/entities/zhaoqilatehan/"
   },
   "ZhaoServantEnvoy": {
     "title": "赵厮养卒 / Zhao Servant Envoy",
@@ -53982,6 +54018,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu": {
+    "title": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu/"
   },
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": {
     "title": "《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了",
