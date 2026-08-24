@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-24
-as_of_overview_commit: a367fd2a7100655f549306127ea753b1c8162566
-input_digest: a4b1367d063e02b8106a651e40f399f2729792ecf0dd6a8e9123d24cde8e5e00
+as_of_overview_commit: 6a2f03a039ffdaa16448fab83a20178abba6d09a
+input_digest: 066804851bdb49f61b8449d4d6c26a2d0706bc6b6281fd7e14f17e7775d2d804
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's civil-rights-to-street-war threshold, physical internet geopolitics, and handset ecosystem shifts. The late-Han sequence emphasizes that court access, protection, title legitimacy, local order, and alliance choice are materially conditional: escorts, grain, reputation, family survival, and recognitional timing matter as much as formal office or personal loyalty.
+Hanji 997 adds the immediate pre-Hanji-999 loyalty branch: Zang Hong's death shows old-master obligation and renyi colliding with current alignment, Yuan Shao's authority, Cao Cao's alliance background, and survival-oriented condition reading. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's civil-rights-to-street-war threshold, physical internet geopolitics, and handset ecosystem shifts. The late-Han sequence emphasizes that court access, protection, title legitimacy, local order, and alliance choice are materially conditional: escorts, grain, reputation, family survival, and recognitional timing matter as much as formal office or personal loyalty.
 
 ## Cross-source Findings
 
@@ -26,6 +26,17 @@ The history and geopolitics material now spans late-Han state collapse, Warring 
 
 - This claim is source-scoped to the Marketplace Tech episode with Erin Murphy on subsea cable funding and risk.
 - The source qualifies sabotage as low probability and says most cable damage comes from accidents, natural causes, or wear, so the geopolitical claim is about resilience planning and trusted routes rather than proof of frequent hostile action.
+
+### Late Han Loyalty Needs Current Alignment
+
+Hanji 997 adds the pre-Hanji-999 loyalty branch: [[ZangHong]] dies from old-master fidelity to [[ZhangChaoLateHan]], but the episode frames that loyalty against current superior [[YuanShao]], [[CaoCao]]'s alliance background, [[DeathPartyLoyalty]], and [[EmotionalAttachmentPoliticalDistortion]], making the event both a renyi exemplar and a failure of survival-oriented condition reading.
+
+**Evidence:** [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]], [[ZangHong]], [[ZhangChaoLateHan]], [[ZhangMiaoLateHan]], [[ChengLongLateHan]], [[YuanShao]], [[CaoCao]], [[DeathPartyLoyalty]], [[RetainerReciprocityEthic]], [[EmotionalAttachmentPoliticalDistortion]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 997 and should not be generalized to every late-Han loyalty death.
+- The episode preserves Cheng Long's renyi as morally serious while denying that shared death alone proves strategic soundness.
 
 ### Late Han Control Requires Relocation And Maneuver
 

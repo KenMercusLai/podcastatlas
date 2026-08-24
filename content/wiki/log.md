@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？
+
+Added source page for Hanji 997: Zang Hong's capture and death after condemning Yuan Shao for failing to rescue Zhang Chao, Cheng Long's remonstrance and shared death, and the host's "情关" reading of loyalty, righteousness, resentment, and political rigidity. Created Zang Hong, Zhang Chao (Late Han), Zhang Miao (Late Han), Cheng Long (Late Han), and Emotional Attachment Political Distortion; updated overview, index, Yuan Shao, Cao Cao, Death-Party Loyalty vs Official Duty, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source preserves Zang Hong as both courageous and politically inflexible rather than collapsing him into either pure martyr or simple rebel.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城
 
 Added source page for Hanji 998: Gongsun Zan's post-Liu Yu Youzhou collapse, backlash from Xianyu Fu, Yan Rou, Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces, defections across Youzhou, and Gongsun Zan's move into Yijing fortress. Created Liu Yu (Late Han), Xianyu Fu, Yan Rou, Zhou Dan (Late Han), Liu He (Late Han), Wuhuan, Xianbei, Youzhou (Late Han), Yi County (Late Han), Yijing Fortress, Baima Yicong, Dong Zhuo, Meiwu Fortress, Southern Xiongnu, Yufuluo Chanyu, Huchuquan Chanyu, and Fortress Security Illusion; updated overview, index, Gongsun Zan, Yuan Shao, Xiongnu, People-Based Political Security, Talent as State Treasure, Court Feedback Collapse, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, Political Survival First, and Fief Security Illusion. No settled contradiction found; the source's "afraid to die" contrast and fortress-safety lesson are preserved as source-scoped interpretation.
@@ -10961,3 +10965,7 @@ Ran health, identity validation, and lint. Health found no empty/stub files, ind
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] lint | Wiki lint check
+
+Ran health, identity validation, and lint. Health passed with no empty/stub files, index drift, or source-log coverage gaps across 13,747 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 13,747 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; rerun with a provider-qualified LiteLLM model and required API key for contradiction, stale-content, and data-gap analysis. Report returned in-session; `wiki/lint-report.md` was not updated.

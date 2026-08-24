@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b7bc9830b533d00f552a6c6ccb0ecb3c4158685df25be0c88cefde2415fac7d0",
       "923478761916df674e938cd4a4510d0860531d841482ed161c0ba982703547a1",
       "8de1045d310e7e163fc33bb2a0d14b63f3b098aa25cde6a938bf6428bb8f20cc",
       "8b6963c69412a10b52314fb3d3b9d8421ee97997660b50f1c89d12a74811249e",
@@ -167,11 +168,40 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 165
+    "paragraph_count": 166
   },
-  "overview_commit": "14a0402ec36ecea32ed4893f6ff8673b2107f015",
-  "overview_digest": "2a470544089da3755601550b3e9440783975d02dc79d38f0b4e12c9b9310f46e",
+  "overview_commit": "6a2f03a039ffdaa16448fab83a20178abba6d09a",
+  "overview_digest": "421b1733e76e6dea5f52f3231a9d36b3c25aaa5b370bec13baad881168062520",
   "paragraphs": [
+    {
+      "id": "b7bc9830b533d00f552a6c6ccb0ecb3c4158685df25be0c88cefde2415fac7d0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the immediate pre-Hanji-998 late-Han sequence through [[ZangHong|臧洪]]'s death. It adds [[ZangHong|臧洪]], [[ZhangChaoLateHan|张超]], [[ZhangMiaoLateHan|张邈]], [[ChengLongLateHan|成龙]], and [[EmotionalAttachmentPoliticalDistortion|情执政治判断失衡]], while extending [[YuanShao|袁绍]], [[CaoCao|曹操]], [[DeathPartyLoyalty|死党之义与守职奉上]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[RetainerReciprocityEthic|士为知己者死]]. Its core synthesis is that late-Han loyalty must be read with political context: Zang Hong's old-master fidelity to [[ZhangChaoLateHan|张超]] is morally powerful, but the episode treats his refusal to submit to current superior [[YuanShao|袁绍]] as an emotion-driven failure to account for alliance structure, office duty, and survival room. No settled contradiction is recorded; Cheng Long's shared death remains a source-scoped renyi exemplar rather than proof that Zang Hong's strategy was politically sound.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChengLongLateHan",
+        "DeathPartyLoyalty",
+        "EmotionalAttachmentPoliticalDistortion",
+        "PoliticalSurvivalFirst",
+        "RetainerReciprocityEthic",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "YuanShao",
+        "ZangHong",
+        "ZhangChaoLateHan",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax"
+      ]
+    },
     {
       "id": "923478761916df674e938cd4a4510d0860531d841482ed161c0ba982703547a1",
       "primary_topic": "history-and-geopolitics",

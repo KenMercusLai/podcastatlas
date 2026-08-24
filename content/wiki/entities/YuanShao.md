@@ -2,11 +2,15 @@
 title: "袁绍 / Yuan Shao"
 type: entity
 tags: [person, late-han, warlord, china]
-sources: [zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+sources: [zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
 last_updated: 2026-08-24
 ---
 
 # 袁绍 / Yuan Shao
+
+[[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]] backfills Yuan Shao's earlier [[ZangHong|臧洪]] case. After Zang Hong resists because Yuan Shao did not rescue [[ZhangChaoLateHan|张超]] from [[CaoCao|曹操]], Yuan Shao captures him and initially wants to spare him if he submits. Zang Hong refuses, so Yuan Shao executes him.
+
+The source keeps Yuan Shao morally exposed without making the decision one-sided. Zang Hong condemns Yuan Shao's failure to honor the friendship tie through [[ZhangMiaoLateHan|张邈]], but the host also notes that Yuan Shao is Zang Hong's current superior and that Cao Cao is Yuan Shao's ally. Yuan Shao therefore becomes the powerholder in a [[DeathPartyLoyalty|死党之义与守职奉上]] conflict where old-master loyalty collides with current office and alliance structure.
 
 [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] backfills Yuan Shao's early status collision with [[CaoCao|曹操]] after [[EmperorXianOfHan|汉献帝]] reaches [[Xudu|许都]]. The court first reproaches Yuan Shao for having territory and troops but not sending rescue forces, then appoints him taiwei and Marquis of Ye. Yuan Shao resents that Cao Cao still holds the higher great-general title and says Cao Cao is using the emperor to command him.
 
@@ -27,6 +31,7 @@ Hanji 1014 supplies the immediate contrast frame before that sequencing. Yuan Sh
 The page is source-scoped. Hanji 1016 does not narrate Yuan Shao's broader career; it uses the appointment to show that Han-court titles still matter in the late-Han competition. Yuan Shao receives an official place inside the imperial naming order, while Yuan Shu's self-claimed imperial name makes him a target.
 
 ## Connections
+- [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]], [[ZangHong|臧洪]], [[ZhangChaoLateHan|张超]], [[ZhangMiaoLateHan|张邈]], and [[ChengLongLateHan|成龙]] - loyalty-conflict and execution branch.
 - [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[CaoCao|曹操]], [[EmperorXianOfHan|汉献帝]], and [[StrategicTitleConcession|战略性名位让步]] - early great-general title concession branch.
 - [[GuoJia|郭嘉]] - adviser who leaves Yuan Shao after judging his talent-use and decision-making limits.
 - [[EmperorXianOfHan|汉献帝]] - ruler whose name authorizes Yuan Shao's appointment.

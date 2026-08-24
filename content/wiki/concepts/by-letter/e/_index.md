@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5304
+wiki_total_pages: 5305
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "EmotionRegulationToolkit"
     title: "Emotion Regulation Toolkit / 情绪调节工具箱"
     url: "/wiki/concepts/emotionregulationtoolkit/"
+  - key: "EmotionalAttachmentPoliticalDistortion"
+    title: "Emotional Attachment Political Distortion / 情执政治判断失衡"
+    url: "/wiki/concepts/emotionalattachmentpoliticaldistortion/"
   - key: "EmotionalBrandRelationship"
     title: "Emotional Brand Relationship"
     url: "/wiki/concepts/emotionalbrandrelationship/"

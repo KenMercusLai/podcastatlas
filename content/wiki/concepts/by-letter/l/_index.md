@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5304
+wiki_total_pages: 5305
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"

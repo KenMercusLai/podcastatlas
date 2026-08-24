@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-24
-as_of_overview_commit: a367fd2a7100655f549306127ea753b1c8162566
-input_digest: 8d36919453f6bd337ebaf5c52893b2ed77ed9e0e213a684faa598f70e2973f71
+as_of_overview_commit: 6a2f03a039ffdaa16448fab83a20178abba6d09a
+input_digest: b482846db3cd45f47d1349b725afa88a0ef1f13aa8701f55c63024ffa987cb78
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
+Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
 
 ## Cross-source Findings
 
@@ -45,6 +45,17 @@ The psychology and personal-development material emphasizes calibrated judgment:
 **Qualifications:**
 
 - The evidence is source-scoped to banking workplace discussions.
+
+### Emotional Attachment Can Distort Judgment
+
+Hanji 997 adds an attachment-and-judgment case: [[EmotionalAttachmentPoliticalDistortion]] shows [[ZangHong]] turning loyalty to [[ZhangChaoLateHan]] into a reading frame that overrides current superior [[YuanShao]], alliance structure around [[CaoCao]], and [[PoliticalSurvivalFirst]] constraints.
+
+**Evidence:** [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]], [[EmotionalAttachmentPoliticalDistortion]], [[ZangHong]], [[ZhangChaoLateHan]], [[YuanShao]], [[CaoCao]], [[DeathPartyLoyalty]], [[RetainerReciprocityEthic]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]]
+
+**Qualifications:**
+
+- This is a historical political-psychology reading, not a clinical claim about attachment.
+- The moral value of loyalty is preserved; the judgment problem is the episode's claim that emotion overrides current office, alliance, and survival constraints.
 
 ### Private Desire Can Break New Trust
 

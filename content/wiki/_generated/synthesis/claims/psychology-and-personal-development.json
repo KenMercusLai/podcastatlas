@@ -41,6 +41,28 @@
     },
     {
       "global_candidate": false,
+      "id": "emotional-attachment-can-distort-judgment",
+      "qualifications": [
+        "This is a historical political-psychology reading, not a clinical claim about attachment.",
+        "The moral value of loyalty is preserved; the judgment problem is the episode's claim that emotion overrides current office, alliance, and survival constraints."
+      ],
+      "statement": "Hanji 997 adds an attachment-and-judgment case: [[EmotionalAttachmentPoliticalDistortion]] shows [[ZangHong]] turning loyalty to [[ZhangChaoLateHan]] into a reading frame that overrides current superior [[YuanShao]], alliance structure around [[CaoCao]], and [[PoliticalSurvivalFirst]] constraints.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax",
+        "EmotionalAttachmentPoliticalDistortion",
+        "ZangHong",
+        "ZhangChaoLateHan",
+        "YuanShao",
+        "CaoCao",
+        "DeathPartyLoyalty",
+        "RetainerReciprocityEthic",
+        "XingshiqingStrategicAssessment",
+        "PoliticalSurvivalFirst"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "private-desire-can-break-new-trust",
       "qualifications": [
         "The source stops before the night attack, so it explains the psychological and status precondition rather than the whole military disaster.",
@@ -117,6 +139,6 @@
       ]
     }
   ],
-  "summary": "The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.",
+  "summary": "Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.",
   "topic_id": "psychology-and-personal-development"
 }

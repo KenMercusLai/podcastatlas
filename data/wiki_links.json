@@ -8735,6 +8735,10 @@
     "title": "程静 / Cheng Jing",
     "url": "/wiki/entities/chengjing/"
   },
+  "ChengLongLateHan": {
+    "title": "成龙 / Cheng Long (Late Han)",
+    "url": "/wiki/entities/chenglonglatehan/"
+  },
   "Chengdu": {
     "title": "Chengdu / 成都",
     "url": "/wiki/entities/chengdu/"
@@ -14358,6 +14362,10 @@
   "EmotionRegulationToolkit": {
     "title": "Emotion Regulation Toolkit / 情绪调节工具箱",
     "url": "/wiki/concepts/emotionregulationtoolkit/"
+  },
+  "EmotionalAttachmentPoliticalDistortion": {
+    "title": "Emotional Attachment Political Distortion / 情执政治判断失衡",
+    "url": "/wiki/concepts/emotionalattachmentpoliticaldistortion/"
   },
   "EmotionalBrandRelationship": {
     "title": "Emotional Brand Relationship",
@@ -49387,6 +49395,10 @@
     "title": "Zack Polanski",
     "url": "/wiki/entities/zackpolanski/"
   },
+  "ZangHong": {
+    "title": "臧洪 / Zang Hong",
+    "url": "/wiki/entities/zanghong/"
+  },
   "ZangTu": {
     "title": "臧荼 / Zang Tu",
     "url": "/wiki/entities/zangtu/"
@@ -49499,6 +49511,10 @@
     "title": "张伯后 / Jerry",
     "url": "/wiki/entities/zhangbohoujerry/"
   },
+  "ZhangChaoLateHan": {
+    "title": "张超 / Zhang Chao (Late Han)",
+    "url": "/wiki/entities/zhangchaolatehan/"
+  },
   "ZhangChengLateHan": {
     "title": "张承 / Zhang Cheng (late Han)",
     "url": "/wiki/entities/zhangchenglatehan/"
@@ -49610,6 +49626,10 @@
   "ZhangLu": {
     "title": "张璐 / Zhang Lu",
     "url": "/wiki/entities/zhanglu/"
+  },
+  "ZhangMiaoLateHan": {
+    "title": "张邈 / Zhang Miao (Late Han)",
+    "url": "/wiki/entities/zhangmiaolatehan/"
   },
   "ZhangNan": {
     "title": "张楠",
@@ -54086,6 +54106,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax": {
+    "title": "《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax/"
   },
   "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna": {
     "title": "《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城",

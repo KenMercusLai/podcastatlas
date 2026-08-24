@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？](sources/zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax.md) — 芮淇讲透资治通鉴 episode on Zang Hong's death, old-master loyalty to Zhang Chao, Yuan Shao's refusal to rescue against Cao Cao, Cheng Long's remonstrance, and the tension between heroic righteousness and emotion-driven political rigidity.
 - [《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城](sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's post-Liu Yu Youzhou collapse, Xianyu Fu/Yan Rou/Wuhuan/Xianbei/Liu He/Yuan Shao coalition pressure, Yijing fortress isolation, and the false security of walls and grain without initiative or people-support.
 - [《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？](sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's dangerous eastward return, Dong Cheng/Yang Feng/Han Xian/Zhang Yang's divided escort field, Yuan Shu's attack on Liu Bei, Zhang Fei killing Cao Bao, Lü Bu's grain-induced seizure of Xiapi, and Liu Bei's surrender/regrouping at Xiaopei.
 - [《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？](sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68.md) — 芮淇讲透资治通鉴 episode on Hao Meng's Xiapi night revolt against Lü Bu, Gao Shun and Cao Xing's suppression, Chen Gong's unpunished implication as factional-balance politics, and Emperor Xian's ruined Luoyang return before Yuan Shu's title-ambition setup.
@@ -1372,6 +1373,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose death is read as both old-master loyalty and emotion-driven political rigidity after Yuan Shao refuses to rescue Zhang Chao.
+- [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old superior whose death and family destruction become the moral grievance behind Hanji 997.
+- [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Zhang Chao's brother, invoked because Yuan Shao's claimed brotherhood with him becomes Zang Hong's rescue-demand argument.
+- [成龙 / Cheng Long (Late Han)](entities/ChengLongLateHan.md) — Zang Hong's同乡 admirer who remonstrates against Yuan Shao and chooses death with Zang Hong.
 - [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority killed by Gongsun Zan whose death becomes the legitimacy and revenge center for the anti-Gongsun coalition.
 - [鲜于辅 / Xianyu Fu](entities/XianyuFu.md) — Liu Yu subordinate who raises troops and joins Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces against Gongsun Zan.
 - [阎柔 / Yan Rou](entities/YanRou.md) — Wuhuan sima whose prestige lets him gather mixed Hu and Han forces and defeat Gongsun Zan's appointee Zhou Dan.
@@ -8448,6 +8453,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Emotional Attachment Political Distortion / 情执政治判断失衡](concepts/EmotionalAttachmentPoliticalDistortion.md) — Pattern where affection, grief, resentment, or loyalty becomes the lens that overwhelms organization-level judgment and political survival.
 - [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for real safety after initiative, advisers, and people-support have been lost.
 - [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains and adjacent Chinese restaurant brands test burgers as filling, affordable meal occasions.
 - [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
