@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5313
+wiki_total_pages: 5314
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1124,6 +1124,9 @@ wiki_pages:
   - key: "StatusSuppressionThenEqualTreatment"
     title: "Status Suppression Then Equal Treatment / 先挫锐气后同等厚待"
     url: "/wiki/concepts/statussuppressionthenequaltreatment/"
+  - key: "StatusFilteredTalentMisrecognition"
+    title: "Status-Filtered Talent Misrecognition / 门第筛选式人才误判"
+    url: "/wiki/concepts/statusfilteredtalentmisrecognition/"
   - key: "StatusQuoRationalization"
     title: "Status-Quo Rationalization / 现状合理化"
     url: "/wiki/concepts/statusquorationalization/"

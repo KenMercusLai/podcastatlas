@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7115
+wiki_total_pages: 7121
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "HanGui"
     title: "韩廆 / Han Gui"
     url: "/wiki/entities/hangui/"
+  - key: "HanDang"
+    title: "韩当 / Han Dang"
+    url: "/wiki/entities/handang/"
   - key: "HanYihou"
     title: "韩懿侯 / Marquis Yi of Han"
     url: "/wiki/entities/hanyihou/"
@@ -980,6 +983,9 @@ wiki_pages:
   - key: "Huangji"
     title: "黄棘 / Huangji"
     url: "/wiki/entities/huangji/"
+  - key: "HuangGai"
+    title: "黄盖 / Huang Gai"
+    url: "/wiki/entities/huanggai/"
   - key: "HuangshiGong"
     title: "黄石公 / Huangshi Gong"
     url: "/wiki/entities/huangshigong/"

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈
+
+Added source page for a 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong advance, strict military discipline, Liu Yao's underuse of Taishi Ci, the Shentingling encounter, and Sun Ce's lenient Qu'a recruitment policy. Created pages for Taishi Ci, Shentingling Battle, Han Dang, Huang Gai, Ju Shou, Gan Ning, and Status-Filtered Talent Misrecognition; updated overview, index, Sun Ce, Liu Yao, Xu Shao, Ze Rong, Xue Li, Talent as State Treasure, Occupation Pacification Strategy, and People-Based Political Security. No settled contradiction found; the episode is kept as a backfill before Hanji 994-995, and Taishi Ci's lower-status talent reading remains source-scoped.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧
 
 Added source page for a 芮淇讲透资治通鉴 episode on Sun Ce's early Jiangdong organization, Lu Fan's voluntary low-status `都督` discipline role, Zhang Zhao and Zhang Hong as trusted advisers, and leadership lessons about operational gap ownership and non-jealousy toward capable subordinates. Created pages for Lu Fan, Zhang Zhao (Late Han), Zhang Hong (Late Han), Qin Song (Late Han), Chen Duan (Late Han), Lu Xun (Eastern Wu), Zhou Yu, Yan Hui, Operational Gap Ownership, and Subordinate Success Non-Jealousy; updated overview, index, Sun Ce, Yuan Shu, Qi Huan Gong, Guan Zhong, Zeng Guofan, and the Analects. No settled contradiction found; Lu Fan's early `都督` is kept distinct from later Wu grand-commander offices, and Eastern Wu Lu Xun is disambiguated from the modern writer Lu Xun.
@@ -11005,6 +11009,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki lint check
 
 Ran health, identity validation, and lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 13,788 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 13,788 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged source-breadth/depth risks for single-source pages such as `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/OracleBoneDivination.md`, `wiki/concepts/HumanDependentSafetySystem.md`, `wiki/concepts/DayZeroModelSupport.md`, and `wiki/concepts/EraTailwindInInvesting.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

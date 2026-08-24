@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7115
+wiki_total_pages: 7121
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1640,6 +1640,9 @@ wiki_pages:
   - key: "SiliconValley101"
     title: "硅谷101"
     url: "/wiki/entities/siliconvalley101/"
+  - key: "ShentinglingBattle"
+    title: "神亭岭之战 / Shentingling Battle"
+    url: "/wiki/entities/shentinglingbattle/"
   - key: "Su"
     title: "素 / Su"
     url: "/wiki/entities/su/"

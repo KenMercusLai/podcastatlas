@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7115
+wiki_total_pages: 7121
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "JohannAdamSchallVonBell"
     title: "汤若望 / Johann Adam Schall von Bell"
     url: "/wiki/entities/johannadamschallvonbell/"
+  - key: "JuShou"
+    title: "沮授 / Ju Shou"
+    url: "/wiki/entities/jushou/"
   - key: "JingyangJunQin"
     title: "泾阳君 / Jingyang Jun (Qin)"
     url: "/wiki/entities/jingyangjunqin/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7115
+wiki_total_pages: 7121
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "TaiyuanWarringStates"
     title: "太原 / Taiyuan (Warring States)"
     url: "/wiki/entities/taiyuanwarringstates/"
+  - key: "TaishiCi"
+    title: "太史慈 / Taishi Ci"
+    url: "/wiki/entities/taishici/"
   - key: "TaishiDan"
     title: "太史旦 / Taishi Dan"
     url: "/wiki/entities/taishidan/"

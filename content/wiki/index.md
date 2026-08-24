@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈](sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1.md) — 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong discipline and recruitment, Liu Yao's underuse of Taishi Ci, and the Shentingling encounter as a status-filtered talent-recognition failure.
 - [《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧](sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu.md) — 芮淇讲透资治通鉴 episode on Lu Fan taking an unglamorous military-discipline role for Sun Ce, Sun Ce's use of Zhang Zhao and Zhang Hong, and leadership lessons about operational gap ownership, talent delegation, and non-jealousy toward capable subordinates.
 - [《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？](sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k.md) — 芮淇讲透资治通鉴 episode on Liu Yao's Kuaiji/Yuzhang route choice, Xu Shao's survival advice, Ze Rong's Buddhist-institution grain diversion, and repeated murder of hosts and benefactors.
 - [697. The Troubles: Murder in Belfast (Part 1)](sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736.md) — The Rest Is History episode on the pre-1968 roots of the Troubles: partition, Catholic exclusion, unionist siege fear, Paisley's rise, and the 1966 loyalist killings.
@@ -1378,6 +1379,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [太史慈 / Taishi Ci](entities/TaishiCi.md) — Donglai military talent whom Liu Yao under-authorizes before the Shentingling encounter with Sun Ce.
+- [神亭岭之战 / Shentingling Battle](entities/ShentinglingBattle.md) — Late-Han encounter where Taishi Ci scouts with one rider and fights Sun Ce despite Sun Ce's stronger retinue.
+- [韩当 / Han Dang](entities/HanDang.md) — Veteran rider named among Sun Ce's thirteen followers at Shentingling in Hanji 993.
+- [黄盖 / Huang Gai](entities/HuangGai.md) — Veteran rider named with Han Dang in Sun Ce's Shentingling retinue.
+- [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao-side adviser invoked by Hanji 993 as a comparator for talent not converted into usable authority.
+- [甘宁 / Gan Ning](entities/GanNing.md) — Liu Biao-side military talent invoked by Hanji 993 as a comparator for distrusted or underused ability.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
 - [张昭 / Zhang Zhao (Late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong adviser entrusted by Sun Ce and praised by northern士大夫, becoming Hanji 994's main subordinate-success non-jealousy case.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun Ce adviser appointed as `正议校尉` and paired with Zhang Zhao in the Jiangdong leadership bench.
@@ -8497,6 +8504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Status-Filtered Talent Misrecognition / 门第筛选式人才误判](concepts/StatusFilteredTalentMisrecognition.md) — Hanji 993 personnel failure where status, reputation anxiety, and elite judgment block available talent from receiving usable authority.
 - [Operational Gap Ownership / 主动补组织短板](concepts/OperationalGapOwnership.md) — Management pattern where a capable subordinate notices an organizational gap and voluntarily takes responsibility for unglamorous execution work.
 - [Subordinate Success Non-Jealousy / 下属成就不嫉妒](concepts/SubordinateSuccessNonJealousy.md) — Leadership pattern where a leader treats a subordinate's reputation and credit as organizational strength rather than personal threat.
 - [工具化宗教权力 / Instrumentalized Religious Power](concepts/InstrumentalizedReligiousPower.md) — Pattern where religious ritual, charity, and belonging become power infrastructure rather than moral constraint.

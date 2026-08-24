@@ -17599,6 +17599,10 @@
     "title": "甘茂 / Gan Mao",
     "url": "/wiki/entities/ganmao/"
   },
+  "GanNing": {
+    "title": "甘宁 / Gan Ning",
+    "url": "/wiki/entities/ganning/"
+  },
   "GanbaMushroom": {
     "title": "干巴菌 / Ganba Mushroom",
     "url": "/wiki/entities/ganbamushroom/"
@@ -19391,6 +19395,10 @@
     "title": "韩成 / Han Cheng",
     "url": "/wiki/entities/hancheng/"
   },
+  "HanDang": {
+    "title": "韩当 / Han Dang",
+    "url": "/wiki/entities/handang/"
+  },
   "HanFei": {
     "title": "Han Fei / 韩非",
     "url": "/wiki/entities/hanfei/"
@@ -20926,6 +20934,10 @@
   "HuangChao": {
     "title": "黄巢 / Huang Chao",
     "url": "/wiki/entities/huangchao/"
+  },
+  "HuangGai": {
+    "title": "黄盖 / Huang Gai",
+    "url": "/wiki/entities/huanggai/"
   },
   "HuangLiuhong": {
     "title": "黄六鸿 / Huang Liuhong",
@@ -24050,6 +24062,10 @@
   "JoyoAmazonChina": {
     "title": "卓越网 / Amazon China",
     "url": "/wiki/entities/joyoamazonchina/"
+  },
+  "JuShou": {
+    "title": "沮授 / Ju Shou",
+    "url": "/wiki/entities/jushou/"
   },
   "JuWarringStates": {
     "title": "莒 / Ju",
@@ -39695,6 +39711,10 @@
     "title": "生数科技 / Shengshu Technology",
     "url": "/wiki/entities/shengshutechnology/"
   },
+  "ShentinglingBattle": {
+    "title": "神亭岭之战 / Shentingling Battle",
+    "url": "/wiki/entities/shentinglingbattle/"
+  },
   "ShenwanLingxinFund": {
     "title": "申万菱信基金 / Shenwan Lingxin Fund",
     "url": "/wiki/entities/shenwanlingxinfund/"
@@ -41547,6 +41567,10 @@
     "title": "Status Descent Pressure / 身份落差压力",
     "url": "/wiki/concepts/statusdescentpressure/"
   },
+  "StatusFilteredTalentMisrecognition": {
+    "title": "Status-Filtered Talent Misrecognition / 门第筛选式人才误判",
+    "url": "/wiki/concepts/statusfilteredtalentmisrecognition/"
+  },
   "StatusInsultDefectionCascade": {
     "title": "Status Insult Defection Cascade / 名分羞辱触发叛变",
     "url": "/wiki/concepts/statusinsultdefectioncascade/"
@@ -42654,6 +42678,10 @@
   "Taishan": {
     "title": "泰山 / Taishan",
     "url": "/wiki/entities/taishan/"
+  },
+  "TaishiCi": {
+    "title": "太史慈 / Taishi Ci",
+    "url": "/wiki/entities/taishici/"
   },
   "TaishiDan": {
     "title": "太史旦 / Taishi Dan",
@@ -54302,6 +54330,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1": {
+    "title": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1/"
   },
   "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu": {
     "title": "《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧",
