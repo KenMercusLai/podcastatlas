@@ -10969,3 +10969,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki lint check
 
 Ran health, identity validation, and lint. Health passed with no empty/stub files, index drift, or source-log coverage gaps across 13,747 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 13,747 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; rerun with a provider-qualified LiteLLM model and required API key for contradiction, stale-content, and data-gap analysis. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zang Hong's failed attempt to rescue Zhang Chao at Yongqiu, Yuan Shao's refusal, Cao Cao's capture of Yongqiu, Chen Lin's persuasion letter, East Commandery starvation, and the moral cost of loyalty that binds followers into a doomed stand. Created pages for Chen Lin (Late Han), Zhu Zhi (Late Han), Yan Baihu, and Yongqiu (Late Han); updated overview, index, Zang Hong, Zhang Chao, Zhang Miao, Yuan Shao, Cao Cao, Dong Commandery, Guangling Commandery, Death-Party Loyalty vs Official Duty, Emotional Attachment Political Distortion, Loyalty-Collateral Dilemma, Political Survival First, Xingshiqing Strategic Assessment, and Retainer Reciprocity Ethic. No settled contradiction found; the transcript's unfinished "偏执狂臧洪" analysis and opening disorder examples are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

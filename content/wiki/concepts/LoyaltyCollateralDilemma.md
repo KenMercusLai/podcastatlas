@@ -1,9 +1,9 @@
 ---
 title: "Loyalty-Collateral Dilemma / 忠义牵连困境"
 type: concept
-tags: [ethics, loyalty, political-violence, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
-last_updated: 2026-08-23
+tags: [ethics, loyalty, political-violence, pre-qin-history, warring-states, late-han]
+sources: [zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]
+last_updated: 2026-08-24
 ---
 
 # Loyalty-Collateral Dilemma / 忠义牵连困境
@@ -18,6 +18,8 @@ The source does not present the dilemma as easy moral instruction. Wang Zhu had 
 
 In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], [[LiuTaigong|刘太公]] becomes the explicit collateral object at [[GuangwuChuHan|广武]] when Xiang Yu threatens to cook him. Liu Bang refuses to let paternal obligation dictate the war decision, while [[XiangBo|项伯]] argues that killing the hostage will not create strategic leverage. The episode shows hostage collateral failing when the target can publicly reframe kinship and when the coercer cannot connect violence to a useful political outcome.
 
+[[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] adds a late-Han voluntary-collateral version through [[ZangHong|臧洪]]. Zang Hong's conflict with [[YuanShao|袁绍]] begins from loyalty to [[ZhangChaoLateHan|张超]], but once [[DongCommandery|东郡]] is under siege he tells officials, soldiers, and civilians that they may leave. They refuse to abandon him, so his private loyalty stance becomes shared starvation and death for thousands. The collateral pressure here is not a captor's hostage threat; it is group honor and attachment binding followers to a doomed leader.
+
 ## Key Claims
 - Coercion can force moral cost onto third parties rather than only the target.
 - Refusing an enemy ruler can be ethically complicated when the enemy threatens uninvolved local people.
@@ -25,6 +27,7 @@ In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-can
 - Loyalty here is not simple obedience; Wang Zhu had previously remonstrated and withdrawn from court.
 - The conquering side's respect for worthies becomes morally unstable once invitation turns into threat.
 - Hanji 148-2 adds that a hostage can reverse coercion if the hostage refuses to remain usable leverage, but the act exposes the captor's political cruelty if the captor then desecrates the body.
+- Hanji 996 adds that collateral suffering can also arise voluntarily when followers internalize a leader's loyalty stance and treat abandonment as dishonor.
 
 ## Connections
 - [[WangZhu|王蠋]], [[QiState|齐国]], and [[YanState|燕国]] - source case.
@@ -33,3 +36,4 @@ In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-can
 - [[RighteousnessOverProfit|义利之辨]] - adjacent renyi-over-expediency frame.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - wider collapse setting that makes local protection fragile.
 - [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[WangLingMother|王陵母亲]], [[WangLingHanMinister|王陵]], [[XiangYu|项羽]], and [[LiuBang|刘邦]] - family-hostage coercion reversed by suicide.
+- [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[ZangHong|臧洪]], [[ZhangChaoLateHan|张超]], [[YuanShao|袁绍]], and [[DongCommandery|东郡]] - voluntary follower collateral under siege.

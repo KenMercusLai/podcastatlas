@@ -1,9 +1,9 @@
 ---
 title: "东郡 / Dong Commandery"
 type: entity
-tags: [place, commandery, qin-state, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]
-last_updated: 2026-08-23
+tags: [place, commandery, qin-state, wei-state, pre-qin, warring-states, late-han]
+sources: [zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]
+last_updated: 2026-08-24
 ---
 
 # 东郡 / Dong Commandery
@@ -20,8 +20,11 @@ Dong Commandery therefore belongs with [[SanchuanWarringStates|三川]] and [[Ta
 
 [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] gives Dong Commandery an early-Western-Han reassignment note. After [[PengYue|彭越]] is removed, [[LiuBang|刘邦]] abolishes Dong Commandery into the Liang kingdom while assigning Liu-family kingship over the region, making it part of the [[SameSurnameKingEnfeoffment|同姓王分封]] replacement map.
 
+[[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] adds a late-Han use. [[ZangHong|臧洪]] is serving as Dong Commandery administrator when [[ZhangChaoLateHan|张超]] is trapped at [[YongqiuLateHan|雍丘]]. After [[YuanShao|袁绍]] refuses rescue and Zhang Chao is killed by [[CaoCao|曹操]], Dong Commandery becomes the place where Zang Hong's old-superior loyalty turns into armed resistance, siege, starvation, and mass death.
+
 ## Connections
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - early-Han incorporation into the Liang replacement map.
+- [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[ZangHong|臧洪]], [[YuanShao|袁绍]], [[ZhangChaoLateHan|张超]], and [[YongqiuLateHan|雍丘]] - late-Han siege and loyalty branch.
 - [[QinState|秦国]], [[QinShiHuang|嬴政 / 秦始皇]], and [[MengAo|蒙敖]] - state, ruler frame, and commander attached to its creation.
 - [[WeiState|魏国]], [[WeiAnxiWang|魏安釐王]], and [[WeiJingminWang|魏景湣王 / 魏增]] - target state and succession context.
 - [[QinEastwardPressure|秦国东进压力]] and [[HezongAlliance|合纵]] - expansion and coalition-consequence frames.

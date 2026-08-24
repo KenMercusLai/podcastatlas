@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？](sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76.md) — 芮淇讲透资治通鉴 episode on Zang Hong's failed rescue request for Zhang Chao at Yongqiu, Yuan Shao's refusal, East Commandery starvation, and the cost of loyalty that crosses into collateral suffering.
 - [《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？](sources/zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax.md) — 芮淇讲透资治通鉴 episode on Zang Hong's death, old-master loyalty to Zhang Chao, Yuan Shao's refusal to rescue against Cao Cao, Cheng Long's remonstrance, and the tension between heroic righteousness and emotion-driven political rigidity.
 - [《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城](sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's post-Liu Yu Youzhou collapse, Xianyu Fu/Yan Rou/Wuhuan/Xianbei/Liu He/Yuan Shao coalition pressure, Yijing fortress isolation, and the false security of walls and grain without initiative or people-support.
 - [《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？](sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's dangerous eastward return, Dong Cheng/Yang Feng/Han Xian/Zhang Yang's divided escort field, Yuan Shu's attack on Liu Bei, Zhang Fei killing Cao Bao, Lü Bu's grain-induced seizure of Xiapi, and Liu Bei's surrender/regrouping at Xiaopei.
@@ -1373,9 +1374,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose death is read as both old-master loyalty and emotion-driven political rigidity after Yuan Shao refuses to rescue Zhang Chao.
-- [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old superior whose death and family destruction become the moral grievance behind Hanji 997.
-- [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Zhang Chao's brother, invoked because Yuan Shao's claimed brotherhood with him becomes Zang Hong's rescue-demand argument.
+- [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
+- [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old Guangling superior, trapped at Yongqiu by Cao Cao, whose death and family destruction become the moral grievance behind Hanji 996-997.
+- [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Zhang Chao's brother, invoked because Yuan Shao's claimed brotherhood with him becomes Zang Hong's rescue-demand argument, while Cao Cao's hostility supplies the siege background.
+- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han writer used by Yuan Shao in Hanji 996 to persuade Zang Hong before the East Commandery siege hardens.
+- [朱治 / Zhu Zhi (Late Han)](entities/ZhuZhiLateHan.md) — Danyang officer in Hanji 996 whose move into Wu shows Jiangdong local authority fragmenting.
+- [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who appears as a refuge in Hanji 996 and as a lower-priority Jiangdong threat in Hanji 1004.
+- [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
 - [成龙 / Cheng Long (Late Han)](entities/ChengLongLateHan.md) — Zang Hong's同乡 admirer who remonstrates against Yuan Shao and chooses death with Zang Hong.
 - [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority killed by Gongsun Zan whose death becomes the legitimacy and revenge center for the anti-Gongsun coalition.
 - [鲜于辅 / Xianyu Fu](entities/XianyuFu.md) — Liu Yu subordinate who raises troops and joins Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces against Gongsun Zan.
@@ -1628,7 +1633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
 - [淮南 / Huainan Region](entities/HuainanRegion.md) — Late-Han regional frame around Yuan Shu's Shouchun base, disambiguated from other Huainan kingdom pages.
-- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power whose status resentment triggers Cao Cao's Hanji 1005 title concession before Guo Jia rejects his camp in Hanji 1006.
+- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power whose Zang Hong rescue refusal, status resentment, Guo Jia rejection, Gongsun Zan war, and formal Han-court appointments structure multiple late-Han branches.
 - [金尚 / Jin Shang](entities/JinShang.md) — Late-Han official killed after refusing Yuan Shu's taiwei title, used by Hanji 1016 as a title-risk and survival-pacing caution.
 - [韩胤 / Han Yin (late Han)](entities/HanYinLateHan.md) — Yuan Shu envoy whose Lü Bu marriage mission collapses after Chen Gui's warning, ending with execution at Cao Cao's court.
 - [陈登 / Chen Deng](entities/ChenDeng.md) — Late-Han official whose Hanji 1016-1018 branch moves from Yuan Shu hostage leverage into Cao Cao's Guangling appointment and Lü Bu management.
@@ -2439,7 +2444,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
-- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include legitimacy-window seizure, title concession to Yuan Shao, adviser intake, law-over-kinship,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include Yongqiu, legitimacy-window seizure, title concession to Yuan Shao, adviser intake, law-over-kinship,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
 - [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose vulnerable but recognized title lets Cao Cao seize a legitimacy window and later use the Xu court to manage Yuan Shao, Yuan Shu, and old-Han ministers.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.

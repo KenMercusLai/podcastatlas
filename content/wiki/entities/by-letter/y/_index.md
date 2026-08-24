@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7076
+wiki_total_pages: 7080
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "YanZhongzi"
     title: "严仲子 / Yan Zhongzi"
     url: "/wiki/entities/yanzhongzi/"
+  - key: "YanBaihu"
+    title: "严白虎 / Yan Baihu"
+    url: "/wiki/entities/yanbaihu/"
   - key: "YanLiangFangxuehou"
     title: "严良（《放学后的小巷》）"
     url: "/wiki/entities/yanliangfangxuehou/"
@@ -632,6 +635,9 @@ wiki_pages:
   - key: "YalanLuanfanshu"
     title: "雅兰 / Yalan (Luanfanshu)"
     url: "/wiki/entities/yalanluanfanshu/"
+  - key: "YongqiuLateHan"
+    title: "雍丘 / Yongqiu (Late Han)"
+    url: "/wiki/entities/yongqiulatehan/"
   - key: "YongchengQin"
     title: "雍城 / Yongcheng (Qin)"
     url: "/wiki/entities/yongchengqin/"
