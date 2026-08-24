@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争](sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1.md) — 芮淇讲透资治通鉴 episode on why Mi Zhu, Chen Deng, and Kong Rong back Liu Bei over Yuan Shu for Xuzhou, plus Shouchun, Ma Ridi, Zhao Qi, Lady Wu, the Qiantang Wu clan, and Sun Ce/Zhou Yu kinship-resource networks.
 - [《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板](sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s.md) — 芮淇讲透资治通鉴 episode on Sun Ce's early dependency on Yuan Shu, Zhang Hong's entrusted-family role, Danyang recruitment, Lu Kang's Lujiang refusal, Yuan Shu's broken Jiujiang/Lujiang promises, and Liu Yao's first Yangzhou defenses.
 - [《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？](sources/zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5.md) — 芮淇讲透资治通鉴 episode on Fan Chou's purge after Li Li reports his Han Sui contact, Sanfu famine and plunder, Guo Si's wife stoking poison suspicion, and Li Jue's preemptive seizure of Emperor Xian.
 - [《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究](sources/zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk.md) — 芮淇讲透资治通鉴 episode on Li Jue holding Emperor Xian, Guo Si holding ministers, Yang Biao's hostage-banquet rebuke, Qiang-Hu recruitment, camp arson/defection, and the emperor's food humiliation in Beiwu.
@@ -1389,6 +1390,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [马日磾 / Ma Ridi (late Han)](entities/MaRidiLateHan.md) — Court official whose imperial tally is seized by Yuan Shu at Shouchun in Hanji 982.
+- [吴夫人 / Lady Wu (Sun Jian)](entities/LadyWuSunJian.md) — Sun Jian's Qiantang Wu-clan wife, treated by Hanji 982 as a kinship bridge into Jiangdong resources.
+- [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
+- [孙权 / Sun Quan](entities/SunQuan.md) — Sun Jian and Lady Wu's son, introduced by Hanji 982 as the later payoff of Qiantang Wu-clan resources.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family military actor whom Yuan Shu uses with Wu Jing to reach Danyang and support Sun Ce's early recruitment.
 - [孙河 / Sun He (late Han)](entities/SunHeLateHan.md) — Early Sun Ce companion named with Lu Fan during the Danyang recruitment phase.
 - [陆康 / Lu Kang (late Han)](entities/LuKangLateHan.md) — Lujiang administrator whose refusal of Yuan Shu's grain demand triggers Sun Ce's campaign and Yuan Shu's broken Lujiang promise.
@@ -8565,6 +8570,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Local Elite Proxy Selection / 地方豪强代理人选择](concepts/LocalEliteProxySelection.md) — Late-Han Xuzhou pattern where local elites choose a legitimate, weaker proxy over a stronger outsider likely to absorb them.
+- [Kinship Resource State-Building / 姻亲资源建构](concepts/KinshipResourceStateBuilding.md) — Pattern where marriage and maternal kinship turn local gentry, trade, geographic knowledge, and soldiers into state-building capacity.
 - [Promise Credibility and Talent Retention / 承诺信用与人才流失](concepts/PromiseCredibilityTalentRetention.md) — Hanji 983 pattern where Yuan Shu's repeated office-promise reversals make Sun Ce's later exit from his camp intelligible as a trust failure.
 - [Root-Base Priority / 根本根据地优先](concepts/RootBasePriority.md) — Xun Yu's Hanji 987 principle that Cao Cao must secure Yanzhou's harvest, people, rear safety, and fallback capacity before chasing Xuzhou.
 - [Status-Filtered Talent Misrecognition / 门第筛选式人才误判](concepts/StatusFilteredTalentMisrecognition.md) — Hanji 993 personnel failure where status, reputation anxiety, and elite judgment block available talent from receiving usable authority.

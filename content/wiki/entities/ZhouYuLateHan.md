@@ -2,11 +2,13 @@
 title: "周瑜 / Zhou Yu"
 type: entity
 tags: [person, late-han, eastern-wu, military, disambiguation]
-sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]
+sources: [zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]
 last_updated: 2026-08-24
 ---
 
 # 周瑜 / Zhou Yu
+
+[[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds the friendship-and-family layer before Zhou Yu's later material support. The episode says Zhou Yu hears of [[SunCe|孙策]], meets him at Shu County, invites the Sun family to live near him, and pays respects to [[LadyWuSunJian|吴夫人]]. That makes the Sun-Zhou tie look like a family-alliance channel before it becomes the troop, boats, grain, and funds branch in Hanji 992.
 
 周瑜 / Zhou Yu enters this wiki through [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] as the decisive early supporter of [[SunCe|孙策]]'s Jiangdong start. The source says Zhou Yu brings two thousand troops, fifty boats, funds, grain, and access to [[DanyangCommandery|丹阳郡]] through his uncle [[ZhouShangLateHan|周尚]], allowing Sun Ce's mission to help [[WuJingLateHan|吴景]] at [[HengjiangLateHan|横江]] to become a real campaign.
 
@@ -17,6 +19,7 @@ The episode treats Zhou Yu as more than an added officer. His help supplies miss
 The source does not develop Zhou Yu's campaigns or broader career. His current wiki role is bounded to a historiographical warning: familiar Three Kingdoms title language can distort early Jiangdong institutions if later meanings are projected backward.
 
 ## Connections
+- [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[SunCe|孙策]], [[LadyWuSunJian|吴夫人]], and [[KinshipResourceStateBuilding|姻亲资源建构]] - pre-campaign friendship and family-alliance branch.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[ZhouShangLateHan|周尚]], [[DanyangCommandery|丹阳郡]], [[WuJingLateHan|吴景]], [[HengjiangLateHan|横江]], and [[LiyangLateHan|历阳]] - early Sun Ce support, logistics, ships, and recruitment branch.
 - [[LuFan|吕范]] - early `都督` holder whose role is being distinguished from later titles.
 - [[SunCe|孙策]] - early Jiangdong leader in the source passage.

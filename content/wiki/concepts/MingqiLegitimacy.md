@@ -2,11 +2,13 @@
 title: "Mingqi Legitimacy / 名器合法性"
 type: concept
 tags: [legitimacy, status, ritual, symbols, late-han, chinese-history]
-sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+sources: [zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
 last_updated: 2026-08-24
 ---
 
 # Mingqi Legitimacy / 名器合法性
+
+[[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds the seized-tally version before the later Yuan Shu self-coronation branch. [[MaRidiLateHan|马日磾]] arrives at [[Shouchun|寿春]] with imperial authority, but [[YuanShu|袁术]] takes the tally, uses it to force appointments, and tries to keep Ma Ridi as an adviser. The source shows a symbolic object still matters enough to seize, while also showing that its authority can be redirected by armed coercion.
 
 [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] adds the household-office version before later title grants and road ceremonies. [[EmperorXianOfHan|汉献帝]] appoints [[FuShouEmpress|伏寿]] as empress and [[FuWanLateHan|伏完]] as zhijinwu while [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] control the emperor and ministers. The appointment has real name-order meaning, but the same source shows its weakened operating base: court rank cannot prevent guarded doors, hunger, rotten bones, or arrows reaching the emperor's tent area.
 
@@ -35,6 +37,7 @@ Hanji 1015 adds the coalition-pressure side of the same title problem. Yuan Shu'
 Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]] refuses Yuan Shu's taiwei title and is killed, while [[ChenGui|陈珪]] refuses Yuan Shu's appeal and then steers [[LyuBu|吕布]] away from a marriage alliance. Accepting or rejecting titles is therefore not ornamental; it changes legitimacy, danger, and alliance exposure.
 
 ## Key Claims
+- Hanji 982 adds that a court tally can remain valuable while being physically seized and repurposed by a regional warlord.
 - Hanji 985 adds that imperial household and office appointments can continue inside captivity, but their command force is exposed by bodily deprivation and armed access.
 - Hanji 986 adds that offices can still be issued while the sovereign is coerced, making title recognition real but politically contaminated.
 - Hanji 988 adds that a ruler's visible body can still activate title awe even after armed men have already blocked his route.
@@ -51,6 +54,7 @@ Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]]
 - The concept links personal survival to public symbolic order: an actor must judge both what the title says and who can enforce or punish it.
 
 ## Connections
+- [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[MaRidiLateHan|马日磾]], [[ZhaoQiLateHan|赵岐]], [[YuanShu|袁术]], and [[Shouchun|寿春]] - seized tally and coerced appointment branch.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[FuShouEmpress|伏皇后]], [[FuWanLateHan|伏完]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - empress and zhijinwu appointments under hostage conditions.
 - [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[LiJueLateHan|李傕]], [[EmperorXianOfHan|汉献帝]], and [[HuangfuLiLateHan|皇甫郦]] - 大司马 appointment and edict vocabulary under coercion.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[LiuAiLateHan|刘艾]], and [[GuoSiLateHan|郭汜]] - bridge scene where public identification makes a weak title momentarily effective.

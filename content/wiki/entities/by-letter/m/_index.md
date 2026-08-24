@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7172
+wiki_total_pages: 7176
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "MaShaonainaiLihun"
     title: "马少奶奶（《离婚》） / Ma Shaonainai"
     url: "/wiki/entities/mashaonainailihun/"
+  - key: "MaRidiLateHan"
+    title: "马日磾 / Ma Ridi (late Han)"
+    url: "/wiki/entities/maridilatehan/"
   - key: "MaTeng"
     title: "马腾 / Ma Teng"
     url: "/wiki/entities/mateng/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 7172
+wiki_total_pages: 7176
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "QiuLian"
     title: "邱连 / Qiu Lian"
     url: "/wiki/entities/qiulian/"
+  - key: "QiantangWuClan"
+    title: "钱塘吴氏 / Qiantang Wu Clan"
+    url: "/wiki/entities/qiantangwuclan/"
   - key: "QianLiqun"
     title: "钱理群"
     url: "/wiki/entities/qianliqun/"

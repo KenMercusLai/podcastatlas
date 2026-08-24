@@ -24851,6 +24851,10 @@
     "title": "Kinship Power Distinction",
     "url": "/wiki/concepts/kinshippowerdistinction/"
   },
+  "KinshipResourceStateBuilding": {
+    "title": "Kinship Resource State-Building / 姻亲资源建构",
+    "url": "/wiki/concepts/kinshipresourcestatebuilding/"
+  },
   "KiraHuyu": {
     "title": "Kira Huyu",
     "url": "/wiki/entities/kirahuyu/"
@@ -25254,6 +25258,10 @@
   "LadyDuCaoCao": {
     "title": "杜夫人 / Lady Du (Cao Cao)",
     "url": "/wiki/entities/ladyducaocao/"
+  },
+  "LadyWuSunJian": {
+    "title": "吴夫人 / Lady Wu (Sun Jian)",
+    "url": "/wiki/entities/ladywusunjian/"
   },
   "LadyYanLyuBu": {
     "title": "严氏 / Lady Yan (Lü Bu)",
@@ -26927,6 +26935,10 @@
     "title": "Local Deity Governance",
     "url": "/wiki/concepts/localdeitygovernance/"
   },
+  "LocalEliteProxySelection": {
+    "title": "Local Elite Proxy Selection / 地方豪强代理人选择",
+    "url": "/wiki/concepts/localeliteproxyselection/"
+  },
   "LocalFirstMemoryLayer": {
     "title": "Local-First Memory Layer",
     "url": "/wiki/concepts/localfirstmemorylayer/"
@@ -27842,6 +27854,10 @@
   "MaDong": {
     "title": "马东 / Ma Dong",
     "url": "/wiki/entities/madong/"
+  },
+  "MaRidiLateHan": {
+    "title": "马日磾 / Ma Ridi (late Han)",
+    "url": "/wiki/entities/maridilatehan/"
   },
   "MaShaonainaiLihun": {
     "title": "马少奶奶（《离婚》） / Ma Shaonainai",
@@ -36023,6 +36039,10 @@
     "title": "乾隆 / Qianlong Emperor",
     "url": "/wiki/entities/qianlongemperor/"
   },
+  "QiantangWuClan": {
+    "title": "钱塘吴氏 / Qiantang Wu Clan",
+    "url": "/wiki/entities/qiantangwuclan/"
+  },
   "Qianzhong": {
     "title": "黔中 / Qianzhong",
     "url": "/wiki/entities/qianzhong/"
@@ -42402,6 +42422,10 @@
   "SunJingLateHan": {
     "title": "孙静 / Sun Jing (late Han)",
     "url": "/wiki/entities/sunjinglatehan/"
+  },
+  "SunQuan": {
+    "title": "孙权 / Sun Quan",
+    "url": "/wiki/entities/sunquan/"
   },
   "SunRuoxi": {
     "title": "孙若曦 / Sun Ruoxi",
@@ -54550,6 +54574,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1": {
+    "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
   },
   "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s": {
     "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",

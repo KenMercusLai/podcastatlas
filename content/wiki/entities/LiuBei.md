@@ -2,11 +2,13 @@
 title: "刘备 / Liu Bei"
 type: entity
 tags: [person, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
+sources: [zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
 last_updated: 2026-08-24
 ---
 
 # 刘备 / Liu Bei
+
+[[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds the pre-986 Xuzhou acceptance logic. The episode says [[MiZhu|糜竺]], [[ChenDeng|陈登]], and [[KongRong|孔融]] support Liu Bei because he has reputation and Han-clan legitimacy but not enough force to swallow the local order. Liu Bei therefore becomes the source case for [[LocalEliteProxySelection|地方豪强代理人选择]]: a useful proxy for Xuzhou elites who want protection and legitimacy without accepting [[YuanShu|袁术]]'s Huainan absorption risk.
 
 刘备 / Liu Bei enters the wiki through [[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] as the person harmed by [[ZhangFei|张飞]]'s drunken loss of Xuzhou. The episode uses Liu Bei's resulting lack of a base to make the Zhang Fei story political rather than merely comic.
 
@@ -29,6 +31,7 @@ The same source makes Liu Bei the test case for [[ReputationConstrainedTalentPro
 [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] adds Liu Bei as one of the actors pressured by [[YuanShu|袁术]]'s self-coronation. The episode says Liu Bei's仁义 reputation would be damaged if he ignored an open imperial usurpation against [[EmperorXianOfHan|汉献帝]], making him part of the [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] around Yuan Shu.
 
 ## Connections
+- [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[MiZhu|糜竺]], [[ChenDeng|陈登]], [[KongRong|孔融]], [[YuanShu|袁术]], and [[LocalEliteProxySelection|地方豪强代理人选择]] - Xuzhou elites choosing Liu Bei as legitimate but controllable proxy.
 - [[ZhangFei|张飞]] - subordinate whose drunken mistake affects Liu Bei's base.
 - [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[TaoQianLateHan|陶谦]], [[CaoCao|曹操]], and [[Xuzhou|徐州]] - succession opening and external attack temptation.
 - [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[LyuBu|吕布]], [[LadyYanLyuBu|严氏]], and [[PowerEtiquetteReading|权力礼仪细读]] - first reception of Lü Bu after Dingtao.
