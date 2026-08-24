@@ -2,8 +2,8 @@
 title: "Battlefield Information Control / 战场信息控制"
 type: concept
 tags: [military-strategy, deception, command, warring-states]
-sources: [zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]
+last_updated: 2026-08-24
 ---
 
 # Battlefield Information Control / 战场信息控制
@@ -36,6 +36,8 @@ The concept links discipline and deception. In this source, command secrecy is n
 
 [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] adds the Baideng reconnaissance version. [[MaoDunChanyu|冒顿单于]] does not merely hide troops; he lets Han envoys repeatedly see weak horses, sick livestock, and tired people. The information channel is therefore active bait. [[LouJing|刘敬 / 楼敬]] correctly infers that the display is staged, but [[LiuBang|刘邦]] accepts the easier interpretation and advances into the [[BaidengEncirclement|白登之围]].
 
+[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds a late-Han small-force ambush version through [[DingtaoBattleLateHan|定陶之战]]. [[CaoCao|曹操]] has fewer than one thousand soldiers in camp while [[LyuBu|吕布]] and [[ChenGongLateHan|陈宫]] arrive with a much larger force, so Cao uses the western dike, southern forest, hidden soldiers, and a small visible line to control what Lü Bu sees. The information effect is local and tactical: Lü Bu reads the exposed force as the fight, while the decisive force is concealed until contact fixes his attention.
+
 ## Key Claims
 - Information control can include what an enemy spy is permitted to see, not only what one's own soldiers are told.
 - Strict speech discipline can be part of deception, especially before a rapid movement.
@@ -50,9 +52,11 @@ The concept links discipline and deception. In this source, command secrecy is n
 - Hanji 164-1 adds a source-scoped Qi-front setup: Han Xin's feigned defeat works first on Long Ju's judgment, making contempt part of the information channel.
 - Hanji 164-2 adds engineered terrain to the pattern: the enemy sees retreat, but the commander's decisive information advantage is the hidden water timing.
 - Hanji 177 adds that controlled weakness shown through diplomatic/reconnaissance envoys can be battlefield information control, especially when the opponent wants confirming evidence for pursuit.
+- Hanji 987 adds that a weaker force can use terrain and a visible bait line to make an enemy misread where the real fighting power sits.
 
 ## Connections
 - [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[MaoDunChanyu|冒顿单于]], [[LiuBang|刘邦]], [[LouJing|刘敬 / 楼敬]], and [[BaidengEncirclement|白登之围]] - staged weakness through envoy observation before Baideng.
+- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[DingtaoBattleLateHan|定陶之战]], [[CaoCao|曹操]], [[LyuBu|吕布]], and [[YanzhouLateHan|兖州]] - dike-and-forest ambush by a smaller force.
 - [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[HanXin|韩信]], [[LongJuChuGeneral|龙且]], [[RiverCrossingDeception|渡河欺敌]], and [[LureEnemyOutOfPosition|诱敌离位]] - completed dam-and-retreat deception at Weishui.
 - [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[HanXin|韩信]], [[LongJuChuGeneral|龙且]], [[TianGuangQiKing|田广]], and [[QiState|齐国]] - feigned defeat before Chu's rescue force.
 - [[ZhaoShe|赵奢]] - commander whose staged inaction defines the concept.

@@ -2,8 +2,8 @@
 title: "Power Etiquette Reading / 权力礼仪细读"
 type: concept
 tags: [power, rhetoric, history, reading]
-sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+last_updated: 2026-08-24
 ---
 
 # Power Etiquette Reading / 权力礼仪细读
@@ -36,6 +36,8 @@ The episode's point is that rebuke has a protocol. The host reads this as elite 
 
 [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] adds the formal court-wide version. The details are no longer improvised gestures in crisis: pre-dawn entry, ranked stations, guarded approach, sequential toasts, silence, and censorial expulsion all become readable signs of where power sits. This extends the method from single-scene etiquette into durable protocol that produces [[ImperialRitualDistance|君臣礼制距离]].
 
+[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds a late-Han host-guest failure through [[LyuBu|吕布]] and [[LiuBei|刘备]]. After losing [[DingtaoBattleLateHan|定陶之战]], Lü Bu is dependent on Liu Bei's reception in [[Xuzhou|徐州]], yet he invites Liu Bei into his tent, seats him on [[LadyYanLyuBu|严氏]]'s bed, has Lady Yan salute him, and calls Liu Bei "old brother." The source reads Liu Bei's displeasure as etiquette data: Lü Bu signals intimacy and equality, but also breaks public/private and gendered ritual boundaries in a way that a self-consciously orthodox Liu Bei cannot comfortably accept.
+
 ## Key Claims
 - Etiquette can be political data when direct statements are too dangerous or too staged.
 - Status recognition can move a powerful person more effectively than correct strategic warning.
@@ -51,9 +53,11 @@ The episode's point is that rebuke has a protocol. The host reads this as elite 
 - Hanji 142 adds that interruption, bodily courage, bathroom pretexts, gift presentation, and delay can also be read as etiquette-managed power moves inside a lethal room.
 - Hanji 159-1 adds that disrespectful reception and later material equality can form one status-management sequence rather than two unrelated gestures.
 - Hanji 176 adds that repeated court protocol can be read as institutionalized etiquette, not only as one-off crisis performance.
+- Hanji 987 adds that overfamiliar hospitality can misread power: seating, spouse-mediated greeting, and brotherly address may damage status rather than create trust.
 
 ## Connections
 - [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ShusunTong|叔孙通]], [[ChanglePalace|长乐宫]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[ImperialRitualDistance|君臣礼制距离]] - formal court ritual as power-readable institutional protocol.
+- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[LyuBu|吕布]], [[LiuBei|刘备]], [[LadyYanLyuBu|严氏]], and [[Xuzhou|徐州]] - post-defeat reception scene and host-guest boundary failure.
 - [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[YingBu|英布]], and [[StatusSuppressionThenEqualTreatment|先挫锐气后同等厚待]] - foot-washing reception and equal lodging as paired status signals.
 - [[HongmenYan|《鸿门宴》]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - source field.
 - [[ZhaoLiang|赵良]], [[ShangYang|公孙鞅 / 商鞅]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 25 remonstrance and warning branch.

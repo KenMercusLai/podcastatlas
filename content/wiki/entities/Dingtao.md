@@ -1,9 +1,9 @@
 ---
 title: "陶 / 定陶 / Dingtao"
 type: entity
-tags: [place, song-state, qi-state, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
-last_updated: 2026-08-22
+tags: [place, song-state, qi-state, qin-state, pre-qin, warring-states, late-han]
+sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+last_updated: 2026-08-24
 ---
 
 # 陶 / 定陶 / Dingtao
@@ -20,6 +20,8 @@ The page is mainly a source-critical marker. It shows why a place-name notice sh
 
 [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] gives Dingtao a Qin-collapse battlefield role. After [[XiangLiang|项梁]] wins there and elsewhere, [[SongYi|宋义]] warns that the victories have made the Chu commander arrogant. [[ZhangHanQin|章邯]] then receives reinforcements, night-attacks Dingtao, defeats the Chu army, and kills Xiang Liang. The site therefore becomes the hinge between Xiang Liang's Chu-centered command and [[MiXin|芈心 / 楚怀王]]'s later reorganization at [[Xuzhou|彭城]].
 
+[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds a late-Han battlefield layer. After [[XunYu|荀彧]] persuades [[CaoCao|曹操]] to secure [[YanzhouLateHan|兖州]] before pursuing [[Xuzhou|徐州]], [[LyuBu|吕布]] and [[ChenGongLateHan|陈宫]] advance near Dingtao with a larger force. Cao Cao uses dike-and-forest terrain to set an ambush, defeats Lü Bu, captures Dingtao, and then settles surrounding counties; this distinct event is tracked as [[DingtaoBattleLateHan|定陶之战]].
+
 ## Connections
 - [[WeiRan|魏冉]] - figure whose enfeoffment notice is corrected.
 - [[ZizhiTongjian|《资治通鉴》]] and [[ChronicleChronologyDrift|编年错位]] - source and correction frame.
@@ -27,3 +29,4 @@ The page is mainly a source-critical marker. It shows why a place-name notice sh
 - [[LiDui|李兑]], [[EastWestEmperorDiplomaticProbe|东西二帝试探]], and [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo|Zhouji 68 part 1]] - pre-destruction fief-interest layer around Song and Tao.
 - [[KeqingZao|客卿灶 / 客卿造]] and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - Zhouji 88 campaign and concept tied to Wei Ran's private-base expansion.
 - [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[XiangLiang|项梁]], [[SongYi|宋义]], [[ZhangHanQin|章邯]], and [[HuaiwangAgreement|怀王之约]] - Xiang Liang's death and post-defeat Chu reorganization.
+- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[DingtaoBattleLateHan|定陶之战]], [[CaoCao|曹操]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], and [[BattlefieldInformationControl|战场信息控制]] - late-Han ambush and base-recovery layer.

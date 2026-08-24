@@ -10766,6 +10766,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决
+
+Added source page for a 芮淇讲透资治通鉴 episode on Xun Yu persuading Cao Cao to secure Yanzhou before pursuing Xuzhou, Cao Cao's terrain-and-ambush victory over Lü Bu at Dingtao, Lü Bu's flight to Liu Bei, and the reception scene involving Lady Yan. Created pages for Yanzhou (Late Han), Dingtao Battle (Late Han), Lady Yan (Lü Bu), and Root-Base Priority; updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; the host's desire frame, Cao Cao praise, and Liu Bei inner-motive reading are kept source-scoped.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝
 
 Added source page for a 芮淇讲透资治通鉴 episode on Han Fei's interest-centered human-nature frame, Li Jue and Guo Si's summer 195 CE settlement pressure, Yang Feng's defection, Zhang Ji's mediation, Jia Xu's Qiang-Hu intervention, Liu Ai's bridge announcement, and Emperor Xian's hunger-marked departure from Chang'an. Created page for Liu Ai (late Han); updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; the Legalist/human-nature opening and closing humility maxim are kept source-scoped.
@@ -11049,6 +11053,10 @@ Ran health, identity validation, and lint. Health passed across 13,825 wiki page
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人
 
 Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's 195 CE route-control crisis, Guo Si's obstruction and failed Xinfeng coercion, Cao Cao's Yongqiu/Yanzhou turn through Zhang Miao's death, and Duan Wei's contested Huayin supply effort. Created pages for Huayin (late Han) and Liu Yi (late Han); updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; Liu Yi's hidden-asset reading and the title's moral frame are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决](sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave.md) — 芮淇讲透资治通鉴 episode on Xun Yu persuading Cao Cao to secure Yanzhou before pursuing Xuzhou, Cao Cao's Dingtao ambush victory over Lü Bu, and Lü Bu's awkward reception by Liu Bei.
 - [《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝](sources/zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl.md) — 芮淇讲透资治通鉴 episode on Han Fei's interest-centered human-nature frame, Li Jue and Guo Si's fragile settlement, Jia Xu detaching Qiang-Hu supporters, and Emperor Xian's bridge humiliation while leaving Chang'an.
 - [《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人](sources/zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's 195 CE route-control crisis, Guo Si's obstruction, Cao Cao's Yongqiu/Yanzhou turn, and Duan Wei's contested Huayin supply effort.
 - [《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？](sources/zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f.md) — 芮淇讲透资治通鉴 episode on Yang Ding's failed attack on Duan Wei, Zhang Ji's alliance switch, and Li Jue/Guo Si reuniting because Emperor Xian remained the higher-value political prize.
@@ -1384,6 +1385,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [兖州 / Yanzhou (Late Han)](entities/YanzhouLateHan.md) — Cao Cao's contested root base in Hanji 987, later formalized through the Yongqiu/Yanzhou branch and remembered through the Zhang Miao-Zang Hong aftershock.
+- [定陶之战 (195 CE) / Dingtao Battle (Late Han)](entities/DingtaoBattleLateHan.md) — Late-Han battle where Cao Cao uses terrain and伏兵 to defeat Lü Bu after choosing to secure Yanzhou.
+- [严氏 / Lady Yan (Lü Bu)](entities/LadyYanLyuBu.md) — Lü Bu's wife in Hanji 987's reception scene, where seating Liu Bei on her bed marks a public/private etiquette breach.
 - [郭图 / Guo Tu](entities/GuoTu.md) — Yuan Shao adviser who opposes Ju Shou's plan to welcome Emperor Xian because hosting the sovereign would constrain later decisions.
 - [淳于琼 / Chunyu Qiong](entities/ChunyuQiong.md) — Yuan Shao adviser paired with Guo Tu in resisting the emperor-welcome plan and its legitimacy-control tradeoff.
 - [吴景 / Wu Jing (late Han)](entities/WuJingLateHan.md) — Sun Ce's uncle whose stalled Hengjiang campaign becomes Sun Ce's public reason to leave Yuan Shu and open the Jiangdong campaign.
@@ -8526,6 +8530,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Root-Base Priority / 根本根据地优先](concepts/RootBasePriority.md) — Xun Yu's Hanji 987 principle that Cao Cao must secure Yanzhou's harvest, people, rear safety, and fallback capacity before chasing Xuzhou.
 - [Status-Filtered Talent Misrecognition / 门第筛选式人才误判](concepts/StatusFilteredTalentMisrecognition.md) — Hanji 993 personnel failure where status, reputation anxiety, and elite judgment block available talent from receiving usable authority.
 - [Operational Gap Ownership / 主动补组织短板](concepts/OperationalGapOwnership.md) — Management pattern where a capable subordinate notices an organizational gap and voluntarily takes responsibility for unglamorous execution work.
 - [Subordinate Success Non-Jealousy / 下属成就不嫉妒](concepts/SubordinateSuccessNonJealousy.md) — Leadership pattern where a leader treats a subordinate's reputation and credit as organizational strength rather than personal threat.

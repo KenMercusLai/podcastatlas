@@ -12835,6 +12835,10 @@
     "title": "陶 / 定陶 / Dingtao",
     "url": "/wiki/entities/dingtao/"
   },
+  "DingtaoBattleLateHan": {
+    "title": "定陶之战 (195 CE) / Dingtao Battle (Late Han)",
+    "url": "/wiki/entities/dingtaobattlelatehan/"
+  },
   "DingxiangDoctor": {
     "title": "丁香医生",
     "url": "/wiki/entities/dingxiangdoctor/"
@@ -25210,6 +25214,10 @@
   "LadyDuCaoCao": {
     "title": "杜夫人 / Lady Du (Cao Cao)",
     "url": "/wiki/entities/ladyducaocao/"
+  },
+  "LadyYanLyuBu": {
+    "title": "严氏 / Lady Yan (Lü Bu)",
+    "url": "/wiki/entities/ladyyanlyubu/"
   },
   "LadyYinCaoCao": {
     "title": "尹夫人 / Lady Yin (Cao Cao)",
@@ -38043,6 +38051,10 @@
     "title": "Roone Arledge",
     "url": "/wiki/entities/roonearledge/"
   },
+  "RootBasePriority": {
+    "title": "Root-Base Priority / 根本根据地优先",
+    "url": "/wiki/concepts/rootbasepriority/"
+  },
   "RootCausePublicHealthResearch": {
     "title": "Root-Cause Public Health Research",
     "url": "/wiki/concepts/rootcausepublichealthresearch/"
@@ -48899,6 +48911,10 @@
     "title": "阏氏 / Yanzhi (Xiongnu Consort)",
     "url": "/wiki/entities/yanzhixiongnuconsort/"
   },
+  "YanzhouLateHan": {
+    "title": "兖州 / Yanzhou (Late Han)",
+    "url": "/wiki/entities/yanzhoulatehan/"
+  },
   "YaoJia": {
     "title": "姚贾 / Yao Jia",
     "url": "/wiki/entities/yaojia/"
@@ -54402,6 +54418,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave": {
+    "title": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave/"
   },
   "zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl": {
     "title": "《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝",

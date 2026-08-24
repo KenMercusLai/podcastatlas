@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7138
+wiki_total_pages: 7141
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "YuYingshi"
     title: "余英时 / Yu Yingshi"
     url: "/wiki/entities/yuyingshi/"
+  - key: "YanzhouLateHan"
+    title: "兖州 / Yanzhou (Late Han)"
+    url: "/wiki/entities/yanzhoulatehan/"
   - key: "YakumoHospital"
     title: "八云医院"
     url: "/wiki/entities/yakumohospital/"

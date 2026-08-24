@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5315
+wiki_total_pages: 5316
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "RoofscapeAttention"
     title: "Roofscape Attention"
     url: "/wiki/concepts/roofscapeattention/"
+  - key: "RootBasePriority"
+    title: "Root-Base Priority / 根本根据地优先"
+    url: "/wiki/concepts/rootbasepriority/"
   - key: "RootCausePublicHealthResearch"
     title: "Root-Cause Public Health Research"
     url: "/wiki/concepts/rootcausepublichealthresearch/"

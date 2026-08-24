@@ -2,11 +2,15 @@
 title: "荀彧 / Xun Yu"
 type: entity
 tags: [person, late-han, official, strategist, china]
-sources: [zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+last_updated: 2026-08-24
 ---
 
 # 荀彧 / Xun Yu
+
+[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds Xun Yu's earlier base-first advice to [[CaoCao|曹操]]. When Cao Cao is tempted to attack [[Xuzhou|徐州]] after [[TaoQianLateHan|陶谦]]'s death, Xun Yu argues that Cao Cao must first secure [[YanzhouLateHan|兖州]], harvest grain, conserve supplies, and remove [[LyuBu|吕布]] and [[ZhangMiaoLateHan|张邈]] as rear threats.
+
+The episode makes Xun Yu's reasoning concrete rather than merely cautious. He compares Yanzhou with [[GuanzhongRegion|关中]] for Liu Bang and [[HeneiCommandery|河内]] for Liu Xiu, then adds food,民心, campaign tempo, and Cao Cao's earlier violence in Xuzhou as constraints. This branch becomes [[RootBasePriority|根本根据地优先]] before Xun Yu's later legitimacy-window and strategic-sequencing branches.
 
 [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] adds Xun Yu as the strategist of Cao Cao's welcome-the-emperor window. When [[CaoCao|曹操]]'s subordinates worry that receiving [[EmperorXianOfHan|汉献帝]] will bring uncontrollable court and military problems, Xun Yu answers with precedents: Duke Wen of Jin receiving King Xiang of Zhou and Liu Bang mourning Yi Emperor both show how honoring a weakened sovereign can win public standing.
 
@@ -28,6 +32,7 @@ The episode's interest is less in Xun Yu's biography than in his position inside
 
 ## Connections
 - [[CaoCao|曹操]] - political order in which Xun Yu is acting.
+- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[YanzhouLateHan|兖州]], [[Xuzhou|徐州]], [[LyuBu|吕布]], and [[RootBasePriority|根本根据地优先]] - base-before-expansion advice.
 - [[EmperorXianOfHan|汉献帝]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[MingqiLegitimacy|名器合法性]] - Hanji 1002 welcome-the-emperor legitimacy branch.
 - [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[XunYou|荀攸]], [[GuoJia|郭嘉]], and [[Xudu|许都]] - adviser recommendation and transcript-normalization branch.
 - [[GuoJia|郭嘉]], [[TenVictoriesTenDefeats|十胜十败论]], and [[YuanShao|袁绍]] - Hanji 1014 leadership-comparison branch.

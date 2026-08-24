@@ -2,8 +2,8 @@
 title: "War Cost Tempo Discipline / 战争成本与速决纪律"
 type: concept
 tags: [warfare, strategy, logistics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
+last_updated: 2026-08-24
 ---
 
 # War Cost Tempo Discipline / 战争成本与速决纪律
@@ -26,6 +26,8 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 
 [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] adds a late-Han production-capacity branch through [[CaoCao|曹操]]. The host links Cao Cao's annotations on [[SunziBingfa|《孙子兵法》]] to attention to food routes and campaign costs, but the episode's stronger point is institutional: [[TuntianSystem|屯田制]] reduces future campaign constraint by making grain production itself part of military statecraft.
 
+[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds a campaign-refusal branch before that production-capacity case. [[XunYu|荀彧]] argues that [[CaoCao|曹操]] should harvest and conserve [[YanzhouLateHan|兖州]] grain before striking [[LyuBu|吕布]], and should not attack [[Xuzhou|徐州]] when the target's grain is already gone and local resentment may force a long siege. Cost discipline here means not starting a campaign whose food, rear security, and民心 conditions are already wrong.
+
 ## Key Claims
 - The reason to prefer quick victory is that prolonged war is expensive, not that speed is always tactically correct.
 - Nonmilitary victory is strategically superior when it can preserve resources and still secure the objective.
@@ -37,6 +39,7 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 - Delaying battle can reduce cost when one's own logistics can sustain the pause and the enemy's mobilization cannot.
 - Fast attack can reduce cost when a supply-corridor disruption creates a narrow window before the enemy can repair or reconnect.
 - Hanji 1008 adds that a ruler can discipline war cost upstream by organizing agricultural production before campaigns, not only by choosing battle tempo once war begins.
+- Hanji 987 adds that the cheapest campaign may be the refused one: Xun Yu treats harvest timing, rear defense, target grain, and hostile people as pre-battle cost checks.
 
 ## Connections
 - [[SunziBingfa|《孙子兵法》]], [[BaiQi|白起]], and [[QinZhaoxiangwang|秦昭襄王]] - source text, commander, and ruler in the episode's cost argument.
@@ -49,3 +52,4 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 delayed-battle cost discipline.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[Aocang|敖仓]], [[ZhangRiver|漳水]], and [[BreakingCauldronsAndSinkingBoats|破釜沉舟]] - fast exploitation after the besieger's supply corridor breaks.
 - [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]], [[CaoCao|曹操]], [[ZaoZhi|枣祗]], [[RenJun|任峻]], [[Xudu|许都]], and [[TuntianSystem|屯田制]] - late-Han agricultural production as campaign-cost control.
+- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[XunYu|荀彧]], [[YanzhouLateHan|兖州]], [[Xuzhou|徐州]], and [[RootBasePriority|根本根据地优先]] - harvest, rear-security, and target-supply checks before campaign choice.

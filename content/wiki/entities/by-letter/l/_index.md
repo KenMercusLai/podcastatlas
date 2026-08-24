@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7138
+wiki_total_pages: 7141
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "LadyDingCaoCao"
     title: "丁夫人 / Lady Ding (Cao Cao)"
     url: "/wiki/entities/ladydingcaocao/"
+  - key: "LadyYanLyuBu"
+    title: "严氏 / Lady Yan (Lü Bu)"
+    url: "/wiki/entities/ladyyanlyubu/"
   - key: "LinjinWarringStates"
     title: "临晋 / Linjin (Warring States)"
     url: "/wiki/entities/linjinwarringstates/"
