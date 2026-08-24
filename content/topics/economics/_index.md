@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1820
+topic_total_pages: 1821
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4745,6 +4745,9 @@ topic_entities:
   - key: "JinZicai"
     title: "金子才 / Jin Zicai"
     url: "/wiki/entities/jinzicai/"
+  - key: "QiantangWuClan"
+    title: "钱塘吴氏 / Qiantang Wu Clan"
+    url: "/wiki/entities/qiantangwuclan/"
   - key: "QianliangHutongFM"
     title: "钱粮胡同FM"
     url: "/wiki/entities/qianlianghutongfm/"
