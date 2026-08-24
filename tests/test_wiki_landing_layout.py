@@ -29,22 +29,24 @@ class WikiLandingLayoutTest(unittest.TestCase):
         self.assertIn("first 3 $recentConcepts", layout)
         self.assertIn("first 3 $recentEntities", layout)
 
-    def test_landing_exposes_collections_topics_and_coverage(self):
+    def test_landing_unifies_coverage_into_five_linked_collection_cards(self):
         layout = WIKI_LAYOUT.read_text()
 
-        self.assertIn("Explore the knowledge base", layout)
-        for label in ("Concepts", "Entities", "Source Notes"):
-            self.assertIn(label, layout)
+        self.assertEqual(layout.count("Explore the knowledge base"), 1)
+        self.assertNotIn("Knowledge coverage", layout)
+        self.assertIn('.Site.GetPage "/episodes"', layout)
+        self.assertIn('.Site.GetPage "/show"', layout)
+
+        for label in ("Episodes", "Shows", "Concepts", "Entities", "Source Notes"):
+            self.assertIn(f">{label}</a>", layout)
+
+        self.assertNotIn("wiki-stat-grid", layout)
+        self.assertNotIn("wiki-stat", layout)
 
         self.assertIn("Browse by topic", layout)
         self.assertIn('.Site.GetPage "/topics"', layout)
         self.assertIn(".Params.topic_pages", layout)
         self.assertNotIn(".Site.Taxonomies.tags", layout)
-        self.assertIn("Knowledge coverage", layout)
-        self.assertIn('where .Site.RegularPages "Section" "episodes"', layout)
-        self.assertIn('.Site.GetPage "/show"', layout)
-        for label in ("Episodes", "Shows"):
-            self.assertIn(label, layout)
 
     def test_landing_keeps_history_and_health_as_supporting_links(self):
         layout = WIKI_LAYOUT.read_text()

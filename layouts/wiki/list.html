@@ -29,8 +29,7 @@
 
     .wiki-feature-grid,
     .wiki-collection-grid,
-    .wiki-recent-grid,
-    .wiki-stat-grid {
+    .wiki-recent-grid {
       display: grid;
       gap: 16px;
     }
@@ -44,14 +43,9 @@
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
-    .wiki-stat-grid {
-      grid-template-columns: repeat(5, minmax(0, 1fr));
-    }
-
     .wiki-feature,
     .wiki-collection,
-    .wiki-recent,
-    .wiki-stat {
+    .wiki-recent {
       padding: 20px;
       border: 1px solid var(--line);
       background: var(--panel);
@@ -103,20 +97,8 @@
       font-size: 0.9rem;
     }
 
-    .wiki-stat strong,
-    .wiki-stat span {
-      display: block;
-    }
-
-    .wiki-stat span {
-      margin-top: 4px;
-      color: var(--muted);
-      font-size: 0.9rem;
-    }
-
     @media (max-width: 760px) {
-      .wiki-collection-grid,
-      .wiki-stat-grid {
+      .wiki-collection-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
       }
     }
@@ -124,8 +106,7 @@
     @media (max-width: 560px) {
       .wiki-feature-grid,
       .wiki-collection-grid,
-      .wiki-recent-grid,
-      .wiki-stat-grid {
+      .wiki-recent-grid {
         grid-template-columns: 1fr;
       }
     }
@@ -150,8 +131,8 @@
     {{ $concepts := .Site.GetPage "/wiki/concepts" }}
     {{ $entities := .Site.GetPage "/wiki/entities" }}
     {{ $sources := .Site.GetPage "/wiki/sources" }}
+    {{ $episodeSection := .Site.GetPage "/episodes" }}
     {{ $showSection := .Site.GetPage "/show" }}
-    {{ $episodes := where .Site.RegularPages "Section" "episodes" }}
 
     <section class="wiki-landing-hero">
       <p class="wiki-label">The knowledge layer</p>
@@ -244,8 +225,22 @@
 
     <section class="wiki-landing-section" aria-labelledby="knowledge-collections-heading">
       <h2 id="knowledge-collections-heading">Explore the knowledge base</h2>
-      <p class="wiki-section-intro">Move from synthesized ideas to named entities and the source notes that preserve their podcast provenance.</p>
+      <p class="wiki-section-intro">Browse the podcast corpus and the knowledge collections synthesized from it.</p>
       <div class="wiki-collection-grid">
+        {{ with $episodeSection }}
+          <article class="wiki-collection">
+            <span class="wiki-label">{{ len .RegularPages }} pages</span>
+            <h3><a href="{{ .RelPermalink }}">Episodes</a></h3>
+            <p>Podcast episodes with summaries, chapters, and source-linked knowledge.</p>
+          </article>
+        {{ end }}
+        {{ with $showSection }}
+          <article class="wiki-collection">
+            <span class="wiki-label">{{ len .Pages }} pages</span>
+            <h3><a href="{{ .RelPermalink }}">Shows</a></h3>
+            <p>Podcast series and their evolving coverage across episodes.</p>
+          </article>
+        {{ end }}
         {{ with $concepts }}
           <article class="wiki-collection">
             <span class="wiki-label">{{ len .RegularPages }} pages</span>
@@ -289,25 +284,6 @@
       </section>
     {{ end }}
 
-    <section class="wiki-landing-section" aria-labelledby="coverage-heading">
-      <h2 id="coverage-heading">Knowledge coverage</h2>
-      <p class="wiki-section-intro">The current scale of the podcast corpus and the knowledge collections synthesized from it.</p>
-      <div class="wiki-stat-grid">
-        <div class="wiki-stat"><strong>{{ len $episodes }}</strong><span>Episodes</span></div>
-        {{ with $showSection }}
-          <div class="wiki-stat"><strong>{{ len .Pages }}</strong><span>Shows</span></div>
-        {{ end }}
-        {{ with $concepts }}
-          <div class="wiki-stat"><strong>{{ len .RegularPages }}</strong><span>Concepts</span></div>
-        {{ end }}
-        {{ with $entities }}
-          <div class="wiki-stat"><strong>{{ len .RegularPages }}</strong><span>Entities</span></div>
-        {{ end }}
-        {{ with $sources }}
-          <div class="wiki-stat"><strong>{{ len .RegularPages }}</strong><span>Source Notes</span></div>
-        {{ end }}
-      </div>
-    </section>
 
     <section class="wiki-landing-section" aria-labelledby="maintenance-heading">
       <h2 id="maintenance-heading">History and health</h2>
