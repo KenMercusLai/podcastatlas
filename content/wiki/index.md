@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究](sources/zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk.md) — 芮淇讲透资治通鉴 episode on Li Jue holding Emperor Xian, Guo Si holding ministers, Yang Biao's hostage-banquet rebuke, Qiang-Hu recruitment, camp arson/defection, and the emperor's food humiliation in Beiwu.
 - [《资治通鉴·汉纪》986丨天欲其亡，必先令其狂](sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd.md) — 芮淇讲透资治通鉴 episode on Li Jue rejecting court mediation and raging at remonstrance, Huangfu Li's near-fatal warning, Cao Cao killing Lü Bu's Juye commanders, and the Xuzhou temptation after Tao Qian's death.
 - [《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决](sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave.md) — 芮淇讲透资治通鉴 episode on Xun Yu persuading Cao Cao to secure Yanzhou before pursuing Xuzhou, Cao Cao's Dingtao ambush victory over Lü Bu, and Lü Bu's awkward reception by Liu Bei.
 - [《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝](sources/zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl.md) — 芮淇讲透资治通鉴 episode on Han Fei's interest-centered human-nature frame, Li Jue and Guo Si's fragile settlement, Jia Xu detaching Qiang-Hu supporters, and Emperor Xian's bridge humiliation while leaving Chang'an.
@@ -1688,6 +1689,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [胡才 / Hu Cai (late Han)](entities/HuCaiLateHan.md) — Former Baibo commander in the emergency reinforcement field that briefly counters Li Jue's pursuit of Emperor Xian.
 - [去卑 / Qubei (Southern Xiongnu)](entities/QubeiSouthernXiongnu.md) — Southern Xiongnu right wise king whose cavalry joins the late-Han emperor-escort coalition in Hanji 991.
 - [伏皇后 / Empress Fu Shou](entities/FuShouEmpress.md) — Empress accompanying Emperor Xian through the night escape and Yellow River crossing in Hanji 991.
+- [伏完 / Fu Wan (late Han)](entities/FuWanLateHan.md) — Fu Shou's father, appointed zhijinwu when Emperor Xian names her empress under Li-Guo coercion in Hanji 985.
 - [士孙瑞 / Shi Sun Rui (late Han)](entities/ShiSunRuiLateHan.md) — Court official killed during Emperor Xian's flight after earlier surviving the Dong Zhuo assassination aftermath.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
 - [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as politically skillful at remnant absorption and defensive governance but limited by slow change-reading, indecision, and suspicion.
@@ -1716,6 +1718,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [任峻 / Ren Jun](entities/RenJun.md) — Cao Cao-side official appointed典农中郎将 to implement屯田 with Zao Zhi around Xudu.
 - [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose rivalry and temporary reunion with Guo Si over Emperor Xian creates the flight-and-escort crisis before the Luoyang return.
 - [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor paired with Li Jue in rivalry and temporary reunion over Emperor Xian, making protection and capture hard to separate.
+- [杨密 / Yang Mi (late Han)](entities/YangMiLateHan.md) — Zhonglangjiang who stops Guo Si from killing Yang Biao after the hostage-banquet rebuke in Hanji 985.
+- [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong who urges Emperor Xian to suppress anger over Li Jue's rotten-bones food humiliation.
+- [张苞 / Zhang Bao (late Han)](entities/ZhangBaoLateHan.md) — Li Jue-side zhonglangjiang who colludes with Guo Si, sets fires in Li Jue's camp, and defects after the failed night attack.
+- [朱儁 / Zhu Jun (late Han)](entities/ZhuJunLateHan.md) — Court official held by Guo Si whose anger, illness, and death mark the bodily cost of ministerial hostage-taking.
 - [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — Situ who writes a dangerous remonstrance to Li Jue after Li Jue refuses imperial mediation and tries to move Emperor Xian.
 - [皇甫郦 / Huangfu Li (late Han)](entities/HuangfuLiLateHan.md) — Envoy whose direct warning to Li Jue turns mediation into near-fatal remonstrance in Hanji 986.
 - [王昌 / Wang Chang (late Han)](entities/WangChangLateHan.md) — Huben warrior sent to pursue Huangfu Li who spares him after recognizing his loyalty and uprightness.

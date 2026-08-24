@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: adb81672f2d12b462fb321c7afbcbbcdef8c5b71
+as_of_overview_commit: 3557506146233ae4dcba823d6917842c51f5f5b6
 summary: "Durable change depends on turning symbols, tools, markets, institutions, and talent into grounded operations, incentives, evidence, trust, and feedback."
-episode_count: 1378
-source_count: 1378
-paragraph_count: 174
+episode_count: 1379
+source_count: 1379
+paragraph_count: 175
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ The cultural material treats literature, games, folklore, film, and media forms 
 
 ### Governance and Institutions
 
-Governance turns on translating symbolic authority into enforceable capacity: Hanji 986-991 show Emperor Xian's title mattering while failing to command soldiers, routes, food, feedback, or safety, and modern cases add surveillance, development policy, policing legitimacy, implementation incentives, and enterprise AI rules.
+Governance turns on translating symbolic authority into enforceable capacity: Hanji 985-991 show Emperor Xian's title mattering while failing to command hostages, soldiers, routes, food, feedback, or safety, and modern cases add surveillance, development policy, policing legitimacy, implementation incentives, and enterprise AI rules.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].

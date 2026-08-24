@@ -17255,6 +17255,10 @@
     "title": "扶苏 / Fu Su",
     "url": "/wiki/entities/fusu/"
   },
+  "FuWanLateHan": {
+    "title": "伏完 / Fu Wan (late Han)",
+    "url": "/wiki/entities/fuwanlatehan/"
+  },
   "FuYu": {
     "title": "傅宇 / Fu Yu",
     "url": "/wiki/entities/fuyu/"
@@ -48839,6 +48843,14 @@
     "title": "Yang Meng / 杨萌",
     "url": "/wiki/entities/yangmeng/"
   },
+  "YangMiLateHan": {
+    "title": "杨密 / Yang Mi (late Han)",
+    "url": "/wiki/entities/yangmilatehan/"
+  },
+  "YangQiLateHan": {
+    "title": "杨琦 / Yang Qi (late Han)",
+    "url": "/wiki/entities/yangqilatehan/"
+  },
   "YangShen": {
     "title": "杨慎",
     "url": "/wiki/entities/yangshen/"
@@ -49786,6 +49798,10 @@
   "ZhangBaLateHan": {
     "title": "张霸 / Zhang Ba (late Han)",
     "url": "/wiki/entities/zhangbalatehan/"
+  },
+  "ZhangBaoLateHan": {
+    "title": "张苞 / Zhang Bao (late Han)",
+    "url": "/wiki/entities/zhangbaolatehan/"
   },
   "ZhangBinSportsMedia": {
     "title": "张斌 / Zhang Bin",
@@ -50766,6 +50782,10 @@
   "ZhuJishi": {
     "title": "朱鸡石 / 朱吉石 / Zhu Jishi",
     "url": "/wiki/entities/zhujishi/"
+  },
+  "ZhuJunLateHan": {
+    "title": "朱儁 / Zhu Jun (late Han)",
+    "url": "/wiki/entities/zhujunlatehan/"
   },
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",
@@ -54438,6 +54458,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk": {
+    "title": "《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk/"
   },
   "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd": {
     "title": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂",

@@ -2,11 +2,15 @@
 title: "郭汜 / Guo Si (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 郭汜 / Guo Si (late Han)
+
+[[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] backfills Guo Si's hostage-taking before the later mediation sources. While [[LiJueLateHan|李傕]] holds [[EmperorXianOfHan|汉献帝]], Guo Si detains ministers including [[YangBiao|杨彪]], [[ShiSunRuiLateHan|士孙瑞]], and [[ZhuJunLateHan|朱儁]]. His banquet scene turns the court into a captive audience: Yang Biao directly rebukes the double hostage structure, Guo Si nearly kills him, and [[YangMiLateHan|杨密]] has to intervene.
+
+The same episode shows Guo Si's feud becoming a military and factional attack. He coordinates with [[ZhangBaoLateHan|张苞]] inside Li Jue's camp, launches a night assault, wounds Li Jue's ear by arrow, and sends arrows into the emperor's tent area before withdrawing when the camp defense holds.
 
 [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] backfills Guo Si as the rival whose dispute with [[LiJueLateHan|李傕]] draws repeated mediation from [[EmperorXianOfHan|汉献帝]]. In this episode Guo Si accepts [[HuangfuLiLateHan|皇甫郦]]'s mediation, while Li Jue refuses, insults him as a horse thief, and insists on killing him. The source still does not make Guo Si innocent; Huangfu Li explicitly says Guo Si has taken ministers hostage, but he uses that fact to show that Li Jue's seizure of the emperor is even more serious.
 
@@ -26,6 +30,7 @@ In this source, Guo Si is part of the setting that makes later court politics le
 
 ## Connections
 - [[LiJueLateHan|李傕]] - rival military actor in the Chang'an struggle.
+- [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[YangBiao|杨彪]], [[YangMiLateHan|杨密]], [[ZhangBaoLateHan|张苞]], [[ShiSunRuiLateHan|士孙瑞]], and [[ZhuJunLateHan|朱儁]] - hostage banquet, attempted violence, camp attack, and ministerial captivity.
 - [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] and [[HuangfuLiLateHan|皇甫郦]] - mediation branch where Guo Si accepts settlement while Li Jue refuses.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[ZhangJiLateHan|张济]], [[LiuAiLateHan|刘艾]], and [[MingqiLegitimacy|名器合法性]] - hostage bargaining and bridge obstruction before Hanji 989.
 - [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] - route obstruction, Xinfeng coercion plan, and failed westward control.

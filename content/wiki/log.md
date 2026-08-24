@@ -10994,6 +10994,10 @@ Ran health, identity validation, and lint. Health passed with no structural issu
 
 Added source page for a 芮淇讲透资治通鉴 episode on 196 CE late-Han trust fragility, Emperor Xian's eastward return after the Li Jue-Guo Si crisis, divided escort/protector politics, Yuan Shu's attack on Liu Bei, Zhang Fei killing Cao Bao at Xiapi, Yuan Shu's grain-backed inducement of Lü Bu, Xu Dan opening Xiapi, Mi Zhu funding Liu Bei's starving remnant, and Liu Bei's surrender/regrouping at Xiaopei. Created pages for Li Jue (late Han), Guo Si (late Han), Zhao Qi (late Han), He Yi (late Han), Tao Qian (late Han), Cao Bao (late Han), Xu Dan (late Han), Mi Zhu, and Grain Leverage Alliance Betrayal; updated overview, index, LyuBu, LiuBei, YuanShu, ZhangFei, EmperorXianOfHan, Xiapi, Xuzhou, PeiCounty, DongChengLateHan, YangFengLateHan, HanXianLateHan, ZhangYangLateHan, LiuBiao, ZhangJiLateHan, CaoCao, InterestStructuredAllianceFragility, ThreatDrivenAllianceReversal, and WartimeAgriculturalLaborCollapse. No settled contradiction found; Zhang Fei's older drunken-loss shorthand is retained as source-layer variation beside this episode's Cao Bao killing and Xu Dan gate-opening chain.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究
+
+Added source page for a 芮淇讲透资治通鉴 episode on Li Jue holding Emperor Xian, Guo Si holding ministers, Yang Biao's hostage-banquet rebuke, Fu Shou's empress appointment, Qiang-Hu recruitment, Zhang Bao's camp arson/defection, Yang Feng's camp defense, and Emperor Xian's rotten-bones food humiliation in Beiwu. Created pages for Fu Wan, Yang Mi, Yang Qi, Zhang Bao, and Zhu Jun; updated index, overview, Li Jue, Guo Si, Emperor Xian, Yang Biao, Fu Shou, Shi Sun Rui, Yang Feng, Protector-Captor Ambiguity, Mingqi Legitimacy, Interest-Structured Alliance Fragility, Political Survival First, and Xingshiqing Strategic Assessment. No settled contradiction found; transcript variants "杨凤" and "朱俊" are normalized to existing/canonical late-Han forms while kept source-scoped.
+
 ## [2026-08-24] lint | Wiki lint check
 
 Ran health, identity validation, and lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 13,723 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 13,723 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged source-breadth/depth risks for single-source pages such as `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/HumanDependentSafetySystem.md`, `wiki/concepts/DayZeroModelSupport.md`, and `wiki/concepts/EraTailwindInInvesting.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
@@ -11069,6 +11073,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》986丨天欲其亡，必先令其狂
 
 Added source page for a 芮淇讲透资治通鉴 episode on Li Jue rejecting Emperor Xian's mediation, Zhao Wen and Huangfu Li's dangerous remonstrance, Wang Chang sparing Huangfu Li, Cao Cao's Juye/Yanzhou ambush against Lü Bu, and Cao Cao's temptation to attack Xuzhou after Tao Qian's death. Created pages for Zhao Wen, Huangfu Li, Wang Chang, Xue Lan, and Li Feng; updated index and connected late-Han entity/concept pages. No settled contradiction found; Li Jue's psychology and the title judgment are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ef9734363d3afd0c1ea459a7d01b55ef5876f40ddf97d619760c292ec25d18ca",
       "82334b450b933e6bbdfb71baa664f3a987ac7f860d57bd79194822098b520416",
       "8629e4fd3753e437bb0a220bd621d6077764d62df30c30c0eeabeed322ac0bbb",
       "f0ae0e4245313af8038b0f131ea1a35f44c60abd1eafebca186fd445b9e65a07",
@@ -176,11 +177,43 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 174
+    "paragraph_count": 175
   },
-  "overview_commit": "adb81672f2d12b462fb321c7afbcbbcdef8c5b71",
-  "overview_digest": "a83e1b6e10b03a68e2641425c635116d8b5b7685f3d0324cf4dcafd0fd59efee",
+  "overview_commit": "3557506146233ae4dcba823d6917842c51f5f5b6",
+  "overview_digest": "c12e81d8e69ce918b2de0e0c2b806620e49ae487f9587f6dcf0aeda56ff45436",
   "paragraphs": [
+    {
+      "id": "ef9734363d3afd0c1ea459a7d01b55ef5876f40ddf97d619760c292ec25d18ca",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] Li-Guo rupture through [[LiJueLateHan|李傕]]'s captivity of [[EmperorXianOfHan|汉献帝]], [[GuoSiLateHan|郭汜]]'s captivity of ministers, and [[YangBiao|杨彪]]'s hostage-banquet rebuke. It adds [[FuWanLateHan|伏完]], [[YangMiLateHan|杨密]], [[YangQiLateHan|杨琦]], [[ZhangBaoLateHan|张苞]], and [[ZhuJunLateHan|朱儁]], while extending [[FuShouEmpress|伏皇后]], [[ShiSunRuiLateHan|士孙瑞]], [[YangFengLateHan|杨奉]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[MingqiLegitimacy|名器合法性]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that late-Han court collapse is already bodily and symmetric before the road-flight episodes: one warlord holds the emperor, the other holds ministers, formal empress and office appointments still occur, and survival depends on camp defense, restraint, and food access rather than ordinary sovereignty. No settled contradiction is recorded; transcript variants \"杨凤\" and \"朱俊\" are normalized to canonical late-Han pages while kept source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "EmperorXianOfHan",
+        "FuShouEmpress",
+        "FuWanLateHan",
+        "GuoSiLateHan",
+        "InterestStructuredAllianceFragility",
+        "LiJueLateHan",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "ProtectorCaptorAmbiguity",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "XingshiqingStrategicAssessment",
+        "YangBiao",
+        "YangFengLateHan",
+        "YangMiLateHan",
+        "YangQiLateHan",
+        "ZhangBaoLateHan",
+        "ZhuJunLateHan",
+        "zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk",
+        "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd"
+      ]
+    },
     {
       "id": "82334b450b933e6bbdfb71baa664f3a987ac7f860d57bd79194822098b520416",
       "primary_topic": "governance-and-institutions",

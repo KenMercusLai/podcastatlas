@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7146
+wiki_total_pages: 7151
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "YangDingLateHan"
     title: "杨定 / Yang Ding (late Han)"
     url: "/wiki/entities/yangdinglatehan/"
+  - key: "YangMiLateHan"
+    title: "杨密 / Yang Mi (late Han)"
+    url: "/wiki/entities/yangmilatehan/"
   - key: "YangXiaohuaSkier"
     title: "杨小华 / Yang Xiaohua (Skier)"
     url: "/wiki/entities/yangxiaohuaskier/"
@@ -467,6 +470,9 @@ wiki_pages:
   - key: "YangXiongQinGeneral"
     title: "杨熊 / Yang Xiong (Qin General)"
     url: "/wiki/entities/yangxiongqingeneral/"
+  - key: "YangQiLateHan"
+    title: "杨琦 / Yang Qi (late Han)"
+    url: "/wiki/entities/yangqilatehan/"
   - key: "YangLu"
     title: "杨璐 / Yang Lu"
     url: "/wiki/entities/yanglu/"

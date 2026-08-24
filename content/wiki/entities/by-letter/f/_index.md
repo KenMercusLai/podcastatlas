@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7146
+wiki_total_pages: 7151
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "FiveDynastiesTenKingdoms"
     title: "五代十国 / Five Dynasties and Ten Kingdoms"
     url: "/wiki/entities/fivedynastiestenkingdoms/"
+  - key: "FuWanLateHan"
+    title: "伏完 / Fu Wan (late Han)"
+    url: "/wiki/entities/fuwanlatehan/"
   - key: "FuShouEmpress"
     title: "伏皇后 / Empress Fu Shou"
     url: "/wiki/entities/fushouempress/"

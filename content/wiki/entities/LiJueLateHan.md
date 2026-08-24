@@ -2,11 +2,15 @@
 title: "李傕 / Li Jue (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 李傕 / Li Jue (late Han)
+
+[[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] backfills Li Jue's position at the start of the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] rupture. He holds [[EmperorXianOfHan|汉献帝]] while Guo Si holds court ministers, then recruits Qiang-Hu soldiers with gifts and promises of women to rebuild force against Guo Si. The night attack on his camp shows both danger and fragility: arrows reach the emperor's tent, [[ZhangBaoLateHan|张苞]] sets fires from inside the camp before defecting, and Li Jue moves the emperor into Beiwu under tighter door control.
+
+The same source gives Li Jue's coercive hosting its bodily detail. When the hungry emperor requests rice and beef bones for attendants, Li Jue sends rotten bones and leaves [[YangQiLateHan|杨琦]] to advise restraint because open anger could trigger further relocation toward Chiyang's Huangbai city.
 
 [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] backfills Li Jue's overreach before the later settlement and flight sources. [[ZhaoWenLateHan|赵温]] writes to warn him that attacking the capital, killing officials, refusing the imperial edict, and continuing the feud with [[GuoSiLateHan|郭汜]] have become signs of disaster, but Li Jue initially wants Zhao Wen killed. When [[EmperorXianOfHan|汉献帝]] later sends [[HuangfuLiLateHan|皇甫郦]] to mediate, Li Jue rejects the settlement, compares himself favorably with Guo Si, and then sends [[WangChangLateHan|王昌]] after Huangfu Li after receiving a direct rebuke.
 
@@ -28,6 +32,7 @@ The page keeps Li Jue's role source-scoped to this branch. He matters here less 
 
 ## Connections
 - [[GuoSiLateHan|郭汜]] - rival in the struggle over Emperor Xian.
+- [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[ZhangBaoLateHan|张苞]], [[YangQiLateHan|杨琦]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - hostage symmetry, camp breach, food humiliation, and restraint under captivity.
 - [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[ZhaoWenLateHan|赵温]], [[HuangfuLiLateHan|皇甫郦]], and [[WangChangLateHan|王昌]] - failed mediation, remonstrance, and rage before the later settlement sequence.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[YangFengLateHan|杨奉]], [[JiaXu|贾诩]], and [[LiuAiLateHan|刘艾]] - weakened Chang'an position, Qiang-Hu harassment, and bridge-exit prelude.
 - [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - temporary reunion and rescue/control pretext before renewed pursuit.
