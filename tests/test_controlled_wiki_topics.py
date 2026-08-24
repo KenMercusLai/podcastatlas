@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import importlib.util
+import json
+import re
 import sys
 import tempfile
 import unittest
@@ -25,6 +27,111 @@ class ControlledWikiTopicsTest(unittest.TestCase):
             ("technology", "economics", "history", "politics", "culture", "science"),
             tuple(topic.key for topic in topics),
         )
+
+    def test_committed_topic_projections_match_an_independent_source_oracle(self):
+        registry = json.loads((ROOT / "data" / "wiki_topics.json").read_text())["topics"]
+        aliases = {
+            topic["key"]: {tag.casefold() for tag in topic["tags"]}
+            for topic in registry
+        }
+        labels = {topic["key"]: topic["label"] for topic in registry}
+        expected_membership = {}
+        source_pages = []
+
+        for section in ("concepts", "entities", "sources"):
+            for path in sorted((ROOT / "content" / "wiki" / section).glob("*.md")):
+                if path.name == "_index.md":
+                    continue
+                text = path.read_text(encoding="utf-8")
+                tag_match = re.search(r"(?m)^tags:\s*\[([^\n]*)\]\s*$", text)
+                self.assertIsNotNone(tag_match, f"non-inline tags in {path}")
+                assert tag_match is not None
+                raw_tags = {
+                    item.strip().strip("\"'").casefold()
+                    for item in tag_match.group(1).split(",")
+                    if item.strip()
+                }
+                topic_keys = [
+                    topic["key"]
+                    for topic in registry
+                    if raw_tags.intersection(aliases[topic["key"]])
+                ]
+                title_match = re.search(r"(?m)^title:\s*(.+?)\s*$", text)
+                self.assertIsNotNone(title_match, f"missing title in {path}")
+                assert title_match is not None
+                raw_title = title_match.group(1)
+                try:
+                    title = json.loads(raw_title)
+                except json.JSONDecodeError:
+                    title = raw_title.strip("\"'")
+                source_pages.append((section, path.stem, title, topic_keys))
+                if topic_keys:
+                    expected_membership[path.stem] = [
+                        {
+                            "key": key,
+                            "label": labels[key],
+                            "url": f"/topics/{key}/",
+                        }
+                        for key in topic_keys
+                    ]
+
+        actual_membership = json.loads(
+            (ROOT / "data" / "wiki_topic_membership.json").read_text()
+        )
+        self.assertEqual(expected_membership, actual_membership)
+        self.assertGreater(
+            sum(not topic_keys for _, _, _, topic_keys in source_pages),
+            0,
+            "unclassified pages are intentionally omitted rather than forced into a topic",
+        )
+
+        field_by_section = {
+            "concepts": "topic_concepts",
+            "entities": "topic_entities",
+            "sources": "topic_sources",
+        }
+        for topic in registry:
+            generated_path = ROOT / "content" / "topics" / topic["key"] / "_index.md"
+            generated_lines = generated_path.read_text(encoding="utf-8").splitlines()
+            declared_total = next(
+                int(line.split(":", 1)[1])
+                for line in generated_lines
+                if line.startswith("topic_total_pages:")
+            )
+            expected_total = sum(
+                topic["key"] in topic_keys
+                for _, _, _, topic_keys in source_pages
+            )
+            self.assertEqual(expected_total, declared_total)
+
+            generated_by_section = {section: [] for section in field_by_section}
+            active_section = None
+            for line in generated_lines:
+                for section, field in field_by_section.items():
+                    if line == f"{field}:":
+                        active_section = section
+                        break
+                else:
+                    if active_section and line.startswith("  - key: "):
+                        generated_by_section[active_section].append(
+                            json.loads(line.split(":", 1)[1].strip())
+                        )
+                    elif line and not line.startswith(" "):
+                        active_section = None
+
+            for section in field_by_section:
+                expected_keys = [
+                    key
+                    for _, key, _, topic_keys in sorted(
+                        (
+                            page
+                            for page in source_pages
+                            if page[0] == section and topic["key"] in page[3]
+                        ),
+                        key=lambda page: (page[2].casefold(), page[1].casefold()),
+                    )
+                ]
+                self.assertEqual(expected_keys, generated_by_section[section])
 
     def test_classifies_pages_from_case_insensitive_controlled_tag_families(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -195,6 +302,8 @@ class ControlledWikiTopicsTest(unittest.TestCase):
 
         self.assertIn("tag = 'tags'", config)
         self.assertIn("legacy-tag-page", terms)
+        self.assertIn("legacy-tag-route-manifest", terms)
+        self.assertIn("jsonify $legacyTagRoutes | safeJS", terms)
         self.assertIn("legacy-tag-page", taxonomy)
         self.assertIn('content="noindex, follow"', base)
         self.assertIn('data-pagefind-ignore="all"', base)

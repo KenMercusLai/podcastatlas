@@ -383,6 +383,12 @@ class VerifyPagesOutputTest(unittest.TestCase):
                     body = "A living knowledge atlas synthesized from podcasts."
                 elif relative == "episodes/index.html":
                     body = episode_list_body(("example", "episode.160", "中文标题"))
+                elif relative == "tags/index.html":
+                    body = (
+                        '<main class="legacy-tag-page">Legacy tags</main>'
+                        '<script id="legacy-tag-route-manifest" type="application/json">'
+                        '["/tags/old-tag/"]</script>'
+                    )
                 elif relative.startswith("tags/"):
                     body = '<main class="legacy-tag-page">Legacy tag</main>'
                 elif relative == "wiki/index.html":
@@ -1055,21 +1061,43 @@ class VerifyPagesOutputTest(unittest.TestCase):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
             public = Path(directory)
-            legacy_html = (
-                '<html><head><meta name=robots content="noindex, follow"></head>'
-                '<body><main class="legacy-tag-page">Legacy tag</main></body></html>'
+
+            def legacy_page(url: str, body: str) -> str:
+                return valid_html(url, body).replace(
+                    "<head>",
+                    '<head><meta name=robots content="noindex, follow">',
+                    1,
+                )
+
+            root_body = (
+                '<main class="legacy-tag-page">Legacy tags</main>'
+                '<script id="legacy-tag-route-manifest" type="application/json">'
+                '["/tags/old-tag/"]</script>'
             )
-            write(public / "tags" / "index.html", legacy_html)
-            write(public / "tags" / "old-tag" / "index.html", legacy_html)
+            term_body = '<main class="legacy-tag-page">Legacy tag</main>'
+            write(
+                public / "tags" / "index.html",
+                legacy_page("https://podcastatlas.ai/tags/", root_body),
+            )
+            term_path = public / "tags" / "old-tag" / "index.html"
+            write(
+                term_path,
+                legacy_page("https://podcastatlas.ai/tags/old-tag/", term_body),
+            )
             errors = []
             verifier.validate_legacy_tags(public, errors)
             self.assertEqual([], errors)
 
-            write(public / "tags" / "old-tag" / "index.html", "exposed tag page")
+            term_path.unlink()
+            errors = []
+            verifier.validate_legacy_tags(public, errors)
+            self.assertTrue(any("route coverage mismatch" in error for error in errors))
+
+            write(term_path, "exposed tag page")
             errors = []
             verifier.validate_legacy_tags(public, errors)
 
-        self.assertTrue(any("missing noindex" in error for error in errors))
+        self.assertTrue(any("robots directive count" in error for error in errors))
         self.assertTrue(any("missing compatibility marker" in error for error in errors))
 
     def test_controlled_topic_sitemap_contract_rejects_tags_and_missing_topics(self):
@@ -1082,15 +1110,36 @@ class VerifyPagesOutputTest(unittest.TestCase):
             ],
         ]
         errors = []
-        verifier.validate_controlled_topic_sitemap(valid_urls, errors)
+        verifier.validate_controlled_topic_sitemap(
+            valid_urls, "https://podcastatlas.ai/", errors
+        )
         self.assertEqual([], errors)
 
         errors = []
         verifier.validate_controlled_topic_sitemap(
-            [*valid_urls[:-1], "https://podcastatlas.ai/tags/noise/"], errors
+            [*valid_urls[:-1], "https://podcastatlas.ai/tags/noise/"],
+            "https://podcastatlas.ai/",
+            errors,
         )
         self.assertTrue(any("raw tag URL found in sitemap" in error for error in errors))
         self.assertTrue(any("controlled topic sitemap coverage mismatch" in error for error in errors))
+
+        errors = []
+        verifier.validate_controlled_topic_sitemap(
+            [url.replace("podcastatlas.ai", "evil.example") for url in valid_urls],
+            "https://podcastatlas.ai/",
+            errors,
+        )
+        self.assertTrue(any("controlled topic sitemap coverage mismatch" in error for error in errors))
+
+        base_root = "https://example.test/podcastatlas/"
+        base_urls = [
+            f"{base_root}topics/",
+            *[f"{base_root}topics/{key}/" for key in verifier.CONTROLLED_TOPIC_KEYS],
+        ]
+        errors = []
+        verifier.validate_controlled_topic_sitemap(base_urls, base_root, errors)
+        self.assertEqual([], errors)
 
 
 if __name__ == "__main__":

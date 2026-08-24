@@ -10,7 +10,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
-from urllib.parse import unquote, urljoin, urlsplit
+from urllib.parse import quote, unquote, urljoin, urlsplit
 
 
 REQUIRED_FILES = (
@@ -275,6 +275,29 @@ def marked_elements(page_html: str, class_name: str) -> list[dict[str, str]]:
         for attributes in parser.elements
         if class_name in attributes.get("class", "").split()
     ]
+
+
+class LegacyTagMetadataParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.robots_contents: list[str] = []
+        self.in_route_manifest = False
+        self.route_manifest_chunks: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = {name.lower(): value or "" for name, value in attrs}
+        if tag.lower() == "meta" and attributes.get("name", "").casefold() == "robots":
+            self.robots_contents.append(attributes.get("content", ""))
+        if tag.lower() == "script" and attributes.get("id") == "legacy-tag-route-manifest":
+            self.in_route_manifest = True
+
+    def handle_data(self, data: str) -> None:
+        if self.in_route_manifest:
+            self.route_manifest_chunks.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() == "script" and self.in_route_manifest:
+            self.in_route_manifest = False
 
 
 class EpisodeListParser(HTMLParser):
@@ -764,49 +787,135 @@ def validate_legacy_tags(public_dir: Path, errors: list[str]) -> None:
         errors.append("missing legacy tag compatibility directory")
         return
     pages = sorted(tags_dir.rglob("index.html"))
-    if len(pages) < 2:
-        errors.append("legacy tag compatibility routes are missing term pages")
-    noindex_re = re.compile(
-        r'<meta\b(?=[^>]*\bname=(?:["\']robots["\']|robots\b))'
-        r'(?=[^>]*\bcontent=(?:["\'][^"\']*\bnoindex\b[^"\']*["\']|[^\s>]*\bnoindex\b[^\s>]*))[^>]*>',
-        re.IGNORECASE,
-    )
+    root_path = tags_dir / "index.html"
+    if not root_path.is_file():
+        errors.append("missing legacy tag compatibility root")
+        return
+
+    root_html = root_path.read_text(encoding="utf-8")
+    root_parser = LegacyTagMetadataParser()
+    root_parser.feed(root_html)
+    manifest_text = "".join(root_parser.route_manifest_chunks).strip()
+    expected_pages = {root_path.relative_to(public_dir).as_posix()}
+    try:
+        manifest_routes = json.loads(html.unescape(manifest_text))
+    except (json.JSONDecodeError, TypeError) as error:
+        errors.append(f"invalid legacy tag route manifest: {error}")
+        manifest_routes = []
+    if not isinstance(manifest_routes, list) or not all(
+        isinstance(route, str) for route in manifest_routes
+    ):
+        errors.append("legacy tag route manifest must be a list of URLs")
+        manifest_routes = []
+    if len(set(manifest_routes)) != len(manifest_routes):
+        errors.append("legacy tag route manifest contains duplicate URLs")
+
+    for route in manifest_routes:
+        url_path = local_route_path(route)
+        marker = "/tags/"
+        if url_path is None or url_path.count(marker) != 1:
+            errors.append(f"invalid legacy tag route manifest URL: {route}")
+            continue
+        tail = url_path.rsplit(marker, 1)[1].strip("/")
+        if not tail or "/" in tail:
+            errors.append(f"invalid legacy tag term route: {route}")
+            continue
+        expected_pages.add(
+            (Path("tags") / unquote(tail) / "index.html").as_posix()
+        )
+
+    actual_pages = {
+        path.relative_to(public_dir).as_posix()
+        for path in pages
+    }
+    if actual_pages != expected_pages:
+        missing = sorted(expected_pages - actual_pages)
+        unexpected = sorted(actual_pages - expected_pages)
+        errors.append(
+            "legacy tag route coverage mismatch: "
+            f"missing {len(missing)} {missing[:3]}, "
+            f"unexpected {len(unexpected)} {unexpected[:3]}"
+        )
+
+    root_canonical = extracted_attribute(CANONICAL_URL_RE.search(root_html))
     for path in pages:
         page_html = path.read_text(encoding="utf-8")
         relative = path.relative_to(public_dir).as_posix()
-        if not noindex_re.search(page_html):
-            errors.append(f"legacy tag page is missing noindex: {relative}")
+        parser = LegacyTagMetadataParser()
+        parser.feed(page_html)
+        if len(parser.robots_contents) != 1:
+            errors.append(
+                f"legacy tag robots directive count in {relative}: "
+                f"expected 1, found {len(parser.robots_contents)}"
+            )
+        else:
+            directives = {
+                directive
+                for directive in re.split(r"[\s,]+", parser.robots_contents[0].casefold())
+                if directive
+            }
+            if not {"noindex", "follow"}.issubset(directives):
+                errors.append(f"legacy tag page must be noindex, follow: {relative}")
         markers = marked_elements(page_html, "legacy-tag-page")
         if len(markers) != 1:
             errors.append(
                 f"legacy tag page is missing compatibility marker: {relative}"
             )
+        validate_metadata_page(path, public_dir, errors)
+        canonical = extracted_attribute(CANONICAL_URL_RE.search(page_html))
+        if root_canonical is not None and canonical is not None:
+            if path == root_path:
+                expected_canonical = root_canonical
+            else:
+                term = path.parent.relative_to(tags_dir).as_posix()
+                expected_canonical = urljoin(root_canonical, f"{quote(term, safe='/')}/")
+            if canonical != expected_canonical:
+                errors.append(
+                    f"legacy tag canonical mismatch in {relative}: "
+                    f"expected {expected_canonical}, found {canonical}"
+                )
 
 
-def validate_controlled_topic_sitemap(urls: list[str], errors: list[str]) -> None:
-    paths: list[str] = []
-    for url in urls:
-        try:
-            paths.append(urlsplit(url).path)
-        except ValueError:
-            continue
-    for path in paths:
-        if re.search(r"/tags(?:/|$)", path):
-            errors.append(f"raw tag URL found in sitemap: {path}")
-    expected_suffixes = {
-        "/topics/",
-        *(f"/topics/{key}/" for key in CONTROLLED_TOPIC_KEYS),
+def validate_controlled_topic_sitemap(
+    urls: list[str], site_root_url: str | None, errors: list[str]
+) -> None:
+    if not site_root_url:
+        errors.append("missing site root canonical for sitemap validation")
+        return
+    expected_urls = {
+        urljoin(site_root_url, "topics/"),
+        *(
+            urljoin(site_root_url, f"topics/{key}/")
+            for key in CONTROLLED_TOPIC_KEYS
+        ),
     }
-    found_suffixes = {
-        suffix
-        for suffix in expected_suffixes
-        if any(path.endswith(suffix) for path in paths)
-    }
-    if found_suffixes != expected_suffixes:
+    found_urls = set(urls).intersection(expected_urls)
+    if found_urls != expected_urls:
         errors.append(
             "controlled topic sitemap coverage mismatch: "
-            f"missing {sorted(expected_suffixes - found_suffixes)}"
+            f"missing {sorted(expected_urls - found_urls)}"
         )
+
+    tag_root = urljoin(site_root_url, "tags/")
+    try:
+        parsed_tag_root = urlsplit(tag_root)
+    except ValueError:
+        errors.append(f"invalid expected tag root URL: {tag_root}")
+        return
+    for url in urls:
+        try:
+            parsed = urlsplit(url)
+        except ValueError:
+            continue
+        if (
+            parsed.scheme == parsed_tag_root.scheme
+            and parsed.netloc == parsed_tag_root.netloc
+            and (
+                parsed.path == parsed_tag_root.path.rstrip("/")
+                or parsed.path.startswith(parsed_tag_root.path)
+            )
+        ):
+            errors.append(f"raw tag URL found in sitemap: {parsed.path}")
 
 
 def validate_pagefind_output(public_dir: Path, errors: list[str]) -> None:
@@ -875,8 +984,10 @@ def validate(public_dir: Path) -> dict:
     validate_legacy_tags(public_dir, errors)
 
     homepage = public_dir / "index.html"
+    homepage_canonical = None
     if homepage.is_file():
         homepage_html = homepage.read_text(encoding="utf-8")
+        homepage_canonical = extracted_attribute(CANONICAL_URL_RE.search(homepage_html))
         if re.search(
             r"http-equiv\s*=\s*(?:[\"']\s*refresh\s*[\"']|refresh\b)",
             homepage_html,
@@ -961,7 +1072,7 @@ def validate(public_dir: Path) -> dict:
                         continue
                     sitemap_entries.append((url, url_path))
 
-                validate_controlled_topic_sitemap(urls, errors)
+                validate_controlled_topic_sitemap(urls, homepage_canonical, errors)
 
                 episode_root_candidates = [
                     url_path
