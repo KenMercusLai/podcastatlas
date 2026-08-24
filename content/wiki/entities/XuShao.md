@@ -1,0 +1,21 @@
+---
+title: "许劭 / Xu Shao"
+type: entity
+tags: [person, late-han, adviser, strategy]
+sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
+last_updated: 2026-08-24
+---
+
+# 许劭 / Xu Shao
+
+许劭 / Xu Shao enters the wiki through [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] as the adviser who turns [[LiuYaoLateHan|刘繇]]'s flight question into a condition-sensitive strategic assessment. He rejects [[KuaijiCommandery|会稽郡]] because it is rich, draws [[SunCe|孙策]]'s attention, and is too coastal to provide a fallback route.
+
+Xu Shao recommends [[YuzhangCommandery|豫章郡]] because its north-west routes can preserve contact with Yu and Jing, while Liu Yao's formal Han status might still attract help from [[CaoCao|曹操]] or [[LiuBiao|刘表]]. His second warning is about people rather than terrain: [[ZeRong|笮融]] lacks trust, while [[ZhuHaoLateHan|朱皓]] is too straightforward, so Liu Yao should be careful about pairing them.
+
+The episode makes Xu Shao a source case for [[XingshiqingStrategicAssessment|行势情战略评估]]. He reads geography, incentives, official legitimacy, and personal reliability together rather than treating a wealthy commandery or a nominal helper as sufficient.
+
+## Connections
+- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - source episode.
+- [[LiuYaoLateHan|刘繇]], [[KuaijiCommandery|会稽郡]], [[YuzhangCommandery|豫章郡]], [[SunCe|孙策]], [[CaoCao|曹操]], and [[LiuBiao|刘表]] - strategic route analysis.
+- [[ZeRong|笮融]] and [[ZhuHaoLateHan|朱皓]] - personal-risk warning.
+- [[PoliticalSurvivalFirst|安全第一政治生存]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - conceptual frame.

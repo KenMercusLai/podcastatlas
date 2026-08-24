@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 7094
+wiki_total_pages: 7107
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "XueBaochai"
     title: "薛宝钗 / Xue Baochai"
     url: "/wiki/entities/xuebaochai/"
+  - key: "XueLiLateHan"
+    title: "薛礼 / Xue Li (late Han)"
+    url: "/wiki/entities/xuelilatehan/"
   - key: "XuePan"
     title: "薛蟠 / Xue Pan"
     url: "/wiki/entities/xuepan/"
@@ -380,6 +383,9 @@ wiki_pages:
   - key: "XimenBao"
     title: "西门豹 / Ximen Bao"
     url: "/wiki/entities/ximenbao/"
+  - key: "XuShao"
+    title: "许劭 / Xu Shao"
+    url: "/wiki/entities/xushao/"
   - key: "XuLiWarringStates"
     title: "许历 / Xu Li"
     url: "/wiki/entities/xuliwarringstates/"

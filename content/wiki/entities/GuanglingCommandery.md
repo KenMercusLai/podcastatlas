@@ -2,7 +2,7 @@
 title: "广陵 / Guangling Commandery"
 type: entity
 tags: [place, commandery, late-han, anti-qin]
-sources: [zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2]
+sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2]
 last_updated: 2026-08-24
 ---
 
@@ -14,9 +14,12 @@ In this source, Guangling matters because a local office becomes a base for broa
 
 The page also connects to an earlier anti-Qin use. [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] says [[ZhaoPingRebel|昭平]] had been sent by [[ChenSheng|陈胜]] toward Guangling but had not taken it when Chen Sheng died. That use is distinct from the late-Han Chen Deng branch; it makes Guangling a target in rebel mobilization rather than a Cao-aligned administrative base.
 
+[[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] adds a violent late-Han reception case before those later branches. [[ZeRong|笮融]] flees from [[TaoQianLateHan|陶谦]]'s sphere to Guangling with a large following; administrator [[ZhaoYuLateHan|赵昱]] receives him courteously, but Ze Rong kills Zhao Yu and plunders the commandery.
+
 [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] adds another late-Han note before the Chen Deng branch. [[ZhangChaoLateHan|张超]] had served as Guangling administrator when [[ZangHong|臧洪]] was his subordinate, so Guangling becomes the remembered office relationship behind Zang Hong's later attempt to rescue Zhang Chao at [[YongqiuLateHan|雍丘]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[ZeRong|笮融]], [[ZhaoYuLateHan|赵昱]], [[TaoQianLateHan|陶谦]], and [[HospitalityPredation|接纳者掠杀]] - reception, murder, and plunder branch.
 - [[ChenDeng|陈登]], [[ChenGui|陈珪]], [[CaoCao|曹操]], and [[LyuBu|吕布]] - late-Han appointment and inside-channel branch.
 - [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[ZhangChaoLateHan|张超]], [[ZangHong|臧洪]], and [[YongqiuLateHan|雍丘]] - earlier Guangling service relationship that motivates the later rescue demand.
 - [[SunCe|孙策]] - source-scoped strategic pressure named in Hanji 1017.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5309
+wiki_total_pages: 5311
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "ImperialRitualDistance"
     title: "君臣礼制距离 / Imperial Ritual Distance"
     url: "/wiki/concepts/imperialritualdistance/"
+  - key: "InstrumentalizedReligiousPower"
+    title: "工具化宗教权力 / Instrumentalized Religious Power"
+    url: "/wiki/concepts/instrumentalizedreligiouspower/"
   - key: "ImperialTitleRetrenchment"
     title: "帝号退回王号 / Imperial Title Retrenchment"
     url: "/wiki/concepts/imperialtitleretrenchment/"

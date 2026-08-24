@@ -2,11 +2,13 @@
 title: "孙策 / Sun Ce"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+last_updated: 2026-08-24
 ---
 
 # 孙策 / Sun Ce
+
+[[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] backfills Sun Ce as the pressure shaping [[LiuYaoLateHan|刘繇]]'s route choice before Sun Ce's own Kuaiji campaign is narrated. [[XuShao|许劭]] warns Liu Yao not to flee to [[KuaijiCommandery|会稽郡]] because the commandery is rich, coastal, and likely to draw Sun Ce's attack, making [[YuzhangCommandery|豫章郡]] the safer survival route.
 
 [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] supplies Sun Ce's prior break from [[YuanShu|袁术]]. When Yuan Shu prepares to claim the imperial title, Sun Ce writes that the current [[EmperorXianOfHan|汉献帝]] has not behaved like Xia Jie or Shang Zhou: the emperor is young and constrained, not an oppressor whose overthrow can be justified by classical precedent.
 
@@ -29,6 +31,7 @@ The episode also gives Sun Ce an active local-security role. When [[ChenYuWuComm
 [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] mentions Sun Ce only as strategic pressure. The source says [[ChenDeng|陈登]]'s [[GuanglingCommandery|广陵]] base becomes a barrier against Sun Ce's northward movement, but it does not develop Sun Ce's own actions in that branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[LiuYaoLateHan|刘繇]], [[XuShao|许劭]], [[KuaijiCommandery|会稽郡]], and [[YuzhangCommandery|豫章郡]] - earlier Sun Ce pressure behind Liu Yao's route choice.
 - [[SunJingLateHan|孙静]], [[YuFan|虞翻]], [[WangLangLateHan|王朗]], and [[LeaderPersonalExposure|领导者轻身涉险]] - Hanji 1004-1005 Kuaiji takeover, surprise maneuver, and personal-risk warning.
 - [[CaoCao|曹操]] and [[EmperorXianOfHan|汉献帝]] - source of the title and legitimacy package.
 - [[YuanShu|袁术]], [[EmperorXianOfHan|汉献帝]], [[AntiUsurpationCoalitionPressure|讨逆同盟压力]], and [[MoralizedWarPretext|道德化战争借口]] - Hanji 1002 warning/break branch and Hanji 1015 usurpation-response branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7094
+wiki_total_pages: 7107
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "TaiziJianChu"
     title: "太子建 / Crown Prince Jian of Chu"
     url: "/wiki/entities/taizijianchu/"
+  - key: "TaipingDao"
+    title: "太平道 / Taiping Dao"
+    url: "/wiki/entities/taipingdao/"
   - key: "TaikangHome"
     title: "太康之家 / Taikang Home"
     url: "/wiki/entities/taikanghome/"

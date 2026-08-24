@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5309
+wiki_total_pages: 5311
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "HouseholdTroupeStatusBoundary"
     title: "家班身份边界 / Household Troupe Status Boundary"
     url: "/wiki/concepts/householdtroupestatusboundary/"
+  - key: "HospitalityPredation"
+    title: "接纳者掠杀 / Hospitality Predation"
+    url: "/wiki/concepts/hospitalitypredation/"
   - key: "HostileTerritoryRoyalContainment"
     title: "敌意封国安置 / Hostile-Territory Royal Containment"
     url: "/wiki/concepts/hostileterritoryroyalcontainment/"

@@ -20639,6 +20639,10 @@
     "title": "Hospital Information System",
     "url": "/wiki/concepts/hospitalinformationsystem/"
   },
+  "HospitalityPredation": {
+    "title": "接纳者掠杀 / Hospitality Predation",
+    "url": "/wiki/concepts/hospitalitypredation/"
+  },
   "HostCitySupporterSponsorship": {
     "title": "Host City Supporter Sponsorship",
     "url": "/wiki/concepts/hostcitysupportersponsorship/"
@@ -20870,6 +20874,10 @@
   "HuYanQiMinister": {
     "title": "胡衍 / Hu Yan (Qi Minister)",
     "url": "/wiki/entities/huyanqiminister/"
+  },
+  "HuaXin": {
+    "title": "华歆 / Hua Xin",
+    "url": "/wiki/entities/huaxin/"
   },
   "HuainanKingdomEarlyHan": {
     "title": "淮南国 / Huainan Kingdom (early Han)",
@@ -21962,6 +21970,10 @@
   "InstrumentalTruceBreach": {
     "title": "Instrumental Truce Breach / 工具化议和毁约",
     "url": "/wiki/concepts/instrumentaltrucebreach/"
+  },
+  "InstrumentalizedReligiousPower": {
+    "title": "工具化宗教权力 / Instrumentalized Religious Power",
+    "url": "/wiki/concepts/instrumentalizedreligiouspower/"
   },
   "InsurableInterestBoundary": {
     "title": "Insurable Interest Boundary",
@@ -26630,6 +26642,10 @@
   "LiuYangyang": {
     "title": "刘洋洋 / Liu Yangyang",
     "url": "/wiki/entities/liuyangyang/"
+  },
+  "LiuYaoLateHan": {
+    "title": "刘繇 / Liu Yao (late Han)",
+    "url": "/wiki/entities/liuyaolatehan/"
   },
   "LiuYiSanlian": {
     "title": "刘仪 / Liu Yi",
@@ -42599,6 +42615,10 @@
     "title": "Tail-Risk Hedging",
     "url": "/wiki/concepts/tailriskhedging/"
   },
+  "TaipingDao": {
+    "title": "太平道 / Taiping Dao",
+    "url": "/wiki/entities/taipingdao/"
+  },
   "Taipingnian": {
     "title": "《太平年》",
     "url": "/wiki/entities/taipingnian/"
@@ -47695,6 +47715,10 @@
     "title": "Wudang Mountain / 武当山",
     "url": "/wiki/entities/wudangmountain/"
   },
+  "WudoumiDao": {
+    "title": "五斗米道 / Wudoumi Dao",
+    "url": "/wiki/entities/wudoumidao/"
+  },
   "Wudu": {
     "title": "《五蠹》 / Wu Du",
     "url": "/wiki/entities/wudu/"
@@ -48327,6 +48351,10 @@
     "title": "许路 / Xu Lu",
     "url": "/wiki/entities/xulu/"
   },
+  "XuShao": {
+    "title": "许劭 / Xu Shao",
+    "url": "/wiki/entities/xushao/"
+  },
   "XuShen": {
     "title": "许慎",
     "url": "/wiki/entities/xushen/"
@@ -48386,6 +48414,10 @@
   "XueGongHanAdviser": {
     "title": "薛公 / Xue Gong (Han adviser)",
     "url": "/wiki/entities/xuegonghanadviser/"
+  },
+  "XueLiLateHan": {
+    "title": "薛礼 / Xue Li (late Han)",
+    "url": "/wiki/entities/xuelilatehan/"
   },
   "XuePan": {
     "title": "薛蟠 / Xue Pan",
@@ -49463,6 +49495,10 @@
     "title": "玉溪一脉入红楼 / Yuxi Into Honglou",
     "url": "/wiki/concepts/yuxiintohonglou/"
   },
+  "YuzhangCommandery": {
+    "title": "豫章郡 / Yuzhang Commandery",
+    "url": "/wiki/entities/yuzhangcommandery/"
+  },
   "ZTE": {
     "title": "ZTE",
     "url": "/wiki/entities/zte/"
@@ -49510,6 +49546,10 @@
   "ZaoZhi": {
     "title": "枣祗 / Zao Zhi",
     "url": "/wiki/entities/zaozhi/"
+  },
+  "ZeRong": {
+    "title": "笮融 / Ze Rong",
+    "url": "/wiki/entities/zerong/"
   },
   "Zed": {
     "title": "Zed",
@@ -49671,6 +49711,10 @@
     "title": "张济 / Zhang Ji (late Han)",
     "url": "/wiki/entities/zhangjilatehan/"
   },
+  "ZhangJiaoLateHan": {
+    "title": "张角 / Zhang Jiao (late Han)",
+    "url": "/wiki/entities/zhangjiaolatehan/"
+  },
   "ZhangJiayuan": {
     "title": "Zhang Jiayuan",
     "url": "/wiki/entities/zhangjiayuan/"
@@ -49714,6 +49758,10 @@
   "ZhangLu": {
     "title": "张璐 / Zhang Lu",
     "url": "/wiki/entities/zhanglu/"
+  },
+  "ZhangLuFivePecks": {
+    "title": "张鲁 / Zhang Lu (Five Pecks of Rice)",
+    "url": "/wiki/entities/zhanglufivepecks/"
   },
   "ZhangMiaoLateHan": {
     "title": "张邈 / Zhang Miao (Late Han)",
@@ -50110,6 +50158,10 @@
   "ZhaoYoumiuWang": {
     "title": "赵迁 / 赵幽缪王 / Zhao Youmiu Wang",
     "url": "/wiki/entities/zhaoyoumiuwang/"
+  },
+  "ZhaoYuLateHan": {
+    "title": "赵昱 / Zhao Yu (late Han)",
+    "url": "/wiki/entities/zhaoyulatehan/"
   },
   "ZhaoYuanren": {
     "title": "赵元任",
@@ -50527,6 +50579,10 @@
     "title": "朱亥 / Zhu Hai",
     "url": "/wiki/entities/zhuhaiweiretainer/"
   },
+  "ZhuHaoLateHan": {
+    "title": "朱皓 / Zhu Hao (late Han)",
+    "url": "/wiki/entities/zhuhaolatehan/"
+  },
   "ZhuJiaLu": {
     "title": "朱家 / Zhu Jia (Lu)",
     "url": "/wiki/entities/zhujialu/"
@@ -50582,6 +50638,10 @@
   "ZhugeLiang": {
     "title": "诸葛亮 / Zhuge Liang",
     "url": "/wiki/entities/zhugeliang/"
+  },
+  "ZhugeXuan": {
+    "title": "诸葛玄 / Zhuge Xuan",
+    "url": "/wiki/entities/zhugexuan/"
   },
   "Zhuhai": {
     "title": "Zhuhai / 珠海",
@@ -54202,6 +54262,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k": {
+    "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k/"
   },
   "zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76": {
     "title": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？](sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k.md) — 芮淇讲透资治通鉴 episode on Liu Yao's Kuaiji/Yuzhang route choice, Xu Shao's survival advice, Ze Rong's Buddhist-institution grain diversion, and repeated murder of hosts and benefactors.
 - [697. The Troubles: Murder in Belfast (Part 1)](sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736.md) — The Rest Is History episode on the pre-1968 roots of the Troubles: partition, Catholic exclusion, unionist siege fear, Paisley's rise, and the 1966 loyalist killings.
 - [Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等](sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1.md) — 枫言枫语 episode on Codex reset pricing, DeepSeek peak/off-peak API costs, Apple Intelligence, model routing, agent safety, assistant commerce, health wearables, and AI-maintained software.
 - [《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？](sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76.md) — 芮淇讲透资治通鉴 episode on Zang Hong's failed rescue request for Zhang Chao at Yongqiu, Yuan Shao's refusal, East Commandery starvation, and the cost of loyalty that crosses into collateral suffering.
@@ -1376,6 +1377,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [笮融 / Ze Rong](entities/ZeRong.md) — Late-Han Xuzhou figure who turns grain and Buddhist display into a following, then repeatedly kills hosts and benefactors.
+- [刘繇 / Liu Yao (late Han)](entities/LiuYaoLateHan.md) — Han-recognized official whose Kuaiji-versus-Yuzhang route choice depends on Xu Shao's survival and legitimacy advice.
+- [许劭 / Xu Shao](entities/XuShao.md) — Late-Han adviser reading Liu Yao's route options and warning that Ze Rong lacks trust while Zhu Hao is too straightforward.
+- [赵昱 / Zhao Yu (late Han)](entities/ZhaoYuLateHan.md) — Guangling administrator who receives Ze Rong courteously and is murdered and plundered by him.
+- [薛礼 / Xue Li (late Han)](entities/XueLiLateHan.md) — Pengcheng chancellor displaced by Tao Qian and later killed after receiving Ze Rong.
+- [朱皓 / Zhu Hao (late Han)](entities/ZhuHaoLateHan.md) — Liu Yao's Yuzhang appointee, warned by Xu Shao and then killed by Ze Rong.
+- [诸葛玄 / Zhuge Xuan](entities/ZhugeXuan.md) — Yuan Shu's Yuzhang appointee displaced by Zhu Hao before Ze Rong disrupts the commandery.
+- [华歆 / Hua Xin](entities/HuaXin.md) — Later court-appointed Yuzhang administrator after the Zhu Hao, Zhuge Xuan, and Ze Rong contest.
+- [豫章郡 / Yuzhang Commandery](entities/YuzhangCommandery.md) — Commandery Xu Shao recommends to Liu Yao as safer than Kuaiji, then contested by Yuan Shu's and Liu Yao's appointees.
+- [张角 / Zhang Jiao (late Han)](entities/ZhangJiaoLateHan.md) — Taiping Dao leader invoked as a bounded late-Han religious-mobilization comparator in Hanji 995.
+- [太平道 / Taiping Dao](entities/TaipingDao.md) — Zhang Jiao's religious movement, used as a comparator for religion as mass organization in the late-Han breakdown.
+- [张鲁 / Zhang Lu (Five Pecks of Rice)](entities/ZhangLuFivePecks.md) — Late-Han religiously organized ruler mentioned as a Five Pecks of Rice comparator, disambiguated from the modern Zhang Lu page.
+- [五斗米道 / Wudoumi Dao](entities/WudoumiDao.md) — Zhang Lu's religiously organized system, used as a bounded comparator for late-Han religious power.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
 - [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old Guangling superior, trapped at Yongqiu by Cao Cao, whose death and family destruction become the moral grievance behind Hanji 996-997.
 - [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Zhang Chao's brother, invoked because Yuan Shao's claimed brotherhood with him becomes Zang Hong's rescue-demand argument, while Cao Cao's hostility supplies the siege background.
@@ -8474,6 +8488,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [工具化宗教权力 / Instrumentalized Religious Power](concepts/InstrumentalizedReligiousPower.md) — Pattern where religious ritual, charity, and belonging become power infrastructure rather than moral constraint.
+- [接纳者掠杀 / Hospitality Predation](concepts/HospitalityPredation.md) — Trust-boundary pattern where a received guest or helper weaponizes hospitality into murder, plunder, or replacement.
 - [Peak-Valley AI Inference Pricing](concepts/PeakValleyAIInferencePricing.md) — Demand-window pricing pattern where AI API costs vary by peak and off-peak serving load.
 - [Emotional Attachment Political Distortion / 情执政治判断失衡](concepts/EmotionalAttachmentPoliticalDistortion.md) — Pattern where affection, grief, resentment, or loyalty becomes the lens that overwhelms organization-level judgment and political survival.
 - [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for real safety after initiative, advisers, and people-support have been lost.

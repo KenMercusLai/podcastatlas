@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7094
+wiki_total_pages: 7107
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "YoshikoNoLongerHuman"
     title: "豪子 / Yoshiko"
     url: "/wiki/entities/yoshikonolongerhuman/"
+  - key: "YuzhangCommandery"
+    title: "豫章郡 / Yuzhang Commandery"
+    url: "/wiki/entities/yuzhangcommandery/"
   - key: "YuRang"
     title: "豫让 / Yu Rang"
     url: "/wiki/entities/yurang/"

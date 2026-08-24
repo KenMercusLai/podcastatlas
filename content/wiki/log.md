@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Liu Yao's 195 CE Kuaiji-versus-Yuzhang route choice, Xu Shao's survival advice, Ze Rong's diversion of Tao Qian's grain into Buddhist institutions, and Ze Rong's repeated murders of Zhao Yu, Xue Li, and Zhu Hao after receiving hospitality or operational trust. Created pages for Ze Rong, Liu Yao (late Han), Xu Shao, Zhao Yu (late Han), Xue Li (late Han), Zhu Hao (late Han), Zhuge Xuan, Hua Xin, Yuzhang Commandery, Zhang Jiao (late Han), Taiping Dao, Zhang Lu (Five Pecks of Rice), Wudoumi Dao, Instrumentalized Religious Power, and Hospitality Predation; updated overview, index, Sun Ce, Tao Qian (late Han), Xiapi, Guangling Commandery, Kuaiji Commandery, Yuan Shu, Instrumental Belief Critique, Political Survival First, and Xingshiqing Strategic Assessment. No settled contradiction found; Zhang Jiao and Zhang Lu are treated as bounded late-Han religious-mobilization comparators, not as equivalents to Ze Rong.
+
 ## [2026-08-24] ingest | 697. The Troubles: Murder in Belfast (Part 1)
 
 Added source page for a The Rest Is History episode on the pre-1968 roots of the Troubles: partition, Protestant unionist state design, Catholic exclusion, Derry housing and voting discrimination, the RUC/B Specials/Orange Order institutional field, Terence O'Neill's modernization and Lemass contact, Ian Paisley's anti-Catholic mobilization, the IRA's mid-1960s quietness, and the 1966 loyalist killings tied to the UVF. Created pages for Edward Carson, James Craig, Sean Lemass, Cathal Goulding, Gusty Spence, Liam McMillen, Noel Doherty, Matilda Gould, John Patrick Scullion, Peter Ward, Malvern Arms, Free Presbyterian Church of Ulster, Ulster Protestant Action, Ulster Protestant Volunteers, Partition Minority Trap, Institutional Sectarian Discrimination, and Unionist Siege Mentality; updated overview, index, and targeted Northern Ireland/Troubles entity and concept pages. No direct contradiction found; the episode extends the existing Part 2 branch by supplying pre-1968 structures and the 1966 loyalist violence before the civil-rights escalation.
@@ -10993,3 +10997,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] lint | Wiki lint check
+
+Ran health, identity validation, and lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 13,788 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 13,788 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged source-breadth/depth risks for single-source pages such as `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/OracleBoneDivination.md`, `wiki/concepts/HumanDependentSafetySystem.md`, `wiki/concepts/DayZeroModelSupport.md`, and `wiki/concepts/EraTailwindInInvesting.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
