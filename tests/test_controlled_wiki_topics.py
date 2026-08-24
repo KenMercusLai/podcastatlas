@@ -103,7 +103,20 @@ class ControlledWikiTopicsTest(unittest.TestCase):
             for key, value in raw_actual_membership.items()
         }
         self.assertEqual(len(raw_actual_membership), len(actual_membership))
-        self.assertEqual(expected_membership, actual_membership)
+        if expected_membership != actual_membership:
+            missing = sorted(expected_membership.keys() - actual_membership.keys())
+            unexpected = sorted(actual_membership.keys() - expected_membership.keys())
+            differing = sorted(
+                key
+                for key in expected_membership.keys() & actual_membership.keys()
+                if expected_membership[key] != actual_membership[key]
+            )
+            self.fail(
+                "source-derived topic membership mismatch: "
+                f"missing={missing[:10]} ({len(missing)}), "
+                f"unexpected={unexpected[:10]} ({len(unexpected)}), "
+                f"differing={differing[:10]} ({len(differing)})"
+            )
         self.assertGreater(
             sum(not topic_keys for _, _, _, topic_keys in source_pages),
             0,
