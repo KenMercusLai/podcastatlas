@@ -10766,6 +10766,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝
+
+Added source page for a 芮淇讲透资治通鉴 episode on Han Fei's interest-centered human-nature frame, Li Jue and Guo Si's summer 195 CE settlement pressure, Yang Feng's defection, Zhang Ji's mediation, Jia Xu's Qiang-Hu intervention, Liu Ai's bridge announcement, and Emperor Xian's hunger-marked departure from Chang'an. Created page for Liu Ai (late Han); updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; the Legalist/human-nature opening and closing humility maxim are kept source-scoped.
+
 ## [2026-08-24] ingest | Settler bet: a West Bank flashpoint
 
 Added source page for a The Intelligence episode on West Bank settler outpost escalation, India's uniform civil-code politics, and Bartleby workplace satire. Created pages for Anshel Pfeffer, West Bank, Palestinians, Kusra, Tel Tel Piyot, Mike Huckabee, Itamar Ben-Gvir, Bezalel Smotrich, Uttarakhand, West Bengal, Assam, Gujarat, Madhya Pradesh, Khurshid Ahmed, Indian Muslims, Andrew Palmer, Bartleby Column, West Bank Outpost Escalation, Settler Provocation Strategy, Uniform Civil Code in India, Muslim Personal Law in India, Majoritarian Legal Uniformity, Live-In Relationship Registration, and Public-Figure Workplace Advice Satire; updated overview, index, The Intelligence, Economist Podcasts, Israel, Benjamin Netanyahu, Palestinian Question in Israeli Politics, Israeli Election 2026, India, Bharatiya Janata Party, Kira Huyu, Jared Kushner, Donald Trump, Upward Management, and Workplace Pacing. No direct contradiction found; the source deepens the existing Israel-election and India-governance branches with concrete implementation mechanisms.
@@ -11045,6 +11049,10 @@ Ran health, identity validation, and lint. Health passed across 13,825 wiki page
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人
 
 Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's 195 CE route-control crisis, Guo Si's obstruction and failed Xinfeng coercion, Cao Cao's Yongqiu/Yanzhou turn through Zhang Miao's death, and Duan Wei's contested Huayin supply effort. Created pages for Huayin (late Han) and Liu Yi (late Han); updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; Liu Yi's hidden-asset reading and the title's moral frame are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝](sources/zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl.md) — 芮淇讲透资治通鉴 episode on Han Fei's interest-centered human-nature frame, Li Jue and Guo Si's fragile settlement, Jia Xu detaching Qiang-Hu supporters, and Emperor Xian's bridge humiliation while leaving Chang'an.
 - [《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人](sources/zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's 195 CE route-control crisis, Guo Si's obstruction, Cao Cao's Yongqiu/Yanzhou turn, and Duan Wei's contested Huayin supply effort.
 - [《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？](sources/zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f.md) — 芮淇讲透资治通鉴 episode on Yang Ding's failed attack on Duan Wei, Zhang Ji's alliance switch, and Li Jue/Guo Si reuniting because Emperor Xian remained the higher-value political prize.
 - [《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？](sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's December 195 flight, Li Jue/Guo Si/Zhang Ji's pursuit, Dong Cheng and Yang Feng's emergency Baibo/Southern Xiongnu reinforcements, Jia Xu's minister-protection intervention, and the bloody Yellow River night crossing.
@@ -1653,6 +1654,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
 - [左承祖 / Zuo Chengzu](entities/ZuoChengzu.md) — Beihai adviser whose realistic advice to rely on a stronger power is rejected and punished by Kong Rong.
 - [刘义逊 / Liu Yixun](entities/LiuYixun.md) — Respected Beihai guest who leaves after Kong Rong kills Zuo Chengzu, marking the wider collapse of safe advice.
+- [刘艾 / Liu Ai (late Han)](entities/LiuAiLateHan.md) — Court attendant who contacts Jia Xu during Qiang-Hu harassment and announces Emperor Xian at the bridge in Hanji 988.
 - [刘翊 / Liu Yi (late Han)](entities/LiuYiLateHan.md) — Zhang Miao's close guard who kills him before he can flee toward Yuan Shu, closing Cao Cao's Yongqiu/Yanzhou branch in Hanji 989.
 - [北海郡 / Beihai Commandery](entities/BeihaiCommandery.md) — Late-Han commandery where Kong Rong's prestige, weak capacity, killed advice, and Yuan Tan's attack converge.
 - [袁涣 / Yuan Huan (late Han)](entities/YuanHuanLateHan.md) — Late-Han official who refuses Lü Bu's demand to write an abusive letter against Liu Bei, blocking a moral rationalization of betrayal.

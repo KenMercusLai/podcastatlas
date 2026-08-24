@@ -2,11 +2,13 @@
 title: "李傕 / Li Jue (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 李傕 / Li Jue (late Han)
+
+[[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] backfills Li Jue's weakened Chang'an position before the emperor's eastward movement. [[YangFengLateHan|杨奉]]'s failed assassination plot and departure reduce Li Jue's strength, while Li Jue's Qiang-Hu supporters harass [[EmperorXianOfHan|汉献帝]]'s lodging until [[JiaXu|贾诩]] buys them off with titles and goods. The source then treats Li Jue's later willingness to reconcile with [[GuoSiLateHan|郭汜]] as leverage-driven rather than moral.
 
 [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] backfills the moment before Li Jue's renewed pursuit in Hanji 991. After [[YangDingLateHan|杨定]] attacks [[DuanWeiLateHan|段煨]], Li Jue and [[GuoSiLateHan|郭汜]] suspend their private feud because [[EmperorXianOfHan|汉献帝]] is slipping out of their control; the episode treats the reunion as strategic convergence around the emperor rather than genuine reconciliation.
 
@@ -22,6 +24,7 @@ The page keeps Li Jue's role source-scoped to this branch. He matters here less 
 
 ## Connections
 - [[GuoSiLateHan|郭汜]] - rival in the struggle over Emperor Xian.
+- [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[YangFengLateHan|杨奉]], [[JiaXu|贾诩]], and [[LiuAiLateHan|刘艾]] - weakened Chang'an position, Qiang-Hu harassment, and bridge-exit prelude.
 - [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - temporary reunion and rescue/control pretext before renewed pursuit.
 - [[ZhangJiLateHan|张济]], [[JiaXu|贾诩]], [[BaiboArmy|白波军]], and [[QubeiSouthernXiongnu|去卑]] - Hanji 991 pursuit, restraint, and reinforcement branch.
 - [[EmperorXianOfHan|汉献帝]], [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], and [[HanXianLateHan|韩暹]] - court-flight and escort branch.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8629e4fd3753e437bb0a220bd621d6077764d62df30c30c0eeabeed322ac0bbb",
       "f0ae0e4245313af8038b0f131ea1a35f44c60abd1eafebca186fd445b9e65a07",
       "9b1a95c61512c5e6affd31c8045afbf16fba0fcbd9655bbb560edc8794155e25",
       "fcbb6cc3956b0c56b8f05f690c73c1bafbb71f97249d80c47eec0d0e7ce92b1d",
@@ -174,11 +175,42 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 172
+    "paragraph_count": 173
   },
-  "overview_commit": "cd9e5e7201315526d5c780ea0adbc8a3858f3f7c",
-  "overview_digest": "7bde951d34572937eb1297001a211e75772cba54768109e8f1c2ed11d40076a5",
+  "overview_commit": "19680a4d87198d8f9c7f5c3cf89abd5f5e136fdf",
+  "overview_digest": "59452feafad97801a05307eebc5e9140c56fead52becfe4250eef3a55ea735f9",
   "paragraphs": [
+    {
+      "id": "8629e4fd3753e437bb0a220bd621d6077764d62df30c30c0eeabeed322ac0bbb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode setting up the immediate pre-[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] late-Han flight sequence through [[HanFei|韩非]]'s interest-centered human-nature frame and [[EmperorXianOfHan|汉献帝]]'s summer 195 CE humiliation in [[ChangAnHanCapital|长安]]. It adds [[LiuAiLateHan|刘艾]], while extending [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[YangFengLateHan|杨奉]], [[ZhangJiLateHan|张济]], [[JiaXu|贾诩]], [[MingqiLegitimacy|名器合法性]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[FixedHumanNaturePolitics]]. Its core synthesis is that late-Han title power has become situational: Jia Xu can buy off Li Jue's Qiang-Hu supporters, Zhang Ji can ration food to keep the imperial party alive, and the emperor's visible presence can still make soldiers stand aside, but none of this restores institutional command over routes, troops, or supply. No settled contradiction is recorded; the Han Fei/human-nature opening and humility maxim remain source-scoped host interpretation.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "EmperorXianOfHan",
+        "FixedHumanNaturePolitics",
+        "GuoSiLateHan",
+        "HanFei",
+        "InterestStructuredAllianceFragility",
+        "JiaXu",
+        "LiJueLateHan",
+        "LiuAiLateHan",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "ProtectorCaptorAmbiguity",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "YangFengLateHan",
+        "ZhangJiLateHan",
+        "zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl",
+        "zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6"
+      ]
+    },
     {
       "id": "f0ae0e4245313af8038b0f131ea1a35f44c60abd1eafebca186fd445b9e65a07",
       "primary_topic": "governance-and-institutions",

@@ -2,8 +2,8 @@
 title: "Fixed Human Nature Politics"
 type: concept
 tags: [political-theory, human-nature, literature, identity]
-sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+last_updated: 2026-08-24
 ---
 
 # Fixed Human Nature Politics
@@ -13,6 +13,8 @@ Fixed human nature politics is the episode's nameable worry that political theor
 The source contrasts this with an older political idea that people can be formed through learning, reason, and political participation. It then extends the worry to contemporary identity politics when a person is pinned to one label as if that label exhausted their possibility.
 
 The concept does not deny human vice. It names the danger of making vice, nature, species, class, or identity so fixed that politics stops asking how people might become better.
+
+[[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] adds a Han Fei version of the problem. The host begins from a severe claim that people often move by interest and calculation, then avoids turning that into total cynicism by stressing that Han Fei still recognized benevolent love and that trust-building examples such as [[XimuLixin|徙木立信]] matter. The source is useful here because it shows fixed-badness politics as a temptation: the late-Han narrative needs interest analysis, but the episode does not make interest the whole of human possibility.
 
 [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] extends the concept through [[CivilizationAsDeception]]. Its Rowlands reading also begins from a harsh account of the human animal, but it complicates fixed human exceptionalism by contrasting human social calculation with wolf directness, loyalty, and refusal to bully the weak.
 
@@ -28,6 +30,7 @@ The concept does not deny human vice. It names the danger of making vice, nature
 - Species labels can become morally misleading when "civilized human" and "wild animal" obscure actual conduct toward vulnerable beings.
 - Machiavellian realism can begin from human unreliability without requiring readers to believe every person is permanently evil or that cruelty is morally solved by effectiveness.
 - The Mencius-Xunzi contrast can be useful without turning "good" or "bad" into a permanent essence; Qinji 101-2 treats formation and circumstance as decisive.
+- Hanji 988 adds that Han Fei-style interest analysis can clarify coercive politics without requiring a total denial of benevolence, trust, or moral formation.
 
 ## Connections
 - [[ThomasHobbes]] and [[NiccoloMachiavelli]] - political-theory references used by the episode.
@@ -38,3 +41,4 @@ The concept does not deny human vice. It names the danger of making vice, nature
 - [[CivilizationAsDeception]] and [[AnimalIntelligenceModes]] - animal-philosophy extension from the Rowlands source.
 - [[MachiavellianRealism]], [[NonMoralPoliticalAnalysis]], and [[GoodIntentionsPoliticalLimits]] - episode 72's refinement of the Machiavelli branch.
 - [[XingShanTheory|性善论]], [[XingETheory|性恶论]], [[HumanNaturePlasticity|人性可变性]], and [[DisasterCivilizationRetreat|灾变中的文明退场]] - Qinji 101-2 classical human-nature and crisis-pressure extension.
+- [[HanFei|韩非]], [[XimuLixin|徙木立信]], and [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] - severe interest analysis qualified by benevolence and trust examples.

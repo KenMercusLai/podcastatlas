@@ -2,8 +2,8 @@
 title: "Han Fei / 韩非"
 type: entity
 tags: [person, philosophy, chinese-history, legalism, political-theory]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+last_updated: 2026-08-24
 ---
 
 # Han Fei / 韩非
@@ -11,6 +11,8 @@ last_updated: 2026-08-21
 Han Fei / 韩非 appears in [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] as part of the Chinese comparison often made with [[NiccoloMachiavelli|Machiavelli]]. The episode says Chinese readers sometimes treat Machiavelli as a Western Han Fei, linking both to harsh times, competitive political orders, and challenges to inherited moral language.
 
 The source also warns that the comparison has limits. Han Fei is used as a Legalist reference point, while Machiavelli is read as opening a broader political-science problem around regimes, possibility, fortune, people, and order.
+
+[[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] reuses Han Fei as the episode's opening human-nature frame for late-Han disorder. The host presents Han Fei's thought as a cold tool for seeing interest and calculation beneath moral language, then immediately qualifies that coldness by citing his line about the benevolent person gladly loving others from the heart. In this source, Han Fei is not a plot actor; he is the interpretive lens for reading why soldiers, wives, advisers, and warlords move when their interests change.
 
 [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a criminal-law-philosophy use of Han Fei. In that episode, he helps mark the Legalist side of the [[LawMoralityBoundary]] problem: law as command can create order, but if law loses moral grounding and institutional restraint it can slide toward [[CriminalLawAsPowerLimitation|unlimited state punishment]] and [[PunishmentTheoryTradeoff|harsh deterrence logic]].
 
@@ -34,6 +36,7 @@ The source then records Han Fei's imprisonment, Li Si's private delivery of pois
 - [[ShangYang|Shang Yang / 商鞅]] - paired Legalist figure in the comparison.
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - Western political-theory figure being compared.
 - [[ThePrince|《君主论》 / The Prince]] - text sometimes read through a Legalist or 权谋术 frame.
+- [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[FixedHumanNaturePolitics]], and [[HumanNaturePlasticity|人性可变性]] - interest-centered human-nature frame qualified by benevolence and trust.
 - [[LegalistMachiavelliComparison]] - concept that stores the source's useful-but-limited comparison.
 - [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]] - law-philosophy use added by episode 100.
 - [[ZhaoJinghou|赵靖侯]] and [[LegalistRulerTechnique]] - Zhouji 08 part 2 governance-technique branch.

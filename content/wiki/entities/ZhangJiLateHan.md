@@ -2,11 +2,13 @@
 title: "张济 / Zhang Ji (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, military, china]
-sources: [zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]
+sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]
 last_updated: 2026-08-24
 ---
 
 # 张济 / Zhang Ji (late Han)
+
+[[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] backfills Zhang Ji's mediation role before the Huayin and pursuit sequence. He comes from Shaan to settle the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] conflict and proposes moving [[EmperorXianOfHan|汉献帝]] toward Hongnong, but the first hostage exchange fails when Li Jue's wife refuses to release her son. After the emperor leaves Chang'an, Zhang Ji's rationing at Baling keeps officials and guards from starving, showing protection as improvised supply rather than restored court order.
 
 [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] gives Zhang Ji the pre-Huayin title-recognition role. He is granted the general who campaigns east title and returns to Shaan, but the source's point is institutional rather than biographical: the court can still distribute names and offices while actors such as Zhang Ji, [[GuoSiLateHan|郭汜]], [[YangDingLateHan|杨定]], [[YangFengLateHan|杨奉]], and [[DongChengLateHan|董承]] remain primarily governed by soldiers, food, and route control.
 
@@ -23,6 +25,7 @@ last_updated: 2026-08-24
 His death matters because it transfers both troops and family responsibility to Zhang Xiu. Zhang Xiu takes over Zhang Ji's soldiers and later aligns with [[LiuBiao|刘表]], while Lady Zou remains the respected aunt whose seizure by [[CaoCao|曹操]] makes Zhang Xiu's new surrender feel humiliating rather than secure.
 
 ## Connections
+- [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[EmperorXianOfHan|汉献帝]] - mediation, Hongnong relocation proposal, and Baling food distribution.
 - [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] and [[MingqiLegitimacy|名器合法性]] - title recognition before the armed field re-sorts.
 - [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - alliance switch during the Huayin conflict.
 - [[ZhangXiu|张绣]] - nephew who inherits his troops.
