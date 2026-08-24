@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f0ae0e4245313af8038b0f131ea1a35f44c60abd1eafebca186fd445b9e65a07",
       "9b1a95c61512c5e6affd31c8045afbf16fba0fcbd9655bbb560edc8794155e25",
       "fcbb6cc3956b0c56b8f05f690c73c1bafbb71f97249d80c47eec0d0e7ce92b1d",
       "a18f91abce779306d9ae23742c1b1f069b80b688f13c5f84955dd0ec027cd5e4",
@@ -173,11 +174,46 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 171
+    "paragraph_count": 172
   },
-  "overview_commit": "23df797f2228f9963527b10557d0fc00f8d1a4cc",
-  "overview_digest": "8b63803d9e4f338483bb67acea50442247a4c75a4d13bb4dfddadede4ca4f699",
+  "overview_commit": "cd9e5e7201315526d5c780ea0adbc8a3858f3f7c",
+  "overview_digest": "7bde951d34572937eb1297001a211e75772cba54768109e8f1c2ed11d40076a5",
   "paragraphs": [
+    {
+      "id": "f0ae0e4245313af8038b0f131ea1a35f44c60abd1eafebca186fd445b9e65a07",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode immediately preceding [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] and [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]]. It adds [[HuayinLateHan|华阴]] and [[LiuYiLateHan|刘翊]], while extending [[EmperorXianOfHan|汉献帝]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[DuanWeiLateHan|段煨]], [[CaoCao|曹操]], [[ZhangMiaoLateHan|张邈]], [[YongqiuLateHan|雍丘]], [[YangBiao|杨彪]], [[MingqiLegitimacy|名器合法性]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that late-Han legitimacy remains valuable but almost non-operational: title grants placate soldiers without binding them, Guo Si can still redirect or threaten the emperor's route, Cao Cao's Yongqiu success turns into formal Yanzhou status, and Duan Wei's food supply at Huayin becomes politically dangerous once rumor ties assistance to capture. No settled contradiction is recorded; Liu Yi's hidden-asset reading and the \"宁为太平犬\" moral frame remain source-scoped interpretation.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "DongChengLateHan",
+        "DuanWeiLateHan",
+        "EmperorXianOfHan",
+        "GuoSiLateHan",
+        "HuayinLateHan",
+        "InterestStructuredAllianceFragility",
+        "LegitimacyWindowSeizure",
+        "LiuYiLateHan",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "ProtectorCaptorAmbiguity",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "YangBiao",
+        "YangDingLateHan",
+        "YangFengLateHan",
+        "YongqiuLateHan",
+        "ZhangJiLateHan",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6",
+        "zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f",
+        "zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p"
+      ]
+    },
     {
       "id": "9b1a95c61512c5e6affd31c8045afbf16fba0fcbd9655bbb560edc8794155e25",
       "primary_topic": "governance-and-institutions",

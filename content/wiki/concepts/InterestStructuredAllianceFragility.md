@@ -2,11 +2,13 @@
 title: "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性"
 type: concept
 tags: [alliance, strategy, incentives, late-han]
-sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-24
 ---
 
 # Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性
+
+[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] adds the pre-Huayin escort version. [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] can align against [[GuoSiLateHan|郭汜]]'s westward coercion and escort [[EmperorXianOfHan|汉献帝]] to [[HuayinLateHan|华阴]], but the same alignment soon turns on suspicion of [[DuanWeiLateHan|段煨]]'s supplies. The shared need to move the emperor does not erase rival calculations over camp access, food, and future control.
 
 [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] adds the emperor-control version before the Hanji 991 pursuit. [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] align against [[DuanWeiLateHan|段煨]], but the alignment is brittle because each actor's real interest lies in route control, grain, and proximity to [[EmperorXianOfHan|汉献帝]]. [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] then prove the same rule from the opposite side: former enemies can reunite when the shared payoff of recovering the emperor becomes larger than the payoff from continuing their feud.
 
@@ -21,6 +23,7 @@ The key mechanism is not abstract disunity. Lü Bu breaks the campaign by offeri
 The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]] and [[InterestBasedCoalitionSabotage|利益瓦解合纵]]. Coalition self-preservation explains allies who hesitate to spend their own resources for a shared project; interest-based sabotage often attacks coalition organizers before the army forms. Hanji 1018 shows a field coalition already moving, then collapsing because its members can be profitably re-sorted during the campaign.
 
 ## Key Claims
+- Hanji 989 adds that an escort alliance can move together against one coercive actor, then destabilize immediately when supply and camp control become the next payoff.
 - Hanji 990 adds that private enmity can be suspended when a higher-value shared prize changes the payoff table.
 - Emergency alignment can produce a short victory without creating enough shared structure for continued protection.
 - An alliance without durable shared interest can be large and still brittle.
@@ -30,6 +33,7 @@ The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]]
 - Coalition analysis has to ask what each participant can gain by switching, not only what the coalition formally claims to pursue.
 
 ## Connections
+- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[HuayinLateHan|华阴]], [[YangFengLateHan|杨奉]], [[DongChengLateHan|董承]], and [[DuanWeiLateHan|段煨]] - escort alignment turning into supply suspicion.
 - [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], [[DuanWeiLateHan|段煨]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - emperor-control alliance switch before the pursuit.
 - [[ChenGui|陈珪]] - source diagnostician of the coalition's weak interest structure.
 - [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], [[HanXianLateHan|韩暹]], [[QubeiSouthernXiongnu|去卑]], and [[BaiboArmy|白波军]] - Hanji 991 emergency escort coalition.

@@ -2,11 +2,13 @@
 title: "Legitimacy Window Seizure / 合法性窗口抢占"
 type: concept
 tags: [legitimacy, statecraft, timing, late-han, three-kingdoms]
-sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo]
+sources: [zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo]
 last_updated: 2026-08-24
 ---
 
 # Legitimacy Window Seizure / 合法性窗口抢占
+
+[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] adds the title-without-command precondition. The court can still recognize [[ZhangJiLateHan|张济]], [[GuoSiLateHan|郭汜]], [[YangDingLateHan|杨定]], [[YangFengLateHan|杨奉]], and [[DongChengLateHan|董承]], but no one yet turns [[EmperorXianOfHan|汉献帝]]'s recognized name into stable order. This is the exposed phase before a stronger actor such as [[CaoCao|曹操]] can later operationalize the title.
 
 [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] adds an even earlier pre-window condition. [[EmperorXianOfHan|汉献帝]] cannot force [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] to stop attacking [[DuanWeiLateHan|段煨]], yet his person is still valuable enough that [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] reunite to recover him. The later "welcome the emperor" opportunity rests on this paradox: the title is operationally weak but strategically scarce.
 
@@ -23,6 +25,7 @@ This concept overlaps with [[MingqiLegitimacy|名器合法性]] and [[StrategicC
 The concept also contrasts with [[AntiUsurpationCoalitionPressure|讨逆同盟压力]]. In the Yuan Shu branch, legitimacy forces rivals to respond to an illegitimate claimant. In the Cao Cao branch, legitimacy rewards the actor who first protects and operationalizes the still-recognized ruler.
 
 ## Key Claims
+- Hanji 989 adds that the legitimacy window begins before Cao Cao's decision room: the title is recognized, but route control still belongs to shifting armed escorts.
 - Hanji 990 adds that a legitimacy window can begin while the sovereign is still too weak to enforce an order against nearby soldiers.
 - Hanji 991 adds the pre-window condition: a recognized sovereign can be fought over by armed escorts and pursuers before anyone turns that control into a stable legitimacy platform.
 - Hanji 992 adds the missed-window version: a stronger actor can lose legitimacy advantage by treating the vulnerable sovereign mainly as a constraint.
@@ -33,6 +36,7 @@ The concept also contrasts with [[AntiUsurpationCoalitionPressure|讨逆同盟�
 - This mechanism precedes the material mechanics of relocation, supply, and armed control developed in the follow-on episodes.
 
 ## Connections
+- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[MingqiLegitimacy|名器合法性]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - recognized title before stable command or protection.
 - [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[DuanWeiLateHan|段煨]], and [[YangDingLateHan|杨定]] - edict refusal and title scarcity before renewed pursuit.
 - [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - exposed sovereign before durable legitimacy seizure.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[YuanShao|袁绍]], [[JuShou|沮授]], [[GuoTu|郭图]], and [[ChunyuQiong|淳于琼]] - missed welcome-the-emperor window and constraint objection.

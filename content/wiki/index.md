@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人](sources/zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's 195 CE route-control crisis, Guo Si's obstruction, Cao Cao's Yongqiu/Yanzhou turn, and Duan Wei's contested Huayin supply effort.
 - [《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？](sources/zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f.md) — 芮淇讲透资治通鉴 episode on Yang Ding's failed attack on Duan Wei, Zhang Ji's alliance switch, and Li Jue/Guo Si reuniting because Emperor Xian remained the higher-value political prize.
 - [《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？](sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's December 195 flight, Li Jue/Guo Si/Zhang Ji's pursuit, Dong Cheng and Yang Feng's emergency Baibo/Southern Xiongnu reinforcements, Jia Xu's minister-protection intervention, and the bloody Yellow River night crossing.
 - [《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇](sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's Anyi court, Chang'an's collapse, Yuan Shao missing Ju Shou's welcome-the-emperor strategy, and Sun Ce's Jiangdong start with Zhou Yu's material support.
@@ -1652,9 +1653,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
 - [左承祖 / Zuo Chengzu](entities/ZuoChengzu.md) — Beihai adviser whose realistic advice to rely on a stronger power is rejected and punished by Kong Rong.
 - [刘义逊 / Liu Yixun](entities/LiuYixun.md) — Respected Beihai guest who leaves after Kong Rong kills Zuo Chengzu, marking the wider collapse of safe advice.
+- [刘翊 / Liu Yi (late Han)](entities/LiuYiLateHan.md) — Zhang Miao's close guard who kills him before he can flee toward Yuan Shu, closing Cao Cao's Yongqiu/Yanzhou branch in Hanji 989.
 - [北海郡 / Beihai Commandery](entities/BeihaiCommandery.md) — Late-Han commandery where Kong Rong's prestige, weak capacity, killed advice, and Yuan Tan's attack converge.
 - [袁涣 / Yuan Huan (late Han)](entities/YuanHuanLateHan.md) — Late-Han official who refuses Lü Bu's demand to write an abusive letter against Liu Bei, blocking a moral rationalization of betrayal.
 - [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
+- [华阴 / Huayin (late Han)](entities/HuayinLateHan.md) — Corridor site where Emperor Xian reaches Duan Wei's supplies and where route control, rumor, and survival politics converge.
 - [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general who resists Yang Ding while feeding Emperor Xian, later serving as Jia Xu's suspicious host before Jia Xu joins Zhang Xiu.
 - [杨定 / Yang Ding (late Han)](entities/YangDingLateHan.md) — Late-Han general whose failed attack on Duan Wei collapses when Zhang Ji, Li Jue, and Guo Si re-sort around Emperor Xian.
 - [穰城 / Rangcheng](entities/Rangcheng.md) — Nanyang city where Zhang Ji dies attacking in Hanji 1010, opening Liu Biao's mourning-framed absorption of the remaining troops.

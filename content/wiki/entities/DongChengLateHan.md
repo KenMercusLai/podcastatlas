@@ -2,11 +2,13 @@
 title: "董承 / Dong Cheng (late Han)"
 type: entity
 tags: [person, late-han, court, military]
-sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
+sources: [zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
 last_updated: 2026-08-24
 ---
 
 # 董承 / Dong Cheng (late Han)
+
+[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] adds Dong Cheng before the river-flight crisis. He receives title recognition, is alerted to [[GuoSiLateHan|郭汜]]'s westward coercion plan, helps move [[EmperorXianOfHan|汉献帝]] toward [[YangFengLateHan|杨奉]]'s camp after the Xinfeng fire, and then participates in the politically charged suspicion around [[DuanWeiLateHan|段煨]] at [[HuayinLateHan|华阴]].
 
 [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] backfills Dong Cheng's pre-escort alignment before the Hanji 991 river-flight crisis. He joins [[YangDingLateHan|杨定]] and [[YangFengLateHan|杨奉]] in trying to obtain an imperial order against [[DuanWeiLateHan|段煨]], then participates in the failed attack after [[EmperorXianOfHan|汉献帝]] refuses to treat Duan Wei as a rebel.
 
@@ -25,6 +27,7 @@ The episode then turns Dong Cheng into the legitimacy channel for Cao Cao's marc
 ## Connections
 - [[CaoCao|曹操]] and [[CaoHong|曹洪]] - Cao-side actors affected by Dong Cheng's initial obstruction and later appeal.
 - [[HanXianLateHan|韩暹]] - pressure source that changes Dong Cheng's incentives.
+- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[GuoSiLateHan|郭汜]], [[YangFengLateHan|杨奉]], and [[HuayinLateHan|华阴]] - Xinfeng escape and early Duan Wei suspicion.
 - [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - failed anti-Duan attack before the renewed Li-Guo pursuit.
 - [[BaiboArmy|白波军]], [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], and [[QubeiSouthernXiongnu|去卑]] - Hanji 991 reinforcement network.
 - [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[EmperorXianOfHan|汉献帝]], [[ZhangYangLateHan|张杨]], and [[LuoyangLateHan|洛阳]] - court-flight and return setting of Dong Cheng's source role.

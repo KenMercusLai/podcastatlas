@@ -2,13 +2,15 @@
 title: "杨定 / Yang Ding (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f]
+sources: [zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f]
 last_updated: 2026-08-24
 ---
 
 # 杨定 / Yang Ding (late Han)
 
-杨定 / Yang Ding (late Han) enters the wiki through [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] as a former [[DongZhuo|董卓]] subordinate and late-Han general competing around [[EmperorXianOfHan|汉献帝]]'s eastward move. The episode places him against [[DuanWeiLateHan|段煨]], whose Huayin position and grain supply make him both a route-control obstacle and a tempting resource holder.
+杨定 / Yang Ding (late Han) now enters the wiki through [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] as one of the armed escorts around [[EmperorXianOfHan|汉献帝]]'s eastward move. He receives court title recognition, is warned by Zhong Ji about [[GuoSiLateHan|郭汜]]'s plan to force the emperor back west, helps beat Guo Si's subordinates after the Xinfeng fire, and then reaches [[HuayinLateHan|华阴]] with [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]].
+
+[[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] then develops him as a former [[DongZhuo|董卓]] subordinate and late-Han general competing around the emperor's route. The episode places him against [[DuanWeiLateHan|段煨]], whose Huayin position and grain supply make him both a route-control obstacle and a tempting resource holder.
 
 Yang Ding joins [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] in asking the emperor to authorize an attack on Duan Wei, but Emperor Xian refuses because Duan Wei has not openly rebelled. The allied force attacks anyway and fails to take Duan Wei's camp for more than ten days, while Duan Wei continues providing food to the emperor and officials.
 
@@ -17,6 +19,7 @@ The episode's closing sequence makes Yang Ding a negative case inside [[Interest
 The page keeps the moral diagnosis source-scoped. The host reads Yang Ding's end through greed, rigidity, and failure to assess changing conditions, but the durable wiki claim is narrower: Yang Ding misprices Duan Wei's position and the emperor-control field, then loses when other armed actors re-sort their alliances around the more valuable prize.
 
 ## Connections
+- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[GuoSiLateHan|郭汜]], and [[HuayinLateHan|华阴]] - escort role from Xinfeng escape to Huayin suspicion.
 - [[DuanWeiLateHan|段煨]] - rival around Huayin, grain supply, and emperor-route control.
 - [[EmperorXianOfHan|汉献帝]] - ruler Yang Ding wants to control or use through an edict.
 - [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] - temporary allies in the attack on Duan Wei.

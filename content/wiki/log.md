@@ -11041,3 +11041,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki lint
 
 Ran health, identity validation, and lint. Health passed across 13,825 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware lint used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current scan covered 13,825 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人
+
+Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's 195 CE route-control crisis, Guo Si's obstruction and failed Xinfeng coercion, Cao Cao's Yongqiu/Yanzhou turn through Zhang Miao's death, and Duan Wei's contested Huayin supply effort. Created pages for Huayin (late Han) and Liu Yi (late Han); updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; Liu Yi's hidden-asset reading and the title's moral frame are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
