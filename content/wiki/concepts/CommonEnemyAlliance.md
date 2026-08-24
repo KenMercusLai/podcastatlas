@@ -1,9 +1,9 @@
 ---
 title: "Common-Enemy Alliance / 共同敌人联盟"
 type: concept
-tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
-last_updated: 2026-08-20
+tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states, late-han]
+sources: [zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon, zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
+last_updated: 2026-08-25
 ---
 
 # Common-Enemy Alliance / 共同敌人联盟
@@ -30,6 +30,16 @@ In the source case, the enemy pressure is [[QinState|秦国]]. Su Qin persuades 
 
 [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds the consequence of that division. Qin's later attack on Wei after being compensated with wealth shows that common-enemy victory can produce [[PostCoalitionSpoilsImbalance|post-coalition spoils imbalance]]: the war can be won while the payoff distribution leaves a strong ally looking for land or leverage elsewhere.
 
+[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] adds the formation moment for the anti-[[DongZhuo|董卓]] version. Dong Zhuo's violence makes Guandong commanders raise armies and accept [[YuanShao|袁绍]] as盟主, but [[ZhengTaiLateHan|郑泰]] already argues that the participants lack unified hierarchy, practical military confidence, and shared interests. The common enemy can convene the field before it can discipline it.
+
+[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] adds the early anti-[[DongZhuo|董卓]] action version. Dong Zhuo's violence gives the coalition an obvious common enemy, but [[CaoCao|曹操]] is the only actor willing to test the line after Luoyang burns and the emperor is moved west. The [[SuanzaoCamp|Suanzao]] armies' refusal to implement Cao Cao's later pass-control plan shows that a common enemy can clarify opposition without creating shared risk, supply, or command.
+
+[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] adds the title-coordination problem before the coalition's battlefield and office conflicts. [[DongZhuo|董卓]] is the common enemy, but the coalition cannot agree on what to do with the [[EmperorXianOfHan|汉献帝]] title while Dong Zhuo controls it. [[CaoCao|曹操]] insists that the common-enemy campaign needs the recognized emperor as its public basis, while [[YuanShao|袁绍]] and [[HanFuLateHan|韩馥]] try to replace that basis through [[LiuYuLateHan|刘虞]].
+
+[[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] adds a front-line late-Han version before Hanji 958's coalition-collapse frame. [[DongZhuo|董卓]] supplies the common enemy, and [[SunJianLateHan|孙坚]] produces real battlefield pressure against him, but [[YuanShu|袁术]] still cuts Sun Jian's grain out of fear that success will make the ally uncontrollable.
+
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds a late-Han version through the [[AntiDongZhuoCoalition|反董卓联盟]]. [[DongZhuo|董卓]] is strong enough to provide a shared enemy, but the coalition does not create stable trust among [[YuanShao|袁绍]], [[YuanShu|袁术]], [[SunJianLateHan|孙坚]], and [[GongsunZan|公孙瓒]]. The result is a common-enemy front that fractures before its stated enemy is removed.
+
 ## Key Claims
 - Shared interest can be too vague to bind actors; shared threat can clarify urgency and direction.
 - A buffer state can become valuable not because it is loved, but because it absorbs or redirects a stronger enemy's pressure.
@@ -44,6 +54,10 @@ In the source case, the enemy pressure is [[QinState|秦国]]. Su Qin persuades 
 - A state that recently used coalition politics against others can itself become the common enemy if victory turns into overreach.
 - A common enemy can align the campaign while still leaving each ally with different occupation capacity, payoff, and withdrawal timing after the first victory.
 - The post-victory payoff can become a new conflict trigger if a strong ally treats treasure as inadequate compensation.
+- Hanji 953 adds that a common enemy can identify the target while still failing to allocate first risk, logistics, and command.
+- Hanji 950 adds that a common enemy can assemble a coalition and leader before it creates military discipline, shared hierarchy, or durable trust.
+- Hanji 955 adds that even the coalition's most effective battlefield actor can become suspect to his own supplier before the common enemy is defeated.
+- Hanji 958 adds that a common enemy can fail even before victory, when participants are already pricing offices, rear bases, and troop flows against one another.
 
 ## Connections
 - [[SuQin|苏秦]], [[YanWengong|燕文公]], [[ZhaoSuhou|赵肃侯]], [[YanState|燕国]], and [[ZhaoState|赵国]] - source cases.
@@ -58,3 +72,7 @@ In the source case, the enemy pressure is [[QinState|秦国]]. Su Qin persuades 
 - [[YanZhaowang|燕昭王]], [[LeYi|乐毅]], [[QiMinWang|齐湣王]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 anti-Qi coalition after Qi's post-Song overreach.
 - [[QinState|秦国]], [[HanState|韩国]], [[WeiState|魏国]], [[ZhaoState|赵国]], [[Linzi|临淄]], and [[JuXin|剧辛]] - Zhouji 70 campaign execution, occupation allocation, and deep-pursuit dispute.
 - [[PostCoalitionSpoilsImbalance|联军战后利益失衡]], [[AnchengWarringStates|安城]], and [[Daliang|大梁]] - Zhouji 73 payoff imbalance and Qin's follow-on attack on Wei.
+- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]], [[ZhengTaiLateHan|郑泰]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]] - common-enemy formation before effective command.
+- [[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]], [[SuanzaoCamp|酸枣大营]], [[BianshuiBattleLateHan|汴水之战]], [[CaoCao|曹操]], and [[StrategicPassControl|兵家必争通道控制]] - common-enemy campaign that stalls at risk and command allocation.
+- [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]], [[SunJianLateHan|孙坚]], [[YuanShu|袁术]], [[DongZhuo|董卓]], [[YangrenBattleLateHan|阳人之战]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - common-enemy campaign constrained by supplier suspicion.
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[AntiDongZhuoCoalition|反董卓联盟]], [[DongZhuo|董卓]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[SunJianLateHan|孙坚]], and [[GongsunZan|公孙瓒]] - late-Han common-enemy alliance that collapses into internal rivalry before the enemy is gone.

@@ -2,11 +2,17 @@
 title: "颍川郡 / Yingchuan Commandery"
 type: entity
 tags: [place, commandery, qin, chu-han, warfare]
-sources: [zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+last_updated: 2026-08-25
 ---
 
 # 颍川郡 / Yingchuan Commandery
+
+[[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] adds a late-Han crisis-migration use before the elite-network branch in Hanji 969. [[XunYu|荀彧]] reads Yingchuan as exposed to war after [[DongZhuo|董卓]]'s collapse, urges people to leave, and moves his kin toward the north before [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], and related forces devastate the area.
+
+The source makes Yingchuan both a danger zone and a talent source. It sends Xun Yu toward [[HanFuLateHan|韩馥]], then into [[YuanShao|袁绍]]'s camp, and finally toward [[CaoCao|曹操]], turning local elite identity into [[CrisisMigrationJudgment|危局迁徙判断]] and camp-choice analysis.
+
+[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds a late-Han elite-network use to a page that previously sat mostly in Qin/Chu-Han material. The episode describes Yingchuan families such as the Zhong, Xun, and Chen lines as political investors who can identify a viable warlord camp; [[ZhongYao|钟繇]]'s support for [[CaoCao|曹操]] makes that local elite network operational rather than merely cultural.
 
 颍川郡 / Yingchuan Commandery enters the wiki through [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] as the place where [[LiuBang|刘邦]] breaks a city and massacres it during his westward campaign. The episode places the action after Liu Bang's inability to take [[Kaifeng|开封]] and his victory over [[YangXiongQinGeneral|杨熊]].
 
@@ -19,6 +25,8 @@ For the wiki, Yingchuan therefore becomes a correction to simplified Liu Bang me
 [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] later reassigns Yingchuan again inside the same early-Han search for safer regional control. After [[PengYue|彭越]] is killed, Liu Bang abolishes Yingchuan into Huaiyang and names his son Liu You as Huaiyang king, extending [[SameSurnameKingEnfeoffment|同姓王分封]] into the central-plains map.
 
 ## Connections
+- [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]], [[XunYu|荀彧]], [[HanFuLateHan|韩馥]], [[YuanShao|袁绍]], [[CaoCao|曹操]], and [[CrisisMigrationJudgment|危局迁徙判断]] - late-Han war-risk migration and camp-choice branch.
+- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[ZhongYao|钟繇]], [[XunYu|荀彧]], and [[CaoCao|曹操]] - late-Han elite-network and camp-choice branch.
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - reassignment into Huaiyang under Liu-family kingship.
 - [[LiuBang|刘邦]] - commander responsible for the source-reported massacre.
 - [[Kaifeng|开封]] and [[YangXiongQinGeneral|杨熊]] - immediately preceding campaign context.

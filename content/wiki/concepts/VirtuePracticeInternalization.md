@@ -2,11 +2,13 @@
 title: "Virtue Practice Internalization / 修养内化"
 type: concept
 tags: [ethics, moral-cultivation, confucianism, human-nature, warring-states]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7, zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7, zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]
+last_updated: 2026-08-25
 ---
 
 # Virtue Practice Internalization / 修养内化
+
+[[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] adds a late-Han negative example through "管不住身口意." [[WangRuiLateHan|Wang Rui]]'s contemptuous speech and threat against [[CaoYinLateHan|Cao Yin]] become actionable danger, while [[DongZhuo|Dong Zhuo]]'s desire and cruelty show the collapse of intention, speech, and conduct at regime scale. The episode therefore extends internalization from cultivation advice into failure diagnosis under warlord disorder.
 
 Virtue practice internalization / 修养内化 is the moral-cultivation frame [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] draws from [[ZiShun|子顺]]'s answer to [[WeiAnxiWang|魏安釐王]]. When the king says [[LuZhonglian|鲁仲连]] seems performative, Zi Shun replies that if someone keeps performing gentlemanly conduct, that practice can become the person.
 
@@ -31,8 +33,10 @@ This frame sits between two wiki cautions. It supports [[MoralizedShiIdentity|�
 - Qinji 119-2 adds that speech and intention are part of cultivation, not secondary decoration around action.
 - Hanji 150 PLUS adds that durable achievement should be guarded by cultivated speech, intention, and conduct.
 - Hanji 161 part 4 adds that fate-change requires accumulated virtue practice rather than merely hearing or admiring a teaching.
+- Hanji 952 adds that failure to govern body, speech, and intention can become materially dangerous when politics is already violent and verification channels are weak.
 
 ## Connections
+- [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[WangRuiLateHan|王瑞]], [[CaoYinLateHan|曹寅]], and [[DongZhuo|董卓]] - late-Han body-speech-intention failure cases.
 - [[ZiShun|子顺]], [[WeiAnxiWang|魏安釐王]], and [[LuZhonglian|鲁仲连]] - source scene and evaluated figure.
 - [[Confucius|孔子]] and [[Xunzi|荀子]] - human-nature clarification.
 - [[MoralizedShiIdentity|士的道德化身份]] - conduct-based status context.

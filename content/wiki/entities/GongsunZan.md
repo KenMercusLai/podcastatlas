@@ -2,24 +2,55 @@
 title: "公孙瓒 / Gongsun Zan"
 type: entity
 tags: [person, late-han, military, china]
-sources: [zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
+last_updated: 2026-08-25
 ---
 
 # 公孙瓒 / Gongsun Zan
 
+[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] gives Gongsun Zan a pre-rivalry role in [[YuanShao|袁绍]]'s Jizhou seizure. Yuan Shao's side invites or uses Gongsun Zan's southward movement against [[JizhouLateHan|冀州]] to frighten [[HanFuLateHan|韩馥]], making Gongsun Zan a pressure instrument before Hanji 958 develops the open Yuan Shao-Gongsun Zan rupture.
+
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] supplies the pre-[[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] rise and rupture layer. Gongsun Zan first defeats the [[QingzhouYellowTurbans|青州黄巾军]] near [[DongguangCountyLateHan|东光县]], captures a large number of people and supplies, and becomes a stronger northern actor before the direct [[YuanShao|袁绍]] war.
+
+The same source shows his coalition politics as already double-edged. He warns [[LiuYuLateHan|刘虞]] not to trust [[YuanShu|袁术]], but sends [[GongsunYueLateHan|公孙越]] with cavalry to Yuan Shu and tells Yuan Shu to hold Liu Yu's troops. After Gongsun Yue dies assisting [[SunJianLateHan|孙坚]] against [[ZhouAngLateHan|周昂]], Gongsun Zan blames Yuan Shao, moves to pressure Jizhou, and benefits when [[GongsunFanLateHan|公孙范]] defects with [[BohaiCommanderyLateHan|渤海郡]] troops. Hanji 958 therefore turns the later Yuan Shao rivalry into an [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] case rather than a sudden personal feud.
+
+[[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] backfills the [[JieqiaoBattleLateHan|界桥之战]] defeat before the later Youzhou-collapse pages. The source presents Gongsun Zan with a much larger cavalry-heavy force against [[YuanShao|袁绍]], but his charge runs into [[QuYiLateHan|麹义]]'s shielded infantry and strong crossbows.
+
+The battle adds a tactical limit to Gongsun Zan's military profile. His mounted advantage can be dangerous, but it is not self-sufficient when the opponent controls distance and timing through [[ShieldCrossbowAntiCavalry|盾弩反骑兵战术]]. The death of [[YanGangLateHan|严纲]], his appointed Jizhou inspector, also makes the defeat a political blow to his effort to project authority into Yuan Shao's field.
+
+[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds the Yanzhou pressure version of Gongsun Zan's break with [[YuanShao|袁绍]]. Before the later Qingzhou and Youzhou branches, Gongsun Zan has sent [[FanFangLateHan|范方]] with cavalry to support [[LiuDaiLateHan|刘岱]], but then privately uses Fan Fang to demand Yuan Shao's household.
+
+The source makes the alliance support unstable. Gongsun Zan threatens to punish Liu Dai later if Liu Dai does not comply, yet [[ChengYu|程昱]] predicts that Gongsun Zan will not defeat Yuan Shao and is too distant to protect Liu Dai. The episode therefore adds an early example of [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] around Gongsun Zan before the later pages focus on his direct war and Youzhou collapse.
+
+[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds the immediate post-Longcou check before Gongsun Zan's later Liu Yu and Youzhou collapse branches. The episode says [[YuanShao|袁绍]] has effectively driven him back toward Youzhou, while his rivalry continues indirectly through [[TianKaiLateHan|田楷]] in [[QingzhouLateHan|青州]]. That Qingzhou proxy war shows the cost of strategic stalemate before the later sources focus on Gongsun Zan's own political failures.
+
+[[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] adds a compact pre-rupture note before the Liu Yu and Youzhou branches. The episode says [[YuanShao|袁绍]] and Gongsun Zan form a marriage tie and exchange betrothal gifts, but the relationship soon returns to war. The point is not family history; it is a late-Han alliance warning that kinship gestures do not stabilize military rivalry when underlying power competition remains.
+
 公孙瓒 / Gongsun Zan enters the wiki through [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] as the northern opponent tying down [[YuanShao|袁绍]]. [[GuoJia|郭嘉]] uses Yuan Shao's campaign against Gongsun Zan to identify a window for [[CaoCao|曹操]] to move against [[LyuBu|吕布]].
 
 The episode does not develop Gongsun Zan's own politics. His role is structural: because Yuan Shao is occupied in the north, Cao Cao has time to remove an eastern flank threat before the larger Yuan Shao confrontation becomes immediate.
+
+[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] supplies the immediate lead-in to the Liu Yu rupture. The closing Youzhou note says Gongsun Zan often fights Yuan Shao, ignores [[LiuYuLateHan|刘虞]]'s attempts to restrain him, and lets troops plunder; when Liu Yu cuts supplies, Gongsun Zan counter-accuses Liu Yu of withholding military grain.
+
+[[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] backfills the direct rupture with [[LiuYuLateHan|刘虞]]. Gongsun Zan fortifies a small city southeast of Ji, avoids Liu Yu's summons by claiming illness, and then uses a small counterattack and fire to break Liu Yu's much larger but poorly disciplined army.
+
+The same source shows Gongsun Zan converting a court-mediation moment into lethal coercion. When [[DuanXunLateHan|段迅]] arrives with edicts for both Liu Yu and Gongsun Zan, Gongsun Zan accuses Liu Yu of colluding with [[YuanShao|袁绍]] and seeking the imperial title, pressures Duan Xun, and executes Liu Yu and his family in the marketplace. [[TianChou|田筹]]'s later rebuke exposes the legitimacy cost of that act even before Hanji 998's wider backlash.
 
 [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] backfills that northern war by making Gongsun Zan himself the central case. After killing [[LiuYuLateHan|刘虞]] and seizing [[YouzhouLateHan|幽州]], he is described as retaliatory, contemptuous of士大夫, and willing to rely on lower-status intimate dependents whose new power angers the population.
 
 The source then follows the backlash. [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], [[LiuHeLateHan|刘和]], and Yuan Shao-linked forces attack him, while several Youzhou commanderies kill Gongsun Zan's appointed officials and join the coalition. Gongsun Zan answers by moving to [[YixianLateHan|易县]], building [[YijingFortress|易京]], isolating himself behind iron gates, and giving up field action. The episode treats this as [[FortressSecurityIllusion|筑城避世安全幻觉]]: a former [[BaimaYicong|白马义从]] commander tries to trade initiative, advisers, and people-support for walls and grain.
 
 ## Connections
+- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[YuanShao|袁绍]], [[HanFuLateHan|韩馥]], [[JizhouLateHan|冀州]], and [[PsychologicalSurrenderTrap|心理迫降陷阱]] - southward pressure used in Yuan Shao's Jizhou transfer plan.
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[QingzhouYellowTurbans|青州黄巾军]], [[DongguangCountyLateHan|东光县]], [[GongsunYueLateHan|公孙越]], [[GongsunFanLateHan|公孙范]], [[BohaiCommanderyLateHan|渤海郡]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - pre-Jieqiao rise, coalition double game, and Yuan Shao rupture setup.
+- [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]], [[JieqiaoBattleLateHan|界桥之战]], [[QuYiLateHan|麹义]], [[YanGangLateHan|严纲]], and [[ShieldCrossbowAntiCavalry|盾弩反骑兵战术]] - early cavalry-heavy defeat against Yuan Shao's shield-crossbow formation.
+- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[LiuDaiLateHan|刘岱]], [[FanFangLateHan|范方]], [[YuanShao|袁绍]], and [[ChengYu|程昱]] - early Yanzhou pressure and neutrality-advice branch.
+- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YuanShao|袁绍]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[QingzhouLateHan|青州]], and [[ZhaoQiLateHan|赵岐]] - post-Longcou pressure and Qingzhou proxy-war mediation branch.
+- [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] - marriage-alliance note with [[YuanShao|袁绍]] before renewed war.
+- [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] - supply, plunder, and accusation prelude before the Liu Yu attack.
 - [[YuanShao|袁绍]] - northern rival currently fighting him.
 - [[GuoJia|郭嘉]] and [[CaoCao|曹操]] - actors using that northern distraction in strategic planning.
 - [[LyuBu|吕布]] - eastern target whose removal becomes urgent while Yuan Shao is occupied.
-- [[LiuYuLateHan|刘虞]], [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[LiuHeLateHan|刘和]], [[Wuhuan|乌桓]], and [[Xianbei|鲜卑]] - Youzhou backlash and coalition branch in Hanji 998.
+- [[LiuYuLateHan|刘虞]], [[DuanXunLateHan|段迅]], [[TianChou|田筹]], [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[LiuHeLateHan|刘和]], [[Wuhuan|乌桓]], and [[Xianbei|鲜卑]] - direct rupture, coerced execution, and Youzhou backlash branch.
 - [[YouzhouLateHan|幽州]], [[YixianLateHan|易县]], [[YijingFortress|易京]], and [[BaimaYicong|白马义从]] - regional control, refuge choice, fortress, and lost cavalry identity.
-- [[FortressSecurityIllusion|筑城避世安全幻觉]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[TalentAsStateTreasure|以贤臣为宝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - concepts explaining why the fortress turn cannot repair the preceding political failure.
+- [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]], [[AtrocityBackfireMobilization|暴行反噬式动员]], [[FortressSecurityIllusion|筑城避世安全幻觉]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[TalentAsStateTreasure|以贤臣为宝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - concepts explaining why battlefield success and fortress safety cannot repair the preceding political failure.

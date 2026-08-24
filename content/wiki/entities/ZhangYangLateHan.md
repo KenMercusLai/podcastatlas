@@ -2,11 +2,25 @@
 title: "张杨 / Zhang Yang (late Han)"
 type: entity
 tags: [person, late-han, military, henei]
-sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
+last_updated: 2026-08-25
 ---
 
 # 张杨 / Zhang Yang (late Han)
+
+[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] supplies the first half of Zhang Yang's attachment path: after He Jin's death he holds troops around Shangdang and Henei, then attaches to [[YuanShao|袁绍]] while camping with [[YufuluoChanyu|于扶罗]] near the Zhang River.
+
+[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds Zhang Yang's earlier disorder-era attachment path before the later Lü Bu and court-return branches. During the anti-Dong-Zhuo period, Zhang Yang and a [[SouthernXiongnu|南匈奴]] chanyu attach to [[YuanShao|袁绍]] near the Zhang River, but conflict with Yuan Shao leads the chanyu to hold Zhang Yang as a hostage and carry him to [[PuyangLateHan|濮阳]].
+
+The source then says Zhang Yang is released after about a year and receives [[DongZhuo|董卓]]'s appointment as general who establishes righteousness and [[HeneiCommandery|河内郡]] administrator. This backfills why later episodes can use Zhang Yang as a Henei gatekeeper and survival actor rather than introducing him only through Lü Bu's refuge or Emperor Xian's route.
+
+[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] backfills Zhang Yang as [[LyuBu|吕布]]'s refuge after the failed [[YuanShu|袁术]] attachment. The episode does not give Zhang Yang's internal calculation; it uses him as the next safe attachment point until [[LiJueLateHan|李傕]] puts a bounty on Lü Bu and makes Yuan Shao the next destination.
+
+[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds Zhang Yang as the first Henei gatekeeper in [[CaoCao|曹操]]'s attempt to contact the [[EmperorXianOfHan|汉献帝]] court after adopting [[MaoJie|毛玠]]'s "奉天子" strategy. Zhang Yang initially refuses the route and discards the paperwork, but [[DongZhaoLateHan|董昭]] persuades him to let Cao Cao's envoy pass and to recommend Cao Cao upward.
+
+The source makes Zhang Yang's importance positional. He does not design the legitimacy strategy, but he controls the passage through [[HeneiCommandery|河内郡]] without which Cao Cao cannot turn a slogan into a court-facing channel.
+
+[[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] backfills Zhang Yang's earlier role as the patron to whom [[LyuBu|吕布]] returns after surviving the [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]]. The source does not develop Zhang Yang's own decision process here; it uses him as the next safe attachment point after [[YuanShao|袁绍]]'s escort-cover killing attempt fails.
 
 [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] gives Zhang Yang an early supply role at the end of the river-crossing crisis. After [[EmperorXianOfHan|汉献帝]] reaches Dayang from the night crossing, Zhang Yang sends several thousand people carrying grain to the court, showing that supply can briefly relieve the flight without ending the larger [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] around the emperor.
 
@@ -23,7 +37,12 @@ The source uses Zhang Yang mainly to show Dong Zhao's early judgment. Dong Zhao 
 Zhang Yang also appears in the episode's later Luoyang turn as one of the figures Cao Cao complains about after entering the court. The page keeps that mixed role source-scoped: Zhang Yang can be both an earlier access gate and a later politically problematic actor inside a rapidly shifting late-Han field.
 
 ## Connections
+- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[YufuluoChanyu|于扶罗]], and [[YuanShao|袁绍]] - first attachment and encampment marker.
+- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[YuanShao|袁绍]], [[SouthernXiongnu|南匈奴]], [[PuyangLateHan|濮阳]], [[DongZhuo|董卓]], and [[HeneiCommandery|河内郡]] - earlier hostage, release, and appointment path.
+- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[LyuBu|吕布]], [[YuanShu|袁术]], [[LiJueLateHan|李傕]], and [[YuanShao|袁绍]] - first Lü Bu refuge before the Yuan Shao branch.
+- [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]], [[LyuBu|吕布]], [[YuanShao|袁绍]], and [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]] - earlier Lü Bu refuge after the failed assassination.
 - [[DongZhaoLateHan|董昭]] - adviser whose Henei persuasion links Zhang Yang to Cao Cao.
+- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[MaoJie|毛玠]], [[HeneiCommandery|河内郡]], and [[LegitimacyWindowSeizure|合法性窗口抢占]] - initial court-contact route after Cao Cao adopts the legitimacy strategy.
 - [[CaoCao|曹操]] - outside actor seeking a court-communication route through Henei.
 - [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] - grain support after the river crossing.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[Anyi|安邑]], and [[LuoyangLateHan|洛阳]] - early failed return plan blocked by escort politics.

@@ -2,8 +2,8 @@
 title: "东郡 / Dong Commandery"
 type: entity
 tags: [place, commandery, qin-state, wei-state, pre-qin, warring-states, late-han]
-sources: [zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]
+last_updated: 2026-08-25
 ---
 
 # 东郡 / Dong Commandery
@@ -20,9 +20,17 @@ Dong Commandery therefore belongs with [[SanchuanWarringStates|三川]] and [[Ta
 
 [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] gives Dong Commandery an early-Western-Han reassignment note. After [[PengYue|彭越]] is removed, [[LiuBang|刘邦]] abolishes Dong Commandery into the Liang kingdom while assigning Liu-family kingship over the region, making it part of the [[SameSurnameKingEnfeoffment|同姓王分封]] replacement map.
 
+[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds the immediate late-Han office opening before Hanji 961. [[BaoXin|鲍信]] urges [[CaoCao|曹操]] to use Dong Commandery as a foothold against [[YuanShao|袁绍]]'s growing northern position, and [[WangGongLateHan|王肱]]'s inability to withstand [[HeishanArmy|黑山军]]-linked attackers creates the practical opening.
+
+The source names [[YuDuLateHan|于毒]], [[BaiRaoLateHan|白绕]], and [[SuiGuLateHan|眭固]] in the attacking field. Cao Cao defeats Bai Rao around [[PuyangLateHan|濮阳]], receives Yuan Shao's recommendation as administrator, and places the commandery office at [[DongWuyangLateHan|东武阳]]. This makes Dong Commandery the bridge between Bao Xin's early strategy and Cao Cao's later Neihuang operations.
+
+[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds a late-Han Cao-side use before the Zang Hong branch. [[ChengYu|程昱]] is introduced as a Dong Commandery man whose advice helps [[LiuDaiLateHan|刘岱]] survive [[GongsunZan|公孙瓒]]'s pressure, while [[CaoCao|曹操]] later holds a command position in the same regional field around [[DunqiuLateHan|顿丘]], [[DongWuyangLateHan|东武阳]], and [[NeihuangBattleLateHan|内黄之战]].
+
 [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] adds a late-Han use. [[ZangHong|臧洪]] is serving as Dong Commandery administrator when [[ZhangChaoLateHan|张超]] is trapped at [[YongqiuLateHan|雍丘]]. After [[YuanShao|袁绍]] refuses rescue and Zhang Chao is killed by [[CaoCao|曹操]], Dong Commandery becomes the place where Zang Hong's old-superior loyalty turns into armed resistance, siege, starvation, and mass death.
 
 ## Connections
+- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[BaoXin|鲍信]], [[CaoCao|曹操]], [[WangGongLateHan|王肱]], [[BaiRaoLateHan|白绕]], [[PuyangLateHan|濮阳]], and [[DongWuyangLateHan|东武阳]] - office opening and early Cao-side foothold.
+- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[ChengYu|程昱]], [[CaoCao|曹操]], [[DunqiuLateHan|顿丘]], [[DongWuyangLateHan|东武阳]], and [[NeihuangBattleLateHan|内黄之战]] - late-Han advice and early Cao-side campaign field.
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - early-Han incorporation into the Liang replacement map.
 - [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[ZangHong|臧洪]], [[YuanShao|袁绍]], [[ZhangChaoLateHan|张超]], and [[YongqiuLateHan|雍丘]] - late-Han siege and loyalty branch.
 - [[QinState|秦国]], [[QinShiHuang|嬴政 / 秦始皇]], and [[MengAo|蒙敖]] - state, ruler frame, and commander attached to its creation.

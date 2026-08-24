@@ -2,11 +2,13 @@
 title: "汉中 / Hanzhong"
 type: entity
 tags: [place, region, pre-qin, warring-states, chu-state, qin-state]
-sources: [zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai, zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+last_updated: 2026-08-25
 ---
 
 # 汉中 / Hanzhong
+
+[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] adds a late-Han control layer before the Chu-Han route material below. [[LiuYanLateHan|刘焉]] sends [[ZhangLuFivePecks|张鲁]] and [[ZhangXiuFivePecks|张修]] against Hanzhong, after which the Yizhou side blocks the [[XieguRoadLateHan|斜谷道]] toward Chang'an and uses the cut road as a reason communication with the court cannot continue.
 
 汉中 / Hanzhong enters the wiki through [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] as the major territorial loss after [[DanyangBattle|丹阳之战]]. The source says [[QinState|秦国]] takes Hanzhong from [[ChuState|楚国]] after defeating Chu and capturing [[QuGai|屈匄]].
 
@@ -25,6 +27,7 @@ The episode's interpretive point is that Hanzhong should have become [[ChuHuaiwa
 [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] adds Hanzhong as a famine-reception zone rather than a launch base. When [[GuanzhongRegion|关中]] famine reaches catastrophic levels, [[LiuBang|刘邦]] allows people to move toward Shu and Hanzhong, so the region becomes part of Han's emergency demographic release valve.
 
 ## Connections
+- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[LiuYanLateHan|刘焉]], [[ZhangLuFivePecks|张鲁]], [[ZhangXiuFivePecks|张修]], [[XieguRoadLateHan|斜谷道]], and [[StrategicPassControl|兵家必争通道控制]] - late-Han Hanzhong road-control branch.
 - [[DanyangBattle|丹阳之战]] - battle after which Qin takes the region.
 - [[QinState|秦国]], [[ChuState|楚国]], and [[ChuHuaiwang|楚怀王]] - capturing state, losing state, and ruler.
 - [[Shangyu|商於]] and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - promised land that distracts from the concrete loss.

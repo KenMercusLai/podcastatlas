@@ -2,11 +2,13 @@
 title: "Speech As Moral Diagnostic / 言语作为德行信号"
 type: concept
 tags: [ethics, speech, moral-cultivation, confucianism, character]
-sources: [zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu, zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu, zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e]
+last_updated: 2026-08-25
 ---
 
 # Speech As Moral Diagnostic / 言语作为德行信号
+
+[[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] adds [[WangRuiLateHan|Wang Rui]] as a late-Han official case. Wang Rui's contempt for [[SunJianLateHan|Sun Jian]] and threat against [[CaoYinLateHan|Cao Yin]] are not treated merely as bad manners; they create enemies and pretexts in a setting where forged orders and armed response can follow. The episode's "管不住身口意" diagnosis turns loose speech into both moral evidence and survival exposure.
 
 Speech as moral diagnostic / 言语作为德行信号 is the ethical reading [[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e]] draws from [[BaiGongSheng|白公胜]] and [[YeGong|叶公]]. The episode rejects the excuse that harmful speech can be dismissed as "刀子嘴豆腐心." In its view, a person's language is evidence of intention, and intention can become action when circumstances open a path.
 
@@ -22,8 +24,10 @@ This concept does not say every harsh sentence proves future violence. It says r
 - Moral cultivation links intention, speech, and action, so a person should train all three rather than treating words as harmless.
 - Personnel judgment should attend to how someone speaks when frustrated, not only to talent, bravery, or outward promise-keeping.
 - Speech order can also be a practical role-fit signal, but it should be read with context rather than treated as a complete character verdict.
+- Hanji 952 adds that contemptuous speech and threats can supply motives and pretexts to people already operating in a weak-verification political environment.
 
 ## Connections
+- [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[WangRuiLateHan|王瑞]], [[SunJianLateHan|孙坚]], and [[CaoYinLateHan|曹寅]] - late-Han official case where contempt and threat become survival exposure.
 - [[BaiGongSheng|白公胜]], [[ZiXiChu|子西]], and [[BaiGongShengRebellion|白公胜之乱]] - source case for threatening speech becoming political violence.
 - [[YeGong|叶公]] and [[RenyiGroundedVirtue|仁义为本的信勇]] - evaluator and virtue standard.
 - [[VirtuePracticeInternalization|修养内化]] - adjacent moral-cultivation frame linking outward practice and inner disposition.

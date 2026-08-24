@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 721
+topic_total_pages: 722
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -700,6 +700,9 @@ topic_concepts:
   - key: "MilieuSpecificAnalysis"
     title: "Milieu-Specific Analysis"
     url: "/wiki/concepts/milieuspecificanalysis/"
+  - key: "MilitaryCampPanic"
+    title: "Military Camp Panic / 军营夜惊群体恐慌"
+    url: "/wiki/concepts/militarycamppanic/"
   - key: "MobileCarbonCapture"
     title: "Mobile Carbon Capture"
     url: "/wiki/concepts/mobilecarboncapture/"

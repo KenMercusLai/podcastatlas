@@ -801,14 +801,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-19",
       "latest_episode_file": "GLT2308408988 [GLT2308408988].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 4,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 2
+          "source_note_count": 4
         }
       ],
       "entities": [
@@ -817,6 +817,20 @@
           "title": "B Specials",
           "url": "/wiki/entities/bspecials/",
           "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "ElizabethI",
+          "title": "Elizabeth I",
+          "url": "/wiki/entities/elizabethi/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "FrancisWalsingham",
+          "title": "Francis Walsingham",
+          "url": "/wiki/entities/franciswalsingham/",
+          "kind": "person",
           "episode_count": 2
         },
         {
@@ -851,20 +865,6 @@
           "key": "Stormont",
           "title": "Stormont",
           "url": "/wiki/entities/stormont/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "TerenceONeill",
-          "title": "Terence O'Neill",
-          "url": "/wiki/entities/terenceoneill/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "UlsterVolunteerForce",
-          "title": "Ulster Volunteer Force",
-          "url": "/wiki/entities/ulstervolunteerforce/",
           "kind": "organization",
           "episode_count": 2
         }
@@ -2336,14 +2336,14 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
-      "source_note_count": 343,
-      "topic_matched_source_note_count": 245,
+      "source_note_count": 377,
+      "topic_matched_source_note_count": 246,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 242
+          "source_note_count": 243
         },
         {
           "key": "politics",
@@ -2371,6 +2371,13 @@
           "url": "/wiki/entities/qinshihuang/",
           "kind": "person",
           "episode_count": 48
+        },
+        {
+          "key": "CaoCao",
+          "title": "曹操 / Cao Cao",
+          "url": "/wiki/entities/caocao/",
+          "kind": "person",
+          "episode_count": 43
         },
         {
           "key": "QinZhaoxiangwang",
@@ -2401,29 +2408,22 @@
           "episode_count": 29
         },
         {
-          "key": "CaoCao",
-          "title": "曹操 / Cao Cao",
-          "url": "/wiki/entities/caocao/",
+          "key": "EmperorXianOfHan",
+          "title": "汉献帝 / Emperor Xian of Han",
+          "url": "/wiki/entities/emperorxianofhan/",
           "kind": "person",
-          "episode_count": 26
+          "episode_count": 28
         },
         {
-          "key": "XiaoHe",
-          "title": "萧何 / Xiao He",
-          "url": "/wiki/entities/xiaohe/",
+          "key": "LyuBu",
+          "title": "吕布 / Lü Bu",
+          "url": "/wiki/entities/lyubu/",
           "kind": "person",
-          "episode_count": 22
-        },
-        {
-          "key": "ZhangEr",
-          "title": "张耳 / Zhang Er",
-          "url": "/wiki/entities/zhanger/",
-          "kind": "person",
-          "episode_count": 19
+          "episode_count": 25
         }
       ],
       "start_here_episode_files": [
-        "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗 [lrBUCdIbtO5Zezrhl7UE0Y9vHB-L].md",
+        "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
         "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土 [lps0moshDfVOSNYHtdhrKdVsWIBH].md",
         "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？ [lrDleQOzaZh4-xdwAS4KARzGBMZA].md",
         "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖 [lr0h-kfEGUvATatTnJ--MZ8fgVnC].md"

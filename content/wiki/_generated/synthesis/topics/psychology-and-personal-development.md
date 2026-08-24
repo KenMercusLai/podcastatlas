@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-08-24
-as_of_overview_commit: 6a2f03a039ffdaa16448fab83a20178abba6d09a
-input_digest: b482846db3cd45f47d1349b725afa88a0ef1f13aa8701f55c63024ffa987cb78
+last_updated: 2026-08-25
+as_of_overview_commit: 7d265a3b1c274f58a66e897b1eee16c5a7ed8ffa
+input_digest: 67a1055cfb9ff6c5aa51a4f88daef12ad18d7210f524d200af4fbb4cccbf8f5f
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
+Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
 
 ## Cross-source Findings
 
@@ -70,13 +70,15 @@ Hanji 997 adds an attachment-and-judgment case: [[EmotionalAttachmentPoliticalDi
 
 ### Relationship Trust Is Condition Dependent
 
-[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]] adds a trust-fragility case: [[InterestStructuredAllianceFragility]] and [[GrainLeverageAllianceBetrayal]] show friendship and alliance around [[LiuBei]], [[LyuBu]], and [[YuanShu]] changing when grain, protection, family safety, and survival pressure shift.
+Hanji 962, Hanji 970, and Hanji 999 add related trust-fragility cases: [[PersonalGuardAttackSurface]] and [[PersonalTrustPoliticalFragility]] show [[DongZhuo]] and [[LyuBu]]'s close-guard relationship failing under violence, exposure fear, and [[WangYunLateHan]]'s persuasion; [[InterestStructuredAllianceFragility]] shows [[YuanShao]] and Lü Bu shifting from common-enemy cooperation against [[ZhangYanLateHan]] into [[YuanShaoLyuBuAssassinationAttempt]] under [[CourtesyCoveredElimination]], while later friendship and alliance around [[LiuBei]], Lü Bu, and [[YuanShu]] change when grain, protection, family safety, and survival pressure shift.
 
-**Evidence:** [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], [[InterestStructuredAllianceFragility]], [[GrainLeverageAllianceBetrayal]], [[LiuBei]], [[LyuBu]], [[YuanShu]], [[WartimeAgriculturalLaborCollapse]], [[CaoBaoLateHan]], [[XuDanLateHan]], [[ZhangFei]]
+**Evidence:** [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti]], [[DongZhuo]], [[WangYunLateHan]], [[PersonalGuardAttackSurface]], [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs]], [[YuanShao]], [[LyuBu]], [[ZhangYanLateHan]], [[YuanShaoLyuBuAssassinationAttempt]], [[CourtesyCoveredElimination]], [[CrisisDeceptionSurvival]], [[InterestStructuredAllianceFragility]], [[PersonalTrustPoliticalFragility]], [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], [[GrainLeverageAllianceBetrayal]], [[LiuBei]], [[YuanShu]], [[WartimeAgriculturalLaborCollapse]], [[CaoBaoLateHan]], [[XuDanLateHan]], [[ZhangFei]]
 
 **Qualifications:**
 
 - This is a historical political-military psychology case, not a standalone claim about all interpersonal trust.
+- Hanji 962 backfills the pre-assassination guard rupture rather than changing Hanji 963's later killing scene.
+- Hanji 970 preserves the zither, tunnel, and tent-slashing escape details as source-scoped narrative evidence.
 - Zhang Fei's drunken-loss shorthand remains source-layer variation beside Hanji 999's Cao Bao killing and Xu Dan gate-opening mechanism.
 
 ### Judgment Needs Fit Between Ambition And Conditions

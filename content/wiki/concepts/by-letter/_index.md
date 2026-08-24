@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "AdvancedPackaging"
     title: "Advanced Packaging"
     url: "/wiki/concepts/advancedpackaging/"
+  - key: "AdviserStateArchitecture"
+    title: "Adviser State Architecture / 谋士政权架构"
+    url: "/wiki/concepts/adviserstatearchitecture/"
   - key: "AdvisorRoleBoundary"
     title: "Advisor Role Boundary / 谋士越位"
     url: "/wiki/concepts/advisorroleboundary/"
@@ -1253,6 +1256,9 @@ wiki_pages:
   - key: "AlphaDecay"
     title: "Alpha Decay"
     url: "/wiki/concepts/alphadecay/"
+  - key: "AlternativeSovereignLegitimacyTrap"
+    title: "Alternative Sovereign Legitimacy Trap / 另立君主合法性陷阱"
+    url: "/wiki/concepts/alternativesovereignlegitimacytrap/"
   - key: "AlternativeHeirProtectionFailure"
     title: "Alternative-Heir Protection Failure / 备位继承人保护失灵"
     url: "/wiki/concepts/alternativeheirprotectionfailure/"

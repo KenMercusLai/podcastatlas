@@ -2,11 +2,13 @@
 title: "陈登 / Chen Deng"
 type: entity
 tags: [person, late-han, official, adviser]
-sources: [zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-24
 ---
 
 # 陈登 / Chen Deng
+
+[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] adds Chen Deng's first persuasion scene around [[LiuBei|刘备]] and [[Xuzhou|徐州]]. When Liu Bei suggests [[YuanShu|袁术]] instead, Chen Deng argues that Yuan Shu's arrogance and luxury make him unfit to settle the realm, and he offers Liu Bei a local support package of troops, military room, and the chance either to serve the court or hold territory.
 
 [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] backfills Chen Deng before the later [[ChenGui|陈珪]] family-survival branch. The episode presents him as a top Xuzhou gentry actor who supports [[LiuBei|刘备]] because Liu Bei can carry reputation and Han-clan legitimacy without immediately subordinating [[Xuzhou|徐州]] to [[YuanShu|袁术]]'s [[HuainanRegion|淮南]] group. This makes Chen Deng a central source case for [[LocalEliteProxySelection|地方豪强代理人选择]].
 
@@ -23,6 +25,7 @@ Chen Deng's central move is interpretive. When Lü Bu believes Chen Deng and Che
 The page remains source-scoped. The Hanji 1017 source gives a broader family-survival and Guangling base-building frame, while the Hanji 1018 title points toward Chen Deng's wider reputation among Cao Cao, Sun Ce, and Liu Bei; the provided texts mainly develop the Cao Cao/Lü Bu branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[LiuBei|刘备]], [[YuanShu|袁术]], and [[Xuzhou|徐州]] - first persuasion and local-support pledge.
 - [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LiuBei|刘备]], [[MiZhu|糜竺]], [[KongRong|孔融]], and [[LocalEliteProxySelection|地方豪强代理人选择]] - early Xuzhou proxy-selection branch.
 - [[ChenGui|陈珪]] - father and political partner in the source.
 - [[LyuBu|吕布]] - volatile ruler whom Chen Deng placates.

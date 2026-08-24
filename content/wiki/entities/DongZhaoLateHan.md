@@ -2,13 +2,17 @@
 title: "董昭 / Dong Zhao (late Han)"
 type: entity
 tags: [person, late-han, adviser, statecraft]
-sources: [zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
+last_updated: 2026-08-24
 ---
 
 # 董昭 / Dong Zhao (late Han)
 
-[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] backfills Dong Zhao's role before Cao Cao reaches the court. While serving [[ZhangYangLateHan|张杨]] in Henei, he persuades Zhang Yang to let [[CaoCao|曹操]] communicate with the eastern Han court. After [[EmperorXianOfHan|汉献帝]] reaches Anyi and Dong Zhao becomes yilang, he identifies [[YangFengLateHan|杨奉]] as the crucial route obstacle between Xu and [[LuoyangLateHan|洛阳]].
+[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds Dong Zhao's earliest court-access role for [[CaoCao|曹操]]. While serving [[ZhangYangLateHan|张杨]] in [[HeneiCommandery|河内郡]], he persuades Zhang Yang that the [[YuanShao|袁绍]]-Cao Cao alliance will not last and that Cao Cao is the stronger future bet, so Zhang Yang should let Cao Cao's envoy pass and submit a recommendation.
+
+The same episode makes Dong Zhao's initiative diplomatic as well as diagnostic. He sends Cao Cao-branded greetings to [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and other Chang'an powerholders according to their weight, lowering the cost of Cao Cao's first court communication. The host also frames Dong Zhao's departure from Yuan Shao's camp as a source-scoped example of leaving a blocked road quickly.
+
+[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] later extends Dong Zhao's role before Cao Cao reaches the court. After [[EmperorXianOfHan|汉献帝]] reaches Anyi and Dong Zhao becomes yilang, he identifies [[YangFengLateHan|杨奉]] as the crucial route obstacle between Xu and [[LuoyangLateHan|洛阳]].
 
 The episode makes Dong Zhao a case of [[ProactiveAdviserInitiative|主动补位式谋臣]]. Without waiting for direct instruction, he writes to Yang Feng in Cao Cao's name, praises Yang Feng's rescue-and-escort merit, and reframes Cao Cao as a grain-rich outside ally for Yang Feng's soldiers. The host reads the move as evidence that Dong Zhao recognized Cao Cao's future early and could turn that recognition into executable help.
 
@@ -20,7 +24,8 @@ The page is source-scoped. Hanji 1004 does not narrate Dong Zhao's full career; 
 
 ## Connections
 - [[CaoCao|曹操]] - ruler whose next move Dong Zhao advises.
-- [[ZhangYangLateHan|张杨]] - earlier patron whose Henei access Dong Zhao helps open for Cao Cao.
+- [[ZhangYangLateHan|张杨]] and [[HeneiCommandery|河内郡]] - earlier patron and commandery access Dong Zhao helps open for Cao Cao.
+- [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ChangAnHanCapital|长安]], and [[ZhongYao|钟繇]] - court-contact field around the Hanji 968-969 appointment branch.
 - [[EmperorXianOfHan|汉献帝]], [[LuoyangLateHan|洛阳]], and [[Xudu|许都]] - relocation field shaped by Dong Zhao's advice.
 - [[YangFengLateHan|杨奉]] - military actor Dong Zhao says should be reassured and bypassed.
 - [[StrategicCapitalRelocation|战略性迁都]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[InterestReframingPersuasion|利益重构式说服]], and [[ProactiveAdviserInitiative|主动补位式谋臣]] - concepts grounded by his source role.

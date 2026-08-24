@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7176
+wiki_total_pages: 7357
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "RobertBoyle"
     title: "Robert Boyle / 罗伯特·波义耳"
     url: "/wiki/entities/robertboyle/"
+  - key: "RobertDudley"
+    title: "Robert Dudley / Earl of Leicester"
+    url: "/wiki/entities/robertdudley/"
   - key: "RobertFKennedyJr"
     title: "Robert F. Kennedy Jr."
     url: "/wiki/entities/robertfkennedyjr/"
@@ -620,6 +623,9 @@ wiki_pages:
   - key: "Ryo"
     title: "Ryo"
     url: "/wiki/entities/ryo/"
+  - key: "RomanceOfTheThreeKingdoms"
+    title: "《三国演义》 / Romance of the Three Kingdoms"
+    url: "/wiki/entities/romanceofthethreekingdoms/"
   - key: "RogueOne"
     title: "《侠盗一号》 / Rogue One"
     url: "/wiki/entities/rogueone/"

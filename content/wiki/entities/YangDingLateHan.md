@@ -2,11 +2,13 @@
 title: "杨定 / Yang Ding (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f]
+sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f]
 last_updated: 2026-08-24
 ---
 
 # 杨定 / Yang Ding (late Han)
+
+[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Yang Ding before his later Huayin route-control failure. He receives the Anxi general title and kaifu-style office privilege, extending the episode's military appointment-capture field from six offices toward seven. This earlier status makes his later use of proximity to [[EmperorXianOfHan|汉献帝]] easier to read as part of a wider court-control pattern.
 
 杨定 / Yang Ding (late Han) now enters the wiki through [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] as one of the armed escorts around [[EmperorXianOfHan|汉献帝]]'s eastward move. He receives court title recognition, is warned by Zhong Ji about [[GuoSiLateHan|郭汜]]'s plan to force the emperor back west, helps beat Guo Si's subordinates after the Xinfeng fire, and then reaches [[HuayinLateHan|华阴]] with [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]].
 
@@ -19,6 +21,7 @@ The episode's closing sequence makes Yang Ding a negative case inside [[Interest
 The page keeps the moral diagnosis source-scoped. The host reads Yang Ding's end through greed, rigidity, and failure to assess changing conditions, but the durable wiki claim is narrower: Yang Ding misprices Duan Wei's position and the emperor-control field, then loses when other armed actors re-sort their alliances around the more valuable prize.
 
 ## Connections
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CourtOfficeCapture|朝廷开府任官失序]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] - earlier office privilege before the escort-crisis branch.
 - [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[GuoSiLateHan|郭汜]], and [[HuayinLateHan|华阴]] - escort role from Xinfeng escape to Huayin suspicion.
 - [[DuanWeiLateHan|段煨]] - rival around Huayin, grain supply, and emperor-route control.
 - [[EmperorXianOfHan|汉献帝]] - ruler Yang Ding wants to control or use through an edict.

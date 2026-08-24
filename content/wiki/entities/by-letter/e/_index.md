@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 7176
+wiki_total_pages: 7357
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "ElizabethHolmes"
     title: "Elizabeth Holmes"
     url: "/wiki/entities/elizabethholmes/"
+  - key: "ElizabethI"
+    title: "Elizabeth I"
+    url: "/wiki/entities/elizabethi/"
   - key: "ElizabethJenningsGraham"
     title: "Elizabeth Jennings Graham"
     url: "/wiki/entities/elizabethjenningsgraham/"
@@ -446,9 +449,15 @@ wiki_pages:
   - key: "Estraven"
     title: "伊斯特拉凡 / Estraven"
     url: "/wiki/entities/estraven/"
+  - key: "EmpressDowagerHe"
+    title: "何太后 / Empress Dowager He"
+    url: "/wiki/entities/empressdowagerhe/"
   - key: "EachNet"
     title: "易趣 / EachNet"
     url: "/wiki/entities/eachnet/"
+  - key: "EmperorLingOfHan"
+    title: "汉灵帝 / Emperor Ling of Han"
+    url: "/wiki/entities/emperorlingofhan/"
   - key: "EmperorXianOfHan"
     title: "汉献帝 / Emperor Xian of Han"
     url: "/wiki/entities/emperorxianofhan/"

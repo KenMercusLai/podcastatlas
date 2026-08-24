@@ -2,7 +2,7 @@
 title: "Xing'e Theory / 性恶论"
 type: concept
 tags: [confucianism, ethics, chinese-classics, pre-qin-history]
-sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
+sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
 last_updated: 2026-08-21
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-21
 Xing'e theory / 性恶论 enters this wiki through [[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]], where the host identifies it as [[Xunzi|荀子]]'s famous position and contrasts it with [[Mengzi|孟子 / Mencius]]'s better-known human-nature optimism. The episode does not give a full doctrine of human nature; it uses the label to place Xunzi inside Confucian thought before turning to political order.
 
 In this source, 性恶论 matters because it supports the need for ritual, law, education, and credible institutions. Xunzi is not presented as simply cynical about people. He is presented as someone who thinks political order has to discipline and transform raw motives rather than assume they will naturally produce righteous government.
+
+[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] uses 性恶论 as a short opening lens rather than a doctrinal lecture. The host invokes [[Xunzi|荀子]] while arguing that people often move by interest, desire, and self-protection; the later [[YuanShao|袁绍]], [[YuanShu|袁术]], [[CaoCao|曹操]], and [[LiuYuLateHan|刘虞]] choices then make that motive-reading concrete inside a legitimacy crisis.
 
 [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] gives the theory a fuller moral-psychology summary. The episode says Xunzi sees natural desire for profit, envy, resentment, and sensory pleasure as tendencies that, if followed directly, lead toward contest, disorder, and cruelty. But the same source also places Xunzi inside [[HumanNaturePlasticity|人性可变性]]: teachers, law, ritual, and moral guidance can transform conduct.
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "MarriageRitualOrthodoxy"
     title: "Marriage Ritual Orthodoxy / 婚姻礼法正当性"
     url: "/wiki/concepts/marriageritualorthodoxy/"
+  - key: "MartyrdomStaging"
+    title: "Martyrdom Staging"
+    url: "/wiki/concepts/martyrdomstaging/"
   - key: "MarxistLeninistStateCapacity"
     title: "Marxist-Leninist State Capacity"
     url: "/wiki/concepts/marxistleniniststatecapacity/"
@@ -443,6 +446,9 @@ wiki_pages:
   - key: "MerchantAristocraticValueConflict"
     title: "Merchant-Aristocratic Value Conflict / 贵族-商人义利冲突"
     url: "/wiki/concepts/merchantaristocraticvalueconflict/"
+  - key: "MeritConcealmentSelfProtection"
+    title: "Merit Concealment Self-Protection"
+    url: "/wiki/concepts/meritconcealmentselfprotection/"
   - key: "MeritExcellenceIntelligence"
     title: "Merit, Excellence, and Intelligence"
     url: "/wiki/concepts/meritexcellenceintelligence/"
@@ -512,6 +518,9 @@ wiki_pages:
   - key: "MilitaryBaseSovereignty"
     title: "Military Base Sovereignty"
     url: "/wiki/concepts/militarybasesovereignty/"
+  - key: "MilitaryCampPanic"
+    title: "Military Camp Panic / 军营夜惊群体恐慌"
+    url: "/wiki/concepts/militarycamppanic/"
   - key: "MilitaryMeritRankSystem"
     title: "Military Merit Rank System / 军功爵制"
     url: "/wiki/concepts/militarymeritranksystem/"

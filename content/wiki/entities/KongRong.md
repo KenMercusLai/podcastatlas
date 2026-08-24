@@ -2,11 +2,13 @@
 title: "孔融 / Kong Rong"
 type: entity
 tags: [person, late-han, official, scholar, china]
-sources: [zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+last_updated: 2026-08-24
 ---
 
 # 孔融 / Kong Rong
+
+[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] adds Kong Rong's first support for [[LiuBei|刘备]] in the Xuzhou handoff. After Liu Bei hesitates and points toward [[YuanShu|袁术]], Kong Rong argues that Yuan Shu is only relying on ancestral prestige and that Liu Bei will regret refusing an opportunity jointly offered by officials and people.
 
 [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds Kong Rong's earlier Xuzhou-adjacent support for [[LiuBei|刘备]]. The episode says Kong Rong is not a local Xuzhou magnate like [[MiZhu|糜竺]] or [[ChenDeng|陈登]], but his scholar prestige and Han-orthodox values make Liu Bei preferable to [[YuanShu|袁术]]'s title-ambition path.
 
@@ -23,6 +25,7 @@ His intervention matters because Cao Cao initially pushes responsibility upward 
 [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] adds a more official envoy role. Kong Rong is sent with a tally to [[YuanShao|袁绍]], making him part of the Han-court title-recognition machinery at the same time [[YuanShu|袁术]]'s self-claimed imperial title is treated as illegitimate.
 
 ## Connections
+- [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[LiuBei|刘备]], [[YuanShu|袁术]], and [[Xuzhou|徐州]] - first Xuzhou persuasion scene.
 - [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LiuBei|刘备]], [[YuanShu|袁术]], and [[LocalEliteProxySelection|地方豪强代理人选择]] - prestige-backed support for Liu Bei against Yuan Shu's illegitimate title direction.
 - [[BeihaiCommandery|北海郡]], [[YuanTan|袁谭]], [[ZuoChengzu|左承祖]], [[LiuYixun|刘义逊]], and [[ZhengXuan|郑玄]] - Hanji 1007 Beihai failure branch.
 - [[YangBiao|杨彪]] - old-Han elite he defends.

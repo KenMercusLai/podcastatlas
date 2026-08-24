@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 7176
+wiki_total_pages: 7357
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "Karhide"
     title: "卡海德 / Karhide"
     url: "/wiki/entities/karhide/"
+  - key: "KongZhouLateHan"
+    title: "孔伷 / Kong Zhou (late Han)"
+    url: "/wiki/entities/kongzhoulatehan/"
   - key: "KongChuan"
     title: "孔川 / Kong Chuan"
     url: "/wiki/entities/kongchuan/"
@@ -560,6 +563,9 @@ wiki_pages:
   - key: "KuaiChe"
     title: "蒯彻 / Kuai Che"
     url: "/wiki/entities/kuaiche/"
+  - key: "KuaiLiang"
+    title: "蒯良 / Kuai Liang"
+    url: "/wiki/entities/kuailiang/"
   - key: "KuaiYue"
     title: "蒯越 / Kuai Yue"
     url: "/wiki/entities/kuaiyue/"

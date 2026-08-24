@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "LocalEliteProxySelection"
     title: "Local Elite Proxy Selection / 地方豪强代理人选择"
     url: "/wiki/concepts/localeliteproxyselection/"
+  - key: "LocalEliteSecurityPanic"
+    title: "Local Elite Security Panic / 地方士族安全恐慌"
+    url: "/wiki/concepts/localelitesecuritypanic/"
   - key: "LocalGovernanceAsCare"
     title: "Local Governance As Care / 地方治理作为照护"
     url: "/wiki/concepts/localgovernanceascare/"

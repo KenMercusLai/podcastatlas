@@ -2,11 +2,13 @@
 title: "France"
 type: entity
 tags: [country, politics, europe, coffee, film, culture, resistance]
-sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, 21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-08
+sources: [695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, 21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-25
 ---
 
 # France
+
+[[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds France as a paralyzed great-power neighbor in the Elizabethan crisis. The episode says Dutch rebels first looked for French help, but Anjou had failed and Henry III was trapped by the War of the Three Henrys, leaving [[ElizabethI|Elizabeth I]] and [[England]] more exposed to the [[LowCountries|Low Countries]] crisis.
 
 [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds France as a recent [[ExtremeWildfire]] setting. The episode cites [[EmmanuelMacron]] describing the fires as the country's toughest situation since the Second World War, using France with [[Spain]] to open the discussion of longer fire seasons and high fire-weather risk.
 
@@ -26,6 +28,7 @@ The source presents the field as crowded: [[EmmanuelMacron]] cannot be the same 
 
 ## Connections
 - [[MarineLePen]] and [[NationalRally]] - central French political actors in the source.
+- [[ElizabethI|Elizabeth I]], [[England]], [[LowCountries|Low Countries]], [[DutchRevolt]], and [[StrategicInterventionThreshold]] - Elizabethan branch where French paralysis removes the preferred alternative patron.
 - [[JordanBardella]] - party successor or substitute figure affected by Le Pen's return.
 - [[FarRightNormalization]] - party-reputation project tied to French electoral viability.
 - [[TwoRoundPresidentialElection]] and [[ElectoralIneligibilityPenalty]] - electoral-system and legal eligibility frames.

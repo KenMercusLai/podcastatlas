@@ -1047,6 +1047,14 @@
     "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
     "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
   },
+  "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455": {
+    "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+    "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+  },
+  "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496": {
+    "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+    "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+  },
   "697-the-troubles-murder-in-belfast-part-1-glt4877520736": {
     "title": "697. The Troubles: Murder in Belfast (Part 1)",
     "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
@@ -2615,6 +2623,10 @@
     "title": "Acquired",
     "url": "/wiki/entities/acquired/"
   },
+  "ActForTheQueensSafety": {
+    "title": "Act for the Queen's Safety",
+    "url": "/wiki/entities/actforthequeenssafety/"
+  },
   "ActionAgainstAnxiety": {
     "title": "Action Against Anxiety",
     "url": "/wiki/concepts/actionagainstanxiety/"
@@ -2910,6 +2922,10 @@
   "AdventuresOfPinocchio": {
     "title": "《木偶奇遇记》 / The Adventures of Pinocchio",
     "url": "/wiki/entities/adventuresofpinocchio/"
+  },
+  "AdviserStateArchitecture": {
+    "title": "Adviser State Architecture / 谋士政权架构",
+    "url": "/wiki/concepts/adviserstatearchitecture/"
   },
   "AdvisorRoleBoundary": {
     "title": "Advisor Role Boundary / 谋士越位",
@@ -3439,6 +3455,10 @@
     "title": "Alex Zhu",
     "url": "/wiki/entities/alexzhu/"
   },
+  "AlexanderFarnese": {
+    "title": "Alexander Farnese / Duke of Parma",
+    "url": "/wiki/entities/alexanderfarnese/"
+  },
   "AlexanderGrahamBell": {
     "title": "Alexander Graham Bell / 亚历山大·格雷厄姆·贝尔",
     "url": "/wiki/entities/alexandergrahambell/"
@@ -3767,6 +3787,10 @@
     "title": "Alternative-Heir Protection Failure / 备位继承人保护失灵",
     "url": "/wiki/concepts/alternativeheirprotectionfailure/"
   },
+  "AlternativeSovereignLegitimacyTrap": {
+    "title": "Alternative Sovereign Legitimacy Trap / 另立君主合法性陷阱",
+    "url": "/wiki/concepts/alternativesovereignlegitimacytrap/"
+  },
   "AltimeterCapital": {
     "title": "Altimeter Capital",
     "url": "/wiki/entities/altimetercapital/"
@@ -3931,6 +3955,10 @@
     "title": "Amgen / 安进",
     "url": "/wiki/entities/amgen/"
   },
+  "AmiasPaulet": {
+    "title": "Amias Paulet",
+    "url": "/wiki/entities/amiaspaulet/"
+  },
   "AmirRashidi": {
     "title": "Amir Rashidi",
     "url": "/wiki/entities/amirrashidi/"
@@ -3950,6 +3978,10 @@
   "Amplitude": {
     "title": "Amplitude",
     "url": "/wiki/entities/amplitude/"
+  },
+  "Amsterdam": {
+    "title": "Amsterdam",
+    "url": "/wiki/entities/amsterdam/"
   },
   "AmyButcher": {
     "title": "Amy Butcher / 艾米",
@@ -4363,6 +4395,10 @@
     "title": "Anta Sports / 安踏",
     "url": "/wiki/entities/antasports/"
   },
+  "AnthonyBabington": {
+    "title": "Anthony Babington",
+    "url": "/wiki/entities/anthonybabington/"
+  },
   "Anthropic": {
     "title": "Anthropic",
     "url": "/wiki/entities/anthropic/"
@@ -4390,6 +4426,10 @@
   "AntiDetectiveFiction": {
     "title": "Anti-Detective Fiction",
     "url": "/wiki/concepts/antidetectivefiction/"
+  },
+  "AntiDongZhuoCoalition": {
+    "title": "反董卓联盟 / Anti-Dong Zhuo Coalition",
+    "url": "/wiki/entities/antidongzhuocoalition/"
   },
   "AntiHeroicResistanceNarrative": {
     "title": "Anti-Heroic Resistance Narrative",
@@ -4454,6 +4494,10 @@
   "AntonioMaysJr": {
     "title": "Antonio Mays Jr.",
     "url": "/wiki/entities/antoniomaysjr/"
+  },
+  "Antwerp": {
+    "title": "Antwerp",
+    "url": "/wiki/entities/antwerp/"
   },
   "AnulaJayasuria": {
     "title": "Anula Jayasuria",
@@ -5407,6 +5451,10 @@
     "title": "巴国 / Ba State (Warring States)",
     "url": "/wiki/entities/bastatewarringstates/"
   },
+  "BabingtonPlot": {
+    "title": "Babington Plot",
+    "url": "/wiki/entities/babingtonplot/"
+  },
   "BabsonCollege": {
     "title": "Babson College",
     "url": "/wiki/entities/babsoncollege/"
@@ -5454,6 +5502,10 @@
   "BaiQi": {
     "title": "白起 / Bai Qi",
     "url": "/wiki/entities/baiqi/"
+  },
+  "BaiRaoLateHan": {
+    "title": "白绕 / Bai Rao (late Han)",
+    "url": "/wiki/entities/bairaolatehan/"
   },
   "BaiboArmy": {
     "title": "白波军 / Baibo Army",
@@ -5650,6 +5702,10 @@
   "BaoSun": {
     "title": "《抱孙》",
     "url": "/wiki/entities/baosun/"
+  },
+  "BaoXin": {
+    "title": "鲍信 / Bao Xin",
+    "url": "/wiki/entities/baoxin/"
   },
   "BaoYanHuiwangShu": {
     "title": "《报燕惠王书》 / Letter in Reply to King Hui of Yan",
@@ -6027,6 +6083,10 @@
     "title": "Benedetto Vigna",
     "url": "/wiki/entities/benedettovigna/"
   },
+  "BenevolentCommandExecutionGap": {
+    "title": "Benevolent Command Execution Gap / 仁厚指挥执行缺口",
+    "url": "/wiki/concepts/benevolentcommandexecutiongap/"
+  },
   "Benfen": {
     "title": "Benfen / 本分",
     "url": "/wiki/concepts/benfen/"
@@ -6191,6 +6251,10 @@
     "title": "扁鹊 / Bian Que",
     "url": "/wiki/entities/bianque/"
   },
+  "BianRangLateHan": {
+    "title": "边让 / Bian Rang (Late Han)",
+    "url": "/wiki/entities/bianranglatehan/"
+  },
   "BiancaContentEngineer": {
     "title": "Bianca (content engineer)",
     "url": "/wiki/entities/biancacontentengineer/"
@@ -6198,6 +6262,10 @@
   "Bianfeng": {
     "title": "Bianfeng / 边锋",
     "url": "/wiki/entities/bianfeng/"
+  },
+  "BianshuiBattleLateHan": {
+    "title": "汴水之战 / Bianshui Battle (late Han)",
+    "url": "/wiki/entities/bianshuibattlelatehan/"
   },
   "Bibigo": {
     "title": "Bibigo",
@@ -6646,6 +6714,10 @@
   "Bogside": {
     "title": "Bogside",
     "url": "/wiki/entities/bogside/"
+  },
+  "BohaiCommanderyLateHan": {
+    "title": "渤海郡 / Bohai Commandery (late Han)",
+    "url": "/wiki/entities/bohaicommanderylatehan/"
   },
   "Bolangsha": {
     "title": "博浪沙 / Bolangsha",
@@ -7459,9 +7531,17 @@
     "title": "蔡瑁 / Cai Mao",
     "url": "/wiki/entities/caimao/"
   },
+  "CaiWenji": {
+    "title": "蔡文姬 / Cai Wenji",
+    "url": "/wiki/entities/caiwenji/"
+  },
   "CaiXiaochuan": {
     "title": "蔡小川 / Cai Xiaochuan",
     "url": "/wiki/entities/caixiaochuan/"
+  },
+  "CaiYong": {
+    "title": "蔡邕 / Cai Yong",
+    "url": "/wiki/entities/caiyong/"
   },
   "CaiZe": {
     "title": "蔡泽 / Cai Ze",
@@ -7619,6 +7699,10 @@
     "title": "沧海君 / Canghai Jun",
     "url": "/wiki/entities/canghaijun/"
   },
+  "CangtingFordLateHan": {
+    "title": "仓亭津 / Cangting Ford (Late Han)",
+    "url": "/wiki/entities/cangtingfordlatehan/"
+  },
   "Canhe": {
     "title": "参合 / Canhe",
     "url": "/wiki/entities/canhe/"
@@ -7655,6 +7739,10 @@
     "title": "曹操墓",
     "url": "/wiki/entities/caocaotomb/"
   },
+  "CaoDeLateHan": {
+    "title": "曹德 / Cao De (Late Han)",
+    "url": "/wiki/entities/caodelatehan/"
+  },
   "CaoFamilyQing": {
     "title": "清代曹家 / Cao Family In Qing",
     "url": "/wiki/entities/caofamilyqing/"
@@ -7671,9 +7759,21 @@
     "title": "曹丕 / Cao Pi",
     "url": "/wiki/entities/caopi/"
   },
+  "CaoRen": {
+    "title": "曹仁 / Cao Ren",
+    "url": "/wiki/entities/caoren/"
+  },
   "CaoShen": {
     "title": "曹参 / Cao Shen",
     "url": "/wiki/entities/caoshen/"
+  },
+  "CaoSong": {
+    "title": "曹嵩 / Cao Song",
+    "url": "/wiki/entities/caosong/"
+  },
+  "CaoSongMurder": {
+    "title": "曹嵩遇害 / Cao Song Murder",
+    "url": "/wiki/entities/caosongmurder/"
   },
   "CaoWushang": {
     "title": "曹无伤 / Cao Wushang",
@@ -7698,6 +7798,10 @@
   "CaoYinAndKangxi": {
     "title": "《曹寅与康熙》 / Ts'ao Yin and the K'ang-hsi Emperor",
     "url": "/wiki/entities/caoyinandkangxi/"
+  },
+  "CaoYinLateHan": {
+    "title": "曹寅 / Cao Yin (late Han)",
+    "url": "/wiki/entities/caoyinlatehan/"
   },
   "CapTableLiteracy": {
     "title": "Cap Table Literacy",
@@ -8343,6 +8447,10 @@
     "title": "昌平君 / Changping Jun",
     "url": "/wiki/entities/changpingjun/"
   },
+  "ChangpingguanBattleLateHan": {
+    "title": "长平观之战 / Changpingguan Battle (late Han)",
+    "url": "/wiki/entities/changpingguanbattlelatehan/"
+  },
   "Changsha": {
     "title": "Changsha / 长沙",
     "url": "/wiki/entities/changsha/"
@@ -8487,6 +8595,10 @@
     "title": "Charm Industrial",
     "url": "/wiki/entities/charmindustrial/"
   },
+  "ChartleyManor": {
+    "title": "Chartley Manor",
+    "url": "/wiki/entities/chartleymanor/"
+  },
   "ChaseKoch": {
     "title": "Chase Koch",
     "url": "/wiki/entities/chasekoch/"
@@ -8595,6 +8707,10 @@
     "title": "陈端 / Chen Duan (Late Han)",
     "url": "/wiki/entities/chenduanlatehan/"
   },
+  "ChenFanLateHan": {
+    "title": "陈蕃 / Chen Fan (late Han)",
+    "url": "/wiki/entities/chenfanlatehan/"
+  },
   "ChenGongLateHan": {
     "title": "陈宫 / Chen Gong (late Han)",
     "url": "/wiki/entities/chengonglatehan/"
@@ -8695,6 +8811,10 @@
     "title": "Chen Tianqiao / 陈天桥",
     "url": "/wiki/entities/chentianqiao/"
   },
+  "ChenWenLateHan": {
+    "title": "陈温 / Chen Wen (late Han)",
+    "url": "/wiki/entities/chenwenlatehan/"
+  },
   "ChenXi": {
     "title": "陈豨 / Chen Xi",
     "url": "/wiki/entities/chenxi/"
@@ -8755,6 +8875,10 @@
     "title": "程杭 / Cheng Hang",
     "url": "/wiki/entities/chenghang/"
   },
+  "ChengHuanLateHan": {
+    "title": "程奂 / Cheng Huan (late Han)",
+    "url": "/wiki/entities/chenghuanlatehan/"
+  },
   "ChengJing": {
     "title": "程静 / Cheng Jing",
     "url": "/wiki/entities/chengjing/"
@@ -8762,6 +8886,10 @@
   "ChengLongLateHan": {
     "title": "成龙 / Cheng Long (Late Han)",
     "url": "/wiki/entities/chenglonglatehan/"
+  },
+  "ChengYu": {
+    "title": "程昱 / Cheng Yu",
+    "url": "/wiki/entities/chengyu/"
   },
   "Chengdu": {
     "title": "Chengdu / 成都",
@@ -8782,6 +8910,10 @@
   "ChengmaiTechnology": {
     "title": "Chengmai Technology",
     "url": "/wiki/entities/chengmaitechnology/"
+  },
+  "ChengshiCountyLateHan": {
+    "title": "乘氏县 / Chengshi County (Late Han)",
+    "url": "/wiki/entities/chengshicountylatehan/"
   },
   "ChengshiJiushiZheyang": {
     "title": "城市就是这样",
@@ -10031,9 +10163,21 @@
     "title": "Coerced Denunciation",
     "url": "/wiki/concepts/coerceddenunciation/"
   },
+  "CoercedImperialReplacement": {
+    "title": "Coerced Imperial Replacement / 胁迫式废立",
+    "url": "/wiki/concepts/coercedimperialreplacement/"
+  },
   "CoercedNormality": {
     "title": "正常性强制 / Coerced Normality",
     "url": "/wiki/concepts/coercednormality/"
+  },
+  "CoercedTalentLegitimacy": {
+    "title": "Coerced Talent Legitimacy / 胁迫征士合法性",
+    "url": "/wiki/concepts/coercedtalentlegitimacy/"
+  },
+  "CoerciveCapitalRelocation": {
+    "title": "Coercive Capital Relocation / 强制迁都",
+    "url": "/wiki/concepts/coercivecapitalrelocation/"
   },
   "Coffee": {
     "title": "Coffee / 咖啡",
@@ -10443,6 +10587,10 @@
     "title": "Computing Versus Thinking",
     "url": "/wiki/concepts/computingversusthinking/"
   },
+  "ConcealedCapabilityTiming": {
+    "title": "Concealed Capability Timing / 藏器待时",
+    "url": "/wiki/concepts/concealedcapabilitytiming/"
+  },
   "ConcededKingshipStabilization": {
     "title": "Conceded Kingship Stabilization / 让封真王式稳局",
     "url": "/wiki/concepts/concededkingshipstabilization/"
@@ -10478,6 +10626,10 @@
   "ConfessionalTradeConflict": {
     "title": "Confessional Trade Conflict",
     "url": "/wiki/concepts/confessionaltradeconflict/"
+  },
+  "ConfessionalWarEscalation": {
+    "title": "Confessional War Escalation",
+    "url": "/wiki/concepts/confessionalwarescalation/"
   },
   "ConfidenceProfileTeamManagement": {
     "title": "Confidence Profile Team Management",
@@ -10979,6 +11131,14 @@
     "title": "Court Feedback Collapse / 君臣反馈失灵",
     "url": "/wiki/concepts/courtfeedbackcollapse/"
   },
+  "CourtOfficeCapture": {
+    "title": "Court Office Capture / 朝廷开府任官失序",
+    "url": "/wiki/concepts/courtofficecapture/"
+  },
+  "CourtesyCoveredElimination": {
+    "title": "Courtesy-Covered Elimination / 礼遇包装式清除",
+    "url": "/wiki/concepts/courtesycoveredelimination/"
+  },
   "CoventryLifeSettlements": {
     "title": "Coventry (life settlements)",
     "url": "/wiki/entities/coventrylifesettlements/"
@@ -11147,6 +11307,10 @@
     "title": "Crisis Autonomous Marriage / 患难自主婚姻",
     "url": "/wiki/concepts/crisisautonomousmarriage/"
   },
+  "CrisisDeceptionSurvival": {
+    "title": "Crisis Deception Survival / 临危欺敌求生",
+    "url": "/wiki/concepts/crisisdeceptionsurvival/"
+  },
   "CrisisFirstMilitaryDiscipline": {
     "title": "Crisis-First Military Discipline / 临危先务军纪",
     "url": "/wiki/concepts/crisisfirstmilitarydiscipline/"
@@ -11158,6 +11322,10 @@
   "CrisisInformationBlockade": {
     "title": "Crisis Information Blockade / 危机信息封锁",
     "url": "/wiki/concepts/crisisinformationblockade/"
+  },
+  "CrisisMigrationJudgment": {
+    "title": "危局迁徙判断 / Crisis Migration Judgment",
+    "url": "/wiki/concepts/crisismigrationjudgment/"
   },
   "CrisisStakeholderLeadership": {
     "title": "Crisis Stakeholder Leadership",
@@ -11871,6 +12039,10 @@
     "title": "Dario Amodei",
     "url": "/wiki/entities/darioamodei/"
   },
+  "DarkAdviserCraft": {
+    "title": "Dark Adviser Craft / 毒士灰度谋略",
+    "url": "/wiki/concepts/darkadvisercraft/"
+  },
   "DarkFiber": {
     "title": "Dark Fiber",
     "url": "/wiki/concepts/darkfiber/"
@@ -12327,6 +12499,10 @@
     "title": "Default Mode Network",
     "url": "/wiki/concepts/defaultmodenetwork/"
   },
+  "DefeatedPopulationConversion": {
+    "title": "Defeated Population Conversion / 降众资源化",
+    "url": "/wiki/concepts/defeatedpopulationconversion/"
+  },
   "DefendingJacob": {
     "title": "《捍卫雅各布》 / Defending Jacob",
     "url": "/wiki/entities/defendingjacob/"
@@ -12354,6 +12530,10 @@
   "DefensiveLocalGovernance": {
     "title": "保境安民式守成治理 / Defensive Local Governance",
     "url": "/wiki/concepts/defensivelocalgovernance/"
+  },
+  "DefensiveSpeechUnderTyranny": {
+    "title": "Defensive Speech Under Tyranny / 暴政下的防御性言说",
+    "url": "/wiki/concepts/defensivespeechundertyranny/"
   },
   "DefianceAct": {
     "title": "Defiance Act",
@@ -12574,6 +12754,10 @@
   "DesmondShum": {
     "title": "Desmond Shum",
     "url": "/wiki/entities/desmondshum/"
+  },
+  "DetailBasedCrisisDetection": {
+    "title": "Detail-Based Crisis Detection / 细节式危机识别",
+    "url": "/wiki/concepts/detailbasedcrisisdetection/"
   },
   "DetentionAsLocalEconomicDevelopment": {
     "title": "Detention As Local Economic Development",
@@ -12995,6 +13179,10 @@
     "title": "Discovery Model",
     "url": "/wiki/concepts/discoverymodel/"
   },
+  "DiscreetBenefactionDignity": {
+    "title": "Discreet Benefaction Dignity / 沉默施恩的尊严保护",
+    "url": "/wiki/concepts/discreetbenefactiondignity/"
+  },
   "DiscretionaryInsurancePayment": {
     "title": "Discretionary Insurance Payment",
     "url": "/wiki/concepts/discretionaryinsurancepayment/"
@@ -13203,6 +13391,10 @@
     "title": "Donation of Constantine / 君士坦丁献土",
     "url": "/wiki/entities/donationofconstantine/"
   },
+  "DongALateHan": {
+    "title": "东阿 / Dong'e (Late Han)",
+    "url": "/wiki/entities/dongalatehan/"
+  },
   "DongChengLateHan": {
     "title": "董承 / Dong Cheng (late Han)",
     "url": "/wiki/entities/dongchenglatehan/"
@@ -13219,6 +13411,10 @@
     "title": "Dong Hongguang / 董宏光",
     "url": "/wiki/entities/donghongguang/"
   },
+  "DongHuangLateHan": {
+    "title": "董璜 / Dong Huang (late Han)",
+    "url": "/wiki/entities/donghuanglatehan/"
+  },
   "DongKai": {
     "title": "Dong Kai / 董凯",
     "url": "/wiki/entities/dongkai/"
@@ -13226,6 +13422,14 @@
   "DongMin": {
     "title": "董敏",
     "url": "/wiki/entities/dongmin/"
+  },
+  "DongMinLateHan": {
+    "title": "董旻 / Dong Min (late Han)",
+    "url": "/wiki/entities/dongminlatehan/"
+  },
+  "DongWuyangLateHan": {
+    "title": "东武阳 / Dong Wuyang (Late Han)",
+    "url": "/wiki/entities/dongwuyanglatehan/"
   },
   "DongXian": {
     "title": "Dong Xian / 董贤",
@@ -13266,6 +13470,10 @@
   "Dongguan": {
     "title": "Dongguan / 东莞",
     "url": "/wiki/entities/dongguan/"
+  },
+  "DongguangCountyLateHan": {
+    "title": "东光县 / Dongguang County (late Han)",
+    "url": "/wiki/entities/dongguangcountylatehan/"
   },
   "Donghu": {
     "title": "东胡 / Donghu",
@@ -13334,6 +13542,10 @@
   "DorothyArzner": {
     "title": "Dorothy Arzner / 多罗西·阿兹娜",
     "url": "/wiki/entities/dorothyarzner/"
+  },
+  "DouWuLateHan": {
+    "title": "窦武 / Dou Wu (late Han)",
+    "url": "/wiki/entities/douwulatehan/"
   },
   "Douban": {
     "title": "豆瓣 / Douban",
@@ -13591,6 +13803,10 @@
     "title": "段小楼 / Duan Xiaolou",
     "url": "/wiki/entities/duanxiaolou/"
   },
+  "DuanXunLateHan": {
+    "title": "段迅 / Duan Xun (Late Han)",
+    "url": "/wiki/entities/duanxunlatehan/"
+  },
   "DuanYongping": {
     "title": "Duan Yongping",
     "url": "/wiki/entities/duanyongping/"
@@ -13631,6 +13847,10 @@
     "title": "Dunning-Kruger Effect",
     "url": "/wiki/concepts/dunningkrugereffect/"
   },
+  "DunqiuLateHan": {
+    "title": "顿丘 / Dunqiu (Late Han)",
+    "url": "/wiki/entities/dunqiulatehan/"
+  },
   "DuoduoMaicai": {
     "title": "多多买菜 / Duoduo Maicai",
     "url": "/wiki/entities/duoduomaicai/"
@@ -13646,6 +13866,10 @@
   "DutchDisease": {
     "title": "Dutch Disease",
     "url": "/wiki/concepts/dutchdisease/"
+  },
+  "DutchRevolt": {
+    "title": "Dutch Revolt",
+    "url": "/wiki/entities/dutchrevolt/"
   },
   "DuyouSword": {
     "title": "Duyou Sword / 杜邮剑",
@@ -14271,6 +14495,10 @@
     "title": "Elizabeth Holmes",
     "url": "/wiki/entities/elizabethholmes/"
   },
+  "ElizabethI": {
+    "title": "Elizabeth I",
+    "url": "/wiki/entities/elizabethi/"
+  },
   "ElizabethJenningsGraham": {
     "title": "Elizabeth Jennings Graham",
     "url": "/wiki/entities/elizabethjenningsgraham/"
@@ -14459,6 +14687,10 @@
     "title": "Empathy Circle Expansion",
     "url": "/wiki/concepts/empathycircleexpansion/"
   },
+  "EmperorLingOfHan": {
+    "title": "汉灵帝 / Emperor Ling of Han",
+    "url": "/wiki/entities/emperorlingofhan/"
+  },
   "EmperorNaruhito": {
     "title": "Emperor Naruhito",
     "url": "/wiki/entities/emperornaruhito/"
@@ -14502,6 +14734,10 @@
   "EmploymentIceAgeGeneration": {
     "title": "Employment Ice Age Generation",
     "url": "/wiki/concepts/employmenticeagegeneration/"
+  },
+  "EmpressDowagerHe": {
+    "title": "何太后 / Empress Dowager He",
+    "url": "/wiki/entities/empressdowagerhe/"
   },
   "EncirclementReleaseCalculus": {
     "title": "Encirclement Release Calculus / 围困开口式风险权衡",
@@ -15103,6 +15339,10 @@
     "title": "Executive Power Precedent",
     "url": "/wiki/concepts/executivepowerprecedent/"
   },
+  "ExecutorCharacterAdviceRisk": {
+    "title": "Executor Character Advice Risk",
+    "url": "/wiki/concepts/executorcharacteradvicerisk/"
+  },
   "ExerciseSelfMasteryForProcrastination": {
     "title": "Exercise Self-Mastery For Procrastination",
     "url": "/wiki/concepts/exerciseselfmasteryforprocrastination/"
@@ -15291,6 +15531,10 @@
     "title": "FTX",
     "url": "/wiki/entities/ftx/"
   },
+  "FaZheng": {
+    "title": "法正 / Fa Zheng",
+    "url": "/wiki/entities/fazheng/"
+  },
   "Fable5": {
     "title": "Fable 5",
     "url": "/wiki/entities/fable5/"
@@ -15471,9 +15715,17 @@
     "title": "樊稠 / Fan Chou (late Han)",
     "url": "/wiki/entities/fanchoulatehan/"
   },
+  "FanCountyLateHan": {
+    "title": "范县 / Fan County (Late Han)",
+    "url": "/wiki/entities/fancountylatehan/"
+  },
   "FanEconomy": {
     "title": "Fan Economy",
     "url": "/wiki/concepts/faneconomy/"
+  },
+  "FanFangLateHan": {
+    "title": "范方 / Fan Fang (Late Han)",
+    "url": "/wiki/entities/fanfanglatehan/"
   },
   "FanFestivalCommercialization": {
     "title": "Fan Festival Commercialization",
@@ -15514,6 +15766,10 @@
   "FanXinyu": {
     "title": "范鑫宇 / Fan Xinyu",
     "url": "/wiki/entities/fanxinyu/"
+  },
+  "FanYiLateHan": {
+    "title": "范仪 / Fan Yi (Late Han)",
+    "url": "/wiki/entities/fanyilatehan/"
   },
   "FanYiru": {
     "title": "樊一如 / Fan Yiru",
@@ -15862,6 +16118,10 @@
   "FengHaoWarringStates": {
     "title": "冯浩 / Feng Hao (Warring States adviser)",
     "url": "/wiki/entities/fenghaowarringstates/"
+  },
+  "FengJiLateHan": {
+    "title": "逢纪 / Feng Ji (late Han)",
+    "url": "/wiki/entities/fengjilatehan/"
   },
   "FengJieQin": {
     "title": "冯劫 / 冯杰 / Feng Jie (Qin)",
@@ -16415,6 +16675,10 @@
     "title": "Flurry",
     "url": "/wiki/entities/flurry/"
   },
+  "Flushing": {
+    "title": "Flushing",
+    "url": "/wiki/entities/flushing/"
+  },
   "Flux": {
     "title": "Flux",
     "url": "/wiki/entities/flux/"
@@ -16739,6 +17003,10 @@
     "title": "复星 / Fosun",
     "url": "/wiki/entities/fosun/"
   },
+  "FotheringhayCastle": {
+    "title": "Fotheringhay Castle",
+    "url": "/wiki/entities/fotheringhaycastle/"
+  },
   "Fotucheng": {
     "title": "Fotucheng / 佛图澄",
     "url": "/wiki/entities/fotucheng/"
@@ -17019,6 +17287,10 @@
     "title": "Franchise-Led Consumer Chain Expansion",
     "url": "/wiki/concepts/franchiseledconsumerchainexpansion/"
   },
+  "FrancisDrake": {
+    "title": "Francis Drake",
+    "url": "/wiki/entities/francisdrake/"
+  },
   "FrancisFukuyama": {
     "title": "Francis Fukuyama / 福山",
     "url": "/wiki/entities/francisfukuyama/"
@@ -17030,6 +17302,10 @@
   "FrancisScottKeyBridge": {
     "title": "Francis Scott Key Bridge",
     "url": "/wiki/entities/francisscottkeybridge/"
+  },
+  "FrancisWalsingham": {
+    "title": "Francis Walsingham",
+    "url": "/wiki/entities/franciswalsingham/"
   },
   "FrancoisTruffaut": {
     "title": "Francois Truffaut / 特吕弗",
@@ -17659,6 +17935,10 @@
     "title": "Gansu / 甘肃",
     "url": "/wiki/entities/gansu/"
   },
+  "GaoGanLateHan": {
+    "title": "高干 / Gao Gan (late Han)",
+    "url": "/wiki/entities/gaoganlatehan/"
+  },
   "GaoGu": {
     "title": "高固",
     "url": "/wiki/entities/gaogu/"
@@ -17678,6 +17958,10 @@
   "GaoNing": {
     "title": "高宁 / Gao Ning",
     "url": "/wiki/entities/gaoning/"
+  },
+  "GaoRouLateHan": {
+    "title": "高柔 / Gao Rou (Late Han)",
+    "url": "/wiki/entities/gaoroulatehan/"
   },
   "GaoShanwen": {
     "title": "高善文 / Gao Shanwen",
@@ -17802,6 +18086,10 @@
   "GeHong": {
     "title": "Ge Hong / 葛洪",
     "url": "/wiki/entities/gehong/"
+  },
+  "GeXunLateHan": {
+    "title": "葛勋 / Ge Xun (late Han)",
+    "url": "/wiki/entities/gexunlatehan/"
   },
   "GeYing": {
     "title": "葛婴 / Ge Ying",
@@ -17974,6 +18262,10 @@
   "GeneticCulpabilityProblem": {
     "title": "Genetic Culpability Problem / 遗传归责问题",
     "url": "/wiki/concepts/geneticculpabilityproblem/"
+  },
+  "GengWuLateHan": {
+    "title": "耿武 / Geng Wu (late Han)",
+    "url": "/wiki/entities/gengwulatehan/"
   },
   "GenghisKhan": {
     "title": "成吉思汗 / Genghis Khan",
@@ -18158,6 +18450,10 @@
   "GilLuria": {
     "title": "Gil Luria",
     "url": "/wiki/entities/gilluria/"
+  },
+  "GilbertGifford": {
+    "title": "Gilbert Gifford",
+    "url": "/wiki/entities/gilbertgifford/"
   },
   "GilbertSpinozaHypothesis": {
     "title": "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设",
@@ -18407,6 +18703,14 @@
     "title": "公孙操 / Gongsun Cao",
     "url": "/wiki/entities/gongsuncao/"
   },
+  "GongsunDuLateHan": {
+    "title": "公孙度 / Gongsun Du (late Han)",
+    "url": "/wiki/entities/gongsundulatehan/"
+  },
+  "GongsunFanLateHan": {
+    "title": "公孙范 / Gongsun Fan (late Han)",
+    "url": "/wiki/entities/gongsunfanlatehan/"
+  },
   "GongsunJia": {
     "title": "公孙贾 / Gongsun Jia",
     "url": "/wiki/entities/gongsunjia/"
@@ -18438,6 +18742,10 @@
   "GongsunYan": {
     "title": "犀首公孙衍 / Gongsun Yan",
     "url": "/wiki/entities/gongsunyan/"
+  },
+  "GongsunYueLateHan": {
+    "title": "公孙越 / Gongsun Yue (late Han)",
+    "url": "/wiki/entities/gongsunyuelatehan/"
   },
   "GongsunZan": {
     "title": "公孙瓒 / Gongsun Zan",
@@ -19107,6 +19415,10 @@
     "title": "Gumroad",
     "url": "/wiki/entities/gumroad/"
   },
+  "GuoGongLateHan": {
+    "title": "郭贡 / Guo Gong (Late Han)",
+    "url": "/wiki/entities/guogonglatehan/"
+  },
   "GuoJia": {
     "title": "郭嘉 / Guo Jia",
     "url": "/wiki/entities/guojia/"
@@ -19451,6 +19763,10 @@
     "title": "Han Fei / 韩非",
     "url": "/wiki/entities/hanfei/"
   },
+  "HanFuLateHan": {
+    "title": "韩馥 / Han Fu (late Han)",
+    "url": "/wiki/entities/hanfulatehan/"
+  },
   "HanGuang": {
     "title": "韩广 / Han Guang",
     "url": "/wiki/entities/hanguang/"
@@ -19506,6 +19822,10 @@
   "HanRiver": {
     "title": "Han River / 汉江",
     "url": "/wiki/entities/hanriver/"
+  },
+  "HanRongLateHan": {
+    "title": "韩融 / Han Rong (late Han)",
+    "url": "/wiki/entities/hanronglatehan/"
   },
   "HanSheng": {
     "title": "韩生 / Han Sheng",
@@ -19598,6 +19918,10 @@
   "Handan": {
     "title": "邯郸 / Handan",
     "url": "/wiki/entities/handan/"
+  },
+  "HandanShangLateHan": {
+    "title": "邯郸商 / Handan Shang (late Han)",
+    "url": "/wiki/entities/handanshanglatehan/"
   },
   "HandsetChipCoDesign": {
     "title": "Handset-Chip Co-Design",
@@ -19867,6 +20191,10 @@
     "title": "何夔 / He Kui",
     "url": "/wiki/entities/hekui/"
   },
+  "HeMiaoLateHan": {
+    "title": "何苗 / He Miao (late Han)",
+    "url": "/wiki/entities/hemiaolatehan/"
+  },
   "HeQianran": {
     "title": "何倩然 / He Qianran",
     "url": "/wiki/entities/heqianran/"
@@ -19898,6 +20226,10 @@
   "HeYiLateHan": {
     "title": "何仪 / He Yi (late Han)",
     "url": "/wiki/entities/heyilatehan/"
+  },
+  "HeYongLateHan": {
+    "title": "何颙 / He Yong (late Han)",
+    "url": "/wiki/entities/heyonglatehan/"
   },
   "HeadAndShoulders": {
     "title": "Head & Shoulders / 海飞丝",
@@ -19998,6 +20330,10 @@
   "HeirloomImperialSeal": {
     "title": "传国玉玺 / Heirloom Imperial Seal",
     "url": "/wiki/entities/heirloomimperialseal/"
+  },
+  "HeishanArmy": {
+    "title": "黑山军 / Heishan Army",
+    "url": "/wiki/entities/heishanarmy/"
   },
   "HelenOfTroy": {
     "title": "Helen of Troy",
@@ -20206,6 +20542,10 @@
   "Hexfield": {
     "title": "Hexfield",
     "url": "/wiki/entities/hexfield/"
+  },
+  "HexiFourCommanderiesLateHan": {
+    "title": "河西四郡 / Hexi Four Commanderies (Late Han)",
+    "url": "/wiki/entities/hexifourcommanderieslatehan/"
   },
   "HexiWarringStates": {
     "title": "河西 / Hexi (Warring States)",
@@ -20711,6 +21051,10 @@
     "title": "Host City Supporter Sponsorship",
     "url": "/wiki/concepts/hostcitysupportersponsorship/"
   },
+  "HostageBackedDependencyTrap": {
+    "title": "Hostage-Backed Dependency Trap / 家属质押式依附陷阱",
+    "url": "/wiki/concepts/hostagebackeddependencytrap/"
+  },
   "HostageDiplomacyRupture": {
     "title": "Hostage Diplomacy Rupture / 质子外交破裂",
     "url": "/wiki/concepts/hostagediplomacyrupture/"
@@ -20775,6 +21119,10 @@
     "title": "侯公 / Hou Gong (Chu-Han)",
     "url": "/wiki/entities/hougongchuhan/"
   },
+  "HouHanshu": {
+    "title": "《后汉书》 / Hou Hanshu",
+    "url": "/wiki/entities/houhanshu/"
+  },
   "HouSheng": {
     "title": "后胜 / Hou Sheng",
     "url": "/wiki/entities/housheng/"
@@ -20782,6 +21130,10 @@
   "HouShengFangshi": {
     "title": "侯生 / Hou Sheng (Fangshi)",
     "url": "/wiki/entities/houshengfangshi/"
+  },
+  "HouWenLateHan": {
+    "title": "侯汶 / Hou Wen (late Han)",
+    "url": "/wiki/entities/houwenlatehan/"
   },
   "HouYing": {
     "title": "侯嬴 / Hou Ying",
@@ -20939,6 +21291,10 @@
     "title": "胡适",
     "url": "/wiki/entities/hushi/"
   },
+  "HuWencaiLateHan": {
+    "title": "胡文才 / Hu Wencai (late Han)",
+    "url": "/wiki/entities/huwencailatehan/"
+  },
   "HuWuZhangChu": {
     "title": "胡武 / Hu Wu (Zhang Chu)",
     "url": "/wiki/entities/huwuzhangchu/"
@@ -20947,9 +21303,17 @@
     "title": "胡衍 / Hu Yan (Qi Minister)",
     "url": "/wiki/entities/huyanqiminister/"
   },
+  "HuZhenLateHan": {
+    "title": "胡轸 / Hu Zhen (late Han)",
+    "url": "/wiki/entities/huzhenlatehan/"
+  },
   "HuaXin": {
     "title": "华歆 / Hua Xin",
     "url": "/wiki/entities/huaxin/"
+  },
+  "HuaXiongLateHan": {
+    "title": "华雄 / Hua Xiong (late Han)",
+    "url": "/wiki/entities/huaxionglatehan/"
   },
   "HuainanKingdomEarlyHan": {
     "title": "淮南国 / Huainan Kingdom (early Han)",
@@ -21011,6 +21375,10 @@
     "title": "黄庭坚 / Huang Tingjian",
     "url": "/wiki/entities/huangtingjian/"
   },
+  "HuangWanLateHan": {
+    "title": "黄琬 / Huang Wan (late Han)",
+    "url": "/wiki/entities/huangwanlatehan/"
+  },
   "HuangYimeng": {
     "title": "黄一孟 / Huang Yimeng",
     "url": "/wiki/entities/huangyimeng/"
@@ -21054,6 +21422,10 @@
   "HuangfuLiLateHan": {
     "title": "皇甫郦 / Huangfu Li (late Han)",
     "url": "/wiki/entities/huangfulilatehan/"
+  },
+  "HuangfuSongLateHan": {
+    "title": "皇甫嵩 / Huangfu Song (late Han)",
+    "url": "/wiki/entities/huangfusonglatehan/"
   },
   "Huangji": {
     "title": "黄棘 / Huangji",
@@ -21635,6 +22007,10 @@
     "title": "Imported Produce Verification",
     "url": "/wiki/concepts/importedproduceverification/"
   },
+  "ImportedTroopsLocalEliteCleavage": {
+    "title": "Imported Troops Local Elite Cleavage / 外来武装与本土豪族裂缝",
+    "url": "/wiki/concepts/importedtroopslocalelitecleavage/"
+  },
   "ImpostorSyndrome": {
     "title": "Impostor Syndrome",
     "url": "/wiki/concepts/impostorsyndrome/"
@@ -22110,6 +22486,10 @@
   "InsuranceTechnologyModernization": {
     "title": "Insurance Technology Modernization",
     "url": "/wiki/concepts/insurancetechnologymodernization/"
+  },
+  "IntegratedCommandCapacity": {
+    "title": "Integrated Command Capacity / 全维度统帅能力",
+    "url": "/wiki/concepts/integratedcommandcapacity/"
   },
   "IntegratedMLTeams": {
     "title": "Integrated ML Teams",
@@ -23423,6 +23803,10 @@
     "title": "Jianghu Scam Craft",
     "url": "/wiki/concepts/jianghuscamcraft/"
   },
+  "JianglingLateHan": {
+    "title": "江陵 / Jiangling (late Han)",
+    "url": "/wiki/entities/jianglinglatehan/"
+  },
   "JiangmenUndergroundNeutrinoObservatory": {
     "title": "江门中微子实验 / Jiangmen Underground Neutrino Observatory",
     "url": "/wiki/entities/jiangmenundergroundneutrinoobservatory/"
@@ -23474,6 +23858,10 @@
   "JieliChangjiang": {
     "title": "接力长江 / Jieli Changjiang",
     "url": "/wiki/entities/jielichangjiang/"
+  },
+  "JieqiaoBattleLateHan": {
+    "title": "界桥之战 / Jieqiao Battle (late Han)",
+    "url": "/wiki/entities/jieqiaobattlelatehan/"
   },
   "Jieshi": {
     "title": "碣石 / Jieshi",
@@ -23602,6 +23990,10 @@
   "JinYouGong": {
     "title": "晋幽公 / Duke You of Jin",
     "url": "/wiki/entities/jinyougong/"
+  },
+  "JinYunLateHan": {
+    "title": "靳允 / Jin Yun (Late Han)",
+    "url": "/wiki/entities/jinyunlatehan/"
   },
   "JinZicai": {
     "title": "金子才 / Jin Zicai",
@@ -23750,6 +24142,10 @@
   "JixiaAcademy": {
     "title": "稷下学宫 / Jixia Academy",
     "url": "/wiki/entities/jixiaacademy/"
+  },
+  "JizhouLateHan": {
+    "title": "冀州 / Jizhou (late Han)",
+    "url": "/wiki/entities/jizhoulatehan/"
   },
   "Jizong": {
     "title": "鸡枞 / Jizong",
@@ -24171,6 +24567,10 @@
     "title": "Juan Salvador / 胡安·萨尔瓦多",
     "url": "/wiki/entities/juansalvadorpenguin/"
   },
+  "JuanchengLateHan": {
+    "title": "鄄城 / Juancheng (Late Han)",
+    "url": "/wiki/entities/juanchenglatehan/"
+  },
   "JudicialDuel": {
     "title": "Judicial Duel / 司法决斗",
     "url": "/wiki/concepts/judicialduel/"
@@ -24318,6 +24718,10 @@
   "Juxian": {
     "title": "菊仙 / Juxian",
     "url": "/wiki/entities/juxian/"
+  },
+  "JuyongPass": {
+    "title": "居庸关 / Juyong Pass",
+    "url": "/wiki/entities/juyongpass/"
   },
   "K12ComputerScienceAccess": {
     "title": "K-12 Computer Science Access",
@@ -25007,6 +25411,10 @@
     "title": "孔祥熙",
     "url": "/wiki/entities/kongxiangxi/"
   },
+  "KongZhouLateHan": {
+    "title": "孔伷 / Kong Zhou (late Han)",
+    "url": "/wiki/entities/kongzhoulatehan/"
+  },
   "KongfuJia": {
     "title": "孔父嘉 / Kongfu Jia",
     "url": "/wiki/entities/kongfujia/"
@@ -25070,6 +25478,10 @@
   "KuaiChe": {
     "title": "蒯彻 / Kuai Che",
     "url": "/wiki/entities/kuaiche/"
+  },
+  "KuaiLiang": {
+    "title": "蒯良 / Kuai Liang",
+    "url": "/wiki/entities/kuailiang/"
   },
   "KuaiYue": {
     "title": "蒯越 / Kuai Yue",
@@ -26039,6 +26451,10 @@
     "title": "Li Jigang / 李继刚",
     "url": "/wiki/entities/lijigang/"
   },
+  "LiJinLateHan": {
+    "title": "李进 / Li Jin (late Han)",
+    "url": "/wiki/entities/lijinlatehan/"
+  },
   "LiJingSanlian": {
     "title": "李菁 / Li Jing (Sanlian)",
     "url": "/wiki/entities/lijingsanlian/"
@@ -26066,6 +26482,10 @@
   "LiLeLateHan": {
     "title": "李乐 / Li Le (late Han)",
     "url": "/wiki/entities/lilelatehan/"
+  },
+  "LiLiHanFuRetainer": {
+    "title": "李历 / Li Li (Han Fu retainer)",
+    "url": "/wiki/entities/lilihanfuretainer/"
   },
   "LiLiLateHan": {
     "title": "李利 / Li Li (late Han)",
@@ -26115,6 +26535,10 @@
     "title": "李清照 / Li Qingzhao",
     "url": "/wiki/entities/liqingzhao/"
   },
+  "LiRuLateHan": {
+    "title": "李儒 / Li Ru (late Han)",
+    "url": "/wiki/entities/lirulatehan/"
+  },
   "LiShang": {
     "title": "郦商 / Li Shang",
     "url": "/wiki/entities/lishang/"
@@ -26150,6 +26574,10 @@
   "LiSiyuan": {
     "title": "李嗣源 / Li Siyuan",
     "url": "/wiki/entities/lisiyuan/"
+  },
+  "LiSuLateHan": {
+    "title": "李肃 / Li Su (late Han)",
+    "url": "/wiki/entities/lisulatehan/"
   },
   "LiTaitaiLihun": {
     "title": "李太太（《离婚》） / Mrs. Li",
@@ -26278,6 +26706,10 @@
   "LiangState": {
     "title": "梁国 / Liang State",
     "url": "/wiki/entities/liangstate/"
+  },
+  "LiangYanLateHan": {
+    "title": "梁衍 / Liang Yan (late Han)",
+    "url": "/wiki/entities/liangyanlatehan/"
   },
   "LiangYusheng": {
     "title": "梁羽生 / Liang Yusheng",
@@ -26671,6 +27103,10 @@
     "title": "刘濞 / Liu Bi (King of Wu)",
     "url": "/wiki/entities/liubiwuking/"
   },
+  "LiuBianHongnongWang": {
+    "title": "刘辩 / Liu Bian (Hongnong Wang)",
+    "url": "/wiki/entities/liubianhongnongwang/"
+  },
   "LiuBiao": {
     "title": "刘表 / Liu Biao",
     "url": "/wiki/entities/liubiao/"
@@ -26695,9 +27131,21 @@
     "title": "刘宠 / Liu Chong (Chen king)",
     "url": "/wiki/entities/liuchongchenking/"
   },
+  "LiuDaiLateHan": {
+    "title": "刘岱 / Liu Dai (late Han)",
+    "url": "/wiki/entities/liudailatehan/"
+  },
+  "LiuDanLateHan": {
+    "title": "刘诞 / Liu Dan (late Han)",
+    "url": "/wiki/entities/liudanlatehan/"
+  },
   "LiuDong": {
     "title": "刘东",
     "url": "/wiki/entities/liudong/"
+  },
+  "LiuFanLateHan": {
+    "title": "刘范 / Liu Fan (late Han)",
+    "url": "/wiki/entities/liufanlatehan/"
   },
   "LiuFei": {
     "title": "刘飞",
@@ -26775,6 +27223,10 @@
     "title": "刘勋 / Liu Xun (late Han)",
     "url": "/wiki/entities/liuxunlatehan/"
   },
+  "LiuYanLateHan": {
+    "title": "刘焉 / Liu Yan (late Han)",
+    "url": "/wiki/entities/liuyanlatehan/"
+  },
   "LiuYangyang": {
     "title": "刘洋洋 / Liu Yangyang",
     "url": "/wiki/entities/liuyangyang/"
@@ -26802,6 +27254,10 @@
   "LiuYuLateHan": {
     "title": "刘虞 / Liu Yu (Late Han)",
     "url": "/wiki/entities/liuyulatehan/"
+  },
+  "LiuZhang": {
+    "title": "刘璋 / Liu Zhang",
+    "url": "/wiki/entities/liuzhang/"
   },
   "LiuZhijun": {
     "title": "Liu Zhijun / 刘志军",
@@ -26938,6 +27394,10 @@
   "LocalEliteProxySelection": {
     "title": "Local Elite Proxy Selection / 地方豪强代理人选择",
     "url": "/wiki/concepts/localeliteproxyselection/"
+  },
+  "LocalEliteSecurityPanic": {
+    "title": "Local Elite Security Panic / 地方士族安全恐慌",
+    "url": "/wiki/concepts/localelitesecuritypanic/"
   },
   "LocalFirstMemoryLayer": {
     "title": "Local-First Memory Layer",
@@ -27331,6 +27791,10 @@
     "title": "Low-Cost Short-Cycle Validation",
     "url": "/wiki/concepts/lowcostshortcyclevalidation/"
   },
+  "LowCountries": {
+    "title": "Low Countries",
+    "url": "/wiki/entities/lowcountries/"
+  },
   "LowDataMediaAccess": {
     "title": "Low-Data Media Access",
     "url": "/wiki/concepts/lowdatamediaaccess/"
@@ -27534,6 +27998,10 @@
   "LuZhi": {
     "title": "吕雉 / Lu Zhi",
     "url": "/wiki/entities/luzhi/"
+  },
+  "LuZhiLateHan": {
+    "title": "卢植 / Lu Zhi (late Han)",
+    "url": "/wiki/entities/luzhilatehan/"
   },
   "LuZhonglian": {
     "title": "鲁仲连 / Lu Zhonglian",
@@ -27870,6 +28338,10 @@
   "MaWangDengji": {
     "title": "《马王登基》",
     "url": "/wiki/entities/mawangdengji/"
+  },
+  "MaYuLateHan": {
+    "title": "马宇 / Ma Yu (late Han)",
+    "url": "/wiki/entities/mayulatehan/"
   },
   "MaaSInfrastructure": {
     "title": "MaaS Infrastructure",
@@ -28299,6 +28771,10 @@
     "title": "茅焦 / Mao Jiao",
     "url": "/wiki/entities/maojiao/"
   },
+  "MaoJie": {
+    "title": "毛玠 / Mao Jie",
+    "url": "/wiki/entities/maojie/"
+  },
   "MaoSui": {
     "title": "毛遂 / Mao Sui",
     "url": "/wiki/entities/maosui/"
@@ -28651,6 +29127,10 @@
     "title": "Marty Makary",
     "url": "/wiki/entities/martymakary/"
   },
+  "MartyrdomStaging": {
+    "title": "Martyrdom Staging",
+    "url": "/wiki/concepts/martyrdomstaging/"
+  },
   "Marubeni": {
     "title": "Marubeni / 丸红",
     "url": "/wiki/entities/marubeni/"
@@ -28682,6 +29162,10 @@
   "MaryPatCampbell": {
     "title": "Mary Pat Campbell",
     "url": "/wiki/entities/marypatcampbell/"
+  },
+  "MaryQueenOfScots": {
+    "title": "Mary, Queen of Scots",
+    "url": "/wiki/entities/maryqueenofscots/"
   },
   "MaryShelley": {
     "title": "Mary Shelley / 玛丽·雪莱",
@@ -29435,6 +29919,10 @@
     "title": "Merit-Based Reward and Punishment / 因功赏罚",
     "url": "/wiki/concepts/meritbasedrewardpunishment/"
   },
+  "MeritConcealmentSelfProtection": {
+    "title": "Merit Concealment Self-Protection",
+    "url": "/wiki/concepts/meritconcealmentselfprotection/"
+  },
   "MeritExcellenceIntelligence": {
     "title": "Merit, Excellence, and Intelligence",
     "url": "/wiki/concepts/meritexcellenceintelligence/"
@@ -29819,6 +30307,10 @@
     "title": "Military Base Sovereignty",
     "url": "/wiki/concepts/militarybasesovereignty/"
   },
+  "MilitaryCampPanic": {
+    "title": "Military Camp Panic / 军营夜惊群体恐慌",
+    "url": "/wiki/concepts/militarycamppanic/"
+  },
   "MilitaryCivilianIntegration": {
     "title": "Military-Civil Integration / 军政一体",
     "url": "/wiki/concepts/militarycivilianintegration/"
@@ -29862,6 +30354,10 @@
   "MinAungHlaing": {
     "title": "Min Aung Hlaing",
     "url": "/wiki/entities/minaunghlaing/"
+  },
+  "MinChunLateHan": {
+    "title": "闵纯 / Min Chun (late Han)",
+    "url": "/wiki/entities/minchunlatehan/"
   },
   "MinKao": {
     "title": "Min Kao / 高明环",
@@ -31307,6 +31803,10 @@
     "title": "内核恐慌",
     "url": "/wiki/entities/neihekonghuang/"
   },
+  "NeihuangBattleLateHan": {
+    "title": "内黄之战 / Neihuang Battle (Late Han)",
+    "url": "/wiki/entities/neihuangbattlelatehan/"
+  },
   "NeilHughes": {
     "title": "Neil Hughes",
     "url": "/wiki/entities/neilhughes/"
@@ -31738,6 +32238,10 @@
   "NithyaRaman": {
     "title": "Nithya Raman",
     "url": "/wiki/entities/nithyaraman/"
+  },
+  "NiuFuLateHan": {
+    "title": "牛辅 / Niu Fu (late Han)",
+    "url": "/wiki/entities/niufulatehan/"
   },
   "NiuLiPartyStruggle": {
     "title": "牛李党争 / Niu-Li Party Struggle",
@@ -32374,6 +32878,10 @@
   "OmenCountermeasureMobility": {
     "title": "Omen Countermeasure Mobility / 游徙避命",
     "url": "/wiki/concepts/omencountermeasuremobility/"
+  },
+  "OmenLaunderedPurge": {
+    "title": "Omen-Laundered Purge / 天象包装式清洗",
+    "url": "/wiki/concepts/omenlaunderedpurge/"
   },
   "OmerKhan": {
     "title": "Omer Khan",
@@ -33247,6 +33755,10 @@
     "title": "庞煖 / Pang Nuan",
     "url": "/wiki/entities/pangnuan/"
   },
+  "PangXiLateHan": {
+    "title": "庞羲 / Pang Xi (late Han)",
+    "url": "/wiki/entities/pangxilatehan/"
+  },
   "Pangram": {
     "title": "Pangram",
     "url": "/wiki/entities/pangram/"
@@ -33358,6 +33870,10 @@
   "PartyGuitar": {
     "title": "Party Guitar",
     "url": "/wiki/entities/partyguitar/"
+  },
+  "PartyProhibitionRehabilitation": {
+    "title": "Party Prohibition Rehabilitation / 党人翻案合法性",
+    "url": "/wiki/concepts/partyprohibitionrehabilitation/"
   },
   "PascalPeduzzi": {
     "title": "Pascal Peduzzi",
@@ -33823,6 +34339,10 @@
     "title": "Personal Digital Archiving",
     "url": "/wiki/concepts/personaldigitalarchiving/"
   },
+  "PersonalGuardAttackSurface": {
+    "title": "Personal Guard Attack Surface / 贴身侍卫反噬",
+    "url": "/wiki/concepts/personalguardattacksurface/"
+  },
   "PersonalHealthData": {
     "title": "Personal Health Data",
     "url": "/wiki/concepts/personalhealthdata/"
@@ -33854,6 +34374,10 @@
   "PersonalSuperintelligence": {
     "title": "Personal Superintelligence",
     "url": "/wiki/concepts/personalsuperintelligence/"
+  },
+  "PersonalTrustPoliticalFragility": {
+    "title": "Personal Trust Political Fragility / 私交信任的政治脆弱性",
+    "url": "/wiki/concepts/personaltrustpoliticalfragility/"
   },
   "PersonalizationAsSocialIdentity": {
     "title": "Personalization As Social Identity",
@@ -34038,6 +34562,14 @@
   "PhilipBall": {
     "title": "Philip Ball",
     "url": "/wiki/entities/philipball/"
+  },
+  "PhilipII": {
+    "title": "Philip II of Spain",
+    "url": "/wiki/entities/philipii/"
+  },
+  "PhilipSidney": {
+    "title": "Sir Philip Sidney",
+    "url": "/wiki/entities/philipsidney/"
   },
   "PhilipZimbardo": {
     "title": "Philip Zimbardo / 菲利普·津巴多",
@@ -34655,6 +35187,10 @@
     "title": "Political Talent Pipeline",
     "url": "/wiki/concepts/politicaltalentpipeline/"
   },
+  "PoliticalTrialTheatre": {
+    "title": "Political Trial Theatre",
+    "url": "/wiki/concepts/politicaltrialtheatre/"
+  },
   "PoliticalTruthTelling": {
     "title": "Political Truth-Telling / 政治性说真话",
     "url": "/wiki/concepts/politicaltruthtelling/"
@@ -34839,6 +35375,10 @@
     "title": "Post Ownership",
     "url": "/wiki/concepts/postownership/"
   },
+  "PostPowerSafetyCollapse": {
+    "title": "Post-Power Safety Collapse / 失势后的安全崩塌",
+    "url": "/wiki/concepts/postpowersafetycollapse/"
+  },
   "PostRestorationMeritThreat": {
     "title": "Post-Restoration Merit Threat / 复国功臣威胁化",
     "url": "/wiki/concepts/postrestorationmeritthreat/"
@@ -34850,6 +35390,10 @@
   "PostSearchInternet": {
     "title": "Post-Search Internet",
     "url": "/wiki/concepts/postsearchinternet/"
+  },
+  "PostSuccessArrogance": {
+    "title": "Post-Success Arrogance / 得势后的骄傲",
+    "url": "/wiki/concepts/postsuccessarrogance/"
   },
   "PostUnificationWarInertia": {
     "title": "Post-Unification War Inertia / 统一后战争惯性",
@@ -35082,6 +35626,10 @@
   "PresidentialSystem": {
     "title": "Presidential System",
     "url": "/wiki/concepts/presidentialsystem/"
+  },
+  "PrestigeBasedCoalitionLeadership": {
+    "title": "Prestige-Based Coalition Leadership / 名望型联盟领导",
+    "url": "/wiki/concepts/prestigebasedcoalitionleadership/"
   },
   "PrestigeCapacityGap": {
     "title": "Prestige-Capacity Gap / 名望能力落差",
@@ -35603,6 +36151,14 @@
     "title": "Protector-Captor Ambiguity / 护驾与挟持模糊性",
     "url": "/wiki/concepts/protectorcaptorambiguity/"
   },
+  "ProtestantHeroicMartyrdom": {
+    "title": "Protestant Heroic Martyrdom",
+    "url": "/wiki/concepts/protestantheroicmartyrdom/"
+  },
+  "ProvincialShepherdAutonomy": {
+    "title": "州牧集权与地方割据 / Provincial Shepherd Autonomy",
+    "url": "/wiki/concepts/provincialshepherdautonomy/"
+  },
   "ProvocationPublicityPolitics": {
     "title": "Provocation Publicity Politics",
     "url": "/wiki/concepts/provocationpublicitypolitics/"
@@ -35671,6 +36227,10 @@
     "title": "Psychological Realism / 心理现实主义",
     "url": "/wiki/concepts/psychologicalrealism/"
   },
+  "PsychologicalSurrenderTrap": {
+    "title": "Psychological Surrender Trap / 心理迫降陷阱",
+    "url": "/wiki/concepts/psychologicalsurrendertrap/"
+  },
   "PsychometricSocialSorting": {
     "title": "Psychometric Social Sorting / 心理测量式社会分层",
     "url": "/wiki/concepts/psychometricsocialsorting/"
@@ -35714,6 +36274,10 @@
   "PublicCompanyTransition": {
     "title": "Public Company Transition",
     "url": "/wiki/concepts/publiccompanytransition/"
+  },
+  "PublicCorpseHumiliation": {
+    "title": "Public Corpse Humiliation / 公开尸体羞辱",
+    "url": "/wiki/concepts/publiccorpsehumiliation/"
   },
   "PublicCryptoInvestmentRisk": {
     "title": "Public Crypto Investment Risk",
@@ -35895,6 +36459,18 @@
     "title": "Putnam Competition",
     "url": "/wiki/entities/putnamcompetition/"
   },
+  "PuyangBattleLateHan": {
+    "title": "濮阳之战 / Puyang Battle (Late Han)",
+    "url": "/wiki/entities/puyangbattlelatehan/"
+  },
+  "PuyangLateHan": {
+    "title": "濮阳 / Puyang (Late Han)",
+    "url": "/wiki/entities/puyanglatehan/"
+  },
+  "PuyangTianClan": {
+    "title": "濮阳田氏 / Puyang Tian Clan",
+    "url": "/wiki/entities/puyangtianclan/"
+  },
   "PuyangWarringStates": {
     "title": "蒲阳 / Puyang (Warring States)",
     "url": "/wiki/entities/puyangwarringstates/"
@@ -36050,6 +36626,10 @@
   "QiaoFamilyCompound": {
     "title": "Qiao Family Compound / 乔家大院",
     "url": "/wiki/entities/qiaofamilycompound/"
+  },
+  "QiaoMaoLateHan": {
+    "title": "乔瑁 / Qiao Mao (late Han)",
+    "url": "/wiki/entities/qiaomaolatehan/"
   },
   "QiaoRui": {
     "title": "桥蕤 / Qiao Rui",
@@ -36299,6 +36879,18 @@
     "title": "晴雯 / Qingwen",
     "url": "/wiki/entities/qingwen/"
   },
+  "QingzhouLateHan": {
+    "title": "青州 / Qingzhou (late Han)",
+    "url": "/wiki/entities/qingzhoulatehan/"
+  },
+  "QingzhouSoldiers": {
+    "title": "青州兵 / Qingzhou Soldiers",
+    "url": "/wiki/entities/qingzhousoldiers/"
+  },
+  "QingzhouYellowTurbans": {
+    "title": "青州黄巾军 / Qingzhou Yellow Turbans",
+    "url": "/wiki/entities/qingzhouyellowturbans/"
+  },
   "QiongQiong": {
     "title": "琼琼 / Qiongqiong",
     "url": "/wiki/entities/qiongqiong/"
@@ -36370,6 +36962,10 @@
   "QuXianchang": {
     "title": "去现场 / Qu Xianchang",
     "url": "/wiki/entities/quxianchang/"
+  },
+  "QuYiLateHan": {
+    "title": "麹义 / Qu Yi (late Han)",
+    "url": "/wiki/entities/quyilatehan/"
   },
   "QuYijiu": {
     "title": "屈宜臼 / Qu Yijiu",
@@ -37351,6 +37947,10 @@
     "title": "Resistance Axis Backfire / 抵抗之弧反噬",
     "url": "/wiki/concepts/resistanceaxisbackfire/"
   },
+  "ResourceAsymmetryAttrition": {
+    "title": "Resource-Asymmetry Attrition / 资源不对称消耗战",
+    "url": "/wiki/concepts/resourceasymmetryattrition/"
+  },
   "ResourceBasedEconomicTransition": {
     "title": "Resource-Based Economic Transition",
     "url": "/wiki/concepts/resourcebasedeconomictransition/"
@@ -37707,6 +38307,10 @@
     "title": "Righteousness Over Profit / 义利之辨",
     "url": "/wiki/concepts/righteousnessoverprofit/"
   },
+  "RigidObedienceCrisisFailure": {
+    "title": "Rigid Obedience Crisis Failure / 危机僵化奉诏",
+    "url": "/wiki/concepts/rigidobediencecrisisfailure/"
+  },
   "RiguangPaidui": {
     "title": "日光派对播客联盟",
     "url": "/wiki/entities/riguangpaidui/"
@@ -37787,6 +38391,10 @@
     "title": "Ritualized Minister Humiliation / 礼节化臣属羞辱",
     "url": "/wiki/concepts/ritualizedministerhumiliation/"
   },
+  "RiverCorridorStrategicBase": {
+    "title": "River Corridor Strategic Base / 长江走廊战略根据地",
+    "url": "/wiki/concepts/rivercorridorstrategicbase/"
+  },
   "RiverCrossingDeception": {
     "title": "River Crossing Deception / 渡河欺敌",
     "url": "/wiki/concepts/rivercrossingdeception/"
@@ -37826,6 +38434,10 @@
   "RobertBoyle": {
     "title": "Robert Boyle / 罗伯特·波义耳",
     "url": "/wiki/entities/robertboyle/"
+  },
+  "RobertDudley": {
+    "title": "Robert Dudley / Earl of Leicester",
+    "url": "/wiki/entities/robertdudley/"
   },
   "RobertFKennedyJr": {
     "title": "Robert F. Kennedy Jr.",
@@ -38099,6 +38711,10 @@
     "title": "Roman Republic / 罗马共和国",
     "url": "/wiki/entities/romanrepublic/"
   },
+  "RomanceOfTheThreeKingdoms": {
+    "title": "《三国演义》 / Romance of the Three Kingdoms",
+    "url": "/wiki/entities/romanceofthethreekingdoms/"
+  },
   "RomanticDeathEscape": {
     "title": "Romantic Death Escape / 浪漫化死亡逃避",
     "url": "/wiki/concepts/romanticdeathescape/"
@@ -38210,6 +38826,10 @@
   "RoyEDisney": {
     "title": "Roy E. Disney",
     "url": "/wiki/entities/royedisney/"
+  },
+  "RoyalExecutionLegitimacy": {
+    "title": "Royal Execution Legitimacy",
+    "url": "/wiki/concepts/royalexecutionlegitimacy/"
   },
   "RoyalMail": {
     "title": "Royal Mail",
@@ -38778,6 +39398,10 @@
   "SangengBanyeJuranYaoChiXiangjiao": {
     "title": "《三更半夜居然要吃香蕉》",
     "url": "/wiki/entities/sangengbanyejuranyaochixiangjiao/"
+  },
+  "Sanguozhi": {
+    "title": "《三国志》 / Sanguozhi",
+    "url": "/wiki/entities/sanguozhi/"
   },
   "SanlianLifeWeekly": {
     "title": "三联生活周刊 / Sanlian Life Weekly",
@@ -39831,6 +40455,10 @@
     "title": "Shen Nanpeng",
     "url": "/wiki/entities/shennanpeng/"
   },
+  "ShenPeiLateHan": {
+    "title": "审配 / Shen Pei (late Han)",
+    "url": "/wiki/entities/shenpeilatehan/"
+  },
   "ShenYang": {
     "title": "申阳 / Shen Yang",
     "url": "/wiki/entities/shenyang/"
@@ -39882,6 +40510,10 @@
   "ShentinglingBattle": {
     "title": "神亭岭之战 / Shentingling Battle",
     "url": "/wiki/entities/shentinglingbattle/"
+  },
+  "ShentuPanLateHan": {
+    "title": "申屠蟠 / Shentu Pan (late Han)",
+    "url": "/wiki/entities/shentupanlatehan/"
   },
   "ShenwanLingxinFund": {
     "title": "申万菱信基金 / Shenwan Lingxin Fund",
@@ -39974,6 +40606,10 @@
   "ShichengWarringStates": {
     "title": "石城 / Shicheng",
     "url": "/wiki/entities/shichengwarringstates/"
+  },
+  "ShieldCrossbowAntiCavalry": {
+    "title": "盾弩反骑兵战术 / Shield-Crossbow Anti-Cavalry",
+    "url": "/wiki/concepts/shieldcrossbowanticavalry/"
   },
   "ShieldStateRescueFailure": {
     "title": "Shield-State Rescue Failure / 屏障国救援失灵",
@@ -40967,6 +41603,10 @@
     "title": "宋义 / Song Yi",
     "url": "/wiki/entities/songyi/"
   },
+  "SongYiLateHan": {
+    "title": "宋翼 / Song Yi (late Han)",
+    "url": "/wiki/entities/songyilatehan/"
+  },
   "SongYu": {
     "title": "宋玉 / Song Yu",
     "url": "/wiki/entities/songyu/"
@@ -41154,6 +41794,10 @@
   "Spain": {
     "title": "Spain",
     "url": "/wiki/entities/spain/"
+  },
+  "SpanishArmada": {
+    "title": "Spanish Armada",
+    "url": "/wiki/entities/spanisharmada/"
   },
   "SpatialLoveStudies": {
     "title": "Spatial Love Studies / 空间爱情学",
@@ -41394,6 +42038,10 @@
   "Sprinto": {
     "title": "Sprinto",
     "url": "/wiki/entities/sprinto/"
+  },
+  "SpyNetworkEntrapment": {
+    "title": "Spy Network Entrapment",
+    "url": "/wiki/concepts/spynetworkentrapment/"
   },
   "SpySourceProtection": {
     "title": "Spy Source Protection / 间谍线人保护",
@@ -42035,6 +42683,10 @@
     "title": "Strategic Intelligence Interpretation / 战略情报解释",
     "url": "/wiki/concepts/strategicintelligenceinterpretation/"
   },
+  "StrategicInterventionThreshold": {
+    "title": "Strategic Intervention Threshold",
+    "url": "/wiki/concepts/strategicinterventionthreshold/"
+  },
   "StrategicLuxurySabotage": {
     "title": "Strategic Luxury Sabotage / 奢侈诱导式削弱",
     "url": "/wiki/concepts/strategicluxurysabotage/"
@@ -42042,6 +42694,10 @@
   "StrategicMustWorkProductBet": {
     "title": "Strategic Must-Work Product Bet",
     "url": "/wiki/concepts/strategicmustworkproductbet/"
+  },
+  "StrategicPassControl": {
+    "title": "Strategic Pass Control / 兵家必争通道控制",
+    "url": "/wiki/concepts/strategicpasscontrol/"
   },
   "StrategicRecognitionAlignment": {
     "title": "Strategic Recognition Alignment / 谋略知己式归附",
@@ -42219,6 +42875,10 @@
     "title": "苏辙 / Su Zhe",
     "url": "/wiki/entities/suzhe/"
   },
+  "SuanzaoCamp": {
+    "title": "酸枣大营 / Suanzao Camp",
+    "url": "/wiki/entities/suanzaocamp/"
+  },
   "SubCom": {
     "title": "SubCom",
     "url": "/wiki/entities/subcom/"
@@ -42354,6 +43014,10 @@
   "Sugon": {
     "title": "Sugon / 中科曙光",
     "url": "/wiki/entities/sugon/"
+  },
+  "SuiGuLateHan": {
+    "title": "眭固 / Sui Gu (Late Han)",
+    "url": "/wiki/entities/suigulatehan/"
   },
   "SuiHe": {
     "title": "随何 / Sui He",
@@ -43094,6 +43758,10 @@
   "TaoQianLateHan": {
     "title": "陶谦 / Tao Qian (late Han)",
     "url": "/wiki/entities/taoqianlatehan/"
+  },
+  "TaoShengLateHan": {
+    "title": "陶生 / Tao Sheng (Late Han)",
+    "url": "/wiki/entities/taoshenglatehan/"
   },
   "TaoYuanming": {
     "title": "陶渊明 / Tao Yuanming",
@@ -44027,6 +44695,10 @@
     "title": "Thomas Paine / 托马斯·潘恩",
     "url": "/wiki/entities/thomaspaine/"
   },
+  "ThomasPhillips": {
+    "title": "Thomas Phillips",
+    "url": "/wiki/entities/thomasphillips/"
+  },
   "ThomsonReuters": {
     "title": "Thomson Reuters",
     "url": "/wiki/entities/thomsonreuters/"
@@ -44127,6 +44799,10 @@
     "title": "田常 / Tian Chang",
     "url": "/wiki/entities/tianchang/"
   },
+  "TianChou": {
+    "title": "田筹 / Tian Chou",
+    "url": "/wiki/entities/tianchou/"
+  },
   "TianDan": {
     "title": "田单 / Tian Dan",
     "url": "/wiki/entities/tiandan/"
@@ -44150,6 +44826,10 @@
   "TianFeng": {
     "title": "田峰 / Tian Feng",
     "url": "/wiki/entities/tianfeng/"
+  },
+  "TianFengLateHan": {
+    "title": "田丰 / Tian Feng (late Han)",
+    "url": "/wiki/entities/tianfenglatehan/"
   },
   "TianGuang": {
     "title": "田光 / Tian Guang",
@@ -44186,6 +44866,10 @@
   "TianJiao": {
     "title": "田角 / Tian Jiao",
     "url": "/wiki/entities/tianjiao/"
+  },
+  "TianKaiLateHan": {
+    "title": "田楷 / Tian Kai (late Han)",
+    "url": "/wiki/entities/tiankailatehan/"
   },
   "TianLongBaBu": {
     "title": "《天龙八部》",
@@ -44466,6 +45150,10 @@
   "TomasHoloneck": {
     "title": "Tomas Holoneck",
     "url": "/wiki/entities/tomasholoneck/"
+  },
+  "TombDesecrationPoliticalViolence": {
+    "title": "Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力",
+    "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
   },
   "TomerLondon": {
     "title": "Tomer London",
@@ -44815,6 +45503,10 @@
     "title": "Treasury Duration Risk",
     "url": "/wiki/concepts/treasurydurationrisk/"
   },
+  "TreatyOfNonsuch": {
+    "title": "Treaty of Nonsuch",
+    "url": "/wiki/entities/treatyofnonsuch/"
+  },
   "TreeProtectionOrdinances": {
     "title": "Tree Protection Ordinances",
     "url": "/wiki/concepts/treeprotectionordinances/"
@@ -45026,6 +45718,10 @@
   "Tudor": {
     "title": "Tudor",
     "url": "/wiki/entities/tudor/"
+  },
+  "TudorSuccessionCrisis": {
+    "title": "Tudor Succession Crisis",
+    "url": "/wiki/concepts/tudorsuccessioncrisis/"
   },
   "Tudou": {
     "title": "土豆网 / Tudou",
@@ -46371,6 +47067,10 @@
     "title": "婉而多讽 / Gentle And Layered Satire",
     "url": "/wiki/concepts/wanerduofeng/"
   },
+  "WanQianLateHan": {
+    "title": "万潜 / Wan Qian (late Han)",
+    "url": "/wiki/entities/wanqianlatehan/"
+  },
   "WanbiGuizhaoDiplomacy": {
     "title": "Wanbi Guizhao Diplomacy / 完璧归赵式外交",
     "url": "/wiki/concepts/wanbiguizhaodiplomacy/"
@@ -46427,6 +47127,10 @@
     "title": "王弗 / Wang Fu",
     "url": "/wiki/entities/wangfusushi/"
   },
+  "WangGongLateHan": {
+    "title": "王肱 / Wang Gong (late Han)",
+    "url": "/wiki/entities/wanggonglatehan/"
+  },
   "WangGuowei": {
     "title": "王国维",
     "url": "/wiki/entities/wangguowei/"
@@ -46438,6 +47142,10 @@
   "WangHe": {
     "title": "王龁 / Wang He",
     "url": "/wiki/entities/wanghe/"
+  },
+  "WangHongLateHan": {
+    "title": "王宏 / Wang Hong (late Han)",
+    "url": "/wiki/entities/wanghonglatehan/"
   },
   "WangHongjie": {
     "title": "王洪杰 / Wang Hongjie",
@@ -46470,6 +47178,14 @@
   "WangJunyu": {
     "title": "王俊玉",
     "url": "/wiki/entities/wangjunyu/"
+  },
+  "WangKaiLateHan": {
+    "title": "王楷 / Wang Kai (Late Han)",
+    "url": "/wiki/entities/wangkailatehan/"
+  },
+  "WangKuangLateHan": {
+    "title": "王匡 / Wang Kuang (late Han)",
+    "url": "/wiki/entities/wangkuanglatehan/"
   },
   "WangLaichun": {
     "title": "Wang Laichun",
@@ -46507,6 +47223,10 @@
     "title": "Wang Mang Reforms / 王莽改制",
     "url": "/wiki/concepts/wangmangreforms/"
   },
+  "WangMeirenLateHan": {
+    "title": "王美人 / 灵怀皇后 (late Han)",
+    "url": "/wiki/entities/wangmeirenlatehan/"
+  },
   "WangMian": {
     "title": "王冕",
     "url": "/wiki/entities/wangmian/"
@@ -46526,6 +47246,10 @@
   "WangQuanbin": {
     "title": "王全斌 / Wang Quanbin",
     "url": "/wiki/entities/wangquanbin/"
+  },
+  "WangRuiLateHan": {
+    "title": "王瑞 / Wang Rui (late Han)",
+    "url": "/wiki/entities/wangruilatehan/"
   },
   "WangShengli": {
     "title": "Wang Shengli",
@@ -46622,6 +47346,10 @@
   "WangYuSouthernDynasties": {
     "title": "王玉 / Wang Yu (Southern Dynasties)",
     "url": "/wiki/entities/wangyusoutherndynasties/"
+  },
+  "WangYunLateHan": {
+    "title": "王允 / Wang Yun (late Han)",
+    "url": "/wiki/entities/wangyunlatehan/"
   },
   "WangZhenghua": {
     "title": "Wang Zhenghua / 王正华",
@@ -46991,6 +47719,10 @@
     "title": "魏犨 / Wei Wuzi",
     "url": "/wiki/entities/weichou/"
   },
+  "WeiCommanderyLateHan": {
+    "title": "魏郡 / Wei Commandery (Late Han)",
+    "url": "/wiki/entities/weicommanderylatehan/"
+  },
   "WeiGreatWallAntiQinDefense": {
     "title": "Wei Great Wall Anti-Qin Defense / 魏长城防秦",
     "url": "/wiki/concepts/weigreatwallantiqindefense/"
@@ -47078,6 +47810,10 @@
   "WeiZhi": {
     "title": "魏挚 / Wei Zhi",
     "url": "/wiki/entities/weizhi/"
+  },
+  "WeiZiLateHan": {
+    "title": "魏兹 / Wei Zi (late Han)",
+    "url": "/wiki/entities/weizilatehan/"
   },
   "WeilaiBuyuan": {
     "title": "Weilai Buyuan",
@@ -47443,6 +48179,10 @@
     "title": "William Bennett",
     "url": "/wiki/entities/williambennett/"
   },
+  "WilliamCecil": {
+    "title": "William Cecil / Lord Burleigh",
+    "url": "/wiki/entities/williamcecil/"
+  },
   "WilliamChaloner": {
     "title": "William Chaloner / 查罗纳",
     "url": "/wiki/entities/williamchaloner/"
@@ -47482,6 +48222,10 @@
   "WilliamOfBaskerville": {
     "title": "巴斯克维尔的威廉 / William of Baskerville",
     "url": "/wiki/entities/williamofbaskerville/"
+  },
+  "WilliamOfOrange": {
+    "title": "William of Orange",
+    "url": "/wiki/entities/williamoforange/"
   },
   "WilliamPeterBlatty": {
     "title": "William Peter Blatty",
@@ -47867,6 +48611,10 @@
     "title": "吴清源",
     "url": "/wiki/entities/wuqingyuan/"
   },
+  "WuQiongLateHan": {
+    "title": "伍琼 / Wu Qiong (late Han)",
+    "url": "/wiki/entities/wuqionglatehan/"
+  },
   "WuRui": {
     "title": "吴芮 / Wu Rui",
     "url": "/wiki/entities/wurui/"
@@ -48039,6 +48787,10 @@
     "title": "无盐县 / Wuyan County",
     "url": "/wiki/entities/wuyancounty/"
   },
+  "WuyangJun": {
+    "title": "武阳君 / Wuyang Jun",
+    "url": "/wiki/entities/wuyangjun/"
+  },
   "Wuyue": {
     "title": "吴越 / Wuyue",
     "url": "/wiki/entities/wuyue/"
@@ -48046,6 +48798,10 @@
   "Wuzhiqi": {
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
+  },
+  "WuzhongCountyLateHan": {
+    "title": "无终县 / Wuzhong County (Late Han)",
+    "url": "/wiki/entities/wuzhongcountylatehan/"
   },
   "WuzhuMinyueKing": {
     "title": "无诸 / Wuzhu (Minyue king)",
@@ -48139,6 +48895,10 @@
     "title": "夏姬 / 夏太后 / Lady Xia",
     "url": "/wiki/entities/xiataihou/"
   },
+  "XiahouDun": {
+    "title": "夏侯惇 / Xiahou Dun",
+    "url": "/wiki/entities/xiahoudun/"
+  },
   "XiahouYing": {
     "title": "夏侯婴 / Xiahou Ying",
     "url": "/wiki/entities/xiahouying/"
@@ -48226,6 +48986,10 @@
   "XiangwangYouyiShennvWuxin": {
     "title": "襄王有意，神女无心 / Xiangwang Youyi, Shennv Wuxin",
     "url": "/wiki/concepts/xiangwangyouyishennvwuxin/"
+  },
+  "XiangyangLateHan": {
+    "title": "襄阳 / Xiangyang (late Han)",
+    "url": "/wiki/entities/xiangyanglatehan/"
   },
   "Xianyang": {
     "title": "咸阳 / Xianyang",
@@ -48395,6 +49159,10 @@
     "title": "谢治宇 / Xie Zhiyu",
     "url": "/wiki/entities/xiezhiyu/"
   },
+  "XieguRoadLateHan": {
+    "title": "斜谷道 / Xiegu Road (late Han)",
+    "url": "/wiki/entities/xieguroadlatehan/"
+  },
   "XifangJuedouShi": {
     "title": "《西方决斗史》 / The History of Duelling",
     "url": "/wiki/entities/xifangjuedoushi/"
@@ -48418,6 +49186,10 @@
   "XinDynasty": {
     "title": "Xin dynasty / 新朝",
     "url": "/wiki/entities/xindynasty/"
+  },
+  "XinPingLateHan": {
+    "title": "辛评 / Xin Ping (late Han)",
+    "url": "/wiki/entities/xinpinglatehan/"
   },
   "XinXu": {
     "title": "《新序》 / Xin Xu",
@@ -48595,6 +49367,10 @@
     "title": "许路 / Xu Lu",
     "url": "/wiki/entities/xulu/"
   },
+  "XuRongLateHan": {
+    "title": "徐荣 / Xu Rong (late Han)",
+    "url": "/wiki/entities/xuronglatehan/"
+  },
   "XuShao": {
     "title": "许劭 / Xu Shao",
     "url": "/wiki/entities/xushao/"
@@ -48603,6 +49379,10 @@
     "title": "许慎",
     "url": "/wiki/entities/xushen/"
   },
+  "XuSiLateHan": {
+    "title": "许汜 / Xu Si (Late Han)",
+    "url": "/wiki/entities/xusilatehan/"
+  },
   "XuTao": {
     "title": "徐涛",
     "url": "/wiki/entities/xutao/"
@@ -48610,6 +49390,10 @@
   "XuWenliang": {
     "title": "徐文亮 / Tom",
     "url": "/wiki/entities/xuwenliang/"
+  },
+  "XuWuMountain": {
+    "title": "徐无山 / Xu Wu Mountain",
+    "url": "/wiki/entities/xuwumountain/"
   },
   "XuXiake": {
     "title": "徐霞客",
@@ -48627,9 +49411,17 @@
     "title": "徐逸 / Xu Yi",
     "url": "/wiki/entities/xuyibilibili/"
   },
+  "XuYouLateHan": {
+    "title": "许攸 / Xu You (late Han)",
+    "url": "/wiki/entities/xuyoulatehan/"
+  },
   "XuZhe": {
     "title": "Xu Zhe / 许哲",
     "url": "/wiki/entities/xuzhe/"
+  },
+  "XuZhongJin": {
+    "title": "许众 / Xu Zhong (Jin commentator)",
+    "url": "/wiki/entities/xuzhongjin/"
   },
   "XuanGuaiLu": {
     "title": "《玄怪录》",
@@ -48687,6 +49479,14 @@
     "title": "《虚境奇谭》",
     "url": "/wiki/entities/xujingqitan/"
   },
+  "XunChenLateHan": {
+    "title": "荀谌 / Xun Chen (late Han)",
+    "url": "/wiki/entities/xunchenlatehan/"
+  },
+  "XunShuangLateHan": {
+    "title": "荀爽 / Xun Shuang (late Han)",
+    "url": "/wiki/entities/xunshuanglatehan/"
+  },
   "XunTuJi": {
     "title": "《训兔记》",
     "url": "/wiki/entities/xuntuji/"
@@ -48734,6 +49534,10 @@
   "Xuzhou": {
     "title": "徐州 / Xuzhou",
     "url": "/wiki/entities/xuzhou/"
+  },
+  "XuzhouMassacreLateHan": {
+    "title": "徐州屠杀 / Xuzhou Massacre (Late Han)",
+    "url": "/wiki/entities/xuzhoumassacrelatehan/"
   },
   "XuzhouMutualKingship": {
     "title": "徐州相王 / Xuzhou Mutual Kingship",
@@ -48806,6 +49610,10 @@
   "YanFeiSociologist": {
     "title": "颜飞 / Yan Fei (sociologist)",
     "url": "/wiki/entities/yanfeisociologist/"
+  },
+  "YanGangLateHan": {
+    "title": "严纲 / Yan Gang (late Han)",
+    "url": "/wiki/entities/yanganglatehan/"
   },
   "YanHuanGong": {
     "title": "燕桓公 / Duke Huan of Yan",
@@ -48991,9 +49799,17 @@
     "title": "杨宇 / 饺子 / Yang Yu",
     "url": "/wiki/entities/yangyujiaozi/"
   },
+  "YangZanLateHan": {
+    "title": "杨瓒 / Yang Zan (late Han)",
+    "url": "/wiki/entities/yangzanlatehan/"
+  },
   "YangZeyi": {
     "title": "Yang Zeyi",
     "url": "/wiki/entities/yangzeyi/"
+  },
+  "YangZhengxiuLateHan": {
+    "title": "杨整修 / Yang Zhengxiu (late Han)",
+    "url": "/wiki/entities/yangzhengxiulatehan/"
   },
   "YangZhu": {
     "title": "杨朱 / Yang Zhu",
@@ -49015,6 +49831,10 @@
     "title": "阳泉君 / Lord Yangquan",
     "url": "/wiki/entities/yangquanjun/"
   },
+  "YangrenBattleLateHan": {
+    "title": "阳人之战 / Yangren Battle (late Han)",
+    "url": "/wiki/entities/yangrenbattlelatehan/"
+  },
   "YangtzeFishingBanRecovery": {
     "title": "Yangtze Fishing Ban Recovery",
     "url": "/wiki/concepts/yangtzefishingbanrecovery/"
@@ -49026,6 +49846,10 @@
   "YangtzeRiver": {
     "title": "Yangtze River / 长江",
     "url": "/wiki/entities/yangtzeriver/"
+  },
+  "YangzhouLateHan": {
+    "title": "扬州 / Yangzhou (late Han province)",
+    "url": "/wiki/entities/yangzhoulatehan/"
   },
   "YanluoWang": {
     "title": "阎罗王",
@@ -49098,6 +49922,10 @@
   "YeJunjian": {
     "title": "叶君健 / Ye Junjian",
     "url": "/wiki/entities/yejunjian/"
+  },
+  "YeLateHan": {
+    "title": "邺城 / Ye (Late Han)",
+    "url": "/wiki/entities/yelatehan/"
   },
   "YeWarringStates": {
     "title": "邺城 / Ye (Warring States)",
@@ -49247,6 +50075,10 @@
     "title": "嬴将闾 / Ying Jianglu",
     "url": "/wiki/entities/yingjianglu/"
   },
+  "YingShaoLateHan": {
+    "title": "应劭 / Ying Shao (Late Han)",
+    "url": "/wiki/entities/yingshaolatehan/"
+  },
   "YingSi": {
     "title": "嬴驷 / Ying Si",
     "url": "/wiki/entities/yingsi/"
@@ -49331,6 +50163,10 @@
     "title": "宜阳 / Yiyang (Warring States)",
     "url": "/wiki/entities/yiyangwarringstates/"
   },
+  "YizhouLateHan": {
+    "title": "益州 / Yizhou (Late Han)",
+    "url": "/wiki/entities/yizhoulatehan/"
+  },
   "Yobi": {
     "title": "Yobi",
     "url": "/wiki/entities/yobi/"
@@ -49378,6 +50214,10 @@
   "YongzhengEmperor": {
     "title": "雍正 / Yongzheng Emperor",
     "url": "/wiki/entities/yongzhengemperor/"
+  },
+  "YongzhouLateHan": {
+    "title": "雍州 / Yongzhou (Late Han)",
+    "url": "/wiki/entities/yongzhoulatehan/"
   },
   "YorubaTwinCosmology": {
     "title": "Yoruba Twin Cosmology",
@@ -49438,6 +50278,10 @@
   "YouXiaoying": {
     "title": "游晓颖 / You Xiaoying",
     "url": "/wiki/entities/youxiaoying/"
+  },
+  "YoubeipingCommandery": {
+    "title": "右北平 / Youbeiping Commandery",
+    "url": "/wiki/entities/youbeipingcommandery/"
   },
   "YouguangPublishing": {
     "title": "有光",
@@ -49514,6 +50358,10 @@
   "YuChengdong": {
     "title": "Yu Chengdong",
     "url": "/wiki/entities/yuchengdong/"
+  },
+  "YuDuLateHan": {
+    "title": "于毒 / Yu Du (Late Han)",
+    "url": "/wiki/entities/yudulatehan/"
   },
   "YuFan": {
     "title": "虞翻 / Yu Fan",
@@ -49603,6 +50451,10 @@
     "title": "袁绍 / Yuan Shao",
     "url": "/wiki/entities/yuanshao/"
   },
+  "YuanShaoLyuBuAssassinationAttempt": {
+    "title": "袁绍刺吕布未遂 / Yuan Shao-Lü Bu Assassination Attempt",
+    "url": "/wiki/entities/yuanshaolyubuassassinationattempt/"
+  },
   "YuanShengChuHan": {
     "title": "袁先生 / Yuan Sheng (Chu-Han)",
     "url": "/wiki/entities/yuanshengchuhan/"
@@ -49615,9 +50467,17 @@
     "title": "袁谭 / Yuan Tan",
     "url": "/wiki/entities/yuantan/"
   },
+  "YuanWeiLateHan": {
+    "title": "袁隗 / Yuan Wei (late Han)",
+    "url": "/wiki/entities/yuanweilatehan/"
+  },
   "YuanXin": {
     "title": "Yuan Xin / 原欣",
     "url": "/wiki/entities/yuanxin/"
+  },
+  "YuanYiLateHan": {
+    "title": "袁遗 / Yuan Yi (late Han)",
+    "url": "/wiki/entities/yuanyilatehan/"
   },
   "YuanZhang": {
     "title": "袁掌 / Yuan Zhang",
@@ -50067,6 +50927,10 @@
     "title": "Zhang Qi / 张奇",
     "url": "/wiki/entities/zhangqi/"
   },
+  "ZhangQiLateHan": {
+    "title": "张岐 / Zhang Qi (Late Han)",
+    "url": "/wiki/entities/zhangqilatehan/"
+  },
   "ZhangQing": {
     "title": "张青 / Zhang Qing",
     "url": "/wiki/entities/zhangqing/"
@@ -50098,6 +50962,10 @@
   "ZhangShuguangRailway": {
     "title": "Zhang Shuguang / 张曙光",
     "url": "/wiki/entities/zhangshuguangrailway/"
+  },
+  "ZhangWenLateHan": {
+    "title": "张温 / Zhang Wen (late Han)",
+    "url": "/wiki/entities/zhangwenlatehan/"
   },
   "ZhangWenhong": {
     "title": "张文宏 / Zhang Wenhong",
@@ -50139,6 +51007,10 @@
     "title": "张绣 / Zhang Xiu",
     "url": "/wiki/entities/zhangxiu/"
   },
+  "ZhangXiuFivePecks": {
+    "title": "张修 / Zhang Xiu (Hanzhong)",
+    "url": "/wiki/entities/zhangxiufivepecks/"
+  },
   "ZhangXueMotorcycle": {
     "title": "Zhang Xue Motorcycle / 张雪机车",
     "url": "/wiki/entities/zhangxuemotorcycle/"
@@ -50146,6 +51018,10 @@
   "ZhangXunYuanShu": {
     "title": "张勋 / Zhang Xun (Yuan Shu general)",
     "url": "/wiki/entities/zhangxunyuanshu/"
+  },
+  "ZhangYanLateHan": {
+    "title": "张燕 / Zhang Yan (Late Han)",
+    "url": "/wiki/entities/zhangyanlatehan/"
   },
   "ZhangYangLateHan": {
     "title": "张杨 / Zhang Yang (late Han)",
@@ -50194,6 +51070,10 @@
   "ZhangZhupo": {
     "title": "张竹坡 / Zhang Zhupo",
     "url": "/wiki/entities/zhangzhupo/"
+  },
+  "ZhangZiLateHan": {
+    "title": "张咨 / Zhang Zi (late Han)",
+    "url": "/wiki/entities/zhangzilatehan/"
   },
   "ZhangZiQiGeneral": {
     "title": "张子 / Zhang Zi (Qi general)",
@@ -50283,6 +51163,10 @@
     "title": "赵范 / Zhao Fan",
     "url": "/wiki/entities/zhaofan/"
   },
+  "ZhaoFuLateHan": {
+    "title": "赵浮 / Zhao Fu (late Han)",
+    "url": "/wiki/entities/zhaofulatehan/"
+  },
   "ZhaoGao": {
     "title": "赵高 / Zhao Gao",
     "url": "/wiki/entities/zhaogao/"
@@ -50318,6 +51202,10 @@
   "ZhaoJia": {
     "title": "赵嘉 / Zhao Jia",
     "url": "/wiki/entities/zhaojia/"
+  },
+  "ZhaoJianLateHan": {
+    "title": "赵戬 / Zhao Jian (late Han)",
+    "url": "/wiki/entities/zhaojianlatehan/"
   },
   "ZhaoJianzi": {
     "title": "赵简子 / Zhao Jianzi",
@@ -50402,6 +51290,10 @@
   "ZhaoTuo": {
     "title": "赵佗 / Zhao Tuo",
     "url": "/wiki/entities/zhaotuo/"
+  },
+  "ZhaoWeiLateHan": {
+    "title": "赵韪 / Zhao Wei (late Han)",
+    "url": "/wiki/entities/zhaoweilatehan/"
   },
   "ZhaoWeihou": {
     "title": "赵威后 / Zhao Weihou",
@@ -50523,6 +51415,10 @@
     "title": "郑国 / Zheng State",
     "url": "/wiki/entities/zhengstate/"
   },
+  "ZhengTaiLateHan": {
+    "title": "郑泰 / Zheng Tai (late Han)",
+    "url": "/wiki/entities/zhengtailatehan/"
+  },
   "ZhengWenGong": {
     "title": "郑文公 / Duke Wen of Zheng",
     "url": "/wiki/entities/zhengwengong/"
@@ -50615,6 +51511,10 @@
     "title": "钟馗",
     "url": "/wiki/entities/zhongkui/"
   },
+  "ZhongShaoLateHan": {
+    "title": "种劭 / Zhong Shao (late Han)",
+    "url": "/wiki/entities/zhongshaolatehan/"
+  },
   "ZhongShengli": {
     "title": "钟声礼",
     "url": "/wiki/entities/zhongshengli/"
@@ -50678,6 +51578,14 @@
   "ZhouAnWang": {
     "title": "周安王 / King An of Zhou",
     "url": "/wiki/entities/zhouanwang/"
+  },
+  "ZhouAngLateHan": {
+    "title": "周昂 / Zhou Ang (late Han)",
+    "url": "/wiki/entities/zhouanglatehan/"
+  },
+  "ZhouBiLateHan": {
+    "title": "周毖 / Zhou Bi (late Han)",
+    "url": "/wiki/entities/zhoubilatehan/"
   },
   "ZhouBo": {
     "title": "周勃 / Zhou Bo",
@@ -50882,6 +51790,10 @@
   "ZhuHaiWeiRetainer": {
     "title": "朱亥 / Zhu Hai",
     "url": "/wiki/entities/zhuhaiweiretainer/"
+  },
+  "ZhuHanLateHan": {
+    "title": "朱瀚 / Zhu Han (late Han)",
+    "url": "/wiki/entities/zhuhanlatehan/"
   },
   "ZhuHaoLateHan": {
     "title": "朱皓 / Zhu Hao (late Han)",
@@ -51107,6 +52019,10 @@
     "title": "祖郎 / Zu Lang (late Han)",
     "url": "/wiki/entities/zulanglatehan/"
   },
+  "ZuMaoLateHan": {
+    "title": "祖茂 / Zu Mao (late Han)",
+    "url": "/wiki/entities/zumaolatehan/"
+  },
   "ZuoChengzu": {
     "title": "左承祖 / Zuo Chengzu",
     "url": "/wiki/entities/zuochengzu/"
@@ -51118,6 +52034,10 @@
   "ZuoZhuan": {
     "title": "《左传》 / Zuo Zhuan",
     "url": "/wiki/entities/zuozhuan/"
+  },
+  "Zutphen": {
+    "title": "Zutphen",
+    "url": "/wiki/entities/zutphen/"
   },
   "ZydorChurch": {
     "title": "Zydor Church",
@@ -54574,6 +55494,142 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk": {
+    "title": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk/"
+  },
+  "zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb": {
+    "title": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb/"
+  },
+  "zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr": {
+    "title": "《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr/"
+  },
+  "zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh": {
+    "title": "《资治通鉴·汉纪》951丨天降横财，究竟是好事还是坏事？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh/"
+  },
+  "zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj": {
+    "title": "《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj/"
+  },
+  "zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon": {
+    "title": "《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon/"
+  },
+  "zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h": {
+    "title": "《资治通鉴·汉纪》954丨人性本善，还是人性本恶？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h/"
+  },
+  "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf": {
+    "title": "《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf/"
+  },
+  "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf": {
+    "title": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf/"
+  },
+  "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo": {
+    "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+  },
+  "zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju": {
+    "title": "《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju/"
+  },
+  "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq": {
+    "title": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq/"
+  },
+  "zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr": {
+    "title": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr/"
+  },
+  "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr": {
+    "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+  },
+  "zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti": {
+    "title": "《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti/"
+  },
+  "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk": {
+    "title": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk/"
+  },
+  "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq": {
+    "title": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq/"
+  },
+  "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q": {
+    "title": "《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q/"
+  },
+  "zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u": {
+    "title": "《资治通鉴·汉纪》966丨没有野心，不懂权谋，就别当领导",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u/"
+  },
+  "zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3": {
+    "title": "《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3/"
+  },
+  "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj": {
+    "title": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj/"
+  },
+  "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r": {
+    "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+  },
+  "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs": {
+    "title": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs/"
+  },
+  "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku": {
+    "title": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku/"
+  },
+  "zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2": {
+    "title": "《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2/"
+  },
+  "zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet": {
+    "title": "《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet/"
+  },
+  "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd": {
+    "title": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd/"
+  },
+  "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr": {
+    "title": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr/"
+  },
+  "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x": {
+    "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+  },
+  "zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee": {
+    "title": "《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee/"
+  },
+  "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv": {
+    "title": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv/"
+  },
+  "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis": {
+    "title": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis/"
+  },
+  "zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg": {
+    "title": "《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg/"
+  },
+  "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth": {
+    "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
   },
   "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1": {
     "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",

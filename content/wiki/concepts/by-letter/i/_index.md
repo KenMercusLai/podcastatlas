@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "ImportedProduceVerification"
     title: "Imported Produce Verification"
     url: "/wiki/concepts/importedproduceverification/"
+  - key: "ImportedTroopsLocalEliteCleavage"
+    title: "Imported Troops Local Elite Cleavage / 外来武装与本土豪族裂缝"
+    url: "/wiki/concepts/importedtroopslocalelitecleavage/"
   - key: "ImpostorSyndrome"
     title: "Impostor Syndrome"
     url: "/wiki/concepts/impostorsyndrome/"
@@ -380,6 +383,9 @@ wiki_pages:
   - key: "InsuranceTechnologyModernization"
     title: "Insurance Technology Modernization"
     url: "/wiki/concepts/insurancetechnologymodernization/"
+  - key: "IntegratedCommandCapacity"
+    title: "Integrated Command Capacity / 全维度统帅能力"
+    url: "/wiki/concepts/integratedcommandcapacity/"
   - key: "IntegratedMLTeams"
     title: "Integrated ML Teams"
     url: "/wiki/concepts/integratedmlteams/"

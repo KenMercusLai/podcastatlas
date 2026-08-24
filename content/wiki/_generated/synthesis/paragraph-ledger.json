@@ -1,6 +1,29 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
+      "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
+      "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
+      "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
+      "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
+      "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
+      "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
+      "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
+      "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
+      "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
+      "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
+      "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
+      "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
+      "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
+      "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
+      "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
+      "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
+      "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
+      "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
+      "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
+      "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
+      "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
+      "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
       "0bf73492bacd0b1245dc3c3515daa57be1572f90b11b56b9b8ad51352383debe",
       "ef9734363d3afd0c1ea459a7d01b55ef5876f40ddf97d619760c292ec25d18ca",
       "82334b450b933e6bbdfb71baa664f3a987ac7f860d57bd79194822098b520416",
@@ -176,13 +199,826 @@
       "7d8bba114571475f8050ad2b392e10a8629496b1e98fd1f8dc00ee346c2ec192",
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
-      "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
+      "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
+      "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 176
+    "paragraph_count": 200
   },
-  "overview_commit": "04e448a5d8219b55041eaf5d509d08b0043f45aa",
-  "overview_digest": "238fb8734eef96f9e64bcd95b312866c4d310abb8aff7458270656b87064ed90",
+  "overview_commit": "0ab6ed6c081534d70527bfaa46ac6f8531f4018c",
+  "overview_digest": "db7bd881ae681ca4c2f4e86f7666f3a550435d7c97ffef8c18d1037bd878ee29",
   "paragraphs": [
+    {
+      "id": "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] late-Han court seizure. It adds [[LuZhiLateHan|卢植]], [[YuanWeiLateHan|袁隗]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], [[ChenFanLateHan|陈蕃]], [[DouWuLateHan|窦武]], [[CoercedImperialReplacement|胁迫式废立]], and [[PartyProhibitionRehabilitation|党人翻案合法性]], while extending [[DongZhuo|董卓]], [[YuanShao|袁绍]], [[CaiYong|蔡邕]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[HeJin|何进]], [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], [[NiuFuLateHan|牛辅]], [[BaiboArmy|白波军]], [[HedongCommandery|河东郡]], [[MingqiLegitimacy|名器合法性]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[CoercedTalentLegitimacy|胁迫征士合法性]]. Its core synthesis is that Dong Zhuo's first decisive takeover is a forced redefinition of imperial procedure: he tests Yuan Shao, silences officials with military threat, forces Yuan Wei to handle the seal transfer, removes the He-family political base, and then covers coercion with appointments, scholar prestige, and rehabilitation of Party Prohibition victims. No settled contradiction is recorded; 卢植 is disambiguated from [[LuZhi|吕雉]], and motive readings around Dong Zhuo's appointments and violence remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BaiboArmy",
+        "CaiYong",
+        "ChenFanLateHan",
+        "CoercedImperialReplacement",
+        "CoercedTalentLegitimacy",
+        "CourtOfficeCapture",
+        "DongZhuo",
+        "DouWuLateHan",
+        "EmperorXianOfHan",
+        "EmpressDowagerHe",
+        "HeJin",
+        "HeMiaoLateHan",
+        "HedongCommandery",
+        "HuangWanLateHan",
+        "LiuBianHongnongWang",
+        "LiuYuLateHan",
+        "LuZhi",
+        "LuZhiLateHan",
+        "MingqiLegitimacy",
+        "NiuFuLateHan",
+        "PartyProhibitionRehabilitation",
+        "RuiqiJiangtouZizhiTongjian",
+        "WuyangJun",
+        "YangBiao",
+        "YuanShao",
+        "YuanWeiLateHan",
+        "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk",
+        "zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb"
+      ]
+    },
+    {
+      "id": "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] late-Han coalition formation. It adds [[LiuBianHongnongWang|刘辩 / 弘农王]], [[LiRuLateHan|李儒]], [[ZhengTaiLateHan|郑泰]], [[WangKuangLateHan|王匡]], [[KongZhouLateHan|孔伷]], [[QiaoMaoLateHan|乔瑁]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]], while extending [[DongZhuo|董卓]], [[YuanShao|袁绍]], [[BaoXin|鲍信]], [[CaoCao|曹操]], [[HanFuLateHan|韩馥]], [[ZhuJunLateHan|朱儁]], [[AntiDongZhuoCoalition|反董卓联盟]], [[CommonEnemyAlliance|共同敌人联盟]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[ChenweiPolitics|谶纬政治]]. Its core synthesis is that the anti-Dong-Zhuo front is fragile at birth: Yuan Shao's prestige can convene a common-enemy coalition, Bao Xin can already see Cao Cao's latent executive capacity, Dong Zhuo's killing of Liu Bian supplies moral outrage, and Zheng Tai diagnoses why separate commanders, titles, logistics, and self-interest may keep the alliance from becoming a durable command. No settled contradiction is recorded; transcript \"朱俊\" is normalized to [[ZhuJunLateHan|朱儁]], and the host's motive readings remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "BaoXin",
+        "CaoCao",
+        "ChenweiPolitics",
+        "CoalitionSelfPreservationFailure",
+        "CommonEnemyAlliance",
+        "DongZhuo",
+        "HanFuLateHan",
+        "InterestStructuredAllianceFragility",
+        "KongZhouLateHan",
+        "LiRuLateHan",
+        "LiuBianHongnongWang",
+        "PrestigeBasedCoalitionLeadership",
+        "QiaoMaoLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangKuangLateHan",
+        "YuanShao",
+        "ZhengTaiLateHan",
+        "ZhuJunLateHan",
+        "zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr",
+        "zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh"
+      ]
+    },
+    {
+      "id": "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] late-Han field through [[DongZhuo|董卓]]'s [[LuoyangLateHan|洛阳]] destruction, [[WangYunLateHan|王允]]'s hidden compliance in [[ChangAnHanCapital|长安]], and [[SunJianLateHan|孙坚]]'s coercive pre-[[YuanShu|袁术]] rise. It adds [[WangRuiLateHan|王瑞]], [[CaoYinLateHan|曹寅]], [[ZhangZiLateHan|张咨]], and [[TombDesecrationPoliticalViolence|陵墓亵渎式政治暴力]], while extending [[AntiDongZhuoCoalition|反董卓联盟]], [[HeartFieldEthics|心田处世伦理]], [[VirtuePracticeInternalization|修养内化]], and [[SpeechAsMoralDiagnostic|言语作为德行信号]]. Its core synthesis is that the source's \"但行好事\" frame is not a guarantee of external reward but a discipline of conscience and exposure: Dong Zhuo's unchecked desire destroys living city and ancestral order, Wang Rui's loose contempt becomes a survival risk, and Sun Jian's useful military force already carries forged-order violence, private resentment, and grain coercion before the cleaner anti-Dong campaign memory. No settled contradiction is recorded; Zhang Zi's name is normalized cautiously from the source's \"张姿\" rendering.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "CaoYinLateHan",
+        "ChangAnHanCapital",
+        "DongZhuo",
+        "HeartFieldEthics",
+        "LuoyangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SpeechAsMoralDiagnostic",
+        "SunJianLateHan",
+        "TombDesecrationPoliticalViolence",
+        "VirtuePracticeInternalization",
+        "WangRuiLateHan",
+        "WangYunLateHan",
+        "YuanShu",
+        "ZhangZiLateHan",
+        "zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj",
+        "zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon"
+      ]
+    },
+    {
+      "id": "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 191 CE anti-[[DongZhuo|董卓]] campaign before [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] and [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]]. It adds [[YangrenBattleLateHan|阳人之战]], [[HuaXiongLateHan|华雄]], [[HuZhenLateHan|胡轸]], [[XuRongLateHan|徐荣]], and [[ZuMaoLateHan|祖茂]], while extending [[SunJianLateHan|孙坚]], [[DongZhuo|董卓]], [[YuanShu|袁术]], [[LyuBu|吕布]], [[GuanYu|关羽]], [[RomanceOfTheThreeKingdoms|《三国演义》]], [[HeirloomImperialSeal|传国玉玺]], [[HuangfuSongLateHan|皇甫嵩]], [[AntiDongZhuoCoalition|反董卓联盟]], [[CommonEnemyAlliance|共同敌人联盟]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[InterestReframingPersuasion|利益重构式说服]], [[MingqiLegitimacy|名器合法性]], and [[FictionAsHistoricalEvidence]]. Its core synthesis is that Sun Jian's campaign exposes both the real front-line pressure against Dong Zhuo and the coalition's internal weakness: Dong Zhuo-side command breaks through Lü Bu's sabotage of Hu Zhen, Yuan Shu nearly starves his own effective general out of suspicion, and the Hua Xiong story shows how a novelized scene can overtake the historical-source credit. No settled contradiction is recorded; the \"Guan Yu kills Hua Xiong\" correction is treated as a literary-memory boundary, and the host's workplace and self-cultivation readings remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "CommonEnemyAlliance",
+        "DongZhuo",
+        "FictionAsHistoricalEvidence",
+        "GuanYu",
+        "HeirloomImperialSeal",
+        "HuZhenLateHan",
+        "HuaXiongLateHan",
+        "HuangfuSongLateHan",
+        "InterestReframingPersuasion",
+        "InterestStructuredAllianceFragility",
+        "LyuBu",
+        "MingqiLegitimacy",
+        "RomanceOfTheThreeKingdoms",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "XuRongLateHan",
+        "YangrenBattleLateHan",
+        "YuanShu",
+        "ZuMaoLateHan",
+        "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf",
+        "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+        "zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju"
+      ]
+    },
+    {
+      "id": "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] cause of [[HanFuLateHan|韩馥]]'s collapse and the earlier [[DongZhuo|董卓]] court-terror setting. It adds [[GaoGanLateHan|高干]], [[XinPingLateHan|辛评]], [[GengWuLateHan|耿武]], [[MinChunLateHan|闵纯]], [[LiLiHanFuRetainer|李历]], [[ZhaoFuLateHan|赵浮]], [[ChengHuanLateHan|程奂]], [[PsychologicalSurrenderTrap|心理迫降陷阱]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]], while extending [[HuangfuSongLateHan|皇甫嵩]], [[CaiYong|蔡邕]], [[YuanShao|袁绍]], [[JizhouLateHan|冀州]], [[XunChenLateHan|荀谌]], [[GuoTu|郭图]], [[QuYiLateHan|麹义]], [[GongsunZan|公孙瓒]], [[ZhangYangLateHan|张杨]], [[YufuluoChanyu|于扶罗]], [[YeLateHan|邺城]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[TalentAsStateTreasure|以贤臣为宝]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Han Fu loses Jizhou before he formally loses office: Yuan Shao uses Qu Yi's rebellion, Gongsun Zan's approach, insider persuasion, and Xun Chen's comparative questioning to turn Han Fu's fear into voluntary surrender, while Han Fu ignores subordinates who correctly price Jizhou's troops and grain. No settled contradiction is recorded; the host's modern cognition hierarchy and motive judgments remain source-scoped, and Hanji 956 is treated as the precondition for Hanji 957's post-power safety collapse.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaiYong",
+        "ChengHuanLateHan",
+        "CourtFeedbackCollapse",
+        "DefensiveSpeechUnderTyranny",
+        "DongZhuo",
+        "GaoGanLateHan",
+        "GengWuLateHan",
+        "GongsunZan",
+        "GuoTu",
+        "HanFuLateHan",
+        "HuangfuSongLateHan",
+        "JizhouLateHan",
+        "LiLiHanFuRetainer",
+        "MinChunLateHan",
+        "PoliticalSurvivalFirst",
+        "PsychologicalSurrenderTrap",
+        "QuYiLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAsStateTreasure",
+        "XinPingLateHan",
+        "XingshiqingStrategicAssessment",
+        "XunChenLateHan",
+        "YeLateHan",
+        "YuanShao",
+        "YufuluoChanyu",
+        "ZhangYangLateHan",
+        "ZhaoFuLateHan",
+        "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+        "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo"
+      ]
+    },
+    {
+      "id": "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] late-Han coalition field. It adds [[AntiDongZhuoCoalition|反董卓联盟]], [[GongsunYueLateHan|公孙越]], [[GongsunFanLateHan|公孙范]], [[ZhouAngLateHan|周昂]], [[DongguangCountyLateHan|东光县]], and [[BohaiCommanderyLateHan|渤海郡]], while extending [[GongsunZan|公孙瓒]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[SunJianLateHan|孙坚]], [[LiuYuLateHan|刘虞]], [[EmperorXianOfHan|汉献帝]], [[DongZhuo|董卓]], [[LiuBei|刘备]], [[QingzhouYellowTurbans|青州黄巾军]], [[HeishanArmy|黑山军]], [[CommonEnemyAlliance|共同敌人联盟]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]]. Its core synthesis is that the anti-Dong-Zhuo front is already breaking before Dong Zhuo is gone: imperial rescue claims, office appointments, rear-base seizures, kinsman deaths, and commandery concessions all become private leverage, while Liu Bei's first appearance adds a low-resource reputation-and-restraint path into the same disorder. No settled contradiction is recorded; Gongsun Yue's death is preserved as fuse rather than sole cause, and Liu Bei's management-style reading remains source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "BohaiCommanderyLateHan",
+        "CommonEnemyAlliance",
+        "DongZhuo",
+        "DongguangCountyLateHan",
+        "EmperorXianOfHan",
+        "GongsunFanLateHan",
+        "GongsunYueLateHan",
+        "GongsunZan",
+        "HeishanArmy",
+        "InterestStructuredAllianceFragility",
+        "LiuBei",
+        "LiuYuLateHan",
+        "QingzhouYellowTurbans",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "YuanShao",
+        "YuanShu",
+        "ZhouAngLateHan",
+        "zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju",
+        "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq"
+      ]
+    },
+    {
+      "id": "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]], a [[TheRestIsHistory]] episode that backfills the pre-[[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496|episode 696]] Elizabethan escalation path through [[PhilipSidney|Sir Philip Sidney]], the [[DutchRevolt]], [[Antwerp]]'s fall, and the [[TreatyOfNonsuch]]. It adds [[PhilipSidney|Sir Philip Sidney]], [[RobertDudley|Robert Dudley / Earl of Leicester]], [[FrancisDrake]], [[PhilipII|Philip II]], [[WilliamOfOrange|William of Orange]], [[AlexanderFarnese|Alexander Farnese / Duke of Parma]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[Antwerp]], [[Amsterdam]], [[TreatyOfNonsuch]], [[Flushing]], [[Zutphen]], [[StrategicInterventionThreshold]], and [[ProtestantHeroicMartyrdom]], while extending [[ElizabethI|Elizabeth I]], [[FrancisWalsingham]], [[England]], [[Spain]], [[Netherlands]], [[France]], [[SpanishArmada]], [[ChivalricTournamentCulture]], [[InterstateEconomicWarfare]], and [[ConfessionalWarEscalation]]. Its core synthesis is that England's move toward war is neither sudden zeal nor pure policy drift: Sidney's courtly-militant ambition, Parma's recovery of the southern Low Countries, Antwerp's commercial-political shock, Philip II's economic pressure, Drake's raids, and Elizabeth's limited treaty intervention together turn cold war into open conflict. No settled contradiction is recorded; Sidney's martyr significance is kept as symbolic memory rather than proof of decisive military command.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+        "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+        "AlexanderFarnese",
+        "Amsterdam",
+        "Antwerp",
+        "ChivalricTournamentCulture",
+        "ConfessionalWarEscalation",
+        "DutchRevolt",
+        "ElizabethI",
+        "England",
+        "Flushing",
+        "France",
+        "FrancisDrake",
+        "FrancisWalsingham",
+        "InterstateEconomicWarfare",
+        "LowCountries",
+        "Netherlands",
+        "PhilipII",
+        "PhilipSidney",
+        "ProtestantHeroicMartyrdom",
+        "RobertDudley",
+        "Spain",
+        "SpanishArmada",
+        "StrategicInterventionThreshold",
+        "TheRestIsHistory",
+        "TreatyOfNonsuch",
+        "WilliamOfOrange",
+        "Zutphen"
+      ]
+    },
+    {
+      "id": "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[CaoCao|曹操]]'s early [[DongCommandery|东郡]] command field before the Hanji 962-964 late-Han branch. It adds [[NeihuangBattleLateHan|内黄之战]], [[FanFangLateHan|范方]], [[SuiGuLateHan|眭固]], [[DongWuyangLateHan|东武阳]], [[DunqiuLateHan|顿丘]], [[IntegratedCommandCapacity|全维度统帅能力]], and [[RomanceOfTheThreeKingdoms|《三国演义》]], while extending [[ChengYu|程昱]], [[LiuDaiLateHan|刘岱]], [[YuanShao|袁绍]], [[GongsunZan|公孙瓒]], [[YuDuLateHan|于毒]], [[YufuluoChanyu|于扶罗]], [[SouthernXiongnu|南匈奴]], [[HeishanArmy|黑山军]], [[EncirclingWeiToRescueZhao|围魏救赵]], and [[AdviserStateArchitecture|谋士政权架构]]. Its core synthesis is that Cao Cao's early promise appears as integrated command rather than raw aggression: Cheng Yu reads alliance pressure before Cao Cao's camp absorbs him, and Cao Cao relieves Dong Wuyang by threatening Yu Du's base before turning the lifted siege into the Neihuang victory. No settled contradiction is recorded; the broad Cao Cao praise and Romance contrast remain source-scoped, and the Yu Du page is normalized to 于毒 while retaining the prior stable route.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "CaoCao",
+        "ChengYu",
+        "DongCommandery",
+        "DongWuyangLateHan",
+        "DunqiuLateHan",
+        "EncirclingWeiToRescueZhao",
+        "FanFangLateHan",
+        "GongsunZan",
+        "HeishanArmy",
+        "IntegratedCommandCapacity",
+        "LiuDaiLateHan",
+        "NeihuangBattleLateHan",
+        "RomanceOfTheThreeKingdoms",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "SuiGuLateHan",
+        "YuDuLateHan",
+        "YuanShao",
+        "YufuluoChanyu",
+        "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr"
+      ]
+    },
+    {
+      "id": "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] rupture between [[DongZhuo|董卓]] and [[LyuBu|吕布]]. It adds [[DongMinLateHan|董旻]], [[DongHuangLateHan|董璜]], [[YangZanLateHan|杨瓒]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]], while extending [[WangYunLateHan|王允]], [[HuangWanLateHan|黄琬]], [[ShiSunRuiLateHan|士孙瑞]], [[MeiwuFortress|郿坞]], [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]], and [[FortressSecurityIllusion|筑城避世安全幻觉]]. Its core synthesis is that in late Han China, Dong Zhuo's military-court security system is already internally failing before the ambush: family offices, fortress walls, and food stores cannot repair a close-guard relationship damaged by violence, fear of exposure, and Wang Yun's kinship-deflating persuasion. No settled contradiction is recorded; the episode backfills Hanji 963's access and motive preconditions rather than changing the assassination account.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DongHuangLateHan",
+        "DongMinLateHan",
+        "DongZhuo",
+        "FortressSecurityIllusion",
+        "HuangWanLateHan",
+        "LyuBu",
+        "MeiwuFortress",
+        "PersonalGuardAttackSurface",
+        "PersonalTrustPoliticalFragility",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "WangYunLateHan",
+        "YangZanLateHan",
+        "zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti",
+        "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk"
+      ]
+    },
+    {
+      "id": "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplying the direct 192 CE [[DongZhuo|董卓]] assassination source before the existing Hanji 964-967 aftermath branch. It adds [[CaiWenji|蔡文姬]] and [[PublicCorpseHumiliation|公开尸体羞辱]], while extending [[WangYunLateHan|王允]], [[LyuBu|吕布]], [[CaiYong|蔡邕]], [[ShiSunRuiLateHan|士孙瑞]], [[LiSuLateHan|李肃]], [[MaRidiLateHan|马日磾]], [[EmperorXianOfHan|汉献帝]], [[WeiyangPalace|未央宫]], [[ChangAnHanCapital|长安]], [[MeiwuFortress|郿坞]], [[HistoricalRecordAuthority|史官记录话语权]], [[PostSuccessArrogance|得势后的骄傲]], and [[AssassinationAccessCredential|刺杀接近凭证]]. Its core synthesis is that Dong Zhuo's death is a controlled court-access assassination that immediately spills into public revenge and memory politics, while Wang Yun's execution of Cai Yong shows the new victor fearing historical judgment before he has solved the remnant-force crisis developed in Hanji 964-965. No settled contradiction is recorded; corpse-burning detail, Wang Yun dialogue, and motive analysis remain source-scoped dramatic interpretation.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AssassinationAccessCredential",
+        "CaiWenji",
+        "CaiYong",
+        "ChangAnHanCapital",
+        "DongZhuo",
+        "EmperorXianOfHan",
+        "HistoricalRecordAuthority",
+        "LiSuLateHan",
+        "LyuBu",
+        "MaRidiLateHan",
+        "MeiwuFortress",
+        "PostSuccessArrogance",
+        "PublicCorpseHumiliation",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "WangYunLateHan",
+        "WeiyangPalace",
+        "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk"
+      ]
+    },
+    {
+      "id": "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] Wang Yun/Lü Bu conflict and the pre-[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] Yanzhou-Qingzhou Yellow Turban field. It adds [[CaiYong|蔡邕]], [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], [[QingzhouYellowTurbans|青州黄巾军]], [[PostSuccessArrogance|得势后的骄傲]], and [[ResourceAsymmetryAttrition|资源不对称消耗战]], while extending [[WangYunLateHan|王允]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[YanzhouLateHan|兖州]], [[QingzhouLateHan|青州]], [[QingzhouSoldiers|青州兵]], [[DefeatedPopulationConversion|降众资源化]], [[HistoricalRecordAuthority|史官记录话语权]], and [[RootBasePriority|根本根据地优先]]. Its core synthesis is that success without restraint can turn opportunity into exposure: Wang Yun's reputation anxiety makes Cai Yong dangerous, Liu Dai's status-driven sortie ignores Bao Xin's material logic, Cao Cao's Yanzhou foothold begins as local crisis succession, and Lü Bu's real merit loses relational force when repeatedly displayed. No settled contradiction is recorded; Wang Yun's motive analysis and the transcript's \"成公\" rendering remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BaoXin",
+        "CaiYong",
+        "CaoCao",
+        "DefeatedPopulationConversion",
+        "HistoricalRecordAuthority",
+        "LiuDaiLateHan",
+        "LyuBu",
+        "PostSuccessArrogance",
+        "QingzhouLateHan",
+        "QingzhouSoldiers",
+        "QingzhouYellowTurbans",
+        "ResourceAsymmetryAttrition",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "WanQianLateHan",
+        "WangYunLateHan",
+        "YanzhouLateHan",
+        "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq",
+        "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+        "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj"
+      ]
+    },
+    {
+      "id": "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-[[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] crisis after [[DongZhuo|董卓]]'s death. It adds [[NiuFuLateHan|牛辅]], [[LiSuLateHan|李肃]], [[DiscreetBenefactionDignity|沉默施恩的尊严保护]], and [[MilitaryCampPanic|军营夜惊群体恐慌]], while extending [[WangYunLateHan|王允]], [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[LyuBu|吕布]], [[HuangfuSongLateHan|皇甫嵩]], [[LiangzhouWarlordClique|凉州系军阀]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[ExecutorCharacterAdviceRisk]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[SituationalCharacterTests|五观识人法]], and [[DignityThroughSmallGifts|小礼物中的尊严]]. Its core synthesis is that Wang Yun's moral victory over Dong Zhuo fails to become a settlement: public virtue turns arrogant, amnesty and reassurance fail, frightened remnants keep troops as life insurance, Niu Fu's night-fright death exposes camp instability, and Jia Xu's survival advice becomes plausible precisely because the defeated side has no credible safe exit. No settled contradiction is recorded; the charity/dignity opening, cross-historical camp-panic examples, and Wang Yun character diagnosis remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "DignityThroughSmallGifts",
+        "DiscreetBenefactionDignity",
+        "DongZhuo",
+        "ExecutorCharacterAdviceRisk",
+        "GuoSiLateHan",
+        "HuangfuSongLateHan",
+        "JiaXu",
+        "LiJueLateHan",
+        "LiSuLateHan",
+        "LiangzhouWarlordClique",
+        "LyuBu",
+        "MilitaryCampPanic",
+        "NiuFuLateHan",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "SituationalCharacterTests",
+        "WangYunLateHan",
+        "XingshiqingStrategicAssessment",
+        "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+        "zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u"
+      ]
+    },
+    {
+      "id": "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the immediate [[ChangAnHanCapital|长安]] crisis before Hanji 967. It adds [[HuangWanLateHan|黄琬]], [[HuWencaiLateHan|胡文才]], [[YangZhengxiuLateHan|杨整修]], [[SongYiLateHan|宋翼]], [[WangHongLateHan|王宏]], [[ZhaoJianLateHan|赵戬]], and [[RigidObedienceCrisisFailure|危机僵化奉诏]], while extending [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], [[EmperorXianOfHan|汉献帝]], [[DongZhuo|董卓]], [[LiangzhouWarlordClique|凉州系军阀]], [[MingqiLegitimacy|名器合法性]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[ExecutorCharacterAdviceRisk]]. Its core synthesis is that the first post-Dong-Zhuo Chang'an collapse turns on crisis judgment under captured institutions: Jia Xu's advice saves desperate remnant commanders while enabling court coercion, Wang Yun fails to convert public loyalty into practical leverage, and Song Yi's formal obedience to an imperial summons destroys the outside deterrent Wang Hong still sees. No settled contradiction is recorded; the source's [[JinPingMei|《金瓶梅》]] opening about beauty, wisdom, and power is kept as source-scoped framing for leadership danger.",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "DongZhuo",
+        "EmperorXianOfHan",
+        "ExecutorCharacterAdviceRisk",
+        "FanChouLateHan",
+        "GuoSiLateHan",
+        "HuWencaiLateHan",
+        "HuangWanLateHan",
+        "JiaXu",
+        "JinPingMei",
+        "LiJueLateHan",
+        "LiangzhouWarlordClique",
+        "LyuBu",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "RigidObedienceCrisisFailure",
+        "RuiqiJiangtouZizhiTongjian",
+        "SongYiLateHan",
+        "WangHongLateHan",
+        "WangYunLateHan",
+        "XingshiqingStrategicAssessment",
+        "YangZhengxiuLateHan",
+        "ZhaoJianLateHan",
+        "zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u"
+      ]
+    },
+    {
+      "id": "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the immediate post-[[DongZhuo|董卓]] aftermath before Hanji 968-970. It adds [[WangYunLateHan|王允]], [[HuangfuSongLateHan|皇甫嵩]], [[MeritConcealmentSelfProtection]], and [[ExecutorCharacterAdviceRisk]], while extending [[ShiSunRuiLateHan|士孙瑞]], [[JiaXu|贾诩]], [[LyuBu|吕布]], [[YuanShu|袁术]], [[ZhangYangLateHan|张杨]], [[YuanShao|袁绍]], [[LiuBiao|刘表]], [[EmperorXianOfHan|汉献帝]], [[ChangAnHanCapital|长安]], [[HouHanshu|《后汉书》]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[DarkAdviserCraft|毒士灰度谋略]], [[GoodIntentionsPoliticalLimits]], and [[MingqiLegitimacy|名器合法性]]. Its core synthesis is that late-Han survival turns on controlled visibility and executor quality: Shi Sunrui is protected because public credit for killing Dong Zhuo does not attach to him, Jia Xu's counterattack advice saves Dong Zhuo's remnant commanders while helping unleash Chang'an catastrophe, and Lü Bu's loud credit claim alienates Yuan Shu before the Yuan Shao branch. No settled contradiction is recorded; Jia Xu's guilt/repair arc and the host's self-cultivation analogies remain source-scoped interpretation.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "DarkAdviserCraft",
+        "DongZhuo",
+        "EmperorXianOfHan",
+        "ExecutorCharacterAdviceRisk",
+        "GoodIntentionsPoliticalLimits",
+        "HouHanshu",
+        "HuangfuSongLateHan",
+        "JiaXu",
+        "LiuBiao",
+        "LyuBu",
+        "MeritConcealmentSelfProtection",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "WangYunLateHan",
+        "YuanShao",
+        "YuanShu",
+        "ZhangYangLateHan",
+        "zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3"
+      ]
+    },
+    {
+      "id": "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the pre-[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] foundation of [[CaoCao|曹操]]'s rise. It adds [[MaoJie|毛玠]], [[QingzhouSoldiers|青州兵]], and [[DefeatedPopulationConversion|降众资源化]], while extending [[QingzhouLateHan|青州]], [[TuntianSystem|屯田制]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[AdviserStateArchitecture|谋士政权架构]], [[DongZhaoLateHan|董昭]], [[ZhangYangLateHan|张杨]], [[HeneiCommandery|河内郡]], and [[ZhongYao|钟繇]]. Its core synthesis is that Cao Cao's \"阳谋\" is an operating system: surrendered people become soldiers and producers, Mao Jie binds food to imperial legitimacy, and Dong Zhao plus Zhong Yao turn a principle into a fragile Henei-Chang'an court channel. No settled contradiction is recorded; Mao Jie's屯田 advice is treated as strategic prehistory while Hanji 1008 remains the formal Zao Zhi/Ren Jun implementation source.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "CaoCao",
+        "DefeatedPopulationConversion",
+        "DongZhaoLateHan",
+        "HeneiCommandery",
+        "LegitimacyWindowSeizure",
+        "MaoJie",
+        "QingzhouLateHan",
+        "QingzhouSoldiers",
+        "RuiqiJiangtouZizhiTongjian",
+        "TuntianSystem",
+        "ZhangYangLateHan",
+        "ZhongYao",
+        "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+        "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r"
+      ]
+    },
+    {
+      "id": "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that fills the pre-[[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] late-Han field through [[ZhongYao|钟繇]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[YangzhouLateHan|扬州]], and [[QingzhouLateHan|青州]]. It adds [[YangzhouLateHan|扬州]], [[QingzhouLateHan|青州]], [[YuanYiLateHan|袁遗]], [[ChenWenLateHan|陈温]], [[JianglingLateHan|江陵]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]], while extending [[CaoCao|曹操]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[GongsunZan|公孙瓒]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[ZhaoQiLateHan|赵岐]], [[MingqiLegitimacy|名器合法性]], [[CourtOfficeCapture|朝廷开府任官失序]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[WarDisasterCompounding]], and [[FamineEntitlementFailure]]. Its core synthesis is that late-Han power is being redistributed through three linked gaps: court titles still matter but flow through captured military channels, provincial offices such as Yangzhou cannot command territory without force, and long proxy war in Qingzhou turns elite rivalry into civilian famine. No settled contradiction is recorded; the source normalizes transcript homophones for 袁遗 and 陈瑀 while keeping the episode's claims source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChenWenLateHan",
+        "CourtOfficeCapture",
+        "FamineEntitlementFailure",
+        "GongsunZan",
+        "GuoSiLateHan",
+        "JianglingLateHan",
+        "LiJueLateHan",
+        "MingqiLegitimacy",
+        "QingzhouLateHan",
+        "RiverCorridorStrategicBase",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianKaiLateHan",
+        "WarDisasterCompounding",
+        "XingshiqingStrategicAssessment",
+        "YangzhouLateHan",
+        "YuanShao",
+        "YuanShu",
+        "YuanTan",
+        "YuanYiLateHan",
+        "ZhaoQiLateHan",
+        "ZhongYao",
+        "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+        "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs"
+      ]
+    },
+    {
+      "id": "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the northern late-Han branch before [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] and the later Yanzhou-Lü Bu sequence. It adds [[HeishanArmy|黑山军]], [[ZhangYanLateHan|张燕]], [[YuDuLateHan|余毒]], [[TaoShengLateHan|陶生]], [[WeiCommanderyLateHan|魏郡]], [[YeLateHan|邺城]], [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]], and [[CourtesyCoveredElimination|礼遇包装式清除]], while extending [[YuanShao|袁绍]], [[LyuBu|吕布]], [[ZhangYangLateHan|张杨]], [[GongsunZan|公孙瓒]], [[AssassinationAccessCredential|刺杀接近凭证]], [[CrisisDeceptionSurvival|临危欺敌求生]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]]. Its core synthesis is that common-enemy cooperation cannot by itself solve alliance security: Yuan Shao survives a Ye rear crisis through Tao Sheng's unexpected protection and then defeats Black Mountain forces, but his alliance with Lü Bu against Zhang Yan turns into an appointment-and-escort assassination attempt; Lü Bu's sound decoy and prepared escape show tactical alertness before he returns to Zhang Yang. No settled contradiction is recorded; the zither, tunnel, and weapon-slashing details remain source-scoped narrative evidence.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AssassinationAccessCredential",
+        "CourtesyCoveredElimination",
+        "CrisisDeceptionSurvival",
+        "GongsunZan",
+        "HeishanArmy",
+        "InterestStructuredAllianceFragility",
+        "LyuBu",
+        "PersonalTrustPoliticalFragility",
+        "RuiqiJiangtouZizhiTongjian",
+        "TaoShengLateHan",
+        "WeiCommanderyLateHan",
+        "YeLateHan",
+        "YuDuLateHan",
+        "YuanShao",
+        "YuanShaoLyuBuAssassinationAttempt",
+        "ZhangYanLateHan",
+        "ZhangYangLateHan",
+        "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+        "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku"
+      ]
+    },
+    {
+      "id": "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 193 CE [[YouzhouLateHan|幽州]] rupture before the already-ingested [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] backlash. It adds [[TianChou|田筹]], [[DuanXunLateHan|段迅]], [[JuyongPass|居庸关]], [[YoubeipingCommandery|右北平]], [[WuzhongCountyLateHan|无终县]], [[XuWuMountain|徐无山]], and [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]], while extending [[LiuYuLateHan|刘虞]], [[GongsunZan|公孙瓒]], [[YouzhouLateHan|幽州]], [[EmperorXianOfHan|汉献帝]], [[Wuhuan|乌桓]], [[GoodIntentionsPoliticalLimits]], [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], [[XunzianCommandRestraint|五权三制]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[AtrocityBackfireMobilization|暴行反噬式动员]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[PoliticalSurvivalFirst|安全第一政治生存]]. Its core synthesis is that Liu Yu's failure separates moral authority from command execution: a humane order not to burn and to kill only Gongsun Zan preserves civilian restraint but collapses without disciplined troops and siege means, while Gongsun Zan's coerced marketplace execution turns victory into a legitimacy wound that Tian Chou later channels into loyal rebuke and frontier legal order. No settled contradiction is recorded; the source backfills, rather than reverses, Hanji 998's revenge-coalition aftermath.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AtrocityBackfireMobilization",
+        "BenevolentCommandExecutionGap",
+        "ConfucianMilitaryIdealismLimits",
+        "DuanXunLateHan",
+        "EmperorXianOfHan",
+        "GongsunZan",
+        "GoodIntentionsPoliticalLimits",
+        "JuyongPass",
+        "LiuYuLateHan",
+        "PeopleBasedPoliticalSecurity",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianChou",
+        "Wuhuan",
+        "WuzhongCountyLateHan",
+        "XingshiqingStrategicAssessment",
+        "XuWuMountain",
+        "XunzianCommandRestraint",
+        "YoubeipingCommandery",
+        "YouzhouLateHan",
+        "zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2",
+        "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna"
+      ]
+    },
+    {
+      "id": "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the causal layer before [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]]'s Yanzhou warning scene. It adds [[BianRangLateHan|边让]], [[GaoRouLateHan|高柔]], [[XuSiLateHan|许汜]], [[WangKaiLateHan|王楷]], [[CaoRen|曹仁]], [[LocalEliteSecurityPanic|地方士族安全恐慌]], and [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]], while extending [[CaoCao|曹操]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[YuanShao|袁绍]], [[YanzhouLateHan|兖州]], [[Chenliu|陈留]], [[TuntianSystem|屯田制]], [[AdviserStateArchitecture|谋士政权架构]], [[RootBasePriority|根本根据地优先]], and [[LyuBuFactionalBalance|吕布集团派系平衡]]. Its core synthesis is that Cao Cao's Yanzhou collapse begins before the open rebellion: deep personal trust with Zhang Miao cannot survive Yuan Shao pressure, Lü Bu's alliance opening, and the local elite security panic triggered by Bian Rang's killing. No settled contradiction is recorded; Bian Rang chronology and the early屯田/land-clearance explanation remain source-scoped against the later formal屯田 account.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "BianRangLateHan",
+        "CaoCao",
+        "CaoRen",
+        "ChenGongLateHan",
+        "Chenliu",
+        "GaoRouLateHan",
+        "LocalEliteSecurityPanic",
+        "LyuBu",
+        "LyuBuFactionalBalance",
+        "PersonalTrustPoliticalFragility",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "TuntianSystem",
+        "WangKaiLateHan",
+        "XuSiLateHan",
+        "YanzhouLateHan",
+        "YuanShao",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd",
+        "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr"
+      ]
+    },
+    {
+      "id": "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the late-Han military-history warning step in [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] crisis before the Hanji 978-980 base-defense sequence. It adds [[DetailBasedCrisisDetection|细节式危机识别]], while extending [[XunYu|荀彧]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XiahouDun|夏侯惇]], [[JuanchengLateHan|鄄城]], [[PuyangLateHan|濮阳]], [[TianFengLateHan|田丰]], [[YuanShao|袁绍]], [[PowerEtiquetteReading|权力礼仪细读]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[BattlefieldInformationControl|战场信息控制]], [[RootBasePriority|根本根据地优先]], [[AdviserStateArchitecture|谋士政权架构]], and [[CourtFeedbackCollapse|君臣反馈失灵]]. Its core synthesis is that Cao Cao's Yanzhou survival starts before open combat: Xun Yu reads title avoidance, route mismatch, and rear vulnerability quickly enough to recall Xiahou Dun and protect Juancheng, while Tian Feng's grain-warning branch previews the problem of whether ruler-side judgment can convert adviser insight into action. No settled contradiction is recorded; the old-woman informant, street-rhyme, carved grain-label, and Xun Shu谣谶 details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "BattlefieldInformationControl",
+        "CaoCao",
+        "ChenGongLateHan",
+        "CourtFeedbackCollapse",
+        "DetailBasedCrisisDetection",
+        "JuanchengLateHan",
+        "LyuBu",
+        "PowerEtiquetteReading",
+        "PuyangLateHan",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianFengLateHan",
+        "XiahouDun",
+        "XingshiqingStrategicAssessment",
+        "XunYu",
+        "YanzhouLateHan",
+        "YuanShao",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr"
+      ]
+    },
+    {
+      "id": "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]], a [[TheRestIsHistory]] episode on [[MaryQueenOfScots|Mary, Queen of Scots]]' final months through the [[BabingtonPlot]], [[FrancisWalsingham]]'s [[SpyNetworkEntrapment|spy-network trap]], and execution at [[FotheringhayCastle]]. It adds [[MaryQueenOfScots]], [[ElizabethI]], [[FrancisWalsingham]], [[WilliamCecil]], [[AnthonyBabington]], [[GilbertGifford]], [[ThomasPhillips]], [[AmiasPaulet]], [[ChartleyManor]], [[FotheringhayCastle]], [[BabingtonPlot]], [[ActForTheQueensSafety]], [[SpanishArmada]], [[TudorSuccessionCrisis]], [[SpyNetworkEntrapment]], [[RoyalExecutionLegitimacy]], [[PoliticalTrialTheatre]], [[MartyrdomStaging]], and [[ConfessionalWarEscalation]], while extending [[TheRestIsHistory]], [[England]], and [[Spain]]. Its core synthesis is that Mary's execution is presented as the convergence of succession danger, confessional fear, intelligence method, legal mechanism, and scaffold symbolism: Walsingham's operation turns correspondence into evidence, Burleigh uses law to force the decision, Elizabeth hesitates over the precedent of killing an anointed queen, and Mary converts execution into Catholic martyrdom before the conflict widens toward the Spanish Armada. No settled contradiction is recorded; the new Armada link complements the existing [[England]] and [[SpanishArmada]] branch rather than replacing it with a single-cause explanation.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+        "ActForTheQueensSafety",
+        "AmiasPaulet",
+        "AnthonyBabington",
+        "BabingtonPlot",
+        "ChartleyManor",
+        "ConfessionalWarEscalation",
+        "ElizabethI",
+        "England",
+        "FotheringhayCastle",
+        "FrancisWalsingham",
+        "GilbertGifford",
+        "MartyrdomStaging",
+        "MaryQueenOfScots",
+        "PoliticalTrialTheatre",
+        "RoyalExecutionLegitimacy",
+        "Spain",
+        "SpanishArmada",
+        "SpyNetworkEntrapment",
+        "TheRestIsHistory",
+        "ThomasPhillips",
+        "TudorSuccessionCrisis",
+        "WilliamCecil"
+      ]
+    },
+    {
+      "id": "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the immediate pre-[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] [[YanzhouLateHan|兖州]] crisis. It adds [[GuoGongLateHan|郭贡]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[FanCountyLateHan|范县]], [[XiahouDun|夏侯惇]], and [[XuZhongJin|许众]], while extending [[XunYu|荀彧]], [[ChengYu|程昱]], [[CaoCao|曹操]], [[LyuBu|吕布]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[JuanchengLateHan|鄄城]], [[DongALateHan|东阿]], [[BattlefieldInformationControl|战场信息控制]], [[RootBasePriority|根本根据地优先]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[LoyaltyCollateralDilemma|忠义牵连困境]]. Its core synthesis is that Cao Cao's remaining base survives first through morale and perception control at Juancheng, then through local-prestige persuasion and hard alignment choices at Fan County and Dong'e. No settled contradiction is recorded; Xu Zhong's filial-duty criticism and the host's Liu Bang hostage comparison remain source-scoped moral readings.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BattlefieldInformationControl",
+        "CaoCao",
+        "ChenGongLateHan",
+        "ChengYu",
+        "DongALateHan",
+        "FanCountyLateHan",
+        "FanYiLateHan",
+        "GuoGongLateHan",
+        "JinYunLateHan",
+        "JuanchengLateHan",
+        "LoyaltyCollateralDilemma",
+        "LyuBu",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "XiahouDun",
+        "XingshiqingStrategicAssessment",
+        "XuZhongJin",
+        "XunYu",
+        "YanzhouLateHan",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+        "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis"
+      ]
+    },
+    {
+      "id": "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]] Yanzhou and Chang'an sequence. It adds [[CangtingFordLateHan|仓亭津]], [[DongALateHan|东阿]], [[JuanchengLateHan|鄄城]], [[HouWenLateHan|侯汶]], [[HandanShangLateHan|邯郸商]], [[YongzhouLateHan|雍州]], [[HexiFourCommanderiesLateHan|河西四郡]], and [[CourtOfficeCapture|朝廷开府任官失序]], while extending [[CaoCao|曹操]], [[ChengYu|程昱]], [[ZaoZhi|枣祗]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], [[EmperorXianOfHan|汉献帝]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], [[YangBiao|杨彪]], [[YangDingLateHan|杨定]], [[ChangAnHanCapital|长安]], [[RootBasePriority|根本根据地优先]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[MingqiLegitimacy|名器合法性]], [[FamineEntitlementFailure]], and [[DisasterResponseStateCapacity]]. Its core synthesis is that Cao Cao's survival before Puyang depends on local base-defense work at river, city, and people-organization levels, while the Chang'an court shows institutional hollowing through appointment capture and famine relief fraud. No settled contradiction is recorded; transcript names such as 陈玉, 早知, 李绝, 郭四, 侯文, and 韩丹商 are normalized to canonical late-Han pages while kept source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CangtingFordLateHan",
+        "CaoCao",
+        "ChangAnHanCapital",
+        "ChenGongLateHan",
+        "ChengYu",
+        "CourtOfficeCapture",
+        "DisasterResponseStateCapacity",
+        "DongALateHan",
+        "EmperorXianOfHan",
+        "FamineEntitlementFailure",
+        "FanChouLateHan",
+        "GuoSiLateHan",
+        "HandanShangLateHan",
+        "HexiFourCommanderiesLateHan",
+        "HouWenLateHan",
+        "JuanchengLateHan",
+        "LiJueLateHan",
+        "LyuBu",
+        "MingqiLegitimacy",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "YangBiao",
+        "YangDingLateHan",
+        "YanzhouLateHan",
+        "YongzhouLateHan",
+        "ZaoZhi",
+        "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis",
+        "zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg"
+      ]
+    },
     {
       "id": "0bf73492bacd0b1245dc3c3515daa57be1572f90b11b56b9b8ad51352383debe",
       "primary_topic": "history-and-geopolitics",
@@ -4949,6 +5785,32 @@
         "SoftwareMaintenanceRevenueCompression",
         "Tesla",
         "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260"
+      ]
+    },
+    {
+      "id": "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] late-Han source adds a compact prelude to the wiki's Cao Cao/Yuan Shao and Xuzhou branches. [[ChengYu|程昱]] turns [[CaoCao|曹操]]'s fear after [[YanzhouLateHan|兖州]] losses into refusal of [[HostageBackedDependencyTrap|家属质押式依附陷阱]], while [[LiuZhang|刘璋]] inheriting [[YizhouLateHan|益州]] and losing [[GanNing|甘宁]] through [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] show that political survival depends on both corrective advice and elite integration. The same source backfills [[TaoQianLateHan|陶谦]]'s handoff and [[LiuBei|刘备]]'s hesitation before [[LocalEliteProxySelection|地方豪强代理人选择]] explains the Xuzhou choice in Hanji 982.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChengYu",
+        "GanNing",
+        "HostageBackedDependencyTrap",
+        "ImportedTroopsLocalEliteCleavage",
+        "LiuBei",
+        "LiuZhang",
+        "LocalEliteProxySelection",
+        "TaoQianLateHan",
+        "YanzhouLateHan",
+        "YizhouLateHan",
+        "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth"
       ]
     }
   ],

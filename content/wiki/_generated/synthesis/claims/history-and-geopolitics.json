@@ -2,6 +2,349 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-dong-zhuo-deposition-precedes-coalition-fracture",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 948 and backfills the immediate court-seizure prelude before Hanji 950's coalition-outrage branch.",
+        "The source treats appointments, scholar prestige, and Party Prohibition rehabilitation as legitimacy packaging after coercion rather than as evidence of stable acceptance.",
+        "Lu Zhi / 卢植 is kept distinct from [[LuZhi|吕雉]]."
+      ],
+      "statement": "Hanji 948 pushes the late-Han [[DongZhuo]] branch before coalition formation: Dong Zhuo deposes [[LiuBianHongnongWang]], installs [[EmperorXianOfHan]], intimidates [[YuanShao]] and [[LuZhiLateHan]], poisons [[EmpressDowagerHe]], punishes the He-family network through [[HeMiaoLateHan]] and [[WuyangJun]], and pairs [[NiuFuLateHan]]'s [[HedongCommandery]] assignment against [[BaiboArmy]] with [[CoercedImperialReplacement]], [[MingqiLegitimacy]], and [[PartyProhibitionRehabilitation]], making dynastic rupture and legitimacy packaging the precondition for Hanji 950's coalition outrage.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk",
+        "DongZhuo",
+        "LiuBianHongnongWang",
+        "EmperorXianOfHan",
+        "YuanShao",
+        "LuZhiLateHan",
+        "EmpressDowagerHe",
+        "HeMiaoLateHan",
+        "WuyangJun",
+        "NiuFuLateHan",
+        "HedongCommandery",
+        "BaiboArmy",
+        "CoercedImperialReplacement",
+        "MingqiLegitimacy",
+        "PartyProhibitionRehabilitation",
+        "zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-anti-dong-coalition-is-fragile-at-formation",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 950 and precedes the Hanji 952 Luoyang destruction and Hanji 955/958 active-campaign fracture claims.",
+        "It treats the coalition as historically real opposition to Dong Zhuo while preserving the source's warning that shared outrage did not create unified command.",
+        "Bao Xin's reading of Cao Cao and Zheng Tai's diagnosis of allied weakness remain source-scoped interpretations."
+      ],
+      "statement": "Hanji 950 pushes the anti-[[DongZhuo]] branch back to coalition formation: Guandong commanders choose [[YuanShao]] as盟主, figures including [[WangKuangLateHan]], [[KongZhouLateHan]], and [[QiaoMaoLateHan]] help populate a broad [[AntiDongZhuoCoalition]], [[BaoXin]] already sees [[CaoCao]] as the stronger future executor, Dong Zhuo's killing of [[LiuBianHongnongWang]] through [[LiRuLateHan]] intensifies dynastic outrage, and [[ZhengTaiLateHan]] frames the [[CommonEnemyAlliance]] as fragile before the later military fractures appear.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr",
+        "DongZhuo",
+        "YuanShao",
+        "WangKuangLateHan",
+        "KongZhouLateHan",
+        "QiaoMaoLateHan",
+        "AntiDongZhuoCoalition",
+        "BaoXin",
+        "CaoCao",
+        "LiuBianHongnongWang",
+        "LiRuLateHan",
+        "ZhengTaiLateHan",
+        "CommonEnemyAlliance"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-luoyang-destruction-and-sun-jian-prehistory-complicate-anti-dong-memory",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 952 and backfills the field before Hanji 953 and Hanji 955 rather than revising those later coalition and battlefield claims.",
+        "The Zhang Zi name is normalized cautiously from the source's 张姿 rendering, and Wang Rui is kept under the source spelling with a semantic suffix.",
+        "The claim distinguishes the historical anti-Dong-Zhuo target from the morally compromised local means already visible among some anti-Dong actors."
+      ],
+      "statement": "Hanji 952 pushes the anti-Dong branch earlier: [[DongZhuo]]'s burning of [[LuoyangLateHan]], [[TombDesecrationPoliticalViolence]], captive burning, and Yuan-clan killing define the tyrant target before [[AntiDongZhuoCoalition]] camp politics; meanwhile [[SunJianLateHan]] enters the field through [[CaoYinLateHan]]'s forged order against [[WangRuiLateHan]], grain coercion against [[ZhangZiLateHan]], and [[YuanShu]] patronage, so the later anti-Dong campaign memory starts from both real outrage and compromised local violence.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj",
+        "DongZhuo",
+        "LuoyangLateHan",
+        "TombDesecrationPoliticalViolence",
+        "AntiDongZhuoCoalition",
+        "SunJianLateHan",
+        "CaoYinLateHan",
+        "WangRuiLateHan",
+        "ZhangZiLateHan",
+        "YuanShu",
+        "WarDisasterCompounding",
+        "PublicCorpseHumiliation"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-sun-jian-campaign-exposes-coalition-and-memory-fault-lines",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 955 and backfills the 191 CE anti-Dong-Zhuo campaign before Hanji 956 and Hanji 958 rather than replacing those later coalition and court-terror branches.",
+        "The Hua Xiong attribution correction is treated as a literary-memory boundary, not as a complete reassessment of Guan Yu or Romance of the Three Kingdoms.",
+        "The host's workplace and self-cultivation analogies remain source-scoped interpretation rather than independent causal evidence."
+      ],
+      "statement": "Hanji 955 backfills the active anti-[[DongZhuo]] front before Hanji 958: [[SunJianLateHan]] is defeated by [[XuRongLateHan]], saved through [[ZuMaoLateHan]]'s decoy, then regroups at [[YangrenBattleLateHan]] where [[LyuBu]]'s sabotage of [[HuZhenLateHan]] helps Sun Jian kill [[HuaXiongLateHan]]; [[YuanShu]]'s grain cutoff shows [[AntiDongZhuoCoalition]] and [[CommonEnemyAlliance]] already constrained by [[InterestStructuredAllianceFragility]], while Sun Jian's map-based reply becomes [[InterestReframingPersuasion]] and the later [[HeirloomImperialSeal]] discovery opens an earlier [[MingqiLegitimacy]] branch.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf",
+        "DongZhuo",
+        "SunJianLateHan",
+        "XuRongLateHan",
+        "ZuMaoLateHan",
+        "YangrenBattleLateHan",
+        "LyuBu",
+        "HuZhenLateHan",
+        "HuaXiongLateHan",
+        "YuanShu",
+        "AntiDongZhuoCoalition",
+        "CommonEnemyAlliance",
+        "InterestStructuredAllianceFragility",
+        "InterestReframingPersuasion",
+        "HeirloomImperialSeal",
+        "MingqiLegitimacy"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-anti-dong-coalition-fractures-before-victory",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 958 and backfills the coalition field before Hanji 959-960 rather than revising the later Jieqiao or Liu Yu backlash accounts.",
+        "Gongsun Yue's death is treated as the fuse for the Yuan Shao-Gongsun Zan rupture, while the deeper cause remains territorial and office competition.",
+        "The Liu Bei character and management-style reading in the same source remains source-scoped and is not treated as a complete explanation of his later rise."
+      ],
+      "statement": "Hanji 958 backfills the pre-Hanji 959 coalition field: [[AntiDongZhuoCoalition]] names [[DongZhuo]] as a common enemy, but [[YuanShao]], [[YuanShu]], [[SunJianLateHan]], and [[GongsunZan]] are already converting offices, rear bases, kinsman deaths, and commandery grants into private leverage; [[GongsunYueLateHan]] dies in the Yangcheng fight, [[GongsunFanLateHan]] defects with [[BohaiCommanderyLateHan]], and the source connects [[CommonEnemyAlliance]] to [[InterestStructuredAllianceFragility]] before the later northern-war branch.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju",
+        "AntiDongZhuoCoalition",
+        "DongZhuo",
+        "YuanShao",
+        "YuanShu",
+        "SunJianLateHan",
+        "GongsunZan",
+        "GongsunYueLateHan",
+        "GongsunFanLateHan",
+        "BohaiCommanderyLateHan",
+        "CommonEnemyAlliance",
+        "InterestStructuredAllianceFragility"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-cao-cao-early-integrated-command-capacity",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 961 and backfills Cao Cao's early Dong Commandery command field before the already-ingested Hanji 962-964 late-Han sequence.",
+        "The episode's broad praise of Cao Cao, its Romance contrast, and the Yu Du name normalization are preserved as source-scoped interpretation rather than settled cross-source correction.",
+        "The claim complements later Yanzhou succession, Qingzhou conversion, and Cao Cao discipline/adviser-system claims rather than replacing them."
+      ],
+      "statement": "Hanji 961 backfills [[CaoCao]]'s early [[DongCommandery]] command before the later Yanzhou branch: [[ChengYu]] reads [[LiuDaiLateHan]]'s alliance pressure between [[YuanShao]] and [[GongsunZan]], while Cao Cao at [[DunqiuLateHan]] avoids direct relief of [[DongWuyangLateHan]], threatens [[YuDuLateHan]]'s base, and then defeats [[SuiGuLateHan]] and [[YufuluoChanyu]] at [[NeihuangBattleLateHan]], making [[IntegratedCommandCapacity]], [[EncirclingWeiToRescueZhao]], and emerging [[AdviserStateArchitecture]] visible before the later state-building sequence.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+        "CaoCao",
+        "DongCommandery",
+        "ChengYu",
+        "LiuDaiLateHan",
+        "YuanShao",
+        "GongsunZan",
+        "DunqiuLateHan",
+        "DongWuyangLateHan",
+        "YuDuLateHan",
+        "SuiGuLateHan",
+        "YufuluoChanyu",
+        "NeihuangBattleLateHan",
+        "IntegratedCommandCapacity",
+        "EncirclingWeiToRescueZhao",
+        "AdviserStateArchitecture"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-dong-zhuo-guard-rupture-preconditions-assassination",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 962 and backfills the pre-Hanji-963 relationship and security precondition rather than the assassination scene itself.",
+        "The episode records no settled contradiction with Hanji 963; it explains access and motive preconditions rather than changing the later court-access assassination account."
+      ],
+      "statement": "Hanji 962 makes [[DongZhuo]]'s pre-assassination security failure visible before Hanji 963: family offices through [[DongMinLateHan]] and [[DongHuangLateHan]], fallback confidence in [[MeiwuFortress]], and planning by [[WangYunLateHan]], [[HuangWanLateHan]], [[ShiSunRuiLateHan]], and [[YangZanLateHan]] all converge on [[LyuBu]], whose close-guard relationship becomes [[PersonalGuardAttackSurface]] after violence, exposure fear, and Wang Yun's kinship-deflating persuasion expose [[PersonalTrustPoliticalFragility]] and [[FortressSecurityIllusion]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti",
+        "DongZhuo",
+        "DongMinLateHan",
+        "DongHuangLateHan",
+        "MeiwuFortress",
+        "WangYunLateHan",
+        "HuangWanLateHan",
+        "ShiSunRuiLateHan",
+        "YangZanLateHan",
+        "LyuBu",
+        "PersonalGuardAttackSurface",
+        "PersonalTrustPoliticalFragility",
+        "FortressSecurityIllusion"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-dong-zhuo-assassination-creates-memory-and-settlement-risk",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 963 and backfills the direct 192 CE assassination prelude before the Hanji 964-967 Dong Zhuo aftermath branch.",
+        "Corpse-burning detail, Wang Yun dialogue, and motive analysis remain source-scoped dramatic interpretation rather than settled independent findings.",
+        "The claim adds the assassination, public-revenge, and historian-silencing layer without replacing Hanji 965's remnant-settlement crisis or later Li-Guo counterattack accounts."
+      ],
+      "statement": "Hanji 963 moves the [[DongZhuo]] branch back from aftermath to assassination: [[WangYunLateHan]] and [[LyuBu]] use [[EmperorXianOfHan]]'s [[WeiyangPalace]] court meeting, [[ShiSunRuiLateHan]]'s edict, and [[LiSuLateHan]]'s gate strike as [[AssassinationAccessCredential]], but the victory immediately becomes [[PublicCorpseHumiliation]] and memory politics through [[ChangAnHanCapital]], [[MeiwuFortress]], [[CaiYong]], [[MaRidiLateHan]], [[CaiWenji]], [[HistoricalRecordAuthority]], and [[PostSuccessArrogance]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk",
+        "DongZhuo",
+        "WangYunLateHan",
+        "LyuBu",
+        "EmperorXianOfHan",
+        "WeiyangPalace",
+        "ShiSunRuiLateHan",
+        "LiSuLateHan",
+        "AssassinationAccessCredential",
+        "PublicCorpseHumiliation",
+        "ChangAnHanCapital",
+        "MeiwuFortress",
+        "CaiYong",
+        "MaRidiLateHan",
+        "CaiWenji",
+        "HistoricalRecordAuthority",
+        "PostSuccessArrogance"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-success-without-restraint-turns-opportunity-into-exposure",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 964 and backfills the immediate pre-Hanji-965 Wang Yun/Lü Bu conflict and pre-Hanji-968 Yanzhou-Qingzhou Yellow Turban field.",
+        "Wang Yun's motive analysis, the Cai Yong historical-record reading, and the transcript's \"成公\" rendering remain source-scoped rather than settled independent findings.",
+        "The claim adds an earlier opportunity-and-restraint layer without replacing Hanji 965's remnant-settlement account or Hanji 968's Qingzhou surrender conversion account."
+      ],
+      "statement": "Hanji 964 makes early late-Han opportunity fragile when success outruns restraint: [[WangYunLateHan]]'s post-[[DongZhuo]] victory creates reputation anxiety around [[CaiYong]] and [[HistoricalRecordAuthority]], [[LiuDaiLateHan]] rejects [[BaoXin]]'s [[ResourceAsymmetryAttrition]] logic against [[QingzhouYellowTurbans]], [[CaoCao]] enters [[YanzhouLateHan]] through costly crisis succession before the later [[DefeatedPopulationConversion]] branch, and [[LyuBu]]'s public merit display turns real credit into [[PostSuccessArrogance]] and relational exposure.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq",
+        "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+        "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+        "WangYunLateHan",
+        "DongZhuo",
+        "CaiYong",
+        "HistoricalRecordAuthority",
+        "LiuDaiLateHan",
+        "BaoXin",
+        "ResourceAsymmetryAttrition",
+        "QingzhouYellowTurbans",
+        "CaoCao",
+        "YanzhouLateHan",
+        "DefeatedPopulationConversion",
+        "LyuBu",
+        "PostSuccessArrogance",
+        "QingzhouLateHan",
+        "QingzhouSoldiers",
+        "RootBasePriority"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-dong-zhuo-remnant-fear-makes-changan-counterattack-legible",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 965 and backfills the decision layer before the already-ingested Hanji 966 Changan collapse.",
+        "The charity and dignity opening, cross-historical camp-panic examples, and Wang Yun character diagnosis remain host interpretation rather than independently corroborated history.",
+        "The claim strengthens the Hanji 966 and Hanji 967 Jia Xu executor-risk branch without replacing those later outcome accounts."
+      ],
+      "statement": "Hanji 965 makes the Li-Guo counterattack legible before Hanji 966: after [[DongZhuo]] dies, [[WangYunLateHan]] cancels or refuses credible amnesty and rejects [[HuangfuSongLateHan]] as a reassurance channel, while [[LiangzhouWarlordClique]] commanders see disbanding as lethal exposure; [[NiuFuLateHan]] defeats [[LiSuLateHan]] but then dies after [[MilitaryCampPanic]], showing remnant instability, so [[JiaXu]] advice to [[LiJueLateHan]] and [[GuoSiLateHan]] to keep troops and attack [[ChangAnHanCapital]] becomes [[PoliticalSurvivalFirst]] even as it opens [[ExecutorCharacterAdviceRisk]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+        "zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u",
+        "DongZhuo",
+        "WangYunLateHan",
+        "HuangfuSongLateHan",
+        "LiangzhouWarlordClique",
+        "NiuFuLateHan",
+        "LiSuLateHan",
+        "MilitaryCampPanic",
+        "JiaXu",
+        "LiJueLateHan",
+        "GuoSiLateHan",
+        "ChangAnHanCapital",
+        "PoliticalSurvivalFirst",
+        "ExecutorCharacterAdviceRisk",
+        "XingshiqingStrategicAssessment",
+        "LyuBu"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-youzhou-victory-turns-into-legitimacy-backlash",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 972 and its relationship to the already-ingested Hanji 998 aftermath.",
+        "The episode host's too-soft diagnosis of Liu Yu is kept as source interpretation rather than an independent military verdict.",
+        "The claim backfills Hanji 998's revenge-coalition setting; it does not contradict that later account."
+      ],
+      "statement": "Hanji 972 backfills the 193 CE [[YouzhouLateHan]] rupture behind [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]]: [[GongsunZan]] defeats [[LiuYuLateHan]] near [[JuyongPass]] and executes him after coercing [[DuanXunLateHan]], but the killing turns victory into a legitimacy wound that [[TianChou]] channels through court mission, tomb rebuke, and [[XuWuMountain]] frontier settlement.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2",
+        "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna",
+        "YouzhouLateHan",
+        "GongsunZan",
+        "LiuYuLateHan",
+        "JuyongPass",
+        "DuanXunLateHan",
+        "TianChou",
+        "XuWuMountain",
+        "Wuhuan",
+        "AtrocityBackfireMobilization",
+        "PeopleBasedPoliticalSecurity",
+        "YoubeipingCommandery",
+        "WuzhongCountyLateHan"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-yanzhou-base-survival-begins-with-morale-and-alignment",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 975 and Hanji 978's immediate pre-Hanji-979 Yanzhou crisis.",
+        "Hanji 975's old-woman informant, street-rhyme, carved grain-label, and Xun Shu-derived谣谶 details remain source-scoped rather than settled causal evidence.",
+        "Xu Zhong's criticism of Jin Yun and the host's Liu Bang hostage comparison are preserved as moral readings, not as a contradiction of the base-survival sequence."
+      ],
+      "statement": "Hanji 975 and Hanji 978 backfill [[CaoCao]]'s [[YanzhouLateHan]] survival before the Cangting and Puyang branches: [[XunYu]] first uses [[DetailBasedCrisisDetection]] and [[PowerEtiquetteReading]] to read [[ZhangMiaoLateHan]] and [[ChenGongLateHan]]'s break from title avoidance and [[LyuBu]]'s route, recalls [[XiahouDun]] from [[PuyangLateHan]] to protect [[JuanchengLateHan]], then uses calm appearance to make [[GuoGongLateHan]] withdraw before [[ChengYu]] uses local prestige and [[XingshiqingStrategicAssessment]] to keep [[FanCountyLateHan]] through [[JinYunLateHan]]'s killing of [[FanYiLateHan]], while [[XuZhongJin]]'s later criticism turns the same act into a [[LoyaltyCollateralDilemma]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr",
+        "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+        "CaoCao",
+        "YanzhouLateHan",
+        "XunYu",
+        "DetailBasedCrisisDetection",
+        "PowerEtiquetteReading",
+        "ZhangMiaoLateHan",
+        "ChenGongLateHan",
+        "LyuBu",
+        "XiahouDun",
+        "PuyangLateHan",
+        "GuoGongLateHan",
+        "JuanchengLateHan",
+        "ChengYu",
+        "XingshiqingStrategicAssessment",
+        "FanCountyLateHan",
+        "JinYunLateHan",
+        "FanYiLateHan",
+        "XuZhongJin",
+        "LoyaltyCollateralDilemma",
+        "BattlefieldInformationControl",
+        "RootBasePriority"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-liangzhou-collapse-precedes-hostage-symmetry",
       "qualifications": [
         "This claim is source-scoped to Hanji 984's backfilled pre-Hanji-985 Chang'an branch.",
@@ -343,6 +686,31 @@
       ]
     },
     {
+      "global_candidate": false,
+      "id": "late-han-survival-needs-corrective-advice-and-elite-integration",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 981's backfilled pre-Hanji-982 late-Han branch.",
+        "The source treats Cheng Yu's advice, Yizhou succession, Gan Ning's departure, and Liu Bei's Xuzhou hesitation as connected survival cases rather than a complete biography of any actor."
+      ],
+      "statement": "Hanji 981 adds a compact late-Han prelude in which survival depends on both adviser correction and local coalition design: [[ChengYu]] blocks [[CaoCao]] from entering [[YuanShao]]'s [[HostageBackedDependencyTrap]], while [[LiuZhang]]'s inheritance of [[YizhouLateHan]] and the loss of [[GanNing]] through [[ImportedTroopsLocalEliteCleavage]] show how weak elite integration can undermine a region, and [[TaoQianLateHan]]'s handoff plus [[LiuBei]]'s hesitation makes [[LocalEliteProxySelection]] visible before the Xuzhou branch.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+        "ChengYu",
+        "CaoCao",
+        "YuanShao",
+        "HostageBackedDependencyTrap",
+        "LiuZhang",
+        "YizhouLateHan",
+        "GanNing",
+        "ImportedTroopsLocalEliteCleavage",
+        "TaoQianLateHan",
+        "LiuBei",
+        "LocalEliteProxySelection",
+        "YanzhouLateHan"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "warring-states-power-was-built-through-enforceable-systems",
       "qualifications": [
@@ -404,8 +772,104 @@
         "BritishArmy",
         "CivilRightsToStreetWarThreshold"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "tudor-confessional-succession-links-espionage-and-war",
+      "qualifications": [
+        "This claim is source-scoped to The Rest Is History episodes 695 and 696 and their interpretation of the Elizabethan escalation path.",
+        "The Low Countries intervention, Mary Stuart execution, Drake raids, and Armada link are preserved as escalation context rather than treated as a single-cause explanation of the 1588 invasion attempt.",
+        "Sidney's Protestant martyr afterlife is treated as symbolic memory, not proof that he was a decisive commander."
+      ],
+      "statement": "Episodes 695 and 696 together make the England-Spain branch a staged confessional escalation: [[Antwerp]], the [[DutchRevolt]], [[PhilipII]]'s pressure, [[FrancisDrake]]'s raids, and the [[TreatyOfNonsuch]] move [[ElizabethI]] and [[England]] past a [[StrategicInterventionThreshold]] in the [[LowCountries]], while [[BabingtonPlot]] and [[SpyNetworkEntrapment]] turn [[MaryQueenOfScots]] into actionable security danger before execution and [[ProtestantHeroicMartyrdom]] feed [[ConfessionalWarEscalation]] toward the [[SpanishArmada]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+        "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+        "TheRestIsHistory",
+        "ElizabethI",
+        "England",
+        "Spain",
+        "PhilipSidney",
+        "LowCountries",
+        "DutchRevolt",
+        "Antwerp",
+        "TreatyOfNonsuch",
+        "StrategicInterventionThreshold",
+        "FrancisDrake",
+        "PhilipII",
+        "MaryQueenOfScots",
+        "BabingtonPlot",
+        "FrancisWalsingham",
+        "SpyNetworkEntrapment",
+        "ConfessionalWarEscalation",
+        "ProtestantHeroicMartyrdom",
+        "SpanishArmada",
+        "TudorSuccessionCrisis"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-common-enemy-alliance-turns-into-assassination-risk",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 970 and backfills earlier northern conditions rather than revising Hanji 971 or the later Yanzhou sequence.",
+        "The source records no settled contradiction; the escape mechanics remain source-scoped narrative detail.",
+        "It treats Yuan Shao-Lü Bu cooperation as a short-lived battlefield alignment, not as a stable alliance system."
+      ],
+      "statement": "Hanji 970 backfills the northern late-Han line before the Yanzhou-Lü Bu sequence: [[YuanShao]] survives revolt pressure around [[WeiCommanderyLateHan]] and [[YeLateHan]] through [[TaoShengLateHan]], defeats [[HeishanArmy]] forces under [[YuDuLateHan]] and [[ZhangYanLateHan]] with [[LyuBu]] present, then converts a post-campaign appointment and escort into [[YuanShaoLyuBuAssassinationAttempt]]; Lü Bu survives through [[CrisisDeceptionSurvival]] and returns to [[ZhangYangLateHan]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+        "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku",
+        "YuanShao",
+        "WeiCommanderyLateHan",
+        "YeLateHan",
+        "TaoShengLateHan",
+        "HeishanArmy",
+        "YuDuLateHan",
+        "ZhangYanLateHan",
+        "LyuBu",
+        "YuanShaoLyuBuAssassinationAttempt",
+        "CrisisDeceptionSurvival",
+        "ZhangYangLateHan",
+        "InterestStructuredAllianceFragility",
+        "GongsunZan"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-provincial-title-power-needs-territorial-control",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 969 and its reading of the 193 CE Yuan-family, Yangzhou, and Qingzhou sequence.",
+        "It backfills Hanji 970 rather than replacing later Yuan Shu, Shouchun, and Sun Ce synthesis branches.",
+        "The source page normalizes transcript homophones around Yuan Yi and Chen Yu; this claim relies on the normalized wiki entities rather than treating transcript spellings as canonical."
+      ],
+      "statement": "Hanji 969 adds a pre-Hanji-970 late-Han layer in which court title, provincial office, route geography, and proxy war separate. [[ZhongYao]] can persuade [[LiJueLateHan]] and [[GuoSiLateHan]] to release [[CaoCao]]'s appointment, but [[YuanShao]] and [[YuanShu]]'s Yangzhou struggle after [[ChenWenLateHan]] through [[YuanYiLateHan]] shows office without territory; [[RiverCorridorStrategicBase]] explains why [[YangzhouLateHan]], [[Jingzhou]], and [[YizhouLateHan]] matter as route bases, while [[QingzhouLateHan]] turns the [[GongsunZan]]-Yuan Shao rivalry through [[TianKaiLateHan]], [[YuanTan]], and [[ZhaoQiLateHan]] into famine mediation under [[WarDisasterCompounding]] and [[FamineEntitlementFailure]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+        "ZhongYao",
+        "LiJueLateHan",
+        "GuoSiLateHan",
+        "CaoCao",
+        "YuanShao",
+        "YuanShu",
+        "ChenWenLateHan",
+        "YuanYiLateHan",
+        "RiverCorridorStrategicBase",
+        "YangzhouLateHan",
+        "Jingzhou",
+        "YizhouLateHan",
+        "QingzhouLateHan",
+        "GongsunZan",
+        "TianKaiLateHan",
+        "YuanTan",
+        "ZhaoQiLateHan",
+        "WarDisasterCompounding",
+        "FamineEntitlementFailure"
+      ]
     }
   ],
-  "summary": "Hanji 984 adds the immediate pre-Hanji-985 Chang'an rupture: the Liangzhou warlord bloc turns plunder and famine into Sanfu collapse, Fan Chou's prestige becomes purgeable after Li Li reports his Han Sui contact, and Li Xian's palace seizure starts protector-captor ambiguity before the dual-hostage stage. Hanji 986 adds the pre-Hanji 987 late-Han hinge: Li Jue's failed mediation shows feedback collapse around court hostages, and Cao Cao's Juye/Yanzhou recovery creates the Xuzhou temptation later disciplined by base-priority logic. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. Hanji 992 adds the pre-Jiangdong and pre-Xu-court legitimacy branch: Emperor Xian's Anyi court still carries title force despite ruined material capacity, Yuan Shao misses Ju Shou's legitimacy-window advice, and Sun Ce's modest mission succeeds because Zhou Yu and the Danyang network make it executable. Hanji 994 then turns the same Jiangdong line toward organization-building through Lu Fan's discipline work and staff-trust without ego threat. Across the topic, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.",
+  "summary": "Hanji 948 now pushes the anti-Dong-Zhuo branch back before coalition formation: Dong Zhuo forces the deposition of Liu Bian, installs Emperor Xian, confronts Yuan Shao and Lu Zhi, poisons Empress Dowager He, punishes the He-family network, assigns Niu Fu against the Baibo Army, and turns appointments plus Party Prohibition rehabilitation into legitimacy cover for dynastic rupture. Hanji 950 now pushes the anti-Dong-Zhuo branch back to its formation: Yuan Shao's prestige convenes the Guandong front before hierarchy coheres, Bao Xin identifies Cao Cao's latent command capacity, Dong Zhuo's killing of Liu Bian intensifies dynastic outrage, and Zheng Tai explains why a common enemy does not automatically make durable command. Hanji 952 now pushes the anti-Dong-Zhuo branch earlier than Hanji 955: Dong Zhuo burning Luoyang, tomb desecration, captive burning, and Yuan-clan killing define the tyrant target, while Sun Jian moves through forged authority, Wang Rui death, Zhang Zi grain refusal, and Yuan Shu patronage, making the later campaign memory morally compromised from the start. Hanji 955 now backfills the active anti-Dong-Zhuo campaign before Hanji 956 and Hanji 958: Sun Jian's defeat by Xu Rong, Zu Mao's decoy, the Yangren victory, Lü Bu's sabotage of Hu Zhen, Hua Xiong's death, Yuan Shu's grain cutoff, Sun Jian's interest-reframing reply, and the Luoyang seal discovery show front-line pressure, coalition fragility, and symbolic legitimacy entering the late-Han branch earlier than before. Hanji 958 now backfills the anti-Dong-Zhuo coalition field before Hanji 959-960: Gongsun Zan's Yellow Turban victory, Emperor Xian's diverted Liu Yu rescue request, Yuan Shu's troop play, Sun Jian's rear-base loss, Gongsun Yue's death, and Gongsun Fan's Bohai defection show a common-enemy front already turning into interest-structured alliance fragility before Dong Zhuo is removed. Episode 695 adds the pre-episode-696 Low Countries escalation path: Sidney's militant Protestant ambition, Antwerp's fall, the Dutch Revolt, Philip II's economic pressure, Drake's raids, and Elizabeth's limited Treaty of Nonsuch intervention turn cold war toward open Anglo-Spanish conflict while keeping Sidney's martyrdom symbolic rather than militarily decisive. Hanji 961 now places Cao Cao's early Dong Commandery field before the Hanji 962-964 branch: Cheng Yu's neutrality advice amid Yuan Shao-Gongsun Zan pressure and Cao Cao's Dunqiu-Dong Wuyang-Neihuang maneuver make integrated command, indirect relief, adviser absorption, and Yu Du/Yufuluo context visible before later Yanzhou succession and adviser-system claims. Hanji 962 then places the late-Han Dong Zhuo branch inside a prior close-guard rupture: family offices, Meiwu fallback logic, Wang Yun's planning circle, and Lü Bu's damaged guard relationship make the Hanji 963 assassination access and motive conditions legible before the killing scene. Hanji 963 anchors the assassination itself: Wang Yun and Lü Bu use court access, edict wording, Weiyang Palace security, and Li Su's strike to remove Dong Zhuo, while public corpse humiliation, Meiwu confiscation, and Cai Yong's historian-risk death turn victory into memory politics before Hanji 964-965's restraint and remnant-settlement problems. Hanji 964 then adds the pre-Hanji-965 and pre-Hanji-968 layer: Wang Yun's success without restraint, Liu Dai ignoring Bao Xin material attrition advice against Qingzhou Yellow Turbans, Cao Cao entering Yanzhou through crisis succession, and Lü Bu losing relational force by displaying real merit. Hanji 965 makes the Li-Guo counterattack legible through failed amnesty, rejected reassurance, Liangzhou remnant fear, Niu Fu camp panic, and Jia Xu survival advice. Hanji 969-981 connect Cao Cao, Yuan Shao, Yuan Shu, Lü Bu, Yanzhou, Xuzhou, Youzhou, Qingzhou, Yangzhou, and adviser correction into a field where titles, bases, grain, elite alignment, proxy selection, and reputation shape survival. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, protector-captor ambiguity, and symbolic title value into operational weakness. Hanji 992-1020 widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Cao Cao's discipline/adviser system, Yuan Shu title failure, Chen-family survival strategy, and local-order fragility. The topic also spans Warring States and Qin institutionalization, Elizabethan succession and confessional escalation, Northern Ireland partition dynamics, undersea-cable geopolitics, and handset ecosystem shifts; across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and situation-reading actors.",
   "topic_id": "history-and-geopolitics"
 }

@@ -40,8 +40,28 @@
         "CosmicHorror",
         "AntiAnthropocentricSatire"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "fictionalized-memory-needs-source-bound-attribution",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 955 and uses the Romance Hua Xiong scene as a negative evidence-boundary case.",
+        "It does not deny the cultural force of the Romance scene; it only rejects using that scene as direct event attribution.",
+        "The claim complements older fiction-as-evidence material by adding a Three Kingdoms attribution example rather than replacing the social-imagination method."
+      ],
+      "statement": "Hanji 955 adds a Three Kingdoms boundary case for [[FictionAsHistoricalEvidence]]: [[RomanceOfTheThreeKingdoms]] makes [[GuanYu]]'s killing of [[HuaXiongLateHan]] a durable literary memory, but the source-scoped historical attribution in this wiki branch credits [[SunJianLateHan]] at [[YangrenBattleLateHan]], so fiction can explain reception without serving as direct proof of the event.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf",
+        "FictionAsHistoricalEvidence",
+        "RomanceOfTheThreeKingdoms",
+        "GuanYu",
+        "HuaXiongLateHan",
+        "SunJianLateHan",
+        "YangrenBattleLateHan"
+      ]
     }
   ],
-  "summary": "The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, and agency rather than treating works only as plots or entertainment objects.",
+  "summary": "The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence.",
   "topic_id": "culture-and-media"
 }

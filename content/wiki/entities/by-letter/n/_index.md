@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7176
+wiki_total_pages: 7357
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "NeiheKonghuang"
     title: "内核恐慌"
     url: "/wiki/entities/neihekonghuang/"
+  - key: "NeihuangBattleLateHan"
+    title: "内黄之战 / Neihuang Battle (Late Han)"
+    url: "/wiki/entities/neihuangbattlelatehan/"
   - key: "NorthernSong"
     title: "北宋 / Northern Song"
     url: "/wiki/entities/northernsong/"
@@ -593,6 +596,9 @@ wiki_pages:
   - key: "NiuLiPartyStruggle"
     title: "牛李党争 / Niu-Li Party Struggle"
     url: "/wiki/entities/niulipartystruggle/"
+  - key: "NiuFuLateHan"
+    title: "牛辅 / Niu Fu (late Han)"
+    url: "/wiki/entities/niufulatehan/"
   - key: "NiuyueMantanlu"
     title: "纽约漫谈录 / Niuyue Mantanlu"
     url: "/wiki/entities/niuyuemantanlu/"

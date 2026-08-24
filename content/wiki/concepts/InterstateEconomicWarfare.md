@@ -2,8 +2,8 @@
 title: "Interstate Economic Warfare / 跨国经济战"
 type: concept
 tags: [economics, statecraft, warfare, pre-qin-history, spring-and-autumn]
-sources: [zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]
-last_updated: 2026-08-21
+sources: [695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]
+last_updated: 2026-08-25
 ---
 
 # Interstate Economic Warfare / 跨国经济战
@@ -16,6 +16,8 @@ The source gives two cases. In the cloth case, [[QiState|齐国]] first manufact
 
 This concept is adjacent to [[StrategicLuxurySabotage|strategic luxury sabotage]], but broader. The target does not need to become decadent; it only needs to reallocate labor and attention toward the buyer's artificially profitable demand. The decisive pressure then comes from food security, not from luxury itself.
 
+[[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds an early-modern maritime case. The hosts describe [[PhilipII|Philip II]]'s embargo on English vessels in Spanish and Portuguese ports as economic warfare against [[England]], while [[FrancisDrake]]'s raids on Spanish possessions answer by damaging Spanish interests and credit rather than winning a conventional European battle.
+
 ## Key Claims
 - Economic warfare can begin as apparently beneficial trade.
 - A hostile buyer can change an opponent's production structure by making one activity temporarily more profitable than staple production.
@@ -23,6 +25,7 @@ This concept is adjacent to [[StrategicLuxurySabotage|strategic luxury sabotage]
 - Population flight can be an economic-war outcome: people move toward the state where food and livelihood are more secure.
 - The source treats economic war as an extension of state capacity, not as a substitute for it; Qi can exploit others because Guan Zhong has already strengthened Qi's internal administration and economy.
 - The Hengshan case shows the military edge of the mechanism: economic distortion can prepare a direct attack instead of replacing war completely.
+- The Elizabethan case adds that embargoes and overseas raids can turn trade access, credit, and imperial vulnerability into prewar pressure.
 
 ## Connections
 - [[GuanZhong|管仲]], [[QiHuanGong|齐桓公]], and [[QiState|齐国]] - source strategist, ruler, and state.
@@ -32,3 +35,4 @@ This concept is adjacent to [[StrategicLuxurySabotage|strategic luxury sabotage]
 - [[HengshanState|恒山国]], [[HengshanEconomicWarfare|恒山之谋]], and [[PriceSignalResourceSteering|价格信号调控物流]] - Zhouji 75-4 arms-and-grain variant.
 - [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], [[StateResourceMonopoly|资源垄断式国家统制]], and [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]] - Guan Zhong's wider economic-statecraft branch.
 - [[EconomicSanctionsAsViolence]] and [[TradeReciprocityProtectionism]] - modern adjacent frames where economic tools also exert political pressure.
+- [[PhilipII|Philip II]], [[FrancisDrake]], [[England]], [[Spain]], and [[ConfessionalWarEscalation]] - early-modern maritime pressure branch added by episode 695.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2188
+topic_total_pages: 2192
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -3824,6 +3824,9 @@ topic_entities:
   - key: "Sinocism"
     title: "Sinocism"
     url: "/wiki/entities/sinocism/"
+  - key: "PhilipSidney"
+    title: "Sir Philip Sidney"
+    url: "/wiki/entities/philipsidney/"
   - key: "Skydance"
     title: "Skydance"
     url: "/wiki/entities/skydance/"
@@ -4280,6 +4283,9 @@ topic_entities:
   - key: "TrinityCollegeClimbingGuide"
     title: "《三一学院攀爬指南》 / Trinity College Climbing Guide"
     url: "/wiki/entities/trinitycollegeclimbingguide/"
+  - key: "RomanceOfTheThreeKingdoms"
+    title: "《三国演义》 / Romance of the Three Kingdoms"
+    url: "/wiki/entities/romanceofthethreekingdoms/"
   - key: "SangengBanyeJuranYaoChiXiangjiao"
     title: "《三更半夜居然要吃香蕉》"
     url: "/wiki/entities/sangengbanyejuranyaochixiangjiao/"
@@ -5765,6 +5771,12 @@ topic_entities:
   - key: "PuSongling"
     title: "蒲松龄 / Pu Songling"
     url: "/wiki/entities/pusongling/"
+  - key: "CaiWenji"
+    title: "蔡文姬 / Cai Wenji"
+    url: "/wiki/entities/caiwenji/"
+  - key: "CaiYong"
+    title: "蔡邕 / Cai Yong"
+    url: "/wiki/entities/caiyong/"
   - key: "BoJingSanlianCulture"
     title: "薄静 / Bo Jing"
     url: "/wiki/entities/bojingsanlianculture/"

@@ -2,11 +2,13 @@
 title: "Auspicious Omen Politics / 祥瑞政治"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+last_updated: 2026-08-25
 ---
 
 # Auspicious Omen Politics / 祥瑞政治
+
+[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds a boundary case from the negative side of omen politics. The prediction around [[ZhangWenLateHan|张温]] is not auspicious, but [[DongZhuo|董卓]] uses the same Heaven-linked sign infrastructure to turn a private or factional killing into something that appears cosmically prepared.
 
 Auspicious omen politics / 祥瑞政治 is the episode's mechanism for turning signs of cosmic approval into steps toward power. In [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]], yellow dragons, public petitions, "surveying customs," invented titles, and ritual architecture help [[WangMang|王莽]] move toward emperor status.
 
@@ -25,6 +27,7 @@ The source treats auspicious signs as institutional work, not just superstition.
 [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] adds a Warring States small-state example. A sparrow nest in [[SongState|宋国]] is interpreted as a weak bird producing a strong bird, encouraging [[SongJunYan|宋康王 / 宋君偃]] to read his expansion as a reversal of Song's weakness. The episode then shows the danger of that confidence: omen-backed ambition can intensify war-making without solving legitimacy or [[PeopleBasedPoliticalSecurity|people-based security]].
 
 ## Key Claims
+- Hanji 957 adds a negative boundary: omen politics can launder coercion even when the sign is a death prediction rather than a favorable祥瑞.
 - Auspicious signs can soften a political taboo by making change appear Heaven-approved.
 - Omen production creates incentives for exaggeration and fabrication around power.
 - Ritual projects and mass petitions make symbolic approval look bureaucratically real.
@@ -37,6 +40,7 @@ The source treats auspicious signs as institutional work, not just superstition.
 - Qinji 120-2 adds that older omen stories can be reactivated after victory to make a new dynastic virtue claim look historically prepared.
 
 ## Connections
+- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[DongZhuo|董卓]], [[ZhangWenLateHan|张温]], and [[OmenLaunderedPurge|天象包装式清洗]] - negative omen-politics boundary case.
 - [[WangMang]], [[WangZhengjun]], [[XinDynasty]], and [[XiangruiBook|《祥瑞》]] - source case.
 - [[ChenweiPolitics]], [[MandateOfHeavenLegitimacy]], and [[MoralReputationPoliticalCapital]] - enabling cluster.
 - [[QinShiHuang|秦始皇]], [[YinYangFivePhasesPoliticalTheory]], and [[ImmortalityQuestPolitics]] - Qin-Han sign and legitimacy extension.

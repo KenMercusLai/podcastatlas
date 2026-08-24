@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "BeltAndRoadExternalDemand"
     title: "Belt and Road External Demand"
     url: "/wiki/concepts/beltandroadexternaldemand/"
+  - key: "BenevolentCommandExecutionGap"
+    title: "Benevolent Command Execution Gap / 仁厚指挥执行缺口"
+    url: "/wiki/concepts/benevolentcommandexecutiongap/"
   - key: "Benfen"
     title: "Benfen / 本分"
     url: "/wiki/concepts/benfen/"

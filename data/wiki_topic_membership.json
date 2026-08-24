@@ -1631,6 +1631,20 @@
       "url": "/topics/culture/"
     }
   ],
+  "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "697-the-troubles-murder-in-belfast-part-1-glt4877520736": [
     {
       "key": "history",
@@ -4557,6 +4571,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ActForTheQueensSafety": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ActiveFundCrowding": [
     {
       "key": "economics",
@@ -6097,6 +6118,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Amsterdam": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AmyInvestmentABC": [
     {
       "key": "economics",
@@ -6726,6 +6754,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Antwerp": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "AnulaJayasuria": [
@@ -10474,6 +10509,20 @@
       "url": "/topics/politics/"
     }
   ],
+  "CaiWenji": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "CaiYong": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CaiZe": [
     {
       "key": "history",
@@ -13726,6 +13775,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ConfessionalWarEscalation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ConfidenceProfileTeamManagement": [
     {
       "key": "science",
@@ -16074,6 +16130,13 @@
     }
   ],
   "DefensiveLocalGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "DefensiveSpeechUnderTyranny": [
     {
       "key": "politics",
       "label": "Politics",
@@ -26263,6 +26326,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "HouHanshu": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HouSheng": [
     {
       "key": "history",
@@ -34974,6 +35044,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MartyrdomStaging": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MarvelCinematicUniverse": [
     {
       "key": "culture",
@@ -35752,6 +35829,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MeritConcealmentSelfProtection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MeritExcellenceIntelligence": [
     {
       "key": "technology",
@@ -36238,6 +36322,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MilitaryCampPanic": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MilitaryCivilianIntegration": [
@@ -39244,6 +39335,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "OmenLaunderedPurge": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OmerKhan": [
     {
       "key": "culture",
@@ -41234,6 +41332,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PhilipSidney": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PhilipZimbardo": [
     {
       "key": "science",
@@ -42092,6 +42197,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PoliticalTrialTheatre": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PoliticalTruthTelling": [
     {
       "key": "politics",
@@ -42310,6 +42422,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PostPowerSafetyCollapse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PostRestorationMeritThreat": [
@@ -43395,6 +43514,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PsychologicalSurrenderTrap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PsychometricSocialSorting": [
     {
       "key": "culture",
@@ -43458,6 +43584,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PublicCorpseHumiliation": [
     {
       "key": "politics",
       "label": "Politics",
@@ -46272,6 +46405,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RomanceOfTheThreeKingdoms": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RomanticDeathEscape": [
     {
       "key": "culture",
@@ -46409,6 +46549,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RoyalExecutionLegitimacy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RoyalMail": [
@@ -47089,6 +47236,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Sanguozhi": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SanlianLifeWeekly": [
@@ -50450,6 +50604,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SpyNetworkEntrapment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SriNarayanan": [
     {
       "key": "technology",
@@ -51365,6 +51526,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "StrategicInterventionThreshold": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "StrategicLuxurySabotage": [
@@ -58257,6 +58425,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WilliamCecil": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WilliamCraig": [
     {
       "key": "politics",
@@ -59664,6 +59839,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "XuZhongJin": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "XuanGuaiLu": [
@@ -67373,6 +67555,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "ResourceNetworkRepricing"
     title: "Resource Network Repricing / 资源网络重估"
     url: "/wiki/concepts/resourcenetworkrepricing/"
+  - key: "ResourceAsymmetryAttrition"
+    title: "Resource-Asymmetry Attrition / 资源不对称消耗战"
+    url: "/wiki/concepts/resourceasymmetryattrition/"
   - key: "ResourceBasedEconomicTransition"
     title: "Resource-Based Economic Transition"
     url: "/wiki/concepts/resourcebasedeconomictransition/"
@@ -518,6 +521,9 @@ wiki_pages:
   - key: "RighteousnessOverProfit"
     title: "Righteousness Over Profit / 义利之辨"
     url: "/wiki/concepts/righteousnessoverprofit/"
+  - key: "RigidObedienceCrisisFailure"
+    title: "Rigid Obedience Crisis Failure / 危机僵化奉诏"
+    url: "/wiki/concepts/rigidobediencecrisisfailure/"
   - key: "RiskParity"
     title: "Risk Parity"
     url: "/wiki/concepts/riskparity/"
@@ -551,6 +557,9 @@ wiki_pages:
   - key: "RitualizedMinisterHumiliation"
     title: "Ritualized Minister Humiliation / 礼节化臣属羞辱"
     url: "/wiki/concepts/ritualizedministerhumiliation/"
+  - key: "RiverCorridorStrategicBase"
+    title: "River Corridor Strategic Base / 长江走廊战略根据地"
+    url: "/wiki/concepts/rivercorridorstrategicbase/"
   - key: "RiverCrossingDeception"
     title: "River Crossing Deception / 渡河欺敌"
     url: "/wiki/concepts/rivercrossingdeception/"
@@ -668,6 +677,9 @@ wiki_pages:
   - key: "RoutineAgentAutomation"
     title: "Routine Agent Automation"
     url: "/wiki/concepts/routineagentautomation/"
+  - key: "RoyalExecutionLegitimacy"
+    title: "Royal Execution Legitimacy"
+    url: "/wiki/concepts/royalexecutionlegitimacy/"
   - key: "RSIData"
     title: "RSI Data"
     url: "/wiki/concepts/rsidata/"

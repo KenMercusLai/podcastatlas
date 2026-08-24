@@ -2,11 +2,15 @@
 title: "Famine Entitlement Failure"
 type: concept
 tags: [famine, disaster-history, economics, state-capacity]
-sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]
+sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]
 last_updated: 2026-08-24
 ---
 
 # Famine Entitlement Failure
+
+[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds a Qingzhou access-collapse case. The source presents cannibalism and bare fields after the long [[TianKaiLateHan|田楷]]-[[YuanTan|袁谭]] confrontation, but the immediate mechanism is that exhausted armies run out of grain and seize from ordinary people. Food failure here is therefore an entitlement and protection failure inside military competition, tied to [[WarDisasterCompounding]] rather than only aggregate scarcity.
+
+[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds a late-Han Chang'an relief-corruption case. Drought, earthquakes, grain prices, and cannibalism create the scarcity setting, but [[HouWenLateHan|侯汶]]'s failed rice-bean gruel distribution shows that access can collapse inside official relief as well as in markets or households. [[EmperorXianOfHan|汉献帝]] exposes the problem by testing the gruel ingredients directly.
 
 Famine entitlement failure is the episode's frame for why hunger can occur when food has not vanished completely. In [[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]], flood destroys harvests, lowers wages, raises grain prices, kills livestock, disrupts credit, and strips people of the production and exchange rights that let them obtain food.
 
@@ -19,6 +23,7 @@ The source uses the 1931 flood to separate starvation from simple food absence. 
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] adds a late-Han capital-collapse case. After [[EmperorXianOfHan|汉献帝]] leaves [[ChangAnHanCapital|长安]], the city is unmanaged, strong residents flee, weak residents remain, and the source reports cannibalism across the wider [[GuanzhongRegion|关中]] disaster. Here the access failure is political and physical as much as market-based: people without strength, mobility, protection, or supply channels cannot reach food.
 
 ## Key Claims
+- Hanji 979 adds that famine access failure can occur inside the relief channel itself when grain issued from storage is diverted, diluted, or blocked before reaching hungry people.
 - Hunger can follow from lost access, wages, credit, transport, or exchange power, not only from aggregate food shortage.
 - Livestock loss matters because animals are savings, labor, transport, fertilizer, and recovery capacity.
 - Relief rules that require labor or compliance can misread people whose immediate problem is starvation.
@@ -28,6 +33,8 @@ The source uses the 1931 flood to separate starvation from simple food absence. 
 - Hanji 992 adds that entitlement collapse can follow from lost protection and mobility when a capital's order disappears.
 
 ## Connections
+- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[QingzhouLateHan|青州]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], and [[WarDisasterCompounding]] - access collapse after prolonged proxy war.
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[ChangAnHanCapital|长安]], [[HouWenLateHan|侯汶]], [[EmperorXianOfHan|汉献帝]], and [[DisasterResponseStateCapacity|Disaster Response State Capacity]] - relief-grain audit and access failure.
 - [[DisasterReliefMismatch]] - relief can fail when it treats hunger as a moral or labor-discipline problem.
 - [[FinancialPowerAndStateCapacity]] - credit, debt, and state finance shape disaster recovery.
 - [[DisasterResponseStateCapacity]] and [[NationalistGovernment]] - institutional ability to distribute food and preserve health.

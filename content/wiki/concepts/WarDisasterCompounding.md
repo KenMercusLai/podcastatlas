@@ -2,11 +2,17 @@
 title: "War-Disaster Compounding"
 type: concept
 tags: [war, disaster-history, state-capacity, public-health]
-sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]
+last_updated: 2026-08-25
 ---
 
 # War-Disaster Compounding
+
+[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] adds the forced-relocation prelude to the later late-Han capital disasters. [[DongZhuo|董卓]]'s troops kill civilians during a Yangcheng community sacrifice, display heads as false rebel trophies, abduct women into the army, confiscate wealthy [[LuoyangLateHan|洛阳]] households, and drive the population west toward [[ChangAnHanCapital|长安]].
+
+This branch is disaster compounding without a natural hazard. The source shows war, policing, plunder, gendered vulnerability, and migration pressure producing mass civilian harm before later episodes describe burning, famine, and capital collapse.
+
+[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds a late-Han Qingzhou proxy-war case. [[TianKaiLateHan|田楷]] and [[YuanTan|袁谭]] fight for two years under the wider [[GongsunZan|公孙瓒]]-[[YuanShao|袁绍]] rivalry, and the source says armies exhaust food and begin taking from civilians until Qingzhou reaches reported cannibalism and bare-field conditions. The disaster is produced by war duration, competing appointments, and lost local protection, not by a single battlefield loss.
 
 War-disaster compounding is the pattern where armed conflict worsens a disaster by consuming resources, moving populations, damaging production, changing disease exposure, and weakening relief. [[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]] applies it to the 1931 flood by tying civil-war campaigns, troop extraction, refugee movement, suspected poisoning, and later disease spread into the flood story.
 
@@ -23,8 +29,11 @@ The source treats war as part of the disaster environment. [[JohnHopeSimpson]]'s
 - Public-health response becomes harder when people move through crowded, unsanitary, and politically contested spaces.
 - Hanji 155-1 adds that military mobilization can create famine directly by stripping agricultural labor before any relief system can act.
 - Hanji 984 adds that predatory occupation can compound famine even when population remains, because plunder destroys household access and protection.
+- Hanji 951 adds that forced relocation itself can become a war disaster when soldiers kill, abduct, confiscate, and drive civilians before the destination city's later collapse.
 
 ## Connections
+- [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[ChangAnHanCapital|长安]], [[CoerciveCapitalRelocation|强制迁都]], and [[WarGenderedCivilianHarm|war gendered civilian harm]] - forced migration, civilian killing, abduction, and confiscation before Luoyang's destruction.
+- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[QingzhouLateHan|青州]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[GongsunZan|公孙瓒]], and [[YuanShao|袁绍]] - proxy-war famine and civilian devastation.
 - [[NationalistGovernment]], [[Wuhan]], [[WuLiande]], and [[JohnHopeSimpson]] - source actors and setting.
 - [[DisasterResponseStateCapacity]] - relief and disease-control capacity under conflict.
 - [[WarAwareDisasterRecovery]] - adjacent modern continuity concept for treating war as a disaster scenario.

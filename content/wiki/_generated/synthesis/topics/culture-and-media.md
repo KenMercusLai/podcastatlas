@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-08-23
-as_of_overview_commit: b584e94806790866a5b885588a74974fcdf2a432
-input_digest: ac92f85bc02dc7935a3a50787fa764f90963e2455037d20cb071ed411d61a2ce
+last_updated: 2026-08-25
+as_of_overview_commit: 827aaf5e5fd676c711f51b8552487779264ff491
+input_digest: 596f8b551d65ac6932c2c0d3f5cafe5036ec7aac4ebe9ad99da659fdced2f7b0
 ---
 
 # Culture and Media
 
 ## Current State
 
-The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, and agency rather than treating works only as plots or entertainment objects.
+The cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, agency, and reception rather than treating works only as plots or entertainment objects. Hanji 955 adds that a famous fictionalized scene can preserve durable memory while still requiring source-bound attribution when used as historical evidence.
 
 ## Cross-source Findings
 
@@ -45,3 +45,15 @@ The cultural sources use literature, folklore, games, and media forms as tools f
 **Qualifications:**
 
 - This conclusion is concentrated in the Clark Ashton Smith material.
+
+### Fictionalized Memory Needs Source Bound Attribution
+
+Hanji 955 adds a Three Kingdoms boundary case for [[FictionAsHistoricalEvidence]]: [[RomanceOfTheThreeKingdoms]] makes [[GuanYu]]'s killing of [[HuaXiongLateHan]] a durable literary memory, but the source-scoped historical attribution in this wiki branch credits [[SunJianLateHan]] at [[YangrenBattleLateHan]], so fiction can explain reception without serving as direct proof of the event.
+
+**Evidence:** [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf]], [[FictionAsHistoricalEvidence]], [[RomanceOfTheThreeKingdoms]], [[GuanYu]], [[HuaXiongLateHan]], [[SunJianLateHan]], [[YangrenBattleLateHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 955 and uses the Romance Hua Xiong scene as a negative evidence-boundary case.
+- It does not deny the cultural force of the Romance scene; it only rejects using that scene as direct event attribution.
+- The claim complements older fiction-as-evidence material by adding a Three Kingdoms attribution example rather than replacing the social-imagination method.

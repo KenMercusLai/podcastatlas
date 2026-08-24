@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7176
+wiki_total_pages: 7357
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "MaryWollstonecraft"
     title: "Mary Wollstonecraft / 玛丽·沃斯通克拉夫特"
     url: "/wiki/entities/marywollstonecraft/"
+  - key: "MaryQueenOfScots"
+    title: "Mary, Queen of Scots"
+    url: "/wiki/entities/maryqueenofscots/"
   - key: "MarylandTransportationAuthority"
     title: "Maryland Transportation Authority"
     url: "/wiki/entities/marylandtransportationauthority/"
@@ -1223,6 +1226,9 @@ wiki_pages:
   - key: "MaoWenchao"
     title: "毛文超 / Mao Wenchao"
     url: "/wiki/entities/maowenchao/"
+  - key: "MaoJie"
+    title: "毛玠 / Mao Jie"
+    url: "/wiki/entities/maojie/"
   - key: "MaoSui"
     title: "毛遂 / Mao Sui"
     url: "/wiki/entities/maosui/"
@@ -1352,6 +1358,9 @@ wiki_pages:
   - key: "MeiwuFortress"
     title: "郿坞 / Meiwu Fortress"
     url: "/wiki/entities/meiwufortress/"
+  - key: "MinChunLateHan"
+    title: "闵纯 / Min Chun (late Han)"
+    url: "/wiki/entities/minchunlatehan/"
   - key: "Minyue"
     title: "闽越 / Minyue"
     url: "/wiki/entities/minyue/"
@@ -1364,6 +1373,9 @@ wiki_pages:
   - key: "Mapingguan"
     title: "马坪关 / Mapingguan"
     url: "/wiki/entities/mapingguan/"
+  - key: "MaYuLateHan"
+    title: "马宇 / Ma Yu (late Han)"
+    url: "/wiki/entities/mayulatehan/"
   - key: "MaShaonainaiLihun"
     title: "马少奶奶（《离婚》） / Ma Shaonainai"
     url: "/wiki/entities/mashaonainailihun/"

@@ -2,8 +2,8 @@
 title: "Li As Political Order / 礼制政治秩序"
 type: concept
 tags: [confucianism, governance, legitimacy, hierarchy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]
+last_updated: 2026-08-25
 ---
 
 # Li As Political Order / 礼制政治秩序
@@ -24,6 +24,8 @@ This case makes the concept more administrative than the Yan abdication case. �
 
 [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] adds a late-Han boundary-restraint version through [[LiuBiao|刘表]]. Liu Biao establishes learning and has court musicians prepare ritual music, but when warned that courtyard performance of that music is not proper for someone who is not the emperor, he stops. In this source, 礼 is not only performed order; it is also a limit on regional rulers' symbolic claims.
 
+[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] adds the negative mirror of that restraint. [[LiuYanLateHan|刘焉]] makes imperial-style carriage equipment in [[YizhouLateHan|益州]], and [[LiuBiao|刘表]] reports it as imitation of the emperor. The point is not only etiquette; if local people learn to recognize Liu Yan's symbols instead of [[EmperorXianOfHan|汉献帝]]'s, role order is being replaced by provincial autonomy.
+
 ## Key Claims
 - 礼 is treated as a practical rule system, not merely ritual decoration.
 - Role names matter because they tell officials, heirs, armies, and subjects whose authority they are recognizing.
@@ -34,6 +36,7 @@ This case makes the concept more administrative than the Yan abdication case. �
 - Hanji 176 adds the fully performed court-audience version and makes the concept ambivalent by pairing ritual order with ruler-minister distance.
 - Hanji 185 adds the Xinyu branch: civil learning and role order are presented as necessary because conquest habits cannot govern a dynasty by themselves.
 - Hanji 1010 adds ritual boundary restraint: not every refined or classical form is politically available to a non-imperial actor.
+- Hanji 959 adds that imperial-style objects used by a provincial ruler can signal the erosion of role order before formal usurpation.
 
 ## Connections
 - [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[LuJia|陆贾]], [[Xinyu|《新语》]], [[LiuBang|刘邦]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - civil-order warning that conquest on horseback cannot remain the governing model.
@@ -44,3 +47,4 @@ This case makes the concept more administrative than the Yan abdication case. �
 - [[RuleBreakingAbdication|破坏规则式禅让]] and [[GoodIntentionsPoliticalLimits]] - adjacent patterns around moralized political failure.
 - [[ConfucianIdealGovernance|儒家理想治理]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - broader Confucian and legitimacy cluster.
 - [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]], [[LiuBiao|刘表]], [[Jingzhou|荆州]], and [[DefensiveLocalGovernance|保境安民式守成治理]] - late-Han regional ruler respecting emperor-level ritual limits.
+- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[LiuYanLateHan|刘焉]], [[YizhouLateHan|益州]], and [[MingqiLegitimacy|名器合法性]] - regional overreach through emperor-level symbols.

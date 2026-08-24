@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "OmenCountermeasureMobility"
     title: "Omen Countermeasure Mobility / 游徙避命"
     url: "/wiki/concepts/omencountermeasuremobility/"
+  - key: "OmenLaunderedPurge"
+    title: "Omen-Laundered Purge / 天象包装式清洗"
+    url: "/wiki/concepts/omenlaunderedpurge/"
   - key: "OnDeviceFastSlowBrain"
     title: "On Device Fast Slow Brain"
     url: "/wiki/concepts/ondevicefastslowbrain/"

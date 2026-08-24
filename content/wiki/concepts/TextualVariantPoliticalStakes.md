@@ -2,7 +2,7 @@
 title: "Textual Variant Political Stakes / 史书异文政治重量"
 type: concept
 tags: [historiography, source-criticism, politics, chinese-history]
-sources: [zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-23
 ---
 
@@ -38,6 +38,8 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 
 [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]] adds an omission-rather-than-wording case. The host says [[ZizhiTongjian|《资治通鉴》]] deletes the [[GaixiaSong|《垓下歌》]] scene that [[Shiji|《史记》]] preserves. The political and literary stake is not a changed date or actor, but a changed reading of defeat: without the poem, [[XiangYu|项羽]] remains mostly a defeated commander; with it, the source can read [[FourSidedChuSongs|四面楚歌]], [[YuJi|虞姬]], and command despair as part of the same collapse.
 
+[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] adds a responsibility-changing variant between [[Sanguozhi|《三国志》]] and [[HouHanshu|《后汉书》]] over [[CaoSongMurder|曹嵩遇害]]. If [[TaoQianLateHan|陶谦]] sends cavalry, [[CaoCao|曹操]]'s Xuzhou attack reads more directly as retaliation for political murder; if [[ZhangKaiAssassin|张闿]] kills for loot while escorting, Tao Qian's responsibility is more indirect and the revenge campaign becomes a larger conversion of private grief into regional punishment.
+
 ## Key Claims
 - Omission can carry the same political and literary stakes as a wording variant when it changes whether a scene is read as bare event, command failure, or tragic self-revelation.
 - Source variants can alter who appears harmed, angry, guilty, or legitimate.
@@ -56,6 +58,7 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - Omen wording can change whether a transmitted sign reads as contemporaneous protest, later anti-regime memory, or a source-shaped narrative bridge to collapse.
 - A one-character geographic variant can reverse policy direction, changing a migration notice from removal-from-frontier into settlement-toward-frontier.
 - A full narrative variant can change whether succession is interpreted as forgery, emergency consultation, or unresolved source conflict.
+- A responsibility-changing variant can move guilt between superior command, subordinate greed, and later source tradition while leaving the same violent outcome in place.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[Shiji|《史记》]], and [[SimaGuang|司马光]] - source, variant, and compiler frame.
@@ -73,3 +76,4 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[OmenCountermeasureMobility|游徙避命]], and [[QinFrontierBufferManagement|秦国后方边患管理]] - 北河/河北 variant and migration-direction consequence.
 - [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], [[QinErshi|胡亥 / 秦二世]], [[FengQuji|冯去疾]], [[ForgedEdictSuccessionCoup|伪诏继位政变]], and [[EmergencySuccessionLegitimation|临终就近立储]] - accession narrative conflict and its political reading.
 - [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]], [[GaixiaSong|《垓下歌》]], [[FourSidedChuSongs|四面楚歌]], [[YuJi|虞姬]], and [[XiangYu|项羽]] - omission of a literary passage as a source-interpretation stake.
+- [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]], [[CaoSongMurder|曹嵩遇害]], [[Sanguozhi|《三国志》]], [[HouHanshu|《后汉书》]], [[TaoQianLateHan|陶谦]], and [[ZhangKaiAssassin|张闿]] - Cao Song responsibility variant.

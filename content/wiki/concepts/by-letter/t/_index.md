@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5320
+wiki_total_pages: 5367
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "TokugawaForeignTradeAmbivalence"
     title: "Tokugawa Foreign-Trade Ambivalence"
     url: "/wiki/concepts/tokugawaforeigntradeambivalence/"
+  - key: "TombDesecrationPoliticalViolence"
+    title: "Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力"
+    url: "/wiki/concepts/tombdesecrationpoliticalviolence/"
   - key: "ToolAIHumanControl"
     title: "Tool AI Human Control"
     url: "/wiki/concepts/toolaihumancontrol/"
@@ -575,6 +578,9 @@ wiki_pages:
   - key: "TryCatchFinallySelfManagement"
     title: "Try-Catch-Finally Self-Management / try-catch-finally 自我管理"
     url: "/wiki/concepts/trycatchfinallyselfmanagement/"
+  - key: "TudorSuccessionCrisis"
+    title: "Tudor Succession Crisis"
+    url: "/wiki/concepts/tudorsuccessioncrisis/"
   - key: "TumorMicroenvironment"
     title: "Tumor Microenvironment"
     url: "/wiki/concepts/tumormicroenvironment/"

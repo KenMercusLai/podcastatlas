@@ -2,7 +2,7 @@
 title: "Fixed Human Nature Politics"
 type: concept
 tags: [political-theory, human-nature, literature, identity]
-sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
 last_updated: 2026-08-24
 ---
 
@@ -15,6 +15,8 @@ The source contrasts this with an older political idea that people can be formed
 The concept does not deny human vice. It names the danger of making vice, nature, species, class, or identity so fixed that politics stops asking how people might become better.
 
 [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] adds a Han Fei version of the problem. The host begins from a severe claim that people often move by interest and calculation, then avoids turning that into total cynicism by stressing that Han Fei still recognized benevolent love and that trust-building examples such as [[XimuLixin|徙木立信]] matter. The source is useful here because it shows fixed-badness politics as a temptation: the late-Han narrative needs interest analysis, but the episode does not make interest the whole of human possibility.
+
+[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] adds a lighter Xunzian opening to the same caution. The host invokes "人性本恶" and says interest often reveals whether people act well or badly, but the historical section then differentiates motives rather than flattening every actor into one fixed essence: [[CaoCao|曹操]] protects recognized legitimacy, [[YuanShu|袁术]] protects ambition, and [[LiuYuLateHan|刘虞]] protects title purity and family safety.
 
 [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] extends the concept through [[CivilizationAsDeception]]. Its Rowlands reading also begins from a harsh account of the human animal, but it complicates fixed human exceptionalism by contrasting human social calculation with wolf directness, loyalty, and refusal to bully the weak.
 

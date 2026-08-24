@@ -2,11 +2,13 @@
 title: "未央宫 / Weiyang Palace"
 type: entity
 tags: [place, palace, western-han, changan]
-sources: [zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn]
+last_updated: 2026-08-25
 ---
 
 # 未央宫 / Weiyang Palace
+
+[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] adds a late-Han use of Weiyang Palace as assassination setting. [[EmperorXianOfHan|汉献帝]] holds court there after recovering from illness, while [[WangYunLateHan|王允]] and [[LyuBu|吕布]] use the palace access route to ambush [[DongZhuo|董卓]] at the north gate.
 
 未央宫 / Weiyang Palace enters the wiki through [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] as the palace [[LiuBang|刘邦]] orders built on the old Qin Zhangtai Palace base after the early [[WesternHanDynasty|西汉]] court has moved toward [[ChangAnHanCapital|长安]]. The episode says it is completed in Han year nine.
 
@@ -19,6 +21,7 @@ This makes Weiyang Palace a material sign that the Han founding order is moving 
 The host adds a source-scoped motive reading: Xiao He's explanation may be giving [[LiuBang|刘邦]] a respectable public justification for the imperial grandeur Liu Bang himself had long desired. Weiyang Palace therefore becomes not only infrastructure but a case where [[UntimelyExtravagance|时绌举赢]], imperial awe, and face-saving rhetoric collide.
 
 ## Connections
+- [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[DongZhuo|董卓]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], and [[AssassinationAccessCredential|刺杀接近凭证]] - late-Han palace access and assassination scene.
 - [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]], [[XiaoHe|萧何]], [[SimaGuang|司马光]], [[UntimelyExtravagance|时绌举赢]], and [[ZongzhengOffice|宗正]] - palace completion, moral criticism, and clan-office setup after entry.
 - [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] - source page.
 - [[LiuBang|刘邦]], [[ChangAnHanCapital|长安]], and [[WesternHanDynasty|西汉]] - founding ruler, capital, and dynasty.

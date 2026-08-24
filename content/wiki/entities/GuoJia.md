@@ -2,11 +2,15 @@
 title: "郭嘉 / Guo Jia"
 type: entity
 tags: [person, late-han, strategist, china]
-sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
+last_updated: 2026-08-24
 ---
 
 # 郭嘉 / Guo Jia
+
+[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] places Guo Jia inside Cao Cao's adviser "cloud platform" before the later detailed entry and sequencing episodes. In this source, [[XunYu|荀彧]] provides the structural and legitimacy layer while Guo Jia supplies surprising or risk-tolerant strategic judgment.
+
+The episode uses Guo Jia less as an independent biography than as proof that [[CaoCao|曹操]]'s strength is systemic. A durable adviser system can contain different styles at once, which makes Guo Jia part of [[AdviserStateArchitecture|谋士政权架构]] as well as the later [[TalentAsStateTreasure|以贤臣为宝]] and [[XingshiqingStrategicAssessment|行势情战略评估]] branches.
 
 [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] previews Guo Jia's arrival in [[CaoCao|曹操]]'s adviser system through [[XunYu|荀彧]]'s recommendation. The transcript appears to render his name as "过家"; the wiki normalizes cautiously to Guo Jia because the source places him as an Yingchuan adviser whom Cao Cao joyfully receives and makes military adviser, matching the following Hanji 1006 branch.
 
@@ -26,6 +30,7 @@ The source uses Guo Jia less as a biography than as a strategic-order node. His 
 
 ## Connections
 - [[CaoCao|曹操]] - ruler who recruits him in Hanji 1006 and receives his later advice.
+- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[XunYu|荀彧]], [[ChengYu|程昱]], and [[AdviserStateArchitecture|谋士政权架构]] - adviser-platform branch.
 - [[YuanShao|袁绍]] - earlier host whom Guo Jia rejects as unable to use people.
 - [[XunYou|荀攸]] - contrasting adviser style in Hanji 1006.
 - [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[XunYu|荀彧]], and [[Xudu|许都]] - recommendation and transcript-normalization branch.
