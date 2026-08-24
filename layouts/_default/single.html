@@ -29,9 +29,10 @@
           {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
           {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
         {{ end }}
-        {{ with .GetTerms "tags" }}
-          <span>Tags:
-            {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
+        {{ $topicMembership := index hugo.Data.wiki_topic_membership .File.BaseFileName }}
+        {{ with $topicMembership }}
+          <span>Topics:
+            {{ range $index, $topic := . }}{{ if $index }}, {{ end }}<a class="wiki-topic-link" data-topic-key="{{ $topic.key }}" href="{{ strings.TrimPrefix "/" $topic.url | relURL }}">{{ $topic.label }}</a>{{ end }}
           </span>
         {{ end }}
       </div>

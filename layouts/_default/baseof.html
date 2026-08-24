@@ -1,9 +1,11 @@
 <!doctype html>
+{{ $isLegacyTag := and (in (slice "taxonomy" "term") .Kind) (eq .Data.Plural "tags") }}
 <html lang="{{ .Site.Language.Locale | default "en" }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ partial "page-title.html" . }}</title>
+  {{ if $isLegacyTag }}<meta name="robots" content="noindex, follow">{{ end }}
   {{ partial "seo.html" . }}
   {{ $searchType := partial "search-type.html" . }}
   <meta data-pagefind-filter="type[content]" content="{{ $searchType }}">
@@ -348,7 +350,7 @@
     }
   </style>
 </head>
-<body>
+<body{{ if $isLegacyTag }} data-pagefind-ignore="all"{{ end }}>
   <header class="site-header" data-pagefind-ignore="all">
     <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
     <nav class="site-nav" aria-label="Primary">

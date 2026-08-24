@@ -23,6 +23,13 @@ REQUIRED_FILES = (
     "shows/index.html",
     "wiki/index.html",
     "wiki/current-synthesis/index.html",
+    "topics/index.html",
+    "topics/technology/index.html",
+    "topics/economics/index.html",
+    "topics/history/index.html",
+    "topics/politics/index.html",
+    "topics/culture/index.html",
+    "topics/science/index.html",
     "search/index.html",
     "about/index.html",
     "about/index.md",
@@ -49,7 +56,16 @@ METADATA_PAGE_FILES = (
     "tags/index.html",
     "wiki/index.html",
     "wiki/current-synthesis/index.html",
+    "topics/index.html",
     "search/index.html",
+)
+CONTROLLED_TOPIC_KEYS = (
+    "technology",
+    "economics",
+    "history",
+    "politics",
+    "culture",
+    "science",
 )
 METADATA_PATTERNS = {
     "canonical link": re.compile(r'<link\b[^>]*\brel=(?:["\']canonical["\']|canonical)', re.I),
@@ -203,6 +219,7 @@ class PublicLinkParser(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.has_github_link = False
+        self.has_raw_tag_link = False
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if tag.lower() != "a":
@@ -215,14 +232,49 @@ class PublicLinkParser(HTMLParser):
         normalized = normalized.replace("\\", "/")
         normalized = re.sub(r"^(https?):/*", r"\1://", normalized, flags=re.I)
         try:
-            hostname = unquote(urlsplit(normalized).hostname or "").lower()
+            parsed = urlsplit(normalized)
+            hostname = unquote(parsed.hostname or "").lower()
+            url_path = unquote(parsed.path)
         except ValueError:
             return
+        if re.search(r"(?:^|/)tags(?:/|$)", url_path.lstrip("/")):
+            self.has_raw_tag_link = True
         hostname = hostname.translate(
             str.maketrans({"。": ".", "．": ".", "｡": "."})
         ).rstrip(".")
         if hostname == "github.com" or hostname.endswith(".github.com"):
             self.has_github_link = True
+
+
+class MarkerParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.elements: list[dict[str, str]] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = {name: value or "" for name, value in attrs}
+        classes = set(attributes.get("class", "").split())
+        if classes.intersection(
+            {
+                "controlled-topic",
+                "controlled-topic-link",
+                "controlled-topic-entry",
+                "wiki-topic-link",
+                "legacy-tag-page",
+            }
+        ):
+            attributes["_tag"] = tag
+            self.elements.append(attributes)
+
+
+def marked_elements(page_html: str, class_name: str) -> list[dict[str, str]]:
+    parser = MarkerParser()
+    parser.feed(page_html)
+    return [
+        attributes
+        for attributes in parser.elements
+        if class_name in attributes.get("class", "").split()
+    ]
 
 
 class EpisodeListParser(HTMLParser):
@@ -561,6 +613,202 @@ def validate_current_synthesis(public_dir: Path, errors: list[str]) -> None:
             errors.append(f"compact Current Synthesis is missing {heading}")
 
 
+def local_route_path(href: str) -> str | None:
+    if not href or "\\" in href or "\x00" in href:
+        return None
+    try:
+        parsed = urlsplit(href)
+        url_path = unquote(parsed.path)
+    except ValueError:
+        return None
+    if parsed.scheme or parsed.netloc or parsed.query or parsed.fragment:
+        return None
+    segments = [segment for segment in url_path.split("/") if segment]
+    if any(segment in {".", ".."} for segment in segments):
+        return None
+    return url_path
+
+
+def controlled_topic_href_matches(href: str, key: str) -> bool:
+    url_path = local_route_path(href)
+    return bool(url_path and url_path.endswith(f"/topics/{key}/"))
+
+
+def internal_wiki_target(public_dir: Path, href: str) -> Path | None:
+    url_path = local_route_path(href)
+    if url_path is None:
+        return None
+    marker = "/wiki/"
+    if url_path.count(marker) != 1:
+        return None
+    tail = url_path.rsplit(marker, 1)[1].strip("/")
+    wiki_root = (public_dir / "wiki").resolve()
+    target = (wiki_root / tail / "index.html").resolve() if tail else wiki_root / "index.html"
+    if target != wiki_root / "index.html" and wiki_root not in target.parents:
+        return None
+    return target
+
+
+def validate_controlled_topics(public_dir: Path, errors: list[str]) -> None:
+    topics_dir = public_dir / "topics"
+    if not topics_dir.is_dir():
+        errors.append("missing controlled topics directory")
+        return
+    actual_routes = tuple(
+        sorted(
+            child.name
+            for child in topics_dir.iterdir()
+            if child.is_dir() and (child / "index.html").is_file()
+        )
+    )
+    if set(actual_routes) != set(CONTROLLED_TOPIC_KEYS):
+        errors.append(
+            "controlled topic routes mismatch: "
+            f"expected {list(CONTROLLED_TOPIC_KEYS)}, found {list(actual_routes)}"
+        )
+
+    landing_path = topics_dir / "index.html"
+    if landing_path.is_file():
+        landing_links = marked_elements(
+            landing_path.read_text(encoding="utf-8"), "controlled-topic-link"
+        )
+        landing_keys = tuple(link.get("data-topic-key", "") for link in landing_links)
+        if landing_keys != CONTROLLED_TOPIC_KEYS:
+            errors.append(
+                "controlled topic landing order mismatch: "
+                f"expected {list(CONTROLLED_TOPIC_KEYS)}, found {list(landing_keys)}"
+            )
+        for link in landing_links:
+            key = link.get("data-topic-key", "")
+            if key in CONTROLLED_TOPIC_KEYS and not controlled_topic_href_matches(
+                link.get("href", ""), key
+            ):
+                errors.append(f"controlled topic {key} has invalid landing link")
+
+    wiki_landing_path = public_dir / "wiki" / "index.html"
+    if wiki_landing_path.is_file():
+        wiki_landing_links = marked_elements(
+            wiki_landing_path.read_text(encoding="utf-8"), "controlled-topic-link"
+        )
+        wiki_landing_keys = tuple(
+            link.get("data-topic-key", "") for link in wiki_landing_links
+        )
+        if wiki_landing_keys != CONTROLLED_TOPIC_KEYS:
+            errors.append(
+                "Wiki landing controlled topic order mismatch: "
+                f"expected {list(CONTROLLED_TOPIC_KEYS)}, found {list(wiki_landing_keys)}"
+            )
+        for link in wiki_landing_links:
+            key = link.get("data-topic-key", "")
+            if key in CONTROLLED_TOPIC_KEYS and not controlled_topic_href_matches(
+                link.get("href", ""), key
+            ):
+                errors.append(f"controlled topic {key} has invalid Wiki landing link")
+
+    for key in CONTROLLED_TOPIC_KEYS:
+        path = topics_dir / key / "index.html"
+        if not path.is_file():
+            continue
+        page_html = path.read_text(encoding="utf-8")
+        markers = marked_elements(page_html, "controlled-topic")
+        if len(markers) != 1:
+            errors.append(
+                f"controlled topic marker count for {key}: expected 1, found {len(markers)}"
+            )
+            continue
+        marker = markers[0]
+        if marker.get("data-topic-key") != key:
+            errors.append(f"controlled topic marker key mismatch for {key}")
+        count_text = marker.get("data-topic-count", "")
+        expected_count = int(count_text) if re.fullmatch(r"[1-9][0-9]*", count_text) else None
+        if expected_count is None:
+            errors.append(f"controlled topic {key} has invalid page count: {count_text!r}")
+
+        entries = marked_elements(page_html, "controlled-topic-entry")
+        if expected_count is not None and len(entries) != expected_count:
+            errors.append(
+                f"controlled topic {key} entry count mismatch: "
+                f"expected {expected_count}, found {len(entries)}"
+            )
+        hrefs = [entry.get("href", "") for entry in entries]
+        if len(set(hrefs)) != len(hrefs):
+            errors.append(f"controlled topic {key} contains duplicate knowledge links")
+        if not any(entry.get("data-topic-kind") == "concept" for entry in entries):
+            errors.append(f"controlled topic {key} must include at least one concept")
+        for href in hrefs:
+            target = internal_wiki_target(public_dir, href)
+            if target is None or not target.is_file():
+                errors.append(f"controlled topic {key} has missing knowledge target: {href}")
+                continue
+            reverse_links = marked_elements(
+                target.read_text(encoding="utf-8"), "wiki-topic-link"
+            )
+            matching_reverse_links = [
+                link for link in reverse_links if link.get("data-topic-key", "") == key
+            ]
+            if not matching_reverse_links:
+                errors.append(
+                    f"controlled topic {key} knowledge page is missing reverse topic link: {href}"
+                )
+            elif len(matching_reverse_links) != 1 or not controlled_topic_href_matches(
+                matching_reverse_links[0].get("href", ""), key
+            ):
+                errors.append(
+                    f"controlled topic {key} knowledge page has invalid reverse topic link: {href}"
+                )
+
+
+def validate_legacy_tags(public_dir: Path, errors: list[str]) -> None:
+    tags_dir = public_dir / "tags"
+    if not tags_dir.is_dir():
+        errors.append("missing legacy tag compatibility directory")
+        return
+    pages = sorted(tags_dir.rglob("index.html"))
+    if len(pages) < 2:
+        errors.append("legacy tag compatibility routes are missing term pages")
+    noindex_re = re.compile(
+        r'<meta\b(?=[^>]*\bname=(?:["\']robots["\']|robots\b))'
+        r'(?=[^>]*\bcontent=(?:["\'][^"\']*\bnoindex\b[^"\']*["\']|[^\s>]*\bnoindex\b[^\s>]*))[^>]*>',
+        re.IGNORECASE,
+    )
+    for path in pages:
+        page_html = path.read_text(encoding="utf-8")
+        relative = path.relative_to(public_dir).as_posix()
+        if not noindex_re.search(page_html):
+            errors.append(f"legacy tag page is missing noindex: {relative}")
+        markers = marked_elements(page_html, "legacy-tag-page")
+        if len(markers) != 1:
+            errors.append(
+                f"legacy tag page is missing compatibility marker: {relative}"
+            )
+
+
+def validate_controlled_topic_sitemap(urls: list[str], errors: list[str]) -> None:
+    paths: list[str] = []
+    for url in urls:
+        try:
+            paths.append(urlsplit(url).path)
+        except ValueError:
+            continue
+    for path in paths:
+        if re.search(r"/tags(?:/|$)", path):
+            errors.append(f"raw tag URL found in sitemap: {path}")
+    expected_suffixes = {
+        "/topics/",
+        *(f"/topics/{key}/" for key in CONTROLLED_TOPIC_KEYS),
+    }
+    found_suffixes = {
+        suffix
+        for suffix in expected_suffixes
+        if any(path.endswith(suffix) for path in paths)
+    }
+    if found_suffixes != expected_suffixes:
+        errors.append(
+            "controlled topic sitemap coverage mismatch: "
+            f"missing {sorted(expected_suffixes - found_suffixes)}"
+        )
+
+
 def validate_pagefind_output(public_dir: Path, errors: list[str]) -> None:
     pagefind_dir = public_dir / "pagefind"
     if not list(pagefind_dir.glob("*.pf_meta")):
@@ -586,6 +834,8 @@ def validate_pagefind_output(public_dir: Path, errors: list[str]) -> None:
         errors.append("Current Synthesis is missing from Pagefind result fragments")
     if any(b"/_generated/" in fragment for fragment in decoded_fragments):
         errors.append("internal _generated URL found in Pagefind result fragments")
+    if any(b"/tags/" in fragment for fragment in decoded_fragments):
+        errors.append("legacy raw tag URL found in Pagefind result fragments")
 
 
 def validate(public_dir: Path) -> dict:
@@ -607,6 +857,9 @@ def validate(public_dir: Path) -> dict:
         if link_parser.has_github_link:
             relative = path.relative_to(public_dir).as_posix()
             errors.append(f"public GitHub link found: {relative}")
+        if link_parser.has_raw_tag_link:
+            relative = path.relative_to(public_dir).as_posix()
+            errors.append(f"raw tag navigation link is forbidden: {relative}")
 
     for relative in REQUIRED_FILES:
         if not (public_dir / relative).is_file():
@@ -618,6 +871,8 @@ def validate(public_dir: Path) -> dict:
             validate_metadata_page(path, public_dir, errors)
 
     validate_current_synthesis(public_dir, errors)
+    validate_controlled_topics(public_dir, errors)
+    validate_legacy_tags(public_dir, errors)
 
     homepage = public_dir / "index.html"
     if homepage.is_file():
@@ -667,6 +922,7 @@ def validate(public_dir: Path) -> dict:
         public_dir / "shows",
         public_dir / "wiki" / "concepts",
         public_dir / "wiki" / "entities",
+        public_dir / "topics",
     ):
         for html_path in sorted(semantic_dir.glob("*/index.html")):
             validate_metadata_page(html_path, public_dir, errors)
@@ -704,6 +960,8 @@ def validate(public_dir: Path) -> dict:
                         errors.append(f"invalid URL in sitemap: {url}: {error}")
                         continue
                     sitemap_entries.append((url, url_path))
+
+                validate_controlled_topic_sitemap(urls, errors)
 
                 episode_root_candidates = [
                     url_path

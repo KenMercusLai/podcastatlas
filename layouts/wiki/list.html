@@ -270,39 +270,24 @@
       </div>
     </section>
 
-    {{ $topics := slice
-      (dict "key" "ai" "label" "AI")
-      (dict "key" "china" "label" "China")
-      (dict "key" "investing" "label" "Investing")
-      (dict "key" "governance" "label" "Governance")
-      (dict "key" "literature" "label" "Literature")
-      (dict "key" "media" "label" "Media")
-      (dict "key" "politics" "label" "Politics")
-      (dict "key" "startups" "label" "Startups")
-      (dict "key" "finance" "label" "Finance")
-      (dict "key" "psychology" "label" "Psychology")
-      (dict "key" "economics" "label" "Economics")
-      (dict "key" "education" "label" "Education")
-    }}
-    <section class="wiki-landing-section" aria-labelledby="topics-heading">
-      <h2 id="topics-heading">Browse by topic</h2>
-      <p class="wiki-section-intro">Enter through broad subjects that recur across shows, episodes, concepts, and entities.</p>
-      <ul class="wiki-topic-list">
-        {{ range $topics }}
-          {{ $key := .key }}
-          {{ $label := .label }}
-          {{ $termPages := index $.Site.Taxonomies.tags $key }}
-          {{ with $termPages }}
+    {{ $topics := .Site.GetPage "/topics" }}
+    {{ with $topics }}
+      <section class="wiki-landing-section" aria-labelledby="topics-heading">
+        <h2 id="topics-heading">Browse by topic</h2>
+        <p class="wiki-section-intro">Enter through a small, stable set of subjects derived from existing knowledge tags and concepts.</p>
+        <ul class="wiki-topic-list">
+          {{ range .Params.topic_pages }}
             <li>
-              <a href="{{ printf "tags/%s/" ($key | urlize) | relURL }}">
-                <span>{{ $label }}</span>
-                <span class="wiki-topic-count">{{ len . }}</span>
+              <a class="controlled-topic-link" data-topic-key="{{ .key }}" href="{{ strings.TrimPrefix "/" .url | relURL }}">
+                <span>{{ .label }}</span>
+                <span class="wiki-topic-count">{{ .count }}</span>
               </a>
             </li>
           {{ end }}
-        {{ end }}
-      </ul>
-    </section>
+        </ul>
+        <p><a href="{{ .RelPermalink }}">Explore all controlled topics →</a></p>
+      </section>
+    {{ end }}
 
     <section class="wiki-landing-section" aria-labelledby="coverage-heading">
       <h2 id="coverage-heading">Knowledge coverage</h2>

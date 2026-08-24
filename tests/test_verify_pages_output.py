@@ -325,10 +325,14 @@ class VerifyPagesOutputTest(unittest.TestCase):
             expected_paths = [
                 "index.html",
                 "episodes/index.html",
-                "tags/index.html",
                 "shows/index.html",
+                "tags/index.html",
+                "tags/old-tag/index.html",
                 "wiki/index.html",
                 "wiki/current-synthesis/index.html",
+                "topics/index.html",
+                *[f"topics/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
+                *[f"wiki/concepts/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
                 "search/index.html",
                 "about/index.html",
                 "about/index.md",
@@ -357,10 +361,14 @@ class VerifyPagesOutputTest(unittest.TestCase):
             metadata_pages = (
                 "index.html",
                 "episodes/index.html",
-                "tags/index.html",
                 "shows/index.html",
+                "tags/index.html",
+                "tags/old-tag/index.html",
                 "wiki/index.html",
                 "wiki/current-synthesis/index.html",
+                "topics/index.html",
+                *[f"topics/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
+                *[f"wiki/concepts/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
                 "search/index.html",
                 "about/index.html",
                 "methodology/index.html",
@@ -375,16 +383,54 @@ class VerifyPagesOutputTest(unittest.TestCase):
                     body = "A living knowledge atlas synthesized from podcasts."
                 elif relative == "episodes/index.html":
                     body = episode_list_body(("example", "episode.160", "中文标题"))
+                elif relative.startswith("tags/"):
+                    body = '<main class="legacy-tag-page">Legacy tag</main>'
                 elif relative == "wiki/index.html":
-                    body = synthesis_card
+                    body = synthesis_card + "".join(
+                        f'<a class="controlled-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>'
+                        for key in verifier.CONTROLLED_TOPIC_KEYS
+                    )
                 elif relative == "wiki/current-synthesis/index.html":
                     body = synthesis_detail
+                elif relative == "topics/index.html":
+                    body = "".join(
+                        f'<a class="controlled-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>'
+                        for key in verifier.CONTROLLED_TOPIC_KEYS
+                    )
+                elif relative.startswith("topics/"):
+                    key = Path(relative).parts[1]
+                    body = (
+                        f'<article class="controlled-topic" data-topic-key="{key}" data-topic-count="1">'
+                        f'<a class="controlled-topic-entry" data-topic-kind="concept" href="/wiki/concepts/{key}/">{key}</a>'
+                        "</article>"
+                    )
+                elif relative.startswith("wiki/concepts/"):
+                    key = Path(relative).parts[2]
+                    body = (
+                        f'<a class="wiki-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>'
+                    )
                 else:
                     body = ""
-                write(public / relative, valid_html(url, body))
+                page_html = valid_html(url, body)
+                if relative.startswith("tags/"):
+                    page_html = page_html.replace(
+                        "<head>",
+                        '<head><meta name="robots" content="noindex, follow">',
+                        1,
+                    )
+                write(public / relative, page_html)
             write(public / "index.xml", "<rss />")
             write(public / "episodes/index.xml", "<rss />")
-            write(public / "sitemap.xml", "<urlset />")
+            write(
+                public / "sitemap.xml",
+                "<urlset>"
+                "<url><loc>https://podcastatlas.ai/topics/</loc></url>"
+                + "".join(
+                    f"<url><loc>https://podcastatlas.ai/topics/{key}/</loc></url>"
+                    for key in verifier.CONTROLLED_TOPIC_KEYS
+                )
+                + "</urlset>",
+            )
 
             report = verifier.validate(public)
 
@@ -907,6 +953,144 @@ class VerifyPagesOutputTest(unittest.TestCase):
             "artifact exceeds the GitHub Pages 1 GiB supported limit",
             report["errors"],
         )
+
+    def test_accepts_exactly_six_controlled_topic_artifacts(self):
+        verifier = load_verifier()
+        keys = ("technology", "economics", "history", "politics", "culture", "science")
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            landing_links = "".join(
+                f'<a class="controlled-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>'
+                for key in keys
+            )
+            write(public / "topics" / "index.html", landing_links)
+            write(public / "wiki" / "index.html", landing_links)
+            for key in keys:
+                write(
+                    public / "topics" / key / "index.html",
+                    f'<article class="controlled-topic" data-topic-key="{key}" data-topic-count="1">'
+                    f'<a class="controlled-topic-entry" data-topic-kind="concept" href="/wiki/concepts/{key}/">{key}</a>'
+                    "</article>",
+                )
+                write(
+                    public / "wiki" / "concepts" / key / "index.html",
+                    f'<a class="wiki-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>',
+                )
+            errors = []
+            verifier.validate_controlled_topics(public, errors)
+            self.assertEqual([], errors)
+
+            write(public / "wiki" / "concepts" / "technology" / "index.html", "missing reverse link")
+            errors = []
+            verifier.validate_controlled_topics(public, errors)
+
+        self.assertTrue(any("missing reverse topic link" in error for error in errors))
+
+    def test_rejects_uncontrolled_or_invalid_topics(self):
+        verifier = load_verifier()
+        keys = ("technology", "economics", "history", "politics", "culture", "science")
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "topics" / "index.html",
+                "".join(
+                    f'<a class="controlled-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>'
+                    for key in (*keys, "noise")
+                ),
+            )
+            for key in (*keys, "noise"):
+                count = "2" if key == "technology" else "1"
+                kind = "entity" if key == "science" else "concept"
+                write(
+                    public / "topics" / key / "index.html",
+                    f'<article class="controlled-topic" data-topic-key="{key}" data-topic-count="{count}">'
+                    f'<a class="controlled-topic-entry" data-topic-kind="{kind}" href="/wiki/{kind}s/{key}/">{key}</a>'
+                    "</article>",
+                )
+            errors = []
+            verifier.validate_controlled_topics(public, errors)
+
+        self.assertTrue(any("controlled topic routes mismatch" in error for error in errors))
+        self.assertTrue(any("entry count mismatch" in error for error in errors))
+        self.assertTrue(any("must include at least one concept" in error for error in errors))
+
+    def test_rejects_unsafe_or_misdirected_controlled_topic_links(self):
+        verifier = load_verifier()
+        keys = ("technology", "economics", "history", "politics", "culture", "science")
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            landing_links = "".join(
+                f'<a class="controlled-topic-link" data-topic-key="{key}" '
+                f'href="{("https://evil.example/wiki/concepts/technology/" if key == "technology" else f"/topics/{key}/")}">{key}</a>'
+                for key in keys
+            )
+            write(public / "topics" / "index.html", landing_links)
+            write(public / "wiki" / "index.html", landing_links)
+            for key in keys:
+                entry_href = (
+                    "https://evil.example/wiki/concepts/technology/"
+                    if key == "technology"
+                    else f"/wiki/concepts/{key}/"
+                )
+                write(
+                    public / "topics" / key / "index.html",
+                    f'<article class="controlled-topic" data-topic-key="{key}" data-topic-count="1">'
+                    f'<a class="controlled-topic-entry" data-topic-kind="concept" href="{entry_href}">{key}</a>'
+                    "</article>",
+                )
+                reverse_href = "/topics/science/" if key == "economics" else f"/topics/{key}/"
+                write(
+                    public / "wiki" / "concepts" / key / "index.html",
+                    f'<a class="wiki-topic-link" data-topic-key="{key}" href="{reverse_href}">{key}</a>',
+                )
+            errors = []
+            verifier.validate_controlled_topics(public, errors)
+
+        self.assertTrue(any("invalid landing link" in error for error in errors))
+        self.assertTrue(any("invalid Wiki landing link" in error for error in errors))
+        self.assertTrue(any("missing knowledge target" in error for error in errors))
+        self.assertTrue(any("invalid reverse topic link" in error for error in errors))
+
+    def test_legacy_tag_routes_are_preserved_but_noindexed_and_hidden(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            legacy_html = (
+                '<html><head><meta name=robots content="noindex, follow"></head>'
+                '<body><main class="legacy-tag-page">Legacy tag</main></body></html>'
+            )
+            write(public / "tags" / "index.html", legacy_html)
+            write(public / "tags" / "old-tag" / "index.html", legacy_html)
+            errors = []
+            verifier.validate_legacy_tags(public, errors)
+            self.assertEqual([], errors)
+
+            write(public / "tags" / "old-tag" / "index.html", "exposed tag page")
+            errors = []
+            verifier.validate_legacy_tags(public, errors)
+
+        self.assertTrue(any("missing noindex" in error for error in errors))
+        self.assertTrue(any("missing compatibility marker" in error for error in errors))
+
+    def test_controlled_topic_sitemap_contract_rejects_tags_and_missing_topics(self):
+        verifier = load_verifier()
+        valid_urls = [
+            "https://podcastatlas.ai/topics/",
+            *[
+                f"https://podcastatlas.ai/topics/{key}/"
+                for key in verifier.CONTROLLED_TOPIC_KEYS
+            ],
+        ]
+        errors = []
+        verifier.validate_controlled_topic_sitemap(valid_urls, errors)
+        self.assertEqual([], errors)
+
+        errors = []
+        verifier.validate_controlled_topic_sitemap(
+            [*valid_urls[:-1], "https://podcastatlas.ai/tags/noise/"], errors
+        )
+        self.assertTrue(any("raw tag URL found in sitemap" in error for error in errors))
+        self.assertTrue(any("controlled topic sitemap coverage mismatch" in error for error in errors))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,86 @@
+{{ define "head_extra" }}
+  <style>
+    .topic-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+      margin-top: 24px;
+    }
+
+    .topic-card {
+      padding: 20px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .topic-card h2 {
+      margin: 0 0 8px;
+      font-size: 1.25rem;
+    }
+
+    .topic-card p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .topic-card .count {
+      margin-top: 10px;
+    }
+
+    .topic-section {
+      margin-top: 42px;
+      padding-top: 20px;
+      border-top: 1px solid var(--line);
+    }
+
+    @media (max-width: 640px) {
+      .topic-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+{{ end }}
+
+{{ define "main" }}
+  {{ if .Params.topic_landing }}
+    <h1>{{ .Title }}</h1>
+    <p class="lede">{{ .Description }}</p>
+    <div class="topic-grid">
+      {{ range .Params.topic_pages }}
+        <article class="topic-card">
+          <h2><a class="controlled-topic-link" data-topic-key="{{ .key }}" href="{{ strings.TrimPrefix "/" .url | relURL }}">{{ .label }}</a></h2>
+          <p>{{ .description }}</p>
+          <p class="count">{{ .count }} knowledge pages</p>
+        </article>
+      {{ end }}
+    </div>
+  {{ else if .Params.topic_page }}
+    <article class="controlled-topic" data-topic-key="{{ .Params.topic_key }}" data-topic-count="{{ .Params.topic_total_pages }}">
+      <p><a href="{{ "topics/" | relURL }}">← All topics</a></p>
+      <h1>{{ .Title }}</h1>
+      <p class="lede">{{ .Description }}</p>
+      <p class="count">{{ .Params.topic_total_pages }} knowledge pages</p>
+
+      {{ range $group := slice
+        (dict "label" "Concepts" "field" "topic_concepts" "kind" "concept")
+        (dict "label" "Entities" "field" "topic_entities" "kind" "entity")
+        (dict "label" "Source Notes" "field" "topic_sources" "kind" "source note")
+      }}
+        {{ $pages := index $.Params $group.field }}
+        {{ with $pages }}
+          <section class="topic-section" aria-labelledby="topic-{{ $group.field }}">
+            <h2 id="topic-{{ $group.field }}">{{ $group.label }}</h2>
+            <ul class="page-list">
+              {{ range . }}
+                <li>
+                  <div><a class="controlled-topic-entry" data-topic-kind="{{ $group.kind }}" href="{{ strings.TrimPrefix "/" .url | relURL }}">{{ .title }}</a></div>
+                  <span class="page-kind">{{ $group.kind }}</span>
+                </li>
+              {{ end }}
+            </ul>
+          </section>
+        {{ end }}
+      {{ end }}
+    </article>
+  {{ end }}
+{{ end }}

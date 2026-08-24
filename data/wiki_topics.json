@@ -1,0 +1,112 @@
+{
+  "topics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "description": "AI, software, infrastructure, computing, robotics, security, chips, and the systems that turn technical capability into products.",
+      "tags": [
+        "technology",
+        "ai",
+        "software",
+        "infrastructure",
+        "computing",
+        "robotics",
+        "cybersecurity",
+        "internet",
+        "semiconductors",
+        "cloud",
+        "data",
+        "hardware",
+        "automation"
+      ]
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "description": "Markets, finance, investing, trade, companies, entrepreneurship, and the policies and incentives that shape economic activity.",
+      "tags": [
+        "economics",
+        "finance",
+        "investing",
+        "trade",
+        "business",
+        "markets",
+        "macroeconomics",
+        "monetary-policy",
+        "banking",
+        "capitalism",
+        "entrepreneurship",
+        "startups"
+      ]
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "description": "Historical people, events, institutions, evidence, and interpretation across Chinese and world history.",
+      "tags": [
+        "history",
+        "chinese-history",
+        "pre-qin-history",
+        "warring-states",
+        "chu-han",
+        "ancient-history",
+        "world-war-ii",
+        "archaeology",
+        "historiography"
+      ]
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "description": "Government, governance, law, diplomacy, elections, regulation, civil liberties, and geopolitical power.",
+      "tags": [
+        "politics",
+        "governance",
+        "geopolitics",
+        "policy",
+        "law",
+        "democracy",
+        "regulation",
+        "diplomacy",
+        "surveillance",
+        "elections"
+      ]
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "description": "Literature, media, art, film, music, books, education, sport, and the stories and practices through which societies make meaning.",
+      "tags": [
+        "culture",
+        "literature",
+        "media",
+        "art",
+        "film",
+        "music",
+        "book",
+        "books",
+        "education",
+        "sports"
+      ]
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "description": "Medicine, health, biology, space, climate, environment, psychology, and the evidence and institutions behind scientific knowledge.",
+      "tags": [
+        "science",
+        "medicine",
+        "health",
+        "biology",
+        "space",
+        "climate",
+        "environment",
+        "physics",
+        "chemistry",
+        "psychology",
+        "neuroscience",
+        "biotechnology"
+      ]
+    }
+  ]
+}

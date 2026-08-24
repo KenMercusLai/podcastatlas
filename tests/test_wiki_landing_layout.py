@@ -37,7 +37,9 @@ class WikiLandingLayoutTest(unittest.TestCase):
             self.assertIn(label, layout)
 
         self.assertIn("Browse by topic", layout)
-        self.assertIn(".Site.Taxonomies.tags", layout)
+        self.assertIn('.Site.GetPage "/topics"', layout)
+        self.assertIn(".Params.topic_pages", layout)
+        self.assertNotIn(".Site.Taxonomies.tags", layout)
         self.assertIn("Knowledge coverage", layout)
         self.assertIn('where .Site.RegularPages "Section" "episodes"', layout)
         self.assertIn('.Site.GetPage "/show"', layout)
