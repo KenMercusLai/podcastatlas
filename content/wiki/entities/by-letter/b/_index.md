@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7056
+wiki_total_pages: 7072
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "BaiQi"
     title: "白起 / Bai Qi"
     url: "/wiki/entities/baiqi/"
+  - key: "BaimaYicong"
+    title: "白马义从 / Baima Yicong"
+    url: "/wiki/entities/baimayicong/"
   - key: "BaiduYoua"
     title: "百度有啊 / Baidu Youa"
     url: "/wiki/entities/baiduyoua/"

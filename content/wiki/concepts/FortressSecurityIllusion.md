@@ -1,0 +1,28 @@
+---
+title: "Fortress Security Illusion / 筑城避世安全幻觉"
+type: concept
+tags: [statecraft, security, late-han, leadership, military]
+sources: [zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+last_updated: 2026-08-24
+---
+
+# Fortress Security Illusion / 筑城避世安全幻觉
+
+Fortress security illusion / 筑城避世安全幻觉 is the late-Han statecraft lesson [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] draws from [[GongsunZan|公孙瓒]]'s move to [[YixianLateHan|易县]] and construction of [[YijingFortress|易京]]. After killing [[LiuYuLateHan|刘虞]], losing local support, and suffering coalition attacks, Gongsun Zan tries to make deep trenches, high towers, iron doors, and grain storage into long-term safety.
+
+The episode rejects that move because the fortress preserves the body while weakening the political system around it. Gongsun Zan stops campaigning, cuts off guests and generals, has documents lifted by rope, and routes orders through shouted female intermediaries. The result is not strategic retreat like [[StrategicRetreatBaseBuilding|退让式根据地经营]], which preserves future action, but enclosure that accelerates [[CourtFeedbackCollapse|君臣反馈失灵]] and loss of initiative.
+
+The comparison with [[DongZhuo|董卓]]'s [[MeiwuFortress|郿坞]] makes the concept broader than one biography. A stronghold can be useful only if it supports a living political and military strategy; when it substitutes for people-support, advisers, and action, it becomes a visible sign of insecurity.
+
+## Key Claims
+- Fortification can become an illusion when it replaces initiative rather than preserving future operations.
+- Hoarded grain and high walls do not repair lost people-support, talent loss, or coalition pressure.
+- Physical isolation can damage command by blocking the people who carry information, warning, and execution.
+- The concept differs from [[StrategicRetreatBaseBuilding|退让式根据地经营]]: retreat is strategic when it preserves agency; fortress withdrawal is illusory when it freezes action.
+- The concept is adjacent to [[FiefSecurityIllusion|封地筑城安全幻觉]], but this case centers on warlord command isolation rather than a minister's derivative local base.
+
+## Connections
+- [[GongsunZan|公孙瓒]], [[YijingFortress|易京]], and [[YixianLateHan|易县]] - source case.
+- [[DongZhuo|董卓]] and [[MeiwuFortress|郿坞]] - comparison case.
+- [[BaimaYicong|白马义从]] - earlier mobile force contrasted with static enclosure.
+- [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - adjacent concepts.

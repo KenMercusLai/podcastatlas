@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7056
+wiki_total_pages: 7072
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "ShifenXiyin"
     title: "十分吸引 / Shifen Xiyin"
     url: "/wiki/entities/shifenxiyin/"
+  - key: "SouthernXiongnu"
+    title: "南匈奴 / Southern Xiongnu"
+    url: "/wiki/entities/southernxiongnu/"
   - key: "SouthernTang"
     title: "南唐 / Southern Tang"
     url: "/wiki/entities/southerntang/"

@@ -2,8 +2,8 @@
 title: "袁绍 / Yuan Shao"
 type: entity
 tags: [person, late-han, warlord, china]
-sources: [zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+last_updated: 2026-08-24
 ---
 
 # 袁绍 / Yuan Shao
@@ -15,6 +15,8 @@ Cao Cao's answer is [[StrategicTitleConcession|战略性名位让步]]. Rather t
 [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] introduces 袁绍 / Yuan Shao as the powerful northern host whom [[GuoJia|郭嘉]] rejects after a short stay. The source says Yuan Shao treats Guo Jia politely, but Guo Jia concludes that he does not understand how to use people, cannot distinguish urgent from secondary matters, and hesitates too much to achieve hegemony.
 
 This makes Yuan Shao a negative talent-use case before the later leadership-comparison branch. Xin Ping and Guo Tu remain with him because they still trust the Yuan family's name and large force, while Guo Jia reads those visible assets as insufficient without executive judgment.
+
+[[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] backfills the Gongsun Zan side of that northern war. Yuan Shao appears as the outside power whose forces connect with [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], and [[LiuHeLateHan|刘和]] in the coalition that defeats Gongsun Zan and drives him toward [[YijingFortress|易京]].
 
 [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] later adds Yuan Shao as the major northern power whose current war against [[GongsunZan|公孙瓒]] gives [[CaoCao|曹操]] time to act elsewhere. Guo Jia uses that northern commitment to argue that Cao Cao should first remove [[LyuBu|吕布]], because leaving Lü Bu available to help Yuan Shao would make the later confrontation much harder.
 
@@ -30,7 +32,8 @@ The page is source-scoped. Hanji 1016 does not narrate Yuan Shao's broader caree
 - [[EmperorXianOfHan|汉献帝]] - ruler whose name authorizes Yuan Shao's appointment.
 - [[KongRong|孔融]] - envoy sent with the tally.
 - [[TenVictoriesTenDefeats|十胜十败论]], [[XunYu|荀彧]], [[GuoJia|郭嘉]], and [[CaoCao|曹操]] - Hanji 1014 leadership-comparison branch.
-- [[GongsunZan|公孙瓒]], [[GuoJia|郭嘉]], and [[LyuBu|吕布]] - Hanji 1015 timing branch around Cao Cao's next target.
+- [[GongsunZan|公孙瓒]], [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], and [[LiuHeLateHan|刘和]] - Hanji 998 coalition branch against Gongsun Zan.
+- [[GuoJia|郭嘉]] and [[LyuBu|吕布]] - Hanji 1015 timing branch around Cao Cao's next target.
 - [[YuanShu|袁术]] - contrast case whose imperial claim is not accepted as legitimate.
 - [[CaoCao|曹操]] - powerholder using the Han-court order against Yuan Shu in the same episode.
 - [[MingqiLegitimacy|名器合法性]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - title-order and condition-sensitive frames for Yuan Shao's source role.

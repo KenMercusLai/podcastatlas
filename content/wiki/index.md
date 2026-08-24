@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城](sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's post-Liu Yu Youzhou collapse, Xianyu Fu/Yan Rou/Wuhuan/Xianbei/Liu He/Yuan Shao coalition pressure, Yijing fortress isolation, and the false security of walls and grain without initiative or people-support.
 - [《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？](sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's dangerous eastward return, Dong Cheng/Yang Feng/Han Xian/Zhang Yang's divided escort field, Yuan Shu's attack on Liu Bei, Zhang Fei killing Cao Bao, Lü Bu's grain-induced seizure of Xiapi, and Liu Bei's surrender/regrouping at Xiaopei.
 - [《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？](sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68.md) — 芮淇讲透资治通鉴 episode on Hao Meng's Xiapi night revolt against Lü Bu, Gao Shun and Cao Xing's suppression, Chen Gong's unpunished implication as factional-balance politics, and Emperor Xian's ruined Luoyang return before Yuan Shu's title-ambition setup.
 - [中国迎来汉堡开店潮，国产黄柠檬价格回落](sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543.md) — 声动早咖啡 episode on China burger expansion, domestic yellow-lemon price declines, Alibaba's Lingxi sale, DJI/Insta360 camera competition, Coach China growth, Moutai channel adjustment, and soft versus hard discount retail.
@@ -1371,6 +1372,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority killed by Gongsun Zan whose death becomes the legitimacy and revenge center for the anti-Gongsun coalition.
+- [鲜于辅 / Xianyu Fu](entities/XianyuFu.md) — Liu Yu subordinate who raises troops and joins Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces against Gongsun Zan.
+- [阎柔 / Yan Rou](entities/YanRou.md) — Wuhuan sima whose prestige lets him gather mixed Hu and Han forces and defeat Gongsun Zan's appointee Zhou Dan.
+- [周丹 / Zhou Dan (Late Han)](entities/ZhouDanLateHan.md) — Gongsun Zan's Yuyang taishou defeated and killed by Yan Rou in the Youzhou backlash.
+- [刘和 / Liu He (Late Han)](entities/LiuHeLateHan.md) — Liu Yu's son welcomed as a banner by the anti-Gongsun coalition.
+- [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose forces help Yan Rou and the Liu Yu-aligned coalition attack Gongsun Zan.
+- [鲜卑 / Xianbei](entities/Xianbei.md) — Northern cavalry group joining Xianyu Fu and Wuhuan riders in the anti-Gongsun campaign.
+- [幽州 / Youzhou (Late Han)](entities/YouzhouLateHan.md) — Northern province where Gongsun Zan's post-Liu Yu control unravels through commandery defections.
+- [易县 / Yi County (Late Han)](entities/YixianLateHan.md) — Place Gongsun Zan chooses as a supposed refuge after reading a children's song.
+- [易京 / Yijing Fortress](entities/YijingFortress.md) — Gongsun Zan's trenched tower stronghold, treated as a false-security command-isolation case.
+- [白马义从 / Baima Yicong](entities/BaimaYicong.md) — Gongsun Zan's white-horse cavalry identity contrasted with his later Yijing confinement.
+- [董卓 / Dong Zhuo](entities/DongZhuo.md) — Late-Han warlord invoked as the Meiwu comparison for Gongsun Zan's fortress strategy.
+- [郿坞 / Meiwu Fortress](entities/MeiwuFortress.md) — Dong Zhuo's stronghold used as the comparison case for Yijing-style false security.
+- [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Late-Han frontier group in the episode's closing succession note.
+- [于扶罗 / Yufuluo Chanyu](entities/YufuluoChanyu.md) — Southern Xiongnu chanyu whose death is recorded at the end of Hanji 998.
+- [呼厨泉 / Huchuquan Chanyu](entities/HuchuquanChanyu.md) — Yufuluo's younger brother and Southern Xiongnu successor stationed at Pingyang.
 - [Coach / 蔻驰](entities/CoachFashionBrand.md) — Fashion brand in the source's China growth case, balancing higher average prices, less discounting, outlet use, small stores, and flagship image-building.
 - [Five Guys](entities/FiveGuys.md) — Burger chain whose Beijing opening queues make the source's China burger expansion visible.
 - [M Stand](entities/MStand.md) — Coffee-chain-adjacent entrant used by the source to show burger expansion beyond pure burger chains.
@@ -8431,6 +8448,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for real safety after initiative, advisers, and people-support have been lost.
 - [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains and adjacent Chinese restaurant brands test burgers as filling, affordable meal occasions.
 - [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
 - [Soft-Discount Retail / 软折扣零售](concepts/SoftDiscountRetail.md) — Discount format based on close-dated, overstock, and tail-goods supply, contrasted with hard discount's structural operating efficiency.

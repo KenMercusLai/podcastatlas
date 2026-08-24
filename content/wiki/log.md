@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城
+
+Added source page for Hanji 998: Gongsun Zan's post-Liu Yu Youzhou collapse, backlash from Xianyu Fu, Yan Rou, Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces, defections across Youzhou, and Gongsun Zan's move into Yijing fortress. Created Liu Yu (Late Han), Xianyu Fu, Yan Rou, Zhou Dan (Late Han), Liu He (Late Han), Wuhuan, Xianbei, Youzhou (Late Han), Yi County (Late Han), Yijing Fortress, Baima Yicong, Dong Zhuo, Meiwu Fortress, Southern Xiongnu, Yufuluo Chanyu, Huchuquan Chanyu, and Fortress Security Illusion; updated overview, index, Gongsun Zan, Yuan Shao, Xiongnu, People-Based Political Security, Talent as State Treasure, Court Feedback Collapse, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, Political Survival First, and Fief Security Illusion. No settled contradiction found; the source's "afraid to die" contrast and fortress-safety lesson are preserved as source-scoped interpretation.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？
 
 Added source page for Hanji 1000: Hao Meng's night revolt against Lü Bu at Xiapi, Gao Shun and Cao Xing's suppression of the revolt, Cao Xing's allegation against Yuan Shu and Chen Gong, Lü Bu's non-punishment of Chen Gong as factional-balance politics, and Emperor Xian's ruined return to Luoyang under Zhang Yang, Yang Feng, Han Xian, and Dong Cheng. Created Hao Meng, Cao Xing (late Han), Chen Gong (late Han), Zhang Liao, and Lü Bu Factional Balance; updated overview, index, Lü Bu, Gao Shun, Zhang Yang, Dong Cheng, Yang Feng, Han Xian, Luoyang (late Han), Emperor Xian of Han, Yuan Shu, Xiapi, and Political Survival First. No settled contradiction found; Chen Gong's alleged role and blush remain source-scoped rather than treated as independent proof.
@@ -10953,3 +10957,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on 196 CE late-Han trus
 ## [2026-08-24] lint | Wiki lint check
 
 Ran health, identity validation, and lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 13,723 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 13,723 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged source-breadth/depth risks for single-source pages such as `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/HumanDependentSafetySystem.md`, `wiki/concepts/DayZeroModelSupport.md`, and `wiki/concepts/EraTailwindInInvesting.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

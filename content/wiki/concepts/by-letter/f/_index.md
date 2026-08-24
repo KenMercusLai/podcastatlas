@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5303
+wiki_total_pages: 5304
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "FortifiedAttritionPatience"
     title: "Fortified Attrition Patience / 坚壁耗敌式耐心"
     url: "/wiki/concepts/fortifiedattritionpatience/"
+  - key: "FortressSecurityIllusion"
+    title: "Fortress Security Illusion / 筑城避世安全幻觉"
+    url: "/wiki/concepts/fortresssecurityillusion/"
   - key: "ForumSubcultureMemory"
     title: "Forum Subculture Memory / 论坛亚文化记忆"
     url: "/wiki/concepts/forumsubculturememory/"
