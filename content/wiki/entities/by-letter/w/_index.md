@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7121
+wiki_total_pages: 7128
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "WuJingzi"
     title: "吴敬梓"
     url: "/wiki/entities/wujingzi/"
+  - key: "WuJingLateHan"
+    title: "吴景 / Wu Jing (late Han)"
+    url: "/wiki/entities/wujinglatehan/"
   - key: "WuYueniang"
     title: "吴月娘 / Wu Yueniang"
     url: "/wiki/entities/wuyueniang/"

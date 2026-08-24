@@ -2,8 +2,8 @@
 title: "河东郡 / Hedong Commandery"
 type: entity
 tags: [place, commandery, chu-han, administration]
-sources: [zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]
+last_updated: 2026-08-24
 ---
 
 # 河东郡 / Hedong Commandery
@@ -12,7 +12,10 @@ last_updated: 2026-08-23
 
 The page keeps Hedong in the Chu-Han transition rather than treating it as a full institutional history. Its relevance is that Liu Bang's side does not merely capture Wei Bao; it converts the conquered territory into governable commandery units under [[ConquestCommanderyTransition|灭国后的郡县化过渡]].
 
+[[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] adds a late-Han court-flight use. When [[EmperorXianOfHan|汉献帝]] reaches [[Anyi|安邑]], the Hedong governor presents silk and cloth, which the emperor distributes to the following officials before granting titles and offices. Hedong therefore becomes part of the episode's contrast between surviving ceremonial authority and collapsed supply conditions.
+
 ## Connections
 - [[WeiBao|魏豹]] and [[HanXin|韩信]] - defeated ruler and conquering commander.
 - [[Anyi|安邑]], [[Shangdang|上党郡]], and [[TaiyuanWarringStates|太原郡]] - related post-campaign geography.
 - [[LiuBang|刘邦]] and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - political authority and administrative-conversion pattern.
+- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[EmperorXianOfHan|汉献帝]], and [[MingqiLegitimacy|名器合法性]] - late-Han Anyi court support and symbolic-office branch.

@@ -11017,3 +11017,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇
+
+Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's improvised Anyi court, Chang'an and Guanzhong starvation, Ju Shou's advice that Yuan Shao welcome the emperor, Guo Tu and Chunyu Qiong's objections, and Sun Ce's Jiangdong launch through Wu Jing, Zhou Yu, Zhou Shang, Danyang, Liyang, and Hengjiang. Created pages for Guo Tu, Chunyu Qiong, Wu Jing, Zhou Shang, Danyang Commandery, Hengjiang, and Liyang; updated index and will refresh connected late-Han entity/concept pages and synthesis artifacts. No settled contradiction found; transcript name variants are normalized to existing canonical pages.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

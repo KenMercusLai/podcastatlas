@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a18f91abce779306d9ae23742c1b1f069b80b688f13c5f84955dd0ec027cd5e4",
       "dce6858c37320ff625a5070a23b56dc5b1a4d94ca15df31dff97aa0e3e05eda5",
       "36b51c0e0ab92dea13007eb6ddb52c924752803e8bbb1e1457ddd21998d9747d",
       "b7bc9830b533d00f552a6c6ccb0ecb3c4158685df25be0c88cefde2415fac7d0",
@@ -170,11 +171,47 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 168
+    "paragraph_count": 169
   },
-  "overview_commit": "756f743e271a4b8a6997a156c9a55cc6ad0fda17",
-  "overview_digest": "1aafaf32a30a2a4d6285d0aa6f241ada91e88b87d34ac4badc6c5e4eaccdb52c",
+  "overview_commit": "5918798f3bc87d6c4de31b4dd20b5675d9b324ae",
+  "overview_digest": "4ca008109fc249fe497b7bc86efdd0c635a797fa17cbe599d599fac69a211f5a",
   "paragraphs": [
+    {
+      "id": "a18f91abce779306d9ae23742c1b1f069b80b688f13c5f84955dd0ec027cd5e4",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the late-Han branch before [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]]. It adds [[GuoTu|郭图]], [[ChunyuQiong|淳于琼]], [[WuJingLateHan|吴景]], [[ZhouShangLateHan|周尚]], [[DanyangCommandery|丹阳郡]], [[HengjiangLateHan|横江]], and [[LiyangLateHan|历阳]], while extending [[EmperorXianOfHan|汉献帝]], [[YuanShao|袁绍]], [[JuShou|沮授]], [[SunCe|孙策]], [[ZhouYuLateHan|周瑜]], [[YuanShu|袁术]], [[ChangAnHanCapital|长安]], [[GuanzhongRegion|关中]], [[MingqiLegitimacy|名器合法性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[MoralizedWarPretext|道德化战争借口]], [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], and [[FamineEntitlementFailure|Famine Entitlement Failure]]. Its core synthesis is that late-Han disorder converts the same imperial-symbol field into opposite outcomes: Emperor Xian's Anyi court still has title force but almost no material capacity, Yuan Shao misses Ju Shou's chance to turn that title into strategic command, and Sun Ce succeeds because a modest public mission to aid Wu Jing is backed by Zhou Yu's soldiers, boats, grain, and Danyang network. No settled contradiction is recorded; transcript variants are normalized to existing canonical pages for Ju Shou, Zhu Zhi, and Zhang Yang.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "ChunyuQiong",
+        "DanyangCommandery",
+        "EmperorXianOfHan",
+        "FamineEntitlementFailure",
+        "GuanzhongRegion",
+        "GuoTu",
+        "HengjiangLateHan",
+        "JuShou",
+        "LegitimacyWindowSeizure",
+        "LiyangLateHan",
+        "MingqiLegitimacy",
+        "MoralizedWarPretext",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunCe",
+        "WartimeAgriculturalLaborCollapse",
+        "WuJingLateHan",
+        "YuanShao",
+        "YuanShu",
+        "ZhouShangLateHan",
+        "ZhouYuLateHan",
+        "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+        "zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1"
+      ]
+    },
     {
       "id": "dce6858c37320ff625a5070a23b56dc5b1a4d94ca15df31dff97aa0e3e05eda5",
       "primary_topic": "history-and-geopolitics",

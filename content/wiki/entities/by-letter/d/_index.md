@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7121
+wiki_total_pages: 7128
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "DanyangBattle"
     title: "丹阳之战 / Battle of Danyang"
     url: "/wiki/entities/danyangbattle/"
+  - key: "DanyangCommandery"
+    title: "丹阳郡 / Danyang Commandery"
+    url: "/wiki/entities/danyangcommandery/"
   - key: "DaiKingdomEarlyHan"
     title: "代国 / Dai Kingdom (early Han)"
     url: "/wiki/entities/daikingdomearlyhan/"

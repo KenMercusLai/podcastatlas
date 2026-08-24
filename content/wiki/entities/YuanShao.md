@@ -2,11 +2,15 @@
 title: "袁绍 / Yuan Shao"
 type: entity
 tags: [person, late-han, warlord, china]
-sources: [zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
 last_updated: 2026-08-24
 ---
 
 # 袁绍 / Yuan Shao
+
+[[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] backfills Yuan Shao's missed emperor-welcome decision before the later Cao Cao title branch. [[JuShou|沮授]] argues that Yuan Shao should bring [[EmperorXianOfHan|汉献帝]] to Ye and use the imperial name to command rival lords. [[GuoTu|郭图]] and [[ChunyuQiong|淳于琼]] oppose the plan because hosting the emperor would constrain Yuan Shao's own decisions.
+
+The source treats Yuan Shao's refusal as a major [[LegitimacyWindowSeizure|合法性窗口抢占]] failure. He has troops, family prestige, and a northern base, but he does not turn the still-recognized Han title into public authority; the host therefore reads the choice as ceding the "挟天子以令诸侯" opportunity to [[CaoCao|曹操]].
 
 [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] and [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]] backfill Yuan Shao's earlier [[ZangHong|臧洪]] case. In Hanji 996, Zang Hong begs Yuan Shao to rescue [[ZhangChaoLateHan|张超]] at [[YongqiuLateHan|雍丘]], but Yuan Shao refuses because the demand would cut against his alignment with [[CaoCao|曹操]]. After Zang Hong breaks with him and holds [[DongCommandery|东郡]], Yuan Shao uses [[ChenLinLateHan|陈琳]] to persuade him, then escalates the siege.
 
@@ -33,6 +37,7 @@ Hanji 1014 supplies the immediate contrast frame before that sequencing. Yuan Sh
 The page is source-scoped. Hanji 1016 does not narrate Yuan Shao's broader career; it uses the appointment to show that Han-court titles still matter in the late-Han competition. Yuan Shao receives an official place inside the imperial naming order, while Yuan Shu's self-claimed imperial name makes him a target.
 
 ## Connections
+- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[JuShou|沮授]], [[GuoTu|郭图]], [[ChunyuQiong|淳于琼]], [[EmperorXianOfHan|汉献帝]], [[MingqiLegitimacy|名器合法性]], and [[LegitimacyWindowSeizure|合法性窗口抢占]] - missed welcome-the-emperor strategy before Cao Cao seizes the legitimacy field.
 - [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]], [[ZangHong|臧洪]], [[ZhangChaoLateHan|张超]], [[ZhangMiaoLateHan|张邈]], [[ChenLinLateHan|陈琳]], and [[ChengLongLateHan|成龙]] - loyalty-conflict, siege, persuasion, and execution branch.
 - [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[CaoCao|曹操]], [[EmperorXianOfHan|汉献帝]], and [[StrategicTitleConcession|战略性名位让步]] - early great-general title concession branch.
 - [[GuoJia|郭嘉]] - adviser who leaves Yuan Shao after judging his talent-use and decision-making limits.

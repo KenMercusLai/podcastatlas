@@ -2,11 +2,13 @@
 title: "刘繇 / Liu Yao (late Han)"
 type: entity
 tags: [person, late-han, governor, jiangdong]
-sources: [zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
+sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
 last_updated: 2026-08-24
 ---
 
 # 刘繇 / Liu Yao (late Han)
+
+[[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] backfills Liu Yao as the Jiangdong power whose position makes [[YuanShu|袁术]] underestimate [[SunCe|孙策]]. Yuan Shu assumes Liu Yao's hold around Qu'a, together with [[WangLangLateHan|王朗]] in Kuaiji, will keep Sun Ce from succeeding after he leaves to help [[WuJingLateHan|吴景]] at [[HengjiangLateHan|横江]].
 
 [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] backfills Liu Yao before the Yuzhang route-choice branch. [[SunCe|孙策]] attacks Liu Yao's Niuzhu camp, captures stores, defeats positions tied to [[XueLiLateHan|薛礼]] and [[ZeRong|笮融]], and presses toward Qu'a. Liu Yao has access to [[TaishiCi|太史慈]] during this pressure, but does not make him a general.
 
@@ -20,6 +22,7 @@ The page keeps Liu Yao source-scoped as a route-and-personnel judgment case. His
 
 ## Connections
 - [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[TaishiCi|太史慈]], [[ShentinglingBattle|神亭岭之战]], and [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] - status-filtered underuse of a military talent during Sun Ce's pressure.
+- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[YuanShu|袁术]], [[SunCe|孙策]], [[WangLangLateHan|王朗]], [[WuJingLateHan|吴景]], and [[HengjiangLateHan|横江]] - Liu Yao as the expected obstacle Yuan Shu thinks will contain Sun Ce.
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - source episode.
 - [[XuShao|许劭]], [[KuaijiCommandery|会稽郡]], [[YuzhangCommandery|豫章郡]], [[SunCe|孙策]], [[CaoCao|曹操]], and [[LiuBiao|刘表]] - route-choice advice.
 - [[ZeRong|笮融]], [[ZhuHaoLateHan|朱皓]], [[YuanShu|袁术]], and [[ZhugeXuan|诸葛玄]] - Yuzhang intervention and failure.

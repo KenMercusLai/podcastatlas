@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇](sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's Anyi court, Chang'an's collapse, Yuan Shao missing Ju Shou's welcome-the-emperor strategy, and Sun Ce's Jiangdong start with Zhou Yu's material support.
 - [《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈](sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1.md) — 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong discipline and recruitment, Liu Yao's underuse of Taishi Ci, and the Shentingling encounter as a status-filtered talent-recognition failure.
 - [《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧](sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu.md) — 芮淇讲透资治通鉴 episode on Lu Fan taking an unglamorous military-discipline role for Sun Ce, Sun Ce's use of Zhang Zhao and Zhang Hong, and leadership lessons about operational gap ownership, talent delegation, and non-jealousy toward capable subordinates.
 - [《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？](sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k.md) — 芮淇讲透资治通鉴 episode on Liu Yao's Kuaiji/Yuzhang route choice, Xu Shao's survival advice, Ze Rong's Buddhist-institution grain diversion, and repeated murder of hosts and benefactors.
@@ -1379,6 +1380,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郭图 / Guo Tu](entities/GuoTu.md) — Yuan Shao adviser who opposes Ju Shou's plan to welcome Emperor Xian because hosting the sovereign would constrain later decisions.
+- [淳于琼 / Chunyu Qiong](entities/ChunyuQiong.md) — Yuan Shao adviser paired with Guo Tu in resisting the emperor-welcome plan and its legitimacy-control tradeoff.
+- [吴景 / Wu Jing (late Han)](entities/WuJingLateHan.md) — Sun Ce's uncle whose stalled Hengjiang campaign becomes Sun Ce's public reason to leave Yuan Shu and open the Jiangdong campaign.
+- [周尚 / Zhou Shang (late Han)](entities/ZhouShangLateHan.md) — Danyang governor and Zhou Yu's uncle whose office helps supply Sun Ce's early Jiangdong logistics and recruitment channel.
+- [丹阳郡 / Danyang Commandery](entities/DanyangCommandery.md) — Late-Han commandery that gives Zhou Yu and Zhou Shang the recruitment and logistics base used to support Sun Ce.
+- [横江 / Hengjiang (late Han)](entities/HengjiangLateHan.md) — Jiangdong crossing-point objective whose capture turns Sun Ce's rescue pretext into a real campaign opening.
+- [历阳 / Liyang (late Han)](entities/LiyangLateHan.md) — Late-Han waypoint where Sun Ce's small expedition grows before Zhou Yu's support and the Hengjiang crossing campaign.
 - [太史慈 / Taishi Ci](entities/TaishiCi.md) — Donglai military talent whom Liu Yao under-authorizes before the Shentingling encounter with Sun Ce.
 - [神亭岭之战 / Shentingling Battle](entities/ShentinglingBattle.md) — Late-Han encounter where Taishi Ci scouts with one rider and fights Sun Ce despite Sun Ce's stronger retinue.
 - [韩当 / Han Dang](entities/HanDang.md) — Veteran rider named among Sun Ce's thirteen followers at Shentingling in Hanji 993.
