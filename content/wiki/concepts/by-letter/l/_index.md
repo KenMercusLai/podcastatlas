@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5301
+wiki_total_pages: 5302
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "LuxuryScarcityDiscipline"
     title: "Luxury Scarcity Discipline"
     url: "/wiki/concepts/luxuryscarcitydiscipline/"
+  - key: "LyuBuFactionalBalance"
+    title: "Lü Bu Factional Balance / 吕布集团派系平衡"
+    url: "/wiki/concepts/lyubufactionalbalance/"
   - key: "LiteraryTravelAsCareerStrategy"
     title: "文人漫游作为仕途策略 / Literary Travel As Career Strategy"
     url: "/wiki/concepts/literarytravelascareerstrategy/"

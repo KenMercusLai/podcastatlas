@@ -2,8 +2,8 @@
 title: "下邳 / Xiapi"
 type: entity
 tags: [place, chu-han, logistics, late-han]
-sources: [zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
+last_updated: 2026-08-24
 ---
 
 # 下邳 / Xiapi
@@ -16,9 +16,12 @@ For this source, Xiapi matters as a [[TransportCorridorSeverance|交通线切割
 
 [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] adds a late-Han use. The source says [[ChenDeng|陈登]] later turns first against [[LyuBu|吕布]] during [[CaoCao|曹操]]'s 198 CE attack, helping Cao's side take Xiapi and persuade Lü Bu's generals. This page keeps that as a compact place note rather than a full siege account.
 
+[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] adds an earlier late-Han internal-command use. [[HaoMeng|郝萌]] attacks Lü Bu's Xiapi headquarters at night, forcing Lü Bu to flee to [[GaoShun|高顺]] before the revolt is suppressed. Xiapi therefore appears not only as a later siege site, but also as the place where Lü Bu's own command fragility becomes visible.
+
 ## Connections
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[HanXin|韩信]], [[LiuBang|刘邦]], and [[HostileTerritoryRoyalContainment|敌意封国安置]] - Chu kingship capital and hostile-territory placement.
 - [[PengYue|彭越]], [[XiangYu|项羽]], and [[TransportCorridorSeverance|交通线切割]] - rear attack and logistics pressure.
 - [[Xuzhou|彭城]], [[Chenggao|成皋]], and [[XingyangStandoff|荥阳相持]] - Chu capital region, central-front fortress, and strategic setting.
 - [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] - source page.
 - [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], [[ChenDeng|陈登]], [[LyuBu|吕布]], and [[CaoCao|曹操]] - late-Han attack and defection branch.
+- [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]], [[HaoMeng|郝萌]], [[GaoShun|高顺]], [[CaoXingLateHan|曹性]], and [[LyuBuFactionalBalance|吕布集团派系平衡]] - night revolt and internal-command branch.

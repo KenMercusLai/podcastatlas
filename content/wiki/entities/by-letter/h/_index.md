@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7044
+wiki_total_pages: 7048
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "Handan"
     title: "邯郸 / Handan"
     url: "/wiki/entities/handan/"
+  - key: "HaoMeng"
+    title: "郝萌 / Hao Meng"
+    url: "/wiki/entities/haomeng/"
   - key: "HaodaiBattle"
     title: "鄗代之战 / Battle of Hao-Dai"
     url: "/wiki/entities/haodaibattle/"

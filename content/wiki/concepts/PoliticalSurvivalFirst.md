@@ -2,8 +2,8 @@
 title: "Political Survival First / 安全第一政治生存"
 type: concept
 tags: [politics, statecraft, risk, han, survival]
-sources: [zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]
+last_updated: 2026-08-24
 ---
 
 # Political Survival First / 安全第一政治生存
@@ -13,6 +13,8 @@ Political survival first / 安全第一政治生存 is the rule [[zizhi-tongjian
 The concept is not simple cowardice. In the episode's reading, Chen Ping survives because he keeps room to maneuver, reads human danger, avoids irreversible commitments when the power field is unclear, and shifts only when the dominant structure has actually changed. His conduct under [[LuZhi|吕雉]] is therefore kept source-scoped as tactical ambiguity rather than settled proof that he belongs to the Lu faction.
 
 The concept also explains why "good" and "effective" diverge in this source. Chen Ping can look slippery, morally compromised, and cold, yet the same discretion lets him remain alive long enough to help [[ZhouBo|周勃]] and the Liu-family restoration after Lu Zhi's death. Survival-first politics preserves agency by limiting exposure.
+
+[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] adds a factional non-prosecution version through [[LyuBu|吕布]]. After [[CaoXingLateHan|曹性]] names [[ChenGongLateHan|陈宫]] in [[HaoMeng|郝萌]]'s revolt, Lü Bu does not punish Chen Gong because the source reads Chen Gong as a necessary Yanzhou士族 counterweight to the Bingzhou military core around [[GaoShun|高顺]] and [[ZhangLiao|张辽]]. Survival-first politics here means tolerating unresolved guilt to avoid breaking the coalition needed to keep governing.
 
 [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds a court-site version through [[DongZhaoLateHan|董昭]]'s advice to [[CaoCao|曹操]]. Staying in [[LuoyangLateHan|洛阳]] would leave Cao Cao exposed to competing generals, damaged infrastructure, and supply failure, while moving [[EmperorXianOfHan|汉献帝]] to [[Xudu|许县 / 许都]] protects the court and Cao Cao's new position through geography and food.
 
@@ -44,6 +46,7 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 - Hanji 182 part 3 adds that the absence of survival-first judgment can make military genius politically unusable after the victory order changes.
 - Hanji 1016 adds that family survival can depend on refusing a dangerous title or alliance even when the refusal creates immediate hostage and retaliation risk.
 - Hanji 1017 adds that survival-first politics can operate at family scale, using staged alignment rather than a single irreversible camp choice.
+- Hanji 1000 adds that survival-first politics can appear as factional non-prosecution when punishing one suspect would damage the alliance structure a warlord needs.
 - In a lethal court, self-preservation can become a political operating discipline rather than a private weakness.
 - Survival-first actors avoid closing every path before succession, regency, or factional outcomes are known.
 - The strategy can preserve useful agency, but it also damages moral legibility because outsiders may read prudence as opportunism.
@@ -52,6 +55,7 @@ The concept also explains why "good" and "effective" diverge in this source. Che
 
 ## Connections
 - [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[SunCe|孙策]], [[YuFan|虞翻]], and [[LeaderPersonalExposure|领导者轻身涉险]] - ruler-body and personal-security branch.
+- [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]], [[LyuBu|吕布]], [[ChenGongLateHan|陈宫]], [[GaoShun|高顺]], [[ZhangLiao|张辽]], and [[LyuBuFactionalBalance|吕布集团派系平衡]] - factional non-prosecution after internal revolt.
 - [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]], [[DongZhaoLateHan|董昭]], [[CaoCao|曹操]], [[LuoyangLateHan|洛阳]], and [[Xudu|许都]] - court-site and supply-security branch.
 - [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[PowerExitTrap|权力退场困境]] - negative contrast where battlefield genius lacks timely court-survival judgment.
 - [[ChenPing|陈平]] - source case.

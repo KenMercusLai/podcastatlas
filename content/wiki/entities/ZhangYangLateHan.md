@@ -2,13 +2,15 @@
 title: "张杨 / Zhang Yang (late Han)"
 type: entity
 tags: [person, late-han, military, henei]
-sources: [zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
+last_updated: 2026-08-24
 ---
 
 # 张杨 / Zhang Yang (late Han)
 
-张杨 / Zhang Yang (late Han) enters the wiki through [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] as the Henei patron under whom [[DongZhaoLateHan|董昭]] first helps [[CaoCao|曹操]]. When Cao Cao wants to use Henei to contact the eastern Han court, Zhang Yang initially refuses, but Dong Zhao persuades him to permit the channel.
+[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] supplies Zhang Yang's return-to-Luoyang role before the Cao Cao access branch. He transports grain, meets [[EmperorXianOfHan|汉献帝]] on the road, helps the emperor reach [[LuoyangLateHan|洛阳]], then withdraws to Yewang after saying the emperor belongs to the realm and should be assisted by ministers while armed men defend outside.
+
+张杨 / Zhang Yang (late Han) is further developed in [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] as the Henei patron under whom [[DongZhaoLateHan|董昭]] first helps [[CaoCao|曹操]]. When Cao Cao wants to use Henei to contact the eastern Han court, Zhang Yang initially refuses, but Dong Zhao persuades him to permit the channel.
 
 The source uses Zhang Yang mainly to show Dong Zhao's early judgment. Dong Zhao is formally Zhang Yang's adviser, yet the host reads his conduct as already oriented toward Cao Cao because he sees Cao Cao as the actor with better future potential.
 
@@ -17,5 +19,6 @@ Zhang Yang also appears in the episode's later Luoyang turn as one of the figure
 ## Connections
 - [[DongZhaoLateHan|董昭]] - adviser whose Henei persuasion links Zhang Yang to Cao Cao.
 - [[CaoCao|曹操]] - outside actor seeking a court-communication route through Henei.
-- [[EmperorXianOfHan|汉献帝]] and [[LuoyangLateHan|洛阳]] - court setting that later makes Zhang Yang's role politically sensitive.
+- [[EmperorXianOfHan|汉献帝]] and [[LuoyangLateHan|洛阳]] - court-return setting that later makes Zhang Yang's role politically sensitive.
+- [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[DongChengLateHan|董承]] - other armed actors around the returning and ruined court.
 - [[ProactiveAdviserInitiative|主动补位式谋臣]] and [[StrategicRecognitionAlignment|谋略知己式归附]] - concepts grounded by Dong Zhao's conduct while serving Zhang Yang.

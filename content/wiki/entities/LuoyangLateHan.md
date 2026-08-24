@@ -2,11 +2,13 @@
 title: "洛阳 / Luoyang (late Han)"
 type: entity
 tags: [place, city, capital, late-han, china]
-sources: [zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
+last_updated: 2026-08-24
 ---
 
 # 洛阳 / Luoyang (late Han)
+
+[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] supplies the immediate return and ruin stage. [[EmperorXianOfHan|汉献帝]] reaches Luoyang, first stays in the former residence of Zhao Zhong, then moves to the South Palace's Yang'an Hall after a general amnesty. The episode stresses the material collapse: palaces burned by Dong Zhuo, officials living in makeshift shelters, starvation around the court, and regional authorities withholding support.
 
 [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] adds the approach phase before Luoyang becomes a relocation problem. [[CaoCao|曹操]] wants to reach the emperor from Xu, but [[YangFengLateHan|杨奉]] blocks the route and [[HanXianLateHan|韩暹]] dominates the court environment. [[DongZhaoLateHan|董昭]]'s letter to Yang Feng and [[DongChengLateHan|董承]]'s later appeal make Cao Cao's entry possible with little direct fighting in the source account.
 

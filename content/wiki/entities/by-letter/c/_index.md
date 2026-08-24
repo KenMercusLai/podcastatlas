@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7044
+wiki_total_pages: 7048
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1241,6 +1241,9 @@ wiki_pages:
   - key: "CaoBin"
     title: "曹彬 / Cao Bin"
     url: "/wiki/entities/caobin/"
+  - key: "CaoXingLateHan"
+    title: "曹性 / Cao Xing (late Han)"
+    url: "/wiki/entities/caoxinglatehan/"
   - key: "CaoCao"
     title: "曹操 / Cao Cao"
     url: "/wiki/entities/caocao/"
@@ -1421,6 +1424,9 @@ wiki_pages:
   - key: "ChenYing"
     title: "陈婴 / Chen Ying"
     url: "/wiki/entities/chenying/"
+  - key: "ChenGongLateHan"
+    title: "陈宫 / Chen Gong (late Han)"
+    url: "/wiki/entities/chengonglatehan/"
   - key: "ChenYinke"
     title: "陈寅恪"
     url: "/wiki/entities/chenyinke/"

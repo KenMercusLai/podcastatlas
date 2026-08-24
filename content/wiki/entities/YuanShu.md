@@ -2,13 +2,15 @@
 title: "袁术 / Yuan Shu"
 type: entity
 tags: [person, late-han, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+last_updated: 2026-08-24
 ---
 
 # 袁术 / Yuan Shu
 
-袁术 / Yuan Shu is developed across the Hanji 1001-1002, Hanji 1008, and Hanji 1015-1020 late-Han branch as the powerholder whose resources, titles, symbols, and alliances repeatedly become liabilities. [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] supplies the earliest title-ambition setup: Yuan Shu reads "代汉者当涂高" through his own name, combines it with [[YinYangFivePhasesPoliticalTheory|five-phases]] succession logic, and treats the [[HeirloomImperialSeal|传国玉玺]] as supporting evidence.
+袁术 / Yuan Shu is developed across the Hanji 1000-1002, Hanji 1008, and Hanji 1015-1020 late-Han branch as the powerholder whose resources, titles, symbols, and alliances repeatedly become liabilities. [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] adds an earlier shadow role: [[CaoXingLateHan|曹性]] says Yuan Shu encouraged [[HaoMeng|郝萌]]'s revolt against [[LyuBu|吕布]], and the episode ends by teeing up why Yuan Shu will soon think he can claim the imperial title.
+
+[[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] supplies the earliest title-ambition setup: Yuan Shu reads "代汉者当涂高" through his own name, combines it with [[YinYangFivePhasesPoliticalTheory|five-phases]] succession logic, and treats the [[HeirloomImperialSeal|传国玉玺]] as supporting evidence.
 
 The same source shows the claim failing before it is public. Yuan Shu's generals give no support, [[YanXiangLateHan|阎象]] warns that Yuan family prestige and Han weakness do not equal [[ZhouWenwang|周文王]]'s accumulated virtue, and [[ZhangChengLateHan|张承]] tells him rule is "in virtue, not in strength." Yuan Shu's later disaster therefore begins as a failure of [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[MingqiLegitimacy|名器合法性]], and [[TitleRealityRestraint|名实相符式名号节制]], not only as a battlefield or supply problem.
 
@@ -35,6 +37,7 @@ The source summarizes his failure in three connected ways: he does not align wit
 [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] supplies the immediately preceding destructive case. Yuan Shu knows [[ChenStateLateHan|陈国]] is wealthy and asks it for grain; when [[LiuChongChenKing|刘宠]] and [[LuoJun|骆俊]] do not supply him, Yuan Shu sends [[ZhangKaiAssassin|张闿]] under a surrender pretext to kill both leaders. The episode reads this as a desperate "困兽" moment: Yuan Shu still has enough reach to destroy a local order, but the act also belongs to the phase in which his broader position is collapsing.
 
 ## Connections
+- [[HaoMeng|郝萌]], [[CaoXingLateHan|曹性]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], and [[LyuBuFactionalBalance|吕布集团派系平衡]] - Hanji 1000 alleged instigation of the Xiapi revolt.
 - [[YanXiangLateHan|阎象]], [[ZhangFanLateHan|张范]], [[ZhangChengLateHan|张承]], and [[HeirloomImperialSeal|传国玉玺]] - Hanji 1001 internal-warning and symbolic-claim branch before the later public self-coronation.
 - [[HeKui|何夔]] - person whose judgment supplies the episode's critique.
 - [[CaoCao|曹操]] - rival powerholder who asks about Yuan Shu and draws a talent lesson from the answer.

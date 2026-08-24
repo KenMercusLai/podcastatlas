@@ -2,13 +2,15 @@
 title: "杨奉 / Yang Feng (late Han)"
 type: entity
 tags: [person, late-han, military]
-sources: [zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+last_updated: 2026-08-24
 ---
 
 # 杨奉 / Yang Feng (late Han)
 
-[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] adds the earlier cooperation phase before Yang Feng becomes Cao Cao's obstruction target. The episode says Yang Feng is stationed at Liang, has the strongest force among the White Wave / Baibo-linked generals, and controls the route [[CaoCao|曹操]] must use from Xu toward [[LuoyangLateHan|洛阳]].
+[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] supplies Yang Feng's immediate emperor-return role. Along with [[HanXianLateHan|韩暹]], he escorts [[EmperorXianOfHan|汉献帝]] east toward [[LuoyangLateHan|洛阳]], then leaves the city and stations at Liang after the return.
+
+[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] adds the earlier cooperation phase before Yang Feng becomes Cao Cao's obstruction target. The episode says Yang Feng is stationed at Liang, has the strongest force among the White Wave / Baibo-linked generals, and controls the route [[CaoCao|曹操]] must use from Xu toward Luoyang.
 
 [[DongZhaoLateHan|董昭]] therefore writes to Yang Feng in Cao Cao's name. He praises Yang Feng's protection of [[EmperorXianOfHan|汉献帝]], then frames Cao Cao as a useful outside ally because Cao Cao has grain while Yang Feng has soldiers. Yang Feng accepts the frame happily and submits a memorial appointing Cao Cao general who campaigns east, making this branch an early case of [[InterestReframingPersuasion|利益重构式说服]] before the later rupture.
 

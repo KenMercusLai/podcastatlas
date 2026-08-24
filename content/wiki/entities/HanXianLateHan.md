@@ -2,13 +2,15 @@
 title: "韩暹 / Han Xian (late Han)"
 type: entity
 tags: [person, late-han, military]
-sources: [zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+last_updated: 2026-08-24
 ---
 
 # 韩暹 / Han Xian (late Han)
 
-[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] supplies the immediate obstacle context around Han Xian. The episode says Han Xian holds the high court rank of great general after helping protect [[EmperorXianOfHan|汉献帝]], but his surrounding White Wave / Baibo-linked military network makes [[CaoCao|曹操]]'s entry into [[LuoyangLateHan|洛阳]] politically dangerous.
+[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] supplies Han Xian's immediate return-to-Luoyang role. He and [[YangFengLateHan|杨奉]] escort [[EmperorXianOfHan|汉献帝]] east, and after Yang Feng and [[ZhangYangLateHan|张杨]] leave, Han Xian remains in Luoyang with [[DongChengLateHan|董承]] near the ruined court.
+
+[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] supplies the immediate obstacle context around Han Xian. The episode says Han Xian holds the high court rank of great general after helping protect Emperor Xian, but his surrounding White Wave / Baibo-linked military network makes [[CaoCao|曹操]]'s entry into [[LuoyangLateHan|洛阳]] politically dangerous.
 
 The same source turns Han Xian into the pressure that gives Cao Cao an opening. [[DongChengLateHan|董承]] becomes dissatisfied and afraid under Han Xian's behavior, then secretly asks Cao Cao for help. After Cao Cao reaches Luoyang and accuses Han Xian, Han Xian flees to [[YangFengLateHan|杨奉]], while Emperor Xian declines to punish him because of earlier escort merit.
 

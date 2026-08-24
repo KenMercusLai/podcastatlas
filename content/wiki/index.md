@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？](sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68.md) — 芮淇讲透资治通鉴 episode on Hao Meng's Xiapi night revolt against Lü Bu, Gao Shun and Cao Xing's suppression, Chen Gong's unpunished implication as factional-balance politics, and Emperor Xian's ruined Luoyang return before Yuan Shu's title-ambition setup.
 - [中国迎来汉堡开店潮，国产黄柠檬价格回落](sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543.md) — 声动早咖啡 episode on China burger expansion, domestic yellow-lemon price declines, Alibaba's Lingxi sale, DJI/Insta360 camera competition, Coach China growth, Moutai channel adjustment, and soft versus hard discount retail.
 - [Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety](sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485.md) — All-In interview with Flock Safety CEO Garrett Langley on license-plate readers, privacy criticism, retention defaults, audit assistance, local governance, AI caution, drones, and public-safety tradeoffs.
 - [As space launches increase, there aren't enough spaceports](sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128.md) — Marketplace Tech episode on commercial satellite demand, crowded U.S. launch pads, scarce spaceport geography, the FAA environmental-review waiver proposal, SpaceX, and habitat/legal objections.
@@ -1559,9 +1560,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张承 / Zhang Cheng (late Han)](entities/ZhangChengLateHan.md) — Zhang Fan's younger brother whose "in virtue, not strength" remonstrance rejects Yuan Shu's force-based imperial reasoning.
 - [传国玉玺 / Heirloom Imperial Seal](entities/HeirloomImperialSeal.md) — Imperial object Yuan Shu forces from Sun Jian's household and treats as title support, while the source keeps it insufficient without accepted legitimacy.
 - [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 1003-1004 branch clears Yang Feng from Cao Cao's Luoyang path and then turns Emperor Xian's relocation into a supply-grounded move from Luoyang to Xu.
-- [张杨 / Zhang Yang (late Han)](entities/ZhangYangLateHan.md) — Henei patron whose initial refusal is overcome by Dong Zhao, opening Cao Cao's early court-contact route.
-- [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor whose appeal against Han Xian gives Cao Cao an overt reason to enter Luoyang after initially blocking Cao Hong.
-- [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, weak supplies, and unstable military surroundings make the Xu relocation plausible in Hanji 1004.
+- [张杨 / Zhang Yang (late Han)](entities/ZhangYangLateHan.md) — Emperor-return supplier and Henei patron whose later initial refusal is overcome by Dong Zhao, opening Cao Cao's early court-contact route.
+- [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor who remains with Han Xian in ruined Luoyang, later appeals against him, and gives Cao Cao an overt reason to enter.
+- [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
 - [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao-side late-Han actor whose early Qingzhou victories include taking Beihai from Kong Rong, before the source warns that pride and poor companions erode reputation.
 - [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
@@ -1614,8 +1615,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [任峻 / Ren Jun](entities/RenJun.md) — Cao Cao-side official appointed典农中郎将 to implement屯田 with Zao Zhi around Xudu.
 - [纪灵 / Ji Ling](entities/JiLing.md) — Yuan Shu-side commander whose attack on Liu Bei is stopped by Lü Bu's辕门射戟.
 - [许都 / Xudu](entities/Xudu.md) — Cao Cao's late-Han court center after Emperor Xian's relocation, later becoming Hanji 1008's first major屯田 implementation site.
-- [韩暹 / Han Xian (late Han)](entities/HanXianLateHan.md) — Late-Han military actor whose court pressure gives Dong Cheng reason to call Cao Cao, later persuaded by Lü Bu to leave Yuan Shu's coalition.
-- [杨奉 / Yang Feng (late Han)](entities/YangFengLateHan.md) — Former emperor-protection actor first persuaded by Dong Zhao's grain-and-troops letter, later defeated by Cao Cao after the Xu relocation and paired with Han Xian in the Yuan Shu coalition switch.
+- [韩暹 / Han Xian (late Han)](entities/HanXianLateHan.md) — Late-Han military actor who escorts Emperor Xian back to Luoyang, pressures Dong Cheng into calling Cao Cao, and later leaves Yuan Shu's coalition.
+- [杨奉 / Yang Feng (late Han)](entities/YangFengLateHan.md) — Emperor-protection actor stationed at Liang, first persuaded by Dong Zhao's grain-and-troops letter, later defeated by Cao Cao and paired with Han Xian in the Yuan Shu coalition switch.
 - [张勋 / Zhang Xun (Yuan Shu general)](entities/ZhangXunYuanShu.md) — Yuan Shu commander whose attack on Lü Bu collapses after Han Xian and Yang Feng defect.
 - [桥蕤 / Qiao Rui](entities/QiaoRui.md) — Yuan Shu-side commander in Hanji 1018 and later Cao Cao target in Hanji 1019's Qiyang branch.
 - [张霸 / Zhang Ba (late Han)](entities/ZhangBaLateHan.md) — Taishan-area figure whose refusal to share supplies exposes Lü Bu's ignored-advice and lost-face problem.
@@ -1626,10 +1627,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Sun Ce's father, disambiguated from the modern researcher page, whose Wu Cheng marquis title is inherited in Hanji 1019.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
 - [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Yuan Shu's assassin who uses false surrender to kill Liu Chong and Luo Jun.
-- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from Hanji 1008's辕门射戟 mediation into the Hanji 1009 attack on Liu Bei, marriage-alliance reversal, "轻于去就", tactical coalition-breaking, unstable trust, and ignored loyal advice.
-- [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose disciplined 陷阵营 and ignored warning sharpen the Hanji 1018 personnel-judgment failure.
+- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from Hao Meng's internal revolt and factional non-punishment into 辕门射戟 mediation, Liu Bei conflict, alliance reversal, and ignored loyal advice.
+- [郝萌 / Hao Meng](entities/HaoMeng.md) — Lü Bu subordinate whose Xiapi night revolt exposes the fragility of Lü Bu's command before Gao Shun and Cao Xing suppress it.
+- [曹性 / Cao Xing (late Han)](entities/CaoXingLateHan.md) — Hao Meng subordinate who turns against the revolt, wounds Hao Meng, and accuses Yuan Shu and Chen Gong of involvement.
+- [陈宫 / Chen Gong (late Han)](entities/ChenGongLateHan.md) — Adviser-faction figure whose alleged link to Hao Meng's revolt is left unpunished because Lü Bu needs his Yanzhou士族 counterweight.
+- [张辽 / Zhang Liao](entities/ZhangLiao.md) — Bingzhou-origin Lü Bu subordinate used in Hanji 1000 as part of the military-core faction balancing Chen Gong's gentry channel.
+- [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose suppression of Hao Meng's revolt, disciplined 陷阵营, and ignored warning sharpen Lü Bu's personnel-judgment failure.
 - [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun through troop transfer, command dependence, and later betrayal risk.
-- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose omen-, five-phases-, and seal-backed imperial ambition is rejected by internal remonstrance, costs Sun Ce, invites anti-usurpation pressure, and collapses through marriage/coalition/predation failures.
+- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder linked to Hao Meng's revolt and whose omen-, five-phases-, and seal-backed imperial ambition is rejected, costs Sun Ce, invites anti-usurpation pressure, and collapses.
 - [何夔 / He Kui](entities/HeKui.md) — Late-Han official whose refusal of Yuan Shu and answer to Cao Cao diagnose Yuan Shu's political failure.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.
 - [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose Yuan Shu marriage tie leads to a politically risky arrest and release under Cao Cao.
@@ -8623,7 +8628,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
-- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, staged alignment, alliance blocking, adviser exit, and factional timing as core political disciplines.
+- [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, factional non-prosecution, staged alignment, alliance blocking, adviser exit, and timing as political disciplines.
+- [Lü Bu Factional Balance / 吕布集团派系平衡](concepts/LyuBuFactionalBalance.md) — Late-Han command pattern where Lü Bu avoids punishing Chen Gong after Hao Meng's revolt because military and gentry factions are mutually necessary.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.
 - [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors and sustaining that signal through insider backlash.

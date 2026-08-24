@@ -7663,6 +7663,10 @@
     "title": "曹无伤 / Cao Wushang",
     "url": "/wiki/entities/caowushang/"
   },
+  "CaoXingLateHan": {
+    "title": "曹性 / Cao Xing (late Han)",
+    "url": "/wiki/entities/caoxinglatehan/"
+  },
   "CaoXudong": {
     "title": "Cao Xudong",
     "url": "/wiki/entities/caoxudong/"
@@ -8566,6 +8570,10 @@
   "ChenDoctorInvestmentABC": {
     "title": "陈博士 / 投资ABC",
     "url": "/wiki/entities/chendoctorinvestmentabc/"
+  },
+  "ChenGongLateHan": {
+    "title": "陈宫 / Chen Gong (late Han)",
+    "url": "/wiki/entities/chengonglatehan/"
   },
   "ChenGui": {
     "title": "陈珪 / Chen Gui",
@@ -19547,6 +19555,10 @@
     "title": "Hanzi Transdialectal Function",
     "url": "/wiki/concepts/hanzitransdialectalfunction/"
   },
+  "HaoMeng": {
+    "title": "郝萌 / Hao Meng",
+    "url": "/wiki/entities/haomeng/"
+  },
   "Haoda": {
     "title": "豪大",
     "url": "/wiki/entities/haoda/"
@@ -27466,6 +27478,10 @@
   "LyuBu": {
     "title": "吕布 / Lü Bu",
     "url": "/wiki/entities/lyubu/"
+  },
+  "LyuBuFactionalBalance": {
+    "title": "Lü Bu Factional Balance / 吕布集团派系平衡",
+    "url": "/wiki/concepts/lyubufactionalbalance/"
   },
   "MAGA": {
     "title": "MAGA / Make America Great Again",
@@ -49491,6 +49507,10 @@
     "title": "张良 / Zhang Liang",
     "url": "/wiki/entities/zhangliang/"
   },
+  "ZhangLiao": {
+    "title": "张辽 / Zhang Liao",
+    "url": "/wiki/entities/zhangliao/"
+  },
   "ZhangLu": {
     "title": "张璐 / Zhang Lu",
     "url": "/wiki/entities/zhanglu/"
@@ -53530,6 +53550,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68": {
+    "title": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68/"
   },
   "zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke": {
     "title": "《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？",
