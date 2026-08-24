@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5370
+wiki_total_pages: 5371
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "ExternalPatronDependence"
     title: "External Patron Dependence"
     url: "/wiki/concepts/externalpatrondependence/"
+  - key: "ExternalTroopInvitationRisk"
+    title: "External Troop Invitation Risk / 外兵入京升级风险"
+    url: "/wiki/concepts/externaltroopinvitationrisk/"
   - key: "ExternalityInternalization"
     title: "Externality Internalization"
     url: "/wiki/concepts/externalityinternalization/"

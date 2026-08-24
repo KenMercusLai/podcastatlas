@@ -2,11 +2,15 @@
 title: "王允 / Wang Yun (late Han)"
 type: entity
 tags: [late-han, official, dong-zhuo-aftermath, chang-an]
-sources: [zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 王允 / Wang Yun (late Han)
+
+[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Wang Yun's earliest place in the He Jin crisis. After [[YuanShao|袁绍]] presses [[HeJin|何进]] to move decisively against the [[TenAttendantsLateHan|十常侍]], He Jin appoints Yuan Shao as sili xiaowei and appoints Wang Yun as Henan yin.
+
+The source uses Wang Yun mainly as a personnel marker rather than a developed actor. His appointment shows He Jin and Yuan Shao trying to convert anti-eunuch pressure into formal office control before Hanji 946 shows the palace command channel breaking.
 
 [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] supplies Wang Yun's pre-coup waiting posture. After [[EmperorXianOfHan|汉献帝]] reaches [[ChangAnHanCapital|长安]] and temporarily stays at the Jingzhao Yin office, Wang Yun handles court affairs while appearing submissive to [[DongZhuo|董卓]]. The episode frames this as hidden compliance: Wang Yun preserves access under a captured court while waiting for an opening to remove Dong Zhuo.
 
@@ -36,6 +40,7 @@ The host's source-scoped evaluation is severe: Wang Yun is treated as lacking po
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[TenAttendantsLateHan|十常侍]], and [[CourtOfficeCapture|朝廷开府任官失序]] - Henan yin appointment before the palace command channel collapses.
 - [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[EmperorXianOfHan|汉献帝]], [[ChangAnHanCapital|长安]], and [[DongZhuo|董卓]] - pre-coup court-management and hidden-compliance posture.
 - [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]], [[HuangWanLateHan|黄琬]], [[ShiSunRuiLateHan|士孙瑞]], [[YangZanLateHan|杨瓒]], [[LyuBu|吕布]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]] - pre-coup planning and persuasion branch.
 - [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[ShiSunRuiLateHan|士孙瑞]], [[LyuBu|吕布]], [[DongZhuo|董卓]], [[CaiYong|蔡邕]], and [[MaRidiLateHan|马日磾]] - direct coup design and historian-silencing branch.

@@ -2,11 +2,15 @@
 title: "十常侍 / Ten Attendants (late Han)"
 type: entity
 tags: [group, eunuchs, late-han, court, china]
-sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # 十常侍 / Ten Attendants (late Han)
+
+[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] backfills the Ten Attendants before their Hanji 946 counterattack. [[HeJin|何进]] and [[YuanShao|袁绍]] use outside-force pressure and jiajie authority to force [[EmpressDowagerHe|何太后]] to dismiss many regular palace attendants and lesser eunuchs, but He Jin does not execute them when they come to submit.
+
+The episode shows the group as endangered but still connected. [[ZhangRangLateHan|张让]] uses family and palace channels through [[WuyangJun|武阳君]] to obtain reentry, so dismissal does not end the faction's access. This makes Hanji 945 the access-recovery prelude to Hanji 946's [[PalaceCoupViolenceCascade|宫廷政变暴力级联]].
 
 十常侍 / Ten Attendants (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] as the palace eunuch bloc targeted by [[HeJin|何进]] after [[EmperorLingOfHan|汉灵帝]]'s death. The episode does not give a full institutional history; it uses the group as the organized inner-court faction around [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[ZhaoZhongLateHan|赵忠]].
 
@@ -15,6 +19,7 @@ The group matters because palace access lets it move faster than its outside ene
 The source treats the Ten Attendants' end as a mutual-destruction prelude rather than a clean restoration. Killing the eunuchs does not restore court order; it creates the vacuum that [[DongZhuo|董卓]] exploits in [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - dismissal, spared submission, and reentry before the killing.
 - [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[ZhaoZhongLateHan|赵忠]] - named figures in the source's eunuch bloc.
 - [[HeJin|何进]] and [[EmpressDowagerHe|何太后]] - outside powerholder and queen mother around whom the conflict turns.
 - [[PalaceAccessMonopoly|宫廷接触垄断]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - concepts sharpened by the episode.

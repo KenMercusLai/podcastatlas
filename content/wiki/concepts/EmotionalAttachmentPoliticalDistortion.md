@@ -2,11 +2,15 @@
 title: "Emotional Attachment Political Distortion / 情执政治判断失衡"
 type: concept
 tags: [political-psychology, statecraft, emotion, late-han]
-sources: [zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]
+last_updated: 2026-08-25
 ---
 
 # Emotional Attachment Political Distortion / 情执政治判断失衡
+
+[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds a narrower "执念" version before the Zang Hong branch. The source applies the frame to [[HeJin|何进]]: once he commits to [[YuanShao|袁绍]]'s outside-force plan, warnings from [[ZhengTaiLateHan|郑泰]], [[LuZhiLateHan|卢植]], [[ChenLinLateHan|陈琳]], and [[CaoCao|曹操]] no longer move him.
+
+This is not the same as Zang Hong's loyalty-driven distortion. Hanji 945's attachment is to a chosen solution: summoning troops appears to promise control over [[EmpressDowagerHe|何太后]] and the [[TenAttendantsLateHan|十常侍]], but the fixation blocks He Jin from seeing [[ExternalTroopInvitationRisk|外兵入京升级风险]] as the situation changes.
 
 Emotional attachment political distortion / 情执政治判断失衡 is the pattern [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] and [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]] build from [[ZangHong|臧洪]]'s old-superior loyalty into his death. The sources treat attachment, grief, resentment, and righteousness as real forces, but warn that they can become the lens through which every political obligation is judged.
 
@@ -17,6 +21,7 @@ Hanji 996 also shows how the distortion becomes path-dependent. Once Zang Hong t
 This makes the concept adjacent to [[DeathPartyLoyalty|死党之义与守职奉上]] and [[XingshiqingStrategicAssessment|行势情战略评估]]. Death-party loyalty names the institutional danger when private loyalty outruns office duty; xingshiqing names the need to read actor feeling as one condition among others. Emotional attachment political distortion names the failure mode where "情" stops being a condition to assess and becomes the whole decision.
 
 ## Key Claims
+- Hanji 945 adds solution-fixation as a political distortion: commitment to a plan can make disconfirming warnings unreadable.
 - Strong feeling can preserve moral memory while still damaging political judgment.
 - A real grievance can become destructive if it is made the only scale for action.
 - Loyalty to an old superior can conflict with current office and alliance realities.
@@ -25,6 +30,7 @@ This makes the concept adjacent to [[DeathPartyLoyalty|死党之义与守职奉�
 - The source keeps Zang Hong morally complex: courage and attachment are not denied, but they are not treated as sufficient justification.
 
 ## Connections
+- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[ZhengTaiLateHan|郑泰]], [[LuZhiLateHan|卢植]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - fixation on a chosen escalation plan.
 - [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]], [[ZangHong|臧洪]], [[ZhangChaoLateHan|张超]], [[YuanShao|袁绍]], [[CaoCao|曹操]], [[DongCommandery|东郡]], and [[YongqiuLateHan|雍丘]] - source branch.
 - [[ChengLongLateHan|成龙]] - fellow death case that dramatizes the same renyi pressure.
 - [[DeathPartyLoyalty|死党之义与守职奉上]] - institutional critique of private loyalty overriding office duty.

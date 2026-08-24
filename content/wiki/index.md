@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦](sources/zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl.md) — 芮淇讲透资治通鉴 episode on He Jin's obsession with summoning outside troops, Zheng Tai and Lu Zhi's warnings, Dong Zhuo's halted approach, Yuan Shao's jiajie authority, and Zhang Rang's return through palace-family ties.
 - [《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？](sources/zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5.md) — 芮淇讲透资治通鉴 episode on He Jin's failed anti-eunuch move, Zhang Rang and Duan Gui's killing of He Jin, Yuan-family retaliation, the imperial flight to Xiaopingjin, and Dong Zhuo's opening.
 - [《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路](sources/zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's first Luoyang consolidation, Bao Xin's missed preemptive-strike advice to Yuan Shao, staged reinforcements, Lü Bu's killing of Ding Yuan, sikong office capture, and Cai Yong's coerced recruitment.
 - [《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？](sources/zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's forced deposition of Liu Bian, installation of Emperor Xian, Yuan Shao and Lu Zhi's objections, He-family punishment, and legitimacy packaging through appointments and Party Prohibition rehabilitation.
@@ -8801,6 +8802,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [External Troop Invitation Risk / 外兵入京升级风险](concepts/ExternalTroopInvitationRisk.md) — Palace-crisis pattern where borrowing outside military pressure gives armed outsiders a route into central power.
 - [Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险](concepts/ZeroSumConflictHesitationRisk.md) — Hanji 946 frame where delayed, softened action becomes dangerous after a conflict has become lethal and the other side can strike first.
 - [Palace Coup Violence Cascade / 宫廷政变暴力级联](concepts/PalaceCoupViolenceCascade.md) — Hanji 946 pattern where one palace killing triggers forged orders, gate assault, retaliatory slaughter, imperial flight, and third-party capture opportunity.
 - [Military Presence Theater / 军力声势表演](concepts/MilitaryPresenceTheater.md) — Dong Zhuo's late-Han tactic of making a small arriving force look like repeated reinforcement before turning perceived momentum into court control.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦
+
+Added source page for Hanji 945: He Jin's fixation on summoning outside troops to pressure Empress Dowager He against the eunuchs, Zheng Tai and Lu Zhi's warnings against inviting Dong Zhuo, Wang Kuang/Bao Xin/Qiao Mao/Ding Yuan mobilization, Zhong Shao's temporary halt of Dong Zhuo, Yuan Shao's jiajie authority, and Zhang Rang's palace-family route back inside. Created External Troop Invitation Risk; updated late-Han actor and concept pages. No settled contradiction found; the "执念" and motive readings are source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？
 
 Added source page for Hanji 946: He Jin's failed push to eliminate the Ten Attendants, Zhang Rang and Duan Gui's palace counterattack, Qu Mu's killing of He Jin, Yuan-family and He-family retaliation, forged appointments, gate fire, indiscriminate eunuch slaughter, the flight of Liu Bian and Liu Xie toward Xiaopingjin, Min Gong's pursuit, and Dong Zhuo's opening. Created pages for the Ten Attendants, Zhang Rang, Duan Gui, Qu Mu, Wu Kuang, Zhang Zhang, Fan Ling, Xu Xiang, Zhao Zhong, Xiaopingjin, Zero-Sum Conflict Hesitation Risk, and Palace Coup Violence Cascade; updated overview, index, and related late-Han entity and concept pages. No settled contradiction found; transcript 段规 is normalized to 段珪 / Duan Gui, while motive, character, and workplace "打直球" readings remain source-scoped.
@@ -11386,6 +11390,10 @@ Added source page for Hanji 951: Dong Zhuo's forced Luoyang-to-Chang'an relocati
 ## [2026-08-25] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health passed across 14,120 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,120 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged missing `## Key Claims` sections in `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/FinancialPowerAndStateCapacity.md`, and `wiki/concepts/LargeCompanyOpenSourceStrategy.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

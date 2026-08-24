@@ -2,11 +2,15 @@
 title: "洛阳 / Luoyang (late Han)"
 type: entity
 tags: [place, city, capital, late-han, china]
-sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
+sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
 last_updated: 2026-08-25
 ---
 
 # 洛阳 / Luoyang (late Han)
+
+[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Luoyang's pre-collapse tension before Hanji 946's palace violence. [[HeJin|何进]]'s outside-force summons brings commanders toward the capital, while [[ZhengTaiLateHan|郑泰]] and [[LuZhiLateHan|卢植]] warn that inviting [[DongZhuo|董卓]] will make the court dispute uncontrollable.
+
+The city is therefore militarized before the killing starts. [[WangKuangLateHan|王匡]], [[BaoXin|鲍信]], [[QiaoMaoLateHan|乔瑁]], and [[DingYuanLateHan|丁原]] become part of the pressure field around Luoyang, and Dong Zhuo's halted approach shows why [[ExternalTroopInvitationRisk|外兵入京升级风险]] precedes the later power vacuum.
 
 [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] supplies Luoyang's palace-breakdown prelude before Dong Zhuo's consolidation. Inside the capital, [[HeJin|何进]] is killed, [[YuanShu|袁术]] and [[WuKuangLateHan|吴匡]] answer with gate violence and fire, [[YuanShao|袁绍]] closes palace gates for indiscriminate eunuch killing, and the imperial boys are taken toward [[Xiaopingjin|小平津]] without normal court escort.
 
@@ -37,6 +41,7 @@ That material ruin changes the political meaning of relocation. [[DongZhaoLateHa
 This page is disambiguated from [[Luoyi|洛邑 / Luoyi]], the older Zhou and early-Han capital frame. Hanji 1004's Luoyang is a late-Han crisis site: symbolically important, but too damaged to secure the court.
 
 ## Connections
+- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DongZhuo|董卓]], [[ZhengTaiLateHan|郑泰]], [[LuZhiLateHan|卢植]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - pre-collapse outside-force pressure and warnings before palace violence.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[HeJin|何进]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[WuKuangLateHan|吴匡]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[Xiaopingjin|小平津]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - palace killing, gate fire, mass eunuch retaliation, and imperial flight before Dong Zhuo.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[HeirloomImperialSeal|传国玉玺]], and [[MilitaryPresenceTheater|军力声势表演]] - power vacuum, emperor flight, missing seal, and staged reinforcement before formal occupation.
 - [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]], [[DongZhuo|董卓]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - occupied capital, civilian terror, and scholar-legitimacy staging before the relocation branch.

@@ -2,11 +2,15 @@
 title: "鲍信 / Bao Xin"
 type: entity
 tags: [person, late-han, yanzhou, military, cao-cao]
-sources: [zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-25
 ---
 
 # 鲍信 / Bao Xin
+
+[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Bao Xin's first appearance in the He Jin crisis before his Hanji 947 warning to [[YuanShao|袁绍]]. [[HeJin|何进]] sends Bao Xin and [[WangKuangLateHan|王匡]] to raise troops as part of the outside-force pressure campaign against the [[TenAttendantsLateHan|十常侍]].
+
+The source does not yet make Bao Xin an adviser; it makes him part of the mobilization that creates [[ExternalTroopInvitationRisk|外兵入京升级风险]]. This helps explain why his later warning against [[DongZhuo|董卓]] matters: he is already inside the military response triggered by He Jin's summons.
 
 [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] adds Bao Xin's earliest anti-Dong-Zhuo timing judgment before the coalition and Cao-side branches. Returning with troops raised from Taishan, he warns [[YuanShao|袁绍]] that [[DongZhuo|董卓]] has strong soldiers and dangerous intent but can still be attacked while newly arrived and tired.
 
@@ -26,6 +30,7 @@ After Liu Dai dies, Bao Xin and [[WanQianLateHan|万潜]] ask [[CaoCao|曹操]] 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[WangKuangLateHan|王匡]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - troop-raising order inside the anti-eunuch escalation.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[YuanShao|袁绍]], [[DongZhuo|董卓]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - missed preemptive-strike advice while Dong Zhuo is newly arrived and not yet consolidated.
 - [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]] - early judgment that Cao Cao matters despite Yuan Shao's public leadership.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[CaoCao|曹操]], [[YuanShao|袁绍]], [[DongCommandery|东郡]], [[ZhangMiaoLateHan|张邈]], and [[GongsunZan|公孙瓒]] - early base-opening strategy before Cao Cao's Yanzhou branch.

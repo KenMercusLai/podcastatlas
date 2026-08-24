@@ -2,11 +2,15 @@
 title: "卢植 / Lu Zhi (late Han)"
 type: entity
 tags: [person, late-han, official, scholar, china]
-sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-25
 ---
 
 # 卢植 / Lu Zhi (late Han)
+
+[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Lu Zhi's warning before the palace violence of Hanji 946. As a respected senior scholar-official, he tells [[HeJin|何进]] that [[DongZhuo|董卓]]'s entry into the capital will certainly produce disorder, but He Jin continues the summons.
+
+This makes Lu Zhi one of the source's early boundary figures for [[ExternalTroopInvitationRisk|外兵入京升级风险]]. Before he later rebukes [[DuanGuiLateHan|段珪]] and resists Dong Zhuo's deposition proposal, he is already trying to stop the move that gives Dong Zhuo a path into the court field.
 
 [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] adds Lu Zhi's first crisis intervention before his Hanji 948 remonstrance against [[DongZhuo|董卓]]. During the palace flight, Lu Zhi sees [[DuanGuiLateHan|段珪]] taking [[EmpressDowagerHe|何太后]] along a gallery, rebukes him from below, and forces the release of the dowager.
 
@@ -19,6 +23,7 @@ The episode makes Lu Zhi the clearest remonstrance figure inside the forced repl
 This page is disambiguated from [[LuZhi|吕雉 / Lu Zhi]]. Its role is source-scoped to the late-Han Dong Zhuo branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DongZhuo|董卓]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - warning that Dong Zhuo's entry will create disorder.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[DuanGuiLateHan|段珪]], [[EmpressDowagerHe|何太后]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - gallery rebuke and release of the dowager during the palace flight.
 - [[DongZhuo|董卓]] - powerholder whose coerced deposition Lu Zhi contests.
 - [[LiuBianHongnongWang|刘辩 / 弘农王]] and [[EmperorXianOfHan|汉献帝]] - deposed ruler and replacement ruler in the scene.
