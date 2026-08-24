@@ -2,11 +2,15 @@
 title: "Communication Boundary Setting"
 type: concept
 tags: [communication, workplace, social, boundaries, trauma]
-sources: [ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
-last_updated: 2026-08-08
+sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+last_updated: 2026-08-25
 ---
 
 # Communication Boundary Setting
+
+[[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] adds a source-scoped extreme boundary analogy through the host's "打直球" language. The episode uses [[HeJin|何进]]'s failure against [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] to warn that unclear limits and repeated delay become dangerous when the other side already treats the conflict as survival.
+
+This is not an ordinary workplace-script case. It belongs here only as a cautionary edge case: boundary communication works best before a conflict becomes a [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]] situation where delayed clarity no longer controls the other side's move.
 
 [[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds a women's self-permission version. The episode treats "忍一忍" as a learned habit of putting others' comfort before one's own feeling, while also recognizing that saying no requires identifying the issue and bearing consequences.
 
@@ -29,6 +33,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 [[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds a dissent boundary. The episode argues that saying no or challenging a norm requires attention to timing, shared identity, fear, and accumulated credibility; otherwise a truthful challenge can be heard as contempt and trigger defensive obedience.
 
 ## Key Claims
+- Hanji 946 adds a high-stakes caution: direct boundary-setting has to happen early enough that the situation has not already shifted into a survival fight.
 - A boundary is not only internal preference; it has to be communicated early enough that other people and bystanders can understand the situation.
 - Refusing late often costs more than refusing early because habits, expectations, and public interpretations have already formed.
 - Some conversations call for silence or a minimal response because the upside of speaking is low and the downside of ambiguity is high.
@@ -43,6 +48,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - Episode 273 adds that tiny defended actions can begin [[SelfWorthJudgmentRecovery|judgment recovery]] before a person can make a larger exit decision.
 
 ## Connections
+- [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[HeJin|何进]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]] - source-scoped "打直球" analogy as a boundary-timing warning.
 - [[SelfPermission]], [[FemaleFriendshipRecognition]], [[GynecologicalExamDignity]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's self-permission and refusal branch.
 - [[SocialSignalInterpretation]] — boundaries depend partly on understanding what situation one is in.
 - [[WorkplaceCommunicationRisk]] — workplace settings raise the cost of ambiguous jokes, favors, and public comments.

@@ -2,11 +2,15 @@
 title: "刘辩 / Liu Bian (Hongnong Wang)"
 type: entity
 tags: [person, emperor, late-han, china]
-sources: [zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
+sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
 last_updated: 2026-08-25
 ---
 
 # 刘辩 / Liu Bian (Hongnong Wang)
+
+[[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] gives Liu Bian's vulnerable imperial-body prelude before Dong Zhuo sees him in Hanji 947. During the palace violence, [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] take him with Liu Xie, later [[EmperorXianOfHan|汉献帝]], out through palace passageways toward [[Xiaopingjin|小平津]] without normal seals, escort, or command order.
+
+The episode makes the ruler's status powerful but materially exposed. Liu Bian remains emperor, yet the imperial party can be moved on foot by fleeing eunuchs until [[MinGongLateHan|闵贡]] catches up near the Yellow River, giving [[MingqiLegitimacy|名器合法性]] a first damaged-court layer before the formal deposition.
 
 [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] backfills Liu Bian's last phase as reigning young emperor before Hanji 948's deposition. After the Luoyang disorder he flees, is found near the capital, and reacts fearfully when [[DongZhuo|董卓]] arrives with soldiers.
 
@@ -22,6 +26,7 @@ His role is narrow but important. Liu Bian's death gives the anti-Dong-Zhuo side
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], [[Xiaopingjin|小平津]], and [[MingqiLegitimacy|名器合法性]] - imperial flight without normal seals or secure escort.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - flight, frightened encounter, and pre-deposition comparison with Liu Xie.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[YuanShao|袁绍]], [[LuZhiLateHan|卢植]], and [[CoercedImperialReplacement|胁迫式废立]] - deposition before the later poisoning branch.
 - [[DongZhuo|董卓]] - powerholder whose order causes Liu Bian's death.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 5368
+wiki_total_pages: 5370
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "ZeroSumBias"
     title: "Zero-Sum Bias / 零和偏误"
     url: "/wiki/concepts/zerosumbias/"
+  - key: "ZeroSumConflictHesitationRisk"
+    title: "Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险"
+    url: "/wiki/concepts/zerosumconflicthesitationrisk/"
   - key: "ZhiguaiArchiveValue"
     title: "Zhiguai Archive Value"
     url: "/wiki/concepts/zhiguaiarchivevalue/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7359
+wiki_total_pages: 7369
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "ZhangAiling"
     title: "张爱玲 / Eileen Chang"
     url: "/wiki/entities/zhangailing/"
+  - key: "ZhangZhangLateHan"
+    title: "张璋 / Zhang Zhang (late Han)"
+    url: "/wiki/entities/zhangzhanglatehan/"
   - key: "ZhangLu"
     title: "张璐 / Zhang Lu"
     url: "/wiki/entities/zhanglu/"
@@ -605,6 +608,9 @@ wiki_pages:
   - key: "ZhangJiaoLateHan"
     title: "张角 / Zhang Jiao (late Han)"
     url: "/wiki/entities/zhangjiaolatehan/"
+  - key: "ZhangRangLateHan"
+    title: "张让 / Zhang Rang (late Han)"
+    url: "/wiki/entities/zhangranglatehan/"
   - key: "ZhangFu"
     title: "张负 / Zhang Fu"
     url: "/wiki/entities/zhangfu/"
@@ -860,6 +866,9 @@ wiki_pages:
   - key: "ZhaoDefang"
     title: "赵德芳 / Zhao Defang"
     url: "/wiki/entities/zhaodefang/"
+  - key: "ZhaoZhongLateHan"
+    title: "赵忠 / Zhao Zhong (late Han)"
+    url: "/wiki/entities/zhaozhonglatehan/"
   - key: "ZhaoChengQin"
     title: "赵成 / Zhao Cheng (Qin)"
     url: "/wiki/entities/zhaochengqin/"

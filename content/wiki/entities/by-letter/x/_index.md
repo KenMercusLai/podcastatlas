@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 7359
+wiki_total_pages: 7369
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "XiaoXiaoPao"
     title: "小小跑 / XiaoXiaoPao"
     url: "/wiki/entities/xiaoxiaopao/"
+  - key: "Xiaopingjin"
+    title: "小平津 / Xiaopingjin"
+    url: "/wiki/entities/xiaopingjin/"
   - key: "XiaoShiHost"
     title: "小时"
     url: "/wiki/entities/xiaoshihost/"
@@ -428,6 +431,9 @@ wiki_pages:
   - key: "XuSiLateHan"
     title: "许汜 / Xu Si (Late Han)"
     url: "/wiki/entities/xusilatehan/"
+  - key: "XuXiangLateHan"
+    title: "许相 / Xu Xiang (late Han)"
+    url: "/wiki/entities/xuxianglatehan/"
   - key: "XuDanLateHan"
     title: "许耽 / Xu Dan (late Han)"
     url: "/wiki/entities/xudanlatehan/"

@@ -2,11 +2,15 @@
 title: "Protector-Captor Ambiguity / 护驾与挟持模糊性"
 type: concept
 tags: [legitimacy, warlordism, late-han, statecraft, coercion]
-sources: [zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-25
 ---
 
 # Protector-Captor Ambiguity / 护驾与挟持模糊性
+
+[[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] adds a pre-Dong-Zhuo version before the armed-rescuer pattern in Hanji 947. [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] take [[LiuBianHongnongWang|刘辩 / 弘农王]] and Liu Xie / [[EmperorXianOfHan|汉献帝]] out of [[LuoyangLateHan|洛阳]] after [[HeJin|何进]] is killed; the act can be narrated as flight with the ruler, but functionally it also moves the ruler's body under the eunuch side's control.
+
+This source makes the ambiguity start before a strong outside army arrives. The imperial boys are vulnerable because the court's ordinary guard and seal system has collapsed, so the next "protector" inherits a field already shaped by capture-like movement.
 
 [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] adds an early Luoyang version before the later Li-Guo hostage and escort branches. [[DongZhuo|董卓]] comes to meet the escaped [[LiuBianHongnongWang|刘辩 / 弘农王]] and Liu Xie / [[EmperorXianOfHan|汉献帝]], but the visible soldiers frighten the emperor and Dong Zhuo ignores officials who ask him to pull troops back.
 
@@ -33,6 +37,7 @@ In Hanji 991, [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ZhangJiLat
 The concept differs from [[LegitimacyWindowSeizure|合法性窗口抢占]]. Legitimacy-window seizure names the strategic opportunity for an outside actor who can protect and operationalize the emperor. Protector-captor ambiguity names the prior danger: before the opportunity is captured, the emperor's recognized status attracts coercive protection from actors who cannot or will not restore ordinary sovereignty.
 
 ## Key Claims
+- Hanji 946 adds that protector-captor ambiguity can precede formal rescue: fleeing with the emperor can still mean controlling the ruler's body after ordinary court security fails.
 - Hanji 947 adds that protector-captor ambiguity can begin at the first armed encounter: a powerholder may arrive as rescuer while already controlling distance, fear, and troop presence.
 - Hanji 984 adds that protector-captor ambiguity can begin as preemptive seizure: one warlord takes the emperor first because a rival also wants to abduct him.
 - Hanji 985 adds that protector-captor ambiguity can start as symmetric hostage control: one warlord holds the emperor while the other holds ministers.
@@ -47,6 +52,7 @@ The concept differs from [[LegitimacyWindowSeizure|合法性窗口抢占]]. Legi
 - This ambiguity creates the precondition for later legitimacy-window seizure by a more capable actor.
 
 ## Connections
+- [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[LuoyangLateHan|洛阳]], and [[Xiaopingjin|小平津]] - eunuch-led imperial flight before Dong Zhuo's armed greeting.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], and [[LuoyangLateHan|洛阳]] - armed greeting after flight before formal hostage control.
 - [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiXianLateHan|李暹]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[YangBiao|杨彪]], and [[ChangAnHanCapital|长安]] - forced palace relocation before the dual-hostage stage.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[YangBiao|杨彪]], [[ShiSunRuiLateHan|士孙瑞]], [[ZhuJunLateHan|朱儁]], [[YangQiLateHan|杨琦]], and [[FuShouEmpress|伏皇后]] - dual hostage control, empress appointment, and bodily deprivation before the flight sequence.

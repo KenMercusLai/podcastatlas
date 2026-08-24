@@ -2336,7 +2336,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
-      "source_note_count": 378,
+      "source_note_count": 379,
       "topic_matched_source_note_count": 246,
       "topics": [
         {
@@ -2401,16 +2401,16 @@
           "episode_count": 35
         },
         {
-          "key": "ZhouXianwang",
-          "title": "周显王 / King Xian of Zhou",
-          "url": "/wiki/entities/zhouxianwang/",
-          "kind": "person",
-          "episode_count": 29
-        },
-        {
           "key": "EmperorXianOfHan",
           "title": "汉献帝 / Emperor Xian of Han",
           "url": "/wiki/entities/emperorxianofhan/",
+          "kind": "person",
+          "episode_count": 30
+        },
+        {
+          "key": "ZhouXianwang",
+          "title": "周显王 / King Xian of Zhou",
+          "url": "/wiki/entities/zhouxianwang/",
           "kind": "person",
           "episode_count": 29
         },

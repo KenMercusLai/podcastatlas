@@ -2,11 +2,15 @@
 title: "Palace Access Monopoly / 宫廷接触垄断"
 type: concept
 tags: [governance, court-politics, information-control, qin]
-sources: [zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
+sources: [zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
 last_updated: 2026-08-22
 ---
 
 # Palace Access Monopoly / 宫廷接触垄断
+
+[[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] adds a late-Han palace-coup version before the Qin access-control cases. [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] use familiarity with inner-court movement, eavesdropping, and claimed dowager instructions to isolate [[HeJin|何进]] after he tries to push [[EmpressDowagerHe|何太后]] toward killing the [[TenAttendantsLateHan|十常侍]].
+
+This version is more violent than Zhao Gao's filtering of memorials, but the mechanism is recognizable: access to bodies, rooms, messages, and timing lets an inner-court actor convert formal rank into vulnerability. He Jin's higher office does not matter once the eunuch side controls where he stands and what order he thinks he is obeying.
 
 Palace access monopoly / 宫廷接触垄断 is the court-politics mechanism [[zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x|Qinji 130-4]] draws from [[ZhaoGao|赵高]]'s advice to [[QinErshi|胡亥 / 秦二世]]. Zhao Gao tells Hu Hai that imperial dignity increases when ministers can hear the ruler but cannot see him, then recommends that Hu Hai stay inside the palace and handle memorials with only a few law-familiar attendants.
 
@@ -19,6 +23,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] widens the access problem from audience timing to crisis information. Zhao Gao keeps reports of [[WangLiQin|王离]]'s capture, [[ZhangHanQin|章邯]]'s defeats, and broad eastern rebellion from Hu Hai, while using [[PointingDeerAsHorse|指鹿为马]] to map which officials will publicly obey him. The access monopoly has therefore become [[CrisisInformationBlockade|危机信息封锁]] plus public loyalty testing.
 
 ## Key Claims
+- Hanji 946 adds that palace access monopoly can become immediate bodily danger when inner-court actors control routes, summonses, and who can hear the ruler's or dowager's orders.
 - Access control can be more decisive than formal rank when the ruler accepts an intermediary's filtering role.
 - Seclusion language can make isolation feel like dignity rather than vulnerability.
 - Timed access can weaponize true advice by making it arrive in a context where the ruler experiences it as personal offense.
@@ -27,6 +32,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 - Qinji 137 adds that access monopoly can also become battlefield-news blockade: the intermediary decides not only who reaches the ruler, but what reality reaches him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[HeJin|何进]], [[EmpressDowagerHe|何太后]], and [[TenAttendantsLateHan|十常侍]] - late-Han palace trap through access, eavesdropping, and claimed dowager order.
 - [[ZhaoGao|赵高]] - court operator who creates the access bottleneck in the source.
 - [[QinErshi|胡亥 / 秦二世]] - ruler whose insecurity and pleasure-seeking make the bottleneck attractive.
 - [[LiSi|李斯]], [[LiYou|李由]], and [[SanchuanWarringStates|三川]] - target, family accusation surface, and commandery context.

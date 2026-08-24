@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7359
+wiki_total_pages: 7369
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -956,6 +956,9 @@ wiki_pages:
   - key: "TonyContentEngineer"
     title: "东尼 / Tony (content engineer)"
     url: "/wiki/entities/tonycontentengineer/"
+  - key: "TenAttendantsLateHan"
+    title: "十常侍 / Ten Attendants (late Han)"
+    url: "/wiki/entities/tenattendantslatehan/"
   - key: "TenKingsOfHell"
     title: "十殿阎罗"
     url: "/wiki/entities/tenkingsofhell/"

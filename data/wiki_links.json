@@ -13791,6 +13791,10 @@
     "title": "《短歌是我悲伤的玩具》",
     "url": "/wiki/entities/duangeshiwobeishangdewanju/"
   },
+  "DuanGuiLateHan": {
+    "title": "段珪 / Duan Gui (late Han)",
+    "url": "/wiki/entities/duanguilatehan/"
+  },
   "DuanNongyu": {
     "title": "段农裕 / Duan Nongyu",
     "url": "/wiki/entities/duannongyu/"
@@ -15750,6 +15754,10 @@
   "FanLi": {
     "title": "范蠡 / Fan Li",
     "url": "/wiki/entities/fanli/"
+  },
+  "FanLingLateHan": {
+    "title": "樊陵 / Fan Ling (late Han)",
+    "url": "/wiki/entities/fanlinglatehan/"
   },
   "FanMin": {
     "title": "Fan Min",
@@ -33687,6 +33695,10 @@
     "title": "治安名义政变 / Palace Coup Under Policing Pretext",
     "url": "/wiki/concepts/palacecoupunderpolicingpretext/"
   },
+  "PalaceCoupViolenceCascade": {
+    "title": "Palace Coup Violence Cascade / 宫廷政变暴力级联",
+    "url": "/wiki/concepts/palacecoupviolencecascade/"
+  },
   "PalaceScandalPowerConsolidation": {
     "title": "Palace Scandal Power Consolidation / 宫廷丑闻式收权",
     "url": "/wiki/concepts/palacescandalpowerconsolidation/"
@@ -36966,6 +36978,10 @@
   "QuKai": {
     "title": "曲凯 / Qu Kai",
     "url": "/wiki/entities/qukai/"
+  },
+  "QuMuLateHan": {
+    "title": "渠穆 / Qu Mu (late Han)",
+    "url": "/wiki/entities/qumulatehan/"
   },
   "QuToutiao": {
     "title": "QuToutiao",
@@ -44091,6 +44107,10 @@
     "title": "Temu",
     "url": "/wiki/entities/temu/"
   },
+  "TenAttendantsLateHan": {
+    "title": "十常侍 / Ten Attendants (late Han)",
+    "url": "/wiki/entities/tenattendantslatehan/"
+  },
   "TenCitiesThousandVehicles": {
     "title": "Ten Cities Thousand Vehicles",
     "url": "/wiki/concepts/tencitiesthousandvehicles/"
@@ -48599,6 +48619,10 @@
     "title": "吴国 / Wu Kingdom (early Han)",
     "url": "/wiki/entities/wukingdomearlyhan/"
   },
+  "WuKuangLateHan": {
+    "title": "吴匡 / Wu Kuang (late Han)",
+    "url": "/wiki/entities/wukuanglatehan/"
+  },
   "WuLiande": {
     "title": "Wu Liande / 伍连德",
     "url": "/wiki/entities/wuliande/"
@@ -49119,6 +49143,10 @@
     "title": "Xiaoning",
     "url": "/wiki/entities/xiaoning/"
   },
+  "Xiaopingjin": {
+    "title": "小平津 / Xiaopingjin",
+    "url": "/wiki/entities/xiaopingjin/"
+  },
   "XiaoyusanInsurance": {
     "title": "小雨伞",
     "url": "/wiki/entities/xiaoyusaninsurance/"
@@ -49410,6 +49438,10 @@
   "XuXiake": {
     "title": "徐霞客",
     "url": "/wiki/entities/xuxiake/"
+  },
+  "XuXiangLateHan": {
+    "title": "许相 / Xu Xiang (late Han)",
+    "url": "/wiki/entities/xuxianglatehan/"
   },
   "XuXiyuan": {
     "title": "徐熙元",
@@ -50747,6 +50779,10 @@
     "title": "Zero-Sum Bias / 零和偏误",
     "url": "/wiki/concepts/zerosumbias/"
   },
+  "ZeroSumConflictHesitationRisk": {
+    "title": "Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险",
+    "url": "/wiki/concepts/zerosumconflicthesitationrisk/"
+  },
   "ZeroTrustSecurity": {
     "title": "Zero Trust Security",
     "url": "/wiki/concepts/zerotrustsecurity/"
@@ -50951,6 +50987,10 @@
     "title": "张泉",
     "url": "/wiki/entities/zhangquan/"
   },
+  "ZhangRangLateHan": {
+    "title": "张让 / Zhang Rang (late Han)",
+    "url": "/wiki/entities/zhangranglatehan/"
+  },
   "ZhangRiver": {
     "title": "漳水 / Zhang River",
     "url": "/wiki/entities/zhangriver/"
@@ -51066,6 +51106,10 @@
   "ZhangYueguang": {
     "title": "张月光",
     "url": "/wiki/entities/zhangyueguang/"
+  },
+  "ZhangZhangLateHan": {
+    "title": "张璋 / Zhang Zhang (late Han)",
+    "url": "/wiki/entities/zhangzhanglatehan/"
   },
   "ZhangZhaoLateHan": {
     "title": "张昭 / Zhang Zhao (Late Han)",
@@ -51370,6 +51414,10 @@
   "ZhaoZhengShu": {
     "title": "《赵正书》 / Zhao Zheng Shu",
     "url": "/wiki/entities/zhaozhengshu/"
+  },
+  "ZhaoZhongLateHan": {
+    "title": "赵忠 / Zhao Zhong (late Han)",
+    "url": "/wiki/entities/zhaozhonglatehan/"
   },
   "ZhedongTangPoetryRoad": {
     "title": "浙东唐诗之路 / Eastern Zhejiang Tang Poetry Road",
@@ -55506,6 +55554,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5": {
+    "title": "《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5/"
   },
   "zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1": {
     "title": "《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路",
