@@ -15459,6 +15459,10 @@
     "title": "Famine Entitlement Failure",
     "url": "/wiki/concepts/famineentitlementfailure/"
   },
+  "FanChouLateHan": {
+    "title": "樊稠 / Fan Chou (late Han)",
+    "url": "/wiki/entities/fanchoulatehan/"
+  },
   "FanEconomy": {
     "title": "Fan Economy",
     "url": "/wiki/concepts/faneconomy/"
@@ -19127,6 +19131,10 @@
     "title": "郭汜 / Guo Si (late Han)",
     "url": "/wiki/entities/guosilatehan/"
   },
+  "GuoSiWife": {
+    "title": "郭汜妻 / Guo Si's Wife",
+    "url": "/wiki/entities/guosiwife/"
+  },
   "GuoTu": {
     "title": "郭图 / Guo Tu",
     "url": "/wiki/entities/guotu/"
@@ -20898,6 +20906,10 @@
   "HuCheEr": {
     "title": "胡车儿 / Hu Che'er",
     "url": "/wiki/entities/hucheer/"
+  },
+  "HuFengLateHan": {
+    "title": "胡封 / Hu Feng (late Han)",
+    "url": "/wiki/entities/hufenglatehan/"
   },
   "HuGe": {
     "title": "胡戈 / Hu Ge",
@@ -26027,6 +26039,10 @@
     "title": "李乐 / Li Le (late Han)",
     "url": "/wiki/entities/lilelatehan/"
   },
+  "LiLiLateHan": {
+    "title": "李利 / Li Li (late Han)",
+    "url": "/wiki/entities/lililatehan/"
+  },
   "LiLiang": {
     "title": "Li Liang",
     "url": "/wiki/entities/liliang/"
@@ -26130,6 +26146,10 @@
   "LiWuya": {
     "title": "李乌鸦",
     "url": "/wiki/entities/liwuya/"
+  },
+  "LiXianLateHan": {
+    "title": "李暹 / Li Xian (late Han)",
+    "url": "/wiki/entities/lixianlatehan/"
   },
   "LiXiang": {
     "title": "李翔 / Li Xiang",
@@ -26246,6 +26266,10 @@
   "LianghuaiSaltMonopoly": {
     "title": "Lianghuai Salt Monopoly / 两淮盐业专卖",
     "url": "/wiki/concepts/lianghuaisaltmonopoly/"
+  },
+  "LiangzhouWarlordClique": {
+    "title": "凉州系军阀 / Liangzhou Warlord Clique",
+    "url": "/wiki/entities/liangzhouwarlordclique/"
   },
   "LianhengStrategy": {
     "title": "连横 / Lianheng Strategy",
@@ -29762,6 +29786,10 @@
   "MilitaryPersonalization": {
     "title": "Military Personalization / 军队私人化",
     "url": "/wiki/concepts/militarypersonalization/"
+  },
+  "MilitaryPrestigeThreatPurge": {
+    "title": "Military Prestige Threat Purge / 军功声望威胁清洗",
+    "url": "/wiki/concepts/militaryprestigethreatpurge/"
   },
   "MilkBar": {
     "title": "Milk Bar",
@@ -54458,6 +54486,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5": {
+    "title": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5/"
   },
   "zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk": {
     "title": "《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究",

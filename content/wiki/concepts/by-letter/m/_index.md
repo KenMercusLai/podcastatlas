@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5316
+wiki_total_pages: 5317
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "MilitaryPersonalization"
     title: "Military Personalization / 军队私人化"
     url: "/wiki/concepts/militarypersonalization/"
+  - key: "MilitaryPrestigeThreatPurge"
+    title: "Military Prestige Threat Purge / 军功声望威胁清洗"
+    url: "/wiki/concepts/militaryprestigethreatpurge/"
   - key: "MilitaryCivilianIntegration"
     title: "Military-Civil Integration / 军政一体"
     url: "/wiki/concepts/militarycivilianintegration/"

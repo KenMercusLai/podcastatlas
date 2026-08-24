@@ -2,11 +2,15 @@
 title: "郭汜 / Guo Si (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 郭汜 / Guo Si (late Han)
+
+[[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] backfills Guo Si before the hostage-banquet branch. He is one of the Chang'an [[LiangzhouWarlordClique|凉州系军阀]] actors whose conflict with [[LiJueLateHan|李傕]] follows [[FanChouLateHan|樊稠]]'s death and the resulting distrust among generals.
+
+The episode gives [[GuoSiWife|郭汜妻]]'s poison story as the immediate emotional trigger: she frames Li Jue's food and wine as dangerous and says one cage cannot hold two roosters. The source then narrows the causal claim: Guo Si's suspicion accelerates the rupture, but the deeper conflict is competition with Li Jue over the court, soldiers, and control of [[EmperorXianOfHan|汉献帝]].
 
 [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] backfills Guo Si's hostage-taking before the later mediation sources. While [[LiJueLateHan|李傕]] holds [[EmperorXianOfHan|汉献帝]], Guo Si detains ministers including [[YangBiao|杨彪]], [[ShiSunRuiLateHan|士孙瑞]], and [[ZhuJunLateHan|朱儁]]. His banquet scene turns the court into a captive audience: Yang Biao directly rebukes the double hostage structure, Guo Si nearly kills him, and [[YangMiLateHan|杨密]] has to intervene.
 
@@ -30,6 +34,7 @@ In this source, Guo Si is part of the setting that makes later court politics le
 
 ## Connections
 - [[LiJueLateHan|李傕]] - rival military actor in the Chang'an struggle.
+- [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], [[GuoSiWife|郭汜妻]], [[LiXianLateHan|李暹]], [[DualExecutivePowerRisk|双首长权力风险]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - pre-985 rupture, poison suspicion, and emperor-control rivalry.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[YangBiao|杨彪]], [[YangMiLateHan|杨密]], [[ZhangBaoLateHan|张苞]], [[ShiSunRuiLateHan|士孙瑞]], and [[ZhuJunLateHan|朱儁]] - hostage banquet, attempted violence, camp attack, and ministerial captivity.
 - [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] and [[HuangfuLiLateHan|皇甫郦]] - mediation branch where Guo Si accepts settlement while Li Jue refuses.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[ZhangJiLateHan|张济]], [[LiuAiLateHan|刘艾]], and [[MingqiLegitimacy|名器合法性]] - hostage bargaining and bridge obstruction before Hanji 989.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7151
+wiki_total_pages: 7157
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "FanWuji"
     title: "樊无忌 / Fan Wuji"
     url: "/wiki/entities/fanwuji/"
+  - key: "FanChouLateHan"
+    title: "樊稠 / Fan Chou (late Han)"
+    url: "/wiki/entities/fanchoulatehan/"
   - key: "Fadior"
     title: "法迪奥 / Fadior"
     url: "/wiki/entities/fadior/"

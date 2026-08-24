@@ -2,11 +2,13 @@
 title: "Protector-Captor Ambiguity / 护驾与挟持模糊性"
 type: concept
 tags: [legitimacy, warlordism, late-han, statecraft, coercion]
-sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # Protector-Captor Ambiguity / 护驾与挟持模糊性
+
+[[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] adds the pre-dual-hostage seizure. [[EmperorXianOfHan|汉献帝]] sends mediators between [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]], but once Guo Si's plan to abduct him leaks, Li Jue uses [[LiXianLateHan|李暹]] and palace troops to seize the emperor first. The move is framed as keeping the emperor from a rival, but its practical form is forced relocation to Li Jue's camp, followed by palace plunder and burning.
 
 [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] adds the dual-hostage version before formal mediation fails. [[LiJueLateHan|李傕]] holds [[EmperorXianOfHan|汉献帝]] while [[GuoSiLateHan|郭汜]] holds ministers including [[YangBiao|杨彪]] and [[ShiSunRuiLateHan|士孙瑞]], so protection and capture are no longer separable categories. The emperor can still appoint [[FuShouEmpress|伏皇后]], but his tent can be hit by arrows, his doors can be guarded, and his food can be controlled by the same armed "protector."
 
@@ -27,6 +29,7 @@ In Hanji 991, [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ZhangJiLat
 The concept differs from [[LegitimacyWindowSeizure|合法性窗口抢占]]. Legitimacy-window seizure names the strategic opportunity for an outside actor who can protect and operationalize the emperor. Protector-captor ambiguity names the prior danger: before the opportunity is captured, the emperor's recognized status attracts coercive protection from actors who cannot or will not restore ordinary sovereignty.
 
 ## Key Claims
+- Hanji 984 adds that protector-captor ambiguity can begin as preemptive seizure: one warlord takes the emperor first because a rival also wants to abduct him.
 - Hanji 985 adds that protector-captor ambiguity can start as symmetric hostage control: one warlord holds the emperor while the other holds ministers.
 - Hanji 986 adds that the protector-captor contradiction is already visible in remonstrance: Li Jue denounces Guo Si's hostage-taking while holding the emperor himself.
 - Hanji 988 adds that hosting the emperor can coexist with soldier harassment and route blockage before the more explicit flight crisis.
@@ -39,6 +42,7 @@ The concept differs from [[LegitimacyWindowSeizure|合法性窗口抢占]]. Legi
 - This ambiguity creates the precondition for later legitimacy-window seizure by a more capable actor.
 
 ## Connections
+- [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiXianLateHan|李暹]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[YangBiao|杨彪]], and [[ChangAnHanCapital|长安]] - forced palace relocation before the dual-hostage stage.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[YangBiao|杨彪]], [[ShiSunRuiLateHan|士孙瑞]], [[ZhuJunLateHan|朱儁]], [[YangQiLateHan|杨琦]], and [[FuShouEmpress|伏皇后]] - dual hostage control, empress appointment, and bodily deprivation before the flight sequence.
 - [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[ZhaoWenLateHan|赵温]], [[HuangfuLiLateHan|皇甫郦]], and [[WangChangLateHan|王昌]] - remonstrance and pursuit under Li Jue's coercive hosting.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[JiaXu|贾诩]], and [[LiuAiLateHan|刘艾]] - lodging harassment and public bridge identification before the route-control crisis.

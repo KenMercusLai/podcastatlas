@@ -2,11 +2,15 @@
 title: "李傕 / Li Jue (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 李傕 / Li Jue (late Han)
+
+[[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] backfills Li Jue before the open Li-Guo hostage symmetry. He shares Chang'an control with [[GuoSiLateHan|郭汜]] and [[FanChouLateHan|樊稠]] inside the [[LiangzhouWarlordClique|凉州系军阀]], while plunder and famine devastate [[GuanzhongRegion|关中]]. Fan Chou's victory over [[MaTeng|马腾]] and [[HanSui|韩遂]] should strengthen the bloc, but [[LiLiLateHan|李利]] reports Fan Chou's friendly conversation with Han Sui and Li Jue converts existing jealousy of Fan Chou's bravery and army support into a purge.
+
+The same source then makes Li Jue the first mover in the emperor-seizure branch. After [[GuoSiLateHan|郭汜]] plans to abduct [[EmperorXianOfHan|汉献帝]], Li Jue sends [[LiXianLateHan|李暹]] to surround the palace and move the emperor to his camp; palace plunder and the burning of offices and homes turn Chang'an control into open devastation.
 
 [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] backfills Li Jue's position at the start of the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] rupture. He holds [[EmperorXianOfHan|汉献帝]] while Guo Si holds court ministers, then recruits Qiang-Hu soldiers with gifts and promises of women to rebuild force against Guo Si. The night attack on his camp shows both danger and fragility: arrows reach the emperor's tent, [[ZhangBaoLateHan|张苞]] sets fires from inside the camp before defecting, and Li Jue moves the emperor into Beiwu under tighter door control.
 
@@ -32,6 +36,7 @@ The page keeps Li Jue's role source-scoped to this branch. He matters here less 
 
 ## Connections
 - [[GuoSiLateHan|郭汜]] - rival in the struggle over Emperor Xian.
+- [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], [[LiLiLateHan|李利]], [[LiXianLateHan|李暹]], [[GuoSiWife|郭汜妻]], [[MilitaryPrestigeThreatPurge|军功声望威胁清洗]], and [[DualExecutivePowerRisk|双首长权力风险]] - pre-985 purge, rivalry trigger, and emperor-seizure branch.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[ZhangBaoLateHan|张苞]], [[YangQiLateHan|杨琦]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - hostage symmetry, camp breach, food humiliation, and restraint under captivity.
 - [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[ZhaoWenLateHan|赵温]], [[HuangfuLiLateHan|皇甫郦]], and [[WangChangLateHan|王昌]] - failed mediation, remonstrance, and rage before the later settlement sequence.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[YangFengLateHan|杨奉]], [[JiaXu|贾诩]], and [[LiuAiLateHan|刘艾]] - weakened Chang'an position, Qiang-Hu harassment, and bridge-exit prelude.

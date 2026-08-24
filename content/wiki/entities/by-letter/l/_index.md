@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7151
+wiki_total_pages: 7157
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "LengJianguo"
     title: "冷建国 / Leng Jianguo"
     url: "/wiki/entities/lengjianguo/"
+  - key: "LiangzhouWarlordClique"
+    title: "凉州系军阀 / Liangzhou Warlord Clique"
+    url: "/wiki/entities/liangzhouwarlordclique/"
   - key: "LiuDong"
     title: "刘东"
     url: "/wiki/entities/liudong/"
@@ -932,6 +935,9 @@ wiki_pages:
   - key: "LiBing"
     title: "李冰 / Li Bing"
     url: "/wiki/entities/libing/"
+  - key: "LiLiLateHan"
+    title: "李利 / Li Li (late Han)"
+    url: "/wiki/entities/lililatehan/"
   - key: "LiWeiQingOfficial"
     title: "李卫 / Li Wei"
     url: "/wiki/entities/liweiqingofficial/"
@@ -983,6 +989,9 @@ wiki_pages:
   - key: "LiNi"
     title: "李旎 / Li Ni"
     url: "/wiki/entities/lini/"
+  - key: "LiXianLateHan"
+    title: "李暹 / Li Xian (late Han)"
+    url: "/wiki/entities/lixianlatehan/"
   - key: "LiHongjun"
     title: "李洪军 / Li Hongjun"
     url: "/wiki/entities/lihongjun/"

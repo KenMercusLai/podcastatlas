@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Fan Chou's purge inside the Liangzhou warlord bloc, Li Li's report on Fan Chou's Han Sui contact, Sanfu famine and plunder, Guo Si's wife's poison insinuation, failed Emperor Xian mediation, Li Xian's palace seizure, and Li Jue's burning of Chang'an offices and homes. Created pages for Liangzhou Warlord Clique, Fan Chou, Li Li, Guo Si's Wife, Li Xian, Hu Feng, and Military Prestige Threat Purge; updated overview, index, Li Jue, Guo Si, Emperor Xian of Han, Chang'an, Guanzhong, Ma Teng, Han Sui, Jia Xu, Dual Executive Power Risk, Interest-Structured Alliance Fragility, Protector-Captor Ambiguity, War-Disaster Compounding, and Famine Entitlement Failure. No settled contradiction found; Fan Chou's death mechanism is preserved as source-variant rather than resolved.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Yang Ding's failed attack on Duan Wei during Emperor Xian's 195 CE eastward movement, Emperor Xian's refusal to authorize an anti-Duan edict, Duan Wei's continued supply to the court, Zhang Ji's alliance switch, and Li Jue/Guo Si's temporary reunion around the higher-value prize of controlling the emperor. Created Yang Ding (late Han); updated overview, index, Emperor Xian of Han, Li Jue, Guo Si, Zhang Ji, Duan Wei, Dong Cheng, Yang Feng, Protector-Captor Ambiguity, Legitimacy Window Seizure, Interest-Structured Alliance Fragility, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the host's Duan Wei prudence and Yang Ding greed/stubbornness readings are preserved as source-scoped interpretation.
@@ -11073,6 +11077,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》986丨天欲其亡，必先令其狂
 
 Added source page for a 芮淇讲透资治通鉴 episode on Li Jue rejecting Emperor Xian's mediation, Zhao Wen and Huangfu Li's dangerous remonstrance, Wang Chang sparing Huangfu Li, Cao Cao's Juye/Yanzhou ambush against Lü Bu, and Cao Cao's temptation to attack Xuzhou after Tao Qian's death. Created pages for Zhao Wen, Huangfu Li, Wang Chang, Xue Lan, and Li Feng; updated index and connected late-Han entity/concept pages. No settled contradiction found; Li Jue's psychology and the title judgment are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7151
+wiki_total_pages: 7157
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "GuoSiLateHan"
     title: "郭汜 / Guo Si (late Han)"
     url: "/wiki/entities/guosilatehan/"
+  - key: "GuoSiWife"
+    title: "郭汜妻 / Guo Si's Wife"
+    url: "/wiki/entities/guosiwife/"
   - key: "GuoMoruo"
     title: "郭沫若"
     url: "/wiki/entities/guomoruo/"

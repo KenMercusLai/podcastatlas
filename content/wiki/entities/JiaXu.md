@@ -2,11 +2,13 @@
 title: "贾诩 / Jia Xu"
 type: entity
 tags: [person, late-han, three-kingdoms, adviser, china]
-sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
+sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
 last_updated: 2026-08-24
 ---
 
 # 贾诩 / Jia Xu
+
+[[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] backfills Jia Xu as a mediator before the later emperor-protection branches. He works among [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] inside the [[LiangzhouWarlordClique|凉州系军阀]], preserving surface peace even though the underlying distrust remains. Once Fan Chou is killed and Li Jue and Guo Si begin suspecting each other, Jia Xu's mediation is shown as tactical crisis management rather than a structural repair.
 
 [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] adds Jia Xu's earlier crisis-management role before the captured-minister restraint in Hanji 991. When Qiang-Hu soldiers attached to [[LiJueLateHan|李傕]] harass [[EmperorXianOfHan|汉献帝]]'s lodging, the emperor sends [[LiuAiLateHan|刘艾]] to Jia Xu. Jia Xu hosts their leaders and promises titles and goods so they stop the harassment, turning persuasion and reward into immediate court protection while also weakening Li Jue's leverage.
 
@@ -28,6 +30,7 @@ In this source, Jia Xu is not yet a full biographical figure. He is the strategi
 
 ## Connections
 - [[ZhangXiu|张绣]] - commander he advises.
+- [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - mediation among Li Jue, Guo Si, and Fan Chou before the factional break.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[LiuAiLateHan|刘艾]], and [[MingqiLegitimacy|名器合法性]] - Qiang-Hu detachment and immediate emperor-protection branch.
 - [[LiJueLateHan|李傕]], [[EmperorXianOfHan|汉献帝]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - Hanji 991 restraint branch around captured ministers.
 - [[DuanWeiLateHan|段煨]] - host Jia Xu leaves after judging suspicion risk.

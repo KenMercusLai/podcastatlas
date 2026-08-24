@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？](sources/zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5.md) — 芮淇讲透资治通鉴 episode on Fan Chou's purge after Li Li reports his Han Sui contact, Sanfu famine and plunder, Guo Si's wife stoking poison suspicion, and Li Jue's preemptive seizure of Emperor Xian.
 - [《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究](sources/zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk.md) — 芮淇讲透资治通鉴 episode on Li Jue holding Emperor Xian, Guo Si holding ministers, Yang Biao's hostage-banquet rebuke, Qiang-Hu recruitment, camp arson/defection, and the emperor's food humiliation in Beiwu.
 - [《资治通鉴·汉纪》986丨天欲其亡，必先令其狂](sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd.md) — 芮淇讲透资治通鉴 episode on Li Jue rejecting court mediation and raging at remonstrance, Huangfu Li's near-fatal warning, Cao Cao killing Lü Bu's Juye commanders, and the Xuzhou temptation after Tao Qian's death.
 - [《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决](sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave.md) — 芮淇讲透资治通鉴 episode on Xun Yu persuading Cao Cao to secure Yanzhou before pursuing Xuzhou, Cao Cao's Dingtao ambush victory over Lü Bu, and Lü Bu's awkward reception by Liu Bei.
@@ -1702,8 +1703,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荀攸 / Xun You](entities/XunYou.md) — Cao Cao strategist introduced through Xun Yu's recommendation and contrasted with Guo Jia as cautious, secret-keeping, and survival-minded.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family kinsman whose lawbreaking clients create the Man Chong enforcement case and the law-over-kinship governance signal.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official sent to Chang'an in Hanji 1015 to stabilize Guanzhong by persuading Ma Teng, Han Sui, and related western forces.
-- [马腾 / Ma Teng](entities/MaTeng.md) — Major Guanzhong military leader who submits after Zhong Yao's interest-framing letters in Hanji 1015.
-- [韩遂 / Han Sui](entities/HanSui.md) — Major Guanzhong military leader paired with Ma Teng in Hanji 1015's western rear-stabilization branch.
+- [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader defeated by Fan Chou in Hanji 984 and later calmed by Zhong Yao's interest-framing letters in Hanji 1015.
+- [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Yuan Shao's northern opponent whose campaign creates Cao Cao's temporary window against Lü Bu in Hanji 1015.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
@@ -1716,8 +1717,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [广陵 / Guangling Commandery](entities/GuanglingCommandery.md) — Place and commandery node used by Hanji 1017 for Chen Deng's Cao-aligned base and by Qinji 130-1 for Zhao Ping's failed anti-Qin target.
 - [枣祗 / Zao Zhi](entities/ZaoZhi.md) — Late-Han official whose屯田 proposal to Cao Cao opens Hanji 1008's agricultural-logistics branch.
 - [任峻 / Ren Jun](entities/RenJun.md) — Cao Cao-side official appointed典农中郎将 to implement屯田 with Zao Zhi around Xudu.
-- [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose rivalry and temporary reunion with Guo Si over Emperor Xian creates the flight-and-escort crisis before the Luoyang return.
-- [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor paired with Li Jue in rivalry and temporary reunion over Emperor Xian, making protection and capture hard to separate.
+- [凉州系军阀 / Liangzhou Warlord Clique](entities/LiangzhouWarlordClique.md) — Late-Han military bloc around Li Jue, Guo Si, and Fan Chou whose shared Chang'an control fractures into purge, suspicion, and emperor seizure.
+- [樊稠 / Fan Chou (late Han)](entities/FanChouLateHan.md) — Liangzhou-side commander killed by Li Jue after military prestige, army support, and contact with Han Sui make him look dangerous.
+- [李利 / Li Li (late Han)](entities/LiLiLateHan.md) — Li Jue's nephew whose report on Fan Chou's friendly contact with Han Sui helps trigger Fan Chou's purge.
+- [郭汜妻 / Guo Si's Wife](entities/GuoSiWife.md) — Unnamed wife whose poison insinuation accelerates Guo Si's existing rivalry with Li Jue in Hanji 984.
+- [李暹 / Li Xian (late Han)](entities/LiXianLateHan.md) — Li Jue's nephew who surrounds the palace and moves Emperor Xian to Li Jue's camp during the March 195 seizure.
+- [胡封 / Hu Feng (late Han)](entities/HuFengLateHan.md) — Figure in the Hou Hanshu variant who kills Fan Chou at Li Jue's banquet.
+- [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose killing of Fan Chou, rivalry with Guo Si, seizure of Emperor Xian, and later temporary reunion over the emperor create the flight-and-escort crisis before the Luoyang return.
+- [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor whose rivalry with Li Jue moves from poison suspicion and emperor-abduction planning into minister hostage-taking and later temporary reunion over Emperor Xian.
 - [杨密 / Yang Mi (late Han)](entities/YangMiLateHan.md) — Zhonglangjiang who stops Guo Si from killing Yang Biao after the hostage-banquet rebuke in Hanji 985.
 - [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong who urges Emperor Xian to suppress anger over Li Jue's rotten-bones food humiliation.
 - [张苞 / Zhang Bao (late Han)](entities/ZhangBaoLateHan.md) — Li Jue-side zhonglangjiang who colludes with Guo Si, sets fires in Li Jue's camp, and defects after the failed night attack.
@@ -8663,7 +8670,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Virtual-Physical Life Balance / 虚拟与实体生活差异](concepts/VirtualPhysicalLifeBalance.md) — EP276 explanation of AI anxiety as shaped by virtual-platform time versus fuller physical life, not just city-versus-village location.
 - [Film Reality Beyond Realism](concepts/FilmRealityBeyondRealism.md) — Jia Zhangke's AI-cinema argument that films can respond to the real world through non-realist methods without abandoning reality as the object of concern.
 - [Legitimacy Window Seizure / 合法性窗口抢占](concepts/LegitimacyWindowSeizure.md) — Hanji 1002 Xun Yu/Cao Cao pattern where exposed sovereign legitimacy must be captured before another power turns it into order, strategy, and talent attraction.
-- [Protector-Captor Ambiguity / 护驾与挟持模糊性](concepts/ProtectorCaptorAmbiguity.md) — Late-Han pattern where forces close enough to protect Emperor Xian are also close enough to control, threaten, redirect, or abandon him.
+- [Protector-Captor Ambiguity / 护驾与挟持模糊性](concepts/ProtectorCaptorAmbiguity.md) — Late-Han pattern where forces close enough to protect Emperor Xian are also close enough to seize, control, threaten, redirect, or abandon him.
+- [Military Prestige Threat Purge / 军功声望威胁清洗](concepts/MilitaryPrestigeThreatPurge.md) — Hanji 984 pattern where a successful commander with army support becomes a threat to a superior once ambiguous outside contact can be read as future defection.
 - [Leader Personal Exposure / 领导者轻身涉险](concepts/LeaderPersonalExposure.md) — Hanji 1005 Sun Ce pattern where solo hunting, light clothing, and weak guard preparation turn personal freedom into leader-security risk.
 - [Strategic Title Concession / 战略性名位让步](concepts/StrategicTitleConcession.md) — Hanji 1005 Cao Cao/Yuan Shao tactic of yielding visible rank to defer premature conflict while retaining practical room to consolidate.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
@@ -8687,7 +8695,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Hanji 1016 pattern where a marriage alliance would move Yuan Shu's war and legitimacy costs onto Lü Bu and Xuzhou.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
 - [饥附饱扬 / Ji Fu Bao Yang](concepts/JiFuBaoYang.md) — Hanji 1018 dependency pattern where a dangerous actor attaches while needy and leaves once secure.
-- [Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性](concepts/InterestStructuredAllianceFragility.md) — Hanji 1018 pattern where a coalition with troops and commanders remains brittle because its members can be offered a better legitimacy-and-spoils path.
+- [Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性](concepts/InterestStructuredAllianceFragility.md) — Pattern where coalitions with troops and commanders remain brittle because prestige, suspicion, scarcity, legitimacy, and spoils can re-sort members.
 - [Borrowed-Knife Killing / 借刀杀人](concepts/BorrowedKnifeKilling.md) — Hanji 1011 indirect-elimination pattern where Cao Cao and Liu Biao preserve distance while Huang Zu performs the lethal act against 祢衡.
 - [Prestige-Constrained Political Prosecution / 名望约束下的政治追诉](concepts/PrestigeConstrainedPoliticalProsecution.md) — Hanji 1020 pattern where weak evidence, elite prestige, and public confidence constrain punishment in Yang Biao's case.
 - [内廷通道攀附风险 / Inner-Court Access Brokerage Risk](concepts/InnerCourtAccessBrokerageRisk.md) — Pattern where an outer official's attempt to gain favor through a ruler's intimate household channel becomes suspicion, accusation, investigation, and political crisis.
@@ -9079,7 +9087,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom stories against period fit, evidence, and reputation effects, from "二百五" to Ye Gong Hao Long.
 - [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian durable-rule claim now kept explicitly comparative: Liu Bang can massacre at Yingchuan yet gains advantage by shifting to pacification at Wan.
 - [Coalition Self-Preservation Failure / 联盟自保失灵](concepts/CoalitionSelfPreservationFailure.md) — Alliance failure mode where states share an enemy but each preserves its own forces and waits for another ally to pay the first cost.
-- [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.
+- [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives or armed co-rulers become rival power centers, while one unchecked executive can also become a monopoly problem.
 - [Retainer Risk Conversion / 门客风险转化](concepts/RetainerRiskConversion.md) — Mengchang Jun pattern where a household-scandal retainer is separated with dignity and turned into outside diplomatic leverage.
 - [Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏](concepts/ContentOverMotiveRemonstrance.md) — Mengchang Jun advice-taking principle that evaluates correction by whether it prevents a real fault even when the speaker has private motives.
 - [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Retainer system spanning dignity-based attraction, private-network risk, quality critique, irregular state action, and侠义 afterlife.
@@ -12265,8 +12273,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wetland Adaptation](concepts/WetlandAdaptation.md) — Living with seasonal water through mobility, wetlands, boats, and local ecological practice rather than only fixed defenses.
 - [Flood Control Risk Transfer](concepts/FloodControlRiskTransfer.md) — Pattern where dikes, breaches, openings, and diversions protect one place by shifting water or maintenance burden elsewhere.
 - [Modern Urban Disaster Risk](concepts/ModernUrbanDisasterRisk.md) — Frame for modern city infrastructure becoming a hazard multiplier during flood, fire, disease, crowding, and market breakdown.
-- [Famine Entitlement Failure](concepts/FamineEntitlementFailure.md) — Hunger pattern where lost harvests, wages, credit, animals, and exchange rights matter as much as aggregate food supply.
-- [War-Disaster Compounding](concepts/WarDisasterCompounding.md) — Pattern where armed conflict worsens disaster by consuming resources, moving populations, spreading disease, and weakening relief.
+- [Famine Entitlement Failure](concepts/FamineEntitlementFailure.md) — Hunger pattern where lost harvests, wages, credit, animals, protection, and exchange rights matter as much as aggregate food supply.
+- [War-Disaster Compounding](concepts/WarDisasterCompounding.md) — Pattern where armed conflict worsens disaster by consuming resources, plundering households, moving populations, spreading disease, and weakening relief.
 - [Folk Religion Disaster Politics](concepts/FolkReligionDisasterPolitics.md) — Role of ritual, temples, anti-superstition campaigns, deity punishment, and public protest in disaster explanation and accountability.
 - [Disaster Relief Mismatch](concepts/DisasterReliefMismatch.md) — Gap between what relief systems supply and what survivors can use, need, trust, or accept.
 - [Disaster Sensory History](concepts/DisasterSensoryHistory.md) — Reading disaster through sights, sounds, smells, bodies, rituals, and memory as well as statistics.

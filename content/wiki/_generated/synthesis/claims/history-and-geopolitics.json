@@ -2,6 +2,39 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-liangzhou-collapse-precedes-hostage-symmetry",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 984's backfilled pre-Hanji-985 Chang'an branch.",
+        "Fan Chou's meeting-killing and Hou Hanshu banquet-killing versions are preserved as source variants, and Guo Si's wife is treated as a proximate trigger rather than the structural cause of the Li-Guo conflict."
+      ],
+      "statement": "Hanji 984 places the later Li-Guo hostage symmetry inside an earlier Liangzhou-bloc breakdown: [[LiangzhouWarlordClique]] control of [[ChangAnHanCapital]] and [[GuanzhongRegion]] compounds famine through plunder, [[FanChouLateHan]]'s victory over [[MaTeng]] and [[HanSui]] becomes [[MilitaryPrestigeThreatPurge]] after [[LiLiLateHan]] reports his Han Sui contact, [[GuoSiWife]]'s poison insinuation accelerates [[LiJueLateHan]]-[[GuoSiLateHan]] rivalry, and [[LiXianLateHan]]'s seizure of [[EmperorXianOfHan]] turns [[ProtectorCaptorAmbiguity]] into forced relocation before Hanji 985.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5",
+        "LiangzhouWarlordClique",
+        "LiJueLateHan",
+        "GuoSiLateHan",
+        "FanChouLateHan",
+        "LiLiLateHan",
+        "GuoSiWife",
+        "LiXianLateHan",
+        "HuFengLateHan",
+        "EmperorXianOfHan",
+        "ChangAnHanCapital",
+        "GuanzhongRegion",
+        "MaTeng",
+        "HanSui",
+        "JiaXu",
+        "MilitaryPrestigeThreatPurge",
+        "DualExecutivePowerRisk",
+        "InterestStructuredAllianceFragility",
+        "ProtectorCaptorAmbiguity",
+        "WarDisasterCompounding",
+        "FamineEntitlementFailure"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-feedback-collapse-meets-base-priority",
       "qualifications": [
         "This claim is source-scoped to Hanji 986's backfilled pre-Dingtao segment and the Hanji 987 base-priority frame it points toward.",
@@ -373,6 +406,6 @@
       ]
     }
   ],
-  "summary": "Hanji 986 adds the pre-Hanji 987 late-Han hinge: Li Jue's failed mediation shows feedback collapse around court hostages, and Cao Cao's Juye/Yanzhou recovery creates the Xuzhou temptation later disciplined by base-priority logic. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. Hanji 992 adds the pre-Jiangdong and pre-Xu-court legitimacy branch: Emperor Xian's Anyi court still carries title force despite ruined material capacity, Yuan Shao misses Ju Shou's legitimacy-window advice, and Sun Ce's modest mission succeeds because Zhou Yu and the Danyang network make it executable. Hanji 994 then turns the same Jiangdong line toward organization-building through Lu Fan's discipline work and staff-trust without ego threat. Across the topic, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.",
+  "summary": "Hanji 984 adds the immediate pre-Hanji-985 Chang'an rupture: the Liangzhou warlord bloc turns plunder and famine into Sanfu collapse, Fan Chou's prestige becomes purgeable after Li Li reports his Han Sui contact, and Li Xian's palace seizure starts protector-captor ambiguity before the dual-hostage stage. Hanji 986 adds the pre-Hanji 987 late-Han hinge: Li Jue's failed mediation shows feedback collapse around court hostages, and Cao Cao's Juye/Yanzhou recovery creates the Xuzhou temptation later disciplined by base-priority logic. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. Hanji 992 adds the pre-Jiangdong and pre-Xu-court legitimacy branch: Emperor Xian's Anyi court still carries title force despite ruined material capacity, Yuan Shao misses Ju Shou's legitimacy-window advice, and Sun Ce's modest mission succeeds because Zhou Yu and the Danyang network make it executable. Hanji 994 then turns the same Jiangdong line toward organization-building through Lu Fan's discipline work and staff-trust without ego threat. Across the topic, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.",
   "topic_id": "history-and-geopolitics"
 }
