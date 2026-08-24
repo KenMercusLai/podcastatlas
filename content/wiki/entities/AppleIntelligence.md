@@ -2,8 +2,8 @@
 title: "Apple Intelligence"
 type: entity
 tags: [ai, apple, assistant, platform]
-sources: [vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-17
+sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # Apple Intelligence
@@ -16,10 +16,13 @@ Apple Intelligence is discussed in [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-
 
 [[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds a China-market branch. The source says mainland Apple Intelligence had been reported as integrating Alibaba [[Qwen]] and [[Baidu]] technology, while a Reuters report said Apple was working with [[Alibaba]] to train a China-market model.
 
-The same source argues that Apple Intelligence is not yet enough to define the next assistant era. The limits are model capability, ecosystem adoption, app/platform bargaining, multimodal interaction, and the absence of a mature AI-native permission and service-execution layer.
+[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds a user-value qualification. The hosts separate a conversational [[Siri]] upgrade from system-level photo, image-generation, object cleanup, writing, translation, and text-polish features, arguing that the latter may matter more for ordinary mainland users even if heavy AI users personally find Apple Intelligence less compelling.
+
+The S10E15 source argues that Apple Intelligence is not yet enough to define the next assistant era. The limits are model capability, ecosystem adoption, app/platform bargaining, multimodal interaction, and the absence of a mature AI-native permission and service-execution layer.
 
 ## Source Position
 - The Vans/Converse source adds that Apple Intelligence may fragment by market, with China-market capability shaped by Alibaba, Qwen, and Baidu partnership choices rather than only global Apple model quality.
+- Vol. 172 adds that China-market launch value may come from native system integration more than from a standalone chatbot experience.
 - Apple Intelligence is strongest where [[Apple]] controls the operating system, device ecosystem, privacy stance, and local context.
 - Partnerships with [[OpenAI]] or [[Gemini]] can improve capability, but the source says they may not create a differentiated Apple assistant ceiling.
 - Private cloud and device-side work help with privacy, but the source still sees cloud models as stronger for many heavy tasks.
@@ -27,6 +30,7 @@ The same source argues that Apple Intelligence is not yet enough to define the n
 
 ## Connections
 - [[Alibaba]], [[Qwen]], and [[Baidu]] - China-market model and partner context from 声动早咖啡.
+- [[IPhone]], [[AITranslation]], [[AIAssistantServiceEntry]], and [[HumanJudgmentUnderAI]] — Vol. 172's system-feature and ordinary-user value branch.
 - [[Apple]] and [[Siri]] — platform and assistant surfaces.
 - [[EdgeCloudAIBoundary]], [[OnDeviceAI]], and [[OSLevelContext]] — system design dimensions behind Apple Intelligence.
 - [[AgentPermissionBoundaries]], [[AIAssistantServiceEntry]], and [[ProactiveAgents]] — missing or incomplete assistant capabilities highlighted by the episode.

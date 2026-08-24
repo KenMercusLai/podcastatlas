@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等
+
+Added source page for a 枫言枫语 episode on Codex reset pricing, DeepSeek peak/off-peak API pricing, OpenAI/Anthropic/Gemini competition, Apple Intelligence and Apple hardware strategy, agent sandbox and permission risks, assistant commerce, health wearables, robotic teleoperation, AI education, OpenRouter, TypeScript rewrite economics, and open-source maintenance. Created Peak-Valley AI Inference Pricing; updated overview, index, and targeted AI/pricing/platform/agent pages. No settled contradiction found; Apple/OpenAI legal claims, unreleased hardware, model labels, IPO rumors, and pricing examples remain source-scoped.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？
 
 Added source page for Hanji 997: Zang Hong's capture and death after condemning Yuan Shao for failing to rescue Zhang Chao, Cheng Long's remonstrance and shared death, and the host's "情关" reading of loyalty, righteousness, resentment, and political rigidity. Created Zang Hong, Zhang Chao (Late Han), Zhang Miao (Late Han), Cheng Long (Late Han), and Emotional Attachment Political Distortion; updated overview, index, Yuan Shao, Cao Cao, Death-Party Loyalty vs Official Duty, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source preserves Zang Hong as both courageous and politically inflexible rather than collapsing him into either pure martyr or simple rebel.
@@ -10973,6 +10977,10 @@ Ran health, identity validation, and lint. Health passed with no empty/stub file
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zang Hong's failed attempt to rescue Zhang Chao at Yongqiu, Yuan Shao's refusal, Cao Cao's capture of Yongqiu, Chen Lin's persuasion letter, East Commandery starvation, and the moral cost of loyalty that binds followers into a doomed stand. Created pages for Chen Lin (Late Han), Zhu Zhi (Late Han), Yan Baihu, and Yongqiu (Late Han); updated overview, index, Zang Hong, Zhang Chao, Zhang Miao, Yuan Shao, Cao Cao, Dong Commandery, Guangling Commandery, Death-Party Loyalty vs Official Duty, Emotional Attachment Political Distortion, Loyalty-Collateral Dilemma, Political Survival First, Xingshiqing Strategic Assessment, and Retainer Reciprocity Ethic. No settled contradiction found; the transcript's unfinished "偏执狂臧洪" analysis and opening disorder examples are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

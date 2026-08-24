@@ -2,8 +2,8 @@
 title: "Apple Watch"
 type: entity
 tags: [apple, hardware, wearables, health]
-sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
-last_updated: 2026-08-16
+sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
+last_updated: 2026-08-24
 ---
 
 # Apple Watch
@@ -20,6 +20,8 @@ The product is relevant to [[WearableAIAssistant]] because watches already have 
 
 [[rolex-1]] adds the opposite side of the watch market. The [[Acquired]] episode argues that the Apple Watch and phones weaken the functional timekeeping reason to wear a mechanical watch, which pushes [[Rolex]] further into [[MechanicalWatchRepositioning]] as jewelry, status, craft, and identity rather than raw utility.
 
+[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds a sensor-band speculation branch. The hosts discuss rumors that future Apple Watch sensors could move into silicone bands and mention blood pressure, sweat electrolytes, glucose, and uric acid as valuable non-invasive monitoring directions. The source keeps those features speculative, but it strengthens Apple Watch's connection to [[AIHealthManagement]] and [[PersonalHealthData]].
+
 ## Connections
 - [[Apple]] - platform and hardware company behind the product.
 - [[WearableAIAssistant]], [[AIPlusTerminals]], and [[SmartphoneAIHub]] - main terminal and assistant concepts.
@@ -28,3 +30,4 @@ The product is relevant to [[WearableAIAssistant]] because watches already have 
 - [[AppleAirPods|Apple AirPods]] and [[OuraRing|Oura Ring]] - other familiar wearable examples named in the source.
 - [[WearableFormFactorPressure]] and [[ConsumerElectronicsLifecycle]] - form and category-renewal pressure added by the 声动早咖啡 source.
 - [[Garmin]], [[ProfessionalWearableMoat]], and [[GlobalPositioningSystem|GPS]] - high-end sport/outdoor competition branch added by the later 声动早咖啡 source.
+- [[AIHealthManagement]], [[PersonalHealthData]], and [[ContinuousGlucoseMonitoring]] — health-data branch added by Vol. 172.

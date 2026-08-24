@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等](sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1.md) — 枫言枫语 episode on Codex reset pricing, DeepSeek peak/off-peak API costs, Apple Intelligence, model routing, agent safety, assistant commerce, health wearables, and AI-maintained software.
 - [《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？](sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76.md) — 芮淇讲透资治通鉴 episode on Zang Hong's failed rescue request for Zhang Chao at Yongqiu, Yuan Shao's refusal, East Commandery starvation, and the cost of loyalty that crosses into collateral suffering.
 - [《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？](sources/zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax.md) — 芮淇讲透资治通鉴 episode on Zang Hong's death, old-master loyalty to Zhang Chao, Yuan Shao's refusal to rescue against Cao Cao, Cheng Long's remonstrance, and the tension between heroic righteousness and emotion-driven political rigidity.
 - [《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城](sources/zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's post-Liu Yu Youzhou collapse, Xianyu Fu/Yan Rou/Wuhuan/Xianbei/Liu He/Yuan Shao coalition pressure, Yijing fortress isolation, and the false security of walls and grain without initiative or people-support.
@@ -8458,6 +8459,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Peak-Valley AI Inference Pricing](concepts/PeakValleyAIInferencePricing.md) — Demand-window pricing pattern where AI API costs vary by peak and off-peak serving load.
 - [Emotional Attachment Political Distortion / 情执政治判断失衡](concepts/EmotionalAttachmentPoliticalDistortion.md) — Pattern where affection, grief, resentment, or loyalty becomes the lens that overwhelms organization-level judgment and political survival.
 - [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for real safety after initiative, advisers, and people-support have been lost.
 - [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains and adjacent Chinese restaurant brands test burgers as filling, affordable meal occasions.

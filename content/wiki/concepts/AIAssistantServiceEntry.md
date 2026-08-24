@@ -2,8 +2,8 @@
 title: "AI Assistant Service Entry"
 type: concept
 tags: [ai, assistants, platforms, commerce]
-sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-08
+sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-24
 ---
 
 # AI Assistant Service Entry
@@ -19,6 +19,8 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]] adds [[Meta]]'s wearable-assistant version. [[MikeIsaac]] describes [[MarkZuckerberg]]'s [[PersonalSuperintelligence]] idea through a user asking [[RayBanSmartGlasses|Ray-Ban smart glasses]] for directions instead of opening [[Google]] or a map product. The source is a useful contrast with the Alibaba case: Meta may have distribution and user data, but still has to make [[MetaAI|Meta AI]] a trusted front door rather than a feed-inserted feature.
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a local-commerce version. The hosts discuss [[Yuanbao]] red packets, AI milk-tea promotions, and whether [[Meituan]] could expose MCP-like ordering capability to assistants. Their example of AI-assisted milk-tea ordering shows that assistant entry can reduce browsing and transfer choice power to the assistant's recommendation logic.
+
+[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds [[Doubao]] hotel-order monetization as a commission-pressure case. The hosts discuss a roughly 12% combined fee on hotel orders routed through Doubao into the ByteDance/Douyin ecosystem, then ask whether an assistant should recommend the best result or only options that can be fulfilled and monetized inside the platform.
 
 [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds a personal-productivity version through [[GooglePersonalIntelligence]]. [[ChristopherMims]] describes [[Gemini]] adding [[GoogleCalendar]] appointments from spoken instructions, which shows service entry at small scale: the assistant handles a disliked task inside an existing account rather than merely answering a question.
 
@@ -42,6 +44,7 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - Visual and auditory service entry can make smart glasses useful before they become a general-purpose assistant, especially for identification, translation, and context-sensitive help.
 - In large platform companies, assistant service entry depends on which internal unit controls the surface; a shared model may power tasks, but the product owner may keep local models and permissions for trust-sensitive workflows.
 - Office-entry assistants can monetize differently from consumer chatbots because they can attach to work output, enterprise context, and employee productivity rather than only traffic.
+- Vol. 172 adds that assistant service entry can turn commission eligibility into an invisible ranking constraint unless the product separates recommendation quality from monetized fulfillment.
 
 ## Connections
 - [[Alibaba]], [[Qwen]], [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], and [[DingTalk]] — main ecosystem case in the source.
@@ -58,3 +61,4 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - [[WillGottsagen]], [[Meta]], [[MetaAI|Meta AI]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[AITranslation]] - smart-glasses service-entry route added by Marketplace Tech.
 - [[TencentHunyuan]], [[Yuanbao]], [[TencentWorkBuddy]], [[WeChat]], [[WeChatVLM]], and [[FederatedAIOrganization]] - Tencent assistant-entry and internal model-routing case added by LateTalk episode 176.
 - [[AIOfficeAgent]], [[Feishu]], [[DingTalk]], [[TencentWorkBody]], [[DoubaoEnterpriseEdition]], and [[Qwen]] - office-productivity entry branch added by Luanfanshu episode 270.
+- [[Doubao]], [[ByteDance]], [[AITravelCommerceTrust]], [[AgenticCommerce]], and [[PlatformAntitrust]] — Vol. 172's hotel-order and commission-incentive branch.

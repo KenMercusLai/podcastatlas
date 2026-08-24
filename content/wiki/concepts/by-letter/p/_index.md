@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5305
+wiki_total_pages: 5306
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "PeaceParleyEntrapment"
     title: "Peace-Parley Entrapment / 和谈诱捕"
     url: "/wiki/concepts/peaceparleyentrapment/"
+  - key: "PeakValleyAIInferencePricing"
+    title: "Peak-Valley AI Inference Pricing"
+    url: "/wiki/concepts/peakvalleyaiinferencepricing/"
   - key: "PearlRiverDeltaManufacturingTransformation"
     title: "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁"
     url: "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"

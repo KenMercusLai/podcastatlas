@@ -2,8 +2,8 @@
 title: "Codex"
 type: entity
 tags: [ai-tool, agent, coding]
-sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
-last_updated: 2026-08-16
+sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, vol-171-jiaru-women-you-wuxian-token-1-6682-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+last_updated: 2026-08-24
 ---
 
 # Codex
@@ -34,6 +34,8 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 
 [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds Codex inside a heavier [[UnlimitedTokenWorkflow]] practice. The hosts discuss Codex daily active use, product convergence with [[ChatGPT]], GUI/CLI/web switching, background or remote operation, and Codex as one worker among many in a loop where [[Fable5]]-style planning, model routing, review, screenshots, migration, and publishing all compete for the human's attention.
 
+[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds a reset-economics branch. The hosts discuss a possible option to buy early Codex resets and use it as evidence that [[AISubscriptionEconomics]] is becoming more fine-grained: heavy agent users may pay not only for a monthly plan, but for recovery from quota exhaustion when long-running work burns through available capacity.
+
 ## Episode Notes
 - The guest says he moved more of his usage toward Codex after a version update.
 - He values Codex partly for its GUI, access to ChatGPT history, and better Notion connection success in his workflow.
@@ -50,6 +52,7 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - Episode 136 adds Codex as OpenAI's coding-agent answer to Anthropic and as part of the source's claim that coding is AGI's second act.
 - The LateTalk source adds Codex as the beneficiary of a Q2 migration wave and as a route into recorded computer-use skills through [[RecordAndReplay]].
 - Vol. 171 adds Codex as part of an abundant-token operating loop: useful not only for writing code, but for review, screenshots, migrations, small tools, and long-running work that needs pacing and acceptance gates.
+- Vol. 172 adds that Codex's value can be priced through reset access, making quota timing and heavy-user anxiety part of the product economics.
 
 ## Connections
 - [[OpenAI]] — company context for Codex.
@@ -66,3 +69,4 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[MLCoding]] — coding-agent and AI-research acceleration interpretation added by episode 136.
 - [[RecordAndReplay]], [[ComputerUseAgent]], [[GPT56]], and [[ModelProviderToolCompetition]] — Q2 2026 comeback and computer-use workflow-capture context added by LateTalk.
 - [[UnlimitedTokenWorkflow]], [[TokenMaxxing]], [[AgenticWorkflow]], and [[AIUsePacing]] — Vol. 171's loop-design and review-bottleneck context.
+- [[AISubscriptionEconomics]], [[AIInferenceCostStructure]], [[ModelRoutingCostControl]], and [[Fable5]] — Vol. 172's reset pricing and model-routing context.

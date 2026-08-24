@@ -2,8 +2,8 @@
 title: "自立"
 type: entity
 tags: [host, agents, security]
-sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
-last_updated: 2026-08-16
+sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, vol-171-jiaru-women-you-wuxian-token-1-6682-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+last_updated: 2026-08-24
 ---
 
 # 自立
@@ -11,6 +11,8 @@ last_updated: 2026-08-16
 自立 is a [[FengyanFengyu]] host in [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]], [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]], [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]], [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]], and [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]]. In the OpenClaw episode, he helps frame [[OpenClaw]] as both an exciting agent-native software example and a serious security problem once agents can operate accounts, private data, browsers, code repositories, and external services. Vol. 162 adds his side of the model roundup: [[Xcode]] agents, [[Codex]]/[[ClaudeCode]] workflow differences, [[Gemini]] costs, [[AgenticCommerce]], and high-risk hardware are useful only when permission, cost, and verification boundaries are clear. Vol. 164 adds his side of the discussion around [[AppStore]] risk, [[AgenticSoftware]], coding-agent task limits, and why people still need clear expression and code-reading judgment. In Vol. 166, he helps connect AI acceleration to [[Google]], [[Apple]], workplace change, token cost, and the limits of AI chat. In Vol. 169, he uses his own university path and project experience to connect [[UniversityOpportunityDensity]], peer environment, and [[CollegeCareerPreparation]]. In Vol. 170, he pushes the discussion from coding-model capability into [[TokenDrivenSoftware]], AI-native interfaces, games, and the need to route tokens as a scarce resource. In Vol. 167, he extends the same cost-and-interface thread into [[Codex]] remote operation, IM agent entry points, AI content disclosure, and high-stakes safety contexts.
 
 [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds 自立's side of the [[UnlimitedTokenWorkflow]] discussion. He helps separate near-unlimited use from ordinary subscriptions and APIs, argues that humans still save cost by killing bad branches early, and keeps returning to safety, product boundaries, hardware execution, education, and what should remain human even when agents can do more.
+
+[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds 自立's side of the cost and permission discussion. He keeps the focus on why equal reset pricing across plans would be economically odd, why [[DeepSeek]] peak/off-peak windows cannot cover every real workflow, and why [[AgentPermissionBoundaries]] still matter when an agent can use browsers, customer support, password managers, and accounts.
 
 ## Source Position
 - 自立 compares OpenClaw-like agents to human assistants: some personal context may be acceptable to delegate, but high-impact accounts and private repositories need stronger boundaries.
@@ -23,6 +25,7 @@ last_updated: 2026-08-16
 - In Vol. 167, he treats phone-to-home-computer [[Codex]] control and possible IM integration as evidence that coding agents are moving toward personal assistant workflows, not just IDE-adjacent tools.
 - In Vol. 162, he reinforces [[ModelWorkflowFit]] and [[AgentPermissionBoundaries]] by comparing model behavior, agent shopping, voice devices, and brain-computer or robotics claims through practical risk.
 - In Vol. 171, he reinforces the distinction between more token budget and better work: the user still needs task judgment, cost awareness, safety boundaries, and a reason to turn generated artifacts into finished products.
+- In Vol. 172, he reinforces that AI tooling is becoming infrastructure-like only when users can still understand price, permission, privacy, and commercial recommendation boundaries.
 
 ## Connections
 - [[FengyanFengyu]] and [[JustinYan]] — show and co-host context.
@@ -35,3 +38,4 @@ last_updated: 2026-08-16
 - [[AgenticSoftware]], [[AICodingVerification]], [[AICommunicationAbility]], and [[AIContentDevaluation]] — Vol. 164 themes.
 - [[Xcode]], [[ModelWorkflowFit]], [[AgenticCommerce]], and [[AIPlusTerminals]] — Vol. 162 model/tool, commerce-agent, and device themes.
 - [[UnlimitedTokenWorkflow]], [[TokenMaxxing]], [[AgentPermissionBoundaries]], [[AIAsTutor]], and [[AITranslation]] — Vol. 171 themes.
+- [[PeakValleyAIInferencePricing]], [[AISubscriptionEconomics]], [[ComputerUseAgent]], [[AIAssistantServiceEntry]], and [[AIHealthManagement]] — Vol. 172 themes.
