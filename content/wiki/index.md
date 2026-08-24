@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？](sources/zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's December 195 flight, Li Jue/Guo Si/Zhang Ji's pursuit, Dong Cheng and Yang Feng's emergency Baibo/Southern Xiongnu reinforcements, Jia Xu's minister-protection intervention, and the bloody Yellow River night crossing.
 - [《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇](sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's Anyi court, Chang'an's collapse, Yuan Shao missing Ju Shou's welcome-the-emperor strategy, and Sun Ce's Jiangdong start with Zhou Yu's material support.
 - [《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈](sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1.md) — 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong discipline and recruitment, Liu Yao's underuse of Taishi Ci, and the Shentingling encounter as a status-filtered talent-recognition failure.
 - [《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧](sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu.md) — 芮淇讲透资治通鉴 episode on Lu Fan taking an unglamorous military-discipline role for Sun Ce, Sun Ce's use of Zhang Zhao and Zhang Hong, and leadership lessons about operational gap ownership, talent delegation, and non-jealousy toward capable subordinates.
@@ -1670,6 +1671,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [邹氏 / Lady Zou (Wancheng)](entities/LadyZouWancheng.md) — Zhang Ji's widow and Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult; Hanji 1013's "周氏" is kept as a transcript variant.
 - [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
 - [贾诩 / Jia Xu](entities/JiaXu.md) — Zhang Xiu adviser whose host-risk reading, Liu Biao evaluation, surrender advice, and Wancheng plan make him a late-Han survival-and-strategy contrast.
+- [白波军 / Baibo Army](entities/BaiboArmy.md) — Late-Han armed group whose former commanders Li Le, Han Xian, and Hu Cai join the emergency escort coalition around Emperor Xian.
+- [李乐 / Li Le (late Han)](entities/LiLeLateHan.md) — Former Baibo commander normalized from the transcript's "李越", helping Dong Cheng and Yang Feng during Emperor Xian's flight.
+- [胡才 / Hu Cai (late Han)](entities/HuCaiLateHan.md) — Former Baibo commander in the emergency reinforcement field that briefly counters Li Jue's pursuit of Emperor Xian.
+- [去卑 / Qubei (Southern Xiongnu)](entities/QubeiSouthernXiongnu.md) — Southern Xiongnu right wise king whose cavalry joins the late-Han emperor-escort coalition in Hanji 991.
+- [伏皇后 / Empress Fu Shou](entities/FuShouEmpress.md) — Empress accompanying Emperor Xian through the night escape and Yellow River crossing in Hanji 991.
+- [士孙瑞 / Shi Sun Rui (late Han)](entities/ShiSunRuiLateHan.md) — Court official killed during Emperor Xian's flight after earlier surviving the Dong Zhuo assassination aftermath.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
 - [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as politically skillful at remnant absorption and defensive governance but limited by slow change-reading, indecision, and suspicion.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
@@ -8632,6 +8639,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Virtual-Physical Life Balance / 虚拟与实体生活差异](concepts/VirtualPhysicalLifeBalance.md) — EP276 explanation of AI anxiety as shaped by virtual-platform time versus fuller physical life, not just city-versus-village location.
 - [Film Reality Beyond Realism](concepts/FilmRealityBeyondRealism.md) — Jia Zhangke's AI-cinema argument that films can respond to the real world through non-realist methods without abandoning reality as the object of concern.
 - [Legitimacy Window Seizure / 合法性窗口抢占](concepts/LegitimacyWindowSeizure.md) — Hanji 1002 Xun Yu/Cao Cao pattern where exposed sovereign legitimacy must be captured before another power turns it into order, strategy, and talent attraction.
+- [Protector-Captor Ambiguity / 护驾与挟持模糊性](concepts/ProtectorCaptorAmbiguity.md) — Late-Han pattern where forces close enough to protect Emperor Xian are also close enough to control, threaten, redirect, or abandon him.
 - [Leader Personal Exposure / 领导者轻身涉险](concepts/LeaderPersonalExposure.md) — Hanji 1005 Sun Ce pattern where solo hunting, light clothing, and weak guard preparation turn personal freedom into leader-security risk.
 - [Strategic Title Concession / 战略性名位让步](concepts/StrategicTitleConcession.md) — Hanji 1005 Cao Cao/Yuan Shao tactic of yielding visible rank to defer premature conflict while retaining practical room to consolidate.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.

@@ -2,11 +2,13 @@
 title: "韩暹 / Han Xian (late Han)"
 type: entity
 tags: [person, late-han, military]
-sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-24
 ---
 
 # 韩暹 / Han Xian (late Han)
+
+[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] backfills Han Xian as one of the former [[BaiboArmy|白波军]] commanders called by [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] during [[EmperorXianOfHan|汉献帝]]'s flight. With [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], and [[QubeiSouthernXiongnu|去卑]], he helps create a temporary victory over [[LiJueLateHan|李傕]]'s side, but the renewed attack leaves the court party shattered again.
 
 [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] gives Han Xian's rougher pre-Luoyang image. After [[EmperorXianOfHan|汉献帝]] reaches Anyi, Han Xian and allied armed actors dominate the court, grant offices, and plunder civilians for food. The source therefore frames him as both an escort and a predator on the court's surroundings before the later Luoyang branch.
 
@@ -24,9 +26,11 @@ Han Xian's source role is a coalition-switching case. Lü Bu's letter reframes s
 
 ## Connections
 - [[YangFengLateHan|杨奉]], [[DongChengLateHan|董承]], [[ZhangYangLateHan|张杨]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - paired and opposing actors in the emperor-protection and Luoyang-return branches.
+- [[BaiboArmy|白波军]], [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], and [[QubeiSouthernXiongnu|去卑]] - Hanji 991 reinforcement field.
 - [[DongChengLateHan|董承]] and [[CaoCao|曹操]] - Dong Cheng's request against Han Xian gives Cao Cao a Luoyang entry reason.
 - [[LuoyangLateHan|洛阳]] - court return setting in Hanji 1004.
 - [[YuanShu|袁术]] - temporary ally whose campaign loses them.
 - [[LyuBu|吕布]] - persuader and beneficiary of the switch.
 - [[EmperorXianOfHan|汉献帝]] - legitimacy reference used in Lü Bu's letter.
 - [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - alliance pattern exposed by the switch.
+- [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - broader escort/control ambiguity.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's December 195 flight from Hongnong toward the Yellow River, Zhang Ji/Li Jue/Guo Si's pursuit, Dong Cheng and Yang Feng's emergency Baibo and Southern Xiongnu reinforcements, Jia Xu's intervention to spare captured ministers, Yang Biao's secret night-crossing plan, and the bloody riverbank panic that leaves many officials, palace women, and followers behind. Created pages for Baibo Army, Li Le, Hu Cai, Qubei, Empress Fu Shou, Shi Sun Rui, and Protector-Captor Ambiguity; updated overview, index, Emperor Xian of Han, Li Jue, Guo Si, Zhang Ji, Dong Cheng, Yang Feng, Han Xian, Zhang Yang, Yang Biao, Jia Xu, Southern Xiongnu, Mingqi Legitimacy, Legitimacy Window Seizure, Political Survival First, and Interest-Structured Alliance Fragility. No settled contradiction found; transcript name variants are normalized to existing canonical late-Han pages.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈
 
 Added source page for a 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong advance, strict military discipline, Liu Yao's underuse of Taishi Ci, the Shentingling encounter, and Sun Ce's lenient Qu'a recruitment policy. Created pages for Taishi Ci, Shentingling Battle, Han Dang, Huang Gai, Ju Shou, Gan Ning, and Status-Filtered Talent Misrecognition; updated overview, index, Sun Ce, Liu Yao, Xu Shao, Ze Rong, Xue Li, Talent as State Treasure, Occupation Pacification Strategy, and People-Based Political Security. No settled contradiction found; the episode is kept as a backfill before Hanji 994-995, and Taishi Ci's lower-status talent reading remains source-scoped.
@@ -11021,6 +11025,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇
 
 Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's improvised Anyi court, Chang'an and Guanzhong starvation, Ju Shou's advice that Yuan Shao welcome the emperor, Guo Tu and Chunyu Qiong's objections, and Sun Ce's Jiangdong launch through Wu Jing, Zhou Yu, Zhou Shang, Danyang, Liyang, and Hengjiang. Created pages for Guo Tu, Chunyu Qiong, Wu Jing, Zhou Shang, Danyang Commandery, Hengjiang, and Liyang; updated index and will refresh connected late-Han entity/concept pages and synthesis artifacts. No settled contradiction found; transcript name variants are normalized to existing canonical pages.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

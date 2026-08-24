@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5314
+wiki_total_pages: 5315
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "ProtectiveRemonstranceSequencing"
     title: "Protective Remonstrance Sequencing / 护身符式进言"
     url: "/wiki/concepts/protectiveremonstrancesequencing/"
+  - key: "ProtectorCaptorAmbiguity"
+    title: "Protector-Captor Ambiguity / 护驾与挟持模糊性"
+    url: "/wiki/concepts/protectorcaptorambiguity/"
   - key: "ProvocationPublicityPolitics"
     title: "Provocation Publicity Politics"
     url: "/wiki/concepts/provocationpublicitypolitics/"

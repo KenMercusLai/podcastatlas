@@ -2,11 +2,13 @@
 title: "Mingqi Legitimacy / 名器合法性"
 type: concept
 tags: [legitimacy, status, ritual, symbols, late-han, chinese-history]
-sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
 last_updated: 2026-08-24
 ---
 
 # Mingqi Legitimacy / 名器合法性
+
+[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] adds the battlefield-loss side of Mingqi legitimacy. During [[EmperorXianOfHan|汉献帝]]'s flight, imperial objects, tallies, books, and archives are lost amid the pursuit by [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ZhangJiLateHan|张济]]. The title remains politically valuable enough for armies to fight over the emperor, but the visible objects and records that normally carry court authority are scattered or destroyed.
 
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] backfills the damaged-court side of Mingqi legitimacy. At [[Anyi|安邑]], [[EmperorXianOfHan|汉献帝]] can still reward officials, grant ranks, and make appointments, but the court lacks proper food, buildings, and even enough seals, so emergency wooden seals have to stand in for normal official objects. The source shows that `名器` can keep political force after material capacity collapses, but only in a fragile and improvised form.
 
@@ -25,6 +27,7 @@ Hanji 1015 adds the coalition-pressure side of the same title problem. Yuan Shu'
 Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]] refuses Yuan Shu's taiwei title and is killed, while [[ChenGui|陈珪]] refuses Yuan Shu's appeal and then steers [[LyuBu|吕布]] away from a marriage alliance. Accepting or rejecting titles is therefore not ornamental; it changes legitimacy, danger, and alliance exposure.
 
 ## Key Claims
+- Hanji 991 adds that imperial symbols can be physically lost while the sovereign title remains valuable enough to trigger pursuit and battle.
 - Hanji 992 adds that recognized titles can keep functioning in an improvised court, but the visible degradation of seals, housing, and food reveals the gap between symbolic authority and state capacity.
 - Hanji 1001 adds that even a powerful object like the Heirloom Imperial Seal can become false confidence when it is not backed by virtue, adviser acceptance, and public recognition.
 - Hanji 1015 adds that taking the imperial title can create coalition pressure before a full military collapse has occurred.
@@ -36,6 +39,7 @@ Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]]
 - The concept links personal survival to public symbolic order: an actor must judge both what the title says and who can enforce or punish it.
 
 ## Connections
+- [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - lost imperial objects and the armed struggle over the emperor's person.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[Anyi|安邑]], [[HedongCommandery|河东郡]], [[JuShou|沮授]], and [[YuanShao|袁绍]] - improvised court objects and the missed chance to use the emperor's still-recognized name.
 - [[YuanShu|袁术]], [[YanXiangLateHan|阎象]], [[ZhangChengLateHan|张承]], [[HeirloomImperialSeal|传国玉玺]], [[SunCe|孙策]], [[CaoCao|曹操]], [[XunYu|荀彧]], and [[EmperorXianOfHan|汉献帝]] - late-Han actors and symbols through which the source tests title legitimacy.
 - [[Shouchun|寿春]], [[JiujiangCommandery|九江郡]], and [[HuainanRegion|淮南]] - Hanji 1015 self-coronation and administrative-renaming branch.

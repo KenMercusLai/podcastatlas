@@ -2,11 +2,13 @@
 title: "杨彪 / Yang Biao"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+last_updated: 2026-08-24
 ---
 
 # 杨彪 / Yang Biao
+
+[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] first places Yang Biao inside [[EmperorXianOfHan|汉献帝]]'s flight. When [[LiJueLateHan|李傕]] proposes sending the emperor down the Yellow River through dangerous water, Yang Biao judges the route too risky and arranges a secret night crossing instead. The plan lets a small party, including [[FuShouEmpress|伏皇后]], escape, but it also exposes the survival cost of the court's collapse.
 
 杨彪 / Yang Biao enters the wiki through [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] as the former taiwei and old-Han elite whom [[CaoCao|曹操]] targets after bringing [[EmperorXianOfHan|汉献帝]] to Xu. The episode says Yang Biao's family prestige and his marriage connection to [[YuanShu|袁术]] make him politically exposed.
 
@@ -17,6 +19,7 @@ Yang Biao's later withdrawal is the source's practical ending. Seeing the Han ro
 ## Connections
 - [[CaoCao|曹操]] - powerholder who arrests and releases him.
 - [[EmperorXianOfHan|汉献帝]] - emperor in whose court the case is staged.
+- [[FuShouEmpress|伏皇后]], [[DongChengLateHan|董承]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - Hanji 991 night-crossing survival branch.
 - [[YuanShu|袁术]] and [[YangXiu|杨修]] - marriage tie that creates political suspicion in the source.
 - [[KongRong|孔融]], [[XunYu|荀彧]], and [[ManChong|满宠]] - figures involved in the defense and release path.
 - [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]] - concept created from the case.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 7128
+wiki_total_pages: 7134
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "QwenSmartGlasses"
     title: "千问眼镜 / Qwen Smart Glasses"
     url: "/wiki/entities/qwensmartglasses/"
+  - key: "QubeiSouthernXiongnu"
+    title: "去卑 / Qubei (Southern Xiongnu)"
+    url: "/wiki/entities/qubeisouthernxiongnu/"
   - key: "QuXianchang"
     title: "去现场 / Qu Xianchang"
     url: "/wiki/entities/quxianchang/"

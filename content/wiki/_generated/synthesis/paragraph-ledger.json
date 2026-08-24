@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "fcbb6cc3956b0c56b8f05f690c73c1bafbb71f97249d80c47eec0d0e7ce92b1d",
       "a18f91abce779306d9ae23742c1b1f069b80b688f13c5f84955dd0ec027cd5e4",
       "dce6858c37320ff625a5070a23b56dc5b1a4d94ca15df31dff97aa0e3e05eda5",
       "36b51c0e0ab92dea13007eb6ddb52c924752803e8bbb1e1457ddd21998d9747d",
@@ -171,11 +172,48 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 169
+    "paragraph_count": 170
   },
-  "overview_commit": "5918798f3bc87d6c4de31b4dd20b5675d9b324ae",
-  "overview_digest": "4ca008109fc249fe497b7bc86efdd0c635a797fa17cbe599d599fac69a211f5a",
+  "overview_commit": "84a878dcf60b3f195ff10126b8f2c4b03965445c",
+  "overview_digest": "9bf4340a0e7494e429e12abee19a4a2028adf4aceb8270bbe5ec232f0e4754fc",
   "paragraphs": [
+    {
+      "id": "fcbb6cc3956b0c56b8f05f690c73c1bafbb71f97249d80c47eec0d0e7ce92b1d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the bloody December 195 CE flight segment before [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]]. It adds [[BaiboArmy|白波军]], [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], [[QubeiSouthernXiongnu|去卑]], [[FuShouEmpress|伏皇后]], [[ShiSunRuiLateHan|士孙瑞]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], while extending [[EmperorXianOfHan|汉献帝]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], [[ZhangYangLateHan|张杨]], [[YangBiao|杨彪]], [[JiaXu|贾诩]], [[SouthernXiongnu|南匈奴]], [[MingqiLegitimacy|名器合法性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]]. Its core synthesis is that Emperor Xian's title remains valuable enough to pull armies, Baibo commanders, and Southern Xiongnu cavalry into the same field, but institutional protection has collapsed: escort and capture blur, imperial records and officials are lost, and survival depends on Yang Biao's night crossing and Dong Cheng's improvised shield rather than normal court order. No settled contradiction is recorded; transcript variants are normalized to existing canonical late-Han pages.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BaiboArmy",
+        "DongChengLateHan",
+        "EmperorXianOfHan",
+        "FuShouEmpress",
+        "GuoSiLateHan",
+        "HanXianLateHan",
+        "HuCaiLateHan",
+        "InterestStructuredAllianceFragility",
+        "JiaXu",
+        "LegitimacyWindowSeizure",
+        "LiJueLateHan",
+        "LiLeLateHan",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "ProtectorCaptorAmbiguity",
+        "QubeiSouthernXiongnu",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "SouthernXiongnu",
+        "YangBiao",
+        "YangFengLateHan",
+        "ZhangJiLateHan",
+        "ZhangYangLateHan",
+        "zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p",
+        "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz"
+      ]
+    },
     {
       "id": "a18f91abce779306d9ae23742c1b1f069b80b688f13c5f84955dd0ec027cd5e4",
       "primary_topic": "history-and-geopolitics",

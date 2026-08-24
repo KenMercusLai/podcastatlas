@@ -2,11 +2,13 @@
 title: "贾诩 / Jia Xu"
 type: entity
 tags: [person, late-han, three-kingdoms, adviser, china]
-sources: [zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
+last_updated: 2026-08-24
 ---
 
 # 贾诩 / Jia Xu
+
+[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] backfills Jia Xu's earlier restraint role while he is still near [[LiJueLateHan|李傕]]. After Li Jue captures several court ministers during [[EmperorXianOfHan|汉献帝]]'s flight, he wants to kill them; Jia Xu argues that they are high ministers of the court and should not be casually executed. The advice saves lives without solving the larger [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] around the emperor.
 
 [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] gives Jia Xu's pre-Wancheng survival calculation. After leaving Chang'an, he stays with [[DuanWeiLateHan|段煨]], but reads Duan Wei's courtesy as unstable because Duan Wei fears Jia Xu's prestige in the army. Jia Xu therefore leaves for [[ZhangXiu|张绣]], judging that Zhang Xiu needs a strategist and that Duan Wei will still treat Jia Xu's family well after the departure.
 
@@ -24,6 +26,7 @@ In this source, Jia Xu is not yet a full biographical figure. He is the strategi
 
 ## Connections
 - [[ZhangXiu|张绣]] - commander he advises.
+- [[LiJueLateHan|李傕]], [[EmperorXianOfHan|汉献帝]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - Hanji 991 restraint branch around captured ministers.
 - [[DuanWeiLateHan|段煨]] - host Jia Xu leaves after judging suspicion risk.
 - [[LiuBiao|刘表]] - regional power whom Jia Xu recommends to Zhang Xiu and later evaluates as a bounded local ruler.
 - [[CaoCao|曹操]] - target whose trust and judgment are exploited.

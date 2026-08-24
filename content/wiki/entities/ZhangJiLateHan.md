@@ -2,11 +2,13 @@
 title: "张济 / Zhang Ji (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, military, china]
-sources: [zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]
+sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]
 last_updated: 2026-08-24
 ---
 
 # 张济 / Zhang Ji (late Han)
+
+[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] supplies the concrete pursuit stage behind Zhang Ji's later "mediator who wants control" role. The transcript renders him as "张继"; the wiki keeps the canonical [[ZhangJiLateHan|张济]] form. In this episode he is grouped with [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] in the chase after [[EmperorXianOfHan|汉献帝]], making mediation and coercive possession hard to separate.
 
 [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] gives Zhang Ji an earlier emperor-flight role before the Jingzhou branch. After [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] fight over [[EmperorXianOfHan|汉献帝]], Zhang Ji appears to mediate, but the episode says he also wants to move the emperor under his own control toward Hongnong. His role therefore fits the source's wider point that late-Han "protection" can shade into capture.
 
@@ -19,6 +21,7 @@ His death matters because it transfers both troops and family responsibility to 
 ## Connections
 - [[ZhangXiu|张绣]] - nephew who inherits his troops.
 - [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[EmperorXianOfHan|汉献帝]] - Hanji 999 mediation/control branch around the emperor's flight.
+- [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - pursuit branch where his protective posture shades into coercive possession.
 - [[LadyZouWancheng|邹氏]] - widow whose status becomes central to the Wancheng insult.
 - [[CaoCao|曹操]] - power whose later conduct toward Lady Zou destabilizes Zhang Xiu's surrender.
 - [[LiuBiao|刘表]] - regional power linked to Zhang Xiu after Zhang Ji's death.

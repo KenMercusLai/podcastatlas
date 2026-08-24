@@ -2,11 +2,13 @@
 title: "张杨 / Zhang Yang (late Han)"
 type: entity
 tags: [person, late-han, military, henei]
-sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
+sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
 last_updated: 2026-08-24
 ---
 
 # 张杨 / Zhang Yang (late Han)
+
+[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] gives Zhang Yang an early supply role at the end of the river-crossing crisis. After [[EmperorXianOfHan|汉献帝]] reaches Dayang from the night crossing, Zhang Yang sends several thousand people carrying grain to the court, showing that supply can briefly relieve the flight without ending the larger [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] around the emperor.
 
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] first places Zhang Yang near [[EmperorXianOfHan|汉献帝]]'s [[Anyi|安邑]] court. He comes from Yewang and wants to escort the emperor back to [[LuoyangLateHan|洛阳]], but the armed escort group blocks the plan, so he returns to Yewang. The episode therefore makes Zhang Yang an early restoration actor whose practical intention is constrained by the same protector politics that later sources develop.
 
@@ -23,6 +25,7 @@ Zhang Yang also appears in the episode's later Luoyang turn as one of the figure
 ## Connections
 - [[DongZhaoLateHan|董昭]] - adviser whose Henei persuasion links Zhang Yang to Cao Cao.
 - [[CaoCao|曹操]] - outside actor seeking a court-communication route through Henei.
+- [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] - grain support after the river crossing.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[Anyi|安邑]], and [[LuoyangLateHan|洛阳]] - early failed return plan blocked by escort politics.
 - [[EmperorXianOfHan|汉献帝]], [[DongChengLateHan|董承]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[LuoyangLateHan|洛阳]] - court-return setting that later makes Zhang Yang's role politically sensitive.
 - [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[DongChengLateHan|董承]] - other armed actors around the returning and ruined court.

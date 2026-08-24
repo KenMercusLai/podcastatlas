@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7128
+wiki_total_pages: 7134
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "BaiPeople"
     title: "白族 / Bai People"
     url: "/wiki/entities/baipeople/"
+  - key: "BaiboArmy"
+    title: "白波军 / Baibo Army"
+    url: "/wiki/entities/baiboarmy/"
   - key: "BaidengEncirclement"
     title: "白登之围 / Baideng Encirclement"
     url: "/wiki/entities/baidengencirclement/"

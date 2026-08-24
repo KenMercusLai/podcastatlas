@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7128
+wiki_total_pages: 7134
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1436,6 +1436,9 @@ wiki_pages:
   - key: "SDICUBSFund"
     title: "国投瑞银基金 / SDIC UBS Fund"
     url: "/wiki/entities/sdicubsfund/"
+  - key: "ShiSunRuiLateHan"
+    title: "士孙瑞 / Shi Sun Rui (late Han)"
+    url: "/wiki/entities/shisunruilatehan/"
   - key: "ShengdongJixi"
     title: "声东击西"
     url: "/wiki/entities/shengdongjixi/"
