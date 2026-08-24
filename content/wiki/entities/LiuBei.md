@@ -2,7 +2,7 @@
 title: "刘备 / Liu Bei"
 type: entity
 tags: [person, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
+sources: [zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
 last_updated: 2026-08-24
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-24
 刘备 / Liu Bei enters the wiki through [[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] as the person harmed by [[ZhangFei|张飞]]'s drunken loss of Xuzhou. The episode uses Liu Bei's resulting lack of a base to make the Zhang Fei story political rather than merely comic.
 
 His role here is secondary but structurally important. In the source's alcohol frame, the drinker's lapse matters because it transfers cost to allies, dependents, and a wider military project.
+
+[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] adds the immediate Xuzhou succession opening before his first reception of [[LyuBu|吕布]]. After [[TaoQianLateHan|陶谦]] dies, Liu Bei takes over [[Xuzhou|徐州]], and [[CaoCao|曹操]] sees a chance to attack before Liu Bei has fully rooted himself. The episode stops before the adviser warning, so Liu Bei's role here is the newly installed holder whose position creates Cao Cao's temptation.
 
 [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds the immediately earlier reception scene before the later [[Xuzhou|徐州]] status inversion. After [[LyuBu|吕布]] loses [[DingtaoBattleLateHan|定陶之战]] and flees east, Liu Bei receives him. The source says Lü Bu seats Liu Bei on [[LadyYanLyuBu|严氏]]'s bed, has her salute him, and calls Liu Bei "old brother"; the host reads Liu Bei's polite but unhappy response through [[PowerEtiquetteReading|权力礼仪细读]] and a clash of public/private ritual boundaries.
 
@@ -28,6 +30,7 @@ The same source makes Liu Bei the test case for [[ReputationConstrainedTalentPro
 
 ## Connections
 - [[ZhangFei|张飞]] - subordinate whose drunken mistake affects Liu Bei's base.
+- [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[TaoQianLateHan|陶谦]], [[CaoCao|曹操]], and [[Xuzhou|徐州]] - succession opening and external attack temptation.
 - [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[LyuBu|吕布]], [[LadyYanLyuBu|严氏]], and [[PowerEtiquetteReading|权力礼仪细读]] - first reception of Lü Bu after Dingtao.
 - [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]], [[MiZhu|糜竺]], [[Xiapi|下邳]], [[Xuzhou|徐州]], and [[PeiCounty|小沛]] - Hanji 999 loss, emergency funding, surrender, and regrouping branch.
 - [[YuanShu|袁术]], [[JiLing|纪灵]], [[LyuBu|吕布]], and [[CredibleForceDisplayDeterrence|可信武力展示威慑]] - Hanji 1008 attack and mediation branch.

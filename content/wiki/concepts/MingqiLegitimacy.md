@@ -2,11 +2,13 @@
 title: "Mingqi Legitimacy / 名器合法性"
 type: concept
 tags: [legitimacy, status, ritual, symbols, late-han, chinese-history]
-sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
+sources: [zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs]
 last_updated: 2026-08-24
 ---
 
 # Mingqi Legitimacy / 名器合法性
+
+[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] adds the coerced-office version before the departure sequence. [[LiJueLateHan|李傕]] is appointed 大司马 while holding [[EmperorXianOfHan|汉献帝]], so the title remains formally powerful but is generated under hostage pressure. The episode also shows [[HuangfuLiLateHan|皇甫郦]] still using the emperor's edict vocabulary to judge Li Jue, even though Li Jue can refuse the edict and threaten the envoy.
 
 [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] adds the visible-body version before the route-control crisis of Hanji 989. [[EmperorXianOfHan|汉献帝]] can be stopped by soldiers at the bridge out of Chang'an, meaning the title alone no longer guarantees passage. Yet once [[LiuAiLateHan|刘艾]] and the lifted curtain make the emperor publicly visible, his rebuke still makes [[GuoSiLateHan|郭汜]]'s soldiers stand aside; Mingqi has not disappeared, but it works only in a narrow, exposed moment.
 
@@ -31,6 +33,7 @@ Hanji 1015 adds the coalition-pressure side of the same title problem. Yuan Shu'
 Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]] refuses Yuan Shu's taiwei title and is killed, while [[ChenGui|陈珪]] refuses Yuan Shu's appeal and then steers [[LyuBu|吕布]] away from a marriage alliance. Accepting or rejecting titles is therefore not ornamental; it changes legitimacy, danger, and alliance exposure.
 
 ## Key Claims
+- Hanji 986 adds that offices can still be issued while the sovereign is coerced, making title recognition real but politically contaminated.
 - Hanji 988 adds that a ruler's visible body can still activate title awe even after armed men have already blocked his route.
 - Hanji 989 adds that title grants can still placate and classify armed actors even when those titles no longer command their route choices.
 - Hanji 991 adds that imperial symbols can be physically lost while the sovereign title remains valuable enough to trigger pursuit and battle.
@@ -45,6 +48,7 @@ Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]]
 - The concept links personal survival to public symbolic order: an actor must judge both what the title says and who can enforce or punish it.
 
 ## Connections
+- [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[LiJueLateHan|李傕]], [[EmperorXianOfHan|汉献帝]], and [[HuangfuLiLateHan|皇甫郦]] - 大司马 appointment and edict vocabulary under coercion.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[LiuAiLateHan|刘艾]], and [[GuoSiLateHan|郭汜]] - bridge scene where public identification makes a weak title momentarily effective.
 - [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[ZhangJiLateHan|张济]], [[GuoSiLateHan|郭汜]], [[YangDingLateHan|杨定]], [[YangFengLateHan|杨奉]], and [[DongChengLateHan|董承]] - title grants without restored command over soldiers and routes.
 - [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - lost imperial objects and the armed struggle over the emperor's person.

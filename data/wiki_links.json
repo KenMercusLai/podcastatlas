@@ -21023,6 +21023,10 @@
     "title": "黄帝 / Huangdi",
     "url": "/wiki/entities/huangdi/"
   },
+  "HuangfuLiLateHan": {
+    "title": "皇甫郦 / Huangfu Li (late Han)",
+    "url": "/wiki/entities/huangfulilatehan/"
+  },
   "Huangji": {
     "title": "黄棘 / Huangji",
     "url": "/wiki/entities/huangji/"
@@ -25962,6 +25966,10 @@
   "LiDui": {
     "title": "李兑 / Li Dui",
     "url": "/wiki/entities/lidui/"
+  },
+  "LiFengLateHan": {
+    "title": "李封 / Li Feng (late Han)",
+    "url": "/wiki/entities/lifenglatehan/"
   },
   "LiFuWarringStates": {
     "title": "栗腹 / Li Fu (Warring States)",
@@ -46291,6 +46299,10 @@
     "title": "Wang Bo / 汪波",
     "url": "/wiki/entities/wangbo/"
   },
+  "WangChangLateHan": {
+    "title": "王昌 / Wang Chang (late Han)",
+    "url": "/wiki/entities/wangchanglatehan/"
+  },
   "WangChaoyun": {
     "title": "王朝云 / Wang Chaoyun",
     "url": "/wiki/entities/wangchaoyun/"
@@ -48543,6 +48555,10 @@
     "title": "薛公 / Xue Gong (Han adviser)",
     "url": "/wiki/entities/xuegonghanadviser/"
   },
+  "XueLanLateHan": {
+    "title": "薛兰 / Xue Lan (late Han)",
+    "url": "/wiki/entities/xuelanlatehan/"
+  },
   "XueLiLateHan": {
     "title": "薛礼 / Xue Li (late Han)",
     "url": "/wiki/entities/xuelilatehan/"
@@ -50266,6 +50282,10 @@
   "ZhaoWeihou": {
     "title": "赵威后 / Zhao Weihou",
     "url": "/wiki/entities/zhaoweihou/"
+  },
+  "ZhaoWenLateHan": {
+    "title": "赵温 / Zhao Wen (late Han)",
+    "url": "/wiki/entities/zhaowenlatehan/"
   },
   "ZhaoWuZhaoMinister": {
     "title": "赵午 / Zhao Wu (Zhao minister)",
@@ -54418,6 +54438,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd": {
+    "title": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd/"
   },
   "zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave": {
     "title": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决",

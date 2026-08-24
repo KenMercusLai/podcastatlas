@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "82334b450b933e6bbdfb71baa664f3a987ac7f860d57bd79194822098b520416",
       "8629e4fd3753e437bb0a220bd621d6077764d62df30c30c0eeabeed322ac0bbb",
       "f0ae0e4245313af8038b0f131ea1a35f44c60abd1eafebca186fd445b9e65a07",
       "9b1a95c61512c5e6affd31c8045afbf16fba0fcbd9655bbb560edc8794155e25",
@@ -175,11 +176,52 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 173
+    "paragraph_count": 174
   },
-  "overview_commit": "a773eb4709150443b98afedbc9ba2edc3ab4b770",
-  "overview_digest": "9ee714e10c51f0dce245395fd1a12c49774c4d141c2fa4d1e33ae59a2fa79f55",
+  "overview_commit": "adb81672f2d12b462fb321c7afbcbbcdef8c5b71",
+  "overview_digest": "a83e1b6e10b03a68e2641425c635116d8b5b7685f3d0324cf4dcafd0fd59efee",
   "paragraphs": [
+    {
+      "id": "82334b450b933e6bbdfb71baa664f3a987ac7f860d57bd79194822098b520416",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] late-Han sequence through [[LiJueLateHan|李傕]]'s refusal of mediation, [[EmperorXianOfHan|汉献帝]]'s constrained envoy work, and [[CaoCao|曹操]]'s compact [[YanzhouLateHan|兖州]] recovery. It adds [[ZhaoWenLateHan|赵温]], [[HuangfuLiLateHan|皇甫郦]], [[WangChangLateHan|王昌]], [[XueLanLateHan|薛兰]], and [[LiFengLateHan|李封]], while extending [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[YangFengLateHan|杨奉]], [[BaiboArmy|白波军]], [[LyuBu|吕布]], [[TaoQianLateHan|陶谦]], [[LiuBei|刘备]], [[Xuzhou|徐州]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[MingqiLegitimacy|名器合法性]], [[BattlefieldInformationControl|战场信息控制]], and [[RootBasePriority|根本根据地优先]]. Its core synthesis is that late-Han coercive hosting has already broken ordinary feedback before the road-flight crisis: Zhao Wen and Huangfu Li can identify Li Jue's overreach, but Li Jue answers with rage, title extraction, and pursuit; meanwhile Cao Cao's Juye ambush recovers Yanzhou yet immediately creates the Xuzhou temptation that Hanji 987 answers through base-first strategy. No settled contradiction is recorded; Li Jue's psychology, the title maxim, and the unnamed closing adviser remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BaiboArmy",
+        "BattlefieldInformationControl",
+        "CaoCao",
+        "EmperorXianOfHan",
+        "GuoSiLateHan",
+        "HuangfuLiLateHan",
+        "LiFengLateHan",
+        "LiJueLateHan",
+        "LiuBei",
+        "LyuBu",
+        "MingqiLegitimacy",
+        "ProtectorCaptorAmbiguity",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "TaoQianLateHan",
+        "WangChangLateHan",
+        "XueLanLateHan",
+        "Xuzhou",
+        "YangFengLateHan",
+        "YanzhouLateHan",
+        "ZhangJiLateHan",
+        "ZhaoWenLateHan",
+        "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd",
+        "zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave"
+      ]
+    },
     {
       "id": "8629e4fd3753e437bb0a220bd621d6077764d62df30c30c0eeabeed322ac0bbb",
       "primary_topic": "governance-and-institutions",

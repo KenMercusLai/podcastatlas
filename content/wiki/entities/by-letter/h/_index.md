@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7141
+wiki_total_pages: 7146
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "HyakkiYagyoSeries"
     title: "百鬼夜行系列 / Hyakki Yagyo Series"
     url: "/wiki/entities/hyakkiyagyoseries/"
+  - key: "HuangfuLiLateHan"
+    title: "皇甫郦 / Huangfu Li (late Han)"
+    url: "/wiki/entities/huangfulilatehan/"
   - key: "Hema"
     title: "盒马 / Hema"
     url: "/wiki/entities/hema/"

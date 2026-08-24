@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7141
+wiki_total_pages: 7146
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "LiJiSlaysSnake"
     title: "李寄斩蛇 / Li Ji Slays the Snake"
     url: "/wiki/entities/lijislayssnake/"
+  - key: "LiFengLateHan"
+    title: "李封 / Li Feng (late Han)"
+    url: "/wiki/entities/lifenglatehan/"
   - key: "LiXiaojie"
     title: "李小杰 / Li Xiaojie"
     url: "/wiki/entities/lixiaojie/"

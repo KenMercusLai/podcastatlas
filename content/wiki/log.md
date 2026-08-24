@@ -11065,3 +11065,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》986丨天欲其亡，必先令其狂
+
+Added source page for a 芮淇讲透资治通鉴 episode on Li Jue rejecting Emperor Xian's mediation, Zhao Wen and Huangfu Li's dangerous remonstrance, Wang Chang sparing Huangfu Li, Cao Cao's Juye/Yanzhou ambush against Lü Bu, and Cao Cao's temptation to attack Xuzhou after Tao Qian's death. Created pages for Zhao Wen, Huangfu Li, Wang Chang, Xue Lan, and Li Feng; updated index and connected late-Han entity/concept pages. No settled contradiction found; Li Jue's psychology and the title judgment are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

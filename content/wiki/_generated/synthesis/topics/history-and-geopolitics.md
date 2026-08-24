@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-24
-as_of_overview_commit: 5918798f3bc87d6c4de31b4dd20b5675d9b324ae
-input_digest: 05f90f89db8a14664097f35bfb555f43bc37a4e3621b83ad51541a313fed3702
+as_of_overview_commit: adb81672f2d12b462fb321c7afbcbbcdef8c5b71
+input_digest: f55426080ac2eb803f93bedd9ac1759de3b2f36dd5b5d609d30eca085f641469
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. Hanji 992 adds the pre-Jiangdong and pre-Xu-court legitimacy branch: Emperor Xian's Anyi court still carries title force despite ruined material capacity, Yuan Shao misses Ju Shou's legitimacy-window advice, and Sun Ce's modest mission succeeds because Zhou Yu and the Danyang network make it executable. Hanji 994 then turns the same Jiangdong line toward organization-building through Lu Fan's discipline work and staff-trust without ego threat. Across the topic, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.
+Hanji 986 adds the pre-Hanji 987 late-Han hinge: Li Jue's failed mediation shows feedback collapse around court hostages, and Cao Cao's Juye/Yanzhou recovery creates the Xuzhou temptation later disciplined by base-priority logic. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. Hanji 992 adds the pre-Jiangdong and pre-Xu-court legitimacy branch: Emperor Xian's Anyi court still carries title force despite ruined material capacity, Yuan Shao misses Ju Shou's legitimacy-window advice, and Sun Ce's modest mission succeeds because Zhou Yu and the Danyang network make it executable. Hanji 994 then turns the same Jiangdong line toward organization-building through Lu Fan's discipline work and staff-trust without ego threat. Across the topic, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.
 
 ## Cross-source Findings
+
+### Late Han Feedback Collapse Meets Base Priority
+
+Hanji 986-987 position late-Han control as a feedback-and-base-priority problem before the later court relocation sequence: [[LiJueLateHan]]'s rejection of [[EmperorXianOfHan]]'s mediation shows remonstrance failing around [[ZhaoWenLateHan]], [[HuangfuLiLateHan]], and [[WangChangLateHan]], while [[CaoCao]] kills [[XueLanLateHan]] and [[LiFengLateHan]] in the [[YanzhouLateHan]] theater and treats [[Xuzhou]] expansion as tempting but secondary under [[RootBasePriority]].
+
+**Evidence:** [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd]], [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]], [[LiJueLateHan]], [[EmperorXianOfHan]], [[ZhaoWenLateHan]], [[HuangfuLiLateHan]], [[WangChangLateHan]], [[CaoCao]], [[XueLanLateHan]], [[LiFengLateHan]], [[YanzhouLateHan]], [[Xuzhou]], [[RootBasePriority]], [[LyuBu]], [[TaoQianLateHan]], [[LiuBei]], [[BattlefieldInformationControl]], [[ProtectorCaptorAmbiguity]], [[MingqiLegitimacy]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 986's backfilled pre-Dingtao segment and the Hanji 987 base-priority frame it points toward.
+- Li Jue's psychology, the title maxim, and the unnamed closing adviser remain source-scoped rather than a complete explanation of late-Han politics.
 
 ### Late Han Jiangdong Talent Requires Execution And Ego Restraint
 

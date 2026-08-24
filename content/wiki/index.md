@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》986丨天欲其亡，必先令其狂](sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd.md) — 芮淇讲透资治通鉴 episode on Li Jue rejecting court mediation and raging at remonstrance, Huangfu Li's near-fatal warning, Cao Cao killing Lü Bu's Juye commanders, and the Xuzhou temptation after Tao Qian's death.
 - [《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决](sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave.md) — 芮淇讲透资治通鉴 episode on Xun Yu persuading Cao Cao to secure Yanzhou before pursuing Xuzhou, Cao Cao's Dingtao ambush victory over Lü Bu, and Lü Bu's awkward reception by Liu Bei.
 - [《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝](sources/zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl.md) — 芮淇讲透资治通鉴 episode on Han Fei's interest-centered human-nature frame, Li Jue and Guo Si's fragile settlement, Jia Xu detaching Qiang-Hu supporters, and Emperor Xian's bridge humiliation while leaving Chang'an.
 - [《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人](sources/zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6.md) — 芮淇讲透资治通鉴 episode on Emperor Xian's 195 CE route-control crisis, Guo Si's obstruction, Cao Cao's Yongqiu/Yanzhou turn, and Duan Wei's contested Huayin supply effort.
@@ -1715,6 +1716,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [任峻 / Ren Jun](entities/RenJun.md) — Cao Cao-side official appointed典农中郎将 to implement屯田 with Zao Zhi around Xudu.
 - [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose rivalry and temporary reunion with Guo Si over Emperor Xian creates the flight-and-escort crisis before the Luoyang return.
 - [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor paired with Li Jue in rivalry and temporary reunion over Emperor Xian, making protection and capture hard to separate.
+- [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — Situ who writes a dangerous remonstrance to Li Jue after Li Jue refuses imperial mediation and tries to move Emperor Xian.
+- [皇甫郦 / Huangfu Li (late Han)](entities/HuangfuLiLateHan.md) — Envoy whose direct warning to Li Jue turns mediation into near-fatal remonstrance in Hanji 986.
+- [王昌 / Wang Chang (late Han)](entities/WangChangLateHan.md) — Huben warrior sent to pursue Huangfu Li who spares him after recognizing his loyalty and uprightness.
+- [薛兰 / Xue Lan (late Han)](entities/XueLanLateHan.md) — Lü Bu-side commander killed by Cao Cao at Juye before the Yanzhou recovery branch continues.
+- [李封 / Li Feng (late Han)](entities/LiFengLateHan.md) — Lü Bu-side commander killed with Xue Lan, triggering Lü Bu's rescue move and Cao Cao's ambush.
 - [赵岐 / Zhao Qi (late Han)](entities/ZhaoQiLateHan.md) — Official who persuades Liu Biao to send troops, supplies, and grain for Emperor Xian's Luoyang return.
 - [何仪 / He Yi (late Han)](entities/HeYiLateHan.md) — Runan-Yingchuan Yellow Turban remnant leader defeated by Cao Cao before joining Yuan Shu.
 - [陶谦 / Tao Qian (late Han)](entities/TaoQianLateHan.md) — Former Xuzhou governor whose old subordinate Cao Bao remains part of the inherited local order Liu Bei must manage.

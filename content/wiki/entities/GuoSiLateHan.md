@@ -2,11 +2,13 @@
 title: "郭汜 / Guo Si (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 郭汜 / Guo Si (late Han)
+
+[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] backfills Guo Si as the rival whose dispute with [[LiJueLateHan|李傕]] draws repeated mediation from [[EmperorXianOfHan|汉献帝]]. In this episode Guo Si accepts [[HuangfuLiLateHan|皇甫郦]]'s mediation, while Li Jue refuses, insults him as a horse thief, and insists on killing him. The source still does not make Guo Si innocent; Huangfu Li explicitly says Guo Si has taken ministers hostage, but he uses that fact to show that Li Jue's seizure of the emperor is even more serious.
 
 [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] backfills Guo Si's role before the Xinfeng and Huayin route obstruction. After months of fighting with [[LiJueLateHan|李傕]], Guo Si accepts a fragile settlement only after mediation and hostage bargaining, then his soldiers block [[EmperorXianOfHan|汉献帝]]'s carriage at the bridge out of Chang'an. The episode makes the blockage a small but vivid case of [[MingqiLegitimacy|名器合法性]] under coercion: once the emperor is visibly identified, the soldiers step aside, but they have already shown that route access belongs to armed men.
 
@@ -24,6 +26,7 @@ In this source, Guo Si is part of the setting that makes later court politics le
 
 ## Connections
 - [[LiJueLateHan|李傕]] - rival military actor in the Chang'an struggle.
+- [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] and [[HuangfuLiLateHan|皇甫郦]] - mediation branch where Guo Si accepts settlement while Li Jue refuses.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[ZhangJiLateHan|张济]], [[LiuAiLateHan|刘艾]], and [[MingqiLegitimacy|名器合法性]] - hostage bargaining and bridge obstruction before Hanji 989.
 - [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] - route obstruction, Xinfeng coercion plan, and failed westward control.
 - [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - reunion against Yang Ding and renewed emperor-control calculation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7141
+wiki_total_pages: 7146
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "ZhaoTao"
     title: "赵涛 / Zhao Tao"
     url: "/wiki/entities/zhaotao/"
+  - key: "ZhaoWenLateHan"
+    title: "赵温 / Zhao Wen (late Han)"
+    url: "/wiki/entities/zhaowenlatehan/"
   - key: "ZhaoLiehou"
     title: "赵烈侯 / Marquis Lie of Zhao"
     url: "/wiki/entities/zhaoliehou/"

@@ -2,11 +2,13 @@
 title: "白波军 / Baibo Army"
 type: entity
 tags: [military, group, late-han, china]
-sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]
+sources: [zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]
 last_updated: 2026-08-24
 ---
 
 # 白波军 / Baibo Army
+
+[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] mentions White Wave-linked leaders indirectly in [[HuangfuLiLateHan|皇甫郦]]'s warning to [[LiJueLateHan|李傕]]. Huangfu Li says they, together with [[YangFengLateHan|杨奉]], judge Li Jue's handling of [[EmperorXianOfHan|汉献帝]] and the [[GuoSiLateHan|郭汜]] conflict as wrong, making them part of the pressure field before their later emergency escort role.
 
 白波军 / Baibo Army enters the wiki through [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] as the outside armed pool [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] draw on when [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] continue pursuing [[EmperorXianOfHan|汉献帝]]. The source names [[LiLeLateHan|李乐]], [[HanXianLateHan|韩暹]], and [[HuCaiLateHan|胡才]] as former Baibo commanders who bring cavalry to the escort side.
 
