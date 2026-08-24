@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "36b51c0e0ab92dea13007eb6ddb52c924752803e8bbb1e1457ddd21998d9747d",
       "b7bc9830b533d00f552a6c6ccb0ecb3c4158685df25be0c88cefde2415fac7d0",
       "923478761916df674e938cd4a4510d0860531d841482ed161c0ba982703547a1",
       "8de1045d310e7e163fc33bb2a0d14b63f3b098aa25cde6a938bf6428bb8f20cc",
@@ -168,11 +169,60 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 166
+    "paragraph_count": 167
   },
-  "overview_commit": "9cbb433379736e92ede35fea51123497e4fd06cb",
-  "overview_digest": "2909cbe4c69049b118581f4c3265bd242e150ff4d2d2b552264fc45a697824c5",
+  "overview_commit": "55737feff4e35dbf06474b54fcd65479d90c6573",
+  "overview_digest": "b7185110640c9b82497d09219c2f61ecd288e7259456f9f9de225b78bf7170f6",
   "paragraphs": [
+    {
+      "id": "36b51c0e0ab92dea13007eb6ddb52c924752803e8bbb1e1457ddd21998d9747d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]], a [[TheRestIsHistory]] episode setting up [[TheTroubles]] before the 1968-1969 civil-rights escalation. It adds [[EdwardCarson]], [[JamesCraig]], [[SeanLemass]], [[CathalGoulding]], [[GustySpence]], [[LiamMcMillen]], [[NoelDoherty]], [[MatildaGould]], [[JohnPatrickScullion]], [[PeterWard]], [[MalvernArms]], [[FreePresbyterianChurchOfUlster]], [[UlsterProtestantAction]], [[UlsterProtestantVolunteers]], [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], and [[UnionistSiegeMentality]], while extending [[NorthernIreland]], [[Stormont]], [[Derry]], [[Belfast]], [[RoyalUlsterConstabulary]], [[BSpecials]], [[OrangeOrder]], [[UlsterVolunteerForce]], [[IrishRepublicanArmy]], [[HistoricalMemoryContest]], [[SectarianSecurityDilemma]], [[StatePolicingLegitimacyCrisis]], [[ParamilitarySpoilerViolence]], and [[ReformTimingTrap]]. Its core synthesis is that the Troubles' pre-1968 roots combine constitutional design, institutional discrimination, unionist siege perception, rival historical memory, and chosen loyalist violence: partition produced a durable minority-state problem, Catholic grievances became concrete through housing/voting/policing exclusion, reform looked threatening to hardliners, and the 1966 UVF killings preceded the later civil-rights threshold. No settled contradiction is recorded; the episode deepens [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] by supplying the structural and paramilitary prelude.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+        "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+        "BSpecials",
+        "Belfast",
+        "CathalGoulding",
+        "Derry",
+        "EdwardCarson",
+        "FreePresbyterianChurchOfUlster",
+        "GustySpence",
+        "HistoricalMemoryContest",
+        "InstitutionalSectarianDiscrimination",
+        "IrishRepublicanArmy",
+        "JamesCraig",
+        "JohnPatrickScullion",
+        "LiamMcMillen",
+        "MalvernArms",
+        "MatildaGould",
+        "NoelDoherty",
+        "NorthernIreland",
+        "OrangeOrder",
+        "ParamilitarySpoilerViolence",
+        "PartitionMinorityTrap",
+        "PeterWard",
+        "ReformTimingTrap",
+        "RoyalUlsterConstabulary",
+        "SeanLemass",
+        "SectarianSecurityDilemma",
+        "StatePolicingLegitimacyCrisis",
+        "Stormont",
+        "TheRestIsHistory",
+        "TheTroubles",
+        "UlsterProtestantAction",
+        "UlsterProtestantVolunteers",
+        "UlsterVolunteerForce",
+        "UnionistSiegeMentality"
+      ]
+    },
     {
       "id": "b7bc9830b533d00f552a6c6ccb0ecb3c4158685df25be0c88cefde2415fac7d0",
       "primary_topic": "governance-and-institutions",

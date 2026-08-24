@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7080
+wiki_total_pages: 7094
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "NoExit"
     title: "No Exit / 《禁闭》"
     url: "/wiki/entities/noexit/"
+  - key: "NoelDoherty"
+    title: "Noel Doherty"
+    url: "/wiki/entities/noeldoherty/"
   - key: "NoelHSymington"
     title: "Noel H. Symington / 诺埃尔·H.赛明顿"
     url: "/wiki/entities/noelhsymington/"

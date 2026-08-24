@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 5306
+wiki_total_pages: 5309
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "UnilateralAIPauseCommitments"
     title: "Unilateral AI Pause Commitments"
     url: "/wiki/concepts/unilateralaipausecommitments/"
+  - key: "UnionistSiegeMentality"
+    title: "Unionist Siege Mentality"
+    url: "/wiki/concepts/unionistsiegementality/"
   - key: "UnitrancheLoan"
     title: "Unitranche Loan / 单级贷款"
     url: "/wiki/concepts/unitrancheloan/"

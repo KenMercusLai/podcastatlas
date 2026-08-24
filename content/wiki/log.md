@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 697. The Troubles: Murder in Belfast (Part 1)
+
+Added source page for a The Rest Is History episode on the pre-1968 roots of the Troubles: partition, Protestant unionist state design, Catholic exclusion, Derry housing and voting discrimination, the RUC/B Specials/Orange Order institutional field, Terence O'Neill's modernization and Lemass contact, Ian Paisley's anti-Catholic mobilization, the IRA's mid-1960s quietness, and the 1966 loyalist killings tied to the UVF. Created pages for Edward Carson, James Craig, Sean Lemass, Cathal Goulding, Gusty Spence, Liam McMillen, Noel Doherty, Matilda Gould, John Patrick Scullion, Peter Ward, Malvern Arms, Free Presbyterian Church of Ulster, Ulster Protestant Action, Ulster Protestant Volunteers, Partition Minority Trap, Institutional Sectarian Discrimination, and Unionist Siege Mentality; updated overview, index, and targeted Northern Ireland/Troubles entity and concept pages. No direct contradiction found; the episode extends the existing Part 2 branch by supplying pre-1968 structures and the 1966 loyalist violence before the civil-rights escalation.
+
 ## [2026-08-24] ingest | Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等
 
 Added source page for a 枫言枫语 episode on Codex reset pricing, DeepSeek peak/off-peak API pricing, OpenAI/Anthropic/Gemini competition, Apple Intelligence and Apple hardware strategy, agent sandbox and permission risks, assistant commerce, health wearables, robotic teleoperation, AI education, OpenRouter, TypeScript rewrite economics, and open-source maintenance. Created Peak-Valley AI Inference Pricing; updated overview, index, and targeted AI/pricing/platform/agent pages. No settled contradiction found; Apple/OpenAI legal claims, unreleased hardware, model labels, IPO rumors, and pricing examples remain source-scoped.
@@ -10977,6 +10981,10 @@ Ran health, identity validation, and lint. Health passed with no empty/stub file
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zang Hong's failed attempt to rescue Zhang Chao at Yongqiu, Yuan Shao's refusal, Cao Cao's capture of Yongqiu, Chen Lin's persuasion letter, East Commandery starvation, and the moral cost of loyalty that binds followers into a doomed stand. Created pages for Chen Lin (Late Han), Zhu Zhi (Late Han), Yan Baihu, and Yongqiu (Late Han); updated overview, index, Zang Hong, Zhang Chao, Zhang Miao, Yuan Shao, Cao Cao, Dong Commandery, Guangling Commandery, Death-Party Loyalty vs Official Duty, Emotional Attachment Political Distortion, Loyalty-Collateral Dilemma, Political Survival First, Xingshiqing Strategic Assessment, and Retainer Reciprocity Ethic. No settled contradiction found; the transcript's unfinished "偏执狂臧洪" analysis and opening disorder examples are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

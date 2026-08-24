@@ -2,17 +2,19 @@
 title: "The Troubles"
 type: entity
 tags: [history, northern-ireland, conflict]
-sources: [698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]
+sources: [698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
 last_updated: 2026-08-24
 ---
 
 # The Troubles
 
-[[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] treats the Troubles as entering a decisive threshold in 1968-1969, when civil rights protest, unionist backlash, police legitimacy collapse, loyalist violence, republican preparation, and British intervention combined into open conflict in [[NorthernIreland]].
+[[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] treats the Troubles as rooted in partition, Protestant unionist state design, Catholic exclusion, rival historical memories, [[UnionistSiegeMentality|unionist siege fears]], and the 1966 loyalist killings tied to the [[UlsterVolunteerForce|UVF]]. It supplies the pre-1968 background for the later street-war threshold.
 
-The episode does not frame the Troubles as inevitable ancient hatred. It stresses that institutional discrimination and historical fear were real, but that actors such as [[TerenceONeill|Terence O'Neill]], [[IanPaisley]], [[PeoplesDemocracyNorthernIreland|People's Democracy]], the [[RoyalUlsterConstabulary|RUC]], the [[UlsterVolunteerForce|UVF]], and Westminster made choices that changed the conflict's trajectory.
+[[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] then treats the Troubles as entering a decisive threshold in 1968-1969, when civil rights protest, unionist backlash, police legitimacy collapse, loyalist violence, republican preparation, and British intervention combined into open conflict in [[NorthernIreland]].
+
+The two episodes do not frame the Troubles as inevitable ancient hatred. They stress that institutional discrimination and historical fear were real, but that actors such as [[TerenceONeill|Terence O'Neill]], [[IanPaisley]], [[GustySpence]], [[PeoplesDemocracyNorthernIreland|People's Democracy]], the [[RoyalUlsterConstabulary|RUC]], the [[UlsterVolunteerForce|UVF]], and Westminster made choices that changed the conflict's trajectory.
 
 ## Connections
 - [[NorthernIreland]], [[Derry]], [[Belfast]], [[Bogside]], and [[Stormont]] - main setting.
-- [[NorthernIrelandCivilRightsMovement]], [[StatePolicingLegitimacyCrisis]], [[SectarianSecurityDilemma]], and [[CivilRightsToStreetWarThreshold]] - concepts grounded by the source.
-- [[BurntolletBridgeAttack]], [[BattleOfTheBogside]], and [[BritishArmy]] - flashpoints and intervention path.
+- [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], [[UnionistSiegeMentality]], [[NorthernIrelandCivilRightsMovement]], [[StatePolicingLegitimacyCrisis]], [[SectarianSecurityDilemma]], and [[CivilRightsToStreetWarThreshold]] - concepts grounded by the sources.
+- [[MatildaGould]], [[JohnPatrickScullion]], [[PeterWard]], [[BurntolletBridgeAttack]], [[BattleOfTheBogside]], and [[BritishArmy]] - casualty markers, flashpoints, and intervention path.

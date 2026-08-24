@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5306
+wiki_total_pages: 5309
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "InstitutionalOvercompliance"
     title: "Institutional Overcompliance"
     url: "/wiki/concepts/institutionalovercompliance/"
+  - key: "InstitutionalSectarianDiscrimination"
+    title: "Institutional Sectarian Discrimination"
+    url: "/wiki/concepts/institutionalsectariandiscrimination/"
   - key: "InstitutionalSingleFamilyRental"
     title: "Institutional Single-Family Rental"
     url: "/wiki/concepts/institutionalsinglefamilyrental/"

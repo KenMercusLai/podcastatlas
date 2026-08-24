@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 7080
+wiki_total_pages: 7094
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -104,6 +104,12 @@ wiki_pages:
   - key: "Ukraine"
     title: "Ukraine"
     url: "/wiki/entities/ukraine/"
+  - key: "UlsterProtestantAction"
+    title: "Ulster Protestant Action"
+    url: "/wiki/entities/ulsterprotestantaction/"
+  - key: "UlsterProtestantVolunteers"
+    title: "Ulster Protestant Volunteers"
+    url: "/wiki/entities/ulsterprotestantvolunteers/"
   - key: "UlsterVolunteerForce"
     title: "Ulster Volunteer Force"
     url: "/wiki/entities/ulstervolunteerforce/"

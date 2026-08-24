@@ -2,16 +2,16 @@
 title: "Stormont"
 type: entity
 tags: [institution, politics, northern-ireland]
-sources: [698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]
+sources: [698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
 last_updated: 2026-08-24
 ---
 
 # Stormont
 
-Stormont appears in [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] as the Northern Ireland parliament and government whose capacity collapsed under civil-rights pressure, unionist backlash, and street violence. The episode tracks [[TerenceONeill|Terence O'Neill]]'s limited reforms, his February 1969 election gamble, and [[JamesChichesterClark]]'s succession as prime minister.
+Stormont appears in [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] as the Northern Ireland parliament created after partition. The episode uses [[JamesCraig]]'s Protestant-state language, gerrymandered boundaries, local voting rules, and Protestant-dominated institutions to show why many Catholics did not experience Stormont rule as neutral.
 
-The source uses Stormont to show why London could no longer treat [[NorthernIreland]] as a distant local problem. [[HaroldWilson]] and [[JimCallaghan]] pressed for reform, considered deeper intervention, and eventually sent the [[BritishArmy]] after Derry and Belfast violence.
+In [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], Stormont becomes the government whose capacity collapsed under civil-rights pressure, unionist backlash, and street violence. The source tracks [[TerenceONeill|Terence O'Neill]]'s limited reforms, his February 1969 election gamble, [[JamesChichesterClark]]'s succession, and the point where [[HaroldWilson]] and [[JimCallaghan]] could no longer treat [[NorthernIreland]] as a distant local problem.
 
 ## Connections
-- [[NorthernIreland]], [[UnitedKingdom]], [[TerenceONeill|Terence O'Neill]], and [[JamesChichesterClark]] - governing framework.
-- [[ReformTimingTrap]], [[StatePolicingLegitimacyCrisis]], and [[CivilRightsToStreetWarThreshold]] - concepts grounded by the source.
+- [[NorthernIreland]], [[UnitedKingdom]], [[JamesCraig]], [[TerenceONeill|Terence O'Neill]], and [[JamesChichesterClark]] - governing framework.
+- [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], [[ReformTimingTrap]], [[StatePolicingLegitimacyCrisis]], and [[CivilRightsToStreetWarThreshold]] - concepts grounded by the sources.

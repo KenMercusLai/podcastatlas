@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7080
+wiki_total_pages: 7094
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "Malta"
     title: "Malta"
     url: "/wiki/entities/malta/"
+  - key: "MalvernArms"
+    title: "Malvern Arms"
+    url: "/wiki/entities/malvernarms/"
   - key: "Mammut"
     title: "Mammut / 猛犸象"
     url: "/wiki/entities/mammut/"
@@ -383,6 +386,9 @@ wiki_pages:
   - key: "Mathlib"
     title: "Mathlib"
     url: "/wiki/entities/mathlib/"
+  - key: "MatildaGould"
+    title: "Matilda Gould"
+    url: "/wiki/entities/matildagould/"
   - key: "MatrixPartnersChina"
     title: "Matrix Partners China / 经纬中国"
     url: "/wiki/entities/matrixpartnerschina/"

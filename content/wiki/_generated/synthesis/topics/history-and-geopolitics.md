@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-24
-as_of_overview_commit: 6a2f03a039ffdaa16448fab83a20178abba6d09a
-input_digest: 066804851bdb49f61b8449d4d6c26a2d0706bc6b6281fd7e14f17e7775d2d804
+as_of_overview_commit: 55737feff4e35dbf06474b54fcd65479d90c6573
+input_digest: 3b04a3df51a2e13e76562972851facce39595bc9fefbcf0b8111015542a3e84f
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 997 adds the immediate pre-Hanji-999 loyalty branch: Zang Hong's death shows old-master obligation and renyi colliding with current alignment, Yuan Shao's authority, Cao Cao's alliance background, and survival-oriented condition reading. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's civil-rights-to-street-war threshold, physical internet geopolitics, and handset ecosystem shifts. The late-Han sequence emphasizes that court access, protection, title legitimacy, local order, and alliance choice are materially conditional: escorts, grain, reputation, family survival, and recognitional timing matter as much as formal office or personal loyalty.
+The Rest Is History now has a two-part Northern Ireland thread: Part 1 makes the Troubles' pre-1968 roots structural and actor-driven through partition, Catholic exclusion, unionist siege perception, historical memory, and early loyalist paramilitary violence, while Part 2 shows civil-rights protest crossing into street war through policing failure, marching-season provocation, community defense, Dublin rhetoric, and British Army deployment. Hanji 997 adds the immediate pre-Hanji-999 loyalty branch: Zang Hong's death shows old-master obligation and renyi colliding with current alignment, Yuan Shao's authority, Cao Cao's alliance background, and survival-oriented condition reading. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. The late-Han sequence emphasizes that court access, protection, title legitimacy, local order, and alliance choice are materially conditional: escorts, grain, reputation, family survival, and recognitional timing matter as much as formal office or personal loyalty.
 
 ## Cross-source Findings
 
@@ -141,11 +141,12 @@ The Hanji 1002 and 1015-1016 branch makes late-Han title order a strategic condi
 
 ### Civil Rights Crises Can Cross Into Street War
 
-[[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] adds [[TheTroubles]] as a history case where [[NorthernIrelandCivilRightsMovement]] mobilization, [[BurntolletBridgeAttack]], [[BattleOfTheBogside]], Belfast violence, [[JackLynch]]'s intervention, and [[BritishArmy]] deployment show a civil-rights crisis crossing into street war.
+[[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] and [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] frame [[TheTroubles]] as an escalation chain rather than a spontaneous 1968 break: [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], [[UnionistSiegeMentality]], and [[HistoricalMemoryContest]] made [[NorthernIreland]]'s conflict durable before [[ParamilitarySpoilerViolence]], [[NorthernIrelandCivilRightsMovement]], [[BurntolletBridgeAttack]], [[BattleOfTheBogside]], Belfast violence, [[JackLynch]]'s intervention, and [[BritishArmy]] deployment crossed a [[CivilRightsToStreetWarThreshold]].
 
-**Evidence:** [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], [[TheTroubles]], [[NorthernIrelandCivilRightsMovement]], [[BurntolletBridgeAttack]], [[BattleOfTheBogside]], [[Belfast]], [[JackLynch]], [[BritishArmy]], [[ParamilitarySpoilerViolence]], [[CivilRightsToStreetWarThreshold]]
+**Evidence:** [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]], [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], [[TheTroubles]], [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], [[UnionistSiegeMentality]], [[HistoricalMemoryContest]], [[NorthernIreland]], [[ParamilitarySpoilerViolence]], [[NorthernIrelandCivilRightsMovement]], [[BurntolletBridgeAttack]], [[BattleOfTheBogside]], [[Belfast]], [[JackLynch]], [[BritishArmy]], [[CivilRightsToStreetWarThreshold]]
 
 **Qualifications:**
 
-- This claim is historical and source-scoped to the episode's 1968-1969 focus.
-- It should not be generalized to all civil-rights movements; the episode emphasizes Northern Ireland's specific discrimination, unionist fear, policing, marching-season, and paramilitary context.
+- This claim is historical and source-scoped to The Rest Is History's pre-1968 and 1968-1969 Northern Ireland episodes.
+- It should not be generalized to all civil-rights movements or made deterministic; the sources emphasize Northern Ireland's specific partition settlement, discrimination, siege perceptions, policing, marching-season, and paramilitary context.
+- Part 1 supplies the structural and loyalist-paramilitary prelude, while Part 2 supplies the civil-rights escalation threshold.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [697. The Troubles: Murder in Belfast (Part 1)](sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736.md) — The Rest Is History episode on the pre-1968 roots of the Troubles: partition, Catholic exclusion, unionist siege fear, Paisley's rise, and the 1966 loyalist killings.
 - [Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等](sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1.md) — 枫言枫语 episode on Codex reset pricing, DeepSeek peak/off-peak API costs, Apple Intelligence, model routing, agent safety, assistant commerce, health wearables, and AI-maintained software.
 - [《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？](sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76.md) — 芮淇讲透资治通鉴 episode on Zang Hong's failed rescue request for Zhang Chao at Yongqiu, Yuan Shao's refusal, East Commandery starvation, and the cost of loyalty that crosses into collateral suffering.
 - [《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？](sources/zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax.md) — 芮淇讲透资治通鉴 episode on Zang Hong's death, old-master loyalty to Zhang Chao, Yuan Shao's refusal to rescue against Cao Cao, Cheng Long's remonstrance, and the tension between heroic righteousness and emotion-driven political rigidity.
@@ -1482,11 +1483,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring the wiki's new Northern Ireland 1968-1969 branch.
-- [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through the 1968-1969 move from civil rights protest into street violence.
-- [Northern Ireland](entities/NorthernIreland.md) — UK region where civil-rights grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the source.
-- [Terence O'Neill](entities/TerenceONeill.md) — Northern Ireland prime minister whose reform appeal and authority collapse structure the episode's tragedy.
-- [Ian Paisley](entities/IanPaisley.md) — Hardline unionist figure whose anti-civil-rights rhetoric and challenge to O'Neill expose unionist fragmentation.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring the wiki's Northern Ireland Troubles branch across pre-1968 roots and 1968-1969 escalation.
+- [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
+- [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
+- [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
+- [James Craig](entities/JamesCraig.md) — First Northern Ireland prime minister used by the source to frame Protestant-state identity and institutional exclusion.
+- [Terence O'Neill](entities/TerenceONeill.md) — Northern Ireland prime minister whose modernization, Lemass contact, reform appeal, and authority collapse structure the two-part narrative.
+- [Sean Lemass](entities/SeanLemass.md) — Irish Taoiseach whose 1965 Belfast visit gave O'Neill a normalization symbol and Paisley a betrayal target.
+- [Ian Paisley](entities/IanPaisley.md) — Hardline unionist preacher-politician whose anti-Catholic rhetoric, organizations, and challenge to O'Neill expose unionist fragmentation.
+- [Cathal Goulding](entities/CathalGoulding.md) — IRA chief of staff whose Marxist turn and failed-rising diagnosis explain the IRA's mid-1960s quietness and internal tension.
+- [Gusty Spence](entities/GustySpence.md) — Early UVF figure tied to the 1966 loyalist violence and later spoiler-violence framing.
+- [Liam McMillen](entities/LiamMcMillen.md) — Republican candidate whose 1964 tricolor display triggered an RUC removal, rioting, and Paisley publicity.
+- [Noel Doherty](entities/NoelDoherty.md) — Paisley protege who founded the Ulster Protestant Volunteers in 1966.
+- [Matilda Gould](entities/MatildaGould.md) — Protestant civilian fatally injured when early loyalists misdirected a petrol-bombing attack in 1966.
+- [John Patrick Scullion](entities/JohnPatrickScullion.md) — Catholic civilian attacked by UVF men in May 1966 after they failed to find a Republican activist.
+- [Peter Ward](entities/PeterWard.md) — Catholic civilian killed after the Malvern Arms shooting in June 1966.
 - [Austin Currie](entities/AustinCurrie.md) — Nationalist MP whose Caledon housing protest made Catholic discrimination visible.
 - [Gerry Fitt](entities/GerryFitt.md) — Civil-rights political figure beaten and arrested during the banned Derry march.
 - [John Hume](entities/JohnHume.md) — Civil-rights leader who later supported British troop deployment as protection during the 1969 crisis.
@@ -1496,23 +1507,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Craig](entities/WilliamCraig.md) — Northern Ireland home affairs minister who banned the Derry civil-rights march and warned concessions could provoke loyalists.
 - [James Chichester-Clark](entities/JamesChichesterClark.md) — O'Neill's successor who inherited the crisis and requested troops for Derry.
 - [Jack Lynch](entities/JackLynch.md) — Irish Taoiseach whose August 1969 statement intensified Catholic hopes and Protestant fears.
-- [Royal Ulster Constabulary](entities/RoyalUlsterConstabulary.md) — Police force whose conduct became central to the Northern Ireland legitimacy crisis.
-- [B Specials](entities/BSpecials.md) — Auxiliary police force whose abolition was demanded by civil-rights activists and recommended by the Hunt Report.
-- [Ulster Volunteer Force](entities/UlsterVolunteerForce.md) — Loyalist paramilitary organization tied to early killings and anti-O'Neill spoiler bombings.
-- [Irish Republican Army](entities/IrishRepublicanArmy.md) — Republican paramilitary organization present as both real actor and loyalist accusation in the source.
+- [Royal Ulster Constabulary](entities/RoyalUlsterConstabulary.md) — Police force whose Protestant structure and later conduct became central to the Northern Ireland legitimacy crisis.
+- [B Specials](entities/BSpecials.md) — Auxiliary police force tied to Protestant state structure, civil-rights abolition demands, Burntollet, and the Hunt Report.
+- [Free Presbyterian Church of Ulster](entities/FreePresbyterianChurchOfUlster.md) — Church founded by Ian Paisley, giving his anti-Catholic rhetoric a religious platform.
+- [Ulster Protestant Action](entities/UlsterProtestantAction.md) — Paisley's political wing linking religious agitation to organized loyalist politics.
+- [Ulster Protestant Volunteers](entities/UlsterProtestantVolunteers.md) — Paisley-linked loyalist group founded in 1966 and later tied to anti-O'Neill sabotage.
+- [Ulster Volunteer Force](entities/UlsterVolunteerForce.md) — Loyalist paramilitary organization tied to 1966 killings and anti-O'Neill spoiler bombings.
+- [Irish Republican Army](entities/IrishRepublicanArmy.md) — Republican paramilitary organization present as latent threat, real actor, and loyalist accusation in the sources.
 - [Northern Ireland Civil Rights Association](entities/NorthernIrelandCivilRightsAssociation.md) — Civil-rights organization demanding fair housing, voting, boundaries, and policing reform.
 - [People's Democracy (Northern Ireland)](entities/PeoplesDemocracyNorthernIreland.md) — Radical student civil-rights group whose Belfast-to-Derry march was ambushed at Burntollet.
 - [British Army](entities/BritishArmy.md) — Force sent into Derry and Belfast in August 1969 and initially welcomed by many Catholics.
-- [Derry / Londonderry](entities/Derry.md) — City at the center of the October 1968 march and the Battle of the Bogside.
+- [Derry / Londonderry](entities/Derry.md) — City used as the emblem of Catholic-majority/Protestant-control discrimination, then the October 1968 march and Bogside flashpoint.
 - [Belfast](entities/Belfast.md) — City where August 1969 violence included Divis flats, civilian deaths, displacement, and troop deployment.
 - [Bogside](entities/Bogside.md) — Derry district where barricades, petrol bombs, RUC action, and army arrival marked the 1969 crisis.
-- [Stormont](entities/Stormont.md) — Northern Ireland parliament and government whose reform capacity collapsed in the episode's account.
+- [Stormont](entities/Stormont.md) — Northern Ireland parliament and government whose Protestant-state design and later reform capacity collapse structure the sources.
 - [Burntollet Bridge Attack](entities/BurntolletBridgeAttack.md) — Loyalist ambush of People's Democracy marchers on 4 January 1969.
 - [Battle of the Bogside](entities/BattleOfTheBogside.md) — August 1969 Derry street battle that made British military intervention unavoidable.
 - [Apprentice Boys of Derry](entities/ApprenticeBoysOfDerry.md) — Unionist commemorative organization whose 12 August parade became the Bogside flashpoint.
 - [Orange Order](entities/OrangeOrder.md) — Unionist fraternal organization represented through the July 1969 marching-season riots.
 - [Derry Citizens Defence Association](entities/DerryCitizensDefenceAssociation.md) — Catholic local defense body that prepared barricades before the Battle of the Bogside.
 - [Patrick Rooney](entities/PatrickRooney.md) — Nine-year-old killed by RUC armoured-car fire in Belfast during the August 1969 violence.
+- [Malvern Arms](entities/MalvernArms.md) — Protestant pub near the Shankill Road used as the setting for the June 1966 shooting that killed Peter Ward.
 - [张宏江 / Zhang Hongjiang](entities/ZhangHongjiang.md) — Senior AI researcher and technology executive/investor voice in E249, framing token-cost decline, infrastructure cycles, AGI, and work disruption.
 - [Lama Ventures](entities/LamaVentures.md) — AI-focused venture platform connecting Silicon Valley and Chinese founder ecosystems in E249.
 - [DB9](entities/DB9.md) — Dongxu's AI-assisted cloud-native distributed database project used as a high-value token-maxing cost-accounting example.
@@ -8510,12 +8525,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [State Cyber Actor Threat Model](concepts/StateCyberActorThreatModel.md) — Threat-modeling frame separating state actors, criminals, and hacktivists by motive, capability, and attribution confidence.
 - [Election Information Operations](concepts/ElectionInformationOperations.md) — Cyber-enabled efforts to shape election trust, division, and public attention through information-space tactics.
 - [Private-Sector Offensive Cyber Authority](concepts/PrivateSectorOffensiveCyberAuthority.md) — Policy question of allowing selected companies to conduct offensive cyber operations against criminal hackers under guardrails.
+- [Partition Minority Trap](concepts/PartitionMinorityTrap.md) — Pattern where partition avoids one civil-war risk by creating a new state with an embedded legitimacy/minority problem.
+- [Institutional Sectarian Discrimination](concepts/InstitutionalSectarianDiscrimination.md) — Northern Ireland source frame for linked housing, voting, employment, policing, boundary, and state-power exclusion.
+- [Unionist Siege Mentality](concepts/UnionistSiegeMentality.md) — Protestant unionist fear pattern where local majority status coexists with island-wide minority insecurity.
 - [Northern Ireland Civil Rights Movement](concepts/NorthernIrelandCivilRightsMovement.md) — Movement frame for Catholic and civil-liberties demands over housing, votes, boundaries, and policing.
-- [Reform Timing Trap](concepts/ReformTimingTrap.md) — Pattern where late concessions satisfy neither reformers nor hardliners after trust has collapsed.
-- [State Policing Legitimacy Crisis](concepts/StatePolicingLegitimacyCrisis.md) — Pattern where police conduct becomes evidence that the state itself is partisan.
-- [Sectarian Security Dilemma](concepts/SectarianSecurityDilemma.md) — Mutual-fear pattern where each community reads the other's defensive preparation as attack preparation.
+- [Reform Timing Trap](concepts/ReformTimingTrap.md) — Pattern where modernization or concessions satisfy neither reformers nor hardliners after trust or base authority has collapsed.
+- [State Policing Legitimacy Crisis](concepts/StatePolicingLegitimacyCrisis.md) — Pattern where police structure and conduct become evidence that the state itself is partisan.
+- [Sectarian Security Dilemma](concepts/SectarianSecurityDilemma.md) — Mutual-fear pattern where demographic threat, institutional exclusion, or defensive preparation reads as attack preparation.
 - [Provocation Publicity Politics](concepts/ProvocationPublicityPolitics.md) — Protest and counter-mobilization pattern where visible confrontation is used to force attention or harden narratives.
-- [Paramilitary Spoiler Violence](concepts/ParamilitarySpoilerViolence.md) — Armed-group violence used to destroy a moderate political settlement or leadership position.
+- [Paramilitary Spoiler Violence](concepts/ParamilitarySpoilerViolence.md) — Armed-group violence used to preempt imagined enemies or destroy a moderate political settlement.
 - [Civil Rights To Street War Threshold](concepts/CivilRightsToStreetWarThreshold.md) — Escalation threshold where protest, policing, counter-protest, and communal defense become sustained urban violence.
 - [Token Efficient Agent Workflow](concepts/TokenEfficientAgentWorkflow.md) — Agent operating discipline that routes frontier models, local models, deterministic tools, multi-agent review, and human attention by task value, risk, and verification cost.
 - [Consumer Trend Spotting](concepts/ConsumerTrendSpotting.md) — Deliberate scanning for consumer behavior and format changes before they become obvious retail demand.

@@ -2,8 +2,8 @@
 title: "Historical Memory Contest"
 type: concept
 tags: [history, politics, culture, historiography]
-sources: [ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513]
-last_updated: 2026-08-07
+sources: [ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
+last_updated: 2026-08-24
 ---
 
 # Historical Memory Contest
@@ -32,6 +32,8 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 
 [[ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh]] adds a Five Dynasties historiography version. [[FiveDynastiesTenKingdomsConceptFormation|五代十国概念形成]] shows how local regimes became a canonical "十国" list through later Song writing, while [[FengDao|冯道]] shows how later moral order judged survival under rapid regime change.
 
+[[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] adds a Northern Ireland sectarian-memory version through [[TheTroubles]]. Protestant murals and commemorations around the Somme, Catholic murals and commemorations around the Easter Rising, Orange marches, flags, sermons, and everyday family stories show memory as a live political infrastructure rather than a passive account of the past.
+
 ## Key Claims
 - Historical memory is an institutional problem, not only a cultural argument.
 - Museums, memorials, schools, film, academia, and local boards all shape what citizens understand as national history.
@@ -47,6 +49,7 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - Song founding memory shows that a coup can be remembered through ritual innocence, loyalist honor, successor credit, and later source revision at the same time.
 - Song succession memory shows that a suspicious death can remain historically active when later records and later heir removals keep renewing the question.
 - Five Dynasties memory shows that period labels and loyalty judgments can be built after the fact by later historiography.
+- Northern Ireland memory shows that commemoration can become territorial and security politics when rival communities inhabit different heroic calendars.
 
 ## Connections
 - [[UnitedStates]], [[RebeccaJackson]], and [[AmericanDemocraticResilience]] - source context.
@@ -63,3 +66,4 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - [[ZhaoKuangyin|赵匡胤 / 宋太祖]], [[ZhaoGuangyi|赵光义 / 宋太宗]], [[ChenQiaoMutiny|陈桥兵变]], and [[EvidenceBoundHistoricalRevision]] - Song founding-memory branch added by episode 169.
 - [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[OfficialHistoryLegitimacyRepair]] - Song succession-memory branch added by episode 170.
 - [[FiveDynastiesTenKingdoms|五代十国]], [[FiveDynastiesTenKingdomsConceptFormation|五代十国概念形成]], [[NewFiveDynastiesHistory|《新五代史》]], [[OuyangXiu|欧阳修]], and [[FengDao|冯道]] - Five Dynasties historiography branch added by EP252.
+- [[TheTroubles]], [[NorthernIreland]], [[IanPaisley]], [[OrangeOrder]], [[EdwardCarson]], [[UnionistSiegeMentality]], and [[SectarianSecurityDilemma]] - Northern Ireland memory-politics branch added by The Rest Is History.
