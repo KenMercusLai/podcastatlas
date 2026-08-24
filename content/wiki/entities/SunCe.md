@@ -2,11 +2,13 @@
 title: "孙策 / Sun Ce"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources: [zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
 last_updated: 2026-08-24
 ---
 
 # 孙策 / Sun Ce
+
+[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] backfills Sun Ce's camp before the Liu Yao and Ze Rong branch. [[YuanShu|袁术]] recommends him for an acting military title, but the episode's main Sun Ce lesson is organizational: he lets [[LuFan|吕范]] take a low-status discipline office, entrusts [[ZhangZhaoLateHan|张昭]] and [[ZhangHongLateHan|张纮]] with administrative and military work, and does not envy Zhang Zhao when northern士大夫 credit Zhang Zhao with Jiangdong success. The source turns Sun Ce into a positive case for [[OperationalGapOwnership|主动补组织短板]] and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] before later pages add his personal-risk limits.
 
 [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] backfills Sun Ce as the pressure shaping [[LiuYaoLateHan|刘繇]]'s route choice before Sun Ce's own Kuaiji campaign is narrated. [[XuShao|许劭]] warns Liu Yao not to flee to [[KuaijiCommandery|会稽郡]] because the commandery is rich, coastal, and likely to draw Sun Ce's attack, making [[YuzhangCommandery|豫章郡]] the safer survival route.
 
@@ -31,6 +33,7 @@ The episode also gives Sun Ce an active local-security role. When [[ChenYuWuComm
 [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] mentions Sun Ce only as strategic pressure. The source says [[ChenDeng|陈登]]'s [[GuanglingCommandery|广陵]] base becomes a barrier against Sun Ce's northward movement, but it does not develop Sun Ce's own actions in that branch.
 
 ## Connections
+- [[LuFan|吕范]], [[ZhangZhaoLateHan|张昭]], [[ZhangHongLateHan|张纮]], [[QinSongLateHan|秦松]], [[ChenDuanLateHan|陈端]], [[OperationalGapOwnership|主动补组织短板]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - Hanji 994 organization-building, discipline, talent, and anti-jealousy branch.
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[LiuYaoLateHan|刘繇]], [[XuShao|许劭]], [[KuaijiCommandery|会稽郡]], and [[YuzhangCommandery|豫章郡]] - earlier Sun Ce pressure behind Liu Yao's route choice.
 - [[SunJingLateHan|孙静]], [[YuFan|虞翻]], [[WangLangLateHan|王朗]], and [[LeaderPersonalExposure|领导者轻身涉险]] - Hanji 1004-1005 Kuaiji takeover, surprise maneuver, and personal-risk warning.
 - [[CaoCao|曹操]] and [[EmperorXianOfHan|汉献帝]] - source of the title and legitimacy package.

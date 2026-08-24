@@ -8587,6 +8587,10 @@
     "title": "陈博士 / 投资ABC",
     "url": "/wiki/entities/chendoctorinvestmentabc/"
   },
+  "ChenDuanLateHan": {
+    "title": "陈端 / Chen Duan (Late Han)",
+    "url": "/wiki/entities/chenduanlatehan/"
+  },
   "ChenGongLateHan": {
     "title": "陈宫 / Chen Gong (late Han)",
     "url": "/wiki/entities/chengonglatehan/"
@@ -27271,6 +27275,10 @@
     "title": "鲁县 / Lu County (Chu-Han)",
     "url": "/wiki/entities/lucountychuhan/"
   },
+  "LuFan": {
+    "title": "吕范 / Lu Fan",
+    "url": "/wiki/entities/lufan/"
+  },
   "LuGongLiuBangFatherInLaw": {
     "title": "吕公 / Lu Gong",
     "url": "/wiki/entities/lugongliubangfatherinlaw/"
@@ -27354,6 +27362,10 @@
   "LuXun": {
     "title": "鲁迅",
     "url": "/wiki/entities/luxun/"
+  },
+  "LuXunDongWu": {
+    "title": "陆逊 / Lu Xun (Eastern Wu)",
+    "url": "/wiki/entities/luxundongwu/"
   },
   "LuYou": {
     "title": "陆游 / Lu You",
@@ -32487,6 +32499,10 @@
     "title": "Operational Data Capture",
     "url": "/wiki/concepts/operationaldatacapture/"
   },
+  "OperationalGapOwnership": {
+    "title": "Operational Gap Ownership / 主动补组织短板",
+    "url": "/wiki/concepts/operationalgapownership/"
+  },
   "OperationalPainFounderInsight": {
     "title": "Operational Pain Founder Insight",
     "url": "/wiki/concepts/operationalpainfounderinsight/"
@@ -35990,6 +36006,10 @@
   "QinSi": {
     "title": "秦思 / Qin Si",
     "url": "/wiki/entities/qinsi/"
+  },
+  "QinSongLateHan": {
+    "title": "秦松 / Qin Song (Late Han)",
+    "url": "/wiki/entities/qinsonglatehan/"
   },
   "QinState": {
     "title": "秦国 / Qin State",
@@ -42046,6 +42066,10 @@
   "SubmissionThroughStatusElevation": {
     "title": "Submission Through Status Elevation / 尊号式投降方案",
     "url": "/wiki/concepts/submissionthroughstatuselevation/"
+  },
+  "SubordinateSuccessNonJealousy": {
+    "title": "Subordinate Success Non-Jealousy / 下属成就不嫉妒",
+    "url": "/wiki/concepts/subordinatesuccessnonjealousy/"
   },
   "SubprimeAutoLending": {
     "title": "Subprime Auto Lending",
@@ -48563,6 +48587,10 @@
     "title": "燕桓公 / Duke Huan of Yan",
     "url": "/wiki/entities/yanhuangong/"
   },
+  "YanHui": {
+    "title": "颜回 / Yan Hui",
+    "url": "/wiki/entities/yanhui/"
+  },
   "YanHuiwang": {
     "title": "燕惠王 / King Hui of Yan",
     "url": "/wiki/entities/yanhuiwang/"
@@ -49699,6 +49727,10 @@
     "title": "张鹤 / Zhang He (Zhang Chu)",
     "url": "/wiki/entities/zhanghezhangchu/"
   },
+  "ZhangHongLateHan": {
+    "title": "张纮 / Zhang Hong (Late Han)",
+    "url": "/wiki/entities/zhanghonglatehan/"
+  },
   "ZhangHongjiang": {
     "title": "张宏江 / Zhang Hongjiang",
     "url": "/wiki/entities/zhanghongjiang/"
@@ -49894,6 +49926,10 @@
   "ZhangYueguang": {
     "title": "张月光",
     "url": "/wiki/entities/zhangyueguang/"
+  },
+  "ZhangZhaoLateHan": {
+    "title": "张昭 / Zhang Zhao (Late Han)",
+    "url": "/wiki/entities/zhangzhaolatehan/"
   },
   "ZhangZhihao": {
     "title": "张志浩",
@@ -50534,6 +50570,10 @@
   "ZhouYouwang": {
     "title": "周幽王 / King You of Zhou",
     "url": "/wiki/entities/zhouyouwang/"
+  },
+  "ZhouYuLateHan": {
+    "title": "周瑜 / Zhou Yu",
+    "url": "/wiki/entities/zhouyulatehan/"
   },
   "ZhouYuan": {
     "title": "周源 / Zhou Yuan",
@@ -54262,6 +54302,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu": {
+    "title": "《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu/"
   },
   "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k": {
     "title": "《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？",

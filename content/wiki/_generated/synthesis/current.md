@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: 55737feff4e35dbf06474b54fcd65479d90c6573
-summary: "The corpus converges on implementation: capability, legitimacy, trust, and infrastructure matter only when grounded in operating controls and evidence."
-episode_count: 1368
-source_count: 1368
-paragraph_count: 167
+as_of_overview_commit: 74164b10875c10ddbbb7eca45a1afecb0797882b
+summary: "The current wiki synthesis maps how capability becomes durable only when translated into institutions, workflows, markets, infrastructure, and judgment under pressure."
+episode_count: 1370
+source_count: 1370
+paragraph_count: 168
 topic_count: 8
 ---
 
@@ -21,63 +21,63 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] and [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] add a modern governance-failure case in [[NorthernIreland]]: [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], [[UnionistSiegeMentality]], weak or partial [[Stormont]], [[RoyalUlsterConstabulary]], and [[BSpecials]] made state legitimacy contested before [[ReformTimingTrap]], [[StatePolicingLegitimacyCrisis]], [[SectarianSecurityDilemma]], and [[CivilRightsToStreetWarThreshold]] required [[BritishArmy]] deployment.
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
-- [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
-- Across software, AI services, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, customer trust, or pricing fit are solved.
-- [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior.
+- [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
+- [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable.
+- Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough.
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-AI value in the corpus comes from workflow integration: routing, data access, permissions, verification, physical deployment, product defaults, and operating ownership decide whether capability becomes useful.
+AI and technology claims converge on the same operating pattern: models, agents, robotics, AI-for-science, AI entertainment, enterprise copilots, safety defaults, and cyber tools create value only when embedded in workflows, verification loops, interfaces, permissions, product economics, domain context, and physical operations.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
 
 ### Business and Markets
 
-Markets reward repeated proof: demand, distribution, buyer commitment, logistics, trust, rights, price discipline, and institutional protection decide whether attention or capability turns into durable value.
+Business and market sources separate attention from durable value. Consumer formats, enterprise SaaS, robotics, development policy, live commerce, restaurants, CPG, automotive ecosystems, and retail games all need distribution, buyer proof, operating capacity, trust, channel control, supply-chain fit, and repeat demand before capability or brand can compound.
 
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]].
 
 ### Culture and Media
 
-Cultural sources use fiction, folklore, games, and media to examine politics, identity, agency, and evidence, treating narrative as a method for testing human behavior.
+Cultural sources use literature, folklore, games, and media forms as tools for examining politics, identity, evidence, and agency rather than treating works only as entertainment objects.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
 ### Governance and Institutions
 
-Governance appears as enforceable translation from formal authority into legitimacy: state capacity, regulation, AI policy, finance, surveillance, development, and Northern Ireland all show controls working or failing through institutions, trust, and security fears.
+Governance appears as translation from power or aspiration into enforceable order: conquest, title, law, market rules, AI policy, development support, public-safety surveillance, and democratic legitimacy work only when controls, symbols, exits, property, competition, and public trust remain aligned. The Troubles material adds a modern case where partition design, exclusion, policing, and siege perception broke shared legitimacy enough to require army deployment.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-History and geopolitics link old and new power systems: late-Han legitimacy and alliance choices, Warring States administration, Northern Ireland escalation, undersea cables, and handset ecosystems all depend on material conditions beneath formal labels.
+History and geopolitics now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation, physical internet geopolitics, and handset ecosystem shifts. Hanji 994 adds a positive Jiangdong organization branch: Sun Ce's camp needs Lu Fan's low-status execution and Zhang Zhao/Zhang Hong-style talent trust, so discipline and ego restraint sit beside title legitimacy, grain, reputation, and survival judgment as late-Han operating conditions.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance. Evidence: [[ShangYangReforms]], [[QinAdministrativeStandardization]], [[PeopleBasedPoliticalSecurity]], [[LegalistRulerTechnique]], [[HouseholdSeparationLaw]].
 
 ### Psychology and Personal Development
 
-Judgment is treated as calibrated exposure: authorship trust, emotional attachment, role boundaries, market confidence, ambition, and relationship expectations all need sizing against context.
+Psychology and personal-development sources emphasize calibrated judgment under pressure: trust, authenticity, uncertainty, boundaries, role fit, risk sizing, emotional attachment, and status sensitivity matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, climate, and space claims stay credible when physical constraints, evidence, regulation, cost, recovery, and operational validation remain visible.
+Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery and launch-site throughput, space growth needs pads and licensing, climate work needs material validation, and risk products must map to concrete exposure.
 
 - [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable. Evidence: [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]].
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-Work and education changes stick only when capability is implemented through ownership, practice, verification, distribution, supply chains, care, and human judgment.
+Work, education, and society sources emphasize implementation over capability claims. AI, software, research, creative production, public building, finance, physical products, and institutional roles all depend on workflow ownership, baselines, training, distribution, verification, trust, supply chains, labor constraints, and human judgment.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

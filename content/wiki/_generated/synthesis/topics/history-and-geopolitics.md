@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-24
-as_of_overview_commit: 55737feff4e35dbf06474b54fcd65479d90c6573
-input_digest: 3b04a3df51a2e13e76562972851facce39595bc9fefbcf0b8111015542a3e84f
+as_of_overview_commit: 74164b10875c10ddbbb7eca45a1afecb0797882b
+input_digest: e10949b2923265e53ddab02701160cd68277d0ff3f43b0295d20cb7f47e87baa
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The Rest Is History now has a two-part Northern Ireland thread: Part 1 makes the Troubles' pre-1968 roots structural and actor-driven through partition, Catholic exclusion, unionist siege perception, historical memory, and early loyalist paramilitary violence, while Part 2 shows civil-rights protest crossing into street war through policing failure, marching-season provocation, community defense, Dublin rhetoric, and British Army deployment. Hanji 997 adds the immediate pre-Hanji-999 loyalty branch: Zang Hong's death shows old-master obligation and renyi colliding with current alignment, Yuan Shao's authority, Cao Cao's alliance background, and survival-oriented condition reading. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. The late-Han sequence emphasizes that court access, protection, title legitimacy, local order, and alliance choice are materially conditional: escorts, grain, reputation, family survival, and recognitional timing matter as much as formal office or personal loyalty.
+The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. Hanji 994 adds a positive Jiangdong organization branch before the darker Hanji 995 sequence: Sun Ce's camp needs both Lu Fan's low-status discipline work and Zhang Zhao/Zhang Hong-style talent trust, so execution capacity and ego restraint sit beside title legitimacy, grain, reputation, and survival judgment as late-Han operating conditions. The Rest Is History's two-part Northern Ireland thread makes the Troubles' roots structural and actor-driven through partition, Catholic exclusion, unionist siege perception, loyalist paramilitary violence, civil-rights protest, policing failure, and troop deployment. Across the topic, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.
 
 ## Cross-source Findings
+
+### Late Han Jiangdong Talent Requires Execution And Ego Restraint
+
+[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] shifts early Jiangdong from battlefield pressure to organization-building: [[SunCe]] benefits when [[LuFan]] accepts low-status `都督` discipline work through [[OperationalGapOwnership]], and when [[ZhangZhaoLateHan]] and [[ZhangHongLateHan]] become trusted staff without turning subordinate fame into ego threat, making [[SubordinateSuccessNonJealousy]] a complement to talent attraction and execution.
+
+**Evidence:** [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]], [[SunCe]], [[LuFan]], [[OperationalGapOwnership]], [[ZhangZhaoLateHan]], [[ZhangHongLateHan]], [[QinSongLateHan]], [[ChenDuanLateHan]], [[SubordinateSuccessNonJealousy]], [[YuanShu]], [[QiHuanGong]], [[GuanZhong]], [[ZengGuofan]], [[Analects]], [[YanHui]], [[TalentAsStateTreasure]], [[TalentAttractionThroughRespect]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 994 and should not be generalized into a complete Sun Ce or Lu Fan biography.
+- The source explicitly distinguishes Lu Fan's early disciplinary `都督` from later Wu grand-command offices associated with figures such as Lu Xun.
 
 ### Digital Infrastructure Is Geopolitical Terrain
 

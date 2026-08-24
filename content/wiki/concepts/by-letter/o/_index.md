@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5311
+wiki_total_pages: 5313
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "OperationalDataCapture"
     title: "Operational Data Capture"
     url: "/wiki/concepts/operationaldatacapture/"
+  - key: "OperationalGapOwnership"
+    title: "Operational Gap Ownership / 主动补组织短板"
+    url: "/wiki/concepts/operationalgapownership/"
   - key: "OperationalPainFounderInsight"
     title: "Operational Pain Founder Insight"
     url: "/wiki/concepts/operationalpainfounderinsight/"

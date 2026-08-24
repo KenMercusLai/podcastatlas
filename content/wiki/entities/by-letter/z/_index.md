@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7107
+wiki_total_pages: 7115
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "ZhouRoyalHouse"
     title: "周王室 / Zhou Royal House"
     url: "/wiki/entities/zhouroyalhouse/"
+  - key: "ZhouYuLateHan"
+    title: "周瑜 / Zhou Yu"
+    url: "/wiki/entities/zhouyulatehan/"
   - key: "ZhouKe"
     title: "周苛 / Zhou Ke"
     url: "/wiki/entities/zhouke/"
@@ -506,6 +509,9 @@ wiki_pages:
   - key: "ZhangChunWesternHan"
     title: "张春 / Zhang Chun (Western Han rebel)"
     url: "/wiki/entities/zhangchunwesternhan/"
+  - key: "ZhangZhaoLateHan"
+    title: "张昭 / Zhang Zhao (Late Han)"
+    url: "/wiki/entities/zhangzhaolatehan/"
   - key: "ZhangYueguang"
     title: "张月光"
     url: "/wiki/entities/zhangyueguang/"
@@ -539,6 +545,9 @@ wiki_pages:
   - key: "ZhangZhupo"
     title: "张竹坡 / Zhang Zhupo"
     url: "/wiki/entities/zhangzhupo/"
+  - key: "ZhangHongLateHan"
+    title: "张纮 / Zhang Hong (Late Han)"
+    url: "/wiki/entities/zhanghonglatehan/"
   - key: "ZhangXiu"
     title: "张绣 / Zhang Xiu"
     url: "/wiki/entities/zhangxiu/"

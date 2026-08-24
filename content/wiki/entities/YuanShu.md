@@ -2,13 +2,15 @@
 title: "袁术 / Yuan Shu"
 type: entity
 tags: [person, late-han, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+sources: [zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
 last_updated: 2026-08-24
 ---
 
 # 袁术 / Yuan Shu
 
 袁术 / Yuan Shu is developed across the Hanji 999-1002, Hanji 1008, and Hanji 1015-1020 late-Han branch as the powerholder whose resources, titles, symbols, and alliances repeatedly become liabilities. [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] shows an early Xuzhou manipulation before the title-ambition branch. Yuan Shu attacks [[LiuBei|刘备]], then uses promised grain to pull [[LyuBu|吕布]] into the [[Xiapi|下邳]] breach created after [[ZhangFei|张飞]] kills [[CaoBaoLateHan|曹豹]]. The source treats this as [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]]: Yuan Shu's resource promise helps remove Liu Bei's base even though Yuan Shu later stops supplying the grain.
+
+[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] supplies a compact earlier connection: Yuan Shu recommends [[SunCe|孙策]] for an acting `讨寇将军` title, setting up Sun Ce's expanding Jiangdong camp before Yuan Shu's later title overreach and break with Sun Ce.
 
 [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] adds an earlier Yuzhang office branch. Yuan Shu has appointed [[ZhugeXuan|诸葛玄]] to [[YuzhangCommandery|豫章郡]], while [[LiuYaoLateHan|刘繇]] sends [[ZhuHaoLateHan|朱皓]] as a competing administrator. [[XuShao|许劭]] also treats Yuan Shu as violent and unlikely to last, making Yuan Shu a background condition in Liu Yao's safer-route calculation before the later self-coronation sequence.
 
@@ -47,7 +49,7 @@ The source summarizes his failure in three connected ways: he does not align wit
 - [[YanXiangLateHan|阎象]], [[ZhangFanLateHan|张范]], [[ZhangChengLateHan|张承]], and [[HeirloomImperialSeal|传国玉玺]] - Hanji 1001 internal-warning and symbolic-claim branch before the later public self-coronation.
 - [[HeKui|何夔]] - person whose judgment supplies the episode's critique.
 - [[CaoCao|曹操]] - rival powerholder who asks about Yuan Shu and draws a talent lesson from the answer.
-- [[SunCe|孙策]] - former dependent/regional actor whose Hanji 1002 warning becomes a clean break.
+- [[SunCe|孙策]] - former dependent/regional actor whose Hanji 994 recommendation branch precedes the Hanji 1002 warning and clean break.
 - [[YangBiao|杨彪]] and [[YangXiu|杨修]] - marriage-linked old-Han elite branch that becomes politically exposed.
 - [[JiLing|纪灵]], [[LiuBei|刘备]], [[LyuBu|吕布]], and [[CredibleForceDisplayDeterrence|可信武力展示威慑]] - Hanji 1008 failed attack and mediation branch.
 - [[ChenGui|陈珪]], [[ChenDeng|陈登]], [[JinShang|金尚]], [[HanYinLateHan|韩胤]], and [[LyuBu|吕布]] - Hanji 1016 pressure, title, and marriage-alliance branch.

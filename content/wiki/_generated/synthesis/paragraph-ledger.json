@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "dce6858c37320ff625a5070a23b56dc5b1a4d94ca15df31dff97aa0e3e05eda5",
       "36b51c0e0ab92dea13007eb6ddb52c924752803e8bbb1e1457ddd21998d9747d",
       "b7bc9830b533d00f552a6c6ccb0ecb3c4158685df25be0c88cefde2415fac7d0",
       "923478761916df674e938cd4a4510d0860531d841482ed161c0ba982703547a1",
@@ -169,11 +170,46 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 167
+    "paragraph_count": 168
   },
-  "overview_commit": "a28c5f0ebe875a08d76276d567bd4cf7ba5a9208",
-  "overview_digest": "7ed4db4f561f7b33579422d6ef60db4f39963e0f5dcb07edb09508690541b597",
+  "overview_commit": "74164b10875c10ddbbb7eca45a1afecb0797882b",
+  "overview_digest": "ee06b069b123b04b9672ea467f6e345a0d51dd4b3bf7eb4de5ab3ade960c80db",
   "paragraphs": [
+    {
+      "id": "dce6858c37320ff625a5070a23b56dc5b1a4d94ca15df31dff97aa0e3e05eda5",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the positive Jiangdong management branch immediately before [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]]. It adds [[LuFan|吕范]], [[ZhangZhaoLateHan|张昭]], [[ZhangHongLateHan|张纮]], [[QinSongLateHan|秦松]], [[ChenDuanLateHan|陈端]], [[YanHui|颜回]], [[LuXunDongWu|陆逊]], [[ZhouYuLateHan|周瑜]], [[OperationalGapOwnership|主动补组织短板]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]], while extending [[SunCe|孙策]], [[YuanShu|袁术]], [[QiHuanGong|齐桓公]], [[GuanZhong|管仲]], [[ZengGuofan|曾国藩]], [[Analects|《论语》]], [[TalentAsStateTreasure|以贤臣为宝]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]. Its core synthesis is that leadership capacity is tested by unglamorous execution and ego restraint: Lu Fan creates value by taking the disciplinary work Sun Ce's expanding camp needs, while Sun Ce's trust in Zhang Zhao and Zhang Hong shows a leader treating subordinate reputation as organizational gain rather than status threat. No settled contradiction is recorded; the episode distinguishes Lu Fan's early `都督` role from later Wu grand-command offices and sets up Hanji 995's Ze Rong branch as a moral contrast.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Analects",
+        "ChenDuanLateHan",
+        "GuanZhong",
+        "LuFan",
+        "LuXunDongWu",
+        "OperationalGapOwnership",
+        "QiHuanGong",
+        "QinSongLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SubordinateSuccessNonJealousy",
+        "SunCe",
+        "TalentAsStateTreasure",
+        "TalentAttractionThroughRespect",
+        "YanHui",
+        "YuanShu",
+        "ZengGuofan",
+        "ZhangHongLateHan",
+        "ZhangZhaoLateHan",
+        "ZhouYuLateHan",
+        "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu",
+        "zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k"
+      ]
+    },
     {
       "id": "36b51c0e0ab92dea13007eb6ddb52c924752803e8bbb1e1457ddd21998d9747d",
       "primary_topic": "history-and-geopolitics",

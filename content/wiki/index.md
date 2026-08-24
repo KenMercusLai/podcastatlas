@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧](sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu.md) — 芮淇讲透资治通鉴 episode on Lu Fan taking an unglamorous military-discipline role for Sun Ce, Sun Ce's use of Zhang Zhao and Zhang Hong, and leadership lessons about operational gap ownership, talent delegation, and non-jealousy toward capable subordinates.
 - [《资治通鉴·汉纪》995丨他嘴上慈悲，为何多次残杀恩人？](sources/zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k.md) — 芮淇讲透资治通鉴 episode on Liu Yao's Kuaiji/Yuzhang route choice, Xu Shao's survival advice, Ze Rong's Buddhist-institution grain diversion, and repeated murder of hosts and benefactors.
 - [697. The Troubles: Murder in Belfast (Part 1)](sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736.md) — The Rest Is History episode on the pre-1968 roots of the Troubles: partition, Catholic exclusion, unionist siege fear, Paisley's rise, and the 1966 loyalist killings.
 - [Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等](sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1.md) — 枫言枫语 episode on Codex reset pricing, DeepSeek peak/off-peak API costs, Apple Intelligence, model routing, agent safety, assistant commerce, health wearables, and AI-maintained software.
@@ -1377,6 +1378,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
+- [张昭 / Zhang Zhao (Late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong adviser entrusted by Sun Ce and praised by northern士大夫, becoming Hanji 994's main subordinate-success non-jealousy case.
+- [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun Ce adviser appointed as `正议校尉` and paired with Zhang Zhao in the Jiangdong leadership bench.
+- [秦松 / Qin Song (Late Han)](entities/QinSongLateHan.md) — Sun Ce adviser named among the decision participants in Hanji 994's Jiangdong bench.
+- [陈端 / Chen Duan (Late Han)](entities/ChenDuanLateHan.md) — Sun Ce adviser named with Qin Song in Hanji 994 as part of the expanding Jiangdong deliberation group.
+- [陆逊 / Lu Xun (Eastern Wu)](entities/LuXunDongWu.md) — Later Wu commander invoked in Hanji 994 to distinguish later grand-commander offices from Lu Fan's early disciplinary `都督`.
+- [周瑜 / Zhou Yu](entities/ZhouYuLateHan.md) — Sun-Wu commander invoked in Hanji 994 for office-title caution around the later `大都督` idea.
+- [颜回 / Yan Hui](entities/YanHui.md) — Confucius disciple whose "无伐善，无施劳" line is used in Hanji 994 as anti-boasting and anti-jealousy self-cultivation.
 - [笮融 / Ze Rong](entities/ZeRong.md) — Late-Han Xuzhou figure who turns grain and Buddhist display into a following, then repeatedly kills hosts and benefactors.
 - [刘繇 / Liu Yao (late Han)](entities/LiuYaoLateHan.md) — Han-recognized official whose Kuaiji-versus-Yuzhang route choice depends on Xu Shao's survival and legitimacy advice.
 - [许劭 / Xu Shao](entities/XuShao.md) — Late-Han adviser reading Liu Yao's route options and warning that Ze Rong lacks trust while Zhu Hao is too straightforward.
@@ -8488,6 +8497,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Operational Gap Ownership / 主动补组织短板](concepts/OperationalGapOwnership.md) — Management pattern where a capable subordinate notices an organizational gap and voluntarily takes responsibility for unglamorous execution work.
+- [Subordinate Success Non-Jealousy / 下属成就不嫉妒](concepts/SubordinateSuccessNonJealousy.md) — Leadership pattern where a leader treats a subordinate's reputation and credit as organizational strength rather than personal threat.
 - [工具化宗教权力 / Instrumentalized Religious Power](concepts/InstrumentalizedReligiousPower.md) — Pattern where religious ritual, charity, and belonging become power infrastructure rather than moral constraint.
 - [接纳者掠杀 / Hospitality Predation](concepts/HospitalityPredation.md) — Trust-boundary pattern where a received guest or helper weaponizes hospitality into murder, plunder, or replacement.
 - [Peak-Valley AI Inference Pricing](concepts/PeakValleyAIInferencePricing.md) — Demand-window pricing pattern where AI API costs vary by peak and off-peak serving load.

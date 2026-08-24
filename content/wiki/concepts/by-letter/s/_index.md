@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5311
+wiki_total_pages: 5313
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1319,6 +1319,9 @@ wiki_pages:
   - key: "SubmissionThroughStatusElevation"
     title: "Submission Through Status Elevation / 尊号式投降方案"
     url: "/wiki/concepts/submissionthroughstatuselevation/"
+  - key: "SubordinateSuccessNonJealousy"
+    title: "Subordinate Success Non-Jealousy / 下属成就不嫉妒"
+    url: "/wiki/concepts/subordinatesuccessnonjealousy/"
   - key: "SubprimeAutoLending"
     title: "Subprime Auto Lending"
     url: "/wiki/concepts/subprimeautolending/"
