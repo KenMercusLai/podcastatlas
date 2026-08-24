@@ -2,11 +2,15 @@
 title: "刘辩 / Liu Bian (Hongnong Wang)"
 type: entity
 tags: [person, emperor, late-han, china]
-sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
+sources: [zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
 last_updated: 2026-08-25
 ---
 
 # 刘辩 / Liu Bian (Hongnong Wang)
+
+[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] backfills Liu Bian's last phase as reigning young emperor before Hanji 948's deposition. After the Luoyang disorder he flees, is found near the capital, and reacts fearfully when [[DongZhuo|董卓]] arrives with soldiers.
+
+The episode makes his weakness politically consequential because Dong Zhuo compares his panic with Liu Xie's composed answers. That comparison becomes the first source layer for [[CoercedImperialReplacement|胁迫式废立]]: Liu Bian has not yet been deposed, but Dong Zhuo has already begun forming the argument for replacement.
 
 [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] backfills Liu Bian's deposition before his death in Hanji 950. The episode presents him as the young emperor raised after [[EmperorLingOfHan|汉灵帝]] and [[HeJin|何进]], then stripped of imperial status when [[DongZhuo|董卓]] forces the court to install [[EmperorXianOfHan|汉献帝]].
 
@@ -18,6 +22,7 @@ His role is narrow but important. Liu Bian's death gives the anti-Dong-Zhuo side
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], [[MinGongLateHan|闵贡]], and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - flight, frightened encounter, and pre-deposition comparison with Liu Xie.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[YuanShao|袁绍]], [[LuZhiLateHan|卢植]], and [[CoercedImperialReplacement|胁迫式废立]] - deposition before the later poisoning branch.
 - [[DongZhuo|董卓]] - powerholder whose order causes Liu Bian's death.
 - [[LiRuLateHan|李儒]] - agent who carries out the poisoning in this source.

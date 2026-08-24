@@ -2,11 +2,15 @@
 title: "鲍信 / Bao Xin"
 type: entity
 tags: [person, late-han, yanzhou, military, cao-cao]
-sources: [zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-25
 ---
 
 # 鲍信 / Bao Xin
+
+[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] adds Bao Xin's earliest anti-Dong-Zhuo timing judgment before the coalition and Cao-side branches. Returning with troops raised from Taishan, he warns [[YuanShao|袁绍]] that [[DongZhuo|董卓]] has strong soldiers and dangerous intent but can still be attacked while newly arrived and tired.
+
+Yuan Shao's refusal makes Bao Xin a positive assessment figure in a failed decision environment. His later preference for [[CaoCao|曹操]] is therefore consistent: this source already shows him valuing quick execution and concrete timing over prestige-backed hesitation.
 
 [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] gives Bao Xin an earlier recognition role inside the first [[AntiDongZhuoCoalition|反董卓联盟]]. While [[YuanShao|袁绍]] receives the public盟主 position, Bao Xin privately identifies [[CaoCao|曹操]] as the figure most likely to plan great affairs and restore order.
 
@@ -22,6 +26,7 @@ After Liu Dai dies, Bao Xin and [[WanQianLateHan|万潜]] ask [[CaoCao|曹操]] 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[YuanShao|袁绍]], [[DongZhuo|董卓]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - missed preemptive-strike advice while Dong Zhuo is newly arrived and not yet consolidated.
 - [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]] - early judgment that Cao Cao matters despite Yuan Shao's public leadership.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[CaoCao|曹操]], [[YuanShao|袁绍]], [[DongCommandery|东郡]], [[ZhangMiaoLateHan|张邈]], and [[GongsunZan|公孙瓒]] - early base-opening strategy before Cao Cao's Yanzhou branch.
 - [[LiuDaiLateHan|刘岱]] - Yanzhou inspector who rejects Bao Xin's advice.

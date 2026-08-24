@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "df5c29a04690e81016a026daaf2b237839bb63d8d775a4fc01963ac6cd13ce34",
       "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
       "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
       "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
@@ -202,11 +203,43 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 200
+    "paragraph_count": 201
   },
-  "overview_commit": "0ab6ed6c081534d70527bfaa46ac6f8531f4018c",
-  "overview_digest": "db7bd881ae681ca4c2f4e86f7666f3a550435d7c97ffef8c18d1037bd878ee29",
+  "overview_commit": "a6f8357ecea0c99ebd6ac94072d7f8cfdaef44d6",
+  "overview_digest": "d39c140d89e8803ef38c57465ee26d75d786fe9dc0e22bea733d8f2c21b445f4",
   "paragraphs": [
+    {
+      "id": "df5c29a04690e81016a026daaf2b237839bb63d8d775a4fc01963ac6cd13ce34",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that supplies the immediate prelude to [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]]. It adds [[DingYuanLateHan|丁原]], [[MinGongLateHan|闵贡]], and [[MilitaryPresenceTheater|军力声势表演]], while extending [[DongZhuo|董卓]], [[LyuBu|吕布]], [[CaiYong|蔡邕]], [[YuanShao|袁绍]], [[BaoXin|鲍信]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[HeirloomImperialSeal|传国玉玺]], [[LuoyangLateHan|洛阳]], [[CourtOfficeCapture|朝廷开府任官失序]], [[CoercedTalentLegitimacy|胁迫征士合法性]], [[MingqiLegitimacy|名器合法性]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Dong Zhuo's takeover begins before formal deposition: he turns rescue into armed proximity, reads Liu Xie as a replaceable-sovereign opportunity, lets Yuan Shao's missed attack window close, manufactures reinforcement momentum, absorbs Ding Yuan's force through Lü Bu, and borrows Cai Yong's prestige through threat. No settled contradiction is recorded; the Romance gift package around Lü Bu and motive readings around Dong Zhuo remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BaoXin",
+        "CaiYong",
+        "CoercedTalentLegitimacy",
+        "CourtOfficeCapture",
+        "DingYuanLateHan",
+        "DongZhuo",
+        "EmperorXianOfHan",
+        "HeirloomImperialSeal",
+        "LiuBianHongnongWang",
+        "LuoyangLateHan",
+        "LyuBu",
+        "MilitaryPresenceTheater",
+        "MinGongLateHan",
+        "MingqiLegitimacy",
+        "ProtectorCaptorAmbiguity",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "YuanShao",
+        "zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1",
+        "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk"
+      ]
+    },
     {
       "id": "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
       "primary_topic": "governance-and-institutions",

@@ -13015,6 +13015,10 @@
     "title": "丁文江",
     "url": "/wiki/entities/dingwenjiang/"
   },
+  "DingYuanLateHan": {
+    "title": "丁原 / Ding Yuan (late Han)",
+    "url": "/wiki/entities/dingyuanlatehan/"
+  },
   "DingdangKuaiyao": {
     "title": "叮当快药",
     "url": "/wiki/entities/dingdangkuaiyao/"
@@ -30327,6 +30331,10 @@
     "title": "Military Personalization / 军队私人化",
     "url": "/wiki/concepts/militarypersonalization/"
   },
+  "MilitaryPresenceTheater": {
+    "title": "Military Presence Theater / 军力声势表演",
+    "url": "/wiki/concepts/militarypresencetheater/"
+  },
   "MilitaryPrestigeThreatPurge": {
     "title": "Military Prestige Threat Purge / 军功声望威胁清洗",
     "url": "/wiki/concepts/militaryprestigethreatpurge/"
@@ -30358,6 +30366,10 @@
   "MinChunLateHan": {
     "title": "闵纯 / Min Chun (late Han)",
     "url": "/wiki/entities/minchunlatehan/"
+  },
+  "MinGongLateHan": {
+    "title": "闵贡 / Min Gong (late Han)",
+    "url": "/wiki/entities/mingonglatehan/"
   },
   "MinKao": {
     "title": "Min Kao / 高明环",
@@ -55494,6 +55506,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1": {
+    "title": "《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1/"
   },
   "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk": {
     "title": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？",

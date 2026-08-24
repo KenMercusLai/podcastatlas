@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路](sources/zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's first Luoyang consolidation, Bao Xin's missed preemptive-strike advice to Yuan Shao, staged reinforcements, Lü Bu's killing of Ding Yuan, sikong office capture, and Cai Yong's coerced recruitment.
 - [《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？](sources/zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's forced deposition of Liu Bian, installation of Emperor Xian, Yuan Shao and Lu Zhi's objections, He-family punishment, and legitimacy packaging through appointments and Party Prohibition rehabilitation.
 - [《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？](sources/zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's Luoyang terror, Southern Xiongnu/Yufuluo disorder, xiangguo privilege, coerced scholar recruitment, and Shentu Pan's refusal.
 - [《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑](sources/zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr.md) — 芮淇讲透资治通鉴 episode on the anti-Dong-Zhuo coalition's formation, Yuan Shao's prestige-based leadership, Bao Xin's early recognition of Cao Cao, Liu Bian's poisoning by Li Ru, Zheng Tai's coalition diagnosis, and Dong Zhuo's pre-relocation chenwei argument.
@@ -1426,6 +1427,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [丁原 / Ding Yuan (late Han)](entities/DingYuanLateHan.md) — Late-Han commander killed by Lü Bu as Dong Zhuo absorbs rival military force during the first Luoyang takeover.
+- [闵贡 / Min Gong (late Han)](entities/MinGongLateHan.md) — Late-Han figure in the young emperor and Chenliu prince's escape before Dong Zhuo's armed greeting turns rescue into coercive control.
 - [卢植 / Lu Zhi (late Han)](entities/LuZhiLateHan.md) — Late-Han official who objects to Dong Zhuo's forced deposition of Liu Bian and survives through reputation-backed de-escalation.
 - [袁隗 / Yuan Wei (late Han)](entities/YuanWeiLateHan.md) — Yuan-family elder and grand tutor made to handle the seal-transfer procedure in Dong Zhuo's coerced imperial replacement.
 - [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother figure removed and poisoned after Dong Zhuo deposes Liu Bian.
@@ -8787,6 +8790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Military Presence Theater / 军力声势表演](concepts/MilitaryPresenceTheater.md) — Dong Zhuo's late-Han tactic of making a small arriving force look like repeated reinforcement before turning perceived momentum into court control.
 - [Coerced Imperial Replacement / 胁迫式废立](concepts/CoercedImperialReplacement.md) — Pattern where a military court-captor forces imperial replacement through preserved title, edict, seal, and ceremony forms.
 - [Party Prohibition Rehabilitation / 党人翻案合法性](concepts/PartyProhibitionRehabilitation.md) — Legitimacy move where a coercive ruler borrows moral credit by rehabilitating old Party Prohibition victims and appointing descendants.
 - [Prestige-Based Coalition Leadership / 名望型联盟领导](concepts/PrestigeBasedCoalitionLeadership.md) — Hanji 950 pattern where Yuan Shao's family prestige and public anti-Dong-Zhuo reputation convene a coalition without guaranteeing command capacity.

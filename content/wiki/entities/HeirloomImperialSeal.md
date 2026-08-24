@@ -2,11 +2,15 @@
 title: "传国玉玺 / Heirloom Imperial Seal"
 type: entity
 tags: [object, imperial, legitimacy, chinese-history, late-han]
-sources: [zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke]
+sources: [zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke]
 last_updated: 2026-08-25
 ---
 
 # 传国玉玺 / Heirloom Imperial Seal
+
+[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] adds the missing branch before Sun Jian's later discovery. After the emperor returns to the palace, the source says five of six imperial seals are recovered but the [[HeirloomImperialSeal|传国玉玺]] is not found.
+
+The object's absence matters before its possession does. In this source it is a sign that court symbols have become physically vulnerable during Luoyang disorder, sharpening the later [[MingqiLegitimacy|名器合法性]] question of how much a symbolic object can still authorize political action once separated from stable court capacity.
 
 [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] backfills the object's discovery branch before Yuan Shu receives it in Hanji 1001. After [[SunJianLateHan|孙坚]] defeats [[DongZhuo|董卓]]'s side, enters [[LuoyangLateHan|洛阳]], cleans the imperial temples, and performs sacrifice, the episode says his side finds the seal in a palace well.
 
@@ -15,6 +19,7 @@ last_updated: 2026-08-25
 The source's important point is negative. The seal can make Yuan Shu's claim feel materially and ritually supported, but it cannot supply the virtue, recognized title order, or people-support that [[YanXiangLateHan|阎象]] and [[ZhangChengLateHan|张承]] say he lacks. The object therefore becomes a concrete case for [[MingqiLegitimacy|名器合法性]]: symbols matter, but they become dangerous when treated as substitutes for accepted legitimacy.
 
 ## Connections
+- [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[LuoyangLateHan|洛阳]], and [[MingqiLegitimacy|名器合法性]] - missing seal before later discovery and possession branches.
 - [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]], [[SunJianLateHan|孙坚]], [[LuoyangLateHan|洛阳]], and [[MingqiLegitimacy|名器合法性]] - ritual cleanup and seal discovery before Yuan Shu's later symbolic claim.
 - [[YuanShu|袁术]] - claimant who uses the seal as part of his self-justifying title logic.
 - [[SunJianLateHan|孙坚]] - late-Han figure whose household is coerced in the source's account of how Yuan Shu obtains the seal.

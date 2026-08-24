@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路
+
+Added source page for Hanji 947: Dong Zhuo's first Luoyang consolidation after the emperor's flight, Bao Xin's missed preemptive-strike advice to Yuan Shao, staged reinforcement theater, Lü Bu's killing of Ding Yuan, sikong office capture, and Cai Yong's coerced recruitment. Created Ding Yuan, Min Gong, and military presence theater pages; updated connected Dong Zhuo, Lü Bu, Cai Yong, Yuan Shao, Liu Bian, Emperor Xian, Bao Xin, seal, Luoyang, He-family, and legitimacy/control concepts. No settled contradiction found; Romance gift details and motive readings remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑
 
 Added source page for Hanji 950: the first anti-Dong-Zhuo coalition formation, Yuan Shao's prestige-based selection as盟主, Bao Xin's early recognition of Cao Cao, Dong Zhuo's poisoning of Liu Bian through Li Ru, Zheng Tai's diagnosis of coalition fragility, and Zhu Jun's opposition to the pre-Chang'an relocation plan. Created pages for Liu Bian / Hongnong Wang, Li Ru, Zheng Tai, Wang Kuang, Kong Zhou, Qiao Mao, and Prestige-Based Coalition Leadership; updated overview, index, and related late-Han coalition, Dong Zhuo, Yuan Shao, Cao Cao, Bao Xin, Han Fu, Zhu Jun, common-enemy, coalition-fragility, and chenwei pages. No settled contradiction found; transcript "朱俊" is normalized to Zhu Jun / 朱儁 and motive readings remain source-scoped.
@@ -11378,6 +11382,10 @@ Added source page for Hanji 951: Dong Zhuo's forced Luoyang-to-Chang'an relocati
 ## [2026-08-25] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health passed across 14,120 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,120 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged missing `## Key Claims` sections in `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/FinancialPowerAndStateCapacity.md`, and `wiki/concepts/LargeCompanyOpenSourceStrategy.md`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

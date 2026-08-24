@@ -2,11 +2,15 @@
 title: "蔡邕 / Cai Yong"
 type: entity
 tags: [person, late-han, scholar, historian, literature]
-sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-25
 ---
 
 # 蔡邕 / Cai Yong
+
+[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] adds Cai Yong's coerced entry before Hanji 948 uses him as a reputation broker. After earlier exile and renewed slander by Wang Zhi, [[DongZhuo|董卓]] summons Cai Yong; when Cai pleads illness, Dong threatens his whole clan, then rapidly promotes him once he arrives in [[LuoyangLateHan|洛阳]].
+
+This makes Cai Yong's Dong Zhuo relationship coercive from the start. His scholarship and name become useful under [[CoercedTalentLegitimacy|胁迫征士合法性]], but the source keeps the recruitment channel tied to family threat rather than willing attraction through [[TalentAttractionThroughRespect|礼贤下士式人才吸附]].
 
 [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] backfills Cai Yong before the defensive-speech and post-Dong-Zhuo execution branches. [[DongZhuo|董卓]] seeks him out because his learning and reputation can decorate the new court order, making Cai Yong part of Dong Zhuo's early [[CoercedTalentLegitimacy|胁迫征士合法性]] strategy.
 
@@ -22,6 +26,7 @@ Cai Yong asks to survive, even under mutilating punishment, so he can finish Han
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[CoercedTalentLegitimacy|胁迫征士合法性]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - forced summons, family threat, and rapid promotion before Cai Yong's later reputation-broker role.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[LuZhiLateHan|卢植]], [[CoercedImperialReplacement|胁迫式废立]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - early prestige borrowing and warning against killing Lu Zhi.
 - [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[DongZhuo|董卓]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - delayed honorific advice under a dangerous patron.
 - [[WangYunLateHan|王允]] - official who has Cai Yong executed in the episode's post-Dong-Zhuo branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7357
+wiki_total_pages: 7359
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1361,6 +1361,9 @@ wiki_pages:
   - key: "MinChunLateHan"
     title: "闵纯 / Min Chun (late Han)"
     url: "/wiki/entities/minchunlatehan/"
+  - key: "MinGongLateHan"
+    title: "闵贡 / Min Gong (late Han)"
+    url: "/wiki/entities/mingonglatehan/"
   - key: "Minyue"
     title: "闽越 / Minyue"
     url: "/wiki/entities/minyue/"
