@@ -1,0 +1,2700 @@
+{
+  "version": 1,
+  "shows": {
+    "42章经": {
+      "episode_count": 12,
+      "earliest_episode_date": "2024-11-09",
+      "latest_episode_date": "2026-08-08",
+      "latest_episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+      "source_note_count": 12,
+      "topic_matched_source_note_count": 10,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 10
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 4
+        }
+      ],
+      "entities": [
+        {
+          "key": "Albert",
+          "title": "Albert",
+          "url": "/wiki/entities/albert/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "DeepSeek",
+          "title": "DeepSeek",
+          "url": "/wiki/entities/deepseek/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+        "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
+        "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康 [loF0mb7U5BUzEC1qTXQrt9krAiUD].md",
+        "泡沫的四个必要不充分条件 ｜ 对谈经济学者朱宁教授 [lo4XhK5fNW1DCoRwaCtTcSfJjr78].md"
+      ]
+    },
+    "Acquired": {
+      "episode_count": 8,
+      "earliest_episode_date": "2026-01-02",
+      "latest_episode_date": "2026-08-10",
+      "latest_episode_file": "Disney： The Renaissance and the Empire ｜ Acquired (1) [disney-the-renaissance-and-the-empire-1].md",
+      "source_note_count": 8,
+      "topic_matched_source_note_count": 5,
+      "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 4
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Ferrari",
+          "title": "Ferrari",
+          "url": "/wiki/entities/ferrari/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Amazon",
+          "title": "Amazon",
+          "url": "/wiki/entities/amazon/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Costco",
+          "title": "Costco",
+          "url": "/wiki/entities/costco/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "ESPN",
+          "title": "ESPN",
+          "url": "/wiki/entities/espn/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Netflix",
+          "title": "Netflix",
+          "url": "/wiki/entities/netflix/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "NickSleep",
+          "title": "Nick Sleep",
+          "url": "/wiki/entities/nicksleep/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "Porsche",
+          "title": "Porsche",
+          "url": "/wiki/entities/porsche/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "TheWaltDisneyCompany",
+          "title": "The Walt Disney Company",
+          "url": "/wiki/entities/thewaltdisneycompany/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "Disney： The Renaissance and the Empire ｜ Acquired (1) [disney-the-renaissance-and-the-empire-1].md",
+        "Vanguard ｜ Acquired (1) [vanguard-1].md",
+        "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+        "Ferrari ｜ Acquired (1) [ferrari-1].md"
+      ]
+    },
+    "All-In with Chamath, Jason, Sacks & Friedberg": {
+      "episode_count": 77,
+      "earliest_episode_date": "2026-01-08",
+      "latest_episode_date": "2026-08-21",
+      "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+      "source_note_count": 27,
+      "topic_matched_source_note_count": 24,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 17
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 11
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 8
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 3
+        }
+      ],
+      "entities": [
+        {
+          "key": "DavidSacks",
+          "title": "David Sacks",
+          "url": "/wiki/entities/davidsacks/",
+          "kind": "person",
+          "episode_count": 12
+        },
+        {
+          "key": "JasonCalacanis",
+          "title": "Jason Calacanis",
+          "url": "/wiki/entities/jasoncalacanis/",
+          "kind": "person",
+          "episode_count": 10
+        },
+        {
+          "key": "DavidFriedberg",
+          "title": "David Friedberg",
+          "url": "/wiki/entities/davidfriedberg/",
+          "kind": "person",
+          "episode_count": 9
+        },
+        {
+          "key": "ChamathPalihapitiya",
+          "title": "Chamath Palihapitiya",
+          "url": "/wiki/entities/chamathpalihapitiya/",
+          "kind": "person",
+          "episode_count": 8
+        },
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 7
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 5
+        },
+        {
+          "key": "SpaceX",
+          "title": "SpaceX",
+          "url": "/wiki/entities/spacex/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "DarioAmodei",
+          "title": "Dario Amodei",
+          "url": "/wiki/entities/darioamodei/",
+          "kind": "person",
+          "episode_count": 3
+        }
+      ],
+      "start_here_episode_files": [
+        "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md"
+      ]
+    },
+    "Data Science With Sam": {
+      "episode_count": 48,
+      "earliest_episode_date": "2021-09-28",
+      "latest_episode_date": "2026-08-20",
+      "latest_episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+      "source_note_count": 19,
+      "topic_matched_source_note_count": 12,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 9
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 3
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "StanfordUniversity",
+          "title": "Stanford University",
+          "url": "/wiki/entities/stanforduniversity/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+        "761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128 [761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83834b].md",
+        "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
+        "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md"
+      ]
+    },
+    "Economist Podcasts": {
+      "episode_count": 56,
+      "earliest_episode_date": "2026-02-09",
+      "latest_episode_date": "2026-08-21",
+      "latest_episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+      "source_note_count": 56,
+      "topic_matched_source_note_count": 53,
+      "topics": [
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 46
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 18
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 16
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 10
+        }
+      ],
+      "entities": [
+        {
+          "key": "DonaldTrump",
+          "title": "Donald Trump",
+          "url": "/wiki/entities/donaldtrump/",
+          "kind": "person",
+          "episode_count": 19
+        },
+        {
+          "key": "JohnFasman",
+          "title": "John Fasman",
+          "url": "/wiki/entities/johnfasman/",
+          "kind": "person",
+          "episode_count": 7
+        },
+        {
+          "key": "JohnPrideaux",
+          "title": "John Prideaux",
+          "url": "/wiki/entities/johnprideaux/",
+          "kind": "person",
+          "episode_count": 6
+        },
+        {
+          "key": "AlexisDeTocqueville",
+          "title": "Alexis de Tocqueville",
+          "url": "/wiki/entities/alexisdetocqueville/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "JasonPalmer",
+          "title": "Jason Palmer",
+          "url": "/wiki/entities/jasonpalmer/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "AnneRowe",
+          "title": "Anne Rowe",
+          "url": "/wiki/entities/annerowe/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "BenjaminNetanyahu",
+          "title": "Benjamin Netanyahu",
+          "url": "/wiki/entities/benjaminnetanyahu/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "EuropeanUnion",
+          "title": "European Union",
+          "url": "/wiki/entities/europeanunion/",
+          "kind": "organization",
+          "episode_count": 4
+        }
+      ],
+      "start_here_episode_files": [
+        "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+        "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+        "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
+        "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md"
+      ]
+    },
+    "How I Built This with Guy Raz": {
+      "episode_count": 26,
+      "earliest_episode_date": "2026-05-25",
+      "latest_episode_date": "2026-08-20",
+      "latest_episode_file": "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md",
+      "source_note_count": 26,
+      "topic_matched_source_note_count": 3,
+      "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "WholeFoodsMarket",
+          "title": "Whole Foods Market",
+          "url": "/wiki/entities/wholefoodsmarket/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "Costco",
+          "title": "Costco",
+          "url": "/wiki/entities/costco/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Target",
+          "title": "Target",
+          "url": "/wiki/entities/target/",
+          "kind": "organization",
+          "episode_count": 3
+        }
+      ],
+      "start_here_episode_files": [
+        "Toast： Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business. [6eca81bc-b0e1-47e2-a87d-f3b243e76a97].md",
+        "Sweetwater： Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.  [50c2b5e3-3bc3-4039-a92d-26228b8ac908].md",
+        "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md",
+        "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md"
+      ]
+    },
+    "Long Now": {
+      "episode_count": 13,
+      "earliest_episode_date": "2025-12-11",
+      "latest_episode_date": "2026-05-20",
+      "latest_episode_file": "Claire Isabel Webb & Nina Miolane ｜ The Geometry of Consciousness [IUlBwKinaTk].md",
+      "source_note_count": 7,
+      "topic_matched_source_note_count": 5,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 2
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 2
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 2
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "LongNow",
+          "title": "Long Now",
+          "url": "/wiki/entities/longnow/",
+          "kind": "organization",
+          "episode_count": 7
+        },
+        {
+          "key": "RebeccaLendl",
+          "title": "Rebecca Lendl",
+          "url": "/wiki/entities/rebeccalendl/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md",
+        "02026-ries-podcast-v2 [02026-ries-podcast-v2].md",
+        "02026-sagmeister-podcast-v2 [02026-sagmeister-podcast-v2].md",
+        "Claire Isabel Webb & Nina Miolane ｜ The Geometry of Consciousness [IUlBwKinaTk].md"
+      ]
+    },
+    "Marketplace Tech": {
+      "episode_count": 130,
+      "earliest_episode_date": "2025-12-08",
+      "latest_episode_date": "2026-08-21",
+      "latest_episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
+      "source_note_count": 130,
+      "topic_matched_source_note_count": 101,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 82
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 22
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 14
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 11
+        }
+      ],
+      "entities": [
+        {
+          "key": "StephanieHughes",
+          "title": "Stephanie Hughes",
+          "url": "/wiki/entities/stephaniehughes/",
+          "kind": "person",
+          "episode_count": 42
+        },
+        {
+          "key": "Meta",
+          "title": "Meta",
+          "url": "/wiki/entities/meta/",
+          "kind": "organization",
+          "episode_count": 19
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 17
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 17
+        },
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 12
+        },
+        {
+          "key": "Amazon",
+          "title": "Amazon",
+          "url": "/wiki/entities/amazon/",
+          "kind": "organization",
+          "episode_count": 11
+        },
+        {
+          "key": "Apple",
+          "title": "Apple",
+          "url": "/wiki/entities/apple/",
+          "kind": "organization",
+          "episode_count": 9
+        },
+        {
+          "key": "DonaldTrump",
+          "title": "Donald Trump",
+          "url": "/wiki/entities/donaldtrump/",
+          "kind": "person",
+          "episode_count": 7
+        }
+      ],
+      "start_here_episode_files": [
+        "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
+        "tech_20260820_TECH_pod_128 [tech_20260820_TECH_pod_128].md",
+        "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+        "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md"
+      ]
+    },
+    "Planet Money": {
+      "episode_count": 73,
+      "earliest_episode_date": "2025-07-18",
+      "latest_episode_date": "2026-08-21",
+      "latest_episode_file": "default.mp3_ywr3ahjkcgo_08638e6a1522291668cfef6bf66a4636_39144041 [default.mp3_ywr3ahjkcgo_08638e6a1522291668cfef6bf66a4636_39144041].md",
+      "source_note_count": 73,
+      "topic_matched_source_note_count": 42,
+      "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 18
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 17
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 8
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 6
+        }
+      ],
+      "entities": [
+        {
+          "key": "DonaldTrump",
+          "title": "Donald Trump",
+          "url": "/wiki/entities/donaldtrump/",
+          "kind": "person",
+          "episode_count": 17
+        },
+        {
+          "key": "SarahGonzalez",
+          "title": "Sarah Gonzalez",
+          "url": "/wiki/entities/sarahgonzalez/",
+          "kind": "person",
+          "episode_count": 6
+        },
+        {
+          "key": "SupremeCourt",
+          "title": "Supreme Court",
+          "url": "/wiki/entities/supremecourt/",
+          "kind": "organization",
+          "episode_count": 6
+        },
+        {
+          "key": "AlexiHorowitzGhazi",
+          "title": "Alexi Horowitz-Ghazi",
+          "url": "/wiki/entities/alexihorowitzghazi/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "FoodAndDrugAdministration",
+          "title": "Food and Drug Administration",
+          "url": "/wiki/entities/foodanddrugadministration/",
+          "kind": "organization",
+          "episode_count": 5
+        },
+        {
+          "key": "ErikaBeras",
+          "title": "Erika Beras",
+          "url": "/wiki/entities/erikaberas/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "FederalReserve",
+          "title": "Federal Reserve",
+          "url": "/wiki/entities/federalreserve/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "GregRosalsky",
+          "title": "Greg Rosalsky",
+          "url": "/wiki/entities/gregrosalsky/",
+          "kind": "person",
+          "episode_count": 4
+        }
+      ],
+      "start_here_episode_files": [
+        "default.mp3_ywr3ahjkcgo_bd79b919adf14f387b2d9f8da0b64daf_39858332 [default.mp3_ywr3ahjkcgo_bd79b919adf14f387b2d9f8da0b64daf_39858332].md",
+        "default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518 [default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518].md",
+        "default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812 [default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812].md",
+        "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md"
+      ]
+    },
+    "Talk三联": {
+      "episode_count": 42,
+      "earliest_episode_date": "2025-12-20",
+      "latest_episode_date": "2026-08-22",
+      "latest_episode_file": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
+      "source_note_count": 42,
+      "topic_matched_source_note_count": 27,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 15
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 12
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 6
+        },
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 4
+        }
+      ],
+      "entities": [
+        {
+          "key": "GaoYiding",
+          "title": "高一丁 / Gao Yiding",
+          "url": "/wiki/entities/gaoyiding/",
+          "kind": "person",
+          "episode_count": 13
+        },
+        {
+          "key": "WeiQianSanlian",
+          "title": "魏茜 / Wei Qian (Sanlian)",
+          "url": "/wiki/entities/weiqiansanlian/",
+          "kind": "person",
+          "episode_count": 7
+        },
+        {
+          "key": "LiuChang",
+          "title": "刘畅 / Liu Chang",
+          "url": "/wiki/entities/liuchang/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "WuLiwei",
+          "title": "吴立伟 / Wu Liwei",
+          "url": "/wiki/entities/wuliwei/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "QiuLian",
+          "title": "邱连 / Qiu Lian",
+          "url": "/wiki/entities/qiulian/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "WuShubin",
+          "title": "吴淑彬 / Wu Shubin",
+          "url": "/wiki/entities/wushubin/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "SunRuoxi",
+          "title": "孙若曦 / Sun Ruoxi",
+          "url": "/wiki/entities/sunruoxi/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "ZhangCongzhi",
+          "title": "张从志 / Zhang Congzhi",
+          "url": "/wiki/entities/zhangcongzhi/",
+          "kind": "person",
+          "episode_count": 3
+        }
+      ],
+      "start_here_episode_files": [
+        "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
+        "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
+        "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
+        "EP276 对话贾樟柯（上）：一个时代走远，一定是因为另一个时代在靠近你 [lqzsJ-ujv-gpeM_796CvncekDewC].md"
+      ]
+    },
+    "The Rest Is History": {
+      "episode_count": 714,
+      "earliest_episode_date": "2020-11-02",
+      "latest_episode_date": "2026-08-19",
+      "latest_episode_file": "GLT2308408988 [GLT2308408988].md",
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
+      "topics": [
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 2
+        }
+      ],
+      "entities": [
+        {
+          "key": "BSpecials",
+          "title": "B Specials",
+          "url": "/wiki/entities/bspecials/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "IanPaisley",
+          "title": "Ian Paisley",
+          "url": "/wiki/entities/ianpaisley/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "IrishRepublicanArmy",
+          "title": "Irish Republican Army",
+          "url": "/wiki/entities/irishrepublicanarmy/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "OrangeOrder",
+          "title": "Orange Order",
+          "url": "/wiki/entities/orangeorder/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "RoyalUlsterConstabulary",
+          "title": "Royal Ulster Constabulary",
+          "url": "/wiki/entities/royalulsterconstabulary/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Stormont",
+          "title": "Stormont",
+          "url": "/wiki/entities/stormont/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "TerenceONeill",
+          "title": "Terence O'Neill",
+          "url": "/wiki/entities/terenceoneill/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "UlsterVolunteerForce",
+          "title": "Ulster Volunteer Force",
+          "url": "/wiki/entities/ulstervolunteerforce/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "GLT2308408988 [GLT2308408988].md",
+        "GLT4877520736 [GLT4877520736].md",
+        "GLT2334035496 [GLT2334035496].md",
+        "GLT5637968455 [GLT5637968455].md"
+      ]
+    },
+    "The SaaS Podcast - Real Lessons on Growing Profitable SaaS": {
+      "episode_count": 11,
+      "earliest_episode_date": "2026-04-09",
+      "latest_episode_date": "2026-08-20",
+      "latest_episode_file": "AHARO4500147412 [AHARO4500147412].md",
+      "source_note_count": 11,
+      "topic_matched_source_note_count": 5,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 5
+        }
+      ],
+      "entities": [
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "AHARO4500147412 [AHARO4500147412].md",
+        "AHARO1828359836 [AHARO1828359836].md",
+        "AHARO9671875320 [AHARO9671875320].md",
+        "AHARO4152116058 [AHARO4152116058].md"
+      ]
+    },
+    "The Social Radars": {
+      "episode_count": 65,
+      "earliest_episode_date": "2023-03-11",
+      "latest_episode_date": "2026-05-21",
+      "latest_episode_file": "TSR-S5-JohnCoogan-AudioFile-1 [TSR-S5-JohnCoogan-AudioFile-1].md",
+      "source_note_count": 65,
+      "topic_matched_source_note_count": 59,
+      "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 58
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 11
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 3
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 3
+        }
+      ],
+      "entities": [
+        {
+          "key": "YCombinator",
+          "title": "Y Combinator",
+          "url": "/wiki/entities/ycombinator/",
+          "kind": "organization",
+          "episode_count": 51
+        },
+        {
+          "key": "CarolynLevy",
+          "title": "Carolyn Levy",
+          "url": "/wiki/entities/carolynlevy/",
+          "kind": "person",
+          "episode_count": 32
+        },
+        {
+          "key": "JessicaLivingston",
+          "title": "Jessica Livingston",
+          "url": "/wiki/entities/jessicalivingston/",
+          "kind": "person",
+          "episode_count": 31
+        },
+        {
+          "key": "PaulGraham",
+          "title": "Paul Graham",
+          "url": "/wiki/entities/paulgraham/",
+          "kind": "person",
+          "episode_count": 24
+        },
+        {
+          "key": "RonConway",
+          "title": "Ron Conway",
+          "url": "/wiki/entities/ronconway/",
+          "kind": "person",
+          "episode_count": 9
+        },
+        {
+          "key": "SamAltman",
+          "title": "Sam Altman",
+          "url": "/wiki/entities/samaltman/",
+          "kind": "person",
+          "episode_count": 9
+        },
+        {
+          "key": "SequoiaCapital",
+          "title": "Sequoia Capital",
+          "url": "/wiki/entities/sequoiacapital/",
+          "kind": "organization",
+          "episode_count": 8
+        },
+        {
+          "key": "StanfordUniversity",
+          "title": "Stanford University",
+          "url": "/wiki/entities/stanforduniversity/",
+          "kind": "organization",
+          "episode_count": 8
+        }
+      ],
+      "start_here_episode_files": [
+        "TSR-S5-JohnCoogan-AudioFile-1 [TSR-S5-JohnCoogan-AudioFile-1].md",
+        "TSR-S5-PG-v6Final-Audio [TSR-S5-PG-v6Final-Audio].md",
+        "TSR-YCOffsite-AndyLapsa-v1-Audio [TSR-YCOffsite-AndyLapsa-v1-Audio].md",
+        "TSR-S5-RonConway-v5 [TSR-S5-RonConway-v5].md"
+      ]
+    },
+    "What's Next｜科技早知道": {
+      "episode_count": 20,
+      "earliest_episode_date": "2026-04-29",
+      "latest_episode_date": "2026-08-21",
+      "latest_episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+      "source_note_count": 20,
+      "topic_matched_source_note_count": 17,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 17
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 5
+        }
+      ],
+      "entities": [
+        {
+          "key": "Huawei",
+          "title": "Huawei",
+          "url": "/wiki/entities/huawei/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "Nvidia",
+          "title": "Nvidia",
+          "url": "/wiki/entities/nvidia/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Alibaba",
+          "title": "Alibaba",
+          "url": "/wiki/entities/alibaba/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "AlibabaCloud",
+          "title": "Alibaba Cloud / 阿里云",
+          "url": "/wiki/entities/alibabacloud/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Apple",
+          "title": "Apple",
+          "url": "/wiki/entities/apple/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "JensenHuang",
+          "title": "Jensen Huang",
+          "url": "/wiki/entities/jensenhuang/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "LandSpace",
+          "title": "LandSpace / 蓝箭航天",
+          "url": "/wiki/entities/landspace/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+        "【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态｜ S9E41 [d9e11e3b-7c7e-4beb-b19f-6f90fff38714].md",
+        "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
+        "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md"
+      ]
+    },
+    "一劳永逸": {
+      "episode_count": 31,
+      "earliest_episode_date": "2024-01-20",
+      "latest_episode_date": "2026-08-09",
+      "latest_episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+      "source_note_count": 31,
+      "topic_matched_source_note_count": 25,
+      "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 24
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 5
+        },
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 2
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Nvidia",
+          "title": "Nvidia",
+          "url": "/wiki/entities/nvidia/",
+          "kind": "organization",
+          "episode_count": 6
+        },
+        {
+          "key": "WarrenBuffett",
+          "title": "Warren Buffett",
+          "url": "/wiki/entities/warrenbuffett/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "LaoMai",
+          "title": "老麦",
+          "url": "/wiki/entities/laomai/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "BerkshireHathaway",
+          "title": "Berkshire Hathaway",
+          "url": "/wiki/entities/berkshirehathaway/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "FederalReserve",
+          "title": "Federal Reserve",
+          "url": "/wiki/entities/federalreserve/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "MagicJack",
+          "title": "Magic / 杰克",
+          "url": "/wiki/entities/magicjack/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "PeoplesBankOfChina",
+          "title": "People's Bank of China",
+          "url": "/wiki/entities/peoplesbankofchina/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Daxiong",
+          "title": "大雄",
+          "url": "/wiki/entities/daxiong/",
+          "kind": "person",
+          "episode_count": 3
+        }
+      ],
+      "start_here_episode_files": [
+        "EP90 从美加墨世界杯看懂期权—华尔街的终极武器 [lmB62L64uOjzsq1uVRr0Tj81Tg1p].md",
+        "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+        "EP46 历次牛市众生相： 措手不及的幸福能持续多久？ [li10XWklA-3kK-zGDe2i0UxBpoT2].md",
+        "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md"
+      ]
+    },
+    "乱翻书": {
+      "episode_count": 12,
+      "earliest_episode_date": "2026-03-31",
+      "latest_episode_date": "2026-08-21",
+      "latest_episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+      "source_note_count": 12,
+      "topic_matched_source_note_count": 5,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 3
+        },
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "ByteDance",
+          "title": "ByteDance",
+          "url": "/wiki/entities/bytedance/",
+          "kind": "organization",
+          "episode_count": 7
+        },
+        {
+          "key": "Douyin",
+          "title": "Douyin",
+          "url": "/wiki/entities/douyin/",
+          "kind": "organization",
+          "episode_count": 6
+        },
+        {
+          "key": "ZhuangMinghao",
+          "title": "庄明浩 / 庄明昊",
+          "url": "/wiki/entities/zhuangminghao/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "Kuaishou",
+          "title": "Kuaishou",
+          "url": "/wiki/entities/kuaishou/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "Meta",
+          "title": "Meta",
+          "url": "/wiki/entities/meta/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "ZhangYiming",
+          "title": "Zhang Yiming",
+          "url": "/wiki/entities/zhangyiming/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "Alibaba",
+          "title": "Alibaba",
+          "url": "/wiki/entities/alibaba/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+        "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+        "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？ [lg3T77R6ajM31WcSdV1zE6C8hHj0].md",
+        "269.真人短剧的下一战：与AI共生、工业化和好故事 [lmwHgQD0rgE4mr0FWP5QPR2scWXt].md"
+      ]
+    },
+    "内核恐慌": {
+      "episode_count": 2,
+      "earliest_episode_date": "2025-03-08",
+      "latest_episode_date": "2025-07-07",
+      "latest_episode_file": "中文播客活化石与真OG ｜ 内核恐慌 #72 (1) [72-1].md",
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Ryo",
+          "title": "Ryo",
+          "url": "/wiki/entities/ryo/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "WuTao",
+          "title": "吴涛",
+          "url": "/wiki/entities/wutao/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "编程的内燃机时代 ｜ 内核恐慌 #71 (1) [71-1].md",
+        "中文播客活化石与真OG ｜ 内核恐慌 #72 (1) [72-1].md"
+      ]
+    },
+    "十字路口Crossing": {
+      "episode_count": 24,
+      "earliest_episode_date": "2026-03-08",
+      "latest_episode_date": "2026-08-09",
+      "latest_episode_file": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md",
+      "source_note_count": 24,
+      "topic_matched_source_note_count": 21,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 21
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Koji",
+          "title": "Koji",
+          "url": "/wiki/entities/koji/",
+          "kind": "person",
+          "episode_count": 8
+        },
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 7
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "ByteDance",
+          "title": "ByteDance",
+          "url": "/wiki/entities/bytedance/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "MiniMax",
+          "title": "MiniMax",
+          "url": "/wiki/entities/minimax/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Slack",
+          "title": "Slack",
+          "url": "/wiki/entities/slack/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md",
+        "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】 [lu98AA1ByafbBlJyJrn8oqUIeZk_].md",
+        "11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿 [lr4TVDrq25bY7FUGoqkqoJW6VWDk].md",
+        "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频 [lsB53BqRjojiaDNLQ2QE4StA_B13].md"
+      ]
+    },
+    "半拿铁 | 商业沉浮录": {
+      "episode_count": 19,
+      "earliest_episode_date": "2026-04-25",
+      "latest_episode_date": "2026-08-21",
+      "latest_episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+      "source_note_count": 19,
+      "topic_matched_source_note_count": 7,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 3
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 3
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Alibaba",
+          "title": "Alibaba",
+          "url": "/wiki/entities/alibaba/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Baidu",
+          "title": "Baidu",
+          "url": "/wiki/entities/baidu/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "ByteDance",
+          "title": "ByteDance",
+          "url": "/wiki/entities/bytedance/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Chery",
+          "title": "Chery / 奇瑞",
+          "url": "/wiki/entities/chery/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "HTC",
+          "title": "HTC",
+          "url": "/wiki/entities/htc/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Huawei",
+          "title": "Huawei",
+          "url": "/wiki/entities/huawei/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Meituan",
+          "title": "Meituan",
+          "url": "/wiki/entities/meituan/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Pinduoduo",
+          "title": "Pinduoduo",
+          "url": "/wiki/entities/pinduoduo/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "No.211 徽商往事：从前世不修到最牛风投 [1002275189].md",
+        "番外 15： 半拿铁讲金瓶梅啦，而且还是绿色的 [991508433].md",
+        "No.209 晋商往事：走西口到乔家大院然后煤了 [999367322].md",
+        "No.206 检索、送药、看病：互联网医疗这些年 ｜ 中国互联网故事22 [991273500].md"
+      ]
+    },
+    "商业就是这样": {
+      "episode_count": 18,
+      "earliest_episode_date": "2026-02-08",
+      "latest_episode_date": "2026-08-19",
+      "latest_episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+      "source_note_count": 18,
+      "topic_matched_source_note_count": 11,
+      "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 5
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 3
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 3
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 2
+        }
+      ],
+      "entities": [
+        {
+          "key": "Adidas",
+          "title": "Adidas",
+          "url": "/wiki/entities/adidas/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "GianniInfantino",
+          "title": "Gianni Infantino",
+          "url": "/wiki/entities/gianniinfantino/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "Sushiro",
+          "title": "Sushiro / 寿司郎",
+          "url": "/wiki/entities/sushiro/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "TikTok",
+          "title": "TikTok",
+          "url": "/wiki/entities/tiktok/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "WandaGroup",
+          "title": "万达集团 / Wanda Group",
+          "url": "/wiki/entities/wandagroup/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间 [1002986145].md",
+        "Vol.269 小历史 ｜ “不要怕，是技术性调整” [1004793119].md",
+        "商业小样46 ｜ 买机票时，为什么总要多交两笔钱？ [1005487014].md",
+        "Vol.265 跨越50年的美国版本之子 [1001004591].md"
+      ]
+    },
+    "声动早咖啡": {
+      "episode_count": 16,
+      "earliest_episode_date": "2021-07-08",
+      "latest_episode_date": "2026-08-20",
+      "latest_episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
+      "source_note_count": 16,
+      "topic_matched_source_note_count": 11,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 8
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 2
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 2
+        }
+      ],
+      "entities": [
+        {
+          "key": "Apple",
+          "title": "Apple",
+          "url": "/wiki/entities/apple/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "ByteDance",
+          "title": "ByteDance",
+          "url": "/wiki/entities/bytedance/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "Alibaba",
+          "title": "Alibaba",
+          "url": "/wiki/entities/alibaba/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Xiaomi",
+          "title": "Xiaomi",
+          "url": "/wiki/entities/xiaomi/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "YumChina",
+          "title": "Yum China / 百胜中国",
+          "url": "/wiki/entities/yumchina/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Amazon",
+          "title": "Amazon",
+          "url": "/wiki/entities/amazon/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "AMCTheatres",
+          "title": "AMC Theatres",
+          "url": "/wiki/entities/amctheatres/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Baidu",
+          "title": "Baidu",
+          "url": "/wiki/entities/baidu/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
+        "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
+        "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？ [1006272684].md",
+        "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md"
+      ]
+    },
+    "张小珺Jùn｜商业访谈录": {
+      "episode_count": 22,
+      "earliest_episode_date": "2026-01-22",
+      "latest_episode_date": "2026-08-19",
+      "latest_episode_file": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！ [lgS-qEdm2hDrXRFKGNSPhG4I5h5U].md",
+      "source_note_count": 22,
+      "topic_matched_source_note_count": 16,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 16
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 4
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "ByteDance",
+          "title": "ByteDance",
+          "url": "/wiki/entities/bytedance/",
+          "kind": "organization",
+          "episode_count": 6
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 6
+        },
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "Alibaba",
+          "title": "Alibaba",
+          "url": "/wiki/entities/alibaba/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "GoogleDeepMind",
+          "title": "Google DeepMind",
+          "url": "/wiki/entities/googledeepmind/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "TsinghuaUniversity",
+          "title": "Tsinghua University / 清华大学",
+          "url": "/wiki/entities/tsinghuauniversity/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "DeepSeek",
+          "title": "DeepSeek",
+          "url": "/wiki/entities/deepseek/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！ [lgS-qEdm2hDrXRFKGNSPhG4I5h5U].md",
+        "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller [lg4SPHlAUnrJuULqRaXS_1Gc5ufZ].md",
+        "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+        "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手 [lghqbPI7EHExAvJv1gjRFV_24k8Y].md"
+      ]
+    },
+    "无人知晓": {
+      "episode_count": 4,
+      "earliest_episode_date": "2025-11-18",
+      "latest_episode_date": "2026-03-03",
+      "latest_episode_file": "E45 孟岩对话李继刚：人何以自处 [lvA2mFXeSE7V0sFV3mFpfFHBDAsk].md",
+      "source_note_count": 4,
+      "topic_matched_source_note_count": 4,
+      "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 3
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 2
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "MengYan",
+          "title": "Meng Yan / 孟岩",
+          "url": "/wiki/entities/mengyan/",
+          "kind": "person",
+          "episode_count": 4
+        }
+      ],
+      "start_here_episode_files": [
+        "E45 孟岩对话李继刚：人何以自处 [lvA2mFXeSE7V0sFV3mFpfFHBDAsk].md",
+        "E44 李晓波对话孟岩：这次，就这样吧？ [lpcrvFgnsEAED-eaMbK9OFnvuQ2-].md",
+        "E43 张潇雨、孟岩对话许哲：没有更好的生活 [lrSfby01kUOuRnlY5mlkKzI-AyLS].md",
+        "E42 孟岩对话韦青：沉默的主角 [lip25o2Kub9DkNPjHfgC4lz_76W0].md"
+      ]
+    },
+    "旧世代": {
+      "episode_count": 1,
+      "earliest_episode_date": "2026-07-03",
+      "latest_episode_date": "2026-07-03",
+      "latest_episode_file": "旧世代电台28 ｜ 实体游戏的时代终结之际，不如重新定义拥有 [998430652].md",
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 0,
+      "topics": [],
+      "entities": [],
+      "start_here_episode_files": [
+        "旧世代电台28 ｜ 实体游戏的时代终结之际，不如重新定义拥有 [998430652].md"
+      ]
+    },
+    "晚点聊 LateTalk": {
+      "episode_count": 12,
+      "earliest_episode_date": "2026-05-25",
+      "latest_episode_date": "2026-08-16",
+      "latest_episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+      "source_note_count": 12,
+      "topic_matched_source_note_count": 11,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 10
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 2
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "DeepSeek",
+          "title": "DeepSeek",
+          "url": "/wiki/entities/deepseek/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "GoogleDeepMind",
+          "title": "Google DeepMind",
+          "url": "/wiki/entities/googledeepmind/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Tesla",
+          "title": "Tesla",
+          "url": "/wiki/entities/tesla/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "UnitreeRobotics",
+          "title": "Unitree Robotics",
+          "url": "/wiki/entities/unitreerobotics/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "ZhipuAI",
+          "title": "Zhipu AI",
+          "url": "/wiki/entities/zhipuai/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+        "对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 (1) [175-1].md",
+        "洋葱学园杨临风：用AI制造捷径，是在杀死真学习 (1) [167-1].md",
+        "与田渊栋聊 RSI：模型自进化如何到来？ (1) [178-1].md"
+      ]
+    },
+    "枫言枫语": {
+      "episode_count": 11,
+      "earliest_episode_date": "2026-02-01",
+      "latest_episode_date": "2026-08-17",
+      "latest_episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
+      "source_note_count": 11,
+      "topic_matched_source_note_count": 11,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 11
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 5
+        },
+        {
+          "key": "Apple",
+          "title": "Apple",
+          "url": "/wiki/entities/apple/",
+          "kind": "organization",
+          "episode_count": 5
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 5
+        },
+        {
+          "key": "DeepSeek",
+          "title": "DeepSeek",
+          "url": "/wiki/entities/deepseek/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Cloudflare",
+          "title": "Cloudflare",
+          "url": "/wiki/entities/cloudflare/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
+        "Vol. 169 高考只是个开始，Don’t Waste Your Life (1) [6668-1].md",
+        "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+        "Vol. 170 Fable 5 重出江湖，GPT 仍需努力 (1) [6674-1].md"
+      ]
+    },
+    "疯投圈": {
+      "episode_count": 10,
+      "earliest_episode_date": "2026-02-10",
+      "latest_episode_date": "2026-08-22",
+      "latest_episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+      "source_note_count": 10,
+      "topic_matched_source_note_count": 4,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 2
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "PopMart",
+          "title": "Pop Mart / 泡泡玛特",
+          "url": "/wiki/entities/popmart/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "BlueBottleCoffee",
+          "title": "Blue Bottle Coffee / 蓝瓶子",
+          "url": "/wiki/entities/bluebottlecoffee/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "DairyQueen",
+          "title": "Dairy Queen",
+          "url": "/wiki/entities/dairyqueen/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "GeneralMills",
+          "title": "General Mills",
+          "url": "/wiki/entities/generalmills/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "HaagenDazs",
+          "title": "Haagen-Dazs",
+          "url": "/wiki/entities/haagendazs/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "MixueBingcheng",
+          "title": "Mixue Bingcheng",
+          "url": "/wiki/entities/mixuebingcheng/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Sandunban",
+          "title": "Sandunban / 三顿半",
+          "url": "/wiki/entities/sandunban/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Starbucks",
+          "title": "Starbucks",
+          "url": "/wiki/entities/starbucks/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "139. 泡泡玛特和拼多多值得投资么？ ｜ 疯投圈 (1) [139-1].md",
+        "140. 大疆还能低空飞多久？ ｜ 疯投圈 (1) [140-1].md",
+        "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+        "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md"
+      ]
+    },
+    "硅谷101": {
+      "episode_count": 25,
+      "earliest_episode_date": "2026-02-14",
+      "latest_episode_date": "2026-08-20",
+      "latest_episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+      "source_note_count": 25,
+      "topic_matched_source_note_count": 21,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 17
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 6
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "GoogleDeepMind",
+          "title": "Google DeepMind",
+          "url": "/wiki/entities/googledeepmind/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Nvidia",
+          "title": "Nvidia",
+          "url": "/wiki/entities/nvidia/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "ColumbiaUniversity",
+          "title": "Columbia University",
+          "url": "/wiki/entities/columbiauniversity/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "DeepSeek",
+          "title": "DeepSeek",
+          "url": "/wiki/entities/deepseek/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "DonaldTrump",
+          "title": "Donald Trump",
+          "url": "/wiki/entities/donaldtrump/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+        "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的 [5aeaeb64-9165-4271-9884-23329b511e11].md",
+        "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛 [d65f1b49-9e97-4892-bc64-55f5f0b39906].md",
+        "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图 [2a529abf-3c14-4ae7-a0a5-fe1340a66c7d].md"
+      ]
+    },
+    "硬地骇客": {
+      "episode_count": 11,
+      "earliest_episode_date": "2024-12-16",
+      "latest_episode_date": "2026-08-02",
+      "latest_episode_file": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛 [ludjc3AB_JBwpCI6TPAAjTFfsBLx].md",
+      "source_note_count": 11,
+      "topic_matched_source_note_count": 6,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 5
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 3
+        }
+      ],
+      "entities": [
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Alibaba",
+          "title": "Alibaba",
+          "url": "/wiki/entities/alibaba/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Google",
+          "title": "Google",
+          "url": "/wiki/entities/google/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛 [ludjc3AB_JBwpCI6TPAAjTFfsBLx].md",
+        "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬 [ltozkUtZ_GVff4xu-fEYzflHVZ2U].md",
+        "EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️ [lnTWHOXpI433ptKe-nHOHb_5lbPZ].md",
+        "EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡ [luFh0-OXXXQTHJ_GUC7o_1MexUax].md"
+      ]
+    },
+    "科技乱炖": {
+      "episode_count": 22,
+      "earliest_episode_date": "2025-12-09",
+      "latest_episode_date": "2026-08-12",
+      "latest_episode_file": "acc532947b65 [acc532947b65].md",
+      "source_note_count": 22,
+      "topic_matched_source_note_count": 16,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 15
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 3
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 3
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 2
+        }
+      ],
+      "entities": [
+        {
+          "key": "DeepSeek",
+          "title": "DeepSeek",
+          "url": "/wiki/entities/deepseek/",
+          "kind": "organization",
+          "episode_count": 5
+        },
+        {
+          "key": "Apple",
+          "title": "Apple",
+          "url": "/wiki/entities/apple/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Baidu",
+          "title": "Baidu",
+          "url": "/wiki/entities/baidu/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Alibaba",
+          "title": "Alibaba",
+          "url": "/wiki/entities/alibaba/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "ByteDance",
+          "title": "ByteDance",
+          "url": "/wiki/entities/bytedance/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Douyin",
+          "title": "Douyin",
+          "url": "/wiki/entities/douyin/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Meituan",
+          "title": "Meituan",
+          "url": "/wiki/entities/meituan/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "Nvidia",
+          "title": "Nvidia",
+          "url": "/wiki/entities/nvidia/",
+          "kind": "organization",
+          "episode_count": 2
+        }
+      ],
+      "start_here_episode_files": [
+        "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [ai-不只比智商，waic-和-kimi-k3-透露了什么新竞争-1].md",
+        "期权这张饼，为什么越来越难吃了？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [期权这张饼，为什么越来越难吃了？-1].md",
+        "把身体数据存起来，可能是普通人最划算的 AI 投资 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把身体数据存起来，可能是普通人最划算的-ai-投资-1].md",
+        "acc532947b65 [acc532947b65].md"
+      ]
+    },
+    "芮淇讲透资治通鉴": {
+      "episode_count": 1336,
+      "earliest_episode_date": "2025-12-07",
+      "latest_episode_date": "2026-08-23",
+      "latest_episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+      "source_note_count": 338,
+      "topic_matched_source_note_count": 245,
+      "topics": [
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 242
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 64
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 4
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 3
+        }
+      ],
+      "entities": [
+        {
+          "key": "QinShiHuang",
+          "title": "Qin Shi Huang / 秦始皇",
+          "url": "/wiki/entities/qinshihuang/",
+          "kind": "person",
+          "episode_count": 48
+        },
+        {
+          "key": "QinZhaoxiangwang",
+          "title": "秦昭襄王 / King Zhaoxiang of Qin",
+          "url": "/wiki/entities/qinzhaoxiangwang/",
+          "kind": "person",
+          "episode_count": 40
+        },
+        {
+          "key": "HanXin",
+          "title": "韩信 / Han Xin",
+          "url": "/wiki/entities/hanxin/",
+          "kind": "person",
+          "episode_count": 40
+        },
+        {
+          "key": "ZhouNanwang",
+          "title": "周赧王 / Zhou Nan Wang",
+          "url": "/wiki/entities/zhounanwang/",
+          "kind": "person",
+          "episode_count": 35
+        },
+        {
+          "key": "ZhouXianwang",
+          "title": "周显王 / King Xian of Zhou",
+          "url": "/wiki/entities/zhouxianwang/",
+          "kind": "person",
+          "episode_count": 29
+        },
+        {
+          "key": "CaoCao",
+          "title": "曹操 / Cao Cao",
+          "url": "/wiki/entities/caocao/",
+          "kind": "person",
+          "episode_count": 25
+        },
+        {
+          "key": "XiaoHe",
+          "title": "萧何 / Xiao He",
+          "url": "/wiki/entities/xiaohe/",
+          "kind": "person",
+          "episode_count": 22
+        },
+        {
+          "key": "ZhangEr",
+          "title": "张耳 / Zhang Er",
+          "url": "/wiki/entities/zhanger/",
+          "kind": "person",
+          "episode_count": 19
+        }
+      ],
+      "start_here_episode_files": [
+        "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗 [lrBUCdIbtO5Zezrhl7UE0Y9vHB-L].md",
+        "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土 [lps0moshDfVOSNYHtdhrKdVsWIBH].md",
+        "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？ [lrDleQOzaZh4-xdwAS4KARzGBMZA].md",
+        "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖 [lr0h-kfEGUvATatTnJ--MZ8fgVnC].md"
+      ]
+    },
+    "蜉蝣天地 Meanders": {
+      "episode_count": 3,
+      "earliest_episode_date": "2025-04-15",
+      "latest_episode_date": "2026-06-23",
+      "latest_episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 2,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
+      "entities": [
+        {
+          "key": "HanYang",
+          "title": "汉洋 / Han Yang",
+          "url": "/wiki/entities/hanyang/",
+          "kind": "person",
+          "episode_count": 3
+        }
+      ],
+      "start_here_episode_files": [
+        "向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫 [4b6cf945-d64a-4dd0-95a7-cb8f11963698].md",
+        "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
+        "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md"
+      ]
+    },
+    "蜜獾吃书": {
+      "episode_count": 206,
+      "earliest_episode_date": "2022-04-19",
+      "latest_episode_date": "2026-07-11",
+      "latest_episode_file": "187.豌豆公主：高敏和混沌是你真名 [999958166].md",
+      "source_note_count": 206,
+      "topic_matched_source_note_count": 155,
+      "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 100
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 30
+        },
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 27
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 13
+        }
+      ],
+      "entities": [
+        {
+          "key": "CharlesDarwin",
+          "title": "Charles Darwin / 查尔斯·达尔文",
+          "url": "/wiki/entities/charlesdarwin/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "FriedrichNietzsche",
+          "title": "Friedrich Nietzsche / 尼采",
+          "url": "/wiki/entities/friedrichnietzsche/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "NiccoloMachiavelli",
+          "title": "Niccolo Machiavelli / 马基雅维利",
+          "url": "/wiki/entities/niccolomachiavelli/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "ReneDescartes",
+          "title": "Rene Descartes / 笛卡尔",
+          "url": "/wiki/entities/renedescartes/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "TheWaltDisneyCompany",
+          "title": "The Walt Disney Company",
+          "url": "/wiki/entities/thewaltdisneycompany/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "ThomasHobbes",
+          "title": "Thomas Hobbes / 托马斯·霍布斯",
+          "url": "/wiki/entities/thomashobbes/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "Confucius",
+          "title": "孔子 / Confucius",
+          "url": "/wiki/entities/confucius/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "JiaFamilyHousehold",
+          "title": "贾府 / Jia Family Household",
+          "url": "/wiki/entities/jiafamilyhousehold/",
+          "kind": "organization",
+          "episode_count": 3
+        }
+      ],
+      "start_here_episode_files": [
+        "187.豌豆公主：高敏和混沌是你真名 [999958166].md",
+        "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感 [959614962].md",
+        "173.弹劾：如何罢免一位总统 [963141809].md",
+        "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md"
+      ]
+    },
+    "起朱楼宴宾客": {
+      "episode_count": 74,
+      "earliest_episode_date": "2024-10-28",
+      "latest_episode_date": "2026-08-11",
+      "latest_episode_file": "177.日本医保基金为何要支持免费的国民体检？ [lh06qoNrZGjPrqDwL8dYGN4HoXpk].md",
+      "source_note_count": 74,
+      "topic_matched_source_note_count": 63,
+      "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 50
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 16
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 11
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 9
+        }
+      ],
+      "entities": [
+        {
+          "key": "DavidWeng",
+          "title": "大卫翁 / David Weng",
+          "url": "/wiki/entities/davidweng/",
+          "kind": "person",
+          "episode_count": 55
+        },
+        {
+          "key": "DonaldTrump",
+          "title": "Donald Trump",
+          "url": "/wiki/entities/donaldtrump/",
+          "kind": "person",
+          "episode_count": 11
+        },
+        {
+          "key": "FederalReserve",
+          "title": "Federal Reserve",
+          "url": "/wiki/entities/federalreserve/",
+          "kind": "organization",
+          "episode_count": 10
+        },
+        {
+          "key": "DeepSeek",
+          "title": "DeepSeek",
+          "url": "/wiki/entities/deepseek/",
+          "kind": "organization",
+          "episode_count": 8
+        },
+        {
+          "key": "Ricky",
+          "title": "Ricky",
+          "url": "/wiki/entities/ricky/",
+          "kind": "person",
+          "episode_count": 6
+        },
+        {
+          "key": "PeoplesBankOfChina",
+          "title": "People's Bank of China",
+          "url": "/wiki/entities/peoplesbankofchina/",
+          "kind": "organization",
+          "episode_count": 5
+        },
+        {
+          "key": "ApolloGlobalManagement",
+          "title": "Apollo Global Management",
+          "url": "/wiki/entities/apolloglobalmanagement/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
+          "key": "OpenAI",
+          "title": "OpenAI",
+          "url": "/wiki/entities/openai/",
+          "kind": "organization",
+          "episode_count": 4
+        }
+      ],
+      "start_here_episode_files": [
+        "176.纽约一年：一个悲观主义者的活法｜725沙龙实录 [lte_k8Lw8e1tXXW3NfxvO3WaL8aH].md",
+        "175.公募基金二季报：极致的抱团与割裂之后 [lv20UPRXRCW0tde5UgOhu29tmlG6].md",
+        "169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划 [lnasW3OsCk_KAIXBHsHJKPMscL9C].md",
+        "161. 全球宏观和资本市场2026一季度复盘与展望 [lgZjnsGkur1mcrMkqqxSvXHZB0bm].md"
+      ]
+    },
+    "面基": {
+      "episode_count": 18,
+      "earliest_episode_date": "2026-02-04",
+      "latest_episode_date": "2026-08-17",
+      "latest_episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+      "source_note_count": 18,
+      "topic_matched_source_note_count": 14,
+      "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 10
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 5
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 2
+        }
+      ],
+      "entities": [],
+      "start_here_episode_files": [
+        "A股的春夏秋冬：种树、种粮、种菜 [ljzicMfBl9GuXoqmCDd8iKdn6JBX].md",
+        "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+        "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
+        "如此打工 30 年：流水线上的面孔与时间 [lodsUKTWtcFXnhmzWUM5IeSbZbmE].md"
+      ]
+    }
+  }
+}

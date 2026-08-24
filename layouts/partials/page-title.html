@@ -1,12 +1,16 @@
 {{- $pageTitle := .Site.Title -}}
+{{- $displayTitle := .Title -}}
+{{- if and (eq .Kind "term") (eq .Data.Singular "show") -}}
+  {{- $displayTitle = partial "canonical-show-name.html" . -}}
+{{- end -}}
 {{- if and .Title (not .IsHome) -}}
-  {{- $pageTitle = printf "%s | %s" .Title .Site.Title -}}
+  {{- $pageTitle = printf "%s | %s" $displayTitle .Site.Title -}}
 {{- end -}}
 {{- if and (eq .Kind "section") (eq .Section "episodes") -}}
   {{- $episodePages := .Pages.ByDate.Reverse -}}
   {{- $episodePaginator := .Paginate $episodePages -}}
   {{- if gt $episodePaginator.PageNumber 1 -}}
-    {{- $pageTitle = printf "%s — Page %d | %s" .Title $episodePaginator.PageNumber .Site.Title -}}
+    {{- $pageTitle = printf "%s — Page %d | %s" $displayTitle $episodePaginator.PageNumber .Site.Title -}}
   {{- end -}}
 {{- end -}}
 {{- return $pageTitle -}}

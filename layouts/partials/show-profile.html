@@ -1,0 +1,109 @@
+{{- $profiles := hugo.Data.show_profiles.shows | default dict -}}
+{{- $showName := partial "canonical-show-name.html" . -}}
+{{- $profile := index $profiles $showName -}}
+{{- if not $profile -}}
+  {{- errorf "Missing generated show profile for %q" $showName -}}
+{{- end -}}
+{{- $pagesByFile := dict -}}
+{{- range .Pages -}}
+  {{- $episodePage := . -}}
+  {{- with .File -}}
+    {{- $pagesByFile = merge $pagesByFile (dict .LogicalName $episodePage) -}}
+  {{- end -}}
+{{- end -}}
+{{- $latest := index $pagesByFile $profile.latest_episode_file -}}
+{{- if not $latest -}}
+  {{- errorf "Show %q profile points to missing latest episode %q" $showName $profile.latest_episode_file -}}
+{{- end -}}
+
+<article
+  class="show-identity"
+  data-show-profile="controlled"
+  data-episode-count="{{ $profile.episode_count }}"
+  data-earliest-episode-date="{{ $profile.earliest_episode_date }}"
+  data-latest-episode-date="{{ $profile.latest_episode_date }}"
+  data-source-note-count="{{ $profile.source_note_count }}"
+  data-topic-matched-source-note-count="{{ $profile.topic_matched_source_note_count }}"
+>
+  <header class="show-identity-header">
+    <p class="eyebrow">Show</p>
+    <h1>{{ $showName }}</h1>
+    <p class="lede">A source-derived view of the episodes and knowledge currently included in Podcast Atlas.</p>
+    <dl class="show-facts">
+      <div>
+        <dt>Episodes</dt>
+        <dd>{{ $profile.episode_count }}</dd>
+      </div>
+      <div>
+        <dt>Episode date range</dt>
+        <dd><time datetime="{{ $profile.earliest_episode_date }}">{{ $profile.earliest_episode_date }}</time>–<time datetime="{{ $profile.latest_episode_date }}">{{ $profile.latest_episode_date }}</time></dd>
+      </div>
+      <div>
+        <dt>Latest episode</dt>
+        <dd><a class="show-latest-episode" data-episode-file="{{ $profile.latest_episode_file }}" href="{{ $latest.RelPermalink }}">{{ $latest.Title }}</a></dd>
+      </div>
+    </dl>
+  </header>
+
+  <section class="show-topic-profile" aria-labelledby="show-topics-heading">
+    <h2 id="show-topics-heading">Topic profile</h2>
+    {{ if gt (int $profile.source_note_count) 0 }}
+      <p class="meta show-coverage">
+        {{ $profile.topic_matched_source_note_count }} of {{ $profile.source_note_count }} source notes match at least one controlled topic. Topic shares may overlap.
+      </p>
+    {{ else }}
+      <p class="meta show-coverage">No Source Notes are available yet, so a controlled topic profile cannot be derived.</p>
+    {{ end }}
+    {{ if $profile.topics }}
+      <ul class="show-profile-list">
+        {{ range $profile.topics }}
+          {{ $share := div (mul 100 (int .source_note_count)) (int $profile.source_note_count) }}
+          <li data-topic-key="{{ .key }}" data-source-note-count="{{ .source_note_count }}">
+            <a class="show-topic-link" data-topic-key="{{ .key }}" data-source-note-count="{{ .source_note_count }}" href="{{ .url | relURL }}">{{ .label }}</a>
+            <span>{{ .source_note_count }} source notes · {{ $share }}%</span>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </section>
+
+  <section class="show-start-here" aria-labelledby="show-start-heading">
+    <h2 id="show-start-heading">Start here</h2>
+    <p class="meta">The newest episode for each leading controlled topic, deduplicated and filled with the latest episodes.</p>
+    <ul class="episode-list show-start-list">
+      {{ range $profile.start_here_episode_files }}
+        {{ $episode := index $pagesByFile . }}
+        {{ if not $episode }}
+          {{ errorf "Show %q profile points to missing starting episode %q" $showName . }}
+        {{ end }}
+        <li>
+        <div><a class="show-start-link" data-episode-file="{{ . }}" href="{{ $episode.RelPermalink }}">{{ $episode.Title }}</a></div>
+          {{ partial "episode-publication-date.html" $episode }}
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <section class="show-entities" aria-labelledby="show-entities-heading">
+    <h2 id="show-entities-heading">Frequently referenced people &amp; organizations</h2>
+    {{ if $profile.entities }}
+      <p class="meta">Entities supported by at least two different episodes in this Show's Source Notes.</p>
+      <ul class="show-profile-list">
+        {{ range $profile.entities }}
+          <li data-entity-key="{{ .key }}" data-entity-kind="{{ .kind }}" data-episode-count="{{ .episode_count }}">
+            <a class="show-entity-link" data-entity-key="{{ .key }}" data-entity-kind="{{ .kind }}" data-episode-count="{{ .episode_count }}" href="{{ .url | relURL }}">{{ .title }}</a>
+            <span>{{ .episode_count }} episodes · {{ .kind }}</span>
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p class="meta">No person or organization is supported by two different Source Notes yet.</p>
+    {{ end }}
+  </section>
+
+  <section class="show-archive" aria-labelledby="show-archive-heading">
+    <h2 id="show-archive-heading">Complete archive</h2>
+    <p class="count">{{ $profile.episode_count }} episode{{ if ne (int $profile.episode_count) 1 }}s{{ end }}, newest first</p>
+    {{ partial "episode-list.html" (dict "pages" .Pages "showMeta" false "linkClass" "show-archive-link") }}
+  </section>
+</article>

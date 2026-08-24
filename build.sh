@@ -109,6 +109,10 @@ main() {
   echo "Preparing wiki content..."
   python3 scripts/prepare-wiki-content.py
 
+  # Derive per-show identity, topic, entity, and starting-point data
+  echo "Preparing show profiles..."
+  python3 scripts/prepare-show-profiles.py
+
   # Build the project
   echo "Building the project..."
   hugo build --gc --minify --cleanDestinationDir "$@"

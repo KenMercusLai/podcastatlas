@@ -67,7 +67,8 @@
   {{- $showTerms := .GetTerms "show" -}}
   {{- if gt (len $showTerms) 0 -}}
     {{- with index $showTerms 0 -}}
-      {{- $series := dict "@type" "PodcastSeries" "name" .LinkTitle "url" .Permalink -}}
+      {{- $seriesName := partial "canonical-show-name.html" $ -}}
+      {{- $series := dict "@type" "PodcastSeries" "name" $seriesName "url" .Permalink -}}
       {{- $schemaProperties = merge $schemaProperties (dict "partOfSeries" $series) -}}
     {{- end -}}
   {{- end -}}
@@ -85,7 +86,7 @@
   {{- end -}}
 {{- else if and (eq .Kind "term") (eq .Data.Singular "show") -}}
   {{- $schemaType = "PodcastSeries" -}}
-  {{- $schemaName = .Title -}}
+  {{- $schemaName = partial "canonical-show-name.html" . -}}
   {{- $schemaProperties = merge $schemaProperties (dict "numberOfEpisodes" (int (len .Pages))) -}}
 {{- else if and .IsPage (eq .Section "wiki") (eq .Params.type "concept") -}}
   {{- $schemaType = "DefinedTerm" -}}

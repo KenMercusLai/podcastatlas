@@ -17,12 +17,10 @@
       {{ partial "term-list.html" .Data.Terms.Alphabetical }}
     {{ end }}
   {{ else }}
-    <h1>{{ .Title }}</h1>
     {{ if eq .Data.Singular "show" }}
-      {{ $count := int (len .Pages) }}
-      <p class="count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</p>
-      {{ partial "episode-list.html" (dict "pages" .Pages "showMeta" false) }}
+      {{ partial "show-profile.html" . }}
     {{ else }}
+      <h1>{{ .Title }}</h1>
       {{ $count := int (len .Pages) }}
       <p class="count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</p>
       {{ partial "page-list.html" .Pages }}

@@ -1,11 +1,12 @@
 {{ $pages := (index . "pages").ByDate.Reverse }}
 {{ $showMeta := index . "showMeta" }}
+{{ $linkClass := index . "linkClass" | default "" }}
 {{ if $pages }}
   <ul class="episode-list">
     {{ range $pages }}
       <li>
         <div>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <a{{ with $linkClass }} class="{{ . }}"{{ end }} href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ if $showMeta }}
             {{ with .GetTerms "show" }}
               <div class="episode-meta">
