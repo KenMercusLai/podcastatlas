@@ -1,5 +1,14 @@
 {{ define "main" }}
-  {{ if .Data.Terms }}
+  {{ if eq .Data.Plural "tags" }}
+    <article class="legacy-tag-page">
+      <h1>Legacy tag: {{ .Title }}</h1>
+      <p class="lede">This raw tag is retained for compatibility with existing links. Use the controlled topics for stable browsing.</p>
+      <p><a href="{{ "topics/" | relURL }}">Browse the controlled topics →</a></p>
+      {{ $count := int (len .Pages) }}
+      <p class="count">{{ $count }} related knowledge page{{ if ne $count 1 }}s{{ end }}</p>
+      {{ partial "page-list.html" .Pages }}
+    </article>
+  {{ else if .Data.Terms }}
     {{ if eq .Data.Singular "show" }}
       <h1>Shows</h1>
       {{ partial "show-list.html" .Data.Terms.Alphabetical }}

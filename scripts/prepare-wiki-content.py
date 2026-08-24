@@ -22,6 +22,9 @@ WIKI_DIR = ROOT / "content" / "wiki"
 EPISODES_DIR = ROOT / "content" / "episodes"
 STATS_PATH = WIKI_DIR / "stats.md"
 DATA_PATH = ROOT / "data" / "wiki_links.json"
+TOPICS_CONFIG_PATH = ROOT / "data" / "wiki_topics.json"
+TOPIC_MEMBERSHIP_PATH = ROOT / "data" / "wiki_topic_membership.json"
+TOPICS_DIR = ROOT / "content" / "topics"
 PUBLIC_SECTIONS = ("concepts", "entities", "sources")
 ALPHABETICAL_SECTIONS = ("concepts", "entities")
 ALPHABETICAL_BUCKETS = ("0-9", *(chr(code) for code in range(ord("a"), ord("z") + 1)))
@@ -127,6 +130,91 @@ class WikiPage:
     @property
     def rel_path(self) -> str:
         return self.path.relative_to(ROOT).as_posix()
+
+
+@dataclass(frozen=True)
+class Topic:
+    key: str
+    label: str
+    description: str
+    tags: tuple[str, ...]
+
+
+def load_topics(path: Path = TOPICS_CONFIG_PATH) -> list[Topic]:
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        raise ValueError(f"Invalid topic registry: {path}") from error
+    records = payload.get("topics") if isinstance(payload, dict) else None
+    if not isinstance(records, list) or not 1 <= len(records) <= 12:
+        raise ValueError("Topic registry must define between 1 and 12 topics")
+
+    topics: list[Topic] = []
+    seen_keys: set[str] = set()
+    tag_owners: dict[str, str] = {}
+    for record in records:
+        if not isinstance(record, dict):
+            raise ValueError("Each topic must be an object")
+        key = record.get("key")
+        label = record.get("label")
+        description = record.get("description")
+        tags = record.get("tags")
+        if not isinstance(key, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", key):
+            raise ValueError(f"Invalid topic key: {key!r}")
+        if key in seen_keys:
+            raise ValueError(f"Duplicate topic key: {key}")
+        if not isinstance(label, str) or not label.strip():
+            raise ValueError(f"Topic {key} must have a label")
+        if not isinstance(description, str) or not description.strip():
+            raise ValueError(f"Topic {key} must have a description")
+        if not isinstance(tags, list) or not tags or not all(isinstance(tag, str) and tag for tag in tags):
+            raise ValueError(f"Topic {key} must have at least one tag")
+
+        normalized_tags: list[str] = []
+        for tag in tags:
+            normalized = tag.casefold()
+            owner = tag_owners.get(normalized)
+            if owner and owner != key:
+                raise ValueError(
+                    f"Tag {tag!r} is assigned to multiple topics: {owner}, {key}"
+                )
+            tag_owners[normalized] = key
+            if normalized not in normalized_tags:
+                normalized_tags.append(normalized)
+        seen_keys.add(key)
+        topics.append(Topic(key, label.strip(), description.strip(), tuple(normalized_tags)))
+    return topics
+
+
+def read_inline_front_matter_list(path: Path, key: str) -> tuple[str, ...]:
+    text = path.read_text(encoding="utf-8")
+    front_matter, _ = split_front_matter(text)
+    prefix = f"{key}:"
+    for raw_line in front_matter:
+        line = raw_line.strip()
+        if not line.startswith(prefix):
+            continue
+        value = line.split(":", 1)[1].strip()
+        if not value.startswith("[") or not value.endswith("]"):
+            raise ValueError(f"{path}: {key} must be an inline list")
+        return tuple(
+            strip_quotes(item.strip())
+            for item in value[1:-1].split(",")
+            if item.strip()
+        )
+    return ()
+
+
+def classify_topics(pages: list[WikiPage], topics: list[Topic]) -> dict[str, tuple[str, ...]]:
+    membership: dict[str, tuple[str, ...]] = {}
+    for page in pages:
+        page_tags = {tag.casefold() for tag in read_inline_front_matter_list(page.path, "tags")}
+        membership[page.key] = tuple(
+            topic.key
+            for topic in topics
+            if page_tags.intersection(tag.casefold() for tag in topic.tags)
+        )
+    return membership
 
 
 def group_alphabetical_pages(pages: list[WikiPage], section: str) -> dict[str, list[WikiPage]]:
@@ -433,6 +521,106 @@ def expected_alphabetical_files(pages: list[WikiPage]) -> dict[Path, str]:
     return generated
 
 
+def append_topic_page_list(lines: list[str], field: str, pages: list[WikiPage]) -> None:
+    if not pages:
+        lines.append(f"{field}: []")
+        return
+    lines.append(f"{field}:")
+    for page in sorted(pages, key=lambda item: (item.title.casefold(), item.key.casefold())):
+        lines.extend(
+            [
+                f"  - key: {json.dumps(page.key, ensure_ascii=False)}",
+                f"    title: {json.dumps(page.title, ensure_ascii=False)}",
+                f"    url: {json.dumps(page_url(page), ensure_ascii=False)}",
+            ]
+        )
+
+
+def topic_index(topic: Topic, pages: list[WikiPage]) -> str:
+    by_section = {
+        section: [page for page in pages if page.section == section]
+        for section in PUBLIC_SECTIONS
+    }
+    lines = [
+        "---",
+        f"title: {json.dumps(topic.label, ensure_ascii=False)}",
+        'type: "topic"',
+        f"description: {json.dumps(topic.description, ensure_ascii=False)}",
+        'outputs: ["html"]',
+        "topic_page: true",
+        f"topic_key: {json.dumps(topic.key)}",
+        f"topic_total_pages: {len(pages)}",
+    ]
+    append_topic_page_list(lines, "topic_concepts", by_section["concepts"])
+    append_topic_page_list(lines, "topic_entities", by_section["entities"])
+    append_topic_page_list(lines, "topic_sources", by_section["sources"])
+    lines.extend(["---", "", GENERATED_NOTICE])
+    return "\n".join(lines) + "\n"
+
+
+def topics_landing(topics: list[Topic], grouped: dict[str, list[WikiPage]]) -> str:
+    lines = [
+        "---",
+        'title: "Topics"',
+        'type: "topic"',
+        'description: "A small, controlled set of subjects for browsing Podcast Atlas knowledge."',
+        'outputs: ["html"]',
+        "topic_landing: true",
+        "topic_pages:",
+    ]
+    for topic in topics:
+        lines.extend(
+            [
+                f"  - key: {json.dumps(topic.key)}",
+                f"    label: {json.dumps(topic.label, ensure_ascii=False)}",
+                f"    description: {json.dumps(topic.description, ensure_ascii=False)}",
+                f"    url: {json.dumps(f'/topics/{topic.key}/')}",
+                f"    count: {len(grouped[topic.key])}",
+            ]
+        )
+    lines.extend(["---", "", GENERATED_NOTICE])
+    return "\n".join(lines) + "\n"
+
+
+def expected_topic_files(
+    pages: list[WikiPage],
+    topics: list[Topic],
+    *,
+    topics_dir: Path | None = None,
+) -> dict[Path, str]:
+    if topics_dir is None:
+        topics_dir = TOPICS_DIR
+    membership = classify_topics(pages, topics)
+    grouped = {
+        topic.key: [page for page in pages if topic.key in membership[page.key]]
+        for topic in topics
+    }
+    generated = {topics_dir / "_index.md": topics_landing(topics, grouped)}
+    for topic in topics:
+        generated[topics_dir / topic.key / "_index.md"] = topic_index(
+            topic, grouped[topic.key]
+        )
+    return generated
+
+
+def make_topic_membership(pages: list[WikiPage], topics: list[Topic]) -> str:
+    topic_by_key = {topic.key: topic for topic in topics}
+    classified = classify_topics(pages, topics)
+    payload = {
+        page.key: [
+            {
+                "key": key,
+                "label": topic_by_key[key].label,
+                "url": f"/topics/{key}/",
+            }
+            for key in classified[page.key]
+        ]
+        for page in sorted(pages, key=lambda item: item.key)
+        if classified[page.key]
+    }
+    return json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+
+
 def needs_safe_page_proxy(page: WikiPage) -> bool:
     """Use a stable route because Hugo normalizes symbol-leading filenames."""
     first = page.key[:1]
@@ -496,8 +684,44 @@ def find_stale_alphabetical_files(
     return stale
 
 
+def find_stale_topic_files(
+    expected_paths: set[Path],
+    *,
+    topics_dir: Path | None = None,
+) -> list[Path]:
+    if topics_dir is None:
+        topics_dir = TOPICS_DIR
+    if not topics_dir.exists():
+        return []
+    if topics_dir.is_symlink():
+        raise RuntimeError(f"Refusing symlinked topic directory: {topics_dir}")
+    topics_root = topics_dir.resolve()
+    for child in topics_dir.iterdir():
+        if child.is_symlink():
+            raise RuntimeError(f"Refusing symlinked topic path: {child}")
+    stale: list[Path] = []
+    for path in sorted(topics_dir.glob("**/_index.md")):
+        relative = path.relative_to(topics_dir)
+        owned_parent = topics_dir
+        symlinked_parent = False
+        for part in relative.parts[:-1]:
+            owned_parent = owned_parent / part
+            if owned_parent.is_symlink():
+                symlinked_parent = True
+                break
+        escaped = path.resolve() != topics_root and topics_root not in path.resolve().parents
+        if path.is_symlink() or symlinked_parent or escaped:
+            raise RuntimeError(f"Refusing symlinked topic path: {path}")
+        if path in expected_paths:
+            continue
+        if GENERATED_NOTICE in path.read_text(encoding="utf-8"):
+            stale.append(path)
+    return stale
+
+
 def expected_generated_files() -> dict[Path, str]:
     pages = discover_pages()
+    topics = load_topics()
     return {
         WIKI_DIR / "_index.md": generated_index(
             "Wiki",
@@ -509,8 +733,10 @@ def expected_generated_files() -> dict[Path, str]:
             "Source pages in the Podcast Atlas wiki",
         ),
         DATA_PATH: make_link_data(pages),
+        TOPIC_MEMBERSHIP_PATH: make_topic_membership(pages, topics),
         **expected_alphabetical_files(pages),
         **expected_safe_page_files(pages),
+        **expected_topic_files(pages, topics),
     }
 
 
@@ -720,7 +946,12 @@ def run(check: bool) -> int:
     expected_paths = set(expected)
     stale_safe_pages = find_stale_safe_page_files(expected_paths)
     stale_alphabetical_pages = find_stale_alphabetical_files(expected_paths)
-    stale_generated_pages = [*stale_safe_pages, *stale_alphabetical_pages]
+    stale_topic_pages = find_stale_topic_files(expected_paths)
+    stale_generated_pages = [
+        *stale_safe_pages,
+        *stale_alphabetical_pages,
+        *stale_topic_pages,
+    ]
 
     changed: list[str] = []
     if check:

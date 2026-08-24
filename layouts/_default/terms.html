@@ -1,5 +1,16 @@
 {{ define "main" }}
-  {{ if eq .Data.Singular "show" }}
+  {{ if eq .Data.Plural "tags" }}
+    <article class="legacy-tag-page">
+      <h1>Legacy tags</h1>
+      <p class="lede">Raw tags are retained only so existing links keep working. They are no longer a browsing or search surface.</p>
+      <p><a href="{{ "topics/" | relURL }}">Browse the controlled topics →</a></p>
+      {{ $legacyTagRoutes := slice }}
+      {{ range .Data.Terms.Alphabetical }}
+        {{ $legacyTagRoutes = $legacyTagRoutes | append .Page.RelPermalink }}
+      {{ end }}
+      <script id="legacy-tag-route-manifest" type="application/json">{{ jsonify $legacyTagRoutes | safeJS }}</script>
+    </article>
+  {{ else if eq .Data.Singular "show" }}
     <h1>Shows</h1>
     {{ partial "show-list.html" .Data.Terms.Alphabetical }}
   {{ else }}
