@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8de1045d310e7e163fc33bb2a0d14b63f3b098aa25cde6a938bf6428bb8f20cc",
       "8b6963c69412a10b52314fb3d3b9d8421ee97997660b50f1c89d12a74811249e",
       "fa7f975dc4f4d578ec7865c5b683b647185351d788ec913e95034d0567385fa5",
       "ff8d5e1ecffbd31906dfb80202dff1ee3e2ca38d3e412c988e94a88e717bd0cb",
@@ -165,11 +166,52 @@
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
     ],
-    "paragraph_count": 163
+    "paragraph_count": 164
   },
-  "overview_commit": "45976b4603173561685e7fbad3964f47f8890319",
-  "overview_digest": "e02ef3cff4ff520ee091f84ad04de6248780cbd65a450570afe8f95d842bbf36",
+  "overview_commit": "3054d8bea5cd0dc4bac2fd746dfab774d2d4cb26",
+  "overview_digest": "f18c7e749779b02c83d635c968ca8de5635d5d928db8cc7beef92f71c07918f1",
   "paragraphs": [
+    {
+      "id": "8de1045d310e7e163fc33bb2a0d14b63f3b098aa25cde6a938bf6428bb8f20cc",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543]], a [[ShengdongZaokafei|声动早咖啡]] episode on China burger expansion, domestic yellow-lemon price pressure, and several consumer and technology company strategy updates. It adds [[CoachFashionBrand|Coach]], [[FiveGuys]], [[MStand]], [[LingxiInteractiveEntertainment|灵犀互娱]], [[ZhangXueMotorcycle|张雪机车]], [[IncheonInternationalAirport|仁川国际机场]], [[KweichowMoutai|贵州茅台]], [[HitGoo]], [[HotMaxx|好特卖]], [[AnyueLemonProductionArea|安岳柠檬产区]], [[ChinaBurgerExpansion]], [[YellowLemonPriceCycle]], and [[SoftDiscountRetail]], while extending [[Alibaba]], [[Qwen]], [[DJI]], [[Insta360]], [[Haidilao]], [[PizzaHutChina]], [[YumChina]], [[StoreWithinStoreFoodservice]], and [[HardDiscountRetail]]. Its core synthesis is that growth opportunities still exist, but the useful question is now operating fit: Alibaba narrows toward AI/cloud, DJI competes on creator-camera price, Coach rebuilds brand and channel discipline, restaurants use burgers and store-within-store formats to find value-seeking meals, lemon prices expose agriculture-export-beverage linkages, and discount retail splits between opportunistic inventory and structural low-cost operations. No direct contradiction is recorded; reported transaction values, traffic rankings, growth forecasts, and price figures remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Alibaba",
+        "AnyueLemonProductionArea",
+        "ChinaBurgerExpansion",
+        "CoachFashionBrand",
+        "DJI",
+        "FiveGuys",
+        "Haidilao",
+        "HardDiscountRetail",
+        "HitGoo",
+        "HotMaxx",
+        "IncheonInternationalAirport",
+        "Insta360",
+        "KweichowMoutai",
+        "LingxiInteractiveEntertainment",
+        "MStand",
+        "PizzaHutChina",
+        "Qwen",
+        "ShengdongZaokafei",
+        "SoftDiscountRetail",
+        "StoreWithinStoreFoodservice",
+        "YellowLemonPriceCycle",
+        "YumChina",
+        "ZhangXueMotorcycle",
+        "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543"
+      ]
+    },
     {
       "id": "8b6963c69412a10b52314fb3d3b9d8421ee97997660b50f1c89d12a74811249e",
       "primary_topic": "governance-and-institutions",

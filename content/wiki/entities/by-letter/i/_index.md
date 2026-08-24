@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 7034
+wiki_total_pages: 7044
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "ImpulseWatch"
     title: "Impulse Watch"
     url: "/wiki/entities/impulsewatch/"
+  - key: "IncheonInternationalAirport"
+    title: "Incheon International Airport / 仁川国际机场"
+    url: "/wiki/entities/incheoninternationalairport/"
   - key: "Incorruptible"
     title: "Incorruptible"
     url: "/wiki/entities/incorruptible/"

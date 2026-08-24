@@ -2,8 +2,8 @@
 title: "DJI / 大疆"
 type: entity
 tags: [company, drones, consumer-electronics, china, hardware]
-sources: [140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1]
-last_updated: 2026-07-09
+sources: [zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1]
+last_updated: 2026-08-24
 ---
 
 # DJI / 大疆
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 DJI is the central company in [[140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1]]. The episode frames it as a rare Chinese hardware company that combines engineering depth, supply-chain execution, category definition, global brand premium, and high profitability across drones and portable imaging devices.
 
 The source's main DJI thesis is that the company's strength comes from [[HardwareCategoryDefinitionPower]]: it did not merely compete inside mature consumer-electronics categories, but made consumer drones and Pocket-style gimbal cameras legible to global buyers. Its risk is that this advantage is harder to repeat in follower categories, while [[LowAltitudeRegulatoryRisk]], U.S. restrictions, talent outflow, and possible listing pressure all push against the existing founder-led model.
+
+[[zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543]] adds a near-term panoramic-camera price-competition update. The source says DJI introduced a competing product one day after [[Insta360]]'s X6 release and priced it 700 RMB lower, reinforcing the earlier point that DJI can pressure adjacent creator-camera categories even when it did not define the original niche.
 
 ## Source Position
 - The hosts claim DJI may have reached more than 800 亿元 RMB in 2025 revenue and more than 200 亿元 RMB in profit, with a net margin above 30%.
@@ -26,6 +28,7 @@ The source's main DJI thesis is that the company's strength comes from [[Hardwar
 - [[WangTao]] - DJI founder figure in the episode's discussion of control, anxiety, and listing choices.
 - [[GoPro]] and [[Insta360]] - action-camera and 360-camera competitors.
 - [[PortableCreatorCameras]] - DJI's Pocket, action-camera, and 360-camera second curve.
+- [[ProductLedWillingnessToPay]] - whether DJI's lower price and hardware brand can convert creator-camera users.
 - [[HardwareCategoryDefinitionPower]] - source concept explaining DJI's pricing power.
 - [[ChineseHardwareGlobalization]] - global brand and channel position.
 - [[LowAltitudeRegulatoryRisk]] - security and regulation pressure around drone use.

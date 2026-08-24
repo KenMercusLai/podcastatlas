@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7034
+wiki_total_pages: 7044
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "ZhangXiaoyu"
     title: "Zhang Xiaoyu / 张潇雨"
     url: "/wiki/entities/zhangxiaoyu/"
+  - key: "ZhangXueMotorcycle"
+    title: "Zhang Xue Motorcycle / 张雪机车"
+    url: "/wiki/entities/zhangxuemotorcycle/"
   - key: "ZhangYi"
     title: "Zhang Yi"
     url: "/wiki/entities/zhangyi/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 5298
+wiki_total_pages: 5301
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "YCInternalSoftware"
     title: "YC Internal Software"
     url: "/wiki/concepts/ycinternalsoftware/"
+  - key: "YellowLemonPriceCycle"
+    title: "Yellow Lemon Price Cycle / 黄柠檬价格周期"
+    url: "/wiki/concepts/yellowlemonpricecycle/"
   - key: "YenCarryTrade"
     title: "Yen Carry Trade"
     url: "/wiki/concepts/yencarrytrade/"

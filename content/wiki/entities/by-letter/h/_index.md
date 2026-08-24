@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7034
+wiki_total_pages: 7044
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "HiSilicon"
     title: "HiSilicon"
     url: "/wiki/entities/hisilicon/"
+  - key: "HitGoo"
+    title: "HitGoo"
+    url: "/wiki/entities/hitgoo/"
   - key: "Hive5"
     title: "Hive 5"
     url: "/wiki/entities/hive5/"
@@ -458,6 +461,9 @@ wiki_pages:
   - key: "HoshinoResorts"
     title: "Hoshino Resorts / 星野集团"
     url: "/wiki/entities/hoshinoresorts/"
+  - key: "HotMaxx"
+    title: "HotMaxx / 好特卖"
+    url: "/wiki/entities/hotmaxx/"
   - key: "HourglassClimate"
     title: "Hourglass Climate"
     url: "/wiki/entities/hourglassclimate/"

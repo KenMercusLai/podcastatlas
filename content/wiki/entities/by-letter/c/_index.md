@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7034
+wiki_total_pages: 7044
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "CoCounsel"
     title: "Co-Counsel"
     url: "/wiki/entities/cocounsel/"
+  - key: "CoachFashionBrand"
+    title: "Coach / 蔻驰"
+    url: "/wiki/entities/coachfashionbrand/"
   - key: "Coalfire"
     title: "Coalfire"
     url: "/wiki/entities/coalfire/"

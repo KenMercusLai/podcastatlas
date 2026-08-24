@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [中国迎来汉堡开店潮，国产黄柠檬价格回落](sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543.md) — 声动早咖啡 episode on China burger expansion, domestic yellow-lemon price declines, Alibaba's Lingxi sale, DJI/Insta360 camera competition, Coach China growth, Moutai channel adjustment, and soft versus hard discount retail.
 - [Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety](sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485.md) — All-In interview with Flock Safety CEO Garrett Langley on license-plate readers, privacy criticism, retention defaults, audit assistance, local governance, AI caution, drones, and public-safety tradeoffs.
 - [As space launches increase, there aren't enough spaceports](sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128.md) — Marketplace Tech episode on commercial satellite demand, crowded U.S. launch pads, scarce spaceport geography, the FAA environmental-review waiver proposal, SpaceX, and habitat/legal objections.
 - [Settler bet: a West Bank flashpoint](sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d.md) — The Intelligence episode on West Bank settler outpost escalation, India's uniform civil-code politics, and Bartleby's public-figure workplace satire.
@@ -1368,6 +1369,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Coach / 蔻驰](entities/CoachFashionBrand.md) — Fashion brand in the source's China growth case, balancing higher average prices, less discounting, outlet use, small stores, and flagship image-building.
+- [Five Guys](entities/FiveGuys.md) — Burger chain whose Beijing opening queues make the source's China burger expansion visible.
+- [M Stand](entities/MStand.md) — Coffee-chain-adjacent entrant used by the source to show burger expansion beyond pure burger chains.
+- [Lingxi Interactive Entertainment / 灵犀互娱](entities/LingxiInteractiveEntertainment.md) — Alibaba game unit whose reported sale grounds the episode's portfolio-focus and AI/cloud priority frame.
+- [Zhang Xue Motorcycle / 张雪机车](entities/ZhangXueMotorcycle.md) — Chinese motorcycle brand receiving reported Sequoia China investment while facing R&D, channel, and after-sales pressure.
+- [Incheon International Airport / 仁川国际机场](entities/IncheonInternationalAirport.md) — Airport cited as becoming the first-half global leader in international passenger traffic amid rerouting and tourism shifts.
+- [Kweichow Moutai / 贵州茅台](entities/KweichowMoutai.md) — Premium liquor company used as a downturn, supply-control, price-adjustment, and direct-sales channel case.
+- [HitGoo](entities/HitGoo.md) — Soft-discount retailer whose store closures illustrate the fragility of close-dated and overstock supply models.
+- [HotMaxx / 好特卖](entities/HotMaxx.md) — Soft-discount retailer named as an adjacent example in the episode's soft-versus-hard discount comparison.
+- [Anyue Lemon Production Area / 安岳柠檬产区](entities/AnyueLemonProductionArea.md) — Sichuan lemon production area anchoring the source's domestic yellow-lemon supply increase and price decline.
 - [Garrett Langley](entities/GarrettLangley.md) — Flock Safety founder and CEO defending license-plate readers, audit assistance, local governance, AI caution, and drone response in the All-In interview.
 - [Michelle Hanlon](entities/MichelleHanlon.md) — Space-policy expert explaining satellite constellations and launch capacity as a U.S. space-industry bottleneck.
 - [Daniel Ackerman](entities/DanielAckerman.md) — Marketplace Tech reporter identifying the geography, port, population, and airspace constraints behind spaceport siting.
@@ -8406,6 +8417,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains and adjacent Chinese restaurant brands test burgers as filling, affordable meal occasions.
+- [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
+- [Soft-Discount Retail / 软折扣零售](concepts/SoftDiscountRetail.md) — Discount format based on close-dated, overstock, and tail-goods supply, contrasted with hard discount's structural operating efficiency.
 - [Public Safety Privacy Tradeoff](concepts/PublicSafetyPrivacyTradeoff.md) — Governance problem balancing crime-solving benefits against retention, abuse, tracking, transparency, and police-trust risks.
 - [Automatic License Plate Reader](concepts/AutomaticLicensePlateReader.md) — Camera-and-software pattern that turns vehicle plates and attributes into searchable public-safety records.
 - [Police Data Access Audit](concepts/PoliceDataAccessAudit.md) — Accountability layer for detecting and disciplining misuse of police-accessible surveillance databases.

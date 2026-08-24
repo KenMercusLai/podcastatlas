@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5298
+wiki_total_pages: 5301
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "SoftBudgetFootballClubs"
     title: "Soft-Budget Football Clubs"
     url: "/wiki/concepts/softbudgetfootballclubs/"
+  - key: "SoftDiscountRetail"
+    title: "Soft-Discount Retail / 软折扣零售"
+    url: "/wiki/concepts/softdiscountretail/"
   - key: "SoftwareAsCulturalWork"
     title: "Software As Cultural Work"
     url: "/wiki/concepts/softwareasculturalwork/"

@@ -2,11 +2,13 @@
 title: "Qwen"
 type: entity
 tags: [model, open-source, ai]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
-last_updated: 2026-08-17
+sources: [zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-24
 ---
 
 # Qwen
+
+[[zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543]] adds a momentum signal inside [[Alibaba]]'s portfolio-focus story. The source says Bloomberg reported Qwen-series models had exceeded 3 billion global downloads over the prior six months, using that figure to frame Alibaba's AI and cloud priorities while it reportedly sells [[LingxiInteractiveEntertainment|灵犀互娱]].
 
 [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds Qwen to both sides of the distillation story. The source says [[DeepSeek]] R1's small distilled models used Qwen 2.5 as one base, showing legitimate teacher-to-student compression in an open-model context, while also saying [[Anthropic]] later publicly named Qwen in distillation-related discussion without providing complete public evidence.
 
@@ -52,6 +54,7 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - In episode 270, treated as the model brand leading Alibaba's AI-office stack over DingTalk and adjacent work-agent products.
 - In the 声动早咖啡 source, treated as a flagship model participating in cross-provider price competition and task-fit routing.
 - In the later 声动早咖啡 source, treated as an open model family whose commercial boundary may include revenue sharing from large customer monetization.
+- In the newest 声动早咖啡 source, treated as a model-family momentum signal supporting Alibaba's AI/cloud focus as it sheds a game unit.
 
 ## Connections
 - [[KimiK3]], [[OpenWeightCommercialLicensing]], and [[LargeCompanyOpenSourceStrategy]] - E246's comparison between open ecosystem influence and model-company monetization.
@@ -71,3 +74,4 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - [[KimiK3]], [[Anthropic]], [[OpenAI]], [[ModelRoutingCostControl]], and [[ClosedModelAPIMoatPressure]] - price-war and model-choice branch added by 声动早咖啡.
 - [[DeepSeek]], [[Alibaba]], [[AICommercializationPressure]], and [[LargeCompanyOpenSourceStrategy]] - commercialization-boundary branch added by the later 声动早咖啡 source.
 - [[ModelDistillation]], [[ModelDistillationEvidence]], [[Anthropic]], and [[ChineseOpenWeightAIStrategy]] - LateTalk episode 179's R1 distillation and accusation branch.
+- [[LingxiInteractiveEntertainment|灵犀互娱]], [[AlibabaCloud]], and [[AICommercializationPressure]] - portfolio-focus branch added by 声动早咖啡.

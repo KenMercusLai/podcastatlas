@@ -2,7 +2,7 @@
 title: "Yum China / 百胜中国"
 type: entity
 tags: [company, restaurants, china, foodservice]
-sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
+sources: [zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
 last_updated: 2026-08-24
 ---
 
@@ -16,10 +16,13 @@ The episode's useful contribution is [[StoreWithinStoreFoodservice|store-within-
 
 [[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds Yum China to [[ForeignRestaurantBrandLocalControl]]. The source says Yum China bought [[PizzaHutChina]] brand ownership from [[YumBrands]] for 1.2 billion USD, while the rest of global Pizza Hut was sold separately for 1.5 billion USD. The hosts read this as evidence that Yum China's long-localized operation made the China region unusually valuable inside the brand.
 
+[[zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543]] adds the next burger-specific rollout marker. It says [[PizzaHutChina]] had burgers in more than 200 stores and planned 500-600 by year-end, making the earlier [[StoreWithinStoreFoodservice]] concept a visible part of [[ChinaBurgerExpansion]] rather than only a small category test.
+
 ## Source Position
 - KFC's higher transaction count but lower average order value points to value pressure and smaller-order growth.
 - Coffee and light meals are treated as incremental occasions that can fit existing stores.
 - Pizza Hut's burger module is described as a competitive response to beef-burger brands and as a planned rollout to hundreds of stores by year-end.
+- The later 声动早咖啡 source updates the burger plan to more than 200 active stores and a 500-600 store year-end target.
 - The source frames these experiments as lower-cost because kitchen equipment, staffing, and store traffic can be shared.
 - The later 声动早咖啡 source adds that buying mainland Pizza Hut brand ownership can recapture fees and make expansion economics more attractive.
 
@@ -31,3 +34,4 @@ The episode's useful contribution is [[StoreWithinStoreFoodservice|store-within-
 - [[RestaurantSupplyChainLocalization]] - upstream ingredient, kitchen, and preparation fit.
 - [[RestaurantOperatingSystem]], [[RetailIncrementality]], and [[ProductLedWillingnessToPay]] - adjacent restaurant and demand concepts.
 - [[YumBrands]] and [[ForeignRestaurantBrandLocalControl]] - episode 145's brand-rights ownership branch.
+- [[ChinaBurgerExpansion]] - burger-market growth branch added by 声动早咖啡.

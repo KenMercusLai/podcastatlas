@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5298
+wiki_total_pages: 5301
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "ChinaBiotechGlobalization"
     title: "China Biotech Globalization"
     url: "/wiki/concepts/chinabiotechglobalization/"
+  - key: "ChinaBurgerExpansion"
+    title: "China Burger Expansion / 中国汉堡开店潮"
+    url: "/wiki/concepts/chinaburgerexpansion/"
   - key: "ChinaCellTherapyRegulatoryDualTrack"
     title: "China Cell Therapy Regulatory Dual Track"
     url: "/wiki/concepts/chinacelltherapyregulatorydualtrack/"

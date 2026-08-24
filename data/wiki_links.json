@@ -4471,6 +4471,10 @@
     "title": "安邑 / Anyi",
     "url": "/wiki/entities/anyi/"
   },
+  "AnyueLemonProductionArea": {
+    "title": "Anyue Lemon Production Area / 安岳柠檬产区",
+    "url": "/wiki/entities/anyuelemonproductionarea/"
+  },
   "Aocang": {
     "title": "敖仓 / Aocang",
     "url": "/wiki/entities/aocang/"
@@ -8883,6 +8887,10 @@
     "title": "China Biotech Globalization",
     "url": "/wiki/concepts/chinabiotechglobalization/"
   },
+  "ChinaBurgerExpansion": {
+    "title": "China Burger Expansion / 中国汉堡开店潮",
+    "url": "/wiki/concepts/chinaburgerexpansion/"
+  },
   "ChinaCellTherapyRegulatoryDualTrack": {
     "title": "China Cell Therapy Regulatory Dual Track",
     "url": "/wiki/concepts/chinacelltherapyregulatorydualtrack/"
@@ -9890,6 +9898,10 @@
   "CoFounderRelationshipMaintenance": {
     "title": "Co-Founder Relationship Maintenance",
     "url": "/wiki/concepts/cofounderrelationshipmaintenance/"
+  },
+  "CoachFashionBrand": {
+    "title": "Coach / 蔻驰",
+    "url": "/wiki/entities/coachfashionbrand/"
   },
   "CoachingIntegratedSoccerAnalytics": {
     "title": "Coaching-Integrated Soccer Analytics",
@@ -16219,6 +16231,10 @@
     "title": "5G Robotics",
     "url": "/wiki/entities/fivegrobotics/"
   },
+  "FiveGuys": {
+    "title": "Five Guys",
+    "url": "/wiki/entities/fiveguys/"
+  },
   "FiveHundredStartups": {
     "title": "500 Startups",
     "url": "/wiki/entities/fivehundredstartups/"
@@ -20267,6 +20283,10 @@
     "title": "Historiographical Presentism / 史评当代性",
     "url": "/wiki/concepts/historiographicalpresentism/"
   },
+  "HitGoo": {
+    "title": "HitGoo",
+    "url": "/wiki/entities/hitgoo/"
+  },
   "HitchcockianMoralIrony": {
     "title": "Hitchcockian Moral Irony / 希区柯克式道德反讽",
     "url": "/wiki/concepts/hitchcockianmoralirony/"
@@ -20566,6 +20586,10 @@
   "HostileTerritoryRoyalContainment": {
     "title": "敌意封国安置 / Hostile-Territory Royal Containment",
     "url": "/wiki/concepts/hostileterritoryroyalcontainment/"
+  },
+  "HotMaxx": {
+    "title": "HotMaxx / 好特卖",
+    "url": "/wiki/entities/hotmaxx/"
   },
   "HotelAssetLightFranchiseModel": {
     "title": "Hotel Asset-Light Franchise Model",
@@ -21490,6 +21514,10 @@
   "IncenseFormulaReconstruction": {
     "title": "Incense Formula Reconstruction / 古方香复刻",
     "url": "/wiki/concepts/incenseformulareconstruction/"
+  },
+  "IncheonInternationalAirport": {
+    "title": "Incheon International Airport / 仁川国际机场",
+    "url": "/wiki/entities/incheoninternationalairport/"
   },
   "IncidentalExposure": {
     "title": "Incidental Exposure / 偶然暴露",
@@ -24911,6 +24939,10 @@
     "title": "Kusra",
     "url": "/wiki/entities/kusra/"
   },
+  "KweichowMoutai": {
+    "title": "Kweichow Moutai / 贵州茅台",
+    "url": "/wiki/entities/kweichowmoutai/"
+  },
   "Kyiv": {
     "title": "Kyiv",
     "url": "/wiki/entities/kyiv/"
@@ -26263,6 +26295,10 @@
     "title": "Linguistic Relativity",
     "url": "/wiki/concepts/linguisticrelativity/"
   },
+  "LingxiInteractiveEntertainment": {
+    "title": "Lingxi Interactive Entertainment / 灵犀互娱",
+    "url": "/wiki/entities/lingxiinteractiveentertainment/"
+  },
   "Lingyang": {
     "title": "瓴羊 / Lingyang",
     "url": "/wiki/entities/lingyang/"
@@ -27518,6 +27554,10 @@
   "MSPChannelDistribution": {
     "title": "MSP Channel Distribution",
     "url": "/wiki/concepts/mspchanneldistribution/"
+  },
+  "MStand": {
+    "title": "M Stand",
+    "url": "/wiki/entities/mstand/"
   },
   "MVPInvestmentFramework": {
     "title": "MVP Investment Framework / 宏观-估值-政策框架",
@@ -40403,6 +40443,10 @@
     "title": "Soft-Budget Football Clubs",
     "url": "/wiki/concepts/softbudgetfootballclubs/"
   },
+  "SoftDiscountRetail": {
+    "title": "Soft-Discount Retail / 软折扣零售",
+    "url": "/wiki/concepts/softdiscountretail/"
+  },
   "Softmax": {
     "title": "Softmax",
     "url": "/wiki/entities/softmax/"
@@ -48587,6 +48631,10 @@
     "title": "Yeezy",
     "url": "/wiki/entities/yeezy/"
   },
+  "YellowLemonPriceCycle": {
+    "title": "Yellow Lemon Price Cycle / 黄柠檬价格周期",
+    "url": "/wiki/concepts/yellowlemonpricecycle/"
+  },
   "Yemen": {
     "title": "Yemen",
     "url": "/wiki/entities/yemen/"
@@ -49538,6 +49586,10 @@
   "ZhangXiu": {
     "title": "张绣 / Zhang Xiu",
     "url": "/wiki/entities/zhangxiu/"
+  },
+  "ZhangXueMotorcycle": {
+    "title": "Zhang Xue Motorcycle / 张雪机车",
+    "url": "/wiki/entities/zhangxuemotorcycle/"
   },
   "ZhangXunYuanShu": {
     "title": "张勋 / Zhang Xun (Yuan Shu general)",
@@ -53458,6 +53510,10 @@
   "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805": {
     "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
     "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+  },
+  "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543": {
+    "title": "中国迎来汉堡开店潮，国产黄柠檬价格回落",
+    "url": "/wiki/sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543/"
   },
   "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae": {
     "title": "中年三账户：现金流、肌肉、睡眠",

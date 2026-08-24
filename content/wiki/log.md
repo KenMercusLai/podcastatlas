@@ -10929,3 +10929,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 中国迎来汉堡开店潮，国产黄柠檬价格回落
+
+Added source page for a 声动早咖啡 episode on China burger expansion, domestic yellow-lemon price declines, Alibaba's reported Lingxi sale, DJI/Insta360 panoramic-camera competition, Zhang Xue Motorcycle financing, Incheon airport traffic, Coach China growth, Moutai channel adjustment, and soft versus hard discount retail. Created pages for Coach, Five Guys, M Stand, Lingxi Interactive Entertainment, Zhang Xue Motorcycle, Incheon International Airport, Kweichow Moutai, HitGoo, HotMaxx, Anyue Lemon Production Area, China Burger Expansion, Yellow Lemon Price Cycle, and Soft-Discount Retail; updated overview, index, 声动早咖啡, Alibaba, Qwen, DJI, Insta360, Haidilao, Pizza Hut China, Yum China, Store-Within-Store Foodservice, and Hard-Discount Retail. No direct contradiction found; reported transaction values, market forecasts, rankings, and price figures are kept source-scoped.
+
+## [2026-08-24] lint | Wiki lint check
+
+Ran health, identity validation, and lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 13,707 non-generated wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current wiki has 13,707 lint pages, so bridge findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged source-breadth/depth risks for single-source pages such as `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/HumanDependentSafetySystem.md`, `wiki/concepts/DayZeroModelSupport.md`, and `wiki/concepts/EraTailwindInInvesting.md`. Report returned in-session; `wiki/lint-report.md` was not updated.

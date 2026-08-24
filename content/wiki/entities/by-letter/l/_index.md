@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7034
+wiki_total_pages: 7044
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "LindseyGraham"
     title: "Lindsey Graham"
     url: "/wiki/entities/lindseygraham/"
+  - key: "LingxiInteractiveEntertainment"
+    title: "Lingxi Interactive Entertainment / 灵犀互娱"
+    url: "/wiki/entities/lingxiinteractiveentertainment/"
   - key: "LinkedIn"
     title: "LinkedIn"
     url: "/wiki/entities/linkedin/"
