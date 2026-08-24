@@ -2,11 +2,15 @@
 title: "刘繇 / Liu Yao (late Han)"
 type: entity
 tags: [person, late-han, governor, jiangdong]
-sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
+sources: [zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
 last_updated: 2026-08-24
 ---
 
 # 刘繇 / Liu Yao (late Han)
+
+[[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] first introduces Liu Yao as the Han-appointed Yangzhou governor whose seat at [[Shouchun|寿春]] is unavailable because [[YuanShu|袁术]] holds it. Liu Yao therefore moves south of the Yangtze, initially accepts [[WuJingLateHan|吴景]] and [[SunBenLateHan|孙贲]] at [[QuALateHan|曲阿]], then expels them when he fears Yuan Shu and [[SunCe|孙策]] will swallow his position.
+
+The same source gives Liu Yao's first defense line. He stations [[FanNengLateHan|樊能]] and [[YuMiLateHan|于糜]] at [[HengjiangLateHan|横江]] and [[ZhangYingLateHan|张英]] at [[DanglikouLateHan|当利口]], while Yuan Shu counters by appointing [[HuiQuLateHan|惠衢]] and ordering an attack.
 
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] backfills Liu Yao as the Jiangdong power whose position makes [[YuanShu|袁术]] underestimate [[SunCe|孙策]]. Yuan Shu assumes Liu Yao's hold around Qu'a, together with [[WangLangLateHan|王朗]] in Kuaiji, will keep Sun Ce from succeeding after he leaves to help [[WuJingLateHan|吴景]] at [[HengjiangLateHan|横江]].
 
@@ -21,6 +25,7 @@ Xu Shao advises [[YuzhangCommandery|豫章郡]] instead because it keeps Liu Yao
 The page keeps Liu Yao source-scoped as a route-and-personnel judgment case. His plan has a coherent [[PoliticalSurvivalFirst|安全第一政治生存]] logic, but his use of Ze Rong shows how a correct geographic assessment can still fail when actor character is misread.
 
 ## Connections
+- [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], [[Shouchun|寿春]], [[QuALateHan|曲阿]], [[WuJingLateHan|吴景]], [[SunBenLateHan|孙贲]], [[FanNengLateHan|樊能]], [[YuMiLateHan|于糜]], [[ZhangYingLateHan|张英]], [[DanglikouLateHan|当利口]], and [[HuiQuLateHan|惠衢]] - first Yangzhou relocation and defensive-line setup.
 - [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[TaishiCi|太史慈]], [[ShentinglingBattle|神亭岭之战]], and [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] - status-filtered underuse of a military talent during Sun Ce's pressure.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[YuanShu|袁术]], [[SunCe|孙策]], [[WangLangLateHan|王朗]], [[WuJingLateHan|吴景]], and [[HengjiangLateHan|横江]] - Liu Yao as the expected obstacle Yuan Shu thinks will contain Sun Ce.
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - source episode.

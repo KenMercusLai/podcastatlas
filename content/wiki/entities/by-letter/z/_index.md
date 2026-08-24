@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7157
+wiki_total_pages: 7172
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "ZhouMing"
     title: "周明"
     url: "/wiki/entities/zhouming/"
+  - key: "ZhouXinLateHan"
+    title: "周昕 / Zhou Xin (late Han)"
+    url: "/wiki/entities/zhouxinlatehan/"
   - key: "ZhouXianwang"
     title: "周显王 / King Xian of Zhou"
     url: "/wiki/entities/zhouxianwang/"
@@ -569,6 +572,9 @@ wiki_pages:
   - key: "ZhangBaoLateHan"
     title: "张苞 / Zhang Bao (late Han)"
     url: "/wiki/entities/zhangbaolatehan/"
+  - key: "ZhangYingLateHan"
+    title: "张英 / Zhang Ying (late Han)"
+    url: "/wiki/entities/zhangyinglatehan/"
   - key: "ZhangFanLateHan"
     title: "张范 / Zhang Fan (late Han)"
     url: "/wiki/entities/zhangfanlatehan/"
@@ -719,6 +725,9 @@ wiki_pages:
   - key: "ZhiqingXiaojiuguan"
     title: "知青小酒馆 / Zhiqing Xiaojiuguan"
     url: "/wiki/entities/zhiqingxiaojiuguan/"
+  - key: "ZuLangLateHan"
+    title: "祖郎 / Zu Lang (late Han)"
+    url: "/wiki/entities/zulanglatehan/"
   - key: "ZhangPingQinGeneral"
     title: "章平 / Zhang Ping (Qin General)"
     url: "/wiki/entities/zhangpingqingeneral/"

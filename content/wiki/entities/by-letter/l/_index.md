@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7157
+wiki_total_pages: 7172
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "LiuYiSanlian"
     title: "刘仪 / Liu Yi"
     url: "/wiki/entities/liuyisanlian/"
+  - key: "LiuXunLateHan"
+    title: "刘勋 / Liu Xun (late Han)"
+    url: "/wiki/entities/liuxunlatehan/"
   - key: "LiuKefan"
     title: "刘可凡 / Liu Kefan"
     url: "/wiki/entities/liukefan/"
@@ -896,6 +899,9 @@ wiki_pages:
   - key: "LadyYinCaoCao"
     title: "尹夫人 / Lady Yin (Cao Cao)"
     url: "/wiki/entities/ladyyincaocao/"
+  - key: "LujiangCommandery"
+    title: "庐江郡 / Lujiang Commandery"
+    url: "/wiki/entities/lujiangcommandery/"
   - key: "LianPo"
     title: "廉颇 / Lian Po"
     url: "/wiki/entities/lianpo/"
@@ -1205,6 +1211,9 @@ wiki_pages:
   - key: "LuChuan"
     title: "陆川 / Lu Chuan"
     url: "/wiki/entities/luchuan/"
+  - key: "LuKangLateHan"
+    title: "陆康 / Lu Kang (late Han)"
+    url: "/wiki/entities/lukanglatehan/"
   - key: "LuYou"
     title: "陆游 / Lu You"
     url: "/wiki/entities/luyou/"

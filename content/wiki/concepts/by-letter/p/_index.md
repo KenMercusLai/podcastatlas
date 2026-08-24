@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5317
+wiki_total_pages: 5318
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1121,6 +1121,9 @@ wiki_pages:
   - key: "ProjectDrivenAICurriculum"
     title: "Project-Driven AI Curriculum"
     url: "/wiki/concepts/projectdrivenaicurriculum/"
+  - key: "PromiseCredibilityTalentRetention"
+    title: "Promise Credibility and Talent Retention / 承诺信用与人才流失"
+    url: "/wiki/concepts/promisecredibilitytalentretention/"
   - key: "PromotionAmbitionGap"
     title: "Promotion Ambition Gap"
     url: "/wiki/concepts/promotionambitiongap/"

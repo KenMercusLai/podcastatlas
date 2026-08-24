@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板](sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s.md) — 芮淇讲透资治通鉴 episode on Sun Ce's early dependency on Yuan Shu, Zhang Hong's entrusted-family role, Danyang recruitment, Lu Kang's Lujiang refusal, Yuan Shu's broken Jiujiang/Lujiang promises, and Liu Yao's first Yangzhou defenses.
 - [《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？](sources/zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5.md) — 芮淇讲透资治通鉴 episode on Fan Chou's purge after Li Li reports his Han Sui contact, Sanfu famine and plunder, Guo Si's wife stoking poison suspicion, and Li Jue's preemptive seizure of Emperor Xian.
 - [《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究](sources/zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk.md) — 芮淇讲透资治通鉴 episode on Li Jue holding Emperor Xian, Guo Si holding ministers, Yang Biao's hostage-banquet rebuke, Qiang-Hu recruitment, camp arson/defection, and the emperor's food humiliation in Beiwu.
 - [《资治通鉴·汉纪》986丨天欲其亡，必先令其狂](sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd.md) — 芮淇讲透资治通鉴 episode on Li Jue rejecting court mediation and raging at remonstrance, Huangfu Li's near-fatal warning, Cao Cao killing Lü Bu's Juye commanders, and the Xuzhou temptation after Tao Qian's death.
@@ -1388,6 +1389,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family military actor whom Yuan Shu uses with Wu Jing to reach Danyang and support Sun Ce's early recruitment.
+- [孙河 / Sun He (late Han)](entities/SunHeLateHan.md) — Early Sun Ce companion named with Lu Fan during the Danyang recruitment phase.
+- [陆康 / Lu Kang (late Han)](entities/LuKangLateHan.md) — Lujiang administrator whose refusal of Yuan Shu's grain demand triggers Sun Ce's campaign and Yuan Shu's broken Lujiang promise.
+- [庐江郡 / Lujiang Commandery](entities/LujiangCommandery.md) — Commandery promised to Sun Ce after the Lu Kang campaign but awarded to Liu Xun.
+- [祖郎 / Zu Lang (late Han)](entities/ZuLangLateHan.md) — Danyang local strongman who attacks Sun Ce near Jing County.
+- [泾县 / Jing County (late Han)](entities/JingCountyLateHan.md) — Danyang county where Zu Lang nearly kills Sun Ce during the early Jiangdong entry.
+- [曲阿 / Qu'a (late Han)](entities/QuALateHan.md) — Jiangdong site for Sun Ce's early Danyang recruitment and Liu Yao's later southern refuge.
+- [周昕 / Zhou Xin (late Han)](entities/ZhouXinLateHan.md) — Yuan Shao-leaning Danyang figure used by Hanji 983 to explain Yuan Shu's appointment pressure.
+- [陈纪 / Chen Ji (late Han)](entities/ChenJiLateHan.md) — Yuan Shu appointee to Jiujiang after the office had been promised to Sun Ce.
+- [刘勋 / Liu Xun (late Han)](entities/LiuXunLateHan.md) — Yuan Shu appointee to Lujiang after Sun Ce defeats Lu Kang.
+- [樊能 / Fan Neng (late Han)](entities/FanNengLateHan.md) — Liu Yao officer sent with Yu Mi to guard Hengjiang.
+- [于糜 / Yu Mi (late Han)](entities/YuMiLateHan.md) — Liu Yao officer paired with Fan Neng at Hengjiang.
+- [张英 / Zhang Ying (late Han)](entities/ZhangYingLateHan.md) — Liu Yao officer guarding Danglikou against Yuan Shu's side.
+- [当利口 / Danglikou (late Han)](entities/DanglikouLateHan.md) — Liu Yao defensive position held by Zhang Ying.
+- [惠衢 / Hui Qu (late Han)](entities/HuiQuLateHan.md) — Yuan Shu's counter-appointee for Yangzhou during the clash with Liu Yao.
 - [兖州 / Yanzhou (Late Han)](entities/YanzhouLateHan.md) — Cao Cao's contested root base in Hanji 987, later formalized through the Yongqiu/Yanzhou branch and remembered through the Zhang Miao-Zang Hong aftershock.
 - [定陶之战 (195 CE) / Dingtao Battle (Late Han)](entities/DingtaoBattleLateHan.md) — Late-Han battle where Cao Cao uses terrain and伏兵 to defeat Lü Bu after choosing to secure Yanzhou.
 - [严氏 / Lady Yan (Lü Bu)](entities/LadyYanLyuBu.md) — Lü Bu's wife in Hanji 987's reception scene, where seating Liu Bei on her bed marks a public/private etiquette breach.
@@ -8549,6 +8565,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Promise Credibility and Talent Retention / 承诺信用与人才流失](concepts/PromiseCredibilityTalentRetention.md) — Hanji 983 pattern where Yuan Shu's repeated office-promise reversals make Sun Ce's later exit from his camp intelligible as a trust failure.
 - [Root-Base Priority / 根本根据地优先](concepts/RootBasePriority.md) — Xun Yu's Hanji 987 principle that Cao Cao must secure Yanzhou's harvest, people, rear safety, and fallback capacity before chasing Xuzhou.
 - [Status-Filtered Talent Misrecognition / 门第筛选式人才误判](concepts/StatusFilteredTalentMisrecognition.md) — Hanji 993 personnel failure where status, reputation anxiety, and elite judgment block available talent from receiving usable authority.
 - [Operational Gap Ownership / 主动补组织短板](concepts/OperationalGapOwnership.md) — Management pattern where a capable subordinate notices an organizational gap and voluntarily takes responsibility for unglamorous execution work.

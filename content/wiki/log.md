@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板
+
+Added source page for a 芮淇讲透资治通鉴 episode on Sun Ce's early dependency on Yuan Shu, Zhang Hong's family-entrustment role, Yuan Shu's Danyang appointment strategy through Wu Jing and Sun Ben, Zu Lang's attack near Jing County, Lu Kang's refusal of Yuan Shu's grain demand, and Yuan Shu's broken Jiujiang/Lujiang office promises to Sun Ce. Created pages for Sun Ben, Sun He, Lu Kang, Lujiang Commandery, Zu Lang, Jing County, Qu'a, Zhou Xin, Chen Ji, Liu Xun, Fan Neng, Yu Mi, Zhang Ying, Danglikou, Hui Qu, and Promise Credibility and Talent Retention; updated overview, index, Sun Ce, Yuan Shu, Zhang Hong, Wu Jing, Danyang Commandery, Liu Yao, Shouchun, Jiujiang Commandery, Hengjiang, Guangling Commandery, Lu Fan, Sun Jian, and Small Trust Builds Large Trust. No settled contradiction found; the source's Jian'an 1 / 196 CE opening is kept as source-scoped chronology compression for setup material that existing pages place before Sun Ce's 195 CE Jiangdong crossing.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Fan Chou's purge inside the Liangzhou warlord bloc, Li Li's report on Fan Chou's Han Sui contact, Sanfu famine and plunder, Guo Si's wife's poison insinuation, failed Emperor Xian mediation, Li Xian's palace seizure, and Li Jue's burning of Chang'an offices and homes. Created pages for Liangzhou Warlord Clique, Fan Chou, Li Li, Guo Si's Wife, Li Xian, Hu Feng, and Military Prestige Threat Purge; updated overview, index, Li Jue, Guo Si, Emperor Xian of Han, Chang'an, Guanzhong, Ma Teng, Han Sui, Jia Xu, Dual Executive Power Risk, Interest-Structured Alliance Fragility, Protector-Captor Ambiguity, War-Disaster Compounding, and Famine Entitlement Failure. No settled contradiction found; Fan Chou's death mechanism is preserved as source-variant rather than resolved.
@@ -11077,6 +11081,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》986丨天欲其亡，必先令其狂
 
 Added source page for a 芮淇讲透资治通鉴 episode on Li Jue rejecting Emperor Xian's mediation, Zhao Wen and Huangfu Li's dangerous remonstrance, Wang Chang sparing Huangfu Li, Cao Cao's Juye/Yanzhou ambush against Lü Bu, and Cao Cao's temptation to attack Xuzhou after Tao Qian's death. Created pages for Zhao Wen, Huangfu Li, Wang Chang, Xue Lan, and Li Feng; updated index and connected late-Han entity/concept pages. No settled contradiction found; Li Jue's psychology and the title judgment are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

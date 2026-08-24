@@ -8611,6 +8611,10 @@
     "title": "陈恢 / Chen Hui (Nanyang)",
     "url": "/wiki/entities/chenhuinanyang/"
   },
+  "ChenJiLateHan": {
+    "title": "陈纪 / Chen Ji (late Han)",
+    "url": "/wiki/entities/chenjilatehan/"
+  },
   "ChenJiaWarringStates": {
     "title": "陈甲 / Chen Jia (Warring States)",
     "url": "/wiki/entities/chenjiawarringstates/"
@@ -11746,6 +11750,10 @@
   "DangerousVisions": {
     "title": "Dangerous Visions",
     "url": "/wiki/entities/dangerousvisions/"
+  },
+  "DanglikouLateHan": {
+    "title": "当利口 / Danglikou (late Han)",
+    "url": "/wiki/entities/danglikoulatehan/"
   },
   "DanielAckerman": {
     "title": "Daniel Ackerman",
@@ -15490,6 +15498,10 @@
   "FanMin": {
     "title": "Fan Min",
     "url": "/wiki/entities/fanmin/"
+  },
+  "FanNengLateHan": {
+    "title": "樊能 / Fan Neng (late Han)",
+    "url": "/wiki/entities/fannenglatehan/"
   },
   "FanQiLuWanEnvoy": {
     "title": "范齐 / Fan Qi (Lu Wan envoy)",
@@ -21139,6 +21151,10 @@
     "title": "Hugo Mann",
     "url": "/wiki/entities/hugomann/"
   },
+  "HuiQuLateHan": {
+    "title": "惠衢 / Hui Qu (late Han)",
+    "url": "/wiki/entities/huiqulatehan/"
+  },
   "HuiShi": {
     "title": "惠施 / Hui Shi",
     "url": "/wiki/entities/huishi/"
@@ -23594,6 +23610,10 @@
   "JingChuSuiShiJi": {
     "title": "《荆楚岁时记》 / Jingchu Suishi Ji",
     "url": "/wiki/entities/jingchusuishiji/"
+  },
+  "JingCountyLateHan": {
+    "title": "泾县 / Jing County (late Han)",
+    "url": "/wiki/entities/jingcountylatehan/"
   },
   "JingFang": {
     "title": "Jing Fang / 京房",
@@ -26743,6 +26763,10 @@
     "title": "Liu Xiu / 刘秀",
     "url": "/wiki/entities/liuxiu/"
   },
+  "LiuXunLateHan": {
+    "title": "刘勋 / Liu Xun (late Han)",
+    "url": "/wiki/entities/liuxunlatehan/"
+  },
   "LiuYangyang": {
     "title": "刘洋洋 / Liu Yangyang",
     "url": "/wiki/entities/liuyangyang/"
@@ -27407,6 +27431,10 @@
     "title": "鲁景公 / Duke Jing of Lu",
     "url": "/wiki/entities/lujinggong/"
   },
+  "LuKangLateHan": {
+    "title": "陆康 / Lu Kang (late Han)",
+    "url": "/wiki/entities/lukanglatehan/"
+  },
   "LuKanggong": {
     "title": "鲁康公 / Duke Kang of Lu",
     "url": "/wiki/entities/lukanggong/"
@@ -27574,6 +27602,10 @@
   "LuigiGalvani": {
     "title": "Luigi Galvani / 路易吉·伽伐尼",
     "url": "/wiki/entities/luigigalvani/"
+  },
+  "LujiangCommandery": {
+    "title": "庐江郡 / Lujiang Commandery",
+    "url": "/wiki/entities/lujiangcommandery/"
   },
   "LulinRebellion": {
     "title": "Lulin / 绿林",
@@ -35463,6 +35495,10 @@
     "title": "Prometheus / 普罗米修斯",
     "url": "/wiki/entities/prometheus/"
   },
+  "PromiseCredibilityTalentRetention": {
+    "title": "Promise Credibility and Talent Retention / 承诺信用与人才流失",
+    "url": "/wiki/concepts/promisecredibilitytalentretention/"
+  },
   "PromotionAmbitionGap": {
     "title": "Promotion Ambition Gap",
     "url": "/wiki/concepts/promotionambitiongap/"
@@ -36286,6 +36322,10 @@
   "QizhulouYanBinke": {
     "title": "起朱楼宴宾客 / Qizhulou Yan Binke",
     "url": "/wiki/entities/qizhulouyanbinke/"
+  },
+  "QuALateHan": {
+    "title": "曲阿 / Qu'a (late Han)",
+    "url": "/wiki/entities/qualatehan/"
   },
   "QuFang": {
     "title": "曲芳 / Qu Fang",
@@ -42319,6 +42359,10 @@
     "title": "Summit Therapeutics",
     "url": "/wiki/entities/summittherapeutics/"
   },
+  "SunBenLateHan": {
+    "title": "孙贲 / Sun Ben (late Han)",
+    "url": "/wiki/entities/sunbenlatehan/"
+  },
   "SunBin": {
     "title": "孙膑 / Sun Bin",
     "url": "/wiki/entities/sunbin/"
@@ -42342,6 +42386,10 @@
   "SunChuanfang": {
     "title": "Sun Chuanfang / 孙传芳",
     "url": "/wiki/entities/sunchuanfang/"
+  },
+  "SunHeLateHan": {
+    "title": "孙河 / Sun He (late Han)",
+    "url": "/wiki/entities/sunhelatehan/"
   },
   "SunJian": {
     "title": "Sun Jian",
@@ -49463,6 +49511,10 @@
     "title": "游凯超 / Kaichao Yu",
     "url": "/wiki/entities/yukaichao/"
   },
+  "YuMiLateHan": {
+    "title": "于糜 / Yu Mi (late Han)",
+    "url": "/wiki/entities/yumilatehan/"
+  },
   "YuQiRebellion": {
     "title": "于七之乱 / Yu Qi Rebellion",
     "url": "/wiki/entities/yuqirebellion/"
@@ -50086,6 +50138,10 @@
   "ZhangYiming": {
     "title": "Zhang Yiming",
     "url": "/wiki/entities/zhangyiming/"
+  },
+  "ZhangYingLateHan": {
+    "title": "张英 / Zhang Ying (late Han)",
+    "url": "/wiki/entities/zhangyinglatehan/"
   },
   "ZhangYizhen": {
     "title": "张一贞",
@@ -50731,6 +50787,10 @@
     "title": "周孝王 / King Xiao of Zhou",
     "url": "/wiki/entities/zhouxiaowang/"
   },
+  "ZhouXinLateHan": {
+    "title": "周昕 / Zhou Xin (late Han)",
+    "url": "/wiki/entities/zhouxinlatehan/"
+  },
   "ZhouXinian": {
     "title": "Zhou Xinian / 周希年",
     "url": "/wiki/entities/zhouxinian/"
@@ -51018,6 +51078,10 @@
   "ZouYan": {
     "title": "Zou Yan / 邹衍",
     "url": "/wiki/entities/zouyan/"
+  },
+  "ZuLangLateHan": {
+    "title": "祖郎 / Zu Lang (late Han)",
+    "url": "/wiki/entities/zulanglatehan/"
   },
   "ZuoChengzu": {
     "title": "左承祖 / Zuo Chengzu",
@@ -54486,6 +54550,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s": {
+    "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s/"
   },
   "zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5": {
     "title": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？",

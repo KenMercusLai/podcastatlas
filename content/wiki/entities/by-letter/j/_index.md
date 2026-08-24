@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7157
+wiki_total_pages: 7172
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "JuShou"
     title: "沮授 / Ju Shou"
     url: "/wiki/entities/jushou/"
+  - key: "JingCountyLateHan"
+    title: "泾县 / Jing County (late Han)"
+    url: "/wiki/entities/jingcountylatehan/"
   - key: "JingyangJunQin"
     title: "泾阳君 / Jingyang Jun (Qin)"
     url: "/wiki/entities/jingyangjunqin/"

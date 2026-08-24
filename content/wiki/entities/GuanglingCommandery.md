@@ -2,11 +2,13 @@
 title: "广陵 / Guangling Commandery"
 type: entity
 tags: [place, commandery, late-han, anti-qin]
-sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2]
+sources: [zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2]
 last_updated: 2026-08-24
 ---
 
 # 广陵 / Guangling Commandery
+
+[[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] adds a family-trust use before later military and administrative branches. [[SunCe|孙策]] entrusts his mother and younger siblings to [[ZhangHongLateHan|张纮]] in Guangling before going to [[Shouchun|寿春]] to serve [[YuanShu|袁术]]. In this source, Guangling is less a command base than a safe social location for Sun Ce's household while he seeks troops and office.
 
 广陵 / Guangling Commandery enters the late-Han wiki branch through [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], where [[CaoCao|曹操]] appoints [[ChenDeng|陈登]] as Guangling administrator after Chen Deng's judgment of [[LyuBu|吕布]]. The episode treats the appointment as strategic rather than merely honorary: Chen Deng is said to train soldiers, store grain, and recruit Jiang-Huai local elites there.
 
@@ -19,6 +21,7 @@ The page also connects to an earlier anti-Qin use. [[zizhi-tongjian-qinji-130-1-
 [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] adds another late-Han note before the Chen Deng branch. [[ZhangChaoLateHan|张超]] had served as Guangling administrator when [[ZangHong|臧洪]] was his subordinate, so Guangling becomes the remembered office relationship behind Zang Hong's later attempt to rescue Zhang Chao at [[YongqiuLateHan|雍丘]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], [[SunCe|孙策]], [[ZhangHongLateHan|张纮]], and [[Shouchun|寿春]] - family entrustment before Sun Ce enters Yuan Shu's camp.
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[ZeRong|笮融]], [[ZhaoYuLateHan|赵昱]], [[TaoQianLateHan|陶谦]], and [[HospitalityPredation|接纳者掠杀]] - reception, murder, and plunder branch.
 - [[ChenDeng|陈登]], [[ChenGui|陈珪]], [[CaoCao|曹操]], and [[LyuBu|吕布]] - late-Han appointment and inside-channel branch.
 - [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[ZhangChaoLateHan|张超]], [[ZangHong|臧洪]], and [[YongqiuLateHan|雍丘]] - earlier Guangling service relationship that motivates the later rescue demand.

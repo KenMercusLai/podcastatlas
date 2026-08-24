@@ -2,7 +2,7 @@
 title: "Small Trust Builds Large Trust / 小信诚则大信立"
 type: concept
 tags: [statecraft, trust, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+sources: [zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-20
 ---
 
@@ -20,6 +20,8 @@ The same source distinguishes moral and instrumental trust. Confucian statecraft
 
 [[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] adds an explicit Wangba formulation through [[Xunzi|荀子]]. In the episode's summary, a ruler who cannot yet reach full ritual-righteous order may still become a hegemon if commands, rewards, punishments, and treaties are trusted. This turns credibility into the hinge between ordered power and manipulative collapse in [[XunzianWangbaThreePaths|荀子王霸三分法]].
 
+[[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] adds a late-Han talent-retention version through [[YuanShu|袁术]] and [[SunCe|孙策]]. Yuan Shu's broken promises over [[JiujiangCommandery|九江郡]] and [[LujiangCommandery|庐江郡]] are smaller than formal state treaties, but they still teach a capable subordinate that the leader's word is unsafe. The source therefore narrows the principle into [[PromiseCredibilityTalentRetention|承诺信用与人才流失]]: minor or medium promises around offices can decide whether talent keeps serving.
+
 ## Key Claims
 - Minor promises function as public tests of whether a ruler's word means anything.
 - State credibility is damaged when a government changes promised terms after people rely on them.
@@ -29,6 +31,7 @@ The same source distinguishes moral and instrumental trust. Confucian statecraft
 - The Zhouji 13 part 2 cases show that trust can override short-term advantage in coercion, siege, appointment, and reform contexts.
 - Confucian and Legalist trust differ in justification, but both require visible consistency between promise and action.
 - Zhouji 71 adds trust as the minimum condition for legitimate hegemony: without it, power slides from 霸业 toward deception-driven ruin.
+- Hanji 983 adds that leader-subordinate promises can have statecraft consequences when a mobile military talent leaves after repeated non-delivery.
 
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler used for the hunting-appointment example.
@@ -40,3 +43,4 @@ The same source distinguishes moral and instrumental trust. Confucian statecraft
 - [[XimuLixin]], [[ShangYangReforms]], and [[LegalistRulerTechnique]] - Qin reform credibility branch.
 - [[SocialTrustAsStateCapacity]] - broader wiki frame for trust as a governance asset.
 - [[Xunzi|荀子]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 Wangba trust extension.
+- [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], [[YuanShu|袁术]], [[SunCe|孙策]], [[JiujiangCommandery|九江郡]], [[LujiangCommandery|庐江郡]], and [[PromiseCredibilityTalentRetention|承诺信用与人才流失]] - late-Han office-promise and talent-retention version.
