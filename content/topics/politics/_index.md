@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1807
+topic_total_pages: 1808
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2854,6 +2854,9 @@ topic_concepts:
   - key: "SecretMemorialPoliticalIntelligence"
     title: "密折政治情报 / Secret Memorial Political Intelligence"
     url: "/wiki/concepts/secretmemorialpoliticalintelligence/"
+  - key: "InstrumentalizedReligiousPower"
+    title: "工具化宗教权力 / Instrumentalized Religious Power"
+    url: "/wiki/concepts/instrumentalizedreligiouspower/"
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"

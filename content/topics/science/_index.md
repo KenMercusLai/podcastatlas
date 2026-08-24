@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 720
+topic_total_pages: 721
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1141,6 +1141,9 @@ topic_concepts:
   - key: "SubjectiveRealityConstruction"
     title: "Subjective Reality Construction / 主观现实建构"
     url: "/wiki/concepts/subjectiverealityconstruction/"
+  - key: "SubordinateSuccessNonJealousy"
+    title: "Subordinate Success Non-Jealousy / 下属成就不嫉妒"
+    url: "/wiki/concepts/subordinatesuccessnonjealousy/"
   - key: "SubstanceAndExtension"
     title: "Substance And Extension"
     url: "/wiki/concepts/substanceandextension/"
