@@ -13,6 +13,10 @@ from html.parser import HTMLParser
 from urllib.parse import quote, unquote, urljoin, urlsplit
 
 
+ROOT = Path(__file__).resolve().parents[1]
+SHOW_PROFILES_PATH = ROOT / "data" / "show_profiles.json"
+
+
 REQUIRED_FILES = (
     "index.html",
     "index.xml",
@@ -85,11 +89,17 @@ OG_URL_RE = re.compile(
     r'\bcontent=(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))',
     re.I,
 )
+OG_TITLE_RE = re.compile(
+    r'<meta\b(?=[^>]*\bproperty=["\']og:title["\'])[^>]*'
+    r'\bcontent=(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))',
+    re.I,
+)
 DESCRIPTION_RE = re.compile(
     r'<meta\b(?=[^>]*\bname=(?:["\']description["\']|description))[^>]*'
     r'\bcontent=(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))',
     re.I,
 )
+TITLE_RE = re.compile(r"<title>(.*?)</title>", re.I | re.DOTALL)
 
 
 def extracted_attribute(match: re.Match | None) -> str | None:
@@ -261,6 +271,13 @@ class MarkerParser(HTMLParser):
                 "controlled-topic-entry",
                 "wiki-topic-link",
                 "legacy-tag-page",
+                "show-directory-link",
+                "show-identity",
+                "show-latest-episode",
+                "show-topic-link",
+                "show-start-link",
+                "show-entity-link",
+                "show-archive-link",
             }
         ):
             attributes["_tag"] = tag
@@ -275,6 +292,36 @@ def marked_elements(page_html: str, class_name: str) -> list[dict[str, str]]:
         for attributes in parser.elements
         if class_name in attributes.get("class", "").split()
     ]
+
+
+class MarkedLinkTextParser(HTMLParser):
+    def __init__(self, class_name: str) -> None:
+        super().__init__(convert_charrefs=True)
+        self.class_name = class_name
+        self.current: list[str] | None = None
+        self.texts: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "a" or self.current is not None:
+            return
+        attributes = {name: value or "" for name, value in attrs}
+        if self.class_name in attributes.get("class", "").split():
+            self.current = []
+
+    def handle_data(self, data: str) -> None:
+        if self.current is not None:
+            self.current.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() == "a" and self.current is not None:
+            self.texts.append("".join(self.current).strip())
+            self.current = None
+
+
+def marked_link_texts(page_html: str, class_name: str) -> list[str]:
+    parser = MarkedLinkTextParser(class_name)
+    parser.feed(page_html)
+    return parser.texts
 
 
 class LegacyTagMetadataParser(HTMLParser):
@@ -672,6 +719,225 @@ def internal_wiki_target(public_dir: Path, href: str) -> Path | None:
     return target
 
 
+def internal_section_target(public_dir: Path, href: str, section: str) -> Path | None:
+    url_path = local_route_path(href)
+    if url_path is None:
+        return None
+    marker = f"/{section}/"
+    if url_path.count(marker) != 1:
+        return None
+    tail = url_path.rsplit(marker, 1)[1].strip("/")
+    if not tail or "/" in tail:
+        return None
+    section_root = (public_dir / section).resolve()
+    target = (section_root / tail / "index.html").resolve()
+    if section_root not in target.parents:
+        return None
+    return target
+
+
+def href_matches_project_route(href: str, expected_route: str) -> bool:
+    url_path = local_route_path(href)
+    return bool(url_path and url_path.endswith(expected_route))
+
+
+def integer_attribute(attributes: dict[str, str], name: str) -> int | None:
+    value = attributes.get(name, "")
+    return int(value) if re.fullmatch(r"0|[1-9][0-9]*", value) else None
+
+
+def validate_show_profiles(public_dir: Path, payload: dict, errors: list[str]) -> None:
+    if not isinstance(payload, dict):
+        errors.append("invalid generated show profile projection")
+        return
+    shows = payload.get("shows")
+    if payload.get("version") != 1 or not isinstance(shows, dict) or not shows:
+        errors.append("invalid generated show profile projection")
+        return
+
+    landing_path = public_dir / "shows" / "index.html"
+    if not landing_path.is_file():
+        return
+    landing_html = landing_path.read_text(encoding="utf-8")
+    directory_links = marked_elements(landing_html, "show-directory-link")
+    directory_titles = marked_link_texts(landing_html, "show-directory-link")
+    if len(directory_titles) != len(directory_links):
+        errors.append("Show directory visible title count mismatch")
+    routes: dict[str, str] = {}
+    for index, link in enumerate(directory_links):
+        title = link.get("data-show-title", "")
+        href = link.get("href", "")
+        if not title or title in routes:
+            errors.append(f"duplicate or empty Show directory title: {title!r}")
+            continue
+        routes[title] = href
+        visible_title = directory_titles[index] if index < len(directory_titles) else ""
+        if visible_title != title:
+            errors.append(f"Show directory visible title mismatch: {title!r}")
+    if set(routes) != set(shows):
+        errors.append(
+            "Show directory/profile set mismatch: "
+            f"missing {sorted(set(shows) - set(routes))}, extra {sorted(set(routes) - set(shows))}"
+        )
+
+    for title, profile in shows.items():
+        href = routes.get(title)
+        if href is None:
+            continue
+        show_path = internal_section_target(public_dir, href, "shows")
+        if show_path is None or not show_path.is_file():
+            errors.append(f"Show {title} has invalid or missing directory target")
+            continue
+        page_html = show_path.read_text(encoding="utf-8")
+        title_match = TITLE_RE.search(page_html)
+        document_title = html.unescape(title_match.group(1)).strip() if title_match else ""
+        if not document_title.startswith(f"{title} | "):
+            errors.append(f"Show {title} document title does not preserve exact identity")
+        open_graph_title = extracted_attribute(OG_TITLE_RE.search(page_html)) or ""
+        if not open_graph_title.startswith(f"{title} | "):
+            errors.append(f"Show {title} Open Graph title does not preserve exact identity")
+        schema_scripts = JSON_LD_RE.findall(page_html)
+        try:
+            schema = json.loads(html.unescape(schema_scripts[0])) if len(schema_scripts) == 1 else None
+        except json.JSONDecodeError:
+            schema = None
+        if (
+            not isinstance(schema, dict)
+            or schema.get("@type") != "PodcastSeries"
+            or schema.get("name") != title
+        ):
+            errors.append(f"Show {title} PodcastSeries name does not preserve exact identity")
+        markers = marked_elements(page_html, "show-identity")
+        if len(markers) != 1:
+            errors.append(
+                f"Show {title} identity marker count mismatch: expected 1, found {len(markers)}"
+            )
+            continue
+        marker = markers[0]
+        if marker.get("data-show-profile") != "controlled":
+            errors.append(f"Show {title} has invalid profile provenance marker")
+        for attribute, profile_key in (
+            ("data-episode-count", "episode_count"),
+            ("data-source-note-count", "source_note_count"),
+            ("data-topic-matched-source-note-count", "topic_matched_source_note_count"),
+        ):
+            if integer_attribute(marker, attribute) != profile.get(profile_key):
+                errors.append(f"Show {title} {profile_key.replace('_', ' ')} mismatch")
+        for attribute, profile_key in (
+            ("data-earliest-episode-date", "earliest_episode_date"),
+            ("data-latest-episode-date", "latest_episode_date"),
+        ):
+            if marker.get(attribute) != profile.get(profile_key):
+                errors.append(f"Show {title} {profile_key.replace('_', ' ')} mismatch")
+
+        latest_links = marked_elements(page_html, "show-latest-episode")
+        if len(latest_links) != 1:
+            errors.append(f"Show {title} latest episode marker count mismatch")
+        else:
+            latest = latest_links[0]
+            latest_target = internal_section_target(
+                public_dir, latest.get("href", ""), "episodes"
+            )
+            if latest.get("data-episode-file") != profile.get("latest_episode_file"):
+                errors.append(f"Show {title} latest episode file mismatch")
+            if latest_target is None or not latest_target.is_file():
+                errors.append(f"Show {title} latest episode target is invalid")
+
+        topic_links = marked_elements(page_html, "show-topic-link")
+        expected_topics = profile.get("topics", [])
+        if [item.get("data-topic-key") for item in topic_links] != [
+            item.get("key") for item in expected_topics
+        ]:
+            errors.append(f"Show {title} controlled topic order mismatch")
+        for actual, expected in zip(topic_links, expected_topics):
+            key = expected.get("key")
+            if integer_attribute(actual, "data-source-note-count") != expected.get(
+                "source_note_count"
+            ):
+                errors.append(f"Show {title} topic {key} source-note count mismatch")
+            if not href_matches_project_route(actual.get("href", ""), expected.get("url", "")):
+                errors.append(f"Show {title} topic {key} has invalid link")
+            topic_target = internal_section_target(
+                public_dir, actual.get("href", ""), "topics"
+            )
+            if topic_target is None or not topic_target.is_file():
+                errors.append(f"Show {title} topic {key} target is missing")
+
+        start_links = marked_elements(page_html, "show-start-link")
+        expected_start = profile.get("start_here_episode_files", [])
+        if [item.get("data-episode-file") for item in start_links] != expected_start:
+            errors.append(f"Show {title} Start here episode sequence mismatch")
+        for link in start_links:
+            target = internal_section_target(public_dir, link.get("href", ""), "episodes")
+            if target is None or not target.is_file():
+                errors.append(f"Show {title} Start here target is invalid")
+
+        entity_links = marked_elements(page_html, "show-entity-link")
+        expected_entities = profile.get("entities", [])
+        if [item.get("data-entity-key") for item in entity_links] != [
+            item.get("key") for item in expected_entities
+        ]:
+            errors.append(f"Show {title} entity order mismatch")
+        for actual, expected in zip(entity_links, expected_entities):
+            key = expected.get("key")
+            if actual.get("data-entity-kind") != expected.get("kind"):
+                errors.append(f"Show {title} entity {key} kind mismatch")
+            if integer_attribute(actual, "data-episode-count") != expected.get(
+                "episode_count"
+            ):
+                errors.append(f"Show {title} entity {key} episode count mismatch")
+            if not href_matches_project_route(actual.get("href", ""), expected.get("url", "")):
+                errors.append(f"Show {title} entity {key} has invalid link")
+            entity_target = internal_wiki_target(public_dir, actual.get("href", ""))
+            if entity_target is None or not entity_target.is_file():
+                errors.append(f"Show {title} entity {key} target is missing")
+
+        archive_links = marked_elements(page_html, "show-archive-link")
+        if len(archive_links) != profile.get("episode_count"):
+            errors.append(
+                f"Show {title} complete archive count mismatch: "
+                f"expected {profile.get('episode_count')}, found {len(archive_links)}"
+            )
+        archive_hrefs = [item.get("href", "") for item in archive_links]
+        if len(archive_hrefs) != len(set(archive_hrefs)):
+            errors.append(f"Show {title} complete archive contains duplicate episodes")
+        expected_show_path = local_route_path(href)
+        for archive_href in archive_hrefs:
+            target = internal_section_target(public_dir, archive_href, "episodes")
+            if target is None or not target.is_file():
+                errors.append(f"Show {title} complete archive target is invalid")
+                continue
+            episode_html = target.read_text(encoding="utf-8")
+            scripts = JSON_LD_RE.findall(episode_html)
+            if len(scripts) != 1:
+                errors.append(f"Show {title} complete archive episode ownership is unverifiable")
+                continue
+            try:
+                episode_payload = json.loads(html.unescape(scripts[0]))
+                series = episode_payload.get("partOfSeries")
+                series_url = series.get("url") if isinstance(series, dict) else None
+                series_name = series.get("name") if isinstance(series, dict) else None
+                series_path = (
+                    unquote(urlsplit(series_url).path)
+                    if isinstance(series_url, str)
+                    else None
+                )
+            except (TypeError, ValueError, json.JSONDecodeError):
+                errors.append(f"Show {title} complete archive episode ownership is unverifiable")
+                continue
+            if series_path is None:
+                errors.append(f"Show {title} complete archive episode ownership is unverifiable")
+                continue
+            if series_path != expected_show_path:
+                errors.append(
+                    f"Show {title} complete archive contains an episode owned by another Show"
+                )
+            if series_name != title:
+                errors.append(
+                    f"Show {title} complete archive episode does not preserve exact series identity"
+                )
+
+
 def validate_controlled_topics(public_dir: Path, errors: list[str]) -> None:
     topics_dir = public_dir / "topics"
     if not topics_dir.is_dir():
@@ -982,6 +1248,12 @@ def validate(public_dir: Path) -> dict:
     validate_current_synthesis(public_dir, errors)
     validate_controlled_topics(public_dir, errors)
     validate_legacy_tags(public_dir, errors)
+    try:
+        show_profiles = json.loads(SHOW_PROFILES_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        errors.append(f"invalid generated show profile projection: {error}")
+    else:
+        validate_show_profiles(public_dir, show_profiles, errors)
 
     homepage = public_dir / "index.html"
     homepage_canonical = None

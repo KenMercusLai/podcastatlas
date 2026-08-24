@@ -1,0 +1,20 @@
+{{- $showName := .Title -}}
+{{- with .Params.show -}}
+  {{- if reflect.IsSlice . -}}
+    {{- $showName = index . 0 -}}
+  {{- else -}}
+    {{- $showName = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (eq .Kind "term") (eq .Data.Singular "show") -}}
+  {{- with index .Pages 0 -}}
+    {{- with .Params.show -}}
+      {{- if reflect.IsSlice . -}}
+        {{- $showName = index . 0 -}}
+      {{- else -}}
+        {{- $showName = . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $showName -}}

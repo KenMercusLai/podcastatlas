@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest import mock
 from urllib.parse import urlsplit
 
 
@@ -135,6 +136,176 @@ def synthesis_html_fragments(
 
 
 class VerifyPagesOutputTest(unittest.TestCase):
+    def test_full_artifact_validation_invokes_show_profile_validation(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            public = root / "public"
+            public.mkdir()
+            projection = root / "show_profiles.json"
+            projection.write_text('{"version": 1, "shows": {"Example": {}}}', encoding="utf-8")
+            with (
+                mock.patch.object(verifier, "SHOW_PROFILES_PATH", projection),
+                mock.patch.object(verifier, "validate_show_profiles") as show_validator,
+            ):
+                verifier.validate(public)
+            self.assertEqual(1, show_validator.call_count)
+            self.assertEqual({"version": 1, "shows": {"Example": {}}}, show_validator.call_args.args[1])
+
+    def test_show_profile_verifier_checks_directory_routes_and_source_derived_markers(self):
+        verifier = load_verifier()
+        profiles = {
+            "version": 1,
+            "shows": {
+                "Example Show": {
+                    "episode_count": 2,
+                    "earliest_episode_date": "2026-01-01",
+                    "latest_episode_date": "2026-02-01",
+                    "latest_episode_file": "b.md",
+                    "source_note_count": 2,
+                    "topic_matched_source_note_count": 2,
+                    "topics": [
+                        {"key": "technology", "label": "Technology", "url": "/topics/technology/", "source_note_count": 2}
+                    ],
+                    "entities": [
+                        {"key": "Alice", "title": "Alice", "url": "/wiki/entities/alice/", "kind": "person", "episode_count": 2}
+                    ],
+                    "start_here_episode_files": ["b.md", "a.md"],
+                }
+            },
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "shows/index.html",
+                '<a class="show-directory-link" data-show-title="Example Show" href="/project/shows/example/">Example Show</a>',
+            )
+            valid_show = (
+                '<title>Example Show | Podcast Atlas</title>'
+                '<meta property="og:title" content="Example Show | Podcast Atlas">'
+                '<script type="application/ld+json">'
+                '{"@type":"PodcastSeries","name":"Example Show"}'
+                '</script>'
+                '<article class="show-identity" data-show-profile="controlled" '
+                'data-episode-count="2" data-earliest-episode-date="2026-01-01" '
+                'data-latest-episode-date="2026-02-01" data-source-note-count="2" '
+                'data-topic-matched-source-note-count="2">'
+                '<a class="show-latest-episode" data-episode-file="b.md" href="/project/episodes/b/">Episode B</a>'
+                '<section class="show-topic-profile"><li>'
+                '<a class="show-topic-link" data-topic-key="technology" data-source-note-count="2" href="/project/topics/technology/">Technology</a></li></section>'
+                '<section class="show-start-here">'
+                '<li><a class="show-start-link" data-episode-file="b.md" href="/project/episodes/b/">B</a></li>'
+                '<li><a class="show-start-link" data-episode-file="a.md" href="/project/episodes/a/">A</a></li></section>'
+                '<section class="show-entities"><li><a class="show-entity-link" data-entity-key="Alice" data-entity-kind="person" '
+                'data-episode-count="2" href="/project/wiki/entities/alice/">Alice</a></li></section>'
+                '<section class="show-archive"><ul class="episode-list">'
+                '<li><a class="show-archive-link" href="/project/episodes/b/">B</a></li>'
+                '<li><a class="show-archive-link" href="/project/episodes/a/">A</a></li></ul></section></article>'
+            )
+            write(public / "shows/example/index.html", valid_show)
+            episode_document = (
+                '<script type="application/ld+json">'
+                '{"partOfSeries":{"name":"Example Show","url":"https://example.test/project/shows/%65xample/"}}'
+                '</script>'
+            )
+            write(public / "episodes/a/index.html", episode_document)
+            write(public / "episodes/b/index.html", episode_document)
+            write(public / "topics/technology/index.html", "topic")
+            write(public / "wiki/entities/alice/index.html", "entity")
+
+            errors: list[str] = []
+            verifier.validate_show_profiles(public, profiles, errors)
+            self.assertEqual([], errors)
+
+            write(
+                public / "shows/index.html",
+                '<a class="show-directory-link" data-show-title="Example Show" '
+                'href="/project/shows/example/">Example show</a>',
+            )
+            directory_errors: list[str] = []
+            verifier.validate_show_profiles(public, profiles, directory_errors)
+            self.assertIn("Show directory visible title mismatch: 'Example Show'", directory_errors)
+            write(
+                public / "shows/index.html",
+                '<a class="show-directory-link" data-show-title="Example Show" '
+                'href="/project/shows/example/">Example Show</a>',
+            )
+
+            write(
+                public / "shows/example/index.html",
+                valid_show.replace(
+                    "Example Show | Podcast Atlas</title>",
+                    "Example show | Podcast Atlas</title>",
+                ),
+            )
+            identity_errors: list[str] = []
+            verifier.validate_show_profiles(public, profiles, identity_errors)
+            self.assertIn("Show Example Show document title does not preserve exact identity", identity_errors)
+            write(public / "shows/example/index.html", valid_show)
+
+            write(
+                public / "shows/example/index.html",
+                valid_show.replace(
+                    'content="Example Show | Podcast Atlas"',
+                    'content="Example show | Podcast Atlas"',
+                ),
+            )
+            identity_errors = []
+            verifier.validate_show_profiles(public, profiles, identity_errors)
+            self.assertIn("Show Example Show Open Graph title does not preserve exact identity", identity_errors)
+            write(public / "shows/example/index.html", valid_show)
+
+            write(
+                public / "shows/example/index.html",
+                valid_show.replace(
+                    '"name":"Example Show"',
+                    '"name":"Example show"',
+                ),
+            )
+            identity_errors = []
+            verifier.validate_show_profiles(public, profiles, identity_errors)
+            self.assertIn("Show Example Show PodcastSeries name does not preserve exact identity", identity_errors)
+            write(public / "shows/example/index.html", valid_show)
+
+            invalid_errors: list[str] = []
+            verifier.validate_show_profiles(public, [], invalid_errors)
+            self.assertEqual(["invalid generated show profile projection"], invalid_errors)
+
+            write(
+                public / "episodes/b/index.html",
+                episode_document.replace("/shows/%65xample/", "/shows/other/"),
+            )
+            ownership_errors: list[str] = []
+            verifier.validate_show_profiles(public, profiles, ownership_errors)
+            self.assertIn(
+                "Show Example Show complete archive contains an episode owned by another Show",
+                ownership_errors,
+            )
+            write(public / "episodes/b/index.html", episode_document)
+
+            write(
+                public / "episodes/b/index.html",
+                episode_document.replace('"name":"Example Show"', '"name":"Example show"'),
+            )
+            ownership_errors = []
+            verifier.validate_show_profiles(public, profiles, ownership_errors)
+            self.assertIn(
+                "Show Example Show complete archive episode does not preserve exact series identity",
+                ownership_errors,
+            )
+            write(public / "episodes/b/index.html", episode_document)
+
+            write(
+                public / "shows/example/index.html",
+                valid_show.replace(
+                    'class="show-topic-link" data-topic-key="technology" data-source-note-count="2"',
+                    'class="show-topic-link" data-topic-key="technology" data-source-note-count="99"',
+                ),
+            )
+            errors = []
+            verifier.validate_show_profiles(public, profiles, errors)
+            self.assertIn("Show Example Show topic technology source-note count mismatch", errors)
+
     def test_pagefind_verifier_requires_current_synthesis_and_rejects_internal_routes(self):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
@@ -326,6 +497,7 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "index.html",
                 "episodes/index.html",
                 "shows/index.html",
+                "shows/example/index.html",
                 "tags/index.html",
                 "tags/old-tag/index.html",
                 "wiki/index.html",
@@ -362,6 +534,7 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "index.html",
                 "episodes/index.html",
                 "shows/index.html",
+                "shows/example/index.html",
                 "tags/index.html",
                 "tags/old-tag/index.html",
                 "wiki/index.html",
@@ -383,6 +556,24 @@ class VerifyPagesOutputTest(unittest.TestCase):
                     body = "A living knowledge atlas synthesized from podcasts."
                 elif relative == "episodes/index.html":
                     body = episode_list_body(("example", "episode.160", "中文标题"))
+                elif relative == "shows/index.html":
+                    body = (
+                        '<a class="show-directory-link" data-show-title="Example Show" '
+                        'href="/shows/example/">Example Show</a>'
+                    )
+                elif relative == "shows/example/index.html":
+                    body = (
+                        '<article class="show-identity" data-show-profile="controlled" '
+                        'data-episode-count="1" data-earliest-episode-date="2026-01-01" '
+                        'data-latest-episode-date="2026-01-01" data-source-note-count="0" '
+                        'data-topic-matched-source-note-count="0">'
+                        '<a class="show-latest-episode" data-episode-file="example.md" '
+                        'href="/episodes/example/">Example</a>'
+                        '<a class="show-start-link" data-episode-file="example.md" '
+                        'href="/episodes/example/">Example</a>'
+                        '<a class="show-archive-link" href="/episodes/example/">Example</a>'
+                        '</article>'
+                    )
                 elif relative == "tags/index.html":
                     body = (
                         '<main class="legacy-tag-page">Legacy tags</main>'
@@ -417,7 +608,21 @@ class VerifyPagesOutputTest(unittest.TestCase):
                     )
                 else:
                     body = ""
-                page_html = valid_html(url, body)
+                payload = None
+                if relative == "shows/example/index.html":
+                    payload = semantic_payload(url)
+                    payload["name"] = "Example Show"
+                page_html = valid_html(url, body, payload=payload)
+                if relative == "shows/example/index.html":
+                    page_html = page_html.replace(
+                        "<head>",
+                        "<head><title>Example Show | Podcast Atlas</title>",
+                        1,
+                    ).replace(
+                        'content="Example | Podcast Atlas"',
+                        'content="Example Show | Podcast Atlas"',
+                        1,
+                    )
                 if relative.startswith("tags/"):
                     page_html = page_html.replace(
                         "<head>",
@@ -438,10 +643,33 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 + "</urlset>",
             )
 
-            report = verifier.validate(public)
+            projection = public / "show_profiles.json"
+            projection.write_text(
+                json.dumps(
+                    {
+                        "version": 1,
+                        "shows": {
+                            "Example Show": {
+                                "episode_count": 1,
+                                "earliest_episode_date": "2026-01-01",
+                                "latest_episode_date": "2026-01-01",
+                                "latest_episode_file": "example.md",
+                                "source_note_count": 0,
+                                "topic_matched_source_note_count": 0,
+                                "topics": [],
+                                "entities": [],
+                                "start_here_episode_files": ["example.md"],
+                            }
+                        },
+                    }
+                ),
+                encoding="utf-8",
+            )
+            with mock.patch.object(verifier, "SHOW_PROFILES_PATH", projection):
+                report = verifier.validate(public)
 
         self.assertEqual([], report["errors"])
-        self.assertEqual(len(expected_paths) + 3, report["file_count"])
+        self.assertEqual(len(expected_paths) + 4, report["file_count"])
 
     def test_accepts_static_episode_pagination_with_one_hundred_items_per_page(self):
         verifier = load_verifier()

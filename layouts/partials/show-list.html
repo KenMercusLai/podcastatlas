@@ -8,8 +8,9 @@
 
 <ul class="show-list">
   {{ range sort $shows "sortKey" }}
+    {{ $sourceTitle := partial "canonical-show-name.html" .page }}
     <li>
-      <a href="{{ .page.RelPermalink }}">{{ .page.LinkTitle }}</a>
+      <a class="show-directory-link" data-show-title="{{ $sourceTitle }}" href="{{ .page.RelPermalink }}">{{ $sourceTitle }}</a>
       {{ $count := int .count }}
       <span class="show-count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</span>
     </li>

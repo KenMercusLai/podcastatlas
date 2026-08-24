@@ -301,7 +301,110 @@
       text-decoration: underline;
     }
 
+    .show-identity-header {
+      padding-bottom: 8px;
+    }
+
+    .show-identity .eyebrow {
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 750;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .show-facts {
+      display: grid;
+      grid-template-columns: minmax(7rem, 0.7fr) minmax(12rem, 1fr) minmax(14rem, 1.6fr);
+      gap: 1px;
+      margin: 26px 0 0;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--line);
+    }
+
+    .show-facts > div {
+      min-width: 0;
+      padding: 16px;
+      background: var(--panel);
+    }
+
+    .show-facts dt {
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .show-facts dd {
+      margin: 5px 0 0;
+      font-weight: 650;
+      overflow-wrap: anywhere;
+    }
+
+    .show-topic-profile,
+    .show-start-here,
+    .show-entities,
+    .show-archive {
+      margin-top: 34px;
+      padding-top: 4px;
+      border-top: 1px solid var(--line);
+    }
+
+    .show-profile-list {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      list-style: none;
+      padding: 0;
+      margin: 18px 0 0;
+    }
+
+    .show-profile-list li {
+      display: flex;
+      min-width: 0;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 13px 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+    }
+
+    .show-profile-list a {
+      min-width: 0;
+      font-weight: 650;
+      overflow-wrap: anywhere;
+    }
+
+    .show-profile-list span {
+      color: var(--muted);
+      font-size: 0.9rem;
+      text-align: right;
+    }
+
+    .show-start-list {
+      margin-top: 18px;
+    }
+
     @media (max-width: 640px) {
+      .show-facts,
+      .show-profile-list {
+        grid-template-columns: 1fr;
+      }
+
+      .show-profile-list li {
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .show-profile-list span {
+        text-align: left;
+      }
+
       .site-header {
         align-items: flex-start;
         flex-direction: column;
