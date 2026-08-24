@@ -3,8 +3,10 @@ from __future__ import annotations
 import importlib.util
 import json
 import re
+import subprocess
 import sys
 import tempfile
+import unicodedata
 import unittest
 from pathlib import Path
 from unittest import mock
@@ -38,8 +40,25 @@ class ControlledWikiTopicsTest(unittest.TestCase):
         expected_membership = {}
         source_pages = []
 
+        tracked_wiki_paths = [
+            Path(relative)
+            for relative in subprocess.check_output(
+                ["git", "ls-files", "-z", "--", "content/wiki"],
+                cwd=ROOT,
+            )
+            .decode("utf-8")
+            .split("\0")
+            if relative
+        ]
         for section in ("concepts", "entities", "sources"):
-            for path in sorted((ROOT / "content" / "wiki" / section).glob("*.md")):
+            section_root = Path("content") / "wiki" / section
+            section_paths = sorted(
+                path
+                for path in tracked_wiki_paths
+                if path.parent == section_root and path.suffix == ".md"
+            )
+            for relative_path in section_paths:
+                path = ROOT / relative_path
                 if path.name == "_index.md":
                     continue
                 text = path.read_text(encoding="utf-8")
@@ -64,9 +83,10 @@ class ControlledWikiTopicsTest(unittest.TestCase):
                     title = json.loads(raw_title)
                 except json.JSONDecodeError:
                     title = raw_title.strip("\"'")
-                source_pages.append((section, path.stem, title, topic_keys))
+                canonical_key = unicodedata.normalize("NFC", path.stem)
+                source_pages.append((section, canonical_key, title, topic_keys))
                 if topic_keys:
-                    expected_membership[path.stem] = [
+                    expected_membership[canonical_key] = [
                         {
                             "key": key,
                             "label": labels[key],
@@ -75,9 +95,14 @@ class ControlledWikiTopicsTest(unittest.TestCase):
                         for key in topic_keys
                     ]
 
-        actual_membership = json.loads(
+        raw_actual_membership = json.loads(
             (ROOT / "data" / "wiki_topic_membership.json").read_text()
         )
+        actual_membership = {
+            unicodedata.normalize("NFC", key): value
+            for key, value in raw_actual_membership.items()
+        }
+        self.assertEqual(len(raw_actual_membership), len(actual_membership))
         self.assertEqual(expected_membership, actual_membership)
         self.assertGreater(
             sum(not topic_keys for _, _, _, topic_keys in source_pages),
@@ -114,7 +139,9 @@ class ControlledWikiTopicsTest(unittest.TestCase):
                 else:
                     if active_section and line.startswith("  - key: "):
                         generated_by_section[active_section].append(
-                            json.loads(line.split(":", 1)[1].strip())
+                            unicodedata.normalize(
+                                "NFC", json.loads(line.split(":", 1)[1].strip())
+                            )
                         )
                     elif line and not line.startswith(" "):
                         active_section = None
