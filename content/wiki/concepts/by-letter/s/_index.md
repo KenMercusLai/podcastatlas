@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5448
+wiki_total_pages: 5449
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1577,6 +1577,9 @@ wiki_pages:
   - key: "SuoYinReading"
     title: "索隐式阅读 / Suo Yin Reading"
     url: "/wiki/concepts/suoyinreading/"
+  - key: "StrategicDefectorIncorporation"
+    title: "纳叛安抚式整合 / Strategic Defector Incorporation"
+    url: "/wiki/concepts/strategicdefectorincorporation/"
   - key: "SettingBasedMystery"
     title: "设定系推理 / Setting-Based Mystery"
     url: "/wiki/concepts/settingbasedmystery/"

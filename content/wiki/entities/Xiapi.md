@@ -2,8 +2,8 @@
 title: "下邳 / Xiapi"
 type: entity
 tags: [place, chu-han, logistics, late-han]
-sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz]
+last_updated: 2026-08-26
 ---
 
 # 下邳 / Xiapi
@@ -22,6 +22,8 @@ For this source, Xiapi matters as a [[TransportCorridorSeverance|交通线切割
 
 [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] adds an earlier late-Han internal-command use. [[HaoMeng|郝萌]] attacks Lü Bu's Xiapi headquarters at night, forcing Lü Bu to flee to [[GaoShun|高顺]] before the revolt is suppressed. Xiapi therefore appears not only as a later siege site, but also as the place where Lü Bu's own command fragility becomes visible.
 
+[[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] supplies the full late-Han fall of Xiapi. [[CaoCao|曹操]] besieges the city, water pressure and internal betrayal break [[LyuBu|吕布]]'s position, and the post-surrender decision room ends with Lü Bu, [[ChenGongLateHan|陈宫]], and [[GaoShun|高顺]] being strangled. Xiapi therefore becomes the hinge between Lü Bu's collapse and Cao Cao's eastern incorporation of surrenderers and local forces.
+
 ## Connections
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[TaoQianLateHan|陶谦]], [[ZeRong|笮融]], [[GuanglingCommandery|广陵]], and [[InstrumentalizedReligiousPower|工具化宗教权力]] - late-Han grain diversion and Buddhist-institution branch.
 - [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[HanXin|韩信]], [[LiuBang|刘邦]], and [[HostileTerritoryRoyalContainment|敌意封国安置]] - Chu kingship capital and hostile-territory placement.
@@ -31,3 +33,4 @@ For this source, Xiapi matters as a [[TransportCorridorSeverance|交通线切割
 - [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]], [[ChenDeng|陈登]], [[LyuBu|吕布]], and [[CaoCao|曹操]] - late-Han attack and defection branch.
 - [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]], [[LiuBei|刘备]], [[ZhangFei|张飞]], [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]], and [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] - late-Han gate-opening and status-inversion branch.
 - [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]], [[HaoMeng|郝萌]], [[GaoShun|高顺]], [[CaoXingLateHan|曹性]], and [[LyuBuFactionalBalance|吕布集团派系平衡]] - night revolt and internal-command branch.
+- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[LyuBu|吕布]], [[ChenGongLateHan|陈宫]], [[GaoShun|高顺]], and [[StrategicDefectorIncorporation|纳叛安抚式整合]] - final siege, surrender-room decision, and post-siege settlement branch.

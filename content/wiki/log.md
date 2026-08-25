@@ -11695,3 +11695,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕
+
+Added source page for Hanji 1026: Cao Cao's final siege and execution of Lü Bu at Xiapi, Liu Bei's decisive warning, Chen Gong and Gao Shun's endpoints, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, local armed actors, and former defectors before the Yuan Shao/Guandu horizon. Created Chen Shou, Chen Qun, Xu Xi (Late Han), Mao Hui (Late Han), Wu Dun (Late Han), Yin Li (Late Han), Sun Guan (Late Han), and Strategic Defector Incorporation; updated Lü Bu, Cao Cao, Liu Bei, Chen Gong, Gao Shun, Zhang Liao, Zhang Ba, Chen Ji, Chen Deng, Xiapi, Yuan Tan, Qingzhou, Wang Fuzhi, Guandu Campaign, Captured Opponent Talent Incorporation, and Reputation-Constrained Talent Protection. No settled contradiction found; the transcript's "张霸" stays on the existing Zhang Ba canonical route.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

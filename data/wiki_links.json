@@ -8919,6 +8919,10 @@
     "title": "陈桥兵变 / Chenqiao Mutiny",
     "url": "/wiki/entities/chenqiaomutiny/"
   },
+  "ChenQun": {
+    "title": "陈群 / Chen Qun",
+    "url": "/wiki/entities/chenqun/"
+  },
   "ChenRuiBilibili": {
     "title": "陈睿 / Chen Rui",
     "url": "/wiki/entities/chenruibilibili/"
@@ -8930,6 +8934,10 @@
   "ChenShiLateHan": {
     "title": "陈寔 / Chen Shi (late Han)",
     "url": "/wiki/entities/chenshilatehan/"
+  },
+  "ChenShou": {
+    "title": "陈寿 / Chen Shou",
+    "url": "/wiki/entities/chenshou/"
   },
   "ChenStateLateHan": {
     "title": "陈国 / Chen State (late Han)",
@@ -29351,6 +29359,10 @@
     "title": "Mao Honghui / 毛红汇",
     "url": "/wiki/entities/maohonghui/"
   },
+  "MaoHuiLateHan": {
+    "title": "毛晖 / Mao Hui (late Han)",
+    "url": "/wiki/entities/maohuilatehan/"
+  },
   "MaoJiao": {
     "title": "茅焦 / Mao Jiao",
     "url": "/wiki/entities/maojiao/"
@@ -43503,6 +43515,10 @@
     "title": "Strategic Concession Diplomacy / 欲擒故纵式让利外交",
     "url": "/wiki/concepts/strategicconcessiondiplomacy/"
   },
+  "StrategicDefectorIncorporation": {
+    "title": "纳叛安抚式整合 / Strategic Defector Incorporation",
+    "url": "/wiki/concepts/strategicdefectorincorporation/"
+  },
   "StrategicDepthDefense": {
     "title": "Strategic Depth Defense / 战略纵深防御",
     "url": "/wiki/concepts/strategicdepthdefense/"
@@ -43918,6 +43934,10 @@
   "SunChuanfang": {
     "title": "Sun Chuanfang / 孙传芳",
     "url": "/wiki/entities/sunchuanfang/"
+  },
+  "SunGuanLateHan": {
+    "title": "孙观 / Sun Guan (late Han)",
+    "url": "/wiki/entities/sunguanlatehan/"
   },
   "SunHeLateHan": {
     "title": "孙河 / Sun He (late Han)",
@@ -49519,6 +49539,10 @@
     "title": "武大郎 / Wu Dalang",
     "url": "/wiki/entities/wudalang/"
   },
+  "WuDunLateHan": {
+    "title": "吴敦 / Wu Dun (late Han)",
+    "url": "/wiki/entities/wudunlatehan/"
+  },
   "WuGeGeGeDouChongWo": {
     "title": "五个哥哥都宠我",
     "url": "/wiki/entities/wugegegedouchongwo/"
@@ -50415,6 +50439,10 @@
     "title": "徐无山 / Xu Wu Mountain",
     "url": "/wiki/entities/xuwumountain/"
   },
+  "XuXiLateHan": {
+    "title": "徐翕 / Xu Xi (late Han)",
+    "url": "/wiki/entities/xuxilatehan/"
+  },
   "XuXiake": {
     "title": "徐霞客",
     "url": "/wiki/entities/xuxiake/"
@@ -51086,6 +51114,10 @@
   "YinJie": {
     "title": "殷姐",
     "url": "/wiki/entities/yinjie/"
+  },
+  "YinLiLateHan": {
+    "title": "尹礼 / Yin Li (late Han)",
+    "url": "/wiki/entities/yinlilatehan/"
   },
   "YinQi": {
     "title": "Yin Qi",
@@ -56330,6 +56362,10 @@
   "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0": {
     "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+  },
+  "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1": {
+    "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
   },
   "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj": {
     "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",

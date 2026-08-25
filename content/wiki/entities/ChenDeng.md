@@ -2,8 +2,8 @@
 title: "陈登 / Chen Deng"
 type: entity
 tags: [person, late-han, official, adviser]
-sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs, zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1]
+last_updated: 2026-08-26
 ---
 
 # 陈登 / Chen Deng
@@ -24,6 +24,8 @@ Chen Deng's central move is interpretive. When Lü Bu believes Chen Deng and Che
 
 The page remains source-scoped. The Hanji 1017 source gives a broader family-survival and Guangling base-building frame, while the Hanji 1018 title points toward Chen Deng's wider reputation among Cao Cao, Sun Ce, and Liu Bei; the provided texts mainly develop the Cao Cao/Lü Bu branch.
 
+[[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] closes the campaign payoff. The episode says Chen Deng earns the Fubo general title for service in the campaign against Lü Bu, confirming that his earlier intelligence and eastern-affairs channel become visible military-political credit after [[Xiapi|下邳]].
+
 ## Connections
 - [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[LiuBei|刘备]], [[YuanShu|袁术]], and [[Xuzhou|徐州]] - first persuasion and local-support pledge.
 - [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LiuBei|刘备]], [[MiZhu|糜竺]], [[KongRong|孔融]], and [[LocalEliteProxySelection|地方豪强代理人选择]] - early Xuzhou proxy-selection branch.
@@ -32,4 +34,5 @@ The page remains source-scoped. The Hanji 1017 source gives a broader family-sur
 - [[CaoCao|曹操]] - powerholder who rewards Chen Deng and judges Lü Bu.
 - [[YuanShu|袁术]] and [[HanYinLateHan|韩胤]] - Hanji 1016 pressure and marriage-envoy branch that precedes Chen Deng's Cao Cao trip.
 - [[GuanglingCommandery|广陵]] - administrative base Chen Deng receives and develops in Hanji 1017.
+- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], [[Xiapi|下邳]], and [[StrategicDefectorIncorporation|纳叛安抚式整合]] - campaign payoff and post-siege settlement.
 - [[QingYuQuJiu|轻于去就]], [[JiFuBaoYang|饥附饱扬]], and [[InterestReframingPersuasion|利益重构式说服]] - concepts sharpened by Chen Deng's reading and handling of Lü Bu.

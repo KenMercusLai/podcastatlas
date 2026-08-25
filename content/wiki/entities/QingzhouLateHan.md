@@ -2,8 +2,8 @@
 title: "青州 / Qingzhou (late Han)"
 type: entity
 tags: [place, province, late-han, war, famine, china]
-sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1]
+last_updated: 2026-08-26
 ---
 
 # 青州 / Qingzhou (late Han)
@@ -20,11 +20,14 @@ The source emphasizes the social cost rather than only the battlefield alignment
 
 [[ZhaoQiLateHan|赵岐]]'s mediation closes the source's Qingzhou branch. He uses the emperor's edict against Gongsun Zan and old political leverage against Yuan Shao, producing a temporary settlement and retreat without resolving the deeper northern rivalry.
 
+[[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] adds a pre-Guandu pressure use. The source says Cao Cao values [[ZhangBaLateHan|张霸]]'s Taishan-area troops partly because they can enter Qingzhou and constrain [[YuanTan|袁谭]], preventing a Yuan-side move around Cao Cao's rear after the fall of [[LyuBu|吕布]].
+
 ## Connections
 - [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[QingzhouYellowTurbans|青州黄巾军]], [[Xuzhou|徐州]], and [[WarDisasterCompounding]] - early recurrence of Yellow Turban violence.
 - [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[QingzhouYellowTurbans|青州黄巾军]], [[YanzhouLateHan|兖州]], [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], and [[ResourceAsymmetryAttrition|资源不对称消耗战]] - pre-surrender attack and attrition advice.
 - [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[CaoCao|曹操]], [[QingzhouSoldiers|青州兵]], [[MaoJie|毛玠]], [[TuntianSystem|屯田制]], and [[DefeatedPopulationConversion|降众资源化]] - surrendered-population conversion branch.
 - [[GongsunZan|公孙瓒]], [[TianKaiLateHan|田楷]], [[YuanShao|袁绍]], and [[YuanTan|袁谭]] - rival appointment and military standoff.
+- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], [[ZhangBaLateHan|张霸]], [[CaoCao|曹操]], [[SunGuanLateHan|孙观]], and [[GuanduCampaign|官渡之战]] - Taishan-area pressure against Yuan Tan before Guandu.
 - [[ZhaoQiLateHan|赵岐]] and [[EmperorXianOfHan|汉献帝]] - mediation and edict channel.
 - [[WarDisasterCompounding]], [[FamineEntitlementFailure]], [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - civilian cost and social-order frames.
 - [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] and [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] - later northern-war branches.

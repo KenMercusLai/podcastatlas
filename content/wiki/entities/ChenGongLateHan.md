@@ -2,8 +2,8 @@
 title: "陈宫 / Chen Gong (late Han)"
 type: entity
 tags: [person, late-han, adviser, military, gentry]
-sources: [zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1]
+last_updated: 2026-08-26
 ---
 
 # 陈宫 / Chen Gong (late Han)
@@ -34,6 +34,8 @@ The episode's interpretation is that Chen Gong cannot be read only as an individ
 
 The page keeps several claims source-scoped: possible gray contact with [[YuanShu|袁术]], the meaning of Chen Gong's blush, and the idea that shame could be used as political performance. The wiki records those as part of [[LyuBuFactionalBalance|吕布集团派系平衡]], not as settled independent proof of Chen Gong's role in the revolt.
 
+[[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] gives Chen Gong's endpoint after [[CaoCao|曹操]] captures [[Xiapi|下邳]]. Chen Gong says [[LyuBu|吕布]] failed because he did not follow Chen Gong's advice, then accepts execution after Cao Cao asks about his mother, wife, and children. The source adds a political-memory layer: Cao Cao kills Chen Gong but later supports his mother and arranges care for his family.
+
 ## Connections
 - [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], and [[CaoCao|曹操]] - source-scoped "成公" invitation normalization.
 - [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[ZhangMiaoLateHan|张邈]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[Xuzhou|徐州]], and [[YanzhouLateHan|兖州]] - open rebellion while Cao Cao is away.
@@ -46,4 +48,5 @@ The page keeps several claims source-scoped: possible gray contact with [[YuanSh
 - [[HaoMeng|郝萌]] and [[CaoXingLateHan|曹性]] - revolt actor and accuser.
 - [[YuanShu|袁术]] - outside actor allegedly connected to the revolt.
 - [[GaoShun|高顺]] and [[ZhangLiao|张辽]] - Bingzhou military-side contrast in the episode's faction reading.
+- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], [[Xiapi|下邳]], [[StrategicDefectorIncorporation|纳叛安抚式整合]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - endpoint where ignored advice, execution, and family care are separated.
 - [[LyuBuFactionalBalance|吕布集团派系平衡]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - concepts used to interpret Chen Gong's protected position.

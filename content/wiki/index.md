@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕](sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1.md) — 芮淇讲透资治通鉴 episode on Cao Cao's final siege of Lü Bu at Xiapi, Liu Bei's warning, Chen Gong and Gao Shun's deaths, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, and former defectors before Guandu.
 - [《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？](sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj.md) — 芮淇讲透资治通鉴 episode on Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's resignation, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao before Guandu.
 - [《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！](sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x.md) — 芮淇讲透资治通鉴 episode on Sun Ce consolidating Jiangdong by accepting Cao Cao's title overtures, drawing Zhou Yu and Lu Su out of Yuan Shu's orbit, and capturing then appointing Zu Lang and Taishi Ci.
 - [《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先](sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto.md) — 芮淇讲透资治通鉴 episode on Sun Ce sending Taishi Ci to pacify Liu Yao's remaining followers and inspect Yuzhang, with Hua Xin's limited control, Tong Zhi in Luling, and Panyang local forces near Haihun.
@@ -1465,6 +1466,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陈寿 / Chen Shou](entities/ChenShou.md) — Historian cited by Hanji 1026 to frame Lü Bu as fierce but strategically and politically unsound.
+- [陈群 / Chen Qun](entities/ChenQun.md) — Chen Ji's son, present in Lü Bu's army at Xiapi and treated as part of Cao Cao's elite-family incorporation after the surrender.
+- [徐翕 / Xu Xi (late Han)](entities/XuXiLateHan.md) — Former Cao Cao subordinate who betrayed during the Yanzhou crisis, sheltered with Zhang Ba, and was later spared and appointed.
+- [毛晖 / Mao Hui (late Han)](entities/MaoHuiLateHan.md) — Former Cao Cao subordinate paired with Xu Xi in Zhang Ba's protection-and-pardon branch after Xiapi.
+- [吴敦 / Wu Dun (late Han)](entities/WuDunLateHan.md) — Local armed actor whom Zhang Ba helps bring into Cao Cao's post-Xiapi settlement.
+- [尹礼 / Yin Li (late Han)](entities/YinLiLateHan.md) — Local armed actor grouped with Wu Dun and Sun Guan in Cao Cao's Taishan-area pacification.
+- [孙观 / Sun Guan (late Han)](entities/SunGuanLateHan.md) — Local armed actor whose submission helps make Taishan-area pressure useful against Yuan Tan's Qingzhou side.
 - [邓羲 / Deng Xi (late Han)](entities/DengXiLateHan.md) — Liu Biao aide whose ignored warning against double alignment marks a failed Jingzhou feedback channel.
 - [张献 / Zhang Xian (late Han)](entities/ZhangXianLateHan.md) — Changsha administrator who attaches southern Jingzhou commanderies to Cao Cao against Liu Biao.
 - [桓阶 / Huan Jie (late Han)](entities/HuanJieLateHan.md) — Changsha local-elite adviser behind Zhang Xian's southern commandery alignment with Cao Cao.
@@ -9031,6 +9039,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Hanji 1026 Cao Cao pattern where former enemies, local brokers, and past defectors are selectively incorporated to stabilize territory before the next campaign.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Liu Biao pattern where short-term neutrality becomes exploitable when local fissures and external patrons constrain initiative.
 - [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.

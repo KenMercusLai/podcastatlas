@@ -2,8 +2,8 @@
 title: "刘备 / Liu Bei"
 type: entity
 tags: [person, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1, zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd]
+last_updated: 2026-08-26
 ---
 
 # 刘备 / Liu Bei
@@ -44,6 +44,8 @@ The same source makes Liu Bei the test case for [[ReputationConstrainedTalentPro
 
 [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] adds Liu Bei as one of the actors pressured by [[YuanShu|袁术]]'s self-coronation. The episode says Liu Bei's仁义 reputation would be damaged if he ignored an open imperial usurpation against [[EmperorXianOfHan|汉献帝]], making him part of the [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] around Yuan Shu.
 
+[[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] gives Liu Bei's decisive post-[[Xiapi|下邳]] intervention. When [[LyuBu|吕布]] asks Liu Bei to speak for him after surrendering to [[CaoCao|曹操]], Liu Bei instead reminds Cao Cao of [[DingYuanLateHan|丁原]] and [[DongZhuo|董卓]], closing Lü Bu's chance to survive as a useful cavalry commander. In this source, Liu Bei is not merely taking revenge for earlier Xuzhou losses; he supplies a risk memory that Cao Cao cannot ignore.
+
 ## Connections
 - [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[LocalEliteProxySelection|地方豪强代理人选择]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - early identity, reputation, restraint, and low-threat style before the Xuzhou branch.
 - [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[TaoQianLateHan|陶谦]], [[TianKaiLateHan|田楷]], [[DanyangCommandery|丹阳郡]], [[PeiCounty|小沛]], and [[CaoCao|曹操]] - first Xuzhou foothold, Danyang troops, and survival after Cao Cao's recall.
@@ -57,5 +59,6 @@ The same source makes Liu Bei the test case for [[ReputationConstrainedTalentPro
 - [[YuanShu|袁术]], [[JiLing|纪灵]], [[LyuBu|吕布]], and [[CredibleForceDisplayDeterrence|可信武力展示威慑]] - Hanji 1008 attack and mediation branch.
 - [[CaoCao|曹操]], [[GuoJia|郭嘉]], [[LyuBu|吕布]], and [[PeiCounty|小沛]] - Hanji 1009 flight, protection, and regrouping branch.
 - [[YuanShu|袁术]], [[EmperorXianOfHan|汉献帝]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]] - Hanji 1015 usurpation-response branch.
+- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], [[CaoCao|曹操]], [[LyuBu|吕布]], [[Xiapi|下邳]], [[DingYuanLateHan|丁原]], and [[DongZhuo|董卓]] - surrender-room warning that blocks Lü Bu's incorporation.
 - [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]], [[ReputationConstrainedTalentProtection|名声约束下的人才保护]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], and [[AlcoholAsPowerCatalyst|酒作为权力催化剂]] - concepts connecting Liu Bei's vulnerability to wider political consequences.
 - [[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] - source context.
