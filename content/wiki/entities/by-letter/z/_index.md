@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7541
+wiki_total_pages: 7543
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"

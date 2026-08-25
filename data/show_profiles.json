@@ -2336,7 +2336,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
-      "source_note_count": 402,
+      "source_note_count": 403,
       "topic_matched_source_note_count": 247,
       "topics": [
         {
@@ -2412,7 +2412,7 @@
           "title": "袁绍 / Yuan Shao",
           "url": "/wiki/entities/yuanshao/",
           "kind": "person",
-          "episode_count": 30
+          "episode_count": 31
         },
         {
           "key": "ZhouXianwang",

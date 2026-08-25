@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5443
+wiki_total_pages: 5444
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "RerankingModels"
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"
+  - key: "RescueReciprocityCommandTrust"
+    title: "Rescue Reciprocity Command Trust / 救援互惠式统帅信任"
+    url: "/wiki/concepts/rescuereciprocitycommandtrust/"
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
     url: "/wiki/concepts/researchchemicalloophole/"

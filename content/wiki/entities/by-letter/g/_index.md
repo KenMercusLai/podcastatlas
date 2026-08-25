@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7541
+wiki_total_pages: 7543
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "GongsunWuzhi"
     title: "公孙无知 / Gongsun Wuzhi"
     url: "/wiki/entities/gongsunwuzhi/"
+  - key: "GongsunXuLateHan"
+    title: "公孙旭 / Gongsun Xu (Late Han)"
+    url: "/wiki/entities/gongsunxulatehan/"
   - key: "GongsunZan"
     title: "公孙瓒 / Gongsun Zan"
     url: "/wiki/entities/gongsunzan/"
@@ -773,6 +776,9 @@ wiki_pages:
   - key: "GuanYadi"
     title: "关雅迪"
     url: "/wiki/entities/guanyadi/"
+  - key: "GuanJingLateHan"
+    title: "关静 / Guan Jing (Late Han)"
+    url: "/wiki/entities/guanjinglatehan/"
   - key: "GangganghaoYingshi"
     title: "刚刚好影视 / Gangganghao Yingshi"
     url: "/wiki/entities/gangganghaoyingshi/"

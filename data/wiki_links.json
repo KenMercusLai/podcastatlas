@@ -19083,6 +19083,10 @@
     "title": "公孙须 / Gongsun Xu",
     "url": "/wiki/entities/gongsunxu/"
   },
+  "GongsunXuLateHan": {
+    "title": "公孙旭 / Gongsun Xu (Late Han)",
+    "url": "/wiki/entities/gongsunxulatehan/"
+  },
   "GongsunYan": {
     "title": "犀首公孙衍 / Gongsun Yan",
     "url": "/wiki/entities/gongsunyan/"
@@ -19590,6 +19594,10 @@
   "GuanGao": {
     "title": "贯高 / Guan Gao",
     "url": "/wiki/entities/guangao/"
+  },
+  "GuanJingLateHan": {
+    "title": "关静 / Guan Jing (Late Han)",
+    "url": "/wiki/entities/guanjinglatehan/"
   },
   "GuanXiuChu": {
     "title": "管修 / Guan Xiu (Chu)",
@@ -38579,6 +38587,10 @@
     "title": "ResNeXt",
     "url": "/wiki/concepts/resnext/"
   },
+  "RescueReciprocityCommandTrust": {
+    "title": "Rescue Reciprocity Command Trust / 救援互惠式统帅信任",
+    "url": "/wiki/concepts/rescuereciprocitycommandtrust/"
+  },
   "ResearchChemicalLoophole": {
     "title": "Research Chemical Loophole",
     "url": "/wiki/concepts/researchchemicalloophole/"
@@ -56226,6 +56238,10 @@
   "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0": {
     "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+  },
+  "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8": {
+    "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

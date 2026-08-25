@@ -11656,9 +11656,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？
+
+Added source page for Hanji 1030: Yuan Shao's final pressure on Gongsun Zan at Yijing, Gongsun Zan's failed no-rescue policy, Guan Jing's warning against leaving the fortress, and the episode's "passive self-preservation must fail" lesson. Created Guan Jing (Late Han), Gongsun Xu (Late Han), and Rescue Reciprocity Command Trust pages; updated Gongsun Zan, Yuan Shao, Sun Ce, Taishi Ci, Yijing Fortress, Heishan Army, Fortress Security Illusion, People-Based Political Security, Political Survival First, Xingshiqing Strategic Assessment, and Talent as State Treasure. No settled contradiction found; Gongsun Xu is disambiguated from the existing Warring States Gongsun Xu page while preserving the source spelling 公孙旭.
+
 ## [2026-08-26] ingest | Elbows up, again: a US-Canada trade flare-up
 
 Added source page for The Intelligence episode on the breakdown in U.S.-Canada trade talks, Mark Carney's diversification dilemma, Japan's employment ice age generation, and Jeremy Black's totemic/utilitarian siege distinction. Created Mark Carney, Hal Hodson, Torigoe Atsushi, Jeremy Black, Alberta, Quebec, Trade Diversification Stability Paradox, Entry-Cohort Labor Market Scarring, and Siege Typology pages; updated connected Canada, United States, Donald Trump, Japan, Economist podcast, tariff, labor, and siege-history pages. No direct contradiction found; tariff figures, Japan cohort timing, and siege examples remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

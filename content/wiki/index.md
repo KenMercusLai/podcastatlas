@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？](sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8.md) — 芮淇讲透资治通鉴 episode on Yuan Shao reaching Yijing, Gongsun Zan's failed rescue-trust logic, Guan Jing's warning, and passive self-preservation as a failed strategy.
 - [Elbows up, again: a US-Canada trade flare-up](sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db.md) — The Intelligence episode on Canada-US tariff talks, Canada's diversification dilemma, Japan's employment ice age generation, and totemic versus utilitarian sieges.
 - [AI loves negative parallelism](sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128.md) — Marketplace Tech episode with Will Oremus on negative parallelism as an AI-writing tell, Pangram's frequency finding, Claude watermarking, synthetic-data feedback loops, and AI style bleed into human writing.
 - [山上山下皆人间，无事逍遥即神仙](sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp.md) — 面基 episode with 李闯 on 《辞职上山》, Wudang Daoist life, fieldnote writing, folk belief as last-resort support, Chinese-medicine uncertainty, circular/linear time, and 逍遥 as freedom inside ordinary constraints.
@@ -1461,6 +1462,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning stops the elite-cavalry sortie because the remaining garrison would read it as abandonment.
+- [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son in Hanji 1030, sent from Yijing to seek Black Mountain Army help; disambiguated from Warring States Gongsun Xu.
 - [Mark Carney](entities/MarkCarney.md) — Canadian prime minister in The Intelligence source on renewed U.S.-Canada tariff talks and diversification constraints.
 - [Hal Hodson](entities/HalHodson.md) — The Intelligence correspondent explaining Canada's tariff dilemma, provincial exposure, and investment-stability trap.
 - [Torigoe Atsushi](entities/TorigoeAtsushi.md) — Japanese employment-ice-age worker used as a concrete case of entry-cohort labor-market scarring.
@@ -9006,6 +9009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where a leader's refusal to rescue subordinates teaches them not to risk themselves when the leader later needs support.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
 - [Entry-Cohort Labor Market Scarring](concepts/EntryCohortLaborMarketScarring.md) — Long-run wage, pension, and housing damage from entering the workforce during a weak hiring regime.
 - [Siege Typology](concepts/SiegeTypology.md) — Military-history distinction between symbolically totemic sieges and strategically utilitarian sieges.
