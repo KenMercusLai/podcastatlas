@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7495
+wiki_total_pages: 7501
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "ChinesePaddlefish"
     title: "Chinese paddlefish"
     url: "/wiki/entities/chinesepaddlefish/"
+  - key: "ChinookCheckers"
+    title: "Chinook Checkers"
+    url: "/wiki/entities/chinookcheckers/"
   - key: "ChipWar"
     title: "Chip War"
     url: "/wiki/entities/chipwar/"

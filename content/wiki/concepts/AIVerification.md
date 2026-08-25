@@ -2,11 +2,13 @@
 title: "AI Verification"
 type: concept
 tags: [ai, verification, safety, agents]
-sources: [ep-17-ais-impact-on-creativity-a-consumers-perspective, ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-6-data-science-ai-talk, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
-last_updated: 2026-08-18
+sources: [ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype, ep-17-ais-impact-on-creativity-a-consumers-perspective, ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-6-data-science-ai-talk, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+last_updated: 2026-08-25
 ---
 
 # AI Verification
+
+[[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]] adds a deterministic-versus-probabilistic contrast through [[JonathanSchaeffer]]. [[ChinookCheckers]] is presented as a bounded game-AI case where years of search and analysis could support a zero-error solved-checkers result, while LLM output still needs [[HumanJudgmentUnderAI]], source grounding, and supervised [[AugmentedIntelligence]] practices.
 
 [[ep-17-ais-impact-on-creativity-a-consumers-perspective]] adds an everyday consumer and volunteer-work version through [[MarkDataScienceWithSam|Mark]]. Verification means fact-checking speech drafts, editing generated lines, testing [[GoogleAppsScript]] snippets, and keeping professional research inside approved company-license and data-security boundaries.
 
@@ -52,6 +54,7 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 - Data Science With Sam EP15 adds that LLM verification includes code review, data-privacy review, prompt-result testing, bias checks, hallucination checks, and use-case triage before deployment.
 - Data Science With Sam EP16 adds that ordinary statistics still verify AI-era predictive work: overfitting, underfitting, precision, recall, and explanation quality shape whether a churn model should guide action.
 - Data Science With Sam EP17 adds that consumer AI verification includes editing, fact-checking, code testing, and deciding whether workplace prompts are allowed under company policy.
+- Data Science With Sam EP47 adds that deterministic game-solving verification should not be confused with LLM reliability; probabilistic language output still needs review, grounding, and clear refusal behavior.
 
 ## Connections
 - [[AICodingVerification]] — software-specific verification branch already tracked in the wiki.
@@ -68,3 +71,4 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 - [[MarinaDataScienceWithSam]], [[DataScientistGenerativeAIFluency]], [[GenerativeAIUseCaseTriage]], and [[PromptAsIntentTransmission]] - data-scientist LLM verification branch added by EP15.
 - [[VishalDataScienceWithSam]], [[CustomerChurnPrediction]], [[PredictiveModelValidation]], [[ExplainableAIBusinessDecisions]], and [[AIDataReadiness]] - predictive analytics verification branch added by EP16.
 - [[MarkDataScienceWithSam]], [[AIFirstDraftGeneration]], [[AIProfessionalDataSecurity]], [[AIAssistedLightCoding]], and [[GoogleAppsScript]] - everyday creative and light-coding verification branch added by EP17.
+- [[JonathanSchaeffer]], [[ChinookCheckers]], [[DeterministicAIVerification]], [[AIHallucination]], and [[AugmentedIntelligence]] - deterministic and LLM verification contrast added by EP47.

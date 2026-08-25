@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5405
+wiki_total_pages: 5410
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "LocalPartnerMarketEntry"
     title: "Local Partner Market Entry"
     url: "/wiki/concepts/localpartnermarketentry/"
+  - key: "LocalPrivateAI"
+    title: "Local Private AI"
+    url: "/wiki/concepts/localprivateai/"
   - key: "LocalProductAdvantageErosion"
     title: "Local Product Advantage Erosion"
     url: "/wiki/concepts/localproductadvantageerosion/"

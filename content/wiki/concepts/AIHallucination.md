@@ -2,13 +2,15 @@
 title: "AI Hallucination"
 type: concept
 tags: [ai, reliability, verification, judgment]
-sources: [ep-17-ais-impact-on-creativity-a-consumers-perspective, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]
-last_updated: 2026-08-18
+sources: [ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype, ep-17-ais-impact-on-creativity-a-consumers-perspective, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]
+last_updated: 2026-08-25
 ---
 
 # AI Hallucination
 
 AI hallucination is the failure mode where a model produces plausible but false, unsupported, or misgrounded output. In [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]], [[ChristopherMims]] says hallucination is not simply a bug but part of how modern AI works, even as engineers continue reducing the rate of mistakes.
+
+[[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]] adds [[JonathanSchaeffer]]'s critique of the term itself: "hallucination" can anthropomorphize a statistical error pattern, while the practical issue is that LLMs are probabilistic systems that still make mistakes. The episode contrasts those mistakes with [[ChinookCheckers]] and [[DeterministicAIVerification]], where a bounded game result can be checked much more tightly.
 
 The concept gives a general reliability frame for narrower pages such as [[LegalAIHallucination]]. Hallucination matters because fluent output can hide weak evidence, weak reasoning, or missing context, making [[HumanJudgmentUnderAI]], [[OutputQualityGates]], and domain expertise part of safe AI use.
 
@@ -23,6 +25,7 @@ The concept gives a general reliability frame for narrower pages such as [[Legal
 - Treating hallucination as a system property encourages review practices rather than blind trust.
 - Everyday creative or volunteer use still needs fact-checking because polished drafts can hide unsupported claims.
 - In clinical contexts, reducing hallucination is not enough; outputs still need source grounding, patient context, and professional responsibility.
+- EP47 adds that LLM error should not be treated as a solved engineering detail; safer use frames the model as [[AugmentedIntelligence]] under human review.
 
 ## Connections
 - [[ChristopherMims]], [[HowToAI|How to AI]], and [[ExpertiseAmplifiedAIUse]] - source frame for why expertise matters.
@@ -30,3 +33,4 @@ The concept gives a general reliability frame for narrower pages such as [[Legal
 - [[LegalAIHallucination]], [[LLMWorldModelGap]], [[RetrievalAugmentedGeneration]], and [[AISearchEvaluation]] - related reliability and grounding concepts.
 - [[OpenEvidence]], [[EvidenceGroundedMedicalRAG]], [[HealthBench]], and [[MedicalAIWorkflowIntegration]] - medical hallucination and evaluation branch added by E227.
 - [[MarkDataScienceWithSam]], [[AIFirstDraftGeneration]], [[AICreativeCollaboration]], [[AIAssistedLightCoding]], and [[AIProfessionalDataSecurity]] - consumer and professional-checking branch added by Data Science With Sam EP17.
+- [[JonathanSchaeffer]], [[ChinookCheckers]], [[DeterministicAIVerification]], and [[AugmentedIntelligence]] - reliability contrast added by Data Science With Sam EP47.

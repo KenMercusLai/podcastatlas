@@ -24,6 +24,24 @@
     },
     {
       "global_candidate": true,
+      "id": "augmented-intelligence-keeps-human-judgment-accountable",
+      "qualifications": [
+        "The source frames this as Jonathan Schaeffer's preferred AI-use language rather than a universal psychology finding.",
+        "The claim applies most directly to important LLM-assisted work where the user has enough context to verify output."
+      ],
+      "statement": "[[AugmentedIntelligence]] adds a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, but [[HumanJudgmentUnderAI]], [[AIVerification]], and awareness of [[AIHallucination]] remain the user's responsibility.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype",
+        "AugmentedIntelligence",
+        "JonathanSchaeffer",
+        "HumanJudgmentUnderAI",
+        "AIVerification",
+        "AIHallucination"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "perceived-authorship-shapes-trust",
       "qualifications": [
         "Acceptance is higher when AI is understood as assisting human-led work."
@@ -174,6 +192,6 @@
       ]
     }
   ],
-  "summary": "Hanji 930 adds the exchangeable-capability frame: greed and resentment become signals to build usable value, because reputation and relationships only convert into opportunity when capability, recognition, and judgment are present. Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.",
+  "summary": "Data Science With Sam EP47 adds augmented intelligence as a judgment practice: LLMs can assist like interns, but people still choose the task, verify evidence, and own important outcomes. Hanji 930 adds the exchangeable-capability frame: greed and resentment become signals to build usable value, because reputation and relationships only convert into opportunity when capability, recognition, and judgment are present. Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.",
   "topic_id": "psychology-and-personal-development"
 }

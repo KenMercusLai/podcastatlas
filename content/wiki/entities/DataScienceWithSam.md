@@ -2,13 +2,15 @@
 title: "Data Science With Sam"
 type: entity
 tags: [podcast, data-science, ai]
-sources: [ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise, ep-28-the-ai-revolution-redefining-healthcare-financing, ep-17-ais-impact-on-creativity-a-consumers-perspective, ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-14-what-is-observability, ep-13-soccer-analytics-through-the-lens-of-coaching, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
-last_updated: 2026-08-24
+sources: [ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype, ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise, ep-28-the-ai-revolution-redefining-healthcare-financing, ep-17-ais-impact-on-creativity-a-consumers-perspective, ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-14-what-is-observability, ep-13-soccer-analytics-through-the-lens-of-coaching, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
+last_updated: 2026-08-25
 ---
 
 # Data Science With Sam
 
 [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] adds an enterprise AI adoption branch, with [[SamDataScienceWithSam|Sam]] interviewing [[JimSpignardo]] of [[Proarc]] on why AI pilots fail, why [[Microsoft365CopilotAdoption]] needs more than license assignment, and how [[ShadowAI]], [[AIAdoptionBaselineMeasurement]], [[AIDataReadiness]], governance, champions, and dedicated ownership shape productivity.
+
+[[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]] adds a privacy-first AI history branch, with [[SamDataScienceWithSam|Sam]] interviewing [[JonathanSchaeffer]] on [[ChinookCheckers]], [[DeterministicAIVerification]], LLM error tolerance, [[AugmentedIntelligence]], [[KindPrivateAI]], [[LocalPrivateAI]], [[RetrievalAugmentedGeneration]], and [[DigitalSovereignty]].
 
 [[ep-28-the-ai-revolution-redefining-healthcare-financing]] adds a healthcare-financing and AI lending-workflow branch, with [[SamDataScienceWithSam|Sam]] interviewing [[SharminDataScienceWithSam|Sharmin]] of [[Livora]] on [[IndependentHealthcareClinicFinancing]], [[DataDrivenClinicUnderwriting]], [[AIEnabledLoanDocumentAnalysis]], [[ClinicLenderMatching]], [[BorrowerReadinessFinancing]], [[WomenOwnedClinicCapitalGap]], [[NonBankHealthcareLending]], and [[ConsentBasedLoanDataSharing]].
 
@@ -56,9 +58,12 @@ EP28 adds a healthcare-fintech layer where AI, lender criteria, borrower readine
 
 EP48 adds an enterprise-AI enablement layer where [[MicrosoftCopilot|Microsoft 365 Copilot]] and other AI tools become useful only after business owners define workflows, measure baselines, govern data and permissions, train users, and assign durable AI ownership.
 
+EP47 adds a privacy-first AI layer where deterministic game-solving history, LLM error limits, local private RAG, and digital sovereignty all become part of practical data-science tool choice.
+
 ## Connections
-- [[SamDataScienceWithSam]], [[JimSpignardo]], [[SharminDataScienceWithSam]], [[MarkDataScienceWithSam]], [[VishalDataScienceWithSam]], [[MarinaDataScienceWithSam]], [[EdFerron]], [[BrunoSoccerCoach]], [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - host and guests in the sources.
+- [[SamDataScienceWithSam]], [[JonathanSchaeffer]], [[JimSpignardo]], [[SharminDataScienceWithSam]], [[MarkDataScienceWithSam]], [[VishalDataScienceWithSam]], [[MarinaDataScienceWithSam]], [[EdFerron]], [[BrunoSoccerCoach]], [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - host and guests in the sources.
 - [[Proarc]], [[Microsoft365CopilotAdoption]], [[ShadowAI]], [[AIAdoptionBaselineMeasurement]], and [[EnterpriseAIPilotPurgatory]] - enterprise AI adoption branch added by EP48.
+- [[ChinookCheckers]], [[KindPrivateAI]], [[LocalPrivateAI]], [[DigitalSovereignty]], [[AIQueryPrivacyRisk]], and [[AugmentedIntelligence]] - privacy-first AI history and local private AI branch added by EP47.
 - [[Livora]], [[IndependentHealthcareClinicFinancing]], [[DataDrivenClinicUnderwriting]], [[AIEnabledLoanDocumentAnalysis]], [[ClinicLenderMatching]], [[BorrowerReadinessFinancing]], [[WomenOwnedClinicCapitalGap]], [[NonBankHealthcareLending]], and [[ConsentBasedLoanDataSharing]] - healthcare clinic financing branch added by EP28.
 - [[AICreativeCollaboration]], [[AIFirstDraftGeneration]], [[AIProfessionalDataSecurity]], [[AIAssistedLightCoding]], [[DALLE|DALL-E]], [[Suno]], and [[GoogleAppsScript]] - everyday creative and light technical AI branch added by EP17.
 - [[NaturalLanguageAnalytics]], [[AIDataReadiness]], [[CustomerChurnPrediction]], [[ExplainableAIBusinessDecisions]], [[PredictiveModelValidation]], and [[DataScienceStorytelling]] - AI analytics and business-decision branch added by EP16.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1837
+topic_total_pages: 1839
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -133,6 +133,9 @@ topic_concepts:
   - key: "AIProfessionalDataSecurity"
     title: "AI Professional Data Security"
     url: "/wiki/concepts/aiprofessionaldatasecurity/"
+  - key: "AIQueryPrivacyRisk"
+    title: "AI Query Privacy Risk"
+    url: "/wiki/concepts/aiqueryprivacyrisk/"
   - key: "AIRegulatoryCaptureRisk"
     title: "AI Regulatory Capture Risk"
     url: "/wiki/concepts/airegulatorycapturerisk/"
@@ -685,6 +688,9 @@ topic_concepts:
   - key: "DigitalInfrastructureWarRisk"
     title: "Digital Infrastructure War Risk"
     url: "/wiki/concepts/digitalinfrastructurewarrisk/"
+  - key: "DigitalSovereignty"
+    title: "Digital Sovereignty"
+    url: "/wiki/concepts/digitalsovereignty/"
   - key: "DignityBasedPersuasion"
     title: "Dignity-Based Persuasion / 尊严激将式说服"
     url: "/wiki/concepts/dignitybasedpersuasion/"

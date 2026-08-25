@@ -3772,6 +3772,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIQueryPrivacyRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIRankingReinforcement": [
     {
       "key": "technology",
@@ -5386,6 +5398,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "AlbertaMachineIntelligenceInstitute": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AlchemyChemistryContinuity": [
@@ -7625,6 +7644,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AugmentedIntelligence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AugustBier": [
@@ -12410,6 +12436,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ChinookCheckers": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ChipWar": [
     {
       "key": "technology",
@@ -16508,6 +16541,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DeterministicAIVerification": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DeterministicAuditData": [
     {
       "key": "technology",
@@ -16742,6 +16782,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DigitalSovereignty": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DigitalTranscendenceAsControl": [
@@ -30324,6 +30376,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "JonathanSchaeffer": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "JonathanSwift": [
     {
       "key": "politics",
@@ -31238,6 +31297,13 @@
     }
   ],
   "KimiLinear": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "KindPrivateAI": [
     {
       "key": "technology",
       "label": "Technology",
@@ -33433,6 +33499,13 @@
     }
   ],
   "LocalNewsAutomationTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "LocalPrivateAI": [
     {
       "key": "technology",
       "label": "Technology",
@@ -52615,6 +52688,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Synsira": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SynthID": [
     {
       "key": "technology",
@@ -56493,6 +56573,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "UniversityOfAlberta": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "UniversityOfIllinoisUrbanaChampaign": [
@@ -63696,6 +63783,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise": [

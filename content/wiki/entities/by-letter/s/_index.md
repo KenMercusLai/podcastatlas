@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7495
+wiki_total_pages: 7501
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1247,6 +1247,9 @@ wiki_pages:
   - key: "Synopsys"
     title: "Synopsys / 新思科技"
     url: "/wiki/entities/synopsys/"
+  - key: "Synsira"
+    title: "Synsira"
+    url: "/wiki/entities/synsira/"
   - key: "SynthID"
     title: "SynthID"
     url: "/wiki/entities/synthid/"

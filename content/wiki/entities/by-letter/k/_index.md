@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 7495
+wiki_total_pages: 7501
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "KimWolfBotnet"
     title: "KimWolf Botnet"
     url: "/wiki/entities/kimwolfbotnet/"
+  - key: "KindPrivateAI"
+    title: "Kind Private AI"
+    url: "/wiki/entities/kindprivateai/"
   - key: "KindaichiKyosuke"
     title: "Kindaichi Kyosuke / 金田一京助"
     url: "/wiki/entities/kindaichikyosuke/"

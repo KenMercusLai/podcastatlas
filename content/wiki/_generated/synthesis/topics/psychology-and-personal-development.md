@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-25
-as_of_overview_commit: eead7ac5bf7bc46a097a25208154cdffb930eb2a
-input_digest: a7ee27e5cb7934b5ee6a8608b240c5b6b7a3f8ce222e5863e30f12d6b01df937
+as_of_overview_commit: 8eee34763537d6005cbf2f18f9fb87fe959f2d3f
+input_digest: 3c7a0ff675d1f1f11c447c72b78bcab16e43feec5a1dc36e000d9bd2cd6a4941
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 930 adds the exchangeable-capability frame: greed and resentment become signals to build usable value, because reputation and relationships only convert into opportunity when capability, recognition, and judgment are present. Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
+Data Science With Sam EP47 adds augmented intelligence as a judgment practice: LLMs can assist like interns, but people still choose the task, verify evidence, and own important outcomes. Hanji 930 adds the exchangeable-capability frame: greed and resentment become signals to build usable value, because reputation and relationships only convert into opportunity when capability, recognition, and judgment are present. Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
 
 ## Cross-source Findings
 
@@ -26,6 +26,17 @@ Hanji 930 adds [[ExchangeableCapability]] to the personal-development branch: de
 
 - This claim is source-scoped to Hanji 930 and treats the greed/unwillingness lesson as a personal-development interpretation layered onto historical narrative.
 - It does not claim that capability alone guarantees reward; the same source ties capability to recognition, role assignment, timing, and battlefield conditions.
+
+### Augmented Intelligence Keeps Human Judgment Accountable
+
+[[AugmentedIntelligence]] adds a personal-judgment frame for AI use: [[JonathanSchaeffer]] treats LLMs as useful assistants or interns, but [[HumanJudgmentUnderAI]], [[AIVerification]], and awareness of [[AIHallucination]] remain the user's responsibility.
+
+**Evidence:** [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], [[AugmentedIntelligence]], [[JonathanSchaeffer]], [[HumanJudgmentUnderAI]], [[AIVerification]], [[AIHallucination]]
+
+**Qualifications:**
+
+- The source frames this as Jonathan Schaeffer's preferred AI-use language rather than a universal psychology finding.
+- The claim applies most directly to important LLM-assisted work where the user has enough context to verify output.
 
 ### Perceived Authorship Shapes Trust
 

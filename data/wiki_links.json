@@ -2095,6 +2095,10 @@
     "title": "AI Public Likeness Generation",
     "url": "/wiki/concepts/aipubliclikenessgeneration/"
   },
+  "AIQueryPrivacyRisk": {
+    "title": "AI Query Privacy Risk",
+    "url": "/wiki/concepts/aiqueryprivacyrisk/"
+  },
   "AIRankingReinforcement": {
     "title": "AI Ranking Reinforcement",
     "url": "/wiki/concepts/airankingreinforcement/"
@@ -3382,6 +3386,10 @@
   "AlbertPope": {
     "title": "Albert Pope / 阿尔伯特·波普",
     "url": "/wiki/entities/albertpope/"
+  },
+  "AlbertaMachineIntelligenceInstitute": {
+    "title": "Alberta Machine Intelligence Institute",
+    "url": "/wiki/entities/albertamachineintelligenceinstitute/"
   },
   "Albuquerque": {
     "title": "Albuquerque",
@@ -5098,6 +5106,10 @@
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
     "url": "/wiki/concepts/auditopinionrisk/"
+  },
+  "AugmentedIntelligence": {
+    "title": "Augmented Intelligence",
+    "url": "/wiki/concepts/augmentedintelligence/"
   },
   "AugustBier": {
     "title": "August Bier / 奥古斯特·比尔",
@@ -9535,6 +9547,10 @@
     "title": "Chinese Zodiac / 十二生肖",
     "url": "/wiki/concepts/chinesezodiac/"
   },
+  "ChinookCheckers": {
+    "title": "Chinook Checkers",
+    "url": "/wiki/entities/chinookcheckers/"
+  },
   "ChipWar": {
     "title": "Chip War",
     "url": "/wiki/entities/chipwar/"
@@ -12879,6 +12895,10 @@
     "title": "Detention As Local Economic Development",
     "url": "/wiki/concepts/detentionaslocaleconomicdevelopment/"
   },
+  "DeterministicAIVerification": {
+    "title": "Deterministic AI Verification",
+    "url": "/wiki/concepts/deterministicaiverification/"
+  },
   "DeterministicAuditData": {
     "title": "Deterministic Audit Data",
     "url": "/wiki/concepts/deterministicauditdata/"
@@ -13070,6 +13090,10 @@
   "DigitalPreservation": {
     "title": "Digital Preservation",
     "url": "/wiki/concepts/digitalpreservation/"
+  },
+  "DigitalSovereignty": {
+    "title": "Digital Sovereignty",
+    "url": "/wiki/concepts/digitalsovereignty/"
   },
   "DigitalTranscendenceAsControl": {
     "title": "Digital Transcendence As Control",
@@ -24715,6 +24739,10 @@
     "title": "Jonathan Ross",
     "url": "/wiki/entities/jonathanross/"
   },
+  "JonathanSchaeffer": {
+    "title": "Jonathan Schaeffer",
+    "url": "/wiki/entities/jonathanschaeffer/"
+  },
   "JonathanSpence": {
     "title": "史景迁 / Jonathan Spence",
     "url": "/wiki/entities/jonathanspence/"
@@ -25546,6 +25574,10 @@
   "KimiLinear": {
     "title": "Kimi Linear",
     "url": "/wiki/entities/kimilinear/"
+  },
+  "KindPrivateAI": {
+    "title": "Kind Private AI",
+    "url": "/wiki/entities/kindprivateai/"
   },
   "KindaichiKyosuke": {
     "title": "Kindaichi Kyosuke / 金田一京助",
@@ -27802,6 +27834,10 @@
   "LocalPartnerMarketEntry": {
     "title": "Local Partner Market Entry",
     "url": "/wiki/concepts/localpartnermarketentry/"
+  },
+  "LocalPrivateAI": {
+    "title": "Local Private AI",
+    "url": "/wiki/concepts/localprivateai/"
   },
   "LocalProductAdvantageErosion": {
     "title": "Local Product Advantage Erosion",
@@ -43879,6 +43915,10 @@
     "title": "Synopsys / 新思科技",
     "url": "/wiki/entities/synopsys/"
   },
+  "Synsira": {
+    "title": "Synsira",
+    "url": "/wiki/entities/synsira/"
+  },
   "SynthID": {
     "title": "SynthID",
     "url": "/wiki/entities/synthid/"
@@ -46802,6 +46842,10 @@
   "UniversityOfAlaska": {
     "title": "University of Alaska",
     "url": "/wiki/entities/universityofalaska/"
+  },
+  "UniversityOfAlberta": {
+    "title": "University of Alberta",
+    "url": "/wiki/entities/universityofalberta/"
   },
   "UniversityOfCambridge": {
     "title": "University of Cambridge",
@@ -53482,6 +53526,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype": {
+    "title": "EP 47: The AI Pioneer Who Decided Privacy Matters More Than Hype",
+    "url": "/wiki/sources/ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype/"
   },
   "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise": {
     "title": "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise",

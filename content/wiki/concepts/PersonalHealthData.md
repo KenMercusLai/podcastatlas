@@ -2,11 +2,13 @@
 title: "Personal Health Data"
 type: concept
 tags: [healthcare, data, ai, personal-infrastructure]
-sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
-last_updated: 2026-08-16
+sources: [ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
+last_updated: 2026-08-25
 ---
 
 # Personal Health Data
+
+[[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]] adds the local-AI privacy version through [[KindPrivateAI]]. [[JonathanSchaeffer]] uses personal medical data as an example of information a user may want to query with AI while keeping the files and questions off public internet services, connecting this page to [[LocalPrivateAI]] and [[AIQueryPrivacyRisk]].
 
 [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds the child-data boundary through [[Nanit]] sleep scores and planned child health interpretation. Unlike adult self-tracking, baby and child data is collected because parents choose a product, while the child is the person being measured. That makes [[ChildBedroomDataPrivacy]] and [[QuantifiedParenting]] necessary companions to the wiki's usual health-data ownership frame.
 
@@ -35,6 +37,7 @@ The key distinction is longitudinal context. A single normal-range report may no
 - Sleep data is most useful when it changes controllable inputs such as schedule, light, temperature, caffeine, screens, or alcohol rather than becoming another anxious score.
 - E227 adds that wearable-fed health data creates a 2C AI opportunity only if privacy, escalation, and clinical responsibility remain clear.
 - Wearable hardware form matters because the same health-data job can be served by a watch, screenless band, smart ring, phone, or clinical device with different burdens and feedback loops.
+- EP47 adds that AI queries about personal health records can be sensitive even when the record itself stays private, making local processing and prompt privacy part of health-data stewardship.
 
 ## Connections
 - [[AIHealthManagement]] — main use case for reading personal health data over time.
@@ -48,3 +51,4 @@ The key distinction is longitudinal context. A single normal-range report may no
 - [[IranLinkedCyberOperations]], [[CyberDataTheftAndLeakOperations]], and [[OfflineBackupRecoveryDrills]] — cybersecurity branch where health records become sensitive targets.
 - [[SleepAsDailyHealthAccount]], [[EightSleep|8Sleep]], and [[EnvironmentOverWillpower]] - sleep-data and intervention extension from the 面基 episode.
 - [[Garmin]], [[Whoop]], [[OuraRing|Oura Ring]], [[WearableFormFactorPressure]], and [[ProfessionalWearableMoat]] - wearable-hardware competition branch added by 声动早咖啡.
+- [[KindPrivateAI]], [[LocalPrivateAI]], and [[AIQueryPrivacyRisk]] - private local AI branch added by Data Science With Sam EP47.

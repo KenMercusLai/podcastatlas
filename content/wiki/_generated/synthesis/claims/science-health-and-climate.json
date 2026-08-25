@@ -73,8 +73,27 @@
         "InsuranceRiskTransfer",
         "HealthInsurancePlanning"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "health-ai-needs-private-grounded-query-boundaries",
+      "qualifications": [
+        "The source uses medical data as an example of sensitive personal material rather than giving clinical advice.",
+        "Local private AI is treated as a privacy architecture, not as proof that generated health answers are clinically correct."
+      ],
+      "statement": "EP47 adds a health-data privacy boundary: [[PersonalHealthData]] can become more useful through [[LocalPrivateAI]] and [[KindPrivateAI]], but sensitive records and questions still need [[AIQueryPrivacyRisk]] controls, [[RetrievalAugmentedGeneration]] grounding, citations, refusal behavior, and [[AIVerification]].",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype",
+        "PersonalHealthData",
+        "LocalPrivateAI",
+        "KindPrivateAI",
+        "AIQueryPrivacyRisk",
+        "RetrievalAugmentedGeneration",
+        "AIVerification"
+      ]
     }
   ],
-  "summary": "Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.",
+  "summary": "Data Science With Sam EP47 adds a personal-health-data privacy case: local private AI can make sensitive records queryable without sending files or questions to public services, but health answers still need grounding, citations, refusal behavior, and verification. Science, health, climate, and space-engineering claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through stay visible: reusable rockets need repeatable recovery plus launch-site throughput, space growth needs pads, geography, licensing, and habitat review, climate work needs material and storage validation, scientific imagination stays evidence-bound, and risk products must map to concrete exposure.",
   "topic_id": "science-health-and-climate"
 }

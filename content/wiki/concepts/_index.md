@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5405
+wiki_total_pages: 5410
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "AIPublicLikenessGeneration"
     title: "AI Public Likeness Generation"
     url: "/wiki/concepts/aipubliclikenessgeneration/"
+  - key: "AIQueryPrivacyRisk"
+    title: "AI Query Privacy Risk"
+    url: "/wiki/concepts/aiqueryprivacyrisk/"
   - key: "AIRankingReinforcement"
     title: "AI Ranking Reinforcement"
     url: "/wiki/concepts/airankingreinforcement/"
@@ -1658,6 +1661,9 @@ wiki_pages:
   - key: "AuditOpinionRisk"
     title: "Audit Opinion Risk"
     url: "/wiki/concepts/auditopinionrisk/"
+  - key: "AugmentedIntelligence"
+    title: "Augmented Intelligence"
+    url: "/wiki/concepts/augmentedintelligence/"
   - key: "AuspiciousOmenPolitics"
     title: "Auspicious Omen Politics / 祥瑞政治"
     url: "/wiki/concepts/auspiciousomenpolitics/"

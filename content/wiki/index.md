@@ -109,6 +109,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Enterprise Sales With No Product: Landing a Big Four Customer](sources/enterprise-sales-with-no-product-landing-a-big-four-customer.md) — The SaaS Podcast episode with Christian Lund on Templafy's pre-product enterprise sales, Big Four customer, POC qualification, cloud-to-AI technology resets, and buyer-ready AI messaging.
 - [咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？](sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222.md) — 声动早咖啡 episode on Food Republic-style food-court decline, delivery-margin pressure, restaurant-chain standardization, mall restaurantization, Skyland/City Mart successor formats, and short updates on mRNA cancer vaccines, Kling AI, Doubao in Tesla China, and Carlsberg's alcohol-free growth.
 - [EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise](sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise.md) — Data Science With Sam episode with Jim Spignardo of Proarc on enterprise AI pilot failure, Microsoft 365 Copilot adoption, shadow AI, governance, baselines, and dedicated AI ownership.
+- [EP 47: The AI Pioneer Who Decided Privacy Matters More Than Hype](sources/ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype.md) — Data Science With Sam episode with Jonathan Schaeffer on Chinook, deterministic AI verification, LLM error tolerance, Kind private local AI, RAG grounding, and digital sovereignty.
 - [宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26](sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b.md) — What's Next episode on Unitree's listing surge, humanoid-robot commercialization, repeat-purchase demand, existing-business versus option-value valuation, simulation, and Disney's IP-led robotics model.
 - [I, robot? AI and consciousness](sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015.md) — The Intelligence episode on AI consciousness boundaries, ELIZA and chatbot mind projection, Claude workspace analogies, Europe's STI surge, and Mary de Rachewiltz's translation of Ezra Pound's Cantos.
 - [271.唐朝都要不存在了？为什么伪史论会在今年大爆发？](sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un.md) — 乱翻书 live episode on 伪史论, "唐朝不存在", historical evidence chains, short-video amplification, simple-causality comfort, professional-community trust, and arguing for bystanders.
@@ -1451,6 +1452,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jonathan Schaeffer](entities/JonathanSchaeffer.md) — AI researcher and Data Science With Sam EP47 guest connecting Chinook, deterministic AI verification, LLM error tolerance, Kind private AI, and digital sovereignty.
+- [Chinook Checkers](entities/ChinookCheckers.md) — Checkers AI program used in EP47 as a deterministic verification contrast to error-prone LLM output.
+- [Kind Private AI](entities/KindPrivateAI.md) — Source-scoped private desktop AI product from Synsira that runs over local user files with RAG, citations, guardrails, and no internet access during use.
+- [Synsira](entities/Synsira.md) — Company and website context attached to Kind Private AI in Data Science With Sam EP47.
+- [University of Alberta](entities/UniversityOfAlberta.md) — University affiliation for Jonathan Schaeffer and an institutional node for Canadian AI research context.
+- [Alberta Machine Intelligence Institute](entities/AlbertaMachineIntelligenceInstitute.md) — AI institute co-founded by Jonathan Schaeffer, linked by EP47 to Canadian AI research and sovereignty context.
 - [桥玄 / Qiao Xuan (late Han)](entities/QiaoXuanLateHan.md) — Senior late-Han official whose endorsement and Xu Shao referral help Cao Cao convert elite recognition into reputation.
 - [曹腾 / Cao Teng (late Han)](entities/CaoTengLateHan.md) — Eunuch adoptive grandfather in Cao Cao's family background, anchoring the label Cao Cao tries to offset through anti-eunuch signaling.
 - [贾从 / Jia Cong (late Han)](entities/JiaCongLateHan.md) — Late-Han official who pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, and appointing clean local officials.
@@ -8950,6 +8957,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Local Private AI](concepts/LocalPrivateAI.md) — Pattern where AI runs against private user data on the user's own machine rather than exposing files, prompts, or queries to cloud services.
+- [Digital Sovereignty](concepts/DigitalSovereignty.md) — Control over data, AI infrastructure, jurisdiction, and technology dependencies at organizational or national scale.
+- [Deterministic AI Verification](concepts/DeterministicAIVerification.md) — Verification pattern for bounded systems, contrasted in EP47 with probabilistic LLM output.
+- [Augmented Intelligence](concepts/AugmentedIntelligence.md) — Human-supervised AI framing where models extend capability but users still verify and own important outcomes.
+- [AI Query Privacy Risk](concepts/AIQueryPrivacyRisk.md) — Risk that prompts, search terms, interaction logs, or retrieval traces reveal sensitive personal or professional information.
 - [名士背书式造势 / Elite-Endorsement Reputation Making](concepts/EliteEndorsementReputationMaking.md) — Hanji 926 pattern where elite evaluators, memorable labels, and counter-signaling turn reputation into political entry capital.
 - [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where an official first diagnoses why people rebelled, then combines relief, reassurance, clean appointments, and targeted punishment.
 - [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.

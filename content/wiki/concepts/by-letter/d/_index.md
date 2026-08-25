@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5405
+wiki_total_pages: 5410
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "DetentionAsLocalEconomicDevelopment"
     title: "Detention As Local Economic Development"
     url: "/wiki/concepts/detentionaslocaleconomicdevelopment/"
+  - key: "DeterministicAIVerification"
+    title: "Deterministic AI Verification"
+    url: "/wiki/concepts/deterministicaiverification/"
   - key: "DeterministicAuditData"
     title: "Deterministic Audit Data"
     url: "/wiki/concepts/deterministicauditdata/"
@@ -392,6 +395,9 @@ wiki_pages:
   - key: "DigitalPreservation"
     title: "Digital Preservation"
     url: "/wiki/concepts/digitalpreservation/"
+  - key: "DigitalSovereignty"
+    title: "Digital Sovereignty"
+    url: "/wiki/concepts/digitalsovereignty/"
   - key: "DigitalTranscendenceAsControl"
     title: "Digital Transcendence As Control"
     url: "/wiki/concepts/digitaltranscendenceascontrol/"

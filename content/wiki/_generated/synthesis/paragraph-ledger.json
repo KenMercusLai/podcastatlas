@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ab0b793d55f3a0dd24461592cdba3af1e4322fd13e7177eac84849a9d38414af",
       "06faea8aceebcaed86203d949331f2b3f2786db5ba3600addd61451f5a3c99dd",
       "fee792d2d3a363d08fa62ba93c1ff393f7068a0e901761816ccdd04f5e382c15",
       "c1c272cdaec6b67eb617285242627455eeef6fae3f5f11f5f92655fef97f8a58",
@@ -217,11 +218,50 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 215
+    "paragraph_count": 216
   },
-  "overview_commit": "6765151a72f3c2bfc8ef47a1c0539adae71eab44",
-  "overview_digest": "1770eac242c448270b8fcc40ad8bec59549c43ffeb0fdca3cf1fbacaf81d126f",
+  "overview_commit": "8eee34763537d6005cbf2f18f9fb87fe959f2d3f",
+  "overview_digest": "5f668889133d6292342eadbfb94ec75289d135004167239c6d00758323b98844",
   "paragraphs": [
+    {
+      "id": "ab0b793d55f3a0dd24461592cdba3af1e4322fd13e7177eac84849a9d38414af",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]], a [[DataScienceWithSam]] episode with [[JonathanSchaeffer]] on [[ChinookCheckers]], [[KindPrivateAI]], and the privacy/governance boundary around LLMs. It adds [[JonathanSchaeffer]], [[ChinookCheckers]], [[KindPrivateAI]], [[Synsira]], [[UniversityOfAlberta]], [[AlbertaMachineIntelligenceInstitute]], [[LocalPrivateAI]], [[DigitalSovereignty]], [[DeterministicAIVerification]], [[AugmentedIntelligence]], and [[AIQueryPrivacyRisk]], while extending [[DataScienceWithSam]], [[SamDataScienceWithSam]], [[RetrievalAugmentedGeneration]], [[AIHallucination]], [[AIVerification]], [[HumanJudgmentUnderAI]], [[AIProfessionalDataSecurity]], [[PersonalHealthData]], and [[LocalAIWorkstation]]. Its core synthesis is that AI reliability and privacy are design-boundary questions: deterministic systems such as checkers solving can demand zero-error verification, while LLMs remain supervised augmented-intelligence tools; local RAG-style products can keep sensitive files and queries on the user's machine, but broader digital sovereignty still depends on who controls data, infrastructure, agreements, and jurisdiction. No direct contradiction is recorded; the guest identity and product/company details are kept source-scoped to the episode description.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "AIHallucination",
+        "AIProfessionalDataSecurity",
+        "AIQueryPrivacyRisk",
+        "AIVerification",
+        "AlbertaMachineIntelligenceInstitute",
+        "AugmentedIntelligence",
+        "ChinookCheckers",
+        "DataScienceWithSam",
+        "DeterministicAIVerification",
+        "DigitalSovereignty",
+        "HumanJudgmentUnderAI",
+        "JonathanSchaeffer",
+        "KindPrivateAI",
+        "LocalAIWorkstation",
+        "LocalPrivateAI",
+        "PersonalHealthData",
+        "RetrievalAugmentedGeneration",
+        "SamDataScienceWithSam",
+        "Synsira",
+        "UniversityOfAlberta",
+        "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype"
+      ]
+    },
     {
       "id": "06faea8aceebcaed86203d949331f2b3f2786db5ba3600addd61451f5a3c99dd",
       "primary_topic": "work-education-and-society",
