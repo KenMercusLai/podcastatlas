@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5483
+wiki_total_pages: 5485
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "FortressSecurityIllusion"
     title: "Fortress Security Illusion / 筑城避世安全幻觉"
     url: "/wiki/concepts/fortresssecurityillusion/"
+  - key: "FortuneMisfortuneReversal"
+    title: "Fortune-Misfortune Reversal / 塞翁失马式福祸反转"
+    url: "/wiki/concepts/fortunemisfortunereversal/"
   - key: "ForumSubcultureMemory"
     title: "Forum Subculture Memory / 论坛亚文化记忆"
     url: "/wiki/concepts/forumsubculturememory/"

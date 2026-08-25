@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 5483
+wiki_total_pages: 5485
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "LocalNewsAutomationTradeoff"
     title: "Local News Automation Tradeoff"
     url: "/wiki/concepts/localnewsautomationtradeoff/"
+  - key: "LocalOfficialTenureStability"
+    title: "Local Official Tenure Stability / 地方官任期稳定"
+    url: "/wiki/concepts/localofficialtenurestability/"
   - key: "LocalPartnerMarketEntry"
     title: "Local Partner Market Entry"
     url: "/wiki/concepts/localpartnermarketentry/"

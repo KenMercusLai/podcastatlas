@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1480
+topic_total_pages: 1481
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -325,6 +325,9 @@ topic_concepts:
   - key: "FortifiedAttritionPatience"
     title: "Fortified Attrition Patience / 坚壁耗敌式耐心"
     url: "/wiki/concepts/fortifiedattritionpatience/"
+  - key: "FortuneMisfortuneReversal"
+    title: "Fortune-Misfortune Reversal / 塞翁失马式福祸反转"
+    url: "/wiki/concepts/fortunemisfortunereversal/"
   - key: "FounderNarrativeReliability"
     title: "Founder Narrative Reliability"
     url: "/wiki/concepts/foundernarrativereliability/"

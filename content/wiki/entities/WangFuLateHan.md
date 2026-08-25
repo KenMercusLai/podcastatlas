@@ -2,11 +2,13 @@
 title: "王甫 / Wang Fu (late Han)"
 type: entity
 tags: [late-han, han, eunuch, court-politics]
-sources: [zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
+sources: [zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
 last_updated: 2026-08-26
 ---
 
 # 王甫 / Wang Fu (late Han)
+
+[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] gives Wang Fu an earlier palace-accusation branch before his Hanji 915 destruction. After Song Fei is killed, Wang Fu fears [[EmpressSongLateHan|宋皇后]]'s resentment and accuses her of using wugu against [[EmperorLingOfHan|汉灵帝]], making him a key actor in a lethal [[WuguPoliticalPanic|巫蛊政治恐慌]] case.
 
 [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] supplies Wang Fu's pre-destruction exposure. The episode places him beside [[CaoJieLateHan|曹节]] as a powerful eunuch whose family members and retainers occupy offices, while his adopted son [[WangJiLateHan|王吉]] is accused of mass killing and corpse display as Pei chancellor.
 
@@ -21,6 +23,7 @@ The same source makes [[YangBiao|杨彪]]'s report against Wang Fu's Jingzhao re
 The episode uses Wang Fu mainly to situate Cao Jie's power and the anti-eunuch hostility facing the court. His page is source-scoped until later ingests add a fuller Wang Fu branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[EmpressSongLateHan|宋皇后]], [[EmperorLingOfHan|汉灵帝]], and [[WuguPoliticalPanic|巫蛊政治恐慌]] - accusation that turns palace rivalry into lethal action.
 - [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangJiLateHan|王吉]], [[WangMengLateHan|王萌]], [[YangBiao|杨彪]], [[DuanJiongLateHan|段熲]], and [[YangQiuLateHan|阳球]] - pre-destruction family-network exposure, prosecution, and corpse humiliation.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[YuGuirenLateHan|于贵人]], [[CaoJieLateHan|曹节]], and [[YangQiuLateHan|阳球]] - roadside corpse humiliation that triggers eunuch regrouping against Yang Qiu.
 - [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] and [[YangQiuLateHan|阳球]] — prosecution success that fuels the later anti-Cao Jie attempt.

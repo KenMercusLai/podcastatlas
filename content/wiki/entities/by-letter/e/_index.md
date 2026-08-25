@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 7646
+wiki_total_pages: 7647
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "EmpressDowagerHe"
     title: "何太后 / Empress Dowager He"
     url: "/wiki/entities/empressdowagerhe/"
+  - key: "EmpressSongLateHan"
+    title: "宋皇后 / Empress Song (late Han)"
+    url: "/wiki/entities/empresssonglatehan/"
   - key: "EachNet"
     title: "易趣 / EachNet"
     url: "/wiki/entities/eachnet/"

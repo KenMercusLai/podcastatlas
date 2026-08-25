@@ -21630,6 +21630,13 @@
       "url": "/topics/history/"
     }
   ],
+  "FortuneMisfortuneReversal": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "FortyThreeTalks": [
     {
       "key": "technology",
@@ -33754,6 +33761,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "LocalOfficialTenureStability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LocalPrivateAI": [

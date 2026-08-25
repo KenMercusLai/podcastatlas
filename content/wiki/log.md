@@ -11814,6 +11814,14 @@ Ran health, identity validation, and lint. Health scanned 14,600 wiki pages with
 
 Added source page for Hanji 914: trust-and-injury opening, Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored anti-Hongdu memorial, Xidi office-sale pricing and private-store proceeds, Yang Qi's Emperor Huan comparison and Yang Zhen family taunt, and Huzheng's Southern Xiongnu succession before Hanji 915. Created Hongdu Menxue and Yang Zhen; updated Emperor Ling, Yang Qiu, Yang Qi, Huzheng, Southern Xiongnu, Office-Sale Legitimacy Damage, Imperial Private Treasury Extraction, Court Office Capture, Court Feedback Collapse, index, and overview. No settled contradiction found; transcript variants 弘都门, 杨求, 杨齐, 岳松, and 江澜 are normalized cautiously.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸
+
+Added source page for Hanji 913: workplace bullying and explanation-boundary framing, Cai Yong's framed exile and survival, Song Empress's wugu accusation and death, Lu Zhi's ignored memorial on party prisoners, empress-family burial, local-official tenure, and appointment standards, plus Xianbei pressure near Jiuquan. Created Empress Song (late Han), Fortune-Misfortune Reversal, and Local Official Tenure Stability; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants around Cai Yong, Cheng Huang, Wang Fu, Lu Zhi, Chen Qiu, and minor names are normalized source-scoped.
+
 ## [2026-08-26] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,603 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API keys are unset; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

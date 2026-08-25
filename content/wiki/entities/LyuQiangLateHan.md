@@ -2,11 +2,13 @@
 title: "吕强 / Lyu Qiang (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut]
+sources: [zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut]
 last_updated: 2026-08-26
 ---
 
 # 吕强 / Lyu Qiang (late Han)
+
+[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds Lyu Qiang's earlier corrective-insider branch. When [[CaiYong|蔡邕]] and his uncle face death after [[ChengHuangLateHan|程璜]]'s accusation, Lyu Qiang intercedes; [[EmperorLingOfHan|汉灵帝]] commutes the sentence to exile. This makes Lyu Qiang a protective palace insider before his later refused-title and Yellow Turban memorials.
 
 [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills Lyu Qiang before the private-treasury and Yellow Turban branches. When [[EmperorLingOfHan|汉灵帝]] wants to make him a 都乡侯, Lyu Qiang refuses and invokes the no-merit-no-marquis rule, turning his own refusal into criticism of eunuch favorites such as [[CaoJieLateHan|曹节]] and [[ZhuYuLateHan|朱瑀]].
 
@@ -23,6 +25,7 @@ His advice helps produce the [[PartyBanCrisisAmnesty|党锢危机赦免]], but i
 The source makes Lyu Qiang a boundary figure for [[CourtFeedbackCollapse|君臣反馈失灵]]. Correct information can come from inside the eunuch channel, but that does not protect the speaker when the same channel controls accusation, access, and interpretation.
 
 ## Connections
+- [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[CaiYong|蔡邕]], [[ChengHuangLateHan|程璜]], and [[EmperorLingOfHan|汉灵帝]] - intercession that changes Cai Yong's death sentence into exile.
 - [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[MeritBasedRewardPunishment|因功赏罚]], [[UntimelyExtravagance|时绌举赢]], [[CaiYong|蔡邕]], and [[DuanJiongLateHan|段熲]] - refused title and broad remonstrance against eunuch privilege, palace burden, punished speech, and punished merit.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]], and [[CourtOfficeCapture|朝廷开府任官失序]] - private-treasury remonstrance and appointment-accountability diagnosis.
 - [[zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut|Hanji 924]], [[EmperorLingOfHan|汉灵帝]], [[HuangfuSongLateHan|皇甫嵩]], and [[PartyBanCrisisAmnesty|党锢危机赦免]] - emergency amnesty and personnel-repair advice.

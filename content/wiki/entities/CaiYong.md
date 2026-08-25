@@ -2,11 +2,13 @@
 title: "蔡邕 / Cai Yong"
 type: entity
 tags: [person, late-han, scholar, historian, literature]
-sources: [zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-26
 ---
 
 # 蔡邕 / Cai Yong
+
+[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds the 178 CE accusation and exile branch that Hanji 917 later recalls. [[ChengHuangLateHan|程璜]] instigates a slander case against Cai Yong and his uncle; Cai's self-defense fails, but [[LyuQiangLateHan|吕强]] intercedes and [[EmperorLingOfHan|汉灵帝]] commutes death to mutilating punishment and exile to Shuofang. The host reads the exile through [[FortuneMisfortuneReversal|塞翁失马式福祸反转]] because distance from court helps Cai escape later attempts to kill him.
 
 [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills Cai Yong before the Dong Zhuo-era branches. [[LyuQiangLateHan|吕强]]'s memorial recalls how Cai answered [[EmperorLingOfHan|汉灵帝]] frankly, the confidential response leaked, hostile actors retaliated through accusation, and Cai's punishment and exile taught other ministers to keep silent.
 
@@ -30,6 +32,7 @@ Cai Yong asks to survive, even under mutilating punishment, so he can finish Han
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[ChengHuangLateHan|程璜]], [[LyuQiangLateHan|吕强]], [[EmperorLingOfHan|汉灵帝]], and [[FortuneMisfortuneReversal|塞翁失马式福祸反转]] - framed accusation, commuted exile, and survival through distance from court.
 - [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - frank response, leaked confidentiality, punishment, exile, and attempted recall.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[CoercedTalentLegitimacy|胁迫征士合法性]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - forced summons, family threat, and rapid promotion before Cai Yong's later reputation-broker role.
 - [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[LuZhiLateHan|卢植]], [[CoercedImperialReplacement|胁迫式废立]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - early prestige borrowing and warning against killing Lu Zhi.

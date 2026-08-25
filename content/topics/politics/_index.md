@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1881
+topic_total_pages: 1882
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1492,6 +1492,9 @@ topic_concepts:
   - key: "LocalGovernmentPolicyExperimentation"
     title: "Local Government Policy Experimentation / 地方政府政策实验"
     url: "/wiki/concepts/localgovernmentpolicyexperimentation/"
+  - key: "LocalOfficialTenureStability"
+    title: "Local Official Tenure Stability / 地方官任期稳定"
+    url: "/wiki/concepts/localofficialtenurestability/"
   - key: "LocalPsychedelicDecriminalization"
     title: "Local Psychedelic Decriminalization"
     url: "/wiki/concepts/localpsychedelicdecriminalization/"

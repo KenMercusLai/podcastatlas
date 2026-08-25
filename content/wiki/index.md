@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸](sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g.md) — 芮淇讲透资治通鉴 episode on Cai Yong's framed exile and survival, Song Empress's wugu accusation and death, Lu Zhi's ignored institutional memorial, and source-scoped workplace/self-protection readings of explanation and misfortune.
 - [《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？](sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored memorial, Xidi office-sale pricing, private-store proceeds, Yang Qi's Emperor Huan comparison, and Huzheng's Southern Xiongnu succession.
 - [Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores](sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790.md) — All-In episode on AI/chip-stock leverage risk, Leopold Aschenbrenner's reported margin call, frontier-lab pacing politics, open-model pressure, training-data copyright, Mamdani's city-owned groceries, and fruit-fly neural geometry.
 - [《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？](sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus.md) — 芮淇讲透资治通鉴 episode on relationship-boundary readings of "口误", Qiao Xuan's refusal to ransom his abducted son, no-ransom deterrence, and Yang Qiu's first strike against Wang Fu, Duan Jiong, and Wang Fu's family network before Cao Jie's rebound.
@@ -1481,6 +1482,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [宋皇后 / Empress Song (late Han)](entities/EmpressSongLateHan.md) — Emperor Ling's empress killed after Wang Fu turns palace rivalry and wugu accusation into lethal court action; distinct from the Song dynasty empress page.
 - [杨震 / Yang Zhen (late Han)](entities/YangZhenLateHan.md) — Yang-family reputation figure invoked when Emperor Ling mocks Yang Qi after the Emperor Huan comparison.
 - [Leopold Aschenbrenner](entities/LeopoldAschenbrenner.md) — Former OpenAI employee and AI investor used by All-In as a source-scoped case in levered AI-stock liquidation risk.
 - [Zohran Mamdani](entities/ZohranMamdani.md) — New York political figure whose city-owned grocery proposal extends the wiki's affordability-socialism and retail-execution branch.
@@ -9482,6 +9484,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
 - [求财先明道 / Wealth Through Dao Frame](concepts/WealthThroughDaoFrame.md) — Hanji 920 wealth ethic that treats money as the visible result of grasping rules, trends, value, human feeling, and moral limits.
 - [Cognition As Fortune Root / 认知通达决定福禄](concepts/CognitionAsFortuneRoot.md) — Claim that clear cognition and changed worldview shape fortune, now extended by Hanji 920's narrower wealth-through-Dao formulation.
+- [Fortune-Misfortune Reversal / 塞翁失马式福祸反转](concepts/FortuneMisfortuneReversal.md) — Hanji 913 frame where an apparent loss can remove a person from a worse danger without making suffering intrinsically good.
 - [Fate Change Through Virtue Practice / 积善修心式改命](concepts/FateChangeThroughVirtuePractice.md) — Hanji 161 part 4 frame where inherited命数 can be altered through intention,修心,发愿, accumulated good deeds, and embodied practice.
 - [High-Dimensional Consciousness Entanglement / 高维意识纠缠](concepts/HighDimensionalConsciousnessEntanglement.md) — Hanji 161 part 3 synthesis where Daoist/Buddhist transcendence, parallel worlds, all-things-have-spirit, and Tesla-style frequency language become the source's strongest quantum-consciousness claim.
 - [Buddhist Consciousness Projection Frame / 佛教心识投射框架](concepts/BuddhistConsciousnessProjectionFrame.md) — Hanji 161 part 3 frame using 《金刚经》, 心, 识, 相, 空, and practice levels to explain appearance as consciousness-shaped rather than final reality.
@@ -9929,6 +9932,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.
 - [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Frame for disorder when a ruler-centered polity lacks a legible, enforceable succession path before death creates a scramble.
 - [Patron Succession Exposure / 靠山更替暴露风险](concepts/PatronSuccessionExposure.md) — Risk that a minister protected by one ruler or court balance becomes exposed when succession lets a new regime revalue prior service.
+- [Local Official Tenure Stability / 地方官任期稳定](concepts/LocalOfficialTenureStability.md) — Lu Zhi's Hanji 913 argument that governors and inspectors need stable multi-year terms and evaluation to avoid short-termism and appointment churn.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.
 - [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.
 - [Generational Family Strategy / 家族代际战略](concepts/GenerationalFamilyStrategy.md) — Zhouji 10 frame for reading Han's destruction of Zheng as a lineage-level, multi-generation project.
