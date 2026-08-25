@@ -216,15 +216,25 @@
     },
     {
       "global_candidate": false,
-      "id": "late-han-education-channel-and-family-collateral-prelude",
+      "id": "late-han-frontier-decision-and-education-channel-prelude",
       "qualifications": [
         "The claim is limited to the late-Han synthesis paragraph in the work/education input; the broader guarded-disclosure advice remains source-scoped on the source and concept pages.",
+        "Hanji 909 enters this topic through the late-Han synthesis paragraph as a decision-and-command case, not through the episode's broader personal-cultivation opening.",
         "Hongdu Menxue is treated here as an appointment-channel conflict, not as a full institutional reform equivalent to later examination systems."
       ],
-      "statement": "Hanji 910 adds a late-Han work-and-society prelude: [[EmperorLingOfHan]] uses [[HongduMenxue]] against [[Taixue]] as an [[OfficialSelectionChannelCompetition]] case, while [[ZhaoBaoLateHan]] shows family vulnerability becoming [[LoyaltyCollateralDilemma]] under [[Xianbei]] pressure.",
+      "statement": "Hanji 909-910 add a late-Han work-and-society prelude: [[CaiYong]]'s warning, [[WangFuLateHan]]'s sponsorship of [[TianYanLateHan]], and the defeat of [[XiaYuLateHan]] and [[ZangMinLateHan]] by [[TanshihuaiXianbei]] show [[OverextendedFrontierExpedition]] and [[CourtFeedbackCollapse]] as command-selection and institutional-judgment failures, while [[EmperorLingOfHan]] uses [[HongduMenxue]] against [[Taixue]] as [[OfficialSelectionChannelCompetition]] and [[ZhaoBaoLateHan]] shows family vulnerability becoming [[LoyaltyCollateralDilemma]] under [[Xianbei]] pressure.",
       "status": "source-scoped",
       "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj",
         "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk",
+        "CaiYong",
+        "WangFuLateHan",
+        "TianYanLateHan",
+        "XiaYuLateHan",
+        "ZangMinLateHan",
+        "TanshihuaiXianbei",
+        "OverextendedFrontierExpedition",
+        "CourtFeedbackCollapse",
         "EmperorLingOfHan",
         "HongduMenxue",
         "Taixue",
@@ -394,6 +404,6 @@
       ]
     }
   ],
-  "summary": "Hanji 910 adds a premodern education-and-social-order prelude: Hongdu Menxue turns learning routes into office-channel competition, while Zhao Bao makes family vulnerability part of a loyalty-collateral dilemma under frontier pressure. The 2026-08-24 The Intelligence source adds a cohort-scarring branch: Japan's employment ice age generation shows that a weak labor-market entry window can shape wages, housing, pensions, and household formation long after the initial downturn. The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition. The Wudang episode adds a Daoist fieldwork and life-design branch: quitting work and going up the mountain become analytically useful only after romantic retreat stories are grounded in temple shifts, chores, bodily discomfort, tourist mediation, family obligations, fieldnote practice, and a Zhuangzi-style freedom based on reducing dependence on external scoring.",
+  "summary": "Hanji 909 adds a premodern decision-and-command prelude: Cai Yong warns against deep Xianbei war, Wang Fu-sponsored command selection, and the Xianbei defeat join institutional judgment to work-and-social-order analysis. Hanji 910 then adds a premodern education-and-social-order prelude: Hongdu Menxue turns learning routes into office-channel competition, while Zhao Bao makes family vulnerability part of a loyalty-collateral dilemma under frontier pressure. The 2026-08-24 The Intelligence source adds a cohort-scarring branch: Japan's employment ice age generation shows that a weak labor-market entry window can shape wages, housing, pensions, and household formation long after the initial downturn. The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition. The Wudang episode adds a Daoist fieldwork and life-design branch: quitting work and going up the mountain become analytically useful only after romantic retreat stories are grounded in temple shifts, chores, bodily discomfort, tourist mediation, family obligations, fieldnote practice, and a Zhuangzi-style freedom based on reducing dependence on external scoring.",
   "topic_id": "work-education-and-society"
 }

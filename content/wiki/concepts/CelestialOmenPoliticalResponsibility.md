@@ -2,11 +2,13 @@
 title: "Celestial Omen Political Responsibility / 天象政治责任"
 type: concept
 tags: [historiography, omens, legitimacy, chinese-history]
-sources: [zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-26
 ---
 
 # Celestial Omen Political Responsibility / 天象政治责任
+
+[[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] adds an earlier 177 CE office-responsibility layer. After the failed Xianbei expedition, a tenth-month first-day solar eclipse is followed by [[LiuKuanLateHan|刘宽]]'s removal as taiwei and [[MengYuLateHan|孟郁]]'s appointment, so the omen functions as senior-office accountability in the shadow of military failure.
 
 [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]] adds the immediate 178 CE prelude to the better-developed Hanji 912 omen remonstrance. Earthquake, a hen turning male, [[ChenDanLateHan|陈耽]]'s removal, and [[LaiYanLateHan|来艳]]'s appointment show anomaly notices already being recorded beside senior-office movement before black qi and palace-rainbow diagnoses appear.
 
@@ -33,6 +35,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds a Qin imperial case through [[ChineseAstrologicalPolitics|荧惑守心]]. The source explains the sign as Mars pausing or reversing in the Heart mansion and treats it as a warning attached to the ruler's fate. The page keeps the same method as with eclipses: the omen is evidence for political reasoning and narrative pressure, not proof of celestial causation.
 
 ## Key Claims
+- Hanji 909 adds an eclipse-and-office version before the later 178 omen sequence: military failure is followed by solar-eclipse responsibility and taiwei replacement.
 - Hanji 911 adds a pre-remonstrance anomaly-and-office layer: earthquake and animal omen are recorded beside Chen Dan's removal and Lai Yan's appointment before officials translate omens into detailed diagnosis.
 - Hanji 912 adds that palace omens can become a direct request for political diagnosis, linking harem, eunuch, Hongdu, personnel, and extravagance failures to the ruler's responsibility.
 - Hanji 916 adds that omen language can strengthen a remonstrance without triggering correction when the court shelves the memorial.
@@ -49,6 +52,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 - Qinji 126 adds that non-eclipse celestial events could also be read as direct warnings about imperial death and legitimacy crisis.
 
 ## Connections
+- [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[LiuKuanLateHan|刘宽]], [[MengYuLateHan|孟郁]], [[EmperorLingOfHan|汉灵帝]], and [[OverextendedFrontierExpedition|边境远征过度]] - post-expedition eclipse and taiwei replacement.
 - [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]], [[ChenDanLateHan|陈耽]], [[LaiYanLateHan|来艳]], and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] - earthquake, hen-turning-male notice, and senior-office turnover before the Hanji 912 remonstrance.
 - [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[YangCiLateHan|杨赐]], [[CaiYong|蔡邕]], [[EmperorLingOfHan|汉灵帝]], [[HongduMenxue|鸿都门学]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - black qi, palace rainbow, and hens-turning-male omens used for political diagnosis.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[ShenZhongLateHan|沈忠]], [[EmperorLingOfHan|汉灵帝]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[DeathDefyingRemonstrance|赴死式直谏]] - omens used inside a shelved anti-eunuch memorial.

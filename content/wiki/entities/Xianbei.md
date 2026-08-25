@@ -2,13 +2,15 @@
 title: "鲜卑 / Xianbei"
 type: entity
 tags: [people, frontier, late-han, steppe, china]
-sources: [zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-26
 ---
 
 # 鲜卑 / Xianbei
 
-[[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]] adds the earliest Xianbei marker currently attached to this page. In 177 CE, Xianbei forces capture [[ZhaoBaoLateHan|赵苞 / 赵包]]'s mother and wife near Liucheng and use them as battlefield leverage, making frontier pressure a case of [[LoyaltyCollateralDilemma|忠义牵连困境]] rather than only border raiding.
+[[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] adds the earliest Xianbei marker currently attached to this page. In 177 CE, Xianbei raids lead [[XiaYuLateHan|夏育]] to request a deep Han offensive, but [[CaiYong|蔡邕]] warns that Xianbei has grown after occupying former Xiongnu lands, gaining horses, weapons, Han fugitives, and battlefield knowledge. [[TanshihuaiXianbei|檀石槐]] then concentrates east, central, and west Xianbei forces and destroys the three Han columns, making Xianbei a test case for [[OverextendedFrontierExpedition|边境远征过度]].
+
+[[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]] adds the next 177 CE Xianbei marker. Xianbei forces capture [[ZhaoBaoLateHan|赵苞 / 赵包]]'s mother and wife near Liucheng and use them as battlefield leverage, making frontier pressure a case of [[LoyaltyCollateralDilemma|忠义牵连困境]] rather than only border raiding.
 
 [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds the next Xianbei marker. After the court notices around [[ChenQiuLateHan|陈球]] and Qiao Xuan, the source records Xianbei pressure against Jiuquan in the [[HexiFourCommanderiesLateHan|河西四郡]] zone, placing frontier stress beside [[EmperorLingOfHan|汉灵帝]]'s palace and personnel failures.
 
@@ -29,6 +31,7 @@ The source uses the incursion as one item in a broader late-Han stress field rat
 The source uses Xianbei mainly to show that Gongsun Zan's political failure has widened beyond a narrow Han official dispute. Frontier groups, Liu Yu loyalists, and Yuan Shao's network all find common cause against him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[CaiYong|蔡邕]], [[XiaYuLateHan|夏育]], [[TianYanLateHan|田晏]], [[ZangMinLateHan|臧旻]], [[TanshihuaiXianbei|檀石槐]], and [[OverextendedFrontierExpedition|边境远征过度]] - 177 CE offensive debate and failed deep expedition.
 - [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], [[ZhaoBaoLateHan|赵苞 / 赵包]], [[TanshihuaiXianbei|檀石槐]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - 177 CE family-hostage battle before the later incursion and succession branches.
 - [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[HexiFourCommanderiesLateHan|河西四郡]], and [[EmperorLingOfHan|汉灵帝]] - 178 CE Jiuquan pressure marker beside court failure.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[YouzhouLateHan|幽州]], [[BingzhouLateHan|并州]], and [[BandunMan|板楯蛮]] - 179-180 CE frontier-pressure marker before later leadership-transition material.

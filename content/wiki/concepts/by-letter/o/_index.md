@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 5488
+wiki_total_pages: 5489
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "OverPersonalizedCrisisDiplomacy"
     title: "Over-Personalized Crisis Diplomacy"
     url: "/wiki/concepts/overpersonalizedcrisisdiplomacy/"
+  - key: "OverextendedFrontierExpedition"
+    title: "Overextended Frontier Expedition / 边境远征过度"
+    url: "/wiki/concepts/overextendedfrontierexpedition/"
   - key: "OverseasBriberyExportSales"
     title: "Overseas Bribery Export Sales"
     url: "/wiki/concepts/overseasbriberyexportsales/"

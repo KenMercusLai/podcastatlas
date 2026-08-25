@@ -2,7 +2,7 @@
 title: "Natural Disaster Political Omen / 自然灾害政治征兆"
 type: concept
 tags: [historiography, omens, legitimacy, chinese-history]
-sources: [zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
+sources: [zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
 last_updated: 2026-08-26
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-26
 Natural disaster political omen / 自然灾害政治征兆 is the interpretive habit [[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] illustrates through the Guo mountain landslide and Yellow River blockage. The source says this is the first natural disaster recorded in [[ZizhiTongjian|《资治通鉴》]], then uses [[WangYinglin|王应麟]]'s later reading to show how disaster could be linked to state fate.
 
 The concept is adjacent to [[MandateOfHeavenLegitimacy]] and [[AuspiciousOmenPolitics]], but it emphasizes damaging signs rather than favorable signs. Its use should remain source-scoped: a disaster may reveal how historical actors reasoned about legitimacy without proving the causal claim they made.
+
+[[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] adds a late-Han earthquake-and-office branch before the 178 omen sequence. After the failed Xianbei expedition and the solar-eclipse removal of [[LiuKuanLateHan|刘宽]], a [[LuoyangLateHan|洛阳]] earthquake is followed by [[ChenQiuLateHan|陈球]]'s removal as sikong and [[ChenDanLateHan|陈耽]]'s appointment, with [[YangCiLateHan|杨赐]] also removed as situ.
 
 [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]] adds a late-Han earthquake branch. The source pairs the April 178 earthquake with a hen turning male, [[ChenDanLateHan|陈耽]]'s removal, and [[LaiYanLateHan|来艳]]'s appointment, so the disaster notice matters less as material damage and more as part of the omen-and-office environment that [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] develops.
 
@@ -21,6 +23,7 @@ The concept is adjacent to [[MandateOfHeavenLegitimacy]] and [[AuspiciousOmenPol
 [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] adds a Zhao earthquake and famine sequence but shifts emphasis away from omen interpretation. The source does include fear-making and ominous-sign manufacture through [[DunRuo|顿弱]], yet its main analytic use of disaster is material: walls collapse, food runs short, morale weakens, and Qin can choose [[DisasterExploitingConquestTiming|趁灾进攻时机]].
 
 ## Key Claims
+- Hanji 909 adds that a terrestrial disaster notice can be paired with senior-office removal after military failure, making earthquake accountability part of late-Han personnel churn.
 - Hanji 911 adds that a disaster notice can sit directly beside animal anomalies and senior-office turnover, making it part of political-omen context even without a detailed disaster-recovery narrative.
 - Mountain and river disorder could be read as disorder in the state whose life was tied to those landscapes.
 - Disaster interpretation can make political decline appear cosmically legible.
@@ -31,6 +34,7 @@ The concept is adjacent to [[MandateOfHeavenLegitimacy]] and [[AuspiciousOmenPol
 - A disaster notice can also be strategically material rather than mainly omen-like: the same earthquake or famine can affect walls, food, morale, and invasion timing.
 
 ## Connections
+- [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[LuoyangLateHan|洛阳]], [[ChenQiuLateHan|陈球]], [[ChenDanLateHan|陈耽]], [[YangCiLateHan|杨赐]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - post-expedition earthquake and senior-office turnover.
 - [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]], [[ChenDanLateHan|陈耽]], [[LaiYanLateHan|来艳]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - 178 CE earthquake and animal-omen setting before office turnover.
 - [[WangYinglin|王应麟]] - later interpreter in the source.
 - [[ZuoZhuan|《左传》]] - textual source for "国主山川."

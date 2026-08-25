@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》909丨2025如何养成一身贵气？
+
+Added source page for Hanji 909: "贵气" and self-command framing, Cai Yong's rejected warning against the 177 CE deep Xianbei expedition, Wang Fu's sponsorship of Tian Yan, Xia Yu/Tian Yan/Zang Min's three-route defeat by Tanshihuai, and eclipse/earthquake-linked office accountability afterward. Created Xia Yu, Tian Yan (late Han), Zang Min, Liu Kuan, Meng Yu, and Overextended Frontier Expedition; updated Cai Yong, Emperor Ling, Wang Fu, Xianbei, Tanshihuai, war-cost and strategic-assessment concepts, omen concepts, Ruiqi show page, index, and overview. No settled contradiction found; the episode's "last large-scale external expedition" claim remains source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》910丨社会生存，我劝你多点城府
 
 Added source page for Hanji 910: guarded-disclosure and social-survival framing, Zhao Bao's 177 CE family-hostage dilemma against Xianbei and Tanshihuai, the 178 CE Wuhu Man outbreak and omen-office setting, and Hongdu Menxue as Emperor Ling's counterweight to Taixue and great-clan selection power. Created Zhao Bao (Late Han); updated Xianbei, Tanshihuai, Wuhu Man, Emperor Ling, Ruiqi Jiangtou Zizhi Tongjian, Hongdu Menxue, Taixue, Official Selection Channel Competition, Court Office Capture, Loyalty-Collateral Dilemma, Communication Boundary Setting, index, and overview. No settled contradiction found; 赵包/赵苞 is kept distinct from Warring States Zhao Bao, and Hanji 910's Wuhu Man outbreak is treated as a chronology extension before Hanji 920's suppression branch.
@@ -11833,6 +11837,10 @@ Added source page for Hanji 913: workplace bullying and explanation-boundary fra
 ## [2026-08-26] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,603 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API keys are unset; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

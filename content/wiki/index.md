@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》909丨2025如何养成一身贵气？](sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj.md) — 芮淇讲透资治通鉴 episode on "贵气" as self-command, Cai Yong's rejected warning against the 177 CE Xianbei expedition, Xia Yu/Tian Yan/Zang Min's three-route defeat by Tanshihuai, and eclipse/earthquake office accountability after the failed campaign.
 - [《资治通鉴·汉纪》910丨社会生存，我劝你多点城府](sources/zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk.md) — 芮淇讲透资治通鉴 episode on guarded disclosure, Zhao Bao's 177 CE family-hostage dilemma against Xianbei and Tanshihuai, the 178 Wuhu Man outbreak and omen-office setting, and Hongdu Menxue as Emperor Ling's counterweight to Taixue and great-clan selection channels.
 - [《资治通鉴·汉纪》911丨古代公务员也能包分配？](sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e.md) — 芮淇讲透资治通鉴 episode on Hongdu Menxue as a fast-track appointment channel against Taixue, official-selection systems as power allocation, Shi Yiguan and Liang Hu's calligraphy talent, Zhang Hao's eunuch-linked taiwei promotion and gold-seal omen, and the earthquake/hen-omen office churn before Hanji 912.
 - [《资治通鉴·汉纪》912丨秘密到底该不该说出口？](sources/zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a.md) — 芮淇讲透资治通鉴 episode on Han Fei's secrecy warning, 178 CE omen remonstrance by Yang Ci and Cai Yong, Cao Jie's leak of Cai's confidential memorial, and source-scoped risk around loyal advice, secrecy, protection, and aftermath capacity.
@@ -1485,6 +1486,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [夏育 / Xia Yu (late Han)](entities/XiaYuLateHan.md) — Hu Wuhuan xiaoyu whose offensive memorial and failed 177 CE Xianbei expedition command become a late-Han overextension case.
+- [田晏 / Tian Yan (late Han)](entities/TianYanLateHan.md) — Pardoned late-Han figure who uses Wang Fu's palace access to gain Xianbei campaign command before sharing the three-route defeat.
+- [臧旻 / Zang Min (late Han)](entities/ZangMinLateHan.md) — Han commander who leads the Yanmen route with the Southern Xiongnu chanyu in the failed 177 CE Xianbei expedition.
+- [刘宽 / Liu Kuan (late Han)](entities/LiuKuanLateHan.md) — Taiwei removed after the post-expedition solar eclipse in Hanji 909's omen-accountability sequence.
+- [孟郁 / Meng Yu (late Han)](entities/MengYuLateHan.md) — Official appointed taiwei after Liu Kuan's removal in the Hanji 909 eclipse-and-office churn.
 - [张颢 / Zhang Hao (late-Han taiwei)](entities/ZhangHaoTaiweiLateHan.md) — Guanghe first-year taiwei whose eunuch-linked promotion and gold-seal omen make a late-Han appointment-favor case; podcast wording 张昊 is normalized to 张颢.
 - [来艳 / Lai Yan (late Han)](entities/LaiYanLateHan.md) — Taichang promoted to sikong after Chen Dan's removal in the 178 earthquake and animal-omen office sequence.
 - [师宜官 / Shi Yiguan](entities/ShiYiguanLateHan.md) — Hongdu-associated calligrapher whose restaurant-wall anecdote shows artistic talent inside the politically contested appointment channel.
@@ -9140,6 +9146,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Overextended Frontier Expedition / 边境远征过度](concepts/OverextendedFrontierExpedition.md) — Strategic failure pattern where a court escalates frontier raids into deep punitive war despite weak capacity, poor border control, strong opponents, and unsettled internal conditions.
 - [Confidential Remonstrance Leakage / 密奏泄露风险](concepts/ConfidentialRemonstranceLeakage.md) — Late-Han speech-risk pattern where a private corrective memorial is exposed through inner-court access and becomes intelligence for retaliation before advice can become protection or policy.
 - [选官通道竞争 / Official Selection Channel Competition](concepts/OfficialSelectionChannelCompetition.md) — Political-institutional pattern where rival education or recommendation routes compete over finite official posts, including Hongdu Menxue as Emperor Ling's counterchannel against Taixue and great-clan selection control.
 - [太学 / Taixue](concepts/Taixue.md) — Established classical education-to-office route and incumbent status field whose students resent Hongdu Menxue's faster appointment channel in the late-Han selection conflict.

@@ -27963,6 +27963,10 @@
     "title": "刘可凡 / Liu Kefan",
     "url": "/wiki/entities/liukefan/"
   },
+  "LiuKuanLateHan": {
+    "title": "刘宽 / Liu Kuan (late Han)",
+    "url": "/wiki/entities/liukuanlatehan/"
+  },
   "LiuLiangyou": {
     "title": "刘良佑 / Liu Liangyou",
     "url": "/wiki/entities/liuliangyou/"
@@ -30654,6 +30658,10 @@
   "MengYiQin": {
     "title": "蒙毅 / Meng Yi (Qin)",
     "url": "/wiki/entities/mengyiqin/"
+  },
+  "MengYuLateHan": {
+    "title": "孟郁 / Meng Yu (late Han)",
+    "url": "/wiki/entities/mengyulatehan/"
   },
   "MengZhu": {
     "title": "Meng Zhu",
@@ -34454,6 +34462,10 @@
   "OverStory": {
     "title": "OverStory",
     "url": "/wiki/entities/overstory/"
+  },
+  "OverextendedFrontierExpedition": {
+    "title": "Overextended Frontier Expedition / 边境远征过度",
+    "url": "/wiki/concepts/overextendedfrontierexpedition/"
   },
   "OverseasBriberyExportSales": {
     "title": "Overseas Bribery Export Sales",
@@ -46211,6 +46223,10 @@
     "title": "田衍 / Tian Yan",
     "url": "/wiki/entities/tianyan/"
   },
+  "TianYanLateHan": {
+    "title": "田晏 / Tian Yan (late Han)",
+    "url": "/wiki/entities/tianyanlatehan/"
+  },
   "TianYing": {
     "title": "田婴 / Tian Ying",
     "url": "/wiki/entities/tianying/"
@@ -50331,6 +50347,10 @@
     "title": "夏姬 / 夏太后 / Lady Xia",
     "url": "/wiki/entities/xiataihou/"
   },
+  "XiaYuLateHan": {
+    "title": "夏育 / Xia Yu (late Han)",
+    "url": "/wiki/entities/xiayulatehan/"
+  },
   "XiaYunLateHan": {
     "title": "夏韵 / Xia Yun (late Han)",
     "url": "/wiki/entities/xiayunlatehan/"
@@ -52210,6 +52230,10 @@
   "ZangHong": {
     "title": "臧洪 / Zang Hong",
     "url": "/wiki/entities/zanghong/"
+  },
+  "ZangMinLateHan": {
+    "title": "臧旻 / Zang Min (late Han)",
+    "url": "/wiki/entities/zangminlatehan/"
   },
   "ZangTu": {
     "title": "臧荼 / Zang Tu",
@@ -57234,6 +57258,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj": {
+    "title": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj/"
   },
   "zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk": {
     "title": "《资治通鉴·汉纪》910丨社会生存，我劝你多点城府",
