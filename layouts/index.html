@@ -56,12 +56,6 @@
       color: var(--muted);
     }
 
-    .home-feature-grid {
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 18px;
-    }
-
     .home-discovery-grid {
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -131,7 +125,6 @@
     }
 
     @media (max-width: 640px) {
-      .home-feature-grid,
       .home-discovery-grid,
       .home-latest-grid {
         grid-template-columns: 1fr;
@@ -160,28 +153,13 @@
     </div>
   </section>
 
-  {{ $currentSynthesis := .Site.GetPage "/wiki-projections/current-synthesis" }}
-  {{ $openQuestions := .Site.GetPage "/wiki-projections/open-questions" }}
-  <section class="home-section" aria-labelledby="current-knowledge-heading">
-    <h2 id="current-knowledge-heading" class="home-section-heading">Current knowledge</h2>
-    <p class="home-section-intro">See what the atlas currently synthesizes across podcast sources—and what remains unresolved.</p>
-    <div class="home-feature-grid">
-      {{ with $currentSynthesis }}
-        <article class="home-feature">
-          <span class="home-label">Living synthesis</span>
-          <h3><a href="{{ .RelPermalink }}">Current Synthesis</a></h3>
-          <p>A continuously updated synthesis of ideas and claims across all processed podcast sources.</p>
-        </article>
-      {{ end }}
-      {{ with $openQuestions }}
-        <article class="home-feature">
-          <span class="home-label">Unresolved</span>
-          <h3><a href="{{ .RelPermalink }}">Open Questions</a></h3>
-          <p>Questions that remain open as new episodes and sources enter the atlas.</p>
-        </article>
-      {{ end }}
-    </div>
-  </section>
+  {{ partial "current-knowledge-section.html" (dict
+    "site" .Site
+    "sectionClass" "home-section"
+    "headingID" "current-knowledge-heading"
+    "headingClass" "home-section-heading"
+    "introClass" "home-section-intro"
+  ) }}
 
   {{ $conceptSection := .Site.GetPage "/wiki/concepts" }}
   {{ $entitySection := .Site.GetPage "/wiki/entities" }}

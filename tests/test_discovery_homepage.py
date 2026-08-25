@@ -43,13 +43,24 @@ class DiscoveryHomepageLayoutTest(unittest.TestCase):
         self.assertEqual(homepage.count("$episodes :="), 1)
         self.assertEqual(homepage.count("$showSection :="), 1)
 
-    def test_homepage_leads_with_current_knowledge_state(self):
+    def test_homepage_and_wiki_share_the_dynamic_current_knowledge_state(self):
         homepage = HOME_LAYOUT.read_text()
+        wiki = (ROOT / "layouts/wiki/list.html").read_text()
+        current = (ROOT / "layouts/partials/current-knowledge-section.html").read_text()
 
-        self.assertIn('.Site.GetPage "/wiki-projections/current-synthesis"', homepage)
-        self.assertIn('.Site.GetPage "/wiki-projections/open-questions"', homepage)
-        self.assertIn("Current Synthesis", homepage)
-        self.assertIn("Open Questions", homepage)
+        self.assertIn('partial "current-knowledge-section.html"', homepage)
+        self.assertIn('partial "current-knowledge-section.html"', wiki)
+        self.assertIn('$site.GetPage "/wiki-projections/current-synthesis"', current)
+        self.assertIn('$site.GetPage "/wiki-projections/open-questions"', current)
+        self.assertIn("Current Synthesis", current)
+        self.assertIn("Open Questions", current)
+        self.assertIn("Params.summary", current)
+        self.assertIn("Params.last_updated", current)
+        self.assertIn("Params.source_count", current)
+        self.assertIn("Params.episode_count", current)
+        self.assertIn("Questions that remain open, contested, or under-supported", current)
+        self.assertNotIn("A continuously updated synthesis", homepage)
+        self.assertNotIn("Questions that remain open as new episodes", homepage)
 
     def test_daily_discoveries_use_reader_facing_copy(self):
         homepage = HOME_LAYOUT.read_text()

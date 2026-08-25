@@ -1,0 +1,40 @@
+{{ $site := .site }}
+{{ $currentSynthesis := $site.GetPage "/wiki-projections/current-synthesis" }}
+{{ $openQuestions := $site.GetPage "/wiki-projections/open-questions" }}
+{{ $updateHistory := $site.GetPage "/wiki-projections/update-history" }}
+<section class="{{ .sectionClass }}" aria-labelledby="{{ .headingID }}">
+  <h2 id="{{ .headingID }}"{{ with .headingClass }} class="{{ . }}"{{ end }}>What the atlas currently knows</h2>
+  <p class="{{ .introClass }}">Start with the current synthesis across podcast sources, then examine the questions where the evidence is still incomplete.</p>
+  <div class="current-knowledge-grid">
+    {{ with $currentSynthesis }}
+      <article class="wiki-feature current-knowledge-card current-synthesis-card" data-synthesis-source="{{ .Params.synthesis_source }}" data-summary="{{ .Params.summary }}" data-episode-count="{{ .Params.episode_count }}" data-source-count="{{ .Params.source_count }}">
+        <span class="wiki-label current-knowledge-label">Living synthesis</span>
+        <h3><a href="{{ .RelPermalink }}">Current Synthesis</a></h3>
+        {{ with .Params.summary }}
+          <p class="wiki-feature-summary current-knowledge-summary">{{ . }}</p>
+        {{ else }}
+          <p>A compact cross-source map of the atlas's current knowledge.</p>
+        {{ end }}
+        {{ with .Params.last_updated }}
+          <p class="wiki-feature-updated current-knowledge-updated">Updated <time datetime="{{ . }}">{{ . | time.Format "January 2, 2006" }}</time></p>
+        {{ end }}
+        {{ with .Params.source_count }}
+          {{ $sourceCount := . }}
+          {{ with $currentSynthesis.Params.episode_count }}
+            <p class="wiki-feature-coverage current-knowledge-coverage">Based on {{ $sourceCount }} source notes from {{ . }} processed episodes</p>
+          {{ end }}
+        {{ end }}
+      </article>
+    {{ end }}
+    {{ with $openQuestions }}
+      <article class="wiki-feature current-knowledge-card">
+        <span class="wiki-label current-knowledge-label">Unresolved</span>
+        <h3><a href="{{ .RelPermalink }}">Open Questions</a></h3>
+        <p>Questions that remain open, contested, or under-supported as new sources enter the atlas.</p>
+      </article>
+    {{ end }}
+  </div>
+  {{ with $updateHistory }}
+    <p><a href="{{ .RelPermalink }}">See how the knowledge base has changed →</a></p>
+  {{ end }}
+</section>
