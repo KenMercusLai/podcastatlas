@@ -1,0 +1,60 @@
+{{ define "head_extra" }}
+  <style>
+    .on-this-day-hero {
+      max-width: 720px;
+      padding: clamp(12px, 3vw, 28px) 0 4px;
+    }
+
+    .on-this-day-year {
+      margin-top: clamp(36px, 6vw, 56px);
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+    }
+
+    .on-this-day-year h2 {
+      margin: 0;
+      font-size: clamp(1.3rem, 3vw, 1.65rem);
+    }
+
+    .on-this-day-context {
+      margin: 8px 0 0;
+      color: var(--muted);
+    }
+  </style>
+{{ end }}
+
+{{ define "main" }}
+  {{ $onThisDay := partial "on-this-day-data.html" (dict "site" .Site "monthDay" .Params.month_day) }}
+  <section class="on-this-day-hero">
+    <p class="meta">Episode archive · Australia/Melbourne date</p>
+    <h1>{{ if .Params.month_day }}{{ .Title }}{{ else }}On This Day: {{ $onThisDay.displayDate }}{{ end }}</h1>
+    <p class="lede">{{ $onThisDay.intro }}</p>
+    {{ if not $onThisDay.isExact }}
+      <p class="on-this-day-context"><strong>Around this date:</strong> every result below was published within seven days of {{ $onThisDay.displayDate }} in a previous year.</p>
+    {{ end }}
+    <p><a href="{{ "updates/" | relURL }}">Browse all update views →</a></p>
+  </section>
+
+  <div class="on-this-day-archive"
+       data-month-day="{{ $onThisDay.monthDay }}"
+       data-current-year="{{ $onThisDay.currentYear }}"
+       data-mode="{{ if $onThisDay.isExact }}exact{{ else }}around{{ end }}">
+    {{ with $onThisDay.entries }}
+      {{ $years := slice }}
+      {{ range . }}
+        {{ if not (in $years .year) }}{{ $years = $years | append .year }}{{ end }}
+      {{ end }}
+      {{ $years = sort $years "value" "desc" }}
+      {{ range $years }}
+        {{ $year := . }}
+        {{ $yearEntries := where $onThisDay.entries "year" $year }}
+        <section class="on-this-day-year" aria-labelledby="year-{{ $year }}">
+          <h2 id="year-{{ $year }}">{{ $year }}</h2>
+          {{ partial "on-this-day-episode-list.html" (dict "entries" $yearEntries "showMeta" true) }}
+        </section>
+      {{ end }}
+    {{ else }}
+      <p>No earlier episodes are available for or around this calendar date yet.</p>
+    {{ end }}
+  </div>
+{{ end }}

@@ -1,4 +1,6 @@
 import importlib.util
+import calendar
+from datetime import datetime
 import gzip
 import json
 from pathlib import Path
@@ -6,10 +8,12 @@ import tempfile
 import unittest
 from unittest import mock
 from urllib.parse import urlsplit
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
 SCRIPT = ROOT / "scripts" / "verify-pages-output.py"
+CURRENT_MELBOURNE_YEAR = datetime.now(ZoneInfo("Australia/Melbourne")).year
 
 
 def load_verifier():
@@ -72,7 +76,7 @@ def semantic_payload(url, schema_type=None):
     elif schema_type == "PodcastEpisode":
         payload.update(
             {
-                "datePublished": "2026-01-01T00:00:00Z",
+                "datePublished": f"{CURRENT_MELBOURNE_YEAR}-01-01T00:00:00Z",
                 "duration": "PT60S",
                 "partOfSeries": {
                     "@type": "PodcastSeries",
@@ -136,6 +140,88 @@ def synthesis_html_fragments(
 
 
 class VerifyPagesOutputTest(unittest.TestCase):
+    def test_updates_verifier_requires_every_calendar_route_and_archive_contract(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            current_year = datetime.now(ZoneInfo("Australia/Melbourne")).year
+            write(
+                public / "index.html",
+                '<link rel="canonical" href="https://example.test/">',
+            )
+            write(
+                public / "updates" / "index.html",
+                '<a href="#recently-updated">Recently Updated</a>'
+                '<a href="#on-this-day">On This Day</a>'
+                '<a href="/wiki/update-history/">Full Update History</a>',
+            )
+            for month in range(1, 13):
+                for day in range(1, calendar.monthrange(2000, month)[1] + 1):
+                    month_day = f"{month:02d}-{day:02d}"
+                    canonical = f"https://example.test/on-this-day/{month_day}/"
+                    write(
+                        public / "on-this-day" / month_day / "index.html",
+                        f'<link rel="canonical" href="{canonical}">'
+                        f'<meta property="og:url" content="{canonical}">'
+                        '<script type="application/ld+json">'
+                        + json.dumps({"@type": "WebPage", "url": canonical})
+                        + "</script>"
+                        '<div class="on-this-day-archive" '
+                        f'data-month-day="{month_day}" data-current-year="{current_year}" '
+                        'data-mode="around"></div><p>Around this date</p>',
+                    )
+
+            errors = []
+            verifier.validate_updates_center(public, errors)
+            self.assertEqual([], errors)
+
+            (public / "on-this-day" / "02-29" / "index.html").unlink()
+            errors = []
+            verifier.validate_updates_center(public, errors)
+            self.assertIn("missing On This Day route: on-this-day/02-29/index.html", errors)
+
+            month_day = "01-02"
+            published = f"{current_year - 1}-01-02T12:00:00+11:00"
+            episode_url = "https://example.test/episodes/example/"
+            write(
+                public / "episodes" / "example" / "index.html",
+                '<script type="application/ld+json">'
+                + json.dumps(
+                    {
+                        "@type": "PodcastEpisode",
+                        "name": "Example episode",
+                        "url": episode_url,
+                        "datePublished": published,
+                    }
+                )
+                + "</script>",
+            )
+            errors = []
+            verifier.validate_updates_center(public, errors)
+            self.assertTrue(
+                any("selection mismatch" in error for error in errors),
+                errors,
+            )
+
+            leap_path = public / "on-this-day" / "02-29" / "index.html"
+            write(
+                leap_path,
+                '<link rel="canonical" href="https://example.test/wrong/">'
+                '<meta property="og:url" content="https://example.test/wrong/">'
+                '<script type="application/ld+json">'
+                '{"@type":"WebPage","url":"https://example.test/wrong/"}'
+                '</script>'
+                '<div class="on-this-day-archive" '
+                f'data-month-day="02-29" data-current-year="{current_year}" '
+                'data-mode="around"></div><p>Around this date</p>',
+            )
+            errors = []
+            verifier.validate_updates_center(public, errors)
+            self.assertTrue(
+                any("canonical URL mismatch" in error for error in errors),
+                errors,
+            )
+
     def test_full_artifact_validation_invokes_show_profile_validation(self):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
@@ -502,6 +588,12 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "tags/old-tag/index.html",
                 "wiki/index.html",
                 "wiki/current-synthesis/index.html",
+                "updates/index.html",
+                *[
+                    f"on-this-day/{month:02d}-{day:02d}/index.html"
+                    for month in range(1, 13)
+                    for day in range(1, calendar.monthrange(2000, month)[1] + 1)
+                ],
                 "topics/index.html",
                 *[f"topics/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
                 *[f"wiki/concepts/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
@@ -539,6 +631,12 @@ class VerifyPagesOutputTest(unittest.TestCase):
                 "tags/old-tag/index.html",
                 "wiki/index.html",
                 "wiki/current-synthesis/index.html",
+                "updates/index.html",
+                *[
+                    f"on-this-day/{month:02d}-{day:02d}/index.html"
+                    for month in range(1, 13)
+                    for day in range(1, calendar.monthrange(2000, month)[1] + 1)
+                ],
                 "topics/index.html",
                 *[f"topics/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
                 *[f"wiki/concepts/{key}/index.html" for key in verifier.CONTROLLED_TOPIC_KEYS],
@@ -589,6 +687,19 @@ class VerifyPagesOutputTest(unittest.TestCase):
                     )
                 elif relative == "wiki/current-synthesis/index.html":
                     body = synthesis_detail
+                elif relative == "updates/index.html":
+                    body = (
+                        '<a href="#recently-updated">Recently Updated</a>'
+                        '<a href="#on-this-day">On This Day</a>'
+                        '<a href="/wiki/update-history/">Full Update History</a>'
+                    )
+                elif relative.startswith("on-this-day/"):
+                    month_day = Path(relative).parts[1]
+                    body = (
+                        '<div class="on-this-day-archive" '
+                        f'data-month-day="{month_day}" data-current-year="{CURRENT_MELBOURNE_YEAR}" '
+                        'data-mode="around"></div><p>Around this date</p>'
+                    )
                 elif relative == "topics/index.html":
                     body = "".join(
                         f'<a class="controlled-topic-link" data-topic-key="{key}" href="/topics/{key}/">{key}</a>'

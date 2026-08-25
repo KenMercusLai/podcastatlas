@@ -1,0 +1,131 @@
+{{ define "head_extra" }}
+  <style>
+    .updates-hero {
+      max-width: 720px;
+      padding: clamp(12px, 3vw, 28px) 0 4px;
+    }
+
+    .updates-nav-grid,
+    .updates-recent-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .updates-nav-card,
+    .updates-recent-card {
+      min-width: 0;
+      padding: 20px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .updates-nav-card h2,
+    .updates-recent-card h3 {
+      margin: 5px 0 8px;
+      font-size: 1.08rem;
+      line-height: 1.35;
+    }
+
+    .updates-nav-card p,
+    .updates-recent-card p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .updates-section {
+      margin-top: clamp(42px, 7vw, 68px);
+      padding-top: 24px;
+      border-top: 1px solid var(--line);
+    }
+
+    .updates-section h2 {
+      margin: 0 0 8px;
+      font-size: clamp(1.35rem, 3vw, 1.75rem);
+    }
+
+    .updates-section-intro {
+      max-width: 680px;
+      margin: 0 0 22px;
+      color: var(--muted);
+    }
+
+    .updates-label {
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    @media (max-width: 720px) {
+      .updates-nav-grid,
+      .updates-recent-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+{{ end }}
+
+{{ define "main" }}
+  {{ $recentKnowledge := partial "recently-updated-data.html" .Site }}
+  {{ $onThisDay := partial "on-this-day-data.html" (dict "site" .Site) }}
+  {{ $updateHistory := .Site.GetPage "/wiki-projections/update-history" }}
+
+  <section class="updates-hero">
+    <p class="updates-label">Living atlas</p>
+    <h1>{{ .Title }}</h1>
+    <p class="lede">See what changed recently, revisit episodes from this calendar date, and inspect the atlas's complete update history.</p>
+  </section>
+
+  <nav class="updates-nav-grid" aria-label="Update views">
+    <article class="updates-nav-card">
+      <span class="updates-label">Knowledge</span>
+      <h2><a href="#recently-updated">Recently Updated</a></h2>
+      <p>Concepts and entities revised as new podcast evidence entered the atlas.</p>
+    </article>
+    <article class="updates-nav-card">
+      <span class="updates-label">Archive</span>
+      <h2><a href="#on-this-day">On This Day</a></h2>
+      {{ if $onThisDay.isExact }}
+        <p>Episodes published on {{ $onThisDay.displayDate }} in previous years.</p>
+      {{ else }}
+        <p>Nearby episodes published within seven days of {{ $onThisDay.displayDate }} in previous years.</p>
+      {{ end }}
+    </article>
+    <article class="updates-nav-card">
+      <span class="updates-label">History</span>
+      <h2>{{ with $updateHistory }}<a href="{{ .RelPermalink }}">Full Update History</a>{{ else }}Full Update History{{ end }}</h2>
+      <p>The dated record of material changes to the atlas's living synthesis.</p>
+    </article>
+  </nav>
+
+  {{ with $recentKnowledge }}
+    <section id="recently-updated" class="updates-section" aria-labelledby="recently-updated-heading">
+      <h2 id="recently-updated-heading">Recently Updated</h2>
+      <p class="updates-section-intro">The latest Concepts and Entities updated from podcast evidence.</p>
+      <div class="updates-recent-grid">
+        {{ range . }}
+          <article class="updates-recent-card">
+            <span class="updates-label">{{ .label }}</span>
+            <h3><a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a></h3>
+            <p>Updated <time datetime="{{ .updated | time.Format "2006-01-02" }}">{{ .updated | time.Format "January 2, 2006" }}</time></p>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  <section id="on-this-day" class="updates-section" aria-labelledby="on-this-day-heading">
+    <h2 id="on-this-day-heading">{{ $onThisDay.heading }}</h2>
+    <p class="updates-section-intro">{{ $onThisDay.intro }}</p>
+    {{ with $onThisDay.entries }}
+      {{ partial "on-this-day-episode-list.html" (dict "entries" . "showMeta" true) }}
+    {{ else }}
+      <p>No earlier episodes are available for or around this calendar date yet.</p>
+    {{ end }}
+    {{ with $onThisDay.archivePage }}
+      <p><a href="{{ .RelPermalink }}">View the full {{ $onThisDay.displayDate }} archive →</a></p>
+    {{ end }}
+  </section>
+{{ end }}

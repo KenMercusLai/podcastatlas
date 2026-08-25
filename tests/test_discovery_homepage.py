@@ -92,17 +92,16 @@ class DiscoveryHomepageLayoutTest(unittest.TestCase):
 
     def test_homepage_resurfaces_historical_episodes_with_a_fallback(self):
         homepage = HOME_LAYOUT.read_text()
+        archive_data = (ROOT / "layouts/partials/on-this-day-data.html").read_text()
 
-        self.assertIn('where .Site.RegularPages "Section" "episodes"', homepage)
-        self.assertIn("On this day", homepage)
-        self.assertIn("From the archive", homepage)
-        self.assertIn(".Date.Month", homepage)
-        self.assertIn(".Date.Day", homepage)
-        self.assertIn("range $archivePool", homepage)
-        self.assertIn('partial "episode-list.html"', homepage)
-        self.assertIn("$archivePool := $episodes | after 6", homepage)
-        self.assertIn("$windowCount := add (sub (len $archivePool) 3) 1", homepage)
+        self.assertIn('partial "on-this-day-data.html"', homepage)
+        self.assertIn('time.In "Australia/Melbourne"', archive_data)
+        self.assertIn("On This Day", archive_data)
+        self.assertIn("Around this date", archive_data)
+        self.assertIn("lt $published.Year $currentYear", archive_data)
+        self.assertIn('partial "on-this-day-episode-list.html"', homepage)
         self.assertIn("first 3", homepage)
+        self.assertIn("archivePage.RelPermalink", homepage)
 
     def test_homepage_shows_latest_episodes_and_shared_atlas_entry_points(self):
         homepage = HOME_LAYOUT.read_text()

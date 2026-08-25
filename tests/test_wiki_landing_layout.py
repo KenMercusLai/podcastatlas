@@ -27,15 +27,17 @@ class WikiLandingLayoutTest(unittest.TestCase):
 
     def test_landing_surfaces_recently_updated_concepts_and_entities(self):
         layout = WIKI_LAYOUT.read_text()
+        recent = (ROOT / "layouts/partials/recently-updated-data.html").read_text()
 
         self.assertIn("Recently updated knowledge", layout)
-        self.assertIn(".Params.last_updated", layout)
-        self.assertIn('dict "label" "Concept" "page"', layout)
-        self.assertIn('dict "label" "Entity" "page"', layout)
-        self.assertIn('sort $recentConcepts "sort_key" "desc"', layout)
-        self.assertIn('sort $recentEntities "sort_key" "desc"', layout)
-        self.assertIn("first 3 $recentConcepts", layout)
-        self.assertIn("first 3 $recentEntities", layout)
+        self.assertIn('partial "recently-updated-data.html"', layout)
+        self.assertIn(".Params.last_updated", recent)
+        self.assertIn('dict "label" "Concept" "page"', recent)
+        self.assertIn('dict "label" "Entity" "page"', recent)
+        self.assertIn('sort $recentConcepts "sort_key" "desc"', recent)
+        self.assertIn('sort $recentEntities "sort_key" "desc"', recent)
+        self.assertIn("first 3 $recentConcepts", recent)
+        self.assertIn("first 3 $recentEntities", recent)
 
     def test_landing_uses_the_shared_five_card_knowledge_collection_section(self):
         layout = WIKI_LAYOUT.read_text()

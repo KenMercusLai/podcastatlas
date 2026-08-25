@@ -1,0 +1,25 @@
+{{- $entries := index . "entries" -}}
+{{- $showMeta := index . "showMeta" -}}
+{{- if $entries -}}
+  <ul class="episode-list">
+    {{- range $entries }}
+      {{- $episode := .page -}}
+      <li>
+        <div>
+          <a href="{{ $episode.RelPermalink }}">{{ $episode.Title }}</a>
+          {{- if $showMeta }}
+            {{- with $episode.GetTerms "show" }}
+              <div class="episode-meta">
+                Show:
+                {{- range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
+              </div>
+            {{- end }}
+          {{- end }}
+        </div>
+        <time class="episode-date" datetime="{{ .published.Format "2006-01-02" }}">{{ .published.Format "2006-01-02" }}</time>
+      </li>
+    {{- end }}
+  </ul>
+{{- else }}
+  <p class="meta">No episodes found.</p>
+{{- end }}

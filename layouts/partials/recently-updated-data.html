@@ -1,0 +1,28 @@
+{{- $recentConcepts := slice -}}
+{{- with .GetPage "/wiki/concepts" -}}
+  {{- range .RegularPages -}}
+    {{- $page := . -}}
+    {{- with .Params.last_updated -}}
+      {{- $recentConcepts = $recentConcepts | append (dict "label" "Concept" "page" $page "updated" . "sort_key" (printf "%v|%s" . $page.Title)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $recentConcepts = sort $recentConcepts "sort_key" "desc" -}}
+{{- $recentEntities := slice -}}
+{{- with .GetPage "/wiki/entities" -}}
+  {{- range .RegularPages -}}
+    {{- $page := . -}}
+    {{- with .Params.last_updated -}}
+      {{- $recentEntities = $recentEntities | append (dict "label" "Entity" "page" $page "updated" . "sort_key" (printf "%v|%s" . $page.Title)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $recentEntities = sort $recentEntities "sort_key" "desc" -}}
+{{- $recentKnowledge := slice -}}
+{{- range first 3 $recentConcepts -}}
+  {{- $recentKnowledge = $recentKnowledge | append . -}}
+{{- end -}}
+{{- range first 3 $recentEntities -}}
+  {{- $recentKnowledge = $recentKnowledge | append . -}}
+{{- end -}}
+{{- return (sort $recentKnowledge "sort_key" "desc") -}}
