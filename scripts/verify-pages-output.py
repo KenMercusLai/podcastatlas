@@ -3,6 +3,7 @@
 from pathlib import Path
 from datetime import date, datetime
 import argparse
+import calendar
 import gzip
 import html
 import json
@@ -11,6 +12,14 @@ import sys
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from urllib.parse import quote, unquote, urljoin, urlsplit
+from zoneinfo import ZoneInfo
+from typing import TypedDict
+
+
+class OnThisDayEpisode(TypedDict):
+    href: str
+    published: datetime
+    local: datetime
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,6 +36,8 @@ REQUIRED_FILES = (
     "shows/index.html",
     "wiki/index.html",
     "wiki/current-synthesis/index.html",
+    "updates/index.html",
+    "on-this-day/02-29/index.html",
     "topics/index.html",
     "topics/technology/index.html",
     "topics/economics/index.html",
@@ -60,6 +71,8 @@ METADATA_PAGE_FILES = (
     "tags/index.html",
     "wiki/index.html",
     "wiki/current-synthesis/index.html",
+    "updates/index.html",
+    "on-this-day/02-29/index.html",
     "topics/index.html",
     "search/index.html",
 )
@@ -387,6 +400,244 @@ def episode_list_entries(path: Path) -> list[tuple[str, str]]:
     parser = EpisodeListParser()
     parser.feed(path.read_text(encoding="utf-8"))
     return list(zip(parser.episode_hrefs, parser.episode_dates))
+
+
+class OnThisDayMarkerParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.marker: dict[str, str] | None = None
+        self.text: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = {name: value or "" for name, value in attrs}
+        if "on-this-day-archive" in attributes.get("class", "").split():
+            self.marker = attributes
+
+    def handle_data(self, data: str) -> None:
+        value = " ".join(data.split())
+        if value:
+            self.text.append(value)
+
+
+def _calendar_distance(left: date, right: date) -> int:
+    distance = abs(left.timetuple().tm_yday - right.timetuple().tm_yday)
+    return min(distance, 366 - distance)
+
+
+def _on_this_day_episode_oracle(
+    public_dir: Path, errors: list[str]
+) -> list[OnThisDayEpisode]:
+    records: list[OnThisDayEpisode] = []
+    for path in sorted((public_dir / "episodes").glob("*/index.html")):
+        relative = path.relative_to(public_dir).as_posix()
+        scripts = JSON_LD_RE.findall(path.read_text(encoding="utf-8"))
+        if len(scripts) != 1:
+            errors.append(f"On This Day oracle cannot read episode JSON-LD: {relative}")
+            continue
+        try:
+            payload = json.loads(html.unescape(scripts[0]))
+        except (json.JSONDecodeError, TypeError):
+            errors.append(f"On This Day oracle cannot parse episode JSON-LD: {relative}")
+            continue
+        if not isinstance(payload, dict) or payload.get("@type") != "PodcastEpisode":
+            errors.append(f"On This Day oracle found invalid episode schema: {relative}")
+            continue
+        published_value = payload.get("datePublished")
+        canonical_url = payload.get("url")
+        if not isinstance(published_value, str) or not isinstance(canonical_url, str):
+            errors.append(f"On This Day oracle found incomplete episode metadata: {relative}")
+            continue
+        try:
+            published = datetime.fromisoformat(published_value.replace("Z", "+00:00"))
+            parsed_url = urlsplit(canonical_url)
+        except ValueError:
+            errors.append(f"On This Day oracle found invalid episode metadata: {relative}")
+            continue
+        if published.tzinfo is None or published.utcoffset() is None:
+            errors.append(f"On This Day oracle requires an offset-aware publication time: {relative}")
+            continue
+        if parsed_url.scheme not in {"http", "https"} or not parsed_url.netloc:
+            errors.append(f"On This Day oracle found invalid episode URL: {relative}")
+            continue
+        local = published.astimezone(ZoneInfo("Australia/Melbourne"))
+        records.append(
+            {
+                "href": parsed_url.path,
+                "published": published,
+                "local": local,
+            }
+        )
+    return records
+
+
+def _expected_on_this_day_entries(
+    records: list[OnThisDayEpisode], month: int, day: int, current_year: int
+) -> tuple[str, list[tuple[str, str]]]:
+    target = date(2000, month, day)
+    eligible = [record for record in records if record["local"].year < current_year]
+    exact = [
+        record
+        for record in eligible
+        if (record["local"].month, record["local"].day) == (month, day)
+    ]
+    if exact:
+        mode = "exact"
+        selected = sorted(
+            exact,
+            key=lambda record: (-int(record["published"].timestamp()), record["href"]),
+        )[:5]
+    else:
+        mode = "around"
+        nearby: list[tuple[int, OnThisDayEpisode]] = []
+        for record in eligible:
+            local = record["local"]
+            distance = _calendar_distance(target, date(2000, local.month, local.day))
+            if 1 <= distance <= 7:
+                nearby.append((distance, record))
+        selected = [
+            record
+            for _, record in sorted(
+                nearby,
+                key=lambda item: (
+                    item[0],
+                    -int(item[1]["published"].timestamp()),
+                    item[1]["href"],
+                ),
+            )[:5]
+        ]
+
+    rendered_order: list[OnThisDayEpisode] = []
+    for year in sorted({record["local"].year for record in selected}, reverse=True):
+        rendered_order.extend(record for record in selected if record["local"].year == year)
+    return mode, [
+        (record["href"], record["local"].strftime("%Y-%m-%d"))
+        for record in rendered_order
+    ]
+
+
+def validate_updates_center(public_dir: Path, errors: list[str]) -> None:
+    updates_path = public_dir / "updates" / "index.html"
+    if not updates_path.is_file():
+        errors.append("missing Updates center: updates/index.html")
+    else:
+        updates_html = updates_path.read_text(encoding="utf-8")
+        for label in ("Recently Updated", "On This Day", "Full Update History"):
+            if label not in updates_html:
+                errors.append(f"Updates center is missing {label}")
+        if not re.search(r'href=["\']?[^\s>]*wiki/update-history/', updates_html):
+            errors.append("Updates center is missing the Full Update History link")
+
+    melbourne_year = datetime.now(ZoneInfo("Australia/Melbourne")).year
+    oracle = _on_this_day_episode_oracle(public_dir, errors)
+    root_path = public_dir / "index.html"
+    root_canonical = (
+        extracted_attribute(CANONICAL_URL_RE.search(root_path.read_text(encoding="utf-8")))
+        if root_path.is_file()
+        else None
+    )
+    if root_canonical is None:
+        errors.append("On This Day verifier cannot establish the site canonical URL")
+
+    for month in range(1, 13):
+        for day in range(1, calendar.monthrange(2000, month)[1] + 1):
+            month_day = f"{month:02d}-{day:02d}"
+            relative = f"on-this-day/{month_day}/index.html"
+            path = public_dir / relative
+            if not path.is_file():
+                errors.append(f"missing On This Day route: {relative}")
+                continue
+            page_html = path.read_text(encoding="utf-8")
+            expected_url = (
+                urljoin(root_canonical, f"on-this-day/{month_day}/")
+                if root_canonical is not None
+                else None
+            )
+            canonical_url = extracted_attribute(CANONICAL_URL_RE.search(page_html))
+            og_url = extracted_attribute(OG_URL_RE.search(page_html))
+            scripts = JSON_LD_RE.findall(page_html)
+            try:
+                schema_url = (
+                    json.loads(html.unescape(scripts[0])).get("url")
+                    if len(scripts) == 1
+                    else None
+                )
+            except (json.JSONDecodeError, TypeError, AttributeError):
+                schema_url = None
+            if expected_url is not None and canonical_url != expected_url:
+                errors.append(
+                    f"On This Day canonical URL mismatch in {relative}: "
+                    f"expected {expected_url!r}, found {canonical_url!r}"
+                )
+            if expected_url is not None and og_url != expected_url:
+                errors.append(f"On This Day Open Graph URL mismatch in {relative}")
+            if expected_url is not None and schema_url != expected_url:
+                errors.append(f"On This Day JSON-LD URL mismatch in {relative}")
+
+            parser = OnThisDayMarkerParser()
+            parser.feed(page_html)
+            marker = parser.marker
+            if marker is None:
+                errors.append(f"missing On This Day archive marker: {relative}")
+                continue
+            if marker.get("data-month-day") != month_day:
+                errors.append(f"On This Day route marker mismatch: {relative}")
+            mode = marker.get("data-mode")
+            if mode not in {"exact", "around"}:
+                errors.append(f"invalid On This Day mode in {relative}: {mode}")
+            try:
+                marker_year = int(marker.get("data-current-year", ""))
+            except ValueError:
+                errors.append(f"invalid On This Day current year in {relative}")
+                marker_year = None
+            if marker_year is not None and marker_year != melbourne_year:
+                errors.append(
+                    f"On This Day current year mismatch in {relative}: "
+                    f"expected {melbourne_year}, found {marker_year}"
+                )
+
+            entries = episode_list_entries(path)
+            expected_mode, expected_entries = _expected_on_this_day_entries(
+                oracle, month, day, melbourne_year
+            )
+            if mode != expected_mode or entries != expected_entries:
+                errors.append(
+                    f"On This Day selection mismatch in {relative}: "
+                    f"expected mode={expected_mode!r} entries={expected_entries!r}, "
+                    f"found mode={mode!r} entries={entries!r}"
+                )
+            if len(entries) > 5:
+                errors.append(f"On This Day route exceeds five episodes: {relative}")
+            target = date(2000, month, day)
+            entry_years: set[int] = set()
+            for _, value in entries:
+                try:
+                    published = date.fromisoformat(value)
+                except ValueError:
+                    errors.append(f"invalid episode date in {relative}: {value}")
+                    continue
+                entry_years.add(published.year)
+                if published.year >= melbourne_year:
+                    errors.append(f"current-year episode in On This Day route: {relative}")
+                published_reference = date(2000, published.month, published.day)
+                distance = _calendar_distance(target, published_reference)
+                if mode == "exact" and distance != 0:
+                    errors.append(f"nonmatching episode in exact On This Day route: {relative}")
+                if mode == "around" and not 1 <= distance <= 7:
+                    errors.append(f"episode outside Around this date window: {relative}")
+            if mode == "around" and not any(
+                value.startswith("Around this date") for value in parser.text
+            ):
+                errors.append(f"Around this date fallback is not explicitly labeled: {relative}")
+            grouped_years = [
+                int(value)
+                for value in re.findall(r'id=["\']?year-(\d{4})(?:["\']|\s|>)', page_html)
+            ]
+            expected_years = sorted(entry_years, reverse=True)
+            if grouped_years != expected_years:
+                errors.append(
+                    f"episode year grouping mismatch in {relative}: "
+                    f"expected {expected_years!r}, found {grouped_years!r}"
+                )
 
 
 def episode_slug_from_href(href: str) -> str | None:
@@ -1246,6 +1497,7 @@ def validate(public_dir: Path) -> dict:
             validate_metadata_page(path, public_dir, errors)
 
     validate_current_synthesis(public_dir, errors)
+    validate_updates_center(public_dir, errors)
     validate_controlled_topics(public_dir, errors)
     validate_legacy_tags(public_dir, errors)
     try:

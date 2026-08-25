@@ -205,32 +205,17 @@
   {{ end }}
 
   {{ $latestEpisodes := first 6 $episodes }}
-  {{ $archivePool := $episodes | after 6 }}
-  {{ $today := now.UTC }}
-  {{ $onThisDay := slice }}
-  {{ range $archivePool }}
-    {{ if and (eq .Date.Month $today.Month) (eq .Date.Day $today.Day) (lt .Date.Year $today.Year) }}
-      {{ $onThisDay = $onThisDay | append . }}
-    {{ end }}
-  {{ end }}
-  {{ $archiveTitle := "On this day" }}
-  {{ $archiveIntro := "Episodes published on this date in previous years." }}
-  {{ $archivePages := first 3 $onThisDay }}
-  {{ if and (eq (len $archivePages) 0) (gt (len $archivePool) 0) }}
-    {{ $archiveTitle = "From the archive" }}
-    {{ $archiveIntro = "Three older episodes resurfaced from across the atlas." }}
-    {{ $archivePages = first 3 $archivePool }}
-    {{ if gt (len $archivePool) 3 }}
-      {{ $windowCount := add (sub (len $archivePool) 3) 1 }}
-      {{ $start := mod $daySeed $windowCount }}
-      {{ $archivePages = first 3 ($archivePool | after $start) }}
-    {{ end }}
-  {{ end }}
-  {{ if $archivePages }}
+  {{ $onThisDay := partial "on-this-day-data.html" (dict "site" .Site) }}
+  {{ $archiveEntries := first 3 $onThisDay.entries }}
+  {{ if $archiveEntries }}
     <section class="home-section" aria-labelledby="archive-heading">
-      <h2 id="archive-heading" class="home-section-heading">{{ $archiveTitle }}</h2>
-      <p class="home-section-intro">{{ $archiveIntro }}</p>
-      {{ partial "episode-list.html" (dict "pages" $archivePages "showMeta" true) }}
+      <h2 id="archive-heading" class="home-section-heading">{{ $onThisDay.heading }}</h2>
+      <p class="home-section-intro">{{ $onThisDay.intro }}</p>
+      {{ partial "on-this-day-episode-list.html" (dict "entries" $archiveEntries "showMeta" true) }}
+      {{ with $onThisDay.archivePage }}
+        {{ $archivePage := . }}
+        <p><a href="{{ $archivePage.RelPermalink }}">View the full {{ $onThisDay.displayDate }} archive →</a></p>
+      {{ end }}
     </section>
   {{ end }}
 

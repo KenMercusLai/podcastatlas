@@ -102,9 +102,6 @@
   {{ else if eq .Path "/wiki" }}
     {{ $updateHistory := .Site.GetPage "/wiki-projections/update-history" }}
     {{ $stats := .Site.GetPage "/wiki/stats" }}
-    {{ $concepts := .Site.GetPage "/wiki/concepts" }}
-    {{ $entities := .Site.GetPage "/wiki/entities" }}
-    {{ $sources := .Site.GetPage "/wiki/sources" }}
 
     <section class="wiki-landing-hero">
       <p class="wiki-label">The knowledge layer</p>
@@ -119,36 +116,7 @@
       "introClass" "wiki-section-intro"
     ) }}
 
-    {{ $recentConcepts := slice }}
-    {{ with $concepts }}
-      {{ range .RegularPages }}
-        {{ $page := . }}
-        {{ with .Params.last_updated }}
-          {{ $recentConcepts = $recentConcepts | append (dict "label" "Concept" "page" $page "updated" . "sort_key" (printf "%v|%s" . $page.Title)) }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-    {{ $recentConcepts = sort $recentConcepts "sort_key" "desc" }}
-
-    {{ $recentEntities := slice }}
-    {{ with $entities }}
-      {{ range .RegularPages }}
-        {{ $page := . }}
-        {{ with .Params.last_updated }}
-          {{ $recentEntities = $recentEntities | append (dict "label" "Entity" "page" $page "updated" . "sort_key" (printf "%v|%s" . $page.Title)) }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-    {{ $recentEntities = sort $recentEntities "sort_key" "desc" }}
-
-    {{ $recentKnowledge := slice }}
-    {{ range first 3 $recentConcepts }}
-      {{ $recentKnowledge = $recentKnowledge | append . }}
-    {{ end }}
-    {{ range first 3 $recentEntities }}
-      {{ $recentKnowledge = $recentKnowledge | append . }}
-    {{ end }}
-    {{ $recentKnowledge = sort $recentKnowledge "sort_key" "desc" }}
+    {{ $recentKnowledge := partial "recently-updated-data.html" .Site }}
     {{ if $recentKnowledge }}
       <section class="wiki-landing-section" aria-labelledby="recent-knowledge-heading">
         <h2 id="recent-knowledge-heading">Recently updated knowledge</h2>

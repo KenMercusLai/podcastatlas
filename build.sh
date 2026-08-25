@@ -113,6 +113,10 @@ main() {
   echo "Preparing show profiles..."
   python3 scripts/prepare-show-profiles.py
 
+  # Generate stable calendar-date archive routes
+  echo "Preparing On This Day routes..."
+  python3 scripts/prepare-on-this-day.py
+
   # Build the project
   echo "Building the project..."
   hugo build --gc --minify --cleanDestinationDir "$@"

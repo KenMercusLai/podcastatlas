@@ -1,0 +1,50 @@
+{{- $site := .site -}}
+{{- $melbourneNow := now | time.In "Australia/Melbourne" -}}
+{{- $monthDay := .monthDay | default ($melbourneNow.Format "01-02") -}}
+{{- $reference := time.AsTime (printf "2000-%sT00:00:00Z" $monthDay) -}}
+{{- $currentYear := $melbourneNow.Year -}}
+{{- $exact := slice -}}
+{{- $nearby := slice -}}
+{{- range where $site.RegularPages "Section" "episodes" -}}
+  {{- $published := .Date | time.In "Australia/Melbourne" -}}
+  {{- if lt $published.Year $currentYear -}}
+    {{- $candidateMonthDay := $published.Format "01-02" -}}
+    {{- $inverseUnix := sub 9999999999 $published.Unix -}}
+    {{- if eq $candidateMonthDay $monthDay -}}
+      {{- $sortKey := printf "%010d|%s" $inverseUnix .RelPermalink -}}
+      {{- $exact = $exact | append (dict "page" . "published" $published "year" $published.Year "sortKey" $sortKey) -}}
+    {{- else -}}
+      {{- $candidateReference := time.AsTime (printf "2000-%sT00:00:00Z" $candidateMonthDay) -}}
+      {{- $distance := div (sub $candidateReference.Unix $reference.Unix) 86400 -}}
+      {{- $absoluteDistance := $distance -}}
+      {{- if lt $absoluteDistance 0 -}}{{- $absoluteDistance = mul $absoluteDistance -1 -}}{{- end -}}
+      {{- if gt $absoluteDistance 183 -}}{{- $absoluteDistance = sub 366 $absoluteDistance -}}{{- end -}}
+      {{- if le $absoluteDistance 7 -}}
+        {{- $sortKey := printf "%02d|%010d|%s" $absoluteDistance $inverseUnix .RelPermalink -}}
+        {{- $nearby = $nearby | append (dict "page" . "published" $published "year" $published.Year "distance" $absoluteDistance "sortKey" $sortKey) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $exact = sort $exact "sortKey" -}}
+{{- $nearby = sort $nearby "sortKey" -}}
+{{- $isExact := gt (len $exact) 0 -}}
+{{- $entries := cond $isExact $exact $nearby | first 5 -}}
+{{- $heading := cond $isExact "On This Day" "Around this date" -}}
+{{- $description := cond
+  $isExact
+  (printf "Episodes published on %s in previous years." ($reference.Format "January 2"))
+  (printf "No earlier episode matched %s exactly. These were published within seven days of this date." ($reference.Format "January 2"))
+-}}
+{{- return (dict
+  "monthDay" $monthDay
+  "displayDate" ($reference.Format "January 2")
+  "currentYear" $currentYear
+  "isExact" $isExact
+  "mode" (cond $isExact "exact" "around")
+  "heading" $heading
+  "intro" $description
+  "description" $description
+  "archivePage" ($site.GetPage (printf "/on-this-day/%s" $monthDay))
+  "entries" $entries
+) -}}
