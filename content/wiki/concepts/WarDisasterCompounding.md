@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # War-Disaster Compounding
 
+[[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] adds a late-Han pre-Dong-Zhuo background layer. The source links epidemic, fire, famine, refugee movement, war, peasant uprising, and local rebellion as mutually reinforcing pressures that accelerate dynastic decline.
+
+The episode's closing line that hungry people make the realm unstable keeps the mechanism political as well as material. Hunger is not treated as a private hardship; under late-Han conditions it becomes a disorder multiplier that feeds rebellion and weakens production.
+
 [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] adds the forced-relocation prelude to the later late-Han capital disasters. [[DongZhuo|董卓]]'s troops kill civilians during a Yangcheng community sacrifice, display heads as false rebel trophies, abduct women into the army, confiscate wealthy [[LuoyangLateHan|洛阳]] households, and drive the population west toward [[ChangAnHanCapital|长安]].
 
 This branch is disaster compounding without a natural hazard. The source shows war, policing, plunder, gendered vulnerability, and migration pressure producing mass civilian harm before later episodes describe burning, famine, and capital collapse.
@@ -23,6 +27,7 @@ The source treats war as part of the disaster environment. [[JohnHopeSimpson]]'s
 [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] adds a late-Han Sanfu case. The source says the region still had many households after [[DongZhuo|董卓]]'s death, but repeated plunder by [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and their soldiers compounded famine until ordinary food access collapsed. War is the immediate disaster multiplier: troops do not only fail to relieve hunger; they seize goods, destabilize households, and help turn capital-region population into refugees, victims, or captives.
 
 ## Key Claims
+- Hanji 931 adds that epidemic, fire, famine, war, and refugee movement can appear as a linked late-Han decline environment before later capital occupation and forced relocation.
 - War can create disaster victims before the natural hazard arrives.
 - Refugee movement can be driven by violence, hunger, disease fear, and flood at the same time.
 - Military requisition and political campaigns can remove food, labor, animals, and administrative attention from recovery.
@@ -32,6 +37,7 @@ The source treats war as part of the disaster environment. [[JohnHopeSimpson]]'s
 - Hanji 951 adds that forced relocation itself can become a war disaster when soldiers kill, abduct, confiscate, and drive civilians before the destination city's later collapse.
 
 ## Connections
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[PandemicAsHistoricalForce|Pandemic As Historical Force]], [[LuoyangLateHan|洛阳]], and [[EmperorLingOfHan|汉灵帝]] - epidemic, palace fire, famine, refugee, and revolt background to late-Han decline.
 - [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[ChangAnHanCapital|长安]], [[CoerciveCapitalRelocation|强制迁都]], and [[WarGenderedCivilianHarm|war gendered civilian harm]] - forced migration, civilian killing, abduction, and confiscation before Luoyang's destruction.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[QingzhouLateHan|青州]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[GongsunZan|公孙瓒]], and [[YuanShao|袁绍]] - proxy-war famine and civilian devastation.
 - [[NationalistGovernment]], [[Wuhan]], [[WuLiande]], and [[JohnHopeSimpson]] - source actors and setting.

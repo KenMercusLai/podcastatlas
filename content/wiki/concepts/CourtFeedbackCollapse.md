@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # Court Feedback Collapse / 君臣反馈失灵
 
+[[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] adds a pre-palace-finance late-Han version through [[WangYunLateHan|王允]] and [[ZhangRangLateHan|张让]]. Wang Yun reports letters linking Zhang Rang's retainers to the Yellow Turban side, and [[EmperorLingOfHan|汉灵帝]] becomes angry enough to scold Zhang Rang, but personal trust blocks deeper investigation.
+
+This branch shows feedback collapse as inversion rather than simple non-reception. The warning reaches the ruler, yet the protected favorite survives and the reporter becomes the exposed actor through retaliatory imprisonment.
+
 [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] adds a late-Han mixed-breakthrough layer. [[LuKangLateHan|陆康]]'s memorial against [[EmperorLingOfHan|汉灵帝]]'s added palace-construction burden reaches the court, but eunuch-side interpretation around [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] recodes it as disrespect and turns advice into a prison case.
 
 The same source shows a partial repair through [[SimaZhiLateHan|司马直]]. His death memorial against `修宫` and appointment-fee abuses moves Emperor Ling to stop the palace-construction fee temporarily, but only after the normal feedback channel has already failed enough that correction requires self-destruction.
@@ -81,6 +85,7 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] adds a physical-isolation version through [[GongsunZan|公孙瓒]]'s [[YijingFortress|易京]]. After retreating behind iron gates, he blocks ordinary access by guests, generals, advisers, and warriors; documents are hoisted by rope and orders are shouted through intermediaries. Feedback collapse here is architectural as well as psychological: the defensive system makes warning and command harder to move.
 
 ## Key Claims
+- Hanji 931 adds that a valid warning can invert into danger for the reporter when the ruler's trusted favorite controls the retaliation field.
 - Hanji 932 adds that fiscal remonstrance can be recoded as personal disrespect, while an extreme death memorial may produce only temporary correction.
 - Hanji 934 adds that feedback failure can be uneven: a ruler may accept one strategic warning while still letting favorites destroy a commander's anti-corruption report through slander.
 - Hanji 935 adds that feedback can fail even when an urgent warning reaches the ruler, if palace intermediaries control the interpretation and turn knowledge into incriminating evidence.
@@ -114,6 +119,7 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 - Hanji 998 adds that feedback can be collapsed by physical isolation, not only by flattery, punishment, or ignored advice.
 
 ## Connections
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[WangYunLateHan|王允]], [[ZhangRangLateHan|张让]], and [[EmperorLingOfHan|汉灵帝]] - correspondence warning that reaches the ruler but rebounds against the reporter.
 - [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[LuKangLateHan|陆康]], [[SimaZhiLateHan|司马直]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - fiscal remonstrance punished and death memorial producing a temporary fee halt.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[FuXie|傅燮]], [[LiangzhouLateHan|凉州]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangRangLateHan|张让]], and [[ZhaoZhongLateHan|赵忠]] - partial strategic feedback breakthrough paired with captured interpretation of a commander's conduct.
 - [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - late-Han crisis warning turned into an accusation by captured interpretation.

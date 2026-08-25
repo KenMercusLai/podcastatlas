@@ -11259,6 +11259,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》931丨人生艰难处，便是修心时
+
+Added source page for Hanji 931: Wang Yun's Yellow Turban aftermath report against Zhang Rang's retainers, Emperor Ling's non-pursuit of Zhang Rang, Zhang Rang's retaliatory prison case, Wang Yun's refusal of private suicide, rescue by He Jin, Yang Ci, and Yuan Wei, Guo Tai's praise of Wang Yun, and the 185 CE epidemic/fire/famine decline context. Created Yang Ci and Guo Tai pages; updated Wang Yun, Zhang Rang, Emperor Ling, He Jin, Yuan Wei, Luoyang, court-feedback, office-duty, mingqi, moral-reputation, self-cultivation, pandemic, and war-disaster pages. No settled contradiction found; transcript renderings "杨次" and "袁伟" are normalized to canonical late-Han identities.
+
 ## [2026-08-25] ingest | Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships
 
 Added source page for an All-In interview with Saronic co-founders Dino Mavroukis and Vibh Altakar on autonomous naval vessels, the U.S.-China shipbuilding throughput gap, Corsair and Marauder, Strait of Hormuz rescue claims, human-authorized autonomy, private-capital defense procurement, and Port Alpha in Texas. Created Saronic, Dino Mavroukis, Vibh Altakar, Corsair, Marauder, Port Alpha, Autonomous Naval Vessels, Naval Shipbuilding Throughput, Software-Defined Shipbuilding, Private Capital Defense Prime, and Human-Authorized Autonomous Weapons pages; updated All-In, U.S. Navy, U.S. Department of Defense, Strait of Hormuz, Texas, China, Defense Tech Startup Procurement, Defense AI Procurement, Dual-Use Defense Technology, Low-Cost Drone Warfare, Strategic Industrial Policy, overview, and index. No settled contradiction found; rescue details, capacity figures, job claims, and authorization claims remain source-scoped.
@@ -11538,3 +11542,7 @@ Added source page for Hanji 932: Lu Kang's remonstrance against Emperor Ling's p
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health passed across 14,304 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,304 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page sample found no direct contradictions, flagged stale "latest addition" wording in `wiki/overview.md`, and noted thin/depth gaps in several single-source concept pages. Report returned in-session; `wiki/lint-report.md` was not updated.

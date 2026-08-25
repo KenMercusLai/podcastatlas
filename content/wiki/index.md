@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》931丨人生艰难处，便是修心时](sources/zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6.md) — 芮淇讲透资治通鉴 episode on Wang Yun reporting Zhang Rang retainer correspondence with the Yellow Turban side, surviving retaliatory imprisonment, refusing private suicide, and 185 CE epidemic/fire/famine pressures.
 - [《资治通鉴·汉纪》932丨为什么人越好，越难当大官？](sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29.md) — 芮淇讲透资治通鉴 episode on Lu Kang's remonstrance against palace-construction taxes, eunuch-mediated material and office-fee extraction, and Sima Zhi's death memorial against making clean officials squeeze the people.
 - [《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？](sources/zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8.md) — 芮淇讲透资治通鉴 episode on Cui Lie's Liangzhou-abandonment proposal, Fu Xie's "斩司徒" rebuttal, and Huangfu Song's punishment after Zhang Rang and Zhao Zhong recode refused bribery and anti-corruption memorials into slander.
 - [《资治通鉴·汉纪》935丨人活一口气，难成的是自己](sources/zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw.md) — 芮淇讲透资治通鉴 episode on Liu Tao's fatal remonstrance against eunuch-filtered crisis politics, Zhang Wen's 185 CE western campaign, and Sun Jian's ignored grain-road advice under Zhou Shen.
@@ -1641,6 +1642,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋翼 / Song Yi (late Han)](entities/SongYiLateHan.md) — Wang Yun-side official whose rigid obedience to a captured-court summons removes the last outside deterrent against Li-Guo executions.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
+- [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official, transcript "杨次", who joins He Jin and Yuan Wei in rescuing Wang Yun after Zhang Rang's prison retaliation.
+- [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar whose praise of Wang Yun's ruler-assisting talent helps mark Wang Yun's early moral reputation in Hanji 931.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
 - [牛辅 / Niu Fu (late Han)](entities/NiuFuLateHan.md) — Dong Zhuo son-in-law whose victory over Li Su is followed by camp panic, flight, and death.

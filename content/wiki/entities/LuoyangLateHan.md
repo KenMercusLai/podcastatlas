@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # 洛阳 / Luoyang (late Han)
 
+[[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] adds a 185 CE epidemic-and-fire notice before Luoyang becomes the later palace-violence and Dong Zhuo occupation site. The episode says epidemic spreads widely, then records fires at the South Palace Yuntai and another palace gate.
+
+The source uses these notices as part of late-Han decline rather than as a detailed omen argument. Luoyang is already a disaster marker: disease, fire, famine, refugee movement, war, and uprising are presented as compounding pressures before the better-known capital military collapse.
+
 [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] adds Luoyang as the threatened capital in [[LiuTaoLateHan|刘陶 / 刘桃]]'s 185 CE warning. The episode says western rebellion after [[ZhangJiaoLateHan|张角]]'s disorder has reached a stage where [[BianZhangLateHan|边章]] and [[HanSui|韩遂]] pressure could endanger the court if [[ZhangWenLateHan|张温]] fails.
 
 This is a pre-collapse Luoyang branch. The city is not yet the palace-violence and Dong Zhuo-occupation site of later pages, but it already functions as the scale marker for frontier failure: when rebel pressure can be imagined near Luoyang, local disorder has become central court danger.
@@ -47,6 +51,7 @@ That material ruin changes the political meaning of relocation. [[DongZhaoLateHa
 This page is disambiguated from [[Luoyi|洛邑 / Luoyi]], the older Zhou and early-Han capital frame. Hanji 1004's Luoyang is a late-Han crisis site: symbolically important, but too damaged to secure the court.
 
 ## Connections
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[EmperorLingOfHan|汉灵帝]], [[PandemicAsHistoricalForce|Pandemic As Historical Force]], and [[WarDisasterCompounding]] - 185 CE epidemic, palace fires, and late-Han disaster context.
 - [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[ZhangWenLateHan|张温]], [[BianZhangLateHan|边章]], and [[HanSui|韩遂]] - capital-threat marker inside the 185 CE western rebellion warning.
 - [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WestGardenEightColonels|西园八校尉]], [[JianShuoLateHan|蹇硕]], [[CaoCao|曹操]], [[YuanShao|袁绍]], and [[GaiXunLateHan|盖勋]] - pre-collapse capital command restructuring and Pingle Guan remonstrance.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DongZhuo|董卓]], [[ZhengTaiLateHan|郑泰]], [[LuZhiLateHan|卢植]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - pre-collapse outside-force pressure and warnings before palace violence.

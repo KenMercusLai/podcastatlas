@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # Virtue Practice Internalization / 修养内化
 
+[[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] adds an adversity-self-cultivation frame. The host opens by saying that hardship is precisely a time to cultivate the mind: notice emotional fluctuation, locate its source, and transform it rather than only collapse into resentment or passivity.
+
+The historical branch through [[WangYunLateHan|王允]] is used as the example, but the wiki keeps that bridge source-scoped. Wang Yun's prison refusal shows disciplined role-identity under pressure; it does not prove every inner state the host attributes to him.
+
 [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] adds a late-Han negative example through "管不住身口意." [[WangRuiLateHan|Wang Rui]]'s contemptuous speech and threat against [[CaoYinLateHan|Cao Yin]] become actionable danger, while [[DongZhuo|Dong Zhuo]]'s desire and cruelty show the collapse of intention, speech, and conduct at regime scale. The episode therefore extends internalization from cultivation advice into failure diagnosis under warlord disorder.
 
 Virtue practice internalization / 修养内化 is the moral-cultivation frame [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] draws from [[ZiShun|子顺]]'s answer to [[WeiAnxiWang|魏安釐王]]. When the king says [[LuZhonglian|鲁仲连]] seems performative, Zi Shun replies that if someone keeps performing gentlemanly conduct, that practice can become the person.
@@ -25,6 +29,7 @@ This frame sits between two wiki cautions. It supports [[MoralizedShiIdentity|�
 [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] adds the [[LiaofanSixun|《了凡四训》]] version through [[YuanLiaofan|袁了凡]]. The episode says fate can change when intention becomes accumulated good action, and it extends that logic through [[ZengGuofan|曾国藩]] and [[InamoriKazuo|稻盛和夫]] as readers who turn moral practice into self-cultivation, family teaching, official conduct, or management.
 
 ## Key Claims
+- Hanji 931 adds that hardship can be framed as a practical self-cultivation test, but the host's inner-life diagnosis should remain source-scoped when applied to historical actors.
 - Self-conscious ethical action is not automatically hypocrisy; it can be early-stage cultivation.
 - Repetition can turn externally maintained conduct into internal disposition.
 - Confucius's "性相近，习相远" is used as a human-plasticity claim rather than as a direct good-or-evil verdict.
@@ -36,6 +41,7 @@ This frame sits between two wiki cautions. It supports [[MoralizedShiIdentity|�
 - Hanji 952 adds that failure to govern body, speech, and intention can become materially dangerous when politics is already violent and verification channels are weak.
 
 ## Connections
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[WangYunLateHan|王允]], [[OfficeDutyMartyrdom|守官赴死]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - hardship frame, prison conduct, and reputation formation.
 - [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[WangRuiLateHan|王瑞]], [[CaoYinLateHan|曹寅]], and [[DongZhuo|董卓]] - late-Han body-speech-intention failure cases.
 - [[ZiShun|子顺]], [[WeiAnxiWang|魏安釐王]], and [[LuZhonglian|鲁仲连]] - source scene and evaluated figure.
 - [[Confucius|孔子]] and [[Xunzi|荀子]] - human-nature clarification.

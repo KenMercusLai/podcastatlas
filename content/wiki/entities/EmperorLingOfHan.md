@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # 汉灵帝 / Emperor Ling of Han
 
+[[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] adds a 184-185 CE trust-and-disaster layer before the palace-finance branch. [[WangYunLateHan|王允]] submits letters tying [[ZhangRangLateHan|张让]]'s retainers to the Yellow Turban side, and Emperor Ling angrily scolds Zhang Rang but does not investigate deeply enough to prevent Zhang Rang's retaliation.
+
+The same source closes with 185 CE epidemic and palace fires in [[LuoyangLateHan|洛阳]], linking disease, hunger, war, refugee movement, and revolt to accelerating late-Han decline. Ling's profile here is not only extravagant or succession-negligent; it is also a ruler whose personal trust and weakened state environment make accurate warning hard to convert into durable action.
+
 [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] adds a 184 CE palace-finance layer before the later office-sale, remonstrance, and succession branches. Emperor Ling accepts [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]]'s proposal for added palace-repair and bronze-statue funding, while material requisitions and office-entry fees push the cost from the court through officials onto local people.
 
 The same source gives Emperor Ling one partial response to feedback. [[LuKangLateHan|陆康]]'s protest is recoded as disrespect and punished, but [[SimaZhiLateHan|司马直]]'s death memorial later moves Ling to stop the palace-construction fee temporarily. The episode therefore frames Ling as capable of momentary moral shock inside a deeper [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] and [[CourtFeedbackCollapse|君臣反馈失灵]] environment.
@@ -44,12 +48,13 @@ The episode therefore makes Emperor Ling's court disorder visible before the non
 
 The source says Emperor Ling privately prefers Liu Xie because he finds Liu Bian frivolous and lacking majesty, but he never turns that preference into a settled succession order. His deathbed entrustment of Liu Xie to [[JianShuoLateHan|蹇硕]] therefore creates an unstable substitute for public designation: Jian Shuo treats the trust as authority to strike [[HeJin|何进]], while the He side can still enthrone Liu Bian after the palace attempt fails.
 
-汉灵帝 / Emperor Ling of Han enters the wiki through [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] as the death-timing marker that leaves [[YufuluoChanyu|于扶罗]] without an effective Han court judgment during the [[SouthernXiongnu|南匈奴]] succession crisis. The source says Yufuluo comes to [[LuoyangLateHan|洛阳]] to complain, but the emperor's death and the ensuing disorder make the court unable to settle the matter.
+[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] later uses Emperor Ling as the death-timing marker that leaves [[YufuluoChanyu|于扶罗]] without an effective Han court judgment during the [[SouthernXiongnu|南匈奴]] succession crisis. The source says Yufuluo comes to [[LuoyangLateHan|洛阳]] to complain, but the emperor's death and the ensuing disorder make the court unable to settle the matter.
 
 The same source also names Emperor Ling as one of the authorities whose summons [[ShentuPanLateHan|申屠蟠]] had refused before [[DongZhuo|董卓]] tried to recruit him. The page is source-scoped: Hanji 949 uses Emperor Ling mainly to mark the late-Han court breakdown before Dong Zhuo's more direct coercive rule.
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[WangYunLateHan|王允]], [[ZhangRangLateHan|张让]], [[YangCiLateHan|杨赐]], [[YuanWeiLateHan|袁隗]], [[PandemicAsHistoricalForce|Pandemic As Historical Force]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - protected favorite, Wang Yun imprisonment, and 185 CE disaster context.
 - [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], [[LuKangLateHan|陆康]], [[SimaZhiLateHan|司马直]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - palace-construction finance, remonstrance punishment, and temporary fee halt.
 - [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[ZhangYanLateHan|张燕]], [[HeishanArmy|黑山军]], [[CuiLieLateHan|崔烈]], [[ChengFurenLateHan|程夫人]], [[OfficeBasedRebelIncorporation|授官式招安]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] - rebel incorporation and bought-office pricing through palace access.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[FuXie|傅燮]], [[LiangzhouLateHan|凉州]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangRangLateHan|张让]], and [[ZhaoZhongLateHan|赵忠]] - frontier-abandonment debate and eunuch-slander punishment of a commander.

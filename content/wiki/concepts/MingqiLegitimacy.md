@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # Mingqi Legitimacy / 名器合法性
 
+[[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] adds an official-death procedure layer before the later seal, edict, and court-title crises. In prison, [[WangYunLateHan|王允]] refuses poison because a minister who has offended the ruler should be executed through formal court judgment and public announcement.
+
+This source makes `名器` broader than objects alone. The office-holder's body and death also belong to a public role order: private suicide may end suffering, but it would let a captured court environment erase the visible meaning of judgment and office responsibility.
+
 [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] adds a pre-Dong-Zhuo rebel-title warning before the missing-seal and forced-deposition layers. [[ZhangJuLateHan|张举]] declares himself emperor and demands that [[EmperorLingOfHan|汉灵帝]] abdicate, while the court also sells Guannei marquis rank for cash. The case shows title order already under pressure before the later capital seizure: names and ranks still matter, but their public exclusivity is weakening.
 
 [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] adds the pre-Dong-Zhuo damage layer before Hanji 947's recovered five seals and missing [[HeirloomImperialSeal|传国玉玺]]. After [[HeJin|何进]] is killed, [[LiuBianHongnongWang|刘辩 / 弘农王]] and Liu Xie / [[EmperorXianOfHan|汉献帝]] are taken out of the palace by [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]] without the six imperial seals or a normal escort.
@@ -54,7 +58,7 @@ This source sharpens the concept by showing that `名器` can constrain action e
 
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] backfills the damaged-court side of Mingqi legitimacy. At [[Anyi|安邑]], [[EmperorXianOfHan|汉献帝]] can still reward officials, grant ranks, and make appointments, but the court lacks proper food, buildings, and even enough seals, so emergency wooden seals have to stand in for normal official objects. The source shows that `名器` can keep political force after material capacity collapses, but only in a fragile and improvised form.
 
-Mingqi legitimacy / 名器合法性 enters the wiki through the Hanji 1015-1016 late-Han branch. [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] supplies the initiating case: [[YuanShu|袁术]] declares himself emperor at [[Shouchun|寿春]], names the regime "仲家", renames the [[JiujiangCommandery|九江郡]] office into a [[HuainanRegion|淮南]] capital-style post, and performs imperial ritual. [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] then opens from the principle that "名器" should not be lightly accepted. "名" covers titles, rank, offices, and named political roles; "器" covers the physical objects that make power visible, such as seals, tallies, robes, vehicles, and insignia.
+The Hanji 1015-1016 late-Han branch later develops the explicit title-and-symbol vocabulary. [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] supplies the initiating case: [[YuanShu|袁术]] declares himself emperor at [[Shouchun|寿春]], names the regime "仲家", renames the [[JiujiangCommandery|九江郡]] office into a [[HuainanRegion|淮南]] capital-style post, and performs imperial ritual. [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] then opens from the principle that "名器" should not be lightly accepted. "名" covers titles, rank, offices, and named political roles; "器" covers the physical objects that make power visible, such as seals, tallies, robes, vehicles, and insignia.
 
 [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds the material prelude before the public title claim. Yuan Shu combines the "代汉者当涂高" prophecy, [[YinYangFivePhasesPoliticalTheory|five-phases]] reasoning, and the [[HeirloomImperialSeal|传国玉玺]] as support for imperial ambition, but [[YanXiangLateHan|阎象]] and [[ZhangChengLateHan|张承]] show that symbolic objects and omen readings cannot compensate for missing virtue, accepted name order, and social recognition.
 
@@ -69,6 +73,7 @@ Hanji 1015 adds the coalition-pressure side of the same title problem. Yuan Shu'
 Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]] refuses Yuan Shu's taiwei title and is killed, while [[ChenGui|陈珪]] refuses Yuan Shu's appeal and then steers [[LyuBu|吕布]] away from a marriage alliance. Accepting or rejecting titles is therefore not ornamental; it changes legitimacy, danger, and alliance exposure.
 
 ## Key Claims
+- Hanji 931 adds that formal judgment and public execution can be part of role legitimacy: an official's death is not only biological but procedural.
 - Hanji 938 adds that unsupported imperial self-coronation and cash sale of rank can weaken title exclusivity even before the capital court is physically captured.
 - Hanji 946 adds that symbolic legitimacy can be damaged before formal takeover: the emperor can survive while seals, escort, and command channels are absent during flight.
 - Hanji 947 adds that symbolic legitimacy can first appear as loss: missing seals show the court's material authority exposed before later actors use the objects.
@@ -95,6 +100,7 @@ Hanji 1016 also shows the personal risk of mishandled名器. [[JinShang|金尚]]
 - The concept links personal survival to public symbolic order: an actor must judge both what the title says and who can enforce or punish it.
 
 ## Connections
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[WangYunLateHan|王允]], [[OfficeDutyMartyrdom|守官赴死]], [[EmperorLingOfHan|汉灵帝]], and [[ZhangRangLateHan|张让]] - prison refusal and insistence on formal public judgment.
 - [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[ZhangJuLateHan|张举]], [[EmperorLingOfHan|汉灵帝]], and [[RankSaleDisasterFinance|鬻爵赈灾融资]] - rebel self-coronation, abdication demand, and cash sale of Guannei marquis rank.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], [[Xiaopingjin|小平津]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - imperial flight without the six seals or ordinary court escort.
 - [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[HeirloomImperialSeal|传国玉玺]], [[LuoyangLateHan|洛阳]], and [[CoercedImperialReplacement|胁迫式废立]] - missing seal and pre-deposition symbolic vulnerability.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d13bad81a6f78413000d2906dc9de9254f6a0c53d1b3f3d1e14128e246b3930c",
       "b960df0e17041feddf8181dce42c978aac4011db32e28e9771d14a81aa20e091",
       "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
       "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
@@ -212,11 +213,45 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 210
+    "paragraph_count": 211
   },
-  "overview_commit": "3b2eb47e7b4227df5384c7ec48a1295028da042f",
-  "overview_digest": "66db6b68d1f71d568078dc7a21825156258df253dfb8ebd257399258fd7277c1",
+  "overview_commit": "4aee40f83ba8611afb595d72a85f60e0937c0ed5",
+  "overview_digest": "2813e9d2b9ca12511ea3a7a76cbf23eaa4b6574d2f185b8cbeed429dad989208",
   "paragraphs": [
+    {
+      "id": "d13bad81a6f78413000d2906dc9de9254f6a0c53d1b3f3d1e14128e246b3930c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 184-185 CE late-Han layer before [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]]. It adds [[YangCiLateHan|杨赐]] and [[GuoTaiLateHan|郭泰]], while extending [[WangYunLateHan|王允]], [[ZhangRangLateHan|张让]], [[EmperorLingOfHan|汉灵帝]], [[HeJin|何进]], [[YuanWeiLateHan|袁隗]], [[LuoyangLateHan|洛阳]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[OfficeDutyMartyrdom|守官赴死]], [[MingqiLegitimacy|名器合法性]], [[MoralReputationPoliticalCapital|道德名望政治资本]], [[VirtuePracticeInternalization|修养内化]], [[PandemicAsHistoricalForce|Pandemic As Historical Force]], and [[WarDisasterCompounding]]. Its core synthesis is that Wang Yun's early prison ordeal turns adversity into an official-role test: Zhang Rang's protected network makes accurate reporting rebound against the reporter, while Wang Yun's refusal of private suicide insists that even unjust death should preserve public judgment and official meaning. No settled contradiction is recorded; transcript forms \"杨次\" and \"袁伟\" are normalized to Yang Ci and Yuan Wei, and the 185 CE epidemic/fire/famine material is treated as late-Han breakdown context rather than a complete medical or omen chronology.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "CourtFeedbackCollapse",
+        "EmperorLingOfHan",
+        "GuoTaiLateHan",
+        "HeJin",
+        "LuoyangLateHan",
+        "MingqiLegitimacy",
+        "MoralReputationPoliticalCapital",
+        "OfficeDutyMartyrdom",
+        "PandemicAsHistoricalForce",
+        "RuiqiJiangtouZizhiTongjian",
+        "VirtuePracticeInternalization",
+        "WangYunLateHan",
+        "WarDisasterCompounding",
+        "YangCiLateHan",
+        "YuanWeiLateHan",
+        "ZhangRangLateHan",
+        "zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6",
+        "zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29"
+      ]
+    },
     {
       "id": "b960df0e17041feddf8181dce42c978aac4011db32e28e9771d14a81aa20e091",
       "primary_topic": "business-and-markets",

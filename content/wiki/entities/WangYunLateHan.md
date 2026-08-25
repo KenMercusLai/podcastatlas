@@ -8,7 +8,13 @@ last_updated: 2026-08-25
 
 # 王允 / Wang Yun (late Han)
 
-[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Wang Yun's earliest place in the He Jin crisis. After [[YuanShao|袁绍]] presses [[HeJin|何进]] to move decisively against the [[TenAttendantsLateHan|十常侍]], He Jin appoints Yuan Shao as sili xiaowei and appoints Wang Yun as Henan yin.
+[[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] backfills Wang Yun's early 184 CE exposure before the later He Jin and Dong Zhuo branches. As Yu Province inspector after the Yellow Turban fighting, he discovers correspondence between [[ZhangRangLateHan|张让]]'s retainers and the rebel side, reports it to [[EmperorLingOfHan|汉灵帝]], and then becomes the target of Zhang Rang's retaliatory prison accusations.
+
+The source makes Wang Yun's official identity visible before his later coup fame. Torture, humiliation, and poison offered by subordinates do not move him into private suicide; he insists that if a minister has offended the ruler, he should await formal court execution and public announcement. That turns his prison stance into a procedural version of [[OfficeDutyMartyrdom|守官赴死]] and [[MingqiLegitimacy|名器合法性]]: his life can end, but the official meaning of the death should not be surrendered to backstage disposal.
+
+Wang Yun's survival in Hanji 931 also shows early [[MoralReputationPoliticalCapital|道德名望政治资本]]. [[HeJin|何进]], [[YangCiLateHan|杨赐]], and [[YuanWeiLateHan|袁隗]] help rescue him, while [[GuoTaiLateHan|郭泰]]'s praise, Wang Yun's classical study, and his riding-archery discipline make him more than a later assassination plotter.
+
+[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] later adds Wang Yun's place in the He Jin crisis. After [[YuanShao|袁绍]] presses [[HeJin|何进]] to move decisively against the [[TenAttendantsLateHan|十常侍]], He Jin appoints Yuan Shao as sili xiaowei and appoints Wang Yun as Henan yin.
 
 The source uses Wang Yun mainly as a personnel marker rather than a developed actor. His appointment shows He Jin and Yuan Shao trying to convert anti-eunuch pressure into formal office control before Hanji 946 shows the palace command channel breaking.
 
@@ -40,6 +46,7 @@ The host's source-scoped evaluation is severe: Wang Yun is treated as lacking po
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], [[HeJin|何进]], [[YangCiLateHan|杨赐]], [[YuanWeiLateHan|袁隗]], [[GuoTaiLateHan|郭泰]], [[OfficeDutyMartyrdom|守官赴死]], and [[MingqiLegitimacy|名器合法性]] - early Yellow-Turban aftermath report, prison refusal, rescue, and reputation layer.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[YuanShao|袁绍]], [[TenAttendantsLateHan|十常侍]], and [[CourtOfficeCapture|朝廷开府任官失序]] - Henan yin appointment before the palace command channel collapses.
 - [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[EmperorXianOfHan|汉献帝]], [[ChangAnHanCapital|长安]], and [[DongZhuo|董卓]] - pre-coup court-management and hidden-compliance posture.
 - [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]], [[HuangWanLateHan|黄琬]], [[ShiSunRuiLateHan|士孙瑞]], [[YangZanLateHan|杨瓒]], [[LyuBu|吕布]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]] - pre-coup planning and persuasion branch.
