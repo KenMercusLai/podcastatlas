@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5425
+wiki_total_pages: 5432
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -500,6 +500,12 @@ wiki_pages:
   - key: "TreasuryBondSpeculation"
     title: "Treasury Bond Speculation"
     url: "/wiki/concepts/treasurybondspeculation/"
+  - key: "TreasuryBuybackPolicy"
+    title: "Treasury Buyback Policy"
+    url: "/wiki/concepts/treasurybuybackpolicy/"
+  - key: "TreasuryDemandSubstitution"
+    title: "Treasury Demand Substitution"
+    url: "/wiki/concepts/treasurydemandsubstitution/"
   - key: "TreasuryDurationRisk"
     title: "Treasury Duration Risk"
     url: "/wiki/concepts/treasurydurationrisk/"

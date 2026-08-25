@@ -727,6 +727,10 @@
     "title": "179.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（上）",
     "url": "/wiki/sources/179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805/"
   },
+  "179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo": {
+    "title": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？",
+    "url": "/wiki/sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo/"
+  },
   "18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000": {
     "title": "18.如何识别、逃离并避免成为《精神吸血鬼》",
     "url": "/wiki/sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000/"
@@ -6254,6 +6258,10 @@
   "BessemerVenturePartners": {
     "title": "Bessemer Venture Partners",
     "url": "/wiki/entities/bessemerventurepartners/"
+  },
+  "BessentImpossibleTriangle": {
+    "title": "Bessent Impossible Triangle / 贝森特不可能三角",
+    "url": "/wiki/concepts/bessentimpossibletriangle/"
   },
   "BestBuy": {
     "title": "Best Buy",
@@ -15747,6 +15755,10 @@
     "title": "FIFA World Cup",
     "url": "/wiki/entities/fifaworldcup/"
   },
+  "FIMARepoBackstop": {
+    "title": "FIMA Repo Backstop",
+    "url": "/wiki/concepts/fimarepobackstop/"
+  },
   "FINRAFoundation": {
     "title": "FINRA Foundation",
     "url": "/wiki/entities/finrafoundation/"
@@ -18659,6 +18671,10 @@
     "title": "George Shultz",
     "url": "/wiki/entities/georgeshultz/"
   },
+  "GeorgeSoros": {
+    "title": "George Soros",
+    "url": "/wiki/entities/georgesoros/"
+  },
   "GeorgeWBush": {
     "title": "George W. Bush",
     "url": "/wiki/entities/georgewbush/"
@@ -20034,6 +20050,10 @@
   "HamiltonHelmer": {
     "title": "Hamilton Helmer",
     "url": "/wiki/entities/hamiltonhelmer/"
+  },
+  "HamiltonianEconomicNationalism": {
+    "title": "Hamiltonian Economic Nationalism",
+    "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
   },
   "HamishClayton": {
     "title": "Hamish Clayton",
@@ -35615,6 +35635,10 @@
     "title": "Police Killing Rate Divergence",
     "url": "/wiki/concepts/policekillingratedivergence/"
   },
+  "PolicyAmbiguityAsMarketTool": {
+    "title": "Policy Ambiguity As Market Tool",
+    "url": "/wiki/concepts/policyambiguityasmarkettool/"
+  },
   "PolicyAnnouncementTradingRisk": {
     "title": "Policy Announcement Trading Risk",
     "url": "/wiki/concepts/policyannouncementtradingrisk/"
@@ -40282,6 +40306,10 @@
   "ScotlandYard": {
     "title": "Scotland Yard",
     "url": "/wiki/entities/scotlandyard/"
+  },
+  "ScottBessent": {
+    "title": "Scott Bessent / 贝森特",
+    "url": "/wiki/entities/scottbessent/"
   },
   "ScottBrennan": {
     "title": "Scott Brennan",
@@ -46211,6 +46239,14 @@
     "title": "Treasury Bond Speculation",
     "url": "/wiki/concepts/treasurybondspeculation/"
   },
+  "TreasuryBuybackPolicy": {
+    "title": "Treasury Buyback Policy",
+    "url": "/wiki/concepts/treasurybuybackpolicy/"
+  },
+  "TreasuryDemandSubstitution": {
+    "title": "Treasury Demand Substitution",
+    "url": "/wiki/concepts/treasurydemandsubstitution/"
+  },
   "TreasuryDurationRisk": {
     "title": "Treasury Duration Risk",
     "url": "/wiki/concepts/treasurydurationrisk/"
@@ -46690,6 +46726,10 @@
   "USIranNuclearDiplomacy": {
     "title": "U.S.-Iran Nuclear Diplomacy",
     "url": "/wiki/concepts/usirannucleardiplomacy/"
+  },
+  "USJapanCurrencyIntervention": {
+    "title": "U.S.-Japan Currency Intervention",
+    "url": "/wiki/concepts/usjapancurrencyintervention/"
   },
   "USMaltaTaxTreaty": {
     "title": "U.S.-Malta Tax Treaty",

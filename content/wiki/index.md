@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？](sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo.md) — 起朱楼宴宾客 episode reading Scott Bessent's yen intervention, FIMA Repo push, Treasury buybacks, stablecoin demand, and Fed pressure as one fragile U.S. financing toolkit.
 - [汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回](sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395.md) — 声动早咖啡 episode linking a major China vehicle recall, Apple foldable/Vision Pro pressure, efficiency-over-expansion cases, Premier League sponsorship changes, and Qishui Music's pressure on Tencent Music and NetEase Cloud Music.
 - [YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand](sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285.md) — How I Built This episode on Roy and Ryan Seiders building YETI through rotomolded cooler durability, specialty retail, proof-led marketing, supplier-risk recovery, and Rambler drinkware expansion.
 - [《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国](sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe.md) — 芮淇讲透资治通鉴 prologue setting up the Three Kingdoms arc as a historical-source and struggle-strategy reading rather than only Romance memory.
@@ -1457,6 +1458,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Scott Bessent / 贝森特](entities/ScottBessent.md) — U.S. Treasury figure read by Qizhulou as a trader-style policy operator balancing yen defense, Treasury demand, buybacks, and dollar dominance.
+- [George Soros](entities/GeorgeSoros.md) — Macro investor appearing as the hedge-fund context for Bessent's sterling and yen trading background.
 - [Tencent Music / 腾讯音乐](entities/TencentMusic.md) — Tencent online-music incumbent pressured by Qishui Music's Douyin-backed distribution in the 2026-08-25 声动早咖啡 source.
 - [NetEase Cloud Music / 网易云音乐](entities/NetEaseCloudMusic.md) — NetEase music product compared with Qishui Music after source-cited user and profit pressure.
 - [Oriental Selection / 东方甄选](entities/OrientalSelection.md) — Livestream-commerce company shifting toward self-operated products, supply-chain standardization, and lower anchor dependence.
@@ -8990,6 +8993,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bessent Impossible Triangle / 贝森特不可能三角](concepts/BessentImpossibleTriangle.md) — Qizhulou frame for the tension between U.S. trade-deficit reduction, dollar dominance, and continued foreign Treasury demand.
+- [Treasury Demand Substitution](concepts/TreasuryDemandSubstitution.md) — Policy bundle using stablecoins, bank balance sheets, FIMA Repo, buybacks, maturity shifts, and Fed pressure to replace or support Treasury-market absorption.
+- [FIMA Repo Backstop](concepts/FIMARepoBackstop.md) — Use of the Fed's foreign official repo facility as a liquidity bridge so currency intervention need not force Treasury sales.
+- [Treasury Buyback Policy](concepts/TreasuryBuybackPolicy.md) — Treasury old-bond buybacks read as both off-the-run liquidity support and macro reaction-function signaling.
+- [U.S.-Japan Currency Intervention](concepts/USJapanCurrencyIntervention.md) — Source-scoped case where yen defense, U.S. export/trade concerns, and Japanese Treasury-holder behavior meet.
+- [Policy Ambiguity As Market Tool](concepts/PolicyAmbiguityAsMarketTool.md) — Strategy of using unclear defense levels, sudden action, and broad toolkits to avoid one-way market targets.
+- [Hamiltonian Economic Nationalism](concepts/HamiltonianEconomicNationalism.md) — Source label for pairing U.S. production-security goals with control over dollar, Treasury, finance, and technology rules.
 - [Vehicle Emergency Handle Usability](concepts/VehicleEmergencyHandleUsability.md) — Automotive safety affordance issue where emergency mechanical handles must be visible and usable in crash conditions.
 - [Short-Video Music Distribution](concepts/ShortVideoMusicDistribution.md) — Platform pattern where short-video discovery and traffic reshape music-app competition.
 - [Hotel Retail Flywheel](concepts/HotelRetailFlywheel.md) — Hospitality-retail pattern where in-stay product trial turns hotel bedding and comfort goods into consumer sales.

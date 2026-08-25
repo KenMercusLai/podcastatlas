@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？
+
+Added source page for a 起朱楼宴宾客 macro-policy episode reading Scott Bessent's U.S.-Japan yen support, FIMA Repo pressure, long-end Treasury buybacks, stablecoin Treasury demand, bank balance-sheet tools, and Fed pressure as one fragile financing toolkit. Created Scott Bessent, George Soros, Bessent Impossible Triangle, Treasury Demand Substitution, FIMA Repo Backstop, Treasury Buyback Policy, U.S.-Japan Currency Intervention, Policy Ambiguity As Market Tool, and Hamiltonian Economic Nationalism pages; updated macro institution and currency/bond concept pages. No settled contradiction found; the source's dates, policy motives, and efficacy judgments remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》927丨做生意的最高境界是什么？
 
 Added source page for Hanji 927: the host's source-scoped merchant-composure opening, Fu Xie's warning that Yellow Turban disorder grows from eunuch-rooted court failure, Zhao Zhong's retaliatory blocking of Fu Xie's reward, Zhang Mancheng's Nanyang branch before Qin Jie kills him, and Jia Cong's root-cause pacification of Jiaozhi. Created Jia Cong, Jiaozhi Commandery, Root-Cause Pacification, and Merchant Composure Discipline pages; updated related late-Han actor, Nanyang, court-feedback, and people-based-security pages. No settled contradiction found; transcript "傅解" is normalized to Fu Xie / 傅燮, and minor Jiaozhi/Nanyang names remain source-scoped.
@@ -11623,6 +11627,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand
 
 Added source page for a How I Built This episode on Roy and Ryan Seiders building YETI from fragile-cooler frustration into a premium outdoor cooler and drinkware brand. Created YETI, Roy Seiders, Ryan Seiders, Roger Seiders, Flexcoat, Waterloo Rods, Icy Tech, Ivan Brown, Walt Larson, Cortec Group, YETI Tundra, YETI Rambler, Rotomolded Cooler Category, Specialty Retail Beachhead, Demonstration Led Product Proof, Supplier Concentration Crisis, and Accessible Entry Point Brand Extension pages; updated How I Built This, Guy Raz, and consumer-brand/channel/product-proof concept pages. No settled contradiction found; the title/body Ron/Roy mismatch is preserved as source-scoped metadata while the wiki uses Roy Seiders for the founder discussed in the episode body.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

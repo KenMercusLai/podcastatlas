@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1831
+topic_total_pages: 1836
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -340,6 +340,9 @@ topic_concepts:
   - key: "BennettHypothesis"
     title: "Bennett Hypothesis"
     url: "/wiki/concepts/bennetthypothesis/"
+  - key: "BessentImpossibleTriangle"
+    title: "Bessent Impossible Triangle / 贝森特不可能三角"
+    url: "/wiki/concepts/bessentimpossibletriangle/"
   - key: "BiotechBDDataValidationPhase"
     title: "Biotech BD Data Validation Phase"
     url: "/wiki/concepts/biotechbddatavalidationphase/"
@@ -1945,6 +1948,9 @@ topic_concepts:
   - key: "PlatformPipelineBiotechStrategy"
     title: "Platform-Pipeline Biotech Strategy"
     url: "/wiki/concepts/platformpipelinebiotechstrategy/"
+  - key: "PolicyAmbiguityAsMarketTool"
+    title: "Policy Ambiguity As Market Tool"
+    url: "/wiki/concepts/policyambiguityasmarkettool/"
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
@@ -2557,6 +2563,9 @@ topic_concepts:
   - key: "TreasuryBondSpeculation"
     title: "Treasury Bond Speculation"
     url: "/wiki/concepts/treasurybondspeculation/"
+  - key: "TreasuryDemandSubstitution"
+    title: "Treasury Demand Substitution"
+    url: "/wiki/concepts/treasurydemandsubstitution/"
   - key: "TreasuryDurationRisk"
     title: "Treasury Duration Risk"
     url: "/wiki/concepts/treasurydurationrisk/"
@@ -3383,6 +3392,9 @@ topic_entities:
   - key: "GeorgeCottrell"
     title: "George Cottrell"
     url: "/wiki/entities/georgecottrell/"
+  - key: "GeorgeSoros"
+    title: "George Soros"
+    url: "/wiki/entities/georgesoros/"
   - key: "GeorgeWBush"
     title: "George W. Bush"
     url: "/wiki/entities/georgewbush/"
@@ -4124,6 +4136,9 @@ topic_entities:
   - key: "SaudiPublicInvestmentFund"
     title: "Saudi Public Investment Fund"
     url: "/wiki/entities/saudipublicinvestmentfund/"
+  - key: "ScottBessent"
+    title: "Scott Bessent / 贝森特"
+    url: "/wiki/entities/scottbessent/"
   - key: "Scribd"
     title: "Scribd"
     url: "/wiki/entities/scribd/"

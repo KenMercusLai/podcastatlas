@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5425
+wiki_total_pages: 5432
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "BereavementGriefWork"
     title: "Bereavement Grief Work / 丧亲悲伤工作"
     url: "/wiki/concepts/bereavementgriefwork/"
+  - key: "BessentImpossibleTriangle"
+    title: "Bessent Impossible Triangle / 贝森特不可能三角"
+    url: "/wiki/concepts/bessentimpossibletriangle/"
   - key: "BestsellerListOpacity"
     title: "Bestseller List Opacity"
     url: "/wiki/concepts/bestsellerlistopacity/"

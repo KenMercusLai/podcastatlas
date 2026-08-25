@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5425
+wiki_total_pages: 5432
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "PoliceFreeProtestSpace"
     title: "Police-Free Protest Space"
     url: "/wiki/concepts/policefreeprotestspace/"
+  - key: "PolicyAmbiguityAsMarketTool"
+    title: "Policy Ambiguity As Market Tool"
+    url: "/wiki/concepts/policyambiguityasmarkettool/"
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"

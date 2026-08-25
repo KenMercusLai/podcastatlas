@@ -2,11 +2,13 @@
 title: "U.S. Treasury"
 type: entity
 tags: [institution, macro, bonds, sanctions, compliance]
-sources: [all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, betty-boop-excel-olympics-penny-isms-our-2026-valentines, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-20
+sources: [179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, betty-boop-excel-olympics-penny-isms-our-2026-valentines, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-25
 ---
 
 # U.S. Treasury
+
+[[179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo]] adds Treasury as the center of [[ScottBessent|Scott Bessent / 贝森特]]'s financing toolkit. The episode links [[TreasuryBuybackPolicy]], [[FIMARepoBackstop]], stablecoin Treasury demand, bank balance-sheet release, maturity management, and pressure on the [[FederalReserve]] to [[TreasuryDemandSubstitution]] under [[BessentImpossibleTriangle]].
 
 [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Treasury as an implementation actor for [[TrumpAccounts|Trump accounts]]. The episode frames the accounts as privately owned and long-horizon, but their contribution rules, tax treatment, identity plumbing, and federal onboarding make Treasury capacity part of the product risk.
 
@@ -31,6 +33,7 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 [[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds Treasury as a bank-crisis decision channel during the March 2023 [[SiliconValleyBank]] weekend. [[RonConway]] says [[WallyAdeyemo]] connected him to [[GrahamSteele]], the Treasury point person, while [[JanetYellen]]'s Sunday television comments suggested the deposit-guarantee decision had not yet aligned publicly. The episode extends Treasury from debt, sanctions, tax, and coin policy into [[DepositGuaranteeCrisisResponse]] and [[SystemicRiskException]].
 
 ## Source Position
+- Episode 179 treats Treasury as an active market-signaling actor: buybacks, repo-facility pressure, and maturity choices are read as attempts to shape long-end financing conditions without openly setting a yield target.
 - The episode suggests that high rates raise U.S. fiscal interest costs as low-cost debt matures and is refinanced.
 - [[JanetYellen]] is discussed through a short-debt issuance strategy that the speakers interpret as waiting for lower rates before locking in more long-term borrowing.
 - The U.S. Treasury market is not treated as risk-free for non-dollar investors because [[TreasuryDurationRisk]] and [[CurrencyRisk]] can both affect returns.
@@ -45,6 +48,7 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 - The Lutnick source treats Treasury as the fiscal recipient of tariff and trade-deal proceeds, connecting deficit reduction to negotiated industrial and trade structures.
 
 ## Connections
+- [[ScottBessent|Scott Bessent / 贝森特]], [[BessentImpossibleTriangle]], [[TreasuryDemandSubstitution]], [[FIMARepoBackstop]], [[TreasuryBuybackPolicy]], and [[PolicyAmbiguityAsMarketTool]] - episode 179 Treasury-market absorption and policy-signaling branch.
 - [[JanetYellen]] — policy figure attached to the issuance discussion.
 - [[FederalReserve]] — rate path affects debt-service cost and bond pricing.
 - [[TreasuryDurationRisk]] and [[CurrencyRisk]] — key risk frames from the episode.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1843
+topic_total_pages: 1846
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -295,6 +295,9 @@ topic_concepts:
   - key: "BennettHypothesis"
     title: "Bennett Hypothesis"
     url: "/wiki/concepts/bennetthypothesis/"
+  - key: "BessentImpossibleTriangle"
+    title: "Bessent Impossible Triangle / 贝森特不可能三角"
+    url: "/wiki/concepts/bessentimpossibletriangle/"
   - key: "BestsellerListOpacity"
     title: "Bestseller List Opacity"
     url: "/wiki/concepts/bestsellerlistopacity/"
@@ -1852,6 +1855,9 @@ topic_concepts:
   - key: "PoliceDataAccessAudit"
     title: "Police Data Access Audit"
     url: "/wiki/concepts/policedataaccessaudit/"
+  - key: "PolicyAmbiguityAsMarketTool"
+    title: "Policy Ambiguity As Market Tool"
+    url: "/wiki/concepts/policyambiguityasmarkettool/"
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
@@ -4971,6 +4977,9 @@ topic_sources:
   - key: "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809"
     title: "173.弹劾：如何罢免一位总统"
     url: "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+  - key: "179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo"
+    title: "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？"
+    url: "/wiki/sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo/"
   - key: "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1"
     title: "179: 蒸馏风暴：一场无人公开谈论的技术竞赛"
     url: "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"

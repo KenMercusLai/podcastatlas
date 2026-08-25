@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5425
+wiki_total_pages: 5432
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "FilterBubble"
     title: "Filter Bubble / 过滤气泡"
     url: "/wiki/concepts/filterbubble/"
+  - key: "FIMARepoBackstop"
+    title: "FIMA Repo Backstop"
+    url: "/wiki/concepts/fimarepobackstop/"
   - key: "FinanceCareerPortability"
     title: "Finance Career Portability"
     url: "/wiki/concepts/financecareerportability/"

@@ -2,11 +2,13 @@
 title: "Stablecoins"
 type: concept
 tags: [crypto, finance, money, compliance]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, how-much-money-president-trump-and-his-family-have-made, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
-last_updated: 2026-08-18
+sources: [179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, how-much-money-president-trump-and-his-family-have-made, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+last_updated: 2026-08-25
 ---
 
 # Stablecoins
+
+[[179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo]] adds the Treasury-demand substitution version. The episode argues that stablecoins can create additional short-term [[USTreasury|U.S. Treasury]] demand, making them part of [[ScottBessent|Scott Bessent / 贝森特]]'s broader [[TreasuryDemandSubstitution]] toolkit rather than only payment, crypto-market, or sanctions infrastructure.
 
 [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the regulated-issuer version through [[Circle]] and [[USDC]]. Circle's CEO frames stablecoins as internet-native programmable dollars and argues that reserves, auditors, regulators, banks, and the [[GENIUSAct|GENIUS Act]] can make open blockchain rails acceptable to mainstream finance.
 
@@ -23,6 +25,7 @@ Stablecoins are discussed in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang
 [[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds [[WangTianfan]]'s [[BlockchainFinancialInnovation]] frame. He treats stablecoins as part of a broader blockchain-born financial application wave, connecting dollar-like rails, on-chain assets, AI capex, Treasury demand, and monetary optionality.
 
 ## Key Claims
+- Episode 179 adds a macro-funding claim: stablecoin reserve demand can support short Treasury demand, but that makes private issuers and regulation part of U.S. fiscal plumbing.
 - Stablecoin demand is treated as more grounded than purely speculative crypto trading because it is tied to payments, settlement, and dollar access.
 - Issuers that hold Treasuries can expand demand for U.S. government debt.
 - Private stablecoin issuance creates regulatory and monetary-governance questions.
@@ -39,6 +42,7 @@ Stablecoins are discussed in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang
 - USDC use cases in the All-In source broaden the concept from trading liquidity into invoices, refunds, remittances, prediction markets, and software-based credit.
 
 ## Connections
+- [[TreasuryDemandSubstitution]], [[BessentImpossibleTriangle]], [[ScottBessent|Scott Bessent / 贝森特]], and [[USTreasury|U.S. Treasury]] - episode 179 Treasury-demand branch.
 - [[CryptocurrencyMarketStructure]] — broader crypto context where stablecoins operate.
 - [[Bitcoin]] — contrast between a volatile crypto asset and dollar-pegged infrastructure.
 - [[VirtualAssetAMLRisk]] — compliance and identity-risk lens added by EP44.

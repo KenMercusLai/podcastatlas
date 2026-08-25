@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7529
+wiki_total_pages: 7531
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "ScotlandYard"
     title: "Scotland Yard"
     url: "/wiki/entities/scotlandyard/"
+  - key: "ScottBessent"
+    title: "Scott Bessent / 贝森特"
+    url: "/wiki/entities/scottbessent/"
   - key: "ScottBrennan"
     title: "Scott Brennan"
     url: "/wiki/entities/scottbrennan/"

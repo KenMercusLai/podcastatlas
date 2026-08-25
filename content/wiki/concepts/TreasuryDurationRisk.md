@@ -2,11 +2,13 @@
 title: "Treasury Duration Risk"
 type: concept
 tags: [bonds, macro, rates, investing]
-sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
-last_updated: 2026-08-06
+sources: [179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+last_updated: 2026-08-25
 ---
 
 # Treasury Duration Risk
+
+[[179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo]] adds the Treasury-issuer management version. [[DavidWeng|大卫翁]] argues that [[TreasuryBuybackPolicy]] can relieve some old-bond liquidity and dealer inventory pressure, but cannot create global savings or fully suppress long-duration risk when long-end supply, AI/data-center capital demand, and fiscal rollover needs remain large.
 
 Treasury duration risk is the EP39 warning that U.S. Treasuries can be attractive during a rate-cut cycle while still exposing investors to price volatility, long-bond supply, fiscal pressure, and currency effects. In [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]], the speakers treat bonds as a possible defensive bridge, but they reject the idea that coupon income makes the trade risk-free.
 
@@ -19,6 +21,7 @@ Treasury duration risk is the EP39 warning that U.S. Treasuries can be attractiv
 [[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] reinforces the ordinary-investor boundary. The host says he uses half-year or one-year [[USTreasury|U.S. Treasuries]] to earn cash-like yield, but does not use TLT, TMF, or similar long-duration/rate-bet products because bond pricing is institution-heavy and duration timing is hard.
 
 ## Key Claims
+- Episode 179 adds that Treasury buybacks and maturity management can alter market absorption needs, but they do not remove duration, supply, or fiscal credibility risk.
 - A [[FederalReserve]] rate-cut cycle can create a favorable setup for intermediate or long Treasuries, but bond prices can still move sharply before and after cuts.
 - The [[USTreasury]] financing burden matters because high rates raise rollover cost and future long-bond supply can pressure prices.
 - [[JanetYellen]]'s short-debt issuance is interpreted as relevant because later long-bond issuance at lower rates could change supply dynamics.
@@ -30,6 +33,7 @@ Treasury duration risk is the EP39 warning that U.S. Treasuries can be attractiv
 - Episode 135 adds a sharper product distinction: short bills can act as cash-like reserves, while long-duration ETFs are not ordinary cash substitutes.
 
 ## Connections
+- [[TreasuryBuybackPolicy]], [[TreasuryDemandSubstitution]], [[BessentImpossibleTriangle]], and [[ScottBessent|Scott Bessent / 贝森特]] - episode 179 issuer-toolkit extension.
 - [[USTreasury]], [[JanetYellen]], and [[FederalReserve]] — policy and issuance context.
 - [[CurrencyRisk]] and [[RMBExchangeRatePolicy]] — non-dollar investor return layer.
 - [[QDIIAllocation]] — practical route for Chinese investors seeking defensive overseas exposure.

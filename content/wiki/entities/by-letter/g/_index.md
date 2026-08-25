@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 7529
+wiki_total_pages: 7531
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "GeorgeShultz"
     title: "George Shultz"
     url: "/wiki/entities/georgeshultz/"
+  - key: "GeorgeSoros"
+    title: "George Soros"
+    url: "/wiki/entities/georgesoros/"
   - key: "GeorgeWBush"
     title: "George W. Bush"
     url: "/wiki/entities/georgewbush/"
