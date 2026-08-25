@@ -8891,6 +8891,10 @@
     "title": "陈豨之乱 / Chen Xi Rebellion",
     "url": "/wiki/entities/chenxirebellion/"
   },
+  "ChenYiJinchengLateHan": {
+    "title": "陈懿 / Chen Yi (Jincheng)",
+    "url": "/wiki/entities/chenyijinchenglatehan/"
+  },
   "ChenYiLateHan": {
     "title": "陈逸 / Chen Yi (late Han)",
     "url": "/wiki/entities/chenyilatehan/"
@@ -26727,6 +26731,10 @@
     "title": "栗腹 / Li Fu (Warring States)",
     "url": "/wiki/entities/lifuwarringstates/"
   },
+  "LiGuLateHan": {
+    "title": "李固 / Li Gu (late Han)",
+    "url": "/wiki/entities/ligulatehan/"
+  },
   "LiHongjun": {
     "title": "李洪军 / Li Hongjun",
     "url": "/wiki/entities/lihongjun/"
@@ -26923,6 +26931,10 @@
     "title": "李小杰 / Li Xiaojie",
     "url": "/wiki/entities/lixiaojie/"
   },
+  "LiXieLateHan": {
+    "title": "李燮 / Li Xie (late Han)",
+    "url": "/wiki/entities/lixielatehan/"
+  },
   "LiXinQin": {
     "title": "李信 / Li Xin (Qin)",
     "url": "/wiki/entities/lixinqin/"
@@ -26986,6 +26998,10 @@
   "LianPo": {
     "title": "廉颇 / Lian Po",
     "url": "/wiki/entities/lianpo/"
+  },
+  "LiangHuLateHan": {
+    "title": "梁鹄 / Liang Hu (late Han)",
+    "url": "/wiki/entities/lianghulatehan/"
   },
   "LiangHuiWang": {
     "title": "梁惠王 / King Hui of Liang",
@@ -27259,6 +27275,10 @@
     "title": "Lineage Commercial Capital",
     "url": "/wiki/concepts/lineagecommercialcapital/"
   },
+  "LingZhengLateHan": {
+    "title": "伶征 / Ling Zheng (late Han)",
+    "url": "/wiki/entities/lingzhenglatehan/"
+  },
   "Lingguan": {
     "title": "龄官 / Lingguan",
     "url": "/wiki/entities/lingguan/"
@@ -27507,6 +27527,10 @@
     "title": "刘如意 / Liu Ruyi",
     "url": "/wiki/entities/liuruyi/"
   },
+  "LiuSuanLateHan": {
+    "title": "刘蒜 / Liu Suan (late Han)",
+    "url": "/wiki/entities/liusuanlatehan/"
+  },
   "LiuTaigong": {
     "title": "刘太公 / Liu Taigong",
     "url": "/wiki/entities/liutaigong/"
@@ -27530,6 +27554,10 @@
   "LiuXiu": {
     "title": "Liu Xiu / 刘秀",
     "url": "/wiki/entities/liuxiu/"
+  },
+  "LiuXuAnpingPrince": {
+    "title": "刘续 / Liu Xu (Anping Wang)",
+    "url": "/wiki/entities/liuxuanpingprince/"
   },
   "LiuXunLateHan": {
     "title": "刘勋 / Liu Xun (late Han)",
@@ -36687,6 +36715,10 @@
     "title": "Public Domain Reuse",
     "url": "/wiki/concepts/publicdomainreuse/"
   },
+  "PublicDutyOverPrivateGrievance": {
+    "title": "Public Duty Over Private Grievance / 对事不对人式公义",
+    "url": "/wiki/concepts/publicdutyoverprivategrievance/"
+  },
   "PublicFigureWorkplaceAdviceSatire": {
     "title": "Public-Figure Workplace Advice Satire",
     "url": "/wiki/concepts/publicfigureworkplaceadvicesatire/"
@@ -43327,6 +43359,10 @@
     "title": "苏辙 / Su Zhe",
     "url": "/wiki/entities/suzhe/"
   },
+  "SuZhengheLateHan": {
+    "title": "苏正和 / Su Zhenghe (late Han)",
+    "url": "/wiki/entities/suzhenghelatehan/"
+  },
   "SuanzaoCamp": {
     "title": "酸枣大营 / Suanzao Camp",
     "url": "/wiki/entities/suanzaocamp/"
@@ -49719,6 +49755,10 @@
     "title": "新鸳鸯蝴蝶梦",
     "url": "/wiki/entities/xinyuanyanghudiemeng/"
   },
+  "XinZengLateHan": {
+    "title": "辛曾 / Xin Zeng (late Han)",
+    "url": "/wiki/entities/xinzenglatehan/"
+  },
   "XinanMassacre": {
     "title": "新安坑降 / Xinan Massacre",
     "url": "/wiki/entities/xinanmassacre/"
@@ -51327,6 +51367,10 @@
     "title": "张苞 / Zhang Bao (late Han)",
     "url": "/wiki/entities/zhangbaolatehan/"
   },
+  "ZhangBaoYellowTurban": {
+    "title": "张宝 / Zhang Bao (Yellow Turban)",
+    "url": "/wiki/entities/zhangbaoyellowturban/"
+  },
   "ZhangBinSportsMedia": {
     "title": "张斌 / Zhang Bin",
     "url": "/wiki/entities/zhangbinsportsmedia/"
@@ -51463,6 +51507,10 @@
     "title": "张良 / Zhang Liang",
     "url": "/wiki/entities/zhangliang/"
   },
+  "ZhangLiangYellowTurban": {
+    "title": "张梁 / Zhang Liang (Yellow Turban)",
+    "url": "/wiki/entities/zhangliangyellowturban/"
+  },
   "ZhangLiao": {
     "title": "张辽 / Zhang Liao",
     "url": "/wiki/entities/zhangliao/"
@@ -51596,7 +51644,7 @@
     "url": "/wiki/entities/zhangxiu/"
   },
   "ZhangXiuFivePecks": {
-    "title": "张修 / Zhang Xiu (Hanzhong)",
+    "title": "张修 / Zhang Xiu (Five Pecks)",
     "url": "/wiki/entities/zhangxiufivepecks/"
   },
   "ZhangXueMotorcycle": {
@@ -52642,6 +52690,10 @@
   "ZuMaoLateHan": {
     "title": "祖茂 / Zu Mao (late Han)",
     "url": "/wiki/entities/zumaolatehan/"
+  },
+  "ZuoChangLateHan": {
+    "title": "左昌 / Zuo Chang (late Han)",
+    "url": "/wiki/entities/zuochanglatehan/"
   },
   "ZuoChengzu": {
     "title": "左承祖 / Zuo Chengzu",
@@ -56122,6 +56174,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3": {
+    "title": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3/"
   },
   "zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd": {
     "title": "《资治通鉴·汉纪》930丨如何破除贪心和不甘心？",

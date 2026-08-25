@@ -2,11 +2,15 @@
 title: "皇甫嵩 / Huangfu Song (late Han)"
 type: entity
 tags: [late-han, official, military, chang-an]
-sources: [zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 皇甫嵩 / Huangfu Song (late Han)
+
+[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] backfills Huangfu Song's decisive 184 CE [[YellowTurbansLateHan|Yellow Turban]] campaign. After defeating the rebels at Cangting and capturing Bo Si, he studies [[ZhangLiangYellowTurban|张梁]] at Guangzong, waits for camp laxness, attacks at dawn, and then turns to [[ZhangBaoYellowTurban|张宝]] at Quyang after [[ZhangJiaoLateHan|张角]] has already died.
+
+The same source gives Huangfu Song a leadership frame before later court vulnerability. He is rewarded as Left Chariot-and-Cavalry General, Jizhou shepherd, and Huaili marquis, while the host stresses that he rests and eats after ordinary soldiers do. This makes his early page role a combination of operational patience and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] before later episodes show how court politics can still strip his merit.
 
 [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds Huangfu Song's 185 CE court-vulnerability branch before the later Chen Cang and Dong Zhuo scenes. [[EmperorLingOfHan|汉灵帝]] recalls him to guard [[ChangAnHanCapital|长安]] against [[BeigongBoyuLateHan|北宫伯玉]] and related Sanfu pressure, showing that the court still needs his military capacity.
 
@@ -32,6 +36,7 @@ His dismissal appears beside [[LiuBiao|Liu Biao]]'s promotion to Zhengnan genera
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[YellowTurbansLateHan|黄巾军]], [[ZhangJiaoLateHan|张角]], [[ZhangLiangYellowTurban|张梁]], [[ZhangBaoYellowTurban|张宝]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - 184 CE main Yellow Turban suppression and leadership-morale branch.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[BeigongBoyuLateHan|北宫伯玉]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - earlier Sanfu assignment, refused bribery, anti-corruption memorial, and slander-driven demotion.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[WangGuoLateHan|王国]], [[ChenCang|陈仓]], [[ChenCangBattleLateHan|陈仓之战]], [[DongZhuo|董卓]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - delay-then-pursue victory and its resentment cost.
 - [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[GeXunLateHan|葛勋]], [[LiangYanLateHan|梁衍]], [[EmperorXianOfHan|汉献帝]], [[YuanShao|袁绍]], and [[MingqiLegitimacy|名器合法性]] - refused opportunity to escort the emperor and attack Dong Zhuo.

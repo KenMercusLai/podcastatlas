@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5400
+wiki_total_pages: 5401
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1280,6 +1280,9 @@ wiki_pages:
   - key: "PublicDomainReuse"
     title: "Public Domain Reuse"
     url: "/wiki/concepts/publicdomainreuse/"
+  - key: "PublicDutyOverPrivateGrievance"
+    title: "Public Duty Over Private Grievance / 对事不对人式公义"
+    url: "/wiki/concepts/publicdutyoverprivategrievance/"
   - key: "PublicFundraisingPitch"
     title: "Public Fundraising Pitch"
     url: "/wiki/concepts/publicfundraisingpitch/"

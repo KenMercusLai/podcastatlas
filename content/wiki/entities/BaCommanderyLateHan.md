@@ -2,11 +2,13 @@
 title: "巴郡 / Ba Commandery (late Han)"
 type: entity
 tags: [place, commandery, late-han, yizhou]
-sources: [zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j]
+sources: [zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j]
 last_updated: 2026-08-25
 ---
 
 # 巴郡 / Ba Commandery (late Han)
+
+[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] first uses Ba Commandery as the setting for [[ZhangXiuFivePecks|张修]]'s Five-Pecks-style rising. The episode places Zhang Xiu's religiously framed healing and rice contribution before the later attack on commandery and county offices.
 
 巴郡 / Ba Commandery enters the wiki through [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]] as one of the commanderies affected after [[MaXiangLateHan|马相]] and [[ZhaoZhiLateHan|赵祗]] rise at [[MianzhuLateHan|绵竹]]. The episode names Ba alongside [[QianweiCommanderyLateHan|犍为郡]] to show how quickly the Yizhou revolt spreads beyond its origin.
 
@@ -15,6 +17,7 @@ The page is source-scoped because this episode uses Ba Commandery primarily as g
 ## Connections
 
 - [[YizhouLateHan|益州]] and [[BaShu|巴蜀]] - broader regional frame.
+- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[ZhangXiuFivePecks|张修]], and [[WudoumiDao|五斗米道]] - early Five-Pecks-style revolt setting.
 - [[MaXiangLateHan|马相]] and [[ZhaoZhiLateHan|赵祗]] - rebels whose movement reaches the commandery.
 - [[QianweiCommanderyLateHan|犍为郡]] and [[MianzhuLateHan|绵竹]] - linked source geography.
 - [[JiaLongLateHan|贾龙]] and [[LiuYanLateHan|刘焉]] - subsequent restoration and pacification branch.

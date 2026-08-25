@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1835
+topic_total_pages: 1836
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2098,6 +2098,9 @@ topic_concepts:
   - key: "PublicDisavowalSelfProtection"
     title: "Public Disavowal Self-Protection / 公开切割式自保"
     url: "/wiki/concepts/publicdisavowalselfprotection/"
+  - key: "PublicDutyOverPrivateGrievance"
+    title: "Public Duty Over Private Grievance / 对事不对人式公义"
+    url: "/wiki/concepts/publicdutyoverprivategrievance/"
   - key: "PublicHealthGeopolitics"
     title: "Public Health Geopolitics"
     url: "/wiki/concepts/publichealthgeopolitics/"

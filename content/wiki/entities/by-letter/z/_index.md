@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7478
+wiki_total_pages: 7490
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "ZuoChengzu"
     title: "左承祖 / Zuo Chengzu"
     url: "/wiki/entities/zuochengzu/"
+  - key: "ZuoChangLateHan"
+    title: "左昌 / Zuo Chang (late Han)"
+    url: "/wiki/entities/zuochanglatehan/"
   - key: "ZuoShuang"
     title: "左爽 / Zuo Shuang"
     url: "/wiki/entities/zuoshuang/"
@@ -477,7 +480,7 @@ wiki_pages:
     title: "张伯后 / Jerry"
     url: "/wiki/entities/zhangbohoujerry/"
   - key: "ZhangXiuFivePecks"
-    title: "张修 / Zhang Xiu (Hanzhong)"
+    title: "张修 / Zhang Xiu (Five Pecks)"
     url: "/wiki/entities/zhangxiufivepecks/"
   - key: "ZhangXunYuanShu"
     title: "张勋 / Zhang Xun (Yuan Shu general)"
@@ -503,6 +506,9 @@ wiki_pages:
   - key: "ZhangHongjiang"
     title: "张宏江 / Zhang Hongjiang"
     url: "/wiki/entities/zhanghongjiang/"
+  - key: "ZhangBaoYellowTurban"
+    title: "张宝 / Zhang Bao (Yellow Turban)"
+    url: "/wiki/entities/zhangbaoyellowturban/"
   - key: "ZhangjiashanHanmuZhujian"
     title: "张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips"
     url: "/wiki/entities/zhangjiashanhanmuzhujian/"
@@ -560,6 +566,9 @@ wiki_pages:
   - key: "ZhangYangLateHan"
     title: "张杨 / Zhang Yang (late Han)"
     url: "/wiki/entities/zhangyanglatehan/"
+  - key: "ZhangLiangYellowTurban"
+    title: "张梁 / Zhang Liang (Yellow Turban)"
+    url: "/wiki/entities/zhangliangyellowturban/"
   - key: "ZhangChuRegime"
     title: "张楚政权 / Zhang Chu Regime"
     url: "/wiki/entities/zhangchuregime/"

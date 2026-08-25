@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》929丨对事不对人，你信了吗？](sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3.md) — 芮淇讲透资治通鉴 episode on Huangfu Song's 184 CE Yellow Turban victories, Zhang Xiu's Five-Pecks-style rising, Li Xie's Anping Wang warning, and Gai Xun separating public duty from private grievance.
 - [《资治通鉴·汉纪》930丨如何破除贪心和不甘心？](sources/zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd.md) — 芮淇讲透资治通鉴 episode on Gai Xun's Qiang-front reputation, Zhu Jun's Nanyang Yellow Turban campaign, Sun Jian's early recognition, and capability as the answer to greed and resentment.
 - [《资治通鉴·汉纪》931丨人生艰难处，便是修心时](sources/zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6.md) — 芮淇讲透资治通鉴 episode on Wang Yun reporting Zhang Rang retainer correspondence with the Yellow Turban side, surviving retaliatory imprisonment, refusing private suicide, and 185 CE epidemic/fire/famine pressures.
 - [《资治通鉴·汉纪》932丨为什么人越好，越难当大官？](sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29.md) — 芮淇讲透资治通鉴 episode on Lu Kang's remonstrance against palace-construction taxes, eunuch-mediated material and office-fee extraction, and Sima Zhi's death memorial against making clean officials squeeze the people.
@@ -1447,6 +1448,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张梁 / Zhang Liang (Yellow Turban)](entities/ZhangLiangYellowTurban.md) — Yellow Turban leader killed by Huangfu Song at Guangzong in Hanji 929, disambiguated from Zhang Liang the early-Han strategist.
+- [张宝 / Zhang Bao (Yellow Turban)](entities/ZhangBaoYellowTurban.md) — Zhang Jiao's brother killed by Huangfu Song at Quyang in Hanji 929, disambiguated from Zhang Bao / 张苞 in the Li-Guo branch.
+- [刘续 / Liu Xu (Anping Wang)](entities/LiuXuAnpingPrince.md) — Anping prince whose restoration Li Xie opposed before Liu Xu was executed and the state abolished.
+- [李燮 / Li Xie (late Han)](entities/LiXieLateHan.md) — Yilang punished for opposing Liu Xu's restoration and later vindicated after Liu Xu's execution.
+- [李固 / Li Gu (late Han)](entities/LiGuLateHan.md) — Li Xie's father, remembered for opposing Emperor Huan's accession and preferring Liu Suan.
+- [刘蒜 / Liu Suan (late Han)](entities/LiuSuanLateHan.md) — Imperial-clan alternative invoked in Li Gu's earlier succession stance.
+- [苏正和 / Su Zhenghe (late Han)](entities/SuZhengheLateHan.md) — Liangzhou official whose anti-corruption report Gai Xun protects despite personal dislike.
+- [梁鹄 / Liang Hu (late Han)](entities/LiangHuLateHan.md) — Liangzhou inspector whom Gai Xun stops from killing Su Zhenghe to avoid implication.
+- [左昌 / Zuo Chang (late Han)](entities/ZuoChangLateHan.md) — Corrupt Liangzhou inspector who tries to expose Gai Xun to danger before later needing rescue.
+- [辛曾 / Xin Zeng (late Han)](entities/XinZengLateHan.md) — Liangzhou official whom Gai Xun pressures into rescuing Zuo Chang under military duty.
+- [伶征 / Ling Zheng (late Han)](entities/LingZhengLateHan.md) — Protector of the Qiang killed at the start of Hanji 929's western uprising branch.
+- [陈懿 / Chen Yi (Jincheng)](entities/ChenYiJinchengLateHan.md) — Jincheng administrator killed by the western rebel field before Zuo Chang is besieged.
 - [黄巾军 / Yellow Turbans (late Han)](entities/YellowTurbansLateHan.md) — Late-Han rebel movement whose Nanyang branch in Hanji 930 passes from Zhang Mancheng to Zhao Hong, Han Zhong, and Sun Xia before Zhu Jun's suppression.
 - [张曼成 / Zhang Mancheng (late Han)](entities/ZhangManchengLateHan.md) — Yellow Turban commander who kills Nanyang administrator Chu Gong and is later killed by Qin Jie before Zhao Hong takes over Wancheng.
 - [赵弘 / Zhao Hong (late Han)](entities/ZhaoHongLateHan.md) — Yellow Turban successor at Wancheng whom Zhu Jun defeats and kills after Zhang Mancheng's death.
@@ -1588,7 +1601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [渤海郡 / Bohai Commandery (late Han)](entities/BohaiCommanderyLateHan.md) — commandery Yuan Shao grants to Gongsun Fan, only to see its troops defect to Gongsun Zan.
 - [公孙度 / Gongsun Du (late Han)](entities/GongsunDuLateHan.md) — Late-Han Liaodong appointee used by Hanji 959 as a case of ability, patronage, luck, and timing in disorder.
 - [斜谷道 / Xiegu Road (late Han)](entities/XieguRoadLateHan.md) — Qinling route whose blockage lets Liu Yan's Yizhou regime turn Hanzhong control into separation from the Chang'an court.
-- [张修 / Zhang Xiu (Hanzhong)](entities/ZhangXiuFivePecks.md) — Hanzhong actor paired with Zhang Lu in Liu Yan's road-control strategy, disambiguated from Zhang Xiu of Wancheng.
+- [张修 / Zhang Xiu (Five Pecks)](entities/ZhangXiuFivePecks.md) — Five-Pecks-style religious actor first tied to Ba Commandery in Hanji 929 and later paired with Zhang Lu in Liu Yan's Hanzhong road-control strategy.
 - [韩馥 / Han Fu (late Han)](entities/HanFuLateHan.md) — Jizhou official whom Xun Yu initially seeks before finding Yuan Shao has taken over.
 - [何颙 / He Yong (late Han)](entities/HeYongLateHan.md) — Late-Han talent evaluator used by Hanji 949 in Dong Zhuo's recommendation channel and by Hanji 960 to link Xun Yu's ability with Cao Cao's future stabilizing potential.
 - [界桥之战 / Jieqiao Battle (late Han)](entities/JieqiaoBattleLateHan.md) — Yuan Shao-Gongsun Zan battle where Qu Yi's shielded infantry and strong crossbows defeat a cavalry-heavy force.
@@ -8929,6 +8942,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
 - [修宫钱转嫁盘剥 / Palace Construction Fee Extraction](concepts/PalaceConstructionFeeExtraction.md) — Late-Han pattern where palace-construction and office-entry charges move through eunuch and appointment channels until local officials push the cost onto the people.
 - [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where the court converts an unsuppressed rebel force into delegated order by granting the leader office.

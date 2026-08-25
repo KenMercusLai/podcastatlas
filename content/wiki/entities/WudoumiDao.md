@@ -2,11 +2,13 @@
 title: "五斗米道 / Wudoumi Dao"
 type: entity
 tags: [movement, late-han, religion, hanzhong]
-sources: [zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
+sources: [zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
 last_updated: 2026-08-25
 ---
 
 # 五斗米道 / Wudoumi Dao
+
+[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] backfills an early Five-Pecks-style branch through [[ZhangXiuFivePecks|张修]] in [[BaCommanderyLateHan|巴郡]]. The source says Zhang Xiu's healing practice resembles [[ZhangJiaoLateHan|张角]]'s religious mobilization, asks patients' families for five pecks of rice, and then turns into an autumn revolt whose followers are called "rice rebels."
 
 [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] backfills Wudoumi Dao through [[ZhangLuFivePecks|张鲁]]'s entry into [[LiuYanLateHan|刘焉]]'s Yizhou-Hanzhong strategy. The source says Zhang Lu's family tradition and his mother's access to Liu Yan help explain why he receives an appointment before the Hanzhong attack.
 
@@ -15,6 +17,7 @@ last_updated: 2026-08-25
 The page is source-scoped. Hanji 995 does not narrate Wudoumi Dao's institutional details; it uses the example to clarify why [[ZeRong|笮融]]'s Buddhist institutions should be read as a possible power structure while not equating every religious movement with Ze Rong's violence.
 
 ## Connections
+- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[ZhangXiuFivePecks|张修]], [[BaCommanderyLateHan|巴郡]], [[ZhangJiaoLateHan|张角]], and [[TaipingDao|太平道]] - early rice-contribution and religious-healing revolt branch.
 - [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[LiuYanLateHan|刘焉]], [[Hanzhong|汉中]], and [[XieguRoadLateHan|斜谷道]] - early Zhang Lu branch before Hanji 995's comparator use.
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - source episode.
 - [[ZhangLuFivePecks|张鲁]], [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], and [[ZeRong|笮融]] - late-Han religious-mobilization comparison.

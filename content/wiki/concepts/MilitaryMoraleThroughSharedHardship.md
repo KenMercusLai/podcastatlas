@@ -2,11 +2,15 @@
 title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
 type: concept
 tags: [military-history, leadership, morale, management]
-sources: [zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg, zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
 last_updated: 2026-08-24
 ---
 
 # Military Morale Through Shared Hardship / 同甘共苦式士气
+
+[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] adds a late-Han command-success version through [[HuangfuSongLateHan|皇甫嵩]]. After describing his victories over [[YellowTurbansLateHan|黄巾军]], the host emphasizes that Huangfu Song rests only after soldiers rest and eats only after soldiers have eaten, pairing operational skill with visible shared hardship.
+
+This source uses the pattern as a leadership and management analogy. The point is not softness: Huangfu Song's campaign is brutally effective, but his ability to keep troops disciplined and willing is partly explained by visible care for their bodily needs.
 
 Military morale through shared hardship / 同甘共苦式士气 is the leadership mechanism in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] that links command authority to visible bodily participation. The source builds it through [[SimaRangju|司马穰苴]]'s discipline-and-execution frame and [[WuQi|吴起]]'s more extreme practice of sharing ordinary soldiers' burdens.
 
@@ -33,6 +37,7 @@ The episode keeps the morale device tied to operational preparation. Because [[Y
 [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]] adds a post-near-death repair version through [[CaoCao|曹操]] after [[PuyangBattleLateHan|濮阳之战]]. Cao Cao returns from the fire and immediately reassures soldiers, rewards [[DianWei|典韦]], strengthens the guard layer, and prepares tools and weapons for renewed fighting. The morale work matters because the army has just seen its commander nearly killed; shared hardship appears here as visible command composure and renewed practical preparation rather than a formal death-ground order.
 
 ## Key Claims
+- Hanji 929 adds that shared hardship can accompany high command effectiveness rather than only appear in desperate or defensive settings.
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
 - Shared hardship can turn abstract loyalty into action, but it can also create coercive emotional debt.
@@ -48,6 +53,7 @@ The episode keeps the morale device tied to operational preparation. Because [[Y
 - Hanji 980 adds that after a commander has visibly survived a near-disaster, morale repair requires immediate reassurance, reward, guard restoration, and preparation for the next fight.
 
 ## Connections
+- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[HuangfuSongLateHan|皇甫嵩]], [[YellowTurbansLateHan|黄巾军]], [[ZhangLiangYellowTurban|张梁]], and [[ZhangBaoYellowTurban|张宝]] - late-Han campaign-success and commander-care version.
 - [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]], [[CaoCao|曹操]], [[DianWei|典韦]], and [[PuyangBattleLateHan|濮阳之战]] - post-escape morale repair and guard reward.
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
 - [[Wuzi|《吴子》]] - text branch for "励士" and morale.
