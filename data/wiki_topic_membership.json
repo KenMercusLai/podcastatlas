@@ -1638,6 +1638,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087": [
     {
       "key": "history",
@@ -7557,6 +7564,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AtlanticSlaveTradePrivateeringLink": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "AtlasShrugged": [
@@ -42104,6 +42118,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PiracyPrivateeringBoundary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PirateWires": [
     {
       "key": "politics",
@@ -50833,6 +50854,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SpanishImperialMonopolyVulnerability": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "SpatialLoveStudies": [

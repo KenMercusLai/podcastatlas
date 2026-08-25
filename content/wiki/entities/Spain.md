@@ -2,11 +2,13 @@
 title: "Spain"
 type: entity
 tags: [country, football, sports-development, healthcare, law, maritime-history, catholicism, migration, borders]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-25
+sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-26
 ---
 
 # Spain
+
+[[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds Spain as the imperial maritime system [[FrancisDrake]] learns to attack. The episode moves from the [[SanJuanDeUlua]] disaster to [[NombreDeDios]], the [[Cimarrones]] alliance, the [[NuestraSenoraDeLaConcepcion]] capture, and [[NewAlbion]], treating each as evidence of [[SpanishImperialMonopolyVulnerability]].
 
 [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Spain as the enlarged Catholic monarchy confronting Elizabethan [[England]] after [[PhilipII|Philip II]] becomes king of [[Portugal]] as well as Spain. The episode links Spanish silver, pressure in the [[LowCountries|Low Countries]], activity around [[Ireland]], and [[BernardinoDeMendoza]]'s London diplomacy to the crisis created by [[FrancisDrake]]'s return.
 
@@ -39,8 +41,10 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - Episode 694 treats Spain as an enlarged Catholic imperial power whose ambassador, silver flows, and Low Countries pressure make Drake's privateering a diplomatic crisis.
 - Episode 695 treats Spain as a military, confessional, and economic pressure system around the Low Countries before open Anglo-Spanish war.
 - The Rest Is History source treats Spain as the Catholic great-power escalation path after Mary's execution, not as a single-cause Armada trigger.
+- Episode 693 treats Spanish oceanic power as impressive but vulnerable to local intelligence, small ships, and deniable Protestant raiding.
 
 ## Connections
+- [[JohnHawkins]], [[SanJuanDeUlua]], [[NombreDeDios]], [[DiegoDrakeAlly|Diego]], [[Cimarrones]], [[NuestraSenoraDeLaConcepcion]], [[NewAlbion]], and [[SpanishImperialMonopolyVulnerability]] - Drake's early anti-Spanish route added by episode 693.
 - [[PhilipII|Philip II]], [[Portugal]], [[BernardinoDeMendoza]], [[FrancisDrake]], [[GoldenHind]], [[ThrockmortonPlot]], and [[PrivateeringPlausibleDeniability]] - Drake and Throckmorton branch added by episode 694.
 - [[PhilipII|Philip II]], [[AlexanderFarnese|Alexander Farnese / Duke of Parma]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[Antwerp]], [[TreatyOfNonsuch]], and [[FrancisDrake]] - Low Countries escalation and English intervention branch added by episode 695.
 - [[England]], [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[BabingtonPlot]], [[SpanishArmada]], and [[ConfessionalWarEscalation]] - Elizabethan conflict branch added by episode 696.

@@ -2,11 +2,13 @@
 title: "Elizabeth I"
 type: entity
 tags: [person, monarchy, england, protestantism, tudor]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
-last_updated: 2026-08-25
+sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+last_updated: 2026-08-26
 ---
 
 # Elizabeth I
+
+[[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds Elizabeth before [[FrancisDrake]]'s return, as the ruler who wants revenge against [[PhilipII|Philip II]] but keeps Drake's 1577 expedition deniable. The source says [[FrancisWalsingham]] arranges a private meeting between Elizabeth and Drake, while the absence of a written commission later exposes Drake at the [[PiracyPrivateeringBoundary|piracy-privateering boundary]].
 
 [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Elizabeth at the moment [[FrancisDrake]]'s return forces a choice between appeasing [[Spain]] and profiting from anti-Spanish privateering. The episode presents her handling of Drake's treasure and the [[GoldenHind]] ceremony as [[PrivateeringPlausibleDeniability]]: she takes money and prestige while preserving formal denial and diplomatic flexibility.
 
@@ -24,6 +26,7 @@ Elizabeth signs Mary's death warrant on 1 February 1587 but still resists immedi
 
 ## Connections
 - [[MaryQueenOfScots|Mary, Queen of Scots]] - dynastic rival and Catholic claimant.
+- [[JohnHawkins]], [[SanJuanDeUlua]], [[ThomasDoughty]], [[PiracyPrivateeringBoundary]], and [[SpanishImperialMonopolyVulnerability]] - Drake's pre-return branch added by episode 693.
 - [[FrancisDrake]], [[GoldenHind]], [[BernardinoDeMendoza]], and [[PrivateeringPlausibleDeniability]] - Drake return, treasure, and diplomatic denial branch.
 - [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[JohnStubbs]], [[WilliamAllen]], and [[MarriageDiplomacyAsStrategicOption]] - French marriage option and domestic backlash.
 - [[PhilipSidney|Sir Philip Sidney]], [[RobertDudley|Robert Dudley / Earl of Leicester]], [[FrancisDrake]], and [[FrancisWalsingham]] - English actors around the Low Countries branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7607
+wiki_total_pages: 7616
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "NevilleChamberlain"
     title: "Neville Chamberlain / 张伯伦"
     url: "/wiki/entities/nevillechamberlain/"
+  - key: "NewAlbion"
+    title: "New Albion"
+    url: "/wiki/entities/newalbion/"
   - key: "NewBalance"
     title: "New Balance"
     url: "/wiki/entities/newbalance/"
@@ -443,6 +446,9 @@ wiki_pages:
   - key: "NolaAgha"
     title: "Nola Agha"
     url: "/wiki/entities/nolaagha/"
+  - key: "NombreDeDios"
+    title: "Nombre de Dios"
+    url: "/wiki/entities/nombrededios/"
   - key: "NooraHealth"
     title: "Noora Health"
     url: "/wiki/entities/noorahealth/"
@@ -491,6 +497,9 @@ wiki_pages:
   - key: "Nucor"
     title: "Nucor"
     url: "/wiki/entities/nucor/"
+  - key: "NuestraSenoraDeLaConcepcion"
+    title: "Nuestra Senora de la Concepcion"
+    url: "/wiki/entities/nuestrasenoradelaconcepcion/"
   - key: "Number10North"
     title: "Number 10 North"
     url: "/wiki/entities/number10north/"

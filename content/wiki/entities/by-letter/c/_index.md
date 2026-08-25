@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7607
+wiki_total_pages: 7616
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "Cicero"
     title: "Cicero / 西塞罗"
     url: "/wiki/entities/cicero/"
+  - key: "Cimarrones"
+    title: "Cimarrones"
+    url: "/wiki/entities/cimarrones/"
   - key: "CindyYuanxingzhe"
     title: "Cindy (远行者与碎冰匠)"
     url: "/wiki/entities/cindyyuanxingzhe/"

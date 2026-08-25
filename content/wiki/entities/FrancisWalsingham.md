@@ -2,11 +2,13 @@
 title: "Francis Walsingham"
 type: entity
 tags: [person, intelligence, tudor, england]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
-last_updated: 2026-08-25
+sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]
+last_updated: 2026-08-26
 ---
 
 # Francis Walsingham
+
+[[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds Walsingham as the court figure who arranges a private meeting between [[FrancisDrake]] and [[ElizabethI|Elizabeth I]] before the 1577 expedition. The episode uses that meeting to show how anti-[[Spain]] policy could be encouraged while remaining outside a written commission.
 
 [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Walsingham as an early advocate of backing [[FrancisDrake]] and as the intelligence minister who exposes the [[ThrockmortonPlot]]. The episode shows his network penetrating [[MichelDeCastelnau]]'s French embassy, copying [[MaryQueenOfScots|Mary, Queen of Scots]]' cipher correspondence, and watching [[FrancisThrockmorton]] closely enough that Mary was worried by June 1583.
 
@@ -22,6 +24,7 @@ Mary accuses Walsingham of tampering with her letters at [[FotheringhayCastle]],
 
 ## Connections
 - [[ElizabethI|Elizabeth I]] and [[WilliamCecil|William Cecil / Lord Burleigh]] - Protestant security leadership around Mary.
+- [[FrancisDrake]], [[ThomasDoughty]], and [[PiracyPrivateeringBoundary]] - deniable authorization branch added by episode 693.
 - [[FrancisDrake]], [[ChristopherHatton]], and [[RobertDudley|Robert Dudley / Earl of Leicester]] - pro-Drake council faction in episode 694.
 - [[PhilipSidney|Sir Philip Sidney]], [[France]], and [[ConfessionalWarEscalation]] - earlier Protestant-militant formation in episode 695.
 - [[ThrockmortonPlot]], [[FrancisThrockmorton]], [[MichelDeCastelnau]], [[BernardinoDeMendoza]], [[HenryFagot]], and [[BondOfAssociation]] - earlier conspiracy exposure branch.

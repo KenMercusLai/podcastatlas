@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7607
+wiki_total_pages: 7616
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "Didi"
     title: "Didi"
     url: "/wiki/entities/didi/"
+  - key: "DiegoDrakeAlly"
+    title: "Diego (Drake Ally)"
+    url: "/wiki/entities/diegodrakeally/"
   - key: "DietrichMateschitz"
     title: "Dietrich Mateschitz"
     url: "/wiki/entities/dietrichmateschitz/"

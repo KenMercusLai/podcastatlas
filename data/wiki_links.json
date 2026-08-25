@@ -1051,6 +1051,10 @@
     "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
     "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
   },
+  "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329": {
+    "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+    "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+  },
   "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087": {
     "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
     "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
@@ -5046,6 +5050,10 @@
   "AtlanticAvenueBarclaysCenter": {
     "title": "Atlantic Avenue-Barclays Center",
     "url": "/wiki/entities/atlanticavenuebarclayscenter/"
+  },
+  "AtlanticSlaveTradePrivateeringLink": {
+    "title": "Atlantic Slave Trade-Privateering Link",
+    "url": "/wiki/concepts/atlanticslavetradeprivateeringlink/"
   },
   "AtlasShrugged": {
     "title": "Atlas Shrugged / 《阿特拉斯耸耸肩》",
@@ -9923,6 +9931,10 @@
     "title": "Cicero / 西塞罗",
     "url": "/wiki/entities/cicero/"
   },
+  "Cimarrones": {
+    "title": "Cimarrones",
+    "url": "/wiki/entities/cimarrones/"
+  },
   "CindyCordes": {
     "title": "Cindy Cordes",
     "url": "/wiki/entities/cindycordes/"
@@ -13118,6 +13130,10 @@
   "Didi": {
     "title": "Didi",
     "url": "/wiki/entities/didi/"
+  },
+  "DiegoDrakeAlly": {
+    "title": "Diego (Drake Ally)",
+    "url": "/wiki/entities/diegodrakeally/"
   },
   "DietaryConstraintProductInsight": {
     "title": "Dietary Constraint Product Insight",
@@ -24871,6 +24887,10 @@
     "title": "John Harvey",
     "url": "/wiki/entities/johnharvey/"
   },
+  "JohnHawkins": {
+    "title": "John Hawkins",
+    "url": "/wiki/entities/johnhawkins/"
+  },
   "JohnHolden": {
     "title": "John Holden",
     "url": "/wiki/entities/johnholden/"
@@ -31319,6 +31339,10 @@
     "title": "缪贤 / Miu Xian",
     "url": "/wiki/entities/miuxian/"
   },
+  "Miwok": {
+    "title": "Miwok",
+    "url": "/wiki/entities/miwok/"
+  },
   "MixedIncentiveContracts": {
     "title": "Mixed Incentive Contracts / 组合激励契约",
     "url": "/wiki/concepts/mixedincentivecontracts/"
@@ -32679,6 +32703,10 @@
     "title": "Neville Chamberlain / 张伯伦",
     "url": "/wiki/entities/nevillechamberlain/"
   },
+  "NewAlbion": {
+    "title": "New Albion",
+    "url": "/wiki/entities/newalbion/"
+  },
   "NewBalance": {
     "title": "New Balance",
     "url": "/wiki/entities/newbalance/"
@@ -33087,6 +33115,10 @@
     "title": "Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称",
     "url": "/wiki/concepts/nomadiccavalryraidingasymmetry/"
   },
+  "NombreDeDios": {
+    "title": "Nombre de Dios",
+    "url": "/wiki/entities/nombrededios/"
+  },
   "NominalAuthorityMobilizationTrap": {
     "title": "Nominal Authority Mobilization Trap / 虚名权威动员陷阱",
     "url": "/wiki/concepts/nominalauthoritymobilizationtrap/"
@@ -33270,6 +33302,10 @@
   "NudifyAppEcosystem": {
     "title": "Nudify App Ecosystem",
     "url": "/wiki/concepts/nudifyappecosystem/"
+  },
+  "NuestraSenoraDeLaConcepcion": {
+    "title": "Nuestra Senora de la Concepcion",
+    "url": "/wiki/entities/nuestrasenoradelaconcepcion/"
   },
   "NumagamiRenji": {
     "title": "沼上蓮次 / Numagami Renji",
@@ -35598,6 +35634,10 @@
   "Pipilu": {
     "title": "皮皮鲁 / Pipilu",
     "url": "/wiki/entities/pipilu/"
+  },
+  "PiracyPrivateeringBoundary": {
+    "title": "Piracy-Privateering Boundary",
+    "url": "/wiki/concepts/piracyprivateeringboundary/"
   },
   "PirateWires": {
     "title": "Pirate Wires",
@@ -40291,6 +40331,10 @@
     "title": "San Francisco Bay Area",
     "url": "/wiki/entities/sanfranciscobayarea/"
   },
+  "SanJuanDeUlua": {
+    "title": "San Juan de Ulua",
+    "url": "/wiki/entities/sanjuandeulua/"
+  },
   "SanPellegrino": {
     "title": "S.Pellegrino / San Pellegrino / 圣培露",
     "url": "/wiki/entities/sanpellegrino/"
@@ -42798,6 +42842,10 @@
   "SpanishArmada": {
     "title": "Spanish Armada",
     "url": "/wiki/entities/spanisharmada/"
+  },
+  "SpanishImperialMonopolyVulnerability": {
+    "title": "Spanish Imperial Monopoly Vulnerability",
+    "url": "/wiki/concepts/spanishimperialmonopolyvulnerability/"
   },
   "SpatialLoveStudies": {
     "title": "Spatial Love Studies / 空间爱情学",
@@ -45766,6 +45814,10 @@
   "ThomasAquinas": {
     "title": "Thomas Aquinas / 托马斯·阿奎那",
     "url": "/wiki/entities/thomasaquinas/"
+  },
+  "ThomasDoughty": {
+    "title": "Thomas Doughty",
+    "url": "/wiki/entities/thomasdoughty/"
   },
   "ThomasHobbes": {
     "title": "Thomas Hobbes / 托马斯·霍布斯",

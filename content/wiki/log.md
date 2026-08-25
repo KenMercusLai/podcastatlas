@@ -11739,3 +11739,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？
 
 Added source page for Hanji 922: Emperor Ling's 182-183 CE court prelude, false anti-corruption reporting by Xu Xu and Zhang Ji, Chen Dan's defense of wrongly accused officials, Chen Bao's root-cause explanation of the Bandun Man rebellion, Huan Dian's censorial reputation, and Zhang Jiao's Taiping Dao expansion before Hanji 923. Created Xu Xu (late-Han taiwei), Zhang Ji (late-Han sikong), Chen Dan, Chen Bao, Bandun Man, Cao Qian, and Huan Dian; updated linked late-Han entity and concept pages. No settled contradiction found; the source's Zhang Ji is disambiguated from the later warlord Zhang Ji.
+
+## [2026-08-26] ingest | 693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)
+
+Added source page for The Rest Is History episode 693 on Francis Drake before the episode 694 return crisis: contested hero/villain memory, John Hawkins and English slaving, San Juan de Ulua, Nombre de Dios, Diego and the Cimarrones, Doughty's execution, the Golden Hind circumnavigation, the Nuestra Senora de la Concepcion prize, New Albion, and Spain's exposed oceanic routes. Created pages for John Hawkins, San Juan de Ulua, Nombre de Dios, Diego (Drake Ally), Cimarrones, Thomas Doughty, Nuestra Senora de la Concepcion, New Albion, Miwok, Piracy-Privateering Boundary, Atlantic Slave Trade-Privateering Link, and Spanish Imperial Monopoly Vulnerability; updated the Drake, Elizabethan, privateering, economic-war, voyage-attrition, and historical-memory pages. No direct contradiction found; the source backfills and complicates the existing Drake branch rather than reversing episode 694's return sequence.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

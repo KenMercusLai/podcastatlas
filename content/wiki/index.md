@@ -63,6 +63,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？](sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq.md) — 芮淇讲透资治通鉴 episode on late-Han survival through Zhu Jun and Tao Qian's anti-Dong-Zhuo posture, Liu Yan's Yizhou autonomy, Hanzhong/Xiegu road control, and Gongsun Du's concealed-capability timing.
 - [《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？](sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr.md) — 芮淇讲透资治通鉴 episode on Xun Yu leaving Yingchuan, rejecting Yuan Shao as able to gather but not use talent, choosing Cao Cao, and Qu Yi's shield-crossbow victory over Gongsun Zan at Jieqiao.
 - [694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)](sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087.md) — The Rest Is History episode on Drake's return, Anjou diplomacy, the Low Countries, the Throckmorton Plot, Mendoza's expulsion, the Bond of Association, and escalation toward Spain.
+- [693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)](sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329.md) — The Rest Is History episode on Francis Drake's contested memory, Hawkins and slaving, San Juan de Ulua, Nombre de Dios, the Cimarrones alliance, Doughty's execution, the Golden Hind circumnavigation, and Spain's exposed imperial routes.
 - [695. Elizabeth I vs The Catholics: The Shadow War (Part 5)](sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455.md) — The Rest Is History episode on Sir Philip Sidney, Antwerp's fall, the Dutch Revolt, the Treaty of Nonsuch, Elizabeth's reluctant Low Countries intervention, Drake's raids, and Sidney's Protestant martyrdom at Zutphen.
 - [《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒](sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr.md) — 芮淇讲透资治通鉴 episode on Cheng Yu's early advice to Liu Dai, Cao Cao's indirect relief of Dong Wuyang, the Neihuang victory over Sui Gu and Yufuluo, and Cao Cao's integrated command capacity.
 - [《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？](sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's kinship power, Meiwu fortress fallback, violent rupture with Lü Bu, and Wang Yun's conversion of the close guard into the precondition for assassination.
@@ -1724,7 +1725,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [麹义 / Qu Yi (late Han)](entities/QuYiLateHan.md) — Yuan Shao commander whose shield-crossbow formation wins the Jieqiao battle against Gongsun Zan.
 - [严纲 / Yan Gang (late Han)](entities/YanGangLateHan.md) — Gongsun Zan's appointed Jizhou inspector killed in the Jieqiao battle.
 - [Christopher Hatton](entities/ChristopherHatton.md) — Privy Council supporter of Drake whose stance shows the pro-privateering faction around Elizabeth.
-- [Golden Hind](entities/GoldenHind.md) — Drake's circumnavigation ship and public stage for Elizabeth's politically ambiguous knighting ceremony.
+- [Golden Hind](entities/GoldenHind.md) — Drake's circumnavigation ship, Pacific prize vessel, New Albion platform, and later public stage for Elizabeth's ambiguous knighting ceremony.
+- [John Hawkins](entities/JohnHawkins.md) — English mariner and slaving captain whose 1567 expedition with Drake collapses at San Juan de Ulua.
+- [San Juan de Ulua](entities/SanJuanDeUlua.md) — Spanish port near Veracruz where Hawkins and Drake's expedition is attacked in 1568.
+- [Nombre de Dios](entities/NombreDeDios.md) — Panama treasure-route port whose weakness Drake exploits before the Pacific voyage.
+- [Diego (Drake Ally)](entities/DiegoDrakeAlly.md) — Escaped enslaved African ally who connects Drake to the Cimarrones and later joins the Golden Hind voyage.
+- [Cimarrones](entities/Cimarrones.md) — Escaped African fighters in Panama whose alliance with Drake threatens Spanish treasure routes.
+- [Thomas Doughty](entities/ThomasDoughty.md) — Gentleman passenger and Hatton secretary executed by Drake after a mutiny trial during the 1577 voyage.
+- [Nuestra Senora de la Concepcion](entities/NuestraSenoraDeLaConcepcion.md) — Spanish Pacific treasure ship captured by Drake during the Golden Hind voyage.
+- [New Albion](entities/NewAlbion.md) — Drake's Pacific coast claim for Elizabeth after the Golden Hind reaches the Bay Area.
+- [Miwok](entities/Miwok.md) — Indigenous people encountered in the episode's account of Drake's New Albion claim.
 - [Francois, Duke of Anjou](entities/FrancoisDukeOfAnjou.md) — French Catholic suitor and Dutch sovereignty candidate whose failure removes Elizabeth's preferred French option.
 - [John Stubbs](entities/JohnStubbs.md) — Protestant pamphleteer punished for attacking Elizabeth's proposed Anjou marriage.
 - [William Allen](entities/WilliamAllen.md) — English Catholic exile tied to anti-Anjou criticism and the Paris planning behind the Throckmorton Plot.
@@ -1745,7 +1755,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bond of Association](entities/BondOfAssociation.md) — Post-Throckmorton loyalty instrument aimed at excluding or punishing claimants tied to Elizabeth's death.
 - [Sir Philip Sidney](entities/PhilipSidney.md) — Elizabethan courtier, writer, and militant Protestant whose death at Zutphen becomes heroic war symbolism.
 - [Robert Dudley / Earl of Leicester](entities/RobertDudley.md) — Elizabethan favorite and Low Countries commander whose status and diplomacy shape Sidney's Dutch war role.
-- [Francis Drake](entities/FrancisDrake.md) — English privateer and naval commander whose 1585-1586 raids pressure Spain as the Low Countries crisis widens.
+- [Francis Drake](entities/FrancisDrake.md) — English slaving-linked sailor, raider, circumnavigator, and naval commander whose career exposes Spanish imperial vulnerability while creating legal and moral ambiguity.
 - [Philip II of Spain](entities/PhilipII.md) — Catholic Spanish monarch whose Low Countries campaign, English embargo, and Armada path drive Anglo-Spanish escalation.
 - [William of Orange](entities/WilliamOfOrange.md) — Dutch Revolt leader whose 1584 assassination leaves rebel provinces close to collapse.
 - [Alexander Farnese / Duke of Parma](entities/AlexanderFarnese.md) — Spanish commander whose diplomacy and siegecraft recover the southern Low Countries and capture Antwerp.
@@ -2036,7 +2046,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Elizabethan England, Dutch Revolt, Armada, and Northern Ireland Troubles branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Francis Drake, Elizabethan England, Dutch Revolt, Armada, and Northern Ireland Troubles branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -9177,7 +9187,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Concealed Capability Timing / 藏器待时](concepts/ConcealedCapabilityTiming.md) — Hanji 959 survival rule for keeping ability hidden and low exposure until opportunity makes action survivable.
 - [危局迁徙判断 / Crisis Migration Judgment](concepts/CrisisMigrationJudgment.md) — Hanji 960 pattern where Xun Yu reads Yingchuan's war exposure and moves kin before danger becomes consensus.
 - [盾弩反骑兵战术 / Shield-Crossbow Anti-Cavalry](concepts/ShieldCrossbowAntiCavalry.md) — Jieqiao battle tactic where shielded infantry and strong crossbows reverse cavalry momentum.
-- [Privateering Plausible Deniability](concepts/PrivateeringPlausibleDeniability.md) — Elizabethan pattern where a ruler benefits from privateering while preserving formal diplomatic denial.
+- [Privateering Plausible Deniability](concepts/PrivateeringPlausibleDeniability.md) — Elizabethan pattern where a ruler encourages or benefits from raiding while preserving formal diplomatic denial.
+- [Piracy-Privateering Boundary](concepts/PiracyPrivateeringBoundary.md) — Legal-political boundary exposed when Drake raids Spanish targets with implicit or absent royal authorization.
+- [Atlantic Slave Trade-Privateering Link](concepts/AtlanticSlaveTradePrivateeringLink.md) — Pattern tying early English slaving, illegal trade, Protestant rivalry, revenge, and privateering together.
+- [Spanish Imperial Monopoly Vulnerability](concepts/SpanishImperialMonopolyVulnerability.md) — Drake-era finding that Spain's Atlantic and Pacific treasure systems could be attacked through exposed routes and ships.
 - [Marriage Diplomacy as Strategic Option](concepts/MarriageDiplomacyAsStrategicOption.md) — Use of a proposed royal marriage as a live geopolitical option even before the marriage happens.
 - [Confessional Invasion Conspiracy](concepts/ConfessionalInvasionConspiracy.md) — Pattern where foreign invasion, domestic sympathizers, religious legitimacy, and a claimant combine.
 - [Strategic Intervention Threshold](concepts/StrategicInterventionThreshold.md) — Point where a reluctant ruler accepts direct intervention because nonintervention has become riskier.

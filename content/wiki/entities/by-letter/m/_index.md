@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7607
+wiki_total_pages: 7616
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "MIUI"
     title: "MIUI"
     url: "/wiki/entities/miui/"
+  - key: "Miwok"
+    title: "Miwok"
+    url: "/wiki/entities/miwok/"
   - key: "Mixpanel"
     title: "Mixpanel"
     url: "/wiki/entities/mixpanel/"

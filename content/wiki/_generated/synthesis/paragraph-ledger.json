@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9b984926e9ec6240ab93f21d16c52d8d346569c7d3c6d3619745a53ef5ec81d4",
       "11b76d31b206a5e924f75936cdc8d503cf6d0e98102c218cf68c1056ab73485c",
       "733f743cc3c0eedc1a1a2e9b7fd072b78a70e7539a10bc84265c38c1ccddead5",
       "9a171a2c08f89f42da0c2486cc46f51e6c75cc103bb555b3ed7bd5a61c1c7c79",
@@ -229,11 +230,50 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 227
+    "paragraph_count": 228
   },
-  "overview_commit": "c6f9b7a0efc92f16acd875d252f9048068b75482",
-  "overview_digest": "e947eb83e674aa1782e827ea7c52256af4dfa01800ab74a28a4cd45ebd1be467",
+  "overview_commit": "ad8cf73fb5ebf74afd53616346fae926a4558064",
+  "overview_digest": "d85a2792c9b01b7097d2b5654c00899bff0d368267e9dc49d0e23491d338f44d",
   "paragraphs": [
+    {
+      "id": "9b984926e9ec6240ab93f21d16c52d8d346569c7d3c6d3619745a53ef5ec81d4",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]], a [[TheRestIsHistory]] episode backfilling [[FrancisDrake]] before [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087|episode 694]]'s return-and-crisis sequence. It adds [[JohnHawkins]], [[SanJuanDeUlua]], [[NombreDeDios]], [[DiegoDrakeAlly|Diego]], [[Cimarrones]], [[ThomasDoughty]], [[NuestraSenoraDeLaConcepcion]], [[NewAlbion]], [[Miwok]], [[PiracyPrivateeringBoundary]], [[AtlanticSlaveTradePrivateeringLink]], and [[SpanishImperialMonopolyVulnerability]], while extending [[ElizabethI|Elizabeth I]], [[PhilipII|Philip II]], [[England]], [[Spain]], [[GoldenHind]], [[FrancisWalsingham]], [[ChristopherHatton]], [[PrivateeringPlausibleDeniability]], [[InterstateEconomicWarfare]], [[ConfessionalTradeConflict]], [[HistoricalMemoryContest]], and [[OceanicVoyageAttrition]]. Its core synthesis is that Drake's later public value rests on an earlier moral and legal ambiguity: slaving, Protestant anti-Spanish grievance, piracy without a written commission, alliance with escaped African fighters, execution of Doughty, and Pacific treasure capture together expose Spain's monopoly while leaving Elizabeth room to use success without owning every method. No direct contradiction is recorded; the episode backfills the route that episode 694 begins with Drake's return and complicates the existing hero/privateer pages rather than reversing them.",
+      "topic_scores": {
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+        "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+        "AtlanticSlaveTradePrivateeringLink",
+        "ChristopherHatton",
+        "Cimarrones",
+        "ConfessionalTradeConflict",
+        "DiegoDrakeAlly",
+        "ElizabethI",
+        "England",
+        "FrancisDrake",
+        "FrancisWalsingham",
+        "GoldenHind",
+        "HistoricalMemoryContest",
+        "InterstateEconomicWarfare",
+        "JohnHawkins",
+        "Miwok",
+        "NewAlbion",
+        "NombreDeDios",
+        "NuestraSenoraDeLaConcepcion",
+        "OceanicVoyageAttrition",
+        "PhilipII",
+        "PiracyPrivateeringBoundary",
+        "PrivateeringPlausibleDeniability",
+        "SanJuanDeUlua",
+        "Spain",
+        "SpanishImperialMonopolyVulnerability",
+        "TheRestIsHistory",
+        "ThomasDoughty"
+      ]
+    },
     {
       "id": "11b76d31b206a5e924f75936cdc8d503cf6d0e98102c218cf68c1056ab73485c",
       "primary_topic": "governance-and-institutions",

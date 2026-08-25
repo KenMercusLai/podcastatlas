@@ -2,8 +2,8 @@
 title: "Historical Memory Contest"
 type: concept
 tags: [history, politics, culture, historiography]
-sources: [ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
-last_updated: 2026-08-24
+sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
+last_updated: 2026-08-26
 ---
 
 # Historical Memory Contest
@@ -11,6 +11,8 @@ last_updated: 2026-08-24
 Historical memory contest is the struggle over which parts of a country's past are publicly taught, commemorated, minimized, or sanitized. In [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[RebeccaJackson]] reports from Montgomery, Alabama, where memorials and museums about slavery and racial terror sit against federal and local efforts to present a cleaner version of American history.
 
 The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGuest]] argues that schools, culture, Hollywood, and academia will keep a fuller account alive, while the episode also warns that local school boards and grassroots campaigns can make revisionism more durable than a single executive order.
+
+[[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds a maritime-hero version through [[FrancisDrake]]. The episode opens from patriotic Victorian memory and modern renaming debates, then contrasts English hero-making with Spanish "El Draque" villain memory and with the postcolonial problem of Drake's slaving.
 
 [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] adds a presidential-memory version through the [[ObamaPresidentialCenter]]. The issue there is not only contested national history, but who gets to stage a presidency's complexity, ideals, failures, and unfinished priorities for later visitors.
 
@@ -50,6 +52,7 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - Song succession memory shows that a suspicious death can remain historically active when later records and later heir removals keep renewing the question.
 - Five Dynasties memory shows that period labels and loyalty judgments can be built after the fact by later historiography.
 - Northern Ireland memory shows that commemoration can become territorial and security politics when rival communities inhabit different heroic calendars.
+- Drake's memory shows that a maritime hero can be built from the same acts that another community remembers as piracy, predation, or imperial violence.
 
 ## Connections
 - [[UnitedStates]], [[RebeccaJackson]], and [[AmericanDemocraticResilience]] - source context.
@@ -67,3 +70,4 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[OfficialHistoryLegitimacyRepair]] - Song succession-memory branch added by episode 170.
 - [[FiveDynastiesTenKingdoms|五代十国]], [[FiveDynastiesTenKingdomsConceptFormation|五代十国概念形成]], [[NewFiveDynastiesHistory|《新五代史》]], [[OuyangXiu|欧阳修]], and [[FengDao|冯道]] - Five Dynasties historiography branch added by EP252.
 - [[TheTroubles]], [[NorthernIreland]], [[IanPaisley]], [[OrangeOrder]], [[EdwardCarson]], [[UnionistSiegeMentality]], and [[SectarianSecurityDilemma]] - Northern Ireland memory-politics branch added by The Rest Is History.
+- [[FrancisDrake]], [[JohnHawkins]], [[Spain]], [[England]], [[AtlanticSlaveTradePrivateeringLink]], and [[PiracyPrivateeringBoundary]] - maritime-hero memory branch added by episode 693.

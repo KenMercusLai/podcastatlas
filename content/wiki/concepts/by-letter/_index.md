@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5462
+wiki_total_pages: 5465
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "AthleteSponsorshipStrategy"
     title: "Athlete Sponsorship Strategy"
     url: "/wiki/concepts/athletesponsorshipstrategy/"
+  - key: "AtlanticSlaveTradePrivateeringLink"
+    title: "Atlantic Slave Trade-Privateering Link"
+    url: "/wiki/concepts/atlanticslavetradeprivateeringlink/"
   - key: "ATMOperations"
     title: "ATM Operations"
     url: "/wiki/concepts/atmoperations/"

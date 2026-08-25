@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5462
+wiki_total_pages: 5465
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "PigButcheringScam"
     title: "Pig Butchering Scam"
     url: "/wiki/concepts/pigbutcheringscam/"
+  - key: "PiracyPrivateeringBoundary"
+    title: "Piracy-Privateering Boundary"
+    url: "/wiki/concepts/piracyprivateeringboundary/"
   - key: "PiratedStreamingBoxMalware"
     title: "Pirated Streaming Box Malware"
     url: "/wiki/concepts/piratedstreamingboxmalware/"

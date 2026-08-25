@@ -2,11 +2,13 @@
 title: "Philip II of Spain"
 type: entity
 tags: [person, monarchy, spain, catholicism, war]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]
-last_updated: 2026-08-25
+sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]
+last_updated: 2026-08-26
 ---
 
 # Philip II of Spain
+
+[[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds Philip as the absent but central monarch whose American and Pacific systems [[FrancisDrake]] tests. The episode links Drake's grievance after [[SanJuanDeUlua]], the silver route through [[NombreDeDios]], and the capture of the [[NuestraSenoraDeLaConcepcion]] to [[SpanishImperialMonopolyVulnerability]].
 
 [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds Philip at the moment his power expands through [[Portugal]] as well as [[Spain]]. The episode treats his control of Portugal's global empire, silver flows from South America, pressure in the [[LowCountries|Low Countries]], and activity around [[Ireland]] as the backdrop to [[ElizabethI|Elizabeth I]]'s caution after [[FrancisDrake]] returns.
 
@@ -20,6 +22,7 @@ The source links Philip to economic pressure as well as invasion fear. His embar
 
 ## Connections
 - [[Spain]], [[England]], and [[ElizabethI|Elizabeth I]] - monarchies in escalation.
+- [[SanJuanDeUlua]], [[NombreDeDios]], [[NuestraSenoraDeLaConcepcion]], and [[SpanishImperialMonopolyVulnerability]] - imperial vulnerability branch added by episode 693.
 - [[Portugal]], [[Ireland]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[ActOfAbjuration]], [[WilliamOfOrange|William of Orange]], and [[AlexanderFarnese|Alexander Farnese / Duke of Parma]] - Dutch and imperial theatre.
 - [[FrancisDrake]], [[GoldenHind]], [[InterstateEconomicWarfare]], [[PrivateeringPlausibleDeniability]], [[ConfessionalWarEscalation]], and [[SpanishArmada]] - pressure and escalation frames.
 - [[BernardinoDeMendoza]], [[HenryDukeOfGuise|Henry, Duke of Guise]], and [[ThrockmortonPlot]] - Catholic conspiracy branch.

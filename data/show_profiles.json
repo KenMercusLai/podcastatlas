@@ -801,14 +801,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "GLT9519811642 [GLT9519811642].md",
-      "source_note_count": 6,
-      "topic_matched_source_note_count": 6,
+      "source_note_count": 7,
+      "topic_matched_source_note_count": 7,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 6
+          "source_note_count": 7
         }
       ],
       "entities": [
@@ -817,12 +817,19 @@
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
           "kind": "person",
-          "episode_count": 3
+          "episode_count": 4
         },
         {
           "key": "FrancisWalsingham",
           "title": "Francis Walsingham",
           "url": "/wiki/entities/franciswalsingham/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "FrancisDrake",
+          "title": "Francis Drake",
+          "url": "/wiki/entities/francisdrake/",
           "kind": "person",
           "episode_count": 3
         },
@@ -848,23 +855,16 @@
           "episode_count": 3
         },
         {
+          "key": "PhilipII",
+          "title": "Philip II of Spain",
+          "url": "/wiki/entities/philipii/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "RoyalUlsterConstabulary",
           "title": "Royal Ulster Constabulary",
           "url": "/wiki/entities/royalulsterconstabulary/",
-          "kind": "organization",
-          "episode_count": 3
-        },
-        {
-          "key": "Stormont",
-          "title": "Stormont",
-          "url": "/wiki/entities/stormont/",
-          "kind": "organization",
-          "episode_count": 3
-        },
-        {
-          "key": "UlsterVolunteerForce",
-          "title": "Ulster Volunteer Force",
-          "url": "/wiki/entities/ulstervolunteerforce/",
           "kind": "organization",
           "episode_count": 3
         }

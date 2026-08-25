@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1843
+topic_total_pages: 1845
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -244,6 +244,9 @@ topic_concepts:
   - key: "AsymmetricPayoff"
     title: "Asymmetric Payoff"
     url: "/wiki/concepts/asymmetricpayoff/"
+  - key: "AtlanticSlaveTradePrivateeringLink"
+    title: "Atlantic Slave Trade-Privateering Link"
+    url: "/wiki/concepts/atlanticslavetradeprivateeringlink/"
   - key: "ATMOperations"
     title: "ATM Operations"
     url: "/wiki/concepts/atmoperations/"
@@ -2317,6 +2320,9 @@ topic_concepts:
   - key: "SpaceXMafia"
     title: "SpaceX Mafia"
     url: "/wiki/concepts/spacexmafia/"
+  - key: "SpanishImperialMonopolyVulnerability"
+    title: "Spanish Imperial Monopoly Vulnerability"
+    url: "/wiki/concepts/spanishimperialmonopolyvulnerability/"
   - key: "SpeculativeBubblePsychology"
     title: "Speculative Bubble Psychology"
     url: "/wiki/concepts/speculativebubblepsychology/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1863
+topic_total_pages: 1864
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1819,6 +1819,9 @@ topic_concepts:
   - key: "PersonalizedLegalGuidance"
     title: "Personalized Legal Guidance"
     url: "/wiki/concepts/personalizedlegalguidance/"
+  - key: "PiracyPrivateeringBoundary"
+    title: "Piracy-Privateering Boundary"
+    url: "/wiki/concepts/piracyprivateeringboundary/"
   - key: "PlatformAntitrust"
     title: "Platform Antitrust"
     url: "/wiki/concepts/platformantitrust/"
