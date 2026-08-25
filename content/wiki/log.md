@@ -11531,6 +11531,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 934: Cui Zhouping as the Romance lead-in, Beigong Boyu's pressure on Sanfu, Cui Lie's proposal to abandon Liangzhou, Fu Xie's "斩司徒，天下乃安" rebuttal and western-shield argument, and Huangfu Song's punishment after Zhang Rang and Zhao Zhong turn refused bribery and anti-corruption memorials into slander. Created Cui Zhouping, Liangzhou (late Han), and Strategic Frontier Abandonment pages; updated related late-Han court, eunuch-access, feedback-collapse, frontier, and Huangfu Song pages. No settled contradiction found; Hexi commandery details and the literary lead-in are kept source-scoped.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》932丨为什么人越好，越难当大官？
+
+Added source page for Hanji 932: Lu Kang's remonstrance against Emperor Ling's palace-construction and bronze-statue tax, eunuch-mediated material inspection and office-entry fee extraction, Sima Zhi's refusal to squeeze the people and death memorial at Mengjin, and the post-Yellow-Turban bandit-list background before Zhang Niujiao and Zhang Yan's fuller Hanji 933 branch. Created pages for Sima Zhi, Julu Commandery (late Han), and Palace Construction Fee Extraction; updated Lu Kang, Liu Dai, Emperor Ling, Zhang Rang, Zhao Zhong, Zhang Jiao, Zhang Niujiao, Zhang Yan, Heishan Army, Henei Commandery, office-sale, office-capture, untimely-extravagance, feedback-collapse, and death-defying remonstrance pages. No settled contradiction found; Liu Dai's short defender role is kept on the existing late-Han route unless later sources require disambiguation.
+
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

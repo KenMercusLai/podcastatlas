@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7462
+wiki_total_pages: 7464
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "JuluBattle"
     title: "巨鹿之战 / Battle of Julu"
     url: "/wiki/entities/julubattle/"
+  - key: "JuluCommanderyLateHan"
+    title: "巨鹿郡 / Julu Commandery (late Han)"
+    url: "/wiki/entities/julucommanderylatehan/"
   - key: "JieliChangjiang"
     title: "接力长江 / Jieli Changjiang"
     url: "/wiki/entities/jielichangjiang/"

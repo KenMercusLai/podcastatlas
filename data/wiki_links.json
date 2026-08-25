@@ -24927,6 +24927,10 @@
     "title": "巨鹿之战 / Battle of Julu",
     "url": "/wiki/entities/julubattle/"
   },
+  "JuluCommanderyLateHan": {
+    "title": "巨鹿郡 / Julu Commandery (late Han)",
+    "url": "/wiki/entities/julucommanderylatehan/"
+  },
   "JumeiYoupin": {
     "title": "聚美优品 / Jumei Youpin",
     "url": "/wiki/entities/jumeiyoupin/"
@@ -34019,6 +34023,10 @@
     "title": "Palace Access Monopoly / 宫廷接触垄断",
     "url": "/wiki/concepts/palaceaccessmonopoly/"
   },
+  "PalaceConstructionFeeExtraction": {
+    "title": "修宫钱转嫁盘剥 / Palace Construction Fee Extraction",
+    "url": "/wiki/concepts/palaceconstructionfeeextraction/"
+  },
   "PalaceCoupUnderPolicingPretext": {
     "title": "治安名义政变 / Palace Coup Under Policing Pretext",
     "url": "/wiki/concepts/palacecoupunderpolicingpretext/"
@@ -41382,6 +41390,10 @@
   "SimaZhen": {
     "title": "司马贞 / Sima Zhen",
     "url": "/wiki/entities/simazhen/"
+  },
+  "SimaZhiLateHan": {
+    "title": "司马直 / Sima Zhi (late Han)",
+    "url": "/wiki/entities/simazhilatehan/"
   },
   "Similac": {
     "title": "Similac",
@@ -56050,6 +56062,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29": {
+    "title": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29/"
   },
   "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj": {
     "title": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为",

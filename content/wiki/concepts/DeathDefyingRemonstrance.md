@@ -2,11 +2,15 @@
 title: "赴死式直谏 / Death-Defying Remonstrance"
 type: concept
 tags: [governance, remonstrance, court-politics, pre-qin-history]
-sources: [zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]
+last_updated: 2026-08-25
 ---
 
 # 赴死式直谏 / Death-Defying Remonstrance
+
+[[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] adds a successful-but-narrow late-Han version through [[SimaZhiLateHan|司马直]]. Sima Zhi writes against palace-construction and appointment-fee abuses, then takes poison rather than entering [[JuluCommanderyLateHan|巨鹿郡]] by passing the fee burden onto the people. [[EmperorLingOfHan|汉灵帝]] responds by temporarily stopping the palace-construction fee.
+
+The case differs from [[LiuTaoLateHan|刘陶 / 刘桃]] in Hanji 935. Sima Zhi's death-facing remonstrance breaks through enough to change one fee policy, but the breakthrough is still a sign of institutional failure because normal fiscal advice and clean appointment refusal had not been usable channels.
 
 [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] adds a late-Han failed-breakthrough version through [[LiuTaoLateHan|刘陶 / 刘桃]]. Liu Tao first gives the dangerous warning while alive, naming military crisis and implied eunuch disorder before [[EmperorLingOfHan|汉灵帝]]. After the eunuch accusation channel turns the memorial into a prison case, Liu Tao's final denunciation and self-suffocation preserve moral witness but do not persuade the ruler or repair the system.
 
@@ -19,6 +23,7 @@ The pattern differs from [[AllusiveRemonstrance|隐语进谏]] and [[ProtectiveR
 [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] adds a Western Han version through [[LuanBu|栾布]]. Luan Bu has already been ordered boiled for mourning [[PengYue|彭越]], but uses his last requested words to shift Liu Bang from anger at defiance to the public consequence of killing a possibly innocent contributor: all merit-holders may become fearful. The case differs from Mao Jiao in setting and target, but keeps the same structure of death-facing speech that makes ruler intimidation politically counterproductive.
 
 ## Key Claims
+- Hanji 932 adds a successful-but-narrow version: death-facing speech can force a temporary policy halt while leaving the larger extraction machinery intact.
 - Hanji 935 adds a failed-breakthrough version: death-facing speech may preserve moral testimony without changing the ruler's captured information system.
 - Hanji 184 adds a founding-merit version: the dangerous speech works by making punishment of one man look like a system-wide trust risk for other contributors.
 - In a lethal court, the first persuasive act may be proving that intimidation no longer controls the speaker.
@@ -27,6 +32,7 @@ The pattern differs from [[AllusiveRemonstrance|隐语进谏]] and [[ProtectiveR
 - The pattern can temporarily repair [[CourtFeedbackCollapse|君臣反馈失灵]], but it is costly because it depends on extraordinary personal risk rather than a healthy feedback institution.
 
 ## Connections
+- [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[SimaZhiLateHan|司马直]], [[EmperorLingOfHan|汉灵帝]], [[JuluCommanderyLateHan|巨鹿郡]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - late-Han death memorial that temporarily halts the palace-construction fee.
 - [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - late-Han remonstrance whose death testimony does not repair the court.
 - [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[LuanBu|栾布]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[PardonAsStatePower]] - death-facing defense of a condemned merit-holder that produces pardon.
 - [[MaoJiao|茅焦]] - source case.

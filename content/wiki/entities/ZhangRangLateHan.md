@@ -2,11 +2,15 @@
 title: "张让 / Zhang Rang (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-25
 ---
 
 # 张让 / Zhang Rang (late Han)
+
+[[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] adds Zhang Rang's earlier palace-finance branch before the anti-[[HuangfuSongLateHan|皇甫嵩]] and palace-crisis episodes. Zhang Rang and [[ZhaoZhongLateHan|赵忠]] urge [[EmperorLingOfHan|汉灵帝]] to collect added per-mu money for palace repair and bronze statues, while the same eunuch-side environment turns [[LuKangLateHan|陆康]]'s fiscal remonstrance into an offense.
+
+The episode also makes Zhang Rang's power material rather than only conversational. Palace construction creates inspection, underpricing, and appointment-fee opportunities, so his influence reaches from imperial desire into [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] before later sources show him using slander, family access, and palace violence.
 
 [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds Zhang Rang's earlier anti-[[HuangfuSongLateHan|皇甫嵩]] branch before the 189 CE palace crisis. Zhang Rang demands fifty million cash from Huangfu Song, is refused, and then joins [[ZhaoZhongLateHan|赵忠]] in accusing Huangfu Song of defeat, lack of merit, and waste.
 
@@ -23,6 +27,7 @@ The episode presents Zhang Rang as faster and more ruthless than He Jin in a zer
 Zhang Rang's final scene is source-scoped but structurally important. He flees with [[LiuBianHongnongWang|刘辩 / 弘农王]] and Liu Xie / [[EmperorXianOfHan|汉献帝]] toward [[Xiaopingjin|小平津]], then jumps into the river after [[MinGongLateHan|闵贡]] catches up and kills several eunuchs. His death closes the Ten Attendants branch while opening the [[DongZhuo|董卓]] branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[EmperorLingOfHan|汉灵帝]], [[ZhaoZhongLateHan|赵忠]], [[LuKangLateHan|陆康]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - palace-construction finance, material inspection, and remonstrance-recoding branch.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhaoZhongLateHan|赵忠]], and [[EmperorLingOfHan|汉灵帝]] - bribery refusal and slander-driven demotion.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[WuyangJun|武阳君]], [[EmpressDowagerHe|何太后]], [[HeJin|何进]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - palace-family route back inside before the counterattack.
 - [[DuanGuiLateHan|段珪]], [[QuMuLateHan|渠穆]], [[FanLingLateHan|樊陵]], and [[XuXiangLateHan|许相]] - Zhang Rang-side actors in the trap and forged appointments.

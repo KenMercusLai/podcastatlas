@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5398
+wiki_total_pages: 5399
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "PseudoHistoryConspiracy"
     title: "伪史论 / Pseudo-History Conspiracy"
     url: "/wiki/concepts/pseudohistoryconspiracy/"
+  - key: "PalaceConstructionFeeExtraction"
+    title: "修宫钱转嫁盘剥 / Palace Construction Fee Extraction"
+    url: "/wiki/concepts/palaceconstructionfeeextraction/"
   - key: "ProvincialShepherdAutonomy"
     title: "州牧集权与地方割据 / Provincial Shepherd Autonomy"
     url: "/wiki/concepts/provincialshepherdautonomy/"

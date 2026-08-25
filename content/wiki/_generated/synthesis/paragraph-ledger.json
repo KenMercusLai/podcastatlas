@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b960df0e17041feddf8181dce42c978aac4011db32e28e9771d14a81aa20e091",
       "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
       "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
       "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
@@ -211,11 +212,48 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 209
+    "paragraph_count": 210
   },
-  "overview_commit": "75ba66145ba20f3d24508905c28d62cdc27aec81",
-  "overview_digest": "2fcbee020c44b1d109026427307d74eb779d7f75012ba1e1230fdef39521c7ec",
+  "overview_commit": "3b2eb47e7b4227df5384c7ec48a1295028da042f",
+  "overview_digest": "66db6b68d1f71d568078dc7a21825156258df253dfb8ebd257399258fd7277c1",
   "paragraphs": [
+    {
+      "id": "b960df0e17041feddf8181dce42c978aac4011db32e28e9771d14a81aa20e091",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 184 CE late-Han palace-finance layer before [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]]. It adds [[SimaZhiLateHan|司马直]], [[JuluCommanderyLateHan|巨鹿郡]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]], while extending [[LuKangLateHan|陆康]], [[LiuDaiLateHan|刘岱]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], [[ZhangJiaoLateHan|张角]], [[ZhangNiujiaoLateHan|张牛角]], [[ZhangYanLateHan|张燕]], [[HeishanArmy|黑山军]], [[HeneiCommandery|河内郡]], [[OfficeSaleLegitimacyDamage|买官名节损耗]], [[CourtOfficeCapture|朝廷开府任官失序]], [[UntimelyExtravagance|时绌举赢]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[DeathDefyingRemonstrance|赴死式直谏]]. Its core synthesis is that late-Han corruption works by turning palace display and appointment access into a downward extraction chain: eunuch-favored projects and inspections collect rents, local officials pass costs to the people, and clean appointees like Sima Zhi face office as pressure to become exploiters. No settled contradiction is recorded; Lu Kang's earlier Le'an remonstrance complements his later Lujiang refusal, Liu Dai's short defense role is kept on the existing late-Han route unless later sources require disambiguation, and the bandit list is treated as background before Hanji 933 develops the Zhang Niujiao/Zhang Yan origin branch.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CourtFeedbackCollapse",
+        "CourtOfficeCapture",
+        "DeathDefyingRemonstrance",
+        "EmperorLingOfHan",
+        "HeishanArmy",
+        "HeneiCommandery",
+        "JuluCommanderyLateHan",
+        "LiuDaiLateHan",
+        "LuKangLateHan",
+        "OfficeSaleLegitimacyDamage",
+        "PalaceConstructionFeeExtraction",
+        "RuiqiJiangtouZizhiTongjian",
+        "SimaZhiLateHan",
+        "UntimelyExtravagance",
+        "ZhangJiaoLateHan",
+        "ZhangNiujiaoLateHan",
+        "ZhangRangLateHan",
+        "ZhangYanLateHan",
+        "ZhaoZhongLateHan",
+        "zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29",
+        "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj"
+      ]
+    },
     {
       "id": "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
       "primary_topic": "governance-and-institutions",

@@ -2,13 +2,15 @@
 title: "黑山军 / Heishan Army"
 type: entity
 tags: [organization, late-han, military, insurgency]
-sources: [zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs]
+sources: [zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs]
 last_updated: 2026-08-25
 ---
 
 # 黑山军 / Heishan Army
 
-[[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] supplies the current earliest origin layer. It traces the group from [[ZhangNiujiaoLateHan|张牛角]] and Chu Yan / Chu Feiyan during the Yellow Turban disorder into [[ZhangYanLateHan|张燕]]'s nearly million-person mountain network; commanderies and counties north of the Yellow River are raided, and the court cannot suppress the force directly.
+[[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] now gives the earliest background notice for the pre-Black-Mountain field. After [[ZhangJiaoLateHan|张角]]'s uprising, the episode lists [[ZhangNiujiaoLateHan|张牛角]] and Changshan Chu Feiyan / [[ZhangYanLateHan|张燕]] among multiple armed leaders whose groups spread in late-Han disorder; it does not yet name the Black Mountain Army as an institution.
+
+[[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] supplies the first full origin layer. It traces the group from Zhang Niujiao and Chu Yan / Chu Feiyan during the Yellow Turban disorder into Zhang Yan's nearly million-person mountain network; commanderies and counties north of the Yellow River are raided, and the court cannot suppress the force directly.
 
 The source also makes the Black Mountain field an early case of [[OfficeBasedRebelIncorporation|授官式招安]]. Zhang Yan sends an envoy to [[LuoyangLateHan|洛阳]], [[EmperorLingOfHan|汉灵帝]] grants office and delegated mountain-order responsibilities, and the court converts a suppression problem into semi-official local management.
 
@@ -33,6 +35,7 @@ This makes the Black Mountain field visible as more than a northern Yuan Shao pr
 The page is deliberately source-scoped. Hanji 970 does not give a complete institutional history of the Black Mountain Army; it uses the group as a flexible insurgent/military network whose leaders, soldiers, mountain positions, and outside ties can threaten commandery administration and force Yuan Shao into hard pacification. [[TaoShengLateHan|陶生]] complicates the picture by protecting Yuan Shao's family even though he is part of the Black Mountain field.
 
 ## Connections
+- [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[ZhangJiaoLateHan|张角]], [[ZhangNiujiaoLateHan|张牛角]], and [[ZhangYanLateHan|张燕]] - pre-Black-Mountain armed-disorder background before the full Hanji 933 origin account.
 - [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[ZhangNiujiaoLateHan|张牛角]], [[ZhangYanLateHan|张燕]], [[EmperorLingOfHan|汉灵帝]], [[LuoyangLateHan|洛阳]], and [[OfficeBasedRebelIncorporation|授官式招安]] - origin, succession, surrender, and office-based incorporation branch.
 - [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WangFenLateHan|王芬]], [[JizhouLateHan|冀州]], and [[ImperialDepositionCoupRisk|废立政变风险]] - claimed threat used as mobilization pretext for an imperial seizure plot.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[DongCommandery|东郡]], [[WangGongLateHan|王肱]], [[BaiRaoLateHan|白绕]], and [[CaoCao|曹操]] - East Commandery attack and Cao's first foothold.

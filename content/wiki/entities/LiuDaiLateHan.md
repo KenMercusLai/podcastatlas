@@ -2,11 +2,15 @@
 title: "刘岱 / Liu Dai (late Han)"
 type: entity
 tags: [person, late-han, yanzhou, official, military]
-sources: [zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-25
 ---
 
 # 刘岱 / Liu Dai (late Han)
+
+[[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] adds a short earlier source-scoped notice for Liu Dai as the censorial official who defends [[LuKangLateHan|陆康]]. After eunuch-side interpretation turns Lu Kang's anti-tax memorial into disrespect toward [[EmperorLingOfHan|汉灵帝]], Liu Dai argues against the death penalty strongly enough that Lu Kang is spared, though still dismissed and sent home.
+
+This branch keeps Liu Dai in a feedback-channel role before his later Yanzhou command decisions. The page treats the censorial Liu Dai on this late-Han route unless a later source requires a separate homonym page.
 
 [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] backfills Liu Dai before his death. He is governing [[YanzhouLateHan|兖州]] while [[YuanShao|袁绍]] and [[GongsunZan|公孙瓒]] shift from anti-Dong-Zhuo allies into enemies. Yuan Shao's household is with Liu Dai, and Gongsun Zan uses [[FanFangLateHan|范方]] to pressure Liu Dai to hand them over.
 
@@ -18,6 +22,7 @@ The episode treats Liu Dai's failure as a decision error under status pressure. 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[LuKangLateHan|陆康]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - censorial defense of a fiscal remonstrant.
 - [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[ChengYu|程昱]], [[YuanShao|袁绍]], [[GongsunZan|公孙瓒]], and [[FanFangLateHan|范方]] - alliance-pressure and neutrality-advice branch.
 - [[YanzhouLateHan|兖州]] - province Liu Dai governs before his death.
 - [[BaoXin|鲍信]] - adviser whose defensive plan Liu Dai rejects.
