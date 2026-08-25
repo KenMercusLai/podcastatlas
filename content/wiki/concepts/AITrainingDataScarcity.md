@@ -2,11 +2,13 @@
 title: "AI Training Data Scarcity"
 type: concept
 tags: [ai, data, training, models]
-sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-26
 ---
 
 # AI Training Data Scarcity
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the pre-AI book-scarcity version. The hosts say frontier labs have incentives to acquire physical books, especially pre-2022 works less contaminated by AI text, making old print collections a scarce training resource and linking data scarcity to [[AITrainingCopyrightDispute]] rather than only workplace traces or robotics footage.
 
 AI training data scarcity is the constraint that large model developers may exhaust easily available public web data and need higher-value examples, expert feedback, private workflow traces, or synthetic environments to keep improving models. [[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds the concept through [[AnitaRamaswamy]]'s explanation of why [[Meta]] might want employee mouse, click, and keystroke data for training computer-use agents.
 

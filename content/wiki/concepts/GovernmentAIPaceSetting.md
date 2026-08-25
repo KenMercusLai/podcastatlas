@@ -2,11 +2,13 @@
 title: "Government AI Pace-Setting"
 type: concept
 tags: [ai, safety, governance, regulation]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]
+last_updated: 2026-08-26
 ---
 
 # Government AI Pace-Setting
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the adversarial interpretation of pace-setting. The hosts acknowledge the safety logic behind [[PacingTheFrontier]], but [[DavidSacks|David Sacks]] argues that government pacing can become suspect when leading labs keep racing while asking public authorities to slow the field around them.
 
 Government AI pace-setting is the governance proposal surfaced in [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]], where more than a thousand AI workers are described as asking governments to help control or set the pace of frontier AI development. The source compares the proposed outside involvement to international frameworks around nuclear technology and gene editing.
 

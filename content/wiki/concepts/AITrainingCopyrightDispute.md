@@ -2,11 +2,13 @@
 title: "AI Training Copyright Dispute"
 type: concept
 tags: [ai, copyright, training-data, legal-risk]
-sources: [ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox, tech-20260817-tech-pod-128-tech-20260817-tech-pod-128]
-last_updated: 2026-08-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox, tech-20260817-tech-pod-128-tech-20260817-tech-pod-128]
+last_updated: 2026-08-26
 ---
 
 # AI Training Copyright Dispute
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the physical-book version through [[Anthropic]]. The hosts discuss reported bulk book buying, spine cutting, scanning, the Google Books fair-use precedent, and a source-reported Anthropic copyright settlement to show how model training can become a legal, market, and cultural legitimacy dispute at once.
 
 [[ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox]] adds the film-side version through [[JiaZhangke|贾樟柯]]. The source does not settle a legal theory, but it places copyright beside portrait rights, guild concern, and environmental cost as the ethical-legal boundary that AI cinema cannot avoid.
 

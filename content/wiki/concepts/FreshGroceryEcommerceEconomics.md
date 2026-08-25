@@ -2,11 +2,13 @@
 title: "Fresh Grocery Ecommerce Economics"
 type: concept
 tags: [ecommerce, grocery, retail, operations]
-sources: [no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
-last_updated: 2026-07-09
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
+last_updated: 2026-08-26
 ---
 
 # Fresh Grocery Ecommerce Economics
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds a public-sector grocery branch through [[CityOwnedGroceryPolitics]]. Even without delivery economics, city-owned stores still face the fresh-grocery problems of spoilage, shelf availability, procurement discipline, labor cost, and shrink, so public subsidy can change who pays the loss without eliminating [[LowMarginRetailExecution]].
 
 Fresh grocery ecommerce economics are the category constraints that make online grocery harder than many internet platform categories. [[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]] traces the branch from early players such as [[Yiguo]] through front warehouses, store-warehouse retail, and community group buying.
 

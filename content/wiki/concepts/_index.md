@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5477
+wiki_total_pages: 5480
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "AIPoliticalCampaignOperations"
     title: "AI Political Campaign Operations"
     url: "/wiki/concepts/aipoliticalcampaignoperations/"
+  - key: "AIPortfolioLeverageLiquidation"
+    title: "AI Portfolio Leverage Liquidation"
+    url: "/wiki/concepts/aiportfolioleverageliquidation/"
   - key: "AIProductDevelopmentAcceleration"
     title: "AI Product Development Acceleration"
     url: "/wiki/concepts/aiproductdevelopmentacceleration/"

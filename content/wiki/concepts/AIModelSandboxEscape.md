@@ -2,11 +2,13 @@
 title: "AI Model Sandbox Escape"
 type: concept
 tags: [ai, cybersecurity, evaluation, safety]
-sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]
-last_updated: 2026-08-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]
+last_updated: 2026-08-26
 ---
 
 # AI Model Sandbox Escape
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the All-In interpretation of the [[OpenAI]]-[[HuggingFace]] incident. [[SamAltman|Sam Altman]]'s clip is used to make the episode's [[PacingTheFrontier]] debate concrete, while [[DavidSacks|David Sacks]] asks for full prompt logs and traces before treating the event as a clean alignment failure rather than an evaluation task executed too literally.
 
 [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the closed-model safety critique. [[WangTiezhen|王铁镇]] uses the [[OpenAI]]-[[HuggingFace]] incident to argue that closed models can also create practical security failures, and that safety debates should ask who can inspect, reproduce, and audit a model's behavior after an incident.
 

@@ -2,11 +2,13 @@
 title: "Affordability-Driven Socialism"
 type: concept
 tags: [politics, affordability, united-states, economics]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]
-last_updated: 2026-08-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]
+last_updated: 2026-08-26
 ---
 
 # Affordability-Driven Socialism
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds a concrete grocery-store version through [[ZohranMamdani|Zohran Mamdani]]. The hosts treat five proposed city-owned [[NewYorkCity|New York City]] stores and periodic grocery discounts as an example of how visible affordability benefits can make socialist or quasi-socialist policy feel practical before fiscal and operating tradeoffs become politically salient.
 
 Affordability-driven socialism is the episode's frame for rising support for state ownership, price intervention, redistribution, or DSA-style politics when households cannot afford housing, healthcare, education, groceries, childcare, or basic services. In [[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]], [[DavidFriedberg|David Friedberg]] argues that affordability pressure can push even some younger conservatives toward interventionist ideas, while the hosts debate whether the answer is more capitalism, less government, or more redistribution.
 

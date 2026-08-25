@@ -2,11 +2,13 @@
 title: "Closed Model API Moat Pressure"
 type: concept
 tags: [ai, business-model, models, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
-last_updated: 2026-08-21
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
+last_updated: 2026-08-26
 ---
 
 # Closed Model API Moat Pressure
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the customer-exit version. [[JasonCalacanis|Jason Calacanis]] cites enterprise movement toward cheaper alternatives such as [[GLM52|GLM 5.2]], while [[ChamathPalihapitiya|Chamath Palihapitiya]] asks whether [[OpenAI]] and [[Anthropic]] can keep a durable five-to-ten-year duopoly if customers fear model providers will compete at the application layer.
 
 [[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds the Anthropic-specific investor version. [[JasonCalacanis|Jason Calacanis]] argues that cheaper open models can slow [[Anthropic]] growth, while [[DavidSacks|David Sacks]] says Anthropic's premium depends on staying roughly six months ahead of open alternatives; heavy release regulation could erase that timing advantage.
 

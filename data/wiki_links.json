@@ -2063,6 +2063,10 @@
     "title": "AI Political Campaign Operations",
     "url": "/wiki/concepts/aipoliticalcampaignoperations/"
   },
+  "AIPortfolioLeverageLiquidation": {
+    "title": "AI Portfolio Leverage Liquidation",
+    "url": "/wiki/concepts/aiportfolioleverageliquidation/"
+  },
   "AIProductDevelopmentAcceleration": {
     "title": "AI Product Development Acceleration",
     "url": "/wiki/concepts/aiproductdevelopmentacceleration/"
@@ -10034,6 +10038,10 @@
   "CityMart": {
     "title": "城市集市 / City Mart",
     "url": "/wiki/entities/citymart/"
+  },
+  "CityOwnedGroceryPolitics": {
+    "title": "City-Owned Grocery Politics",
+    "url": "/wiki/concepts/cityownedgrocerypolitics/"
   },
   "CivicAudienceEtiquette": {
     "title": "Civic Audience Etiquette",
@@ -27023,6 +27031,10 @@
     "title": "Leonardo (MPEG)",
     "url": "/wiki/entities/leonardompeg/"
   },
+  "LeopoldAschenbrenner": {
+    "title": "Leopold Aschenbrenner",
+    "url": "/wiki/entities/leopoldaschenbrenner/"
+  },
   "LeptonAI": {
     "title": "Lepton AI",
     "url": "/wiki/entities/leptonai/"
@@ -34526,6 +34538,10 @@
   "PacificTelephoneAndTelegraph": {
     "title": "Pacific Telephone and Telegraph",
     "url": "/wiki/entities/pacifictelephoneandtelegraph/"
+  },
+  "PacingTheFrontier": {
+    "title": "Pacing the Frontier",
+    "url": "/wiki/concepts/pacingthefrontier/"
   },
   "PackagingAsProductExperience": {
     "title": "Packaging As Product Experience",
@@ -53543,6 +53559,10 @@
     "title": "Zoe Chase",
     "url": "/wiki/entities/zoechase/"
   },
+  "ZohranMamdani": {
+    "title": "Zohran Mamdani",
+    "url": "/wiki/entities/zohranmamdani/"
+  },
   "ZonaFrancaDeManaus": {
     "title": "Zona Franca de Manaus",
     "url": "/wiki/entities/zonafrancademanaus/"
@@ -53786,6 +53806,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895": {
     "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790": {
+    "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225": {
     "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",

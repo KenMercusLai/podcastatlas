@@ -2,11 +2,13 @@
 title: "AI Safety Narrative Backfire"
 type: concept
 tags: [ai, safety, policy, strategy]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-08-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-26
 ---
 
 # AI Safety Narrative Backfire
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the pacing-rhetoric version. The hosts argue that when frontier labs publicly warn about uncontrolled systems while continuing to compete, the same message can invite public fear, government pace-setting, and suspicion that safety language is being used to protect incumbent economics.
 
 [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds a second All-In version through [[Fable5|Fable 5]]. [[DavidSacks|David Sacks]] argues that [[DarioAmodei|Dario Amodei]]'s cyber-weapon framing around Mythos/Fable primed officials to treat the model as a national-security threat, while [[ChamathPalihapitiya|Chamath Palihapitiya]] says poor lab leadership can push AI toward [[HyperscalerAIGatekeeping]].
 

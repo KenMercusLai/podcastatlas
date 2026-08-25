@@ -149,26 +149,26 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-08-21",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
-      "source_note_count": 29,
-      "topic_matched_source_note_count": 25,
+      "source_note_count": 30,
+      "topic_matched_source_note_count": 26,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 12
+          "source_note_count": 13
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 8
+          "source_note_count": 9
         },
         {
           "key": "culture",
@@ -200,6 +200,13 @@
           "episode_count": 9
         },
         {
+          "key": "Anthropic",
+          "title": "Anthropic",
+          "url": "/wiki/entities/anthropic/",
+          "kind": "organization",
+          "episode_count": 8
+        },
+        {
           "key": "ChamathPalihapitiya",
           "title": "Chamath Palihapitiya",
           "url": "/wiki/entities/chamathpalihapitiya/",
@@ -207,18 +214,11 @@
           "episode_count": 8
         },
         {
-          "key": "Anthropic",
-          "title": "Anthropic",
-          "url": "/wiki/entities/anthropic/",
-          "kind": "organization",
-          "episode_count": 7
-        },
-        {
           "key": "OpenAI",
           "title": "OpenAI",
           "url": "/wiki/entities/openai/",
           "kind": "organization",
-          "episode_count": 5
+          "episode_count": 6
         },
         {
           "key": "SpaceX",

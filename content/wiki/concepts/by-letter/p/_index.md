@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5477
+wiki_total_pages: 5480
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "P2PStreaming"
     title: "P2P Streaming"
     url: "/wiki/concepts/p2pstreaming/"
+  - key: "PacingTheFrontier"
+    title: "Pacing the Frontier"
+    url: "/wiki/concepts/pacingthefrontier/"
   - key: "PackagingAsProductExperience"
     title: "Packaging As Product Experience"
     url: "/wiki/concepts/packagingasproductexperience/"

@@ -2,11 +2,13 @@
 title: "Frontier Model Duopoly"
 type: concept
 tags: [ai, models, competition]
-sources: [all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
-last_updated: 2026-08-25
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+last_updated: 2026-08-26
 ---
 
 # Frontier Model Duopoly
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds a regulatory and revenue-protection version. [[DavidSacks|David Sacks]] says [[OpenAI]] and [[Anthropic]] dominate frontier-model revenue and usage even if open models create token volume, so calls to pace frontier AI can look like safety rhetoric, but also like protection of a high-margin duopoly against [[OpenSourceAIModels]].
 
 Frontier model duopoly is [[DavidSacks|David Sacks]]'s source-scoped claim in [[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] that the premium intelligence market has narrowed around [[Anthropic]] and [[OpenAI]]. He still leaves room for [[Google]], [[XAI|xAI]], [[Meta]], [[Alibaba]], [[MoonshotAI|Moonshot]], and other labs to compete, but distinguishes frontier intelligence from cheaper models that may lag by months.
 

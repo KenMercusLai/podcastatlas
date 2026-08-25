@@ -2,11 +2,13 @@
 title: "AI Regulatory Capture Risk"
 type: concept
 tags: [ai, regulation, governance, competition]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]
-last_updated: 2026-08-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]
+last_updated: 2026-08-26
 ---
 
 # AI Regulatory Capture Risk
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the pacing-letter version. [[DavidSacks|David Sacks]] argues that [[OpenAI]] and [[Anthropic]] can publicly endorse slower frontier development while continuing to race, making [[PacingTheFrontier]] look like a possible safety regime, liability shield, and incumbent-moat device at the same time.
 
 AI regulatory capture risk is the episode's claim that frontier AI companies can shape safety rules in ways that make compliance easier for well-capitalized incumbents and harder for smaller, open, or faster-moving competitors. In [[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]], [[DavidSacks|David Sacks]] argues that [[Anthropic]]'s state and federal policy advocacy deserves scrutiny even if [[DarioAmodei|Dario Amodei]] is sincere about safety.
 

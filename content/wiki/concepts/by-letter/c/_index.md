@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5477
+wiki_total_pages: 5480
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "CityCommercialObservation"
     title: "City Commercial Observation"
     url: "/wiki/concepts/citycommercialobservation/"
+  - key: "CityOwnedGroceryPolitics"
+    title: "City-Owned Grocery Politics"
+    url: "/wiki/concepts/cityownedgrocerypolitics/"
   - key: "CivicAudienceEtiquette"
     title: "Civic Audience Etiquette"
     url: "/wiki/concepts/civicaudienceetiquette/"

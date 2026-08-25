@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1872
+topic_total_pages: 1876
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -427,6 +427,9 @@ topic_concepts:
   - key: "ChronicFoodAdditiveRisk"
     title: "Chronic Food Additive Risk"
     url: "/wiki/concepts/chronicfoodadditiverisk/"
+  - key: "CityOwnedGroceryPolitics"
+    title: "City-Owned Grocery Politics"
+    url: "/wiki/concepts/cityownedgrocerypolitics/"
   - key: "CivilAviationDevelopmentFund"
     title: "Civil Aviation Development Fund / 民航发展基金"
     url: "/wiki/concepts/civilaviationdevelopmentfund/"
@@ -1753,6 +1756,9 @@ topic_concepts:
   - key: "OverseasChineseMutualAidNetworks"
     title: "Overseas Chinese Mutual Aid Networks"
     url: "/wiki/concepts/overseaschinesemutualaidnetworks/"
+  - key: "PacingTheFrontier"
+    title: "Pacing the Frontier"
+    url: "/wiki/concepts/pacingthefrontier/"
   - key: "PalaceAccessMonopoly"
     title: "Palace Access Monopoly / 宫廷接触垄断"
     url: "/wiki/concepts/palaceaccessmonopoly/"
@@ -4769,6 +4775,9 @@ topic_entities:
   - key: "Zeiss"
     title: "Zeiss"
     url: "/wiki/entities/zeiss/"
+  - key: "ZohranMamdani"
+    title: "Zohran Mamdani"
+    url: "/wiki/entities/zohranmamdani/"
   - key: "DongbeiBoyi"
     title: "《东北博弈》"
     url: "/wiki/entities/dongbeiboyi/"
@@ -5145,6 +5154,9 @@ topic_sources:
   - key: "tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128"
     title: "China's soft power play in the global AI arms race"
     url: "/wiki/sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790"
+    title: "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
   - key: "cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8"
     title: "Cockroaches 1, Modi 0: India’s remarkable protests"
     url: "/wiki/sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8/"

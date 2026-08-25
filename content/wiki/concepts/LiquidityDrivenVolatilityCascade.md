@@ -2,11 +2,13 @@
 title: "Liquidity-Driven Volatility Cascade"
 type: concept
 tags: [markets, liquidity, leverage, risk]
-sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]
+last_updated: 2026-08-26
 ---
 
 # Liquidity-Driven Volatility Cascade
+
+[[all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790]] adds the AI-equity leverage version. The hosts connect a chip-stock drawdown, rising long rates, South Korea margin-call examples, and [[LeopoldAschenbrenner|Leopold Aschenbrenner]]'s reported forced sale into a reminder that a bullish AI thesis can still be mechanically liquidated when leverage and market timing collide.
 
 Liquidity-driven volatility cascade is the cross-asset pattern where crowded inflows, model signals, leverage, and thinning market depth turn a trigger into a much larger price move. [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds the gold version: gold ETF flows, fast momentum, high volatility, CTA or programmatic trend selling, stop-losses, and leveraged exits can make a safe-haven asset behave like a high-beta trading asset.
 

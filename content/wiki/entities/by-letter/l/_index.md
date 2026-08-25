@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7638
+wiki_total_pages: 7640
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "LeonardoLins"
     title: "Leonardo Lins"
     url: "/wiki/entities/leonardolins/"
+  - key: "LeopoldAschenbrenner"
+    title: "Leopold Aschenbrenner"
+    url: "/wiki/entities/leopoldaschenbrenner/"
   - key: "LeptonAI"
     title: "Lepton AI"
     url: "/wiki/entities/leptonai/"

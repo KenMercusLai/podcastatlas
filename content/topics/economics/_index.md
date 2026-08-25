@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1848
+topic_total_pages: 1851
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -157,6 +157,9 @@ topic_concepts:
   - key: "AIPlatformEcosystemDiffusion"
     title: "AI Platform Ecosystem Diffusion"
     url: "/wiki/concepts/aiplatformecosystemdiffusion/"
+  - key: "AIPortfolioLeverageLiquidation"
+    title: "AI Portfolio Leverage Liquidation"
+    url: "/wiki/concepts/aiportfolioleverageliquidation/"
   - key: "AIRecruitingSourcing"
     title: "AI Recruiting Sourcing"
     url: "/wiki/concepts/airecruitingsourcing/"
@@ -3746,6 +3749,9 @@ topic_entities:
   - key: "LeiLutai"
     title: "Lei Lutai / 雷履泰"
     url: "/wiki/entities/leilutai/"
+  - key: "LeopoldAschenbrenner"
+    title: "Leopold Aschenbrenner"
+    url: "/wiki/entities/leopoldaschenbrenner/"
   - key: "LiJigang"
     title: "Li Jigang / 李继刚"
     url: "/wiki/entities/lijigang/"
@@ -5028,6 +5034,9 @@ topic_sources:
   - key: "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128"
     title: "Bytes: Week in Review - Are we in an AI bubble?"
     url: "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790"
+    title: "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
   - key: "tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio"
     title: "Christina Cacioppo on Vanta, Coding, and Compliance Automation"
     url: "/wiki/sources/tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio/"

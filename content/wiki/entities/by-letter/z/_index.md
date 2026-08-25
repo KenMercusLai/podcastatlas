@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7638
+wiki_total_pages: 7640
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "ZoeChase"
     title: "Zoe Chase"
     url: "/wiki/entities/zoechase/"
+  - key: "ZohranMamdani"
+    title: "Zohran Mamdani"
+    url: "/wiki/entities/zohranmamdani/"
   - key: "ZonaFrancaDeManaus"
     title: "Zona Franca de Manaus"
     url: "/wiki/entities/zonafrancademanaus/"

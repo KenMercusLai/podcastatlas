@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores](sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790.md) — All-In episode on AI/chip-stock leverage risk, Leopold Aschenbrenner's reported margin call, frontier-lab pacing politics, open-model pressure, training-data copyright, Mamdani's city-owned groceries, and fruit-fly neural geometry.
 - [《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？](sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg.md) — 芮淇讲透资治通鉴 episode on promotion position fit, Lyu Qiang's refused marquisate and remonstrance, Cai Yong and Duan Jiong as correction-failure cases, He Hai's party-ban kinship narrowing, and Zhang Xiu's unauthorized Southern Xiongnu intervention.
 - [《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？](sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5.md) — 芮淇讲透资治通鉴 episode on adversity silence discipline, the 179 CE Liu He-Chen Qiu-Liu Na-Yang Qiu anti-Cao Jie plot leak, late-Han frontier/local disorder, and the early He-family rise through Empress He, He Jin, Liu Bian, and He Zhen.
 - [《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己](sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade.md) — 芮淇讲透资治通鉴 episode on boundaryless kindness, Emperor Ling's garden project, Yang Ci's remonstrance, classical flattery around shared pleasure, Yang Xuan's Lingling suppression tactic, and Zhao Kai's false-accusation reversal.
@@ -1477,6 +1478,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Leopold Aschenbrenner](entities/LeopoldAschenbrenner.md) — Former OpenAI employee and AI investor used by All-In as a source-scoped case in levered AI-stock liquidation risk.
+- [Zohran Mamdani](entities/ZohranMamdani.md) — New York political figure whose city-owned grocery proposal extends the wiki's affordability-socialism and retail-execution branch.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
 - [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander invoked by Lyu Qiang as a meritorious official whose family punishment shows correction and service no longer protected status.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
@@ -9119,6 +9122,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
+- [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.
+- [City-Owned Grocery Politics](concepts/CityOwnedGroceryPolitics.md) — Municipal grocery-store politics where visible affordability benefits compete with thin-margin retail execution and public-budget costs.
 - [Promotion Position Fit / 升职位置匹配](concepts/PromotionPositionFit.md) — Career strategy frame for testing whether a role is on a visible advancement path, solves superior demand, and sits with organizational momentum.
 - [党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing](concepts/PartyProhibitionKinshipNarrowing.md) — Late-Han legal repair that narrows party-prohibition collateral punishment by excluding more distant kin.
 - [边疆将领擅断干预 / Unauthorized Frontier Command Intervention](concepts/UnauthorizedFrontierCommandIntervention.md) — Frontier-command failure where a field official changes allied succession without central authorization.
