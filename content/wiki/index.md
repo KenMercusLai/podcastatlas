@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI loves negative parallelism](sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128.md) — Marketplace Tech episode with Will Oremus on negative parallelism as an AI-writing tell, Pangram's frequency finding, Claude watermarking, synthetic-data feedback loops, and AI style bleed into human writing.
 - [山上山下皆人间，无事逍遥即神仙](sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp.md) — 面基 episode with 李闯 on 《辞职上山》, Wudang Daoist life, fieldnote writing, folk belief as last-resort support, Chinese-medicine uncertainty, circular/linear time, and 逍遥 as freedom inside ordinary constraints.
 - [179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？](sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo.md) — 起朱楼宴宾客 episode reading Scott Bessent's yen intervention, FIMA Repo push, Treasury buybacks, stablecoin demand, and Fed pressure as one fragile U.S. financing toolkit.
 - [汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回](sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395.md) — 声动早咖啡 episode linking a major China vehicle recall, Apple foldable/Vision Pro pressure, efficiency-over-expansion cases, Premier League sponsorship changes, and Qishui Music's pressure on Tencent Music and NetEase Cloud Music.
@@ -3716,7 +3717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pedro Sanchez](entities/PedroSanchez.md) — Spanish prime minister under pressure over Western Sahara policy, migrant amnesty, and Ceuta response.
 - [Michael Reid](entities/MichaelReid.md) — The Intelligence participant explaining Ceuta's court ruling, Morocco precedent, and Western Sahara backdrop.
 - [Giorgia Meloni](entities/GiorgiaMeloni.md) — European leader whose call to suspend Spain from Schengen made the Ceuta crisis an EU dispute.
-- [Pangram](entities/Pangram.md) — AI-writing detector named as an example of tool outputs that can be false-positive and opaque.
+- [Pangram](entities/Pangram.md) — AI-writing detector and corpus-measurement source for platform detection, false-positive risk, and negative-parallelism frequency comparisons.
 - [吴伟志 / Wu Weizhi](entities/WuWeizhi.md) — Zhongou Ruibo investor explaining A-share market seasons, company taxonomy, strategy fit, and institution-level research process.
 - [中欧瑞博 / Zhongou Ruibo](entities/ZhongouRuibo.md) — Investment firm context for Wu Weizhi's A-share framework, investment committee, hedging, quant, AI research, MAPER, and research-index process.
 - [Serena & Lily](entities/SerenaAndLily.md) — Premium home brand co-founded by Lily Kanter and Serena Dugan, used as a case in inventory-heavy consumer-brand financing, DTC control, and bad money.
@@ -3932,7 +3933,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [USAID](entities/USAID.md) — Aid agency used in the source as the humanitarian-consequence test for DOGE-style cuts.
 - [Orange House](entities/OrangeHouseLebanon.md) — Mona Khalil and Habiba Fayed's Lebanese B&B and turtle-conservation center.
 - [Habiba Fayed](entities/HabibaFayed.md) — Mona Khalil's collaborator in restoring and running the Orange House conservation hub.
-- [Will Oremus](entities/WillOremus.md) — Technology commentator in the Marketplace Tech Bytes episode tying AI benchmark gaming, social-media age bans, and Apple device leasing to incentive and control problems.
+- [Will Oremus](entities/WillOremus.md) — Technology commentator and Atlantic writer tying AI benchmark gaming, social-media age bans, Apple device leasing, and AI-writing tics to incentive and control problems.
 - [Hugging Face](entities/HuggingFace.md) — AI platform company named as the outside system accessed in the source-scoped OpenAI model sandbox incident.
 - [Klarna](entities/Klarna.md) — Reported Apple financing partner in the Marketplace Tech discussion of lease-like device access.
 - [Face (硅谷101)](entities/FaceSiliconValley101.md) — 硅谷101 host/narrator using personal ChatGPT interaction, journalism labor, sycophantic AI, and verification concerns to frame E245.
@@ -5282,7 +5283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《二十四孝》 / Twenty-Four Filial Exemplars](entities/TwentyFourFilialExemplars.md) — Later filial-piety tradition that the source separates from the full moral range of 《搜神记》.
 - [蒋子文 / Jiang Ziwen](entities/JiangZiwen.md) — Nanjing-area local religious figure in the 《搜神记》 episode, connecting deity governance, underworld office, coercive worship, and unexpected restraint.
 - [Will Gottsagen](entities/WillGottsagen.md) — Atlantic writer interviewed by Marketplace Tech about AI wearables, Meta glasses, cloud limits, public awkwardness, and privacy.
-- [The Atlantic](entities/TheAtlantic.md) — Publication affiliation for Will Gottsagen in the Marketplace Tech AI-wearables episode.
+- [The Atlantic](entities/TheAtlantic.md) — Publication context for Marketplace Tech discussions of AI wearables, patrimonial governance, and AI-writing style tells.
 - [Apple AirPods](entities/AppleAirPods.md) — Familiar Apple wearable used by the source as a live-translation and AI-audio example.
 - [Apple Watch](entities/AppleWatch.md) — Familiar Apple wearable used by the source as an already accepted body-worn AI surface.
 - [Oura Ring](entities/OuraRing.md) — Familiar wearable ring used by the source to show older wearable categories gaining AI-enabled features.
@@ -10293,6 +10294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Falling Object Public Safety](concepts/FallingObjectPublicSafety.md) — India's lethal pattern of billboards, roofs, trees, structures, and other objects falling under weak safety governance.
 - [Infrastructure Accountability Gap](concepts/InfrastructureAccountabilityGap.md) — Gap between formal safety rules and actual prevention through enforcement, maintenance, and data.
 - [AI Writing Detection](concepts/AIWritingDetection.md) — Identifying AI prose through detectors, stylistic traces, and editorial judgment.
+- [Negative Parallelism](concepts/NegativeParallelism.md) — "Not X, but Y" rhetorical construction treated as a statistical AI-writing tell when models overuse it.
 - [A-Share Market Seasons / A股四季框架](concepts/AShareMarketSeasons.md) — Wu Weizhi's spring-summer-autumn-winter market-temperature frame for A-share exposure, sector cycles, buying speed, and selling discipline.
 - [A-Share Planting Company Taxonomy / 种树种粮种菜](concepts/ASharePlantingCompanyTaxonomy.md) — A-share company-type metaphor separating high-upside growth trees, high-win-rate value grains, and tactical vegetables before strategy selection.
 - [Investment Strategy Fit / 投资策略适配](concepts/InvestmentStrategyFit.md) — Discipline of matching entry reason, evidence, time horizon, sizing, and exit rule so value, growth, and trend methods do not overwrite one another.
@@ -14291,7 +14293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Forward Deployed Engineer](concepts/ForwardDeployedEngineer.md) — Enterprise role for integrating AI into business workflows, knowledge systems, and operating processes.
 - [Frontline AI Enablement](concepts/FrontlineAIEnablement.md) — Management pattern where AI increases the judgment capacity of frontline workers instead of only centralizing decisions.
 - [Frontier Model Scaling](concepts/FrontierModelScaling.md) — Capability-scaling problem involving parameters, compute, data quality, training efficiency, and limits of simple scaling-law extrapolation.
-- [Model Collapse](concepts/ModelCollapse.md) — Training-data failure mode where repeated learning from synthetic outputs flattens diversity, erases rare patterns, and degrades model quality.
+- [Model Collapse](concepts/ModelCollapse.md) — Training-data failure mode where repeated learning from synthetic outputs can flatten diversity, erase rare patterns, degrade model quality, or reinforce stylistic tics.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
 - [Green Hushing](concepts/GreenHushing.md) — Companies doing sustainability or social-impact work while avoiding public language that creates backlash risk.

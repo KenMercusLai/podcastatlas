@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2403
+topic_total_pages: 2405
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -2305,6 +2305,9 @@ topic_concepts:
   - key: "NeedDrivenStartupIdeas"
     title: "Need-Driven Startup Ideas"
     url: "/wiki/concepts/needdrivenstartupideas/"
+  - key: "NegativeParallelism"
+    title: "Negative Parallelism"
+    url: "/wiki/concepts/negativeparallelism/"
   - key: "NeoCloud"
     title: "Neo Cloud"
     url: "/wiki/concepts/neocloud/"
@@ -6393,6 +6396,9 @@ topic_sources:
   - key: "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128"
     title: "AI is eating up the world's computing memory"
     url: "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+  - key: "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128"
+    title: "AI loves negative parallelism"
+    url: "/wiki/sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128/"
   - key: "tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128"
     title: "AI makes it easier to code websites — including ones that scam consumers"
     url: "/wiki/sources/tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128/"

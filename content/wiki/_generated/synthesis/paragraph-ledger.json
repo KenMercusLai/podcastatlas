@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
       "c028892a2d50db645a114ab75b1d3b261fe9f6136ee91e1c379ef58d9ec989a0",
       "6c34209727f75104903943b071128ff109161df77edfcda038729ce7304fa300",
       "41a98bea9841429961e472ee8bccfe10370044f54128de4d1fbfe77e3ac78eae",
@@ -222,11 +223,33 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 220
+    "paragraph_count": 221
   },
-  "overview_commit": "71248d9f4ed672a1c2b39202b6d732b4debbdf3a",
-  "overview_digest": "d196d61a841cee2c0f0807abfc1dc9c36bf04e6a0e900e305b2b2e60361e1131",
+  "overview_commit": "08b88a61f9fc8b89f22aa19eff90cd232f10cb53",
+  "overview_digest": "80d05b32be0bfa24ff6a4840c639093143af2a2d9cf9e4b627dd03b7470d60b0",
   "paragraphs": [
+    {
+      "id": "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128]], a [[MarketplaceTech]] episode with [[WillOremus]] of [[TheAtlantic|The Atlantic]] on [[NegativeParallelism]] as a recognizable AI-writing tell. It adds [[NegativeParallelism]] while extending [[MarketplaceTech]], [[Pangram]], [[AIWritingDetection]], [[AITextWatermarking]], [[AIContentProvenance]], [[ModelCollapse]], and [[HumanAuthorshipPremium]]. Its core synthesis is that AI authorship signals are cultural and statistical as much as technical: a human rhetorical device can become suspicious when models overuse it, model-generated text can reinforce the tic through synthetic-data feedback, and frequent AI use may pull human writing toward the same style. No settled contradiction is recorded; the next-word-prediction explanation and human-style contagion concern remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3
+      },
+      "wikilinks": [
+        "AIContentProvenance",
+        "AITextWatermarking",
+        "AIWritingDetection",
+        "HumanAuthorshipPremium",
+        "MarketplaceTech",
+        "ModelCollapse",
+        "NegativeParallelism",
+        "Pangram",
+        "TheAtlantic",
+        "WillOremus",
+        "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "c028892a2d50db645a114ab75b1d3b261fe9f6136ee91e1c379ef58d9ec989a0",
       "primary_topic": "work-education-and-society",

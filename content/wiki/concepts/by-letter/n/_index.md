@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 5439
+wiki_total_pages: 5440
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "NegativeJobAmenities"
     title: "Negative Job Amenities"
     url: "/wiki/concepts/negativejobamenities/"
+  - key: "NegativeParallelism"
+    title: "Negative Parallelism"
+    url: "/wiki/concepts/negativeparallelism/"
   - key: "NegativeRealEstate"
     title: "Negative Real Estate / 负动产"
     url: "/wiki/concepts/negativerealestate/"

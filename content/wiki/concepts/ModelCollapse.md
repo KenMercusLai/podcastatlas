@@ -2,8 +2,8 @@
 title: "Model Collapse"
 type: concept
 tags: [ai, training-data, model-quality]
-sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-07
+sources: [tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-24
 ---
 
 # Model Collapse
@@ -16,6 +16,8 @@ The concept turns synthetic data from a simple scaling solution into a risk that
 
 [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds a consumer-platform route into the same risk. The [[MarketplaceTech]] episode discusses whether large volumes of [[AISlop]] could create feedback loops for future AI training, making platform quality and training-data quality part of the same problem.
 
+[[tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128]] adds a narrower style-feedback example through [[NegativeParallelism]]. [[WillOremus]] says a model that overuses a construction can produce web text or synthetic data that later models train on, causing the same tic to become more common. The source does not prove full model collapse; it shows how recursive data can amplify style patterns before broader quality degradation is visible.
+
 ## Key Claims
 - Repeated training on generated outputs can narrow the distribution a model learns.
 - Minority patterns, rare cases, edge cases, and unusual styles are especially exposed when synthetic averages dominate.
@@ -24,6 +26,7 @@ The concept turns synthetic data from a simple scaling solution into a risk that
 - Media-scale [[AISlop]] can become a data-quality problem if it enters future crawls.
 - Model collapse matters beyond aesthetics because high-stakes systems may depend on rare or outlier cases.
 - Public platforms can become part of the model-collapse risk surface if AI-generated material is published at scale and later recrawled as training data.
+- Recursive AI text can reinforce specific stylistic tics even when the evidence does not yet show broad model degradation.
 
 ## Connections
 - [[KateCrawford]] - source speaker.
@@ -34,3 +37,4 @@ The concept turns synthetic data from a simple scaling solution into a risk that
 - [[HumanJudgmentUnderAI]] - review and evaluation remain necessary when generated outputs look plausible.
 - [[MarketplaceTech]] and [[MerriamWebster]] - mainstream slop discussion that reinforces the training-data feedback concern.
 - [[ChaSheng]], [[AITrainingDataScarcity]], and [[AIDataFlywheel]] - training-practice interpretation added by the Qizhulou Yan Binke episode.
+- [[NegativeParallelism]], [[WillOremus]], and [[AIWritingDetection]] - style-feedback example added by Marketplace Tech.

@@ -2,8 +2,8 @@
 title: "Pangram"
 type: entity
 tags: [ai, writing, detection]
-sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
-last_updated: 2026-08-10
+sources: [tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
+last_updated: 2026-08-24
 ---
 
 # Pangram
@@ -16,8 +16,11 @@ Its wiki role is therefore cautionary. Pangram sits inside [[AIWritingDetection]
 
 This source changes Pangram's wiki role from only a cautionary detector example to a platform-infrastructure case. The detector is still not treated as proof, but it becomes part of a broader disclosure workflow where users can report mistakes and writers can add process statements about AI use.
 
+[[tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128]] adds Pangram as a corpus-measurement source for [[NegativeParallelism]]. The episode says Pangram found the "not X, but Y" construction about three times more often in AI-generated prose than in entirely human writing, making Pangram relevant not only as a detector product but also as a source of comparative style evidence.
+
 ## Connections
 - [[CaitlinTalbot]] and [[TheIntelligence]] - source context.
 - [[AIWritingDetection]], [[AIDetectorBias]], and [[AIWritingPedagogy]] - concepts connected to detector reliability.
 - [[HumanJudgmentUnderAI]] - broader responsibility frame.
 - [[Substack]], [[ChrisBest]], [[AIContentProvenance]], and [[AIAuthorshipPresence]] - platform transparency and reader-expectation branch.
+- [[WillOremus]], [[TheAtlantic|The Atlantic]], and [[NegativeParallelism]] - Marketplace Tech branch on AI-writing tics.

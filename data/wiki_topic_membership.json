@@ -38364,6 +38364,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "NegativeParallelism": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NegativeRealEstate": [
     {
       "key": "economics",
@@ -66479,6 +66486,13 @@
     }
   ],
   "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",
