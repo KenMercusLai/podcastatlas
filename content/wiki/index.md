@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》927丨做生意的最高境界是什么？](sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr.md) — 芮淇讲透资治通鉴 episode on Fu Xie's warning about eunuch-rooted Yellow Turban disorder, Zhang Mancheng's Nanyang branch, Jia Cong's Jiaozhi pacification, and source-scoped business composure.
 - [《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利](sources/zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o.md) — 芮淇讲透资治通鉴 episode on Lu Zhi's Guangzong siege, Zuo Feng's inspection and gift-refusal slander, Emperor Ling's recall order, and Dong Zhuo's replacement setup.
 - [《资治通鉴·汉纪》929丨对事不对人，你信了吗？](sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3.md) — 芮淇讲透资治通鉴 episode on Huangfu Song's 184 CE Yellow Turban victories, Zhang Xiu's Five-Pecks-style rising, Li Xie's Anping Wang warning, and Gai Xun separating public duty from private grievance.
 - [《资治通鉴·汉纪》930丨如何破除贪心和不甘心？](sources/zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd.md) — 芮淇讲透资治通鉴 episode on Gai Xun's Qiang-front reputation, Zhu Jun's Nanyang Yellow Turban campaign, Sun Jian's early recognition, and capability as the answer to greed and resentment.
@@ -1449,6 +1450,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [贾从 / Jia Cong (late Han)](entities/JiaCongLateHan.md) — Late-Han official who pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, and appointing clean local officials.
+- [交趾郡 / Jiaozhi Commandery](entities/JiaozhiCommandery.md) — Southern commandery in today's northern Vietnam/Red River region, source case for extraction-driven rebellion and Jia Cong's root-cause pacification.
 - [左丰 / Zuo Feng (late Han)](entities/ZuoFengLateHan.md) — Small yellow gate whose inspection report after Lu Zhi's gift refusal leads Emperor Ling to recall Lu Zhi and appoint Dong Zhuo.
 - [张梁 / Zhang Liang (Yellow Turban)](entities/ZhangLiangYellowTurban.md) — Yellow Turban leader killed by Huangfu Song at Guangzong in Hanji 929, disambiguated from Zhang Liang the early-Han strategist.
 - [张宝 / Zhang Bao (Yellow Turban)](entities/ZhangBaoYellowTurban.md) — Zhang Jiao's brother killed by Huangfu Song at Quyang in Hanji 929, disambiguated from Zhang Bao / 张苞 in the Li-Guo branch.
@@ -8944,6 +8947,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where an official first diagnoses why people rebelled, then combines relief, reassurance, clean appointments, and targeted punishment.
+- [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 7491
+wiki_total_pages: 7493
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "JiaoheAncientCity"
     title: "交河故城 / Jiaohe Ancient City"
     url: "/wiki/entities/jiaoheancientcity/"
+  - key: "JiaozhiCommandery"
+    title: "交趾郡 / Jiaozhi Commandery"
+    url: "/wiki/entities/jiaozhicommandery/"
   - key: "JDHealth"
     title: "京东健康"
     url: "/wiki/entities/jdhealth/"
@@ -1058,6 +1061,9 @@ wiki_pages:
   - key: "JorgeOfBurgos"
     title: "豪尔赫 / Jorge of Burgos"
     url: "/wiki/entities/jorgeofburgos/"
+  - key: "JiaCongLateHan"
+    title: "贾从 / Jia Cong (late Han)"
+    url: "/wiki/entities/jiaconglatehan/"
   - key: "JiaYuanchun"
     title: "贾元春 / Jia Yuanchun"
     url: "/wiki/entities/jiayuanchun/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "fee792d2d3a363d08fa62ba93c1ff393f7068a0e901761816ccdd04f5e382c15",
       "c1c272cdaec6b67eb617285242627455eeef6fae3f5f11f5f92655fef97f8a58",
       "cdea86fef2d1b91587e33bccd808571c8e332d1e8df05f72d32ca56d4e2d9343",
       "d13bad81a6f78413000d2906dc9de9254f6a0c53d1b3f3d1e14128e246b3930c",
@@ -215,11 +216,41 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 213
+    "paragraph_count": 214
   },
-  "overview_commit": "d73d2fbd35749987232ee37ee4a2c0e39dd50ec7",
-  "overview_digest": "faecd624dc531a5e519b30e274f107a0998e3f86a51d7dfd5956d7ca051cbb34",
+  "overview_commit": "787cf18c984d9bd0273977cc99af808bc7e6abe6",
+  "overview_digest": "8f6222c33f62b8a632f4bd7f4efc3dcbf51f3b739b3daff68ba99708c8ba01aa",
   "paragraphs": [
+    {
+      "id": "fee792d2d3a363d08fa62ba93c1ff393f7068a0e901761816ccdd04f5e382c15",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 184 CE late-Han layer immediately before [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]]. It adds [[JiaCongLateHan|贾从]], [[JiaozhiCommandery|交趾郡]], [[RootCausePacification|查因安抚式治理]], and [[MerchantComposureDiscipline|商人定气功夫]], while extending [[FuXie|傅燮]], [[ZhaoZhongLateHan|赵忠]], [[EmperorLingOfHan|汉灵帝]], [[YellowTurbansLateHan|黄巾军]], [[ZhangManchengLateHan|张曼成]], [[QinJieLateHan|秦颉]], [[NanyangCommandery|南阳郡]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]]. Its core synthesis is that surface crises are solved only when the governing actor identifies the operative root: Fu Xie names eunuch-controlled court feedback as the deeper source behind Yellow Turban disorder but is punished through Zhao Zhong's reward-channel slander, while Jia Cong pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, removing violent leaders, and appointing clean local officials. No settled contradiction is recorded; the transcript's \"傅解\" is normalized to [[FuXie|傅燮]], and the business-composure opening remains a source-scoped analogy rather than a concrete commercial method.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CourtFeedbackCollapse",
+        "EmperorLingOfHan",
+        "FuXie",
+        "JiaCongLateHan",
+        "JiaozhiCommandery",
+        "MerchantComposureDiscipline",
+        "NanyangCommandery",
+        "PeopleBasedPoliticalSecurity",
+        "QinJieLateHan",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "YellowTurbansLateHan",
+        "ZhangManchengLateHan",
+        "ZhaoZhongLateHan",
+        "zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr",
+        "zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o"
+      ]
+    },
     {
       "id": "c1c272cdaec6b67eb617285242627455eeef6fae3f5f11f5f92655fef97f8a58",
       "primary_topic": "governance-and-institutions",

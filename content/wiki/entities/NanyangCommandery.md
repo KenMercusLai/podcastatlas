@@ -2,7 +2,7 @@
 title: "南阳郡 / Nanyang Commandery"
 type: entity
 tags: [place, commandery, qin-state, chu-state, warring-states, late-han]
-sources: [zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]
+sources: [zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]
 last_updated: 2026-08-25
 ---
 
@@ -18,6 +18,8 @@ The page is source-scoped. Its importance is administrative rather than biograph
 
 The negotiated surrender at Wan reverses the earlier Song Liu lesson. Instead of punishing surrender, Liu Bang accepts [[ChenHuiNanyang|陈恢]]'s proposal, rewards the governor, rewards Chen Hui, and keeps moving west with a safer rear. This makes Nanyang a turning point from anti-Qin vengeance toward [[OccupationPacificationStrategy|占领区怀柔治理]] and [[PoliticalSurrenderCascade|招降示范级联]].
 
+[[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]] adds the first late-Han Yellow Turban Nanyang layer. [[ZhangManchengLateHan|张曼成]] kills Nanyang administrator Chu Gong and holds the field for more than 100 days before [[QinJieLateHan|秦颉]] attacks and kills him. The remnant force then remains available for the successor chain developed in Hanji 930.
+
 [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds the late-Han Yellow Turban version of Nanyang's military role. After [[ZhangManchengLateHan|张曼成]] is killed, [[ZhaoHongLateHan|赵弘]], [[HanZhongLateHan|韩忠]], and [[SunXiaLateHan|孙夏]] continue the [[YellowTurbansLateHan|黄巾军]] command chain against [[ZhuJunLateHan|朱儁]], while Nanyang administrator [[QinJieLateHan|秦颉]] is credited with cutting off Han Zhong's head.
 
 [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds an earlier late-Han crisis marker. Qin Jie, the Nanyang administrator, is killed during [[ZhaoCiLateHan|赵慈]]'s Jiangxia revolt before Jingzhou inspector Wang Min suppresses Zhao Ci. The commandery's role here is brief but shows Nanyang appearing again in a wider late-Han breakdown field.
@@ -28,6 +30,7 @@ The negotiated surrender at Wan reverses the earlier Song Liu lesson. Instead of
 - [[QinState|秦国]], [[WeiState|魏国]], and [[ChuState|楚国]] - recipient, ceding state, and likely territorial background in the episode.
 - [[NanCommandery|南郡]] and [[BeidiCommandery|北地郡]] - comparable Qin commandery-formation branches.
 - [[QinAdministrativeStandardization|秦国行政标准化]] and [[QinEastwardPressure|秦国东进压力]] - administrative and strategic frames.
+- [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]], [[ZhangManchengLateHan|张曼成]], [[QinJieLateHan|秦颉]], and [[YellowTurbansLateHan|黄巾军]] - first late-Han Nanyang Yellow Turban branch.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] and [[ZhaoCiLateHan|赵慈]] - Qin Jie's death during the Jiangxia revolt.
 - [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[YellowTurbansLateHan|黄巾军]], [[ZhuJunLateHan|朱儁]], [[QinJieLateHan|秦颉]], [[HanZhongLateHan|韩忠]], and [[SunXiaLateHan|孙夏]] - late-Han Yellow Turban campaign branch.
 - [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]], [[Jingzhou|荆州]], [[Rangcheng|穰城]], [[ZhangJiLateHan|张济]], [[LiuBiao|刘表]], and [[MourningFramedMilitaryAbsorption|丧礼化收编]] - late-Han contested northern Jingzhou branch.

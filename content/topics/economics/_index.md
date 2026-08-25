@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1827
+topic_total_pages: 1829
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2704,6 +2704,9 @@ topic_concepts:
   - key: "ZouXikouMigration"
     title: "Zou Xikou Migration"
     url: "/wiki/concepts/zouxikoumigration/"
+  - key: "MerchantComposureDiscipline"
+    title: "商人定气功夫 / Merchant Composure Discipline"
+    url: "/wiki/concepts/merchantcomposurediscipline/"
   - key: "ImperialFiscalElasticity"
     title: "皇室财政弹性 / Imperial Fiscal Elasticity"
     url: "/wiki/concepts/imperialfiscalelasticity/"
@@ -5451,6 +5454,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza"
     title: "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？"
     url: "/wiki/sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza/"
+  - key: "zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr"
+    title: "《资治通鉴·汉纪》927丨做生意的最高境界是什么？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr/"
   - key: "reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk"
     title: "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】"
     url: "/wiki/sources/reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk/"

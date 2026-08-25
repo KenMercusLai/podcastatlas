@@ -23971,6 +23971,10 @@
     "title": "贾宝玉 / Jia Baoyu",
     "url": "/wiki/entities/jiabaoyu/"
   },
+  "JiaCongLateHan": {
+    "title": "贾从 / Jia Cong (late Han)",
+    "url": "/wiki/entities/jiaconglatehan/"
+  },
   "JiaFamilyHousehold": {
     "title": "贾府 / Jia Family Household",
     "url": "/wiki/entities/jiafamilyhousehold/"
@@ -24138,6 +24142,10 @@
   "Jiaoyi": {
     "title": "焦邑 / Jiaoyi",
     "url": "/wiki/entities/jiaoyi/"
+  },
+  "JiaozhiCommandery": {
+    "title": "交趾郡 / Jiaozhi Commandery",
+    "url": "/wiki/entities/jiaozhicommandery/"
   },
   "JiatingGongyeshe": {
     "title": "家庭工业社",
@@ -30258,6 +30266,10 @@
   "MerchantAristocraticValueConflict": {
     "title": "Merchant-Aristocratic Value Conflict / 贵族-商人义利冲突",
     "url": "/wiki/concepts/merchantaristocraticvalueconflict/"
+  },
+  "MerchantComposureDiscipline": {
+    "title": "商人定气功夫 / Merchant Composure Discipline",
+    "url": "/wiki/concepts/merchantcomposurediscipline/"
   },
   "MerchantToIndustrialCityUpgrade": {
     "title": "Merchant To Industrial City Upgrade",
@@ -39226,6 +39238,10 @@
   "RootBasePriority": {
     "title": "Root-Base Priority / 根本根据地优先",
     "url": "/wiki/concepts/rootbasepriority/"
+  },
+  "RootCausePacification": {
+    "title": "查因安抚式治理 / Root-Cause Pacification",
+    "url": "/wiki/concepts/rootcausepacification/"
   },
   "RootCausePublicHealthResearch": {
     "title": "Root-Cause Public Health Research",
@@ -56182,6 +56198,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr": {
+    "title": "《资治通鉴·汉纪》927丨做生意的最高境界是什么？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr/"
   },
   "zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o": {
     "title": "《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利",

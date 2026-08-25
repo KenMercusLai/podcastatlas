@@ -2,11 +2,15 @@
 title: "黄巾军 / Yellow Turbans (late Han)"
 type: entity
 tags: [movement, rebellion, late-han]
-sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
+sources: [zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
 last_updated: 2026-08-25
 ---
 
 # 黄巾军 / Yellow Turbans (late Han)
+
+[[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]] supplies the earliest layer currently on this page. [[FuXie|傅燮]] argues that the [[YellowTurbansLateHan|Yellow Turban]] rising is a surface crisis whose deeper cause lies inside [[EmperorLingOfHan|汉灵帝]]'s eunuch-dominated court. The movement therefore enters this source not only as a battlefield enemy, but as evidence of [[CourtFeedbackCollapse|君臣反馈失灵]].
+
+The same episode also adds the first Nanyang branch before Hanji 930. [[ZhangManchengLateHan|张曼成]] kills Nanyang administrator Chu Gong and holds the field for more than 100 days before [[QinJieLateHan|秦颉]] attacks and kills him, leaving a remnant force that later elects [[ZhaoHongLateHan|赵弘]].
 
 [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] supplies the immediate 184 CE campaign layer before Hanji 929's main-force suppression. [[HuangfuSongLateHan|皇甫嵩]] and [[ZhuJunLateHan|朱儁]] defeat Yellow Turban forces in the Runan-[[ChenStateLateHan|陈国]] field, while [[LuZhiLateHan|卢植]] drives [[ZhangJiaoLateHan|张角]] back into Guangzong.
 
@@ -23,6 +27,7 @@ The same source then follows successive leaders [[HanZhongLateHan|韩忠]] and [
 This page covers the broad late-Han Yellow Turban movement field as it appears in Hanji 930. It remains distinct from later or regional successor pages such as [[QingzhouYellowTurbans|青州黄巾军]], [[BaiboArmy|白波军]], and [[HeishanArmy|黑山军]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]], [[FuXie|傅燮]], [[ZhaoZhongLateHan|赵忠]], [[ZhangManchengLateHan|张曼成]], [[QinJieLateHan|秦颉]], [[NanyangCommandery|南阳郡]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - internal-court diagnosis and earliest Nanyang branch.
 - [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[LuZhiLateHan|卢植]], [[ZuoFengLateHan|左丰]], [[DongZhuo|董卓]], [[HuangfuSongLateHan|皇甫嵩]], and [[ZhuJunLateHan|朱儁]] - Runan-Chen victories, Guangzong siege, and inspection-triggered replacement.
 - [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangLiangYellowTurban|张梁]], [[ZhangBaoYellowTurban|张宝]], and [[ZhangJiaoLateHan|张角]] - main-force suppression in 184 CE.
 - [[ZhangJiaoLateHan|张角]] and [[TaipingDao|太平道]] - earlier religious-mobilization background for the Yellow Turban uprising.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5402
+wiki_total_pages: 5404
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -956,6 +956,9 @@ wiki_pages:
   - key: "MingjiaDisputation"
     title: "名辩 / Mingjia Disputation"
     url: "/wiki/concepts/mingjiadisputation/"
+  - key: "MerchantComposureDiscipline"
+    title: "商人定气功夫 / Merchant Composure Discipline"
+    url: "/wiki/concepts/merchantcomposurediscipline/"
   - key: "MamaHui"
     title: "妈妈会 / Mama Hui"
     url: "/wiki/concepts/mamahui/"

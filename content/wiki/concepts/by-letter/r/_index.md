@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5402
+wiki_total_pages: 5404
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "RitualAmbushCountercoup"
     title: "宗庙仪式反制政变 / Ritual Ambush Countercoup"
     url: "/wiki/concepts/ritualambushcountercoup/"
+  - key: "RootCausePacification"
+    title: "查因安抚式治理 / Root-Cause Pacification"
+    url: "/wiki/concepts/rootcausepacification/"
   - key: "RedChamberEntryReading"
     title: "红楼入口式阅读 / Red Chamber Entry Reading"
     url: "/wiki/concepts/redchamberentryreading/"
