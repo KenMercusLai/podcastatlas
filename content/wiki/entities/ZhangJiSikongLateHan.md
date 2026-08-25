@@ -2,11 +2,13 @@
 title: "张济 / Zhang Ji (late-Han sikong)"
 type: entity
 tags: [person, late-han, official, court]
-sources: [zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x]
+sources: [zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x]
 last_updated: 2026-08-26
 ---
 
 # 张济 / Zhang Ji (late-Han sikong)
+
+[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] gives this Zhang Ji's first office marker: after an earthquake in 179 CE, Yuan Feng is dismissed as sikong and Zhang Ji is appointed to the post. The episode does not yet develop his later false-reporting role.
 
 [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] identifies this Zhang Ji as the sikong paired with [[XuXuTaiweiLateHan|许訏]] in [[EmperorLingOfHan|汉灵帝]]'s 182 CE anti-corruption review. The episode says he is close to powerful eunuchs, accepts benefits, protects corrupt officials tied to that network, and falsely reports clean distant administrators as harmful.
 
@@ -14,6 +16,7 @@ This page exists to prevent an identity collision with [[ZhangJiLateHan|张济 /
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] - first office marker as 179 CE sikong.
 - [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] - source episode.
 - [[XuXuTaiweiLateHan|许訏]] - paired official in the false report.
 - [[ChenDanLateHan|陈耽]] - exposes the report's private-party logic.

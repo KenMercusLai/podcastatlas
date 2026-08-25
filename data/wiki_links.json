@@ -21647,6 +21647,10 @@
     "title": "Hostage Diplomacy Rupture / 质子外交破裂",
     "url": "/wiki/concepts/hostagediplomacyrupture/"
   },
+  "HostageRansomDeterrence": {
+    "title": "Hostage-Ransom Deterrence / 劫质禁赎威慑",
+    "url": "/wiki/concepts/hostageransomdeterrence/"
+  },
   "HostileMediaEffect": {
     "title": "Hostile Media Effect / 敌意媒体效应",
     "url": "/wiki/concepts/hostilemediaeffect/"
@@ -48499,6 +48503,10 @@
     "title": "王黄 / Wang Huang",
     "url": "/wiki/entities/wanghuang/"
   },
+  "WangJiLateHan": {
+    "title": "王吉 / Wang Ji (late Han)",
+    "url": "/wiki/entities/wangjilatehan/"
+  },
   "WangJiQin": {
     "title": "王稽 / Wang Ji (Qin envoy)",
     "url": "/wiki/entities/wangjiqin/"
@@ -48570,6 +48578,10 @@
   "WangMeirenLateHan": {
     "title": "王美人 / 灵怀皇后 (late Han)",
     "url": "/wiki/entities/wangmeirenlatehan/"
+  },
+  "WangMengLateHan": {
+    "title": "王萌 / Wang Meng (late Han)",
+    "url": "/wiki/entities/wangmenglatehan/"
   },
   "WangMian": {
     "title": "王冕",
@@ -51518,6 +51530,10 @@
   "YinLiLateHan": {
     "title": "尹礼 / Yin Li (late Han)",
     "url": "/wiki/entities/yinlilatehan/"
+  },
+  "YinLihua": {
+    "title": "阴丽华 / Yin Lihua",
+    "url": "/wiki/entities/yinlihua/"
   },
   "YinQi": {
     "title": "Yin Qi",
@@ -57170,6 +57186,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus": {
+    "title": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
   },
   "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu": {
     "title": "《资治通鉴·汉纪》916丨命好和运好哪个更重要？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 5481
+wiki_total_pages: 5482
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "HostageBackedDependencyTrap"
     title: "Hostage-Backed Dependency Trap / 家属质押式依附陷阱"
     url: "/wiki/concepts/hostagebackeddependencytrap/"
+  - key: "HostageRansomDeterrence"
+    title: "Hostage-Ransom Deterrence / 劫质禁赎威慑"
+    url: "/wiki/concepts/hostageransomdeterrence/"
   - key: "HostileMediaEffect"
     title: "Hostile Media Effect / 敌意媒体效应"
     url: "/wiki/concepts/hostilemediaeffect/"

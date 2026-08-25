@@ -2,11 +2,15 @@
 title: "曹节 / Cao Jie (late Han eunuch)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
+sources: [zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
 last_updated: 2026-08-26
 ---
 
 # 曹节 / Cao Jie (late Han eunuch)
+
+[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] places Cao Jie at a pre-Hanji-916 power peak beside [[WangFuLateHan|王甫]]. Their relatives and retainers are described as occupying offices and extracting public wealth, while [[YangQiuLateHan|阳球]]'s first strike destroys Wang Fu and [[DuanJiongLateHan|段熲]] but only foreshadows Cao Jie as the stronger next target.
+
+The source therefore adds a setup layer to Cao Jie's rebound. Yang Qiu thinks killing Wang Fu proves he can continue against Cao Jie, but the host frames Cao Jie's relationship with [[EmperorLingOfHan|汉灵帝]] as deeper than Yang Qiu understands.
 
 [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] backfills Cao Jie's recovery before the Lyu Qiang and Liu He branches. During [[YuGuirenLateHan|于贵人]]'s funeral procession, he sees [[WangFuLateHan|王甫]]'s mutilated corpse abandoned by the road and turns the scene into an argument that palace eunuchs must regroup rather than scatter home.
 
@@ -25,6 +29,7 @@ This earlier layer changes the Cao Jie page from a death marker into a surveilla
 The episode pairs Cao Jie with the older grievance against [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]]. That makes him more than a succession vacancy. His death is a handoff point inside the palace-favorite channel, where one generation's anti-eunuch wounds become the background for Zhao Zhong's later greed, arrogance, and access to [[EmperorLingOfHan|汉灵帝]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], and [[DuanJiongLateHan|段熲]] - pre-destruction power peak and Yang Qiu's next-target setup.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[YuGuirenLateHan|于贵人]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], and [[ShangshuTaiImperialAccess|尚书台近侍权力]] - funeral-triggered regrouping, Yang Qiu transfer, and shangshu ling access recovery.
 - [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[ZhuYuLateHan|朱瑀]], [[YangQiuLateHan|阳球]], and [[WangFuLateHan|王甫]] - merit-title criticism and next-target setup before the plot leak.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[YangQiuLateHan|阳球]], [[ChengHuangLateHan|程璜]], and [[EmperorLingOfHan|汉灵帝]] - pre-181 plot target and exposure beneficiary.

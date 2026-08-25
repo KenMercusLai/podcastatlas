@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1877
+topic_total_pages: 1880
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1189,6 +1189,9 @@ topic_concepts:
   - key: "HostageDiplomacyRupture"
     title: "Hostage Diplomacy Rupture / 质子外交破裂"
     url: "/wiki/concepts/hostagediplomacyrupture/"
+  - key: "HostageRansomDeterrence"
+    title: "Hostage-Ransom Deterrence / 劫质禁赎威慑"
+    url: "/wiki/concepts/hostageransomdeterrence/"
   - key: "HostileMediaEffect"
     title: "Hostile Media Effect / 敌意媒体效应"
     url: "/wiki/concepts/hostilemediaeffect/"
@@ -4901,6 +4904,9 @@ topic_entities:
   - key: "Gethen"
     title: "格森星 / Gethen"
     url: "/wiki/entities/gethen/"
+  - key: "QiaoXuanLateHan"
+    title: "桥玄 / Qiao Xuan (late Han)"
+    url: "/wiki/entities/qiaoxuanlatehan/"
   - key: "Orgoreyn"
     title: "欧格瑞恩 / Orgoreyn"
     url: "/wiki/entities/orgoreyn/"
@@ -5592,6 +5598,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus"
+    title: "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
   - key: "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu"
     title: "《资治通鉴·汉纪》916丨命好和运好哪个更重要？"
     url: "/wiki/sources/zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu/"

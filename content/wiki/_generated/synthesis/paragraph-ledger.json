@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "16f50ea5ab1829d6e72bc8ff55aef50147f553c9bef0368b8376edd4c2cbe6f3",
       "9b984926e9ec6240ab93f21d16c52d8d346569c7d3c6d3619745a53ef5ec81d4",
       "11b76d31b206a5e924f75936cdc8d503cf6d0e98102c218cf68c1056ab73485c",
       "733f743cc3c0eedc1a1a2e9b7fd072b78a70e7539a10bc84265c38c1ccddead5",
@@ -230,11 +231,43 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 228
+    "paragraph_count": 229
   },
-  "overview_commit": "babc1be2129dc9fd4b7f21954ae6ce99a5d9b805",
-  "overview_digest": "bf79352f4545f8ff5836b96ea48d039b31dd3c2243ddd4af5fad463cb06bacbe",
+  "overview_commit": "8a10e659660f8ed66fc77328bde2c306e50d5a91",
+  "overview_digest": "639e74828bf6c152bea6ad8d730d87709251d8a70a6e9055449723499b44c075",
   "paragraphs": [
+    {
+      "id": "16f50ea5ab1829d6e72bc8ff55aef50147f553c9bef0368b8376edd4c2cbe6f3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 179 CE late-Han layer immediately before [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]]. It adds [[WangJiLateHan|王吉]], [[WangMengLateHan|王萌]], [[YinLihua|阴丽华]], and [[HostageRansomDeterrence|劫质禁赎威慑]], while extending [[QiaoXuanLateHan|桥玄]], [[LiuXiu|刘秀]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], [[DuanJiongLateHan|段熲]], [[CaoJieLateHan|曹节]], [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], [[YangBiao|杨彪]], [[ZhangJiSikongLateHan|张济]], and [[CommunicationBoundarySetting|Communication Boundary Setting]]. Its core synthesis is that public order and palace politics both turn on whether private attachment can be converted into leverage: Qiao refuses ransom to remove kidnapping payoff, while Yang Qiu converts outrage against Wang Fu's network into a brutal prosecution whose overconfidence sets up Cao Jie's rebound. No settled contradiction is recorded; ASR variants 乔璇, 王府, 曹杰, 杨秋/杨求, 段炯, 王杰, and 王猛 are normalized to the canonical late-Han pages.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoJieLateHan",
+        "CommunicationBoundarySetting",
+        "DuanJiongLateHan",
+        "EmperorLingOfHan",
+        "HostageRansomDeterrence",
+        "LiuXiu",
+        "QiaoXuanLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TenAttendantsLateHan",
+        "WangFuLateHan",
+        "WangJiLateHan",
+        "WangMengLateHan",
+        "YangBiao",
+        "YangQiuLateHan",
+        "YinLihua",
+        "ZhangJiSikongLateHan",
+        "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
+        "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu"
+      ]
+    },
     {
       "id": "9b984926e9ec6240ab93f21d16c52d8d346569c7d3c6d3619745a53ef5ec81d4",
       "primary_topic": "history-and-geopolitics",

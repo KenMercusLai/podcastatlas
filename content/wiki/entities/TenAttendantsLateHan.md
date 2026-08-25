@@ -2,11 +2,15 @@
 title: "十常侍 / Ten Attendants (late Han)"
 type: entity
 tags: [group, eunuchs, late-han, court, china]
-sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+sources: [zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
 last_updated: 2026-08-26
 ---
 
 # 十常侍 / Ten Attendants (late Han)
+
+[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] adds the network-abuse layer immediately before the Hanji 916 regrouping scene. The episode shows [[WangFuLateHan|王甫]] and [[CaoJieLateHan|曹节]] at a power peak where relatives and retainers occupy offices, public wealth is seized, and local officials such as [[WangJiLateHan|王吉]] can become violent extensions of court protection.
+
+This is still before the named Ten Attendants crisis hardens, but it explains why anti-eunuch politics could begin as a prosecution against Wang Fu's household and then recoil once [[YangQiuLateHan|阳球]] turns toward Cao Jie.
 
 [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] adds a pre-Hanji-918 regrouping layer before the named Ten Attendants faction hardens. The episode centers [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], and [[ZhuYuLateHan|朱瑀]] at the moment when Wang Fu's public corpse humiliation helps Cao Jie rebuild eunuch solidarity and regain court leverage through [[ShangshuTaiImperialAccess|尚书台近侍权力]].
 
@@ -43,6 +47,7 @@ The group matters because palace access lets it move faster than its outside ene
 The source treats the Ten Attendants' end as a mutual-destruction prelude rather than a clean restoration. Killing the eunuchs does not restore court order; it creates the vacuum that [[DongZhuo|董卓]] exploits in [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangFuLateHan|王甫]], [[CaoJieLateHan|曹节]], [[WangJiLateHan|王吉]], [[YangBiao|杨彪]], and [[YangQiuLateHan|阳球]] - network-abuse and prosecution layer before the eunuch regrouping.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], [[ZhuYuLateHan|朱瑀]], and [[ShangshuTaiImperialAccess|尚书台近侍权力]] - pre-faction regrouping and access recovery after Wang Fu's public corpse humiliation.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ChengHuangLateHan|程璜]], [[LiuHeSituLateHan|刘郃]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - pre-faction eunuch-power and plan-leakage layer.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[CaoJieLateHan|曹节]], [[ZhaoZhongLateHan|赵忠]], [[WangMeirenLateHan|王美人]], and [[EmpressDowagerHe|何太后]] - pre-faction office continuity and palace debt network.

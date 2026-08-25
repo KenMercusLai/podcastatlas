@@ -2,11 +2,13 @@
 title: "Communication Boundary Setting"
 type: concept
 tags: [communication, workplace, social, boundaries, trauma]
-sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+sources: [zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
 last_updated: 2026-08-26
 ---
 
 # Communication Boundary Setting
+
+[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] adds a relationship-boundary opening through the host's claim that there is no true "口误". Filed cautiously, the useful wiki point is that repeated offhand speech can reveal respect, contempt, testing, or relationship positioning; the stronger psychology claim remains source-scoped rather than a settled language rule.
 
 [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] adds an adversity-silence branch. The host's "闭嘴" frame treats restraint as a boundary against venting, arguing, overexplaining, and leaking when a situation is already going badly; the Liu He-Yang Qiu plot then supplies the political extreme, where unmanaged speech and access can become fatal rather than merely awkward.
 
@@ -35,6 +37,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 [[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds a dissent boundary. The episode argues that saying no or challenging a norm requires attention to timing, shared identity, fear, and accumulated credibility; otherwise a truthful challenge can be heard as contempt and trigger defensive obedience.
 
 ## Key Claims
+- Hanji 915 adds that alleged "slips of the tongue" can be relationship-positioning signals, but the page keeps the host's "all slips are subconscious truth" line source-scoped.
 - Hanji 918 adds that silence can be an active boundary when speech would create blame surfaces, leak intent, or consume judgment before the situation is understood.
 - Hanji 946 adds a high-stakes caution: direct boundary-setting has to happen early enough that the situation has not already shifted into a survival fight.
 - A boundary is not only internal preference; it has to be communicated early enough that other people and bystanders can understand the situation.
@@ -51,6 +54,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - Episode 273 adds that tiny defended actions can begin [[SelfWorthJudgmentRecovery|judgment recovery]] before a person can make a larger exit decision.
 
 ## Connections
+- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] and [[SocialSignalInterpretation]] - relationship-boundary branch around "口误" as a possible signal of attitude and respect.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[AdversitySilenceDiscipline|逆境守口]], [[LiuHeSituLateHan|刘郃]], [[YangQiuLateHan|阳球]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - adversity-silence branch where uncontrolled disclosure becomes strategic exposure.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[HeJin|何进]], [[ZhangRangLateHan|张让]], [[DuanGuiLateHan|段珪]], and [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]] - source-scoped "打直球" analogy as a boundary-timing warning.
 - [[SelfPermission]], [[FemaleFriendshipRecognition]], [[GynecologicalExamDignity]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's self-permission and refusal branch.

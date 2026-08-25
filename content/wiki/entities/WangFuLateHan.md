@@ -2,11 +2,15 @@
 title: "王甫 / Wang Fu (late Han)"
 type: entity
 tags: [late-han, han, eunuch, court-politics]
-sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
+sources: [zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
 last_updated: 2026-08-26
 ---
 
 # 王甫 / Wang Fu (late Han)
+
+[[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] supplies Wang Fu's pre-destruction exposure. The episode places him beside [[CaoJieLateHan|曹节]] as a powerful eunuch whose family members and retainers occupy offices, while his adopted son [[WangJiLateHan|王吉]] is accused of mass killing and corpse display as Pei chancellor.
+
+The same source makes [[YangBiao|杨彪]]'s report against Wang Fu's Jingzhao retainers the evidence channel that lets [[YangQiuLateHan|阳球]] attack the network. Wang Fu is arrested with [[DuanJiongLateHan|段熲]], Wang Ji, and [[WangMengLateHan|王萌]], then beaten to death after prison interrogation and publicly labeled as a criminal minister.
 
 [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] adds the public afterlife of Wang Fu's destruction. During [[YuGuirenLateHan|于贵人]]'s funeral, [[CaoJieLateHan|曹节]] sees Wang Fu's mutilated corpse abandoned by the roadside; the source treats that humiliation as the emotional and political trigger for Cao Jie to reunify the eunuch side and move against [[YangQiuLateHan|阳球]].
 
@@ -17,6 +21,7 @@ last_updated: 2026-08-26
 The episode uses Wang Fu mainly to situate Cao Jie's power and the anti-eunuch hostility facing the court. His page is source-scoped until later ingests add a fuller Wang Fu branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangJiLateHan|王吉]], [[WangMengLateHan|王萌]], [[YangBiao|杨彪]], [[DuanJiongLateHan|段熲]], and [[YangQiuLateHan|阳球]] - pre-destruction family-network exposure, prosecution, and corpse humiliation.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[YuGuirenLateHan|于贵人]], [[CaoJieLateHan|曹节]], and [[YangQiuLateHan|阳球]] - roadside corpse humiliation that triggers eunuch regrouping against Yang Qiu.
 - [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] and [[YangQiuLateHan|阳球]] — prosecution success that fuels the later anti-Cao Jie attempt.
 - [[CaoJieLateHan]] — nearby eunuch powerholder in the Hanji 918 background.
