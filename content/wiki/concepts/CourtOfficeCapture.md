@@ -2,11 +2,15 @@
 title: "Court Office Capture / 朝廷开府任官失序"
 type: concept
 tags: [late-han, court, legitimacy, institutions, appointments]
-sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
+sources: [zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
 last_updated: 2026-08-26
 ---
 
 # Court Office Capture / 朝廷开府任官失序
+
+[[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]] adds an earlier appointment-order prelude before document-office access, fee extraction, and armed capture. [[HongduMenxue|鸿都门学]] gives [[EmperorLingOfHan|汉灵帝]] a favored literary channel that can bypass or counter the士人 selection field, while Xidi office sale makes offices priced commodities and sends proceeds to the ruler's private store.
+
+This branch shows court-office capture before a single broker or warlord owns the court. The normal personnel order is hollowed first by parallel prestige channels and open monetization: selection can be shifted toward ruler-favored writers, and officeholding can become a paid route whose costs are later recovered through administration.
 
 [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] adds the document-access precondition before Hanji 921's appointment-accountability diagnosis. [[CaoJieLateHan|曹节]]'s shangshu ling role shows that court-office disorder begins before offices are openly sold or captured by armed men: a low-rank document office can become decisive when it controls memorial routing and frequent access to [[EmperorLingOfHan|汉灵帝]].
 
@@ -48,6 +52,7 @@ The concept differs from ordinary factional recommendation. In this source, offi
 
 ## Key Claims
 - Hanji 916 adds a document-office precondition: court office can become powerful through memorial flow and ruler access before later sale, forged appointment, or armed capture.
+- Hanji 914 adds a prestige-and-price precondition: Hongdu literary favor and Xidi office sale can distort appointment order before document brokers, fee gates, or armed commanders dominate it.
 - Hanji 921 adds an accountability-separation layer: appointment disorder begins when recommendation, testing, and punishment no longer sit in one responsible channel.
 - Hanji 932 adds an appointment-fee layer: before armed captors seize selection channels, palace finance can already make officeholding depend on extractive entry payments.
 - Hanji 933 adds a pre-capture monetization layer: high office can be routed through palace brokers before armed actors openly capture appointment channels.
@@ -61,6 +66,7 @@ The concept differs from ordinary factional recommendation. In this source, offi
 - The pattern helps explain how a weak court can remain symbolically alive while losing control over personnel channels.
 
 ## Connections
+- [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]], [[HongduMenxue|鸿都门学]], [[YangQiuLateHan|阳球]], [[OfficeSaleLegitimacyDamage|买官名节损耗]], and [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] - favored literary appointment channel and Xidi office-sale pricing before later office-capture forms.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[CaoJieLateHan|曹节]], [[EmperorLingOfHan|汉灵帝]], and [[ShangshuTaiImperialAccess|尚书台近侍权力]] - low-rank document office becoming practical inner-court power.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[LyuQiangLateHan|吕强]], [[EmperorLingOfHan|汉灵帝]], and [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] - appointment-accountability diagnosis inside a private-finance remonstrance.
 - [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[SimaZhiLateHan|司马直]], [[EmperorLingOfHan|汉灵帝]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - pre-capture appointment-fee pressure and clean-official refusal.

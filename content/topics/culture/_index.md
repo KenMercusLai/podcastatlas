@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2211
+topic_total_pages: 2212
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -2323,6 +2323,9 @@ topic_concepts:
   - key: "TangFrontierPoetryFieldExperience"
     title: "边塞诗的实地经验 / Tang Frontier Poetry Field Experience"
     url: "/wiki/concepts/tangfrontierpoetryfieldexperience/"
+  - key: "HongduMenxue"
+    title: "鸿都门学 / Hongdu Menxue"
+    url: "/wiki/concepts/hongdumenxue/"
 topic_entities:
   - key: "NineteenTwentyNineSorkin"
     title: "1929 / 《1929》 (Andrew Ross Sorkin)"

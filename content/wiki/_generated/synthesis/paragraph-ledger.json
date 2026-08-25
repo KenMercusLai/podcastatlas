@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6d94ee3b53515873e0a7a3b642cbe834fa6d425a35cfdf72175b68d3e0f55a4a",
       "16f50ea5ab1829d6e72bc8ff55aef50147f553c9bef0368b8376edd4c2cbe6f3",
       "9b984926e9ec6240ab93f21d16c52d8d346569c7d3c6d3619745a53ef5ec81d4",
       "11b76d31b206a5e924f75936cdc8d503cf6d0e98102c218cf68c1056ab73485c",
@@ -231,11 +232,38 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 229
+    "paragraph_count": 230
   },
-  "overview_commit": "8a10e659660f8ed66fc77328bde2c306e50d5a91",
-  "overview_digest": "639e74828bf6c152bea6ad8d730d87709251d8a70a6e9055449723499b44c075",
+  "overview_commit": "baf8eee18f579905b9f2b27f7a4a459a8148d1bd",
+  "overview_digest": "437f50b6190572a54abfdd81a7bb984acb3735bd6170345f36a29cc74ac377f8",
   "paragraphs": [
+    {
+      "id": "6d94ee3b53515873e0a7a3b642cbe834fa6d425a35cfdf72175b68d3e0f55a4a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 178-179 CE late-Han layer immediately before [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]]. It adds [[HongduMenxue|鸿都门学]] and [[YangZhenLateHan|杨震]], while extending [[EmperorLingOfHan|汉灵帝]], [[YangQiuLateHan|阳球]], [[YangQiLateHan|杨琦]], [[SouthernXiongnu|南匈奴]], [[HuzhengChanyu|呼征]], [[OfficeSaleLegitimacyDamage|买官名节损耗]], [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[CourtFeedbackCollapse|君臣反馈失灵]]. Its core synthesis is that Ling's trust choices become institutional damage: Hongdu patronage turns cultural favor into a rival selection channel, Xidi selling turns office into private-treasury revenue and later people extraction, and Yang Qiu/Yang Qi's corrections reach the ruler without matching his political needs. No settled contradiction is recorded; transcript variants 弘都门, 杨求, 杨齐, 岳松, and 江澜 are normalized source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CourtFeedbackCollapse",
+        "CourtOfficeCapture",
+        "EmperorLingOfHan",
+        "HongduMenxue",
+        "HuzhengChanyu",
+        "ImperialPrivateTreasuryExtraction",
+        "OfficeSaleLegitimacyDamage",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "YangQiLateHan",
+        "YangQiuLateHan",
+        "YangZhenLateHan",
+        "zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso",
+        "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus"
+      ]
+    },
     {
       "id": "16f50ea5ab1829d6e72bc8ff55aef50147f553c9bef0368b8376edd4c2cbe6f3",
       "primary_topic": "governance-and-institutions",

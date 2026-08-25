@@ -11809,3 +11809,11 @@ Added source page for Hanji 915: relationship-boundary readings of "口误", Qia
 ## [2026-08-26] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,600 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？
+
+Added source page for Hanji 914: trust-and-injury opening, Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored anti-Hongdu memorial, Xidi office-sale pricing and private-store proceeds, Yang Qi's Emperor Huan comparison and Yang Zhen family taunt, and Huzheng's Southern Xiongnu succession before Hanji 915. Created Hongdu Menxue and Yang Zhen; updated Emperor Ling, Yang Qiu, Yang Qi, Huzheng, Southern Xiongnu, Office-Sale Legitimacy Damage, Imperial Private Treasury Extraction, Court Office Capture, Court Feedback Collapse, index, and overview. No settled contradiction found; transcript variants 弘都门, 杨求, 杨齐, 岳松, and 江澜 are normalized cautiously.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 14,603 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API keys are unset; report returned in-session and `wiki/lint-report.md` was not updated.

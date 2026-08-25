@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？](sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored memorial, Xidi office-sale pricing, private-store proceeds, Yang Qi's Emperor Huan comparison, and Huzheng's Southern Xiongnu succession.
 - [Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores](sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790.md) — All-In episode on AI/chip-stock leverage risk, Leopold Aschenbrenner's reported margin call, frontier-lab pacing politics, open-model pressure, training-data copyright, Mamdani's city-owned groceries, and fruit-fly neural geometry.
 - [《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？](sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus.md) — 芮淇讲透资治通鉴 episode on relationship-boundary readings of "口误", Qiao Xuan's refusal to ransom his abducted son, no-ransom deterrence, and Yang Qiu's first strike against Wang Fu, Duan Jiong, and Wang Fu's family network before Cao Jie's rebound.
 - [《资治通鉴·汉纪》916丨命好和运好哪个更重要？](sources/zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu.md) — 芮淇讲透资治通鉴 episode on fate-versus-fortune framing, Yu Guiren's funeral, Cao Jie's regrouping after Wang Fu's corpse humiliation, Yang Qiu's removal from sili xiaowei, Shangshu Ling access power, and Shen Zhong's shelved anti-eunuch memorial.
@@ -1480,6 +1481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [杨震 / Yang Zhen (late Han)](entities/YangZhenLateHan.md) — Yang-family reputation figure invoked when Emperor Ling mocks Yang Qi after the Emperor Huan comparison.
 - [Leopold Aschenbrenner](entities/LeopoldAschenbrenner.md) — Former OpenAI employee and AI investor used by All-In as a source-scoped case in levered AI-stock liquidation risk.
 - [Zohran Mamdani](entities/ZohranMamdani.md) — New York political figure whose city-owned grocery proposal extends the wiki's affordability-socialism and retail-execution branch.
 - [王吉 / Wang Ji (late Han)](entities/WangJiLateHan.md) — Wang Fu's adopted son and Pei chancellor whose alleged killings and corpse displays become the local-abuse trigger for Yang Qiu's anti-Wang Fu prosecution.
@@ -1490,13 +1492,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
 - [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander invoked by Lyu Qiang as a meritorious official whose family punishment shows correction and service no longer protected status.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
-- [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu killed by Zhang Xiu before Qiangqu's installation.
+- [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu who first succeeds his father in 178 CE, then is killed by Zhang Xiu before Qiangqu's installation.
 - [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Eunuch favorite named with Cao Jie in Lyu Qiang's title-privilege criticism and Yang Qiu's target field.
 - [刘郃 / Liu He (late-Han situ)](entities/LiuHeSituLateHan.md) — Late-Han situ and imperial-clan figure whose anti-Cao Jie plot collapses after household leakage; distinct from Liu Yu's son Liu He.
 - [刘鯈 / Liu Tiao (late Han)](entities/LiuTiaoLateHan.md) — Liu He's brother whose death under Dou Wu is invoked to press Liu He into anti-eunuch action.
 - [陈球 / Chen Qiu (late Han)](entities/ChenQiuLateHan.md) — Yongle shaofu who urges Liu He to act against Cao Jie in the failed 179 CE plot.
 - [刘纳 / Liu Na (late Han)](entities/LiuNaLateHan.md) — Shangshu who frames senior-office inaction as uselessness during the failed anti-Cao Jie plot.
-- [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Anti-eunuch official whose success against Wang Fu and Duan Jiong prosecution field leads into overconfident targeting of Cao Jie, then a household leak in Hanji 918.
+- [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Late-Han shangshu ling and anti-eunuch official who first memorializes against Hongdu Menxue, then overreaches after destroying Wang Fu's network.
 - [程璜 / Cheng Huang (late Han)](entities/ChengHuangLateHan.md) — Eunuch intermediary who carries the leaked anti-Cao Jie plot to Cao Jie.
 - [何真 / He Zhen (late Han)](entities/HeZhenLateHan.md) — He-family household head whose daughter becomes Empress He and whose sons become outer-relative actors.
 - [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder destroyed by Yang Qiu before the anti-Cao Jie escalation and named in the Cao Jie network background.
@@ -1994,10 +1996,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [易县 / Yi County (Late Han)](entities/YixianLateHan.md) — Place Gongsun Zan chooses as a supposed refuge after reading a children's song.
 - [易京 / Yijing Fortress](entities/YijingFortress.md) — Gongsun Zan's trenched tower stronghold, treated as a false-security command-isolation case.
 - [白马义从 / Baima Yicong](entities/BaimaYicong.md) — Gongsun Zan's white-horse cavalry identity contrasted with his later Yijing confinement.
-- [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes 181 palace-market play, horse-procurement price cornering, private-treasury extraction, bought-office pricing, captured feedback, succession non-designation, and unresolved frontier appeals.
+- [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes Hongdu Menxue patronage, Xidi office-sale pricing, palace-market play, private-treasury extraction, captured feedback, succession non-designation, and unresolved frontier appeals.
 - [董卓 / Dong Zhuo](entities/DongZhuo.md) — Late-Han warlord whose arc now runs from Luoyang terror and coerced scholar legitimacy through forced relocation, assassination, and Meiwu/Yijing fortress comparison.
 - [郿坞 / Meiwu Fortress](entities/MeiwuFortress.md) — Dong Zhuo's stronghold used as the comparison case for Yijing-style false security.
-- [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Late-Han frontier group whose Yufuluo succession crisis, later campaign roles, emperor-escort cavalry, and Huchuquan succession are tracked across the wiki.
+- [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Late-Han frontier group whose Huzheng succession, Zhang Xiu intervention, Yufuluo crisis, later campaign roles, emperor-escort cavalry, and Huchuquan succession are tracked.
 - [于扶罗 / Yufuluo Chanyu](entities/YufuluoChanyu.md) — Southern Xiongnu chanyu whose death is recorded at the end of Hanji 998.
 - [呼厨泉 / Huchuquan Chanyu](entities/HuchuquanChanyu.md) — Yufuluo's younger brother and Southern Xiongnu successor stationed at Pingyang.
 - [Coach / 蔻驰](entities/CoachFashionBrand.md) — Fashion brand in the source's China growth case, balancing higher average prices, less discounting, outlet use, small stores, and flagship image-building.
@@ -2305,7 +2307,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor who first appears as Dong Zhuo's envoy to Sun Jian, then becomes a remnant commander whose Li-Guo rivalry creates the emperor flight-and-escort crisis.
 - [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor whose rivalry with Li Jue moves from poison suspicion and emperor-abduction planning into minister hostage-taking and later temporary reunion over Emperor Xian.
 - [杨密 / Yang Mi (late Han)](entities/YangMiLateHan.md) — Zhonglangjiang who stops Guo Si from killing Yang Biao after the hostage-banquet rebuke in Hanji 985.
-- [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong who urges Emperor Xian to suppress anger over Li Jue's rotten-bones food humiliation.
+- [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong whose direct Emperor Ling-Huan comparison triggers a Yang Zhen family taunt, and who later urges Emperor Xian to suppress anger under Li Jue.
 - [张苞 / Zhang Bao (late Han)](entities/ZhangBaoLateHan.md) — Li Jue-side zhonglangjiang who colludes with Guo Si, sets fires in Li Jue's camp, and defects after the failed night attack.
 - [朱儁 / Zhu Jun (late Han)](entities/ZhuJunLateHan.md) — Late-Han official whose career now spans 181 Jiaozhi suppression, Yellow Turban campaigns, anti-Dong-Zhuo posture, and later death after Guo Si's ministerial hostage-taking.
 - [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — Situ who writes a dangerous remonstrance to Li Jue after Li Jue refuses imperial mediation and tries to move Emperor Xian.
@@ -9129,6 +9131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary channel that Emperor Ling favors against士人 prestige, turning cultural recognition into an appointment-order problem.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
 - [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.
 - [City-Owned Grocery Politics](concepts/CityOwnedGroceryPolitics.md) — Municipal grocery-store politics where visible affordability benefits compete with thin-margin retail execution and public-budget costs.
@@ -9196,10 +9199,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
 - [征发信号价格垄断 / Procurement Signal Price Cornering](concepts/ProcurementSignalPriceCornering.md) — Hanji 920 pattern where state horse-procurement demand is captured by local strongmen who monopolize supply and inflate prices.
 - [宫市游乐式权力错位 / Palace Market Theater](concepts/PalaceMarketTheater.md) — Hanji 920 pattern where rulers stage or capture marketplace life inside palace space, confusing office, household, play, and extraction.
-- [帝王私库进奉盘剥 / Imperial Private Treasury Extraction](concepts/ImperialPrivateTreasuryExtraction.md) — Late-Han pattern where Emperor Ling's palace-market/private-store logic converts public tribute and local supply into extra extraction before later palace-construction fees.
+- [帝王私库进奉盘剥 / Imperial Private Treasury Extraction](concepts/ImperialPrivateTreasuryExtraction.md) — Late-Han pattern where Emperor Ling's Xidi office-sale proceeds and palace-market/private-store logic convert public authority and local supply into extra extraction.
 - [修宫钱转嫁盘剥 / Palace Construction Fee Extraction](concepts/PalaceConstructionFeeExtraction.md) — Late-Han pattern where palace-construction and office-entry charges move through eunuch and appointment channels until local officials push the cost onto the people.
 - [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where the court converts an unsuppressed rebel force into delegated order by granting the leader office.
-- [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where purchased or fee-burdened public office damages institutional credibility, officeholder reputation, or both.
+- [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where Xidi public office pricing, purchased high office, or fee-burdened appointments damage institutional credibility, officeholder reputation, or both.
 - [Autonomous Naval Vessels](concepts/AutonomousNavalVessels.md) — Uncrewed naval platforms where autonomy changes mission risk, vessel architecture, scale, and hybrid fleet design.
 - [Naval Shipbuilding Throughput](concepts/NavalShipbuildingThroughput.md) — Strategic-capacity frame comparing shipbuilding output, cost, build time, and yearly firepower rather than ship prestige alone.
 - [Software-Defined Shipbuilding](concepts/SoftwareDefinedShipbuilding.md) — Shipbuilding model where software APIs, sensors, compute, remote control, and yard design are integrated from the start.
@@ -9270,7 +9273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confessional War Escalation](concepts/ConfessionalWarEscalation.md) — Pattern where religious identity, dynastic legitimacy, and interstate rivalry make local security decisions feed wider war.
 - [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 957 and 974-976 frame for adviser-rich power, post-crisis organizational repair, and advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity.
 - [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 976-977 frame for disorder-era advisers mixing visible state architecture with hidden technique, moral language, legal-administrative action, silence, and survival.
-- [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where palace finance, forged appointments, and armed commanders use office access to hollow out the court's normal selection order.
+- [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where Hongdu prestige channels, Xidi pricing, palace finance, forged appointments, and armed commanders hollow out the court's normal selection order.
 - [尚书台近侍权力 / Shangshu Tai Imperial Access](concepts/ShangshuTaiImperialAccess.md) — Late-Han mechanism where memorial handling and daily ruler access turn a modest document office into practical inner-court power.
 - [Coerced Talent Legitimacy / 胁迫征士合法性](concepts/CoercedTalentLegitimacy.md) — Pattern where a violent powerholder recruits famous scholars to simulate consent and court repair.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
@@ -9934,7 +9937,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes or ungrounded scandal.
-- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where correction exists but is filtered, punished, ignored, driven away, or requires extreme death-facing speech to break through.
+- [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where correction exists but is ignored, filtered, punished, driven away, or requires extreme death-facing speech to break through.
 - [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where state-strengthening reform creates concentrated resistance, from violent backlash to ritual-identity opposition and managed compliance.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.

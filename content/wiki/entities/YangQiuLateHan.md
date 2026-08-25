@@ -2,11 +2,15 @@
 title: "阳球 / Yang Qiu (late Han)"
 type: entity
 tags: [late-han, han, minister, anti-eunuch-politics, leakage]
-sources: [zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
+sources: [zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso, zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus, zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
 last_updated: 2026-08-26
 ---
 
 # 阳球 / Yang Qiu (late Han)
+
+[[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]] backfills Yang Qiu before the Wang Fu prosecution. As shangshu ling, he memorializes against [[HongduMenxue|鸿都门学]], arguing that favored writers such as the Hongdu literary group rise through elite attachment, decorative writing, and imperial favor rather than public competence.
+
+This makes Yang Qiu an appointment-order critic before he becomes the harsher anti-eunuch prosecutor in Hanji 915. His warning is not adopted by [[EmperorLingOfHan|汉灵帝]], so the episode frames him inside [[CourtFeedbackCollapse|君臣反馈失灵]] before his later successful and then overreaching use of enforcement power.
 
 [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]] supplies Yang Qiu's prosecutorial high point before his Hanji 916 transfer. After denouncing [[WangJiLateHan|王吉]]'s cruelty, he becomes sili xiaowei, uses [[YangBiao|杨彪]]'s evidence against [[WangFuLateHan|王甫]]'s retainers, and persuades [[EmperorLingOfHan|汉灵帝]] to authorize arrests against Wang Fu, [[DuanJiongLateHan|段熲]], Wang Ji, and [[WangMengLateHan|王萌]].
 
@@ -25,6 +29,7 @@ That setup makes Yang Qiu a dangerous anti-eunuch instrument rather than only a 
 The episode's crucial detail is domestic: Yang Qiu's concubine has a connection to [[ChengHuangLateHan|程璜]], who is bribed and threatened until he tells Cao Jie. Yang Qiu therefore makes the anti-eunuch plan an example of [[LethalPlanLeakageRisk|lethal plan leakage risk]]: a plot can fail through household access before the formal political move begins.
 
 ## Connections
+- [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]], [[HongduMenxue|鸿都门学]], [[EmperorLingOfHan|汉灵帝]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - memorial against the Hongdu appointment channel before the later anti-eunuch prosecutions.
 - [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus|Hanji 915]], [[WangFuLateHan|王甫]], [[WangJiLateHan|王吉]], [[WangMengLateHan|王萌]], [[DuanJiongLateHan|段熲]], and [[YangBiao|杨彪]] - first major prosecution and its brutal method.
 - [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ZhuYuLateHan|朱瑀]], and [[EmperorLingOfHan|汉灵帝]] - transfer from sili xiaowei to weiwei after eunuch regrouping.
 - [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[WangFuLateHan|王甫]], [[DuanJiongLateHan|段熲]], [[CaoJieLateHan|曹节]], and [[ZhuYuLateHan|朱瑀]] - earlier prosecution success and next-target overconfidence.
