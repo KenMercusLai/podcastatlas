@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5469
+wiki_total_pages: 5473
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "ClassicCanvasShoeDecline"
     title: "Classic Canvas Shoe Decline"
     url: "/wiki/concepts/classiccanvasshoedecline/"
+  - key: "ClassicCitationLegitimationCapture"
+    title: "Classic Citation Legitimation Capture / 引经据典式欲望包装"
+    url: "/wiki/concepts/classiccitationlegitimationcapture/"
   - key: "ClassicReadingComplexity"
     title: "Classic Reading Complexity"
     url: "/wiki/concepts/classicreadingcomplexity/"

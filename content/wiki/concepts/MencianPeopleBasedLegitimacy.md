@@ -2,11 +2,13 @@
 title: "Mencian People-Based Legitimacy / 孟子的民本合法性"
 type: concept
 tags: [political-theory, legitimacy, confucianism, china]
-sources: [zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-26
 ---
 
 # Mencian People-Based Legitimacy / 孟子的民本合法性
+
+[[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds the garden-access version of Mencian legitimacy. The episode uses the [[MenciusText|Mencius]] contrast between [[ZhouWenwang|King Wen of Zhou]] and [[QiXuanWang|King Xuan of Qi]] to argue that a ruler's pleasure project is judged by public use and livelihood impact, not by the ruler's citation of precedent. [[EmperorLingOfHan|Emperor Ling]]'s garden project fails because it takes fields and drives residents away.
 
 Mencian people-based legitimacy is [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]]'s synthesis of "民贵君轻," "暴君非君," and "天视自我民视，天听自我民听." The episode argues that [[Mengzi|孟子 / Mencius]] makes the people the decisive test of rule: the ruler does not privately own the realm, and Heaven's approval is legible through the people's response.
 
@@ -21,6 +23,7 @@ The source presents this as a strong indigenous Chinese resource for thinking ab
 [[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] adds the siege-side logic of the same occupation test. Le Yi delays force against [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]] because storming the last cities may make already captured Qi people fear Yan rule again. The source therefore turns people-based legitimacy into an operational military constraint: an occupier may need restraint at the frontier to keep the interior governable.
 
 ## Key Claims
+- Hanji 919 adds that the Mencian test for ruler pleasure depends on people's access and livelihood, not the prestige of classical language.
 - The people are more important than the ruler in the hierarchy of political value.
 - A tyrant who destroys renyi loses the moral status of ruler.
 - Heaven's will is not treated as private dynastic property; it is read through the people's seeing and hearing.
@@ -30,6 +33,7 @@ The source presents this as a strong indigenous Chinese resource for thinking ab
 - The final holdouts can shape the legitimacy of the entire occupation because their treatment becomes evidence for or against the conqueror's promises.
 
 ## Connections
+- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]], [[SharedPleasureGovernanceTest|与民同乐治理检验]], [[EmperorLingOfHan|汉灵帝]], [[YangCiLateHan|杨赐]], [[ZhouWenwang|周文王]], and [[QiXuanWang|齐宣王]] - garden-access application of the people-based test.
 - [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[QiXuanWang|齐宣王]] - core source material.
 - [[WeiXiangwang|魏襄王]], [[NonKillingUnification|不爱杀人者能一之]], and [[SongJunYan|宋康王 / 宋君偃]] - Zhouji 45 non-killing and failed violent-rule extension.
 - [[YanState|燕国]], [[ShangTang|商汤]], [[MencianBenevolentGovernment|孟子仁政]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 conquest and repair extension.

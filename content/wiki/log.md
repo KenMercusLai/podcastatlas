@@ -11763,3 +11763,9 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

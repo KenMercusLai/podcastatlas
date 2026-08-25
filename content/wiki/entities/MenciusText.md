@@ -2,11 +2,13 @@
 title: "《孟子》 / Mencius"
 type: entity
 tags: [book, chinese-classics, pre-qin, confucianism, political-theory]
-sources: [zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-26
 ---
 
 # 《孟子》 / Mencius
+
+[[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds the text's Wenwang/Qi Xuan garden passage as a contested court citation. The episode uses the contrast to define [[SharedPleasureGovernanceTest|shared pleasure]] by public access and livelihood impact: [[ZhouWenwang|King Wen of Zhou]]'s large park is acceptable because people can still use it, while [[QiXuanWang|King Xuan of Qi]]'s smaller park becomes oppressive when access is forbidden and punished. It also shows [[ClassicCitationLegitimationCapture|classic citation legitimation capture]] when attendants invoke the passage to support [[EmperorLingOfHan|Emperor Ling]]'s field-consuming gardens while ignoring those limiting conditions.
 
 《孟子》 / Mencius is the classical text through which [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] reconstructs [[Mengzi|孟子 / Mencius]] as a political speaker. The episode treats the book not as exam material or a storehouse of isolated sayings, but as a sequence of confrontations with rulers, students, rival teachings, and the moral vocabulary of [[WarringStatesPeriod|战国时期]] politics.
 
@@ -27,6 +29,7 @@ The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[Ri
 [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] uses the text differently, through the marriage-procedure material associated with Teng Wen Gong Xia. The episode invokes parental command and matchmaker mediation to explain why [[TaishiJiao|太史敫 / 太史角]] refuses to recognize [[JunWangHou|君王后]]'s crisis relationship with [[TianFazhang|田法章]], making [[MarriageRitualOrthodoxy|marriage ritual orthodoxy]] part of the wiki's Mencius branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]], [[SharedPleasureGovernanceTest|与民同乐治理检验]], [[ClassicCitationLegitimationCapture|引经据典式欲望包装]], [[EmperorLingOfHan|汉灵帝]], [[YangCiLateHan|杨赐]], [[ZhouWenwang|周文王]], and [[QiXuanWang|齐宣王]] - Wenwang/Qi Xuan garden passage as contested court citation.
 - [[Mengzi|孟子 / Mencius]] - central speaker and thinker.
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - major interlocutors emphasized by the source.
 - [[WarringStatesPeriod|战国时期]] and [[JixiaAcademy|稷下学宫]] - political and intellectual context.

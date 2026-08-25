@@ -2,11 +2,13 @@
 title: "Good Intentions Political Limits"
 type: concept
 tags: [ethics, politics, realism, responsibility]
-sources: [zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-26
 ---
 
 # Good Intentions Political Limits
+
+[[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] extends the concept into personal ethics through the [[BoundarylessKindnessTrap|boundaryless kindness trap]]. The source does not reject kindness; it argues that kindness without boundary, exchange, or self-protection becomes an exploitable role in which the "good person" receives duties and emotional burdens without reciprocal protection.
 
 Good intentions political limits is the episode's ethical endpoint: sincere goodness does not automatically produce good political outcomes. [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] develops this through [[ThePrince|《君主论》]], the host's reflection on a prisoner's-dilemma-style workplace game, and the broader distinction between what ought to happen and what actually happens.
 
@@ -35,6 +37,7 @@ The concept does not reject goodness. The source argues that people need conscie
 [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] adds a late-Han military-command case through [[LiuYuLateHan|刘虞]]. Liu Yu's order not to burn and to kill only [[GongsunZan|公孙瓒]] is morally legible, but it fails because the army lacks the discipline and tactics to make that restraint executable. The episode therefore narrows this concept into [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]]: good intention still needs institutions, training, and operational means.
 
 ## Key Claims
+- Hanji 919 adds that boundaryless kindness is a personal version of political naivete: good intention without self-protection can be turned into extraction.
 - Hanji 967 adds that survival-oriented advice can fail ethically when it does not constrain the character and incentives of the executors who will benefit from success.
 - Hanji 936 adds that procedural reluctance and humane hesitation can still damage command authority when a powerful subordinate publicly treats hierarchy as optional.
 - Goodness without realism can become helpless, but realism without conscience becomes corruption.
@@ -52,6 +55,7 @@ The concept does not reject goodness. The source argues that people need conscie
 - Hanji 972 adds that humane command can fail if it gives an army a moral limit without an executable way to achieve the objective.
 
 ## Connections
+- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] and [[BoundarylessKindnessTrap|无边界善良陷阱]] - over-kindness and boundaryless self-governance frame.
 - [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ExecutorCharacterAdviceRisk]] - adviser-executor version of constrained intention.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[ZhangWenLateHan|张温]], [[DongZhuo|董卓]], [[SunJianLateHan|孙坚]], and [[CommandDisciplineAuthority|军法威严]] - command-law version of well-reasoned hesitation becoming politically costly.
 - [[MachiavellianRealism]] and [[NonMoralPoliticalAnalysis]] - concepts that create the pressure on naive goodness.

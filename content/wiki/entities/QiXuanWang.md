@@ -2,11 +2,13 @@
 title: "齐宣王 / King Xuan of Qi"
 type: entity
 tags: [person, ruler, china, warring-states]
-sources: [zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-54-wo-zun-ni-shi-wang-ni-dang-wo-shi-pi-lvhcz0ban9frlmwshd9vch-q7-ie, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-26
 ---
 
 # 齐宣王 / King Xuan of Qi
+
+[[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds Qi Xuan Wang as the negative side of a Mencian garden comparison. His smaller park becomes politically oppressive because ordinary people are excluded and punished for entering, making him a warning case for the [[SharedPleasureGovernanceTest|shared pleasure governance test]] and for [[ClassicCitationLegitimationCapture|classic citation legitimation capture]] when later courtiers cite the passage without the public-access condition.
 
 齐宣王 / King Xuan of Qi is the ruler on whom [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] says [[Mengzi|孟子 / Mencius]] placed unusually strong political hope. The episode presents him as vivid and contradictory: ambitious enough to ask about hegemonic models, candid enough to admit personal weaknesses, capable of compassion in the "以羊易牛" story, yet ultimately unable to embody Mencius's political program.
 
@@ -33,6 +35,7 @@ The same episode adds two source-scoped closing notes. It says the chronicle's n
 [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] gives Qi Xuan Wang the withdrawal decision in Zhang Yi's final maneuver. Qi attacks [[WeiState|魏国]] after Zhang Yi arrives there, but Zhang Yi has the plan disclosed through a Chu diplomatic channel: the attack is exactly what Zhang Yi and [[QinWuwang|秦武王]] wanted. Qi Xuan Wang withdraws once continuing would validate the trap.
 
 ## Connections
+- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]], [[ZhouWenwang|周文王]], [[SharedPleasureGovernanceTest|与民同乐治理检验]], and [[ClassicCitationLegitimationCapture|引经据典式欲望包装]] - Mencian garden comparison reused in late-Han court debate.
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[Mengzi|孟子 / Mencius]] and [[MenciusText|《孟子》]] - dialogue context.
 - [[JixiaAcademy|稷下学宫]] and [[WarringStatesPeriod|战国时期]] - Qi and Warring States background.

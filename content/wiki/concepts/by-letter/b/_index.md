@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 5469
+wiki_total_pages: 5473
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "BloodBrainBarrierPrediction"
     title: "Blood-Brain Barrier Prediction"
     url: "/wiki/concepts/bloodbrainbarrierprediction/"
+  - key: "BloodLetterVindication"
+    title: "Blood-Letter Vindication / 血书自辩昭雪"
+    url: "/wiki/concepts/bloodlettervindication/"
   - key: "BloodstainPatternAnalysis"
     title: "Bloodstain Pattern Analysis"
     url: "/wiki/concepts/bloodstainpatternanalysis/"
@@ -413,6 +416,9 @@ wiki_pages:
   - key: "BottomUpEnterpriseDistribution"
     title: "Bottom-Up Enterprise Distribution"
     url: "/wiki/concepts/bottomupenterprisedistribution/"
+  - key: "BoundarylessKindnessTrap"
+    title: "Boundaryless Kindness Trap / 无边界善良陷阱"
+    url: "/wiki/concepts/boundarylesskindnesstrap/"
   - key: "BoundedSpeculativeOptionality"
     title: "Bounded Speculative Optionality / 有边界的彩票仓位"
     url: "/wiki/concepts/boundedspeculativeoptionality/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5469
+wiki_total_pages: 5473
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "SharedHousingRevival"
     title: "Shared Housing Revival"
     url: "/wiki/concepts/sharedhousingrevival/"
+  - key: "SharedPleasureGovernanceTest"
+    title: "Shared Pleasure Governance Test / 与民同乐治理检验"
+    url: "/wiki/concepts/sharedpleasuregovernancetest/"
   - key: "SharedBikeManufacturingShock"
     title: "Shared-Bike Manufacturing Shock"
     url: "/wiki/concepts/sharedbikemanufacturingshock/"

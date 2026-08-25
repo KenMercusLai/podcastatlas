@@ -13056,6 +13056,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ClassicCitationLegitimationCapture": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ClassicReadingComplexity": [
     {
       "key": "culture",
@@ -49124,6 +49131,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SharedPleasureGovernanceTest": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ShareholderPrimacy": [
     {
       "key": "politics",
@@ -68429,6 +68443,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade": [
     {
       "key": "politics",
       "label": "Politics",

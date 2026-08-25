@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1865
+topic_total_pages: 1868
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -439,6 +439,9 @@ topic_concepts:
   - key: "CivilizationalOptionality"
     title: "Civilizational Optionality"
     url: "/wiki/concepts/civilizationaloptionality/"
+  - key: "ClassicCitationLegitimationCapture"
+    title: "Classic Citation Legitimation Capture / 引经据典式欲望包装"
+    url: "/wiki/concepts/classiccitationlegitimationcapture/"
   - key: "CleanBreakDivorceModel"
     title: "Clean Break Divorce Model"
     url: "/wiki/concepts/cleanbreakdivorcemodel/"
@@ -2374,6 +2377,9 @@ topic_concepts:
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"
+  - key: "SharedPleasureGovernanceTest"
+    title: "Shared Pleasure Governance Test / 与民同乐治理检验"
+    url: "/wiki/concepts/sharedpleasuregovernancetest/"
   - key: "ShareholderPrimacy"
     title: "Shareholder Primacy"
     url: "/wiki/concepts/shareholderprimacy/"
@@ -5568,6 +5574,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade"
+    title: "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己"
+    url: "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"
   - key: "zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic"
     title: "《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死"
     url: "/wiki/sources/zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic/"

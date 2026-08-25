@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己](sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade.md) — 芮淇讲透资治通鉴 episode on boundaryless kindness, Emperor Ling's garden project, Yang Ci's remonstrance, classical flattery around shared pleasure, Yang Xuan's Lingling suppression tactic, and Zhao Kai's false-accusation reversal.
 - [《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱](sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws.md) — 芮淇讲透资治通鉴 episode on wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression, Xianbei succession weakness, Han Lingdi's palace-market play, and the public/private treasury problem.
 - [《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死](sources/zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic.md) — 芮淇讲透资治通鉴 episode on Han Lingdi's private-treasury extraction, Lyu Qiang's public/private finance remonstrance and appointment-accountability warning, Wang Meiren and Liu Xie's foster transfer, and Cao Jie-to-Zhao Zhong eunuch continuity.
 - [商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？](sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335.md) — 商业就是这样 short episode on HYROX's copyable fitness-race rules, trademark protection, participation-data moat, gym authorization, global rankings, and sponsor/event network.
@@ -1474,6 +1475,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [杨璇 / Yang Xuan (late Han)](entities/YangXuanLateHan.md) — Lingling administrator who uses lime/fire-horse and crossbow wagons to defeat Cangwu-Guiyang bandits before a blood-letter appeal overturns Zhao Kai's false accusation.
+- [赵凯 / Zhao Kai (late Han)](entities/ZhaoKaiLateHan.md) — Jingzhou inspector whose false accusation against Yang Xuan turns a local victory into prison-cart danger before the blood-letter appeal reverses the case.
+- [苍梧郡 / Cangwu Commandery (late Han)](entities/CangwuCommanderyLateHan.md) — Southern commandery whose bandits join Guiyang bandits in the Yang Xuan-Lingling suppression branch.
 - [HYROX](entities/HYROX.md) — Fitness-racing event brand whose moat comes from official status, standardized results, participant data, authorization, and event execution rather than proprietary exercise rules.
 - [HYROX World GmbH](entities/HYROXWorldGmbH.md) — Company page for the HYROX trademark and official commercial system behind the event brand.
 - [Ironman / 铁人三项](entities/IronmanTriathlon.md) — Endurance event-brand comparison used to explain how existing sports can be bundled into an official race identity.
@@ -9100,6 +9104,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Boundaryless Kindness Trap / 无边界善良陷阱](concepts/BoundarylessKindnessTrap.md) — Source-scoped frame in which kindness without boundaries or value exchange makes a person carry responsibility without receiving protection or benefit.
+- [Shared Pleasure Governance Test / 与民同乐治理检验](concepts/SharedPleasureGovernanceTest.md) — Mencian public/private test for whether a ruler's park or pleasure project is shared public use or an exclusionary trap.
+- [Classic Citation Legitimation Capture / 引经据典式欲望包装](concepts/ClassicCitationLegitimationCapture.md) — Court-rhetoric pattern where learned citation strips a precedent of its conditions and turns ruler desire into apparent legitimacy.
+- [Blood-Letter Vindication / 血书自辩昭雪](concepts/BloodLetterVindication.md) — Emergency appeal pattern where an accused official bypasses captured channels with a costly embodied memorial.
 - [Mass Participation Sports Event Moat](concepts/MassParticipationSportsEventMoat.md) — Durable event advantage created when brand, standardized rules, data, access, sponsors, gyms, and execution surround a copyable sport format.
 - [Fitness Race Standardization](concepts/FitnessRaceStandardization.md) — Design of a functional-fitness competition so participants can train for the same sequence and compare results across events.
 - [Participation Data Moat / 参赛数据护城河](concepts/ParticipationDataMoat.md) — Retention advantage from official race records, splits, rankings, and performance histories that participants do not want to abandon.
