@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5474
+wiki_total_pages: 5477
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "PromotionExpectationManagement"
     title: "Promotion Expectation Management"
     url: "/wiki/concepts/promotionexpectationmanagement/"
+  - key: "PromotionPositionFit"
+    title: "Promotion Position Fit / 升职位置匹配"
+    url: "/wiki/concepts/promotionpositionfit/"
   - key: "PromptAsIntentTransmission"
     title: "Prompt As Intent Transmission"
     url: "/wiki/concepts/promptasintenttransmission/"
@@ -1421,6 +1424,9 @@ wiki_pages:
   - key: "PalaceConstructionFeeExtraction"
     title: "修宫钱转嫁盘剥 / Palace Construction Fee Extraction"
     url: "/wiki/concepts/palaceconstructionfeeextraction/"
+  - key: "PartyProhibitionKinshipNarrowing"
+    title: "党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing"
+    url: "/wiki/concepts/partyprohibitionkinshipnarrowing/"
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"

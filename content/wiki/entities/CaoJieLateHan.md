@@ -2,11 +2,15 @@
 title: "曹节 / Cao Jie (late Han eunuch)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
+sources: [zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
 last_updated: 2026-08-26
 ---
 
 # 曹节 / Cao Jie (late Han eunuch)
+
+[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills Cao Jie as one of the eunuch favorites named in [[LyuQiangLateHan|吕强]]'s refused-title remonstrance. The episode normalizes the transcript's 曹杰/曹洁 to Cao Jie and makes him part of the marquisate and family-privilege problem that Lyu Qiang says violates the no-merit-no-marquis standard.
+
+The closing hook also makes Cao Jie the next target after [[YangQiuLateHan|阳球]]'s destruction of [[WangFuLateHan|王甫]]. Cao Jie's survival depends on his closeness to [[EmperorLingOfHan|汉灵帝]], setting up Hanji 918's leaked anti-Cao Jie plot.
 
 [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] backfills Cao Jie before the 181 CE death-and-succession branch. The episode makes him the target of [[LiuHeSituLateHan|刘郃]], [[ChenQiuLateHan|陈球]], [[LiuNaLateHan|刘纳]], and [[YangQiuLateHan|阳球]]'s anti-eunuch plot, and the beneficiary when the plan leaks through [[ChengHuangLateHan|程璜]].
 
@@ -17,6 +21,7 @@ This earlier layer changes the Cao Jie page from a death marker into a surveilla
 The episode pairs Cao Jie with the older grievance against [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]]. That makes him more than a succession vacancy. His death is a handoff point inside the palace-favorite channel, where one generation's anti-eunuch wounds become the background for Zhao Zhong's later greed, arrogance, and access to [[EmperorLingOfHan|汉灵帝]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[ZhuYuLateHan|朱瑀]], [[YangQiuLateHan|阳球]], and [[WangFuLateHan|王甫]] - merit-title criticism and next-target setup before the plot leak.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[YangQiuLateHan|阳球]], [[ChengHuangLateHan|程璜]], and [[EmperorLingOfHan|汉灵帝]] - pre-181 plot target and exposure beneficiary.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[EmperorLingOfHan|汉灵帝]], and [[ZhaoZhongLateHan|赵忠]] - source case and office succession.
 - [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]] - older officials whom the source names as victims of Cao Jie's eunuch-side politics.

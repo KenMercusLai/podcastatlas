@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7633
+wiki_total_pages: 7638
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "HeSenbao"
     title: "何森堡 / He Senbao"
     url: "/wiki/entities/hesenbao/"
+  - key: "HeHaiLateHan"
+    title: "何海 / He Hai (late Han)"
+    url: "/wiki/entities/hehailatehan/"
   - key: "HeZhenLateHan"
     title: "何真 / He Zhen (late Han)"
     url: "/wiki/entities/hezhenlatehan/"
@@ -746,6 +749,9 @@ wiki_pages:
   - key: "HuchuquanChanyu"
     title: "呼厨泉 / Huchuquan Chanyu"
     url: "/wiki/entities/huchuquanchanyu/"
+  - key: "HuzhengChanyu"
+    title: "呼征 / Huzheng Chanyu"
+    url: "/wiki/entities/huzhengchanyu/"
   - key: "HeShiBi"
     title: "和氏璧 / He Shi Bi"
     url: "/wiki/entities/heshibi/"

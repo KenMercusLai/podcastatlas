@@ -2,11 +2,13 @@
 title: "Merit-Based Reward and Punishment / 因功赏罚"
 type: concept
 tags: [governance, legalism, statecraft, incentives, pre-qin-history, chu-han]
-sources: [zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+last_updated: 2026-08-26
 ---
 
 # Merit-Based Reward and Punishment / 因功赏罚
+
+[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] adds a late-Han title-discipline case. When [[EmperorLingOfHan|汉灵帝]] wants to make [[LyuQiangLateHan|吕强]] a marquis, Lyu refuses by invoking [[LiuBang|刘邦]]'s rule that people without merit should not be enfeoffed. His refusal then becomes criticism of [[CaoJieLateHan|曹节]], [[ZhuYuLateHan|朱瑀]], and other eunuch favorites receiving title and family privilege without matching public merit.
 
 Merit-based reward and punishment / 因功赏罚 is the governance rule [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] draws from [[HanZhaohou|韩昭侯]] and [[ShenBuhai|申不害]]. When Shen asks for an office for his cousin, Han Zhaohou refuses because the cousin has no matching merit; granting the request would turn office into private favor and undermine Shen's own teaching.
 
@@ -25,6 +27,7 @@ Hanji 1014 adds a late-Han battlefield-order version through [[YuJin|于禁]]. I
 [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] adds the punishment-side version through [[ManChong|满宠]] and [[CaoHong|曹洪]]. Cao Hong's clients break the law and try to reach protection through kinship, but Man Chong executes them and Cao Cao praises him. The episode links punishment credibility to [[RuleOverKinshipPower|法度压过亲缘特权]]: standards fail if the ruler's close relatives can quietly exempt their dependents.
 
 ## Key Claims
+- Hanji 917 adds that title grants detached from public merit can become a court-legitimacy problem, especially when favorites and their families benefit.
 - A reward loses governing force when it is detached from visible merit.
 - A ruler must apply standards even against the minister who taught them.
 - Small favors are politically meaningful because they teach the court what behavior is actually rewarded.
@@ -36,6 +39,7 @@ Hanji 1014 adds a late-Han battlefield-order version through [[YuJin|于禁]]. I
 - Hanji 1006 adds that punishment standards need visible force against kinship privilege, not only against ordinary offenders.
 
 ## Connections
+- [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[EmperorLingOfHan|汉灵帝]], [[CaoJieLateHan|曹节]], and [[ZhuYuLateHan|朱瑀]] - no-merit-no-marquis title critique.
 - [[YuJin|于禁]], [[CaoCao|曹操]], and [[CrisisFirstMilitaryDiscipline|临危先务军纪]] - Hanji 1014 retreat discipline and reward branch.
 - [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]], [[ManChong|满宠]], [[CaoHong|曹洪]], and [[RuleOverKinshipPower|法度压过亲缘特权]] - punishment against kinship-backed offenders as a credibility signal.
 - [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[YongChi|雍齿]], [[HostileRecipientRewardSignal|仇敌受封安众]], [[EQianqiu|鄂千秋]], and [[CaoShen|曹参]] - proof that merit can override enmity and that rear contribution can outrank visible fighting.

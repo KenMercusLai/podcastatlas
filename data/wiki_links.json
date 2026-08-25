@@ -14143,6 +14143,10 @@
     "title": "段珪 / Duan Gui (late Han)",
     "url": "/wiki/entities/duanguilatehan/"
   },
+  "DuanJiongLateHan": {
+    "title": "段熲 / Duan Jiong (late Han)",
+    "url": "/wiki/entities/duanjionglatehan/"
+  },
   "DuanNongyu": {
     "title": "段农裕 / Duan Nongyu",
     "url": "/wiki/entities/duannongyu/"
@@ -20727,6 +20731,10 @@
     "title": "林优里 / Hayashi Yuri",
     "url": "/wiki/entities/hayashiyuri/"
   },
+  "HeHaiLateHan": {
+    "title": "何海 / He Hai (late Han)",
+    "url": "/wiki/entities/hehailatehan/"
+  },
   "HeJin": {
     "title": "何进 / He Jin",
     "url": "/wiki/entities/hejin/"
@@ -22286,6 +22294,10 @@
   "HutianKilnSite": {
     "title": "Hutian Kiln Site / 湖田古瓷窑址",
     "url": "/wiki/entities/hutiankilnsite/"
+  },
+  "HuzhengChanyu": {
+    "title": "呼征 / Huzheng Chanyu",
+    "url": "/wiki/entities/huzhengchanyu/"
   },
   "HuzuoHuyou": {
     "title": "忽左忽右 / Huzuo Huyou",
@@ -34803,6 +34815,10 @@
     "title": "Party Guitar",
     "url": "/wiki/entities/partyguitar/"
   },
+  "PartyProhibitionKinshipNarrowing": {
+    "title": "党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing",
+    "url": "/wiki/concepts/partyprohibitionkinshipnarrowing/"
+  },
   "PartyProhibitionRehabilitation": {
     "title": "Party Prohibition Rehabilitation / 党人翻案合法性",
     "url": "/wiki/concepts/partyprohibitionrehabilitation/"
@@ -37030,6 +37046,10 @@
   "PromotionExpectationManagement": {
     "title": "Promotion Expectation Management",
     "url": "/wiki/concepts/promotionexpectationmanagement/"
+  },
+  "PromotionPositionFit": {
+    "title": "Promotion Position Fit / 升职位置匹配",
+    "url": "/wiki/concepts/promotionpositionfit/"
   },
   "PromptAsIntentTransmission": {
     "title": "Prompt As Intent Transmission",
@@ -47347,6 +47367,10 @@
     "title": "Una",
     "url": "/wiki/entities/una/"
   },
+  "UnauthorizedFrontierCommandIntervention": {
+    "title": "边疆将领擅断干预 / Unauthorized Frontier Command Intervention",
+    "url": "/wiki/concepts/unauthorizedfrontiercommandintervention/"
+  },
   "UncertainEraOptionality": {
     "title": "Uncertain-Era Optionality / 乱纪元选择权",
     "url": "/wiki/concepts/uncertaineraoptionality/"
@@ -52511,6 +52535,10 @@
     "title": "张修 / Zhang Xiu (Five Pecks)",
     "url": "/wiki/entities/zhangxiufivepecks/"
   },
+  "ZhangXiuProtectorOfXiongnu": {
+    "title": "张脩 / Zhang Xiu (Protector of Xiongnu)",
+    "url": "/wiki/entities/zhangxiuprotectorofxiongnu/"
+  },
   "ZhangXueMotorcycle": {
     "title": "Zhang Xue Motorcycle / 张雪机车",
     "url": "/wiki/entities/zhangxuemotorcycle/"
@@ -53370,6 +53398,10 @@
   "ZhuYingWarringStates": {
     "title": "朱英 / Zhu Ying (Warring States)",
     "url": "/wiki/entities/zhuyingwarringstates/"
+  },
+  "ZhuYuLateHan": {
+    "title": "朱瑀 / Zhu Yu (late Han)",
+    "url": "/wiki/entities/zhuyulatehan/"
   },
   "ZhuZhiLateHan": {
     "title": "朱治 / Zhu Zhi (Late Han)",
@@ -57102,6 +57134,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg": {
+    "title": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg/"
   },
   "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5": {
     "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",

@@ -11777,3 +11777,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？
+
+Added source page for Hanji 917: promotion position fit, Lyu Qiang's refused marquisate and broad remonstrance, Cai Yong and Duan Jiong as correction-failure cases, He Hai's party-prohibition kinship narrowing, and Zhang Xiu's unauthorized killing of Huzheng before Qiangqu's Southern Xiongnu installation. Created He Hai, Duan Jiong, Zhang Xiu (Protector of Xiongnu), Huzheng Chanyu, Zhu Yu, Promotion Position Fit, Unauthorized Frontier Command Intervention, and Party Prohibition Kinship Narrowing; updated linked late-Han entity and concept pages. No settled contradiction found; transcript names 张须, 段炯, and 朱羽 are normalized to 张脩, 段熲, and 朱瑀.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1869
+topic_total_pages: 1872
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2905,6 +2905,9 @@ topic_concepts:
   - key: "DefensiveLocalGovernance"
     title: "保境安民式守成治理 / Defensive Local Governance"
     url: "/wiki/concepts/defensivelocalgovernance/"
+  - key: "PartyProhibitionKinshipNarrowing"
+    title: "党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing"
+    url: "/wiki/concepts/partyprohibitionkinshipnarrowing/"
   - key: "GongAnFiction"
     title: "公案小说 / Gong'an Fiction"
     url: "/wiki/concepts/gonganfiction/"
@@ -3031,6 +3034,9 @@ topic_concepts:
   - key: "DeathDefyingRemonstrance"
     title: "赴死式直谏 / Death-Defying Remonstrance"
     url: "/wiki/concepts/deathdefyingremonstrance/"
+  - key: "UnauthorizedFrontierCommandIntervention"
+    title: "边疆将领擅断干预 / Unauthorized Frontier Command Intervention"
+    url: "/wiki/concepts/unauthorizedfrontiercommandintervention/"
   - key: "YuanjiaoJingongStrategy"
     title: "远交近攻 / Yuanjiao Jingong Strategy"
     url: "/wiki/concepts/yuanjiaojingongstrategy/"
@@ -5574,6 +5580,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg"
+    title: "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg/"
   - key: "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5"
     title: "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？"
     url: "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"

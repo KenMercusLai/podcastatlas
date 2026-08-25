@@ -2,11 +2,13 @@
 title: "时绌举赢 / Untimely Extravagance"
 type: concept
 tags: [governance, statecraft, political-ethics, pre-qin-history, warring-states, late-han]
-sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-26
 ---
 
 # 时绌举赢 / Untimely Extravagance
+
+[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] adds the earliest current late-Han palace-consumption variant. [[LyuQiangLateHan|吕强]] contrasts thousands of palace women and daily provisions with peasants forced by taxes and labor to sell grain cheaply and live with hunger and cold. The display is untimely because household hardship is converted into palace maintenance while the court is already losing correction capacity.
 
 [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds a garden variant of untimely extravagance. [[EmperorLingOfHan|Emperor Ling]] orders new imperial gardens despite already having multiple pleasure grounds, and [[YangCiLateHan|Yang Ci]] warns that the project will take suburban land, destroy fertile fields, and drive residents away. Attendants try to recode the project as Mencian shared pleasure, but the source treats the public/private access condition as decisive: a garden built by harming the people is private display under stress.
 
@@ -33,6 +35,7 @@ The source's criticism is not anti-engineering. Bi Lan's devices become politica
 [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] adds an early Western Han palace variant. [[XiaoHe|萧何]] defends the grand [[WeiyangPalace|未央宫]] as necessary to display imperial authority and avoid later rebuilding, but [[SimaGuang|司马光]] criticizes construction during poverty and unsettled war. The concept therefore now covers both pre-Qin prestige projects and founding-imperial palace grandeur.
 
 ## Key Claims
+- Hanji 917 adds that palace maintenance and harem consumption become untimely when they sit directly against taxed, labor-burdened households.
 - A pleasure project becomes untimely extravagance when it consumes productive land and household security while being rhetorically presented as harmless enjoyment.
 - Timing in statecraft means suitability to circumstance, not just when an event occurs.
 - Ruler pleasure becomes politically exposed when it is funded or displayed during hardship.
@@ -47,6 +50,7 @@ The source's criticism is not anti-engineering. Bi Lan's devices become politica
 - Hanji 178 part 2 adds that founding rulers can translate palace grandeur into authority claims, but critics may still judge the timing against war, poverty, and precedent for later excess.
 
 ## Connections
+- [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - palace women and consumption contrasted with overburdened common households.
 - [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade]] — adds the garden-project case where fields and residents are harmed for imperial pleasure.
 - [[SharedPleasureGovernanceTest]] — public/private criterion that exposes the garden project as extraction.
 - [[ClassicCitationLegitimationCapture]] — rhetorical pattern that tries to legitimate the project through classical precedent.

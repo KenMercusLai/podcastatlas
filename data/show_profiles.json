@@ -2336,8 +2336,8 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
-      "source_note_count": 414,
-      "topic_matched_source_note_count": 251,
+      "source_note_count": 415,
+      "topic_matched_source_note_count": 252,
       "topics": [
         {
           "key": "history",
@@ -2349,7 +2349,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 68
+          "source_note_count": 69
         },
         {
           "key": "economics",

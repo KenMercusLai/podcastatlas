@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？](sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg.md) — 芮淇讲透资治通鉴 episode on promotion position fit, Lyu Qiang's refused marquisate and remonstrance, Cai Yong and Duan Jiong as correction-failure cases, He Hai's party-ban kinship narrowing, and Zhang Xiu's unauthorized Southern Xiongnu intervention.
 - [《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？](sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5.md) — 芮淇讲透资治通鉴 episode on adversity silence discipline, the 179 CE Liu He-Chen Qiu-Liu Na-Yang Qiu anti-Cao Jie plot leak, late-Han frontier/local disorder, and the early He-family rise through Empress He, He Jin, Liu Bian, and He Zhen.
 - [《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己](sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade.md) — 芮淇讲透资治通鉴 episode on boundaryless kindness, Emperor Ling's garden project, Yang Ci's remonstrance, classical flattery around shared pleasure, Yang Xuan's Lingling suppression tactic, and Zhao Kai's false-accusation reversal.
 - [《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱](sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws.md) — 芮淇讲透资治通鉴 episode on wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression, Xianbei succession weakness, Han Lingdi's palace-market play, and the public/private treasury problem.
@@ -1476,14 +1477,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
+- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander invoked by Lyu Qiang as a meritorious official whose family punishment shows correction and service no longer protected status.
+- [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
+- [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu killed by Zhang Xiu before Qiangqu's installation.
+- [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Eunuch favorite named with Cao Jie in Lyu Qiang's title-privilege criticism and Yang Qiu's target field.
 - [刘郃 / Liu He (late-Han situ)](entities/LiuHeSituLateHan.md) — Late-Han situ and imperial-clan figure whose anti-Cao Jie plot collapses after household leakage; distinct from Liu Yu's son Liu He.
 - [刘鯈 / Liu Tiao (late Han)](entities/LiuTiaoLateHan.md) — Liu He's brother whose death under Dou Wu is invoked to press Liu He into anti-eunuch action.
 - [陈球 / Chen Qiu (late Han)](entities/ChenQiuLateHan.md) — Yongle shaofu who urges Liu He to act against Cao Jie in the failed 179 CE plot.
 - [刘纳 / Liu Na (late Han)](entities/LiuNaLateHan.md) — Shangshu who frames senior-office inaction as uselessness during the failed anti-Cao Jie plot.
-- [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Weiwei whose household connection to Cheng Huang leaks the anti-Cao Jie plan.
+- [阳球 / Yang Qiu (late Han)](entities/YangQiuLateHan.md) — Anti-eunuch official whose success against Wang Fu and Duan Jiong prosecution field leads into overconfident targeting of Cao Jie, then a household leak in Hanji 918.
 - [程璜 / Cheng Huang (late Han)](entities/ChengHuangLateHan.md) — Eunuch intermediary who carries the leaked anti-Cao Jie plot to Cao Jie.
 - [何真 / He Zhen (late Han)](entities/HeZhenLateHan.md) — He-family household head whose daughter becomes Empress He and whose sons become outer-relative actors.
-- [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder named in the Cao Jie eunuch-network background.
+- [王甫 / Wang Fu (late Han)](entities/WangFuLateHan.md) — Late-Han eunuch powerholder destroyed by Yang Qiu before the anti-Cao Jie escalation and named in the Cao Jie network background.
 - [杨璇 / Yang Xuan (late Han)](entities/YangXuanLateHan.md) — Lingling administrator who uses lime/fire-horse and crossbow wagons to defeat Cangwu-Guiyang bandits before a blood-letter appeal overturns Zhao Kai's false accusation.
 - [赵凯 / Zhao Kai (late Han)](entities/ZhaoKaiLateHan.md) — Jingzhou inspector whose false accusation against Yang Xuan turns a local victory into prison-cart danger before the blood-letter appeal reverses the case.
 - [苍梧郡 / Cangwu Commandery (late Han)](entities/CangwuCommanderyLateHan.md) — Southern commandery whose bandits join Guiyang bandits in the Yang Xuan-Lingling suppression branch.
@@ -1561,8 +1567,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [封谞 / Feng Xu (late Han)](entities/FengXuLateHan.md) — Eunuch exposed in Hanji 924 as an inside contact for Zhang Jiao during the Yellow Turban emergency.
 - [马元义 / Ma Yuanyi (late Han)](entities/MaYuanyiLateHan.md) — Taiping Dao organizer whose regional believer coordination and palace contacts are exposed before the early Yellow Turban launch.
 - [唐周 / Tang Zhou (late Han)](entities/TangZhouLateHan.md) — Taiping Dao disciple whose disclosure of Zhang Jiao's plan triggers Ma Yuanyi's arrest and the early Yellow Turban uprising.
-- [吕强 / Lyu Qiang (late Han)](entities/LyuQiangLateHan.md) — Eunuch adviser who urges party-ban amnesty and anti-corruption measures before Zhao Zhong and Xia Yun's accusation drives his suicide.
-- [曹节 / Cao Jie (late Han eunuch)](entities/CaoJieLateHan.md) — Senior late-Han eunuch whose death in Hanji 921 opens Zhao Zhong's acting dachangqiu succession and whose earlier persecution of Chen Fan and Dou Wu marks old anti-eunuch grievance.
+- [吕强 / Lyu Qiang (late Han)](entities/LyuQiangLateHan.md) — Eunuch adviser whose refused marquisate and remonstrances criticize eunuch privilege, palace burden, private treasury extraction, and party-ban crisis policy before retaliation drives his suicide.
+- [曹节 / Cao Jie (late Han eunuch)](entities/CaoJieLateHan.md) — Senior late-Han eunuch criticized by Lyu Qiang, targeted by Yang Qiu's anti-eunuch plot, and later remembered as a powerholder whose death opens Zhao Zhong's succession.
 - [夏韵 / Xia Yun (late Han)](entities/XiaYunLateHan.md) — Eunuch favorite who joins Zhao Zhong in accusing Lyu Qiang after his crisis-repair advice.
 - [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
 - [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
@@ -1878,7 +1884,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [董扶 / Dong Fu (late Han)](entities/DongFuLateHan.md) — Shizhong whose Yizhou prophecy redirects Liu Yan's provincial destination choice.
 - [张懿 / Zhang Yi (late Han)](entities/ZhangYiLateHan.md) — Bingzhou inspector killed by the Tuge Hu in Hanji 939.
 - [屠各胡 / Tuge Hu](entities/TugeHu.md) — Frontier group tied to Zhang Yi's killing and the Southern Xiongnu revolt in Hanji 939.
-- [羌渠 / Qiangqu Chanyu](entities/QiangquChanyu.md) — Southern Xiongnu chanyu killed after Han requisition pressure triggers revolt.
+- [羌渠 / Qiangqu Chanyu](entities/QiangquChanyu.md) — Southern Xiongnu chanyu installed after Zhang Xiu kills Huzheng, then later killed after Han requisition pressure triggers revolt.
 - [醯落 / Xiluo (Southern Xiongnu)](entities/XiluoSouthernXiongnu.md) — Right-division rebel actor who joins the Tuge Hu, kills Qiangqu, and opens Yufuluo's succession.
 - [郭大 / Guo Da (late Han)](entities/GuoDaLateHan.md) — Baibo leader named in Hanji 939's Yellow Turban remnant resurgence.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
@@ -9113,6 +9119,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Promotion Position Fit / 升职位置匹配](concepts/PromotionPositionFit.md) — Career strategy frame for testing whether a role is on a visible advancement path, solves superior demand, and sits with organizational momentum.
+- [党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing](concepts/PartyProhibitionKinshipNarrowing.md) — Late-Han legal repair that narrows party-prohibition collateral punishment by excluding more distant kin.
+- [边疆将领擅断干预 / Unauthorized Frontier Command Intervention](concepts/UnauthorizedFrontierCommandIntervention.md) — Frontier-command failure where a field official changes allied succession without central authorization.
 - [Adversity Silence Discipline / 逆境守口](concepts/AdversitySilenceDiscipline.md) — Discipline of withholding complaint, argument, and uncontrolled disclosure when an adverse or unclear situation makes speech strategically costly.
 - [Boundaryless Kindness Trap / 无边界善良陷阱](concepts/BoundarylessKindnessTrap.md) — Source-scoped frame in which kindness without boundaries or value exchange makes a person carry responsibility without receiving protection or benefit.
 - [Shared Pleasure Governance Test / 与民同乐治理检验](concepts/SharedPleasureGovernanceTest.md) — Mencian public/private test for whether a ruler's park or pleasure project is shared public use or an exclusionary trap.
