@@ -797,10 +797,10 @@
       ]
     },
     "The Rest Is History": {
-      "episode_count": 714,
+      "episode_count": 715,
       "earliest_episode_date": "2020-11-02",
-      "latest_episode_date": "2026-08-19",
-      "latest_episode_file": "GLT2308408988 [GLT2308408988].md",
+      "latest_episode_date": "2026-08-23",
+      "latest_episode_file": "GLT9519811642 [GLT9519811642].md",
       "source_note_count": 5,
       "topic_matched_source_note_count": 5,
       "topics": [
@@ -871,9 +871,9 @@
       ],
       "start_here_episode_files": [
         "GLT2308408988 [GLT2308408988].md",
+        "GLT9519811642 [GLT9519811642].md",
         "GLT4877520736 [GLT4877520736].md",
-        "GLT2334035496 [GLT2334035496].md",
-        "GLT5637968455 [GLT5637968455].md"
+        "GLT2334035496 [GLT2334035496].md"
       ]
     },
     "The SaaS Podcast - Real Lessons on Growing Profitable SaaS": {
