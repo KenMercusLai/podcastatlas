@@ -27,32 +27,24 @@
       color: var(--muted);
     }
 
-    .wiki-feature-grid,
     .wiki-recent-grid {
       display: grid;
       gap: 16px;
-    }
-
-    .wiki-feature-grid,
-    .wiki-recent-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .wiki-feature,
     .wiki-recent {
       padding: 20px;
       border: 1px solid var(--line);
       background: var(--panel);
     }
 
-    .wiki-feature h3,
     .wiki-recent h3 {
       margin: 5px 0 8px;
       font-size: 1.08rem;
       line-height: 1.35;
     }
 
-    .wiki-feature p,
     .wiki-recent p {
       margin: 0;
       color: var(--muted);
@@ -90,7 +82,6 @@
     }
 
     @media (max-width: 560px) {
-      .wiki-feature-grid,
       .wiki-recent-grid {
         grid-template-columns: 1fr;
       }
@@ -109,9 +100,7 @@
       </div>
     </article>
   {{ else if eq .Path "/wiki" }}
-    {{ $currentSynthesis := .Site.GetPage "/wiki-projections/current-synthesis" }}
     {{ $updateHistory := .Site.GetPage "/wiki-projections/update-history" }}
-    {{ $openQuestions := .Site.GetPage "/wiki-projections/open-questions" }}
     {{ $stats := .Site.GetPage "/wiki/stats" }}
     {{ $concepts := .Site.GetPage "/wiki/concepts" }}
     {{ $entities := .Site.GetPage "/wiki/entities" }}
@@ -123,42 +112,12 @@
       <p class="lede">Explore knowledge synthesized from podcasts: evolving concepts, entities, source notes, and the questions that remain unresolved.</p>
     </section>
 
-    <section class="wiki-landing-section" aria-labelledby="current-knowledge-heading">
-      <h2 id="current-knowledge-heading">What the atlas currently knows</h2>
-      <p class="wiki-section-intro">Start with the current synthesis across podcast sources, then examine the questions where the evidence is still incomplete.</p>
-      <div class="wiki-feature-grid">
-        {{ with $currentSynthesis }}
-          <article class="wiki-feature current-synthesis-card" data-synthesis-source="{{ $currentSynthesis.Params.synthesis_source }}" data-summary="{{ $currentSynthesis.Params.summary }}" data-episode-count="{{ $currentSynthesis.Params.episode_count }}" data-source-count="{{ $currentSynthesis.Params.source_count }}">
-            <span class="wiki-label">Living synthesis</span>
-            <h3><a href="{{ .RelPermalink }}">Current Synthesis</a></h3>
-            {{ with $currentSynthesis.Params.summary }}
-              <p class="wiki-feature-summary">{{ . }}</p>
-            {{ else }}
-              <p>A compact cross-source map of the atlas's current knowledge.</p>
-            {{ end }}
-            {{ with $currentSynthesis.Params.last_updated }}
-              <p class="wiki-feature-updated">Updated <time datetime="{{ . }}">{{ . | time.Format "January 2, 2006" }}</time></p>
-            {{ end }}
-            {{ with $currentSynthesis.Params.source_count }}
-              {{ $sourceCount := . }}
-              {{ with $currentSynthesis.Params.episode_count }}
-                <p class="wiki-feature-coverage">Based on {{ $sourceCount }} source notes from {{ . }} processed episodes</p>
-              {{ end }}
-            {{ end }}
-          </article>
-        {{ end }}
-        {{ with $openQuestions }}
-          <article class="wiki-feature">
-            <span class="wiki-label">Unresolved</span>
-            <h3><a href="{{ .RelPermalink }}">Open Questions</a></h3>
-            <p>Questions that remain open, contested, or under-supported as new sources enter the atlas.</p>
-          </article>
-        {{ end }}
-      </div>
-      {{ with $updateHistory }}
-        <p><a href="{{ .RelPermalink }}">See how the knowledge base has changed →</a></p>
-      {{ end }}
-    </section>
+    {{ partial "current-knowledge-section.html" (dict
+      "site" .Site
+      "sectionClass" "wiki-landing-section"
+      "headingID" "current-knowledge-heading"
+      "introClass" "wiki-section-intro"
+    ) }}
 
     {{ $recentConcepts := slice }}
     {{ with $concepts }}

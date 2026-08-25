@@ -9,13 +9,21 @@ WIKI_LAYOUT = ROOT / "layouts" / "wiki" / "list.html"
 class WikiLandingLayoutTest(unittest.TestCase):
     def test_landing_leads_with_the_current_knowledge_state(self):
         layout = WIKI_LAYOUT.read_text()
+        homepage = (ROOT / "layouts" / "index.html").read_text()
+        current = (ROOT / "layouts" / "partials" / "current-knowledge-section.html").read_text()
 
         self.assertIn("Explore knowledge synthesized from podcasts", layout)
-        self.assertIn('.Site.GetPage "/wiki-projections/current-synthesis"', layout)
-        self.assertIn('.Site.GetPage "/wiki-projections/open-questions"', layout)
-        self.assertIn("What the atlas currently knows", layout)
-        self.assertIn("Current Synthesis", layout)
-        self.assertIn("Open Questions", layout)
+        self.assertIn('partial "current-knowledge-section.html"', layout)
+        self.assertIn('partial "current-knowledge-section.html"', homepage)
+        self.assertIn('$site.GetPage "/wiki-projections/current-synthesis"', current)
+        self.assertIn('$site.GetPage "/wiki-projections/open-questions"', current)
+        self.assertIn("What the atlas currently knows", current)
+        self.assertIn("Current Synthesis", current)
+        self.assertIn("Open Questions", current)
+        self.assertIn("Params.summary", current)
+        self.assertIn("Params.last_updated", current)
+        self.assertIn("Params.source_count", current)
+        self.assertIn("Params.episode_count", current)
 
     def test_landing_surfaces_recently_updated_concepts_and_entities(self):
         layout = WIKI_LAYOUT.read_text()
@@ -59,9 +67,11 @@ class WikiLandingLayoutTest(unittest.TestCase):
 
     def test_landing_keeps_history_and_health_as_supporting_links(self):
         layout = WIKI_LAYOUT.read_text()
+        current = (ROOT / "layouts" / "partials" / "current-knowledge-section.html").read_text()
 
-        self.assertIn('.Site.GetPage "/wiki-projections/update-history"', layout)
+        self.assertIn('$site.GetPage "/wiki-projections/update-history"', current)
         self.assertIn('.Site.GetPage "/wiki/stats"', layout)
+        self.assertIn("See how the knowledge base has changed", current)
         self.assertIn("Update History", layout)
         self.assertIn("Wiki Stats", layout)
 
