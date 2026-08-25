@@ -2591,6 +2591,10 @@
     "title": "Accelerated Depreciation Capex Pull-Forward",
     "url": "/wiki/concepts/accelerateddepreciationcapexpullforward/"
   },
+  "AccessibleEntryPointBrandExtension": {
+    "title": "Accessible Entry Point Brand Extension",
+    "url": "/wiki/concepts/accessibleentrypointbrandextension/"
+  },
   "AccessibleProgrammingPlatform": {
     "title": "Accessible Programming Platform",
     "url": "/wiki/concepts/accessibleprogrammingplatform/"
@@ -11167,6 +11171,10 @@
     "title": "Corsair (Saronic)",
     "url": "/wiki/entities/corsairsaronic/"
   },
+  "CortecGroup": {
+    "title": "Cortec Group",
+    "url": "/wiki/entities/cortecgroup/"
+  },
   "CosmicHorror": {
     "title": "Cosmic Horror",
     "url": "/wiki/concepts/cosmichorror/"
@@ -12798,6 +12806,10 @@
   "Democritus": {
     "title": "Democritus / 德谟克利特",
     "url": "/wiki/entities/democritus/"
+  },
+  "DemonstrationLedProductProof": {
+    "title": "Demonstration Led Product Proof",
+    "url": "/wiki/concepts/demonstrationledproductproof/"
   },
   "DemotedVassalSafetySignal": {
     "title": "Demoted Vassal Safety Signal / 降爵诸侯安全信号",
@@ -16834,6 +16846,10 @@
   "FlavorAsSelfKnowledge": {
     "title": "Flavor As Self-Knowledge",
     "url": "/wiki/concepts/flavorasselfknowledge/"
+  },
+  "Flexcoat": {
+    "title": "Flexcoat",
+    "url": "/wiki/entities/flexcoat/"
   },
   "FlexibleManufacturing": {
     "title": "Flexible Manufacturing / 柔性制造",
@@ -22123,6 +22139,10 @@
     "title": "一五会",
     "url": "/wiki/entities/ichigokai/"
   },
+  "IcyTech": {
+    "title": "Icy Tech",
+    "url": "/wiki/entities/icytech/"
+  },
   "IdaLupino": {
     "title": "Ida Lupino / 艾达·卢皮诺",
     "url": "/wiki/entities/idalupino/"
@@ -23314,6 +23334,10 @@
   "Itochu": {
     "title": "Itochu / 伊藤忠商事",
     "url": "/wiki/entities/itochu/"
+  },
+  "IvanBrown": {
+    "title": "Ivan Brown",
+    "url": "/wiki/entities/ivanbrown/"
   },
   "IvoParashkevov": {
     "title": "Ivo Parashkevov",
@@ -39171,6 +39195,10 @@
     "title": "Rodo Sayagues",
     "url": "/wiki/entities/rodosayagues/"
   },
+  "RogerSeiders": {
+    "title": "Roger Seiders",
+    "url": "/wiki/entities/rogerseiders/"
+  },
   "RogerZelazny": {
     "title": "Roger Zelazny / 罗杰·泽拉兹尼",
     "url": "/wiki/entities/rogerzelazny/"
@@ -39347,6 +39375,10 @@
     "title": "Roswell Incident / 罗斯维尔事件",
     "url": "/wiki/entities/roswellincident/"
   },
+  "RotomoldedCoolerCategory": {
+    "title": "Rotomolded Cooler Category",
+    "url": "/wiki/concepts/rotomoldedcoolercategory/"
+  },
   "Route66": {
     "title": "Route 66",
     "url": "/wiki/entities/route66/"
@@ -39370,6 +39402,10 @@
   "RoyEDisney": {
     "title": "Roy E. Disney",
     "url": "/wiki/entities/royedisney/"
+  },
+  "RoySeiders": {
+    "title": "Roy Seiders",
+    "url": "/wiki/entities/royseiders/"
   },
   "RoyalExecutionLegitimacy": {
     "title": "Royal Execution Legitimacy",
@@ -39554,6 +39590,10 @@
   "RyanPetersen": {
     "title": "Ryan Petersen",
     "url": "/wiki/entities/ryanpetersen/"
+  },
+  "RyanSeiders": {
+    "title": "Ryan Seiders",
+    "url": "/wiki/entities/ryanseiders/"
   },
   "RyanSuttonGee": {
     "title": "Ryan Sutton-Gee",
@@ -42391,6 +42431,10 @@
     "title": "Specialized Intelligence",
     "url": "/wiki/concepts/specializedintelligence/"
   },
+  "SpecialtyRetailBeachhead": {
+    "title": "Specialty Retail Beachhead",
+    "url": "/wiki/concepts/specialtyretailbeachhead/"
+  },
   "SpectralEvidence": {
     "title": "Spectral Evidence / 幽灵证据",
     "url": "/wiki/concepts/spectralevidence/"
@@ -43786,6 +43830,10 @@
   "SupplementStructureFunctionClaims": {
     "title": "Supplement Structure Function Claims",
     "url": "/wiki/concepts/supplementstructurefunctionclaims/"
+  },
+  "SupplierConcentrationCrisis": {
+    "title": "Supplier Concentration Crisis",
+    "url": "/wiki/concepts/supplierconcentrationcrisis/"
   },
   "SupplyChainSovereignty": {
     "title": "Supply Chain Sovereignty",
@@ -47679,6 +47727,10 @@
     "title": "Walt Disney World",
     "url": "/wiki/entities/waltdisneyworld/"
   },
+  "WaltLarson": {
+    "title": "Walt Larson",
+    "url": "/wiki/entities/waltlarson/"
+  },
   "WaltWhitman": {
     "title": "Walt Whitman / 惠特曼",
     "url": "/wiki/entities/waltwhitman/"
@@ -48202,6 +48254,10 @@
   "WaterSystemCyberResilience": {
     "title": "Water System Cyber Resilience",
     "url": "/wiki/concepts/watersystemcyberresilience/"
+  },
+  "WaterlooRods": {
+    "title": "Waterloo Rods",
+    "url": "/wiki/entities/waterloorods/"
   },
   "WatsonPower": {
     "title": "华生力 / Watson Power",
@@ -50258,6 +50314,18 @@
   "YCombinator": {
     "title": "Y Combinator",
     "url": "/wiki/entities/ycombinator/"
+  },
+  "YETI": {
+    "title": "YETI",
+    "url": "/wiki/entities/yeti/"
+  },
+  "YETIRambler": {
+    "title": "YETI Rambler",
+    "url": "/wiki/entities/yetirambler/"
+  },
+  "YETITundra": {
+    "title": "YETI Tundra",
+    "url": "/wiki/entities/yetitundra/"
   },
   "YORO": {
     "title": "YORO",
@@ -55794,6 +55862,10 @@
   "yao-shunyu-laidao-tengxun-300tian-1-176-1": {
     "title": "176: 姚顺宇，来到腾讯300天",
     "url": "/wiki/sources/yao-shunyu-laidao-tengxun-300tian-1-176-1/"
+  },
+  "yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285": {
+    "title": "YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand",
+    "url": "/wiki/sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285/"
   },
   "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093": {
     "title": "一份来自病床上的相关书单",

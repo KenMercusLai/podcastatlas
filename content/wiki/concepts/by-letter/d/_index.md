@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 5415
+wiki_total_pages: 5420
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "DemocraticTransitionElection"
     title: "Democratic Transition Election"
     url: "/wiki/concepts/democratictransitionelection/"
+  - key: "DemonstrationLedProductProof"
+    title: "Demonstration Led Product Proof"
+    url: "/wiki/concepts/demonstrationledproductproof/"
   - key: "DemotedVassalSafetySignal"
     title: "Demoted Vassal Safety Signal / 降爵诸侯安全信号"
     url: "/wiki/concepts/demotedvassalsafetysignal/"

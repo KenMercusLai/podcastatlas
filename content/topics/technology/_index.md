@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2402
+topic_total_pages: 2403
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -5867,6 +5867,9 @@ topic_entities:
   - key: "YaoSong"
     title: "Yao Song / 姚颂"
     url: "/wiki/entities/yaosong/"
+  - key: "YETI"
+    title: "YETI"
+    url: "/wiki/entities/yeti/"
   - key: "Yihao"
     title: "Yihao"
     url: "/wiki/entities/yihao/"

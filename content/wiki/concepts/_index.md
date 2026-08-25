@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5415
+wiki_total_pages: 5420
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "AcceleratedDepreciationCapexPullForward"
     title: "Accelerated Depreciation Capex Pull-Forward"
     url: "/wiki/concepts/accelerateddepreciationcapexpullforward/"
+  - key: "AccessibleEntryPointBrandExtension"
+    title: "Accessible Entry Point Brand Extension"
+    url: "/wiki/concepts/accessibleentrypointbrandextension/"
   - key: "AccessibleProgrammingPlatform"
     title: "Accessible Programming Platform"
     url: "/wiki/concepts/accessibleprogrammingplatform/"

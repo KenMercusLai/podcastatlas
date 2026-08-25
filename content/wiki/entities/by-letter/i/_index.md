@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 7511
+wiki_total_pages: 7523
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "Iceland"
     title: "Iceland"
     url: "/wiki/entities/iceland/"
+  - key: "IcyTech"
+    title: "Icy Tech"
+    url: "/wiki/entities/icytech/"
   - key: "IdaLupino"
     title: "Ida Lupino / 艾达·卢皮诺"
     url: "/wiki/entities/idalupino/"
@@ -275,6 +278,9 @@ wiki_pages:
   - key: "Itochu"
     title: "Itochu / 伊藤忠商事"
     url: "/wiki/entities/itochu/"
+  - key: "IvanBrown"
+    title: "Ivan Brown"
+    url: "/wiki/entities/ivanbrown/"
   - key: "IvoParashkevov"
     title: "Ivo Parashkevov"
     url: "/wiki/entities/ivoparashkevov/"

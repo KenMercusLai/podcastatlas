@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "41a98bea9841429961e472ee8bccfe10370044f54128de4d1fbfe77e3ac78eae",
       "7a69263fc3963a56df6170de394a18e0ec4d2b05facd0200ebd227b3ae354797",
       "ab0b793d55f3a0dd24461592cdba3af1e4322fd13e7177eac84849a9d38414af",
       "06faea8aceebcaed86203d949331f2b3f2786db5ba3600addd61451f5a3c99dd",
@@ -219,11 +220,53 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 217
+    "paragraph_count": 218
   },
-  "overview_commit": "d16eb792a90181551d768e640c64ace5728dad5f",
-  "overview_digest": "0f6f9bde37980cffee3810718198483d6b0a0f2a1f6262a3a65779a1355b88af",
+  "overview_commit": "5e6e47dba0efb205e6e25e957fa0fe3062e8c2c0",
+  "overview_digest": "e7390de6c05c726f858842e022a1601e6586f99f2e91e62e5ae56bb135f6803b",
   "paragraphs": [
+    {
+      "id": "41a98bea9841429961e472ee8bccfe10370044f54128de4d1fbfe77e3ac78eae",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]], a [[HowIBuiltThis]] episode on [[RoySeiders]], [[RyanSeiders]], and [[YETI]] turning a narrow hunting/fishing cooler pain into a premium outdoor brand. It adds [[RogerSeiders]], [[Flexcoat]], [[WaterlooRods]], [[IcyTech]], [[IvanBrown]], [[WaltLarson]], [[CortecGroup]], [[YETITundra]], [[YETIRambler]], [[RotomoldedCoolerCategory]], [[SpecialtyRetailBeachhead]], [[DemonstrationLedProductProof]], [[SupplierConcentrationCrisis]], and [[AccessibleEntryPointBrandExtension]], while extending [[GuyRaz]], [[HowIBuiltThis]], [[FounderProductFit]], [[DistributionLedProductBuilding]], [[SubcultureLedMarketing]], [[ProductLedWillingnessToPay]], [[ConsumerBrandMoat]], [[ProductNamingAsPositioning]], [[SafetyProductCredibility]], [[InventoryHeavyConsumerBrandFinancing]], [[CustomerPull]], and [[FounderRoleTransition]]. Its core synthesis is that YETI's premium price was made believable by product truth and channel fit before it became a lifestyle symbol: user-founder pain defined the rotomolded cooler, specialty retailers gave education and margin, demonstrations turned durability into public proof, a supplier crisis forced dual sourcing, and Rambler drinkware created an accessible entry point that broadened demand. No settled contradiction is recorded; the episode title's \"Ron\" versus body's \"Roy\" mismatch is preserved as source metadata while the wiki uses [[RoySeiders]] for the founder discussed in the text.",
+      "topic_scores": {
+        "business-and-markets": 6,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AccessibleEntryPointBrandExtension",
+        "ConsumerBrandMoat",
+        "CortecGroup",
+        "CustomerPull",
+        "DemonstrationLedProductProof",
+        "DistributionLedProductBuilding",
+        "Flexcoat",
+        "FounderProductFit",
+        "FounderRoleTransition",
+        "GuyRaz",
+        "HowIBuiltThis",
+        "IcyTech",
+        "InventoryHeavyConsumerBrandFinancing",
+        "IvanBrown",
+        "ProductLedWillingnessToPay",
+        "ProductNamingAsPositioning",
+        "RogerSeiders",
+        "RotomoldedCoolerCategory",
+        "RoySeiders",
+        "RyanSeiders",
+        "SafetyProductCredibility",
+        "SpecialtyRetailBeachhead",
+        "SubcultureLedMarketing",
+        "SupplierConcentrationCrisis",
+        "WaltLarson",
+        "WaterlooRods",
+        "YETI",
+        "YETIRambler",
+        "YETITundra",
+        "yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285"
+      ]
+    },
     {
       "id": "7a69263fc3963a56df6170de394a18e0ec4d2b05facd0200ebd227b3ae354797",
       "primary_topic": "governance-and-institutions",

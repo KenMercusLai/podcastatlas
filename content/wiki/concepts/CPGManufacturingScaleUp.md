@@ -2,11 +2,13 @@
 title: "CPG Manufacturing Scale-Up"
 type: concept
 tags: [cpg, manufacturing, operations, startup]
-sources: [bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]
-last_updated: 2026-08-17
+sources: [bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]
+last_updated: 2026-08-25
 ---
 
 # CPG Manufacturing Scale-Up
+
+[[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] adds a consumer-durables analogue through [[YETI]]. Although coolers are not CPG, the [[YETITundra]] story shows the same scale-up logic: product design, molds, overseas factories, U.S. rotomolders, documentation, supplier redundancy, and retail demand all had to mature together.
 
 CPG manufacturing scale-up is the transition from a product a founder can make by hand to a product that can be made consistently, safely, economically, and in enough volume for customers and retailers. In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]], [[KrishnaKaliannan]] moves [[CatalinaCrunch]] from apartment cereal baking to a commercial kitchen, then to co-manufacturing, then to an Indiana operation for coating and packaging. [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] adds a parallel case through [[JustinsNutButter]], where homemade recipes required grinders, shared kitchen time, food-service standards, and later audited manufacturing.
 
@@ -26,8 +28,10 @@ CPG manufacturing scale-up is the transition from a product a founder can make b
 - Allergen-free CPG makes process control part of the product promise; a contamination or recall event can test brand trust as much as equipment capacity.
 - Scale-up can include package architecture, not only output volume, when retailers ask for pouches, value packs, variety packs, or different case configurations.
 - In infant formula, scale-up is also a safety and continuity promise: the company has to protect existing families before accelerating acquisition.
+- Durable-goods scale-up can require design digitization and supplier redundancy before demand can be served reliably.
 
 ## Connections
+- [[YETI]], [[YETITundra]], [[IvanBrown]], [[RotomoldedCoolerCategory]], and [[SupplierConcentrationCrisis]] - consumer-durables scale-up analogue added by How I Built This.
 - [[Bobbie]], [[LauraModi]], [[Perrigo]], [[NaturesOne]], [[InfantFormulaRegulatoryMoat]], and [[FormulaSupplyChainResilience]] - infant formula manufacturing branch added by How I Built This.
 - [[CatalinaCrunch]] and [[KrishnaKaliannan]] - core source case.
 - [[JustinsNutButter]] and [[JustinGold]] - earlier wiki CPG manufacturing case.

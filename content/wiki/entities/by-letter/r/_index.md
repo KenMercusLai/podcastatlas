@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7511
+wiki_total_pages: 7523
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "RodoSayagues"
     title: "Rodo Sayagues"
     url: "/wiki/entities/rodosayagues/"
+  - key: "RogerSeiders"
+    title: "Roger Seiders"
+    url: "/wiki/entities/rogerseiders/"
   - key: "RogerZelazny"
     title: "Roger Zelazny / 罗杰·泽拉兹尼"
     url: "/wiki/entities/rogerzelazny/"
@@ -533,6 +536,9 @@ wiki_pages:
   - key: "RoyEDisney"
     title: "Roy E. Disney"
     url: "/wiki/entities/royedisney/"
+  - key: "RoySeiders"
+    title: "Roy Seiders"
+    url: "/wiki/entities/royseiders/"
   - key: "RoyalMail"
     title: "Royal Mail"
     url: "/wiki/entities/royalmail/"
@@ -614,6 +620,9 @@ wiki_pages:
   - key: "RyanPetersen"
     title: "Ryan Petersen"
     url: "/wiki/entities/ryanpetersen/"
+  - key: "RyanSeiders"
+    title: "Ryan Seiders"
+    url: "/wiki/entities/ryanseiders/"
   - key: "RyanSuttonGee"
     title: "Ryan Sutton-Gee"
     url: "/wiki/entities/ryansuttongee/"

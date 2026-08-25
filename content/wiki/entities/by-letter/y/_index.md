@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7511
+wiki_total_pages: 7523
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -83,6 +83,15 @@ wiki_pages:
   - key: "YerenXiansheng"
     title: "Yeren Xiansheng"
     url: "/wiki/entities/yerenxiansheng/"
+  - key: "YETI"
+    title: "YETI"
+    url: "/wiki/entities/yeti/"
+  - key: "YETIRambler"
+    title: "YETI Rambler"
+    url: "/wiki/entities/yetirambler/"
+  - key: "YETITundra"
+    title: "YETI Tundra"
+    url: "/wiki/entities/yetitundra/"
   - key: "Yibin"
     title: "Yibin / 宜宾"
     url: "/wiki/entities/yibin/"

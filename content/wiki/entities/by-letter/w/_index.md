@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7511
+wiki_total_pages: 7523
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "WaltDisneyWorld"
     title: "Walt Disney World"
     url: "/wiki/entities/waltdisneyworld/"
+  - key: "WaltLarson"
+    title: "Walt Larson"
+    url: "/wiki/entities/waltlarson/"
   - key: "WaltWhitman"
     title: "Walt Whitman / 惠特曼"
     url: "/wiki/entities/waltwhitman/"
@@ -131,6 +134,9 @@ wiki_pages:
   - key: "WashingtonPost"
     title: "Washington Post"
     url: "/wiki/entities/washingtonpost/"
+  - key: "WaterlooRods"
+    title: "Waterloo Rods"
+    url: "/wiki/entities/waterloorods/"
   - key: "WattsTowers"
     title: "Watts Towers"
     url: "/wiki/entities/wattstowers/"

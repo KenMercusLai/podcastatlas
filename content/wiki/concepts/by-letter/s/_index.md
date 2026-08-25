@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5415
+wiki_total_pages: 5420
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "SpecializedIntelligence"
     title: "Specialized Intelligence"
     url: "/wiki/concepts/specializedintelligence/"
+  - key: "SpecialtyRetailBeachhead"
+    title: "Specialty Retail Beachhead"
+    url: "/wiki/concepts/specialtyretailbeachhead/"
   - key: "SpectralEvidence"
     title: "Spectral Evidence / 幽灵证据"
     url: "/wiki/concepts/spectralevidence/"
@@ -1421,6 +1424,9 @@ wiki_pages:
   - key: "SupplementStructureFunctionClaims"
     title: "Supplement Structure Function Claims"
     url: "/wiki/concepts/supplementstructurefunctionclaims/"
+  - key: "SupplierConcentrationCrisis"
+    title: "Supplier Concentration Crisis"
+    url: "/wiki/concepts/supplierconcentrationcrisis/"
   - key: "SupplyChainSovereignty"
     title: "Supply Chain Sovereignty"
     url: "/wiki/concepts/supplychainsovereignty/"
