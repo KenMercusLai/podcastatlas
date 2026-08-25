@@ -2,11 +2,13 @@
 title: "Han Fei / 韩非"
 type: entity
 tags: [person, philosophy, chinese-history, legalism, political-theory]
-sources: [zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+last_updated: 2026-08-26
 ---
 
 # Han Fei / 韩非
+
+[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] uses Han Fei as the opening secrecy and speech-risk frame. The episode invokes the warning that affairs succeed through secrecy and fail through talk, then maps that principle onto advice, premature disclosure, and [[CaiYong|蔡邕]]'s leaked memorial under [[EmperorLingOfHan|汉灵帝]].
 
 Han Fei / 韩非 appears in [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] as part of the Chinese comparison often made with [[NiccoloMachiavelli|Machiavelli]]. The episode says Chinese readers sometimes treat Machiavelli as a Western Han Fei, linking both to harsh times, competitive political orders, and challenges to inherited moral language.
 
@@ -33,6 +35,7 @@ The source also warns that the comparison has limits. Han Fei is used as a Legal
 The source then records Han Fei's imprisonment, Li Si's private delivery of poison, and [[QinShiHuang|嬴政 / 秦始皇]]'s too-late regret and pardon. It turns [[AuthorAdmirationPowerRisk]] into a fatal outcome: the admired author is not protected once rival ministers can recode his home-state duty as disloyalty and rush punishment through [[PrivatePunishmentWithoutProcedure|private action]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[CaiYong|蔡邕]], [[CommunicationBoundarySetting|Communication Boundary Setting]], and [[ConfidentialRemonstranceLeakage|密奏泄露风险]] - secrecy warning used as the episode's advice-risk frame.
 - [[ShangYang|Shang Yang / 商鞅]] - paired Legalist figure in the comparison.
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - Western political-theory figure being compared.
 - [[ThePrince|《君主论》 / The Prince]] - text sometimes read through a Legalist or 权谋术 frame.

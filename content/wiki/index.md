@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》912丨秘密到底该不该说出口？](sources/zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a.md) — 芮淇讲透资治通鉴 episode on Han Fei's secrecy warning, 178 CE omen remonstrance by Yang Ci and Cai Yong, Cao Jie's leak of Cai's confidential memorial, and source-scoped risk around loyal advice, secrecy, protection, and aftermath capacity.
 - [《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸](sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g.md) — 芮淇讲透资治通鉴 episode on Cai Yong's framed exile and survival, Song Empress's wugu accusation and death, Lu Zhi's ignored institutional memorial, and source-scoped workplace/self-protection readings of explanation and misfortune.
 - [《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？](sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored memorial, Xidi office-sale pricing, private-store proceeds, Yang Qi's Emperor Huan comparison, and Huzheng's Southern Xiongnu succession.
 - [Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores](sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790.md) — All-In episode on AI/chip-stock leverage risk, Leopold Aschenbrenner's reported margin call, frontier-lab pacing politics, open-model pressure, training-data copyright, Mamdani's city-owned groceries, and fruit-fly neural geometry.
@@ -9133,6 +9134,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Confidential Remonstrance Leakage / 密奏泄露风险](concepts/ConfidentialRemonstranceLeakage.md) — Late-Han speech-risk pattern where a private corrective memorial is exposed through inner-court access and becomes intelligence for retaliation before advice can become protection or policy.
 - [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary channel that Emperor Ling favors against士人 prestige, turning cultural recognition into an appointment-order problem.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
 - [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.

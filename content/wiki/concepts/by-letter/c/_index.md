@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5485
+wiki_total_pages: 5486
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "ConfidenceProfileTeamManagement"
     title: "Confidence Profile Team Management"
     url: "/wiki/concepts/confidenceprofileteammanagement/"
+  - key: "ConfidentialRemonstranceLeakage"
+    title: "Confidential Remonstrance Leakage / 密奏泄露风险"
+    url: "/wiki/concepts/confidentialremonstranceleakage/"
   - key: "ConfucianForeignPolicyMoralism"
     title: "Confucian Foreign Policy Moralism / 儒家外交道德主义"
     url: "/wiki/concepts/confucianforeignpolicymoralism/"

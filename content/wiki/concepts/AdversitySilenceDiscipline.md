@@ -2,11 +2,13 @@
 title: "Adversity Silence Discipline / 逆境守口"
 type: concept
 tags: [communication, self-management, political-survival, late-han]
-sources: [zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
+sources: [zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]
 last_updated: 2026-08-26
 ---
 
 # Adversity Silence Discipline / 逆境守口
+
+[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] adds the secrecy and advice-risk precursor. The episode's Han Fei frame treats premature disclosure as giving others a chance to obstruct or retaliate, while the [[CaiYong|蔡邕]] memorial case shows that even truthful advice can become danger when the channel is not protected.
 
 [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds a lower-level precursor to the Hanji 918 "闭嘴" frame. [[CaiYong|蔡邕]] writes a defense after being framed, but the host reads the effort as ineffective because the accusers already control the hostile context; silence here means reducing explanation to enemies after the relationship has ceased to be truth-seeking.
 
@@ -15,6 +17,7 @@ last_updated: 2026-08-26
 In [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], the concept is grounded in the failed Liu He-Yang Qiu anti-eunuch plot: [[LiuHeSituLateHan|刘郃]] understands that [[CaoJieLateHan|曹节]]'s side has many ears and eyes, yet the plan still travels through [[YangQiuLateHan|阳球]]'s household to [[ChengHuangLateHan|程璜]]. The result makes "closing the mouth" an operational discipline, not only a personal virtue.
 
 ## Connections
+- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[HanFei|韩非]], [[CaiYong|蔡邕]], and [[ConfidentialRemonstranceLeakage|密奏泄露风险]] - secrecy and advice-risk precursor.
 - [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[CaiYong|蔡邕]], and [[CommunicationBoundarySetting]] - source-scoped explanation-boundary precursor.
 - [[CommunicationBoundarySetting]] — adjacent concept for controlling when, how, and to whom speech is useful.
 - [[LethalPlanLeakageRisk]] — strategic version of the same problem under mortal political stakes.
