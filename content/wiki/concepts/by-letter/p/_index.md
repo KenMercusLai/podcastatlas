@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5456
+wiki_total_pages: 5461
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "ParticipantObserverEntanglement"
     title: "Participant-Observer Entanglement / 参与观察者纠缠"
     url: "/wiki/concepts/participantobserverentanglement/"
+  - key: "ParticipationDataMoat"
+    title: "Participation Data Moat / 参赛数据护城河"
+    url: "/wiki/concepts/participationdatamoat/"
   - key: "ParticipatoryExhibitions"
     title: "Participatory Exhibitions"
     url: "/wiki/concepts/participatoryexhibitions/"

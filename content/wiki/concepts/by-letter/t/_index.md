@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5456
+wiki_total_pages: 5461
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "TrademarkResaleBoundary"
     title: "Trademark Resale Boundary"
     url: "/wiki/concepts/trademarkresaleboundary/"
+  - key: "TrademarkBasedEventProtection"
+    title: "Trademark-Based Event Protection"
+    url: "/wiki/concepts/trademarkbasedeventprotection/"
   - key: "TradingCompanyInvestmentModel"
     title: "Trading Company Investment Model"
     url: "/wiki/concepts/tradingcompanyinvestmentmodel/"

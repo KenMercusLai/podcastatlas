@@ -2,8 +2,8 @@
 title: "Sports Lifestyle Consumption"
 type: concept
 tags: [sports, fashion, consumer, lifestyle, urban-life]
-sources: [vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
-last_updated: 2026-08-24
+sources: [shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335, vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
+last_updated: 2026-08-26
 ---
 
 # Sports Lifestyle Consumption
@@ -20,6 +20,8 @@ The concept connects sports marketing to [[ConsumerBrandMoat]]. A team shirt or 
 
 [[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] adds the retro-sportswear revival version through [[AdidasSamba|Adidas Samba]]. The source treats Samba's renewed celebrity and social-media visibility as part of [[Adidas]]' recovery, showing how an old sports-rooted product can become a contemporary fashion signal when it is recirculated through street style and short-video culture.
 
+[[shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335]] adds the quantified fitness-race version through [[HYROX]]. Here lifestyle value comes from training for a visible event, receiving an official score, comparing rankings globally, and repeating the race to improve, so [[ParticipationDataMoat]] becomes part of the social identity rather than only back-end measurement.
+
 ## Key Claims
 - A sports event can create lifestyle demand among people who do not watch every match or follow every team.
 - Retro jerseys and fashion styling turn older football symbols into contemporary apparel.
@@ -30,6 +32,7 @@ The concept connects sports marketing to [[ConsumerBrandMoat]]. A team shirt or 
 - EP250 adds that outdoor-sports lifestyle needs safety literacy: clothing, equipment, route judgment, and weather humility cannot be reduced to aesthetic identity.
 - Sports lifestyle footwear can shift from flat heritage silhouettes toward comfort and technical function.
 - Retro sportswear can also regain lifestyle relevance when archive products are matched to current styling codes, but the source keeps that as only one part of an operating recovery.
+- Quantified fitness events can become lifestyle scenes when official scores, rankings, completion identity, and gym communities give participants a reason to display and repeat the sport.
 
 ## Connections
 - [[Vans]], [[Converse]], [[HOKA]], [[Salomon]], [[ComfortLedFootwearDemand]], and [[ClassicCanvasShoeDecline]] - footwear branch.
@@ -40,3 +43,4 @@ The concept connects sports marketing to [[ConsumerBrandMoat]]. A team shirt or 
 - [[UrbanNicheSports]], [[Padel]], [[MermaidFreediving]], [[ArmoredCombat]], [[LeisureSailing]], [[StandUpPaddleboarding]], [[ArcheryFlow]], and [[PreCommercialSportsCommunity]] - participation-based lifestyle sports branch added by EP238.
 - [[OutdoorFlowState]], [[TrailRunningEntryRisk]], [[OutdoorSafetyPreparation]], [[RockClimbingFailurePractice]], and [[WomenOutdoorVisibility]] - mountain and wilderness participation branch added by EP250.
 - [[AdidasSamba|Adidas Samba]], [[RetroProductRevival]], and [[Yeezy]] - retro-product and celebrity-risk branch added by Vol.271.
+- [[HYROX]], [[FitnessRaceStandardization]], [[ParticipationDataMoat]], and [[AuthorizedFitnessTrainingNetwork]] - quantified fitness-race branch added by 商业小样47.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？](sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335.md) — 商业就是这样 short episode on HYROX's copyable fitness-race rules, trademark protection, participation-data moat, gym authorization, global rankings, and sponsor/event network.
 - [699. The Troubles: Return of the IRA (Part 3)](sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642.md) — The Rest Is History episode on the 1970-1971 Troubles escalation through the Provisional IRA, Falls Curfew, internment, Operation Demetrius, interrogation abuse, loyalist mobilization, and bombing retaliation.
 - [《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？](sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz.md) — 芮淇讲透资治通鉴 episode on Lü Bu's failed Yuan Shu rescue attempt, Zhang Yang's aborted aid, Cao Cao's water siege of Xiapi, and Hou Cheng/Song Xian/Wei Xu's defection after the alcohol-ban dispute.
 - [《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕](sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1.md) — 芮淇讲透资治通鉴 episode on Cao Cao's final siege of Lü Bu at Xiapi, Liu Bei's warning, Chen Gong and Gao Shun's deaths, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, and former defectors before Guandu.
@@ -1468,6 +1469,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [HYROX](entities/HYROX.md) — Fitness-racing event brand whose moat comes from official status, standardized results, participant data, authorization, and event execution rather than proprietary exercise rules.
+- [HYROX World GmbH](entities/HYROXWorldGmbH.md) — Company page for the HYROX trademark and official commercial system behind the event brand.
+- [Ironman / 铁人三项](entities/IronmanTriathlon.md) — Endurance event-brand comparison used to explain how existing sports can be bundled into an official race identity.
+- [盈方 / Infront Sports & Media](entities/InfrontSportsMedia.md) — Sports-marketing and event-network company named as part of HYROX's operating support and Wanda-linked context.
+- [袁放 / Yuan Fang (HYROX)](entities/YuanFangHYROX.md) — HYROX China-region lead cited for gym authorization and rights-protection work.
+- [王石 / Wang Shi](entities/WangShiVanke.md) — Business figure whose HYROX participation video helped the event enter broader Chinese attention.
 - [侯成 / Hou Cheng (late Han)](entities/HouChengLateHan.md) — Lü Bu subordinate whose wine-meat offering under the alcohol ban turns into the mutiny that hands Chen Gong and Gao Shun to Cao Cao at Xiapi.
 - [宋宪 / Song Xian (late Han)](entities/SongXianLateHan.md) — Lü Bu subordinate who joins Hou Cheng and Wei Xu in the Xiapi defection against Lü Bu.
 - [杨丑 / Yang Chou (late Han)](entities/YangChouLateHan.md) — Zhang Yang subordinate who kills Zhang Yang during the attempted relief of Lü Bu before being killed by Sui Gu.
@@ -9064,6 +9071,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mass Participation Sports Event Moat](concepts/MassParticipationSportsEventMoat.md) — Durable event advantage created when brand, standardized rules, data, access, sponsors, gyms, and execution surround a copyable sport format.
+- [Fitness Race Standardization](concepts/FitnessRaceStandardization.md) — Design of a functional-fitness competition so participants can train for the same sequence and compare results across events.
+- [Participation Data Moat / 参赛数据护城河](concepts/ParticipationDataMoat.md) — Retention advantage from official race records, splits, rankings, and performance histories that participants do not want to abandon.
+- [Trademark-Based Event Protection](concepts/TrademarkBasedEventProtection.md) — Protecting an event brand through names, marks, visual systems, training services, and official affiliations when the rules themselves are open.
+- [Authorized Fitness Training Network](concepts/AuthorizedFitnessTrainingNetwork.md) — Gym and course authorization layer tying local training, official programming, community activity, and priority race access to an event brand.
 - [Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈](concepts/SuspicionTriggeredCommandMutiny.md) — Hanji 1025 pattern where a besieged commander's suspicion turns a subordinate's loyalty gesture into fear, anger, and organized defection.
 - [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Hanji 1026 Cao Cao pattern where former enemies, local brokers, and past defectors are selectively incorporated to stabilize territory before the next campaign.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.

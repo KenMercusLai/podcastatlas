@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5456
+wiki_total_pages: 5461
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1706,6 +1706,9 @@ wiki_pages:
   - key: "AuthoritarianWarExitDilemma"
     title: "Authoritarian War Exit Dilemma"
     url: "/wiki/concepts/authoritarianwarexitdilemma/"
+  - key: "AuthorizedFitnessTrainingNetwork"
+    title: "Authorized Fitness Training Network"
+    url: "/wiki/concepts/authorizedfitnesstrainingnetwork/"
   - key: "AutismAsHumanDifference"
     title: "Autism As Human Difference"
     url: "/wiki/concepts/autismashumandifference/"

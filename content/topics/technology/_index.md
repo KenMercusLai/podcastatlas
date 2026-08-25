@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2405
+topic_total_pages: 2406
 topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
@@ -2482,6 +2482,9 @@ topic_concepts:
   - key: "ParentingDataHypervigilance"
     title: "Parenting Data Hypervigilance"
     url: "/wiki/concepts/parentingdatahypervigilance/"
+  - key: "ParticipationDataMoat"
+    title: "Participation Data Moat / 参赛数据护城河"
+    url: "/wiki/concepts/participationdatamoat/"
   - key: "PatientAIUse"
     title: "Patient AI Use"
     url: "/wiki/concepts/patientaiuse/"

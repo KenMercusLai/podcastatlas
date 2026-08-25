@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5456
+wiki_total_pages: 5461
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "FissionGrowth"
     title: "Fission Growth"
     url: "/wiki/concepts/fissiongrowth/"
+  - key: "FitnessRaceStandardization"
+    title: "Fitness Race Standardization"
+    url: "/wiki/concepts/fitnessracestandardization/"
   - key: "FiveTechniques"
     title: "Five Techniques"
     url: "/wiki/concepts/fivetechniques/"

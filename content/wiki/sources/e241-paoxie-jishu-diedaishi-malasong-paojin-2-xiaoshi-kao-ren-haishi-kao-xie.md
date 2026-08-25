@@ -22,7 +22,7 @@ This [[SiliconValley101]] episode with [[Gaide]] uses the source's reported 2026
 - [[AdidasAdiosProEvo3]] is presented as a production-ready commercial milestone: sub-100-gram concept shoes existed, but the episode says Adidas paired weight reduction with enough durability and race credibility to sell the shoe.
 - [[Nike]]'s missed sub-2 moment is attributed in the episode to [[KelvinKiptum]]'s death, business turmoil, DTC/channel choices, CEO change, and a racing-shoe line seen as lacking a major new leap.
 - [[AthleteSponsorshipStrategy]] matters because marathon podium results create professional proof, break out into mainstream attention, and can make even non-elite runners buy top-tier racing shoes.
-- [[PerformanceFootwearMarket]] is broadening: [[NewBalance]], [[ASICS]], [[HOKA]], [[OnRunning]], and Chinese brands such as [[Xtep]], [[LiNing]], [[QiaodanSports]], and [[361Degrees]] compete across racing, slow running, lifestyle, trail running, HYROX, and overseas-market opportunities.
+- [[PerformanceFootwearMarket]] is broadening: [[NewBalance]], [[ASICS]], [[HOKA]], [[OnRunning]], and Chinese brands such as [[Xtep]], [[LiNing]], [[QiaodanSports]], and [[361Degrees]] compete across racing, slow running, lifestyle, trail running, [[HYROX]], and overseas-market opportunities.
 
 ## Key Quotes
 > "破 2 到底靠人，还是靠鞋？" — the episode's central question.

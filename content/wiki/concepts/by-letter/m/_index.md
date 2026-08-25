@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 5456
+wiki_total_pages: 5461
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "MascotLedBrandRecognition"
     title: "Mascot Led Brand Recognition"
     url: "/wiki/concepts/mascotledbrandrecognition/"
+  - key: "MassParticipationSportsEventMoat"
+    title: "Mass Participation Sports Event Moat"
+    url: "/wiki/concepts/massparticipationsportseventmoat/"
   - key: "MassRetailProductionDeadline"
     title: "Mass Retail Production Deadline"
     url: "/wiki/concepts/massretailproductiondeadline/"

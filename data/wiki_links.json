@@ -5203,6 +5203,10 @@
     "title": "Authoritarian War Exit Dilemma",
     "url": "/wiki/concepts/authoritarianwarexitdilemma/"
   },
+  "AuthorizedFitnessTrainingNetwork": {
+    "title": "Authorized Fitness Training Network",
+    "url": "/wiki/concepts/authorizedfitnesstrainingnetwork/"
+  },
   "AutismAsHumanDifference": {
     "title": "Autism As Human Difference",
     "url": "/wiki/concepts/autismashumandifference/"
@@ -16899,6 +16903,10 @@
     "title": "Fitbit AI Health Coach",
     "url": "/wiki/entities/fitbitaihealthcoach/"
   },
+  "FitnessRaceStandardization": {
+    "title": "Fitness Race Standardization",
+    "url": "/wiki/concepts/fitnessracestandardization/"
+  },
   "FiveBelow": {
     "title": "Five Below",
     "url": "/wiki/entities/fivebelow/"
@@ -20035,6 +20043,14 @@
     "title": "HTC",
     "url": "/wiki/entities/htc/"
   },
+  "HYROX": {
+    "title": "HYROX",
+    "url": "/wiki/entities/hyrox/"
+  },
+  "HYROXWorldGmbH": {
+    "title": "HYROX World GmbH",
+    "url": "/wiki/entities/hyroxworldgmbh/"
+  },
   "HaagenDazs": {
     "title": "Haagen-Dazs",
     "url": "/wiki/entities/haagendazs/"
@@ -22823,6 +22839,10 @@
     "title": "Infrastructure Software Revaluation",
     "url": "/wiki/concepts/infrastructuresoftwarerevaluation/"
   },
+  "InfrontSportsMedia": {
+    "title": "盈方 / Infront Sports & Media",
+    "url": "/wiki/entities/infrontsportsmedia/"
+  },
   "IngredientReformulationStrategy": {
     "title": "Ingredient Reformulation Strategy",
     "url": "/wiki/concepts/ingredientreformulationstrategy/"
@@ -23414,6 +23434,10 @@
   "IrishRepublicanArmy": {
     "title": "Irish Republican Army",
     "url": "/wiki/entities/irishrepublicanarmy/"
+  },
+  "IronmanTriathlon": {
+    "title": "Ironman / 铁人三项",
+    "url": "/wiki/entities/ironmantriathlon/"
   },
   "IronwoodTPU": {
     "title": "Ironwood TPU",
@@ -29863,6 +29887,10 @@
     "title": "Mashie",
     "url": "/wiki/entities/mashie/"
   },
+  "MassParticipationSportsEventMoat": {
+    "title": "Mass Participation Sports Event Moat",
+    "url": "/wiki/concepts/massparticipationsportseventmoat/"
+  },
   "MassRetailProductionDeadline": {
     "title": "Mass Retail Production Deadline",
     "url": "/wiki/concepts/massretailproductiondeadline/"
@@ -34622,6 +34650,10 @@
   "ParticipantObserverEntanglement": {
     "title": "Participant-Observer Entanglement / 参与观察者纠缠",
     "url": "/wiki/concepts/participantobserverentanglement/"
+  },
+  "ParticipationDataMoat": {
+    "title": "Participation Data Moat / 参赛数据护城河",
+    "url": "/wiki/concepts/participationdatamoat/"
   },
   "ParticipatoryExhibitions": {
     "title": "Participatory Exhibitions",
@@ -46407,6 +46439,10 @@
     "title": "Trade Reciprocity Protectionism",
     "url": "/wiki/concepts/tradereciprocityprotectionism/"
   },
+  "TrademarkBasedEventProtection": {
+    "title": "Trademark-Based Event Protection",
+    "url": "/wiki/concepts/trademarkbasedeventprotection/"
+  },
   "TrademarkResaleBoundary": {
     "title": "Trademark Resale Boundary",
     "url": "/wiki/concepts/trademarkresaleboundary/"
@@ -48354,6 +48390,10 @@
   "WangShiTancheng": {
     "title": "王氏 / Woman Wang",
     "url": "/wiki/entities/wangshitancheng/"
+  },
+  "WangShiVanke": {
+    "title": "王石 / Wang Shi",
+    "url": "/wiki/entities/wangshivanke/"
   },
   "WangShipeng": {
     "title": "王十朋 / Wang Shipeng",
@@ -51646,6 +51686,10 @@
   "YuanDanFestivalLayering": {
     "title": "YuanDan Festival Layering / 元旦节日层累",
     "url": "/wiki/concepts/yuandanfestivallayering/"
+  },
+  "YuanFangHYROX": {
+    "title": "袁放 / Yuan Fang (HYROX)",
+    "url": "/wiki/entities/yuanfanghyrox/"
   },
   "YuanHuanLateHan": {
     "title": "袁涣 / Yuan Huan (late Han)",
@@ -54994,6 +55038,10 @@
   "shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014": {
     "title": "商业小样46 | 买机票时，为什么总要多交两笔钱？",
     "url": "/wiki/sources/shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014/"
+  },
+  "shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335": {
+    "title": "商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？",
+    "url": "/wiki/sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335/"
   },
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": {
     "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",

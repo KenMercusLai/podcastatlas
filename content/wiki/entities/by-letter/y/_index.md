@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7592
+wiki_total_pages: 7598
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "YuanZhang"
     title: "袁掌 / Yuan Zhang"
     url: "/wiki/entities/yuanzhang/"
+  - key: "YuanFangHYROX"
+    title: "袁放 / Yuan Fang (HYROX)"
+    url: "/wiki/entities/yuanfanghyrox/"
   - key: "YuanShu"
     title: "袁术 / Yuan Shu"
     url: "/wiki/entities/yuanshu/"

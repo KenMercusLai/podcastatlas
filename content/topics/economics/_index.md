@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1842
+topic_total_pages: 1843
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4742,6 +4742,9 @@ topic_entities:
   - key: "MouYiling"
     title: "牟一凌 / Mou Yiling"
     url: "/wiki/entities/mouyiling/"
+  - key: "WangShiVanke"
+    title: "王石 / Wang Shi"
+    url: "/wiki/entities/wangshivanke/"
   - key: "WangLixin"
     title: "王立新 / Wang Lixin"
     url: "/wiki/entities/wanglixin/"

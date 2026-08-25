@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 7592
+wiki_total_pages: 7598
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "IrishRepublicanArmy"
     title: "Irish Republican Army"
     url: "/wiki/entities/irishrepublicanarmy/"
+  - key: "IronmanTriathlon"
+    title: "Ironman / 铁人三项"
+    url: "/wiki/entities/ironmantriathlon/"
   - key: "IronwoodTPU"
     title: "Ironwood TPU"
     url: "/wiki/entities/ironwoodtpu/"
@@ -323,6 +326,9 @@ wiki_pages:
   - key: "ItaiTaeko"
     title: "板井太子"
     url: "/wiki/entities/itaitaeko/"
+  - key: "InfrontSportsMedia"
+    title: "盈方 / Infront Sports & Media"
+    url: "/wiki/entities/infrontsportsmedia/"
   - key: "InamoriKazuo"
     title: "稻盛和夫 / Inamori Kazuo"
     url: "/wiki/entities/inamorikazuo/"
