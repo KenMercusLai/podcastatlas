@@ -41415,6 +41415,10 @@
     "title": "《尚书》 / Shangshu",
     "url": "/wiki/entities/shangshu/"
   },
+  "ShangshuTaiImperialAccess": {
+    "title": "尚书台近侍权力 / Shangshu Tai Imperial Access",
+    "url": "/wiki/concepts/shangshutaiimperialaccess/"
+  },
   "ShangyeJiushiZheyang": {
     "title": "商业就是这样",
     "url": "/wiki/entities/shangyejiushizheyang/"
@@ -41590,6 +41594,10 @@
   "ShenZhenwen": {
     "title": "沈真文 / Shen Zhenwen",
     "url": "/wiki/entities/shenzhenwen/"
+  },
+  "ShenZhongLateHan": {
+    "title": "沈忠 / Shen Zhong (late Han)",
+    "url": "/wiki/entities/shenzhonglatehan/"
   },
   "ShengYing": {
     "title": "盛颖 / Sheng Ying",
@@ -51855,6 +51863,10 @@
     "title": "余樊君 / Yu Fanjun",
     "url": "/wiki/entities/yufanjun/"
   },
+  "YuGuirenLateHan": {
+    "title": "于贵人 / Yu Guiren (late Han)",
+    "url": "/wiki/entities/yuguirenlatehan/"
+  },
   "YuJi": {
     "title": "虞姬 / Yu Ji",
     "url": "/wiki/entities/yuji/"
@@ -57158,6 +57170,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu": {
+    "title": "《资治通鉴·汉纪》916丨命好和运好哪个更重要？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu/"
   },
   "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg": {
     "title": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？",

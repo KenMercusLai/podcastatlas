@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5480
+wiki_total_pages: 5481
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "SmallTownExamTakerDiscipline"
     title: "小镇做题家规训 / Small-Town Exam-Taker Discipline"
     url: "/wiki/concepts/smalltownexamtakerdiscipline/"
+  - key: "ShangshuTaiImperialAccess"
+    title: "尚书台近侍权力 / Shangshu Tai Imperial Access"
+    url: "/wiki/concepts/shangshutaiimperialaccess/"
   - key: "SichuanPostConquestResistance"
     title: "川蜀征服后反抗 / Sichuan Post-Conquest Resistance"
     url: "/wiki/concepts/sichuanpostconquestresistance/"

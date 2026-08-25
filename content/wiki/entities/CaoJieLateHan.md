@@ -2,11 +2,15 @@
 title: "曹节 / Cao Jie (late Han eunuch)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
+sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]
 last_updated: 2026-08-26
 ---
 
 # 曹节 / Cao Jie (late Han eunuch)
+
+[[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] backfills Cao Jie's recovery before the Lyu Qiang and Liu He branches. During [[YuGuirenLateHan|于贵人]]'s funeral procession, he sees [[WangFuLateHan|王甫]]'s mutilated corpse abandoned by the road and turns the scene into an argument that palace eunuchs must regroup rather than scatter home.
+
+The episode shows Cao Jie converting visible humiliation into access politics. He leads other zhongchangshi to [[EmperorLingOfHan|汉灵帝]], argues that [[YangQiuLateHan|阳球]] is too brutal to remain sili xiaowei, and soon gains shangshu ling power through [[ShangshuTaiImperialAccess|尚书台近侍权力]]. This makes the later Hanji 917-918 anti-Cao Jie escalation a rebound after Cao Jie has already retaken the inner-court channel.
 
 [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills Cao Jie as one of the eunuch favorites named in [[LyuQiangLateHan|吕强]]'s refused-title remonstrance. The episode normalizes the transcript's 曹杰/曹洁 to Cao Jie and makes him part of the marquisate and family-privilege problem that Lyu Qiang says violates the no-merit-no-marquis standard.
 
@@ -21,6 +25,7 @@ This earlier layer changes the Cao Jie page from a death marker into a surveilla
 The episode pairs Cao Jie with the older grievance against [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]]. That makes him more than a succession vacancy. His death is a handoff point inside the palace-favorite channel, where one generation's anti-eunuch wounds become the background for Zhao Zhong's later greed, arrogance, and access to [[EmperorLingOfHan|汉灵帝]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[YuGuirenLateHan|于贵人]], [[WangFuLateHan|王甫]], [[YangQiuLateHan|阳球]], and [[ShangshuTaiImperialAccess|尚书台近侍权力]] - funeral-triggered regrouping, Yang Qiu transfer, and shangshu ling access recovery.
 - [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[ZhuYuLateHan|朱瑀]], [[YangQiuLateHan|阳球]], and [[WangFuLateHan|王甫]] - merit-title criticism and next-target setup before the plot leak.
 - [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[LiuHeSituLateHan|刘郃]], [[YangQiuLateHan|阳球]], [[ChengHuangLateHan|程璜]], and [[EmperorLingOfHan|汉灵帝]] - pre-181 plot target and exposure beneficiary.
 - [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[EmperorLingOfHan|汉灵帝]], and [[ZhaoZhongLateHan|赵忠]] - source case and office succession.

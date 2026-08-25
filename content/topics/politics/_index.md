@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1876
+topic_total_pages: 1877
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5592,6 +5592,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu"
+    title: "《资治通鉴·汉纪》916丨命好和运好哪个更重要？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu/"
   - key: "zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg"
     title: "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？"
     url: "/wiki/sources/zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg/"

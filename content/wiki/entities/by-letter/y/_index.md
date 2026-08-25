@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 7640
+wiki_total_pages: 7642
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "YuMiLateHan"
     title: "于糜 / Yu Mi (late Han)"
     url: "/wiki/entities/yumilatehan/"
+  - key: "YuGuirenLateHan"
+    title: "于贵人 / Yu Guiren (late Han)"
+    url: "/wiki/entities/yuguirenlatehan/"
   - key: "YunguChanshi"
     title: "云谷禅师 / Yungu Chanshi"
     url: "/wiki/entities/yunguchanshi/"

@@ -2,11 +2,13 @@
 title: "Celestial Omen Political Responsibility / 天象政治责任"
 type: concept
 tags: [historiography, omens, legitimacy, chinese-history]
-sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-26
 ---
 
 # Celestial Omen Political Responsibility / 天象政治责任
+
+[[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] adds a remonstrance-use variant before later omen-triggered personnel changes. [[ShenZhongLateHan|沈忠]] lists locusts, frontier rebellion, solar eclipse, earthquake, and other signs as warnings that [[EmperorLingOfHan|汉灵帝]] should answer by correcting eunuch corruption. The omen does not trigger repair; it becomes one argument inside a shelved memorial.
 
 [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] adds a pre-Hanji-941 comet case. A comet appears in the Zi Gong star region, which the episode explains as symbolically close to the ruler's palace order. [[EmperorLingOfHan|汉灵帝]] responds with ritual apology and sacrifice, so the omen functions as a crisis-responsibility signal before the later red-qi route warning.
 
@@ -27,6 +29,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds a Qin imperial case through [[ChineseAstrologicalPolitics|荧惑守心]]. The source explains the sign as Mars pausing or reversing in the Heart mansion and treats it as a warning attached to the ruler's fate. The page keeps the same method as with eclipses: the omen is evidence for political reasoning and narrative pressure, not proof of celestial causation.
 
 ## Key Claims
+- Hanji 916 adds that omen language can strengthen a remonstrance without triggering correction when the court shelves the memorial.
 - Hanji 939 adds the comet-and-sacrifice version: an omen can trigger ritual accountability without yet producing a specific personnel purge or travel cancellation.
 - Hanji 941 adds the route-changing and security-trigger version: omen interpretation can cancel imperial travel, expose a coup window, and redirect the ruler toward military display.
 - Hanji 942 adds the routine office-responsibility version: an eclipse can trigger dismissal and replacement without becoming a violent purge.
@@ -40,6 +43,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 - Qinji 126 adds that non-eclipse celestial events could also be read as direct warnings about imperial death and legitimacy crisis.
 
 ## Connections
+- [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[ShenZhongLateHan|沈忠]], [[EmperorLingOfHan|汉灵帝]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[DeathDefyingRemonstrance|赴死式直谏]] - omens used inside a shelved anti-eunuch memorial.
 - [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[EmperorLingOfHan|汉灵帝]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - comet warning and crisis-response background before institutional devolution.
 - [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WangFenLateHan|王芬]], [[EmperorLingOfHan|汉灵帝]], [[ImperialDepositionCoupRisk|废立政变风险]], and [[WestGardenEightColonels|西园八校尉]] - red qi warning, cancelled route, and Pingle Guan military display.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[MaRidiLateHan|马日磾]], and [[LiuYuLateHan|刘虞]] - solar eclipse followed by taiwei dismissal and replacement.

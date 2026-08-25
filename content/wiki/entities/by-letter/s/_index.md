@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7640
+wiki_total_pages: 7642
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1652,6 +1652,9 @@ wiki_pages:
   - key: "ShenYujun"
     title: "沈宇军 / Shen Yujun"
     url: "/wiki/entities/shenyujun/"
+  - key: "ShenZhongLateHan"
+    title: "沈忠 / Shen Zhong (late Han)"
+    url: "/wiki/entities/shenzhonglatehan/"
   - key: "ShenZhenwen"
     title: "沈真文 / Shen Zhenwen"
     url: "/wiki/entities/shenzhenwen/"

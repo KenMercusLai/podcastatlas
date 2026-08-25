@@ -2,11 +2,13 @@
 title: "Palace Access Monopoly / 宫廷接触垄断"
 type: concept
 tags: [governance, court-politics, information-control, qin]
-sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7, zizhi-tongjian-qinji-130-4-ruhe-dinglun-qinxiang-lisi-de-xiachang-ljnz0vflgr62hyktrg5cigz7c-7x]
+last_updated: 2026-08-26
 ---
 
 # Palace Access Monopoly / 宫廷接触垄断
+
+[[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]] adds a document-office access version before the later inspection, slander, and coup branches. [[CaoJieLateHan|曹节]] first uses collective palace access to persuade [[EmperorLingOfHan|汉灵帝]] to move [[YangQiuLateHan|阳球]] away from the sili xiaowei post; the episode then explains the shangshu ling role as powerful because it handles memorials and sees the emperor daily through [[ShangshuTaiImperialAccess|尚书台近侍权力]].
 
 [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] adds an inspection-report version before the Zhang Rang and Zhao Zhong bribery branches. [[ZuoFengLateHan|左丰]] is sent to [[LuZhiLateHan|卢植]]'s Guangzong camp because [[EmperorLingOfHan|汉灵帝]] is uneasy about a commander holding heavy troops; after Lu Zhi refuses to give him a gift, Zuo Feng's report recodes siege preparation as idle delay.
 
@@ -51,6 +53,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] widens the access problem from audience timing to crisis information. Zhao Gao keeps reports of [[WangLiQin|王离]]'s capture, [[ZhangHanQin|章邯]]'s defeats, and broad eastern rebellion from Hu Hai, while using [[PointingDeerAsHorse|指鹿为马]] to map which officials will publicly obey him. The access monopoly has therefore become [[CrisisInformationBlockade|危机信息封锁]] plus public loyalty testing.
 
 ## Key Claims
+- Hanji 916 adds that access monopoly can run through document routing and daily audience, before the later inspection, slander, and coup forms become visible.
 - Hanji 928 adds that access monopoly can run through an inspection report: a court envoy can turn gift refusal and a slanted field report into command removal.
 - Hanji 934 adds that access monopoly can convert refused bribery and anti-corruption reporting into slander against a useful commander.
 - Hanji 935 adds that access monopoly can control interpretation before it controls bodies: a crisis warning can be recoded as suspicious knowledge and contact with enemies.
@@ -67,6 +70,7 @@ The episode treats this as a specific form of [[CourtFeedbackCollapse|君臣反�
 - Qinji 137 adds that access monopoly can also become battlefield-news blockade: the intermediary decides not only who reaches the ruler, but what reality reaches him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]], [[CaoJieLateHan|曹节]], [[YangQiuLateHan|阳球]], [[EmperorLingOfHan|汉灵帝]], and [[ShangshuTaiImperialAccess|尚书台近侍权力]] - palace complaint and shangshu ling document-access mechanism.
 - [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZuoFengLateHan|左丰]], [[LuZhiLateHan|卢植]], [[EmperorLingOfHan|汉灵帝]], [[DongZhuo|董卓]], and [[InspectionGiftGatekeeping|巡查送礼关口]] - inspection report, gift refusal, and replacement command.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[EmperorLingOfHan|汉灵帝]] - refused bribe and anti-corruption memorial turned into slander.
 - [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - remonstrance interpreted as criminal suspicion through eunuch access.
