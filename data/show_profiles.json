@@ -2336,7 +2336,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
-      "source_note_count": 404,
+      "source_note_count": 405,
       "topic_matched_source_note_count": 247,
       "topics": [
         {
@@ -2366,16 +2366,16 @@
       ],
       "entities": [
         {
-          "key": "QinShiHuang",
-          "title": "Qin Shi Huang / 秦始皇",
-          "url": "/wiki/entities/qinshihuang/",
-          "kind": "person",
-          "episode_count": 48
-        },
-        {
           "key": "CaoCao",
           "title": "曹操 / Cao Cao",
           "url": "/wiki/entities/caocao/",
+          "kind": "person",
+          "episode_count": 49
+        },
+        {
+          "key": "QinShiHuang",
+          "title": "Qin Shi Huang / 秦始皇",
+          "url": "/wiki/entities/qinshihuang/",
           "kind": "person",
           "episode_count": 48
         },

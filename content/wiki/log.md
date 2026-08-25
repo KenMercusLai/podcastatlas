@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！
+
+Added source page for Hanji 1028: Sun Ce's Cao-backed title/marriage channel, Yuan Shu's proxy disruption through Zu Lang and Shanyue, Zhou Yu and Lu Su leaving Yuan Shu, and Sun Ce capturing then appointing Zu Lang and Taishi Ci. Created Lu Su, Shanyue, Sun Yi (Late Han), and Captured Opponent Talent Incorporation pages; updated linked Sun Ce, Taishi Ci, Zu Lang, Danyang, Zhou Yu, Yuan Shu, Cao Cao, Wang Lang, Zhang Hong, Liu Yao, Hua Xin, Sun Quan, and talent/trust concept pages. No settled contradiction found; Cao Cao's Wang Lang factional-balancing reading and Sun Ce character judgments remain source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先
 
 Added source page for Hanji 1029: Sun Ce's trust-based delegation to Taishi Ci after Liu Yao's death, Taishi Ci's promised return, and Yuzhang intelligence about Hua Xin's limited control over Tong Zhi/Luling and Panyang/Haihun. Created Character-Reading Delegation Trust, Tong Zhi (Late Han), Luling (Late Han), Panyang Local Forces, and Haihun (Late Han); updated Sun Ce, Taishi Ci, Liu Yao, Hua Xin, Yuzhang Commandery, Talent as State Treasure, Situational Character Tests, Retainer Reciprocity Ethic, Windfall Decision Trap, and Xingshiqing Strategic Assessment. No settled contradiction found; transcript variants around Liu Yao, Hua Xin, Tong Zhi, Panyang, and Luling are normalized cautiously.
@@ -11667,6 +11671,10 @@ Added source page for Hanji 1030: Yuan Shao's final pressure on Gongsun Zan at Y
 ## [2026-08-26] ingest | Elbows up, again: a US-Canada trade flare-up
 
 Added source page for The Intelligence episode on the breakdown in U.S.-Canada trade talks, Mark Carney's diversification dilemma, Japan's employment ice age generation, and Jeremy Black's totemic/utilitarian siege distinction. Created Mark Carney, Hal Hodson, Torigoe Atsushi, Jeremy Black, Alberta, Quebec, Trade Diversification Stability Paradox, Entry-Cohort Labor Market Scarring, and Siege Typology pages; updated connected Canada, United States, Donald Trump, Japan, Economist podcast, tariff, labor, and siege-history pages. No direct contradiction found; tariff figures, Japan cohort timing, and siege examples remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

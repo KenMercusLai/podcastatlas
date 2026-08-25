@@ -2,8 +2,8 @@
 title: "王朗 / Wang Lang (late Han)"
 type: entity
 tags: [person, late-han, official, commandery]
-sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4]
+last_updated: 2026-08-26
 ---
 
 # 王朗 / Wang Lang (late Han)
@@ -14,8 +14,11 @@ last_updated: 2026-08-24
 
 His defeated office still matters because Sun Ce later retains Yu Fan, Wang Lang's merit officer. That retention lets the episode sequence show Sun Ce's capacity to absorb local personnel before turning to the different problem Yu Fan identifies in Hanji 1005: the new ruler's personal-security habits do not match his expanded status.
 
+[[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] adds Wang Lang's post-capture transfer. [[CaoCao|曹操]] asks the court to summon Wang Lang, [[SunCe|孙策]] sends him back, and Cao Cao appoints him as `谏议大夫` while bringing him into military deliberation in the sikong office. The host reads this as scholar-gentry recruitment and possible balancing against the [[XunYu|荀彧]] field, so Wang Lang shifts from defeated Kuaiji governor into a court-side usable elite.
+
 ## Connections
 - [[SunCe|孙策]] - conqueror who displaces him in Kuaiji.
+- [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]], [[CaoCao|曹操]], and [[XunYu|荀彧]] - court summons, appointment, and source-scoped adviser-field reading.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[YuanShu|袁术]], [[LiuYaoLateHan|刘繇]], and [[WuJingLateHan|吴景]] - pre-campaign obstacle field Yuan Shu thinks will contain Sun Ce.
 - [[SunJingLateHan|孙静]] - adviser whose rear-attack plan helps break his defense.
 - [[KuaijiCommandery|会稽郡]] - office and local base.

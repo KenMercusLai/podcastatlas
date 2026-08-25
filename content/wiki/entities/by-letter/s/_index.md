@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7547
+wiki_total_pages: 7550
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "SunCe"
     title: "孙策 / Sun Ce"
     url: "/wiki/entities/sunce/"
+  - key: "SunYiLateHan"
+    title: "孙翊 / Sun Yi (late Han)"
+    url: "/wiki/entities/sunyilatehan/"
   - key: "SunBin"
     title: "孙膑 / Sun Bin"
     url: "/wiki/entities/sunbin/"
@@ -1598,6 +1601,9 @@ wiki_pages:
   - key: "ShandongLunengFootballSchool"
     title: "山东鲁能足校 / Shandong Luneng Football School"
     url: "/wiki/entities/shandonglunengfootballschool/"
+  - key: "Shanyue"
+    title: "山越 / Shanyue"
+    url: "/wiki/entities/shanyue/"
   - key: "ShimadaSoji"
     title: "岛田庄司 / Shimada Soji"
     url: "/wiki/entities/shimadasoji/"

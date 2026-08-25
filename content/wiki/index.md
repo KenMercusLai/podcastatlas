@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！](sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x.md) — 芮淇讲透资治通鉴 episode on Sun Ce consolidating Jiangdong by accepting Cao Cao's title overtures, drawing Zhou Yu and Lu Su out of Yuan Shu's orbit, and capturing then appointing Zu Lang and Taishi Ci.
 - [《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先](sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto.md) — 芮淇讲透资治通鉴 episode on Sun Ce sending Taishi Ci to pacify Liu Yao's remaining followers and inspect Yuzhang, with Hua Xin's limited control, Tong Zhi in Luling, and Panyang local forces near Haihun.
 - [《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？](sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8.md) — 芮淇讲透资治通鉴 episode on Yuan Shao reaching Yijing, Gongsun Zan's failed rescue-trust logic, Guan Jing's warning, and passive self-preservation as a failed strategy.
 - [Elbows up, again: a US-Canada trade flare-up](sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db.md) — The Intelligence episode on Canada-US tariff talks, Canada's diversification dilemma, Japan's employment ice age generation, and totemic versus utilitarian sieges.
@@ -1463,6 +1464,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser introduced by Hanji 1028 as leaving Yuan Shu's failing appointment path with Zhou Yu and moving his household toward Sun Ce's Qu'a base.
+- [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that Yuan Shu tries to mobilize through Zu Lang and that also supports Taishi Ci before Sun Ce's consolidation.
+- [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
 - [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning stops the elite-cavalry sortie because the remaining garrison would read it as abandonment.
 - [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son in Hanji 1030, sent from Yijing to seek Black Mountain Army help; disambiguated from Warring States Gongsun Xu.
 - [Mark Carney](entities/MarkCarney.md) — Canadian prime minister in The Intelligence source on renewed U.S.-Canada tariff talks and diversification constraints.
@@ -2214,7 +2218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘宠 / Liu Chong (Chen king)](entities/LiuChongChenKing.md) — Late-Han Chen king whose military defense and death with Luo Jun anchor Hanji 1019's local-order fragility case.
 - [骆俊 / Luo Jun](entities/LuoJun.md) — Chen state chancellor whose civil governance pairs with Liu Chong's military capacity before Yuan Shu's assassination plot removes both.
 - [陈国 / Chen State (late Han)](entities/ChenStateLateHan.md) — Late-Han refuge polity made strong by Liu Chong and Luo Jun, then destabilized after Zhang Kai's false-surrender assassination.
-- [孙策 / Sun Ce](entities/SunCe.md) — Late-Han regional actor whose break with Yuan Shu, Taishi Ci trust delegation, Kuaiji exposure warning, Cao-backed titles, and Chen Yu preemption show momentum and risk.
+- [孙策 / Sun Ce](entities/SunCe.md) — Late-Han regional actor whose break with Yuan Shu, captured-opponent incorporation, Taishi Ci trust delegation, Kuaiji exposure warning, Cao-backed titles, and Chen Yu preemption show momentum and risk.
 - [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Late-Han commander credited by Hanji 955 with killing Hua Xiong at Yangren and finding the Heirloom Imperial Seal, later becoming Sun Ce's inherited-title source.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
 - [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Late-Han killer linked both to the Hou Hanshu robbery version of Cao Song's death and Yuan Shu's false-surrender assassination of Liu Chong and Luo Jun.
@@ -9014,6 +9018,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
 - [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where a leader's refusal to rescue subordinates teaches them not to risk themselves when the leader later needs support.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
 - [Entry-Cohort Labor Market Scarring](concepts/EntryCohortLaborMarketScarring.md) — Long-run wage, pension, and housing damage from entering the workforce during a weak hiring regime.

@@ -7991,6 +7991,10 @@
     "title": "Captive Whale Sanctuary",
     "url": "/wiki/concepts/captivewhalesanctuary/"
   },
+  "CapturedOpponentTalentIncorporation": {
+    "title": "降敌任用式立威 / Captured Opponent Talent Incorporation",
+    "url": "/wiki/concepts/capturedopponenttalentincorporation/"
+  },
   "CapturedRulerLegitimacyContainment": {
     "title": "Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制",
     "url": "/wiki/concepts/capturedrulerlegitimacycontainment/"
@@ -28491,6 +28495,10 @@
     "title": "鲁国 / Lu State",
     "url": "/wiki/entities/lustate/"
   },
+  "LuSu": {
+    "title": "鲁肃 / Lu Su",
+    "url": "/wiki/entities/lusu/"
+  },
   "LuWan": {
     "title": "卢绾 / Lu Wan",
     "url": "/wiki/entities/luwan/"
@@ -41095,6 +41103,10 @@
     "title": "山下有松 / Shanxia Yousong",
     "url": "/wiki/entities/shanxiayousong/"
   },
+  "Shanyue": {
+    "title": "山越 / Shanyue",
+    "url": "/wiki/entities/shanyue/"
+  },
   "ShanzhaiPhones": {
     "title": "Shanzhai Phones",
     "url": "/wiki/concepts/shanzhaiphones/"
@@ -43894,6 +43906,10 @@
   "SunXiaLateHan": {
     "title": "孙夏 / Sun Xia (late Han)",
     "url": "/wiki/entities/sunxialatehan/"
+  },
+  "SunYiLateHan": {
+    "title": "孙翊 / Sun Yi (late Han)",
+    "url": "/wiki/entities/sunyilatehan/"
   },
   "SunYuanhua": {
     "title": "孙元化 / Sun Yuanhua",
@@ -56258,6 +56274,10 @@
   "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0": {
     "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+  },
+  "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x": {
+    "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
   },
   "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto": {
     "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
