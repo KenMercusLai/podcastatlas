@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 7535
+wiki_total_pages: 7541
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "Quark"
     title: "Quark"
     url: "/wiki/entities/quark/"
+  - key: "Quebec"
+    title: "Quebec"
+    url: "/wiki/entities/quebec/"
   - key: "QuebecCity"
     title: "Quebec City / 魁北克城"
     url: "/wiki/entities/quebeccity/"

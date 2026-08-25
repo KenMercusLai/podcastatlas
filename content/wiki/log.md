@@ -11655,3 +11655,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | Elbows up, again: a US-Canada trade flare-up
+
+Added source page for The Intelligence episode on the breakdown in U.S.-Canada trade talks, Mark Carney's diversification dilemma, Japan's employment ice age generation, and Jeremy Black's totemic/utilitarian siege distinction. Created Mark Carney, Hal Hodson, Torigoe Atsushi, Jeremy Black, Alberta, Quebec, Trade Diversification Stability Paradox, Entry-Cohort Labor Market Scarring, and Siege Typology pages; updated connected Canada, United States, Donald Trump, Japan, Economist podcast, tariff, labor, and siege-history pages. No direct contradiction found; tariff figures, Japan cohort timing, and siege examples remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

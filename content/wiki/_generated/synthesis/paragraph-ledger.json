@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
       "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
       "c028892a2d50db645a114ab75b1d3b261fe9f6136ee91e1c379ef58d9ec989a0",
       "6c34209727f75104903943b071128ff109161df77edfcda038729ce7304fa300",
@@ -223,11 +224,54 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 221
+    "paragraph_count": 222
   },
-  "overview_commit": "08b88a61f9fc8b89f22aa19eff90cd232f10cb53",
-  "overview_digest": "80d05b32be0bfa24ff6a4840c639093143af2a2d9cf9e4b627dd03b7470d60b0",
+  "overview_commit": "363c3887c39c97ac20cb8c898fff2aee71960e94",
+  "overview_digest": "04134fc5fe2db708984ddf7c7da22172c1329f349b7cf1a9b8e894ecc009dc67",
   "paragraphs": [
+    {
+      "id": "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]], a [[TheIntelligence]] episode connecting [[Canada]]-[[UnitedStates]] tariff talks, [[Japan]]'s [[EmploymentIceAgeGeneration|employment ice age generation]], and military-historical [[SiegeTypology]]. It adds [[MarkCarney]], [[HalHodson]], [[TorigoeAtsushi]], [[JeremyBlack]], [[Alberta]], [[Quebec]], [[TradeDiversificationStabilityParadox]], [[EntryCohortLaborMarketScarring]], and [[SiegeTypology]], while extending [[DonaldTrump]], [[EffectiveTariffRateShock]], [[TradeReciprocityProtectionism]], [[TariffConsumerPricePassThrough]], [[TariffPolicyPlanningRisk]], [[JapaneseLostDecades]], [[RetirementSecurityTradeoff]], [[ChristopherNolan]], [[TheOdyssey]], [[Vienna]], and [[OttomanEmpire]]. Its core synthesis is that dependence becomes harder to escape under live shock: Canada needs U.S. stability to finance diversification even while retaliation is domestically demanded, Japan's post-bubble workers show how a bad entry cohort can carry wage, pension, and housing scars for decades, and famous sieges matter through both symbolic memory and material strategic consequence. No settled contradiction is recorded; the Canadian tariff numbers, Japan cohort timing, and siege examples remain source-scoped to the episode.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Alberta",
+        "Canada",
+        "ChristopherNolan",
+        "DonaldTrump",
+        "EffectiveTariffRateShock",
+        "EmploymentIceAgeGeneration",
+        "EntryCohortLaborMarketScarring",
+        "HalHodson",
+        "Japan",
+        "JapaneseLostDecades",
+        "JeremyBlack",
+        "MarkCarney",
+        "OttomanEmpire",
+        "Quebec",
+        "RetirementSecurityTradeoff",
+        "SiegeTypology",
+        "TariffConsumerPricePassThrough",
+        "TariffPolicyPlanningRisk",
+        "TheIntelligence",
+        "TheOdyssey",
+        "TorigoeAtsushi",
+        "TradeDiversificationStabilityParadox",
+        "TradeReciprocityProtectionism",
+        "UnitedStates",
+        "Vienna",
+        "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db"
+      ]
+    },
     {
       "id": "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
       "primary_topic": "ai-and-technology",

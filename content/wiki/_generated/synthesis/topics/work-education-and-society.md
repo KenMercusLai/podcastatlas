@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-08-25
-as_of_overview_commit: 71248d9f4ed672a1c2b39202b6d732b4debbdf3a
-input_digest: e4bf5f7541a9edd8d3c858b65bf17106bf4d1c62efc73e990dab78cdefc25783
+last_updated: 2026-08-26
+as_of_overview_commit: 363c3887c39c97ac20cb8c898fff2aee71960e94
+input_digest: c89b6df168010b9e86f981a69e96aca4d7fce6417b30247db644ff46950a276a
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition. The Wudang episode adds a Daoist fieldwork and life-design branch: quitting work and going up the mountain become analytically useful only after romantic retreat stories are grounded in temple shifts, chores, bodily discomfort, tourist mediation, family obligations, fieldnote practice, and a Zhuangzi-style freedom based on reducing dependence on external scoring.
+The 2026-08-24 The Intelligence source adds a cohort-scarring branch: Japan's employment ice age generation shows that a weak labor-market entry window can shape wages, housing, pensions, and household formation long after the initial downturn. The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition. The Wudang episode adds a Daoist fieldwork and life-design branch: quitting work and going up the mountain become analytically useful only after romantic retreat stories are grounded in temple shifts, chores, bodily discomfort, tourist mediation, family obligations, fieldnote practice, and a Zhuangzi-style freedom based on reducing dependence on external scoring.
 
 ## Cross-source Findings
 
@@ -50,14 +50,15 @@ Across software, AI services, CPG, climate hardware, mobile hardware, robotics, 
 
 ### Career Entry And Advancement Need Context Practice
 
-Career progress and workplace pacing are framed as context practice rather than credential magic: [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[UpwardManagement]], [[PromotionExpectationManagement]], and [[InternalTransferStrategy]] turn entry, mobility, and AI-assisted work rhythm into staged communication, evidence, and risk-management problems.
+Career progress and workplace pacing are framed as context practice rather than credential magic, and the Japan branch adds that entry timing itself can become structural scarring: [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[UpwardManagement]], [[PromotionExpectationManagement]], and [[InternalTransferStrategy]] cover individual navigation, while [[EmploymentIceAgeGeneration]], [[EntryCohortLaborMarketScarring]], [[JapaneseLostDecades]], and [[RetirementSecurityTradeoff]] show how a bad cohort launch can keep reshaping wages, housing, pensions, and household formation.
 
-**Evidence:** [[InternshipAsCareerExploration]], [[GraduationAnxiety]], [[WorkplaceHiddenRules]], [[DirtyWork]], [[BigCompanyHalo]], [[UpwardManagement]], [[PromotionExpectationManagement]], [[InternalTransferStrategy]], [[YiLaoYongYi]], [[DeepSeek]]
+**Evidence:** [[InternshipAsCareerExploration]], [[GraduationAnxiety]], [[WorkplaceHiddenRules]], [[DirtyWork]], [[BigCompanyHalo]], [[UpwardManagement]], [[PromotionExpectationManagement]], [[InternalTransferStrategy]], [[YiLaoYongYi]], [[DeepSeek]], [[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]], [[Japan]], [[EmploymentIceAgeGeneration]], [[EntryCohortLaborMarketScarring]], [[JapaneseLostDecades]], [[RetirementSecurityTradeoff]], [[TorigoeAtsushi]]
 
 **Qualifications:**
 
 - Internships and transfers are most useful when tied to explicit stage goals, direction filtering, and managed communication rather than prestige alone.
 - EP58 treats bounded task pacing and AI-assisted presentation room as useful only when real delivery, role constraints, and judgment remain owned by the worker.
+- Japan's employment ice age details remain source-scoped to the 2026-08-24 The Intelligence episode and should not be generalized to every recession cohort without additional sources.
 
 ### Ai Native Research Expands Access But Needs Grounding
 

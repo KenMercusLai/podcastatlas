@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5440
+wiki_total_pages: 5443
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "EntrepreneurshipInfrastructure"
     title: "Entrepreneurship Infrastructure"
     url: "/wiki/concepts/entrepreneurshipinfrastructure/"
+  - key: "EntryCohortLaborMarketScarring"
+    title: "Entry-Cohort Labor Market Scarring"
+    url: "/wiki/concepts/entrycohortlabormarketscarring/"
   - key: "EntryLevelAICareerLadderRisk"
     title: "Entry-Level AI Career-Ladder Risk"
     url: "/wiki/concepts/entrylevelaicareerladderrisk/"

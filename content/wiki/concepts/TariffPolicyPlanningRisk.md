@@ -2,11 +2,13 @@
 title: "Tariff Policy Planning Risk"
 type: concept
 tags: [tariffs, small-business, supply-chain, planning]
-sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]
-last_updated: 2026-08-06
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]
+last_updated: 2026-08-26
 ---
 
 # Tariff Policy Planning Risk
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds the national-investment version of tariff planning risk. [[Canada]] wants to reorient trade and attract investment away from overdependence on the [[UnitedStates]], but [[MarkCarney]]'s negotiating pause and possible retaliation leave firms facing uncertain rates, demand, and political timing.
 
 Tariff policy planning risk is the business problem of making purchasing, supplier, and cash decisions while tariff rates and legal authority keep changing. In [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]], [[KaraDyer]]'s [[StorytimeToys]] illustrates the risk at small-business scale.
 

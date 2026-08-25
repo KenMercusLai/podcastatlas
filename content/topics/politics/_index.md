@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1846
+topic_total_pages: 1850
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2656,6 +2656,9 @@ topic_concepts:
   - key: "ToolAIHumanControl"
     title: "Tool AI Human Control"
     url: "/wiki/concepts/toolaihumancontrol/"
+  - key: "TradeDiversificationStabilityParadox"
+    title: "Trade Diversification Stability Paradox"
+    url: "/wiki/concepts/tradediversificationstabilityparadox/"
   - key: "TradeReciprocityProtectionism"
     title: "Trade Reciprocity Protectionism"
     url: "/wiki/concepts/tradereciprocityprotectionism/"
@@ -3077,6 +3080,9 @@ topic_entities:
   - key: "Alabama"
     title: "Alabama"
     url: "/wiki/entities/alabama/"
+  - key: "Alberta"
+    title: "Alberta"
+    url: "/wiki/entities/alberta/"
   - key: "AlexanderHamilton"
     title: "Alexander Hamilton"
     url: "/wiki/entities/alexanderhamilton/"
@@ -4007,6 +4013,9 @@ topic_entities:
   - key: "MarkAntony"
     title: "Mark Antony / 马克·安东尼"
     url: "/wiki/entities/markantony/"
+  - key: "MarkCarney"
+    title: "Mark Carney"
+    url: "/wiki/entities/markcarney/"
   - key: "MarkJohnson"
     title: "Mark Johnson"
     url: "/wiki/entities/markjohnson/"
@@ -4277,6 +4286,9 @@ topic_entities:
   - key: "Qatar"
     title: "Qatar"
     url: "/wiki/entities/qatar/"
+  - key: "Quebec"
+    title: "Quebec"
+    url: "/wiki/entities/quebec/"
   - key: "RachelReeves"
     title: "Rachel Reeves"
     url: "/wiki/entities/rachelreeves/"

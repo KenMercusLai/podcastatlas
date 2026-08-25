@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 5440
+wiki_total_pages: 5443
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "SidewalkDeliveryRobots"
     title: "Sidewalk Delivery Robots"
     url: "/wiki/concepts/sidewalkdeliveryrobots/"
+  - key: "SiegeTypology"
+    title: "Siege Typology"
+    url: "/wiki/concepts/siegetypology/"
   - key: "SignalDesign"
     title: "Signal Design / 信号设计"
     url: "/wiki/concepts/signaldesign/"

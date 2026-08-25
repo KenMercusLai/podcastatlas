@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 7535
+wiki_total_pages: 7541
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "AlbertPope"
     title: "Albert Pope / 阿尔伯特·波普"
     url: "/wiki/entities/albertpope/"
+  - key: "Alberta"
+    title: "Alberta"
+    url: "/wiki/entities/alberta/"
   - key: "AlbertaMachineIntelligenceInstitute"
     title: "Alberta Machine Intelligence Institute"
     url: "/wiki/entities/albertamachineintelligenceinstitute/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1477
+topic_total_pages: 1478
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1478,6 +1478,9 @@ topic_entities:
   - key: "JeanFrancoisChampollion"
     title: "Jean-Francois Champollion / 商博良"
     url: "/wiki/entities/jeanfrancoischampollion/"
+  - key: "JeremyBlack"
+    title: "Jeremy Black"
+    url: "/wiki/entities/jeremyblack/"
   - key: "JingFang"
     title: "Jing Fang / 京房"
     url: "/wiki/entities/jingfang/"

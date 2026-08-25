@@ -2,11 +2,13 @@
 title: "Japanese Lost Decades"
 type: concept
 tags: [japan, economy, confidence, society]
-sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
-last_updated: 2026-08-06
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-08-26
 ---
 
 # Japanese Lost Decades
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] extends the lost-decades frame through [[MoekaIida]]'s report on the [[EmploymentIceAgeGeneration|employment ice age generation]]. The source shows that the post-bubble labor-market shock is still active inside wages, pensions, and housing: even workers who later find stable employment may remain below older cohorts because early-career damage compounds over decades.
 
 Japanese lost decades is the post-bubble, long-low-growth frame used by [[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] to ask how a society lives after expansion, asset appreciation, and upward confidence weaken. The episode links this frame to the bubble collapse, employment ice age, cautious household investing, low inflation memory, and later attempts to restart investment through [[NISA]].
 

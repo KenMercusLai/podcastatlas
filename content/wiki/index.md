@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Elbows up, again: a US-Canada trade flare-up](sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db.md) — The Intelligence episode on Canada-US tariff talks, Canada's diversification dilemma, Japan's employment ice age generation, and totemic versus utilitarian sieges.
 - [AI loves negative parallelism](sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128.md) — Marketplace Tech episode with Will Oremus on negative parallelism as an AI-writing tell, Pangram's frequency finding, Claude watermarking, synthetic-data feedback loops, and AI style bleed into human writing.
 - [山上山下皆人间，无事逍遥即神仙](sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp.md) — 面基 episode with 李闯 on 《辞职上山》, Wudang Daoist life, fieldnote writing, folk belief as last-resort support, Chinese-medicine uncertainty, circular/linear time, and 逍遥 as freedom inside ordinary constraints.
 - [179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？](sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo.md) — 起朱楼宴宾客 episode reading Scott Bessent's yen intervention, FIMA Repo push, Treasury buybacks, stablecoin demand, and Fed pressure as one fragile U.S. financing toolkit.
@@ -1460,6 +1461,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mark Carney](entities/MarkCarney.md) — Canadian prime minister in The Intelligence source on renewed U.S.-Canada tariff talks and diversification constraints.
+- [Hal Hodson](entities/HalHodson.md) — The Intelligence correspondent explaining Canada's tariff dilemma, provincial exposure, and investment-stability trap.
+- [Torigoe Atsushi](entities/TorigoeAtsushi.md) — Japanese employment-ice-age worker used as a concrete case of entry-cohort labor-market scarring.
+- [Jeremy Black](entities/JeremyBlack.md) — Military historian whose totemic/utilitarian siege distinction anchors The Intelligence siege segment.
+- [Alberta](entities/Alberta.md) — Canadian province whose oil leverage and low tariff exposure complicate federal retaliation against U.S. tariffs.
+- [Quebec](entities/Quebec.md) — Canadian province where tariff exposure and French-language protection politics complicate U.S.-Canada trade talks.
 - [李闯 / Li Chuang](entities/LiChuang.md) — Writer and 面基 guest connecting anthropology, Wudang volunteer life, fieldnotes, Chinese-medicine study, and freedom under ordinary constraints.
 - [《辞职上山》](entities/CizhiShangShan.md) — Li Chuang book used by the 面基 episode to demystify quitting, Wudang life, Daoist practice, and mountain retreat as escape.
 - [Quanzhen Daoism / 全真道教](entities/QuanzhenDaoism.md) — Source-scoped Wudang Daoist institutional frame for lessons, recitation, temple duties, and varied cultivation practice.
@@ -8999,6 +9006,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
+- [Entry-Cohort Labor Market Scarring](concepts/EntryCohortLaborMarketScarring.md) — Long-run wage, pension, and housing damage from entering the workforce during a weak hiring regime.
+- [Siege Typology](concepts/SiegeTypology.md) — Military-history distinction between symbolically totemic sieges and strategically utilitarian sieges.
 - [Daoist Temple Everyday Labor / 道观日常劳动](concepts/DaoistTempleEverydayLabor.md) — Wudang source concept showing sacred practice as schedules, chores, altar duty, security shifts, visitors, weather, and ordinary institutional work.
 - [Fieldnote To Public Writing / 田野笔记到公共写作](concepts/FieldnoteToPublicWriting.md) — Li Chuang method for separating observation from subjective response before turning lived records into public nonfiction.
 - [Belief As Last-Resort Support / 信仰作为最后退路](concepts/BeliefAsLastResortSupport.md) — Social reading of religious recourse when medical, financial, emotional, or institutional options have narrowed.

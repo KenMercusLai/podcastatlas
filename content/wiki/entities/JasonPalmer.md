@@ -2,11 +2,13 @@
 title: "Jason Palmer"
 type: entity
 tags: [person, host, media]
-sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
-last_updated: 2026-08-24
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]
+last_updated: 2026-08-26
 ---
 
 # Jason Palmer
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds another Palmer-introduced sequence: [[Canada]]'s tariff dilemma under [[MarkCarney]], [[Japan]]'s [[EmploymentIceAgeGeneration]], and [[SiegeTypology]] prompted by [[ChristopherNolan]]'s [[TheOdyssey]].
 
 [[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds another Palmer-introduced sequence: [[Sudan]]'s foreign-backed war, the [[GordieHoweBridge]] dispute in U.S.-Canada trade, and [[BetyeSaar]]'s assemblage art.
 

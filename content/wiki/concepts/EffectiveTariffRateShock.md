@@ -2,11 +2,13 @@
 title: "Effective Tariff Rate Shock"
 type: concept
 tags: [trade, tariffs, macro, public-policy]
-sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, battlefield-rare-earths-how-the-us-lost-to-china, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, battlefield-rare-earths-how-the-us-lost-to-china, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-26
 ---
 
 # Effective Tariff Rate Shock
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds a close-ally application through the [[UnitedStates]]-[[Canada]] trade flare-up. The source says new tariffs affected about $20 billion of Canadian exports on top of existing aluminium, wood, car, and vehicle tariffs, turning the rate shock into a direct risk to Canadian stagnation, inflation, and roughly 90,000 jobs.
 
 Effective tariff rate shock is the source's 2025 tariff indicator. In [[indicators-of-2025-and-what-to-watch-in-2026]], [[GregRosalsky]] says the average effective tariff rate faced by U.S. consumers rose from 2.5% in 2024 to 16.8% in 2025, the highest level since 1935.
 

@@ -5407,6 +5407,18 @@
       "url": "/topics/history/"
     }
   ],
+  "Alberta": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AlbertaMachineIntelligenceInstitute": [
     {
       "key": "technology",
@@ -24970,6 +24982,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HalHodson": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "HaleySalmon": [
     {
       "key": "politics",
@@ -29567,6 +29586,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "JeremyBlack": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "JeremyClarkson": [
@@ -35121,6 +35147,18 @@
     }
   ],
   "MarkAntony": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MarkCarney": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -44967,6 +45005,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "Quebec": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     },
     {
       "key": "politics",
@@ -55536,6 +55586,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "TradeDiversificationStabilityParadox": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TradeHubStatecraft": [
     {
       "key": "economics",
@@ -63915,6 +63977,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "enterprise-sales-with-no-product-landing-a-big-four-customer": [

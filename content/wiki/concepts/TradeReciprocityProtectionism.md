@@ -2,11 +2,13 @@
 title: "Trade Reciprocity Protectionism"
 type: concept
 tags: [trade, tariffs, geopolitics, united-states]
-sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
-last_updated: 2026-08-18
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-26
 ---
 
 # Trade Reciprocity Protectionism
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] extends the concept into a Canada-allied bargaining case. The source says [[DonaldTrump]]'s tariff posture and demands over trucks, third-country trade deals, and French-language protections pushed [[MarkCarney]] toward visible resistance, while [[TradeDiversificationStabilityParadox]] shows why Canada's long-term answer still depends on near-term stability with the [[UnitedStates]].
 
 Trade reciprocity protectionism is the source's key for reading Trump-era tariffs as a fairness and restoration claim rather than only as a tax on imports. [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] says the [[AmericaFirstPolicyInstitute]] agenda supports fair reciprocal trade, where foreign goods entering the United States should face tariffs comparable to those American goods face abroad.
 

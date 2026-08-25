@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 5440
+wiki_total_pages: 5443
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "TradeDeficitOwnershipFrame"
     title: "Trade Deficit Ownership Frame"
     url: "/wiki/concepts/tradedeficitownershipframe/"
+  - key: "TradeDiversificationStabilityParadox"
+    title: "Trade Diversification Stability Paradox"
+    url: "/wiki/concepts/tradediversificationstabilityparadox/"
   - key: "TradeReciprocityProtectionism"
     title: "Trade Reciprocity Protectionism"
     url: "/wiki/concepts/tradereciprocityprotectionism/"

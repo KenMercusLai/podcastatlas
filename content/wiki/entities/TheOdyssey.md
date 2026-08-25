@@ -2,11 +2,13 @@
 title: "The Odyssey"
 type: entity
 tags: [literature, classics, epic]
-sources: [aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
-last_updated: 2026-08-16
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+last_updated: 2026-08-26
 ---
 
 # The Odyssey
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds a military-history afterlife for The Odyssey. [[ChristopherNolan]]'s adaptation prompts [[TheIntelligence]] to discuss [[SiegeTypology]] with [[JeremyBlack]], moving from Homeric siege memory toward a distinction between symbolic totemic sieges and strategically utilitarian sieges.
 
 The Odyssey is the Homeric epic discussed in [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] through [[ChristopherNolan]]'s new film adaptation. The source presents the work as unusually difficult to adapt because it is structurally strange, culturally famous, and centered on [[Odysseus]], a hero whose ancient flaws do not map cleanly onto modern protagonist expectations.
 

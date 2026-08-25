@@ -2,11 +2,13 @@
 title: "Tariff Consumer Price Pass-Through"
 type: concept
 tags: [tariffs, consumer-prices, inflation, trade]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]
-last_updated: 2026-08-06
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]
+last_updated: 2026-08-26
 ---
 
 # Tariff Consumer Price Pass-Through
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds a cross-border consumer-pressure angle. [[HalHodson]] says Canada's waiting strategy partly depends on tariffs raising prices for some Americans, including people in Maine buying Canadian goods, so pass-through becomes a political pressure channel as well as an inflation channel.
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] extends the pass-through channel from category examples to inflation interpretation. The source says tariffs may have added about 0.7 percentage points to inflation in the discussed estimate, and that pass-through can arrive gradually as inventories, retail pricing systems, imported substitutes, and domestic competitors adjust.
 

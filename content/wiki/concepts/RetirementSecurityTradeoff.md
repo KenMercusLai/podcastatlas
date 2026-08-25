@@ -2,11 +2,13 @@
 title: "Retirement Security Tradeoff"
 type: concept
 tags: [retirement, labor, pensions, public-policy]
-sources: [older-workers-arent-retiring-should-they-be-forced-to]
-last_updated: 2026-08-08
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, older-workers-arent-retiring-should-they-be-forced-to]
+last_updated: 2026-08-26
 ---
 
 # Retirement Security Tradeoff
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds a Japan cohort case. [[MoekaIida]] reports that the [[EmploymentIceAgeGeneration|employment ice age generation]] faces retirement risk because [[Japan]]'s pension scheme is tied to lifetime earnings, while lower homeownership and older-tenant rental friction make work-longer advice an incomplete answer.
 
 Retirement security tradeoff is the policy tension in [[older-workers-arent-retiring-should-they-be-forced-to]] between making room for younger workers and protecting older workers who may need income, identity, or benefits from continued work. The source says longer lives, less physical work, and the decline of traditional pensions all help explain why people work longer.
 

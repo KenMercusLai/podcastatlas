@@ -2,11 +2,13 @@
 title: "Vienna / 维也纳"
 type: entity
 tags: [city, europe, culture, literature]
-sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]
-last_updated: 2026-08-06
+sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]
+last_updated: 2026-08-26
 ---
 
 # Vienna / 维也纳
+
+[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds Vienna as a totemic siege example in [[JeremyBlack]]'s [[SiegeTypology]]. The source says the 1683 [[OttomanEmpire|Ottoman]] siege of Vienna carried wider civilisational significance because Ottoman failure ended ambitions to expand into Christian Europe.
 
 Vienna / 维也纳 appears in [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] as the cultural city where [[StefanZweig|Stefan Zweig / 茨威格]] encountered the literary, artistic, and salon world later remembered in [[TheWorldOfYesterday|《昨日的世界》]]. The source contrasts conservative schooling with the cultural expansion available to a wealthy, well-connected young person in the city.
 
