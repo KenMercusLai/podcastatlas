@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7569
+wiki_total_pages: 7572
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1544,6 +1544,9 @@ wiki_pages:
   - key: "SongZiwen"
     title: "宋子文"
     url: "/wiki/entities/songziwen/"
+  - key: "SongXianLateHan"
+    title: "宋宪 / Song Xian (late Han)"
+    url: "/wiki/entities/songxianlatehan/"
   - key: "SongJunYan"
     title: "宋康王 / 宋君偃 / King Kang of Song"
     url: "/wiki/entities/songjunyan/"

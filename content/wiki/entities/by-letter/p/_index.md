@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 7569
+wiki_total_pages: 7572
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"

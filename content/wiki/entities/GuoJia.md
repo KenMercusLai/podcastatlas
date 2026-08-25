@@ -2,8 +2,8 @@
 title: "郭嘉 / Guo Jia"
 type: entity
 tags: [person, late-han, strategist, china]
-sources: [zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
+last_updated: 2026-08-26
 ---
 
 # 郭嘉 / Guo Jia
@@ -28,6 +28,8 @@ Hanji 1014 supplies that broader assessment in the source's Zizhi Tongjian frame
 
 The source uses Guo Jia less as a biography than as a strategic-order node. His warning is that a later Yuan Shao attack becomes much more dangerous if Lü Bu remains beside Cao Cao and can join the northern pressure. In this sense, Guo Jia's advice belongs to [[XingshiqingStrategicAssessment|行势情战略评估]]: the right target depends on timing, flank risk, and what other actors are currently unable to do.
 
+[[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] develops that sequencing into a siege-tempo judgment at [[Xiapi|下邳]]. When [[CaoCao|曹操]] considers withdrawing, Guo Jia and [[XunYou|荀攸]] argue that [[LyuBu|吕布]]'s courage lacks strategy, morale has fallen after repeated defeats, and [[ChenGongLateHan|陈宫]] has not yet settled a plan. Guo Jia's role here is not only target selection but pressure timing: keep the siege active before the enemy command can recover.
+
 ## Connections
 - [[CaoCao|曹操]] - ruler who recruits him in Hanji 1006 and receives his later advice.
 - [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[XunYu|荀彧]], [[ChengYu|程昱]], and [[AdviserStateArchitecture|谋士政权架构]] - adviser-platform branch.
@@ -39,3 +41,4 @@ The source uses Guo Jia less as a biography than as a strategic-order node. His 
 - [[TenVictoriesTenDefeats|十胜十败论]] - leadership-comparison frame attributed to him and Xun Yu in Hanji 1014.
 - [[LyuBu|吕布]], [[YuanShao|袁绍]], and [[GongsunZan|公孙瓒]] - actors whose positions define the timing problem.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - strategic frame for the episode's sequencing.
+- [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]], [[XunYou|荀攸]], [[Xiapi|下邳]], [[ChenGongLateHan|陈宫]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - advice to press the siege before Lü Bu's side recovers.

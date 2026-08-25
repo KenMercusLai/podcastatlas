@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？](sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz.md) — 芮淇讲透资治通鉴 episode on Lü Bu's failed Yuan Shu rescue attempt, Zhang Yang's aborted aid, Cao Cao's water siege of Xiapi, and Hou Cheng/Song Xian/Wei Xu's defection after the alcohol-ban dispute.
 - [《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕](sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1.md) — 芮淇讲透资治通鉴 episode on Cao Cao's final siege of Lü Bu at Xiapi, Liu Bei's warning, Chen Gong and Gao Shun's deaths, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, and former defectors before Guandu.
 - [《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？](sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj.md) — 芮淇讲透资治通鉴 episode on Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's resignation, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao before Guandu.
 - [《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！](sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x.md) — 芮淇讲透资治通鉴 episode on Sun Ce consolidating Jiangdong by accepting Cao Cao's title overtures, drawing Zhou Yu and Lu Su out of Yuan Shu's orbit, and capturing then appointing Zu Lang and Taishi Ci.
@@ -1466,6 +1467,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [侯成 / Hou Cheng (late Han)](entities/HouChengLateHan.md) — Lü Bu subordinate whose wine-meat offering under the alcohol ban turns into the mutiny that hands Chen Gong and Gao Shun to Cao Cao at Xiapi.
+- [宋宪 / Song Xian (late Han)](entities/SongXianLateHan.md) — Lü Bu subordinate who joins Hou Cheng and Wei Xu in the Xiapi defection against Lü Bu.
+- [杨丑 / Yang Chou (late Han)](entities/YangChouLateHan.md) — Zhang Yang subordinate who kills Zhang Yang during the attempted relief of Lü Bu before being killed by Sui Gu.
 - [陈寿 / Chen Shou](entities/ChenShou.md) — Historian cited by Hanji 1026 to frame Lü Bu as fierce but strategically and politically unsound.
 - [陈群 / Chen Qun](entities/ChenQun.md) — Chen Ji's son, present in Lü Bu's army at Xiapi and treated as part of Cao Cao's elite-family incorporation after the surrender.
 - [徐翕 / Xu Xi (late Han)](entities/XuXiLateHan.md) — Former Cao Cao subordinate who betrayed during the Yanzhou crisis, sheltered with Zhang Ba, and was later spared and appointed.
@@ -9039,6 +9043,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈](concepts/SuspicionTriggeredCommandMutiny.md) — Hanji 1025 pattern where a besieged commander's suspicion turns a subordinate's loyalty gesture into fear, anger, and organized defection.
 - [纳叛安抚式整合 / Strategic Defector Incorporation](concepts/StrategicDefectorIncorporation.md) — Hanji 1026 Cao Cao pattern where former enemies, local brokers, and past defectors are selectively incorporated to stabilize territory before the next campaign.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Liu Biao pattern where short-term neutrality becomes exploitable when local fissures and external patrons constrain initiative.

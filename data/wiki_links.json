@@ -21563,6 +21563,10 @@
     "title": "侯超 / Hou Chao",
     "url": "/wiki/entities/houchao/"
   },
+  "HouChengLateHan": {
+    "title": "侯成 / Hou Cheng (late Han)",
+    "url": "/wiki/entities/houchenglatehan/"
+  },
   "HouGongChuHan": {
     "title": "侯公 / Hou Gong (Chu-Han)",
     "url": "/wiki/entities/hougongchuhan/"
@@ -42419,6 +42423,10 @@
     "title": "先南后北 / Song Unification Strategy",
     "url": "/wiki/concepts/songunificationstrategy/"
   },
+  "SongXianLateHan": {
+    "title": "宋宪 / Song Xian (late Han)",
+    "url": "/wiki/entities/songxianlatehan/"
+  },
   "SongXiangGong": {
     "title": "宋襄公",
     "url": "/wiki/entities/songxianggong/"
@@ -44154,6 +44162,10 @@
   "Sushiro": {
     "title": "Sushiro / 寿司郎",
     "url": "/wiki/entities/sushiro/"
+  },
+  "SuspicionTriggeredCommandMutiny": {
+    "title": "Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈",
+    "url": "/wiki/concepts/suspiciontriggeredcommandmutiny/"
   },
   "SustainableConstructionCarbonTradeoff": {
     "title": "Sustainable Construction Carbon Tradeoff",
@@ -50779,6 +50791,10 @@
     "title": "杨冰 / Yang Bing",
     "url": "/wiki/entities/yangbing/"
   },
+  "YangChouLateHan": {
+    "title": "杨丑 / Yang Chou (late Han)",
+    "url": "/wiki/entities/yangchoulatehan/"
+  },
   "YangCiLateHan": {
     "title": "杨赐 / Yang Ci (late Han)",
     "url": "/wiki/entities/yangcilatehan/"
@@ -56362,6 +56378,10 @@
   "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0": {
     "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+  },
+  "zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz": {
+    "title": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz/"
   },
   "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1": {
     "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",

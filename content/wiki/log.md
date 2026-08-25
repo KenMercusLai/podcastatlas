@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？
+
+Added source page for Hanji 1025: Lü Bu's failed attempt to send his daughter through Cao Cao's blockade to revive the Yuan Shu marriage-rescue channel, Zhang Yang's aborted relief and death, Xun You and Guo Jia's advice to press the Xiapi siege, Cao Cao's water attack, and Hou Cheng/Song Xian/Wei Xu's capture of Chen Gong and Gao Shun. Created Hou Cheng (Late Han), Song Xian (Late Han), Yang Chou (Late Han), and Suspicion-Triggered Command Mutiny; updated Lü Bu, Cao Cao, Zhang Yang, Chen Gong, Guo Jia, Xun You, Wei Xu, Xiapi, Sui Gu, Yuan Shu, Hydraulic Siege Warfare, War Cost Tempo Discipline, Command Discipline Authority, Court Feedback Collapse, Status Insult Defection Cascade, and Lü Bu Factional Balance. No settled contradiction found; the episode narrows the "alcohol ban caused defeat" reading into a trigger within failed diplomacy, siege pressure, and command-trust collapse.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？
 
 Added source page for Hanji 1027: Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's ignored warning, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao. Created pages for Deng Xi, Zhang Xian, Huan Jie, southern Jingzhou commanderies, Wuxi Man/Sha Moke, Wang Fuzhi, Pang Tong, Guandu Campaign, Factional Alignment Exit Capital, and Fence-Sitting Strategic Exposure; updated Liu Biao/Jingzhou governance context. No settled contradiction found; the source qualifies earlier defensive-governance praise by exposing Liu Biao's strategic ceiling and Jingzhou's southern fissures.
@@ -11699,6 +11703,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕
 
 Added source page for Hanji 1026: Cao Cao's final siege and execution of Lü Bu at Xiapi, Liu Bei's decisive warning, Chen Gong and Gao Shun's endpoints, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, local armed actors, and former defectors before the Yuan Shao/Guandu horizon. Created Chen Shou, Chen Qun, Xu Xi (Late Han), Mao Hui (Late Han), Wu Dun (Late Han), Yin Li (Late Han), Sun Guan (Late Han), and Strategic Defector Incorporation; updated Lü Bu, Cao Cao, Liu Bei, Chen Gong, Gao Shun, Zhang Liao, Zhang Ba, Chen Ji, Chen Deng, Xiapi, Yuan Tan, Qingzhou, Wang Fuzhi, Guandu Campaign, Captured Opponent Talent Incorporation, and Reputation-Constrained Talent Protection. No settled contradiction found; the transcript's "张霸" stays on the existing Zhang Ba canonical route.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
