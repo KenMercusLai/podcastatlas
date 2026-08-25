@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 5399
+wiki_total_pages: 5400
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "ExchangeTradedFund"
     title: "Exchange-Traded Fund / ETF"
     url: "/wiki/concepts/exchangetradedfund/"
+  - key: "ExchangeableCapability"
+    title: "Exchangeable Capability / 可交换能力"
+    url: "/wiki/concepts/exchangeablecapability/"
   - key: "ExecutivePowerPrecedent"
     title: "Executive Power Precedent"
     url: "/wiki/concepts/executivepowerprecedent/"

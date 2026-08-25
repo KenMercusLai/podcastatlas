@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》930丨如何破除贪心和不甘心？](sources/zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd.md) — 芮淇讲透资治通鉴 episode on Gai Xun's Qiang-front reputation, Zhu Jun's Nanyang Yellow Turban campaign, Sun Jian's early recognition, and capability as the answer to greed and resentment.
 - [《资治通鉴·汉纪》931丨人生艰难处，便是修心时](sources/zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6.md) — 芮淇讲透资治通鉴 episode on Wang Yun reporting Zhang Rang retainer correspondence with the Yellow Turban side, surviving retaliatory imprisonment, refusing private suicide, and 185 CE epidemic/fire/famine pressures.
 - [《资治通鉴·汉纪》932丨为什么人越好，越难当大官？](sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29.md) — 芮淇讲透资治通鉴 episode on Lu Kang's remonstrance against palace-construction taxes, eunuch-mediated material and office-fee extraction, and Sima Zhi's death memorial against making clean officials squeeze the people.
 - [《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？](sources/zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8.md) — 芮淇讲透资治通鉴 episode on Cui Lie's Liangzhou-abandonment proposal, Fu Xie's "斩司徒" rebuttal, and Huangfu Song's punishment after Zhang Rang and Zhao Zhong recode refused bribery and anti-corruption memorials into slander.
@@ -1446,6 +1447,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄巾军 / Yellow Turbans (late Han)](entities/YellowTurbansLateHan.md) — Late-Han rebel movement whose Nanyang branch in Hanji 930 passes from Zhang Mancheng to Zhao Hong, Han Zhong, and Sun Xia before Zhu Jun's suppression.
+- [张曼成 / Zhang Mancheng (late Han)](entities/ZhangManchengLateHan.md) — Yellow Turban commander who kills Nanyang administrator Chu Gong and is later killed by Qin Jie before Zhao Hong takes over Wancheng.
+- [赵弘 / Zhao Hong (late Han)](entities/ZhaoHongLateHan.md) — Yellow Turban successor at Wancheng whom Zhu Jun defeats and kills after Zhang Mancheng's death.
+- [韩忠 / Han Zhong (late Han)](entities/HanZhongLateHan.md) — Yellow Turban commander whose failed surrender to Zhu Jun turns into renewed resistance until Zhu Jun opens the encirclement and Qin Jie beheads him.
+- [孙夏 / Sun Xia (late Han)](entities/SunXiaLateHan.md) — Yellow Turban successor after Han Zhong whose final rout near Xie County ends the Nanyang campaign in Hanji 930.
+- [秦颉 / Qin Jie (late Han)](entities/QinJieLateHan.md) — Nanyang official who kills Zhang Mancheng, urges refusal of Han Zhong's surrender, and cuts off Han Zhong's head after Zhu Jun's siege maneuver.
+- [许秋 / Xu Qiu (late Han)](entities/XuQiuLateHan.md) — Late-Han major in Zhu Jun's Nanyang army, granted a marquis title after the campaign in Hanji 930.
+- [杨雍 / Yang Yong (late Han)](entities/YangYongLateHan.md) — Attendant official who reports Gai Xun's conduct and helps turn hostile respect into Hanyang appointment.
+- [滇吾 / Dian Wu (Qiang leader)](entities/DianWuQiang.md) — Qiang-side figure who attacks Ji County but refuses to kill Gai Xun because he respects his moral reputation.
+- [先零羌 / Xianling Qiang](entities/XianlingQiang.md) — Qiang group whose coercive rebellion pulls Bian Zhang into the Ji County siege in Hanji 930.
+- [许昌 / Xu Chang (late-Han rebel)](entities/XuChangRebel.md) — Kuaiji rebel invoked as the earlier campaign where Sun Jian's bravery first becomes visible to Zhu Jun.
+- [张宁 / Zhang Ning (late Han)](entities/ZhangNingLateHan.md) — Late-Han Yuyao figure who recruits Sun Jian as sima after the Xu Chang rebellion, kept source-scoped pending more evidence.
 - [司马直 / Sima Zhi (late Han)](entities/SimaZhiLateHan.md) — Clean late-Han appointee to Julu who writes a death memorial at Mengjin rather than financing office entry by squeezing the people.
 - [巨鹿郡 / Julu Commandery (late Han)](entities/JuluCommanderyLateHan.md) — Late-Han commandery post assigned to Sima Zhi, kept distinct from the Qin-era Julu siege page.
 - [崔州平 / Cui Zhouping](entities/CuiZhouping.md) — Literary Three Kingdoms reception figure used by Hanji 934 as the transition from Romance memory into the late-Han Liangzhou policy crisis.
@@ -8916,6 +8929,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
 - [修宫钱转嫁盘剥 / Palace Construction Fee Extraction](concepts/PalaceConstructionFeeExtraction.md) — Late-Han pattern where palace-construction and office-entry charges move through eunuch and appointment channels until local officials push the cost onto the people.
 - [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where the court converts an unsuppressed rebel force into delegated order by granting the leader office.
 - [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where purchased or fee-burdened public office damages institutional credibility, officeholder reputation, or both.

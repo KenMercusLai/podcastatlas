@@ -4,17 +4,28 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-08-25
-as_of_overview_commit: 7d265a3b1c274f58a66e897b1eee16c5a7ed8ffa
-input_digest: 67a1055cfb9ff6c5aa51a4f88daef12ad18d7210f524d200af4fbb4cccbf8f5f
+as_of_overview_commit: eead7ac5bf7bc46a097a25208154cdffb930eb2a
+input_digest: a7ee27e5cb7934b5ee6a8608b240c5b6b7a3f8ce222e5863e30f12d6b01df937
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
+Hanji 930 adds the exchangeable-capability frame: greed and resentment become signals to build usable value, because reputation and relationships only convert into opportunity when capability, recognition, and judgment are present. Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
 
 ## Cross-source Findings
+
+### Capability Reframes Greed And Resentment
+
+Hanji 930 adds [[ExchangeableCapability]] to the personal-development branch: desire, greed, and resentment are reframed as prompts to build usable value, because reputation or relationship channels matter only when [[GaiXunLateHan]] has [[MoralReputationPoliticalCapital]], [[SunJianLateHan]] has battlefield capacity recognized by [[ZhuJunLateHan]], and judgment under pressure preserves role usefulness through [[ZhangWenLateHan]], [[BattlefieldCommanderReplacementRisk]], [[EncirclementReleaseCalculus]], and [[VirtuePracticeInternalization]].
+
+**Evidence:** [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]], [[ExchangeableCapability]], [[GaiXunLateHan]], [[MoralReputationPoliticalCapital]], [[SunJianLateHan]], [[ZhuJunLateHan]], [[ZhangWenLateHan]], [[BattlefieldCommanderReplacementRisk]], [[EncirclementReleaseCalculus]], [[VirtuePracticeInternalization]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 930 and treats the greed/unwillingness lesson as a personal-development interpretation layered onto historical narrative.
+- It does not claim that capability alone guarantees reward; the same source ties capability to recognition, role assignment, timing, and battlefield conditions.
 
 ### Perceived Authorship Shapes Trust
 

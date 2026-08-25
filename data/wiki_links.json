@@ -12939,6 +12939,10 @@
     "title": "典韦 / Dian Wei",
     "url": "/wiki/entities/dianwei/"
   },
+  "DianWuQiang": {
+    "title": "滇吾 / Dian Wu (Qiang leader)",
+    "url": "/wiki/entities/dianwuqiang/"
+  },
   "DianeKPMGChiefEconomist": {
     "title": "Diane (KPMG Chief Economist)",
     "url": "/wiki/entities/dianekpmgchiefeconomist/"
@@ -15478,6 +15482,10 @@
   "ExchangeTradedFund": {
     "title": "Exchange-Traded Fund / ETF",
     "url": "/wiki/concepts/exchangetradedfund/"
+  },
+  "ExchangeableCapability": {
+    "title": "Exchangeable Capability / 可交换能力",
+    "url": "/wiki/concepts/exchangeablecapability/"
   },
   "Exec": {
     "title": "Exec",
@@ -20134,6 +20142,10 @@
   "HanZheng": {
     "title": "Han Zheng / 韩正",
     "url": "/wiki/entities/hanzheng/"
+  },
+  "HanZhongLateHan": {
+    "title": "韩忠 / Han Zhong (late Han)",
+    "url": "/wiki/entities/hanzhonglatehan/"
   },
   "Handan": {
     "title": "邯郸 / Handan",
@@ -37107,6 +37119,10 @@
     "title": "秦简公 / Duke Jian of Qin",
     "url": "/wiki/entities/qinjiangong/"
   },
+  "QinJieLateHan": {
+    "title": "秦颉 / Qin Jie (late Han)",
+    "url": "/wiki/entities/qinjielatehan/"
+  },
   "QinJimiao": {
     "title": "极庙 / Qin Ji Miao",
     "url": "/wiki/entities/qinjimiao/"
@@ -43535,6 +43551,10 @@
     "title": "孙悟空",
     "url": "/wiki/entities/sunwukong/"
   },
+  "SunXiaLateHan": {
+    "title": "孙夏 / Sun Xia (late Han)",
+    "url": "/wiki/entities/sunxialatehan/"
+  },
   "SunYuanhua": {
     "title": "孙元化 / Sun Yuanhua",
     "url": "/wiki/entities/sunyuanhua/"
@@ -49479,6 +49499,10 @@
     "title": "襄阳 / Xiangyang (late Han)",
     "url": "/wiki/entities/xiangyanglatehan/"
   },
+  "XianlingQiang": {
+    "title": "先零羌 / Xianling Qiang",
+    "url": "/wiki/entities/xianlingqiang/"
+  },
   "Xianyang": {
     "title": "咸阳 / Xianyang",
     "url": "/wiki/entities/xianyang/"
@@ -49807,6 +49831,10 @@
     "title": "徐悲鸿 / Xu Beihong",
     "url": "/wiki/entities/xubeihong/"
   },
+  "XuChangRebel": {
+    "title": "许昌 / Xu Chang (late-Han rebel)",
+    "url": "/wiki/entities/xuchangrebel/"
+  },
   "XuChu": {
     "title": "许褚 / Xu Chu",
     "url": "/wiki/entities/xuchu/"
@@ -49862,6 +49890,10 @@
   "XuLu": {
     "title": "许路 / Xu Lu",
     "url": "/wiki/entities/xulu/"
+  },
+  "XuQiuLateHan": {
+    "title": "许秋 / Xu Qiu (late Han)",
+    "url": "/wiki/entities/xuqiulatehan/"
   },
   "XuRongLateHan": {
     "title": "徐荣 / Xu Rong (late Han)",
@@ -50303,6 +50335,10 @@
     "title": "杨一 / Yang Yi",
     "url": "/wiki/entities/yangyi/"
   },
+  "YangYongLateHan": {
+    "title": "杨雍 / Yang Yong (late Han)",
+    "url": "/wiki/entities/yangyonglatehan/"
+  },
   "YangYouji": {
     "title": "养由基",
     "url": "/wiki/entities/yangyouji/"
@@ -50462,6 +50498,10 @@
   "YellowLemonPriceCycle": {
     "title": "Yellow Lemon Price Cycle / 黄柠檬价格周期",
     "url": "/wiki/concepts/yellowlemonpricecycle/"
+  },
+  "YellowTurbansLateHan": {
+    "title": "黄巾军 / Yellow Turbans (late Han)",
+    "url": "/wiki/entities/yellowturbanslatehan/"
   },
   "Yemen": {
     "title": "Yemen",
@@ -51435,6 +51475,10 @@
     "title": "张鲁 / Zhang Lu (Five Pecks of Rice)",
     "url": "/wiki/entities/zhanglufivepecks/"
   },
+  "ZhangManchengLateHan": {
+    "title": "张曼成 / Zhang Mancheng (late Han)",
+    "url": "/wiki/entities/zhangmanchenglatehan/"
+  },
   "ZhangMiaoLateHan": {
     "title": "张邈 / Zhang Miao (Late Han)",
     "url": "/wiki/entities/zhangmiaolatehan/"
@@ -51442,6 +51486,10 @@
   "ZhangNan": {
     "title": "张楠",
     "url": "/wiki/entities/zhangnan/"
+  },
+  "ZhangNingLateHan": {
+    "title": "张宁 / Zhang Ning (late Han)",
+    "url": "/wiki/entities/zhangninglatehan/"
   },
   "ZhangNingPonyAI": {
     "title": "张宁 / Zhang Ning (Pony.ai)",
@@ -51746,6 +51794,10 @@
   "ZhaoHe": {
     "title": "赵何 / Zhao He",
     "url": "/wiki/entities/zhaohe/"
+  },
+  "ZhaoHongLateHan": {
+    "title": "赵弘 / Zhao Hong (late Han)",
+    "url": "/wiki/entities/zhaohonglatehan/"
   },
   "ZhaoHuanzi": {
     "title": "赵桓子 / Zhao Huanzi",
@@ -56070,6 +56122,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd": {
+    "title": "《资治通鉴·汉纪》930丨如何破除贪心和不甘心？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd/"
   },
   "zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6": {
     "title": "《资治通鉴·汉纪》931丨人生艰难处，便是修心时",

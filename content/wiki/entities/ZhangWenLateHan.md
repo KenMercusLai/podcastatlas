@@ -2,11 +2,15 @@
 title: "张温 / Zhang Wen (late Han)"
 type: entity
 tags: [person, late-han, official, dong-zhuo]
-sources: [zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo]
+sources: [zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo]
 last_updated: 2026-08-25
 ---
 
 # 张温 / Zhang Wen (late Han)
+
+[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds Zhang Wen's earlier court-defense role during [[ZhuJunLateHan|朱儁]]'s campaign against the [[YellowTurbansLateHan|黄巾军]]. When the court considers recalling Zhu Jun after months without taking the city, Zhang Wen invokes [[BaiQi|白起]] and [[LeYi|乐毅]] to argue that long campaigns can turn after sustained pressure and that battlefield command should not be interrupted when the commander still has an executable plan.
+
+This source gives Zhang Wen a positive [[BattlefieldCommanderReplacementRisk|阵前换将风险]] branch before later episodes show his own limits as field commander under [[DongZhuo|董卓]] and [[SunJianLateHan|孙坚]]'s warning. In Hanji 930, Zhang Wen's advice gives Zhu Jun time to convert the siege into victory.
 
 [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] adds Zhang Wen's campaign setup before the command-discipline problem in Hanji 936. [[EmperorLingOfHan|汉灵帝]] appoints him chariot-and-cavalry general in 185 CE against [[BianZhangLateHan|边章]] and [[HanSui|韩遂]], with [[DongZhuo|董卓]] and [[ZhouShenLateHan|周慎]] among the subordinate commanders.
 
@@ -24,6 +28,7 @@ The page is source-scoped. Hanji 957 also remembers Zhang Wen as an earlier supe
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[ZhuJunLateHan|朱儁]], [[BaiQi|白起]], [[LeYi|乐毅]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - defense against recalling a commander mid-campaign.
 - [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[BianZhangLateHan|边章]], [[HanSui|韩遂]], [[ZhouShenLateHan|周慎]], [[SunJianLateHan|孙坚]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]] - 185 CE appointment, Meiyang defeat, counterattack, and failed Yuzhong pursuit.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[DongZhuo|董卓]], [[SunJianLateHan|孙坚]], [[HanSui|韩遂]], [[Xianbei|鲜卑]], and [[CommandDisciplineAuthority|军法威严]] - early command-discipline case before Zhang Wen's later removal and killing.
 - [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[MaTeng|马腾]], [[HanSui|韩遂]], [[Wuhuan|乌桓]], [[GongsunZan|公孙瓒]], and [[ZhangChunLateHan|张纯]] - removal as taiwei and failed frontier auxiliary mobilization.

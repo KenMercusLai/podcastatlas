@@ -2,8 +2,8 @@
 title: "Punitive Surrender Deterrence / 杀降纳降反噬"
 type: concept
 tags: [coercion, rebellion, statecraft, qin]
-sources: [zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav]
+last_updated: 2026-08-25
 ---
 
 # Punitive Surrender Deterrence / 杀降纳降反噬
@@ -18,7 +18,10 @@ This concept is adjacent to [[DuzeExtractionPolitics|督责式压榨政治]] and
 
 [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] adds a postwar-demotion version. The host argues that if [[LiuBang|刘邦]] kills [[HanXin|韩信]] after reducing him from king to marquis, other exposed kings may infer that giving up title does not preserve life. The logic is the same deterrence problem at a higher political level: if surrender or demotion ends in death, remaining powerholders have more reason to resist.
 
+[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds the pre-acceptance dilemma through [[ZhuJunLateHan|朱儁]] and [[HanZhongLateHan|韩忠]]. Zhu Jun initially argues that accepting a rebel surrender would reward lawbreaking and weaken deterrence, but then recognizes that if surrender and escape are both blocked, the rebels have no reason to stop fighting. The source therefore qualifies punitive deterrence with [[EncirclementReleaseCalculus|围困开口式风险权衡]].
+
 ## Key Claims
+- Hanji 930 adds that deterrence against rebellion can backfire even before punishment occurs if surrender is made unavailable and enemies infer they must fight to the death.
 - Hanji 183 adds that punishing a demoted former king can deter future demotion or surrender just as killing ordinary surrenderers can harden battlefield resistance.
 - Surrender policy is a state-capacity tool, not only a mercy question.
 - Publicly killing a surrenderer may deter future surrender more than it deters rebellion.
@@ -27,6 +30,7 @@ This concept is adjacent to [[DuzeExtractionPolitics|督责式压榨政治]] and
 - Hanji 139 adds that the same backfire logic can apply to the anti-Qin victor: killing surrendered Qin soldiers makes future Qin support and submission less credible.
 
 ## Connections
+- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[ZhuJunLateHan|朱儁]], [[HanZhongLateHan|韩忠]], [[YellowTurbansLateHan|黄巾军]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - rejected surrender, opened encirclement, and morale shift.
 - [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[DemotedVassalSafetySignal|降爵诸侯安全信号]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - demoted-vassal survival as the positive alternative to deterrence backfire.
 - [[SongLiu|宋刘]], [[QinErshi|胡亥 / 秦二世]], and [[NanyangCommandery|南阳郡]] - source case.
 - [[ZhangChuRegime|张楚政权]], [[ChenSheng|陈胜]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - rebellion field in which surrender becomes available.

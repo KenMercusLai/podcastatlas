@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cdea86fef2d1b91587e33bccd808571c8e332d1e8df05f72d32ca56d4e2d9343",
       "d13bad81a6f78413000d2906dc9de9254f6a0c53d1b3f3d1e14128e246b3930c",
       "b960df0e17041feddf8181dce42c978aac4011db32e28e9771d14a81aa20e091",
       "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
@@ -213,11 +214,55 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 211
+    "paragraph_count": 212
   },
-  "overview_commit": "4aee40f83ba8611afb595d72a85f60e0937c0ed5",
-  "overview_digest": "2813e9d2b9ca12511ea3a7a76cbf23eaa4b6574d2f185b8cbeed429dad989208",
+  "overview_commit": "eead7ac5bf7bc46a097a25208154cdffb930eb2a",
+  "overview_digest": "ca9fd3f4997216e4d27b3fa8c89dcd906a209ba6bfc4b1bd0c3e3c5184b6c31e",
   "paragraphs": [
+    {
+      "id": "cdea86fef2d1b91587e33bccd808571c8e332d1e8df05f72d32ca56d4e2d9343",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 184 CE late-Han layer immediately before [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]]. It adds [[YellowTurbansLateHan|黄巾军]], [[ZhangManchengLateHan|张曼成]], [[ZhaoHongLateHan|赵弘]], [[HanZhongLateHan|韩忠]], [[SunXiaLateHan|孙夏]], [[QinJieLateHan|秦颉]], [[XuQiuLateHan|许秋]], [[YangYongLateHan|杨雍]], [[DianWuQiang|滇吾]], [[XianlingQiang|先零羌]], [[XuChangRebel|许昌]], [[ZhangNingLateHan|张宁]], and [[ExchangeableCapability|可交换能力]], while extending [[GaiXunLateHan|盖勋]], [[BianZhangLateHan|边章]], [[ZhuJunLateHan|朱儁]], [[ZhangWenLateHan|张温]], [[SunJianLateHan|孙坚]], [[NanyangCommandery|南阳郡]], [[HanyangCommanderyLateHan|汉阳郡]], [[MoralReputationPoliticalCapital|道德名望政治资本]], [[VirtuePracticeInternalization|修养内化]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], [[EncirclementReleaseCalculus|围困开口式风险权衡]], and [[PunitiveSurrenderDeterrence|杀降纳降反噬]]. Its core synthesis is that capability and reputation matter only when made usable: Gai Xun's integrity survives battlefield defeat through hostile respect and later appointment, Zhang Wen preserves Zhu Jun's command continuity long enough for siege judgment to work, Zhu Jun breaks Yellow Turban resistance by opening the encirclement after rejected surrender creates death-ground incentives, and Sun Jian turns earlier underrecognized merit into battlefield capital once Zhu Jun gives him a role. No settled contradiction is recorded; transcript \"朱俊\" is normalized to [[ZhuJunLateHan|朱儁]], while Zhang Ning and Xu Chang are kept source-scoped until later sources provide stronger identity evidence.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BattlefieldCommanderReplacementRisk",
+        "BianZhangLateHan",
+        "DianWuQiang",
+        "EncirclementReleaseCalculus",
+        "ExchangeableCapability",
+        "GaiXunLateHan",
+        "HanZhongLateHan",
+        "HanyangCommanderyLateHan",
+        "MoralReputationPoliticalCapital",
+        "NanyangCommandery",
+        "PunitiveSurrenderDeterrence",
+        "QinJieLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "SunXiaLateHan",
+        "VirtuePracticeInternalization",
+        "XianlingQiang",
+        "XuChangRebel",
+        "XuQiuLateHan",
+        "YangYongLateHan",
+        "YellowTurbansLateHan",
+        "ZhangManchengLateHan",
+        "ZhangNingLateHan",
+        "ZhangWenLateHan",
+        "ZhaoHongLateHan",
+        "ZhuJunLateHan",
+        "zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd",
+        "zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6"
+      ]
+    },
     {
       "id": "d13bad81a6f78413000d2906dc9de9254f6a0c53d1b3f3d1e14128e246b3930c",
       "primary_topic": "history-and-geopolitics",

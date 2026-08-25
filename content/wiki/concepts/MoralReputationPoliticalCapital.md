@@ -2,11 +2,15 @@
 title: "Moral Reputation as Political Capital / 道德名望政治资本"
 type: concept
 tags: [politics, legitimacy, power]
-sources: [zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh]
+sources: [zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh]
 last_updated: 2026-08-25
 ---
 
 # Moral Reputation as Political Capital / 道德名望政治资本
+
+[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds a hostile-recognition version through [[GaiXunLateHan|盖勋]]. After Gai Xun is defeated and wounded in the Qiang field, [[DianWuQiang|滇吾]] prevents others from killing him because he regards him as worthy, and [[YangYongLateHan|杨雍]] later recommends him for [[HanyangCommanderyLateHan|汉阳郡]].
+
+This source shows moral reputation functioning even when ordinary success markers are absent. Gai Xun loses the fight and becomes a captive, but clean conduct and courageous bearing still become usable capital through enemy mercy and official recommendation.
 
 [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] adds a late-Han protection version through [[WangYunLateHan|王允]]. Wang Yun's ambition, classical learning, riding-archery discipline, and [[GuoTaiLateHan|郭泰]]'s praise establish him as a serious official before the later anti-[[DongZhuo|董卓]] branch.
 
@@ -31,6 +35,7 @@ The source does not treat reputation as merely fake. Its sharper claim is that r
 [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] adds a late-Han martyrdom version through [[FuXie|傅燮]]. Fu Xie's reputation is visible before he dies because Beidi Hu cavalry attacking [[HanyangCommanderyLateHan|汉阳郡]] still offer to escort him home. After he refuses surrender and dies, the host invokes Wang Fuzhi's "社稷之臣" judgment, making reputation a moral boundary that survives institutional defeat.
 
 ## Key Claims
+- Hanji 930 adds that reputation can work through hostile recognition and later appointment, even when the immediate battlefield result is defeat.
 - Hanji 931 adds that reputation can draw elite protection under court retaliation, even when it cannot stop the initial accusation.
 - Moral capital can be accumulated through visible restraint and service.
 - Hanji 933 adds that reputation can be damaged by the acquisition path itself: buying an office may turn a plausible honor into evidence against the buyer.
@@ -45,6 +50,7 @@ The source does not treat reputation as merely fake. Its sharper claim is that r
 - Hanji 937 adds that moral reputation can produce enemy-side mercy and later historical praise even when it cannot save the institution around the person.
 
 ## Connections
+- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[GaiXunLateHan|盖勋]], [[DianWuQiang|滇吾]], [[YangYongLateHan|杨雍]], and [[HanyangCommanderyLateHan|汉阳郡]] - battlefield defeat converted into hostile respect and renewed appointment.
 - [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]], [[WangYunLateHan|王允]], [[GuoTaiLateHan|郭泰]], [[HeJin|何进]], [[YangCiLateHan|杨赐]], and [[YuanWeiLateHan|袁隗]] - early reputation, rescue, and political weight before the Dong Zhuo branch.
 - [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[CuiLieLateHan|崔烈]], [[CuiJunLateHan|崔钧]], [[ChengFurenLateHan|程夫人]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] - purchased office as reputation collapse.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]], [[TianHeng|田横]], [[XuBeihong|徐悲鸿]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - defeated-elite honor converted into later national-symbolic memory.

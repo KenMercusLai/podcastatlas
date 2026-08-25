@@ -1,6 +1,28 @@
 {
   "claims": [
     {
+      "global_candidate": false,
+      "id": "capability-reframes-greed-and-resentment",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 930 and treats the greed/unwillingness lesson as a personal-development interpretation layered onto historical narrative.",
+        "It does not claim that capability alone guarantees reward; the same source ties capability to recognition, role assignment, timing, and battlefield conditions."
+      ],
+      "statement": "Hanji 930 adds [[ExchangeableCapability]] to the personal-development branch: desire, greed, and resentment are reframed as prompts to build usable value, because reputation or relationship channels matter only when [[GaiXunLateHan]] has [[MoralReputationPoliticalCapital]], [[SunJianLateHan]] has battlefield capacity recognized by [[ZhuJunLateHan]], and judgment under pressure preserves role usefulness through [[ZhangWenLateHan]], [[BattlefieldCommanderReplacementRisk]], [[EncirclementReleaseCalculus]], and [[VirtuePracticeInternalization]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd",
+        "ExchangeableCapability",
+        "GaiXunLateHan",
+        "MoralReputationPoliticalCapital",
+        "SunJianLateHan",
+        "ZhuJunLateHan",
+        "ZhangWenLateHan",
+        "BattlefieldCommanderReplacementRisk",
+        "EncirclementReleaseCalculus",
+        "VirtuePracticeInternalization"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "perceived-authorship-shapes-trust",
       "qualifications": [
@@ -152,6 +174,6 @@
       ]
     }
   ],
-  "summary": "Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.",
+  "summary": "Hanji 930 adds the exchangeable-capability frame: greed and resentment become signals to build usable value, because reputation and relationships only convert into opportunity when capability, recognition, and judgment are present. Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.",
   "topic_id": "psychology-and-personal-development"
 }

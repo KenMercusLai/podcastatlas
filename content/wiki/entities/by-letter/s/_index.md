@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7466
+wiki_total_pages: 7478
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1478,6 +1478,9 @@ wiki_pages:
   - key: "SunJianLateHan"
     title: "孙坚 / Sun Jian (late Han)"
     url: "/wiki/entities/sunjianlatehan/"
+  - key: "SunXiaLateHan"
+    title: "孙夏 / Sun Xia (late Han)"
+    url: "/wiki/entities/sunxialatehan/"
   - key: "SunZhonghuai"
     title: "孙忠怀 / Sun Zhonghuai"
     url: "/wiki/entities/sunzhonghuai/"

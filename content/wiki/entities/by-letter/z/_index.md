@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 7466
+wiki_total_pages: 7478
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "ZhangZiQiGeneral"
     title: "张子 / Zhang Zi (Qi general)"
     url: "/wiki/entities/zhangziqigeneral/"
+  - key: "ZhangNingLateHan"
+    title: "张宁 / Zhang Ning (late Han)"
+    url: "/wiki/entities/zhangninglatehan/"
   - key: "ZhangNingPonyAI"
     title: "张宁 / Zhang Ning (Pony.ai)"
     url: "/wiki/entities/zhangningponyai/"
@@ -548,6 +551,9 @@ wiki_pages:
   - key: "ZhangZhaoLateHan"
     title: "张昭 / Zhang Zhao (Late Han)"
     url: "/wiki/entities/zhangzhaolatehan/"
+  - key: "ZhangManchengLateHan"
+    title: "张曼成 / Zhang Mancheng (late Han)"
+    url: "/wiki/entities/zhangmanchenglatehan/"
   - key: "ZhangYueguang"
     title: "张月光"
     url: "/wiki/entities/zhangyueguang/"
@@ -881,6 +887,9 @@ wiki_pages:
   - key: "ZhaoTingmei"
     title: "赵廷美 / Zhao Tingmei"
     url: "/wiki/entities/zhaotingmei/"
+  - key: "ZhaoHongLateHan"
+    title: "赵弘 / Zhao Hong (late Han)"
+    url: "/wiki/entities/zhaohonglatehan/"
   - key: "ZhaoDezhao"
     title: "赵德昭 / Zhao Dezhao"
     url: "/wiki/entities/zhaodezhao/"

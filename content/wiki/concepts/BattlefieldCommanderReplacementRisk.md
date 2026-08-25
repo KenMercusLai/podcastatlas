@@ -2,8 +2,8 @@
 title: "Battlefield Commander Replacement Risk / 阵前换将风险"
 type: concept
 tags: [military-command, strategy, governance, succession, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+last_updated: 2026-08-25
 ---
 
 # Battlefield Commander Replacement Risk / 阵前换将风险
@@ -13,6 +13,8 @@ Battlefield commander replacement risk / 阵前换将风险 is the failure mode 
 The risk is not only tactical discontinuity. Le Yi's removal tells Yan soldiers that prior merit and trust no longer protect the campaign, so morale and cohesion weaken. It also tells the remaining Qi defenders that Yan's command unity has cracked.
 
 The concept is adjacent to [[PatronSuccessionExposure|patron succession exposure]] but not identical. Patron succession exposure explains why the old commander becomes politically vulnerable after Yan Zhaowang dies; battlefield replacement risk explains why acting on that vulnerability damages the army.
+
+[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds a late-Han positive restraint case. When the court considers recalling [[ZhuJunLateHan|朱儁]] during the Nanyang [[YellowTurbansLateHan|Yellow Turban]] campaign, [[ZhangWenLateHan|张温]] argues that changing commanders at the front is dangerous and cites [[BaiQi|白起]] and [[LeYi|乐毅]] as precedents for long campaigns that only turn after sustained pressure.
 
 [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] adds the downstream failure. [[QiJie|骑劫]] does not merely lack Le Yi's prestige; he reverses the occupation policy, follows planted rumor bait, and lets [[TianDan|田单]] convert Yan cruelty into Qi morale. The replacement ends with Qi Jie killed in the [[FireOxNightRaid|fire-ox night raid]] and the Yan occupation collapsing.
 
@@ -27,6 +29,7 @@ The same source adds a contrast case: [[QinState|秦国]] also changes commander
 [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] gives the concept its late-Zhao endpoint. During Qin's 229 BCE invasion, [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] removes [[LiMu|李牧]] and [[SimaShang|司马尚]] after [[GuoKai|郭开]]'s bribed rebellion accusation, then appoints [[ZhaoCong|赵葱]] and [[YanJuZhao|颜聚]]. The episode stresses that even if the replacements were not assessed in detail, the act of changing commanders under Qin pressure is itself enough to shake military confidence.
 
 ## Key Claims
+- Hanji 930 adds that resisting replacement can preserve campaign continuity long enough for a slow siege plan to work.
 - Removing a commander mid-campaign can break continuity of strategy, discipline, and trust.
 - The risk is sharper when troops already identify the campaign with the removed commander.
 - A ruler may solve a court anxiety while creating a front-line vulnerability.
@@ -39,6 +42,7 @@ The same source adds a contrast case: [[QinState|秦国]] also changes commander
 - Qinji 113 shows replacement risk becoming fatal when enemy bribery, treason accusation, disaster stress, and active invasion all converge.
 
 ## Connections
+- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[ZhangWenLateHan|张温]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], [[BaiQi|白起]], and [[LeYi|乐毅]] - late-Han argument against recalling a commander mid-campaign.
 - [[LeYi|乐毅]], [[QiJie|骑劫]], and [[YanState|燕国]] - removed commander, replacement general, and army.
 - [[YanHuiwang|燕惠王]] - ruler whose decision triggers the risk.
 - [[TianDan|田单]] and [[CounterintelligenceRumorWedge|反间流言楔入]] - adversary and tactic that provoke the replacement.

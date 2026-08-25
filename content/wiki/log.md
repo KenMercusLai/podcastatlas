@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》930丨如何破除贪心和不甘心？
+
+Added source page for Hanji 930: the opening greed/unwillingness frame, Gai Xun's Qiang-front reputation and Hanyang recommendation, Zhu Jun's Nanyang Yellow Turban campaign against Zhao Hong, Han Zhong, and Sun Xia, Zhang Wen's anti-recall argument, and Sun Jian's early recognition under Zhu Jun. Created Yellow Turbans, Zhang Mancheng, Zhao Hong, Han Zhong, Sun Xia, Qin Jie, Xu Qiu, Yang Yong, Dian Wu, Xianling Qiang, Xu Chang, Zhang Ning, and Exchangeable Capability pages; updated related late-Han actor, command, reputation, surrender, and self-cultivation concepts. No settled contradiction found; transcript Zhu Jun, Zhang Ning, and Xu Chang identity cautions are preserved as source-scoped.
+
 ## [2026-08-25] ingest | Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI
 
 Added source page for an All-In episode on Google AI leadership changes, hyperscaler model/cloud channel conflict, SpaceX public-market AI compute and Starlink growth, Airtable's sale to Bending Spoons and SaaS valuation reset, and U.S. expert-data sales to Chinese AI labs. Created pages for Airtable, Bending Spoons, Hyper Agent, Discovery Loop, Surge AI, Mercor, Micro1, AI Hyperscaler Model Channel Conflict, Frontier Model Duopoly, AI Compute Price Risk, SaaS Capital Structure Reset, No-Code AI Disruption, Expert Data Export Controls, and Product-Led Growth; updated related Google, SpaceX, SaaS, infrastructure-finance, open-model, and export-control pages. No settled contradiction found; Google leadership, SpaceX financials, Airtable transaction details, and China expert-data claims remain source-scoped.
@@ -11546,3 +11550,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health passed across 14,304 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,304 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page sample found no direct contradictions, flagged stale "latest addition" wording in `wiki/overview.md`, and noted thin/depth gaps in several single-source concept pages. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health passed across 14,318 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,318 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

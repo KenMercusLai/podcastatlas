@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 7466
+wiki_total_pages: 7478
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "XiuyuBattle"
     title: "修鱼之战 / Battle of Xiuyu"
     url: "/wiki/entities/xiuyubattle/"
+  - key: "XianlingQiang"
+    title: "先零羌 / Xianling Qiang"
+    url: "/wiki/entities/xianlingqiang/"
   - key: "XingshengYouxuan"
     title: "兴盛优选 / Xingsheng Youxuan"
     url: "/wiki/entities/xingshengyouxuan/"
@@ -428,12 +431,18 @@ wiki_pages:
   - key: "XuYouLateHan"
     title: "许攸 / Xu You (late Han)"
     url: "/wiki/entities/xuyoulatehan/"
+  - key: "XuChangRebel"
+    title: "许昌 / Xu Chang (late-Han rebel)"
+    url: "/wiki/entities/xuchangrebel/"
   - key: "XuSiLateHan"
     title: "许汜 / Xu Si (Late Han)"
     url: "/wiki/entities/xusilatehan/"
   - key: "XuXiangLateHan"
     title: "许相 / Xu Xiang (late Han)"
     url: "/wiki/entities/xuxianglatehan/"
+  - key: "XuQiuLateHan"
+    title: "许秋 / Xu Qiu (late Han)"
+    url: "/wiki/entities/xuqiulatehan/"
   - key: "XuDanLateHan"
     title: "许耽 / Xu Dan (late Han)"
     url: "/wiki/entities/xudanlatehan/"
