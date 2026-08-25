@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1845
+topic_total_pages: 1848
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2728,6 +2728,15 @@ topic_concepts:
   - key: "MerchantComposureDiscipline"
     title: "商人定气功夫 / Merchant Composure Discipline"
     url: "/wiki/concepts/merchantcomposurediscipline/"
+  - key: "PalaceMarketTheater"
+    title: "宫市游乐式权力错位 / Palace Market Theater"
+    url: "/wiki/concepts/palacemarkettheater/"
+  - key: "ProcurementSignalPriceCornering"
+    title: "征发信号价格垄断 / Procurement Signal Price Cornering"
+    url: "/wiki/concepts/procurementsignalpricecornering/"
+  - key: "WealthThroughDaoFrame"
+    title: "求财先明道 / Wealth Through Dao Frame"
+    url: "/wiki/concepts/wealththroughdaoframe/"
   - key: "ImperialFiscalElasticity"
     title: "皇室财政弹性 / Imperial Fiscal Elasticity"
     url: "/wiki/concepts/imperialfiscalelasticity/"

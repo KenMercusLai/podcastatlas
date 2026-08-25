@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 5466
+wiki_total_pages: 5469
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "WarringStatesFourLords"
     title: "战国四公子 / Warring States Four Lords"
     url: "/wiki/concepts/warringstatesfourlords/"
+  - key: "WealthThroughDaoFrame"
+    title: "求财先明道 / Wealth Through Dao Frame"
+    url: "/wiki/concepts/wealththroughdaoframe/"
   - key: "WangAnshiReforms"
     title: "王安石变法 / Wang Anshi Reforms"
     url: "/wiki/concepts/wanganshireforms/"

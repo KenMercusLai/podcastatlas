@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱
+
+Added source page for Hanji 920: wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression of Wuhu Man and Liang Long, disaster and office churn around Yang Ci and Chen Dan, Xianbei succession weakness after Tanshihuai, Han Lingdi's palace-market play, and the public/private treasury setup before Hanji 921. Created Liang Long, Wuhu Man (Jiaozhi), Tanshihuai, He Lian, Kuitou, Wealth Through Dao Frame, Palace Market Theater, and Procurement Signal Price Cornering; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants around Zhu Jun, Wuhu Man, Tanshihuai, He Lian, and Kuitou are normalized cautiously.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝
 
 Added source page for Hanji 923 on adult restraint/self-rescue framing and the Yellow Turban prelude: late-Han epidemic distress, Zhang Jiao's healing-based Taiping Dao expansion, Yang Ci and Liu Tao's ignored warnings, the thirty-six `fang`, Ma Yuanyi's regional and palace-contact plot, Tang Zhou's disclosure, and the accelerated 184 uprising. Created Ma Yuanyi, Tang Zhou, and Relief-Based Religious Mobilization pages; updated Zhang Jiao, Taiping Dao, Yellow Turbans, Emperor Ling of Han, Yang Ci, Liu Tao, Feng Xu, Xu Feng, Zhang Bao, Zhang Liang, Court Feedback Collapse, Pandemic As Historical Force, and Instrumentalized Religious Power. No settled contradiction found; the host's adult-toughness opening and healing-efficacy claims remain source-scoped.
@@ -11751,6 +11755,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死
 
 Added source page for Hanji 921: Emperor Ling's 181 CE private-treasury extraction, Lyu Qiang's remonstrance on public/private wealth and appointment accountability, West Garden pleasure politics, Wang Meiren's poisoning and Liu Xie's transfer to Dong Taihou, and Cao Jie-to-Zhao Zhong eunuch continuity. Created Cao Jie (late-Han eunuch) and Imperial Private Treasury Extraction; updated linked late-Han entity and concept pages. No settled contradiction found; transcript wording around the extra fee term is kept source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

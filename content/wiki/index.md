@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱](sources/zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws.md) — 芮淇讲透资治通鉴 episode on wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression, Xianbei succession weakness, Han Lingdi's palace-market play, and the public/private treasury problem.
 - [《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死](sources/zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic.md) — 芮淇讲透资治通鉴 episode on Han Lingdi's private-treasury extraction, Lyu Qiang's public/private finance remonstrance and appointment-accountability warning, Wang Meiren and Liu Xie's foster transfer, and Cao Jie-to-Zhao Zhong eunuch continuity.
 - [商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？](sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335.md) — 商业就是这样 short episode on HYROX's copyable fitness-race rules, trademark protection, participation-data moat, gym authorization, global rankings, and sponsor/event network.
 - [699. The Troubles: Return of the IRA (Part 3)](sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642.md) — The Rest Is History episode on the 1970-1971 Troubles escalation through the Provisional IRA, Falls Curfew, internment, Operation Demetrius, interrogation abuse, loyalist mobilization, and bombing retaliation.
@@ -1539,7 +1540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三国时代 / Three Kingdoms Period](entities/ThreeKingdomsPeriod.md) — Historical-period node introduced by Hanji 923 plus as the upcoming field for long-game struggle strategy and source-vs-Romance reading.
 - [许訏 / Xu Xu (late-Han taiwei)](entities/XuXuTaiweiLateHan.md) — Taiwei whose 182 CE anti-corruption review shields eunuch-linked corrupt officials and falsely reports clean distant administrators.
 - [张济 / Zhang Ji (late-Han sikong)](entities/ZhangJiSikongLateHan.md) — Court sikong in Hanji 922 whose false-reporting role is kept distinct from the later warlord Zhang Ji.
-- [陈耽 / Chen Dan (late Han)](entities/ChenDanLateHan.md) — Situ who defends wrongly accused local officials and exposes the private-party logic behind Xu Xu and Zhang Ji's report.
+- [陈耽 / Chen Dan (late Han)](entities/ChenDanLateHan.md) — Situ appointed after 181 palace-fire office churn and later defender of wrongly accused local officials against Xu Xu and Zhang Ji's false report.
 - [陈鲍 / Chen Bao (late Han)](entities/ChenBaoLateHan.md) — Hanzhong reporting official who diagnoses Bandun Man rebellion as extraction-driven grievance and recommends clean officials over military suppression.
 - [板楯蛮 / Bandun Man](entities/BandunMan.md) — Ba-region group whose tax-exempt service history and extraction-driven 182 CE rebellion make a late-Han root-cause pacification case.
 - [曹谦 / Cao Qian (late Han)](entities/CaoQianLateHan.md) — Ba commandery administrator sent after Chen Bao's diagnosis, paired with amnesty in the source's quick Bandun Man settlement.
@@ -1565,7 +1566,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [桥玄 / Qiao Xuan (late Han)](entities/QiaoXuanLateHan.md) — Senior late-Han official whose endorsement and Xu Shao referral help Cao Cao convert elite recognition into reputation.
 - [曹腾 / Cao Teng (late Han)](entities/CaoTengLateHan.md) — Eunuch adoptive grandfather in Cao Cao's family background, anchoring the label Cao Cao tries to offset through anti-eunuch signaling.
 - [贾从 / Jia Cong (late Han)](entities/JiaCongLateHan.md) — Late-Han official who pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, and appointing clean local officials.
-- [交趾郡 / Jiaozhi Commandery](entities/JiaozhiCommandery.md) — Southern commandery in today's northern Vietnam/Red River region, source case for extraction-driven rebellion and Jia Cong's root-cause pacification.
+- [交趾郡 / Jiaozhi Commandery](entities/JiaozhiCommandery.md) — Southern commandery in today's northern Vietnam/Red River region, source case for the 181 Wuhu Man/Liang Long rebellion, Zhu Jun's rapid suppression, and later Jia Cong root-cause pacification.
+- [乌浒蛮 / Wuhu Man (Jiaozhi)](entities/WuhuManJiaozhi.md) — Southern Jiaozhi rebel group in Hanji 920, disambiguated from Wuhu place names and suppressed by Zhu Jun after a prolonged rebellion.
+- [梁龙 / Liang Long (late Han)](entities/LiangLongLateHan.md) — Jiaozhi rebel actor killed by Zhu Jun during the 181 southern suppression branch.
 - [左丰 / Zuo Feng (late Han)](entities/ZuoFengLateHan.md) — Small yellow gate whose inspection report after Lu Zhi's gift refusal leads Emperor Ling to recall Lu Zhi and appoint Dong Zhuo.
 - [张梁 / Zhang Liang (Yellow Turban)](entities/ZhangLiangYellowTurban.md) — Yellow Turban leader killed by Huangfu Song at Guangzong in Hanji 929, disambiguated from Zhang Liang the early-Han strategist.
 - [张宝 / Zhang Bao (Yellow Turban)](entities/ZhangBaoYellowTurban.md) — Zhang Jiao's brother killed by Huangfu Song at Quyang in Hanji 929, disambiguated from Zhang Bao / 张苞 in the Li-Guo branch.
@@ -1796,7 +1799,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋翼 / Song Yi (late Han)](entities/SongYiLateHan.md) — Wang Yun-side official whose rigid obedience to a captured-court summons removes the last outside deterrent against Li-Guo executions.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
-- [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official, transcript "杨次", who joins He Jin and Yuan Wei in rescuing Wang Yun after Zhang Rang's prison retaliation.
+- [杨赐 / Yang Ci (late Han)](entities/YangCiLateHan.md) — Senior late-Han official whose page now covers 181 dismissal after palace-fire office churn, pre-Yellow-Turban warnings, and later rescue of Wang Yun.
 - [郭泰 / Guo Tai (late Han)](entities/GuoTaiLateHan.md) — Late-Han scholar whose praise of Wang Yun's ruler-assisting talent helps mark Wang Yun's early moral reputation in Hanji 931.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
@@ -1954,12 +1957,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周丹 / Zhou Dan (Late Han)](entities/ZhouDanLateHan.md) — Gongsun Zan's Yuyang taishou defeated and killed by Yan Rou in the Youzhou backlash.
 - [刘和 / Liu He (Late Han)](entities/LiuHeLateHan.md) — Liu Yu's son welcomed as a banner by the anti-Gongsun coalition.
 - [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose forces help Yan Rou's anti-Gongsun coalition and whose respect for Tian Chou marks the Xu Wu Mountain order branch.
-- [鲜卑 / Xianbei](entities/Xianbei.md) — Northern cavalry group joining Xianyu Fu and Wuhuan riders in the anti-Gongsun campaign.
+- [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose wiki branch now includes 181 leadership transition after Tanshihuai, later Liu Yu outreach, and the anti-Gongsun coalition.
+- [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader whose death in Hanji 920 sets up the weaker He Lian and Kuitou succession branch.
+- [和连 / He Lian (Xianbei)](entities/HeLianXianbei.md) — Tanshihuai's son and weaker Xianbei successor, killed after attacking Beidi in the Hanji 920 succession summary.
+- [魁头 / Kuitou (Xianbei)](entities/KuitouXianbei.md) — Nephew-line Xianbei successor whose later contest with He Lian's son disperses the group in the Hanji 920 account.
 - [幽州 / Youzhou (Late Han)](entities/YouzhouLateHan.md) — Northern province where Gongsun Zan's post-Liu Yu control unravels through commandery defections.
 - [易县 / Yi County (Late Han)](entities/YixianLateHan.md) — Place Gongsun Zan chooses as a supposed refuge after reading a children's song.
 - [易京 / Yijing Fortress](entities/YijingFortress.md) — Gongsun Zan's trenched tower stronghold, treated as a false-security command-isolation case.
 - [白马义从 / Baima Yicong](entities/BaimaYicong.md) — Gongsun Zan's white-horse cavalry identity contrasted with his later Yijing confinement.
-- [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes palace-finance extraction, bought-office pricing, captured feedback, succession non-designation, and unresolved frontier appeals.
+- [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes 181 palace-market play, horse-procurement price cornering, private-treasury extraction, bought-office pricing, captured feedback, succession non-designation, and unresolved frontier appeals.
 - [董卓 / Dong Zhuo](entities/DongZhuo.md) — Late-Han warlord whose arc now runs from Luoyang terror and coerced scholar legitimacy through forced relocation, assassination, and Meiwu/Yijing fortress comparison.
 - [郿坞 / Meiwu Fortress](entities/MeiwuFortress.md) — Dong Zhuo's stronghold used as the comparison case for Yijing-style false security.
 - [南匈奴 / Southern Xiongnu](entities/SouthernXiongnu.md) — Late-Han frontier group whose Yufuluo succession crisis, later campaign roles, emperor-escort cavalry, and Huchuquan succession are tracked across the wiki.
@@ -2272,7 +2278,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨密 / Yang Mi (late Han)](entities/YangMiLateHan.md) — Zhonglangjiang who stops Guo Si from killing Yang Biao after the hostage-banquet rebuke in Hanji 985.
 - [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong who urges Emperor Xian to suppress anger over Li Jue's rotten-bones food humiliation.
 - [张苞 / Zhang Bao (late Han)](entities/ZhangBaoLateHan.md) — Li Jue-side zhonglangjiang who colludes with Guo Si, sets fires in Li Jue's camp, and defects after the failed night attack.
-- [朱儁 / Zhu Jun (late Han)](entities/ZhuJunLateHan.md) — Court official held by Guo Si whose anger, illness, and death mark the bodily cost of ministerial hostage-taking.
+- [朱儁 / Zhu Jun (late Han)](entities/ZhuJunLateHan.md) — Late-Han official whose career now spans 181 Jiaozhi suppression, Yellow Turban campaigns, anti-Dong-Zhuo posture, and later death after Guo Si's ministerial hostage-taking.
 - [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — Situ who writes a dangerous remonstrance to Li Jue after Li Jue refuses imperial mediation and tries to move Emperor Xian.
 - [皇甫郦 / Huangfu Li (late Han)](entities/HuangfuLiLateHan.md) — Envoy whose direct warning to Li Jue turns mediation into near-fatal remonstrance in Hanji 986.
 - [王昌 / Wang Chang (late Han)](entities/WangChangLateHan.md) — Huben warrior sent to pursue Huangfu Li who spares him after recognizing his loyalty and uprightness.
@@ -2958,7 +2964,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田常 / Tian Chang](entities/TianChang.md) — Qi chief minister whom Zigong persuades to redirect danger away from Lu and toward Wu.
 - [吴王夫差 / King Fuchai of Wu](entities/Fuchai.md) — Wu ruler who defeats Qi, overreaches toward Jin, and is later destroyed by Goujian's Yue.
 - [越王勾践 / King Goujian of Yue](entities/Goujian.md) — Yue ruler who feigns submission to Wu, waits for Wu's exhaustion, destroys Wu, and then endangers victorious ministers.
-- [范蠡 / Fan Li](entities/FanLi.md) — Yue minister who leaves after Goujian's victory and warns Wen Zhong about post-victory minister danger.
+- [范蠡 / Fan Li](entities/FanLi.md) — Yue minister used both for post-victory political exit after Goujian and for Hanji 920's wealth-through-Dao frame of durable earning.
 - [文种 / Wen Zhong of Yue](entities/WenZhongYue.md) — Yue minister who ignores Fan Li's warning and later becomes Kuai Che's Chu-Han precedent for "鸟尽弓藏，兔死狗烹."
 - [曾参 / Zeng Shen](entities/ZengShen.md) — Confucian figure in Gan Mao's parable showing repeated rumor can overcome even intimate trust.
 - [吴娃 / Wu Wa](entities/WuWa.md) — Favored wife of Zhao Wuling Wang and mother of Zhao He, whose branch foreshadows a succession fault line.
@@ -6826,7 +6832,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张熙 / Zhang Xi](entities/ZhangXi.md) — Zeng Jing's student and courier whose letter to Yue Zhongqi opened the case.
 - [岳钟琪 / Yue Zhongqi](entities/YueZhongqi.md) — Sichuan-Shaanxi governor-general whose interrogation and secret memorials turned Zhang Xi's letter into an imperial case.
 - [吕留良 / Lu Liuliang](entities/LuLiuliang.md) — Scholar whose anti-Qing writings became the ideological target of the Zeng Jing case and related literary inquisition.
-- [乾隆 / Qianlong Emperor](entities/QianlongEmperor.md) — Qing emperor who reversed Yongzheng's settlement by executing Zeng Jing and Zhang Xi and suppressing 《大义觉迷录》.
+- [乾隆 / Qianlong Emperor](entities/QianlongEmperor.md) — Qing emperor linked both to the Zeng Jing reversal and to Hanji 920's Tongleyuan buy/sell street comparison.
 - [李卫 / Li Wei](entities/LiWeiQingOfficial.md) — Qing official whose search of the Lu Liuliang household shifted the case toward books, diaries, descendants, and students.
 - [年羹尧 / Nian Gengyao](entities/NianGengyao.md) — Recently fallen Qing official whose purge shaped Yue Zhongqi's fear and the anti-"逆书" atmosphere around the case.
 - [曹寅 / Cao Yin](entities/CaoYin.md) — Qing imperial bondservant, Jiangning weaver, fiscal operator, cultural broker, and Kangxi confidant central to episode 101.
@@ -9148,7 +9154,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
-- [帝王私库进奉盘剥 / Imperial Private Treasury Extraction](concepts/ImperialPrivateTreasuryExtraction.md) — Late-Han pattern where Emperor Ling's private-store demands convert public tribute and local supply into extra extraction before later palace-construction fees.
+- [征发信号价格垄断 / Procurement Signal Price Cornering](concepts/ProcurementSignalPriceCornering.md) — Hanji 920 pattern where state horse-procurement demand is captured by local strongmen who monopolize supply and inflate prices.
+- [宫市游乐式权力错位 / Palace Market Theater](concepts/PalaceMarketTheater.md) — Hanji 920 pattern where rulers stage or capture marketplace life inside palace space, confusing office, household, play, and extraction.
+- [帝王私库进奉盘剥 / Imperial Private Treasury Extraction](concepts/ImperialPrivateTreasuryExtraction.md) — Late-Han pattern where Emperor Ling's palace-market/private-store logic converts public tribute and local supply into extra extraction before later palace-construction fees.
 - [修宫钱转嫁盘剥 / Palace Construction Fee Extraction](concepts/PalaceConstructionFeeExtraction.md) — Late-Han pattern where palace-construction and office-entry charges move through eunuch and appointment channels until local officials push the cost onto the people.
 - [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where the court converts an unsuppressed rebel force into delegated order by granting the leader office.
 - [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where purchased or fee-burdened public office damages institutional credibility, officeholder reputation, or both.
@@ -9427,7 +9435,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Command Synchronization Failure / 军令同步失灵](concepts/CommandSynchronizationFailure.md) — breakdown where diplomacy and military command keep executing incompatible mandates after conditions change, making Li Shiqi's Qi success fatal.
 - [Substitutional Escape Sacrifice / 代身突围牺牲](concepts/SubstitutionalEscapeSacrifice.md) — Hanji 162-1 pattern where a retainer impersonates the ruler to draw enemy attention, save the leader, and accept lethal consequence.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
-- [Cognition As Fortune Root / 认知通达决定福禄](concepts/CognitionAsFortuneRoot.md) — Hanji 161 part 4 claim that clear cognition and changed worldview matter more for fortune than feng shui, astrology, fortune-telling, ornaments, or cosmetic techniques.
+- [求财先明道 / Wealth Through Dao Frame](concepts/WealthThroughDaoFrame.md) — Hanji 920 wealth ethic that treats money as the visible result of grasping rules, trends, value, human feeling, and moral limits.
+- [Cognition As Fortune Root / 认知通达决定福禄](concepts/CognitionAsFortuneRoot.md) — Claim that clear cognition and changed worldview shape fortune, now extended by Hanji 920's narrower wealth-through-Dao formulation.
 - [Fate Change Through Virtue Practice / 积善修心式改命](concepts/FateChangeThroughVirtuePractice.md) — Hanji 161 part 4 frame where inherited命数 can be altered through intention,修心,发愿, accumulated good deeds, and embodied practice.
 - [High-Dimensional Consciousness Entanglement / 高维意识纠缠](concepts/HighDimensionalConsciousnessEntanglement.md) — Hanji 161 part 3 synthesis where Daoist/Buddhist transcendence, parallel worlds, all-things-have-spirit, and Tesla-style frequency language become the source's strongest quantum-consciousness claim.
 - [Buddhist Consciousness Projection Frame / 佛教心识投射框架](concepts/BuddhistConsciousnessProjectionFrame.md) — Hanji 161 part 3 frame using 《金刚经》, 心, 识, 相, 空, and practice levels to explain appearance as consciousness-shaped rather than final reality.
@@ -9811,7 +9820,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Encirclement Threat Persuasion / 包围威胁式说服](concepts/EncirclementThreatPersuasion.md) — Zhang Yi's Zhouji 54 speech pattern of naming weakness, claiming allies have shifted to Qin, mapping attack routes, and making Qin accommodation appear safest.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, intimate shame, status pressure, and discomfort drive focused self-study that still needs access and patronage.
 - [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts and portable idioms.
-- [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible prestige spending becomes wrong because war, drought, or public burden makes the timing and financing politically unfit.
+- [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible pleasure, palace-market play, or prestige spending becomes wrong because war, disaster, or public burden makes the timing politically unfit.
 - [Status Order Backlash / 名分秩序反弹](concepts/StatusOrderBacklash.md) — Diplomatic-status pattern where a title elevation provokes third-party rulers by changing perceived rank.
 - [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders use rhetoric, threat maps, audience reading, dignity appeals, and alliance design as instruments of interstate power.
 - [徐州相王 / Xuzhou Mutual Kingship](concepts/XuzhouMutualKingship.md) — Post-Maling Qi-Wei mutual recognition that converts battlefield re-ranking into face-saving title diplomacy.

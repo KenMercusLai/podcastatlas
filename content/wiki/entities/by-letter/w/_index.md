@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 7617
+wiki_total_pages: 7622
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "WujiangPavilionChief"
     title: "乌江亭长 / Wujiang Pavilion Chief"
     url: "/wiki/entities/wujiangpavilionchief/"
+  - key: "WuhuManJiaozhi"
+    title: "乌浒蛮 / Wuhu Man (Jiaozhi)"
+    url: "/wiki/entities/wuhumanjiaozhi/"
   - key: "WuzhuiHorse"
     title: "乌骓马 / Wuzhui Horse"
     url: "/wiki/entities/wuzhuihorse/"

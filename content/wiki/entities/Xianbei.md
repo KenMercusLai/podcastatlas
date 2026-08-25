@@ -2,11 +2,15 @@
 title: "鲜卑 / Xianbei"
 type: entity
 tags: [people, frontier, late-han, steppe, china]
-sources: [zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+last_updated: 2026-08-26
 ---
 
 # 鲜卑 / Xianbei
+
+[[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] adds an earlier 181 CE leadership-transition layer. In the same year that Xianbei forces invade [[YouzhouLateHan|幽州]] and [[BingzhouLateHan|并州]], [[TanshihuaiXianbei|檀石槐]] dies and his son [[HeLianXianbei|和连]] succeeds him.
+
+The source treats the succession as weakening rather than smooth continuity. He Lian is described as less capable than his father and later killed during an attack on Beidi; because his son is too young, [[KuitouXianbei|魁头]] takes power, and a later contest with He Lian's grown son disperses the group. Xianbei pressure therefore appears alongside internal fragmentation before later sources show Liu Yu's pacification outreach and the anti-Gongsun coalition.
 
 [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds an earlier frontier-pressure marker. In December 186, Xianbei forces invade [[YouzhouLateHan|幽州]] and [[BingzhouLateHan|并州]], contributing to the recall of [[ZhangWenLateHan|张温]] to [[LuoyangLateHan|洛阳]].
 
@@ -19,6 +23,7 @@ The source uses the incursion as one item in a broader late-Han stress field rat
 The source uses Xianbei mainly to show that Gongsun Zan's political failure has widened beyond a narrow Han official dispute. Frontier groups, Liu Yu loyalists, and Yuan Shao's network all find common cause against him.
 
 ## Connections
+- [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]], [[TanshihuaiXianbei|檀石槐]], [[HeLianXianbei|和连]], [[KuitouXianbei|魁头]], [[YouzhouLateHan|幽州]], and [[BingzhouLateHan|并州]] - 181 CE incursion, succession weakness, and later dispersal.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[YouzhouLateHan|幽州]], [[BingzhouLateHan|并州]], and [[ZhangWenLateHan|张温]] - 186 CE incursion and recall pressure.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[LiuYuLateHan|刘虞]], [[ZhangChunLateHan|张纯]], and [[ZhangJuLateHan|张举]] - envoy-and-pacification branch before the later anti-Gongsun coalition.
 - [[XianyuFu|鲜于辅]] - campaign organizer whom Xianbei riders follow.

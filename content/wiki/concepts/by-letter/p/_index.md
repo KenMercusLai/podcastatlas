@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5466
+wiki_total_pages: 5469
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1421,9 +1421,15 @@ wiki_pages:
   - key: "PalaceConstructionFeeExtraction"
     title: "修宫钱转嫁盘剥 / Palace Construction Fee Extraction"
     url: "/wiki/concepts/palaceconstructionfeeextraction/"
+  - key: "PalaceMarketTheater"
+    title: "宫市游乐式权力错位 / Palace Market Theater"
+    url: "/wiki/concepts/palacemarkettheater/"
   - key: "ProvincialShepherdAutonomy"
     title: "州牧集权与地方割据 / Provincial Shepherd Autonomy"
     url: "/wiki/concepts/provincialshepherdautonomy/"
+  - key: "ProcurementSignalPriceCornering"
+    title: "征发信号价格垄断 / Procurement Signal Price Cornering"
+    url: "/wiki/concepts/procurementsignalpricecornering/"
   - key: "PostwarReturnAndVeteranRelief"
     title: "战后复员安民 / Postwar Return and Veteran Relief"
     url: "/wiki/concepts/postwarreturnandveteranrelief/"

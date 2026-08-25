@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7617
+wiki_total_pages: 7622
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "TanZi"
     title: "檀子 / Tan Zi"
     url: "/wiki/entities/tanzi/"
+  - key: "TanshihuaiXianbei"
+    title: "檀石槐 / Tanshihuai (Xianbei)"
+    url: "/wiki/entities/tanshihuaixianbei/"
   - key: "TangXiaoou"
     title: "汤晓鸥 / Tang Xiao'ou"
     url: "/wiki/entities/tangxiaoou/"

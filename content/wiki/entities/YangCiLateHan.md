@@ -2,11 +2,15 @@
 title: "杨赐 / Yang Ci (late Han)"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
+sources: [zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]
 last_updated: 2026-08-26
 ---
 
 # 杨赐 / Yang Ci (late Han)
+
+[[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] gives Yang Ci an 181 CE office-turnover marker before the later [[YellowTurbansLateHan|Yellow Turban]] warning branch. After the North Palace winter-night pavilion Yongxiang office fire in [[LuoyangLateHan|洛阳]], Yang Ci is dismissed as situ and [[ChenDanLateHan|陈耽]] is appointed in his place.
+
+The episode uses the dismissal mainly as part of a disaster-and-office-churn sequence: hail, eclipse, palace fire, and senior removals surround [[EmperorLingOfHan|汉灵帝]]'s reign before Yang Ci's later warnings become more substantial in Hanji 923 and Hanji 925.
 
 [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]] adds the substance of Yang Ci's pre-uprising warning. As situ, he sees [[ZhangJiaoLateHan|张角]]'s network as dangerous but argues against immediate blunt suppression; the episode says he recommends first investigating and dispersing displaced followers so the organization loses its base before the court targets the leaders.
 
@@ -21,6 +25,7 @@ The episode therefore makes Yang Ci a case of warning that fails first as court 
 The episode gives Yang Ci a narrow but important function. Alongside [[HeJin|何进]] and [[YuanWeiLateHan|袁隗]], he helps rescue Wang Yun from the death edge, making Wang Yun's early [[MoralReputationPoliticalCapital|道德名望政治资本]] visible before the later Dong Zhuo branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]], [[ChenDanLateHan|陈耽]], [[EmperorLingOfHan|汉灵帝]], and [[LuoyangLateHan|洛阳]] - 181 CE dismissal after the palace-fire and disaster sequence.
 - [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]], [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], and [[EmperorLingOfHan|汉灵帝]] - pre-uprising warning and dispersal-first prevention strategy.
 - [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[EmperorLingOfHan|汉灵帝]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[ZhangJiaoLateHan|张角]], [[YellowTurbansLateHan|黄巾军]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - dismissed warning and later vindication.
 - [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]] - source case.

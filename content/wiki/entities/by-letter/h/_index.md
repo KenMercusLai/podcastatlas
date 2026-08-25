@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 7617
+wiki_total_pages: 7622
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "HeShiBi"
     title: "和氏璧 / He Shi Bi"
     url: "/wiki/entities/heshibi/"
+  - key: "HeLianXianbei"
+    title: "和连 / He Lian (Xianbei)"
+    url: "/wiki/entities/helianxianbei/"
   - key: "Hanuman"
     title: "哈努曼 / Hanuman"
     url: "/wiki/entities/hanuman/"
