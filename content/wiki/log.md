@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》911丨古代公务员也能包分配？
+
+Added source page for Hanji 911: Hongdu Menxue curriculum and fast-track appointment conflict with Taixue, official-selection history as imperial/elite power allocation, Lingdi reinterpretation, Shi Yiguan and Liang Hu calligraphy anecdotes, Zhang Hao's eunuch-linked taiwei appointment and gold-seal omen, earthquake/hen omen, Chen Dan removal, and Lai Yan appointment before Hanji 912. Created Taixue, Official Selection Channel Competition, Shi Yiguan, Zhang Hao, and Lai Yan; updated Hongdu Menxue, Emperor Ling, Liang Hu, Chen Dan, Court Office Capture, Auspicious Omen Politics, Natural Disaster Political Omen, Celestial Omen Political Responsibility, the Ruiqi show page, index, and overview. No settled contradiction found; 张昊 is normalized to 张颢 while Hongdu count/first-specialized-university, posthumous-name, and omen-manipulation readings remain source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》912丨秘密到底该不该说出口？
 
 Added source page for Hanji 912: Han Fei secrecy framing, advice-risk interpretation, 178 CE palace omens, Yang Ci and Cai Yong's remonstrance against harem/eunuch, Hongdu, appointment, and extravagance disorder, Cao Jie's leak of Cai Yong's confidential memorial, and the retaliation setup through Cheng Huang, Liu He, Yang Qiu, and Cai Zhi. Created Confidential Remonstrance Leakage; updated linked late-Han entity and concept pages, index, overview, and show context. No settled contradiction found; the Yang Qiu-Cheng Huang relationship wording and transcript variants 蔡庸, 杨次, 刘河, and 杨球 are kept source-scoped or normalized to existing canonical pages.
@@ -11825,6 +11829,10 @@ Added source page for Hanji 913: workplace bullying and explanation-boundary fra
 ## [2026-08-26] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 14,603 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API keys are unset; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

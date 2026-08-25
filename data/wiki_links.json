@@ -26423,6 +26423,10 @@
     "title": "Lai Xinlu",
     "url": "/wiki/entities/laixinlu/"
   },
+  "LaiYanLateHan": {
+    "title": "来艳 / Lai Yan (late Han)",
+    "url": "/wiki/entities/laiyanlatehan/"
+  },
   "LakeMaracaibo": {
     "title": "Lake Maracaibo",
     "url": "/wiki/entities/lakemaracaibo/"
@@ -33646,6 +33650,10 @@
   "OfficialLearningMonopoly": {
     "title": "学在王官式知识垄断 / Official Learning Monopoly",
     "url": "/wiki/concepts/officiallearningmonopoly/"
+  },
+  "OfficialSelectionChannelCompetition": {
+    "title": "选官通道竞争 / Official Selection Channel Competition",
+    "url": "/wiki/concepts/officialselectionchannelcompetition/"
   },
   "OfficialSportsTicketResale": {
     "title": "Official Sports Ticket Resale",
@@ -41747,6 +41755,10 @@
     "title": "《事已至此，走保险》",
     "url": "/wiki/entities/shiyizhicizoubaoxian/"
   },
+  "ShiYiguanLateHan": {
+    "title": "师宜官 / Shi Yiguan",
+    "url": "/wiki/entities/shiyiguanlatehan/"
+  },
   "ShiZimiaoLateHan": {
     "title": "史子眇 / Shi Zimiao (late Han)",
     "url": "/wiki/entities/shizimiaolatehan/"
@@ -44806,6 +44818,10 @@
   "TaiwanStrait": {
     "title": "Taiwan Strait",
     "url": "/wiki/entities/taiwanstrait/"
+  },
+  "Taixue": {
+    "title": "太学 / Taixue",
+    "url": "/wiki/concepts/taixue/"
   },
   "Taiyi": {
     "title": "太一 / Taiyi",
@@ -52379,6 +52395,10 @@
     "title": "章邯 / Zhang Han (Qin)",
     "url": "/wiki/entities/zhanghanqin/"
   },
+  "ZhangHaoTaiweiLateHan": {
+    "title": "张颢 / Zhang Hao (late-Han taiwei)",
+    "url": "/wiki/entities/zhanghaotaiweilatehan/"
+  },
   "ZhangHaoran": {
     "title": "Zhang Haoran",
     "url": "/wiki/entities/zhanghaoran/"
@@ -57210,6 +57230,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e": {
+    "title": "《资治通鉴·汉纪》911丨古代公务员也能包分配？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e/"
   },
   "zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a": {
     "title": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？",

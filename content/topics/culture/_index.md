@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2212
+topic_total_pages: 2215
 topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
@@ -2224,6 +2224,9 @@ topic_concepts:
   - key: "GrandViewGardenYouthUtopia"
     title: "大观园青春乌托邦 / Grand View Garden Youth Utopia"
     url: "/wiki/concepts/grandviewgardenyouthutopia/"
+  - key: "Taixue"
+    title: "太学 / Taixue"
+    url: "/wiki/concepts/taixue/"
   - key: "YokaiMystery"
     title: "妖怪推理 / Yokai Mystery"
     url: "/wiki/concepts/yokaimystery/"
@@ -2323,6 +2326,9 @@ topic_concepts:
   - key: "TangFrontierPoetryFieldExperience"
     title: "边塞诗的实地经验 / Tang Frontier Poetry Field Experience"
     url: "/wiki/concepts/tangfrontierpoetryfieldexperience/"
+  - key: "OfficialSelectionChannelCompetition"
+    title: "选官通道竞争 / Official Selection Channel Competition"
+    url: "/wiki/concepts/officialselectionchannelcompetition/"
   - key: "HongduMenxue"
     title: "鸿都门学 / Hongdu Menxue"
     url: "/wiki/concepts/hongdumenxue/"
@@ -6588,6 +6594,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e"
+    title: "《资治通鉴·汉纪》911丨古代公务员也能包分配？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e/"
   - key: "zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu"
     title: "《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？"
     url: "/wiki/sources/zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu/"

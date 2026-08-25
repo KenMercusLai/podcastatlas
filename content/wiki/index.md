@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》911丨古代公务员也能包分配？](sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e.md) — 芮淇讲透资治通鉴 episode on Hongdu Menxue as a fast-track appointment channel against Taixue, official-selection systems as power allocation, Shi Yiguan and Liang Hu's calligraphy talent, Zhang Hao's eunuch-linked taiwei promotion and gold-seal omen, and the earthquake/hen-omen office churn before Hanji 912.
 - [《资治通鉴·汉纪》912丨秘密到底该不该说出口？](sources/zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a.md) — 芮淇讲透资治通鉴 episode on Han Fei's secrecy warning, 178 CE omen remonstrance by Yang Ci and Cai Yong, Cao Jie's leak of Cai's confidential memorial, and source-scoped risk around loyal advice, secrecy, protection, and aftermath capacity.
 - [《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸](sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g.md) — 芮淇讲透资治通鉴 episode on Cai Yong's framed exile and survival, Song Empress's wugu accusation and death, Lu Zhi's ignored institutional memorial, and source-scoped workplace/self-protection readings of explanation and misfortune.
 - [《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？](sources/zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored memorial, Xidi office-sale pricing, private-store proceeds, Yang Qi's Emperor Huan comparison, and Huzheng's Southern Xiongnu succession.
@@ -1483,6 +1484,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张颢 / Zhang Hao (late-Han taiwei)](entities/ZhangHaoTaiweiLateHan.md) — Guanghe first-year taiwei whose eunuch-linked promotion and gold-seal omen make a late-Han appointment-favor case; podcast wording 张昊 is normalized to 张颢.
+- [来艳 / Lai Yan (late Han)](entities/LaiYanLateHan.md) — Taichang promoted to sikong after Chen Dan's removal in the 178 earthquake and animal-omen office sequence.
+- [师宜官 / Shi Yiguan](entities/ShiYiguanLateHan.md) — Hongdu-associated calligrapher whose restaurant-wall anecdote shows artistic talent inside the politically contested appointment channel.
 - [宋皇后 / Empress Song (late Han)](entities/EmpressSongLateHan.md) — Emperor Ling's empress killed after Wang Fu turns palace rivalry and wugu accusation into lethal court action; distinct from the Song dynasty empress page.
 - [杨震 / Yang Zhen (late Han)](entities/YangZhenLateHan.md) — Yang-family reputation figure invoked when Emperor Ling mocks Yang Qi after the Emperor Huan comparison.
 - [Leopold Aschenbrenner](entities/LeopoldAschenbrenner.md) — Former OpenAI employee and AI investor used by All-In as a source-scoped case in levered AI-stock liquidation risk.
@@ -1574,7 +1578,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三国时代 / Three Kingdoms Period](entities/ThreeKingdomsPeriod.md) — Historical-period node introduced by Hanji 923 plus as the upcoming field for long-game struggle strategy and source-vs-Romance reading.
 - [许訏 / Xu Xu (late-Han taiwei)](entities/XuXuTaiweiLateHan.md) — Taiwei whose 182 CE anti-corruption review shields eunuch-linked corrupt officials and falsely reports clean distant administrators.
 - [张济 / Zhang Ji (late-Han sikong)](entities/ZhangJiSikongLateHan.md) — Court sikong in Hanji 922 whose false-reporting role is kept distinct from the later warlord Zhang Ji.
-- [陈耽 / Chen Dan (late Han)](entities/ChenDanLateHan.md) — Situ appointed after 181 palace-fire office churn and later defender of wrongly accused local officials against Xu Xu and Zhang Ji's false report.
+- [陈耽 / Chen Dan (late Han)](entities/ChenDanLateHan.md) — Late-Han senior official removed as sikong after the 178 earthquake/animal-omen sequence, later appointed situ and defender of wrongly accused local officials against Xu Xu and Zhang Ji's false report.
 - [陈鲍 / Chen Bao (late Han)](entities/ChenBaoLateHan.md) — Hanzhong reporting official who diagnoses Bandun Man rebellion as extraction-driven grievance and recommends clean officials over military suppression.
 - [板楯蛮 / Bandun Man](entities/BandunMan.md) — Ba-region group whose tax-exempt service history and extraction-driven 182 CE rebellion make a late-Han root-cause pacification case.
 - [曹谦 / Cao Qian (late Han)](entities/CaoQianLateHan.md) — Ba commandery administrator sent after Chen Bao's diagnosis, paired with amnesty in the source's quick Bandun Man settlement.
@@ -1611,7 +1615,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李固 / Li Gu (late Han)](entities/LiGuLateHan.md) — Li Xie's father, remembered for opposing Emperor Huan's accession and preferring Liu Suan.
 - [刘蒜 / Liu Suan (late Han)](entities/LiuSuanLateHan.md) — Imperial-clan alternative invoked in Li Gu's earlier succession stance.
 - [苏正和 / Su Zhenghe (late Han)](entities/SuZhengheLateHan.md) — Liangzhou official whose anti-corruption report Gai Xun protects despite personal dislike.
-- [梁鹄 / Liang Hu (late Han)](entities/LiangHuLateHan.md) — Liangzhou inspector whom Gai Xun stops from killing Su Zhenghe to avoid implication.
+- [梁鹄 / Liang Hu (late Han)](entities/LiangHuLateHan.md) — Hongdu-associated calligrapher admired in later tradition by Cao Cao and later Liangzhou inspector whom Gai Xun stops from killing Su Zhenghe.
 - [左昌 / Zuo Chang (late Han)](entities/ZuoChangLateHan.md) — Corrupt Liangzhou inspector who tries to expose Gai Xun to danger before later needing rescue.
 - [辛曾 / Xin Zeng (late Han)](entities/XinZengLateHan.md) — Liangzhou official whom Gai Xun pressures into rescuing Zuo Chang under military duty.
 - [伶征 / Ling Zheng (late Han)](entities/LingZhengLateHan.md) — Protector of the Qiang killed at the start of Hanji 929's western uprising branch.
@@ -9135,7 +9139,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Confidential Remonstrance Leakage / 密奏泄露风险](concepts/ConfidentialRemonstranceLeakage.md) — Late-Han speech-risk pattern where a private corrective memorial is exposed through inner-court access and becomes intelligence for retaliation before advice can become protection or policy.
-- [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary channel that Emperor Ling favors against士人 prestige, turning cultural recognition into an appointment-order problem.
+- [选官通道竞争 / Official Selection Channel Competition](concepts/OfficialSelectionChannelCompetition.md) — Political-institutional pattern where rival education or recommendation routes compete over finite official posts, making curriculum and status disputes into appointment-order conflict.
+- [太学 / Taixue](concepts/Taixue.md) — Established classical education-to-office route whose students resent Hongdu Menxue's faster appointment channel in the late-Han selection conflict.
+- [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary and artistic channel that Emperor Ling favors against Taixue and士人 prestige, turning cultural recognition into appointment-channel competition.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
 - [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.
 - [City-Owned Grocery Politics](concepts/CityOwnedGroceryPolitics.md) — Municipal grocery-store politics where visible affordability benefits compete with thin-margin retail execution and public-budget costs.
@@ -9277,7 +9283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confessional War Escalation](concepts/ConfessionalWarEscalation.md) — Pattern where religious identity, dynastic legitimacy, and interstate rivalry make local security decisions feed wider war.
 - [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 957 and 974-976 frame for adviser-rich power, post-crisis organizational repair, and advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity.
 - [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 976-977 frame for disorder-era advisers mixing visible state architecture with hidden technique, moral language, legal-administrative action, silence, and survival.
-- [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where Hongdu prestige channels, Xidi pricing, palace finance, forged appointments, and armed commanders hollow out the court's normal selection order.
+- [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where Hongdu selection channels, eunuch-linked promotion, Xidi pricing, palace finance, forged appointments, and armed commanders hollow out the court's normal selection order.
 - [尚书台近侍权力 / Shangshu Tai Imperial Access](concepts/ShangshuTaiImperialAccess.md) — Late-Han mechanism where memorial handling and daily ruler access turn a modest document office into practical inner-court power.
 - [Coerced Talent Legitimacy / 胁迫征士合法性](concepts/CoercedTalentLegitimacy.md) — Pattern where a violent powerholder recruits famous scholars to simulate consent and court repair.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
