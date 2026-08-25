@@ -29,17 +29,26 @@ class WikiLandingLayoutTest(unittest.TestCase):
         self.assertIn("first 3 $recentConcepts", layout)
         self.assertIn("first 3 $recentEntities", layout)
 
-    def test_landing_unifies_coverage_into_five_linked_collection_cards(self):
+    def test_landing_uses_the_shared_five_card_knowledge_collection_section(self):
         layout = WIKI_LAYOUT.read_text()
+        homepage = (ROOT / "layouts" / "index.html").read_text()
+        collections = (ROOT / "layouts" / "partials" / "knowledge-collection-section.html").read_text()
+        base = (ROOT / "layouts" / "_default" / "baseof.html").read_text()
 
-        self.assertEqual(layout.count("Explore the knowledge base"), 1)
-        self.assertNotIn("Knowledge coverage", layout)
-        self.assertIn('.Site.GetPage "/episodes"', layout)
-        self.assertIn('.Site.GetPage "/show"', layout)
+        self.assertIn('partial "knowledge-collection-section.html"', layout)
+        self.assertIn('partial "knowledge-collection-section.html"', homepage)
+        self.assertEqual(collections.count("Explore the knowledge base"), 1)
+        self.assertNotIn("Knowledge coverage", collections)
+        self.assertIn('$site.GetPage "/episodes"', collections)
+        self.assertIn('$site.GetPage "/show"', collections)
 
         for label in ("Episodes", "Shows", "Concepts", "Entities", "Source Notes"):
-            self.assertIn(f">{label}</a>", layout)
+            self.assertIn(f">{label}</a>", collections)
 
+        self.assertIn(".knowledge-collection-grid", base)
+        self.assertIn("repeat(3, minmax(0, 1fr))", base)
+        self.assertIn("@media (max-width: 760px)", base)
+        self.assertIn("@media (max-width: 560px)", base)
         self.assertNotIn("wiki-stat-grid", layout)
         self.assertNotIn("wiki-stat", layout)
 

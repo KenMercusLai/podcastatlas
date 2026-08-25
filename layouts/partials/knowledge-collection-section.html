@@ -1,0 +1,47 @@
+{{ $site := .site }}
+{{ $episodes := $site.GetPage "/episodes" }}
+{{ $shows := $site.GetPage "/show" }}
+{{ $concepts := $site.GetPage "/wiki/concepts" }}
+{{ $entities := $site.GetPage "/wiki/entities" }}
+{{ $sources := $site.GetPage "/wiki/sources" }}
+<section class="{{ .sectionClass }}" aria-labelledby="{{ .headingID }}">
+  <h2 id="{{ .headingID }}"{{ with .headingClass }} class="{{ . }}"{{ end }}>Explore the knowledge base</h2>
+  <p class="{{ .introClass }}">Browse the podcast corpus and the knowledge collections synthesized from it.</p>
+  <div class="knowledge-collection-grid">
+    {{ with $episodes }}
+      <article class="knowledge-collection-card">
+        <span class="knowledge-collection-label">{{ len .RegularPages }} pages</span>
+        <h3><a href="{{ .RelPermalink }}">Episodes</a></h3>
+        <p>Podcast episodes with summaries, chapters, and source-linked knowledge.</p>
+      </article>
+    {{ end }}
+    {{ with $shows }}
+      <article class="knowledge-collection-card">
+        <span class="knowledge-collection-label">{{ len .Pages }} pages</span>
+        <h3><a href="{{ .RelPermalink }}">Shows</a></h3>
+        <p>Podcast series and their evolving coverage across episodes.</p>
+      </article>
+    {{ end }}
+    {{ with $concepts }}
+      <article class="knowledge-collection-card">
+        <span class="knowledge-collection-label">{{ len .RegularPages }} pages</span>
+        <h3><a href="{{ .RelPermalink }}">Concepts</a></h3>
+        <p>Cross-source ideas, patterns, mechanisms, and themes.</p>
+      </article>
+    {{ end }}
+    {{ with $entities }}
+      <article class="knowledge-collection-card">
+        <span class="knowledge-collection-label">{{ len .RegularPages }} pages</span>
+        <h3><a href="{{ .RelPermalink }}">Entities</a></h3>
+        <p>People, companies, products, places, works, and organizations.</p>
+      </article>
+    {{ end }}
+    {{ with $sources }}
+      <article class="knowledge-collection-card">
+        <span class="knowledge-collection-label">{{ len .RegularPages }} pages</span>
+        <h3><a href="{{ .RelPermalink }}">Source Notes</a></h3>
+        <p>Knowledge-oriented notes linked back to their original episodes.</p>
+      </article>
+    {{ end }}
+  </div>
+</section>
