@@ -2,11 +2,15 @@
 title: "Status-Filtered Talent Misrecognition / 门第筛选式人才误判"
 type: concept
 tags: [talent, leadership, late-han, status, personnel]
-sources: [zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1]
+last_updated: 2026-08-25
 ---
 
 # Status-Filtered Talent Misrecognition / 门第筛选式人才误判
+
+[[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] adds the reputation-infrastructure side of the concept through [[XuShao|许劭]]. In that earlier Cao Cao episode, Xu Shao's月旦品 has enough authority that a judgment can recode [[CaoCao|曹操]] from eunuch-family outsider into a publicly legible disorder-era actor, even though Xu Shao initially looks down on him.
+
+That means the same elite-judgment system can certify or block talent. Hanji 926 shows [[QiaoXuanLateHan|桥玄]] using Xu Shao's reputation to help Cao Cao; Hanji 993 later shows [[LiuYaoLateHan|刘繇]] fearing Xu Shao's imagined laughter enough to underuse [[TaishiCi|太史慈]].
 
 Status-filtered talent misrecognition / 门第筛选式人才误判 names the personnel failure in [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] where a powerholder's reading of status, reputation, or elite approval prevents visible ability from becoming usable command capacity. The episode's main case is [[LiuYaoLateHan|刘繇]] refusing to make [[TaishiCi|太史慈]] a general because he fears [[XuShao|许劭]] would laugh at the appointment.
 
@@ -15,12 +19,14 @@ The concept is not simply "not knowing a talented person." Liu Yao has Taishi Ci
 The concept differs from [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] and extends [[TalentAsStateTreasure|以贤臣为宝]]. Respect-based attraction asks whether a leader can draw people in; talent-as-treasure asks whether the leader values people as strategic assets. Status-filtered misrecognition isolates the narrower failure where talent is physically present but blocked by class, reputation, or fear of elite judgment.
 
 ## Key Claims
+- Hanji 926 adds that elite evaluation can certify a politically ambiguous figure when a recognized evaluator's words circulate.
 - A leader can have access to talent and still fail if status cues override competence signals.
 - Reputation anxiety can turn personnel decisions into performances for elite observers rather than decisions about operational need.
 - Battlefield evidence may reveal ability, but too late to repair the lost command opportunity.
 - The episode keeps the Taishi Ci background reading source-scoped: it is an interpretive frame about lower-status military talent in late-Han transition, not a complete social-history proof.
 
 ## Connections
+- [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], [[CaoCao|曹操]], [[QiaoXuanLateHan|桥玄]], and [[EliteEndorsementReputationMaking|名士背书式造势]] - certification side of elite evaluation.
 - [[LiuYaoLateHan|刘繇]], [[TaishiCi|太史慈]], and [[XuShao|许劭]] - source case of appointment blocked by elite-judgment anxiety.
 - [[ShentinglingBattle|神亭岭之战]], [[SunCe|孙策]], [[HanDang|韩当]], and [[HuangGai|黄盖]] - field scene where the blocked ability becomes visible.
 - [[JuShou|沮授]], [[YuanShao|袁绍]], [[GanNing|甘宁]], and [[LiuBiao|刘表]] - comparative cases named by the source for unused or distrusted talent.

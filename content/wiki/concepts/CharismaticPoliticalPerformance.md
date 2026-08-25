@@ -28,5 +28,5 @@ This differs from [[MoralReputationPoliticalCapital|道德名望政治资本]], 
 - [[LiuBang|刘邦]], [[LuGongLiuBangFatherInLaw|吕公]], [[XiaoHe|萧何]], and [[PeiCounty|沛县]] - source scene.
 - [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Lu Gong's receiving-side interpretation.
 - [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - local network that makes the performance politically durable.
-- [[MoralReputationPoliticalCapital|道德名望政治资本]], [[ClassMobilityPerformance|阶级上升表演]], and [[PublicMoralPerformance|公共道德表演]] - adjacent but distinct performance-capital concepts.
+- [[EliteEndorsementReputationMaking|名士背书式造势]], [[MoralReputationPoliticalCapital|道德名望政治资本]], [[ClassMobilityPerformance|阶级上升表演]], and [[PublicMoralPerformance|公共道德表演]] - adjacent but distinct performance-capital concepts.
 - [[PowerEtiquetteReading]] - related frame for reading behavior, seating, and status in political scenes.

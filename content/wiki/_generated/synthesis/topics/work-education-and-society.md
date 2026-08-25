@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-08-24
-as_of_overview_commit: adb81672f2d12b462fb321c7afbcbbcdef8c5b71
-input_digest: 88452b1c57dbcf12b6b61e4755c6c18909c332e308dad62889f62597cceac8e0
+last_updated: 2026-08-25
+as_of_overview_commit: 6765151a72f3c2bfc8ef47a1c0539adae71eab44
+input_digest: 8d69f14ce03840da84ea592b5d0f240b017b6a783900202e4e66687d6900ae5e
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold.
+The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition.
 
 ## Cross-source Findings
 
@@ -69,6 +69,17 @@ Career progress and workplace pacing are framed as context practice rather than 
 
 - The teenage research path is grounded in one interview source, so transcript-level paper details and future AI timelines remain source-scoped.
 - Lower access barriers do not resolve compute cost, peer community, emotional dependence, career-meaning anxiety, or the need to keep life anchored in relationships and ordinary happiness.
+
+### Elite Evaluation Can Certify Or Block Advancement
+
+Elite evaluation systems can become social infrastructure for advancement: [[EliteEndorsementReputationMaking]] shows [[CaoCao]] using [[HeYongLateHan]], [[QiaoXuanLateHan]], and [[XuShao]] to convert an ambiguous background through [[CaoTengLateHan]] and [[CaoSong]] into public reputation, while [[StatusFilteredTalentMisrecognition]] shows the same kind of judgment pressure can also block talent.
+
+**Evidence:** [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]], [[EliteEndorsementReputationMaking]], [[CaoCao]], [[HeYongLateHan]], [[QiaoXuanLateHan]], [[XuShao]], [[CaoTengLateHan]], [[CaoSong]], [[JianShuoLateHan]], [[LuoyangLateHan]], [[MoralReputationPoliticalCapital]], [[StatusFilteredTalentMisrecognition]]
+
+**Qualifications:**
+
+- Hanji 926 is a late-Han political reputation case, so Cao Cao's psychology, family education, and the Cao Shen genealogy issue remain source-scoped rather than general social rules.
+- The same evaluator infrastructure can certify or constrain: Xu Shao's judgment helps Cao Cao become legible, while later fear of Xu Shao's opinion contributes to Liu Yao's underuse of Taishi Ci.
 
 ### Creator And Lifestyle Work Requires Niche Economics
 

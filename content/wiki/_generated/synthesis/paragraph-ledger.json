@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "06faea8aceebcaed86203d949331f2b3f2786db5ba3600addd61451f5a3c99dd",
       "fee792d2d3a363d08fa62ba93c1ff393f7068a0e901761816ccdd04f5e382c15",
       "c1c272cdaec6b67eb617285242627455eeef6fae3f5f11f5f92655fef97f8a58",
       "cdea86fef2d1b91587e33bccd808571c8e332d1e8df05f72d32ca56d4e2d9343",
@@ -216,11 +217,39 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 214
+    "paragraph_count": 215
   },
-  "overview_commit": "787cf18c984d9bd0273977cc99af808bc7e6abe6",
-  "overview_digest": "8f6222c33f62b8a632f4bd7f4efc3dcbf51f3b739b3daff68ba99708c8ba01aa",
+  "overview_commit": "6765151a72f3c2bfc8ef47a1c0539adae71eab44",
+  "overview_digest": "1770eac242c448270b8fcc40ad8bec59549c43ffeb0fdca3cf1fbacaf81d126f",
   "paragraphs": [
+    {
+      "id": "06faea8aceebcaed86203d949331f2b3f2786db5ba3600addd61451f5a3c99dd",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[CaoCao|曹操]]'s 184 CE reputation-making before the Yellow Turban sequence in [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]]. It adds [[QiaoXuanLateHan|桥玄]], [[CaoTengLateHan|曹腾]], and [[EliteEndorsementReputationMaking|名士背书式造势]], while extending [[CaoCao|曹操]], [[HeYongLateHan|何颙]], [[XuShao|许劭]], [[CaoSong|曹嵩]], [[JianShuoLateHan|蹇硕]], [[LuoyangLateHan|洛阳]], [[MoralReputationPoliticalCapital|道德名望政治资本]], and [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]]. Its core synthesis is that Cao Cao's early rise begins before armed command with reputation infrastructure: He Yong supplies initial praise, Qiao Xuan gives senior endorsement and directs him to Xu Shao, Xu Shao's \"治世之能臣，乱世之奸雄\" label converts ambiguity into circulation, and Cao Cao's killing of Jian Shuo's uncle publicly offsets the eunuch-family stigma inherited through Cao Teng. No settled contradiction is recorded; the Cao Shen descent claim remains a source-level uncertainty and the host's psychology/family-education readings stay source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CaoSong",
+        "CaoTengLateHan",
+        "EliteEndorsementReputationMaking",
+        "HeYongLateHan",
+        "JianShuoLateHan",
+        "LuoyangLateHan",
+        "MoralReputationPoliticalCapital",
+        "QiaoXuanLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "StatusFilteredTalentMisrecognition",
+        "XuShao",
+        "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+        "zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr"
+      ]
+    },
     {
       "id": "fee792d2d3a363d08fa62ba93c1ff393f7068a0e901761816ccdd04f5e382c15",
       "primary_topic": "history-and-geopolitics",

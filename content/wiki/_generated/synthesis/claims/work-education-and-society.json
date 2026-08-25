@@ -139,6 +139,30 @@
     },
     {
       "global_candidate": false,
+      "id": "elite-evaluation-can-certify-or-block-advancement",
+      "qualifications": [
+        "Hanji 926 is a late-Han political reputation case, so Cao Cao's psychology, family education, and the Cao Shen genealogy issue remain source-scoped rather than general social rules.",
+        "The same evaluator infrastructure can certify or constrain: Xu Shao's judgment helps Cao Cao become legible, while later fear of Xu Shao's opinion contributes to Liu Yao's underuse of Taishi Ci."
+      ],
+      "statement": "Elite evaluation systems can become social infrastructure for advancement: [[EliteEndorsementReputationMaking]] shows [[CaoCao]] using [[HeYongLateHan]], [[QiaoXuanLateHan]], and [[XuShao]] to convert an ambiguous background through [[CaoTengLateHan]] and [[CaoSong]] into public reputation, while [[StatusFilteredTalentMisrecognition]] shows the same kind of judgment pressure can also block talent.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+        "EliteEndorsementReputationMaking",
+        "CaoCao",
+        "HeYongLateHan",
+        "QiaoXuanLateHan",
+        "XuShao",
+        "CaoTengLateHan",
+        "CaoSong",
+        "JianShuoLateHan",
+        "LuoyangLateHan",
+        "MoralReputationPoliticalCapital",
+        "StatusFilteredTalentMisrecognition"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "creator-and-lifestyle-work-requires-niche-economics",
       "qualifications": [
         "The sources frame modest self-media income as local merchant fit, platform compliance, workload, and cost discipline rather than a general replacement for employment."
@@ -319,6 +343,6 @@
       ]
     }
   ],
-  "summary": "The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold.",
+  "summary": "The work, education, and society material emphasizes implementation over capability claims: AI, software, creative production, physical products, research, creator work, finance, public building, and institutional roles all depend on workflow ownership, distribution, verification, trust, supply chains, labor constraints, and human judgment. Hanji 986 adds a premodern organizational case where coercive command breaks feedback and base security determines whether expansion is practical. Hanji 999 adds a premodern social-order case where grain, agricultural labor, protection, and family safety condition whether authority and alliances hold. Hanji 926 adds a reputation-infrastructure case where elite evaluators and circulated labels can certify a politically ambiguous actor, while the same judgment system can also constrain talent recognition.",
   "topic_id": "work-education-and-society"
 }

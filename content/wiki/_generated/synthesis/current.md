@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-25
-as_of_overview_commit: 787cf18c984d9bd0273977cc99af808bc7e6abe6
-summary: "Durable power comes from capability translated into workflows, legitimacy, trust, infrastructure, evidence, sizing, local diagnosis, and operational follow-through."
-episode_count: 1442
-source_count: 1442
-paragraph_count: 214
+as_of_overview_commit: 6765151a72f3c2bfc8ef47a1c0539adae71eab44
+summary: "Durable power comes from capability translated into workflows, legitimacy, trust, infrastructure, evidence, sizing, reputation signals, and operational follow-through."
+episode_count: 1443
+source_count: 1443
+paragraph_count: 215
 topic_count: 8
 ---
 
@@ -77,7 +77,7 @@ Science, health, climate, and space claims become credible when evidence, physic
 
 ### Work, Education, and Society
 
-Work and education material emphasizes implementation over capability claims: AI, creative production, research, finance, physical products, and organizational roles depend on workflow ownership, training, distribution, verification, trust, supply chains, labor constraints, and human judgment.
+Work and education material emphasizes implementation over capability claims: AI, creative production, research, finance, physical products, organizational roles, and social advancement depend on workflow ownership, training, distribution, verification, trust, reputation signals, supply chains, labor constraints, and human judgment.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].

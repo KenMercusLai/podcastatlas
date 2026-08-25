@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 1836
+topic_total_pages: 1837
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2884,6 +2884,9 @@ topic_concepts:
   - key: "HezongAlliance"
     title: "合纵 / Hezong Alliance"
     url: "/wiki/concepts/hezongalliance/"
+  - key: "EliteEndorsementReputationMaking"
+    title: "名士背书式造势 / Elite-Endorsement Reputation Making"
+    url: "/wiki/concepts/eliteendorsementreputationmaking/"
   - key: "ImperialRitualDistance"
     title: "君臣礼制距离 / Imperial Ritual Distance"
     url: "/wiki/concepts/imperialritualdistance/"

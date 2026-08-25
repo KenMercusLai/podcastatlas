@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 7493
+wiki_total_pages: 7495
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "QinJimiao"
     title: "极庙 / Qin Ji Miao"
     url: "/wiki/entities/qinjimiao/"
+  - key: "QiaoXuanLateHan"
+    title: "桥玄 / Qiao Xuan (late Han)"
+    url: "/wiki/entities/qiaoxuanlatehan/"
   - key: "QiaoRui"
     title: "桥蕤 / Qiao Rui"
     url: "/wiki/entities/qiaorui/"

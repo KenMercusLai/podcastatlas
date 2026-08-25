@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”](sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc.md) — 芮淇讲透资治通鉴 episode on Cao Cao's early reputation-making through He Yong, Qiao Xuan, Xu Shao's 月旦品, the "能臣/奸雄" label, and anti-eunuch signaling from a eunuch-family background.
 - [《资治通鉴·汉纪》927丨做生意的最高境界是什么？](sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr.md) — 芮淇讲透资治通鉴 episode on Fu Xie's warning about eunuch-rooted Yellow Turban disorder, Zhang Mancheng's Nanyang branch, Jia Cong's Jiaozhi pacification, and source-scoped business composure.
 - [《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利](sources/zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o.md) — 芮淇讲透资治通鉴 episode on Lu Zhi's Guangzong siege, Zuo Feng's inspection and gift-refusal slander, Emperor Ling's recall order, and Dong Zhuo's replacement setup.
 - [《资治通鉴·汉纪》929丨对事不对人，你信了吗？](sources/zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3.md) — 芮淇讲透资治通鉴 episode on Huangfu Song's 184 CE Yellow Turban victories, Zhang Xiu's Five-Pecks-style rising, Li Xie's Anping Wang warning, and Gai Xun separating public duty from private grievance.
@@ -1450,6 +1451,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [桥玄 / Qiao Xuan (late Han)](entities/QiaoXuanLateHan.md) — Senior late-Han official whose endorsement and Xu Shao referral help Cao Cao convert elite recognition into reputation.
+- [曹腾 / Cao Teng (late Han)](entities/CaoTengLateHan.md) — Eunuch adoptive grandfather in Cao Cao's family background, anchoring the label Cao Cao tries to offset through anti-eunuch signaling.
 - [贾从 / Jia Cong (late Han)](entities/JiaCongLateHan.md) — Late-Han official who pacifies Jiaozhi by investigating extraction, relieving burdens, reassuring displaced people, and appointing clean local officials.
 - [交趾郡 / Jiaozhi Commandery](entities/JiaozhiCommandery.md) — Southern commandery in today's northern Vietnam/Red River region, source case for extraction-driven rebellion and Jia Cong's root-cause pacification.
 - [左丰 / Zuo Feng (late Han)](entities/ZuoFengLateHan.md) — Small yellow gate whose inspection report after Lu Zhi's gift refusal leads Emperor Ling to recall Lu Zhi and appoint Dong Zhuo.
@@ -8947,6 +8950,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [名士背书式造势 / Elite-Endorsement Reputation Making](concepts/EliteEndorsementReputationMaking.md) — Hanji 926 pattern where elite evaluators, memorable labels, and counter-signaling turn reputation into political entry capital.
 - [查因安抚式治理 / Root-Cause Pacification](concepts/RootCausePacification.md) — Governance pattern where an official first diagnoses why people rebelled, then combines relief, reassurance, clean appointments, and targeted punishment.
 - [商人定气功夫 / Merchant Composure Discipline](concepts/MerchantComposureDiscipline.md) — Source-scoped Hanji 927 business frame around credibility, detachment, calm judgment, and decisive action.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
