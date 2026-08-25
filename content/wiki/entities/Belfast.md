@@ -2,8 +2,8 @@
 title: "Belfast"
 type: entity
 tags: [place, northern-ireland, history]
-sources: [698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]
-last_updated: 2026-08-24
+sources: [699-the-troubles-return-of-the-ira-part-3-glt9519811642, 698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]
+last_updated: 2026-08-26
 ---
 
 # Belfast
@@ -12,6 +12,8 @@ Belfast appears in [[698-the-troubles-the-brink-of-civil-war-part-2-glt230840898
 
 The Belfast fighting included loyalist attacks on Catholic schools and houses, an exchange of gunfire between the [[IrishRepublicanArmy|IRA]] and police, [[RoyalUlsterConstabulary|RUC]] armoured-car fire into Divis flats, the death of [[PatrickRooney]], mass injuries, destroyed homes, and large-scale displacement. British troops entered the city after first going into Derry.
 
+[[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] makes Belfast the main urban setting for the next phase: [[ShortStrand]] fighting gives the [[ProvisionalIRA]] defensive credibility, the [[FallsCurfew]] turns army searches into legitimacy damage, [[RobertCurtis]] is killed in New Lodge, and late-1971 pub and commercial bombings culminate in the [[McGurksBarBombing|McGurk's Bar bombing]] and further retaliation.
+
 ## Connections
-- [[NorthernIreland]], [[TheTroubles]], [[BritishArmy]], and [[RoyalUlsterConstabulary|RUC]] - conflict setting and security response.
-- [[SectarianSecurityDilemma]], [[StatePolicingLegitimacyCrisis]], and [[CivilRightsToStreetWarThreshold]] - source mechanisms.
+- [[NorthernIreland]], [[TheTroubles]], [[BritishArmy]], [[RoyalUlsterConstabulary|RUC]], [[ProvisionalIRA]], and [[UlsterVolunteerForce|UVF]] - conflict setting and security response.
+- [[SectarianSecurityDilemma]], [[StatePolicingLegitimacyCrisis]], [[CivilRightsToStreetWarThreshold]], [[CounterinsurgencyLegitimacyTrap]], and [[AtrocityRetaliationCycle]] - source mechanisms.

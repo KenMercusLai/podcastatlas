@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "TedChiang"
     title: "Ted Chiang"
     url: "/wiki/entities/tedchiang/"
+  - key: "TedKennedy"
+    title: "Ted Kennedy"
+    url: "/wiki/entities/tedkennedy/"
   - key: "TedMiguel"
     title: "Ted Miguel"
     url: "/wiki/entities/tedmiguel/"

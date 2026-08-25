@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "EdwardCarson"
     title: "Edward Carson"
     url: "/wiki/entities/edwardcarson/"
+  - key: "EdwardHeath"
+    title: "Edward Heath"
+    url: "/wiki/entities/edwardheath/"
   - key: "EdwardJonesPsychologist"
     title: "Edward Jones / 爱德华·琼斯"
     url: "/wiki/entities/edwardjonespsychologist/"

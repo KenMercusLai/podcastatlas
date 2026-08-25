@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 5450
+wiki_total_pages: 5456
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "PublicIllnessWriting"
     title: "Public Illness Writing"
     url: "/wiki/concepts/publicillnesswriting/"
+  - key: "PublicIndifferencePolicyDrift"
+    title: "Public Indifference Policy Drift"
+    url: "/wiki/concepts/publicindifferencepolicydrift/"
   - key: "PublicInstantPaymentRail"
     title: "Public Instant Payment Rail"
     url: "/wiki/concepts/publicinstantpaymentrail/"

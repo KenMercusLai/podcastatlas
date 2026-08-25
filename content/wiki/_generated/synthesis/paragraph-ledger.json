@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9a171a2c08f89f42da0c2486cc46f51e6c75cc103bb555b3ed7bd5a61c1c7c79",
       "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
       "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
       "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
@@ -226,11 +227,66 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 224
+    "paragraph_count": 225
   },
-  "overview_commit": "72ed273a0f17eee614d32642f294f381b0781689",
-  "overview_digest": "9d474c8cc7aa67faec17a4044de1bc88f41de67348569c7263cf8fab422f6522",
+  "overview_commit": "5cf461e9136581288860cd911257c9f6ed5679c5",
+  "overview_digest": "8a87ba7d920785ce12394fe8b5c7e2616f3111c8f87d23c7f53f63fccf4aa436",
   "paragraphs": [
+    {
+      "id": "9a171a2c08f89f42da0c2486cc46f51e6c75cc103bb555b3ed7bd5a61c1c7c79",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]], a [[TheRestIsHistory]] episode carrying [[TheTroubles]] into the 1970-1971 phase of [[NorthernIreland]]'s conflict. It adds [[TedKennedy]], [[EdwardHeath]], [[ReginaldMaudling]], [[ProvisionalIRA]], [[OfficialIRA]], [[SinnFein]], [[GerryAdams]], [[CharlesHaughey]], [[NeilBlaney]], [[NORAID]], [[BrianFaulkner]], [[ShortStrand]], [[FallsCurfew]], [[BillyReid]], [[RobertCurtis]], [[RoyalHighlandFusiliers]], [[UlsterDefenceAssociation]], [[OperationDemetrius]], [[LongKesh]], [[McGurksBarBombing]], [[CounterinsurgencyLegitimacyTrap]], [[InternmentWithoutTrial]], [[IntelligenceFailureMassArrest]], [[FiveTechniques]], [[AtrocityRetaliationCycle]], and [[PublicIndifferencePolicyDrift]], while extending [[BritishArmy]], [[RoyalUlsterConstabulary|RUC]], [[IrishRepublicanArmy|IRA]], [[UlsterVolunteerForce|UVF]], [[Stormont]], [[Belfast]], [[SectarianSecurityDilemma]], [[StatePolicingLegitimacyCrisis]], [[ParamilitarySpoilerViolence]], and [[CivilRightsToStreetWarThreshold]]. Its core synthesis is that British security policy became a legitimacy trap: Short Strand helped the Provisionals claim defensive credibility, the Falls Curfew damaged Catholic trust despite weapons seizures, internment used bad intelligence and one-sided arrests, and abuse plus bombing retaliation turned fear and trauma into recruitment. No settled contradiction is recorded; the source qualifies the earlier British-Army-as-protector moment by showing how that meaning eroded after 1970.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+        "AtrocityRetaliationCycle",
+        "Belfast",
+        "BillyReid",
+        "BrianFaulkner",
+        "BritishArmy",
+        "CharlesHaughey",
+        "CivilRightsToStreetWarThreshold",
+        "CounterinsurgencyLegitimacyTrap",
+        "EdwardHeath",
+        "FallsCurfew",
+        "FiveTechniques",
+        "GerryAdams",
+        "IntelligenceFailureMassArrest",
+        "InternmentWithoutTrial",
+        "IrishRepublicanArmy",
+        "LongKesh",
+        "McGurksBarBombing",
+        "NORAID",
+        "NeilBlaney",
+        "NorthernIreland",
+        "OfficialIRA",
+        "OperationDemetrius",
+        "ParamilitarySpoilerViolence",
+        "ProvisionalIRA",
+        "PublicIndifferencePolicyDrift",
+        "ReginaldMaudling",
+        "RobertCurtis",
+        "RoyalHighlandFusiliers",
+        "RoyalUlsterConstabulary",
+        "SectarianSecurityDilemma",
+        "ShortStrand",
+        "SinnFein",
+        "StatePolicingLegitimacyCrisis",
+        "Stormont",
+        "TedKennedy",
+        "TheRestIsHistory",
+        "TheTroubles",
+        "UlsterDefenceAssociation",
+        "UlsterVolunteerForce"
+      ]
+    },
     {
       "id": "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
       "primary_topic": "governance-and-institutions",

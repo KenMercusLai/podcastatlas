@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "McDonnellDouglasDC10"
     title: "McDonnell Douglas DC-10"
     url: "/wiki/entities/mcdonnelldouglasdc10/"
+  - key: "McGurksBarBombing"
+    title: "McGurk's Bar Bombing"
+    url: "/wiki/entities/mcgurksbarbombing/"
   - key: "McKinsey"
     title: "McKinsey"
     url: "/wiki/entities/mckinsey/"

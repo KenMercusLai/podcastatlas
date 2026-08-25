@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "RachelReeves"
     title: "Rachel Reeves"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "Regeneron"
     title: "Regeneron / 再生元"
     url: "/wiki/entities/regeneron/"
+  - key: "ReginaldMaudling"
+    title: "Reginald Maudling"
+    url: "/wiki/entities/reginaldmaudling/"
   - key: "ReidHoffman"
     title: "Reid Hoffman"
     url: "/wiki/entities/reidhoffman/"
@@ -356,6 +359,9 @@ wiki_pages:
   - key: "RobertBoyle"
     title: "Robert Boyle / 罗伯特·波义耳"
     url: "/wiki/entities/robertboyle/"
+  - key: "RobertCurtis"
+    title: "Robert Curtis"
+    url: "/wiki/entities/robertcurtis/"
   - key: "RobertDudley"
     title: "Robert Dudley / Earl of Leicester"
     url: "/wiki/entities/robertdudley/"
@@ -539,6 +545,9 @@ wiki_pages:
   - key: "RoySeiders"
     title: "Roy Seiders"
     url: "/wiki/entities/royseiders/"
+  - key: "RoyalHighlandFusiliers"
+    title: "Royal Highland Fusiliers"
+    url: "/wiki/entities/royalhighlandfusiliers/"
   - key: "RoyalMail"
     title: "Royal Mail"
     url: "/wiki/entities/royalmail/"

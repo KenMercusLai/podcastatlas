@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 699. The Troubles: Return of the IRA (Part 3)
+
+Added source page for The Rest Is History episode 699 on Northern Ireland's 1970-1971 escalation through the Provisional IRA split, Short Strand, Falls Curfew, Heath and Faulkner's internment decision, Operation Demetrius, the Five Techniques abuse scandal, UDA mobilization, and bombing retaliation. Created pages for Ted Kennedy, Edward Heath, Reginald Maudling, Provisional IRA, Official IRA, Sinn Fein, Gerry Adams, Charles Haughey, Neil Blaney, NORAID, Brian Faulkner, Short Strand, Falls Curfew, Billy Reid, Robert Curtis, Royal Highland Fusiliers, Ulster Defence Association, Operation Demetrius, Long Kesh, McGurk's Bar Bombing, Counterinsurgency Legitimacy Trap, Internment Without Trial, Intelligence Failure Mass Arrest, Five Techniques, Atrocity Retaliation Cycle, and Public Indifference Policy Drift; updated the Troubles branch, British Army, IRA, UVF, Stormont, Belfast, RUC, Orange Order, Cathal Goulding, Ireland, and escalation concepts. No direct contradiction found; the source qualifies the earlier British-Army-as-protector moment by showing how army searches, internment, poor intelligence, and abuse claims eroded Catholic legitimacy after 1970.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？
 
 Added source page for Hanji 1025: Lü Bu's failed attempt to send his daughter through Cao Cao's blockade to revive the Yuan Shu marriage-rescue channel, Zhang Yang's aborted relief and death, Xun You and Guo Jia's advice to press the Xiapi siege, Cao Cao's water attack, and Hou Cheng/Song Xian/Wei Xu's capture of Chen Gong and Gao Shun. Created Hou Cheng (Late Han), Song Xian (Late Han), Yang Chou (Late Han), and Suspicion-Triggered Command Mutiny; updated Lü Bu, Cao Cao, Zhang Yang, Chen Gong, Guo Jia, Xun You, Wei Xu, Xiapi, Sui Gu, Yuan Shu, Hydraulic Siege Warfare, War Cost Tempo Discipline, Command Discipline Authority, Court Feedback Collapse, Status Insult Defection Cascade, and Lü Bu Factional Balance. No settled contradiction found; the episode narrows the "alcohol ban caused defeat" reading into a trigger within failed diplomacy, siege pressure, and command-trust collapse.
@@ -11711,3 +11715,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] lint | Wiki health check
+
+Health and identity validation passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page sample found no hard contradictions, with only the existing AI-topic off-topic routing maintenance note. Report returned in-session; `wiki/lint-report.md` was not updated.

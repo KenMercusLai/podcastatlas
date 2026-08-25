@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "BillyBarber"
     title: "Billy Barber"
     url: "/wiki/entities/billybarber/"
+  - key: "BillyReid"
+    title: "Billy Reid"
+    url: "/wiki/entities/billyreid/"
   - key: "BirdMobile"
     title: "Bird Mobile"
     url: "/wiki/entities/birdmobile/"
@@ -650,6 +653,9 @@ wiki_pages:
   - key: "BrianChesky"
     title: "Brian Chesky"
     url: "/wiki/entities/brianchesky/"
+  - key: "BrianFaulkner"
+    title: "Brian Faulkner"
+    url: "/wiki/entities/brianfaulkner/"
   - key: "BrianKrebs"
     title: "Brian Krebs"
     url: "/wiki/entities/briankrebs/"

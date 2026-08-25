@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "NeihanDuanzi"
     title: "Neihan Duanzi"
     url: "/wiki/entities/neihanduanzi/"
+  - key: "NeilBlaney"
+    title: "Neil Blaney"
+    url: "/wiki/entities/neilblaney/"
   - key: "NeilHughes"
     title: "Neil Hughes"
     url: "/wiki/entities/neilhughes/"
@@ -446,6 +449,9 @@ wiki_pages:
   - key: "NoraDoel"
     title: "Nora Doel / 诺拉·多尔"
     url: "/wiki/entities/noradoel/"
+  - key: "NORAID"
+    title: "NORAID"
+    url: "/wiki/entities/noraid/"
   - key: "NorthKorea"
     title: "North Korea"
     url: "/wiki/entities/northkorea/"

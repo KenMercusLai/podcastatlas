@@ -801,14 +801,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-23",
       "latest_episode_file": "GLT9519811642 [GLT9519811642].md",
-      "source_note_count": 5,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 6,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 5
+          "source_note_count": 6
         }
       ],
       "entities": [
@@ -827,51 +827,51 @@
           "episode_count": 3
         },
         {
-          "key": "AlexanderFarnese",
-          "title": "Alexander Farnese / Duke of Parma",
-          "url": "/wiki/entities/alexanderfarnese/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "BSpecials",
-          "title": "B Specials",
-          "url": "/wiki/entities/bspecials/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "FrancisDrake",
-          "title": "Francis Drake",
-          "url": "/wiki/entities/francisdrake/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
           "key": "IanPaisley",
           "title": "Ian Paisley",
           "url": "/wiki/entities/ianpaisley/",
           "kind": "person",
-          "episode_count": 2
+          "episode_count": 3
         },
         {
           "key": "IrishRepublicanArmy",
           "title": "Irish Republican Army",
           "url": "/wiki/entities/irishrepublicanarmy/",
           "kind": "organization",
-          "episode_count": 2
+          "episode_count": 3
         },
         {
-          "key": "MaryQueenOfScots",
-          "title": "Mary, Queen of Scots",
-          "url": "/wiki/entities/maryqueenofscots/",
-          "kind": "person",
-          "episode_count": 2
+          "key": "OrangeOrder",
+          "title": "Orange Order",
+          "url": "/wiki/entities/orangeorder/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "RoyalUlsterConstabulary",
+          "title": "Royal Ulster Constabulary",
+          "url": "/wiki/entities/royalulsterconstabulary/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "Stormont",
+          "title": "Stormont",
+          "url": "/wiki/entities/stormont/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "UlsterVolunteerForce",
+          "title": "Ulster Volunteer Force",
+          "url": "/wiki/entities/ulstervolunteerforce/",
+          "kind": "organization",
+          "episode_count": 3
         }
       ],
       "start_here_episode_files": [
-        "GLT2308408988 [GLT2308408988].md",
         "GLT9519811642 [GLT9519811642].md",
+        "GLT2308408988 [GLT2308408988].md",
         "GLT4877520736 [GLT4877520736].md",
         "GLT2334035496 [GLT2334035496].md"
       ]

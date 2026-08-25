@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "Shopify"
     title: "Shopify"
     url: "/wiki/entities/shopify/"
+  - key: "ShortStrand"
+    title: "Short Strand"
+    url: "/wiki/entities/shortstrand/"
   - key: "Shubo"
     title: "Shubo"
     url: "/wiki/entities/shubo/"
@@ -641,6 +644,9 @@ wiki_pages:
   - key: "SingerSewingMachine"
     title: "Singer Sewing Machine"
     url: "/wiki/entities/singersewingmachine/"
+  - key: "SinnFein"
+    title: "Sinn Fein"
+    url: "/wiki/entities/sinnfein/"
   - key: "Sinocism"
     title: "Sinocism"
     url: "/wiki/entities/sinocism/"

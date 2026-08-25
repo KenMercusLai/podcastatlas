@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "LondonCollegeOfCommunication"
     title: "London College of Communication"
     url: "/wiki/entities/londoncollegeofcommunication/"
+  - key: "LongKesh"
+    title: "Long Kesh"
+    url: "/wiki/entities/longkesh/"
   - key: "LongMarch10A"
     title: "Long March 10A / 长征十号甲"
     url: "/wiki/entities/longmarch10a/"

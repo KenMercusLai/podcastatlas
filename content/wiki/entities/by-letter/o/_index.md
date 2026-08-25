@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "ODesign"
     title: "O-Design / Odyssey"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "OfficeOfManagementAndBudget"
     title: "Office of Management and Budget / OMB"
     url: "/wiki/entities/officeofmanagementandbudget/"
+  - key: "OfficialIRA"
+    title: "Official IRA"
+    url: "/wiki/entities/officialira/"
   - key: "Ofo"
     title: "OFO / 小黄车"
     url: "/wiki/entities/ofo/"
@@ -167,6 +170,9 @@ wiki_pages:
   - key: "OpenTelemetry"
     title: "OpenTelemetry"
     url: "/wiki/entities/opentelemetry/"
+  - key: "OperationDemetrius"
+    title: "Operation Demetrius"
+    url: "/wiki/entities/operationdemetrius/"
   - key: "OperationForrestGump"
     title: "Operation Forrest Gump"
     url: "/wiki/entities/operationforrestgump/"

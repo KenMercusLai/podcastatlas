@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5450
+wiki_total_pages: 5456
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "IntelligenceDevaluation"
     title: "Intelligence Devaluation"
     url: "/wiki/concepts/intelligencedevaluation/"
+  - key: "IntelligenceFailureMassArrest"
+    title: "Intelligence Failure Mass Arrest"
+    url: "/wiki/concepts/intelligencefailuremassarrest/"
   - key: "IntelligenceLiaisonRisk"
     title: "Intelligence Liaison Risk / 情报盟友协作风险"
     url: "/wiki/concepts/intelligenceliaisonrisk/"
@@ -494,6 +497,9 @@ wiki_pages:
   - key: "InternetCafePointCardDistribution"
     title: "Internet-Cafe Point-Card Distribution"
     url: "/wiki/concepts/internetcafepointcarddistribution/"
+  - key: "InternmentWithoutTrial"
+    title: "Internment Without Trial"
+    url: "/wiki/concepts/internmentwithouttrial/"
   - key: "InternshipAsCareerExploration"
     title: "Internship As Career Exploration"
     url: "/wiki/concepts/internshipascareerexploration/"

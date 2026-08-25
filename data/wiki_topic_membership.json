@@ -1673,6 +1673,13 @@
       "url": "/topics/history/"
     }
   ],
+  "699-the-troubles-return-of-the-ira-part-3-glt9519811642": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394": [
     {
       "key": "science",
@@ -10049,6 +10056,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "BrianFaulkner": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BrianKrebs": [
     {
       "key": "technology",
@@ -11545,6 +11559,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "CharlesHaughey": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CharlesHenderson": [
@@ -18398,6 +18419,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EdwardHeath": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EdwardJonesPsychologist": [
     {
       "key": "science",
@@ -23436,6 +23464,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "GerryAdams": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GerryFitt": [
@@ -28631,6 +28666,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "InternmentWithoutTrial": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "InternshipAsCareerExploration": [
@@ -38444,6 +38486,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NeilBlaney": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NeilMohan": [
     {
       "key": "culture",
@@ -44114,6 +44163,13 @@
       "url": "/topics/history/"
     }
   ],
+  "PublicIndifferencePolicyDrift": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PublicInterestAI": [
     {
       "key": "technology",
@@ -45719,6 +45775,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ReginaldMaudling": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RegionalAdministrativeFragmentation": [
@@ -49797,6 +49860,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SinnFein": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Sinocism": [
@@ -53894,6 +53964,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "TedKennedy": [
     {
       "key": "politics",
       "label": "Politics",

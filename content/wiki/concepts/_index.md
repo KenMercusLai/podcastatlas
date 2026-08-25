@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 5450
+wiki_total_pages: 5456
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1634,6 +1634,9 @@ wiki_pages:
   - key: "AtrocityBackfireMobilization"
     title: "Atrocity Backfire Mobilization / 暴行反噬式动员"
     url: "/wiki/concepts/atrocitybackfiremobilization/"
+  - key: "AtrocityRetaliationCycle"
+    title: "Atrocity Retaliation Cycle"
+    url: "/wiki/concepts/atrocityretaliationcycle/"
   - key: "AttentionAsWeather"
     title: "Attention As Weather"
     url: "/wiki/concepts/attentionasweather/"

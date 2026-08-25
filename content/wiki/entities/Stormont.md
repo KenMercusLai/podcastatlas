@@ -2,8 +2,8 @@
 title: "Stormont"
 type: entity
 tags: [institution, politics, northern-ireland]
-sources: [698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
-last_updated: 2026-08-24
+sources: [699-the-troubles-return-of-the-ira-part-3-glt9519811642, 698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
+last_updated: 2026-08-26
 ---
 
 # Stormont
@@ -12,6 +12,8 @@ Stormont appears in [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] 
 
 In [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], Stormont becomes the government whose capacity collapsed under civil-rights pressure, unionist backlash, and street violence. The source tracks [[TerenceONeill|Terence O'Neill]]'s limited reforms, his February 1969 election gamble, [[JamesChichesterClark]]'s succession, and the point where [[HaroldWilson]] and [[JimCallaghan]] could no longer treat [[NorthernIreland]] as a distant local problem.
 
+[[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] follows Stormont into the 1970-1971 internment crisis. [[JamesChichesterClark]] fears internment will fail because intelligence is poor, resigns after [[EdwardHeath]] refuses a major troop surge, and [[BrianFaulkner]] then presses for [[OperationDemetrius]] as violence and unionist pressure rise.
+
 ## Connections
-- [[NorthernIreland]], [[UnitedKingdom]], [[JamesCraig]], [[TerenceONeill|Terence O'Neill]], and [[JamesChichesterClark]] - governing framework.
-- [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], [[ReformTimingTrap]], [[StatePolicingLegitimacyCrisis]], and [[CivilRightsToStreetWarThreshold]] - concepts grounded by the sources.
+- [[NorthernIreland]], [[UnitedKingdom]], [[JamesCraig]], [[TerenceONeill|Terence O'Neill]], [[JamesChichesterClark]], [[EdwardHeath]], and [[BrianFaulkner]] - governing framework.
+- [[PartitionMinorityTrap]], [[InstitutionalSectarianDiscrimination]], [[ReformTimingTrap]], [[StatePolicingLegitimacyCrisis]], [[CivilRightsToStreetWarThreshold]], [[InternmentWithoutTrial]], and [[CounterinsurgencyLegitimacyTrap]] - concepts grounded by the sources.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "CharlesHarrisonBlackley"
     title: "Charles Harrison Blackley / 查尔斯·哈里森·布莱克利"
     url: "/wiki/entities/charlesharrisonblackley/"
+  - key: "CharlesHaughey"
+    title: "Charles Haughey"
+    url: "/wiki/entities/charleshaughey/"
   - key: "CharlesHenderson"
     title: "Charles Henderson"
     url: "/wiki/entities/charleshenderson/"

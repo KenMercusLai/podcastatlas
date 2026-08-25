@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 7572
+wiki_total_pages: 7592
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "Falcon9"
     title: "Falcon 9"
     url: "/wiki/entities/falcon9/"
+  - key: "FallsCurfew"
+    title: "Falls Curfew"
+    url: "/wiki/entities/fallscurfew/"
   - key: "FamilyDollar"
     title: "Family Dollar"
     url: "/wiki/entities/familydollar/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [699. The Troubles: Return of the IRA (Part 3)](sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642.md) — The Rest Is History episode on the 1970-1971 Troubles escalation through the Provisional IRA, Falls Curfew, internment, Operation Demetrius, interrogation abuse, loyalist mobilization, and bombing retaliation.
 - [《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？](sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz.md) — 芮淇讲透资治通鉴 episode on Lü Bu's failed Yuan Shu rescue attempt, Zhang Yang's aborted aid, Cao Cao's water siege of Xiapi, and Hou Cheng/Song Xian/Wei Xu's defection after the alcohol-ban dispute.
 - [《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕](sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1.md) — 芮淇讲透资治通鉴 episode on Cao Cao's final siege of Lü Bu at Xiapi, Liu Bei's warning, Chen Gong and Gao Shun's deaths, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, and former defectors before Guandu.
 - [《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？](sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj.md) — 芮淇讲透资治通鉴 episode on Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's resignation, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao before Guandu.
@@ -2061,6 +2062,26 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Orange Order](entities/OrangeOrder.md) — Unionist fraternal organization represented through the July 1969 marching-season riots.
 - [Derry Citizens Defence Association](entities/DerryCitizensDefenceAssociation.md) — Catholic local defense body that prepared barricades before the Battle of the Bogside.
 - [Patrick Rooney](entities/PatrickRooney.md) — Nine-year-old killed by RUC armoured-car fire in Belfast during the August 1969 violence.
+- [Ted Kennedy](entities/TedKennedy.md) — U.S. senator whose "Britain's Vietnam" speech made Northern Ireland's 1971 crisis an international reputational issue.
+- [Edward Heath](entities/EdwardHeath.md) — British prime minister who inherited the Northern Ireland crisis and approved internment through Operation Demetrius.
+- [Reginald Maudling](entities/ReginaldMaudling.md) — British home secretary tied to Heath's Northern Ireland response, internment blame-shifting, and interrogation-method approval.
+- [Provisional IRA](entities/ProvisionalIRA.md) — Republican paramilitary organization formed after the 1969 split and strengthened by defensive credibility, external support, and internment blowback.
+- [Official IRA](entities/OfficialIRA.md) — Older IRA branch tied to Cathal Goulding's Marxist turn and the arms-cache search that preceded the Falls Curfew.
+- [Sinn Fein](entities/SinnFein.md) — Republican political organization whose split followed the IRA split that produced the Provisionals.
+- [Gerry Adams](entities/GerryAdams.md) — Republican figure used by the source to connect Provisional IRA membership dispute, Sinn Fein politics, and later settlement resentment.
+- [Charles Haughey](entities/CharlesHaughey.md) — Irish political figure named in the source's account of relief funds diverted toward Provisional IRA weapons.
+- [Neil Blaney](entities/NeilBlaney.md) — Irish political figure named alongside Haughey in the source's Provisional IRA support-channel account.
+- [NORAID](entities/NORAID.md) — Irish-American fundraising channel tied to Provisional IRA weapons and money support in the episode.
+- [Brian Faulkner](entities/BrianFaulkner.md) — Northern Ireland prime minister who pressed for internment before Operation Demetrius.
+- [Short Strand](entities/ShortStrand.md) — East Belfast Catholic enclave where June 1970 fighting gave the Provisional IRA defensive credibility.
+- [Falls Curfew](entities/FallsCurfew.md) — July 1970 Lower Falls army search and curfew that found weapons but badly damaged Catholic trust in the army.
+- [Billy Reid](entities/BillyReid.md) — Provisional IRA member who killed Gunner Robert Curtis in February 1971.
+- [Robert Curtis](entities/RobertCurtis.md) — First British soldier killed in Northern Ireland during the Troubles, according to the Part 3 source.
+- [Royal Highland Fusiliers](entities/RoyalHighlandFusiliers.md) — British Army unit represented through the March 1971 killing of three off-duty soldiers.
+- [Ulster Defence Association](entities/UlsterDefenceAssociation.md) — Loyalist defense group founded in autumn 1971 and used by the episode to show vigilante mobilization.
+- [Operation Demetrius](entities/OperationDemetrius.md) — August 1971 internment operation whose all-Catholic arrests made intelligence failure politically explosive.
+- [Long Kesh](entities/LongKesh.md) — Detention site for internees after Operation Demetrius and part of the abuse-scandal branch.
+- [McGurk's Bar Bombing](entities/McGurksBarBombing.md) — December 1971 UVF bombing used by the source as a marker of retaliatory sectarian violence.
 - [Malvern Arms](entities/MalvernArms.md) — Protestant pub near the Shankill Road used as the setting for the June 1966 shooting that killed Peter Ward.
 - [张宏江 / Zhang Hongjiang](entities/ZhangHongjiang.md) — Senior AI researcher and technology executive/investor voice in E249, framing token-cost decline, infrastructure cycles, AGI, and work disruption.
 - [Lama Ventures](entities/LamaVentures.md) — AI-focused venture platform connecting Silicon Valley and Chinese founder ecosystems in E249.
@@ -9237,6 +9258,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Provocation Publicity Politics](concepts/ProvocationPublicityPolitics.md) — Protest and counter-mobilization pattern where visible confrontation is used to force attention or harden narratives.
 - [Paramilitary Spoiler Violence](concepts/ParamilitarySpoilerViolence.md) — Armed-group violence used to preempt imagined enemies or destroy a moderate political settlement.
 - [Civil Rights To Street War Threshold](concepts/CivilRightsToStreetWarThreshold.md) — Escalation threshold where protest, policing, counter-protest, and communal defense become sustained urban violence.
+- [Counterinsurgency Legitimacy Trap](concepts/CounterinsurgencyLegitimacyTrap.md) — Pattern where coercive security gains damage the legitimacy needed to isolate armed groups.
+- [Internment Without Trial](concepts/InternmentWithoutTrial.md) — Emergency detention policy whose 1971 Northern Ireland implementation backfired through one-sided arrests and weak intelligence.
+- [Intelligence Failure Mass Arrest](concepts/IntelligenceFailureMassArrest.md) — Coercive roundup pattern where stale suspect lists turn arrests into collective-punishment signals.
+- [Five Techniques](concepts/FiveTechniques.md) — Coercive interrogation methods whose use on internees became a Northern Ireland abuse and legitimacy scandal.
+- [Atrocity Retaliation Cycle](concepts/AtrocityRetaliationCycle.md) — Violence pattern where killings, bombings, fear, and revenge create new recruitment and further attacks.
+- [Public Indifference Policy Drift](concepts/PublicIndifferencePolicyDrift.md) — Governance pattern where low public salience lets severe crises drift through temporary management.
 - [Token Efficient Agent Workflow](concepts/TokenEfficientAgentWorkflow.md) — Agent operating discipline that routes frontier models, local models, deterministic tools, multi-agent review, and human attention by task value, risk, and verification cost.
 - [Consumer Trend Spotting](concepts/ConsumerTrendSpotting.md) — Deliberate scanning for consumer behavior and format changes before they become obvious retail demand.
 - [Toy Inventor Licensing Path](concepts/ToyInventorLicensingPath.md) — Route where a game or toy inventor seeks publisher or toy-company licensing only after stronger buyer-visible proof.

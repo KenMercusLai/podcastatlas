@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1478
+topic_total_pages: 1479
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3654,6 +3654,9 @@ topic_sources:
   - key: "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988"
     title: "698. The Troubles: The Brink of Civil War (Part 2)"
     url: "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+  - key: "699-the-troubles-return-of-the-ira-part-3-glt9519811642"
+    title: "699. The Troubles: Return of the IRA (Part 3)"
+    url: "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
   - key: "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384"
     title: "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事"
     url: "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
