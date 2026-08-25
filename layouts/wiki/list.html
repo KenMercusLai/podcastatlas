@@ -28,7 +28,6 @@
     }
 
     .wiki-feature-grid,
-    .wiki-collection-grid,
     .wiki-recent-grid {
       display: grid;
       gap: 16px;
@@ -39,12 +38,7 @@
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .wiki-collection-grid {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-
     .wiki-feature,
-    .wiki-collection,
     .wiki-recent {
       padding: 20px;
       border: 1px solid var(--line);
@@ -52,7 +46,6 @@
     }
 
     .wiki-feature h3,
-    .wiki-collection h3,
     .wiki-recent h3 {
       margin: 5px 0 8px;
       font-size: 1.08rem;
@@ -60,7 +53,6 @@
     }
 
     .wiki-feature p,
-    .wiki-collection p,
     .wiki-recent p {
       margin: 0;
       color: var(--muted);
@@ -97,15 +89,8 @@
       font-size: 0.9rem;
     }
 
-    @media (max-width: 760px) {
-      .wiki-collection-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-      }
-    }
-
     @media (max-width: 560px) {
       .wiki-feature-grid,
-      .wiki-collection-grid,
       .wiki-recent-grid {
         grid-template-columns: 1fr;
       }
@@ -131,8 +116,6 @@
     {{ $concepts := .Site.GetPage "/wiki/concepts" }}
     {{ $entities := .Site.GetPage "/wiki/entities" }}
     {{ $sources := .Site.GetPage "/wiki/sources" }}
-    {{ $episodeSection := .Site.GetPage "/episodes" }}
-    {{ $showSection := .Site.GetPage "/show" }}
 
     <section class="wiki-landing-hero">
       <p class="wiki-label">The knowledge layer</p>
@@ -223,47 +206,12 @@
       </section>
     {{ end }}
 
-    <section class="wiki-landing-section" aria-labelledby="knowledge-collections-heading">
-      <h2 id="knowledge-collections-heading">Explore the knowledge base</h2>
-      <p class="wiki-section-intro">Browse the podcast corpus and the knowledge collections synthesized from it.</p>
-      <div class="wiki-collection-grid">
-        {{ with $episodeSection }}
-          <article class="wiki-collection">
-            <span class="wiki-label">{{ len .RegularPages }} pages</span>
-            <h3><a href="{{ .RelPermalink }}">Episodes</a></h3>
-            <p>Podcast episodes with summaries, chapters, and source-linked knowledge.</p>
-          </article>
-        {{ end }}
-        {{ with $showSection }}
-          <article class="wiki-collection">
-            <span class="wiki-label">{{ len .Pages }} pages</span>
-            <h3><a href="{{ .RelPermalink }}">Shows</a></h3>
-            <p>Podcast series and their evolving coverage across episodes.</p>
-          </article>
-        {{ end }}
-        {{ with $concepts }}
-          <article class="wiki-collection">
-            <span class="wiki-label">{{ len .RegularPages }} pages</span>
-            <h3><a href="{{ .RelPermalink }}">Concepts</a></h3>
-            <p>Cross-source ideas, patterns, mechanisms, and themes.</p>
-          </article>
-        {{ end }}
-        {{ with $entities }}
-          <article class="wiki-collection">
-            <span class="wiki-label">{{ len .RegularPages }} pages</span>
-            <h3><a href="{{ .RelPermalink }}">Entities</a></h3>
-            <p>People, companies, products, places, works, and organizations.</p>
-          </article>
-        {{ end }}
-        {{ with $sources }}
-          <article class="wiki-collection">
-            <span class="wiki-label">{{ len .RegularPages }} pages</span>
-            <h3><a href="{{ .RelPermalink }}">Source Notes</a></h3>
-            <p>Knowledge-oriented notes linked back to their original episodes.</p>
-          </article>
-        {{ end }}
-      </div>
-    </section>
+    {{ partial "knowledge-collection-section.html" (dict
+      "site" .Site
+      "sectionClass" "wiki-landing-section"
+      "headingID" "knowledge-collections-heading"
+      "introClass" "wiki-section-intro"
+    ) }}
 
     {{ $topics := .Site.GetPage "/topics" }}
     {{ with $topics }}

@@ -390,6 +390,49 @@
       margin-top: 18px;
     }
 
+    .knowledge-collection-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .knowledge-collection-card {
+      padding: 20px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .knowledge-collection-card h3 {
+      margin: 5px 0 8px;
+      font-size: 1.08rem;
+      line-height: 1.35;
+    }
+
+    .knowledge-collection-card p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .knowledge-collection-label {
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    @media (max-width: 760px) {
+      .knowledge-collection-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 560px) {
+      .knowledge-collection-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
     @media (max-width: 640px) {
       .show-facts,
       .show-profile-list {

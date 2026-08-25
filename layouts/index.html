@@ -74,12 +74,6 @@
       gap: 18px;
     }
 
-    .home-stat-grid {
-      display: grid;
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-      gap: 12px;
-    }
-
     .home-feature {
       padding: 22px;
       border: 1px solid var(--line);
@@ -128,25 +122,6 @@
       font-size: 0.9rem;
     }
 
-    .home-stat {
-      display: block;
-      padding: 18px;
-      border: 1px solid var(--line);
-      background: var(--panel);
-      text-decoration: none;
-    }
-
-    .home-stat strong,
-    .home-stat span {
-      display: block;
-    }
-
-    .home-stat span {
-      margin-top: 4px;
-      color: var(--muted);
-      font-size: 0.9rem;
-    }
-
     .home-label {
       color: var(--muted);
       font-size: 0.75rem;
@@ -158,8 +133,7 @@
     @media (max-width: 640px) {
       .home-feature-grid,
       .home-discovery-grid,
-      .home-latest-grid,
-      .home-stat-grid {
+      .home-latest-grid {
         grid-template-columns: 1fr;
       }
     }
@@ -295,22 +269,11 @@
     </section>
   {{ end }}
 
-  <section class="home-section" aria-labelledby="explore-atlas-heading">
-    <h2 id="explore-atlas-heading" class="home-section-heading">Explore the atlas</h2>
-    <p class="home-section-intro">Browse the canonical knowledge collections behind the daily discoveries.</p>
-    <div class="home-stat-grid">
-      {{ with $conceptSection }}
-        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Concepts</strong><span>{{ len .RegularPages }} pages</span></a>
-      {{ end }}
-      {{ with $entitySection }}
-        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Entities</strong><span>{{ len .RegularPages }} pages</span></a>
-      {{ end }}
-      {{ with $sourceSection }}
-        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Sources</strong><span>{{ len .RegularPages }} pages</span></a>
-      {{ end }}
-      {{ with $showSection }}
-        <a class="home-stat" href="{{ .RelPermalink }}"><strong>Shows</strong><span>{{ len .Pages }} shows</span></a>
-      {{ end }}
-    </div>
-  </section>
+  {{ partial "knowledge-collection-section.html" (dict
+    "site" .Site
+    "sectionClass" "home-section"
+    "headingID" "knowledge-collections-heading"
+    "headingClass" "home-section-heading"
+    "introClass" "home-section-intro"
+  ) }}
 {{ end }}

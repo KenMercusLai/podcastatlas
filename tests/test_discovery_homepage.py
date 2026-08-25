@@ -93,9 +93,10 @@ class DiscoveryHomepageLayoutTest(unittest.TestCase):
         self.assertIn("$windowCount := add (sub (len $archivePool) 3) 1", homepage)
         self.assertIn("first 3", homepage)
 
-    def test_homepage_shows_latest_episodes_and_atlas_entry_points(self):
+    def test_homepage_shows_latest_episodes_and_shared_atlas_entry_points(self):
         homepage = HOME_LAYOUT.read_text()
         episode_card = (ROOT / "layouts/partials/homepage-episode-card.html").read_text()
+        collections = (ROOT / "layouts/partials/knowledge-collection-section.html").read_text()
 
         self.assertIn("Latest episodes", homepage)
         self.assertIn("first 6 $episodes", homepage)
@@ -104,9 +105,12 @@ class DiscoveryHomepageLayoutTest(unittest.TestCase):
         self.assertIn("plainify | htmlUnescape", episode_card)
         self.assertIn("-webkit-line-clamp", homepage)
         self.assertIn('.Site.GetPage "/show"', homepage)
-        self.assertIn("Explore the atlas", homepage)
-        for label in ("Concepts", "Entities", "Sources", "Shows"):
-            self.assertIn(label, homepage)
+        self.assertIn('partial "knowledge-collection-section.html"', homepage)
+        self.assertIn("Explore the knowledge base", collections)
+        for label in ("Episodes", "Shows", "Concepts", "Entities", "Source Notes"):
+            self.assertIn(f">{label}</a>", collections)
+        self.assertNotIn(">Sources</a>", collections)
+        self.assertNotIn("home-stat", homepage)
 
 
 if __name__ == "__main__":
