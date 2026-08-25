@@ -8611,6 +8611,10 @@
     "title": "Character Form Evolution",
     "url": "/wiki/concepts/characterformevolution/"
   },
+  "CharacterReadingDelegationTrust": {
+    "title": "Character-Reading Delegation Trust / 识人授权信任",
+    "url": "/wiki/concepts/characterreadingdelegationtrust/"
+  },
   "CharacterRelationshipStoryLogic": {
     "title": "Character Relationship Story Logic",
     "url": "/wiki/concepts/characterrelationshipstorylogic/"
@@ -20003,6 +20007,10 @@
     "title": "Haier Smart Home / 海尔智家",
     "url": "/wiki/entities/haiersmarthome/"
   },
+  "HaihunLateHan": {
+    "title": "海昏 / Haihun (late Han)",
+    "url": "/wiki/entities/haihunlatehan/"
+  },
   "HaijinAndMaritimeSmuggling": {
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -28615,6 +28623,10 @@
     "title": "Lulin / 绿林",
     "url": "/wiki/entities/lulinrebellion/"
   },
+  "LulingLateHan": {
+    "title": "庐陵 / Luling (late Han)",
+    "url": "/wiki/entities/lulinglatehan/"
+  },
   "Lululemon": {
     "title": "Lululemon",
     "url": "/wiki/entities/lululemon/"
@@ -34382,6 +34394,10 @@
   "Pangram": {
     "title": "Pangram",
     "url": "/wiki/entities/pangram/"
+  },
+  "PanyangLocalForces": {
+    "title": "番阳民帅 / Panyang Local Forces",
+    "url": "/wiki/entities/panyanglocalforces/"
   },
   "PaoWaimai": {
     "title": "《跑外卖：一个女骑手的世界》",
@@ -45991,6 +46007,10 @@
     "title": "同地 / Tong",
     "url": "/wiki/entities/tongwarringstates/"
   },
+  "TongZhiLateHan": {
+    "title": "僮芝 / Tong Zhi (late Han)",
+    "url": "/wiki/entities/tongzhilatehan/"
+  },
   "TongchengTravel": {
     "title": "Tongcheng Travel",
     "url": "/wiki/entities/tongchengtravel/"
@@ -56238,6 +56258,10 @@
   "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0": {
     "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+  },
+  "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto": {
+    "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
   },
   "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8": {
     "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",

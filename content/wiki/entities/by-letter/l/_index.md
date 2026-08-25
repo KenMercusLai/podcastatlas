@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 7543
+wiki_total_pages: 7547
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "LujiangCommandery"
     title: "庐江郡 / Lujiang Commandery"
     url: "/wiki/entities/lujiangcommandery/"
+  - key: "LulingLateHan"
+    title: "庐陵 / Luling (late Han)"
+    url: "/wiki/entities/lulinglatehan/"
   - key: "LianPo"
     title: "廉颇 / Lian Po"
     url: "/wiki/entities/lianpo/"

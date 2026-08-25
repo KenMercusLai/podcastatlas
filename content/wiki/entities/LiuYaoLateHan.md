@@ -2,8 +2,8 @@
 title: "刘繇 / Liu Yao (late Han)"
 type: entity
 tags: [person, late-han, governor, jiangdong]
-sources: [zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]
+last_updated: 2026-08-26
 ---
 
 # 刘繇 / Liu Yao (late Han)
@@ -24,11 +24,14 @@ Xu Shao advises [[YuzhangCommandery|豫章郡]] instead because it keeps Liu Yao
 
 The page keeps Liu Yao source-scoped as a route-and-personnel judgment case. His plan has a coherent [[PoliticalSurvivalFirst|安全第一政治生存]] logic, but his use of Ze Rong shows how a correct geographic assessment can still fail when actor character is misread.
 
+[[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] adds the aftermath of Liu Yao's death. His remaining force is leaderless, so [[SunCe|孙策]] sends [[TaishiCi|太史慈]] to reassure willing and unwilling followers rather than treating them only as enemies. Liu Yao's posthumous role is therefore to create a succession-and-absorption problem that Sun Ce handles through trust-based delegation.
+
 ## Connections
 - [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], [[Shouchun|寿春]], [[QuALateHan|曲阿]], [[WuJingLateHan|吴景]], [[SunBenLateHan|孙贲]], [[FanNengLateHan|樊能]], [[YuMiLateHan|于糜]], [[ZhangYingLateHan|张英]], [[DanglikouLateHan|当利口]], and [[HuiQuLateHan|惠衢]] - first Yangzhou relocation and defensive-line setup.
 - [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[TaishiCi|太史慈]], [[ShentinglingBattle|神亭岭之战]], and [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] - status-filtered underuse of a military talent during Sun Ce's pressure.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[YuanShu|袁术]], [[SunCe|孙策]], [[WangLangLateHan|王朗]], [[WuJingLateHan|吴景]], and [[HengjiangLateHan|横江]] - Liu Yao as the expected obstacle Yuan Shu thinks will contain Sun Ce.
 - [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - source episode.
+- [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]], [[SunCe|孙策]], [[TaishiCi|太史慈]], [[HuaXin|华歆]], and [[YuzhangCommandery|豫章郡]] - posthumous follower-pacification and Yuzhang-inspection branch.
 - [[XuShao|许劭]], [[KuaijiCommandery|会稽郡]], [[YuzhangCommandery|豫章郡]], [[SunCe|孙策]], [[CaoCao|曹操]], and [[LiuBiao|刘表]] - route-choice advice.
 - [[ZeRong|笮融]], [[ZhuHaoLateHan|朱皓]], [[YuanShu|袁术]], and [[ZhugeXuan|诸葛玄]] - Yuzhang intervention and failure.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - conceptual frame.

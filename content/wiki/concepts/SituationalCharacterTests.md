@@ -2,8 +2,8 @@
 title: "Situational Character Tests / 五观识人法"
 type: concept
 tags: [governance, leadership, talent, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q]
+last_updated: 2026-08-26
 ---
 
 # Situational Character Tests / 五观识人法
@@ -16,9 +16,12 @@ The concept's value is that it makes character observable without reducing it to
 
 [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] adds a late-Han power-reveals-character version through [[WangYunLateHan|王允]]. The host argues that a person's real quality becomes clearer after power, money, or fame arrive, because success tests whether humility, listening, and proportion survive changed status. This is not Li Ke's original five tests, but it extends the concept's premise that character should be judged across changed conditions rather than from reputation alone.
 
+[[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] adds a late-Han delegation version. [[SunCe|孙策]]'s advisers infer defection risk from [[TaishiCi|太史慈]]'s physical freedom to leave; Sun Ce instead judges character from Taishi Ci's promise keeping, need for a worthy lord, and prior recognition. The successful sixty-day return makes character reading useful because it supports authorization, not just private admiration.
+
 ## Key Claims
 - Personnel judgment should observe behavior across ordinary, wealthy, promoted, desperate, and poor conditions.
 - Later success can function as a character test when power changes how a person hears advice and treats defeated opponents.
+- Hanji 1029 adds that character judgment can authorize risky delegation when the leader reads promise-keeping across prior encounters instead of relying only on physical control.
 - Recommendations after promotion reveal what kinds of people a candidate brings into power.
 - Refusals under pressure matter because they expose limits and bottom lines.
 - The framework supports [[TalentReferralQuality]] by asking not only whether someone recommends others, but who those recommended people are.
@@ -26,6 +29,7 @@ The concept's value is that it makes character observable without reducing it to
 ## Connections
 - [[LiKe|李克]], [[WeiWenhou|魏文侯]], [[WeiCheng|魏成]], and [[DiHuang|翟黄]] - source case.
 - [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]], [[WangYunLateHan|王允]], and [[RationalHumility]] - power-after-success character test.
+- [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]], [[SunCe|孙策]], [[TaishiCi|太史慈]], and [[CharacterReadingDelegationTrust|识人授权信任]] - promise-keeping as a delegation-relevant character test.
 - [[TalentReferralQuality]] - adjacent concept built from the outcome.
 - [[TalentVirtueDistinction]] and [[UseStrengthsOverFaults]] - neighboring talent-judgment frames in the Ruiqi branch.
 - [[WarringStatesPeriod|战国时期]] - competitive setting.

@@ -3,18 +3,29 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-08-25
-as_of_overview_commit: 8eee34763537d6005cbf2f18f9fb87fe959f2d3f
-input_digest: 3c7a0ff675d1f1f11c447c72b78bcab16e43feec5a1dc36e000d9bd2cd6a4941
+last_updated: 2026-08-26
+as_of_overview_commit: 8a07af66d60c6009e87a3d2dc0df801121957d25
+input_digest: 6059a0d6fc9c72dfb3762b81c8dffb93d25674bfe81fe772448ba2d659ed9469
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Data Science With Sam EP47 adds augmented intelligence as a judgment practice: LLMs can assist like interns, but people still choose the task, verify evidence, and own important outcomes. Hanji 930 adds the exchangeable-capability frame: greed and resentment become signals to build usable value, because reputation and relationships only convert into opportunity when capability, recognition, and judgment are present. Hanji 962 adds the close-guard version of trust fragility: Dong Zhuo's violence, Lü Bu's exposure fear, and Wang Yun's persuasion turn a nominal father-son/guard relationship into an assassination precondition. Hanji 970 adds an alliance version in which common-enemy cooperation and courteous treatment mask assassination risk, while Lü Bu survives by suspicion and prepared deception. Hanji 997 adds emotional attachment as a judgment-risk case: loyalty remains morally serious, but attachment to an old obligation can distort field reading when current authority, alliance structure, and survival constraints are ignored. The psychology and personal-development material emphasizes calibrated judgment: trust, authenticity, uncertainty, boundaries, risk discipline, human judgment, role-fit, status sensitivity, and emotional interpretation matter because confidence, convenience, desire, ambition, survival pressure, and market excitement can hide fragile assumptions. Hanji 999 adds a historical variant in which friendship and alliance trust are condition-dependent under grain, protection, and family-safety pressure.
+Hanji 1029 adds character-reading delegation to the psychology branch: Sun Ce trusts Taishi Ci's promise, and that trust becomes useful only when Taishi Ci returns with concrete Yuzhang intelligence; the same source's windfall opening treats sudden wealth as a test of restraint, boundaries, and self-knowledge. Data Science With Sam EP47 keeps AI assistance under human judgment and verification, while April 13 Marketplace Tech shows that perceived authorship can affect trust in emotionally meaningful work. Hanji 930 reframes greed and resentment as prompts to build exchangeable capability, and Hanji 962, Hanji 970, and Hanji 999 show relationship trust becoming condition-dependent under violence, assassination risk, grain, protection, and family-safety pressure. Hanji 997 adds emotional attachment as a judgment-risk case, Hanji 1012 shows private desire breaking fragile surrender trust, and Hanji 1015 frames ambition as dangerous when title, timing, recognition, and capacity do not match. The market and workplace paragraphs add the same calibration problem in newer settings: Unitree enthusiasm needs commercial self-checks, investing needs stop-loss and position-sizing discipline, workplace relationships need explicit boundaries, agent automation needs permission limits and human verification, middle-class consumption needs identity-cost discipline, and organizational trust can become both asset and liability.
 
 ## Cross-source Findings
+
+### Character Reading Turns Recognition Into Delegation
+
+Hanji 1029 adds a character-reading trust case: [[SunCe]] converts recognition of [[TaishiCi]] into delegation by trusting his promise, and the result becomes useful when Taishi Ci returns from [[YuzhangCommandery]] with intelligence about [[HuaXin]], [[TongZhiLateHan]], [[LulingLateHan]], [[PanyangLocalForces]], and [[HaihunLateHan]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto]], [[SunCe]], [[TaishiCi]], [[CharacterReadingDelegationTrust]], [[YuzhangCommandery]], [[HuaXin]], [[TongZhiLateHan]], [[LulingLateHan]], [[PanyangLocalForces]], [[HaihunLateHan]], [[SituationalCharacterTests]], [[RetainerReciprocityEthic]], [[TalentAsStateTreasure]], [[XingshiqingStrategicAssessment]]
+
+**Qualifications:**
+
+- The claim is source-scoped to Hanji 1029 and does not generalize every recognition relationship into reliable delegation.
+- The source also preserves ASR-normalized names around Liu Yao, Hua Xin, Tong Zhi, Panyang, and Luling as cautious source handling rather than contradiction.
 
 ### Capability Reframes Greed And Resentment
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 5444
+wiki_total_pages: 5445
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "CharacterRelationshipStoryLogic"
     title: "Character Relationship Story Logic"
     url: "/wiki/concepts/characterrelationshipstorylogic/"
+  - key: "CharacterReadingDelegationTrust"
+    title: "Character-Reading Delegation Trust / 识人授权信任"
+    url: "/wiki/concepts/characterreadingdelegationtrust/"
   - key: "ChatbotCodeSwitching"
     title: "Chatbot Code Switching"
     url: "/wiki/concepts/chatbotcodeswitching/"

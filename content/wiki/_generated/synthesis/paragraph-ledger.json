@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
       "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
       "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
       "c028892a2d50db645a114ab75b1d3b261fe9f6136ee91e1c379ef58d9ec989a0",
@@ -224,11 +225,41 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 222
+    "paragraph_count": 223
   },
-  "overview_commit": "1cd32aea41ca62b3586f5c2af8ba135b33912c06",
-  "overview_digest": "e5e50e48f1e616f9a896ceb7640fe1e44f4decbc2490cebba44af3846d4b1dfc",
+  "overview_commit": "8a07af66d60c6009e87a3d2dc0df801121957d25",
+  "overview_digest": "713dff7f7d29e33d9b0ad752f045cf42fc86e93c627f1de1081dcc63c3a3a8c5",
   "paragraphs": [
+    {
+      "id": "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode on [[SunCe|孙策]] sending [[TaishiCi|太史慈]] to pacify [[LiuYaoLateHan|刘繇]]'s remaining followers and inspect [[YuzhangCommandery|豫章郡]]. It adds [[CharacterReadingDelegationTrust|识人授权信任]], [[TongZhiLateHan|僮芝]], [[LulingLateHan|庐陵]], [[PanyangLocalForces|番阳民帅]], and [[HaihunLateHan|海昏]], while extending [[HuaXin|华歆]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[TalentAsStateTreasure|以贤臣为宝]], [[SituationalCharacterTests|五观识人法]], [[RetainerReciprocityEthic|士为知己者死]], and [[WindfallDecisionTrap|无故之利]]. Its core synthesis is that Sun Ce turns personal recognition into usable state capacity: he trusts Taishi Ci's promise, Taishi Ci returns within sixty days, and the returned report shows Hua Xin's limited control over fragmented Yuzhang actors. No settled contradiction is recorded; ASR variants around 刘繇, 华歆, 僮芝, 番阳, and 庐陵 are normalized cautiously and source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "CharacterReadingDelegationTrust",
+        "HaihunLateHan",
+        "HuaXin",
+        "LiuYaoLateHan",
+        "LulingLateHan",
+        "PanyangLocalForces",
+        "RetainerReciprocityEthic",
+        "RuiqiJiangtouZizhiTongjian",
+        "SituationalCharacterTests",
+        "SunCe",
+        "TaishiCi",
+        "TalentAsStateTreasure",
+        "TongZhiLateHan",
+        "WindfallDecisionTrap",
+        "XingshiqingStrategicAssessment",
+        "YuzhangCommandery",
+        "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto"
+      ]
+    },
     {
       "id": "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
       "primary_topic": "business-and-markets",

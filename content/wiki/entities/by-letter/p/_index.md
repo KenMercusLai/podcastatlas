@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 7543
+wiki_total_pages: 7547
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "PuyangTianClan"
     title: "濮阳田氏 / Puyang Tian Clan"
     url: "/wiki/entities/puyangtianclan/"
+  - key: "PanyangLocalForces"
+    title: "番阳民帅 / Panyang Local Forces"
+    url: "/wiki/entities/panyanglocalforces/"
   - key: "Pilao"
     title: "皮牢 / Pilao"
     url: "/wiki/entities/pilao/"

@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先
+
+Added source page for Hanji 1029: Sun Ce's trust-based delegation to Taishi Ci after Liu Yao's death, Taishi Ci's promised return, and Yuzhang intelligence about Hua Xin's limited control over Tong Zhi/Luling and Panyang/Haihun. Created Character-Reading Delegation Trust, Tong Zhi (Late Han), Luling (Late Han), Panyang Local Forces, and Haihun (Late Han); updated Sun Ce, Taishi Ci, Liu Yao, Hua Xin, Yuzhang Commandery, Talent as State Treasure, Situational Character Tests, Retainer Reciprocity Ethic, Windfall Decision Trap, and Xingshiqing Strategic Assessment. No settled contradiction found; transcript variants around Liu Yao, Hua Xin, Tong Zhi, Panyang, and Luling are normalized cautiously.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？
 
 Added source page for Hanji 1030: Yuan Shao's final pressure on Gongsun Zan at Yijing, Gongsun Zan's failed no-rescue policy, Guan Jing's warning against leaving the fortress, and the episode's "passive self-preservation must fail" lesson. Created Guan Jing (Late Han), Gongsun Xu (Late Han), and Rescue Reciprocity Command Trust pages; updated Gongsun Zan, Yuan Shao, Sun Ce, Taishi Ci, Yijing Fortress, Heishan Army, Fortress Security Illusion, People-Based Political Security, Political Survival First, Xingshiqing Strategic Assessment, and Talent as State Treasure. No settled contradiction found; Gongsun Xu is disambiguated from the existing Warring States Gongsun Xu page while preserving the source spelling 公孙旭.
@@ -11663,6 +11667,10 @@ Added source page for Hanji 1030: Yuan Shao's final pressure on Gongsun Zan at Y
 ## [2026-08-26] ingest | Elbows up, again: a US-Canada trade flare-up
 
 Added source page for The Intelligence episode on the breakdown in U.S.-Canada trade talks, Mark Carney's diversification dilemma, Japan's employment ice age generation, and Jeremy Black's totemic/utilitarian siege distinction. Created Mark Carney, Hal Hodson, Torigoe Atsushi, Jeremy Black, Alberta, Quebec, Trade Diversification Stability Paradox, Entry-Cohort Labor Market Scarring, and Siege Typology pages; updated connected Canada, United States, Donald Trump, Japan, Economist podcast, tariff, labor, and siege-history pages. No direct contradiction found; tariff figures, Japan cohort timing, and siege examples remain source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
