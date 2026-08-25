@@ -2,11 +2,15 @@
 title: "十常侍 / Ten Attendants (late Han)"
 type: entity
 tags: [group, eunuchs, late-han, court, china]
-sources: [zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+last_updated: 2026-08-26
 ---
 
 # 十常侍 / Ten Attendants (late Han)
+
+[[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] adds a pre-Ten-Attendants layer before the named faction hardens in the later succession crisis. The episode does not yet present the full bloc, but [[CaoJieLateHan|曹节]]'s death, [[ZhaoZhongLateHan|赵忠]]'s succession as acting dachangqiu, and eunuch pleading that protects [[EmpressDowagerHe|何皇后 / 何太后]] after [[WangMeirenLateHan|王美人]]'s poisoning show the palace channel already shaping personnel, family survival, and imperial interpretation.
+
+This makes the later Ten Attendants page less abrupt. By the time Hanji 934-946 show favorite slander, dowager dependence, and mutual destruction, the source has already placed eunuch power inside an inherited office line and a saved-debt relationship with the He household.
 
 [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds an earlier favorite-slander branch before the later Liu Tao, He Jin, and succession-crisis material. The source does not yet present the full Ten Attendants bloc, but it names [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] as imperial favorites whose claims against [[HuangfuSongLateHan|皇甫嵩]] lead to his recall, loss of seal, and fief reduction.
 
@@ -35,6 +39,7 @@ The group matters because palace access lets it move faster than its outside ene
 The source treats the Ten Attendants' end as a mutual-destruction prelude rather than a clean restoration. Killing the eunuchs does not restore court order; it creates the vacuum that [[DongZhuo|董卓]] exploits in [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[CaoJieLateHan|曹节]], [[ZhaoZhongLateHan|赵忠]], [[WangMeirenLateHan|王美人]], and [[EmpressDowagerHe|何太后]] - pre-faction office continuity and palace debt network.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], [[HuangfuSongLateHan|皇甫嵩]], and [[EmperorLingOfHan|汉灵帝]] - earlier favorite-slander branch before the later factional crisis.
 - [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - earlier accusation-filtering branch before the succession crisis.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[JianShuoLateHan|蹇硕]], [[ZhaoZhongLateHan|赵忠]], [[GuoShengLateHan|郭胜]], and [[HeJin|何进]] - pre-Hanji-944 eunuch-channel fracture around Jian Shuo's failed appeal.

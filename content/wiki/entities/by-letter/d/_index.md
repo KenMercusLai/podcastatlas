@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 7616
+wiki_total_pages: 7617
 wiki_pages:
   - key: "DDay"
     title: "D-Day"

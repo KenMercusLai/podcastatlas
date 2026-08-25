@@ -2,17 +2,20 @@
 title: "窦武 / Dou Wu (late Han)"
 type: entity
 tags: [person, late-han, official, party-prohibition, china]
-sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+last_updated: 2026-08-26
 ---
 
 # 窦武 / Dou Wu (late Han)
 
-窦武 / Dou Wu (late Han) enters the wiki through [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] as one of the older Party Prohibition-linked figures whom [[DongZhuo|董卓]] has rehabilitated after taking control of the court. The episode pairs him with [[ChenFanLateHan|陈蕃]] as part of a public repair gesture.
+[[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] first adds Dou Wu as an older victim of [[CaoJieLateHan|曹节]]'s eunuch-side politics, paired with [[ChenFanLateHan|陈蕃]] in the episode's summary of Cao Jie's record. The source therefore makes Dou Wu part of the old anti-eunuch grievance before later rehabilitation politics.
+
+[[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] later adds Dou Wu as one of the older Party Prohibition-linked figures whom [[DongZhuo|董卓]] has rehabilitated after taking control of the court. The episode pairs him with [[ChenFanLateHan|陈蕃]] as part of a public repair gesture.
 
 The source-scoped point is not that Dou Wu's grievance was false; it is that Dong Zhuo uses a real memory of injustice as legitimacy cover. In this episode, rehabilitation of Dou Wu and related party figures helps Dong Zhuo claim moral correction while the same regime is deposing a young emperor and killing the He-family base.
 
 ## Connections
+- [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[CaoJieLateHan|曹节]], and [[ChenFanLateHan|陈蕃]] - older anti-eunuch grievance before later rehabilitation.
 - [[ChenFanLateHan|陈蕃]] - paired rehabilitated figure in the source.
 - [[DongZhuo|董卓]] - powerholder who uses the rehabilitation politically.
 - [[PartyProhibitionRehabilitation|党人翻案合法性]] - concept grounded by this rehabilitation move.

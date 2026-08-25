@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死](sources/zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic.md) — 芮淇讲透资治通鉴 episode on Han Lingdi's private-treasury extraction, Lyu Qiang's public/private finance remonstrance and appointment-accountability warning, Wang Meiren and Liu Xie's foster transfer, and Cao Jie-to-Zhao Zhong eunuch continuity.
 - [商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？](sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335.md) — 商业就是这样 short episode on HYROX's copyable fitness-race rules, trademark protection, participation-data moat, gym authorization, global rankings, and sponsor/event network.
 - [699. The Troubles: Return of the IRA (Part 3)](sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642.md) — The Rest Is History episode on the 1970-1971 Troubles escalation through the Provisional IRA, Falls Curfew, internment, Operation Demetrius, interrogation abuse, loyalist mobilization, and bombing retaliation.
 - [《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？](sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz.md) — 芮淇讲透资治通鉴 episode on Lü Bu's failed Yuan Shu rescue attempt, Zhang Yang's aborted aid, Cao Cao's water siege of Xiapi, and Hou Cheng/Song Xian/Wei Xu's defection after the alcohol-ban dispute.
@@ -1547,6 +1548,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马元义 / Ma Yuanyi (late Han)](entities/MaYuanyiLateHan.md) — Taiping Dao organizer whose regional believer coordination and palace contacts are exposed before the early Yellow Turban launch.
 - [唐周 / Tang Zhou (late Han)](entities/TangZhouLateHan.md) — Taiping Dao disciple whose disclosure of Zhang Jiao's plan triggers Ma Yuanyi's arrest and the early Yellow Turban uprising.
 - [吕强 / Lyu Qiang (late Han)](entities/LyuQiangLateHan.md) — Eunuch adviser who urges party-ban amnesty and anti-corruption measures before Zhao Zhong and Xia Yun's accusation drives his suicide.
+- [曹节 / Cao Jie (late Han eunuch)](entities/CaoJieLateHan.md) — Senior late-Han eunuch whose death in Hanji 921 opens Zhao Zhong's acting dachangqiu succession and whose earlier persecution of Chen Fan and Dou Wu marks old anti-eunuch grievance.
 - [夏韵 / Xia Yun (late Han)](entities/XiaYunLateHan.md) — Eunuch favorite who joins Zhao Zhong in accusing Lyu Qiang after his crisis-repair advice.
 - [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
 - [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
@@ -9146,6 +9148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
+- [帝王私库进奉盘剥 / Imperial Private Treasury Extraction](concepts/ImperialPrivateTreasuryExtraction.md) — Late-Han pattern where Emperor Ling's private-store demands convert public tribute and local supply into extra extraction before later palace-construction fees.
 - [修宫钱转嫁盘剥 / Palace Construction Fee Extraction](concepts/PalaceConstructionFeeExtraction.md) — Late-Han pattern where palace-construction and office-entry charges move through eunuch and appointment channels until local officials push the cost onto the people.
 - [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where the court converts an unsuppressed rebel force into delegated order by granting the leader office.
 - [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where purchased or fee-burdened public office damages institutional credibility, officeholder reputation, or both.

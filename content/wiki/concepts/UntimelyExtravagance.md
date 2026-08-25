@@ -2,7 +2,7 @@
 title: "时绌举赢 / Untimely Extravagance"
 type: concept
 tags: [governance, statecraft, political-ethics, pre-qin-history, warring-states, late-han]
-sources: [zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-26
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-26
 时绌举赢 / untimely extravagance is the political-ethics concept [[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] draws from [[HanZhaohou|韩昭侯]] building a high gate after [[QinState|秦国]] attacks [[HanState|韩国]] at [[YiyangWarringStates|宜阳]] and after Han suffers drought. The point is not that building is always wrong; it is that the same action becomes politically wrong when the state's condition cannot bear it.
 
 The source uses [[QuYijiu|屈宜臼]] to define "time" as circumstance rather than calendar date. A ruler must read war, disaster, treasury pressure, and public burden before turning private delight into a visible state project.
+
+[[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] adds an 181 CE late-Han private-store and pleasure variant before the explicit Hanji 922 hardship list. [[EmperorLingOfHan|汉灵帝]] pursues private wealth, extra tribute goods, West Garden display, palace games, and intimacy with favorites while [[LyuQiangLateHan|吕强]] names the local burden created by those demands. The extravagance is untimely because private desire is being financed through stressed public channels before the Yellow Turban crisis fully erupts.
 
 [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] adds a pre-palace-finance late-Han variant through [[EmperorLingOfHan|汉灵帝]]. Epidemic, drought, palace fire, Yellow River flooding, landslide, and the [[BandunMan|板楯蛮]] rebellion sit beside Ling's 400-chi tower, hunting trips, and court travel, making visible display politically ugly before Hanji 932 explains the later financing machinery.
 
@@ -29,6 +31,7 @@ The source's criticism is not anti-engineering. Bi Lan's devices become politica
 - Ruler pleasure becomes politically exposed when it is funded or displayed during hardship.
 - War and disaster change the moral meaning of ordinary prestige projects.
 - The concept links personal indulgence to public legitimacy because subjects and advisers read actions against the state's condition.
+- Hanji 921 adds that private-store wealth and pleasure display are already untimely when they create local burden before the Yellow Turban crisis erupts.
 - Hanji 922 adds that even before the palace-finance machinery is detailed, imperial display reads as untimely when it appears beside epidemic, flood, landslide, fire, and rebellion.
 - Hanji 932 adds that a prestige project becomes more politically damaging when financing mechanisms turn it into extra local taxation, requisition loss, and appointment-fee extraction.
 - Hanji 936 adds that mechanical spectacle and palace construction can become untimely when they appear beside rebellion, frontier danger, and official hunger.
@@ -36,6 +39,7 @@ The source's criticism is not anti-engineering. Bi Lan's devices become politica
 - Hanji 178 part 2 adds that founding rulers can translate palace grandeur into authority claims, but critics may still judge the timing against war, poverty, and precedent for later excess.
 
 ## Connections
+- [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[EmperorLingOfHan|汉灵帝]], [[LyuQiangLateHan|吕强]], and [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] - private-store and pleasure variant before open Yellow Turban crisis.
 - [[HanZhaohou|韩昭侯]] and [[QuYijiu|屈宜臼]] - source ruler and critic.
 - [[HanState|韩国]], [[QinState|秦国]], and [[YiyangWarringStates|宜阳]] - hardship context behind the warning.
 - [[Mengchangjun|孟尝君 / 田文]], [[GongsunXu|公孙须]], [[DengTuzhi|邓图直]], and [[ChuState|楚国]] - Zhouji 42 luxury-gift and refusal branch.

@@ -11747,3 +11747,11 @@ Added source page for The Rest Is History episode 693 on Francis Drake before th
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] ingest | 《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死
+
+Added source page for Hanji 921: Emperor Ling's 181 CE private-treasury extraction, Lyu Qiang's remonstrance on public/private wealth and appointment accountability, West Garden pleasure politics, Wang Meiren's poisoning and Liu Xie's transfer to Dong Taihou, and Cao Jie-to-Zhao Zhong eunuch continuity. Created Cao Jie (late-Han eunuch) and Imperial Private Treasury Extraction; updated linked late-Han entity and concept pages. No settled contradiction found; transcript wording around the extra fee term is kept source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

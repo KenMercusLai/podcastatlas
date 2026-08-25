@@ -2,11 +2,15 @@
 title: "赵忠 / Zhao Zhong (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
-last_updated: 2026-08-25
+sources: [zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5]
+last_updated: 2026-08-26
 ---
 
 # 赵忠 / Zhao Zhong (late Han)
+
+[[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] adds Zhao Zhong's pre-Yellow-Turban favorite status before the later resentment, palace-finance, and succession-crisis branches. After [[CaoJieLateHan|曹节]] dies in 181 CE, Zhao Zhong succeeds him as acting dachangqiu; the episode describes him as rough, proud, and greedy, while [[EmperorLingOfHan|汉灵帝]] is said to treat him with intimate dependency.
+
+This early branch makes the later Zhao Zhong material look like continuity rather than sudden corruption. Before he blocks [[FuXie|傅燮]]'s reward, joins [[ZhangRangLateHan|张让]] in palace-finance extraction, or becomes a target in the [[TenAttendantsLateHan|十常侍]] collapse, he is already the successor to an older eunuch-power line associated with Cao Jie, [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]].
 
 [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]] adds Zhao Zhong's earlier resentment toward [[FuXie|傅燮]]. Zhao Zhong sees Fu Xie's memorial criticizing the eunuch-rooted court environment behind the [[YellowTurbansLateHan|Yellow Turban]] crisis, resents it, and later slanders Fu Xie so that military merit does not become a fief.
 
@@ -33,6 +37,7 @@ The source matters because Zhao Zhong appears first as part of the attempted eun
 His page is intentionally narrow. Zhao Zhong marks the transition from targeted revenge against leading [[TenAttendantsLateHan|十常侍]] figures into the larger purge in which Yuan Shao closes the North Palace gates and kills eunuchs indiscriminately.
 
 ## Connections
+- [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[CaoJieLateHan|曹节]], [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]] - inherited eunuch-power line and pre-Yellow-Turban favorite status.
 - [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]], [[FuXie|傅燮]], [[YellowTurbansLateHan|黄巾军]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - resentment and blocked reward after Fu Xie's eunuch warning.
 - [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], [[LuKangLateHan|陆康]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - palace-construction finance and remonstrance-recoding branch.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangRangLateHan|张让]], and [[EmperorLingOfHan|汉灵帝]] - anti-corruption memorial and slander-driven demotion.

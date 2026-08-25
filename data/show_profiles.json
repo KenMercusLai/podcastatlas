@@ -2336,8 +2336,8 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-24",
       "latest_episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
-      "source_note_count": 410,
-      "topic_matched_source_note_count": 248,
+      "source_note_count": 411,
+      "topic_matched_source_note_count": 249,
       "topics": [
         {
           "key": "history",
@@ -2349,7 +2349,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 65
+          "source_note_count": 66
         },
         {
           "key": "economics",
@@ -2405,7 +2405,7 @@
           "title": "汉献帝 / Emperor Xian of Han",
           "url": "/wiki/entities/emperorxianofhan/",
           "kind": "person",
-          "episode_count": 31
+          "episode_count": 32
         },
         {
           "key": "YuanShao",
