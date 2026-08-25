@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利
+
+Added source page for Hanji 928: Huangfu Song and Zhu Jun's Runan-Chen Yellow Turban victories, Huangfu Song's credit-sharing report, Lu Zhi's Guangzong siege against Zhang Jiao, Zuo Feng's inspection after Lu Zhi refuses a gift, Emperor Ling's slander-driven recall of Lu Zhi, and Dong Zhuo's replacement setup before Hanji 929. Created Zuo Feng and Inspection Gift Gatekeeping pages; updated connected late-Han actor and court-access, feedback-collapse, and commander-replacement concepts. No settled contradiction found; the host's workplace and gift-politics lesson is kept source-scoped rather than treated as an endorsement or independent administrative rule.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》930丨如何破除贪心和不甘心？
 
 Added source page for Hanji 930: the opening greed/unwillingness frame, Gai Xun's Qiang-front reputation and Hanyang recommendation, Zhu Jun's Nanyang Yellow Turban campaign against Zhao Hong, Han Zhong, and Sun Xia, Zhang Wen's anti-recall argument, and Sun Jian's early recognition under Zhu Jun. Created Yellow Turbans, Zhang Mancheng, Zhao Hong, Han Zhong, Sun Xia, Qin Jie, Xu Qiu, Yang Yong, Dian Wu, Xianling Qiang, Xu Chang, Zhang Ning, and Exchangeable Capability pages; updated related late-Han actor, command, reputation, surrender, and self-cultivation concepts. No settled contradiction found; transcript Zhu Jun, Zhang Ning, and Xu Chang identity cautions are preserved as source-scoped.
@@ -11558,6 +11562,10 @@ Ran health, identity validation, and lint. Health passed across 14,318 wiki page
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》929丨对事不对人，你信了吗？
 
 Added source page for Hanji 929: Zhang Xiu's Ba Commandery Five-Pecks-style rising, Huangfu Song's 184 CE Yellow Turban victories over Zhang Liang and Zhang Bao, Li Xie's punished-but-vindicated warning against restoring Anping Wang Liu Xu, and Gai Xun's public-duty separation from private resentment around Su Zhenghe and Zuo Chang. Created Zhang Liang (Yellow Turban), Zhang Bao (Yellow Turban), Liu Xu, Li Xie, Li Gu, Liu Suan, Su Zhenghe, Liang Hu, Zuo Chang, Xin Zeng, Ling Zheng, Chen Yi (Jincheng), and Public Duty Over Private Grievance pages; updated connected Huangfu Song, Yellow Turban, Zhang Jiao, Zhang Xiu, Wudoumi Dao, Ba Commandery, Dong Zhuo, Gai Xun, Bian Zhang, Han Sui, Beigong Boyu, Li Wenhou, Xianling Qiang, commander-replacement, and shared-hardship morale pages. No settled contradiction found; Zhang Liang, Zhang Bao, and Chen Yi were disambiguated from same-romanization existing pages, while Bo Si, Kong Chang, Cangting, Guangzong, and Quyang remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

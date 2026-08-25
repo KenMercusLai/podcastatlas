@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c1c272cdaec6b67eb617285242627455eeef6fae3f5f11f5f92655fef97f8a58",
       "cdea86fef2d1b91587e33bccd808571c8e332d1e8df05f72d32ca56d4e2d9343",
       "d13bad81a6f78413000d2906dc9de9254f6a0c53d1b3f3d1e14128e246b3930c",
       "b960df0e17041feddf8181dce42c978aac4011db32e28e9771d14a81aa20e091",
@@ -214,11 +215,43 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 212
+    "paragraph_count": 213
   },
-  "overview_commit": "072337df932654057a3322373ce40fbc54629fd7",
-  "overview_digest": "1a6a871028495a0c26ecedbdfa675da5fd64d74a0256c003fe07c9529ec62b33",
+  "overview_commit": "d73d2fbd35749987232ee37ee4a2c0e39dd50ec7",
+  "overview_digest": "faecd624dc531a5e519b30e274f107a0998e3f86a51d7dfd5956d7ca051cbb34",
   "paragraphs": [
+    {
+      "id": "c1c272cdaec6b67eb617285242627455eeef6fae3f5f11f5f92655fef97f8a58",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 184 CE late-Han Yellow Turban field immediately before [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]]. It adds [[ZuoFengLateHan|左丰]] and [[InspectionGiftGatekeeping|巡查送礼关口]], while extending [[HuangfuSongLateHan|皇甫嵩]], [[ZhuJunLateHan|朱儁]], [[LuZhiLateHan|卢植]], [[ZhangJiaoLateHan|张角]], [[YellowTurbansLateHan|黄巾军]], [[ChenStateLateHan|陈国]], [[EmperorLingOfHan|汉灵帝]], [[DongZhuo|董卓]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], and [[PoliticalSurvivalFirst|安全第一政治生存]]. Its core synthesis is that late-Han military competence can be overturned by captured reporting channels: Huangfu Song and Zhu Jun are still winning local campaigns, Lu Zhi is close to taking Guangzong, but Zuo Feng's inspection report turns gift refusal and siege preparation into a palace accusation that removes the commander and opens Dong Zhuo's replacement path. No settled contradiction is recorded; the source backfills Hanji 929's replacement-command failure, and the host's workplace gift-politics lesson remains source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BattlefieldCommanderReplacementRisk",
+        "ChenStateLateHan",
+        "CourtFeedbackCollapse",
+        "DongZhuo",
+        "EmperorLingOfHan",
+        "HuangfuSongLateHan",
+        "InspectionGiftGatekeeping",
+        "LuZhiLateHan",
+        "PalaceAccessMonopoly",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "YellowTurbansLateHan",
+        "ZhangJiaoLateHan",
+        "ZhuJunLateHan",
+        "ZuoFengLateHan",
+        "zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o",
+        "zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3"
+      ]
+    },
     {
       "id": "cdea86fef2d1b91587e33bccd808571c8e332d1e8df05f72d32ca56d4e2d9343",
       "primary_topic": "history-and-geopolitics",

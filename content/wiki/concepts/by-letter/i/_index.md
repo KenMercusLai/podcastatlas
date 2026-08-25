@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 5401
+wiki_total_pages: 5402
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "InsiderDissentStrategy"
     title: "Insider Dissent Strategy / 局内人异议策略"
     url: "/wiki/concepts/insiderdissentstrategy/"
+  - key: "InspectionGiftGatekeeping"
+    title: "Inspection Gift Gatekeeping / 巡查送礼关口"
+    url: "/wiki/concepts/inspectiongiftgatekeeping/"
   - key: "InspirationalNarrativeCommercialization"
     title: "Inspirational Narrative Commercialization / 励志叙事商业化"
     url: "/wiki/concepts/inspirationalnarrativecommercialization/"

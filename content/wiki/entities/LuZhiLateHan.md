@@ -2,11 +2,15 @@
 title: "卢植 / Lu Zhi (late Han)"
 type: entity
 tags: [person, late-han, official, scholar, china]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
+sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]
 last_updated: 2026-08-25
 ---
 
 # 卢植 / Lu Zhi (late Han)
+
+[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Lu Zhi's 184 CE [[YellowTurbansLateHan|Yellow Turban]] command before his later 189 CE court-remonstrance branch. As north zhonglang general, he defeats [[ZhangJiaoLateHan|张角]]'s force, surrounds Guangzong, and appears close to a major victory.
+
+The same source explains why this success does not protect him. [[EmperorLingOfHan|汉灵帝]] sends [[ZuoFengLateHan|左丰]] to inspect the camp because Lu Zhi holds a large force; Lu Zhi refuses his subordinates' suggestion to send a gift, and Zuo Feng returns with a report that recodes siege preparation as idle resting. Lu Zhi is then recalled to [[LuoyangLateHan|洛阳]] in a prison cart, making his early branch a case of [[InspectionGiftGatekeeping|巡查送礼关口]] and [[PalaceAccessMonopoly|宫廷接触垄断]] before [[DongZhuo|董卓]] replaces him.
 
 [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Lu Zhi's warning before the palace violence of Hanji 946. As a respected senior scholar-official, he tells [[HeJin|何进]] that [[DongZhuo|董卓]]'s entry into the capital will certainly produce disorder, but He Jin continues the summons.
 
@@ -23,6 +27,7 @@ The episode makes Lu Zhi the clearest remonstrance figure inside the forced repl
 This page is disambiguated from [[LuZhi|吕雉 / Lu Zhi]]. Its role is source-scoped to the late-Han Dong Zhuo branch.
 
 ## Connections
+- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZhangJiaoLateHan|张角]], [[ZuoFengLateHan|左丰]], [[EmperorLingOfHan|汉灵帝]], and [[InspectionGiftGatekeeping|巡查送礼关口]] - Guangzong siege, inspection report, and recall before Dong Zhuo's replacement command.
 - [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DongZhuo|董卓]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - warning that Dong Zhuo's entry will create disorder.
 - [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]], [[DuanGuiLateHan|段珪]], [[EmpressDowagerHe|何太后]], and [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] - gallery rebuke and release of the dowager during the palace flight.
 - [[DongZhuo|董卓]] - powerholder whose coerced deposition Lu Zhi contests.

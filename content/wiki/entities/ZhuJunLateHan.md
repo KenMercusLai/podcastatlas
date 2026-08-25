@@ -2,11 +2,15 @@
 title: "朱儁 / Zhu Jun (late Han)"
 type: entity
 tags: [person, late-han, court, official]
-sources: [zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]
+sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]
 last_updated: 2026-08-25
 ---
 
 # 朱儁 / Zhu Jun (late Han)
+
+[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Zhu Jun just before the fuller Nanyang campaign in Hanji 930. He fights beside [[HuangfuSongLateHan|皇甫嵩]] against the [[YellowTurbansLateHan|黄巾军]] in the Runan-[[ChenStateLateHan|陈国]] field, including the victory over Peng Tuo at Xihua.
+
+The episode's specific Zhu Jun contribution is mediated through Huangfu Song's report. Huangfu Song attributes merit to him, and the court rewards Zhu Jun as Xixiang marquis and promotes him to a new anti-rebel command. This gives the later Nanyang branch a stronger prelude: Zhu Jun enters that campaign with recently recognized military credit rather than appearing only after Zhang Mancheng's death.
 
 [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] backfills Zhu Jun's 184 CE [[YellowTurbansLateHan|Yellow Turban]] campaign before his later anti-[[DongZhuo|董卓]] role. After [[ZhangManchengLateHan|张曼成]] is killed, [[ZhaoHongLateHan|赵弘]] revives the rebel force and holds out for months against Zhu Jun, [[XuQiuLateHan|许秋]], and other Han forces. [[ZhangWenLateHan|张温]] then defends Zhu Jun against recall by warning that changing commanders in the middle of a long campaign is dangerous.
 
@@ -31,6 +35,7 @@ His move to Zhongmou and call for all provinces and commanderies to attack Dong 
 In the episode, Zhu Jun is angered by Guo Si's hostage-taking, falls ill, and dies. His role makes the ministerial side of the Li-Guo crisis bodily concrete: officials are not only symbolically humiliated by detention, but physically consumed by the stress and helplessness of being military hostages.
 
 ## Connections
+- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[HuangfuSongLateHan|皇甫嵩]], [[YellowTurbansLateHan|黄巾军]], and [[ChenStateLateHan|陈国]] - Runan-Chen campaign credit and promotion before the Nanyang branch.
 - [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[YellowTurbansLateHan|黄巾军]], [[ZhangManchengLateHan|张曼成]], [[ZhaoHongLateHan|赵弘]], [[HanZhongLateHan|韩忠]], [[SunXiaLateHan|孙夏]], [[QinJieLateHan|秦颉]], [[SunJianLateHan|孙坚]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - 184 CE Nanyang campaign and siege-release branch.
 - [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[ChangAnHanCapital|长安]], and [[AntiDongZhuoCoalition|反董卓联盟]] - refusal of appointment and warning against westward relocation.
 - [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[DongZhuo|董卓]], [[GeXunLateHan|葛勋]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - military discussion, threat, and softened remonstrance scene.

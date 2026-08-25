@@ -2,11 +2,15 @@
 title: "黄巾军 / Yellow Turbans (late Han)"
 type: entity
 tags: [movement, rebellion, late-han]
-sources: [zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
+sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]
 last_updated: 2026-08-25
 ---
 
 # 黄巾军 / Yellow Turbans (late Han)
+
+[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] supplies the immediate 184 CE campaign layer before Hanji 929's main-force suppression. [[HuangfuSongLateHan|皇甫嵩]] and [[ZhuJunLateHan|朱儁]] defeat Yellow Turban forces in the Runan-[[ChenStateLateHan|陈国]] field, while [[LuZhiLateHan|卢植]] drives [[ZhangJiaoLateHan|张角]] back into Guangzong.
+
+The source also shows how court politics interrupts military pressure on the movement. Lu Zhi's siege appears close to success, but [[ZuoFengLateHan|左丰]]'s inspection report leads [[EmperorLingOfHan|汉灵帝]] to recall him and appoint [[DongZhuo|董卓]] instead. This creates the setup for Hanji 929's replacement-command failure before Huangfu Song later breaks the main Yellow Turban forces.
 
 [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] supplies the main-force suppression layer for the Yellow Turbans in 184 CE. [[HuangfuSongLateHan|皇甫嵩]] defeats them at Cangting, then destroys the Guangzong and Quyang branches by killing [[ZhangLiangYellowTurban|张梁]] and [[ZhangBaoYellowTurban|张宝]] after [[ZhangJiaoLateHan|张角]] has already died.
 
@@ -19,6 +23,7 @@ The same source then follows successive leaders [[HanZhongLateHan|韩忠]] and [
 This page covers the broad late-Han Yellow Turban movement field as it appears in Hanji 930. It remains distinct from later or regional successor pages such as [[QingzhouYellowTurbans|青州黄巾军]], [[BaiboArmy|白波军]], and [[HeishanArmy|黑山军]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[LuZhiLateHan|卢植]], [[ZuoFengLateHan|左丰]], [[DongZhuo|董卓]], [[HuangfuSongLateHan|皇甫嵩]], and [[ZhuJunLateHan|朱儁]] - Runan-Chen victories, Guangzong siege, and inspection-triggered replacement.
 - [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[HuangfuSongLateHan|皇甫嵩]], [[ZhangLiangYellowTurban|张梁]], [[ZhangBaoYellowTurban|张宝]], and [[ZhangJiaoLateHan|张角]] - main-force suppression in 184 CE.
 - [[ZhangJiaoLateHan|张角]] and [[TaipingDao|太平道]] - earlier religious-mobilization background for the Yellow Turban uprising.
 - [[ZhangManchengLateHan|张曼成]], [[ZhaoHongLateHan|赵弘]], [[HanZhongLateHan|韩忠]], and [[SunXiaLateHan|孙夏]] - Nanyang branch leaders in Hanji 930.

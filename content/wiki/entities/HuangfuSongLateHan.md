@@ -2,11 +2,15 @@
 title: "皇甫嵩 / Huangfu Song (late Han)"
 type: entity
 tags: [late-han, official, military, chang-an]
-sources: [zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 皇甫嵩 / Huangfu Song (late Han)
+
+[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Huangfu Song immediately before the larger Hanji 929 Yellow Turban victory sequence. He and [[ZhuJunLateHan|朱儁]] continue suppressing the [[YellowTurbansLateHan|黄巾军]] around Runan and [[ChenStateLateHan|陈国]], defeating Bo Cai around Yangdi and Peng Tuo at Xihua.
+
+The source also gives Huangfu Song a credit-sharing branch. After the Runan-Chen victories, he reports Zhu Jun's merit to the court, helping Zhu Jun receive a marquis title and a new campaign command. This makes Huangfu Song's early 184 profile not only battlefield competence, but also the political handling of colleague merit before later episodes show how court favorites can still damage his own record.
 
 [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] backfills Huangfu Song's decisive 184 CE [[YellowTurbansLateHan|Yellow Turban]] campaign. After defeating the rebels at Cangting and capturing Bo Si, he studies [[ZhangLiangYellowTurban|张梁]] at Guangzong, waits for camp laxness, attacks at dawn, and then turns to [[ZhangBaoYellowTurban|张宝]] at Quyang after [[ZhangJiaoLateHan|张角]] has already died.
 
@@ -36,6 +40,7 @@ His dismissal appears beside [[LiuBiao|Liu Biao]]'s promotion to Zhengnan genera
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], and [[ChenStateLateHan|陈国]] - Runan-Chen victories and credit-sharing report before the main Guangzong/Quyang sequence.
 - [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[YellowTurbansLateHan|黄巾军]], [[ZhangJiaoLateHan|张角]], [[ZhangLiangYellowTurban|张梁]], [[ZhangBaoYellowTurban|张宝]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - 184 CE main Yellow Turban suppression and leadership-morale branch.
 - [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[BeigongBoyuLateHan|北宫伯玉]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - earlier Sanfu assignment, refused bribery, anti-corruption memorial, and slander-driven demotion.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[WangGuoLateHan|王国]], [[ChenCang|陈仓]], [[ChenCangBattleLateHan|陈仓之战]], [[DongZhuo|董卓]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - delay-then-pursue victory and its resentment cost.
